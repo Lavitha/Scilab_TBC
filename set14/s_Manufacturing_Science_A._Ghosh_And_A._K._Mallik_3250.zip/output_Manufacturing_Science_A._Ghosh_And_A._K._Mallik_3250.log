@@ -1,0 +1,4948 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 71
+
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX1.1/Ex2_1.sce #
+ 
+ 
+ h  =
+ 
+    15.  
+ 
+ l  =
+ 
+    50.  
+ 
+ w  =
+ 
+    25.  
+ 
+ h1  =
+ 
+    15.  
+ 
+ g  =
+ 
+    981.  
+ 
+ Ag  =
+ 
+    5.  
+ 
+ 
+
+ # PROBLEM 2.1 # 
+ 
+ v3  =
+ 
+    171.55174  
+ 
+ V  =
+ 
+    18750.  
+ 
+ tf1  =
+ 
+    21.859294  
+ 
+ Am  =
+ 
+    1250.  
+ 
+ tf2  =
+ 
+    43.718589  
+ 
+
+ Filling time for first design = 21.859294 sec, 
+ Filling time for second design = 43.718589 sec 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ h  =
+ 
+    15.  
+ 
+ l  =
+ 
+    50.  
+ 
+ w  =
+ 
+    25.  
+ 
+ h1  =
+ 
+    15.  
+ 
+ g  =
+ 
+    981.  
+ 
+ Ag  =
+ 
+    5.  
+ 
+ Dm  =
+ 
+    7800.  
+ 
+ Neta  =
+ 
+    0.00496  
+ 
+ theta  =
+ 
+    90.  
+ 
+ Eq  =
+ 
+    25.  
+ 
+ 
+
+ # PROBLEM 2.2 # 
+ 
+ v3  =
+ 
+    1.7155174  
+ 
+ d  =
+ 
+    0.0252313  
+ 
+ Re  =
+ 
+    68068.804  
+ 
+ f  =
+ 
+    0.0048971  
+ 
+ L  =
+ 
+    0.12  
+ 
+ Cd  =
+ 
+    0.7013663  
+ 
+ v3_  =
+ 
+    1.2032061  
+ 
+ Re_  =
+ 
+    47741.164  
+ 
+ f_  =
+ 
+    0.0053512  
+ 
+ Cd_  =
+ 
+    0.6905715  
+ 
+ v3__  =
+ 
+    1.1846874  
+ 
+ V  =
+ 
+    18750.  
+ 
+ tf  =
+ 
+    31.653919  
+ 
+
+ Filling time for first design = 31.653919 sec.  
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ Hi  =
+ 
+    1.2  
+ 
+ H  =
+ 
+    0.05  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Dm  =
+ 
+    2700.  
+ 
+ Neta  =
+ 
+    0.00273  
+ 
+ d  =
+ 
+    0.075  
+ 
+ D  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 2.3 # 
+ 
+ v3  =
+ 
+    4.852216  
+ 
+ Re  =
+ 
+    359917.12  
+ 
+ ef  =
+ 
+    0.075  
+ 
+ Cd  =
+ 
+    0.9644856  
+ 
+ ef_  =
+ 
+    0.82  
+ 
+ Re_  =
+ 
+    0.5954913  
+ 
+ v3_  =
+ 
+    0.9904544  
+ 
+ Re_  =
+ 
+    73467.774  
+ 
+ At  =
+ 
+    0.7853982  
+ 
+ An  =
+ 
+    0.0044179  
+ 
+ Cd  =
+ 
+    0.96  
+ 
+ tf  =
+ 
+    91.596179  
+ 
+ m  =
+ 
+    55.563236  
+ 
+ m_  =
+ 
+    27.781618  
+ 
+
+ Time required to empty the ladle = 91.596179 sec, 
+ Discharge rate are - 
+ Initially = 55.563236 Kg/sec 
+ When the ladle is 75 percent empty = 27.781618 Kg/sec.  
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ thetaF  =
+ 
+    1540.  
+ 
+ Theta0  =
+ 
+    28.  
+ 
+ L  =
+ 
+    272000.  
+ 
+ Dm  =
+ 
+    7850.  
+ 
+ c  =
+ 
+    1170.  
+ 
+ k  =
+ 
+    0.8655  
+ 
+ D  =
+ 
+    1600.  
+ 
+ h  =
+ 
+    0.1  
+ 
+ b  =
+ 
+    10.  
+ 
+ r  =
+ 
+    0.05  
+ 
+ 
+
+ # PROBLEM 2.5 # 
+ 
+ lambda  =
+ 
+    1.3256201  
+ 
+ Beta1  =
+ 
+    1.4958021  
+ 
+ Alpha  =
+ 
+    0.0000005  
+ 
+ ts1  =
+ 
+    2416.7432  
+ 
+ ts1_  =
+ 
+    0.6713176  
+ 
+ 
+ p  =
+ 
+                                    2  
+  - 0.4418734 - 1.4958021Beta + Beta   
+ 
+ Beta2  =
+ 
+    1.7485155  
+  - 0.2527134  
+ 
+ The value of Beta2 is 1.748516,  The value of Beta2 is -0.252713,  
+
+ We only take the positive value of Beta2 , 
+ Hence Beta2=1.75 
+ r1  =
+ 
+    0.0166667  
+ 
+ ts2  =
+ 
+    196.18246  
+ 
+ ts2_  =
+ 
+    0.0544951  
+ 
+
+
+ Solidification time for slab-shaped casting = 0.671318 hr,
+ Solidification time for sphere = 0.054495 hr 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ thetaF  =
+ 
+    1540.  
+ 
+ ThetaO  =
+ 
+    28.  
+ 
+ L  =
+ 
+    272000.  
+ 
+ Dm  =
+ 
+    7850.  
+ 
+ Cs  =
+ 
+    670.  
+ 
+ C  =
+ 
+    376.  
+ 
+ Ks  =
+ 
+    83.  
+ 
+ K  =
+ 
+    398.  
+ 
+ D  =
+ 
+    8960.  
+ 
+ h  =
+ 
+    0.1  
+ 
+ 
+
+ # PROBLEM 2.6 # 
+ 
+ zeta1  =
+ 
+    0.98  
+ 
+ AlphaS  =
+ 
+    0.0000158  
+ 
+ ts1  =
+ 
+    41.237681  
+ 
+ ts1_  =
+ 
+    0.0114549  
+ 
+ Phi  =
+ 
+    0.5705869  
+ 
+ zeta2  =
+ 
+    0.815  
+ 
+ ts2  =
+ 
+    59.625381  
+ 
+ ts2_  =
+ 
+    0.0165626  
+ 
+ thetaS  =
+ 
+    684.36429  
+ 
+
+ Solidification time for slab-shaped casting when the casting is done in a water cooled copper mould = 0.011455 hr,
+ Solidification time for slab-shaped casting when the casting is done in a very thick copper mould = 0.016563 hr,
+ The surface temperature of the mould = 684.364285° C 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ thetaF  =
+ 
+    1540.  
+ 
+ thetaO  =
+ 
+    28.  
+ 
+ L  =
+ 
+    272000.  
+ 
+ Dm  =
+ 
+    7850.  
+ 
+ Cs  =
+ 
+    670.  
+ 
+ C  =
+ 
+    376.  
+ 
+ Ks  =
+ 
+    83.  
+ 
+ K  =
+ 
+    398.  
+ 
+ D  =
+ 
+    8960.  
+ 
+ h  =
+ 
+    0.1  
+ 
+ hF  =
+ 
+    1420.  
+ 
+ 
+
+ # PROBLEM 2.7 # 
+ 
+ AlphaS  =
+ 
+    0.0001181  
+ 
+ thetaS  =
+ 
+    982.  
+ 
+ h1  =
+ 
+    2230.2334  
+ 
+ a  =
+ 
+    1.3415235  
+ 
+ delta  =
+ 
+    0.05  
+ 
+ ts  =
+ 
+    192.39576  
+ 
+ ts_  =
+ 
+    0.0534433  
+ 
+ h2  =
+ 
+    3908.6655  
+ 
+ gama  =
+ 
+    2.1921667  
+ 
+ thetaS_  =
+ 
+    672.15115  
+ 
+
+ Solidification time = 0.053443 hr,
+  The surface temperature of the mould = 672.151154 ° C 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ A  =
+ 
+    450.  
+ 
+ v  =
+ 
+    0.05  
+ 
+ t  =
+ 
+    0.0125  
+ 
+ thetaF  =
+ 
+    1500.  
+ 
+ thetaP  =
+ 
+    1550.  
+ 
+ thetaO  =
+ 
+    20.  
+ 
+ L  =
+ 
+    268000.  
+ 
+ Dm  =
+ 
+    7680.  
+ 
+ Cs  =
+ 
+    670.  
+ 
+ Cm  =
+ 
+    755.  
+ 
+ Ks  =
+ 
+    76.  
+ 
+ hF  =
+ 
+    1420.  
+ 
+ Dtheta  =
+ 
+    10.  
+ 
+ 
+
+ # PROBLEM 2.8 # 
+ 
+ L_  =
+ 
+    305750.  
+ 
+ x  =
+ 
+    0.3083401  
+ 
+ y  =
+ 
+    0.2335526  
+ 
+ L_/(Cs(thetaF-thetaO))=0.308340,
+ hF*t/Ks=0.233553 
+ z  =
+ 
+    0.11  
+ 
+ lm  =
+ 
+    1.0666836  
+ 
+ Z  =
+ 
+    0.28  
+ 
+ Q  =
+ 
+    2018752.  
+ 
+ m  =
+ 
+    48.065525  
+ 
+
+ The mould length = 1.066684 meter,
+  The cooling water requirement = 48.065525 Kg/sec 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ a  =
+ 
+    15.  
+ 
+ Sh  =
+ 
+    0.065  
+ 
+ 
+
+ # PROBLEM 2.9 # 
+ 
+ Vc  =
+ 
+    3375.  
+ 
+ Vr  =
+ 
+    658.125  
+ 
+ h  =
+ 
+    9.427709  
+ 
+ Rr  =
+ 
+    0.6364218  
+ 
+ Rc  =
+ 
+    0.4  
+ 
+(A/V)r=0.636422, (A/V)c=0.400000
+ Hence Rr is greater than Rc 
+ dmin  =
+ 
+    15.  
+ 
+ Vr_  =
+ 
+    2650.7188  
+ 
+
+ With minimum value of d Vr=2650 cm^3 .
+ This valume is much more than the minimum Vr necessary. 
+Let us now consider the top riser when the optimum cylindrical shape is obtained with h=d/2 
+and again (A/V)r = 6/d. However, with a large top riser,
+ the cube loses its top surface for the purpose of heat dissipation. 
+ Rc_  =
+ 
+    0.3333333  
+ 
+ dmin_  =
+ 
+    18.  
+ 
+
+ d should be greater than or equal to 18 cm 
+ Vr__  =
+ 
+    2290.221  
+ 
+
+ The riser volume with minimum diameter is 2290 cm^3 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ A  =
+ 
+    900.  
+ 
+ ti  =
+ 
+    6.  
+ 
+ pA  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    400.  
+ 
+ Ys  =
+ 
+    0.35  
+ 
+ Ys_  =
+ 
+    0.4  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ 
+
+ # PROBLEM 3.1 # 
+ 
+ tf  =
+ 
+    4.8  
+ 
+ Ys_a  =
+ 
+    0.375  
+ 
+ r  =
+ 
+    200.  
+ 
+ thetaI  =
+ 
+    0.0774597  
+ 
+ lambdaI  =
+ 
+    5.9856649  
+ 
+ lambdaN  =
+ 
+    1.8771147  
+ 
+ thetaN  =
+ 
+    0.0226855  
+ 
+
+ The final srip thickness is 4.800000 mm, 
+ The avg shear yield stress during the process is 0.375000 KN/mm^2, 
+ The angle subtended by the deformation zone at the roll centre is 0.077460 rad, 
+ The location of neutral point is 0.022685 rad. 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ A  =
+ 
+    900.  
+ 
+ w  =
+ 
+    150.  
+ 
+ ti  =
+ 
+    6.  
+ 
+ pA  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    400.  
+ 
+ Ys  =
+ 
+    0.35  
+ 
+ Ys_  =
+ 
+    0.4  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ v  =
+ 
+    30.  
+ 
+ 
+
+ # PROBLEM 3.2 # 
+ 
+ tf  =
+ 
+    4.8  
+ 
+ Ys_a  =
+ 
+    0.375  
+ 
+ r  =
+ 
+    200.  
+ 
+ thetaI  =
+ 
+    0.0774597  
+ 
+ lambdaI  =
+ 
+    5.9856649  
+ 
+ lambdaN  =
+ 
+    1.8771147  
+ 
+ thetaN  =
+ 
+    0.0226855  
+ 
+ Dtheta_a  =
+ 
+    0.0056714  
+ 
+ Dtheta_b  =
+ 
+    0.0068468  
+ 
+The values of P_after are
+ 
+ i  =
+ 
+    0.  
+ 
+ theta  =
+ 
+    0.  
+ y  =
+ 
+    2.4  
+ lambda  =
+ 
+    0.  
+ p_a  =
+ 
+    0.75  
+0.750000 
+ theta  =
+ 
+    0.0056714  
+ y  =
+ 
+    2.4032164  
+ lambda  =
+ 
+    0.4726139  
+ p_a  =
+ 
+    0.7873508  
+0.787351 
+ theta  =
+ 
+    0.0113427  
+ y  =
+ 
+    2.4128658  
+ lambda  =
+ 
+    0.9452274  
+ p_a  =
+ 
+    0.8287697  
+0.828770 
+ theta  =
+ 
+    0.0170141  
+ y  =
+ 
+    2.428948  
+ lambda  =
+ 
+    1.4178401  
+ p_a  =
+ 
+    0.8746700  
+0.874670 
+ theta  =
+ 
+    0.0226855  
+ y  =
+ 
+    2.4514631  
+ lambda  =
+ 
+    1.8904517  
+ p_a  =
+ 
+    0.9255005  
+0.925500 
+ 
+ I1  =
+ 
+    0.0188875  
+ 
+The values of P_before are
+ 
+ theta1  =
+ 
+    0.0226855  
+ y  =
+ 
+    2.4514631  
+ lambda  =
+ 
+    1.8904517  
+ p_b  =
+ 
+    0.9230351  
+ 0.923035 
+ theta1  =
+ 
+    0.0295322  
+ y  =
+ 
+    2.4872153  
+ lambda  =
+ 
+    2.4610113  
+ p_b  =
+ 
+    0.8845597  
+ 0.884560 
+ theta1  =
+ 
+    0.0363790  
+ y  =
+ 
+    2.5323433  
+ lambda  =
+ 
+    3.0315679  
+ p_b  =
+ 
+    0.8506627  
+ 0.850663 
+ theta1  =
+ 
+    0.0432258  
+ y  =
+ 
+    2.5868469  
+ lambda  =
+ 
+    3.602121  
+ p_b  =
+ 
+    0.8207799  
+ 0.820780 
+ theta1  =
+ 
+    0.0500726  
+ y  =
+ 
+    2.6507262  
+ lambda  =
+ 
+    4.1726697  
+ p_b  =
+ 
+    0.7944055  
+ 0.794406 
+ theta1  =
+ 
+    0.0569193  
+ y  =
+ 
+    2.7239812  
+ lambda  =
+ 
+    4.7432136  
+ p_b  =
+ 
+    0.7710865  
+ 0.771086 
+ theta1  =
+ 
+    0.0637661  
+ y  =
+ 
+    2.8066118  
+ lambda  =
+ 
+    5.3137517  
+ p_b  =
+ 
+    0.7504179  
+ 0.750418 
+ theta1  =
+ 
+    0.0706129  
+ y  =
+ 
+    2.8986181  
+ lambda  =
+ 
+    5.8842836  
+ p_b  =
+ 
+    0.7320385  
+ 0.732039 
+ theta1  =
+ 
+    0.0774597  
+ y  =
+ 
+    3.  
+ lambda  =
+ 
+    6.4548084  
+ p_b  =
+ 
+    0.7156268  
+ 0.715627 
+ 
+ I2  =
+ 
+    0.0446798  
+ 
+ F  =
+ 
+    12.713463  
+ 
+ F_  =
+ 
+    1907.0194  
+ 
+ T  =
+ 
+    103.1689  
+ 
+ T_  =
+ 
+    15475.336  
+ 
+ W  =
+ 
+    2.5  
+ 
+ P  =
+ 
+    77376.678  
+ 
+
+ The roll separating force = 1908 kN,
+ The power required in the rolling process = 77.376678 kW 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ A  =
+ 
+    900.  
+ 
+ w  =
+ 
+    150.  
+ 
+ ti  =
+ 
+    6.  
+ 
+ pA  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    400.  
+ 
+ Ys  =
+ 
+    0.35  
+ 
+ Ys_  =
+ 
+    0.4  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ mu_  =
+ 
+    0.005  
+ 
+ D  =
+ 
+    150.  
+ 
+ v  =
+ 
+    30.  
+ 
+ 
+
+ # PROBLEM 3.3 # 
+ 
+ tf  =
+ 
+    4.8  
+ 
+ Ys_a  =
+ 
+    0.375  
+ 
+ r  =
+ 
+    200.  
+ 
+ thetaI  =
+ 
+    0.0774597  
+ 
+ lambdaI  =
+ 
+    5.9856649  
+ 
+ lambdaN  =
+ 
+    1.8771147  
+ 
+ thetaN  =
+ 
+    0.0226855  
+ 
+ Dtheta_a  =
+ 
+    0.0056714  
+ 
+ Dtheta_b  =
+ 
+    0.0068468  
+ 
+ i  =
+ 
+    0.  
+ 
+ theta  =
+ 
+    0.  
+ y  =
+ 
+    2.4  
+ lambda  =
+ 
+    0.  
+ p_a  =
+ 
+    0.75  
+ theta  =
+ 
+    0.0056714  
+ y  =
+ 
+    2.4032164  
+ lambda  =
+ 
+    0.4726139  
+ p_a  =
+ 
+    0.7873508  
+ theta  =
+ 
+    0.0113427  
+ y  =
+ 
+    2.4128658  
+ lambda  =
+ 
+    0.9452274  
+ p_a  =
+ 
+    0.8287697  
+ theta  =
+ 
+    0.0170141  
+ y  =
+ 
+    2.428948  
+ lambda  =
+ 
+    1.4178401  
+ p_a  =
+ 
+    0.8746700  
+ theta  =
+ 
+    0.0226855  
+ y  =
+ 
+    2.4514631  
+ lambda  =
+ 
+    1.8904517  
+ p_a  =
+ 
+    0.9255005  
+ 
+ I1  =
+ 
+    0.0188875  
+ 
+ theta1  =
+ 
+    0.0226855  
+ y  =
+ 
+    2.4514631  
+ lambda  =
+ 
+    1.8904517  
+ p_b  =
+ 
+    0.9230351  
+ theta1  =
+ 
+    0.0295322  
+ y  =
+ 
+    2.4872153  
+ lambda  =
+ 
+    2.4610113  
+ p_b  =
+ 
+    0.8845597  
+ theta1  =
+ 
+    0.0363790  
+ y  =
+ 
+    2.5323433  
+ lambda  =
+ 
+    3.0315679  
+ p_b  =
+ 
+    0.8506627  
+ theta1  =
+ 
+    0.0432258  
+ y  =
+ 
+    2.5868469  
+ lambda  =
+ 
+    3.602121  
+ p_b  =
+ 
+    0.8207799  
+ theta1  =
+ 
+    0.0500726  
+ y  =
+ 
+    2.6507262  
+ lambda  =
+ 
+    4.1726697  
+ p_b  =
+ 
+    0.7944055  
+ theta1  =
+ 
+    0.0569193  
+ y  =
+ 
+    2.7239812  
+ lambda  =
+ 
+    4.7432136  
+ p_b  =
+ 
+    0.7710865  
+ theta1  =
+ 
+    0.0637661  
+ y  =
+ 
+    2.8066118  
+ lambda  =
+ 
+    5.3137517  
+ p_b  =
+ 
+    0.7504179  
+ theta1  =
+ 
+    0.0706129  
+ y  =
+ 
+    2.8986181  
+ lambda  =
+ 
+    5.8842836  
+ p_b  =
+ 
+    0.7320385  
+ theta1  =
+ 
+    0.0774597  
+ y  =
+ 
+    3.  
+ lambda  =
+ 
+    6.4548084  
+ p_b  =
+ 
+    0.7156268  
+ 
+ I2  =
+ 
+    0.0446798  
+ 
+ F  =
+ 
+    12.713463  
+ 
+ F_  =
+ 
+    1907.0194  
+ 
+ T  =
+ 
+    103.1689  
+ 
+ T_  =
+ 
+    15475.336  
+ 
+ W  =
+ 
+    2.5  
+ 
+ P_  =
+ 
+    77376.678  
+ 
+ Pl  =
+ 
+    3575.6614  
+ 
+ P  =
+ 
+    80952.339  
+ 
+
+ The mill power = 80.952339 kW 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ mu  =
+ 
+    0.25  
+ 
+ Y  =
+ 
+    7.  
+ 
+ h  =
+ 
+    6.  
+ 
+ L  =
+ 
+    150.  
+ 
+ V1  =
+ 
+    86400.  
+ 
+ V2  =
+ 
+    86400.  
+ 
+ w  =
+ 
+    96.  
+ 
+ 
+
+ # PROBLEM 3.4 # 
+ 
+ K  =
+ 
+    4.0414519  
+ 
+ x_  =
+ 
+    8.3177662  
+ 
+ l  =
+ 
+    48.  
+ 
+ ans  =
+ 
+    1.  
+ 
+ 
+ ans  =
+ 
+    0.  
+ 
+ I1  =
+ 
+    96.994845  
+ 
+ 
+ I2  =
+ 
+    1533.1067  
+ 
+ F  =
+ 
+    3260.2031  
+ 
+ F_  =
+ 
+    489030.47  
+ 
+
+ The maximum forging force = 4.890305e+05 N 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ mu  =
+ 
+    0.08  
+ 
+ Y  =
+ 
+    7.  
+ 
+ h  =
+ 
+    6.  
+ 
+ L  =
+ 
+    150.  
+ 
+ V1  =
+ 
+    86400.  
+ 
+ V2  =
+ 
+    86400.  
+ 
+ w  =
+ 
+    96.  
+ 
+ 
+
+ # PROBLEM 3.5 # 
+ 
+ K  =
+ 
+    4.0414519  
+ 
+ x_  =
+ 
+    68.721805  
+ 
+ l  =
+ 
+    48.  
+ 
+ ans  =
+ 
+    1.  
+ 
+ 
+ I  =
+ 
+    787.06459  
+ 
+ F  =
+ 
+    1574.1292  
+ 
+ F_  =
+ 
+    236119.38  
+ 
+
+ The maximum forging force = 2.361194e+05 N 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ r  =
+ 
+    150.  
+ 
+ Ti  =
+ 
+    50.  
+ 
+ Tf  =
+ 
+    25.  
+ 
+ mu  =
+ 
+    0.25  
+ 
+ K  =
+ 
+    4.  
+ 
+ 
+
+ # PROBLEM 3.6 # 
+ 
+ R  =
+ 
+    212.13203  
+ 
+ rs  =
+ 
+    170.28262  
+ 
+ ans  =
+ 
+    1.  
+ 
+ 
+ I  =
+ 
+    85420.898  
+ 
+ ans  =
+ 
+    0.  
+ 
+ 
+ I_  =
+ 
+    495305.07  
+ 
+ F  =
+ 
+    3648808.9  
+ 
+
+ The maximum forging force = 3.648809e+06 N 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ Di  =
+ 
+    12.7  
+ 
+ Df  =
+ 
+    10.2  
+ 
+ v  =
+ 
+    90.  
+ 
+ alpha  =
+ 
+    6.  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ Y  =
+ 
+    207.  
+ 
+ Y_  =
+ 
+    414.  
+ 
+ e  =
+ 
+    0.5  
+ 
+ 
+
+ # PROBLEM 3.7 # 
+ 
+ e_  =
+ 
+    0.4384285  
+ 
+ Y_e  =
+ 
+    388.50942  
+ 
+ Y__  =
+ 
+    297.75471  
+ 
+ phi  =
+ 
+    1.9514364  
+ 
+ Y_f  =
+ 
+    208.29358  
+ 
+ p  =
+ 
+    25530.385  
+ 
+ Dmax  =
+ 
+    0.5047492  
+ 
+
+ Drawing power = 25.530385 kW, 
+ The maximum passible reduction with same die = 0.504749 mm 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ Ri  =
+ 
+    30.  
+ 
+ t  =
+ 
+    3.  
+ 
+ Rb  =
+ 
+    40.  
+ 
+ K  =
+ 
+    210.  
+ 
+ Y  =
+ 
+    600.  
+ 
+ Beta  =
+ 
+    0.05  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ 
+
+ # PROBLEM 3.8 # 
+ 
+ Fh  =
+ 
+    52778.757  
+ 
+ Y_r  =
+ 
+    134.82647  
+ 
+ Y_z  =
+ 
+    157.75894  
+ 
+ F  =
+ 
+    89210.58  
+ 
+ Y_r_  =
+ 
+    512.7816  
+ 
+ Rp  =
+ 
+    9.1983929  
+ 
+
+ Drawing force = 89210 N, 
+ Minimum passible radius of the cup which can drawn from the given blank without causing a fracture = 9.198393 mm 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ L_  =
+ 
+    20.  
+ 
+ h  =
+ 
+    50.  
+ 
+ L  =
+ 
+    50.  
+ 
+ t  =
+ 
+    5.  
+ 
+ l  =
+ 
+    25.  
+ 
+ E  =
+ 
+    207.  
+ 
+ n  =
+ 
+    517.  
+ 
+ Y  =
+ 
+    345.  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ e  =
+ 
+    0.2  
+ 
+ theta  =
+ 
+    20.  
+ 
+ 
+
+ # PROBLEM 3.9 # 
+ 
+ Rp  =
+ 
+    10.155647  
+ 
+ Y_1  =
+ 
+    448.4  
+ 
+ Y_2  =
+ 
+    431.23546  
+ 
+ M  =
+ 
+    2583.989  
+ 
+ Fmax  =
+ 
+    206.20438  
+ 
+ Fmax_  =
+ 
+    4124.0876  
+ 
+ alpha  =
+ 
+    88.681608  
+ 
+ Ls  =
+ 
+    89.175451  
+ 
+
+ Maximum bending force = 4124 N, 
+ The required puch angle = 88.681608°,
+ The stock length = 89.175451 mm 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ L_  =
+ 
+    20.  
+ 
+ h  =
+ 
+    50.  
+ 
+ L  =
+ 
+    50.  
+ 
+ t  =
+ 
+    5.  
+ 
+ l  =
+ 
+    25.  
+ 
+ E  =
+ 
+    207.  
+ 
+ n  =
+ 
+    517.  
+ 
+ Y  =
+ 
+    345.  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ e  =
+ 
+    0.2  
+ 
+ theta  =
+ 
+    20.  
+ 
+ F  =
+ 
+    3000.  
+ 
+ 
+
+ # PROBLEM 3.10 # 
+ 
+ Rp  =
+ 
+    10.155647  
+ 
+ Y_1  =
+ 
+    448.4  
+ 
+ Y_2  =
+ 
+    431.23546  
+ 
+ M  =
+ 
+    2583.989  
+ 
+ Fmax  =
+ 
+    206.20438  
+ 
+ Fmax_  =
+ 
+    4124.0876  
+ 
+ lmin  =
+ 
+    34.367396  
+ 
+ Ls  =
+ 
+    89.175451  
+ 
+ lmax  =
+ 
+    44.587725  
+ 
+ Fmax_min  =
+ 
+    2312.3447  
+ 
+
+ Minimum value of die length = 34.367396 mm, 
+ Minimum required capacity of the machine = 2313 N 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ d  =
+ 
+    50.  
+ 
+ L  =
+ 
+    75.  
+ 
+ D  =
+ 
+    10.  
+ 
+ Y  =
+ 
+    170.  
+ 
+ mu  =
+ 
+    0.15  
+ 
+ 
+
+ # PROBLEM 3.11 # 
+ 
+ l  =
+ 
+    55.  
+ 
+ phi  =
+ 
+    1.15  
+ 
+ Y_x  =
+ 
+    808.92243  
+ 
+ F  =
+ 
+    2436266.7  
+ 
+ Pf  =
+ 
+    1875697.9  
+ 
+ Loss_f  =
+ 
+    76.990663  
+ 
+ Y_X  =
+ 
+    1179.2352  
+ 
+ F_  =
+ 
+    3163374.  
+ 
+ Pf_1  =
+ 
+    1240658.9  
+ 
+ Pf_2  =
+ 
+    847951.2  
+ 
+ Pf_  =
+ 
+    2088610.1  
+ 
+ Loss_f_  =
+ 
+    66.024761  
+ 
+
+ Maximum force required for extruding the cylindrical aluminium billet = 2436266 N, 
+ Percent of the total power input will be lost in friction at the start of the operation = 66.024761 percent.  
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ d  =
+ 
+    50.  
+ 
+ t  =
+ 
+    3.  
+ 
+ e  =
+ 
+    1.75  
+ 
+ Y  =
+ 
+    2100.  
+ 
+ 
+
+ # PROBLEM 3.12 # 
+ 
+ C_0  =
+ 
+    0.3292396  
+ 
+ p  =
+ 
+    0.8858114  
+ 
+ F  =
+ 
+    108605.36  
+ 
+ W  =
+ 
+    48.101933  
+ 
+
+ The proper ance between die and punch = 0.329240 mm, 
+ Maximum punching force = 108.605364 N, 
+ Energy required to punch the hole = 48.101933 J 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ alpha  =
+ 
+    10.  
+ 
+ t  =
+ 
+    0.4  
+ 
+ T  =
+ 
+    0.15  
+ 
+ 
+
+ # PROBLEM 4.1 # 
+ 
+ r  =
+ 
+    0.375  
+ 
+ phi  =
+ 
+    21.555321  
+ 
+ gama  =
+ 
+    2.7359353  
+ 
+
+ Shear plane angle = 21.555321°, 
+ Magnitude of the shear strain = 2.735935 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ t1  =
+ 
+    0.25  
+ 
+ t2  =
+ 
+    0.75  
+ 
+ w  =
+ 
+    2.5  
+ 
+ alpha  =
+ 
+    0.  
+ 
+ Fc  =
+ 
+    950.  
+ 
+ Ft  =
+ 
+    475.  
+ 
+ 
+
+ # PROBLEM 4.2 # 
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ phi  =
+ 
+    18.434949  
+ 
+ As  =
+ 
+    1.9764235  
+ 
+ Fs  =
+ 
+    751.04094  
+ 
+ T_s  =
+ 
+    380.  
+ 
+
+ Coefficient of the friction between tool and the chip = 0.500000, 
+ The ultimate shear stress of the material = 380.000000 N/mm^2 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ alpha  =
+ 
+    10.  
+ 
+ v  =
+ 
+    200.  
+ 
+ t1  =
+ 
+    0.2  
+ 
+ w  =
+ 
+    2.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_S  =
+ 
+    400.  
+ 
+ 
+
+ # PROBLEM 4.3 # 
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ phi  =
+ 
+    36.717474  
+ 
+ Fs  =
+ 
+    267.61686  
+ 
+ R  =
+ 
+    447.61741  
+ 
+ Fc  =
+ 
+    429.03979  
+ 
+ Ft  =
+ 
+    127.61741  
+ 
+
+ Shear angle = 36.717474°, 
+ Cutting force = 429 N, 
+ Thrust force = 127 N, 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ alpha  =
+ 
+    10.  
+ 
+ v  =
+ 
+    200.  
+ 
+ t1  =
+ 
+    0.2  
+ 
+ w  =
+ 
+    2.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_S  =
+ 
+    400.  
+ 
+ Cm  =
+ 
+    70.  
+ 
+ 
+
+ # PROBLEM 4.4 # 
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ phi  =
+ 
+    26.717474  
+ 
+ Fs  =
+ 
+    355.87866  
+ 
+ R  =
+ 
+    488.85647  
+ 
+ Fc  =
+ 
+    468.5673  
+ 
+ Ft  =
+ 
+    139.37482  
+ 
+ 
+ phi_  =
+ 
+    28.434949  
+ 
+ Fs_  =
+ 
+    336.02102  
+ 
+ R_  =
+ 
+    475.20549  
+ 
+ Fc_  =
+ 
+    455.48287  
+ 
+ Ft_  =
+ 
+    135.48287  
+ 
+
+ Shear angle = 26.717474°, 
+ Cutting force = 468.567296 N, 
+ Thrust force = 139.374821 N 
+ Using Lee and Shaffer relation- 
+ Shear angle = 28.434949°, 
+ Cutting force = 455.482874 N, 
+ Thrust force = 135.482874 N, 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ t1  =
+ 
+    0.25  
+ 
+ w  =
+ 
+    2.5  
+ 
+ U_0  =
+ 
+    1.4  
+ 
+ alpha  =
+ 
+    0.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    400.  
+ 
+ 
+
+ # PROBLEM 4.5 # 
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ Fc  =
+ 
+    1523.4635  
+ 
+ phi  =
+ 
+    18.434949  
+ 
+ Fc_  =
+ 
+    1000.  
+ 
+ 
+ The order of magnitude of cutting force = 1523 N,
+ Using Lee and Shaffer relation- 
+ The order of magnitude of cutting force = 1000 N. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ v  =
+ 
+    2.  
+ 
+ D  =
+ 
+    7200.  
+ 
+ k  =
+ 
+    43.6  
+ 
+ c  =
+ 
+    502.  
+ 
+ t1  =
+ 
+    0.25  
+ 
+ w  =
+ 
+    2.  
+ 
+ theta_0  =
+ 
+    40.  
+ 
+ alpha  =
+ 
+    0.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    4.000D+08  
+ 
+ 
+
+ # PROBLEM 4.6 # 
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ phi  =
+ 
+    18.434949  
+ 
+ Fs  =
+ 
+    632.45553  
+ 
+ R  =
+ 
+    894.42719  
+ 
+ Fc  =
+ 
+    800.  
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ Ft  =
+ 
+    400.  
+ 
+ F  =
+ 
+    400.  
+ 
+ Ws  =
+ 
+    266.66667  
+ 
+ Wp  =
+ 
+    1333.3333  
+ 
+ zeta  =
+ 
+    41.449541  
+ 
+ zeta_  =
+ 
+    13.816514  
+ 
+ nu  =
+ 
+    0.1032482  
+ 
+ theta_P  =
+ 
+    330.80706  
+ 
+ theta_S  =
+ 
+    464.83782  
+ 
+ theta  =
+ 
+    835.64488  
+ 
+ 
+ Maximum temperature along the rake face of the tool = 835°C. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ theta_  =
+ 
+    40.  
+ 
+ v  =
+ 
+    2.  
+ 
+ D  =
+ 
+    7200.  
+ 
+ k  =
+ 
+    43.6  
+ 
+ c  =
+ 
+    502.  
+ 
+ t1  =
+ 
+    0.25  
+ 
+ w  =
+ 
+    2.  
+ 
+ alpha  =
+ 
+    0.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    4.000D+08  
+ 
+ H  =
+ 
+    350.  
+ 
+ 
+
+ # PROBLEM 4.7 # 
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ phi  =
+ 
+    18.434949  
+ 
+ Fs  =
+ 
+    632.45553  
+ 
+ R  =
+ 
+    894.42719  
+ 
+ Fc  =
+ 
+    800.  
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ Ft  =
+ 
+    400.  
+ 
+ F  =
+ 
+    400.  
+ 
+ Ws  =
+ 
+    266.66667  
+ 
+ Wp  =
+ 
+    1333.3333  
+ 
+ zeta  =
+ 
+    41.449541  
+ 
+ zeta_  =
+ 
+    13.816514  
+ 
+ nu  =
+ 
+    0.1032482  
+ 
+ Theta_0v  =
+ 
+    404.58602  
+ 
+ H_  =
+ 
+    525.  
+ 
+ theta_lim  =
+ 
+    513.34478  
+ 
+ v_lim  =
+ 
+    2.7599508  
+ 
+ 
+ Maximum speed at which cutting is passible = 2.759951 m/sec. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ alpha  =
+ 
+    0.  
+ 
+ gama  =
+ 
+    3.  
+ 
+ w  =
+ 
+    1.  
+ 
+ gama_  =
+ 
+    7.  
+ 
+ 
+
+ # PROBLEM 4.8 # 
+ 
+ I_per  =
+ 
+    134.2869  
+ 
+ 
+ Percentage increase in tool life = 134 percent. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ d  =
+ 
+    4.  
+ 
+ f  =
+ 
+    0.25  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ shi  =
+ 
+    30.  
+ 
+ mu  =
+ 
+    0.6  
+ 
+ T_s  =
+ 
+    340.  
+ 
+ 
+
+ # PROBLEM 4.9 # 
+ 
+ lambda  =
+ 
+    30.963757  
+ 
+ phi  =
+ 
+    24.036243  
+ 
+ Fc  =
+ 
+    1102.3543  
+ 
+ Ft  =
+ 
+    422.3543  
+ 
+ Ff  =
+ 
+    365.76955  
+ 
+ Fn  =
+ 
+    211.17715  
+ 
+ 
+ The three components of machinig force are as follows-
+ Thrust force = 422 N,
+ Feed force component = 365 N,
+ Normal thrust force component = 211 N. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ d  =
+ 
+    4.  
+ 
+ f  =
+ 
+    0.25  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ shi  =
+ 
+    30.  
+ 
+ mu  =
+ 
+    0.6  
+ 
+ T_s  =
+ 
+    340.  
+ 
+ N  =
+ 
+    60.  
+ 
+ L  =
+ 
+    200.  
+ 
+ H  =
+ 
+    180.  
+ 
+ 
+
+ # PROBLEM 4.10 # 
+ 
+ lambda  =
+ 
+    30.963757  
+ 
+ phi  =
+ 
+    24.036243  
+ 
+ Fc  =
+ 
+    1102.3543  
+ 
+ Fc_  =
+ 
+    220.47086  
+ 
+ Wav  =
+ 
+    220.47086  
+ 
+ t1  =
+ 
+    0.2165064  
+ 
+ U_0  =
+ 
+    0.81  
+ 
+ Uc  =
+ 
+    1.4938148  
+ 
+ Q  =
+ 
+    200.  
+ 
+ Wav_  =
+ 
+    298.76296  
+ 
+ 
+ Avg power consumption = 220 W,
+ Specific power consumption when hardness of the workpiece is 180 BHN = 298 W. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ alpha_b  =
+ 
+    6.  
+ 
+ alpha_s  =
+ 
+    10.  
+ 
+ gama  =
+ 
+    7.  
+ 
+ gama_  =
+ 
+    7.  
+ 
+ Shi  =
+ 
+    10.  
+ 
+ shi  =
+ 
+    30.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ 
+
+ # PROBLEM 4.11 # 
+ 
+ k  =
+ 
+    0.0028594  
+ 
+
+ The value of k=0.002859,which is near to 0. Hence the case is  to orthogonal one.
+ 
+ alpha  =
+ 
+    11.599142  
+ 
+ 
+ Normal rake angle = 11.599142°. 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ alpha_b  =
+ 
+    6.  
+ 
+ alpha_s  =
+ 
+    10.  
+ 
+ gama  =
+ 
+    5.  
+ 
+ gama_  =
+ 
+    7.  
+ 
+ Shi  =
+ 
+    10.  
+ 
+ shi  =
+ 
+    30.  
+ 
+ r  =
+ 
+    0.55  
+ 
+ d  =
+ 
+    2.5  
+ 
+ f  =
+ 
+    0.125  
+ 
+ N  =
+ 
+    300.  
+ 
+ T_S  =
+ 
+    400.  
+ 
+ mu  =
+ 
+    0.6  
+ 
+ 
+
+ # PROBLEM 4.12 # 
+ 
+ lambda  =
+ 
+    30.963757  
+ 
+ alpha  =
+ 
+    11.599142  
+ 
+ phi  =
+ 
+    25.635386  
+ 
+ t1  =
+ 
+    0.1126957  
+ 
+ w  =
+ 
+    2.7729544  
+ 
+ Fc  =
+ 
+    385.48216  
+ 
+ Ft  =
+ 
+    135.48216  
+ 
+ Ff  =
+ 
+    117.33099  
+ 
+ Fr  =
+ 
+    67.741078  
+ 
+ 
+ Component of the machining force are as follows -
+ Feed force component =  118 N, 
+ Normal thrust force component =  68 N. 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ D  =
+ 
+    20.  
+ 
+ T_S  =
+ 
+    400.  
+ 
+ N  =
+ 
+    240.  
+ 
+ f  =
+ 
+    0.25  
+ 
+ mu  =
+ 
+    0.6  
+ 
+ 
+
+ # PROBLEM 4.14 # 
+ 
+ Beta  =
+ 
+    59.  
+ 
+ shi  =
+ 
+    30.  
+ 
+ alpha  =
+ 
+    18.612396  
+ 
+ t1  =
+ 
+    0.1071459  
+ 
+ w  =
+ 
+    11.666334  
+ 
+ lambda  =
+ 
+    30.963757  
+ 
+ phi  =
+ 
+    32.648639  
+ 
+ t1  =
+ 
+    0.125  
+ 
+ Fc  =
+ 
+    1493.7199  
+ 
+ Ft  =
+ 
+    327.08653  
+ 
+ M  =
+ 
+    17.924639  
+ 
+ F  =
+ 
+    1401.8394  
+ 
+ 
+ The drilling torque = 17.924639 N-m, 
+ Thrust force = 1401 N. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ w  =
+ 
+    20.  
+ 
+ Z  =
+ 
+    20.  
+ 
+ D  =
+ 
+    50.  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ f  =
+ 
+    15.  
+ 
+ N  =
+ 
+    60.  
+ 
+ t  =
+ 
+    1.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    400.  
+ 
+ t_a  =
+ 
+    0.0018  
+ 
+ 
+
+ # PROBLEM 4.15 # 
+ 
+ Beta  =
+ 
+    2.2924428  
+ 
+ theta  =
+ 
+    0.3141593  
+ 
+ t1_max  =
+ 
+    0.0035355  
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ phi  =
+ 
+    28.434949  
+ 
+ Fc_max  =
+ 
+    80.518757  
+ 
+ T_max  =
+ 
+    2.0129689  
+ 
+ M_av  =
+ 
+    7.3443896  
+ 
+ omega  =
+ 
+    6.2831853  
+ 
+ U_0  =
+ 
+    1.4  
+ 
+ Uc_ms  =
+ 
+    17.539574  
+ 
+ R  =
+ 
+    5.  
+ 
+ U  =
+ 
+    87.697869  
+ 
+ 
+ Power consumption = 87.697869 W. 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.16/Ex4_16.sce #
+ 
+ 
+ w  =
+ 
+    20.  
+ 
+ Z  =
+ 
+    10.  
+ 
+ D  =
+ 
+    75.  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ f  =
+ 
+    100.  
+ 
+ N  =
+ 
+    60.  
+ 
+ t  =
+ 
+    5.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    400.  
+ 
+ t_a  =
+ 
+    0.043  
+ 
+ 
+
+ # PROBLEM 4.16 # 
+ 
+ Beta  =
+ 
+    7.6622557  
+ 
+ theta  =
+ 
+    0.6283185  
+ 
+ t1_max  =
+ 
+    0.0860663  
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ phi  =
+ 
+    28.434949  
+ 
+ Fc_max  =
+ 
+    1960.0862  
+ 
+ T_max  =
+ 
+    73.503233  
+ 
+ M_av  =
+ 
+    448.18077  
+ 
+ omega  =
+ 
+    6.2831853  
+ 
+ U_0  =
+ 
+    1.4  
+ 
+ Uc_ms  =
+ 
+    4.9287938  
+ 
+ R  =
+ 
+    166.66667  
+ 
+ U  =
+ 
+    821.46564  
+ 
+ 
+ Power required = 821 W. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.17/Ex4_17.sce #
+ 
+ 
+ B  =
+ 
+    20.  
+ 
+ Z  =
+ 
+    10.  
+ 
+ D  =
+ 
+    75.  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ f  =
+ 
+    25.  
+ 
+ N  =
+ 
+    60.  
+ 
+ t  =
+ 
+    5.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    400.  
+ 
+ t_a  =
+ 
+    0.043  
+ 
+ 
+
+ # PROBLEM 4.17 # 
+ 
+ t1_max  =
+ 
+    0.01  
+ 
+ lambda  =
+ 
+    0.28  
+ 
+ nu  =
+ 
+    1400.  
+ 
+ t1_av  =
+ 
+    0.005  
+ 
+ P  =
+ 
+    257.16105  
+ 
+ 
+ Power required = 257.161051 W. 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.18/Ex4_18.sce #
+ 
+ 
+ w  =
+ 
+    20.  
+ 
+ Z  =
+ 
+    10.  
+ 
+ D  =
+ 
+    75.  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ f  =
+ 
+    25.  
+ 
+ N  =
+ 
+    60.  
+ 
+ t  =
+ 
+    5.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    400.  
+ 
+ t_a  =
+ 
+    0.043  
+ 
+ 
+
+ # PROBLEM 4.18 # 
+ 
+ R  =
+ 
+    41.666667  
+ 
+ Uc  =
+ 
+    3.3  
+ 
+ U  =
+ 
+    137.5  
+ 
+ 
+ Power required = 138 W. 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.19/Ex4_19.sce #
+ 
+ 
+ d  =
+ 
+    25.  
+ 
+ t  =
+ 
+    20.  
+ 
+ D  =
+ 
+    27.  
+ 
+ c  =
+ 
+    0.08  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ mu  =
+ 
+    0.5  
+ 
+ T_s  =
+ 
+    400.  
+ 
+ 
+
+ # PROBLEM 4.19 # 
+ 
+ lambda  =
+ 
+    26.565051  
+ 
+ phi  =
+ 
+    28.434949  
+ 
+ w  =
+ 
+    81.681409  
+ 
+ Fc  =
+ 
+    7440.8966  
+ 
+ s  =
+ 
+    7.8262379  
+ 
+ F  =
+ 
+    22322.69  
+ 
+ 
+ Peak broaching load = 22323 N. 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.20/Ex4_20.sce #
+ 
+ 
+ D  =
+ 
+    250.  
+ 
+ N  =
+ 
+    2000.  
+ 
+ f  =
+ 
+    5.  
+ 
+ C  =
+ 
+    3.  
+ 
+ A  =
+ 
+    300.  
+ 
+ rg  =
+ 
+    15.  
+ 
+ 
+
+ # PROBLEM 4.20 # 
+ 
+ t1  =
+ 
+    0.0002660  
+ 
+ U_0  =
+ 
+    1.4  
+ 
+ Uc  =
+ 
+    37.687776  
+ 
+ R  =
+ 
+    25.  
+ 
+ P  =
+ 
+    942.19441  
+ 
+ Fc_  =
+ 
+    0.0399880  
+ 
+ 
+ Power requirement during plunge grinding of the mild steel primatic bar = 943 W. 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.21/Ex4_21.sce #
+ 
+ 
+ w  =
+ 
+    25.  
+ 
+ d  =
+ 
+    0.05  
+ 
+ D  =
+ 
+    200.  
+ 
+ N  =
+ 
+    3000.  
+ 
+ f  =
+ 
+    100.  
+ 
+ C  =
+ 
+    3.  
+ 
+ rg  =
+ 
+    15.  
+ 
+ 
+
+ # PROBLEM 4.21 # 
+ 
+ t1_max  =
+ 
+    0.0003344  
+ 
+ t1_a  =
+ 
+    0.0001672  
+ 
+ U_0  =
+ 
+    1.4  
+ 
+ Uc  =
+ 
+    45.375196  
+ 
+ R  =
+ 
+    2.0833333  
+ 
+ P  =
+ 
+    94.531658  
+ 
+ Fc  =
+ 
+    3.0090361  
+ 
+ 
+ Grinding force = 3 N 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.22/Ex4_22.sce #
+ 
+ 
+ d  =
+ 
+    0.05  
+ 
+ f  =
+ 
+    200.  
+ 
+ theta  =
+ 
+    850.  
+ 
+ Theta  =
+ 
+    700.  
+ 
+ 
+
+ # PROBLEM 4.22 # 
+ 
+ K  =
+ 
+    36353.976  
+ 
+ r  =
+ 
+    0.0192551  
+ 
+ C  =
+ 
+    10.  
+ 
+ Dm  =
+ 
+    0.0419097  
+ 
+ fm  =
+ 
+    238.60819  
+ 
+ 
+ Required depth of cut = 0.041910 mm,
+ Required feed = 238 mm/min 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.24/Ex4_24.sce #
+ 
+ 
+ shi  =
+ 
+    30.  
+ 
+ lambda  =
+ 
+    7.  
+ 
+ r  =
+ 
+    0.7  
+ 
+ f  =
+ 
+    0.125  
+ 
+ 
+
+ # PROBLEM 4.24 # 
+ 
+ H_max  =
+ 
+    0.0143321  
+ 
+ H_max_  =
+ 
+    0.0027902  
+ 
+ 
+ Maximum height of uneveness in first tool case = 0.014332 mm,
+ In second tool case = 0.002790 mm 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.25/Ex4_25.sce #
+ 
+ 
+ Z  =
+ 
+    12.  
+ 
+ d  =
+ 
+    100.  
+ 
+ N  =
+ 
+    60.  
+ 
+ f  =
+ 
+    25.  
+ 
+ 
+
+ # PROBLEM 4.25 # 
+ 
+ H_max  =
+ 
+    0.0000030  
+ 
+ 
+ Maximum height of uneveness = 0.000003 mm 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.26/Ex4_26.sce #
+ 
+ 
+ n  =
+ 
+    0.25  
+ 
+ C  =
+ 
+    75.  
+ 
+ Lc  =
+ 
+    0.15  
+ 
+ Tc  =
+ 
+    2.5  
+ 
+ t  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 4.26 # 
+ 
+ x  =
+ 
+    31640625.  
+ 
+ v_opt  =
+ 
+    27.416642  
+ 
+ 
+ Cutting speed that will be lead to minimum cast = 27.416642 m/min 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.27/Ex4_27.sce #
+ 
+ 
+ L  =
+ 
+    300.  
+ 
+ d  =
+ 
+    30.  
+ 
+ f_max  =
+ 
+    0.25  
+ 
+ Lc  =
+ 
+    0.25  
+ 
+ Tc  =
+ 
+    2.  
+ 
+ t  =
+ 
+    1.  
+ 
+ C_X  =
+ 
+    2.5  
+ 
+ C_Y  =
+ 
+    3.  
+ 
+ n_x  =
+ 
+    0.1  
+ 
+ n_y  =
+ 
+    0.16  
+ 
+ C_x  =
+ 
+    30.  
+ 
+ C_y  =
+ 
+    76.  
+ 
+ 
+
+ # PROBLEM 4.27 # 
+ 
+ x_x  =
+ 
+    5.905D+14  
+ 
+ v_opt_x  =
+ 
+    19.33182  
+ 
+ Rmin_x  =
+ 
+    4.3570326  
+ 
+ x_y  =
+ 
+    5.690D+11  
+ 
+ v_opt_y  =
+ 
+    41.011845  
+ 
+ Rmin_y  =
+ 
+    4.0707366  
+ 
+ 
+ The minimum cast per piece
+ When material X is used = 4.357033 $,
+ When material Y is used = 4.070737 $ 
+
+ So material Y will be suitable for tool as it has low cast 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH4/EX4.28/Ex4_28.sce #
+ 
+ 
+ n  =
+ 
+    0.25  
+ 
+ C  =
+ 
+    75.  
+ 
+ Lc  =
+ 
+    0.15  
+ 
+ Tc  =
+ 
+    2.5  
+ 
+ t  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 4.28 # 
+ 
+ x  =
+ 
+    31640625.  
+ 
+ v_opt  =
+ 
+    47.920733  
+ 
+ 
+  Optimum cutting speed for maximum production rate for the job = 47.920733 m/min 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ A  =
+ 
+    20.  
+ 
+ B  =
+ 
+    40.  
+ 
+ v  =
+ 
+    80.  
+ 
+ I  =
+ 
+    1000.  
+ 
+ 
+
+ # PROBLEM 5.1 # 
+ 
+ l  =
+ 
+    l   
+ 
+ i  =
+ 
+    750 - 500l   
+ 
+ V  =
+ 
+    20 + 40l   
+ 
+ P  =
+ 
+                           2  
+    15000 + 20000l - 20000l   
+ 
+ k  =
+ 
+    20000 - 40000l   
+ 
+ L  =
+ 
+    0.5  
+ 
+ Pmax  =
+ 
+    20000.  
+ 
+
+ Maximum power of the arc = 20 kVA 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ N  =
+ 
+    25.  
+ 
+ r  =
+ 
+    0.1  
+ 
+ rho  =
+ 
+    0.00002  
+ 
+ v  =
+ 
+    5.  
+ 
+ 
+
+ # PROBLEM 5.2 # 
+ 
+ Rc  =
+ 
+    0.0000216  
+ 
+ Q  =
+ 
+    1154997.3  
+ 
+
+ Rate of heat generated per unit area = 1.154997e+06 W/cm^2 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ P  =
+ 
+    2.5  
+ 
+ t  =
+ 
+    3.  
+ 
+ T  =
+ 
+    85.  
+ 
+ alpha  =
+ 
+    0.000012  
+ 
+ k  =
+ 
+    43.6  
+ 
+ theta_  =
+ 
+    1530.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ gama  =
+ 
+    60.  
+ 
+ 
+
+ # PROBLEM 5.3 # 
+ 
+ C  =
+ 
+    0.85  
+ 
+ Q  =
+ 
+    2125.  
+ 
+ w  =
+ 
+    3.4641016  
+ 
+ theta_m  =
+ 
+    1500.  
+ 
+ v_max  =
+ 
+    0.0159882  
+ 
+
+ Maximum passible welding speed = 0.015988 m/sec 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ t  =
+ 
+    1.2  
+ 
+ t_  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    12.  
+ 
+ E  =
+ 
+    703.  
+ 
+ G  =
+ 
+    11.9  
+ 
+ T_S  =
+ 
+    0.6  
+ 
+ 
+
+ # PROBLEM 5.4 # 
+ 
+ K  =
+ 
+    2.0155865  
+ 
+ T  =
+ 
+    0.2976801  
+ 
+
+ The maximum shear stress the lap joint can withstand = 0.297680 N/mm^2 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ 
+
+ # PROBLEM 6.2 # 
+ 
+ R_Q  =
+ 
+    0.4386913  
+ 
+ R_t  =
+ 
+    2.2795071  
+ 
+ P_R  =
+ 
+    56.130866  
+ 
+
+ Percentage change in cutting time when tool is changed from coppper to steel = 56 percent(reduction) 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ m  =
+ 
+    5.  
+ 
+ A  =
+ 
+    56.  
+ 
+ Z  =
+ 
+    2.  
+ 
+ D  =
+ 
+    7.8  
+ 
+ 
+
+ # PROBLEM 6.3 # 
+ 
+ I  =
+ 
+    2240.1786  
+ 
+
+ Current required = 2240 amp 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ I  =
+ 
+    1000.  
+ 
+ p1  =
+ 
+    72.5  
+ 
+ p2  =
+ 
+    19.5  
+ 
+ p3  =
+ 
+    5.  
+ 
+ p4  =
+ 
+    0.4  
+ 
+ p5  =
+ 
+    1.  
+ 
+ p6  =
+ 
+    1.  
+ 
+ p7  =
+ 
+    6.  
+ 
+ 
+
+ # PROBLEM 6.4 # 
+ 
+ 
+ D1  =
+ 
+    8.9  
+ 
+ D2  =
+ 
+    7.19  
+ 
+ D3  =
+ 
+    7.86  
+ 
+ D4  =
+ 
+    4.51  
+ 
+ D5  =
+ 
+    2.33  
+ 
+ D6  =
+ 
+    7.43  
+ 
+ D7  =
+ 
+    8.96  
+ 
+ A1  =
+ 
+    58.71  
+ 
+ A2  =
+ 
+    51.99  
+ 
+ A3  =
+ 
+    55.85  
+ 
+ A4  =
+ 
+    47.9  
+ 
+ A5  =
+ 
+    28.09  
+ 
+ A6  =
+ 
+    54.94  
+ 
+ A7  =
+ 
+    63.57  
+ 
+ Z1  =
+ 
+    2.  
+ 
+ Z2  =
+ 
+    2.  
+ 
+ Z3  =
+ 
+    2.  
+ 
+ Z4  =
+ 
+    3.  
+ 
+ Z5  =
+ 
+    4.  
+ 
+ Z6  =
+ 
+    2.  
+ 
+ Z7  =
+ 
+    1.  
+ 
+ 
+ D  =
+ 
+    7.8024978  
+ 
+ Q  =
+ 
+    0.0000359  
+ 
+ R  =
+ 
+    2.1527068  
+ 
+
+ Removal rate = 2.152707 cm^3/min 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ V  =
+ 
+    10.  
+ 
+ k  =
+ 
+    0.2  
+ 
+ f  =
+ 
+    0.1  
+ 
+ Vo  =
+ 
+    1.5  
+ 
+ F  =
+ 
+    96500.  
+ 
+ 
+
+ # PROBLEM 6.5 # 
+ 
+ A  =
+ 
+    55.85  
+ 
+ Z  =
+ 
+    2.  
+ 
+ rho  =
+ 
+    7.86  
+ 
+ Yc  =
+ 
+    0.0375529  
+ 
+
+ Equilibrium gap = 0.037553 cm 
+ 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ S_I1  =
+ 
+    5.  
+ 
+ S_I2  =
+ 
+    8.  
+ 
+ V  =
+ 
+    12.  
+ 
+ k  =
+ 
+    0.2  
+ 
+ Vo  =
+ 
+    1.5  
+ 
+ F  =
+ 
+    96500.  
+ 
+ 
+
+ # PROBLEM 6.6 # 
+ 
+ Y_min  =
+ 
+    0.0013  
+ 
+ A  =
+ 
+    55.85  
+ 
+ Z  =
+ 
+    2.  
+ 
+ D  =
+ 
+    7.86  
+ 
+ f_max  =
+ 
+    3.5683752  
+ 
+
+ Largest passible feed rate = 35.683752 mm/min 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ f  =
+ 
+    0.2  
+ 
+ l  =
+ 
+    2.54  
+ 
+ w  =
+ 
+    2.54  
+ 
+ T_b  =
+ 
+    95.  
+ 
+ Nita  =
+ 
+    0.000876  
+ 
+ D_e  =
+ 
+    1.088  
+ 
+ c  =
+ 
+    0.997  
+ 
+ V  =
+ 
+    10.  
+ 
+ k  =
+ 
+    0.2  
+ 
+ T  =
+ 
+    35.  
+ 
+ Vo  =
+ 
+    1.5  
+ 
+ F  =
+ 
+    96500.  
+ 
+ 
+
+ # PROBLEM 6.7 # 
+ 
+ A  =
+ 
+    55.85  
+ 
+ Z  =
+ 
+    2.  
+ 
+ D  =
+ 
+    7.86  
+ 
+ Ye  =
+ 
+    0.0187765  
+ 
+ J  =
+ 
+    90.538944  
+ 
+ D_T  =
+ 
+    60.  
+ 
+ v  =
+ 
+    1599.5553  
+ 
+ Re  =
+ 
+    7460.4933  
+ 
+ p  =
+ 
+    320.5031  
+ 
+ A  =
+ 
+    6.4516  
+ 
+ F  =
+ 
+    103.38789  
+ 
+
+ Total force acting on the tool = 103 N 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.8/Ex6_8.sce #
+ 
+ x  =
+ 
+    x   
+ 
+ 
+ y  =
+ 
+                     2  
+    10 + 0.3x - 0.05x   
+ 
+ V  =
+ 
+    15.  
+ 
+ f  =
+ 
+    0.75  
+ 
+ k  =
+ 
+    0.2  
+ 
+ Vo  =
+ 
+    0.67  
+ 
+ F  =
+ 
+    96500.  
+ 
+ 
+
+ # PROBLEM 6.8 # 
+ 
+ A  =
+ 
+    63.57  
+ 
+ Z  =
+ 
+    1.  
+ 
+ D  =
+ 
+    8.96  
+ 
+ lambda  =
+ 
+    0.0002107  
+ 
+ r  =
+ 
+    0.1685711  
+ 
+ Y  =
+ 
+                                       2  
+    9.8158651 + 0.3103759x - 0.0517293x   
+ 
+
+ The equation of required tool geometry is :-
+  y  = 
+ 
+                                       2  
+    9.8158651 + 0.3103759x - 0.0517293x   
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ a  =
+ 
+    10.  
+ 
+ t  =
+ 
+    5.  
+ 
+ R  =
+ 
+    50.  
+ 
+ C  =
+ 
+    10.  
+ 
+ V  =
+ 
+    200.  
+ 
+ V_  =
+ 
+    150.  
+ 
+ 
+
+ # PROBLEM 6.9 # 
+ 
+ E  =
+ 
+    0.1125  
+ 
+ tc  =
+ 
+    0.0006931  
+ 
+ W  =
+ 
+    0.1623032  
+ 
+ v  =
+ 
+    500.  
+ 
+ Q  =
+ 
+    1.6659204  
+ 
+ T  =
+ 
+    300.13439  
+ 
+
+ The time required to complete the drilling operation = 300 min 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.10/Ex6_10.sce #
+ 
+ 
+ R  =
+ 
+    50.  
+ 
+ C  =
+ 
+    10.  
+ 
+ V  =
+ 
+    200.  
+ 
+ V_  =
+ 
+    150.  
+ 
+ 
+
+ # PROBLEM 6.10 # 
+ 
+ E  =
+ 
+    0.1125  
+ 
+ tc  =
+ 
+    0.0006931  
+ 
+ W  =
+ 
+    0.1623032  
+ 
+ Q  =
+ 
+    1.6659204  
+ 
+ Hrms  =
+ 
+    1.3503247  
+ 
+
+ Surface roughness = 1.350325 micro meter 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.11/Ex6_11.sce #
+ 
+ 
+ w  =
+ 
+    150.  
+ 
+ t  =
+ 
+    1.  
+ 
+ P  =
+ 
+    5.  
+ 
+ 
+
+ # PROBLEM 6.11 # 
+ 
+ C  =
+ 
+    12.  
+ 
+ v  =
+ 
+    4.6296296  
+ 
+
+ Speed of cutting = 4.629630 cm/sec 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.12/Ex6_12.sce #
+ 
+ 
+ V  =
+ 
+    150000.  
+ 
+ 
+
+ # PROBLEM 6.12 # 
+ 
+ D  =
+ 
+    0.0000076  
+ 
+ Delta  =
+ 
+    0.0769737  
+ 
+
+ Electron range = 77 micro meter 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.13/Ex6_13.sce #
+ 
+ 
+ w  =
+ 
+    0.015  
+ 
+ t  =
+ 
+    1.  
+ 
+ P  =
+ 
+    5000.  
+ 
+ 
+
+ # PROBLEM 6.13 # 
+ 
+ rho_c  =
+ 
+    2.71  
+ 
+ k  =
+ 
+    2.15  
+ 
+ T_m  =
+ 
+    3400.  
+ 
+ Z  =
+ 
+    0.1  
+ 
+ v  =
+ 
+    24.744755  
+ 
+
+ Speed of cutting = 24.744755 cm/sec 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.14/Ex6_14.sce #
+ 
+ 
+ I  =
+ 
+    100000.  
+ 
+ T_m  =
+ 
+    3400.  
+ 
+ rho_c  =
+ 
+    2.71  
+ 
+ k  =
+ 
+    2.15  
+ 
+ p_a  =
+ 
+    10.  
+ 
+ 
+
+ # PROBLEM 6.14 # 
+ 
+ alpha  =
+ 
+    0.7933579  
+ 
+ H  =
+ 
+    1000000.  
+ 
+ tm  =
+ 
+    0.0000529  
+ 
+
+ Time required for the surface to reach the melting point = 0.000053 sec 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.15/Ex6_15.sce #
+ 
+ 
+ I  =
+ 
+    100000.  
+ 
+ d  =
+ 
+    200.  
+ 
+ T_m  =
+ 
+    3400.  
+ 
+ rho_c  =
+ 
+    2.71  
+ 
+ k  =
+ 
+    2.15  
+ 
+ p_a  =
+ 
+    10.  
+ 
+ 
+
+ # PROBLEM 6.15 # 
+ 
+ H  =
+ 
+    1000000.  
+ 
+ alpha  =
+ 
+    0.7933579  
+ 
+ zeta  =
+ 
+    0.5  
+ 
+ 
+ tm  =
+ 
+    0.0001260  
+ 
+
+ Time required for the centre of the circular spot to reach the melting point = 0.000126 sec 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.16/Ex6_16.sce #
+ 
+ 
+ d  =
+ 
+    200.  
+ 
+ T_m  =
+ 
+    3400.  
+ 
+ k  =
+ 
+    2.15  
+ 
+ p_a  =
+ 
+    10.  
+ 
+ 
+
+ # PROBLEM 6.16 # 
+ 
+ H  =
+ 
+    731000.  
+ 
+ I  =
+ 
+    7310000.  
+ 
+
+ Minimum value of beam power intensity to achieve the melting = 7.310000e+06 W/cm^2 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.17/Ex6_17.sce #
+ 
+ 
+ I  =
+ 
+    100000.  
+ 
+ t  =
+ 
+    0.5  
+ 
+ d  =
+ 
+    200.  
+ 
+ P  =
+ 
+    30000.  
+ 
+ p_e  =
+ 
+    10.  
+ 
+ T_m  =
+ 
+    3400.  
+ 
+ k  =
+ 
+    2.15  
+ 
+ 
+
+ # PROBLEM 6.17 # 
+ 
+ H  =
+ 
+    1000000.  
+ 
+ v  =
+ 
+    33.333333  
+ 
+ T  =
+ 
+    0.0015  
+ 
+
+ The time required to drill a through hole = 0.001500 sec 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ F  =
+ 
+    0.000004  
+ 
+ t  =
+ 
+    0.000005  
+ 
+ g  =
+ 
+    0.000025  
+ 
+ 
+
+ # PROBLEM 7.1 # 
+ 
+ lambda  =
+ 
+    0.0000005  
+ 
+
+ Maximum allowable wavelength of the exposing light = 533 nm 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ d  =
+ 
+    5.  
+ 
+ h  =
+ 
+    100.  
+ 
+ 
+
+ # PROBLEM 7.2 # 
+ 
+ t  =
+ 
+    62.467202  
+ 
+
+ Time required to machine the hole = 62.467202 min 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ J  =
+ 
+    2.  
+ 
+ h  =
+ 
+    300.  
+ 
+ 
+
+ # PROBLEM 7.3 # 
+ 
+ J_o  =
+ 
+    11.304467  
+ 
+
+ The minimum level of exposure of the PMMA surface = 11.304467 kJ/cm^3 
+ 
+ 
+grepthis#Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ J_  =
+ 
+    2.  
+ 
+ J  =
+ 
+    15.  
+ 
+ x_  =
+ 
+    300.  
+ 
+ 
+
+ # PROBLEM 7.4 # 
+ 
+ 
+ t  =
+ 
+    157.61286  
+ 
+
+ The time required to develop the PMMA resist = 157 min 
+ 
+ 

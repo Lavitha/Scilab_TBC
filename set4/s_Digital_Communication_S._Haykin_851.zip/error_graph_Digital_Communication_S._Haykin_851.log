@@ -1,0 +1,318 @@
+ERROR: Digital_Communication_S._Haykin_851/CH4/EX4.1/Example4_1.sce
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+g = 2*sinc_new(2*t-1);
+                      !--error 4 
+Undefined variable: sinc_new
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Communication_S._Haykin_851/CH4/EX4.1/Example4_1.sce',-1)
+ 
+ERROR: Digital_Communication_S._Haykin_851/CH5/EX05.13/Figure05_13.sce
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+  [Cx(i,:),Xmax(i)] =  Alaw(x,A(i));
+                                    !--error 4 
+Undefined variable: Alaw
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Communication_S._Haykin_851/CH5/EX05.13/Figure05_13.sce',-1)
+ 
+ERROR: Digital_Communication_S._Haykin_851/CH5/EX5.13/Figure5_13.sce
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+  [Cx(i,:),Xmax(i)] =  mulaw(x,mu(i));
+                                      !--error 4 
+Undefined variable: mulaw
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Communication_S._Haykin_851/CH5/EX5.13/Figure5_13.sce',-1)
+ 
+ERROR: Digital_Communication_S._Haykin_851/CH6/EX6.3/Example6_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+  y(k) = xor(x(k-1),y(k-1));
+                            !--error 4 
+Undefined variable: xor
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Communication_S._Haykin_851/CH6/EX6.3/Example6_3.sce',-1)
+ 
+ERROR: Digital_Communication_S._Haykin_851/CH7/EX7.41/Figure7_41.sce
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Digital_Communication_S._Haykin_851/Figure7_41');xend();exit();
+                                                                                                 !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      32 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Communication_S._Haykin_851/CH7/EX7.41/Figure7_41.sce',-1)
+ 
+ERROR: Digital_Communication_S._Haykin_851/CH9/EX9.4.96/Figure9_4_Figure9_6.sce
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Digital_Communication_S._Haykin_851/Figure9_4_Figure9_6');xend();exit();
+                                                                                                          !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      73 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Communication_S._Haykin_851/CH9/EX9.4.96/Figure9_4_Figure9_6.sce',-1)
+ 

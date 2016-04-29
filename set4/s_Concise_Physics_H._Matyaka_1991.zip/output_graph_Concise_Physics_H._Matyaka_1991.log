@@ -1,0 +1,72 @@
+grepthis#Concise_Physics_H._Matyaka_1991/CH1/EX1.1/1.sce #
+[2J[0;0H 
+ 
+ 
+ x  =
+ 
+    0.    50.    100.    150.    200.    250.    300.    350.    400.    450.    500.    550.  
+ 
+ y  =
+ 
+    0.    0.43    0.79    1.1    1.36    1.54    1.69    1.77    1.8    1.78    1.7    1.54  
+ 
+ 
+ 
+ 
+ 
+ 
+from the grapgh it can be determined that neutral temperature is 400deg C 
+ x  =
+ 
+    50.    100.    150.    200.    250.    300.    350.    400.    450.    500.    550.  
+ 
+ y  =
+ 
+    8.6    7.9    7.3    6.8    6.2    5.6    5.1    4.5    4.    3.4    2.8  
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["E Vs Theta";"E/theta Vs theta"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ b  =
+ 
+  - 1.125D-08  
+ 
+ a  =
+ 
+    0.000009  
+ 
+
+ the value of b is -1.125e-08 VdegC^-2 
+
+ the value of a is 9.000e-06 VdegC^-1 
+ 
+ 
+ 

@@ -1,0 +1,63 @@
+ERROR: Electrical_Engineering_Materials_R._K._Shukla_And_A._Singh_2438/CH1/EX1.5/Ex1_5.sce
+ 
+ 
+ 
+ 
+ all;
+   !--error 4 
+Undefined variable: all
+at line       5 of exec file called by :    
+d_A._Singh_2438/CH1/EX1.5/Ex1_5.sce',-1
+ 
+ERROR: Electrical_Engineering_Materials_R._K._Shukla_And_A._Singh_2438/CH1/EX1.6/Ex1_6.sce
+ 
+ 
+ 
+ 
+ all;
+   !--error 4 
+Undefined variable: all
+at line       5 of exec file called by :    
+d_A._Singh_2438/CH1/EX1.6/Ex1_6.sce',-1
+ 
+ERROR: Electrical_Engineering_Materials_R._K._Shukla_And_A._Singh_2438/CH1/EX1.8/Ex1_8.sce
+ 
+ 
+ 
+ 
+ all;
+   !--error 4 
+Undefined variable: all
+at line       5 of exec file called by :    
+d_A._Singh_2438/CH1/EX1.8/Ex1_8.sce',-1
+ 
+ERROR: Electrical_Engineering_Materials_R._K._Shukla_And_A._Singh_2438/CH1/EX1.13/Ex1_13.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lattice constant=1.1547 Å
+ 
+mprint('Note:calulation mistake in textbook)
+                                             !--error 3 
+Waiting for right parenthesis.
+at line      22 of exec file called by :    
+A._Singh_2438/CH1/EX1.13/Ex1_13.sce',-1
+ 
+ 

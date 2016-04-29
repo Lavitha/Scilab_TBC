@@ -1,0 +1,29 @@
+ERROR: Control_Systems_S._Ghosh_773/CH3/EX3.23/3_23.sci
+ 
+ 
+ 
+ p  =
+ 
+              2  
+    2 + 3s + s   
+ 
+ q  =
+ 
+               2  
+    12 + 7s + s   
+ 
+ V  =
+ 
+              2   
+    2 + 3s + s    
+    ----------    
+               2  
+    12 + 7s + s   
+ 
+ 
+syms s t ;
+  !--error 4 
+Undefined variable: syms
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_S._Ghosh_773/CH3/EX3.23/3_23.sci',-1)
+ 

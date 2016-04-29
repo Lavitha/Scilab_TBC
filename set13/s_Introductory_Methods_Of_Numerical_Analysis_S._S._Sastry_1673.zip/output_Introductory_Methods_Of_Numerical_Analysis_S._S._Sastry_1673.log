@@ -1,0 +1,7456 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 146
+
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.2/1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ dx  =
+ 
+    0.005  
+ 
+ 
+the percentage accuracy of 0.510000 after correcting to two decimal places is 0.980392 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.3/1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Absolute Error = -0.0012645 
+ Relative Error = -0.0004025 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.4/1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the best approximation of 1/3 is 0.33  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.5/1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the relative error of the number is:0.0058 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.6/1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the sum of square roots  is 6.614 
+ 
+the absolute error is 0.000150 
+ 
+the relative error is 0.000023  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.7/1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning : redefining function: sum                     . Use funcprot(0) to avoid this message
+
+ 
+ 
+ 
+ 
+the absolute error is:0.14 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.10/1_10.sce #
+ 
+ 
+ 
+ 
+ c  =
+ 
+    13.5  
+ 
+ 
+ 
+ 
+ s=   
+ 
+    0.1212414  
+ 
+ 
+ the relative error is :0.009930 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.11/1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the relative error is :0.006000 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.12/1_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D  =
+ 
+  - 10.    5.  - 6.    6.  
+ 
+ 
+ 
+ 
+the third order taylors series approximation of f(1) is :-7 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.13/1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+order of approximation  computed value of sin(pi/3)   absolute eror
+
+ 
+1                       0.500000000                        0.366025404
+2                       0.953449841                        0.087424437
+3                       0.884910922                        0.018885518
+4                       0.864191614                        0.001833790
+5                       0.865757475                        0.000267929
+6                       0.866041490                        0.000016087
+7                       0.866027181                        0.000001777
+8                       0.866025327                        0.000000077
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.14/1_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+no of terms needed to correct to 8 decimal places is :12 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH1/EX1.15/1_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ S1  =
+ 
+    0.0909091  
+ S1  =
+ 
+    0.0911595  
+ S1  =
+ 
+    0.0911608  
+ 
+value of log(1.2) is : 0.18232154
+
+ 
+ 
+ 
+min no of terms needed to get value wuth same accuracy  is :6 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    1.  
+ 
+ 
+ 
+Succesive approximations 	   x1	   	x2	   	m	   	f(m)
+ 
+                          	1.000000	2.000000	1.500000	0.875000
+                          	1.000000	1.500000	1.250000	-0.296875
+                          	1.250000	1.500000	1.375000	0.224609
+                          	1.250000	1.375000	1.312500	-0.051514
+                          	1.312500	1.375000	1.343750	0.082611
+                          	1.312500	1.343750	1.328125	0.014576
+                          	1.312500	1.328125	1.320312	-0.018711
+                          	1.320312	1.328125	1.324219	-0.002128
+                          	1.324219	1.328125	1.326172	0.006209
+                          	1.324219	1.326172	1.325195	0.002037
+                          	1.324219	1.325195	1.324707	-0.000047
+                          	1.324707	1.325195	1.324951	0.000995
+                          	1.324707	1.324951	1.324829	0.000474
+                          	1.324707	1.324829	1.324768	0.000214
+ 
+the solution of equation after 15 iteration is 1.32477 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.2/2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    2.  
+ 
+ 
+ 
+Succesive approximations 	   x1	   	x2	   	m	   	f(m)
+ 
+                          	2.000000	3.000000	2.500000	5.625000
+                          	2.000000	2.500000	2.250000	1.890625
+                          	2.000000	2.250000	2.125000	0.345703
+                          	2.000000	2.125000	2.062500	-0.351318
+                          	2.062500	2.125000	2.093750	-0.008942
+                          	2.093750	2.125000	2.109375	0.166836
+                          	2.093750	2.109375	2.101562	0.078562
+                          	2.093750	2.101562	2.097656	0.034714
+                          	2.093750	2.097656	2.095703	0.012862
+                          	2.093750	2.095703	2.094727	0.001954
+                          	2.093750	2.094727	2.094238	-0.003495
+                          	2.094238	2.094727	2.094482	-0.000771
+                          	2.094482	2.094727	2.094604	0.000592
+                          	2.094482	2.094604	2.094543	-0.000090
+ 
+the solution of equation after 15 iteration is 2.095 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+  - 3.  
+ 
+ 
+ 
+Succesive approximations 	   x1	   	x2	   	m	   	f(m)
+ 
+                          	-3.000000	-2.000000	-2.500000	-4.875000
+                          	-2.500000	-2.000000	-2.250000	-1.578125
+                          	-2.250000	-2.000000	-2.125000	-0.205078
+                          	-2.125000	-2.000000	-2.062500	0.417725
+                          	-2.125000	-2.062500	-2.093750	0.111481
+                          	-2.125000	-2.093750	-2.109375	-0.045498
+                          	-2.109375	-2.093750	-2.101562	0.033315
+                          	-2.109375	-2.101562	-2.105469	-0.006010
+                          	-2.105469	-2.101562	-2.103516	0.013673
+                          	-2.105469	-2.103516	-2.104492	0.003836
+                          	-2.105469	-2.104492	-2.104980	-0.001086
+                          	-2.104980	-2.104492	-2.104736	0.001376
+                          	-2.104980	-2.104736	-2.104858	0.000145
+                          	-2.104980	-2.104858	-2.104919	-0.000470
+ 
+the solution of equation after 15 iteration is -2.105 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    0.  
+ 
+ 
+ 
+Succesive approximations 	   x1	   	x2	   	m	   	tol	    	f(m)
+ 
+                          	0.000000	1.000000	0.500000	100.000000	-0.175639
+                          	0.500000	1.000000	0.750000	50.000000	0.587750
+                          	0.500000	0.750000	0.625000	33.333333	0.167654
+                          	0.500000	0.625000	0.562500	20.000000	-0.012782
+                          	0.562500	0.625000	0.593750	10.000000	0.075142
+                          	0.562500	0.593750	0.578125	5.263158	0.030619
+                          	0.562500	0.578125	0.570312	2.702703	0.008780
+                          	0.562500	0.570312	0.566406	1.369863	-0.002035
+                          	0.566406	0.570312	0.568359	0.684932	0.003364
+                          	0.566406	0.568359	0.567383	0.343643	0.000662
+                          	0.566406	0.567383	0.566895	0.172117	-0.000687
+                          	0.566895	0.567383	0.567139	0.086059	-0.000013
+ 
+the solution of equation after 13 iteration is 0.5671 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    0.  
+ 
+ 
+ 
+Succesive approximations 	   x1	   	x2	   	m	   	    	f(m)
+ 
+                          	0.000000	0.500000	0.250000	-0.229286
+                          	0.250000	0.500000	0.375000	0.006941
+                          	0.250000	0.375000	0.312500	-0.100293
+                          	0.312500	0.375000	0.343750	-0.044068
+                          	0.343750	0.375000	0.359375	-0.017925
+                          	0.359375	0.375000	0.367188	-0.005334
+                          	0.367188	0.375000	0.371094	0.000842
+                          	0.367188	0.371094	0.369141	-0.002236
+                          	0.369141	0.371094	0.370117	-0.000694
+                          	0.370117	0.371094	0.370605	0.000075
+                          	0.370117	0.370605	0.370361	-0.000310
+                          	0.370361	0.370605	0.370483	-0.000118
+                          	0.370483	0.370605	0.370544	-0.000022
+ 
+the solution of equation after 14 iteration is 0.371 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.6/2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    2.  
+ 
+ 
+succesive iterations    	a	    b	    f(a)	    f(b)	  x1
+ 
+                         	2.000000  2.058824  -1.000000  -0.390800  2.058824
+                         	2.096559  2.058824  0.022428  -0.390800  2.096559
+                         	2.094511  2.058824  -0.000457  -0.390800  2.094511
+ 
+the root of the equation is  2.094552 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.7/2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    5.  
+ 
+ 
+succesive iterations    	a	    b	    f(a)	    f(b)	  x1
+ 
+                         	7.027228  6.000000  3.933141  -17.485113  7.027228
+                         	6.838593  6.000000  -0.304723  -17.485113  6.838593
+                         	6.853467  6.000000  0.024411  -17.485113  6.853467
+                         	6.852277  6.000000  -0.001950  -17.485113  6.852277
+                         	6.852372  6.000000  0.000156  -17.485113  6.852372
+                         	6.852365  6.000000  -0.000012  -17.485113  6.852365
+ 
+the root of the equation is  6.852365 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.8/2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    3.  
+ 
+ 
+succesive iterations    	a	    b	    f(a)	    f(b)	  x1
+ 
+                         	3.000000  3.787772  -1.477121  -0.002839  3.787772
+                         	3.789289  3.787772  0.000021  -0.002839  3.789289
+ 
+the root of the equation is  3.789 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.9/2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.  
+ 
+ 
+succesive iterations    	a	    b	    f(a)	    f(b)	  x1
+ 
+                         	0.429869  0.500000  0.084545  0.163145  0.429869
+                         	0.354433  0.500000  -0.026054  0.163145  0.354433
+                         	0.374479  0.500000  0.006132  0.163145  0.374479
+                         	0.369577  0.500000  -0.001547  0.163145  0.369577
+                         	0.370802  0.500000  0.000384  0.163145  0.370802
+                         	0.370497  0.500000  -0.000096  0.163145  0.370497
+                         	0.370573  0.500000  0.000024  0.163145  0.370573
+ 
+the root of the equation is  0.370554 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.10/2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    0.75  
+ 
+ 
+ 
+ 
+successive iterations 	x1	f(x1)
+ 
+                      	0.750000    0.755929
+                      	0.755929    0.754652
+                      	0.754652    0.754926
+                      	0.754926    0.754867
+ 
+ the root of the eqaution after 4 iteration is 0.7549 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.11/2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations 	x1	f(x1)
+ 
+                      	1.500000    1.535369
+                      	1.535369    1.517710
+                      	1.517710    1.526531
+                      	1.526531    1.522126
+                      	1.522126    1.524326
+                      	1.524326    1.523227
+                      	1.523227    1.523776
+                      	1.523776    1.523502
+                      	1.523502    1.523639
+                      	1.523639    1.523570
+ 
+ the root of the eqaution after 10 iteration is 1.524 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.12/2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations 	x1	  f(x1)
+ 
+                      	1.500000    0.223130
+                      	0.223130    0.800011
+                      	0.800011    0.449324
+                      	0.449324    0.638059
+                      	0.638059    0.528317
+                      	0.528317    0.589597
+                      	0.589597    0.554551
+                      	0.554551    0.574330
+                      	0.574330    0.563082
+                      	0.563082    0.569451
+                      	0.569451    0.565836
+                      	0.565836    0.567885
+                      	0.567885    0.566723
+                      	0.566723    0.567382
+                      	0.567382    0.567008
+                      	0.567008    0.567220
+                      	0.567220    0.567100
+                      	0.567100    0.567168
+ 
+ the root of the eqaution after 18 iteration is 0.5672 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.13/2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations 	x1	f(x1)
+ 
+                      	1.000000  1.084147
+                      	1.084147  1.088390
+                      	1.088390  1.088588
+                      	1.088588  1.088597
+ 
+ the root of the eqaution after 4 iteration is 1.089 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.14/2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations     	x0	      x1	   x2	      x3	    y
+ 
+ x1  =
+ 
+    1.5353686  
+ x2  =
+ 
+    1.5177102  
+                          	1.523592   1.535369   1.517710   1.526531   1.523592
+ x1  =
+ 
+    1.5235932  
+ x2  =
+ 
+    1.5235928  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ x1  =
+ 
+    1.5235929  
+ x2  =
+ 
+    1.5235929  
+                          	1.523593   1.523593   1.523593   1.523593   1.523593
+ 
+the root of the equation after 10 iteration is 1.523593 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.15/2_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations 	x0	        f(x0)	        f1(x0)
+ 
+                      	2.000000	0.061000	11.230000
+                      	2.100000	0.000186	11.161647
+                      	2.094568	0.000000	11.161438
+ 
+the root of 3 iteration is:2.094551 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.16/2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations 	x0	        f(x0)	        f1(x0)
+ 
+ x2  =
+ 
+    3.1415927  
+                      	3.141593	-0.066186	-2.681457
+ x2  =
+ 
+    2.8232828  
+                      	2.823283	-0.000564	-2.635588
+ x2  =
+ 
+    2.7985999  
+                      	2.798600	-0.000000	-2.635185
+ 
+the root of 3 iteration is:2.798386 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.17/2_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+successive iterations 	x0	        f(x0)	        f1(x0)
+ 
+                      	0.000000	1.718282	5.436564
+                      	1.000000	0.355343	3.337012
+                      	0.683940	0.028734	2.810232
+                      	0.577454	0.000239	2.763614
+                      	0.567230	0.000000	2.763223
+ 
+the root of 5 iteration is:0.567143 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.18/2_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations 	x0	        f(x0)	        f1(x0)
+ 
+                      	1.570796	-0.090703	-0.916147
+                      	2.000000	-0.004520	-0.824232
+                      	1.900996	-0.000014	-0.819039
+ 
+the root of 3 iteration is:1.896 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.19/2_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations 	x0	        f(x0)	        f1(x0)
+ 
+                      	0.200000	-0.056593	1.753325
+                      	0.336526	-0.002769	1.583008
+                      	0.368804	-0.000008	1.573993
+ 
+the root of 3 iteration is:0.371 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.20/2_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+successive iterations   	x0	    x1	       x2
+ 
+                          0.974370	0.905882	1.042857
+                          0.993890	0.987269	1.000512
+                          0.998489	0.996950	1.000028
+                          0.999623	0.999245	1.000002
+                          0.999906	0.999812	1.000000
+                          0.999976	0.999953	1.000000
+                          0.999994	0.999988	1.000000
+                          0.999999	0.999997	1.000000
+                          1.000000	0.999999	1.000000
+                          1.000000	1.000000	1.000000
+                          1.000000	1.000000	1.000000
+                          1.000000	1.000000	1.000000
+ 
+
+ 
+the double root is at: 1.000000 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.21/2_21.sce #
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    1.0833333  
+ a2  =
+ 
+  - 0.375  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+0.923077 
+
+1.356522 
+
+1.595376 
+
+1.738402 
+
+1.828184 
+
+1.886130 
+
+1.924153 
+
+1.949345 
+
+ it appears as if the roots are converging at 2 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.22/2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    1.  
+ a2  =
+ 
+    1.  
+ a3  =
+ 
+    0.5  
+ a4  =
+ 
+    0.1666667  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1.000000 
+
+0.500000 
+
+0.571429 
+
+0.583333 
+
+0.571429 
+
+ it appears as if the roots are converging at around 0.571429 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.23/2_23.sce #
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    1.5  
+ a2  =
+ 
+    0.25  
+ a3  =
+ 
+    0.  
+ a4  =
+ 
+    0.0208333  
+ a5  =
+ 
+    0.  
+ a6  =
+ 
+    0.0006944  
+ a7  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.666667 
+
+0.600000 
+
+0.606061 
+
+0.605505 
+
+0.605556 
+
+0.605551 
+
+0.605551 
+
+ it appears as if the roots are converging at around 0.605551 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.24/2_24.sce #
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    1.  
+ a2  =
+ 
+  - 0.25  
+ a3  =
+ 
+    0.0277778  
+ a4  =
+ 
+  - 0.0017361  
+ a5  =
+ 
+  - 0.0000694  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1.000000 
+
+1.333333 
+
+1.421053 
+
+1.433962 
+
+ it appears as if the roots are converging at around 1.433962 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.25/2_25.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    2.  
+ x2  =
+ 
+    3.  
+ 
+ 
+ 
+successive iterations    	x1          	x2	       x3	        f(x3)
+ 
+                          	2.000000	3.000000	2.058824	-0.390800
+                          	2.000000	2.058824	2.096559	0.022428
+                          	2.096559	2.058824	2.094511	-0.000457
+                          	2.094511	2.058824	2.094552	0.000009
+                          	2.094552	2.058824	2.094551	-0.000000
+ 
+the root of the equation after 4 iteration is: 2.094551 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.26/2_26.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    0.  
+ x2  =
+ 
+    1.  
+ 
+ 
+ 
+successive iterations    	x1          	x2	       x3	        f(x3)
+ 
+                          	0.000000	1.000000	0.367879	-0.468536
+                          	0.000000	0.367879	0.692201	0.383091
+                          	0.692201	0.367879	0.546310	-0.056595
+                          	0.546310	0.367879	0.570823	0.010200
+                          	0.570823	0.367879	0.566500	-0.001778
+                          	0.566500	0.367879	0.567256	0.000312
+                          	0.567256	0.367879	0.567124	-0.000055
+ 
+the root of the equation after 6 iteration is: 0.5671 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.27/2_27.sce #
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    0.  
+ x1  =
+ 
+    1.  
+ 
+ 
+ successive iterations     	x0	    x1	    x2	      f(x0)	    f(x1)	  f(x2)
+ 
+ y0  =
+ 
+  - 1.  
+ y1  =
+ 
+  - 1.  
+ h2  =
+ 
+    1.  
+ d2  =
+ 
+    6.  
+                            	0.000000	  1.000000	  2.000000	  -1.000000	  -1.000000	  5.000000
+ y0  =
+ 
+  - 1.  
+ y1  =
+ 
+  - 1.  
+ h2  =
+ 
+    0.2637626  
+ d2  =
+ 
+    0.7545875  
+                            	0.000000	  1.000000	  1.263763	  -1.000000	  -1.000000	  -0.245412
+ y0  =
+ 
+  - 1.  
+ y1  =
+ 
+  - 0.2454125  
+ h2  =
+ 
+    0.0679479  
+ d2  =
+ 
+    0.2754279  
+                            	0.000000	  1.263763	  1.331711	  -1.000000	  -0.245412	  0.030015
+ y0  =
+ 
+  - 0.2454125  
+ y1  =
+ 
+    0.0300155  
+ h2  =
+ 
+  - 0.0071272  
+ d2  =
+ 
+  - 0.0305897  
+                            	1.263763	  1.331711	  1.324583	  -0.245412	  0.030015	  -0.000574
+ y0  =
+ 
+  - 0.2454125  
+ y1  =
+ 
+    0.0300155  
+ h2  =
+ 
+  - 0.0069926  
+ d2  =
+ 
+  - 0.0300155  
+                            	1.263763	  1.331711	  1.324718	  -0.245412	  0.030015	  -0.000000
+ 
+the required root is : 1.3247 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.28/2_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the equation is:
+ 
+ 
+            2     4   6  
+    36 - 49x + 14x - x   
+ 
+ 
+0.8571
+ 
+1.871
+ 
+3.742
+ 
+the equation is:
+ 
+ 
+                    2      3     4     5   6  
+  - 36 - 132x - 193x - 144x - 58x - 12x - x   
+ 
+ 
+0.9821
+ 
+1.942
+ 
+3.146
+ 
+It is apparent from the outputs that the roots converge at 1 2 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.29/2_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ roots correct to 3 decimal places are : 1.325       0.754 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.31/2_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+coditions for convergence is satisfied
+
+ 
+ X	         Y	
+
+ 
+0.737500	       0.850000	
+0.838696	       0.944500	
+0.899312	       0.978416	
+0.937391	       0.991460	
+0.961360	       0.996598	
+0.976320	       0.998642	
+0.985572	       0.999457	
+0.991247	       0.999783	
+0.994707	       0.999913	
+0.996807	       0.999965	
+ 
+
+
+ CONVERGENCE AT (1 1) IS OBVIOUS 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.32/2_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the roots of the equation are x2=0.970803 and y2=0.998752  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.33/2_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    0.7071  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the roots of the equation are x2=0.786184 and y2=0.618039  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH2/EX2.34/2_34.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the roots of the equation are x2=0.6537 and y2=1.5874  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pp  =
+ 
+    3.5  
+ pp  =
+ 
+    3.5  
+ pp  =
+ 
+    8.75  
+ pp  =
+ 
+    3.5  
+ pp  =
+ 
+    8.75  
+ pp  =
+ 
+    13.125  
+ 
+value of function at 8.000000 is :990.000000 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pp  =
+ 
+  - 0.4  
+ pp  =
+ 
+  - 0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+  - 0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+  - 0.384  
+ pp  =
+ 
+  - 0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+  - 0.384  
+ pp  =
+ 
+  - 0.9984  
+ pp  =
+ 
+  - 0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+  - 0.384  
+ pp  =
+ 
+  - 0.9984  
+ pp  =
+ 
+  - 3.59424  
+ 
+value of function at 38 is :0.615661 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.7/3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the value of missing term of table is :31 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.384  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.384  
+ pp  =
+ 
+  - 0.9984  
+ 
+value of function at 0.120000 is :0.1205
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pp  =
+ 
+  - 0.8  
+ pp  =
+ 
+  - 0.8  
+ pp  =
+ 
+    1.44  
+ pp  =
+ 
+  - 0.8  
+ pp  =
+ 
+    1.44  
+ pp  =
+ 
+  - 4.032  
+ pp  =
+ 
+  - 0.8  
+ pp  =
+ 
+    1.44  
+ pp  =
+ 
+  - 4.032  
+ pp  =
+ 
+    15.3216  
+ 
+value of function at 0.260000 is :0.267
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pp  =
+ 
+    2.  
+ pp  =
+ 
+    2.  
+ pp  =
+ 
+    6.  
+ pp  =
+ 
+    2.  
+ pp  =
+ 
+    6.  
+ pp  =
+ 
+    24.  
+ pp  =
+ 
+    2.  
+ pp  =
+ 
+    6.  
+ pp  =
+ 
+    24.  
+ pp  =
+ 
+    120.  
+ 
+value of function at 0.400000 is :0.4241
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+value of function at 0.500000 is :0.3093
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.384  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.384  
+ pp  =
+ 
+  - 0.9984  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.384  
+ pp  =
+ 
+  - 0.9984  
+ pp  =
+ 
+    3.59424  
+ pp  =
+ 
+    0.4  
+ pp  =
+ 
+  - 0.24  
+ pp  =
+ 
+    0.384  
+ pp  =
+ 
+  - 0.9984  
+ pp  =
+ 
+    3.59424  
+ pp  =
+ 
+  - 16.533504  
+ 
+value of function at 1.170000 is :3.222
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    0.01  
+ 
+ 
+ 
+ 
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the value at 0.644000 by stirling formula is : 1.904082
+
+ 
+ 
+ 
+ the value at 0.644000 by bessels formula is : 1.904059
+
+ 
+ 
+ 
+ 
+ the value at 0.644000 by everrets formula is : 1.904044
+
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    0.01  
+ 
+ 
+ 
+ 
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the value at 0.638000 by stirling formula is : 1.892692
+
+ 
+ 
+ 
+ 
+ the value at 0.638000 by bessels formula is : 1.892692
+
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.12/3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    0.01  
+ 
+ 
+ 
+ 
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the value at 1.747500 by bessels formula is : 0.1742089204
+
+ 
+ 
+ 
+ 
+ the value at 1.747500 by everrets formula is : 0.1742089122
+
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.13/3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.857825  
+ p  =
+ 
+    1.48626  
+ p  =
+ 
+    1.2739371  
+ p  =
+ 
+    0.620725  
+ p  =
+ 
+    2.4829  
+ p  =
+ 
+    4.9658  
+ p  =
+ 
+    0.49686  
+ p  =
+ 
+  - 1.49058  
+ p  =
+ 
+  - 4.47174  
+ p  =
+ 
+    0.3553  
+ p  =
+ 
+  - 0.3553  
+ p  =
+ 
+    0.7106  
+ 
+ 
+ log_301=   
+ 
+    2.4785971  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.14/3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    0.625  
+ p  =
+ 
+    0.5  
+ p  =
+ 
+    1.125  
+ p  =
+ 
+    1.9285714  
+ p  =
+ 
+    0.8  
+ p  =
+ 
+  - 0.5714286  
+ 
+ 
+ Y_X=   
+ 
+    1.8571429  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.15/3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l0(x)=   
+ 
+                 2  
+    15 - 11x + 2x   
+ 
+ 
+ 
+ 
+ l1(x)=   
+ 
+                 2  
+  - 24 + 20x - 4x   
+ 
+ 
+ 
+ 
+ l2(x)=   
+ 
+                2  
+    10 - 9x + 2x   
+ 
+ 
+ the calculated value is 0.994116: 
+
+
+ the error occured in the value is 0.000864627 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.16/3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    0.  
+ p  =
+ 
+    0.  
+ p  =
+ 
+    0.4714067  
+ p  =
+ 
+    0.6285422  
+ p  =
+ 
+    0.3333333  
+ p  =
+ 
+  - 0.1111111  
+ 
+ 
+ sin_x0=   
+ 
+    0.5174311  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.17/3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l0(x)=   
+ 
+                               2  
+    1 - 0.5833333x + 0.0833333x   
+ 
+ 
+ 
+ 
+ l1(x)=   
+ 
+                           2  
+    1.3333333x - 0.3333333x   
+ 
+ 
+ 
+ 
+ l2(x)=   
+ 
+                 2  
+  - 0.75x + 0.25x   
+ 
+ 
+ f_(x)=   
+ 
+               2  
+    12 - 5x + x   
+ 
+ 
+ the required polynimial is :   
+ 
+                 2   3  
+  - 12 + 17x - 6x + x   
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.18/3_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l0(x)=   
+ 
+                 2  
+    15 - 11x + 2x   
+ 
+ 
+ 
+ 
+ l1(x)=   
+ 
+                 2  
+  - 24 + 20x - 4x   
+ 
+ 
+ 
+ 
+ l2(x)=   
+ 
+                2  
+    10 - 9x + 2x   
+ 
+ 
+ the calculated value is 0.994116: 
+ 
+ 
+ est_err  =
+ 
+    0.00175  
+ 
+
+
+ the error agrees with the actual error 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.19/3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l0(x)=   
+ 
+                           2  
+    2.5464791x - 1.6211389x   
+ 
+ 
+ 
+ 
+ l1(x)=   
+ 
+                           2  
+  - 0.6366198x + 0.8105695x   
+ 
+ 
+ 
+ 
+
+
+ the error agrees with the actual error 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.21/3_21.sce #
+ 
+ 
+ 
+ 
+ x  =
+ 
+    2.    2.5    3.  
+ 
+ y  =
+ 
+    0.69315    0.91629    1.09861  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l0(x)=   
+ 
+                 2  
+    15 - 11x + 2x   
+ 
+ 
+ 
+ 
+ l1(x)=   
+ 
+                 2  
+  - 24 + 20x - 4x   
+ 
+ 
+ 
+ 
+ l2(x)=   
+ 
+                2  
+    10 - 9x + 2x   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the approximate value of ln(2.70) is 0.993362: 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.22/3_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ valure of log(301) is :2.4786 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.23/3_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    X   
+ 
+ f_x  =
+ 
+          2    3   4  
+  - 6 + 5X - 3X + X   
+ 
+ 
+ the polynomial equation is =   
+ 
+          2    3   4  
+  - 6 + 5X - 3X + X   
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.24/3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d  =
+ 
+    9.9142  
+ d  =
+ 
+    2.4787  
+ d  =
+ 
+    4.9574  
+ 
+ d  =
+ 
+    2.4781  
+ d  =
+ 
+    4.9574  
+ 
+ d  =
+ 
+    4.9538  
+ 
+ the value of log(301) is : 2.476900 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.25/3_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.105263 
+ 0.149876 
+ 0.153210 
+ 0.154107 
+ 0.154347 
+  
+ the approximate square root of 10 is: 2.154 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH3/EX3.26/3_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ y	
+ 
+
+0
+1
+2
+3
+4 
+
+
+-----------------------------------------------x--------------------------------------------
+ 
+0	     1	    2	    3	   4	
+ 
+--------------------------------------------------------------------------------------------
+ 
+0	1	4	9	16	
+2	3	6	11	18	
+6	7	10	15	22	
+12	13	16	21	28	
+18	19	22	27	34	
+ 
+ 
+ 
+ 
+ 
+ the interpolated value when x=2.5 and y=1.5 is : 10.500000 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_x2  =
+ 
+    0.  
+ S_xy  =
+ 
+    0.  
+ S1  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+x	     y	      x^2	     x*y	       (y-avg(S_y))	(y-a0-a1x)^2
+
+ 
+1	    0.60	    1	      0.60	        7.84	                     0.0784	
+2	    2.40	    4	      4.80	        1.00	                     0.0676	
+3	    3.50	    9	      10.50	        0.01	                     0.0100	
+4	    4.80	    16	      19.20	        1.96	                     0.0196	
+5	    5.70	    25	      28.50	        5.29	                     0.0484	
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+15	     17.00	     55	      63.60	     16.10	                  0.2240	
+
+ 
+ 
+the correlation coefficient is:0.9930 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x	     y	     x^2	     xy	  
+
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_x2  =
+ 
+    0.  
+ 
+0	    -1	    0	       0	
+2	    5	    4	       10	
+5	    12	    25	       60	
+7	    20	    49	       140	
+ 
+14	      36	    78	      210	
+ 
+ 
+ 
+ 
+Best straight line fit Y=-1.1379+x(2.8966) 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.3/4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_z  =
+ 
+    0.  
+ S_x2  =
+ 
+    0.  
+ S_y2  =
+ 
+    0.  
+ S_z2  =
+ 
+    0.  
+ S_xy  =
+ 
+    0.  
+ S_zx  =
+ 
+    0.  
+ 
+ 
+x	       y	      z	      x^2	      xy	     zx	     y^2	    yz
+
+ 
+0	    0	    2	    0	    0	    0	    0	     0
+1	    1	    4	    1	    1	    4	    1	     4
+2	    3	    3	    4	    6	    6	    9	     9
+4	    2	    16	    16	    8	    64	    4	     32
+6	    8	    8	    36	    48	    48	    64	     64
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+13	    14	     33	     57	    63	    122	     78	    109
+
+ 
+ 
+ 
+ 
+solution of above equation is:a=2 b=5 c=-3 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.4/4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_x2  =
+ 
+    0.  
+ 
+X	    Y=lny	      X^2	     XY
+
+ 
+1	    0.905	    1	   0.905
+3	    1.905	    9	   5.716
+5	    2.905	    25	   14.527
+7	    3.905	    49	   27.338
+9	    4.905	    81	   44.149
+ 
+----------------------------------------------------------------------------------------------------------------------------
+
+ 
+25	   14.527	    165	    92.636	
+
+ 
+ 
+ 
+ 
+y=1.500exp(0.50x) 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.5/4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S_X  =
+ 
+    0.  
+ S_Y  =
+ 
+    0.  
+ S_X2  =
+ 
+    0.  
+ 
+X	    Y	    X^2	    XY	
+
+ 
+0.333	    0.140	   0.111	   0.047	
+0.200	    0.098	   0.040	   0.020	
+0.125	    0.074	   0.016	   0.009	
+0.083	    0.061	   0.007	   0.005	
+ 
+----------------------------------------------------------------------------------------
+
+ 
+0.742	    0.373	   0.174	   0.081
+
+ 
+ 
+ 
+ 
+ 
+y=x/(0.316200+0.034500*x) 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x	   y	   x^2	   x^3	   x^4	   x*y	   x^2*y	
+
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_x2  =
+ 
+    0.  
+ S_x3  =
+ 
+    0.  
+ S_x4  =
+ 
+    0.  
+ S_xy  =
+ 
+    0.  
+ 
+0	   1	   0	   0	   0	   0	   0
+1	   6	   1	   1	   1	   6	   6
+2	   17	   4	   8	   16	   34	   68
+ 
+--------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3	   24	   5	   9	   17	   40	   74
+ 
+ 
+ 
+ 
+a=1  b=2  c=3 
+
+ 
+exact polynomial :1 + 2*x +3*x^2 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x	   y	   x^2	   x^3	   x^4	   x*y	   x^2*y	
+
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_x2  =
+ 
+    0.  
+ S_x3  =
+ 
+    0.  
+ S_x4  =
+ 
+    0.  
+ S_xy  =
+ 
+    0.  
+ 
+1	   0.630	   1	   1	   1	   0.630	   0
+3	   2.050	   9	   27	   81	   6.150	   18
+4	   4.080	   16	   64	   256	   16.320	   65
+6	   10.780	   36	   216	   1296	   64.680	   388
+ 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+14	   17.540	   62	   308	   1634	   87.780	   472.440
+ 
+ 
+ 
+ 
+a=1.24  b=-1.05  c=0.44 
+
+ 
+exact polynomial :1.24 + -1.05*x +0.44*x^2 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.8/4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I1  =
+ 
+    1.54  
+ I1  =
+ 
+    8.22  
+ I1  =
+ 
+    10.03  
+ 
+ I1  =
+ 
+    0.3343333  
+ 
+ 
+ 
+ I2  =
+ 
+    1.81  
+ I2  =
+ 
+    9.69  
+ I2  =
+ 
+    11.84  
+ 
+ 
+ 
+ 
+ 
+ I3  =
+ 
+    0.  
+ I3  =
+ 
+  - 0.668  
+ I3  =
+ 
+  - 1.03  
+ 
+ I3  =
+ 
+  - 0.0343333  
+ 
+ 
+ I4  =
+ 
+    0.  
+ I4  =
+ 
+    0.  
+ I4  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ I5  =
+ 
+    2.15  
+ I5  =
+ 
+    11.55  
+ I5  =
+ 
+    14.13  
+ 
+ 
+ 
+ I6  =
+ 
+    2.58  
+ I6  =
+ 
+    13.9  
+ I6  =
+ 
+    17.01  
+ 
+ 
+ 
+ I7  =
+ 
+    0.  
+ I7  =
+ 
+  - 0.94  
+ I7  =
+ 
+  - 1.456  
+ 
+ 
+ 
+ I8  =
+ 
+  - 0.516  
+ I8  =
+ 
+  - 3.912  
+ I8  =
+ 
+  - 2.668  
+ 
+ 
+ 
+ 
+ Z  =
+ 
+    0.0327193  
+    0.9361367  
+ 
+ 
+ 
+ R  =
+ 
+    0.9840395  
+  - 0.9513202  
+ 
+ the unknown value of equation is 1   -1 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.9/4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_W  =
+ 
+    0.  
+ S_Wx  =
+ 
+    0.  
+ S_Wx2  =
+ 
+    0.  
+ S_Wy  =
+ 
+    0.  
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+  - 1.  
+ S_W  =
+ 
+    1.  
+ S_Wx  =
+ 
+    0.  
+ S_Wx2  =
+ 
+    0.  
+ S_Wy  =
+ 
+  - 1.  
+ S_Wxy  =
+ 
+    0.  
+ S_x  =
+ 
+    2.  
+ S_y  =
+ 
+    4.  
+ S_W  =
+ 
+    2.  
+ S_Wx  =
+ 
+    2.  
+ S_Wx2  =
+ 
+    4.  
+ S_Wy  =
+ 
+    4.  
+ S_Wxy  =
+ 
+    10.  
+ S_x  =
+ 
+    7.  
+ S_y  =
+ 
+    16.  
+ S_W  =
+ 
+    12.  
+ S_Wx  =
+ 
+    52.  
+ S_Wx2  =
+ 
+    254.  
+ S_Wy  =
+ 
+    124.  
+ S_Wxy  =
+ 
+    610.  
+ S_x  =
+ 
+    14.  
+ S_y  =
+ 
+    36.  
+ S_W  =
+ 
+    13.  
+ S_Wx  =
+ 
+    59.  
+ S_Wx2  =
+ 
+    303.  
+ S_Wy  =
+ 
+    144.  
+ S_Wxy  =
+ 
+    750.  
+ 
+ 
+ 
+x	   y	   W	   Wx	   Wx^2	   Wy	   Wxy	
+
+ 
+0	   -1	   1	    0	   0	   -1	    0	
+2	   5	   1	    2	   4	   5	    10	
+5	   12	   10	    50	   250	   120	    600	
+7	   20	   1	    7	   49	   20	    140	
+ 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+14	   36	   13	   59	   303	   144	    750	
+ 
+ 
+
+
+the equation is y=-1.349345+2.737991x 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+    0.  
+ S_W  =
+ 
+    0.  
+ S_Wx  =
+ 
+    0.  
+ S_Wx2  =
+ 
+    0.  
+ S_Wy  =
+ 
+    0.  
+ 
+ S_x  =
+ 
+    0.  
+ S_y  =
+ 
+  - 1.  
+ S_W  =
+ 
+    1.  
+ S_Wx  =
+ 
+    0.  
+ S_Wx2  =
+ 
+    0.  
+ S_Wy  =
+ 
+  - 1.  
+ S_Wxy  =
+ 
+    0.  
+ S_x  =
+ 
+    2.  
+ S_y  =
+ 
+    4.  
+ S_W  =
+ 
+    2.  
+ S_Wx  =
+ 
+    2.  
+ S_Wx2  =
+ 
+    4.  
+ S_Wy  =
+ 
+    4.  
+ S_Wxy  =
+ 
+    10.  
+ S_x  =
+ 
+    7.  
+ S_y  =
+ 
+    16.  
+ S_W  =
+ 
+    102.  
+ S_Wx  =
+ 
+    502.  
+ S_Wx2  =
+ 
+    2504.  
+ S_Wy  =
+ 
+    1204.  
+ S_Wxy  =
+ 
+    6010.  
+ S_x  =
+ 
+    14.  
+ S_y  =
+ 
+    36.  
+ S_W  =
+ 
+    103.  
+ S_Wx  =
+ 
+    509.  
+ S_Wx2  =
+ 
+    2553.  
+ S_Wy  =
+ 
+    1224.  
+ S_Wxy  =
+ 
+    6150.  
+ 
+ 
+ 
+x	   y	   W	   Wx	   Wx^2	   Wy	   Wxy	
+
+ 
+0	   -1	   1	    0	   0	   -1	    0	
+2	   5	   1	    2	   4	   5	    10	
+5	   12	   100	    500	   2500	   1200	    6000	
+7	   20	   1	    7	   49	   20	    140	
+ 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+14	   36	   103	   509	   2553	   1224	    6150	
+ 
+ 
+
+
+the equation is y=-1.412584+2.690562x 
+
+
+the value of y(5) is 12.040227 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.11/4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the equations are:
+
+ 
+ 
+ 
+ 
+ the quadratic equation is of the form -0.024325+1.195745x+-0.338240x^2 
+ 
+ y  =
+ 
+    0.7061676  
+ 
+
+
+sin(pi/4)=0.706167587 
+
+
+error in the preecing solution 0.000939194 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH4/EX4.20/4_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the solutions after first key equation
+
+ 
+ 
+    5.  - 3.  
+    5.    1.  
+    5.  - 1.  
+    5.    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the solutions after second key equation
+
+ 
+ 
+    10.         10.       
+  - 3. - i    - 1. - 3.i  
+    0           0         
+  - 3. + i    - 1. + 3.i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the solutions after third key equation
+
+ 
+ 
+    20.                     
+  - 5.8284271 - 2.4142136i  
+    0                       
+  - 0.1715729 - 0.4142136i  
+    0                       
+  - 0.1715729 + 0.4142136i  
+    0                       
+  - 5.8284271 + 2.4142136i  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  - 15 + 7x   
+ 
+ 
+  - 39 + 19x   
+ 
+ the value of function at 2.5 is 8.50:  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.2/5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  2  
+    33 - 41x + 12x   
+ 
+the value of function is 2.5: 5.50 
+ 
+ 
+ 
+ 
+
+
+the first derivative at 2.0 :7.12 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.3/5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.  
+ M2  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  s1(x)=   
+ 
+                 2    3  
+  - 15 + 13x - 9x + 3x   
+ 
+ 
+ s2(x)=   
+ 
+                  2    3  
+    33 - 59x + 27x - 3x   
+ 
+ 
+ y(2.5)=   
+ 
+    7.375  
+ 
+ 
+ y1(2.0)=   
+ 
+    13.0009  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.4/5_4.sce #
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.    1.5707963    3.1415927  
+ 
+ y  =
+ 
+    0.    1.    0.  
+ 
+ h  =
+ 
+    1.5707963  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M0  =
+ 
+    0.  
+ 
+ 
+ 
+ B  =
+ 
+  - 0.7440714  
+  - 1.0527143  
+  - 0.7440714  
+ 
+M0=0.000000	   M1=-0.744071	   M2=-1.052714	   M3=-0.744071	   M4=0.000000	
+
+ 
+ 
+ 
+ 
+ the value of sin(pi/6) is:0.499722 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.5/5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ s1=   
+ 
+                     2     3  
+  - 128 + 261X - 160X + 33X   
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.7/5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+approximated value of z(0.5 0.5)=0.875000
+
+ 
+ error in the approximated value : 30.000000 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.8/5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the cubic splines for x=1 is 0.041667
+
+ 
+ 
+ 
+ 
+ the cubic splines for x=2 is  0.166667
+
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH5/EX5.9/5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+s11=0.000000	     s22=0.500000	    s23=0.000000	    s33=0.166667	   s34=0.000000	    s44=0.041667
+
+ 
+ 
+ s12  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+s13=1.000000	     s23=0.500000	     s24=0.000000	    s33=0.166667	    s34=0.166667	     s44=0.166667
+
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.1/6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    1.2  
+ 
+ 
+ 
+the first derivative of fuction at 1.2 is:3.320317
+ 
+ 
+the second derivative of fuction at 1.2 is:3.319167
+ 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    2.2  
+ 
+ 
+ 
+the first derivative of fuction at 1.2 is:9.022817
+ 
+ 
+the second derivative of fuction at 1.2 is:8.992083
+ 
+ 
+ 
+
+ 
+the first derivative of function at 1.2 is:7.389633
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.3/6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    1.6  
+ 
+ 
+ f1  =
+ 
+    4.885975  
+ 
+the first derivative of function at 1.6 is:4.885975
+ 
+ 
+the second derivative of function at 1.6 is:4.953361
+ 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.4/6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x0  =
+ 
+    1.6  
+ 
+ 
+ 
+the first derivative of fuction at 1.2 is:3.320317
+ 
+ 
+the second derivative of fuction at 1.2 is:3.319167
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total error in first derivative is 0.03379:
+  
+total error in second derivative is 0.02167: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.5/6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ M0  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ S1(pi/4)=   
+ 
+    0.7161972  
+ 
+ 
+ 
+ 
+ S2(pi/4)=   
+ 
+  - 0.6079271  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.6/6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+  - 12.  - 8.    3.    5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ the value y1(1.00) is : 3.527232 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.7/6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p=   
+ 
+    3.757732  
+ 
+ 
+ 
+ 
+ the value of X correct to 2 decimal places is : 1.58 
+ 
+ 
+ the value Y=   
+ 
+    0.999972  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.8/6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.93  
+ area  =
+ 
+    5.83  
+ area  =
+ 
+    9.79  
+ area  =
+ 
+    13.81  
+ area  =
+ 
+    17.87  
+ area  =
+ 
+    19.93  
+ 
+ 
+area bounded by the curve is 0.099650 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.9/6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+y=y^2;
+      !       
+at line       7 of exec file called by :    
+S._S._Sastry_1673/CH6/EX6.9/6_9.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    4.9172326  
+ area  =
+ 
+    6.7562111  
+ area  =
+ 
+    10.060608  
+ area  =
+ 
+    10.76873  
+ 
+ 
+area bounded by the curve is 2.819247 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.10/6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    2.3333333  
+ area  =
+ 
+    2.8333333  
+ 
+ 
+area bounded by the curve by trapezoidal method with h=0.500000 is 0.708333
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    3.6666667  
+ area  =
+ 
+    4.1666667  
+ 
+ 
+area bounded by the curve by simpson 1/3rd method with h=0.500000 is 0.694444
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    2.6  
+ area  =
+ 
+    3.9333333  
+ area  =
+ 
+    5.0761905  
+ area  =
+ 
+    5.5761905  
+ 
+ 
+area bounded by the curve by trapezoidal method with h=0.250000 is 0.697024
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    4.2  
+ area  =
+ 
+    5.5333333  
+ area  =
+ 
+    7.8190476  
+ area  =
+ 
+    8.3190476  
+ 
+ 
+area bounded by the curve by simpson 1/3rd method with h=0.250000 is 0.693254
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    2.7777778  
+ area  =
+ 
+    4.3777778  
+ area  =
+ 
+    5.8323232  
+ area  =
+ 
+    7.1656566  
+ area  =
+ 
+    8.3964258  
+ area  =
+ 
+    9.5392829  
+ area  =
+ 
+    10.60595  
+ area  =
+ 
+    11.10595  
+ 
+ 
+area bounded by the curve by trapezoidal method with h=0.125000 is 0.694122
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    4.5555556  
+ area  =
+ 
+    6.1555556  
+ area  =
+ 
+    9.0646465  
+ area  =
+ 
+    10.39798  
+ area  =
+ 
+    12.859518  
+ area  =
+ 
+    14.002375  
+ area  =
+ 
+    16.135709  
+ area  =
+ 
+    16.635709  
+ 
+ 
+area bounded by the curve by simpson 1/3rd method with h=0.125000 is 0.693155
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.11/6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    2.3333333  
+ area  =
+ 
+    2.8333333  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    2.6  
+ area  =
+ 
+    3.9333333  
+ area  =
+ 
+    5.0761905  
+ area  =
+ 
+    5.5761905  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area  =
+ 
+    1.  
+ area  =
+ 
+    2.7777778  
+ area  =
+ 
+    4.3777778  
+ area  =
+ 
+    5.8323232  
+ area  =
+ 
+    7.1656566  
+ area  =
+ 
+    8.3964258  
+ area  =
+ 
+    9.5392829  
+ area  =
+ 
+    10.60595  
+ area  =
+ 
+    11.10595  
+ 
+ 
+ 
+results obtained with h=0.5 0.25 0.125 is 0.708333 0.697024 0.694122
+ 
+ 
+ I1  =
+ 
+    0.6932540  
+ I1  =
+ 
+    0.6932540  
+    0.6931545  
+ 
+ T2  =
+ 
+    0.6931214  
+ 
+the area is 0.693121 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.12/6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    10.    20.    30.    40.    50.  
+ 
+ T_area  =
+ 
+    0.  
+ x  =
+ 
+    0.    0.1    0.2    0.3    0.4    0.5    0.6    0.7    0.8    0.9    1.  
+ T_area  =
+ 
+    1.  
+ T_area  =
+ 
+    2.9899749  
+ T_area  =
+ 
+    4.9495667  
+ T_area  =
+ 
+    6.8574451  
+ T_area  =
+ 
+    8.6904753  
+ T_area  =
+ 
+    10.422526  
+ T_area  =
+ 
+    12.022526  
+ T_area  =
+ 
+    13.450812  
+ T_area  =
+ 
+    14.650812  
+ T_area  =
+ 
+    15.522592  
+ T_area  =
+ 
+    15.522592  
+ S_area  =
+ 
+    1.  
+ S_area  =
+ 
+    4.9799497  
+ S_area  =
+ 
+    6.9395415  
+ S_area  =
+ 
+    10.755298  
+ S_area  =
+ 
+    12.588329  
+ S_area  =
+ 
+    16.05243  
+ S_area  =
+ 
+    17.65243  
+ S_area  =
+ 
+    20.509002  
+ S_area  =
+ 
+    21.709002  
+ S_area  =
+ 
+    23.452561  
+ S_area  =
+ 
+    23.452561  
+ T_area  =
+ 
+    0.7761296  
+    0.         
+ x  =
+ 
+ 
+         column  1 to 10
+ 
+    0.    0.05    0.1    0.15    0.2    0.25    0.3    0.35    0.4    0.45  
+ 
+         column 11 to 20
+ 
+    0.5    0.55    0.6    0.65    0.7    0.75    0.8    0.85    0.9    0.95  
+ 
+         column 21
+ 
+    1.  
+ T_area  =
+ 
+    0.7761296  
+    1.         
+ T_area  =
+ 
+    0.7761296  
+    2.9974984  
+ T_area  =
+ 
+    0.7761296  
+    4.9874733  
+ T_area  =
+ 
+    0.7761296  
+    6.9648453  
+ T_area  =
+ 
+    0.7761296  
+    8.9244371  
+ T_area  =
+ 
+    0.7761296  
+    10.860929  
+ T_area  =
+ 
+    0.7761296  
+    12.768807  
+ T_area  =
+ 
+    0.7761296  
+    14.642307  
+ T_area  =
+ 
+    0.7761296  
+    16.475337  
+ T_area  =
+ 
+    0.7761296  
+    18.261394  
+ T_area  =
+ 
+    0.7761296  
+    19.993445  
+ T_area  =
+ 
+    0.7761296  
+    21.663774  
+ T_area  =
+ 
+    0.7761296  
+    23.263774  
+ T_area  =
+ 
+    0.7761296  
+    24.783642  
+ T_area  =
+ 
+    0.7761296  
+    26.211928  
+ T_area  =
+ 
+    0.7761296  
+    27.534804  
+ T_area  =
+ 
+    0.7761296  
+    28.734804  
+ T_area  =
+ 
+    0.7761296  
+    29.788369  
+ T_area  =
+ 
+    0.7761296  
+    30.660149  
+ T_area  =
+ 
+    0.7761296  
+    31.284649  
+ T_area  =
+ 
+    0.7761296  
+    31.284649  
+ S_area  =
+ 
+    0.7817520  
+    1.         
+ S_area  =
+ 
+    0.7817520  
+    4.9949969  
+ S_area  =
+ 
+    0.7817520  
+    8.9497409  
+ S_area  =
+ 
+    0.7817520  
+    12.822724  
+ S_area  =
+ 
+    0.7817520  
+    16.569723  
+ S_area  =
+ 
+    0.7817520  
+    20.141837  
+ S_area  =
+ 
+    0.7817520  
+    23.482496  
+ S_area  =
+ 
+    0.7817520  
+    26.522233  
+ S_area  =
+ 
+    0.7817520  
+    29.167984  
+ S_area  =
+ 
+    0.7817520  
+    31.275115  
+ S_area  =
+ 
+    0.7817520  
+    32.524114  
+ S_area  =
+ 
+    0.7817520  
+    32.524114  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.         
+ x  =
+ 
+ 
+         column 1 to 7
+ 
+    0.    0.0333333    0.0666667    0.1    0.1333333    0.1666667    0.2  
+ 
+         column  8 to 13
+ 
+    0.2333333    0.2666667    0.3    0.3333333    0.3666667    0.4  
+ 
+         column 14 to 19
+ 
+    0.4333333    0.4666667    0.5    0.5333333    0.5666667    0.6  
+ 
+         column 20 to 25
+ 
+    0.6333333    0.6666667    0.7    0.7333333    0.7666667    0.8  
+ 
+         column 26 to 31
+ 
+    0.8333333    0.8666667    0.9    0.9333333    0.9666667    1.  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    1.         
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    2.9988886  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    4.9944392  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    6.9844141  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    8.9665566  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    10.938583  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    12.898175  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    14.842969  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    16.770546  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    18.678425  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    20.564043  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    22.424747  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    24.257778  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    26.060245  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    27.829112  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    29.561163  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    31.252973  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    32.900867  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    34.500867  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    36.048625  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    37.539337  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    38.967623  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    40.327362  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    41.611452  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    42.811452  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    43.916994  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    44.914769  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    45.786549  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    46.504571  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    47.016647  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    47.016647  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    1.         
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    4.9977772  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    6.9933278  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    10.973278  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    12.95542   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    16.899473  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    18.859065  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    22.748652  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    24.67623   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    28.491987  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    30.377605  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    34.099014  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    35.932045  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    39.536979  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    41.305846  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    44.769948  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    46.461758  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    49.757547  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    51.357547  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    54.453063  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    55.943775  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    58.800346  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    60.160085  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    62.728266  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    63.928266  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    66.139349  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    67.137125  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    68.880684  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    69.598706  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    70.622859  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    70.622859  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.         
+ x  =
+ 
+ 
+         column 1 to 9
+ 
+    0.    0.025    0.05    0.075    0.1    0.125    0.15    0.175    0.2  
+ 
+         column 10 to 18
+ 
+    0.225    0.25    0.275    0.3    0.325    0.35    0.375    0.4    0.425  
+ 
+         column 19 to 27
+ 
+    0.45    0.475    0.5    0.525    0.55    0.575    0.6    0.625    0.65  
+ 
+         column 28 to 36
+ 
+    0.675    0.7    0.725    0.75    0.775    0.8    0.825    0.85    0.875  
+ 
+         column 37 to 41
+ 
+    0.9    0.925    0.95    0.975    1.  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    1.         
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    2.9993749  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    4.9968733  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    6.9912404  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    8.9812153  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    10.965529  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    12.942901  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    14.912038  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    16.871629  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    18.820347  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    20.756839  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    22.679727  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    24.587605  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    26.479034  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    28.352533  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    30.206583  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    32.039613  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    33.85      
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    35.636057  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    37.396028  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    39.128079  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    40.830283  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    42.500613  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    44.13692   
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    45.73692   
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    47.298169  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    48.818038  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    50.293673  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    51.721959  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    53.099456  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    54.422332  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    55.686254  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    56.886254  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    58.01652   
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    59.070085  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    60.038331  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    60.910111  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    61.670045  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    62.294545  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    62.738955  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    62.738955  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    1.         
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    4.9987498  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    8.9874839  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    12.956111  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    16.894385  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    20.79182   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    24.637597  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    28.420453  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    32.128552  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    35.749325  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    39.269268  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    42.673677  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    45.946291  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    49.06879   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    52.020061  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    54.775056  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    57.302901  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    59.563432  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    61.499924  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    63.019792  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    63.908612  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    63.908612  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    0.         
+ x  =
+ 
+ 
+         column  1 to 10
+ 
+    0.    0.02    0.04    0.06    0.08    0.1    0.12    0.14    0.16    0.18  
+ 
+         column 11 to 20
+ 
+    0.2    0.22    0.24    0.26    0.28    0.3    0.32    0.34    0.36    0.38  
+ 
+         column 21 to 30
+ 
+    0.4    0.42    0.44    0.46    0.48    0.5    0.52    0.54    0.56    0.58  
+ 
+         column 31 to 40
+ 
+    0.6    0.62    0.64    0.66    0.68    0.7    0.72    0.74    0.76    0.78  
+ 
+         column 41 to 50
+ 
+    0.8    0.82    0.84    0.86    0.88    0.9    0.92    0.94    0.96    0.98  
+ 
+         column 51
+ 
+    1.  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    1.         
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    2.9996     
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    4.9979993  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    6.9943961  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    8.9879858  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    10.977961  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    12.963508  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    14.943811  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    16.918045  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    18.885379  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    20.844971  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    22.79597   
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    24.737516  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    26.668733  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    28.588733  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    30.496612  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    32.391447  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    34.272298  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    36.138202  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    37.988175  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    39.821205  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    41.636254  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    43.432249  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    45.208087  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    46.962624  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    48.694675  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    50.403007  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    52.086337  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    53.743323  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    55.372556  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    56.972556  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    58.541759  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    60.078509  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    61.58104   
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    63.047464  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    64.47575   
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    65.863698  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    67.208912  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    68.508758  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    69.760317  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    70.960317  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    72.105044  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    73.190217  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    74.210805  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    75.160752  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    76.032532  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    76.816369  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    77.498718  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    78.058718  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    78.456713  
+ T_area  =
+ 
+    0.7761296  
+    0.7821162  
+    0.7836108  
+    0.7842369  
+    78.456713  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    1.         
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    4.9991999  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    6.9975993  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    10.990393  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    12.983983  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    16.963932  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    18.94948   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    22.910086  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    24.88432   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    28.818987  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    30.778578  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    34.680578  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    36.622124  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    40.484558  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    42.404558  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    46.220315  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    48.11515   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    51.876852  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    53.742756  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    57.442702  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    59.275733  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    62.905829  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    64.701824  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    68.2535    
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    70.008037  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    73.472139  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    75.180471  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    78.547131  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    80.204117  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    83.462582  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    85.062582  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    88.20099   
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    89.737739  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    92.742802  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    94.209226  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    97.065797  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    98.453746  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    101.14417  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    102.44402  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    104.94714  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    106.14714  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    108.43659  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    109.52176  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    111.56294  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    112.51289  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    114.25645  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    115.04028  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    116.40498  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    116.96498  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    117.76097  
+ S_area  =
+ 
+    0.7817520  
+    0.5420686  
+    0.7846984  
+    0.5325718  
+    117.76097  
+ 
+ no of subintervals      Trapezoidal Rule       Simpsons Rule	 
+ 
+ 
+ 10                          0.776129582                  0.78175204           
+  20                          0.78211622                  0.542068572           
+  30                          0.783610789                  0.784698434           
+  40                          0.784236934                  0.532571765           
+  50                          0.784567128                  0.785073144           
+  
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.13/6_13.sce #
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    0.    1.    0.  
+ 
+ 
+ M0  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ the value of the integrand is : 0.625000 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.15/6_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the value of integrand with h=0.785398 is : 0.837331
+
+ 
+ 
+ y  =
+ 
+    0.    0.3826834    0.7071068    0.9238795    1.  
+ 
+ 
+ the value of integrand with h=0.392699 is : 1.077106 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.17/6_17.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.  
+ b  =
+ 
+    1.5707963  
+ 
+ I  =
+ 
+    1.0022799  
+ 
+ I  =
+ 
+    1.0022799  
+    0.7072019  
+ 
+ I  =
+ 
+    1.0022799  
+    0.7072019  
+    0.2929326  
+ 
+ 
+ 
+ 
+ 
+the calculated area obtained is:1.000135
+ 
+the actual area obtained is:1.000000
+ 
+the actual error obtained is:0.000135
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.18/6_18.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.  
+ b  =
+ 
+    1.5707963  
+ 
+ I  =
+ 
+    16.57549  
+ 
+ I  =
+ 
+    16.57549   
+    7.4549159  
+ 
+ I  =
+ 
+    16.57549   
+    7.4549159  
+    9.1119931  
+ 
+ 
+ 
+ 
+ 
+the calculated area obtained is:16.566909
+ 
+the actual area obtained is:16.566371
+ 
+the actual error obtained is:0.000538
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.19/6_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the value of integrand is : 0.49999 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH6/EX6.20/6_20.sce #
+ 
+ 
+ 
+ 
+ 
+ h0  =
+ 
+    0.5  
+ 
+ 
+ 
+ T_area  =
+ 
+    3.0762743  
+ 
+the integration value by trapezoidal method  is 3.076274
+  
+ S_area  =
+ 
+    2.9544837  
+ 
+the integration value by Simpson method  is 2.954484 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.1/7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ A_1  =
+ 
+    1.  - 2.    1.  
+    0.    1.  - 2.  
+    0.    0.    1.  
+ 
+1  -2  0  
+0  1  -2  
+0  0  1  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.2/7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ L  =
+ 
+    0.    0.  
+ L  =
+ 
+    0.    0.    0.  
+ 
+ U  =
+ 
+    0.  
+    0.  
+ U  =
+ 
+    0.  
+    0.  
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Matrix A in Triangle form
+ 
+ 
+Matrix L
+ 
+1.00  0.00  0.00  
+0.50  1.00  0.00  
+1.50  -7.00  1.00  
+ 
+
+ 
+ 
+Matrix U
+ 
+2.00  3.00  1.00  
+0.00  0.50  2.50  
+0.00  0.00  18.00  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.3/7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+||A||1=18
+ 
+ s  =
+ 
+    1.  
+ s  =
+ 
+    5.  
+ s  =
+ 
+    14.  
+ s  =
+ 
+    30.  
+ s  =
+ 
+    55.  
+ s  =
+ 
+    91.  
+ s  =
+ 
+    140.  
+ s  =
+ 
+    204.  
+ s  =
+ 
+    285.  
+ 
+||A||e=16.882
+ 
+ 
+ 
+||A||~=24
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.6/7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ j  =
+ 
+    1.  
+ 
+    2.    1.    1.    10.  
+    3.    2.    3.    18.  
+    1.    4.    9.    16.  
+ A  =
+ 
+    2.    1.    1.    5.   
+    3.    2.    3.    18.  
+    1.    4.    9.    16.  
+ A  =
+ 
+    2.    1.    0.5    5.   
+    3.    2.    3.     18.  
+    1.    4.    9.     16.  
+ A  =
+ 
+    2.    0.5    0.5    5.   
+    3.    2.     3.     18.  
+    1.    4.     9.     16.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    3.    2.     3.     18.  
+    1.    4.     9.     16.  
+ 
+    1.    0.5    0.5    5.   
+    3.    2.     3.     18.  
+    1.    4.     9.     16.  
+ l  =
+ 
+    3.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    2.     3.     18.  
+    1.    4.     9.     16.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    3.     18.  
+    1.    4.     9.     16.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    18.  
+    1.    4.     9.     16.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    3.   
+    1.    4.     9.     16.  
+ l  =
+ 
+    1.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    3.   
+    0.    4.     9.     16.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    3.   
+    0.    3.5    9.     16.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    3.   
+    0.    3.5    8.5    16.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    3.   
+    0.    3.5    8.5    11.  
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    3.   
+    0.    3.5    8.5    11.  
+ j  =
+ 
+    2.  
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    3.   
+    0.    3.5    8.5    11.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    1.5    6.   
+    0.    3.5    8.5    11.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    0.5    3.     6.   
+    0.    3.5    8.5    11.  
+ A  =
+ 
+    1.    0.5    0.5    5.   
+    0.    1.     3.     6.   
+    0.    3.5    8.5    11.  
+ 
+    1.    0.5    0.5    5.   
+    0.    1.     3.     6.   
+    0.    3.5    8.5    11.  
+ l  =
+ 
+    0.5  
+ A  =
+ 
+    1.    0.     0.5    5.   
+    0.    1.     3.     6.   
+    0.    3.5    8.5    11.  
+ A  =
+ 
+    1.    0.   - 1.     5.   
+    0.    1.     3.     6.   
+    0.    3.5    8.5    11.  
+ A  =
+ 
+    1.    0.   - 1.     2.   
+    0.    1.     3.     6.   
+    0.    3.5    8.5    11.  
+ l  =
+ 
+    3.5  
+ A  =
+ 
+    1.    0.  - 1.     2.   
+    0.    1.    3.     6.   
+    0.    0.    8.5    11.  
+ A  =
+ 
+    1.    0.  - 1.    2.   
+    0.    1.    3.    6.   
+    0.    0.  - 2.    11.  
+ A  =
+ 
+    1.    0.  - 1.    2.   
+    0.    1.    3.    6.   
+    0.    0.  - 2.  - 10.  
+ 
+    1.    0.  - 1.    2.   
+    0.    1.    3.    6.   
+    0.    0.  - 2.  - 10.  
+ j  =
+ 
+    3.  
+ 
+    1.    0.  - 1.    2.   
+    0.    1.    3.    6.   
+    0.    0.  - 2.  - 10.  
+ A  =
+ 
+    1.    0.  - 1.    2.  
+    0.    1.    3.    6.  
+    0.    0.  - 2.    5.  
+ A  =
+ 
+    1.    0.  - 1.    2.  
+    0.    1.    3.    6.  
+    0.    0.    1.    5.  
+ 
+    1.    0.  - 1.    2.  
+    0.    1.    3.    6.  
+    0.    0.    1.    5.  
+ l  =
+ 
+  - 1.  
+ A  =
+ 
+    1.    0.    0.    2.  
+    0.    1.    3.    6.  
+    0.    0.    1.    5.  
+ A  =
+ 
+    1.    0.    0.    7.  
+    0.    1.    3.    6.  
+    0.    0.    1.    5.  
+ l  =
+ 
+    3.  
+ A  =
+ 
+    1.    0.    0.    7.  
+    0.    1.    0.    6.  
+    0.    0.    1.    5.  
+ A  =
+ 
+    1.    0.    0.    7.  
+    0.    1.    0.  - 9.  
+    0.    0.    1.    5.  
+ 
+    1.    0.    0.    7.  
+    0.    1.    0.  - 9.  
+    0.    0.    1.    5.  
+ 
+
+x(1 )=7
+
+x(2 )=-9
+
+x(3 )=5
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.7/7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI  =
+ 
+  - 3.  
+ AI  =
+ 
+  - 3.   
+    12.  
+ AI  =
+ 
+  - 3.   
+    12.  
+  - 5.   
+ 
+ AI  =
+ 
+  - 3.     2.5  
+    12.    0.   
+  - 5.     0.   
+ AI  =
+ 
+  - 3.     2.5  
+    12.  - 8.5  
+  - 5.     0.   
+ AI  =
+ 
+  - 3.     2.5  
+    12.  - 8.5  
+  - 5.     3.5  
+ 
+ AI  =
+ 
+  - 3.     2.5  - 0.5  
+    12.  - 8.5    0.   
+  - 5.     3.5    0.   
+ AI  =
+ 
+  - 3.     2.5  - 0.5  
+    12.  - 8.5    1.5  
+  - 5.     3.5    0.   
+ AI  =
+ 
+  - 3.     2.5  - 0.5  
+    12.  - 8.5    1.5  
+  - 5.     3.5  - 0.5  
+ 
+the inverse of the matrix
+ 
+-3     2.5     -0.5     
+12     -8.5     1.5     
+-5     3.5     -0.5     
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.8/7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ B  =
+ 
+    9.  
+    6.  
+    8.  
+ 
+ L  =
+ 
+    0.    0.  
+ L  =
+ 
+    0.    0.    0.  
+ 
+ U  =
+ 
+    0.  
+    0.  
+ U  =
+ 
+    0.  
+    0.  
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Matrix A in Triangle form
+ 
+ 
+Matrix L
+ 
+1.00  0.00  0.00  
+0.50  1.00  0.00  
+1.50  -7.00  1.00  
+ 
+
+ 
+ 
+Matrix U
+ 
+2.00  3.00  1.00  
+0.00  0.50  2.50  
+0.00  0.00  18.00  
+ 
+ 
+ 
+ the values of x=1.944444,y=1.611111,z=0.277778 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.9/7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    501.005  
+ 
+ 
+ s  =
+ 
+    4.  
+ s  =
+ 
+    5.  
+ s  =
+ 
+    4.  
+ s  =
+ 
+    5.0201  
+ 
+ the fuction is ill conditioned 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.10/7_10.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.5      0.3333333    0.25       
+    0.2      0.1666667    0.1428571  
+    0.125    0.1111111    0.1        
+ 
+ 
+ A is ill-conditioned 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.11/7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    625.  
+ s  =
+ 
+    1201.  
+ s  =
+ 
+    1301.  
+ s  =
+ 
+    4356.  
+ s  =
+ 
+    10440.  
+ s  =
+ 
+    11809.  
+ s  =
+ 
+    8464.  
+ s  =
+ 
+    13793.  
+ s  =
+ 
+    20193.  
+ 
+ the fuction is ill conditioned 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.12/7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y1  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the exact solution is X=0.500000 	  Y=1.000000 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.14/7_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X1 2.849570 
+ 1.016750 
+ 1.033400 
+X2 2.991240 
+ 1.045957 
+ 1.033436 
+X3 2.986365 
+ 1.010549 
+ 1.010944 
+X4 2.996017 
+ 1.006145 
+ 1.004837 
+X5 2.997769 
+ 1.002205 
+ 1.002025 
+X6 2.998895 
+ 1.001064 
+ 1.000887 
+X7 2.999275 
+ 1.000498 
+ 1.000434 
+X8 2.999445 
+ 1.000290 
+ 1.000245 
+X9 2.999511 
+ 1.000200 
+ 1.000169 
+X10 2.999538 
+ 1.000165 
+ 1.000138 
+ 
+ the solution of the equation is converging at 3  1  1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    2.99124  
+ y  =
+ 
+    1.01054  
+ z  =
+ 
+    1.00386  
+ the value after 1 iteration is : 2.991240	 1.010540	 1.003860	
+
+ x  =
+ 
+    2.9971995  
+ y  =
+ 
+    1.0016651  
+ z  =
+ 
+    1.0008931  
+ the value after 2 iteration is : 2.997200	 1.001665	 1.000893	
+
+ x  =
+ 
+    2.9991735  
+ y  =
+ 
+    1.0004299  
+ z  =
+ 
+    1.0002513  
+ the value after 3 iteration is : 2.999174	 1.000430	 1.000251	
+
+ x  =
+ 
+    2.9994864  
+ y  =
+ 
+    1.0001912  
+ z  =
+ 
+    1.000141  
+ the value after 4 iteration is : 2.999486	 1.000191	 1.000141	
+
+ x  =
+ 
+    2.9995446  
+ y  =
+ 
+    1.0001491  
+ z  =
+ 
+    1.0001209  
+ the value after 5 iteration is : 2.999545	 1.000149	 1.000121	
+
+ 
+ again we conclude that roots converges at 3  1  1 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.15/7_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the eigen values are 
+
+ 
+ 
+    6.  
+    4.  
+  - 2.  
+ 
+ X1  =
+ 
+    0.  
+    1.  
+    0.  
+ 
+ 
+ 
+ 
+the eigen vectors for value -2 is 
+ 
+    0.  
+    1.  
+    0.  
+ 
+the eigen vectors for value 4 is 
+ 
+    0.7071068  
+    0.         
+  - 0.7071068  
+ 
+the eigen vectors for value 6 is 
+ 
+    0.7071068  
+    0.         
+    0.7071068  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.16/7_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ X0  =
+ 
+    1.  
+    1.  
+    0.  
+ 
+ 
+ X0=   
+ 
+    1.  
+    1.  
+    0.  
+ 
+ 
+ 
+ X1=   
+ 
+    7.  
+    3.  
+    0.  
+ 
+ 
+ 
+ X2=   
+ 
+    25.  
+    13.  
+    0.   
+ 
+ 
+ 
+ X3=   
+ 
+    8.3333333  
+    4.3333333  
+    0.         
+ 
+ 
+ 
+ 
+ X5=   
+ 
+    8.5833333  
+    4.25       
+    0.         
+ 
+ 
+ 
+ 
+ X7=   
+ 
+    2.1302083  
+    1.0677083  
+    0.         
+ 
+as it can be seen that highest eigen value is 4 
+
+ the eigen vector is 2 1 0 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.17/7_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ v2  =
+ 
+    0.8944272  
+ 
+ v3  =
+ 
+    0.4472136  
+ 
+ 
+ 
+ 
+ the reduced matrix is 
+
+ 
+1.00   -5.00   0.00   
+-5.00   0.40   0.20   
+0.00   0.20   2.60   
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH7/EX7.18/7_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ eigen values are 16.64  0.36
+
+ 
+ 
+ 
+ 
+ 
+ singular decomposition of A is given by 
+
+ 
+ 
+ 
+ 
+0.5483   0.1832   
+0.3236   0.8548   
+0.7730   -0.4884   
+ 
+
+
+ 
+4.0791   0.0000   
+0.0000   0.6005   
+ 
+
+
+ 
+0.4033   0.9166   
+0.9166   -0.4033   
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.1/8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.915  
+ k  =
+ 
+    0.911  
+ k  =
+ 
+    0.911275  
+ k  =
+ 
+    0.9112435  
+ 
+the value of the function at 0.10 is :0.9112 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.2/8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.005  
+ k  =
+ 
+    1.005  
+ k  =
+ 
+    1.0050125  
+ k  =
+ 
+    1.0050125  
+ k  =
+ 
+    1.0050125  
+ 
+the value of the function at 0.10 is :1.0050125 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.3/8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y (0.1) = 1.105
+  
+ y (0.2) = 1.26421
+  
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.4/8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y(0.25) = 0.00520833
+ 
+ y(0.50) = 0.0416655
+ 
+ y(1.00) = 0.332756
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.5/8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    1.    
+    0.99  
+
+y(0.01)=0.99
+ y  =
+ 
+    1.      
+    0.99    
+    0.9801  
+
+y(0.02)=0.9801
+ y  =
+ 
+    1.        
+    0.99      
+    0.9801    
+    0.970299  
+
+y(0.03)=0.970299
+ y  =
+ 
+    1.         
+    0.99       
+    0.9801     
+    0.970299   
+    0.9605960  
+
+y(0.04)=0.960596
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.6/8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    1.    
+    0.99  
+
+y(0.01)=0.99
+ y  =
+ 
+    1.      
+    0.99    
+    0.9801  
+
+y(0.02)=0.9801
+ y  =
+ 
+    1.        
+    0.99      
+    0.9801    
+    0.970299  
+
+y(0.03)=0.970299
+ y  =
+ 
+    1.         
+    0.99       
+    0.9801     
+    0.970299   
+    0.9605960  
+
+y(0.04)=0.960596
+ 
+L(1) =0.000050
+
+L(2) =0.000049
+
+L(3) =0.000049
+
+L(4) =0.000048
+
+ 
+ 
+e(1)=0.000000
+
+e(2)=0.000050
+
+e(3)=0.000099
+
+e(4)=0.000147
+
+ 
+ 
+ 
+ 
+ 
+  VERIFIED   
+ 
+ 
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.7/8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.    0.05    0.1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y1(0)	 y1(1)	 y1(2)	 y2(0)	 y2(1)	 y3(2)
+
+ 
+ 1.050000	    1.051313	    1.051533	    1.104003	     1.105508	    1.105546
+ 
+
+
+ the value of y at 0.10 is : 1.1055 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.8/8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y1  =
+ 
+    2.205  
+ 
+
+ y(0.1) by second order runge kutta method:2.2050 
+ 
+ 
+ 
+ y1  =
+ 
+    2.421025  
+ 
+
+ y(0.2) by second order runge kutta method:2.4210 
+ y  =
+ 
+    2.  
+ x  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.1) by fourth order runge kutta method:2.2052 
+ y  =
+ 
+    2.2051708  
+ x  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.1) by fourth order runge kutta method:2.4214 y  =
+ 
+    2.  
+ x  =
+ 
+    0.  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.9/8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    0.  
+ x  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.2) by fourth order runge kutta method:0.2027 
+ y  =
+ 
+    0.2027074  
+ x  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.4) by fourth order runge kutta method:0.4228 
+ y  =
+ 
+    2.  
+ x  =
+ 
+    0.  
+ 
+ y  =
+ 
+    0.4227890  
+ x  =
+ 
+    0.4  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.6) by fourth order runge kutta method:0.6841 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.10/8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    1.    
+    1.05  
+
+y(0)=1
+ y  =
+ 
+    1.      
+    1.05    
+    1.1325  
+
+y(0.1)=1.05
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.11/8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    0.  
+ x  =
+ 
+    0.  
+ h  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.2) by fourth order runge kutta method:0.2027 
+ y  =
+ 
+    0.2027074  
+ x  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.4) by fourth order runge kutta method:0.4228 
+ y  =
+ 
+    2.  
+ x  =
+ 
+    0.  
+ 
+ y  =
+ 
+    0.4227890  
+ x  =
+ 
+    0.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ y(0.6) by fourth order runge kutta method:0.6841 
+ 
+ 
+ 
+the predicted value is:1.0234:
+  
+ the computed value is:0.9512: 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.12/8_12.sce #
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    0.  
+ x  =
+ 
+    0.  
+ h  =
+ 
+    0.2  
+ 
+x                y              y1=1+y^2
+
+ 
+ 
+0.0000         0.0000      1.0000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.2000         0.2027      1.0411
+ 
+ y  =
+ 
+    0.2027074  
+ x  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y1  =
+ 
+    1.         
+    1.0410903  
+    1.1787505  
+ 
+0.4000         0.4228      1.1788
+ 
+ y  =
+ 
+    0.4227890  
+ x  =
+ 
+    0.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.6000         0.6841      1.4680
+ 
+ 
+y(0.8)=1.023869
+ 
+ 
+ 
+y(0.8)=1.029403
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.13/8_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   x                y                y1=x^2+y^2-2    
+
+ 
+  -0.10           1.090000           -0.801900           
+  0.00           1.000000           -1.000000           
+  0.10           0.890000           -1.197900           
+  0.20           0.760500           -1.381640           
+ 
+ 
+y(0.3)=0.614616
+ 
+ 
+ 
+corrected y(0.3)=0.614776 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.14/8_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+the erorr in the computed values are 0.0009724169  0.002497519 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.15/8_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y0  =
+ 
+    0.  
+ 
+ y1  =
+ 
+    0.1428571  
+ 
+computed value with h=0.500000 of y(0.5) is 0.142857
+ 
+error in the result with actual value 0.003363
+ 
+ 
+ y0  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+computed value with h=0.250000 of y(0.5) is 0.140312
+ 
+error in the result with actual value 0.000818
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.16/8_16.sce #
+ 
+ 
+ 
+ 
+ 
+ y0  =
+ 
+    0.  
+ 
+ y4  =
+ 
+    3.62686  
+ 
+ 
+ Y  =
+ 
+    0.5210953  
+ 
+ 
+ 
+ 
+ X  =
+ 
+    0.5263470  
+    1.1842808  
+    2.1382848  
+ 
+computed value with h=0.500000 of y(0.5) is 0.526347
+ 
+error in the result with actual value 0.005252
+ 
+ 
+ y0  =
+ 
+    0.  
+ 
+ y2  =
+ 
+    3.62686  
+ 
+ 
+ 
+with better approximation error is reduced to 0.000855 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.17/8_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y0  =
+ 
+    0.  
+ 
+ 
+ 
+the cubic spline value is 0.139494 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.18/8_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y1=0.653890
+
+ 
+ the error in the solution is :0.012777 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH8/EX8.19/8_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    2.0879144  
+    0.5724927  
+    0.2354175  
+    0.6538895  
+ 
+the computed value of y(1.5) is 0.653890  
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH9/EX9.1/9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ the values are u1=3	 u2=4	 u3=2	
+
+ the values are u1=3	 u2=4	 u3=2	
+
+ the values are u1=3	 u2=4	 u3=2	
+
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH9/EX9.2/9_2.sce #
+ 
+ 
+ 
+ 
+ 
+jacobis iteration process
+
+ 
+u1	     u2	     u3	     u4	 
+
+ 
+0.250000	     0.250000	     0.500000	     0.500000	  
+ 
+ u11  =
+ 
+    0.1875  
+0.187500	     0.187500	     0.437500	     0.437500	  
+ u11  =
+ 
+    0.15625  
+0.156250	     0.156250	     0.406250	     0.406250	  
+ u11  =
+ 
+    0.140625  
+0.140625	     0.140625	     0.390625	     0.390625	  
+ u11  =
+ 
+    0.1328125  
+0.132812	     0.132812	     0.382812	     0.382812	  
+ u11  =
+ 
+    0.1289063  
+0.128906	     0.128906	     0.378906	     0.378906	  
+ u11  =
+ 
+    0.1269531  
+0.126953	     0.126953	     0.376953	     0.376953	  
+ u11  =
+ 
+    0.1259766  
+0.125977	     0.125977	     0.375977	     0.375977	  
+ 
+ gauss seidel process
+
+ 
+ 
+u1	     u2	     u3	     u4	 
+
+ 
+0.250000	     0.312500	     0.562500	     0.468750	  
+ 
+ u1  =
+ 
+    0.1953125  
+0.195312	     0.189453	     0.414551	     0.402466	  
+ u1  =
+ 
+    0.1479797  
+0.147980	     0.140633	     0.385775	     0.383439	  
+ u1  =
+ 
+    0.1310178  
+0.131018	     0.129198	     0.378159	     0.377294	  
+ u1  =
+ 
+    0.1266231  
+0.126623	     0.126196	     0.375872	     0.375624	  
+ 
+u1	     u2	     u3	     u4	 
+
+ 
+0.126623	     0.126196	     0.375872	     0.375624	  
+ 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH9/EX9.4/9_4.sce #
+ 
+ 
+ 
+ 
+ 
+  u1	    u2	   u3	   u4	
+
+ 
+ 30.00	   45.00	   45.00	   67.50
+ 52.50	   67.50	   67.50	   78.75
+ 63.75	   73.12	   73.12	   81.56
+ 66.56	   74.53	   74.53	   82.27
+ 67.27	   74.88	   74.88	   82.44
+ 67.44	   74.97	   74.97	   82.49
+ 
+ from last two iterates we conclude u1=67   u2=75   u3=75   u4=83
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH9/EX9.6/9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ u11=2.00	  u12=3.00	  u13=2.00	 
+ 
+ 
+ 
+ 
+ u21=1.50	  u22=2.00	  u23=1.50	 
+ 
+ 
+ 
+ 
+ u31=1.00	  u32=1.50	  u33=1.00	 
+ 
+ 
+ 
+ 
+ u41=0.75	  u42=1.00	  u43=0.75	 
+ 
+ 
+ 
+ 
+ u51=0.50	  u52=0.75	  u53=0.50	 
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH9/EX9.7/9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ u11=0.475528	  u12=0.769421	  u13=0.769421	  u14=0.475528
+
+ 
+ 
+ u21=0.384710	  u22=0.622475	  u23=0.622475	  u24=0.384710
+
+ 
+ the error in the solution is: 0.018372
+
+ 
+ 
+ 
+ 
+ 
+ 
+ u11=0.399255	  u21=0.646018	  u31=0.646018	  u41=0.399255	
+
+ 
+ the error in the solution is: 0.005172
+
+ 
+grepthis#Introductory_Methods_Of_Numerical_Analysis_S._S._Sastry_1673/CH9/EX9.8/9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ u11=0.020833
+
+ 
+error is 0.002053
+
+ 
+ 
+ 
+ 
+ 
+ u12=0.013889
+
+ 
+error is 0.004891
+
+ 
+ 

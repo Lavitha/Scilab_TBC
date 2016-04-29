@@ -1,0 +1,19 @@
+ERROR: Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.1/2_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bar(t,Tl,0.5,'red')
+                    !--error 4 
+Undefined variable: bar
+at line      13 of exec file called by :    
+ing_T._Gonen_1904/CH2/EX2.1/2_1.sce',-1
+ 

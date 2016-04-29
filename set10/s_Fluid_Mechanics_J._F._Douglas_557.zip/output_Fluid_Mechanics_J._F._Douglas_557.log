@@ -1,0 +1,2970 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 104
+
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH10/EX10.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ ymax  =
+ 
+    0.0039531  
+ 
+ 
+ Velocity Distribution :   
+ 
+                           2  
+    566.38009y - 71638.009y   
+ 
+ Shear Distribution :   
+ 
+    509.74208 - 128948.42y   
+ 
+ Maximum Flow Velocity (m/s)   
+ 
+    3.35841  
+ 
+ Maximum Shear Stress (kN/m2):   
+ 
+    0.7797421  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH11/EX11.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shear stress at mid-length(N/m2)   
+ 
+    4.6915723  
+ 
+ Total, double-sided resistance of the plate (N) :   
+ 
+    33.224388  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH12/EX12.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lift Coefficient :   
+ 
+    0.4329992  
+ 
+ Drag Coefficient :   
+ 
+    0.4607730  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH13/EX13.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Staganation Pressure (kN/m2 ) :   
+ 
+    249.36864  
+ 
+ Temperature (Degree) :   
+ 
+    109.104  
+ 
+ Density of airstream (kg/M3):   
+ 
+    2.2739366  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean Velocity at C (m/s):   
+ 
+    1.2591483  
+ 
+ Pressure in the part at B (kN/m2):   
+ 
+  - 28.6065  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH15/EX15.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q using Chezy formula with C determined from the Kutter formula (m3/s) :   
+ 
+    5.6941467  
+ 
+ Q using the Manning formula(m3/s) :   
+ 
+    5.6941467  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH17/EX17.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volume of flow (m3/s):   
+ 
+    0.0602565  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH1/EX1.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Excess Pressure(N/m2) :   
+ 
+    145.4  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH22/EX22.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !----Blade Inlet Angles----!   
+ 
+ At tip :   
+ 
+    11.425662  
+ 
+ At Hub :   
+ 
+    15.081198  
+ 
+ !----Blade Outlet Angles (Degrees)----!   
+ 
+ At tip :   
+ 
+    19.489021  
+ 
+ At Hub :   
+ 
+    48.614365  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH24/EX24.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !----Part(a)----! Head at   
+ 
+!   Start(m)     End(m)       Mid(m)  !
+ 
+    8.2205003    9.3794997    8.3827602  
+ 
+ !----Part(b)----! Head at   
+ 
+!   Start(m)     End(m)       Mid(m)  !
+ 
+    10.453752    19.146248    17.929298  
+ 
+ !----Part(c)----1   
+ 
+ Drive speed for s eperation (rev/min) :   
+ 
+    39.879033i  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Increase in Pressure (KN/m2):   
+ 
+    301.6575  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH3/EX3.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moment about the hinge line (kN/m):   
+ 
+    37.910048  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Increase of pressure difference required (kN/m2):   
+ 
+    1.2  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Velocity of Jet through nozzle (m/s) :   
+ 
+    8.3138439  
+ 
+ 
+ Pressure in the suction pipe at the inlet to the pump at B(kN/m2) :   
+ 
+    32.58  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH8/EX8.1/1.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power(Kw)  :   
+ 
+    42.023486  
+ 
+ Conversion Factor :   
+ 
+    0.7372541  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH9/EX9.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean water tunnel flow velocity (m/s):   
+ 
+    200.  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH10/EX10.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dp  =
+ 
+    715051.33  
+ 
+ 
+ 
+ Pressure Loss (N/m2) :   
+ 
+    715.05133  
+ 
+ Maximum Flow rate(litres/s) :   
+ 
+    11.219974  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH11/EX11.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total drag on the plate (kN):   
+ 
+    6.3590078  
+ 
+ Transition length (m) :   
+ 
+    0.0166667  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH12/EX12.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expected total resistance (kN) :   
+ 
+    1412.0612  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH13/EX13.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DelP  =
+ 
+    41914.414  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Difference in height of mercury column in case (a) in mm :   
+ 
+    11.062515  
+ 
+ Difference in height of mercury column in case (b) in mm :   
+ 
+    314.16332  
+ 
+ Difference in height of mercury column in case (c) in mm :   
+ 
+    684.26761  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH15/EX15.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optimum depth = Optimum Width (in metres):   
+ 
+    0.5515042  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH16/EX16.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1  =
+ 
+    0.2226569  
+ 
+ 
+ 
+ 
+ Volume flow rate (m3/s) :   
+ 
+    0.3177379  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH17/EX17.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Area of test section (mm2):   
+ 
+    5359.375  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH22/EX22.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a) - Head developed (m):    
+ 
+    1.1418696  
+ 
+ Part (b) - Head developed (m):    
+ 
+    1.0114242  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH23/EX23.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E fficiency (%) :   
+ 
+    93.303111  
+ 
+ Diameter of Jet (m) :   
+ 
+    0.1561507  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Final Pressure (kN/m2):   
+ 
+    11.908424  
+ 
+ Final Density (kg/m3) :   
+ 
+    0.1917411  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH3/EX3.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reaction at top(kN) :   
+ 
+    72.185839  
+ 
+ Reaction at bottom (kN):   
+ 
+    221.45147  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH4/EX4.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A = %pi*d^2/4;
+            !       
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_J._F._Douglas_557/CH4/EX4.2/2.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ ! Diameter(mm)  Area(m2)   Flow Rate(m3/s) Velocity(m/s) !   
+ 
+    50.          0.0019635    0.0088357    4.5        
+    75.          0.0044179    0.0088357    2.         
+    70.710678    0.0039270    0.0058905    1.5        
+    30.          0.0007069    0.0029452    4.1666667  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+!Theta       vcos(x)          ρAv        Force  !
+ 
+!  deg           m/s         kg/s            N  !
+ 
+    0.     5.           2.4543693    12.271846  
+    15.    4.8296291    2.4543693    11.853693  
+    30.    4.330127     2.4543693    10.627731  
+    45.    3.5355339    2.4543693    8.6775057  
+    60.    2.5          2.4543693    6.1359232  
+    75.    1.2940952    2.4543693    3.1761875  
+    90.    0.           2.4543693    0.         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Force = rho*A*D^2;
+                  !       
+at line      32 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.2/2.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+!Theta    v    u     v-u       ρA(v-u)     Force  !
+ 
+! deg   m/s  m/s     m/s         kg/s          N  !
+ 
+    0.    5.    2.    3.    1.4726216    4.4178647  
+    0.    5.    1.    4.    1.9634954    7.8539816  
+    0.    5.    0.    5.    2.4543693    12.271846  
+    0.    5.  - 1.    6.    2.9452431    17.671459  
+    0.    5.  - 2.    7.    3.436117     24.052819  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pressure Difference(N/m2) :    
+ 
+    39486.092  
+ 
+ Difference in the level of mercury (m):   
+ 
+    0.2167160  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH7/EX7.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fluid Velocity(m/s) :   
+ 
+    0.4383677  
+ 
+ Alpha (Degree) :   
+ 
+    81.035189  
+ 
+ Beta (Degree):   
+ 
+    38.964811  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH9/EX9.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean water tunnel flow velocity (m/s):   
+ 
+    90.  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH10/EX10.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !---- Case (a) ----!   
+ 
+ Head Loss(mm) :   
+ 
+    92.475349  
+ 
+ Power Required(W) :   
+ 
+    0.0604789  
+ 
+ !---- Case(b) ----!   
+ 
+ Head Loss(m) :   
+ 
+    4.8414174  
+ 
+ Power Required (W) :   
+ 
+    23.747152  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flow throught pipe 1 (m3/s):   
+ 
+    0.0033983  
+ 
+ Flow throught pipe 2 (m3/s):   
+ 
+    0.0190071  
+ 
+ Diameter of single equivalent pipe(mm) :   
+ 
+    106.86639  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH16/EX16.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean Depth(Dm) Numerator Denominaotor      L(m)   
+ 
+    2.325    0.9576034    0.8625088    166.53802  
+    2.175    0.9482128    0.8320554    170.94044  
+    2.025    0.9358310    0.7919016    177.26274  
+    1.875    0.9191656    0.737856     186.85873  
+    1.725    0.8961915    0.6633517    202.65077  
+    1.575    0.8636176    0.5577151    232.27383  
+    1.425    0.8158569    0.4028284    303.79817  
+ 
+ distance upstream covered (approx in m):   
+ 
+    1440.3227  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH17/EX17.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mach No downstream shock wave :   
+ 
+    0.5773503  
+ 
+ Pressure (bar) of downstream shock wave :   
+ 
+    472.5  
+ 
+ Temperature (Degree C) of downstream shock wave :   
+ 
+    213.  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH20/EX20.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The percentage errors are given below are very small hence can be neglected :   
+ 
+    0.04    0.04  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH22/EX22.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ____Geometric Characterstics____   
+ 
+ Thickness to chord ratio :   
+ 
+    0.04375  
+ 
+ Camber to chord ratio :   
+ 
+    0.01875  
+ 
+ Lift Coefficient :   
+ 
+    0.9375  
+ 
+ angle of incidence (Degree) :   
+ 
+    3.75  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH23/EX23.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Guide vane angle (degree) :   
+ 
+    13.342364  
+ 
+ Vane angle at exit (degree) :   
+ 
+    25.376934  
+ 
+ Width of runner at inlet (mm) :   
+ 
+    69.644051  
+ 
+ Width of runner at exit(mm) :   
+ 
+    139.2881  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Final Pressure(kN/m2) :   
+ 
+    87.332277  
+ 
+ Density at 1200 m (in degree celcius) :   
+ 
+    3.2807367  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH3/EX3.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resultant force on the wall(kN)   
+ 
+    210.1896  
+ 
+ Height of the centre of pressure above the base(m) :   
+ 
+    0.8495941  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH4/EX4.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satisfy requirement of continuity    
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reaction in X-direction (N):   
+ 
+    14.  
+ 
+ 
+ Reaction in Y-direction (N) :   
+ 
+    17.320508  
+ 
+ 
+ Net Reaction (N):   
+ 
+    22.271057  
+ 
+ 
+ Inclination of Resultant Force with x-direction (Degree):   
+ 
+    51.051724  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thepretical Volume flow rate (m3/s ):   
+ 
+    0.1050804  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH7/EX7.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Width of Rankine Body (m):   
+ 
+    0.094  
+ 
+ Length of Rankine Body(m ) :   
+ 
+    2.1235103  
+ 
+ Velocity (m/s):   
+ 
+    25.668218  
+ 
+ Pressure Difference(N/m2) :   
+ 
+    16.92871rho   
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH9/EX9.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean wind tunnel flow velocity(m/s) :   
+ 
+    86.764706  
+ 
+ Percentage ratio of forces (%):   
+ 
+    6.9264069  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH10/EX10.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean Velocity (m/s):   
+ 
+    1.5325809  
+ 
+ Discharge (m3/s):   
+ 
+    8.2759371  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH12/EX12.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Time taken by the particle take to reach 99 per cent of its terminal velocity (s):   
+ 
+    0.0093704  
+ 
+ Reynolds No corrosponding to the velocity :   
+ 
+    0.109  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.0113097    0.0044179    0.0028274  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flow rate in pipe 1 (m3/s) :   
+ 
+    0.0209436  
+ 
+ Flow rate in pipe 2 (m3/s):   
+ 
+    0.0103882  
+ 
+ Flow rate in pipe 3 (m3/s):   
+ 
+    0.0105420  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH17/EX17.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Distance X1 at which the Mach number is unity (m) :   
+ 
+    48.444222  
+ 
+ Distance from the entrance (m):   
+ 
+    46.808148  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH25/EX25.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Operating point (m3/s):   
+ 
+    2.5518691  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Final Pressure (kN/m2) :   
+ 
+    40.888572  
+ 
+ Final Density (kg/m3 ):   
+ 
+    0.5875006  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH3/EX3.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Magnitute of resultant force(kN/m ) :   
+ 
+    179.45458  
+ 
+ Direction of resultant force to the horizontal(Degree):   
+ 
+    10.269012  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inlet Angle(Degree):    
+ 
+    48.053412  
+ 
+ Outlet Angle(Degree):   
+ 
+    43.181922  
+ 
+ Force exerted by vanes(N ) :   
+ 
+    8815.0649  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Coefficient of velocity :   
+ 
+    0.9682458  
+ 
+ Coefficient of Discharge :   
+ 
+    0.6182742  
+ 
+ Coefficient of contraction :   
+ 
+    0.6385509  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH7/EX7.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Normal component of velocity (m/s):   
+ 
+  - 0.8200180  
+ 
+ Radial Velocity (m/s):   
+ 
+  - 0.5909039  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH9/EX9.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)Ratio of pressure losses between the model and the prototype if water is used    
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ (b)Ratio of pressure losses between the model and the prototype if air is used    
+ 
+    26.341463  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH10/EX10.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Radius at which the actual velocity is equal to the mean velocity :   
+ 
+    0.7577221R   
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH12/EX12.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Velocity of air stream blowing vertically up (m/s) :   
+ 
+    1.1568662  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ K_exit  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fan Pressure input (N/m2) :   
+ 
+    1254.5801  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH17/EX17.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pressure at the outlet, neglecting velocity changes (kN)   
+ 
+    153.61716  
+ 
+ Pressure at the outlet, allowing for velocity changes (kN) :   
+ 
+    150.41493  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH20/EX20.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak water level (m):   
+ 
+    2.299432  
+ 
+ Mass Oscillation Period (s) :    
+ 
+    90.804155  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH23/EX23.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean diameter (mm) :    
+ 
+    325.54822  
+ 
+ Torque Coefficient :   
+ 
+    0.0007985  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a)   
+ 
+ Equivalent head of water (m) :   
+ 
+    35.67788  
+ 
+ Part (b)   
+ 
+ Equivalent head of water (m):   
+ 
+    2.6233735  
+ 
+ Absolute pressure(kN/m2)   
+ 
+    451.3  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH3/EX3.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of pontoon (kN):    
+ 
+    1059.48  
+ 
+ Draught in sea (m):   
+ 
+    1.4634146  
+ 
+ Load (kN) :   
+ 
+    353.16  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resultant force on the bend(kN):   
+ 
+    6.3621593  
+ 
+ 
+ Inclination of Resultant Force with x-direction(Degree) :   
+ 
+    31.011005  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage error in discharge (%):   
+ 
+    1.9809551  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH7/EX7.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pressuer Gradient (N/m3 ) :   
+ 
+    500.  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH9/EX9.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water flow rate (m3/s ):   
+ 
+    0.0678823  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH12/EX12.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total drag on full sized wing (kN) :   
+ 
+    2.6490692  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A = %pi*D^2/4;
+            !       
+at line      15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.6/6.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ fan Pressure input (N/m2) :   
+ 
+    684.51291  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gauge pressure (k/m2) :   
+ 
+    19.62  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH3/EX3.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum height of center of gravity above bottom(m) :   
+ 
+    1.7476711  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reaction (N):   
+ 
+    47.143525  
+ 
+ 
+ Work done per second (W):   
+ 
+    56.57223  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ H  =
+ 
+    0.5227131  
+ 
+ 
+ 
+ 
+ Percentage error in discharge(%)   
+ 
+    0.7174107  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH9/EX9.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fan test speed (rev/s):   
+ 
+    990.76923  
+ 
+ Flow rate (m3/s):   
+ 
+    1.4153846  
+ 
+ Pressure rise(N/m2 ) :   
+ 
+    141.53846  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH10/EX10.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Velocity (m/s):   
+ 
+    9.132558  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ total Volume flow rate (m3/s):   
+ 
+    0.1015947  
+ 
+ Head at C (m):   
+ 
+    75.48223  
+ 
+ Percentage valve opening (%) :   
+ 
+    38.577951  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH25/EX25.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of fans required :   
+ 
+    6.  
+ 
+ Total  power consumed (KW) :   
+ 
+    75.6  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !-----Part (a)-----!   
+ 
+ Gauge pressure (kN/m2):   
+ 
+    116.1504  
+ 
+ !-----Part (b)-----!   
+ 
+ Gauge pressure (kN/m2):   
+ 
+  - 27.468  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH3/EX3.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Angle of roll (Degree) :   
+ 
+    2.623557  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)Burning time (s):    
+ 
+    180.  
+ 
+ 
+ (b)Speed of rocket when all fuel is burned (m/s):   
+ 
+    1530.0369  
+ 
+ 
+ (c)Maximum height reached (km):   
+ 
+    203.83517  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q :   
+ 
+    0.207  
+ 
+ 
+ 
+ 
+ V(m/s) :   
+ 
+    0.3833333  
+ 
+ Q(m3/s) :   
+ 
+    0.2160777  
+ 
+ V(m/s) :   
+ 
+    0.4001439  
+ 
+ Q(m3/s) :   
+ 
+    0.2168403  
+ 
+ V(m/s) :   
+ 
+    0.4015562  
+ 
+ Q(m3/s) :   
+ 
+    0.2169056  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH25/EX25.8/8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tunnel Velocity(m/s) :   
+ 
+    4.198492  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.8/8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pressure difference (kN/m2):   
+ 
+    89.4672  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.8/8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)Thrust (kN) :   
+ 
+    22.77  
+ 
+ 
+ 
+ 
+ (b)Work done per second (kW) :   
+ 
+    4554.  
+ 
+ 
+ 
+ 
+ (c)Efficiency (%):   
+ 
+    44.684296  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.8/8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PartI(a) power of the jet(kW)   
+ 
+    283.14  
+ 
+ Part(b) power supplied from the reservoir (kW):   
+ 
+    306.072  
+ 
+ Part(C) head used to overcome losses (m):    
+ 
+    17.981651  
+ 
+ Part(d) Efficiency(%) :   
+ 
+    92.507645  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH9/EX9.8/8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tidal Period (minutes):   
+ 
+    9.6049987  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.8/8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Qby2hsum  =
+ 
+    0.0022045  
+ Qby2hsum  =
+ 
+    0.0064836  
+ Qby2hsum  =
+ 
+    0.0082157  
+ Qby2hsum  =
+ 
+    0.0022145  
+ Qby2hsum  =
+ 
+    0.0064006  
+ Qby2hsum  =
+ 
+    0.0081230  
+ 
+ 
+ 
+ Q_ad (m3/s) :   
+ 
+    0.1097306  
+ 
+ Q_db (m3/s) :   
+ 
+  - 0.0437416  
+ 
+ Q_dc (m3/s) :   
+ 
+  - 0.0696701  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.9/9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Time of discharge by direct integration (s):    
+ 
+    7078.6957  
+ 
+ 
+ 
+ 
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.25  
+ 
+ Value of t (s) :    
+ 
+    7078.6957  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.125  
+ 
+ Value of t (s) :    
+ 
+    7078.6957  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.0083  
+ 
+ Value of t (s) :    
+ 
+    7046.8986  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.0063  
+ 
+ Value of t (s) :    
+ 
+    7062.1568  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.005  
+ 
+ Value of t (s) :    
+ 
+    7078.6957  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.0042  
+ 
+ Value of t (s) :    
+ 
+    7062.1568  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH25/EX25.9/9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ht1  =
+ 
+    11.115448  
+ 
+ 
+ 
+ 
+ Elevation of pump (m):   
+ 
+  - 0.8511258  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH2/EX2.9/9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !-----Part (a): rhoM is negligible assuming zero-----!   
+ 
+ Pressure Differnece(kN/m2):   
+ 
+    1.962  
+ 
+ !-----Part (b)-----!   
+ 
+ Pressure Differnece(N/m2):   
+ 
+  - 392.4  
+ 
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.9/9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part(a) Speed of rotation (rad/s ):   
+ 
+    19.575575  
+ 
+ Part(b) Upward force on the cover (N):    
+ 
+    56.167671  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH5/EX5.10/10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Torque exerted (N- m):   
+ 
+    24400.  
+ 
+ 
+ Theoretical power output (kW) :   
+ 
+    613.23889  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH6/EX6.10/10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Height above datum of a point B on the free surface at a radius of 100 mm (mm):   
+ 
+  - 40.  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH25/EX25.11/11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part(A) : number of air changes per hour if the garage is in continuous use and the maximum permissible concentration of carbon monoxide is 0 
+      .1 per cent. :                                                                                                                           
+ 
+    1.6  
+ 
+ Part(B) : number of air changes per hour if this maximum level is reached after 1 hour and the garage is out of use :   
+ 
+    1.0271701  
+ 
+ Part(C) :the concentration after 20 minutes (Parts per 10000) :   
+ 
+    4.5354952  
+ 
+ Part(D) : time necessary to run the ventilation system at the rate calculated in (b) to reduce the concentration to 0.001 per cent (in hours) 
+       :                                                                                                                                       
+ 
+    4.6051702  
+ 
+grepthis#Fluid_Mechanics_J._F._Douglas_557/CH14/EX14.12/12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Time of discharge by direct integration (s):    
+ 
+    2600.2069  
+ 
+ 
+ 
+ 
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.25  
+ 
+ Value of t (s):    
+ 
+    2600.2069  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.125  
+ 
+ Value of t (s):    
+ 
+    2600.2069  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.0083  
+ 
+ Value of t (s):    
+ 
+    2582.8656  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.0063  
+ 
+ Value of t (s):    
+ 
+    2598.4716  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.005  
+ 
+ Value of t (s):    
+ 
+    2600.2069  
+ 
+ ______For Interval(Dh in m)_____   
+ 
+    0.0042  
+ 
+ Value of t (s):    
+ 
+    2598.4716  
+ 
+ 

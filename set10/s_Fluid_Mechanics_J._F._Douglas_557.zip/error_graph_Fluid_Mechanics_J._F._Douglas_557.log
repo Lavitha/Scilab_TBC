@@ -1,0 +1,73 @@
+ERROR: Fluid_Mechanics_J._F._Douglas_557/CH23/EX23.1/1.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fluid_Mechanics_J._F._Douglas_557/1');xend();exit();
+                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      20 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_J._F._Douglas_557/CH23/EX23.1/1.sce',-1)
+ 
+ERROR: Fluid_Mechanics_J._F._Douglas_557/CH25/EX25.1/1.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exec("intersectFunc.sci");
+                          !--error 241 
+File "intersectFunc.sci" does not exist.
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_J._F._Douglas_557/CH25/EX25.1/1.sce',-1)
+ 
+ERROR: Fluid_Mechanics_J._F._Douglas_557/CH4/EX4.1/1.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean velocity (m/s):   
+ 
+    23.3625  
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fluid_Mechanics_J._F._Douglas_557/1');xend();exit();
+                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      18 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_J._F._Douglas_557/CH4/EX4.1/1.sce',-1)
+ 

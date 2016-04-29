@@ -1,0 +1,356 @@
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH6/EX6.3/6_03.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ From the graph,we can see that we should use plug flow with recycle   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+  The vol of reactor is 1.080000 
+m3 
+ The recycle flow rate is 0.060714 
+m3/min 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part b 
+
+ For 1 tank volume is 9.000000 
+m3 
+ For 2 tank the volume is 2.192000 
+m3 
+
+ Part c 
+ 
+ We should use mixed flow followed by plug flow   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ For MFR volume(m3) is 0.120000 
+
+ For PFR volume(m3) is 0.580000 
+
+ Total volume is 0.700000 
+m3 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH9/EX9.2/9_02.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  From the graph we see temp must stay below 78 C if conversion of 75% or 
+       above is expected                                                  
+ 
+ 
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH11/EX11.1/11_01.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The mean residence time(min) is 15.000000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH11/EX11.3/11_03.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column  1 to 11
+ 
+    1.    2.    3.    4.    5.    6.    7.    8.    9.    10.    11.  
+ 
+         column 12 to 14
+ 
+    12.    13.    14.  
+ 
+ Cout  =
+ 
+ 
+         column  1 to 11
+ 
+    0.    0.    0.    0.    0.    0.    0.    0.4    4.2    5.1    5.2  
+ 
+         column 12 to 14
+ 
+    2.5    0.6    0.  
+ 
+ 
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH14/EX14.4/14_04.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH18/EX18.5/18_05.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amount of catalyst needed(kg) is 142.142164 
+ 
+ The answer slightly differs from those given in book as trapezoidal rule 
+       is used for calculating area                                       
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH19/EX19.1/19_01.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ From the plot we can say that a recycle reactor should be used   
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The weight of catalyst needed is  480.000000 
+ kg 
+ The Recycle Ratio is 1.000000 
+
+ The heat exchange for feed is 9.600000 
+ MW 
+ The heat excahnge for the product is -16.000000 
+ MW 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH19/EX19.2/19_02.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We should use a mixed flow reactor operating at optimum   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The weight of catalyst needed for 1st bed is 237.600000 
+kg 
+ The weight of catalyst needed for 2ndbed is 380.000000 
+kg 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The amount of heat exchanged for 1st reactor is -3.200000 
+MW 
+ 
+ 
+ 
+ 
+
+ The amount of heat exchanged for 2nd reactor is -1.800000 
+MW 
+ 
+ 
+ 
+
+ The amount of heat exchanged for exchanger is -1.800000 
+MW 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH21/EX21.2/21_02.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ for d=0,the mean conversion is  0.955970 
+
+ for d=1,the mean conversion is  0.732280 
+
+ for d=2,the mean conversion is  0.400874 
+
+ for d=3,the mean conversion is  0.298840 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH22/EX22.2/22_02.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rA  =
+ 
+    0.8104547  
+ rA  =
+ 
+    0.8104547  
+    0.6366061  
+ rA  =
+ 
+    0.8104547  
+    0.6366061  
+    0.3686183  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The time required for 90 percentage conversion of reactant is 57.666667 
+min 

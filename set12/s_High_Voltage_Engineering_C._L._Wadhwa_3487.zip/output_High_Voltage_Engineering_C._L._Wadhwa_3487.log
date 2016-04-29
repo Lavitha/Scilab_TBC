@@ -1,0 +1,1480 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 30
+
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ I  =
+ 
+    600.  
+ 
+ x  =
+ 
+    0.5  
+ 
+ V  =
+ 
+    10.  
+ 
+ I2  =
+ 
+    60.  
+ 
+ x2  =
+ 
+    0.1  
+ 
+ 
+ alpha  =
+ 
+    5.7564627  
+ 
+Townsends first ionising coefficient = 5.756463 ionizing collisions/cm 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ I1  =
+ 
+    1.500D-12  
+ 
+ I2  =
+ 
+    5.600D-12  
+ 
+ I0  =
+ 
+    6.000D-14  
+ 
+ gi1  =
+ 
+    3.2188758  
+ 
+ gi2  =
+ 
+    4.5361773  
+ 
+ slope  =
+ 
+  - 26.34603  
+ 
+ Slope = 26.346030 
+ 
+ 
+ e1  =
+ 
+    525978.12  
+ 
+ e2  =
+ 
+    525978.12  
+ 
+ ghama  =
+ 
+    0.0000018  
+ 
+ Ghama for set 1= 1.815505e-06 /cm 
+  
+ 
+ alpha  =
+ 
+    8.1093022  
+ 
+ Alpha = 8.109302e+00 collosions/cm 
+ 
+ e1  =
+ 
+    57.665039  
+ 
+ e2  =
+ 
+    57.665039  
+ 
+ ghama  =
+ 
+    0.0173365  
+ 
+ Ghama for set 2= 1.733653e-02 colissions/cm 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Vb1  =
+ 
+    88.  
+ 
+ Vb2  =
+ 
+    165.  
+ 
+ n1  =
+ 
+    0.9070707  
+ 
+ K1  =
+ 
+    25.024862  
+ 
+ 
+ 
+ Vb1  =
+ 
+    135.  
+ 
+ Vb2  =
+ 
+    212.  
+ 
+ n2  =
+ 
+    0.8800702  
+ 
+ K2  =
+ 
+    27.893694  
+ 
+ n  =
+ 
+    0.8935705  
+ 
+ K  =
+ 
+    26.459278  
+ 
+ n = 0.893570 (approx.) K = 26.459278 (approx.) 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    12.  
+ 
+ B  =
+ 
+    365.  
+ 
+ e  =
+ 
+    2.718  
+ 
+ ghama  =
+ 
+    0.02  
+ 
+ K  =
+ 
+    51.  
+ 
+ pd  =
+ 
+    0.8905585  
+ 
+ Vbmin  =
+ 
+    325.05385  
+ 
+ (pd)min = 0.890559 Vbmin = 325.053855 Volts 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ C  =
+ 
+    0.06  
+ 
+ I  =
+ 
+    1.  
+ 
+ f  =
+ 
+    150.  
+ 
+ n  =
+ 
+    10.  
+ 
+ V  =
+ 
+    79.62963  
+ 
+ perc  =
+ 
+    3.9814815  
+ 
+ (ia) Volatge regulation = 79.629630 kV 
+  
+ (ib) percentage volatge regulation = 3.981481 
+  
+ 
+ delV  =
+ 
+    6.1111111  
+ 
+ perc  =
+ 
+    0.3055556  
+ 
+ (iia) The ripple votage = 6.111111 kV 
+  
+ (iib) percentage ripple votage = 0.305556 
+  
+ 
+ Vmax  =
+ 
+    100.  
+ 
+ I  =
+ 
+    0.001  
+ 
+ OnS  =
+ 
+    30.  
+ 
+ 
+ Vout  =
+ 
+    4000.  
+ 
+ (iii) Optimum no. of stages = 30  
+  
+ (iv) Maximum output volatge = 4000 KV
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    100.  
+ 
+ R  =
+ 
+    4000.  
+ 
+ r  =
+ 
+    20000.  
+ 
+ Resistance of transformer = 4000 ohm 
+  
+ Reactance of transformer = 20000 ohm 
+  
+ rC  =
+ 
+    800.  
+ 
+ rI  =
+ 
+    20.  
+ 
+ ArI  =
+ 
+    780.  
+ 
+ Ic  =
+ 
+    2484.0764  
+ 
+ TrC  =
+ 
+    8.  
+ 
+ I  =
+ 
+    0.5  
+ 
+ Vsec  =
+ 
+    4.  
+ 
+ Vp  =
+ 
+    5.  
+ 
+ Reactance of capacitor = 800 K ohm 
+  
+ Inductive reactance = 20 ohm 
+  
+ Additional inductive reactance k Ohm= 780  
+  
+ Inductive required = 2484 H 
+  
+ Total reactance in cercuit = 8 Kohm 
+  
+ Secondary voltage = 4 kV 
+  
+ Secondary voltage = 5 volts 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ E  =
+ 
+    30000.  
+ 
+ E0  =
+ 
+    8.854D-12  
+ 
+ b  =
+ 
+    1.  
+ 
+ v  =
+ 
+    10.  
+ 
+ sigma  =
+ 
+    0.0000003  
+ 
+ sigma = 2.656200e-07 C/m^2 
+  
+ I  =
+ 
+    0.0000027  
+ 
+ I = 2.656200e-06 Amp 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    75.  
+ 
+ R2  =
+ 
+    2600.  
+ 
+ C1  =
+ 
+    25.  
+ 
+ C2  =
+ 
+    2.5  
+ 
+ alpha  =
+ 
+    2941025.6  
+ 
+ beeta  =
+ 
+    2927043.  
+ 
+ t1  =
+ 
+    0.0000010  
+ 
+ K  =
+ 
+    49.525352  
+ 
+ t2  =
+ 
+    0.0000511  
+ 
+ alpha = 2.941026e+06  
+  
+ beta = 2.927043e+06 
+  
+ K = 49.525352 
+  
+ t1 = 1.031666e+00 micro sec 
+  
+ t2 = 51.093626 micro sec 
+  
+ 
+ 
+ t1  =
+ 
+    5.625D-16  
+ 
+ 
+ t2  =
+ 
+    0.0000515  
+ 
+ t1 = 0.562500 micro sec 
+  
+ t2 = 51.493750 micro sec 
+  
+On comparison with the values obtained through exact formulate it is found that whereas wave tail time is more or less same, 
+ the wave front time as calculated through approximate formula is quite erroneous. 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    0.0000012  
+ 
+ C1  =
+ 
+    25.  
+ 
+ C2  =
+ 
+    0.4  
+ 
+ R1  =
+ 
+    1016.  
+ 
+ t2  =
+ 
+    0.00005  
+ 
+ R1R2  =
+ 
+    2812.1485  
+ 
+ R2  =
+ 
+    1796.1485  
+ 
+ R1 = 1016.000000 ohm 
+  
+ R2 = 1796.148481 ohm 
+  
+ 
+ ab  =
+ 
+    0.0143443  
+ 
+ ghama  =
+ 
+    62.5  
+ 
+ R2  =
+ 
+    2788.5714  
+ 
+ 
+ alpha  =
+ 
+    2.43  
+ 
+ beeta  =
+ 
+    2.415656  
+ 
+ R1  =
+ 
+    524.18083  
+ 
+ V0  =
+ 
+    1500.  
+ 
+ Vmax  =
+ 
+    1480.7613  
+ 
+ ghama = 62.500000 (large value)
+  
+ R2 = 2788.571429 ohm 
+ Since alpha aprox. equla to beta  
+ 
+ R1 = 524.180833 ohm 
+  
+ Vmax = 1480.761268 kV 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ R  =
+ 
+    1.  
+ 
+ C  =
+ 
+    0.000015  
+ 
+ L  =
+ 
+    0.002  
+ 
+ V  =
+ 
+    125.  
+ 
+ v  =
+ 
+    0.0433013  
+ 
+ pow  =
+ 
+  - 0.0662040  
+ 
+ e  =
+ 
+    0.9359399  
+ 
+ Imax  =
+ 
+    10.131847  
+ 
+ t1  =
+ 
+    0.0002648  
+ 
+ 
+ t2  =
+ 
+    1275.  
+ 
+ RHS  =
+ 
+    0.4657653  
+ 
+ Imax = 10.131847 KA 
+  
+ t1 = 264.815940 micro sec 
+  
+ t2 = 1275.000000 micro sec 
+  
+ RHS = 0.465765 
+  
+Therefore, time to 50 percent value is 1275 μ sec 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ S  =
+ 
+    0.2  
+ 
+ Vb  =
+ 
+    7.5630587  
+ 
+ Vb when S = 2 cm is 7.563059 kV 
+  
+ 
+ S  =
+ 
+    1.5  
+ 
+ Vb  =
+ 
+    43.776449  
+ 
+ Vb when S = 1.5 is 43.776449 kV 
+  
+ b  =
+ 
+    75.  
+ 
+ t  =
+ 
+    35.  
+ 
+ D  =
+ 
+    0.9545455  
+ 
+ Air density correction factor= 0.954545 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ AP  =
+ 
+    16.  
+ 
+ d  =
+ 
+    4.  
+ 
+ FA  =
+ 
+    0.00196  
+ 
+ V  =
+ 
+    1187.9394  
+ 
+ Area of plate =  16.000000 π sq.cm 
+  
+ V = 1187.939392 V 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ V  =
+ 
+    1000.  
+ 
+ F  =
+ 
+    0.005  
+ 
+ E  =
+ 
+    0.0277778  
+ 
+ A  =
+ 
+    25.  
+ 
+ d1  =
+ 
+    0.0026352  
+ 
+ d21  =
+ 
+    0.0379473  
+ 
+ d22  =
+ 
+    0.0365600  
+ 
+ C  =
+ 
+    9.634D-14  
+ 
+ d = 26.352314 mm 
+  
+ charge in capacitance = 0.096344 pF 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ Imin  =
+ 
+    0.000002  
+ 
+ Imax  =
+ 
+    0.000035  
+ 
+ V  =
+ 
+    150000.  
+ 
+ w  =
+ 
+    157.07963  
+ 
+ Cm  =
+ 
+    1.200D-13  
+ 
+ Ipeak  =
+ 
+    33.333333  
+ 
+ Cm = 1.200422 pF 
+  
+ At 250 kV, the current indicated will be = 33.333333 μA 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ V1  =
+ 
+    150000.  
+ 
+ PD  =
+ 
+    1200.  
+ 
+ I  =
+ 
+    0.000001  
+ 
+ t  =
+ 
+    8.  
+ 
+ V  =
+ 
+    125.  
+ 
+ R  =
+ 
+    1.250D+08  
+ 
+ C  =
+ 
+    0.064  
+ 
+ V = 125.000000 V 
+  
+ R = 125.000000 M Ω 
+  
+ C = 0.064000 μF 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ i  =
+ 
+    8000.  
+ 
+ V0  =
+ 
+    8.  
+ 
+ I  =
+ 
+    8000.  
+ 
+ rcI  =
+ 
+    1.000D+10  
+ 
+ R  =
+ 
+    8000.  
+ 
+ RCbyM  =
+ 
+    1000.  
+ 
+ t  =
+ 
+    0.0000008  
+ 
+ T  =
+ 
+    0.0000032  
+ 
+ f  =
+ 
+    312500.  
+ 
+ CR  =
+ 
+    0.000016  
+ 
+ M  =
+ 
+    1.600D-08  
+ 
+ C  =
+ 
+    2.000D-09  
+ 
+ Time for 1/4 cycle = 8.000000e-07 sec 
+  
+ Full time = 3.200000e-06 sec 
+  
+ f = 3.125000e+05 Hz 
+  
+ M = 1.600000e-08 H 
+  
+ C = 2.000000e-09 F 
+  
+ R = 8.000000e+03 Ω 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ Cs  =
+ 
+    106.  
+ 
+ C2  =
+ 
+    0.35  
+ 
+ R2  =
+ 
+    318.  
+ 
+ R1  =
+ 
+    130.  
+ 
+ w  =
+ 
+    314.  
+ 
+ Rs  =
+ 
+    0.4292453  
+ 
+ Cs1  =
+ 
+    259.29231  
+ 
+ tang  =
+ 
+    0.0349482  
+ 
+ cosp  =
+ 
+    0.0349482  
+ 
+ Rs = 0.429245 ohm 
+  
+ Cs = 259.292308 μF 
+  
+ tan δ s = 0.034948 
+  
+ cos φ = 0.034948 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ Cs  =
+ 
+    106.  
+ 
+ C2  =
+ 
+    0.35  
+ 
+ R2  =
+ 
+    318.  
+ 
+ R1  =
+ 
+    130.  
+ 
+ w  =
+ 
+    314.  
+ 
+ Cp  =
+ 
+    259.29231  
+ 
+ Rp  =
+ 
+    351.44382  
+ 
+ tang  =
+ 
+    0.0349482  
+ 
+ Rp = 351.443817 ohm 
+  
+ Cp = 259.292308 μF 
+  
+ tan δ = 0.034948 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ Cs  =
+ 
+    5.000D-10  
+ 
+ R1  =
+ 
+    800.  
+ 
+ R2  =
+ 
+    180.  
+ 
+ C2  =
+ 
+    0.15  
+ 
+ w  =
+ 
+    314.  
+ 
+ V  =
+ 
+    33000.  
+ 
+ Cp  =
+ 
+    1.125D-10  
+ 
+ Rp  =
+ 
+    3.339D+09  
+ 
+ tang  =
+ 
+    0.008478  
+ 
+ pl  =
+ 
+    0.3261395  
+ 
+ Rp = 3.339061e+09 ohm 
+  
+ Cp = 1.125000e-10 F 
+  
+ tan δ = 0.008478 
+  
+ Power loss = 0.326140 watts 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ t  =
+ 
+    60.  
+ 
+ C  =
+ 
+    6.000D-10  
+ 
+ V  =
+ 
+    250.  
+ 
+ v  =
+ 
+    92.  
+ 
+ R  =
+ 
+    1.000D+11  
+ 
+ R = 1.000328e+11 ohm 
+  
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ Ca  =
+ 
+    50.  
+ 
+ C  =
+ 
+    190.  
+ 
+ loss  =
+ 
+    0.0085  
+ 
+ Er  =
+ 
+    3.8  
+ 
+ tang  =
+ 
+    0.0085  
+ 
+ Er1  =
+ 
+    0.0323  
+ 
+ E0  =
+ 
+    0.8854  
+ 
+ E1  =
+ 
+    3.36452  
+ 
+ jE1  =
+ 
+    0.0285984  
+ 
+ The dielectric constant = 3.800000 
+  
+ tan δ = 0.008500 
+  
+ E = (3.364520 - j 0.028598 ) * 10^-11 F/m 
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ w  =
+ 
+    314.  
+ 
+ E0  =
+ 
+    8.854D-12  
+ 
+ Er  =
+ 
+    3.8  
+ 
+ tang  =
+ 
+    0.0085  
+ 
+ E  =
+ 
+    4000000.  
+ 
+ sigE  =
+ 
+    1436.7846  
+ 
+ σE^2 = 1436.784621 Watts/m^3
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+ 
+ Er  =
+ 
+    3.8  
+ 
+ v  =
+ 
+    21.  
+ 
+ ind  =
+ 
+    5.5263158  
+ 
+ V  =
+ 
+    7.0736842  
+ 
+ Internal discharge = 5.526316 kV/cm
+  
+ V = 7.073684 kV rms
+  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    100.  
+ 
+ r  =
+ 
+    0.75  
+ 
+ E0  =
+ 
+    2.778D-11  
+ 
+ L  =
+ 
+    0.0000010  
+ 
+ C  =
+ 
+    1.135D-11  
+ 
+ NI  =
+ 
+    293.57114  
+ 
+(i) The natural impedence of the line 
+ 
+ The natural impedance = 293.571136 ohms 
+
+ 
+ 
+ V  =
+ 
+    11000.  
+ 
+ R  =
+ 
+    1000.  
+ 
+ Z2  =
+ 
+    1000.  
+ 
+ Z1  =
+ 
+    294.  
+ 
+ I  =
+ 
+    21.633097  
+ 
+(ii) The line current 
+ 
+ The line current = 21.633097 amps 
+
+ 
+ 
+ E1  =
+ 
+    9815.8469  
+ 
+ P  =
+ 
+    2.891D+08  
+ 
+(iii) The rate of power consumption 
+ 
+ The rate of power consumption = 289.052553 kW 
+ 
+ E2  =
+ 
+    3.464994  
+ 
+ Er  =
+ 
+    122.51207  
+ 
+ The rate of reflected energy = 122.512073 kW 
+
+ 
+ 
+(iv) The rate of reflected energy 
+ 
+ In order that the incident wave when reaches the terminating resistance, 
+ does not suffer reflection, the terminating resistance should be equal to 
+ the surge impedance of the line, i.e.293.571136 ohms 
+
+ 
+ 
+(v) The amount of reflected and transmitted power 
+ 
+ L  =
+ 
+    5.000D-09  
+ 
+ C  =
+ 
+    1.000D-12  
+ 
+ SI  =
+ 
+    70.710678  
+ 
+ Surge impedence of the cable = 70.710678 ohm 
+ 
+ ReffV  =
+ 
+    2.4626267  
+ 
+ Rif  =
+ 
+  - 3.8882263  
+ 
+ refP  =
+ 
+    257.29622  
+ 
+ rifp  =
+ 
+    154.26841  
+ 
+ Refracted powers = 257.296220 kW 
+ 
+ Reflected powers = 154.268406 kW 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ Lc  =
+ 
+    0.0003  
+ 
+ Cc  =
+ 
+    0.0000004  
+ 
+ Ll  =
+ 
+    0.0015  
+ 
+ Cl  =
+ 
+    1.200D-08  
+ 
+ V  =
+ 
+    15.  
+ 
+ Ic  =
+ 
+    27.386128  
+ 
+ Il  =
+ 
+    353.55339  
+ 
+ E  =
+ 
+    27.84327  
+ 
+The natural impedence of the cable = 27.386128 ohms 
+ 
+ The natural impedence of the line = 353.553391 ohms 
+ 
+ E′′ = 27.843270 kV 
+ 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ E  =
+ 
+    100.  
+ 
+ Z1  =
+ 
+    0.0016667  
+ 
+ Z2  =
+ 
+    0.00125  
+ 
+ Z3  =
+ 
+    0.005  
+ 
+ E11  =
+ 
+    42105.263  
+ 
+ Iz2  =
+ 
+    52631.579  
+ 
+ Iz3  =
+ 
+    210526.32  
+ 
+ E' = 42.105263 kV 
+ 
+ Iz2′= 52.631579 amps 
+ 
+ Iz3′= 210.526316 amps 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ E  =
+ 
+    500.  
+ 
+ t  =
+ 
+    0.000002  
+ 
+ Z  =
+ 
+    350.  
+ 
+ C  =
+ 
+    3000.  
+ 
+ E1  =
+ 
+    851.14192  
+ 
+ E' = 851.141919 kV 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ E  =
+ 
+    500.  
+ 
+ Z  =
+ 
+    350.  
+ 
+ L  =
+ 
+    800.  
+ 
+ E1  =
+ 
+    413.11303  
+ 
+ E' = 413.113028 kV 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ e0  =
+ 
+    50.  
+ 
+ x  =
+ 
+    50.  
+ 
+ R  =
+ 
+    6.  
+ 
+ Z  =
+ 
+    400.  
+ 
+ v  =
+ 
+    300000.  
+ 
+ 
+ pow  =
+ 
+  - 0.375  
+ 
+ e  =
+ 
+    34.364464  
+ 
+ 
+ PL  =
+ 
+    2952.291  
+ 
+ t  =
+ 
+    0.0001667  
+ 
+ i0  =
+ 
+    125.  
+ 
+ HL  =
+ 
+    0.7328242  
+ 
+ e = 34.364464 kV 
+ 
+ Power loss = 2952.290955 kW 
+ 
+ Heat loss = 0.732824 kJ 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_C._L._Wadhwa_3487/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    3.000D+08  
+ 
+ v = 3.000000e+08 meters/sec  
+ 

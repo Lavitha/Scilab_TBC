@@ -1,0 +1,69 @@
+ERROR: Electronic_Devices_K._C._Nandi_2129/CH3/EX3.10.13/ex3_10_13.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ when diode is OFF, the voltage in volts is :    
+ 
+    10.  
+ 
+ 
+ 
+ 
+ when diode is ON, the current in mA is   
+ 
+    40.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DC load line shown in figure   
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronic_Devices_K._C._Nandi_2129/ex3_10_13');xend();exit();
+                                                                                                !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      21 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_K._C._Nandi_2129/CH3/EX3.10.13/ex3_10_13.sce',-1)
+ 
+ERROR: Electronic_Devices_K._C._Nandi_2129/CH5/EX5.10.6/ex5_10_6.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current gain is   
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transfer Characteristics is shown in figure   
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronic_Devices_K._C._Nandi_2129/ex5_10_6');xend();exit();
+                                                                                               !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      20 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_K._C._Nandi_2129/CH5/EX5.10.6/ex5_10_6.sce',-1)
+ 

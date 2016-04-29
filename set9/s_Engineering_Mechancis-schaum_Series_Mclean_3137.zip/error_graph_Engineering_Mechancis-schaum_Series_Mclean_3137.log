@@ -1,0 +1,607 @@
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.12/Ex7_12.sce
+ 
+ w  =
+ 
+    0.518  
+ 
+ d  =
+ 
+    50.  
+ 
+ l  =
+ 
+    500.  
+ 
+ 
+ A  =
+ 
+    0.    100.    200.    300.    400.    500.    600.    700.    800.  
+ 
+ B  =
+ 
+    50.    150.    250.    350.    450.    550.    650.    750.    850.  
+ 
+ C  =
+ 
+    50000.    2.5    1.25    0.8333333    0.625    0.5    0.4166667    0.3571429    0.3125  
+ 
+ D  =
+ 
+    Inf    6.1322895    1.8884239    1.367787    1.2017537    1.127626    1.0880687    1.0644563    1.0492268  
+ 
+ E  =
+ 
+    Nan    613.22895    377.68478    410.33611    480.70148    563.81298    652.84123    745.1194    839.38143  
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    635.  
+ 
+ T_max  =
+ 
+    354.83  
+ 
+ a  =
+ 
+    685.  
+ 
+ l  =
+ 
+    513.8093  
+ 
+ 
+[2J[0;0H 
+The maximum tension is 354.830000lb and length required is 513.809303ft 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex7_12');xend();exit();
+                                                                                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      23 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.12/Ex7_12.sce',-1)
+ 
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.2/Ex8_2.sce
+ 
+ 
+ L1  =
+ 
+    0.    4.    6.  
+ 
+ 
+ B  =
+ 
+    0.    400.    0.  
+ 
+ 
+ 
+ L  =
+ 
+    0.    3.999    4.    5.99998    6.  
+ 
+ S  =
+ 
+    100.    100.  - 200.  - 200.    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex8_2');xend();exit();
+                                                                                                        !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      18 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.2/Ex8_2.sce',-1)
+ 
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.3/Ex8_3.sce
+ 
+ w  =
+ 
+    196.  
+ 
+ M_app  =
+ 
+    4000.  
+ 
+ L  =
+ 
+    6.  
+ 
+ 
+ 
+ R_r  =
+ 
+    418.22222  
+ 
+ 
+ R_l  =
+ 
+    757.77778  
+ 
+ 
+ a  =
+ 
+    3.8662132  
+ 
+ 
+ x0  =
+ 
+    0.    18.  
+ 
+ x  =
+ 
+    0.    0.5    1.    1.5    2.    2.5    3.    3.5    3.8662132    4.    4.5    5.    5.5    6.  
+ 
+ x1  =
+ 
+    6.    12.  
+ 
+ x2  =
+ 
+    12.    18.  
+ 
+ xv  =
+ 
+    6.    12.    18.  
+ 
+ xo  =
+ 
+    12.001    12.002  
+ 
+ 
+ 
+ V1  =
+ 
+ 
+         column  1 to 10
+ 
+    757.77778    659.77778    561.77778    463.77778    365.77778    267.77778    169.77778    71.777778    0.  - 26.222222  
+ 
+         column 11 to 14
+ 
+  - 124.22222  - 222.22222  - 320.22222  - 418.22222  
+ 
+ V2  =
+ 
+  - 418.22222  
+ 
+ 
+M1=R_l*x-(w*x^2*0.5) //N.m for 0<x<6
+                !       
+at line      24 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.3/Ex8_3.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ M1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.    354.38889    659.77778    916.16667    1123.5556    1281.9444    1391.3333    1451.7222    1464.8652    1463.1111  
+ 
+         column 11 to 14
+ 
+    1425.5    1338.8889    1203.2778    1018.6667  
+ 
+ M2  =
+ 
+    1018.6667  - 1490.6667  
+ 
+ M3  =
+ 
+    2509.3333    0.  
+ 
+ Mo  =
+ 
+  - 1464.8652    2509.3333  
+ 
+ 
+ M_max  =
+ 
+    1464.8652  
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+[2J[0;0H 
+The value of reactions are R_l=757.777778N and R_r=418.222222N
+ 
+The point of maximum bending moment is 3.866213 meters from left support nad maximum bending moment is 1464.865205N-m
+ 
+The bending moment and shear force diagrams have been plotted 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex8_3');xend();exit();
+                                                                                                        !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      20 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.3/Ex8_3.sce',-1)
+ 
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.5/Ex8_5.sce
+ 
+ F1  =
+ 
+    2000.  
+ 
+ w  =
+ 
+    100.  
+ 
+ 
+ R_r  =
+ 
+    410.  
+ 
+ R_l  =
+ 
+    2990.  
+ 
+ 
+ V  =
+ 
+  - 2000.  - 2000.    990.    990.  - 410.    0.  
+ 
+ 
+ B  =
+ 
+    0.  - 10000.  - 4060.    840.    0.  
+ 
+ 
+ X_v  =
+ 
+    0.    5.    5.0001    11.    20.89999    20.9  
+ 
+ 
+ X_b  =
+ 
+    0.    5.    11.    19.9    20.9  
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+WARNING: Error in Property specification : bad argument specified
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+WARNING: Error in Property specification : bad argument specified
+ 
+ 
+[2J[0;0H 
+The bending Moment and Shear Force diagrams have been plotted
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex8_5');xend();exit();
+                                                                                                        !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      31 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.5/Ex8_5.sce',-1)
+ 
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.3/Ex12_3.sce
+ 
+ t  =
+ 
+    0.    1.    2.    3.    4.    5.    10.  
+ 
+ 
+s=[8*t^2+2*t] //m
+         !       
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.3/Ex12_3.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ s  =
+ 
+    0.    10.    36.    78.    136.    210.    820.  
+ 
+ 
+ v  =
+ 
+    2.    18.    34.    50.    66.    82.    162.  
+ 
+ 
+ a  =
+ 
+    16.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+ 
+[2J[0;0H 
+The graphs are the solutions 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex12_3');xend();exit();
+                                                                                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      24 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.3/Ex12_3.sce',-1)
+ 
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.5/Ex12_5.sce
+ 
+ v_o  =
+ 
+    0.  
+ 
+ v_f1  =
+ 
+    30.  
+ 
+ v_f2  =
+ 
+    0.  
+ 
+ t1  =
+ 
+    3.  
+ 
+ t2  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.    30.    0.  
+ 
+ 
+ t  =
+ 
+    0.    3.    5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    10.  
+ 
+ 
+ a2  =
+ 
+  - 15.  
+ 
+ 
+ s  =
+ 
+    75.  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    7.5  
+ 
+ b  =
+ 
+  - 30.  
+ 
+ c  =
+ 
+    5.  
+ 
+ q  =
+ 
+    27.386128  
+ 
+ x1  =
+ 
+    3.8257419  
+ 
+ x2  =
+ 
+    0.1742581  
+ 
+ 
+ t  =
+ 
+    0.1742581  
+ 
+ 
+ T  =
+ 
+    3.1742581  
+ 
+[2J[0;0H 
+ 
+The acceleration at 3s and 5s are 10.000000 ft/s^2 and -15.000000  ft/s^2 respectively
+ 
+The displacement is 75.000000 ft
+ 
+The total time is 3.174258 s 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex12_5');xend();exit();
+                                                                                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      42 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.5/Ex12_5.sce',-1)
+ 
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.9/Ex12_9.sce
+ 
+ t  =
+ 
+    0.    1.    2.    3.    4.    5.    6.  
+ 
+ 
+s=(t+1)^3 //ft
+          !       
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.9/Ex12_9.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ s  =
+ 
+    1.    8.    27.    64.    125.    216.    343.  
+ 
+v=3*(t+1)^2 //ft/s
+            !       
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.9/Ex12_9.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ v  =
+ 
+    3.    12.    27.    48.    75.    108.    147.  
+ 
+ a  =
+ 
+    6.    12.    18.    24.    30.    36.    42.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+The result are the gplots that have been generated 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex12_9');xend();exit();
+                                                                                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      20 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.9/Ex12_9.sce',-1)
+ 
+ERROR: Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.25/Ex12_25.sce
+ 
+ theta  =
+ 
+    0.    30.    60.    90.    120.    150.    180.    210.    240.    270.    300.    330.    360.  
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column  1 to 10
+ 
+    0.    0.0872665    0.1745329    0.2617994    0.3490659    0.4363323    0.5235988    0.6108652    0.6981317    0.7853982  
+ 
+         column 11 to 13
+ 
+    0.8726646    0.9599311    1.0471976  
+ 
+ costheta  =
+ 
+    1.    0.8660254    0.5    0.  - 0.5  - 0.8660254  - 1.  - 0.8660254  - 0.5    0.    0.5    0.8660254    1.  
+ 
+ sintheta  =
+ 
+    0.    0.5    0.8660254    1.    0.8660254    0.5    0.  - 0.5  - 0.8660254  - 1.  - 0.8660254  - 0.5    0.  
+ 
+ x  =
+ 
+    2.    1.7320508    1.    0.  - 1.  - 1.7320508  - 2.  - 1.7320508  - 1.    0.    1.    1.7320508    2.  
+ 
+ v  =
+ 
+    0.  - 6.  - 10.392305  - 12.  - 10.392305  - 6.    0.    6.    10.392305    12.    10.392305    6.    0.  
+ 
+ a  =
+ 
+  - 72.  - 62.353829  - 36.    0.    36.    62.353829    72.    62.353829    36.    0.  - 36.  - 62.353829  - 72.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+The results are the plots 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Mechancis-schaum_Series_Mclean_3137/Ex12_25');xend();exit();
+                                                                                                          !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      28 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.25/Ex12_25.sce',-1)
+ 

@@ -1,0 +1,8420 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 156
+
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.1/Ex1_1.sce #
+ 
+ A  =
+ 
+    6.022D+23  
+ 
+ d  =
+ 
+    2700000.  
+ 
+ a  =
+ 
+    26.98  
+ 
+ D  =
+ 
+    10000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ 
+ n  =
+ 
+    6.026D+28  
+ 
+ 
+ 
+ u  =
+ 
+    0.0000010  
+ 
+ 
+ 
+number of atoms per cubic meter is 6.026 * 10**28/m^3 
+drift velocity is 1.04e-06 m/s 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.2/Ex1_2.sce #
+ 
+ n  =
+ 
+    1.000D+23  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ u  =
+ 
+    0.4  
+ 
+ a  =
+ 
+    1.000D-07  
+ 
+ l  =
+ 
+    0.15  
+ 
+ 
+ 
+ 
+ G  =
+ 
+    6400.  
+ 
+ 
+ 
+ R  =
+ 
+    234.375  
+ 
+ 
+ 
+conductivity of the conductor is 6.4e+03 S/m 
+resistance of the conductor is 234.4 ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.3/Ex1_3.sce #
+ 
+ A  =
+ 
+    6.022D+23  
+ 
+ d  =
+ 
+    5320000.  
+ 
+ a  =
+ 
+    72.6  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ni  =
+ 
+    2.400D+19  
+ 
+ un  =
+ 
+    0.39  
+ 
+ up  =
+ 
+    0.19  
+ 
+ 
+ 
+ 
+ nA  =
+ 
+    4.413D+28  
+ 
+ x  =
+ 
+    1.839D+09  
+ 
+ 
+ 
+ g  =
+ 
+    2.2272  
+ 
+ r  =
+ 
+    0.4489943  
+ 
+ 
+ 
+the relative concentration of Ge and electron hole pairs is 1.84e+09 atoms/electron-hole pair 
+the intrinsic resistivity of Ge is 0.449 ohm.m 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.4/Ex1_4.sce #
+ 
+ ni  =
+ 
+    1.500D+16  
+ 
+ n  =
+ 
+    4.990D+28  
+ 
+ un  =
+ 
+    0.13  
+ 
+ up  =
+ 
+    0.05  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ 
+ g  =
+ 
+    0.000432  
+ 
+ r  =
+ 
+    2314.8148  
+ 
+ Nd  =
+ 
+    4.990D+20  
+ 
+ pn  =
+ 
+    4.509D+11  
+ 
+ 
+ 
+ k  =
+ 
+    10.3792  
+ 
+ 
+ rho  =
+ 
+    0.0963465  
+ 
+ 
+ 
+the minority carrier density of Si is 4.51e+11 holes/m^3  
+the resistivity of Si is 9.63e-02 ohm.m 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ Vo  =
+ 
+    0.7  
+ 
+ Vf  =
+ 
+    0.4  
+ 
+ 
+ 
+ x  =
+ 
+    2980.958  
+ 
+ 
+ 
+increase in probability of majority carriers is 2981 times 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ I  =
+ 
+    10.  
+ 
+ V  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ Is  =
+ 
+    0.0033558  
+ 
+ 
+ 
+ I1  =
+ 
+    1000.  
+ 
+ V1  =
+ 
+    0.1425163  
+ 
+ I2  =
+ 
+    0.1  
+ 
+ V2  =
+ 
+    0.2575627  
+ 
+ 
+ 
+ Is1  =
+ 
+    0.0134230  
+ 
+ x  =
+ 
+    37.44  
+ 
+ I3  =
+ 
+    23.979876  
+ 
+ 
+ 
+the reverse current is 3.356 mA 
+bias voltages are 0.143 V and 0.258 V resp 
+Is at 20 degree is 13.42 uA and diode current at 0.2 V is 23.98 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.7/Ex1_7.sce #
+ 
+ V  =
+ 
+    3.  
+ 
+ Req  =
+ 
+    300.  
+ 
+ Rfa  =
+ 
+    20.  
+ 
+ Vt  =
+ 
+    0.7  
+ 
+ Rfb  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ I  =
+ 
+    0.01  
+ 
+ 
+ 
+ Id  =
+ 
+    0.0076667  
+ 
+ 
+ 
+ Rf  =
+ 
+    20.  
+ 
+ Id1  =
+ 
+    0.0071875  
+ 
+ 
+ 
+current in this case is 0.01 A 
+diode current is 7.67 mA 
+diode current is 7.19 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.9/Ex1_9.sce #
+ 
+ Vx  =
+ 
+    1.4  
+ 
+ Vt  =
+ 
+    0.7  
+ 
+ Vcc  =
+ 
+    5.  
+ 
+ R  =
+ 
+    1.  
+ 
+ Vs  =
+ 
+    0.7  
+ 
+ 
+ 
+ I1  =
+ 
+    3.6  
+ 
+ I2  =
+ 
+    0.  
+ 
+ I1  =
+ 
+    3.6  
+ 
+ 
+ 
+I1 for 0<Vs<0.7 is 3.6 mA 
+I2 for 0<Vs<0.7 is 0.0 mA 
+I1 and I2 for Vs>0.7 is 3.6 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.11/Ex1_11.sce #
+ 
+ Vz  =
+ 
+    100.  
+ 
+ Rz  =
+ 
+    25.  
+ 
+ Il  =
+ 
+    0.05  
+ 
+ Iz  =
+ 
+    0.01  
+ 
+ Rs  =
+ 
+    250.  
+ 
+ 
+ 
+ Vl  =
+ 
+    100.25  
+ 
+ Vs  =
+ 
+    115.25  
+ 
+ VL  =
+ 
+    101.2525  
+ 
+ IZ  =
+ 
+    0.0501  
+ 
+ VS  =
+ 
+    125.275  
+ 
+ Vss  =
+ 
+    0.0869848  
+ 
+ P  =
+ 
+    5.062625  
+ 
+ 
+ 
+load voltage is 100.25 V 
+supply voltage is 115.25 V 
+increase in supply voltage is 125.275 V 
+power consumed is 5.06 W 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.13/Ex1_13.sce #
+ 
+ T  =
+ 
+    300.  
+ 
+ Ig  =
+ 
+    0.1  
+ 
+ Is  =
+ 
+    1.000D-09  
+ 
+ x  =
+ 
+    0.0259  
+ 
+ 
+ 
+ Voc  =
+ 
+    0.4770956  
+ 
+ Isc  =
+ 
+    0.1  
+ 
+ 
+ 
+for a solar cell Voc is 0.477 V and Isc is 100 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.14/Ex1_14.sce #
+ 
+ 
+ 
+ Idc  =
+ 
+    0.1  
+ 
+ Rf  =
+ 
+    0.5  
+ 
+ Rl  =
+ 
+    20.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    2.  
+ 
+ Vm  =
+ 
+    3.3772121  
+ 
+ Vrms  =
+ 
+    2.3880496  
+ 
+ 
+ 
+ Pdc  =
+ 
+    0.2  
+ 
+ 
+ 
+ PIV  =
+ 
+    6.7544242  
+ 
+ 
+ 
+ Im  =
+ 
+    0.1570796  
+ 
+ Irms  =
+ 
+    0.1110721  
+ 
+ Pac  =
+ 
+    0.2652456  
+ 
+ 
+ 
+ eta  =
+ 
+    75.401811  
+ 
+ 
+ 
+ Vr  =
+ 
+    7.5  
+ 
+ 
+ 
+rms value of voltage is 2.39 V 
+dc power supplied to load is 0.2 W 
+PIV rating for each diode 6.75 V 
+ac input power is 0.265 W 
+conversion efficiency 75.4 % 
+voltage regulation 7.5 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.15/Ex1_15.sce #
+ 
+ 
+ Vt  =
+ 
+    1.  
+ 
+ Vl  =
+ 
+    12.  
+ 
+ Vm  =
+ 
+    63.63  
+ 
+ Idc  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+ theta1  =
+ 
+    11.788884  
+ 
+ theta2  =
+ 
+    168.21112  
+ 
+ 
+ Rl  =
+ 
+    2.1334748  
+ 
+ 
+ 
+ 
+ integ  =
+ 
+    7.676D+08  
+ 
+ 
+    7.676D+08  
+ 
+ Irms  =
+ 
+    15631.498  
+ 
+ Pl  =
+ 
+    5.213D+08  
+ 
+ 
+ 
+ P  =
+ 
+    96.  
+ 
+ 
+ 
+Resistance to be added is 2.13 Ohms 
+power supplied to battery is 96 W 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.16/Ex1_16.sce #
+ 
+ 
+ 
+ Rf  =
+ 
+    5.  
+ 
+ Vo  =
+ 
+    20.  
+ 
+ Rs  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Idc  =
+ 
+    0.1  
+ 
+ Vm  =
+ 
+    28.284271  
+ 
+ Vdc  =
+ 
+    16.006326  
+ 
+ 
+ 
+ Idc1  =
+ 
+    0.2  
+ 
+ Vdc2  =
+ 
+    14.006326  
+ 
+ Rl  =
+ 
+    70.031632  
+ 
+ x  =
+ 
+    28.558524  
+ 
+ 
+ 
+ Idc  =
+ 
+    0.2  
+ 
+ Im  =
+ 
+    0.3141593  
+ 
+ Ilrms  =
+ 
+    0.2221441  
+ 
+ Vlrms  =
+ 
+    15.557117  
+ 
+ 
+ 
+ Vldc  =
+ 
+    14.  
+ 
+ Vlacrms  =
+ 
+    6.784091  
+ 
+ 
+ 
+dc voltage 16 V 
+regulation is 28.56 % 
+rms value of output voltage at dc load current is 15.56 V 
+rms value of ac component of voltage 6.78 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.17/Ex1_17.sce #
+ 
+ Vh  =
+ 
+    60.  
+ 
+ Vl  =
+ 
+    45.  
+ 
+ fz  =
+ 
+    50.  
+ 
+ Vr  =
+ 
+    15.  
+ 
+ Rl  =
+ 
+    600.  
+ 
+ 
+ 
+ Vldc  =
+ 
+    52.5  
+ 
+ Idc  =
+ 
+    0.0875  
+ 
+ T  =
+ 
+    0.02  
+ 
+ C  =
+ 
+    0.0001167  
+ 
+ C1  =
+ 
+    0.0002333  
+ 
+ 
+ Vr1  =
+ 
+    7.8740157  
+ 
+ Idc1  =
+ 
+    0.0934383  
+ 
+ 
+ 
+value of capacitance is 117 uF 
+Vr1 is 7 V 
+dc load current Idc is 93 mA 
+Note : Answer may be vary because of rounding off error. 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.18/Ex1_18.sce #
+ 
+ 
+ 
+ Vdc  =
+ 
+    30.  
+ 
+ V1  =
+ 
+    220.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ Vr  =
+ 
+    15.  
+ 
+ 
+ 
+ C  =
+ 
+    2000.  
+ 
+ Vm  =
+ 
+    30.15  
+ 
+ V2  =
+ 
+    21.319269  
+ 
+ r  =
+ 
+    10.319303  
+ 
+ 
+ 
+capacitor filtor is 2000 uF 
+transformer turn ratio is 10.32 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.19/Ex1_19.sce #
+ 
+ 
+ 
+ Idc  =
+ 
+    0.06  
+ 
+ Vm  =
+ 
+    60.  
+ 
+ f  =
+ 
+    50.  
+ 
+ C  =
+ 
+    0.00012  
+ 
+ 
+ 
+ 
+ Vrms  =
+ 
+    0.0240563  
+ 
+ Vr  =
+ 
+    0.0833333  
+ 
+ 
+ 
+ Vdc  =
+ 
+    59.958333  
+ 
+ Vdc  =
+ 
+    57.6  
+ 
+ 
+ r  =
+ 
+    0.0417643  
+ 
+ 
+ 
+ripple factor is 0.083 Vdc 
+dc voltage is 57.6 V 
+ripple factor 0.042 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.20/Ex1_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ vrms  =
+ 
+    0.0538  
+ 
+ vdc  =
+ 
+    101.85166  
+ 
+ r  =
+ 
+    0.0005282  
+ 
+ 
+ 
+ripple factor is 5.28e-04 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.24/Ex1_24.sce #
+ 
+ 
+ 
+ Vz  =
+ 
+    2.  
+ 
+ r1  =
+ 
+    10.  
+ 
+ r2  =
+ 
+    20.  
+ 
+ V1  =
+ 
+    7.5  
+ 
+ V2  =
+ 
+    15.  
+ 
+ Rz  =
+ 
+    33.333333  
+ 
+ 
+ 
+ Vab  =
+ 
+    10.  
+ 
+ Rth  =
+ 
+    6.6666667  
+ 
+ Vd  =
+ 
+    8.  
+ 
+ Id  =
+ 
+    0.2  
+ 
+ 
+ 
+diode current is 0.20 A 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.25/Ex1_25.sce #
+ 
+ Vd  =
+ 
+    0.7  
+ 
+ Ro  =
+ 
+    18.  
+ 
+ R1  =
+ 
+    2.  
+ 
+ R2  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    10.  
+ 
+ V2  =
+ 
+    0.  
+ 
+ Io  =
+ 
+    0.465  
+ 
+ Vo  =
+ 
+    8.37  
+ 
+ 
+ 
+ V1  =
+ 
+    5.  
+ 
+ V2  =
+ 
+    0.  
+ 
+ Io  =
+ 
+    0.215  
+ 
+ Vo1  =
+ 
+    3.87  
+ 
+ 
+ 
+ V1  =
+ 
+    10.  
+ 
+ V2  =
+ 
+    5.  
+ 
+ Vo  =
+ 
+    8.37  
+ 
+ Vd1  =
+ 
+  - 3.37  
+ 
+ Vo2  =
+ 
+    8.37  
+ 
+ 
+ 
+ V2  =
+ 
+    5.  
+ 
+ Id1  =
+ 
+  - 2.035  
+ 
+ Io  =
+ 
+    0.465  
+ 
+ Vo3  =
+ 
+    4.0736842  
+ 
+ 
+a)output voltage is 8.37 V 
+b)output voltage is 3.87 V 
+c)output voltage is 8.37 V 
+d)output voltage is 4.07 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.26/Ex1_26.sce #
+ 
+ Vs  =
+ 
+    10.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ Vl  =
+ 
+    10.  
+ 
+ Vi  =
+ 
+    50.  
+ 
+ Iz  =
+ 
+    32.  
+ 
+ Is  =
+ 
+    40.  
+ 
+ 
+ 
+ 
+ Is  =
+ 
+    40.  
+ 
+ Rlmin  =
+ 
+    0.25  
+ 
+ 
+ 
+ Il  =
+ 
+    0.008  
+ 
+ Rlmax  =
+ 
+    1250.  
+ 
+ P  =
+ 
+    320.  
+ 
+ 
+ 
+Range of Rl is 250.00 ohm to 1.25 k ohm 
+Il = 8e-03 A 
+max power consumed is 320 mW 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.27/Ex1_27.sce #
+ 
+ Vz  =
+ 
+    20.  
+ 
+ Izmax  =
+ 
+    50.  
+ 
+ Rz  =
+ 
+    0.  
+ 
+ Rl  =
+ 
+    2.  
+ 
+ Vl  =
+ 
+    20.  
+ 
+ Rs  =
+ 
+    0.25  
+ 
+ 
+ 
+ 
+ Il  =
+ 
+    10.  
+ 
+ Vsmin  =
+ 
+    22.5  
+ 
+ 
+ 
+ Is  =
+ 
+    60.  
+ 
+ Vsmax  =
+ 
+    35.  
+ 
+ 
+ 
+Vsmin 22.5 V 
+Range of input voltage is 22.5 to 35.0 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.28/Ex1_28.sce #
+ 
+ Ilmax  =
+ 
+    100.  
+ 
+ Ilmin  =
+ 
+    0.  
+ 
+ Rz  =
+ 
+    0.05  
+ 
+ Rs  =
+ 
+    10.  
+ 
+ Vl  =
+ 
+    16.015  
+ 
+ Vl1  =
+ 
+    16.  
+ 
+ Vs  =
+ 
+    20.  
+ 
+ Vz  =
+ 
+    16.  
+ 
+ 
+ 
+ 
+ Iz  =
+ 
+    0.3  
+ 
+ Is  =
+ 
+    100.3  
+ 
+ 
+ 
+ Is1  =
+ 
+    0.3980100  
+ 
+ Vl2  =
+ 
+    16.0199  
+ 
+ Vr  =
+ 
+    0.0306281  
+ 
+ 
+ 
+ Vs  =
+ 
+    18.  
+ 
+ Ilmax  =
+ 
+    0.1  
+ 
+ Vl  =
+ 
+    16.005  
+ 
+ Iz  =
+ 
+    0.1  
+ 
+ Is2  =
+ 
+    0.2  
+ 
+ 
+ 
+ Ilmin  =
+ 
+    0.  
+ 
+ Iz1  =
+ 
+    0.1990050  
+ 
+ Vl  =
+ 
+    16.005  
+ 
+ 
+ 
+ 
+ Is  =
+ 
+    0.4  
+ 
+ Vs  =
+ 
+    20.  
+ 
+ Vl  =
+ 
+    16.015  
+ 
+ Iz  =
+ 
+    0.3  
+ 
+ 
+ 
+ P  =
+ 
+    1.6  
+ 
+ 
+ 
+ Pd  =
+ 
+    4.8045  
+ 
+ Po  =
+ 
+    40.  
+ 
+ 
+maximum power dissipated by Rs is 1.6 W 
+maximum power dissipated by diode is 4.804 W 
+minimum diode current is 0.199 A 
+voltage regulation is 0.03 % 
+output shorted will be 40.0 W 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.29/Ex1_29.sce #
+ 
+ 
+ 
+ Vrms  =
+ 
+    20.  
+ 
+ Rs  =
+ 
+    10.  
+ 
+ Rf  =
+ 
+    5.  
+ 
+ Idc  =
+ 
+    0.002  
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    9.0031632  
+ 
+ 
+ 
+ Vldc  =
+ 
+    8.9731632  
+ 
+ 
+ 
+ Rl  =
+ 
+    4486.5816  
+ 
+ r  =
+ 
+    0.3343303  
+ 
+ 
+ 
+ Im  =
+ 
+    0.0062832  
+ 
+ Ilrms  =
+ 
+    0.0031416  
+ 
+ Vlrms  =
+ 
+    14.095012  
+ 
+ Vlrmsac  =
+ 
+    10.869761  
+ 
+ f  =
+ 
+    100.  
+ 
+ 
+ 
+ eta  =
+ 
+    3934.6869  
+ 
+ 
+ 
+ PIV  =
+ 
+    28.284271  
+ 
+ Vm  =
+ 
+    28.284271  
+ 
+ 
+no load dc voltage is 9 V 
+dc output voltage when the load is drawing 20 mA is 8.97 V 
+percentage regulation at this load is 3.34 % 
+ripple voltage rms is 10.87 V and ripple frequency is 100 Hz 
+power conversion efficiency is 39.3 % 
+PIV is 28 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.30/Ex1_30.sce #
+ 
+ 
+ 
+ Vl  =
+ 
+    24.  
+ 
+ Vm  =
+ 
+    84.852814  
+ 
+ Ip  =
+ 
+    2.5  
+ 
+ c  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ theta  =
+ 
+    0.2867566  
+ 
+ Rs  =
+ 
+    24.341125  
+ 
+ 
+ 
+ Idc  =
+ 
+    626.61822  
+ 
+ T  =
+ 
+    0.0319174  
+ 
+ 
+ 
+resistance connected in series is 24.3 ohm 
+time required to deliver a charge of 20 Ah is 31.9 h 
+Idc 0.63 A 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.32/Ex1_32.sce #
+ 
+ 
+ 
+ R  =
+ 
+    25.  
+ 
+ Vm  =
+ 
+    200.  
+ 
+ Rf  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ Id  =
+ 
+    1.6  
+ 
+ 
+ 
+ Idc  =
+ 
+    1.0185916  
+ 
+ 
+ 
+ PIV  =
+ 
+    100.  
+ 
+ PIVac  =
+ 
+    31.830989  
+ 
+ 
+ 
+ Im  =
+ 
+    1.6  
+ 
+ Irms  =
+ 
+    1.1313708  
+ 
+ 
+ 
+peak value of current is 1.6 A 
+dc currect is 1.02 A 
+across D1 are peak voltage is 100.0 V and average voltage is 31.8 V 
+Irms is 1.13 A 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.33/Ex1_33.sce #
+ 
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ dv  =
+ 
+    7.  
+ 
+ Ic  =
+ 
+    100.  
+ 
+ 
+ 
+ dt  =
+ 
+    0.01  
+ 
+ C  =
+ 
+    0.1428571  
+ 
+ 
+ 
+value of capacitor is 142.86 uF 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.34/Ex1_34.sce #
+ 
+ 
+ 
+ Vr  =
+ 
+    10.  
+ 
+ Vm  =
+ 
+    50.  
+ 
+ C  =
+ 
+    300.  
+ 
+ Rl  =
+ 
+    470.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    45.  
+ 
+ C  =
+ 
+    0.0001915  
+ 
+ 
+ 
+ C1  =
+ 
+    0.0003  
+ 
+ Vr  =
+ 
+    6.6225166  
+ 
+ Vdc  =
+ 
+    46.688742  
+ 
+ Idc  =
+ 
+    0.0993377  
+ 
+ 
+ 
+value of capacitor is 191.5 mF 
+load voltage ripple is 46.69 V and average load current is 993.4 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.35/Ex1_35.sce #
+ 
+ 
+ 
+ vo  =
+ 
+    7.5  
+ 
+ R1  =
+ 
+    15.  
+ 
+ Von  =
+ 
+    0.5  
+ 
+ 
+ 
+ Rth  =
+ 
+    5.  
+ 
+ T  =
+ 
+    0.0006283  
+ 
+ t1  =
+ 
+    0.0000201  
+ 
+ t2  =
+ 
+    0.0002940  
+ 
+ 
+ 
+time period is 0.628 ms 
+t1 is 2.014e-05 ms 
+t2 is 0.294 ms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.36/Ex1_36.sce #
+ 
+ 
+ 
+ v  =
+ 
+    12.  
+ 
+ vm  =
+ 
+    20.  
+ 
+ v1  =
+ 
+    8.  
+ 
+ vm1  =
+ 
+    20.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.0000644  
+ 
+ t2  =
+ 
+    0.2498092  
+ 
+ t3  =
+ 
+    0.0000412  
+ 
+ t4  =
+ 
+    0.3553109  
+ 
+ t5  =
+ 
+    0.5871668  
+ 
+ 
+ 
+t1 is 0.064 ms 
+t2 is 0.25 ms 
+t3 is 0.041 ms 
+t4 is 0.355 ms 
+t5 is 0.587 ms 
+vo is -5.33+6.66*sin(10**4*.15) 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.1/Ex2_1.sce #
+ 
+ Rb  =
+ 
+    200.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Vbb  =
+ 
+    5.  
+ 
+ beeta  =
+ 
+    100.  
+ 
+ Rc  =
+ 
+    3.  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0215  
+ 
+ Ic  =
+ 
+    2.15  
+ 
+ Vcb  =
+ 
+    2.85  
+ 
+ 
+ 
+Base current  Ib = 0.0215 mA 
+Collector current Ic = 2.15 mA 
+Reverse bias collector junction Vcb =  2.85 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.2/Ex2_2.sce #
+ 
+ Vbb  =
+ 
+    5.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rb  =
+ 
+    150.  
+ 
+ beeta  =
+ 
+    125.  
+ 
+ Rc  =
+ 
+    3.  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Vce  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0286667  
+ 
+ Ic  =
+ 
+    3.5833333  
+ 
+ Vcb  =
+ 
+  - 1.45  
+ 
+ 
+ 
+ Vbe  =
+ 
+    0.8  
+ 
+ Ic  =
+ 
+    3.2666667  
+ 
+ Ib  =
+ 
+    0.028  
+ 
+ Ibmin  =
+ 
+    0.0261333  
+ 
+ 
+ 
+In active region, base current is 2.8e-02 mA and collector current is 3.27 mA 
+base current and collector current in npn are 2.80e-02 mA and 3.27 mA resp. 
+base current minimum is 0.026 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.3/Ex2_3.sce #
+ 
+ Vbb  =
+ 
+    5.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rb  =
+ 
+    50.  
+ 
+ beeta  =
+ 
+    50.  
+ 
+ Re  =
+ 
+    1.8  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Vce  =
+ 
+    0.2  
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0303244  
+ 
+ Ic  =
+ 
+    1.51622  
+ 
+ Ie  =
+ 
+    1.5465444  
+ 
+ 
+ 
+values are Ib: 0.03 mA, Ic: 1.52 mA and Ie : 1.55 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.4/Ex2_4.sce #
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rb  =
+ 
+    250.  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Rl  =
+ 
+    0.5  
+ 
+ 
+ 
+ Ic  =
+ 
+    20.  
+ 
+ IbQ  =
+ 
+    0.0372  
+ 
+ IcQ  =
+ 
+    8.  
+ 
+ VceQ  =
+ 
+    6.  
+ 
+ 
+ 
+values are IbQ : 0.0372 uA,IcQ: 8 mA and Vcc : 10 V 
+collector current Ic is 20 mA and output voltage,vL=6-2 sinwt V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.5/Ex2_5.sce #
+ 
+ Vgs  =
+ 
+    12.  
+ 
+ Vt  =
+ 
+    4.  
+ 
+ Id  =
+ 
+    12.8  
+ 
+ K  =
+ 
+    0.0002  
+ 
+ Vdd  =
+ 
+    24.  
+ 
+ Vds  =
+ 
+    8.  
+ 
+ Vgs  =
+ 
+    8.  
+ 
+ 
+ 
+ Id  =
+ 
+    0.0032  
+ 
+ Rd  =
+ 
+    5000.  
+ 
+ 
+ 
+diode resistance is 5000 ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.7/Ex2_7.sce #
+ 
+ Vds  =
+ 
+    7.5  
+ 
+ Id  =
+ 
+    5.  
+ 
+ 
+ 
+ Vgs  =
+ 
+  - 1.5  
+ 
+ Vgg  =
+ 
+    1.5  
+ 
+ 
+ 
+gate voltage is 1.5 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.8/Ex2_8.sce #
+ 
+ Vds  =
+ 
+    7.5  
+ 
+ Idss  =
+ 
+    8.  
+ 
+ Vgs  =
+ 
+    2.  
+ 
+ Vp  =
+ 
+    4.  
+ 
+ 
+ 
+ Id  =
+ 
+    2.  
+ 
+ 
+ 
+diode current is 2.0 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.14/Ex2_14.sce #
+ 
+ k  =
+ 
+    2.  
+ 
+ Vt  =
+ 
+  - 1.  
+ 
+ Vdd  =
+ 
+  - 12.  
+ 
+ R1  =
+ 
+    300.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ Vgs  =
+ 
+  - 2.  
+ 
+ Vgg  =
+ 
+  - 3.  
+ 
+ Id  =
+ 
+    2.  
+ 
+ Rs  =
+ 
+    0.5  
+ 
+ Is  =
+ 
+    2.  
+ 
+ 
+ 
+ Vds  =
+ 
+  - 4.  
+ 
+ Rd  =
+ 
+    3.5  
+ 
+ 
+ 
+ Vt  =
+ 
+  - 1.5  
+ 
+ Vgg  =
+ 
+  - 1.5  
+ 
+ R2new  =
+ 
+    42.857143  
+ 
+ 
+ 
+a)source resistance is 0.5 kohm 
+b)drain resistance is 3.5 kohm 
+c)R2new is 42.86 kohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.16/Ex2_16.sce #
+ 
+ 
+ 
+ Vp  =
+ 
+    4.  
+ 
+ Idss  =
+ 
+    12.  
+ 
+ Vdd  =
+ 
+    12.  
+ 
+ Id  =
+ 
+    4.  
+ 
+ Vds  =
+ 
+    6.  
+ 
+ 
+ 
+ Rs  =
+ 
+    0.4226497  
+ 
+ Rd  =
+ 
+    4.0773503  
+ 
+ 
+ 
+source resistance is 0.42 kohm 
+drain resistance 4.08 kohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.1/Ex3_1.sce #
+ 
+ beeta  =
+ 
+    100.  
+ 
+ Ic  =
+ 
+    2.5  
+ 
+ Io  =
+ 
+  - 0.5  
+ 
+ Rl  =
+ 
+    2.5  
+ 
+ 
+ 
+ rpi  =
+ 
+    1000.  
+ 
+ Ib  =
+ 
+    0.005  
+ 
+ Vs  =
+ 
+    5.  
+ 
+ Vo  =
+ 
+  - 1.25  
+ 
+ Av  =
+ 
+  - 0.25  
+ 
+ Ai  =
+ 
+  - 100.  
+ 
+ 
+ 
+signal voltage is 5.0 mV 
+current gain is -100.0 
+voltage gain is -250 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ Id  =
+ 
+    1.6  
+ 
+ Vgs  =
+ 
+  - 3.  
+ 
+ Id1  =
+ 
+    0.4  
+ 
+ Vgs1  =
+ 
+  - 4.  
+ 
+ Vp  =
+ 
+  - 5.  
+ 
+ Idss  =
+ 
+    10.  
+ 
+ 
+ 
+ gmo  =
+ 
+    4.  
+ 
+ gm  =
+ 
+    1.6  
+ 
+ gm1  =
+ 
+    0.8  
+ 
+ 
+ 
+Idss and Vp are 10 mA and -5 V 
+gmo is 4 mS 
+gm at Id is 1600  gm at Id1 is 800 uS 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.3/Ex3_3.sce #
+ 
+ gm  =
+ 
+    1600.  
+ 
+ rd  =
+ 
+    50.  
+ 
+ Rl  =
+ 
+    5.  
+ 
+ 
+ 
+ Av  =
+ 
+  - 8000.  
+ 
+ 
+ 
+ 
+ 
+voltage gain of the circuit is -8 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.4/Ex3_4.sce #
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ rpi  =
+ 
+    2000.  
+ 
+ rx  =
+ 
+    500.  
+ 
+ ro  =
+ 
+    250000.  
+ 
+ R1  =
+ 
+    50000.  
+ 
+ R2  =
+ 
+    10000.  
+ 
+ Rc  =
+ 
+    5000.  
+ 
+ Rl  =
+ 
+    5000.  
+ 
+ Rs  =
+ 
+    1000.  
+ 
+ 
+ 
+ Rb  =
+ 
+    8333.3333  
+ 
+ r  =
+ 
+    2500.  
+ 
+ gm  =
+ 
+    0.05  
+ 
+ Vo  =
+ 
+  - 65.75  
+ 
+ Av  =
+ 
+  - 65.75  
+ 
+ Ai  =
+ 
+  - 38.438462  
+ 
+ 
+ 
+source to load voltage gain is -65.75 
+source to load current gain is -38.438462 
+ 
+ Note : Solution given in the textbook is incorrect   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.5/Ex3_5.sce #
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ rd  =
+ 
+    50000.  
+ 
+ gm  =
+ 
+    0.005  
+ 
+ R1  =
+ 
+    50000.  
+ 
+ R2  =
+ 
+    10000.  
+ 
+ Rs  =
+ 
+    10000.  
+ 
+ Rg  =
+ 
+    1000000.  
+ 
+ Rd  =
+ 
+    10000.  
+ 
+ 
+ 
+ Vgs  =
+ 
+    0.9900990  
+ 
+ Av  =
+ 
+  - 41.254125  
+ 
+ Ai  =
+ 
+  - 4166.6667  
+ 
+ 
+ 
+source to load voltage gain is -41 
+source to load current gain is -4167 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.6/Ex3_6.sce #
+ 
+ Rs  =
+ 
+    500.  
+ 
+ Io  =
+ 
+  - 0.001  
+ 
+ Rc  =
+ 
+    5000.  
+ 
+ hie  =
+ 
+    2000.  
+ 
+ hoe  =
+ 
+    0.00001  
+ 
+ hfe  =
+ 
+    100.  
+ 
+ hre  =
+ 
+    0.0005  
+ 
+ Rb  =
+ 
+    50000.  
+ 
+ 
+ 
+ Io1  =
+ 
+  - 95.238095  
+ 
+ Ib  =
+ 
+    0.0105  
+ 
+ Vo  =
+ 
+  - 5.  
+ 
+ Vi  =
+ 
+    20.9975  
+ 
+ Is  =
+ 
+    0.0109200  
+ 
+ Ai  =
+ 
+  - 0.0915755  
+ 
+ Vs  =
+ 
+    26.457475  
+ 
+ Av  =
+ 
+  - 0.1889825  
+ 
+ 
+ 
+source to load voltage gain is -189 
+source to load current gain is -92 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.7/Ex3_7.sce #
+ 
+ beeta  =
+ 
+    100.  
+ 
+ Ic  =
+ 
+    4.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Re  =
+ 
+    2.  
+ 
+ Vcc  =
+ 
+    32.  
+ 
+ abeeta  =
+ 
+    40.  
+ 
+ 
+ 
+ Ib  =
+ 
+    0.04  
+ 
+ Rb  =
+ 
+    580.5  
+ 
+ Ib  =
+ 
+    0.04  
+ 
+ Ic1  =
+ 
+    1.6  
+ 
+ deltaIc  =
+ 
+    2.4  
+ 
+ 
+ 
+change in Ic when beeta=40 is 2.4 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.8/Ex3_8.sce #
+ 
+ Rb1  =
+ 
+    36.  
+ 
+ Rb2  =
+ 
+    12.  
+ 
+ Rc  =
+ 
+    4.  
+ 
+ Re  =
+ 
+    1.8  
+ 
+ Vcc  =
+ 
+    12.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ 
+ 
+ Rb  =
+ 
+    9.  
+ 
+ Vbb  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ beeta  =
+ 
+    50.  
+ 
+ Ib  =
+ 
+    0.0228175  
+ 
+ 
+ Icq  =
+ 
+    1.140873  
+ 
+ Vceq  =
+ 
+    5.3418651  
+ 
+ 
+ 
+ beeta  =
+ 
+    150.  
+ 
+ Ib  =
+ 
+    0.0081909  
+ 
+ 
+ Icq1  =
+ 
+    1.2286325  
+ 
+ Vceq1  =
+ 
+    4.859188  
+ 
+ 
+ 
+when beeta increases by 300%,Icq increases by 7.1 % 
+when beeta increases by 300%, Vceq increases by 9 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.9/Ex3_9.sce #
+ 
+ Ic  =
+ 
+    4.  
+ 
+ Vce  =
+ 
+    8.  
+ 
+ beeta  =
+ 
+    100.  
+ 
+ Rb2  =
+ 
+    24.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rc  =
+ 
+    4.  
+ 
+ Re  =
+ 
+    2.  
+ 
+ Ib  =
+ 
+    0.04  
+ 
+ 
+ 
+ 
+ Vcc  =
+ 
+    32.  
+ 
+ 
+ 
+ Rb1  =
+ 
+    63.981693  
+ 
+ Rb  =
+ 
+    17.453184  
+ 
+ Vbb  =
+ 
+    8.7290886  
+ 
+ 
+ 
+ abeeta  =
+ 
+    40.  
+ 
+ Ib1  =
+ 
+    0.0804399  
+ 
+ Ic1  =
+ 
+    3.2175943  
+ 
+ 
+ 
+a)Vcc is 32.0 V 
+b)values are Rb1: 63.98 KOhms,Rb : 17.45 kohm and Vbb : 8.73 V 
+c)actual value of Ic1 : 3.22 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.10/Ex3_10.sce #
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Rc  =
+ 
+    4.7  
+ 
+ Rb  =
+ 
+    250.  
+ 
+ Re  =
+ 
+    1.2  
+ 
+ beeta  =
+ 
+    100.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0110714  
+ 
+ Ic  =
+ 
+    1.1071429  
+ 
+ Vce  =
+ 
+    3.4678571  
+ 
+ 
+ beeta1  =
+ 
+    150.  
+ 
+ Ib1  =
+ 
+    0.0081938  
+ 
+ Ic1  =
+ 
+    1.2290749  
+ 
+ Vce1  =
+ 
+    2.7484581  
+ 
+ deltaIc  =
+ 
+    11.013216  
+ 
+ deltaVce  =
+ 
+    20.74477  
+ 
+ 
+ 
+values of Ic is 1.11 mA and Vce : 3.47 V 
+values of Ic1 is 1.23 mA and Vce1 is 2.75 V 
+% change in Ic is 11.01 % and in Vce is 20.74 %  
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.11/Ex3_11.sce #
+ 
+ Id  =
+ 
+    3.  
+ 
+ Vds  =
+ 
+    12.  
+ 
+ Vgs  =
+ 
+  - 3.  
+ 
+ Vdd  =
+ 
+    36.  
+ 
+ Vgg  =
+ 
+    12.  
+ 
+ Rg  =
+ 
+    12.  
+ 
+ 
+ 
+ R1  =
+ 
+    36.  
+ 
+ R2  =
+ 
+    18.  
+ 
+ Rs  =
+ 
+    5.  
+ 
+ Rd  =
+ 
+    3.  
+ 
+ Vgs  =
+ 
+  - 3.6  
+ 
+ Idnew  =
+ 
+    3.12  
+ 
+ 
+ 
+value of R1 : 36 MOhm , R2: 18 Mohms, Rs : 5 KOhm and Rd: 3 kohms 
+new Id is 3.12 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.13/Ex3_13.sce #
+ 
+ Vt  =
+ 
+    2.  
+ 
+ Id  =
+ 
+    8.  
+ 
+ Vgs  =
+ 
+    6.  
+ 
+ k  =
+ 
+    0.5  
+ 
+ Vdd  =
+ 
+    24.  
+ 
+ Vds  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Vgs1  =
+ 
+    4.  
+ 
+ Id1  =
+ 
+    2.  
+ 
+ 
+ 
+ Vgg  =
+ 
+    12.  
+ 
+ R2  =
+ 
+    1.  
+ 
+ Rs  =
+ 
+    4.  
+ 
+ Rd  =
+ 
+    3.  
+ 
+ 
+ 
+ K  =
+ 
+    0.75  
+ 
+ Vgs2  =
+ 
+    3.67  
+ 
+ Id2  =
+ 
+    2.08  
+ 
+ Vds1  =
+ 
+    9.44  
+ 
+ 
+ 
+drain current defined by Vgs=4 and Vds=10 is 2.0 mA 
+value of Rs,Rd,R2 are 4.0 k ohms 3.0 k ohms 1.0 Mohms resp. 
+actual value of Id and Vds are 2.08 mA 9.44 mA and 10.00 V resp. 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.14/Ex3_14.sce #
+ 
+ Ic  =
+ 
+    10.  
+ 
+ beeta  =
+ 
+    100.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ R  =
+ 
+    0.9117647  
+ 
+ beeta1  =
+ 
+    200.  
+ 
+ Ic1  =
+ 
+    10.09901  
+ 
+ Icchange  =
+ 
+  - 0.0099010  
+ 
+ 
+ 
+ Ic2  =
+ 
+    0.1  
+ 
+ R1  =
+ 
+    0.9117647  
+ 
+ Ic3  =
+ 
+    10.09901  
+ 
+ Icchange1  =
+ 
+  - 99.990099  
+ 
+ 
+ 
+% change in Ic is -0.0 % increase 
+% change in Ic is -100.0 % increase 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.15/Ex3_15.sce #
+ 
+ Vcc  =
+ 
+    6.  
+ 
+ R  =
+ 
+    1.2  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ beeta  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ Ir  =
+ 
+    4.4166667  
+ 
+ I  =
+ 
+    4.2880259  
+ 
+ 
+ 
+load current I is 4.29 mA  
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ Idss  =
+ 
+    10.  
+ 
+ Vp  =
+ 
+  - 4.  
+ 
+ Idq  =
+ 
+    2.5  
+ 
+ Id  =
+ 
+    2.5  
+ 
+ Vdd  =
+ 
+    24.  
+ 
+ Vgg  =
+ 
+    4.  
+ 
+ R1  =
+ 
+    22.  
+ 
+ 
+ 
+ 
+ Vgs  =
+ 
+  - 2.  
+ 
+ Rs  =
+ 
+    2.4  
+ 
+ Rd  =
+ 
+    6.  
+ 
+ R2  =
+ 
+    4.8888889  
+ 
+ 
+ 
+ gmo  =
+ 
+    5.  
+ 
+ gm  =
+ 
+    2.5  
+ 
+ 
+ 
+ Av  =
+ 
+  - 15.  
+ 
+ 
+ 
+values of Rs : 2.4 Kohms, Rd : 6.0 k ohms and R2 is 4.9 M ohms 
+value of gm is 2.5 mS and gmo is 5.0 mS 
+voltage amplification is -15.0 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ beeta  =
+ 
+    98.  
+ 
+ rpi  =
+ 
+    1.275  
+ 
+ Rb  =
+ 
+    220.  
+ 
+ Re  =
+ 
+    3.3  
+ 
+ Vcc  =
+ 
+    12.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.0128788  
+ 
+ Av  =
+ 
+    0.9961125  
+ 
+ 
+ 
+ Zb  =
+ 
+    327.975  
+ 
+ Zi  =
+ 
+    131.6748  
+ 
+ Zo  =
+ 
+    0.0128287  
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0206695  
+ 
+ Ic  =
+ 
+    2.0256082  
+ 
+ rpi  =
+ 
+    1209.5133  
+ 
+ 
+ 
+voltage gain is 0.996 
+input impedance is 131.7 KOhm and output impedance is 12.8 ohms 
+value of Ic is 2.026 mA 
+value of rpi is 1.210 k ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ 
+ Re  =
+ 
+    0.56  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    1600.  
+ 
+ R1  =
+ 
+    110.  
+ 
+ R2  =
+ 
+    330.  
+ 
+ 
+ 
+ 
+ Av1  =
+ 
+    896.56  
+ 
+ 
+ 
+ Rb  =
+ 
+    82.5  
+ 
+ Vs  =
+ 
+    1.00174  
+ 
+ Avs  =
+ 
+    0.9982630  
+ 
+ 
+ 
+ R  =
+ 
+    897.56  
+ 
+ I  =
+ 
+    0.0841785  
+ 
+ Ai  =
+ 
+    134.76981  
+ 
+ 
+ 
+ Rl  =
+ 
+    10000.  
+ 
+ Re1  =
+ 
+    0.5599686  
+ 
+ R1  =
+ 
+    897.5098  
+ 
+ I1  =
+ 
+    0.0841828  
+ 
+ Ai1  =
+ 
+    134.77671  
+ 
+ Av2  =
+ 
+    896.5098  
+ 
+ 
+ 
+a)voltage gain is 896.56 
+b)Avs is 1.00 
+c)Ai is 134.77  
+when output Vo1 feeds a load of 10 k ohms Ai is 134 and Av2 is 897 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.20/Ex3_20.sce #
+ 
+ beeta1  =
+ 
+    120.  
+ 
+ beeta2  =
+ 
+    160.  
+ 
+ Vcc  =
+ 
+    18.  
+ 
+ Rc  =
+ 
+    0.1  
+ 
+ Rb  =
+ 
+    2000.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ 
+ 
+ Ib1  =
+ 
+    0.0044133  
+ 
+ Ib2  =
+ 
+    0.5295918  
+ 
+ Ie1  =
+ 
+    0.5340051  
+ 
+ Ic  =
+ 
+    85.268699  
+ 
+ Vo  =
+ 
+    9.4731301  
+ 
+ Vi  =
+ 
+    8.7731301  
+ 
+ 
+ 
+dc biased current is 85.3 mA 
+output voltage 9.47 V 
+input voltage 8.77 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.21/Ex3_21.sce #
+ 
+ 
+ 
+ deltaId  =
+ 
+    2.  
+ 
+ deltaVgs  =
+ 
+    1.  
+ 
+ deltaVds  =
+ 
+    5.  
+ 
+ Idss  =
+ 
+    10.  
+ 
+ Id  =
+ 
+    5.  
+ 
+ Vp  =
+ 
+  - 6.  
+ 
+ 
+ 
+ 
+ gm  =
+ 
+    2.  
+ 
+ rds  =
+ 
+    2.5  
+ 
+ gm0  =
+ 
+    3.3333333  
+ 
+ gm  =
+ 
+    2.3570226  
+ 
+ 
+ 
+ R1  =
+ 
+    4.5  
+ 
+ R2  =
+ 
+    2.  
+ 
+ Av  =
+ 
+    3.2635698  
+ 
+ 
+ 
+drain current biased to zero is 10.0 mA and pinch off voltage is -6.0 V 
+value of gm and rds are 2.36 mS and 2.50 k ohms 
+small signal amplifier gain is 3.26  
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.22/Ex3_22.sce #
+ 
+ 
+ 
+ Idson  =
+ 
+    0.2  
+ 
+ Vgs  =
+ 
+    5.  
+ 
+ Vdd  =
+ 
+    12.  
+ 
+ Vt  =
+ 
+    2.  
+ 
+ R1  =
+ 
+    100.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ Rd  =
+ 
+    30.  
+ 
+ Rs  =
+ 
+    6.  
+ 
+ deltaVdd  =
+ 
+    0.3  
+ 
+ rds  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.0222222  
+ 
+ Vgg  =
+ 
+    6.  
+ 
+ Vgs  =
+ 
+    4.89  
+ 
+ Id  =
+ 
+    0.1856022  
+ 
+ Vds  =
+ 
+    5.31832  
+ 
+ gm  =
+ 
+    0.1284444  
+ 
+ deltaVgg  =
+ 
+    0.15  
+ 
+ 
+ vgs  =
+ 
+    0.105  
+ 
+ id  =
+ 
+    7.77  
+ 
+ 
+ 
+id is 7.77 uA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.23/Ex3_23.sce #
+ 
+ 
+ 
+ deltaId  =
+ 
+    1.  
+ 
+ deltaVgs  =
+ 
+    0.75  
+ 
+ rd  =
+ 
+    100.  
+ 
+ Rd  =
+ 
+    100.  
+ 
+ Vgs  =
+ 
+    2.  
+ 
+ 
+ 
+ gm  =
+ 
+    1.3333333  
+ 
+ Vo  =
+ 
+  - 133.33333  
+ 
+ 
+ 
+value of Vo is -133 *sinwt mV 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.24/Ex3_24.sce #
+ 
+ 
+ 
+ Rd  =
+ 
+    4.  
+ 
+ Rs  =
+ 
+    2.5  
+ 
+ R1  =
+ 
+    200000.  
+ 
+ R2  =
+ 
+    100000.  
+ 
+ gm  =
+ 
+    2.5  
+ 
+ rd  =
+ 
+    60.  
+ 
+ 
+ 
+ 
+ Ro  =
+ 
+    0.3624009  
+ 
+ 
+ 
+ Rd1  =
+ 
+    0.  
+ 
+ Ro1  =
+ 
+    0.3428571  
+ 
+ 
+ 
+value of Ro is 362 ohms 
+value of Ro1 is 343 ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.25/Ex3_25.sce #
+ 
+ beeta  =
+ 
+    100.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rb  =
+ 
+    250.  
+ 
+ Vee  =
+ 
+    10.  
+ 
+ Re  =
+ 
+    1.  
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0264957  
+ 
+ Ic  =
+ 
+    2.6495726  
+ 
+ rpi  =
+ 
+    943.54839  
+ 
+ Vi  =
+ 
+    27.676068  
+ 
+ Ri  =
+ 
+    1044.5484  
+ 
+ 
+ 
+value of Ri is 104.5 K ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.26/Ex3_26.sce #
+ 
+ beeta  =
+ 
+    125.  
+ 
+ gm  =
+ 
+    35.  
+ 
+ Re  =
+ 
+    4.  
+ 
+ Rb  =
+ 
+    1.5  
+ 
+ 
+ 
+ 
+ rpi  =
+ 
+    3.5714286  
+ 
+ Ri  =
+ 
+    507.57143  
+ 
+ Ro  =
+ 
+    0.0398485  
+ 
+ 
+ 
+ f  =
+ 
+    0.9900379  
+ 
+ 
+ 
+value of Ri is 507.6 K ohms and Ro is 0.0398 k 
+transfer function is 0.99 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.28/Ex3_28.sce #
+ 
+ Vcc  =
+ 
+    16.  
+ 
+ Vc  =
+ 
+    12.  
+ 
+ Ic  =
+ 
+    8.  
+ 
+ Ic1  =
+ 
+    12.  
+ 
+ deltaIc  =
+ 
+    2000.  
+ 
+ deltaVce  =
+ 
+    4.  
+ 
+ deltaIb  =
+ 
+    20.  
+ 
+ Rl  =
+ 
+    2.  
+ 
+ 
+ 
+ hfe  =
+ 
+    100.  
+ 
+ hoe  =
+ 
+    500.  
+ 
+ Rdc  =
+ 
+    2.  
+ 
+ Rac  =
+ 
+    1.  
+ 
+ Re  =
+ 
+    1.  
+ 
+ Rac1  =
+ 
+    0.6666667  
+ 
+ Icq  =
+ 
+    6.  
+ 
+ Vceq  =
+ 
+    4.  
+ 
+ 
+ 
+value of hfe and hoe are 100 uS and 500 uS 
+value Rc and Re are 1 k ohms and 1 k ohms resp. 
+value of Icq and Vce 6 mA and 4.0 V resp. 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.29/Ex3_29.sce #
+ 
+ hfe  =
+ 
+    120.  
+ 
+ r1  =
+ 
+    1.5  
+ 
+ Vi  =
+ 
+    1.  
+ 
+ hoe  =
+ 
+    0.05  
+ 
+ Rs  =
+ 
+    2.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ r3  =
+ 
+    0.33  
+ 
+ r4  =
+ 
+    5.8  
+ 
+ r5  =
+ 
+    27.  
+ 
+ hoe  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ Vbb  =
+ 
+    1.7682927  
+ 
+ Rb  =
+ 
+    4.7743902  
+ 
+ ib  =
+ 
+    0.0238968  
+ 
+ hie  =
+ 
+    836.93151  
+ 
+ Ib  =
+ 
+    0.0011948  
+ 
+ h  =
+ 
+    0.1433809  
+ 
+ Avo  =
+ 
+  - 0.2150714  
+ 
+ 
+ 
+ r  =
+ 
+    20.  
+ 
+ R1  =
+ 
+    1.3953488  
+ 
+ R  =
+ 
+    0.8219178  
+ 
+ Ib1  =
+ 
+    0.3543689  
+ 
+ h1  =
+ 
+    42.524272  
+ 
+ Avl  =
+ 
+  - 34.951456  
+ 
+ 
+ 
+hie and Avo are 837 and -215.1 
+Avl is -34.95 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.30/Ex3_30.sce #
+ 
+ Rl  =
+ 
+    20.  
+ 
+ Vcc  =
+ 
+    30.  
+ 
+ beeta  =
+ 
+    150.  
+ 
+ Re  =
+ 
+    2200.  
+ 
+ Rb  =
+ 
+    350.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Is  =
+ 
+    0.001  
+ 
+ r1  =
+ 
+    2000.  
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0000881  
+ 
+ Ic  =
+ 
+    0.0132161  
+ 
+ rpi  =
+ 
+    283745.73  
+ 
+ R  =
+ 
+    19.81982  
+ 
+ Ib1  =
+ 
+    17.95  
+ 
+ Vl  =
+ 
+    53720.631  
+ 
+ Avl  =
+ 
+    53720.631  
+ 
+ Il  =
+ 
+    2686.0315  
+ 
+ Ail  =
+ 
+    2686031.5  
+ 
+ 
+ 
+overall voltage gain is 53.72 
+overall current gain is 2686 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.31/Ex3_31.sce #
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ beeta  =
+ 
+    30.  
+ 
+ R  =
+ 
+    0.47  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Vo  =
+ 
+    5.  
+ 
+ 
+ 
+ Vbb  =
+ 
+    7.5  
+ 
+ Ib  =
+ 
+    0.0114390  
+ 
+ R1  =
+ 
+    196.49123  
+ 
+ 
+ 
+value of R1 is 196 K ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ Vs  =
+ 
+    1.  
+ 
+ C  =
+ 
+    0.0001  
+ 
+ r1  =
+ 
+    1.  
+ 
+ r2  =
+ 
+    4.  
+ 
+ R  =
+ 
+    5.  
+ 
+ 
+ 
+ Imax  =
+ 
+    200.  
+ 
+ fc  =
+ 
+    318.30989  
+ 
+ 
+ f  =
+ 
+    3183.0989  
+ 
+ 
+ 
+maximum current 200.0 uA 
+critical frequency 0.318 Hz 
+lowest frequency 3.18 Hz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ C  =
+ 
+    0.0001  
+ 
+ Rg  =
+ 
+    1.  
+ 
+ Rl  =
+ 
+    4.  
+ 
+ 
+ 
+ Rth  =
+ 
+    0.8  
+ 
+ fc  =
+ 
+    1989.4368  
+ 
+ f  =
+ 
+    0.1989437  
+ 
+ 
+ 
+lowest frequency at which the point A gets grounded is 19.9 Hz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ rpi  =
+ 
+    600.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ Vs  =
+ 
+    5.  
+ 
+ Rs  =
+ 
+    400.  
+ 
+ R  =
+ 
+    10.  
+ 
+ 
+ 
+ Ib  =
+ 
+    0.005  
+ 
+ Vo  =
+ 
+    5.  
+ 
+ Rin  =
+ 
+    600.  
+ 
+ Rout  =
+ 
+    10.  
+ 
+ 
+ 
+output voltage is 5.0 V 
+input resistance 600.0 ohms 
+output resistance 10.0 k ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.4/Ex4_4.sce #
+ 
+ gm  =
+ 
+    1.  
+ 
+ rd  =
+ 
+    40.  
+ 
+ Rd1  =
+ 
+    40.  
+ 
+ Rd2  =
+ 
+    10.  
+ 
+ 
+ 
+ Avo  =
+ 
+    160.  
+ 
+ 
+ 
+Avo is 160.0  
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.5/Ex4_5.sce #
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    125.  
+ 
+ rpi  =
+ 
+    2.5  
+ 
+ rd  =
+ 
+    40.  
+ 
+ gm  =
+ 
+    2.  
+ 
+ Vs  =
+ 
+    1.  
+ 
+ Rs  =
+ 
+    10.  
+ 
+ Rc  =
+ 
+    1.  
+ 
+ rb  =
+ 
+    2.  
+ 
+ Vgs  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ R  =
+ 
+    8.  
+ 
+ Ib  =
+ 
+    1.5238095  
+ 
+ Vo  =
+ 
+    190.47619  
+ 
+ Avo  =
+ 
+    190.47619  
+ 
+ 
+ 
+ Ib1  =
+ 
+    0.2222222  
+ 
+ Vgs1  =
+ 
+    27.777778  
+ 
+ Vo1  =
+ 
+    444.44444  
+ 
+ Avo1  =
+ 
+    444.44444  
+ 
+ 
+ 
+Avo is 190.5  
+Avo1 when BJT and FET stages are reversed is 444 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ Cc1  =
+ 
+    0.000001  
+ 
+ Cc2  =
+ 
+    0.000001  
+ 
+ Rs  =
+ 
+    1000.  
+ 
+ rpi  =
+ 
+    2000.  
+ 
+ Rc  =
+ 
+    4500.  
+ 
+ Rl  =
+ 
+    9000.  
+ 
+ w  =
+ 
+    100.  
+ 
+ 
+ 
+ w11  =
+ 
+    333.33333  
+ 
+ w12  =
+ 
+    74.074074  
+ 
+ f  =
+ 
+    53.051648  
+ 
+ Zin  =
+ 
+    3000. - 10000.i  
+ 
+ Zout  =
+ 
+    4500. - 10000.i  
+ 
+ 
+ 
+lower cut-off freq is 53 Hz 
+ 
+  Zin   
+ 
+    3000. - 10000.i  
+ 
+ ohms   
+ 
+ 
+ Zout   
+ 
+    4500. - 10000.i  
+ 
+ ohms   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ Re  =
+ 
+    1500.  
+ 
+ Rc  =
+ 
+    1500.  
+ 
+ Rs  =
+ 
+    600.  
+ 
+ Rl  =
+ 
+    2000.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ rpi  =
+ 
+    1000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ w  =
+ 
+    314.15927  
+ 
+ CE  =
+ 
+    0.0000020  
+ 
+ Ce  =
+ 
+    0.0002009  
+ 
+ w11  =
+ 
+    31.415927  
+ 
+ w12  =
+ 
+    1.5707963  
+ 
+ Cc1  =
+ 
+    0.0000199  
+ 
+ Cc2  =
+ 
+    0.0001819  
+ 
+ 
+ 
+Ce is 201 uF 
+Cc1 is 19.9 uF 
+Cc2 is 18.19 uF 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ gm  =
+ 
+    0.0025  
+ 
+ Rd  =
+ 
+    6000.  
+ 
+ rd  =
+ 
+    200000.  
+ 
+ Cc1  =
+ 
+    0.0000001  
+ 
+ Cc2  =
+ 
+    0.0000001  
+ 
+ Rs  =
+ 
+    1000.  
+ 
+ Rg  =
+ 
+    100000.  
+ 
+ Cgs  =
+ 
+    1.200D-08  
+ 
+ Cgd  =
+ 
+    2.000D-09  
+ 
+ Co1  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Ro  =
+ 
+    5825.2427  
+ 
+ Vo  =
+ 
+  - 14.563107  
+ 
+ Avo  =
+ 
+  - 14.563107  
+ 
+ 
+ 
+ f11  =
+ 
+    13.131596  
+ 
+ 
+ 
+ Ceq  =
+ 
+    4.313D-08  
+ 
+ Co  =
+ 
+    10.  
+ 
+ f21  =
+ 
+    3727.35  
+ 
+ f22  =
+ 
+    0.0027322  
+ 
+ fH  =
+ 
+    0.0027322  
+ 
+ 
+ 
+a)mid freq gain is -14.6 
+b)input circuit cut-off is 13.1 Hz 
+c)high freq input cutoff is 3.73 and output cutoff is 2.73 MHz 
+high freq cut-off is 2.73 MHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    50.  
+ 
+ R1  =
+ 
+    11.5  
+ 
+ R2  =
+ 
+    41.4  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Rc  =
+ 
+    5.  
+ 
+ Re  =
+ 
+    1.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rl  =
+ 
+    10.  
+ 
+ Cc1  =
+ 
+    0.00002  
+ 
+ Cc2  =
+ 
+    0.00002  
+ 
+ Ce  =
+ 
+    0.00015  
+ 
+ Cpi  =
+ 
+    100.  
+ 
+ Cu  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ Rb  =
+ 
+    9.  
+ 
+ Vbb  =
+ 
+    2.173913  
+ 
+ Ib  =
+ 
+    0.0245652  
+ 
+ Ic  =
+ 
+    1.2282609  
+ 
+ Vce  =
+ 
+    2.6058696  
+ 
+ rpi  =
+ 
+    1.0176991  
+ 
+ 
+ 
+ rpi  =
+ 
+    1.  
+ 
+ R  =
+ 
+    0.9  
+ 
+ Vbe  =
+ 
+    0.4736842  
+ 
+ Ib1  =
+ 
+    0.4736842  
+ 
+ Ro  =
+ 
+    3.3333333  
+ 
+ Vo  =
+ 
+  - 78.947368  
+ 
+ Avo  =
+ 
+  - 78.947368  
+ 
+ 
+ 
+ r1  =
+ 
+    0.9  
+ 
+ w11  =
+ 
+    26315.789  
+ 
+ w12  =
+ 
+    3333.3333  
+ 
+ w1p  =
+ 
+    178947.37  
+ 
+ 
+ 
+ Co1  =
+ 
+    5.  
+ 
+ gm  =
+ 
+    50.  
+ 
+ Ceq  =
+ 
+    938.33333  
+ 
+ Rs1  =
+ 
+    0.9  
+ 
+ r2  =
+ 
+    0.4736842  
+ 
+ w21  =
+ 
+    2249852.  
+ 
+ 
+ 
+a)dc bias values are Vbb : 2.17 V, Ib : 0.0246 mA, Ic : 1.23 mA, Vce : 2.606 V, rpi : 1 k ohms 
+mid freq gain is -78.95  
+low freq cut-off is 179 rad/s 
+high cut-off freq is 2.25e+06 rad/s 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ Qcoil  =
+ 
+    75.  
+ 
+ f  =
+ 
+    200.  
+ 
+ BW  =
+ 
+    4.  
+ 
+ C  =
+ 
+    0.0000005  
+ 
+ 
+ 
+ 
+ Qcircuit  =
+ 
+    50.  
+ 
+ L  =
+ 
+    1.3473562  
+ 
+ 
+ 
+ R  =
+ 
+    84656.885  
+ 
+ 
+ 
+ r  =
+ 
+    22.575169  
+ 
+ req  =
+ 
+    126985.33  
+ 
+ ro  =
+ 
+    253970.65  
+ 
+ 
+ 
+ BW  =
+ 
+    5.  
+ 
+ Qcircuit  =
+ 
+    40.  
+ 
+ Req  =
+ 
+    67725.508  
+ 
+ Rl  =
+ 
+    338627.54  
+ 
+ 
+ 
+a)coil inductance is 1.35 mH 
+b)circuit output impedance atresonant freq is 84.66 K ohms 
+c)internal resistance ro is 253.97 k ohms 
+d)value of load resistance is 338.63 k ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ fo  =
+ 
+    50.  
+ 
+ L  =
+ 
+    0.001  
+ 
+ ro  =
+ 
+    100.  
+ 
+ Q  =
+ 
+    80.  
+ 
+ Ri  =
+ 
+    10.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    125.  
+ 
+ 
+ 
+ 
+ C  =
+ 
+    0.0101321  
+ 
+ r  =
+ 
+    0.0039270  
+ 
+ req  =
+ 
+    25.132741  
+ 
+ R  =
+ 
+    20.084864  
+ 
+ Avo  =
+ 
+  - 251.0608  
+ 
+ 
+ 
+ Qcircuit  =
+ 
+    63.932109  
+ 
+ BW  =
+ 
+    0.7820796  
+ 
+ 
+ 
+a)value of capacitance is 10 nF 
+  gain is -251.1 
+b)bandwidth is 782 Hz 
+Note : value used for beta in texbook is wrong in the solution 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ f  =
+ 
+    1000000.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    50.  
+ 
+ fT  =
+ 
+    5000000.  
+ 
+ 
+ 
+ betaf  =
+ 
+    5.  
+ 
+ fbeta  =
+ 
+    100000.  
+ 
+ 
+ 
+frequency is 100000 Hz 
+transistor is not suitable for 1Mhz amplifier as fbeta is less than 1Mhz 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.13/Ex4_13.sce #
+ 
+ 
+ 
+ rpi  =
+ 
+    2.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    50.  
+ 
+ f  =
+ 
+    1.  
+ 
+ beta1  =
+ 
+    2.5  
+ 
+ f1  =
+ 
+    20000000.  
+ 
+ 
+ 
+ fT  =
+ 
+    50000000.  
+ 
+ fbeta  =
+ 
+    1000000.  
+ 
+ Cpi  =
+ 
+    7.958D-08  
+ 
+ 
+ 
+fT is 50 MHz 
+fB is 1 MHz 
+Cpi is 80 pF 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    60.  
+ 
+ R2  =
+ 
+    140.  
+ 
+ Rs  =
+ 
+    4.  
+ 
+ Re  =
+ 
+    3.  
+ 
+ Rc  =
+ 
+    4.  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ Avo  =
+ 
+  - 30.  
+ 
+ 
+ 
+ 
+ Rb  =
+ 
+    42.  
+ 
+ Vth  =
+ 
+    3.  
+ 
+ Ib  =
+ 
+    0.0066667  
+ 
+ Ic  =
+ 
+    0.6666667  
+ 
+ Vce  =
+ 
+    5.3133333  
+ 
+ 
+ 
+ rpi  =
+ 
+    3.75  
+ 
+ r  =
+ 
+    3.442623  
+ 
+ Ib1  =
+ 
+    0.1233480  
+ 
+ Rl  =
+ 
+    6.2050114  
+ 
+ 
+ 
+value of Ic and Vce are 0.667 mA and 5.31 V 
+Rl is 6.21 k ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    25.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ Re  =
+ 
+    2.  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ Avo  =
+ 
+    160.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ Vs  =
+ 
+    1.  
+ 
+ Rl  =
+ 
+    12.5  
+ 
+ Rc1  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ Rb  =
+ 
+    20.  
+ 
+ Vth  =
+ 
+    2.  
+ 
+ Ib  =
+ 
+    0.0058559  
+ 
+ Ic  =
+ 
+    0.5855856  
+ 
+ rpi  =
+ 
+    4.2692308  
+ 
+ 
+ 
+ Ib1  =
+ 
+    0.2342342  
+ 
+ Rc  =
+ 
+    6.8307692  
+ 
+ 
+ 
+ r  =
+ 
+    3.518225  
+ 
+ Ib2  =
+ 
+    0.1823921  
+ 
+ Rc2  =
+ 
+    6.84  
+ 
+ Avo  =
+ 
+  - 80.633548  
+ 
+ 
+ 
+value of Ic 0.586 mA and rpi is 4.27 k ohms 
+Rc is 6.83 k ohms 
+Avo is -80.6 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.16/Ex4_16.sce #
+ 
+ R1  =
+ 
+    12.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ Rc  =
+ 
+    2.  
+ 
+ Ic  =
+ 
+    1.2  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    60.  
+ 
+ Ib1  =
+ 
+    1.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ Vs  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ rpi  =
+ 
+    1.25  
+ 
+ Rb  =
+ 
+    10.714286  
+ 
+ r  =
+ 
+    1.119403  
+ 
+ Ro1  =
+ 
+    0.7692308  
+ 
+ Vo1  =
+ 
+  - 46.153846  
+ 
+ Vbe2  =
+ 
+  - 46.153846  
+ 
+ Ib2  =
+ 
+  - 36.923077  
+ 
+ Ai  =
+ 
+  - 36.923077  
+ 
+ 
+ 
+ Ib11  =
+ 
+    0.4225352  
+ 
+ Ib21  =
+ 
+  - 15.6013  
+ 
+ Avo1  =
+ 
+  - 19.501625  
+ 
+ Vo1  =
+ 
+  - 19.501625  
+ 
+ 
+ 
+current gain is -36.92 
+overall voltage gain is -19.50 
+Note : solution in the textbook is incorrect 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.17/Ex4_17.sce #
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    50.  
+ 
+ R1  =
+ 
+    25.  
+ 
+ R2  =
+ 
+    75.  
+ 
+ Ic  =
+ 
+    1.25  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ s  =
+ 
+    0.01  
+ 
+ Rs  =
+ 
+    0.5  
+ 
+ Vo  =
+ 
+    1.  
+ 
+ Vs  =
+ 
+    1.  
+ 
+ Vl  =
+ 
+    12.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rl  =
+ 
+    12.  
+ 
+ 
+ 
+ rpi  =
+ 
+    1000.  
+ 
+ Rb  =
+ 
+    18.75  
+ 
+ r  =
+ 
+    0.9493671  
+ 
+ Avo  =
+ 
+    100.  
+ 
+ Ib  =
+ 
+    0.6550218  
+ 
+ Rc  =
+ 
+    4.09538  
+ 
+ Vth  =
+ 
+    2.5  
+ 
+ Ib1  =
+ 
+    0.025  
+ 
+ Re  =
+ 
+    1.0441176  
+ 
+ 
+ 
+value of Rc is 4.10 and Re is 1.04 k ohms 
+ Vth value is wrong substituted in the book 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.18/Ex4_18.sce #
+ 
+ 
+ 
+ Cpi  =
+ 
+    2.000D-08  
+ 
+ Cu  =
+ 
+    5.000D-09  
+ 
+ C  =
+ 
+    5.000D-08  
+ 
+ rpi  =
+ 
+    3750.  
+ 
+ r1  =
+ 
+    4000.  
+ 
+ r2  =
+ 
+    42000.  
+ 
+ r3  =
+ 
+    303000.  
+ 
+ f  =
+ 
+    20.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ Rl  =
+ 
+    10000.  
+ 
+ 
+ 
+ 
+ Req  =
+ 
+    7225.654  
+ 
+ Ce  =
+ 
+    0.0001112  
+ 
+ 
+ 
+ gm  =
+ 
+    0.0266667  
+ 
+ Ro  =
+ 
+    2857.1429  
+ 
+ Ceq  =
+ 
+    0.0000004  
+ 
+ Co  =
+ 
+    5.507D-08  
+ 
+ r  =
+ 
+    1935.4839  
+ 
+ w21  =
+ 
+    1272.7273  
+ 
+ w22  =
+ 
+    6356.0524  
+ 
+ 
+ 
+ gm  =
+ 
+    79.2  
+ 
+ Ro  =
+ 
+    0.75  
+ 
+ Ceqnew  =
+ 
+    322.  
+ 
+ wHnew  =
+ 
+    1.6045549  
+ 
+ fHnew  =
+ 
+    0.2553728  
+ 
+ 
+ 
+a)value of bypass capacitor Ce is 111 uF 
+higher frequency is w22 
+ 
+b)high frequency cut-off is 6.36 Mrad/s 
+c)high frequency cut-off is 0.255 MHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.19/Ex4_19.sce #
+ 
+ 
+ 
+ Vcc  =
+ 
+    3.  
+ 
+ Vee  =
+ 
+  - 3.  
+ 
+ r1  =
+ 
+    40.  
+ 
+ r2  =
+ 
+    25.  
+ 
+ r3  =
+ 
+    1.56  
+ 
+ Vs  =
+ 
+    3.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    200.  
+ 
+ r4  =
+ 
+    0.6  
+ 
+ r5  =
+ 
+    0.15  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ r  =
+ 
+    0.5  
+ 
+ fL  =
+ 
+    20.  
+ 
+ Req1  =
+ 
+    24.24  
+ 
+ f  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ Vth  =
+ 
+  - 0.6923077  
+ 
+ Rth  =
+ 
+    15.384615  
+ 
+ Ib  =
+ 
+    0.0096770  
+ 
+ Ic  =
+ 
+    1.9354092  
+ 
+ Vo  =
+ 
+  - 0.0192383  
+ 
+ 
+ 
+ rpi  =
+ 
+    2583.433  
+ 
+ R  =
+ 
+    120.6  
+ 
+ ro  =
+ 
+    115.22123  
+ 
+ Req  =
+ 
+    14.072396  
+ 
+ Cc1  =
+ 
+    0.0005655  
+ 
+ 
+ 
+ Ce  =
+ 
+    0.0003283  
+ 
+ CE  =
+ 
+    0.0656580  
+ 
+ 
+ 
+ Ce1  =
+ 
+    0.0032829  
+ 
+ CE1  =
+ 
+    0.6565798  
+ 
+ Csum  =
+ 
+    0.6571453  
+ 
+ 
+ 
+a)Ic and Vo are 1.94 mA and -0 V 
+b)Cc1 is 0.565 uF 
+c)Ce is 65.7 uF 
+d)Csum is 65.715 uF 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.21/Ex4_21.sce #
+ 
+ 
+ 
+ gm  =
+ 
+    2.  
+ 
+ rd  =
+ 
+    200000.  
+ 
+ Cgs  =
+ 
+    10.  
+ 
+ Cgd  =
+ 
+    0.  
+ 
+ Rs  =
+ 
+    1000.  
+ 
+ Rg  =
+ 
+    1000000.  
+ 
+ Rd  =
+ 
+    5000.  
+ 
+ Rs1  =
+ 
+    2.  
+ 
+ Cc1  =
+ 
+    1.000D-07  
+ 
+ Cc2  =
+ 
+    1.000D-07  
+ 
+ Co  =
+ 
+    1.000D-11  
+ 
+ Vgs  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ R  =
+ 
+    4878.0488  
+ 
+ Avo  =
+ 
+  - 9756.0976  
+ 
+ Vo  =
+ 
+  - 9756.0976  
+ 
+ 
+ 
+ w11  =
+ 
+    0.01  
+ 
+ wL  =
+ 
+    0.01  
+ 
+ 
+ 
+ w22  =
+ 
+    20500.  
+ 
+ wH  =
+ 
+    3262.6763  
+ 
+ 
+ 
+ G  =
+ 
+    31830989.  
+ 
+ 
+ 
+ Rd  =
+ 
+    4000.  
+ 
+ Rnew  =
+ 
+    3921.5686  
+ 
+ Avo1  =
+ 
+  - 7843.1373  
+ 
+ BWnew  =
+ 
+    4058.451  
+ 
+ Gnew  =
+ 
+    31830989.  
+ 
+ 
+ 
+a)Avo is -9.76 
+b)wL is 10.00 rad/s 
+c)wH is 3.3 MHz 
+d)G is 31.83 MHz 
+e)Gnew is 31.8 MHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH4/EX4.23/Ex4_23.sce #
+ 
+ 
+ 
+ gm  =
+ 
+    1.  
+ 
+ rd  =
+ 
+    40.  
+ 
+ Cgs  =
+ 
+    5.  
+ 
+ Cgd  =
+ 
+    1.  
+ 
+ Cds  =
+ 
+    1.  
+ 
+ Avo1  =
+ 
+    20.  
+ 
+ Avo2  =
+ 
+    8.  
+ 
+ R1  =
+ 
+    5.  
+ 
+ R2  =
+ 
+    20.  
+ 
+ R3  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+ Avo  =
+ 
+    160.  
+ 
+ Ceq1  =
+ 
+    26.  
+ 
+ Co1  =
+ 
+    2.05  
+ 
+ Ceq2  =
+ 
+    14.  
+ 
+ Co2  =
+ 
+    2.125  
+ 
+ 
+ 
+ w21  =
+ 
+    0.0076923  
+ 
+ w2  =
+ 
+    3115264.8  
+ 
+ w22  =
+ 
+    0.0588235  
+ 
+ 
+ 
+ 
+a)Avo is 160.0 
+b)w21,w2,w22 are 7.69 Mrad/sec, 3.12 Mrad/sec and 58.82 Mrad/sec 
+nondominant corner freq is 3.12 Mrad/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ Rb  =
+ 
+    1000.  
+ 
+ Vcc  =
+ 
+    20.  
+ 
+ Rc  =
+ 
+    20.  
+ 
+ beeta  =
+ 
+    25.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ ib  =
+ 
+    0.01  
+ 
+ 
+ 
+ Ibq  =
+ 
+    0.0193  
+ 
+ Icq  =
+ 
+    0.4825  
+ 
+ Vceq  =
+ 
+    10.35  
+ 
+ ic  =
+ 
+    0.25  
+ 
+ Po  =
+ 
+    0.625  
+ 
+ Pi  =
+ 
+    9.65  
+ 
+ eta  =
+ 
+    6.4766839  
+ 
+ Pd  =
+ 
+    4.368875  
+ 
+ 
+ 
+input power is Pi 9.7 W 
+output power is Po 0.6 W 
+power dissipated is 4.4 W 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ Rl  =
+ 
+    500.  
+ 
+ Vceq  =
+ 
+    50.  
+ 
+ beetamin  =
+ 
+    30.  
+ 
+ Icq  =
+ 
+    0.4  
+ 
+ Ibq  =
+ 
+    8.  
+ 
+ 
+ 
+ Rac  =
+ 
+    125.  
+ 
+ beeta  =
+ 
+    0.00005  
+ 
+ Re  =
+ 
+    12.5  
+ 
+ Rc  =
+ 
+    165.32258  
+ 
+ Vcc  =
+ 
+    121.12903  
+ 
+ Rb  =
+ 
+    37.5  
+ 
+ R1  =
+ 
+    39.5  
+ 
+ R2  =
+ 
+    750.  
+ 
+ Pi  =
+ 
+    48.  
+ 
+ r  =
+ 
+    124.24242  
+ 
+ Poac  =
+ 
+    10.060976  
+ 
+ etamax  =
+ 
+    0.2096037  
+ 
+ Poac1  =
+ 
+    2.5  
+ 
+ eta  =
+ 
+    0.0520833  
+ 
+ Pc  =
+ 
+    26.451613  
+ 
+ Pe  =
+ 
+    2.  
+ 
+ Pd  =
+ 
+    9.4874115  
+ 
+ 
+ 
+input power is Pi 48.0 W 
+output power is Po 10.06 W 
+dissipated power is 9.49 W 
+values of R1,R2,Re and Rc are 39.5 ohms, 750.0 ohms, 12.5 ohms and 165 ohms resp. 
+Note : Calculated value of Rc is wrong in the book 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ Pmax  =
+ 
+    10.  
+ 
+ Ic  =
+ 
+    1.  
+ 
+ Vcemax  =
+ 
+    100.  
+ 
+ Vcemin  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ Vceq  =
+ 
+    46.  
+ 
+ Icq  =
+ 
+    0.21  
+ 
+ Vcc  =
+ 
+    92.  
+ 
+ ic  =
+ 
+    0.42  
+ 
+ 
+ 
+ Rl  =
+ 
+    219.04762  
+ 
+ 
+ 
+ Pi  =
+ 
+    19.32  
+ 
+ Po  =
+ 
+    4.83  
+ 
+ eta  =
+ 
+    25.  
+ 
+ 
+ 
+Rl for maximum power input is 219 ohms 
+input power is is 19.3 W 
+Po is 4.8 
+eta is 25.0 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ beeta  =
+ 
+    40.  
+ 
+ Icq  =
+ 
+    5.  
+ 
+ Vceq  =
+ 
+    7.5  
+ 
+ icswing  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Rl  =
+ 
+    0.0015  
+ 
+ 
+ 
+ Ibq  =
+ 
+    0.125  
+ 
+ 
+ 
+ ibswing  =
+ 
+    0.25  
+ 
+ Pac  =
+ 
+    0.01875  
+ 
+ Pdc  =
+ 
+    0.075  
+ 
+ eta  =
+ 
+    25.  
+ 
+ 
+ 
+a)value of Rl is 1500 ohms 
+b)Ibq is 125 uA 
+c)ac power output is 18.75 mW 
+efficiency is 25.0 % 
+corresponding swing in ib is 0.25 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Vce  =
+ 
+    10.  
+ 
+ Icq  =
+ 
+    0.14  
+ 
+ Rl  =
+ 
+    8.  
+ 
+ vce  =
+ 
+    16.  
+ 
+ ic  =
+ 
+    0.235  
+ 
+ 
+ 
+ RL  =
+ 
+    71.428571  
+ 
+ r  =
+ 
+    2.9880715  
+ 
+ Po  =
+ 
+    0.47  
+ 
+ Pi  =
+ 
+    1.4  
+ 
+ eta  =
+ 
+    0.3357143  
+ 
+ Pd  =
+ 
+    0.93  
+ 
+ 
+ 
+a)transformation ratio is 3 
+c)power output is 0.47 W 
+efficiency is 33.57 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ Vcc  =
+ 
+    30.  
+ 
+ Rl  =
+ 
+    16.  
+ 
+ n  =
+ 
+    2.  
+ 
+ Im  =
+ 
+    1.  
+ 
+ etamax  =
+ 
+    78.54  
+ 
+ 
+ 
+ 
+ Rl1  =
+ 
+    16.  
+ 
+ Pi  =
+ 
+    19.098593  
+ 
+ Pimax  =
+ 
+    35.809862  
+ 
+ 
+ 
+ Po  =
+ 
+    8.  
+ 
+ Pomax  =
+ 
+    28.125  
+ 
+ 
+ 
+ eta  =
+ 
+    0.4188790  
+ 
+ 
+ 
+ 
+ P  =
+ 
+    11.098593  
+ 
+ Pd  =
+ 
+    5.5492966  
+ 
+ Pmax  =
+ 
+    11.398633  
+ 
+ Pdmax  =
+ 
+    5.6993166  
+ 
+ 
+ 
+a)input power is 19.1 W and  max input power is 35.81 W 
+b)output power 8.0 W and max output power is 28.12 W 
+c)power efficiency for the load is 41.89 % and its max value is 78.54 % 
+power dissipated by each transiator is 5.5 W and  max value is 5.7 W 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ Pd  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Poacmax  =
+ 
+    10.  
+ 
+ 
+ 
+ Pd  =
+ 
+    20.  
+ 
+ Poacmax1  =
+ 
+    73.  
+ 
+ f  =
+ 
+    7.3  
+ 
+ 
+ 
+maximum signal output powerclass A produce is 10.0 W 
+maximum signal output powerclass  produce is 73.0 W 
+factor by which power in class b is larger than power in class A transformer is 7.3 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ Vcc  =
+ 
+    30.  
+ 
+ Im  =
+ 
+    1.  
+ 
+ Rl  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Pi  =
+ 
+    9.5492966  
+ 
+ Pimax  =
+ 
+    14.323945  
+ 
+ 
+ 
+ Po  =
+ 
+    5.  
+ 
+ Pomax  =
+ 
+    11.25  
+ 
+ 
+ 
+ eta  =
+ 
+    0.5235988  
+ 
+ etamax  =
+ 
+    0.7853982  
+ 
+ 
+ 
+ Pd  =
+ 
+    4.5492966  
+ 
+ Pmax  =
+ 
+    4.5594533  
+ 
+ 
+ 
+a)input power is 9.55 W and max input power is 14.32 W 
+b)output power is 5.0 W and max output power is 11.25 W 
+c)power efficiency for the load is 52.36 % and its max value is 78.54 % 
+power dissipated and its max value are 4.55 W and 4.56 W 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    2.  
+ 
+ Rl  =
+ 
+    5000.  
+ 
+ Ic  =
+ 
+    35.  
+ 
+ 
+ 
+ Bo  =
+ 
+    5.  
+ 
+ B1  =
+ 
+    0.0282843  
+ 
+ B2  =
+ 
+    5.  
+ 
+ D2  =
+ 
+    17677.67  
+ 
+ 
+ 
+second harmonic distortion is 17.68 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ Rl  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Immax  =
+ 
+    1.5  
+ 
+ Irmsmax  =
+ 
+    1.0606602  
+ 
+ Pomax  =
+ 
+    11.25  
+ 
+ Pi  =
+ 
+    14.323945  
+ 
+ eta  =
+ 
+    0.7853982  
+ 
+ 
+ 
+ Im  =
+ 
+    0.9549297  
+ 
+ Pdmax  =
+ 
+    4.5594533  
+ 
+ eta1  =
+ 
+    0.5  
+ 
+ 
+ 
+a)max signal output power,collector dissipation  are 11.25 W , 14.32 W and efficiency is 78.54 % 
+b)max dissipation of each transistor and corresponding efficiency is 4.56 W and 0.5 resp. 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.13/Ex5_13.sce #
+ 
+ eta  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+push pull amplifier efficiency is 50 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.1/Ex6_1.sce #
+ 
+ Vo  =
+ 
+    12.  
+ 
+ f  =
+ 
+    1500.  
+ 
+ h  =
+ 
+    0.25  
+ 
+ ho  =
+ 
+    2.5  
+ 
+ A  =
+ 
+    100.  
+ 
+ 
+ 
+ Vd  =
+ 
+    3.  
+ 
+ Vd1  =
+ 
+    30.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.09  
+ 
+ Vs  =
+ 
+    1.2  
+ 
+ V  =
+ 
+    0.12  
+ 
+ s  =
+ 
+    10.  
+ 
+ 
+ 
+feedback gain is 0.09 
+signal input to the overall system is 10.0 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.2/Ex6_2.sce #
+ 
+ w2  =
+ 
+    10000.  
+ 
+ w2new  =
+ 
+    100000.  
+ 
+ Ao  =
+ 
+    1000.  
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.009  
+ 
+ Anew  =
+ 
+    100.  
+ 
+ p  =
+ 
+    10000000.  
+ 
+ pnew  =
+ 
+    10000000.  
+ 
+ 
+ 
+beta is 0.009 
+overall gain is 100.0 
+gain-bandwidth products with and without feedback are 10000000.0 and 10000000.0 resp. 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.3/Ex6_3.sce #
+ 
+ A  =
+ 
+    100.  
+ 
+ Af  =
+ 
+    100.  
+ 
+ A1  =
+ 
+    10000.  
+ 
+ A1new  =
+ 
+    50.  
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.0099  
+ 
+ Afnew  =
+ 
+    97.087379  
+ 
+ g  =
+ 
+    2.9126214  
+ 
+ 
+ 
+% change in gain of feedback unit is 2.91  
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.4/Ex6_4.sce #
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.008  
+ 
+ 
+ 
+ Ao  =
+ 
+  - 10.  
+ 
+ 
+ 
+% change in gain of feedback unit is -100 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ A  =
+ 
+    60.i  
+ 
+ B  =
+ 
+    30.i  
+ 
+ AB  =
+ 
+  - 1800.  
+ 
+ C  =
+ 
+  - 0.0005556 - 0.0333333i  
+ 
+ phi  =
+ 
+  - 90.954841  
+ 
+ 
+ 
+C = 0.0333 with phase = -90.95  
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.7/Ex6_7.sce #
+ 
+ Rbb  =
+ 
+    8000.  
+ 
+ eta  =
+ 
+    0.7  
+ 
+ R1  =
+ 
+    0.2  
+ 
+ Rt  =
+ 
+    40000.  
+ 
+ Ct  =
+ 
+    0.0000001  
+ 
+ Vv  =
+ 
+    2.  
+ 
+ Iv  =
+ 
+    0.01  
+ 
+ Ip  =
+ 
+    0.01  
+ 
+ Vd  =
+ 
+    0.7  
+ 
+ V  =
+ 
+    12.  
+ 
+ 
+ 
+ 
+ Rb1  =
+ 
+    5600.  
+ 
+ Rb2  =
+ 
+    2400.  
+ 
+ 
+ 
+ Vp  =
+ 
+    9.10009  
+ 
+ 
+ 
+ Rtmin  =
+ 
+    1000.  
+ 
+ Rtmax  =
+ 
+    289.991  
+ 
+ 
+ 
+ Rb11  =
+ 
+    0.12  
+ 
+ t1  =
+ 
+    0.006096  
+ 
+ t2  =
+ 
+    5.837D-08  
+ 
+ T  =
+ 
+    0.0060961  
+ 
+ foscE  =
+ 
+    164.04042  
+ 
+ foscA  =
+ 
+    173.61111  
+ 
+ 
+ 
+ vR1  =
+ 
+    0.0003000  
+ 
+ vR1d  =
+ 
+    5.2500562  
+ 
+ 
+ 
+Rb1 and Rb2 are 5.6 k ohms and 2.4 k ohms resp. 
+Vp is 9.1 V 
+Rtmin is 1 k ohms and Rtmax is 29 k ohms,hence Rt is in the range 
+foscE is 164 Hz and foscA is 174 Hz 
+vR1 is 0.300 and vRd1 is 5.25 V  
+(range of Rt is wrong in the book) 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.8/Ex6_8.sce #
+ 
+ A  =
+ 
+    1500.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.04  
+ 
+ 
+ 
+ 
+ Af  =
+ 
+    24.590164  
+ 
+ 
+ 
+ g  =
+ 
+    0.1  
+ 
+ gf  =
+ 
+    0.0016393  
+ 
+ 
+ 
+Amplifier gain with feedback is 24.6  
+% by which gain in feedback changes is 0.164 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.9/Ex6_9.sce #
+ 
+ A  =
+ 
+    500.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.05  
+ 
+ Ro  =
+ 
+    50000.  
+ 
+ Ri  =
+ 
+    1500.  
+ 
+ 
+ 
+ 
+ Af  =
+ 
+    19.230769  
+ 
+ 
+ 
+ Rif  =
+ 
+    39000.  
+ 
+ Rof  =
+ 
+    1923.0769  
+ 
+ 
+ 
+Amplifier gain is 19.23 
+input resistance is 39 K ohms and output resistance is 1.92 kW 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.10/Ex6_10.sce #
+ 
+ Ro  =
+ 
+    50000.  
+ 
+ Rd  =
+ 
+    10000.  
+ 
+ R1  =
+ 
+    800000.  
+ 
+ R2  =
+ 
+    200000.  
+ 
+ gm  =
+ 
+    0.0055  
+ 
+ 
+ 
+ r  =
+ 
+    8333.3333  
+ 
+ R  =
+ 
+    1000000.  
+ 
+ Rl  =
+ 
+    8264.4628  
+ 
+ A  =
+ 
+  - 45.454545  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.2  
+ 
+ Af  =
+ 
+    5.6179775  
+ 
+ 
+ 
+Amplifier gain with feedback is 0.6 and without feedback is -45.5 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.11/Ex6_11.sce #
+ 
+ Re  =
+ 
+    1250.  
+ 
+ Rc  =
+ 
+    4800.  
+ 
+ Rb  =
+ 
+    800000.  
+ 
+ rpi  =
+ 
+    900.  
+ 
+ Vcc  =
+ 
+    16.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ 
+ 
+ A  =
+ 
+  - 0.1111111  
+ 
+ B  =
+ 
+  - 1250.  
+ 
+ V  =
+ 
+  - 3.8125496  
+ 
+ 
+ 
+Amplifier voltage gain is -3.8 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.12/Ex6_12.sce #
+ 
+ 
+ 
+ C1  =
+ 
+    0.0000008  
+ 
+ C2  =
+ 
+    0.0000024  
+ 
+ L  =
+ 
+    0.00005  
+ 
+ 
+ 
+ Ceq  =
+ 
+    0.0000006  
+ 
+ fo  =
+ 
+    29057.584  
+ 
+ 
+ 
+the oscillation frequency is 29.06 KHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH6/EX6.13/Ex6_13.sce #
+ 
+ 
+ 
+ C  =
+ 
+    0.0000002  
+ 
+ Lrcf  =
+ 
+    0.0005  
+ 
+ L1  =
+ 
+    0.0008  
+ 
+ L2  =
+ 
+    0.0008  
+ 
+ M  =
+ 
+    0.0002  
+ 
+ 
+ 
+ L21  =
+ 
+    0.0003077  
+ 
+ Leq  =
+ 
+    0.0015077  
+ 
+ fo  =
+ 
+    9165.3441  
+ 
+ 
+ 
+the oscillation frequency is 9.17 KHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.1/Ex7_1.sce #
+ 
+ V1  =
+ 
+    120.  
+ 
+ V2  =
+ 
+    80.  
+ 
+ Ad  =
+ 
+    1000.  
+ 
+ 
+ 
+ 
+ Vd  =
+ 
+    40.  
+ 
+ Vc  =
+ 
+    100.  
+ 
+ 
+ 
+ CMRR  =
+ 
+    100.  
+ 
+ Vo  =
+ 
+    41000.  
+ 
+ 
+ 
+ CMRR  =
+ 
+    100000.  
+ 
+ Vo1  =
+ 
+    40001.  
+ 
+ 
+ 
+output voltage is 41 mV 
+output voltage is 40 mV 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.2/Ex7_2.sce #
+ 
+ deltavi  =
+ 
+    0.5  
+ 
+ deltat  =
+ 
+    10.  
+ 
+ s  =
+ 
+    1.  
+ 
+ 
+ 
+ Kvf  =
+ 
+    20.  
+ 
+ 
+ 
+d loop gain of amplifier is 20.0 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ f  =
+ 
+    50000.  
+ 
+ Vm  =
+ 
+    0.02  
+ 
+ S  =
+ 
+    500000.  
+ 
+ 
+ 
+ Kvf  =
+ 
+    79.577472  
+ 
+ 
+ 
+d loop gain of amplifier is 80 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.4/Ex7_4.sce #
+ 
+ Ic  =
+ 
+    100.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    2000.  
+ 
+ Ad  =
+ 
+    250.  
+ 
+ CMRR  =
+ 
+    5000.  
+ 
+ 
+ 
+ rpi  =
+ 
+    500.  
+ 
+ gm  =
+ 
+    4.  
+ 
+ Re  =
+ 
+    1250.  
+ 
+ Rc  =
+ 
+    125.  
+ 
+ Rin  =
+ 
+    1000.  
+ 
+ 
+ 
+Re is 1250.0 k ohms 
+Rc is 125.0 k ohms 
+input resistance is 1000.0 k ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.6/Ex7_6.sce #
+ 
+ Icq  =
+ 
+    0.428  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    200.  
+ 
+ 
+ Rc  =
+ 
+    10.  
+ 
+ Re  =
+ 
+    16.  
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ 
+ 
+ 
+ Ibq  =
+ 
+    0.00214  
+ 
+ rpi  =
+ 
+    11682.243  
+ 
+ gm  =
+ 
+    0.01712  
+ 
+ 
+ 
+ vo1  =
+ 
+    10.72  
+ 
+ vo2  =
+ 
+    10.72  
+ 
+ 
+ 
+ Ad  =
+ 
+    0.0856  
+ 
+ Ac  =
+ 
+    0.3125  
+ 
+ CMRR  =
+ 
+    0.27392  
+ 
+ 
+ 
+ Rid  =
+ 
+    23364.486  
+ 
+ rpi  =
+ 
+    11.7  
+ 
+ Ric  =
+ 
+    6443.7  
+ 
+ 
+ 
+Icq is 0.428 mA,and Ibq is  2.14 uA 
+vo1 and vo2 have same value as 10.7 V 
+Ad : 86 , Ac : 0.312 and CMRR is 274 
+Rid is 23.4 K ohms and Ric is 6.44  Mohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.7/Ex7_7.sce #
+ 
+ R1  =
+ 
+    10.  
+ 
+ Rf  =
+ 
+    1000.  
+ 
+ vo  =
+ 
+  - 5.  
+ 
+ Ri  =
+ 
+    1000.  
+ 
+ Av  =
+ 
+    250000.  
+ 
+ 
+ 
+ v1  =
+ 
+    0.05  
+ 
+ vi  =
+ 
+    0.00002  
+ 
+ i1  =
+ 
+    0.000003  
+ 
+ ii  =
+ 
+    2.000D-08  
+ 
+ iF  =
+ 
+  - 2.000D-08  
+ 
+ 
+ 
+value of vi is 2e-05 mV 
+value of ii: 2e-08 uA i1: 3e-06 uA and iF is -2e-08 uA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.8/Ex7_8.sce #
+ 
+ Vs  =
+ 
+    4.  
+ 
+ R1  =
+ 
+    10.  
+ 
+ Vb  =
+ 
+    2.  
+ 
+ Va  =
+ 
+    2.  
+ 
+ Rf  =
+ 
+    30.  
+ 
+ 
+ 
+ I  =
+ 
+    0.2  
+ 
+ Vo  =
+ 
+  - 4.  
+ 
+ 
+ 
+output voltage -4.0  V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.9/Ex7_9.sce #
+ 
+ Rf  =
+ 
+    2.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ vo  =
+ 
+    6.  
+ 
+ 
+ 
+output voltage 6.0 sinwt 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.10/Ex7_10.sce #
+ 
+ Ro  =
+ 
+    100.  
+ 
+ vo  =
+ 
+    10.  
+ 
+ A  =
+ 
+    100000.  
+ 
+ Ri  =
+ 
+    100000.  
+ 
+ Rs  =
+ 
+    1000.  
+ 
+ Rl  =
+ 
+    10000.  
+ 
+ 
+ 
+ 
+ iL  =
+ 
+    0.001  
+ 
+ Avi  =
+ 
+    10.1  
+ 
+ vi  =
+ 
+    0.000101  
+ 
+ ii  =
+ 
+    1.010D-09  
+ 
+ vs  =
+ 
+    10.000102  
+ 
+ 
+ 
+ Avf  =
+ 
+    0.9999898  
+ 
+ 
+ 
+ 
+ Rif  =
+ 
+    9.901D+09  
+ 
+ Rof  =
+ 
+    0.001  
+ 
+ 
+ 
+vs is 10.0001 v 
+vo/vs that is Avf is 1 
+input and output resistances are 9901091099.01 , 0.001 ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.11/Ex7_11.sce #
+ 
+ Vb  =
+ 
+    3.  
+ 
+ Va  =
+ 
+    3.  
+ 
+ R1  =
+ 
+    40000.  
+ 
+ t  =
+ 
+    0.05  
+ 
+ V1  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ vo  =
+ 
+  - 3.  
+ 
+ 
+ 
+ i1  =
+ 
+    0.00005  
+ 
+ vo1  =
+ 
+  - 15.5  
+ 
+ 
+ 
+output voltage -15.500000 V 
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.14/Ex7_14.sce #
+ 
+ 
+ 
+ BW  =
+ 
+    30000.  
+ 
+ fc  =
+ 
+    18000.  
+ 
+ R1  =
+ 
+    20.  
+ 
+ R2  =
+ 
+    180.  
+ 
+ C  =
+ 
+    1.200D-09  
+ 
+ G  =
+ 
+    40.  
+ 
+ g  =
+ 
+    20.  
+ 
+ 
+ 
+ fc1  =
+ 
+    3000.  
+ 
+ fc2  =
+ 
+    33000.  
+ 
+ Rfc1  =
+ 
+    44209.706  
+ 
+ Rfc2  =
+ 
+    4019.0642  
+ 
+ Gfc1  =
+ 
+    20.  
+ 
+ Gfc2  =
+ 
+    28.  
+ 
+ 
+ 
+R1 and R2 are 20.0 K ohms and 180.0 K ohms 
+Rfc1 is 44 k ohms and Rfc2 is 4 k ohms 
+filter gain at frequencies 0.3 KHz is 20.0 dB and 132 k Hz are 28.0 dB 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.21/Ex7_21.sce #
+ 
+ R  =
+ 
+    250.  
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    50.  
+ 
+ 
+ 
+ R2  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R1 and R2 are 50.0 K ohms and 50.0 K ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.22/Ex7_22.sce #
+ 
+ R1  =
+ 
+    10000.  
+ 
+ C1  =
+ 
+    0.000001  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ R  =
+ 
+    100000.  
+ 
+ 
+ 
+ 
+ wc1  =
+ 
+    1.000D+10  
+ 
+ wc2  =
+ 
+    1.000D+12  
+ 
+ wc  =
+ 
+    1.000D+12  
+ 
+ wc1  =
+ 
+    1.000D+12  
+ 
+ 
+ 
+wc1 is 100.00 rad/s 
+wc2 is 100.00 rad/s 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH7/EX7.23/Ex7_23.sce #
+ 
+ vo1  =
+ 
+    5.  
+ 
+ K  =
+ 
+    25.  
+ 
+ Q  =
+ 
+    250.  
+ 
+ R1  =
+ 
+    2.5  
+ 
+ 
+ 
+ C1  =
+ 
+    500.  
+ 
+ 
+ 
+C1 is 50 uF 
+vo1 is -5 V when Q=250 cm^3 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.1/Ex8_1.sce #
+ 
+ C  =
+ 
+    0.1  
+ 
+ R1  =
+ 
+    10.  
+ 
+ R2  =
+ 
+    2.3  
+ 
+ Vcc  =
+ 
+    12.  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ 
+ 
+ 
+ f  =
+ 
+    1.9767143  
+ 
+ 
+ 
+ D  =
+ 
+    84.246575  
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    0.85239  
+ 
+ T2  =
+ 
+    0.15939  
+ 
+ Pavg  =
+ 
+    0.0001213  
+ 
+ 
+ 
+ Pavg1  =
+ 
+    0.0000227  
+ 
+ 
+ 
+ 1.98 kHz 
+duty cycle is 84.25 % 
+average power dissipated in current sourcing is 0.121 mW 
+average power dissipated in current sinking is 0.023 mW 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ t  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.8  
+ 
+ e1  =
+ 
+    9.  
+ 
+ 
+ 
+ Betamin  =
+ 
+    0.3571429  
+ 
+ Betamax  =
+ 
+    0.1  
+ 
+ Tmax  =
+ 
+    1.4944288  
+ 
+ Tmin  =
+ 
+    0.4013414  
+ 
+ fmin  =
+ 
+    0.6691520  
+ 
+ fmax  =
+ 
+    2.4916443  
+ 
+ 
+ 
+fmin is 669 Hz and fmax is 2.5 KHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ C  =
+ 
+    0.01  
+ 
+ R2  =
+ 
+    15.  
+ 
+ Va2  =
+ 
+    4.  
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ R1  =
+ 
+    33.  
+ 
+ 
+ 
+ Va1  =
+ 
+    10.05  
+ 
+ Vamax  =
+ 
+    14.05  
+ 
+ Vamin  =
+ 
+    6.05  
+ 
+ T1max  =
+ 
+    1.0212504  
+ 
+ T1min  =
+ 
+    0.1397605  
+ 
+ T2  =
+ 
+    0.10395  
+ 
+ fmax  =
+ 
+    4.1032298  
+ 
+ fmin  =
+ 
+    0.8887306  
+ 
+ 
+ 
+minimum freq is 0.89 
+maximum freq is 4.10 
+ (solution given in the textbook is incorrect) 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.4/Ex8_4.sce #
+ 
+ Vi  =
+ 
+    25.  
+ 
+ Vsmax  =
+ 
+    30.  
+ 
+ Vomin  =
+ 
+    12.  
+ 
+ Vl  =
+ 
+    12.  
+ 
+ R1  =
+ 
+    20.  
+ 
+ Io  =
+ 
+    15.  
+ 
+ Iq  =
+ 
+    3.  
+ 
+ Vo  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ Vimax  =
+ 
+    30.  
+ 
+ Ro  =
+ 
+    0.  
+ 
+ 
+ Vomax  =
+ 
+    23.  
+ 
+ betaVomax  =
+ 
+    11.  
+ 
+ R2max  =
+ 
+    18.333333  
+ 
+ 
+ R3  =
+ 
+    0.7333333  
+ 
+ 
+ 
+ Vt  =
+ 
+    2.2  
+ 
+ Vomin1  =
+ 
+    14.2  
+ 
+ 
+ 
+ betaVo  =
+ 
+    8.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.4  
+ 
+ R2  =
+ 
+    13.333333  
+ 
+ 
+ 
+a)i)max permissible supply voltage is 30.0 V 
+ii)output voltage range for Vi=25V is 12.0 V to 23.0 V and R2max is 18 k ohms 
+iii)R3 is 0.73 kohms kohms 
+b)Vomin is 14.2 V 
+c)R2 is 13.33 ohms and R3 is 0.733 ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.5/Ex8_5.sce #
+ 
+ A  =
+ 
+    0.0025  
+ 
+ Vi  =
+ 
+    8.  
+ 
+ R2  =
+ 
+    1.5  
+ 
+ R1  =
+ 
+    1.  
+ 
+ Vl  =
+ 
+    5.  
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.6  
+ 
+ Vo  =
+ 
+    12.5  
+ 
+ Vo1  =
+ 
+    0.0498132  
+ 
+ 
+ 
+Vo is 12.5 V 
+expression of output voltage ripple 0.05 Vp-p 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.6/Ex8_6.sce #
+ 
+ Ro  =
+ 
+    7.5  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ Ve  =
+ 
+    20.  
+ 
+ Vbe  =
+ 
+    0.8  
+ 
+ Vc  =
+ 
+    15.  
+ 
+ P  =
+ 
+    12.  
+ 
+ Ib1  =
+ 
+    5.  
+ 
+ 
+ 
+ Io  =
+ 
+    2000.  
+ 
+ Il  =
+ 
+    76.  
+ 
+ Is  =
+ 
+    81.  
+ 
+ Ic  =
+ 
+    1919.  
+ 
+ Ib  =
+ 
+    38.38  
+ 
+ Ie  =
+ 
+    1880.62  
+ 
+ Pt  =
+ 
+    8827.4  
+ 
+ Pl  =
+ 
+    415.2  
+ 
+ Vimax  =
+ 
+    21.686997  
+ 
+ Iomin  =
+ 
+    250.  
+ 
+ 
+ 
+power dissipated in the transistor is 8.83 W and in LR is 0.415 W 
+maximum permissible input voltage is 21.69 V 
+minimum load current for load voltage to remain stabalized is 250.0 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.8/Ex8_8.sce #
+ 
+ Vs  =
+ 
+    200.  
+ 
+ Il  =
+ 
+    5.  
+ 
+ Vl  =
+ 
+    15.  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ f  =
+ 
+    20.  
+ 
+ iSmax  =
+ 
+    2.6  
+ 
+ P  =
+ 
+    100.  
+ 
+ pdf  =
+ 
+    0.4  
+ 
+ 
+ 
+ Isav  =
+ 
+    0.4411765  
+ 
+ iS  =
+ 
+    2.2058824  
+ 
+ T  =
+ 
+    50.  
+ 
+ tp  =
+ 
+    20.  
+ 
+ d  =
+ 
+    0.1102941  
+ 
+ tp1  =
+ 
+    23.573333  
+ 
+ pdf1  =
+ 
+    0.4714667  
+ 
+ Isav1  =
+ 
+    0.6129067  
+ 
+ eta1  =
+ 
+    81.578489  
+ 
+ 
+ 
+peak value of supply current is 0.441 A 
+pdf is 0.400  
+overall efficienc is 81.6 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH9/EX9.2/Ex9_2.sce #
+ 
+ t  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ Pp  =
+ 
+    1.000D+17  
+ 
+ Bn  =
+ 
+    5.000D+16  
+ 
+ un  =
+ 
+    0.135  
+ 
+ 
+ 
+ n  =
+ 
+    5.000D+22  
+ 
+ g  =
+ 
+    1080.  
+ 
+ rho  =
+ 
+    37.037037  
+ 
+ Rs  =
+ 
+    37.037037  
+ 
+ 
+ 
+Sheet resistance is 37 ohm(mil**2) 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH9/EX9.3/Ex9_3.sce #
+ 
+ R  =
+ 
+    20000.  
+ 
+ w  =
+ 
+    25.  
+ 
+ Rs  =
+ 
+    200.  
+ 
+ R1  =
+ 
+    5000.  
+ 
+ 
+ 
+ 
+ l  =
+ 
+    2500.  
+ 
+ 
+ 
+ L  =
+ 
+    25.  
+ 
+ w1  =
+ 
+    1.  
+ 
+ 
+ 
+length required to fabricate 20 kohms resistor is 2500.0 um 
+width required to fabricate 5 kohms resistor is 1.0 um 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH9/EX9.4/Ex9_4.sce #
+ 
+ C  =
+ 
+    4.000D-13  
+ 
+ A  =
+ 
+    1.000D-12  
+ 
+ d  =
+ 
+    4.000D-08  
+ 
+ Eo  =
+ 
+    8.849D-12  
+ 
+ 
+ 
+ Er  =
+ 
+    1808.1139  
+ 
+ 
+ 
+relative dielectric constant of SiO2 is 1808 
+ Note : Solution given in the textbook is incorrect 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH9/EX9.5/Ex9_5.sce #
+ 
+ C  =
+ 
+    2.500D-10  
+ 
+ d  =
+ 
+    5.000D-08  
+ 
+ Eo  =
+ 
+    8.849D-12  
+ 
+ Er  =
+ 
+    3.5  
+ 
+ 
+ 
+ A  =
+ 
+    0.0000004  
+ 
+ 
+ 
+chip area needed for a 250 pF  MOS capacitor 4.04 um^2 
+Note: Solution given in the textbook is incorrect 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.1/Ex10_1.sce #
+ 
+ i1  =
+ 
+    4.  
+ 
+ v3  =
+ 
+    3.  
+ 
+ v4  =
+ 
+    8.  
+ 
+ r3  =
+ 
+    3.  
+ 
+ r2  =
+ 
+    2.  
+ 
+ r4  =
+ 
+    4.  
+ 
+ 
+ 
+ i3  =
+ 
+    1.  
+ 
+ i4  =
+ 
+    2.  
+ 
+ i2  =
+ 
+    0.5  
+ 
+ v2  =
+ 
+    1.  
+ 
+ 
+ 
+v2 is 1.0 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.2/Ex10_2.sce #
+ 
+ v1  =
+ 
+    6.  
+ 
+ i2  =
+ 
+    2.  
+ 
+ i3  =
+ 
+    4.  
+ 
+ r3  =
+ 
+    2.  
+ 
+ v3  =
+ 
+    3.  
+ 
+ r2  =
+ 
+    2.  
+ 
+ r4  =
+ 
+    3.  
+ 
+ 
+ 
+ v2  =
+ 
+    4.  
+ 
+ v3  =
+ 
+    8.  
+ 
+ v4  =
+ 
+    6.  
+ 
+ i4  =
+ 
+    2.  
+ 
+ 
+ 
+i4 is 2 A 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ a  =
+ 
+    7.  - 3.  - 4.   
+  - 3.    6.  - 2.   
+  - 4.  - 2.    11.  
+ 
+ b  =
+ 
+  - 11.  
+    3.   
+    25.  
+ 
+ x  =
+ 
+    1.  
+    2.  
+    3.  
+ 
+ 
+ v  =
+ 
+    1.  
+ 
+ 
+ 
+v is 1.0 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ R  =
+ 
+    20.  
+ 
+ 
+ 
+ a  =
+ 
+    35.  - 20.  
+  - 20.    50.  
+ 
+ b  =
+ 
+    50.   
+  - 100.  
+ 
+ x  =
+ 
+    0.3703704  
+  - 1.8518519  
+ 
+ i  =
+ 
+    2.2222222  
+ 
+ V  =
+ 
+    44.444444  
+ 
+ 
+ 
+i is 2.22 
+voltage across 20 ohms is 44.4 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.5/Ex10_5.sce #
+ 
+ Vs  =
+ 
+    16.  
+ 
+ 
+ 
+ 
+ I  =
+ 
+    0.  
+ 
+ Is  =
+ 
+    2.  
+ 
+ 
+ 
+ Is1  =
+ 
+    16.  
+ 
+ I  =
+ 
+    0.  
+ 
+ Vs1  =
+ 
+    128.  
+ 
+ 
+ 
+Is is 2 A 
+Vs1 is 128 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.6/Ex10_6.sce #
+ 
+ V  =
+ 
+    9.  
+ 
+ i  =
+ 
+    9.  
+ 
+ r1  =
+ 
+    1.  
+ 
+ r2  =
+ 
+    3.  
+ 
+ r  =
+ 
+    5.  
+ 
+ 
+ 
+ Isc  =
+ 
+    6.  
+ 
+ Ro  =
+ 
+    2.  
+ 
+ 
+ 
+Isc is 6 A 
+Ro is 2 ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.10/Ex10_10.sce #
+ 
+ 
+ 
+ z11  =
+ 
+    1075. + 1075.i  
+ 
+ z21  =
+ 
+    2022. - 1075.i  
+ 
+ 
+ 
+ z12  =
+ 
+  - 1075.i  
+ 
+ z22  =
+ 
+    751. - 1073.i  
+ 
+ 
+ 
+ z  =
+ 
+    1075. + 2150.i  
+ 
+ z1  =
+ 
+    751. + 2.i  
+ 
+ z2  =
+ 
+    2022.  
+ 
+ 
+ 
+z11-z12(z) is  
+ 
+    1075. + 2150.i  
+ 
+z22-z12(z1) is 
+ 
+    751. + 2.i  
+ 
+z21-z12(z2) is 
+ 
+    2022.  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.11/Ex10_11.sce #
+ 
+ V2  =
+ 
+    0.8571429  
+ 
+ 
+ 
+ Rth  =
+ 
+    0.8571429  
+ 
+ Zl  =
+ 
+    0.8571429  
+ 
+ 
+ 
+load resistance is 0.857 ohms 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH11/EX11.2/Ex11_2.sce #
+ 
+ E  =
+ 
+    120.  
+ 
+ B  =
+ 
+    0.00005  
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+ u  =
+ 
+    1000000.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ a  =
+ 
+    9.81  
+ 
+ 
+ 
+ 
+ fe  =
+ 
+    1.920D-17  
+ 
+ 
+ 
+ fm  =
+ 
+    8.000D-18  
+ 
+ 
+ 
+ fg  =
+ 
+    8.927D-30  
+ 
+ 
+ 
+force on electron due to electric field is 1.92e-17 N 
+force on electron due to magnetic field is 8e-18 N 
+force on electron due to gravitational field is 8.9271e-30 N 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    1200.  
+ 
+ T2  =
+ 
+    1000.  
+ 
+ Ww  =
+ 
+    120000.  
+ 
+ k  =
+ 
+    8.62  
+ 
+ Ie1  =
+ 
+    200.  
+ 
+ T3  =
+ 
+    1500.  
+ 
+ 
+ 
+ Ie2  =
+ 
+    13.646576  
+ 
+ Ie3  =
+ 
+    3180.4885  
+ 
+ 
+ 
+current density at 1000 k is 13.65 mA/cm^2 
+current density at 1500 k is 3180.49 mA/cm^2 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ Ls  =
+ 
+    40.  
+ 
+ d  =
+ 
+    1.5  
+ 
+ Va  =
+ 
+    1200.  
+ 
+ L  =
+ 
+    3.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ Y  =
+ 
+    0.04  
+ 
+ 
+ 
+ 
+ U  =
+ 
+    20542104.  
+ 
+ 
+ 
+ Vd  =
+ 
+    1.2  
+ 
+ 
+ 
+ Vdmax  =
+ 
+    600.  
+ 
+ 
+ 
+velocity of electron upon stricking the screen is 2.054e+07 m/s 
+deflecting voltage is 120 V 
+maximum allowable deflection is 600 V 
+ 

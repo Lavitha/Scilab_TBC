@@ -1,0 +1,840 @@
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH17/EX17.1/example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tail current=   
+ 
+    0.002  
+ 
+ Amperes   
+ 
+ 
+ emitter current=   
+ 
+    0.001  
+ 
+ Amperes   
+ 
+ 
+ quiescent collector voltage=   
+ 
+    10.  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH19/EX19.1/example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ bandwidth=   
+ 
+    0.025  
+ 
+ hertz   
+ 
+ 
+ Ideal closed-loop voltage gain=   
+ 
+    40.  
+ 
+ 
+ exact closed-loop voltage gain=   
+ 
+    39.984006  
+ 
+ 
+ percentage eroor=   
+ 
+    0.0399840  
+ 
+ %   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH14/EX14.2/example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage=   
+ 
+    0.0666667  
+ 
+ Volts    
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH17/EX17.2/example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tail current=   
+ 
+    0.0019067  
+ 
+ Amperes   
+ 
+ 
+ emitter current=   
+ 
+    0.0009533  
+ 
+ Amperes   
+ 
+ 
+ quiescent collector voltage=   
+ 
+    10.233333  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH19/EX19.2/example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ zincl  =
+ 
+    1.923D+08  
+ 
+ 
+ closed-loop input impedance=   
+ 
+    1.923D+08  
+ 
+ ohms   
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH5/EX5.2/example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thevenin voltage=   
+ 
+    14.173228  
+ 
+ Volts   
+ 
+ 
+ Vth>Vz   
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH17/EX17.3/example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tail current=   
+ 
+    0.0024  
+ 
+ Amperes   
+ 
+ 
+ emitter current=   
+ 
+    0.0012  
+ 
+ Amperes   
+ 
+ 
+ right quiescent collector voltage=   
+ 
+    8.4  
+ 
+ Volts   
+ 
+ 
+ left quiescent collector voltage=   
+ 
+    12.  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH19/EX19.3/example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ closed-loop output impedance=   
+ 
+    0.0299880  
+ 
+ ohms   
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH17/EX17.4/example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage=   
+ 
+    0.2  
+ 
+ Volts   
+ 
+ 
+ input impedance=   
+ 
+    15000.  
+ 
+ ohms   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH19/EX19.4/example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ closed-loop total harmonic distortion=   
+ 
+    0.0029988  
+ 
+ %   
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH22/EX22.4/example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cutoff frequency=   
+ 
+    0.2387324  
+ 
+ hertz   
+ 
+ 
+ Trip point=   
+ 
+    5.  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH15/EX15.5/example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak output voltage=   
+ 
+    10.18  
+ 
+ Volts   
+ 
+ 
+ frequency=   
+ 
+    500000.  
+ 
+ hertz   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH17/EX17.5/example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage=   
+ 
+    0.1906667  
+ 
+ Volts   
+ 
+ 
+ input impedance=   
+ 
+    15734.266  
+ 
+ ohms   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH22/EX22.5/example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ duty cycle=   
+ 
+    33.333333  
+ 
+ %   
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH19/EX19.6/example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ closed-loop input impedance=   
+ 
+    0.0499995  
+ 
+ ohms   
+ 
+ 
+ closed-loop output impedance=   
+ 
+    0.0007500  
+ 
+ ohms   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH18/EX18.7/example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ closed loop voltage gain=   
+ 
+  - 50.  
+ 
+ 
+ closed loop bandwidth=   
+ 
+    20000.  
+ 
+ Hertz   
+ 
+ 
+ output voltage 1=   
+ 
+  - 0.5  
+ 
+ Volts   
+ 
+ 
+ output voltage 2=   
+ 
+  - 0.01  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH18/EX18.10/example10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ closed loop voltage gain=   
+ 
+    40.  
+ 
+ 
+ closed loop bandwidth=   
+ 
+    25000.  
+ 
+ Hertz   
+ 
+ 
+ output voltage=   
+ 
+    0.2  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH18/EX18.12/example12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage=   
+ 
+  - 3.1  
+ 
+ Vpp   
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH17/EX17.13/example13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ load voltage=   
+ 
+    1.5  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+grepthis#Electronic_Principles_A._Malvino_And_D._J._Bates_317/CH14/EX14.15/example15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Id  =
+ 
+    0.1063240  
+ 
+ 
+ 
+ 
+ 
+ 
+ gate-source voltage=   
+ 
+    3.1111111  
+ 
+ Volts   
+ 
+ 
+ drain current=   
+ 
+    0.1063240  
+ 
+ Amperes   
+ 
+ 
+ transconductane=   
+ 
+    0.2103111  
+ 
+ Seimen   
+ 
+ 
+ output voltage=   
+ 
+    1.3390595  
+ 
+ Volts   
+ 
+ 
+ 
+ 
+ 
+ 
+ 

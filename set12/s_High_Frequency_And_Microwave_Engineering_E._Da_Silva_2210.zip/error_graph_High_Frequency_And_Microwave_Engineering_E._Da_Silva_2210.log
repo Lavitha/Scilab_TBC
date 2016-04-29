@@ -1,0 +1,309 @@
+ERROR: High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.1/3_1.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+uW_display_smith([.2 .5 1 2 5],12);
+                                   !--error 4 
+Undefined variable: uW_display_smith
+at line       8 of exec file called by :    
+_E._Da_Silva_2210/CH3/EX3.1/3_1.sce',-1
+ 
+ERROR: High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.2/3_2.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+uW_display_smith([.2 .5 1 2 5],12);
+                                   !--error 4 
+Undefined variable: uW_display_smith
+at line      22 of exec file called by :    
+_E._Da_Silva_2210/CH3/EX3.2/3_2.sce',-1
+ 
+ERROR: High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.3/3_3.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+uW_display_smith([.2 .5 1 2 5],12);
+                                   !--error 4 
+Undefined variable: uW_display_smith
+at line       7 of exec file called by :    
+_E._Da_Silva_2210/CH3/EX3.3/3_3.sce',-1
+ 
+ERROR: High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.4/3_4.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+uW_display_smith([.2 .5 1 2 5],12);
+                                   !--error 4 
+Undefined variable: uW_display_smith
+at line       7 of exec file called by :    
+_E._Da_Silva_2210/CH3/EX3.4/3_4.sce',-1
+ 
+ERROR: High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.6/3_6.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zo  =
+ 
+    50.  
+ 
+ Zl  =
+ 
+    40. - 80.i  
+ 
+ 
+ d1  =
+ 
+    0.096  
+ 
+ d2  =
+ 
+    0.173  
+ 
+ d3  =
+ 
+    0.206  
+ 
+ 
+ refl  =
+ 
+    0.3793103 - 0.5517241i  
+ 
+ refla  =
+ 
+  - 55.491477  
+ reflm  =
+ 
+    0.6695341  
+ 
+ SWR  =
+ 
+    5.052061  
+ 
+ Zin1  =
+ 
+    12.488786 - 24.946676i  
+ 
+ Zin2  =
+ 
+    9.8969529 + 0.0215811i  
+ 
+ Zin3  =
+ 
+    10.318924 + 10.111243i  
+ 
+ 
+ a  =
+ 
+    0.8 - 1.6i  
+ 
+ d  =
+ 
+    0.25 - 0.5i  
+ 
+ f  =
+ 
+    0.2  
+ 
+ h  =
+ 
+    0.2 + 0.2i  
+ 
+ j  =
+ 
+    0.25 - 0.5i  
+ 
+ 
+ 
+ 
+uW_display_smith([.2 .5 1 2 5],12);
+                                   !--error 4 
+Undefined variable: uW_display_smith
+at line      41 of exec file called by :    
+_E._Da_Silva_2210/CH3/EX3.6/3_6.sce',-1
+ 
+ERROR: High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.13/3_13.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ zin  =
+ 
+    100.  
+ 
+ zo  =
+ 
+    50.  
+ 
+ cl  =
+ 
+    5.000D-12  
+ 
+ f  =
+ 
+    1.000D+09  
+ 
+ d  =
+ 
+    1. + 2.3i  
+ 
+ h  =
+ 
+  - 2.3i  
+ 
+ 
+ 
+ Yo  =
+ 
+    0.02  
+ 
+ Yl  =
+ 
+    0.01 + 0.0314159i  
+ 
+ Y  =
+ 
+    0.5 + 1.5707963i  
+ 
+ 
+ 
+uW_display_smith([.2 .5 1 2 5],12);
+                                   !--error 4 
+Undefined variable: uW_display_smith
+at line      27 of exec file called by :    
+._Da_Silva_2210/CH3/EX3.13/3_13.sce',-1
+ 
+ERROR: High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH8/EX8.5/8_5.sce
+ 
+[2J[0;0H 
+ Rf  =
+ 
+    9000.  
+ 
+ R1  =
+ 
+    1000.  
+ 
+ Kphi  =
+ 
+    0.12  
+ 
+ Ko  =
+ 
+  - 40000.  
+ 
+ fi  =
+ 
+    100000.  
+ 
+ fo  =
+ 
+    120000.  
+ 
+ 
+ 
+ Ka  =
+ 
+    10.  
+ 
+ Kl  =
+ 
+  - 301592.89  
+ 
+ Kl_dB  =
+ 
+    109.58842  
+ 
+ fd  =
+ 
+  - 20000.  
+ 
+ Vo  =
+ 
+    0.5  
+ 
+ Vd  =
+ 
+    0.05  
+ 
+ theta  =
+ 
+    0.4166667  
+ 
+ fd1  =
+ 
+    48000.  
+ 
+ Vd1  =
+ 
+    0.1884956  
+ 
+ 
+(a) Voltage gain (ka) for the op-amp = 10
+
+ 
+(b) Loop gain (kL) = -301592.9 s^-1
+		= 109.6 dB
+
+ 
+(c) With S1 open as shown, there is no phase lock and the beat frequency = -20 kHz
+
+ 
+(d)(i) fo = 100 kHz
+ 
+  (ii) Static phase error = 0.417 rad
+ 
+  (iii) Vo = 0.5 V
+
+ 
+(e) Hold-in range Df = 48.00 kHz
+
+ 
+(f) Maximum value of vd = 0.188 V d.c 
+ 

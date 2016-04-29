@@ -1,0 +1,116 @@
+ERROR: Introduction_To_Chemical_Engineering_Thermodynamics_G._Halder_647/CH9/EX9.7/Example9_7.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+Example: 9.7 - Page: 342
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For X1 = 0.5
+ 
+ 
+ 
+ 
+ 
+ 
+Partial molar volume of component 1 is 3.38e-05 cubic m/mol
+ 
+Partial molar volume of component 2 is 1.70e-05 cubic m/mol
+ 
+
+ 
+ 
+ 
+For X2 = 0.75
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+printf("Partial molar volume of component 1 is %.2e cubic m/mol\n",V1_bar);
+                                                                 !--error 4 
+Undefined variable: V1_bar
+at line      48 of exec file called by :    
+Halder_647/CH9/EX9.7/Example9_7.sce',-1
+ 
+ERROR: Introduction_To_Chemical_Engineering_Thermodynamics_G._Halder_647/CH10/EX10.19/Example10_19.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+Example: 10.11 - Page: 436
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The data is not consistent thermodynamically
+ 
+mics_G._Halder_647/Example10_19');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      46 of exec file called by :    
+r_647/CH10/EX10.19/Example10_19.sce',-1
+ 

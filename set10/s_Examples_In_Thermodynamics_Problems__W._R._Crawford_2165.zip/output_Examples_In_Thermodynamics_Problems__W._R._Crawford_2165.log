@@ -1,0 +1,5415 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 87
+
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.1/1_1.sce #
+ 
+ 
+ p1  =
+ 
+    280.  
+ 
+ v  =
+ 
+    2.  
+ 
+ p2  =
+ 
+    20.  
+ 
+ v2  =
+ 
+    18.03  
+ 
+ 
+ W  =
+ 
+    143568.  
+ 
+ 
+The volume and work done during the expansion= 143568.000000 ft/lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.2/1_2.sce #
+ 
+ 
+ v  =
+ 
+    2.  
+ 
+ v2  =
+ 
+    20.  
+ 
+ p  =
+ 
+    100000.  
+ 
+ v2  =
+ 
+    10.41  
+ 
+ v3  =
+ 
+    10.  
+ 
+ p1  =
+ 
+    1.3  
+ 
+ p2  =
+ 
+    208.72312  
+ 
+ 
+ P  =
+ 
+    10.462312  
+ 
+ 
+The initial andfinal pressure= 10.462312 lb/in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.4/1_4.sce #
+ 
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ Cv  =
+ 
+    0.18  
+ 
+ p1  =
+ 
+    5.  
+ 
+ T1  =
+ 
+    20.  
+ 
+ T2  =
+ 
+    150.  
+ 
+ 
+ W  =
+ 
+    156.  
+ 
+ H  =
+ 
+    117.  
+ 
+ Gamma  =
+ 
+    1.3333333  
+ 
+ 
+the constant pressure= 156.000000 C.H.U 
+the constant volume the value of gas= 1.333333 lb/in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.5/1_5.sce #
+ 
+ 
+ Gama  =
+ 
+    1.33  
+ 
+ p  =
+ 
+    100.  
+ 
+ p1  =
+ 
+    20.  
+ 
+ v2  =
+ 
+    10.05  
+ 
+ v  =
+ 
+    3.  
+ 
+ 
+ W  =
+ 
+    43200.  
+ 
+ 
+The work done= 43200.000000 ft lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.8/1_8.sce #
+ 
+ 
+ p  =
+ 
+    3.74  
+ 
+ p1  =
+ 
+    2.48  
+ 
+ v  =
+ 
+    5.7  
+ 
+ Cv  =
+ 
+    0.21  
+ 
+ P  =
+ 
+    440.  
+ 
+ P1  =
+ 
+    160.  
+ 
+ P2  =
+ 
+    14.  
+ 
+ T  =
+ 
+    25.  
+ 
+ T1  =
+ 
+    100.  
+ 
+ vs  =
+ 
+    0.0104549  
+ 
+ vc  =
+ 
+    5.7  
+ 
+ v1  =
+ 
+    4.7  
+ 
+ v2  =
+ 
+    0.0022245  
+ 
+ v3  =
+ 
+    0.01273  
+ 
+ T2  =
+ 
+    298.  
+ 
+ 
+ W  =
+ 
+    0.0008612  
+ 
+ T3  =
+ 
+    486.53061  
+ 
+ T4  =
+ 
+    1337.9592  
+ 
+ H  =
+ 
+    0.1539821  
+ 
+ 
+The heat supplied during explosion= 0.153982 C.H.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.9/1_9.sce #
+ 
+ 
+ v  =
+ 
+    10.  
+ 
+ p  =
+ 
+    100.  
+ 
+ p1  =
+ 
+    18.  
+ 
+ v1  =
+ 
+    50.  
+ 
+ n  =
+ 
+    1.0654642  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ 
+ W  =
+ 
+    219967.66  
+ 
+ H  =
+ 
+    183967.66  
+ 
+ E  =
+ 
+    36000.  
+ 
+ 
+The heat supplied and the change of internal energy= 36000.000000 ft lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.11/1_11.sce #
+ 
+ 
+ v  =
+ 
+    2.  
+ 
+ p  =
+ 
+    1100.  
+ 
+ t1  =
+ 
+    44.  
+ 
+ t2  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    300.  
+ 
+ t3  =
+ 
+    3.  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ T  =
+ 
+    273.  
+ 
+ R  =
+ 
+    96.  
+ 
+ p3  =
+ 
+    300.  
+ 
+ n  =
+ 
+    1.12  
+ 
+ gama  =
+ 
+    1.404  
+ 
+ W  =
+ 
+    10.410095  
+ 
+ 
+ Wc  =
+ 
+    51.321767  
+ 
+ p2  =
+ 
+    999.36909  
+ 
+ A  =
+ 
+    3.2608696  
+ 
+ W1  =
+ 
+    0.6264822  
+ 
+ H  =
+ 
+    97009.901  
+ 
+ H1  =
+ 
+    69.292786  
+ 
+ 
+the heat was lost by all the air in the vessel before leakage began= 51.321767 C.H.U 
+the heat was lost or gainned leakage by the air= 69.292786 C.H .U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.13/1_13.sce #
+ 
+ 
+ h  =
+ 
+    0.218  
+ 
+ h1  =
+ 
+    0.156  
+ 
+ n  =
+ 
+    0.249  
+ 
+ h2  =
+ 
+    0.178  
+ 
+ c  =
+ 
+    0.208  
+ 
+ c1  =
+ 
+    0.162  
+ 
+ w1  =
+ 
+    1.  
+ 
+ p  =
+ 
+    150.  
+ 
+ T  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    373.  
+ 
+ Cp  =
+ 
+    0.2235837  
+ 
+ Cv  =
+ 
+    0.165792  
+ 
+ R  =
+ 
+    80.90838  
+ 
+ 
+ W  =
+ 
+    0.7157336  
+ 
+ 
+The characteristic constant of the gas= 0.715734 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.20/1_20.sce #
+ 
+ 
+ T  =
+ 
+    200.  
+ 
+ p  =
+ 
+    150.  
+ 
+ v  =
+ 
+    12.  
+ 
+ R  =
+ 
+    96.  
+ 
+ T1  =
+ 
+    473.  
+ 
+ T2  =
+ 
+    273.  
+ 
+ j  =
+ 
+    1400.  
+ 
+ Cv  =
+ 
+    0.169  
+ 
+ v1  =
+ 
+    2.1022222  
+ 
+ 
+ Fhi  =
+ 
+    0.0265590  
+ 
+ 
+The change of entropy= 0.026559 rank 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.22/1_22.sce #
+ 
+ 
+ v  =
+ 
+    10.  
+ 
+ T  =
+ 
+    20.  
+ 
+ p  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    200.  
+ 
+ gama  =
+ 
+    1.41  
+ 
+ Cv  =
+ 
+    0.169  
+ 
+ v2  =
+ 
+    1.153  
+ 
+ j  =
+ 
+    1400.  
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    451.  
+ 
+ T1  =
+ 
+    450.43867  
+ 
+ 
+ R  =
+ 
+    97.006  
+ 
+ W  =
+ 
+    0.816  
+ 
+ Fhi  =
+ 
+  - 0.0001803  
+ 
+ 
+The change of entropy=-0.000180 rank 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.23/1_23.sce #
+ 
+ 
+ 
+ p  =
+ 
+    1.  
+ 
+ T  =
+ 
+    200.  
+ 
+ p1  =
+ 
+    15.  
+ 
+ v1  =
+ 
+    4.  
+ 
+ gama  =
+ 
+    1.41  
+ 
+ Cv  =
+ 
+    0.169  
+ 
+ J  =
+ 
+    1400.  
+ 
+ n  =
+ 
+    1.2  
+ 
+ T  =
+ 
+    473.  
+ 
+ v2  =
+ 
+    16.1  
+ 
+ T1  =
+ 
+    473.  
+ 
+ 
+ T2  =
+ 
+    28557.375  
+ 
+ R  =
+ 
+    97.006  
+ 
+ Fhi  =
+ 
+    0.0487932  
+ 
+ 
+the change of entropy from intial conditions= 0.048793 rank 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH1/EX1.26/1_26.sce #
+ 
+ 
+ w  =
+ 
+    0.066  
+ 
+ p  =
+ 
+    14.7  
+ 
+ w1  =
+ 
+    14.2  
+ 
+ w2  =
+ 
+    2780.  
+ 
+ g  =
+ 
+    0.038  
+ 
+ a  =
+ 
+    28.9  
+ 
+ R  =
+ 
+    195.77465  
+ 
+ R1  =
+ 
+    93.  
+ 
+ T  =
+ 
+    273.  
+ 
+ V  =
+ 
+    0.4245  
+ 
+ 
+ W  =
+ 
+    0.0026140  
+ 
+ m  =
+ 
+    0.0353860  
+ 
+ T2  =
+ 
+    0.4905  
+ 
+ 
+The volume of mixture= 0.490500 ft^3 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH2/EX2.2/2_2.sce #
+ 
+ 
+ T1  =
+ 
+    373.  
+ 
+ T2  =
+ 
+    573.  
+ 
+ T  =
+ 
+    34.904014  
+ 
+ lam  =
+ 
+    0.41  
+ 
+ 
+ R  =
+ 
+    0.4293073  
+ 
+ r  =
+ 
+    2.849  
+ 
+ 
+The ideal efficiency and the compression ratio= 2.849000 ratio of compression 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.6  
+ 
+ v  =
+ 
+    3.  
+ 
+ p  =
+ 
+    15.4  
+ 
+ r  =
+ 
+    5.  
+ 
+ P  =
+ 
+    2000.  
+ 
+ V  =
+ 
+    19000.  
+ 
+ lam  =
+ 
+    1.41  
+ 
+ n  =
+ 
+    0.4831  
+ 
+ P  =
+ 
+    3.85  
+ 
+ H  =
+ 
+    73150.  
+ 
+ l  =
+ 
+    4.5  
+ 
+ A  =
+ 
+    9.  
+ 
+ S  =
+ 
+    1000.  
+ 
+ 
+ R  =
+ 
+    28.986  
+ 
+ C  =
+ 
+    2120325.9  
+ 
+ I  =
+ 
+    833.13816  
+ 
+ P1  =
+ 
+    10372.115  
+ 
+ 
+The mean efficity pressure= 10372.114596 lb/in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH2/EX2.5/2_5.sce #
+ 
+ 
+ v  =
+ 
+    15.  
+ 
+ S  =
+ 
+    0.7  
+ 
+ lam  =
+ 
+    1.4  
+ 
+ v1  =
+ 
+    1.7  
+ 
+ 
+ N  =
+ 
+    62.  
+ 
+ 
+the ideal effiecncy for an engine = 62.000000 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.1/3_1.sce #
+ 
+ 
+ p  =
+ 
+    100.  
+ 
+ x  =
+ 
+    0.8  
+ 
+ t1  =
+ 
+    164.  
+ 
+ t2  =
+ 
+    4.45  
+ 
+ p1  =
+ 
+    0.016  
+ 
+ h1  =
+ 
+    493.4  
+ 
+ h2  =
+ 
+    165.9  
+ 
+ S  =
+ 
+    659.3  
+ 
+ w  =
+ 
+    45.606857  
+ 
+ H  =
+ 
+    560.62  
+ 
+ w1  =
+ 
+    36.485486  
+ 
+ 
+ E  =
+ 
+    613.69314  
+ 
+ IE  =
+ 
+    524.13451  
+ 
+ 
+The steam is total heat dry and satured= 613.693143 C.H.U/lb 
+Total heat of wet steam= 524.134514 C.H.U/lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.2/3_2.sce #
+ 
+ 
+ t1  =
+ 
+    35.  
+ 
+ p  =
+ 
+    100.  
+ 
+ L  =
+ 
+    435.  
+ 
+ L2  =
+ 
+    539.3  
+ 
+ h1  =
+ 
+    165.9  
+ 
+ h2  =
+ 
+    493.4  
+ 
+ S  =
+ 
+    130.9  
+ 
+ h3  =
+ 
+    304.1  
+ 
+ h4  =
+ 
+    335.  
+ 
+ 
+ X1  =
+ 
+    0.6163356  
+ 
+ X2  =
+ 
+    0.6211756  
+ 
+ 
+The heat giving to the water and steam is = 0.621176 C.H.U/lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.3/3_3.sce #
+ 
+ 
+ p  =
+ 
+    35.  
+ 
+ w  =
+ 
+    1425.  
+ 
+ q  =
+ 
+    1474.  
+ 
+ s1  =
+ 
+    126.7  
+ 
+ s2  =
+ 
+    28.  
+ 
+ t1  =
+ 
+    5.  
+ 
+ t2  =
+ 
+    28.  
+ 
+ L1  =
+ 
+    521.4  
+ 
+ w1  =
+ 
+    245.  
+ 
+ w2  =
+ 
+    0.2  
+ 
+ 
+ W  =
+ 
+    620.1  
+ 
+ H  =
+ 
+    33902.  
+ 
+ T  =
+ 
+    54.671827  
+ 
+ 
+The total equivalent= 54.671827 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.4/3_4.sce #
+ 
+ 
+ p  =
+ 
+    100.  
+ 
+ w  =
+ 
+    2400.  
+ 
+ t1  =
+ 
+    15.  
+ 
+ s1  =
+ 
+    165.9  
+ 
+ x  =
+ 
+    0.9  
+ 
+ L2  =
+ 
+    493.4  
+ 
+ t2  =
+ 
+    65.  
+ 
+ x4  =
+ 
+    0.8  
+ 
+ s3  =
+ 
+    64.8  
+ 
+ w1  =
+ 
+    2000.  
+ 
+ w2  =
+ 
+    2400.  
+ 
+ b1  =
+ 
+    12400.  
+ 
+ b2  =
+ 
+    22000.  
+ 
+ p1  =
+ 
+    4400.  
+ 
+ n  =
+ 
+    421.65  
+ 
+ h1  =
+ 
+    1463904.  
+ 
+ h2  =
+ 
+    1320200.  
+ 
+ 
+ T  =
+ 
+    1427904.  
+ 
+ T1  =
+ 
+    991640.  
+ 
+ H  =
+ 
+    2419544.  
+ 
+ X  =
+ 
+    0.8545805  
+ 
+ 
+The thermal capacity of the pipe= 0.854580 C.H.U/hr 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.5/3_5.sce #
+ 
+ 
+ w1  =
+ 
+    4.5  
+ 
+ s1  =
+ 
+    45.5  
+ 
+ p1  =
+ 
+    165.  
+ 
+ T  =
+ 
+    140.  
+ 
+ h1  =
+ 
+    30.  
+ 
+ h2  =
+ 
+    4.  
+ 
+ p2  =
+ 
+    0.49  
+ 
+ T1  =
+ 
+    50.  
+ 
+ T2  =
+ 
+    103.5  
+ 
+ T3  =
+ 
+    140.  
+ 
+ h3  =
+ 
+    0.48  
+ 
+ x  =
+ 
+    0.988  
+ 
+ T  =
+ 
+    657.74  
+ 
+ x1  =
+ 
+    0.012  
+ 
+ X  =
+ 
+    0.546  
+ 
+ w  =
+ 
+    50.  
+ 
+ 
+ P  =
+ 
+    34.  
+ 
+ P1  =
+ 
+    0.546  
+ 
+ T4  =
+ 
+    5.046  
+ 
+ D  =
+ 
+    0.89908  
+ 
+ 
+The dryness of steam with a combined= 0.899080 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.6/3_6.sce #
+ 
+ 
+ w  =
+ 
+    40.  
+ 
+ w1  =
+ 
+    380.  
+ 
+ t1  =
+ 
+    80.  
+ 
+ p  =
+ 
+    85.  
+ 
+ p1  =
+ 
+    15.  
+ 
+ W  =
+ 
+    420.  
+ 
+ P  =
+ 
+    100.  
+ 
+ T  =
+ 
+    659.3  
+ 
+ d  =
+ 
+    10.  
+ 
+ 
+ H  =
+ 
+    246506.  
+ 
+ H1  =
+ 
+    14142.857  
+ 
+ T1  =
+ 
+    5.7373277  
+ 
+ D  =
+ 
+    0.9047619  
+ 
+ H2  =
+ 
+    216366.  
+ 
+ T2  =
+ 
+    30140.  
+ 
+ H3  =
+ 
+    15997.143  
+ 
+ E  =
+ 
+    11.311111  
+ 
+ 
+The amount of radiations from the engine = 11.311111 h.p 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.10/3_10.sce #
+ 
+ 
+ w  =
+ 
+    40.  
+ 
+ w1  =
+ 
+    380.  
+ 
+ t1  =
+ 
+    80.  
+ 
+ p  =
+ 
+    85.  
+ 
+ p1  =
+ 
+    15.  
+ 
+ W  =
+ 
+    420.  
+ 
+ P  =
+ 
+    100.  
+ 
+ T  =
+ 
+    659.3  
+ 
+ d  =
+ 
+    10.  
+ 
+ 
+ H  =
+ 
+    246506.  
+ 
+ H1  =
+ 
+    14142.857  
+ 
+ T1  =
+ 
+    5.7373277  
+ 
+ D  =
+ 
+    0.9047619  
+ 
+ H2  =
+ 
+    216366.  
+ 
+ T2  =
+ 
+    30140.  
+ 
+ H3  =
+ 
+    15997.143  
+ 
+ E  =
+ 
+    11.311111  
+ 
+ 
+The amount of radiations from the engine = 11.311111 h.p 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.12/3_12.sce #
+ 
+ 
+ p  =
+ 
+    120.  
+ 
+ ts  =
+ 
+    264.  
+ 
+ T1  =
+ 
+    403.6  
+ 
+ v  =
+ 
+    0.0171  
+ 
+ L1  =
+ 
+    518.4  
+ 
+ T2  =
+ 
+    444.9  
+ 
+ L2  =
+ 
+    487.4  
+ 
+ Cp  =
+ 
+    0.48  
+ 
+ L  =
+ 
+    0.18625  
+ 
+ Ts  =
+ 
+    536.1045  
+ 
+ ta  =
+ 
+    263.  
+ 
+ T  =
+ 
+    649.9  
+ 
+ S  =
+ 
+    131.2  
+ 
+ w  =
+ 
+    43.088503  
+ 
+ C  =
+ 
+    518.7  
+ 
+ I  =
+ 
+    475.6115  
+ 
+ E  =
+ 
+    646.9  
+ 
+ E1  =
+ 
+    40.4  
+ 
+ 
+ E1  =
+ 
+    40.4  
+ 
+ H  =
+ 
+    54.8  
+ 
+ 
+Heat and internal energy after each operation= 54.800000 C.H.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH3/EX3.17/3_17.sce #
+ 
+ 
+ A  =
+ 
+    28.1  
+ 
+ a  =
+ 
+    0.93  
+ 
+ T  =
+ 
+    33.  
+ 
+ p  =
+ 
+    0.729  
+ 
+ P  =
+ 
+    0.201  
+ 
+ p1  =
+ 
+    120000.  
+ 
+ p2  =
+ 
+    28.1  
+ 
+ a1  =
+ 
+    0.9  
+ 
+ p3  =
+ 
+    1000.  
+ 
+ t  =
+ 
+    15.  
+ 
+ A1  =
+ 
+    1.8  
+ 
+ v  =
+ 
+    1826.8657  
+ 
+ V  =
+ 
+    586.3  
+ 
+ 
+ H  =
+ 
+    553.3  
+ 
+ W  =
+ 
+    73773.333  
+ 
+ 
+The water per minute in cubic feet per minute passing to air extractor= 73773.333333 gal/min 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.1/4_1.sce #
+ 
+ 
+ p  =
+ 
+    90.  
+ 
+ x1  =
+ 
+    0.9  
+ 
+ p1  =
+ 
+    10.  
+ 
+ x2  =
+ 
+    0.81  
+ 
+ s1  =
+ 
+    161.5  
+ 
+ s2  =
+ 
+    89.1  
+ 
+ L1  =
+ 
+    496.8  
+ 
+ L2  =
+ 
+    545.5  
+ 
+ 
+ bc  =
+ 
+    519.52  
+ 
+ da  =
+ 
+    441.855  
+ 
+ W  =
+ 
+    77.665  
+ 
+ R  =
+ 
+    14.949376  
+ 
+ 
+the work done per = 14.949376 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.2/4_2.sce #
+ 
+ 
+ h  =
+ 
+    1600.  
+ 
+ h1  =
+ 
+    20000.  
+ 
+ h2  =
+ 
+    230.  
+ 
+ T1  =
+ 
+    293.3  
+ 
+ x  =
+ 
+    25.91  
+ 
+ v  =
+ 
+    30.  
+ 
+ T2  =
+ 
+    201.  
+ 
+ T  =
+ 
+    92.3  
+ 
+ x2  =
+ 
+    0.845  
+ 
+ L2  =
+ 
+    566.51  
+ 
+ s1  =
+ 
+    724.  
+ 
+ h3  =
+ 
+    1400.  
+ 
+ x  =
+ 
+    33000.  
+ 
+ 
+ H  =
+ 
+    671.48  
+ 
+ ea  =
+ 
+    478.70095  
+ 
+ W  =
+ 
+    192.77905  
+ 
+ R  =
+ 
+    28.709574  
+ 
+ S  =
+ 
+    166520.  
+ 
+ I  =
+ 
+    15.627466  
+ 
+ R1  =
+ 
+    54.432944  
+ 
+ 
+The indicated thermal efficiency ratio= 54.432944 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.3/4_3.sce #
+ 
+ 
+ h1  =
+ 
+    180.  
+ 
+ h2  =
+ 
+    3.  
+ 
+ r1  =
+ 
+    60.  
+ 
+ r2  =
+ 
+    90.  
+ 
+ p3  =
+ 
+    100.  
+ 
+ p4  =
+ 
+    10.  
+ 
+ v1  =
+ 
+    4.4  
+ 
+ v2  =
+ 
+    8.8  
+ 
+ p  =
+ 
+    44.  
+ 
+ x2  =
+ 
+    0.95  
+ 
+ s1  =
+ 
+    165.9  
+ 
+ s2  =
+ 
+    89.1  
+ 
+ L1  =
+ 
+    493.4  
+ 
+ H  =
+ 
+    570.2  
+ 
+ W  =
+ 
+    65.8  
+ 
+ 
+ R  =
+ 
+    11.539811  
+ 
+ 
+The rankine efficiency of the engine= 11.539811 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.10/4_10.sce #
+ 
+ 
+ p  =
+ 
+    85.  
+ 
+ h  =
+ 
+    210.  
+ 
+ h1  =
+ 
+    8.  
+ 
+ h2  =
+ 
+    2.5  
+ 
+ h3  =
+ 
+    20.  
+ 
+ x  =
+ 
+    0.75  
+ 
+ p1  =
+ 
+    100.  
+ 
+ x1  =
+ 
+    33000.  
+ 
+ p2  =
+ 
+    15.  
+ 
+ v2  =
+ 
+    0.5817764  
+ 
+ A  =
+ 
+    5833.6341  
+ 
+ d  =
+ 
+    4375.2256  
+ 
+ v3  =
+ 
+    0.5816  
+ 
+ P  =
+ 
+    52.24125  
+ 
+ P1  =
+ 
+    50.265482  
+ 
+ r  =
+ 
+    4.9087385  
+ 
+ 
+ H  =
+ 
+    27.85079  
+ 
+ I  =
+ 
+    25.130986  
+ 
+ T  =
+ 
+    52.981776  
+ 
+ 
+the h.p diameter of the piston and piston rod = 52.981776 I.h.p 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.14/4_14.sce #
+ 
+ 
+ a  =
+ 
+    1.025  
+ 
+ h  =
+ 
+    18.  
+ 
+ h1  =
+ 
+    24.  
+ 
+ x  =
+ 
+    8.2  
+ 
+ v  =
+ 
+    15.  
+ 
+ v2  =
+ 
+    6.9  
+ 
+ p  =
+ 
+    0.74  
+ 
+ p1  =
+ 
+    50.  
+ 
+ p2  =
+ 
+    83.  
+ 
+ P3  =
+ 
+    48.  
+ 
+ P1  =
+ 
+    29.8  
+ 
+ P2  =
+ 
+    14.6  
+ 
+ h2  =
+ 
+    29.8  
+ 
+ D  =
+ 
+    3.5342917  
+ 
+ v1  =
+ 
+    23400.  
+ 
+ W  =
+ 
+    23985.  
+ 
+ V  =
+ 
+    0.2898119  
+ 
+ Q  =
+ 
+    1.53  
+ 
+ 
+ I  =
+ 
+    1.8198119  
+ 
+ P  =
+ 
+    62.6  
+ 
+ V1  =
+ 
+    5.106  
+ 
+ W1  =
+ 
+    0.3564066  
+ 
+ S  =
+ 
+    97.6  
+ 
+ H  =
+ 
+    659.06  
+ 
+ T  =
+ 
+    7.2935848  
+ 
+ 
+The thermal efficiency of the engine= 7.293585 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.16/4_16.sce #
+ 
+ 
+ v  =
+ 
+    4.6  
+ 
+ h  =
+ 
+    5.  
+ 
+ p  =
+ 
+    60.  
+ 
+ p1  =
+ 
+    0.8  
+ 
+ p2  =
+ 
+    19.  
+ 
+ a  =
+ 
+    100.  
+ 
+ h1  =
+ 
+    5920.  
+ 
+ W  =
+ 
+    0.4933333  
+ 
+ V  =
+ 
+    1.15  
+ 
+ v1  =
+ 
+    21.07  
+ 
+ w  =
+ 
+    0.0545800  
+ 
+ H  =
+ 
+    0.5479133  
+ 
+ v2  =
+ 
+    3.9285384  
+ 
+ P  =
+ 
+    0.2144195  
+ 
+ P1  =
+ 
+    3.105  
+ 
+ 
+ DP  =
+ 
+    0.7903703  
+ 
+ 
+The assumptions do you make in working out the dryness of the steam= 0.790370 ft^3 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.17/4_17.sce #
+ 
+ 
+ h  =
+ 
+    0.08  
+ 
+ p  =
+ 
+    60.  
+ 
+ p1  =
+ 
+    0.5  
+ 
+ v  =
+ 
+    0.5  
+ 
+ v1  =
+ 
+    7.17  
+ 
+ V  =
+ 
+    0.5736  
+ 
+ 
+ W  =
+ 
+    0.0697350  
+ 
+ I  =
+ 
+    0.0697350  
+ 
+ M  =
+ 
+    0.0102650  
+ 
+ 
+the dryness of the steam at this pressure and missing quantity = 0.010265 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.19/4_19.sce #
+ 
+ 
+ p1  =
+ 
+    120.  
+ 
+ p2  =
+ 
+    15.  
+ 
+ 
+ v  =
+ 
+    1.65  
+ 
+ D  =
+ 
+    1.2845233  
+ 
+ 
+The above pressure are by gauge= 1.284523 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.21/4_21.sce #
+ 
+ 
+ p  =
+ 
+    150.  
+ 
+ x  =
+ 
+    198.  
+ 
+ x1  =
+ 
+    33000.  
+ 
+ h  =
+ 
+    2700.  
+ 
+ h1  =
+ 
+    1400.  
+ 
+ h2  =
+ 
+    51600.  
+ 
+ r  =
+ 
+    165.  
+ 
+ s  =
+ 
+    60.  
+ 
+ t  =
+ 
+    48.  
+ 
+ t1  =
+ 
+    11.  
+ 
+ t2  =
+ 
+    36.  
+ 
+ P1  =
+ 
+    54.  
+ 
+ P2  =
+ 
+    47.88  
+ 
+ L1  =
+ 
+    59.4  
+ 
+ L2  =
+ 
+    63.72  
+ 
+ T  =
+ 
+    9786110.5  
+ 
+ H  =
+ 
+    5294.  
+ 
+ T1  =
+ 
+    45.  
+ 
+ H1  =
+ 
+    29835.  
+ 
+ H2  =
+ 
+    23660.  
+ 
+ H3  =
+ 
+    2160.  
+ 
+ 
+ TE  =
+ 
+  - 215999.82  
+ 
+ R  =
+ 
+    26.829268  
+ 
+ 
+The rankine efficiency = 26.829268 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH4/EX4.23/4_23.sce #
+ 
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    2.5  
+ 
+ p3  =
+ 
+    20.  
+ 
+ d  =
+ 
+    0.75  
+ 
+ p  =
+ 
+    0.5  
+ 
+ r  =
+ 
+    16.  
+ 
+ p4  =
+ 
+    6.25  
+ 
+ P5  =
+ 
+    50.  
+ 
+ W1  =
+ 
+    13960.  
+ 
+ W2  =
+ 
+    19040.  
+ 
+ T  =
+ 
+    33000.  
+ 
+ v  =
+ 
+    4.43  
+ 
+ v1  =
+ 
+    3.3225  
+ 
+ W3  =
+ 
+    109642.5  
+ 
+ Hp  =
+ 
+    3416.  
+ 
+ Lp  =
+ 
+    3416.  
+ 
+ 
+ W  =
+ 
+    11349.66  
+ 
+ 
+The thermal efficiency of a compound steam and work done= 11349.660000 ft lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.1/5_1.sce #
+ 
+ 
+ a  =
+ 
+    7.  
+ 
+ b  =
+ 
+    10.  
+ 
+ c  =
+ 
+    12.  
+ 
+ r  =
+ 
+    96.  
+ 
+ p1  =
+ 
+    15.  
+ 
+ p2  =
+ 
+    100.  
+ 
+ T  =
+ 
+    16.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ h  =
+ 
+    120.  
+ 
+ T1  =
+ 
+    289.  
+ 
+ 
+ v1  =
+ 
+    0.2227113  
+ 
+ w  =
+ 
+    0.0173391  
+ 
+ w1  =
+ 
+    2.0806937  
+ 
+ W  =
+ 
+    1209.6  
+ 
+ I  =
+ 
+    912.62166  
+ 
+ E  =
+ 
+    75.448219  
+ 
+ 
+The ideal efficiency is defined as the ratio of tthis work= 75.448219 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.2/5_2.sce #
+ 
+ 
+ h1  =
+ 
+    16.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    15.  
+ 
+ R  =
+ 
+    275.  
+ 
+ h  =
+ 
+    550.  
+ 
+ q  =
+ 
+    33000.  
+ 
+ v1  =
+ 
+    4.85  
+ 
+ B  =
+ 
+    8.53  
+ 
+ 
+ M  =
+ 
+    33.71134  
+ 
+ S  =
+ 
+    1.  
+ 
+ I  =
+ 
+    56.954128  
+ 
+ 
+The effect of the ance volume= 56.954128 in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.3/5_3.sce #
+ 
+ 
+ h  =
+ 
+    100.  
+ 
+ t  =
+ 
+    15.  
+ 
+ p  =
+ 
+    120.  
+ 
+ gama  =
+ 
+    1.3  
+ 
+ t1  =
+ 
+    15.  
+ 
+ M  =
+ 
+    507312.  
+ 
+ 
+ V  =
+ 
+    2.8284271  
+ 
+ 
+Compare the values of the two cylinders= 2.828427 ft lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.5/5_5.sce #
+ 
+ 
+ h  =
+ 
+    0.2  
+ 
+ v  =
+ 
+    10.  
+ 
+ T  =
+ 
+    15.  
+ 
+ p  =
+ 
+    30.  
+ 
+ t1  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    60.  
+ 
+ v1  =
+ 
+    2.2  
+ 
+ v3  =
+ 
+    0.328  
+ 
+ A  =
+ 
+    1.872  
+ 
+ v2  =
+ 
+    1.341  
+ 
+ V  =
+ 
+    1.141  
+ 
+ t2  =
+ 
+    288.  
+ 
+ 
+ T2  =
+ 
+    351.09818  
+ 
+ v5  =
+ 
+    0.9359433  
+ 
+ v7  =
+ 
+    0.164  
+ 
+ v8  =
+ 
+    0.9219893  
+ 
+ v6  =
+ 
+    0.9359433  
+ 
+ 
+The required volume of the H.P cylinder including ance= 0.935943 ft^3 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.6/5_6.sce #
+ 
+ 
+ p1  =
+ 
+    80.  
+ 
+ p2  =
+ 
+    20.  
+ 
+ 
+ P  =
+ 
+    40.  
+ 
+ V  =
+ 
+    0.5  
+ 
+ W  =
+ 
+    0.5  
+ 
+ 
+the ratio of cut off to length of stroke= 0.500000 stroke 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.9/5_9.sce #
+ 
+ 
+ p1  =
+ 
+    25.  
+ 
+ p2  =
+ 
+    50.  
+ 
+ p3  =
+ 
+    75.  
+ 
+ p4  =
+ 
+    100.  
+ 
+ v1  =
+ 
+    29.2  
+ 
+ v2  =
+ 
+    28.8  
+ 
+ v3  =
+ 
+    28.1  
+ 
+ v4  =
+ 
+    27.2  
+ 
+ h  =
+ 
+    14.7  
+ 
+ v  =
+ 
+    3.  
+ 
+ s  =
+ 
+    5.  
+ 
+ 
+ V  =
+ 
+    78.539816  
+ 
+ V1  =
+ 
+    2.3561945  
+ 
+ 
+The volume of efficiency of pressure= 2.356194 in^3 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.12/5_12.sce #
+ 
+ 
+ p1  =
+ 
+    15.  
+ 
+ p2  =
+ 
+    60.  
+ 
+ t  =
+ 
+    16.  
+ 
+ Ta  =
+ 
+    289.  
+ 
+ T  =
+ 
+    1.486  
+ 
+ Td  =
+ 
+    194.48183  
+ 
+ 
+ P  =
+ 
+    2.0576132  
+ 
+ 
+The lowest temperature and coefficient of per formance= 2.057613 Degree C absolute 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.14/5_14.sce #
+ 
+ 
+ T1  =
+ 
+    30.  
+ 
+ T2  =
+ 
+  - 10.  
+ 
+ t1  =
+ 
+    263.  
+ 
+ t2  =
+ 
+    303.  
+ 
+ h1  =
+ 
+    20.  
+ 
+ h2  =
+ 
+    79.  
+ 
+ h  =
+ 
+    24.  
+ 
+ T3  =
+ 
+    1.  
+ 
+ p  =
+ 
+    2.2046  
+ 
+ 
+ P  =
+ 
+    44.092  
+ 
+ T  =
+ 
+    6.575  
+ 
+ H  =
+ 
+    2645.52  
+ 
+ W  =
+ 
+    563304.64  
+ 
+ hp  =
+ 
+    17.069838  
+ 
+ W1  =
+ 
+    21.258643  
+ 
+ 
+the cycle is a perfect one= 21.258643 tons 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.15/5_15.sce #
+ 
+ 
+ p1  =
+ 
+    930.  
+ 
+ p2  =
+ 
+    440.  
+ 
+ T  =
+ 
+    268.  
+ 
+ t1  =
+ 
+    25.  
+ 
+ t2  =
+ 
+    5.  
+ 
+ h1  =
+ 
+    19.4  
+ 
+ h2  =
+ 
+  - 1.8  
+ 
+ h3  =
+ 
+    29.  
+ 
+ h4  =
+ 
+    58.6  
+ 
+ d  =
+ 
+    0.6  
+ 
+ d1  =
+ 
+    0.06  
+ 
+ d2  =
+ 
+  - 0.01  
+ 
+ c  =
+ 
+    40.  
+ 
+ h  =
+ 
+    24.  
+ 
+ t3  =
+ 
+    10.  
+ 
+ d3  =
+ 
+    15.  
+ 
+ h5  =
+ 
+    80.  
+ 
+ 
+ A  =
+ 
+    2.44  
+ 
+ FD  =
+ 
+    0.0091045  
+ 
+ AD  =
+ 
+    13.96  
+ 
+ W  =
+ 
+    4.28  
+ 
+ T  =
+ 
+    3.2616822  
+ 
+ P  =
+ 
+    1.3046729  
+ 
+ H  =
+ 
+    83.76  
+ 
+ H1  =
+ 
+    120614.4  
+ 
+ H2  =
+ 
+    90.  
+ 
+ W1  =
+ 
+    0.5982857  
+ 
+ 
+The many tons of ice would a machine working between the same limit and having a relative coefficient= 0.598286 tons 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.16/5_16.sce #
+ 
+ 
+ t1  =
+ 
+    20.  
+ 
+ t2  =
+ 
+  - 10.  
+ 
+ h  =
+ 
+    0.95  
+ 
+ t3  =
+ 
+    35.  
+ 
+ h1  =
+ 
+    0.066  
+ 
+ h2  =
+ 
+    1.089  
+ 
+ v1  =
+ 
+  - 0.033  
+ 
+ v2  =
+ 
+    1.193  
+ 
+ v3  =
+ 
+    0.508  
+ 
+ T1  =
+ 
+    263.  
+ 
+ T2  =
+ 
+    293.  
+ 
+ 
+ T  =
+ 
+    8.7666667  
+ 
+ E  =
+ 
+    0.099  
+ 
+ C  =
+ 
+    0.1079  
+ 
+ CP  =
+ 
+    0.9175162  
+ 
+ A  =
+ 
+    1.4884866  
+ 
+ F  =
+ 
+    0.0056596  
+ 
+ H  =
+ 
+    254.212  
+ 
+ H2  =
+ 
+    274.447  
+ 
+ W  =
+ 
+    30.643987  
+ 
+ P  =
+ 
+    8.2956569  
+ 
+ V  =
+ 
+    2.3347638  
+ 
+ H1  =
+ 
+    20.226173  
+ 
+ N  =
+ 
+    8.3219345  
+ 
+ 
+The upper and lower temperature limits respectively= 8.766667 F 
+The vapour compression cycle work done= 254.212000 C.H.U 
+The vapour is now additional work done= 8.321934 C.H.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH5/EX5.18/5_18.sce #
+ 
+ 
+ h  =
+ 
+    0.8  
+ 
+ p  =
+ 
+    120.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ t  =
+ 
+    100.  
+ 
+ A  =
+ 
+    5.4996  
+ 
+ G  =
+ 
+    311.8  
+ 
+ AF  =
+ 
+    440.52  
+ 
+ H  =
+ 
+    399.82  
+ 
+ p  =
+ 
+    307.  
+ 
+ 
+ T  =
+ 
+    1.3023453  
+ 
+ 
+theoretical coefficient pf performance as a refrigeratior= 1.302345 C.H.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.1/6_1.sce #
+ 
+ 
+ p1  =
+ 
+    150.  
+ 
+ p2  =
+ 
+    10.  
+ 
+ n  =
+ 
+    10.  
+ 
+ T  =
+ 
+    663.  
+ 
+ x2  =
+ 
+    0.852  
+ 
+ H  =
+ 
+    553.9  
+ 
+ h1  =
+ 
+    109.1  
+ 
+ 
+ V  =
+ 
+    3136.3125  
+ 
+ V1  =
+ 
+    2975.3673  
+ 
+ 
+the neglecting friction= 3136.312484 ft/sec 
+the frictional drop in the nozzle is 10 recent of the total heat drop= 2975.367271 ft/sec 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.2/6_2.sce #
+ 
+ 
+ v  =
+ 
+    15413.439  
+ 
+ v1  =
+ 
+    32.69124  
+ 
+ 
+ W  =
+ 
+    471.4853  
+ 
+ V  =
+ 
+    14578.953  
+ 
+ W1  =
+ 
+    445.95902  
+ 
+ 
+the weight of steam per hour= 471.485296 lb 
+the weight of steam per hour= 445.959022 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.4/6_4.sce #
+ 
+ 
+ p1  =
+ 
+    300.  
+ 
+ p  =
+ 
+    75.  
+ 
+ p2  =
+ 
+    8.  
+ 
+ h  =
+ 
+    90.  
+ 
+ Pt  =
+ 
+    43.5  
+ 
+ h1  =
+ 
+    24.  
+ 
+ D  =
+ 
+    0.968  
+ 
+ D1  =
+ 
+    0.886  
+ 
+ v  =
+ 
+    9.7  
+ 
+ v1  =
+ 
+    47.24  
+ 
+ V  =
+ 
+    1470.9997  
+ 
+ V1  =
+ 
+    2848.5786  
+ 
+ 
+ H  =
+ 
+    0.7824667  
+ 
+ V2  =
+ 
+    3.4878867  
+ 
+ A  =
+ 
+    0.768  
+ 
+ A1  =
+ 
+    1.72  
+ 
+ d  =
+ 
+    0.9888620  
+ 
+ d1  =
+ 
+    1.4798554  
+ 
+ 
+the diameters at the throat and exit of the nozzle= 1.479855 in 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.5/6_5.sce #
+ 
+ 
+ d  =
+ 
+    2.15  
+ 
+ a  =
+ 
+    0.98  
+ 
+ p  =
+ 
+    100.  
+ 
+ p1  =
+ 
+    11000.  
+ 
+ P  =
+ 
+    58.  
+ 
+ H  =
+ 
+    24.  
+ 
+ D  =
+ 
+    0.947  
+ 
+ s  =
+ 
+    7.407  
+ 
+ 
+ V  =
+ 
+    1470.9997  
+ 
+ V1  =
+ 
+    21.962842  
+ 
+ T  =
+ 
+    3.1310948  
+ 
+ A  =
+ 
+    3.0555556  
+ 
+ C  =
+ 
+    0.9758745  
+ 
+ 
+the coefficient of discharge for the nozzles= 0.975874 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.6/6_6.sce #
+ 
+ 
+ p  =
+ 
+    9.5  
+ 
+ p1  =
+ 
+    120.  
+ 
+ e  =
+ 
+    0.88  
+ 
+ p2  =
+ 
+    80.  
+ 
+ d  =
+ 
+    25.  
+ 
+ d1  =
+ 
+    0.125  
+ 
+ t  =
+ 
+    14.  
+ 
+ T  =
+ 
+    16.72  
+ 
+ D  =
+ 
+    0.975  
+ 
+ V  =
+ 
+    1227.7928  
+ 
+ S  =
+ 
+    5.467  
+ 
+ 
+ V1  =
+ 
+    50.638087  
+ 
+ T1  =
+ 
+    5.9390188  
+ 
+ C  =
+ 
+    78.539816  
+ 
+ N  =
+ 
+    31.415927  
+ 
+ P  =
+ 
+    2.5335425  
+ 
+ W  =
+ 
+    0.5166957  
+ 
+ L  =
+ 
+    2.0168468  
+ 
+ W1  =
+ 
+    0.4879194  
+ 
+ T2  =
+ 
+    0.3926494  
+ 
+ 
+The number of nozzles their breadth and heigh= 0.392649 in 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.8/6_8.sce #
+ 
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    15.  
+ 
+ d1  =
+ 
+    95.  
+ 
+ d2  =
+ 
+    30.  
+ 
+ P  =
+ 
+    58.  
+ 
+ H  =
+ 
+    23.75  
+ 
+ H1  =
+ 
+    72.675  
+ 
+ D  =
+ 
+    0.97  
+ 
+ D1  =
+ 
+    0.905  
+ 
+ V  =
+ 
+    7.407  
+ 
+ V1  =
+ 
+    1463.3181  
+ 
+ V2  =
+ 
+    2559.7613  
+ 
+ 
+ V3  =
+ 
+    0.2494113  
+ 
+ W  =
+ 
+    124.96966  
+ 
+ K  =
+ 
+    39.747847  
+ 
+ E  =
+ 
+    3531.955  
+ 
+ W1  =
+ 
+    1.9265209  
+ 
+ 
+the quantity of steam used per hour and horse power developed= 1.926521 ft.lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.10/6_10.sce #
+ 
+ 
+ d  =
+ 
+    0.15  
+ 
+ p  =
+ 
+    20.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ t  =
+ 
+    200.  
+ 
+ f  =
+ 
+    10.  
+ 
+ Pt  =
+ 
+    54.57  
+ 
+ x1  =
+ 
+    0.996  
+ 
+ x2  =
+ 
+    0.952  
+ 
+ h  =
+ 
+    29.  
+ 
+ h1  =
+ 
+    65.  
+ 
+ v  =
+ 
+    7.73  
+ 
+ v1  =
+ 
+    20.12  
+ 
+ T  =
+ 
+    0.364  
+ 
+ T1  =
+ 
+    0.465  
+ 
+ v2  =
+ 
+    1616.9848  
+ 
+ v3  =
+ 
+    2420.8263  
+ 
+ 
+ V1  =
+ 
+    1.154862  
+ 
+ V2  =
+ 
+    2.873136  
+ 
+ A1  =
+ 
+    0.1028458  
+ 
+ A2  =
+ 
+    0.1709051  
+ 
+ 
+the throat and exit diameters of the nozzle= 0.170905 in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.11/6_11.sce #
+ 
+ 
+ h  =
+ 
+    0.5  
+ 
+ p1  =
+ 
+    2.5  
+ 
+ p2  =
+ 
+    100.  
+ 
+ t  =
+ 
+    250.  
+ 
+ pv  =
+ 
+    1.3  
+ 
+ pt  =
+ 
+    54.57  
+ 
+ t1  =
+ 
+    18.  
+ 
+ h1  =
+ 
+    32.  
+ 
+ h2  =
+ 
+    151.  
+ 
+ D  =
+ 
+    0.887  
+ 
+ V1  =
+ 
+    1698.5641  
+ 
+ V2  =
+ 
+    3689.7371  
+ 
+ s1  =
+ 
+    8.74  
+ 
+ s2  =
+ 
+    140.8  
+ 
+ T1  =
+ 
+    0.687  
+ 
+ T1  =
+ 
+    1.77  
+ 
+ V3  =
+ 
+    4.37  
+ 
+ V4  =
+ 
+    70.4  
+ 
+ 
+ A1  =
+ 
+    0.3704776  
+ 
+ A2  =
+ 
+    2.7475128  
+ 
+ 
+the size os nozzle= 2.747513 in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.13/6_13.sce #
+ 
+ 
+ h  =
+ 
+    500.  
+ 
+ p1  =
+ 
+    150.  
+ 
+ p2  =
+ 
+    0.6  
+ 
+ P  =
+ 
+    90.  
+ 
+ h  =
+ 
+    25.  
+ 
+ p  =
+ 
+    62.4  
+ 
+ V  =
+ 
+    1501.3327  
+ 
+ D  =
+ 
+    0.996  
+ 
+ d  =
+ 
+    4.898  
+ 
+ v1  =
+ 
+    1.2  
+ 
+ vi  =
+ 
+    163.2  
+ 
+ m  =
+ 
+    46.62524  
+ 
+ 
+ W  =
+ 
+    8.1993428  
+ 
+ W1  =
+ 
+    0.1693903  
+ 
+ V1  =
+ 
+    0.8263548  
+ 
+ A  =
+ 
+    0.0792596  
+ 
+ I  =
+ 
+    1.5582792  
+ 
+ A1  =
+ 
+    0.0220345  
+ 
+ 
+the aera of the stream and water orifices= 0.022034 in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.15/6_15.sce #
+ 
+ 
+ a  =
+ 
+    50.  
+ 
+ v  =
+ 
+    2000.  
+ 
+ p  =
+ 
+    800.  
+ 
+ b  =
+ 
+    20.  
+ 
+ v1  =
+ 
+    0.9  
+ 
+ v2  =
+ 
+    513.  
+ 
+ W  =
+ 
+    52745.342  
+ 
+ K  =
+ 
+    62111.801  
+ 
+ 
+ D  =
+ 
+    84.92  
+ 
+ 
+the work done per lb= 84.920000 percent/lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.16/6_16.sce #
+ 
+ 
+ 
+ t  =
+ 
+    65.  
+ 
+ n  =
+ 
+    0.98  
+ 
+ p  =
+ 
+    105.  
+ 
+ a  =
+ 
+    14.  
+ 
+ b  =
+ 
+    20.  
+ 
+ p1  =
+ 
+    800.  
+ 
+ v  =
+ 
+    0.8  
+ 
+ p2  =
+ 
+    3.5  
+ 
+ q  =
+ 
+    1400.  
+ 
+ V  =
+ 
+    1804.6351  
+ 
+ W  =
+ 
+    42981.366  
+ 
+ H  =
+ 
+    273.51779  
+ 
+ E  =
+ 
+    6648.8199  
+ 
+ 
+ Hd  =
+ 
+    4.7491571  
+ 
+ 
+the steam as it leaves the blades and hourse power= 4.749157 C.H.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.18/6_18.sce #
+ 
+ 
+ p  =
+ 
+    300.  
+ 
+ W  =
+ 
+    880.  
+ 
+ a  =
+ 
+    18.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Wd  =
+ 
+    8198.7578  
+ 
+ 
+the work done /lb steam sec= 8198.757764 ft lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.19/6_19.sce #
+ 
+ 
+ a  =
+ 
+    35.  
+ 
+ b  =
+ 
+    20.  
+ 
+ f  =
+ 
+    2.  
+ 
+ w  =
+ 
+    422.  
+ 
+ w1  =
+ 
+    222.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ s  =
+ 
+    1500.  
+ 
+ j  =
+ 
+    0.8  
+ 
+ p  =
+ 
+    3.  
+ 
+ h  =
+ 
+    80.  
+ 
+ i  =
+ 
+    1400.  
+ 
+ P  =
+ 
+    202.89453  
+ 
+ W  =
+ 
+    4057.8905  
+ 
+ H  =
+ 
+    22.133948  
+ 
+ 
+ E  =
+ 
+    3.6231165  
+ 
+ 
+the house -power developed per pair of rings if the steam= 3.623117 ft lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.23/6_23.sce #
+ 
+ 
+ d  =
+ 
+    7.  
+ 
+ h  =
+ 
+    2.  
+ 
+ s  =
+ 
+    750.  
+ 
+ s1  =
+ 
+    31.3  
+ 
+ h1  =
+ 
+    1.5  
+ 
+ a  =
+ 
+    25.  
+ 
+ p  =
+ 
+    5.7  
+ 
+ d1  =
+ 
+    0.97  
+ 
+ h2  =
+ 
+    370.  
+ 
+ j  =
+ 
+    32.2  
+ 
+ k  =
+ 
+    1400.  
+ 
+ e  =
+ 
+    0.75  
+ 
+ w  =
+ 
+    326.  
+ 
+ p  =
+ 
+    290.  
+ 
+ vi  =
+ 
+    155.  
+ 
+ 
+ P  =
+ 
+    301.98559  
+ 
+ H  =
+ 
+    197.47573  
+ 
+ E  =
+ 
+    3.3047817  
+ 
+ 
+the drop in pressure while the steam is passing through the turbine= 3.304782 C.H.U/lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX6.25/6_25.sce #
+ 
+ 
+ p  =
+ 
+    300.  
+ 
+ ab  =
+ 
+    100.  
+ 
+ w  =
+ 
+    26.4  
+ 
+ t  =
+ 
+    40.  
+ 
+ t1  =
+ 
+    180.  
+ 
+ p1  =
+ 
+    0.5  
+ 
+ T  =
+ 
+    732.38  
+ 
+ W  =
+ 
+    26.2  
+ 
+ W1  =
+ 
+    102.  
+ 
+ x  =
+ 
+    0.963  
+ 
+ d  =
+ 
+    335.  
+ 
+ E  =
+ 
+    743.85  
+ 
+ 
+ H  =
+ 
+    705.98  
+ 
+ h  =
+ 
+    630.38  
+ 
+ H1  =
+ 
+    113.47  
+ 
+ T1  =
+ 
+    819.45  
+ 
+ Wd  =
+ 
+    437.  
+ 
+ 
+the total work done per lb steam= 437.000000 C.H.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH6/EX16.28/6_28.sce #
+ 
+ 
+ p  =
+ 
+    100.  
+ 
+ p1  =
+ 
+    0.5  
+ 
+ T1  =
+ 
+    659.3  
+ 
+ T2  =
+ 
+    26.2  
+ 
+ W  =
+ 
+    181.  
+ 
+ H1  =
+ 
+    66.  
+ 
+ H2  =
+ 
+    115.  
+ 
+ D  =
+ 
+    0.912  
+ 
+ H3  =
+ 
+    533.4  
+ 
+ T3  =
+ 
+    108.5  
+ 
+ T4  =
+ 
+    26.4  
+ 
+ W1  =
+ 
+    0.1687700  
+ 
+ s  =
+ 
+    0.8312300  
+ 
+ 
+ T  =
+ 
+    28.58948  
+ 
+ Wd  =
+ 
+    161.59145  
+ 
+ H  =
+ 
+    550.8  
+ 
+ TE  =
+ 
+    29.33759  
+ 
+ 
+the without bleeding  28.589480 pecent 
+the proper weight of steam is bled= 29.337590 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.1/7_1.sce #
+ 
+ 
+ C  =
+ 
+    86.  
+ 
+ h  =
+ 
+    4.2  
+ 
+ w  =
+ 
+    20.  
+ 
+ a  =
+ 
+    20.902  
+ 
+ C2  =
+ 
+    3.6666667  
+ 
+ N  =
+ 
+    0.77  
+ 
+ CO2  =
+ 
+    3.15  
+ 
+ H2O  =
+ 
+    0.378  
+ 
+ N2  =
+ 
+    15.4  
+ 
+ Ox  =
+ 
+    1.974  
+ 
+ 
+ Co2  =
+ 
+    15.070328  
+ 
+ H2o  =
+ 
+    1.8084394  
+ 
+ n2  =
+ 
+    0.7367716  
+ 
+ o2  =
+ 
+    9.4440723  
+ 
+ 
+the composition of the products of combutions by weight= 9.444072 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.2/7_2.sce #
+ 
+ 
+ 
+ g  =
+ 
+    0.05  
+ 
+ n  =
+ 
+    0.35  
+ 
+ c  =
+ 
+    0.5  
+ 
+ h  =
+ 
+    10.  
+ 
+ m  =
+ 
+    167.  
+ 
+ h1  =
+ 
+    162.  
+ 
+ v  =
+ 
+    1.  
+ 
+ H2  =
+ 
+    0.5  
+ 
+ Co  =
+ 
+    0.05  
+ 
+ v2  =
+ 
+    3.  
+ 
+ 
+ G  =
+ 
+    0.2  
+ 
+ Tv  =
+ 
+    66.55  
+ 
+ M  =
+ 
+    22.183333  
+ 
+ 
+the gas with twice its volume of air= 22.183333 C H U/ft^3 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.4/7_4.sce #
+ 
+ 
+ g  =
+ 
+    8.  
+ 
+ f  =
+ 
+    88.  
+ 
+ C  =
+ 
+    12.  
+ 
+ w  =
+ 
+    20.  
+ 
+ C1  =
+ 
+    3.6666667  
+ 
+ CO2  =
+ 
+    0.2727273  
+ 
+ e  =
+ 
+    0.08  
+ 
+ D  =
+ 
+    0.0218  
+ 
+ w1  =
+ 
+    0.88  
+ 
+ 
+ W1  =
+ 
+    40.366972  
+ 
+ T  =
+ 
+    807.33945  
+ 
+ 
+the total weight of exaust gas leaving the engine per hour= 807.339450 lb/hr 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.6/7_6.sce #
+ 
+ 
+ a  =
+ 
+    30.  
+ 
+ b  =
+ 
+    20.  
+ 
+ c  =
+ 
+    8.  
+ 
+ h  =
+ 
+    42.  
+ 
+ t1  =
+ 
+    20.  
+ 
+ g  =
+ 
+    0.24  
+ 
+ t2  =
+ 
+    320.  
+ 
+ M  =
+ 
+    7.654  
+ 
+ A  =
+ 
+    22.962  
+ 
+ W  =
+ 
+    0.12  
+ 
+ T  =
+ 
+    23.762  
+ 
+ w1  =
+ 
+    1.02  
+ 
+ w  =
+ 
+    22.742  
+ 
+ d  =
+ 
+    1637.424  
+ 
+ H  =
+ 
+    741.336  
+ 
+ 
+ T1  =
+ 
+    2378.76  
+ 
+ 
+total heat carried away by flue gases= 2378.760000 C H U/lb fuel 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.7/7_7.sce #
+ 
+ 
+ h  =
+ 
+    40.  
+ 
+ g  =
+ 
+    30.  
+ 
+ c  =
+ 
+    8.  
+ 
+ n  =
+ 
+    10.  
+ 
+ w  =
+ 
+    6.  
+ 
+ g1  =
+ 
+    10.  
+ 
+ g2  =
+ 
+    4.14  
+ 
+ Ch4  =
+ 
+    4.562  
+ 
+ Co2  =
+ 
+    0.44  
+ 
+ H2o  =
+ 
+    1.18  
+ 
+ N2  =
+ 
+    3.7  
+ 
+ x  =
+ 
+    3.7636364  
+ 
+ 
+ T  =
+ 
+    8.3256364  
+ 
+ v  =
+ 
+    9.3256364  
+ 
+ V  =
+ 
+    7.9036364  
+ 
+ D  =
+ 
+    1.422  
+ 
+ P  =
+ 
+    15.248289  
+ 
+ 
+the volueme of air suplied per= 15.248289 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.9/7_9.sce #
+ 
+ 
+ Ox  =
+ 
+    2.679  
+ 
+ O2  =
+ 
+    2.649  
+ 
+ o2  =
+ 
+    11.517391  
+ 
+ E  =
+ 
+    5.7586957  
+ 
+ a  =
+ 
+    17.325  
+ 
+ Co2  =
+ 
+    3.294  
+ 
+ H2o  =
+ 
+    0.315  
+ 
+ N2o  =
+ 
+    13.34  
+ 
+ O2  =
+ 
+    1.3245  
+ 
+ So2  =
+ 
+    0.01  
+ 
+ 
+ W  =
+ 
+    17.9685  
+ 
+ 
+the totel weight of dry products= 17.968500 lb /lb fuel 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.11/7_11.sce #
+ 
+ 
+ l  =
+ 
+    8.7  
+ 
+ Co2  =
+ 
+    42.  
+ 
+ N  =
+ 
+    28.  
+ 
+ O2  =
+ 
+    32.  
+ 
+ x  =
+ 
+    27.65  
+ 
+ W  =
+ 
+    11.594203  
+ 
+ 
+ A  =
+ 
+    16.055797  
+ 
+ 
+the air to flues /lb carbon= 16.055797 lb 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.13/7_13.sce #
+ 
+ 
+ Co  =
+ 
+    2420.  
+ 
+ a  =
+ 
+    566.66667  
+ 
+ R  =
+ 
+    0.7455330  
+ 
+ T  =
+ 
+    1.745  
+ 
+ n  =
+ 
+    1.12  
+ 
+ O2  =
+ 
+    0.7621777  
+ 
+ C  =
+ 
+    3.3138159  
+ 
+ CB  =
+ 
+    0.6418338  
+ 
+ m  =
+ 
+    1.74  
+ 
+ k  =
+ 
+    2.33  
+ 
+ l  =
+ 
+    1.33  
+ 
+ c  =
+ 
+    77.  
+ 
+ d  =
+ 
+    23.  
+ 
+ 
+ Y  =
+ 
+    4.4526087  
+ 
+ 
+the weight of air and steam = 4.452609 N2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.15/7_15.sce #
+ 
+ 
+ w  =
+ 
+    20.  
+ 
+ t  =
+ 
+    320.  
+ 
+ t1  =
+ 
+    22.  
+ 
+ w1  =
+ 
+    0.0807  
+ 
+ A  =
+ 
+    0.03901  
+ 
+ W  =
+ 
+    0.07469  
+ 
+ g  =
+ 
+    5.2  
+ 
+ Q  =
+ 
+    0.03568  
+ 
+ 
+ H  =
+ 
+    91.087444  
+ 
+ 
+weight of equal column of external air= 91.087444 ft 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.16/7_16.sce #
+ 
+ 
+ p  =
+ 
+    120.  
+ 
+ h  =
+ 
+    30.  
+ 
+ t  =
+ 
+    48.  
+ 
+ C  =
+ 
+    1000.  
+ 
+ t1  =
+ 
+    26.  
+ 
+ m  =
+ 
+    2.2  
+ 
+ g  =
+ 
+    18.  
+ 
+ f  =
+ 
+    127.  
+ 
+ j  =
+ 
+    33000.  
+ 
+ q  =
+ 
+    1400.  
+ 
+ L  =
+ 
+    7824.  
+ 
+ b  =
+ 
+    50.  
+ 
+ t2  =
+ 
+    320.  
+ 
+ g1  =
+ 
+    0.24  
+ 
+ d  =
+ 
+    0.9  
+ 
+ a  =
+ 
+    14.736  
+ 
+ P  =
+ 
+    134.736  
+ 
+ T  =
+ 
+    613.725  
+ 
+ 
+ Wt  =
+ 
+    7.8740157  
+ 
+ H  =
+ 
+    4454.5276  
+ 
+ F  =
+ 
+    15.807  
+ 
+ G  =
+ 
+    1270.08  
+ 
+ E  =
+ 
+    56.934146  
+ 
+ E1  =
+ 
+    7.1166334  
+ 
+ 
+the heat balance for the boiler and find its efficiency and the overall efficiency of the plant= 7.116633 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH7/EX7.17/7_17.sce #
+ 
+ 
+ v  =
+ 
+    7950.  
+ 
+ w  =
+ 
+    15.  
+ 
+ c  =
+ 
+    0.85  
+ 
+ w1  =
+ 
+    14.  
+ 
+ w2  =
+ 
+    9.  
+ 
+ t1  =
+ 
+    15.  
+ 
+ t2  =
+ 
+    325.  
+ 
+ g  =
+ 
+    0.25  
+ 
+ 
+ H  =
+ 
+    6757.5  
+ 
+ H1  =
+ 
+    109.785  
+ 
+ C  =
+ 
+    0.7225  
+ 
+ A  =
+ 
+    19.2  
+ 
+ Wt  =
+ 
+    19.9225  
+ 
+ P  =
+ 
+    1543.9937  
+ 
+ R  =
+ 
+    946.05  
+ 
+ R1  =
+ 
+    4157.6713  
+ 
+ B  =
+ 
+    61.526767  
+ 
+ 
+the efficiency of a boiler = 61.526767 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.1/8_1.sce #
+ 
+ 
+ b  =
+ 
+    6.  
+ 
+ b1  =
+ 
+    9.  
+ 
+ r1  =
+ 
+    4.  
+ 
+ r2  =
+ 
+    1.  
+ 
+ p  =
+ 
+    50.  
+ 
+ s  =
+ 
+    300.  
+ 
+ e  =
+ 
+    30.  
+ 
+ v  =
+ 
+    260.  
+ 
+ a  =
+ 
+    1.41  
+ 
+ h  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    33000.  
+ 
+ g1  =
+ 
+    1400.  
+ 
+ A  =
+ 
+    0.4335581  
+ 
+ 
+ I  =
+ 
+    4.8194887  
+ 
+ X  =
+ 
+    1.4564389  
+ 
+ C  =
+ 
+    18.131868  
+ 
+ R  =
+ 
+    69.194885  
+ 
+ 
+The fuel consumption in ft^3/h p hr and the efficiency relative to the air standard cycle= 69.194885 percent 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.3/8_3.sce #
+ 
+ 
+ h  =
+ 
+    200.  
+ 
+ h1  =
+ 
+    50.  
+ 
+ P4  =
+ 
+    33.4  
+ 
+ W  =
+ 
+    9000.  
+ 
+ x  =
+ 
+    33000.  
+ 
+ p  =
+ 
+    1728.  
+ 
+ 
+ w  =
+ 
+    16500.  
+ 
+ T  =
+ 
+    1.8333333  
+ 
+ V  =
+ 
+    1.702381  
+ 
+ D  =
+ 
+    13.566665  
+ 
+ 
+The diameter of the cylinder of a single acting and swept volume= 13.566665 in 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.6/8_6.sce #
+ 
+ 
+ h  =
+ 
+    12.  
+ 
+ h1  =
+ 
+    18.  
+ 
+ v  =
+ 
+    19000.  
+ 
+ T  =
+ 
+    12600.  
+ 
+ m  =
+ 
+    90.  
+ 
+ w  =
+ 
+    120.  
+ 
+ t1  =
+ 
+    140.  
+ 
+ t2  =
+ 
+    60.  
+ 
+ t3  =
+ 
+    570.  
+ 
+ Cv  =
+ 
+    0.24  
+ 
+ q  =
+ 
+    810.  
+ 
+ n  =
+ 
+    16.9  
+ 
+ 
+ H  =
+ 
+    5351.6667  
+ 
+ H1  =
+ 
+    2060.6102  
+ 
+ H2  =
+ 
+    1750.  
+ 
+ H3  =
+ 
+    310.61019  
+ 
+ W  =
+ 
+    1600.  
+ 
+ G  =
+ 
+    1686.876  
+ 
+ 
+The heat balance showing heat quantities received and the discharged per min= 1686.876000 B.TH.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.8/8_8.sce #
+ 
+ 
+ v  =
+ 
+    12.5  
+ 
+ p1  =
+ 
+    8.25  
+ 
+ p2  =
+ 
+    12.  
+ 
+ t  =
+ 
+    110.  
+ 
+ g1  =
+ 
+    280.  
+ 
+ g2  =
+ 
+    215.  
+ 
+ V  =
+ 
+    25.  
+ 
+ e  =
+ 
+    0.875  
+ 
+ T  =
+ 
+    33000.  
+ 
+ v1  =
+ 
+    0.417  
+ 
+ 
+ M  =
+ 
+    70.150939  
+ 
+ V1  =
+ 
+    0.3248204  
+ 
+ V2  =
+ 
+    0.0928058  
+ 
+ G  =
+ 
+    0.0325758  
+ 
+ T1  =
+ 
+    9.1212121  
+ 
+ T2  =
+ 
+    21.87341  
+ 
+ F  =
+ 
+    3.2071331  
+ 
+ 
+The value of the Tookey factor for gas engine=3 C.H.U 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.10/8_10.sce #
+ 
+ 
+ p1  =
+ 
+    140.  
+ 
+ p2  =
+ 
+    6.6  
+ 
+ v1  =
+ 
+    122.  
+ 
+ v2  =
+ 
+    1250.  
+ 
+ t  =
+ 
+    1425.  
+ 
+ p3  =
+ 
+    77.8  
+ 
+ h  =
+ 
+    0.356  
+ 
+ v  =
+ 
+    10000.  
+ 
+ h2  =
+ 
+    2400.  
+ 
+ q  =
+ 
+    33000.  
+ 
+ j  =
+ 
+    1400.  
+ 
+ 
+ t  =
+ 
+    39.727127  
+ 
+ V  =
+ 
+    20.708945  
+ 
+ V1  =
+ 
+    3.5136  
+ 
+ T  =
+ 
+    24.16  
+ 
+ V2  =
+ 
+    1.6443347  
+ 
+ I  =
+ 
+    34.052438  
+ 
+ I1  =
+ 
+    5.7775345  
+ 
+ H  =
+ 
+    24904.  
+ 
+ T  =
+ 
+    1.0822444  
+ 
+ T1  =
+ 
+    0.5468388  
+ 
+ T2  =
+ 
+    74166.667  
+ 
+ H1  =
+ 
+    29464.286  
+ 
+ H2  =
+ 
+    20618.995  
+ 
+ T3  =
+ 
+    50083.281  
+ 
+ Tn  =
+ 
+    24083.386  
+ 
+ 
+the overall thermal effciency= 39.727127 percent 
+the cylinder volume in ft^3= 20.708945 volume 
+the thermal efficiency of steam engine= 0.546839 percent 
+total heat in oil.mim= 24083.385683 C.H.U/mim 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.12/8_12.sce #
+ 
+ 
+ r  =
+ 
+    14.  
+ 
+ r1  =
+ 
+    1.8  
+ 
+ t  =
+ 
+    30.4  
+ 
+ e  =
+ 
+    0.6  
+ 
+ lam  =
+ 
+    1.4  
+ 
+ d  =
+ 
+    12.  
+ 
+ d1  =
+ 
+    18.  
+ 
+ v  =
+ 
+    10000.  
+ 
+ P  =
+ 
+    200.  
+ 
+ 
+ A  =
+ 
+    0.6032156  
+ 
+ T  =
+ 
+    0.3619294  
+ 
+ H  =
+ 
+    5066.6667  
+ 
+ H1  =
+ 
+    1833.7754  
+ 
+ I  =
+ 
+    77.796531  
+ 
+ M  =
+ 
+    75.66596  
+ 
+ 
+the indicated hourse-power and the mean effiective pressure of the engine= 75.665960lb/in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.19/8_19.sce #
+ 
+ 
+ cv  =
+ 
+    0.1714  
+ 
+ R  =
+ 
+    100.3  
+ 
+ T  =
+ 
+    500.  
+ 
+ J  =
+ 
+    1400.  
+ 
+ Lam  =
+ 
+    0.0716429  
+ 
+ 
+ Cp  =
+ 
+    0.2430429  
+ 
+ 
+The specific heat at constant volume of a gaseous mixture is= 0.243043 C.H.U percent C 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.20/8_20.sce #
+ 
+ 
+ a  =
+ 
+    0.124  
+ 
+ b  =
+ 
+    0.000025  
+ 
+ R  =
+ 
+    0.0671  
+ 
+ 
+ Cp  =
+ 
+    0.19115  
+ 
+ 
+the specific heat of a gas at constant volume= 0.191150 T 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.21/8_21.sce #
+ 
+ 
+ 
+ v  =
+ 
+    18.  
+ 
+ p  =
+ 
+    14.  
+ 
+ p1  =
+ 
+    150.  
+ 
+ Cp  =
+ 
+    0.242  
+ 
+ Cv  =
+ 
+    0.171  
+ 
+ j  =
+ 
+    1400.  
+ 
+ R  =
+ 
+    99.4  
+ 
+ p2  =
+ 
+    144.  
+ 
+ I1  =
+ 
+    137500.  
+ 
+ I2  =
+ 
+    6.37  
+ 
+ v2  =
+ 
+    3.282  
+ 
+ 
+ T  =
+ 
+    365.07042  
+ 
+ T2  =
+ 
+    713.19115  
+ 
+ W  =
+ 
+    91.752519  
+ 
+ C  =
+ 
+    5.4844607  
+ 
+ 
+The work done the temperatures at the beginning and end of compression ratio= 5.484461 ratio 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH8/EX8.22/8_22.sce #
+ 
+ 
+ r  =
+ 
+    12.5  
+ 
+ p  =
+ 
+    390000.  
+ 
+ p1  =
+ 
+    14.  
+ 
+ t  =
+ 
+    373.  
+ 
+ g  =
+ 
+    18.  
+ 
+ t1  =
+ 
+    100.  
+ 
+ V  =
+ 
+    1.44  
+ 
+ I  =
+ 
+    200000.  
+ 
+ T  =
+ 
+    590000.  
+ 
+ D  =
+ 
+    221000.  
+ 
+ A  =
+ 
+    95000.  
+ 
+ E  =
+ 
+    264000.  
+ 
+ E1  =
+ 
+    390000.  
+ 
+ 
+ W  =
+ 
+    67.692308  
+ 
+ M  =
+ 
+    110.70853  
+ 
+ 
+the efficiency of the engine and the m e p on the assumption that the specific heats= 110.708535 lb in^2 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH9/EX9.5/9_5.sce #
+ 
+ 
+ p  =
+ 
+    20.  
+ 
+ l  =
+ 
+    100.  
+ 
+ r  =
+ 
+    120.  
+ 
+ v  =
+ 
+    3.5  
+ 
+ l2  =
+ 
+    1.  
+ 
+ l3  =
+ 
+    0.125  
+ 
+ v1  =
+ 
+    1.44  
+ 
+ 
+ V  =
+ 
+    18.181818  
+ 
+ R  =
+ 
+    12.626263  
+ 
+ 
+The ratio of velocity of the piston to the velocity= 12.626263 umega in/sec 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH9/EX5.7/9_7.sce #
+ 
+ 
+ v  =
+ 
+    0.6  
+ 
+ m  =
+ 
+    1.  
+ 
+ t  =
+ 
+    0.75  
+ 
+ p  =
+ 
+    4.  
+ 
+ 
+ D  =
+ 
+    0.75  
+ 
+ A  =
+ 
+    5.3333333  
+ 
+ 
+the travel and laps of the value= 5.333333 in 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH9/EX9.10/9_10.sce #
+ 
+ 
+ l  =
+ 
+    1.5  
+ 
+ p  =
+ 
+    4.  
+ 
+ v  =
+ 
+    0.98  
+ 
+ 
+ T  =
+ 
+    6.122449  
+ 
+ 
+the particulars of a value and it eccentric= 6.122449 in 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH9/EX9.12/9_12.sce #
+ 
+ 
+ p  =
+ 
+    0.1  
+ 
+ v1  =
+ 
+    0.75  
+ 
+ v2  =
+ 
+    0.6  
+ 
+ m  =
+ 
+    0.5  
+ 
+ l  =
+ 
+    4.  
+ 
+ a1  =
+ 
+    1.25  
+ 
+ a2  =
+ 
+    0.7  
+ 
+ 
+ C  =
+ 
+    1.7857143  
+ 
+ A  =
+ 
+    7.1428571  
+ 
+ S  =
+ 
+    2.3214286  
+ 
+ 
+the travel of the value = 2.321429 in 
+ 
+grepthis#Examples_In_Thermodynamics_Problems__W._R._Crawford_2165/CH9/EX9.17/9_17.sce #
+ 
+ 
+ v  =
+ 
+    1.5  
+ 
+ a  =
+ 
+    30.  
+ 
+ l  =
+ 
+    0.8  
+ 
+ v1  =
+ 
+    0.2  
+ 
+ L  =
+ 
+    0.13  
+ 
+ m  =
+ 
+    1.075  
+ 
+ d  =
+ 
+    0.58  
+ 
+ p  =
+ 
+    1.875  
+ 
+ 
+ V  =
+ 
+    1.295  
+ 
+ P  =
+ 
+    2.545  
+ 
+ 
+the main value and the maximum opening to steam= 2.545000 in 
+ 

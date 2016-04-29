@@ -1,0 +1,853 @@
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH3/EX3.5/example3_5.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ Vw  =
+ 
+    500.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Field Capacity of soil is=19.720000 percent. 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.6/example4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Record at X is not consistent. 
+
+From the curve regime is observed in the year 1978. 
+ 
+ 
+ 
+ 
+
+
+Year          Observed rainfall          Adjusted rainfall 
+
+1970                95                     66
+1971                75                     52
+1972                90                     63
+1973                85                     59
+1974                95                     66
+1975                90                     63
+1976                100                     70
+1977                90                     63 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.7/example4_7.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+Rainfall intensity: 
+ 
+
+49.600000
+38.800000
+52.000000
+70.400000
+44.000000
+72.800000
+109.200000
+57.200000
+36.400000
+42.800000
+10.800000
+0.000000 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.8/example4_8.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15min               30min               45min              60min          90min          120min 
+
+0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+12.400000          0.000000          0.000000          0.000000          0.000000          0.000000
+9.700000          22.100000          0.000000          0.000000          0.000000          0.000000
+13.000000          22.700000          35.100000          0.000000          0.000000          0.000000
+17.600000          30.600000          40.300000          52.700000          0.000000          0.000000
+11.000000          28.600000          41.600000          51.300000          0.000000          0.000000
+18.200000          29.200000          46.800000          59.800000          81.900000          0.000000
+27.300000          45.500000          56.500000          74.100000          96.800000          0.000000
+14.300000          41.600000          59.800000          70.800000          101.400000          123.500000
+9.100000          23.400000          50.700000          68.900000          97.500000          120.200000
+10.700000          19.800000          34.100000          61.400000          90.600000          121.200000
+2.700000          13.400000          22.500000          36.800000          82.300000          110.900000
+0.000000          2.700000          13.400000          22.500000          64.100000          93.300000 
+ 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.10/example4_10.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+ 
+         column 1 to 9
+ 
+    25.5    24.5    23.5    22.5    21.5    20.5    19.5    18.5    17.5  
+ 
+         column 10
+ 
+    16.5  
+ 
+ 
+ 
+ 
+ 
+ 
+From depth area curve we obtain average depth of precipitation=24.1 mm for an 
+area of 1800 sq. km. 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.11/example4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T(years)          Rainfall(mm) 
+
+8                         119
+15                         134
+25                         149 
+ 
+ 
+ 
+ 
+
+
+probability(percent)          Rainfall(mm) 
+
+40                                87
+24                                101
+8                                130 
+ 
+ 
+
+
+For rainfall=100 m.
+T=4 years.
+Probability=25 percent. 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.12/example4_12.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.13/example4_13.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maximum rainfall=79cm for T=15 years. 
+
+minimum rainfall =31 cm for T=15 years. 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.16/example4_16.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+constant rate of infiltration=0.40 cm/hr. 
+ 
+ 
+ 
+ 
+
+average rate of infiltration for first 10 min=7.130000 cm/hr. 
+
+average rate of infiltration for first 30 min=5.210000 cm/hr. 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.21/example4_21.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intensity of effective Rainfall: 
+ 
+ 
+
+0.000000
+0.600000
+1.600000
+2.200000
+1.200000
+0.800000
+0.400000
+0.200000 
+ 
+ 
+ 
+
+Volume of direct run-off=301000.000000 cubic metre. 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.22/example4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total rainfall=23.350000 cm. 
+
+total rainfall excess=6.350000 cm. 
+
+W index=4.250000 cm/hr. 
+ 
+ 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.26/example4_26.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ordinates of unit hydrograph: 
+
+0.000000
+0.000000
+11.500000
+19.450000
+21.600000
+16.480000
+13.650000
+11.380000
+9.390000
+7.370000
+5.650000
+4.450000
+3.070000
+2.150000
+1.180000
+0.450000
+0.000000
+0.000000 
+
+Hydograph is 4-hr unit hydrograph 
+ 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.29/example4_29.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ordinates of unit hydrograph are: 
+ 
+ 
+ 
+ 
+ 
+
+0.000000
+10.500000
+40.000000
+20.000000
+14.500000
+5.750000
+3.000000
+2.000000
+0.000000 
+
+
+The succesive unit hydrograph will have same ordinates but will be shifted
+laterally by 6 hrs. 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.42/example4_42.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mean precipitaion=7.350000 cm. 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.45/example4_45.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5min               10min            15min             20min             25min              30min             35min             40min             45min             50min 
+
+0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+1.020000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+1.060000          2.080000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+1.220000          2.280000          3.300000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+1.420000          2.640000          3.700000          4.720000          0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+0.860000          2.280000          3.500000          4.560000          5.580000          0.000000          0.000000          0.000000          0.000000          0.000000
+0.820000          1.680000          3.100000          4.320000          5.380000          6.400000          0.000000          0.000000          0.000000          0.000000
+0.760000          1.580000          2.440000          3.860000          5.080000          6.140000          7.160000          0.000000          0.000000          0.000000
+0.720000          1.480000          2.300000          3.160000          4.580000          5.800000          6.860000          7.880000          0.000000          0.000000
+0.660000          1.380000          2.140000          2.960000          3.820000          5.240000          6.460000          7.520000          8.540000          0.000000
+0.600000          1.260000          1.980000          2.740000          3.560000          4.420000          5.840000          7.060000          8.120000          9.140000 
+ 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.46/example4_46.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+Rainfall intensity: 
+
+10.000000
+5.000000
+2.000000
+1.000000 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.47/example4_47.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+ 
+         column 1 to 9
+ 
+    21.5    20.5    19.5    18.5    17.5    16.5    15.5    14.5    13.5  
+ 
+         column 10
+ 
+    12.5  
+ 
+ 
+ 
+ 
+ 
+ 
+From depth area curve we obtain average depth of precipitation=20.15 mm for an
+area of 2400 sq. km. 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.53/example4_53.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total rainfall=6.500000 cm. 
+
+net run-off=2.625000 cm. 
+
+W index=2.214000 cm/hr. 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH4/EX4.62/example4_62.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ordinates of 1 hr unit hydrograph: 
+
+0
+50
+58
+132
+218
+142
+112
+68
+48
+32
+18
+0
+0 
+ 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH5/EX5.13/example5_13.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+formation constant of acquifer: 
+
+T=1631.000000 cubic metre/day/m.
+S=0.000280. 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH5/EX5.15/example5_15.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+formation constant of acquifer: 
+
+T=1736 cubic metre/day/m.
+S=0.000234. 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH6/EX6.1/example6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ maximum reservior level=102.370000 m. 
+
+maximum discharge over spillway=334.000000 cumecs. 
+
+reduction in peak discharge=16.000000 cumecs. 
+
+peak lag=6.000000 hours. 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH6/EX6.3/example6_3.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+storage capacity of reservior=1.6 million ha-m. 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH10/EX10.5/example10_5.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.    25.    50.    75.    100.    125.    151.8    300.  
+ 
+ 
+
+x                     Xr              ho         reduction q(percent) 
+
+0.000000        0.000000        0.000000        0.000000
+25.000000        24.557488        3.803972        38.039721
+50.000000        46.671719        5.384884        53.848844
+75.000000        64.783783        6.182615        61.826154
+100.000000        78.500280        6.624481        66.244806
+125.000000        88.284193        6.881923        68.819229
+151.800000        95.353794        7.044782        70.447818
+300.000000        106.532611        7.270232        72.702322 
+ 
+ 
+ 
+
+Thickness of blanket=1.200000 m 
+
+Length of blanket=130 m. 
+ 
+ 
+grepthis#Irrigation_And_Water_Power_Engineering_B._C._Punmia_2087/CH12/EX12.2/example12_2.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Points         Pressure percent        Pressure head 
+
+C1                70.900000               3.550000
+C2                55.600000               2.780000
+E2                67.800000               3.390000
+E3                31.500000               1.580000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Thickness required at A=2.070000 m. 
+
+Thickness required at B=1.610000 m. 
+
+Thickness required at C=1.460000 m. 
+ 
+
+Thickness provided=1.500000 m. 
+
+Floor thickness at B and C are adequate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+exit gradient=0.097157. 
+
+ it is less than permissible exit gradient  < 1/6
+Hence safe.. 
+ 

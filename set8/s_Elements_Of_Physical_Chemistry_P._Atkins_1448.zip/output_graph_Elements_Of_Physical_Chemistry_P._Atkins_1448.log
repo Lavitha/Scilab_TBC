@@ -1,0 +1,271 @@
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.1.e/E10_1.sce #
+[2J[0;0H 
+ 
+ I  =
+ 
+    0.00001    0.00002    0.00004    0.00006  
+ 
+ r1  =
+ 
+    0.00107    0.00348    0.0139    0.0313  
+ 
+ r2  =
+ 
+    0.00435    0.0174    0.0696    0.157  
+ 
+ r3  =
+ 
+    0.01069    0.0347    0.138    0.313  
+ 
+ Ar  =
+ 
+    0.001    0.005    0.01  
+ 
+ 
+ logI  =
+ 
+  - 11.512925  - 10.819778  - 10.126631  - 9.721166  
+ 
+ logr1  =
+ 
+  - 6.8400966  - 5.660723  - 4.2758664  - 3.4641372  
+ 
+ logr2  =
+ 
+  - 5.4375794  - 4.0512851  - 2.6649907  - 1.8515095  
+ 
+ logr3  =
+ 
+  - 4.5384466  - 3.3610156  - 1.9805016  - 1.1615521  
+ 
+ 
+ x  =
+ 
+  - 11.512925  - 10.819778  - 10.126631  - 9.721166  
+ 
+ y  =
+ 
+  - 6.8400966  - 5.660723  - 4.2758664  - 3.4641372  
+ 
+sx=sum(x);sx2=sum(x^2);sy=sum(y);sxy=sum(x.*y);n=length(x);
+                      !       
+at line      16 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.1.e/E10_1.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ y  =
+ 
+  - 5.4375794  - 4.0512851  - 2.6649907  - 1.8515095  
+ 
+sx=sum(x);sx2=sum(x^2);sy=sum(y);sxy=sum(x.*y);n=length(x);
+                      !       
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.1.e/E10_1.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ y  =
+ 
+  - 4.5384466  - 3.3610156  - 1.9805016  - 1.1615521  
+ 
+sx=sum(x);sx2=sum(x^2);sy=sum(y);sxy=sum(x.*y);n=length(x);
+                      !       
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.1.e/E10_1.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ logAr  =
+ 
+  - 6.9077553  - 5.2983174  - 4.6051702  
+ 
+ kdash  =
+ 
+    14.892046    17.600787    17.184377  
+ 
+ 
+ x  =
+ 
+  - 6.9077553  - 5.2983174  - 4.6051702  
+ 
+ y  =
+ 
+    14.892046    17.600787    17.184377  
+ 
+sx=sum(x);sx2=sum(x^2);sy=sum(y);sxy=sum(x.*y);n=length(x);
+                      !       
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.1.e/E10_1.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ logk  =
+ 
+    22.816426  
+ 
+ k  =
+ 
+    8.111D+09  
+ 
+ 
+Overall rate law is r = 8.1e+09 [I]^2 [Ar] 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.2.e/E10_2.sce #
+[2J[0;0H 
+ 
+ t  =
+ 
+    0.    1000.    2000.    3000.    4000.  
+ 
+ p  =
+ 
+    10.2    5.72    3.99    2.78    1.94  
+ 
+ lnp  =
+ 
+    2.3223877    1.7439688    1.3837912    1.0224509    0.6626880  
+ 
+ x  =
+ 
+    0.    1000.    2000.    3000.    4000.  
+ 
+ y  =
+ 
+    2.3223877    1.7439688    1.3837912    1.0224509    0.6626880  
+ 
+ 
+sx=sum(x);sx2=sum(x^2);sy=sum(y);sxy=sum(x.*y);n=length(x);
+                      !       
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.2.e/E10_2.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ k  =
+ 
+  - 0.0004041  
+ 
+ 
+ 
+ 
+rate constant = -4.04e-04 s^-1 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH11/EX11.1.e/E11_1.sce #
+[2J[0;0H 
+ 
+ S  =
+ 
+    10.    20.    40.    80.    120.    180.    300.  
+ 
+ v  =
+ 
+    0.32    0.58    0.9    1.22    1.42    1.58    1.74  
+ 
+ 
+ bys  =
+ 
+    0.0688231  
+    0.1376462  
+    0.2752925  
+    0.550585   
+    0.8258775  
+    1.2388162  
+    2.0646937  
+ 
+ byv  =
+ 
+    0.0311357  
+    0.0564334  
+    0.0875691  
+    0.1187048  
+    0.1381646  
+    0.1537324  
+    0.1693002  
+ 
+ n  =
+ 
+    1.    7.  
+ 
+ x  =
+ 
+    0.0688231  
+    0.1376462  
+    0.2752925  
+    0.550585   
+    0.8258775  
+    1.2388162  
+    2.0646937  
+ 
+ y  =
+ 
+    0.0311357  
+    0.0564334  
+    0.0875691  
+    0.1187048  
+    0.1381646  
+    0.1537324  
+    0.1693002  
+ 
+ 
+ From graph,   
+ 
+ m  =
+ 
+    26.17  
+ 
+ c  =
+ 
+    0.476  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ vmax  =
+ 
+    2.1008403  
+ 
+ Km  =
+ 
+    54.978992  
+ 
+ 
+Max. velocity  = 2.10 mumol/L s 
+
+ Michaelis constant = 55.0 mumol/L 
+ 

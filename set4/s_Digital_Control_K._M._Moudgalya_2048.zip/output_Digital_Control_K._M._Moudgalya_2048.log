@@ -1,0 +1,604 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 123
+
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.5/pp_basic.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH12/EX12.2/gpc_bas.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH12/EX12.6/gpc_col.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH6/EX6.2/ACF_def.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH2/EX2.2/mat_exp.sce #
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    0.3678794    0.  
+    0.6321206    1.  
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH6/EX6.1/LS_ex.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LS  =
+ 
+    2.0679112  
+ 
+ Max  =
+ 
+    136.59274  
+ Min  =
+ 
+  - 19.911802  
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH14/EX14.4/kal_ex.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.13/pp_im2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.8/pp_im.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH6/EX6.8/ma_larger.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ M1  =
+ 
+ 
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+  
+ 
+ A(x) =   
+ 
+    1   
+  
+ 
+ B(x) =   
+ 
+    0  
+  
+ 
+ D(x)   
+ 
+                               2  
+    1 - 0.8874046x + 0.1669635x   
+ 
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+ 
+  Sig=  | 1.0066039 |
+ 
+ 
+ 
+ 
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+  
+ 
+ A(x) =   
+ 
+    1   
+  
+ 
+ B(x) =   
+ 
+    0  
+  
+ 
+ D(x)   
+ 
+                               2  
+    1 - 0.8874046x + 0.1669635x   
+ 
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+ 
+  Sig=  | 1.0066039 |
+ 
+ 
+ M2  =
+ 
+ 
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+  
+ 
+ A(x) =   
+ 
+    1   
+  
+ 
+ B(x) =   
+ 
+    0  
+  
+ 
+ D(x)   
+ 
+                               2            3  
+    1 - 0.8890985x + 0.1762715x + 0.0502398x   
+ 
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+ 
+  Sig=  | 1.0076878 |
+ 
+ 
+ 
+ 
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+  
+ 
+ A(x) =   
+ 
+    1   
+  
+ 
+ B(x) =   
+ 
+    0  
+  
+ 
+ D(x)   
+ 
+                               2            3  
+    1 - 0.8890985x + 0.1762715x + 0.0502398x   
+ 
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+ 
+  Sig=  | 1.0076878 |
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH6/EX6.11/pacf_mat.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH2/EX2.1/pend_model.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH12/EX12.9/gpc_Nc.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.9/mv_nm.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH12/EX12.5/gpc_N.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.17/gmvc_pid.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH12/EX12.11/gpc_pid.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.20/pp_pid.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH3/EX3.1/energy.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH10/EX10.3/imcsplit.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH10/EX10.5/flip.sci #
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.12/gmv.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.16/filtval.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.1/recursion.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.5/mv.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.6/cl.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH11/EX11.7/tfvar.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH13/EX13.3/specfac.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH4/EX4.5/respol.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.22/pd.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.4/desired.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.6/zpowk.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH13/EX13.7/lqg_simple.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH10/EX10.4/imc_stable1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH10/EX10.9/imc_stable.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH2/EX2.3/ZOH1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ sysd  =
+ 
+ 
+       sysd(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       sysd(2) = A matrix = 
+ 
+    0.3678794    0.  
+    0.6321206    1.  
+ 
+       sysd(3) = B matrix = 
+ 
+    0.6321206  
+    0.3678794  
+ 
+       sysd(4) = C matrix = 
+ 
+    0.    1.  
+ 
+       sysd(5) = D matrix = 
+ 
+    0.  
+ 
+       sysd(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       sysd(7) = Time domain = 
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH4/EX4.4/disc1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH13/EX13.2/spec1.sci #
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH13/EX13.4/lqg1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.2/myc2d.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH3/EX3.2/conv2.sce #
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    4.    13.    28.    27.    18.  
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.3/polsplit2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Control_K._M._Moudgalya_2048/CH9/EX9.12/polsplit3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

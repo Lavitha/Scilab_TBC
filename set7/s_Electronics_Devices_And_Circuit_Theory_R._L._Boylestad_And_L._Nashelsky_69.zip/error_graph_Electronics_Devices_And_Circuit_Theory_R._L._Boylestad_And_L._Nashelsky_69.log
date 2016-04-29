@@ -1,0 +1,1076 @@
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.8/7_8.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.0106667  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q-point value of Vgs(found after interpolation) is :   
+ 
+    0.35  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Idq(Amperes) =    
+ 
+    0.0076  
+ 
+ 
+ Vds(Volts) =    
+ 
+    3.18  
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/7_8');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      61 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.8/7_8.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.9/7_9.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q-point value of Vgs(found after interpolation) is :   
+ 
+  - 4.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Idq(Amperes) =    
+ 
+    0.0017  
+ 
+ 
+ Vd(Volts) =    
+ 
+    9.46  
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/7_9');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      53 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.9/7_9.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.11/7_11.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Idq(Amperes) =    
+ 
+    0.00275  
+ 
+ 
+ Vdsq(Volts) =    
+ 
+    6.4  
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/7_11');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      45 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.11/7_11.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.12/7_12.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vg  =
+ 
+    18.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Id = k*(Vgs-Vgs_th)^2;
+                      !       
+at line      26 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.12/7_12.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Idq(Amperes) =    
+ 
+    0.0052  
+ 
+ 
+ Vgsq(Volts) =    
+ 
+    12.5  
+ 
+ 
+ Vds(Volts) =    
+ 
+    19.2  
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/7_12');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      14 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.12/7_12.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.18/7_18.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q-point value of Vgs(found after interpolation) is :   
+ 
+    1.6  
+ 
+ 
+ Q-point value of Id(found after interpolation) is :   
+ 
+    0.0031  
+ 
+ 
+ Vds(Volts) =    
+ 
+  - 2.02  
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/7_18');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      51 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH7/EX7.18/7_18.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH8/EX8.1/8_1.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ gm(in S) for part a =    
+ 
+    0.0035  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ gm(in S) for part b =    
+ 
+    0.0025714  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ gm(in S) for part c =    
+ 
+    0.0015  
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/8_1');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      51 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH8/EX8.1/8_1.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH8/EX8.3/8_3.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/8_3');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      27 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH8/EX8.3/8_3.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH8/EX8.4/8_4.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/8_4');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      28 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH8/EX8.4/8_4.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.8/9_8.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ Break frequency =    
+ 
+    318.30989  
+ 
+ 
+ 
+av = (1+(f1./f)^2)^(-1/2);//-10*log10
+                  !       
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.8/9_8.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+av = (1+(f1./f)^2)^(-1/2);//-10*log10
+                          !       
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.8/9_8.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/9_8');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.8/9_8.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.9/9_9.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low cutoff frequency is    
+ 
+    6.8706232  
+ 
+ 
+ 
+ 
+av = (1+(f1./f)^2)^(-1/2);
+                  !       
+at line      31 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.9/9_9.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+av = (1+(f1./f)^2)^(-1/2);
+                          !       
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.9/9_9.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/9_9');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.9/9_9.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.10/9_10.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low cutoff frequency is    
+ 
+    5.5910719  
+ 
+ 
+ 
+ 
+av = (1+(f1./f)^2)^(-1/2);
+                  !       
+at line      31 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.10/9_10.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+av = (1+(f1./f)^2)^(-1/2);
+                          !       
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.10/9_10.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/9_10');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.10/9_10.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.11/9_11.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lowest frequency cutoff =    
+ 
+    238.73241  
+ 
+ 
+ midband gain =    
+ 
+  - 2.9971014  
+ 
+ 
+ 
+ 
+av = (1+(f1./f)^2)^(-1/2);
+                  !       
+at line      32 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.11/9_11.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+av = (1+(f1./f)^2)^(-1/2);
+                          !       
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.11/9_11.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+av = -10*log10(1+(f1./f)^2);
+                           !       
+at line      25 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.11/9_11.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+av = -10*log10(1+(f1./f)^2);
+                           !       
+at line      17 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.11/9_11.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/9_11');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.11/9_11.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fhi =    
+ 
+    507814.2  
+ 
+ 
+ fho =    
+ 
+    4273890.  
+ 
+ 
+ fbeta =    
+ 
+    1657173.5  
+ 
+ 
+ ft =    
+ 
+    1.657D+08  
+ 
+ 
+ 
+ 
+ 
+ 
+av = (1+(f1./f)^2)^(-1/2);
+                  !       
+at line      44 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+av = (1+(f1./f)^2)^(-1/2);
+                          !       
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+av = -10*log10(1+(f1./f)^2);
+                           !       
+at line      25 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+av = -10*log10(1+(f1./f)^2);
+                           !       
+at line      17 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+av = (1+(f/f1)^2)^(-1/2);
+                 !       
+at line      16 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+av = (1+(f/f1)^2)^(-1/2);
+                         !       
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/9_13');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      46 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH9/EX9.13/9_13.sce',-1)
+ 
+ERROR: Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH13/EX13.1/13_1.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency =    
+ 
+    634.92063  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/13_1');xend();exit();
+                                                                                                                              !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      25 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronics_Devices_And_Circuit_Theory_R._L._Boylestad_And_L._Nashelsky_69/CH13/EX13.1/13_1.sce',-1)
+ 

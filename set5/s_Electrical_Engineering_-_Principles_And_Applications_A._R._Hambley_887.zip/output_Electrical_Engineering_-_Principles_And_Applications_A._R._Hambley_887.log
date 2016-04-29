@@ -1,0 +1,4027 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 119
+
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH1/EX1.2/1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ ELEMENT A :   
+ 
+ 
+ 
+ 
+ 
+ Power for element A in watts is   
+ 
+    24.  
+ 
+ As a battery, element A is being charged   
+ 
+ 
+ 
+ 
+ ELEMENT B   
+ 
+ 
+ 
+ 
+ 
+ Power for element B in watts is   
+ 
+  - 12.  
+ 
+ As a battery, element B is being discharged   
+ 
+ 
+ 
+ 
+ ELEMENT C   
+ 
+ 
+ 
+ 
+ 
+ Power for element C in watts is   
+ 
+  - 36.  
+ 
+ As a battery, element C is being discharged   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH1/EX1.3/1_3.sce #
+ 
+ 
+ G  =
+ 
+    9200.  
+ 
+ g1  =
+ 
+    9.81  
+ 
+ g2  =
+ 
+    9.805  
+ 
+ 
+ rho  =
+ 
+    937.81855  
+ 
+ G2  =
+ 
+    9195.3109  
+ 
+ 
+Density of Fluid = 937.8 N sec^2/m^4 
+
+ New Specific Weight = 9195 N/m^3 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH1/EX1.4/1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of textbook 
+ 
+ Resistance of copper wire in ohms   
+ 
+    0.0521112  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH1/EX1.5/1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ resistance of heater element in ohms   
+ 
+    9.6  
+ 
+ 
+ operating current in amperes   
+ 
+    12.5  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH1/EX1.6/1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage across resistance in volts   
+ 
+  - 10.  
+ 
+ 
+ current through resistance in amperes   
+ 
+    2.  
+ 
+ 
+ current through source in amperes   
+ 
+  - 2.  
+ 
+ 
+ power for voltage source in watts   
+ 
+  - 20.  
+ 
+ 
+ power for resistance in watts   
+ 
+    20.  
+ 
+ 
+ Results are in agreement with those previously found in the textbook   
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH1/EX1.7/1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Source voltage for given circuit in volts   
+ 
+    35.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equivalent resistance in ohms   
+ 
+    20.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.2/2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FOR SOURCE   
+ 
+ 
+ current in amperes   
+ 
+    3.  
+ 
+ 
+ power in watts   
+ 
+  - 270.  
+ 
+ 
+ FOR R1   
+ 
+ 
+ current in amperes   
+ 
+    3.  
+ 
+ 
+ voltage in volts   
+ 
+    30.  
+ 
+ 
+ power in watts   
+ 
+    90.  
+ 
+ 
+ FOR R2   
+ 
+ 
+ current in amperes   
+ 
+    2.  
+ 
+ 
+ voltage in volts   
+ 
+    60.  
+ 
+ 
+ power in watts   
+ 
+    120.  
+ 
+ 
+ FOR R3   
+ 
+ 
+ current in amperes   
+ 
+    1.  
+ 
+ 
+ voltage in volts   
+ 
+    60.  
+ 
+ 
+ power in watts   
+ 
+    60.  
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage across R_1   
+ 
+    1.5  
+ 
+ 
+ voltage across R_4   
+ 
+    9.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+ voltage across R2 or R3 in volts   
+ 
+    25.  
+ 
+ 
+ source current in amperes   
+ 
+    1.25  
+ 
+ 
+ current through R3 in amperes   
+ 
+    0.4166667  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current through R1 in amperes from resistance method   
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current through R1 in amperes from conductance method   
+ 
+    10.  
+ 
+ 
+ We get the same alue in both methods   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.6/2_6.sce #
+ 
+ 
+ 
+ 
+ At node 1:   
+ 
+ 
+ (V1/R1)+((V1-V2)/R2)+i_s=0   
+ 
+ 
+ At node 2:   
+ 
+ 
+ ((V2-V1)/R2)+(V2/R3)+((V2-V3)/R4)=0   
+ 
+ 
+ At node 3:   
+ 
+ 
+ (V3/R5)+((V3-V2)/R4))=i_s   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.7/2_7.sce #
+ 
+ 
+ 
+ The matrix form is   
+ 
+ 
+ G*V=I   
+ 
+ 
+ where   
+ 
+ 
+ 
+ G=   
+ 
+    0.45  - 0.25    0.   
+  - 0.25    0.85  - 0.2  
+    0.    - 0.2     0.3  
+ 
+ 
+ V=   
+ 
+ 
+ transpose of [V_1,V_2,V_3]   
+ 
+ 
+ and   
+ 
+ 
+ 
+ I=   
+ 
+  - 3.5  
+    3.5  
+    2.   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.8/2_8.sce #
+ 
+ 
+ 
+ 
+ I  =
+ 
+    0.   
+    10.  
+    0.   
+ 
+ 
+ 
+ All the values in the textbook are approximated,hence the values in this code differ from those of textbook 
+ 
+ voltage at node1 in volts   
+ 
+    45.454545  
+ 
+ 
+ voltage at node2 in volts   
+ 
+    72.727273  
+ 
+ 
+ voltage at node3 in volts   
+ 
+    27.272727  
+ 
+ 
+ value of current ix in amperes   
+ 
+    0.9090909  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.9/2_9.sce #
+ 
+ 
+ 
+ 
+ Current equations at node1 and node2:   
+ 
+ 
+ ((V1-V2)/5)+((V1-10)/2)=1   
+ 
+ 
+ (V2/5)+((V2-10)/10)+((V2-V1)/5)=0   
+ 
+ 
+ Writing the above equations in standard form   
+ 
+ 
+ 0.7V1-0.2V2=6   
+ 
+ 
+ -0.2V1+0.5V2=1   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.11/2_11.sce #
+ 
+ 
+ 
+ KCL for a supernode enclosing the conrolled voltage source   
+ 
+ 
+ (V1/R2)+((V1-V3)/R1)+((V2-V3)/R3)=is   
+ 
+ 
+ KCL at node 3   
+ 
+ 
+ (V3/R4)+((V3-V2)/R3)+((V3-V1)/R1)=0   
+ 
+ 
+ KCL at the reference node   
+ 
+ 
+ (V1/R2)+(V3/R4)=is   
+ 
+ 
+ From the d loop with V1,Vx and V3   
+ 
+ 
+ Vx=V3-V1   
+ 
+ 
+ Applying KVL   
+ 
+ 
+ V1=0.5(V3-V1)+V2   
+ 
+ 
+ The last KVL equation along with any two of the first three KCL equations form 
+      s an independent set that can be solved for the node voltages.            
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.12/2_12.sce #
+ 
+ 
+ 
+ 
+ The required equations to solve for mesh currents are:   
+ 
+ 
+ R2(i1-i3)+R3(i1-i2)-VA=0   
+ 
+ 
+ R3(i2-i1)+R4(i2)+VB=0   
+ 
+ 
+ R2(i3-i1)+R1(i3)-VB=0   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.13/2_13.sce #
+ 
+ 
+ 
+ V  =
+ 
+    70.  
+  - 42.  
+    0.   
+ 
+ 
+ 
+ current in mesh1 in amperes, i1=   
+ 
+    4.  
+ 
+ 
+ current in mesh2 in amperes, i2=   
+ 
+    1.  
+ 
+ 
+ current in mesh3 in amperes, i3=   
+ 
+    2.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.14/2_14.sce #
+ 
+ 
+ 
+ 
+ The matrix form is   
+ 
+ 
+ RI=V   
+ 
+ 
+ where the matrices are defined as   
+ 
+ 
+ R=[R2+R4+R5,-R2,-R5;-R2,R1+R2+R3,-R3;-R5,-R3,R3+R5+R6]   
+ 
+ 
+ I=[i1;i2;i3]   
+ 
+ 
+ V=[-VA+VB;VA;-VB]   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.15/2_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of i1 in amperes   
+ 
+    1.  
+ 
+ 
+ Value of i2 in amperes   
+ 
+    2.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.16/2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of textbook 
+ 
+ Thevenin voltage for given circuit in volts   
+ 
+    5.  
+ 
+ 
+ Thevenin voltage for given circuit in ohms   
+ 
+    33.333333  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.17/2_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ short-circuit current in amperes   
+ 
+    6.  
+ 
+ 
+ thevenin resistance in ohms   
+ 
+    4.  
+ 
+ 
+ thevenin voltage in volts   
+ 
+    24.  
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.18/2_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of textbook 
+ 
+ Thevenin voltage in volts   
+ 
+    8.5714286  
+ 
+ 
+ Thevenin resistance in ohms   
+ 
+    1.4285714  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.19/2_19.sce #
+ 
+ 
+ R1  =
+ 
+    20.  
+ 
+ R2  =
+ 
+    15.  
+ 
+ vs  =
+ 
+    15.  
+ 
+ R3  =
+ 
+    5.  
+ 
+ k  =
+ 
+    0.25  
+ 
+ 
+ voc  =
+ 
+    4.6153846  
+ 
+ isc  =
+ 
+    0.75  
+ 
+ Rf  =
+ 
+    6.1538462  
+ 
+ 
+Rf = 6.15 ohms 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.20/2_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ By current source to voltage source transformation:   
+ 
+ 
+ current i1 in amperes   
+ 
+    0.6666667  
+ 
+ 
+ current i2 in amperes   
+ 
+    1.6666667  
+ 
+ 
+ 
+ 
+ i_2  =
+ 
+    1.6666667  
+ 
+ 
+ 
+ By voltage source to current source transformation:   
+ 
+ 
+ current i1 in amperes   
+ 
+    0.6666667  
+ 
+ 
+ current i2 in amperes   
+ 
+    1.6666667  
+ 
+ 
+ In any method we get the same answers.   
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.21/2_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_L_max  =
+ 
+    6.25  
+ 
+ 
+ load resistance for maximum power transfer in ohms   
+ 
+    4.  
+ 
+ 
+ maximum power in watts   
+ 
+    6.25  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.22/2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ VT i.e., voltage across R2 in volts   
+ 
+    11.666667  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH2/EX2.23/2_23.sce #
+ 
+ 
+ 
+ 
+ 
+ case a:   
+ 
+ 
+ 
+ 
+ 
+ Value of Rx in ohms   
+ 
+    7320.  
+ 
+ 
+ 
+ case b:   
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum value of Rx in ohms   
+ 
+    1100000.  
+ 
+ 
+ 
+ case c:   
+ 
+ 
+ 
+ 
+ 
+ 
+ Increment between values of Rx in ohms for the bridge to be balanced   
+ 
+    1000.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ When the dielectric is air, capacitance in pF is   
+ 
+ 
+    1770.  
+ 
+ 
+ 
+ 
+ 
+ 
+ When the dielectric is mica, capacitance in pF is   
+ 
+ 
+    12390.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total energy stored by both the capacitors before switch is d in mJ   
+ 
+    5.  
+ 
+ 
+ Total energy stored by both the capacitors after switch is d in mJ   
+ 
+    2.5  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current ix in amperes   
+ 
+    1.  
+ 
+ 
+ voltage Vx in volts   
+ 
+    5.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Both current and voltage are 0 for t<0   
+ 
+ 
+    
+ 
+ 
+ And for t>0:   
+ 
+ 
+ The expression for the current is i(t)=(Vs/R1)*e^(-t/T)   
+ 
+ 
+ The expression for the volatge is V(t)=-(L*Vs*e^(-t/T))/(R1*T)   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.3/5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Peak value of resultant voltage in volts   
+ 
+    29.771972  
+ 
+ 
+ phase of resulting voltage in degrees   
+ 
+  - 40.012765  
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.6/5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ peak value of V1 in volts   
+ 
+    16.124515  
+ 
+ 
+ phase angle of V1 in degrees   
+ 
+    29.744881  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.7/5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ power delivered by source in watts   
+ 
+    0.4999245  
+ 
+ 
+ reactive power delivered by source in VARs   
+ 
+    0.4999245  
+ 
+ 
+ 
+ Using complex power method:   
+ 
+ 
+ 
+ 
+ 
+ power delivered by source in watts   
+ 
+    0.4999245  
+ 
+ 
+ reactive power delivered by source in VARs   
+ 
+    0.4999245  
+ 
+ 
+ we see that, in both the methods answers are the same   
+ 
+ 
+ 
+ 
+ 
+ reactive power delivered to inductance in VARs   
+ 
+    0.999698  
+ 
+ 
+ reactive power delivered to capacitance in VARs   
+ 
+  - 0.5  
+ 
+ 
+ power delivered to resistance in watts   
+ 
+    0.5  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.8/5_8.sce #
+ 
+ 
+ 
+ 
+ Vrms  =
+ 
+    100.  
+ 
+ Irms  =
+ 
+    100.  
+ 
+ pf  =
+ 
+    0.5  
+ 
+ pf1  =
+ 
+    0.7  
+ 
+ r  =
+ 
+    1.41  
+ 
+ 
+ PA  =
+ 
+    5000.  
+ 
+ QA  =
+ 
+  - 8.660254  
+ 
+ a  =
+ 
+    45.572996  
+ 
+ QB  =
+ 
+    5.1010203  
+ 
+ P  =
+ 
+    10.  
+ 
+ Q  =
+ 
+  - 3.5592337  
+ 
+ o  =
+ 
+  - 19.591833  
+ 
+ pf2  =
+ 
+    0.9421053  
+ 
+ A  =
+ 
+    49.588167  
+ 
+ S  =
+ 
+    10.614525  
+ 
+ I  =
+ 
+    14.966481  
+ 
+ 
+Phasor Current = 15 A 
+
+ Angle = 49.59 degrees 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.9/5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Required capacitance in micro-farads   
+ 
+    1.1260361  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.10/5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ FOR THEVENIN CIRCUIT:   
+ 
+ 
+ thevenin voltage   
+ 
+ 
+ peak value of voltage in volts   
+ 
+    100.  
+ 
+ 
+ 
+ phase angle in degrees   
+ 
+    90.  
+ 
+ 
+ thevenin resistance   
+ 
+ 
+ peak value of resistance in ohms   
+ 
+    70.710678  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 45.  
+ 
+ 
+ FOR NORTON CIRCUIT:   
+ 
+ 
+ norton current   
+ 
+ 
+ peak value of norton current in amperes   
+ 
+    1.4142136  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 45.  
+ 
+ 
+ resistance   
+ 
+ 
+ peak value of resistance in ohms   
+ 
+    70.710678  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 45.  
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.11/5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ 
+ FOR ANY COMPLEX LOAD   
+ 
+ 
+ 
+ 
+ 
+ 
+ required complex load impedance   
+ 
+    49.99952 + 49.99952i  
+ 
+ 
+ power delivered to load in watts   
+ 
+    25.00024  
+ 
+ 
+ 
+ FOR PURE RESISTIVE LOAD   
+ 
+ 
+ 
+ 
+ 
+ 
+ required pure resistive load   
+ 
+    70.71  
+ 
+ 
+ power delivered to load   
+ 
+    20.710877  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.13/5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ LINE CURRENTS   
+ 
+ 
+ IaA=   
+ 
+    53.166811 - 12.388383i  
+ 
+ 
+ IbB=   
+ 
+  - 37.31206 - 39.849617i  
+ 
+ 
+ IcC=   
+ 
+  - 15.854751 + 52.238i  
+ 
+ 
+ LINE-LINE VOLTAGES   
+ 
+ 
+ VAB=   
+ 
+    849.86624 + 455.57008i  
+ 
+ 
+ VBB=   
+ 
+  - 30.397854 - 963.79079i  
+ 
+ 
+ VCC=   
+ 
+  - 819.46838 + 508.22071i  
+ 
+ 
+ power delivered to load in watts   
+ 
+    44702.727  
+ 
+ 
+ total power dissipated in the line   
+ 
+    1341.0818  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.14/5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ real power supplied by V1 in watts   
+ 
+    115371.15  
+ 
+ 
+ reactive power supplied by V1 in VARs   
+ 
+  - 45245.885  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH6/EX6.1/6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ peak value of Vout in volts   
+ 
+    6.  
+ 
+ 
+ phase angle of Vout in degrees   
+ 
+    70.  
+ 
+ 
+ with frequency equal to   
+ 
+    1000.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Output voltage is Vout1+Vout2+Vout3 where   
+ 
+ 
+    
+ 
+ 
+ FOR Vout1:   
+ 
+ 
+ peak value in volts   
+ 
+    12.  
+ 
+ 
+ phase angle in degrees   
+ 
+    0.  
+ 
+ 
+ with frequency in hertz   
+ 
+    0.  
+ 
+ 
+    
+ 
+ 
+ FOR Vout2:   
+ 
+ 
+ peak value in volts   
+ 
+    6.  
+ 
+ 
+ phase angle in degrees   
+ 
+    30.  
+ 
+ 
+ with frequency in hertz   
+ 
+    1000.  
+ 
+ 
+    
+ 
+ 
+ FOR Vout3:   
+ 
+ 
+ peak value in volts   
+ 
+    2.  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 10.  
+ 
+ 
+ with frequency in hertz   
+ 
+    2000.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH6/EX6.3/6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+ Output voltage is Vout1+Vout2+Vout3 where   
+ 
+ 
+    
+ 
+ 
+ FOR Vout1:   
+ 
+ 
+ peak value in volts   
+ 
+    4.975186  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 5.7105931  
+ 
+ 
+ with frequency in hertz   
+ 
+    10.  
+ 
+ 
+    
+ 
+ 
+ FOR Vout2:   
+ 
+ 
+ peak value in volts   
+ 
+    3.5355339  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 45.  
+ 
+ 
+ with frequency in hertz   
+ 
+    100.  
+ 
+ 
+    
+ 
+ 
+ FOR Vout3:   
+ 
+ 
+ peak value in volts   
+ 
+    0.4975186  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 84.289407  
+ 
+ 
+ with frequency in hertz   
+ 
+    1000.  
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH6/EX6.4/6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+ Break frequency in Hz   
+ 
+    1897.3666  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH6/EX6.5/6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_L_phi  =
+ 
+    1.5707963  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_C_phi  =
+ 
+  - 1.5707963  
+ 
+ 
+ 
+ Phasor voltage across Resistance   
+ 
+ 
+ peak value in volts   
+ 
+    1.  
+ 
+ 
+ phase angle in degrees   
+ 
+    0.  
+ 
+ 
+    
+ 
+ 
+ Phasor voltage across Inductance   
+ 
+ 
+ peak value in volts   
+ 
+    10.  
+ 
+ 
+ phase angle in degrees   
+ 
+    90.  
+ 
+ 
+    
+ 
+ 
+ Phasor voltage across Capacitance   
+ 
+ 
+ peak value in volts   
+ 
+    10.  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 90.  
+ 
+ 
+ Phasor diagram cannot be drawn here   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH6/EX6.6/6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_L_phi  =
+ 
+  - 1.5707963  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_C_phi  =
+ 
+    1.5707963  
+ 
+ 
+ 
+ Current phasor across Resistance   
+ 
+ 
+ peak value in amperes   
+ 
+    0.001  
+ 
+ 
+ phase angle in degrees   
+ 
+    0.  
+ 
+ 
+    
+ 
+ 
+ Current phasor across Inductance   
+ 
+ 
+ peak value in amperes   
+ 
+    0.01  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 90.  
+ 
+ 
+    
+ 
+ 
+ current phasor across capacitance   
+ 
+ 
+ peak value in amperes   
+ 
+    0.01  
+ 
+ 
+ phase angle in degrees   
+ 
+    90.  
+ 
+ 
+ Phasor diagram cannot be drawn here   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH6/EX6.7/6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+    
+ 
+ 
+ The required second order circuit configuration is   
+ 
+ 
+ Inductance in KH   
+ 
+    50.  
+ 
+ 
+ Capacitance in mF(micro Farads)   
+ 
+    0.5066059  
+ 
+ 
+ Resistance in ohms   
+ 
+    314.15927  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH7/EX7.1/7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Binary equivalent of 343 is   
+ 
+ 101010111   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH7/EX7.2/7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Binary form of 0.392 is   
+ 
+    0.011001  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH7/EX7.3/7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ binary form of 343.392   
+ 
+ 101010111.011001   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH7/EX7.4/7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ The result of addition of given two binary numbers is   
+ 
+ 
+ 10101.010   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH7/EX7.5/7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ The binary representation of 317.2(octal) is    
+ 
+ 
+ 011001111.010   
+ 
+ 
+    
+ 
+ 
+ 
+ The binary representation of F3A.2(hexadecimal) is    
+ 
+ 
+ 111100111010.0010   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH7/EX7.6/7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The octal representation of 11110110.1(binary) is 366.4   
+ 
+ 
+ 
+ 
+ The hexadecimal representation of 11110110.1(binary) is F6.8   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH9/EX9.1/9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum value of Rin required in Kilo-ohms   
+ 
+    9985.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH10/EX10.5/10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ correct assumption is D2 off and D1 on   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH10/EX10.7/10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current in the circuit in milli-amperes   
+ 
+    80.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.1/11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+ Voltage gain Av   
+ 
+    8000.  
+ 
+ 
+ Voltage gain Avs   
+ 
+    5333.3333  
+ 
+ 
+ Current gain   
+ 
+    2.000D+09  
+ 
+ 
+ Power gain   
+ 
+    1.600D+13  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.2/11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current gain of first stage   
+ 
+    100000.  
+ 
+ 
+ Current gain of second stage   
+ 
+    750.  
+ 
+ 
+ Voltage gain of first stage   
+ 
+    150.  
+ 
+ 
+ Voltage gain of second stage   
+ 
+    50.  
+ 
+ 
+ Power gain of first stage   
+ 
+    15000000.  
+ 
+ 
+ Power gain of second stage   
+ 
+    37500.  
+ 
+ 
+ Overall power gain   
+ 
+    5.625D+11  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.3/11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hence the simplified model for the cascade is with an:   
+ 
+ 
+ Input resistance in ohms   
+ 
+    1000000.  
+ 
+ 
+ Input resistance in ohms   
+ 
+    100.  
+ 
+ 
+ Overall open-circuit voltage gain   
+ 
+    15000.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.4/11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+ Input power in picowatts   
+ 
+    10.  
+ 
+ 
+ Output power in watts   
+ 
+    8.  
+ 
+ 
+ Supply power in watts   
+ 
+    22.5  
+ 
+ 
+ Dissipated power in watts   
+ 
+    14.5  
+ 
+ 
+ Efficiency of the amplifier   
+ 
+    35.555556  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.5/11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The resulting current-amplifier is with an:   
+ 
+ 
+ 
+ input resitance in ohms   
+ 
+    1000.  
+ 
+ 
+ output resistance in ohms   
+ 
+    100.  
+ 
+ 
+ and a short-cut current gain of:   
+ 
+    1000.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.6/11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The resulting transconductance model is with an:   
+ 
+ 
+ 
+ input resitance in ohms   
+ 
+    1000.  
+ 
+ 
+ output resistance in ohms   
+ 
+    100.  
+ 
+ 
+ and transconductance in siemens   
+ 
+    1.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.7/11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The resulting transconductance model is with an:   
+ 
+ 
+ 
+ input resitance in ohms   
+ 
+    1000.  
+ 
+ 
+ output resistance in ohms   
+ 
+    100.  
+ 
+ 
+ and transresistance in ohms   
+ 
+    100000.  
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.8/11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ A_v_max  =
+ 
+    100.  
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+ The complex voltage gain is with   
+ 
+ 
+ a peak value of   
+ 
+    100.  
+ 
+ 
+ a phase angle in degrees   
+ 
+    0.7853982  
+ 
+ 
+ and the decibel gain is   
+ 
+    40.000088  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.11/11_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated, hence the values in this code differ from those of Textbook 
+ 
+ The minimum CMRR is   
+ 
+    140.00031  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.12/11_12.sce #
+ 
+ 
+ Rin  =
+ 
+    1.  
+ 
+ Rs1  =
+ 
+    100.  
+ 
+ Rs2  =
+ 
+    100.  
+ 
+ Ioff  =
+ 
+    84.  
+ 
+ Voff  =
+ 
+    5.  
+ 
+ 
+ Vioff  =
+ 
+    7.  
+ 
+ Vvoff  =
+ 
+    4.1666667  
+ 
+ 
+Vioff = 7 mV  
+
+ Vvoff = 4.17 mV  
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH12/EX12.1/12_1.sce #
+ 
+ 
+ K  =
+ 
+    2.  
+ 
+ VGS1  =
+ 
+    5.  
+ 
+ VGS2  =
+ 
+    4.  
+ 
+ VGS3  =
+ 
+    3.  
+ 
+ VGS4  =
+ 
+    2.  
+ 
+ 
+ id1  =
+ 
+    18.  
+ 
+ id2  =
+ 
+    8.  
+ 
+ id3  =
+ 
+    2.  
+ 
+ id4  =
+ 
+    0.  
+ 
+ 
+iD = 18 V  
+
+ iD = 8 V  
+
+ iD = 2 V  
+
+ iD = 0 V  
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH12/EX12.2/12_2.sce #
+ 
+ 
+ KP  =
+ 
+    50.  
+ 
+ Vto  =
+ 
+    2.  
+ 
+ L  =
+ 
+    10.  
+ 
+ W  =
+ 
+    400.  
+ 
+ Vdd  =
+ 
+    20.  
+ 
+ R2  =
+ 
+    1.  
+ 
+ R1  =
+ 
+    3.  
+ 
+ Rd  =
+ 
+    11.5  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ V  =
+ 
+    4.  
+ 
+ 
+ K  =
+ 
+    1.  
+ 
+ Vg  =
+ 
+    5.  
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+    2.885619   
+    0.7443810  
+ 
+ VGSQ  =
+ 
+    0.7443810  
+ 
+ IDQ  =
+ 
+    1.576579  
+ 
+ VDSQ  =
+ 
+    14.292762  
+ 
+ 
+VDSQ = 14.3 V  
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH12/EX12.3/12_3.sce #
+ 
+ 
+ VGSQ  =
+ 
+    3.5  
+ 
+ VDSQ  =
+ 
+    10.  
+ 
+ id1  =
+ 
+    10.7  
+ 
+ id2  =
+ 
+    4.7  
+ 
+ dvgs  =
+ 
+    1.  
+ 
+ id3  =
+ 
+    8.  
+ 
+ id4  =
+ 
+    6.7  
+ 
+ vds1  =
+ 
+    14.  
+ 
+ vds2  =
+ 
+    4.  
+ 
+ 
+ gm  =
+ 
+    6.  
+ 
+ rd  =
+ 
+    7692.3077  
+ 
+ 
+rd = 7.7e+03 ohms 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH12/EX12.5/12_5.sce #
+ 
+ 
+ RL  =
+ 
+    1.  
+ 
+ R1  =
+ 
+    2.  
+ 
+ R2  =
+ 
+    2.  
+ 
+ KP  =
+ 
+    50.  
+ 
+ L  =
+ 
+    2.  
+ 
+ W  =
+ 
+    160.  
+ 
+ Vto  =
+ 
+    1.  
+ 
+ IDQ  =
+ 
+    10.  
+ 
+ VG  =
+ 
+    7.5  
+ 
+ 
+ K  =
+ 
+    2.  
+ 
+ VGSQ  =
+ 
+    3.236068  
+ 
+ VS  =
+ 
+    4.263932  
+ 
+ RS  =
+ 
+    426.3932  
+ 
+ gm  =
+ 
+    8.9442719  
+ 
+ RL1  =
+ 
+    298.93104  
+ 
+ Av  =
+ 
+    0.7277964  
+ 
+ Rin  =
+ 
+    1.  
+ 
+ Ro  =
+ 
+    88.577685  
+ 
+ Ai  =
+ 
+    0.7277964  
+ 
+ G  =
+ 
+    529.68758  
+ 
+ 
+G = 529.7  
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.1/13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of beta B is   
+ 
+    100.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.2/13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ graphs cannot be shown but the required values are   
+ 
+ 
+ maximum value of V_CE   
+ 
+    7.  
+ 
+ 
+ minimum value of V_CE   
+ 
+    3.  
+ 
+ 
+ Q-point value of V_CE   
+ 
+    5.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.4/13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ collector current in amperes   
+ 
+    0.00715  
+ 
+ collector to emitter voltage in volts   
+ 
+    7.85  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.5/13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ collector current in amperes   
+ 
+    0.0148  
+ 
+ collector to emitter voltage in volts   
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.6/13_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are Approximated hence the values in this code differ from those of Textbook 
+ 
+ 
+ 
+ For beta B=100:   
+ 
+ 
+ 
+ 
+ 
+ 
+ collector current in amperes   
+ 
+    0.0021287  
+ 
+ 
+ collector to emitter voltage in volts   
+ 
+    6.4425743  
+ 
+ 
+ 
+ 
+ For beta B=300:   
+ 
+ 
+ 
+ 
+ 
+ 
+ collector current in amperes   
+ 
+    0.0021429  
+ 
+ 
+ collector to emitter voltage in volts   
+ 
+    6.4142857  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.7/13_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are Approximated hence the values in this code differ from those of Textbook 
+ 
+ 
+ 
+ For beta B=100:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ collector current in amperes   
+ 
+    0.0041214  
+ 
+ 
+ collector to emitter voltage in volts   
+ 
+    6.7159744  
+ 
+ 
+ 
+ 
+ For beta B=300:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ collector current in amperes   
+ 
+    0.0042388  
+ 
+ 
+ collector to emitter voltage in volts   
+ 
+    6.5083242  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.9/13_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ i_B_Q  =
+ 
+    0.0000206  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are Approximated hence the values in this code differ from those of Textbook 
+ 
+ voltage gain   
+ 
+    0.9906578  
+ 
+ 
+ input impedance in ohms   
+ 
+    36505.718  
+ 
+ 
+ current gain   
+ 
+    36.164676  
+ 
+ 
+ power gain   
+ 
+    35.826819  
+ 
+ 
+ output impedance in ohms   
+ 
+    46.632942  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH14/EX14.5/14_5.sce #
+ 
+ 
+ ADOL  =
+ 
+    100000.  
+ 
+ ADOL1  =
+ 
+    10.  
+ 
+ dc  =
+ 
+    20.  
+ 
+ dc1  =
+ 
+    10.  
+ 
+ f  =
+ 
+    40.  
+ 
+ 
+ ADOL2  =
+ 
+    230.25851  
+ 
+ ADOL3  =
+ 
+    20.  
+ 
+ f1  =
+ 
+    400.  
+ 
+ 
+A0CL = 20 dB  
+
+ frequency = 400 kHz  
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH14/EX14.6/14_6.sce #
+ 
+ 
+ SR  =
+ 
+    0.5  
+ 
+ Vcon  =
+ 
+    12.  
+ 
+ 
+ f  =
+ 
+    6.631456  
+ 
+ 
+full power = 6.63 kHz  
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH14/EX14.7/14_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum output voltage in milli-volts   
+ 
+    34.  
+ 
+ 
+ Minimum output voltage in milli-volts   
+ 
+  - 24.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.3/15_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ In the below two values,i represents sin(200*%pi*t)   
+ 
+ 
+ flux in webers   
+ 
+    0.0025133i  
+ 
+ 
+ flux linkages in weber turns   
+ 
+    0.2513274i  
+ 
+ 
+ 
+ In the below answer, i represents cos(200*%pi*t)   
+ 
+ 
+ Voltage induced in the coil in volts   
+ 
+    157.91367i  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.5/15_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Current value in amperes   
+ 
+    2.0121633  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.6/15_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ flux density in gap a in tesla   
+ 
+    0.1123774  
+ 
+ 
+ flux density in gap b in tesla   
+ 
+    0.2192115  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.7/15_7.sce #
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Inductance of the given coil in milli-henry   
+ 
+    54.347826  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.8/15_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ self-inductance of coil 1 in milli henry   
+ 
+    1.  
+ 
+ 
+ self-inductance of coil 2 in milli henry   
+ 
+    4.  
+ 
+ 
+ mutual inductance of the coils in milli henry   
+ 
+    2.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.9/15_9.sce #
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ The required turns ratio N1/N2=   
+ 
+ 
+    21.363636  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.10/15_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPEN switch   
+ 
+ 
+ Primary voltage in volts   
+ 
+    110.  
+ 
+ 
+ Secondary voltage in volts   
+ 
+    22.  
+ 
+ 
+ 
+ Current in primary winding in amperes   
+ 
+    0.  
+ 
+ 
+ Current in secondary winding in amperes   
+ 
+    0.  
+ 
+ 
+ 
+ CLOSED switch   
+ 
+ 
+ 
+ 
+ Primary voltage in volts   
+ 
+    110.  
+ 
+ 
+ Secondary voltage in volts   
+ 
+    22.  
+ 
+ 
+ Current in primary winding in amperes   
+ 
+    0.44  
+ 
+ 
+ Current in secondary winding in amperes   
+ 
+    2.2  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.11/15_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ 
+ PRIMARY CURRENT:   
+ 
+ 
+ peak value in amperes   
+ 
+    0.3535534  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 45.  
+ 
+ 
+ PRIMARY VOLTAGE:   
+ 
+ 
+ peak value in amperes   
+ 
+    790.56942  
+ 
+ 
+ phase angle in degrees   
+ 
+    18.434949  
+ 
+ 
+ SECONDARY CURRENT   
+ 
+ 
+ peak value in amperes   
+ 
+    3.5355339  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 45.  
+ 
+ 
+ SECONDARY VOLTAGE   
+ 
+ 
+ peak value in amperes   
+ 
+    79.056942  
+ 
+ 
+ phase angle in degrees   
+ 
+    18.434949  
+ 
+ 
+ power delivered to load in watts   
+ 
+    62.5  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.12/15_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reflected voltage:   
+ 
+ 
+ Peak value in volts   
+ 
+    100.  
+ 
+ 
+ phase angle in degrees   
+ 
+    0  
+ 
+ 
+ Reflected resistance in ohms   
+ 
+    10.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH15/EX15.13/15_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent regulation   
+ 
+    4.5090727  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH16/EX16.1/16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Power loss with full-load in watts   
+ 
+    312.19089  
+ 
+ 
+ Efficiency with full-load   
+ 
+    92.276691  
+ 
+ 
+ Input power with no-load in watts   
+ 
+    274.35685  
+ 
+ 
+ speed regulation percentage for the motor   
+ 
+    3.9130435  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH16/EX16.2/16_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ CASE a:   
+ 
+ 
+ initial current in amperes   
+ 
+    40.  
+ 
+ 
+ initial force on the bar in newtons   
+ 
+    12.  
+ 
+ 
+ steady-state final speed in m/s   
+ 
+    6.6666667  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASE b:   
+ 
+ 
+ steady-state speed in m/s   
+ 
+    4.4444444  
+ 
+ 
+ power delivered by V_t in watts   
+ 
+    26.666667  
+ 
+ 
+ power delivered to mechanical load in watts   
+ 
+    17.777778  
+ 
+ 
+ power lost to heat in the resistance in watts   
+ 
+    8.8888889  
+ 
+ 
+ effciency of converting electrical power to mechanical power   
+ 
+    66.666667  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASE c:   
+ 
+ 
+ steady-state speed in m/s   
+ 
+    7.7777778  
+ 
+ 
+ power taken from mechanical source in watts   
+ 
+    15.555556  
+ 
+ 
+ power delivered to the battery in watts   
+ 
+    13.333333  
+ 
+ 
+ power lost to heat in the resistance   
+ 
+    2.2222222  
+ 
+ 
+ efficiency of converting mechanical power to electrical power   
+ 
+    85.714286  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH16/EX16.3/16_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Voltage applied to field circuit in volts   
+ 
+    125.  
+ 
+ 
+ Voltage applied to armature in volts   
+ 
+    105.66667  
+ 
+ 
+ Developed torque in Nm   
+ 
+    34.6162  
+ 
+ 
+ Developed power in watts   
+ 
+    2900.  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH16/EX16.4/16_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Motor speed in rpm   
+ 
+    995.87319  
+ 
+ 
+ Efficiency of the motor   
+ 
+    85.283682  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH16/EX16.5/16_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Output power for load torque=12 in watts   
+ 
+    1507.9645  
+ 
+ 
+ speed for torque=24 in rpm   
+ 
+    848.52814  
+ 
+ 
+ Output power for load torque=24 in watts   
+ 
+    2132.5838  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH16/EX16.6/16_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Field current in amperes   
+ 
+    10.  
+ 
+ 
+ no-load voltage in volts   
+ 
+    233.33333  
+ 
+ 
+ full-load voltage in volts   
+ 
+    220.33333  
+ 
+ 
+ percentage voltage regulation   
+ 
+    5.9001513  
+ 
+ 
+ input torque in Nm   
+ 
+    495.06549  
+ 
+ 
+ developed torque   
+ 
+    445.63384  
+ 
+ 
+ all types of power losses combined in watts   
+ 
+    5176.4706  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH17/EX17.1/17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Power factor   
+ 
+    0.8863121  
+ 
+ 
+ line current in amperes   
+ 
+    37.577941  
+ 
+ 
+ output power in watts   
+ 
+    22077.257  
+ 
+ 
+ output torque in Nm   
+ 
+    120.74586  
+ 
+ 
+ efficiency percentage is   
+ 
+    86.978549  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH17/EX17.3/17_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ Power crossing the air gap in watts   
+ 
+    8708.0758  
+ 
+ 
+ developed power in watts   
+ 
+    8558.0758  
+ 
+ 
+ output power in watts   
+ 
+    8058.0758  
+ 
+ 
+ effciency percentage   
+ 
+    88.471769  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH17/EX17.4/17_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ CASE a:   
+ 
+ 
+ speed in rpm   
+ 
+    900.  
+ 
+ 
+ developed torque in Nm   
+ 
+    395.76529  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASE b:   
+ 
+ 
+ Phase current:   
+ 
+ 
+ peak value in amperes   
+ 
+    28.780864  
+ 
+ 
+ phase angle in degrees   
+ 
+    25.841933  
+ 
+ 
+ Voltage induced by rotor:   
+ 
+ 
+ peak value in volts   
+ 
+    498.88316  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 4.1685149  
+ 
+ 
+ torque angle in degrees   
+ 
+    4.1685149  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASE c:   
+ 
+ 
+ Phase current:   
+ 
+ 
+ peak value in amperes   
+ 
+    52.706228  
+ 
+ 
+ phase angle in degrees   
+ 
+    10.60744  
+ 
+ 
+ Voltage induced by rotor:   
+ 
+ 
+ peak value in volts   
+ 
+    498.88316  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 8.3593014  
+ 
+ 
+ torque angle in degrees   
+ 
+    8.3593014  
+ 
+ 
+ power factor is   
+ 
+    0.9829115  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH17/EX17.5/17_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ The new field current to achieve 100% power factor in amperes   
+ 
+    12.048074  
+ 
+ 

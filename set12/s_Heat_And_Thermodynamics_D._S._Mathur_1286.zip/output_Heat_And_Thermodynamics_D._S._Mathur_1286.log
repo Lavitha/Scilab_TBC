@@ -1,0 +1,5976 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 162
+
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.1/1_1.sce #
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ t  =
+ 
+    160.  
+ 
+ 
+ Temperature of the fahrenheit scale=  160.000000 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.2/1_2.sce #
+ 
+ 
+ n  =
+ 
+    0.001  
+ 
+ T  =
+ 
+    60.  
+ 
+ T1  =
+ 
+    100.  
+ 
+ 
+ r  =
+ 
+    56.4  
+ 
+ r1  =
+ 
+    90.  
+ 
+ tl  =
+ 
+    62.666667  
+ 
+ 
+ liquid temperature=  62.666667 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.3/1_3.sce #
+ 
+ 
+ p  =
+ 
+    1.  
+ 
+ p0  =
+ 
+    0.8  
+ 
+ p100  =
+ 
+    1.093  
+ 
+ 
+ t  =
+ 
+    68.259386  
+ 
+ 
+ temperature of hot water=  68.259386 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.4/1_4.sce #
+ 
+ 
+ p0  =
+ 
+    0.7  
+ 
+ LC  =
+ 
+    0.1  
+ 
+ t  =
+ 
+    100.  
+ 
+ 
+ p100  =
+ 
+    0.9564103  
+ 
+ T  =
+ 
+    0.39  
+ 
+ 
+ accuracy we can expect=  0.390000 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.5/1_5.sce #
+ 
+ 
+ t  =
+ 
+    80.  
+ 
+ tp  =
+ 
+    80.2  
+ 
+ T  =
+ 
+    120.  
+ 
+ 
+ s  =
+ 
+    1.25  
+ 
+ Tp  =
+ 
+    119.8  
+ 
+ 
+ temperature=  119.800000 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.6/1_6.sce #
+ 
+ 
+ R100  =
+ 
+    5.93  
+ 
+ Ro  =
+ 
+    5.  
+ 
+ P100  =
+ 
+    1.366  
+ 
+ Po  =
+ 
+    1.  
+ 
+ Pt  =
+ 
+    1.3111  
+ 
+ Rt  =
+ 
+    5.795  
+ 
+ 
+ tp  =
+ 
+    85.483871  
+ 
+ t  =
+ 
+    85.  
+ 
+ 
+ thermal on platinum scale=  85.483871 C 
+ thermal on gas scale=  85.000000 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.7/1_7.sce #
+ 
+ 
+ Rt  =
+ 
+    13.3  
+ 
+ R100  =
+ 
+    7.  
+ 
+ R0  =
+ 
+    5.  
+ 
+ t  =
+ 
+    444.6  
+ 
+ RT  =
+ 
+    9.1  
+ 
+ 
+ tp  =
+ 
+    415.  
+ 
+ Tp  =
+ 
+    205.  
+ 
+ s  =
+ 
+    1.9319994  
+ 
+ T  =
+ 
+    209.15863  
+ 
+ Ts  =
+ 
+    209.41104  
+ 
+ 
+ platinum temperature of bath=  209.158629 C 
+ gas temperature of bath=  209.411038 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.8/1_8.sce #
+ 
+ 
+ et  =
+ 
+    3.92  
+ 
+ e100  =
+ 
+    0.65  
+ 
+ e0  =
+ 
+    0.  
+ 
+ e  =
+ 
+    2.  
+ 
+ lp  =
+ 
+    1000.  
+ 
+ ld  =
+ 
+    50.2  
+ 
+ rp  =
+ 
+    0.01  
+ 
+ rs  =
+ 
+    2500.  
+ 
+ j  =
+ 
+    0.000005  
+ 
+ 
+ i  =
+ 
+    0.0007968  
+ 
+ p  =
+ 
+    0.0000797  
+ 
+ p1  =
+ 
+    0.004  
+ 
+ T  =
+ 
+    800.  
+ 
+ t  =
+ 
+    603.07692  
+ 
+ 
+ temperature=  603.076923 C 
+ 
+ temperature=  800.000000 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.9/1_9.sce #
+ 
+ 
+ ht  =
+ 
+    65.  
+ 
+ h0  =
+ 
+  - 5.  
+ 
+ t  =
+ 
+    273.  
+ 
+ 
+ h100  =
+ 
+    20.641026  
+ 
+ l  =
+ 
+    2.  
+ 
+ H  =
+ 
+    75.  
+ 
+ temperature=  75.000000 cm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH1/EX1.10/1_10.sce #
+ 
+ 
+ T1  =
+ 
+    25.  
+ 
+ T2  =
+ 
+    15.  
+ 
+ r  =
+ 
+    1.035  
+ 
+ 
+ s  =
+ 
+    0.0036939  
+ 
+ t  =
+ 
+  - 270.71429  
+ 
+ 
+ absolute zero= -270.714286 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.5/2_5.sce #
+ 
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    20.  
+ 
+ g  =
+ 
+    0.000011  
+ 
+ h  =
+ 
+    0.000019  
+ 
+ l  =
+ 
+    41.628  
+ 
+ 
+ l20  =
+ 
+    41.643819  
+ 
+ l0  =
+ 
+    41.634659  
+ 
+ 
+ true length of rod at 20 c=  41.643819 C 
+ true length of rod at 0 c=  41.634659 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.6/2_6.sce #
+ 
+ 
+ l  =
+ 
+    3.  
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    40.  
+ 
+ f  =
+ 
+    0.000012  
+ 
+ b  =
+ 
+    0.000018  
+ 
+ y  =
+ 
+    2.100D+11  
+ 
+ a  =
+ 
+    0.0000003  
+ 
+ 
+ lb40  =
+ 
+    3.00216  
+ 
+ lf40  =
+ 
+    3.00144  
+ 
+ dl  =
+ 
+    0.00072  
+ 
+ F  =
+ 
+    0.1424304  
+ 
+ 
+ extra tension of the wire=  0.142430 newton 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.7/2_7.sce #
+ 
+ 
+ l20  =
+ 
+    0.1  
+ 
+ l1  =
+ 
+    0.0999  
+ 
+ s  =
+ 
+    0.000011  
+ 
+ t1  =
+ 
+    20.  
+ 
+ 
+ t  =
+ 
+  - 70.909091  
+ 
+ 
+ temperature the rod must be reduced is= -70.909091 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.8/2_8.sce #
+ 
+ 
+ s  =
+ 
+    0.000019  
+ 
+ t1  =
+ 
+    15.  
+ 
+ t2  =
+ 
+    20.  
+ 
+ 
+ g  =
+ 
+    1.0000475  
+ 
+ h  =
+ 
+    0.0000475  
+ 
+ d  =
+ 
+    4.1039025  
+ 
+ 
+ per day difference=  4.103903 sec 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.9/2_9.sce #
+ 
+ 
+ e  =
+ 
+    0.0000006  
+ 
+ p  =
+ 
+    25.  
+ 
+ l  =
+ 
+    0.015  
+ 
+ t2  =
+ 
+    40.  
+ 
+ t1  =
+ 
+    0.  
+ 
+ sx  =
+ 
+    0.0000013  
+ 
+ sy  =
+ 
+    0.0000231  
+ 
+ sz  =
+ 
+    0.0000231  
+ 
+ 
+ s  =
+ 
+    0.0000125  
+ 
+ y  =
+ 
+    0.0000475  
+ 
+ 
+ alpha of crystal=  0.000012 1/C 
+ coefficient of cubical expansion=  0.000048 1/C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.10/2_10.sce #
+ 
+ 
+ ym  =
+ 
+    0.00018  
+ 
+ yg  =
+ 
+    0.000025  
+ 
+ 
+ s  =
+ 
+    0.1388889  
+ 
+ 
+ volume of vessel to be filled=  0.138889 1/C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.12/2_12.sce #
+ 
+ 
+ l  =
+ 
+    1.  
+ 
+ ld1  =
+ 
+    0.7  
+ 
+ ld2  =
+ 
+    0.78  
+ 
+ d1  =
+ 
+    0.  
+ 
+ d2  =
+ 
+    30.  
+ 
+ vd1  =
+ 
+    0.3  
+ 
+ vd2  =
+ 
+    0.3245002  
+ 
+ 
+ H  =
+ 
+    1.7595844  
+ 
+ 
+ atmospheric pressure=  1.759584 m 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.13/2_13.sce #
+ 
+ 
+ r  =
+ 
+    0.9661836  
+ 
+ t1  =
+ 
+    15.  
+ 
+ t2  =
+ 
+    25.  
+ 
+ 
+ x  =
+ 
+  - 270.71429  
+ 
+ 
+ absolute zero on celsius scale for this gas= -270.714286 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.14/2_14.sce #
+ 
+ 
+ p  =
+ 
+    0.76  
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    273.  
+ 
+ T2  =
+ 
+    373.  
+ 
+ 
+ p  =
+ 
+    0.8776471  
+ 
+ 
+ pressure of the gas=  0.877647 m 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH2/EX2.15/2_15.sce #
+ 
+ 
+ s  =
+ 
+    0.00018  
+ 
+ dt  =
+ 
+    1.  
+ 
+ 
+ p  =
+ 
+    0.018  
+ 
+ 
+ percentage change=  0.018000 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.2/3_2.sce #
+ 
+ 
+ cag  =
+ 
+    56.  
+ 
+ cpb  =
+ 
+    31.  
+ 
+ cal  =
+ 
+    220.  
+ 
+ 
+ mag  =
+ 
+    17.857143  
+ 
+ mpb  =
+ 
+    32.258065  
+ 
+ mal  =
+ 
+    4.5454545  
+ 
+ 
+ mass of silver=  17.857143 kg 
+ mass of lead=  32.258065 kg 
+ mass of aluminium=  4.545455 kg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.3/3_3.sce #
+ 
+ 
+ m1  =
+ 
+    0.5  
+ 
+ m2  =
+ 
+    0.09  
+ 
+ t1  =
+ 
+    19.  
+ 
+ t2  =
+ 
+    15.  
+ 
+ t3  =
+ 
+    38.  
+ 
+ t4  =
+ 
+    50.  
+ 
+ s  =
+ 
+    1000.  
+ 
+ 
+ A  =
+ 
+    4000.   - 15.5  
+    23000.    11.5  
+ 
+ b  =
+ 
+  - 360.   
+    1080.  
+ 
+ c  =
+ 
+    0.0313043  
+    31.304348  
+ 
+ R1  =
+ 
+    0.0313043  
+ 
+ R2  =
+ 
+    31.304348  
+ 
+ 
+ water equivalent of mercury=  0.031304 kg 
+ 
+ specific heat of mercury=  31.304348 c /kg/c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.4/3_4.sce #
+ 
+ 
+ c  =
+ 
+    1000000.  
+ 
+ tw  =
+ 
+    100.  
+ 
+ ta  =
+ 
+    74.  
+ 
+ dw  =
+ 
+    1000.  
+ 
+ da  =
+ 
+    800.  
+ 
+ t2  =
+ 
+    50.  
+ 
+ t1  =
+ 
+    40.  
+ 
+ 
+ hw  =
+ 
+    20000000.  
+ 
+ rw  =
+ 
+    200000.  
+ 
+ C  =
+ 
+    600.  
+ 
+ specific heat of alcohol=  600.000000 calories/kg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.5/3_5.sce #
+ 
+ 
+ mc  =
+ 
+    0.1  
+ 
+ vl1  =
+ 
+    150.  
+ 
+ vl2  =
+ 
+    150.  
+ 
+ hl1  =
+ 
+    600.  
+ 
+ gl1  =
+ 
+    1200.  
+ 
+ hl2  =
+ 
+    400.  
+ 
+ gl2  =
+ 
+    900.  
+ 
+ t1  =
+ 
+    50.  
+ 
+ t2  =
+ 
+    40.  
+ 
+ sc  =
+ 
+    100.  
+ 
+ r1  =
+ 
+    2.  
+ 
+ 
+ m1  =
+ 
+    0.18  
+ 
+ rc1  =
+ 
+    236.  
+ 
+ k  =
+ 
+  - 4.72  
+ 
+ m2  =
+ 
+    0.135  
+ 
+ b  =
+ 
+    64.  
+ 
+ j  =
+ 
+    188.8  
+ 
+ 
+ rate of cooling=  188.800000 cal/min 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.6/3_6.sce #
+ 
+ 
+ t1  =
+ 
+    80.  
+ 
+ t2  =
+ 
+    50.  
+ 
+ t3  =
+ 
+    60.  
+ 
+ t4  =
+ 
+    30.  
+ 
+ t  =
+ 
+    20.  
+ 
+ e  =
+ 
+    5.  
+ 
+ 
+ k  =
+ 
+    0.3192081  
+ 
+ T  =
+ 
+    10.  
+ 
+ 
+ time it will take =  10.000000 min 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.7/3_7.sce #
+ 
+ 
+ e  =
+ 
+    1.586  
+ 
+ i  =
+ 
+    0.1444  
+ 
+ t  =
+ 
+    240.  
+ 
+ m  =
+ 
+    0.3963  
+ 
+ T  =
+ 
+    1.219  
+ 
+ wt  =
+ 
+    206.4  
+ 
+ 
+ hg  =
+ 
+    54.964416  
+ 
+ c  =
+ 
+    27.219338  
+ 
+ a  =
+ 
+    5618.0714  
+ 
+ atomic heat of lead=  5618.071359 1/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.8/3_8.sce #
+ 
+ 
+ m  =
+ 
+    0.0001  
+ 
+ v  =
+ 
+    0.0005  
+ 
+ l  =
+ 
+    2257000.  
+ 
+ t1  =
+ 
+    15.  
+ 
+ p  =
+ 
+    6.  
+ 
+ 
+ H  =
+ 
+    225.7  
+ 
+ h  =
+ 
+    1.0659  
+ 
+ c  =
+ 
+    211.74594  
+ 
+ 
+ specific heat of gas at constant volume=  211.745942 j 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.9/3_9.sce #
+ 
+ 
+ j1  =
+ 
+    2100000.  
+ 
+ j2  =
+ 
+    336000.  
+ 
+ 
+ x  =
+ 
+    86.206897  
+ 
+ 
+ percentage of water present will be frozen=  86.206897 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.10/3_10.sce #
+ 
+ 
+ m1  =
+ 
+    250.  
+ 
+ m2  =
+ 
+    200.  
+ 
+ l  =
+ 
+    336.  
+ 
+ w1  =
+ 
+    50.  
+ 
+ m3  =
+ 
+    200.  
+ 
+ t1  =
+ 
+    100.  
+ 
+ 
+ M1  =
+ 
+    500.  
+ 
+ J  =
+ 
+    210000.  
+ 
+ k  =
+ 
+    67200.  
+ 
+ m  =
+ 
+    123.2  
+ 
+ T  =
+ 
+    573.2  
+ 
+ 
+ total contents=  573.200000 gm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.12/3_12.sce #
+ 
+ 
+ m1  =
+ 
+    10.  
+ 
+ t1  =
+ 
+    80.  
+ 
+ t2  =
+ 
+    20.  
+ 
+ t3  =
+ 
+    150.  
+ 
+ t4  =
+ 
+    90.  
+ 
+ t  =
+ 
+    100.  
+ 
+ a  =
+ 
+    800.  
+ 
+ 
+ h  =
+ 
+    600.  
+ 
+ H  =
+ 
+    590000.  
+ 
+ k  =
+ 
+    590.  
+ 
+ x  =
+ 
+    1.0169492  
+ 
+ 
+ kg of steam required per hour=  1.016949 kg/hr 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.13/3_13.sce #
+ 
+ 
+ p1  =
+ 
+    6.  
+ 
+ p2  =
+ 
+    2.  
+ 
+ ph  =
+ 
+    89.  
+ 
+ v  =
+ 
+    0.03  
+ 
+ t1  =
+ 
+    10.  
+ 
+ t3  =
+ 
+    31.5  
+ 
+ T1  =
+ 
+    283.  
+ 
+ t2  =
+ 
+    150.  
+ 
+ w1  =
+ 
+    0.21  
+ 
+ 
+ m  =
+ 
+    0.0103026  
+ 
+ t4  =
+ 
+    20.75  
+ 
+ h  =
+ 
+    1.331613  
+ 
+ H  =
+ 
+    18872.7  
+ 
+ c  =
+ 
+    14172.812  
+ 
+ 
+ specific heat=  14172.811808 j/kg*k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.14/3_14.sce #
+ 
+ 
+ po  =
+ 
+    101396.1  
+ 
+ p  =
+ 
+    1.293  
+ 
+ vo  =
+ 
+    0.7733952  
+ 
+ t  =
+ 
+    273.  
+ 
+ cp  =
+ 
+    961.4  
+ 
+ 
+ R  =
+ 
+    287.25003  
+ 
+ cv  =
+ 
+    674.14997  
+ 
+ 
+ specific heat at constant volume=  674.149972 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.15/3_15.sce #
+ 
+ 
+ m  =
+ 
+    5.  
+ 
+ m1  =
+ 
+    2.090D+08  
+ 
+ val  =
+ 
+    10000000.  
+ 
+ p  =
+ 
+    0.12  
+ 
+ 
+ w  =
+ 
+    6966.6667  
+ 
+ H  =
+ 
+    9.3386953  
+ 
+ 
+ average horse power=  9.338695 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.16/3_16.sce #
+ 
+ 
+ po  =
+ 
+    101396.16  
+ 
+ vo  =
+ 
+    22.4  
+ 
+ t  =
+ 
+    273.  
+ 
+ m  =
+ 
+    4000.  
+ 
+ 
+ R  =
+ 
+    8319.6849  
+ 
+ c  =
+ 
+    2.0799212  
+ 
+ 
+ pressure of the gas=  2.079921 j 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.17/3_17.sce #
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ p2  =
+ 
+    0.8  
+ 
+ t1  =
+ 
+    25.  
+ 
+ t2  =
+ 
+    10.  
+ 
+ p  =
+ 
+    0.4  
+ 
+ t3  =
+ 
+    61.  
+ 
+ t4  =
+ 
+    12.  
+ 
+ 
+ p1  =
+ 
+    19.6  
+ 
+ m  =
+ 
+    15.  
+ 
+ c  =
+ 
+    0.7653061  
+ 
+ 
+ specific heat of liquid=  0.765306 cal/gm*c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH3/EX3.19/3_19.sce #
+ 
+ 
+ p16  =
+ 
+    80.  
+ 
+ v16  =
+ 
+    432.  
+ 
+ t  =
+ 
+    273.  
+ 
+ po  =
+ 
+    76.  
+ 
+ t  =
+ 
+    16.  
+ 
+ t16  =
+ 
+    289.  
+ 
+ T  =
+ 
+    273.  
+ 
+ poxy  =
+ 
+    0.0014  
+ 
+ cfe  =
+ 
+    0.09  
+ 
+ t1  =
+ 
+    15.  
+ 
+ t2  =
+ 
+    184.  
+ 
+ m1  =
+ 
+    2.  
+ 
+ 
+ v0  =
+ 
+    429.5611  
+ 
+ m  =
+ 
+    0.6013855  
+ 
+ h  =
+ 
+    35.82  
+ 
+ l  =
+ 
+    59.562456  
+ 
+ 
+ latent heat=  59.562456 cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.2/4_2.sce #
+ 
+ 
+ t1  =
+ 
+    20.  
+ 
+ m1  =
+ 
+    10.  
+ 
+ t2  =
+ 
+  - 80.  
+ 
+ t2  =
+ 
+    15.  
+ 
+ m2  =
+ 
+    10.77  
+ 
+ t3  =
+ 
+    10.  
+ 
+ c  =
+ 
+    0.5  
+ 
+ 
+ A  =
+ 
+    5.  - 10.    
+    5.  - 10.77  
+ 
+ b  =
+ 
+    550.   
+    488.5  
+ 
+ c  =
+ 
+    269.74026  
+    79.87013   
+ 
+ R1  =
+ 
+    269.74026  
+ 
+ R2  =
+ 
+    79.87013  
+ 
+ 
+ latent heat of fusion of ice= 79.870130 cal/gm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.3/4_3.sce #
+ 
+ 
+ c  =
+ 
+    0.58  
+ 
+ m  =
+ 
+    4.  
+ 
+ ms  =
+ 
+    5.  
+ 
+ t  =
+ 
+    78.  
+ 
+ t1  =
+ 
+    80.  
+ 
+ x1  =
+ 
+    10.  
+ 
+ x2  =
+ 
+    8.5  
+ 
+ c1  =
+ 
+    0.05  
+ 
+ c2  =
+ 
+    0.048  
+ 
+ t2  =
+ 
+    100.  
+ 
+ t3  =
+ 
+    27.  
+ 
+ 
+ Hal  =
+ 
+    180.96  
+ 
+ m1  =
+ 
+    2.262  
+ 
+ m2  =
+ 
+    2.6611765  
+ 
+ Hp  =
+ 
+    212.89412  
+ 
+ H1  =
+ 
+    18.25  
+ 
+ H2  =
+ 
+    6.48  
+ 
+ L  =
+ 
+    37.632824  
+ 
+ 
+ latent heat of fusion=  37.632824 cal/gm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.4/4_4.sce #
+ 
+ 
+ d  =
+ 
+    0.002  
+ 
+ x  =
+ 
+    0.07  
+ 
+ m1  =
+ 
+    0.0022  
+ 
+ pice  =
+ 
+    920.  
+ 
+ pwater  =
+ 
+    1000.  
+ 
+ lice  =
+ 
+    80000.  
+ 
+ 
+ a  =
+ 
+    0.0000031  
+ 
+ v  =
+ 
+    0.0000002  
+ 
+ v1  =
+ 
+    0.0010870  
+ 
+ v2  =
+ 
+    0.001  
+ 
+ dv  =
+ 
+    0.0000870  
+ 
+ m2  =
+ 
+    0.00253  
+ 
+ h  =
+ 
+    202.4  
+ 
+ L  =
+ 
+    92000.  
+ 
+ latent heat of vapourisation=  92000.000000 cal/kg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.5/4_5.sce #
+ 
+ 
+ ms  =
+ 
+    0.0055  
+ 
+ t1  =
+ 
+    100.  
+ 
+ t2  =
+ 
+    15.  
+ 
+ t3  =
+ 
+    26.8  
+ 
+ m1  =
+ 
+    0.25  
+ 
+ m2  =
+ 
+    0.0162  
+ 
+ l  =
+ 
+    2257200.  
+ 
+ 
+ h  =
+ 
+    0.0225593  
+ 
+ x  =
+ 
+    0.0055002  
+ 
+ p  =
+ 
+    100.00306  
+ 
+ 
+ perecntage of water in steam=  0.005500  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.6/4_6.sce #
+ 
+ 
+ r  =
+ 
+    0.0000017  
+ 
+ t1  =
+ 
+    3.56  
+ 
+ pw  =
+ 
+    1000.  
+ 
+ r1  =
+ 
+    0.0000003  
+ 
+ t2  =
+ 
+    15.  
+ 
+ bp  =
+ 
+    360.  
+ 
+ c  =
+ 
+    33.  
+ 
+ pl  =
+ 
+    13600.  
+ 
+ 
+ m  =
+ 
+    0.102  
+ 
+ h1  =
+ 
+    363.12  
+ 
+ h2  =
+ 
+    52.64424  
+ 
+ L  =
+ 
+    67144.412  
+ 
+ 
+ latent heat of vaporisation=  67144.411765 cal/kg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.7/4_7.sce #
+ 
+ 
+ p1  =
+ 
+    75.5  
+ 
+ v1  =
+ 
+    123.  
+ 
+ t0  =
+ 
+    273.  
+ 
+ t1  =
+ 
+    15.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ p0  =
+ 
+    76.  
+ 
+ r  =
+ 
+    1.43  
+ 
+ l  =
+ 
+    51.  
+ 
+ t2  =
+ 
+  - 183.  
+ 
+ m  =
+ 
+    0.495  
+ 
+ 
+ v0  =
+ 
+    115.82669  
+ 
+ h  =
+ 
+    8.4472402  
+ 
+ c  =
+ 
+    0.0861875  
+ 
+ 
+ mean specific heat =  0.086188 calC/gm/deg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.8/4_8.sce #
+ 
+ 
+ p  =
+ 
+    0.76  
+ 
+ v  =
+ 
+    1650.  
+ 
+ m  =
+ 
+    1.  
+ 
+ r  =
+ 
+    13600.  
+ 
+ 
+ w  =
+ 
+    40.000543  
+ 
+ ih  =
+ 
+    499.99946  
+ 
+ 
+ internal latent heat of steam=  499.999457 cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.9/4_9.sce #
+ 
+ 
+ x1  =
+ 
+    17.5  
+ 
+ x2  =
+ 
+    9.2  
+ 
+ r  =
+ 
+    0.7  
+ 
+ 
+ avp  =
+ 
+    12.25  
+ 
+ dsvp  =
+ 
+    3.05  
+ 
+ f  =
+ 
+    24.897959  
+ 
+ 
+ fraction of water vapour condensed=  24.897959  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.10/4_10.sce #
+ 
+ 
+ r  =
+ 
+    52.  
+ 
+ svp  =
+ 
+    17.5  
+ 
+ 
+ p  =
+ 
+    9.1  
+ 
+ 
+ SVP at dew point=  9.100000 mm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.12/4_12.sce #
+ 
+ 
+ p  =
+ 
+    4.6  
+ 
+ p1  =
+ 
+    0.34  
+ 
+ t  =
+ 
+    0.007  
+ 
+ r  =
+ 
+    760.  
+ 
+ 
+ P  =
+ 
+    4.60238  
+ 
+ fp  =
+ 
+    755.39762  
+ 
+ d  =
+ 
+    0.0070426  
+ 
+ 
+ lowering of melting point of ice=  0.007043 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.14/4_14.sce #
+ 
+ 
+ v2  =
+ 
+    1.677  
+ 
+ v1  =
+ 
+    0.001  
+ 
+ dp  =
+ 
+    101396.16  
+ 
+ t  =
+ 
+    100.  
+ 
+ T  =
+ 
+    373.  
+ 
+ L  =
+ 
+    540000.  
+ 
+ 
+ dT  =
+ 
+    117.38446  
+ 
+ 
+ increase in boiling point=  117.384457 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH4/EX4.15/4_15.sce #
+ 
+ 
+ t1  =
+ 
+    18.  
+ 
+ t2  =
+ 
+    19.  
+ 
+ t3  =
+ 
+    18.6  
+ 
+ t4  =
+ 
+    23.  
+ 
+ t5  =
+ 
+    24.  
+ 
+ t6  =
+ 
+    23.7  
+ 
+ svp1  =
+ 
+    15.46  
+ 
+ svp2  =
+ 
+    16.46  
+ 
+ svp4  =
+ 
+    21.02  
+ 
+ svp5  =
+ 
+    22.32  
+ 
+ 
+ svp3  =
+ 
+    16.46  
+ 
+ svp6  =
+ 
+    22.32  
+ 
+ rh  =
+ 
+    73.74552  
+ 
+ 
+ relative humidity=  73.745520  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH5/EX5.1/5_1.sce #
+ 
+ 
+ h  =
+ 
+    50.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ l  =
+ 
+    1000.  
+ 
+ j  =
+ 
+    4.2  
+ 
+ 
+ q  =
+ 
+    116.66667  
+ 
+ t  =
+ 
+    0.1166667  
+ 
+ 
+ difference in temperature of water=  0.116667 C 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH5/EX5.2/5_2.sce #
+ 
+ 
+ t1  =
+ 
+    327.  
+ 
+ t2  =
+ 
+    47.6  
+ 
+ c  =
+ 
+    30.  
+ 
+ l  =
+ 
+    6000.  
+ 
+ j  =
+ 
+    4.2  
+ 
+ 
+ h  =
+ 
+    14382.  
+ 
+ v  =
+ 
+    347.5756  
+ 
+ 
+ velocity of bullet=  347.575603 m/sec 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH5/EX5.3/5_3.sce #
+ 
+ 
+ e  =
+ 
+    3.  
+ 
+ i  =
+ 
+    2.  
+ 
+ e1  =
+ 
+    3.75  
+ 
+ i1  =
+ 
+    2.5  
+ 
+ t  =
+ 
+    2.  
+ 
+ m  =
+ 
+    30.  
+ 
+ m1  =
+ 
+    48.  
+ 
+ 
+ p  =
+ 
+    4.166625  
+ 
+ 
+ J=  4.166625 j/cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH5/EX5.4/5_4.sce #
+ 
+ 
+ c  =
+ 
+    1000.  
+ 
+ t  =
+ 
+    1.  
+ 
+ f  =
+ 
+    1.  
+ 
+ J  =
+ 
+    4.18  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ h  =
+ 
+    426.53061  
+ 
+ h1  =
+ 
+    236.96145  
+ 
+ 
+ height pf waterfall to rasie 1 c=  426.530612 m 
+ height of waterfall to raise 1 f=  236.961451 m 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.2/6_2.sce #
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ i  =
+ 
+    6.  
+ 
+ v  =
+ 
+    4.  
+ 
+ 
+ vibratory degree of freedom=  4.000000  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.5/6_5.sce #
+ 
+ 
+ T  =
+ 
+    273.  
+ 
+ m  =
+ 
+    35.5  
+ 
+ r  =
+ 
+    8314.3  
+ 
+ 
+ c  =
+ 
+    309.68889  
+ 
+ 
+ rms velocity =  309.688888 m/sec 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.6/6_6.sce #
+ 
+ 
+ m  =
+ 
+    2.  
+ 
+ T  =
+ 
+    273.  
+ 
+ r  =
+ 
+    8314.3  
+ 
+ 
+ c  =
+ 
+    1845.1845  
+ 
+ Ti  =
+ 
+    1092.  
+ 
+ C  =
+ 
+    819.  
+ 
+ 
+ temperature at which rms speed will double is=  819.000000 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.7/6_7.sce #
+ 
+ 
+ p  =
+ 
+    101300.  
+ 
+ d  =
+ 
+    0.09  
+ 
+ t1  =
+ 
+    27.  
+ 
+ T  =
+ 
+    273.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ 
+ c1  =
+ 
+    1837.5709  
+ 
+ c2  =
+ 
+    1926.2977  
+ 
+ cb  =
+ 
+    1635.0922  
+ 
+ cm  =
+ 
+    1572.8155  
+ 
+ 
+ avg velocity=  1635.092245 m/sec 
+ 
+most probable velocity=  1572.815461 m/sec 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.8/6_8.sce #
+ 
+ 
+ e  =
+ 
+    0.004  
+ 
+ p  =
+ 
+    13341.6  
+ 
+ 
+ kt  =
+ 
+    0.0026667  
+ 
+ n  =
+ 
+    5003100.  
+ 
+ 
+ number of molecules =  0.002667 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.9/6_9.sce #
+ 
+ 
+ r  =
+ 
+    8.32  
+ 
+ N  =
+ 
+    6.060D+23  
+ 
+ t  =
+ 
+    723.  
+ 
+ T  =
+ 
+    996.  
+ 
+ 
+ ke  =
+ 
+    2.051D-20  
+ 
+ ke1  =
+ 
+    12430.08  
+ 
+ 
+ mean translational kinetic energy=  12430.080000 J 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.10/6_10.sce #
+ 
+ 
+ r  =
+ 
+    8.3  
+ 
+ J  =
+ 
+    4.2  
+ 
+ T  =
+ 
+    273.  
+ 
+ m  =
+ 
+    2.  
+ 
+ 
+ ke  =
+ 
+    404.625  
+ 
+ 
+ ke of one gm of hydrogen=  404.625000 calories 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.11/6_11.sce #
+ 
+ 
+ p0  =
+ 
+    101396.16  
+ 
+ m  =
+ 
+    0.0001785  
+ 
+ v0  =
+ 
+    5.6022409  
+ 
+ T0  =
+ 
+    273.  
+ 
+ g  =
+ 
+    1.67  
+ 
+ cp  =
+ 
+    1250.  
+ 
+ 
+ r  =
+ 
+    2080.7535  
+ 
+ J  =
+ 
+    4.1490847  
+ 
+ 
+ mechanical equivalent of heat=  4.149085 joules/cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.12/6_12.sce #
+ 
+ 
+ n  =
+ 
+    0.000017  
+ 
+ p  =
+ 
+    100000.  
+ 
+ d  =
+ 
+    1.2  
+ 
+ 
+ l  =
+ 
+    8.500D-08  
+ 
+ f  =
+ 
+    5.882D+09  
+ 
+ 
+.mean free path=  8.500000e-08 m 
+ 
+collision frequency=  5882352941.176471 per second 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.13/6_13.sce #
+ 
+ 
+ n  =
+ 
+    0.0000166  
+ 
+ k  =
+ 
+    2.700D+25  
+ 
+ d  =
+ 
+    1.25  
+ 
+ c  =
+ 
+    450.  
+ 
+ 
+ l  =
+ 
+    8.853D-08  
+ 
+ f  =
+ 
+    5.083D+09  
+ 
+ di  =
+ 
+    3.069D-10  
+ 
+ 
+ mean free path=  8.853333e-08 m 
+ 
+collision frequency=  5.082831e+09 c 
+ 
+avg velocity=  3.068543e-10 m 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.14/6_14.sce #
+ 
+ 
+ m  =
+ 
+    40.  
+ 
+ v  =
+ 
+    22.4  
+ 
+ n  =
+ 
+    0.000021  
+ 
+ r  =
+ 
+    8314.  
+ 
+ T  =
+ 
+    273.  
+ 
+ 
+ d  =
+ 
+    1.7857143  
+ 
+ c  =
+ 
+    412.58835  
+ 
+ l  =
+ 
+    8.551D-08  
+ 
+ f  =
+ 
+    4.825D+09  
+ 
+ 
+ mean freepath=  8.550896e-08 m 
+ 
+collision frequency=  4825089285.714285  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.15/6_15.sce #
+ 
+ 
+ l1  =
+ 
+    0.000023  
+ 
+ l0  =
+ 
+    0.000019  
+ 
+ d  =
+ 
+    0.1785  
+ 
+ p  =
+ 
+    100000.  
+ 
+ 
+ df  =
+ 
+    0.0000001  
+ 
+ 
+ difference in mean free path=  1.296407e-07 m 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.19/6_19.sce #
+ 
+ 
+ f  =
+ 
+    5.  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ e  =
+ 
+    2.5  
+ 
+ g  =
+ 
+    1.  
+ 
+ p  =
+ 
+    40.  
+ 
+ 
+ fraction used to increase rotational energy=  40.000000  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH6/EX6.20/6_20.sce #
+ 
+ 
+ s1  =
+ 
+    1.  
+ 
+ s2  =
+ 
+    2.  
+ 
+ s3  =
+ 
+    3.  
+ 
+ s4  =
+ 
+    4.  
+ 
+ s5  =
+ 
+    5.  
+ 
+ n1  =
+ 
+    4.  
+ 
+ n2  =
+ 
+    2.  
+ 
+ n3  =
+ 
+    8.  
+ 
+ n4  =
+ 
+    6.  
+ 
+ n5  =
+ 
+    5.  
+ 
+ 
+ u  =
+ 
+    3.24  
+ 
+ v  =
+ 
+    3.4928498  
+ 
+ 
+ mean speed of molecules=  3.240000 m/sec 
+ 
+rms speeed of molecules=  3.492850 m/sec 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.1/7_1.sce #
+ 
+ 
+ R  =
+ 
+    82.07  
+ 
+ t  =
+ 
+    132.  
+ 
+ p  =
+ 
+    37.2  
+ 
+ 
+ a  =
+ 
+    1330937.2  
+ 
+ b  =
+ 
+    36.402016  
+ 
+ 
+ a=  1330937.248083 atmos cm ^6 
+ 
+b=  36.402016 cm^3 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.2/7_2.sce #
+ 
+ 
+ p  =
+ 
+    2.26  
+ 
+ m  =
+ 
+    4056000.  
+ 
+ R  =
+ 
+    83000000.  
+ 
+ d  =
+ 
+    0.069  
+ 
+ 
+ t  =
+ 
+    4.2682312  
+ 
+ 
+ critical temperature of helium=  4.268231 K 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.7/7_7.sce #
+ 
+ 
+ a  =
+ 
+    0.0072  
+ 
+ b  =
+ 
+    0.002  
+ 
+ p  =
+ 
+    1.  
+ 
+ v  =
+ 
+    1.  
+ 
+ t  =
+ 
+    273.  
+ 
+ 
+ R  =
+ 
+    0.0036820  
+ 
+ Tc  =
+ 
+    289.69774  
+ 
+ TC  =
+ 
+    16.697743  
+ 
+ Tb  =
+ 
+    977.72988  
+ 
+ TB  =
+ 
+    704.72988  
+ 
+ 
+ critical temperature of Co2=  16.697743 c 
+ 
+boyle temperature of Co2=  977.729884 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.8/7_8.sce #
+ 
+ 
+ a  =
+ 
+    0.0072  
+ 
+ b  =
+ 
+    0.002  
+ 
+ p1  =
+ 
+    1012928.  
+ 
+ p2  =
+ 
+    101292.8  
+ 
+ 
+ a1  =
+ 
+    0.00072  
+ 
+ 
+ value of a in MKS/SI units=  0.000720 pa m^6 
+ 
+value of b in MKS/SI units=  0.002000  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.9/7_9.sce #
+ 
+ 
+ a  =
+ 
+    0.0164  
+ 
+ b  =
+ 
+    0.0000217  
+ 
+ t  =
+ 
+    300.  
+ 
+ v  =
+ 
+    0.001  
+ 
+ R  =
+ 
+    8.31  
+ 
+ tc  =
+ 
+    33.2  
+ 
+ pc  =
+ 
+    1295000.  
+ 
+ vc  =
+ 
+    0.000065  
+ 
+ 
+ p  =
+ 
+    2531898.1  
+ 
+ p1  =
+ 
+    2493000.  
+ 
+ r  =
+ 
+    6.7610442  
+ 
+ p2  =
+ 
+    2056903.9  
+ 
+ p3  =
+ 
+    2028313.3  
+ 
+ 
+ value of pressure at 300k=  2531898.068077 pa 
+ 
+ pressure using ideal gas condition=  2493000.000000 pa 
+ 
+value of R at critical point=  6.761044 J/mole/k 
+ 
+ using r value in vanderwaals equation p =  2056903.948699 pa 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.11/7_11.sce #
+ 
+ 
+ a  =
+ 
+    0.132  
+ 
+ b  =
+ 
+    0.0000312  
+ 
+ p  =
+ 
+    500000.  
+ 
+ v  =
+ 
+    0.02  
+ 
+ R  =
+ 
+    8.4  
+ 
+ v2  =
+ 
+    0.002  
+ 
+ p1  =
+ 
+    5.  
+ 
+ 
+ t  =
+ 
+    237.88071  
+ 
+ p2  =
+ 
+    50.  
+ 
+ 
+ 
+ temperature =  237.880707 k 
+ 
+ pressure=  50.000000 pa 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.12/7_12.sce #
+ 
+ 
+ t1  =
+ 
+    273.  
+ 
+ p1  =
+ 
+    100000.  
+ 
+ p2  =
+ 
+    200000.  
+ 
+ v  =
+ 
+    0.000001  
+ 
+ a  =
+ 
+    2.730D-10  
+ 
+ b  =
+ 
+    1.030D-09  
+ 
+ 
+ t2  =
+ 
+    545.25674  
+ 
+ 
+ 
+ temperature of gas if pressure is doubled=  545.256739 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.1/8_1.sce #
+ 
+ 
+ Q  =
+ 
+    50.  
+ 
+ W  =
+ 
+    20.  
+ 
+ Qi  =
+ 
+    36.  
+ 
+ Wi  =
+ 
+  - 13.  
+ 
+ ui  =
+ 
+    10.  
+ 
+ ub  =
+ 
+    22.  
+ 
+ 
+ du  =
+ 
+    30.  
+ 
+ Wibf  =
+ 
+    6.  
+ 
+ Qfi  =
+ 
+    17.  
+ 
+ Uf  =
+ 
+    40.  
+ 
+ Qbf  =
+ 
+    18.  
+ 
+ 
+ 
+ Wibf=  6.000000 cal 
+ 
+ Qfi=  17.000000 cal 
+ 
+ Uf=  40.000000 cal 
+ 
+ Qbf=  18.000000 cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.2/8_2.sce #
+ 
+ 
+ g  =
+ 
+    1.4  
+ 
+ T1  =
+ 
+    288.  
+ 
+ r  =
+ 
+    2.  
+ 
+ p  =
+ 
+    2.  
+ 
+ r1  =
+ 
+    0.5  
+ 
+ 
+ T2  =
+ 
+    380.01828  
+ 
+ t2  =
+ 
+    236.25658  
+ 
+ 
+ 
+ final temperature=  380.018278 k 
+ 
+ temperature=  236.256583 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.3/8_3.sce #
+ 
+ 
+ r  =
+ 
+    0.05  
+ 
+ p1  =
+ 
+    1.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ T1  =
+ 
+    273.  
+ 
+ 
+ p2  =
+ 
+    20.  
+ 
+ pad  =
+ 
+    66.28908  
+ 
+ T2  =
+ 
+    904.84595  
+ 
+ dt  =
+ 
+    631.84595  
+ 
+ 
+ 
+ pressure required=  20.000000 atm 
+ 
+ pressure for adiabatic conditions=  66.289080 atm 
+ 
+ rise in temperature=  631.845947 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.4/8_4.sce #
+ 
+ 
+ R  =
+ 
+    8400.  
+ 
+ T1  =
+ 
+    273.  
+ 
+ g  =
+ 
+    1.66  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ T2  =
+ 
+    431.36256  
+ 
+ w  =
+ 
+  - 89.978725  
+ 
+ wi  =
+ 
+  - 70.960943  
+ 
+ 
+ 
+ amount of work done= -89.978725 J 
+ 
+ isothermal work done= -70.960943 J 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.5/8_5.sce #
+ 
+ 
+ r1  =
+ 
+    2.  
+ 
+ r  =
+ 
+    2.  
+ 
+ rv  =
+ 
+    0.75  
+ 
+ 
+ g  =
+ 
+    1.4150375  
+ 
+ 
+ 
+ gamma value=  1.415037  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.6/8_6.sce #
+ 
+ 
+ t0  =
+ 
+    273.  
+ 
+ d0  =
+ 
+    1.29  
+ 
+ p  =
+ 
+    0.75  
+ 
+ t  =
+ 
+    290.  
+ 
+ p0  =
+ 
+    0.76  
+ 
+ v  =
+ 
+    342.15  
+ 
+ 
+ d  =
+ 
+    1.1984006  
+ 
+ g  =
+ 
+    1.4020579  
+ 
+ 
+ 
+ gamma value=  1.402058  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.7/8_7.sce #
+ 
+ 
+ n  =
+ 
+    0.5  
+ 
+ n1  =
+ 
+    0.6  
+ 
+ T2  =
+ 
+    300.  
+ 
+ 
+ T1  =
+ 
+    600.  
+ 
+ T  =
+ 
+    750.  
+ 
+ dt  =
+ 
+    150.  
+ 
+ 
+ 
+ source tempperature must be raised by=  150.000000 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.8/8_8.sce #
+ 
+ 
+ w  =
+ 
+    100.  
+ 
+ T2  =
+ 
+    373.  
+ 
+ T1  =
+ 
+    273.  
+ 
+ L  =
+ 
+    80000.  
+ 
+ 
+ dt  =
+ 
+    100.  
+ 
+ Q1  =
+ 
+    373.  
+ 
+ m  =
+ 
+    0.04875  
+ 
+ 
+ 
+ mass of ice melts in 1 min=  0.048750 kg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.9/8_9.sce #
+ 
+ 
+ L  =
+ 
+    80000.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T2  =
+ 
+    273.  
+ 
+ 
+ Q1  =
+ 
+    87912.088  
+ 
+ w  =
+ 
+    33230.769  
+ 
+ c  =
+ 
+    10.111111  
+ 
+ 
+ 
+ coefficient of performance=  10.111111  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.10/8_10.sce #
+ 
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    273.  
+ 
+ m  =
+ 
+    2.  
+ 
+ L  =
+ 
+    80000.  
+ 
+ 
+ Q2  =
+ 
+    44.444444  
+ 
+ w  =
+ 
+    13.675214  
+ 
+ 
+ 
+ minimum power output of the motor=  0.018331 H.P 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.11/8_11.sce #
+ 
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    273.  
+ 
+ m  =
+ 
+    2.  
+ 
+ L  =
+ 
+    80000.  
+ 
+ 
+ Q2  =
+ 
+    44.444444  
+ 
+ w  =
+ 
+    13.675214  
+ 
+ 
+ 
+ minimum power output of the motor=  0.018331 H.P 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.12/8_12.sce #
+ 
+ 
+ p  =
+ 
+    100000.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    0.2  
+ 
+ n  =
+ 
+    5.  
+ 
+ 
+ power  =
+ 
+    268.09651  
+ 
+ 
+ 
+ horse power of engine=  268.096515 H P 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.13/8_13.sce #
+ 
+ 
+ dp  =
+ 
+    1.  
+ 
+ L  =
+ 
+    80000.  
+ 
+ T  =
+ 
+    273.  
+ 
+ r  =
+ 
+    1.1  
+ 
+ 
+ dv  =
+ 
+  - 0.0001  
+ 
+ dt  =
+ 
+  - 0.0082384  
+ 
+ 
+ 
+ depression in melting point of ice=  0.008238 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.14/8_14.sce #
+ 
+ 
+ dt  =
+ 
+    0.5  
+ 
+ L  =
+ 
+    336000.  
+ 
+ T  =
+ 
+    273.  
+ 
+ dv  =
+ 
+    0.000091  
+ 
+ 
+ dp  =
+ 
+    67.624683  
+ 
+ 
+ 
+ pressure=  67.624683 atm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.15/8_15.sce #
+ 
+ 
+ dp  =
+ 
+    101000.  
+ 
+ L  =
+ 
+    19164600.  
+ 
+ dv  =
+ 
+    0.0187  
+ 
+ T  =
+ 
+    353.  
+ 
+ 
+ dT  =
+ 
+    0.0347887  
+ 
+ 
+ 
+ change in melting point=  0.034789 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.16/8_16.sce #
+ 
+ 
+ T  =
+ 
+    373.  
+ 
+ L  =
+ 
+    2255400.  
+ 
+ dp  =
+ 
+    2828.4192  
+ 
+ dv  =
+ 
+    1.673  
+ 
+ 
+ dT  =
+ 
+    0.7825732  
+ 
+ 
+ 
+ change in temperature of boiling water=  0.782573 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.17/8_17.sce #
+ 
+ 
+ dp  =
+ 
+    9999000.  
+ 
+ L  =
+ 
+    24500.  
+ 
+ T  =
+ 
+    600.  
+ 
+ d2  =
+ 
+    11010.  
+ 
+ d1  =
+ 
+    10650.  
+ 
+ 
+ dv  =
+ 
+  - 0.0000031  
+ 
+ dT  =
+ 
+  - 0.7518086  
+ 
+ mp  =
+ 
+    600.75181  
+ 
+ 
+ 
+ new melting point=  600.751809 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.18/8_18.sce #
+ 
+ 
+ p  =
+ 
+    1.5  
+ 
+ T  =
+ 
+    373.  
+ 
+ v  =
+ 
+    1600.  
+ 
+ L  =
+ 
+    2240000.  
+ 
+ 
+ dp  =
+ 
+    46000.  
+ 
+ dv  =
+ 
+    1.599  
+ 
+ dT  =
+ 
+    12.248054  
+ 
+ T1  =
+ 
+    112.24805  
+ 
+ 
+ 
+ new temperature of cooker=  112.248054 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.19/8_19.sce #
+ 
+ 
+ c1  =
+ 
+    1000.  
+ 
+ T  =
+ 
+    373.  
+ 
+ L  =
+ 
+    539300.  
+ 
+ r  =
+ 
+    604.  
+ 
+ 
+ c2  =
+ 
+  - 1049.8445  
+ 
+ 
+ 
+ specific heat of saturated steam= -1049.844504 cal/kg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.20/8_20.sce #
+ 
+ 
+ m  =
+ 
+    0.1  
+ 
+ v  =
+ 
+    0.000101  
+ 
+ vs  =
+ 
+    0.167404  
+ 
+ t1  =
+ 
+    101.  
+ 
+ t2  =
+ 
+    99.  
+ 
+ p1  =
+ 
+    0.788  
+ 
+ p2  =
+ 
+    0.7337  
+ 
+ T  =
+ 
+    373.  
+ 
+ 
+ v1  =
+ 
+    0.00101  
+ 
+ v2  =
+ 
+    1.67404  
+ 
+ dv  =
+ 
+    1.67303  
+ 
+ dt  =
+ 
+    2.  
+ 
+ dp  =
+ 
+    0.0543  
+ 
+ dP  =
+ 
+    7244.4888  
+ 
+ L  =
+ 
+    538196.69  
+ 
+ 
+ 
+ latent heat of steam=  538196.686572 cal/kg 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.21/8_21.sce #
+ 
+ 
+ T1  =
+ 
+    1100.  
+ 
+ T3  =
+ 
+    200.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ 
+ T  =
+ 
+    666.66667  
+ 
+ 
+ 
+ value of T=  666.666667 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.22/8_22.sce #
+ 
+ 
+ T2  =
+ 
+    500.  
+ 
+ T1  =
+ 
+    1000.  
+ 
+ 
+ r  =
+ 
+    0.5  
+ 
+ x  =
+ 
+    2000.  
+ 
+ 
+ 
+ value of x=  2000.000000 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.23/8_23.sce #
+ 
+ 
+ T1  =
+ 
+    900.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ Q1  =
+ 
+    1000000.  
+ 
+ 
+ r  =
+ 
+    0.6666667  
+ 
+ r1  =
+ 
+    66.666667  
+ 
+ w  =
+ 
+    666666.67  
+ 
+ w1  =
+ 
+    2800000.  
+ 
+ w2  =
+ 
+    0.7777778  
+ 
+ w3  =
+ 
+    1.740D+25  
+ 
+ 
+ 
+ efficiency=  66.666667  
+ 
+ work in KWH=  0.777778 KWH 
+ 
+ work in ev=  1.740211e+25 ev 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.24/8_24.sce #
+ 
+ 
+ T2  =
+ 
+    300.  
+ 
+ T1  =
+ 
+    900.  
+ 
+ T3  =
+ 
+    600.  
+ 
+ Q2  =
+ 
+    15000.  
+ 
+ Q1  =
+ 
+    12000.  
+ 
+ 
+ na  =
+ 
+    0.6666667  
+ 
+ nb  =
+ 
+    0.5  
+ 
+ w1  =
+ 
+    8000.  
+ 
+ w2  =
+ 
+    7500.  
+ 
+ 
+ 
+ w1=  8000.000000 kcal 
+ 
+ w2=  7500.000000 kcal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.25/8_25.sce #
+ 
+ 
+ l  =
+ 
+    420.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ c  =
+ 
+    1000.  
+ 
+ 
+ dt  =
+ 
+    0.981  
+ 
+ 
+ 
+ difference in temperature=  0.981000 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.26/8_26.sce #
+ 
+ 
+ m  =
+ 
+    0.005  
+ 
+ c  =
+ 
+    0.17  
+ 
+ t1  =
+ 
+    12.4  
+ 
+ t2  =
+ 
+    10.2  
+ 
+ 
+ du  =
+ 
+    7.854  
+ 
+ 
+ 
+ change in internal energy=  7.854000 J 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.27/8_27.sce #
+ 
+ 
+ dq  =
+ 
+  - 80.  
+ 
+ dv  =
+ 
+    9.100D-08  
+ 
+ p  =
+ 
+    101300.  
+ 
+ 
+ du  =
+ 
+  - 80.0002  
+ 
+ 
+ 
+ change in internal energy= -80.000200 cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.28/8_28.sce #
+ 
+ 
+ p  =
+ 
+    100000.  
+ 
+ v2  =
+ 
+    2.6  
+ 
+ v1  =
+ 
+    2.2  
+ 
+ dq  =
+ 
+    250.  
+ 
+ 
+ dv  =
+ 
+    0.0004  
+ 
+ dw  =
+ 
+    40.  
+ 
+ du  =
+ 
+    210.  
+ 
+ 
+ 
+ change in internal energy=  210.000000 J 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH8/EX8.29/8_29.sce #
+ 
+ 
+ v2  =
+ 
+    6.  
+ 
+ v1  =
+ 
+    2.  
+ 
+ r  =
+ 
+    1.5  
+ 
+ p1  =
+ 
+    101000.  
+ 
+ 
+ g  =
+ 
+    1.6666667  
+ 
+ p2  =
+ 
+    630265.4  
+ 
+ w  =
+ 
+  - 981.7962  
+ 
+ 
+ 
+ work done= -981.796195 J 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.1/9_1.sce #
+ 
+ 
+ m  =
+ 
+    10.  
+ 
+ l  =
+ 
+    80.  
+ 
+ t  =
+ 
+    273.  
+ 
+ 
+ dq  =
+ 
+    800.  
+ 
+ ds  =
+ 
+    2.9304029  
+ 
+ 
+ 
+ change in entropy=  2.930403 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.2/9_2.sce #
+ 
+ 
+ m  =
+ 
+    0.001  
+ 
+ l  =
+ 
+    80000.  
+ 
+ T1  =
+ 
+    273.  
+ 
+ T2  =
+ 
+    373.  
+ 
+ s  =
+ 
+    1000.  
+ 
+ l1  =
+ 
+    540000.  
+ 
+ 
+ ds  =
+ 
+    2.0528681  
+ 
+ 
+ change in entropy =  2.052868 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.3/9_3.sce #
+ 
+ 
+ m  =
+ 
+    0.001  
+ 
+ s  =
+ 
+    500.  
+ 
+ li  =
+ 
+    80000.  
+ 
+ l1  =
+ 
+    540000.  
+ 
+ T1  =
+ 
+    273.  
+ 
+ T2  =
+ 
+    263.  
+ 
+ T3  =
+ 
+    373.  
+ 
+ s1  =
+ 
+    1000.  
+ 
+ 
+ d1  =
+ 
+    0.0186589  
+ 
+ d2  =
+ 
+    0.2930403  
+ 
+ d3  =
+ 
+    0.3121066  
+ 
+ d4  =
+ 
+    1.4477212  
+ 
+ d5  =
+ 
+    2.071527  
+ 
+ 
+ increase in entropy =  2.071527 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.4/9_4.sce #
+ 
+ 
+ m1  =
+ 
+    0.08  
+ 
+ m2  =
+ 
+    0.12  
+ 
+ t1  =
+ 
+    20.  
+ 
+ t2  =
+ 
+    50.  
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    423.  
+ 
+ s  =
+ 
+    1000.  
+ 
+ 
+ t  =
+ 
+    38.  
+ 
+ T3  =
+ 
+    311.  
+ 
+ s1  =
+ 
+    4.7696243  
+ 
+ s2  =
+ 
+  - 36.909512  
+ 
+ ds  =
+ 
+  - 32.139888  
+ 
+ 
+ change in entropy of universe = -32.139888 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.6/9_6.sce #
+ 
+ 
+ r  =
+ 
+    4.  
+ 
+ 
+ w  =
+ 
+    1.3862944  
+ 
+ 
+ change in entropy =  1.386294 R/J cal for each 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.7/9_7.sce #
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ c  =
+ 
+    1000.  
+ 
+ T1  =
+ 
+    273.  
+ 
+ T2  =
+ 
+    323.  
+ 
+ l  =
+ 
+    571700.  
+ 
+ 
+ ds  =
+ 
+    1938.1496  
+ 
+ 
+ difference in entropy =  1938.149568 cal per degree c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.8/9_8.sce #
+ 
+ 
+ m  =
+ 
+    0.01  
+ 
+ T1  =
+ 
+    800.  
+ 
+ T2  =
+ 
+    500.  
+ 
+ T3  =
+ 
+    400.  
+ 
+ s1  =
+ 
+    60.  
+ 
+ s2  =
+ 
+    70.  
+ 
+ l  =
+ 
+    14000.  
+ 
+ 
+ ds  =
+ 
+    0.7428887  
+ 
+ 
+ change in entropy =  0.742889 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.9/9_9.sce #
+ 
+ 
+ c1  =
+ 
+    0.08  
+ 
+ c2  =
+ 
+    0.003  
+ 
+ c3  =
+ 
+    0.1  
+ 
+ T2  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    50.  
+ 
+ 
+ r1  =
+ 
+    4.  
+ 
+ r2  =
+ 
+    11.25  
+ 
+ r3  =
+ 
+    0.0693147  
+ 
+ ds  =
+ 
+  - 36.596574  
+ 
+ 
+ change in entropy = -36.596574 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.10/9_10.sce #
+ 
+ 
+ st  =
+ 
+    1.75  
+ 
+ sw  =
+ 
+    0.3  
+ 
+ t  =
+ 
+    100.  
+ 
+ T  =
+ 
+    373.  
+ 
+ 
+ L  =
+ 
+    540.85  
+ 
+ 
+ 
+ specific latent heat of steam=  540.850000 cal/gm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.11/9_11.sce #
+ 
+ 
+ r  =
+ 
+    3.  
+ 
+ n  =
+ 
+    2.  
+ 
+ R  =
+ 
+    8314.  
+ 
+ 
+ ds  =
+ 
+    42063.264  
+ 
+ 
+ 
+ change in entropy=  42063.263898 j/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.13/9_13.sce #
+ 
+ 
+ m1  =
+ 
+    90.  
+ 
+ m2  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    373.  
+ 
+ T2  =
+ 
+    273.  
+ 
+ T3  =
+ 
+    331.2  
+ 
+ l  =
+ 
+    540.  
+ 
+ 
+ ds  =
+ 
+    3.659291  
+ 
+ 
+ change in entropy =  3.659291 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.14/9_14.sce #
+ 
+ 
+ m1  =
+ 
+    3.  
+ 
+ m2  =
+ 
+    28.  
+ 
+ ds  =
+ 
+    0.621  
+ 
+ 
+ r  =
+ 
+    0.6974729  
+ 
+ a  =
+ 
+    1.7891123  
+ 
+ 
+ change in volume =  1.789112  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.15/9_15.sce #
+ 
+ 
+ e  =
+ 
+    0.31  
+ 
+ e1  =
+ 
+    1.76  
+ 
+ t  =
+ 
+    100.  
+ 
+ T  =
+ 
+    373.  
+ 
+ 
+ ds  =
+ 
+    1.45  
+ 
+ dq  =
+ 
+    540.85  
+ 
+ 
+ 
+ heat of vaporisation at this temperature=  540.850000 cal/gm 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.16/9_16.sce #
+ 
+ 
+ i  =
+ 
+    3.  
+ 
+ r  =
+ 
+    10.  
+ 
+ t  =
+ 
+    27.  
+ 
+ T  =
+ 
+    300.  
+ 
+ 
+ dq1  =
+ 
+    0.  
+ 
+ ds1  =
+ 
+    0.  
+ 
+ dq2  =
+ 
+    90.  
+ 
+ ds2  =
+ 
+    0.3  
+ 
+ 
+ 
+ change in entropy of resistor=  0.000000 j/k 
+ 
+ change in entropy of universe=  0.300000 j/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.17/9_17.sce #
+ 
+ 
+ m1  =
+ 
+    1.  
+ 
+ m2  =
+ 
+    28.  
+ 
+ cv  =
+ 
+    0.18  
+ 
+ T2  =
+ 
+    373.  
+ 
+ T1  =
+ 
+    323.  
+ 
+ 
+ ds  =
+ 
+    0.0009252  
+ 
+ 
+ change in entropy =  0.000925 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH9/EX9.18/9_18.sce #
+ 
+ 
+ T1  =
+ 
+    40.  
+ 
+ T2  =
+ 
+    120.  
+ 
+ c1  =
+ 
+    0.076  
+ 
+ c2  =
+ 
+    0.00026  
+ 
+ c3  =
+ 
+    0.15  
+ 
+ 
+ r1  =
+ 
+    6.08  
+ 
+ r2  =
+ 
+    1.664  
+ 
+ r3  =
+ 
+    0.1647918  
+ 
+ ds  =
+ 
+    21.256041  
+ 
+ 
+ change in entropy =  21.256041 cal/k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH10/EX10.7/10_7.sce #
+ 
+ 
+ T  =
+ 
+    278.  
+ 
+ v  =
+ 
+    0.000001  
+ 
+ a  =
+ 
+    0.000015  
+ 
+ cp  =
+ 
+    1005.  
+ 
+ dp  =
+ 
+    1.000D+08  
+ 
+ 
+ dt  =
+ 
+    0.0000988  
+ 
+ 
+ 
+ temperature of water rises by=  0.000099 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH10/EX10.8/10_8.sce #
+ 
+ 
+ T  =
+ 
+    278.  
+ 
+ v  =
+ 
+    0.000001  
+ 
+ a  =
+ 
+    0.000015  
+ 
+ cp  =
+ 
+    1005.  
+ 
+ dp  =
+ 
+    1.000D+08  
+ 
+ 
+ q  =
+ 
+    0.0992857  
+ 
+ 
+ 
+ quantity of heat given=  0.099286 cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH10/EX10.13/10_13.sce #
+ 
+ 
+ dq  =
+ 
+    540000.  
+ 
+ dv  =
+ 
+    1.676  
+ 
+ T1  =
+ 
+    373.  
+ 
+ T2  =
+ 
+    423.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ 
+ dt  =
+ 
+    50.  
+ 
+ dp  =
+ 
+    181397.05  
+ 
+ p2  =
+ 
+    2.8139705  
+ 
+ 
+ 
+ required pressure=  2.813970 pa 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH11/EX11.2/11_2.sce #
+ 
+ 
+ a  =
+ 
+    0.245  
+ 
+ b  =
+ 
+    0.0267  
+ 
+ dp  =
+ 
+    50.  
+ 
+ t1  =
+ 
+    300.  
+ 
+ R  =
+ 
+    8.4  
+ 
+ 
+ cp  =
+ 
+    11.76  
+ 
+ l  =
+ 
+  - 0.0265056  
+ 
+ dt  =
+ 
+  - 0.1126937  
+ 
+ 
+ 
+ drop in temperature= -0.112694 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH11/EX11.3/11_3.sce #
+ 
+ 
+ k  =
+ 
+    0.00006  
+ 
+ B  =
+ 
+    5000.  
+ 
+ c  =
+ 
+    420.  
+ 
+ T  =
+ 
+    2.  
+ 
+ 
+ dt  =
+ 
+  - 0.8928571  
+ 
+ T1  =
+ 
+    1.1071429  
+ 
+ 
+ 
+ final temperature=  1.107143 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.1/12_1.sce #
+ 
+ 
+ cu  =
+ 
+    390.  
+ 
+ al  =
+ 
+    226.  
+ 
+ lal  =
+ 
+    0.05  
+ 
+ 
+ lcu  =
+ 
+    0.0656823  
+ 
+ 
+ 
+ wax melts up to=  0.065682 m 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.2/12_2.sce #
+ 
+ 
+ m  =
+ 
+    96.  
+ 
+ m1  =
+ 
+    5.  
+ 
+ t1  =
+ 
+    37.  
+ 
+ t2  =
+ 
+    10.  
+ 
+ l  =
+ 
+    10.  
+ 
+ t  =
+ 
+    240.  
+ 
+ a  =
+ 
+    5.  
+ 
+ dt  =
+ 
+    24.  
+ 
+ 
+ k  =
+ 
+    0.09  
+ 
+ h1  =
+ 
+    2700.  
+ 
+ h2  =
+ 
+    2592.  
+ 
+ dh  =
+ 
+    108.  
+ 
+ p  =
+ 
+    4.  
+ 
+ 
+ 
+ thermal conductivity=  0.090000 cgs units 
+ 
+ percentage of heat loss=  4.000000  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.3/12_3.sce #
+ 
+ 
+ cu  =
+ 
+    90.  
+ 
+ fe  =
+ 
+    12.  
+ 
+ t1  =
+ 
+    200.  
+ 
+ t2  =
+ 
+    0.  
+ 
+ l  =
+ 
+    0.3  
+ 
+ a  =
+ 
+    0.0005  
+ 
+ 
+ t  =
+ 
+    176.47059  
+ 
+ dt  =
+ 
+    23.529412  
+ 
+ rh  =
+ 
+    7.0588235  
+ 
+ 
+ 
+ rate of heat flow=  7.058824 cal/sec 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.4/12_4.sce #
+ 
+ 
+ a  =
+ 
+    25.  
+ 
+ aw  =
+ 
+    5.  
+ 
+ dt  =
+ 
+    30.  
+ 
+ t  =
+ 
+    3600.  
+ 
+ l  =
+ 
+    0.3  
+ 
+ br  =
+ 
+    0.12  
+ 
+ gl  =
+ 
+    0.25  
+ 
+ l1  =
+ 
+    0.03  
+ 
+ 
+ A  =
+ 
+    95.  
+ 
+ hb  =
+ 
+    4104.  
+ 
+ hw  =
+ 
+    45000.  
+ 
+ tot  =
+ 
+    49104.  
+ 
+ 
+ 
+ total heat passing per hour=  49104.000000 k.cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.5/12_5.sce #
+ 
+ 
+ k1  =
+ 
+    0.252  
+ 
+ k2  =
+ 
+    0.05  
+ 
+ t1  =
+ 
+    273.  
+ 
+ t2  =
+ 
+    285.  
+ 
+ l1  =
+ 
+    0.0175  
+ 
+ l2  =
+ 
+    0.02  
+ 
+ 
+ t  =
+ 
+    274.77515  
+ 
+ 
+ 
+ temperature of interface=  274.775148 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.6/12_6.sce #
+ 
+ 
+ cu  =
+ 
+    104.  
+ 
+ w  =
+ 
+    0.14  
+ 
+ l1  =
+ 
+    50.  
+ 
+ t  =
+ 
+    0.0001  
+ 
+ t1  =
+ 
+    100.  
+ 
+ t2  =
+ 
+    0.  
+ 
+ 
+ x  =
+ 
+    7.4285714  
+ 
+ l  =
+ 
+    64.857143  
+ 
+ dt  =
+ 
+    100.  
+ 
+ dg  =
+ 
+    1.5418502  
+ 
+ d1  =
+ 
+    11.453744  
+ 
+ d2  =
+ 
+    88.546256  
+ 
+ 
+ 
+ temperature gradient=  1.541850 c/cm 
+ 
+  temperature of one end=  11.453744 c 
+ 
+ temperature of other end=  88.546256 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.7/12_7.sce #
+ 
+ 
+ m  =
+ 
+    4800.  
+ 
+ lice  =
+ 
+    80.  
+ 
+ a  =
+ 
+    3600.  
+ 
+ t1  =
+ 
+    100.  
+ 
+ t2  =
+ 
+    0.  
+ 
+ t  =
+ 
+    10.  
+ 
+ 
+ h  =
+ 
+    10.666667  
+ 
+ dt  =
+ 
+    100.  
+ 
+ k  =
+ 
+    0.0002963  
+ 
+ 
+ 
+ thermal conductivity of stone=  0.000296 cal/cm s c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.8/12_8.sce #
+ 
+ 
+ t1  =
+ 
+    100.  
+ 
+ t2  =
+ 
+    4.  
+ 
+ k  =
+ 
+    0.5  
+ 
+ a  =
+ 
+    12.  
+ 
+ l  =
+ 
+    8.  
+ 
+ r  =
+ 
+    36.  
+ 
+ 
+ T  =
+ 
+    76.  
+ 
+ 
+ 
+ equilibrium temperature of inner surface=  76.000000 c 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.9/12_9.sce #
+ 
+ 
+ r2  =
+ 
+    0.5  
+ 
+ r1  =
+ 
+    0.4  
+ 
+ l  =
+ 
+    30.  
+ 
+ q  =
+ 
+    83.333333  
+ 
+ t  =
+ 
+    100.  
+ 
+ t1  =
+ 
+    20.  
+ 
+ t2  =
+ 
+    30.  
+ 
+ dt  =
+ 
+    75.  
+ 
+ 
+ k  =
+ 
+    0.0013160  
+ 
+ 
+ 
+ thermal conductivity of glass tube=  0.001316 cgs units 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.10/12_10.sce #
+ 
+ 
+ t2  =
+ 
+    162.  
+ 
+ t1  =
+ 
+    62.  
+ 
+ l  =
+ 
+    0.15  
+ 
+ d  =
+ 
+    0.02  
+ 
+ k  =
+ 
+    226.  
+ 
+ 
+ r  =
+ 
+    0.01  
+ 
+ a  =
+ 
+    0.000314  
+ 
+ p  =
+ 
+    0.0628  
+ 
+ x  =
+ 
+    6.4030797  
+ 
+ e  =
+ 
+    46.329355  
+ 
+ 
+ 
+ surface emissivity of rod=  46.329355  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.11/12_11.sce #
+ 
+ 
+ t1  =
+ 
+    5.6  
+ 
+ t2  =
+ 
+    2.8  
+ 
+ t3  =
+ 
+    0.7  
+ 
+ d1  =
+ 
+    2.  
+ 
+ d2  =
+ 
+    4.  
+ 
+ d3  =
+ 
+    8.  
+ 
+ w  =
+ 
+    0.0172055  
+ 
+ 
+ d  =
+ 
+    0.3465736  
+ 
+ k  =
+ 
+    143.2438  
+ 
+ 
+ 
+ diffusity=  143.243805 m^2 per day 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH12/EX12.12/12_12.sce #
+ 
+ 
+ kcu  =
+ 
+    0.93  
+ 
+ t  =
+ 
+    700.  
+ 
+ 
+ khell  =
+ 
+    651.  
+ 
+ kmks  =
+ 
+    65100.  
+ 
+ ksi  =
+ 
+    2734.2  
+ 
+ 
+ 
+ conductivity=  651.000000 cal per sec per cm per c 
+ 
+ conductivity=  65100.000000 cal per sec per m per c 
+ 
+ conductivity=  2734.200000 watt per m per k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.1/14_1.sce #
+ 
+ 
+ si  =
+ 
+    5.735D-08  
+ 
+ t  =
+ 
+    1500.  
+ 
+ r  =
+ 
+    0.003  
+ 
+ 
+ e  =
+ 
+    117.21213  
+ 
+ 
+ 
+ energy=  117.212135 cal 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.2/14_2.sce #
+ 
+ 
+ t1  =
+ 
+    573.  
+ 
+ t2  =
+ 
+    273.  
+ 
+ m  =
+ 
+    0.032  
+ 
+ s  =
+ 
+    100.  
+ 
+ r  =
+ 
+    0.35  
+ 
+ a  =
+ 
+    0.0008  
+ 
+ e  =
+ 
+    1.  
+ 
+ 
+ E  =
+ 
+    1.12  
+ 
+ si  =
+ 
+    1.369D-08  
+ 
+ 
+ 
+ stefans constant=  1.369255e-08 j m^-2 sec^-1 deg^-4 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.3/14_3.sce #
+ 
+ 
+ E  =
+ 
+    40.  
+ 
+ a  =
+ 
+    0.000066  
+ 
+ e  =
+ 
+    0.31  
+ 
+ t  =
+ 
+    2443.  
+ 
+ 
+ si  =
+ 
+    5.489D-08  
+ 
+ 
+ 
+ stefans constant=  5.488586e-08 j m^-2 sec^-1 deg^-4 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.4/14_4.sce #
+ 
+ 
+ t1  =
+ 
+    500.  
+ 
+ t2  =
+ 
+    300.  
+ 
+ m  =
+ 
+    10.  
+ 
+ s  =
+ 
+    100.  
+ 
+ r  =
+ 
+    0.07  
+ 
+ 
+ a  =
+ 
+    0.061544  
+ 
+ E  =
+ 
+    3.348D+09  
+ 
+ r  =
+ 
+    3347993.6  
+ 
+ 
+ 
+ maximum rate at which temperature will fall=  3347993600.000001 c/sec 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.5/14_5.sce #
+ 
+ 
+ t1  =
+ 
+    700.  
+ 
+ t2  =
+ 
+    290.  
+ 
+ E  =
+ 
+    10000.  
+ 
+ si  =
+ 
+    5.700D-08  
+ 
+ 
+ t  =
+ 
+    1.236D+11  
+ 
+ T  =
+ 
+    592.91532  
+ 
+ t1  =
+ 
+    1.754D+11  
+ 
+ T1  =
+ 
+    647.18924  
+ 
+ 
+ 
+ temperature its rate will be halved=  592.915324 k 
+ 
+ temperature of body=  647.189237 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.6/14_6.sce #
+ 
+ 
+ E  =
+ 
+    40.  
+ 
+ r  =
+ 
+    0.00005  
+ 
+ l  =
+ 
+    0.1  
+ 
+ si  =
+ 
+    5.670D-08  
+ 
+ T  =
+ 
+    2773.  
+ 
+ 
+ a  =
+ 
+    0.0000314  
+ 
+ e  =
+ 
+    0.3799687  
+ 
+ 
+ 
+ relative emittance=  0.379969  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.7/14_7.sce #
+ 
+ 
+ r  =
+ 
+    0.02  
+ 
+ t1  =
+ 
+    393.  
+ 
+ t2  =
+ 
+    373.  
+ 
+ si  =
+ 
+    5.670D-08  
+ 
+ 
+ a  =
+ 
+    0.005024  
+ 
+ E  =
+ 
+    1.2811942  
+ 
+ 
+ 
+ rate at which energy must be supplied=  1.281194 watts 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.8/14_8.sce #
+ 
+ 
+ t  =
+ 
+    6000.  
+ 
+ r  =
+ 
+    17000.  
+ 
+ 
+ T  =
+ 
+    68511.501  
+ 
+ 
+ 
+ temperature of the star=  68511.500726 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.9/14_9.sce #
+ 
+ 
+ l  =
+ 
+    0.0000475  
+ 
+ w  =
+ 
+    0.293  
+ 
+ t  =
+ 
+    10000000.  
+ 
+ 
+ T  =
+ 
+    6164.5277  
+ 
+ lm  =
+ 
+    2.930D-10  
+ 
+ 
+ 
+ effective temperature of sun=  6164.527667 k 
+ 
+ wavelength of max energy=  2.930000e-10 m 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.10/14_10.sce #
+ 
+ 
+ r  =
+ 
+    1.500D+11  
+ 
+ R  =
+ 
+    7.000D+08  
+ 
+ si  =
+ 
+    6.720D-08  
+ 
+ s  =
+ 
+    81350.  
+ 
+ 
+ t  =
+ 
+    9.265D+14  
+ 
+ T  =
+ 
+    5517.0366  
+ 
+ 
+ 
+ value of temperature=  5517.036637 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.11/14_11.sce #
+ 
+ 
+ s  =
+ 
+    82000.  
+ 
+ si  =
+ 
+    5.670D-08  
+ 
+ a  =
+ 
+    32.  
+ 
+ 
+ r2  =
+ 
+    16.  
+ 
+ r1  =
+ 
+    0.0046519  
+ 
+ r  =
+ 
+    0.0000216  
+ 
+ t  =
+ 
+    1.114D+15  
+ 
+ T  =
+ 
+    5777.0609  
+ 
+ 
+ 
+ surface temperature of sun=  5777.060932 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH14/EX14.12/14_12.sce #
+ 
+ 
+ s  =
+ 
+    1.5  
+ 
+ k  =
+ 
+    0.0027  
+ 
+ 
+ td  =
+ 
+  - 9.2592593  
+ 
+ 
+ 
+ temperature gradient= -9.259259 c cm^-1 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.1/15_1.sce #
+ 
+ 
+ c  =
+ 
+    8.  
+ 
+ h  =
+ 
+    3.  
+ 
+ t  =
+ 
+    5.  
+ 
+ 
+ a  =
+ 
+    0.21875  
+ 
+ 
+ 
+ probability of 3 heads and 5 tails=  0.218750  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.2/15_2.sce #
+ 
+ 
+ n  =
+ 
+    5.  
+ 
+ h  =
+ 
+    2.  
+ 
+ p  =
+ 
+    0.1666667  
+ 
+ 
+ t  =
+ 
+    0.8333333  
+ 
+ a  =
+ 
+    0.1607510  
+ 
+ 
+ 
+ probability of apperance of 4 in two dices=  0.160751  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.3/15_3.sce #
+ 
+ 
+ n  =
+ 
+    12.  
+ 
+ p  =
+ 
+    2.  
+ 
+ 
+ t  =
+ 
+    6.  
+ 
+ a  =
+ 
+    0.2255859  
+ 
+ 
+ 
+ probability=  0.225586  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.4/15_4.sce #
+ 
+ 
+ n  =
+ 
+    10.  
+ 
+ a  =
+ 
+    0.6  
+ 
+ h  =
+ 
+    0.  
+ 
+ 
+ b  =
+ 
+    0.4  
+ 
+ p  =
+ 
+    0.0060466  
+ 
+ 
+ 
+ probability of heads occurence=  6.000000  
+ 
+ probability of occuring head only in 10 throws=  0.006047  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.5/15_5.sce #
+ 
+ 
+ n  =
+ 
+    400.  
+ 
+ a1  =
+ 
+    300.  
+ 
+ b1  =
+ 
+    100.  
+ 
+ a2  =
+ 
+    200.  
+ 
+ b2  =
+ 
+    200.  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ p1  =
+ 
+    Nan  
+ 
+ p2  =
+ 
+    Nan  
+ 
+ w  =
+ 
+    Nan  
+ 
+ 
+ 
+ ratio of probabilities= Nan  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.6/15_6.sce #
+ 
+ 
+ a1  =
+ 
+    2.  
+ 
+ a2  =
+ 
+    6.  
+ 
+ a3  =
+ 
+    16.  
+ 
+ a4  =
+ 
+    2.  
+ 
+ b1  =
+ 
+    1.  
+ 
+ b2  =
+ 
+    3.  
+ 
+ b3  =
+ 
+    4.  
+ 
+ b4  =
+ 
+    7.  
+ 
+ 
+ a  =
+ 
+    26.  
+ 
+ x  =
+ 
+    98.  
+ 
+ p2  =
+ 
+    0.0769231  
+ 
+ p6  =
+ 
+    0.2307692  
+ 
+ p16  =
+ 
+    0.6153846  
+ 
+ d  =
+ 
+    3.7692308  
+ 
+ 
+ 
+ probability of state 2=  0.076923  
+ 
+ probability of state 6=  0.230769  
+ 
+ probability of state 16=  0.615385  
+ 
+ value of <x>=  3.769231  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.9/15_9.sce #
+ 
+ 
+ dx  =
+ 
+    1.000D-11  
+ 
+ c  =
+ 
+    10000000.  
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ 
+ dp  =
+ 
+    9.100D-24  
+ 
+ n  =
+ 
+    27.575758  
+ 
+ 
+ 
+ number of quantum states available=  27.575758  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.10/15_10.sce #
+ 
+ 
+ t1  =
+ 
+    301.  
+ 
+ t2  =
+ 
+    300.  
+ 
+ f  =
+ 
+    5.000D+30  
+ 
+ fa  =
+ 
+    2.500D+30  
+ 
+ 
+ r  =
+ 
+    1.0033333  
+ 
+ i  =
+ 
+    Inf  
+ 
+ 
+ sigma(E) increases by a factor r^fa  
+ 
+ r=  1.003333  
+ 
+ fa=  2499999999999999908974073741312.000000  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.11/15_11.sce #
+ 
+ 
+ de  =
+ 
+    5.520D-21  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ 
+ t  =
+ 
+    200.  
+ 
+ 
+ 
+ temperature of system=  200.000000 k 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH15/EX15.14/15_14.sce #
+ 
+ 
+ p  =
+ 
+    101396.16  
+ 
+ dv  =
+ 
+    0.00001  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ t  =
+ 
+    300.  
+ 
+ 
+ r  =
+ 
+    2.449D+20  
+ 
+ 
+ 
+ factor by which number of accessible states increases is exp(r)  
+ 
+ r=  2.449183e+20  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH16/EX16.2/16_2.sce #
+ 
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ t  =
+ 
+    1000.  
+ 
+ 
+ l  =
+ 
+    0.0000029  
+ 
+ 
+ 
+ wavelength associated with maximum radiation=  2.869565e-06  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH16/EX16.5/16_5.sce #
+ 
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ r  =
+ 
+    5.860D+28  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ gs  =
+ 
+    2.  
+ 
+ 
+ a  =
+ 
+    8.757D-19  
+ 
+ 
+ 
+ fermi energy=  8.756878e-19 
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH16/EX16.10/16_10.sce #
+ 
+ 
+ t  =
+ 
+    300.  
+ 
+ e  =
+ 
+    0.01  
+ 
+ 
+ a  =
+ 
+    0.4999917  
+ 
+ 
+ 
+ NFD=  0.499992  
+ 
+grepthis#Heat_And_Thermodynamics_D._S._Mathur_1286/CH16/EX16.11/16_11.sce #
+ 
+ 
+ n  =
+ 
+    6.060D+26  
+ 
+ p  =
+ 
+    2700.  
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ gs  =
+ 
+    2.  
+ 
+ ml  =
+ 
+    0.02698  
+ 
+ 
+ a  =
+ 
+    1.864D-18  
+ 
+ r  =
+ 
+    11.58258  
+ 
+ 
+ 
+ fermi energy=  11.582580 ev 
+ 

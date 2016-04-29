@@ -1,0 +1,3355 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 92
+
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.1/ex1_1.sce #
+ 
+ 
+ 
+ 
+ c  =
+ 
+  - 40.  
+ 
+ k  =
+ 
+    233.  
+ 
+
+K=233°K 
+ F  =
+ 
+  - 40.  
+ 
+
+F=-40°F 
+ R  =
+ 
+    420.  
+ 
+
+R=420°R 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.2/ex1_2.sce #
+ 
+ 
+ 
+ 
+ span  =
+ 
+    1000.  
+ 
+ accuracy  =
+ 
+    0.01  
+ 
+ err  =
+ 
+    10.  
+ 
+(a)
+As error can be either positive or negative ,
+ the probable error at any point on the scale = 10°C 
+ max_scale  =
+ 
+    1200.  
+ 
+ Range_instr  =
+ 
+    2200.  
+ 
+
+(b)
+Range of the Instrument = 2200°C 
+ meter_reading  =
+ 
+    700.  
+ 
+ per_of_err  =
+ 
+    1.4285714  
+ 
+
+(c)
+Percentage of Error = ± 1.43%  
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.3/ex1_3.sce #
+ 
+ 
+ 
+ resi_per_leg  =
+ 
+    5.  
+ 
+ temp_coeff  =
+ 
+    0.385  
+ 
+ R_due_to_leadwires  =
+ 
+    10.  
+ 
+ err  =
+ 
+    25.974026  
+ 
+ err  =
+ 
+    26.  
+ 
+(a)
+The contribution of 10 ohms lead wire resistance 
+to the measurement error = 26°C 
+ temp_obj  =
+ 
+    200.  
+ 
+ temp_measured  =
+ 
+    226.  
+ 
+ per_of_err  =
+ 
+    13.  
+ 
+
+(b)
+Percentage of Error = 13% 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.4/ex1_4.sce #
+ 
+ 
+ 
+ 
+ temp  =
+ 
+    2.022  
+ 
+ millivolt_cor  =
+ 
+    37.325  
+ 
+ op  =
+ 
+    35.303  
+ 
+Millivolt output available= 35.303 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.5/ex1_5.sce #
+ 
+ 
+ 
+ millivolt_cor  =
+ 
+    2.585  
+ 
+ pot_reading  =
+ 
+    30.511  
+ 
+ corrected_millivolt  =
+ 
+    33.096  
+ 
+Temperature correspond to 33.096 mV from the table = 600°C 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.6/ex1_6.sce #
+ 
+ 
+ 
+ ref_jun  =
+ 
+    100.  
+ 
+ mV_100  =
+ 
+    0.645  
+ 
+ mV_1000  =
+ 
+    9.585  
+ 
+ mV_1200  =
+ 
+    11.947  
+ 
+ op1  =
+ 
+    8.94  
+ 
+ op2  =
+ 
+    11.302  
+ 
+Millivolt to be fed checking 1000 C = 8.940 mV 
+
+Millivolt to be fed checking 1200 C = 11.302 mV 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.7/ex1_7.sce #
+ 
+ 
+ 
+ E_rec_pyro  =
+ 
+    0.8075  
+ 
+ T  =
+ 
+    1362.2291  
+ 
+Pyrometer reading T = 1362.23°C 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.8/ex1_8.sce #
+ 
+ 
+ 
+ 
+ hot1_mV  =
+ 
+    41.29  
+ 
+ cold1_mV  =
+ 
+    2.022  
+ 
+ op1  =
+ 
+    39.268  
+ 
+ 
+ 
+ hot2_mV  =
+ 
+    33.096  
+ 
+ cold2_mV  =
+ 
+    2.585  
+ 
+ op2  =
+ 
+    30.511  
+ 
+ 
+ 
+ hot3_mV  =
+ 
+    11.947  
+ 
+ cold3_mV  =
+ 
+    0.299  
+ 
+ op3  =
+ 
+    11.648  
+ 
+ 
+(a)
+Output Millivolt = 39.268 
+
+(b)
+Output Millivolt = 30.511 
+
+(c)
+As the wrongly formed thermocouples at J1 and J2 will always oppose
+ the main millivolt output, the net output will be lower than normal value.
+Output mV<11.648 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH1/EX1.9/ex1_9.sce #
+ 
+ 
+ 
+ 
+ Rl_ind  =
+ 
+    250.  
+ 
+ Rl_rec  =
+ 
+    250.  
+ 
+ load_connected  =
+ 
+    500.  
+ 
+ load_allowable  =
+ 
+    600.  
+ 
+ max_load_controller  =
+ 
+    100.  
+ 
+(a)
+The max load to the controller = 100 ohms 
+ 
+ op_cont  =
+ 
+    600.  
+ 
+ total  =
+ 
+    1100.  
+ 
+ extra_load  =
+ 
+    500.  
+ 
+
+(b)
+Extra Load = 500 ohms 
+ 
+
+Additional Power Supply voltage required=10 V 
+ 
+
+Minimum Power Supply Voltage=34  
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.1/ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    100000.  
+ 
+(a)
+ 10kg/cm^2 = 100000 mmWG 
+ 
+ 
+ onemm_Hg  =
+ 
+    13.546  
+ 
+ y  =
+ 
+    7382.2531  
+ 
+ y  =
+ 
+    7.3822531  
+ 
+
+(b)
+10kg/cm^2 = 10^5 mmWG = 7.38 * 10^3 mmHg 
+ 
+ 
+ onebar  =
+ 
+    1.03  
+ 
+ z  =
+ 
+    9.7087379  
+ 
+
+(c)
+10kg/cm^2 = 9.71 bars 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.2/ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ gamm  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    35.  
+ 
+ dens_Hg  =
+ 
+    13.546  
+ 
+ press_in_kg_cm  =
+ 
+    3.5  
+ 
+ press_in_mmHg  =
+ 
+    2583.7886  
+ 
+ press_in_mmHg  =
+ 
+    2.5837886  
+ 
+(a)
+The pressure at depth of 35 meters in a water tank=3.5 kg/cm^2 = 2.58*10^3 mmHg 
+ 
+ 
+ press_atm  =
+ 
+    1.03  
+ 
+ abspress  =
+ 
+    4.53  
+ 
+ abspress_mmHg  =
+ 
+    3343.7886  
+ 
+ abspress_mmHg  =
+ 
+    3.3437886  
+ 
+
+(b)
+Absolute Pressure= 4.53 kg/cm^2 Abs = 3.34*10^3 mmHg Abs 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.3/ex2_3.sce #
+ 
+ 
+ 
+ 
+ egp  =
+ 
+    260.  
+ 
+ abspress  =
+ 
+    500.  
+ 
+Absolute Presssure = 500 mmHg 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.4/ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ p_diff  =
+ 
+    500.  
+ 
+ pdiff  =
+ 
+    0.6773  
+ 
+(a)
+p1-p2 = 0.677 kg/cm^2 
+ 
+ 
+ p1  =
+ 
+    6770.  
+ 
+ p_atm  =
+ 
+    10300.  
+ 
+ abs_p1  =
+ 
+    17070.  
+ 
+
+(b)If p2 is open to atmosphere:
+Absolute Pressure P1 = 17070 mmWG abs. 
+ 
+ 
+ P1  =
+ 
+    500.  
+ 
+ P1_gauge  =
+ 
+  - 260.  
+ 
+
+(c)If p2 is evacuated and sealed:
+p1= -260 mmHg gauge Pressure 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.5/ex2_5.sce #
+ 
+ 
+ 
+ 
+ spe_grav_water  =
+ 
+    1.  
+ 
+ spe_grav_X  =
+ 
+    2.  
+ 
+ wt_dens_water  =
+ 
+    1000.  
+ 
+ wt_dens_X  =
+ 
+    2000.  
+ 
+Weight Density of X = 2000 kg/m^3 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.6/ex2_6.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.05  
+ 
+ p_diff  =
+ 
+    1500.  
+ 
+(a)
+As Delta_h=A2/A1*h << h and normally negligiblefor well type manometer
+hence, p1-p2 = h = 1500 =111 mmHg 
+ 
+
+(b)
+h measured above the oriinal reference will be half of H, i.e. 111/2=55.5 mmHg
+(Since area of both legs are same) 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.7/ex2_7.sce #
+ 
+ 
+ 
+ 
+1 kg/cm^2 = 10 mWG
+ 
+ 
+ press  =
+ 
+    12.  
+ 
+
+(a)Bourdon Gauge is mounted 20 meters below water line:
+Pressure read by the Gauge = 12 kg/cm^2 
+ 
+ 
+ press2  =
+ 
+    7.  
+ 
+
+
+(b)Bourdon Gauge is located 30 meters above the water line:
+Pressure read by the Gauge = 7 kg/cm^2 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.8/ex2_8.sce #
+ 
+ 
+ 
+ 
+ dens_water  =
+ 
+    1000.  
+ 
+ h1  =
+ 
+    125.  
+ 
+ h2  =
+ 
+    250.  
+ 
+ d2  =
+ 
+    500.  
+ 
+(a)
+Density of Liquid = 500 kg/m^3 
+
+Specific Density of the liquid = 0.5 
+ 
+ 
+
+
+(b)
+If Values of water and liquid interchanged:
+ 
+ d3  =
+ 
+    2000.  
+ 
+
+Density of Liquid = 2000 kg/m^3 
+
+Specific Density of the liquid = 2.0 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.9/ex2_9.sce #
+ 
+ 
+ 
+ 
+ R  =
+ 
+    120.  
+ 
+ l  =
+ 
+    122.  
+ 
+ a  =
+ 
+    0.1  
+ 
+ rho  =
+ 
+    0.0983607  
+ 
+ R1  =
+ 
+    140.  
+ 
+ l1  =
+ 
+    131.77506  
+ 
+ l1  =
+ 
+    132.  
+ 
+Length l1 = 132 meters 
+ A1  =
+ 
+    0.0924242  
+ 
+
+Area A1 = 0.0924 mm^2 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.10/ex2_10.sce #
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.57  
+ 
+ 
+ 
+ d  =
+ 
+    0.1  
+ 
+ di1  =
+ 
+    100.  
+ 
+ di2  =
+ 
+    1000.  
+ 
+ c1  =
+ 
+    5700.  
+ 
+ c1  =
+ 
+    5700.  
+ 
+(a)
+C1=5700 pf 
+ 
+ 
+ c2  =
+ 
+    57000.  
+ 
+
+(b)
+C2=57000 pf 
+ 
+ 
+ ds  =
+ 
+    0.09  
+ 
+ c11  =
+ 
+    6333.3333  
+ 
+ c12  =
+ 
+    63333.333  
+ 
+
+(c)
+C1 = 6333.3 pf
+C2 = 63333 pf 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.11/ex2_11.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.  
+ 
+ p1  =
+ 
+    10.  
+ 
+ W1  =
+ 
+    10.  
+ 
+W1 = 10 kg 
+
+With the 4 standard weights of 10kg, 20kg, 30kg and 40kg   
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH2/EX2.12/ex2_12.sce #
+ 
+ 
+ 
+ 
+ p1  =
+ 
+    0.01  
+ 
+ h1  =
+ 
+    20.  
+ 
+ K  =
+ 
+    0.000025  
+ 
+ p2  =
+ 
+    0.0225  
+ 
+ p2  =
+ 
+    2.25  
+ 
+The unknown pressure p2 = 2.25 * 10^-2 torr 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.1/ex3_1.sce #
+ 
+ 
+ 
+ m1  =
+ 
+    20.  
+ 
+ a  =
+ 
+    5.  
+ 
+ F  =
+ 
+    100.  
+ 
+F = 100 Newtons 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.2/ex3_2.sce #
+ 
+ 
+ 
+ 
+ m1  =
+ 
+    50.  
+ 
+ g1  =
+ 
+    9.8  
+ 
+ W2  =
+ 
+    490.  
+ 
+W = 490 Newtons = 50 kgf 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.3/ex3_3.sce #
+ 
+ 
+ 
+ wt_material  =
+ 
+    2500.  
+ 
+ wt_water  =
+ 
+    1000.  
+ 
+ spe_grav  =
+ 
+    2.5  
+ 
+ 
+Specific gravity of the material = 2.5 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.4/ex3_4.sce #
+ 
+ 
+ 
+ 
+ L  =
+ 
+    20.  
+ 
+ W  =
+ 
+    2000.  
+ 
+ db  =
+ 
+    0.02  
+ 
+ Wb  =
+ 
+    100.  
+ 
+ dG  =
+ 
+    0.5  
+ 
+ S  =
+ 
+    0.1538462  
+ 
+S = 0.154 rad/g 
+ 
+ fi  =
+ 
+    0.2  
+ 
+ DeltaW  =
+ 
+    0.0226778  
+ 
+
+DeltaW = 0.023 g 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.5/ex3_5.sce #
+ 
+ 
+ 
+ hp  =
+ 
+    746.  
+ 
+ P  =
+ 
+    3730.  
+ 
+ N  =
+ 
+    1500.  
+ 
+ n  =
+ 
+    25.  
+ 
+ T  =
+ 
+    1425.4777  
+ 
+T = 1425 Newton meters 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.6/ex3_6.sce #
+ 
+ 
+ 
+ ch_l  =
+ 
+    0.075  
+ 
+ orig_l  =
+ 
+    50.  
+ 
+ 
+ S  =
+ 
+    0.0015  
+ 
+ E  =
+ 
+    966000.  
+ 
+ stress  =
+ 
+    1449.  
+ 
+ area  =
+ 
+    1.5  
+ 
+ f  =
+ 
+    2173.5  
+ 
+Strain = 0.0015 cm/cm
+Stress =1449 kg/cm^2
+Force = 2173.5 kg 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.7/ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    120.  
+ 
+ R2  =
+ 
+    120.  
+ 
+ R3  =
+ 
+    120.  
+ 
+ R4  =
+ 
+    120.  
+ 
+ Rg  =
+ 
+    100.  
+ 
+ C  =
+ 
+    12672000.  
+ 
+ C  =
+ 
+    1.2672  
+ 
+(a)
+C=1.267*10^7 
+ E  =
+ 
+    10.  
+ 
+ F  =
+ 
+    22.727273  
+ 
+
+F = 22.7 *10^3 A/mm = 22.7 mA/mm 
+ 
+ 
+ Fe  =
+ 
+    0.0002  
+ 
+ E  =
+ 
+    10.  
+ 
+ DeltaE  =
+ 
+    0.0005000  
+ 
+ DeltaE  =
+ 
+    0.49995  
+ 
+
+(b)
+DeltaEg=0.5 mV 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.8/ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ r1  =
+ 
+    2500.  
+ 
+ r2  =
+ 
+    1500.  
+ 
+ n  =
+ 
+    3750.  
+ 
+(a)
+n = 3750 rpm 
+ 
+ 
+ N  =
+ 
+    5.  
+ 
+ r5  =
+ 
+    681.81818  
+ 
+ r5  =
+ 
+    682.  
+ 
+
+(b)
+r5=682 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH3/EX3.9/ex3_9.sce #
+ 
+ 
+ 
+ rpm  =
+ 
+    1500.  
+ 
+ f  =
+ 
+    200.  
+ 
+ N  =
+ 
+    8.  
+ 
+ 
+No of teeth on the wheel
+N=8 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.1/ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    50.  
+ 
+ m  =
+ 
+    0.005  
+ 
+ wn  =
+ 
+    100.  
+ 
+(a)
+Natural frequency(wn)= 100 rad/s 
+ 
+ Cc  =
+ 
+    1.  
+ 
+
+(b)
+Cc=1 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.2/ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Cc  =
+ 
+    1.  
+ 
+ C  =
+ 
+    0.7  
+ 
+ m  =
+ 
+    0.005  
+ 
+ k  =
+ 
+    50.  
+ 
+ w  =
+ 
+    71.414284  
+ 
+(a)
+w=71.4 rad/s 
+ 
+ w1  =
+ 
+    250.  
+ 
+ theta  =
+ 
+  - 0.6666667  
+ 
+
+theta=-0.666667 
+ fi  =
+ 
+    0.5880026  
+ 
+ fi  =
+ 
+    33.690068  
+ 
+
+fi = 33° 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.3/ex4_3.sce #
+ 
+ 
+ 
+ m  =
+ 
+    0.005  
+ 
+ c  =
+ 
+    0.7  
+ 
+ y  =
+ 
+    4.6051702  
+ 
+ 
+ t  =
+ 
+    0.0657881  
+ 
+t=0.0658 Secs 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.4/ex4_4.sce #
+ 
+ 
+ 
+ rg1  =
+ 
+    1200.  
+ 
+ rg2  =
+ 
+    1200.  
+ 
+ rg3  =
+ 
+    1200.  
+ 
+ rg4  =
+ 
+    1200.  
+ 
+ D1  =
+ 
+    60.  
+ 
+ D2  =
+ 
+    60.  
+ 
+ D3  =
+ 
+    60.  
+ 
+ D4  =
+ 
+    60.  
+ 
+ E  =
+ 
+    12.  
+ 
+ v  =
+ 
+    0.6  
+ 
+ v  =
+ 
+    600.  
+ 
+V0=600 mV 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.5/ex4_5.sce #
+ 
+ 
+ 
+ g  =
+ 
+    0.06  
+ 
+ t  =
+ 
+    0.0025  
+ 
+ p  =
+ 
+    1960000.  
+ 
+ E  =
+ 
+    294.  
+ 
+E=294 V 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.6/ex4_6.sce #
+ 
+ 
+ 
+ 
+ c0  =
+ 
+    25.  
+ 
+ x0  =
+ 
+    0.5  
+ 
+ x1  =
+ 
+    0.05  
+ 
+ c1  =
+ 
+    27.777778  
+ 
+ c2  =
+ 
+    22.727273  
+ 
+C1=27.78 pF
+C2=22.73 pF 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.7/ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ sg_at_60  =
+ 
+    1.02  
+ 
+ API  =
+ 
+    7.2254902  
+ 
+(a)
+Degrees API = 7.23°API 
+ 
+ Be  =
+ 
+    2.8431373  
+ 
+
+(b)
+Degrees Baume(heavy) = 2.8°Be 
+ 
+ Bk  =
+ 
+    20.  
+ 
+
+(c)
+Degrees Barkometer = 20°Bk 
+ 
+ Q  =
+ 
+    20.  
+ 
+
+(c)
+Degrees Quevenne = 20°Q 
+ 
+ Tw  =
+ 
+    4.  
+ 
+
+(d)
+Degrees Twaddel = 4°Tw 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.8/ex4_8.sce #
+ 
+ 
+ 
+ T  =
+ 
+    0.5  
+ 
+ sg1  =
+ 
+    1.02  
+ 
+ sg2  =
+ 
+    0.98  
+ 
+ wt  =
+ 
+    0.001  
+ 
+ v  =
+ 
+    12500.  
+ 
+ v  =
+ 
+    12500.  
+ 
+V=12500 cm^3 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.9/ex4_9.sce #
+ 
+ 
+ 
+ sg1  =
+ 
+    0.85  
+ 
+ sg2  =
+ 
+    0.8  
+ 
+ span  =
+ 
+    150.  
+ 
+ H  =
+ 
+    3000.  
+ 
+(a)
+H=3000 mm = 3m 
+ span_min  =
+ 
+    1500.  
+ 
+ span2  =
+ 
+    75.  
+ 
+ span2  =
+ 
+    75.  
+ 
+
+(b)
+D/P span = 75 mm 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.10/ex4_10.sce #
+ 
+ 
+ 
+ Ww  =
+ 
+    10.  
+ 
+ dw  =
+ 
+    1000.  
+ 
+ v  =
+ 
+    0.01  
+ 
+ dx  =
+ 
+    800.  
+ 
+ sg  =
+ 
+    0.8  
+ 
+ 
+Specific Gravity of X =0.8 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH4/EX4.11/ex4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ v_obj  =
+ 
+    0.002  
+ 
+ wt  =
+ 
+    1.5  
+ 
+ dx  =
+ 
+    750.  
+ 
+ sg  =
+ 
+    0.75  
+ 
+(a)
+Specific Gravity = 0.75 
+ 
+ 
+ sgl  =
+ 
+    0.8  
+ 
+ dens  =
+ 
+    800.  
+ 
+ W1  =
+ 
+    0.1  
+ 
+
+(b)
+W1 = 0.1 kg 
+ 
+ 
+ sg2  =
+ 
+    1.2  
+ 
+ dens2  =
+ 
+    1200.  
+ 
+ W2  =
+ 
+    0.9  
+ 
+
+(c)
+W2 = 0.9 kg 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.1/ex5_1.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.075  
+ 
+ a  =
+ 
+    0.0044170  
+ 
+ v  =
+ 
+    0.76  
+ 
+ Q  =
+ 
+    0.0033569  
+ 
+ Q  =
+ 
+    3.3569437  
+ 
+(i)
+Volume Flow Rate Q=3.357 *10^-3 m^3/sec 
+ rho  =
+ 
+    1000.  
+ 
+ W  =
+ 
+    3.3569437  
+ 
+
+(ii)
+Mass Flow rate W=3.357 kg/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.2/ex5_2.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    40.  
+ 
+ d  =
+ 
+    20.  
+ 
+ mr  =
+ 
+    15.  
+ 
+ h  =
+ 
+    1890.  
+ 
+ B  =
+ 
+    0.5  
+ 
+ M  =
+ 
+    1.0327956  
+ 
+ 
+ Cd  =
+ 
+    0.5999  
+ 
+ x  =
+ 
+    6.0863782  
+ 
+ Q  =
+ 
+    0.0011841  
+ 
+ Q  =
+ 
+    4.2626955  
+ 
+Volumetric flow rate Q= 4.2627 m^3/hr 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.3/ex5_3.sce #
+ 
+ 
+ 
+ Re  =
+ 
+    100000.  
+ 
+ D  =
+ 
+    0.04  
+ 
+ v  =
+ 
+    0.000001  
+ 
+ V1  =
+ 
+    2.5  
+ 
+ A1  =
+ 
+    0.001256  
+ 
+ A2  =
+ 
+    0.000314  
+ 
+ V2  =
+ 
+    10.  
+ 
+V2=10.0 m/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.4/ex5_4.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.61  
+ 
+ D  =
+ 
+    0.04  
+ 
+ d  =
+ 
+    0.02  
+ 
+ M  =
+ 
+    1.0327956  
+ 
+ 
+ V2  =
+ 
+    10.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ X  =
+ 
+    113.37773  
+ 
+ p_diff  =
+ 
+    12854.51  
+ 
+ 
+ p_diff  =
+ 
+    128.  
+ 
+ p_diff  =
+ 
+    1.28  
+ 
+P1-P2 = 1.28 kg/cm^2 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.5/ex5_5.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ D  =
+ 
+    0.15  
+ 
+ d  =
+ 
+    0.075  
+ 
+ p  =
+ 
+    250.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ s  =
+ 
+    0.075  
+ 
+ 
+ 
+ Q  =
+ 
+    0.0060570  
+ 
+(a) For orifice plate
+Q=0.006057 m^3/sec = 6.057 litres/sec 
+ Cd1  =
+ 
+    0.99  
+ 
+ Q2  =
+ 
+    0.0099940  
+ 
+
+
+(b)For venturi tube
+Q=0.009994 m^3/sec = 9.99 litres/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.6/ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    0.02  
+ 
+ d  =
+ 
+    0.1  
+ 
+ A  =
+ 
+    0.0078540  
+ 
+ v  =
+ 
+    2.5464791  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ Re  =
+ 
+    254647.91  
+ 
+ Re  =
+ 
+    2.5464791  
+ 
+(i)
+Reynolds number(Re) = 2.546 * 10^5 
+ 
+ 
+ Cd  =
+ 
+    0.98  
+ 
+ D  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    0.1  
+ 
+ M  =
+ 
+    1.0327956  
+ 
+ a2  =
+ 
+    0.00785  
+ 
+ Q  =
+ 
+    0.02  
+ 
+ g  =
+ 
+    9.8  
+ 
+ X  =
+ 
+    17.98009  
+ 
+ p_diff  =
+ 
+    324.  
+ 
+
+(ii)
+Pressur_difference = 324 kg/m^2 = 0.0324 kg/cm^2 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.7/ex5_7.sce #
+ 
+ 
+ 
+ 
+ g  =
+ 
+    9.81  
+ 
+ h  =
+ 
+    20.  
+ 
+ v  =
+ 
+    19.809089  
+ 
+ d  =
+ 
+    0.3  
+ 
+ A  =
+ 
+    0.07065  
+ 
+ A  =
+ 
+    70.  
+ 
+ A  =
+ 
+    0.07  
+ 
+ Q  =
+ 
+    1.3866362  
+ 
+Q=1.387 m^3/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.8/ex5_8.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    9.8  
+ 
+ h  =
+ 
+    0.4  
+ 
+ V  =
+ 
+    1.68  
+ 
+V = 1.68 m/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.9/ex5_9.sce #
+ 
+ 
+ 
+ 
+ Cd  =
+ 
+    0.98  
+ 
+ g  =
+ 
+    9.8  
+ 
+ h  =
+ 
+    0.9  
+ 
+ V  =
+ 
+    4.116  
+ 
+ V  =
+ 
+    411.  
+ 
+ V  =
+ 
+    4.11  
+ 
+V = 4.11 m/sec 
+ 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.11/ex5_11.sce #
+ 
+ 
+ 
+ dens  =
+ 
+    1026.  
+ 
+ p  =
+ 
+    25000.  
+ 
+ V  =
+ 
+    6.9808985  
+ 
+V=6.98 m/sec =25.131 km/hr 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.12/ex5_12.sce #
+ 
+ 
+ 
+ dens  =
+ 
+    1.29  
+ 
+ p  =
+ 
+    12500.  
+ 
+ V  =
+ 
+    139.21151  
+ 
+V=139.21 m/sec =501.16 km/hr 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.13/ex5_13.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ Dp  =
+ 
+    0.05  
+ 
+ Df  =
+ 
+    0.035  
+ 
+ g  =
+ 
+    9.8  
+ 
+ rho_f  =
+ 
+    3900.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ Vf  =
+ 
+    0.0000336  
+ 
+ Q  =
+ 
+    0.0008463  
+ 
+ Q  =
+ 
+    8.4630107  
+ 
+ Volumetric flow Q=8.4630 *10^-4 m^3/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.14/ex5_14.sce #
+ 
+ 
+ 
+ 
+ Cd  =
+ 
+    1.  
+ 
+ Dp  =
+ 
+    0.018  
+ 
+ Df  =
+ 
+    0.015  
+ 
+ g  =
+ 
+    9.81  
+ 
+ rho_f  =
+ 
+    2.7  
+ 
+ rho  =
+ 
+    0.8  
+ 
+ Vf  =
+ 
+    0.0000005  
+ 
+ 
+ 
+ Qmin  =
+ 
+    0.0000288  
+ 
+ Qmin  =
+ 
+    2.8792002  
+ 
+Case 1: When float is at the bottom
+ Volumetric flow Qmin=2.879 *10^-5 m^3/sec 
+ 
+ 
+ Dp2  =
+ 
+    0.0617  
+ 
+ Qmax  =
+ 
+    0.0010417  
+ 
+ Qmax  =
+ 
+    104.1715  
+ 
+
+
+Case 2: When float is at the bottom
+ Volumetric flow Qmax=104.17 *10^-5 m^3/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.15/ex5_15.sce #
+ 
+ 
+ 
+ W  =
+ 
+    165.  
+ 
+ R  =
+ 
+    328.  
+ 
+ L  =
+ 
+    16.  
+ 
+ Q  =
+ 
+    3382.5  
+ 
+ Flow Rate Q=3382.50 kg/min =56.4 kg/hour 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.16/ex5_16.sce #
+ 
+ 
+ 
+ f  =
+ 
+    100.  
+ 
+ d  =
+ 
+    0.3  
+ 
+ a  =
+ 
+    45.  
+ 
+ a_rad  =
+ 
+    0.7853982  
+ 
+ v  =
+ 
+    21.213203  
+ 
+ Fluid Velocity V=21.2 m/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.17/ex5_17.sce #
+ 
+ 
+ 
+ 
+ r  =
+ 
+    150.  
+ 
+ v  =
+ 
+    120.  
+ 
+ Q  =
+ 
+    72000.  
+ 
+ Volume flow rate Q=72000 cm^3/min = 72 litres/min 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.18/ex5_18.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    2500.  
+ 
+ d  =
+ 
+    2.75  
+ 
+ a  =
+ 
+    5.9395736  
+ 
+ v  =
+ 
+    7.0150939  
+ 
+ B  =
+ 
+    60.  
+ 
+ e  =
+ 
+    0.1157490  
+ 
+ Induced emf e =0.1157 V=115.7 mV 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.19/ex5_19.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    0.0002  
+ 
+ B  =
+ 
+    0.08  
+ 
+ l  =
+ 
+    0.1  
+ 
+ v  =
+ 
+    0.025  
+ 
+V = 0.025 m/sec = 2.50 cm/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH5/EX5.20/ex5_20.sce #
+ 
+ 
+ 
+ 
+ ei  =
+ 
+    0.00015  
+ 
+ em  =
+ 
+    0.0003  
+ 
+ B  =
+ 
+    0.1  
+ 
+ l  =
+ 
+    0.06  
+ 
+ v  =
+ 
+    0.05  
+ 
+Velocity of flow V = 0.05 m/sec = 5.0 cm/sec 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.1/ex6_1.sce #
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.5  
+ 
+ a  =
+ 
+    4.  
+ 
+ b  =
+ 
+    20.  
+ 
+ wh  =
+ 
+    16.  
+ 
+(a)just at the bottom level of the tank
+Water head applied to the transmitter =16 mA  
+ 
+ wh2  =
+ 
+    20.  
+ 
+
+
+(b)5m below the bottom of the tank
+Water head applied to the transmitter =20 mA  
+ 
+ wh3  =
+ 
+    12.  
+ 
+
+
+(c)5m above the bottom of the tank
+Water head applied to the transmitter =12 mA  
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.2/ex6_2.sce #
+ 
+ 
+ 
+ 
+ b  =
+ 
+    20.  
+ 
+ a  =
+ 
+    4.  
+ 
+ op  =
+ 
+    16.  
+ 
+ p  =
+ 
+    1.5  
+ 
+ p_h  =
+ 
+    15.  
+ 
+ h  =
+ 
+    8.  
+ 
+(a)
+h = 8m 
+ 
+ p1  =
+ 
+    1.  
+ 
+ t_op  =
+ 
+    12.  
+ 
+
+(b)
+Transmitter output =12 mA 
+ 
+ p2  =
+ 
+    0.5  
+ 
+ t_op1  =
+ 
+    8.  
+ 
+
+(c)
+Transmitter output =8 mA 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.3/ex6_3.sce #
+ 
+ 
+ 
+ 
+ b  =
+ 
+    20.  
+ 
+ a  =
+ 
+    4.  
+ 
+ op  =
+ 
+    16.  
+ 
+ wt_l1  =
+ 
+    25.  
+ 
+ t_op  =
+ 
+    8.  
+ 
+(a)
+Water level=+25cm
+Transmitter output = 8 mA 
+ 
+ 
+ wt_l2  =
+ 
+  - 25.  
+ 
+ t_op2  =
+ 
+    16.  
+ 
+
+(b)
+Water level=-25cm
+Transmitter output = 16 mA 
+ 
+ 
+ t_op3  =
+ 
+    12.  
+ 
+ H  =
+ 
+    50.  
+ 
+
+(c)
+Head Applied = 50 cm
+Level corresponding to 50 cm head =0 cm  
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.4/ex6_4.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.0005  
+ 
+ l  =
+ 
+    8.  
+ 
+ dens  =
+ 
+    6000.  
+ 
+ w  =
+ 
+    24.  
+ 
+(a)
+Weight of the displacer if weighed in air = 24 kg 
+ 
+ sbr1  =
+ 
+    23.  
+ 
+ wloss1  =
+ 
+    1.  
+ 
+ L1  =
+ 
+    2.  
+ 
+
+(i)	L1=2m 
+ 
+ sbr2  =
+ 
+    22.  
+ 
+ wloss2  =
+ 
+    2.  
+ 
+ L2  =
+ 
+    4.  
+ 
+
+(ii)	L2=4m 
+ 
+ sbr3  =
+ 
+    21.  
+ 
+ wloss3  =
+ 
+    3.  
+ 
+ L3  =
+ 
+    6.  
+ 
+
+(iii)	L3=6m 
+ 
+ 
+ level  =
+ 
+    8.  
+ 
+ wt  =
+ 
+    4.  
+ 
+ spring  =
+ 
+    20.  
+ 
+
+(b):when the tank is full
+Spring Balance reading = 20 kg 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.5/ex6_5.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ v  =
+ 
+    3.  
+ 
+ Bw  =
+ 
+    3000.  
+ 
+Buoyance Force(Bw) = 3000 kg 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.6/ex6_6.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ Bw  =
+ 
+    5000.  
+ 
+ v  =
+ 
+    5.  
+ 
+V = 5 m^3 
+ 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.7/ex6_7.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ h  =
+ 
+    10.  
+ 
+ P  =
+ 
+    10000.  
+ 
+P = 10000 kg/m^2 = 1 kg/cm^2  
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.8/ex6_8.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ h  =
+ 
+    15.  
+ 
+ ex_p  =
+ 
+    1.  
+ 
+ P  =
+ 
+    2.5  
+ 
+P = 2.5 kg/cm^2 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.9/ex6_9.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ ex_p  =
+ 
+    5000.  
+ 
+ P  =
+ 
+    16000.  
+ 
+ h  =
+ 
+    11.  
+ 
+h = 11 m 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH6/EX6.10/ex6_10.sce #
+ 
+ 
+ 
+ c2  =
+ 
+    0.0001  
+ 
+ r1  =
+ 
+    10000.  
+ 
+ r2  =
+ 
+    100000.  
+ 
+ r3  =
+ 
+    50000.  
+ 
+ Cx  =
+ 
+    0.00002  
+ 
+ Cx  =
+ 
+    20.  
+ 
+Cx = 20 microFarad 
+ c  =
+ 
+    5.  
+ 
+ l  =
+ 
+    4.  
+ 
+
+Level on the probe = 4m 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.1/ex7_1.sce #
+ 
+ 
+ 
+ f  =
+ 
+    1960000.  
+ 
+ A  =
+ 
+    100.  
+ 
+ V  =
+ 
+    20.  
+ 
+ l  =
+ 
+    10.  
+ 
+ mu  =
+ 
+    9800.  
+ 
+ mu  =
+ 
+    9.8  
+ 
+The absolute viscosity mu = 9.8*10^5 centipoises 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.2/ex7_2.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    10.  
+ 
+ F  =
+ 
+    0.1  
+ 
+(a)
+Fluidity = 0.1 rhe 
+ 
+ 
+ mu  =
+ 
+    10.  
+ 
+ rho  =
+ 
+    0.8  
+ 
+ ve  =
+ 
+    12.5  
+ 
+
+(b)
+Kinematic viscosity (v)= 12.5 cm^2/sec 
+ 
+ ab  =
+ 
+    1000.  
+ 
+ abwt  =
+ 
+    1.002  
+ 
+ rv  =
+ 
+    998.00399  
+ 
+
+(c)
+Relative viscosity = 998 centipoises 
+ 
+ PAS  =
+ 
+    10.  
+ 
+
+(c)
+Absolute viscosity = 1000 centipoises =10 poises = 1PAS 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.3/ex7_3.sce #
+ 
+ 
+ 
+ 
+ R  =
+ 
+    0.5  
+ 
+ L  =
+ 
+    5.  
+ 
+ p_diff  =
+ 
+    800.  
+ 
+ V  =
+ 
+    10.  
+ 
+ mu  =
+ 
+    0.3925  
+ 
+(b)
+mu=0.3925 poise =39.25 centipoise 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.4/ex7_4.sce #
+ 
+ 
+ 
+ 
+ g  =
+ 
+    980.  
+ 
+ h  =
+ 
+    4.  
+ 
+ R  =
+ 
+    0.5  
+ 
+ t  =
+ 
+    1.  
+ 
+ V  =
+ 
+    10.  
+ 
+ l  =
+ 
+    5.  
+ 
+ v  =
+ 
+    1.92325  
+ 
+(a)
+ v = 1.92 stokes 
+ mu  =
+ 
+    0.3925  
+ 
+ rho  =
+ 
+    0.2040816  
+ 
+
+(b)
+ Density of the fluid rho = 0.204 gm/cm^3 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.5/ex7_5.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.226  
+ 
+ B  =
+ 
+    195.  
+ 
+ t  =
+ 
+    60.  
+ 
+ v  =
+ 
+    10.31  
+ 
+(a) Fluid X
+ v = 10.31 centipoises 
+ A1  =
+ 
+    0.22  
+ 
+ B1  =
+ 
+    135.  
+ 
+ t1  =
+ 
+    140.  
+ 
+ v1  =
+ 
+    29.835714  
+ 
+
+(b)Fluid Y
+ v = 29.8 centipoises 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.6/ex7_6.sce #
+ 
+ 
+ 
+ t  =
+ 
+    12.  
+ 
+ Rsb  =
+ 
+    7.  
+ 
+ Rsf  =
+ 
+    1.12  
+ 
+ B  =
+ 
+    1.5  
+ 
+ mu  =
+ 
+    105.84  
+ 
+mu= 105.84 centipoises = 106 centipoises(approx) 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.7/ex7_7.sce #
+ 
+ 
+ 
+ 
+ B  =
+ 
+    45.  
+ 
+ W  =
+ 
+    25.  
+ 
+(a)
+Psychromatic differential : 20°C
+ Relative humidity is 80% corresponding to 
+temperature 45°C  and psychromatic differential 20°C 
+ 
+ 
+ B1  =
+ 
+    30.  
+ 
+ W1  =
+ 
+    27.  
+ 
+
+(b)
+Psychromatic differential : 3°C
+ Relative humidity is 80% corresponding to 
+temperature 30°C  and psychromatic differential 3°C 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.9/ex7_9.sce #
+ 
+ 
+ 
+ 
+ wt_vap  =
+ 
+    500.  
+ 
+ wt_vap_to_sat  =
+ 
+    1500.  
+ 
+ total  =
+ 
+    2000.  
+ 
+ Rh  =
+ 
+    25.  
+ 
+RH = 25% 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.10/ex7_10.sce #
+ 
+ 
+ 
+ pv  =
+ 
+    30.  
+ 
+ ps  =
+ 
+    60.  
+ 
+ Rh  =
+ 
+    50.  
+ 
+%RH = 50% 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.11/ex7_11.sce #
+ 
+ 
+ 
+ 
+ i1  =
+ 
+    250.  
+ 
+ i2  =
+ 
+    350.  
+ 
+ m  =
+ 
+    40.  
+ 
+% increase in moisture content = 40% 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH7/EX7.12/ex7_12.sce #
+ 
+ 
+ 
+ 
+ i2  =
+ 
+    150.  
+ 
+ i1  =
+ 
+    125.  
+ 
+ m  =
+ 
+    20.  
+ 
+Moisture percentage = 20% 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.1/ex8_1.sce #
+ 
+ 
+ 
+ fi  =
+ 
+    0.00001  
+ 
+ inch  =
+ 
+    0.0254  
+ 
+ A  =
+ 
+    0.0006452  
+ 
+ B  =
+ 
+    0.0155000  
+ 
+Flux Density B= 15.5 mT 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.2/ex8_2.sce #
+ 
+ 
+ 
+ i  =
+ 
+    0.01  
+ 
+ R  =
+ 
+    1000.  
+ 
+ P  =
+ 
+    0.1  
+ 
+ err_R  =
+ 
+    10.  
+ 
+ err_I  =
+ 
+    5.  
+ 
+ err_I2  =
+ 
+    10.  
+ 
+ err_p  =
+ 
+    20.  
+ 
+% error in I^2 = ± 10%
+% error in Power = ± 20% 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.3/ex8_3.sce #
+ 
+ 
+ 
+ i1  =
+ 
+    37.  
+ 
+ i2  =
+ 
+    42.  
+ 
+ i3  =
+ 
+    13.  
+ 
+ i4  =
+ 
+    6.7  
+ 
+ Imax  =
+ 
+    101.267  
+ 
+ 
+ Imin  =
+ 
+    96.133  
+ 
+ 
+Maximum level of total supply current = 101.267 mA
+Minimum level of total supply current = 96.133 mA 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.4/ex8_4.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    200.  
+ 
+ T0  =
+ 
+    300.  
+ 
+ Ti  =
+ 
+    70.  
+ 
+ t  =
+ 
+    3.  
+ 
+ x  =
+ 
+    0.4347826  
+ 
+ tow  =
+ 
+    3.6018335  
+ 
+(a)
+Time constant  tow=3.6 s 
+ 
+ t1  =
+ 
+    5.  
+ 
+ T5  =
+ 
+    242.60843  
+ 
+
+(b)
+Temperature after 5 seconds T5 = 242.61°C 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.5/ex8_5.sce #
+ 
+ 
+ 
+ w  =
+ 
+    9.  
+ 
+ wn  =
+ 
+    6.  
+ 
+ x  =
+ 
+    1.5  
+ 
+ dr  =
+ 
+    0.6  
+ 
+ Ar  =
+ 
+    0.4563166  
+ 
+A=0.456 
+ err  =
+ 
+    54.368335  
+ 
+
+Error = 54.37% 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.6/ex8_6.sce #
+ 
+ 
+ 
+ t  =
+ 
+    2.  
+ 
+ y  =
+ 
+    0.6321206  
+ 
+y(t)at t=2 will be y(t)=0.632 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.7/ex8_7.sce #
+ 
+ 
+ 
+ T  =
+ 
+    98.5    99.    99.5    100.    100.5    101.    101.5  
+ 
+ f  =
+ 
+    4.    13.    19.    35.    17.    10.    2.  
+ 
+ 
+ k  =
+ 
+    0.  
+ 
+ a  =
+ 
+    0.  
+ 
+ k  =
+ 
+    394.  
+ a  =
+ 
+    4.  
+ k  =
+ 
+    1681.  
+ a  =
+ 
+    17.  
+ k  =
+ 
+    3571.5  
+ a  =
+ 
+    36.  
+ k  =
+ 
+    7071.5  
+ a  =
+ 
+    71.  
+ k  =
+ 
+    8780.  
+ a  =
+ 
+    88.  
+ k  =
+ 
+    9790.  
+ a  =
+ 
+    98.  
+ k  =
+ 
+    9993.  
+ a  =
+ 
+    100.  
+ 
+ x_bar  =
+ 
+    99.93  
+ 
+(i)
+Arithmatic Mean x_bar = 99.93°C 
+ 
+ 
+ m  =
+ 
+    0.  
+ 
+ n  =
+ 
+    0.  
+ 
+ x  =
+ 
+  - 1.43  
+ x  =
+ 
+    1.43  
+ m  =
+ 
+    5.72  
+ n  =
+ 
+    4.  
+ x  =
+ 
+  - 0.93  
+ x  =
+ 
+    0.93  
+ m  =
+ 
+    17.81  
+ n  =
+ 
+    17.  
+ x  =
+ 
+  - 0.43  
+ x  =
+ 
+    0.43  
+ m  =
+ 
+    25.98  
+ n  =
+ 
+    36.  
+ x  =
+ 
+    0.07  
+ m  =
+ 
+    28.43  
+ n  =
+ 
+    71.  
+ x  =
+ 
+    0.57  
+ m  =
+ 
+    38.12  
+ n  =
+ 
+    88.  
+ x  =
+ 
+    1.07  
+ m  =
+ 
+    48.82  
+ n  =
+ 
+    98.  
+ x  =
+ 
+    1.57  
+ m  =
+ 
+    51.96  
+ n  =
+ 
+    100.  
+ 
+ D  =
+ 
+    0.5196  
+ 
+
+(ii)
+Average Deviation D = 0.5196°C 
+ 
+ 
+ 
+ m  =
+ 
+    0.  
+ 
+ n  =
+ 
+    0.  
+ 
+ x  =
+ 
+  - 1.43  
+ m  =
+ 
+    8.1796  
+ n  =
+ 
+    4.  
+ x  =
+ 
+  - 0.93  
+ m  =
+ 
+    19.4233  
+ n  =
+ 
+    17.  
+ x  =
+ 
+  - 0.43  
+ m  =
+ 
+    22.9364  
+ n  =
+ 
+    36.  
+ x  =
+ 
+    0.07  
+ m  =
+ 
+    23.1079  
+ n  =
+ 
+    71.  
+ x  =
+ 
+    0.57  
+ m  =
+ 
+    28.6312  
+ n  =
+ 
+    88.  
+ x  =
+ 
+    1.07  
+ m  =
+ 
+    40.0802  
+ n  =
+ 
+    98.  
+ x  =
+ 
+    1.57  
+ m  =
+ 
+    45.01  
+ n  =
+ 
+    100.  
+ 
+ sigma  =
+ 
+    0.6708949  
+ 
+
+(iii)
+Standard Deviation (Sigma) = 0.671°C 
+ 
+ 
+ v  =
+ 
+    0.4501  
+ 
+
+(iv)
+Variancce= 0.4501°C 
+ 
+ 
+ err  =
+ 
+    0.4525186  
+ 
+
+(v)
+Probable error = 0.4525°C 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.8/ex8_8.sce #
+ 
+ 
+ 
+ wn  =
+ 
+    1.7320508  
+ 
+ x  =
+ 
+    0.9237604  
+ 
+Damping coefficient = 0.924
+Natural frequency of Oscillation = 1.732 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.9/ex8_9.sce #
+ 
+ 
+ 
+ w  =
+ 
+    100.  
+ 
+ fi  =
+ 
+  - 3.0219267  
+ 
+ A  =
+ 
+    0.0019897  
+ 
+ A  =
+ 
+    500.  
+ 
+ err  =
+ 
+    99.8  
+ 
+A=K/500
+% error = 99.8%
+fi=-173.14° 
+ 
+grepthis#Industrial_Instrumentation_K._Krishnaswamy_And_S._Vijayachitra_1436/CH8/EX8.10/ex8_10.sce #
+ 
+ 
+ 
+ R  =
+ 
+    0.03  
+ 
+ K  =
+ 
+    1.  
+ 
+ tow  =
+ 
+    15.  
+ 
+ deg  =
+ 
+    0.45  
+ 
+ 
+ a  =
+ 
+    14.55  
+ 
+(i)The actual temperature when instrument reads 15°C is 14.55°C
+ The true temperature at 5000 metres = 14.55  
+ 
+ 
+ alt_red  =
+ 
+    150.  
+ 
+ h  =
+ 
+    4850.  
+ 
+
+(ii)
+The true altitude at which 15°C occurs is 4850 metres 
+ 

@@ -1,0 +1,84 @@
+grepthis#Engineering_Thermodynamics_O._Singh_2873/CH1/EX1.5/Ex1_5.sce #
+ 
+[2J[0;0H 
+ Engineering Thermodynamics by Onkar Singh,Chapter 1,Example 5   
+ 
+ atmospheric pressure(Patm)in kpa   
+ 
+ Patm=rho*g*h2/10^3   
+ Patm  =
+ 
+    101.39616  
+ 
+ pressure due to mercury column at AB(Pab)in kpa   
+ 
+ Pab=rho*g*h1/10^3   
+ Pab  =
+ 
+    53.3664  
+ 
+ pressure exerted by gas(Pgas)in kpa   
+ 
+ Pgas=Patm+Pab   
+ Pgas  =
+ 
+    154.76256  
+grepthis#Engineering_Thermodynamics_O._Singh_2873/CH1/EX1.9/Ex1_9.sce #
+ 
+[2J[0;0H 
+ Engineering Thermodynamics by Onkar Singh,Chapter 1,Example 9   
+ 
+ balancing pressure at plane BC in figure we get   
+ 
+ Psteam+Pwater=Patm+Pmercury   
+ 
+ now 1.atmospheric pressure(Patm)in pa   
+ 
+ Patm=RHOm*g*h1   
+ Patm  =
+ 
+    101396.16  
+ 
+ 2.pressure due to water(Pwater)in pa   
+ 
+ Pwater=RHOw*g*h2   
+ Pwater  =
+ 
+    196.2  
+ 
+ 3.pressure due to mercury(Pmercury)in pa   
+ 
+ Pmercury=RHOm*g*h3   
+ Pmercury  =
+ 
+    13341.6  
+ 
+ using balancing equation   
+ 
+ Psteam=Patm+Pmercury-Pwater   
+ 
+ so pressure of steam(Psteam)in kpa   
+ 
+ Psteam=(Patm+Pmercury-Pwater)/1000   
+ Psteam  =
+ 
+    114.54156  
+grepthis#Engineering_Thermodynamics_O._Singh_2873/CH3/EX3.12/Ex3_12.sce #
+ 
+[2J[0;0H 
+ Engineering Thermodynamics by Onkar Singh Chapter 3 Example 12   
+ 
+ here let us assume that the pressure is always equal to atmospheric presure as ballon is flexible,inelastic and unstressed and no work is don 
+      e for stretching ballon during its filling figure shows the boundary of system before and after filling ballon by firm line and dotted l 
+      ine respectively.                                                                                                                        
+ 
+ displacement work, W=(p.dv)cylinder+(p.dv)ballon   
+ 
+ (p.dv)cylinder=0,as cylinder is rigid   
+ 
+ so work done by system upon atmosphere(W)in KJ, W=(p*deltav)/1000   
+ W  =
+ 
+    40.52  
+ 
+ and work done by atmosphere=-40.52 KJ   

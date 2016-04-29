@@ -1,0 +1,755 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 140
+
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.2/ch2_2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+load resistance is 133 ohm 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.4/ch2_2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diode forward current is 589 mA 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.5/ch2_2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minimum and maximum values of forward voltage drop are 0.628 V & 0.745 V. 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.6/ch2_2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+peak o/p voltage=29.3 V
+ 
+peak o/p current=58.6 mA
+ 
+power dissipation=13 mW
+ 
+Peak Reverse Voltage(PRV)=60 V 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.7/ch2_2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maximum operating frequency for 1N915=10 MHz
+ 
+ maximum operating frequency for 1N917=33 MHz 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.8/ch2_2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maximum forward current at 25 degreeC=1 A
+ 
+ maximum forward current at 65 degreeC=714 mA 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+collector current is 5.15 mA 
+ 
+ 
+ 
+ 
+
+emitter current is 5.25 mA 
+ 
+ 
+ 
+ a  =
+ 
+    0.9809524  
+ 
+
+Ic/Ie=0.98 
+
+thus Ic/Ie is approximately equal to alphadc 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ie=2 mA 
+ 
+ 
+ 
+
+Ic1=2 mA 
+ 
+ 
+ 
+ 
+
+Ic2=2 mA 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ib=60 microA 
+ 
+ 
+ 
+
+Ic1=3.3 mA 
+ 
+ 
+ 
+
+Ic2=3.3 mA 
+ 
+ 
+
+betadc =55 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ hoe  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ hfe  =
+ 
+    60.  
+ 
+
+hfe=60
+hoe=100 microS 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+alpha=0.984
+hib=20.5 ohm
+hfc=-61 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH4/EX4.4/4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For hfe=50,Vce=10 V,Ic=2.5 mA,Ib=50 microA 
+ 
+ 
+ 
+ 
+
+For hfe=150,Vce=0 V,Ic=7.5 mA,Ib=50 microA 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+for hfe=50,Vce=7.3 V,Ic=3.82 mA 
+
+for hfe=150,Vce=3.9 V,Ic=5.57 mA 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH7/EX7.1/ch7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maximum Ic that can be used is 1.45 mA 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH7/EX7.3/ch7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+thetaCA=1.6 degreeC/W 
+ 
+ Choose small and least expensive heat sink i.e. NC-421   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH7/EX7.6/ch7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+upper 3dB point for Rc1 is 100 kHz 
+ 
+ 
+ 
+ 
+
+upper 3dB point for Rc2 is 15.9 kHz 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH7/EX7.7/ch7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+input capacitance is 766 pF 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH8/EX8.4/8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance at Vgs=-1V is 3500 microS 
+ 
+ 
+
+transconductance at Vgs=-4V is 2000 microS 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH9/EX9.3/9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgs=2.7 V
+Vg=2.7 V
+Rd=6.4 kohm,use standard value 5.6 kohm
+Rg=1 Mohm 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH10/EX10.4/10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Zi=1.4 Mohm 
+
+Zo=214 ohm 
+
+Av=0.85  
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH16/EX16.6/16_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+line regulation=1%   
+ 
+ 
+ 
+ 
+
+load regulation=5.9%  
+ 
+ 
+
+ripple rejection= 27 db 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH16/EX16.7/16_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Av  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+line regulation=0.17%  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+load regulation=0.08%  
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH17/EX17.7/17_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VCC=+-12 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Voltage drops across R3,R6,R7 is 3 V and across R4+R5 is 4 V 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH18/EX18.5/18_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Device will fire at emitter voltage between 17.2 V and 25.3 V 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH18/EX18.7/18_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+REmax=1 Mohm 
+ 
+ 
+ 
+
+REmin=6.25 kohm 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH19/EX19.5/19_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+total no of cells required is 522 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH20/EX20.2/20_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C2  =
+ 
+    15.  
+ 
+ 
+ 
+ 
+
+ The resonance frequency range is 1.6 MHz to 4.1 MHz 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH20/EX20.5/20_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+current gain=5
+voltage gain=1
+power gain=5 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH21/EX21.2/21_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ip impedance=1Mohm 
+
+op impedance=2.9 kohm 
+
+voltage gain=-13.3 
+ 

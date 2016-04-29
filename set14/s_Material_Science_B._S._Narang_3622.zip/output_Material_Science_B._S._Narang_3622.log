@@ -1,0 +1,615 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 22
+
+grepthis#Material_Science_B._S._Narang_3622/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ C  =
+ 
+    2.222D-11  
+ 
+ F  =
+ 
+    54.  
+ 
+ R  =
+ 
+    0.9  
+ 
+ I  =
+ 
+    2.000D-11  
+ 
+ionization current is 2.000000e-11 amp 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ v  =
+ 
+    3.000D+09  
+ 
+ X  =
+ 
+    0.06  
+ 
+ R  =
+ 
+    300.  
+ 
+ 
+ electronbymass  =
+ 
+    5.000D+17  
+ 
+e/m ratio is 5.000000e+17 esu 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ e  =
+ 
+    1.603D-20  
+ 
+ t  =
+ 
+    6.600D-09  
+ 
+ m  =
+ 
+    9.110D-28  
+ 
+ V  =
+ 
+    5.000D+10  
+ 
+ d  =
+ 
+    5.  
+ 
+ X  =
+ 
+    1.000D+10  
+ 
+ f  =
+ 
+    1.603D-10  
+ 
+ a  =
+ 
+    1.760D+17  
+ 
+ v  =
+ 
+    1.161D+09  
+ 
+ dist  =
+ 
+    3.8324193  
+ 
+velocity of electron is 1.161339e+09 cm per s 
+ 
+distance travelled is 3 cms 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ a  =
+ 
+    0.00001  
+ 
+ d  =
+ 
+    1.  
+ 
+ e  =
+ 
+    4.800D-10  
+ 
+ g  =
+ 
+    980.  
+ 
+ X  =
+ 
+    0.0085521  
+ 
+field required to keep drop stationary is 8.552113e-03 esu per cm 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ m  =
+ 
+    9.100D-28  
+ 
+ e  =
+ 
+    4.800D-10  
+ 
+ ev  =
+ 
+    1.600D-12  
+ 
+ v  =
+ 
+    1.000D+09  
+ 
+ E  =
+ 
+    4.550D-10  
+ 
+ Ev  =
+ 
+    284.375  
+ 
+energy is 4.550000e-10 ergs 
+ 
+energy is 284.375000 electron volt 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ o  =
+ 
+    8.850D-12  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ v  =
+ 
+    2183136.1  
+ 
+velocity is 2.183136e+06 metre per second 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ Z  =
+ 
+    1.  
+ 
+ n  =
+ 
+    1.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ o  =
+ 
+    8.850D-12  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ E  =
+ 
+    2.171D-18  
+ 
+energy is 2.170951e-18 joules 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ Z  =
+ 
+    1.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ o  =
+ 
+    8.850D-12  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ V  =
+ 
+    13.568444  
+ 
+ionization potential is 13.568444 volts 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ Z  =
+ 
+    2.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ o  =
+ 
+    8.850D-12  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ V  =
+ 
+    54.273774  
+ 
+second ionization potential is 54.273774 volts 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ mo  =
+ 
+    9.028D-28  
+ 
+ c  =
+ 
+    3.000D+10  
+ 
+ E  =
+ 
+    0.0000008  
+ 
+ ev  =
+ 
+    1.600D-12  
+ 
+ EineV  =
+ 
+    507825.  
+ 
+ EinMeV  =
+ 
+    0.507825  
+ 
+energy in million electron volt is 0.507825 MeV 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ amu  =
+ 
+    1.656D-24  
+ 
+ c  =
+ 
+    3.000D+10  
+ 
+ ev  =
+ 
+    1.600D-12  
+ 
+ E  =
+ 
+    9.314D+08  
+ 
+ EinMeV  =
+ 
+    931.3875  
+ 
+energy in million electron volt is 931 MeV 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+10  
+ 
+ 
+ v  =
+ 
+    2.598D+10  
+ 
+required velocity is 2.598076e+10 cm per sec 
+ 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ m  =
+ 
+    9.110D-28  
+ 
+ e  =
+ 
+    4.803D-10  
+ 
+ h  =
+ 
+    6.620D-27  
+ 
+ V  =
+ 
+    0.3333333  
+ 
+ 
+ v  =
+ 
+    5.929D+08  
+ 
+ l  =
+ 
+    1.226D-08  
+ 
+wavelength associated is 1.225711e-08 cms 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ r  =
+ 
+    1.278D-08  
+ 
+ n  =
+ 
+    4.  
+ 
+ M  =
+ 
+    63.54  
+ 
+ a  =
+ 
+    3.615D-08  
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ d  =
+ 
+    8.9344289  
+ 
+density is 8.934429 gm per cms 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ ratio  =
+ 
+    0.1547005  
+ 
+minimum ratio is 0.154701 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+ APFCu  =
+ 
+    0.5553604  
+ 
+APF for copper is 0.555360 
+ 
+ 
+ r  =
+ 
+    0.98  
+ 
+ R  =
+ 
+    1.81  
+ 
+ APFNaCl  =
+ 
+    0.4969618  
+ 
+APF for NaCl is 0.496962 
+ 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ r  =
+ 
+    1.750D-08  
+ 
+ 
+ a  =
+ 
+    4.950D-08  
+ 
+ Area  =
+ 
+    2.450D-15  
+ 
+ AtomsperArea  =
+ 
+    8.163D+14  
+ 
+atoms per cm cube is 8.163265e+14
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ V  =
+ 
+    20000.  
+ 
+ m  =
+ 
+    9.000D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ v  =
+ 
+    84327404.  
+ 
+maximum speed of electron is 8.432740e+07 metre per second 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ m  =
+ 
+    9.000D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ V  =
+ 
+    5000.  
+ 
+ v  =
+ 
+    42163702.  
+ 
+maximum speed of electron is 4.216370e+07 metre per second 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ energy  =
+ 
+    0.001  
+ 
+ amp_watt  =
+ 
+    0.005  
+ 
+ m  =
+ 
+    9.000D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ V  =
+ 
+    100000.  
+ 
+ v  =
+ 
+    1.886D+08  
+ 
+ EnConv  =
+ 
+    0.5  
+ 
+ EnConvinJ  =
+ 
+    2.09  
+ 
+maximum speed of electron is 1.885618e+08 metre per second 
+ 
+Rate of production of heat is 2.090000 calories per second 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ dhkl  =
+ 
+    1.750D-08  
+ 
+ a  =
+ 
+    3.031D-08  
+ 
+inter atomic spacing is 3.031089e-08 cms 
+ 
+ 
+grepthis#Material_Science_B._S._Narang_3622/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ l  =
+ 
+    0.003  
+ 
+ E  =
+ 
+    8.000D+10  
+ 
+ d  =
+ 
+    2500.  
+ 
+ N  =
+ 
+    942809.04  
+ 
+frequency is 9.428090e+05 Hz 
+ 
+ 

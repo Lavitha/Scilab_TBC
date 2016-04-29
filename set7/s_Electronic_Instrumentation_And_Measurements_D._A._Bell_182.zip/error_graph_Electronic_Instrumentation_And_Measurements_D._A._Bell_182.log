@@ -1,0 +1,46 @@
+ERROR: Electronic_Instrumentation_And_Measurements_D._A._Bell_182/CH9/EX9.2/example9_2.sce
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+peak-peak voltage=4 V p-to-p
+ 
+time period=1 ms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+umentation_And_Measurements_D._A._Bell_182/example9_2');xend();exit()
+                                                               !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      22 of exec file called by :    
+_And_Measurements_D._A._Bell_182/CH9/EX9.2/example9_2.sce',-1
+ 
+ERROR: Electronic_Instrumentation_And_Measurements_D._A._Bell_182/CH12/EX12.2/example12_2.sce
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+correction figure=-6 W
+ 
+wattmeter error=-5 percent 
+ 
+ 
+ 

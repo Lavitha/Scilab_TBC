@@ -1,0 +1,273 @@
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH3/EX3.3/Ex3_3.sce #
+[2J[0;0H 
+ 
+ 
+ d  =
+ 
+    5.  
+ 
+ h  =
+ 
+    11.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ s  =
+ 
+    6.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ k  =
+ 
+    8.  
+ 
+ kk  =
+ 
+    4.  
+ 
+ b  =
+ 
+    6.  
+ 
+ 
+ theta  =
+ 
+    0.5235988  
+ 
+ h_bar  =
+ 
+    9.  
+ 
+ p  =
+ 
+    88200.  
+ 
+ S  =
+ 
+    36.  
+ 
+ Fz  =
+ 
+  - 3175200.  
+ 
+ Ixx  =
+ 
+    288.  
+ 
+ Ixy  =
+ 
+  - 72.  
+ 
+ y_bar  =
+ 
+    18.  
+ 
+ X  =
+ 
+  - 0.1111111  
+ 
+ Y  =
+ 
+    0.4444444  
+ 
+ 
+Force = -3.175e+06 N 
+
+ coordinates of center of pressure relative to centroid are 
+ (X, Y) = (-0.111, 0.444) m 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH7/EX7.2/Ex7_2.sce #
+[2J[0;0H 
+ 
+ 
+ u  =
+ 
+    12.  
+ 
+ w  =
+ 
+    10.  
+ 
+ L  =
+ 
+    4.  
+ 
+ rho  =
+ 
+    1.22  
+ 
+ mu  =
+ 
+    0.000018  
+ 
+ 
+ ReL  =
+ 
+    3253333.3  
+ 
+ Cd  =
+ 
+    0.0032  
+ 
+ D  =
+ 
+    22.48704  
+ 
+ 
+Total drag on plates is 22.49 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.19/Ex8_19.sce #
+[2J[0;0H 
+ 
+ 
+ m  =
+ 
+    50.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ u  =
+ 
+    150.  
+ 
+ Cl  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ c  =
+ 
+    0.9408  
+ 
+ Cd  =
+ 
+    0.005  
+ 
+ r  =
+ 
+    100.  
+ 
+ 
+The chord length required is 0.94 m 
+
+ Lift to Drag ratio is 100 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH10/EX10.5/Ex10_5.sce #
+[2J[0;0H 
+ 
+ 
+ P0  =
+ 
+    4.  
+ 
+ T0  =
+ 
+    300.  
+ 
+ At  =
+ 
+    5.  
+ 
+ Ae  =
+ 
+    10.  
+ 
+ 
+ 
+ P1  =
+ 
+    3.8  
+ 
+ Pr  =
+ 
+    1.0526316  
+ 
+ M1  =
+ 
+    0.26  
+ 
+ Ar  =
+ 
+    2.32  
+ 
+ Aa  =
+ 
+    4.3103448  
+ 
+ Art  =
+ 
+    1.16  
+ 
+ Mt  =
+ 
+    0.64  
+ 
+case (1) 
+
+ Exit Mach = 0.64  
+ 
+ Aer  =
+ 
+    2.  
+ 
+ M2  =
+ 
+    0.3  
+ 
+ Pr  =
+ 
+    0.939  
+ 
+ P2  =
+ 
+    3.756  
+ 
+
+ case (2) 
+
+ back Pressure is 3.76 atm 
+
+ Exit Mach = 0.30  
+
+ So when the pressure at the exit is lowered a bit, the velocity at the throat becomes sonic. 
+ 
+ Ar  =
+ 
+    2.  
+ 
+ M2  =
+ 
+    2.2  
+ 
+ Pr  =
+ 
+    0.094  
+ 
+ P2  =
+ 
+    0.376  
+ 
+
+ case (3) 
+
+ back pressure is 0.38 atm 
+
+ Exit Mach = 2.20  
+
+ The pressure ratio has to be very smaller to create a supersonic nozzle 
+ 

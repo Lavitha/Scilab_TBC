@@ -1,0 +1,102 @@
+ERROR: Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.9/Ex1_9.sce
+ 
+[2J[0;0H 
+ 
+Example 1.9
+
+ 
+Page No. 17
+
+ 
+ 
+ 
+ 
+ 
+coefs = regress(p,s);
+                     !--error 4 
+Undefined variable: regress
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.9/Ex1_9.sce',-1)
+ 
+ERROR: Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.14/Ex3_14.sce
+ 
+[2J[0;0H 
+ 
+Example 3.14
+
+ 
+Page No. 74
+
+ 
+ 
+ 
+ 
+ 
+ Cash_in  =
+ 
+    10000.    20000.    30000.    40000.    50000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ df_1  =
+ 
+    0.87    0.756    0.658    0.572    0.497  
+ 
+ PV_1  =
+ 
+    8700.    15120.    19740.    22880.    24850.  
+ 
+ 
+ 
+ 
+ 
+ df_2  =
+ 
+    0.847    0.718    0.609    0.516    0.437  
+ 
+ PV_2  =
+ 
+    8470.    14360.    18270.    20640.    21850.  
+ 
+ 
+ 
+ 
+ 
+ df_3  =
+ 
+    0.833    0.694    0.579    0.482    0.402  
+ 
+ PV_3  =
+ 
+    8330.    13880.    17370.    19280.    20100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the internal rate of return in percentage is 19.55 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+regress(x,y)
+             !--error 4 
+Undefined variable: regress
+at line      49 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.14/Ex3_14.sce',-1)
+ 

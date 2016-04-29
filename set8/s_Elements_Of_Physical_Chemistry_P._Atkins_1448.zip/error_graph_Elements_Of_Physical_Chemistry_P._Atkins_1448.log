@@ -1,0 +1,62 @@
+ERROR: Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.3.e/E6_3.sce
+[2J[0;0H 
+ 
+ xc  =
+ 
+    0.    0.2    0.4    0.6    0.8    1.  
+ 
+ pc  =
+ 
+    0.    35.    82.    142.    219.    293.  
+ 
+ pa  =
+ 
+    347.    270.    185.    102.    37.    0.  
+ 
+ 
+ 
+ 
+ 
+ytitle('Pressure /Torr')
+                         !--error 4 
+Undefined variable: ytitle
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.3.e/E6_3.sce',-1)
+ 
+ERROR: Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.5.e/E6_5.sce
+[2J[0;0H 
+ 
+ c  =
+ 
+    1.    2.    4.    7.    9.  
+ 
+ hbyc  =
+ 
+    0.28    0.36    0.503    0.739    0.889  
+ 
+ R  =
+ 
+    8.3145  
+ 
+ T  =
+ 
+    298.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ d  =
+ 
+    0.9998  
+ 
+ 
+ 
+ 
+ 
+vector=regress(c,hbyc)
+                       !--error 4 
+Undefined variable: regress
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.5.e/E6_5.sce',-1)
+ 

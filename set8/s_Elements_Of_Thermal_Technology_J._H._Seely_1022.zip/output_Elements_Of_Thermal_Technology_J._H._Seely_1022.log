@@ -1,0 +1,2535 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 67
+
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH1/EX1.1/1_1.sce #
+ 
+ 
+ Vf  =
+ 
+    0.019014  
+ 
+ Vg  =
+ 
+    1.4249  
+ 
+ T  =
+ 
+    425.  
+ 
+ quality  =
+ 
+    60.  
+ 
+ 
+ Vfg  =
+ 
+    1.405886  
+ 
+ V  =
+ 
+    0.8625456  
+ 
+ V1  =
+ 
+    0.8625456  
+ 
+ V2  =
+ 
+    0.8625456  
+ 
+ 
+Vfg= 1.4059 ft^3/lbm 
+ 
+ V= 0.8625 ft^3/lbm 
+ 
+ V= 0.8625 ft^3/lbm 
+ 
+ V= 0.8625 ft^3/lbm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH1/EX1.2/1_2.sce #
+ 
+ 
+ tsat  =
+ 
+    431.82  
+ 
+ vf  =
+ 
+    0.019124  
+ 
+ vg  =
+ 
+    1.3267  
+ 
+ 
+ 
+ From keenan and keyes steam tables, at 500 f and 350 psia,   
+ 
+ v  =
+ 
+    1.4913  
+ 
+ 
+
+ Specific volume = 1.4913 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH1/EX1.3/1_3.sce #
+ 
+ 
+ T  =
+ 
+    100.  
+ 
+ P  =
+ 
+    200.  
+ 
+ 
+ Psat  =
+ 
+    1.0135  
+ 
+ Vf  =
+ 
+    1.0435  
+ 
+ V  =
+ 
+    1.0337  
+ 
+ v  =
+ 
+    0.0098  
+ 
+ 
+Amount of liquid compressed= 0.0098 cm^3/gm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH2/EX2.1a/2_1a.sce #
+ 
+ 
+ F  =
+ 
+    1.  
+ 
+ L  =
+ 
+    1.  
+ 
+ T  =
+ 
+    1.  
+ 
+ I  =
+ 
+    1.  
+ 
+ N  =
+ 
+    1.  
+ 
+ 
+ I  =
+ 
+    1.  
+ 
+ 
+I in SI system= 1 Kg m^2 
+ 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH2/EX2.1b/2_1b.sce #
+ 
+ 
+ F  =
+ 
+    1.  
+ 
+ L  =
+ 
+    1.  
+ 
+ T  =
+ 
+    1.  
+ 
+ I  =
+ 
+    1.  
+ 
+ lbf  =
+ 
+    1.  
+ 
+ 
+ I  =
+ 
+    1.  
+ 
+ 
+ I in British Gravitational System = 1 slug ft^2 
+ 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH2/EX2.2/2_2.sce #
+ 
+ 
+ F  =
+ 
+    1.  
+ 
+ m  =
+ 
+    1.  
+ 
+ g  =
+ 
+    1.  
+ 
+ 
+ gc  =
+ 
+    1.  
+ 
+ 
+gc= 1.00 lbm ft/poundal^2 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH2/EX2.3/2_3.sce #
+ 
+ 
+ h  =
+ 
+    76.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    76.  
+ 
+ Dhg  =
+ 
+    847.  
+ 
+ 
+ Pa  =
+ 
+    684016.87  
+ 
+ Pa1  =
+ 
+    684016.87  
+ 
+ 
+Pa= 684017 poundal/ft^2 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH3/EX3.1/3_1.sce #
+ 
+ 
+ T1  =
+ 
+  - 3.  
+ 
+ T2  =
+ 
+    650.  
+ 
+ T3  =
+ 
+    650.  
+ 
+ 
+ t1  =
+ 
+    26.6  
+ 
+ t2  =
+ 
+    190.33  
+ 
+ t21  =
+ 
+    87.961111  
+ 
+ t3  =
+ 
+    361.11111  
+ 
+ 
+T= 26.60 F 
+ 
+ T= 87.96 C 
+ 
+ T= 361.11 K 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH3/EX3.2/3_2.sce #
+ 
+ 
+ T1  =
+ 
+    40.  
+ 
+ T2  =
+ 
+    30.  
+ 
+ 
+ d1  =
+ 
+    18.  
+ 
+ d2  =
+ 
+    18.  
+ 
+ 
+T= 18.00 F 
+ 
+ T= 18.00 R 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH3/EX3.3/3_3.sce #
+ 
+ 
+ l  =
+ 
+    400.  
+ 
+ t1  =
+ 
+    20.  
+ 
+ t2  =
+ 
+    90.  
+ 
+ alpha  =
+ 
+    0.0000193  
+ 
+ 
+ L  =
+ 
+    0.5404  
+ 
+ L1  =
+ 
+    400.5404  
+ 
+ 
+L= 400.54 mm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH3/EX3.4/3_4.sce #
+ 
+ 
+ d  =
+ 
+    2.98  
+ 
+ T1  =
+ 
+    69.  
+ 
+ T2  =
+ 
+  - 15.  
+ 
+ alpha  =
+ 
+    0.0000227  
+ 
+ 
+ A0  =
+ 
+    6.9746499  
+ 
+ alpha1  =
+ 
+    0.0000126  
+ 
+ A  =
+ 
+    0.0147770  
+ 
+ A1  =
+ 
+    6.9598729  
+ 
+ d1  =
+ 
+    2.9768415  
+ 
+ 
+diameter at -15 = 2.977 in 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH4/EX4.1/4_1.sce #
+ 
+ 
+ V  =
+ 
+    1.  
+ 
+ 
+ SI  =
+ 
+    0.001  
+ 
+ BE  =
+ 
+    0.0006725  
+ 
+ RE  =
+ 
+    0.0000001  
+ 
+ 
+SI units= 1.00e-03 Pa s 
+ 
+ BE units= 6.73e-04 lbm/ft s 
+ 
+ Reyns units= 1.45e-07 reyn 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH4/EX4.2/4_2.sce #
+ 
+ 
+ T  =
+ 
+    68.  
+ 
+ d  =
+ 
+    1.  
+ 
+ mu  =
+ 
+    0.01  
+ 
+ SIm  =
+ 
+    0.0001  
+ 
+ m  =
+ 
+    10.76  
+ 
+ 
+ SI  =
+ 
+    0.000001  
+ 
+ BU  =
+ 
+    0.0000108  
+ 
+ 
+SI Units= 1.00e-06 m^2/s 
+ 
+ British Units= 1.08e-05 ft/s 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH4/EX4.3/4_3.sce #
+ 
+ 
+ Ku  =
+ 
+    40.  
+ 
+ 
+ SU  =
+ 
+    0.043  
+ 
+ 
+Stoke Units= 0.043 stoke 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH4/EX4.4/4_4.sce #
+ 
+ 
+ v  =
+ 
+    50.  
+ 
+ mu  =
+ 
+    0.00016  
+ 
+ d1  =
+ 
+    10.  
+ 
+ d2  =
+ 
+    10.  
+ 
+ 
+ D  =
+ 
+    0.8333333  
+ 
+ Re  =
+ 
+    260416.67  
+ 
+ D1  =
+ 
+    0.8333333  
+ 
+ Re1  =
+ 
+    260416.67  
+ 
+ 
+Re= 2.604e+05  
+ 
+ Re= 2.604e+05  
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH4/EX4.5/4_5.sce #
+ 
+ 
+ v  =
+ 
+    0.00175  
+ 
+ l  =
+ 
+    1.  
+ 
+ P  =
+ 
+    1.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ 
+ Q  =
+ 
+    0.0000009  
+ 
+ 
+Q= 8.77e-07 Ns/m^2 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH5/EX5.1/5_1.sce #
+ 
+ 
+ St  =
+ 
+    0.04  
+ 
+ d1  =
+ 
+    5.  
+ 
+ d2  =
+ 
+    15.  
+ 
+ 
+ W  =
+ 
+    50265.482  
+ 
+ 
+Work= 5.03e+04 dyn cm or erg 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH5/EX5.2/5_2.sce #
+ 
+ 
+ R  =
+ 
+    0.017  
+ 
+ sigma  =
+ 
+    72.8  
+ 
+ 
+ P  =
+ 
+    14.124294  
+ 
+ 
+Presuure difference= 14.1 lbf/ft^2 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH5/EX5.3/5_3.sce #
+ 
+ 
+ d  =
+ 
+    13.6  
+ 
+ g  =
+ 
+    980.  
+ 
+ D  =
+ 
+    0.4  
+ 
+ angle  =
+ 
+    130.  
+ 
+ s  =
+ 
+    514.  
+ 
+ 
+ h  =
+ 
+  - 2.4789378  
+ 
+ 
+ Difference in mercury level= -2.48 cm (depression) 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH6/EX6.1/6_1.sce #
+ 
+ 
+ m  =
+ 
+    5.  
+ 
+ h  =
+ 
+    10.  
+ 
+ gc  =
+ 
+    1.  
+ 
+ 
+ v2  =
+ 
+    196.  
+ 
+ KE  =
+ 
+    490.  
+ 
+ PE  =
+ 
+    490.  
+ 
+ 
+KE= 490 J 
+ 
+ PE= 490 J 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH6/EX6.2/6_2.sce #
+ 
+ 
+ T  =
+ 
+    149.  
+ 
+ p  =
+ 
+    20.  
+ 
+ 
+ h  =
+ 
+    318.7  
+ 
+ 
+h= 318.7 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH6/EX6.3/6_3.sce #
+ 
+ 
+ F  =
+ 
+    30.  
+ 
+ w  =
+ 
+    40.  
+ 
+ l  =
+ 
+    10.  
+ 
+ t  =
+ 
+    2.  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ 
+ f  =
+ 
+    4.  
+ 
+ W  =
+ 
+    260.  
+ 
+ FW  =
+ 
+    40.  
+ 
+ Fhp  =
+ 
+    0.0363636  
+ 
+ 
+Total work done= 260 ft lbf 
+ 
+ FW= 40 ft lbf 
+ 
+ Frictional horsepower= 0.036 hp 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH6/EX6.4/6_4.sce #
+ 
+ 
+ N  =
+ 
+    40.  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ l  =
+ 
+    10.  
+ 
+ J  =
+ 
+    778.  
+ 
+ 
+ f  =
+ 
+    4.  
+ 
+ FW  =
+ 
+    40.  
+ 
+ n  =
+ 
+    0.0514139  
+ 
+ 
+No of Btu involved= 0.051 ft Btu 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH6/EX6.5/6_5.sce #
+ 
+ 
+ M  =
+ 
+    50.  
+ 
+ T  =
+ 
+    98.  
+ 
+ Mw  =
+ 
+    75.  
+ 
+ T1  =
+ 
+    19.  
+ 
+ Tm  =
+ 
+    27.  
+ 
+ Mc  =
+ 
+    123.  
+ 
+ SH  =
+ 
+    0.1  
+ 
+ Qinst  =
+ 
+    6.5  
+ 
+ 
+ c  =
+ 
+    0.0264225  
+ 
+ 
+Mean specific heat of the metal sample= 0.0264 cal/C gm 
+ 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH6/EX6.6/6_6.sce #
+ 
+ 
+ Mw  =
+ 
+    500.  
+ 
+ Tw  =
+ 
+    80.  
+ 
+ Ti  =
+ 
+  - 4.  
+ 
+ Tf  =
+ 
+    50.  
+ 
+ ci  =
+ 
+    0.5  
+ 
+ L  =
+ 
+    79.7  
+ 
+ cw  =
+ 
+    1.  
+ 
+ Dt  =
+ 
+    30.  
+ 
+ 
+ Tf1  =
+ 
+  - 20.  
+ 
+ Dt1  =
+ 
+  - 70.  
+ 
+ m  =
+ 
+    130.77594  
+ 
+ 
+Grams of ice can be added= 131 gm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH7/EX7.1/7_1.sce #
+ 
+ 
+ m  =
+ 
+    3000.  
+ 
+ Z1  =
+ 
+    50.  
+ 
+ V1  =
+ 
+    50.  
+ 
+ gc  =
+ 
+    32.2  
+ 
+ V2  =
+ 
+    0.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Z2  =
+ 
+    0.  
+ 
+ 
+ V1  =
+ 
+    73.3  
+ 
+ Q2  =
+ 
+  - 400289.91  
+ 
+ 
+Energy dissipated from the brakes= 4e+05 ft lbf 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH7/EX7.2/7_2.sce #
+ 
+ 
+ P  =
+ 
+    15.  
+ 
+ T  =
+ 
+    300.  
+ 
+ h1  =
+ 
+    3043.1  
+ 
+ 
+ u2  =
+ 
+    3043.1  
+ 
+ T  =
+ 
+    453.4  
+ 
+ 
+Temperature of the steam in the tank= 453.4 C 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH7/EX7.3/7_3.sce #
+ 
+ 
+ m  =
+ 
+    10.  
+ 
+ T  =
+ 
+    120.  
+ 
+ T1  =
+ 
+    275.  
+ 
+ u1  =
+ 
+    98.9  
+ 
+ u2  =
+ 
+    125.6  
+ 
+ 
+ Q  =
+ 
+    267.  
+ 
+ 
+Heat transferred to the tank= 267 Btu 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH7/EX7.4/7_4.sce #
+ 
+ 
+ v0  =
+ 
+    1.  
+ 
+ vi  =
+ 
+    60.  
+ 
+ Q  =
+ 
+  - 500.  
+ 
+ m  =
+ 
+    500.  
+ 
+ hi  =
+ 
+    2000.  
+ 
+ h0  =
+ 
+    1800.  
+ 
+ zi  =
+ 
+    3.  
+ 
+ z0  =
+ 
+    0.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ gc  =
+ 
+    1000.  
+ 
+ 
+ W  =
+ 
+    100414.45  
+ 
+ 
+Maximum theotrical power that can be devoloped= 1e+05 J/s 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH7/EX7.5/7_5.sce #
+ 
+ 
+ m  =
+ 
+    0.3  
+ 
+ T  =
+ 
+    82.  
+ 
+ P  =
+ 
+    2.4  
+ 
+ p  =
+ 
+    80.  
+ 
+ Tw  =
+ 
+    800.  
+ 
+ h1  =
+ 
+    67.19  
+ 
+ h3  =
+ 
+    343.3  
+ 
+ hf  =
+ 
+    529.65  
+ 
+ hfg  =
+ 
+    2185.4  
+ 
+ v3  =
+ 
+    1.0305  
+ 
+ V3  =
+ 
+    300.  
+ 
+ 
+ h2  =
+ 
+    2277.97  
+ 
+ m3  =
+ 
+    291.12082  
+ 
+ m2  =
+ 
+    36.358827  
+ 
+ 
+Required steam flow rate= 36.4 gm/s 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH7/EX7.6/7_6.sce #
+ 
+ 
+ h2  =
+ 
+    2.  
+ 
+ h1  =
+ 
+    1.  
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ 
+Difference between the enthalpies of the system in the two phases= 1 (h2-h1) J/gm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH8/EX8.1/8_1.sce #
+ 
+ 
+ W  =
+ 
+    25.  
+ 
+ W1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    140.  
+ 
+ T2  =
+ 
+    0.  
+ 
+ 
+ Th  =
+ 
+    600.  
+ 
+ Tl  =
+ 
+    460.  
+ 
+ nt  =
+ 
+    0.2333333  
+ 
+ n  =
+ 
+    23.333333  
+ 
+ 
+maximum theotrical efficiency= 23.3 (Claim is not valid) 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH8/EX8.2/8_2.sce #
+ 
+ 
+ P  =
+ 
+    10.  
+ 
+ P1  =
+ 
+    38.  
+ 
+ T  =
+ 
+    310.  
+ 
+ v  =
+ 
+    64.03  
+ 
+ s  =
+ 
+    6.4415  
+ 
+ vf  =
+ 
+    1.12773  
+ 
+ vg  =
+ 
+    194.44  
+ 
+ sf  =
+ 
+    2.1387  
+ 
+ sfg  =
+ 
+    4.4478  
+ 
+ 
+ x  =
+ 
+    0.3253920  
+ 
+ sx  =
+ 
+    3.5859786  
+ 
+ S  =
+ 
+    2.8555214  
+ 
+ 
+Change in Entropy= 2.856 J/gm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH8/EX8.3/8_3.sce #
+ 
+ 
+ Qh  =
+ 
+    70000.  
+ 
+ T  =
+ 
+    15.  
+ 
+ T1  =
+ 
+    72.  
+ 
+ 
+ COP  =
+ 
+    9.3333333  
+ 
+ W  =
+ 
+    7500.  
+ 
+ 
+Minimum power required to drive the heat pump= 7500 Btu/hr 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH8/EX8.4/8_4.sce #
+ 
+ 
+ h  =
+ 
+    26.  
+ 
+ T  =
+ 
+    43.  
+ 
+ To  =
+ 
+    0.  
+ 
+ 
+ COP  =
+ 
+    7.3488372  
+ 
+ W  =
+ 
+    3.5379747  
+ 
+ Qh  =
+ 
+    26.  
+ 
+ 
+Minimum electrical  requirement = 3.54 KW 
+ 
+ Elctrical requirement if an electrical heater used= 26 KW 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH9/EX9.1/9_1.sce #
+ 
+ 
+ v  =
+ 
+    15.  
+ 
+ m  =
+ 
+    20.  
+ 
+ T  =
+ 
+    80.  
+ 
+ P  =
+ 
+    320.  
+ 
+ 
+ R  =
+ 
+    64.  
+ 
+ M  =
+ 
+    24.140625  
+ 
+ 
+Molecular weight of the gas = 24.1 lbm/lbm mol 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH9/EX9.2/9_2.sce #
+ 
+ 
+ V  =
+ 
+    50.  
+ 
+ P  =
+ 
+    20.  
+ 
+ T  =
+ 
+    30.  
+ 
+ P1  =
+ 
+    6.  
+ 
+ T1  =
+ 
+    10.  
+ 
+ M  =
+ 
+    32.  
+ 
+ 
+ n  =
+ 
+    40.247927  
+ 
+ m  =
+ 
+    1287.9337  
+ 
+ n2  =
+ 
+    12.927691  
+ 
+ m2  =
+ 
+    413.68612  
+ 
+ 
+Initial Mass of Oxygen = 1288 gm  
+ 
+ Final mass of oxygen= 414 gm 
+ 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH9/EX9.3/9_3.sce #
+ 
+ 
+ V2  =
+ 
+    0.75  
+ 
+ P2  =
+ 
+    1.  
+ 
+ P1  =
+ 
+    3.  
+ 
+ T  =
+ 
+    35.  
+ 
+ e  =
+ 
+    1.3  
+ 
+ 
+ V1  =
+ 
+    0.3221402  
+ 
+ T2  =
+ 
+    637.83758  
+ 
+ 
+Final volume = 0.75 ft^3  
+ 
+ Final temperature= 638 R 
+ 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH9/EX9.4/9_4.sce #
+ 
+ 
+ m  =
+ 
+    0.45  
+ 
+ v1  =
+ 
+    0.03  
+ 
+ v2  =
+ 
+    0.06  
+ 
+ P  =
+ 
+    690000.  
+ 
+ K  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.1  
+ 
+ 
+ T1  =
+ 
+    160.22292  
+ 
+ T2  =
+ 
+    160.22292  
+ 
+ P2  =
+ 
+    345000.  
+ 
+ T3  =
+ 
+    211.41541  
+ 
+ P3  =
+ 
+    910460.46  
+ 
+ 
+T1 = 160 K  
+ 
+ T2= 160 K 
+ 
+ T3= 211 K 
+ 
+ P2= 3.45e+05 Pa 
+ 
+ P3= 9.10e+05 Pa 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH9/EX9.5/9_5.sce #
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ T  =
+ 
+    60.  
+ 
+ P1  =
+ 
+    4.  
+ 
+ e  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    55.15  
+ 
+ m  =
+ 
+    778.  
+ 
+ 
+ T2  =
+ 
+    716.04491  
+ 
+ W  =
+ 
+  - 36039.59  
+ 
+ W1  =
+ 
+  - 46.323381  
+ 
+ 
+Work associated with the process= -46.3 Btu/lbm  
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH9/EX9.6/9_6.sce #
+ 
+ 
+ m  =
+ 
+    10.  
+ 
+ R  =
+ 
+    48.28  
+ 
+ T  =
+ 
+    120.  
+ 
+ V  =
+ 
+    150.  
+ 
+ m1  =
+ 
+    15.  
+ 
+ R1  =
+ 
+    55.15  
+ 
+ 
+ P1  =
+ 
+    1866.8267  
+ 
+ P2  =
+ 
+    3198.7  
+ 
+ Pm  =
+ 
+    5065.5267  
+ 
+ V1  =
+ 
+    55.280333  
+ 
+ V2  =
+ 
+    94.719667  
+ 
+ Vm  =
+ 
+    150.  
+ 
+ 
+Total volume= 150 ft^3  
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH10/EX10.1/10_1.sce #
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ Mo2  =
+ 
+    32.  
+ 
+ 
+ m  =
+ 
+    96.  
+ 
+ 
+Mass of O2 required= 96 lbm  
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH10/EX10.2/10_1.sce #
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ Mo2  =
+ 
+    32.  
+ 
+ 
+ m  =
+ 
+    96.  
+ 
+ 
+Mass of O2 required= 96 lbm  
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH10/EX10.3/10_3.sce #
+ 
+ 
+ n  =
+ 
+    12.5  
+ 
+ n1  =
+ 
+    3.76  
+ 
+ M  =
+ 
+    114.  
+ 
+ M1  =
+ 
+    28.96  
+ 
+ 
+ n2  =
+ 
+    59.5  
+ 
+ m  =
+ 
+    15.115088  
+ 
+ 
+Air-fuel ratio= 15.1 gm air/gm fuel 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH10/EX10.4/10_4.sce #
+ 
+ 
+ p  =
+ 
+    150.  
+ 
+ nO2  =
+ 
+    12.5  
+ 
+ n1  =
+ 
+    3.76  
+ 
+ 
+ n2  =
+ 
+    89.25  
+ 
+ 
+Air-fuel raio= 89.25 kg mol air/kg mol fuel 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH10/EX10.5/10_5.sce #
+ 
+ 
+ P  =
+ 
+    65.  
+ 
+ T  =
+ 
+    30.  
+ 
+ T1  =
+ 
+    10.  
+ 
+ c  =
+ 
+    4.19  
+ 
+ h  =
+ 
+    41961.  
+ 
+ m  =
+ 
+    185.  
+ 
+ 
+ Q  =
+ 
+    15503000.  
+ 
+ M  =
+ 
+    568.40326  
+ 
+ 
+Benzene required= 568 gm 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH11/EX11.1/11_1.sce #
+ 
+ 
+ T  =
+ 
+    76.  
+ 
+ T1  =
+ 
+    21.  
+ 
+ Tw  =
+ 
+    67.  
+ 
+ h  =
+ 
+    1.5  
+ 
+ A  =
+ 
+    1.  
+ 
+ h0  =
+ 
+    6.5  
+ 
+ 
+ q  =
+ 
+    13.5  
+ 
+ t  =
+ 
+    23.076923  
+ 
+ 
+Outside wall temperature= 23.1 F 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH11/EX11.2/11_2.sce #
+ 
+ 
+ hi  =
+ 
+    2.  
+ 
+ l  =
+ 
+    6.  
+ 
+ k  =
+ 
+    0.5  
+ 
+ h0  =
+ 
+    10.  
+ 
+ ti  =
+ 
+    70.  
+ 
+ t0  =
+ 
+    20.  
+ 
+ A  =
+ 
+    1.  
+ 
+ 
+ U  =
+ 
+    0.625  
+ 
+ q  =
+ 
+    31.25  
+ 
+ 
+Thermal transmittance= 0.62 ft^2 F 
+ 
+ Heat transfer rate= 31.2 Btu/hr 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH11/EX11.3/11_3.sce #
+ 
+ 
+ Ti  =
+ 
+    300.  
+ 
+ T0  =
+ 
+    100.  
+ 
+ l  =
+ 
+    0.25  
+ 
+ li  =
+ 
+    3.  
+ 
+ A  =
+ 
+    12.  
+ 
+ ks  =
+ 
+    31.4  
+ 
+ ki  =
+ 
+    0.04  
+ 
+ 
+ q  =
+ 
+    31.996603  
+ 
+ t  =
+ 
+    299.97877  
+ 
+ 
+Heat loss= 32 Btu/hr 
+ 
+ Temperature at the interface of the steel and the insulation= 299.98 F 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH11/EX11.4/11_4.sce #
+ 
+ 
+ ti  =
+ 
+    149.  
+ 
+ t0  =
+ 
+    27.  
+ 
+ D0  =
+ 
+    0.1149  
+ 
+ l  =
+ 
+    1.  
+ 
+ h0  =
+ 
+    23.  
+ 
+ hi  =
+ 
+    227.  
+ 
+ k  =
+ 
+    0.19  
+ 
+ Di  =
+ 
+    0.0889  
+ 
+ 
+ D1  =
+ 
+    11.49  
+ 
+ D2  =
+ 
+    8.89  
+ 
+ R0  =
+ 
+    0.1204487  
+ 
+ Rins  =
+ 
+    0.2149011  
+ 
+ Ri  =
+ 
+    0.0157733  
+ 
+ q  =
+ 
+    347.45646  
+ 
+ 
+Heat loss= 347 W 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH11/EX11.5/11_5.sce #
+ 
+ 
+ l  =
+ 
+    0.2  
+ 
+ l1  =
+ 
+    0.5  
+ 
+ k  =
+ 
+    0.35  
+ 
+ t  =
+ 
+    0.15  
+ 
+ T1  =
+ 
+    1100.  
+ 
+ T2  =
+ 
+    150.  
+ 
+ 
+ Ai  =
+ 
+    0.24  
+ 
+ Ao  =
+ 
+    1.5  
+ 
+ q  =
+ 
+    970.9  
+ 
+ 
+Power consumption= 971 W 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH11/EX11.6/11_6.sce #
+ 
+ 
+ h  =
+ 
+    12.  
+ 
+ k  =
+ 
+    0.19  
+ 
+ d  =
+ 
+    0.6  
+ 
+ 
+ r  =
+ 
+    0.0158333  
+ 
+ d1  =
+ 
+    0.3  
+ 
+heat loss will increase if the insulation is added 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH11/EX11.7/11_7.sce #
+ 
+ 
+ h  =
+ 
+    85.  
+ 
+ s  =
+ 
+    0.15  
+ 
+ K  =
+ 
+    225.  
+ 
+ t  =
+ 
+    510.  
+ 
+ t1  =
+ 
+    1200.  
+ 
+ t0  =
+ 
+    16.  
+ 
+ a  =
+ 
+    0.34  
+ 
+ 
+ Bi  =
+ 
+    0.0566667  
+ 
+ T  =
+ 
+    0.6305787  
+ 
+ 
+Time needed for the casting to be heated to 510 C= 0.63 hr 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH12/EX12.1/12_1.sce #
+ 
+ 
+ d  =
+ 
+    5.  
+ 
+ Tw  =
+ 
+    150.  
+ 
+ T  =
+ 
+    50.  
+ 
+ Pr  =
+ 
+    0.72  
+ 
+ k  =
+ 
+    0.015  
+ 
+ r  =
+ 
+    1760000.  
+ 
+ 
+ D  =
+ 
+    0.42  
+ 
+ dt  =
+ 
+    100.  
+ 
+ Gr  =
+ 
+    13039488.  
+ 
+ z  =
+ 
+    9388431.4  
+ 
+ h  =
+ 
+    1.1663858  
+ 
+ 
+    1.1663858  
+ 
+ q  =
+ 
+    40.499508  
+ 
+ 
+Heat transfer rate from both sides of the plate= 40.50 Btu/hr 
+ 
+ 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH12/EX12.2/12_2.sce #
+ 
+ 
+ T  =
+ 
+    70.  
+ 
+ l  =
+ 
+    0.9  
+ 
+ v  =
+ 
+    7.  
+ 
+ d  =
+ 
+    62.3  
+ 
+ m  =
+ 
+    0.000658  
+ 
+ Pr  =
+ 
+    6.82  
+ 
+ k  =
+ 
+    0.347  
+ 
+ 
+ l1  =
+ 
+    0.075  
+ 
+ Re  =
+ 
+    49707.447  
+ 
+ Nu  =
+ 
+    283.38623  
+ 
+ h  =
+ 
+    1311.1336  
+ 
+ 
+Heat transfer coefficient when the flow is fully devoloped= 1311 Btu/hr ft^2 F 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH12/EX12.3/12_3.sce #
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ d  =
+ 
+    0.783  
+ 
+ K  =
+ 
+    0.0371  
+ 
+ m  =
+ 
+    0.0000248  
+ 
+ Pr  =
+ 
+    0.683  
+ 
+ D  =
+ 
+    0.03  
+ 
+ v  =
+ 
+    6.  
+ 
+ T  =
+ 
+    10.  
+ 
+ 
+ Re  =
+ 
+    5683.0645  
+ 
+ Nu  =
+ 
+    19.914169  
+ 
+ h  =
+ 
+    24.627189  
+ 
+ ql  =
+ 
+    23.210579  
+ 
+ 
+Heat transfer rate per unit lenght= 23.2 W/m 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH12/EX12.4/12_4.sce #
+ 
+ 
+ T  =
+ 
+    25.  
+ 
+ P  =
+ 
+    1.  
+ 
+ v  =
+ 
+    46.  
+ 
+ d  =
+ 
+    5.  
+ 
+ T1  =
+ 
+    135.  
+ 
+ d1  =
+ 
+    0.998  
+ 
+ k  =
+ 
+    0.03  
+ 
+ m  =
+ 
+    0.0000208  
+ 
+ c  =
+ 
+    0.024  
+ 
+ n  =
+ 
+    0.81  
+ 
+ 
+ Tf  =
+ 
+    80.  
+ 
+ D  =
+ 
+    0.05  
+ 
+ Re  =
+ 
+    110355.77  
+ 
+ h  =
+ 
+    174.99534  
+ 
+ dt  =
+ 
+    110.  
+ 
+ ql  =
+ 
+    3023.7024  
+ 
+ 
+Heat transfer rate per unit lenght of cylinder= 3024 W/m 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH13/EX13.1/13_1.sce #
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ dt  =
+ 
+    11.  
+ 
+ Csf  =
+ 
+    0.006  
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ s  =
+ 
+    1.  
+ 
+ cl  =
+ 
+    4.218  
+ 
+ hfg  =
+ 
+    2257.  
+ 
+ Pr  =
+ 
+    1.75  
+ 
+ ul  =
+ 
+    0.2831  
+ 
+ s  =
+ 
+    0.05778  
+ 
+ pl  =
+ 
+    958000.  
+ 
+ pv  =
+ 
+    598.  
+ 
+ gc  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ p  =
+ 
+    957402.  
+ 
+ q  =
+ 
+    1932315.6  
+ 
+ h  =
+ 
+    175665.06  
+ 
+ 
+Heat transfer coefficient for nucleate boiling= 1.76e+05 W/m^2 C 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH13/EX13.2/13_2.sce #
+ 
+ 
+ k  =
+ 
+    0.384  
+ 
+ Tsat  =
+ 
+    170.03  
+ 
+ hfg  =
+ 
+    996.2  
+ 
+ T  =
+ 
+    130.  
+ 
+ l  =
+ 
+    5.  
+ 
+ P  =
+ 
+    6.  
+ 
+ g  =
+ 
+    4.170D+08  
+ 
+ d  =
+ 
+    0.042  
+ 
+ p  =
+ 
+    61.2  
+ 
+ u  =
+ 
+    1.05  
+ 
+ 
+ dt  =
+ 
+    40.03  
+ 
+ Tf  =
+ 
+    150.015  
+ 
+ hc  =
+ 
+    758.78764  
+ 
+ hc1  =
+ 
+    1926.9779  
+ 
+ 
+Condensation heat tranfer coefficient if the tube is vertical= 759 Btu/h ft^2 F 
+ 
+ Condensation heat tranfer coefficient if the tube is horizontally= 1927 Btu/h ft^2 F 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH14/EX14.2/14_2.sce #
+ 
+ 
+ T  =
+ 
+    116.  
+ 
+ C1  =
+ 
+    3.740D-16  
+ 
+ C2  =
+ 
+    0.0144  
+ 
+ 
+ WLmax  =
+ 
+    0.0000074  
+ 
+ Wb  =
+ 
+    1.141D+08  
+ 
+ 
+Wavelength at which the maximum monochromatic emissive power = 7.44e-06 m 
+ 
+ Coffecient of performnance= 1.14e+08 W/m^3 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH14/EX14.3/14_3.sce #
+ 
+ 
+ T  =
+ 
+    389.  
+ 
+ s  =
+ 
+    5.700D-08  
+ 
+ 
+ Wb  =
+ 
+    1305.1886  
+ 
+ 
+Emissive power for the blackbody = 1305 W/m^2 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH14/EX14.4/14_4.sce #
+ 
+ 
+ T  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    2000.  
+ 
+ W  =
+ 
+    32000.  
+ 
+ W1  =
+ 
+    140.  
+ 
+ s  =
+ 
+    1.700D-09  
+ 
+ 
+ alpha  =
+ 
+    0.5139971  
+ 
+ b  =
+ 
+    0.8373885  
+ 
+ 
+Average absorptivity of the body at 100 F = 0.51  
+ 
+ Average absorptivity of the body at 2000 F= 0.84  
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH14/EX14.5/14_5.sce #
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ T1  =
+ 
+    50.  
+ 
+ s  =
+ 
+    1.700D-09  
+ 
+ e1  =
+ 
+    0.93  
+ 
+ A  =
+ 
+    10.  
+ 
+ F  =
+ 
+    1.  
+ 
+ 
+ A1  =
+ 
+    3.3333333  
+ 
+ q  =
+ 
+    1401.6606  
+ 
+ 
+Heat loss from the conduit by radiation = 1402 Btu/hr per ft 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH14/EX14.6/14_6.sce #
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ T1  =
+ 
+    50.  
+ 
+ s  =
+ 
+    1.700D-09  
+ 
+ e1  =
+ 
+    0.93  
+ 
+ F  =
+ 
+    1.  
+ 
+ 
+ hr  =
+ 
+    1.6819927  
+ 
+ 
+Radiation heat transfer coefficient= 1.68 Btu/hr ft^2 R 
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH15/EX15.1/15_1.sce #
+ 
+ 
+ P  =
+ 
+    7.  
+ 
+ P1  =
+ 
+    1.4  
+ 
+ T  =
+ 
+    260.  
+ 
+ T1  =
+ 
+    251.  
+ 
+ h  =
+ 
+    2974.9  
+ 
+ 
+ dT  =
+ 
+    9.  
+ 
+ Mj  =
+ 
+    1.6071429  
+ 
+ 
+Joule-Thomson coefficient= 1.61 C/bar  
+ 
+grepthis#Elements_Of_Thermal_Technology_J._H._Seely_1022/CH15/EX15.2/15_2.sce #
+ 
+ 
+ T  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    110.  
+ 
+ Pr  =
+ 
+    180.  
+ 
+ h1  =
+ 
+    78.335  
+ 
+ h3  =
+ 
+    33.531  
+ 
+ h2  =
+ 
+    91.  
+ 
+ L  =
+ 
+    12000.  
+ 
+ 
+ h4  =
+ 
+    33.531  
+ 
+ QL  =
+ 
+    44.804  
+ 
+ W  =
+ 
+    12.665  
+ 
+ COP  =
+ 
+    3.5376234  
+ 
+ C  =
+ 
+    0.67206  
+ 
+ 
+Refrigerating effect = 44.8 Btu/lbm  
+ 
+ Coffecient of performnance= 3.5  
+ 
+ Capacity of refrigeration in tons= 0.67 ton 
+ 

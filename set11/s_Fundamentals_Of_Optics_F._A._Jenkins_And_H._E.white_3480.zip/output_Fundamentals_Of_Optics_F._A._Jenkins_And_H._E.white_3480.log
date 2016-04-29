@@ -1,0 +1,1095 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 19
+
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ n1  =
+ 
+    1.5  
+ 
+ r  =
+ 
+    1.  
+ 
+ n  =
+ 
+    1.  
+ 
+ a  =
+ 
+    4.  
+ 
+ s  =
+ 
+    0.25  
+ 
+ s1  =
+ 
+    6.  
+ 
+
+ The image is formed at 6 cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    1.5  
+ 
+ r  =
+ 
+  - 4.  
+ 
+ s  =
+ 
+    10.  
+ 
+ f  =
+ 
+  - 8.  
+ 
+ f1  =
+ 
+  - 12.  
+ 
+ s_temp  =
+ 
+  - 0.225  
+ 
+ s1  =
+ 
+  - 6.6666667  
+ 
+
+ The primary focal length is  -8 cm 
+
+ The secondary focal length is formed at -12 cm 
+
+ The image distance is -6.666667 cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    1.5  
+ 
+ r  =
+ 
+    10.  
+ 
+ s  =
+ 
+    40.  
+ 
+ p  =
+ 
+    5.  
+ 
+ v1  =
+ 
+    2.5  
+ 
+ s1  =
+ 
+    0.6  
+ 
+
+ The power of image is  5D 
+
+ The image distance is  0.600000 m 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    1.5  
+ 
+ r  =
+ 
+    2.  
+ 
+ s  =
+ 
+    12.  
+ 
+ f  =
+ 
+    4.  
+ 
+
+ The focal length is  4 cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ s  =
+ 
+    6.  
+ 
+ f  =
+ 
+    10.  
+ 
+ s1  =
+ 
+  - 15.  
+ 
+ m  =
+ 
+  - 2.5  
+ 
+
+ The magnification obtained is -2.500000X 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ s  =
+ 
+    12.  
+ 
+ f  =
+ 
+  - 6.  
+ 
+ s1  =
+ 
+  - 4.  
+ 
+ m  =
+ 
+  - 0.3333333  
+ 
+
+ The magnification obtained is -0.333333X 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ n  =
+ 
+    1.52  
+ 
+ f  =
+ 
+    25.  
+ 
+ r2  =
+ 
+  - 13.  
+ 
+
+ The radius of curvature is -13.000000 cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ n  =
+ 
+    1.6  
+ 
+ r1  =
+ 
+    0.08  
+ 
+ r2  =
+ 
+  - 0.08  
+ 
+ P  =
+ 
+    15.  
+ 
+
+ The power  is 15.000000 D 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ n_air  =
+ 
+    1.  
+ 
+ n_glass  =
+ 
+    1.5  
+ 
+ n_water  =
+ 
+    1.33  
+ 
+ s1  =
+ 
+    30.  
+ 
+ s2  =
+ 
+    9.5979381  
+ 
+
+ The value of s1 is +30.000000  cm 
+
+ The value of s2 is +9.597938  cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ r1  =
+ 
+    1.5  
+ 
+ r2  =
+ 
+    1.5  
+ 
+ d  =
+ 
+    2.  
+ 
+ n  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    1.6  
+ 
+ n11  =
+ 
+    1.3  
+ 
+ n_by_f1  =
+ 
+    0.4  
+ 
+ n1_by_f21  =
+ 
+  - 0.2  
+ 
+ f1  =
+ 
+    2.5  
+ 
+ f11  =
+ 
+    4.  
+ 
+ f21  =
+ 
+  - 8.  
+ 
+ f211  =
+ 
+  - 6.5  
+ 
+ 
+ Part a   
+ 
+
+ The focal length f1 is +2.500000 cm 
+
+ The focal length f11 is +4.000000 cm 
+
+ The focal length f21 is --8.000000 cm 
+
+ The focal length f211 is --6.500000 cm 
+ n_by_f  =
+ 
+    0.3  
+ 
+ f  =
+ 
+    3.3333333  
+ 
+ f11  =
+ 
+    4.3333333  
+ 
+ A1_f  =
+ 
+  - 4.1666667  
+ 
+ A2_f211  =
+ 
+    2.3333333  
+ 
+ 
+ Part b   
+ 
+
+ The primary focal length is -4.166667 cm 
+
+ The secondary focal length is 2.333333 cm 
+ A1_h  =
+ 
+  - 0.8333333  
+ 
+ A2_h11  =
+ 
+  - 2.  
+ 
+ 
+ Part c   
+ 
+
+ The primary point is -0.833333 cm 
+
+ The secondary point is -2.000000 cm 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ n11  =
+ 
+    1.3  
+ 
+ f11  =
+ 
+    4.333  
+ 
+ HN  =
+ 
+    0.9999231  
+ 
+Nodal length is 0.999923 cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ n1  =
+ 
+    1.5  
+ 
+ n2  =
+ 
+    1.6  
+ 
+ n_dash  =
+ 
+    1.33  
+ 
+ n_doubledash  =
+ 
+    1.  
+ 
+ p1  =
+ 
+    16.75  
+ 
+ p2  =
+ 
+  - 14.5  
+ 
+ p  =
+ 
+    5.893125  
+ 
+The power is 5.893125 D 
+ 
+ f  =
+ 
+    0.1696893  
+ 
+ f_doubledash  =
+ 
+    0.1696893  
+ 
+
+The focal length f is 0.169689 m 
+
+ The focal length f' is 0.169689 m 
+ 
+ A1f  =
+ 
+  - 0.2064694  
+ 
+ A2H  =
+ 
+    0.0113268  
+ 
+ A2f11  =
+ 
+  - 0.1272585  
+ 
+
+The focal point A1F is -0.206469 m 
+
+The focal point A2H is 0.011327 m 
+
+The focal point A2F11 is -0.127258 m 
+ 
+ A2H11  =
+ 
+    0.0424308  
+ 
+
+The principal point is 0.042431 m 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ y  =
+ 
+    2.  
+ 
+ s  =
+ 
+    10.  
+ 
+ r  =
+ 
+  - 16.  
+ 
+ 
+ f  =
+ 
+    8.  
+ 
+
+ The focal length is 8.000000 cm 
+ s1  =
+ 
+    40.  
+ 
+
+ The position of image is formed at 40.000000 cm 
+ 
+ m  =
+ 
+  - 4.  
+ 
+
+ The inveted position of image is formed at -4.000000 cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ k  =
+ 
+    2.  
+ 
+ v  =
+ 
+    5.  
+ 
+ v1  =
+ 
+  - 9.  
+ 
+ p  =
+ 
+  - 4.  
+ 
+ s1  =
+ 
+    0.1111111  
+ 
+ m  =
+ 
+    0.5555556  
+ 
+The power is -4.000000 D 
+
+ The position of image is formed at 0.111111 m 
+
+ The magnification of image is 0.555556 cm 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ n1  =
+ 
+    1.5  
+ 
+ r1  =
+ 
+    0.5  
+ 
+ r2  =
+ 
+  - 0.5  
+ 
+ d  =
+ 
+    0.1  
+ 
+ r  =
+ 
+  - 0.5  
+ 
+ p1  =
+ 
+    2.  
+ 
+ p2  =
+ 
+    4.  
+ 
+ c  =
+ 
+    0.1  
+ 
+ p  =
+ 
+    5.76  
+ 
+ f  =
+ 
+    0.1736111  
+ 
+ H1H  =
+ 
+    0.125  
+ 
+The power is 5.760000 D 
+
+The focal length f is 0.173611 m 
+
+The principal point is 0.125000 m 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ r  =
+ 
+    5.  
+ 
+ n  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    1.672  
+ 
+ sin_ph  =
+ 
+    0.2  
+ sin_ph_1  =
+ 
+    0.1196172  
+ ph  =
+ 
+    11.536959  
+ ph_1  =
+ 
+    6.8700121  
+ theta  =
+ 
+  - 4.666947  
+ angle  =
+ 
+    0.9989677  
+
+ 
+
+ For h=1, sin_ph=0.200000 
+ 
+
+ For h=1, sin_ph1=0.119617 
+ 
+
+ 
+
+ For h=1, ph=11.536959 
+ 
+
+ For h=1, ph1=6.870012 
+ 
+
+ For h=1, theta=-4.666947 
+ 
+
+ For h=1, angle=0.998968  sin_ph  =
+ 
+    0.4  
+ sin_ph_1  =
+ 
+    0.2392344  
+ ph  =
+ 
+    23.578178  
+ ph_1  =
+ 
+    13.841361  
+ theta  =
+ 
+  - 9.7368171  
+ angle  =
+ 
+    0.3069999  
+
+ 
+
+ For h=2, sin_ph=0.400000 
+ 
+
+ For h=2, sin_ph1=0.239234 
+ 
+
+ 
+
+ For h=2, ph=23.578178 
+ 
+
+ For h=2, ph1=13.841361 
+ 
+
+ For h=2, theta=-9.736817 
+ 
+
+ For h=2, angle=0.307000  sin_ph  =
+ 
+    0.6  
+ sin_ph_1  =
+ 
+    0.3588517  
+ ph  =
+ 
+    36.869898  
+ ph_1  =
+ 
+    21.02969  
+ theta  =
+ 
+  - 15.840207  
+ angle  =
+ 
+    0.1318591  
+
+ 
+
+ For h=3, sin_ph=0.600000 
+ 
+
+ For h=3, sin_ph1=0.358852 
+ 
+
+ 
+
+ For h=3, ph=36.869898 
+ 
+
+ For h=3, ph1=21.029690 
+ 
+
+ For h=3, theta=-15.840207 
+ 
+
+ For h=3, angle=0.131859  
+ 
+ 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ r1  =
+ 
+    15.  
+ 
+ r2  =
+ 
+  - 15.  
+ 
+ d  =
+ 
+    3.  
+ 
+ n  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    1.625  
+ 
+ n2  =
+ 
+    1.  
+ 
+ sin_ph  =
+ 
+    0.1333333  
+ sin_ph1  =
+ 
+    0.0820513  
+ ph  =
+ 
+    7.6622557  
+ ph_1  =
+ 
+    4.7064833  
+ theta  =
+ 
+  - 2.9557724  
+ angle  =
+ 
+  - 10.825279  
+ s1  =
+ 
+  - 0.7216853  
+ s2  =
+ 
+    3.7216853  
+ sin_ph2  =
+ 
+  - 0.1389133  
+ sin_ph3  =
+ 
+  - 0.2257341  
+ ph_2  =
+ 
+  - 7.9849686  
+ ph_3  =
+ 
+  - 13.046051  
+ theta1  =
+ 
+  - 8.0168544  
+ angle1  =
+ 
+  - 18.327261  
+
+ 
+
+ For h=2, sin_ph=0.133333 
+ 
+
+ For h=2, sin_ph1=0.082051 
+ 
+
+ 
+
+ For h=2, ph=7.662256 
+ 
+
+ For h=2, ph_1=4.706483 
+ 
+
+ For h=2, theta=-2.955772 
+ 
+
+ For h=2, angle=-10.825279 
+ 
+
+ For h=2, s2=3.721685 
+ 
+
+ For h=2, sin_ph2=-0.138913 
+ 
+
+ For h=2, sin_ph3=-0.225734 
+ 
+
+ 
+
+ For h=2, ph_2=-7.984969 
+ 
+
+ For h=2, ph_3=-13.046051 
+ 
+
+ For h=2, theta1=-8.016854 
+ 
+
+ For h=2, angle1=-18.327261  sin_ph  =
+ 
+    0.2666667  
+ sin_ph1  =
+ 
+    0.1641026  
+ ph  =
+ 
+    15.46601  
+ ph_1  =
+ 
+    9.4451046  
+ theta  =
+ 
+  - 6.0209054  
+ angle  =
+ 
+    15.427148  
+ s1  =
+ 
+    1.0284765  
+ s2  =
+ 
+    1.9715235  
+ sin_ph2  =
+ 
+    0.2252043  
+ sin_ph3  =
+ 
+    0.3659570  
+ ph_2  =
+ 
+    13.014893  
+ ph_3  =
+ 
+    21.466491  
+ theta1  =
+ 
+    2.4306926  
+ angle1  =
+ 
+  - 21.171274  
+
+ 
+
+ For h=4, sin_ph=0.266667 
+ 
+
+ For h=4, sin_ph1=0.164103 
+ 
+
+ 
+
+ For h=4, ph=15.466010 
+ 
+
+ For h=4, ph_1=9.445105 
+ 
+
+ For h=4, theta=-6.020905 
+ 
+
+ For h=4, angle=15.427148 
+ 
+
+ For h=4, s2=1.971523 
+ 
+
+ For h=4, sin_ph2=0.225204 
+ 
+
+ For h=4, sin_ph3=0.365957 
+ 
+
+ 
+
+ For h=4, ph_2=13.014893 
+ 
+
+ For h=4, ph_3=21.466491 
+ 
+
+ For h=4, theta1=2.430693 
+ 
+
+ For h=4, angle1=-21.171274  sin_ph  =
+ 
+    0.4  
+ sin_ph1  =
+ 
+    0.2461538  
+ ph  =
+ 
+    23.578178  
+ ph_1  =
+ 
+    14.250033  
+ theta  =
+ 
+  - 9.3281458  
+ angle  =
+ 
+  - 62.187854  
+ s1  =
+ 
+  - 4.145857  
+ s2  =
+ 
+    7.145857  
+ sin_ph2  =
+ 
+  - 0.0505188  
+ sin_ph3  =
+ 
+  - 0.0820931  
+ ph_2  =
+ 
+  - 2.895748  
+ ph_3  =
+ 
+  - 4.7088867  
+ theta1  =
+ 
+  - 11.141284  
+ angle1  =
+ 
+  - 12.762982  
+
+ 
+
+ For h=6, sin_ph=0.400000 
+ 
+
+ For h=6, sin_ph1=0.246154 
+ 
+
+ 
+
+ For h=6, ph=23.578178 
+ 
+
+ For h=6, ph_1=14.250033 
+ 
+
+ For h=6, theta=-9.328146 
+ 
+
+ For h=6, angle=-62.187854 
+ 
+
+ For h=6, s2=7.145857 
+ 
+
+ For h=6, sin_ph2=-0.050519 
+ 
+
+ For h=6, sin_ph3=-0.082093 
+ 
+
+ 
+
+ For h=6, ph_2=-2.895748 
+ 
+
+ For h=6, ph_3=-4.708887 
+ 
+
+ For h=6, theta1=-11.141284 
+ 
+
+ For h=6, angle1=-12.762982  
+ 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ m  =
+ 
+    4.  
+ 
+ x  =
+ 
+    0.18  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ F  =
+ 
+    39.2  
+ 
+ k  =
+ 
+    217.77778  
+ 
+ 
+ the spring constant k in N/m is=   
+ 
+    217.77778  
+ 
+ 
+ 
+ T  =
+ 
+    0.8515361  
+ 
+ 
+ the period T in sec is=   
+ 
+    0.8515361  
+ 
+ 
+ 
+ v  =
+ 
+    1.1743483  
+ 
+ 
+ the frequency v in hz is   
+ 
+    1.1743483  
+ 
+ 
+ 
+ W  =
+ 
+    3.528  
+ 
+ 
+ the total energy stored in Nm is=   
+ 
+    3.528  
+ 
+ 
+grepthis#Fundamentals_Of_Optics_F._A._Jenkins_And_H._E.white_3480/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ T  =
+ 
+    5.  
+ 
+ a  =
+ 
+    3.  
+ 
+ alpha  =
+ 
+    1.0471976  
+ 
+ w  =
+ 
+    1.2566371  
+ 
+ 
+ 
+ t  =
+ 
+    0.  
+ 
+ y  =
+ 
+    2.5980762  
+ 
+ 
+ y in cm is=   
+ 
+    2.5980762  
+ 
+ 
+ 
+ 
+ t  =
+ 
+    12.  
+ 
+ y  =
+ 
+  - 1.2202099  
+ 
+ 
+ y in cm is=   
+ 
+  - 1.2202099  
+ 
+ 
+ 

@@ -1,0 +1,16082 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 224
+
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.1/1_1.sce #
+ 
+Example 1.1
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    440.  
+ 
+ phi  =
+ 
+    0.07  
+ 
+ N  =
+ 
+    900.  
+ 
+ 
+ 
+ A1  =
+ 
+    4.  
+ 
+ E1  =
+ 
+    462.  
+ 
+(i) e.m.f generated (lap-wound) is 462 V 
+ 
+ 
+ A2  =
+ 
+    2.  
+ 
+ E2  =
+ 
+    924.  
+ 
+
+(ii) e.m.f generated (wave-wound)is 924 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.2/1_2.sce #
+ 
+Example 1.2
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ phi  =
+ 
+    0.021  
+ 
+ N  =
+ 
+    1120.  
+ 
+ Coils  =
+ 
+    42.  
+ 
+ turns_per_coil  =
+ 
+    8.  
+ 
+ Turns  =
+ 
+    336.  
+ 
+ Z  =
+ 
+    672.  
+ 
+ 
+ 
+ A1  =
+ 
+    4.  
+ 
+ E1  =
+ 
+    263.424  
+ 
+(i)  e.m.f generated is 263.424 V 
+ 
+ 
+ A2  =
+ 
+    2.  
+ 
+ E2  =
+ 
+    263.424  
+ 
+ N2  =
+ 
+    560.  
+ 
+
+(ii)  For wave-wound armature,above calculated e.m.f is generated at 560 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.3/1_3.sce #
+ 
+Example 1.3
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ coils  =
+ 
+    12.  
+ 
+ commutator_segments  =
+ 
+    12.  
+ 
+ coil_sides  =
+ 
+    24.  
+ 
+ Z  =
+ 
+    24.  
+ 
+ pole_pitch  =
+ 
+    6.  
+ 
+ 
+ 
+ y_f  =
+ 
+    5.  
+ 
+ y_b  =
+ 
+    7.  
+ 
+ 
+ y_c  =
+ 
+    1.  
+ 
+ 
+ 
+WINDING TABLE:
+
+   1<-    8->    3<-   10->    5<-   12
+-> 7<-   14->    9<-   16->   11<-   18
+->13<-   20->   15<-   22->   17<-   24
+->19<-    2->   21<-    4->   23<-    6
+-> 1
+                                                   
+
+Note that <- indicates back connection with  y_back=7 and -> indicates front connection with y_front=5
+ 
+
+Another form of winding table: 
+
+      BACK CONNECTIONS                                FRONT CONNECTIONS 
+ 
+
+
+       1 to (1+7) = 8                        ->        8 to (8-5) = 3 
+
+       3 to (3+7) =10                        ->       10 to (10-5)= 5 
+
+       5 to (5+7) =12                        ->       12 to (12-5)= 7 
+
+       7 to (7+7) =14                        ->       14 to (14-5)= 9 
+
+       9 to (9+7) =16                        ->       16 to (16-5)=11 
+
+      11 to (11+7)=18                        ->       18 to (18-5)=13 
+
+      13 to (13+7)=20                        ->       20 to (20-5)=15 
+
+      15 to (15+7)=22                        ->       22 to (22-5)=17 
+
+      17 to (17+7)=24                        ->       24 to (24-5)=19 
+
+      19 to (19+7)=26=(26-24)=2              ->        2 to (26-5)=21 
+
+      21 to (21+7)=28=(28-24)=4              ->        4 to (28-5)=23 
+
+      23 to (23+7)=30=(30-24)=6              ->        6 to (30-5)=25  = 25-24=1 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.4/1_4.sce #
+ 
+Example 1.4
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    18.  
+ 
+ Y_A  =
+ 
+    5.  
+ 
+ Y_C  =
+ 
+    5.  
+ 
+ 
+ 
+ y_b  =
+ 
+    2.5  
+ 
+ y_f  =
+ 
+    2.5  
+ 
+ 
+ coils  =
+ 
+    9.  
+ 
+ slots  =
+ 
+    9.  
+ 
+ commutator_segments  =
+ 
+    9.  
+ 
+ 
+WINDING TABLE:
+   1<-    6->  11<-  16->   3<-   8
+->13<-   18->   5<-  10->  15<-   2
+-> 7<-   12->  17<-   4->   9<-  14
+->1
+                                                   
+ 
+
+Another form of winding table: 
+ 
+
+      BACK CONNECTIONS                                FRONT CONNECTIONS 
+ 
+
+
+       1 to (1+5)  = 6                       ->        6 to (6+5) = 11 
+
+      11 to (11+5) =16                       ->       16 to (16+5)= 21 -18=3 
+
+       3 to (3+5)  = 8                       ->        8 to  (8+5)= 13 
+
+      13 to (13+5) =18                       ->       18 to (18+5)= 23 -18=5 
+
+       5 to (5+5)  =10                       ->       10 to (10+5)= 15 
+
+      15 to (15+5) =20 -18=2                 ->        2 to  (2+5)=  7 
+
+       7 to (7+5)  =12                       ->       12 to (12+5)= 17 
+
+      17 to (17+5) =22 -18=4                 ->        4 to  (4+5)=  9 
+
+       9 to (9+5)  =14                       ->       14 to (14+5)= 19 -18=1 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.5/1_5.sce #
+ 
+Example 1.5
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    480.  
+ 
+ I_a  =
+ 
+    144.  
+ 
+ I  =
+ 
+    72.  
+ 
+ theta_m  =
+ 
+    10.  
+ 
+ 
+ amp_turns_PP_d  =
+ 
+    960.  
+ 
+ amp_turns_PP_c  =
+ 
+    3360.  
+ 
+ 
+De-magnetising ampere-turns per pole is 960 
+
+Cross-magnetising ampere-turns per pole is 3360 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.6/1_6.sce #
+ 
+Example 1.6
+
+ 
+ 
+ Pole  =
+ 
+    10.  
+ 
+ Z  =
+ 
+    800.  
+ 
+ A  =
+ 
+    10.  
+ 
+ ratio  =
+ 
+    0.7  
+ 
+ 
+ turns_PP  =
+ 
+    2.8  
+ 
+ conductors_PP  =
+ 
+    5.6  
+ 
+ 
+Compensating conductors per pole= 6 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.7/1_7.sce #
+ 
+Example 1.7
+
+ 
+ 
+ I_L  =
+ 
+    150.  
+ A  =
+ 
+    4.  
+ 
+ N  =
+ 
+    1800.  
+ 
+ W_b  =
+ 
+    1.2  
+ 
+ W_m  =
+ 
+    0.  
+ 
+ L  =
+ 
+    0.00006  
+ 
+ segments  =
+ 
+    64.  
+ 
+ n_s  =
+ 
+    30.  
+ 
+ v  =
+ 
+    1920.  
+ 
+ 
+ T_c  =
+ 
+    0.000625  
+ 
+ I  =
+ 
+    37.5  
+ 
+ 
+ 
+ E_l  =
+ 
+    7.2  
+ 
+
+(i)   Reactive voltage using Linear commutation is 7.2 V 
+ 
+ 
+ E_s  =
+ 
+    7.992  
+ 
+
+(ii)  Reactive voltage using Sinusoidal commutation is 7.992 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.8/1_8.sce #
+ 
+Example 1.8
+
+ 
+ 
+ V_t  =
+ 
+    250.  
+ 
+ R_sh  =
+ 
+    100.  
+ 
+ I_sh  =
+ 
+    2.5  
+ 
+ R_a  =
+ 
+    0.22  
+ 
+ 
+ P  =
+ 
+    5000.  
+ 
+ I_L  =
+ 
+    20.  
+ 
+ I_a  =
+ 
+    22.5  
+ 
+ 
+ E  =
+ 
+    254.95  
+ 
+
+Induced e.m.f to supply the 5kW load is 254.95 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.9/1_9.sce #
+ 
+Example 1.9
+
+ 
+ 
+ V_t  =
+ 
+    250.  
+ 
+ P  =
+ 
+    10000.  
+ 
+ I_L  =
+ 
+    40.  
+ 
+ I_a  =
+ 
+    40.  
+ 
+ V_brush  =
+ 
+    4.  
+ 
+ 
+ E  =
+ 
+    255.  
+ 
+ R_a  =
+ 
+    0.025  
+ 
+ 
+
+Armature resistance of generator is 0.025 ohm 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.10/1_10.sce #
+ 
+Example 1.10
+
+ 
+ 
+ R_a  =
+ 
+    0.5  
+ R_se  =
+ 
+    0.03  
+ 
+ V_brush  =
+ 
+    2.  
+ 
+ N  =
+ 
+    1500.  
+ 
+ coils  =
+ 
+    540.  
+ 
+ turns_per_coil  =
+ 
+    6.  
+ 
+ total_turns  =
+ 
+    3240.  
+ 
+ Z  =
+ 
+    6480.  
+ 
+ I_a  =
+ 
+    50.  
+ 
+ 
+ phi  =
+ 
+    0.002  
+ 
+ E  =
+ 
+    324.  
+ 
+ V_t  =
+ 
+    295.5  
+ 
+
+Terminal voltage is 295.5 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.11/1_11.sce #
+ 
+Example 1.11
+
+ 
+ 
+ V_t  =
+ 
+    225.  
+ 
+ R_a  =
+ 
+    0.04  
+ 
+ R_sh  =
+ 
+    90.  
+ 
+ R_se  =
+ 
+    0.02  
+ 
+ I_L  =
+ 
+    75.  
+ 
+ 
+ 
+ I_sh  =
+ 
+    2.5166667  
+ 
+ 
+ I_a  =
+ 
+    77.516667  
+ 
+ E  =
+ 
+    229.60067  
+ 
+ 
+
+Generated voltage is 229.6 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.12/1_12.sce #
+ 
+Example 1.12
+
+ 
+ 
+ R_sh  =
+ 
+    53.  
+ 
+ V_t  =
+ 
+    100.  
+ 
+ I_sh  =
+ 
+    1.8867925  
+ 
+ I_f  =
+ 
+    1.8867925  
+ 
+ R_a  =
+ 
+    0.1  
+ 
+ E_o  =
+ 
+    143.  
+ 
+ I_a  =
+ 
+    430.  
+ 
+ I_L  =
+ 
+    428.11321  
+ 
+
+
+Note: Open circuit voltage was obtained as follows
+E_o=R_sh*I_f   // y=mx+c form with c=0 and R_sh=53
+Hence, a line with slope 53 through origin is made to intersect OCC at 150 V 
+ 
+
+Therefore, Open circuit voltage is 150 V 
+
+
+
+No load current is 428.1132 A     
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.13/1_13.sce #
+ 
+Example 1.13
+
+ 
+ 
+ 
+ E_o  =
+ 
+    240.  
+ 
+ 
+ 
+ 
+ I_f  =
+ 
+    2.25  
+ 
+ R_sh  =
+ 
+    106.66667  
+ 
+(i)Field resistance that gives 240 V on no-load is 106.67 ohms 
+ 
+ 
+ 
+ N1  =
+ 
+    1000.  
+ 
+ I_f  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RT  =
+ 
+    105.  
+ RS  =
+ 
+    159.  
+ 
+ N_C  =
+ 
+    660.37736  
+ 
+(ii)Critical speed is 660.38 r.p.m  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.14/1_14.sce #
+ 
+Example 1.14
+
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    792.  
+ 
+ phi  =
+ 
+    0.012  
+ 
+ E_g  =
+ 
+    240.  
+ 
+ 
+ N  =
+ 
+    757.57576  
+ 
+ 
+Required running speed is 757.576 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.15/1_15.sce #
+ 
+Example 1.15
+
+ 
+ 
+ 
+ I_L  =
+ 
+    0.  
+ 
+ V_t  =
+ 
+    127.  
+ 
+ E_g  =
+ 
+    127.  
+ 
+ 
+ 
+ V_t  =
+ 
+    120.  
+ 
+ R_sh  =
+ 
+    15.  
+ R_a  =
+ 
+    0.02  
+ 
+ I_sh1  =
+ 
+    8.  
+ 
+ 
+ I_L  =
+ 
+    342.  
+ 
+Load current is 342 A 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.16/1_16.sce #
+ 
+Example 1.16
+
+ 
+ 
+ V_t  =
+ 
+    550.  
+ 
+ R_lamp  =
+ 
+    500.  
+ 
+ I_lamp  =
+ 
+    1.1  
+ 
+ 
+ I_L  =
+ 
+    22.  
+ 
+ R_sh  =
+ 
+    25.  
+ R_a  =
+ 
+    0.06  
+ R_se  =
+ 
+    0.04  
+ 
+ I_sh  =
+ 
+    22.  
+ 
+ I_a  =
+ 
+    44.  
+ 
+ E  =
+ 
+    554.4  
+ 
+ 
+Armature current and generated e.m.f is 44 A and 554.4 V respectively  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.17/1_17.sce #
+ 
+Example 1.17
+
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ N  =
+ 
+    750.  
+ 
+ Z  =
+ 
+    720.  
+ 
+ phi  =
+ 
+    0.03  
+ 
+ R_sh  =
+ 
+    200.  
+ R_a  =
+ 
+    0.4  
+ R_L  =
+ 
+    15.  
+ 
+ E  =
+ 
+    270.  
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    262.4757  
+ 
+Terminal voltage = 262.4757 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.18/1_18.sce #
+ 
+Example 1.18
+
+ 
+ 
+ P  =
+ 
+    6.  
+ 
+ A  =
+ 
+    2.  
+ 
+ N_1  =
+ 
+    300.  
+ 
+ Z  =
+ 
+    600.  
+ 
+ phi_1  =
+ 
+    0.06  
+ 
+ E_g1  =
+ 
+    540.  
+ 
+Emf generated is 540 V
+
+ 
+ 
+ phi_2  =
+ 
+    0.055  
+ 
+ E_g2  =
+ 
+    550.  
+ 
+ N_2  =
+ 
+    333.33333  
+ 
+Required speed is 333.33 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.19/1_19.sce #
+ 
+Example 1.19
+ 
+Refer to code for explanation
+
+ 
+ 
+ N_1  =
+ 
+    300.  
+ N_2  =
+ 
+    375.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ I_f  =
+ 
+    3.9  
+ 
+ R_sh2  =
+ 
+    51.282051  
+ R_sh  =
+ 
+    40.  
+ 
+Additional resistance required is 11.282 ohms   
+ 
+ 
+ V_t  =
+ 
+    200.  
+ 
+ I_f  =
+ 
+    5.  
+ 
+ E_g  =
+ 
+    228.75  
+ 
+ R_a  =
+ 
+    0.4  
+ 
+ I_a  =
+ 
+    71.875  
+ 
+ I_L  =
+ 
+    66.875  
+ 
+
+Load current supplied by the generator is 66.875 A 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.20/1_20.sce #
+ 
+Example 1.20
+
+ 
+ 
+ I_a  =
+ 
+    750.  
+ 
+ Pole  =
+ 
+    6.  
+ 
+ A  =
+ 
+    6.  
+ 
+ I  =
+ 
+    125.  
+ 
+ Z  =
+ 
+    900.  
+ 
+ lambda  =
+ 
+    1.4  
+ 
+ theta_e  =
+ 
+    21.  
+ 
+ theta_m  =
+ 
+    7.  
+ 
+ 
+ amp_turns_PP_d  =
+ 
+    2187.5  
+ 
+ amp_turns_PP_c  =
+ 
+    7187.5  
+ 
+ 
+ balance_turns  =
+ 
+    4.0833333  
+ 
+(i)  De-magnetising ampere-turns per pole is 2187.5 
+
+(ii) Cross-magnetising ampere-turns per pole is 7187.5 
+
+(iii)Turns required to balance demagnetising component is 4 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.21/1_21.sce #
+ 
+Example 1.21
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    32.  
+ 
+ coil_sides  =
+ 
+    32.  
+ 
+ segments  =
+ 
+    16.  
+ 
+ pole_pitch  =
+ 
+    8.  
+ 
+ slots  =
+ 
+    16.  
+ 
+ slots_per_pole  =
+ 
+    4.  
+ 
+ 
+ 
+ y_b  =
+ 
+    9.  
+ 
+ y_f  =
+ 
+    7.  
+ 
+ 
+ y_c  =
+ 
+    1.  
+ 
+ 
+WINDING TABLE:
+
+   1<-   10->    3<-   12->    5<-   14
+-> 7<-   16->    9<-   18->   11<-   20
+->13<-   22->   15<-   24->   17<-   26
+->19<-   28->   21<-   30->   23<-   32
+->25<-    2->   27<-    4->   29<-    6
+->31<-   8->1                                                   
+
+Note that <- indicates back connection with  y_back=9 and -> indicates front connection with y_front=7
+ 
+ 
+
+Another form of winding table: 
+ 
+
+      BACK CONNECTIONS                                FRONT CONNECTIONS 
+ 
+
+
+       1 to (1+9) =10                        ->       10 to (10-7) =3 
+
+       3 to (3+9) =12                        ->       12 to (12-7)= 5 
+
+       5 to (5+9) =14                        ->       14 to (14-7)= 7 
+
+       7 to (7+9) =16                        ->       16 to (16-7)= 9 
+
+       9 to (9+9) =18                        ->       18 to (18-7)=11 
+
+      11 to (11+9)=20                        ->       20 to (20-7)=13 
+
+      13 to (13+9)=22                        ->       22 to (22-7)=15 
+
+      15 to (15+9)=24                        ->       24 to (24-7)=17 
+
+      17 to (17+9)=26                        ->       26 to (26-7)=19 
+
+      19 to (19+9)=28                        ->       28 to (28-7)=21 
+
+      21 to (21+9)=30                        ->       30 to (30-7)=23 
+
+      23 to (23+9)=32                        ->       32 to (32-7)=25 
+
+      25 to (25+9)=34=(34-32)=2              ->        2 to (34-7)=27 
+
+      27 to (27+9)=36=(36-32)=4              ->        4 to (36-7)=29 
+
+      29 to (29+9)=38=(38-32)=6              ->        6 to (38-7)=31 
+
+      31 to (31+9)=40=(40-32)=4              ->        8 to (40-7)=33 -32= 1 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.22/1_22.sce #
+ 
+Example 1.22
+
+ 
+ 
+ Z  =
+ 
+    496.  
+ 
+ P  =
+ 
+    4.  
+ 
+ slots  =
+ 
+    31.  
+ 
+ coilsides_per_slot  =
+ 
+    4.  
+ 
+ coilsides  =
+ 
+    124.  
+ 
+ coils  =
+ 
+    62.  
+ 
+ turns  =
+ 
+    248.  
+ 
+ turns_per_coil  =
+ 
+    4.  
+ 
+ 
+ y_c  =
+ 
+    123.5    124.5  
+ 
+ coils_active  =
+ 
+    61.  
+ 
+ segments  =
+ 
+    61.  
+ 
+ Y_A  =
+ 
+    31.    30.  
+ 
+ Y_A  =
+ 
+    31.  
+ 
+ y_f  =
+ 
+    29.  
+ y_b  =
+ 
+    33.  
+ 
+ resultant_pitch  =
+ 
+    62.  
+ 
+ 
+
+(i)   Total number of coils = 62 
+
+(ii)  Turns per coils = 4 
+
+(iii) Commutator pitch = 124 
+
+(iv)  Back pitch= 33    front pitch= 29   total pitch= 62 
+
+(v)   No of commutator segments = 61 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.23/1_23.sce #
+ 
+Example 1.23
+
+ 
+ 
+ slots  =
+ 
+    13.  
+ 
+ Pole  =
+ 
+    4.  
+ 
+ conductors_per_slot  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    26.  
+ 
+ Y_A  =
+ 
+    7.  
+ 
+ 
+ y_b  =
+ 
+    7.  
+ 
+ y_f  =
+ 
+    7.  
+ 
+ 
+ segments  =
+ 
+    13.  
+ 
+ 
+WINDING TABLE:
+   1<-    8->  15<-  22->   3<-   10
+->17<-   24->   5<-  12->  19<-   26
+-> 7<-   14->  21<-   2->   9<-   16
+->23<-    4->  11<-  18->  25<-    6
+->13<-   20->   1
+                                                   
+
+Note that <- indicates back connection with y_back=7 and -> indicates front connection with y_front=7
+ 
+ 
+
+Another form of winding table: 
+ 
+
+      BACK CONNECTIONS                                FRONT CONNECTIONS 
+ 
+
+
+       1 to (1+7)  = 8                   ->        8 to (8+7) = 15 
+
+      15 to (15+7) =22                   ->       22 to (22+7)= 29 -26=3 
+
+       3 to (3+7)  =10                   ->       10 to (10+7)= 17 
+
+      17 to (17+7) =24                   ->       24 to (24+7)= 31 -26=5 
+
+       5 to (5+7)  =14                   ->       12 to (12+7)= 19 
+
+      19 to (19+7) =26                   ->       26 to (26+7)= 33 -26=7 
+
+       7 to (7+7)  =14                   ->       14 to (14+7)= 21 
+
+      21 to (21+7) =28 -26=2             ->        2 to  (2+7)=  9 
+
+       9 to (9+7)  =16                   ->       16 to (16+7)= 23  
+
+      23 to (23+7) =30 -26=4             ->        4 to  (4+7)= 11 
+
+       11to (11+7) =18                   ->       18 to (18+7)= 25 
+
+      25 to (25+7) =32 -26=6             ->        6 to  (6+7)= 13 
+
+      13 to`(13+7) =20                   ->       20 to (20+7)= 27 -26=1 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.24/1_24.sce #
+ 
+Example 1.24
+
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ I_L  =
+ 
+    150.  
+ 
+ N  =
+ 
+    1500.  
+ 
+ n_s  =
+ 
+    25.  
+ 
+ W_b  =
+ 
+    1.2  
+ 
+ W_m  =
+ 
+    0.  
+ 
+ L  =
+ 
+    0.00005  
+ 
+ A  =
+ 
+    4.  
+ 
+ segments  =
+ 
+    64.  
+ 
+ v  =
+ 
+    1600.  
+ 
+ 
+ T_c  =
+ 
+    0.00075  
+ 
+ I  =
+ 
+    37.5  
+ 
+ 
+ E  =
+ 
+    5.  
+ 
+ E2  =
+ 
+    5.55  
+ 
+ 
+
+Reactive voltage (linear commutation) is 5 V 
+
+Reactive voltage (sinusoidal commutation) is 5.55 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.25/1_25.sce #
+ 
+Example 1.25
+
+ 
+Note :answer obtained will not match with textbook answer because 
+I_L=V_t/R_L
+=310.79/40=7.77 A
+while its taken as 8.045 A in textbook 
+ 
+ P  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    386.  
+ 
+ A  =
+ 
+    2.  
+ 
+ R_a  =
+ 
+    1.  
+ R_sh  =
+ 
+    100.  
+ R_L  =
+ 
+    40.  
+ 
+ phi  =
+ 
+    0.025  
+ 
+ N  =
+ 
+    1000.  
+ 
+ 
+ E_g  =
+ 
+    321.66667  
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    310.78905  
+ 
+ 
+ I_L  =
+ 
+    7.7697262  
+ 
+ I_sh  =
+ 
+    3.1078905  
+ 
+ 
+ I_a  =
+ 
+    10.877617  
+ 
+
+
+armature current is  is 10.8776 A 
+ 
+ output_power  =
+ 
+    2414.7458  
+ 
+
+output power is 2414.746 W 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.26/1_26.sce #
+ 
+Example 1.26
+
+ 
+ 
+ I  =
+ 
+    40.  
+ 
+ W_b  =
+ 
+    3.  
+ W_m  =
+ 
+    0.  
+ 
+ N  =
+ 
+    600.  
+ 
+ n_s  =
+ 
+    10.  
+ 
+ L  =
+ 
+    0.00015  
+ 
+ segments  =
+ 
+    50.  
+ 
+ v  =
+ 
+    500.  
+ 
+ T_c  =
+ 
+    0.006  
+ 
+ 
+ E  =
+ 
+    2.  
+ 
+ E2  =
+ 
+    2.22  
+ 
+ 
+
+Reactive voltage (linear commutation) is 2 volts 
+
+Reactive voltage (sinusoidal commutation) is 2.22 volts 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.27/1_27.sce #
+ 
+Example 1.27
+
+ 
+ 
+ V  =
+ 
+    400.  
+ 
+ P  =
+ 
+    6.  
+ 
+ A  =
+ 
+    6.  
+ 
+ output_power  =
+ 
+    250000.  
+ 
+ R_sh  =
+ 
+    200.  
+ 
+ Z  =
+ 
+    720.  
+ 
+ 
+ theta_m  =
+ 
+    2.5  
+ 
+ I_L  =
+ 
+    625.  
+ 
+ V_sh  =
+ 
+    400.  
+ 
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a  =
+ 
+    627.  
+ 
+ I  =
+ 
+    104.5  
+ 
+ 
+ 
+ amp_turns_PP_d  =
+ 
+    522.5  
+ 
+ 
+ amp_turns_PP_c  =
+ 
+    5747.5  
+ 
+ 
+(i)  De-magnetising ampere-turns per pole is 522.5 
+
+(ii) Cross-magnetising ampere-turns per pole is 5747.5 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.28/1_28.sce #
+ 
+Example 1.28
+
+ 
+ 
+ I_L  =
+ 
+    100.  
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ W_b  =
+ 
+    1.4  
+ W_m  =
+ 
+    0.  
+ 
+ N  =
+ 
+    1400.  
+ 
+ segments  =
+ 
+    64.  
+ 
+ L  =
+ 
+    0.00005  
+ 
+ n_s  =
+ 
+    23.333333  
+ 
+ v  =
+ 
+    1493.3333  
+ 
+ T_c  =
+ 
+    0.0009375  
+ 
+ I  =
+ 
+    25.  
+ 
+ E  =
+ 
+    2.6666667  
+ 
+ 
+
+Reactive voltage considering linear commutation is 2.67 volts 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.29/1_29.sce #
+ 
+Example 1.29
+
+ 
+ 
+ P  =
+ 
+    8.  
+ 
+ A  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    480.  
+ 
+ I_a  =
+ 
+    200.  
+ 
+ I  =
+ 
+    100.  
+ 
+ 
+ 
+ theta_m  =
+ 
+    0.  
+ 
+ amp_turns_PP_d  =
+ 
+    0.  
+ 
+ amp_turns_PP_c  =
+ 
+    3000.  
+ 
+Part(i)
+De-magnetising ampere-turns per pole is 0 
+
+Cross-magnetising ampere-turns per pole is 3000
+
+ 
+ 
+ 
+ theta_e2  =
+ 
+    6.  
+ 
+ theta_m2  =
+ 
+    1.5  
+ 
+ amp_turns_PP_d2  =
+ 
+    200.  
+ 
+ amp_turns_PP_c2  =
+ 
+    2800.  
+ 
+Part(ii)
+De-magnetising ampere-turns per pole is 200 
+
+Cross-magnetising ampere-turns per pole is 2800 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.30/1_30.sce #
+ 
+Example 1.30
+
+ 
+The difference in answer occured because I is approximated to 16 in last 2 steps in book
+
+ 
+ 
+ P_input  =
+ 
+    7460.  
+ 
+ V  =
+ 
+    230.  
+ 
+ Pole  =
+ 
+    8.  
+ 
+ Z  =
+ 
+    188.  
+ 
+ I_L  =
+ 
+    32.434783  
+ 
+ theta_m  =
+ 
+    7.5  
+ 
+ 
+ A  =
+ 
+    2.  
+ 
+ I  =
+ 
+    16.217391  
+ 
+ 
+ 
+ amp_turns_PP_d  =
+ 
+    63.518116  
+ 
+ 
+ amp_turns_PP_c  =
+ 
+    127.03623  
+ 
+ 
+De-magnetising ampere-turns per pole is 63.52 
+
+Cross-magnetising ampere-turns per pole is 127.04 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH1/EX1.31/1_31.sce #
+ 
+Example 1.31
+
+ 
+ 
+ N_1  =
+ 
+    1200.  
+ 
+ I_L1  =
+ 
+    200.  
+ 
+ V_t1  =
+ 
+    125.  
+ 
+ N_2  =
+ 
+    1000.  
+ 
+ R_a  =
+ 
+    0.04  
+ 
+ V_brush  =
+ 
+    2.  
+ 
+ 
+ 
+ I_a1  =
+ 
+    200.  
+ 
+ E_g1  =
+ 
+    135.  
+ 
+ 
+ E_g2  =
+ 
+    112.5  
+ 
+ R_L  =
+ 
+    0.625  
+ 
+ 
+ 
+ 
+ 
+ I_L2  =
+ 
+    166.16541  
+ 
+ 
+Load current at new speed is 166.1654 A            
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.1/2_1.sce #
+ 
+Example 2.1
+
+ 
+ 
+ V  =
+ 
+    220.  
+ 
+ I_a  =
+ 
+    30.  
+ 
+ R_a  =
+ 
+    0.75  
+ 
+ 
+ E_b  =
+ 
+    197.5  
+ 
+Induced EMF or back EMF in the motor is 197.5 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.2/2_2.sce #
+ 
+Example 2.2
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ V  =
+ 
+    230.  
+ 
+ Z  =
+ 
+    250.  
+ 
+ phi  =
+ 
+    0.03  
+ 
+ I_a  =
+ 
+    40.  
+ R_a  =
+ 
+    0.6  
+ 
+ 
+ E_b  =
+ 
+    206.  
+ 
+ N  =
+ 
+    1648.  
+ 
+Back emf is 206 V and running speed is 1648 rpm 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.3/2_3.sce #
+ 
+Example 2.3
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    480.  
+ 
+ phi  =
+ 
+    0.02  
+ 
+ I_a  =
+ 
+    50.  
+ 
+ T_a  =
+ 
+    76.32  
+ 
+Gross torque developed by armature is 76.320 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.4/2_4.sce #
+ 
+Example 2.4
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ V  =
+ 
+    230.  
+ R_a  =
+ 
+    0.8  
+ 
+ N_0  =
+ 
+    1000.  
+ 
+ Z  =
+ 
+    540.  
+ 
+ phi  =
+ 
+    0.025  
+ 
+ E_b0  =
+ 
+    225.  
+ 
+ 
+ 
+(i)Induced e.m.f = 225 V
+ 
+ 
+ I_a0  =
+ 
+    6.25  
+ 
+(ii)Armature current = 6.25 A
+ 
+ 
+ stray_losses  =
+ 
+    1406.25  
+ 
+(iii)Stray loss = 1406.25 W
+ 
+ 
+ T_f  =
+ 
+    13.428698  
+ 
+(iv)Lost torque = 13.429 N-m
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.5/2_5.sce #
+ 
+Example 2.5
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    200.  
+ 
+ A  =
+ 
+    2.  
+ 
+ V  =
+ 
+    250.  
+ 
+ phi  =
+ 
+    0.025  
+ 
+ I_a  =
+ 
+    60.  
+ I_L  =
+ 
+    60.  
+ 
+ R_a  =
+ 
+    0.15  
+ R_se  =
+ 
+    0.2  
+ 
+ E_b  =
+ 
+    229.  
+ 
+ N  =
+ 
+    1374.  
+ 
+Required speed is 1374 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.6/2_6.sce #
+ 
+Example 2.6
+
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ I_L  =
+ 
+    20.  
+ 
+ R_a  =
+ 
+    0.3  
+ R_sh  =
+ 
+    200.  
+ 
+ I_sh  =
+ 
+    1.25  
+ 
+ I_a  =
+ 
+    18.75  
+ 
+ E_b  =
+ 
+    244.375  
+ 
+Armature current is 18.75 A
+ 
+Back e.m.f is 244.375 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.7/2_7.sce #
+ 
+Example 2.7
+
+ 
+ 
+ V  =
+ 
+    220.  
+ R_a  =
+ 
+    0.3  
+ R_sh  =
+ 
+    110.  
+ 
+ 
+ N_0  =
+ 
+    1000.  
+ 
+ I_L0  =
+ 
+    6.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a0  =
+ 
+    4.  
+ 
+ E_b0  =
+ 
+    218.8  
+ 
+ 
+ 
+ I_sh_FL  =
+ 
+    2.  
+ 
+ I_L_FL  =
+ 
+    50.  
+ 
+ I_a_FL  =
+ 
+    48.  
+ 
+ E_b_FL  =
+ 
+    205.6  
+ 
+ 
+ N_FL  =
+ 
+    939.67093  
+ 
+Speed on full load is 939.67 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.8/2_8.sce #
+ 
+Example 2.8
+
+ 
+ 
+ R_a  =
+ 
+    0.2  
+ R_se  =
+ 
+    0.3  
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ N_1  =
+ 
+    800.  
+ 
+ I_1  =
+ 
+    20.  
+ I_a1  =
+ 
+    20.  
+ I_se1  =
+ 
+    20.  
+ 
+ E_b1  =
+ 
+    240.  
+ 
+ 
+ I_2  =
+ 
+    50.  
+ I_a2  =
+ 
+    50.  
+ 
+ E_b2  =
+ 
+    225.  
+ 
+ 
+ 
+ N_2  =
+ 
+    300.  
+ 
+Speed on motor on no load  is 300 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.9/2_9.sce #
+ 
+Example 2.9
+
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ R_a  =
+ 
+    0.3  
+ R_sh  =
+ 
+    200.  
+ 
+ R_x  =
+ 
+    150.  
+ 
+ I_L1  =
+ 
+    22.  
+ 
+ I_sh1  =
+ 
+    1.25  
+ 
+ I_a1  =
+ 
+    20.75  
+ 
+ N_1  =
+ 
+    1500.  
+ 
+ 
+ I_sh2  =
+ 
+    0.7142857  
+ 
+ I_a2  =
+ 
+    36.3125  
+ 
+ 
+ E_b1  =
+ 
+    243.775  
+ 
+ E_b2  =
+ 
+    239.10625  
+ 
+ 
+ N_2  =
+ 
+    2574.7263  
+ 
+New armature current and speed are 36.3125 A and 2574.73 r.p.m respectively 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.11/2_11.sce #
+ 
+Example 2.11
+
+ 
+ 
+ V  =
+ 
+    220.  
+ 
+ I_1  =
+ 
+    50.  
+ I_a1  =
+ 
+    50.  
+ 
+ T_2_by_T_1  =
+ 
+    0.5  
+ 
+ R_t  =
+ 
+    0.15  
+ 
+ 
+ I_a2  =
+ 
+    35.355339  
+ 
+ E_b1  =
+ 
+    212.5  
+ 
+ N_1  =
+ 
+    500.  
+ N_2  =
+ 
+    300.  
+ 
+ 
+ E_b2  =
+ 
+    90.156115  
+ 
+ R_x  =
+ 
+    3.5225397  
+ 
+Desired extrea resistance= 3.5225 ohms  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.12/2_12.sce #
+ 
+Example 2.12
+
+ 
+ 
+ R_a  =
+ 
+    1.  
+ I_a  =
+ 
+    1.2  
+ V  =
+ 
+    50.  
+ 
+ 
+ E_b  =
+ 
+    48.8  
+ 
+ rot_loss_NL  =
+ 
+    58.56  
+ 
+(i)No load rotational losses = 58.56 W 
+ 
+ 
+ omega_2000  =
+ 
+    209.43951  
+ 
+ K_m  =
+ 
+    0.2330028  
+ 
+ V  =
+ 
+    48.  
+ 
+ omega_1800  =
+ 
+    188.49556  
+ 
+ E_b  =
+ 
+    43.92  
+ 
+ I_a  =
+ 
+    4.08  
+ 
+ P_dev  =
+ 
+    179.1936  
+ 
+ motor_output  =
+ 
+    120.6336  
+ 
+
+(ii)Motor output = 120.63 W 
+ 
+ 
+ E_b  =
+ 
+    0.  
+ 
+ V_stall  =
+ 
+    20.  
+ 
+ I_a  =
+ 
+    20.  
+ 
+ T_stall  =
+ 
+    4.6600567  
+ 
+
+(iii)Stalling torque = 4.66 N-m 
+
+
+part(ii) answer is slightly different due to inaccurate calculation of Power developed 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.13/2_13.sce #
+ 
+Example 2.13
+
+ 
+ 
+ V  =
+ 
+    120.  
+ 
+ R_a  =
+ 
+    0.2  
+ R_sh  =
+ 
+    60.  
+ 
+ I_L1  =
+ 
+    40.  
+ N_1  =
+ 
+    1800.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ 
+ I_a1  =
+ 
+    38.  
+ 
+ E_b1  =
+ 
+    112.4  
+ 
+ T2_by_T1  =
+ 
+    0.5  
+ 
+ I_a2  =
+ 
+    19.  
+ 
+ E_b2  =
+ 
+    116.2  
+ 
+ N_2  =
+ 
+    1860.8541  
+ 
+Speed on half load condition is 1860.85 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.14/2_14.sce #
+ 
+Example 2.14
+
+ 
+ 
+ R_a  =
+ 
+    0.08  
+ E_b1  =
+ 
+    242.  
+ V  =
+ 
+    250.  
+ 
+ 
+ I_a1  =
+ 
+    100.  
+ 
+(i)Armature current = 100 A 
+ 
+ 
+ N  =
+ 
+    0.  
+ 
+ E_b  =
+ 
+    0.  
+ 
+ I_a_start  =
+ 
+    3125.  
+ 
+
+(ii)Starting armature current = 3125 A 
+ 
+ 
+ I_a2  =
+ 
+    120.  
+ 
+ E_b2  =
+ 
+    240.4  
+ 
+
+(iii)Back emf if armature current is changed to 120 A=   240.4 V 
+ 
+ 
+ I_a  =
+ 
+    87.  
+ N_m  =
+ 
+    1500.  
+ 
+ E_g  =
+ 
+    256.96  
+ 
+ N_g  =
+ 
+    1592.7273  
+ 
+
+(iv)Generator speed to deliver 87 A at 250 V = 1592.7 rpm 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.15/2_15.sce #
+ 
+Example 2.15
+
+ 
+ 
+ shaft_output  =
+ 
+    59680.  
+ 
+ eta  =
+ 
+    0.8  
+ 
+ V  =
+ 
+    250.  
+ 
+ N_1  =
+ 
+    1200.  
+ 
+ R_a  =
+ 
+    0.04  
+ R_sh  =
+ 
+    250.  
+ 
+ power_input  =
+ 
+    74600.  
+ 
+ I_L  =
+ 
+    298.4  
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    297.4  
+ 
+ E_b1  =
+ 
+    238.104  
+ 
+ 
+ gross_mechanical_power  =
+ 
+    70812.13  
+ 
+ stray_losses  =
+ 
+    11132.13  
+ 
+Mechanical power developed on full load = 70.812 kW
+ 
+ 
+ 
+ Eb0_Ia0  =
+ 
+    11132.13  
+ 
+ 
+ p  =
+ 
+    0.04  - 250.    11132.13  
+ 
+ ans  =
+ 
+    6205.1496  
+    44.850367  
+ 
+ I_a0  =
+ 
+    44.850367  
+ 
+ I_L0  =
+ 
+    45.850367  
+ 
+ E_b0  =
+ 
+    248.20599  
+ 
+ 
+ 
+ N_0  =
+ 
+    1250.9121  
+ 
+No load speed and current are 1250.9121 rpm and 45.85 A respectively 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.16/2_16.sce #
+ 
+Example 2.16
+
+ 
+ 
+ V  =
+ 
+    250.  
+ P  =
+ 
+    4.  
+ 
+ R_a  =
+ 
+    0.1  
+ R_sh  =
+ 
+    124.  
+ 
+ I_L0  =
+ 
+    4.  
+ N_0  =
+ 
+    1200.  
+ 
+ I_L_1  =
+ 
+    61.  
+ 
+ I_sh  =
+ 
+    2.016129  
+ 
+ I_a0  =
+ 
+    1.983871  
+ 
+ V_brush  =
+ 
+    2.  
+ 
+ E_b0  =
+ 
+    247.80161  
+ 
+ 
+ I_a1  =
+ 
+    58.983871  
+ 
+ E_b1  =
+ 
+    242.10161  
+ 
+ 
+ phi1_by_phi0  =
+ 
+    0.95  
+ 
+ N_1  =
+ 
+    1234.1024  
+ 
+ 
+Full load speed is 1234.102 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.17/2_17.sce #
+ 
+Example 2.17
+
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ R_a  =
+ 
+    0.15  
+ R_sh  =
+ 
+    167.67  
+ 
+ N_0  =
+ 
+    1280.  
+ 
+ 
+ 
+ I_L1  =
+ 
+    67.  
+ 
+ I_sh  =
+ 
+    1.491024  
+ 
+ I_a1  =
+ 
+    65.508976  
+ 
+ E_b1  =
+ 
+    240.17365  
+ 
+ 
+ 
+ I_L0  =
+ 
+    6.5  
+ 
+ I_a0  =
+ 
+    5.008976  
+ 
+ E_b0  =
+ 
+    249.24865  
+ 
+ 
+ 
+ 
+ N_1  =
+ 
+    1233.3959  
+ 
+(i)Full load speed = 1233.396 r.p.m
+ 
+ 
+ 
+ speed_regulation  =
+ 
+    3.778516  
+ 
+ 
+(ii)Speed regulation = 3.78 percent 
+ 
+ 
+ 
+ shaft_output_FL  =
+ 
+    14485.05  
+ 
+ hp_rating  =
+ 
+    19.416957  
+ 
+(iii)HP rating of machine = 19.42 h.p
+ 
+ 
+ 
+ power_input  =
+ 
+    16750.  
+ 
+ eta  =
+ 
+    86.477908  
+ 
+(iv)Full load efficiency = 86.48 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.18/2_18.sce #
+ 
+Example 2.18
+
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ R_a  =
+ 
+    0.5  
+ R_se  =
+ 
+    0.2  
+ R_x  =
+ 
+    0.2  
+ 
+ I_a1  =
+ 
+    20.  
+ I_1  =
+ 
+    20.  
+ I_se1  =
+ 
+    20.  
+ 
+ I_a2  =
+ 
+    20.  
+ I_2  =
+ 
+    20.  
+ 
+ I_se2  =
+ 
+    10.  
+ 
+ 
+ E_b1  =
+ 
+    186.  
+ 
+ E_b2  =
+ 
+    188.  
+ 
+ 
+ phi2_by_phi1  =
+ 
+    0.7  
+ 
+ N_1  =
+ 
+    1000.  
+ 
+ N_2  =
+ 
+    1443.9324  
+ 
+Required speed is 1443.93 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.19/2_19.sce #
+ 
+Example 2.19
+
+ 
+ 
+ V  =
+ 
+    110.  
+ 
+ P  =
+ 
+    4.  
+ 
+ R_a  =
+ 
+    0.1  
+ R  =
+ 
+    0.01  
+ 
+ R_se  =
+ 
+    0.02  
+ 
+ 
+ 
+ I_1  =
+ 
+    50.  
+ I_a1  =
+ 
+    50.  
+ 
+ N_1  =
+ 
+    700.  
+ 
+ E_b1  =
+ 
+    104.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_a2  =
+ 
+    70.710678  
+ 
+ R_se_eqvt  =
+ 
+    0.005  
+ 
+ E_b2  =
+ 
+    102.57538  
+ 
+ 
+ 
+ N_2  =
+ 
+    976.38889  
+ 
+Speed after reconnection = 976.389 r.p.m
+
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.20/2_20.sce #
+ 
+Example 2.20
+
+ 
+ 
+ P  =
+ 
+    4.  
+ I_a1  =
+ 
+    50.  
+ N_1  =
+ 
+    2000.  
+ V  =
+ 
+    230.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_a2  =
+ 
+    84.089642  
+ 
+New armature current= 84.090 A
+ 
+ 
+ N_2  =
+ 
+    2378.4142  
+ 
+New motor speed =2378.414 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.21/2_21.sce #
+ 
+Example 2.21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The constant of proportionality in both the cases is  K=K_dash = phi*P*Z /(2*3.142*A) 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.22/2_22.sce #
+ 
+Example 2.22
+
+ 
+ 
+ V  =
+ 
+    200.  
+ I_a1  =
+ 
+    30.  
+ 
+ R_t  =
+ 
+    1.5  
+ 
+ E_b1  =
+ 
+    155.  
+ 
+ N2_by_N1  =
+ 
+    0.6  
+ 
+ 
+ 
+ I_a2  =
+ 
+    13.94274  
+ 
+ 
+ 
+ N2_by_N1  =
+ 
+    0.6  
+ 
+ E_b2  =
+ 
+    43.222494  
+ 
+ R_x  =
+ 
+    9.7443828  
+ 
+Additional resistance to be added in series with motor circuit = 9.744 ohms 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.23/2_23.sce #
+ 
+Example 2.23
+
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ R_a  =
+ 
+    0.4  
+ R_sh  =
+ 
+    100.  
+ 
+ I_sh1  =
+ 
+    2.5  
+ 
+ P_out_FL  =
+ 
+    7355.  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ P_in  =
+ 
+    8652.9412  
+ 
+ I_L1  =
+ 
+    34.611765  
+ 
+ I_a1  =
+ 
+    32.111765  
+ 
+ 
+ 
+ 
+ Ia2_Ish2  =
+ 
+    80.279412  
+ 
+ E_b1  =
+ 
+    237.15529  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.  - 1.8824    0.2417  
+ 
+ ans  =
+ 
+    1.7437942  
+    0.1386058  
+ 
+ I_sh2  =
+ 
+    1.7437942  
+ 
+ 
+ 
+ R_x  =
+ 
+    43.365542  
+ 
+Extra Resistance to be added  = 43.37 ohms 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.24/2_24.sce #
+ 
+Example 2.24
+
+ 
+ 
+ R_t  =
+ 
+    1.  
+ 
+ V_1  =
+ 
+    230.  
+ 
+ N_1  =
+ 
+    300.  
+ N_2  =
+ 
+    375.  
+ 
+ I_1  =
+ 
+    15.  
+ I_a1  =
+ 
+    15.  
+ 
+ 
+ 
+ I_a2  =
+ 
+    18.75  
+ 
+ E_b1  =
+ 
+    215.  
+ 
+ 
+ 
+ E_b2  =
+ 
+    335.9375  
+ 
+ V_2  =
+ 
+    354.6875  
+ 
+Voltage supply needed = 354.6875 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.25/2_25.sce #
+ 
+Example 2.25
+
+ 
+ 
+ I_L1  =
+ 
+    30.  
+ V  =
+ 
+    230.  
+ 
+ R_sh  =
+ 
+    230.  
+ R_a  =
+ 
+    1.  
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a1  =
+ 
+    29.  
+ 
+ E_b1  =
+ 
+    201.  
+ 
+ 
+ 
+ 
+ I_a2  =
+ 
+    29.  
+ 
+ N2_by_N1  =
+ 
+    0.5  
+ 
+ 
+ E_b2  =
+ 
+    100.5  
+ 
+ R_x  =
+ 
+    3.4655172  
+ 
+Resistance to be inserted in series = 3.4655 ohms  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.26/2_26.sce #
+ 
+Example 2.26
+
+ 
+ 
+ T_1  =
+ 
+    40.  
+ 
+ 
+ 
+ 
+ 
+ 
+ phi2_by_phi1  =
+ 
+    0.7  
+ 
+ Ia2_by_Ia1  =
+ 
+    1.15  
+ 
+ 
+ 
+ T_2  =
+ 
+    32.2  
+ 
+New torque is 32.2 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.27/2_27.sce #
+ 
+Example 2.27
+
+ 
+ 
+ V  =
+ 
+    230.  
+ 
+ N_1  =
+ 
+    1000.  
+ N_2  =
+ 
+    950.  
+ 
+ R_a  =
+ 
+    0.5  
+ R_sh  =
+ 
+    230.  
+ 
+ I_L1  =
+ 
+    10.  
+ 
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a1  =
+ 
+    9.  
+ 
+ 
+ 
+ I_a2  =
+ 
+    9.  
+ 
+ 
+ E_b1  =
+ 
+    225.5  
+ 
+ E_b2  =
+ 
+    214.225  
+ 
+ 
+ R_x  =
+ 
+    1.2527778  
+ 
+Resistance to be inserted in series with armature = 1.2528 ohms 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.28/2_28.sce #
+ 
+Example 2.28
+
+ 
+ 
+ V  =
+ 
+    250.  
+ N_0  =
+ 
+    1000.  
+ I_0  =
+ 
+    5.  
+ 
+ R_a  =
+ 
+    0.2  
+ R_sh  =
+ 
+    250.  
+ 
+ I_L  =
+ 
+    50.  
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a0  =
+ 
+    4.  
+ 
+ I_a  =
+ 
+    49.  
+ 
+ E_b0  =
+ 
+    249.2  
+ 
+ E_b1  =
+ 
+    240.2  
+ 
+ 
+ phi1_by_phi0  =
+ 
+    0.97  
+ 
+ 
+ N_1  =
+ 
+    993.69529  
+ 
+Speed when loaded and drawing 50A current is 993.695 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.29/2_29.sce #
+ 
+Example 2.29
+
+ 
+ 
+ V  =
+ 
+    230.  
+ I_a0  =
+ 
+    3.3  
+ 
+ R_a  =
+ 
+    0.3  
+ R_sh  =
+ 
+    160.  
+ 
+ I_L1  =
+ 
+    40.  
+ N_0  =
+ 
+    1000.  
+ 
+ E_b0  =
+ 
+    229.01  
+ 
+ I_sh  =
+ 
+    1.4375  
+ 
+ I_a1  =
+ 
+    38.5625  
+ 
+ E_b1  =
+ 
+    218.43125  
+ 
+ phi1_by_phi0  =
+ 
+    0.96  
+ 
+ 
+ N_1  =
+ 
+    993.54854  
+ 
+Full load speed is 993.5485 rpm
+ 
+ T_0  =
+ 
+    7.2167186  
+ 
+ T_1  =
+ 
+    80.958461  
+ 
+Full load developed torque is 80.9585 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.30/2_30.sce #
+ 
+Example 2.30
+
+ 
+ 
+ V  =
+ 
+    220.  
+ 
+ I_L  =
+ 
+    52.  
+ 
+ N_1  =
+ 
+    750.  
+ N_2  =
+ 
+    600.  
+ 
+ R_a  =
+ 
+    0.2  
+ R_sh  =
+ 
+    110.  
+ 
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a1  =
+ 
+    50.  
+ 
+ I_a2  =
+ 
+    50.  
+ 
+ E_b1  =
+ 
+    210.  
+ 
+ 
+ 
+ E_b2  =
+ 
+    168.  
+ 
+ R_x  =
+ 
+    0.84  
+ 
+Resistance to be connected in series = 0.84 ohms
+ 
+ 
+ 
+ N_1  =
+ 
+    600.  
+ 
+ I_sh2  =
+ 
+    1.  
+ 
+ I_a1  =
+ 
+    50.  
+ I_sh1  =
+ 
+    2.  
+ I_sh2  =
+ 
+    1.  
+ 
+ 
+ I_a2  =
+ 
+    100.  
+ 
+ E_b1  =
+ 
+    168.  
+ 
+ E_b2  =
+ 
+    116.  
+ 
+ N_2  =
+ 
+    828.57143  
+ 
+New speed= 828.571 rpm 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.31/2_31.sce #
+ 
+Example 2.31
+
+ 
+ 
+ V  =
+ 
+    230.  
+ 
+ R_a  =
+ 
+    0.15  
+ R_sh  =
+ 
+    250.  
+ 
+ I_a1  =
+ 
+    50.  
+ I_a2  =
+ 
+    80.  
+ 
+ N_1  =
+ 
+    800.  
+ N_2  =
+ 
+    1000.  
+ 
+ I_sh1  =
+ 
+    0.92  
+ 
+ 
+ E_b1  =
+ 
+    222.5  
+ 
+ E_b2  =
+ 
+    218.  
+ 
+ 
+ I_sh2  =
+ 
+    0.7211146  
+ 
+ R_x  =
+ 
+    68.950688  
+ 
+Resistance to be added is 
+
+R_x=69 ohms 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.32/2_32.sce #
+ 
+Example 2.32
+
+ 
+ 
+ V  =
+ 
+    230.  
+ R_a  =
+ 
+    0.5  
+ 
+ N_1  =
+ 
+    800.  
+ N_2  =
+ 
+    600.  
+ 
+ I_a2  =
+ 
+    20.  
+ I_a1  =
+ 
+    20.  
+ 
+ E_b1  =
+ 
+    220.  
+ 
+ 
+ 
+ E_b2  =
+ 
+    165.  
+ 
+ 
+ R_x  =
+ 
+    2.75  
+ 
+Additional resistance required = 2.75 ohms  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.33/2_33.sce #
+ 
+Example 2.33
+
+ 
+ 
+ V  =
+ 
+    220.  
+ 
+ R_a  =
+ 
+    0.5  
+ R_x  =
+ 
+    5.  
+ 
+ I_1  =
+ 
+    15.  
+ I_se1  =
+ 
+    15.  
+ I_se2  =
+ 
+    15.  
+ I_2  =
+ 
+    15.  
+ 
+ N_1  =
+ 
+    800.  
+ 
+ 
+ E_b1  =
+ 
+    212.5  
+ 
+ E_b2  =
+ 
+    137.5  
+ 
+ 
+ N_2  =
+ 
+    517.64706  
+ 
+New speed of rotor = 517.647 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.34/2_34.sce #
+ 
+Example 2.34
+
+ 
+ 
+ V  =
+ 
+    250.  
+ I_a1  =
+ 
+    20.  
+ R_a  =
+ 
+    0.5  
+ 
+ N_1  =
+ 
+    1000.  
+ N_2  =
+ 
+    500.  
+ 
+ 
+ 
+ I_a2  =
+ 
+    20.  
+ 
+ E_b1  =
+ 
+    240.  
+ 
+ 
+ 
+ E_b2  =
+ 
+    120.  
+ 
+ R_x  =
+ 
+    6.  
+ 
+Additional resistance = 6 ohms 
+ T3_by_T2  =
+ 
+    0.5  
+ 
+ I_a3  =
+ 
+    10.  
+ 
+ E_b3  =
+ 
+    185.  
+ 
+ N_3  =
+ 
+    770.83333  
+ 
+
+New speed = 770.833 rpm 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.35/2_35.sce #
+ 
+Example 2.35
+
+ 
+ 
+ P_out  =
+ 
+    73550.  
+ 
+ V  =
+ 
+    500.  
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    492.  
+ 
+ phi  =
+ 
+    0.05  
+ 
+ eta  =
+ 
+    0.92  
+ 
+ P_in  =
+ 
+    79945.652  
+ 
+ R_a  =
+ 
+    0.1  
+ R_sh  =
+ 
+    250.  
+ 
+ 
+ I_L  =
+ 
+    159.8913  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a  =
+ 
+    157.8913  
+ 
+ E_b  =
+ 
+    484.21087  
+ 
+ N  =
+ 
+    590.50106  
+ 
+ 
+ T_sh  =
+ 
+    1189.4149  
+ 
+(i)Speed at full load = 590.5011 rpm 
+
+(ii)Useful torque = 1189.41 N-m 
+
+
+Answer mismatches due to improper approximation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.36/2_36.sce #
+ 
+Example 2.36
+
+ 
+ 
+ N_1  =
+ 
+    1000.  
+ 
+ I_1  =
+ 
+    50.  
+ I_a1  =
+ 
+    50.  
+ 
+ V  =
+ 
+    250.  
+ 
+ R_x  =
+ 
+    4.4  
+ R_t  =
+ 
+    0.6  
+ 
+ E_b1  =
+ 
+    220.  
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    0.088    5.  - 250.  
+ 
+ ans  =
+ 
+  - 88.807647  
+    31.989465  
+ 
+ I_a2  =
+ 
+    31.989465  
+ 
+ E_b2  =
+ 
+    90.052676  
+ 
+ N_2  =
+ 
+    639.7893  
+ 
+Motor speed = 639.79 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.37/2_37.sce #
+ 
+Example 2.37
+
+ 
+ 
+ V  =
+ 
+    250.  
+ I_a1  =
+ 
+    20.  
+ 
+ R_sh  =
+ 
+    250.  
+ R_a  =
+ 
+    0.5  
+ 
+ I_sh1  =
+ 
+    1.  
+ 
+ E_b1  =
+ 
+    240.  
+ 
+ 
+ 
+ 
+ I_sh2_I_a2  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.  - 500.    12800.  
+ 
+ ans  =
+ 
+    472.93497  
+    27.065032  
+ 
+ I_a2  =
+ 
+    27.065032  
+ 
+ I_sh2  =
+ 
+    0.7389609  
+ 
+ R_x  =
+ 
+    88.312899  
+ 
+Resistance to be inserted = 88.3129 ohms  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.38/2_38.sce #
+ 
+Example 2.38
+
+ 
+ 
+ V  =
+ 
+    250.  
+ N_1  =
+ 
+    1000.  
+ 
+ I_L1  =
+ 
+    25.  
+ 
+ R_a  =
+ 
+    0.2  
+ R_sh  =
+ 
+    250.  
+ 
+ V_brush  =
+ 
+    1.  
+ 
+ 
+ I_sh1  =
+ 
+    1.  
+ 
+ I_a1  =
+ 
+    24.  
+ 
+ E_b1  =
+ 
+    243.2  
+ 
+ 
+ 
+ I_L2  =
+ 
+    50.  
+ 
+ I_sh2  =
+ 
+    1.  
+ 
+ I_a2  =
+ 
+    49.  
+ 
+ E_b2  =
+ 
+    238.2  
+ 
+ 
+ phi2_by_phi1  =
+ 
+    0.97  
+ 
+ N_2  =
+ 
+    1009.7328  
+ 
+New speed = 1009.733 rpm 
+ T_1  =
+ 
+    55.737334  
+ 
+ T_2  =
+ 
+    110.38315  
+ 
+
+Torque before field weakening = 55.7373 N-m 
+
+Torque after  field weakening = 110.3831 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.39/2_39.sce #
+ 
+Example 2.39
+
+ 
+ 
+ V  =
+ 
+    220.  
+ 
+ R_a  =
+ 
+    0.5  
+ R_x  =
+ 
+    1.  
+ 
+ N_FL  =
+ 
+    500.  
+ 
+ I_a_FL  =
+ 
+    30.  
+ 
+ 
+ 
+ E_b_FL  =
+ 
+    205.  
+ 
+ 
+ I_a_dash_FL  =
+ 
+    30.  
+ 
+ E_b_dash_FL  =
+ 
+    175.  
+ 
+ 
+ N_dash_FL  =
+ 
+    426.82927  
+ 
+(i)Speed at full load torque =426.8293 r.p.m
+ 
+ 
+ 
+ T2_by_T1  =
+ 
+    2.  
+ 
+ I_a_dash_FL  =
+ 
+    60.  
+ 
+ E_b_dash_FL  =
+ 
+    130.  
+ 
+ N_dash_FL  =
+ 
+    317.07317  
+ 
+(ii)Speed at double full load torque =317.073 r.p.m
+ 
+ 
+ 
+ E_b  =
+ 
+    0.  
+ 
+ I_a_stall  =
+ 
+    146.66667  
+ 
+ T_FL  =
+ 
+    117.45635  
+ 
+ T_stall  =
+ 
+    574.23103  
+ 
+(iii)Stalling torque = 574.231 Nm 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH2/EX2.40/2_40.sce #
+ 
+Example 2.40
+
+ 
+ 
+ V  =
+ 
+    230.  
+ I_a1  =
+ 
+    30.  
+ 
+ R_a  =
+ 
+    0.4  
+ R_x  =
+ 
+    1.1  
+ 
+ N_1  =
+ 
+    500.  
+ 
+ 
+ 
+ E_b1  =
+ 
+    218.  
+ 
+ I_a2  =
+ 
+    30.  
+ 
+ E_b2  =
+ 
+    185.  
+ 
+ N_2  =
+ 
+    424.31193  
+ 
+(i)Speed at full load torque = 424.312 r.p.m
+ 
+ 
+ 
+ T2_by_T1  =
+ 
+    1.5  
+ 
+ I_a2  =
+ 
+    45.  
+ 
+ E_b2  =
+ 
+    162.5  
+ 
+ N_2  =
+ 
+    372.70642  
+ 
+(ii)Speed at 1.5 times full load torque = 372.706 r.p.m
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.1/3_1.sce #
+ 
+Example 3.1
+
+ 
+ 
+ Pole  =
+ 
+    6.  
+ 
+ V  =
+ 
+    500.  
+ 
+ A  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    1200.  
+ 
+ phi  =
+ 
+    0.02  
+ 
+ Ra  =
+ 
+    0.5  
+ Rsh  =
+ 
+    250.  
+ 
+ Il  =
+ 
+    20.  
+ 
+ mechanical_losses  =
+ 
+    900.  
+ 
+ Ish  =
+ 
+    2.  
+ 
+ Ia  =
+ 
+    18.  
+ 
+ Eb  =
+ 
+    491.  
+ 
+ N  =
+ 
+    409.16667  
+ 
+ 
+ P_m  =
+ 
+    8838.  
+ 
+ omega  =
+ 
+    42.847833  
+ 
+ Tg  =
+ 
+    206.26481  
+ 
+ 
+ P_out  =
+ 
+    7938.  
+ 
+ T_sh  =
+ 
+    185.26024  
+ 
+ P_in  =
+ 
+    10000.  
+ 
+ percentage_efficiency  =
+ 
+    79.38  
+ 
+ 
+Speed developed is 409.167 r.p.m
+Torque developed is 206.26 N-m
+
+(i)  Useful torque is 185.26 N-m
+(ii) Efficiency is 79.38 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.2/3_2.sce #
+ 
+Example 3.2
+
+ 
+ 
+ 
+ I_noload  =
+ 
+    2.5  
+ 
+ V  =
+ 
+    440.  
+ 
+ R_a  =
+ 
+    1.2  
+ R_sh  =
+ 
+    550.  
+ 
+ no_load_input  =
+ 
+    1100.  
+ 
+ 
+ I_sh  =
+ 
+    0.8  
+ 
+ I_a_noload  =
+ 
+    1.7  
+ 
+ no_load_armature_copper  =
+ 
+    3.468  
+ 
+ constant_losses  =
+ 
+    1096.532  
+ 
+ 
+ 
+ I_fullload  =
+ 
+    32.  
+ 
+ I_a_fullload  =
+ 
+    31.2  
+ 
+ full_load_armature_coppe  =
+ 
+    1168.128  
+ 
+ total_losses  =
+ 
+    2264.66  
+ 
+ full_load_motor_input  =
+ 
+    14080.  
+ 
+ full_load_motor_output  =
+ 
+    11815.34  
+ 
+ efficiency_at_full_load  =
+ 
+    83.915767  
+ 
+ 
+Full load motor output is 11815.34 W
+Efficiency of motor at full-load is 83.92 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.3/3_3.sce #
+ 
+Example 3.3
+
+ 
+ 
+ 
+ I  =
+ 
+    14.  
+ 
+ V  =
+ 
+    230.  
+ 
+ power_output_FL  =
+ 
+    45000.  
+ 
+ power_input  =
+ 
+    3220.  
+ 
+ I_sh  =
+ 
+    2.55  
+ 
+ R_a  =
+ 
+    0.032  
+ 
+ I_a  =
+ 
+    11.45  
+ 
+ cu_loss_NL  =
+ 
+    4.19528  
+ 
+ brush_loss  =
+ 
+    22.9  
+ 
+ constant_loss  =
+ 
+    3192.9047  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.  - 7125.    1487700.3  
+ 
+ ans  =
+ 
+    6909.6937  
+    215.30626  
+ 
+ I_a  =
+ 
+    215.30626  
+ 
+ I  =
+ 
+    217.85626  
+ 
+Full load current is 217.86 A
+ 
+ power_input  =
+ 
+    50106.939  
+ 
+ eta  =
+ 
+    89.80792  
+ 
+Efficiency at full load is 89.81 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.4/3_4.sce #
+ 
+Example 3.4
+
+ 
+ 
+ W1  =
+ 
+    9.1  
+ 
+ W2  =
+ 
+    0.8  
+ 
+ I  =
+ 
+    10.  
+ 
+ V  =
+ 
+    110.  
+ 
+ R  =
+ 
+    0.075  
+ 
+ N  =
+ 
+    1320.  
+ 
+ T_sh  =
+ 
+    6.106725  
+ 
+ omega  =
+ 
+    138.23008  
+ 
+ P_out  =
+ 
+    844.13307  
+ 
+ P_in  =
+ 
+    1100.  
+ 
+ 
+ efficiency  =
+ 
+    76.73937  
+ 
+Full load Efficiency is 76.74 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.5/3_5.sce #
+ 
+Example 3.5
+
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ I_av  =
+ 
+    10.  
+ 
+ V_av  =
+ 
+    230.  
+ 
+ W_dash  =
+ 
+    2300.  
+ 
+ t1  =
+ 
+    25.  
+ t2  =
+ 
+    6.  
+ 
+ R_sh  =
+ 
+    200.  
+ R_a  =
+ 
+    0.3  
+ 
+ 
+ W  =
+ 
+    726.31579  
+ 
+ I_l  =
+ 
+    25.  
+ 
+ I_sh  =
+ 
+    1.25  
+ 
+ 
+ I_a  =
+ 
+    23.75  
+ 
+ arm_cu_loss  =
+ 
+    169.21875  
+ 
+ sh_cu_loss  =
+ 
+    312.5  
+ 
+ 
+ Total_losses  =
+ 
+    1208.0345  
+ 
+ Motor_input  =
+ 
+    6250.  
+ 
+ Output  =
+ 
+    5041.9655  
+ 
+ efficiency  =
+ 
+    80.671447  
+ 
+Efficiency as motor at 25 A and 250 V is 80.67 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.6/3_6.sce #
+ 
+Example 3.6
+
+ 
+ 
+ I_a  =
+ 
+    37.  
+ I_sh  =
+ 
+    0.85  
+ 
+ V  =
+ 
+    230.  
+ 
+ R_a  =
+ 
+    0.33  
+ 
+ 
+ I_a_g  =
+ 
+    30.  
+ I_sh_g  =
+ 
+    0.8  
+ 
+ 
+ 
+ arm_cu_loss  =
+ 
+    451.77  
+ 
+ field_cu_loss  =
+ 
+    195.5  
+ 
+ total_cu_loss  =
+ 
+    647.27  
+ 
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    297.  
+ 
+ field_cu_loss_g  =
+ 
+    184.  
+ 
+ total_cu_loss_g  =
+ 
+    481.  
+ 
+ 
+ 
+ total_cu_loss_set  =
+ 
+    1128.27  
+ 
+ P_supply  =
+ 
+    1989.5  
+ 
+ stray_loss  =
+ 
+    861.23  
+ 
+ stray_loss_each  =
+ 
+    430.615  
+ 
+ 
+ 
+ motor_input  =
+ 
+    8705.5  
+ 
+ motor_output  =
+ 
+    7627.615  
+ 
+ eta_m  =
+ 
+    87.618345  
+ 
+Efficiency of motor is 87.62 percent 
+ 
+ 
+ generator_input  =
+ 
+    7627.615  
+ 
+ generator_output  =
+ 
+    6716.  
+ 
+ eta_g  =
+ 
+    88.048492  
+ 
+Efficiency of generator is 88.05 percent 
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.7/3_7.sce #
+ 
+Example 3.7
+
+ 
+ 
+ I_1  =
+ 
+    40.  
+ 
+ V  =
+ 
+    200.  
+ 
+ I_2  =
+ 
+    32.  
+ 
+ V_2  =
+ 
+    160.  
+ 
+ V_f  =
+ 
+    15.  
+ 
+ total_input  =
+ 
+    8600.  
+ 
+ Output  =
+ 
+    5120.  
+ 
+ total_losses  =
+ 
+    3480.  
+ 
+ 
+ R_se  =
+ 
+    0.375  
+ 
+ R_a  =
+ 
+    0.4  
+ 
+ 
+ total_cu_loss  =
+ 
+    2249.6  
+ 
+ stray_losses  =
+ 
+    1230.4  
+ 
+ stray_losses_each  =
+ 
+    615.2  
+ 
+ 
+ 
+ motor_input  =
+ 
+    8000.  
+ 
+ arm_cu_loss  =
+ 
+    1240.  
+ 
+ total_losses_motor  =
+ 
+    1855.2  
+ 
+ motor_output  =
+ 
+    6144.8  
+ 
+ eta_m  =
+ 
+    76.81  
+ 
+Efficiency of motor is 76.81 percent 
+ 
+ 
+ arm_cu_loss_gen  =
+ 
+    409.6  
+ 
+ series_field_cu_loss  =
+ 
+    600.  
+ 
+ total_losses_gen  =
+ 
+    1624.8  
+ 
+ generator_input  =
+ 
+    6744.8  
+ 
+ eta_gen  =
+ 
+    75.910331  
+ 
+Efficiency of generator is 75.91 percent 
+
+
+Answer dont match because Output-of-generator is taken as 5220 for calculation while its should have been 5120 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.8/3_8.sce #
+ 
+Example 3.8
+
+ 
+ 
+ V  =
+ 
+    500.  
+ 
+ Io  =
+ 
+    5.  
+ 
+ R_a  =
+ 
+    0.5  
+ R_sh  =
+ 
+    250.  
+ 
+ I  =
+ 
+    100.  
+ 
+ 
+ P_in_NL  =
+ 
+    2500.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ 
+ Iao  =
+ 
+    3.  
+ 
+ arm_cu_loss_no_load  =
+ 
+    4.5  
+ 
+ constant_losses  =
+ 
+    2495.5  
+ 
+ 
+ I_a  =
+ 
+    98.  
+ 
+ arm_cu_loss  =
+ 
+    4802.  
+ 
+ 
+ Total_loss  =
+ 
+    7297.5  
+ 
+ P_in  =
+ 
+    50000.  
+ 
+ efficiency  =
+ 
+    85.405  
+ 
+Efficiency is 85.405 percent when motor takes 100 A current 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.9/3_9.sce #
+ 
+Example 3.9
+
+ 
+ 
+ V  =
+ 
+    500.  
+ 
+ I_NL  =
+ 
+    5.  
+ 
+ P_in_NL  =
+ 
+    2500.  
+ 
+ R_a  =
+ 
+    0.22  
+ R_sh  =
+ 
+    250.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a_NL  =
+ 
+    3.  
+ 
+ arm_cu_loss_NL  =
+ 
+    1.98  
+ 
+ constant_loss  =
+ 
+    2498.02  
+ 
+ 
+ 
+ I  =
+ 
+    100.  
+ 
+ I_a  =
+ 
+    98.  
+ 
+ arm_cu_loss  =
+ 
+    2112.88  
+ 
+ total_loss  =
+ 
+    4610.9  
+ 
+ motor_input  =
+ 
+    50000.  
+ 
+ motor_output  =
+ 
+    45389.1  
+ 
+ eta_m  =
+ 
+    90.7782  
+ 
+Part(a)
+Efficiency of motor when it takes 100 A current and loaded is 90.78 percent
+ 
+ 
+ 
+ E_b_NL  =
+ 
+    499.34  
+ 
+ 
+ E_b  =
+ 
+    478.44  
+ 
+ 
+ delta_speed  =
+ 
+    4.3683638  
+ 
+Part(b)
+Percentage speed in speed is 4.368 percent
+
+ 
+ 
+Note that the following were assumptions made
+ 
+(i) Due to heating , resistance of shunt field winding will be increased which will reduce the shunt field current.This will decrease the flux which is neglected
+ 
+(ii) Though the motor speed is changing from no load to given load , the mechanical losses are assumed to be cosnstant
+ 
+(iii)The effect of armature reaction aon main pole flux and its effect on iron loss is neglected 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.10/3_10.sce #
+ 
+Example 3.10
+
+ 
+ 
+ motor_output_FL  =
+ 
+    15000.  
+ 
+ V  =
+ 
+    250.  
+ R_sh  =
+ 
+    100.  
+ 
+ 
+ 
+ motor_output_FL_dash  =
+ 
+    12000.  
+ 
+ eta  =
+ 
+    0.9  
+ 
+ motor_input  =
+ 
+    13333.333  
+ 
+ total_losses  =
+ 
+    1333.3333  
+ 
+ 
+ constant_losses  =
+ 
+    666.66667  
+ 
+ variable_losses  =
+ 
+    666.66667  
+ 
+ I  =
+ 
+    53.333333  
+ 
+ I_sh  =
+ 
+    2.5  
+ 
+ I_a  =
+ 
+    50.833333  
+ 
+ 
+ R_a  =
+ 
+    0.2579952  
+ 
+ E_b1  =
+ 
+    236.88525  
+ 
+ N_1  =
+ 
+    750.  
+ 
+ 
+ 
+ I  =
+ 
+    80.  
+ 
+ I_a  =
+ 
+    77.5  
+ 
+ arm_cu_losses  =
+ 
+    1549.5834  
+ 
+ total_losses  =
+ 
+    2216.2501  
+ 
+ motor_input  =
+ 
+    20000.  
+ 
+ motor_output  =
+ 
+    17783.75  
+ 
+ eta  =
+ 
+    88.918749  
+ 
+Efficiency of motor is 88.92 percent when motor draws 80A current 
+ E_b2  =
+ 
+    230.00537  
+ 
+ N_2  =
+ 
+    728.21771  
+ 
+
+and Speed is 728.22 r.p.m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.11/3_11.sce #
+ 
+Example 3.11
+
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ R_sh  =
+ 
+    166.67  
+ R_a  =
+ 
+    0.15  
+ 
+ N_0  =
+ 
+    1280.  
+ 
+ I_L1  =
+ 
+    67.  
+ 
+ I_sh  =
+ 
+    1.49997  
+ 
+ I_a1  =
+ 
+    65.50003  
+ 
+ E_b1  =
+ 
+    240.175  
+ 
+ 
+ 
+ I_L0  =
+ 
+    6.5  
+ 
+ I_a0  =
+ 
+    5.00003  
+ 
+ E_b0  =
+ 
+    249.25  
+ 
+ 
+ 
+ 
+ N_1  =
+ 
+    1233.3962  
+ 
+(i)Full load speed is 1233.396 r.p.m
+ 
+ 
+ 
+ speed_regulation  =
+ 
+    3.7784949  
+ 
+(ii)Speed regulation is 3.78 percent 
+ 
+ 
+ 
+ stray_losses  =
+ 
+    1246.2575  
+ 
+ power_developed_FL  =
+ 
+    15731.469  
+ 
+ shaft_output_FL  =
+ 
+    14485.212  
+ 
+ hp_rating  =
+ 
+    19.417174  
+ 
+(iii)H.P rating of the machine Is 19.42 H.P
+ 
+ 
+ 
+ power_input  =
+ 
+    16750.  
+ 
+ eta  =
+ 
+    86.478877  
+ 
+(iv)Efficiency at full load is 86.48 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.12/3_12.sce #
+ 
+Example 3.12
+
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ R_sh  =
+ 
+    240.  
+ R_a  =
+ 
+    0.1  
+ 
+ rotational_loss  =
+ 
+    236.  
+ 
+ I_L_FL  =
+ 
+    9.8  
+ 
+ N  =
+ 
+    1450.  
+ 
+ I_sh  =
+ 
+    0.8333333  
+ 
+ I_a_FL  =
+ 
+    8.9666667  
+ 
+ E_b  =
+ 
+    199.10333  
+ 
+ 
+ 
+ gross_mech_P_dev  =
+ 
+    1785.2932  
+ 
+ mech_P_dev  =
+ 
+    1549.2932  
+ 
+(i)Gross mechanical power developed is 1785.29 W
+ 
+   Mechanical power developed is 1549.29 W
+ 
+ 
+ 
+ P_out  =
+ 
+    1549.2932  
+ 
+(ii)The power output is 1549.29 W
+ 
+ 
+ 
+ T_sh  =
+ 
+    10.203214  
+ 
+ T_L  =
+ 
+    10.203214  
+ 
+(iii)Load torque is 10.20 N-m
+ 
+ 
+ 
+ P_in  =
+ 
+    1960.  
+ 
+ eta  =
+ 
+    79.045573  
+ 
+(iv)Efficiency at full load is 79.05 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.13/3_13.sce #
+ 
+Example 3.13
+
+ 
+ 
+ V  =
+ 
+    240.  
+ 
+ P_out  =
+ 
+    18387.5  
+ 
+ R_a  =
+ 
+    0.14  
+ R_sh  =
+ 
+    80.  
+ 
+ brush_drop  =
+ 
+    1.  
+ 
+ I_L_FL  =
+ 
+    95.  
+ 
+ I_sh  =
+ 
+    3.  
+ 
+ I_a_FL  =
+ 
+    92.  
+ 
+ 
+ arm_cu_loss_FL  =
+ 
+    1184.96  
+ 
+ field_cu_loss  =
+ 
+    720.  
+ 
+(i)Armature and field copper losses are 1184.96 W and 720 W respectively
+ 
+ brush_cu_loss  =
+ 
+    184.  
+ 
+(ii)Brush contact copper loss is 184 W
+ 
+ E_b  =
+ 
+    225.12  
+ 
+ gross_mech_P_dev  =
+ 
+    20711.04  
+ 
+ IFW_losses  =
+ 
+    2323.54  
+ 
+(iii)Core plus mechanical losses = 4228.5 W
+ 
+ eta  =
+ 
+    80.64693  
+ 
+(iv)Efficiency is 80.65 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.14/3_14.sce #
+ 
+Example 3.14
+
+ 
+ 
+ I  =
+ 
+    5.  
+ 
+ V  =
+ 
+    500.  
+ 
+ R_sh  =
+ 
+    250.  
+ R_a  =
+ 
+    0.5  
+ 
+ motor_input_NL  =
+ 
+    2500.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a  =
+ 
+    3.  
+ 
+ arm_cu_loss_NL  =
+ 
+    4.5  
+ 
+ constant_loss  =
+ 
+    2495.5  
+ 
+ I_FL  =
+ 
+    50.  
+ I_a_FL  =
+ 
+    48.  
+ 
+ arm_cu_loss_FL  =
+ 
+    1152.  
+ 
+ 
+ total_loss  =
+ 
+    3647.5  
+ 
+ motor_input  =
+ 
+    25000.  
+ 
+ motor_output_FL  =
+ 
+    21352.5  
+ 
+Required output power is 21.352 kW
+ 
+ eta  =
+ 
+    85.41  
+ 
+Full load efficiency of motor with 50A current is 85.41 percent  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.15/3_15.sce #
+ 
+Example 3.15
+
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ R_sh  =
+ 
+    275.  
+ R_a  =
+ 
+    0.8  
+ 
+ I_L0  =
+ 
+    3.91  
+ 
+ I_sh  =
+ 
+    0.9090909  
+ 
+ I_a0  =
+ 
+    3.0009091  
+ 
+ constant_losses  =
+ 
+    970.29564  
+ 
+ 
+ 
+ P_out  =
+ 
+    10000.  
+ 
+ I_L  =
+ 
+    40.  
+ 
+ I_a  =
+ 
+    40.909091  
+ 
+ field_cu_loss  =
+ 
+    227.27273  
+ 
+ arm_cu_loss  =
+ 
+    1338.843  
+ 
+ eta_gen  =
+ 
+    79.767644  
+ 
+Efficiency as a generator = 79.77 percent
+ 
+ 
+ 
+ P_in  =
+ 
+    10000.  
+ 
+ I_L  =
+ 
+    40.  
+ 
+ I_a  =
+ 
+    39.090909  
+ 
+ field_cu_loss  =
+ 
+    227.27273  
+ 
+ arm_cu_loss  =
+ 
+    1222.4793  
+ 
+ eta_m  =
+ 
+    75.799523  
+ 
+Efficiency as a motor = 75.80 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.16/3_16.sce #
+ 
+Example 3.16
+
+ 
+ 
+ I  =
+ 
+    4.  
+ 
+ V  =
+ 
+    500.  
+ 
+ motor_input_no_load  =
+ 
+    2000.  
+ 
+ R_a  =
+ 
+    0.5  
+ R_sh  =
+ 
+    250.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ 
+ I_a  =
+ 
+    2.  
+ 
+ arm_cu_loss_noload  =
+ 
+    2.  
+ 
+ constant_loss  =
+ 
+    1998.  
+ 
+ I_FL  =
+ 
+    40.  
+ I_aFL  =
+ 
+    38.  
+ 
+ arm_cu_loss_fulload  =
+ 
+    722.  
+ 
+ Total_loss  =
+ 
+    2720.  
+ 
+ 
+ motor_input  =
+ 
+    20000.  
+ 
+ motor_output_fullload  =
+ 
+    17280.  
+ 
+Output power at full-load is 17280 W 
+ efficiency  =
+ 
+    86.4  
+ 
+
+Efficiency at full-load is 86.4 percent 
+ 
+ E_bNL  =
+ 
+    499.  
+ 
+ E_bFL  =
+ 
+    480.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ change_in_speed  =
+ 
+    3.9583333  
+ 
+
+percentage change in speed from no load to full load is 3.958 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.17/3_17.sce #
+ 
+Example 3.17
+
+ 
+ 
+ V  =
+ 
+    500.  
+ 
+ R_a  =
+ 
+    0.22  
+ R_sh  =
+ 
+    250.  
+ 
+ I  =
+ 
+    5.  
+ 
+ motor_input_NL  =
+ 
+    2500.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a_NL  =
+ 
+    3.  
+ 
+ arm_cu_loss_NL  =
+ 
+    1.98  
+ 
+ constant_loss  =
+ 
+    2498.02  
+ 
+ 
+ 
+ I  =
+ 
+    100.  
+ 
+ I_a  =
+ 
+    98.  
+ 
+ arm_cu_loss  =
+ 
+    2112.88  
+ 
+ total_losses  =
+ 
+    4610.9  
+ 
+ motor_input  =
+ 
+    50000.  
+ 
+ motor_output  =
+ 
+    45389.1  
+ 
+ eta_m  =
+ 
+    90.7782  
+ 
+(i)Efficiency of motor at 100 A current is 90.78 percent 
+ 
+ 
+ 
+ E_b_NL  =
+ 
+    499.34  
+ 
+ E_b  =
+ 
+    478.44  
+ 
+ 
+ speed_change  =
+ 
+    4.3683638  
+ 
+(ii)Percentage change in speed = 4.368 percent
+
+ 
+ 
+ 
+Note that the following were assumptions made
+ 
+(i) Due to heating , resistance of shunt field winding will be increased which will reduce the shunt field current.This will decrease the flux which is neglected
+ 
+(ii) Though the motor speed is changing from no load to given load , the mechanical losses are assumed to be cosnstant
+ 
+(iii)The effect of armature reaction aon main pole flux and its effect on iron loss is neglected 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.18/3_18.sce #
+ 
+Example 3.18
+
+ 
+ 
+ V  =
+ 
+    200.  
+ I_L  =
+ 
+    40.  
+ 
+ R_sh  =
+ 
+    200.  
+ R_a  =
+ 
+    0.2  
+ 
+ 
+ P_out_g  =
+ 
+    8000.  
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    41.  
+ 
+ E  =
+ 
+    208.2  
+ 
+ P_a_g  =
+ 
+    8536.2  
+ 
+ P_cu_g  =
+ 
+    536.2  
+ 
+(i)Output as generator is 8 kW
+ 
+ 
+ 
+ P_in_m  =
+ 
+    8000.  
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    39.  
+ 
+ E_b  =
+ 
+    192.2  
+ 
+ P_a_m  =
+ 
+    7495.8  
+ 
+ P_cu_m  =
+ 
+    504.2  
+ 
+(ii)Input as motor is 8 kW
+ 
+
+(iii)Power developed in Armature:
+8.5362 kW for generator
+7.4958 kW for motor
+ 
+
+(iv)Copper losses:
+536.2 W for generator
+504.2 W for motor 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.19/3_19.sce #
+ 
+Example 3.19
+
+ 
+ 
+ V  =
+ 
+    219.  
+ I  =
+ 
+    10.  
+ 
+ dN  =
+ 
+    60.  
+ 
+ t_1  =
+ 
+    36.  
+ 
+ t_2  =
+ 
+    9.  
+ 
+ t_3  =
+ 
+    15.  
+ 
+ W_dash  =
+ 
+    2190.  
+ 
+ W_s  =
+ 
+    3285.  
+ 
+ N  =
+ 
+    1000.  
+ 
+ 
+ I  =
+ 
+    74.88902  
+ 
+ W_m  =
+ 
+    1368.75  
+ 
+ iron_losses  =
+ 
+    1916.25  
+ 
+ 
+(i)The moment of inertia of armature is 74.89 kg-m^2
+ 
+(ii)Iron loss= 1916.25 W
+ 
+(iii)Mechanical losses at 1000 rpm mean speed is 1368.75 W 
+ 
+
+
+Noteworthy points:
+(1)When armature is slowing down and there is no excitation,then kinetic energy is used to overcome mechanical losses only.Iron losses are absent as excitation is absent
+(2)When excitation is given, kinetic energy is used to overcome both mechanical as well as iron losses.Total called stray losses.
+(3)If moment of inertia is in kg-m^2,then loss of energy is in watts 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.20/3_20.sce #
+ 
+Example 3.20
+
+ 
+ 
+ V  =
+ 
+    225.  
+ I  =
+ 
+    10.  
+ 
+ dN  =
+ 
+    60.  
+ 
+ t_1  =
+ 
+    40.  
+ 
+ t_2  =
+ 
+    9.  
+ 
+ t_3  =
+ 
+    20.  
+ 
+ 
+ W_dash  =
+ 
+    2250.  
+ 
+ W_s  =
+ 
+    1840.9091  
+ 
+ N  =
+ 
+    1000.  
+ 
+ 
+ I  =
+ 
+    55.956926  
+ 
+ W_m  =
+ 
+    920.45455  
+ 
+ iron_losses  =
+ 
+    920.45455  
+ 
+ 
+(i)The moment of inertia of armature is 55.96 kg-m^2
+ 
+(ii)Iron loss= 920.45 W
+ 
+(iii)Mechanical losses at 1000 rpm mean speed is 920.45 W 
+ 
+
+
+Noteworthy points:
+(1)When there is no excitation and armature is slowed down , its K.E. is used to overcome mechanical mechanical losses only since there will be no iron loss as there is no flux.
+(2)When there is excitation provided then K.E. is used to supply mechanical as well as iron losses together called stray losses  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.21/3_21.sce #
+ 
+Example 3.21
+
+ 
+ 
+ V_avg  =
+ 
+    205.  
+ 
+ I_avg  =
+ 
+    12.  
+ R_a  =
+ 
+    0.5  
+ R_sh  =
+ 
+    250.  
+ 
+ W_dash  =
+ 
+    2460.  
+ 
+ t_1  =
+ 
+    30.  
+ t_2  =
+ 
+    5.  
+ 
+ W  =
+ 
+    492.  
+ 
+ V  =
+ 
+    250.  
+ I  =
+ 
+    22.  
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    21.  
+ 
+ arm_cu_loss  =
+ 
+    220.5  
+ 
+ shunt_field_cu_loss  =
+ 
+    250.  
+ 
+ total_losses  =
+ 
+    962.5  
+ 
+ 
+ machine_input  =
+ 
+    5500.  
+ 
+ machine_output  =
+ 
+    4537.5  
+ 
+ eta_m  =
+ 
+    82.5  
+ 
+Efficiency of machine when opeating as motor taking current of 22A on 250V supply is 
+82.5 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.22/3_22.sce #
+ 
+Example 3.22
+
+ 
+ 
+ I_avg  =
+ 
+    10.  
+ 
+ V_avg  =
+ 
+    205.  
+ 
+ W_dash  =
+ 
+    2050.  
+ 
+ t_1  =
+ 
+    30.  
+ t_2  =
+ 
+    20.  
+ 
+ W  =
+ 
+    4100.  
+ 
+Stray losses of motor is 4.1 kW
+
+
+ 
+Answers mismatch because V_average is 205 volts but it is taken as 220 volts in Power absorbed calculation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.23/3_23.sce #
+ 
+Example 3.23
+
+ 
+ 
+ I_a_g  =
+ 
+    330.  
+ I_a_m  =
+ 
+    380.  
+ 
+ R_a  =
+ 
+    0.02  
+ 
+ V  =
+ 
+    250.  
+ I  =
+ 
+    50.  
+ 
+ arm_cu_loss_g  =
+ 
+    2178.  
+ 
+ arm_cu_loss_m  =
+ 
+    2888.  
+ 
+ power_drawn  =
+ 
+    12500.  
+ 
+ stray_losses  =
+ 
+    7434.  
+ 
+ stray_losses_each  =
+ 
+    3717.  
+ 
+ 
+ 
+ I_sh_m  =
+ 
+    4.2  
+ 
+ field_cu_loss_m  =
+ 
+    1050.  
+ 
+ total_loss  =
+ 
+    7655.  
+ 
+ motor_input  =
+ 
+    96050.  
+ 
+ motor_output  =
+ 
+    88395.  
+ 
+ eta_m  =
+ 
+    92.030193  
+ 
+Efficiency of motor is 92.0302 percent
+ 
+ 
+ 
+ I_sh_g  =
+ 
+    5.  
+ 
+ field_cu_loss_g  =
+ 
+    1250.  
+ 
+ total_loss  =
+ 
+    7145.  
+ 
+ generator_output  =
+ 
+    82500.  
+ 
+ generator_input  =
+ 
+    89645.  
+ 
+ eta_g  =
+ 
+    92.029673  
+ 
+Efficiency of generator is 92.0297 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.24/3_24.sce #
+ 
+Example 3.24
+
+ 
+ 
+ R_a  =
+ 
+    0.02  
+ 
+ V  =
+ 
+    250.  
+ 
+ I  =
+ 
+    50.  
+ 
+ 
+ 
+ I_a_g  =
+ 
+    330.  
+ I_sh_g  =
+ 
+    5.  
+ 
+ arm_cu_loss_g  =
+ 
+    2178.  
+ 
+ field_cu_loss_g  =
+ 
+    1250.  
+ 
+ 
+ 
+ I_a_m  =
+ 
+    380.  
+ I_sh_m  =
+ 
+    4.2  
+ 
+ arm_cu_loss_m  =
+ 
+    2888.  
+ 
+ field_cu_loss_m  =
+ 
+    1050.  
+ 
+ power_drawn  =
+ 
+    12500.  
+ 
+ IFW_losses  =
+ 
+    7434.  
+ 
+ IFW_losses_each  =
+ 
+    3717.  
+ 
+ 
+ 
+ total_loss_g  =
+ 
+    7145.  
+ 
+ generator_output  =
+ 
+    82500.  
+ 
+ generator_input  =
+ 
+    89645.  
+ 
+ eta_g  =
+ 
+    92.029673  
+ 
+Efficiency of generator is 92.0297 percent
+ 
+ 
+ 
+ total_loss_m  =
+ 
+    7655.  
+ 
+ motor_input  =
+ 
+    96050.  
+ 
+ motor_output  =
+ 
+    88395.  
+ 
+ eta_m  =
+ 
+    92.030193  
+ 
+Efficiency of motor is 92.0302 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.25/3_25.sce #
+ 
+Example 3.25
+
+ 
+ 
+ V  =
+ 
+    220.  
+ I  =
+ 
+    40.  
+ 
+ I_a_g  =
+ 
+    160.  
+ I_a_m  =
+ 
+    200.  
+ 
+ I_sh_g  =
+ 
+    7.  
+ I_sh_m  =
+ 
+    6.  
+ 
+ R_a  =
+ 
+    0.015  
+ 
+ arm_cu_loss_g  =
+ 
+    384.  
+ 
+ arm_cu_loss_m  =
+ 
+    600.  
+ 
+ power_drawn  =
+ 
+    8800.  
+ 
+ IFW_losses  =
+ 
+    7816.  
+ 
+ IFW_losses_each  =
+ 
+    3908.  
+ 
+ 
+ 
+ field_cu_loss_m  =
+ 
+    1320.  
+ 
+ total_loss_m  =
+ 
+    5828.  
+ 
+ motor_input  =
+ 
+    44000.  
+ 
+ motor_output  =
+ 
+    38172.  
+ 
+ eta_m  =
+ 
+    86.754545  
+ 
+Efficiency of motor is 86.7545 percent
+ 
+ 
+ 
+ field_cu_loss_g  =
+ 
+    1540.  
+ 
+ total_loss_g  =
+ 
+    5832.  
+ 
+ generator_output  =
+ 
+    35200.  
+ 
+ generator_input  =
+ 
+    41032.  
+ 
+ eta_g  =
+ 
+    85.786703  
+ 
+Efficiency of generator is 85.7867 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.26/3_26.sce #
+ 
+Example 3.26
+
+ 
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ V  =
+ 
+    240.  
+ I  =
+ 
+    16.  
+ 
+ I_a_g  =
+ 
+    60.  
+ I_a_m  =
+ 
+    71.  
+ 
+ I_sh_g  =
+ 
+    3.  
+ I_sh_m  =
+ 
+    2.  
+ 
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    720.  
+ 
+ field_cu_loss_g  =
+ 
+    720.  
+ 
+ 
+ 
+ arm_cu_loss_m  =
+ 
+    1008.2  
+ 
+ field_cu_loss_m  =
+ 
+    480.  
+ 
+ power_drawn  =
+ 
+    3840.  
+ 
+ field_loss_total_g_m  =
+ 
+    1200.  
+ 
+ arm_cu_loss_total_g_m  =
+ 
+    1728.2  
+ 
+ IFW_losses  =
+ 
+    911.8  
+ 
+ IFW_losses_each  =
+ 
+    455.9  
+ 
+ 
+ 
+ total_loss_g  =
+ 
+    1895.9  
+ 
+ generator_output  =
+ 
+    14400.  
+ 
+ generator_input  =
+ 
+    16295.9  
+ 
+ eta_g  =
+ 
+    88.365785  
+ 
+Efficiency of generator is 88.3658 percent
+ 
+ 
+ 
+ total_loss_m  =
+ 
+    1944.1  
+ 
+ motor_input  =
+ 
+    17520.  
+ 
+ motor_output  =
+ 
+    15575.9  
+ 
+ eta_m  =
+ 
+    88.903539  
+ 
+Efficiency of motor is 88.9035 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.27/3_27.sce #
+ 
+Example 3.27
+
+ 
+ 
+ R_a  =
+ 
+    0.015  
+ V  =
+ 
+    250.  
+ 
+ I  =
+ 
+    45.  
+ 
+ I_a_m  =
+ 
+    385.  
+ I_sh_m  =
+ 
+    4.  
+ 
+ I_a_g  =
+ 
+    340.  
+ I_sh_g  =
+ 
+    5.  
+ 
+ arm_cu_loss_m  =
+ 
+    2223.375  
+ 
+ field_cu_loss_m  =
+ 
+    1000.  
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    1734.  
+ 
+ field_cu_loss_g  =
+ 
+    1250.  
+ 
+ 
+ total_cu_loss  =
+ 
+    6207.375  
+ 
+ P_aux  =
+ 
+    11250.  
+ 
+ stray_loss  =
+ 
+    5042.625  
+ 
+ stray_loss_each  =
+ 
+    2521.3125  
+ 
+ 
+ total_loss_g  =
+ 
+    5505.3125  
+ 
+ generator_output  =
+ 
+    85000.  
+ 
+ eta_g  =
+ 
+    93.917139  
+ 
+Efficiency of generator is 93.9171 percent
+ 
+ 
+ total_loss_m  =
+ 
+    5744.6875  
+ 
+ motor_input  =
+ 
+    97250.  
+ 
+ motor_output  =
+ 
+    91505.313  
+ 
+ eta_m  =
+ 
+    94.092866  
+ 
+Efficiency of motor is 94.0929 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.28/3_28.sce #
+ 
+Example 3.28
+
+ 
+ 
+ V  =
+ 
+    500.  
+ P  =
+ 
+    1000000.  
+ I  =
+ 
+    30.  
+ 
+ I_a_m  =
+ 
+    230.  
+ I_a_g  =
+ 
+    200.  
+ 
+ I_sh_m  =
+ 
+    1.8  
+ I_sh_g  =
+ 
+    3.5  
+ 
+ brush_drop  =
+ 
+    230.  
+ 
+ R_a  =
+ 
+    0.075  
+ 
+ 
+ arm_cu_loss_m  =
+ 
+    4427.5  
+ 
+ field_cu_loss_m  =
+ 
+    900.  
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    3460.  
+ 
+ field_cu_loss_g  =
+ 
+    1750.  
+ 
+ 
+ total_cu_loss  =
+ 
+    10537.5  
+ 
+ P_aux  =
+ 
+    15000.  
+ 
+ stray_loss  =
+ 
+    4462.5  
+ 
+ stray_loss_each  =
+ 
+    2231.25  
+ 
+ 
+ total_loss_g  =
+ 
+    7441.25  
+ 
+ generator_output  =
+ 
+    100000.  
+ 
+ eta_g  =
+ 
+    93.074122  
+ 
+Efficiency of generator is 93 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.29/3_29.sce #
+ 
+Example 3.29
+
+ 
+ 
+ V  =
+ 
+    220.  
+ I  =
+ 
+    10.  
+ 
+ R_a  =
+ 
+    0.05  
+ 
+ I_a_m  =
+ 
+    73.  
+ I_sh_m  =
+ 
+    2.  
+ 
+ I_a_g  =
+ 
+    67.5  
+ I_sh_g  =
+ 
+    2.5  
+ 
+ 
+ arm_cu_loss_m  =
+ 
+    266.45  
+ 
+ field_cu_loss_m  =
+ 
+    440.  
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    227.8125  
+ 
+ field_cu_loss_g  =
+ 
+    550.  
+ 
+ 
+ total_cu_loss  =
+ 
+    1484.2625  
+ 
+ power_input  =
+ 
+    2200.  
+ 
+ stray_loss  =
+ 
+    715.7375  
+ 
+ stray_loss_each  =
+ 
+    357.86875  
+ 
+ 
+ 
+ total_loss_m  =
+ 
+    1064.3187  
+ 
+ motor_input  =
+ 
+    16500.  
+ 
+ motor_output  =
+ 
+    15435.681  
+ 
+ eta_m  =
+ 
+    93.549583  
+ 
+Efficiency of motor is 93.5496 percent
+ 
+ 
+ 
+ total_loss_g  =
+ 
+    1135.6813  
+ 
+ generator_output  =
+ 
+    14850.  
+ 
+ generator_input  =
+ 
+    15985.681  
+ 
+ eta_g  =
+ 
+    92.895634  
+ 
+Efficiency of generator is 92.8956 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.30/3_30.sce #
+ 
+Example 3.30
+
+ 
+ 
+ V  =
+ 
+    400.  
+ I  =
+ 
+    50.  
+ 
+ I_a_g  =
+ 
+    250.  
+ I_a_m  =
+ 
+    300.  
+ 
+ I_sh_g  =
+ 
+    2.5  
+ I_sh_m  =
+ 
+    2.4  
+ 
+ R_a  =
+ 
+    0.1  
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    6250.  
+ 
+ arm_cu_loss_m  =
+ 
+    9000.  
+ 
+ power_drawn  =
+ 
+    20000.  
+ 
+ IFW_losses  =
+ 
+    4750.  
+ 
+ IFW_losses_each  =
+ 
+    2375.  
+ 
+ 
+ 
+ field_cu_loss_m  =
+ 
+    960.  
+ 
+ total_loss_m  =
+ 
+    12335.  
+ 
+ motor_input  =
+ 
+    120000.  
+ 
+ motor_output  =
+ 
+    107665.  
+ 
+ eta_m  =
+ 
+    89.720833  
+ 
+Efficiency of motor is 89.72 percent
+ 
+ 
+ 
+ field_cu_loss_g  =
+ 
+    1000.  
+ 
+ total_loss_g  =
+ 
+    9625.  
+ 
+ generator_output  =
+ 
+    100000.  
+ 
+ generator_input  =
+ 
+    109625.  
+ 
+ eta_g  =
+ 
+    91.220068  
+ 
+Efficiency of generator is 91.22 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.31/3_31.sce #
+ 
+Example 3.31
+
+ 
+ 
+ I_1  =
+ 
+    56.  
+ 
+ V  =
+ 
+    590.  
+ 
+ I_2  =
+ 
+    44.  
+ 
+ V_2  =
+ 
+    400.  
+ 
+ V_field  =
+ 
+    40.  
+ 
+ R_a  =
+ 
+    0.3  
+ R_se  =
+ 
+    0.7142  
+ 
+ total_input  =
+ 
+    35280.  
+ 
+ output  =
+ 
+    17600.  
+ 
+ total_loss_g_m  =
+ 
+    17680.  
+ 
+ R_se  =
+ 
+    0.7142857  
+ 
+ total_cu_loss  =
+ 
+    6001.6  
+ 
+ stray_loss  =
+ 
+    11678.4  
+ 
+ stray_loss_each  =
+ 
+    5839.2  
+ 
+ 
+ 
+ motor_input  =
+ 
+    33040.  
+ 
+ arm_cu_loss_m  =
+ 
+    3180.8  
+ 
+ total_loss_m  =
+ 
+    9020.  
+ 
+ motor_output  =
+ 
+    24020.  
+ 
+ eta_m  =
+ 
+    72.699758  
+ 
+Efficiency of motor is 72.6998 percent
+ 
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    580.8  
+ 
+ series_field_cu_loss_g  =
+ 
+    2240.  
+ 
+ total_loss_g  =
+ 
+    8660.  
+ 
+ generator_output  =
+ 
+    17600.  
+ 
+ generator_input  =
+ 
+    26260.  
+ 
+ eta_g  =
+ 
+    67.022087  
+ 
+Efficiency of generator is 67.0221 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH3/EX3.32/3_32.sce #
+ 
+Example 3.32
+
+ 
+ 
+ I_1  =
+ 
+    56.  
+ 
+ V  =
+ 
+    590.  
+ 
+ I_2  =
+ 
+    44.  
+ 
+ V_2  =
+ 
+    400.  
+ 
+ V_field  =
+ 
+    40.  
+ 
+ R_a  =
+ 
+    0.3  
+ R_se  =
+ 
+    0.7142  
+ 
+ 
+ total_input  =
+ 
+    35280.  
+ 
+ output  =
+ 
+    17600.  
+ 
+ total_loss_g_m  =
+ 
+    17680.  
+ 
+ R_se  =
+ 
+    0.7142857  
+ 
+ total_cu_loss  =
+ 
+    6001.6  
+ 
+ stray_loss  =
+ 
+    11678.4  
+ 
+ stray_loss_each  =
+ 
+    5839.2  
+ 
+ 
+ 
+ motor_input  =
+ 
+    33040.  
+ 
+ arm_cu_loss_m  =
+ 
+    3180.8  
+ 
+ total_loss_m  =
+ 
+    9020.  
+ 
+ motor_output  =
+ 
+    24020.  
+ 
+ eta_m  =
+ 
+    72.699758  
+ 
+Efficiency of motor is 72.6998 percent
+ 
+ 
+ 
+ arm_cu_loss_g  =
+ 
+    580.8  
+ 
+ series_field_cu_loss_g  =
+ 
+    2240.  
+ 
+ total_loss_g  =
+ 
+    8660.  
+ 
+ generator_output  =
+ 
+    17600.  
+ 
+ generator_input  =
+ 
+    26260.  
+ 
+ eta_g  =
+ 
+    67.022087  
+ 
+Efficiency of generator is 67.0221 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.1/4_1.sce #
+ 
+Example 4.1
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Slots  =
+ 
+    24.  
+ 
+ Phase  =
+ 
+    3.  
+ 
+ n  =
+ 
+    6.  
+ 
+ m  =
+ 
+    2.  
+ 
+ beeta  =
+ 
+    30.  
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.2/4_2.sce #
+ 
+Example 4.2
+
+ 
+ 
+ Slots  =
+ 
+    120.  
+ 
+ Pole  =
+ 
+    8.  
+ 
+ Phase  =
+ 
+    3.  
+ 
+ n  =
+ 
+    15.  
+ 
+ m  =
+ 
+    5.  
+ 
+ beeta  =
+ 
+    12.  
+ 
+ K_d  =
+ 
+    0.9566772  
+ 
+Distribution Factor:
+K_d=0.957 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.3/4_3.sce #
+ 
+Example 4.3
+
+ 
+ 
+ Slots  =
+ 
+    36.  
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Phase  =
+ 
+    3.  
+ 
+ n  =
+ 
+    9.  
+ 
+ beeta  =
+ 
+    20.  
+ 
+ 
+ 
+ alpha  =
+ 
+    20.  
+ 
+ K_c  =
+ 
+    0.9848078  
+ 
+Coil Span Factor:
+K_c=0.9848 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.4/4_4.sce #
+ 
+Example 4.4
+
+ 
+ 
+ N_s  =
+ 
+    250.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Slots  =
+ 
+    216.  
+ 
+ phi  =
+ 
+    0.03  
+ 
+ 
+ Pole  =
+ 
+    24.  
+ 
+ n  =
+ 
+    9.  
+ 
+ m  =
+ 
+    3.  
+ 
+ beeta  =
+ 
+    20.  
+ 
+ 
+ K_d  =
+ 
+    0.9597951  
+ 
+ K_c  =
+ 
+    1.  
+ 
+ 
+ Z  =
+ 
+    1080.  
+ 
+ Z_ph  =
+ 
+    360.  
+ 
+ T_ph  =
+ 
+    180.  
+ 
+ E_ph  =
+ 
+    1150.6023  
+ 
+ E_line  =
+ 
+    1992.9017  
+ 
+ 
+Induced e.m.f across the Terminals is 1992.90 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.5/4_5.sce #
+ 
+Example 4.5
+
+ 
+ 
+ Pole  =
+ 
+    16.  
+ 
+ N_s  =
+ 
+    375.  
+ 
+ Slots  =
+ 
+    144.  
+ 
+ E_line  =
+ 
+    2657.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ K_c  =
+ 
+    1.  
+ 
+ n  =
+ 
+    9.  
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ beeta  =
+ 
+    20.  
+ 
+ K_d  =
+ 
+    0.9597951  
+ 
+ conductors_per_slot  =
+ 
+    10.  
+ 
+ Z  =
+ 
+    1440.  
+ 
+ 
+ Z_ph  =
+ 
+    480.  
+ 
+ T_ph  =
+ 
+    240.  
+ 
+ E_ph  =
+ 
+    1534.0197  
+ 
+ 
+ phi  =
+ 
+    0.0299977  
+ 
+Frequency of Induced e.m.f is 50Hz
+Flux per Pole is 30 mWb 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.6/4_6.sce #
+ 
+Example 4.6
+
+ 
+ 
+ d  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    0.3  
+ 
+ Pole  =
+ 
+    4.  
+ 
+ A1  =
+ 
+    0.0589049  
+ 
+ f  =
+ 
+    50.  
+ 
+ B_m1  =
+ 
+    0.15  
+ B_m3  =
+ 
+    0.03  
+ B_m5  =
+ 
+    0.02  
+ 
+ phi_1  =
+ 
+    0.005625  
+ 
+ 
+ 
+ E_c1  =
+ 
+    0.624375  
+ 
+ Coil_span  =
+ 
+    156.  
+ 
+ alpha  =
+ 
+    24.  
+ 
+ 
+ 
+ K_c1  =
+ 
+    0.9781476  
+ 
+ K_c3  =
+ 
+    0.8090170  
+ 
+ K_c5  =
+ 
+    0.5  
+ 
+ 
+ 
+ E_c3  =
+ 
+    0.124875  
+ 
+ E_c5  =
+ 
+    0.08325  
+ 
+ 
+ E_t1  =
+ 
+    1.2214618  
+ 
+ E_t3  =
+ 
+    0.2020520  
+ 
+ E_t5  =
+ 
+    0.08325  
+ 
+ E_t  =
+ 
+    1.2408564  
+ 
+ V  =
+ 
+    12.408564  
+ 
+Voltage generated per coil is 12.4 V 
+ 
+ 
+ 
+ T_ph  =
+ 
+    200.  
+ 
+ 
+ Total_Conductors  =
+ 
+    1200.  
+ 
+ Conductors_per_Slot  =
+ 
+    20.  
+ 
+ Slots  =
+ 
+    60.  
+ 
+ 
+ n  =
+ 
+    15.  
+ 
+ m  =
+ 
+    5.  
+ 
+ beeta  =
+ 
+    12.  
+ 
+ K_d1  =
+ 
+    0.9566772  
+ 
+ K_d3  =
+ 
+    0.6472136  
+ 
+ K_d5  =
+ 
+    0.2  
+ 
+ 
+ E_1ph  =
+ 
+    233.70894  
+ 
+ 
+ E_3ph  =
+ 
+    26.15416  
+ 
+ E_5ph  =
+ 
+    3.33  
+ 
+ E_ph  =
+ 
+    235.19141  
+ 
+
+Voltage generated per phase is 235 V 
+ 
+ 
+ E_line  =
+ 
+    404.83685  
+ 
+
+Terminal Voltage is 404.8 V  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.7/4_7.sce #
+ 
+Example 4.7
+
+ 
+ 
+ Ns  =
+ 
+    250.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Slots  =
+ 
+    288.  
+ 
+ E_line  =
+ 
+    6600.  
+ 
+ Pole  =
+ 
+    24.  
+ 
+ n  =
+ 
+    12.  
+ 
+ m  =
+ 
+    4.  
+ 
+ beeta  =
+ 
+    15.  
+ 
+ conductors_per_slot  =
+ 
+    32.  
+ 
+ 
+ K_d  =
+ 
+    0.9576622  
+ 
+ alpha  =
+ 
+    30.  
+ 
+ K_c  =
+ 
+    0.9659258  
+ 
+ Z  =
+ 
+    9216.  
+ 
+ Z_ph  =
+ 
+    3072.  
+ 
+ T_ph  =
+ 
+    1536.  
+ 
+ 
+ E_ph  =
+ 
+    3810.5118  
+ 
+ phi  =
+ 
+    0.0120804  
+ 
+Flux per pole is 12 mWb  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.8/4_8.sce #
+ 
+Example 4.8
+
+ 
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ Pole  =
+ 
+    4.  
+ 
+ Slots  =
+ 
+    24.  
+ 
+ conductor_per_slot  =
+ 
+    8.  
+ 
+ phi  =
+ 
+    0.05  
+ 
+ f  =
+ 
+    50.  
+ 
+ n  =
+ 
+    6.  
+ 
+ m  =
+ 
+    6.  
+ 
+ beeta  =
+ 
+    30.  
+ 
+ 
+ K_d  =
+ 
+    0.6439506  
+ 
+ 
+ 
+ 
+ 
+ alpha  =
+ 
+    30.  
+ 
+ K_c  =
+ 
+    0.9659258  
+ 
+ 
+ Z  =
+ 
+    192.  
+ 
+ Z_ph  =
+ 
+    192.  
+ 
+ T_ph  =
+ 
+    96.  
+ 
+ E_ph  =
+ 
+    662.81222  
+ 
+ 
+Induced e.m.f is 662.8 V  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.9/4_9.sce #
+ 
+Example 4.9
+
+ 
+ 
+ Pole  =
+ 
+    48.  
+ 
+ n  =
+ 
+    9.  
+ 
+ phi  =
+ 
+    0.05175  
+ 
+ Ns  =
+ 
+    125.  
+ 
+ f  =
+ 
+    50.  
+ 
+ K_c  =
+ 
+    1.  
+ 
+ m  =
+ 
+    3.  
+ 
+ beeta  =
+ 
+    20.  
+ 
+ 
+ K_d  =
+ 
+    0.9597951  
+ 
+ conductor_per_slot  =
+ 
+    8.  
+ 
+ Slots  =
+ 
+    432.  
+ 
+ Z  =
+ 
+    3456.  
+ 
+ Z_ph  =
+ 
+    1152.  
+ 
+ T_ph  =
+ 
+    576.  
+ 
+ E_ph  =
+ 
+    6351.3249  
+ 
+ 
+ E_line  =
+ 
+    11000.817  
+ 
+Induced e.m.f is 11 kV  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.10/4_10.sce #
+ 
+Example 4.10
+
+ 
+ 
+ Slots  =
+ 
+    180.  
+ 
+ Pole  =
+ 
+    12.  
+ 
+ Ns  =
+ 
+    600.  
+ 
+ f  =
+ 
+    60.  
+ 
+ phi  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ rms_value_1  =
+ 
+    6.66  
+ 
+(i)r.m.s value of e.m.f in a conductor is 6.66 V  
+ 
+ 
+ 
+ rms_value_2  =
+ 
+    13.32  
+ 
+
+(ii)r.m.s value of e.m.f in a turn is 13.32 V  
+ 
+ 
+ conductors_per_coilside  =
+ 
+    5.  
+ 
+ rms_value_3  =
+ 
+    66.6  
+ 
+
+(iii)r.m.s value of e.m.f in a coil is 66.6 V  
+ 
+ 
+ conductors_per_slot  =
+ 
+    10.  
+ 
+ Z  =
+ 
+    1800.  
+ 
+ Z_ph  =
+ 
+    600.  
+ 
+ T_ph  =
+ 
+    300.  
+ 
+ n  =
+ 
+    15.  
+ 
+ m  =
+ 
+    5.  
+ 
+ beeta  =
+ 
+    12.  
+ 
+ 
+ K_d  =
+ 
+    0.9566772  
+ K_c  =
+ 
+    1.  
+ 
+ E_ph  =
+ 
+    3822.8822  
+ 
+
+(iv)per phase induced e.m.f is 3822.9 V  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.11/4_11.sce #
+ 
+Example 4.11
+
+ 
+ 
+ Pole  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ phi  =
+ 
+    0.06  
+ 
+ Slots  =
+ 
+    96.  
+ 
+ n  =
+ 
+    12.  
+ 
+ beeta  =
+ 
+    15.  
+ 
+ m  =
+ 
+    4.  
+ 
+ 
+ coil_pitch  =
+ 
+    150.  
+ 
+ alpha  =
+ 
+    30.  
+ 
+ K_c  =
+ 
+    0.9659258  
+ 
+ K_d  =
+ 
+    0.9576622  
+ 
+ 
+ conductors_per_slot  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    384.  
+ 
+ Total_turns  =
+ 
+    192.  
+ 
+ T_ph  =
+ 
+    64.  
+ 
+ 
+ 
+ E_ph  =
+ 
+    788.57013  
+ 
+The phase voltage is 788.57 V  
+ 
+ 
+ E_line  =
+ 
+    1365.8435  
+ 
+
+The Line Voltage is 1365.84 V  
+ 
+ 
+ I_ph  =
+ 
+    650.  
+ 
+ I_l  =
+ 
+    650.  
+ 
+ kVA_rating  =
+ 
+    1537711.7  
+ 
+
+kVA rating is 1537.7 kVA  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.12/4_12.sce #
+ 
+Example 4.12
+
+ 
+ 
+ Ns  =
+ 
+    600.  
+ 
+ Pole  =
+ 
+    10.  
+ 
+ l  =
+ 
+    0.3  
+ 
+ Pole_pitch  =
+ 
+    0.35  
+ 
+ Phase  =
+ 
+    3.  
+ 
+ conductors_per_slot  =
+ 
+    8.  
+ 
+ A1  =
+ 
+    0.105  
+ 
+ m  =
+ 
+    3.  
+ 
+ n  =
+ 
+    9.  
+ 
+ beeta  =
+ 
+    20.  
+ 
+ 
+ B_m1  =
+ 
+    1.  
+ B_m3  =
+ 
+    0.3  
+ B_m5  =
+ 
+    0.2  
+ 
+ phi_1  =
+ 
+    0.0668451  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ Coil_span  =
+ 
+    160.  
+ 
+ alpha  =
+ 
+    20.  
+ 
+ 
+ K_c1  =
+ 
+    0.9848078  
+ 
+ K_c3  =
+ 
+    0.8660254  
+ 
+ K_c5  =
+ 
+    0.6427876  
+ 
+ 
+ 
+ 
+ K_d1  =
+ 
+    0.9597951  
+ 
+ K_d3  =
+ 
+    0.6666667  
+ 
+ K_d5  =
+ 
+    0.2175679  
+ 
+ 
+ Slots  =
+ 
+    90.  
+ 
+ Total_conductors  =
+ 
+    720.  
+ 
+ Total_turns  =
+ 
+    360.  
+ 
+ T_ph  =
+ 
+    120.  
+ 
+ 
+ 
+ E_1ph  =
+ 
+    1683.1919  
+ 
+ E_3ph  =
+ 
+    308.43544  
+ 
+ E_5ph  =
+ 
+    49.807635  
+ 
+ 
+ 
+ E_ph  =
+ 
+    1711.9428  
+ 
+Phase value of induced e.m.f is 1711.94 V  
+ E_line  =
+ 
+    2916.6499  
+ 
+
+line value of induced e.m.f is 2916.65 V  
+ 
+
+
+Answer mismatches due to approximation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.13/4_13.sce #
+ 
+Example 4.13
+
+ 
+ 
+ Pole  =
+ 
+    16.  
+ 
+ phi  =
+ 
+    0.03  
+ 
+ Ns  =
+ 
+    375.  
+ 
+ f  =
+ 
+    50.  
+ 
+frequency is 50 Hz  
+ Slots  =
+ 
+    144.  
+ 
+ n  =
+ 
+    9.  
+ 
+ m  =
+ 
+    3.  
+ 
+ beeta  =
+ 
+    20.  
+ 
+ K_c  =
+ 
+    1.  
+ 
+ Conductors_per_slot  =
+ 
+    10.  
+ 
+ K_d  =
+ 
+    0.9597951  
+ 
+ 
+ Total_conductors  =
+ 
+    1440.  
+ 
+ Total_turns  =
+ 
+    720.  
+ 
+ T_ph  =
+ 
+    240.  
+ 
+ E_ph  =
+ 
+    1534.1365  
+ 
+ E_line  =
+ 
+    2657.2023  
+ 
+
+line voltage is 2657.20 V  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.14/4_14.sce #
+ 
+Example 4.14
+
+ 
+ 
+ Ns  =
+ 
+    250.  
+ 
+ f  =
+ 
+    50.  
+ 
+ I_l  =
+ 
+    100.  
+ 
+ Slots  =
+ 
+    216.  
+ 
+ Conductors_per_slot  =
+ 
+    5.  
+ 
+ Pole  =
+ 
+    24.  
+ 
+ phi  =
+ 
+    0.03  
+ 
+ Z  =
+ 
+    1080.  
+ 
+ Z_ph  =
+ 
+    360.  
+ 
+ T_ph  =
+ 
+    180.  
+ 
+ n  =
+ 
+    9.  
+ 
+ m  =
+ 
+    3.  
+ 
+ beeta  =
+ 
+    20.  
+ 
+ 
+ K_d  =
+ 
+    0.9597951  
+ 
+ 
+ e_av  =
+ 
+    3.  
+ 
+ E_c  =
+ 
+    3.33  
+ 
+ E  =
+ 
+    6.3922352  
+ 
+ E_ph  =
+ 
+    1150.6023  
+ 
+ E_line  =
+ 
+    1992.9017  
+ 
+RMS value of EMF in each phase = 1150.602 V
+ 
+RMS value of EMF line value  = 1992.902 V
+ 
+ kVA_rating  =
+ 
+    345180.7  
+ 
+
+kVA rating is 345.181 kVA  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.15/4_15.sce #
+ 
+Example 4.15
+
+ 
+ 
+ Pole  =
+ 
+    10.  
+ 
+ Slots  =
+ 
+    90.  
+ 
+ E_l  =
+ 
+    11000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ phi  =
+ 
+    0.15  
+ 
+ n  =
+ 
+    9.  
+ 
+ m  =
+ 
+    3.  
+ 
+ beeta  =
+ 
+    20.  
+ 
+ 
+ K_d  =
+ 
+    0.9597951  
+ 
+ K_c  =
+ 
+    1.  
+ 
+ 
+ E_ph  =
+ 
+    6350.853  
+ 
+ T_ph  =
+ 
+    198.  
+ 
+ 
+ 
+ Z_ph  =
+ 
+    396.  
+ 
+Required number of armature conductors is 396 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.16/4_16.sce #
+ 
+Example 4.16
+
+ 
+ 
+ Pole  =
+ 
+    10.  
+ 
+ Ns  =
+ 
+    600.  
+ 
+ conductor_per_slot  =
+ 
+    8.  
+ 
+ n  =
+ 
+    12.  
+ 
+ Slots  =
+ 
+    120.  
+ 
+ m  =
+ 
+    4.  
+ 
+ beeta  =
+ 
+    15.  
+ 
+ alpha  =
+ 
+    30.  
+ 
+ 
+ 
+ phi_1  =
+ 
+    0.1  
+ 
+ phi_3  =
+ 
+    0.033  
+ 
+ phi_5  =
+ 
+    0.02  
+ 
+ 
+ 
+ K_c1  =
+ 
+    0.9659258  
+ 
+ K_c3  =
+ 
+    0.7071068  
+ 
+ K_c5  =
+ 
+    0.2588190  
+ 
+ 
+ 
+ 
+ K_d1  =
+ 
+    0.9576622  
+ 
+ K_d3  =
+ 
+    0.6532815  
+ 
+ K_d5  =
+ 
+    0.2053350  
+ 
+ 
+ Z  =
+ 
+    960.  
+ 
+ Zph  =
+ 
+    320.  
+ 
+ T_ph  =
+ 
+    160.  
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ E_1ph  =
+ 
+    3285.7089  
+ 
+ E_3ph  =
+ 
+    541.46732  
+ 
+ E_5ph  =
+ 
+    37.753922  
+ 
+ 
+ E_ph  =
+ 
+    3330.2395  
+ 
+Phase value of induced e.m.f is 3330 V  
+ E_line  =
+ 
+    5691.3904  
+ 
+
+line value of induced e.m.f is 5691 V  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.17/4_17.sce #
+ 
+Example 4.17
+
+ 
+ 
+ Pole  =
+ 
+    6.  
+ 
+ Ns  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    0.28  
+ 
+ l  =
+ 
+    0.23  
+ 
+ m  =
+ 
+    4.  
+ 
+ B_m1  =
+ 
+    0.87  
+ 
+ B_m3  =
+ 
+    0.24  
+ 
+ Conductors_per_slot  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ A1  =
+ 
+    0.0337198  
+ 
+ phi_1  =
+ 
+    0.018676  
+ 
+ n  =
+ 
+    12.  
+ 
+ beeta  =
+ 
+    15.  
+ 
+ alpha  =
+ 
+    15.  
+ 
+ K_c1  =
+ 
+    0.9914449  
+ 
+ K_c3  =
+ 
+    0.9238795  
+ 
+ 
+ K_d1  =
+ 
+    0.9576622  
+ 
+ K_d3  =
+ 
+    0.6532815  
+ 
+ 
+ Slots  =
+ 
+    72.  
+ 
+ Z  =
+ 
+    576.  
+ 
+ Z_ph  =
+ 
+    192.  
+ 
+ T_ph  =
+ 
+    96.  
+ 
+ 
+ E_1ph  =
+ 
+    377.91052  
+ 
+ E_3ph  =
+ 
+    66.269815  
+ 
+ E_ph  =
+ 
+    383.67701  
+ 
+r.m.s value of resultant voltage is 383.7 V 
+ E_line  =
+ 
+    654.56022  
+ 
+
+line voltage is 654.560 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.18/4_18.sce #
+ 
+Example 4.18
+
+ 
+ 
+ V_L  =
+ 
+    125.  
+ 
+ V_ph  =
+ 
+    125.  
+ 
+ VA  =
+ 
+    600000.  
+ 
+ I_L  =
+ 
+    2771.2813  
+ 
+ I_ph  =
+ 
+    1600.  
+ 
+ 
+ 
+ V_ph  =
+ 
+    125.  
+ 
+ V_L  =
+ 
+    216.50635  
+ 
+New rating in volts is 216.506 V 
+ 
+ I_ph  =
+ 
+    1600.  
+ 
+ I_L  =
+ 
+    1600.  
+ 
+ 
+
+New rating in amperes is 1600 A 
+ kVA  =
+ 
+    600.  
+ 
+
+New rating in kVA is 600 kVA 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH4/EX4.19/4_19.sce #
+ 
+Example 4.19
+
+ 
+ 
+ Pole  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ phi  =
+ 
+    0.12  
+ 
+ m  =
+ 
+    4.  
+ 
+ conductor_per_slot  =
+ 
+    4.  
+ 
+ coilspan  =
+ 
+    150.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ n  =
+ 
+    12.  
+ 
+ beeta  =
+ 
+    15.  
+ 
+ K_d  =
+ 
+    0.9576622  
+ 
+ alpha  =
+ 
+    30.  
+ 
+ K_c  =
+ 
+    0.9659258  
+ 
+ Z  =
+ 
+    192.  
+ 
+ Z_ph  =
+ 
+    64.  
+ 
+ T_ph  =
+ 
+    32.  
+ 
+ E_ph  =
+ 
+    788.57013  
+ 
+ E_line  =
+ 
+    1365.8435  
+ 
+e.m.f generated is 788.57 V(phase),1365.84 V(line) 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.1/5_1.sce #
+ 
+Example 5.1
+
+ 
+ 
+ P  =
+ 
+    1000000.  
+ 
+ phi  =
+ 
+    36.869898  
+ 
+ V_L  =
+ 
+    11000.  
+ 
+ R_a  =
+ 
+    0.4  
+ 
+ X_s  =
+ 
+    3.  
+ 
+ 
+ I_L  =
+ 
+    65.607985  
+ 
+ I_aph  =
+ 
+    65.607985  
+ 
+ I_a  =
+ 
+    65.607985  
+ 
+ V_ph  =
+ 
+    6350.853  
+ 
+ 
+ E_ph  =
+ 
+    6491.4889  
+ 
+ E_line  =
+ 
+    11243.589  
+ 
+ regulation  =
+ 
+    2.214442  
+ 
+Line value of e.m.f generated is 11.24 kV
+Regulation is 2.214 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.2/5_2.sce #
+ 
+Example 5.2
+
+ 
+ 
+ VA  =
+ 
+    1200000.  
+ 
+ V_L  =
+ 
+    6600.  
+ 
+ R_a  =
+ 
+    0.25  
+ 
+ X_s  =
+ 
+    5.  
+ 
+ 
+ I_L  =
+ 
+    104.97278  
+ 
+ I_aph  =
+ 
+    104.97278  
+ 
+ I_a  =
+ 
+    104.97278  
+ 
+ V_ph  =
+ 
+    3810.5118  
+ 
+ 
+ 
+ phi1  =
+ 
+    0.6435011  
+ 
+ E_ph1  =
+ 
+    4166.0738  
+ 
+ regulation  =
+ 
+    9.3310828  
+ 
+(i)Regulation at 0.8 lagging pf is 9.33 percent 
+ 
+ phi2  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    3543.4688  
+ 
+ regulation2  =
+ 
+  - 7.0080619  
+ 
+
+(ii)Regulation at 0.8 leading pf is -7.01 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.3/5_3.sce #
+ 
+Example 5.3
+
+ 
+ 
+ 
+ V_L_FL  =
+ 
+    1100.  
+ 
+ V_ph_FL  =
+ 
+    635.0853  
+ 
+ 
+ 
+ V_L_NL  =
+ 
+    1266.  
+ 
+ E_line  =
+ 
+    1266.  
+ 
+ E_ph  =
+ 
+    730.92544  
+ 
+ regulation  =
+ 
+    15.090909  
+ 
+ 
+Regulation at full load is 15.09 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.5/5_5.sce #
+ 
+Example 5.5
+
+ 
+ 
+ V_OC_line  =
+ 
+    230.  
+ I_asc  =
+ 
+    12.5  
+ 
+ V_OC_ph  =
+ 
+    132.79056  
+ 
+ Z_s  =
+ 
+    10.623245  
+ 
+ 
+ R_a  =
+ 
+    0.9  
+ 
+ X_s  =
+ 
+    10.585052  
+ 
+ 
+ I_a  =
+ 
+    10.  
+ 
+ V_L  =
+ 
+    230.  
+ 
+ V_ph  =
+ 
+    132.79056  
+ 
+ 
+ 
+ phi1  =
+ 
+    0.6435011  
+ 
+ E_ph1  =
+ 
+    218.3987  
+ 
+ regulation1  =
+ 
+    64.46854  
+ 
+Regulation for 10 A at 0.8 lagging pf is 64.47 percent
+ 
+ 
+ phi2  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    118.16814  
+ 
+ regulation2  =
+ 
+  - 11.01164  
+ 
+Regulation for 10 A at 0.8 leading pf is -11.01 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.6/5_6.sce #
+ 
+Example 5.6
+
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ VA  =
+ 
+    1000000.  
+ 
+ V_L  =
+ 
+    1905.  
+ 
+ V_ph  =
+ 
+    1099.8523  
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ I_L  =
+ 
+    303.07101  
+ 
+ I_aph  =
+ 
+    303.07101  
+ 
+ V_dash  =
+ 
+    1148.3436  
+ 
+ F_o  =
+ 
+    32.  
+ 
+ F_AR  =
+ 
+    27.5  
+ 
+ F_R  =
+ 
+    53.256455  
+ 
+ 
+ 
+ E_ph  =
+ 
+    1490.  
+ 
+ regulation1  =
+ 
+    35.47274  
+ 
+Regulation on full-load by ampere-turn method is 35.47 percent 
+ 
+ 
+ 
+ 
+ I_sc  =
+ 
+    303.07101  
+ 
+ I_aph2  =
+ 
+    303.07101  
+ 
+ I_f  =
+ 
+    27.5  
+ 
+ 
+ V_OC_ph  =
+ 
+    1060.  
+ 
+ Z_s  =
+ 
+    3.4975302  
+ 
+ X_s  =
+ 
+    3.4918072  
+ 
+ 
+ E_ph2  =
+ 
+    1958.7406  
+ 
+ regulation2  =
+ 
+    78.091242  
+ 
+
+Regulation on full-load by synchronous impedance method is 78.09 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.7/5_7.sce #
+ 
+Example 5.7
+
+ 
+ 
+ 
+ V_L  =
+ 
+    440.  
+ 
+ V_ph  =
+ 
+    254.03412  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ 
+ 
+ arm_leak_resis  =
+ 
+    55.  
+ 
+ 
+ OB  =
+ 
+    203.22729  
+ 
+ AB  =
+ 
+    207.42047  
+ 
+ E_1ph  =
+ 
+    290.38696  
+ 
+ 
+ F_f1  =
+ 
+    6.1  
+ 
+ F_AR  =
+ 
+    3.1  
+ 
+ 
+ F_R  =
+ 
+    8.3373857  
+ 
+ E_ph  =
+ 
+    328.  
+ 
+ regulation1  =
+ 
+    29.116515  
+ 
+(i)Regulation for 0.8 pf lagging is 29.12 percent 
+ 
+ 
+ 
+ 
+ OC  =
+ 
+    203.22729  
+ 
+ BC  =
+ 
+    97.420471  
+ 
+ E_1ph  =
+ 
+    225.37099  
+ 
+ 
+ F_f1  =
+ 
+    6.1  
+ 
+ F_R  =
+ 
+    4.9120261  
+ 
+ E_ph  =
+ 
+    90.  
+ 
+ regulation2  =
+ 
+  - 64.571688  
+ 
+(ii)Regulation for 0.8 pf leading is -64.57 percent 
+ 
+
+The answer in part (ii) doesnt match with textbook because of calculation mistake done in last step in the textbook 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.8/5_8.sce #
+ 
+Example 5.8
+
+ 
+ 
+ P  =
+ 
+    1200000.  
+ 
+ V_line  =
+ 
+    12000.  
+ 
+ R_a  =
+ 
+    2.  
+ X_s  =
+ 
+    35.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ 
+ I_L  =
+ 
+    72.168784  
+ 
+ I_a  =
+ 
+    72.168784  
+ 
+ V_ph  =
+ 
+    6928.2032  
+ 
+ E_ph  =
+ 
+    8775.0237  
+ 
+ regulation  =
+ 
+    26.656558  
+ 
+ 
+Regulation at 0.8 lag power factor is 26.66 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.9/5_9.sce #
+ 
+Example 5.9
+
+ 
+ 
+ V_L  =
+ 
+    11000.  
+ V_ph  =
+ 
+    6350.853  
+ 
+ VA  =
+ 
+    1000000.  
+ 
+ I_L  =
+ 
+    52.486388  
+ 
+ 
+ V_OC_ph  =
+ 
+    249.99267  
+ 
+ I_asc_ph  =
+ 
+    52.486388  
+ 
+ 
+ Z_s  =
+ 
+    4.763  
+ 
+ R_a  =
+ 
+    0.45  
+ 
+ X_s  =
+ 
+    4.7416947  
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    6521.6951  
+ 
+ regulation  =
+ 
+    2.6900667  
+ 
+Voltage regulation at 0.8 pf lagging is 2.690067 percent
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    6224.0784  
+ 
+ regulation2  =
+ 
+  - 1.9961818  
+ 
+Voltage regulation at 0.8 pf lagging is -1.996182 percent
+ 
+
+Answer mismatches due to improper approximation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.10/5_10.sce #
+ 
+Example 5.10
+
+ 
+ 
+ VA  =
+ 
+    125000.  
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ I_L  =
+ 
+    180.42196  
+ 
+ I_aph  =
+ 
+    180.42196  
+ 
+ 
+ I_f  =
+ 
+    4.  
+ I_asc  =
+ 
+    90.21098  
+ 
+ V_OC_line  =
+ 
+    140.  
+ 
+ V_OC_ph  =
+ 
+    80.829038  
+ 
+ I_asc_ph  =
+ 
+    90.21098  
+ 
+ Z_s  =
+ 
+    0.896  
+ 
+ R_a  =
+ 
+    0.1  
+ X_s  =
+ 
+    0.8904022  
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    202.33622  
+ 
+ regulation  =
+ 
+  - 12.385847  
+ 
+Voltage regulation at 0.8 pf leading for half load is -12.39 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.11/5_11.sce #
+ 
+Example 5.11
+
+ 
+ 
+ V_OC_line  =
+ 
+    575.  
+ V_OC_ph  =
+ 
+    331.9764  
+ 
+ I_asc_line  =
+ 
+    75.  
+ 
+ I_asc_ph  =
+ 
+    75.  
+ 
+ I_aph  =
+ 
+    75.  
+ 
+ I_L  =
+ 
+    75.  
+ 
+ 
+ Z_s  =
+ 
+    4.4263521  
+ 
+ R_a  =
+ 
+    1.08  
+ 
+ X_s  =
+ 
+    4.2925741  
+ 
+ 
+ 
+ E_ph  =
+ 
+    6100.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ 
+ p  =
+ 
+    1.  - 256.68  - 37100000.  
+ 
+ ans  =
+ 
+    6220.6689  
+  - 5963.9889  
+ 
+ V_ph  =
+ 
+    6220.6689  
+ 
+ V_L  =
+ 
+    10774.515  
+ 
+Rated terminal voltage between the lines is 10774.515 V 
+ 
+ VA_rating  =
+ 
+    1399650.5  
+ 
+kVA rating of the alternator is 1399.65 kVA 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.12/5_12.sce #
+ 
+Example 5.12
+
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ V_ph  =
+ 
+    3810.5118  
+ 
+ VA  =
+ 
+    1500000.  
+ 
+ I_L  =
+ 
+    131.21597  
+ 
+ I_aph  =
+ 
+    131.21597  
+ 
+ 
+ R_a  =
+ 
+    0.5  
+ X_s  =
+ 
+    5.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    4284.2438  
+ 
+Induced EMF per phase is 4284.243828 V
+ 
+ 
+ 
+ phi  =
+ 
+    0.  
+ 
+ 
+ p  =
+ 
+    1.    131.215  - 17910000.  
+ 
+ ans  =
+ 
+  - 4298.1368  
+    4166.9218  
+ 
+ V_ph  =
+ 
+    4166.9218  
+ 
+Terminal voltage per phase is 4166.921808 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.13/5_13.sce #
+ 
+Example 5.13
+
+ 
+ 
+ V_ph  =
+ 
+    2000.  
+ 
+ R_a  =
+ 
+    0.8  
+ 
+ I_sc  =
+ 
+    100.  
+ 
+ V_OC  =
+ 
+    500.  
+ 
+ I_f  =
+ 
+    2.5  
+ 
+ Z_s  =
+ 
+    5.  
+ 
+ X_s  =
+ 
+    4.9355851  
+ 
+ I_aFL  =
+ 
+    100.  
+ I_a  =
+ 
+    100.  
+ 
+ 
+ 
+ phi  =
+ 
+    0.  
+ 
+ E_ph  =
+ 
+    2137.7558  
+ 
+ regulation  =
+ 
+    6.8877916  
+ 
+(i)Voltage regulation is 6.89 percent
+ 
+ 
+ 
+ phi2  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    1822.4872  
+ 
+ regulation2  =
+ 
+  - 8.8756402  
+ 
+(ii)Voltage regulation is -8.88 percent
+ 
+ 
+ 
+ phi3  =
+ 
+    0.7812981  
+ 
+ E_ph3  =
+ 
+    2422.2838  
+ 
+ regulation3  =
+ 
+    21.114191  
+ 
+(iii)Voltage regulation is 21.11 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.14/5_14.sce #
+ 
+Example 5.14
+
+ 
+ 
+ VA  =
+ 
+    1000000.  
+ 
+ V_L  =
+ 
+    4600.  
+ V_ph  =
+ 
+    2655.8112  
+ 
+ I_L  =
+ 
+    125.51093  
+ 
+ I_aph_FL  =
+ 
+    125.51093  
+ I_aph  =
+ 
+    125.51093  
+ 
+ I_sc  =
+ 
+    188.26639  
+ 
+ V_OC_line  =
+ 
+    1744.  
+ 
+ V_OC_ph  =
+ 
+    1006.8989  
+ 
+ 
+ Z_s  =
+ 
+    5.3482667  
+ 
+ R_a  =
+ 
+    1.  
+ 
+ X_s  =
+ 
+    5.2539467  
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    3184.155  
+ 
+ regulation  =
+ 
+    19.893876  
+ 
+Voltage regulation at full load 0.8 pf is 19.89 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.16/5_16.sce #
+ 
+Example 5.16
+
+ 
+ 
+ V_L  =
+ 
+    6000.  
+ V_ph  =
+ 
+    3464.1016  
+ 
+ I_ph_X_Lph  =
+ 
+    450.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ E_1ph  =
+ 
+    3751.415  
+ 
+ F_f1  =
+ 
+    26.  
+ 
+ F_AR  =
+ 
+    14.5  
+ 
+ 
+ F_R  =
+ 
+    36.587566  
+ 
+Required field current is 36.59 A 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.17/5_17.sce #
+ 
+Example 5.17
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ VA  =
+ 
+    40000.  
+ 
+ I_L  =
+ 
+    57.735027  
+ I_aph  =
+ 
+    57.735027  
+ 
+ I_aph_X_Lph  =
+ 
+    32.5  
+ 
+ X_Lph  =
+ 
+    0.5629165  
+ 
+Armature leakage reactance is 0.563 ohms
+Note:This answer doesnt match with textbook as it has been reciprocated in textbook
+
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    251.78611  
+ 
+ F_f1  =
+ 
+    15.6  
+ 
+ 
+ F_AR  =
+ 
+    6.9  
+ 
+Armature reaction is 6.9 
+ 
+ F_R  =
+ 
+    20.497268  
+ 
+ E_ph  =
+ 
+    267.5  
+ 
+ regulation  =
+ 
+    15.830898  
+ 
+Voltage regulation at 0.8 pf lagging is 15.8 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.18/5_18.sce #
+ 
+Example 5.18
+
+ 
+ 
+ VA  =
+ 
+    10000.  
+ 
+ V_L  =
+ 
+    11000.  
+ V_ph  =
+ 
+    6350.853  
+ 
+ I_ph_X_Lph  =
+ 
+    1200.  
+ 
+ I_ph_R_aph  =
+ 
+    0.5248639  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    7136.098  
+ 
+ F_f1  =
+ 
+    109.  
+ 
+ F_AR  =
+ 
+    28.  
+ 
+ F_R  =
+ 
+    127.77871  
+ 
+ E_ph  =
+ 
+    7700.  
+ 
+ 
+ regulation  =
+ 
+    21.243557  
+ 
+Voltage regulation at full-load 0.8 pf lagging is 21.24 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.19/5_19.sce #
+ 
+Example 5.19
+
+ 
+ 
+ VA  =
+ 
+    2000000.  
+ 
+ V_L  =
+ 
+    11000.  
+ V_ph  =
+ 
+    6350.853  
+ 
+ R_a  =
+ 
+    0.3  
+ X_s  =
+ 
+    5.  
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ I_L  =
+ 
+    104.97278  
+ I_a  =
+ 
+    104.97278  
+ 
+ E_ph  =
+ 
+    6702.97  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.  - 579.4455  - 44653302.  
+ 
+ ans  =
+ 
+    6978.3131  
+  - 6398.8676  
+ 
+ V_ph  =
+ 
+    6978.3131  
+ 
+Terminal voltage is 6978.3131 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.20/5_20.sce #
+ 
+Example 5.20
+
+ 
+ 
+ R_a  =
+ 
+    0.6  
+ X_s  =
+ 
+    6.  
+ 
+ E_L  =
+ 
+    6599.  
+ E_ph  =
+ 
+    3809.9344  
+ 
+ I_L  =
+ 
+    180.  
+ I_a  =
+ 
+    180.  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.    1135.83  - 13338836.  
+ 
+ ans  =
+ 
+  - 4264.0432  
+    3128.2132  
+ 
+ V_ph  =
+ 
+    3128.2132  
+ 
+ V_L  =
+ 
+    5418.2243  
+ 
+ regulation  =
+ 
+    21.79267  
+ 
+ 
+ phi  =
+ 
+    0.4510268  
+ 
+ theta  =
+ 
+    0.5702806  
+ 
+ delta  =
+ 
+    0.1192538  
+ 
+(i)0.9 lagging
+Terminal voltage is 5418.22 V
+Voltage regulation is 21.79 percent
+Load angle is 6.83 degrees 
+ 
+ 
+ phi_2  =
+ 
+    0.6435011  
+ 
+ 
+ p  =
+ 
+    1.  - 941.53  - 11399575.  
+ 
+ ans  =
+ 
+    3879.7523  
+  - 2938.2223  
+ 
+ V_ph  =
+ 
+    3879.7523  
+ 
+ V_L  =
+ 
+    6719.9281  
+ 
+ regulation2  =
+ 
+  - 1.7995451  
+ 
+ delta_2  =
+ 
+    0.1251439  
+ 
+
+
+(ii)0.8 leading
+Terminal voltage is 6719.93 V
+Voltage regulation is -1.80 percent
+Load angle is 7.17 degrees 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.21/5_21.sce #
+ 
+Example 5.21
+
+ 
+ 
+ V_ph  =
+ 
+    2000.  
+ 
+ R_a  =
+ 
+    0.8  
+ 
+ I_sc  =
+ 
+    100.  
+ I_a  =
+ 
+    100.  
+ 
+ V_OC  =
+ 
+    500.  
+ 
+ I_f  =
+ 
+    2.5  
+ 
+ Z_s  =
+ 
+    5.  
+ 
+ 
+ X_s  =
+ 
+    4.9355851  
+ 
+ I_a_FL  =
+ 
+    100.  
+ 
+ 
+ 
+ phi1  =
+ 
+    0.  
+ 
+ E_ph1  =
+ 
+    2137.7558  
+ 
+ regulation1  =
+ 
+    6.8877916  
+ 
+Regulation at upf is 6.89 percent
+ 
+ 
+ 
+ phi2  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    1822.4872  
+ 
+ regulation2  =
+ 
+  - 8.8756402  
+ 
+Regulation at 0.8 leading pf is -8.88 percent
+ 
+ 
+ 
+ phi3  =
+ 
+    0.7812981  
+ 
+ E_ph3  =
+ 
+    2422.2838  
+ 
+ regulation3  =
+ 
+    21.114191  
+ 
+Regulation at 0.71 lagging pf is 21.11 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.22/5_22.sce #
+ 
+Example 5.22
+
+ 
+ 
+ V  =
+ 
+    600.  
+ 
+ VA  =
+ 
+    60000.  
+ 
+ I_sc  =
+ 
+    210.  
+ 
+ V_oc  =
+ 
+    480.  
+ 
+ I_f  =
+ 
+    10.  
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ 
+ I  =
+ 
+    100.  
+ 
+ I_a  =
+ 
+    100.  
+ 
+ 
+ Z_s  =
+ 
+    2.2857143  
+ 
+ X_s  =
+ 
+    2.2769475  
+ 
+Synchronous impedances is 2.285714 ohms and synchronous reactance is 2.276947 ohms
+ 
+ 
+ 
+ phi1  =
+ 
+    0.6435011  
+ 
+ E1  =
+ 
+    771.61202  
+ 
+ regulation1  =
+ 
+    28.602004  
+ 
+
+Regulation at 0.8 lagging pf is 28.60 percent  
+ 
+ 
+ phi2  =
+ 
+    0.  
+ 
+ E2  =
+ 
+    660.48838  
+ 
+ regulation2  =
+ 
+    10.081396  
+ 
+
+Regulation at UNITY pf is 10.08 percent  
+ 
+ 
+ phi3  =
+ 
+    0.9272952  
+ 
+ E3  =
+ 
+    456.13369  
+ 
+ regulation3  =
+ 
+  - 23.977719  
+ 
+
+Regulation at 0.6 leading pf is -23.98 percent  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.23/5_23.sce #
+ 
+Example 5.23
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ V_ph  =
+ 
+    1905.2559  
+ 
+ I_a  =
+ 
+    100.  
+ 
+ I_f  =
+ 
+    5.  
+ 
+ V_OC_line  =
+ 
+    900.  
+ V_OC_ph  =
+ 
+    519.61524  
+ 
+ R_a  =
+ 
+    0.8  
+ 
+ I_aph  =
+ 
+    100.  
+ 
+ Z_s  =
+ 
+    5.1961524  
+ 
+ X_s  =
+ 
+    5.1341991  
+ 
+ 
+ 
+ phi1  =
+ 
+    0.6435011  
+ 
+ E_ph1  =
+ 
+    2306.0157  
+ 
+ regulation1  =
+ 
+    21.034434  
+ 
+Regulation at 0.8 lagging is 21.03 percent
+ 
+ 
+ 
+ phi2  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    1723.3796  
+ 
+ regulation2  =
+ 
+  - 9.5460302  
+ 
+Regulation at 0.8 leading pf is -9.55 percent
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.24/5_24.sce #
+ 
+Example 5.24
+
+ 
+ 
+ V_L  =
+ 
+    13500.  
+ 
+ R_a  =
+ 
+    1.5  
+ X_s  =
+ 
+    30.  
+ 
+ V_ph  =
+ 
+    7794.2286  
+ 
+ 
+ 
+ phi1  =
+ 
+    0.6435011  
+ 
+ P_out  =
+ 
+    1280000.  
+ 
+ I_L  =
+ 
+    68.426699  
+ 
+ 
+ I_a  =
+ 
+    68.426699  
+ 
+ E_ph  =
+ 
+    9244.1618  
+ 
+ regulation  =
+ 
+    18.602651  
+ 
+Regulation at 0.8 lagging power factor is 18.60 percent 
+ 
+ 
+ phi2  =
+ 
+    0.  
+ 
+ I_L  =
+ 
+    54.741359  
+ 
+ 
+ I_a  =
+ 
+    54.741359  
+ 
+ E_ph  =
+ 
+    8045.7254  
+ 
+ regulation2  =
+ 
+    3.2267049  
+ 
+
+Regulation at unity power factor is 3.23 percent 
+ 
+ 
+ phi3  =
+ 
+    0.6435011  
+ 
+ I_L  =
+ 
+    68.426699  
+ 
+ I_a  =
+ 
+    68.426699  
+ 
+ E_ph  =
+ 
+    6859.6302  
+ 
+ regulation3  =
+ 
+  - 11.990903  
+ 
+
+Regulation at 0.8 leading power factor is -11.99 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.26/5_26.sce #
+ 
+Example 5.26
+
+ 
+ 
+ V_L  =
+ 
+    11000.  
+ 
+ VA_rating  =
+ 
+    1000000.  
+ 
+ R_a  =
+ 
+    2.2  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ I_L  =
+ 
+    52.486388  
+ 
+ I_a  =
+ 
+    52.486388  
+ 
+ V_ph  =
+ 
+    6350.853  
+ 
+ regulation  =
+ 
+    24.  
+ 
+ 
+ E_ph  =
+ 
+    7875.0577  
+ 
+ 
+ X_s  =
+ 
+    40.143078  
+ 
+ 
+ phi1  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    5468.2786  
+ 
+ regulation1  =
+ 
+  - 13.896942  
+ 
+
+Regulation at 0.8 leading power factor is -13.90 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.27/5_27.sce #
+ 
+Example 5.27
+
+ 
+ 
+ V_L  =
+ 
+    220.  
+ 
+ VA  =
+ 
+    100000.  
+ 
+ R_a  =
+ 
+    0.1  
+ 
+ X_a  =
+ 
+    0.5  
+ 
+ X_ar  =
+ 
+    1.  
+ 
+ 
+ Z_s  =
+ 
+    0.1 + 1.5i  
+ 
+ 
+ 
+ phi  =
+ 
+    1.1592795  
+ 
+ V_ph  =
+ 
+    127.01706  
+ 
+ I_L  =
+ 
+    262.43194  
+ 
+ I_a  =
+ 
+    262.43194  
+ 
+ E_ph  =
+ 
+    515.84775  
+ 
+(i)Required noload voltage is 515.848 V 
+ 
+ 
+ V_ph2  =
+ 
+    0.  
+ 
+ E_ph2  =
+ 
+    394.52171  
+ 
+
+(ii)Required noload voltage is 394.522 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.28/5_28.sce #
+ 
+Example 5.28
+
+ 
+ 
+ V_L  =
+ 
+    2000.  
+ V_ph  =
+ 
+    1154.7005  
+ 
+ VA  =
+ 
+    1000000.  
+ 
+ I_L  =
+ 
+    288.67513  
+ 
+ I_aph  =
+ 
+    288.67513  
+ 
+ 
+ I_f  =
+ 
+    28.5  
+ 
+ V_oc_ph  =
+ 
+    1060.  
+ 
+ Z_s  =
+ 
+    3.6719477  
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ X_s  =
+ 
+    3.666497  
+ 
+ 
+ 
+ phi1  =
+ 
+    0.6435011  
+ 
+ E_ph1  =
+ 
+    2007.5355  
+ 
+ regulation1  =
+ 
+    73.857674  
+ 
+(i)Full-load percentage regulation at 0.8 pf lagging is 73.86 percent 
+ 
+ 
+ phi2  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    1047.3783  
+ 
+ regulation2  =
+ 
+  - 9.2943822  
+ 
+
+(ii)Full-load percentage regulation at 0.8 pf leading is -9.29 percent
+
+ 
+Note that the answer mismatches because of calculation mistake done in the last step of part 1 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.29/5_29.sce #
+ 
+Example 5.29
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ 
+ VA  =
+ 
+    200000.  
+ 
+ R_a  =
+ 
+    0.6  
+ X_s  =
+ 
+    6.  
+ 
+ 
+ I_L  =
+ 
+    34.990925  
+ 
+ I_a  =
+ 
+    34.990925  
+ 
+ V_ph  =
+ 
+    1905.2559  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    2053.9031  
+ 
+ 
+ regulation  =
+ 
+    7.8019548  
+ 
+Regulation at 0.8 lagging power factor is 7.802 percent 
+
+ Note :
+ Regulation is positive for lagging power factor loads 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH5/EX5.30/5_30.sce #
+ 
+Example 5.30
+
+ 
+ 
+ V_L  =
+ 
+    2300.  
+ V_ph  =
+ 
+    1327.9056  
+ 
+ f  =
+ 
+    50.  
+ R_a  =
+ 
+    0.2  
+ 
+ I_sc  =
+ 
+    150.  
+ 
+ V_OC_line  =
+ 
+    780.  
+ V_OC_ph  =
+ 
+    450.33321  
+ 
+ 
+ Z_s  =
+ 
+    3.0022214  
+ 
+ X_s  =
+ 
+    2.9955523  
+ 
+ I_aph  =
+ 
+    25.  
+ I_aFL  =
+ 
+    25.  
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_ph  =
+ 
+    1378.0146  
+ 
+ regulation  =
+ 
+    3.7735347  
+ 
+Voltage regulation at 0.8 pf lagging is 3.774 percent
+ 
+ 
+ 
+ phi2  =
+ 
+    0.6435011  
+ 
+ E_ph2  =
+ 
+    1288.5091  
+ 
+ regulation2  =
+ 
+  - 2.9668194  
+ 
+Voltage regulation at 0.8 pf leading is -2.967 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.2/6_2.sce #
+ 
+Example 6.2
+
+ 
+ 
+ X_d  =
+ 
+    0.7  
+ X_q  =
+ 
+    0.4  
+ 
+ R_a  =
+ 
+    0.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ V_t  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    1.  
+ 
+ 
+ psi  =
+ 
+    0.8960554  
+ 
+ delta  =
+ 
+    0.2525543  
+ 
+ I_d  =
+ 
+    0.7808688  
+ 
+ I_q  =
+ 
+    0.6246950  
+ 
+ E_f  =
+ 
+    1.5148855  
+ 
+Total e.m.f induced on open circuit is 1.5149 p.u. 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.3/6_3.sce #
+ 
+Example 6.3
+
+ 
+ 
+ 
+ 
+ 
+ Z1  =
+ 
+    3.i  
+ 
+ Z2  =
+ 
+    4.i  
+ 
+ Z  =
+ 
+    6.  
+ 
+ E1  =
+ 
+    220.  
+ 
+ E2  =
+ 
+    216.65771 + 38.202599i  
+ 
+ 
+ I1  =
+ 
+    14.199319 - 4.5344188i  
+ 
+ I2  =
+ 
+    20.200139 - 2.5652405i  
+ 
+ 
+ phi1  =
+ 
+  - 17.710393  
+ 
+ phi2  =
+ 
+  - 7.2373227  
+ 
+ 
+ I  =
+ 
+    34.399457 - 7.0996593i  
+ 
+ V  =
+ 
+    206.39674 - 42.597956i  
+ 
+(i) Terminal voltage is 210.7 volts at -11.66 degrees
+ 
+(ii) Currents are 14.91 A at -17.71 degrees and 20.36 A at -7.24 degrees
+     Total current is 35.12 A at -11.66 degrees   
+ 
+ P1  =
+ 
+    2992.4605  
+ 
+ P2  =
+ 
+    4257.114  
+ 
+
+(iii)Power delivered is 2992.46 watts and 4257.11 watts 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.4/6_4.sce #
+ 
+Example 6.4
+
+ 
+ 
+ V_l  =
+ 
+    10000.  
+ 
+ V_ph  =
+ 
+    5773.5027  
+ 
+ VA  =
+ 
+    10000000.  
+ 
+ I_FL  =
+ 
+    577.35027  
+ 
+ IX_s  =
+ 
+    1154.7005  
+ 
+ 
+ X_s  =
+ 
+    2.  
+ 
+ N_s  =
+ 
+    1500.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    4.  
+ 
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ delta_dash_elec  =
+ 
+    0.0349066  
+ 
+ E  =
+ 
+    5773.5027  
+ 
+ P_SY  =
+ 
+    581776.42  
+ 
+ P_SY_3ph  =
+ 
+    1745329.3  
+ 
+ 
+Synchronising Power of armature is 581.776 kW.
+Synchronising Power for 3 phase is 1745.329 kW 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.5/6_5.sce #
+ 
+Example 6.5
+
+ 
+ 
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ 
+ V_ph  =
+ 
+    3810.5118  
+ 
+ VA  =
+ 
+    3000000.  
+ 
+ I_FL  =
+ 
+    262.43194  
+ 
+ P  =
+ 
+    8.  
+ f  =
+ 
+    50.  
+ 
+ 
+ X_s  =
+ 
+    2.9i  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ delta_dash_elec  =
+ 
+    0.0698132  
+ 
+ 
+ 
+ E  =
+ 
+    3810.5118  
+ 
+ P_SY  =
+ 
+    349547.32  
+ 
+ P_SY_3ph  =
+ 
+    1048642.  
+ 
+(i)   Synchronising power at no load is 349.547 kW 
+
+   Total synchronising power at no load is 1048.64 kW
+ 
+ 
+ N_s  =
+ 
+    750.  
+ 
+ n_s  =
+ 
+    12.5  
+ 
+ T_SY  =
+ 
+    13351.724  
+ 
+
+Synchronous torque per mechanical degree of phase displacement is 13.35 * 10^3 N-m 
+ 
+ 
+ phi  =
+ 
+    31.788331  
+ 
+ I  =
+ 
+    262.43194  
+ 
+ V  =
+ 
+    3238.935 + 2007.3116i  
+ 
+ 
+ E  =
+ 
+    3238.935 + 2768.3643i  
+ 
+ 
+ 
+ delta  =
+ 
+    0.1524136  
+ 
+ P_SY2  =
+ 
+    386009.95  
+ 
+ 
+ P_SY_total_2  =
+ 
+    1158029.9  
+ 
+ 
+
+
+(ii)Total synchronising power is 1158 kW 
+ 
+ T_SY2  =
+ 
+    14744.494  
+ 
+
+Synchronising torque is 14.74 * 10^3 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.6/6_6.sce #
+ 
+Example 6.6
+
+ 
+ 
+ 
+ 
+ V_l  =
+ 
+    10000.  
+ 
+ V_ph  =
+ 
+    5773.5027  
+ 
+ R_a  =
+ 
+    0.4  
+ 
+ Z  =
+ 
+    0.4 + 6.i  
+ 
+ I_a  =
+ 
+    240. - 180.i  
+ 
+ E  =
+ 
+    6949.5027 + 1368.i  
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ alternator_op_ph  =
+ 
+    1385640.6  
+ 
+ 
+ 
+ alternator_power  =
+ 
+    1421640.6  
+ 
+ 
+ 
+ 
+ 
+ I_a1  =
+ 
+    242.17217  
+ 
+ 
+ 
+ E1  =
+ 
+    5870.3716 + 1453.033i  
+ 
+ decrease  =
+ 
+    14.617551  
+ 
+Percentage decrease in induced e.m.f is 14.6 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.8/6_8.sce #
+ 
+Example 6.8
+
+ 
+ 
+ P_out  =
+ 
+    1500000.  
+ 
+ V_L  =
+ 
+    11000.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ I_L  =
+ 
+    98.411978  
+ 
+ 
+ I_L_actv  =
+ 
+    78.729582  
+ 
+ I_L_reactive  =
+ 
+    59.047187  
+ 
+ 
+ I_each  =
+ 
+    49.205989  
+ 
+ I_arm1  =
+ 
+    45.  
+ 
+ I_1_reactive  =
+ 
+    21.805401  
+ 
+ I_2_reactive  =
+ 
+    37.246  
+ 
+ I_a_2  =
+ 
+    54.192149  
+ 
+Required armature current of second alternator is 54.1921 A
+ 
+ 
+ cos_phi1  =
+ 
+    0.8747556  
+ 
+ cos_phi2  =
+ 
+    0.7263789  
+ 
+ 
+Power factors are 0.8748 lagging and 0.7264 lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.9/6_9.sce #
+ 
+Example 6.9
+
+ 
+ 
+ 
+ BO  =
+ 
+    2000.  
+ AO  =
+ 
+    5.  
+ 
+ DC  =
+ 
+    2000.  
+ AD  =
+ 
+    3.  
+ 
+ 
+ 
+ EF_by_AF  =
+ 
+    400.  
+ 
+ 
+ FG_by_AF  =
+ 
+    666.66667  
+ 
+ 
+ EF_by_x  =
+ 
+    400.  
+ 
+ FG_by_x  =
+ 
+    666.66667  
+ 
+ 
+ EF_plus_FG  =
+ 
+    3000.  
+ 
+ x  =
+ 
+    2.8125  
+ 
+ EF  =
+ 
+    1125.  
+ 
+ FG  =
+ 
+    1875.  
+ 
+ 
+Loads shared by machine 1 and 2 are 1125 kW and 1875 kW respectively 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.10/6_10.sce #
+ 
+Example 6.10
+
+ 
+ 
+ 
+ 
+ V_l  =
+ 
+    6000.  
+ 
+ V_ph  =
+ 
+    3464.1016  
+ 
+ VA  =
+ 
+    2000000.  
+ 
+ I_FL  =
+ 
+    192.45009  
+ 
+ X_s  =
+ 
+    6.i  
+ 
+ P  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ delta_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_elec  =
+ 
+    0.0698132  
+ 
+ 
+ phi  =
+ 
+    36.869898  
+ 
+ V  =
+ 
+    2771.2813 + 2078.461i  
+ 
+ E  =
+ 
+    2771.2813 + 3233.1615i  
+ 
+ 
+ 
+ delta  =
+ 
+    0.2186689  
+ 
+ P_SY  =
+ 
+    167415.54  
+ 
+ P_SY_total  =
+ 
+    502246.61  
+ 
+Total synchronising power is 502.247 kW 
+ 
+ N_s  =
+ 
+    750.  
+ 
+ n_s  =
+ 
+    12.5  
+ 
+ T_SY  =
+ 
+    6394.8025  
+ 
+
+Synchronising torque is 6395 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.11/6_11.sce #
+ 
+Example 6.11
+
+ 
+ 
+ 
+ 
+ 
+ V_l  =
+ 
+    3300.  
+ 
+ V_ph  =
+ 
+    1905.2559  
+ 
+ VA  =
+ 
+    3000000.  
+ 
+ I_FL  =
+ 
+    524.86388  
+ 
+ IX_s  =
+ 
+    476.31397  
+ 
+ X_s  =
+ 
+    0.9075i  
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ P  =
+ 
+    6.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ delta_dash_elec  =
+ 
+    0.0523599  
+ 
+ 
+ I  =
+ 
+    524.86388  
+ 
+ phi  =
+ 
+    36.869898  
+ 
+ V  =
+ 
+    1524.2047 + 1143.1535i  
+ 
+ E  =
+ 
+    1524.2047 + 1619.4675i  
+ 
+ 
+ 
+ delta  =
+ 
+    0.1721908  
+ 
+ P_SY  =
+ 
+    240745.4  
+ 
+Synchronising power is 240.745 kW 
+ P_SY_total  =
+ 
+    722236.2  
+ 
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ n_s  =
+ 
+    16.666667  
+ 
+ T_SY  =
+ 
+    6896.8476  
+ 
+
+Synchronising torque is 6897 N-m 
+ 
+
+
+Answer mismatches due to approximation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.12/6_12.sce #
+ 
+Example 6.12
+
+ 
+ 
+ V_l  =
+ 
+    3300.  
+ 
+ V_ph  =
+ 
+    1905.2559  
+ 
+ VA  =
+ 
+    3000000.  
+ 
+ I_FL  =
+ 
+    524.86388  
+ 
+ IX_s  =
+ 
+    381.05118  
+ 
+ X_s  =
+ 
+    0.726i  
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ P  =
+ 
+    6.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0523599  
+ 
+ 
+ E  =
+ 
+    1905.2559  
+ 
+ Z_s  =
+ 
+    0.726i  
+ 
+ P_SY  =
+ 
+    261799.39  
+ 
+Synchronising power is 261.799 kW 
+ P_SY_total  =
+ 
+    785398.16  
+ 
+
+3 phase synchronising power is 785.398 kW 
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ n_s  =
+ 
+    16.666667  
+ 
+ T_SY  =
+ 
+    7500.  
+ 
+
+Synchronising torque is 7500 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.13/6_13.sce #
+ 
+Example 6.13
+
+ 
+ 
+ V_L  =
+ 
+    11000.  
+ 
+ V_ph  =
+ 
+    6350.853  
+ 
+ VA  =
+ 
+    700000.  
+ 
+ I_FL  =
+ 
+    36.740472  
+ 
+ IR_a  =
+ 
+    95.262794  
+ 
+ R_a  =
+ 
+    2.5928571  
+ 
+ IX_s  =
+ 
+    889.11941  
+ 
+ X_s  =
+ 
+    24.2  
+ 
+ 
+ 
+ I  =
+ 
+    36.740472  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ V_ph  =
+ 
+    5080.6824 + 3810.5118i  
+ 
+ E_ph  =
+ 
+    6991.2046  
+ 
+ 
+ Poles  =
+ 
+    4.  
+ f  =
+ 
+    50.  
+ 
+ delta  =
+ 
+    0.0937029  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0349066  
+ 
+ P_SY  =
+ 
+    63749.747  
+ 
+ P_SY_total  =
+ 
+    191249.24  
+ 
+ 
+ ns  =
+ 
+    25.  
+ 
+ T_SY  =
+ 
+    1217.5305  
+ 
+Synchronising power is 191.25kW
+ 
+Synchronising torque is 1217.53 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.14/6_14.sce #
+ 
+Example 6.14
+
+ 
+ 
+ V_l  =
+ 
+    9000.  
+ 
+ V_ph  =
+ 
+    5196.1524  
+ 
+ VA  =
+ 
+    5500000.  
+ 
+ I_FL  =
+ 
+    352.82516  
+ 
+ IX_s  =
+ 
+    1299.0381  
+ 
+ X_s  =
+ 
+    3.6818182i  
+ 
+ N_s  =
+ 
+    1500.  
+ 
+ n_s  =
+ 
+    25.  
+ 
+ f  =
+ 
+    50.  
+ P  =
+ 
+    4.  
+ 
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0349066  
+ 
+ 
+ E  =
+ 
+    5196.1524  
+ 
+ P_SY  =
+ 
+    255981.62  
+ 
+ P_SY_total  =
+ 
+    767944.87  
+ 
+ 
+ T_SY  =
+ 
+    4888.8889  
+ 
+
+Synchronising torque is 4888.89 N-m 
+
+Answer mismatches due to approximation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.15/6_15.sce #
+ 
+Example 6.15
+
+ 
+ 
+ V_L  =
+ 
+    6000.  
+ 
+ V_ph  =
+ 
+    3464.1016  
+ 
+ VA  =
+ 
+    2000000.  
+ 
+ I_FL  =
+ 
+    192.45009  
+ I  =
+ 
+    192.45009  
+ 
+ 
+ X_s  =
+ 
+    1.2  
+ R_a  =
+ 
+    0.01  
+ 
+ IR_a  =
+ 
+    34.641016  
+ 
+ R_a  =
+ 
+    0.18  
+ 
+ IX_s  =
+ 
+    4156.9219  
+ 
+ 
+ X_s  =
+ 
+    21.6  
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ E_ph  =
+ 
+    6837.6312  
+ 
+ Poles  =
+ 
+    8.  
+ f  =
+ 
+    50.  
+ 
+ 
+ delta  =
+ 
+    0.5044413  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0698132  
+ 
+ P_SY  =
+ 
+    66966.215  
+ 
+ P_SY_total  =
+ 
+    200898.64  
+ 
+ 
+ ns  =
+ 
+    12.5  
+ 
+ T_SY  =
+ 
+    2557.921  
+ 
+ 
+Synchronising power is 200.90 kW
+ 
+Synchronising torque is 2557.92 N-m 
+ 
+
+
+Note that answer obtained doesnt match with textbook due to the following reasons: 
+(i)IX_s is considered wrong in textbook.
+It should have been 4156.92(instead of 415.692)  
+To verify this use commented statement of IX_s (line 13)and notice that it matches with textbook ans then 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.16/6_16.sce #
+ 
+Example 6.16
+
+ 
+ 
+ E  =
+ 
+    6350.853  
+ 
+ I_sc  =
+ 
+    1000.  
+ Pole  =
+ 
+    2.  
+ f  =
+ 
+    50.  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0174533  
+ 
+ P_SY  =
+ 
+    110843.29  
+ 
+ P_SY_total  =
+ 
+    332529.88  
+ 
+ 
+ ns  =
+ 
+    50.  
+ 
+ T_SY  =
+ 
+    1058.4755  
+ 
+ 
+Synchronising power is 332.53 kW
+ 
+Synchronising torque is 1058.48 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.17/6_17.sce #
+ 
+Example 6.17
+
+ 
+ 
+ QT  =
+ 
+    25.  
+ PT  =
+ 
+    2.  
+ 
+ SR  =
+ 
+    25.  
+ PS  =
+ 
+    1.5  
+ 
+ 
+ 
+ AC_by_PC  =
+ 
+    12.5  
+ 
+ 
+ CB_by_PC  =
+ 
+    16.666667  
+ 
+ 
+ AC_by_x  =
+ 
+    12.5  
+ 
+ CB_by_x  =
+ 
+    16.666667  
+ 
+ 
+ AC_plus_CB  =
+ 
+    30.  
+ 
+ x  =
+ 
+    1.0285714  
+ 
+ AC  =
+ 
+    12.857143  
+ 
+ CB  =
+ 
+    17.146286  
+ 
+ frequency  =
+ 
+    48.971429  
+ 
+Loads shared by alternator 1 and 2 are 12.86 MW and 17.15 MW respectively 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.18/6_18.sce #
+ 
+Example 6.18
+
+ 
+ 
+ 
+ 
+ load_total  =
+ 
+    1600000.  
+ 
+ pf  =
+ 
+    0.7071068  
+ 
+ V_L  =
+ 
+    6600.  
+ 
+ I_L  =
+ 
+    139.9637 - 139.9637i  
+ 
+ I_1  =
+ 
+    72. - 54.i  
+ 
+ I_2  =
+ 
+    67.963702 - 85.963702i  
+ 
+ phi  =
+ 
+    51.669776  
+ 
+ I_a  =
+ 
+    109.58477  
+ 
+ R_a  =
+ 
+    1.05  
+ X_s  =
+ 
+    5.  
+ 
+ V_ph  =
+ 
+    3810.5118  
+ 
+ E_ph  =
+ 
+    4369.9869  
+ 
+ E_line  =
+ 
+    7569.0394  
+ 
+ 
+Excitation of second alternator is 7569.04 V  
+
+ The corresponding field current from the graph is about 310 A
+
+ 
+Note: The answer obtained will differ from textbook answer because of higher degree 
+of accuracy while storing I_2 and the improper rounding off of I_2 in the textbook 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.19/6_19.sce #
+ 
+Example 6.19
+
+ 
+ 
+ V_L  =
+ 
+    10000.  
+ 
+ V_ph  =
+ 
+    5773.5027  
+ 
+ VA  =
+ 
+    5000000.  
+ 
+ I_FL  =
+ 
+    288.67513  
+ 
+ IX_s  =
+ 
+    1154.7005  
+ 
+ X_s  =
+ 
+    4.  
+ 
+ P  =
+ 
+    4.  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0349066  
+ 
+ E  =
+ 
+    5773.5027  
+ 
+ P_SY  =
+ 
+    290888.21  
+ 
+ P_SY_total  =
+ 
+    872664.63  
+ 
+ 
+Synchronising power per phase is 290.89kW
+Total synchronising power is 872.66kW  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.20/6_20.sce #
+ 
+Example 6.20
+
+ 
+ 
+ Power_total  =
+ 
+    1.414  
+ 
+ V_L  =
+ 
+    1.  
+ 
+ phi_t  =
+ 
+    0.7855492  
+ 
+ I_L_T  =
+ 
+    1.1547005  
+ 
+ 
+ I_1  =
+ 
+    0.5773503  
+ 
+ I_2  =
+ 
+    0.5773503  
+ 
+ V_ph  =
+ 
+    0.5773503  
+ 
+ 
+ phi  =
+ 
+    0.7855492  
+ 
+ R_a  =
+ 
+    0.  
+ X_s  =
+ 
+    0.6  
+ 
+ E_ph  =
+ 
+    0.8580319  
+ 
+ delta  =
+ 
+    0.2894599  
+ 
+ 
+EMF is 0.8580 p.u. and power angle is 16.58 degrees  
+
+
+Following assumptions were made :
+ 
+1.Terminal or bus bar voltage at ppoint of connection is constant
+ 
+2.The alternators are identical and are initially equally excited
+ 
+3.The power supplied by prime movers is adjusted so that each machine carries half the load represented by external impedance Z=R+ j 2pifL , where R and L are constant
+ 
+4.The stator resistance is negligible 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.21/6_21.sce #
+ 
+Example 6.21
+
+ 
+ 
+ V_l  =
+ 
+    480.  
+ 
+ X_d  =
+ 
+    0.1  
+ X_q  =
+ 
+    0.075  
+ R_a  =
+ 
+    0.  
+ 
+ I_l  =
+ 
+    1200.  
+ 
+ I_ph  =
+ 
+    692.82032  
+ 
+ V_ph  =
+ 
+    480.  
+ 
+ V_t  =
+ 
+    480.  
+ I_a  =
+ 
+    692.82032  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ psi  =
+ 
+    0.7246432  
+ 
+ delta  =
+ 
+    0.0811421  
+ 
+ 
+ I_d  =
+ 
+    459.24864  
+ 
+ I_q  =
+ 
+    518.73952  
+ 
+ E_f  =
+ 
+    524.34556  
+ 
+ 
+Excitation e.m.f is 524.35 V  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.22/6_22.sce #
+ 
+Example 6.22
+
+ 
+ 
+ VA  =
+ 
+    3500000.  
+ 
+ P  =
+ 
+    32.  
+ 
+ Power  =
+ 
+    2500000.  
+ 
+ V_l  =
+ 
+    6600.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ I_l  =
+ 
+    273.3666  
+ 
+ X_d  =
+ 
+    9.6  
+ X_q  =
+ 
+    6.  
+ R_a  =
+ 
+    0.  
+ 
+ 
+ V_t  =
+ 
+    3810.5118  
+ 
+ psi  =
+ 
+    0.9106329  
+ 
+ delta  =
+ 
+    0.2671318  
+ 
+ I_s  =
+ 
+    273.3666  
+ 
+ I_d  =
+ 
+    215.9301  
+ 
+ I_q  =
+ 
+    167.64096  
+ 
+ E_f  =
+ 
+    5748.2894  
+ 
+ 
+ regulation  =
+ 
+    50.853474  
+ 
+percentage regulation is 50.85 percent 
+
+Excitation emf= 5748 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.23/6_23.sce #
+ 
+Example 6.23
+
+ 
+ 
+ X_d  =
+ 
+    7.6  
+ X_q  =
+ 
+    4.5  
+ R_a  =
+ 
+    0.15  
+ 
+ V_l  =
+ 
+    13800.  
+ 
+ V_t  =
+ 
+    7967.4337  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ VA  =
+ 
+    25000000.  
+ 
+ I_a  =
+ 
+    1045.9244  
+ 
+ psi  =
+ 
+    1.1516202  
+ 
+ 
+ delta  =
+ 
+    0.5081191  
+ 
+ I_s  =
+ 
+    1045.9244  
+ 
+ I_d  =
+ 
+    955.37306  
+ 
+ I_q  =
+ 
+    425.69962  
+ 
+ 
+ E_f  =
+ 
+    14285.528  
+ 
+ regulation  =
+ 
+    79.298983  
+ 
+ 
+percentage regulation is 79.30 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.24/6_24.sce #
+ 
+Example 6.24
+
+ 
+ 
+ X_d  =
+ 
+    1.  
+ X_q  =
+ 
+    0.6  
+ R_a  =
+ 
+    0.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ V_t  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    1.  
+ 
+ psi  =
+ 
+    0.9827937  
+ 
+ 
+ delta  =
+ 
+    0.3392926  
+ 
+ I_s  =
+ 
+    1.  
+ 
+ I_d  =
+ 
+    0.8320503  
+ 
+ I_q  =
+ 
+    0.5547002  
+ 
+ 
+ E_f  =
+ 
+    1.7750406  
+ 
+ regulation  =
+ 
+    77.504063  
+ 
+percentage regulation is 77.50 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.25/6_25.sce #
+ 
+Example 6.25
+
+ 
+ 
+ I_a  =
+ 
+    10.  
+ 
+ phi  =
+ 
+    20.  
+ 
+ V_t  =
+ 
+    400.  
+ 
+ X_d  =
+ 
+    10.  
+ X_q  =
+ 
+    6.5  
+ R_a  =
+ 
+    0.  
+ 
+ 
+ psi  =
+ 
+    28.231312  
+ 
+ delta  =
+ 
+    8.2313121  
+ 
+ I_d  =
+ 
+    4.7303233  
+ 
+ I_q  =
+ 
+    8.8104507  
+ 
+ 
+Load angle is 8.23 degrees 
+ 
+I_d and I_q are 4.7303 A and 8.8105 A respectively  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.26/6_26.sce #
+ 
+Example 6.26
+
+ 
+ 
+ X_d  =
+ 
+    0.8  
+ X_q  =
+ 
+    0.5  
+ R_a  =
+ 
+    0.02  
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ V_t  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    1.  
+ 
+ psi  =
+ 
+    0.9302107  
+ 
+ delta  =
+ 
+    0.2867096  
+ 
+ 
+ I_d  =
+ 
+    0.8017459  
+ 
+ I_q  =
+ 
+    0.5976651  
+ 
+ 
+ E_f  =
+ 
+    1.6125296  
+ 
+ regulation  =
+ 
+    61.252959  
+ 
+percentage regulation at 0.8 pf lag is 61.25 percent 
+ 
+ 
+ phi2  =
+ 
+  - 0.6435011  
+ 
+ psi2  =
+ 
+  - 0.121352  
+ 
+ delta2  =
+ 
+    0.5221491  
+ 
+ 
+ I_d2  =
+ 
+  - 0.1210544  
+ 
+ I_q2  =
+ 
+    0.9926459  
+ 
+ 
+ E_f2  =
+ 
+    0.7897587  
+ 
+ regulation2  =
+ 
+  - 21.024126  
+ 
+
+percentage regulation at 0.8 pf lead is -21.02 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.27/6_27.sce #
+ 
+Example 6.27
+
+ 
+ 
+ kW  =
+ 
+    800.    500.    1000.    600.  
+ 
+ cosphi  =
+ 
+    1.    0.9    0.8    0.9  
+ 
+ tanphi  =
+ 
+    0.    0.4843221    0.75    0.4843221  
+ 
+ kVAR  =
+ 
+    0.    242.16105    750.    290.59326  
+ 
+ 
+ kW_total  =
+ 
+    2900.  
+ 
+ kVAR_total  =
+ 
+    701.56779  
+ 
+ 
+ phi_c  =
+ 
+    0.2373596  
+ 
+ phi_1  =
+ 
+    0.3175604  
+ 
+ kW_1  =
+ 
+    1000.  
+ 
+ kVAR_1  =
+ 
+    328.68411  
+ 
+ kW_2  =
+ 
+    1900.  
+ 
+ kVAR_2  =
+ 
+    372.88368  
+ 
+ 
+ phi_2  =
+ 
+    0.1937916  
+ 
+ pf_2  =
+ 
+    0.9812811  
+ 
+ 
+Output of second alternator= 1900 kW 
+
+power factor of machine 2 = 0.98 and lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.28/6_28.sce #
+ 
+Example 6.28
+
+ 
+ 
+ kW  =
+ 
+    250.    300.    150.  
+ 
+ cosphi  =
+ 
+    0.9    0.75    0.8  
+ 
+ tanphi  =
+ 
+    0.4843221    0.8819171    0.75  
+ 
+ kVAR  =
+ 
+    121.08053    264.57513    112.5  
+ 
+ 
+ kW_total  =
+ 
+    700.  
+ 
+ kVAR_total  =
+ 
+    498.15566  
+ 
+ 
+ phi_1  =
+ 
+    0.6435011  
+ 
+ kW_1  =
+ 
+    100.  
+ 
+ kVAR_1  =
+ 
+    75.  
+ 
+ kW_2  =
+ 
+    600.  
+ 
+ kVAR_2  =
+ 
+    423.15566  
+ 
+ phi_2  =
+ 
+    0.6142471  
+ 
+ pf_2  =
+ 
+    0.8172076  
+ 
+ 
+Output of second alternator= 600 kW 
+
+power factor of machine 2 = 0.8172 and lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.29/6_29.sce #
+ 
+Example 6.29
+
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ 
+ V_ph  =
+ 
+    3810.5118  
+ 
+ V_t  =
+ 
+    3810.5118  
+ 
+ X_d  =
+ 
+    9.6  
+ X_q  =
+ 
+    6.  
+ R_a  =
+ 
+    0.  
+ 
+ VA  =
+ 
+    3500000.  
+ 
+ I_L  =
+ 
+    306.1706  
+ 
+ 
+ P  =
+ 
+    2500000.  
+ phi  =
+ 
+    0.6435011  
+ 
+ I_a  =
+ 
+    273.3666  
+ 
+ psi  =
+ 
+    0.9106329  
+ 
+ 
+ delta  =
+ 
+    0.2671318  
+ 
+ I_d  =
+ 
+    215.9301  
+ 
+ I_q  =
+ 
+    218.69328  
+ 
+ 
+ E_f  =
+ 
+    5748.2894  
+ 
+ regulation  =
+ 
+    50.853474  
+ 
+ P_max  =
+ 
+    231052.86  
+ 
+ 
+percentage voltage regulation is 50.85 percent 
+
+Power under open circuit is 231.1 kW per phase 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.30/6_30.sce #
+ 
+Example 6.30
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ 
+ V_ph  =
+ 
+    1905.2559  
+ 
+ VA  =
+ 
+    3000000.  
+ 
+ I_FL  =
+ 
+    524.86388  
+ 
+ IX_s  =
+ 
+    476.31397  
+ 
+ X_s  =
+ 
+    0.9075i  
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ 
+ Poles  =
+ 
+    6.  
+ f  =
+ 
+    50.  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0523599  
+ 
+ 
+ I  =
+ 
+    524.86388  
+ phi  =
+ 
+    0.6435011  
+ 
+ V  =
+ 
+    1524.2047 + 1143.1535i  
+ 
+ E  =
+ 
+    1524.2047 + 1619.4675i  
+ 
+ 
+ delta  =
+ 
+    0.1721908  
+ 
+ P_SY  =
+ 
+    240745.4  
+ 
+ P_SY_total  =
+ 
+    722236.2  
+ 
+ 
+ ns  =
+ 
+    16.666667  
+ 
+ T_SY  =
+ 
+    6896.8476  
+ 
+Synchronising power per phase is 240.745 kW
+ 
+Synchronising torque is 6897 N-m 
+
+
+Answer mismatches due to improper approximation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.31/6_31.sce #
+ 
+Example 6.31
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ 
+ V_ph  =
+ 
+    1905.2559  
+ 
+ VA  =
+ 
+    3000000.  
+ 
+ I_FL  =
+ 
+    524.86388  
+ 
+ IX_s  =
+ 
+    381.05118  
+ 
+ X_s  =
+ 
+    0.726i  
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ Poles  =
+ 
+    6.  
+ f  =
+ 
+    50.  
+ 
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ 
+ delta_dash_elec  =
+ 
+    0.0523599  
+ 
+ 
+ 
+ P_SY  =
+ 
+    261799.39  
+ 
+ P_SY_total  =
+ 
+    785398.16  
+ 
+ 
+ ns  =
+ 
+    16.666667  
+ 
+ T_SY  =
+ 
+    7500.  
+ 
+Synchronising power per phase is 261.799 kW
+ 
+Total Synchronising power is 785.398 kW 
+
+Synchronising torque is 7500 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.32/6_32.sce #
+ 
+Example 6.32
+
+ 
+ 
+ V_L  =
+ 
+    11000.  
+ 
+ V_ph  =
+ 
+    6350.853  
+ 
+ VA  =
+ 
+    700000.  
+ 
+ I_FL  =
+ 
+    36.740472  
+ 
+ IX_s  =
+ 
+    889.11941  
+ 
+ X_s  =
+ 
+    24.2  
+ 
+ 
+ IR_a  =
+ 
+    95.262794  
+ 
+ R_a  =
+ 
+    2.5928571  
+ 
+ 
+ I  =
+ 
+    36.740472  
+ phi  =
+ 
+    0.6435011  
+ 
+ V  =
+ 
+    5080.6824 + 3810.5118i  
+ 
+ E_ph  =
+ 
+    6991.2046  
+ 
+ 
+ delta  =
+ 
+    0.0937029  
+ 
+ 
+ Poles  =
+ 
+    4.  
+ f  =
+ 
+    50.  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ delta_dash_elec  =
+ 
+    0.0349066  
+ 
+ 
+ P_SY  =
+ 
+    63749.747  
+ 
+ P_SY_total  =
+ 
+    191249.24  
+ 
+ 
+ ns  =
+ 
+    25.  
+ 
+ T_SY  =
+ 
+    1217.5305  
+ 
+Synchronising power per phase is 63.750 kW
+ 
+Synchronising power is 63.750 kW ;  
+Total Synchronising power is 191.249 kW 
+
+Synchronising torque is 1217.53 N-m 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.33/6_33.sce #
+ 
+Example 6.33
+
+ 
+ 
+ 
+ 
+ Z1  =
+ 
+    2.i  
+ 
+ Z2  =
+ 
+    3.i  
+ 
+ Z  =
+ 
+    6.  
+ 
+ E1  =
+ 
+    230.  
+ 
+ E2  =
+ 
+    226.50578 + 39.939081i  
+ 
+ 
+ I1  =
+ 
+    14.300399 - 3.5589232i  
+ 
+ I2  =
+ 
+    22.846626 - 1.2078765i  
+ 
+ 
+ phi1  =
+ 
+  - 13.975227  
+ 
+ phi2  =
+ 
+  - 3.0263486  
+ 
+ 
+ I  =
+ 
+    37.147026 - 4.7667997i  
+ 
+ V  =
+ 
+    222.88215 - 28.600798i  
+ 
+(i) Terminal voltage is 224.71 volts at -7.3 degrees
+ 
+(ii) Currents are 14.74 A at -14 degrees and 22.88 A at -3.03 degrees
+     Total current is 37.45 A at -7.3 degrees   
+ 
+ P1  =
+ 
+    3213.4388  
+ 
+ P2  =
+ 
+    5133.8591  
+ 
+
+(iii)Power delivered 3213.44 watts and  5133.86 watts 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.34/6_34.sce #
+ 
+Example 6.34
+
+ 
+ 
+ X_d  =
+ 
+    0.8  
+ X_q  =
+ 
+    0.5  
+ 
+ R_a  =
+ 
+    0.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ V_t  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    1.  
+ 
+ 
+ psi  =
+ 
+    0.9420000  
+ 
+ delta  =
+ 
+    0.2984989  
+ 
+ I_d  =
+ 
+    0.8087361  
+ 
+ I_q  =
+ 
+    0.5881717  
+ 
+ E_f  =
+ 
+    1.6027679  
+ 
+ 
+Open circuit voltage is 1.603 p.u. 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.35/6_35.sce #
+ 
+Example 6.35
+
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ I_L  =
+ 
+    110.  
+ phi_1  =
+ 
+    0.4510268  
+ 
+ kW  =
+ 
+    400000.    1000000.    400000.    300000.  
+ 
+ cosphi  =
+ 
+    1.    0.71    0.8    0.9  
+ 
+ tanphi  =
+ 
+    0.    0.9918333    0.75    0.4843221  
+ 
+ kVAR  =
+ 
+    0.    991833.35    300000.    145296.63  
+ 
+ 
+ kW_total  =
+ 
+    2100000.  
+ 
+ kVAR_total  =
+ 
+    1437130.  
+ 
+ 
+ phi_c  =
+ 
+    0.6001436  
+ 
+ load_1  =
+ 
+    1131722.  
+ 
+ 
+ kW_1  =
+ 
+    1131722.  
+ 
+ kVAR_1  =
+ 
+    548117.98  
+ 
+ kW_2  =
+ 
+    968278.  
+ 
+ kVAR_2  =
+ 
+    889012.  
+ 
+ 
+ phi_2  =
+ 
+    0.7427457  
+ 
+ pf_2  =
+ 
+    0.7366144  
+ 
+ 
+Output of second alternator= 968.28 kW 
+
+Power factor of machine 2 = 0.7366 and lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.36/6_36.sce #
+ 
+Example 6.36
+
+ 
+ 
+ V_L  =
+ 
+    11000.  
+ 
+ V_ph  =
+ 
+    6350.853  
+ 
+ VA  =
+ 
+    2000000.  
+ phi  =
+ 
+    0.6435011  
+ 
+ I_FL  =
+ 
+    104.97278  
+ 
+ phi_1  =
+ 
+    0.6435011  
+ 
+ IX_s  =
+ 
+    1270.1706  
+ 
+ X_s  =
+ 
+    12.1  
+ 
+ I_1  =
+ 
+    104.97278  
+ 
+ BC  =
+ 
+    1016.1365  
+ 
+ AB  =
+ 
+    762.10236  
+ OA  =
+ 
+    6350.853  
+ 
+ OC  =
+ 
+    7185.1699  
+ E_1  =
+ 
+    7185.1699  
+ 
+ E_2  =
+ 
+    8981.4624  
+ OE  =
+ 
+    8981.4624  
+ 
+ DE  =
+ 
+    1016.1365  
+ 
+ AD  =
+ 
+    2572.9429  
+ 
+ 
+ I_2sinphi2  =
+ 
+    212.63991  
+ 
+ I_2cosphi2  =
+ 
+    83.978221  
+ 
+ I_2  =
+ 
+    228.62212  
+ 
+ phi2  =
+ 
+    1.1946669  
+ 
+ new_pf  =
+ 
+    0.3673233  
+ 
+ 
+Machine current is 228.62 A 
+ 
+Power factor is  0.3673 lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.37/6_37.sce #
+ 
+Example 6.37
+
+ 
+ 
+ 
+ 
+ P_out  =
+ 
+    3000000.  
+ 
+ V_L  =
+ 
+    6600.  
+ V_ph  =
+ 
+    3810.5118  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ I_L  =
+ 
+    262.43194 - 196.82396i  
+ 
+ 
+ P_out1  =
+ 
+    1500000.  
+ 
+ I_L1  =
+ 
+    150.  
+ 
+ phi_L1  =
+ 
+    0.5058289  
+ 
+ I_L1  =
+ 
+    131.21597 - 72.679909i  
+ 
+ 
+ I_L2  =
+ 
+    131.21597 - 124.14405i  
+ 
+ pf_2  =
+ 
+    0.7264108  
+ 
+ Z_1  =
+ 
+    0.5 + 10.i  
+ 
+ I_1  =
+ 
+    131.21597 - 72.679909i  
+ 
+ E_1  =
+ 
+    4602.9188 + 1275.8197i  
+ 
+ delta_1  =
+ 
+    0.2703883  
+ 
+ E_1L  =
+ 
+    7972.4893 + 2209.7846i  
+ 
+ 
+ Z_2  =
+ 
+    0.4 + 12.i  
+ 
+ I_2  =
+ 
+    131.21597 - 124.14405i  
+ 
+ E_2  =
+ 
+    5352.7267 + 1524.934i  
+ 
+ delta_2  =
+ 
+    0.2775367  
+ 
+ 
+Part(i)
+Currents are 150 A at -29.0 degrees and 180.6 A at -43.4 degrees
+Total current is 328 at -36.87
+ 
+Part(ii)
+Power factor is 0.8748 and lagging
+ 
+Part(iii)
+emf are 4776.46 V at 15.49 degrees and 5565.7081 V at 16 degrees
+ 
+Part(iv)
+Power angles are 15.49 degrees and 16 degrees 
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.38/6_38.sce #
+ 
+Example 6.38
+
+ 
+ 
+ Z1  =
+ 
+    0.2 + 2.i  
+ 
+ Z2  =
+ 
+    0.2 + 2.i  
+ 
+ ZL  =
+ 
+    3. + 4.i  
+ 
+ Z  =
+ 
+    3. + 4.i  
+ 
+ E1  =
+ 
+    2000.  
+ 
+ E2  =
+ 
+    2200. + 100.i  
+ 
+ 
+ I1  =
+ 
+    67.956666 - 102.42132i  
+ 
+ I2  =
+ 
+    127.36261 - 196.48073i  
+ 
+ 
+ IL  =
+ 
+    195.31927 - 298.90205i  
+ 
+ V  =
+ 
+    1781.566 - 115.42907i  
+ 
+ 
+ phi1  =
+ 
+    52.728623  
+ 
+ phi2  =
+ 
+    53.340856  
+ 
+ 
+ Pout1  =
+ 
+    398675.05  
+ 
+ Pout2  =
+ 
+    748753.44  
+ 
+
+Power delivered is 398.68 kW and 748.75 kW at power-factors 0.6056 lag and 0.5971 lag respectively 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.39/6_39.sce #
+ 
+Example 6.39
+
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    12.  
+ 
+ V_L  =
+ 
+    6600.  
+ 
+ V_ph  =
+ 
+    3810.5118  
+ 
+ VA  =
+ 
+    2000000.  
+ 
+ I_FL  =
+ 
+    174.95463  
+ 
+ 
+ IX_s  =
+ 
+    952.62794  
+ 
+ X_s  =
+ 
+    5.445i  
+ 
+ N_s  =
+ 
+    50.  
+ 
+ delta_dash_mech  =
+ 
+    0.0174533  
+ 
+ delta_dash_elec  =
+ 
+    0.1047198  
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ I  =
+ 
+    139.9637 - 104.97278i  
+ 
+ V  =
+ 
+    3810.5118  
+ 
+ E  =
+ 
+    4382.0885 + 762.10236i  
+ 
+ delta  =
+ 
+    0.1721908  
+ 
+ P_SY  =
+ 
+    320553.95  
+ 
+ P_SY_total  =
+ 
+    961661.86  
+ 
+
+Synchronising power is 320.55 kW 
+
+Total synchronising power is 961.66 kW 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.40/6_40.sce #
+ 
+Example 6.40
+
+ 
+ 
+ V_L  =
+ 
+    22000.  
+ 
+ V_ph  =
+ 
+    12701.706  
+ 
+ power  =
+ 
+    2.300D+08  
+ 
+ phi  =
+ 
+    0.  
+ 
+ I_FL  =
+ 
+    6035.9346  
+ 
+ I_1  =
+ 
+    6035.9346  
+ 
+ X_s  =
+ 
+    1.2  
+ 
+ 
+ E_1  =
+ 
+    14621.769  
+ 
+ E_2  =
+ 
+    19008.3  
+ 
+ AC  =
+ 
+    4872.4988  
+ 
+ I2X_S  =
+ 
+    4872.4988  
+ 
+ 
+ I_2cosphi2  =
+ 
+    6035.9346  
+ 
+ I_2sinphi2  =
+ 
+    4060.4157  
+ 
+ I_2  =
+ 
+    7274.5778  
+ 
+ phi2  =
+ 
+    0.5921727  
+ 
+ new_pf  =
+ 
+    0.8297299  
+ 
+ 
+Machine current is 7274.58 A 
+ 
+Power factor is  0.8297 and lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.41/6_41.sce #
+ 
+Example 6.41
+
+ 
+ 
+ 
+ 
+ P_out  =
+ 
+    1500000.  
+ 
+ V_L  =
+ 
+    3300.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ I_L  =
+ 
+    262.43194 - 196.82396i  
+ 
+ 
+ I_L1_magnitude  =
+ 
+    150.  
+ 
+ P_out1  =
+ 
+    1500000.  
+ 
+ pf_L1  =
+ 
+    0.8747731  
+ 
+ phi1  =
+ 
+    28.981862  
+ 
+ I_L1  =
+ 
+    131.21597 - 72.679909i  
+ 
+ I_L2  =
+ 
+    131.21597 - 124.14405i  
+ 
+ pf_L2  =
+ 
+    0.7264108  
+ 
+ 
+ V_ph  =
+ 
+    3810.5118  
+ 
+ Z_1  =
+ 
+    0.5 + 10.i  
+ 
+ I_1  =
+ 
+    131.21597 - 72.679909i  
+ 
+ E_1  =
+ 
+    4602.9188 + 1275.8197i  
+ 
+ delta_1  =
+ 
+    15.492109  
+ 
+ I_2  =
+ 
+    131.21597 - 124.14405i  
+ 
+ 
+ Z_2  =
+ 
+    0.4 + 12.i  
+ 
+ E_2  =
+ 
+    5352.7267 + 1524.934i  
+ 
+ delta_2  =
+ 
+    15.90168  
+ 
+ 
+for machine 1
+current is 150 A at -28.98 degrees
+Power factor of 0.8748 lag
+induced emf of 4776.46 V
+load angle of 15.49 degrees 
+
+
+for machine 2
+current is 180.6 A at -43.4 degrees
+Power factor of 0.7264 lag
+induced emf of 5565.71 V
+load angle of 16 degrees 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.42/6_42.sce #
+ 
+Example 6.42
+
+ 
+ 
+ V_l  =
+ 
+    230.  
+ 
+ VA  =
+ 
+    5000.  
+ 
+ X_d  =
+ 
+    12.  
+ X_q  =
+ 
+    7.  
+ R_a  =
+ 
+    0.  
+ 
+ phi  =
+ 
+    0.  
+ 
+ 
+ I_l  =
+ 
+    12.551093  
+ 
+ V_ph  =
+ 
+    132.79056  
+ 
+ V_t  =
+ 
+    132.79056  
+ I_a  =
+ 
+    12.551093  
+ 
+ 
+ psi  =
+ 
+    0.5845046  
+ 
+ delta  =
+ 
+    0.5845046  
+ 
+ I_d  =
+ 
+    6.9255208  
+ 
+ I_q  =
+ 
+    10.46743  
+ 
+ E_f  =
+ 
+    193.85166  
+ 
+ 
+Excitation voltage is 193.852 V  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH6/EX6.43/6_43.sce #
+ 
+Example 6.43
+
+ 
+ 
+ V_l  =
+ 
+    6600.  
+ 
+ V_t  =
+ 
+    3810.5118  
+ 
+ X_d  =
+ 
+    23.2  
+ X_q  =
+ 
+    14.5  
+ R_a  =
+ 
+    0.  
+ 
+ VA  =
+ 
+    1800000.  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ 
+ I_a  =
+ 
+    157.45916  
+ 
+ 
+ psi  =
+ 
+    0.0010331  
+ 
+ delta  =
+ 
+    0.6445342  
+ 
+ I_d  =
+ 
+    0.1626643  
+ 
+ I_q  =
+ 
+    157.45908  
+ 
+ E_f  =
+ 
+    3042.2721  
+ 
+Excitation emf = 3042.2721 V
+ 
+ 
+ 
+ 
+ 
+ delta_max  =
+ 
+    63.4  
+ 
+ 
+ P_m_max  =
+ 
+    150344.22  
+ 
+Maximum load the motor can supply is 0.1503 MW per phase  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.1/7_1.sce #
+ 
+Example 7.1
+
+ 
+ 
+ V_l  =
+ 
+    400.  
+ 
+ R_a  =
+ 
+    0.2  
+ X_s  =
+ 
+    2.  
+ 
+ I_L  =
+ 
+    25.  
+ 
+ I_aph  =
+ 
+    25.  
+ 
+ V_ph  =
+ 
+    230.94011  
+ 
+ Z_s  =
+ 
+    0.2 + 2.i  
+ 
+ theta  =
+ 
+    1.4711277  
+ 
+ E_Rph  =
+ 
+    50.249378  
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ E_bph  =
+ 
+    200.38564  
+ 
+
+(i)Back EMF induced with 0.8 lagging pf is 200.386 V
+ 
+ 
+ 
+ phi  =
+ 
+    0.4510268  
+ 
+ E_bph  =
+ 
+    252.67829  
+ 
+(ii)Back EMF induced with 0.8 lagging pf is 252.678 V
+ 
+ 
+ 
+ phi  =
+ 
+    0.  
+ 
+ E_bph  =
+ 
+    231.40642  
+ 
+(iii)Back EMF induced with 0.8 lagging pf is 231.406 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.2/7_2.sce #
+ 
+Example 7.2
+
+ 
+ 
+ V_l  =
+ 
+    500.  
+ 
+ R_a  =
+ 
+    0.4  
+ X_s  =
+ 
+    4.  
+ 
+ Z_s  =
+ 
+    0.4 + 4.i  
+ 
+ theta  =
+ 
+    1.4711277  
+ 
+ V_ph  =
+ 
+    288.67513  
+ 
+ I_l  =
+ 
+    50.  
+ 
+ I_aph  =
+ 
+    50.  
+ 
+ E_Rph  =
+ 
+    200.99751  
+ 
+ 
+ 
+ E_bline  =
+ 
+    600.  
+ 
+ E_bph  =
+ 
+    346.41016  
+ 
+ phi  =
+ 
+    0.0674919  
+ 
+ 
+(i)power factor is 0.9977 leading
+ 
+ 
+ 
+ E_bline  =
+ 
+    380.  
+ 
+ E_bph  =
+ 
+    219.3931  
+ 
+ phi  =
+ 
+    0.6098465  
+ 
+ 
+(ii)power factor is 0.8197 lagging
+ 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.3/7_3.sce #
+ 
+Example 7.3
+
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ 
+ P_out  =
+ 
+    500000.  
+ 
+ eta  =
+ 
+    0.83  
+ 
+ R_a  =
+ 
+    0.3  
+ X_s  =
+ 
+    3.2  
+ 
+ Z_s  =
+ 
+    0.3 + 3.2i  
+ 
+ theta  =
+ 
+    1.4773195  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ V_ph  =
+ 
+    3810.5118  
+ 
+ P_in  =
+ 
+    602409.64  
+ 
+ 
+ I_L  =
+ 
+    65.871471  
+ 
+ 
+ I_aph  =
+ 
+    65.871471  
+ 
+ E_Rph  =
+ 
+    211.713  
+ 
+ E_bph  =
+ 
+    3925.3275  
+ 
+(i) Generated EmF on full loaad is 3925.33 V
+ 
+ 
+ delta  =
+ 
+    2.6354077  
+ 
+ 
+(ii) load angle is 2.64 degrees 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.4/7_4.sce #
+ 
+Example 7.4
+
+ 
+ 
+ V_L  =
+ 
+    500.  
+ V_ph  =
+ 
+    288.67513  
+ 
+ phi  =
+ 
+    0.4510268  
+ 
+ output_power  =
+ 
+    17000.  
+ 
+ R_a  =
+ 
+    0.8  
+ 
+ mechanical_losses  =
+ 
+    1300.  
+ 
+ P_m  =
+ 
+    18300.  
+ 
+ 
+ 
+ 
+ 
+ 
+ I_a_eqn  =
+ 
+    2.4  - 779.4225    18300.  
+ 
+ I_a_roots  =
+ 
+    299.28171  
+    25.477668  
+ 
+ I_a  =
+ 
+    25.477668  
+ 
+ I_aph  =
+ 
+    25.477668  
+ 
+Current drawn by the motor is 25.478 A
+ 
+ 
+ input_power  =
+ 
+    19857.877  
+ 
+ eta  =
+ 
+    85.608346  
+ 
+Full load efficiency is 85.61 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.5/7_5.sce #
+ 
+Example 7.5
+
+ 
+ 
+ 
+ P_1  =
+ 
+    800.  
+ 
+ phi_1  =
+ 
+    0.9272952  
+ 
+ Q_1  =
+ 
+    1066.6667  
+ 
+ 
+ output_power  =
+ 
+    200.  
+ 
+ eta  =
+ 
+    0.91  
+ 
+ input_power  =
+ 
+    219.78022  
+ 
+ P_2  =
+ 
+    219.78022  
+ 
+ P_T  =
+ 
+    1019.7802  
+ 
+ phi_T  =
+ 
+    0.4027158  
+ 
+ Q_T  =
+ 
+    434.42455  
+ 
+ Q_2  =
+ 
+  - 632.24211  
+ 
+ S_2  =
+ 
+    669.353  
+ 
+Desired kVA rating of Synchronous motor  is 669.353 kVA 
+ 
+ phi_2  =
+ 
+  - 1.236243  
+ 
+
+Power factor of synchronous motor is 0.3283 LEADING 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.6/7_6.sce #
+ 
+Example 7.6
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ 
+ output_power  =
+ 
+    37300.  
+ 
+ Z_s  =
+ 
+    0.2 + 1.6i  
+ 
+ theta  =
+ 
+    1.4464413  
+ 
+ phi  =
+ 
+    0.4510268  
+ 
+ V_ph  =
+ 
+    230.94011  
+ 
+ eta  =
+ 
+    88.  
+ 
+ input_power  =
+ 
+    42386.364  
+ 
+ I_L  =
+ 
+    67.977162  
+ 
+ I_aph  =
+ 
+    67.977162  
+ 
+ E_Rph  =
+ 
+    109.60988  
+ 
+ 
+ E_bph  =
+ 
+    285.64554  
+ 
+ E_line  =
+ 
+    494.75259  
+ 
+ 
+Induced EMF is 285.65 V and its line value is 494.75 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.7/7_7.sce #
+ 
+Example 7.7
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ 
+ input_power  =
+ 
+    20000.  
+ 
+ R_a  =
+ 
+    0.  
+ X_s  =
+ 
+    4.  
+ 
+ Z_s  =
+ 
+    4.i  
+ 
+ theta  =
+ 
+    1.5707963  
+ 
+ V_ph  =
+ 
+    230.94011  
+ 
+ E_bline  =
+ 
+    550.  
+ 
+ E_bph  =
+ 
+    317.54265  
+ 
+ 
+ I_a_cos_phi  =
+ 
+    28.867513  
+ 
+ I_a_sin_phi  =
+ 
+    16.21597  
+ 
+ phi  =
+ 
+    0.5118102  
+ 
+ I_a  =
+ 
+    33.110286  
+ 
+ 
+Motor power fctor is 0.872 Leading
+ 
+Current drawn by the motor is 33.11 A 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.8/7_8.sce #
+ 
+Example 7.8
+
+ 
+Answer in part(1) mismatched because of improper approximation in book
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ V_ph  =
+ 
+    1905.2559  
+ 
+ R_a  =
+ 
+    2.  
+ X_s  =
+ 
+    18.  
+ 
+ Z_s  =
+ 
+    2. + 18.i  
+ 
+ theta  =
+ 
+    1.4601391  
+ 
+ E_bline  =
+ 
+    3800.  
+ E_bph  =
+ 
+    2193.931  
+ 
+ 
+ 
+ P_m_max  =
+ 
+    201452.3  
+ 
+(i)Max total mechanical power developed that motor can develop is 201452.30 W per phase
+ 
+ 
+ 
+ 
+ E_Rph  =
+ 
+    2742.2848  
+ 
+ I_aph  =
+ 
+    151.41735  
+ 
+(ii)Current at max power developed is 151.4 A
+ 
+ 
+ copper_loss  =
+ 
+    137563.28  
+ 
+ P_in_max_total  =
+ 
+    604356.89  
+ 
+ total_P_in  =
+ 
+    741920.16  
+ 
+ pf  =
+ 
+    0.8572490  
+ 
+Power factor at max power developed is 0.857 leading 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.9/7_9.sce #
+ 
+Example 7.9
+
+ 
+ 
+ V_L  =
+ 
+    500.  
+ 
+ R_a  =
+ 
+    0.03  
+ X_s  =
+ 
+    0.3  
+ 
+ Z_s  =
+ 
+    0.03 + 0.3i  
+ 
+ theta  =
+ 
+    1.4711277  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ eta  =
+ 
+    0.93  
+ 
+ output_power  =
+ 
+    74600.  
+ 
+ input_power  =
+ 
+    80215.054  
+ 
+ I_L  =
+ 
+    115.78046  
+ 
+ I_aph  =
+ 
+    115.78046  
+ 
+ E_Rph  =
+ 
+    34.907376  
+ 
+ 
+ E_bph  =
+ 
+    308.18795  
+ 
+ 
+ cu_losses  =
+ 
+    1206.4603  
+ 
+ P_m  =
+ 
+    79008.593  
+ 
+ 
+EMF developed per phase is 308.1880 V 
+Total mechanical power developed is 79008.6 watts 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.10/7_10.sce #
+ 
+Example 7.10
+ 
+Answer might mismatch because of improper approximation done in book
+
+ 
+ 
+ V_L  =
+ 
+    415.  
+ 
+ V_ph  =
+ 
+    415.  
+ 
+ E_bline  =
+ 
+    520.  
+ 
+ R_a  =
+ 
+    0.5  
+ X_s  =
+ 
+    4.  
+ 
+ Z_s  =
+ 
+    0.5 + 4.i  
+ 
+ theta  =
+ 
+    1.4464413  
+ 
+ 
+ delta  =
+ 
+    1.4464413  
+ 
+ P_m_max  =
+ 
+    45213.391  
+ 
+ P_m_max_total  =
+ 
+    135640.17  
+ 
+ fi_loss  =
+ 
+    1000.  
+ 
+ P_out_total  =
+ 
+    134640.17  
+ 
+ 
+ HP_output  =
+ 
+    180.48281  
+ 
+HP output for maximum power output is 180.48 HP
+ 
+ 
+ 
+ E_Rph  =
+ 
+    623.77208  
+ 
+ I_aph  =
+ 
+    154.73881  
+ 
+ I_L  =
+ 
+    268.01548  
+ 
+Line current is 268.015479 A
+ 
+ cu_loss_total  =
+ 
+    35916.148  
+ 
+ input_power  =
+ 
+    171556.32  
+ 
+ pf  =
+ 
+    0.8905086  
+ 
+Power factor for maximum power output is 0.89 leading 
+ 
+ 
+ eta  =
+ 
+    78.481616  
+ 
+Efficiency for maximum power output is 78.48 percent 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.11/7_11.sce #
+ 
+Example 7.11
+
+ 
+ 
+ P  =
+ 
+    8.  
+ f  =
+ 
+    50.  
+ 
+ N_s  =
+ 
+    750.  
+ 
+ V_L  =
+ 
+    6600.  
+ V_ph  =
+ 
+    3810.5118  
+ 
+ Z_s  =
+ 
+    0.66 + 6.6i  
+ 
+ theta  =
+ 
+    1.4711277  
+ 
+ E_bph  =
+ 
+    4500.  
+ 
+ input_power  =
+ 
+    2500000.  
+ 
+ I_a_cosphi  =
+ 
+    218.69328  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.    5.2252  - 2.2432  
+ 
+ tan_phi  =
+ 
+  - 5.6240579  
+    0.3988579  
+ 
+ phi  =
+ 
+    0.3795214  
+ 
+ pf  =
+ 
+    0.9288420  
+ 
+ I_a  =
+ 
+    235.44723  
+ 
+ 
+ 
+ delta  =
+ 
+    0.3400599  
+ 
+ P_m  =
+ 
+    2390520.1  
+ 
+ T_g  =
+ 
+    30437.047  
+ 
+(i)Torque developed is 30437.047497 N-m
+ 
+(ii)Input current is 235.4472 A
+ 
+(iii)Power factor is 0.9288 leading
+ 
+(iv)Power angle is 19.48 degrees  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.12/7_12.sce #
+ 
+Example 7.12
+
+ 
+ 
+ input_power  =
+ 
+    15000.  
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ E_b  =
+ 
+    480.  
+ E_bph  =
+ 
+    277.12813  
+ 
+ Z_s  =
+ 
+    1. + 5.i  
+ 
+ theta  =
+ 
+    1.3734008  
+ 
+ 
+ I_a_cosphi  =
+ 
+    21.650635  
+ 
+ 
+ 
+ p  =
+ 
+    1.    4.101  - 1.7449  
+ 
+ tan_phi  =
+ 
+  - 4.4896495  
+    0.3886495  
+ 
+ phi  =
+ 
+    0.3706833  
+ 
+ I_a  =
+ 
+    23.228301  
+ 
+ 
+ 
+ delta  =
+ 
+    0.4345345  
+ 
+Load angle is 24.9 degrees 
+
+Armature current is 23.2283 A 
+
+Power factor is 0.932 leading 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.13/7_13.sce #
+ 
+Example 7.13
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ E_b  =
+ 
+    460.  
+ E_bph  =
+ 
+    265.58112  
+ 
+ input_power  =
+ 
+    3750.  
+ 
+ Z_s  =
+ 
+    1. + 8.i  
+ 
+ theta  =
+ 
+    1.4464413  
+ 
+ I_L_cos_phi  =
+ 
+    5.4126588  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.    458.366  - 450.65  
+ 
+ tan_phi  =
+ 
+  - 459.34707  
+    0.9810665  
+ 
+ phi  =
+ 
+    0.7758412  
+ 
+Required power factor is 0.7138 leading 
+ I_L  =
+ 
+    7.5825369  
+ 
+
+Required current is 7.5825 A 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.14/7_14.sce #
+ 
+Example 7.14
+
+ 
+ 
+ 
+ P_1  =
+ 
+    350.  
+ 
+ phi_1  =
+ 
+    0.7854078  
+ 
+ Q_1  =
+ 
+    350.00671  
+ 
+ 
+ 
+ P_2  =
+ 
+    190.  
+ 
+ 
+ 
+ P_T  =
+ 
+    540.  
+ 
+ phi_T  =
+ 
+    0.4510268  
+ 
+ Q_T  =
+ 
+    261.53394  
+ 
+ 
+ Q_2  =
+ 
+  - 88.472776  
+ 
+ kva_rating  =
+ 
+    209.58872  
+ 
+kVA rating of synchronous motor is 209.59 kVA 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.15/7_15.sce #
+ 
+Example 7.15
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ Pole  =
+ 
+    6.  
+ f  =
+ 
+    50.  
+ 
+ R_a  =
+ 
+    0.2  
+ X_s  =
+ 
+    3.  
+ 
+ Z_s  =
+ 
+    0.2 + 3.i  
+ 
+ theta  =
+ 
+    1.5042282  
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ 
+ 
+ I_a1  =
+ 
+    20.  
+ 
+ phi_1  =
+ 
+    0.  
+ 
+ E_R1  =
+ 
+    60.133186  
+ 
+ E_bph  =
+ 
+    234.73775  
+ 
+ 
+ 
+ I_a2  =
+ 
+    60.  
+ 
+ E_R2  =
+ 
+    180.39956  
+ 
+ phi_2  =
+ 
+  - 0.3117436  
+ 
+ 
+ input_power  =
+ 
+    39565.593  
+ 
+ cu_loss  =
+ 
+    2160.  
+ 
+ P_m  =
+ 
+    37405.593  
+ 
+ T_g  =
+ 
+    357.1971  
+ 
+ 
+Gross torque developed is 357.1971 N-m and new power factor is 0.9518 lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.16/7_16.sce #
+ 
+Example 7.16
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ 
+ V_ph  =
+ 
+    1905.2559  
+ 
+ E_bph  =
+ 
+    1905.2559  
+ 
+ Z_s  =
+ 
+    0.5 + 5.i  
+ 
+ theta  =
+ 
+    1.4711277  
+ 
+ P  =
+ 
+    8.  
+ f  =
+ 
+    50.  
+ 
+ delta_mech  =
+ 
+    3.  
+ 
+ delta_elec  =
+ 
+    12.  
+ 
+ E_Rph  =
+ 
+    398.30694  
+ 
+ I_aph  =
+ 
+    79.266044  
+ 
+ 
+ 
+ phi  =
+ 
+    0.0050511  
+ 
+ pf  =
+ 
+    0.9999872  
+ 
+power factor of the motor is 0.99999 lagging 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.17/7_17.sce #
+ 
+Example 7.17
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ E_bph  =
+ 
+    230.94011  
+ 
+ P  =
+ 
+    4.  
+ f  =
+ 
+    50.  
+ 
+ delta_mech  =
+ 
+    0.0698132  
+ 
+ delta_elec  =
+ 
+    0.1396263  
+ 
+ Z_s  =
+ 
+    2.i  
+ 
+ 
+ 
+ BC  =
+ 
+    32.140651  
+ 
+ AB  =
+ 
+    230.94011  
+ 
+ OA  =
+ 
+    230.94011  
+ 
+ 
+ AC  =
+ 
+    228.69261  
+ 
+ OC  =
+ 
+    2.2474933  
+ 
+ phi  =
+ 
+    0.0698132  
+ 
+ OB  =
+ 
+    32.219135  
+ 
+ I_a  =
+ 
+    16.109568  
+ 
+ 
+Armature current drawn by the motor is 16.1096 A 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.18/7_18.sce #
+ 
+Example 7.18
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ input_power  =
+ 
+    5472.  
+ 
+ Z_s  =
+ 
+    10.i  
+ 
+ I_L_cosphi  =
+ 
+    7.8981517  
+ 
+ BC  =
+ 
+    78.981517  
+ 
+ AB  =
+ 
+    230.94011  
+ 
+ OA  =
+ 
+    230.94011  
+ 
+ 
+ AC  =
+ 
+    217.01441  
+ 
+ OC  =
+ 
+    13.9257  
+ 
+ 
+ 
+ OB  =
+ 
+    80.199782  
+ 
+ E_Rph  =
+ 
+    80.199782  
+ 
+ I_L  =
+ 
+    8.0199782  
+ 
+ 
+ phi  =
+ 
+    0.1745222  
+ 
+ pf  =
+ 
+    0.9848096  
+ 
+ delta  =
+ 
+    0.3490444  
+ 
+Power factor is 0.9848 lagging
+ 
+Load angle is 20 degrees
+ 
+Armature current is 8.020 A 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.19/7_19.sce #
+ 
+Example 7.19
+
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ V_ph  =
+ 
+    3810.5118  
+ 
+ Z_s  =
+ 
+    2. + 20.i  
+ 
+ theta  =
+ 
+    1.4711277  
+ 
+ P_1  =
+ 
+    1000000.  
+ 
+ P_2  =
+ 
+    1500000.  
+ 
+ phi_1  =
+ 
+    0.6435011  
+ 
+ 
+ I_L1  =
+ 
+    109.34664  
+ 
+ I_a1ph  =
+ 
+    109.34664  
+ 
+ E_R1ph  =
+ 
+    2197.8403  
+ 
+ E_bph  =
+ 
+    3810.5117  
+ 
+ I_a2_cosphi_2  =
+ 
+    131.21597  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    404.  - 152399.97  - 4543000.  
+ 
+ ans  =
+ 
+    404.99363  
+  - 27.765991  
+ 
+ I_y  =
+ 
+    27.765991  
+ 
+ 
+ I_a2  =
+ 
+    131.21597 + 27.765991i  
+ 
+ phi_2  =
+ 
+    11.947841  
+ 
+Required power factor is 0.978 leading 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.20/7_20.sce #
+ 
+Example 7.20
+
+ 
+ 
+ V_L  =
+ 
+    2300.  
+ V_ph  =
+ 
+    1327.9056  
+ 
+ I_L  =
+ 
+    200.  
+ I_a  =
+ 
+    200.  
+ 
+ Z_s  =
+ 
+    0.2 + 2.2i  
+ 
+ theta  =
+ 
+    1.4801364  
+ 
+ phi  =
+ 
+    1.0471976  
+ 
+ 
+ E_Rph  =
+ 
+    441.81444  
+ 
+ E_bph  =
+ 
+    1708.0448  
+ 
+ 
+Generated EMF per phase is 1708.045 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.21/7_21.sce #
+ 
+Example 7.21
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ V_ph  =
+ 
+    1905.2559  
+ 
+ E_bline  =
+ 
+    3800.  
+ E_bph  =
+ 
+    2193.931  
+ 
+ 
+ R_a  =
+ 
+    2.  
+ X_s  =
+ 
+    18.  
+ 
+ Z_s  =
+ 
+    2. + 18.i  
+ 
+ theta  =
+ 
+    1.4601391  
+ 
+ 
+ 
+ P_m_max  =
+ 
+    201452.3  
+ 
+(i)Maximum total mechanical power that the motor can develop is 201452.30 W per phase 
+ 
+ delta  =
+ 
+    1.4601391  
+ 
+ E_Rph  =
+ 
+    2742.2848  
+ 
+ I_aph  =
+ 
+    151.41735  
+ 
+
+(ii)Current at maximum power developed is 151.4 A 
+ cu_loss_total  =
+ 
+    137563.28  
+ 
+ P_m_max_total  =
+ 
+    604356.89  
+ 
+ P_in_total  =
+ 
+    741920.16  
+ 
+ 
+ pf  =
+ 
+    0.8572490  
+ 
+
+    Power factor at maximum power developed is 0.857 leading 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.22/7_22.sce #
+ 
+Example 7.22
+
+ 
+ 
+ 
+ I_1  =
+ 
+    18.  
+ 
+ phi_1  =
+ 
+    0.6435011  
+ 
+ V_L  =
+ 
+    440.  
+ 
+ S_1  =
+ 
+    13.717842  
+ 
+ P_1  =
+ 
+    10.974274  
+ 
+ Q_1  =
+ 
+    8.2307054  
+ 
+ 
+ P_out  =
+ 
+    6.  
+ 
+ eta_motor  =
+ 
+    0.88  
+ 
+ P_2  =
+ 
+    6.8181818  
+ 
+ 
+ P_T  =
+ 
+    17.792456  
+ 
+ phi_T  =
+ 
+    0.  
+ 
+ Q_T  =
+ 
+    0.  
+ 
+ 
+ Q_2  =
+ 
+  - 8.2307054  
+ 
+ 
+ phi_2  =
+ 
+    0.8789863  
+ 
+ pf  =
+ 
+    0.6379321  
+ 
+ S_2  =
+ 
+    10.687943  
+ 
+kVA input to the motor is 10.688 kVA 
+ 
+Power factor when driving a 6kW mechanical load is 0.6379 leading 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.23/7_23.sce #
+ 
+Example 7.23
+
+ 
+ 
+ output_power  =
+ 
+    8000.  
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ R_a  =
+ 
+    0.  
+ X_s  =
+ 
+    8.  
+ 
+ Z_s  =
+ 
+    8.i  
+ 
+ theta  =
+ 
+    1.5707963  
+ 
+ eta  =
+ 
+    0.88  
+ input_power  =
+ 
+    9090.9091  
+ 
+ 
+ 
+ phi  =
+ 
+    0.  
+ 
+ I_a_min  =
+ 
+    13.121597  
+ 
+Minimum current is 13.122 A 
+ E_R  =
+ 
+    104.97278  
+ 
+ E_bph  =
+ 
+    253.67818  
+ 
+
+Induced EMF at full-load is 253.678 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.24/7_24.sce #
+ 
+Example 7.24
+
+ 
+ 
+ R_a  =
+ 
+    0.8  
+ X_s  =
+ 
+    5.  
+ 
+ Z_s  =
+ 
+    0.8 + 5.i  
+ 
+ theta  =
+ 
+    1.4121411  
+ 
+ alpha  =
+ 
+    0.1586553  
+ 
+ V_t  =
+ 
+    1905.2559  
+ 
+ P_e_in  =
+ 
+    266.66667  
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ Q_e_in  =
+ 
+  - 200.  
+ 
+ 
+ 
+ 
+ 
+ E_b_sin_delta_minus_9  =
+ 
+    407.2  
+ 
+ E_b_cos_delta_minus_9  =
+ 
+    2413.6  
+ 
+ 
+ delta  =
+ 
+    18.57623  
+ 
+ E_b  =
+ 
+    2447.7085  
+ 
+ 
+ P_e_in_new  =
+ 
+    400000.  
+ 
+ 
+ 
+ 
+ 
+ alpha  =
+ 
+    0.4362886  
+ 
+ Q_e_in_new  =
+ 
+  - 167335.64  
+ 
+ 
+ pf  =
+ 
+    0.9225282  
+ 
+New power factor is 0.92 leading  
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.25/7_25.sce #
+ 
+Example 7.25
+
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ V_ph  =
+ 
+    3810.5118  
+ 
+ P_in  =
+ 
+    900000.  
+ 
+ R_a  =
+ 
+    0.  
+ X_s  =
+ 
+    20.  
+ 
+ Z_s  =
+ 
+    20.i  
+ 
+ theta  =
+ 
+    1.5707963  
+ 
+ E_b_L  =
+ 
+    8600.  
+ E_bph  =
+ 
+    4965.2123  
+ 
+ 
+ 
+ OA  =
+ 
+    3810.5118  
+ AB  =
+ 
+    4965.2123  
+ 
+ 
+ I_a_cosphi  =
+ 
+    78.729582  
+ 
+ BC  =
+ 
+    1574.5916  
+ 
+ 
+ OC  =
+ 
+    898.41533  
+ 
+ I_a_sinphi  =
+ 
+    44.920766  
+ 
+ phi  =
+ 
+    0.5184989  
+ 
+ I_a  =
+ 
+    90.64338  
+ 
+Motor current is 90.643 A
+ 
+Power factor of motor is 0.868564 leading 
+
+
+Note:There is slight mismatch in answer due to the approximation made during I_a* sin(phi) calculation 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.26/7_26.sce #
+ 
+Example 7.26
+
+ 
+ 
+ 
+ P_1  =
+ 
+    1800.  
+ 
+ phi_1  =
+ 
+    0.9272952  
+ 
+ Q_1  =
+ 
+    2400.  
+ 
+ 
+ 
+ P_2  =
+ 
+    0.  
+ 
+ 
+ 
+ P_T  =
+ 
+    1800.  
+ 
+ phi_T  =
+ 
+    0.3175604  
+ 
+ Q_T  =
+ 
+    591.63139  
+ 
+ 
+ kva_rating  =
+ 
+    1894.7368  
+ 
+ 
+ Q_2  =
+ 
+  - 1808.3686  
+ 
+(i)kVA rating of synchronous condender is -1808.369 kVA 
+   Minus sign indicates leading nature
+
+ 
+(ii)kVA rating of total factory is 1894.7368 kVA 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.27/7_27.sce #
+ 
+Example 7.27
+
+ 
+ 
+ I_1  =
+ 
+    35.  
+ 
+ phi_1  =
+ 
+    0.6435011  
+ 
+ V_L  =
+ 
+    440.  
+ 
+ S_1  =
+ 
+    26.673582  
+ 
+ 
+ P_1  =
+ 
+    21.338866  
+ 
+ Q_1  =
+ 
+    16.004149  
+ 
+ 
+ P_out  =
+ 
+    12.  
+ 
+ eta_motor  =
+ 
+    0.85  
+ 
+ P_2  =
+ 
+    14.117647  
+ 
+ 
+ P_T  =
+ 
+    35.456513  
+ 
+ phi_T  =
+ 
+    0.  
+ 
+ Q_T  =
+ 
+    0.  
+ 
+ 
+ 
+ Q_2  =
+ 
+  - 16.004149  
+ 
+ 
+ phi_2  =
+ 
+    0.8479456  
+ 
+ S_2  =
+ 
+    21.341058  
+ 
+ 
+Power factor when motor supplies 12kW load is 0.6615 leading 
+
+kVA input to the motor is 21.341 kVA 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.28/7_28.sce #
+ 
+Example 7.28
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ Z_s  =
+ 
+    0.5 + 4.i  
+ 
+ theta  =
+ 
+    1.4464413  
+ 
+ 
+ I_aph  =
+ 
+    60.  
+ 
+ phi  =
+ 
+    0.5236496  
+ 
+ power_losses  =
+ 
+    2000.  
+ 
+ 
+ E_bph  =
+ 
+    394.03577  
+ 
+ delta  =
+ 
+    1.4464413  
+ 
+ P_m_max  =
+ 
+    17796.63  
+ 
+ P_m_max_total  =
+ 
+    53389.891  
+ 
+ P_out_max  =
+ 
+    51389.891  
+ 
+Maximum power output is 51.3899 kW 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.29/7_29.sce #
+ 
+Example 7.29
+
+ 
+ 
+ V_L  =
+ 
+    6600.  
+ V_ph  =
+ 
+    3810.5118  
+ 
+ I_L  =
+ 
+    50.  
+ I_aph  =
+ 
+    50.  
+ 
+ Z_s  =
+ 
+    1.5 + 8.i  
+ 
+ theta  =
+ 
+    1.3854484  
+ 
+ E_Rph  =
+ 
+    406.97051  
+ 
+ 
+ 
+ phi  =
+ 
+    0.6435011  
+ 
+ P_in  =
+ 
+    457261.41  
+ 
+(i)Power supplied to the motor is 457.261 kW
+ 
+ 
+ E_bph_lag  =
+ 
+    3521.2665  
+ 
+ 
+(ii)Induced EMF for 0.8 power factor lag is 3521.267 V
+ 
+ E_bph_lead  =
+ 
+    4007.1697  
+ 
+ 
+    Induced EMF for 0.8 power factor lead is 4007.170 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.30/7_30.sce #
+ 
+Example 7.30
+
+ 
+ 
+ V_L  =
+ 
+    400.  
+ V_ph  =
+ 
+    230.94011  
+ 
+ P_out  =
+ 
+    5516.25  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ R_a  =
+ 
+    0.  
+ X_s  =
+ 
+    10.  
+ 
+ Z_s  =
+ 
+    10.i  
+ 
+ theta  =
+ 
+    1.5707963  
+ 
+ P_in  =
+ 
+    6489.7059  
+ 
+ phi  =
+ 
+    0.  
+ 
+ I_L  =
+ 
+    9.3670836  
+ I_aph  =
+ 
+    9.3670836  
+ 
+Minimum current is 9.367 A at full load condition  
+ 
+ E_Rph  =
+ 
+    93.670836  
+ 
+ E_bph  =
+ 
+    249.21388  
+ 
+and corresponding EMF is 249.2139 V 
+ 
+grepthis#Dc_Machines_And_Synchronous_Machines_U._A._Bakshi_And_M._V._Bakshi_1938/CH7/EX7.31/7_31.sce #
+ 
+Example 7.31
+
+ 
+ 
+ V_L  =
+ 
+    3300.  
+ V_ph  =
+ 
+    1905.2559  
+ V_t  =
+ 
+    1905.2559  
+ 
+ Pole  =
+ 
+    24.  
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    1000000.  
+ 
+ R_a  =
+ 
+    0.  
+ X_s  =
+ 
+    3.24  
+ 
+ Z_s  =
+ 
+    3.24i  
+ 
+ theta  =
+ 
+    1.5707963  
+ 
+ phi  =
+ 
+    0.  
+ 
+ I_aph  =
+ 
+    174.95463  
+ 
+ 
+ E_Rph  =
+ 
+    566.85299  
+ 
+ E_bph  =
+ 
+    1987.7933  
+ 
+ 
+ P_m_max  =
+ 
+    3506717.5  
+ 
+ N_s  =
+ 
+    250.  
+ 
+ T_max  =
+ 
+    133946.74  
+ 
+Maximum power and torque the motor can deliver is 3506.718 kW and 133.95 *10^3 Nm respectively 
+ 

@@ -1,0 +1,5196 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 151
+
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.1/1.sce #
+ 
+ 
+ 
+ ec  =
+ 
+    0.0004  
+ 
+ me  =
+ 
+    0.14  
+ 
+ mh  =
+ 
+    0.04  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ ni  =
+ 
+    1.3888889  
+ 
+ 
+ 
+The intrinsic carrier concentration at room temperature is 1.389 *10^16.m^-3 
+ Since ne=nh=ni from law of mass action the electron and hole concentrations are 1.33*10^16.m^-3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.1/1.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    2.100D+19  
+ 
+ me  =
+ 
+    0.4  
+ 
+ mh  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    4.500D+23  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ C  =
+ 
+    2.016  
+ 
+ c  =
+ 
+    1.44  
+ 
+ 
+ 
+Before adding boron atoms,the semiconductor is an intrinsic semiconductor 
+ conductivity before adding boron atoms is 2.016 ohm^-1 m^-1 
+ Aefore adding boron atoms,the semiconductor becomes a P-type semiconductor 
+ conductivity after adding boron atoms is 1.44*10^4 ohm^-1 m^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.1/1.sce #
+ 
+ 
+ 
+ M1  =
+ 
+    202.  
+ 
+ a  =
+ 
+    0.5  
+ 
+ T1  =
+ 
+    4.2  
+ 
+ M2  =
+ 
+    200.  
+ 
+ 
+ 
+ T2  =
+ 
+    4.2209478  
+ 
+ 
+ 
+The transition temperature for the isotope of mercury of mass number200 is 4.2209 k 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH13/EX13.1/1.sce #
+ 
+ 
+ 
+ a  =
+ 
+    3.610D-10  
+ 
+ x  =
+ 
+    1.000D-18  
+ 
+ z  =
+ 
+    29.  
+ 
+ n  =
+ 
+    4.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ ne  =
+ 
+    2.466D+30  
+ 
+ P  =
+ 
+    3.945085  
+ 
+ 
+ 
+The electron polarisation is 3.945*10^-7 in C/m^2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH15/EX15.1/1.sce #
+ 
+ 
+ 
+ t  =
+ 
+    0.001  
+ 
+ E  =
+ 
+    8.000D+10  
+ 
+ d  =
+ 
+    2654.  
+ 
+ 
+ 
+ f  =
+ 
+    2.7451403  
+ 
+ 
+ 
+The frequency to which a piezo electric oscillator circuit should be turned is 2.7451*10^6 Hz 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.1/1.sce #
+ 
+ 
+ 
+ i  =
+ 
+    20.  
+ 
+ 
+ 
+ I  =
+ 
+    13.0103  
+ 
+ 
+ 
+The sound intensity level is imcreased by 13 dB when the intensity is doubled 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH2/EX2.1/1.sce #
+ 
+ 
+ 
+ E  =
+ 
+    8.000D+10  
+ 
+ d  =
+ 
+    2654.  
+ 
+ t  =
+ 
+    0.001  
+ 
+ p  =
+ 
+    1.  
+ 
+ 
+ 
+ f  =
+ 
+    2.7451403  
+ 
+ 
+ 
+The frequency of vibration is 2.7451 *10^6.Hz 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.1/1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    125.  
+ 
+ d  =
+ 
+    0.00004  
+ 
+ 
+ 
+ w  =
+ 
+    640.  
+ 
+ 
+ 
+The wavelength of light used is 640 *10^-9.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH5/EX5.1/1.sce #
+ 
+ 
+ 
+ t  =
+ 
+    300.  
+ 
+ w  =
+ 
+    0.0000007  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ Kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ Ratio  =
+ 
+    1.3893153  
+ 
+ 
+ 
+The ratio of propulsion of the two states in a laser is 1.3893 *10^-30 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH6/EX6.1/1.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.545  
+ 
+ n2  =
+ 
+    1.495  
+ 
+ 
+ 
+ CA  =
+ 
+    75.383727  
+ 
+ AA  =
+ 
+    22.946521  
+ 
+ NA  =
+ 
+    0.3898718  
+ 
+ 
+ 
+The critical angle is 75.38 degrees 
+ The acceptance angle is 22.95 degrees 
+ The numerical aperture is 0.3899 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.1/1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    5.900D+28  
+ 
+ v  =
+ 
+    0.625  
+ 
+ x  =
+ 
+    62200000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ J  =
+ 
+    5.9  
+ 
+ z  =
+ 
+    6.5889831  
+ 
+ 
+ 
+The current density in the conductor corresponds to a drift velocity is 5.9 * 10^9 A m^-1 
+ Mobility of the charge carrires is 6.589*10^-3 m^2 V^-1 s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.1/1.sce #
+ 
+ 
+ 
+ W  =
+ 
+    1.000D-10  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ E  =
+ 
+    12421.875  
+ 
+ P  =
+ 
+    6.625  
+ 
+ 
+ 
+The energy of photon is 12421.9 eV 
+ The momentum of the photon is 6.62 *10^-24.Kgms^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f  =
+ 
+    0.2689414  
+ 
+ 
+ 
+The fermi function for an energy kt above fermi energy is 0.269 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.2/2.sce #
+ 
+ 
+ 
+ d  =
+ 
+    2.370D+19  
+ 
+ me  =
+ 
+    0.38  
+ 
+ mh  =
+ 
+    0.18  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ r  =
+ 
+    0.4709162  
+ 
+ 
+ 
+The resistivity of intrinsic carrier is 0.4709 ohm m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.2/2.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    1.500D+16  
+ 
+ me  =
+ 
+    0.13  
+ 
+ mh  =
+ 
+    0.05  
+ 
+ c  =
+ 
+    30000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ ne  =
+ 
+    1.4423077  
+ 
+ nh  =
+ 
+    1.56  
+ 
+ Ne  =
+ 
+    3.75  
+ 
+ Nh  =
+ 
+    6.  
+ 
+ 
+ 
+DensiTy of electrons in n-type silicon is 1.4423 *10^24 electrons/m^3 
+ DensiTy of holes in n-type silicon is 1.56*10^8 holes/m^3 
+ DensiTy of holes in p-type silicon is 3.75*10^24 holes/m^3 
+ DensiTy of electrons in p-type silicon is 6*10^7 electrons/m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.2/2.sce #
+ 
+ 
+ 
+ Tc  =
+ 
+    9.15  
+ 
+ t  =
+ 
+    6.  
+ 
+ Ho  =
+ 
+    0.196  
+ 
+ 
+ 
+ Hc  =
+ 
+    0.1117216  
+ 
+ 
+ 
+The critical field at 6K is 0.1117 T 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH13/EX13.2/2.sce #
+ 
+ 
+ 
+ rp  =
+ 
+    11.7  
+ 
+ N  =
+ 
+    4.820D+28  
+ 
+ ro  =
+ 
+    8.850D-12  
+ 
+ E  =
+ 
+    10000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ Z  =
+ 
+    14.  
+ 
+ 
+ 
+ z  =
+ 
+    1.965D-39  
+ 
+ y  =
+ 
+    1.9646266  
+ 
+ x  =
+ 
+    8.7706543  
+ 
+ 
+ 
+The dipole moment of each atom in a field is 1.9646*10^-35 Cm^-3 
+ The effective distance at this field strength between the centre of the electron cloud in each atom and the nucleus is 8.77*10^-18 m 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.2/2.sce #
+ 
+ 
+ 
+ i  =
+ 
+    4.  
+ 
+ 
+ 
+ I  =
+ 
+    6.0205999  
+ 
+ 
+ 
+The sound intensity level is increased by 6 dB 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH2/EX2.2/2.sce #
+ 
+ 
+ 
+ v  =
+ 
+    5500.  
+ 
+ t  =
+ 
+    0.05  
+ 
+ 
+ 
+ w  =
+ 
+    0.1  
+ 
+ v1  =
+ 
+    5.5  
+ 
+ v2  =
+ 
+    110.  
+ 
+ 
+ 
+Frequency in the first mode of vibration is 5.5 *10^4.Hz 
+ Frequency in the second mode of vibration is 110 *10^3.Hz 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.2/2.sce #
+ 
+ 
+ 
+ Ri  =
+ 
+    1.5  
+ 
+ n  =
+ 
+    30.  
+ 
+ t  =
+ 
+    0.000018  
+ 
+ 
+ 
+ w  =
+ 
+    6.  
+ 
+ 
+ 
+The wavelength of light used is 6 *10^-7.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH5/EX5.2/2.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000015  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ Eg  =
+ 
+    0.8014113  
+ 
+ 
+ 
+The band gap for lnp laser diode is 0.8014 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH6/EX6.2/2.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.54  
+ 
+ n2  =
+ 
+    1.5  
+ 
+ 
+ 
+ NA  =
+ 
+    0.3487119  
+ 
+ 
+ 
+The numerical aperture is 0.3487 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.2/2.sce #
+ 
+ 
+ 
+ n  =
+ 
+    8.500D+28  
+ 
+ A  =
+ 
+    0.0000010  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ I  =
+ 
+    1.  
+ 
+ 
+ 
+ V  =
+ 
+    7.0028011  
+ 
+ 
+ 
+The drift velocity of free electron in a copper wire is 7.003 *10^-5 in ms^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.2/2.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000006  
+ 
+ e  =
+ 
+    100.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ 
+ E  =
+ 
+    3.373D-19  
+ 
+ N  =
+ 
+    2.9650314  
+ 
+ 
+ 
+The total number of photons emitted per second is 2.965 *10^20 per sec 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.2/2.sce #
+ 
+ 
+ 
+ X  =
+ 
+    1.600D-21  
+ 
+ T  =
+ 
+    200.  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ f  =
+ 
+    0.3589993  
+ 
+ 
+ 
+The fermi function is 0.35900 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.3/3.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.0002  
+ 
+ me  =
+ 
+    6.  
+ 
+ mh  =
+ 
+    0.2  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ d  =
+ 
+    5.0403226  
+ 
+ 
+ 
+The intrinsic carrier density at room tepmerature is 5.040 *10^21 m^-3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.3/3.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    2.000D+16  
+ 
+ Na  =
+ 
+    5.000D+23  
+ 
+ Nd  =
+ 
+    3.000D+23  
+ 
+ 
+ 
+ nh  =
+ 
+    2.000D+23  
+ 
+ ne  =
+ 
+    2.  
+ 
+ 
+ 
+The electron concentration that is density of electrons is 2*10^9 electrons /m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.3/3.sce #
+ 
+ 
+ 
+ M1  =
+ 
+    199.5  
+ 
+ T1  =
+ 
+    4.185  
+ 
+ T2  =
+ 
+    4.133  
+ 
+ a  =
+ 
+    0.5  
+ 
+ 
+ 
+ M2  =
+ 
+    204.55166  
+ 
+ 
+ 
+The Isotopic mass if the critical temperature falls to 4.133K is 204.55 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH13/EX13.3/3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    9.800D+26  
+ 
+ r  =
+ 
+    5.000D-11  
+ 
+ ro  =
+ 
+    8.850D-12  
+ 
+ 
+ 
+ z  =
+ 
+    1.38945  
+ 
+ rp  =
+ 
+    1.0015386  
+ 
+ 
+ 
+The electronic polarisability is 1.389*10^-41 Fm^2 
+ The relative permittivity in hydrogen gas is 1.0015 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.3/3.sce #
+ 
+ 
+ 
+ I  =
+ 
+    1000.  
+ 
+ Io  =
+ 
+    1.000D-12  
+ 
+ 
+ 
+ IL  =
+ 
+    150.  
+ 
+ 
+ 
+The intensity level of a plane just leaving the runway is 150 dB 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH2/EX2.3/3.sce #
+ 
+ 
+ 
+ f  =
+ 
+    90000.  
+ 
+ t  =
+ 
+    0.55  
+ 
+ v  =
+ 
+    1800.  
+ 
+ 
+ 
+ D  =
+ 
+    495.  
+ 
+ W  =
+ 
+    0.02  
+ 
+ 
+ 
+The depth of sea is 495m 
+ The wavelength of ultrasonic pulse is 0.02m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.3/3.sce #
+ 
+ 
+ 
+ h  =
+ 
+    3.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    2.109D-10  
+ 
+ 
+ 
+ d  =
+ 
+    6.3588743  
+ 
+ 
+ 
+The interplanar distance is 6.359*10^-11 m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.3/3.sce #
+ 
+ 
+ 
+ n  =
+ 
+    200.  
+ 
+ d  =
+ 
+    0.0000589  
+ 
+ 
+ 
+ w  =
+ 
+    5.89  
+ 
+ 
+ 
+The wavelength of the monochromatic source used is 5.89 *10^-7.in m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH5/EX5.3/3.sce #
+ 
+ 
+ 
+ E  =
+ 
+    3.200D-21  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ 
+ w  =
+ 
+    6.2109375  
+ 
+ 
+ 
+The long wavelength limit of an extrinsic semiconductor is 6.2109 *10^-5.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH6/EX6.3/3.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.55  
+ 
+ n2  =
+ 
+    1.47  
+ 
+ 
+ 
+ CA  =
+ 
+    71.511459  
+ 
+ NA  =
+ 
+    0.4915282  
+ 
+ AA  =
+ 
+    29.441077  
+ 
+ 
+ 
+ 
+The critical angle is 71.51 degrees 
+ The numerical aperture is 0.4915 
+ The acceptance angle is 29.44 degrees 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.3/3.sce #
+ 
+ 
+ 
+ X  =
+ 
+    0.0035  
+ 
+ E  =
+ 
+    0.5  
+ 
+ 
+ 
+ V  =
+ 
+    1.75  
+ 
+ 
+ 
+The drift velocity of free electrons in copper is 1.75*10^-3 in ms^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.3/3.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000004  
+ 
+ t  =
+ 
+    1500.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ Kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ Edw  =
+ 
+    0.0183394  
+ 
+ 
+ 
+The energy density per unit wavelength in a black body cavity is 0.01834 J/m^4 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.3/3.sce #
+ 
+ 
+ 
+ EF  =
+ 
+    1.861D-18  
+ 
+ t  =
+ 
+    7.300D-15  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ Vf  =
+ 
+    2.0211831  
+ 
+ x  =
+ 
+    14.754637  
+ 
+ 
+ 
+The fermi velocity fo conducting electron in aluminium is 2.0212*10^6 ms^-1 
+ The mean free path for conducting electron of aluminium is 14.7546 nm 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.4/4.sce #
+ 
+ 
+ 
+ Eg  =
+ 
+    1.760D-19  
+ 
+ me  =
+ 
+    0.48  
+ 
+ mh  =
+ 
+    0.13  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ t  =
+ 
+    300.  
+ 
+ 
+ 
+ ni  =
+ 
+    1.472D+16  
+ 
+ ec  =
+ 
+    1.4363471  
+ 
+ 
+ 
+The electrical conductivity at room temperature is 1.4363 *10^-3 ohm^-1 m^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.4/4.sce #
+ 
+ 
+ 
+ d  =
+ 
+    5.000D+28  
+ 
+ nd  =
+ 
+    25000000.  
+ 
+ T  =
+ 
+    300.  
+ 
+ Eg  =
+ 
+    1.760D-19  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ 
+ Nd  =
+ 
+    2.000D+21  
+ 
+ Ef  =
+ 
+    4.8933462  
+ 
+ 
+ 
+The position of fermi level is 4.8933*10^-20 Joule 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.4/4.sce #
+ 
+ 
+ 
+ Hc  =
+ 
+    7200.  
+ 
+ r  =
+ 
+    0.0005  
+ 
+ 
+ 
+ Ic  =
+ 
+    22.608  
+ 
+ 
+ 
+The critical current through a long thin superconductor is 22.608 A 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH13/EX13.4/4.sce #
+ 
+ 
+ 
+ z  =
+ 
+    1.750D-40  
+ 
+ d  =
+ 
+    1800.  
+ 
+ Z  =
+ 
+    39.95  
+ 
+ NA  =
+ 
+    6.025D+26  
+ 
+ ro  =
+ 
+    8.850D-12  
+ 
+ 
+ 
+ N  =
+ 
+    2.715D+28  
+ 
+ rp  =
+ 
+    1.5367939  
+ 
+ 
+ 
+The static dielectric constant of solid argon is 1.53679 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.4/4.sce #
+ 
+ 
+ 
+ I  =
+ 
+    0.000001  
+ 
+ Io  =
+ 
+    1.000D-12  
+ 
+ 
+ 
+ IL  =
+ 
+    60.  
+ 
+ 
+ 
+The intensity level is 60 dB 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.4/4.sce #
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    0.  
+ 
+ d  =
+ 
+    2.860D-10  
+ 
+ 
+ 
+ a  =
+ 
+    4.0446508  
+ 
+ 
+ 
+The lattice constant is 4.045*10^-10 m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.4/4.sce #
+ 
+ 
+ 
+ x  =
+ 
+    1.55  
+ 
+ w  =
+ 
+    0.0000005  
+ 
+ n  =
+ 
+    450.  
+ 
+ 
+ 
+ t  =
+ 
+    1.9636364  
+ 
+ 
+ 
+The thickness of the film is 1.9636 *10^-4.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH5/EX5.4/4.sce #
+ 
+ 
+ 
+ E  =
+ 
+    0.21  
+ 
+ w  =
+ 
+    0.0000006  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ 
+ e  =
+ 
+    3.200D-19  
+ 
+ n  =
+ 
+    6.5615094  
+ 
+ 
+ 
+The number of photons emitted per minute is 6.562 *10^17 photons /minute 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH6/EX6.4/4.sce #
+ 
+ 
+ 
+ n2  =
+ 
+    1.55  
+ 
+ no  =
+ 
+    1.33  
+ 
+ NA  =
+ 
+    0.2  
+ 
+ 
+ 
+ n1  =
+ 
+    1.56285  
+ 
+ NAW  =
+ 
+    0.1503759  
+ 
+ AA  =
+ 
+    8.6487134  
+ 
+ 
+ 
+The refractive index of optical fibre is 1.5628
+ The numerical aperture when fibre is in water is 0.1504
+ The Acceptance angle for the fibre in water is 8.65 degrees 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.4/4.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.500D+28  
+ 
+ r  =
+ 
+    1.435D-08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ T  =
+ 
+    3.8151635  
+ 
+ 
+ 
+The relaxation time of conduction electrons is 3.815*10^-14 s 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.4/4.sce #
+ 
+ 
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ w  =
+ 
+    0.0242408  
+ 
+ 
+ 
+The compton wavelength for an electron is 0.0242 Armstrong 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.4/4.sce #
+ 
+ 
+ 
+ Vf  =
+ 
+    860000.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ Ef  =
+ 
+    3.368878  
+ 
+ Tf  =
+ 
+    24.412159  
+ 
+ 
+ 
+The fermi energy in a metal is 3.3689*10^-19 J 
+ The fermi temperature in a metal is 24.41*10^3 K 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.5/5.sce #
+ 
+ 
+ 
+ Eg  =
+ 
+    2.288D-19  
+ 
+ xe  =
+ 
+    0.85  
+ 
+ xh  =
+ 
+    0.04  
+ 
+ me  =
+ 
+    6.195D-32  
+ 
+ mh  =
+ 
+    4.555D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ t  =
+ 
+    300.  
+ 
+ 
+ 
+ ni  =
+ 
+    1.9815485  
+ 
+ ec  =
+ 
+    2.821725  
+ 
+ 
+ 
+The intrinsic carrier concentration is 1.9815*10^12 m^-3 
+ The electrical conductivity at room temperature is 2.8217 *10^-7 ohm^-1 m^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.5/5.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    1.500D+16  
+ 
+ r1  =
+ 
+    0.1  
+ 
+ r2  =
+ 
+    0.1  
+ 
+ me  =
+ 
+    0.135  
+ 
+ mh  =
+ 
+    0.048  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ Na  =
+ 
+    1.3020833  
+ 
+ ne  =
+ 
+    1.728  
+ 
+ Nd  =
+ 
+    4.6296296  
+ 
+ nh  =
+ 
+    4.86  
+ 
+ 
+ 
+The density of the intrinsic crystal for p-type is 1.3021*10^21 m^-3 
+ The minor carrier concentration for p-type is 1.728*10^11 electrons/m^3 
+ The density of the intrinsic crystal for n-type is 4.630*10^20 m^-3 
+ The minor carrier concentration for n-type is 4.8600*10^11 holes/m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.5/5.sce #
+ 
+ 
+ 
+ Tc  =
+ 
+    3.7  
+ 
+ t  =
+ 
+    2.  
+ 
+ Ho  =
+ 
+    0.0306  
+ 
+ 
+ 
+ Hc  =
+ 
+    0.0216592  
+ 
+ 
+ 
+The critical field at 2K is 0.021659 tesla 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH13/EX13.5/5.sce #
+ 
+ 
+ 
+ er  =
+ 
+    4.94  
+ 
+ n  =
+ 
+    2.69  
+ 
+ 
+ 
+ x  =
+ 
+    0.5755163  
+ 
+ y  =
+ 
+    1.7375704  
+ 
+ 
+ 
+Ratio between electronic and ionic polarisability of this material is 1.7376  
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.5/5.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    3.56  
+ 
+ r  =
+ 
+    15.  
+ 
+ Io  =
+ 
+    100.  
+ 
+ 
+ 
+ A  =
+ 
+    2826.  
+ 
+ I  =
+ 
+    0.0012597  
+ 
+ IL  =
+ 
+  - 48.997222  
+ 
+ 
+ 
+The intensity level is -48.997 dB 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.5/5.sce #
+ 
+ 
+ 
+ t  =
+ 
+    0.00004  
+ 
+ d  =
+ 
+    0.000027  
+ 
+ 
+ 
+ X  =
+ 
+    1.675  
+ 
+ 
+ 
+The refractive index of material is 1.675 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH6/EX6.5/5.sce #
+ 
+ 
+ 
+ NA  =
+ 
+    0.22  
+ 
+ no  =
+ 
+    0.012  
+ 
+ 
+ 
+ n1  =
+ 
+    1.4200939  
+ 
+ n2  =
+ 
+    1.4030528  
+ 
+ 
+ 
+The refractive index of the core of a fibre is 1.420 
+ The refractive index of the cladding is 1.403 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.5/5.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.720D-08  
+ 
+ T  =
+ 
+    293.  
+ 
+ n  =
+ 
+    8.480D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ t  =
+ 
+    2.440D-14  
+ 
+ v  =
+ 
+    115391.76  
+ 
+ L  =
+ 
+    2.8153274  
+ 
+ 
+ 
+The mean free path between collision of free electrons in copper is 2.8153 *10^-9 m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.5/5.sce #
+ 
+ 
+ 
+ x  =
+ 
+    90.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ w  =
+ 
+    0.0242408  
+ 
+ 
+ 
+The change in wavelength for X ray photon is 0.0242 A 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.5/5.sce #
+ 
+ 
+ 
+ Ef  =
+ 
+    5.120D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ Tf  =
+ 
+    37.101449  
+ 
+ Vf  =
+ 
+    1.0602073  
+ 
+ 
+ 
+The fermi temparature for sodium is 37.10*10^3 K 
+ The fermi velocity fo conducting electron in aluminium is 1.0602*10^6 ms^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.6/6.sce #
+ 
+ 
+ 
+ Eg  =
+ 
+    1.792D-19  
+ 
+ me  =
+ 
+    1.093D-31  
+ 
+ mh  =
+ 
+    2.551D-31  
+ 
+ t  =
+ 
+    300.  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ Ef  =
+ 
+    9.223086  
+ 
+ 
+ 
+The position of the fermi level is 9.22309*10^-20 J 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.6/6.sce #
+ 
+ 
+ 
+ c  =
+ 
+    112.  
+ 
+ RH  =
+ 
+    0.00125  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ me  =
+ 
+    0.14  
+ 
+ ne  =
+ 
+    5.  
+ 
+ 
+ 
+The electron mobility is 0.14 m^2 V^-1 s^-1 
+ The charge carrier density is  5*10^21 electrons/m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.6/6.sce #
+ 
+ 
+ 
+ Ho  =
+ 
+    65000.  
+ 
+ Tc  =
+ 
+    7.18  
+ 
+ r  =
+ 
+    0.0005  
+ 
+ T  =
+ 
+    4.2  
+ 
+ 
+ 
+ Hc  =
+ 
+    42758.552  
+ 
+ Ic  =
+ 
+    134.26185  
+ 
+ 
+ 
+The critical density for a superconducting wire of lead is 134.26 in A 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.6/6.sce #
+ 
+ 
+ 
+ Il1  =
+ 
+    70.  
+ 
+ Il2  =
+ 
+    80.  
+ 
+ 
+ 
+ I1  =
+ 
+    10000000.  
+ 
+ I2  =
+ 
+    1.000D+08  
+ 
+ I  =
+ 
+    1.100D+08  
+ 
+ Il  =
+ 
+    80.413927  
+ 
+ 
+ 
+The resultant sound level is 80.41 dB 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.6/6.sce #
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ 
+ 
+ p  =
+ 
+    1.  
+ 
+ q  =
+ 
+    1.  
+ 
+ r  =
+ 
+    1.  
+ 
+ 
+The ratio of intercepts on the three axis by (1 1 1) plane is 1:1:1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.6/6.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.0000320  
+ 
+ w  =
+ 
+    0.0000006  
+ 
+ 
+ 
+ n  =
+ 
+    110.34601  
+ 
+ 
+ 
+The number of fringes shifted across the cross wire of eye piece of the telescope is 110 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.6/6.sce #
+ 
+ 
+ 
+ t  =
+ 
+    0.001  
+ 
+ V  =
+ 
+    1.  
+ 
+ T  =
+ 
+    300.  
+ 
+ m  =
+ 
+    0.04  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ m1  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ v  =
+ 
+    116.76202  
+ 
+ E  =
+ 
+    1000.  
+ 
+ vd  =
+ 
+    40.  
+ 
+ 
+ 
+The thermal velocity is 116.76 *10^3 m s^-1 
+ Drift velocity of electrons is 40 m s^-1 
+ Thus the terminal velocity is high compared to the drift velocity 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.6/6.sce #
+ 
+ 
+ 
+ angle  =
+ 
+    180.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ v  =
+ 
+    1.800D+18  
+ 
+ 
+ 
+ w  =
+ 
+    1.667D-10  
+ 
+ tw  =
+ 
+    4.848D-12  
+ 
+ NW  =
+ 
+    1.7151482  
+ 
+ 
+ 
+The wavelength of X-rays carbon is 1.72 Armstrong 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.6/6.sce #
+ 
+ 
+ 
+ E  =
+ 
+    8.800D-19  
+ 
+ Ef  =
+ 
+    8.000D-19  
+ 
+ x  =
+ 
+    8.000D-20  
+ 
+ f  =
+ 
+    0.01  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ T  =
+ 
+    1.2615779  
+ 
+ 
+ 
+The temperature at which there is one percentage  probability that an electron in a solid is 1.2616*10^3 K 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.7/7.sce #
+ 
+ 
+ 
+ Eg  =
+ 
+    1.600D-19  
+ 
+ E  =
+ 
+    1.600D-20  
+ 
+ me  =
+ 
+    9.110D-31  
+ 
+ mh  =
+ 
+    3.644D-30  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ T  =
+ 
+    1115.1266  
+ 
+ 
+ 
+The Temperature of the fermi level shifted by 10percentage from the middle of the forbidden energy gap is 1115.13 K 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.7/7.sce #
+ 
+ 
+ 
+ l  =
+ 
+    0.012  
+ 
+ b  =
+ 
+    0.001  
+ 
+ t  =
+ 
+    0.001  
+ 
+ I  =
+ 
+    0.02  
+ 
+ Vh  =
+ 
+    0.000037  
+ 
+ B  =
+ 
+    0.5  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ RH  =
+ 
+    3.7  
+ 
+ ne  =
+ 
+    16.891892  
+ 
+ 
+ 
+Hall coefficient of semiconductor is 3.7*10^-6 C^-1 m^3
+ The density of the charge carrier is 16.89*10^23 electrons/m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.7/7.sce #
+ 
+ 
+ 
+ Hc  =
+ 
+    100000.  
+ 
+ Ho  =
+ 
+    200000.  
+ 
+ T  =
+ 
+    8.58  
+ 
+ 
+ 
+ Tc  =
+ 
+    12.133952  
+ 
+ 
+ 
+The critical temperature is 12.134 K 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.7/7.sce #
+ 
+ 
+ 
+ i  =
+ 
+    4.  
+ 
+ I1  =
+ 
+    95.  
+ 
+ 
+ 
+ I2  =
+ 
+    6.0205999  
+ 
+ IL  =
+ 
+    101.0206  
+ 
+ 
+ 
+The noise level at this point when 4 such drills are working at the same distance away is 101.02 dB 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.7/7.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.246D-10  
+ 
+ h1  =
+ 
+    1.  
+ 
+ k1  =
+ 
+    1.  
+ 
+ l1  =
+ 
+    1.  
+ 
+ h2  =
+ 
+    2.  
+ 
+ k2  =
+ 
+    0.  
+ 
+ l2  =
+ 
+    0.  
+ 
+ h3  =
+ 
+    2.  
+ 
+ k3  =
+ 
+    2.  
+ 
+ l3  =
+ 
+    0.  
+ 
+ 
+ 
+ a  =
+ 
+    3.524D-10  
+ 
+ d1  =
+ 
+    2.0347095  
+ 
+ d2  =
+ 
+    1.7621101  
+ 
+ d3  =
+ 
+    1.246  
+ 
+ 
+ 
+The inter planar spacing distance in 1st plane is 2.035*10^-10 m 
+ The inter planar spacing distance in 2nd plane is 1.7621*10^-10 m 
+The inter planar spacing distance in 3rd plane is 1.246*10^-10 m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.7/7.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000006  
+ 
+ Re  =
+ 
+    1.5532  
+ 
+ Ro  =
+ 
+    1.5332  
+ 
+ 
+ 
+ t  =
+ 
+    7.36625  
+ 
+ 
+ 
+The thickness of a quarter wave plate of quartz for sodium light is 7.3662 *10^-6.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.7/7.sce #
+ 
+ 
+ 
+ AW  =
+ 
+    63.5  
+ 
+ D  =
+ 
+    8930.  
+ 
+ t  =
+ 
+    2.480D-14  
+ 
+ AV  =
+ 
+    6.023D+26  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ n  =
+ 
+    8.470D+28  
+ 
+ EC  =
+ 
+    5.9028788  
+ 
+ 
+ 
+The electrical conductivity of copper is 5.90 *10^7 in S m^-1 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.7/7.sce #
+ 
+ 
+ 
+ w  =
+ 
+    3.000D-10  
+ 
+ angle  =
+ 
+    60.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ tw  =
+ 
+    3.0121204  
+ 
+ 
+ 
+The wavelength of scattered photons is 3.012 Armstrong 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.7/7.sce #
+ 
+ 
+ 
+ Ef  =
+ 
+    3.360D-19  
+ 
+ f1  =
+ 
+    0.99  
+ 
+ f2  =
+ 
+    0.01  
+ 
+ f3  =
+ 
+    0.5  
+ 
+ T  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ E1  =
+ 
+    1.9811013  
+ 
+ E2  =
+ 
+    2.2188987  
+ 
+ E3  =
+ 
+    2.1  
+ 
+ 
+ 
+The energy for probability of occupancy at 1st at which the T is 1.98 eV
+ The energy for probability of occupancy at 2nd at which the T is 2.22 eV
+ The energy for probability of occupancy at 1st at which the T is 2.1 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.8/8.sce #
+ 
+ 
+ 
+ l  =
+ 
+    0.01  
+ 
+ b  =
+ 
+    0.001  
+ 
+ t  =
+ 
+    0.001  
+ 
+ T  =
+ 
+    300.  
+ 
+ me  =
+ 
+    0.39  
+ 
+ mh  =
+ 
+    0.19  
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ ec  =
+ 
+    2.32  
+ 
+ A  =
+ 
+    0.000001  
+ 
+ R  =
+ 
+    4310.3448  
+ 
+ 
+ 
+The resistance of an intrinsic Ge rod is 4310 ohm 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.8/8.sce #
+ 
+ 
+ 
+ l  =
+ 
+    0.1  
+ 
+ b  =
+ 
+    0.01  
+ 
+ t  =
+ 
+    0.001  
+ 
+ I  =
+ 
+    0.01  
+ 
+ Vh  =
+ 
+    0.00183  
+ 
+ B  =
+ 
+    0.5  
+ 
+ 
+ 
+ RH  =
+ 
+    3.66  
+ 
+ 
+ 
+Hall coefficient of silicon plate is 3.66*10^-4 m^3 C^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH12/EX12.8/8.sce #
+ 
+ 
+ 
+ V  =
+ 
+    0.0000059  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ 
+ 
+ v  =
+ 
+    2.8519637  
+ 
+ 
+ 
+The frequency of the radiation emitted by the junction is 2.852*10^9 Hz 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.8/8.sce #
+ 
+ 
+ 
+ f  =
+ 
+    426.  
+ 
+ a  =
+ 
+    0.0065  
+ 
+ A  =
+ 
+    1.  
+ 
+ v  =
+ 
+    340.  
+ 
+ d  =
+ 
+    1.29  
+ 
+ 
+ 
+ I  =
+ 
+    6.6313787  
+ 
+ 
+ 
+The flow of energy across 1m^2 per second is 6.631*10^4 Wm^-2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.8/8.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ h1  =
+ 
+    1.  
+ 
+ k1  =
+ 
+    0.  
+ 
+ l1  =
+ 
+    0.  
+ 
+ h2  =
+ 
+    1.  
+ 
+ k2  =
+ 
+    1.  
+ 
+ l2  =
+ 
+    0.  
+ 
+ h3  =
+ 
+    1.  
+ 
+ k3  =
+ 
+    1.  
+ 
+ l3  =
+ 
+    1.  
+ 
+ 
+ 
+ x1  =
+ 
+    1.  
+ 
+ d100  =
+ 
+    1.  
+ 
+ x2  =
+ 
+    1.4142136  
+ 
+ d110  =
+ 
+    0.7071068  
+ 
+ x3  =
+ 
+    1.7320508  
+ 
+ d111  =
+ 
+    0.5773503  
+ 
+ 
+ 
+The inter planar spacing distance in 1st plane is 1 m 
+ The inter planar spacing distance in 2nd plane is 0.7071 m 
+The inter planar spacing distance in 3rd plane is 0.577m 
+ Ratio of interplanar distance of three planes is d100:d110:d111=1:0.707:0.577 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.8/8.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000006  
+ 
+ Re  =
+ 
+    1.54  
+ 
+ Ro  =
+ 
+    1.65  
+ 
+ 
+ 
+ t  =
+ 
+    2.7272727  
+ 
+ 
+ 
+The thickness of a double refracting crystal required at w/2 is 2.727 *10^-6.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.8/8.sce #
+ 
+ 
+ 
+ I  =
+ 
+    10.  
+ 
+ r  =
+ 
+    0.008  
+ 
+ n  =
+ 
+    8.480D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ J  =
+ 
+    4.9761146  
+ 
+ v  =
+ 
+    3.6675373  
+ 
+ 
+ 
+The drift velocity in copper is 3.6675 *10^-6 in ms^-1 
+ The current density in copper is 4.9761 *10^4 in Am^-2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.8/8.sce #
+ 
+ 
+ 
+ x  =
+ 
+    4.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ v  =
+ 
+    2.9047375  
+ 
+ 
+ 
+The Velocity of moving electron is 2.9047*10^8 m/sec 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.8/8.sce #
+ 
+ 
+ 
+ X  =
+ 
+    1.600D-20  
+ 
+ T  =
+ 
+    300.  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ f  =
+ 
+    0.9794622  
+ 
+ 
+ 
+The probability of unoccupancy by an electron at room temperature is 0.97946 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.9/9.sce #
+ 
+ 
+ 
+ Eg  =
+ 
+    1.920D-19  
+ 
+ T1  =
+ 
+    600.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ x  =
+ 
+    1.0846718  
+ 
+ 
+ 
+The ratio of conductiveness is 1.08*10^5 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.9/9.sce #
+ 
+ 
+ 
+ RH  =
+ 
+    0.0000735  
+ 
+ rh  =
+ 
+  - 0.0000735  
+ 
+ c  =
+ 
+    200.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ ne  =
+ 
+    8.5034014  
+ 
+ me  =
+ 
+    14.7  
+ 
+ 
+ 
+The negative sign of the Hall coefficient indicates that the nature of the semiconductor is n-type 
+ The density of the charge carrier is 8.503*10^22 electrons/m^3 
+ The mobility of the charge carrier is 14.7*10^-3 m^2 V^-1 s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.9/9.sce #
+ 
+ 
+ 
+ V  =
+ 
+    1000.  
+ 
+ S  =
+ 
+    400.  
+ 
+ a  =
+ 
+    0.2  
+ 
+ 
+ 
+ T  =
+ 
+    2.0875  
+ 
+ 
+ 
+The reverberation time of the hall is 2.09 sec 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.9/9.sce #
+ 
+ 
+ 
+ p  =
+ 
+    1.  
+ 
+ q  =
+ 
+    0.5  
+ 
+ r  =
+ 
+    3.  
+ 
+ 
+ 
+ h  =
+ 
+    3.  
+ 
+ k  =
+ 
+    6.  
+ 
+ l  =
+ 
+    1.  
+ 
+ 
+ 
+The miller indices of the plane is (h k l)=(3 6 1) 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.9/9.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000005  
+ 
+ Re  =
+ 
+    1.5573  
+ 
+ Ro  =
+ 
+    1.5442  
+ 
+ 
+ 
+ t  =
+ 
+    9.5419847  
+ 
+ 
+ 
+The least thickness of a plate when the emergent beam will be plane polarised is 9.54 *10^-6.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.9/9.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.540D-08  
+ 
+ E  =
+ 
+    100.  
+ 
+ n  =
+ 
+    5.800D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ m  =
+ 
+    6.997313  
+ 
+ v  =
+ 
+    0.6997313  
+ 
+ 
+ 
+The mobility of charge is 7.00 * 10^-3 in m^2 V^-1 s^-1 
+ The drift velocity of electrons is 0.6997 in m.s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.9/9.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.000D-10  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ 
+ E  =
+ 
+    37.639463  
+ 
+ 
+ 
+The least energy of the particle can be obtained is 37.64 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.9/9.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ a  =
+ 
+    4.050D-10  
+ 
+ nf  =
+ 
+    3.  
+ 
+ T  =
+ 
+    300.  
+ 
+ x  =
+ 
+    1.600D-20  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ nc  =
+ 
+    1.806D+29  
+ 
+ Ef  =
+ 
+    1.8668178  
+ 
+ f  =
+ 
+    0.0205378  
+ 
+ 
+ 
+The fermi energy for the metal is 1.87*10^-18 eV 
+ The fermi factor is 0.0205 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.10/10.sce #
+ 
+ 
+ 
+ Eg  =
+ 
+    1.152D-19  
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    313.  
+ 
+ x1  =
+ 
+    2.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ x2  =
+ 
+    4.9698952  
+ 
+ 
+ 
+The conductivity of Ge at T2 is 4.9699 ohm^-1 m^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.10/10.sce #
+ 
+ 
+ 
+ RH  =
+ 
+    0.000416  
+ 
+ c  =
+ 
+    180.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ x  =
+ 
+    1.18  
+ 
+ 
+ 
+ ne  =
+ 
+    1.7728365  
+ 
+ me  =
+ 
+    0.0634576  
+ 
+ 
+ 
+The density of the charge carrier is 1.773*10^22 electrons/m^3 
+ The mobility of the charge carrier is 0.06346 m^2 V^-1 s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.10/10.sce #
+ 
+ 
+ 
+ V  =
+ 
+    1500.  
+ 
+ a1  =
+ 
+    0.03  
+ 
+ a2  =
+ 
+    0.06  
+ 
+ a3  =
+ 
+    0.8  
+ 
+ S1  =
+ 
+    260.  
+ 
+ S2  =
+ 
+    140.  
+ 
+ S3  =
+ 
+    140.  
+ 
+ 
+ 
+ a  =
+ 
+    0.2374074  
+ 
+ TS  =
+ 
+    540.  
+ 
+ x  =
+ 
+    128.2  
+ 
+ T  =
+ 
+    1.9539782  
+ 
+ 
+ 
+The average absorbtion coefficient is 0.2374 O.W.U 
+ The reverberation time is 1.9540 sec 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.10/10.sce #
+ 
+ 
+ 
+ a  =
+ 
+    2.814  
+ 
+ h1  =
+ 
+    1.  
+ 
+ k1  =
+ 
+    0.  
+ 
+ l1  =
+ 
+    0.  
+ 
+ 
+ 
+ d  =
+ 
+    2.814  
+ 
+ 
+ 
+The inter planar d-spacing distance is 2.814 armstrong 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.10/10.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000006  
+ 
+ Ro  =
+ 
+    1.658  
+ 
+ Re  =
+ 
+    1.486  
+ 
+ 
+ 
+ t  =
+ 
+    17.130814  
+ 
+ 
+ 
+The thickness of the quarter wave plate for calcite is 17.131 *10^-7.m 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.10/10.sce #
+ 
+ 
+ 
+ D  =
+ 
+    8920.  
+ 
+ AW  =
+ 
+    63.5  
+ 
+ r  =
+ 
+    1.730D-08  
+ 
+ AV  =
+ 
+    6.023D+26  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ n  =
+ 
+    8.461D+28  
+ 
+ t  =
+ 
+    2.4312427  
+ 
+ mo  =
+ 
+    0.4270020  
+ 
+ 
+ 
+The relaxation time collision of electrons in copper obeying classical laws is 2.43 *10^-14 in s 
+ The mobility charge of copper obeying classical laws is 0.427 *10^-2 in m^2 V^-1 s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.10/10.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.000D-14  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ 
+ E  =
+ 
+    3.2852264  
+ 
+ 
+ 
+The least energy of the neutron can be obtained is 3.285*10^-13 eV 
+ 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.10/10.sce #
+ 
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ a  =
+ 
+    6.140D-10  
+ 
+ nf  =
+ 
+    1.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ KB  =
+ 
+    1.380D-23  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ nc  =
+ 
+    8.640D+27  
+ 
+ Ef  =
+ 
+    1.5374031  
+ 
+ 
+ 
+The fermi energy for cesium is 1.537 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.11/11.sce #
+ 
+ 
+ 
+ Eg1  =
+ 
+    0.36  
+ 
+ Eg2  =
+ 
+    0.72  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ KT  =
+ 
+    0.026  
+ 
+ 
+ 
+ x  =
+ 
+    1015.4396  
+ 
+ 
+ 
+The intrinsic carrier density of A to B is 1015 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.11/11.sce #
+ 
+ 
+ 
+ l  =
+ 
+    0.001  
+ 
+ b  =
+ 
+    0.001  
+ 
+ t  =
+ 
+    0.0005  
+ 
+ RH  =
+ 
+    0.00125  
+ 
+ I  =
+ 
+    0.001  
+ 
+ B  =
+ 
+    0.7  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ Vh  =
+ 
+    1.75  
+ 
+ 
+ 
+The hall coefficient measured by the probes is 1.75 mV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.11/11.sce #
+ 
+ 
+ 
+ V  =
+ 
+    12000.  
+ 
+ T  =
+ 
+    1.5  
+ 
+ a  =
+ 
+    0.4  
+ 
+ 
+ 
+ S  =
+ 
+    3340.  
+ 
+ 
+ 
+The area of interior surfaces is 3340 m^2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.11/11.sce #
+ 
+ 
+ 
+ OA  =
+ 
+    0.025  
+ 
+ OB  =
+ 
+    0.02  
+ 
+ OC  =
+ 
+    0.01  
+ 
+ a  =
+ 
+    0.05  
+ 
+ b  =
+ 
+    0.04  
+ 
+ c  =
+ 
+    0.03  
+ 
+ 
+ 
+ p  =
+ 
+    2.  
+ 
+ q  =
+ 
+    2.  
+ 
+ r  =
+ 
+    3.  
+ 
+ 
+ 
+The miller indices of the set of parallel lines is (2 2 3) 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.11/11.sce #
+ 
+ 
+ 
+ t  =
+ 
+    0.00003  
+ 
+ Ro  =
+ 
+    1.55  
+ 
+ Re  =
+ 
+    1.54  
+ 
+ 
+ 
+ w  =
+ 
+    600.  
+ 
+ 
+ 
+The wavelength for which it can act as a half wave plate is 600 *10^-9.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.11/11.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.850D-10  
+ 
+ t  =
+ 
+    3.000D-14  
+ 
+ temp  =
+ 
+    0.  
+ 
+ na  =
+ 
+    2.  
+ 
+ ne  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ 
+ a  =
+ 
+    4.272D-10  
+ 
+ v  =
+ 
+    7.799D-29  
+ 
+ n  =
+ 
+    2.565D+28  
+ 
+ r  =
+ 
+    4.6253057  
+ 
+ 
+ 
+The electrical resistivity is 4.63 *10^-8 in ohm metre 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.11/11.sce #
+ 
+ 
+ 
+ a  =
+ 
+    4.000D-10  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ 
+ E1  =
+ 
+    2.3524664  
+ 
+ E2  =
+ 
+    9.4098657  
+ 
+ E3  =
+ 
+    21.172198  
+ 
+ 
+ 
+The first permitted energy level by taking n=1 is 2.352 eV 
+ The second permitted energy level by taking n=2 is 9.410 eV 
+ The third permitted energy level by taking n=3 is 21.172 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.11/11.sce #
+ 
+ 
+ 
+ Ef  =
+ 
+    3.360D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ 
+ nc  =
+ 
+    1.3793428  
+ 
+ 
+ 
+ThE Number of free electrons per unit volume in potassium at the same temperature is 1.379*10^28 electrons/m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.12/12.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    373.  
+ 
+ x1  =
+ 
+    250.  
+ 
+ x2  =
+ 
+    1100.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ Eg  =
+ 
+    5.5863462  
+ 
+ 
+ 
+The band gap of semiconductor is 5.5863*10^-20 J 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.12/12.sce #
+ 
+ 
+ 
+ RH  =
+ 
+    0.000366  
+ 
+ r  =
+ 
+    0.00893  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ n  =
+ 
+    1.7076503  
+ 
+ me  =
+ 
+    0.0409854  
+ 
+ 
+ 
+The density of the charge carrier is 1.7077*10^22 m^-3 
+ The mobility is 0.0410 m^2 V^-1 s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.12/12.sce #
+ 
+ 
+ 
+ V  =
+ 
+    7500.  
+ 
+ T  =
+ 
+    1.5  
+ 
+ 
+ 
+ TaS  =
+ 
+    835.  
+ 
+ 
+ 
+The total absorbtion in the hall is 835 sabine m^2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.12/12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The miller indices are (2 1 2) 
+ The miller indices are (1 2 1) 
+ The miller indices are (1 0  3) 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH4/EX4.12/12.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.0000005  
+ 
+ Re  =
+ 
+    1.592  
+ 
+ Ro  =
+ 
+    1.586  
+ 
+ 
+ 
+ t  =
+ 
+    4.5508333  
+ 
+ 
+ 
+The thickness of a mica sheet required for making a half wave plate for a light of wavelength w is 4.5508 *10^-5.m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.12/12.sce #
+ 
+ 
+ 
+ r  =
+ 
+    2.700D-08  
+ 
+ AW  =
+ 
+    26.98  
+ 
+ d  =
+ 
+    2700.  
+ 
+ R  =
+ 
+    0.06  
+ 
+ l  =
+ 
+    5.  
+ 
+ i  =
+ 
+    15.  
+ 
+ fe  =
+ 
+    3.  
+ 
+ AV  =
+ 
+    6.023D+26  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ n  =
+ 
+    1.808D+29  
+ 
+ z  =
+ 
+    1.2801484  
+ 
+ E  =
+ 
+    0.18  
+ 
+ vd  =
+ 
+    2.3042671  
+ 
+ 
+ 
+Free electron concentration in aluminium is 0.18 in V/m 
+ Mobility of the charge is 1.280*10^-3 in m^2 V^-1 S^-1 
+ The drift velocity of electrons is 2.304*10^-4 in m s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.12/12.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.500D-10  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    1.  
+ 
+ n3  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ E  =
+ 
+    50.185951  
+ 
+ 
+ 
+The lowest energy of electron ina cubical box is 50.19 in eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.12/12.sce #
+ 
+ 
+ 
+ AW  =
+ 
+    23.  
+ 
+ d  =
+ 
+    971000.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ AV  =
+ 
+    6.020D+23  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ nc  =
+ 
+    2.541D+28  
+ 
+ Ef  =
+ 
+    3.1561896  
+ 
+ 
+ 
+The fermi energy for the sodium is 3.156 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.13/13.sce #
+ 
+ 
+ 
+ me  =
+ 
+    50.  
+ 
+ t1  =
+ 
+    4.2  
+ 
+ t2  =
+ 
+    300.  
+ 
+ 
+ 
+ m  =
+ 
+    0.0828251  
+ 
+ 
+ 
+mobility of pure semi conductor is 0.082825 m^2 V^-1 s^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH11/EX11.13/13.sce #
+ 
+ 
+ 
+ RH  =
+ 
+    0.0125  
+ 
+ rh  =
+ 
+  - 0.0125  
+ 
+ me  =
+ 
+    0.36  
+ 
+ EH  =
+ 
+    100.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ n  =
+ 
+    5.000D+20  
+ 
+ c  =
+ 
+    28.8  
+ 
+ J  =
+ 
+    2880.  
+ 
+ 
+ 
+The current density is 2879 A/m^2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.13/13.sce #
+ 
+ 
+ 
+ V  =
+ 
+    12500.  
+ 
+ T1  =
+ 
+    1.5  
+ 
+ a2S2  =
+ 
+    200.  
+ 
+ 
+ 
+ Ta1S1  =
+ 
+    1391.6667  
+ 
+ T2  =
+ 
+    1.3115183  
+ 
+ 
+ 
+The new reverberation time after placing the cushioned chairs is 1.3115 sec 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.13/13.sce #
+ 
+ 
+ 
+ OB  =
+ 
+    2.  
+ 
+ OC  =
+ 
+    7.  
+ 
+ OA  =
+ 
+    Inf  
+ 
+ 
+ 
+ A  =
+ 
+    0.  
+ 
+ B  =
+ 
+    0.5  
+ 
+ C  =
+ 
+    0.1428571  
+ 
+ X  =
+ 
+    7.  
+ 
+ Y  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+Miller indices are (1/Inf 1/2 1/7)=(0 7 2) 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.13/13.sce #
+ 
+ 
+ 
+ l  =
+ 
+    0.01  
+ 
+ b  =
+ 
+    0.001  
+ 
+ t  =
+ 
+    0.001  
+ 
+ temp  =
+ 
+    300.  
+ 
+ d  =
+ 
+    2.500D+19  
+ 
+ z  =
+ 
+    0.39  
+ 
+ zh  =
+ 
+    0.19  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ x  =
+ 
+    2.32  
+ 
+ r  =
+ 
+    0.4310345  
+ 
+ A  =
+ 
+    0.000001  
+ 
+ R  =
+ 
+    4310.3448  
+ 
+ 
+ 
+The resistance of an intrinsic Ge rod is 4310 ohm 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.13/13.sce #
+ 
+ 
+ 
+ a  =
+ 
+    4.000D-09  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ E  =
+ 
+    0.0235247  
+ 
+ 
+ 
+The lowest energy of electron in deep potential well is 0.02352 eV 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH9/EX9.13/13.sce #
+ 
+ 
+ 
+ AW  =
+ 
+    63.5  
+ 
+ M  =
+ 
+    1.054D-25  
+ 
+ d  =
+ 
+    8940.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ nc  =
+ 
+    8.481D+28  
+ 
+ Ef  =
+ 
+    7.0481471  
+ 
+ 
+ 
+The fermi energy for the sodium is 7.048 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH10/EX10.14/14.sce #
+ 
+ 
+ 
+ ec1  =
+ 
+    19.96  
+ 
+ ec2  =
+ 
+    79.44  
+ 
+ t1  =
+ 
+    333.  
+ 
+ t2  =
+ 
+    373.  
+ 
+ kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ Eg  =
+ 
+    1.183808  
+ 
+ 
+ 
+The band gap of an intrinsic semi conductor is 1.183808*10^-19 J 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.14/14.sce #
+ 
+ 
+ 
+ V  =
+ 
+    475.  
+ 
+ a1  =
+ 
+    0.025  
+ 
+ a2  =
+ 
+    0.02  
+ 
+ a3  =
+ 
+    0.55  
+ 
+ S1  =
+ 
+    200.  
+ 
+ S2  =
+ 
+    100.  
+ 
+ S3  =
+ 
+    100.  
+ 
+ 
+ 
+ TaS  =
+ 
+    62.  
+ 
+ T  =
+ 
+    1.2794355  
+ 
+ 
+ 
+The reverberation time for the hall is 1.2794 sec 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.14/14.sce #
+ 
+ 
+ 
+ a  =
+ 
+    3.6  
+ 
+ 
+ 
+ r  =
+ 
+    1.2727922  
+ 
+ 
+ 
+The atomic radius of copper is 1.273 armstrong 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.14/14.sce #
+ 
+ 
+ 
+ d  =
+ 
+    8.480D+28  
+ 
+ y  =
+ 
+    2.814D-09  
+ 
+ v  =
+ 
+    115360.  
+ 
+ t  =
+ 
+    20.  
+ 
+ Kb  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ K  =
+ 
+    189.92993  
+ 
+ 
+ 
+The thermal conductivity of copper is 189.93 W m^-1 K^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.14/14.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.000D-10  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ E1  =
+ 
+    37.639463  
+ 
+ E6  =
+ 
+    1355.0207  
+ 
+ E  =
+ 
+    1317.3812  
+ 
+ 
+ 
+The energy required the electron from its ground state to the fifth exited state is 1317 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.15/15.sce #
+ 
+ 
+ 
+ V  =
+ 
+    2265.  
+ 
+ Ta1S1  =
+ 
+    94.85  
+ 
+ 
+ 
+ T1  =
+ 
+    3.9879283  
+ 
+ Ta2S2  =
+ 
+    189.7  
+ 
+ T2  =
+ 
+    1.9939642  
+ 
+ 
+ 
+The reverberation time in the hall without audience is 3.988 sec 
+ The reverberation time in the hall with audience is 1.994 sec 
+ Thus,the reverberation reduces to half of its initial value when the audience fill the hall. 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.15/15.sce #
+ 
+ 
+ 
+ a  =
+ 
+    4.12  
+ 
+ h1  =
+ 
+    3.  
+ 
+ k1  =
+ 
+    2.  
+ 
+ l1  =
+ 
+    1.  
+ 
+ 
+ 
+ d  =
+ 
+    1.1011163  
+ 
+ 
+ 
+The inter planar d-spacing distance is 1.1011 armstrong 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.15/15.sce #
+ 
+ 
+ 
+ er  =
+ 
+    0.0000005  
+ 
+ t  =
+ 
+    300.  
+ 
+ r  =
+ 
+    0.013  
+ 
+ th  =
+ 
+    0.035  
+ 
+ L  =
+ 
+    2.440D-08  
+ 
+ 
+ 
+ K  =
+ 
+    14.64  
+ 
+ A  =
+ 
+    0.0005307  
+ 
+ Rt  =
+ 
+    4.5051641  
+ 
+ 
+ 
+The thermal conductivity of brass is 14.64 W m^-1 K^-1 
+ The thermal resistance of brass is 4.505 K W^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH8/EX8.15/15.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.000D-10  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ne  =
+ 
+    3.  
+ 
+ 
+ 
+ E  =
+ 
+    112.91839  
+ 
+ 
+ 
+The lowest energy of the system consisting of three electron ia a one dimensional box is 112.9184 eV 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH1/EX1.16/16.sce #
+ 
+ 
+ 
+ V  =
+ 
+    120000.  
+ 
+ T  =
+ 
+    1.55  
+ 
+ S  =
+ 
+    26500.  
+ 
+ 
+ 
+ TaS  =
+ 
+    12929.032  
+ 
+ a  =
+ 
+    0.4878880  
+ 
+ 
+ 
+The average absorbing power of the surface is 0.4879 sabine 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.16/16.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ A  =
+ 
+    63.54  
+ 
+ r  =
+ 
+    1.278D-10  
+ 
+ N  =
+ 
+    6.023D+26  
+ 
+ 
+ 
+ a  =
+ 
+    3.615D-10  
+ 
+ d  =
+ 
+    8934.4289  
+ 
+ 
+ 
+The density of copper is 8934 Kg/m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.16/16.sce #
+ 
+ 
+ 
+ x  =
+ 
+    58700000.  
+ 
+ k  =
+ 
+    380.  
+ 
+ t  =
+ 
+    293.  
+ 
+ 
+ 
+ L  =
+ 
+    2.2094179  
+ 
+ 
+ 
+Lorentz number is 2.2094 *10^-8 W.ohm.K^-2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.17/17.sce #
+ 
+ 
+ 
+ h1  =
+ 
+    1.  
+ 
+ k1  =
+ 
+    0.  
+ 
+ l1  =
+ 
+    0.  
+ 
+ h2  =
+ 
+    1.  
+ 
+ k2  =
+ 
+    1.  
+ 
+ l2  =
+ 
+    0.  
+ 
+ h3  =
+ 
+    1.  
+ 
+ k3  =
+ 
+    1.  
+ 
+ l3  =
+ 
+    1.  
+ 
+ a  =
+ 
+    1.  
+ 
+ 
+ 
+ d100  =
+ 
+    1.  
+ 
+ d110  =
+ 
+    0.7071068  
+ 
+ d111  =
+ 
+    0.5773503  
+ 
+ 
+ 
+The ratio of interplanar distance between successive lattice planes in a simple cubic lattice is d100:d110:d111=1:0.707:0.577 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH7/EX7.17/17.sce #
+ 
+ 
+ 
+ x  =
+ 
+    64000000.  
+ 
+ t  =
+ 
+    300.  
+ 
+ L  =
+ 
+    2.440D-08  
+ 
+ 
+ 
+ K  =
+ 
+    468.48  
+ 
+ 
+ 
+The thermal conductivity of copper is 468.48 W.m^-1.K^-1 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.18/18.sce #
+ 
+ 
+ 
+ x  =
+ 
+    23.  
+ 
+ y  =
+ 
+    35.45  
+ 
+ AW  =
+ 
+    58.45  
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    2180000.  
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ 
+ 
+ a  =
+ 
+    5.6258962  
+ 
+ r  =
+ 
+    2.8129481  
+ 
+ 
+ 
+The distance between two adjacent atoms is 2.81*10^-10 m 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.19/19.sce #
+ 
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ d  =
+ 
+    7860000.  
+ 
+ AW  =
+ 
+    55.85  
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ 
+ 
+ a  =
+ 
+    2.8681768  
+ 
+ r  =
+ 
+    1.241957  
+ 
+ 
+ 
+The atomic radius of Fe which has BCC structure is 1.242 armstrong 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.20/20.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    2700.  
+ 
+ AW  =
+ 
+    119.  
+ 
+ N  =
+ 
+    6.023D+26  
+ 
+ 
+ 
+ a  =
+ 
+    6.6396233  
+ 
+ 
+ 
+The lattice constant is 6.6 Armstrong 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.21/21.sce #
+ 
+ 
+ 
+ d  =
+ 
+    960.  
+ 
+ AW  =
+ 
+    23.  
+ 
+ N  =
+ 
+    6.023D+26  
+ 
+ a  =
+ 
+    4.300D-10  
+ 
+ 
+ 
+ n  =
+ 
+    1.9987645  
+ 
+ 
+ 
+Number of atoms per unit cell of a crystal is 2.00 
+ If n=2,the crystal system is body centered cubic. 
+ 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.22/22.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.200D-10  
+ 
+ 
+ 
+ a  =
+ 
+    2.771D-10  
+ 
+ V  =
+ 
+    2.128344  
+ 
+ 
+ 
+The volume of cell is 2.128*10^-29 m^3 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.23/23.sce #
+ 
+ 
+ 
+ a  =
+ 
+    0.0000004  
+ 
+ h1  =
+ 
+    1.  
+ 
+ k1  =
+ 
+    0.  
+ 
+ l1  =
+ 
+    0.  
+ 
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ A  =
+ 
+    1.600D-13  
+ 
+ d  =
+ 
+    6.25  
+ 
+ 
+ 
+The planar atomic density is 6.25*10^12 atoms/mm^2 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.24/24.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    6250.  
+ 
+ AW  =
+ 
+    60.2  
+ 
+ N  =
+ 
+    6.023D+26  
+ 
+ 
+ 
+ a  =
+ 
+    3.9993358  
+ 
+ 
+ 
+The lattice constant is 3.999*10^-10 Armstrong 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.25/25.sce #
+ 
+ 
+ 
+ r1  =
+ 
+    1.258D-10  
+ 
+ r2  =
+ 
+    1.292D-10  
+ 
+ T  =
+ 
+    910.  
+ 
+ 
+ 
+ a1  =
+ 
+    2.905D-10  
+ 
+ v1  =
+ 
+    1.226D-29  
+ 
+ a2  =
+ 
+    3.654D-10  
+ 
+ v2  =
+ 
+    1.220D-29  
+ 
+ V  =
+ 
+    0.4932572  
+ 
+ 
+ 
+The change in volume percentage is 0.49326 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.26/26.sce #
+ 
+ 
+ 
+ a  =
+ 
+    4.050D-10  
+ 
+ s  =
+ 
+    0.25  
+ 
+ t  =
+ 
+    0.00005  
+ 
+ 
+ 
+ ar  =
+ 
+    0.0625  
+ 
+ V  =
+ 
+    0.0000031  
+ 
+ v  =
+ 
+    6.643D-29  
+ 
+ n  =
+ 
+    4.7041911  
+ 
+ 
+ 
+The Number of unit cells is 4.7042*10^22 
+ 
+grepthis#Engineering_Physics_G._Vijayakumari_1931/CH3/EX3.27/27.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.605D-10  
+ 
+ 
+ 
+ a  =
+ 
+    3.210D-10  
+ 
+ c  =
+ 
+    5.242D-10  
+ 
+ V  =
+ 
+    0.9355351  
+ 
+ 
+ 
+The Volume of the unit cell of Magnesium which has HCP structure is 0.9355*10^-28 m^3 
+ 

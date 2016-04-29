@@ -1,0 +1,16 @@
+ERROR: Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.3/1_3.sce
+ 
+ all;
+   !--error 4 
+Undefined variable: all
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.3/1_3.sce',-1)
+ 
+ERROR: Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH13/EX13.14/13_14.sce
+ 
+ all;
+   !--error 4 
+Undefined variable: all
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH13/EX13.14/13_14.sce',-1)
+ 

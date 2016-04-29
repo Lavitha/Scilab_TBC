@@ -1,0 +1,529 @@
+grepthis#Digital_Image_Processing_R._C._Gonzalez_And_R._E._Woods_3176/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1.  
+    3.  
+    5.  
+    6.  
+    6.  
+    7.  
+    7.  
+    7.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Histogram Equalization:   
+ 
+ 
+    0.         
+    0.1928711  
+    0.         
+    0.2497559  
+    0.         
+    0.2075195  
+    0.2404785  
+    0.109375   
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Image_Processing_R._C._Gonzalez_And_R._E._Woods_3176/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Histogram Equalization:   
+ 
+ 
+    1.  
+    3.  
+    5.  
+    6.  
+    6.  
+    7.  
+    7.  
+    7.  
+ 
+ 
+ 
+ Histogram Specification G(Zq):   
+ 
+ 
+    0.  
+    0.  
+    0.  
+    1.  
+    2.  
+    5.  
+    6.  
+    7.  
+ 
+ 
+ 
+ 
+ 
+ Histogram After Matching:   
+ 
+ 
+    0.         
+    0.         
+    0.         
+    0.1928711  
+    0.2497559  
+    0.2075195  
+    0.2404785  
+    0.109375   
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 2
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Image_Processing_R._C._Gonzalez_And_R._E._Woods_3176/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 2
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Image_Processing_R._C._Gonzalez_And_R._E._Woods_3176/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ Original Signal:   
+ 
+ 
+    1.    2.    4.    4.  
+ 
+ 
+ 
+ 
+ DFT of Signal:   
+ 
+ 
+    11.              
+  - 3. + 2.i         
+  - 1. - 7.348D-16i  
+  - 3. - 2.i         
+ 
+ 
+ 
+ 
+ IDFT:   
+ 
+ 
+    1.  
+    2.  
+    4.  
+    4.  
+ 
+ 
+ 

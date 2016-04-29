@@ -1,0 +1,126 @@
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH9/EX9.9/ch9_9.sce
+ 
+ 
+ Example 9.9   
+ 
+
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans (H,1)
+at line       7 of exec file called by :    
+_Edminister_154/CH9/EX9.9/ch9_9.sce',-1
+ 
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch9_9.sce
+ 
+ 
+ Example 9.9   
+ 
+
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans (H,1)
+at line       7 of exec file called by :    
+minister_154/DEPENDENCIES/ch9_9.sce',-1
+ 
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH11/EX11.4/ch11_4.sce
+ 
+ 
+ Problem 11.4   
+ 
+
+ 
+ 
+Given 
+ 
+ Veff=110V Z=10+i8 ohm   
+ 
+ 
+ Z  =
+ 
+    10. + 8.i  
+ 
+ Zmag  =
+ 
+    12.806248  
+ 
+ Zph  =
+ 
+    38.659808  
+ 
+P=(Veff^2*R)/(Zmag^2)
+            !--error 4 
+Undefined variable: R
+at line      11 of exec file called by :    
+minister_154/CH11/EX11.4/ch11_4.sce',-1
+ 
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch11_4.sce
+ 
+ 
+ Problem 11.4   
+ 
+
+ 
+ 
+Given 
+ 
+ Veff=110V Z=10+i8 ohm   
+ 
+ 
+ Z  =
+ 
+    10. + 8.i  
+ 
+ Zmag  =
+ 
+    12.806248  
+ 
+ Zph  =
+ 
+    38.659808  
+ 
+P=(Veff^2*R)/(Zmag^2)
+            !--error 4 
+Undefined variable: R
+at line      11 of exec file called by :    
+inister_154/DEPENDENCIES/ch11_4.sce',-1
+ 
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH17/EX17.2/ch17_2.sce
+errcatch(-1,"stop");mode(2);syms t s ;
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+minister_154/CH17/EX17.2/ch17_2.sce',-1
+ 
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch17_2.sce
+errcatch(-1,"stop");mode(2);syms t s ;
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+inister_154/DEPENDENCIES/ch17_2.sce',-1
+ 
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH17/EX17.4/ch17_4.sce
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+minister_154/CH17/EX17.4/ch17_4.sce',-1
+ 
+ERROR: Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch17_4.sce
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+inister_154/DEPENDENCIES/ch17_4.sce',-1
+ 

@@ -1,0 +1,395 @@
+ERROR: Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.5/10_5.sce
+ 
+ 
+ x  =
+ 
+    0.97  
+ 
+ P  =
+ 
+    100.  
+ 
+ 
+ 
+ From table 2,   
+ 
+ hf  =
+ 
+    298.4  
+ 
+ hfg  =
+ 
+    888.8  
+ 
+ hx  =
+ 
+    1160.536  
+ 
+ hg  =
+ 
+    1187.2  
+ 
+ hx2  =
+ 
+    1160.536  
+ 
+ 
+Accurate Enthalpy = 1160.5 B/lb 
+printf("\n Enthalpy = %d B/lb")
+                                !--error 999 
+mprintf: Wrong number of input arguments: data do not fit with format.
+at line      14 of exec file called by :    
+A._Mooney_1472/CH10/EX10.5/10_5.sce',-1
+ 
+ERROR: Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH11/EX11.5.c/11_5c.sce
+ 
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    2460.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    0.276  
+ 
+ cv  =
+ 
+    0.207  
+ 
+ T2  =
+ 
+    1520.  
+ 
+ 
+ h1  =
+ 
+    634.4  
+ 
+ pr1  =
+ 
+    407.3  
+ 
+ pr2  =
+ 
+    61.095  
+ 
+ 
+ From table 1,   
+ 
+ T2  =
+ 
+    1535.  
+ 
+ h2  =
+ 
+    378.44  
+ 
+ dh  =
+ 
+  - 255.96  
+ 
+ v2  =
+ 
+    37.905972  
+ 
+dv=v2-v1
+        !--error 4 
+Undefined variable: v1
+at line      19 of exec file called by :    
+Mooney_1472/CH11/EX11.5.c/11_5c.sce',-1
+ 
+ERROR: Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH16/EX16.2/16_2.sce
+ 
+ 
+ e  =
+ 
+    0.75  
+ 
+ Ta  =
+ 
+    870.  
+ 
+ Tc  =
+ 
+    1075.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ Td  =
+ 
+    550.  
+ 
+ 
+ Tadash  =
+ 
+    1023.75  
+ 
+ Tcdash  =
+ 
+    921.25  
+ 
+Q1=cp*(Tb-Tadash)
+         !--error 4 
+Undefined variable: Tb
+at line      11 of exec file called by :    
+A._Mooney_1472/CH16/EX16.2/16_2.sce',-1
+ 
+ERROR: Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH17/EX17.1.b/17_1b.sce
+ 
+ 
+ k  =
+ 
+    1.3  
+ 
+ P  =
+ 
+    100.  
+ 
+ 
+ Pratio  =
+ 
+    0.5457277  
+ 
+ Pt  =
+ 
+    54.572773  
+ 
+ 
+ From table 3,   
+ 
+ ht  =
+ 
+    1221.5  
+ 
+ vt  =
+ 
+    8.841  
+ 
+at=w*vt/1700
+     !--error 4 
+Undefined variable: w
+at line      11 of exec file called by :    
+Mooney_1472/CH17/EX17.1.b/17_1b.sce',-1
+ 
+ERROR: Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH17/EX17.3.b/17_3b.sce
+ 
+ 
+ h0  =
+ 
+    191.81  
+ 
+ Pr0  =
+ 
+    5.526  
+ 
+ w  =
+ 
+    1.  
+ 
+ Pratio  =
+ 
+    0.53  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T0  =
+ 
+    800.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ P0  =
+ 
+    150.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ 
+ Prt  =
+ 
+    2.92878  
+ 
+ 
+ From keenan and kaye steam tables,   
+ 
+ Pr  =
+ 
+    2.929  
+ 
+ Tts  =
+ 
+    668.  
+ 
+ hts  =
+ 
+    159.9  
+ 
+ Vts  =
+ 
+    1264.4339  
+ 
+vts=53.34*Tts/(Pt*144)
+                 !--error 4 
+Undefined variable: Pt
+at line      19 of exec file called by :    
+Mooney_1472/CH17/EX17.3.b/17_3b.sce',-1
+ 
+ERROR: Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH21/EX21.3/21_3.sce
+ 
+ 
+ R  =
+ 
+    53.34  
+ 
+ T1  =
+ 
+    540.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ g  =
+ 
+    1.4  
+ 
+ n2  =
+ 
+    1.3  
+ 
+ P2  =
+ 
+    90.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ cv  =
+ 
+    0.171  
+ 
+ eta  =
+ 
+    0.95  
+ 
+ 
+ pv  =
+ 
+    28803.6  
+ 
+ Wk  =
+ 
+    67394.276  
+ 
+ Wn  =
+ 
+    63914.962  
+ 
+ Wt  =
+ 
+    51609.123  
+ 
+ Wx  =
+ 
+  - 70941.343  
+ 
+dh=cp*T1*(1.52 - 1)
+     !--error 4 
+Undefined variable: cp
+at line      18 of exec file called by :    
+A._Mooney_1472/CH21/EX21.3/21_3.sce',-1
+ 
+ERROR: Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH23/EX23.4/23_4.sce
+ 
+ 
+ V1  =
+ 
+    587.  
+ 
+ etaD  =
+ 
+    0.9  
+ 
+ etaC  =
+ 
+    0.8  
+ 
+ h1  =
+ 
+    114.69  
+ 
+ P1  =
+ 
+    10.  
+ 
+ P6  =
+ 
+    10.  
+ 
+ dhB  =
+ 
+  - 19100.  
+ 
+ T1  =
+ 
+    480.  
+ 
+ 
+ h2s  =
+ 
+    120.87947  
+ 
+ 
+ From tables,   
+ 
+ Pr2s  =
+ 
+    1.104  
+ 
+ Pr1  =
+ 
+    0.9182  
+ 
+ P2  =
+ 
+    12.023524  
+ 
+ h2  =
+ 
+    121.56719  
+ 
+ T2  =
+ 
+    509.  
+ 
+ Pr2  =
+ 
+    1.127  
+ 
+Pr3s=Pr2*P3/P2
+           !--error 4 
+Undefined variable: P3
+at line      20 of exec file called by :    
+A._Mooney_1472/CH23/EX23.4/23_4.sce',-1
+ 

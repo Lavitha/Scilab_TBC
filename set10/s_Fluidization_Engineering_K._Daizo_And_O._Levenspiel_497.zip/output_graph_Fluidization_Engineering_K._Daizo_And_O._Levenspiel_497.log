@@ -1,0 +1,160 @@
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH10/EX10.1/Chap10_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+		Kbc for fine particles and He	Kbc for coarse particles and ozone	Kbe for fine particles and He	Kbe for coarse particles and ozone
+db=0.050000m	0.015193			0.003335				0.052085			0.006930			
+db=0.100000m	0.007104			0.001434				0.025121			0.002964			
+db=0.150000m	0.004568			0.000875				0.016434			0.001803			
+db=0.200000m	0.003345			0.000616				0.012173			0.001266			 
+ 
+ 
+ 
+ 
+
+Comparing the points with the plot of Kbc,Kbe vs db in Fig.(12), we can conlcude the following: 
+
+Kbc for fine particles and helium: line 2 in Fig.(12) 
+
+Kbc for coarser particles and ozone: line 3 in Fig.(12) 
+
+Kbe for fine particles and helium: line 4 in Fig.(12) 
+
+Kbe for coarser particles and ozone: line 5 in Fig.(12) 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH11/EX11.1/Chap11_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The desired result is the relationship between Shbed and Rep  The points gives a straight line of the form y=mx+c 
+
+Rep 
+		Shbed 
+ 
+
+1.835556	0.076975
+3.671111	0.164546
+5.506667	0.252117
+7.342222	0.339688
+9.177778	0.427259 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH11/EX11.3/Chap11_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The desired result is the relationship between Nubed and Rep which is in the form of a straight line y=mx+c 
+
+Rep 
+		Nubed 
+ 
+
+2.360000	0.046518
+4.720000	0.179427
+7.080000	0.312335
+9.440000	0.445244
+11.800000	0.578152 
+ 
+ 
+ 
+ 
+ 

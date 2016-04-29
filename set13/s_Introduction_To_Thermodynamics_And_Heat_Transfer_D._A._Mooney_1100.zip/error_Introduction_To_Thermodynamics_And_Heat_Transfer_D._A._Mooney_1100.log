@@ -1,0 +1,96 @@
+ERROR: Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.6/10_6.sce
+ 
+ 
+ P  =
+ 
+    15.  
+ 
+ S  =
+ 
+    1.705  
+ 
+ sg  =
+ 
+    1.7549  
+ 
+ sfg  =
+ 
+    1.4415  
+ 
+ hg  =
+ 
+    1150.8  
+ 
+ hfg  =
+ 
+    969.7  
+ 
+ vg  =
+ 
+    26.29  
+ 
+ vfg  =
+ 
+    26.27  
+ 
+ 
+n= (sg-sx)/sfg
+         !--error 4 
+Undefined variable: sx
+at line      12 of exec file called by :    
+A._Mooney_1100/CH10/EX10.6/10_6.sce',-1
+ 
+ERROR: Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH14/EX14.4/14_4.sce
+ 
+ 
+ mO2  =
+ 
+    1.33  
+ 
+ mCO2  =
+ 
+    3.67  
+ 
+ CvO2  =
+ 
+    0.155  
+ 
+ CvCO2  =
+ 
+    0.165  
+ 
+ Cc  =
+ 
+    0.17  
+ 
+ t2  =
+ 
+    1000.  
+ 
+ tB  =
+ 
+    68.  
+ 
+ t  =
+ 
+    300.  
+ 
+ mC  =
+ 
+    1.  
+ 
+ mO  =
+ 
+    4.  
+ 
+ 
+ deltaE1  =
+ 
+    756.5044  
+ 
+deltaE2=mC*CC*(tB-t) + mO*CvO2*(tB-t)
+             !--error 4 
+Undefined variable: CC
+at line      15 of exec file called by :    
+A._Mooney_1100/CH14/EX14.4/14_4.sce',-1
+ 

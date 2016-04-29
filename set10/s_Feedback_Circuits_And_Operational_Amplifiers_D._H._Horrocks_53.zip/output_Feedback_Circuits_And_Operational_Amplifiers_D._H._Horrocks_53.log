@@ -1,0 +1,1079 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 27
+
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH2/EX2.1/example_1.sce #
+ 
+ 
+ Given: 
+ 
+ value of A=1000   
+ 
+ A  =
+ 
+    1000.  
+ 
+ 
+ Magnitude of d loop gain with feedback,Af=10   
+ 
+ Af  =
+ 
+    10.  
+ 
+ 
+ Af=(A)/(1+A*b)   
+ 
+ 
+ b=((A/Af)-1)*(1/A)   
+ 
+ b  =
+ 
+    0.099  
+ 
+ The value of b is 0.099000 
+ 
+ A  =
+ 
+    779.42286 - 450.i  
+ 
+ 
+ If,A becomes 900angle(-30 degrees)   
+ 
+ 
+ Af=(A)/((1+A*b))   
+ 
+ Af  =
+ 
+    10.003467 - 0.0555958i  
+ 
+ r  =
+ 
+    10.003467  
+ 
+ i  =
+ 
+  - 0.0555958  
+ 
+ The value of Af is (10.003467)+i(-0.055596) 
+ t  =
+ 
+  - 0.0055577  
+ 
+ t  =
+ 
+  - 0.3184334  
+ 
+ m  =
+ 
+    10.003622  
+ 
+
+ Af=10.003622angle(-0.318433 degrees) 
+
+ Af=10.004angle(-0.32 degrees) 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH3/EX3.1/example_1.sce #
+ 
+ 
+ Given: 
+ 
+ The value of Rin=Rout=100kohms,Rload=1kohm,Kv=100   
+ 
+ Rin  =
+ 
+    100.  
+ 
+ Rout  =
+ 
+    100.  
+ 
+ Rload  =
+ 
+    1.  
+ 
+ Kv  =
+ 
+    100.  
+ 
+ 
+ All resistances are in kohms   
+ 
+ 
+ The whole two stage amplifier is fed by a generator having a voltage of Eg=1mV when no load and having self resistance Rg=20kohms   
+ 
+ Eg  =
+ 
+    0.001  
+ 
+ Rg  =
+ 
+    20.  
+ 
+ 
+ Since amplifiers are identical   
+ 
+ 
+ Rin1=Rin   
+ 
+ 
+ Rin2=Rin   
+ 
+ 
+ Rout1=Rout   
+ 
+ 
+ Rout2=Rout   
+ 
+ Rin1  =
+ 
+    100.  
+ 
+ Rin2  =
+ 
+    100.  
+ 
+ Rout1  =
+ 
+    100.  
+ 
+ Rout2  =
+ 
+    100.  
+ 
+ 
+ Vout2 is given by equation   
+ 
+ 
+ Vout2=((Eg)*(Rin1/(Rg+Rin1)))*(Kv)*(Rin2/(Rout1+Rin2))*(Kv)*(Rload/(Rout2+Rload))   
+ 
+ Vout2  =
+ 
+    0.0412541  
+ 
+ Therefore Vout2=0.041254 
+ 
+ Vin is given by equation    
+ 
+ 
+ Vin=(Eg*(Rin1/Rg+Rin1))   
+ 
+ Vin  =
+ 
+    0.0008333  
+ 
+ 
+ Now overall gain    
+ 
+ 
+ Av=(Vout2/Vin)   
+ 
+ Av  =
+ 
+    49.50495  
+ 
+ Therefore Vout2=0.041254 and overall voltage gain Av=49.504950 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH4/EX4.1/example_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS:
+ 
+Input resistance after feedback is applied Zif=101Kohms 
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH5/EX5.1/example_1.sce #
+ 
+ 
+Given: 
+R=10 Kohms,
+R1=20Kohms,
+R2=5Kohms,
+hfe=100Kohms,hie=1Kohm,
+Rc=1Kohm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Therefore Bg=-0.00010
+ 
+RT=input current coupling factor*-hfe*effective cdollector resistance
+ 
+RT=(R1||R2||R)/((R1||R2||R)+hfe)*hfe*(Rc||R)
+ 
+ 
+ 
+ 
+RT=-67.3Kohms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS:
+ 
+RT=-67.3Kohms
+ 
+Zi=740.7ohms
+ 
+Zo=909ohms
+ 
+Closed-loop gain,RTf=-8.71Kohms
+ 
+Closed-loop input resistance,rif=95ohms
+ 
+Closed-loop output resistance,rof=117ohms
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH6/EX6.1/example_1.sce #
+ 
+ 
+ 
+ 
+Av=(-R2/R1)
+Therefore R2=-Av*R1 
+ 
+
+RESULTS:
+ 
+The design values are R1=1 Kohms and R2=100 Kohms 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH7/EX7.1/example_1.sce #
+ 
+ 
+ 
+ 
+ 
+
+Vout=A*Vos
+ 
+ 
+RESULTS:
+ 
+The maximum output voltage Vout=1000 V 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH8/EX8.1/example_1.sce #
+ 
+ 
+Gain of an difference amplifier Adm=(1+(R2/R1))/(1+(R3/R4))
+ 
+Let (R2/R1)=A and (R3/R4)=B
+ 
+Therefore Adm=(1+A)/(1+B)
+ 
+A=Adm, 
+gives B=1/Adm
+ 
+ 
+ 
+By suitable selection of resistors say R1=R2=1 Kohm 
+ 
+ 
+ 
+ 
+
+RESULTS:
+ 
+Reasonable set of resistors R1=1 Kohm,R2=100 Kohms,R3=1 Kohm,R4=100 Kohms. 
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH9/EX9.1/example_1.sce #
+ 
+ 
+ 
+ Given frequency fo=10 KHz,Vrms=5 V,phi=10 degrees\n   
+ 
+ 
+ Taking A=C3*R4\n   
+ 
+ 
+ 
+ 
+ phi=180-2(atan(2*%pi*f*A))   
+ 
+ 
+Therefore A=C3*R4=0.001819 sec.
+ 
+ 
+C3 and R4 values are selected such that their product equals or greater than 0.001819, The above values are preferable for low cost and bias compensation 
+ 
+
+C3=0.181915 uF 
+ 
+ To lower the cost of design,the preferred value is C31=0.22uF   
+ 
+ 
+ 
+ since,C31*R4>A,C31 can be preferred   
+ 
+Similarly, R1 and R2 values should be of Good matching to obtain accurate unity gain modulus  
+RESULTS:
+ 
+(i)Resistors, R1=R2=10Kohms
+ 
+(iii)R4=10 Kohms
+ 
+(iii)Capacitor, C3=0.22 uF
+ 
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH2/EX2.2/example_2.sce #
+ 
+ 
+ Given:   
+ 
+ 
+ Af=10+0.2% or 10-0.2%   
+ 
+ 
+ -->Af=10 and dAf/Af=0.2%   
+ 
+ 
+ The available amplifiers are with gains 50,500,5000   
+ 
+ 
+ dA/A=20%   
+ 
+ 
+ We have from formula   
+ 
+ 
+ dAf/Af=(1/(1+A*b))*(dA/A)   
+ 
+ 
+ let f=0.2%=(dAf/Af),a=20%=(dA/A),k=(1+A*b)   
+ 
+ 
+ Therefore we have:   
+ 
+ 
+ Af=10
+ 
+ 
+ f=0.002000
+ 
+ 
+ a=0.200000 
+ 
+ Therefore,the above formula becomes f=(1/k)*a   
+ 
+ k  =
+ 
+    100.  
+ 
+ Therefore (1=A*b)>=100,but,A=(1+A*b)*Af 
+ l  =
+ 
+    1000.  
+ 
+ 
+ A>=k*Af   
+ 
+ Therefore we got the value of A to be >=1000 
+
+ Therefore A=5000 satisfies the obtained condition.Therefore A=5000 is most economical 
+ A  =
+ 
+    5000.  
+ 
+ b  =
+ 
+    0.0998  
+ 
+ The value of b is 0.099800 
+ 
+ Pratical values of A are 4000 and 6000,since dA/A=(+-20%) and A=5000   
+ 
+ 
+ Therefore    
+ 
+ Afmin  =
+ 
+    9.9950025  
+ 
+ Afmax  =
+ 
+    10.003334  
+ 
+ Afmin=9.995 
+ 
+(0.05 percent low) 
+
+ Afmax=10.003 
+ 
+ 
+(0.03 percent high)  
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH3/EX3.2/example_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vout=Vin*(input voltage coupling)*Kv*(output voltage coupling)   
+ 
+ 
+ (i)Mid band gain   
+ 
+ 
+ Av=(Vout/Vin)=Kv*(Rload/(rout+Rload))   
+ 
+ 
+ 
+ (ii)For the upper half-power frequency   
+ 
+ 
+ fu=(1/(2*%pi))*(1/(C2*(rout||Rload)))   
+ 
+ 
+ 
+ 
+ (iii)For coupling capacitance C    
+ 
+ 
+ fl=(1/(2*%pi))*(1/(C*rin))   
+ 
+ 
+ 
+ C=1/(2*%pi*fl*rin)   
+ 
+ 
+ 
+ RESULTS:\n   
+ 
+(i)Mid-band gain=80
+ 
+(ii)Upper half-power frequency=3.98 MHz
+ 
+(iii)Coupling capacitance C for fl to be 10Hz is 1.59 uF
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH4/EX4.2/example_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS:
+ 
+Input impedance after feedback applied is Zif=99 Ohms 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH5/EX5.2/example_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Av=ri1/(ri1+(R1||R2))*(Vo/Via)   
+ 
+ 
+ Av=(1*hfe/2)*(ri1/(ri1+(R1||R2)))*(Rc||(R1+R2))/hie   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d-loop gain, Avf=Av/C,where C=1+Av*Bv   
+ 
+ 
+ 
+ 
+ d-loop input resistance, rif=ri*C   
+ 
+ 
+ 
+ 
+ d-loop output resistance, rof=ro/C,where C=1+Av*Bv   
+ 
+ 
+RESULTS:
+ 
+Closed-loop gain,Avf=5.32(previously 5.66)
+ 
+Closed-loop input resistance,rif=32.2 Kohms(previously 35.3Kohms)
+ 
+Closed-loop output resistance,rof=195 Ohms(previously 113 ohms)
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH6/EX6.2/example_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Circuit gain Av=-9.9995 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH7/EX7.2/example_2.sce #
+ 
+A=1+(R1/R2)
+ 
+ 
+ 
+Vout=-A*Vos 
+ 
+ 
+
+RESULTS:
+ 
+Output offset voltage is Vout=-50 mV 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH8/EX8.2/example_2.sce #
+ 
+ 
+Adm=100=10*10,therefore it requires(R2/R1)=10 Kohms and (R4/R3)=10 Kohms
+ 
+Therefore if R1=R3=10 Kohms, then R2=R4=100 kohms
+ 
+ 
+ 
+ 
+ 
+Adm=(1+2(Rb/Ra))*R4/R3
+ 
+(Rb/Ra)=B
+ 
+Adm=(1+2*B)*R4/R3
+ 
+ 
+Rb/Ra=4.5
+ 
+If Ra=10 Kohms
+ 
+ 
+ 
+
+RESULTS:
+ 
+The value of resistors are R1=10 Kohms,R2=100 Kohms,R3=10 Kohms,R4=100 Kohms,Ra=10 Kohms,Rb=45 Kohms 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH9/EX9.2/example_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fl2=1/(2*%pi*C2*R3)   
+ 
+ 
+ C2=1/(2*%pi*fl2*R3)   
+ 
+ 
+ 
+ Av=1+(R2/R1)   
+ 
+ 
+ Bias compensation can also be obtained by taking R2=R3=1MHz   
+ 
+ 
+ 
+ R1=1/(Av-1)*R2   
+ 
+ 
+R1=10.1 Kohms, preferred and standard value is 10Kohms
+ 
+ 
+ 
+ 
+ fl1=1/(2*%pi*C1*R3)   
+ 
+ 
+ C1=1/(2*%pi*fl1*R3)   
+ 
+ 
+RESULTS: Design summary
+ 
+R1=10.1 Kohms, preferred and standard value is 10Kohms
+ 
+R2=R3=1 Mohm
+ 
+C1=1.59 uF but standard and preferred value is 2.2 uF
+ 
+C2=15.9 nF but standard and preferred value is 22 uF
+ 
+ 
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH3/EX3.3/example_3.sce #
+ 
+ 
+ given:   
+ 
+ 
+ The voltage generated by an transducer which is connected to differential amplifier is Vdm=50mV    
+ 
+ Vdm  =
+ 
+    0.05  
+ 
+ 
+ Vcm=5V   
+ 
+ Vcm  =
+ 
+    5.  
+ 
+ 
+ Vout should be equal to 10V   
+ 
+ Vout  =
+ 
+    10.  
+ 
+ 
+ The unwanted output component owing to the common-mode input is to be less than 1% of the wanted component i.e Voutcm=1% of Voutdm   
+ 
+ Voutcm  =
+ 
+    0.1  
+ 
+ Voutcm=0.100000 
+ 
+ Let amplifier differential-mode gain be Adm   
+ 
+ 
+ Vout,Admand Vdm are related as   
+ 
+ 
+ Vout=Adm*Vdm------(1)   
+ 
+ 
+ Adm=Vout/Vdm   
+ 
+ Adm  =
+ 
+    200.  
+ 
+ Therefore amplifier differential-mode gain(Adm)=200 
+ 
+ Equation (1)can also be used for calculating unwanted output component   
+ 
+ 
+ Unwanted components arise when operating in common-mode   
+ 
+ 
+ Acm=Voutcm/Vcm   
+ 
+ Acm  =
+ 
+    0.02  
+ 
+ Common-mode gain Acm=0.020000 
+ 
+ Now CMRR can be calculated using relation   
+ 
+ 
+ CMRR=Adm/Acm   
+ 
+ CMRR  =
+ 
+    10000.  
+ 
+ There fore CMRR of amplifier should be greater than or equal to 10000.000000 
+ CMRR&gt;=10000 
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH4/EX4.3/example_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS
+ 
+d-loop gain,Rtf=-8.89Kohms
+ 
+d-loop input resistance rif=89 Ohms
+ 
+d-loop output resistance rof=111 Ohms 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH8/EX8.3/example_3.sce #
+ 
+ 
+ 
+Capacitance C,Resistance R and Frequency fo are related as C*R=1/(2*pi*fo)
+ 
+If C*R=A
+ 
+ 
+ 
+ 
+ 
+Taking C=0.01microfarad, we get R=1.59 Kohms
+ 
+Gain of a non-inverting amplifier should be 3 i.e. Av=1+(R1/R2)=3
+ 
+This gives (R1/R2)=2, by selecting R2=10 Kohms, we get R1=20 Kohms
+ 
+ 
+ 
+The gain must be restricted between 2.8 to 3.2, by selecting proper resistors Ra and Rb such that R1=Ra||Rb this can be achieved.
+ 
+These values of Ra and Rb comes out to be Ra=22Kohms and Rb=220Kohms
+ 
+RESULTS:
+ 
+design values are R=1.59 Kohms, C=0.01 microFarad,Ra=22 Kohms,Rb=220 Kohms
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH9/EX9.3/example_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It is convenient to choose R=100Kohms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS:
+ 
+R=100Kohms,
+R1=50Kohms,
+R3=100Kohms,
+R4=100Kohms,
+C2=0.283 nF,
+C5=35.4uF 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH4/EX4.4/example_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS
+ 
+(i)voltage amplification Avf=5.66, This accords with the previous value of Avf=6
+ 
+(ii)input resistance after feed back rif=35.3Kohms
+ 
+(iii)input resistance after feed back rof=113Kohms
+ 
+ 
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH5/EX5.4/example_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ open loop forward current amplification A1=io/i   
+ 
+ 
+ 
+ ib=input-current coupling factor*iia   
+ 
+ 
+ ib=(R1+R2)*iia/(R1+R2+hie)   
+ 
+ 
+ 
+ V2=(-hfe)*(Rc1||ri2)*ib   
+ 
+ 
+ ri2=hie+(1+hfe)*(R1||R2)   
+ 
+ 
+ 
+ 
+ io/V2=C=-hfe/(hie+(1+hfe)*(R1||R2))   
+ 
+ 
+ 
+ Open loop current gain=A1=io/i=(ib/i)*(V2/ib)*(io/V2)   
+ 
+ 
+ 
+ Open-loop input resistance, ri=(R1+R2)||hie   
+ 
+ 
+ 
+ Open-loop output resistance ro as seen by the load resistance Rc2 is infinitely large since the load is in series with the infinitely large c 
+      ollector resistance of the transistor.                                                                                                   
+ 
+ 
+ Closed-loop current gain,A1f=A1/(1+A1*B1)   
+ 
+ 
+ 
+    5.8670335  
+ 
+ 
+ Closed-loop input resistance,rif=ri/(1+A1*B1)   
+ 
+ 
+ 
+    20.45639  
+ 
+ 
+ Closed-loop output resistance,rof=ro(1+A1*B1), since ro is infinitely large,the rof is also large infinitely..   
+ 
+ RESULTS:
+
+ 
+ A1f=5.87,
+
+ 
+ rif=20.5 ohms,
+
+ 
+ rof=infinite
+
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH6/EX6.4/example_4.sce #
+ 
+ 
+Av=1+(R1/R2)
+ 
+ 
+ 
+R1=(Av-1)*R2 
+ 
+
+RESULTS:
+ 
+The design values are R1=99 Kohms and R2=1 Kohm 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH7/EX7.4/example_4.sce #
+ 
+ 
+ Av=-(R2/R1)*(A*B/1+A*B), where A-differential gain and B=R1/R1+R2   
+ 
+ 
+ When A*B&gt;&gt;1,Av=-(R2/R1)=Av1   
+ 
+ 
+ 
+ abs(A)&gt;&gt;1+(R2/R1)=1+abs(Av1)   
+ 
+ 
+ 
+ Because the cross over point occurs at a significantly higher frequency than the dominant frequency at 10Hz    
+ 
+ 
+ The phase angle of A is very  to -90degrees=%pi/2 radians   
+ 
+ 
+ Using the j-notation the gain A at the crossover point is equal to %i*11   
+ 
+ 
+ 
+ 1+abs(Av1)=(R1+R2)/R1   
+ 
+ 
+ 
+ 
+ The d-loop gain at the cross over point is thus reduced by a factor -0.707107 and therefore point corresponds to upper half-power frequency which is 90KHz 
+ 
+ Therefore fh=90KHz, fl=0KHz   
+ 
+ 
+ 
+ 
+ Bandwidth BW=fh-fl   
+ 
+ 
+ RESULTS:
+ 
+ The d-loop bandwidth is 90 KHz 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH5/EX5.5/example_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unloaded feedback fraction,Bg=-1/R   
+ 
+ 
+ open loop gain,RTs=Vo/Jg=input current coupling factor*Kr*output voltage coupling factor   
+ 
+ 
+RTs=-568 ohms 
+ 
+ Open-loop input resistance,ris=rg||R||ri1   
+ 
+ 
+
+ris=625 ohms 
+ 
+ Open-loop output resistance,ros=ro1||R||rl   
+ 
+ 
+ros=1250 Ohms 
+ 
+ Closed-loop gain,RTf=RTs/(1+RTs*Bg)   
+ 
+ 
+
+RTfs=-9.83 Kohms 
+ 
+ Closed-loop input resistance,rifs=ris/(1+RTs*Bg)   
+ 
+ 
+rifs=10 Ohms 
+ 
+ Closed-loop output resistance,rof=ros/(1+RTs*Bg)   
+ 
+ 
+rofs=21.6 Ohms 
+RESULTS:
+ 
+ 
+
+(i)The output voltage=-9.83 V 
+ 
+ rifs=rif*rg/(rif+rg)==>rif=rg*rifs/(rg-rifs)   
+ 
+ 
+
+(ii)The input resistance seen by the actual signal source is 10.9 Ohms 
+ 
+ rofs=rof*rl/(rof+rl)==>rof=rl*rofs/(rl-rofs)   
+ 
+ rof  =
+ 
+    21.713383  
+ 
+
+(iii)The output resistance seen by the load is 21.7 Ohms 
+(iV)The d-loop gain of the amplifier 
+ 
+ RTf=Vo/i1,where   
+ 
+ 
+ i1=current coupling factor*Jg=rg*Jg/(rg+rif)   
+ 
+ 
+(iV)The d-loop gain of the amplifier circuit is -9.88 Kohms 
+ 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH7/EX7.5/example_5.sce #
+ 
+ 
+ 
+
+Given operating power supplies +-12V
+ 
+For 741 op-amp,the output can work typically to within 1V of the power supplies.
+So,Vom=11V
+ 
+ 
+f=(1/(2*pi))*(SR/Vom)
+ 
+ 
+RESULTS:
+ 
+Full-power bandwidth frequency f=7234 Hz 
+grepthis#Feedback_Circuits_And_Operational_Amplifiers_D._H._Horrocks_53/CH5/EX5.6/example_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The gain bandwidth product of the transistor is 2*(10^8),which is greater the minimum required i.e. 1*(10^8) and therefore the transistor is suitable
+ 
+ 
+ Acl=A/(1+A*B)==&gt; B =(1/A)*(A/Acl-1)\n   
+ 
+ 
+Required value of B is 0.09 

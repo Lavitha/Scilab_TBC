@@ -1,0 +1,14434 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 319
+
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.1/Ex1_1.sce #
+ 
+ f1  =
+ 
+    120.  
+ 
+ f2  =
+ 
+    100.  
+ 
+ theta  =
+ 
+    1.0471976  
+ 
+ 
+ R  =
+ 
+    111.35529  
+ 
+ alpha1  =
+ 
+    69.430008  
+ 
+ alpha  =
+ 
+    339.43001  
+ 
+ 
+ 
+The Resultant of The force system is equal to:111.355287 N
+  
+The Resultant is at:339.430008 degrees 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.2/Ex1_2.sce #
+ 
+ P  =
+ 
+    100.  
+ 
+ Q  =
+ 
+    120.  
+ 
+ theta  =
+ 
+    0.5235988  
+ 
+ 
+ R_x  =
+ 
+    103.92305  
+ 
+ R_y  =
+ 
+  - 40.  
+ 
+ R  =
+ 
+    111.35529  
+ 
+ Theta_1  =
+ 
+  - 21.051724  
+ 
+ Theta_R  =
+ 
+    338.94828  
+ 
+ 
+ 
+The resultant of the force system is:111.355287 N
+ 
+The resultant is at:338.948276 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.3/Ex1_3.sce #
+ 
+ R  =
+ 
+    400.  
+ 
+ F2  =
+ 
+    200.  
+ 
+ Theta1  =
+ 
+    2.0943951  
+ 
+ Theta2  =
+ 
+    0.3490659  
+ 
+ Theta  =
+ 
+    1.7453293  
+ 
+ 
+ F  =
+ 
+    477.26692  
+ 
+ Theta_r  =
+ 
+    0.9708621  
+ 
+ Theta_R  =
+ 
+    55.6263  
+ 
+ 
+ 
+The resultant of the force system is:477.266915 N 
+ 
+The Angle between F and 200N force is :55.626300 degrees 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.4/Ex1_4.sce #
+ 
+ F1  =
+ 
+    280.  
+ 
+ F2  =
+ 
+    130.  
+ 
+ Theta1  =
+ 
+    5.5850536  
+ 
+ Theta2  =
+ 
+    1.0471976  
+ 
+ 
+ R_x  =
+ 
+  - 149.49244  
+ 
+ R_y  =
+ 
+  - 292.56383  
+ 
+ R  =
+ 
+    328.54465  
+ 
+ ThetaR  =
+ 
+    1.0984083  
+ 
+ Theta_R  =
+ 
+    297.06584  
+ 
+ 
+ 
+The resultant of the force system is:328.544650 N
+ 
+The resultant is at:297.065841 degrees 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.5/Ex1_5.sce #
+ 
+ F1  =
+ 
+    26.  
+ 
+ F2  =
+ 
+    39.  
+ 
+ F3  =
+ 
+    63.  
+ 
+ F4  =
+ 
+    57.  
+ 
+ T1  =
+ 
+    0.1745329  
+ 
+ T2  =
+ 
+    1.9896753  
+ 
+ T3  =
+ 
+    3.1939525  
+ 
+ T4  =
+ 
+    4.5553093  
+ 
+ 
+ R_x  =
+ 
+  - 62.088153  
+ 
+ R_y  =
+ 
+  - 19.452275  
+ 
+ R  =
+ 
+    65.064043  
+ 
+ theta  =
+ 
+    0.3036144  
+ 
+ Theta  =
+ 
+    17.395822  
+ 
+ Theta_R  =
+ 
+    197.39582  
+ 
+ 
+ 
+The Resultant of the force system is:65.064043 lb
+ 
+The resultant is at:197.395822 degrees 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.6/Ex1_6.sce #
+ 
+ F  =
+ 
+    10.  
+ 
+ theta1  =
+ 
+    1.0471976  
+ 
+ theta2  =
+ 
+    0.7853982  
+ 
+ theta  =
+ 
+    0.2617994  
+ 
+ 
+ F_OH  =
+ 
+    10.352762  
+ 
+ 
+ 
+The component of F in the direction of OH is:10.352762 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.7/Ex1_7.sce #
+ 
+ weight  =
+ 
+    80.  
+ 
+ theta  =
+ 
+    0.3490659  
+ 
+ theta_p  =
+ 
+    1.2217305  
+ 
+ 
+ 
+ F  =
+ 
+    784.8  
+ 
+ R  =
+ 
+    737.47077  
+ 
+ 
+ R_p  =
+ 
+    268.41741  
+ 
+ 
+ 
+The normal component is:737.470769 N 
+ 
+The parallel component is:268.417408 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.8/Ex1_8.sce #
+ 
+ P  =
+ 
+    235.  
+ 
+ theta  =
+ 
+    1.0471976  
+ 
+ bet  =
+ 
+    0.3839724  
+ 
+ gam  =
+ 
+    0.6632251  
+ 
+ 
+ 
+ P_h  =
+ 
+    117.5  
+ 
+ P_v  =
+ 
+    203.51597  
+ 
+ 
+ P_l  =
+ 
+    185.18253  
+ 
+ P_p  =
+ 
+    144.68045  
+ 
+ 
+ 
+The horizontal component is:117.500000 N
+ 
+The vertical component is:203.515970 N
+ 
+The component parallel to plane is:185.182527 N
+ 
+The component perpendicular to the plane is:144.680447 N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.9/Ex1_9.sce #
+ 
+ F1  =
+ 
+    90.  
+ 
+ theta1  =
+ 
+    0.6981317  
+ 
+ theta2  =
+ 
+    0.5235988  
+ 
+ 
+ R_x  =
+ 
+    0.  
+ 
+ R_y  =
+ 
+    20.  
+ 
+ 
+ P  =
+ 
+    79.609674  
+ 
+ 
+ F  =
+ 
+    77.655722  
+ 
+ 
+ 
+The value of P is:79.609674 lb
+ 
+The value of F is:77.655722 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.10/Ex1_10.sce #
+ 
+ x  =
+ 
+    4.  
+ 
+ y  =
+ 
+    3.  
+ 
+ z  =
+ 
+    2.  
+ 
+ F  =
+ 
+    50.  
+ 
+ 
+ OP  =
+ 
+    5.3851648  
+ 
+ thetax  =
+ 
+    0.7427814  
+ 
+ thetay  =
+ 
+    0.5570860  
+ 
+ thetaz  =
+ 
+    0.3713907  
+ 
+ P_x  =
+ 
+    37.139068  
+ 
+ P_y  =
+ 
+    27.854301  
+ 
+ P_z  =
+ 
+    18.569534  
+ 
+ 
+ 
+The vector P is:37.139068i+27.854301j+18.569534k N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.11/Ex1_11.sce #
+ 
+ x  =
+ 
+    2.  
+ 
+ y  =
+ 
+  - 4.  
+ 
+ z  =
+ 
+    1.  
+ 
+ F  =
+ 
+    100.  
+ 
+ 
+ thetax  =
+ 
+    0.4364358  
+ 
+ thetay  =
+ 
+  - 0.8728716  
+ 
+ thetaz  =
+ 
+    0.2182179  
+ 
+ P_x  =
+ 
+    43.643578  
+ 
+ P_y  =
+ 
+  - 87.287156  
+ 
+ P_z  =
+ 
+    21.821789  
+ 
+ 
+ 
+The vector P is:43.643578i-87.287156j+21.821789k N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.13/Ex1_13.sce #
+ 
+ Fx  =
+ 
+    2.63  
+ 
+ Fy  =
+ 
+    4.28  
+ 
+ Fz  =
+ 
+  - 5.92  
+ 
+ 
+ F  =
+ 
+    7.7641291  
+ 
+ thetax  =
+ 
+    70.200039  
+ 
+ thetay  =
+ 
+    56.546978  
+ 
+ thetaz  =
+ 
+    139.6834  
+ 
+ 
+ 
+The magnitude of force is:7.764129 N 
+ 
+Thetax:70.200039 degrees
+ 
+Thetay:56.546978 degrees
+ 
+Thetaz:139.683398 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.14/Ex1_14.sce #
+ 
+ P  =
+ 
+    4.82  - 2.33    5.47  
+ 
+ Q  =
+ 
+  - 2.81  - 6.09    1.12  
+ 
+ 
+ M  =
+ 
+    6.7719  
+ 
+ 
+ 
+Result is:6.771900 N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.15/Ex1_15.sce #
+ 
+ x1  =
+ 
+    2.  
+ 
+ x2  =
+ 
+  - 2.  
+ 
+ y1  =
+ 
+    3.  
+ 
+ y2  =
+ 
+    4.  
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    6.  
+ 
+ P  =
+ 
+    2.    3.  - 1.  
+ 
+ 
+ X  =
+ 
+    7.2801099  
+ 
+ eLx  =
+ 
+  - 0.5494423  
+ 
+ eLy  =
+ 
+    0.1373606  
+ 
+ eLz  =
+ 
+    0.8241634  
+ 
+ Q  =
+ 
+  - 0.5494423    0.1373606    0.8241634  
+ 
+ Z  =
+ 
+  - 1.5109662  
+ 
+ 
+ 
+The unit vector is:-0.549442i+0.137361j+0.824163k 
+ 
+The projection of P is:-1.510966 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.16/Ex1_16.sce #
+ 
+ x1  =
+ 
+    2.  
+ 
+ x2  =
+ 
+    5.  
+ 
+ y1  =
+ 
+  - 5.  
+ 
+ y2  =
+ 
+    2.  
+ 
+ z1  =
+ 
+    3.  
+ 
+ z2  =
+ 
+  - 4.  
+ 
+ P  =
+ 
+    10.  - 8.    14.  
+ 
+ 
+ X  =
+ 
+    10.34408  
+ 
+ eLx  =
+ 
+    0.2900209  
+ 
+ eLy  =
+ 
+    0.6767155  
+ 
+ eLz  =
+ 
+  - 0.6767155  
+ 
+ Q  =
+ 
+    0.2900209    0.6767155  - 0.6767155  
+ 
+ Z  =
+ 
+  - 11.987532  
+ 
+ 
+ 
+The unit vector is:0.290021i+0.676716j-0.676716k 
+ 
+The projection of P is:-11.987532 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.17/Ex1_17.sce #
+ Px  =
+ 
+    2.85  
+ 
+ Py  =
+ 
+    4.67  
+ 
+ Pz  =
+ 
+  - 8.09  
+ 
+ Qx  =
+ 
+    28.3  
+ 
+ Qy  =
+ 
+    44.6  
+ 
+ Qz  =
+ 
+    53.3  
+ 
+ 
+ X  =
+ 
+    609.725  
+ 
+ Y  =
+ 
+  - 380.852  
+ 
+ Z  =
+ 
+  - 5.051  
+ 
+ 
+ 
+The cross product is:609.725000i-380.852000j-5.051000k lb-ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.19/Ex1_19.sce #
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+    3.  
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+    2.  
+ 
+ 
+ 
+ !       
+at line       2 of function f                        called by :  
+line     4 of function Trap_Composite1          called by :  
+printf('%fi+%fj%fk',Trap_Composite1(f,a,b,n),Trap_Composite2(f1,a,b,n),-z)
+line    22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH1/EX1.19/Ex1_19.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+8.680000i+8.000000j-2.000000k 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.1/Ex2_1.sce #
+ 
+ F  =
+ 
+    20.  
+ 
+ L  =
+ 
+    4.33  
+ 
+ 
+ M  =
+ 
+  - 86.6  
+ 
+ 
+ 
+The moment of force F about O is:-86.600000 lb-ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.2/Ex2_2.sce #
+ 
+ F  =
+ 
+    20.  
+ 
+ theta  =
+ 
+    1.0471976  
+ 
+ L  =
+ 
+    5.  
+ 
+ 
+ F_x  =
+ 
+    10.  
+ 
+ F_y  =
+ 
+    17.320508  
+ 
+ M  =
+ 
+  - 86.60254  
+ 
+ 
+ 
+ 
+The moment of the force about O is:-86.602540 lb-ft 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.3/Ex2_3.sce #
+ 
+ F  =
+ 
+    100.  
+ 
+ x1  =
+ 
+    2.  
+ 
+ x2  =
+ 
+    5.  
+ 
+ y1  =
+ 
+    0.  
+ 
+ y2  =
+ 
+    1.  
+ 
+ z1  =
+ 
+    4.  
+ 
+ z2  =
+ 
+    1.  
+ 
+ 
+ xside  =
+ 
+    3.  
+ 
+ yside  =
+ 
+    1.  
+ 
+ zside  =
+ 
+  - 3.  
+ 
+ LD  =
+ 
+    4.3588989  
+ 
+ Fx  =
+ 
+    68.82472  
+ 
+ Fy  =
+ 
+    22.941573  
+ 
+ Fz  =
+ 
+  - 68.82472  
+ 
+ Mx  =
+ 
+  - 91.766294  
+ 
+ My  =
+ 
+    412.94832  
+ 
+ Mz  =
+ 
+    45.883147  
+ 
+ 
+ 
+Fx is:68.824720 N
+ 
+Fy if:22.941573 N
+ 
+Fz is:-68.824720 N
+ 
+Moment about X-Axis is:-91.766294 N.m
+ 
+Moment about Y-Axis is:412.948321 N.m
+ 
+Moment about Z-Axis is:45.883147 N.m 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.4/Ex2_4.sce #
+ 
+ Fx  =
+ 
+    68.7  
+ 
+ Fy  =
+ 
+    22.9  
+ 
+ Fz  =
+ 
+  - 68.7  
+ 
+ rx  =
+ 
+    2.  
+ 
+ ry  =
+ 
+    0.  
+ 
+ rz  =
+ 
+    4.  
+ 
+ rx1  =
+ 
+    5.  
+ 
+ ry1  =
+ 
+    1.  
+ 
+ rz1  =
+ 
+    1.  
+ 
+ 
+ Mx  =
+ 
+  - 91.6  
+ 
+ My  =
+ 
+    412.2  
+ 
+ Mz  =
+ 
+    45.8  
+ 
+ Mx1  =
+ 
+  - 91.6  
+ 
+ My1  =
+ 
+    412.2  
+ 
+ Mz1  =
+ 
+    45.8  
+ 
+ 
+ 
+Moment with respect to origin using point(2,0,4):-91.600000i+412.200000j+45.800000k N.m
+ 
+Moment with respect to origin using point (5,1,1):-91.600000i+412.200000j+45.800000k N.m 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.5/Ex2_5.sce #
+ 
+ Fx  =
+ 
+    2.  
+ 
+ Fy  =
+ 
+    3.  
+ 
+ Fz  =
+ 
+  - 1.  
+ 
+ rx  =
+ 
+    1.  
+ 
+ ry  =
+ 
+  - 4.  
+ 
+ rz  =
+ 
+    3.  
+ 
+ 
+ ax  =
+ 
+    3.  
+ 
+ ay  =
+ 
+    1.  
+ 
+ az  =
+ 
+    1.  
+ 
+ bx  =
+ 
+    3.  
+ 
+ by  =
+ 
+  - 1.  
+ 
+ bz  =
+ 
+    1.  
+ 
+ cx  =
+ 
+    2.  
+ 
+ cy  =
+ 
+    5.  
+ 
+ cz  =
+ 
+  - 2.  
+ 
+ 
+ Rx  =
+ 
+    1.  
+ 
+ Ry  =
+ 
+  - 4.  
+ 
+ Rz  =
+ 
+    3.  
+ 
+ Mx  =
+ 
+  - 5.  
+ 
+ My  =
+ 
+    7.  
+ 
+ Mz  =
+ 
+    11.  
+ 
+ E_u  =
+ 
+    6.78233  
+ 
+ ex  =
+ 
+    0.1474420  
+ 
+ ey  =
+ 
+  - 0.8846517  
+ 
+ ez  =
+ 
+    0.4423259  
+ 
+ M_lx  =
+ 
+  - 0.7372098  
+ 
+ M_ly  =
+ 
+  - 6.1925622  
+ 
+ M_lz  =
+ 
+    4.8655846  
+ 
+ M_l  =
+ 
+  - 2.0641874  
+ 
+ 
+ 
+Hence the moment about line is -2.064187 lb-ft 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.6/Ex2_6.sce #
+ 
+ P_x  =
+ 
+    22.  
+ 
+ P_y  =
+ 
+    23.  
+ 
+ P_z  =
+ 
+    7.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ p2  =
+ 
+  - 1.  
+ 
+ p3  =
+ 
+  - 2.  
+ 
+ 
+ Mx  =
+ 
+    39.  
+ 
+ My  =
+ 
+  - 51.  
+ 
+ Mz  =
+ 
+    45.  
+ 
+ 
+ 
+The moment about the line from the origin is:39.000000i-51.000000j+45.000000k N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.8/Ex2_8.sce #
+ 
+ F  =
+ 
+    10.  
+ 
+ a  =
+ 
+    3.  
+ 
+ 
+ C  =
+ 
+  - 30.  
+ 
+ 
+ 
+The resultant couple is: -30.000000N.m 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.11/Ex2_11.sce #
+ 
+ C1  =
+ 
+    20.  
+ 
+ C2  =
+ 
+    40.  
+ 
+ C3  =
+ 
+  - 55.  
+ 
+ 
+ C  =
+ 
+    70.887234  
+ 
+ thetax  =
+ 
+    0.5642765  
+ 
+ thetay  =
+ 
+  - 0.7758802  
+ 
+ thetaz  =
+ 
+    0.2821382  
+ 
+ Cx  =
+ 
+    40.  
+ 
+ Cy  =
+ 
+  - 55.  
+ 
+ Cz  =
+ 
+    20.  
+ 
+ 
+ 
+Couple in vector notation:40.000000i-55.000000j+20.000000k N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.12/Ex2_12.sce #
+ 
+ F1  =
+ 
+    25.  
+ 
+ F2  =
+ 
+    25.  
+ 
+ L1  =
+ 
+    14.  
+ 
+ L2  =
+ 
+    20.  
+ 
+ 
+ C  =
+ 
+    350.  
+ 
+ M  =
+ 
+  - 500.  
+ 
+ 
+ 
+The twisting couple is:350.000000 lb-in
+ 
+The bending moment is:-500.000000 lb-in 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.13/Ex2_13.sce #
+ 
+ rx  =
+ 
+    20.  
+ 
+ ry  =
+ 
+    0.  
+ 
+ rz  =
+ 
+    14.  
+ 
+ Fx  =
+ 
+    0.  
+ 
+ Fy  =
+ 
+  - 25.  
+ 
+ Fz  =
+ 
+    0.  
+ 
+ 
+ Mx  =
+ 
+    350.  
+ 
+ My  =
+ 
+    0.  
+ 
+ Mz  =
+ 
+  - 500.  
+ 
+ 
+ 
+The moment of the 25-lb force is:350.000000i+0.000000j-500.000000k lb.in 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH2/EX2.14/Ex2_14.sce #
+ 
+ 
+ x  =
+ 
+    17.9  
+ 
+ y  =
+ 
+    6.91  
+ 
+ z  =
+ 
+    46.3  
+ 
+ Fz  =
+ 
+  - 4000.  
+ 
+ Fy  =
+ 
+    0.  
+ 
+ 
+ Mx  =
+ 
+  - 27640.  
+ 
+ 
+ 
+The scalar coefficient of the i term is the moment about the X-Axis Mx:-27640.000000 lb-ft lb-ft 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.1/Ex3_1.sce #
+ 
+ F1  =
+ 
+    150.  
+ 
+ F2  =
+ 
+    200.  
+ 
+ F3  =
+ 
+    80.  
+ 
+ F4  =
+ 
+    180.  
+ 
+ theta1  =
+ 
+    0.5235988  
+ 
+ theta2  =
+ 
+    2.6179939  
+ 
+ theta3  =
+ 
+    4.1887902  
+ 
+ theta4  =
+ 
+    5.4977871  
+ 
+ 
+ F1x  =
+ 
+    129.90381  
+ 
+ F1y  =
+ 
+    75.  
+ 
+ F2x  =
+ 
+  - 173.20508  
+ 
+ F2y  =
+ 
+    100.  
+ 
+ F3x  =
+ 
+  - 40.  
+ 
+ F3y  =
+ 
+  - 69.282032  
+ 
+ F4x  =
+ 
+    127.27922  
+ 
+ F4y  =
+ 
+  - 127.27922  
+ 
+ Fx  =
+ 
+    43.97795  
+ 
+ Fy  =
+ 
+  - 21.561253  
+ 
+ R  =
+ 
+    48.979054  
+ 
+ theta  =
+ 
+  - 26.11752  
+ 
+ theta_R  =
+ 
+    333.88248  
+ 
+ 
+ 
+The resultant of the force system is:48.979054 lb
+ 
+The resultant is at :333.882480 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.2/Ex3_2.sce #
+ 
+ F1  =
+ 
+    50.  
+ 
+ F2  =
+ 
+    100.  
+ 
+ F3  =
+ 
+    30.  
+ 
+ 
+ 
+ F1x  =
+ 
+    35.355339  
+ 
+ F1y  =
+ 
+    35.355339  
+ 
+ F2x  =
+ 
+  - 94.86833  
+ 
+ F2y  =
+ 
+  - 31.622777  
+ 
+ F3x  =
+ 
+    13.416408  
+ 
+ F3y  =
+ 
+  - 26.832816  
+ 
+ Fx  =
+ 
+  - 46.096583  
+ 
+ Fy  =
+ 
+  - 23.100253  
+ 
+ R  =
+ 
+    51.560805  
+ 
+ theta  =
+ 
+    0.4645490  
+ 
+ theta_x  =
+ 
+    206.6167  
+ 
+ 
+ 
+The resultant is:51.560805 N
+ 
+The resultant makes an angle of:206.616697 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.3/Ex3_3.sce #
+ 
+ F1  =
+ 
+    70.  
+ 
+ F2  =
+ 
+    100.  
+ 
+ F3  =
+ 
+    125.  
+ 
+ theta1  =
+ 
+    0.  
+ 
+ theta2  =
+ 
+    0.1745329  
+ 
+ theta3  =
+ 
+    0.5235988  
+ 
+ 
+ Fx  =
+ 
+  - 38.308563  
+ 
+ Fy  =
+ 
+    73.100969  
+ 
+ R  =
+ 
+    82.530586  
+ 
+ theta  =
+ 
+  - 1.0880944  
+ 
+ theta_x  =
+ 
+    117.65679  
+ 
+ 
+ 
+The resultant of the force system is:82.530586 lb
+ 
+The resultant is at 117.656786 with respect to the X-Axis degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.4/Ex3_4.sce #
+ 
+ F1  =
+ 
+  - 20.  
+ 
+ F2  =
+ 
+    30.  
+ 
+ F3  =
+ 
+    5.  
+ 
+ F4  =
+ 
+  - 40.  
+ 
+ 
+ x1  =
+ 
+    6.  
+ 
+ x2  =
+ 
+    0.  
+ 
+ x3  =
+ 
+    8.  
+ 
+ x4  =
+ 
+    13.  
+ 
+ 
+ R  =
+ 
+  - 25.  
+ 
+ 
+ M_O  =
+ 
+  - 360.  
+ 
+ 
+ x  =
+ 
+    14.4  
+ 
+ 
+ 
+The resultant of force system is:-25.000000 N
+ 
+The moment about point O is:-360.000000 N-m
+ 
+The resultant of moment acts at 14.400000 meters from point O 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.5/Ex3_5.sce #
+ 
+ F1  =
+ 
+  - 100.  
+ 
+ F2  =
+ 
+    200.  
+ 
+ F3  =
+ 
+  - 200.  
+ 
+ F4  =
+ 
+    400.  
+ 
+ F5  =
+ 
+  - 300.  
+ 
+ 
+ x1  =
+ 
+    0.  
+ 
+ x2  =
+ 
+    2.  
+ 
+ x3  =
+ 
+    5.  
+ 
+ x4  =
+ 
+    9.  
+ 
+ x5  =
+ 
+    11.  
+ 
+ 
+ R  =
+ 
+    0.  
+ 
+ M_O  =
+ 
+  - 300.  
+ 
+ 
+ 
+The resultant of the force system is:0 lb 
+ 
+The moment about point O is:-300 lb-ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.6/Ex3_6.sce #
+ 
+ F1  =
+ 
+    20.  
+ 
+ F2  =
+ 
+    20.  
+ 
+ F3  =
+ 
+  - 40.  
+ 
+ 
+ x1  =
+ 
+    3.  
+ 
+ x2  =
+ 
+    3.  
+ 
+ 
+ R  =
+ 
+    0.  
+ 
+ M_O  =
+ 
+    0.  
+ 
+ 
+ 
+The resultant of the force system is:0 lb
+ 
+The Moment about point O is:0 lb-ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.7/Ex3_7.sce #
+ 
+ F1  =
+ 
+    500.  
+ 
+ F2  =
+ 
+  - 400.  
+ 
+ F3  =
+ 
+  - 200.  
+ 
+ C  =
+ 
+    1500.  
+ 
+ 
+ x1  =
+ 
+    2.  
+ 
+ x2  =
+ 
+    4.  
+ 
+ x3  =
+ 
+    6.  
+ 
+ 
+ R  =
+ 
+  - 100.  
+ 
+ M_O  =
+ 
+  - 300.  
+ 
+ 
+ x  =
+ 
+    3.  
+ 
+ 
+ 
+The resultant of the force system is:-100 N
+ 
+The moment about point O is:-300 N-m
+ 
+The resultant acts at 3 meters from point O m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.8/Ex3_8.sce #
+ 
+ F1  =
+ 
+    50.  
+ 
+ F2  =
+ 
+    100.  
+ 
+ theta1  =
+ 
+    0.7853982  
+ 
+ 
+ x1  =
+ 
+    5.  
+ 
+ x2  =
+ 
+    4.  
+ 
+ 
+ F_x  =
+ 
+  - 20.710678  
+ 
+ F_y  =
+ 
+  - 20.710678  
+ 
+ R  =
+ 
+    29.289322  
+ 
+ M_O  =
+ 
+    50.  
+ 
+ 
+ x  =
+ 
+    1.7071068  
+ 
+ 
+ 
+The resultant of the force system is:29.289322 lb
+ 
+The Moment about point O is:50.000000 lb-ft
+ 
+The Resultant acts at 1.707107 feet from point O ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.9/Ex3_9.sce #
+ 
+ A  =
+ 
+    80.  
+ 
+ B  =
+ 
+    120.  
+ 
+ C  =
+ 
+    100.  
+ 
+ D  =
+ 
+    50.  
+ 
+ thetaA  =
+ 
+    1.5707963  
+ 
+ thetaB  =
+ 
+    2.6179939  
+ 
+ thetaC  =
+ 
+    0.7853982  
+ 
+ thetaD  =
+ 
+    5.9341195  
+ 
+ 
+ Ax  =
+ 
+    4.899D-15  
+ 
+ Ay  =
+ 
+    80.  
+ 
+ Bx  =
+ 
+  - 103.92305  
+ 
+ By  =
+ 
+    60.  
+ 
+ Cx  =
+ 
+    70.710678  
+ 
+ Cy  =
+ 
+    70.710678  
+ 
+ Dx  =
+ 
+    46.984631  
+ 
+ Dy  =
+ 
+  - 17.101007  
+ 
+ M_Ax  =
+ 
+    0.  
+ 
+ M_Ay  =
+ 
+    0.  
+ 
+ M_Bx  =
+ 
+    519.61524  
+ 
+ M_By  =
+ 
+    480.  
+ 
+ M_Cx  =
+ 
+  - 70.710678  
+ 
+ M_Cy  =
+ 
+    70.710678  
+ 
+ M_Dx  =
+ 
+    46.984631  
+ 
+ M_Dy  =
+ 
+  - 136.80806  
+ 
+ Fx  =
+ 
+    13.772261  
+ 
+ Fy  =
+ 
+    193.60967  
+ 
+ R  =
+ 
+    194.09889  
+ 
+ M_O  =
+ 
+    909.79182  
+ 
+ theta  =
+ 
+    1.4997818  
+ 
+ theta_x  =
+ 
+    85.931167  
+ 
+ 
+ x  =
+ 
+    4.6872592  
+ 
+ 
+ 
+The resultant of the force system is:194.098892 N
+ 
+The moment about point O is:909.791816 N
+ 
+The resultant acts at and angle of 85.931167 degrees with respect to X-Axis degrees
+ 
+The resultant of the force system acts at 4.687259 meters from point O 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.10/Ex3_10.sce #
+ 
+ F1  =
+ 
+    100.  
+ 
+ F2  =
+ 
+    80.  
+ 
+ F3  =
+ 
+    120.  
+ 
+ F4  =
+ 
+    150.  
+ 
+ theta1  =
+ 
+    1.0471976  
+ 
+ theta2  =
+ 
+    0.7853982  
+ 
+ theta3  =
+ 
+    1.5707963  
+ 
+ theta4  =
+ 
+    1.3089969  
+ 
+ 
+ x1  =
+ 
+  - 5.  
+ 
+ y1  =
+ 
+    20.  
+ 
+ x2  =
+ 
+    10.  
+ 
+ y2  =
+ 
+    10.  
+ 
+ x3  =
+ 
+    25.  
+ 
+ y3  =
+ 
+    25.  
+ 
+ x4  =
+ 
+    35.  
+ 
+ y4  =
+ 
+    15.  
+ 
+ 
+ Fx  =
+ 
+    145.3914  
+ 
+ Fy  =
+ 
+  - 294.92287  
+ 
+ R  =
+ 
+    328.81326  
+ 
+ theta  =
+ 
+  - 1.1127796  
+ 
+ theta_x  =
+ 
+  - 63.757574  
+ 
+ M_O  =
+ 
+  - 9220.4407  
+ 
+ 
+ x  =
+ 
+    31.263905  
+ 
+ y  =
+ 
+    63.418062  
+ 
+ 
+ 
+The resultant of the force system is:328.813259 lb
+ 
+The resultant acts at -63.757574 degrees with respect to X-Axis 
+ 
+The moment about point O is:-9220.440738 lb-ft 
+ 
+The x intercept of resultant is:31.263905 ft
+ 
+The y intercept of resultant is:63.418062 ft
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.11/Ex3_11.sce #
+ 
+ F1  =
+ 
+    150.  
+ 
+ F2  =
+ 
+    80.  
+ 
+ F3  =
+ 
+    100.  
+ 
+ F4  =
+ 
+    50.  
+ 
+ theta1  =
+ 
+    0.7853982  
+ 
+ r  =
+ 
+    3.  
+ 
+ 
+ Fh  =
+ 
+    79.289322  
+ 
+ Fv  =
+ 
+  - 100.71068  
+ 
+ R  =
+ 
+    128.17737  
+ 
+ 
+ a  =
+ 
+  - 2.8086082  
+ 
+ 
+ 
+The resultant of the force system is:128.177366 lb 
+ 
+The resultant acts at -2.808608 units form the point O 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.12/Ex3_12.sce #
+ 
+ F1  =
+ 
+    150.  
+ 
+ F2  =
+ 
+    200.  
+ 
+ F3  =
+ 
+    200.  
+ 
+ F4  =
+ 
+    225.  
+ 
+ M  =
+ 
+    900.  
+ 
+ Theta1  =
+ 
+    0.7853982  
+ 
+ Theta2  =
+ 
+    0.5235988  
+ 
+ x1  =
+ 
+    3.  
+ 
+ x2  =
+ 
+    15.  
+ 
+ x3  =
+ 
+    12.  
+ 
+ x4  =
+ 
+    6.  
+ 
+ 
+ Fx  =
+ 
+    111.2103  
+ 
+ Fy  =
+ 
+    193.56602  
+ 
+ R  =
+ 
+    223.23874  
+ 
+ theta  =
+ 
+    60.121158  
+ 
+ M_o  =
+ 
+    813.43624  
+ 
+ x  =
+ 
+    4.2023711  
+ 
+ 
+ 
+The x intercept of resultant position is 4.202371
+ 
+The Resultant is 223.238738 lb and acts at an angle of 60.121158 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.13/Ex3_13.sce #
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    6.  
+ 
+ n  =
+ 
+    10.  
+ 
+ l  =
+ 
+    20.  
+ 
+ 
+ 
+ R  =
+ 
+    120.  
+ 
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ 
+ 
+The value of R is:120 lb
+ 
+The value of d is:3 ft 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.14/Ex3_14.sci #
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    9.  
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !       
+at line       2 of function f1                       called by :  
+line     4 of function Trap_Composite2          called by :  
+d=Trap_Composite2(f1,a,b,n)/Trap_Composite1(f,a,b,n) //m
+line    19 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH3/EX3.14/Ex3_14.sci',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ d  =
+ 
+    6.03  
+ 
+ 
+ 
+The value of d is:6.030000 m
+ 
+The value of R is 135.000000 N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH4/EX4.1/Ex4_1.sce #
+ 
+ F1  =
+ 
+    20.  
+ 
+ F2  =
+ 
+    15.  
+ 
+ F3  =
+ 
+    30.  
+ 
+ F4  =
+ 
+    50.  
+ 
+ 
+ C1  =
+ 
+    2.  
+    1.  
+    6.  
+ 
+ C2  =
+ 
+    4.  
+  - 2.  
+    5.  
+ 
+ C3  =
+ 
+  - 3.  
+  - 2.  
+    1.  
+ 
+ C4  =
+ 
+    5.  
+    1.  
+  - 2.  
+ 
+ 
+ A  =
+ 
+    6.4031242  
+ 
+ B  =
+ 
+    6.7082039  
+ 
+ C  =
+ 
+    3.7416574  
+ 
+ D  =
+ 
+    5.4772256  
+ 
+ 
+ theta1  =
+ 
+    0.3123475  
+    0.1561738  
+    0.9370426  
+ 
+ theta2  =
+ 
+    0.5962848  
+  - 0.2981424  
+    0.7453560  
+ 
+ theta3  =
+ 
+  - 0.8017837  
+  - 0.5345225  
+    0.2672612  
+ 
+ theta4  =
+ 
+    0.9128709  
+    0.1825742  
+  - 0.3651484  
+ 
+ 
+ Fa  =
+ 
+    6.2469505  
+    3.1234752  
+    18.740851  
+ 
+ Fb  =
+ 
+    8.9442719  
+  - 4.472136   
+    11.18034   
+ 
+ Fc  =
+ 
+  - 24.053512  
+  - 16.035675  
+    8.0178373  
+ 
+ Fd  =
+ 
+    45.643546  
+    9.1287093  
+  - 18.257419  
+ 
+ Fx  =
+ 
+    36.781257  
+ 
+ Fy  =
+ 
+  - 8.2556259  
+ 
+ Fz  =
+ 
+    19.68161  
+ 
+ R  =
+ 
+    42.525075  
+ 
+ thetax  =
+ 
+    30.125169  
+ 
+ thetay  =
+ 
+    78.805775  
+ 
+ thetaz  =
+ 
+    62.430538  
+ 
+ 
+ 
+The resultant of the force system is 42.525075 lb 
+ 
+The angle of the resultant with respect to x y and z axes are 30.125169, 78.805775 and 62.430538 degrees respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH4/EX4.2/Ex4_2.sce #
+ 
+ F  =
+ 
+    20.  
+  - 10.  
+    30.  
+ 
+ 
+ a  =
+ 
+    2.  
+ 
+ b  =
+ 
+    4.  
+ 
+ c  =
+ 
+    7.  
+ 
+ d  =
+ 
+    3.  
+ 
+ e  =
+ 
+    2.  
+ 
+ f  =
+ 
+    4.  
+ 
+ 
+ R  =
+ 
+    40.  
+ 
+ M_o  =
+ 
+    210.  
+ 
+ x  =
+ 
+    5.25  
+ 
+ M_x  =
+ 
+  - 160.  
+ 
+ z  =
+ 
+    4.  
+ 
+ 
+ 
+The resultant is 40.000000 N 
+ 
+The moment about point O is 210.000000 N-m 
+ 
+The position of R is at 5.250000 from origin m 
+ 
+The moment is -160.000000 N-m
+ 
+The z co-ordinate is 4.000000 m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH4/EX4.3/Ex4_3.sce #
+ 
+ F  =
+ 
+    100.  
+    50.   
+  - 150.  
+ 
+ a  =
+ 
+    2.  
+ 
+ b  =
+ 
+    2.  
+ 
+ c  =
+ 
+    3.  
+ 
+ d  =
+ 
+    2.  
+ 
+ e  =
+ 
+    4.  
+ 
+ f  =
+ 
+    8.  
+ 
+ 
+ R  =
+ 
+    0.  
+ 
+ M_x  =
+ 
+    350.  
+ 
+ M_z  =
+ 
+  - 800.  
+ 
+ C  =
+ 
+    873.21246  
+ 
+ thetax  =
+ 
+    23.629378  
+ 
+ 
+ 
+The resultant is 0.000000 N 
+ 
+The moment about x axis is 350.000000 N.m 
+ 
+The moment about z axis is -800.000000 N.m
+ 
+The couple acting is 873.212460 N.m
+ 
+The trace makes an angle with x axis of 23.629378 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH4/EX4.4/Ex4_4.sce #
+ 
+ x1  =
+ 
+  - 2.  
+ 
+ y1  =
+ 
+    2.  
+ 
+ z1  =
+ 
+  - 2.  
+ 
+ x2  =
+ 
+    3.  
+ 
+ y2  =
+ 
+    0.  
+ 
+ z2  =
+ 
+  - 4.  
+ 
+ x3  =
+ 
+    3.  
+ 
+ y3  =
+ 
+    2.  
+ 
+ z3  =
+ 
+    2.  
+ 
+ F1  =
+ 
+    40.  
+ 
+ F2  =
+ 
+    30.  
+ 
+ F3  =
+ 
+    20.  
+ 
+ Mxm  =
+ 
+  - 92.4  - 48.  - 19.4  
+ 
+ Mym  =
+ 
+  - 46.2    72.    9.8  
+ 
+ Mzm  =
+ 
+    46.2  - 36.    19.4  
+ 
+ 
+ mag1  =
+ 
+    3.4641016  
+ 
+ mag2  =
+ 
+    5.  
+ 
+ mag3  =
+ 
+    4.1231056  
+ 
+ thetax1  =
+ 
+    125.26439  
+ 
+ thetay1  =
+ 
+    54.73561  
+ 
+ thetaz1  =
+ 
+    125.26439  
+ 
+ thetax2  =
+ 
+    53.130102  
+ 
+ thetay2  =
+ 
+    90.  
+ 
+ thetaz2  =
+ 
+    143.1301  
+ 
+ thetax3  =
+ 
+    43.313857  
+ 
+ thetay3  =
+ 
+    60.982859  
+ 
+ thetaz3  =
+ 
+    60.982859  
+ 
+ 
+ F  =
+ 
+    40.    30.    20.  
+ 
+ COSthetax  =
+ 
+  - 0.5773503  
+    0.6        
+    0.7276069  
+ 
+ COSthetay  =
+ 
+    0.5773503  
+    0.         
+    0.4850713  
+ 
+ COSthetaz  =
+ 
+  - 0.5773503  
+  - 0.8        
+    0.4850713  
+ 
+ Fx  =
+ 
+    9.4581267  
+ 
+ Fy  =
+ 
+    32.795436  
+ 
+ Fz  =
+ 
+  - 37.392586  
+ 
+ R  =
+ 
+    50.628078  
+ 
+ thetax  =
+ 
+    79.232982  
+ 
+ thetay  =
+ 
+    49.626193  
+ 
+ thetaz  =
+ 
+    137.61009  
+ 
+ 
+ Mx  =
+ 
+  - 159.8  
+ 
+ My  =
+ 
+    35.6  
+ 
+ Mz  =
+ 
+    29.6  
+ 
+ C  =
+ 
+    166.37175  
+ 
+ 
+ PHIx  =
+ 
+    163.84234  
+ 
+ PHIy  =
+ 
+    77.644387  
+ 
+ PHIz  =
+ 
+    79.751673  
+ 
+ 
+ 
+The result of the force is 50.628078 lb
+ 
+The angles with respect to X-Axis,Y-Axis and Z-axis are 79.232982 ,49.626193 and 137.610090 degrees respectively
+ 
+The magnitude of resultant couple is 166.371752 lb-ft
+ 
+The angles are as follows Cosphix=163.842340 degrees ,Cosphix=77.644387 degrees and Cosphiz=79.751673 degrees 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH4/EX4.5/Ex4_5.sce #
+ 
+ F  =
+ 
+    150.  
+    90.   
+    160.  
+ 
+ 
+ C_1  =
+ 
+    2.  
+    0.  
+    0.  
+ 
+ C_2  =
+ 
+    0.  
+    0.  
+    1.  
+ 
+ C_3  =
+ 
+    0.  
+  - 2.  
+  - 1.  
+ 
+ C_4  =
+ 
+  - 1.  
+    0.  
+  - 1.  
+ 
+ 
+ A  =
+ 
+  - 2.  
+    0.  
+    1.  
+ 
+ B  =
+ 
+  - 1.  
+    2.  
+    0.  
+ 
+ F1  =
+ 
+  - 134.16408  
+    0.         
+    67.082039  
+ 
+ F2  =
+ 
+  - 40.249224  
+    80.498447  
+    0.         
+ 
+ R  =
+ 
+  - 174.4133   
+    80.498447  
+    67.082039  
+ 
+ 
+ C1x  =
+ 
+    0.  
+ 
+ C1y  =
+ 
+  - 134.16408  
+ 
+ C1z  =
+ 
+    0.  
+ 
+ C2x  =
+ 
+    80.498447  
+ 
+ C2y  =
+ 
+    40.249224  
+ 
+ C2z  =
+ 
+  - 80.498447  
+ 
+ C3z  =
+ 
+    0.    
+    0.    
+    160.  
+ 
+ sC1  =
+ 
+    0.         
+  - 134.16408  
+    0.         
+ 
+ sC2  =
+ 
+    80.498447  
+    40.249224  
+  - 80.498447  
+ 
+ C  =
+ 
+    80.498447  
+  - 93.914855  
+    79.501553  
+ 
+ 
+ 
+The resultant force couple is 80.498447i-93.914855j+79.501553k lb-ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.1/Ex5_1.sce #
+ 
+ D  =
+ 
+    0.9486833  - 0.8944272  
+    0.3162278    0.4472136  
+ 
+ B  =
+ 
+    0.   
+    25.  
+ 
+ 
+ X  =
+ 
+    31.622777  
+    33.54102   
+ 
+ 
+ 
+The tension in  cable AB is 33.541020lb and the tension in cable AC is 31.622777 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.2/Ex5_2.sce #
+ 
+ F1  =
+ 
+    100.  
+ 
+ R  =
+ 
+    16.  
+ 
+ 
+ theta  =
+ 
+    61.044976  
+ 
+ N  =
+ 
+    114.28571  
+ 
+ P  =
+ 
+    55.328334  
+ 
+ 
+ 
+The value of normal reaction offered is 114.285714lb and the push required is 55.328334 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.3/Ex5_3.sce #
+ 
+ L  =
+ 
+    20.  
+ 
+ M  =
+ 
+    1200.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ H  =
+ 
+    10.  
+ 
+ 
+ AB  =
+ 
+    17.320508  
+ 
+ costheta  =
+ 
+    0.865  
+ 
+ F1  =
+ 
+    6796.5674  
+ 
+ F2  =
+ 
+    13609.249  
+ 
+ 
+ 
+Force F1 is 6796.567369 N and Force F2 is 13609.248555 N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.4/Ex5_4.sce #
+ 
+ Fx  =
+ 
+    1000.  
+ 
+ Fy  =
+ 
+    1000.  
+ 
+ costheta  =
+ 
+    0.6  
+ 
+ cosbeta  =
+ 
+    0.8  
+ 
+ sintheta  =
+ 
+    0.8  
+ 
+ sinbeta  =
+ 
+    0.6  
+ 
+ 
+ 
+ A  =
+ 
+    0.6  - 0.8  
+    0.8    0.6  
+ 
+ B  =
+ 
+  - 1000.  
+    1000.  
+ 
+ X  =
+ 
+    200.   
+    1400.  
+ 
+ 
+ 
+Thus force in AB is 199 lb compression and BC has 1400 lb compression 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.5/Ex5_5.sce #
+ 
+ w  =
+ 
+    10.  
+ 
+ L  =
+ 
+    12.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ 
+ A  =
+ 
+    0.8660254  - 0.8660254  
+    0.5          0.5        
+ 
+ B  =
+ 
+    0.    
+    120.  
+ 
+ X  =
+ 
+    120.  
+    120.  
+ 
+ 
+ 
+The tension in the cable is 120 lb and the reaction at B is 120 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.6/Ex5_6.sce #
+ 
+ W1  =
+ 
+    40.  
+ 
+ W2  =
+ 
+    30.  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ 
+ 
+ T  =
+ 
+    20.  
+ 
+ theta  =
+ 
+    41.810315  
+ 
+ 
+ 
+The tension in the cable is 20.000000lb and the angle theta is 41.810315 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.8/Ex5_8.sce #
+ 
+ F1  =
+ 
+    125.  
+ 
+ F2  =
+ 
+    200.  
+ 
+ F3  =
+ 
+    340.  
+ 
+ F4  =
+ 
+    180.  
+ 
+ x1  =
+ 
+    4.  
+ 
+ x2  =
+ 
+    3.  
+ 
+ x3  =
+ 
+    10.  
+ 
+ x4  =
+ 
+    15.  
+ 
+ x5  =
+ 
+    17.  
+ 
+ 
+ Rb  =
+ 
+    364.70588  
+ 
+ Ra  =
+ 
+    480.29412  
+ 
+ 
+ 
+The reaction at A is 480.294118N and reaction at B is 364.705882N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.9/Ex5_9.sce #
+ 
+ F1  =
+ 
+    1000.  
+ 
+ F2  =
+ 
+    1200.  
+ 
+ F3  =
+ 
+    2000.  
+ 
+ x1  =
+ 
+    1.  
+ 
+ x2  =
+ 
+    7.  
+ 
+ x4  =
+ 
+    2.  
+ 
+ x3  =
+ 
+    6.  
+ 
+ 
+ 
+ Rn  =
+ 
+    2412.5  
+ 
+ Rm  =
+ 
+    1787.5  
+ 
+ 
+ 
+The reaction at M is 1787.500000lb and reaction at N is 2412.500000lb 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.10/Ex5_10.sce #
+ 
+ P  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ T1  =
+ 
+    49.05  
+ 
+ 
+ T2  =
+ 
+    24.525  
+ 
+ 
+ P  =
+ 
+    24.525  
+ 
+ 
+ 
+The force P is 24.525000N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.11/Ex5_11.sce #
+ 
+ k  =
+ 
+    20.  
+ 
+ w  =
+ 
+    20.  
+ 
+ x1  =
+ 
+    4.  
+ 
+ x2  =
+ 
+    10.  
+ 
+ x3  =
+ 
+    8.  
+ 
+ x4  =
+ 
+    6.  
+ 
+ x5  =
+ 
+    9.  
+ 
+ F1  =
+ 
+    1920.  
+ 
+ F2  =
+ 
+    3360.  
+ 
+ 
+ theta  =
+ 
+    0.0288462  
+ 
+ FB  =
+ 
+    55.384615  
+ 
+ FC  =
+ 
+    96.923077  
+ 
+ A  =
+ 
+    47.692308  
+ 
+ 
+ 
+The force in spring B is 55.384615lb and spring C is 96.923077 lb and the reaction at A is 47.692308 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.12/Ex5_12.sce #
+ 
+ L  =
+ 
+    3.8  
+ 
+ w  =
+ 
+    10.  
+ 
+ P  =
+ 
+    1000.  
+ 
+ t  =
+ 
+    0.8  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ Gf  =
+ 
+    372.78  
+ 
+ A  =
+ 
+    5635.3525  
+ 
+ B  =
+ 
+    4262.5725  
+ 
+ 
+ 
+The reaction at point A and B are 5635.352500 N and 4262.572500 N respectively 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.13/Ex5_13.sce #
+ 
+ Wa  =
+ 
+    400.  
+ 
+ Wb  =
+ 
+    200.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ Ta  =
+ 
+    200.  
+ 
+ Tb  =
+ 
+    100.  
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ 
+ 
+The value of Ta is 200.000000 lb and that of Tb is 100.000000 lb,also P is 100.000000 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.15/Ex5_15.sce #
+ 
+ F  =
+ 
+    5.   
+    2.   
+    3.   
+    1.5  
+ 
+ theta  =
+ 
+    90.  
+    60.  
+    45.  
+    80.  
+ 
+ d  =
+ 
+    2.   
+    6.   
+    13.  
+    17.  
+ 
+ c  =
+ 
+    17.  
+    15.  
+    11.  
+    4.   
+ 
+ 
+ 
+ Ch  =
+ 
+  - 0.8608481  
+ 
+ 
+ D  =
+ 
+    4.2989451  
+ 
+ 
+ Cv  =
+ 
+    6.0316377  
+ 
+ 
+ 
+The values of Ch,D and Cv are -0.860848 kN,4.298945 kN and 6.031638 kN respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.16/Ex5_16.sce #
+ 
+ w  =
+ 
+    100.  
+ 
+ F1  =
+ 
+    200.  
+ 
+ M  =
+ 
+    500.  
+ 
+ Lw  =
+ 
+    2.  
+ 
+ 
+ d  =
+ 
+    1.  
+    2.  
+    3.  
+    4.  
+    5.  
+ 
+ 
+ b  =
+ 
+    5.  
+    4.  
+    3.  
+    2.  
+    1.  
+ 
+ 
+ 
+ Ra  =
+ 
+    75.  
+ 
+ 
+ Rb  =
+ 
+    325.  
+ 
+ 
+ 
+The value of reaction at A and B are 75.000000 N and 325.000000 N respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.17/Ex5_17.sce #
+ 
+ L  =
+ 
+    14.  
+ 
+ W  =
+ 
+    18.  
+ 
+ theta1  =
+ 
+    60.  
+ 
+ theta2  =
+ 
+    30.  
+ 
+ L1  =
+ 
+    10.  
+ 
+ 
+ 
+ Rd  =
+ 
+    5.45596  
+ 
+ 
+ T  =
+ 
+    4.725  
+ 
+ 
+ 
+The value of Rd and T is 5.455960 lb and 4.725000 lb respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.18/Ex5_18.sce #
+ 
+ theta  =
+ 
+    60.  
+    60.  
+    45.  
+ 
+ d  =
+ 
+    4.46  
+    3.54  
+    2.    
+ 
+ F  =
+ 
+    400.  
+ 
+ 
+ 
+ Re  =
+ 
+    223.  
+ 
+ Ra  =
+ 
+    177.  
+ 
+ 
+ Dv  =
+ 
+  - 252.61698  
+ 
+ 
+ Bv  =
+ 
+    147.38302  
+ 
+ 
+ Cv  =
+ 
+    29.616984  
+ 
+ 
+ Ch  =
+ 
+    56.599911  
+ 
+ 
+ Dh  =
+ 
+  - 56.599911  
+ 
+ 
+ Bh  =
+ 
+    56.599911  
+ 
+ 
+ 
+The Floor reactions are 
+ 
+Ra=177.000000 lb and Re=223.000000 lb
+ 
+Pin reaction at C on CE are
+ 
+Ch=56.599911 lb and Cv=29.616984 lb
+ 
+The pin reactions at B on AC are
+ 
+Bh=56.599911 lb and Bv=147.383016 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH5/EX5.19/Ex5_19.sce #
+ 
+ r  =
+ 
+    0.5  
+ 
+ m  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ theta  =
+ 
+    60.  
+ 
+ 
+ 
+ A  =
+ 
+    49.05  
+ 
+ B  =
+ 
+    49.05  
+ 
+ 
+ N1  =
+ 
+    98.1  
+ 
+ 
+ T  =
+ 
+    84.277435  
+ 
+ 
+ 
+The value of N1 and T are 98.100000 N and 84.277435 N respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.1/Ex6_1.sce #
+ 
+ H  =
+ 
+    30.  
+ 
+ F  =
+ 
+    150.  
+ 
+ theta1  =
+ 
+    10.  
+ 
+ theta2  =
+ 
+    30.  
+ 
+ theta3  =
+ 
+    60.  
+ 
+ 
+ 
+ X  =
+ 
+    0.25       - 0.25       
+    0.4330127    0.4330127  
+ 
+ Y  =
+ 
+    0.         
+    147.72116  
+ 
+ R  =
+ 
+    170.57371  
+    170.57371  
+ 
+ 
+ P  =
+ 
+    321.48955  
+ 
+ 
+ 
+The value of A and B is 170.573706 lb and that of P is 321.489553 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.2/Ex6_2.sce #
+ 
+ F  =
+ 
+    150.  
+ 
+ theta1  =
+ 
+    10.  
+ 
+ theta2  =
+ 
+    30.  
+ 
+ theta3  =
+ 
+    60.  
+ 
+ 
+ A  =
+ 
+  - 0.4330127  
+  - 0.8660254  
+    0.25       
+ 
+ B  =
+ 
+  - 0.4330127  
+  - 0.8660254  
+    0.25       
+ 
+ 
+ F_v  =
+ 
+    147.72116  
+    26.047227  
+    0.         
+ 
+ 
+ r  =
+ 
+    0.   
+    30.  
+    0.   
+ 
+ 
+ 
+ X  =
+ 
+    7.5  - 7.5  
+    13.    13.  
+ 
+ Y  =
+ 
+    0.     
+    4470.  
+ 
+ R  =
+ 
+    171.92308  
+    171.92308  
+ 
+ A  =
+ 
+    171.92308  
+ 
+ B  =
+ 
+    171.92308  
+ 
+ 
+ Cy  =
+ 
+    323.67077  
+ 
+ 
+ 
+The value of A and B is 171.923077 lb and that of Cy is 323.670769 lb 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.3/Ex6_3.sce #
+ 
+ m  =
+ 
+    6.12  
+ 
+ g  =
+ 
+    9.81  
+ 
+ x1  =
+ 
+    3.  
+ 
+ x2  =
+ 
+    4.  
+ 
+ y  =
+ 
+    6.  
+ 
+ z1  =
+ 
+    2.  
+ 
+ z2  =
+ 
+    4.  
+ 
+ AB  =
+ 
+    5.  
+ 
+ 
+ AD  =
+ 
+    7.  
+ 
+ AC  =
+ 
+    4.472136  
+ 
+ 
+ T1  =
+ 
+    70.0434  
+ 
+ 
+ 
+ X  =
+ 
+    0.8944272  - 0.6  
+  - 0.4472136    0.8  
+ 
+ Y  =
+ 
+    30.0186  
+    20.0124  
+ 
+ R  =
+ 
+    80.548356  
+    70.0434    
+ 
+ T2  =
+ 
+    80.548356  
+ 
+ T3  =
+ 
+    70.0434  
+ 
+ 
+ 
+The values of T1,T2 and T3 are 70.043400 N,80.548356 N and 70.043400 N respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.4/Ex6_4.sce #
+ 
+ F  =
+ 
+    0.   
+    60.  
+    0.   
+ 
+ t1  =
+ 
+  - 0.4285714  
+    0.8571429  
+  - 0.2857143  
+ 
+ t2  =
+ 
+    0.8948546  
+    0.         
+  - 0.4474273  
+ 
+ t3  =
+ 
+  - 0.6  
+    0.   
+    0.8  
+ 
+ 
+ 
+ T1  =
+ 
+    70.  
+ 
+ 
+ M1  =
+ 
+    0.8948546  - 0.6  
+  - 0.4474273    0.8  
+ 
+ M2  =
+ 
+    30.  
+    20.  
+ 
+ R  =
+ 
+    80.46  
+    70.    
+ 
+ 
+ 
+The tension in the strings are T1=70.000000,T2=80.460000 and T3=70.000000 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.5/Ex6_5.sce #
+ 
+ m  =
+ 
+    80.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ A  =
+ 
+    1.    3.    0.  
+ 
+ B  =
+ 
+    3.    3.  - 4.  
+ 
+ C  =
+ 
+    4.    3.    0.  
+ 
+ D  =
+ 
+    2.    0.  - 1.  
+ 
+ 
+ 
+ a  =
+ 
+    2.    3.    1.  
+ 
+ h  =
+ 
+    3.7416574  
+ 
+ c  =
+ 
+    0.5345225    0.8017837    0.2672612  
+ 
+ 
+ e  =
+ 
+    2.    0.  - 4.  
+ 
+ v  =
+ 
+    4.472136  
+ 
+ e_ab  =
+ 
+    0.4472136    0.  - 0.8944272  
+ 
+ 
+ r_ad  =
+ 
+    1.  - 3.  - 1.  
+ 
+ 
+ O  =
+ 
+    1.    0.       0.  
+    1.  - 3.     - 1.  
+    0.  - 784.8    0.  
+ 
+ P  =
+ 
+    0.    1.       0.  
+    1.  - 3.     - 1.  
+    0.  - 784.8    0.  
+ 
+ Q  =
+ 
+    0.    0.       1.  
+    1.  - 3.     - 1.  
+    0.  - 784.8    0.  
+ 
+ C1  =
+ 
+    1.    0.    0.  
+    1.  - 3.  - 1.  
+    2.    3.    1.  
+ 
+ C2  =
+ 
+    0.    1.    0.  
+    1.  - 3.  - 1.  
+    2.    3.    1.  
+ 
+ C3  =
+ 
+    0.    0.    1.  
+    1.  - 3.  - 1.  
+    2.    3.    1.  
+ 
+ rxF1  =
+ 
+  - 784.8    0.  - 784.8  
+ 
+ rxF2  =
+ 
+    0.  - 0.8017837    2.4053512  
+ 
+ 
+ rxF  =
+ 
+  - 784.8  - 0.8017837  - 782.39465  
+ 
+ 
+ dot1  =
+ 
+  - 350.97323    0.    699.79505  
+ 
+ dot2  =
+ 
+    0.    0.  - 2.1514115  
+ 
+ 
+ C  =
+ 
+    162.13626  
+ 
+ 
+ 
+The tension in CD is 162.136262 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.6/Ex6_6.sce #
+ 
+ w  =
+ 
+    200.  
+ 
+ Dh  =
+ 
+    4.  
+ 
+ 
+ theta  =
+ 
+    26.565051  
+ 
+ T  =
+ 
+    74.535599  
+ 
+ 
+ 
+The Tension in each rope is 74.535599 lb
+ Theta=26.565051 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.7/Ex6_7.sce #
+ 
+ F  =
+ 
+    100.    0.    0.  
+ 
+ CE  =
+ 
+    5.  
+ 
+ BC  =
+ 
+    5.8309519  
+ 
+ AC  =
+ 
+    6.4031242  
+ 
+ 
+ 
+ A  =
+ 
+    0.5144958  - 0.6246950    0.   
+    0.           0.           4.8  
+  - 0.5144958  - 0.4685213  - 0.6  
+ 
+ B  =
+ 
+    0.    
+    400.  
+  - 100.  
+ 
+ C  =
+ 
+    55.532875  
+    45.736602  
+    83.333333  
+ 
+ 
+ 
+The forces F1 F2 and F3 are as 55.532875 N 45.736602N and 83.333333N respectively
+ 
+Here F3 is compression assumed and rest are Tension 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.8/Ex6_8.sce #
+ 
+ F  =
+ 
+    100.    0.    0.  
+ 
+ CE  =
+ 
+    5.  
+ 
+ BC  =
+ 
+    5.8309519  
+ 
+ AC  =
+ 
+    6.4031242  
+ 
+ 
+ 
+ A  =
+ 
+    0.5144958  - 0.6246950    0.   
+    0.           0.           4.8  
+  - 0.5144958  - 0.4685213  - 0.6  
+ 
+ B  =
+ 
+    0.    
+    400.  
+  - 100.  
+ 
+ C  =
+ 
+    55.532875  
+    45.736602  
+    83.333333  
+ 
+ 
+ 
+The forces F1 F2 and F3 are as 55.532875 N 45.736602N and 83.333333N respectively
+ 
+Here F3 is compression assumed and rest are Tension 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ F1  =
+ 
+    30.    200.    300.  
+ 
+ F2  =
+ 
+    10.    400.    200.  
+ 
+ F3  =
+ 
+    20.    200.    500.  
+ 
+ F4  =
+ 
+    50.    400.    500.  
+ 
+ 
+ 
+ A  =
+ 
+    1.      1.      1.    
+  - 600.  - 600.    0.    
+    0.      600.    600.  
+ 
+ B  =
+ 
+    110.    
+  - 46000.  
+    34000.  
+ 
+ C  =
+ 
+    53.333333  
+    23.333333  
+    33.333333  
+ 
+ 
+ 
+The reactions are as R1=53.333333N, R2=23.333333N and R3=33.333333N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.11/Ex6_11.sce #
+ 
+ w  =
+ 
+    50.  
+ 
+ W  =
+ 
+    60.  
+ 
+ 
+ 
+ A  =
+ 
+    0.     0.     33.  
+    1.     1.   - 1.   
+    28.    10.  - 28.  
+ 
+ B  =
+ 
+    900.   
+  - 50.    
+  - 1200.  
+ 
+ C  =
+ 
+  - 11.616162  
+  - 11.111111  
+    27.272727  
+ 
+ P  =
+ 
+    29.02303  
+ 
+ D  =
+ 
+  - 28.  - 10.  
+    1.     1.   
+ 
+ E  =
+ 
+    802.05909  
+    9.9264609  
+ 
+ F  =
+ 
+  - 50.073539  
+    60.        
+ 
+ By  =
+ 
+    60.  
+ 
+ 
+ 
+The forces are as follows: 
+ 
+Az=-11.616162lb Bz=-11.111111lb Pz=27.272727lb Ax=-50.073539lb Bx=60.000000lb P=29.023030lb By=60.000000lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.12/Ex6_12.sce #
+ 
+ m  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ t1  =
+ 
+    45.  
+ 
+ t2  =
+ 
+    30.  
+ 
+ 
+ 
+ A  =
+ 
+    1.    0.         - 0.7071068    0.   
+    0.    1.           0.           0.6  
+  - 5.    6.0073736    0.           0.   
+  - 1.    0.           0.           0.8  
+ 
+ B  =
+ 
+    0.         
+    9.81       
+    30.036868  
+    0.         
+ 
+ C  =
+ 
+    3.0398585  
+    7.5301061  
+    4.2990092  
+    3.7998232  
+ 
+ 
+ 
+The forces are Nb=3.039859N Nc=7.530106N Tc=4.299009N Tb=3.799823N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.13/Ex6_13.sce #
+ 
+ l  =
+ 
+    200.  
+ 
+ 
+ P  =
+ 
+    83.333333  
+ 
+ 
+ A  =
+ 
+    0.  - 36.    0.    0.   
+    0.    0.     0.    36.  
+    0.    0.     1.    1.   
+    1.    1.     0.    0.   
+ 
+ B  =
+ 
+  - 3625.2311  
+    5690.473   
+    235.21819  
+    75.525649  
+ 
+ C  =
+ 
+  - 25.175216  
+    100.70087  
+    77.149493  
+    158.0687   
+ 
+ 
+ 
+The forces are Az=-25.175216lb Bz=100.700865lb Ay=77.149493lb By=158.068696lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.14/Ex6_14.sce #
+ 
+ A  =
+ 
+    80.  
+ 
+ B  =
+ 
+    40.  
+ 
+ C  =
+ 
+    60.  
+ 
+ l1  =
+ 
+    2.  
+ 
+ l2  =
+ 
+    4.  
+ 
+ l3  =
+ 
+    6.  
+ 
+ l4  =
+ 
+    9.  
+ 
+ l5  =
+ 
+    3.  
+ 
+ l6  =
+ 
+    7.  
+ 
+ 
+ P  =
+ 
+    120.  
+ 
+ By  =
+ 
+  - 133.33333  
+ 
+ Ay  =
+ 
+  - 66.666667  
+ 
+ Bz  =
+ 
+    22.222222  
+ 
+ Az  =
+ 
+    77.777778  
+ 
+ 
+ 
+The forces are Ay=-66.666667lb By=-133.333333lb Az=77.777778lb Bz=22.222222lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH6/EX6.15/Ex6_15.sce #
+ 
+ W  =
+ 
+    138.  
+ 
+ w  =
+ 
+    80.  
+ 
+ 
+ u  =
+ 
+    7.8102497  
+ 
+ a  =
+ 
+  - 0.3841106    0.5121475  - 0.7682213  
+ 
+ v  =
+ 
+    5.1961524  
+ 
+ c  =
+ 
+    0.5773503    0.5773503  - 0.5773503  
+ 
+ P  =
+ 
+    1.    0.      0.  
+    0.    0.      8.  
+    0.  - 138.    0.  
+ 
+ Q  =
+ 
+    0.    0.      1.  
+    0.    0.      8.  
+    0.  - 138.    0.  
+ 
+ R  =
+ 
+    1.    0.     0.  
+    0.    0.     4.  
+    0.  - 80.    0.  
+ 
+ S  =
+ 
+    0.    0.     1.  
+    0.    0.     4.  
+    0.  - 80.    0.  
+ 
+ T  =
+ 
+    1.           0.           0.         
+    0.           0.           6.         
+  - 0.3841106    0.5121475  - 0.7682213  
+ 
+ U  =
+ 
+    0.           1.           0.         
+    0.           0.           6.         
+  - 0.3841106    0.5121475  - 0.7682213  
+ 
+ V  =
+ 
+    1.           0.           0.         
+    0.           0.           3.         
+    0.5773503    0.5773503  - 0.5773503  
+ 
+ Y  =
+ 
+    0.           1.           0.         
+    0.           0.           3.         
+    0.5773503    0.5773503  - 0.5773503  
+ 
+ 
+ MAT1  =
+ 
+  - 3.0728851  - 1.7320508  
+  - 2.3046638    1.7320508  
+ 
+ MAT2  =
+ 
+    1424.  
+    0.     
+ 
+ res  =
+ 
+    264.80466  
+    352.34862  
+ 
+ A  =
+ 
+  - 101.71429    135.61905  - 203.42857  
+ 
+ C  =
+ 
+    203.42857    203.42857  - 203.42857  
+ 
+ E  =
+ 
+  - 101.71429  - 121.04762    406.85714  
+ 
+ 
+ 
+The force vectors are as follows
+ 
+A=-101.714286i+135.619048j-203.428571k lb and C=203.428571i+203.428571j-203.428571k lb also Ex=-101.714286 Ey=-121.047619lb Ez=406.857143lb 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.2/Ex7_2.sce #
+ 
+ s  =
+ 
+    4.  
+ 
+ l  =
+ 
+    2.  
+ 
+ r  =
+ 
+    7.  
+ 
+ 
+ 
+ FH  =
+ 
+  - 13.856406  
+ 
+ 
+ GI  =
+ 
+    43.30127  
+ 
+ 
+ HG  =
+ 
+  - 1.1547005  
+ 
+ 
+ IK  =
+ 
+    13.279056  
+ 
+ 
+ 
+The value of the forces in the components are as follows
+ 
+FH=-13.856406kN,GI=43.301270kN,HG=-1.154701kN and IK=13.279056kN
+ 
+The answer in the text book for GI is wrong 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.3/Ex7_3.sce #
+ 
+ theta  =
+ 
+    30.  
+ 
+ EF  =
+ 
+    40000.  
+ 
+ l  =
+ 
+    36.  
+ 
+ 
+ 
+ P  =
+ 
+  - 20000.  
+ 
+ 
+ 
+The maximum value of P is -20000.000000lb
+ 
+The negative sign indicates the downward direction 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.4/Ex7_4.sce #
+ 
+ l  =
+ 
+    12.  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ F1  =
+ 
+    1000.  
+ 
+ F2  =
+ 
+    2000.  
+ 
+ 
+ FG  =
+ 
+    10.392305  
+ 
+ DG  =
+ 
+    20.78461  
+ 
+ 
+ A  =
+ 
+    1488.0339  
+ 
+ 
+ G_x  =
+ 
+    2000.  
+ 
+ 
+ G_y  =
+ 
+    2976.0677  
+ 
+ 
+ BD  =
+ 
+  - 2976.0677  
+ 
+ 
+ CE  =
+ 
+    2577.3503  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ CD  =
+ 
+    2.625D-13  
+ 
+ 
+ 
+The values of  the forces are as follows
+ 
+A=1488.033872N,G_x=2000.000000N,G_y=2976.067743N,BD=-2976.067743N,CE=2577.350269N and CD=0.000000N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.5/Ex7_5.sce #
+ 
+ A  =
+ 
+    2000.  
+ 
+ E  =
+ 
+    2000.  
+ 
+ theta  =
+ 
+    60.  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ 
+ 
+ AB  =
+ 
+  - 2309.4011  
+ 
+ AG  =
+ 
+    1154.7005  
+ 
+ 
+ BG  =
+ 
+    1154.7005  
+ 
+ BC  =
+ 
+  - 1732.0508  
+ 
+ 
+ GC  =
+ 
+  - 1154.7005  
+ 
+ GF  =
+ 
+    2309.4011  
+ 
+ 
+ DE  =
+ 
+  - 2309.4011  
+ 
+ FE  =
+ 
+    1154.7005  
+ 
+ DF  =
+ 
+    1154.7005  
+ 
+ CD  =
+ 
+  - 1732.0508  
+ 
+ 
+ 
+The forces in the truess are
+ 
+AB=DE=-2309.401077lb,AG=FE=1154.700538lb,BG=DF=1154.700538lb,BC=CD=-1732.050808lb and CG=CF=-1154.700538lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.6/Ex7_6.sce #
+ 
+ F  =
+ 
+    500.  
+ 
+ A  =
+ 
+    1000.  
+ 
+ theta  =
+ 
+    60.  
+ 
+ l  =
+ 
+    20.  
+ 
+ 
+ 
+ R_c  =
+ 
+    2625.  
+ 
+ 
+ 
+ BD  =
+ 
+    1443.3757  
+ 
+ 
+ CD  =
+ 
+  - 1299.0381  
+ 
+ 
+ 
+The forces in the members are as follows
+ 
+BD=1443.375673N and CD=-1299.038106N,Also the reaction at C is 2625.000000N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.7/Ex7_7.sce #
+ 
+ w  =
+ 
+    800.  
+ 
+ a  =
+ 
+    600.  
+ 
+ d  =
+ 
+    40.  
+ 
+ 
+ T  =
+ 
+    931450.48  
+ 
+ H  =
+ 
+    900000.  
+ 
+ 
+ l  =
+ 
+    600.  
+ 
+ 
+ 
+The value of T=931450.481776lb and that of H=900000.000000lb,Also l=600.000000ft 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.8/Ex7_8.sce #
+ 
+ l  =
+ 
+    240000.  
+ 
+ 
+ 
+ theta  =
+ 
+    14.931417  
+ 
+ H  =
+ 
+    900000.  
+ 
+ T_max  =
+ 
+    931450.48  
+ 
+ 
+ 
+The maximun tension is 931450.481776lb and H=900000.000000lb 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ x1  =
+ 
+    10.  
+ 
+ x2  =
+ 
+    20.  
+ 
+ m  =
+ 
+    3.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ a_1  =
+ 
+    0.8247861  
+ 
+ a_2  =
+ 
+    1.4285714  
+ 
+ y  =
+ 
+    10.  
+ 
+ 
+ H  =
+ 
+    17724.839  
+ 
+ 
+ a1  =
+ 
+    109.80762  
+ 
+ a2  =
+ 
+    190.19238  
+ 
+ 
+ x  =
+ 
+    109.80762  
+ 
+ theta  =
+ 
+    10.322512  
+ 
+ 
+ T  =
+ 
+    18585.573  
+ 
+ 
+ 
+The tension in the cable is 18585.572743N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.10/Ex7_10.sce #
+ 
+ T  =
+ 
+    140000.  
+ 
+ w  =
+ 
+    2000.  
+ 
+ a  =
+ 
+    20.  
+ 
+ 
+ 
+ lhs  =
+ 
+    7.  
+ 
+ d  =
+ 
+    0.7216878  
+ 
+ l  =
+ 
+    20.  
+ 
+ 
+ 
+The sag in the cable is 0.721688m and the required length is 20.000000m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.11/Ex7_11.sce #
+ 
+ w  =
+ 
+    0.625  
+ 
+ a  =
+ 
+    80.  
+ 
+ P  =
+ 
+    500.  
+ 
+ 
+ lhs  =
+ 
+    20.  
+ 
+ d  =
+ 
+    1.0012523  
+ 
+ 
+ 
+The sag in the cable is 1.001252ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.13/Ex7_13.sce #
+ 
+ m  =
+ 
+    0.6  
+ 
+ l  =
+ 
+    240.  
+ 
+ d  =
+ 
+    24.  
+ 
+ 
+ c  =
+ 
+    288.  
+ 
+ T_max  =
+ 
+    1834.56  
+ 
+ a  =
+ 
+    233.5479  
+ 
+ 
+ 
+The maximun tension is 1834.560000N and a=233.547902m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH8/EX8.1/Ex8_1.sce #
+ 
+ R_A  =
+ 
+    100.  
+ 
+ R_B  =
+ 
+    200.  
+ 
+ 
+ 
+ V  =
+ 
+    100.  
+ 
+ 
+ M  =
+ 
+    200.  
+ 
+ 
+ 
+The shear force at 2m is 100.000000N and the moment at 2m is 200.000000N-m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+    2.3835072  
+ 
+ c  =
+ 
+  - 1.  
+ 
+ g  =
+ 
+    3.1114477  
+ 
+ 
+ x1  =
+ 
+    0.3639702  
+ 
+ x2  =
+ 
+  - 2.7474774  
+ 
+ 
+ 
+ 
+The value of mu is 0.363970 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.3/Ex9_3.sce #
+ 
+ m  =
+ 
+    70.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ theta  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.3420201    1.      0.  
+  - 0.9396926    0.      1.  
+    0.         - 0.25    1.  
+ 
+ 
+ R  =
+ 
+    686.7  
+    0.     
+    0.     
+ 
+ ans1  =
+ 
+    167.45551  
+    629.42684  
+    157.35671  
+ 
+ 
+ 
+ 
+ B  =
+ 
+    3.7587705    0.    0.  
+  - 0.9396926    1.    0.  
+    0.3420201    0.    1.  
+ 
+ 
+ J  =
+ 
+    1030.05  
+    0.       
+    686.7    
+ 
+ ans2  =
+ 
+    274.03908  
+    257.5125   
+    592.97312  
+ 
+ 
+ 
+The value of P in first case is 167N and that in second case is 274N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.4/Ex9_4.sce #
+ 
+ W  =
+ 
+    200.  
+ 
+ Fapp  =
+ 
+    300.  
+ 
+ mu  =
+ 
+    0.3  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ 
+ F  =
+ 
+    159.80762  
+ 
+ N1  =
+ 
+    323.20508  
+ 
+ 
+ Fprime  =
+ 
+    96.961524  
+ 
+ 
+ 
+The value of F and N1 are 159.807621lb and 323.205081lb respectively and the maximum value obtained is 96.961524lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.5/Ex9_5.sce #
+ 
+ mu1  =
+ 
+    0.2  
+ 
+ mu2  =
+ 
+    0.25  
+ 
+ F  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.  - 0.2985112  
+    0.    0.9751364  
+ 
+ B  =
+ 
+    5000.   
+    20000.  
+ 
+ 
+ R  =
+ 
+    11122.449  
+    20509.95   
+ 
+ 
+ 
+The forces N2 and P are 20509lb and 11122lb respectively 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.6/Ex9_6.sce #
+ 
+ theta  =
+ 
+    45.  
+ 
+ mu1  =
+ 
+    0.25  
+ 
+ mu2  =
+ 
+    0.3333333  
+ 
+ ma  =
+ 
+    14.  
+ 
+ mb  =
+ 
+    9.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ Nb  =
+ 
+    88.29  
+ 
+ 
+ Fprimeb  =
+ 
+    22.0725  
+ 
+ 
+ T  =
+ 
+    22.0725  
+ 
+ 
+ 
+ A  =
+ 
+  - 0.7071068    0.3333333  
+    0.7071068    1.         
+ 
+ B  =
+ 
+  - 22.0725  
+    225.63   
+ 
+ R  =
+ 
+    103.18367  
+    152.66812  
+ 
+ 
+ 
+The value of P and Na are 103.183673N and 152.668125N respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.7/Ex9_7.sce #
+ 
+ m1  =
+ 
+    40.  
+ 
+ m2  =
+ 
+    13.5  
+ 
+ mu  =
+ 
+    0.3333333  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ 
+ x  =
+ 
+    44.145  
+ 
+ y  =
+ 
+    174.945  
+ 
+ theta  =
+ 
+    29.176079  
+ 
+ 
+ 
+The value of the angle is 29.176079 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.8/Ex9_8.sce #
+ 
+ W  =
+ 
+    350.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ phi  =
+ 
+    15.  
+ 
+ 
+ 
+ A  =
+ 
+    0.8660254    0.2588190  
+  - 0.5          0.9659258  
+ 
+ B  =
+ 
+    175.       
+    303.10889  
+ 
+ an  =
+ 
+    93.782217  
+    362.34666  
+ 
+ 
+ 
+The value of P and R are 93.782217lb and 362.346663lb respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.9/Ex9_9.sce #
+ 
+ theta  =
+ 
+    45.  
+ 
+ m1  =
+ 
+    45.  
+ 
+ m2  =
+ 
+    135.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ mu  =
+ 
+    0.25  
+ 
+ 
+ N2  =
+ 
+    1324.35  
+ 
+ T  =
+ 
+    331.0875  
+ 
+ N1  =
+ 
+    312.15229  
+ 
+ Fprime1  =
+ 
+    78.038072  
+ 
+ P  =
+ 
+    96.973284  
+ 
+ 
+ 
+The values are N2=1324.350000N,T=331.087500N,N1=312.152289N,Fprime1=78.038072N and P=96.973284N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.10/Ex9_10.sce #
+ 
+ mu  =
+ 
+    0.2  
+ 
+ F1  =
+ 
+    150.  
+ 
+ F2  =
+ 
+    100.  
+ 
+ theta  =
+ 
+    60.  
+ 
+ 
+ N1  =
+ 
+    75.  
+ 
+ T  =
+ 
+    144.90381  
+ 
+ 
+ 
+ 
+ theta2  =
+ 
+    11.309932  
+ 
+ 
+ P  =
+ 
+    161.70149  
+ 
+ 
+ 
+The minimum value of P is 161.701490lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.11/Ex9_11.sce #
+ 
+ F  =
+ 
+    180.  
+ 
+ m  =
+ 
+    100.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ mu  =
+ 
+    0.25  
+ 
+ 
+ 
+ N2  =
+ 
+    288.  
+ 
+ F2  =
+ 
+    72.  
+ 
+ N1  =
+ 
+    909.  
+ 
+ F1  =
+ 
+    108.  
+ 
+ 
+ 
+The vaules are N2=288.000000N,F2=72.000000N,N1=909.000000N and F1=108.000000N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.12/Ex9_12.sce #
+ 
+ N  =
+ 
+    1.3333333  
+ 
+ u_N  =
+ 
+    0.5  
+ 
+ 
+ u  =
+ 
+    0.375  
+ 
+ 
+ 
+The frictional co-efficient is 0.375000 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.13/Ex9_13.sce #
+ 
+ mu_ca  =
+ 
+    0.3  
+ 
+ mu_af  =
+ 
+    0.2  
+ 
+ ma  =
+ 
+    3.  
+ 
+ mb  =
+ 
+    2.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ 
+ Na  =
+ 
+    29.43  
+ 
+ P  =
+ 
+    8.829  
+ 
+ 
+ 
+ Nb  =
+ 
+    49.05  
+ 
+ Fb  =
+ 
+    8.829  
+ 
+ 
+ Fprimeb  =
+ 
+    9.81  
+ 
+ 
+ P  =
+ 
+    8.829  
+ 
+ 
+ 
+The value of force that will cause motion is 8.829000N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.15/Ex9_15.sce #
+ 
+ d_m  =
+ 
+    2.  
+ 
+ p  =
+ 
+    0.25  
+ 
+ mu  =
+ 
+    0.15  
+ 
+ l  =
+ 
+    2.  
+ 
+ L  =
+ 
+    4000.  
+ 
+ 
+ phi  =
+ 
+    8.5307656  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    2.2785247  
+ 
+ 
+ P  =
+ 
+    31.821376  
+ 
+ 
+ P2  =
+ 
+    18.259565  
+ 
+ 
+ 
+The force to raise the load is 31.821376lb and to lower is 18.259565lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.16/Ex9_16.sce #
+ 
+ r_m  =
+ 
+    2.338  
+ 
+ d_m  =
+ 
+    3.25  
+ 
+ mu  =
+ 
+    0.06  
+ 
+ P  =
+ 
+    1500.  
+ 
+ p  =
+ 
+    0.25  
+ 
+ 
+ phi  =
+ 
+    3.4336304  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.9749814  
+ 
+ M  =
+ 
+    416.62919  
+ 
+ 
+ 
+The moment required is 416.629187lb-in 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.17/Ex9_17.sce #
+ 
+ d  =
+ 
+    750.  
+ 
+ alpha  =
+ 
+    3.1415927  
+ 
+ mu  =
+ 
+    0.25  
+ 
+ T_t  =
+ 
+    200.  
+ 
+ 
+ T2  =
+ 
+    91.187626  
+ 
+ 
+ 
+The tension of the slack side is 91.187626N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.18/Ex9_18.sce #
+ 
+ d  =
+ 
+    635.  
+ 
+ P  =
+ 
+    178.  
+ 
+ mu  =
+ 
+    0.3333333  
+ 
+ l1  =
+ 
+    100.  
+ 
+ l2  =
+ 
+    660.  
+ 
+ theta1  =
+ 
+    60.  
+ 
+ GD  =
+ 
+    317.5  
+ 
+ 
+ 
+ Tb  =
+ 
+    1562.0789  
+ 
+ CD  =
+ 
+    461.79492  
+ 
+ 
+ theta  =
+ 
+    43.435269  
+ 
+ 
+ w_d  =
+ 
+    253.43527  
+ 
+ w  =
+ 
+    4.4232799  
+ 
+ 
+ Tc  =
+ 
+    6823.9889  
+ 
+ M  =
+ 
+    1670656.4  
+ 
+ an  =
+ 
+    1670.6564  
+ 
+ 
+ 
+The braking moment required is 1670.656429N-m 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.19/Ex9_19.sce #
+ 
+ L  =
+ 
+    1000.  
+ 
+ P  =
+ 
+    10.  
+ 
+ 
+ mu  =
+ 
+    0.1832339  
+ 
+ 
+ 
+The coefficient of friction is 0.183234 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.20/Ex9_20.sce #
+ 
+ m  =
+ 
+    900.  
+ 
+ mu  =
+ 
+    0.2  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ T2  =
+ 
+    714.44286  
+ 
+ 
+ 
+The force needed to hold the mass is 714.442863N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH9/EX9.21/Ex9_21.sce #
+ 
+ d  =
+ 
+    760.  
+ 
+ W  =
+ 
+    500.  
+ 
+ a  =
+ 
+    0.305  
+ 
+ r  =
+ 
+    380.  
+ 
+ 
+ P  =
+ 
+    0.4013158  
+ 
+ 
+ 
+The force necessary is P=0.401316N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.5/Ex10_5.sce #
+ 
+ r  =
+ 
+    50.  
+ 
+ L1  =
+ 
+    75.  
+ 
+ L2  =
+ 
+    157.07963  
+ 
+ L3  =
+ 
+    61.2  
+ 
+ theta1  =
+ 
+    45.  
+ 
+ theta2  =
+ 
+    60.  
+ 
+ 
+ x_bar  =
+ 
+    26.516504    103.03301    168.33301  
+ 
+ y_bar  =
+ 
+    26.516504    84.863997    26.500377  
+ 
+ 
+ x  =
+ 
+    97.091997  
+ 
+ y  =
+ 
+    57.763869  
+ 
+ 
+ 
+The centroid is as follows x=97.091997 mm and y=57.763869mm 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.11/Ex10_11.sce #
+ 
+ a  =
+ 
+    100.  
+ 
+ b  =
+ 
+    150.  
+ 
+ A1  =
+ 
+    20000.  
+ 
+ A2  =
+ 
+    5000.  
+ 
+ A3  =
+ 
+    3926.9908  
+ 
+ 
+ x  =
+ 
+    98.583518  
+ 
+ y  =
+ 
+    71.179519  
+ 
+ 
+ 
+The centroidal distances are x=98.583518 mm and y=71.179519 mm 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.16/Ex10_16.sce #
+ 
+ V  =
+ 
+    1728000.    432000.    7540.  
+ 
+ x_bar  =
+ 
+    60.    140.    60.  
+ 
+ y_bar  =
+ 
+    30.    20.    30.  
+ 
+ 
+ x  =
+ 
+    75.944342  
+ 
+ y  =
+ 
+    28.006957  
+ 
+ z  =
+ 
+    120.  
+ 
+ 
+ 
+The centroid is at x=75.944342 mm y=28.006957 mm and z=120.000000mm 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.17/Ex10_17.sce #
+ 
+ tx  =
+ 
+    30.  
+ 
+ ty  =
+ 
+    45.  
+ 
+ tz  =
+ 
+    60.  
+ 
+ 
+ V  =
+ 
+    10.    15.    25.  
+ 
+ x_bar  =
+ 
+    4.    12.    24.  
+ 
+ y_bar  =
+ 
+    3.4641016  - 4.2426407  - 2.  
+ 
+ z_bar  =
+ 
+  - 2.    4.2426407  - 3.4641016  
+ 
+ 
+ x  =
+ 
+    16.4  
+ 
+ y  =
+ 
+  - 1.5799719  
+ 
+ z  =
+ 
+  - 0.8592586  
+ 
+ 
+ 
+The centroid is at x=16.400000 in,y=-1.579972 in and z=-0.859259 in 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.26/Ex10_26.sce #
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    8.  
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ !       
+at line       2 of function f                        called by :  
+line     4 of function Trap_Composite1          called by :  
+Rr=Trap_Composite1(f,a,b,n)/(2*8) //lb
+line    13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.26/Ex10_26.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ Rr  =
+ 
+    804.  
+ 
+ 
+ !       
+at line       2 of function f                        called by :  
+line     4 of function Trap_Composite1          called by :  
+M=Trap_Composite1(f,a,b,n) //ft-lb
+line    15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.26/Ex10_26.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ M  =
+ 
+    12864.  
+ 
+ 
+ 
+The reaction is 804.000000 lb and Moment is 12864.000000 lb-ft 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.27/Ex10_27.sce #
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    0.3  
+ 
+ n  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ 
+ 
+ 
+ !       
+at line       2 of function f                        called by :  
+line     4 of function Trap_Composite1          called by :  
+B=Trap_Composite1(f,a,b,n)/(2*b) //N
+line    15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.27/Ex10_27.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ B  =
+ 
+    440.559  
+ 
+ 
+ 
+The value of B is 440.559000 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.28/Ex10_28.sce #
+ 
+ l  =
+ 
+    62.4  
+ 
+ h  =
+ 
+    12.  
+ 
+ f  =
+ 
+    105.  
+ 
+ 
+ p1  =
+ 
+    748.8  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    0.3333333    0.  - 144.    467.  
+ 
+ r  =
+ 
+  - 22.247967  
+    18.919557  
+    3.3284101  
+ 
+ d  =
+ 
+    3.3284101  
+ 
+ 
+ 
+The value of d is 3.328410 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ a  =
+ 
+    90.  
+ 
+ b  =
+ 
+    30.  
+ 
+ c  =
+ 
+    60.  
+ 
+ 
+ 
+ theta1  =
+ 
+    30.963757  
+ 
+ theta2  =
+ 
+    45.  
+ 
+ theta3  =
+ 
+    71.565051  
+ 
+ 
+ 
+The values of theta1,theta2 and theta3 are 30.963757,45.000000 and 71.565051 respectively in Degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH11/EX11.6/Ex11_6.sce #
+ 
+ N  =
+ 
+    100.  
+ 
+ mu  =
+ 
+    0.3  
+ 
+ l  =
+ 
+    5.  
+ 
+ 
+ 
+ M  =
+ 
+    1040.  
+ 
+ 
+ 
+The Moment is 1040 lb-in 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH11/EX11.7/Ex11_7.sce #
+ 
+ m  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ F  =
+ 
+    200.  
+ 
+ l  =
+ 
+    3.  
+ 
+ 
+ 
+ By  =
+ 
+    49.  
+ 
+ Bx  =
+ 
+    133.33333  
+ 
+ 
+ Ax  =
+ 
+  - 333.33333  
+ 
+ Ay  =
+ 
+    49.  
+ 
+ 
+ 
+The values are Ax=-333.333333N,Ay=49.000000N,Bx=133.333333N and By=49.000000N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH11/EX11.10/Ex11_10.sce #
+ 
+ l  =
+ 
+    2.  
+ 
+ W  =
+ 
+    20.  
+ 
+ k  =
+ 
+    144.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ theta  =
+ 
+    44.1  
+ 
+ 
+ 
+ sinetheta  =
+ 
+    0.9  
+ 
+ 
+ 
+ Check  =
+ 
+    7.2749481  
+ 
+ 
+ 
+the Check Value is 7.274948 which indicates Stable Equilibirum 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.1/Ex12_1.sce #
+ 
+ t  =
+ 
+    4.  
+ 
+ 
+ 
+ x  =
+ 
+    198.  
+ 
+ 
+ v  =
+ 
+    145.  
+ 
+ 
+ a  =
+ 
+    72.  
+ 
+ 
+ 
+The dipalacemnt is 198.000000 ft and the velocity is 145.000000 ft/s and Acceleration is 72.000000 ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.2/Ex12_2.sce #
+ 
+ t1  =
+ 
+    4.  
+ 
+ t2  =
+ 
+    5.  
+ 
+ 
+ v1  =
+ 
+    145.  
+ 
+ v2  =
+ 
+    226.  
+ 
+ a  =
+ 
+    81.  
+ 
+ 
+ 
+The acceleration during fifth second is 81.000000 ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.4/Ex12_4.sce #
+ 
+ v_o  =
+ 
+    0.  
+ 
+ v_f  =
+ 
+    88.  
+ 
+ t  =
+ 
+    28.  
+ 
+ 
+ k  =
+ 
+    3.1428571  
+ 
+ s  =
+ 
+    1232.  
+ 
+ 
+ 
+The constant k is 3.142857 and displacement is 1232.000000 ft 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.6/Ex12_6.sce #
+ 
+ v_o  =
+ 
+    2.  
+ 
+ y_o  =
+ 
+    120.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ y  =
+ 
+    0.  
+ 
+ 
+ a  =
+ 
+    4.9  
+ 
+ b  =
+ 
+  - 2.  
+ 
+ c  =
+ 
+  - 120.  
+ 
+ q  =
+ 
+    48.538644  
+ 
+ x1  =
+ 
+    5.1570045  
+ 
+ x2  =
+ 
+  - 4.7488413  
+ 
+ 
+ 
+The time required is 5.157005 s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.7/Ex12_7.sce #
+ 
+ Vo1  =
+ 
+    80.  
+ 
+ Vo2  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ t  =
+ 
+    4.1531532  
+ 
+ 
+ s  =
+ 
+    54.548486  
+ 
+ 
+ 
+The time obtained is 4.153153 s and the balls meet at 54.548486 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.8/Ex12_8.sce #
+ 
+ theta  =
+ 
+    40.  
+ 
+ x  =
+ 
+    100.  
+ 
+ ay  =
+ 
+    32.2  
+ 
+ 
+ 
+ t  =
+ 
+    2.2829365  
+ 
+ 
+ Vo  =
+ 
+    57.181061  
+ 
+ 
+ 
+The initial speed should be 57.181061 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.10/Ex12_10.sce #
+ 
+ t  =
+ 
+    3.  
+ 
+ 
+ 
+ s  =
+ 
+    41.666667  
+ 
+ v  =
+ 
+    25.  
+ 
+ a  =
+ 
+    10.  
+ 
+ 
+ 
+The displacement,velocity and acceleration at t=3s are 41.666667 ft,25.000000 ft/s and 10.000000 ft/s^2 respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.12/Ex12_12.sce #
+ 
+ 
+ xdot1  =
+ 
+    6.  
+ 
+ xdot3  =
+ 
+    3.  
+ 
+ xdoubledot  =
+ 
+    2.  
+ 
+ xdoubledot3  =
+ 
+  - 4.  
+ 
+ 
+ xdot  =
+ 
+  - 6.  
+ 
+ xdot2  =
+ 
+  - 15.  
+ 
+ xdoubledot2  =
+ 
+    8.  
+ 
+ 
+ 
+The value of velocity is -15.000000 ft/s and acceleration is 8.000000 ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.14/Ex12_14.sce #
+ 
+ x  =
+ 
+    2.  
+ 
+ 
+ dc  =
+ 
+    28.8  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    28.8  
+ 
+ 
+ 
+ 
+The acceleration is:28.800000 m/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.16/Ex12_16.sce #
+ 
+ t  =
+ 
+    4.  
+ 
+ 
+ 
+ x  =
+ 
+    64.  
+ 
+ y  =
+ 
+  - 32.  
+ 
+ z  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    5.0990195  
+ 
+ e_l  =
+ 
+    0.7844645    0.1961161  - 0.5883484  
+ 
+ v  =
+ 
+    48.  - 16.    2.  
+ 
+ 
+ dot  =
+ 
+    37.654298  - 3.1378582  - 1.1766968  
+ 
+ a  =
+ 
+    33.339743  
+ 
+ 
+ 
+The co-ordinates of position are x=64.000000in,y=-32.000000in,z=8.000000in
+ 
+The projection of v on n at t=4s is 33.339743in/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.17/Ex12_17.sce #
+ 
+ theta  =
+ 
+    1.0471976  
+ 
+ 
+ 
+ t  =
+ 
+    1.0233267  
+ 
+ r  =
+ 
+    2.0943951  
+ 
+ rdot  =
+ 
+    4.0933068  
+ 
+ thetadot  =
+ 
+    2.0466534  
+ 
+ 
+ x  =
+ 
+    4.2865009  
+ 
+ v  =
+ 
+    5.9269934  
+ 
+ 
+ thetax  =
+ 
+    73.679296  
+ 
+ 
+ x  =
+ 
+    1.0471976  
+ 
+ y  =
+ 
+    1.8137994  
+ 
+ xdot  =
+ 
+  - 1.6655652  
+ 
+ ydot  =
+ 
+    5.7708492  
+ 
+ v  =
+ 
+    6.0063972  
+ 
+ thetax  =
+ 
+    73.90096  
+ 
+ 
+ 
+By both the methods we obtain v=6.006397 ft/s and thetax as 73.900960 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.18/Ex12_18.sce #
+ 
+ theta  =
+ 
+    1.0471976  
+ 
+ 
+ t  =
+ 
+    1.0233267  
+ 
+ thetadot  =
+ 
+    2.0466534  
+ 
+ thetadoubledot  =
+ 
+    2.  
+ 
+ r  =
+ 
+    2.0943951  
+ 
+ rdot  =
+ 
+    4.0933068  
+ 
+ rdoubledot  =
+ 
+    4.  
+ 
+ ax  =
+ 
+  - 4.3775804  
+ 
+ ay  =
+ 
+    20.943951  
+ 
+ a  =
+ 
+    21.396549  
+ 
+ thetax  =
+ 
+    18.194335  
+ 
+ 
+ 
+ 
+The acceleration is 21.396549 ft/s^2 and thetax=18.194335 degrees 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.20/Ex12_20.sce #
+ 
+ theta  =
+ 
+    45.  
+ 
+ l  =
+ 
+    0.5  
+ 
+ w  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ Vp1  =
+ 
+    10.  
+ 
+ 
+ 
+ r  =
+ 
+    7.0710678  
+ 
+ 
+ t  =
+ 
+    7.0710678  
+ 
+ 
+ Vp2  =
+ 
+    10.  
+ 
+ 
+ 
+The velocity is:10.000000m/s
+ 
+The velocity in part b is 10.000000m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.21/Ex12_21.sce #
+ 
+ Va  =
+ 
+    5.  
+ 
+ theta  =
+ 
+    70.  
+ 
+ l  =
+ 
+    6.24  
+ 
+ 
+ Vb  =
+ 
+  - 1.8198512  
+ 
+ 
+ 
+The value of Vb is -1.819851ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.26/Ex12_26.sce #
+ 
+ d  =
+ 
+    1.2  
+ 
+ w0  =
+ 
+    0.  
+ 
+ w  =
+ 
+    2000.  
+ 
+ t  =
+ 
+    20.  
+ 
+ 
+ alpha  =
+ 
+    100.  
+ 
+ alpha_rad  =
+ 
+    10.471976  
+ 
+ 
+ 
+The angular acceleration is 10.471976rad/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.27/Ex12_27.sce #
+ 
+ w0  =
+ 
+    0.  
+ 
+ w  =
+ 
+    209.  
+ 
+ t  =
+ 
+    20.  
+ 
+ 
+ theta  =
+ 
+    2090.  
+ 
+ theta_rev  =
+ 
+    333.  
+ 
+ 
+ 
+The flywheel makes 333 revolutions 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.28/Ex12_28.sce #
+ 
+ w0  =
+ 
+    0.  
+ 
+ alpha  =
+ 
+    10.5  
+ 
+ t  =
+ 
+    0.6  
+ 
+ r  =
+ 
+    0.6  
+ 
+ 
+ w  =
+ 
+    6.3  
+ 
+ v  =
+ 
+    3.78  
+ 
+ a_t  =
+ 
+    6.3  
+ 
+ a_n  =
+ 
+    23.814  
+ 
+ a  =
+ 
+    24.633242  
+ 
+ phi  =
+ 
+    14.818147  
+ 
+ 
+ 
+The tangential velocity is 3.780000m/s
+ 
+the acceleration is 24.633242m/s^2 and angle is 14.818147 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.29/Ex12_29.sce #
+ 
+ l  =
+ 
+    4.  
+ 
+ wb  =
+ 
+    40.  
+ 
+ we  =
+ 
+    60.  
+ 
+ 
+ r  =
+ 
+    2.  
+ 
+ vb  =
+ 
+    8.3775804  
+ 
+ ve  =
+ 
+    12.566371  
+ 
+ 
+ 
+The linear speeds are 8.377580 ft/s and 12.566371 ft/s at b and e respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.30/Ex12_30.sce #
+ 
+ wb  =
+ 
+    40.  
+ 
+ we  =
+ 
+    60.  
+ 
+ t1  =
+ 
+    5.  
+ 
+ t  =
+ 
+    2.  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ alpha  =
+ 
+    0.4188790  
+ 
+ w  =
+ 
+    5.0265482  
+ 
+ 
+ a_t  =
+ 
+    0.8377580  
+ 
+ a_n  =
+ 
+    50.532375  
+ 
+ 
+ 
+The tangential and normal acceleration
+ are 0.837758 rad/s^2 and 50.532375rad/s^2 respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.31/Ex12_31.sce #
+ 
+ d  =
+ 
+    200.  
+ 
+ w0  =
+ 
+    83.775804  
+ 
+ w  =
+ 
+    0.  
+ 
+ t  =
+ 
+    600.  
+ 
+ 
+ alpha  =
+ 
+  - 0.1396263  
+ 
+ 
+ 
+The angular acceleration is -0.139626rad/s^2
+ The negative sign indicates that the wheel decelerates 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.32/Ex12_32.sce #
+ 
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    0.5  
+ 
+ t3  =
+ 
+    2.5  
+ 
+ t4  =
+ 
+    0.3333333  
+ 
+ w  =
+ 
+    200.  
+ 
+ w0  =
+ 
+    0.  
+ 
+ 
+ theta1  =
+ 
+    0.8333333  
+ 
+ theta2  =
+ 
+    6.6666667  
+ 
+ theta3  =
+ 
+    0.5555556  
+ 
+ theta  =
+ 
+    8.0555556  
+ 
+ 
+ 
+The wheel undergoes 8.055556 of rotations 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.34/Ex12_34.sce #
+ 
+ t  =
+ 
+    1.  
+ 
+ r  =
+ 
+    4.  
+ 
+ 
+ s  =
+ 
+    4.  
+ 
+ theta  =
+ 
+    1.  
+ 
+ dtheta_dt  =
+ 
+    0.75  
+ 
+ Vx  =
+ 
+  - 2.524413  
+ 
+ Vy  =
+ 
+    1.6209069  
+ 
+ V  =
+ 
+    3.  
+ 
+ 
+ 
+The components of  velocity are Vx=-2.524413m/s ,Vy=1.620907m/s and V=3.000000m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.35/Ex12_35.sce #
+ 
+ t  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    1.  
+ 
+ 
+ dtheta_dt  =
+ 
+    0.75  
+ 
+ acc  =
+ 
+    1.5  
+ 
+ ax  =
+ 
+  - 6.2645061  
+ 
+ ay  =
+ 
+    1.3485041  
+ 
+ a  =
+ 
+    6.4080028  
+ 
+ 
+ 
+The acceleration is 6.408003m/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.36/Ex12_36.sce #
+ 
+ t  =
+ 
+    2.  
+ 
+ 
+ 
+ vx  =
+ 
+    13.  
+ 
+ vy  =
+ 
+    12.  
+ 
+ v  =
+ 
+    17.691806  
+ 
+ theta_x  =
+ 
+    42.70939  
+ 
+ 
+ ax  =
+ 
+    8.  
+ 
+ ay  =
+ 
+    12.  
+ 
+ a  =
+ 
+    14.422205  
+ 
+ phi_x  =
+ 
+    56.309932  
+ 
+ 
+ 
+The velocity is 17.691806ft/s and angle is 42.709390degrees
+ The acceleration is 14.422205ft/s^2 and angle it makes is 56.309932degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.37/Ex12_37.sce #
+ 
+ V_ao  =
+ 
+    29.3  
+ 
+ OA  =
+ 
+    50.  
+ 
+ theta  =
+ 
+    45.  
+ 
+ OB  =
+ 
+    70.710678  
+ 
+ 
+ w_ao  =
+ 
+    0.586  
+ 
+ V_bo  =
+ 
+    20.718229  
+ 
+ w_bo  =
+ 
+    0.293  
+ 
+ 
+ 
+The angular velocity with respect to the observer is 0.586000rad/s
+ The angular velocity after moving 50ft is 0.293000rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.38/Ex12_38.sce #
+ 
+ theta  =
+ 
+    30.  
+ 
+ r  =
+ 
+    57.735027    100.  
+ 
+ v  =
+ 
+    17.6  
+ 
+ 
+ v_1  =
+ 
+    133.33333  
+ 
+ w  =
+ 
+    0.132  
+ 
+ 
+ 
+The angular velocity is 0.132000rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.39/Ex12_39.sce #
+ 
+ t  =
+ 
+    2.  
+ 
+ 
+ Vx  =
+ 
+    45.  
+ 
+ Vy  =
+ 
+  - 16.  
+ 
+ 
+ x  =
+ 
+    55.  
+ 
+ y  =
+ 
+  - 53.  
+ 
+ ax  =
+ 
+    20.  
+ 
+ ay  =
+ 
+    4.  
+ 
+ 
+ 
+The displacement components are x=55.000000m,y=-53.000000m
+ The velocity components are Vx=45.000000m/s,Vy=-16.000000m/s
+ The acceleration components are ax=20.000000m/s^2 and ay=4.000000m/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.40/Ex12_40.sce #
+ 
+ d  =
+ 
+    0.1  
+ 
+ v  =
+ 
+    20.  
+ 
+ a_g  =
+ 
+    6.  
+ 
+ d2  =
+ 
+    0.15  
+ 
+ 
+ r  =
+ 
+    0.05  
+ 
+ w  =
+ 
+    400.  
+ 
+ vb  =
+ 
+    30.  
+ 
+ alpha  =
+ 
+    120.  
+ 
+ a_t  =
+ 
+    9.  
+ 
+ a_n  =
+ 
+    12000.  
+ 
+ a  =
+ 
+    12000.003  
+ 
+ 
+ 
+The linear velocity is 30.000000m/s and the acceleration is 12000.003375m/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH12/EX12.41/Ex12_41.sce #
+ 
+ theta  =
+ 
+    40.  
+ 
+ x  =
+ 
+    100.  
+ 
+ ax  =
+ 
+    0.  
+ 
+ ay  =
+ 
+  - 32.2  
+ 
+ 
+ 
+ 
+ 
+ t_f  =
+ 
+    2.2829365  
+ 
+ Vo  =
+ 
+    57.181061  
+ 
+ 
+ t  =
+ 
+    1.1414682  
+ 
+ ymax  =
+ 
+    20.977491  
+ 
+ 
+ 
+The max height the ball will reach is 20.977491 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.1/Ex13_1.sce #
+ 
+ W  =
+ 
+    2.  
+ 
+ F  =
+ 
+    1.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ theta1  =
+ 
+    10.  
+ 
+ theta2  =
+ 
+    30.  
+ 
+ 
+ 
+ 
+ ax  =
+ 
+    7.6831072  
+ 
+ N1  =
+ 
+    1.4715785  
+ 
+ 
+ 
+The force on the particle is 1.471579lb
+ The acceleration is 7.683107ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.2/Ex13_2.sce #
+ 
+ m  =
+ 
+    5.  
+ 
+ s  =
+ 
+    12.  
+ 
+ v  =
+ 
+    4.  
+ 
+ vo  =
+ 
+    0.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ mu  =
+ 
+    0.25  
+ 
+ 
+ 
+ a  =
+ 
+    0.6666667  
+ 
+ 
+ N1  =
+ 
+    49.  
+ 
+ P  =
+ 
+    15.583333  
+ 
+ 
+ 
+The value of P is 15.583333N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.3/Ex13_3.sce #
+ 
+ m  =
+ 
+    2.  
+ 
+ vo  =
+ 
+    0.  
+ 
+ v  =
+ 
+    3.  
+ 
+ s  =
+ 
+    0.8  
+ 
+ theta  =
+ 
+    20.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ N  =
+ 
+    18.417975  
+ 
+ a  =
+ 
+  - 5.625  
+ 
+ u  =
+ 
+    0.2468461  
+ 
+ 
+ 
+ a_ret  =
+ 
+    1.0785948  
+ 
+ vf  =
+ 
+    1.3136787  
+ 
+ 
+ 
+The speed is 1.313679m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.4/Ex13_4.sce #
+ 
+ W  =
+ 
+    1800.  
+ 
+ r  =
+ 
+    2000.  
+ 
+ v  =
+ 
+    58.7  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ F  =
+ 
+    96.308106  
+ 
+ 
+ 
+The frictional force to be exerted is 96.308106 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.7/Ex13_7.sce #
+ 
+ W  =
+ 
+    10.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ l  =
+ 
+    2.  
+ 
+ w  =
+ 
+    10.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ r  =
+ 
+    1.7320508  
+ 
+ a_n  =
+ 
+    1.8994063  
+ 
+ 
+ 
+ A  =
+ 
+    0.8660254  - 0.5        
+    0.5          0.8660254  
+ 
+ B  =
+ 
+    0.5898777  
+    10.        
+ 
+ C  =
+ 
+    5.5108491  
+    8.3653152  
+ 
+ 
+ 
+The value of T is 5.510849lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.8/Ex13_8.sce #
+ 
+ m  =
+ 
+    4.  
+ 
+ v  =
+ 
+    6.  
+ 
+ r  =
+ 
+    2.  
+ 
+ theta1  =
+ 
+    40.  
+ 
+ theta2  =
+ 
+    20.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a_n  =
+ 
+    18.  
+ 
+ 
+ Fi  =
+ 
+    2.2360248  
+ 
+ 
+ A  =
+ 
+    0.7660444    0.9396926  
+    0.6427876  - 0.3420201  
+ 
+ B  =
+ 
+    4.         
+    2.2360248  
+ 
+ C  =
+ 
+    4.0059525  
+    0.9910287  
+ 
+ 
+ 
+The value of T and C are 4.005952lb and 0.991029lb respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.10/Ex13_10.sce #
+ 
+ m1  =
+ 
+    2.  
+ 
+ theta  =
+ 
+    20.  
+ 
+ m2  =
+ 
+    4.  
+ 
+ t  =
+ 
+    4.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ vo  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.  - 2.  
+    1.    4.  
+ 
+ B  =
+ 
+    6.7035948  
+    39.2       
+ 
+ C  =
+ 
+    17.53573   
+    5.4160675  
+ 
+ a  =
+ 
+    5.4160675  
+ 
+ v  =
+ 
+    21.66427  
+ 
+ 
+ 
+The velocity of 4kg mass is 21.664270m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.11/Ex13_11.sce #
+ 
+ m_A  =
+ 
+    20.  
+ 
+ m_B  =
+ 
+    60.  
+ 
+ u  =
+ 
+    0.3  
+ 
+ t  =
+ 
+    4.  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ theta2  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ vo  =
+ 
+    0.  
+ 
+ 
+ N1  =
+ 
+    17.320508  
+ 
+ N2  =
+ 
+    30.  
+ 
+ 
+ A  =
+ 
+    1.  - 0.6211180  
+  - 1.  - 1.863354   
+ 
+ B  =
+ 
+    15.196152  
+  - 42.961524  
+ 
+ C  =
+ 
+    22.137495  
+    11.175562  
+ 
+ a  =
+ 
+    11.175562  
+ 
+ v  =
+ 
+    44.702249  
+ 
+ 
+ 
+The velocity is 44.702249ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.12/Ex13_12.sce #
+ 
+ m_A  =
+ 
+    40.  
+ 
+ m_B  =
+ 
+    15.  
+ 
+ F  =
+ 
+    500.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ m  =
+ 
+    55.  
+ 
+ a  =
+ 
+    4.1909091  
+ 
+ 
+ 
+ Nb  =
+ 
+    178.43182  
+ 
+ 
+ u  =
+ 
+    0.3051110  
+ 
+ 
+ 
+The value of u is 0.305111 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.13/Ex13_13.sce #
+ 
+ P  =
+ 
+    70.  
+ 
+ m_A  =
+ 
+    16.  
+ 
+ u_AH  =
+ 
+    0.25  
+ 
+ m_B  =
+ 
+    4.  
+ 
+ u_BH  =
+ 
+    0.5  
+ 
+ theta  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ A  =
+ 
+  - 0.9848078  - 0.25  - 16.    0.   
+  - 0.1736482    1.      0.     0.   
+    0.9848078    0.    - 4.   - 0.5  
+    0.1736482    0.      0.     1.   
+ 
+ B  =
+ 
+  - 70.    
+    156.8  
+    0.     
+    39.2   
+ 
+ C  =
+ 
+    20.546603  
+    160.36788  
+    0.6045985  
+    35.63212   
+ 
+ 
+ 
+The Value of T is 20.546603N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.14/Ex13_14.sce #
+ 
+ theta  =
+ 
+    10.  
+ 
+ v  =
+ 
+    10.  
+ 
+ v0  =
+ 
+    0.  
+ 
+ u  =
+ 
+    0.3333333  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    4.9787986  
+ 
+ 
+ t  =
+ 
+    2.0085167  
+ 
+ 
+ 
+The value of a is 4.978799ft/s^2
+ The time required is 2.008517 seconds 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.15/Ex13_15.sce #
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ A  =
+ 
+  - 1.5  - 4.   
+  - 3.5    24.  
+ 
+ B  =
+ 
+  - 39.2   
+  - 235.2  
+ 
+ C  =
+ 
+    37.632  
+  - 4.312   
+ 
+ T2  =
+ 
+    37.632  
+ 
+ T1  =
+ 
+    18.816  
+ 
+ T3  =
+ 
+    18.816  
+ 
+ 
+ a1  =
+ 
+  - 9.016  
+ 
+ a2  =
+ 
+    0.392  
+ 
+ a3  =
+ 
+    3.528  
+ 
+ a4  =
+ 
+    5.096  
+ 
+ 
+ T_f  =
+ 
+    75.264  
+ 
+ 
+ 
+The acceleration values are a1=-9.016000,a2=0.392000,a3=3.528000 and a4=5.096000 m/s^2
+ The tension in the fixed cord is 75.264000N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.16/Ex13_16.sce #
+ 
+ m1  =
+ 
+    14.  
+ 
+ m2  =
+ 
+    7.  
+ 
+ theta  =
+ 
+    45.  
+ 
+ u_1  =
+ 
+    0.25  
+ 
+ u_2  =
+ 
+    0.375  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ N1  =
+ 
+    97.01505  
+ 
+ F1  =
+ 
+    24.253763  
+ 
+ 
+ N2  =
+ 
+    48.507525  
+ 
+ F2  =
+ 
+    18.190322  
+ 
+ 
+ A  =
+ 
+  - 1.  - 14.  
+    1.  - 7.   
+ 
+ B  =
+ 
+  - 72.761288  
+  - 30.317203  
+ 
+ C  =
+ 
+    4.0422938  
+    4.9084996  
+ 
+ 
+ 
+The Value of T is 4.042294N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.19/Ex13_19.sce #
+ 
+ W  =
+ 
+    12.  
+ 
+ k  =
+ 
+    2.  
+ 
+ M  =
+ 
+    0.34  
+ 
+ K  =
+ 
+    22.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ a  =
+ 
+    48.3  
+ 
+ b  =
+ 
+    0.75  
+ 
+ f  =
+ 
+    1.2772122  
+ 
+ 
+ F  =
+ 
+    1.2802418  
+ 
+ 
+ 
+The frequency in part (a) is 1.277212 Hz and in part(b) is 1.280242 Hz 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.20/Ex13_20.sce #
+ 
+ 
+ theta  =
+ 
+    48.189685  
+ 
+ 
+ 
+The value of theta is 48.189685 degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.28/Ex13_28.sce #
+ 
+ G  =
+ 
+    6.658D-08  
+ 
+ 
+ G1  =
+ 
+    3.190D-08  
+ 
+ G2  =
+ 
+    3.190D-08  
+ 
+ 
+ G1  =
+ 
+    3.190D-08  
+ 
+ G2  =
+ 
+    3.190D-08  
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.29/Ex13_29.sce #
+ 
+ 
+ C  =
+ 
+    26400000.  
+ 
+ G  =
+ 
+    3.430D-08  
+ 
+ M  =
+ 
+    4.090D+23  
+ 
+ a  =
+ 
+    5.310D+08  
+ 
+ 
+ vo1  =
+ 
+    23043.437  
+ 
+ 
+ vo2  =
+ 
+    32594.327  
+ 
+ 
+ 
+The value of vo1=23043.437244 is smaller than vo2=32594.326984,hence the
+ Satellite will enter a hyperbolic path and never return 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.30/Ex13_30.sce #
+ 
+ r  =
+ 
+    4440.  
+ 
+ phi  =
+ 
+    0.  
+ 
+ vo  =
+ 
+    36000.  
+ 
+ C  =
+ 
+    8.440D+11  
+ 
+ G  =
+ 
+    3.430D-08  
+ 
+ M  =
+ 
+    4.090D+23  
+ 
+ 
+ e  =
+ 
+    1.1657308  
+ 
+ 
+ 
+The value of e=1.165731 hence the path is Hyperbolic 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH13/EX13.31/Ex13_31.sce #
+ 
+ a  =
+ 
+    92900000.  
+ 
+ G  =
+ 
+    3.430D-08  
+ 
+ T  =
+ 
+    31536000.  
+ 
+ c  =
+ 
+    5280.  
+ 
+ 
+ M  =
+ 
+    1.366D+29  
+ 
+ 
+ 
+The mass of the sun is 136584467048268667766341369856.000000 slugs 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.2/Ex14_2.sce #
+ 
+ d  =
+ 
+    500.  
+ 
+ wo  =
+ 
+    0.  
+ 
+ w  =
+ 
+    300.  
+ 
+ t  =
+ 
+    20.  
+ 
+ t1  =
+ 
+    2.  
+ 
+ 
+ alpha  =
+ 
+    1.5707963  
+ 
+ w1  =
+ 
+    3.1415927  
+ 
+ v  =
+ 
+    0.7853982  
+ 
+ a_n  =
+ 
+    2.4674011  
+ 
+ a_t  =
+ 
+    0.3926991  
+ 
+ a  =
+ 
+    2.4984557  
+ 
+ theta  =
+ 
+    9.0430611  
+ 
+ 
+ 
+The computed values are
+ alpha=1.570796rad/s^2,w1=3.141593rad/s,v=0.785398rad/s
+ a=2.498456m/s^2 and the angle made is 9.043061degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.3/Ex14_3.sce #
+ 
+ s_BC  =
+ 
+    2.  
+ 
+ s_C  =
+ 
+    2.5  
+ 
+ 
+ s_B  =
+ 
+    3.2015621  
+ 
+ theta  =
+ 
+    38.659808  
+ 
+ 
+ 
+The absolute displacement is 3.201562m and the angle made by the vector is 38.659808degrees 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.4/Ex14_4.sce #
+ 
+ V_A  =
+ 
+    20.  
+ 
+ V_B  =
+ 
+    70.  
+ 
+ theta1  =
+ 
+    60.  
+ 
+ phi  =
+ 
+    45.  
+ 
+ 
+ 
+ v_A  =
+ 
+  - 14.142136    14.142136  
+ 
+ v_B  =
+ 
+    35.    60.621778  
+ 
+ a  =
+ 
+    20.857864  
+ 
+ b  =
+ 
+    74.763914  
+ 
+ v_ab  =
+ 
+    77.618898  
+ 
+ theta  =
+ 
+    74.411799  
+ 
+ 
+ 
+ 
+The relative velocity is 77.618898mi/h making an angle 74.411799degres 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.9/Ex14_9.sce #
+ 
+ l  =
+ 
+    2.5  
+ 
+ v_A  =
+ 
+    4.  
+ 
+ a_A  =
+ 
+    5.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ 
+ v_ab  =
+ 
+    2.93  
+ 
+ w  =
+ 
+    1.172  
+ 
+ 
+ alpha_ab  =
+ 
+    2.75  
+ 
+ alpha  =
+ 
+    1.1  
+ 
+ 
+ 
+The value of angular velocity is 1.172000rad/s and  that of angular acceleration is 1.100000rad/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.10/Ex14_10.sce #
+ 
+ w  =
+ 
+    12.566371  
+ 
+ l  =
+ 
+    24.  
+ 
+ l_c  =
+ 
+    4.  
+ 
+ th  =
+ 
+    30.  
+ 
+ 
+ v  =
+ 
+    4.1887902  
+ 
+ betaa  =
+ 
+    4.7801918  
+ 
+ theta  =
+ 
+    55.219808  
+ 
+ 
+ v1  =
+ 
+    2.3894101  
+ 
+ v_p  =
+ 
+    2.3977501  
+ 
+ 
+ 
+The absoulte velocity is 2.397750ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.13/Ex14_13.sce #
+ 
+ v_pc  =
+ 
+    3.68  
+ 
+ l  =
+ 
+    2.  
+ 
+ 
+ w  =
+ 
+    1.84  
+ 
+ 
+ 
+The angular velocity is 1.840000rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.14/Ex14_14.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ w  =
+ 
+    12.566371  
+ 
+ l  =
+ 
+    2.  
+ 
+ w2  =
+ 
+    1.84  
+ 
+ 
+ ac_n  =
+ 
+    52.63789  
+ 
+ a_pc_n  =
+ 
+    6.7712  
+ 
+ 
+ 
+The  value of ac_n is 52.637890ft/s^2 and that of a_pc_n is 6.771200ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.15/Ex14_15.sce #
+ 
+ w_bc  =
+ 
+    10.  
+ 
+ AB  =
+ 
+    250.  
+ 
+ BC  =
+ 
+    150.  
+ 
+ AC  =
+ 
+    179.  
+ 
+ AD  =
+ 
+    200.  
+ 
+ theta1  =
+ 
+    45.  
+ 
+ 
+ v_c  =
+ 
+    1.5  
+ 
+ AC  =
+ 
+    178.79315  
+ 
+ betaa  =
+ 
+    36.386776  
+ 
+ gammaa  =
+ 
+    81.386776  
+ 
+ ang  =
+ 
+    23.613224  
+ 
+ CD  =
+ 
+    80.236206  
+ 
+ D  =
+ 
+    63.199648  
+ 
+ theta  =
+ 
+    86.812871  
+ 
+ n  =
+ 
+    101.80035  
+ 
+ v_cd  =
+ 
+  - 0.3067531  
+ 
+ del  =
+ 
+    26.800352  
+ 
+ v_D  =
+ 
+  - 0.3436690  
+ 
+ w_AD  =
+ 
+  - 1.7183449  
+ 
+ 
+ 
+The angular Velocity of AD is -1.718345rad/s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.18/Ex14_18.sce #
+ 
+ theta1  =
+ 
+    73.9  
+ 
+ V  =
+ 
+    900.  
+ 
+ theta2  =
+ 
+    60.  
+ 
+ theta3  =
+ 
+    46.1  
+ 
+ 
+ BC  =
+ 
+    360.55452  
+ 
+ CD  =
+ 
+    400.  
+ 
+ v_cb  =
+ 
+    811.2404  
+ 
+ v_c  =
+ 
+    674.96885  
+ 
+ w_dc  =
+ 
+    1.6874221  
+ 
+ w_cb  =
+ 
+    2.2499798  
+ 
+ 
+ 
+The angular velocities are w_dc=1.687422rad/s,w_bc=2.249980rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.19/Ex14_19.sce #
+ 
+ 
+ 
+ A  =
+ 
+    346.    86.7  
+    200.  - 350.  
+ 
+ B  =
+ 
+  - 3700.  
+  - 1790.  
+ 
+ C  =
+ 
+  - 10.475246  
+  - 0.8715689  
+ 
+ 
+ 
+The angular accelerations are alpha_DC=-10.475246rad/s^2 and alpha_BC=-0.871569rad/s^2 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.20/Ex14_20.sce #
+ 
+ d  =
+ 
+    3.  
+ 
+ w  =
+ 
+    8.  
+ 
+ alpha  =
+ 
+    4.  
+ 
+ r  =
+ 
+    1.5  
+ 
+ 
+ vo  =
+ 
+    12.  
+ 
+ ao  =
+ 
+    6.  
+ 
+ 
+ OB  =
+ 
+    1.5  
+ 
+ v_bo  =
+ 
+    12.  
+ 
+ v_B  =
+ 
+    24.  
+ 
+ 
+ a_bo  =
+ 
+    6.  
+ 
+ a_bo_n  =
+ 
+    96.  
+ 
+ a_h  =
+ 
+    12.  
+ 
+ a_v  =
+ 
+    96.  
+ 
+ a_B  =
+ 
+    96.747093  
+ 
+ phi  =
+ 
+    7.1250163  
+ 
+ 
+ 
+The linear velocity at B is 24.000000m/s and the acceleration is 96.747093n/s^2 making an angle of 7.125016 degrees with horizontal 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.21/Ex14_21.sce #
+ 
+ OA  =
+ 
+    0.6  
+ 
+ w  =
+ 
+    8.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ v_O  =
+ 
+    12.  
+ 
+ alpha  =
+ 
+    4.  
+ 
+ a_O  =
+ 
+    6.  
+ 
+ 
+ 
+ v_AO  =
+ 
+    4.8  
+ 
+ v_Ah  =
+ 
+    14.4  
+ 
+ v_Av  =
+ 
+    4.1569219  
+ 
+ v_A  =
+ 
+    14.987995  
+ 
+ phi  =
+ 
+    16.102114  
+ 
+ 
+ a_AOt  =
+ 
+    2.4  
+ 
+ a_AOn  =
+ 
+    38.4  
+ 
+ a_Ah  =
+ 
+  - 40.455376  
+ 
+ a_Av  =
+ 
+  - 17.121539  
+ 
+ a_A  =
+ 
+    43.929313  
+ 
+ phi2  =
+ 
+    22.939071  
+ 
+ 
+ 
+The velocity is 14.987995m/s making an angle 16.102114 degrees with horizontal
+ The acceleration is 43.929313m/s^2 making an angle 22.939071degrees with horizontal 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.22/Ex14_22.sce #
+ 
+ AL  =
+ 
+    5.  
+ 
+ d  =
+ 
+    10.  
+ 
+ 
+ theta  =
+ 
+    2.  
+ 
+ s_o  =
+ 
+    6.  
+ 
+ 
+ 
+The displacement  So is 6 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.23/Ex14_23.sce #
+ 
+ 
+ v  =
+ 
+    12.  
+ 
+ a  =
+ 
+    18.  
+ 
+ 
+ v_D  =
+ 
+    16.  
+ 
+ 
+ v_F  =
+ 
+    8.  
+ 
+ 
+ a_D  =
+ 
+    24.  
+ 
+ 
+ a_F  =
+ 
+    12.  
+ 
+ 
+ 
+The velocity and acceleration of weight A are 8in/s and 12in/s^2 respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.24/Ex14_24.sce #
+ 
+ 
+ sD  =
+ 
+    8.  
+ 
+ aD  =
+ 
+    12.  
+ 
+ 
+ sF  =
+ 
+    4.  
+ 
+ aF  =
+ 
+    6.  
+ 
+ 
+ 
+The velocity and acceleration of weight A are 4in/s and 6in/s^2 respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH14/EX14.26/Ex14_26.sce #
+ 
+ v_BG  =
+ 
+    300.  
+ 
+ v_G  =
+ 
+    300.  
+ 
+ a_BGt  =
+ 
+    500.  
+ 
+ a_BGn  =
+ 
+    3600.  
+ 
+ a_Gh  =
+ 
+    500.  
+ 
+ a_Bv  =
+ 
+    1800.  
+ 
+ 
+ w  =
+ 
+    12.  
+ 
+ alpha  =
+ 
+    20.  
+ 
+ v_B  =
+ 
+    424.26407  
+ 
+ a_v  =
+ 
+    1300.  
+ 
+ a_h  =
+ 
+    3100.  
+ 
+ a_B  =
+ 
+    3361.5473  
+ 
+ 
+ 
+The velocity and acceleration of point B are 424mm/s and 3361mm/s^2 respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.11/Ex15_11.sce #
+ 
+ y1  =
+ 
+    1.  
+ 
+ y2  =
+ 
+    4.  
+ 
+ d1  =
+ 
+    1.2  
+ 
+ d2  =
+ 
+    1.8  
+ 
+ A1  =
+ 
+    12.  
+ 
+ A2  =
+ 
+    8.  
+ 
+ b1  =
+ 
+    6.  
+ 
+ b2  =
+ 
+    2.  
+ 
+ h1  =
+ 
+    2.  
+ 
+ h2  =
+ 
+    4.  
+ 
+ 
+ y_bar  =
+ 
+    2.2  
+ 
+ I1  =
+ 
+    4.  
+ 
+ I2  =
+ 
+    10.666667  
+ 
+ 
+ I  =
+ 
+    57.866667  
+ 
+ 
+ 
+The moment of inertia is 57.866667 in^4 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.12/Ex15_12.sce #
+ 
+ d  =
+ 
+    60.  
+ 
+ 
+ At  =
+ 
+    10000.  
+ 
+ Ab  =
+ 
+    20000.  
+ 
+ Ac  =
+ 
+    2827.4334  
+ 
+ bt  =
+ 
+    100.  
+ 
+ ht  =
+ 
+    100.  
+ 
+ bb  =
+ 
+    200.  
+ 
+ hb  =
+ 
+    100.  
+ 
+ 
+ yt  =
+ 
+    150.  
+ 
+ yb  =
+ 
+    50.  
+ 
+ yc  =
+ 
+    150.  
+ 
+ 
+ y_bar  =
+ 
+    76.396353  
+ 
+ 
+ dt  =
+ 
+    73.603647  
+ 
+ db  =
+ 
+    26.396353  
+ 
+ dc  =
+ 
+    73.603647  
+ 
+ 
+ It  =
+ 
+    8333333.3  
+ 
+ Ib  =
+ 
+    16666667.  
+ 
+ Ic  =
+ 
+    636172.51  
+ 
+ 
+ I  =
+ 
+    77156534.  
+ 
+ 
+ 
+The moment of inertia is 77156533.559533 mm^4 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.14/Ex15_14.sce #
+ 
+ b1  =
+ 
+    2.  
+ 
+ b2  =
+ 
+    4.  
+ 
+ h1  =
+ 
+    8.  
+ 
+ h2  =
+ 
+    2.  
+ 
+ bo  =
+ 
+    8.  
+ 
+ ho  =
+ 
+    8.  
+ 
+ bi  =
+ 
+    4.  
+ 
+ hi  =
+ 
+    4.  
+ 
+ 
+ I1  =
+ 
+    85.333333  
+ 
+ I2  =
+ 
+    2.6666667  
+ 
+ I  =
+ 
+    176.  
+ 
+ Io  =
+ 
+    341.33333  
+ 
+ Ii  =
+ 
+    21.333333  
+ 
+ I_bar  =
+ 
+    320.  
+ 
+ 
+ 
+The moment of inertia is 320.000000 in^4 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.15/Ex15_15.sce #
+ 
+ b1  =
+ 
+    75.  
+ 
+ b2  =
+ 
+    12.  
+ 
+ h1  =
+ 
+    12.  
+ 
+ h2  =
+ 
+    162.  
+ 
+ d1  =
+ 
+    75.  
+ 
+ 
+ A  =
+ 
+    3744.  
+ 
+ I1  =
+ 
+    5073300.  
+ 
+ I2  =
+ 
+    4251528.  
+ 
+ I_bar  =
+ 
+    14398128.  
+ 
+ k  =
+ 
+    62.013336  
+ 
+ 
+ 
+The radius of gyration is 62.013336 mm 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.20/Ex15_20.sce #
+ 
+ r  =
+ 
+    50.  
+ 
+ 
+ Ixy  =
+ 
+    781250.  
+ 
+ 
+ 
+The moment of inertia is 781250.000000 mm^4 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.24/Ex15_24.sce #
+ 
+ 
+ x  =
+ 
+    1.6538462  
+ 
+ y  =
+ 
+    2.6538462  
+ 
+ 
+ Ix  =
+ 
+    80.775833  
+ 
+ Iy  =
+ 
+    38.775833  
+ 
+ Ixy  =
+ 
+  - 32.3075  
+ 
+ 
+ d  =
+ 
+    59.775833  
+ 
+ r  =
+ 
+    38.526484  
+ 
+ maxI  =
+ 
+    98.302318  
+ 
+ theta  =
+ 
+    56.969898  
+ 
+ minI  =
+ 
+    21.249349  
+ 
+ 
+ 
+The moment of inertias are as follows
+ Ix=80.775833 in^4,Iy=38.775833 in^4,Ixy=-32.307500 in^4
+ Imax=98.302318in^4 and Imin=21.249349 in^4 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.25/Ex15_25.sce #
+ 
+ 
+ x  =
+ 
+  - 40.277778  
+ 
+ y  =
+ 
+    40.277778  
+ 
+ Iy  =
+ 
+    7671443.7  
+ 
+ Ix  =
+ 
+    7671443.7  
+ 
+ 
+ Ixy  =
+ 
+    4340275.  
+ 
+ 
+ Imax  =
+ 
+    12011719.  
+ 
+ Imin  =
+ 
+    3331168.7  
+ 
+ 
+ 
+The values of moment of inertia are
+ Ix=7671443.750000mm^4,Iy=7671443.750000mm^4,Ixy=4340275.000000mm^4
+ Imax=12011718.750000mm^4 and Imin=3331168.750000mm^4 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.30/Ex15_30.sce #
+ 
+ rho  =
+ 
+    490.  
+ 
+ t  =
+ 
+    0.02  
+ 
+ d  =
+ 
+    4.  
+ 
+ r  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ W  =
+ 
+    0.0712676  
+ 
+ 
+ m  =
+ 
+    0.0022133  
+ 
+ 
+ I  =
+ 
+    0.0000154  
+ 
+ 
+ 
+the moment of inertia is 0.000015slug-ft^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.36/Ex15_36.sce #
+ 
+ 
+ m  =
+ 
+    500.  
+ 
+ R  =
+ 
+    0.25  
+ 
+ h  =
+ 
+    0.5  
+ 
+ 
+ Ix  =
+ 
+    9.375  
+ 
+ Iy  =
+ 
+    79.6875  
+ 
+ 
+ 
+Hence proved that Ix=9.375000kg-m^2 and Iy=79.687500kg-m^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH15/EX15.37/Ex15_37.sce #
+ 
+ del  =
+ 
+    450.  
+ 
+ h1  =
+ 
+    0.75  
+ 
+ h2  =
+ 
+    0.8333333  
+ 
+ ro1  =
+ 
+    0.3333333  
+ 
+ ri1  =
+ 
+    0.1666667  
+ 
+ ro2  =
+ 
+    1.5  
+ 
+ ri2  =
+ 
+    1.3333333  
+ 
+ a  =
+ 
+    0.1041667  
+ 
+ b  =
+ 
+    0.1458333  
+ 
+ l  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Whub  =
+ 
+    88.357293  
+ 
+ Wrim  =
+ 
+    556.3237  
+ 
+ 
+ Wspoke  =
+ 
+    21.475731  
+ 
+ 
+ Ihub  =
+ 
+    0.1905566  
+ 
+ Irim  =
+ 
+    34.794227  
+ 
+ Ispoke  =
+ 
+    3.1124248  
+ 
+ Iwheel  =
+ 
+    38.097209  
+ 
+ 
+ 
+The moment of inertia of the wheel is 38.097209lb-s^2-ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.2/Ex16_2.sce #
+ 
+ W  =
+ 
+    600.  
+ 
+ d  =
+ 
+    30.  
+ 
+ theta  =
+ 
+    25.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ m  =
+ 
+    18.63354  
+ 
+ 
+ I  =
+ 
+    14.557453  
+ 
+ 
+ 
+ A  =
+ 
+    1.      18.63354    0.           0.  
+    0.      0.          0.           1.  
+    1.25    0.        - 14.557453    0.  
+    0.      1.        - 1.25         0.  
+ 
+ B  =
+ 
+    253.57096  
+    543.78467  
+    0.         
+    0.         
+ 
+ C  =
+ 
+    84.523652  
+    9.0722054  
+    7.2577643  
+    543.78467  
+ 
+ 
+ 
+The Frictional Force is 84.523652 lb and the acceleration is 9.072205 ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.3/Ex16_3.sce #
+ 
+ m  =
+ 
+    18.  
+ 
+ d  =
+ 
+    0.6  
+ 
+ vo  =
+ 
+    3.  
+ 
+ theta  =
+ 
+    20.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ I  =
+ 
+    0.81  
+ 
+ 
+ A  =
+ 
+    1.     18.    0.    0.    
+    0.     0.     1.    0.    
+    0.3    0.     0.  - 0.81  
+    0.     1.     0.  - 0.3   
+ 
+ B  =
+ 
+    60.332353  
+    165.76178  
+    0.         
+    0.         
+ 
+ C  =
+ 
+    20.110784  
+    2.2345316  
+    165.76178  
+    7.4484387  
+ 
+ 
+ F  =
+ 
+    20.110784  
+ 
+ ax  =
+ 
+    2.2345316  
+ 
+ Na  =
+ 
+    165.76178  
+ 
+ alpha  =
+ 
+    7.4484387  
+ 
+ 
+ v  =
+ 
+    0.  
+ 
+ t  =
+ 
+    1.3425632  
+ 
+ 
+ 
+It takes 1.342563 s to reach the highest point of travel 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.5/Ex16_5.sce #
+ 
+ m  =
+ 
+    20.  
+ 
+ F1  =
+ 
+    40.  
+ 
+ ro  =
+ 
+    0.6  
+ 
+ ri  =
+ 
+    0.45  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ I  =
+ 
+    2.88  
+ 
+ 
+ 
+ A  =
+ 
+    1.     20.  
+    0.6  - 4.8  
+ 
+ B  =
+ 
+    40.  
+    18.  
+ 
+ C  =
+ 
+    32.857143  
+    0.3571429  
+ 
+ 
+ F  =
+ 
+    32.857143  
+ 
+ a  =
+ 
+    0.3571429  
+ 
+ 
+ 
+The acceleration is 0.357143 m/s^2 and F=32.857143 N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.6/Ex16_6.sce #
+ 
+ W  =
+ 
+    16.1  
+ 
+ u  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    32.2  
+ 
+ theta  =
+ 
+    30.  
+ 
+ F  =
+ 
+    1.39  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    13.32  
+ 
+ alpha  =
+ 
+    13.9  
+ 
+ 
+ 
+The value of a is 13.320000 ft/s^2 and alpha is 13.900000 rad/s^2.
+ Hence the sphere will both roll and slip. 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.8/Ex16_8.sce #
+ 
+ theta  =
+ 
+    30.  
+ 
+ W  =
+ 
+    80.  
+ 
+ Ww  =
+ 
+    100.  
+ 
+ I  =
+ 
+    4.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ v  =
+ 
+    20.  
+ 
+ vo  =
+ 
+    0.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ 
+ A  =
+ 
+  - 1.    0.   - 2.484472   
+    1.  - 1.   - 3.1055901  
+    0.    0.5  - 8.         
+ 
+ B  =
+ 
+  - 80.  
+    50.  
+    0.   
+ 
+ C  =
+ 
+    76.547756  
+    22.232451  
+    1.3895282  
+ 
+ 
+ T  =
+ 
+    76.547756  
+ 
+ F  =
+ 
+    22.232451  
+ 
+ a  =
+ 
+    1.3895282  
+ 
+ 
+ t  =
+ 
+    14.393375  
+ 
+ 
+ 
+The time required is 14.393375 s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.9/Ex16_9.sce #
+ 
+ M  =
+ 
+    70.  
+ 
+ ko  =
+ 
+    0.4  
+ 
+ ri  =
+ 
+    0.45  
+ 
+ ro  =
+ 
+    0.6  
+ 
+ theta  =
+ 
+    30.  
+ 
+ m  =
+ 
+    35.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ I  =
+ 
+    11.2  
+ 
+ 
+ 
+ A  =
+ 
+  - 1.    - 5.25    0.   
+    1.    - 42.   - 1.   
+  - 0.45  - 11.2    0.6  
+ 
+ B  =
+ 
+  - 343.  
+    343.  
+    0.    
+ 
+ C  =
+ 
+    364.79059  
+  - 4.1505882  
+    196.11529  
+ 
+ F  =
+ 
+    196.11529  
+ 
+ Na  =
+ 
+    594.09343  
+ 
+ 
+ u  =
+ 
+    0.3301085  
+ 
+ 
+ 
+The value of alpha is -4.150588 rad/s^2 and Tension is 364.790588 N
+ F=196.115294 N and Na=594.093427 N also u=0.330109 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.10/Ex16_10.sce #
+ 
+ m  =
+ 
+    200.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ r  =
+ 
+    1.2  
+ 
+ F1  =
+ 
+    1000.  
+ 
+ F2  =
+ 
+    1400.  
+ 
+ 
+ N  =
+ 
+    1960.  
+ 
+ I  =
+ 
+    115.2  
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.   - 200.  
+  - 1.2  - 96.   
+ 
+ B  =
+ 
+  - 400.   
+    1200.  
+ 
+ C  =
+ 
+  - 828.57143  
+  - 2.1428571  
+ 
+ 
+ F  =
+ 
+  - 828.57143  
+ 
+ alpha  =
+ 
+  - 2.1428571  
+ 
+ a  =
+ 
+  - 2.5714286  
+ 
+ 
+ 
+The value of a is -2.571429 m/s^2 and F is -828.571429 N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.11/Ex16_11.sce #
+ 
+ Wa  =
+ 
+    161.  
+ 
+ Wb  =
+ 
+    193.2  
+ 
+ Wc  =
+ 
+    300.  
+ 
+ ka  =
+ 
+    3.  
+ 
+ kb  =
+ 
+    2.5  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ theta2  =
+ 
+    45.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ Ia  =
+ 
+    45.  
+ 
+ Ib  =
+ 
+    37.5  
+ 
+ 
+ 
+ A  =
+ 
+    1.    1.  - 5.           0.    0.    
+    1.  - 4.  - 11.25        0.    0.    
+  - 2.    0.  - 23.4375      4.    0.    
+    0.    0.  - 23.291925  - 1.  - 0.25  
+    0.    0.    0.           0.    1.    
+ 
+ B  =
+ 
+    80.5       
+    0.         
+    0.         
+  - 212.13203  
+    212.13203  
+ 
+ C  =
+ 
+    88.972795  
+    11.185441  
+    3.9316472  
+    67.523393  
+    212.13203  
+ 
+ 
+ T1  =
+ 
+    88.972795  
+ 
+ T2  =
+ 
+    67.523393  
+ 
+ a  =
+ 
+    3.9316472  
+ 
+ 
+ 
+The value of a is 3.931647 ft/s^2 and T1=88.972795 lb and that of T2 is 67.523393 lb 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.12/Ex16_12.sce #
+ 
+ W  =
+ 
+    644.  
+ 
+ F  =
+ 
+    30.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ r  =
+ 
+    1.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.   - 20.        
+  - 1.5  - 26.666667  
+ 
+ B  =
+ 
+    296.01924  
+  - 60.        
+ 
+ C  =
+ 
+    160.47964  
+  - 6.7769798  
+ 
+ a  =
+ 
+  - 6.7769798  
+ 
+ 
+ 
+The value of a is -6.776980 ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.14/Ex16_14.sce #
+ 
+ W  =
+ 
+    20.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ vb  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ X  =
+ 
+    0.    1.  - 3.2298137  
+  - 1.    0.  - 1.863354   
+    3.  - 3.  - 7.4534161  
+ 
+ Y  =
+ 
+  - 0.4658385  
+  - 19.192547  
+    0.         
+ 
+ C  =
+ 
+    14.358517  
+    7.9131453  
+    2.5942623  
+ 
+ A  =
+ 
+    14.358517  
+ 
+ B  =
+ 
+    7.9131453  
+ 
+ alpha  =
+ 
+    2.5942623  
+ 
+ 
+ 
+The value of alpha is 2.594262 rad/s^2 and of A and B are 14.358517 lb 
+and 7.913145 lb respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.16/Ex16_16.sce #
+ 
+ mc  =
+ 
+    7.25  
+ 
+ d  =
+ 
+    0.9  
+ 
+ la  =
+ 
+    0.2  
+ 
+ ma  =
+ 
+    9.  
+ 
+ F  =
+ 
+    45.  
+ 
+ ay  =
+ 
+    0.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ I  =
+ 
+    1.513125  
+ 
+ 
+ Na  =
+ 
+    230.3  
+ 
+ 
+ 
+ A  =
+ 
+  - 1.    - 23.5    
+    0.45  - 3.3625  
+ 
+ B  =
+ 
+  - 45.  
+    4.5  
+ 
+ C  =
+ 
+    18.443946  
+    1.1300448  
+ 
+ F  =
+ 
+    18.443946  
+ 
+ ax  =
+ 
+    1.1300448  
+ 
+ 
+ 
+The computation yields ax=1.130045 m/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.18/Ex16_18.sce #
+ 
+ r  =
+ 
+    0.05  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ av  =
+ 
+    6.5333333  
+ 
+ 
+ 
+The value of av is 6.533333 m/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.21/Ex16_21.sce #
+ 
+ W  =
+ 
+    16.1  
+ 
+ v  =
+ 
+    9.  
+ 
+ phi  =
+ 
+    30.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ OG  =
+ 
+    4.5  
+ 
+ 
+ 
+ an  =
+ 
+    18.  
+ 
+ 
+ N  =
+ 
+    22.943009  
+ 
+ 
+ A  =
+ 
+    1.  - 0.5   
+  - 1.  - 0.25  
+ 
+ B  =
+ 
+    8.05  
+    0.    
+ 
+ C  =
+ 
+    2.6833333  
+  - 10.733333  
+ 
+ F  =
+ 
+    2.6833333  
+ 
+ at  =
+ 
+  - 10.733333  
+ 
+ 
+ 
+The value of N and F are 22.943009 lb and 2.683333 lb respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.24/Ex16_24.sce #
+ 
+ m_abc  =
+ 
+    20.  
+ 
+ m_cd  =
+ 
+    10.  
+ 
+ l_abc  =
+ 
+    3.  
+ 
+ l_cd  =
+ 
+    2.  
+ 
+ x  =
+ 
+    0.75  
+ 
+ y  =
+ 
+    1.5  
+ 
+ theta  =
+ 
+    60.  
+ 
+ F  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ a  =
+ 
+    26.  
+ 
+ b  =
+ 
+    28.3  
+ 
+ c  =
+ 
+    49.  
+ 
+ 
+ 
+ 
+ 
+ 
+ alpha  =
+ 
+    12.720001  
+ 
+ 
+ 
+The value of angular acceleration is: 12.720001rad/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.25/Ex16_25.sce #
+ 
+ W  =
+ 
+    50.  
+ 
+ P  =
+ 
+    10.  
+ 
+ t  =
+ 
+    5.  
+ 
+ vo  =
+ 
+    0.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ ax  =
+ 
+    6.44  
+ 
+ 
+ F  =
+ 
+    1.    1.  
+  - 4.    4.  
+ 
+ Q  =
+ 
+    50.  
+    10.  
+ 
+ R  =
+ 
+    23.75  
+    26.25  
+ 
+ 
+ v  =
+ 
+    32.2  
+ 
+ A  =
+ 
+    23.75  
+ 
+ B  =
+ 
+    26.25  
+ 
+ 
+ 
+The velocity of the door after 5s is 32.200000 ft/s and A=23.750000 lb and B=26.250000 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.26/Ex16_26.sce #
+ 
+ AB  =
+ 
+    2.  
+ 
+ m  =
+ 
+    2.  
+ 
+ F  =
+ 
+    20.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ a  =
+ 
+    10.  
+ 
+ 
+ A  =
+ 
+    1.   - 1.   
+    0.8    0.8  
+ 
+ B  =
+ 
+    19.6  
+    12.   
+ 
+ C  =
+ 
+    17.3  
+  - 2.3   
+ 
+ 
+ 
+The value of a is 10.000000 m/s^2 and the reactions are
+ Na=17.300000 N and Nb=-2.300000 N 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.27/Ex16_27.sce #
+ 
+ vo  =
+ 
+    0.  
+ 
+ 
+ s  =
+ 
+    14520.  
+ 
+ 
+ 
+It travels 14520.000000 ft before coming to rest 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.28/Ex16_28.sce #
+ 
+ u  =
+ 
+    0.3  
+ 
+ m  =
+ 
+    70.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ Na  =
+ 
+    686.  
+ 
+ ah  =
+ 
+    2.94  
+ 
+ 
+ 
+ F  =
+ 
+    171.5  
+ 
+ a_h  =
+ 
+    2.45  
+ 
+ 
+ 
+ 
+The value of Na is 686.000000 N and that of acceleration are 
+two values 1)2.940000 m/s^2 2)2.450000 m/s^2 each for tipping and sliding respectively
+ F is 171.500000 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.29/Ex16_29.sce #
+ 
+ m  =
+ 
+    60.  
+ 
+ me  =
+ 
+    660.  
+ 
+ a  =
+ 
+    6.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ P  =
+ 
+    948.  
+ 
+ 
+ R  =
+ 
+    96.734694  
+ 
+ 
+ I  =
+ 
+    36.734694  
+ 
+ 
+ T  =
+ 
+    10428.  
+ 
+ 
+ 
+The value of P is 948.000000 N 
+ Apparent icrease in weight is 36.734694 kg
+ Tension in the cable is 10428.000000 N. 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.30/Ex16_30.sce #
+ 
+ u  =
+ 
+    0.2  
+ 
+ ma  =
+ 
+    1.2  
+ 
+ mb  =
+ 
+    2.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ Nb  =
+ 
+    19.6  
+ 
+ F  =
+ 
+    3.92  
+ 
+ 
+ 
+ A  =
+ 
+  - 1.  - 1.2  
+    1.  - 2.   
+ 
+ B  =
+ 
+  - 11.76  
+    3.92   
+ 
+ C  =
+ 
+    8.82  
+    2.45  
+ 
+ T  =
+ 
+    8.82  
+ 
+ a  =
+ 
+    2.45  
+ 
+ 
+ x_m  =
+ 
+  - 0.0975  
+ 
+ x  =
+ 
+  - 97.5  
+ 
+ 
+ 
+The acceleration of block A is 2.450000 m/s^2 and Nb acts at a distance -97.500000 mm
+ Negative sign indictaes that the side assumed is incorrect 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.31/Ex16_31.sce #
+ 
+ a  =
+ 
+    2.5  
+ 
+ mA  =
+ 
+    3.  
+ 
+ mB  =
+ 
+    7.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ F  =
+ 
+    25.  
+ 
+ 
+ Py  =
+ 
+    68.6  
+ 
+ 
+ A  =
+ 
+    1.        1.      
+  - 0.0375    0.0375  
+ 
+ B  =
+ 
+    17.5  
+    3.43  
+ 
+ C  =
+ 
+  - 36.983333  
+    54.483333  
+ 
+ Px  =
+ 
+  - 36.983333  
+ 
+ H  =
+ 
+    54.483333  
+ 
+ 
+ 
+The value of H is 54.483333 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.32/Ex16_32.sce #
+ 
+ m  =
+ 
+    20.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ vo  =
+ 
+    3.  
+ 
+ v  =
+ 
+    0.  
+ 
+ s  =
+ 
+    4.  
+ 
+ 
+ 
+ Na  =
+ 
+    196.  
+ 
+ F  =
+ 
+    117.6  
+ 
+ a  =
+ 
+    5.88  
+ 
+ 
+ d  =
+ 
+    0.7653061  
+ 
+ displ  =
+ 
+    3.2346939  
+ 
+ v_f  =
+ 
+    6.1676576  
+ 
+ 
+ 
+The final velocity is 6.167658 m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.33/Ex16_33.sce #
+ 
+ mA  =
+ 
+    30.  
+ 
+ mB  =
+ 
+    45.  
+ 
+ u_ab  =
+ 
+    0.3333333  
+ 
+ u_bp  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ Na  =
+ 
+    294.  
+ 
+ Nb  =
+ 
+    735.  
+ 
+ a  =
+ 
+    0.5444444  
+ 
+ P  =
+ 
+    114.33333  
+ 
+ 
+ 
+ A  =
+ 
+    1.    - 1.     - 30.  
+  - 0.05  - 0.075    0.   
+    0.      1.     - 45.  
+ 
+ B  =
+ 
+    0.    
+  - 14.7  
+    73.5  
+ 
+ C  =
+ 
+    131.52632  
+    108.31579  
+    0.7736842  
+ 
+ P_new  =
+ 
+    131.52632  
+ 
+ 
+ 
+ 
+The maximum value of P is 114.333333 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.34/Ex16_34.sce #
+ 
+ Vo  =
+ 
+    1.5  
+ 
+ V  =
+ 
+    0.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ a  =
+ 
+    2.6133333  
+ 
+ t  =
+ 
+    0.5739796  
+ 
+ 
+ 
+The maximum accelerayion is 2.613333 m/s^2 and minimum time is 0.573980 s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.36/Ex16_36.sce #
+ 
+ vo  =
+ 
+    0.  
+ 
+ v  =
+ 
+    60.  
+ 
+ t  =
+ 
+    13.8  
+ 
+ W  =
+ 
+    3385.  
+ 
+ xb  =
+ 
+    46.  
+ 
+ xf  =
+ 
+    66.  
+ 
+ xv  =
+ 
+    31.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a  =
+ 
+    6.3768116  
+ 
+ 
+ F  =
+ 
+    670.35737  
+ 
+ 
+ A  =
+ 
+    1.     1.   
+  - 66.    46.  
+ 
+ B  =
+ 
+    3385.      
+  - 20781.078  
+ 
+ C  =
+ 
+    1575.8132  
+    1809.1868  
+ 
+ Rr  =
+ 
+    1575.8132  
+ 
+ Rf  =
+ 
+    1809.1868  
+ 
+ 
+ 
+The value of reactions are Rf=1809.186800 lb and Rr=1575.813200 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.43/Ex16_43.sce #
+ 
+ W  =
+ 
+    161.  
+ 
+ F  =
+ 
+    16.1  
+ 
+ r  =
+ 
+    18.  
+ 
+ t  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ wo  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.5  - 5.625  
+  - 1.   - 0.5    
+ 
+ B  =
+ 
+    0.    
+  - 16.1  
+ 
+ C  =
+ 
+    14.205882  
+    3.7882353  
+ 
+ alpha  =
+ 
+    3.7882353  
+ 
+ w  =
+ 
+    7.5764706  
+ 
+ 
+ 
+The angular speed is 7.576471 rad/s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.47/Ex16_47.sce #
+ 
+ r  =
+ 
+    2000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    4.71  
+ 
+ v  =
+ 
+    176.  
+ 
+ 
+ e  =
+ 
+    2.2654807  
+ 
+ 
+ 
+The superelevation is 2.265481 ft 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.48/Ex16_48.sce #
+ 
+ a  =
+ 
+    5.  
+ 
+ C  =
+ 
+    50.  
+ 
+ W  =
+ 
+    161.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ T  =
+ 
+    62.5  
+ 
+ Ox  =
+ 
+  - 55.901699  
+ 
+ Oy  =
+ 
+    188.95085  
+ 
+ Wa  =
+ 
+    73.988971  
+ 
+ 
+ 
+The values are T=62.500000 lb,Wa=73.988971 lb,Ox=-55.901699 lb and Oy=188.950850 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.49/Ex16_49.sce #
+ 
+ m  =
+ 
+    100.  
+ 
+ mr  =
+ 
+    20.  
+ 
+ w  =
+ 
+    8.  
+ 
+ l1  =
+ 
+    300.  
+ 
+ l2  =
+ 
+    600.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ r_bar  =
+ 
+    675.  
+ 
+ I  =
+ 
+    59.55  
+ 
+ alpha  =
+ 
+    13.329975  
+ 
+ On  =
+ 
+    5184.  
+ 
+ Ot  =
+ 
+  - 96.27204  
+ 
+ 
+ 
+The angular acceleration is 13.329975 rad/s^2 and On=5184.000000 N and Ot=-96.272040 N 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.50/Ex16_50.sce #
+ 
+ W  =
+ 
+    40.  
+ 
+ w  =
+ 
+    10.  
+ 
+ alpha  =
+ 
+    2.  
+ 
+ r  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ On  =
+ 
+    20.703934  
+ 
+ Ot  =
+ 
+    0.4140787  
+ 
+ Io  =
+ 
+    0.3795721  
+ 
+ 
+ 
+The reaction components are On=20.703934 lb and Ot=0.414079 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.51/Ex16_51.sce #
+ 
+ W  =
+ 
+    6.  
+ 
+ l  =
+ 
+    8.  
+ 
+ v  =
+ 
+    10.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ theta1  =
+ 
+    60.  
+ 
+ theta2  =
+ 
+    30.  
+ 
+ 
+ Fe  =
+ 
+    4.6583851  
+ 
+ 
+ 
+ A  =
+ 
+    0.5        - 0.8660254  
+    0.8660254    0.5        
+ 
+ B  =
+ 
+  - 4.6583851  
+    6.         
+ 
+ P  =
+ 
+    2.8669599  
+    7.0342798  
+ 
+ C  =
+ 
+    2.8669599  
+ 
+ T  =
+ 
+    7.0342798  
+ 
+ 
+ 
+The value of C is 2.866960 lb and T is 7.034280 lb 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.52/Ex16_52.sce #
+ 
+ W  =
+ 
+    32.2  
+ 
+ T  =
+ 
+    120.  
+ 
+ m  =
+ 
+    1.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ 
+ w  =
+ 
+    13.856406  
+ 
+ 
+ 
+The angular speed permissible is 13.856406 rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.53/Ex16_53.sce #
+ 
+ m  =
+ 
+    30.  
+ 
+ k  =
+ 
+    0.45  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ A  =
+ 
+    1.     0.   - 30.    
+    0.   - 1.   - 45.    
+  - 0.6    0.3  - 6.075  
+ 
+ B  =
+ 
+    490.   
+  - 1470.  
+    0.     
+ 
+ C  =
+ 
+    607.36527  
+    1293.9521  
+    3.9121756  
+ 
+ 
+ 
+The values are T1=607.365269 N T2=1293.952096 N and alpha=3.912176 rad/s^2  
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.54/Ex16_54.sce #
+ 
+ Wc  =
+ 
+    28.  
+ 
+ v  =
+ 
+    16.  
+ 
+ Ib  =
+ 
+    12.  
+ 
+ u  =
+ 
+    0.4  
+ 
+ t  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ T  =
+ 
+    34.956522  
+ 
+ alpha  =
+ 
+    6.4  
+ 
+ F  =
+ 
+    60.247826  
+ 
+ N  =
+ 
+    150.61957  
+ 
+ 
+ P  =
+ 
+    34.6425  
+ 
+ 
+ Dx  =
+ 
+    116.3575  
+ 
+ Dy  =
+ 
+  - 60.247826  
+ 
+ 
+ 
+The reactions at D are Dx=116.357500 lb and Dy=-60.247826 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.55/Ex16_55.sce #
+ 
+ m  =
+ 
+    8.  
+ 
+ n  =
+ 
+    90.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ Fg  =
+ 
+    78.4  
+ 
+ w  =
+ 
+    9.424778  
+ 
+ 
+ By  =
+ 
+    78.4  
+ 
+ 
+ A  =
+ 
+    1.     1.   
+  - 0.3    0.9  
+ 
+ B  =
+ 
+    213.18346  
+    23.52      
+ 
+ C  =
+ 
+    140.28759  
+    72.895864  
+ 
+ 
+ 
+The solution is Bx=140.287591 N ,By=78.400000 N and C=72.895864 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.56/Ex16_56.sce #
+ 
+ m  =
+ 
+    8.  
+ 
+ n  =
+ 
+    90.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ r  =
+ 
+    0.3  
+ 
+ 
+ w  =
+ 
+    9.424778  
+ 
+ 
+ C  =
+ 
+    72.895864  
+ 
+ Bx  =
+ 
+  - 140.28759  
+ 
+ By  =
+ 
+    78.4  
+ 
+ 
+ 
+The solution is Bx=-140.287591 N ,By=78.400000 N and C=72.895864 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.57/Ex16_57.sce #
+ 
+ Na  =
+ 
+    294.  
+ 
+ Nb  =
+ 
+    735.  
+ 
+ 
+ a  =
+ 
+  - 0.5444444  
+ 
+ P  =
+ 
+    114.33333  
+ 
+ 
+ 
+The solution is P=114.333333 N and a=-0.544444 m/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.58/Ex16_58.sce #
+ 
+ W  =
+ 
+    50.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ a  =
+ 
+    6.44  
+ 
+ B  =
+ 
+    26.25  
+ 
+ A  =
+ 
+    23.75  
+ 
+ 
+ 
+The solution is A=23.750000 lb B=26.250000 lb and a=6.440000 ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.60/Ex16_60.sce #
+ 
+ g  =
+ 
+    9.8  
+ 
+ r1  =
+ 
+    0.3  
+ 
+ m1  =
+ 
+    20.  
+ 
+ m2  =
+ 
+    100.  
+ 
+ r2  =
+ 
+    0.75  
+ 
+ 
+ alpha  =
+ 
+    13.329975  
+ 
+ 
+ 
+The angular acceleration is 13.329975 rad/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.61/Ex16_61.sce #
+ 
+ r  =
+ 
+    1.25  
+ 
+ W  =
+ 
+    600.  
+ 
+ theta  =
+ 
+    25.  
+ 
+ 
+ ax  =
+ 
+    9.0950845  
+ 
+ F  =
+ 
+    84.496957  
+ 
+ 
+ 
+The solution is F=84.496957 lb and ax=9.095085 ft/s^2 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH16/EX16.62/Ex16_62.sce #
+ 
+ m  =
+ 
+    7.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ r  =
+ 
+    0.5  
+ 
+ I  =
+ 
+    0.875  
+ 
+ 
+ 
+ alpha  =
+ 
+    13.066667  
+ 
+ T  =
+ 
+    22.866667  
+ 
+ 
+ 
+The soultion is alpha =13.066667 rad/s^2 and T=22.866667 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.4/Ex17_4.sci #
+ 
+ s1  =
+ 
+    2.  
+ 
+ s2  =
+ 
+    5.  
+ 
+ n  =
+ 
+    10.  
+ 
+ k  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The work done is 210.000000 in-lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.6/Ex17_6.sci #
+ 
+ m  =
+ 
+    5.  
+ 
+ d  =
+ 
+    6.  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ theta2  =
+ 
+    10.  
+ 
+ u  =
+ 
+    0.2  
+ 
+ g  =
+ 
+    9.8  
+ 
+ F  =
+ 
+    70.  
+ 
+ 
+ 
+ Na  =
+ 
+    30.279872  
+ 
+ 
+ W  =
+ 
+    68.936543  - 24.5    0.  - 36.335847  
+ 
+ 
+ W_tot  =
+ 
+    8.1006959  
+ 
+ 
+ R  =
+ 
+    38.380568  
+ 
+ W_d  =
+ 
+    230.28341  
+ 
+ 
+ 
+The work done is 230.283409 N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.7/Ex17_7.sce #
+ 
+ m  =
+ 
+    20.  
+ 
+ d  =
+ 
+    1.5  
+ 
+ theta  =
+ 
+    30.  
+ 
+ u  =
+ 
+    0.25  
+ 
+ g  =
+ 
+    9.8  
+ 
+ F  =
+ 
+    130.  
+ 
+ 
+ W  =
+ 
+    48.  
+ 
+ 
+ 
+The work done is 48 N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.9/Ex17_9.sce #
+ 
+ d  =
+ 
+    0.5  
+ 
+ l  =
+ 
+    0.6666667  
+ 
+ l_c  =
+ 
+    3.2  
+ 
+ y  =
+ 
+    1.82  
+ 
+ 
+ V  =
+ 
+    0.1308997  
+ 
+ 
+ h_i  =
+ 
+    0.0409062  
+ 
+ 
+ v_i  =
+ 
+    14400.  
+ 
+ 
+ x  =
+ 
+    1072.0685  
+ 
+ 
+ 
+The work capacity is 1072.068493 ft-lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.10/Ex17_10.sce #
+ 
+ speed  =
+ 
+    90000.  
+ 
+ P  =
+ 
+    100000.  
+ 
+ 
+ Power  =
+ 
+    2500000.  
+ 
+ 
+ 
+The power developed is 2500000.000000J/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.11/Ex17_11.sce #
+ 
+ d  =
+ 
+    0.6  
+ 
+ T_t  =
+ 
+    800.  
+ 
+ T_s  =
+ 
+    180.  
+ 
+ w  =
+ 
+    200.  
+ 
+ 
+ r  =
+ 
+    0.3  
+ 
+ 
+ M  =
+ 
+    186.  
+ 
+ 
+ w_new  =
+ 
+    20.943951  
+ 
+ Power  =
+ 
+    3895.5749  
+ 
+ 
+ 
+The power transmitted is 3895.574890 W 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.12/Ex17_12.sce #
+ 
+ P  =
+ 
+    25.6  
+ 
+ w  =
+ 
+    600.  
+ 
+ a  =
+ 
+    36.  
+ 
+ b  =
+ 
+    12.  
+ 
+ 
+ M  =
+ 
+    89.6  
+ 
+ w_new  =
+ 
+    62.831853  
+ 
+ Hp  =
+ 
+    10.23588  
+ 
+ 
+ 
+The power being transmitted is 10.235880hp 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.13/Ex17_13.sce #
+ 
+ Pout  =
+ 
+    3.8  
+ 
+ Pin  =
+ 
+    4.1  
+ 
+ 
+ Efficiency  =
+ 
+    93.  
+ 
+ 
+ 
+The efficiency of the engine is 93percent 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.15/Ex17_15.sce #
+ 
+ a  =
+ 
+    3.  
+ 
+ b  =
+ 
+    6.  
+ 
+ n  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ w  =
+ 
+    0.25  
+ 
+ 
+ 
+ 
+ 
+ !       
+at line       2 of function f                        called by :  
+line     4 of function Trap_Composite1          called by :  
+an=-Trap_Composite1(f,a,b,n) //ft-lb
+line    15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.15/Ex17_15.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ an  =
+ 
+    2.0813142  
+ 
+ v  =
+ 
+    12.773998  
+ 
+ 
+ 
+The speed of the disk is 12.773998ft/s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.16/Ex17_16.sce #
+ 
+ l  =
+ 
+    2.  
+ 
+ m  =
+ 
+    4.  
+ 
+ w_1  =
+ 
+    20.  
+ 
+ w_2  =
+ 
+    50.  
+ 
+ rev  =
+ 
+    10.  
+ 
+ 
+ Io  =
+ 
+    5.3333333  
+ 
+ w1  =
+ 
+    2.0943951  
+ 
+ w2  =
+ 
+    5.2359878  
+ 
+ theta  =
+ 
+    62.831853  
+ 
+ M  =
+ 
+    0.9773844  
+ 
+ 
+ 
+The constant moment required is 0.977384N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.18/Ex17_18.sce #
+ 
+ W  =
+ 
+    1000.  
+ 
+ w_w  =
+ 
+    200.  
+ 
+ d_w  =
+ 
+    2.5  
+ 
+ v  =
+ 
+    22.  
+ 
+ t  =
+ 
+    2.  
+ 
+ 
+ 
+ F  =
+ 
+  - 1.565735  
+ 
+ 
+ 
+ 
+The rolling resistance is -1.565735lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.19/Ex17_19.sce #
+ 
+ W  =
+ 
+    100.  
+ 
+ lo  =
+ 
+    4.  
+ 
+ theta  =
+ 
+    45.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ l  =
+ 
+    2.6666667  
+ 
+ 
+ 
+ alpha  =
+ 
+    8.5383144  
+ 
+ 
+ Ot  =
+ 
+    17.67767  
+ 
+ 
+ Work  =
+ 
+    141.42136  
+ 
+ 
+ Io  =
+ 
+    16.563147  
+ 
+ 
+ w  =
+ 
+    4.1323878  
+ 
+ 
+ On  =
+ 
+    176.7767  
+ 
+ 
+ 
+The bearing reaction at O on the rod is 176.776695lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.21/Ex17_21.sce #
+ 
+ vo  =
+ 
+    9.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ x  =
+ 
+    11.571429  
+ 
+ 
+ 
+The ball will roll 11.571429 m up the plane 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.22/Ex17_22.sce #
+ 
+ W  =
+ 
+    322.  
+ 
+ F  =
+ 
+    12.  
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    1.5707963  
+ 
+ d  =
+ 
+    3.2  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ dR  =
+ 
+    1.6  
+ 
+ d_U  =
+ 
+    38.4  
+ 
+ 
+ 
+ U  =
+ 
+    60.318579  
+ 
+ 
+ w  =
+ 
+    2.6872066  
+ 
+ 
+ 
+the angular velocity of the is 2.687207 rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.23/Ex17_23.sce #
+ 
+ m  =
+ 
+    90.  
+ 
+ k  =
+ 
+    450.  
+ 
+ lo  =
+ 
+    0.6  
+ 
+ r  =
+ 
+    0.15  
+ 
+ x  =
+ 
+    0.9  
+ 
+ y  =
+ 
+    0.4  
+ 
+ 
+ 
+ I  =
+ 
+    1.0125  
+ 
+ s1  =
+ 
+    1.0816654  
+ 
+ s2  =
+ 
+    0.7211103  
+ 
+ V1  =
+ 
+    52.200347  
+ 
+ V2  =
+ 
+    3.3002311  
+ 
+ 
+ w  =
+ 
+    5.6742935  
+ 
+ 
+ 
+The value of  angular speed is: 5.674294 rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.24/Ex17_24.sce #
+ 
+ Wa  =
+ 
+    161.  
+ 
+ Wb  =
+ 
+    193.2  
+ 
+ Wc  =
+ 
+    322.  
+ 
+ v1  =
+ 
+    5.  
+ 
+ lc  =
+ 
+    6.  
+ 
+ k  =
+ 
+    6.  
+ 
+ l  =
+ 
+    4.  
+ 
+ u  =
+ 
+    0.2  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Ib  =
+ 
+    0.75  
+ 
+ w1  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    225.  
+ 
+ 
+ 
+ U  =
+ 
+    26.4  
+ 
+ 
+ v  =
+ 
+    5.2851995  
+ 
+ 
+The velocity of the block is 5.285199 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.25/Ex17_25.sce #
+ 
+ Mm  =
+ 
+    70.  
+ 
+ Mc  =
+ 
+    45.  
+ 
+ R  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    9.8  
+ 
+ l  =
+ 
+    5.  
+ 
+ theta  =
+ 
+    50.  
+ 
+ 
+ 
+ T2  =
+ 
+    68.7  
+ 
+ v  =
+ 
+    5.0339054  
+ 
+ 
+ 
+The speed is 5.033905m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.26/Ex17_26.sce #
+ 
+ 
+ W1  =
+ 
+    96.6  
+ 
+ W2  =
+ 
+    128.8  
+ 
+ v  =
+ 
+    8.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ 
+ T2  =
+ 
+    128.  
+ 
+ 
+ U  =
+ 
+    16.1  
+ 
+ 
+ s  =
+ 
+    7.9503106  
+ 
+ 
+ 
+The block attains a speed of 8ft/s in 7.950311 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.28/Ex17_28.sce #
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    6.  
+ 
+ n  =
+ 
+    10.  
+ 
+ m  =
+ 
+    50.  
+ 
+ l  =
+ 
+    6.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ Fg  =
+ 
+    81.666667  
+ 
+ 
+ 
+ 
+ 
+ 
+The Work done is 1470.000000 N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.31/Ex17_31.sci #
+ 
+ x1  =
+ 
+    150.  
+ 
+ x2  =
+ 
+    450.  
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    300.  
+ 
+ n  =
+ 
+    10.  
+ 
+ k  =
+ 
+    0.044  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Work done is 1.980000 N.m 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.32/Ex17_32.sce #
+ 
+ m  =
+ 
+    10.  
+ 
+ d  =
+ 
+    1.2  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ KE2  =
+ 
+    7.5  
+ 
+ 
+ U  =
+ 
+    117.6  
+ 
+ 
+ v  =
+ 
+    3.959798  
+ 
+ 
+ 
+The velocity is 3.959798m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.33/Ex17_33.sce #
+ 
+ W  =
+ 
+    161.  
+ 
+ wa  =
+ 
+    150.  
+ 
+ wb  =
+ 
+    100.  
+ 
+ la  =
+ 
+    2.  
+ 
+ lb  =
+ 
+    4.  
+ 
+ 
+ 
+ T1  =
+ 
+    100.  
+ 
+ 
+ T2  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+  - 50.  
+ 
+ b  =
+ 
+    50.  
+ 
+ c  =
+ 
+    100.  
+ 
+ 
+ d  =
+ 
+    150.  
+ 
+ x1  =
+ 
+  - 1.  
+ 
+ x2  =
+ 
+    2.  
+ 
+ 
+ 
+The stretch of the spring is 2.000000 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.34/Ex17_34.sce #
+ 
+ I  =
+ 
+    100.  
+ 
+ w  =
+ 
+    4.  
+ 
+ theta  =
+ 
+    6.  
+ 
+ Mc  =
+ 
+    64.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ vb  =
+ 
+    8.  
+ 
+ vc  =
+ 
+    2.  
+ 
+ Mb  =
+ 
+    90.603386  
+ 
+ 
+ 
+The weight of the block B is 90.603386 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.35/Ex17_35.sce #
+ 
+ Wa  =
+ 
+    96.6  
+ 
+ Wb  =
+ 
+    128.8  
+ 
+ g  =
+ 
+    32.2  
+ 
+ I  =
+ 
+    12.  
+ 
+ v  =
+ 
+    16.  
+ 
+ ratio  =
+ 
+    0.3333333  
+ 
+ r  =
+ 
+    3.  
+ 
+ va  =
+ 
+    6.  
+ 
+ vb  =
+ 
+    2.  
+ 
+ 
+ 
+ W  =
+ 
+    53.666667  
+ 
+ 
+ w  =
+ 
+    2.  
+ 
+ T2  =
+ 
+    86.  
+ 
+ 
+ S  =
+ 
+    1.6024845  
+ 
+ 
+ 
+The distance through which A falls is 1.602484 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.36/Ex17_36.sce #
+ 
+ u  =
+ 
+    0.25  
+ 
+ k  =
+ 
+    2800.  
+ 
+ x  =
+ 
+    0.075  
+ 
+ g  =
+ 
+    9.8  
+ 
+ m  =
+ 
+    7.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ 
+ N  =
+ 
+    59.409343  
+ 
+ 
+ Fr  =
+ 
+    14.852336  
+ 
+ 
+ F  =
+ 
+    34.3  
+ 
+ 
+ W  =
+ 
+    7.875  
+ 
+ s  =
+ 
+    0.3299329  
+ 
+ S  =
+ 
+    330.  
+ 
+ 
+ 
+The value of S is 330 mm 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.37/Ex17_37.sce #
+ 
+ m  =
+ 
+    5.  
+ 
+ l  =
+ 
+    2.  
+ 
+ k  =
+ 
+    10000.  
+ 
+ x  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ drop  =
+ 
+    2.1  
+ 
+ 
+ Wg  =
+ 
+    102.9  
+ 
+ 
+ Ws  =
+ 
+    50.  
+ 
+ 
+ KE  =
+ 
+    2.5  
+ 
+ 
+ v  =
+ 
+    4.6  
+ 
+ 
+ 
+The speed is 4.600000 m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.38/Ex17_38.sce #
+ 
+ l  =
+ 
+    6.  
+ 
+ k  =
+ 
+    20.  
+ 
+ x  =
+ 
+    8.  
+ 
+ 
+ 
+ Wg  =
+ 
+    80.  
+ 
+ 
+ Ws  =
+ 
+    640.  
+ 
+ 
+ W  =
+ 
+    8.  
+ 
+ 
+ 
+The weight is 8 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.40/Ex17_40.sce #
+ 
+ W  =
+ 
+    8.  
+ 
+ 
+ 
+ Ws  =
+ 
+    0.2777778  
+ 
+ 
+ Wg  =
+ 
+    7.  
+ 
+ 
+ k  =
+ 
+    25.2  
+ 
+ 
+ 
+The value of k is 25.200000 lb/ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH17/EX17.41/Ex17_41.sce #
+ 
+ Wc  =
+ 
+    100.  
+ 
+ r  =
+ 
+    1.  
+ 
+ F  =
+ 
+    80.  
+ 
+ k  =
+ 
+    50.  
+ 
+ s  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ U  =
+ 
+    15.  
+ 
+ 
+ Vo  =
+ 
+    2.5377155  
+ 
+ 
+ 
+The initial speed is 2.537716 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.8/Ex18_8.sce #
+ 
+ W  =
+ 
+    100.  
+ 
+ u  =
+ 
+    0.2  
+ 
+ t  =
+ 
+    5.  
+ 
+ v1  =
+ 
+    5.  
+ 
+ v2  =
+ 
+    10.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ ll  =
+ 
+    0.  
+ 
+ ul  =
+ 
+    5.  
+ 
+ 
+ Fr  =
+ 
+    20.  
+ 
+ 
+ 
+ F  =
+ 
+    23.10559  
+ 
+ 
+ 
+The Force is 23.105590 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.9/Ex18_9.sce #
+ 
+ m  =
+ 
+    10.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ u  =
+ 
+    0.3  
+ 
+ t  =
+ 
+    5.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ Na  =
+ 
+    84.87049  
+ 
+ 
+ vx  =
+ 
+    11.769427  
+ 
+ 
+ 
+The spedd after 5s is 11.769427 m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.10/Ex18_10.sce #
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+    5.  
+ 
+ n  =
+ 
+    10.  
+ 
+ W  =
+ 
+    80.  
+ 
+ us  =
+ 
+    0.25  
+ 
+ uk  =
+ 
+    0.2  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ F  =
+ 
+    16.  
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    240.  
+ 
+ v  =
+ 
+    70.84  
+ 
+ 
+ 
+The speed of the block is 70.840000 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.11/Ex18_11.sce #
+ 
+ m  =
+ 
+    1.5  
+ 
+ i1  =
+ 
+    2.  
+ 
+ i2  =
+ 
+    3.33  
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.6006006  
+ 
+ 
+ v  =
+ 
+    0.1202404  
+ 
+ 
+ 
+The maximum velocity is:0.120240 m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.12/Ex18_12.sce #
+ 
+ m1  =
+ 
+    40.  
+ 
+ m2  =
+ 
+    10.  
+ 
+ m3  =
+ 
+    15.  
+ 
+ v0  =
+ 
+    2.5  
+ 
+ vf  =
+ 
+    5.  
+ 
+ t  =
+ 
+    12.  
+ 
+ u  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    9.8  
+ 
+ theta  =
+ 
+    45.  
+ 
+ 
+ 
+ P  =
+ 
+    357.87485  
+ 
+ 
+ 
+The value of P is 357.874849 N 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.13/Ex18_13.sce #
+ 
+ W1  =
+ 
+    4.  
+ 
+ W2  =
+ 
+    2.  
+ 
+ t2  =
+ 
+    0.04  
+ 
+ W3  =
+ 
+  - 2.  
+ 
+ t3  =
+ 
+    0.02  
+ 
+ t  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ A  =
+ 
+    0.04  
+ 
+ 
+ v  =
+ 
+    0.322  
+ 
+ 
+ 
+The spped after 3s is 0.322000 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.14/Ex18_14.sce #
+ 
+ f_r  =
+ 
+    1.  
+ 
+ ll  =
+ 
+    18.  
+ 
+ lr  =
+ 
+    22.  
+ 
+ rho  =
+ 
+    850.  
+ 
+ d  =
+ 
+    0.25  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ M  =
+ 
+    0.0002500  
+ 
+ 
+ 
+The upward momentum of mercury is 0.000250 lb-s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.15/Ex18_15.sce #
+ 
+ m  =
+ 
+    2000.  
+ 
+ k  =
+ 
+    1.2  
+ 
+ w  =
+ 
+    120.  
+ 
+ t  =
+ 
+    200.  
+ 
+ 
+ 
+ M  =
+ 
+    180.95574  
+ 
+ 
+ 
+The Momentum necessary is 180.955737 N.m 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.17/Ex18_17.sce #
+ 
+ m1  =
+ 
+    5.  
+ 
+ m2  =
+ 
+    7.  
+ 
+ mp  =
+ 
+    5.  
+ 
+ r  =
+ 
+    0.6  
+ 
+ k  =
+ 
+    0.45  
+ 
+ vi  =
+ 
+    3.  
+ 
+ vf  =
+ 
+    6.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ I  =
+ 
+    1.0125  
+ 
+ wnet  =
+ 
+    5.  
+ 
+ 
+ 
+ t  =
+ 
+    2.0950255  
+ 
+ 
+ 
+The time required is 2.095026 s 
+ 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.18/Ex18_18.sce #
+ 
+ m  =
+ 
+    50.  
+ 
+ vo  =
+ 
+    4.  
+ 
+ vf  =
+ 
+    8.  
+ 
+ t  =
+ 
+    6.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ r  =
+ 
+    0.8  
+ 
+ u  =
+ 
+    0.25  
+ 
+ I  =
+ 
+    30.  
+ 
+ 
+ Na  =
+ 
+    490.  
+ 
+ F  =
+ 
+    122.5  
+ 
+ 
+ wo  =
+ 
+    5.  
+ 
+ wf  =
+ 
+    10.  
+ 
+ 
+ mb  =
+ 
+    20.483577  
+ 
+ 
+ 
+The mass of block B is 20.483577 kg 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.19/Ex18_19.sce #
+ 
+ Ws  =
+ 
+    250.  
+ 
+ Wl  =
+ 
+    500.  
+ 
+ W3  =
+ 
+    161.  
+ 
+ W4  =
+ 
+    64.4  
+ 
+ wo  =
+ 
+    100.  
+ 
+ wf  =
+ 
+    300.  
+ 
+ rl  =
+ 
+    3.  
+ 
+ rs  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ I  =
+ 
+    85.403727  
+ 
+ 
+ change1  =
+ 
+    1788.6915  
+ 
+ 
+ change2  =
+ 
+    418.87902  
+ 
+ 
+ change3  =
+ 
+    376.99112  
+ 
+ 
+ 
+ m1  =
+ 
+    322.  
+ 
+ m2  =
+ 
+  - 193.2  
+ 
+ 
+ t  =
+ 
+    20.066472  
+ 
+ 
+ 
+The time required is 20.066472 s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.21/Ex18_21.sce #
+ 
+ d  =
+ 
+    3.  
+ 
+ W  =
+ 
+    300.  
+ 
+ theta  =
+ 
+    20.  
+ 
+ F  =
+ 
+    250.  
+ 
+ t  =
+ 
+    6.  
+ 
+ vo  =
+ 
+    0.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ 
+ A  =
+ 
+  - 9.3167702    6.  
+  - 6.9875776  - 9.  
+ 
+ B  =
+ 
+  - 884.36374  
+  - 2250.      
+ 
+ C  =
+ 
+    170.61447  
+    117.53535  
+ 
+ 
+ 
+The speed after 6s is 170.614472 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.22/Ex18_22.sce #
+ 
+ theta  =
+ 
+    30.  
+ 
+ vo  =
+ 
+    20.  
+ 
+ r  =
+ 
+    4.  
+ 
+ vf  =
+ 
+    0.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ wo  =
+ 
+    5.  
+ 
+ wf  =
+ 
+    0.  
+ 
+ 
+ 
+ t  =
+ 
+    1.863354  
+ 
+ 
+ 
+The time t is 1.863354 s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.23/Ex18_23.sce #
+ 
+ mw  =
+ 
+    75.  
+ 
+ k  =
+ 
+    0.9  
+ 
+ wi  =
+ 
+    10.  
+ 
+ wf  =
+ 
+    6.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ m  =
+ 
+    30.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ vi  =
+ 
+  - 12.  
+ 
+ vf  =
+ 
+    7.2  
+ 
+ 
+ vib  =
+ 
+  - 20.  
+ 
+ 
+ vfb  =
+ 
+    12.  
+ 
+ 
+ 
+ A  =
+ 
+    1.   - 1.   - 1440.  
+    0.8    1.2  - 972.   
+  - 1.     0.   - 720.   
+ 
+ B  =
+ 
+    0.    
+    0.    
+  - 294.  
+ 
+ C  =
+ 
+    191.73913  
+  - 12.782609  
+    0.1420290  
+ 
+ 
+ 
+ 
+The time required is 7.040816 s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.24/Ex18_24.sce #
+ 
+ d  =
+ 
+    8.  
+ 
+ W  =
+ 
+    96.6  
+ 
+ w  =
+ 
+    36.  
+ 
+ u  =
+ 
+    0.15  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ N  =
+ 
+    96.6  
+ 
+ F  =
+ 
+    14.49  
+ 
+ m  =
+ 
+    3.  
+ 
+ I  =
+ 
+    0.1666667  
+ 
+ 
+ 
+ A  =
+ 
+    14.49  - 3.   
+    4.83     0.5  
+ 
+ B  =
+ 
+    0.  
+    6.  
+ 
+ C  =
+ 
+    0.8281573  
+    4.         
+ 
+ 
+ s  =
+ 
+    1.6563147  
+ 
+ t  =
+ 
+    0.8281573  
+ 
+ 
+The time required is 0.828157 s,and it travels 1.656315 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.25/Ex18_25.sce #
+ 
+ d  =
+ 
+    0.1666667  
+ 
+ v  =
+ 
+    80.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ m  =
+ 
+    3.382253  
+ 
+ 
+ P  =
+ 
+  - 270.58024  
+ 
+ 
+ 
+The force water exerts on the plate is 270.580237 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.26/Ex18_26.sce #
+ 
+ v1  =
+ 
+    20.  
+ 
+ vw  =
+ 
+    80.  
+ 
+ d  =
+ 
+    0.1666667  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    60.  
+ 
+ 
+ m  =
+ 
+    2.5366897  
+ 
+ 
+ P  =
+ 
+    152.20138  
+ 
+ 
+ 
+The force exerted by water on the plate is 152.201383 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.27/Ex18_28.sce #
+ 
+ W  =
+ 
+    150.  
+ 
+ v  =
+ 
+    20.  
+ 
+ A  =
+ 
+    0.2  
+ 
+ t  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ m  =
+ 
+    0.0538302  
+ 
+ 
+ F  =
+ 
+  - 1.0766046  
+ 
+ 
+ Ww  =
+ 
+    104.  
+ 
+ 
+ S  =
+ 
+    255.0766  
+ 
+ 
+ 
+The scale reading is 255.076605 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.28/Ex18_28.sce #
+ 
+ W  =
+ 
+    150.  
+ 
+ v  =
+ 
+    20.  
+ 
+ A  =
+ 
+    0.2  
+ 
+ t  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ m  =
+ 
+    0.0538302  
+ 
+ 
+ F  =
+ 
+  - 1.0766046  
+ 
+ 
+ Ww  =
+ 
+    104.  
+ 
+ 
+ S  =
+ 
+    255.0766  
+ 
+ 
+ 
+The scale reading is 255.076605 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.29/Ex18_29.sce #
+ 
+ Wp  =
+ 
+    130.  
+ 
+ Wb  =
+ 
+    150.  
+ 
+ Wbullet  =
+ 
+    0.125  
+ 
+ g  =
+ 
+    32.2  
+ 
+ vbullet  =
+ 
+    1200.  
+ 
+ 
+ v  =
+ 
+  - 0.5357143  
+ 
+ 
+ 
+The speed of the boat is -0.535714 ft/s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.30/Ex18_30.sce #
+ 
+ mb  =
+ 
+    0.06  
+ 
+ ms  =
+ 
+    50.  
+ 
+ h  =
+ 
+    0.03  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ v2  =
+ 
+    0.7668116  
+ 
+ 
+ v1  =
+ 
+    639.77646  
+ 
+ 
+ 
+The speed of bullet as it entered the bag was 639.776462 m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.32/Ex18_32.sce #
+ 
+ mb  =
+ 
+    0.06  
+ 
+ vb  =
+ 
+    500.  
+ 
+ mblock  =
+ 
+    5.  
+ 
+ vblock  =
+ 
+    30.  
+ 
+ 
+ 
+ v  =
+ 
+    35.573123  
+ 
+ 
+ 
+The speed of the system is 35.573123 m/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.33/Ex18_33.sce #
+ 
+ W1  =
+ 
+    2.  
+ 
+ W2  =
+ 
+    3.  
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    2.  
+ 
+ n  =
+ 
+    10.  
+ 
+ k  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ W  =
+ 
+    2.  
+ 
+ 
+ v3  =
+ 
+    4.1440721  
+ 
+ v2  =
+ 
+  - 6.2161081  
+ 
+ 
+ 
+The speed of 2lb block is -6.216108 ft/s and that of 3lb block is 4.144072 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.34/Ex18_34.sce #
+ 
+ 
+ W  =
+ 
+    10.  
+ 
+ l  =
+ 
+    4.  
+ 
+ w  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ wf  =
+ 
+    1.5  
+ 
+ t  =
+ 
+    1.5762208  
+ 
+ 
+ 
+ r  =
+ 
+    3.  
+ 
+ 
+ 
+The answer for part (a) is 1.576221 s
+ and the answer for part (b) is 3.000000 ft 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.35/Ex18_35.sce #
+ 
+ W  =
+ 
+    2.5  
+ 
+ w  =
+ 
+    36.  
+ 
+ Idisk  =
+ 
+    0.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Ii  =
+ 
+    0.4097050  
+ 
+ If  =
+ 
+    0.5304779  
+ 
+ 
+ 
+ wf  =
+ 
+    27.803945  
+ 
+ 
+ 
+The final angular speed is 27.803945 rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.39/Ex18_39.sce #
+ 
+ u1  =
+ 
+    6.  
+ 
+ u2  =
+ 
+  - 8.  
+ 
+ e  =
+ 
+    0.8  
+ 
+ 
+ 
+ A  =
+ 
+    1.  - 1.  
+    1.    1.  
+ 
+ B  =
+ 
+    11.2  
+  - 2.    
+ 
+ C  =
+ 
+    4.6  
+  - 6.6  
+ 
+ 
+ 
+The velocities are v1=-6.600000 ft/s and v2=4.600000 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.40/Ex18_40.sce #
+ 
+ h1  =
+ 
+    20.  
+ 
+ h2  =
+ 
+    14.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ u1  =
+ 
+    19.79899  
+ 
+ u2  =
+ 
+    0.  
+ 
+ v1  =
+ 
+  - 16.565023  
+ 
+ v2  =
+ 
+    0.  
+ 
+ e  =
+ 
+    0.8366600  
+ 
+ 
+ 
+The value of coefficient of restitution is 0.836660 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.41/Ex18_41.sce #
+ 
+ u  =
+ 
+    6.55  
+ 
+ g  =
+ 
+    32.2  
+ 
+ L  =
+ 
+    6.  
+ 
+ W  =
+ 
+    5.  
+ 
+ c  =
+ 
+    0.7  
+ 
+ 
+ 
+ I  =
+ 
+    0.3390269  
+ 
+ 
+ v  =
+ 
+    5.4583333  
+ 
+ wprime  =
+ 
+    1.8541667  
+ 
+ 
+ 
+The value of v=5.458333 ft/s and that of w is 1.854167 rad/s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.42/Ex18_42.sce #
+ 
+ m1  =
+ 
+    9.  
+ 
+ m2  =
+ 
+    5.5  
+ 
+ u1  =
+ 
+  - 3.  
+ 
+ u2  =
+ 
+    1.77  
+ 
+ e  =
+ 
+    0.8  
+ 
+ 
+ 
+ A  =
+ 
+  - 1.    1.   
+    9.    5.5  
+ 
+ B  =
+ 
+  - 3.816   
+  - 17.265  
+ 
+ C  =
+ 
+    0.2567586  
+  - 3.5592414  
+ 
+ 
+ 
+The 9kg ball will rebound up the speed of 0.256759 m/s
+ and the 5.5kg ball will move to the right and down 
+with components of 1.770000 m/s and 3.559241 m/s respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.46/Ex18_46.sce #
+ 
+ v  =
+ 
+    4.  
+ 
+ m  =
+ 
+    9.  
+ 
+ s  =
+ 
+    1.5  
+ 
+ 
+ Io  =
+ 
+    13.5  
+ 
+ w  =
+ 
+    2.  
+ 
+ 
+ 
+The angular velocity of the box is 2 rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.48/Ex18_48.sce #
+ 
+ m  =
+ 
+    2000.  
+ 
+ mf  =
+ 
+    8500.  
+ 
+ vr  =
+ 
+    2000.  
+ 
+ a  =
+ 
+    9.8  
+ 
+ 
+ 
+ dm_dt  =
+ 
+  - 102.9  
+ 
+ 
+ 
+dm/dt=-102.900000 kg/s 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.50/Ex18_50.sce #
+ 
+ W  =
+ 
+    4000.  
+ 
+ k  =
+ 
+    3.  
+ 
+ wp  =
+ 
+    0.1047198  
+ 
+ ws  =
+ 
+    31.415927  
+ 
+ d  =
+ 
+    3.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ I  =
+ 
+    1118.0124  
+ 
+ M  =
+ 
+    3678.1134  
+ 
+ 
+ 
+ A  =
+ 
+    1.  - 1.  
+    1.    1.  
+ 
+ B  =
+ 
+    2101.7791  
+    4000.      
+ 
+ C  =
+ 
+    3050.8896  
+    949.11045  
+ 
+ 
+ 
+The weight of Rf and Rr are 3050.889555 lb and 949.110445 lb respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.51/Ex18_51.sce #
+ 
+ 
+ GM  =
+ 
+    1.410D+16  
+ 
+ r  =
+ 
+    2640000.  
+ 
+ theta  =
+ 
+    60.  
+ 
+ R  =
+ 
+    21120000.  
+ 
+ 
+ v1  =
+ 
+    6043.4702  
+ 
+ 
+ 
+The speed required will be 6043.470172 ft/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH18/EX18.52/Ex18_52.sce #
+ 
+ k  =
+ 
+    4.  
+ 
+ so  =
+ 
+    1.  
+ 
+ W  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ vo  =
+ 
+    5.  
+ 
+ 
+ m  =
+ 
+    0.0155280  
+ 
+ 
+ v  =
+ 
+    16.810711  
+ 
+ 
+ d  =
+ 
+    0.8922883  
+ 
+ 
+ 
+The ball passes 0.892288 ft  to the fixed pin 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.2/Ex19_2.sce #
+ 
+ k  =
+ 
+    18.  
+ 
+ g  =
+ 
+    386.  
+ 
+ W  =
+ 
+    35.  
+ 
+ 
+ f  =
+ 
+    2.2424151  
+ 
+ period  =
+ 
+    0.4459478  
+ 
+ 
+ 
+The period of vibration is 0.445948 s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.11/Ex19_11.sce #
+ 
+ ds  =
+ 
+    0.2  
+ 
+ ts  =
+ 
+    0.05  
+ 
+ rhos  =
+ 
+    7850.  
+ 
+ dw  =
+ 
+    0.002  
+ 
+ lw  =
+ 
+    0.9  
+ 
+ G  =
+ 
+    8.000D+10  
+ 
+ 
+ 
+ K  =
+ 
+    0.1396263  
+ 
+ 
+ m  =
+ 
+    12.330751  
+ 
+ 
+ Io  =
+ 
+    0.0616538  
+ 
+ 
+ f  =
+ 
+    0.2395102  
+ 
+ 
+ 
+The natural frequency of the system is 0.239510 Hz 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.13/Ex19_13.sce #
+ 
+ m  =
+ 
+    120.  
+ 
+ k  =
+ 
+    0.3  
+ 
+Warning : redefining function: ls                      . Use funcprot(0) to avoid this message
+
+ ls  =
+ 
+    0.6  
+ 
+ ds  =
+ 
+    0.05  
+ 
+ G  =
+ 
+    8.000D+10  
+ 
+ 
+ 
+ J1  =
+ 
+    10.8  
+ 
+ J2  =
+ 
+    10.8  
+ 
+ J  =
+ 
+    0.0000006  
+ 
+ 
+ f  =
+ 
+    19.589916  
+ 
+ 
+ 
+The natural frequency of the torsional oscillation is 19.589916 Hz 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.14/Ex19_14.sce #
+ 
+ ds  =
+ 
+    2.  
+ 
+ L  =
+ 
+    15.  
+ 
+ Wf1  =
+ 
+    300.  
+ 
+ k1  =
+ 
+    6.  
+ 
+ Wf2  =
+ 
+    100.  
+ 
+ k2  =
+ 
+    4.  
+ 
+ G  =
+ 
+    12000000.  
+ 
+ g  =
+ 
+    386.  
+ 
+ 
+ 
+ Jf  =
+ 
+    27.979275  
+ 
+ 
+ Jr  =
+ 
+    4.1450777  
+ 
+ 
+ J  =
+ 
+    1.5707963  
+ 
+ 
+ f  =
+ 
+    93.898291  
+ 
+ 
+ 
+The natural frequency of the system is 93.898291 cps 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.15/Ex19_15.sce #
+ 
+ W  =
+ 
+    10.  
+ 
+ A  =
+ 
+    2.  
+ 
+ 
+ wn  =
+ 
+    2.8923189  
+ 
+ 
+ 
+The frequency of oscillation is 2.892319 Hz 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.16/Ex19_16.sce #
+ 
+ f  =
+ 
+    50.  
+ 
+ g  =
+ 
+    386.  
+ 
+ E  =
+ 
+    30000000.  
+ 
+ l  =
+ 
+    4.  
+ 
+ I  =
+ 
+    0.0000021  
+ 
+ 
+ W  =
+ 
+    0.0114397  
+ 
+ 
+ 
+The value of W is 0.011440 lb 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.19/Ex19_19.sce #
+ 
+ F  =
+ 
+    10.  
+ 
+ v  =
+ 
+    20.  
+ 
+ g  =
+ 
+    386.  
+ 
+ W  =
+ 
+    12.  
+ 
+ k  =
+ 
+    20.  
+ 
+ 
+ 
+ c  =
+ 
+    0.5  
+ 
+ 
+ wn  =
+ 
+    25.364017  
+ 
+ 
+ cr  =
+ 
+    1.5770373  
+ 
+ 
+ d  =
+ 
+    0.3170502  
+ 
+ 
+ wd  =
+ 
+    24.055455  
+ 
+ 
+ 
+The frequency of damped vibrations is 24.055455 rad/s 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.20/Ex19_20.sce #
+ 
+ wn  =
+ 
+    25.4  
+ 
+ t  =
+ 
+    0.261  
+ 
+ d  =
+ 
+    0.316  
+ 
+ 
+ del  =
+ 
+    2.0948904  
+ 
+ 
+ 
+The rate of decay is 2.094890 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.24/Ex19_24.sce #
+ 
+ F  =
+ 
+    9.  
+ 
+ m  =
+ 
+    5.  
+ 
+ k  =
+ 
+    6000.  
+ 
+ f1  =
+ 
+    1.  
+ 
+ f2  =
+ 
+    5.4  
+ 
+ f3  =
+ 
+    50.  
+ 
+ 
+ 
+ fn  =
+ 
+    5.513289  
+ 
+ deltaf  =
+ 
+    1.5  
+ 
+ 
+ r1  =
+ 
+    0.1813799  
+ 
+ amp1  =
+ 
+    1.5510267  
+ 
+ 
+ r2  =
+ 
+    0.9794517  
+ 
+ amp2  =
+ 
+    36.878186  
+ 
+ 
+ r3  =
+ 
+    9.0689968  
+ 
+ amp3  =
+ 
+  - 0.0184623  
+ 
+ 
+ 
+The amplitudes in part (a),(b) and (c) respectively are 
+ 1.551027 mm,36.878186 mm and -0.018462 mm respectively 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.25/Ex19_25.sce #
+ 
+ g  =
+ 
+    386.  
+ 
+ W  =
+ 
+    20.  
+ 
+ w  =
+ 
+    600.  
+ 
+ ratio  =
+ 
+    0.0833333  
+ 
+ 
+ r  =
+ 
+    3.6055513  
+ 
+ fn  =
+ 
+    2.773501  
+ 
+ k  =
+ 
+    15.734722  
+ 
+ 
+ 
+The value of k is 15.734722 lb/in 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH19/EX19.28/Ex19_28.sce #
+ 
+ X  =
+ 
+    12.  
+ 
+ me_M  =
+ 
+    1.3  
+ 
+ 
+ d  =
+ 
+    0.0541667  
+ 
+ 
+ 
+The damping ratio is 0.054167 
+ 

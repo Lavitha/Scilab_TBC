@@ -1,0 +1,4201 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 115
+
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+Example 1.1
+
+ 
+ Page No. 08
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Heat available is 7.38e+12 J per year
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+Example 1.2
+
+ 
+Page No. 09
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+percentage of oil consumption is 31.3 
+ 
+percentage of gas consumption is 8.8 
+ 
+percentage of electricity consumption is 59.9 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+Example 1.3
+
+ 
+Page No. 10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+oil energy index is 5200 Wh per tonne 
+ 
+gas energy index is 1460 Wh per tonne 
+ 
+electricity energy index is 9950 Wh per tonne 
+ 
+total energy index is 16610 Wh per tonne  
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+Example 1.4
+
+ 
+Page No. 10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cost of coke consumption is 108000 Pound 
+ 
+cost of gas consumption is 3600 Pound 
+ 
+cost of electricity consumption is 22500 Pound 
+ 
+total cost is 134100 Pound 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+Example 1.5
+
+ 
+Page No. 11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ coke cost index is 7.20 Pound per tonne 
+ 
+ gas cost index is 0.24 Pound per tonne
+ 
+ electricity cost index is 1.50 Pound per tonne
+ 
+ total cost index is 8.94 Pound per tonne
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.8/Ex1_8.sce #
+ 
+ 
+ 
+Example 1.8
+
+ 
+Page No. 16
+
+ 
+ 
+ 
+ qunty  =
+ 
+    40.    10000.    400.    90000.  
+ 
+ unit_price  =
+ 
+    29.    0.33    0.18    0.025  
+ 
+ cost  =
+ 
+    1160.    3300.    72.    2250.  
+ 
+ common_basis  =
+ 
+    310.    492.    11.7    90.  
+ 
+ per_unit_cost  =
+ 
+    3.7419355    6.7073171    6.1538462    25.  
+ 
+ 
+ EI  =
+ 
+    6024666.7  
+ 
+ CI  =
+ 
+    45.213333  
+ 
+energy index is 6024666.67 Wh per tonne 
+ 
+cost index  is 45.21 Wh per tonne 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ 
+Example 1.10
+
+ 
+Page No. 19
+
+ 
+ 
+ 
+ 
+ qunty  =
+ 
+    15000.    4000.    90000.  
+ 
+ cost  =
+ 
+    4950.    720.    2250.  
+ 
+ common_basis1  =
+ 
+    738.    117.    90.  
+ 
+ common_basis  =
+ 
+    2655.    421.    324.  
+ 
+ unit_cost  =
+ 
+    6.7073171    6.1538462    25.  
+ 
+ 
+ 
+ 
+Monthly energy index is 4.25e+10 J per tonne 
+ 
+Monthly cost index is 99 Pound per tonne 
+
+ 
+ 
+ 
+ qunty_b  =
+ 
+    15000.    10000.  
+ 
+ Com_basis_b_1  =
+ 
+    2655.    36.  
+ 
+ Com_basis_b  =
+ 
+    738.    10.  
+ 
+ Cost_b  =
+ 
+    4950.    250.  
+ 
+ 
+ 
+ 
+Energy index  for boiler is 0.763 
+ 
+Cost index for boiler is 9.11e-03 p per Wh
+ 
+ 
+ 
+ 
+ 
+ Com_basis_p_1  =
+ 
+    14.4    2055.  - 1000.  
+ 
+ Com_basis_p  =
+ 
+    4.    571.  - 278.  
+ 
+ Cost_p  =
+ 
+    100.    5196.  - 2530.  
+ 
+ 
+Cost index for power house is 1.38e-02 p per Wh
+
+ 
+ 
+ 
+ 
+ Com_basis_s_1  =
+ 
+    36.    100.    105.  
+ 
+ Com_basis_s  =
+ 
+    10.    27.8    29.2  
+ 
+ Cost_s  =
+ 
+    250.    253.    179.  
+ 
+ EI_s  =
+ 
+    257692.31  
+ 
+ CI_s  =
+ 
+    2.6230769  
+ 
+Energy index  for space heating is 2.58e+05 Wh per degree-day
+ 
+Cost index for space heating is 2.62 Pound per degree-day
+
+ 
+ 
+ 
+ 
+ Com_basis_pr_1  =
+ 
+    216.    720.    810.    316.  
+ 
+ Com_basis_pr  =
+ 
+    60.    200.    225.    88.  
+ 
+ Cost_pr  =
+ 
+    1500.    2766.    2047.    540.  
+ 
+ 
+ 
+Energy index  for Process Energy Audit is 5.73e+06 Wh per tonne 
+ 
+Cost index for Process Energy Audit is 68.53 Pound per tonne 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+Example 2.1
+
+ 
+Page No. 44
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.  - 26250.    15250.    0.  - 11000.  - 1650.    0.  
+ 
+ bal_1  =
+ 
+  - 12650.  
+ 
+ 
+ 
+ 
+ 
+ bal_2  =
+ 
+    9800.0313  
+ 
+ 
+ c  =
+ 
+    9800.0313    0.    15250.    0.    25050.031    3757.5047    10454.128  
+ 
+ bal_3  =
+ 
+    18353.408  
+ 
+ 
+ 
+ Pay back period is of two year   
+ 
+ 
+Total saving at the end of second year is 9800 Pound
+ 
+Total saving at the end of third year is 18353 Pound
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+Example 2.2
+
+ 
+Page No. 45
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.  - 35000.    15250.    0.  - 19750.  - 2962.5    0.  
+ 
+ bal_1  =
+ 
+  - 22712.5  
+ 
+ 
+ 
+ 
+ 
+ bal_2  =
+ 
+    4195.6563  
+ 
+ 
+ c  =
+ 
+    4195.6563    0.    15250.    0.    19445.656    2916.8484    9991.7666  
+ 
+ bal_3  =
+ 
+    12370.738  
+ 
+ 
+ 
+ pay back period is of two year   
+ 
+ 
+Total saving at the end of second year is 4195.66 Pound
+ 
+Total saving at the end of third year is 12370.74 Pound
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+Example 2.3
+
+ 
+Page No. 46
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The investment has a pay-back period of less than 1 year   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+Example 2.4
+
+ 
+Page No. 47
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual Saving is 73000 Pound
+ 
+ 
+ 
+ Replacing an obsolete boiler plant is considerable   
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+Example 2.5
+
+ 
+Page No. 49
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual Saving on heating is 1870  Pound
+ 
+ 
+ 
+ 
+ The investment has a pay-back period of less than 1 year   
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ 
+Example 2.6
+
+ 
+Page No. 52
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    537.  
+ 
+ T2  =
+ 
+    306.  
+ 
+ 
+ 
+ 
+Efficiency percentage of Carnot Cycle is  43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Efficiency percentage of Rankine Cycle is  40 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+Example 3.1
+
+ 
+Page No. 58
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total repayment is 16000 Euro
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+Example 3.2
+
+ 
+Page No. 58
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total repayment after adding compond interest is 17490 Pound
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+Example 3.3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The annual investment required is 13350.9 Pound
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+Example 3.4
+
+ 
+Page No. 61
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Annual depreciation for first year is 18182 Pound
+ 
+The Annual depreciation for second year is 16364 Pound
+
+ 
+The Annual depreciation for third year is 14545 Pound
+ 
+The Annual depreciation for ten year is 1818 Pound
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+Example 3.5
+
+ 
+Page No. 62
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Asset value at the end of six years using Straight line method is 18400 Pound
+ 
+ 
+ 
+ 
+ 
+The Asset value at the end of six years using Declining balance technique is 10048 Pound
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Asset value at the end of six years using Sum of the years digit is 10545 Pound
+ 
+ 
+ 
+ 
+ 
+The Asset value at the end of six years using Sinking Fund Method is 20949 Pound
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+Example 3.6
+
+ 
+Page No. 67
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    4500.    3750.    3000.    1500.    750.  
+ 
+ dT1  =
+ 
+    13500.  
+ 
+ 
+ 
+ 
+ 
+ 
+ d2  =
+ 
+    750.    2250.    4500.    4500.    1500.  
+ 
+ dT2  =
+ 
+    13500.  
+ 
+ 
+ 
+ 
+ 
+The percentage of Rate of Return on original investment for Project A is 12.2 
+ 
+The percentage of Rate of Return on original investment for Project B is 12.2 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+Example 3.7
+
+ 
+Page No. 68
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cc  =
+ 
+    4500.    8000.    10000.    12000.    13000.  
+ 
+ 
+ Dc  =
+ 
+    1500.    5500.    10000.    12200.    14000.    15000.  
+ 
+ 
+ 
+Additional amount from C after the pay back time is 3000 Pound
+ 
+Additional amount from D after the pay back time is 5000 Pound
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+Example 3.9
+
+ 
+Page No. 70
+
+ 
+ 
+ 
+ 
+ 
+ 
+compound intrest after year 1 is equal to 1.10 Pound
+compound intrest after year 2 is equal to 1.21 Pound
+compound intrest after year 3 is equal to 1.33 Pound
+compound intrest after year 4 is equal to 1.46 Pound
+ 
+ 
+ 
+ 
+The new amount at the compound interest after fourth year is 1464 Pound
+
+ 
+ 
+ 
+ 
+The amount receivable at discount in year 1 is 0.909 Pound
+The amount receivable at discount in year 2 is 0.826 Pound
+The amount receivable at discount in year 3 is 0.751 Pound
+The amount receivable at discount in year 4 is 0.683 Pound
+ 
+ 
+ 
+ 
+The  new amount receivable at discount in fourth year is 1000 Pound
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+Example 3.10
+
+ 
+Page No. 71
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net present value is 538 Pound
+ 
+ 
+ 
+ The project may be undertaken   
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+Example 3.11
+
+ 
+Page No. 72
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.833    0.694    0.579    0.482    0.402  
+ 
+ Ce  =
+ 
+    10000.    20000.    30000.    40000.    50000.  
+ 
+ Pe  =
+ 
+    8330.    13880.    17370.    19280.    20100.  
+ 
+ 
+ Cf  =
+ 
+    50000.    40000.    30000.    20000.    10000.  
+ 
+ Pf  =
+ 
+    41650.    27760.    17370.    9640.    4020.  
+ 
+ 
+ Cash_inE  =
+ 
+    78960.  
+ 
+ Cash_inF  =
+ 
+    100440.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Project F is selected based on NPV   
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+Example 3.12
+
+ 
+Page No. 72
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Project H is more attractive than Project G   
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ 
+Example 3.13
+
+ 
+Page No. 73
+
+ 
+ 
+ 
+ 
+ 
+ Cash_in  =
+ 
+    50000.    40000.    30000.    20000.    10000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ xres  =
+ 
+    1.3449924  
+ 
+ 
+The value of rm for project F is  35 per cent
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+Example 3.17
+
+ 
+Page No. 80
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The minimum cost is 366.6 Pound 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+Example 4.1
+
+ 
+Page No. 88
+
+ 
+ 
+ 
+ K  =
+ 
+    45.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The rate of conductive heat transfer is 900 W 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+Example 4.2
+
+ 
+Page No. 89
+
+ 
+ 
+ K1  =
+ 
+    45.  
+ 
+ K2  =
+ 
+    0.04  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    59.994667  
+ 
+The rate of conductive heat transfer is 60 W 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+Example 4.3
+
+ 
+Page No. 90
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The rate of conductive heat transfer per 15 m length of pie is 322.84 W
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+Example 4.4
+
+ 
+Page No. 93
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The original heat transfer coefficient is 2447 W/sq.m K 
+ 
+ 
+ 
+ 
+The final heat transfer coefficient due to fouling is 1290 W/m^2-K 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+Example 4.5
+
+ 
+Page No. 95
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Outlet Temperature of cold fluid is 35 degree celcius
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The overall heat transfer coefficient is 1002 W/sq.m K 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+Example 4.6
+
+ 
+Page No. 98
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The film heat transfer coefficient is 5446.85 W/sq.m K
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+Example 4.7
+
+ 
+Page No. 99
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat loss per unit length without insulation is 142 W/m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the heat loss per unit length with insulation is 23.6 W/m 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+Example 4.8
+
+ 
+Page No. 103
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The radiative heat loss per unit length is 235 W/sq.m 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+Example 4.9
+
+ 
+Page No. 103
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total heat loss from per square meter area is 2358.09 W/sq.m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total heat loss from per square meter area is 2060 W/sq.m
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+Example 4.10
+
+ 
+Page No. 106
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat loss per unit length is 71 W/m 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+Example 5.1
+
+ 
+Page No. 110
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The thickness of scale is 0.0025 m 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+Example 5.2
+
+ 
+Page No. 113
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Heat absorbed by water is 183335 W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The film heat transfer coefficient is 6725 W/sq.m K
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+Example 5.3
+
+ 
+Page No. 117
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The required heat is 3270500 W 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+Example 5.4
+
+ 
+Page No. 117
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q_Ac  =
+ 
+    9521505.  
+ 
+ 
+The oil required is 0.224 kg/s 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+Example 5.5
+
+ 
+Page No. 120
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The required heat is 1664640 W 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+Example 5.6
+
+ 
+Page No. 120
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the quantity of water to be used at 25 degree celcius is 9.23 kg/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the quantity of water to be used at 30 degree celcius is 6.86 kg/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+Example 5.7
+
+ 
+Page No. 121
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    0.75272  
+ 
+ 
+the required diameter of pipe is 0.155 m 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+Example 5.8
+
+ 
+Page No. 122
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The required heat is 23985000 W 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+Example 5.9
+
+ 
+Page No. 122
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the temperature of the final superheated steam at 1.5 bar is 158 deg C 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ 
+Example 5.10
+
+ 
+Page No. 123
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the quantity of water requried is 0.108 kg/kg
+
+ 
+ 
+ 
+the total mass flow rate of water required is 0.049 kg/s 
+
+ 
+ 
+ 
+ 
+the total mass flow rate of desuperheated steam required is 0.4412 m^3/s 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ 
+Example 5.11
+
+ 
+Page No. 130
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The required heat is 194000 W 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ 
+Example 5.12
+
+ 
+Page No. 130
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The mass flow rate of dry saturated eutectic mixture is 0.47 kg/s 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.13/Ex5_13.sce #
+ 
+ 
+ 
+Example 5.13
+
+ 
+Page No. 131
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ K_d  =
+ 
+    2.8    2.65    2.55    2.75  
+ 
+ Re  =
+ 
+    117000.    324000.    159000.    208000.  
+ 
+ Pr  =
+ 
+    12.    4.5    10.    7.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The film heat transfer coefficient using Transcal N is 1552 W/sq.m K 
+ 
+ 
+ 
+ 
+The film heat transfer coefficient using Dowtherm A is 2472 W/sq.m K 
+
+ 
+ 
+ 
+ 
+The film heat transfer coefficient using Marlotherm S is 1711 W/sq.m K 
+ 
+ 
+ 
+ 
+The film heat transfer coefficient using Santotherm 60 is 2081 W/sq.m K 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.14/Ex5_14.sce #
+ 
+ 
+ 
+Example 5.14
+
+ 
+Page No. 137
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the required humidity is 0.014 kg/kg 
+ 
+ 
+ 
+ 
+ 
+the required relative humidity in percentage is 30
+
+ 
+ 
+ 
+ 
+the required dew-point temperature is 20 deg C
+ 
+ 
+ 
+ 
+ 
+ 
+the humid heat is 1032 J/kg-K
+
+ 
+ 
+ 
+ 
+the humid volume is 0.906 m^3/kg 
+ 
+ 
+ 
+ 
+the humidity of the mixture if saturated adiabatically is 0.020 kg/kg 
+
+ 
+ 
+ 
+ 
+the humidity of the mixture if saturated isothermally is 0.049 kg/kg 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH5/EX5.15/Ex5_15.sce #
+ 
+ 
+ 
+Example 5.15
+
+ 
+Page No. 137
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The required heat is 237814.35 W 
+ 
+ 
+ 
+ 
+ 
+The volumetric flow rate of initial air-water mixture is 5.66 m^3/s 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+Example 6.1
+
+ 
+Page No. 142
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The number of tubes required is 100 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+Example 6.2
+
+ 
+Page No. 142
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the number of passes is 4 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+Example 6.3
+
+ 
+Page No. 144
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The logarithmic mean temperature difference for counter-current flow is 75 degree celcius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The logarithmic mean temperature difference for co-current flow is 69 degree celcius 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+Example 6.4
+
+ 
+Page No. 147
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total number of kmol of O2 required per kg of fuel is 0.082 kmol 
+ 
+ 
+Mass of O2 required per kg of fuel is 2.6 kg 
+
+ 
+ 
+ 
+Mass of air required per kg of fuel is 11.3 kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume of air required is 9.3 m^3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+Example 6.5
+
+ 
+Page No. 148
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mass of O2 required per kg of fuel is 2.33 kg 
+ 
+ 
+ 
+Mass of air required per kg of fuel is 10.1 kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume of air required is 7.8 m^3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+Example 6.6
+
+ 
+Page No. 149
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ O2_req  =
+ 
+    0.0819792  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume of wet flue gas is 9.08 m^3 
+ 
+Volume of dry flue gas is 8.52 m^3 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+Example 6.7
+
+ 
+Page No. 150
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		      kmol 		   percent composition by volume
+ Component 	 Wet 	     Dry 		    Wet 	  Dry 
+    CO2 	 0.0617    0.0617  		   11.4 	  12.1 
+    H2O 	 0.0300    0  			   5.6 		  0.0 
+    SO2 	 0.0003    0.0003  		   0.1 		  0.1 
+    N2 		 0.4115    0.4115  		   76.2 	  80.7 
+    O2 		 0.0365    0.0365  		   6.8 		  7.1 
+    TOTAL 	 0.5399    0.5099  		   100 		  100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.8/Ex6_8.sce #
+ 
+ 
+ 
+Example 6.8
+
+ 
+Page No. 156
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The gross calorific value is 3.49e+07 J/kg 
+ 
+ 
+ 
+ 
+The net calorific value is 3.4e+07 J/kg 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+Example 6.9
+
+ 
+Page No. 157
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The gross efficiency  percentage is 75 
+ 
+ 
+ 
+ 
+The net efficiency  percentage is 84 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.10/Ex6_10.sce #
+ 
+ 
+ 
+Example 6.10
+
+ 
+Page No. 158
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The gross efficiency  percentage is 81 
+ 
+ 
+the  equivalent evaporation for boiler-1 is 15.4 kg 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The gross efficiency  percentage is 78
+ 
+ 
+the  equivalent evaporation for boiler-2 is 14.9 kg 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.11/Ex6_11.sce #
+ 
+ 
+ 
+Example 6.11
+
+ 
+Page No. 167
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THERMAL BALANCE SHEET :
+				 10^6 J 	 percentage 
+
+ Heat supplied by coal 		 33.50 		 100
+ Heat absorbed by water 	 25.3		  75.5
+ Heat in flue gas 		  6.03 		  18
+ Heat in unburnt carbon 	  0.41 		   1.2 
+ unaccounted heat losses 	  1.76 		   5.3
+ TOTAL 				 33.50 		 100.0 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.12/Ex6_12.sce #
+ 
+ 
+ 
+Example 6.12
+
+ 
+Page No. 168
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a.1) 
+ 
+Total number of kmol of O2 required per kg of fuel is 0.0636 kmol 
+ 
+N2 associated with O2 is 0.2105 kmol 
+ 
+ 
+ 
+ 
+ 
+(a.2) 
+ 
+Theoretical CO2 content of dry flue gas in percentage is 20.6 
+ 
+ 
+ 
+ 
+(a.3) 
+ 
+Excess air based on CO2 content in percentage is 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b.1) 
+ 
+Composition of dry gas 
+ 
+CO2      2.420   
+ 
+SO2      0.03   
+ 
+N2 from fuel      0.01   
+ 
+N2 from air      5.89   
+ 
+Total dry air      8.36 kg/kg  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Composition of wet gas 
+ 
+H2O from fuel      0.105   
+ 
+H2O from H2      0.378   
+ 
+Total H2O in wet gas      0.483 kg/kg  
+
+ 
+ 
+ 
+ 
+ 
+ 
+Composition of dry excess air 
+ 
+O2      0.611   
+ 
+N2      1.768   
+ 
+Total dry excess air      2.379 kg/kg  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b.2) 
+ 
+Specific heat Capacity of dry gas at 260 deg C is 1060 J/kg-K 
+ 
+Specific heat Capacity of dry gas at 25 deg C is 998 J/kg-K 
+ 
+Specific heat Capacity of dry excess air at 260 deg C is 1049 J/kg-K 
+ 
+Specific heat Capacity of dry excess air at 25 deg C is 1022 J/kg-K 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+ 
+Heat to water in Economiser is 1.3 *10^6 J 
+ 
+Heat to water in Boiler is 18.00 *10^6 J 
+ 
+Heat to water in Superheater is 2.64 *10^6 J 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) 
+ 
+Heat loss in dry flue gas is 2.09 *10^6 J 
+ 
+Heat loss in wet flue gas is 1.40 *10^6 J 
+ 
+Heat loss in dry excess air is 0.59 *10^6 J 
+
+ 
+ 
+ 
+ 
+(e) Heat loss in combustile matter in ash is 0.08 *10^6 J 
+ 
+ 
+ 
+ 
+(f) Heat loss in grit is 0.17 *10^6 J 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(g) THERMAL BALANCE SHEET :
+				 10^6 J 	 percentage 
+ Heat supplied by coal 		 26.90 		 100
+ Heat to loss in : economiser  	  1.29 		   4.8
+ 		       boiler 	 18.00 		  67
+ 		  superheater     2.64 		   9.8
+ Heat loss in :  dry flue gas     2.09 		   7.8
+ 		 wet flue gas     1.40 		   5.2
+ 	       dry eecess air     0.59 		   2.2
+ Heat loss in ash 		  0.08 		   0.3
+ Heat loss in grit 		  0.17 		   0.6
+ Radiation and unaccounted loss   0.6 		   2.4
+ TOTAL 				 26.90 		 100.0 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH6/EX6.13/Ex6_13.sce #
+ 
+ 
+ 
+Example 6.13
+
+ 
+Page No. 188
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Mass flow rate of 1.5 bar steam is 0.252 kg/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    0.0161154  
+ 
+ 
+(b) Mass flow rate of 15 bar steam is 0.248 kg/s 
+ 
+ 
+ 
+ 
+(c) Mass flow rate of condensateis 0.004 kg/s
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) The vapour main diameter is 0.11 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) The number of tubes required is 100 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+Example 7.1
+
+ 
+Page No. 201
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuel saving is 3849 Pound 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+Example 7.2
+
+ 
+Page No. 201
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.  - 26250.    15250.    0.  - 11000.  - 1650.    0.  
+ 
+ bal_1  =
+ 
+  - 12650.  
+ 
+ 
+ 
+ 
+ 
+ bal_2  =
+ 
+    9800.0313  
+ 
+ 
+ c  =
+ 
+    9800.0313    0.    15250.    0.    25050.031    3757.5047    10454.128  
+ 
+ bal_3  =
+ 
+    18353.408  
+ 
+ 
+ 
+ Pay back period is of two year   
+ 
+ 
+Total saving at the end of second year is 9800 Pound
+ 
+Total saving at the end of third year is 18353 Pound
+
+ 
+ 
+ 
+ 
+The data in example 2.1 indicated that:- 
+ Saving could be made by replacing exising oil-fired burners by new burners requiring considerably less atomising steam.
+ The financial saving are 15.25*10^3 Pound per year for an insulation and capital cost of 35*10^3 Pound. 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+Example 7.3
+
+ 
+Page No. 203
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuel saving is 8446 Pound per year 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+Example 7.5
+
+ 
+Page No. 205
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Energy losses by 250 mm firebrick is 360 W/sq.m 
+ 
+ 
+ 
+ 
+Energy losses by 250 mm hot-face insulation is 90 W/sq.m 
+ 
+ 
+ 
+ 
+ 
+ 
+Energy losses by 250 mm hot-face insulation backed by 50 mm insulation is 58 W/sq.m 
+
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+Example 7.6
+
+ 
+Page No. 209
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heat recovered is 81900 W 
+ 
+ 
+Economic Saving is 3603.60 Pound per year 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+Example 7.7
+
+ 
+Page No. 212
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The saving in running costs would be 1.0e+04 Pound per year 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+Example 7.8
+
+ 
+Page No. 214
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coal Required is 0.75 kg/s
+ 
+If the plant operates on a 140-h week for 50 weeks per annum the coal consumption is 18.9*0^6 kg per year.
+At an average price of, for example, 35 Pound per tonne, the aanual cost is 660*10^3 Pound.
+
+ 
+ 
+ 
+ 
+ 
+ 
+Coal Required is 0.642 kg/s
+
+ 
+Assuming similar operating conditions for the plant the total coal consumption is 16.2*10^6 kg per year,
+and the annual cost is 556*10^6 Pound.
+ 
+ 
+ 
+The cost of 1.15*10^6 W of electricity for the same period of time is,assuming a cost of 23 Pound per 10^6 Wh,177*10^3Pound.
+The coal equivalent to generate 1.15*10^6 W of power for the grid would be about 5.0*10^6 kg per year.
+
+The C.H.P. unit saves a coal equivalent of 2.3*10^6kg per year,
+over the system generating process steam and utilizing grid electricty.
+The economic savings are 83*1063 Pound per year illustrating the benefits of a C.H.P. syatem in this case. 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+Example 8.1
+
+ 
+Page No. 222
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The resistance of the given circuit is 30 ohms 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+Example 8.3
+
+ 
+Page No. 226
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The actual power is 2400 W 
+ 
+The reactive power is 3200 VAR 
+ 
+The apparent power is 4000 VA 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+Example 8.4
+
+ 
+Page No. 232
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+there is no computational part in the problem 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+Example 8.5
+
+ 
+Page No. 232
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual saving is 7200 Pound per year 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+Example 8.6
+
+ 
+Page No. 234
+
+ 
+ 
+ 
+ 
+ 
+ 
+Energy saving is 51000 lm per 10^3 W 
+ 
+ 
+ 
+Energy saving per cent is 80  
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+Example 8.7
+
+ 
+Page No. 235
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Annual Cost is 2250 Euro 
+ 
+ 
+ 
+ 
+ 
+The New Annual Cost is 1500 Euro 
+ 
+ 
+ 
+The annual saving for a pay-back period of 2.5 years is 750  
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.10/Ex8_10.sce #
+ 
+ 
+ 
+Example 8.10
+
+ 
+Page No. 240
+
+ 
+ 
+ 
+ 
+ 
+ VA  =
+ 
+    500.  
+Charge per month for power factor 1.0 is 500 Euro 
+ VA  =
+ 
+    555.55556  
+Charge per month for power factor 0.9 is 556 Euro 
+ VA  =
+ 
+    625.  
+Charge per month for power factor 0.8 is 625 Euro 
+ VA  =
+ 
+    714.28571  
+Charge per month for power factor 0.7 is 714 Euro 
+ VA  =
+ 
+    833.33333  
+Charge per month for power factor 0.6 is 833 Euro 
+ VA  =
+ 
+    1000.  
+Charge per month for power factor 0.5 is 1000 Euro 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.12/Ex8_12.sce #
+ 
+ 
+ 
+Example 8.12
+
+ 
+Page No. 240
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The reduction in maximum demand is 14 per cent 
+ 
+The pay-back time was 9 months 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.13/Ex8_13.sce #
+ 
+ 
+ 
+Example 8.13
+
+ 
+Page No. 244
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For each degree drop, an energy saving of 5 per cent is achieved 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.14/Ex8_14.sce #
+ 
+ 
+ 
+Example 8.14
+
+ 
+Page No. 245
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	 ENERGY COSTS FOR HEATING STEEL BILLETS
+
+ Components(10^3 W/tonne) 	 (1)Oil fired 	   (2)Induction 	 (3)Direct resistance
+ Fuel(electricity) 		 1750   	 	 580    	 	300
+ Electricity(as prime energy)    0   		 	 1658    	 	869
+ Metal loss(percent)		 2 		 	 0.5    	 	0.5
+ Metal loss (as energy)		 150 		 	 40     	 	40
+ Total energy needs		 1900 		 	 1698    	 	900
+ Energy saving to(1)		 0 		 	 11    		 	37
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH8/EX8.15/Ex8_15.sce #
+ 
+ 
+ 
+Example 8.15
+
+ 
+Page No. 247
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    USE OF ELECTRICITY AND GAS FOR HEATING ENDOTHERMIC GAS GENERATORS
+
+  Endothermic gas (m^3) 	 50 	 100 	 200 
+  Gas use (10^3 Wh)       	 97 	 194 	 386 
+  Electricity use (10^3 Wh) 	 24 	 48 	 95 
+  Primary energy (10^3 Wh) 	 69 	 137 	 271 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+Example 9.1
+
+ 
+Page No. 252
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total building fabric loss is 74358 W 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+Example 9.2
+
+ 
+Page No. 255
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The U-value of external wall is 1.07 W/sq.m K 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The new  U-value is with foamed insulation 0.440 W/sq.m K 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+Example 9.3
+
+ 
+Page No. 256
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+percentage of ventilation loss is 48 percent 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ 
+Example 9.4
+
+ 
+Page No. 260
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total design loss is 134449 W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q_loss  =
+ 
+    38169.  
+ 
+ 
+ 
+ 
+ C  =
+ 
+    3412.6956  
+ 
+ Q_vent  =
+ 
+    71666.607  
+ 
+ T_Q2  =
+ 
+    109835.61  
+ 
+ 
+ 
+The reduction in loss is 24613 W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+Example 9.5
+
+ 
+Page No. 265
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Do  =
+ 
+    1792.52  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total energy consumption in original construction is 1e+12 J 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total energy consumption in improved insulation is 7.6994e+11 J 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ 
+Example 9.6
+
+ 
+Page No. 268
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The internal surface temperature for single glazing is 5.8 deg C 
+ 
+ 
+ Surface condensation will occur since it is less than 10.5 deg C.   
+ 
+ 
+ 
+ 
+The internal surface temperature for single glazing is 13.4 deg C 
+ 
+ 
+ No surface condensation is expected since it is greater than 10.5 deg C.   
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.7/Ex9_7.sce #
+ 
+ 
+ 
+Example 9.7
+
+ 
+Page No. 269
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat flow is 16.17 W/m^2 
+ 
+ 
+ 
+ 
+The vapour mass flow is 4.5e-08 kg/s 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.8/Ex9_8.sce #
+ 
+ 
+ 
+Example 9.8
+
+ 
+Page No. 275
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			 SOUTH 
+ 
+ 
+ 
+ A_G_S  =
+ 
+    4240.  
+ A_G_S  =
+ 
+    4240.   
+    3881.5  
+ A_G_S  =
+ 
+    4240.   
+    3881.5  
+    3457.5  
+ A_G_S  =
+ 
+    4240.   
+    3881.5  
+    3457.5  
+    3272.5  
+ A_G_S  =
+ 
+    4240.   
+    3881.5  
+    3457.5  
+    3272.5  
+    3457.5  
+ A_G_S  =
+ 
+    4240.   
+    3881.5  
+    3457.5  
+    3272.5  
+    3457.5  
+    3881.5  
+ A_G_S  =
+ 
+    4240.   
+    3881.5  
+    3457.5  
+    3272.5  
+    3457.5  
+    3881.5  
+    4240.   
+ 
+ 
+The monthly peak cooling loads for the month March is 4240 W 
+ 
+The monthly peak cooling loads for the month April is 3882 W 
+ 
+The monthly peak cooling loads for the month May is 3458 W 
+ 
+The monthly peak cooling loads for the month June is 3272 W 
+ 
+The monthly peak cooling loads for the month July is 3458 W 
+ 
+The monthly peak cooling loads for the month Aug. is 3882 W 
+ 
+The monthly peak cooling loads for the month Sept. is 4240 W 
+
+ 
+ 
+ 
+			 EAST 
+ 
+ 
+ 
+ 
+The monthly peak cooling loads for the month March is 3196 W 
+ 
+The monthly peak cooling loads for the month April is 3909 W 
+ 
+The monthly peak cooling loads for the month May is 4167 W 
+ 
+The monthly peak cooling loads for the month June is 4190 W 
+ 
+The monthly peak cooling loads for the month July is 4167 W 
+ 
+The monthly peak cooling loads for the month Aug. is 3909 W 
+ 
+The monthly peak cooling loads for the month Sept. is 3196 W 
+
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH9/EX9.9/Ex9_9.sce #
+ 
+ 
+ 
+Example 9.9
+
+ 
+Page No. 277
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the mean internal temperature is 26.0 deg C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net_AY  =
+ 
+    832.  
+ 
+ Ti_s  =
+ 
+    4.8379988  
+ 
+ 
+Peak internal temperature is 30.9 deg C 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+Example 10.1
+
+ 
+Page No. 293
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The humidity of the air mixture  is 0.009 kg/kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The load on the heater is 10638.990 W 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+Example 10.2
+
+ 
+Page No. 298
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ w  =
+ 
+    0.011  
+ 
+The humidity of the air mixture  is 0.0110 kg/kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The cooling load on the washer is 38610 W 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+Example 11.1
+
+ 
+Page No. 308
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the steam saving is 23537 kg per day 
+ 
+ 
+The gross saving is 174 Pound per day per year 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+Example 11.2
+
+ 
+Page No. 313
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 CAPITAL AND OPERATING COSTS OF EVAPORATION PLANT
+
+	 		Installation 		 Annual 		 Annual saving
+   Type 			  cost 			steam cost 		(to single effect)
+ 	 		  (Pound) 		  (Pound) 		   (Pound)
+
+Single effect 		  8250 			  69300 		     0 
+Double effect 		  1150 			  36800 		     32500 
+Triple effect + 
+(vapour compression) 	  14850 		  23600 		     45700 
+Triple effect 		  16500 		  24600 		     44700 
+
+
+ 
+ 
+ 
+ The results enable the return on investment to be assessed by one of the standard economic procedures and the final selsction made. 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+Example 11.3
+
+ 
+Page No. 314
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total energy requirement is 1252500 W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ 
+ 
+The total energy consumption is 135000 W 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+Example 11.4
+
+ 
+Page No. 316
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The pay-back period was 22 months
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ 
+Example 11.5
+
+ 
+Page No. 318
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total heat recovered at full load if 2.50e+05 W 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ 
+Example 11.6
+
+ 
+Page No. 320
+
+ 
+ 
+ 
+ 
+ 
+The pay back time is 3 year
+
+ 
+ 
+ 
+In a heat-pump system the work input to drive the compressor,W, produces a heat absorption capacity,Q2,
+and to balance the energy flow, a quantity of heat, Q1, must be dissipated.
+Thus the energy equation is
+ -> Q1 = W + Q2
+and the coeffient of performance is 
+C.O.P. = Q1/W = Q1/(Q1 - Q2)
+   Consequently the C.O.P. is always greater than unity.
+The maximum theoretical value of the C.O.P. is that predicted by the Carnot in chapter 2,namely :
+ -> (C.O.P.)max = T1/(T1 - T2) 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ 
+Example 11.7
+
+ 
+Page No. 320
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C.O.P. is 7.8 
+ 
+ 
+ 
+ 
+ 
+C.O.P. when secondary fluid is used is 5.5 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+Example 11.8
+
+ 
+Page No. 323
+
+ 
+ 
+ 
+No calculation is required as not in shown in book 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+Example 11.9
+
+ 
+Page No. 324
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat transfer, Q is 6.6 *10^6 W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The exit tempearture of the flue gas is 622 K 
+ 
+ 
+ 
+The number of channels required is 800 
+ 
+Consequently for this regenerator a square layout could be achieved with 40 channels arranged horizontally and 20 channels vertically. 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Energy_Management_W._R._Murphy_And_G._A._Mckay_2471/CH11/EX11.10/Ex11_10.sce #
+ 
+ 
+ 
+Example 11.10
+
+ 
+Page No. 324
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The steam production is 3.049 kg/s 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,147 @@
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH1/EX1.12/Ex1_12.sce #
+ 
+ Vbb  =
+ 
+    5.  
+ 
+ Rl  =
+ 
+    1.  
+ 
+ Id  =
+ 
+    4.4  
+ 
+ 
+ 
+ i  =
+ 
+    5.  
+ 
+ Vl  =
+ 
+    4.4  
+ 
+ 
+ 
+ Vd  =
+ 
+    0.6  
+ 
+ P  =
+ 
+    2.64  
+ 
+ 
+ 
+ Ida  =
+ 
+    1.42  
+ 
+ Idb  =
+ 
+    7.35  
+ 
+ 
+ 
+ Idc  =
+ 
+    8.7  
+ 
+ Idd  =
+ 
+    2.2  
+ 
+ 
+ 
+diode current is 4.4 mA and voltage across the load is 4.4 V 
+power absorbed in diode is 2.64 mW 
+diode current for Vbb=2V is 1.42 mA and for Vbb=8V is 7.35 mA 
+diode current for Rl=0.5 kohm is 8.7 mA and for Rl=2 kohm is 2.2 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ Rl  =
+ 
+    4.5  
+ 
+ Vceq  =
+ 
+    50.  
+ 
+ Icq  =
+ 
+    0.4  
+ 
+ Re  =
+ 
+    12.5  
+ 
+ Vcemax  =
+ 
+    90.  
+ 
+ Vcemin  =
+ 
+    10.  
+ 
+ Icmax  =
+ 
+    730.  
+ 
+ Icmin  =
+ 
+    30.  
+ 
+ 
+ 
+ 
+ Rac  =
+ 
+    125.  
+ 
+ n  =
+ 
+    5.2704628  
+ 
+ 
+ 
+ Vcc  =
+ 
+    55.  
+ 
+ 
+ 
+ vce  =
+ 
+    80.  
+ 
+ ic  =
+ 
+    700.  
+ 
+ Po  =
+ 
+    7000.  
+ 
+ Pi  =
+ 
+    22.  
+ 
+ eta  =
+ 
+    31818.182  
+ 
+ Pd  =
+ 
+    13.  
+ 
+ 
+ 
+a)transformation ratio is 5.27 
+b)Vcc is 55.0 V 
+c)power efficiency for the load is 31.8 % 
+power dissipated is 13.0 W 
+ 

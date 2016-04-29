@@ -1,0 +1,1239 @@
+grepthis#Digital_Communication_S._Haykin_851/CH1/EX1.2/Figure1_2.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ dig_data  =
+ 
+    0.    1.    0.    0.    0.    0.    1.    0.    0.    0.    0.    0.    0.    0.    1.    1.    0.    1.    0.    1.  
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+ 
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [1,1]
+grid_style = [3,3]
+x_location = "origin"
+y_location = "origin"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "off"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+ 
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [-2,-3;2,3]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+ 
+auto_clear = "off"
+auto_scale = "on"
+ 
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 1
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = 33
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH2/EX2.1/Example2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH2/EX2.6/Example2_6.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH2/EX2.7/Example2_7.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = "Repetition codes"
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = "Polyline"
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ Table 2.3 Average Probility of Error for Repetition Code   
+ 
+ 
+ _______________________________________________________________   
+ 
+ 
+ Average Probility of Error, Pe   
+ 
+    0.01    0.000298    0.0000099    0.0000003  
+ 
+ Code Rate, r =1/n   
+ 
+    1.    0.3333333    0.2    0.1428571  
+ 
+ 
+ _______________________________________________________________   
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH3/EX3.1/Example3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH3/EX3.2/Example3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+ 
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [1,1]
+grid_style = [3,3]
+x_location = "bottom"
+y_location = "left"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+ 
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [-2,-0.5;2,0.5]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+ 
+auto_clear = "off"
+auto_scale = "on"
+ 
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 1
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ Figure 3.8 (b).Representation of transmitted dibits   
+ 
+ 
+ Loc. of meg.point| (-3/2)asqrt(T)|(-1/2)asqrt(T)|(3/2)asqrt(T)|(1/2)asqrt(T)   
+ 
+ 
+ ________________________________________________________________________________   
+ 
+ 
+ Transmitted dibit|         00    |      01      |   11        |   10   
+ 
+ 
+    
+ 
+ 
+    
+ 
+ 
+ Figure 3.8 (c). Decision intervals for received dibits   
+ 
+ 
+ Received dibit     |     00          |      01       |   11          |   10   
+ 
+ 
+ ________________________________________________________________________________   
+ 
+ 
+ Interval on phi1(t)| x1 < -a.sqrt(T) |-a.sqrt(T)<x1<0| 0<x1<a.sqrt(T) | a.sqrt(T)<x1   
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH3/EX3.3/Example3_3.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH3/EX3.4/Example3_4.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH3/EX3.29/Figure3_29.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH4/EX4.3/Example4_3.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH5/EX5.2/Example5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["Ideal System";"PCM"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX06.01/Figure06_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX06.1/Figure06_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX6.01/Figure6_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX6.4/Figure6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+[0mEnter the Amplitude value:[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX6.6/Figure6_6.sce #
+ 
+ 
+ 
+ 
+ 
+[0mEnter the bit rate:[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX6.7/Figure6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+[0mEnter the bit rate:[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX6.9/Figure6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+[0mEnter the bit rate=[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX6.15/Figure6_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+[0mEnter the bit rate=[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.01/Figure7_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+[0mEnter the Analog Carrier Frequency in Hz[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.1/Example7_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.02/Figure7_02.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ coordinates of message points   
+ 
+    1.  - 1.  
+ 
+ 
+ Message points   
+ 
+!1  0  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.2/Example7_2.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ coordinates of message points   
+ 
+    1.  - 1.  
+  - 1.  - 1.  
+  - 1.    1.  
+    1.    1.  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.4.7.20/Table7_4_Figure7_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["BPSK";"BFSK";"DPSK";"Non-Coherent FSK";"QPSK & MSK"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline","Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.4/Figure7_4.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ coordinates of message points   
+ 
+    1.    0.  
+    0.    1.  
+ 
+ 
+ Message points   
+ 
+!1  0  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.6/Figure7_6.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ coordinates of message points   
+ 
+    0.7071068 - 0.7071068i  - 0.7071068 - 0.7071068i  - 0.7071068 + 0.7071068i    0.7071068 + 0.7071068i  
+ 
+ 
+ dibits value   
+ 
+!00  01  10  11  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.12.7.2/Figure7_12_Table7_2.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ coordinates of message points   
+ 
+    1.  - 1.  
+  - 1.  - 1.  
+  - 1.    1.  
+    1.    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.29/Figure7_29.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+[0mEnter the bit rate=[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.30/Figure7_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the bit rate in bits per second:[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.31/Figure7_31.sce #
+ 
+ 
+ 
+[0mEnter the bit rate=[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH9/EX9.2/Example9_2.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the period of the signal[0m[1m

@@ -1,0 +1,6709 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 159
+
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ I = K(d^1.5)   
+ 
+ d  =
+ 
+    0.0031  
+ 
+ 
+ d = 0.0031inches   
+ 
+ I5  =
+ 
+    0.2834103  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 1.7681215Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 1.3091763Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 0.9182357Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 0.5433470Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 0.2834103Amp.   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ fusing current, I = K(d^1.5) Amp.   
+ 
+ d  =
+ 
+    0.0201  
+ 
+ 
+ d = 0.0201inches   
+ 
+ I5  =
+ 
+    4.6791529  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 29.191987Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 21.614723Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 15.160227Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 8.9707512Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 4.6791529Amp.   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ fusing current, I = K(d^1.5) Amp.   
+ 
+ 
+ (a)   
+ 
+ d  =
+ 
+    0.0159  
+ 
+ 
+ d = 0.0159inches   
+ 
+ I5  =
+ 
+    3.2920683  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 20.538336Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 15.207271Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 10.666141Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 6.3114684Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 3.2920683Amp.   
+ 
+ 
+ 
+ 
+ (b)   
+ 
+ d  =
+ 
+    0.0063  
+ 
+ 
+ d = 0.0063inches   
+ 
+ I5  =
+ 
+    0.8210772  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 5.1224814Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 3.7928565Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 2.66025Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 1.5741479Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 0.8210772Amp.   
+ 
+ 
+ 
+ 
+ (c)   
+ 
+ d  =
+ 
+    0.0403  
+ 
+ 
+ d = 0.0403inches   
+ 
+ I5  =
+ 
+    13.284057  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 82.875687Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 61.363928Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 43.039697Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 25.467851Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 13.284057Amp.   
+ 
+ 
+ 
+ 
+ (d)   
+ 
+ d  =
+ 
+    0.0452  
+ 
+ 
+ d = 0.0452inches   
+ 
+ I5  =
+ 
+    15.779048  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 98.441273Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 72.889209Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 51.123348Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 30.251184Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 15.779048Amp.   
+ 
+ 
+ 
+ 
+ (e)   
+ 
+ d  =
+ 
+    0.0508  
+ 
+ 
+ d = 0.0508inches   
+ 
+ I5  =
+ 
+    18.800471  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 117.29112Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 86.846267Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 60.912609Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 36.043777Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 18.800471Amp.   
+ 
+ 
+ 
+ 
+ (f)   
+ 
+ d  =
+ 
+    0.162  
+ 
+ 
+ d = 0.162inches   
+ 
+ I5  =
+ 
+    107.06454  
+ 
+ 
+ for Copper, I = 10244*(d^1.5) = 667.94714Amp.   
+ 
+ 
+ for Aluminum, I = 7585*(d^1.5) = 494.57038Amp.   
+ 
+ 
+ for Silver, I = 5320*(d^1.5) = 346.88391Amp.   
+ 
+ 
+ for Iron, I = 3148*(d^1.5) = 205.26138Amp.   
+ 
+ 
+ for Tin, I = 1642*(d^1.5) = 107.06454Amp.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ A  =
+ 
+    0.0000005  
+ 
+ rho  =
+ 
+    1.725D-08  
+ 
+ l  =
+ 
+    100.  
+ 
+ 
+ A =0.0000005merer square   
+ 
+ 
+ rho =1.725D-08ohm-m   
+ 
+ 
+ l =100m   
+ 
+ 
+ R = rho*l/A = 3.3243399ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ A  =
+ 
+    0.0000003  
+ 
+ rho  =
+ 
+    1.725D-08  
+ 
+ l  =
+ 
+    100.  
+ 
+ 
+ A =0.0000003merer square   
+ 
+ 
+ rho =1.725D-08ohm-m   
+ 
+ 
+ l =100m   
+ 
+ 
+ R = rho*l/A = 6.6653787ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ R1  =
+ 
+    14.  
+ 
+ alpha  =
+ 
+    0.005  
+ 
+ 
+ T2  =
+ 
+    120.  
+ 
+ 
+ R1 = 14ohm; alpha = 0.005; T1 = 20degreeC; T2 = 120degreeC   
+ 
+ 
+ R2 = R1(1+(alpha*(T1-T2))) = 21ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ Ez  =
+ 
+    2.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ E = 3ax + 4ay + 2az k V/m   
+ 
+ 
+ e = 1.6*10^-19 C   
+ 
+ 
+ F=eE = 4.800D-16ax + 6.400D-16ay + 3.200D-16az N   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.8/Ex1_8.sce #
+ 
+ 
+ F  =
+ 
+    1.000D-13  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ F= 1.000D-13N ; e = 1.600D-19C   
+ 
+ 
+ E = F/e =625000V/m   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.9/Ex1_9.sce #
+ 
+ 
+ F  =
+ 
+    3.000D-12  
+ 
+ E  =
+ 
+    0.000005  
+ 
+ 
+ F = 3.000D-12N   
+ 
+ 
+ E = 0.000005V/m   
+ 
+ 
+ Q= F/E = 0.0000006C   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ B  =
+ 
+    0.000002  
+ 
+ V  =
+ 
+    4000000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ B =0.000002ax wb/m.sq   
+ 
+ 
+ V =4000000az m/s   
+ 
+ 
+ e = 1.600D-19C   
+ 
+ 
+ F = e[VxB] =1.280D-18ay N   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.11/Ex1_11.sce #
+ 
+ 
+ Hx  =
+ 
+    0.001  
+ 
+ Hy  =
+ 
+    0.002  
+ 
+ V  =
+ 
+    4000000.  
+ 
+ micro_not  =
+ 
+    0.0000013  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ H = 0.001ax  + 0.002ay A/m   
+ 
+ 
+ V = 4000000ay m/s   
+ 
+ By  =
+ 
+    2.513D-09  
+ 
+ 
+ B = micro_not*H = 1.257D-09ax + 2.513D-09ay wb/m.sq   
+ 
+ 
+ F = e[VxB] = 8.042D-22az N   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.12/Ex1_12.sce #
+ 
+ 
+ n  =
+ 
+    5.000D+22  
+ 
+ donors  =
+ 
+    1.000D-07  
+ 
+ 
+ n = 5.000D+22 /cm.cube   
+ 
+ 
+ donors = 1.000D-07   
+ 
+ 
+ ND = 5.000D+15 /cm.cube   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.13/Ex1_13.sce #
+ 
+ 
+ ND  =
+ 
+    5.000D+16  
+ 
+ 
+ n = 5.000D+16/cm.cube   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.14/Ex1_14.sce #
+ 
+ 
+ ni  =
+ 
+    1.500D+10  
+ 
+ ND  =
+ 
+    5.000D+16  
+ 
+ 
+ ni =1.500D+10/cm.cube   
+ 
+ 
+ ND = 5.000D+16 /cm.cube   
+ 
+ 
+ p = (ni^2)/ND = 4500atom/cm.cube   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.15/Ex1_15.sce #
+ 
+ 
+ ni  =
+ 
+    1.520D+10  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ micro_p  =
+ 
+    480.  
+ 
+ 
+ e = 1.600D-19C   
+ 
+ 
+ ni = pi =1.520D+10/cm.cube   
+ 
+ 
+ micro_n = 1350cm.sq/V-s   
+ 
+ 
+ micro_p = 480cm.sq/V-s   
+ 
+ 
+ sigma = e(micro_n*ni + micro_p*pi ) =0.0000045mho/cm   
+ 
+ 
+ rho = 1/sigma =224690.83ohm-cm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.16/Ex1_16.sce #
+ 
+ 
+ ni  =
+ 
+    2.500D+13  
+ 
+ donor  =
+ 
+    1.000D-07  
+ 
+ ND  =
+ 
+    4.410D+15  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ micro_p  =
+ 
+    1800.  
+ 
+ 
+ ni =2.500D+13 /cm.cube   
+ 
+ 
+ donor = 1.000D-07   
+ 
+ 
+ n = ND =4.410D+15 /cm.cube   
+ 
+ 
+ p = (ni^2)/ND = 1.417D+11 /cm.cube   
+ 
+ 
+ micro_n = 3800 cm.sq/V-s; micro_p = 1800 cm.sq/V-s   
+ 
+ sigma  =
+ 
+    0.0224  
+ 
+ 
+ sigma = ni*e(micro_n + micro_p) = 0.0224mho/cm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.17/Ex1_17.sce #
+ 
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ NA  =
+ 
+    1.000D+21  
+ 
+ 
+ ni = 2.500D+19 /m.cube   
+ 
+ 
+ NA = 1.000D+21 /m.cube    
+ 
+ 
+ np = (ni^2)/ NA =6.250D+17e/m.cube   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.18/Ex1_18.sce #
+ 
+ 
+ micro_p  =
+ 
+    1800.  
+ 
+ rho_p  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ micro_p =1800 cm.sq/V-s   
+ 
+ 
+ rho_p = 1ohm-cm   
+ 
+ 
+ e = 1.600D-19C   
+ 
+ 
+ pp = 1/(e*micro_p*rho_p) = 3.472D+15 holes/cm.cube   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.19/Ex1_19.sce #
+ 
+ 
+ micro_n  =
+ 
+    1300.  
+ 
+ rho_n  =
+ 
+    2.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ micro_n =1300 cm.sq/V-s   
+ 
+ 
+ rho_n = 2ohm-cm   
+ 
+ 
+ e1.600D-19C   
+ 
+ 
+ nn = 1/(e*micro_n*rho_n) = 2.404D+15 e/cm.cube   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.20/Ex1_20.sce #
+ 
+ 
+ EGo  =
+ 
+    1.1  
+ 
+ micro_n  =
+ 
+    0.13  
+ 
+ micro_p  =
+ 
+    0.05  
+ 
+ N  =
+ 
+    3.000D+25  
+ 
+ K  =
+ 
+    1.380D-23  
+ 
+ T  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ EGo = 1.1eV = 1.760D-19J   
+ 
+ 
+ micro_n = 0.13 m.sq/V-s   
+ 
+ 
+ micro_p = 0.05m.sq/V-s   
+ 
+ 
+ N = 3.000D+25 /m.cube   
+ 
+ 
+ T = 300degree_K   
+ 
+ 
+ K = 1.380D-23J/K   
+ 
+ 
+ ni = N*exp(-(EGo/(2*T*K))) = 1.761D+16 /m.cube   
+ 
+ ni  =
+ 
+    1.761D+16  
+ 
+ 
+ sigma = ni*e(micro_n+micro_p) = 0.0005071mho/m   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH1/EX1.21/Ex1_21.sce #
+ 
+ 
+ K  =
+ 
+    1.380D-23  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ T  =
+ 
+    300.  
+ 
+ 
+ K = 1.380D-23 J/K   
+ 
+ 
+ e = 1.600D-19C   
+ 
+ 
+ T = 300degree_K   
+ 
+ 
+ VT = K*T/e = 0.025875V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ V  =
+ 
+    10.  
+ 
+ 
+ Q = 0.000002C   
+ 
+ 
+ V = 10V   
+ 
+ 
+ C = Q/V = 0.0000002F   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ C  =
+ 
+    0.00001  
+ 
+ V  =
+ 
+    10.  
+ 
+ 
+ C =0.00001F   
+ 
+ 
+ V = 10V   
+ 
+ 
+ Q = C*V = 0.0001C   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ Q  =
+ 
+    5.000D-12  
+ 
+ V  =
+ 
+    50.  
+ 
+ 
+ Q = 5.000D-12C   
+ 
+ 
+ V = 50V   
+ 
+ 
+ C = Q/V = 1.000D-13F   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ I  =
+ 
+    0.00001  
+ 
+ t  =
+ 
+    10.  
+ 
+ 
+ I = 0.00001A   
+ 
+ 
+ t = 10seconds   
+ 
+ 
+ Q = I*t = 0.0001C   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ C  =
+ 
+    0.000002  
+ 
+ t  =
+ 
+    2.  
+ 
+ I  =
+ 
+    0.00001  
+ 
+ Q  =
+ 
+    0.00002  
+ 
+ 
+ C = 0.000002F   
+ 
+ 
+ t = 2seconds   
+ 
+ 
+ I = 0.00001A   
+ 
+ 
+ Q = I*t = 0.00002C   
+ 
+ 
+ V = Q/C = 10V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ C  =
+ 
+    0.000012  
+ 
+ f  =
+ 
+    1000.  
+ 
+ Xc  =
+ 
+    13.262912  
+ 
+ 
+ C = 0.000012F   
+ 
+ 
+ at... f = 1000Hz   
+ 
+ 
+ Xc = 1/(2*pi*f*C) = 13.262912ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ C  =
+ 
+    0.0000002  
+ 
+ f1  =
+ 
+    1000.  
+ 
+ f2  =
+ 
+    50.  
+ 
+ 
+ C = 0.0000002F   
+ 
+ 
+ at... f = 1000Hz   
+ 
+ 
+ Xc = 1/(2*pi*f*C) = 795.77472ohm   
+ 
+ 
+ at... f = 50Hz   
+ 
+ 
+ Xc = 1/(2*pi*f*C) = 15915.494ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ C1  =
+ 
+    0.0000005  
+ 
+ C2  =
+ 
+    0.0000005  
+ 
+ CT  =
+ 
+    0.0000002  
+ 
+ 
+ C1 = 0.0000005F   
+ 
+ 
+ C1 = 0.0000005F   
+ 
+ 
+ 1/CT = 1/C1 + 1/C2 = (C1*C2)/(C1+C2) = 0.0000002F   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ C1  =
+ 
+    2.000D-13  
+ 
+ C2  =
+ 
+    6.000D-13  
+ 
+ C3  =
+ 
+    1.000D-12  
+ 
+ 
+ C1 = 2.000D-13F   
+ 
+ 
+ C2 = 6.000D-13F   
+ 
+ 
+ C3 = 1.000D-12F   
+ 
+ 
+ CT = C1+C2+C3 = 1.800D-12F   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ C  =
+ 
+    0.00001  
+ 
+ V  =
+ 
+    100.  
+ 
+ W  =
+ 
+    0.05  
+ 
+ 
+ C = 0.00001F   
+ 
+ 
+ V = 100V   
+ 
+ 
+ W = C*(V^2)/2 = 0.05Joules   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ C  =
+ 
+    0.00001  
+ 
+ delta_V  =
+ 
+    100.  
+ 
+ delta_t  =
+ 
+    10.  
+ 
+ ic  =
+ 
+    0.0001  
+ 
+ 
+ C = 0.00001F   
+ 
+ 
+ delta_V = 100V   
+ 
+ 
+ delta_t = 10sec   
+ 
+ 
+ ic = C*(delta delta_V/delta_t) = 0.0001A   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.12/Ex2_12.sce #
+ 
+ 
+ Ii  =
+ 
+    10.  
+ 
+ If  =
+ 
+    15.  
+ 
+ delta_t  =
+ 
+    2.  
+ 
+ dI  =
+ 
+  - 5.  
+ 
+ 
+ Ii = 10A   
+ 
+ 
+ If = 15A   
+ 
+ 
+ delta_t = 2sec   
+ 
+ 
+ dI/dt = 2.5Amp/sec.   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.13/Ex2_13.sce #
+ 
+ 
+ r  =
+ 
+    5.  
+ 
+ vL  =
+ 
+    50.  
+ 
+ L  =
+ 
+    10.  
+ 
+ 
+ diL/dt = 5A/s   
+ 
+ 
+ vL = 50V   
+ 
+ 
+ vL = L*(diL/dt)   
+ 
+ 
+ L = vL/(diL/dt) = 10 Henry   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.14/Ex2_14.sce #
+ 
+ 
+ I  =
+ 
+    5.  
+ 
+ L  =
+ 
+    5.  
+ 
+ WL  =
+ 
+    62.5  
+ 
+ 
+ I = 5A   
+ 
+ 
+ L = 5H   
+ 
+ 
+ WL= 62.5joules   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.15/Ex2_15.sce #
+ 
+ 
+ flux1  =
+ 
+    0.0001  
+ 
+ flux2  =
+ 
+    0.00005  
+ 
+ flux12  =
+ 
+    0.00005  
+ 
+ 
+ flux1 = 0.0001Wb   
+ 
+ 
+ flux2 = 0.00005Wb   
+ 
+ 
+ K = flux linkage between coil 1 and coil 2/flux of coil 1   
+ 
+ 
+   = 0.5   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.16/Ex2_16.sce #
+ 
+ 
+ L1  =
+ 
+    0.1  
+ 
+ L2  =
+ 
+    0.05  
+ 
+ K  =
+ 
+    0.3  
+ 
+ M  =
+ 
+    0.0212132  
+ 
+ 
+ L1 = 0.1H   
+ 
+ 
+ L2 = 0.05H   
+ 
+ 
+ K = 0.3   
+ 
+ 
+ M = K*(L1*L2)^0.5   
+ 
+ 
+ M = 0.0212132H   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.17/Ex2_17.sce #
+ 
+ 
+ L1  =
+ 
+    0.01  
+ 
+ L2  =
+ 
+    0.015  
+ 
+ LT  =
+ 
+    0.025  
+ 
+ 
+ L1 = 0.01H   
+ 
+ 
+ L2 = 0.015H   
+ 
+ 
+ LT = L1+L2 = 0.025H   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.18/Ex2_18.sce #
+ 
+ 
+ L1  =
+ 
+    0.001  
+ 
+ L2  =
+ 
+    0.005  
+ 
+ LT  =
+ 
+    0.0008333  
+ 
+ 
+ L1 = 0.001H   
+ 
+ 
+ L2 = 0.005H   
+ 
+ 
+ 1/LT = 1/L1 + 1/L2   
+ 
+ 
+ LT = (L1*L2)/(L1+L2) = 0.0008333H   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.19/Ex2_19.sce #
+ 
+ 
+ VNL  =
+ 
+    50.  
+ 
+ VL  =
+ 
+    40.  
+ 
+ IL  =
+ 
+    4.  
+ 
+ Rs  =
+ 
+    2.5  
+ 
+ 
+ VNL  = 50V   
+ 
+ 
+ VL  = 40V   
+ 
+ 
+ IL  = 4A   
+ 
+ 
+ Rs = (VNL - VL)/IL = 2.5ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.20/Ex2_20.sce #
+ 
+ 
+ V  =
+ 
+    2.5  
+ 
+ 
+ V1 = V2 = V3 = V4 = 2.5V   
+ 
+ 
+ VT = V1+V2+V3+V4 = 10V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.21/Ex2_21.sce #
+ 
+ 
+ V  =
+ 
+    2.  
+ 
+ 
+ V1 = V2 = V3 = V4 = 2V   
+ 
+ 
+ VT = V1 = V2 = V3 = V4 = 2V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH2/EX2.22/Ex2_22.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    1.  
+ 
+ R2  =
+ 
+    3.  
+ 
+ R3  =
+ 
+    2.  
+ 
+ V  =
+ 
+    20.  
+ 
+ 
+ R1 =1ohm   
+ 
+ 
+ R2 =3ohm   
+ 
+ 
+ R3 =2ohm   
+ 
+ 
+ 
+ V =20V   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1/RTH = 1/R3 + 1/R2 = 1.2ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V = (R3*I)+(R2*I)   
+ 
+ I  =
+ 
+    4.  
+ 
+ 
+ or, I = V/(R2+R3) = 4amperes   
+ 
+ 
+ 
+ 
+ VTH = R2*I = 12V   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.1/EX3_1.sce #
+ 
+ 
+ E  =
+ 
+    20000.  
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ F  =
+ 
+  - 3.200D-15  
+ 
+ 
+ E = 20000ax V/m   
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ F = eE = -3.200D-15ax N   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ E  =
+ 
+    50000.  
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ N  =
+ 
+    1000000.  
+ 
+ F  =
+ 
+  - 8.000D-09  
+ 
+ 
+ E = 50000az V/m   
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ N = 1000000   
+ 
+ 
+ F = NeE = -8.000D-09az N   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ v  =
+ 
+    5000000.  
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ B  =
+ 
+    0.00002  
+ 
+ F  =
+ 
+  - 1.600D-17  
+ 
+ 
+ v = 5000000m/s   
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ B = 0.00002Wb/m-sq   
+ 
+ 
+ F = e(VxB) = e*v*B = -1.600D-17N   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ Bx  =
+ 
+    0.00004  
+ 
+ By  =
+ 
+    0.00001  
+ 
+ N  =
+ 
+    1000000.  
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ v  =
+ 
+    8000000.  
+ 
+ 
+ B = 0.00004ax + 0.00001ay Wb/m-sq   
+ 
+ 
+ N = 1000000   
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ v = 8000000ax m/s   
+ 
+ 
+ F = Q(VxB) = -1.280D-11 az N   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ n  =
+ 
+    1000000.  
+ 
+ v  =
+ 
+    5000000.  
+ 
+ J  =
+ 
+  - 0.0000008  
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ n = 1000000 /m-cube   
+ 
+ 
+ v = 5000000m/s   
+ 
+ 
+ J = nev = 0.0000008A/m-sq   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ v  =
+ 
+    20000000.  
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ n  =
+ 
+    1.000D+08  
+ 
+ J  =
+ 
+  - 0.00032  
+ 
+ 
+ v = 20000000m/s   
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ n = 1.000D+08 /m-cube   
+ 
+ 
+ J = nev = 0.00032A/m-sq   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ l  =
+ 
+    4.  
+ 
+ t  =
+ 
+    0.00001  
+ 
+ T  =
+ 
+    0.00004  
+ 
+ 
+ T = 0.00004 s   
+ 
+ 
+ Frequency = 1/T = 25000Hz   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ Vpp  =
+ 
+    0.042  
+ 
+ Vm  =
+ 
+    0.021  
+ 
+ Vrms  =
+ 
+    0.0148492  
+ 
+ 
+ Vm = 0.021V   
+ 
+ 
+ Vrms = Vm/(2^.5) = 0.0148492V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ V  =
+ 
+    0.0045  
+ 
+ r  =
+ 
+    100.  
+ 
+ I  =
+ 
+    0.000045  
+ 
+ 
+ DC voltage = 0.0045V   
+ 
+ 
+ The current in 100 ohm = 0.000045A   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ l  =
+ 
+    0.03  
+ 
+ d  =
+ 
+    0.01  
+ 
+ L  =
+ 
+    0.18  
+ 
+ Va  =
+ 
+    1000.  
+ 
+ 
+ l = 0.03m   
+ 
+ 
+ d = 0.01m   
+ 
+ 
+ L = 0.18m   
+ 
+ 
+ Va = 1000V   
+ 
+ SE  =
+ 
+    0.00027  
+ 
+ 
+ SE = (l*L)/(2*d*Va) = 0.00027m/V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+ fm = BIL   
+ 
+ B  =
+ 
+    2.  
+ 
+ IL  =
+ 
+    0.01  
+ 
+ fm  =
+ 
+    0.02  
+ 
+ 
+ B = 2Wb/m-sq   
+ 
+ 
+ IL = 0.01A-m   
+ 
+ 
+ fm =0.02Newton   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+ v = (2*e*Va/m)^.5   
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ Va  =
+ 
+    3000.  
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ m = 9.100D-31Kg   
+ 
+ 
+ Va = 3000V   
+ 
+ v  =
+ 
+    32479918.  
+ 
+ 
+ v = 32479918m/s   
+ 
+ W  =
+ 
+  - 4.800D-16  
+ 
+ 
+ W = e*Va = -4.800D-16joules   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ Va  =
+ 
+    400.  
+ 
+ v  =
+ 
+    11859989.  
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ m = 9.100D-31Kg   
+ 
+ 
+ Va = 400V   
+ 
+ 
+ v = (2*e*Va/m)^.5 = 11859989m/s   
+ 
+ 
+ H  =
+ 
+    47.75  
+ 
+ micro_not  =
+ 
+    0.0000013  
+ 
+ B  =
+ 
+    0.0000600  
+ 
+ 
+ B = 0.0000600Wb/m-sq   
+ 
+ r  =
+ 
+  - 1.1241453  
+ 
+ 
+ r = (v/(e/m))/B = -1.1241453m   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ l  =
+ 
+    22.  
+ 
+ d  =
+ 
+    1.5  
+ 
+ Va  =
+ 
+    625.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ l = 22cm   
+ 
+ 
+ d = 1.5cm   
+ 
+ 
+ Va = 625V   
+ 
+ 
+ e = 1.600D-19C   
+ 
+ 
+ m = 9.100D-31Kg   
+ 
+ SH  =
+ 
+    39.137964  
+ 
+ 
+ SH = D/B = l*d*(e/(2*m*Va))^.5 = 39.137964m/tesla   
+ 
+ 
+ micro_not  =
+ 
+    0.0000013  
+ 
+ 
+ SH = D/H = micro_not*l*d*(e/(2*m*Va))^.5 = 0.0000492m-sq/Amp.   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ Vd  =
+ 
+    50.  
+ 
+ d  =
+ 
+    1.  
+ 
+ 
+ (a)   
+ 
+ 
+ Vd = 50V   
+ 
+ 
+ d = 1cm   
+ 
+ E  =
+ 
+    5000.  
+ 
+ 
+ E = Vd/d = 5000V/m   
+ 
+ 
+ 
+ (b)   
+ 
+ e  =
+ 
+  - 1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ Va  =
+ 
+    500.  
+ 
+ v  =
+ 
+    13259871.  
+ 
+ 
+ v = (2*e*Va/m)^.5   
+ 
+ 
+ e = -1.600D-19C   
+ 
+ 
+ m = 9.100D-31Kg   
+ 
+ 
+ Va = 500V   
+ 
+ 
+ v = 13259871m/s   
+ 
+ 
+ 
+ (c)   
+ 
+ l  =
+ 
+    2.  
+ 
+ L  =
+ 
+    30.  
+ 
+ Va  =
+ 
+    500.  
+ 
+ SE  =
+ 
+    0.6  
+ 
+ 
+ l = 2cm   
+ 
+ 
+ L = 30cm   
+ 
+ 
+ d = 1cm   
+ 
+ 
+ Va = 500V   
+ 
+ 
+ SE = (l*L)/(2*Va*d) = 0.6mm/volts   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ y1  =
+ 
+    0.  
+ 
+ y2  =
+ 
+    5.  
+ 
+ phi  =
+ 
+    0.  
+ 
+ 
+ y1 = 0cm   
+ 
+ 
+ y2 = 5cm   
+ 
+ 
+ phi = sin-1(y1/y2) = 0degree   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ y1  =
+ 
+    4.  
+ 
+ y2  =
+ 
+    5.  
+ 
+ phi  =
+ 
+    53.130102  
+ 
+ 
+ y1 = 4unit   
+ 
+ 
+ y2 = 5unit   
+ 
+ 
+ phi = sin-1(y1/y2) = 53.130102degree   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.18/Ex3_18.sce #
+ 
+ 
+ 
+ y1  =
+ 
+    4.  
+ 
+ y2  =
+ 
+    4.  
+ 
+ phi  =
+ 
+    90.  
+ 
+ 
+ y1 = 4cm   
+ 
+ 
+ y2 = 4cm   
+ 
+ 
+ phi = sin-1(y1/y2) = 90degree   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ 
+ y1  =
+ 
+    2.  
+ 
+ y2  =
+ 
+    6.  
+ 
+ phi  =
+ 
+    19.471221  
+ 
+ 
+ y1 = 2cm   
+ 
+ 
+ y2 = 6cm   
+ 
+ 
+ phi = sin-1(y1/y2) = 19.471221degree   
+ 
+ 
+ OR   
+ 
+ phi  =
+ 
+    160.52878  
+ 
+ 
+ phi = 160.52878degree   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ Irs  =
+ 
+    0.0000002  
+ 
+ Vf  =
+ 
+    0.1  
+ 
+ VT  =
+ 
+    0.026  
+ 
+ eta  =
+ 
+    1.  
+ 
+ I  =
+ 
+    0.0000092  
+ 
+ 
+ Irs = 0.0000002A   
+ 
+ 
+ Vf = 0.1V   
+ 
+ 
+ VT = 0.026V   
+ 
+ 
+ eta = 1   
+ 
+ 
+ I = Irs*(exp(Vf/eta/VT)-1)   
+ 
+ 
+ I = 0.0000092A   
+ 
+ 
+ 
+ eta  =
+ 
+    2.  
+ 
+ 
+ eta = 2   
+ 
+ I  =
+ 
+    0.0000012  
+ 
+ 
+ I = 0.0000012A   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ Irs  =
+ 
+    0.000002  
+ 
+ I  =
+ 
+    0.01  
+ 
+ VT  =
+ 
+    0.026  
+ 
+ eta  =
+ 
+    2.  
+ 
+ 
+ Irs = 0.000002A   
+ 
+ 
+ I = 0.01A   
+ 
+ 
+ VT = 0.026V   
+ 
+ 
+ eta = 2   
+ 
+ Vf  =
+ 
+    0.4429044  
+ 
+ 
+ Vf = eta*VT*log((I/Irs)+1) = 0.4429044V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ If  =
+ 
+    0.003  
+ 
+ eta  =
+ 
+    1.  
+ 
+ T  =
+ 
+    300.  
+ 
+ VT  =
+ 
+    0.0258621  
+ 
+ 
+ If = 0.003A   
+ 
+ 
+ eta = 1   
+ 
+ 
+ T = 300degreeK   
+ 
+ 
+ VT = 0.0258621V   
+ 
+ Rdf  =
+ 
+    8.6206897  
+ 
+ 
+ Rdf = (eta*VT/If) = 8.6206897ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ A  =
+ 
+    0.000004  
+ 
+ W  =
+ 
+    0.0000015  
+ 
+ apsilent_r  =
+ 
+    16.  
+ 
+ apsilent_not  =
+ 
+    8.850D-12  
+ 
+ 
+ A = 0.000004m_sq   
+ 
+ 
+ W = 0.0000015m   
+ 
+ 
+ apsient_r = 16   
+ 
+ 
+ CT = apsilent*A/W   
+ 
+ 
+    = 3.776D-10F   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ I  =
+ 
+    0.01  
+ 
+ eta  =
+ 
+    1.  
+ 
+ VT  =
+ 
+    0.026  
+ 
+ tawo  =
+ 
+    0.006  
+ 
+ CD  =
+ 
+    0.0023077  
+ 
+ 
+ I = 0.01A   
+ 
+ 
+ eta = 1   
+ 
+ 
+ VT = 0.026V   
+ 
+ 
+ tawo = 0.006sec   
+ 
+ 
+ CD = I*tao/eta/VT = 0.0023077F   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ Vm  =
+ 
+    24.  
+ 
+ RL  =
+ 
+    1800.  
+ 
+ Im  =
+ 
+    0.0133333  
+ 
+ Irms  =
+ 
+    0.0066667  
+ 
+ Idc  =
+ 
+    0.0042441  
+ 
+ r  =
+ 
+    1.2113633  
+ 
+ 
+ Vm = 24V   
+ 
+ 
+ RL = 1800ohm   
+ 
+ 
+ Im = Vm/RL = 0.0133333A   
+ 
+ 
+ Irms = Im/2 = 0.0066667A   
+ 
+ 
+ Idc = Im/pi = 0.0042441A   
+ 
+ 
+ r ((Irms/Idc)^2 - 1)^.5 = 1.2113633   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ Vm  =
+ 
+    18.  
+ 
+ 
+ 
+ Vdc  =
+ 
+    5.729578  
+ 
+ PIV  =
+ 
+    18.  
+ 
+ 
+ Vm = 18V   
+ 
+ 
+ Vdc = Vm/pi = 5.729578V   
+ 
+ 
+ PIV = Vm = 18V   
+ 
+ 
+ 
+ Vdc  =
+ 
+    11.459156  
+ 
+ PIV  =
+ 
+    36.  
+ 
+ 
+ Vdc = 2*Vm/pi = 11.459156V   
+ 
+ 
+ PIV = 2*Vm = 36V   
+ 
+ 
+ 
+ 
+ PIV = Vm = 18V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ Vm  =
+ 
+    12.  
+ 
+ RL  =
+ 
+    1500.  
+ 
+ Im  =
+ 
+    0.008  
+ 
+ Irms  =
+ 
+    0.0056569  
+ 
+ Idc  =
+ 
+    0.0050930  
+ 
+ r  =
+ 
+    0.4834258  
+ 
+ 
+ Vm = 12V   
+ 
+ 
+ Im = Vm/RL = 0.008A   
+ 
+ 
+ Irms = Im/(2^0.5) = 0.0056569A   
+ 
+ 
+ Idc = (2*Im/pi) = 0.0050930A   
+ 
+ 
+ r = (((Irms/Idc)^2)-1)^0.5 = 0.4834258   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ Idc  =
+ 
+    0.01  
+ 
+ Irms  =
+ 
+    0.014  
+ 
+ RL  =
+ 
+    1000.  
+ 
+ Pdc  =
+ 
+    0.1  
+ 
+ Pac  =
+ 
+    0.196  
+ 
+ 
+ Idc = 0.01A   
+ 
+ 
+ Irms = 0.014A   
+ 
+ 
+ RL = 1000ohm   
+ 
+ 
+ Pdc = (Idc^2)*RL = 0.1W   
+ 
+ 
+ Pac = (Irms^2)*RL = 0.196W   
+ 
+ 
+ eta_r = Pdc/Pac = 51.020408%   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ v = 12 sin(wt)   
+ 
+ Vm  =
+ 
+    12.  
+ 
+ RL  =
+ 
+    1000.  
+ 
+ Rf  =
+ 
+    10.  
+ 
+ Im  =
+ 
+    0.0118812  
+ 
+ Idc  =
+ 
+    0.0037819  
+ 
+ Vdc  =
+ 
+    3.7818996  
+ 
+ Irms  =
+ 
+    0.0059406  
+ 
+ Pi  =
+ 
+    0.0356436  
+ 
+ VNL  =
+ 
+    3.8197186  
+ 
+ VL  =
+ 
+    3.7818996  
+ 
+ Regulation  =
+ 
+    0.01  
+ 
+ 
+ Vm = 12V   
+ 
+ 
+ RL = 1000ohm   
+ 
+ 
+ Rf = 10ohm   
+ 
+ 
+ Im = Vm/(RL+Rf) = 0.0118812A   
+ 
+ 
+ Idc = Im/pi = 0.0037819A   
+ 
+ 
+ Vdc = Idc*RL = 3.7818996V   
+ 
+ 
+ Pi = (Irms^2)*(RL+Rf)   
+ 
+ 
+ Irms = Im/2 = 0.0059406A   
+ 
+ 
+ Pi = 0.0356436W   
+ 
+ 
+ %Regulation = (VNL - VL)/VL   
+ 
+ 
+ VNL = Vm/pi = 3.8197186V   
+ 
+ 
+ VL = Idc*RL = 3.7818996   
+ 
+ 
+ %Regulation = 1%   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ Vdc  =
+ 
+    15.  
+ 
+ 
+ Vdc = 15V   
+ 
+ 
+ Vm  =
+ 
+    47.12389  
+ 
+ PIV  =
+ 
+    47.12389  
+ 
+ 
+ Vm = Vdc*pi = 47.12389V   
+ 
+ 
+ PIV = Vm = 47.12389V   
+ 
+ 
+ Vm  =
+ 
+    23.561945  
+ 
+ PIV  =
+ 
+    47.12389  
+ 
+ 
+ Vm = Vdc*pi/2 = 23.561945V   
+ 
+ 
+ PIV = 2*Vm = 47.12389V   
+ 
+ 
+ Vm  =
+ 
+    23.561945  
+ 
+ PIV  =
+ 
+    23.561945  
+ 
+ 
+ Vm = Vdc*pi/2 = 23.561945V   
+ 
+ 
+ PIV = Vm = 23.561945V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ Rf  =
+ 
+    10.  
+ 
+ RL  =
+ 
+    150.  
+ 
+ eta_r  =
+ 
+    38.0625  
+ 
+ 
+ Rf = 10ohm   
+ 
+ 
+ RL = 150ohm   
+ 
+ 
+ eta_r = 40.6/(1+Rf/RL) = 38.0625%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ Rf  =
+ 
+    12.5  
+ 
+ RL  =
+ 
+    100.  
+ 
+ eta_r  =
+ 
+    71.2  
+ 
+ 
+ Rf = 12.5ohm   
+ 
+ 
+ RL = 100ohm   
+ 
+ 
+ eta_r = 80.1/(1+Rf/RL) = 71.2%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.13/Ex5_13.sce #
+ 
+ 
+ Vdc  =
+ 
+    32.  
+ 
+ Vm  =
+ 
+    50.265482  
+ 
+ Vrms  =
+ 
+    35.543064  
+ 
+ PIV  =
+ 
+    50.265482  
+ 
+ 
+ Vdc = 32V   
+ 
+ 
+ Vm = pi*Vdc/2 = 50.265482V   
+ 
+ 
+ Vrms = Vm/(2^.5) = 35.543064V   
+ 
+ 
+ PIV = 50.265482V   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.14/Ex5_14.sce #
+ 
+ 
+ C  =
+ 
+    0.01  
+ 
+ f  =
+ 
+    50.  
+ 
+ Idc  =
+ 
+    0.2  
+ 
+ Vr  =
+ 
+    0.2  
+ 
+ 
+ C = 0.01F   
+ 
+ 
+ f = 50Hz   
+ 
+ 
+ Idc = 0.2A   
+ 
+ 
+ Vr = Idc/(2*f*C) = 0.2V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.15/Ex5_15.sce #
+ 
+ 
+ C  =
+ 
+    0.0006  
+ 
+ T  =
+ 
+    0.02  
+ 
+ Vr  =
+ 
+    1.2  
+ 
+ Vdc  =
+ 
+    9.  
+ 
+ Vac  =
+ 
+    0.3464102  
+ 
+ r  =
+ 
+    0.0384900  
+ 
+ Idc  =
+ 
+    0.072  
+ 
+ RL  =
+ 
+    125.  
+ 
+ 
+ C = 0.0006F   
+ 
+ 
+ T = 0.02s   
+ 
+ 
+ Vr = 1.2V   
+ 
+ 
+ Vdc = 9V   
+ 
+ 
+ Vac = 0.3464102V   
+ 
+ 
+ r = 0.0384900   
+ 
+ 
+ Idc = 0.072A   
+ 
+ 
+ RL = 125ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.16/Ex5_16.sce #
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ f  =
+ 
+    50.  
+ 
+ XL  =
+ 
+    314.15927  
+ 
+ RL  =
+ 
+    100.  
+ 
+ r  =
+ 
+    0.01  
+ 
+ 
+ 
+ 
+ 
+ XL = 2*%pi*f*L = 314.15927ohm   
+ 
+ 
+ r = 0.01   
+ 
+ XC  =
+ 
+    42.156295  
+ 
+ 
+ XC = ((r*8*XL*RL)/(2^.5))^.5 = 42.156295ohm   
+ 
+ 
+ XC = 1/wC = 1/(2*pi*f*C) = 42.156295   
+ 
+ C  =
+ 
+    0.0000755  
+ 
+ 
+ C = 1/(2*pi*f*XC) = 0.0000755F   
+ 
+ 
+ 
+ design parameters:   
+ 
+ 
+ C1 = C2 = 0.0000755F   
+ 
+ 
+ RL = 100ohm   
+ 
+ 
+ L = 1H   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH5/EX5.17/Ex5_17.sce #
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ vi = 16 sin(wt)   
+ 
+ Vdc  =
+ 
+    16.  
+ 
+ RL  =
+ 
+    100.  
+ 
+ C1  =
+ 
+    0.002  
+ 
+ C2  =
+ 
+    0.002  
+ 
+ L  =
+ 
+    1.  
+ 
+ Idc  =
+ 
+    0.16  
+ 
+ XC1  =
+ 
+    1.5915494  
+ 
+ XC2  =
+ 
+    1.5915494  
+ 
+ XL  =
+ 
+    314.15927  
+ 
+ r  =
+ 
+    0.0000143  
+ 
+ 
+ L = 1H   
+ 
+ 
+ C1 = 0.002F   
+ 
+ 
+ C2 = 0.002F   
+ 
+ 
+ RL = 100ohm   
+ 
+ 
+ f = 50Hz   
+ 
+ 
+ Vdc = 16V   
+ 
+ 
+ Idc = Vdc/RL = 0.16A   
+ 
+ 
+ XL = 2*%pi*f*L = 314.15927ohm   
+ 
+ 
+ XC1 = 1/(2*%pi*f*C1) = 1.5915494ohm   
+ 
+ 
+ XC2 = 1/(2*%pi*f*C2) = 1.5915494ohm   
+ 
+ 
+ r = ((2^.5)*XC1*XC2)/(8*XL*RL) = 0.0000143   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ IB  =
+ 
+    0.00004  
+ 
+ IC  =
+ 
+    0.003  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    75.  
+ 
+ alpha  =
+ 
+    0.9868421  
+ 
+ 
+ IB = 0.00004A   
+ 
+ 
+ IC = 0.003A   
+ 
+ 
+ beta = IC/IB = 75   
+ 
+ 
+ alpha = beta/(1+beta) = 0.9868421   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ IE  =
+ 
+    0.0012  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    60.  
+ 
+ alpha  =
+ 
+    0.9836066  
+ 
+ 
+ beta = 60   
+ 
+ 
+ alpha = beta/(1+beta) = 0.9836066   
+ 
+ 
+ IE = 0.0012A   
+ 
+ IB  =
+ 
+    0.0000197  
+ 
+ IC  =
+ 
+    0.0011803  
+ 
+ 
+ IB = IE/(beta+1) = 0.0000197A   
+ 
+ 
+ IC = beta*IB = 0.0011803A   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ alpha  =
+ 
+    0.98  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ IE  =
+ 
+  - 0.002  
+ 
+ Re  =
+ 
+    100.  
+ 
+ RL  =
+ 
+    3300.  
+ 
+ 
+ alpha = 0.98   
+ 
+ 
+ VBE = 0.7V   
+ 
+ 
+ IE = -0.002A   
+ 
+ 
+ Re = 100ohm   
+ 
+ 
+ RL = 3300ohm   
+ 
+ 
+ IC  =
+ 
+    0.00196  
+ 
+ 
+ IC = -alpha*IE = 0.00196A   
+ 
+ IB  =
+ 
+    0.00004  
+ 
+ 
+ IB = -IC - IE = 0.00004A   
+ 
+ VBN  =
+ 
+    0.9  
+ 
+ 
+ VBN = VBE+(IE*Re) = 0.9V   
+ 
+ 
+ R1  =
+ 
+    30000.  
+ 
+ 
+ R1 = 30000ohm   
+ 
+ I  =
+ 
+    0.00003  
+ 
+ 
+ I = VBN/R1 = 0.00003A   
+ 
+ 
+ VCC  =
+ 
+    9.  
+ 
+ 
+ VCC = 9V   
+ 
+ VCN  =
+ 
+    2.301  
+ 
+ 
+ VCN = VCC - RL*(IC+I+IB)) = 2.301V   
+ 
+ 
+ R  =
+ 
+    20014.286  
+ 
+ 
+ R = (VCN - VBN)/(I+IB) = 20014.286ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ RC  =
+ 
+    2300.  
+ 
+ Re  =
+ 
+    1000.  
+ 
+ VCC  =
+ 
+    12.  
+ 
+ VCE  =
+ 
+    5.  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    50.  
+ 
+ 
+ RC = 2300ohm   
+ 
+ 
+ Re = 1000ohm   
+ 
+ 
+ VCC = 12V   
+ 
+ 
+ VCE = 5V   
+ 
+ 
+ VBE = 0.7V   
+ 
+ 
+ beta = 50   
+ 
+ 
+ IB  =
+ 
+    0.0000416  
+ 
+ 
+ IB = (VCC - VCE)/((beta+1)*[RC+Re]) = 0.0000416A   
+ 
+ IC  =
+ 
+    0.0020796  
+ 
+ 
+ IC = 0.0020796A   
+ 
+ 
+ Rt  =
+ 
+    103384.29  
+ 
+ 
+ Rt = (VCE - VBE)/IB = 103384.29ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ VBB  =
+ 
+    1.  
+ 
+ VCC  =
+ 
+    12.  
+ 
+ IC  =
+ 
+    0.012  
+ 
+ VCE  =
+ 
+    4.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    80.  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VBB = 1V   
+ 
+ 
+ VCC = 12V   
+ 
+ 
+ IC = 0.012A   
+ 
+ 
+ VCE = 4V   
+ 
+ 
+ beta = 80   
+ 
+ 
+ VBE = 0.7V   
+ 
+ IB  =
+ 
+    0.00015  
+ 
+ 
+ IB = IC/beta = 0.00015A   
+ 
+ RC  =
+ 
+    666.66667  
+ 
+ 
+ RC = (VCC - VCE)/IC = 666ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ VCC  =
+ 
+    9.  
+ 
+ VBB  =
+ 
+    3.  
+ 
+ IC  =
+ 
+    0.002  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    50.  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ VCE  =
+ 
+    4.  
+ 
+ 
+ VCC = 9V   
+ 
+ 
+ VBB = 3V   
+ 
+ 
+ IC = 0.002A   
+ 
+ 
+ beta = 50   
+ 
+ 
+ VBE = 0.7V   
+ 
+ 
+ VCE = 4V   
+ 
+ IB  =
+ 
+    0.00004  
+ 
+ 
+ IB = IC/beta = 0.00004A   
+ 
+ RB  =
+ 
+    57500.  
+ 
+ 
+ RB = (VBB - VBE)/IB = 57500ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ VCC  =
+ 
+    12.  
+ 
+ VBB  =
+ 
+    3.  
+ 
+ IC  =
+ 
+    0.012  
+ 
+ VCE  =
+ 
+    5.5  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ Re  =
+ 
+    50.  
+ 
+ 
+ VCC = 12V   
+ 
+ 
+ VBB = 3V   
+ 
+ 
+ IC = 0.012A   
+ 
+ 
+ VCE = 5.5V   
+ 
+ 
+ beta = 100   
+ 
+ 
+ VBE = 0.7V   
+ 
+ 
+ Re = 50ohm   
+ 
+ IB  =
+ 
+    0.00012  
+ 
+ 
+ IB = IC/beta = 0.00012A   
+ 
+ 
+ IE  =
+ 
+    0.01212  
+ 
+ Rb  =
+ 
+    14116.667  
+ 
+ 
+ Rb = (VBB - VBE - IE*Re)/IB = 14116.667ohm   
+ 
+ 
+ Rc  =
+ 
+    491.16667  
+ 
+ 
+ Rc = (VCC - VCE - (IE*Re))/IC = 491.16667ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.8/Ex6_8.sce #
+ 
+ 
+ VBB  =
+ 
+    10.  
+ 
+ RB  =
+ 
+    500000.  
+ 
+ VCC  =
+ 
+    15.  
+ 
+ RC  =
+ 
+    1200.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ 
+ beta = 100   
+ 
+ 
+ VBB = 10V   
+ 
+ 
+ RB = 500000ohm   
+ 
+ 
+ VCC = 15V   
+ 
+ 
+ RC = 1200ohm   
+ 
+ IB  =
+ 
+    0.00002  
+ 
+ 
+ IB = VBB/RB = 0.00002A   
+ 
+ IC  =
+ 
+    0.002  
+ 
+ 
+ IC = beta*IB = 0.002A   
+ 
+ VCE  =
+ 
+    12.6  
+ 
+ 
+ VCE = VCC - IC*RC = 12.6V   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ ic  =
+ 
+    0.002  
+ 
+ ie  =
+ 
+    0.002  
+ 
+ VT  =
+ 
+    0.025  
+ 
+ re  =
+ 
+    12.5  
+ 
+ gm  =
+ 
+    0.08  
+ 
+ 
+ ic = 0.002A   
+ 
+ 
+ ie = 0.002A   
+ 
+ 
+ VT = 0.025V   
+ 
+ 
+ re = VT/ie = 12.5ohm   
+ 
+ 
+ gm = ie/VT = 0.08mho   
+ 
+ rc  =
+ 
+    100000.  
+ 
+ 
+ rc = 100000ohm   
+ 
+ hoe  =
+ 
+    0.00001  
+ 
+ 
+ hoe = 1/rc = 0.00001Mho   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.10/Ex6_10.sce #
+ 
+ 
+ ic  =
+ 
+    0.0025  
+ 
+ ib  =
+ 
+    0.00005  
+ 
+ 
+ ib = 0.00005A   
+ 
+ 
+ ic = 0.0025A   
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    50.  
+ 
+ 
+ beta = ic/ib = 50   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.11/Ex6_11.sce #
+ 
+ 
+ ic  =
+ 
+    0.003  
+ 
+ ib  =
+ 
+    0.00308  
+ 
+ 
+ ib = 0.00308A   
+ 
+ 
+ ic = 0.003A   
+ 
+ alpha  =
+ 
+    0.9740260  
+ 
+ 
+ alpha = ie/ib = ic/ib = 0.9740260   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.12/Ex6_12.sce #
+ 
+ 
+ 
+ 
+ vc  =
+ 
+    7.  
+ 
+ 
+ vc = 11 - 4 = 7V   
+ 
+ 
+ 
+ ic  =
+ 
+    0.0036  
+ 
+ 
+ ic = 5m - 1.4m = 0.0036A   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH6/EX6.13/Ex6_13.sce #
+ 
+ 
+ ic  =
+ 
+    0.004  
+ 
+ ib  =
+ 
+    0.00008  
+ 
+ 
+ ib = 0.00008A   
+ 
+ 
+ ic = 0.004A   
+ 
+ Ai  =
+ 
+    50.  
+ 
+ 
+ Ai = ic/ib = 50   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ Ie  =
+ 
+    0.006  
+ 
+ Ve  =
+ 
+    1.1  
+ 
+ Re  =
+ 
+    183.33333  
+ 
+ 
+ Ie = 0.006A   
+ 
+ 
+ Ve = 1.1V   
+ 
+ 
+ Re = 183.33333ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ TA  =
+ 
+    30.  
+ 
+ TJ  =
+ 
+    48.  
+ 
+ PD  =
+ 
+    4.  
+ 
+ TR  =
+ 
+    4.5  
+ 
+ 
+ TA = 30degreeC   
+ 
+ 
+ TJ = 48degreeC   
+ 
+ 
+ PD = 4W   
+ 
+ 
+ TR = (TJ - TA)/PD = 4.5degreeC/W   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ TA  =
+ 
+    28.  
+ 
+ TJ  =
+ 
+    50.  
+ 
+ TR  =
+ 
+    10.  
+ 
+ PD  =
+ 
+    2.2  
+ 
+ 
+ TA = 28degreeC   
+ 
+ 
+ TJ = 50degreeC   
+ 
+ 
+ TR = 10degreeC/W   
+ 
+ 
+ PD = (TJ - TA)/TR = 2.2W   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ RC  =
+ 
+    4000.  
+ 
+ RB  =
+ 
+    1200000.  
+ 
+ VCC  =
+ 
+    9.  
+ 
+ VBE  =
+ 
+    0.2  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    80.  
+ 
+ 
+ RC = 4000ohm   
+ 
+ 
+ RB = 1200000ohm   
+ 
+ 
+ VCC = 9V   
+ 
+ 
+ VBE = 0.2V   
+ 
+ 
+ beta = 80   
+ 
+ IB  =
+ 
+    0.0000073  
+ 
+ 
+ IB = (VCC - VBE)/RB = 0.0000073A   
+ 
+ IC  =
+ 
+    0.0005867  
+ 
+ 
+ IC = beta*IB = 0.0005867A   
+ 
+ VCE  =
+ 
+    6.6533333  
+ 
+ 
+ VCE = VCC - (IC*RC) = 6.6533333V   
+ 
+ 
+ The Q-point is(6.6533333V, 0.0005867A)   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ VBE  =
+ 
+    0.6  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ 
+ beta = 100   
+ 
+ 
+ VBE = 0.6V   
+ 
+ 
+ VCC  =
+ 
+    12.  
+ 
+ RC  =
+ 
+    5000.  
+ 
+ 
+ VCC = 12V   
+ 
+ 
+ RC = 5000ohm   
+ 
+ 
+ IC  =
+ 
+    0.0012  
+ 
+ 
+ IC = VCC/(2*RC) = 0.0012A   
+ 
+ IB  =
+ 
+    0.000012  
+ 
+ 
+ IB = IC/beta = 0.000012A   
+ 
+ 
+ 
+ IB*RB = VCC - VBE   
+ 
+ RB  =
+ 
+    950000.  
+ 
+ 
+ RB = (VCC - VBE)/IB = 950000ohm   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ RC  =
+ 
+    2000.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ VCC  =
+ 
+    9.  
+ 
+ RB  =
+ 
+    500000.  
+ 
+ VBE  =
+ 
+    0.6  
+ 
+ 
+ RC = 2000ohm   
+ 
+ 
+ beta = 100   
+ 
+ 
+ VCC = 9V   
+ 
+ 
+ RB = 500000ohm   
+ 
+ 
+ VBE = 0.6V   
+ 
+ IB  =
+ 
+    0.0000168  
+ 
+ 
+ IB = (VCC - VBE)/RB = 0.0000168Amp   
+ 
+ IC  =
+ 
+    0.00168  
+ 
+ 
+ IC = beta*IB = 0.00168A   
+ 
+ VCE  =
+ 
+    5.64  
+ 
+ 
+ VCE = VCC - IC*RC = 5.64V   
+ 
+ 
+ operating point is(5.64V, 0.00168A)   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ VCC  =
+ 
+    12.  
+ 
+ RB  =
+ 
+    300000.  
+ 
+ RC  =
+ 
+    1500.  
+ 
+ Re  =
+ 
+    2000.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ 
+ VCC = 12V   
+ 
+ 
+ RB = 300000ohm   
+ 
+ 
+ RC = 1500ohm   
+ 
+ 
+ Re = 2000ohm   
+ 
+ 
+ beta = 100   
+ 
+ IB  =
+ 
+    0.000024  
+ 
+ 
+ IB = VCC/(RB + beta*Re) = 0.000024A   
+ 
+ IC  =
+ 
+    0.0024  
+ 
+ 
+ IC = beta*IB = 0.0024A   
+ 
+ IE  =
+ 
+    0.002424  
+ 
+ 
+ IE = IB + IC = 0.002424A   
+ 
+ VCE  =
+ 
+    3.552  
+ 
+ 
+ VCE = VCC - IC*RC - IE*Re = 3.552V   
+ 
+ 
+ quiescent point is(3.552V, 0.0024A)   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ VCC  =
+ 
+    9.  
+ 
+ RC  =
+ 
+    3000.  
+ 
+ RB  =
+ 
+    500000.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VCC = 9V   
+ 
+ 
+ RC = 3000ohm   
+ 
+ 
+ RB = 500000ohm   
+ 
+ 
+ beta = 100   
+ 
+ 
+ VBE = 0.7V   
+ 
+ 
+ IB  =
+ 
+    0.0000166  
+ 
+ 
+ IB = (VCC - VBE)/RB  = 0.0000166A   
+ 
+ IC  =
+ 
+    0.00166  
+ 
+ 
+ IC = beta*IB = 0.00166A   
+ 
+ VCE  =
+ 
+    4.02  
+ 
+ 
+ VCE = VCC - IC*RC = 4.02V   
+ 
+ 
+ operating point is(4.02V, 0.00166A)   
+ 
+ S  =
+ 
+    101.  
+ 
+ 
+ S = 1 + beta = 101   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ R1  =
+ 
+    80000.  
+ 
+ R2  =
+ 
+    25000.  
+ 
+ Re  =
+ 
+    2000.  
+ 
+ Rc  =
+ 
+    2000.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    100.  
+ 
+ VCC  =
+ 
+    12.  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ R1 = 80000ohm   
+ 
+ 
+ R2 = 25000ohm   
+ 
+ 
+ Re = 2000ohm   
+ 
+ 
+ Rc = 2000ohm   
+ 
+ 
+ beta = 100   
+ 
+ 
+ VCC = 12V   
+ 
+ 
+ VBE = 0.7V   
+ 
+ Rb  =
+ 
+    19047.619  
+ 
+ 
+ Rb = R1*R2/(R1+R2) = 19047.619ohm   
+ 
+ VB  =
+ 
+    2.8571429  
+ 
+ 
+ VB = VCC(R2/(R1+R2)) = 2.8571429V   
+ 
+ IB  =
+ 
+    0.0000098  
+ 
+ 
+ IB = (VB - VBE)/(Rb*(1+((1+beta)*(Re/Rb))))   
+ 
+ 
+    = 0.0000098A   
+ 
+ IC  =
+ 
+    0.0009759  
+ 
+ 
+ IC = beta*IB = 0.0009759A   
+ 
+ IE  =
+ 
+    0.0009759  
+ 
+ VCE  =
+ 
+    8.0965101  
+ 
+ 
+ VCE = VCC - IC*Rc - IE*Re = 8.0965101V   
+ 
+ 
+ operating point is(8.0965101V, 0.0009759A)   
+ 
+ S  =
+ 
+    9.6169754  
+ 
+ 
+ S = (1+beta)*[(1+Rb/Re)*(1+beta+Rb/Re)] = 9.6169754   
+ 
+ 
+ S' = -(beta/Re)/(1+beta+Rb/Re) = -0.0004524   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ delta_IC  =
+ 
+    0.00001  
+ 
+ delta_beta  =
+ 
+    5.  
+ 
+ 
+ delta_IC = 0.00001A   
+ 
+ 
+ delta_beta = 5A   
+ 
+ 
+ S'' = delta_IC/delta_beta = 0.000002   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.11/Ex7_11.sce #
+ 
+ 
+ TA  =
+ 
+    30.  
+ 
+ TJ  =
+ 
+    48.  
+ 
+ PD  =
+ 
+    4.  
+ 
+ TR  =
+ 
+    4.5  
+ 
+ 
+ TA = 30degreeC   
+ 
+ 
+ TJ = 48degreeC   
+ 
+ 
+ PD = 4W   
+ 
+ 
+ TR = (TJ - TA)/PD = 4.5degreeC/W   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH7/EX7.12/Ex7_12.sce #
+ 
+ 
+ TA  =
+ 
+    28.  
+ 
+ TJ  =
+ 
+    50.  
+ 
+ TR  =
+ 
+    10.  
+ 
+ PD  =
+ 
+    2.2  
+ 
+ 
+ TA = 28degreeC   
+ 
+ 
+ TJ = 50degreeC   
+ 
+ 
+ TR = 10degreeC/W   
+ 
+ 
+ PD = (TJ - TA)/TR = 2.2W   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ (a)   
+ 
+ Vce  =
+ 
+    0.  
+ 
+ Ic  =
+ 
+    0.002  
+ 
+ Ib  =
+ 
+    0.00003  
+ 
+ Vbe  =
+ 
+    0.05  
+ 
+ 
+ Vce = 0V   
+ 
+ 
+ Ic = 0.002A   
+ 
+ 
+ Ib = 0.00003A   
+ 
+ 
+ Vbe = 0.05V   
+ 
+ hfe  =
+ 
+    66.666667  
+ 
+ 
+ hfe = Ic/Ib = 66.666667   
+ 
+ hie  =
+ 
+    1666.6667  
+ 
+ 
+ hie = Vbe/Ib = 1666.6667ohm   
+ 
+ 
+ (b)   
+ 
+ Ib  =
+ 
+    0.  
+ 
+ Vce  =
+ 
+    1.  
+ 
+ Vbe  =
+ 
+    0.0003  
+ 
+ Ic  =
+ 
+    0.0001  
+ 
+ 
+ Vce = 1V   
+ 
+ 
+ Ic = 0.0001A   
+ 
+ 
+ Ib = 0A   
+ 
+ 
+ Vbe = 0.0003V   
+ 
+ hoe  =
+ 
+    0.0001  
+ 
+ 
+ hoe = Ic/Vce = 0.0001mho   
+ 
+ hre  =
+ 
+    0.0003  
+ 
+ 
+ hre = Vbe/Vce = 0.0003   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ RL  =
+ 
+    8000.  
+ 
+ hie  =
+ 
+    1000.  
+ 
+ hre  =
+ 
+    0.00025  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hoe  =
+ 
+    0.000025  
+ 
+ 
+ RL = 8000ohm   
+ 
+ 
+ 
+ hie = 1000ohm   
+ 
+ 
+ hre = 0.00025   
+ 
+ 
+ hfe = 50   
+ 
+ 
+ hoe = 0.000025mho   
+ 
+ 
+ Ai  =
+ 
+  - 41.666667  
+ 
+ 
+ Ai = -hfe/(1+(hoe*RL)) = -41.666667   
+ 
+ 
+ Ai = 41.666667   
+ 
+ 
+ Ri  =
+ 
+    916.66667  
+ 
+ 
+ Ri = hie+(hre*Ai*RL) = 916.66667ohm   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ RL  =
+ 
+    8000.  
+ 
+ Rs  =
+ 
+    500.  
+ 
+ hie  =
+ 
+    1000.  
+ 
+ hre  =
+ 
+    0.00025  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hoe  =
+ 
+    0.000025  
+ 
+ 
+ RL = 8000ohm   
+ 
+ 
+ Rs = 500ohm   
+ 
+ 
+ 
+ hie = 1000ohm   
+ 
+ 
+ hre = 0.00025   
+ 
+ 
+ hfe = 50   
+ 
+ 
+ hoe = 0.000025mho   
+ 
+ 
+ Ai  =
+ 
+  - 41.666667  
+ 
+ 
+ Ai = -hfe/(1+(hoe*RL)) = -41.666667   
+ 
+ 
+ Ri  =
+ 
+    916.66667  
+ 
+ 
+ Ri = hie+(hre*Ai*RL) = 916.66667ohm   
+ 
+ 
+ Ais  =
+ 
+  - 14.705882  
+ 
+ 
+ Ais = (Ai*Rs)/(Ri+Rs)= -14.705882   
+ 
+ 
+ Avs  =
+ 
+  - 363.63636  
+ 
+ 
+ Avs = Ai*RL/Ri = -363.63636   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ RL  =
+ 
+    5000.  
+ 
+ Rs  =
+ 
+    1200.  
+ 
+ hre  =
+ 
+    0.00025  
+ 
+ hie  =
+ 
+    1100.  
+ 
+ hfe  =
+ 
+    100.  
+ 
+ hoe  =
+ 
+    0.000025  
+ 
+ 
+ RL = 5000ohm   
+ 
+ 
+ Rs = 1200ohm   
+ 
+ 
+ 
+ hie = 1100ohm   
+ 
+ 
+ hre = 0.00025   
+ 
+ 
+ hfe = 100   
+ 
+ 
+ hoe = 0.000025mho   
+ 
+ 
+ Ai  =
+ 
+  - 88.888889  
+ 
+ 
+ Ai = -hfe/(1+(hoe*RL)) = 88.888889   
+ 
+ 
+ Ri  =
+ 
+    988.88889  
+ 
+ 
+ Ri = hie+(hre*Ai*RL) = 988.88889ohm   
+ 
+ 
+ Av  =
+ 
+  - 449.4382  
+ 
+ 
+ Av = Ai*RL/Ri = -449.4382   
+ 
+ 
+ Go  =
+ 
+    0.0000141  
+ 
+ Ro  =
+ 
+    70769.231  
+ 
+ 
+ Ro = 1/Go   
+ 
+ 
+ Go = hoe-((hre*hfe)/(hie+Rs)) = 0.0000141mho   
+ 
+ 
+ Ro = 70769.231ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ RL  =
+ 
+    22000.  
+ 
+ hfb  =
+ 
+  - 0.98  
+ 
+ hob  =
+ 
+    0.0000008  
+ 
+ 
+ RL = 22000ohm   
+ 
+ 
+ hfb = -0.98   
+ 
+ 
+ hob = 0.0000008mho   
+ 
+ Ai  =
+ 
+    0.9638839  
+ 
+ 
+ Ai = -hfb/(1+(hob*RL)) = 0.9638839   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ hfb  =
+ 
+  - 0.999  
+ 
+ hib  =
+ 
+    50.  
+ 
+ hob  =
+ 
+    0.0000008  
+ 
+ hrb  =
+ 
+    0.000004  
+ 
+ RL  =
+ 
+    22000.  
+ 
+ 
+ RL = 22000ohm   
+ 
+ 
+ 
+ hib = 50ohm   
+ 
+ 
+ hrb = 0.000004   
+ 
+ 
+ hfb = -0.999   
+ 
+ 
+ hob = 0.0000008mho   
+ 
+ Av  =
+ 
+    431.02644  
+ 
+ 
+ Av = -(hfb*RL)/((RL*(hib*hob-hfb*hrb))+hib) = 431.02644   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ RL  =
+ 
+    1200.  
+ 
+ 
+ Rs  =
+ 
+    1200.  
+ 
+ 
+ hie  =
+ 
+    1000.  
+ 
+ hre  =
+ 
+    0.00025  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hoe  =
+ 
+    0.000025  
+ 
+ 
+ RL = 1200ohm   
+ 
+ 
+ Rs = RL = 1200ohm   
+ 
+ 
+ 
+ hie = 1000ohm   
+ 
+ 
+ hre = 0.00025   
+ 
+ 
+ hfe = 50   
+ 
+ 
+ hoe = 0.000025mho   
+ 
+ 
+ Ai  =
+ 
+  - 48.543689  
+ 
+ 
+ Ai = -hfe/(1+(hoe*RL)) = -48.543689   
+ 
+ 
+ Ri  =
+ 
+    985.43689  
+ 
+ 
+ Ri = hie+(hre*Ai*RL) = 985.43689ohm   
+ 
+ 
+ 
+ Av = Ai*RL/Ri   
+ 
+ Av  =
+ 
+  - 59.1133  
+ 
+ 
+    = -59.1133   
+ 
+ 
+ Ro  =
+ 
+    51764.706  
+ 
+ 
+ Ro = 1/((hoe - (hfe*hre)/(hie+Rs)))   
+ 
+ 
+      = 51764.706ohm   
+ 
+ 
+ Ais  =
+ 
+  - 26.65482  
+ 
+ 
+ Ais = (Ai*Rs)/(Ri+Rs)= -26.65482   
+ 
+ 
+ Avs  =
+ 
+  - 26.65482  
+ 
+ 
+ Avs = Av*Ri/(Ri+Rs) = -26.65482   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ Ai  =
+ 
+  - 60.  
+ 
+ hfe  =
+ 
+    100.  
+ 
+ hoe  =
+ 
+    0.00001  
+ 
+ 
+ hfe = 100   
+ 
+ 
+ hoe = 0.00001A/V   
+ 
+ 
+ Ai = -60   
+ 
+ 
+ But, Ai = -hfe/(1+ hoe*RL)   
+ 
+ RL  =
+ 
+    66666.667  
+ 
+ 
+ Thus,RL = -(1/hoe)*(1+(hfe/Ai)) = 66666.667ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ Ai  =
+ 
+  - 60.  
+ 
+ Ri  =
+ 
+    2000.  
+ 
+ RL  =
+ 
+    15000.  
+ 
+ 
+ Ai = -60   
+ 
+ 
+ Ri = 2000ohm   
+ 
+ 
+ RL = 15000ohm   
+ 
+ Av  =
+ 
+  - 450.  
+ 
+ 
+ Av = Ai*RL/Ri = -450   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.10/Ex8_10.sce #
+ 
+ 
+ Av  =
+ 
+  - 200.  
+ 
+ Ri  =
+ 
+    10000.  
+ 
+ RL  =
+ 
+    3000.  
+ 
+ Ai  =
+ 
+  - 666.66667  
+ 
+ 
+ Av = -200   
+ 
+ 
+ Ri = 10000ohm   
+ 
+ 
+ RL = 3000ohm   
+ 
+ 
+ Ai = Av*Ri/RL = -666.66667   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH8/EX8.11/Ex8_11.sce #
+ 
+ 
+ Av  =
+ 
+  - 250.  
+ 
+ Ai  =
+ 
+  - 50.  
+ 
+ RL  =
+ 
+    12000.  
+ 
+ 
+ Av = -250   
+ 
+ 
+ Ai = -50   
+ 
+ 
+ RL = 12000ohm   
+ 
+ Ri  =
+ 
+    2400.  
+ 
+ 
+ Ri = Ai*RL/Av = 2400ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ h  =
+ 
+    0.0005  
+ 
+ a  =
+ 
+    0.00025  
+ 
+ rho  =
+ 
+    10.  
+ 
+ sigma  =
+ 
+    0.1  
+ 
+ micro_p  =
+ 
+    500.  
+ 
+ apsilent_r  =
+ 
+    12.  
+ 
+ apsilent_not  =
+ 
+    8.854D-14  
+ 
+ 
+ a = 0.00025cm   
+ 
+ 
+ sigma = 0.1mho/cm   
+ 
+ 
+ micro_p = 500cm-sq/Vs   
+ 
+ 
+ apsilent_r = 12F/cm   
+ 
+ Vp  =
+ 
+    5.8824637  
+ 
+ 
+ Vp = (a^2)*sigma/(2*apsilent_r*apsilent_not*micro_p)   
+ 
+ 
+ Vp = 5.8824637V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ delta_ID  =
+ 
+    0.002  
+ 
+ delta_VGS  =
+ 
+    1.  
+ 
+ 
+ delta_ID = 0.002A   
+ 
+ 
+ delta_VGS = 1V   
+ 
+ gm  =
+ 
+    0.002  
+ 
+ 
+ gm = delta_ID/delta_VGS   
+ 
+ 
+ gm = 0.002 mho   
+ 
+ 
+ delta_ID  =
+ 
+    0.0002  
+ 
+ delta_VDS  =
+ 
+    4.  
+ 
+ 
+ delta_ID = 0.0002A   
+ 
+ 
+ delta_VDS = 4V   
+ 
+ rd  =
+ 
+    20000.  
+ 
+ 
+ rd = delta_VDS/delta_ID   
+ 
+ 
+ rd = 20000 ohm   
+ 
+ 
+ micro  =
+ 
+    40.  
+ 
+ 
+ micro = rd*gm   
+ 
+ 
+ micro = 40   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+ Vp = (a^2)*sigma/(2*apsilent*micro_p)   
+ 
+ h  =
+ 
+    0.0002  
+ 
+ a  =
+ 
+    0.0001  
+ 
+ rho  =
+ 
+    1.  
+ 
+ sigma  =
+ 
+    1.  
+ 
+ micro_p  =
+ 
+    1800.  
+ 
+ apsilent_r  =
+ 
+    16.  
+ 
+ apsilent_not  =
+ 
+    8.854D-14  
+ 
+ 
+ a = 0.0001cm   
+ 
+ 
+ rho = 1ohm-cm   
+ 
+ 
+ sigma = 1mho/cm   
+ 
+ 
+ micro = 1800cm_sq/Vs   
+ 
+ 
+ apsilent_r = 16F/cm   
+ 
+ 
+ apsilent_not = 8.854D-14F/cm   
+ 
+ Vp  =
+ 
+    1.9608212  
+ 
+ 
+ Vp = 1.9608212V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ gm2  =
+ 
+    0.004  
+ 
+ 
+ gm1 = 0.002mho   
+ 
+ 
+ gm2 = 0.004mho   
+ 
+ Effective_gm  =
+ 
+    0.006  
+ 
+ 
+ Effective gm = gm1 + gm2 = 0.006mho   
+ 
+ rd2  =
+ 
+    30000.  
+ 
+ Effective_rd  =
+ 
+    12000.  
+ 
+ 
+ rd1 = 20000ohm   
+ 
+ 
+ rd2 = 30000ohm   
+ 
+ 
+ Effective rd = (rd1*rd2)/(rd1+rd2) = 12000ohm   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ VGS  =
+ 
+    4.  
+ 
+ IG  =
+ 
+    2.000D-09  
+ 
+ RGS  =
+ 
+    2.000D+09  
+ 
+ 
+ VGs = 4V   
+ 
+ 
+ IG = 2.000D-09A   
+ 
+ 
+ RGS = VGS/IG = 2.000D+09ohm   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ Vp  =
+ 
+  - 4.  
+ 
+ ID  =
+ 
+    0.004  
+ 
+ IDSS  =
+ 
+    0.006  
+ 
+ 
+ Vp = -4V   
+ 
+ 
+ ID = 0.004A   
+ 
+ 
+ IDSS = 0.006A   
+ 
+ VGS  =
+ 
+  - 0.7340137  
+ 
+ 
+ VGS = Vp*((ID/IDSS)^.5-1) = -0.7340137V   
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.7/Ex9_7.sce #
+ 
+ 
+ 
+ rd1  =
+ 
+    20000.  
+ 
+ gm1  =
+ 
+    0.003  
+ 
+ 
+ rd1 = 20000ohm   
+ 
+ 
+ gm1 = 0.003mho   
+ 
+ 
+ rd2  =
+ 
+    40000.  
+ 
+ gm2  =
+ 
+    0.004  
+ 
+ 
+ rd2 = 40000ohm   
+ 
+ 
+ gm2 = 0.004mho   
+ 
+ 
+ micro  =
+ 
+    93.333333  
+ 
+ 
+ micro = (rd1*rd2*gm1)+(rd1*rd2*gm2)/(rd1+rd2) = 93.333333   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.9/Ex9_9.sce #
+ 
+ 
+ Vp  =
+ 
+  - 4.  
+ 
+ VGS  =
+ 
+  - 1.5  
+ 
+ VDS_minimum  =
+ 
+    2.5  
+ 
+ 
+ Vp = -4V   
+ 
+ 
+ VGS = -1.5V   
+ 
+ 
+ VDS_minimum = VGS - Vp = 2.5V   
+ 
+ IDSS  =
+ 
+    0.006  
+ 
+ ID  =
+ 
+    0.0023437  
+ 
+ 
+ IDSS = 0.006A   
+ 
+ 
+ ID = IDSS*(1-(VGS/Vp))^2 = 0.0023437A   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.10/Ex9_10.sce #
+ 
+ 
+ VGS  =
+ 
+  - 2.  
+ 
+ IDSS  =
+ 
+    0.008  
+ 
+ Vp  =
+ 
+  - 6.  
+ 
+ 
+ IDSS = 0.008A   
+ 
+ 
+ Vp = -6V   
+ 
+ 
+ VGS = -2V   
+ 
+ ID  =
+ 
+    0.0035556  
+ 
+ 
+ ID = IDSS*(1-(VGS/Vp))^2 = 0.0035556A   
+ 
+ RD  =
+ 
+    2000.  
+ 
+ VDD  =
+ 
+    12.  
+ 
+ VDS  =
+ 
+    4.8888889  
+ 
+ 
+ VDD = 12V   
+ 
+ 
+ RD = 2000ohm   
+ 
+ 
+ VDS = VDD - ID*RD = 4.8888889V   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ Av  =
+ 
+    80.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.001  
+ 
+ 
+ Av = 80   
+ 
+ 
+ beta = 0.001   
+ 
+ Avf  =
+ 
+    74.074074  
+ 
+ 
+ Avf = Av/(1+beta*Av) = 74.074074   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ Av  =
+ 
+    50.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.01  
+ 
+ BW  =
+ 
+    100000.  
+ 
+ 
+ Av = 50   
+ 
+ 
+ beta = 0.01   
+ 
+ 
+ Bandwidth = 100000Hz   
+ 
+ Avf  =
+ 
+    33.333333  
+ 
+ 
+ Avf = Av/(1+beta*Av) = 33.333333   
+ 
+ BWf  =
+ 
+    150000.  
+ 
+ 
+ (B.W)f = 150000Hz   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ Av  =
+ 
+    200.  
+ 
+ D  =
+ 
+    0.05  
+ 
+ Df  =
+ 
+    0.02  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.0075  
+ 
+ 
+ Av = 200   
+ 
+ 
+ D = 0.05   
+ 
+ 
+ Df = 0.02   
+ 
+ 
+ beta = (D/Df - 1)/Av = 0.0075   
+ 
+ 
+ beta = 0.75%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ Av1  =
+ 
+    100.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.001  
+ 
+ 
+ Av1 = 100   
+ 
+ 
+ beta = 0.001   
+ 
+ Af1  =
+ 
+    90.909091  
+ 
+ 
+ Af1 = Av1/(1+beta*Av1) = 90.909091   
+ 
+ 
+ Av2  =
+ 
+    150.  
+ 
+ beta  =
+ 
+    0.001  
+ 
+ 
+ Av2 = 150   
+ 
+ 
+ beta = 0.001   
+ 
+ Af2  =
+ 
+    130.43478  
+ 
+ 
+ Af2 = Av2/(1+beta*Av2) = 130.43478   
+ 
+ 
+ change_in_gain  =
+ 
+    39.525692  
+ 
+ 
+ change in gain required = Af2 - Af1 = 39.525692   
+ 
+ delta_Avf  =
+ 
+    0.4347826  
+ 
+ 
+ delta_Avf = Af2-Af1/Af1 = 0.4347826%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ Av  =
+ 
+    40.  
+ 
+ 
+ Av = 40dB   
+ 
+ Av  =
+ 
+    100.  
+ 
+ 
+ Av = 100   
+ 
+ Avf  =
+ 
+    20.  
+ 
+ 
+ Avf = 20dB   
+ 
+ Avf  =
+ 
+    10.  
+ 
+ 
+ Avf = 10   
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.09  
+ 
+ 
+ beta = (Av/Avf - 1)/Av = 0.09   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.6/Ex10_6.sce #
+ 
+ 
+ Av  =
+ 
+    100.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.05  
+ 
+ BW  =
+ 
+    400000.  
+ 
+ 
+ Av = 100   
+ 
+ 
+ beta = 0.05   
+ 
+ 
+ B.W. = 400000Hz   
+ 
+ Af  =
+ 
+    16.666667  
+ 
+ 
+ Af = Av/(1+beta*Av) = 16.666667   
+ 
+ BWf  =
+ 
+    2400000.  
+ 
+ 
+ (B.W)f = 2400000Hz   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.7/Ex10_7.sce #
+ 
+ 
+ Po  =
+ 
+    100.  
+ 
+ RL  =
+ 
+    10.  
+ 
+ 
+ Po = 100W   
+ 
+ 
+ RL = 10ohm   
+ 
+ vo  =
+ 
+    31.622777  
+ 
+ vi  =
+ 
+    2.  
+ 
+ 
+ vo = (Rl*Po)^0.5 = 31.622777V   
+ 
+ 
+ vi = 2V   
+ 
+ Av  =
+ 
+    15.811388  
+ 
+ 
+ Av = vo/vi = 15.811388   
+ 
+ D  =
+ 
+    0.04  
+ 
+ Df  =
+ 
+    0.0002  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    12.585865  
+ 
+ 
+ D = 0.04   
+ 
+ 
+ Df = 0.0002   
+ 
+ 
+ beta = (D/Df - 1)/Av = 12.585865   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.8/Ex10_8.sce #
+ 
+ 
+ BW  =
+ 
+    500000.  
+ 
+ A  =
+ 
+    200.  
+ 
+ BWf  =
+ 
+    2000000.  
+ 
+ 
+ B.W = 500000HZ   
+ 
+ 
+ A = 200   
+ 
+ 
+ (B.W)f = 2000000Hz   
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.015  
+ 
+ 
+ beta = ((B.W)f/B.W - 1)/A = 0.015   
+ 
+ 
+ beta = 1.5%   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.9/Ex10_9.sce #
+ 
+ 
+ A  =
+ 
+    150.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.05  
+ 
+ 
+ A = 150   
+ 
+ 
+ beta = 0.05   
+ 
+ Af  =
+ 
+    17.647059  
+ 
+ 
+ Af = A/(1+beta*A) = 17.647059   
+ 
+ fL  =
+ 
+    20000.  
+ 
+ fU  =
+ 
+    160000.  
+ 
+ 
+ fL = 20000Hz   
+ 
+ 
+ fU = 160000Hz   
+ 
+ fLf  =
+ 
+    2352.9412  
+ 
+ 
+ fLf = fL/(1+beta*A) = 2352.9412Hz   
+ 
+ fUf  =
+ 
+    1360000.  
+ 
+ 
+ fUf = fU*(1+beta*A) = 1360000Hz   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH10/EX10.10/Ex10_10.sce #
+ 
+ 
+ 
+ hie  =
+ 
+    1100.  
+ 
+ hfe  =
+ 
+    80.  
+ 
+ hoe  =
+ 
+    0.00002  
+ 
+ Re  =
+ 
+    2200.  
+ 
+ 
+ hie = 1100ohm   
+ 
+ 
+ hfe = 80   
+ 
+ 
+ hoe = 0.00002mho   
+ 
+ 
+ Re = 2200ohm   
+ 
+ gm  =
+ 
+    0.0727273  
+ 
+ Rif  =
+ 
+    177100.  
+ 
+ 
+ Rif = hie*(1+gm*Re) = 177100ohm   
+ 
+ Rof  =
+ 
+    13.580247  
+ 
+ 
+ Rof = hie/(1+hfe) = 13.580247ohm   
+ 
+ Avf  =
+ 
+    0.9937888  
+ 
+ 
+ Avf = gm*Re/(1+gm*Re) = 0.9937888   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ VCC  =
+ 
+    20.  
+ 
+ RL  =
+ 
+    12.  
+ 
+ 
+ VCC = 20V   
+ 
+ 
+ RL = 12ohm   
+ 
+ Pi_dc  =
+ 
+    16.666667  
+ 
+ 
+ Pi(dc) = (VCC^2)/(2*RL) = 16.666667W   
+ 
+ Po_ac  =
+ 
+    4.1666667  
+ 
+ 
+ Po_ac = (VCC^2)/(8*RL) = 4.1666667W   
+ 
+ eta  =
+ 
+    0.25  
+ 
+ 
+ eta = Po_ac/Pi_dc = 25%   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ Po_ac  =
+ 
+    64.  
+ 
+ eta  =
+ 
+    0.3  
+ 
+ Pi_dc  =
+ 
+    213.33333  
+ 
+ 
+ Po_ac = 64W   
+ 
+ 
+ eta = 0.3   
+ 
+ 
+ Pi_dc = Po_ac/eta = 213.33333W   
+ 
+ power_losses  =
+ 
+    149.33333  
+ 
+ 
+ Power losses = Pi_dc - Po_ac = 149.33333W   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ VCEmax  =
+ 
+    18.  
+ 
+ VCEmin  =
+ 
+    2.  
+ 
+ VQ  =
+ 
+    9.  
+ 
+ 
+ VCEmin = 2V   
+ 
+ 
+ VCEmax = 18V   
+ 
+ 
+ VQ = 9V   
+ 
+ D2  =
+ 
+    6.25  
+ 
+ 
+ D2 = [(1/2)*(VCEmax + VCEmin) - VQ]/(VCEmax - VCEmin)*100   
+ 
+ 
+    =6.25%   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ I1  =
+ 
+    5.  
+ 
+ I2  =
+ 
+    0.9  
+ 
+ I3  =
+ 
+    0.6  
+ 
+ I4  =
+ 
+    0.3  
+ 
+ I5  =
+ 
+    0.01  
+ 
+ D2  =
+ 
+    0.18  
+ 
+ D3  =
+ 
+    0.12  
+ 
+ D4  =
+ 
+    0.06  
+ 
+ D5  =
+ 
+    0.002  
+ 
+ 
+ I1 = 5A   
+ 
+ 
+ I2 = 0.9A   
+ 
+ 
+ I3 = 0.6A   
+ 
+ 
+ I4 = 0.3A   
+ 
+ 
+ I5 = 0.01A   
+ 
+ 
+ D2 = I2/I1 = 0.18   
+ 
+ 
+ D3 = I3/I1 = 0.12   
+ 
+ 
+ D4 = I4/I1 = 0.06   
+ 
+ 
+ D5 = I5/I1 = 0.002   
+ 
+ D  =
+ 
+    0.2245084  
+ 
+ 
+ D = [(D2^2)+(D3^2)+(D4^2)+(D5^2)]^(1/2) = 22.450835%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ VCC  =
+ 
+    9.  
+ 
+ Vp  =
+ 
+    5.  
+ 
+ VQ  =
+ 
+    9.  
+ 
+ VCEmax  =
+ 
+    14.  
+ 
+ VCEmin  =
+ 
+    4.  
+ 
+ 
+ VCC = 9V   
+ 
+ 
+ Vp = 5V   
+ 
+ 
+ VQ = VCC = 9V   
+ 
+ 
+ VCEmax = VQ + Vp = 14V   
+ 
+ 
+ VCEmin = VQ - Vp = 4V   
+ 
+ eta  =
+ 
+    27.777778  
+ 
+ 
+ eta = 50*[(VCEmax - VCEmin)/(VCEmax + VCEmin)] = 27.777778%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ VCC  =
+ 
+    20.  
+ 
+ RL  =
+ 
+    10.  
+ 
+ 
+ VCC = 20V   
+ 
+ 
+ RL = 10ohm   
+ 
+ Pi_dc  =
+ 
+    40.  
+ 
+ 
+ Pi(dc) = (VCC^2)/(RL) = 40W   
+ 
+ Po_ac  =
+ 
+    20.  
+ 
+ 
+ Po_ac = (VCC^2)/(2*RL) = 20W   
+ 
+ eta  =
+ 
+    0.5  
+ 
+ 
+ eta = Po_ac/Pi_dc = 50%   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ RL  =
+ 
+    3600.  
+ 
+ RL_dash  =
+ 
+    4.  
+ 
+ n  =
+ 
+    30.  
+ 
+ 
+ RL = 3600ohm   
+ 
+ 
+ RL_dash = 4ohm   
+ 
+ 
+ n = RL/RL_dash = 30   
+ 
+ 
+ turn ratio = 30: 1   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ VCC  =
+ 
+    15.  
+ 
+ Vp  =
+ 
+    12.  
+ 
+ 
+ VCC = 15V   
+ 
+ 
+ Vp = 12V   
+ 
+ eta  =
+ 
+    62.8  
+ 
+ 
+ eta = 78.5*(Vp/VCC) = 62.8%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ VCC  =
+ 
+    25.  
+ 
+ Vi  =
+ 
+    9.  
+ 
+ RL  =
+ 
+    10.  
+ 
+ Vi_peak  =
+ 
+    12.726  
+ 
+ Vo  =
+ 
+    12.726  
+ 
+ Po_ac  =
+ 
+    8.0975538  
+ 
+ Io  =
+ 
+    1.2726  
+ 
+ IC  =
+ 
+    0.8101623  
+ 
+ Pi_dc  =
+ 
+    20.254058  
+ 
+ eta  =
+ 
+    0.3997991  
+ 
+ 
+ VCC = 25V   
+ 
+ 
+ Vi = 9V   
+ 
+ 
+ RL = 10ohm   
+ 
+ 
+ Vi_peak = (2^2)Vi = 12.726V   
+ 
+ 
+ Vo = Vi_peak = 12.726V   
+ 
+ 
+ Po_ac = (Vo^2)/(2*RL) = 8.0975538W   
+ 
+ 
+ Io = Vo/RL = 1.2726A   
+ 
+ 
+ IC = (2/%pi)*Io = 0.8101623A   
+ 
+ 
+ Pi_dc = VCC*IC = 20.254058W   
+ 
+ 
+ eta = Po_ac/Pi_dc = 39.979908%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.10/Ex11_10.sce #
+ 
+ 
+ VCC  =
+ 
+    18.  
+ 
+ Vp  =
+ 
+    15.  
+ 
+ RL  =
+ 
+    12.  
+ 
+ 
+ VCC = 18V   
+ 
+ 
+ Vp = 15V   
+ 
+ 
+ RL = 12ohm   
+ 
+ Ip  =
+ 
+    1.25  
+ 
+ Idc  =
+ 
+    0.7957747  
+ 
+ 
+ Ip = Vp/RL = 1.25A   
+ 
+ 
+ Idc = (2/%pi)*Ip = 0.7957747A   
+ 
+ Pi_dc  =
+ 
+    14.323945  
+ 
+ 
+ Pi_dc = VCC*Idc = 14.323945W   
+ 
+ Po_ac  =
+ 
+    9.375  
+ 
+ 
+ Po_ac = (Vp^2)/(2*RL) = 9.375W   
+ 
+ eta  =
+ 
+    0.6544985  
+ 
+ 
+ eta = Po_ac/Pi_dc = 65.449847%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.11/Ex11_11.sce #
+ 
+ 
+ Vop_p  =
+ 
+    7.  
+ 
+ Vip_p  =
+ 
+    0.1  
+ 
+ Av  =
+ 
+    70.  
+ 
+ 
+ Av = output voltage/input voltage   
+ 
+ 
+    = 70   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.12/Ex11_12.sce #
+ 
+ 
+ Ai  =
+ 
+    50.  
+ 
+ Av  =
+ 
+    70.  
+ 
+ 
+ Ai = 50   
+ 
+ 
+ Av = 70   
+ 
+ Ap  =
+ 
+    3500.  
+ 
+ 
+ Ap = Ai*Av = 3500   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.13/Ex11_13.sce #
+ 
+ 
+ vc  =
+ 
+    9.  
+ 
+ ic  =
+ 
+    0.003  
+ 
+ Pd  =
+ 
+    0.027  
+ 
+ 
+ vc = 9V   
+ 
+ 
+ ic = 0.003A   
+ 
+ 
+ Pd = vc*ic = 0.027W   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH11/EX11.14/Ex11_14.sce #
+ 
+ 
+ Pac  =
+ 
+    0.0032  
+ 
+ Pd  =
+ 
+    0.027  
+ 
+ P_eta  =
+ 
+    0.1185185  
+ 
+ 
+ Pac = 0.0032W   
+ 
+ 
+ Pd = 0.027W   
+ 
+ 
+ P_eta = Pac/Pd = 11.851852%   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ A  =
+ 
+    100.  
+ 
+ A_Beta  =
+ 
+    1.  
+ 
+ Beta  =
+ 
+    0.01  
+ 
+ 
+ A = 100   
+ 
+ 
+ A_Beta = 1   
+ 
+ 
+ Beta = 0.01   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ Rf  =
+ 
+    500000.  
+ 
+ Cf  =
+ 
+    1.000D-10  
+ 
+ Rc  =
+ 
+    500000.  
+ 
+ f0  =
+ 
+    1006.5842  
+ 
+ 
+ Rf = 500000ohm   
+ 
+ 
+ Cf = 1.000D-10F   
+ 
+ 
+ Rc = 500000ohm   
+ 
+ 
+ f0 = 1/[2*pi*Rf*Cf*(6+4*(Rc/Rf))^(1/2)] = 1006.5842Hz   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH13/EX13.3/Ex13_3.sce #
+ 
+ 
+ Rf  =
+ 
+    1500000.  
+ 
+ Cf  =
+ 
+    1.000D-09  
+ 
+ f0  =
+ 
+    106.1033  
+ 
+ 
+ Rf = 1500000ohm   
+ 
+ 
+ Cf = 1.000D-09F   
+ 
+ 
+ f0 = 1/(2*pi*Rf*Cf) = 106.1033Hz   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH13/EX13.4/Ex13_4.sce #
+ 
+ 
+ C1  =
+ 
+    1.000D-09  
+ 
+ C2  =
+ 
+    1.000D-08  
+ 
+ L  =
+ 
+    0.00011  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.1  
+ 
+ f0  =
+ 
+    503292.12  
+ 
+ 
+ C1 = 1.000D-09F   
+ 
+ 
+ C2 = 1.000D-08F   
+ 
+ 
+ L = 0.00011H   
+ 
+ 
+ beta = 0.1   
+ 
+ 
+ f0 = ((C1+C2)/(C1*C2*L))^.5/(2*pi) = 503292.12Hz   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ Ad  =
+ 
+    100.  
+ 
+ Ac  =
+ 
+    0.01  
+ 
+ CMRR  =
+ 
+    10000.  
+ 
+ CMRR_dB  =
+ 
+    80.  
+ 
+ 
+ Ad = 100   
+ 
+ 
+ Ac = 0.01   
+ 
+ 
+ CMRR = Ad/Ac = 10000   
+ 
+ 
+ CMRR = 80dB   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ CMRR_dB  =
+ 
+    100.  
+ 
+ CMRR  =
+ 
+    100000.  
+ 
+ 
+ CMRR = 100dB   
+ 
+ 
+ CMRR = 10^(100/20) = 100000   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ Rf  =
+ 
+    10000.  
+ 
+ R1  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    2000.  
+ 
+ v1  =
+ 
+    10.  
+ 
+ v2  =
+ 
+    4.  
+ 
+ 
+ 
+ vo  =
+ 
+  - 30.  
+ 
+ 
+ Rf = 10000ohm   
+ 
+ 
+ R1 = 10000ohm   
+ 
+ 
+ R2 = 2000ohm   
+ 
+ 
+ v1 = 10V   
+ 
+ 
+ v2 = 4V   
+ 
+ 
+ vo = -Rf*((v1/R1)+(v2/R2)) = -30V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH14/EX14.4/Ex14_4.sce #
+ 
+ 
+ Rf  =
+ 
+    1000.  
+ 
+ R1  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ v1  =
+ 
+    2.  
+ 
+ v2  =
+ 
+    1.  
+ 
+ v3  =
+ 
+    3.  
+ 
+ vo  =
+ 
+  - 6.  
+ 
+ 
+ Rf = 1000ohm   
+ 
+ 
+ R1 = 1000ohm   
+ 
+ 
+ R2 = 1000ohm   
+ 
+ 
+ R3 = 1000ohm   
+ 
+ 
+ v1 = 2V   
+ 
+ 
+ v2 = 1V   
+ 
+ 
+ v3 = 3V   
+ 
+ 
+ vo = -Rf*((v1/R1)+(v2/R2)+(v3/R3)) = -6V   
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH14/EX14.7/Ex14_7.sce #
+ 
+ 
+ Af  =
+ 
+  - 20.  
+ 
+ R  =
+ 
+    10000.  
+ 
+ Rf  =
+ 
+    200000.  
+ 
+ 
+ Af = -20   
+ 
+ 
+ R = 10000ohm   
+ 
+ 
+ Rf = -Af/R = 200000ohm   
+ 
+ 

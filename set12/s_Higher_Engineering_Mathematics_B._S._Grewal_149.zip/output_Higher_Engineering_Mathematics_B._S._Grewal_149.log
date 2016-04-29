@@ -1,0 +1,4251 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 310
+
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.1/ex1.sce #
+ 
+ 
+ 
+ p  =
+ 
+               2    3  
+    6 - 13x + x + 2x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+  - 3.   
+    2.   
+    0.5  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.1/ex1.sce #
+ 
+ 
+ 
+ the first row of A denotes the no. of students falling in the marks group star 
+      ting from (5-10)...till (40-45)                                           
+ 
+ 
+ 
+ the second row denotes cumulative frequency (less than)   
+ 
+ 
+ 
+ 
+ the third row denotes cumulative frequency (more than)   
+ 
+ 
+ 
+ 
+    5.     6.     15.    10.    5.     4.     2.     2.   
+    5.     11.    26.    36.    41.    45.    47.    49.  
+    49.    44.    38.    23.    13.    8.     4.     2.   
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.1/ques1.sce #
+ 
+ 
+ 
+ p  =
+ 
+              3  
+  - 9 - 4x + x   
+ 
+ 
+ Finding roots of this equation by bisection method   
+ 
+ 
+ f(2) is -ve and f(3) is +ve so a root lies between 2 and 3   
+ 
+ 
+ 
+ 
+ 
+ 
+    2.6875  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH28/EX28.1/ques1.sce #
+ 
+ 
+ 
+ 
+ D=B^2-4AC   
+ 
+ 
+ if D<0 then elliptic    if D=0 then parabolic    if D>0 then hyperboic   
+ 
+ 
+ (i) A=x^2,B1-y^2    D=4^2-4*1*4=0    so The equation is PARABOLIC   
+ 
+ 
+ (ii) D=4x^2(y^2-1)   
+ 
+ 
+ for -inf<x<inf and -1<y<1 D<0   
+ 
+ 
+ So the equation is ELLIPTIC   
+ 
+ 
+ (iii) A=1+x^2,B=5+2x^2,C=4+x^2   
+ 
+ 
+ D=9>0   
+ 
+ 
+ So the equation is HYPERBOLIC   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.1/ex1.sce #
+ 
+ 
+ 
+ from the principle of counting,the required no.of ways are 12*11*10*9=   
+ 
+ ans  =
+ 
+    11880.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.1/example1.sce #
+ 
+ 
+ suppose the coin is unbiased    
+ 
+ 
+ then probability of getting the head in a toss=1/2   
+ 
+ 
+ then,expected no. of successes=a=1/2*400    
+ 
+ a  =
+ 
+    200.  
+ 
+ 
+ observed no. of successes =216   
+ 
+ b  =
+ 
+    216.  
+ 
+ 
+ the excess of observed value over expected value=   
+ 
+ ans  =
+ 
+    16.  
+ 
+ 
+ S.D. of simple sampling = (n*p*q)^0.5=c   
+ 
+ c  =
+ 
+    10.  
+ 
+ 
+ hence,z=(b-a)/c=   
+ 
+ ans  =
+ 
+    1.6  
+ 
+ 
+ as z<1.96,the hypothesis is accepted at  5% level of significance   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.2/ex2.sce #
+ 
+ 
+ 
+ p  =
+ 
+               2    3  
+    88 + x - 4x + 3x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    2. + 2.6457513i  
+    2. - 2.6457513i  
+  - 2.6666667        
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.2/ex2.sce #
+ 
+ 
+ a  =
+ 
+    0.    1.    2.    3.  
+    1.    0.    3.    0.  
+    2.    3.    0.    1.  
+    3.    0.    1.    2.  
+ 
+ 
+ determinant of a is    
+ 
+ ans  =
+ 
+    88.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.2/ex2.sce #
+ 
+ 
+ suppose the die is unbiased    
+ 
+ 
+ then probability of getting 5 or 6 with one die=1/3   
+ 
+ 
+ then,expected no. of successes=a=1/3*9000    
+ 
+ a  =
+ 
+    3000.  
+ 
+ 
+ observed no. of successes =3240   
+ 
+ b  =
+ 
+    3240.  
+ 
+ 
+ the excess of observed value over expected value=   
+ 
+ ans  =
+ 
+    240.  
+ 
+ 
+ S.D. of simple sampling = (n*p*q)^0.5=c   
+ 
+ c  =
+ 
+    44.72136  
+ 
+ 
+ hence,z=(b-a)/c=   
+ 
+ ans  =
+ 
+    5.3665631  
+ 
+ 
+ as z>2.58,the hypothesis has to be rejected  at  1% level of significance   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.2.1/ex2_1.sce #
+ 
+ 
+ 
+ no.of permutations=9!/(2!*2!*2!)    
+ 
+ ans  =
+ 
+    45360.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.2.2/ex2_2.sce #
+ 
+ 
+ 
+ no.of permutations=9!/(2!*2!*3!*3!)    
+ 
+ ans  =
+ 
+    2520.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH9/EX9.2.2/example2_2.sce #
+ 
+ 
+ 5-4-1+5-4-1+5-4-1+5-4-1+.........=0,5,1 according to the no. of terms.   
+ 
+ 
+ ly,in this case sum doesnt tend to a unique limit.hence,series is oscillatory. 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.3/ex3.sce #
+ 
+ 
+ 
+ p  =
+ 
+           2   3  
+    36 - 7x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    6.  
+    3.  
+  - 2.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.3/ex3.sce #
+ 
+ 
+ 
+ the first row of A denotes the no. of students falling in the marks group star 
+      ting from (5-10)...till (40-45)                                           
+ 
+ 
+ 
+ the second row denotes cumulative frequency (less than)   
+ 
+ A  =
+ 
+    5.    6.     15.    10.    5.     4.     2.     2.   
+    5.    11.    26.    36.    41.    45.    47.    49.  
+ 
+ 
+ the third row denotes cumulative frequency (more than)   
+ 
+ A  =
+ 
+    5.     6.     15.    10.    5.     4.     2.     2.   
+    5.     11.    26.    36.    41.    45.    47.    49.  
+    49.    44.    38.    23.    13.    8.     4.     2.   
+ 
+ 
+ median falls in the class (15-20) = l+((n/2-c)*h)/f=   
+ 
+ ans  =
+ 
+    19.5  
+ 
+ 
+ lower quartile also falls in the class (15-20)=   
+ 
+ Q1  =
+ 
+    15.416667  
+ 
+ 
+ upper quartile also falls in the class (25-30)=   
+ 
+ Q3  =
+ 
+    25.75  
+ 
+ 
+ semi interquartile range=   
+ 
+ ans  =
+ 
+    5.1666667  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.3/ques3.sce #
+ 
+ 
+ f(x)=xe^x-cos(x)   
+ 
+ 
+ 
+ 
+ we are required to find the roots of f(x) by the method of false position   
+ 
+ 
+ f(0)=-ve and f(1)=+ve so s root lie between 0 and 1   
+ 
+ 
+ finding the roots by false position method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The root of the equation is :   
+ 
+ 
+    0.5177479  
+ 
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.3/ex3.sce #
+ 
+ p  =
+ 
+    0.2452381  
+ 
+ 
+ q=1-p   
+ 
+ q  =
+ 
+    0.7547619  
+ 
+ n  =
+ 
+    840.  
+ 
+ 
+ standard error of the population of families having a monthly income of rs. 25 
+      0 or less=(p*q/n)^0.5=                                                    
+ 
+ ans  =
+ 
+    0.0148443  
+ 
+ 
+ hence taking 103/420 to be the estimate of families having a monthly income of 
+       rs. 250 or less,the limits are 20% and 29%  approximately                
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.3.1/ex3_1.sce #
+ 
+ 
+ 
+ 
+ no. of committees=C(6,3)*C(5,2)=   
+ 
+ ans  =
+ 
+    200.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.3.2/ex3_2.sce #
+ 
+ 
+ 
+ 
+ no. of committees=C(4,1)*C(5,2)=   
+ 
+ ans  =
+ 
+    40.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.3.3/ex3_3.sce #
+ 
+ 
+ 
+ 
+ no. of committees=C(6,3)*C(4,2)=   
+ 
+ ans  =
+ 
+    120.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.4/ex4.sce #
+ 
+ 
+ 
+ the first row of A denotes the roll no. of students form 1 to 10  and that of  
+      B denotes form 11 to 20                                                   
+ 
+ 
+ 
+ 
+ the second row of A annd B denotes the corresponding marks in physics    
+ 
+ 
+ 
+ 
+ the third row denotes the corresponding marks in chemistry    
+ 
+ 
+ 
+ 
+ median marks in physics =arithmetic mean of 10 thand 11 th student =   
+ 
+ ans  =
+ 
+    26.5  
+ 
+ 
+ median marks in chemistry =arithmetic mean of 10 thand 11 th student =   
+ 
+ ans  =
+ 
+    41.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.4/ques4.sce #
+ 
+ 
+ f(x)=x*log(x)-1.2   
+ 
+ 
+ 
+ 
+ we are required to find the roots of f(x) by the method of false position   
+ 
+ 
+ f(2)=-ve and f(3)=+ve so s root lie between 2 and 3   
+ 
+ 
+ finding the roots by false position method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The root of the equation is :   
+ 
+ 
+    2.7406363  
+ 
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.4/ex4.sce #
+ 
+ 
+ a  =
+ 
+    21.    17.    7.    10.  
+    24.    22.    6.    10.  
+    6.     8.     2.    3.   
+    6.     7.     1.    2.   
+ 
+ 
+ determinant of a is    
+ 
+ ans  =
+ 
+  - 24.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.4/ex4.sce #
+ 
+ 
+ n1  =
+ 
+    900.  
+ 
+ n2  =
+ 
+    1600.  
+ 
+ p1  =
+ 
+    0.2  
+ 
+ p2  =
+ 
+    0.185  
+ 
+ 
+ p=(n1*p1+n2*p2)/(n1+n2)    
+ 
+ p  =
+ 
+    0.1904  
+ 
+ 
+ q=1-p   
+ 
+ q  =
+ 
+    0.8096  
+ 
+ 
+ e=(p*q*(1/n1+1/n2))^0.5    
+ 
+ e  =
+ 
+    0.0163590  
+ 
+ z  =
+ 
+    0.9169249  
+ 
+ 
+ as z<1,the difference between the proportions is not significant.   
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.4.1/ex4_1.sce #
+ 
+ 
+ 
+ the probability of getting a four is 1/6=   
+ 
+ ans  =
+ 
+    0.1666667  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.4.2/ex4_2.sce #
+ 
+ 
+ 
+ the probability of getting an even no. 1/2=   
+ 
+ ans  =
+ 
+    0.5  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.5/ex5.sce #
+ 
+ 
+ 
+ let the misssing frequencies be f1and f2   
+ 
+ 
+ sum of given frequencies=12+30+65+25+18=   
+ 
+ c  =
+ 
+    150.  
+ 
+ 
+ so,f1+f2=229-c=   
+ 
+ ans  =
+ 
+    79.  
+ 
+ 
+ median=46=40+(114.5-(12+30+f1))*10/65)   
+ 
+ 
+ f1=33.5=34   
+ 
+ f1  =
+ 
+    34.  
+ 
+ f2  =
+ 
+    45.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.5/ques5.sce #
+ 
+ 
+  To find the roots of f(x)=3x-cos(x)-1 by newtons method    
+ 
+ 
+ f(0)=-ve and f(1) is +ve so a root lies between 0 and 1   
+ 
+ 
+ 
+ 
+ 
+ 
+ let us take x0=0.6 as the root is r to 1   
+ 
+ 
+ Root is given by r=x0-f(xn)/der(f(xn))    
+ 
+ 
+ approximated root in each steps are   
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    0.6071075  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    0.6071016  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    0.6071016  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.5/ques5.sce #
+ 
+ 
+ 
+ Solution using Eulers Method    
+ 
+ 
+ y   
+ 
+ x   
+ 
+[0mInput the number of iteration :-[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.5/ex5.sce #
+ 
+ 
+ 
+ the probability of 53 sundays is 2/7=   
+ 
+ ans  =
+ 
+    0.2857143  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.5/ex5.sce #
+ 
+ 
+ p1  =
+ 
+    0.3  
+ 
+ p2  =
+ 
+    0.25  
+ 
+ 
+ q1=1-p1   
+ 
+ q1  =
+ 
+    0.7  
+ 
+ 
+ q2=1-p2   
+ 
+ q2  =
+ 
+    0.75  
+ 
+ n1  =
+ 
+    1200.  
+ 
+ n2  =
+ 
+    900.  
+ 
+ 
+ e=((p1*q1/n1)+(p2*q2/n2))^0.5    
+ 
+ e  =
+ 
+    0.0195789  
+ 
+ z  =
+ 
+    2.5537696  
+ 
+ 
+ hence,it is likely that real difference will be hidden.   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH28/EX28.5/ques5_1.sce #
+ 
+ 
+ 
+ 
+ Here c^2=4 , h=1 , k=1/8 ,  therefore alpha=(c^2)*k/(h^2)   
+ 
+ 
+ Using bendre-schmidits recurrence relation ie u(i)(j+1)=t*u(i-1)(j)+t*u(i+1)(j 
+      )+(1-2t)*u(i,j)                                                           
+ 
+ 
+ Now since u(0,t)=0=u(8,t) therefore  u(0,i)=0 and u(8,j)=0 and u(x,0)=4x-1/2x^ 
+      2                                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    3.  
+ 
+    5.5  
+ 
+    7.  
+ 
+    7.5  
+ 
+    7.  
+ 
+    5.5  
+ 
+    3.  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.6/ex6.sce #
+ 
+ 
+ 
+ p  =
+ 
+                  2    3   4  
+    40 + 22x - 21x - 2x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    5.  
+  - 4.  
+    2.  
+  - 1.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.6/ques6.sce #
+ 
+ 
+ 
+ Solution using Eulers Method    
+ 
+ 
+ y   
+ 
+ x   
+ 
+[0mInput the number of iteration :-[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH28/EX28.6/ques6.sce #
+ 
+ 
+ 
+ 
+ Here c^2=1 , h=1/3 , k=1/36 ,  therefore t=(c^2)*k/(h^2)=1/4   
+ 
+ 
+ So bendre-schmidits recurrence relation ie u(i)(j+1)=1/4(u(i-1)(j)+u(i+1)(j)+2 
+      u(i,j)                                                                    
+ 
+ 
+ Now since u(0,t)=0=u(1,t) therefore  u(0,i)=0 and u(1,j)=0 and u(x,0)=sin(%pi) 
+      x                                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.2165064  
+ 
+    0.6495191  
+ 
+    0.4330127  
+ 
+  - 0.2165064  
+ 
+  - 0.6495191  
+ 
+  - 0.4330127  
+ 
+    0.2165064  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.6/ex6.sce #
+ 
+ 
+ 
+ the five digits can be arranged in 5! ways =   
+ 
+ ans  =
+ 
+    120.  
+ 
+ 
+ of which 4! will begin with 0=   
+ 
+ ans  =
+ 
+    24.  
+ 
+ 
+ so,total no. of five digit numbers=5!-4!=   
+ 
+ ans  =
+ 
+    96.  
+ 
+ 
+ the numbers ending in 04,12,20,24,32,40 will be divisible by 4   
+ 
+ 
+ numbers ending in 04=3!   
+ 
+ ans  =
+ 
+    6.  
+ 
+ 
+ numbers ending in 12=3!-2!   
+ 
+ ans  =
+ 
+    4.  
+ 
+ 
+ numbers ending in 20=3!   
+ 
+ ans  =
+ 
+    6.  
+ 
+ 
+ numbers ending in 24=3!-2!   
+ 
+ ans  =
+ 
+    4.  
+ 
+ 
+ numbers ending in 32=3!-2!   
+ 
+ ans  =
+ 
+    4.  
+ 
+ 
+ numbers ending in 40=3!   
+ 
+ ans  =
+ 
+    6.  
+ 
+ 
+ so,total no. of favourable ways=6+4+6+4+4+6=   
+ 
+ ans  =
+ 
+    30.  
+ 
+ 
+ probability=30/96=   
+ 
+ ans  =
+ 
+    0.3125  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.6/ex6.sce #
+ 
+ 
+ 
+ m and n represents mean and number of objects in sample respectively   
+ 
+ m  =
+ 
+    3.4  
+ 
+ n  =
+ 
+    900.  
+ 
+ M  =
+ 
+    3.25  
+ 
+ d  =
+ 
+    1.61  
+ 
+ 
+ z=(m-M)/(d/(n^0.5)   
+ 
+ z  =
+ 
+    2.7950311  
+ 
+ 
+ as z>1.96,it cannot be regarded as a random sample    
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.7/ex7.sce #
+ 
+ 
+ 
+ p  =
+ 
+                 2     3    4  
+    8 - 30x + 35x - 15x + 2x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    4.   
+    2.   
+    1.   
+    0.5  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.7/ex7.sce #
+ 
+ 
+ 
+ the first row denotes the size of item   
+ 
+ 
+ 
+ the second row denotes the corresponding frequency (f)   
+ 
+ 
+ 
+ the third row denotesthe corresponding deviation (d)   
+ 
+ 
+ 
+ the fourth row denotes the corresponding f*d    
+ 
+ 
+ 
+ the fifth row denotes the corresponding f*d^2   
+ 
+ 
+ A  =
+ 
+    6.     7.     8.    9.     10.    11.    12.  
+    3.     6.     9.    13.    8.     5.     4.   
+  - 3.   - 2.   - 1.    0.     1.     2.     3.   
+  - 9.   - 12.  - 9.    0.     8.     10.    12.  
+    27.    24.    9.    0.     8.     20.    36.  
+ 
+ 
+ 
+ sum of fourth row elements=   
+ 
+ 
+ 
+    0.  
+ 
+ c  =
+ 
+    0.  
+ 
+ 
+ sum of fifth row elements=   
+ 
+ 
+ 
+    124.  
+ 
+ 
+ 
+ sum of all frequencies=   
+ 
+ 
+ 
+    48.  
+ 
+ 
+ mean=9+b/d=   
+ 
+ ans  =
+ 
+    9.  
+ 
+ 
+ standard deviation=(c/d)^0.5   
+ 
+ ans  =
+ 
+    1.6072751  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.6/ques7.sce #
+ 
+ 
+ 
+ 
+ To find squareroot of 28 by newtons method let x=sqrt(28) ie x^2-28=0   
+ 
+ 
+ 
+  To find the roots by newtons method    
+ 
+ 
+ f(5)=-ve and f(6) is +ve so a root lies between 5 and 6   
+ 
+ 
+ 
+ 
+ let us take x0=5.5   
+ 
+ 
+ Root is given by rn=xn-f(xn)/der(f(xn))    
+ 
+ 
+ approximated root in each steps are   
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2954545  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2915041  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2915026  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2915026  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.7/ques7.sce #
+ 
+ 
+ 
+ 
+ To find squareroot of 28 by newtons method let x=sqrt(28) ie x^2-28=0   
+ 
+ 
+ 
+  To find the roots by newtons method    
+ 
+ 
+ f(5)=-ve and f(6) is +ve so a root lies between 5 and 6   
+ 
+ 
+ 
+ 
+ let us take x0=5.5   
+ 
+ 
+ Root is given by rn=xn-f(xn)/der(f(xn))    
+ 
+ 
+ approximated root in each steps are   
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2954545  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2915041  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2915026  
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+    5.2915026  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.7/ques7.sce #
+ 
+ 
+ 
+ Solution using Eulers Method    
+ 
+ 
+ y   
+ 
+ x   
+ 
+[0mInput the number of iteration :-[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH28/EX28.7/ques7.sce #
+ 
+ 
+ 
+ 
+ Here c^2=16 , taking h=1 , finding k such that c^2t^2=1    
+ 
+ 
+ So bendre-schmidits recurrence relation ie u(i)(j+1)=(16t^2(u(i-1)(j)+u(i+1)(j 
+      ))+2(1-16*t^2u(i,j)-u(i)(j-1)                                             
+ 
+ 
+ Now since u(0,t)=0=u(5,t) therefore  u(0,i)=0 and u(5,j)=0 and u(x,0)=x^2(5-x) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Also from 1st derivative (u(i)(j+1)-u(i,j-1))/2k=g(x)  and g(x)=0 in this case 
+ 
+ 
+ So if j=0 this gives u(i)(1)=1/2*(u(i-1)(0)+u(i+1)(0))   
+ 
+ 
+ 
+ 
+ 
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+    4.  
+ 
+    6.  
+ 
+    7.  
+ 
+  - 6.  
+ 
+  - 7.  
+ 
+    12.  
+ 
+    11.  
+ 
+    8.  
+ 
+  - 4.  
+ 
+  - 14.  
+ 
+    18.  
+ 
+    14.  
+ 
+    2.  
+ 
+  - 6.  
+ 
+  - 6.  
+ 
+    16.  
+ 
+    9.  
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.7/ex7.sce #
+ 
+ 
+ 
+ 
+ total no.of possible cases=C(40,4)   
+ 
+ ans  =
+ 
+    91390.  
+ 
+ 
+ favourable outcomes=C(24,2)*C(15,1)=   
+ 
+ ans  =
+ 
+    4140.  
+ 
+ 
+ probability=   
+ 
+ ans  =
+ 
+    0.0453004  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.8/ques8.sce #
+ 
+ 
+ 
+ Solution using Eulers Method    
+ 
+ 
+ y   
+ 
+ x   
+ 
+[0mInput the number of iteration :-[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH28/EX28.8/ques8.sce #
+ 
+ 
+ 
+ 
+ Here c^2=4 , taking h=1 , finding k such that c^2t^2=1    
+ 
+ 
+ So bendre-schmidits recurrence relation ie u(i)(j+1)=(16t^2(u(i-1)(j)+u(i+1)(j 
+      ))+2(1-16*t^2u(i,j)-u(i)(j-1)                                             
+ 
+ 
+ Now since u(0,t)=0=u(4,t) therefore  u(0,i)=0 and u(4,j)=0 and u(x,0)=x(4-x)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Also from 1st derivative (u(i)(j+1)-u(i,j-1))/2k=g(x)  and g(x)=0 in this case 
+ 
+ 
+ So if j=0 this gives u(i)(1)=1/2*(u(i-1)(0)+u(i+1)(0))   
+ 
+ 
+ 
+ 
+ 
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+    3.  
+ 
+    2.  
+ 
+    0.  
+ 
+  - 2.  
+ 
+    0.  
+ 
+    4.  
+ 
+    3.  
+ 
+    0.  
+ 
+  - 3.  
+ 
+  - 2.  
+ 
+    3.  
+ 
+    2.  
+ 
+  - 1.  
+ 
+  - 2.  
+ 
+  - 2.  
+ 
+    0.  
+ 
+  - 1.  
+ 
+    0.  
+ 
+    0.  
+ 
+    0.  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.8/ex8.sce #
+ 
+ 
+ 
+ 
+ total no.of possible cases=C(40,4)   
+ 
+ ans  =
+ 
+    6435.  
+ 
+ 
+ favourable outcomes=C(24,2)*C(15,1)=   
+ 
+ ans  =
+ 
+    2100.  
+ 
+ 
+ probability=   
+ 
+ ans  =
+ 
+    0.3263403  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH6/EX6.8/ex8.sce #
+ 
+[0mEnter the value of n [0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.9/ex9.sce #
+ 
+ 
+ 
+ the first row of A denotes the scores of A  and that of B denotes that of B   
+ 
+ 
+ 
+ 
+ the second row of A annd B denotes the corresponding deviation    
+ 
+ 
+ 
+ the third row of A and B denotes the corresponding deviation square   
+ 
+ 
+ A  =
+ 
+ 
+         column 1 to 8
+ 
+    12.      115.     6.       73.     7.       19.      119.     36.   
+  - 39.      64.    - 45.      22.   - 44.    - 32.      68.    - 15.   
+    1521.    4096.    2025.    484.    1936.    1024.    4624.    225.  
+ 
+         column  9 to 10
+ 
+    84.      29.   
+    33.    - 22.   
+    1089.    484.  
+ 
+ B  =
+ 
+ 
+         column 1 to 9
+ 
+    47.    12.      16.      42.    4.       51.    37.     48.    13.    
+  - 4.   - 39.    - 35.    - 9.   - 47.      0.   - 14.   - 3.   - 38.    
+    16.    1521.    1225.    81.    2209.    0.     196.    9.     1444.  
+ 
+         column 10
+ 
+    0.     
+  - 51.    
+    2601.  
+ 
+ 
+ 
+ sum of second row elements of A=b=   
+ 
+ 
+ 
+  - 10.  
+ 
+ 
+ 
+ sum of second row elements of B=c=   
+ 
+ 
+ 
+  - 240.  
+ 
+ 
+ 
+ sum of third  row elements of A=d=   
+ 
+ 
+ 
+    17508.  
+ 
+ 
+ 
+ sum of second row elements of B=e=   
+ 
+ 
+ 
+    9302.  
+ 
+ 
+ arithmetic mean of A=   
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ standard deviation of A=   
+ 
+ g  =
+ 
+    41.830611  
+ 
+ 
+ arithmetic mean of B=   
+ 
+ h  =
+ 
+    27.  
+ 
+ 
+ standard deviation of A=   
+ 
+ i  =
+ 
+    18.820202  
+ 
+ 
+ coefficient of variation of A=   
+ 
+ ans  =
+ 
+    83.661222  
+ 
+ 
+ coefficient of variation of B=   
+ 
+ ans  =
+ 
+    69.704452  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.9/ques9.sce #
+ 
+ 
+ 
+ Solution using Eulers Method    
+ 
+ 
+ y   
+ 
+ x   
+ 
+[0mInput the number of iteration :-[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.9/ex9.sce #
+ 
+ 
+ m1 and n1 represents mean and no. of objects in sample 1   
+ 
+ 
+ m2 and n2 represents mean and no. of objects in sample 2   
+ 
+ m1  =
+ 
+    67.5  
+ 
+ m2  =
+ 
+    68.  
+ 
+ n1  =
+ 
+    1000.  
+ 
+ n2  =
+ 
+    2000.  
+ 
+ d  =
+ 
+    2.5  
+ 
+ 
+ on the hypothesis that the samples are drawn from the same population of d=2.5 
+      ,we get                                                                   
+ 
+ z  =
+ 
+  - 5.1639778  
+ 
+ 
+ since |z|> 1.96,thus samples cannot be regarded as drawn from the same populat 
+      ion                                                                       
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.9.1/ex9_1.sce #
+ 
+ 
+ 
+ 
+ total no.of possible cases=C(9,3)   
+ 
+ ans  =
+ 
+    84.  
+ 
+ 
+ favourable outcomes=C(2,1)*C(3,1)*C(4,1)=   
+ 
+ ans  =
+ 
+    24.  
+ 
+ 
+ probability=   
+ 
+ ans  =
+ 
+    0.2857143  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH6/EX6.9.1/ex9_1.sce #
+ 
+ 
+ ans  =
+ 
+    1.3333333  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.9.2/ex9_2.sce #
+ 
+ 
+ 
+ 
+ total no.of possible cases=C(9,3)   
+ 
+ ans  =
+ 
+    84.  
+ 
+ 
+ favourable outcomes=C(2,2)*C(7,1)+C(3,2)*C(6,1)+C(4,2)*C(5,1)=   
+ 
+ ans  =
+ 
+    55.  
+ 
+ 
+ probability=   
+ 
+ ans  =
+ 
+    0.6547619  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH6/EX6.9.2/ex9_2.sce #
+ 
+ 
+ ans  =
+ 
+    0.6079864  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.9.3/ex9_3.sce #
+ 
+ 
+ 
+ 
+ total no.of possible cases=C(9,3)   
+ 
+ ans  =
+ 
+    84.  
+ 
+ 
+ favourable outcomes=C(3,3)+C(4,3)=   
+ 
+ ans  =
+ 
+    5.  
+ 
+ 
+ probability=   
+ 
+ ans  =
+ 
+    0.0595238  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH13/EX13.10/que10.sce #
+ 
+ 
+ 
+ solution of the given linear differential equation is given by :    
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.10/ex10.sce #
+ 
+ 
+ 
+ if m is the mean of entire data,then    
+ 
+ m  =
+ 
+    116.  
+ 
+ 
+ if s is the standard deviation of entire data,then    
+ 
+ s  =
+ 
+    7.7459667  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.10/ques10.sce #
+ 
+ 
+ Runges method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+    1.2426667  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.10/ex10.sce #
+ 
+ 
+ m1,d1 and n1 denotes mean,deviation and no. of objects in first sample   
+ 
+ m1  =
+ 
+    67.85  
+ 
+ d1  =
+ 
+    2.56  
+ 
+ n1  =
+ 
+    6400.  
+ 
+ 
+ m2,d2 and n2 denotes mean,deviation and no. of objects in second sample   
+ 
+ m2  =
+ 
+    68.55  
+ 
+ d2  =
+ 
+    2.52  
+ 
+ n2  =
+ 
+    1600.  
+ 
+ 
+ S.E. of the difference of the mean heights is    
+ 
+ e  =
+ 
+    0.0706612  
+ 
+ ans  =
+ 
+  - 0.7  
+ 
+ 
+ |m1-m2| > 10e,this is highly significant.hence,the data indicates that the sai 
+      lors are on the average taller than the soldiers.                         
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.10/ques10_11_12_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Solution of N-equation [A][X]=[r]   
+ 
+[0mEnter number of Equations :[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.12/ques10_11_12_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Solution of N-equation [A][X]=[r]   
+ 
+[0mEnter number of Equations :[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH24/EX24.13/ques10_11_12_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Solution of N-equation [A][X]=[r]   
+ 
+[0mEnter number of Equations :[0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.11/ex11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+          2   3  
+    1 - 3x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    2.8793852  
+    0.6527036  
+  - 0.5320889  
+ 
+ 
+ let    
+ 
+ x1  =
+ 
+    0.6527036  
+ 
+ x2  =
+ 
+  - 0.5320889  
+ 
+ x3  =
+ 
+    2.8793852  
+ 
+ 
+ so the equation whose roots are cube of the roots of above equation is (x-x1^3 
+      )*(x-x2^3)*(x-x3^3)=0 =>                                                  
+ 
+ p1  =
+ 
+                                       2   3  
+    0.9999998 + 2.9999982x - 23.999999x + x   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.11/ques11.sce #
+ 
+ 
+ Runga kutta method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+    1.2428  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.12/ex12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+               2   3  
+    8 + 5x - 6x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    4.4892886  
+    2.2891685  
+  - 0.7784571  
+ 
+ 
+ let    
+ 
+ x1  =
+ 
+  - 0.7784571  
+ 
+ x2  =
+ 
+    2.2891685  
+ 
+ x3  =
+ 
+    4.4892886  
+ 
+ 
+  now, since we want equation whose sum of roots is 0.sum of roots of above equ 
+      ation is 6,so we will decrease                                            
+ 
+ 
+ value of each root by 2 i.e. x4=x1-2    
+ 
+ x4  =
+ 
+  - 2.7784571  
+ 
+ 
+ x5=x2-2   
+ 
+ x5  =
+ 
+    0.2891685  
+ 
+ 
+ x6=x3-2   
+ 
+ x6  =
+ 
+    2.4892886  
+ 
+ 
+ hence,the required equation is (x-x4)*(x-x5)*(x-x6)=0 -->   
+ 
+ p1  =
+ 
+                               2   3  
+    1.9999997 - 7x - 4.441D-16x + x   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.12/ex12.sce #
+ 
+ 
+ 
+ the first row of A denotes the no. of persons falling in the weight  group sta 
+      rting from (70-80)...till (140-150)                                       
+ 
+ 
+ 
+ the second row denotes cumulative frequency   
+ 
+ 
+ 
+ 
+ median falls in the class (110-120) = l+((n/2-c)*h)/f=   
+ 
+ Q2  =
+ 
+    111.6  
+ 
+ 
+ lower quartile also falls in the class (90-100)=   
+ 
+ Q1  =
+ 
+    97.857143  
+ 
+ 
+ upper quartile also falls in the class (120-130)=   
+ 
+ Q3  =
+ 
+    123.44444  
+ 
+ 
+ quartile coefficient of skewness=   
+ 
+ ans  =
+ 
+  - 0.0741935  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.12/ques12.sce #
+ 
+ 
+ 
+ Runga kutta method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+    1.1959995  
+ 
+ 
+ to find y(0.4) put x=0.2 y=above value ie 1.196 h=0.2    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+    1.3752671  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.12/ex12.sce #
+ 
+ 
+ n  =
+ 
+    9.  
+ 
+ 
+ first of row denotes the different values of sample    
+ 
+ 
+ 
+ the second row denotes the corresponding deviation    
+ 
+ 
+ 
+ the third row denotes the corresponding square of deviation   
+ 
+ 
+ 
+ the sum of second row elements =   
+ 
+ 
+ 
+ a  =
+ 
+    10.  
+ 
+ 
+ the sum of third row elements    
+ 
+ 
+ 
+ b  =
+ 
+    66.  
+ 
+ 
+ let m be the mean    
+ 
+ m  =
+ 
+    49.111111  
+ 
+ 
+ let d be the standard deviation    
+ 
+ d  =
+ 
+    2.4695679  
+ 
+ t  =
+ 
+    1.8452258  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH6/EX6.12/ex12.sce #
+ 
+ 
+ ans  =
+ 
+    0.7853982  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.13/ex13.sce #
+ 
+ 
+ 
+ p  =
+ 
+                 2     3     4    5  
+  - 6 + 41x - 97x + 97x - 41x + 6x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    3.         
+    2.         
+    1.         
+    0.5        
+    0.3333333  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH23/EX23.13/ex13.sce #
+ 
+ 
+ 
+ the first row of A denotes the corresponding I.R. of students    
+ 
+ 
+ 
+ the second row denotes the corresponding deviation of I.R.   
+ 
+ 
+ 
+ the third row denotes the square of corresponding deviation of I.R.    
+ 
+ 
+ 
+ the fourth row denotes the corresponding  E.R. of students    
+ 
+ 
+ 
+ the fifth row denotes the corresponding deviation of E.R.    
+ 
+ 
+ 
+ the sixth row denotes the square of corresponding deviation of E.R.    
+ 
+ 
+ 
+ the seventh row denotes the product of the two corresponding deviations    
+ 
+ 
+ A  =
+ 
+    105.    104.    102.    101.    100.    99.    98.     96.    93.    92.  
+    6.      5.      3.      2.      1.      0.   - 1.    - 3.   - 6.   - 7.   
+    36.     25.     9.      4.      1.      0.     1.      9.     36.    49.  
+    101.    103.    100.    98.     95.     96.    104.    92.    97.    94.  
+    3.      5.      2.      0.    - 3.    - 2.     6.    - 6.   - 1.   - 4.   
+    9.      25.     4.      0.      9.      4.     36.     36.    1.     16.  
+    18.     25.     6.      0.    - 3.      0.   - 6.      18.    6.     28.  
+ 
+ 
+ 
+ the sum of elements of  first row=a   
+ 
+ 
+ a  =
+ 
+    990.  
+ 
+ 
+ 
+ the sum of elements of  second row=b   
+ 
+ 
+ b  =
+ 
+    0.  
+ 
+ 
+ 
+ the sum of elements of  third  row=c   
+ 
+ 
+ c  =
+ 
+    170.  
+ 
+ 
+ 
+ the sum of elements of  fourth row=d   
+ 
+ 
+ d  =
+ 
+    980.  
+ 
+ 
+ 
+ the sum of elements of  fifth row=e   
+ 
+ 
+ e  =
+ 
+    0.  
+ 
+ 
+ 
+ the sum of elements of  sixth row=d   
+ 
+ 
+ f  =
+ 
+    140.  
+ 
+ 
+ 
+ the sum of elements of  seventh row=d   
+ 
+ 
+ g  =
+ 
+    92.  
+ 
+ 
+ coefficient of correlation=   
+ 
+ ans  =
+ 
+    0.5963474  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.13/ques13.sce #
+ 
+ 
+ 
+ Runga kutta method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+    1.1164918  
+ 
+ 
+ to find y(0.4) put x=0.2 y=above value ie 1.196 h=0.2    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+    1.2735625  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.13/ex13.sce #
+ 
+ 
+ 
+ probability of drawing an ace or spade or both from pack of 52 cards=4/52+13/5 
+      2-1/52=                                                                   
+ 
+ ans  =
+ 
+    0.3076923  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX35.13/ex13.sce #
+ 
+ 
+ d and n represents the deviation and no. of objects in given sample   
+ 
+ n  =
+ 
+    10.  
+ 
+ d  =
+ 
+    0.04  
+ 
+ m  =
+ 
+    0.742  
+ 
+ M  =
+ 
+    0.7  
+ 
+ 
+ taking the hypothesis that the product is not inferior i.e. there is no signif 
+      icant differene between m and M                                           
+ 
+ t  =
+ 
+    3.15  
+ 
+ 
+ degrees of freedom=   
+ 
+ f  =
+ 
+    9.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.14/ex14.sce #
+ 
+ 
+ 
+ p  =
+ 
+                 2     4     5    6  
+  - 6 + 25x - 31x + 31x - 25x + 6x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+  - 1.                      
+    2.                      
+    0.8333333 + 0.5527708i  
+    0.8333333 - 0.5527708i  
+    1.                      
+    0.5                     
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.14.1/ex14_1.sce #
+ 
+ 
+ 
+ probability of first card being a king=4/52   
+ 
+ ans  =
+ 
+    0.0769231  
+ 
+ 
+ probability of second card being a queen=4/52   
+ 
+ ans  =
+ 
+    0.0769231  
+ 
+ 
+ probability of drawing both cards in succession=4/52*4/52=   
+ 
+ ans  =
+ 
+    0.0059172  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.15/ex15.sce #
+ 
+ 
+ 
+ p  =
+ 
+                 2   3  
+    16 + 12x - 3x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    2. + 3.4641016i  
+    2. - 3.4641016i  
+  - 1.               
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.15/ques15.sce #
+ 
+ 
+ 
+ Runga kutta method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+ 
+    1.1168873  
+ 
+ 
+ 
+ 
+ 
+ to find y(0.4) put x=0.2 y=above value ie 1.196 h=0.2    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+ 
+    1.2773914  
+ 
+ 
+ 
+ 
+ 
+ to find y(0.4) put x=0.2 y=above value ie 1.196 h=0.2    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+ 
+    1.504119  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y0 y1 y2 y3 are respectively :    
+ 
+ 
+    1.  
+ 
+    1.1168873  
+ 
+    1.2773914  
+ 
+    1.504119  
+ 
+ 
+ f0 f1 f2 f3 are respectively :    
+ 
+ 
+    1.  
+ 
+    1.3591259  
+ 
+    1.887207  
+ 
+    2.7136098  
+ 
+ 
+ finding y4 using predictors milne method x=0.4   
+ 
+ 
+ 
+ 
+ y4=   
+ 
+ 
+    1.8344352  
+ 
+ 
+ f4=   
+ 
+ 
+ 
+ 
+ using corrector method :   
+ 
+ 
+ 
+ y4=   
+ 
+ 
+    1.8387438  
+ 
+ 
+ f4=   
+ 
+ 
+ 
+    4.1164764  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH35/EX34.15/ex15.sce #
+ 
+ 
+ n  =
+ 
+    11.  
+ 
+ 
+ the first row denotes the boy no.    
+ 
+ 
+ 
+ the second row denotes the marks in test I (x1)    
+ 
+ 
+ 
+ the third row denotes the marks in test I (x2)    
+ 
+ 
+ 
+ the fourth row denotes the difference of marks in two tests (d)   
+ 
+ 
+ 
+ the fifth row denotes the  (d-1)    
+ 
+ 
+ 
+ the sixth row denotes the square of elements of fourth row   
+ 
+ 
+ A  =
+ 
+    1.     2.     3.     4.     5.     6.     7.     8.     9.     10.    11.  
+    23.    20.    19.    21.    18.    20.    18.    17.    23.    16.    19.  
+    24.    19.    22.    18.    20.    22.    20.    20.    23.    20.    17.  
+    1.   - 1.     3.   - 3.     2.     2.     2.     3.     0.     4.   - 2.   
+    0.   - 2.     2.   - 4.     1.     1.     1.     2.   - 1.     3.   - 3.   
+    1.     1.     9.     9.     4.     4.     4.     9.     0.     16.    4.   
+ 
+ 
+ 
+ the sum of elements of fourth row=    
+ 
+ 
+ a  =
+ 
+    11.  
+ 
+ 
+ 
+ the sum of elements of sixth row=    
+ 
+ 
+ b  =
+ 
+    61.  
+ 
+ 
+ standard deviation   
+ 
+ d  =
+ 
+    2.4698178  
+ 
+ t  =
+ 
+    1.4806361  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH6/EX6.15/ex15.sce #
+ 
+ 
+ ans  =
+ 
+    0.0337340  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.15.1/ex15_1.sce #
+ 
+ 
+ 
+ probability of getting 7 in first toss and not getting it in second toss=1/6*5 
+      /6                                                                        
+ 
+ ans  =
+ 
+    0.1388889  
+ 
+ 
+ probability of not getting 7 in first toss and getting it in second toss=5/6*1 
+      /6                                                                        
+ 
+ ans  =
+ 
+    0.1388889  
+ 
+ 
+ required probability=1/6*5/6+5/6*1/6   
+ 
+ ans  =
+ 
+    0.2777778  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.15.2/ex15_2.sce #
+ 
+ 
+ 
+ probability of not getting 7 in either toss=5/6*5/6   
+ 
+ ans  =
+ 
+    0.6944444  
+ 
+ 
+ probability of getting 7 at least once=1-5/6*5/6   
+ 
+ ans  =
+ 
+    0.3055556  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.15.3/ex15_3.sce #
+ 
+ 
+ 
+ probability of getting 7 twice=1/6*1/6   
+ 
+ ans  =
+ 
+    0.0277778  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.16/ex16.sce #
+ 
+ 
+ 
+ p  =
+ 
+          2     3  
+    1 - 9x + 28x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    0.2857143 + 0.2474358i  
+    0.2857143 - 0.2474358i  
+  - 0.25                    
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.16/ques16.sce #
+ 
+ 
+ 
+ 
+ y3  =
+ 
+    1.  
+ 
+ y2  =
+ 
+    1.233  
+ 
+ y1  =
+ 
+    1.548  
+ 
+ y0  =
+ 
+    1.979  
+ 
+ 
+ f3  =
+ 
+    2.  
+ 
+ f2  =
+ 
+    2.70193  
+ 
+ f1  =
+ 
+    3.66912  
+ 
+ f0  =
+ 
+    5.03451  
+ 
+ 
+ using predictor method   
+ 
+ h  =
+ 
+    0.1  
+ 
+ y11  =
+ 
+    2.5722974  
+ 
+ 
+ y11=   
+ 
+ 
+    2.5722974  
+ 
+ 
+ 
+ 
+ using corrector method   
+ 
+ 
+ 
+ y11=   
+ 
+ 
+    2.5749473  
+ 
+ 
+ 
+ f11=   
+ 
+ 
+    7.0068967  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.16/ex16.sce #
+ 
+ 
+ 
+ probability of engineering subject being chooosen=(1/3*3/8)+(2/3*5/8)=   
+ 
+ ans  =
+ 
+    0.5416667  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH6/EX6.16/ex16.sce #
+ 
+ 
+ ans  =
+ 
+  - 1.088793  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.17/ex17.sce #
+ 
+ 
+ 
+ p  =
+ 
+                2   3  
+    20 - 16x + x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+  - 5.               
+    2. + 4.270D-08i  
+    2. - 4.270D-08i  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.17/ques17.sce #
+ 
+ 
+ 
+ Runga kutta method   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+ 
+    0.9137945  
+ 
+ 
+ 
+ 
+ 
+ to find y(0.4) put x=0.2 y=above value ie 1.196 h=0.2    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+ 
+    0.8511915  
+ 
+ 
+ 
+ 
+ 
+ to find y(0.4) put x=0.2 y=above value ie 1.196 h=0.2    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required approximate value is :-   
+ 
+ 
+ 
+ 
+    0.8076220  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y0 y1 y2 y3 are respectively :    
+ 
+ 
+    1.  
+ 
+    0.9137945  
+ 
+    0.8511915  
+ 
+    0.8076220  
+ 
+ 
+ f0 f1 f2 f3 are respectively :    
+ 
+ 
+  - 1.  
+ 
+  - 0.7350204  
+ 
+  - 0.5245270  
+ 
+  - 0.3522534  
+ 
+ 
+ Using adams method   
+ 
+ 
+ Using the predictor    
+ 
+ 
+ 
+ 
+ 
+ 
+ y4=   
+ 
+ 
+    0.7800279  
+ 
+ 
+ using corrector method   
+ 
+ 
+ 
+ y4=   
+ 
+ 
+    0.7797837  
+ 
+ 
+ 
+ f4=   
+ 
+ 
+  - 0.2080627  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.17/ex17.sce #
+ 
+ 
+ A  =
+ 
+    1.    3.    0.  
+  - 1.    2.    1.  
+    0.    0.    2.  
+ 
+ B  =
+ 
+    2.    3.    4.  
+    1.    2.    3.  
+  - 1.    1.    2.  
+ 
+ 
+ AB=    
+ 
+ ans  =
+ 
+    5.    9.    13.  
+  - 1.    2.    4.   
+  - 2.    2.    4.   
+ 
+ 
+ BA=    
+ 
+ ans  =
+ 
+  - 1.    12.    11.  
+  - 1.    7.     8.   
+  - 2.  - 1.     5.   
+ 
+ 
+ ly AB is not equal to BA   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.17/ex17.sce #
+ 
+ 
+ 
+ probability of white ball being choosen=2/6*6/13+4/6*5/13=   
+ 
+ ans  =
+ 
+    0.4102564  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.18/ex18.sce #
+ 
+ 
+ 
+ p  =
+ 
+          2   3  
+    3 - 3x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    2.5320889  
+    1.3472964  
+  - 0.8793852  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.18/ex18.sce #
+ 
+ 
+ A  =
+ 
+    3.    2.    2.  
+    1.    3.    1.  
+    5.    3.    4.  
+ 
+ C  =
+ 
+    3.    4.    2.  
+    1.    6.    1.  
+    5.    6.    4.  
+ 
+ 
+ AB=C -->B=inv(A)*C   
+ 
+ B  =
+ 
+    1.    0.    4.441D-16  
+    0.    2.    0.         
+    0.    0.    1.         
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.18/ex18.sce #
+ 
+ 
+ 
+ chances of winning of A=1/2+(1/2)^2*(1/2)+(1/2)^4*(1/2)+(1/2)^6*(1/2)+..=   
+ 
+ ans  =
+ 
+    0.6666667  
+ 
+ 
+ chances of winning of B=1-chances of winning of A   
+ 
+ ans  =
+ 
+    0.3333333  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.19/ex19.sce #
+ 
+ 
+ 
+ p  =
+ 
+                  2     3   4  
+  - 72 - 18x + 41x - 12x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    6.  
+    4.  
+    3.  
+  - 1.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.19/ex19.sce #
+ 
+ 
+ A  =
+ 
+    1.    3.    2.  
+    2.    0.  - 1.  
+    1.    2.    3.  
+ 
+ I  =
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ A^3-4*A^2-3A+11I=   
+ 
+ ans  =
+ 
+    0.    0.    0.  
+    0.    0.    0.  
+    0.    0.    0.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.19.1/ex19_1.sce #
+ 
+ 
+ 
+ 
+ total no.of possible outcomes=C(10,2)=   
+ 
+ ans  =
+ 
+    45.  
+ 
+ 
+ no. of favourable outcomes=5*5=   
+ 
+ ans  =
+ 
+    25.  
+ 
+ 
+ p=   
+ 
+ ans  =
+ 
+    0.5102041  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.19.2/ex19_2.sce #
+ 
+ 
+ 
+ total no.of possible outcomes=10*9=   
+ 
+ ans  =
+ 
+    90.  
+ 
+ 
+ no. of favourable outcomes=5*5+5*5=   
+ 
+ ans  =
+ 
+    50.  
+ 
+ 
+ p=   
+ 
+ ans  =
+ 
+    0.5555556  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.19.3/ex19_3.sce #
+ 
+ 
+ 
+ total no.of possible outcomes=10*9=   
+ 
+ ans  =
+ 
+    100.  
+ 
+ 
+ no. of favourable outcomes=5*5+5*5=   
+ 
+ ans  =
+ 
+    50.  
+ 
+ 
+ p=   
+ 
+ ans  =
+ 
+    0.5  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.20/ex20.sce #
+ 
+ 
+ 
+ p  =
+ 
+                2    3   4  
+  - 3 + 10x - 5x - 2x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+  - 2.3027756  
+    2.618034   
+    1.3027756  
+    0.3819660  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH27/EX27.20/ques20.sce #
+ 
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.20/ex20.sce #
+ 
+ A  =
+ 
+    11.  - 25.  
+    4.   - 9.   
+ 
+[0mEnter the value of n [0m[1m
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.20/ex20.sce #
+ 
+ 
+ A  =
+ 
+    0.25  
+ 
+ B  =
+ 
+    0.3333333  
+ 
+ AorB  =
+ 
+    0.5  
+ 
+ AandB  =
+ 
+    0.0833333  
+ 
+ 
+ probability of A/B=AandB/B=   
+ 
+ ans  =
+ 
+    0.25  
+ 
+ 
+ probability of B/A=AandB/A=   
+ 
+ ans  =
+ 
+    0.3333333  
+ 
+ 
+ probability of AandBnot=A-AandB=   
+ 
+ ans  =
+ 
+    0.1666667  
+ 
+ 
+ probability of A/Bnot=AandBnot/Bnot=   
+ 
+ ans  =
+ 
+    0.25  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH4/EX4.20/ques20.sce #
+ 
+ 
+ Advantage of scilab is that we can calculate log1.1 directly without using Tay 
+      lor series                                                                
+ 
+ 
+  Use of taylor series are given in subsequent examples   
+ 
+ 
+ 
+ log(1.1)=    
+ 
+ 
+    0.0953102  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.21/ex21.sce #
+ 
+ 
+ 
+ p  =
+ 
+                2   4  
+    7 - 24x - 8x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    3.7320508        
+  - 2. + 1.7320508i  
+  - 2. - 1.7320508i  
+    0.2679492        
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.22/ex22.sce #
+ 
+ 
+ 
+ p  =
+ 
+                2    3   4  
+  - 6 + 22x - 3x - 6x + x   
+ 
+ 
+ the roots of above equation are    
+ 
+ ans  =
+ 
+    5.9064108  
+  - 1.9707362  
+    1.7737117  
+    0.2906137  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.22/ex22.sce #
+ 
+ 
+ 
+ probability of A hitting target=3/5   
+ 
+ 
+ probability of B hitting target=2/5   
+ 
+ 
+ probability of C hitting target=3/4   
+ 
+ 
+ probability that two shots hit=3/5*2/5*(1-3/4)+2/5*3/4*(1-3/5)+3/4*3/5*(1-2/5) 
+ 
+ ans  =
+ 
+    0.45  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.23/ex23.sce #
+ 
+ 
+ A  =
+ 
+    1.    1.    3.  
+    1.    3.  - 3.  
+  - 2.  - 4.  - 4.  
+ 
+ 
+ inverse of A is    
+ 
+ ans  =
+ 
+    3.      1.      1.5   
+  - 1.25  - 0.25  - 0.75  
+  - 0.25  - 0.25  - 0.25  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.23/ex23.sce #
+ 
+ 
+ 
+ probability of problem not getting solved=1/2*2/3*3/4=   
+ 
+ ans  =
+ 
+    0.25  
+ 
+ 
+ probability of problem getting solved=1-(1/2*2/3*3/4)=   
+ 
+ ans  =
+ 
+    0.75  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.24.1/ex24_1.sce #
+ 
+ 
+ A  =
+ 
+    1.    2.    3.  
+    1.    4.    2.  
+    2.    6.    5.  
+ 
+ 
+ Rank of A is    
+ 
+ ans  =
+ 
+    2.  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.24.2/ex24_2.sce #
+ 
+ 
+ A  =
+ 
+    0.    1.  - 3.  - 1.  
+    1.    0.    1.    1.  
+    3.    1.    0.    2.  
+    1.    1.  - 2.    0.  
+ 
+ 
+ Rank of A is    
+ 
+ ans  =
+ 
+    2.  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.25/ex25.sce #
+ 
+ 
+ A  =
+ 
+    1.    1.    3.  
+    1.    3.  - 3.  
+  - 2.  - 4.  - 4.  
+ 
+ 
+ inverse of A is    
+ 
+ ans  =
+ 
+    3.      1.      1.5   
+  - 1.25  - 0.25  - 0.75  
+  - 0.25  - 0.25  - 0.25  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.26/ex26.sce #
+ 
+ 
+ A  =
+ 
+    2.    3.  - 1.  - 1.  
+    1.  - 1.  - 2.  - 4.  
+    3.    1.    3.  - 2.  
+    6.    3.    0.  - 7.  
+ 
+ P  =
+ 
+  - 5.4168933    0                         0                         0          
+    0            1.2084466 + 2.1521407i    0                         0          
+    0            0                         1.2084466 - 2.1521407i    0          
+    0            0                         0                       - 7.092D-16  
+ R  =
+ 
+    0.1777758  - 0.6869583               - 0.6869583                 0.7293250  
+  - 0.7085001    0.0674799 - 0.3751926i    0.0674799 + 0.3751926i  - 0.4375950  
+  - 0.1381160    0.139077 + 0.3640228i     0.139077 - 0.3640228i   - 0.2917300  
+  - 0.6688403  - 0.4804014 - 0.0111698i  - 0.4804014 + 0.0111698i    0.4375950  
+ 
+ 
+ rank of A   
+ 
+ ans  =
+ 
+    3.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.26/example26.sce #
+ 
+ 
+ 
+ probability=(0.45*0.03)/(0.45*0.03+0.25*0.05+0.3*0.04=   
+ 
+ ans  =
+ 
+    0.3552632  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.27/example27.sce #
+ 
+ 
+ 
+ probability=(1/3*2/6*3/5)/(1/3*2/6*3/5+1/3*1/6*2/5+1/3*3/6*1/5   
+ 
+ ans  =
+ 
+    0.5454545  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.28/ex28.sce #
+ 
+ 
+ A  =
+ 
+    1.    1.    1.  
+    4.    3.  - 1.  
+    3.    5.    3.  
+ 
+ 
+ inverse of A =   
+ 
+ ans  =
+ 
+    1.4    0.2        - 0.4  
+  - 1.5    5.551D-17    0.5  
+    1.1  - 0.2        - 0.1  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.28/example28.sce #
+ 
+ 
+ probability of no success=8/27   
+ 
+ 
+ probability of a success=1/3   
+ 
+ 
+ probability of one success=4/9   
+ 
+ 
+ probability of two successes=2/9   
+ 
+ 
+ probability of three successes=2/9   
+ 
+ A  =
+ 
+    0.           1.           2.           3.         
+    0.2962963    0.4444444    0.2222222    0.0370370  
+ 
+ 
+ mean=sum of i*pi=   
+ 
+ ans  =
+ 
+    1.  
+ 
+ 
+ sum of i*pi^2=   
+ 
+ ans  =
+ 
+    1.6666667  
+ 
+ 
+ variance=(sum of i*pi^2)-1=   
+ 
+ ans  =
+ 
+    0.6666667  
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.31/ex31.sce #
+ 
+ 
+ 
+ the equations can be re written as AX=B where X=[x1;x2;x3;x4] and    
+ 
+ A  =
+ 
+    1.  - 1.    1.    1.  
+    1.    1.  - 1.    1.  
+    1.    1.    1.  - 1.  
+    1.    1.    1.    1.  
+ 
+ B  =
+ 
+    2.  
+  - 4.  
+    4.  
+    0.  
+ 
+ 
+ determinant of A=   
+ 
+ ans  =
+ 
+    8.  
+ 
+ 
+ inverse of A =   
+ 
+ ans  =
+ 
+    0.5    0.5    0.5  - 0.5  
+  - 0.5    0.     0.     0.5  
+    0.   - 0.5    0.     0.5  
+    0.     0.   - 0.5    0.5  
+ 
+ 
+ X=   
+ 
+ ans  =
+ 
+    1.  
+  - 1.  
+    2.  
+  - 2.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.32/ex32.sce #
+ 
+ 
+ 
+ the equations can be re written as AX=B where X=[x;y;z] and    
+ 
+ A  =
+ 
+    5.    3.     7.   
+    3.    26.    2.   
+    7.    2.     10.  
+ 
+ B  =
+ 
+    4.  
+    9.  
+    5.  
+ 
+ 
+ determinant of A=   
+ 
+ ans  =
+ 
+  - 8.793D-14  
+ 
+ 
+ Since det(A)=0,hence,this system of equation will have infinite solutions..hen 
+      ce,the system is consistent                                               
+ 
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.34.1/ex34_1.sce #
+ 
+ A  =
+ 
+    1.    2.     3.   
+    3.    4.     4.   
+    7.    10.    12.  
+ 
+ 
+ rank of A is   
+ 
+ p  =
+ 
+    3.  
+ 
+ 
+ equations have only a trivial solution:x=y=z=0   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.34.2/ex34_2.sce #
+ 
+ A  =
+ 
+    4.    2.    1.    3.  
+    6.    3.    4.    7.  
+    2.    1.    0.    1.  
+ 
+ 
+ rank of A is   
+ 
+ p  =
+ 
+    2.  
+ 
+ 
+ equations have infinite no. of solutions.   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.25/example35.sce #
+ 
+ 
+ total frequency= integrate (f,x,0,2 )=   
+ 
+ n  =
+ 
+    0.5  
+ 
+ 
+ u1 about origin=   
+ 
+ u1  =
+ 
+    1.  
+ 
+ 
+ u2 about origin=   
+ 
+ u2  =
+ 
+    1.0666667  
+ 
+ 
+ standard deviation=(u2-u1^2)^0.5=   
+ 
+ ans  =
+ 
+    0.2581989  
+ 
+ 
+ mean deviation about the mean=(1/n)*(integrate (|x-1|*(x^3),x,0,1)+integrate(| 
+      x-1|*((2-x)^3),x,1,2`)                                                    
+ 
+ ans  =
+ 
+    0.2  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.35/example35.sce #
+ 
+ 
+ total frequency= integrate (f,x,0,2 )=   
+ 
+ n  =
+ 
+    0.5  
+ 
+ 
+ u1 about origin=   
+ 
+ u1  =
+ 
+    1.  
+ 
+ 
+ u2 about origin=   
+ 
+ u2  =
+ 
+    1.0666667  
+ 
+ 
+ standard deviation=(u2-u1^2)^0.5=   
+ 
+ ans  =
+ 
+    0.2581989  
+ 
+ 
+ mean deviation about the mean=(1/n)*(integrate (|x-1|*(x^3),x,0,1)+integrate(| 
+      x-1|*((2-x)^3),x,1,2`)                                                    
+ 
+ ans  =
+ 
+    0.2  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.38/ex38.sce #
+ 
+ 
+ 
+ the given equations can be written as Y=AX where    
+ 
+ A  =
+ 
+    2.    1.    1.  
+    1.    1.    2.  
+    1.    0.  - 2.  
+ 
+ 
+ determinant of A is   
+ 
+ ans  =
+ 
+  - 1.  
+ 
+ 
+ since,its non-singular,hence transformation is regular    
+ 
+ 
+ inverse of A is    
+ 
+ ans  =
+ 
+    2.  - 2.  - 1.  
+  - 4.    5.    3.  
+    1.  - 1.  - 1.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.38/example38.sce #
+ 
+ 
+ 
+ 
+ probability that exactly two will be defective=C(12,2)*(0.1)^2*(0.9)^10=   
+ 
+ ans  =
+ 
+    0.2301278  
+ 
+ 
+ probability that at least two will be defective=1-(C(12,0)*(0.9)^12+C(12,1)*(0 
+      .1)*(0.9)^11)=                                                            
+ 
+ ans  =
+ 
+    0.3409977  
+ 
+ 
+ the probability that none will be defective =C(12,12)*(0.9)^12=   
+ 
+ ans  =
+ 
+    0.2824295  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.39/ex39.sce #
+ 
+ 
+ A  =
+ 
+  - 0.6666667    0.3333333    0.6666667  
+    0.6666667    0.6666667    0.3333333  
+    0.3333333  - 0.6666667    0.6666667  
+ 
+ 
+ A transpose is equal to    
+ 
+ ans  =
+ 
+  - 0.6666667    0.6666667    0.3333333  
+    0.3333333    0.6666667  - 0.6666667  
+    0.6666667    0.3333333    0.6666667  
+ 
+ 
+ A*(transpose of A)=   
+ 
+ ans  =
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ hence,A is orthogonal    
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.39/example39.sce #
+ 
+ 
+ 
+ 
+ probability of 8 heads and 4 tails in 12 trials=p(8)=C(12,8)*(1/2)^8*(1/2)^4=  
+ 
+ ans  =
+ 
+    0.1208496  
+ 
+ 
+ the expected no. of such cases in 256 sets =256*p(8) =   
+ 
+ ans  =
+ 
+    30.9375  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH34/EX34.40/example40.sce #
+ 
+ 
+ 
+ 
+ probability of a defective part=2/20=0.1   
+ 
+ 
+ probability of a non defective part=0.9   
+ 
+ 
+ probabaility of at least three defectives ina sample =   
+ 
+ ans  =
+ 
+    0.3230732  
+ 
+ 
+ no. of samples having three defective parts=1000*0.323=   
+ 
+ ans  =
+ 
+    323.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.42/ex42.sce #
+ 
+ 
+ A  =
+ 
+    5.    4.  
+    1.    2.  
+ 
+ 
+ let R represents the matrix of transformation and P represents a diagonal matr 
+      ix whose values are the eigen values of A.then                            
+ 
+ P  =
+ 
+    6.    0   
+    0     1.  
+ R  =
+ 
+    0.9701425  - 0.7071068  
+    0.2425356    0.7071068  
+ 
+ 
+ R is normalised.let U represents unnormalised version of r    
+ 
+ 
+ U  =
+ 
+    4.  - 1.  
+    1.    1.  
+ 
+ 
+ two eigen vectors are the two columns of U   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.43/ex43.sce #
+ 
+ 
+ A  =
+ 
+    1.    1.    3.  
+    1.    5.    1.  
+    3.    1.    1.  
+ 
+ 
+ let R represents the matrix of transformation and P represents a diagonal matr 
+      ix whose values are the eigen values of A.then                            
+ 
+ P  =
+ 
+  - 2.    0.    0.  
+    0.    3.    0.  
+    0.    0.    6.  
+ R  =
+ 
+  - 0.7071068    0.5773503    0.4082483  
+    2.052D-17  - 0.5773503    0.8164966  
+    0.7071068    0.5773503    0.4082483  
+ 
+ 
+ R is normalised.let U represents unnormalised version of r    
+ 
+ 
+ 
+ U  =
+ 
+  - 1.           1.    1.  
+    2.901D-17  - 1.    2.  
+    1.           1.    1.  
+ 
+ 
+ three eigen vectors are the three columns of U   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.44/ex44.sce #
+ 
+ 
+ A  =
+ 
+    3.    1.    4.  
+    0.    2.    6.  
+    0.    0.    5.  
+ 
+ 
+ let R represents the matrix of transformation and P represents a diagonal matr 
+      ix whose values are the eigen values of A.then                            
+ 
+ P  =
+ 
+    3.    0     0   
+    0     2.    0   
+    0     0     5.  
+ R  =
+ 
+    1.  - 0.7071068    0.8017837  
+    0     0.7071068    0.5345225  
+    0     0            0.2672612  
+ 
+ 
+ R is normalised.let U represents unnormalised version of r    
+ 
+ 
+ 
+ U  =
+ 
+    1.  - 1.    3.  
+    0     1.    2.  
+    0     0     1.  
+ 
+ 
+ three eigen vectors are the three columns of U   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.45/ex45.sce #
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ A  =
+ 
+    1.    4.  
+    2.    3.  
+ 
+ I  =
+ 
+    1.    0.  
+    0.    1.  
+ 
+ 
+ eigen values of A are    
+ 
+ ans  =
+ 
+  - 1.  
+    5.  
+ 
+ 
+ let    
+ 
+ 
+ 
+ 
+ hence,the characteristic equation is (x-a)(x-b)    
+ 
+ p  =
+ 
+              2  
+  - 5 - 4x + x   
+ 
+ 
+ A^2-4*A-5*I=   
+ 
+ ans  =
+ 
+    0.    0.  
+    0.    0.  
+ 
+ 
+ inverse of A=    
+ 
+ ans  =
+ 
+  - 0.6    0.8  
+    0.4  - 0.2  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.46/ex46.sce #
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ A  =
+ 
+    1.    1.    3.  
+    1.    3.  - 3.  
+  - 2.  - 4.  - 4.  
+ 
+ 
+ eigen values of A are    
+ 
+ ans  =
+ 
+    4.2568381  
+    0.4032794  
+  - 4.6601175  
+ 
+ 
+ let    
+ 
+ 
+ 
+ 
+ 
+ hence,the characteristic equation is (x-a)(x-b)(x-c)    
+ 
+ p  =
+ 
+                       3  
+    8.0000009 - 20x + x   
+ 
+ 
+ inverse of A=    
+ 
+ ans  =
+ 
+    3.      1.      1.5   
+  - 1.25  - 0.25  - 0.75  
+  - 0.25  - 0.25  - 0.25  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.47/ex47.sce #
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ A  =
+ 
+    2.    1.    1.  
+    0.    1.    0.  
+    1.    1.    2.  
+ 
+ I  =
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ eigen values of A are    
+ 
+ ans  =
+ 
+    3.  
+    1.  
+    1.  
+ 
+ 
+ let    
+ 
+ 
+ 
+ 
+ 
+ hence,the characteristic equation is (x-a)(x-b)(x-c)    
+ 
+ p  =
+ 
+               2   3  
+  - 3 + 7x - 5x + x   
+ 
+ 
+ A^8-5*A^7+7*A^6-3*A^5+A^4-5*A^3+8*A^2-2*A+I =   
+ 
+ ans  =
+ 
+    8.    5.    5.  
+    0.    3.    0.  
+    5.    5.    8.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.48/ex48.sce #
+ 
+ 
+ A  =
+ 
+  - 1.    2.  - 2.  
+    1.    2.    1.  
+  - 1.  - 1.    0.  
+ 
+ 
+ R is matrix of transformation and D is a diagonal matrix    
+ 
+ D  =
+ 
+  - 2.236068    0           0   
+    0           2.236068    0   
+    0           0           1.  
+ R  =
+ 
+    0.9163201  - 0.6580917  - 0.7071068  
+  - 0.2831585  - 0.5324074  - 1.110D-16  
+    0.2831585    0.5324074    0.7071068  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.49/ex49.sce #
+ 
+ 
+ A  =
+ 
+    1.    1.    3.  
+    1.    5.    1.  
+    3.    1.    1.  
+ 
+ 
+ R is matrix of transformation and D is a diagonal matrix    
+ 
+ D  =
+ 
+  - 2.    0.    0.  
+    0.    3.    0.  
+    0.    0.    6.  
+ R  =
+ 
+  - 0.7071068    0.5773503    0.4082483  
+    2.052D-17  - 0.5773503    0.8164966  
+    0.7071068    0.5773503    0.4082483  
+ 
+ 
+ R is normalised,let P denotes unnormalised version of R.Then    
+ 
+ 
+ 
+ P  =
+ 
+  - 1.           1.    1.  
+    2.901D-17  - 1.    2.  
+    1.           1.    1.  
+ 
+ 
+ A^4=   
+ 
+ ans  =
+ 
+    251.    405.    235.  
+    405.    891.    405.  
+    235.    405.    251.  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.50/ex50.sce #
+ 
+ 
+ 
+ 3*x^2+5*y^2+3*z^2-2*y*z+2*z*x-2*x*y   
+ 
+ 
+ The matrix of the given quadratic form is    
+ 
+ A  =
+ 
+    3.  - 1.    1.  
+  - 1.    5.  - 1.  
+    1.  - 1.    3.  
+ 
+ 
+ let R represents the matrix of transformation and P represents a diagonal matr 
+      ix whose values are the eigen values of A.then                            
+ 
+ P  =
+ 
+    2.    0.    0.  
+    0.    3.    0.  
+    0.    0.    6.  
+ R  =
+ 
+    0.7071068  - 0.5773503    0.4082483  
+  - 2.429D-16  - 0.5773503  - 0.8164966  
+  - 0.7071068  - 0.5773503    0.4082483  
+ 
+ 
+ so,canonical form is 2*x^2+3*y^2+6*z^2   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.51/ex51.sce #
+ 
+ 
+ 
+ 2*x1*x2+2*x1*x3-2*x2*x3    
+ 
+ 
+ The matrix of the given quadratic form is    
+ 
+ A  =
+ 
+    0.    1.    1.  
+    1.    0.  - 1.  
+    1.  - 1.    0.  
+ 
+ 
+ let R represents the matrix of transformation and P represents a diagonal matr 
+      ix whose values are the eigen values of A.then                            
+ 
+ P  =
+ 
+  - 2.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ R  =
+ 
+  - 0.5773503    0.3938254    0.7152400  
+    0.5773503    0.8163287    0.0165572  
+    0.5773503  - 0.4225033    0.6986828  
+ 
+ 
+ so,canonical form is -2*x^2+y^2+z^2   
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.52/ex52.sce #
+ 
+ 
+ A  =
+ 
+    2. + i      3.   - 1. + 3.i  
+  - 5.          i      4. - 2.i  
+ 
+ 
+ A*=   
+ 
+ ans  =
+ 
+    2. - i    - 5.        
+    3.        - i         
+  - 1. - 3.i    4. + 2.i  
+ 
+ 
+ AA*=   
+ 
+ ans  =
+ 
+    24.        - 20. + 2.i  
+  - 20. - 2.i    46.        
+ 
+ 
+ ly,AA* is hermitian matrix    
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.53/ex53.sce #
+ 
+ 
+ A  =
+ 
+    0.5 + 0.5i  - 0.5 + 0.5i  
+    0.5 + 0.5i    0.5 - 0.5i  
+ 
+ 
+ A*=   
+ 
+ ans  =
+ 
+    0.5 - 0.5i    0.5 - 0.5i  
+  - 0.5 - 0.5i    0.5 + 0.5i  
+ 
+ 
+ AA*=   
+ 
+ ans  =
+ 
+    1.    0   
+    0     1.  
+ 
+ 
+ A*A=   
+ 
+ ans  =
+ 
+    1.    0   
+    0     1.  
+ 
+ 
+ inverse of A is    
+ 
+ ans  =
+ 
+    0.5 - 0.5i    0.5 - 0.5i  
+  - 0.5 - 0.5i    0.5 + 0.5i  
+ 
+grepthis#Higher_Engineering_Mathematics_B._S._Grewal_149/CH2/EX2.54/ex54.sce #
+ 
+ 
+ A  =
+ 
+    0           1. + 2.i  
+  - 1. + 2.i    0         
+ 
+ I  =
+ 
+    1.    0.  
+    0.    1.  
+ 
+ 
+ I-A=    
+ 
+ ans  =
+ 
+    1.        - 1. - 2.i  
+    1. - 2.i    1.        
+ 
+ 
+ inverse of (I+A)=    
+ 
+ ans  =
+ 
+    0.1666667               - 0.1666667 - 0.3333333i  
+    0.1666667 - 0.3333333i    0.1666667               
+ 
+ 
+ ((I-A)(inverse(I+A)))*((I-A)(inverse(I+A)))=   
+ 
+ ans  =
+ 
+    1.    0   
+    0     1.  
+ 
+ 
+ ((I-A)(inverse(I+A)))((I-A)(inverse(I+A)))*=   
+ 
+ ans  =
+ 
+    1.                        5.551D-17 + 1.110D-16i  
+    5.551D-17 - 1.110D-16i    1.                      
+ 
+ 
+ ly,the product is an identity matrix.hence,it is a unitary matrix   
+ 
+ 

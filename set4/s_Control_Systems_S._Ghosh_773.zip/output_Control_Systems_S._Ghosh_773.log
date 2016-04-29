@@ -1,0 +1,2114 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 166
+
+grepthis#Control_Systems_S._Ghosh_773/DEPENDENCIES/ztransfer.sce #
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH3/EX3.17/3_17.sci #
+ 
+Given:Poles are s=-1,(-2+i),(-2-i); zeros  s=-3+i,-3-i,Gain factor(k)=5  
+ 
+ 
+ 
+ 
+ 
+ G(s)=   
+ 
+                  2   
+     50 + 30s + 5s    
+    ---------------   
+               2   3  
+    5 + 9s + 5s + s   
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH3/EX3.18/3_18.sci #
+ 
+ 
+ 
+ 
+ G(s)=   
+ 
+      10 + 5s     
+    -----------   
+               2  
+    12 + 7s + s   
+ 
+ 
+ 
+ Characteristics Polynomial=   
+ 
+               2  
+    12 + 7s + s   
+ 
+ 
+ 
+ Poles of a system=   
+ 
+  - 4.  
+  - 3.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH4/EX4.01/4_01.sci #
+ 
+Given a)Excitation voltage(Ein)=2V 
+ b) Setting Ratio(a)= 0.4 
+ 
+ 
+ 
+ Ein=   
+ 
+    2.  
+ 
+ 
+ 
+ a=   
+ 
+    0.4  
+ 
+ 
+ 
+ Rt=   
+ 
+    1000.  
+ 
+ 
+ 
+ Rl=   
+ 
+    5000.  
+ 
+Eo = (a*Ein)/(1+(a*(1-a)*Rt)/Rl) 
+ 
+ 
+ 
+ output voltage(E0)=   
+ 
+    0.7633588  
+ 
+e=((a^2)*(1-a))/((a*(1-a))+(Rl/Rt)) 
+ 
+ 
+ 
+ loading error=   
+ 
+    0.0183206  
+ 
+E=Ein*e 
+ 
+ 
+ 
+ Voltage error=   
+ 
+    0.0366412  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH4/EX4.02/4_02.sci #
+ 
+n=5 ,Helical turn 
+ 
+ 
+ 
+ n=   
+ 
+    5.  
+ 
+N=9000 ,Winding Turn 
+ 
+ 
+ 
+ N=   
+ 
+    9000.  
+ 
+R=10000 ,Potentiometer Resistance 
+ 
+ 
+ 
+ R=   
+ 
+    10000.  
+ 
+Ein=90 ,Input voltage 
+ 
+ 
+ 
+ Ein=   
+ 
+    90.  
+ 
+r=5050 ,Resistance at mid point  
+ 
+ 
+ 
+ r=   
+ 
+    5050.  
+ 
+D=r-5000, Deviation from nominal at mid-point 
+ 
+ 
+ 
+ D=   
+ 
+    50.  
+ 
+L=D/R*100 ,Linearity 
+ 
+ 
+ 
+ L=   
+ 
+    0.5  
+ 
+R=Ein/N ,Resolution 
+ 
+ 
+ 
+ R=   
+ 
+    0.01  
+ 
+Kp=Ein/(2*pi*n) ,Potentiometer Constant 
+ 
+ 
+ 
+ Kp=   
+ 
+    2.864789  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH4/EX4.03/4_03.sci #
+ 
+since S2 is the referance stator winding , Es2=KVcos0 
+ where Es2 & Er are rms voltages 
+ 
+ k  =
+ 
+    1.  
+ 
+ 
+ 
+ Theta=   
+ 
+    60.  
+ 
+ 
+ 
+ V(applied)=   
+ 
+    28.  
+ 
+Es2=V*cos(Theta) 
+ 
+ 
+ 
+ Es2=   
+ 
+    14.  
+ 
+Es1=k*V*cos(Theta-120)
+ 
+ 
+ 
+ Es1=   
+ 
+    14.  
+ 
+Es3=k*V*cos(Theta+120) 
+ 
+ 
+ 
+ Es3=   
+ 
+  - 28.  
+ 
+Es31=sqrt(3)*k*Er*sin(Theta) 
+ 
+ 
+ Es31=   
+ 
+    42.  
+ 
+Es12=sqrt(3)*k*Er*sin((Theta-120) 
+ 
+ 
+ Es12=   
+ 
+  - 42.  
+ 
+Es23=sqrt(3)*k*Er*sin((Theta+120) 
+ 
+ 
+ Es23=   
+ 
+    5.939D-15  
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH4/EX4.04/4_04.sci #
+ 
+Sensitivity=5v/1000rpm 
+ 
+ 
+ 
+ Vg=   
+ 
+    5.  
+ 
+w(in radians/sec)=(1000/60)*2*pi 
+ 
+ 
+ 
+ w=   
+ 
+    104.71976  
+ 
+Kt=Vg/w 
+ 
+ 
+ 
+ Gain constant(Kt)=   
+ 
+    0.0477465  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH4/EX4.05/4_05.sci #
+ 
+Torque=KmVm=2 
+ 
+ 
+ 
+ Torque(t)=   
+ 
+    2.  
+ 
+ 
+ 
+ Coefficient of Viscous friction(Fm)=   
+ 
+    0.2  
+ 
+ N  =
+ 
+    4.  
+ 
+ I  =
+ 
+    0.2  
+ 
+ F1  =
+ 
+    0.05  
+ 
+Wnl=t/Fm 
+ 
+ 
+ No Load Speed(Wnl)=   
+ 
+    10.  
+ 
+Fwt=I+(N^2*F1) 
+ 
+ 
+ 
+ Total Viscous Friction(Fwt)=   
+ 
+    1.  
+ 
+Te=t-(Fwt*w) 
+ 
+ Te  =
+ 
+    0.8  
+ 
+ 
+ 
+ Speed of Motor(w)=   
+ 
+    1.2  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/DEPENDENCIES/6_1.sce #
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/DEPENDENCIES/6_2.sce #
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH8/EX8.06/8_06.sci #
+ 
+ 
+ 
+ 
+ CL  =
+ 
+        25       
+    ----------   
+              2  
+    25 + s + s   
+ 
+ 
+ y  =
+ 
+              2  
+    25 + s + s   
+ 
+ z  =
+ 
+    25.    1.    1.  
+ 
+ 
+ Wn  =
+ 
+    5.  
+ 
+ 
+ zeta  =
+ 
+    0.1  
+ 
+ Wd  =
+ 
+    4.9749372  
+ 
+ Tp  =
+ 
+    0.6314839  
+ 
+ Mp  =
+ 
+    72.924761  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH8/EX8.07/8_07.sci #
+ 
+ 
+ 
+ 
+ CL  =
+ 
+        20        
+    ----------    
+               2  
+    25 + 5s + s   
+ 
+ 
+ y  =
+ 
+               2  
+    25 + 5s + s   
+ 
+ z  =
+ 
+    25.    5.    1.  
+ 
+ 
+ Wn  =
+ 
+    5.  
+ 
+ 
+ zeta  =
+ 
+    0.5  
+ 
+ Wd  =
+ 
+    4.330127  
+ 
+ Tp  =
+ 
+    0.7255197  
+ 
+ Mp  =
+ 
+    16.303353  
+ 
+ Td  =
+ 
+    0.27  
+ 
+ a  =
+ 
+    1.0471976  
+ 
+ Tr  =
+ 
+    0.4836798  
+ 
+ Ts  =
+ 
+    1.6  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH8/EX8.16/8_16.sci #
+ 
+ 
+ 
+ 
+ CL  =
+ 
+        81        
+    ----------    
+               2  
+    81 + 6s + s   
+ 
+ 
+ y  =
+ 
+               2  
+    81 + 6s + s   
+ 
+ z  =
+ 
+    81.    6.    1.  
+ 
+ 
+ Wn  =
+ 
+    9.  
+ 
+ 
+ zeta  =
+ 
+    0.3333333  
+ 
+ Wd  =
+ 
+    8.4852814  
+ 
+ Tp  =
+ 
+    0.3702402  
+ 
+ Mp  =
+ 
+    32.932152  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH8/EX8.19/8_19.sci #
+ 
+ 
+ 
+ 
+ 
+ CL  =
+ 
+        115.2       
+    -------------   
+                 2  
+    144 + 12s + s   
+ 
+ 
+ y  =
+ 
+                 2  
+    144 + 12s + s   
+ 
+ z  =
+ 
+    144.    12.    1.  
+ 
+ 
+ Wn  =
+ 
+    12.  
+ 
+ 
+ zeta  =
+ 
+    0.5  
+ 
+ Wd  =
+ 
+    10.392305  
+ 
+ Tp  =
+ 
+    0.3022999  
+ 
+ Mp  =
+ 
+    16.303353  
+ 
+ Td  =
+ 
+    0.1125  
+ 
+ a  =
+ 
+    1.0471976  
+ 
+ Tr  =
+ 
+    0.2015333  
+ 
+ Ts  =
+ 
+    0.6666667  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH9/EX9.01/9_01.sci #
+ 
+ 
+ G  =
+ 
+      20     
+    ------   
+          2  
+    4s + s   
+ 
+ 
+ 
+ 
+ 
+ 
+ 1/(1+G(s)*H(s))   
+ 
+            2    
+      4s + s     
+    ----------   
+              2  
+    7 + 4s + s   
+ 
+ 
+ 
+ w  =
+ 
+    1.2  
+ 
+ s  =
+ 
+    1.2i  
+ 
+ S  =
+ 
+    0.2786394 + 0.6227573i  
+ 
+ a  =
+ 
+    0.6822511  
+ 
+ 
+ sensitivity of open loop   
+ 
+    0.6822511  
+ 
+ 
+ F  =
+ 
+      - 7        
+    ---------    
+              2  
+    7 + 4s + s   
+ 
+ 
+ (-G(s)*H(s))/(1+G(s)*H(s))   
+ 
+      - 7        
+    ---------    
+              2  
+    7 + 4s + s   
+ 
+ S  =
+ 
+  - 0.7213606 + 0.6227573i  
+ 
+ b  =
+ 
+    0.9529889  
+ 
+ 
+ sensitivity of d loop   
+ 
+    0.9529889  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH9/EX9.03/9_03.sci #
+ 
+ 
+ G  =
+ 
+      40     
+    ------   
+          2  
+    4s + s   
+ 
+ 
+ 
+ 
+ 
+ 1/(1+G(s)*H(s))   
+ 
+            2     
+      4s + s      
+    ----------    
+               2  
+    20 + 4s + s   
+ 
+ 
+ w  =
+ 
+    1.3  
+ 
+ s  =
+ 
+    1.3i  
+ 
+ S  =
+ 
+  - 0.0107754 + 0.2870580i  
+ 
+ a  =
+ 
+    0.2872602  
+ 
+ 
+ sensitivity of open loop   
+ 
+    0.2872602  
+ 
+ F  =
+ 
+      - 20        
+    ----------    
+               2  
+    20 + 4s + s   
+ 
+ 
+ (-G(s)*H(s))/(1+G(s)*H(s))   
+ 
+      - 20        
+    ----------    
+               2  
+    20 + 4s + s   
+ 
+ S  =
+ 
+  - 1.0107754 + 0.2870580i  
+ 
+ b  =
+ 
+    1.050747  
+ 
+ 
+ sensitivity of d loop   
+ 
+    1.050747  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH9/EX9.09/9_09.sci #
+ 
+ 
+1)without controller 
+ 
+ 
+ G(s)=   
+ 
+       120       
+    ---------    
+              2  
+    12.63s + s   
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+          120          
+    ---------------    
+                    2  
+    120 + 12.63s + s   
+ 
+ y  =
+ 
+                    2  
+    120 + 12.63s + s   
+ 
+ z  =
+ 
+    120.    12.63    1.  
+ 
+ 
+ 
+ 
+ Wn=   
+ 
+    10.954451  
+ 
+ 
+ 
+ 
+ zeta=   
+ 
+    0.5764780  
+ 
+2) with controller 
+ 
+ 
+ G(s)=   
+ 
+    3600 + 120s    
+    -----------    
+                2  
+    378.9s + 30s   
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+        3600 + 120s       
+    -------------------   
+                       2  
+    3600 + 498.9s + 30s   
+ 
+ den  =
+ 
+                       2  
+    3600 + 498.9s + 30s   
+ 
+ den  =
+ 
+                    2  
+    120 + 16.63s + s   
+ 
+ z  =
+ 
+    120.    16.63    1.  
+ 
+ 
+ 
+ 
+ Wn=   
+ 
+    10.954451  
+ 
+ 
+ 
+ 
+ 
+ Mp=   
+ 
+    2.5658954  
+ 
+ 
+ 
+ Ts=   
+ 
+    0.4810583  
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.02.01/10_02_01.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+               2   3  
+    6 + 2s + 4s + s   
+    ---------------   
+             2   3    
+      2s + 4s + s     
+ 
+ r  =
+ 
+               2   3  
+    6 + 2s + 4s + s   
+ 
+ 
+ characteristics equation is   
+ 
+               2   3  
+    6 + 2s + 4s + s   
+ 
+ =0   
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.02.02/10_02_02.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+               2  
+    2 + 10s + s   
+    -----------   
+              2   
+    2 + 3s + s    
+ 
+ r  =
+ 
+               2  
+    2 + 10s + s   
+ 
+ 
+ characteristics equation is   
+ 
+               2  
+    2 + 10s + s   
+ 
+ =0   
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.02.03/10_02_03.sci #
+ 
+ 
+ G  =
+ 
+      2      
+    -----    
+          2  
+    2s + s   
+ 
+ 
+ 
+ y  =
+ 
+          2   3  
+    2 + 2s + s   
+    ----------   
+        2   3    
+      2s + s     
+ 
+ r  =
+ 
+          2   3  
+    2 + 2s + s   
+ 
+ 
+ characteristics equation is   
+ 
+          2   3  
+    2 + 2s + s   
+ 
+ =0   
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.03/10_03.sci #
+ 
+ 
+ 
+ r  =
+ 
+    3.    10.    5.    1.  
+ 
+ 
+ 
+ 
+ 
+ routh  =
+ 
+    1.     10.  
+    5.     3.   
+    9.4    0.   
+    3.     0.   
+ 
+ 
+ 
+ ans  =
+ 
+ system is stable   
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.04/10_04.sci #
+ 
+ 
+ 
+ r  =
+ 
+    10.    3.    2.    1.  
+ 
+ 
+ 
+ 
+ 
+ routh  =
+ 
+    1.     3.   
+    2.     10.  
+  - 2.     0.   
+    10.    0.   
+ 
+ 
+ 
+system is unstable 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.05.01/10_05_01.sci #
+ 
+ 
+ 
+ m  =
+ 
+                  2    3   4  
+    20 + 36s + 21s + 6s + s   
+ 
+ r  =
+ 
+    20.    36.    21.    6.    1.  
+ 
+ 
+ routh  =
+ 
+    1.    21.    20.  
+    6.    36.    0.   
+ 
+ 
+ 
+ 
+ 
+ routh=   
+ 
+    1.     21.    20.  
+    6.     36.    0.   
+    15.    20.    0.   
+    28.    0.     0.   
+    20.    0.     0.   
+ 
+ 
+ 
+ ans  =
+ 
+ system is stable   
+ 
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.05.02/10_05_02.sci #
+ 
+ 
+ m  =
+ 
+              2    3    4   5  
+    1 + s + 2s + 3s + 6s + s   
+ 
+ r  =
+ 
+    1.    1.    2.    3.    6.    1.  
+ 
+ n  =
+ 
+    6.  
+ 
+ routh  =
+ 
+    1.    3.    1.  
+    6.    2.    1.  
+ 
+ routh  =
+ 
+    1.           3.     1.  
+    6.           2.     1.  
+    2.6666667  - 0.5    0.  
+ 
+ routh  =
+ 
+    1.           3.     1.  
+    6.           2.     1.  
+    2.6666667  - 0.5    0.  
+    3.125        1.     0.  
+ 
+ routh  =
+ 
+    1.           3.     1.  
+    6.           2.     1.  
+    2.6666667  - 0.5    0.  
+    3.125        1.     0.  
+  - 1.3533333    0.     0.  
+ 
+ routh  =
+ 
+    1.           3.     1.  
+    6.           2.     1.  
+    2.6666667  - 0.5    0.  
+    3.125        1.     0.  
+  - 1.3533333    0.     0.  
+    1.           0.     0.  
+ 
+ 
+ 
+system is unstable 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.08/10_08.sci #
+ 
+ 
+ m  =
+ 
+               2    3   4  
+    2 + 3s + 2s + 5s + s   
+ 
+ r  =
+ 
+    2.    3.    2.    5.    1.  
+ 
+ 
+ routh  =
+ 
+    1.    2.    2.  
+    5.    3.    0.  
+ 
+ 
+ 
+ routh  =
+ 
+    1.           2.    2.  
+    5.           3.    0.  
+    1.4          2.    0.  
+  - 4.1428571    0.    0.  
+    2.           0.    0.  
+ 
+ 
+ 
+system is unstable 
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH10/EX10.13/10_13.sci #
+ 
+ 
+ 
+ m  =
+ 
+          2    4  
+    1 + 4s + 2s   
+ 
+ routh  =
+ 
+    2.    4.    1.  
+    8.    8.    0.  
+    2.    1.    0.  
+    4.    0.    0.  
+    1.    0.    0.  
+ 
+ ans  =
+ 
+    1.306563i   
+  - 1.306563i   
+    0.5411961i  
+  - 0.5411961i  
+ 
+ 
+ the number of roots lying in the left half plane of s-plane=   
+ 
+    0.  
+ 
+ 
+ the number of roots lying in the right half plane of s-plane=   
+ 
+    0.  
+ 
+ 
+ the number of roots lying on the imaginary axis=   
+ 
+    4.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH11/EX11.10/11_10.sci #
+ 
+ 
+ 
+ no of poles=   
+ 
+    3.  
+ 
+ 
+ 
+ no of poles=   
+ 
+    1.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    90.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    270.  
+ 
+ 
+Centroid=((sum of all real part of poles of G(s)H(s))-(sum of all real part of zeros of G(s)H(s))/(n-m) 
+ 
+ 
+ 
+ centroid=   
+ 
+  - 1.5  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH11/EX11.11/11_11.sci #
+ 
+ 
+ 
+ no of poles=   
+ 
+    3.  
+ 
+ 
+ 
+ no of poles=   
+ 
+    0.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    60.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    180.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    300.  
+ 
+ 
+Centroid=((sum of all real part of poles of G(s)H(s))-(sum of all real part of zeros of G(s)H(s))/(n-m) 
+ 
+ 
+ 
+ centroid=   
+ 
+  - 0.6666667  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH11/EX11.12/11_12.sci #
+ 
+ 
+ 
+ no of poles=   
+ 
+    4.  
+ 
+ 
+ 
+ no of poles=   
+ 
+    1.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    60.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    180.  
+ 
+ 
+ 
+ 
+ q=   
+ 
+    300.  
+ 
+ 
+Centroid=((sum of all real part of poles of G(s)H(s))-(sum of all real part of zeros of G(s)H(s))/(n-m) 
+ 
+ 
+ 
+ centroid=   
+ 
+  - 2.6666667  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH12/EX12.01/12_01.sci #
+ 
+ 
+ 
+ 
+ CL  =
+ 
+        225        
+    -----------    
+                2  
+    225 + 6s + s   
+ 
+ 
+ y  =
+ 
+                2  
+    225 + 6s + s   
+ 
+ z  =
+ 
+    225.    6.    1.  
+ 
+ 
+ Wn  =
+ 
+    15.  
+ 
+ 
+ zeta  =
+ 
+    0.2  
+ 
+ Mr  =
+ 
+    2.5515518  
+ 
+ Wr  =
+ 
+    14.696938  
+ 
+ Wc  =
+ 
+    22.643656  
+ 
+ BW  =
+ 
+    22.643656  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH12/EX12.02/12_02.sci #
+ 
+ 
+ 
+ 
+ CL  =
+ 
+        36        
+    ----------    
+               2  
+    36 + 8s + s   
+ 
+ 
+ y  =
+ 
+               2  
+    36 + 8s + s   
+ 
+ z  =
+ 
+    36.    8.    1.  
+ 
+ 
+ Wn  =
+ 
+    6.  
+ 
+ 
+ zeta  =
+ 
+    0.6666667  
+ 
+ Mr  =
+ 
+    1.0062306  
+ 
+ Wr  =
+ 
+    4.472136  
+ 
+ Wc  =
+ 
+    6.3420455  
+ 
+ BW  =
+ 
+    6.3420455  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH12/EX12.03/12_03.sci #
+ 
+ 
+ 
+ 
+ CL  =
+ 
+        81        
+    ----------    
+               2  
+    81 + 7s + s   
+ 
+ 
+ y  =
+ 
+               2  
+    81 + 7s + s   
+ 
+ z  =
+ 
+    81.    7.    1.  
+ 
+ 
+ Wn  =
+ 
+    9.  
+ 
+ 
+ zeta  =
+ 
+    0.3888889  
+ 
+ Mr  =
+ 
+    1.3955668  
+ 
+ Wr  =
+ 
+    8.291562  
+ 
+ Wc  =
+ 
+    12.460279  
+ 
+ BW  =
+ 
+    12.460279  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH12/EX12.04/12_04.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CL  =
+ 
+         81        
+    ------------   
+                2  
+    81 + 18s + s   
+ 
+ 
+ y  =
+ 
+                2  
+    81 + 18s + s   
+ 
+ 
+ z  =
+ 
+    81.    18.    1.  
+ 
+ 
+ Wn  =
+ 
+    9.  
+ 
+ 
+ zeta  =
+ 
+    1.  
+ 
+ 
+ 
+ Mr  =
+ 
+    1.  
+ 
+ Wr  =
+ 
+    0.  
+ 
+ Wc  =
+ 
+    3.7279221  
+ 
+ BW  =
+ 
+    3.7279221  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.04/17_04.sci #
+ 
+ 
+ TFcont  =
+ 
+                 2     
+      7 + 2s + 3s      
+    ---------------    
+                2   3  
+    5 + 12s + 5s + s   
+ 
+ SScont  =
+ 
+ 
+       SScont(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SScont(2) = A matrix = 
+ 
+  - 3.9949239  - 1.7825934    2.220D-16  
+    1.933546   - 0.3254190  - 1.9225478  
+    4.51453      2.2454046  - 0.6796572  
+ 
+       SScont(3) = B matrix = 
+ 
+  - 2.9616843  
+  - 0.5622494  
+    1.7065468  
+ 
+       SScont(4) = C matrix = 
+ 
+  - 1.0129371    0.  - 1.110D-16  
+ 
+       SScont(5) = D matrix = 
+ 
+    0.  
+ 
+       SScont(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SScont(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.2137411    0.1424941    0.4987293  
+    0.0405769    0.8397380  - 0.5181664  
+  - 0.1231594    0.5239614    0.6948184  
+ Bc  =
+ 
+  - 13.856406  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 5.  - 12.  - 5.  
+    1.    0.     0.  
+    0.    1.     0.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.06/17_06.sci #
+ 
+ 
+ 
+ TFcont  =
+ 
+                 2  
+    10 + 15s + 5s   
+    -------------   
+                2   
+     20 + 9s + s    
+ 
+ SScont  =
+ 
+ 
+       SScont(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SScont(2) = A matrix = 
+ 
+  - 6.24  - 0.32  
+    8.68  - 2.76  
+ 
+       SScont(3) = B matrix = 
+ 
+  - 8.7635609  
+    6.5726707  
+ 
+       SScont(4) = C matrix = 
+ 
+    3.423266  - 6.661D-16  
+ 
+       SScont(5) = D matrix = 
+ 
+    5.  
+ 
+       SScont(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SScont(7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.2     0.6  
+  - 0.15    0.8  
+ Bc  =
+ 
+  - 43.817805  
+    0.         
+ Ac  =
+ 
+  - 9.  - 20.  
+    1.    0.   
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.07/17_07.sci #
+ 
+ 
+ 
+ TFcont  =
+ 
+          1 + s          
+    -----------------    
+                  2   3  
+    30 + 31s + 10s + s   
+ 
+ SScont  =
+ 
+ 
+       SScont(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SScont(2) = A matrix = 
+ 
+    0.8          7.1665891    3.331D-16  
+  - 4.3870242  - 9.7750779    0.4458204  
+  - 1.3572559    4.0794309  - 1.0249221  
+ 
+       SScont(3) = B matrix = 
+ 
+    0.         
+  - 1.412009   
+    0.0789337  
+ 
+       SScont(4) = C matrix = 
+ 
+ 10^(-9) *
+ 
+  - 98821177.    0.  - 6.939D-09  
+ 
+       SScont(5) = D matrix = 
+ 
+    0.  
+ 
+       SScont(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SScont(7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.         - 0.4472136  - 0.4472136  
+  - 0.0624026  - 0.0124805    0.0499221  
+    0.0034884  - 0.2232582    0.8930329  
+ Bc  =
+ 
+    22.627417  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 10.  - 31.  - 30.  
+    1.     0.     0.   
+    0.     1.     0.   
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.08/17_08.sci #
+ 
+ 
+ 
+ TFcont  =
+ 
+           6          
+    ---------------   
+               2   3  
+    4 + 8s + 5s + s   
+ 
+ SScont  =
+ 
+ 
+       SScont(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SScont(2) = A matrix = 
+ 
+    0.    1.    0.  
+    0.    0.    4.  
+  - 1.  - 2.  - 5.  
+ 
+       SScont(3) = B matrix = 
+ 
+    0.         
+    0.         
+    2.4494897  
+ 
+       SScont(4) = C matrix = 
+ 
+    0.6123724    0.    0.  
+ 
+       SScont(5) = D matrix = 
+ 
+    0.  
+ 
+       SScont(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SScont(7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.      0.  - 1.  
+    0.    - 1.    0.  
+  - 0.25    0.    0.  
+ Bc  =
+ 
+  - 9.797959  
+    0.        
+    0.        
+ Ac  =
+ 
+  - 5.  - 8.  - 4.  
+    1.    0.    0.  
+    0.    1.    0.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.09/17_09.sci #
+ 
+ A  =
+ 
+    0.    1.  
+  - 6.  - 5.  
+ 
+ Col  =
+ 
+    2.  
+ Row  =
+ 
+    2.  
+ 
+ 
+ m  =
+ 
+    l   - 1       
+                  
+    6     5 + l   
+ 
+ n  =
+ 
+              2  
+    6 + 5l + l   
+ 
+ ans  =
+ 
+  - 3.  
+  - 2.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.10/17_10.sci #
+ 
+ A  =
+ 
+  - 2.    1.  
+    0.  - 3.  
+ 
+ B  =
+ 
+    0.  
+    1.  
+ 
+ C  =
+ 
+    1.    1.  
+ 
+ 
+ Col  =
+ 
+    2.  
+ Row  =
+ 
+    2.  
+ 
+ m  =
+ 
+    2 + s   - 1       
+                      
+    0         3 + s   
+ 
+ n  =
+ 
+              2  
+    6 + 5s + s   
+ 
+ p  =
+ 
+      1           1        
+    -----     ---------    
+                        2  
+    2 + s     6 + 5s + s   
+                           
+    0           1          
+    -         -----        
+    1         3 + s        
+ 
+ 
+ 
+ Transfer Function=   
+ 
+      1     
+    -----   
+    2 + s   
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.13/17_13.sci #
+ 
+ A  =
+ 
+    3.    0.  
+    2.    4.  
+ 
+ B  =
+ 
+    0.  
+    1.  
+ 
+ 
+ 
+ Controlability Matrix=   
+ 
+    0.    0.  
+    1.    4.  
+ 
+ 
+Since the matrix is Singular, the system is not controllable 
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.14/17_14.sci #
+ 
+ A  =
+ 
+  - 2.    1.  
+    0.  - 3.  
+ 
+ B  =
+ 
+    4.  
+    1.  
+ 
+ C  =
+ 
+    1.    0.  
+ 
+ 
+ 
+ Observability Matrix=   
+ 
+    1.    0.  
+  - 2.    1.  
+ 
+ 
+The system is  Observable 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.16/17_16.sci #
+ 
+ 
+ 
+ TFcont  =
+ 
+                 2     
+      6 + 2s + 5s      
+    ---------------    
+                2   3  
+    8 + 11s + 7s + s   
+ 
+ SScont  =
+ 
+ 
+       SScont(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SScont(2) = A matrix = 
+ 
+  - 6.7681818  - 1.6984984  - 1.332D-15  
+    4.503504   - 0.2001056  - 1.1510465  
+    2.2005801    1.5424853  - 0.0317126  
+ 
+       SScont(3) = B matrix = 
+ 
+  - 3.4377583  
+    0.3403998  
+    1.0324467  
+ 
+       SScont(4) = C matrix = 
+ 
+  - 1.4544362  - 2.776D-17    3.331D-16  
+ 
+       SScont(5) = D matrix = 
+ 
+    0.  
+ 
+       SScont(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SScont(7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.2383656    0.0953463    0.2860388  
+  - 0.0236025    0.9953866  - 0.0170958  
+  - 0.0715873  - 0.0107046    0.9580655  
+ Bc  =
+ 
+  - 14.422205  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 7.  - 11.  - 8.  
+    1.    0.     0.  
+    0.    1.     0.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.17/17_17.sci #
+ 
+ 
+ 
+ TFcont  =
+ 
+         8        
+    -----------   
+           2   3  
+    6s + 5s + s   
+ 
+ SScont  =
+ 
+ 
+       SScont(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SScont(2) = A matrix = 
+ 
+    0.    0.5    0.  
+    0.    0.     2.  
+    0.  - 3.   - 5.  
+ 
+       SScont(3) = B matrix = 
+ 
+    0.         
+    0.         
+    2.8284271  
+ 
+       SScont(4) = C matrix = 
+ 
+    2.8284271    0.    0.  
+ 
+       SScont(5) = D matrix = 
+ 
+    0.  
+ 
+       SScont(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SScont(7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.    0.  - 1.  
+    0.  - 2.    0.  
+  - 1.    0.    0.  
+ Bc  =
+ 
+  - 2.8284271  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 5.  - 6.    0.  
+    1.    0.    0.  
+    0.    1.    0.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.18/17_17.sci #
+ 
+ 
+ 
+ TFcont  =
+ 
+         8        
+    -----------   
+           2   3  
+    6s + 5s + s   
+ 
+ SScont  =
+ 
+ 
+       SScont(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SScont(2) = A matrix = 
+ 
+    0.    0.5    0.  
+    0.    0.     2.  
+    0.  - 3.   - 5.  
+ 
+       SScont(3) = B matrix = 
+ 
+    0.         
+    0.         
+    2.8284271  
+ 
+       SScont(4) = C matrix = 
+ 
+    2.8284271    0.    0.  
+ 
+       SScont(5) = D matrix = 
+ 
+    0.  
+ 
+       SScont(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SScont(7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.    0.  - 1.  
+    0.  - 2.    0.  
+  - 1.    0.    0.  
+ Bc  =
+ 
+  - 2.8284271  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 5.  - 6.    0.  
+    1.    0.    0.  
+    0.    1.    0.  
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.20/17_20.sci #
+ 
+ A  =
+ 
+    0.    1.  
+  - 2.    0.  
+ 
+ B  =
+ 
+    0.  
+    3.  
+ 
+ 
+ 
+ Controlability Matrix=   
+ 
+    0.    3.  
+    3.    0.  
+ 
+ 
+The system is  controllable 
+ 
+ 
+ 
+grepthis#Control_Systems_S._Ghosh_773/CH17/EX17.21/17_21.sci #
+ 
+ A  =
+ 
+  - 3.    0.  
+    0.  - 2.  
+ 
+ B  =
+ 
+    4.  
+    1.  
+ 
+ C  =
+ 
+    2.    0.  
+ 
+ 
+ 
+ Observability Matrix=   
+ 
+    2.    0.  
+  - 6.    0.  
+ 
+ 
+Since the matrix is Singular, the system is not Observable 
+ 
+ 

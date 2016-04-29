@@ -1,0 +1,327 @@
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH7/EX7.3.1a/example7_3_1a.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH7/EX7.3.1b/example7_3_1b.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH8/EX8.1/example8_1.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+               1              
+    -----------------------   
+                           2  
+    0.1591549s + 0.0253303s   
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH8/EX8.2/example8_2.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+                 1                
+    ---------------------------   
+                               2  
+    1 + 0.3183099s + 0.0253303s   
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH8/EX8.3/example8_3.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ den  =
+ 
+                  2  
+  - 1 + 0.0253303s   
+ 
+ G  =
+ 
+    3 + 0.1591549s   
+    --------------   
+                  2  
+  - 1 + 0.0253303s   
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH9/EX9.1/examplesec9_1.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ G=(60*k)/s*(s+1)*(s+6)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ wn1  =
+ 
+    2.8160256  
+ 
+ theta  =
+ 
+    84.  
+ 
+ zeta1  =
+ 
+    0.1045285  
+ 
+ Ts1  =
+ 
+    13.589042  
+ 
+ 
+ a  =
+ 
+    53.130102  
+ 
+ 
+ 
+ 
+ Ts2  =
+ 
+    5.2910053  
+ 
+ 
+ 
+ Kv1  =
+ 
+    0.875  
+ 
+ Ess1  =
+ 
+    1.1428571  
+ 
+ 
+ 
+ 
+ 
+ G2=60*k*(s+3)/s*(s+2)*(s+6)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ wn  =
+ 
+    3.4  
+ 
+ K  =
+ 
+    0.2666667  
+ 
+ Kv  =
+ 
+    4.  
+ 
+ Ts  =
+ 
+    1.9607843  
+ 
+ Ess  =
+ 
+    0.25  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.9/example15_9.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+               1              
+    -----------------------   
+              3            4  
+    0.0040314s + 0.0006416s   
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.36/example15_36.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.37/example15_37.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.39/example15_39.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.40/example15_40.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+                 1                
+    ---------------------------   
+                               2  
+    1 + 0.1273240s + 0.0253303s   
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.41/example15_41.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+          2 + 0.1591549s          
+    --------------------------    
+                               2  
+    1 + 0.3183099s + 0.0253303s   
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.42/example15_42.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.50/example15_50.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.54/example15_54.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+                     2                     
+    -----------------------------------    
+                           2            3  
+    0.3183099s + 0.0506606s + 0.0040314s   
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,14 @@
+errcatch(-1,"stop");mode(2);// Example 2.28, page no-47
+
+
+theta=22//in degrees
+d=1.8*10^-10//m
+n=1
+h=6.626*10^-34
+m=9.1*10^-31//kg
+e=1.6*10^-19//C
+lam=2*d*sin(theta*%pi/180)/n
+E=(1/(2*m))*(h/lam)^(2)
+printf("\nThe deBroglie wavelength of the neutron is %.3f *10^-10\nthe energy of the neutron is %.2f eV",lam*10^10,E/e)
+
+exit();

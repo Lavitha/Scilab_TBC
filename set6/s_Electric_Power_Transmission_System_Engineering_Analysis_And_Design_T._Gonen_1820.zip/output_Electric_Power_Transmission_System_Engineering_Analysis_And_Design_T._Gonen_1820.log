@@ -1,0 +1,5015 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 80
+
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH14/EX1.C/ExampleC_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : C.1 : SOLUTION :-   
+ 
+
+ (a) Complex power per phase that is being transmitted from bus 1 to bus 2 , S12 = 10104766.69<3.56 VA 
+ 
+
+ (b) Active power per phase that is being transmitted , P12 = 10085280.57 W 
+ 
+
+ (b) Reactive power per phase that is being transmitted , Q12 = 627236.52 vars 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH14/EX2.C/ExampleC_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : C.2 : SOLUTION :-   
+ 
+
+ (a) Reactance of transformer in pu , X_pu = 0.12 pu 
+ 
+
+ (b) High-voltage side base impedance , Z_B_HV = 5951.25 Ω 
+ 
+
+ (c) Low-voltage side base impedance , Z_B_LV = 59.5125 Ω 
+ 
+
+ (d) Transformer reactance referred to High-voltage side , X_HV = 714.15 Ω 
+ 
+
+ (e) Transformer reactance referred to Low-voltage side , X_LV = 7.1415 Ω 
+ 
+     (or) From another equation C.89 , 
+
+     Transformer reactance referred to Low-voltage side , X_LV = 7.1415 Ω 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH14/EX3.C/ExampleC_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : C.3 : SOLUTION :-   
+ 
+
+ (a) Turns ratio of windings , n = 5.7735 
+ 
+
+ (b) Transformer reactance referred to LV side in ohms ,X_LV = 21.4245 Ω 
+ 
+
+ (c) Transformer reactance referred to LV side in per units ,X_pu = 0.12 pu 
+ 
+
+    (or) From another equation if line-to-line voltages are used , 
+
+     Transformer reactance referred to LV side in per units ,X_pu = 0.12 pu 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH14/EX4.C/ExampleC_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : C.3 : SOLUTION :-   
+ 
+
+ (a) Base kilovoltampere value for all 3-circuits is , kVA_B = 2080.0 kVA 
+ 
+
+ (b) Base line-to-line kilovolt value for 2.4 kV circuit , kV_BL_L = 2.5 kV 
+ 
+
+     Base line-to-line kilovolt value for 24 kV circuit , kV_BL_L = 25.0 kV 
+ 
+
+     Base line-to-line kilovolt value for 24 kV circuit , kV_BL_L = 12.5 kV 
+ 
+
+ (c) Base impedance value of 2.4 kV circuit , Z_B = 3.005 Ω 
+ 
+
+     Base impedance value of 24 kV circuit , Z_B = 300.5 Ω 
+ 
+
+     Base impedance value of 12.5 kV circuit , Z_B = 75.1 Ω 
+ 
+
+ (d) Base current value of 2.4 kV circuit , I_B = 480 A 
+ 
+
+     Base current value of 24 kV circuit , I_B = 48 A 
+ 
+
+     Base current value of 2.4 kV circuit , I_B = 96 A 
+ 
+
+ (e) Physical current of 2.4 kV circuit , I = 1000 A 
+ 
+
+     Physical current of 24 kV circuit , I = 100 A 
+ 
+
+     Physical current of 12 kV circuit , I = 200 A 
+ 
+
+ (f) Per unit current values for all 3 circuits , I_pu = 2.08 pu 
+ 
+
+ (g) New transformer reactance of T1 , Z_pu_T1 =  j0.0128 pu 
+ 
+
+     New transformer reactance of T2 , Z_pu_T2 =  j0.0192 pu 
+ 
+
+ (h) Per unit voltage value at bus 1 ,V1 = 0.96<0.0 pu 
+ 
+
+     Per unit voltage value at bus 2 ,V2 = 0.9334<-0.0 pu 
+ 
+
+     Per unit voltage value at bus 4 ,V4 = 0.8935<-0.0 pu 
+ 
+
+ (i) Per-unit apparent power value at bus 1 , S1 = 2.00 pu 
+ 
+
+     Per-unit apparent power value at bus 2 , S2 = 1.9415 pu 
+ 
+
+     Per-unit apparent power value at bus 4 , S4 = 1.8586 pu 
+ 
+
+ (j) TABLE C.2 
+ 
+
+     Results Of Example C.4 
+ 
+
+     ___________________________________________________________________________________ 
+
+     QUANTITY      	  2.4-kV circuit   	  24-kV circuit   	  12-kV circuit    
+
+     ___________________________________________________________________________________ 
+
+     kVA_B(3-Φ)    	  2080 kVA           	  2080 kVA          	  2080 kVA 
+ 
+
+     kV_B(L-L)     	  2.5 kV          	  25 kV           	  12.5 kV 
+ 
+
+     Z_B           	  3.005 Ω           	  300.5 Ω          	  75.1 Ω 
+ 
+
+     I_B           	  480 A             	  48 A            	  96 A 
+ 
+
+     I_physical    	  1000 A             	  100 A           	  200 A 
+ 
+
+     I_pu          	  2.08 pu          	  2.08 pu         	  2.08 pu 
+ 
+
+     V_pu          	  0.96 pu          	  0.9334 pu         	  0.8935 pu 
+ 
+
+     S_pu          	  2.00 pu          	  1.9415 pu         	  1.8586 pu 
+ 
+     ___________________________________________________________________________________ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH14/EX5.C/ExampleC_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : C.5 : SOLUTION :-   
+ 
+
+ (a) Inductive reactance using equation C.135 , X_L = 0.7057 Ω/mi 
+ 
+
+ (b) Inductive reactance using tables , X_L = 0.7056 Ω/mi 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH14/EX6.C/ExampleC_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : C.6 : SOLUTION :-   
+ 
+
+ (a) Shunt capacitive reactance using equation C.156 , X_C = 0.163211 MΩ*mi 
+ 
+
+ (b) Shunt capacitive reactance using tables , X_C = 0.163143 MΩ*mi 
+ 
+
+ (c) Capacitive reactance of total line , X_C = 1.63143e-03 MΩ 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH2/EX2.1/Example2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 2.1 : SOLUTION :-   
+ 
+
+ (a) Tolerable Touch potential , V_touch50 = 191 V , for 50 kg body weight 
+ 
+
+ (b) Tolerable Step potential , V_step50 = 265 V , for 50 kg body weight 
+ 
+
+ (c) Tolerable Touch Voltage for metal-to-metal contact , V_mm_touch50 = 165.7 V , for 50 kg body weight 
+ 
+
+ (d) Tolerable Touch Voltage for metal-to-metal contact , V_mm_touch70 = 224.3 V , for 70 kg body weight 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH3/EX3.1/Example3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.1 : SOLUTION :-   
+ 
+
+ Surge Impedance Loading of line , SIL = 325 MW 
+ 
+ 
+
+ NOTE: Unit of SIL is MW and surge impedance is Ω 
+
+ ERROR: Mistake in unit of SIL in textbook 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH3/EX3.2/Example3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.2 : SOLUTION :-   
+ 
+
+ (a) Effective SIL , SIL_comp = 230 MW 
+ 
+
+ (b) Effective SIL , SIL_comp = 398 MW 
+ 
+
+ (c) Effective SIL , SIL_comp = 460 MW 
+ 
+
+ (d) Effective SIL , SIL_comp = 411 MW 
+ 
+ 
+
+ NOTE: Unit of SIL is MW and surge impedance is Ω  
+
+ ERROR: Mistake in unit of SIL in textbook 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH3/EX3.3/Example3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.3 : SOLUTION :-   
+ 
+
+ (a) Rated current , I_rated = (1.333 pu)*I_normal 
+ 
+
+ (b) Mvar rating increase = 1.78 pu 
+ 
+
+ (c) Rated current value , I_rated = 1333 A 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.1/Example4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_SL_N  =
+ 
+    14759.219 + 1137.0614i  
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.1 : SOLUTION :-   
+ 
+ 
+ METHOD I : USING COMPLEX ALGEBRA   
+ 
+
+ (a) Line-to-neutral voltage at sending end , V_SL_N = 14803<4.4 V 
+ 
+
+ i.e Line-to-neutral voltage at sending end , V_SL_N = 14803 V 
+ 
+
+     Line-to-line voltage at sending end , V_SL_L = 25639<4.4 V 
+ 
+
+ i.e Line-to-line voltage at sending end , V_SL_L = 25639 V 
+ 
+
+ (b) load angle , δ = 4.4 degree 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ METHOD II : USING THE CURRENT AS REFERENCE PHASOR   
+ 
+
+ (a) Line-to-neutral voltage at sending end , V_SL_N = 14803 V 
+ 
+
+     Line-to-line voltage at sending end , V_SL_L = 25639 V 
+ 
+
+ (b) load angle , δ = 4.4 degree 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ METHOD III : USING THE RECEIVING END VOLTAGE  AS REFERENCE PHASOR   
+ 
+
+ (a) Line-to-neutral voltage at sending end , V_SL_N = 14803 V 
+ 
+
+     Line-to-line voltage at sending end , V_SL_L = 25639 V 
+ 
+
+ (b) load angle , δ = 4.4 degree 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ METHOD IV : USING POWER RELATIONSHIPS   
+ 
+
+ (a) Line-to-neutral voltage at sending end , V_SL_N = 14803 V 
+ 
+
+ (a) Line-to-line voltage at sending end , V_SL_L = 25639 V 
+ 
+
+ (b) load angle , δ = 4.4 degree 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ METHOD V : TREATING 3-Φ LINE AS 1-Φ LINE   
+ 
+
+ (a) Line to neutral voltage at sending end , V_SL_N = 14803 V 
+ 
+
+ (a) Line to line voltage at sending end , V_SL_L = 25639 V 
+ 
+
+ (b) load angle , δ = 4.4 degree 
+ 
+
+ 
+ 
+
+ NOTE : ERROR : Change in answer because root(3) = 1.73 is considered in Textbook  
+
+ But here sqrt(3) = 1.7320508 is considered 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.2/Example4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.2 : SOLUTION :-   
+ 
+
+ (a) Percentage of voltage regulation using equ 4.29 = 11.5 
+ 
+
+ (b) Percentage of voltage regulation using equ 4.31 = 11.1 
+ 
+ 
+
+ NOTE : ERROR : The question is with respect to values given in Exa 4.1 not 4.5 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.3/Example4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.3 : SOLUTION :-   
+ 
+
+  Mutual impedance at node 2 , Z_2 = 0.295 + j0.165 Ω
+ 
+
+  Mutual impedance at node 4 , Z_4 = 0.252 + j0.152 Ω
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.4/Example4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.4 : SOLUTION :-   
+ 
+
+ (a) A constant of line , A = 0.9536<0.6 
+ 
+
+     B constant of line , B = 92.79<78.3 Ω 
+ 
+
+     C constant of line , C = 0.001<90.0 S 
+ 
+
+     D constant of line , D = 0.9536<0.6 
+ 
+
+ (b) Sending end line-to-neutral voltage , V_SL_N = 92949.2<10.6 V 
+ 
+
+     Sending end line-to-line voltage , V_SL_L = 160992.7<40.6 V 
+ 
+
+ (c) sending end current , I_S = 200.65<-11.3 A 
+ 
+
+ (d) sending end power factor , cosθ_s = 0.928 
+ 
+
+ (e) Efficiency of transmission , η = 94.38 Percentage 
+ 
+ 
+
+ NOTE : From A = 0.9536<0.6 , magnitude is 0.9536 & angle is 0.6 degree 
+
+ ERROR : Change in answer because root(3) = 1.73 is considered in Textbook  
+
+ But here sqrt(3) = 1.7320508 is considered 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.5/Example4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.5 : SOLUTION :-   
+ 
+
+ (a) A constant of line , A = 0.9536<0.6 
+ 
+
+     B constant of line , B = 95.00<78.0 Ω 
+ 
+
+     C constant of line , C = 0.001<90.3 S 
+ 
+
+     D constant of line , D = 0.9536<0.6 
+ 
+
+ (b) Sending end line-to-neutral voltage , V_SL_N = 93447.9<10.7 V 
+ 
+
+     Sending end line-to-line voltage , V_SL_L = 161856.5<40.7 V 
+ 
+
+ (c) sending end current , I_S = 200.63<-11.9 A 
+ 
+
+ (d) sending end power factor , cosθ_s = 0.923 
+ 
+
+ (e) Efficiency of transmission , η = 94.34 Percentage 
+ 
+ 
+
+ NOTE : ERROR : Change in answer because root(3) = 1.73 is considered in Textbook  
+
+ But here sqrt(3) = 1.7320508 is considered 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.6/Example4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    0.1858  
+ 
+ f  =
+ 
+    60.  
+ 
+ L  =
+ 
+    0.0026  
+ 
+ C  =
+ 
+    1.200D-08  
+ 
+ pf  =
+ 
+    0.85  
+ 
+ P  =
+ 
+    50000000.  
+ 
+ l  =
+ 
+    150.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.6 :SOLUTION :-   
+ 
+
+ (a) A constant of line , A = 0.9506<0.56 
+ 
+
+     B constant of line , B = 147.17<79.45 Ω 
+ 
+
+     C constant of line , C = 0.00067<90.18 S 
+ 
+
+     D constant of line , D = 0.9506<0.56 
+ 
+
+ (b) Sending end line-to-neutral voltage , V_SL_N = 99286.79<13.69 V 
+ 
+
+     Sending end line-to-line voltage , V_SL_L = 171969.77<43.69 V 
+ 
+
+ (c) sending-end current , I_S = 177.05<-16.38 A 
+ 
+
+ (d) sending-end power factor , cosθ_s = 0.8655 
+ 
+
+ (e) sending-end power , P_S = 4.56400e+07 W 
+ 
+
+ (f) Power loss in line , P_L = 3.13998e+06 W 
+ 
+
+ (g) Transmission line Efficiency , η = 93.1 Percentage
+ 
+
+ (h) Percentage of voltage regulation = 24.6 Percentage 
+ 
+
+ (i) Sending-end charging current at no load , I_C = 33.69 A 
+ 
+
+ (j) Receiving-end voltage rise at no load ,V_RL_N = 104243.93<13.17 V 
+ 
+
+     Line-to-line voltage at receiving end at no load ,V_RL_L = 180555.79<43.17 V 
+ 
+ 
+
+ NOTE : ERROR : Change in answer because root(3) = 1.73 is considered in Textbook & change in α & β values  
+
+ But here sqrt(3) = 1.7320508 is considered 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.7/Example4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    0.1858  
+ 
+ f  =
+ 
+    60.  
+ 
+ L  =
+ 
+    0.0026  
+ 
+ C  =
+ 
+    1.200D-08  
+ 
+ l  =
+ 
+    150.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.7 : SOLUTION :-   
+ 
+
+ FOR EQUIVALENT-π CIRCUIT  
+
+   Z_π = B = 147.17<79.45 Ω 
+ 
+
+   Y_π/2 = 0.000342<89.91 S 
+ 
+
+ FOR NOMINAL-π CIRCUIT  
+
+   Z = 149.645<79.27 Ω 
+ 
+
+   Y/2 = 0.000339<90.0 S 
+ 
+
+ FOR EQUIVALENT-T CIRCUIT  
+
+   Z_T/2 = 75.45<79.18 Ω 
+ 
+
+   Y_T = C = 0.00067<90.18 S 
+ 
+
+ FOR NOMINAL-T CIRCUIT  
+
+   Z/2 = 74.82<79.27 Ω 
+ 
+
+   Y = 0.000679<90.0 S 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.8/Example4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    0.1858  
+ 
+ f  =
+ 
+    60.  
+ 
+ L  =
+ 
+    0.0026  
+ 
+ C  =
+ 
+    1.200D-08  
+ 
+ pf  =
+ 
+    0.85  
+ 
+ P  =
+ 
+    50000000.  
+ 
+ l  =
+ 
+    150.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_RL_L  =
+ 
+    138000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.8 : SOLUTION :-   
+ 
+
+ (a) Attenuation constant , α = 0.0002 Np/mi 
+ 
+
+     Phase change constant, β = 0.0021 rad/mi 
+ 
+
+ (b) Wavelength of propagation = 2970.62 mi 
+ 
+
+     velocity of propagation = 178236.99 mi/s 
+ 
+
+ (c) Incident voltage receiving end , V_R(incident) = 84370.59<-20.59 V 
+ 
+
+     Receiving end reflected voltage , V_R(reflected) = 29673.28<88.67 V 
+ 
+
+ (d) Line voltage at receiving end , V_RL_L = 138000 V 
+ 
+
+ (e) Incident voltage at sending end , V_S(incident) = 86923.09<-2.41 V 
+ 
+
+     Reflected voltage at sending end , V_S(reflected) = 28801.92<70.49 V 
+ 
+
+ (f) Line voltage at sending end , V_SL_L = 171969.77 V 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.9/Example4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z_c1  =
+ 
+    469.60085  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.9 : SOLUTION :-   
+ 
+
+ Approximate value of SIL of transmission line , SIL_app = 40.913 MW
+ 
+
+ Exact value of SIL of transmission line , SIL_exact = 40.554 MW
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.10/Example4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.10 : SOLUTION :-   
+ 
+
+ Equivalent A , B , C , D constants are 
+ 
+
+ A_eq = 1.092<12.8 
+ 
+
+ B_eq = 10.000<30.0 
+ 
+
+ C_eq = 0.025<45.0 
+ 
+
+ D_eq = 1.000<0.0 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.11/Example4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.11 : SOLUTION :-   
+ 
+
+ Equivalent A , B , C , D constants are 
+ 
+
+ A_eq = 1.00<0 
+ 
+
+ B_eq = 0.00<0 
+ 
+
+ C_eq = 0.025<45 
+ 
+
+ D_eq = 1.00<0 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.12/Example4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.12 : SOLUTION :-   
+ 
+
+ (a) Sending-end current , I_S = 83.33<-30.00 A 
+ 
+
+ (b) Sending-end voltage , V_S = 2577.22<-0.86 V 
+ 
+
+ (c) Input impedance , Z_in = 30.93<29.15 Ω 
+ 
+
+ (d) Real power loss in line , S_L = 14375.00 W 
+ 
+
+     Reactive power loss in line , S_L = 4590.28 var 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.13/Example4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.13 : SOLUTION :-   
+ 
+
+ (a) Total 3-Φ SIL of line , SIL = 416.50 MVA/mi 
+ 
+
+     Total 3-Φ SIL of line for total line length , SIL = 83300.15 MVA 
+ 
+
+ (b) Maximum 3-Φ theortical steady-state power flow limit , P_max = 1012.12 MW 
+ 
+
+ (c) Total 3-Φ magnetizing var generation by line capacitance , Q_C = 171.40 Mvar 
+ 
+
+ (d) Open-circuit receiving-end voltage if line is open at receiving end , V_R_oc = 376.43 kV 
+ 
+
+    From alternative method , 
+
+     Open-circuit receiving-end voltage if line is open at receiving end , V_R_oc = 376.91 kV 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.14/Example4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.14 : SOLUTION :-   
+ 
+
+ (a) Total 3-phase SIL of line , SIL = 416.50 MVA/mi 
+ 
+
+     Total 3-Φ SIL of line for total line length , SIL = 83300.15 MVA 
+ 
+
+ (b) Maximum 3-phase theortical power flow , P_max = 1012.12 MW 
+ 
+
+ (c) 3-phase MVA rating of each reactor , (1/2)Q_L = 51.42 MVA 
+ 
+
+ (d) Cost of each reactor at $10/kVA = $ 514188.00 
+ 
+
+ (e) Open circuit receiving voltage , V_Roc= 357.02 kV 
+ 
+
+    From alternative method , 
+
+     Open-circuit receiving-end voltage if line is open at receiving end , V_R_oc = 357.09 kV 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH4/EX4.15/Example4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.15 : SOLUTION :-   
+ 
+
+ (a) Average inductance per phase , L_a = 1.0113e-06 H/m 
+ 
+
+ (b) Inductive reactance per phase , X_L = 0.3813 Ω/km 
+ 
+
+     Inductive reactance per phase , X_L = 0.6135 Ω/mi 
+ 
+
+ (c) Series reactance of line , X_L = 0.0641 pu 
+ 
+
+ (d) Line-to-neutral capacitance of line , C_n = 1.1239e-11 F/m 
+ 
+
+ (e) Capacitive reactance to neutral of line , X_C = 2.360e+05 Ω-km 
+ 
+
+     Capacitive reactance to neutral of line , X_C = 1.467e+05 Ω-mi 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.1/Example5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.1 : SOLUTION :-   
+ 
+
+ (a) Maximum value of electric stress , E_max = 27.17 kV/cm 
+ 
+
+     Minimum value of electric stress , E_min = 10.87 kV/cm 
+ 
+
+ (b) Optimum value of conductor radius , r = 0.92 cm 
+ 
+
+     Minimum value of maximum stress , E_max = 27.07 kV/cm 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.2/Example5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.2 : SOLUTION :-   
+ 
+
+ Potential gradient at the surface of conductor , E_1 = 11.20 kV/cm 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.3/Example5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.3 : SOLUTION :-   
+ 
+
+ (a) Total insulation resistance at 60 degree F , R_i= 3983.99 MΩ 
+ 
+
+ (b) Power loss due to leakage current , V^2/R_i = 3.3195 W 
+ 
+ 
+
+ NOTE : ERROR : Mistake in textbook case (a) 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.4/Example5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.4 : SOLUTION :-   
+ 
+
+ Charging current of the cable , I_c = 60.07 A 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.5/Example5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.5 : SOLUTION :-   
+ 
+
+ (a) Charging current of feeder , I_c = 10.81 A 
+ 
+
+     Charging current of feeder in complex form  , I_c = i*10.81 A 
+ 
+
+ (b) Sending-end current , I_s = 25.98<-11.07 A
+ 
+
+ (c) Sending-end power factor ,cos Φ_s = 0.98  Lagging power factor 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.6/Example5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.6 : SOLUTION :-   
+ 
+
+ (a) Geometric factor of cable using table 5.3 , G_1 = 1.642 
+ 
+
+ (b) Charging current , I_c = 3.055 A/1000ft 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.7/Example5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.7 : SOLUTION :-   
+ 
+
+ (a) Maximum electric stress occuring in cable dielectric , E_max = 6.34 kV/cm 
+ 
+
+ (b) Capacitance of cable , C = 0.9962 μF 
+ 
+
+ (c) Charging current of cable , I_c = 2.704 A 
+ 
+
+ (d) Insulation resistance , R_i = 4.04 MΩ 
+ 
+
+ (e) Power loss due to leakage current , P_lc = 12.85 W 
+ 
+
+ (f) Total dielectric loss , P_dl = 584.06 W 
+ 
+
+ (g) Dielectric hysteresis loss , P_dh = 571.21 W 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.8/Example5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.8 : SOLUTION :-   
+ 
+
+ (a) Total dc resistance of the conductor , R_dc = 0.0854 Ω 
+ 
+
+ (b) Effective resistance at 60 hz , R_eff = 0.1053 Ω 
+ 
+
+     Skin effect on the Effective resistance in percent at 60 hz , R_eff = 23.3 percent greater than for direct current
+ 
+
+ (c) Percentage of reduction in cable ampacity in part (b) = 23.3 percent 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.9/Example5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.9 : SOLUTION :-   
+ 
+
+ (a) Mutual reactance b/w conductors & sheath , X_m = 0.09245 Ω/mi/phase 
+ 
+
+    or Mutual reactance b/w conductors & sheath , X_m = 0.9245 Ω/phase 
+ 
+
+ (b) Sheath resistance of cable , r_s = 1.2905 Ω/mi/phase 
+ 
+
+    or Sheath resistance of cable , r_s = 12.905 Ω/phase 
+ 
+
+ (c) Increase in conductor resistance due to sheath currents , Δr = 0.00659 Ω/mi/phase 
+ 
+
+    or Increase in conductor resistance due to sheath currents , Δr = 0.0659 Ω/phase 
+ 
+
+ (d) Total resistance of conductor including sheath loss , r_a = 0.19659 Ω/mi/phase 
+  
+
+    or Total resistance of conductor including sheath loss , r_a = 1.9659 Ω/phase 
+  
+
+ (e) Ratio of sheath loss to conductor loss , Ratio = 0.0347 
+ 
+
+ (f) Total sheath loss of feeder if current in conductor is 400A , P_s = 31626.12 W 
+ 
+ 
+
+ NOTE : ERROR : There are mistakes in some units in the Textbook 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.10/Example5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.10 : SOLUTION :-   
+ 
+
+ (a) Total zero sequence impedance when both ground & return paths are present , Z_00 = 1.728<27.4 Ω/mi/phase 
+ 
+
+ (b) Total zero sequence impedance when there is only sheath return path , Z_0 = 1.986<3.4 Ω/mi/phase 
+ 
+
+ (c) Total zero sequence impedance when there is only ground return path , Z_0a = 3.1952<80.1 Ω/mi/phase 
+ 
+ 
+
+ NOTE : ERROR : There are mistakes in units in the Textbook 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.11/Example5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.11 : SOLUTION :-   
+ 
+
+ (a) Shunt capacitances for zero , positive & negative sequences , C_0 = C_1 = C_2 = 0.93 μF/mi/phase 
+ 
+
+ (b) Shunt capacitive reactance for zero , positive & negative sequences , X_0 = X_1 = X_2 = 2.87e-03 MΩ/mi/phase 
+ 
+
+ (c) Charging current for zero , positive & negative sequences , I_0 = I_1 = I_2 = 1.608 A/mi/phase 
+ 
+ 
+
+ NOTE : 2.87e-03 MΩ/mi/phase can also be written as 2.87 kΩ/mi/phase as in textbook case (b) 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.12/Example5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.12 : SOLUTION :-   
+ 
+
+ (a) Phase Impedance Matrix , [Z_abc] = 
+ 
+    4.5226962 + 2.496411i     1.5949386 - 2.6042173i    1.4961124 - 3.090671i   
+    1.5949386 - 2.6042173i    2.8976634 + 3.8010063i    0.9302040 - 1.928637i   
+    1.4961124 - 3.090671i     0.9302040 - 1.928637i     2.8976634 + 3.8010063i  
+ 
+
+ (b) Sequence-Impedance Matrix , [Z_012] = 
+ 
+    6.1201777 - 1.716209i     0.8872119 - 0.7696629i    0.6063577 - 0.7126055i  
+    0.6063577 - 0.7126055i    2.0989227 + 5.9073163i  - 0.1493909 + 0.2347304i  
+    0.8872119 - 0.7696629i    0.4123175 + 0.1206156i    2.0989227 + 5.9073163i  
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.15/Example5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cost_kwh  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.15 : SOLUTION :-   
+ 
+
+ (a) Power loss of Overhead line at peak load , (Power loss)_OH_line = 41000 kW 
+ 
+
+ (b) Power loss of Gas-insulated transmission line , (Power loss)_GIL_line = 12700 kW 
+ 
+
+ (c) Total annual energy loss of Overhead transmission line at peak load = 3.5916e+08 kWh/yr 
+ 
+
+ (d) Total annual energy loss of Gas-insulated transmission line at peak load = 1.11252e+08 kWh/yr 
+ 
+
+ (e) Average energy loss of Overhead transmission line = 2.51412e+08 kWh/yr 
+ 
+
+ (f) Average energy loss of Gas-insulated transmission line at peak load = 7.78764e+07 kWh/yr 
+ 
+
+ (g) Average annual cost of losses of Overhead transmission line  = $ 2.51412e+07/yr 
+ 
+
+ (h) Average annual cost of losses of Gas-insulated transmission line = $ 7.78764e+06/yr 
+ 
+
+ (i) Annual resultant savings in losses using Gas-insulated transmission line = $ 1.735356e+07/yr 
+ 
+
+ (j) Breakeven period when GIL alternative is selected = 11.5 years 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH5/EX5.16/Example5_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.16 : SOLUTION :-   
+ 
+
+ OVERHEAD TRANSMISSION LINE : 
+ 
+
+  Annual equivalent cost of capital invested in line , A_1 = $ 5112744 
+ 
+
+  Annual equivalent cost of Tax and maintainance , A_2 = $ 1525000 
+ 
+
+  Total annual equivalent cost of OH transmission , A = $ 6637744 
+ 
+
+ 
+ SUBMARINE TRANSMISSION LINE : 
+ 
+
+  Annual equivalent cost of capital invested in line , A_1 = $ 12270722 
+ 
+
+  Annual equivalent cost of Tax and maintainance , A_2 = $ 3645000 
+ 
+
+  Total annual equivalent cost of Submarine power transmission , A = $ 15915722 
+ 
+
+ 
+ GIL TRANSMISSION LINE : 
+ 
+
+  Annual equivalent cost of capital invested in line , A_1 = $ 15543385 
+ 
+
+  Annual equivalent cost of Tax and maintainance , A_2 = $ 4564000 
+ 
+
+  Total annual equivalent cost of Submarine power transmission , A = $ 20107385 
+ 
+
+  Total net equivalent cost of GIL transmission = $ 2607385 
+ 
+
+ 
+ The result shows use of GIL is the best choice 
+ 
+
+ The next best alternative is Overhead transmission line 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.1/Example6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.1 : SOLUTION :-   
+ 
+
+ (a) Line-to-line dc voltage of V_d in terms of line-to-neutral voltage E_p , V_d = 
+ 
+    2.45E_p   
+ 
+
+ (b) The dc line current I_d in terms of ac line current I_L , I_d = 
+ 
+    1.225I_L   
+ 
+
+ (c) Ratio of dc insulation level to ac insulation level =  
+ 
+    0.833   
+    -----   
+      1     
+ 
+
+  (or) dc insulation level = 
+ 
+    0.833ac_i   
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.2/Example6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.2 : SOLUTION :-   
+ 
+
+ (a) Maximum operating V_d in terms of voltage E_p , V_d = 
+ 
+    6E_p   
+ 
+
+ (b) Maximum power transmission capability ratio,i.e,ratio of P_dc to P_ac , P_dc/P_ac = 
+ 
+    2   
+    -   
+    1   
+ 
+
+ (or) P_dc = 
+ 
+    2P_ac   
+ 
+
+ (c) Ratio of total I^2*R losses , i.e ,Ratio of P_loss(dc) to P_loss(ac),which accompany maximum power flow = 
+ 
+    0.6666667   
+    ---------   
+        1       
+ 
+
+ (or) P_loss(dc) = 
+ 
+    0.6666667P_la   
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.3/Example6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.3 : SOLUTION :-   
+ 
+
+ (a) Three-phase kilovolt-ampere rating , S_B = 209400 kVA 
+ 
+
+ (b) Wye-side kilovolt rating , E_L-N = 53.4188 kV 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.4/Example6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.4 : SOLUTION :-   
+ 
+
+ (a) Commutating reactance When all three breakers are d, X_C = 6.2292 Ω 
+ 
+
+ (b) Commutating reactance When breaker 1 is open, X_C = 7.5133 Ω 
+ 
+
+ (c) Commutating reactance When breakers 1 and 2 are open, X_C = 12.6497 Ω 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.5/Example6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.5 : SOLUTION :-   
+ 
+
+ (a) Overlap angle u of rectifier, u = 32.04 degree
+ 
+
+ (b) The dc voltage V_dr of rectifier, V_dr = 115482.48 V 
+ 
+
+ (c) Displacement factor of rectifier, cosθ = 0.924  
+ 
+
+     and   θ = 22.5 degree 
+  
+
+ (d) Magnetizing var input to rectifier, Q_r = 7.6546e+07 var 
+ 
+ 
+
+ NOTE : In case(d) 7.6546e+07 var is same as 7.6546*10^7 var = 76.546 Mvar 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.6/Example6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.6 : SOLUTION :-   
+ 
+
+ (a) Firing angle α of rectifier, α = 28.82 degree
+ 
+
+ (b) Overlap angle u of rectifier, u = 14.81 degree
+ 
+
+ (c) Power factor , cosθ = 0.80  
+ 
+
+     and   θ = 36.87 degree 
+  
+
+ (d) Magnetizing var input , Q_r = 1.20e+08 var 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.7/Example6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.7 : SOLUTION :-   
+ 
+
+ (a) u = 46.3 degree 
+ 
+
+  since u < 60 degree . The rectifier operates at FIRST mode , the normal operating mode 
+ 
+
+ (b) When dc current is 1600 A , V_dr = 105672.63 V 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH6/EX6.10/Example6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.10 : SOLUTION :-   
+ 
+
+ (a) Open circuit dc Voltage , V_d0 = 109517.52 V 
+ 
+
+ (b) Open circuit ac voltage on wye side of transformer , E = 46802.36 V 
+ 
+
+ (c) Overlap angle , u = 32.04 degree 
+ 
+
+ (d) Power factor , cosθ = 0.913  
+ 
+
+     and   θ = 24.06 degree 
+  
+
+ (e) Magnetizing var input to rectifier , Q_r = 7.1448e+07 var 
+ 
+
+ (f) Number of 0.625 percent steps of buck required , No. of buck = 20 steps 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH7/EX7.1/Example7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.1 : SOLUTION :-   
+ 
+
+ (a) Total surge power in line , P = 2000 MW 
+ 
+
+ (b) Surge current in line , i = 2000 A 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH7/EX7.2/Example7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.1 : SOLUTION :-   
+ 
+
+ (a) Total surge power in line , P = 20000 MW 
+ 
+
+ (b) Surge current in line , i = 20000 A 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH7/EX7.4/Example7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.4 : SOLUTION :-   
+ 
+
+ (a) Reflection coefficient of voltage wave , ρ = 0.1111 
+ 
+
+ (b) Reflection coefficient of current wave , ρ = -0.1111 
+ 
+
+ (c) Backward-travelling voltage wave , v_b = 555.556 V 
+ 
+
+ (d) Voltage at end of line , v = 5555.556 V 
+ 
+
+     From alternative method  
+
+     Voltage at end of line , v = 5555.556 V 
+ 
+
+ (e) Refraction coefficient of voltage wave , Γ = 1.1111 
+ 
+
+ (f) Backward-travelling current wave , i_b = -1.3889 A 
+ 
+
+ (g) Current flowing through resistor, i = 11.1111 A 
+ 
+
+ (h) Refraction coefficient of current wave , Γ = 0.8889 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH8/EX8.1/Example8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 8.1 : SOLUTION :-   
+ 
+
+ (a) Disruptive critical rms line voltage , V_0 = 298.7 kV 
+ 
+
+ (b) Visual critical rms line voltage , V_v = 370.9 kV 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH8/EX8.2/Example8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 8.2 : SOLUTION :-   
+ 
+
+ (a) Total fair weather corona loss of the line , P_c = 1811.2 kW 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.1/Example9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.1 : SOLUTION :-   
+ 
+
+ The symmetrical components for the phase voltages V_a , V_b & V_c are
+ 
+
+ V_a0 = 1.47<45.1 V 
+ 
+
+ V_a1 = 3.97<20.5 V 
+ 
+
+ V_a2 = 2.52<-19.7 V 
+ 
+
+ V_b0 = 1.47<45.1 V 
+ 
+
+ V_b1 = 3.97<-99.5 V 
+ 
+
+ V_b2 = 2.52<100.3 V 
+ 
+
+ V_c0 = 1.47<45.1 V 
+ 
+
+ V_c1 = 3.97<140.5 V 
+ 
+
+ V_c2 = 2.52<-139.7 V 
+ 
+ 
+
+ NOTE : V_b1 = 3.97<-99.5 V & V_c2 = 2.52<-139.7 V result obtained is same as textbook answer V_b1 = 3.97<260.5 V & V_c2 = 2.52<220.3 V 
+ 
+
+ Changes is due to a^2 = 1<240 = 1<-120  where 1 is the magnitude & <240 is the angle in degree 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.2/Example9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.2 : SOLUTION :-   
+ 
+
+ (a) Three-phase complex power using equ 9.30 , S_3-Φ = 353.5534<-45 VA 
+ 
+
+ (b) Sequence Voltage matrices , [V_012] =  V 
+ 
+
+     0<90  
+
+     28.8675<90  
+
+     28.8675<-90  
+
+ 
+    Sequence current matrices , [I_012] = A 
+ 
+
+     3.7268<153.4  
+
+     2.3570<165  
+
+     2.3570<-75  
+
+ 
+ (c) Three-phase complex power using equ 9.34 , S_3-Φ = 353.5534<-45 VA 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.3/Example9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.3 : SOLUTION :-   
+ 
+
+ (a) Line impedance matrix , [Z_abc] = 
+ 
+    12.0512 + 55.331269i    3.8112 + 28.255647i     3.8112 + 26.401943i   
+    3.8112 + 28.255647i     12.0512 + 55.331269i    3.8112 + 25.921166i   
+    3.8112 + 26.401943i     3.8112 + 25.921166i     12.0512 + 55.331269i  
+ 
+
+ (b) Sequence impedance matrix of line , [Z_012] = 
+ 
+    19.6736 + 109.05044i      0.5351182 + 0.4692097i  - 0.5351182 + 0.4692097i  
+  - 0.5351182 + 0.4692097i    8.24 + 28.471684i       - 1.0702365 - 0.9384195i  
+    0.5351182 + 0.4692097i    1.0702365 - 0.9384195i    8.24 + 28.471684i       
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.4/Example9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.4 : SOLUTION :-   
+ 
+
+ (a) Line impedance matrix when line is completely transposed , [Z_abc] = 
+ 
+    12.0512 + 55.331269i    3.8112 + 26.859586i     3.8112 + 26.859586i   
+    3.8112 + 26.859586i     12.0512 + 55.331269i    3.8112 + 26.859586i   
+    3.8112 + 26.859586i     3.8112 + 26.859586i     12.0512 + 55.331269i  
+ 
+
+ (b) Sequence impedance matrix when line is completely transposed , [Z_012] = 
+ 
+    19.6736 + 109.05044i    0                    0                  
+    0                       8.24 + 28.471684i    0                  
+    0                       0                    8.24 + 28.471684i  
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.5/Example9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.5 : SOLUTION :-   
+ 
+
+ (a) Per-unit electromagnetic unbalance for zero-sequence , m_0 = 0.61<142.3 percent pu 
+ 
+
+ (b) Approximate value of Per-unit electromagnetic unbalance for negative-sequence , m_0 = 0.64<141.5 percent pu 
+ 
+
+ (c) Per-unit electromagnetic unbalance for negative-sequence , m_2 = 4.79<64.8 percent pu 
+ 
+
+ (d) Approximate value of Per-unit electromagnetic unbalance for negative-sequence , m_2 = 4.80<64.9 percent pu 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.6/Example9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.6 : SOLUTION :-   
+ 
+
+ (a) Matrix of potential coefficients , [P_abc] = 
+ 
+    87.005661    25.709826    21.848     
+    25.709826    87.005661    19.7635    
+    21.848       19.7635      87.005661  
+ 
+
+ (b) Matrix of maxwells coefficients , [C_abc] = 
+ 
+    0.0131056  - 0.0032951  - 0.0025425  
+  - 0.0032951    0.0129473  - 0.0021136  
+  - 0.0025425  - 0.0021136    0.0126120  
+ 
+
+ (c) Matrix of sequence capacitances , [C_012] = 
+ 
+    0.0075876 + 3.411D-20i  - 0.0001598 + 0.0001205i  - 0.0001598 - 0.0001205i  
+  - 0.0001598 - 0.0001205i    0.0155387 + 1.301D-18i    0.0006455 - 0.0005313i  
+  - 0.0001598 + 0.0001205i    0.0006455 + 0.0005313i    0.0155387 + 4.337D-19i  
+ 
+
+ (d) Zero-sequence electrostatic unbalances , d_0 = 0.0129<143.0 
+ 
+
+     Negative-sequence electrostatic unbalances , d_2 = 0.0538<-140.5 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.9/Example9_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.9 : SOLUTION :-   
+ 
+
+ (b) Sequence currents , I_a0 = I_a1 = I_a2 = 0.8438<-87.3 pu A 
+ 
+
+  Phase currents in pu A , [I_af ; I_bf ; I_cf] = pu A 
+ 
+
+    2.5315<-87.3 
+    0.0000<20.6 
+    0.0000<20.6  
+
+ 
+ (c) Sequence voltages are , [V_a0 ; V_a1 ; V_a2 ] = pu V 
+ 
+
+    0.4726<-177.3 
+    0.7794<-0.8 
+    0.3054<-177.3  
+
+ 
+    Phase voltages are , [V_af ; V_bf ; V_cf ] = pu V 
+ 
+
+    0.0479<-87.3 
+    1.1827<-126.6 
+    1.1709<127.5  
+
+ 
+ (d) Line-to-line voltages at fault points are , V_abf = 1.1461<51.9 pu V 
+ 
+
+     Line-to-line voltages at fault points are , V_abf = 1.8782<-89.8 pu V 
+ 
+
+     Line-to-line voltages at fault points are , V_caf = 1.2106<126.2 pu V 
+ 
+ 
+
+ NOTE : ERROR : Calclation mistake in textbook from case(c) onwards 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.10/Example9_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.10 : SOLUTION :-   
+ 
+
+ (b) The sequence current at fault point F , I_a0 = I_a1 = I_a2 = 1.3125<-90 pu A 
+ 
+
+ (c) Sequence currents at the terminals of generator G1 , 
+ 
+
+     I_a0,G_1 = 0.6250<-90 pu A  
+
+     I_a1,G_1 = 0.6563<-90 pu A  
+
+     I_a2,G_1 = 0.6563<-90 pu A  
+
+ 
+ (d) Phase currents at terminal of generator G1 are , [I_af ; I_bf ; I_cf] = pu A 
+ 
+
+       1.9375<-90 
+       0.0313<90 
+       0.0313<90  
+
+ 
+ (e) Sequence voltages at the terminals of generator G1 , [V_a0 ; V_a1 ; V_a2 ] = pu V 
+ 
+
+       0.1637<180.0 
+       0.8359<0.0 
+       0.1641<180.0  
+
+ 
+ (f) Phase voltages at terminal of generator G1 are , [V_af ; V_bf ; V_cf] = pu V 
+ 
+
+       0.5082<0.0 
+       0.9998<-120.0 
+       0.9998<120.0  
+
+ 
+ (g) Sequence currents at the terminals of generator G2 , 
+ 
+
+     I_a0,G_2 = 0<0 pu A  
+
+     I_a1,G_2 = 0.6563<-120 pu A 
+
+     I_a2,G_2 = 0.6563<-60 pu A 
+
+ 
+     Phase currents at terminal of generator G2 are , [I_af ; I_bf ; I_cf] = pu A 
+ 
+
+       1.1367<-90 
+       1.1367<90 
+       0.0000<104  
+
+ 
+     Sequence voltages at the terminals of generator G2 , [V_a0 ; V_a1 ; V_a2 ] = pu V
+ 
+
+        0<0  
+
+        0.8359<-30  
+
+        0.1641<-150  
+
+ 
+     Phase voltages at terminal of generator G2 are , [V_af ; V_bf ; V_cf] = pu V 
+ 
+
+        0.7672<-40.7 
+        0.7672<-139.3 
+        1.0000<90.0  
+ 
+
+ 
+ NOTE : ERROR : Calclation mistake in textbook case(f)  
+
+ In case (g) V_a2 = 0.1641<-150 is same as textbook answer V_a2 = 0.1641<210 , i.e (360-150)=210 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.11/Example9_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.11 :SOLUTION :-   
+ 
+
+ (b) Sequence currents are , 
+ 
+
+  I_a0 = 0 pu A  
+
+  I_a1 = 1.6026<-88.26 pu A  
+
+  I_a2 = 1.6026<91.74 pu A  
+
+ 
+ Phase currents are , [I_af ; I_bf ; I_cf] =  pu A 
+ 
+
+       0.0000<0.0 
+       2.7758<-178.3 
+       2.7758<1.7  
+
+ 
+ (c) Sequence voltages are , [V_a0 ; V_a1 ; V_a2] =  pu V 
+ 
+
+       0.0000<0.0 
+       0.5808<-1.3 
+       0.5800<1.7  
+
+ 
+  Phase voltages are , [V_af ; V_bf ; V_cf] =  pu V 
+ 
+
+       1.1604<0.2 
+       0.6064<-179.7 
+       0.5540<-179.8  
+
+ 
+ (d) Line-to-line voltages at the fault points are 
+ 
+
+     V_abf = 1.7668<0.3 pu V 
+ 
+
+     V_bcf = 0.0525<-178.3 pu V 
+ 
+
+     V_caf = 1.7143<-179.8 pu V 
+ 
+ 
+
+ 
+ NOTE : ERROR : Minor calclation mistake in textbook  
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.12/Example9_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.12 : SOLUTION :-   
+ 
+
+ (b) Sequence currents are , 
+ 
+
+   I_a0 = 0.7989<101.76 pu A  
+
+   I_a1 = 2.0595<-84.57 pu A  
+
+   I_a2 = 1.2685<91.46 pu A  
+
+ 
+   Phase currents are , [I_af ; I_bf ; I_cf] = pu A 
+  
+
+       0.0000<-93.6 
+       3.2674<162.6 
+       2.9651<27.5  
+
+ 
+ (c) Sequence voltages , [V_a0 ; V_a1 ; V_a2] = pu V 
+  
+
+       0.4474<11.8 
+       0.4660<-6.3 
+       0.4591<1.5  
+
+ 
+  Phase voltages , [V_af ; V_bf ; V_cf] = pu V 
+  
+
+       1.3612<2.2 
+       0.1322<125.8 
+       0.1188<74.8  
+
+ 
+ (d) Line-to-line voltages at the fault points are , 
+ 
+
+   V_abf = 1.4387<-2.2 pu V 
+ 
+
+   V_bcf = 0.1089<-176.1 pu V 
+ 
+
+   V_caf = 1.3304<177.3 pu V 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.13/Example9_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.13 : SOLUTION :-   
+ 
+
+ (b) Sequence currents are , 
+ 
+
+     I_a0 = 0.0 pu A  
+
+     I_a1 = 3.8098<-85.9 pu A  
+
+     I_a2 = 0.0 pu A  
+
+ 
+   Phase currents are , [I_af ; I_bf ; I_cf] = pu A 
+  
+
+       3.8098<-85.9 
+       3.8098<154.1 
+       3.8098<34.1  
+
+ 
+ (c) Sequence voltages , [V_a0 ; V_a1 ; V_a2] = pu V 
+  
+
+       0.0000<0.0 
+       0.0720<-85.9 
+       0.0000<0.0  
+
+ 
+    Phase voltages , [V_af ; V_bf ; V_cf] = pu V 
+  
+
+       0.0720<-85.9 
+       0.0720<154.1 
+       0.0720<34.1  
+
+ 
+ (d) Line-to-line voltages at the fault points are , 
+ 
+
+    V_abf = 0.1247<-55.9 pu V 
+ 
+
+    V_bcf = 0.1247<-175.9 pu V 
+ 
+
+    V_caf = 0.1247<64.1 pu V 
+ 
+ 
+
+ 
+ NOTE : ERROR : Calclation mistake in textbook case(d)  
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.14/Example9_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.14 :SOLUTION :-   
+ 
+
+ (a) Admittance matrix associated with positive-sequence network , Y = 
+ 
+    1.354D-16 - 2.2114109i  - 1.472D-17 + 0.2403804i  
+  - 1.472D-17 + 0.2403804i    1.280D-16 - 2.0911752i  
+ 
+
+ (b) Source currents Two-port Thevenin equivalent positive sequence network are , 
+ 
+
+     I_S1 = 2.3077<90 pu  
+
+     I_S2 = 1.9230<90 pu 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.15/Example9_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.15 : SOLUTION :-   
+ 
+
+ (a) [V_a1 ; V_a11] =  
+Real part
+
+ 
+    1.1579311   
+                
+    1.0526811   
+Imaginary part
+
+ 
+  - 0.4052643I_a1   
+                    
+    0.431606I_a1    
+ 
+
+     Values of Uncoupled positive-sequence network 
+ 
+
+ (b) [V_a2 ; V_a22] =  
+Real part
+
+ 
+    0  
+       
+    0  
+Imaginary part
+
+ 
+    0.4052643I_a2   
+                    
+    0.431606I_a2    
+ 
+
+     Values of Uncoupled negative-sequence network 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH9/EX9.16/Example9_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 9.16 :SOLUTION :-   
+ 
+
+ (a) Total zero-sequence susceptance per phase of system at 60 Hz , ΣX_C0 = 17310.8110 Ω 
+ 
+
+     Total zero-sequence capacitance per phase of system at 60 Hz , ΣC_0 = 1.5323e-07 F 
+ 
+
+ (c) Continuous-current rating of the PC , I_PC = 3I_a0PC = 6.9038 A 
+ 
+
+ (d) Required reactance value for the PC , X_PC = 5767.1232 Ω 
+ 
+
+ (e) Inductance value of the PC , L_PC = 15.2978 H 
+ 
+
+ (f) Continuous kVA rating for the PC , S_PC = 274.88 kVA 
+ 
+
+ (g) Continuous-voltage rating for PC , V_PC = 39815.26 V 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH10/EX10.1/Example10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 10.1 : SOLUTION :-   
+ 
+
+ Subtransient fault current for 3-Φ fault in per units = pu 
+ 
+  - 7.1428571i  
+ 
+
+ Subtransient fault current for 3-Φ fault in ampere = 7471 A 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH10/EX10.2/Example10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 10.2 : SOLUTION :-   
+ 
+
+ (a) Maximum possible dc current component , I_fdc_max = 10.1 pu 
+ 
+
+ (b) Total maximum instantaneous current , I_max = 20.2 pu 
+ 
+
+ (c) Momentary current , I_momentary = 11.43 pu 
+ 
+
+ (d) Interrupting rating of a 2-cycle CB , S_interrupting = 250 MVA 
+ 
+
+ (e) Momentary duty of a 2-cycle CB , S_momentary = 285.72 MVA 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH10/EX10.4/Example10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 10.4 : SOLUTION :-   
+ 
+
+ (a) Value of arc resistance at fault point in Ω , R_arc = 14.92 Ω 
+ 
+
+     Value of arc resistance at fault point in pu , R_arc = 0.08 pu 
+ 
+
+ (b) Value of line impedance including the arc resistance , Z_L + R_arc = pu 
+ 
+    0.2183603 + 0.49i  
+ 
+
+ (c) Line impedance angle without arc resistance , Φ = 74.05 degree 
+ 
+
+     Line impedance angle with arc resistance , Φ = 65.98 degree 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH10/EX10.6/Example10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 10.6 : SOLUTION :-   
+ 
+
+ (a) Maximum load current , I_max = 251.02 A 
+ 
+
+ (b) CT ratio , CT = 50.0 
+ 
+
+ (c) VT ratio , VT = 1924.5 
+ 
+
+ (d) Impedance measured by relay  = 0.026 Z_line 
+ 
+
+ (e) Load impedance based on secondary ohms , Z_load = Ω(secondary) 
+ 
+    12.369441 + 5.9907936i  
+ 
+
+ (f) Zone 1 setting of relay R_12 , Z_r = Ω(secondary) 
+ 
+    0.0415692 + 0.4156922i  
+ 
+
+ (g) Zone 2 setting of relay R_12 , Z_r = Ω(secondary) 
+ 
+    0.0623538 + 0.6235383i  
+ 
+
+ (h) Zone 3 setting of relay R_12 , Z_r = Ω(secondary) 
+ 
+    0.1299038 + 1.2990381i  
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH10/EX10.7/Example10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 10.7 : SOLUTION :-   
+ 
+
+ (a) Zone 1 setting of mho relay R_12 = 0.7157 Ω(secondary) 
+ 
+
+ (b) Zone 2 setting of mho relay R_12 = 1.0736 Ω(secondary) 
+ 
+
+ (c) Zone 3 setting of mho relay R_12 = 2.2367 Ω(secondary) 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH12/EX12.1/Example12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 12.1 : SOLUTION :-   
+ 
+
+ Affordable cost of relocating line , B = $ 6679.2 
+ 
+
+  Since actual relocating & rebuilding of line would cost much more than amount found 
+ 
+
+  The distribution engineer decides to keep the status quo 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH12/EX12.2/Example12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 12.2 : SOLUTION :-   
+ 
+
+ (a) Total pressure of wind on pole , P = 107.13 lb 
+ 
+
+ (b) Total pressure of wind on conductors , P = 265.42 lb 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH12/EX12.3/Example12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 12.3 : SOLUTION :-   
+ 
+
+ Minimum required pole circumference at the ground line , c = 35.5 in 
+ 
+
+ Therefore , the nearest standard size pole,which has a ground-line circumference larger than c = 35.5 in , has to be used 
+ 
+
+ Therefore required pole circumference at the ground line to be used is , c = 36 inch 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH12/EX12.4/Example12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 12.4 : SOLUTION :-   
+ 
+
+ (a) Horizontal component of tension in guy wire , T_h = 5513.7 lb 
+ 
+
+ (b) Angle β , β = 67.66 degree 
+ 
+
+ (c) Vertical component of tension in guy wire , T_v = 13416.67 lb 
+ 
+
+ (d) Tension in guy wire , T_g = 14505.4 lb 
+ 
+
+     (or)  From another equation , 
+ 
+
+     Tension in guy wire , T_g = 14505.4 lb 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH13/EX13.1/Example13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 13.1 : SOLUTION :-   
+ 
+
+ (a) Length of conductor using eq 13.6 , l = 502.037 ft 
+ 
+
+  &  Length of conductor using eq 13.8 , l = 502.0345 ft 
+ 
+
+ (b) Sag , d = 19.6 ft 
+ 
+
+ (c) Maximum value of conductor tension using catenary method , T_max = 1264.4 lb 
+ 
+
+     Minimum value of conductor tension using catenary method , T_min = 1249.1 lb 
+ 
+
+ (d) Approximate value of tension using parabolic method , T = 1246.55 lb 
+ 
+ 
+grepthis#Electric_Power_Transmission_System_Engineering_Analysis_And_Design_T._Gonen_1820/CH13/EX13.2/Example13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE :13.2 : SOLUTION :-   
+ 
+
+ (a) Weight of ice in pounds per feet , w_i = 0.9956 lb/ft 
+ 
+
+ (b) Total vertical load on conductor in pounds per feet , W_T = 2.0182 lb/ft 
+ 
+
+ (c) Horizontal wind force in pounds per feet , P = 0.6977 lb/ft 
+ 
+
+ (d) Effective load acting in pounds per feet , w_e = 2.1354 lb/ft 
+ 
+
+ (e) Sag in feet , d = 4.68 ft 
+ 
+
+ (f) Vertical Sag in feet  = 4.43 ft 
+ 
+ 

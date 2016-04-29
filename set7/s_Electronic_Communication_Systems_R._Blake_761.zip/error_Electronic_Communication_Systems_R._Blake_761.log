@@ -1,0 +1,73 @@
+ERROR: Electronic_Communication_Systems_R._Blake_761/CH15/EX15.9/15_9.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+disp('km',d,'a)The max commn dist betn dispatcher & taxi');
+            !--error 4 
+Undefined variable: d
+at line       8 of exec file called by :    
+s_R._Blake_761/CH15/EX15.9/15_9.sce',-1
+ 
+ERROR: Electronic_Communication_Systems_R._Blake_761/CH17/EX17.7/17_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+sig_level_main=signal_in-loss;
+                 !--error 4 
+Undefined variable: signal_in
+at line       7 of exec file called by :    
+s_R._Blake_761/CH17/EX17.7/17_7.sce',-1
+ 
+ERROR: Electronic_Communication_Systems_R._Blake_761/CH17/EX17.13.b/17_13_b.sce
+ 
+ 
+ 
+ 
+ 
+ 
+Rmax=c/(2*f);
+       !--error 4 
+Undefined variable: c
+at line       7 of exec file called by :    
+lake_761/CH17/EX17.13.b/17_13_b.sce',-1
+ 
+ERROR: Electronic_Communication_Systems_R._Blake_761/CH18/EX18.1/18_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The height of each tower must be at least   
+ 
+    23.529412  
+ 
+ m   
+disp('m',h,'The height of each tower must be at least')l;
+                                                          !--error 276 
+Missing operator, comma, or semicolon.
+at line       7 of exec file called by :    
+s_R._Blake_761/CH18/EX18.1/18_1.sce',-1
+ 
+ 
+ERROR: Electronic_Communication_Systems_R._Blake_761/CH19/EX19.5/19_5.sce
+ 
+ 
+ 
+ 
+ !--error 10000 
+unix_w: The command failed with the error code "127" and the following message:
+sh: 1: ..../////: not found
+at line      51 of function unix_w called by :  
+unix_w('....///// refer table 19.1///////.......')
+at line       4 of exec file called by :    
+s_R._Blake_761/CH19/EX19.5/19_5.sce',-1
+ 

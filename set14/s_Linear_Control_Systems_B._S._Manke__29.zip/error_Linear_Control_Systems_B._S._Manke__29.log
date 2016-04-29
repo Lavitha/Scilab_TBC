@@ -1,0 +1,2074 @@
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX1.0/exa1.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+      s     
+    -----   
+    1 + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(g,200)
+at line       7 of exec file called by :    
+_B._S._Manke__29/CH7/EX1.0/exa1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.10/exa1_6_10.sce
+ 
+ 
+ 
+syms t s;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH1/EX1.6.10/exa1_6_10.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.1.iii/exa1_6_1_iii.sce
+ 
+ 
+ 
+ 
+ 
+syms t ;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+29/CH1/EX1.6.1.iii/exa1_6_1_iii.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.1.ii/exa1_6_1_ii.sce
+ 
+ 
+ 
+ 
+ 
+syms t ;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+__29/CH1/EX1.6.1.ii/exa1_6_1_ii.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.1.i/exa1_6_1_i.sce
+ 
+ 
+ 
+ 
+ 
+syms t ;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+ke__29/CH1/EX1.6.1.i/exa1_6_1_i.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.1.iv/exa1_6_1_iv.sce
+ 
+ 
+ 
+ 
+ 
+syms t ;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+__29/CH1/EX1.6.1.iv/exa1_6_1_iv.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.1.vi/exa1_6_1_vi.sce
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+__29/CH1/EX1.6.1.vi/exa1_6_1_vi.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.1.v/exa1_6_1_v.sce
+ 
+ 
+ 
+ 
+ 
+syms t ;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+ke__29/CH1/EX1.6.1.v/exa1_6_1_v.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.2/exa1_6_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH1/EX1.6.2/exa1_6_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.3/exa1_6_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH1/EX1.6.3/exa1_6_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.4/exa1_6_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH1/EX1.6.4/exa1_6_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.5/exa1_6_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH1/EX1.6.5/exa1_6_5.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.7/exa1_6_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+syms s
+  !--error 4 
+Undefined variable: syms
+at line       8 of exec file called by :    
+_Manke__29/CH1/EX1.6.7/exa1_6_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.8/exa1_6_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+syms s
+  !--error 4 
+Undefined variable: syms
+at line       8 of exec file called by :    
+_Manke__29/CH1/EX1.6.8/exa1_6_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH1/EX1.6.9/exa1_6_9.sce
+ 
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+_Manke__29/CH1/EX1.6.9/exa1_6_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX2.0/exa2.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+      1      
+    -----    
+          2  
+    4s + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(g,200)
+at line       7 of exec file called by :    
+_B._S._Manke__29/CH7/EX2.0/exa2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH2/EX2.4.1/exa2_4_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ G(s)=   
+ 
+                 2       3  
+    2 + 5s + 0.5s + 1.25s   
+    ---------------------   
+               2      3     
+      2 + s + s + 0.5s      
+ 
+ !--error 4 
+Undefined variable: gcf
+at line      68 of function plzr called by :  
+x=plzr(G)
+at line       8 of exec file called by :    
+_Manke__29/CH2/EX2.4.1/exa2_4_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH2/EX2.4.2/exa2_4_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       8 of exec file called by :    
+_Manke__29/CH2/EX2.4.2/exa2_4_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX3.0/exa3.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+         1        
+    -----------   
+           2   3  
+    3s + 4s + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(g,200)
+at line       7 of exec file called by :    
+_B._S._Manke__29/CH7/EX3.0/exa3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.10/exa3_2_10.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 G5 H1 H2 H3;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH3/EX3.2.10/exa3_2_10.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.11/exa3_2_11.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 H1 H2 H3;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH3/EX3.2.11/exa3_2_11.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.12/exa3_2_12.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 H1 H2 H3;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH3/EX3.2.12/exa3_2_12.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.13/exa3_2_13.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH3/EX3.2.13/exa3_2_13.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.14/exa3_2_14.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 H1 H2 R D;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH3/EX3.2.14/exa3_2_14.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.15/exa3_2_15.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 H1 H2 H3 D1 D2 R;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH3/EX3.2.15/exa3_2_15.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.1/exa3_2_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.1/exa3_2_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.2/exa3_2_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.2/exa3_2_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.3/exa3_2_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 G5 G6 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.3/exa3_2_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.4/exa3_2_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.4/exa3_2_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.5/exa3_2_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 H1 H2 H3;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.5/exa3_2_5.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.6/exa3_2_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.6/exa3_2_6.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.7/exa3_2_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.7/exa3_2_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.8/exa3_2_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 G5 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.8/exa3_2_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH3/EX3.2.9/exa3_2_9.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 G5 H1 H2 H3;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH3/EX3.2.9/exa3_2_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.3.1/exa4_3_1.sce
+ 
+ 
+ 
+syms G1 G2 H1;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.3.1/exa4_3_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.3.2/exa4_3_2.sce
+ 
+ 
+ 
+syms G1 G2 H1;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.3.2/exa4_3_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.10/exa4_4_10.sce
+ 
+ 
+ 
+syms G1 G2 G3 G4 G5 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH4/EX4.4.10/exa4_4_10.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.1/exa4_4_1.sce
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.1/exa4_4_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.2/exa4_4_2.sce
+ 
+ 
+ 
+syms a b c d e f g h
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.2/exa4_4_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.3/exa4_4_3.sce
+ 
+ 
+ 
+syms a b c d e f g h ij
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.3/exa4_4_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.4/exa4_4_4.sce
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.4/exa4_4_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.5/exa4_4_5.sce
+ 
+ 
+ 
+syms G1 G2 G3 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.5/exa4_4_5.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.6/exa4_4_6.sce
+ 
+ 
+ 
+syms G1 G2 G3 G4 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.6/exa4_4_6.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.7/exa4_4_7.sce
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.7/exa4_4_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.8/exa4_4_8.sce
+ 
+ 
+ 
+syms G1 G2 G3 G4 G5 H1 H2;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH4/EX4.4.8/exa4_4_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH4/EX4.4.9/exa4_4_9.sce
+ 
+ 
+ 
+ 
+exec parallel.sce;
+ !--error 241 
+File "parallel.sce" does not exist.
+at line       5 of exec file called by :    
+_Manke__29/CH4/EX4.4.9/exa4_4_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.10/exa5_9_10.sce
+ 
+ 
+ 
+syms Ra Kt Jm fm Kb
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH5/EX5.9.10/exa5_9_10.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.11/exa5_9_11.sce
+ 
+ 
+ 
+syms Ka Ke Kb Kt Jeq feq Ra N1 N2
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH5/EX5.9.11/exa5_9_11.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.12/exa5_9_12.sce
+ 
+ 
+ 
+syms Ka Ke Kf Rf Lf Jeq feq  N1 N2
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH5/EX5.9.12/exa5_9_12.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.13/exa5_9_13.sce
+ 
+ 
+ 
+syms Ka K Ktg Jeq feq  N1 N2 m
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH5/EX5.9.13/exa5_9_13.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.14/exa5_9_14.sce
+ 
+ 
+ 
+syms Kt Kb Ra La J
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH5/EX5.9.14/exa5_9_14.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.4/exa5_9_4.sce
+ 
+ 
+ 
+exec series.sce;
+ !--error 241 
+File "series.sce" does not exist.
+at line       4 of exec file called by :    
+_Manke__29/CH5/EX5.9.4/exa5_9_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.5/exa5_9_5.sce
+ 
+ 
+ 
+exec series.sce;
+ !--error 241 
+File "series.sce" does not exist.
+at line       4 of exec file called by :    
+_Manke__29/CH5/EX5.9.5/exa5_9_5.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.6/exa5_9_6.sce
+ 
+ 
+ 
+ 
+ 
+syms Rl Ra Ka Er e;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+_Manke__29/CH5/EX5.9.6/exa5_9_6.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.7/exa5_9_7.sce
+ 
+ 
+ 
+syms E Vf Kg R L
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH5/EX5.9.7/exa5_9_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.8/exa5_9_8.sce
+ 
+ 
+ 
+syms Rf Ra Kb Jm Lf La Kg Kt Jl s
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH5/EX5.9.8/exa5_9_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH5/EX5.9.9/exa5_9_9.sce
+ 
+ 
+ 
+syms Ka Ke Kt J f N1 N2
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+_Manke__29/CH5/EX5.9.9/exa5_9_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.10/exa6_10_10.sce
+ 
+ 
+ 
+ 
+syms J f s
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.10/exa6_10_10.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.11/exa6_10_11.sce
+ 
+ 
+ 
+ 
+syms f J K Kt
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.11/exa6_10_11.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.12/exa6_10_12.sce
+ 
+ 
+ 
+ 
+ 
+G=sym('25/(s*(s+5))');
+                      !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+ke__29/CH6/EX6.10.12/exa6_10_12.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.13/exa6_10_13.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.13/exa6_10_13.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.14/exa6_10_14.sce
+ 
+ 
+ 
+ 
+ 
+ 
+A=sym('1/(0.15*s^2+0.9*s)');
+                            !--error 4 
+Undefined variable: sym
+at line       7 of exec file called by :    
+ke__29/CH6/EX6.10.14/exa6_10_14.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.16/exa6_10_16.sce
+ 
+ 
+ 
+ 
+ 
+den=sym('s*(1+0.5*s)*(1+0.2*s)');
+                                 !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+ke__29/CH6/EX6.10.16/exa6_10_16.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.17/exa6_10_17.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.17/exa6_10_17.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.18/exa6_10_18.sce
+ 
+ 
+ 
+ 
+syms t K zeta Wn;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.18/exa6_10_18.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.19/exa6_10_19.sce
+ 
+ 
+ 
+ 
+syms K bta alpha G
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.19/exa6_10_19.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.1/exa6_10_1.sce
+ 
+ 
+ 
+ 
+exec parallel.sce;
+ !--error 241 
+File "parallel.sce" does not exist.
+at line       5 of exec file called by :    
+anke__29/CH6/EX6.10.1/exa6_10_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.20/exa6_10_20.sce
+ 
+ 
+ 
+ 
+syms t a0 a1 a2;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.20/exa6_10_20.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.21/exa6_10_21.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.21/exa6_10_21.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.22/exa6_10_22.sce
+ 
+ 
+ 
+ 
+syms G H
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH6/EX6.10.22/exa6_10_22.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.23/exa6_10_23.sce
+ 
+ 
+ 
+syms Wn zeta K H;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+ke__29/CH6/EX6.10.23/exa6_10_23.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.2/exa6_10_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH6/EX6.10.2/exa6_10_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.3/exa6_10_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+anke__29/CH6/EX6.10.3/exa6_10_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.4/exa6_10_4.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+anke__29/CH6/EX6.10.4/exa6_10_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.6/exa6_10_6.sce
+ 
+ 
+ 
+ 
+ 
+syms Kt J f t
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+anke__29/CH6/EX6.10.6/exa6_10_6.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.7/exa6_10_7.sce
+ 
+ 
+ 
+syms T K //K=forward_path_gain,T=time_constant
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+anke__29/CH6/EX6.10.7/exa6_10_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.8/exa6_10_8.sce
+ 
+ 
+ 
+ 
+syms Tm J f t E s
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+anke__29/CH6/EX6.10.8/exa6_10_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.9/exa6_10_9.sce
+ 
+ 
+ 
+ 
+syms J f K s zeta Wn
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+anke__29/CH6/EX6.10.9/exa6_10_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.4/exa7_5_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+syms eps;
+  !--error 4 
+Undefined variable: syms
+at line      12 of exec file called by :    
+_Manke__29/CH7/EX7.5.4/exa7_5_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.5/exa7_5_5.sce
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+  - 8.  - 4.    2.    3.    5.    1.    1.  
+ 
+ n  =
+ 
+    7.  
+ 
+ 
+ 
+ c  =
+ 
+    1.    2.  
+    1.  - 4.  
+ 
+ d  =
+ 
+    1.  - 8.  
+    1.    0.  
+ 
+ 
+ 
+ e  =
+ 
+    1.    3.  
+    2.    6.  
+ 
+ f  =
+ 
+    1.  - 4.  
+    2.  - 8.  
+ 
+ 
+ 
+ since all elements of fourth row are zero, so we make auxiliary equation   
+ 
+A=sym('2*s^4+6*s^2-8')
+                       !--error 4 
+Undefined variable: sym
+at line      18 of exec file called by :    
+_Manke__29/CH7/EX7.5.5/exa7_5_5.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.6/exa7_5_6.sce
+ 
+ 
+ 
+ 
+syms T
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+_Manke__29/CH7/EX7.5.6/exa7_5_6.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.7.a/exa7_5_7_a.sce
+ 
+ 
+ 
+ 
+syms T K
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH7/EX7.5.7.a/exa7_5_7_a.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.7.b/exa7_5_7_b.sce
+ 
+ 
+ 
+ 
+syms K s1;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH7/EX7.5.7.b/exa7_5_7_b.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.8/exa7_5_8.sce
+ 
+ 
+ 
+ 
+syms K T1 T2;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+_Manke__29/CH7/EX7.5.8/exa7_5_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.9/exa7_17_9.sce
+ 
+ 
+ 
+ 
+syms w;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+anke__29/CH7/EX7.17.9/exa7_17_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.19.2/exa7_19_2.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+       0.5 + 2s       
+    --------------    
+        2      3   4  
+    0.5s + 1.5s + s   
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     101 of function bode called by :  
+bode(G, fmin, fmax)
+at line       9 of exec file called by :    
+anke__29/CH7/EX7.19.2/exa7_19_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.10/exa7_24_10.sce
+ 
+ 
+ 
+syms Ka Ke Kf Rf Lf eq  N1 N2 N3 N4 N5
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+ke__29/CH7/EX7.24.10/exa7_24_10.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.11/exa7_24_11.sce
+ 
+ 
+ 
+ 
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+ke__29/CH7/EX7.24.11/exa7_24_11.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.1/exa7_24_1.sce
+ 
+ 
+ 
+ 
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+anke__29/CH7/EX7.24.1/exa7_24_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.2/exa7_24_2.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+anke__29/CH7/EX7.24.2/exa7_24_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.3/exa7_24_3.sce
+ 
+ 
+ 
+ 
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+anke__29/CH7/EX7.24.3/exa7_24_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.4/exa7_24_4.sce
+ 
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+anke__29/CH7/EX7.24.4/exa7_24_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.7/exa7_24_7.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+anke__29/CH7/EX7.24.7/exa7_24_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.8/exa7_24_8.sce
+ 
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+anke__29/CH7/EX7.24.8/exa7_24_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.9/exa7_24_9.sce
+ 
+ 
+ 
+ 
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+anke__29/CH7/EX7.24.9/exa7_24_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.11/exa9_10_11.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+ke__29/CH9/EX9.10.11/exa9_10_11.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.12.ii/exa9_10_12_ii.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+/CH9/EX9.10.12.ii/exa9_10_12_ii.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.12.i/exa9_10_12_i.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+29/CH9/EX9.10.12.i/exa9_10_12_i.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.13/exa9_10_13.sce
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+ke__29/CH9/EX9.10.13/exa9_10_13.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.14/exa9_10_14.sce
+ 
+ 
+ 
+syms m11 m22 m21 m12 t;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+ke__29/CH9/EX9.10.14/exa9_10_14.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.15/exa9_10_15.sce
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+ke__29/CH9/EX9.10.15/exa9_10_15.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.2/exa11_2.sce
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+._Manke__29/CH11/EX11.2/exa11_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.3/exa11_3.sce
+ 
+ 
+ 
+syms G1 G2 G3 H1;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+._Manke__29/CH11/EX11.3/exa11_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.4/exa11_4.sce
+ 
+ 
+ 
+ 
+ 
+den=sym('s*(1+0.5*s)*(1+0.2*s)');
+                                 !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+._Manke__29/CH11/EX11.4/exa11_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.5/exa11_6.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH11/EX11.5/exa11_6.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.7/exa11_7.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH11/EX11.7/exa11_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.8/exa11_8.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH11/EX11.8/exa11_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.9/exa11_9.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH11/EX11.9/exa11_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.10.b/exa11_10_b.sce
+ 
+ 
+ 
+ 
+syms Td
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+e__29/CH11/EX11.10.b/exa11_10_b.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.11/exa11_11.sce
+ 
+ 
+ 
+syms G1 G2 G3 H1 t;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+Manke__29/CH11/EX11.11/exa11_11.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.12/exa11_12.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH11/EX11.12/exa11_12.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.13/exa11_13.sce
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+Manke__29/CH11/EX11.13/exa11_13.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.14/exa11_14.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH11/EX11.14/exa11_14.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.15/exa11_15.sce
+ 
+ 
+ 
+ 
+G=sym('25/(s*(s+5))');
+                      !--error 4 
+Undefined variable: sym
+at line       5 of exec file called by :    
+Manke__29/CH11/EX11.15/exa11_15.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.16/exa11_16.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH11/EX11.16/exa11_16.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.17/exa11_17.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH11/EX11.17/exa11_17.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.18/exa11_18.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH11/EX11.18/exa11_18.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.19/exa11_19.sce
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+Manke__29/CH11/EX11.19/exa11_19.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.21.a/exa11_21_a.sce
+ 
+ 
+ 
+ 
+ num  =
+ 
+    210.  
+ 
+den=sym('s*(s+2)*(s^2+12*s+6)');
+                                !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+e__29/CH11/EX11.21.a/exa11_21_a.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.22/exa11_22.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+       0.5 + 2s       
+    --------------    
+        2      3   4  
+    0.5s + 1.5s + s   
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     101 of function bode called by :  
+bode(G, fmin, fmax)
+at line       9 of exec file called by :    
+Manke__29/CH11/EX11.22/exa11_22.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.27/exa11_27.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+         2  
+    4 + s   
+    -----   
+         2  
+    s + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(g,200)
+at line       8 of exec file called by :    
+Manke__29/CH11/EX11.27/exa11_27.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.28/exa11_28.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+           1           
+    ---------------    
+           2    3   4  
+    4s + 6s + 4s + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(g,200)
+at line       8 of exec file called by :    
+Manke__29/CH11/EX11.28/exa11_28.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.29/exa11_29.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+         1        
+    -----------   
+           2   3  
+    3s + 4s + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(g,200)
+at line       7 of exec file called by :    
+Manke__29/CH11/EX11.29/exa11_29.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.30/exa11_30.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+            1            
+    -----------------    
+             2    3   4  
+    52s + 29s + 8s + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(g,200)
+at line       7 of exec file called by :    
+Manke__29/CH11/EX11.30/exa11_30.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.32/exa11_32.sce
+ 
+ 
+ 
+ 
+ 
+ den  =
+ 
+            2   3  
+    10s + 7s + s   
+ 
+ g  =
+ 
+         20        
+    ------------   
+            2   3  
+    10s + 7s + s   
+ 
+ G  =
+ 
+         20        
+    ------------   
+            2   3  
+    10s + 7s + s   
+ 
+ fmin  =
+ 
+    0.01  
+ 
+ fmax  =
+ 
+    100.  
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     133 of function black called by :  
+black(G,fmin,fmax)
+at line      11 of exec file called by :    
+Manke__29/CH11/EX11.32/exa11_32.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.36/exa11_36.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH11/EX11.36/exa11_36.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.1/exa12_1.sce
+ 
+ 
+ 
+ 
+syms G H;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.1/exa12_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.2/exa12_2.sce
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.2/exa12_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.3/exa12_3.sce
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 H2 H1 H3
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.3/exa12_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.4/exa12_4.sce
+ 
+ 
+ 
+ 
+syms G1 G2
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.4/exa12_4.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.5/exa12_5.sce
+ 
+ 
+ 
+ 
+syms G1 G2 G3 G4 G5 H1 H2
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.5/exa12_5.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.7/exa12_7.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.7/exa12_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.8/exa12_8.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.8/exa12_8.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.9/exa12_9.sce
+ 
+ 
+ 
+ 
+syms t K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+._Manke__29/CH12/EX12.9/exa12_9.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.10/exa12_10.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.10/exa12_10.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.11/exa12_11.sce
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.11/exa12_11.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.12/exa12_12.sce
+ 
+ 
+ 
+ 
+G=sym('20/(s*(s^2+6*s+6))');
+                            !--error 4 
+Undefined variable: sym
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.12/exa12_12.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.13/exa12_13.sce
+ 
+ 
+ 
+syms Kp K Kd T
+  !--error 4 
+Undefined variable: syms
+at line       4 of exec file called by :    
+Manke__29/CH12/EX12.13/exa12_13.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.15/exa12_15.sce
+ 
+ 
+ 
+ 
+syms  K
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.15/exa12_15.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.16/exa12_16.sce
+ 
+ 
+ 
+ 
+syms  K
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.16/exa12_16.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.17/exa12_17.sce
+ 
+ 
+ 
+ 
+syms  K
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.17/exa12_17.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.18/exa12_18.sce
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    1.    1.    4.    4.    1.    1.  
+ 
+ n  =
+ 
+    6.  
+ 
+ routh  =
+ 
+    1.    4.    1.  
+    1.    4.    1.  
+ 
+ 
+ c  =
+ 
+    1.    1.  
+    1.    1.  
+ 
+ routh  =
+ 
+    1.    4.    1.  
+    1.    4.    1.  
+    0.    0.    0.  
+ 
+ 
+ since all elements of third row are zero, so we make auxiliary equation   
+ 
+A=sym('s^4+4*s^2+1')//auxiliary equation
+                     !--error 4 
+Undefined variable: sym
+at line      13 of exec file called by :    
+Manke__29/CH12/EX12.18/exa12_18.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.19/exa12_19.sce
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    4.    4.    4.    4.    1.    1.  
+ 
+ n  =
+ 
+    6.  
+ 
+ routh  =
+ 
+    1.    4.    4.  
+    1.    4.    4.  
+ 
+ 
+ c  =
+ 
+    1.    4.  
+    1.    4.  
+ 
+ routh  =
+ 
+    1.    4.    4.  
+    1.    4.    4.  
+    0.    0.    0.  
+ 
+ 
+ since all elements of third row are zero, so we make auxiliary equation   
+ 
+A=sym('s^4+4*s^2+4')//auxiliary equation
+                     !--error 4 
+Undefined variable: sym
+at line      13 of exec file called by :    
+Manke__29/CH12/EX12.19/exa12_19.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.21/exa12_21.sce
+ 
+ 
+ 
+ 
+syms  K
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.21/exa12_21.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.33/exa12_33.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+        900 + 720s        
+    ------------------    
+             2     3   4  
+    90s + 29s + 12s + s   
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     101 of function bode called by :  
+bode(G, fmin, fmax)
+at line       9 of exec file called by :    
+Manke__29/CH12/EX12.33/exa12_33.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.42/exa12_42.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.42/exa12_42.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.43/exa12_43.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.43/exa12_43.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.44/exa12_44.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.44/exa12_44.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.45/exa12_45.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.45/exa12_45.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.46/exa12_46.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.46/exa12_46.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.48/exa12_48.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.48/exa12_48.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.49/exa12_49.sce
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.49/exa12_49.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.50/exa12_50.sce
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ K  =
+ 
+    8.  
+ 
+ G  =
+ 
+      8      
+    -----    
+          2  
+    4s + s   
+ 
+ 
+ GH  =
+ 
+      8      
+    -----    
+          2  
+    4s + s   
+ 
+ G  =
+ 
+      8      
+    -----    
+          2  
+    4s + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G,8)
+at line      10 of exec file called by :    
+Manke__29/CH12/EX12.50/exa12_50.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.51/exa12_51.sce
+ 
+ 
+ 
+ 
+ K  =
+ 
+    3.46  
+ 
+ G  =
+ 
+       3.46       
+    ----------    
+           2   3  
+    2s + 3s + s   
+ 
+ G  =
+ 
+       3.46       
+    ----------    
+           2   3  
+    2s + 3s + s   
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G,20)
+at line       9 of exec file called by :    
+Manke__29/CH12/EX12.51/exa12_51.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.56/exa12_56.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.56/exa12_56.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.57/exa12_57.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.57/exa12_57.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.59/exa12_59.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.59/exa12_59.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.61/exa12_61.sce
+ 
+ 
+ 
+ 
+syms t
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+Manke__29/CH12/EX12.61/exa12_61.sce',-1
+ 

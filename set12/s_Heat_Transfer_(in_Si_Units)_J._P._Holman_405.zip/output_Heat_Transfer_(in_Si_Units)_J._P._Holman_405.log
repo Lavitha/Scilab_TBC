@@ -1,0 +1,3122 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 125
+
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH1/EX1.1/1_1.sce #
+ 
+ 
+			Example Number 1.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rate of heat transfer per unit area is 3.700000 MW/square meter 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH1/EX1.2/1_2.sce #
+ 
+ 
+			Example Number 1.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rate of heat transfer is 2.156250 kW 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH1/EX1.3/1_3.sce #
+ 
+ 
+			Example Number 1.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the inside plate temperature is therefore 253.046202 degree celsius 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH1/EX1.4/1_4.sce #
+ 
+ 
+			Example Number 1.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer is therefore 22.000000 W 
+ this is equal to the electric power which must be applied 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH1/EX1.5/1_5.sce #
+ 
+ 
+			Example Number 1.5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer per unit area is 69.435875 kW/square meter 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH1/EX1.6/1_6.sce #
+ 
+ 
+			Example Number 1.6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total heat loss is therefore 55.726274 W/m 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.1/2_1.sce #
+ 
+ 
+			Example Number 2.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+length of thickness is 5.745536 cm added to reduce the heat loss(or gain) through wall by 80 percent 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.2/2_2.sce #
+ 
+ 
+			Example Number 2.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat flow is given by 680.576293 W/m 
+
+ the interface temperature is 596.501393 degree celsius  
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.3/2_3.sce #
+ 
+ 
+			Example Number 2.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total thermal resistance through the wood stud section is 31.387822 degree celsius /W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ total thermal resistance through the insulation section is 7.340305 degree celsius /W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ overall heat transfer coefficient is 0.414024 W/square meter per degree celsius 
+
+ R value is 2.415321 square meter/W 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.4/2_4.sce #
+ 
+ 
+			Example Number 2.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+overall heat transfer coefficient is 7.579516 W/square meter degree celsius 
+ 
+ 
+ 
+ 
+
+ heat loss per unit length is 19.001779 W(for 1m length) 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.5/2_5.sce #
+ 
+ 
+			Example Number 2.5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+critical radius of insulation for asbestos is 5.666667 cm  
+ 
+ 
+ 
+
+ heat loss when covered with critical radius of insulation is 105.684930 W/m 
+ 
+ 
+
+ heat loss without  insulation is 84.780000 W/m 
+ 
+
+ so the addition of 3.17 of insulation actually increases the heat transfer by 24.657856 percent 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.6/2_6.sce #
+ 
+ 
+			Example Number 2.6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+center temperature of the wire is 231.717718 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.8/2_8.sce #
+ 
+ 
+			Example Number 2.8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat loss from the fin per unit length is 360.440573 W/m 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH2/EX2.11/2_11.sce #
+ 
+ 
+			Example Number 2.11
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+overall heat flow is 5.523219 W 
+ 
+ 
+ 
+
+the temperature drop across the contact is 4.303221 degree celsius 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH3/EX3.1/3_1.sce #
+ 
+ 
+			Example Number 3.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat lost by the pipe is 859.865533 W 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH3/EX3.2/3_2.sce #
+ 
+ 
+			Example Number 3.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat lost through the walls is 8.592480 kW 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH3/EX3.3/3_3.sce #
+ 
+ 
+			Example Number 3.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat lost by disk is 198.457963 W 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH3/EX3.4/3_4.sce #
+ 
+ 
+			Example Number 3.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer between the disks is 308.427070 W 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH3/EX3.5/3_5.sce #
+ 
+ 
+			Example Number 3.5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The nodal temperature of node 1 to 9 is shown below respectively 
+ 
+    280.66944  
+    330.29806  
+    309.37661  
+    192.3797   
+    231.14619  
+    217.19263  
+    157.70316  
+    184.71438  
+    175.6206   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ heat conducted into the top face is 4843.441969 W/m 
+
+ total heat flow out is 4834.365179 W/m 
+
+ this compares that heat flow into the system is equal to the heat flow out of the system  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH3/EX3.7/3_7.sce #
+ 
+ 
+			Example Number 3.7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+thirteen iterations are now tabulated :
+ 
+ 
+ 
+         column 1 to 6
+ 
+    233.288      231.00633    230.49733    229.39791    228.57888    228.00987  
+    227.71833    227.20933    226.10991    225.29088    224.72187    224.32973  
+    220.37733    218.9827     218.30386    217.85987    217.55615    217.34723  
+    208.01495    207.61649    207.42253    207.29568    207.2089     207.14921  
+ 
+         column  7 to 12
+ 
+    227.61773    227.34773    227.16186    227.03389    226.9458     226.88516  
+    224.05973    223.87386    223.74589    223.6578     223.59716    223.55541  
+    217.20342    217.10441    217.03626    216.98934    216.95704    216.9348   
+    207.10812    207.07983    207.06036    207.04695    207.03772    207.03137  
+ 
+         column 13
+ 
+    226.84341  
+    223.52667  
+    216.91949  
+    207.027    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ the total heat loss from the wire by the conduction through Rmplus at node 4 is 6.291649 kW/m 
+
+
+ heat generated in the wire is 6.283185 kW/m 
+
+
+ the difference between the two values results from the inaccuracy in determination of T4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH4/EX4.1/4_1.sce #
+ 
+ 
+			Example Number 4.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+time required to attain the temperature of 150 by degree celsius by the ball is 1.616186 h 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH4/EX4.2/4_2.sce #
+ 
+ 
+			Example Number 4.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+temperature at depth of 0.025 m after 30 second for case 1 is 118.498982 degree celsius 
+ 
+ 
+ 
+ 
+
+ temperature at depth of 0.025 m after 30 second for case 2 is 79.314159 degree celsius 
+ 
+ 
+ 
+
+ surface temperature after 30 second is 199.443673 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH4/EX4.3/4_3.sce #
+ 
+ 
+			Example Number 4.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+surface temperature at x = 0 and at t = 2 second is 570.067642 degree celsius 
+ 
+ 
+
+ temperature at depth 0.002 m and after 2 second is 513.129086 degree celsius 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH4/EX4.4/4_4.sce #
+ 
+ 
+			Example Number 4.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+time taken to attain the temperature of 120 degree celsius 37.731806 s 
+ 
+ 
+ 
+ 
+
+ the total heat removed from the surface is -2.113737e+07 J/square meter 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH4/EX4.12/4_12.sce #
+ 
+ 
+			Example Number 4.12
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ temperatures after time increment 1 are: 
+
+
+		 T1' == 145.813195 
+
+
+		 T2' == 130.121330 
+
+
+		 T3' == 125.440901 
+
+
+		 T4' == 123.582812 
+
+
+ temperatures after time increment 2 are: 
+
+
+		 T1'' == 123.806242 
+
+
+		 T2'' == 97.270649 
+
+
+		 T3'' == 88.321750 
+
+
+		 T4'' == 85.601993 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.1/5_1.sce #
+ 
+ 
+			Example Number 5.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the increase in static pressure between sections 1 and 2 is 61.884377 kPa 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.2/5_2.sce #
+ 
+ 
+			Example Number 5.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the static temperature is 528.373881 K 
+ 
+ 
+
+
+ static pressure is 0.526567 MPa 
+ 
+ 
+ 
+ 
+
+
+ Mach number is 0.651095 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.3/5_3.sce #
+ 
+ 
+			Example Number 5.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dm  =
+ 
+    0.0035439  
+ 
+ mass flow entering the boundary layer is 3.543940e-03 kg/s 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.4/5_4.sce #
+ 
+ 
+			Example Number 5.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the heat transfered in first case of the plate is  81.185395 W 
+
+
+ and the heat transfered in second case of the plate is  114.813487 W 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.5/5_5.sce #
+ 
+ 
+			Example Number 5.5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+average temperature difference along the plate is 240.757757 degree celsius 
+
+
+ temperature difference at the trailing edge is 365.382830 degree celsius 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.6/5_6.sce #
+ 
+ 
+			Example Number 5.6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the heat lost by the plate is 42.567826 W 
+ 
+ 
+
+
+ the average value of heat transfer coefficient over the heated length is given by 42.567826 W/square meter degree celsius 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.7/5_7.sce #
+ 
+ 
+			Example Number 5.7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+average value of the convection coefficient is 219.146830 W/square meter degree celsius 
+
+
+ and the heat lost by the plate is 350.634927 W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.8/5_8.sce #
+ 
+ 
+			Example Number 5.8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drag force exerted on the first 0.4 m of the plate is 5.453100 mN 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.9/5_9.sce #
+ 
+ 
+			Example Number 5.9
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer from plate is 2367.956835 W 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.10/5_10.sce #
+ 
+ 
+			Example Number 5.10
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+turbulent-boundary-layer thickness at the end of the plate from the leading edge of the plate is 16.510185 mm 
+
+
+ turbulent-boundary-layer thickness at the end of the plate from the transition point at Re_crit = 5*10^(5) is 9.906193 mm 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH5/EX5.11/5_11.sce #
+ 
+ 
+			Example Number 5.11
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pr  =
+ 
+    0.7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the total amount of cooling required is the sum of the heat transfers for the laminar and turbulent portions is 19457.606465 W 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.1/6_1.sce #
+ 
+ 
+			Example Number 6.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reynolds number is   
+ 
+    14749.132  
+ 
+ 
+ so that the flow is turbulent   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ heat transfer per unit length is 103.458701 W/m 
+
+
+ bulk temperature increase over the length of 3 m on tube is 40.044348 degree celsius  
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.2/6_2.sce #
+ 
+ 
+			Example Number 6.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reynolds number is   
+ 
+    1062.3779  
+ 
+ 
+ so that the flow is laminar   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ the exit water temperature is 71.940536 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.4/6_4.sce #
+ 
+ 
+			Example Number 6.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reynolds number is   
+ 
+    823.27113  
+ 
+ 
+ so that the flow is laminar   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ exit wall temperature is 128.655661 degree celsius 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.7/6_7.sce #
+ 
+ 
+			Example Number 6.7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat loss per unit length of cylinder is 3099.630940 W/m 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.8/6_8.sce #
+ 
+ 
+			Example Number 6.8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat lost per unit length by the wire is 11.883441 W/m 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.9/6_9.sce #
+ 
+ 
+			Example Number 6.9
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat lost by the sphere is 1.553648 W 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.10/6_10.sce #
+ 
+ 
+			Example Number 6.10
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the exit air temperature is 19.194676 degree celsius 
+
+
+ heat transfer per unit length for the tube bank is 45.431271 kW/m 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.11/6_11.sce #
+ 
+ 
+			Example Number 6.11
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the value of heat transfer coefficient is 186.407959 W/square meter degree celsius 
+ 
+
+
+ the value of heat transfer coefficient for previous problem is 163.464320 W/square meter degree celsius 
+ 
+
+
+ percentage increase in value of h is 14.035870 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH6/EX6.12/6_12.sce #
+ 
+ 
+			Example Number 6.12
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Length of tube required to effect the heat transfer is 1.564306 m 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.1/7_1.sce #
+ 
+ 
+			Example Number 7.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the average wall temperature is therefore 184.772535 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.2/7_2.sce #
+ 
+ 
+			Example Number 7.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer if the plate is 10 m wide is 9603.000121 W 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.3/7_3.sce #
+ 
+ 
+			Example Number 7.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+free-convection heat loss per unit length of heater is 443.498919 W/m 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.4/7_4.sce #
+ 
+ 
+			Example Number 7.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+electric power necessary to maintain the the wire temperature if the length is 0.5 m is 0.835732 W 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.5/7_5.sce #
+ 
+ 
+			Example Number 7.5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+free-convection heat loss per unit length is 1.491468 kW/m 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.6/7_6.sce #
+ 
+ 
+			Example Number 7.6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer is 51.791895 W 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.7/7_7.sce #
+ 
+ 
+			Example Number 7.7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer is 1.565200 kW/m 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.8/7_8.sce #
+ 
+ 
+			Example Number 7.8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+free-convection heat transfer across the air space is 39.635046 W 
+
+
+radiation heat transfer across the air space is 15.367641 W 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.9/7_9.sce #
+ 
+ 
+			Example Number 7.9
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer across the air space is 10.336549 W 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.10/7_10.sce #
+ 
+ 
+			Example Number 7.10
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat lost by the lower plate is 964.254445 W 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.11/7_11.sce #
+ 
+ 
+			Example Number 7.11 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vacuum necessary for glass spacings of 1 cm is -3728.844873 Pa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ vacuum necessary for glass spacings of 2 cm is 64182.856950 Pa 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH7/EX7.12/7_12.sce #
+ 
+ 
+			Example Number 7.12
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+conduction heat transfer through the air gap is 6.107950 W/square meter 
+ 
+ 
+ 
+ 
+ 
+
+
+ thus, at the low density condition the radiation heat transfer is almost 3.136900 times as large as the conduction 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH8/EX8.1/8_1.sce #
+ 
+ 
+			Example Number 8.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total energy absorbed in the glass is 52.752288 kW 
+
+
+ total energy transmitted by the glass is 58.182610 kW 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH8/EX8.9/8_9.sce #
+ 
+ 
+			Example Number 8.9
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For emissivity of 0.2 the value of effective emissivity is 0.466667  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ For emissivity of 0.5 the value of effective emissivity is 0.738095  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ For emissivity of 0.8 the value of effective emissivity is 0.906667  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH8/EX8.13/8_13.sce #
+ 
+ 
+			Example Number 8.13
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+apparent emissivity of covered opening is 0.626866  
+ 
+ 
+
+
+ if there were no cover present, the value of Ea(apparent emissivity) would be 0.857143 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH8/EX8.20/8_20.sce #
+ 
+ 
+			Example Number 8.20
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+radiation equilibrium temperature for the plate exposed to solar flux if the surface is coated with white paint is 39.465491 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+radiation equilibrium temperature for the plate exposed to solar flux if the surface is coated with flat black lacquer is 104.759757 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH8/EX8.21/8_21.sce #
+ 
+ 
+			Example Number 8.21
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the radiation-convection equillibrium temperatures for case (a) is 30.402125 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ the radiation-convection equillibrium temperatures for case (b) is 64.661705 degree celsius 
+
+
+ where case (a)     surface is coated with white paint 
+
+
+       case (b)     surface is coated with flat black lacquer 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH8/EX8.23/8_23.sce #
+ 
+ 
+			Example Number 8.23
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the true air temperature is 28.588950 degree celsius 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH9/EX9.1/9_1.sce #
+ 
+ 
+			Example Number 9.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+value of reynolds no. is 49.653330 
+
+ so the laminar assumption was correct  
+ 
+ 
+ 
+ 
+
+
+ the heat transfer is 2368.128681 w 
+ 
+
+
+ total mass flow condensate is 3.780605 kg/h 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH9/EX9.2/9_2.sce #
+ 
+ 
+			Example Number 9.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total surface area is 3.991429 square meter/m 
+ 
+ 
+
+
+ heat transfer is 100.102943 kW/m 
+ 
+ 
+ 
+
+
+ total mass flow of condensate is 159.809577 kg/h 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH9/EX9.4/9_4.sce #
+ 
+ 
+			Example Number 9.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the heat transfer in a 1.0 m length of tube is 2809.810534 W/m 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH9/EX9.5/9_5.sce #
+ 
+ 
+			Example Number 9.5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat flux obtained is 22.773760 kW/square meter 
+ 
+
+
+ if the pan operates as a pressure cooker at 0.17 MPa the increase in heat flux is 22.996548 percent 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH9/EX9.6/9_6.sce #
+ 
+ 
+			Example Number 9.6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+thus the heat transfers more than 14.331551 times the heat of a pure copper rod with a substantial temperature gradient. 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH10/EX10.1/10_1.sce #
+ 
+ 
+			Example Number 10.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+overall heat transfer coefficient is 7.868685 W/square meter degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH10/EX10.2/10_2.sce #
+ 
+ 
+			Example Number 10.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+overall heat transfer coefficient is 1441.239599 W/square meter degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH10/EX10.3/10_3.sce #
+ 
+ 
+			Example Number 10.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the percent reduction because of fouling factor is 28.171240  
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH10/EX10.14/10_14.sce #
+ 
+ 
+			Example Number 10.14
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the area to achieve a heat exchanger effectiveness of 60% with an exit water temperature of 40 degree celsius is 9.162907 square meter 
+
+
+ by reducing the flow rate we have lowered the heat transfer by 37 percent 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH10/EX10.15/10_15.sce #
+ 
+ 
+			Example Number 10.15
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the design value for the area of heat exchanger is 535.947475 square meter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+the percent reduction in heat transfer rate if the flow rate is reduced by 50% is 31.653464  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ the percent reduction in heat transfer is 46.236316  
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH11/EX11.1/11_1.sce #
+ 
+ 
+			Example Number 11.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+value of diffusion coefficient for co2 in air is 0.133042 square centimeter/s 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH11/EX11.2/11_2.sce #
+ 
+ 
+			Example Number 11.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mass flow rate is 3.132803e-10 kg/s 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH11/EX11.3/11_3.sce #
+ 
+ 
+			Example Number 11.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+temperature of dry air is 53.658751 degree celsius 
+
+
+ these calculations are now recalculated the density at the arithmetic-average temperature between wall and free-stream conditions 
+
+
+ with this adjustments these results are RHO = 1.143 kg/m^(3) and Tinf = 55.8 degree celcius 
+ 
+ 
+grepthis#Heat_Transfer_(in_Si_Units)_J._P._Holman_405/CH11/EX11.4/11_4.sce #
+ 
+ 
+			Example Number 11.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ relative humidity is therefore 27.808594 percentage 
+ 
+ 

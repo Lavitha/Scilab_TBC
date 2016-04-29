@@ -1,0 +1,6381 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 170
+
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.1/ch2_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ neglecting fringing,current(A)=   
+ 
+    1.061033  
+ 
+ 
+ 
+ 
+ flux(Wb)=   
+ 
+    0.00192  
+ 
+ 
+ 
+ 
+ flux linkages(Wb-turns)=   
+ 
+    1.152  
+ 
+ 
+ 
+ 
+ 
+ 
+ fringing taken into account,current(A)=   
+ 
+    1.033017  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.2/ch2_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no air gap current(A)   
+ 
+    0.1583143  
+ 
+ 
+ with air gap current(A)   
+ 
+    2.2691723  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B(T)   
+ 
+    1.5915494  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AT_g   
+ 
+    1267.  
+ 
+ 
+ 
+ 
+ 
+ AT_c   
+ 
+    900.  
+ 
+ 
+ 
+ 
+ from magnetisation data, current(A)   
+ 
+    3.610858  
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.3/ch2_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ when U_r=1,mmf(AT)   
+ 
+    1259.9766  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ when U_r=5000,mmf(AT)   
+ 
+    1680.3089  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.4/ch2_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F_g(AT)   
+ 
+    795.77472  
+ 
+ 
+ 
+ 
+ F_c(AT)   
+ 
+    160.  
+ 
+ 
+ 
+ 
+ F_o(AT)   
+ 
+    150.  
+ 
+ 
+ 
+ exciting current(A)   
+ 
+    2.2115494  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.5/ch2_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B_abcd(T)   
+ 
+    0.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ H_ad(AT/m)   
+ 
+    798.41552  
+ 
+ B_ad  =
+ 
+    1.04  
+ 
+ 
+ 
+ 
+ H_dea  =
+ 
+    500.  
+ 
+ 
+ 
+ 
+ reqd mmf(AT)   
+ 
+    409.6831  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.7/ch2_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ coil 1 excited with 1A   
+ 
+ 
+ 
+ 
+ 
+ self inductance(H)   
+ 
+    0.7267299  
+ 
+ 
+ mutual inductance(H)   
+ 
+    0.6459821  
+ 
+ 
+ coil 2 excited with 1A   
+ 
+ 
+ 
+ 
+ self inductance(H)   
+ 
+    3.5529016  
+ 
+ 
+ mutual inductance(H)   
+ 
+    0.6459821  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.8/ch2_8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ neglecting fringing,current(A)=   
+ 
+    1.061033  
+ 
+ 
+ 
+ 
+ flux(Wb)=   
+ 
+    0.00192  
+ 
+ 
+ 
+ 
+ flux linkages(Wb-turns)=   
+ 
+    1.152  
+ 
+ 
+ 
+ 
+ R_c=   
+ 
+    33157.28  
+ 
+ 
+ R_g=   
+ 
+    298415.52  
+ 
+ 
+ 
+ 
+ coil inductance(H)   
+ 
+    1.0857344  
+ 
+ 
+ 
+ 
+ energy stored in the magnetic field(J)   
+ 
+    0.6111550  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH2/EX2.9/ch2_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ at 50Hz   
+ 
+ 
+ hysterisis loss(W)   
+ 
+    500.  
+ 
+ 
+ eddy current loss(W)   
+ 
+    1000.  
+ 
+ 
+ 
+ at 75Hz   
+ 
+ 
+ hysterisis loss(W)   
+ 
+    750.  
+ 
+ 
+ eddy current loss(W)   
+ 
+    2250.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.1/ch3_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no load power factor   
+ 
+    0.1086957  
+ 
+ 
+ magnetising current(A)   
+ 
+    1.9881502  
+ 
+ 
+ core loss current(A)   
+ 
+    0.2173913  
+ 
+ 
+ Gi(mho)   
+ 
+    0.0009452  
+ 
+ 
+ Bm(mho)   
+ 
+    0.0086441  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.2/ch3_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ flux(Wb)   
+ 
+    0.0060060  
+ 
+ 
+ 
+ B_max(T)   
+ 
+    1.2012012  
+ 
+ 
+ 
+ 
+ 
+ 
+ AT_max   
+ 
+    325.  
+ 
+ 
+ 
+ 
+ 
+ I_mrms(A)   
+ 
+    1.5320647  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ core loss(W)   
+ 
+    154.05  
+ 
+ 
+ 
+ I_i(A)   
+ 
+    0.77025  
+ 
+ 
+ 
+ 
+ no load current(A)   
+ 
+    2.2995064  
+ 
+ 
+ no load power factor   
+ 
+    0.3349632  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.3/ch3_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ secondary impedence(ohm)   
+ 
+    5.    30.  
+ 
+ 
+ 
+ primary impedence(ohm)   
+ 
+    20.    30.  
+ 
+ 
+ 
+ 
+ 
+ secondary terminal voltage(V)   
+ 
+    100.    0.  
+ 
+ 
+ 
+ 
+ 
+ I_2=   
+ 
+    20.  
+  - 30.  
+ 
+ 
+ 
+ pf lagging=   
+ 
+    0.8660254  
+ 
+ 
+ 
+ 
+ 
+ I_1(A)   
+ 
+    10.  
+  - 30.  
+ 
+ 
+ 
+ pf lagging=   
+ 
+    0.8660254  
+ 
+ 
+ 
+ 
+ secondary power output(W)=   
+ 
+    1732.0508  
+ 
+ 
+ P_1  =
+ 
+    1732.0508  
+ 
+ 
+ primary power output(W)=   
+ 
+    1732.0508  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.4/ch3_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ primary current(A)=   
+ 
+    11.264571  
+ 
+ 
+ 
+ power factor=   
+ 
+    0.8144374  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.5/ch3_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z_2 referred to hv side(ohm)   
+ 
+    0.4 + 0.5i  
+ 
+ 
+ 
+ 
+ 
+ Y_0 referred to hv side(mho)   
+ 
+    0.00002 - 0.00015i  
+ 
+ 
+ 
+ 
+ 
+ Z_1 referred to lv side(ohm)   
+ 
+    0.0042 + 0.0052i  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.6/ch3_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z(ohm)   
+ 
+    1.07    2.42  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V1(V)   
+ 
+    1999.9581  
+ 
+ 
+ V2(V)   
+ 
+    1976.8781  
+ 
+ 
+ 
+ 
+ load voltage(V)   
+ 
+    197.68781  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.7/ch3_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y_o(mho)   
+ 
+    0.02  
+ 
+ 
+ G_i(mho)   
+ 
+    0.003  
+ 
+ 
+ B_m(mho)   
+ 
+    0.0197737  
+ 
+ 
+ 
+ Z(ohm)   
+ 
+    6.  
+ 
+ 
+ R(ohm)   
+ 
+    3.  
+ 
+ 
+ X(ohm)   
+ 
+    5.1961524  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ G_i(HV)mho   
+ 
+    0.00003  
+ 
+ 
+ B_m(HV)mho   
+ 
+    0.0001977  
+ 
+ 
+ 
+ 
+ R(LV)ohm   
+ 
+    0.03  
+ 
+ 
+ X(LV)ohm   
+ 
+    0.0519615  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.8/ch3_8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_o(A)   
+ 
+    15.190787  
+ 
+ 
+ pf   
+ 
+    0.1579905  
+ 
+ 
+ 
+ 
+ 
+ Z(ohm)   
+ 
+    0.4 + 0.9i  
+ 
+ 
+ 
+ 
+ 
+ P_sc(W)   
+ 
+    1562.5  
+ 
+ 
+ pf_sc   
+ 
+    0.4061385  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.10/ch3_10.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_o(LV)pu=   
+ 
+    0.03  
+ 
+ 
+ I_o(HV)pu=   
+ 
+    0.03  
+ 
+ 
+ 
+ 
+ Z(HV)pu=   
+ 
+    0.041 + 0.051i  
+ 
+ 
+ 
+ Z(LV)pu=   
+ 
+    0.041 + 0.051i  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.11/ch3_11.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n(%)   
+ 
+    97.442144  
+ 
+ 
+ 
+ 
+ 
+ 
+ n_max(%)   
+ 
+    97.683239  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.13/ch3_13.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W_o(kWh) for a   
+ 
+    240.  
+    0.    
+ 
+ 
+ W_in(kWh) for a   
+ 
+    244.2  
+    1.8    
+ 
+ 
+ n_allday(a) in %age   
+ 
+    97.560976  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W_o(kWh) for b   
+ 
+    80.   
+    160.  
+ 
+ 
+ W_in(kWh) for b   
+ 
+    81.4     
+    163.256  
+ 
+ 
+ n_allday(b) in %age   
+ 
+    98.09692  
+ 
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.14/ch3_14.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ vol-reg lagging(%)   
+ 
+    2.76  
+ 
+ 
+ 
+ vol-reg leading(%)   
+ 
+  - 0.36  
+ 
+ 
+ 
+ 
+ V_L(V)   
+ 
+    194.48  
+ 
+ 
+ 
+ 
+ 
+ eff(%)   
+ 
+    97.371451  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.15/ch3_15.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pf  =
+ 
+    0.8  
+ 
+ 
+ 
+ 
+ 
+ 
+ vol reg(%)   
+ 
+    2.2395833  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ eff(%)   
+ 
+    98.228137  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_1(A)   
+ 
+    63.625617  
+ 
+ 
+ 
+ pf   
+ 
+    0.7897035  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.16/ch3_16.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1(V)   
+ 
+    2000.  
+ 
+ 
+ V_2(V)   
+ 
+    2200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ kva rating   
+ 
+    220.  
+ 
+ 
+ 
+ 
+ kva transferred inductively   
+ 
+    20.  
+ 
+ 
+ kva transferred conductively   
+ 
+    200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ eff(%)   
+ 
+    99.761364  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.17/ch3_17.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rating of autotransformer(va)   
+ 
+    36000.  
+ 
+ 
+ 
+ 
+ n  =
+ 
+    0.962  
+ 
+ 
+ 
+ pff  =
+ 
+    0.85  
+ 
+ 
+ 
+ efficiency(%) at .85 pf is   
+ 
+    98.474569  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.18/ch3_18.sci #
+ 
+ 
+ 
+ 
+ 
+ (a)Y/D conn   
+ 
+ 
+ 
+ 
+ 
+ 
+ sec line voltage(V)   
+ 
+    317.54265  
+ 
+ 
+ 
+ 
+ 
+ sec. line current(A)   
+ 
+    207.8461  
+ 
+ 
+ output rating(va)   
+ 
+    114315.35  
+ 
+ 
+ 
+ (b)D/Y conn   
+ 
+ 
+ 
+ 
+ sec. line current(A)   
+ 
+    69.282032  
+ 
+ 
+ 
+ 
+ sec line voltage(V)   
+ 
+    952.62794  
+ 
+ 
+ output rating(va)   
+ 
+    114315.35  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.19/ch3_19.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y side   
+ 
+ 
+ 
+ 
+ 
+ 
+ V_AB(V)   
+ 
+    298.77876 + 172.5i  
+ 
+ 
+ V_BC(V)   
+ 
+  - 345.i  
+ 
+ 
+ V_CA(V)   
+ 
+  - 298.77876 + 172.5i  
+ 
+ 
+ 
+ IA(A)   
+ 
+    0.8367395 + 0.1673479i  
+ 
+ 
+ IB(A)   
+ 
+  - 0.5632973 + 0.6409637i  
+ 
+ 
+ IC(A)   
+ 
+  - 0.2734422 - 0.8083116i  
+ 
+ 
+ D side   
+ 
+ 
+ V_ab(V)   
+ 
+    22.  
+ 
+ 
+ V_bc(V)   
+ 
+  - 11. - 19.052559i  
+ 
+ 
+ V_ca(V)   
+ 
+  - 11. + 19.052559i  
+ 
+ 
+ 
+ 
+ 
+ 
+ Ia(A)   
+ 
+    12.675796 - 4.2880712i  
+ 
+ 
+ Ib(A)   
+ 
+  - 2.6243194 + 13.121597i  
+ 
+ 
+ Ic(A)   
+ 
+  - 10.051477 - 8.8335258i  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.20/ch3_20.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ load voltage(kv)   
+ 
+    0.197692  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.21/ch3_21.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current in 2kv feeder(A)   
+ 
+    515.49131  
+ 
+ 
+ current in 2kv winding of transformer(A)   
+ 
+    297.61905  
+ 
+ 
+ current in 200kv winding of transformer(A)   
+ 
+    2976.1905  
+ 
+ 
+ current at load terminals(A)   
+ 
+    5154.9131  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.22/ch3_22.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y/Y conn   
+ 
+ 
+ primary side ph voltage(V)   
+ 
+    19.052559  
+ 
+ 
+ secondary side ph voltage(V)   
+ 
+    6.350853  
+ 
+ 
+ kva rating of transformer   
+ 
+    2000.  
+ 
+ 
+ 
+ Y/D conn   
+ 
+ 
+ primary side ph voltage(V)   
+ 
+    19.052559  
+ 
+ 
+ secondary side ph voltage(V)   
+ 
+    11.  
+ 
+ 
+ kva rating of transformer   
+ 
+    2000.  
+ 
+ 
+ 
+ D/Y conn   
+ 
+ 
+ primary side ph voltage(V)   
+ 
+    33.  
+ 
+ 
+ secondary side ph voltage(V)   
+ 
+    6.350853  
+ 
+ 
+ kva rating of transformer   
+ 
+    2000.  
+ 
+ 
+ 
+ D/D conn   
+ 
+ 
+ primary side ph voltage(V)   
+ 
+    33.  
+ 
+ 
+ secondary side ph voltage(V)   
+ 
+    11.  
+ 
+ 
+ kva rating of transformer   
+ 
+    2000.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.23/ch3_23.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)   
+ 
+ 
+ 
+ 
+ 
+ X(ohm)of hv side   
+ 
+    69.696  
+ 
+ 
+ X(ohm)of lv side   
+ 
+    0.256  
+ 
+ 
+ 
+ (b)   
+ 
+ 
+ Y/Y   
+ 
+ 
+ 
+ V_hv(kV)   
+ 
+    11.431535  
+ 
+ 
+ V_lv(kV)   
+ 
+    0.6928203  
+ 
+ 
+ X(ohm)of hv side   
+ 
+    69.696  
+ 
+ 
+ X(ohm)of lv side   
+ 
+    0.256  
+ 
+ 
+ 
+ Y/D   
+ 
+ 
+ 
+ V_hv(kV)   
+ 
+    11.431535  
+ 
+ 
+ V_lv(kV)   
+ 
+    0.4  
+ 
+ 
+ X(ohm)of hv side   
+ 
+    69.696  
+ 
+ 
+ X(ohm)of lv side   
+ 
+    0.0853333  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.24/ch3_24.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ load by first transformer(kVA)   
+ 
+    376.29876 - 307.12033i  
+ 
+ 
+ load by second transformer(kVA)   
+ 
+    263.70124 - 172.87967i  
+ 
+ 
+ 
+ 
+ 
+ max load by both transformer(kVA)   
+ 
+    761.13529  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA of first transformer   
+ 
+    337.8543 - 227.66926i  
+ 
+ 
+ kVA of second transformer   
+ 
+  - 270.83916 + 258.36646i  
+ 
+ 
+ 
+ total output power(kW)   
+ 
+    608.69347  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.25/ch3_25.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X1(pu)   
+ 
+    0.0992  
+ 
+ 
+ X2(pu)   
+ 
+    0.0582  
+ 
+ 
+ X3(pu)   
+ 
+    0.1842  
+ 
+ 
+ 
+ 
+ 
+ sc current primary side(A)   
+ 
+    2778.4106  
+ 
+ 
+ sc current tertiary side(A)   
+ 
+    76396.031  
+ 
+ 
+ 
+ 
+ V_A(actual) line to line(kV)   
+ 
+    2.1502243  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.26/ch3_26.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_A(A)   
+ 
+    98.98423  
+ 
+ 
+ 
+ I_B(A)   
+ 
+    93.047775  
+ 
+ 
+ I_C(A)   
+ 
+    160.08088  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.27/ch3_27.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current magnitude(A)   
+ 
+    4.9892609  
+ 
+ 
+ phase(degree)   
+ 
+    0.0243431  
+ 
+ 
+ now Rb is introduced in series   
+ 
+ 
+ 
+ 
+ 
+ 
+ current magnitude(A)   
+ 
+    4.9892609  
+ 
+ 
+ phase(degree)   
+ 
+    0.0243609  
+ 
+ 
+ no chnage as Rb is negligible   
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.28/ch3_28.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sec open   
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage magnitude(V)   
+ 
+    108.33317  
+ 
+ 
+ phase(deg)   
+ 
+    0.1008819  
+ 
+ 
+ 
+ when Zb=Rb   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage magnitude(V)   
+ 
+    108.3216  
+ 
+ 
+ phase(deg)   
+ 
+  - 0.0077580  
+ 
+ 
+ 
+ when Zb=jXb   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage magnitude(V)   
+ 
+    108.31866  
+ 
+ 
+ phase(deg)   
+ 
+    0.0062062  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.29/ch3_29.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ L1(H)   
+ 
+    0.1591549  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ L2(H)   
+ 
+    15.527312  
+ 
+ 
+ coupling coeff   
+ 
+    0.9871123  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.30/ch3_30.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ leakage inductance ie l1(H)   
+ 
+    0.0014324  
+ 
+ 
+ l2(H)   
+ 
+    0.0000143  
+ 
+ 
+ magnetising inductance(H)   
+ 
+    5.0929582  
+ 
+ 
+ self-inductance ie L1(H)   
+ 
+    5.0943906  
+ 
+ 
+ 
+ L2(H)   
+ 
+    0.0509439  
+ 
+ 
+ coupling factor   
+ 
+    0.9997188  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH3/EX3.31/ch3_31.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage regulation(%)   
+ 
+    40.353721  
+ 
+ 
+ 
+ 
+ eff(%)   
+ 
+    99.758982  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.1/ch5_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ K_b(fundamental)   
+ 
+    0.9597951  
+ 
+ 
+ 
+ 
+ K_b(third harmonic)   
+ 
+    0.6666667  
+ 
+ 
+ 
+ 
+ K_b(fifth harmonic)   
+ 
+    0.2175679  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.2/ch5_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ freq(Hz)   
+ 
+    50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phase voltage(V)   
+ 
+    2045.5153  
+ 
+ 
+ 
+ line voltage(V)   
+ 
+    3542.9364  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.3/ch5_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phase voltage(V)   
+ 
+    3449.9943  
+ 
+ 
+ 
+ line voltage(V)   
+ 
+    5975.5654  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.5/ch5_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ flux/pole(Wb)   
+ 
+    0.0732  
+ 
+ 
+ 
+ 
+ area of pole shoe(m*m)   
+ 
+    0.0861176  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.6/ch5_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ electromagnetic power(W)   
+ 
+    62122.667  
+ 
+ 
+ 
+ mechanical power(W) fed   
+ 
+    62122.667  
+ 
+ 
+ 
+ 
+ primemover torque(Nm)   
+ 
+    370.76736  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.9/ch5_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ peak mmf(AT/pole)   
+ 
+    2177.0157  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.10/ch5_10.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ field current(A)   
+ 
+    189.46571  
+ 
+ 
+ 
+ 
+ 
+ flux/pole(Wb)   
+ 
+    0.345015  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_ph(V)   
+ 
+    4855.0679  
+ 
+ 
+ 
+ E_line(V)   
+ 
+    8409.2243  
+ 
+ 
+ 
+ I_f(new)(A)   
+ 
+    142.09928  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.12/ch5_12.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ air gap flux/pole(Wb)   
+ 
+    0.1001754  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.13/ch5_13.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phi_r(Wb/pole)   
+ 
+    0.0112901  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F_r(AT/pole)   
+ 
+    1871.7401  
+ 
+ 
+ 
+ 
+ 
+ F2(AT/pole)   
+ 
+    1929.4467  
+ 
+ 
+ 
+ F1(AT/pole)   
+ 
+    2014.9165  
+ 
+ 
+ 
+ angle(deg)   
+ 
+    59.391728  
+ 
+ 
+ 
+ 
+ I_a(A)   
+ 
+    32.385523  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.15/ch5_15.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed of induction motor(rpm)   
+ 
+    950.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.16/ch5_16.sci #
+ 
+ 
+ 
+ 
+ (a)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ slip freq(Hz)   
+ 
+    100.  
+ 
+ 
+ 
+ 
+ slip ring voltage(V)   
+ 
+    200.  
+ 
+ 
+ 
+ (b)   
+ 
+ 
+ 
+ 
+ 
+ slip freq(Hz)   
+ 
+    25.  
+ 
+ 
+ 
+ 
+ slip ring voltage(V)   
+ 
+  - 50.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.19/ch5_19.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F_peak(A/m)   
+ 
+    7949.7894  
+ 
+ 
+ 
+ 
+ 
+ B_peak(T)   
+ 
+    0.999  
+ 
+ 
+ 
+ 
+ velocity(m/s)   
+ 
+    12.5  
+ 
+ 
+ 
+ 
+ freq(Hz)   
+ 
+    40.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.1/ch7_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of parralel path   
+ 
+    5.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.2/ch7_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ spacing b/w adjacent brushes   
+ 
+    16.5  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.3/ch7_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of pitches   
+ 
+    5.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.4/ch7_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dis b/w brushes   
+ 
+    27.75  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.5/ch7_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ gross mech power developed(W)   
+ 
+    4712.389  
+ 
+ 
+ 
+ torque developed(Nm)   
+ 
+    30.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.6/ch7_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n_g/n_m   
+ 
+    1.1752137  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.7/ch7_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ motor speed(rpm)   
+ 
+    642.67569  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.8/ch7_8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ when terminal voltage is 255V   
+ 
+ 
+ 
+ 
+ 
+ electromagnetic power(W)   
+ 
+    25000.  
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    79.577472  
+ 
+ 
+ 
+ when terminal voltage is 248V   
+ 
+ 
+ 
+ 
+ 
+ electromagnetic power(W)   
+ 
+    10000.  
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    31.830989  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.9/ch7_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power(W)   
+ 
+    20833.333  
+ 
+ 
+ 
+ electromagnetic power(W)   
+ 
+    20486.111  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.10/ch7_10.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cross magnetising ampere turns(AT/pole)   
+ 
+    5729.1667  
+ 
+ 
+ 
+ demagnetising ampere turns(AT/pole)   
+ 
+    520.83333  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.11/ch7_11.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ compensating conductors/pole   
+ 
+    6.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.12/ch7_12.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of turns   
+ 
+    74.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.16/ch7_16.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ terminal voltage(V)   
+ 
+    196.58  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of series turns/pole   
+ 
+    7.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.22/ch7_22.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ terminal voltage(V)   
+ 
+    257.914  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.23/ch7_23.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of series turns/pole   
+ 
+    5.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.24/ch7_24.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ at I_f=1A   
+ 
+ 
+ 
+ generator output(W)   
+ 
+    10976.  
+ 
+ 
+ at I_f=2A   
+ 
+ 
+ 
+ generator output(W)   
+ 
+    19576.  
+ 
+ 
+ at I_f=2.5A   
+ 
+ 
+ 
+ generator output(W)   
+ 
+    22776.  
+ 
+ 
+ 
+ at speed 1200rpm   
+ 
+ 
+ 
+ at I_f=1A   
+ 
+ 
+ 
+ 
+ generator output(W)   
+ 
+    8576.  
+ 
+ 
+ at I_f=2A   
+ 
+ 
+ 
+ 
+ generator output(W)   
+ 
+    15456.  
+ 
+ 
+ at I_f=2.5A   
+ 
+ 
+ 
+ 
+ generator output(W)   
+ 
+    18016.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.25/ch7_25.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ at I_f=1A   
+ 
+ 
+ 
+ power fed to the load(W)   
+ 
+    6759.734  
+ 
+ 
+ at I_f=2A   
+ 
+ 
+ 
+ power fed to the load(W)   
+ 
+    19920.561  
+ 
+ 
+ at I_f=2.5A   
+ 
+ 
+ 
+ power fed to the load(W)   
+ 
+    26590.165  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.28/ch7_28.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ case of long shunt   
+ 
+ 
+ 
+ 
+ 
+ 
+ generator induced emf(V)   
+ 
+    265.31  
+ 
+ 
+ 
+ case of short shunt   
+ 
+ 
+ 
+ 
+ 
+ 
+ generator induced emf(V)   
+ 
+    264.10048  
+ 
+ 
+ 
+ 
+ percent diff   
+ 
+    0.483808  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.29/ch7_29.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ field resistance(ohm)   
+ 
+    166.66667  
+ 
+ 
+ 
+ 
+ 
+ field current(A)   
+ 
+    113.63636  
+ 
+ 
+ 
+ 
+ 
+ field resistance(ohm)   
+ 
+    200.  
+ 
+ 
+ 
+ 
+ em power(W)   
+ 
+    26036.822  
+ 
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    155.39584  
+ 
+ 
+ 
+ 
+ I_f needed to counter effect armature current   
+ 
+    0.15  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.32/ch7_32.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ flux/pole no load   
+ 
+    0.199104  
+ 
+ 
+ 
+ 
+ flux/pole load   
+ 
+    0.1930435  
+ 
+ 
+ 
+ 
+ reduction in phi due to armature rxn(%)   
+ 
+    3.0438975  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.33/ch7_33.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    173.18517  
+ 
+ 
+ new torque(Nm)   
+ 
+    138.54814  
+ 
+ 
+ 
+ 
+ 
+ 
+ n1  =
+ 
+    1352.5911  
+ 
+ 
+ speed is(rpm)   
+ 
+    1352.5911  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.34/ch7_34.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ torque at no load(Nm)   
+ 
+    5.2342082  
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    1181.0598  
+ 
+ 
+ 
+ torque at on load(Nm)   
+ 
+    94.215747  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.37/ch7_37.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power(W)   
+ 
+    5700.  
+ 
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    136.07748  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power developed when n=200 rpm((W))   
+ 
+    712.5  
+ 
+ 
+ 
+ external resistance(ohm)   
+ 
+    10.5  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.38/ch7_38.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T_start(Nm)   
+ 
+    5634.085  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.39/ch7_39.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    670.26869  
+ 
+ 
+ mech power debeloped(W)   
+ 
+    143437.5  
+ 
+ 
+ torque(Nm)   
+ 
+    2043.5495  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.40/ch7_40.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mmf/pole(AT)   
+ 
+    2688.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    1361.1486  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.41/ch7_41.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ demagnetising ampere turns   
+ 
+    104.  
+ 
+ 
+ torque(Nm)   
+ 
+    75.61112  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ starting torque(Nm)   
+ 
+    149.46725  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of turns of the series field   
+ 
+    6.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.43/ch7_43.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of starter sections reqd   
+ 
+    3.1316273  
+ 
+ 
+ 
+ 
+ R1(ohm)   
+ 
+    1.4545455  
+ 
+ 
+ R2(ohm)   
+ 
+    0.9256198  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.44/ch7_44.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R1(ohm)   
+ 
+    0.6488269  
+ 
+ 
+ R2(ohm)   
+ 
+    0.3504032  
+ 
+ 
+ R3(ohm)   
+ 
+    0.1892375  
+ 
+ 
+ R4(ohm)   
+ 
+    0.1021990  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n1(rpm)   
+ 
+    972.50364  
+ 
+ 
+ 
+ n2(rpm)   
+ 
+    1497.7106  
+ 
+ 
+ 
+ n3(rpm)   
+ 
+    1781.352  
+ 
+ 
+ 
+ n4(rpm)   
+ 
+    1934.5344  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.45/ch7_45.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n_fl/n_nl   
+ 
+    1.0016464  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.46/ch7_46.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    255.52463  
+ 
+ 
+ 
+ 
+ 
+ motor current(A) initial   
+ 
+    145.98906  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ motor current(A) final   
+ 
+    130.16051  
+ 
+ 
+ 
+ 
+ motor speed(rad/s)   
+ 
+    123.73109  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.47/ch7_47.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ armature current(A)   
+ 
+    42.396662  
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    909.15791  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ external resistance(ohm)   
+ 
+    49.26497  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.48/ch7_48.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ full field winding   
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    859.09091  
+ 
+ 
+ torque(Nm)   
+ 
+    233.42725  
+ 
+ 
+ field winding reduced to half   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    1269.  
+ 
+ 
+ torque(Nm)   
+ 
+    318.30989  
+ 
+ 
+ 
+ divertor across series field   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    717.97753  
+ 
+ 
+ torque(Nm)   
+ 
+    377.72773  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.50/ch7_50.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i)speed regulation(%)   
+ 
+    46.896552  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ii)speed regulation(%)   
+ 
+    32.653061  
+ 
+ 
+ 
+ 
+ power loss by rheostat control(W)   
+ 
+    375.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power loss by shunted armature control(W)   
+ 
+    2266.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.52/ch7_52.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ia(A)   
+ 
+    480.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.55/ch7_55.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ armature voltage(V)   
+ 
+    364.05068  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.57/ch7_57.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rotational loss(W)   
+ 
+    965.26952  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ generator eff(%)   
+ 
+    79.799638  
+ 
+ 
+ 
+ 
+ 
+ motor eff(%)   
+ 
+    75.849784  
+ 
+ 
+ 
+ 
+ total loss(W)   
+ 
+    2385.0845  
+ 
+ 
+ 
+ 
+ 
+ 
+ max generator eff(%)   
+ 
+    79.804767  
+ 
+ 
+ 
+ 
+ 
+ max motor eff(%)   
+ 
+    75.858484  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.59/ch7_59.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rotational loss(W)   
+ 
+    4993.8248  
+ 
+ 
+ 
+ no load armature current(A)   
+ 
+    8.3230413  
+ 
+ 
+ 
+ no load speed(rpm)   
+ 
+    927.61754  
+ 
+ 
+ speed regulation(%)   
+ 
+    3.0686154  
+ 
+ 
+ 
+ 
+ 
+ reqd armature current(A)   
+ 
+    97.139881  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.60/ch7_60.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ load torque(Nm)   
+ 
+    58.346202  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    84.861111  
+ 
+ 
+ 
+ 
+ armature current(A)   
+ 
+    38.729833  
+ 
+ 
+ 
+ 
+ 
+ max efficiency(%)   
+ 
+    84.897999  
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    1239.9736  
+ 
+ 
+ 
+ 
+ 
+ load torque(Nm)   
+ 
+    64.940131  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.61/ch7_61.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ line current(A)   
+ 
+    89.88764  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ armature resistance(ohm)   
+ 
+    0.1600100  
+ 
+ 
+ 
+ rotational loss(W)   
+ 
+    735.95506  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    844.1627  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.62/ch7_62.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency of motor(%)   
+ 
+    86.61039  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency of generator(%)   
+ 
+    86.717734  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.63/ch7_63.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ torque constt   
+ 
+    0.0046775  
+ 
+ 
+ 
+ rotational loss(W)   
+ 
+    0.0861169  
+ 
+ 
+ 
+ stalled current(A)   
+ 
+    1.4285714  
+ 
+ 
+ stalled torque(Nm)   
+ 
+    0.0066821  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    71.120442  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ o/p power(W)   
+ 
+    1.2603194  
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    76.326997  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.2/ch8_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage regulation(%)   
+ 
+    25.384615  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.6/ch8_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation emf(V)(line)   
+ 
+    4972.3368  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.7/ch8_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ max power(W)   
+ 
+    3506717.5  
+ 
+ 
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    133946.74  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ max power(W)   
+ 
+    1580693.2  
+ 
+ 
+ torque(Nm)   
+ 
+    60378.035  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ line voltage(V)   
+ 
+    2501.3394  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.9/ch8_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ generating current(A)   
+ 
+    9653.6467  
+ 
+ 
+ 
+ power factor   
+ 
+    0.9967741  
+ 
+ 
+ 
+ 
+ 
+ 
+ generating current(A)   
+ 
+    14540.391  
+ 
+ 
+ 
+ power factor   
+ 
+    0.9926663  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pe(pu)   
+ 
+    1.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.10/ch8_10.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ effective armature resistance(ohm)   
+ 
+    0.1128829  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sync reactance(ohm)   
+ 
+    0.9008089  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ armature loss(W)   
+ 
+    1970.6376  
+ 
+ 
+ loss(W)   
+ 
+    569.22867  
+ 
+ 
+ 
+ Rac/Rdc   
+ 
+    1.2888551  
+ 
+ 
+ 
+ windage and friction loss(W)   
+ 
+    900.  
+ 
+ 
+ 
+ core loss(W)   
+ 
+    1540.  
+ 
+ 
+ 
+ 
+ field cu loss(W)   
+ 
+    1057.1  
+ 
+ 
+ stray load loss(W)   
+ 
+    569.22867  
+ 
+ 
+ 
+ total loss(W)   
+ 
+    6036.9663  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency   
+ 
+    0.8882808  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.11/ch8_11.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ line current(A)   
+ 
+    203.05848  
+ 
+ 
+ 
+ 
+ pf   
+ 
+    0.8760299  
+ 
+ 
+ 
+ 
+ 
+ 
+ net power op(W)   
+ 
+    36157.575  
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    88.015645  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.12/ch8_12.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pf   
+ 
+    0.9227357  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.13/ch8_13.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation emf(V)   
+ 
+    413.11822  
+ 
+ 
+ 
+ torque angle   
+ 
+    26.565051  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ torque angle   
+ 
+    21.880871  
+ 
+ 
+ 
+ stator current(A)   
+ 
+    18.394021  
+ 
+ 
+ pf   
+ 
+    0.6277586  
+ 
+ 
+ 
+ 
+ 
+ 
+ stator current(A)   
+ 
+    29.57395  
+ 
+ 
+ pf   
+ 
+    0.8728121  
+ 
+ 
+ 
+ kVar delivered   
+ 
+    4473.4161  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.14/ch8_14.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ armature current(A)   
+ 
+    15.629324  
+ 
+ 
+ pf   
+ 
+    0.7847756  
+ 
+ 
+ 
+ 
+ 
+ 
+ torque developed(Nm)   
+ 
+    54.112681  
+ 
+ 
+ shaft torques(Nm)   
+ 
+    50.929582  
+ 
+ 
+ 
+ 
+ 
+ 
+ kVar rating   
+ 
+    4.9987026i  
+ 
+ 
+ 
+ capicator rating(F)   
+ 
+  - 0.0000994  
+ 
+ 
+ 
+ 
+ 
+ 
+ kVar rating   
+ 
+    2.5032424i  
+ 
+ 
+ 
+ inductor rating(H)   
+ 
+    0.2937374  
+ 
+ 
+ 
+ 
+ 
+ excitation(V)   
+ 
+    640.04151  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.15/ch8_15.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation(kV)   
+ 
+    4.6413199  
+ 
+ 
+ power developed(MW)   
+ 
+    3.7800556  
+ 
+ 
+ pf1   
+ 
+    0.9450139  
+ 
+ 
+ 
+ excitation(kV)   
+ 
+    2.5186801  
+ 
+ 
+ power developed(MW)   
+ 
+    2.0513024  
+ 
+ 
+ pf2   
+ 
+    0.5128256  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.16/ch8_16.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power angle   
+ 
+    15.719695  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ field current(A)   
+ 
+    1.0771789  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.17/ch8_17.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ motor eff(%)   
+ 
+    84.375  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation emf(V)   
+ 
+    796.92478 - 498.50729i  
+ 
+ 
+ power angle(deg)   
+ 
+  - 32.027573  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ max power op(W)   
+ 
+    19738.147  
+ 
+ 
+ 
+ power angle(deg)   
+ 
+    84.289407  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.19/ch8_19.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ no of poles   
+ 
+    60.  
+ 
+ 
+ 
+ 
+ MVA rating   
+ 
+    137.5  
+ 
+ 
+ 
+ prime mover rating(MW)   
+ 
+    113.28527  
+ 
+ 
+ op torque(Nm)   
+ 
+    10817.947  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.20/ch8_20.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dl_m(deg)   
+ 
+  - 23.385221  
+ 
+ 
+ 
+ 
+ dl_g(deg)   
+ 
+    63.434949  
+ 
+ 
+ relative angle(deg)   
+ 
+    86.82017  
+ 
+ 
+ 
+ 
+ 
+ min value of Em(V)   
+ 
+    256.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.21/ch8_21.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power angle(deg)   
+ 
+    18.912482  
+ 
+ 
+ 
+ 
+ armature current(A)   
+ 
+    163.00538  
+ 
+ 
+ 
+ pf   
+ 
+    0.8049794  
+ 
+ 
+ 
+ 
+ mech power developed(W)   
+ 
+    686230.19  
+ 
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    87.497359  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.22/ch8_22.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power angle   
+ 
+    16.742293  
+ 
+ 
+ 
+ 
+ armature current(A)   
+ 
+    151.80408  
+ 
+ 
+ 
+ pf   
+ 
+    0.7552429  
+ 
+ 
+ 
+ 
+ power ip(W)   
+ 
+    655306.75  
+ 
+ 
+ 
+ ohmic loss(W)   
+ 
+    55306.745  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.23/ch8_23.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Xs(pu)   
+ 
+    0.2684086  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ field current(A)   
+ 
+    984.08695  
+ 
+ 
+ 
+ reactive power op(W)   
+ 
+    9122249.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power angle   
+ 
+    14.21676  
+ 
+ 
+ 
+ reactive power op(VAR)   
+ 
+  - 810523.26  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.25/ch8_25.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation emf(V)   
+ 
+    1.6124515  
+ 
+ 
+ power angle   
+ 
+    23.385221  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.26/ch8_26.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation emf(line)(V)   
+ 
+    3739.57  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.27/ch8_27.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ terminal voltage(V)   
+ 
+    1.0394379  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power angle   
+ 
+    40.809258  
+ 
+ 
+ 
+ 
+ 
+ excitation emf(V)   
+ 
+    2.0897852  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.28/ch8_28.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ max pu power   
+ 
+    0.2450980  
+ 
+ 
+ 
+ 
+ 
+ 
+ armature current(pu)   
+ 
+    1.2497597  
+ 
+ 
+ 
+ reactive power(pu)   
+ 
+    1.2254902  
+ 
+ 
+ 
+ pf   
+ 
+    0.1961161  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.29/ch8_29.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power angle   
+ 
+    31.153462  
+ 
+ 
+ 
+ 
+ 
+ excitation emf(V)   
+ 
+    55.898376  
+ 
+ 
+ 
+ 
+ field current(A)   
+ 
+    858.80233  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.30/ch8_30.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ max field excitation(A)   
+ 
+    1.79  
+ 
+ 
+ 
+ 
+ 
+ min field excitation(A)   
+ 
+    0.21  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.32/ch8_32.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ syncronising power(pu)/elec deg   
+ 
+    0.0442465  
+ 
+ 
+ 
+ 
+ 
+ pu sync torque/mech deg   
+ 
+    0.0484175  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.33/ch8_33.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sync current(A)   
+ 
+    7.4531741  
+ 
+ 
+ 
+ power(W)   
+ 
+    5121.454  
+ 
+ 
+ 
+ 
+ torque(Nm)   
+ 
+    65.208377  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.34/ch8_34.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sync power(W)   
+ 
+    921533.85  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.35/ch8_35.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pf   
+ 
+    0.7404447  
+ 
+ 
+ op current(A)   
+ 
+    102.92044  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.36/ch8_36.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pf   
+ 
+    0.7015857  
+ 
+ 
+ 
+ current supplied by m/c(A)   
+ 
+    51.432622  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.37/ch8_37.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ initial current(A)   
+ 
+    13121.597  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current at the end of 2 cycles(A)   
+ 
+    9656.315  
+ 
+ 
+ current at the end of 10s(A)   
+ 
+    2624.5974  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.39/ch8_39.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sync reactance(ohm)   
+ 
+    38.991168  
+ 
+ 
+ voltage regulation(%)   
+ 
+    0.7272727  
+ 
+ 
+ torque angle(deg)   
+ 
+    22.868699  
+ 
+ 
+ ele power developed(W)   
+ 
+    749636.36  
+ 
+ 
+ 
+ voltage rating(V)   
+ 
+    3810.5118  
+ 
+ 
+ current rating(A)   
+ 
+    151.51515  
+ 
+ 
+ VA rating   
+ 
+    1000000.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.40/ch8_40.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m/c current(A)   
+ 
+    7274.5778  
+ 
+ 
+ pf   
+ 
+    0.8297299  
+ 
+ 
+ 
+ 
+ 
+ 
+ m/c current(A)   
+ 
+    8027.784  
+ 
+ 
+ pf   
+ 
+    0.8989876  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.41/ch8_41.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation emf(V)   
+ 
+    1420.7876  
+ 
+ 
+ torque angle(deg)   
+ 
+  - 26.196133  
+ 
+ 
+ 
+ shaft op(W)   
+ 
+    640178.26  
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    87.501679  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.43/ch8_43.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ torque angle(deg)   
+ 
+    0.  
+ 
+ 
+ pf angle(deg)   
+ 
+    90.  
+ 
+ 
+ 
+ inductor value(H)   
+ 
+    0.2069014  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ torque angle(deg)   
+ 
+    0.  
+ 
+ 
+ pf angle(deg)   
+ 
+    90.  
+ 
+ 
+ 
+ capacitor value(F)   
+ 
+    0.0000565  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.44/ch8_44.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Xs(saturated)(ohm)   
+ 
+    0.9622504  
+ 
+ 
+ Xs(saturated)(pu)   
+ 
+    0.7952483  
+ 
+ 
+ SCR   
+ 
+    1.2574689  
+ 
+ 
+ 
+ 
+ Xs(unsaturated)(ohm)   
+ 
+    1.342  
+ 
+ 
+ Xs(unsaturated)(pu)   
+ 
+    1.1090909  
+ 
+ 
+ generator current(A)   
+ 
+    1408.3652  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.45/ch8_45.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pf   
+ 
+    0.9238712  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.46/ch8_46.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ neglecting saliency   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ excitation emf(line)(V)   
+ 
+    484.7483  
+ 
+ 
+ accounting saliency   
+ 
+ 
+ 
+ 
+ 
+ excitation emf(line)(V)   
+ 
+    443.92545  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.47/ch8_47.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ia  =
+ 
+    131.21597  
+ 
+ 
+ 
+ torque angle   
+ 
+    17.085658  
+ 
+ 
+ 
+ excitation emf(V)   
+ 
+    6103.7702  
+ 
+ 
+ 
+ load supplied(W)   
+ 
+    563275.86  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.49/ch8_49.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning : redefining function: ls                      . Use funcprot(0) to avoid this message
+
+ 
+ 
+ 
+ 
+ set freq(Hz)   
+ 
+    53.571429  
+ 
+ 
+ set freq(Hz) supplied from swing generator   
+ 
+    51.666667  
+ 
+ 
+ 
+ new system freq(Hz)   
+ 
+    49.404762  
+ 
+ 
+ 
+ set freq(Hz) of swing generator   
+ 
+    54.047619  
+ 
+ 
+ 
+ system trip freq(Hz)   
+ 
+    48.650794  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.1/ch9_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rotor cu loss(W)   
+ 
+    712.09433  
+ 
+ 
+ 
+ 
+ power i/p to motor(W)   
+ 
+    18602.358  
+ 
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    86.467286  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.3/ch9_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ s_max_T   
+ 
+    0.2679492  
+ 
+ 
+ 
+ 
+ 
+ 
+ s_fl   
+ 
+    0.072  
+ 
+ 
+ 
+ 
+ 
+ I2_start/I2_fullload   
+ 
+    3.5953915  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.4/ch9_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ block rotor test results   
+ 
+ 
+ 
+ 
+ 
+ R1(ohm)   
+ 
+    0.55  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X1(ohm)   
+ 
+    1.4814044  
+ 
+ 
+ X2(ohm)   
+ 
+    0.7407022  
+ 
+ 
+ no load test results   
+ 
+ 
+ 
+ 
+ 
+ Xm(ohm)   
+ 
+    29.029922  
+ 
+ 
+ R2(ohm)   
+ 
+    0.5662624  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pin(W)   
+ 
+    9810.2382  
+ 
+ 
+ Pg(W)   
+ 
+    9342.2102  
+ 
+ 
+ Pm(W)   
+ 
+    8968.5218  
+ 
+ 
+ Prot(W)   
+ 
+    607.1875  
+ 
+ 
+ Pout(W)   
+ 
+    8361.3343  
+ 
+ 
+ 
+ Tnet(Nm)   
+ 
+    83.17173  
+ 
+ 
+ eff(%)   
+ 
+    85.230696  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.5/ch9_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ro(ohm)   
+ 
+    33.333333  
+ 
+ 
+ Xo(ohm)   
+ 
+    379.59042  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X1(ohm)   
+ 
+    8.5175748  
+ 
+ 
+ Xm(ohm)   
+ 
+    371.07285  
+ 
+ 
+ 
+ R2(ohm)   
+ 
+    3.2530626  
+ 
+ 
+ 
+ 
+ V_TH(V)   
+ 
+    1862.3224 + 18.398011i  
+ 
+ 
+ 
+ R_TH(ohm)   
+ 
+    3.583247  
+ 
+ 
+ X_TH(ohm)   
+ 
+    8.3618493  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T_max(Nm)   
+ 
+    2384.1948  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency   
+ 
+    0.8935728  
+ 
+ 
+ internal torque developed(Nm)   
+ 
+    1079.1304  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.6/ch9_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ starting current(A)   
+ 
+    176.48305  
+ 
+ 
+ starting torque(Nm)   
+ 
+    143.73485  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ full load current(A)   
+ 
+    29.954582  
+ 
+ 
+ pf   
+ 
+    0.9389976  
+ 
+ 
+ 
+ 
+ 
+ net torque(Nm)   
+ 
+    109.07163  
+ 
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    84.988481  
+ 
+ 
+ internal eff(%)   
+ 
+    92.685861  
+ 
+ 
+ 
+ max slip   
+ 
+    0.2037357  
+ 
+ 
+ 
+ 
+ 
+ max torque(Nm)   
+ 
+    324.64277  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.9/ch9_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ slip=0.03   
+ 
+ 
+ 
+ 
+ 
+ 
+ line current(A)   
+ 
+    12.216912  
+ 
+ 
+ pf   
+ 
+    0.8663074  
+ 
+ 
+ power i/p(W)   
+ 
+    7332.5338  
+ 
+ 
+ 
+ 
+ mech power op(W)   
+ 
+    6647.2503  
+ 
+ 
+ 
+ shaft torque(Nm)   
+ 
+    62.732483  
+ 
+ 
+ efficiency   
+ 
+    0.8690380  
+ 
+ 
+ 
+ slip= -0.03   
+ 
+ 
+ 
+ 
+ 
+ 
+ line current(A)   
+ 
+    13.770084  
+ 
+ 
+ pf   
+ 
+    0.8788127  
+ 
+ 
+ power i/p(W)   
+ 
+    8384.0433  
+ 
+ 
+ 
+ 
+ 
+ 
+ mech power op(W)   
+ 
+    9560.5533  
+ 
+ 
+ shaft torque(Nm)   
+ 
+    88.637436  
+ 
+ 
+ efficiency   
+ 
+    0.8769412  
+ 
+ 
+ 
+ slip= 1.2   
+ 
+ 
+ 
+ 
+ 
+ 
+ line current(A)   
+ 
+    68.980538  
+ 
+ 
+ pf   
+ 
+    0.5044421  
+ 
+ 
+ power i/p(W)   
+ 
+    24107.851  
+ 
+ 
+ 
+ 
+ mech power op(W)   
+ 
+  - 1057.3619  
+ 
+ 
+ 
+ 
+ 
+ torque developed(Nm)   
+ 
+    50.485311  
+ 
+ 
+ power disipated(W)   
+ 
+    25165.213  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.10/ch9_10.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ slip   
+ 
+    0.2  
+ 
+ 
+ max torque(pu)   
+ 
+    2.6  
+ 
+ 
+ 
+ starting torque(pu)   
+ 
+    1.  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.11/ch9_11.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ starting current(A)   
+ 
+    117.38614  
+ 
+ 
+ torque(Nm)   
+ 
+    511.60087  
+ 
+ 
+ 
+ 
+ 
+ external resistance(ohm)   
+ 
+    55.821164  
+ 
+ 
+ torque(Nm)   
+ 
+    1411.2382  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.12/ch9_12.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ by direct switching   
+ 
+ 
+ line current(pu)   
+ 
+    6.  
+ 
+ 
+ torque(pu)   
+ 
+    1.8  
+ 
+ 
+ 
+ by stator resistance starting   
+ 
+ 
+ line current(pu)   
+ 
+    2.  
+ 
+ 
+ torque(pu)   
+ 
+    0.2  
+ 
+ 
+ 
+ by autotransformer starting   
+ 
+ 
+ 
+ 
+ line current(pu)   
+ 
+    0.6666667  
+ 
+ 
+ torque(pu)   
+ 
+    0.0222222  
+ 
+ 
+ 
+ by star delta starting   
+ 
+ 
+ line current(pu)   
+ 
+    2.  
+ 
+ 
+ torque(pu)   
+ 
+    0.6  
+ 
+ 
+ 
+ by autotransformer starting   
+ 
+ 
+ 
+ x   
+ 
+    0.7453560  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.13/ch9_13.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ external resistance(ohm)   
+ 
+    0.0458148  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.14/ch9_14.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ external resitance(ohm)   
+ 
+    1.1835735  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.15/ch9_15.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ external resistance(ohm)   
+ 
+    0.0571175  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    661.86935  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ss  =
+ 
+    0.0685587  
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    698.58094  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.17/ch9_17.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ratio of currents at starting   
+ 
+    0.8382736  
+ 
+ 
+ 
+ 
+ ratio of torques at starting   
+ 
+    0.7027027  
+ 
+ 
+ 
+ 
+ ratio of max torques   
+ 
+    0.6944444  
+ 
+ 
+ 
+ V2/V1   
+ 
+    1.0922124  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.18/ch9_18.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tso/Tsi   
+ 
+    100.04  
+ 
+ 
+ 
+ 
+ 
+ To/Ti   
+ 
+    1.4356436  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.19/ch9_19.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rotor resistance(ohm)   
+ 
+    0.5907129  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ acc time(min)   
+ 
+    2.6635716  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH10/EX10.1/ch10_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_mf/E_mb   
+ 
+    23.382755  
+ 
+ 
+ 
+ 
+ 
+ V_f/V_b   
+ 
+    6.7274474  
+ 
+ 
+ 
+ T_f/T_b   
+ 
+    65.666667  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ gross total torque(Nm)   
+ 
+    13.316746  
+ 
+ 
+ 
+ 
+ T_f/T_total   
+ 
+    1.0154639  
+ 
+ 
+ T_b/T_total   
+ 
+    0.0154639  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH10/EX10.2/ch10_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R_2(ohm)   
+ 
+    3.0828571  
+ 
+ 
+ X_1+X_2(ohm)   
+ 
+    8.0513216  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ line current(A)   
+ 
+    6.2612965  
+ 
+ 
+ pf   
+ 
+    0.6818110  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency(%)   
+ 
+    72.474802  
+ 
+ 
+ shaft torque(Nm)   
+ 
+    4.2342609  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH10/EX10.3/ch10_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ forward field(AT)   
+ 
+    427.11468  
+ 
+ 
+ 
+ backward field(AT)   
+ 
+    904.88842  
+ 
+ 
+ 
+ 
+ 
+ 
+ phase angle diff   
+ 
+    90.  
+ 
+ 
+ auxillery current(A)   
+ 
+  - 12.  
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH10/EX10.4/ch10_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ value of capacitor(F)   
+ 
+    0.0002953  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH10/EX10.5/ch10_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ starting torque(Nm)   
+ 
+    7.5785313  
+ 
+ 
+ 
+ 
+ 
+ I_L(start)(A)   
+ 
+    8.9570315  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ value of run capacitor(uF)   
+ 
+    13.368171  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency   
+ 
+    0.8277847  
+ 
+ 
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH12/EX12.1/ch12_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ load power(W)   
+ 
+    371.26246  
+ 
+grepthis#Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH12/EX12.3/ch12_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ value of commutating capacitor(F)   
+ 
+    0.00125  
+ 

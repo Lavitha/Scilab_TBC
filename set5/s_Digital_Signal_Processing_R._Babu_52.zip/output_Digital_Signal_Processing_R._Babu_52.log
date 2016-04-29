@@ -1,0 +1,2295 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 161
+
+grepthis#Digital_Signal_Processing_R._Babu_52/CH1/EX1.12/Example1_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    3.    8.    8.    12.    9.    4.    4.  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH1/EX1.13/Example1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1.    1.    0.    1.  - 2.    0.  - 1.  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH1/EX1.18/Example1_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1.    4.    6.    6.    5.    2.    1.  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH1/EX1.19/Example1_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x(n)=   
+ 
+    1.  
+    3.  
+    3.  
+    2.  
+    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH1/EX1.57.a/Example1_57_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1.    2.    0.    4.    1.    0.    1.  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.1/Example2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z-transform of sequence is:   
+ 
+              2   4  
+    2 - z + 3z + z   
+    --------------   
+           4         
+          z          
+ 
+ 
+ ROC is the entire plane except z = 0   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.2/Example2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z-transform of sequence is:   
+ 
+         2    3    4  
+    1 - z - 2z - 3z   
+    ---------------   
+           1          
+ 
+ 
+ ROC is the entire plane except z = %inf   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.3/Example2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z-transform of sequence is:   
+ 
+               2   4    5    6   7    8  
+  - 1 + 3z + 2z + z + 2z + 3z - z + 2z   
+    ----------------------------------   
+                     4                   
+                    z                    
+ 
+ 
+ ROC is the entire plane except z = 0 and z = %inf   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.16/Example2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h(n)=   
+ 
+    1.  
+    2.  
+  - 4.  
+    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.20.a/Example2_20_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h(n)=   
+ 
+    1.     
+    0.7    
+    0.85   
+    0.775  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.22/Example2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ First six values of h(n)=   
+ 
+    1.  
+  - 2.  
+    2.  
+    0.  
+  - 4.  
+    8.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.23/Example2_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ First six values of h(n)=   
+ 
+    1.    
+    4.    
+    11.   
+    26.   
+    57.   
+    120.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.40/Example2_40.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x(n)=   
+ 
+    1.  
+    1.  
+    2.  
+    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH2/EX2.53.a/Example2_53_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z-transform of sequence is:   
+ 
+          2    3    4   5    6  
+    1 + 7z + 5z + 2z + z + 3z   
+    -------------------------   
+                 3              
+                z               
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.1/Example3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X[k]=   
+ 
+    2.    1. - i      0    1. + i    
+ 
+ 
+ y[n]=   
+ 
+    0.5    0.    0.5    0.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.3/Example3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X[k]=   
+ 
+ 
+         column 1 to 5
+ 
+    6.  - 0.7071068 - 1.7071068i    1. - i      0.7071068 + 0.2928932i    0  
+ 
+         column 6 to 8
+ 
+    0.7071068 - 0.2928932i    1. + i    - 0.7071068 + 1.7071068i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.4/Example3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    5.    0    1. - i      0    1.    0    1. + i      0  
+ 
+ 
+ 
+ 
+ 
+ x[n]=   
+ 
+    1.    0.75    0.5    0.25    1.    0.75    0.5    0.25  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.9/Example3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    12.  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+ 
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+    10.       
+  - 2. + 3.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+    10.       
+  - 2. + 3.i  
+    6. - 3.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+    10.       
+  - 2. + 3.i  
+    6. - 3.i  
+  - 2. - 2.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+    10.       
+  - 2. + 3.i  
+    6. - 3.i  
+  - 2. - 2.i  
+    1. + 5.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+    10.       
+  - 2. + 3.i  
+    6. - 3.i  
+  - 2. - 2.i  
+    1. + 5.i  
+    3. - 4.i  
+ X  =
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+    10.       
+  - 2. + 3.i  
+    6. - 3.i  
+  - 2. - 2.i  
+    1. + 5.i  
+    3. - 4.i  
+  - 1. - 3.i  
+ 
+ 
+ 
+ X[k]=   
+ 
+    12.       
+  - 1. + 3.i  
+    3. + 4.i  
+    1. - 5.i  
+  - 2. + 2.i  
+    6. + 3.i  
+  - 2. - 3.i  
+    10.       
+  - 2. + 3.i  
+    6. - 3.i  
+  - 2. - 2.i  
+    1. + 5.i  
+    3. - 4.i  
+  - 1. - 3.i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.11/Example3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X1[k]=   
+ 
+ 
+         column 1 to 7
+ 
+    4.    1. + 2.4142136i    0    1. + 0.4142136i    0    1. - 0.4142136i    0  
+ 
+         column 8
+ 
+    1. - 2.4142136i  
+ 
+ 
+ X2[k]=   
+ 
+ 
+         column 1 to 7
+ 
+    4.  - 2.4142136 - i      0    0.4142136 + i      0    0.4142136 - i      0  
+ 
+         column 8
+ 
+  - 2.4142136 + i    
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.13/Example3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+    8.  - 2.  - 1.  - 4.  - 1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.14/Example3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+    11.    9.    10.    12.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.15/Example3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x3[n]=   
+ 
+    15.    17.    15.    13.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.16/Example3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x3[n]=   
+ 
+    13.    14.    11.    12.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.17/Example3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+    4.    0.    1.    2.    3.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.18/Example3_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ylinear[n]=   
+ 
+    1.    3.    6.    6.    4.    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ycircular[n]=   
+ 
+    5.    4.    6.    6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ycircularp[n]=   
+ 
+    1.    3.    6.    6.    4.    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.20/Example3_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+ 
+         column  1 to 11
+ 
+    3.    2.    2.  - 4.441D-16    4.    6.    5.    3.    3.    4.    3.  
+ 
+         column 12
+ 
+    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.21/Example3_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+ 
+         column  1 to 11
+ 
+    1.    4.    3.    2.220D-16    7.    4.  - 7.  - 7.  - 1.    3.    4.  
+ 
+         column 12 to 13
+ 
+    3.  - 2.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.24/Example3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X[k]=   
+ 
+    0.    0.    4.    0.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.25/Example3_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+ 
+         column 1 to 6
+ 
+    1.251228    2.5557808    2.553101    1.2464994    0.2465012  - 1.0580516  
+ 
+         column 7 to 8
+ 
+  - 1.0553717    0.2512298  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.26/Example3_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+    2.    0.    1.    1.    1.  
+ 
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.27.a/Example3_27_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+    3.    3.    3.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.27.b/Example3_27_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y[n]=   
+ 
+    3.    1.110D-16  - 3.  - 2.    2.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.30/Example3_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fm  =
+ 
+    5000.  
+ 
+ df  =
+ 
+    50.  
+ 
+ t  =
+ 
+    0.5  
+ 
+ 
+ 
+ N  =
+ 
+    4.  
+ N  =
+ 
+    8.  
+ N  =
+ 
+    16.  
+ N  =
+ 
+    32.  
+ N  =
+ 
+    64.  
+ N  =
+ 
+    128.  
+ N  =
+ 
+    256.  
+ 
+ 
+ 
+ N=   
+ 
+    256.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH3/EX3.36/Example3_36.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x[n]=   
+ 
+    1.    1.    2.    2.    3.    3.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.3/Example4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SHORTEST SEQUENCE N =   
+ 
+    32.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.4/Example4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stage: m =   
+ 
+    1.  
+ 
+  k =   
+ 
+    0.  
+ 
+ Stage: m =   
+ 
+    2.  
+ 
+  k =   
+ 
+    0.  
+ 
+    8.  
+ 
+ Stage: m =   
+ 
+    3.  
+ 
+  k =   
+ 
+    0.  
+ 
+    4.  
+ 
+    8.  
+ 
+    12.  
+ 
+ Stage: m =   
+ 
+    4.  
+ 
+  k =   
+ 
+    0.  
+ 
+    2.  
+ 
+    4.  
+ 
+    6.  
+ 
+    8.  
+ 
+    10.  
+ 
+    12.  
+ 
+    14.  
+ 
+ Stage: m =   
+ 
+    5.  
+ 
+  k =   
+ 
+    0.  
+ 
+    1.  
+ 
+    2.  
+ 
+    3.  
+ 
+    4.  
+ 
+    5.  
+ 
+    6.  
+ 
+    7.  
+ 
+    8.  
+ 
+    9.  
+ 
+    10.  
+ 
+    11.  
+ 
+    12.  
+ 
+    13.  
+ 
+    14.  
+ 
+    15.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.6/Example4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 5
+ 
+    20.  - 5.8284271 - 2.4142136i    0  - 0.1715729 - 0.4142136i    0  
+ 
+         column 6 to 8
+ 
+  - 0.1715729 + 0.4142136i    0  - 5.8284271 + 2.4142136i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.8/Example4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 5
+ 
+    20.  - 5.8284271 - 2.4142136i    0  - 0.1715729 - 0.4142136i    0  
+ 
+         column 6 to 8
+ 
+  - 0.1715729 + 0.4142136i    0  - 5.8284271 + 2.4142136i  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.9/Example4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+    8.    0.    0.    0.    0.    0.    0.    0.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.10/Example4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+    6.  - 2. + 2.i  - 2.  - 2. - 2.i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.11/Example4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x(n) =    
+ 
+    1.    1.    1.    0.9999245    1.    1.    1.    0.0000755  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.12/Example4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 6
+ 
+    2.    0.5 - 1.2071068i    0    0.5 - 0.2071068i    0    0.5 + 0.2071068i  
+ 
+         column 7 to 8
+ 
+    0    0.5 + 1.2071068i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.13/Example4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 6
+ 
+    2.    0.5 - 1.2071068i    0    0.5 - 0.2071068i    0    0.5 + 0.2071068i  
+ 
+         column 7 to 8
+ 
+    0    0.5 + 1.2071068i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.14/Example4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+    0.    0.    4.    0.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.15/Example4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+    2.    1. + i      0    1. - i    
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.16.a/Example4_16_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X1(k) =    
+ 
+    7.    1.  - 1.    1.  - 1.    1.  - 1.    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.16.b/Example4_16_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X2(k) =    
+ 
+ 
+         column 1 to 5
+ 
+    7.  - 0.7071068 - 0.7071068i  - i      0.7071068 - 0.7071068i    1.  
+ 
+         column 6 to 8
+ 
+    0.7071068 + 0.7071068i    i    - 0.7071068 + 0.7071068i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.17/Example4_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x(n) =    
+ 
+    1.    0.9999245    1.    0.9999245    0.    0.0000755    0.    0.0000755  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.18/Example4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x(n) =    
+ 
+    1.    2.    3.    4.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.19/Example4_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+    1.    1.    1.    1.    1.    1.    1.    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.20/Example4_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 6
+ 
+    12.    1. - 2.4142136i    0    1. - 0.4142136i    0    1. + 0.4142136i  
+ 
+         column 7 to 8
+ 
+    0    1. + 2.4142136i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.21/Example4_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 5
+ 
+    0  - 1.4142136 + 3.4142136i    2. - 2.i    1.4142136 - 0.5857864i    4.  
+ 
+         column 6 to 8
+ 
+    1.4142136 + 0.5857864i    2. + 2.i  - 1.4142136 - 3.4142136i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.22/Example4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 4
+ 
+    255.    48.63961 + 166.06602i  - 51. + 102.i  - 78.63961 + 46.066017i  
+ 
+         column 5 to 8
+ 
+  - 85.  - 78.63961 - 46.066017i  - 51. - 102.i    48.63961 - 166.06602i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.23/Example4_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+    0.0012653    1.9999992 + 0.0025290i  - 0.0012637    1.9999992 - 0.0025290i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH4/EX4.24/Example4_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X(z) =    
+ 
+ 
+         column 1 to 5
+ 
+    28.  - 4. + 9.6568542i  - 4. + 4.i  - 4. + 1.6568542i  - 4.  
+ 
+         column 6 to 8
+ 
+  - 4. - 1.6568542i  - 4. - 4.i  - 4. - 9.6568542i  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.1/Example5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    4.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.2/Example5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    7.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.4/Example5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Normalized Transfer Function, H(s) =   
+ 
+                              1                             
+    -----------------------------------------------------   
+                               2            3            4  
+    1 + 0.1221815s + 0.0074644s + 0.0002671s + 0.0000048s   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.5/Example5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Normalized Transfer Function, H(s) =   
+ 
+                             1                             
+    ---------------------------------------------------    
+                              2            3            4  
+    1 + 3.469403s + 6.0185667s + 6.1159251s + 3.1075263s   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.6/Example5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    2.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.7/Example5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    3.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.8/Example5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    5.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.9/Example5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    3.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.10/Example5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    3.  
+ 
+ 
+ 
+ oc  =
+ 
+    1000.  
+ 
+ 
+ 
+ Normalized Transfer Function, H(s) =   
+ 
+                    3                  
+                   s                   
+    -------------------------------    
+                                2   3  
+    1.000D+09 + 2000000s + 2000s + s   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.11/Example5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Factorized HS =    
+ 
+ 
+        (1)
+ 
+      2     
+    -----   
+    1 + s   
+ 
+        (2)
+ 
+    - 2     
+    -----   
+    2 + s   
+ 
+ 
+ 
+ 
+ 
+ HZ  =
+ 
+            0.4650883z           
+    --------------------------   
+                              2  
+    0.0497871 - 0.5032147z + z   
+ 
+ 
+ HZ =    
+ 
+            0.4650883z           
+    --------------------------   
+                              2  
+    0.0497871 - 0.5032147z + z   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.15/Example5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Factorized HS =    
+ 
+ 
+        (1)
+ 
+    3.3333333   
+    ---------   
+      2 + s     
+ 
+        (2)
+ 
+  - 3.3333333   
+    ---------   
+      5 + s     
+ 
+ 
+ 
+ 
+ 
+ HZ  =
+ 
+            0.2014254z           
+    --------------------------   
+                              2  
+    0.2465970 - 1.0381995z + z   
+ 
+ 
+ HZ =    
+ 
+            0.2014254z           
+    --------------------------   
+                              2  
+    0.2465970 - 1.0381995z + z   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.16/Example5_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ H(z) =   
+ 
+               2  
+    2 + 4z + 2z   
+    -----------   
+             2    
+   - 4z + 12z     
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.17/Example5_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Order of the filter, N =   
+ 
+    1.  
+ 
+ 
+ HS  =
+ 
+      1     
+    -----   
+    1 + s   
+ 
+ oc  =
+ 
+    7265.4253  
+ 
+ 
+ 
+ Normalized Transfer Function, H(s) =   
+ 
+          s         
+    -------------   
+    7265.4253 + s   
+ 
+ 
+ 
+ 
+ H(z) =   
+ 
+        1 + z       
+    -------------   
+  - 9999 + 10001z   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.18/Example5_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ H(z) =   
+ 
+                                       2  
+    1.4478601 + 0.1783288z + 1.4478601z   
+    -----------------------------------   
+                                 2        
+          0.5298913 - 1.1875z + z         
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.19/Example5_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ H(z) of B.P.F =   
+ 
+                                       2            3            4  
+    0.5063104 + 3.210D-17z - 1.3832657z - 3.210D-17z + 0.8769553z   
+    -------------------------------------------------------------   
+                                           2            3   4       
+        0.0348406 + 7.157D-17z - 0.8961983z - 9.558D-17z + z        
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH5/EX5.29/Example5_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ m  =
+ 
+    2.  
+ 
+ 
+ 
+ LATTICE COEFFICIENTS   
+ 
+ 
+ k1   
+ 
+    0.25  
+ 
+ 
+ k2   
+ 
+    0.5  
+ 
+ 
+ k3   
+ 
+    0.3333333  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LADDER COEFFICIENTS   
+ 
+ 
+ c0 =   
+ 
+  - 0.2695313  
+ 
+ 
+ c1 =   
+ 
+    0.828125  
+ 
+ 
+ c2 =   
+ 
+    1.4583333  
+ 
+ 
+ c3 =   
+ 
+    1.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH6/EX6.15/Example6_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+  - 0.1145625  
+ h  =
+ 
+  - 0.1145625  
+    0.0792797  
+ h  =
+ 
+  - 0.1145625  
+    0.0792797  
+    0.3209971  
+ h  =
+ 
+  - 0.1145625  
+    0.0792797  
+    0.3209971  
+    0.4285714  
+ h  =
+ 
+  - 0.1145625  
+    0.0792797  
+    0.3209971  
+    0.4285714  
+    0.3209971  
+ h  =
+ 
+  - 0.1145625  
+    0.0792797  
+    0.3209971  
+    0.4285714  
+    0.3209971  
+    0.0792797  
+ h  =
+ 
+  - 0.1145625  
+    0.0792797  
+    0.3209971  
+    0.4285714  
+    0.3209971  
+    0.0792797  
+  - 0.1145625  
+ 
+ 
+ Filter Coefficients,h(n)=   
+ 
+  - 0.1145625  
+    0.0792797  
+    0.3209971  
+    0.4285714  
+    0.3209971  
+    0.0792797  
+  - 0.1145625  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH6/EX6.16/Example6_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Filter Coefficients,h(n)=   
+ 
+  - 0.0498159  
+    0.0412023  
+    0.0666667  
+  - 0.0364879  
+  - 0.1078689  
+    0.0340780  
+    0.3188924  
+    0.4666667  
+    0.3188924  
+    0.0340780  
+  - 0.1078689  
+  - 0.0364879  
+    0.0666667  
+    0.0412023  
+  - 0.0498159  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH6/EX6.17/Example6_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Filter Coefficients,h(n)=   
+ 
+  - 0.0792797  
+  - 0.3209971  
+    0.1145625  
+    0.5714286  
+    0.1145625  
+  - 0.3209971  
+  - 0.0792797  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH6/EX6.28/Example6_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    2.  
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ 
+ a(3,0)   
+ 
+    1.  
+ 
+ 
+ a(3,1)   
+ 
+    0.75  
+ 
+ 
+ a(3,2)   
+ 
+    0.5  
+ 
+ 
+ a(3,3)   
+ 
+    0.25  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH6/EX6.29/Example6_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ m  =
+ 
+    2.  
+ 
+ 
+ 
+ k1   
+ 
+    0.0996310  
+ 
+ 
+ k2   
+ 
+    0.69375  
+ 
+ 
+ k3   
+ 
+    0.3333333  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH7/EX7.2/Example7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PART 1   
+ 
+    0.5  
+ 
+ -   
+ 
+    0.25  
+ 
+ =   
+ 
+    0.25  
+ 
+ 
+ 
+ 
+ PART 2   
+ 
+    0.25  
+ 
+ -   
+ 
+    0.5  
+ 
+ =   
+ 
+  - 0.25  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH7/EX7.14/Example7_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ QUANTIZATION STEP SIZE =   
+ 
+    0.78125  
+ 
+ 
+ VARIANCE OF ERROR SIGNAL =   
+ 
+    0.0508626  
+ 
+ 
+ VARIANCE OF OUTPUT =   
+ 
+    0.1412851  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH8/EX8.10/Example8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ H(z) =   
+ 
+               2   4   
+     1.2 + 1.8z + z    
+    ----------------   
+                2   4  
+    0.36 + 0.56z + z   
+ 
+ +   
+ 
+                2      
+      - 1 + 0.2z       
+    ----------------   
+                2   4  
+    0.36 + 0.56z + z   
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH9/EX9.7.a/Example9_7_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resolution of Bartlett Method   
+ 
+    0.0559203  
+ 
+ 
+ Resolution of Welch(50% overlap) Method   
+ 
+    0.0452389  
+ 
+ 
+ Resolution of Blackmann-Tukey Method   
+ 
+    0.0268083  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH9/EX9.7.b/Example9_7_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Record Length of Bartlett Method   
+ 
+    100.  
+ 
+ 
+ Record Length of Welch(50% overlap) Method   
+ 
+    177.77778  
+ 
+ 
+ Record Length of Blackmann-Tukey Method   
+ 
+    150.  
+ 
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH9/EX9.8.a/Example9_8_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Record Length of Bartlett Method   
+ 
+    89.  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH9/EX9.8.b/Example9_8_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quality Factor of Bartlett Method   
+ 
+    26.966292  
+ 
+grepthis#Digital_Signal_Processing_R._Babu_52/CH11/EX11.3/Program11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter Integer Number A =[0m[1m
+grepthis#Digital_Signal_Processing_R._Babu_52/CH11/EX11.5/Program11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y = A*X1+B*X2+C*X3 =    
+ 
+    32.  
+ 

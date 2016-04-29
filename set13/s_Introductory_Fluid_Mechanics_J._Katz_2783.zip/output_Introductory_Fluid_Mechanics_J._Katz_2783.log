@@ -1,0 +1,3646 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 75
+
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ M  =
+ 
+    29.  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ T  =
+ 
+    300.  
+ 
+ P  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ R  =
+ 
+    286.7  
+ 
+ P  =
+ 
+    98000.  
+ 
+ rho  =
+ 
+    1.1394024  
+ 
+ 
+ Density = 1.139 kg/m^3  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ t  =
+ 
+    2.  
+ 
+ U  =
+ 
+    3.  
+ 
+ mu  =
+ 
+    0.29  
+ 
+ 
+ tau  =
+ 
+    43.5  
+ 
+ 
+ Shear = 43 N/m^2 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    0.025  
+ 
+ D  =
+ 
+    10.  
+ 
+ 
+ R  =
+ 
+    5.  
+ 
+ dP  =
+ 
+    1.  
+ 
+ 
+The pressure difference is = 1.0 N/m^2 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ R  =
+ 
+    1.  
+ 
+ sigma  =
+ 
+    0.073  
+ 
+ theta  =
+ 
+    0.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ theta  =
+ 
+    0.  
+ 
+ h  =
+ 
+    0.0148980  
+ 
+ 
+The rise of water = 0.015 m 
+ R  =
+ 
+    1.  
+ 
+ sigma  =
+ 
+    0.48  
+ 
+ theta  =
+ 
+    130.  
+ 
+ rho  =
+ 
+    13600.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ theta  =
+ 
+    2.268928  
+ 
+ h  =
+ 
+  - 0.0046299  
+ 
+ 
+
+ The rise of mercury = -0.0046 m 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ E  =
+ 
+    2.340D+09  
+ 
+ d  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ d  =
+ 
+    1000.  
+ 
+ dp  =
+ 
+    9800000.  
+ 
+ dVV  =
+ 
+    0.0041880  
+ 
+ 
+The change in pressure is 9.80e+06 N/m^2  
+
+ Change in volume is 4.188e-03  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    286.6  
+ 
+ 
+ 
+ a  =
+ 
+    346.94668  
+ 
+ 
+The speed of sound in air is 346.9 m/s  
+ 
+ E  =
+ 
+    2.340D+09  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ a  =
+ 
+    1529.7059  
+ 
+ 
+ 
+ The speed of sound in sea waer is 1529 m/s  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ A1  =
+ 
+    30.  
+ 
+ u1  =
+ 
+    1.  
+ 
+ A3  =
+ 
+    20.  
+ 
+ u3  =
+ 
+    1.2  
+ 
+ A2  =
+ 
+    20.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ 
+ m1  =
+ 
+    3.  
+ 
+ m3  =
+ 
+    2.4  
+ 
+ m2  =
+ 
+    0.6  
+ 
+ u2  =
+ 
+    0.3  
+ 
+ 
+Mass flow rate entering station 1 is 3.0 kg/s 
+
+ Mass flow rate entering station 2 is 0.6 kg/s 
+
+ The average velocity leaving at station 2 is 0.3 m/s  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ Ue  =
+ 
+    5.  
+ 
+ Ae  =
+ 
+    20.  
+ 
+ dp  =
+ 
+    0.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ Ae  =
+ 
+    0.002  
+ 
+ Fx  =
+ 
+    50.  
+ 
+ 
+The force on the water pipe is 50 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ h  =
+ 
+    380.  
+ 
+ T  =
+ 
+    300.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ R  =
+ 
+    286.6  
+ 
+ 
+ Pr  =
+ 
+    0.9575699  
+ 
+ P1  =
+ 
+    1.  
+ 
+ dP  =
+ 
+    4299.2334  
+ 
+ 
+The difference in pressure is 4299 N/m^2 
+ 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ d  =
+ 
+    4.  
+ 
+ h  =
+ 
+    10.  
+ 
+ th  =
+ 
+    60.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ p  =
+ 
+    98000.  
+ 
+ th  =
+ 
+    1.0471976  
+ 
+ R  =
+ 
+    2.  
+ 
+ S  =
+ 
+    12.566371  
+ 
+ Fz  =
+ 
+  - 1231504.3  
+ 
+ Y  =
+ 
+    0.0866025  
+ 
+ M  =
+ 
+  - 106651.4  
+ 
+ 
+Hydrostatic force = -1.23e+06 N 
+
+ Y coordinate of center of pressure with respect to centroid is 0.0866 m 
+
+ The moment required to open it is 1.07e+05 Nm 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ F  =
+ 
+    20.9  
+ 
+ Vc  =
+ 
+    310.  
+ 
+ rho_w  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ Wc  =
+ 
+    23.938  
+ 
+ rho_c  =
+ 
+    7879.526  
+ 
+ 
+The crown density is 7879 kg/m^3 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ W  =
+ 
+    275.  
+ 
+ rho_c  =
+ 
+    1.22  
+ 
+ D  =
+ 
+    15.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ Tc  =
+ 
+    290.  
+ 
+ 
+ L  =
+ 
+    2695.  
+ 
+ Tr  =
+ 
+    0.8724441  
+ 
+ Th  =
+ 
+    332.39951  
+ 
+ 
+The temperature required is  332.4 K 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ An  =
+ 
+    1.  
+ 
+ Un  =
+ 
+    15.  
+ 
+ Ub  =
+ 
+    10.  
+ 
+ U1  =
+ 
+    5.  
+ 
+ U2  =
+ 
+    5.  
+ 
+ th  =
+ 
+    120.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ th  =
+ 
+    2.0943951  
+ 
+ Fx  =
+ 
+  - 3.75  
+ 
+ Fz  =
+ 
+    2.1650635  
+ 
+ W  =
+ 
+  - 37.5  
+ 
+ 
+The forces acting are Fx = -3.75 N 
+ Fz = 2.17 N  
+
+ The power generated is 37.5 W 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ u  =
+ 
+    15.  
+ 
+ D  =
+ 
+    0.1  
+ 
+ u1  =
+ 
+    10.  
+ 
+ u2  =
+ 
+    10.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ th  =
+ 
+    60.  
+ 
+ 
+ th  =
+ 
+    1.0471976  
+ 
+ A  =
+ 
+    0.0078540  
+ 
+ Fx  =
+ 
+  - 883.57293  
+ 
+ 
+Force on the wedge is  Fx = -883.6 N 
+
+ Fz = 0 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ p  =
+ 
+    100000.  
+ 
+ A  =
+ 
+    1.  
+ 
+ w  =
+ 
+    0.5  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ Ue  =
+ 
+    14.142136  
+ 
+ m_0  =
+ 
+    1.5  
+ 
+ m_s  =
+ 
+    0.5  
+ 
+ Uf  =
+ 
+    15.536724  
+ 
+ 
+The exit velocity is 14.14 m/s 
+
+ The final velocity of the system is 15.54 m/s  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ h  =
+ 
+    20.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ rho_w  =
+ 
+    1000.  
+ 
+ rho_a  =
+ 
+    1.2  
+ 
+ 
+ dP  =
+ 
+    1960.  
+ 
+ U  =
+ 
+    57.154761  
+ 
+ 
+Air speed is 57.15 m/s  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ U  =
+ 
+    5.  
+ 
+ h  =
+ 
+    1.  
+ 
+ mu  =
+ 
+    0.001  
+ 
+ 
+ Uav  =
+ 
+    2.5  
+ 
+ Q  =
+ 
+    0.025  
+ 
+ tau_xz  =
+ 
+    0.5  
+ 
+ S  =
+ 
+    1.  
+ 
+ F  =
+ 
+    0.5  
+ 
+ 
+Shear stress per unit width at wall is 0.5 N/m^2 
+
+ The force required is 0.5 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ Uav  =
+ 
+    1.  
+ 
+ h  =
+ 
+    1.  
+ 
+ mu  =
+ 
+    0.001  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ h  =
+ 
+    0.01  
+ 
+ Umax  =
+ 
+    1.5  
+ 
+ Dp  =
+ 
+  - 120.  
+ 
+ tau  =
+ 
+    0.6  
+ 
+ Re  =
+ 
+    10000.  
+ 
+ Cf  =
+ 
+    0.0012  
+ 
+ 
+Max velocity = 1.50 m/s  
+
+ Pressure gradient = -120.00 N/m^3 
+
+ shear = 0.6 N 
+
+ friction coefficient = 1.20e-03  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ h1  =
+ 
+    0.2  
+ 
+ hr  =
+ 
+    2.2  
+ 
+ u  =
+ 
+    50.  
+ 
+ mu  =
+ 
+    0.000018  
+ 
+ l  =
+ 
+    1.  
+ 
+ 
+ l  =
+ 
+    0.01  
+ 
+ h1  =
+ 
+    0.0002  
+ 
+ L  =
+ 
+    0.36  
+ 
+ R  =
+ 
+    0.094  
+ 
+ 
+Lift = 0.36 N/m 
+
+ Drag to Lift ratio = 0.094  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ L  =
+ 
+    3.  
+ 
+ D  =
+ 
+    1.2  
+ 
+ Q  =
+ 
+    0.5  
+ 
+ mu  =
+ 
+    0.019  
+ 
+ rho  =
+ 
+    814.  
+ 
+ 
+ R  =
+ 
+    0.006  
+ 
+ Q  =
+ 
+    0.0000083  
+ 
+ Dp  =
+ 
+  - 311.10534  
+ 
+ S  =
+ 
+    0.0001131  
+ 
+ Uav  =
+ 
+    0.0736828  
+ 
+ Re  =
+ 
+    3788.0738  
+ 
+ 
+The pressure drop is -311.1 N/m^2 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ L  =
+ 
+    10.  
+ 
+ D  =
+ 
+    0.02  
+ 
+ Uav  =
+ 
+    0.15  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ mu  =
+ 
+    0.001  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ Re  =
+ 
+    3000.  
+ 
+ f  =
+ 
+    0.0213333  
+ 
+ Hf  =
+ 
+    0.0122449  
+ 
+ 
+Head loss is = 0.0122 m 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    6.  
+ 
+ D  =
+ 
+    3.  
+ 
+ K  =
+ 
+    0.32  
+ 
+ g  =
+ 
+    9.8  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ R  =
+ 
+    0.015  
+ 
+ S  =
+ 
+    0.0007069  
+ 
+ Q  =
+ 
+    0.0001  
+ 
+ Uav  =
+ 
+    0.1414711  
+ 
+ Hf  =
+ 
+    0.0003268  
+ 
+ dP  =
+ 
+    3.2022498  
+ 
+ 
+The pressure drop is 3.20 N/m^2 
+
+ Head loss is 3.27e-04 m 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ h  =
+ 
+    20.  
+ 
+ a  =
+ 
+    2.  
+ 
+ f  =
+ 
+    0.015  
+ 
+ D  =
+ 
+    0.3  
+ 
+ K  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    9.8  
+ 
+ rho  =
+ 
+    804.  
+ 
+ mu  =
+ 
+    0.0019  
+ 
+ 
+ u2  =
+ 
+    6.0708073  
+ 
+ S  =
+ 
+    0.0706858  
+ 
+ Q  =
+ 
+    0.4291201  
+ 
+ Re  =
+ 
+    770673.01  
+ 
+ 
+Average discarge velocity = 6.07 m/s 
+
+ Re = 7.707e+05  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ h2  =
+ 
+    0.2  
+ 
+ D  =
+ 
+    0.01  
+ 
+ h1  =
+ 
+    0.1  
+ 
+ rho  =
+ 
+    1254.  
+ 
+ mu  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ a  =
+ 
+    0.0510204  
+ 
+ b  =
+ 
+    3.2288513  
+ 
+ c  =
+ 
+  - 0.3  
+ 
+ u2a  =
+ 
+    0.0927763  
+ 
+ u2b  =
+ 
+  - 63.378263  
+ 
+ u2  =
+ 
+    0.0927763  
+ 
+ 
+Exit velocity is 0.093 m/s 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ 
+ h  =
+ 
+    20.  
+ 
+ D1  =
+ 
+    0.3  
+ 
+ D2  =
+ 
+    0.2  
+ 
+ K  =
+ 
+    0.1  
+ 
+ L1  =
+ 
+    50.  
+ 
+ L2  =
+ 
+    100.  
+ 
+ f  =
+ 
+    0.015  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ u3  =
+ 
+    6.5946897  
+ 
+ S3  =
+ 
+    0.0314159  
+ 
+ Q  =
+ 
+    0.2071783  
+ 
+ 
+Average discharge velocity is 6.59 m/s 
+
+ The corresponding flow rate is 0.21 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ 
+ L  =
+ 
+    20.  
+ 
+ D  =
+ 
+    6.  
+ 
+ th  =
+ 
+    40.  
+ 
+ Q  =
+ 
+    7.63  
+ 
+ rho  =
+ 
+    900.  
+ 
+ mu  =
+ 
+    0.18  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ th  =
+ 
+    0.6981317  
+ 
+ R  =
+ 
+    0.03  
+ 
+ S  =
+ 
+    0.0028274  
+ 
+ U  =
+ 
+    2.6985605  
+ 
+ Re  =
+ 
+    809.56814  
+ 
+ f  =
+ 
+    0.0790545  
+ 
+ Hf  =
+ 
+    9.7906956  
+ 
+ Dp  =
+ 
+    199741.67  
+ 
+ P  =
+ 
+    1524.0289  
+ 
+ 
+Power = 1524.0 W 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    5.  
+ 
+ L  =
+ 
+    10.  
+ 
+ D  =
+ 
+    5.  
+ 
+ UD  =
+ 
+    3.  
+ 
+ L1  =
+ 
+    12.  
+ 
+ K1  =
+ 
+    0.9  
+ 
+ K2  =
+ 
+    0.2  
+ 
+ f  =
+ 
+    0.025  
+ 
+ 
+ Q  =
+ 
+    0.005  
+ 
+ D  =
+ 
+    0.05  
+ 
+ R  =
+ 
+    0.025  
+ 
+ UD  =
+ 
+    0.03  
+ 
+ UR  =
+ 
+    0.015  
+ 
+ Ur  =
+ 
+    0.4098361  
+ 
+ Ur  =
+ 
+    0.6401844  
+ 
+ Ul  =
+ 
+    2.0695235  
+ 
+ Ql  =
+ 
+    4.0634999  
+ 
+ 
+Velocity and flow rate in the lower pipe are respectively 2.07 m/s 4.06 L/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.13/Ex5_13.sce #
+ 
+ 
+ 
+ z  =
+ 
+    0.8  
+ 
+ b  =
+ 
+    1.  
+ 
+ th  =
+ 
+    60.  
+ 
+ n  =
+ 
+    0.012  
+ 
+ phi  =
+ 
+    0.3  
+ 
+ 
+ th  =
+ 
+    1.0471976  
+ 
+ phi  =
+ 
+    0.0052360  
+ 
+ S  =
+ 
+    1.1695042  
+ 
+ Ph  =
+ 
+    2.8475209  
+ 
+ Rh  =
+ 
+    0.4107096  
+ 
+ Uav  =
+ 
+    3.3317824  
+ 
+ Q  =
+ 
+    3.8965334  
+ 
+ 
+Average velocity is 3.33 m/s 
+
+ Flow rate = 3.90 m^3/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.16/Ex5_16.sce #
+ 
+ 
+ 
+ u1  =
+ 
+    8.  
+ 
+ z1  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ Fr1  =
+ 
+    2.5555063  
+ 
+ zr  =
+ 
+    3.1484551  
+ 
+ z2  =
+ 
+    3.1484551  
+ 
+ u2  =
+ 
+    2.5409287  
+ 
+ Fr2  =
+ 
+    0.4574364  
+ 
+ hr  =
+ 
+    0.7874470  
+ 
+ loss  =
+ 
+    0.1846168  
+ 
+ 
+Fr1 = 2.556 
+
+ Fr2 = 0.457 
+
+ percent of loss = 18.5 percent 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.17/Ex5_17.sce #
+ 
+ 
+ 
+ D  =
+ 
+    0.5  
+ 
+ H  =
+ 
+    0.5  
+ 
+ d  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ Cd  =
+ 
+    0.4588  
+ 
+ Q  =
+ 
+    0.3590678  
+ 
+ 
+Flow rate is Q = 0.359 m^3/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ w  =
+ 
+    1.  
+ 
+ L  =
+ 
+    0.5  
+ 
+ u  =
+ 
+    2.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ mu  =
+ 
+    0.001  
+ 
+ 
+ ReL  =
+ 
+    1000000.  
+ 
+ Cd  =
+ 
+    0.001328  
+ 
+ D  =
+ 
+    2.656  
+ 
+ del  =
+ 
+    0.0008605  
+ 
+ th  =
+ 
+    0.000332  
+ 
+ 
+The drag on teh plate is 2.656 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    5.  
+ 
+ x0  =
+ 
+    1.  
+ 
+ y0  =
+ 
+    1.  
+ 
+ x  =
+ 
+    0.  
+ 
+ y  =
+ 
+  - 1.  
+ 
+ 
+ u  =
+ 
+  - 0.1591549  
+ 
+ w  =
+ 
+  - 0.3183099  
+ 
+ 
+u = -0.159 m/s 
+
+ w = -0.318 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ mu  =
+ 
+    1.  
+ 
+ x0  =
+ 
+    0.  
+ 
+ z0  =
+ 
+    0.  
+ 
+ x  =
+ 
+    1.  
+ 
+ z  =
+ 
+    0.  
+ 
+ 
+ u  =
+ 
+    0.1591549  
+ 
+ w  =
+ 
+    0.  
+ 
+ 
+u = 0.16 m/s 
+
+ w = 0.00 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ gama  =
+ 
+    5.  
+ 
+ x0  =
+ 
+    1.  
+ 
+ y0  =
+ 
+    1.  
+ 
+ x  =
+ 
+    0.  
+ 
+ y  =
+ 
+  - 1.  
+ 
+ 
+ w  =
+ 
+    0.1591549  
+ 
+ u  =
+ 
+  - 0.3183099  
+ 
+ 
+u = -0.318 m/s 
+
+ w = 0.159 m/s 
+ x  =
+ 
+    3.  
+ 
+ y  =
+ 
+    0.  
+ 
+ 
+ w  =
+ 
+  - 0.3183099  
+ 
+ u  =
+ 
+  - 0.1591549  
+ 
+ 
+
+ for the second point 
+
+ u = -0.159 m/s 
+
+ w = -0.318 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ Re  =
+ 
+    3000000.  
+ 
+ CdT  =
+ 
+    0.004  
+ 
+ x  =
+ 
+    0.4  
+ 
+ 
+ Cd  =
+ 
+    0.0007667  
+ 
+ Cd  =
+ 
+    0.0027067  
+ 
+ Cd  =
+ 
+    0.0054134  
+ 
+ 
+For two sides the drag coefficient is estimated as 0.0054 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ h  =
+ 
+    15.  
+ 
+ D  =
+ 
+    0.25  
+ 
+ u  =
+ 
+    30.  
+ 
+ rho  =
+ 
+    1.2  
+ 
+ mu  =
+ 
+    0.0000181  
+ 
+ Cd  =
+ 
+    0.7  
+ 
+ Re  =
+ 
+    497237.57  
+ 
+ D  =
+ 
+    1417.5  
+ 
+ M  =
+ 
+    10631.25  
+ 
+ 
+D = 1417.5 N 
+
+ M = 10631 N m 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ 
+ D  =
+ 
+    0.5  
+ 
+ rAl  =
+ 
+    2700.  
+ 
+ mu  =
+ 
+    0.29  
+ 
+ rOil  =
+ 
+    919.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ D  =
+ 
+    0.005  
+ 
+ R  =
+ 
+    0.0025  
+ 
+ U  =
+ 
+    0.0835910  
+ 
+ 
+The ball will sink with 0.084 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    1.2  
+ 
+ r  =
+ 
+    1.2  
+ 
+ u  =
+ 
+    15.  
+ 
+ l  =
+ 
+    1.  
+ 
+ b  =
+ 
+    1.  
+ 
+ 
+ D  =
+ 
+    12.5  
+ 
+ 
+The force on the plate is 12.5 N 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.10/Ex8_10.sce #
+ 
+ 
+ 
+ u  =
+ 
+    25.  
+ 
+ t  =
+ 
+    1.  
+ 
+ S  =
+ 
+    0.36  
+ 
+ Cd  =
+ 
+    0.88  
+ 
+ r  =
+ 
+    1.2  
+ 
+ 
+ D  =
+ 
+    9.1666667  
+ 
+ P  =
+ 
+    63.657407  
+ 
+ E  =
+ 
+    229166.67  
+ 
+ 
+Drag force = 9.17 N 
+
+ Power = 63.66 W 
+
+ Energy spent is 229.2 KJ 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.11/Ex8_11.sce #
+ 
+ 
+ 
+ u  =
+ 
+    20.  
+ 
+ Cd  =
+ 
+    0.15  
+ 
+ S  =
+ 
+    4.  
+ 
+ r  =
+ 
+    1025.  
+ 
+ 
+ D  =
+ 
+    9490.7407  
+ 
+ P  =
+ 
+    52726.337  
+ 
+ 
+Drag force = 9490 N 
+
+ Power = 52.73 KW 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.12/Ex8_12.sce #
+ 
+ 
+ 
+ m  =
+ 
+    90.  
+ 
+ D  =
+ 
+    6.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ r  =
+ 
+    1.2  
+ 
+ Cd  =
+ 
+    1.2  
+ 
+ 
+ R  =
+ 
+    3.  
+ 
+ S  =
+ 
+    28.274334  
+ 
+ U  =
+ 
+    6.5822118  
+ 
+ 
+U = 6.58 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.13/Ex8_13.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.32  
+ 
+ S  =
+ 
+    1.8  
+ 
+ Pe  =
+ 
+    300.  
+ 
+ u  =
+ 
+    100.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ 
+ D  =
+ 
+    266.66667  
+ 
+ P  =
+ 
+    7407.4074  
+ 
+ 
+Power required = 7.4 kW = 9.9 hp 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.14/Ex8_14.sce #
+ 
+ 
+ 
+ D  =
+ 
+    0.3  
+ 
+ u  =
+ 
+    35.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ mu  =
+ 
+    0.0000181  
+ 
+ St  =
+ 
+    0.23  
+ 
+ 
+ Re  =
+ 
+    696132.6  
+ 
+ f  =
+ 
+    26.833333  
+ 
+ 
+So there are 26 full cycles per second 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.15/Ex8_15.sce #
+ 
+ 
+ 
+ w  =
+ 
+    2.  
+ 
+ u  =
+ 
+    100.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ mu  =
+ 
+    0.0000181  
+ 
+ 
+ D  =
+ 
+    2.  
+ 
+ Re  =
+ 
+    3683241.3  
+ 
+ St  =
+ 
+    0.23  
+ 
+ f  =
+ 
+    3.1944444  
+ 
+ l  =
+ 
+    8.6956522  
+ 
+ 
+Oscillation frequency is 3.19 Hz 
+
+ The distance between two cycles is 8.70 m 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.16/Ex8_16.sce #
+ 
+ 
+ 
+ D  =
+ 
+    0.65  
+ 
+ u  =
+ 
+    50.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ mu  =
+ 
+    0.0000181  
+ 
+ 
+ D  =
+ 
+    0.0065  
+ 
+ Re  =
+ 
+    5985.267  
+ 
+ St  =
+ 
+    0.21  
+ 
+ f  =
+ 
+    448.71795  
+ 
+ 
+So there are 448 full cycles per second 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.17/Ex8_17.sce #
+ 
+ 
+ 
+ D  =
+ 
+    3.  
+ 
+ u  =
+ 
+    11.  
+ 
+ w  =
+ 
+    7000.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ 
+ D  =
+ 
+    0.03  
+ 
+ R  =
+ 
+    0.015  
+ 
+ S  =
+ 
+    0.0007069  
+ 
+ Rw  =
+ 
+    0.9995977  
+ 
+ Cl  =
+ 
+    0.27  
+ 
+ Cd  =
+ 
+    0.63  
+ 
+ L  =
+ 
+    0.0138558  
+ 
+ D  =
+ 
+    0.0323303  
+ 
+ 
+Lift = 0.014 N 
+
+ Drag = 0.032 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.18/Ex8_18.sce #
+ 
+ 
+ 
+ c  =
+ 
+    3.5  
+ 
+ u  =
+ 
+    20.  
+ 
+ alpha  =
+ 
+    5.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ 
+ alpha  =
+ 
+    0.0872665  
+ 
+ Cl  =
+ 
+    0.5483114  
+ 
+ L  =
+ 
+    35.538699  
+ 
+ 
+Lift per unit span is 35.54 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.20/Ex8_20.sce #
+ 
+ 
+ 
+ c  =
+ 
+    3.5  
+ 
+ b  =
+ 
+    10.  
+ 
+ u  =
+ 
+    20.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ a  =
+ 
+    5.  
+ 
+ 
+ a  =
+ 
+    0.0872665  
+ 
+ Cl  =
+ 
+    0.3225361  
+ 
+ L  =
+ 
+    209.05117  
+ 
+ AR  =
+ 
+    2.8571429  
+ 
+ Cdi  =
+ 
+    0.0115898  
+ 
+ Di  =
+ 
+    7.5118878  
+ 
+ 
+Lift = 209.05 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.21/Ex8_21.sce #
+ 
+ 
+ 
+ m  =
+ 
+    100.  
+ 
+ u  =
+ 
+    200.  
+ 
+ b  =
+ 
+    47.  
+ 
+ r  =
+ 
+    1.22  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ gama  =
+ 
+    307.63865  
+ 
+ w  =
+ 
+    8.3339934  
+ 
+ 
+Downwash = 8.33 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.22/Ex8_22.sce #
+ 
+ 
+ 
+ a  =
+ 
+    8.  
+ 
+ c  =
+ 
+    0.5  
+ 
+ b1  =
+ 
+    2.  
+ 
+ b2  =
+ 
+    4.  
+ 
+ 
+ a  =
+ 
+    0.1396263  
+ 
+ AR1  =
+ 
+    4.  
+ 
+ AR2  =
+ 
+    8.  
+ 
+ Cla1  =
+ 
+    4.1887902  
+ 
+ Cla2  =
+ 
+    4.1887902  
+ 
+ Cl1  =
+ 
+    0.5848654  
+ 
+ Cl2  =
+ 
+    0.5848654  
+ 
+ Cd1  =
+ 
+    0.0272209  
+ 
+ Cd2  =
+ 
+    0.0136104  
+ 
+ r1  =
+ 
+    21.485917  
+ 
+ r2  =
+ 
+    42.971835  
+ 
+ 
+Lift to induced drag ratios are respectively 21.49 and 42.97  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.23/Ex8_23.sce #
+ 
+ 
+ 
+ m  =
+ 
+    250.  
+ 
+ b  =
+ 
+    64.4  
+ 
+ S  =
+ 
+    541.  
+ 
+ c  =
+ 
+    8.4  
+ 
+ r  =
+ 
+    1.1  
+ 
+ u  =
+ 
+    600.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ u  =
+ 
+    166.66667  
+ 
+ Cl  =
+ 
+    0.2964208  
+ 
+ AR  =
+ 
+    7.6660998  
+ 
+ Cla  =
+ 
+    4.9831397  
+ 
+ aa  =
+ 
+    0.0594847  
+ 
+ aa  =
+ 
+    3.4082246  
+ 
+ 
+Airplane angle of attack is 3.4 degrees 
+
+ Lift slope is 4.98  
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.24/Ex8_24.sce #
+ 
+ 
+ 
+ b  =
+ 
+    4.  
+ 
+ c  =
+ 
+    0.5  
+ 
+ a  =
+ 
+    5.  
+ 
+ u  =
+ 
+    12.  
+ 
+ r  =
+ 
+    1030.  
+ 
+ 
+ a  =
+ 
+    0.0872665  
+ 
+ AR  =
+ 
+    8.  
+ 
+ Cla  =
+ 
+    5.0265482  
+ 
+ Cl  =
+ 
+    0.4386491  
+ 
+ W  =
+ 
+    130120.86  
+ 
+ Cdi  =
+ 
+    0.0076559  
+ 
+ Di  =
+ 
+    2271.0375  
+ 
+ P  =
+ 
+    27252.45  
+ 
+The power required is 27.25 kW 
+
+ The weight of the boat is 130120 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH8/EX8.25/Ex8_25.sce #
+ 
+ 
+ 
+ u  =
+ 
+    70.  
+ 
+ a  =
+ 
+    20.  
+ 
+ b  =
+ 
+    15.  
+ 
+ c  =
+ 
+    25.  
+ 
+ r  =
+ 
+    1.2  
+ 
+ 
+ AR  =
+ 
+    1.2  
+ 
+ a  =
+ 
+    0.3490659  
+ 
+ Cl  =
+ 
+    0.9499267  
+ 
+ W  =
+ 
+    523647.12  
+ 
+ D  =
+ 
+    190591.96  
+ 
+ 
+Airplane weight is 523647.1 N 
+
+ Drag is 190592.0 N 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    286.6  
+ 
+ 
+ a  =
+ 
+    346.94668  
+ 
+ 
+The speed of sound in air is 346.95 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ T0  =
+ 
+    850.  
+ 
+ T  =
+ 
+    270.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ 
+ M  =
+ 
+    3.2773069  
+ 
+ 
+M = 3.28 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ M  =
+ 
+    1.  
+ 
+ T0  =
+ 
+    300.  
+ 
+ P0  =
+ 
+    4.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ 
+ Tr  =
+ 
+    1.2  
+ 
+ Pr  =
+ 
+    1.8929292  
+ 
+ P  =
+ 
+    2.1131272  
+ 
+ T  =
+ 
+    250.  
+ 
+ 
+At the section: 
+
+ Pressure is 2.11 atm 
+
+ Temperature is 250.00 K 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH10/EX10.6/Ex10_6.sce #
+ 
+ 
+ 
+ T0  =
+ 
+    2100.  
+ 
+ P0  =
+ 
+    3.5  
+ 
+ At  =
+ 
+    4.  
+ 
+ Ar  =
+ 
+    4.  
+ 
+ Pa  =
+ 
+    1.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    286.6  
+ 
+ 
+ Me  =
+ 
+    2.94  
+ 
+ Pr  =
+ 
+    0.03  
+ 
+ Tr  =
+ 
+    0.366  
+ 
+ 
+ Pe  =
+ 
+    0.105  
+ 
+ Te  =
+ 
+    768.6  
+ 
+ ue  =
+ 
+    1632.6746  
+ 
+ re  =
+ 
+    0.0476664  
+ 
+ Ae  =
+ 
+    16.  
+ 
+ Ae  =
+ 
+    0.0016  
+ 
+ Fx  =
+ 
+    220.09747  
+ 
+The thrust in space is 220.10 N 
+ 
+ M1  =
+ 
+    2.9  
+ 
+ M2  =
+ 
+    0.4813796  
+ 
+ P0r  =
+ 
+    0.358  
+ 
+ Ar  =
+ 
+    3.85  
+ 
+ Aer  =
+ 
+    1.433  
+ 
+ Me  =
+ 
+    0.45  
+ 
+ Per  =
+ 
+    0.87  
+ 
+ Tr  =
+ 
+    0.961  
+ 
+ 
+ Pe  =
+ 
+    1.09011  
+ 
+ Te  =
+ 
+    2018.1  
+ 
+ ue  =
+ 
+    404.93561  
+ 
+ re  =
+ 
+    0.188474  
+ 
+ Fx  =
+ 
+    63.86499  
+ 
+
+ The thrust at sea level is 63.86 N 
+ 
+ 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.3  
+ 
+ w  =
+ 
+    3000.  
+ 
+ Cz  =
+ 
+    61.  
+ 
+ th  =
+ 
+    45.  
+ 
+ 
+ U  =
+ 
+    94.24778  
+ 
+ beta1  =
+ 
+    0.9963708  
+ 
+ beta1  =
+ 
+    57.08784  
+ 
+ beta2  =
+ 
+    45.  
+ 
+ DCth  =
+ 
+    33.24778  
+ 
+ 
+Beta_1 = 57 degrees 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+ Cz  =
+ 
+    120.  
+ 
+ R_av  =
+ 
+    0.5  
+ 
+ T01  =
+ 
+    300.  
+ 
+ w  =
+ 
+    4000.  
+ 
+ alpha1  =
+ 
+    22.  
+ 
+ beta2  =
+ 
+    27.  
+ 
+ eta  =
+ 
+    0.98  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ 
+ Cp  =
+ 
+    1008.  
+ 
+ alpha1  =
+ 
+    0.3839724  
+ 
+ beta2  =
+ 
+    0.4712389  
+ 
+ U  =
+ 
+    209.43951  
+ 
+ DCth  =
+ 
+    99.813309  
+ 
+ Pr  =
+ 
+    1.257881  
+ 
+ 
+The pressure rise (compression ratio) is 1.26 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ beta_d  =
+ 
+    15.  
+ 
+ r2  =
+ 
+    0.5  
+ 
+ r1  =
+ 
+    0.2  
+ 
+ w  =
+ 
+    5500.  
+ 
+ Cz  =
+ 
+    120.  
+ 
+ T  =
+ 
+    350.  
+ 
+ eta  =
+ 
+    0.98  
+ 
+ 
+ gama  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    286.6  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ cp  =
+ 
+    1008.  
+ 
+ T01  =
+ 
+    350.  
+ 
+ Uhub  =
+ 
+    115.19173  
+ 
+ Utip  =
+ 
+    287.97933  
+ 
+ w1  =
+ 
+    311.98092  
+ 
+ a1  =
+ 
+    374.74525  
+ 
+ M1  =
+ 
+    0.8325147  
+ 
+ 
+ beta1  =
+ 
+    0.7649570  
+ 
+ beta2  =
+ 
+    28.828806  
+ 
+ beta2  =
+ 
+    0.5031576  
+ 
+ Cp  =
+ 
+    0.3218982  
+ 
+ DCth  =
+ 
+    49.142586  
+ 
+ Pr  =
+ 
+    1.056126  
+ 
+Hub: 
+
+ The pressure rise coefficient is 0.32 
+
+ Compression ratio = 1.056 
+ 
+ beta1  =
+ 
+    1.1759797  
+ 
+ beta2  =
+ 
+    52.378675  
+ 
+ beta2  =
+ 
+    0.9141803  
+ 
+ Cp  =
+ 
+    0.6029726  
+ 
+ DCth  =
+ 
+    132.27607  
+ 
+ Pr  =
+ 
+    1.4219564  
+ 
+
+ tip: 
+
+ The pressure rise coefficient is 0.60 
+
+ Compression ratio = 1.422 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.5  
+ 
+ Cz  =
+ 
+    140.  
+ 
+ w  =
+ 
+    4000.  
+ 
+ T01  =
+ 
+    300.  
+ 
+ alpha1  =
+ 
+    20.  
+ 
+ Cp  =
+ 
+    0.45  
+ 
+ eta  =
+ 
+    0.98  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ 
+ temp  =
+ 
+    20.  
+ 
+ cp  =
+ 
+    1008.  
+ 
+ U  =
+ 
+    209.43951  
+ 
+ alpha1  =
+ 
+    0.3490659  
+ 
+ beta1  =
+ 
+    0.8472444  
+ 
+ beta2  =
+ 
+    0.4674746  
+ 
+ DCth  =
+ 
+    87.812666  
+ 
+ Pr  =
+ 
+    1.2246149  
+ 
+part (1) 
+
+ stagnation pressure rise (ratio)is 1.22 
+ 
+ Cz  =
+ 
+    100.  
+ 
+ alpha1  =
+ 
+    0.7662241  
+ 
+ Dalpha  =
+ 
+    23.901408  
+ 
+
+ Stator ahead of this stage must be rotated by 23.9 degrees 
+ DCth  =
+ 
+    62.723333  
+ 
+ Pr  =
+ 
+    1.1571039  
+ 
+
+ part (2) 
+
+ stagnation pressure rise (ratio)is 1.16 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ 
+ R  =
+ 
+    0.5  
+ 
+ U  =
+ 
+    290.  
+ 
+ c1  =
+ 
+    150.  
+ 
+ alpha1  =
+ 
+    37.  
+ 
+ beta2  =
+ 
+    37.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ T01  =
+ 
+    280.  
+ 
+ 
+ cp  =
+ 
+    1008.  
+ 
+ alpha1  =
+ 
+    0.6457718  
+ 
+ Cth1  =
+ 
+    90.272253  
+ 
+ DCth  =
+ 
+    109.45549  
+ 
+ beta1  =
+ 
+    0.8161135  
+ 
+ Cp  =
+ 
+    0.1989467  
+ 
+ Pr  =
+ 
+    1.3764973  
+ 
+ 
+The compression ratio is 1.38 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ 
+ r1  =
+ 
+    0.1  
+ 
+ r2  =
+ 
+    0.4  
+ 
+ bet  =
+ 
+    15.  
+ 
+ eta  =
+ 
+    0.9  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ w  =
+ 
+    5000.  
+ 
+ Cth1  =
+ 
+    0.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ T01  =
+ 
+    300.  
+ 
+ 
+ bet  =
+ 
+    0.2617994  
+ 
+ U2  =
+ 
+    209.43951  
+ 
+ U1  =
+ 
+    52.359878  
+ 
+ wr2  =
+ 
+    104.71976  
+ 
+ cp  =
+ 
+    1008.  
+ 
+ Cth2  =
+ 
+    237.49908  
+ 
+ Tr  =
+ 
+    0.1644897  
+ 
+ Pr  =
+ 
+    1.6212521  
+ 
+ 
+The pressure rise is 1.62 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ 
+ w  =
+ 
+    1000.  
+ 
+ r1  =
+ 
+    0.05  
+ 
+ r2  =
+ 
+    0.1  
+ 
+ bet  =
+ 
+    0.  
+ 
+ eta  =
+ 
+    0.9  
+ 
+ r  =
+ 
+    1000.  
+ 
+ 
+ bet  =
+ 
+    0.  
+ 
+ U2  =
+ 
+    10.471976  
+ 
+ Cth2  =
+ 
+    10.471976  
+ 
+ dp  =
+ 
+    98696.044  
+ 
+ U1  =
+ 
+    5.2359878  
+ 
+ beta1  =
+ 
+    50.  
+ 
+ beta1  =
+ 
+    40.  
+ 
+ beta1  =
+ 
+    0.6981317  
+ 
+ c1  =
+ 
+    4.3935154  
+ 
+ m  =
+ 
+    34.506589  
+ 
+ P  =
+ 
+    3784.0709  
+ 
+ 
+Pressure rise is 98696.0 N/m^2 
+
+ mass flow rate is 34.51 kg/s 
+
+ Power = 3784.07 W 
+ 
+ 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+ S  =
+ 
+    3.  
+ 
+ m  =
+ 
+    15.  
+ 
+ alpha2  =
+ 
+    68.5  
+ 
+ r  =
+ 
+    0.3  
+ 
+ w  =
+ 
+    1000.  
+ 
+ ma  =
+ 
+    100.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ S  =
+ 
+    0.0003  
+ 
+ alpha2  =
+ 
+    1.1955505  
+ 
+ U  =
+ 
+    31.415927  
+ 
+ c2  =
+ 
+    50.  
+ 
+ cz  =
+ 
+    18.325061  
+ 
+ beta2  =
+ 
+    0.6893705  
+ 
+ P  =
+ 
+    14236.082  
+ 
+ v  =
+ 
+    14.526614  
+ 
+ 
+beta_2 = 39.5 degrees 
+
+ v = 14.53 m/s 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.3  
+ 
+ w  =
+ 
+    7000.  
+ 
+ T01  =
+ 
+    1200.  
+ 
+ rho2  =
+ 
+    0.5  
+ 
+ R  =
+ 
+    0.5  
+ 
+ beta2  =
+ 
+    30.  
+ 
+ eta  =
+ 
+    0.9  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ cp  =
+ 
+    1008.  
+ 
+ U  =
+ 
+    219.91149  
+ 
+ beta2  =
+ 
+    0.5235988  
+ 
+ 
+ 
+ A  =
+ 
+  - 0.8660254  - 0.5        
+    0.5        - 0.8660254  
+ 
+ b  =
+ 
+  - 219.91149  
+    0.         
+ 
+ x  =
+ 
+    190.44893  
+    109.95574  
+ 
+ w2  =
+ 
+    109.95574  
+ 
+ c2  =
+ 
+    190.44893  
+ 
+ wt  =
+ 
+    24180.531  
+ 
+ Tr  =
+ 
+    0.0199905  
+ 
+ Pr  =
+ 
+    0.9243936  
+ 
+ 
+The power of the turbine (per unit mass) is 24180.53 m^2/s^2 
+
+ The pressure ratio is 0.924 
+
+ Because R = 0.50, half of pressure drop takes place in turbine 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.10/Ex11_10.sce #
+ 
+ 
+ 
+ r2  =
+ 
+    0.1  
+ 
+ m  =
+ 
+    1.  
+ 
+ T01  =
+ 
+    1200.  
+ 
+ alpha2  =
+ 
+    65.  
+ 
+ c2  =
+ 
+    330.  
+ 
+ rho2  =
+ 
+    0.5  
+ 
+ eta  =
+ 
+    0.9  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ alpha2  =
+ 
+    1.134464  
+ 
+ cp  =
+ 
+    1008.  
+ 
+ Cthd  =
+ 
+    299.08157  
+ 
+ U  =
+ 
+    149.54078  
+ 
+ P  =
+ 
+    44724.893  
+ 
+ Tr  =
+ 
+    0.0369749  
+ 
+ Pr  =
+ 
+    0.8634419  
+ 
+ RPM  =
+ 
+    238.00155  
+ 
+ 
+part (a) 
+
+ Power generated is 44724.9 W 
+part (b) 
+
+ Stagnation pressure drop is 0.863  
+
+ In rotor, zero static pressure drop takes place 
+
+ part (c) 
+
+ RPM = 14280 RPM 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.11/Ex11_11.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.1  
+ 
+ RPM  =
+ 
+    1000.  
+ 
+ c2  =
+ 
+    30.  
+ 
+ S  =
+ 
+    2.  
+ 
+ beta3  =
+ 
+    60.  
+ 
+ alpha2  =
+ 
+    90.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ beta3  =
+ 
+    1.0471976  
+ 
+ alpha2  =
+ 
+    1.5707963  
+ 
+ S  =
+ 
+    0.0002  
+ 
+ U  =
+ 
+    10.471976  
+ 
+ w2  =
+ 
+    19.528024  
+ 
+ w3  =
+ 
+    19.528024  
+ 
+ CthD  =
+ 
+    36.43979  
+ 
+ m  =
+ 
+    6.  
+ 
+ T  =
+ 
+    21.863874  
+ 
+ P  =
+ 
+    2289.5795  
+ 
+ 
+mass flow rate is 6.00 kg/s 
+
+ Torque T = 21.86 N m 
+
+ Power P = 2289.58 W 
+ 
+grepthis#Introductory_Fluid_Mechanics_J._Katz_2783/CH11/EX11.12/Ex11_12.sce #
+ 
+ 
+ 
+ P  =
+ 
+    5.  
+ 
+ U  =
+ 
+    30.  
+ 
+ eta  =
+ 
+    70.  
+ 
+ rho  =
+ 
+    1.22  
+ 
+ 
+ eta  =
+ 
+    0.7  
+ 
+ P  =
+ 
+    5000.  
+ 
+ R  =
+ 
+    3.2967794  
+ 
+ 
+R = 3.30 m 
+ 

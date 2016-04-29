@@ -1,0 +1,11 @@
+errcatch(-1,"stop");mode(2);;
+;
+format('v',12);
+ps=10^-7;
+u=2;
+w=0.1;
+t=5;
+I=ps*u*w;
+Q=I*t*10^9;
+disp(Q,'charge(in nC) collected in 5 sec=');
+exit();

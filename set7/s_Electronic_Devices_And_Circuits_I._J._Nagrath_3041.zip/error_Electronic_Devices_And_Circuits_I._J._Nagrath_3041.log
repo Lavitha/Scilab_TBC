@@ -1,0 +1,315 @@
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.10/Ex2_10.sce
+ 
+ beeta  =
+ 
+    160.  
+ 
+ Vee  =
+ 
+    10.  
+ 
+ Rb  =
+ 
+    400.  
+ 
+ Veb  =
+ 
+    0.8  
+ 
+ Re  =
+ 
+    2.5  
+ 
+ Rc  =
+ 
+    1.5  
+ 
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0114642  
+ 
+ Ic  =
+ 
+    1.8342679  
+ 
+ Ie  =
+ 
+    1.8457321  
+ 
+ Vce  =
+ 
+    2.6342679  
+ 
+ Vce  =
+ 
+  - 2.6342679  
+ 
+ 
+ 
+ beeta  =
+ 
+    80.  
+ 
+ Ib1  =
+ 
+    0.0152697  
+ 
+ Ic1  =
+ 
+    1.2215768  
+ 
+ Ie1  =
+ 
+    1.2368465  
+ 
+ Vce1  =
+ 
+  - 5.0755187  
+ 
+ 
+ 
+printf ("collector current and Vce for beeta=160 are %.2f mA and V" ,Ic,Vce)
+                                                                             !--error 999 
+mprintf: Wrong number of input arguments: at most 1 expected.
+at line      25 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.10/Ex2_10.sce',-1)
+ 
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.13/Ex2_13.sce
+ 
+ 
+ K  =
+ 
+    2.  
+ 
+ Rd  =
+ 
+    2500.  
+ 
+ Rs  =
+ 
+    2500.  
+ 
+ R1  =
+ 
+    100000.  
+ 
+ R2  =
+ 
+    200000.  
+ 
+ Vdd  =
+ 
+    12.  
+ 
+ Vt  =
+ 
+    4.  
+ 
+ 
+ 
+ Vgg  =
+ 
+    8.  
+ 
+syms Id
+  !--error 4 
+Undefined variable: syms
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.13/Ex2_13.sce',-1)
+ 
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.15/Ex2_15.sce
+ 
+ 
+ 
+ Vp  =
+ 
+  - 4.  
+ 
+ Idss  =
+ 
+    10.  
+ 
+ Vdd  =
+ 
+    18.  
+ 
+ Rs  =
+ 
+    2.  
+ 
+ Rd  =
+ 
+    2.  
+ 
+ R1  =
+ 
+    450000.  
+ 
+ R2  =
+ 
+    90000.  
+ 
+ 
+ 
+ Vgg  =
+ 
+    3.  
+ 
+syms Id
+  !--error 4 
+Undefined variable: syms
+at line      14 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH2/EX2.15/Ex2_15.sce',-1)
+ 
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.12/Ex3_12.sce
+ 
+ 
+ k  =
+ 
+    0.0002  
+ 
+ Vt  =
+ 
+    4.  
+ 
+ Vdd  =
+ 
+    24.  
+ 
+ Id0  =
+ 
+    3.  
+ 
+ 
+ 
+ Vgs  =
+ 
+    126.47449  
+ 
+ Rd  =
+ 
+  - 34.158162  
+ 
+ k  =
+ 
+    0.0003  
+ 
+ 
+syms Id
+  !--error 4 
+Undefined variable: syms
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.12/Ex3_12.sce',-1)
+ 
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.18/Ex3_18.sce
+ 
+ 
+ 
+ Idss  =
+ 
+    16.  
+ 
+ Vp  =
+ 
+  - 4.  
+ 
+ Rg  =
+ 
+    1.  
+ 
+ Rs  =
+ 
+    2.2  
+ 
+ Vdd  =
+ 
+    9.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+syms Id
+  !--error 4 
+Undefined variable: syms
+at line      16 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH3/EX3.18/Ex3_18.sce',-1)
+ 
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.7/Ex8_7.sce
+ 
+ VL  =
+ 
+    12.  
+ 
+ I  =
+ 
+    2.  
+ 
+ V  =
+ 
+    240.  
+ 
+ d  =
+ 
+    0.34  
+ 
+ d1  =
+ 
+    0.6  
+ 
+ eta1  =
+ 
+    0.8  
+ 
+ 
+ 
+ P  =
+ 
+    24.  
+ 
+ Isav  =
+ 
+    0.17  
+ 
+ Pav  =
+ 
+    40.8  
+ 
+ eta  =
+ 
+    58.823529  
+ 
+ Isav1  =
+ 
+    0.3  
+ 
+Il=(eta1*V*Isav1)/Vdc         //load current(A)
+                    !--error 4 
+Undefined variable: Vdc
+at line      15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH8/EX8.7/Ex8_7.sce',-1)
+ 
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.7/Ex10_7.sce
+ 
+ 
+syms t           //symbol defined
+  !--error 4 
+Undefined variable: syms
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.7/Ex10_7.sce',-1)
+ 
+ERROR: Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.9/Ex10_9.sce
+ 
+ 
+syms V1 V2
+  !--error 4 
+Undefined variable: syms
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_I._J._Nagrath_3041/CH10/EX10.9/Ex10_9.sce',-1)
+ 

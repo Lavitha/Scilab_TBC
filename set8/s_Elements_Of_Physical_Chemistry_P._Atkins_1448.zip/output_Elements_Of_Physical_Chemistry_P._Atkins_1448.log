@@ -1,0 +1,2491 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 91
+
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH21/EX0.1.e/E0_1.sce #
+ 
+ 
+ P  =
+ 
+    1.115  
+ 
+ 
+ Conv_fac  =
+ 
+    0.9869233  
+ 
+ FinalP  =
+ 
+    1.1004194  
+ 
+ 
+Final pressure in atmospheres (atm)= 1.100 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH21/EX0.1.i/I0_1.sce #
+ 
+ 
+ h  =
+ 
+    0.76  
+ 
+ d  =
+ 
+    13600.  
+ 
+ 
+ P  =
+ 
+    101396.16  
+ 
+ 
+Pressure at the foot of the column (Pa)= 1.014e+05 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH21/EX20.2.i/I0_2.sce #
+ 
+ 
+ h  =
+ 
+    0.1  
+ 
+ d  =
+ 
+    1000.  
+ 
+ Patm  =
+ 
+    100021.  
+ 
+ 
+ P  =
+ 
+    981.  
+ 
+ 
+Hydrostatic pressure(Pa) = 981.000 
+
+ Pressure in apparatus(kPa) = 99.040 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH21/EX21.3.i/I0_3.sce #
+ 
+ 
+ N  =
+ 
+    8.800D+22  
+ 
+ NA  =
+ 
+    6.023D+23  
+ 
+ 
+ n  =
+ 
+    0.1461066  
+ 
+ 
+No. of moles of Cu ( mol Cu)= 0.15 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH21/EX21.4.i/I0_4.sce #
+ 
+ 
+ m  =
+ 
+    21.5  
+ 
+ Mc  =
+ 
+    12.01  
+ 
+ 
+ nc  =
+ 
+    1.7901749  
+ 
+ 
+Amount of C atoms= 1.79 mol C 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH1/EX1.1.e/E1_1.sce #
+ 
+ 
+ m  =
+ 
+    1.25  
+ 
+ MN2  =
+ 
+    28.02  
+ 
+ T  =
+ 
+    293.15  
+ 
+ V  =
+ 
+    0.25  
+ 
+ 
+ P  =
+ 
+    434.93908  
+ 
+ 
+Pressure in the gas flask =434.94 kPa 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH1/EX1.2.i/I1_2.sce #
+ 
+ 
+ xN2  =
+ 
+    0.78  
+ 
+ xO2  =
+ 
+    0.21  
+ 
+ xAr  =
+ 
+    0.009  
+ 
+ P  =
+ 
+    100.  
+ 
+ 
+ PN2  =
+ 
+    78.  
+ 
+ PO2  =
+ 
+    21.  
+ 
+ PAr  =
+ 
+    0.9  
+ 
+ 
+Partial pressure of Nitrogen(kPa) = 78.0 
+
+ Partial pressure of Oxygen(kPa) = 21.0 
+
+ Partial pressure of Argon(kPa) = 0.9 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH1/EX1.3.i/I1_3.sce #
+ 
+ 
+ T1  =
+ 
+    298.  
+ 
+ T2  =
+ 
+    273.  
+ 
+ 
+Warning : redefining function: factor                  . Use funcprot(0) to avoid this message
+
+ factor  =
+ 
+    0.9571350  
+ 
+ percentage  =
+ 
+    4.2865013  
+ 
+ 
+Percentage loss of speed of air molecules = 4.29 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH1/EX1.4.i/I1_4.sce #
+ 
+ 
+ MH2  =
+ 
+    2.016  
+ 
+ MCO2  =
+ 
+    44.01  
+ 
+ 
+ ratio  =
+ 
+    4.6722968  
+ 
+ 
+ratio of rates of effusion =4.672 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH1/EX1.5.i/I1_5.sce #
+ 
+ 
+ T  =
+ 
+    298.  
+ 
+ sigma  =
+ 
+    4.000D-19  
+ 
+ P  =
+ 
+    100000.  
+ 
+ c  =
+ 
+    481.8  
+ 
+ 
+ Lambda  =
+ 
+    7.273D-08  
+ 
+ frequency  =
+ 
+    6.624D+09  
+ 
+ 
+Mean free path = 7.27e-08 m 
+
+ Collision frequency = 6.62e+09 m 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH2/EX2.1.e/E2_1.sce #
+ 
+ 
+ A  =
+ 
+    1.23  
+ 
+ V  =
+ 
+    12.  
+ 
+ t  =
+ 
+    123.  
+ 
+ Temp  =
+ 
+    4.47  
+ 
+ rise  =
+ 
+    3.22  
+ 
+ 
+ q  =
+ 
+    1815.48  
+ 
+ C  =
+ 
+    406.14765  
+ 
+ Output  =
+ 
+    1307.7954  
+ 
+ 
+heat supplied during calibration = 1815.5 J 
+
+ Heat capacity of the calorimeter = 406.1 J/C 
+
+ Heat output = 1.31 kJ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH2/EX2.1.i/I2_1.sce #
+ 
+ 
+ Cpm  =
+ 
+    75.  
+ 
+ n  =
+ 
+    5.55  
+ 
+ q  =
+ 
+    1.  
+ 
+ 
+ deltaT  =
+ 
+    2.4024024  
+ 
+ 
+Change in temperature = 2.4 K 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH2/EX2.2.e/E2_2.sce #
+ 
+ 
+ work  =
+ 
+  - 622.  
+ 
+ heat  =
+ 
+  - 82.  
+ 
+ 
+ U  =
+ 
+  - 704.  
+ 
+ 
+The persons internal energy falls by -704 kJ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH2/EX2.4.i/I2_4.sce #
+ 
+ 
+ n  =
+ 
+    5.55  
+ 
+ T1  =
+ 
+    20.  
+ 
+ T2  =
+ 
+    80.  
+ 
+ Cpm  =
+ 
+    75.29  
+ 
+ 
+ H  =
+ 
+    25071.57  
+ 
+ 
+Enthalpy of the sample changes by 25 kJ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH3/EX3.1.e/E3_1.sce #
+ 
+ 
+ I  =
+ 
+    0.682  
+ 
+ V  =
+ 
+    12.  
+ 
+ t  =
+ 
+    500.  
+ 
+ m  =
+ 
+    4.33  
+ 
+ MW  =
+ 
+    46.07  
+ 
+ 
+ q  =
+ 
+    4092.  
+ 
+ n  =
+ 
+    0.0939874  
+ 
+ H  =
+ 
+    43537.746  
+ 
+ 
+Molar enthalpy change = 43.5 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH3/EX3.1.i/I3_1.sce #
+ 
+ 
+ dU  =
+ 
+  - 969.6  
+ 
+ nN2  =
+ 
+    0.5  
+ 
+ nCO2  =
+ 
+    2.  
+ 
+ nO2  =
+ 
+    2.25  
+ 
+ T  =
+ 
+    298.15  
+ 
+ 
+ n  =
+ 
+    0.25  
+ 
+ H  =
+ 
+  - 968.98026  
+ 
+ 
+Enthalpy change =-969.0 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH3/EX3.2.e/E3_2.sce #
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ MW  =
+ 
+    24.31  
+ 
+ H  =
+ 
+    2337.  
+ 
+ 
+ n  =
+ 
+    0.0411353  
+ 
+ q  =
+ 
+    96.133278  
+ 
+ 
+Heat supplied = 96.1 kJ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH3/EX3.3.e/E3_3.sce #
+ 
+ 
+ HC  =
+ 
+    716.68  
+ 
+ HH  =
+ 
+    871.88  
+ 
+ HO  =
+ 
+    249.17  
+ 
+ Hcond  =
+ 
+  - 38.  
+ 
+ HCH  =
+ 
+  - 412.  
+ 
+ HCO  =
+ 
+  - 360.  
+ 
+ HOH  =
+ 
+  - 463.  
+ 
+ 
+ H1  =
+ 
+    1837.73  
+ 
+ H2  =
+ 
+  - 2059.  
+ 
+ H3  =
+ 
+  - 38.  
+ 
+ H  =
+ 
+  - 259.27  
+ 
+ 
+Sum of enthalpy changes = -259 kJ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH3/EX3.4.e/E3_4.sce #
+ 
+ 
+ Hf  =
+ 
+  - 124.  
+ 
+ Hoxi  =
+ 
+  - 2220.  
+ 
+ Hwater  =
+ 
+    286.  
+ 
+ 
+ H  =
+ 
+  - 2058.  
+ 
+ 
+Standard enthalpy of combustion of propene = -2058 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH3/EX3.5.e/E3_5.sce #
+ 
+ 
+ nCO2  =
+ 
+    6.  
+ 
+ nH2O  =
+ 
+    3.  
+ 
+ nO2  =
+ 
+    7.5  
+ 
+ nC6H6  =
+ 
+    1.  
+ 
+ HC6H6  =
+ 
+    49.  
+ 
+ HH2O  =
+ 
+  - 285.83  
+ 
+ HO2  =
+ 
+    0.  
+ 
+ HCO2  =
+ 
+  - 393.51  
+ 
+ 
+ H  =
+ 
+  - 3267.55  
+ 
+ 
+Standard enthalpy of combustion of benzene is -3268 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH3/EX3.6.e/E3_6.sce #
+ 
+ 
+ HH2O  =
+ 
+  - 241.82  
+ 
+ T1  =
+ 
+    25.  
+ 
+ T2  =
+ 
+    100.  
+ 
+ CpH2O  =
+ 
+    33.58  
+ 
+ CpH2  =
+ 
+    28.84  
+ 
+ CpO2  =
+ 
+    29.37  
+ 
+ 
+ dCp  =
+ 
+  - 9.945  
+ 
+ dH  =
+ 
+  - 242.56588  
+ 
+ 
+Enthalpy of fromation of water at 100 C is -242.57 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH4/EX4.1.e/E4_1.sce #
+ 
+ 
+ Power  =
+ 
+    100.  
+ 
+ time  =
+ 
+    1.  
+ 
+ T  =
+ 
+    20.  
+ 
+ 
+ timeins  =
+ 
+    86400.  
+ 
+ qsurr  =
+ 
+    8640000.  
+ 
+ Ssurr  =
+ 
+    29488.055  
+ 
+ 
+Heat transferred to surroundings = 8640000 J 
+
+ Entropy production per day = 2.95e+04 J/k 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH4/EX4.1.i/I4_1.sce #
+ 
+ 
+ H  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    273.  
+ 
+ T2  =
+ 
+    373.  
+ 
+ 
+ S1  =
+ 
+    366.30037  
+ 
+ S2  =
+ 
+    268.09651  
+ 
+ 
+Entropy change at 273 K is 366 J/K  
+
+ Entropy change at 373 K is 268 J/K  
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH4/EX4.2.e/E4_2.sce #
+ 
+ 
+ g  =
+ 
+    9.81  
+ 
+ m  =
+ 
+    0.03  
+ 
+ d  =
+ 
+    10.  
+ 
+ H  =
+ 
+    2828000.  
+ 
+ M  =
+ 
+    180.  
+ 
+ 
+ w  =
+ 
+    2.943  
+ 
+ n  =
+ 
+    0.0000010  
+ 
+ m  =
+ 
+    0.0001873  
+ 
+ 
+Amount bird must consume = 1.9e-04 g 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH4/EX4.2.i/I4_2.sce #
+ 
+ 
+ T  =
+ 
+    59.2  
+ 
+ 
+ Hvap  =
+ 
+    28254.  
+ 
+ 
+Enthalpy of vaportization  =28 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH4/EX4.3.i/I4_3.sce #
+ 
+ 
+ SH2O  =
+ 
+    70.  
+ 
+ SH2  =
+ 
+    131.  
+ 
+ SO2  =
+ 
+    205.  
+ 
+ 
+ deltaS  =
+ 
+  - 327.  
+ 
+Change in entropy = -327 J/K mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.1.e/E6_1.sce #
+ 
+ 
+ m  =
+ 
+    0.14  
+ 
+ w  =
+ 
+    1.  
+ 
+ 
+ ngly  =
+ 
+    0.14  
+ 
+ nwater  =
+ 
+    55.493896  
+ 
+ ntotal  =
+ 
+    55.633896  
+ 
+ xgly  =
+ 
+    0.0025165  
+ 
+ 
+Mole fraction of glycerine  is xgly = 2.52e-03 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.2.e/E6_2.sce #
+ 
+ 
+ mE  =
+ 
+    50.  
+ 
+ mW  =
+ 
+    50.  
+ 
+ 
+ nE  =
+ 
+    1.0869565  
+ 
+ nW  =
+ 
+    2.7777778  
+ 
+ ntotal  =
+ 
+    3.8647343  
+ 
+ xE  =
+ 
+    0.28125  
+ 
+ xW  =
+ 
+    0.71875  
+ 
+ 
+ for the observed xE and xW   
+ 
+ vE  =
+ 
+    55.  
+ 
+ vW  =
+ 
+    18.  
+ 
+ V  =
+ 
+    109.78261  
+ 
+ 
+
+ VOlume of the mixture = 110 cm^3  
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.4.e/E6_4.sce #
+ 
+ 
+ C  =
+ 
+    4.  
+ 
+ MO2  =
+ 
+    32.  
+ 
+ Mw  =
+ 
+    18.  
+ 
+ w  =
+ 
+    1.  
+ 
+ K  =
+ 
+    33000000.  
+ 
+ patm  =
+ 
+    159.6  
+ 
+ 
+ nO2  =
+ 
+    0.125  
+ 
+ nH2O  =
+ 
+    55.555556  
+ 
+ xO2  =
+ 
+    0.0022449  
+ 
+ pO2  =
+ 
+    74083.313  
+ 
+ 
+ The required concentration can be maintained under normal conditions   
+ 
+ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH6/EX6.6.e/E6_6.sce #
+ 
+ 
+ nB  =
+ 
+    0.59  
+ 
+ nNB  =
+ 
+    0.41  
+ 
+ xN1  =
+ 
+    0.38  
+ 
+ xN2  =
+ 
+    0.74  
+ 
+ xNm  =
+ 
+    0.41  
+ 
+ 
+ 
+ By lever rule   
+ 
+ ratio  =
+ 
+    0.0909091  
+ 
+ percent  =
+ 
+    9.0909091  
+ 
+ 
+The rich phase is 10 times more abundant in nitrobenzene 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.1.e/E7_1.sce #
+ 
+ 
+ G  =
+ 
+  - 31.  
+ 
+ T  =
+ 
+    310.  
+ 
+ Cadp  =
+ 
+    0.001  
+ 
+ Cp  =
+ 
+    0.008  
+ 
+ Catp  =
+ 
+    0.008  
+ 
+ R  =
+ 
+    8.314  
+ 
+ 
+ Q  =
+ 
+    0.001  
+ 
+ deltaG  =
+ 
+  - 48.803634  
+ 
+ 
+Reaction Gibbs energy = -49 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.2.e/E7_2.sce #
+ 
+ 
+ Hr  =
+ 
+  - 285.83  
+ 
+ Sr  =
+ 
+  - 163.34  
+ 
+ T  =
+ 
+    298.15  
+ 
+ 
+ Gr  =
+ 
+  - 237.13018  
+ 
+ 
+Gibbs energy = -237.13 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.2.i/I7_2.sce #
+ 
+ 
+ Gr  =
+ 
+  - 3.4  
+ 
+ R  =
+ 
+    8.314  
+ 
+ T  =
+ 
+    298.  
+ 
+ 
+ lnK  =
+ 
+  - 1.3723113  
+ 
+ K  =
+ 
+    0.2535203  
+ 
+ 
+Equilibrium constant K= 0.25 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.3.e/E7_3.sce #
+ 
+ 
+ aADP  =
+ 
+    1.  
+ 
+ aP  =
+ 
+    1.  
+ 
+ aATP  =
+ 
+    1.  
+ 
+ aH2O  =
+ 
+    1.  
+ 
+ aH  =
+ 
+    1.000D-07  
+ 
+ G  =
+ 
+    10.  
+ 
+ T  =
+ 
+    298.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ 
+ Q  =
+ 
+    1.000D-07  
+ 
+ Gr  =
+ 
+  - 29.933742  
+ 
+ 
+Change in nGibbs energy =-30 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.3.i/I7_3.sce #
+ 
+ 
+ Hr  =
+ 
+    178.  
+ 
+ Sr  =
+ 
+    161.  
+ 
+ 
+ T  =
+ 
+    1105.5901  
+ 
+ 
+Decompostion temperature = 1.11e+03 K 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.4.e/E7_4.sce #
+ 
+ 
+ Gr  =
+ 
+    1700.  
+ 
+ T  =
+ 
+    298.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ K  =
+ 
+    0.5  
+ 
+ 
+ GbyRT  =
+ 
+    0.6861556  
+ 
+ feq  =
+ 
+    0.3333333  
+ 
+ 
+Equivalent fraction = 0.33  
+ 
+ For the second part, Gr=1.7 + 2.48 ln(f/1-f)   
+ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.4.i/I7_4.sce #
+ 
+ 
+ GCO2  =
+ 
+  - 394.  
+ 
+ GCO  =
+ 
+  - 137.  
+ 
+ GO2  =
+ 
+    0.  
+ 
+ 
+ deltaG  =
+ 
+  - 514.  
+ 
+ 
+Standard reaction gibbs energy = -514 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH7/EX7.5.e/E7_5.sce #
+ 
+ 
+ species  =
+ 
+!N2  H2  NH3  !
+ 
+ change  =
+ 
+!-x  -3x  2x  !
+ 
+ E  =
+ 
+!1-x  3-3x  2x  !
+ 
+ 
+ Concentration table   
+ 
+ 
+!N2  H2  NH3  !
+ 
+ 
+!-x  -3x  2x  !
+ 
+ 
+!1-x  3-3x  2x  !
+ 
+ K  =
+ 
+    977.  
+ 
+ 
+ g  =
+ 
+    81.208066  
+ 
+ 
+ vector  =
+ 
+    1.1172964  
+    0.8950177  
+ 
+ sol  =
+ 
+    0.8950177  
+ 
+ PN2  =
+ 
+    0.1049823  
+ 
+ PH2  =
+ 
+    0.314947  
+ 
+ PNH3  =
+ 
+    1.7900353  
+ 
+ K  =
+ 
+    977.  
+ 
+ 
+Pressure of N2 gas =0.10 bar 
+
+ Pressure of H2 gas =0.31 bar 
+
+ Pressure of NH3 gas =1.79 bar 
+
+ K final = 9.8e+02> it is  to original value. 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH8/EX8.1.e/E8_1.sce #
+ 
+ 
+ C  =
+ 
+    0.15  
+ 
+ Ka  =
+ 
+    0.000018  
+ 
+ 
+ x  =
+ 
+    0.0016432  
+ 
+ f  =
+ 
+    0.0109545  
+ 
+ percent  =
+ 
+    1.0954451  
+ 
+ 
+percent of acetic acid molecules that have donated a proton = 1.1 percent 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH8/EX8.2.e/E8_2.sce #
+ 
+ 
+ pKa  =
+ 
+    4.88  
+ 
+ C  =
+ 
+    0.01  
+ 
+ pKw  =
+ 
+    14.  
+ 
+ 
+ pKb  =
+ 
+    9.12  
+ 
+ Kb  =
+ 
+    7.586D-10  
+ 
+ x  =
+ 
+    0.0000028  
+ 
+ pOH  =
+ 
+    12.802373  
+ 
+ pH  =
+ 
+    1.1976269  
+ 
+ f  =
+ 
+    0.0002754  
+ 
+ 
+fraction protonated = 2.8e-04 
+
+ 1 molecule in about 3630 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH8/EX8.2.i/I8_2.sce #
+ 
+ 
+ n  =
+ 
+    0.0025  
+ 
+ C  =
+ 
+    0.2  
+ 
+ vbase  =
+ 
+    0.0375  
+ 
+ 
+ V  =
+ 
+    0.0125  
+ 
+ base  =
+ 
+    0.0666667  
+ 
+ H  =
+ 
+    1.500D-13  
+ 
+ 
+ It follows from example 8.2 that   
+ 
+ pH  =
+ 
+    10.2  
+ 
+ 
+
+ pH of the solution = 10.2 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH8/EX8.3.e/E8_3.sce #
+ 
+ 
+ pKa2  =
+ 
+    10.25  
+ 
+ 
+ C  =
+ 
+    5.623D-11  
+ 
+ 
+Concentration of Carbonate ions = 5.6e-11 mol/l 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH8/EX8.5.e/E8_5.sce #
+ 
+ 
+ vOH  =
+ 
+    0.005  
+ 
+ vHClO  =
+ 
+    0.025  
+ 
+ C  =
+ 
+    0.2  
+ 
+ 
+ nOH  =
+ 
+    0.001  
+ 
+ nHClO  =
+ 
+    0.0025  
+ 
+ nrem  =
+ 
+    0.0015  
+ 
+ pH  =
+ 
+    7.3539087  
+ 
+ 
+Final pH= 7.4 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.1.e/E9_1.sce #
+ 
+ 
+ lw  =
+ 
+    34.96  
+ 
+ la  =
+ 
+    4.09  
+ 
+ C  =
+ 
+    0.01  
+ 
+ K  =
+ 
+    1.65  
+ 
+ 
+ lmd  =
+ 
+    39.05  
+ 
+ alpha  =
+ 
+    0.0422535  
+ 
+ Ka  =
+ 
+    0.0000179  
+ 
+ pKa  =
+ 
+    4.7482742  
+ 
+ 
+Acidity constant of the acid = 4.75  
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.1.i/I9_1.sce #
+ 
+ 
+ Gr  =
+ 
+  - 100000.  
+ 
+ v  =
+ 
+    1.  
+ 
+ F  =
+ 
+    96485.  
+ 
+ 
+ E  =
+ 
+    1.0364305  
+ 
+ 
+potential of the cell = 1 V 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.2.i/I9_2.sce #
+ 
+ 
+ V  =
+ 
+    1.1  
+ 
+ F  =
+ 
+    96485.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ T  =
+ 
+    298.15  
+ 
+ 
+ lnK  =
+ 
+    85.632308  
+ 
+ k  =
+ 
+    1.548D+37  
+ 
+ 
+Equilibrium constant = 1.5e+37 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.7.e/E9_7.sce #
+ 
+ 
+ ER  =
+ 
+    0.52  
+ 
+ EL  =
+ 
+    0.15  
+ 
+ 
+ E  =
+ 
+    0.37  
+ 
+ lnK  =
+ 
+    14.402491  
+ 
+ K  =
+ 
+    1798549.8  
+ 
+ 
+Equilbrum constant K= 1.8e+06 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.8.e/E9_8.sce #
+ 
+ 
+ E0  =
+ 
+  - 0.11  
+ 
+ H  =
+ 
+    1.000D-07  
+ 
+ 
+ pH  =
+ 
+    7.  
+ 
+ E  =
+ 
+  - 0.31713  
+ 
+ 
+Biological standard potential = -0.32 V 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.9.e/E9_9.sce #
+ 
+ 
+ ER  =
+ 
+  - 0.21  
+ 
+ EL  =
+ 
+  - 0.6  
+ 
+ 
+ E  =
+ 
+    0.39  
+ 
+ lnK  =
+ 
+    30.362009  
+ 
+ K  =
+ 
+    1.535D+13  
+ 
+ 
+Equilibrium constant for the reaction = 1.5e+13 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.10.e/E9_10.sce #
+ 
+ 
+ E1  =
+ 
+  - 0.68  
+ 
+ E2  =
+ 
+  - 0.522  
+ 
+ 
+ FE  =
+ 
+    0.158  
+ 
+ 
+Electric potential = 0.158 V 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.11.e/E9_11.sce #
+ 
+ 
+ v  =
+ 
+    2.  
+ 
+ F  =
+ 
+    96485.  
+ 
+ E  =
+ 
+    0.2684  
+ 
+ V1  =
+ 
+    0.2699  
+ 
+ V2  =
+ 
+    0.2669  
+ 
+ T1  =
+ 
+    293.  
+ 
+ T  =
+ 
+    298.  
+ 
+ T2  =
+ 
+    303.  
+ 
+ 
+ Gr  =
+ 
+  - 51793.148  
+ 
+ Sr  =
+ 
+  - 57.891  
+ 
+ Hr  =
+ 
+  - 69044.666  
+ 
+ 
+Gibbs enthalpy = -51.79 kJ/mol 
+
+ Standard Entropy = -57.9 J /K mol 
+
+ Enthalpy = -69.0 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.1.i/I10_1.sce #
+ 
+ 
+ t  =
+ 
+    28.4  
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ time  =
+ 
+    85.2  
+ 
+Time required = 85.2 min 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.2.i/I10_2.sce #
+ 
+ 
+ E  =
+ 
+    50000.  
+ 
+ T1  =
+ 
+    298.  
+ 
+ T2  =
+ 
+    310.  
+ 
+ 
+ ln  =
+ 
+    0.7811549  
+ 
+Warning : redefining function: factor                  . Use funcprot(0) to avoid this message
+
+ factor  =
+ 
+    2.1839931  
+ 
+ 
+kdash = 2.18 k 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH10/EX10.3.e/E10_3.sce #
+ 
+ 
+ T  =
+ 
+    700.    730.    760.    790.    810.    840.    910.    1000.  
+ 
+ k  =
+ 
+    0.011    0.035    0.105    0.343    0.789    2.17    20.    145.  
+ 
+ 
+ x  =
+ 
+    0.1292849  
+    0.1348257  
+    0.1403664  
+    0.1459072  
+    0.1496011  
+    0.1551418  
+    0.1680703  
+    0.1846927  
+ 
+ y  =
+ 
+  - 4.50986  - 3.3524072  - 2.2537949  - 1.0700248  - 0.2369890    0.7747272    2.9957323    4.9767337  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ from graph   
+ 
+ m  =
+ 
+    22650.  
+ 
+ Ea  =
+ 
+    188323.43  
+ 
+ b  =
+ 
+    27.71  
+ 
+ A  =
+ 
+    1.082D+12  
+ 
+ 
+Activation energy = 188 kJ/mol 
+
+ Arrhenius factor = 1.08e+12 L/ mol s 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH11/EX11.1.i/I11_1.sce #
+ 
+ 
+ kf  =
+ 
+    8.180D+08  
+ 
+ kb  =
+ 
+    2000000.  
+ 
+ 
+ K  =
+ 
+    409.  
+ 
+ 
+Equilibriu constant for dimerization = 4.1e+02  
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH11/EX11.2.e/E11_2.sce #
+ 
+ 
+ c  =
+ 
+    1.234  
+ 
+ m  =
+ 
+    2.044  
+ 
+ 
+ Ki  =
+ 
+    0.6037182  
+ 
+ 
+KI = 0.60  
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH11/EX11.2.i/I11_2.sce #
+ 
+ 
+ F16bP  =
+ 
+    0.000019  
+ 
+ ADP  =
+ 
+    0.0013  
+ 
+ ATP  =
+ 
+    0.0114  
+ 
+ F6P  =
+ 
+    0.000089  
+ 
+ k  =
+ 
+    1200.  
+ 
+ 
+ Q  =
+ 
+    0.0243446  
+ 
+The reaction step is far from equilibrium and Q= 0.024 
+ 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH11/EX11.3.e/E11_3.sce #
+ 
+ 
+ P  =
+ 
+    50.  
+ 
+ l  =
+ 
+    0.0000003  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ c  =
+ 
+    2.998D+08  
+ 
+ yield  =
+ 
+    0.21  
+ 
+ 
+ rate  =
+ 
+    7.878D+19  
+ 
+ Frate  =
+ 
+    1.654D+19  
+ 
+ molrate  =
+ 
+    0.0000275  
+ 
+ 
+No.of diheptane molecules destroyed = 1.7e+19 s^-1 
+
+ Moles of  diheptane molecules destroyed = 2.7e-05 mol s^-1 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH12/EX12.1.e/E12_1.sce #
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ t  =
+ 
+    10.  
+ 
+ l  =
+ 
+    560.  
+ 
+ 
+ TE  =
+ 
+    1000.  
+ 
+ E1  =
+ 
+    3.547D-19  
+ 
+ N  =
+ 
+    2.819D+21  
+ 
+ 
+No. of photons required = 2.82e+21  
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH12/EX12.1.i/I12_1.sce #
+ 
+ 
+ lmax  =
+ 
+    0.0000005  
+ 
+ 
+ T  =
+ 
+    5918.3673  
+ 
+ 
+Surface temperature must be  to 5918 K 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH12/EX12.2.e/E12_2.sce #
+ 
+ 
+ V  =
+ 
+    1000.  
+ 
+ 
+ l  =
+ 
+    3.878D-11  
+ 
+ 
+Wavelength of electrons = 3.88e-11 m 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH12/EX12.2.i/I12_2.sce #
+ 
+ 
+ k  =
+ 
+    516.  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ 
+ v  =
+ 
+    8.847D+13  
+ 
+ E  =
+ 
+    5.860D-20  
+ 
+ 
+Separation between adjacent levels frequency, 8.85e+13 Hz 
+
+ Energy = 5.86e-20 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH12/EX12.3.e/E12_3.sce #
+ 
+ 
+ r1  =
+ 
+    0.  
+ 
+ r2  =
+ 
+    1.  
+ 
+ 
+ ratio  =
+ 
+    7.3890561  
+ 
+ 
+It is more propable that electron would be found 7.39 times more at r1 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH12/EX12.4.e/E12_4.sce #
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ v  =
+ 
+    0.000001  
+ 
+ 
+ dx  =
+ 
+    5.270D-26  
+ 
+ 
+Uncertainity in position = 5.3e-26 m 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH13/EX13.2.i/I13_2.sce #
+ 
+ 
+ dv  =
+ 
+    1.  
+ 
+ a0  =
+ 
+    52.9  
+ 
+ 
+ Probability  =
+ 
+    0.0000022  
+ 
+ 
+probability of finding electron = 2.2e-06 
+
+ Chance that electron would be found is one in 465068 times 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH13/EX13.3.i/I13_3.sce #
+ 
+ 
+ dr  =
+ 
+    1.  
+ 
+ r  =
+ 
+    52.9  
+ 
+ 
+ Probability  =
+ 
+    0.0102333  
+ 
+ 
+About 1 inspection in 100 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH15/EX15.1.e/E15_1.sce #
+ 
+ 
+ Hs  =
+ 
+    89.  
+ 
+ HI  =
+ 
+    418.  
+ 
+ HD  =
+ 
+    244.  
+ 
+ HE  =
+ 
+  - 349.  
+ 
+ Hf  =
+ 
+  - 437.  
+ 
+ 
+ HL  =
+ 
+    717.  
+ 
+ 
+Lattice energy = 717 kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH15/EX15.2.e/E15_2.sce #
+ 
+ 
+ a  =
+ 
+    0.82  
+ 
+ b  =
+ 
+    0.94  
+ 
+ c  =
+ 
+    0.75  
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    2.  
+ 
+ l  =
+ 
+    3.  
+ 
+ 
+ invd  =
+ 
+    4.6919234  
+ 
+ d  =
+ 
+    0.2131322  
+ 
+ invd2  =
+ 
+    9.3838468  
+ 
+ d2  =
+ 
+    0.1065661  
+ 
+ 
+In case 1, separation = 0.21 nm 
+
+ In case 2, separation = 0.11 nm 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH15/EX15.3.e/E15_3.sce #
+ 
+ 
+ l  =
+ 
+    154.  
+ 
+ theta  =
+ 
+    11.2  
+ 
+ 
+ d  =
+ 
+    396.42833  
+ 
+ a  =
+ 
+    686.63401  
+ 
+ 
+Length of the side of the unit cell = 687 pm 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH16/EX16.1.e/E16_1.sce #
+ 
+ 
+ e  =
+ 
+    1.609D-19  
+ 
+ 
+ mux  =
+ 
+    0.0594758  
+ 
+ muy  =
+ 
+  - 0.91  
+ 
+ muz  =
+ 
+    0.  
+ 
+ mux  =
+ 
+  - 1.1  
+ 
+ mu  =
+ 
+    1.4276204  
+ 
+ 
+Net dipole moment = 1.5 D 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH16/EX16.1.i/I16_1.sce #
+ 
+ 
+ EH  =
+ 
+    2.1  
+ 
+ EBr  =
+ 
+    2.8  
+ 
+ 
+Warning : redefining function: diff                    . Use funcprot(0) to avoid this message
+
+ diff  =
+ 
+    0.7  
+ 
+ 
+Prediced dipole moment = 0.7 D 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH16/EX16.2.e/E16_2.sce #
+ 
+ 
+ Na  =
+ 
+    6.023D+23  
+ 
+ e  =
+ 
+    1.602D-19  
+ 
+ e0  =
+ 
+    8.854D-12  
+ 
+ 
+Warning : redefining function: factor                  . Use funcprot(0) to avoid this message
+
+ factor  =
+ 
+    0.0001390  
+ 
+ 
+ 
+Potential energy = 1.390e-04 Z*Z/R  kJ/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH16/EX16.2.i/I16_2.sce #
+ 
+ 
+ mu1  =
+ 
+    1.4  
+ 
+ mu2  =
+ 
+    1.4  
+ 
+ angle  =
+ 
+    180.  
+ 
+ d  =
+ 
+    3.  
+ 
+ D  =
+ 
+    4.700D-30  
+ 
+ 
+ Vmol  =
+ 
+  - 1.471D-23  
+ 
+ V  =
+ 
+  - 8.857791  
+ 
+ 
+Potential energy = -8.9 J/mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH17/EX17.1.e/E17_1.sce #
+ 
+ 
+ mH  =
+ 
+    1.673D-27  
+ 
+ mCl  =
+ 
+    5.807D-26  
+ 
+ R  =
+ 
+    1.274D-10  
+ 
+ 
+ mu  =
+ 
+    1.626D-27  
+ 
+ I  =
+ 
+    2.639D-47  
+ 
+ B  =
+ 
+    3.180D+11  
+ 
+ f  =
+ 
+    6.359D+11  
+ 
+ 
+Frequency of transistion = 635.9 GHz 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH17/EX17.1.i/I17_1.sce #
+ 
+ 
+ v  =
+ 
+    8.960D+13  
+ 
+ 
+ l  =
+ 
+    0.0000033  
+ 
+ wn  =
+ 
+    2986.6667  
+ 
+ 
+Wavenumber = 2986 cm^-1 
+
+ Wavelength = 3.35 mu m 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH18/EX18.1.e/E18_1.sce #
+ 
+ 
+ wl  =
+ 
+    0.0000003  
+ 
+ t  =
+ 
+    1.  
+ 
+ C  =
+ 
+    0.05  
+ 
+ T  =
+ 
+    0.16  
+ 
+ t2  =
+ 
+    2.  
+ 
+ 
+ E  =
+ 
+    15.9176  
+ 
+ A1  =
+ 
+    0.7958800  
+ 
+ A2  =
+ 
+    1.59176  
+ 
+ Tr  =
+ 
+    0.0256  
+ 
+ 
+Transmittance = 0.026 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH19/EX19.2.i/I19_2.sce #
+ 
+ 
+ A  =
+ 
+    5.1  
+ 
+ B  =
+ 
+  - 1.4  
+ 
+ C  =
+ 
+    3.2  
+ 
+ an1  =
+ 
+    120.  
+ 
+ an2  =
+ 
+    180.  
+ 
+ 
+ j1  =
+ 
+    4.2  
+ 
+ j2  =
+ 
+    9.7  
+ 
+ 
+Spin-spin coupling constant = 4 Hz 
+
+ Spin-spin coupling constant = 10 Hz 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH20/EX20.1.e/E20_1.sce #
+ 
+ 
+ E  =
+ 
+    22.  
+ 
+ R  =
+ 
+    8.214  
+ 
+ T  =
+ 
+    293.  
+ 
+ 
+ q  =
+ 
+    1.0001072  
+ 
+ 
+At 20 C, partition function = 1.0001 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH20/EX20.1.i/I20_1.sce #
+ 
+ 
+ E  =
+ 
+    22000.  
+ 
+ T  =
+ 
+    293.  
+ 
+ 
+ ratio  =
+ 
+    0.0001197  
+ 
+ 
+Relative populations of boat and chair conformations is 1.2e-04 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH20/EX20.3.e/E20_3.sce #
+ 
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ B  =
+ 
+    3.180D+11  
+ 
+ T  =
+ 
+    298.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ 
+ Sm  =
+ 
+    33.017342  
+ 
+ 
+Contribution to rotational motion= 33.0 J/ K mol 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH20/EX20.3.i/I20_3.sce #
+ 
+ 
+ T  =
+ 
+    298.  
+ 
+ m  =
+ 
+    5.314D-26  
+ 
+ k  =
+ 
+    1.381D-23  
+ 
+ V  =
+ 
+    0.0001  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ 
+ q  =
+ 
+    1.750D+28  
+ 
+ 
+Translational partition function = 1.75e+28 
+ 
+grepthis#Elements_Of_Physical_Chemistry_P._Atkins_1448/CH20/EX20.5.e/E20_5.sce #
+ 
+ 
+ me  =
+ 
+    9.109D-31  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ p  =
+ 
+    100000.  
+ 
+ T  =
+ 
+    1000.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ I  =
+ 
+    376000.  
+ 
+ 
+ K  =
+ 
+    2.407D-19  
+ 
+ 
+Equilibrium constant = 2.41e-19 
+ 

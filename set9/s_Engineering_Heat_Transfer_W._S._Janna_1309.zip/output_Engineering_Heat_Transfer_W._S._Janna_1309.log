@@ -1,0 +1,2047 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 82
+
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.1/ch1_1.sce #
+ 
+ 
+			Chapter1_Example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    22680.  
+ 
+
+The heat flux is 22680.00 BTU/hr. sq.ft 
+ 
+ 
+ Dx  =
+ 
+    0.0416667  
+ 
+
+The thickness of firewall is 0.04 ft 
+ 
+ 
+
+The required temperature on the other side of the firewall is 249.5 degree Fahrenheit 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.2/ch1_2.sce #
+ 
+ 
+			chapter1_example2
+
+
+ 
+ 
+ 
+
+The thermal conductivity of stainless steel is 14.4 W/m.K 
+ 
+ 
+ 
+ 
+ 
+
+The thermal conductivity of aluminium is 199 W/m.K 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.3/ch1_3.sce #
+ 
+ 
+			chapter1_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat transferred by convection is 89100 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.4/ch1_4.sce #
+ 
+ 
+			chapter1_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The mass flow rate is 0.5 kg/s 
+ 
+ 
+
+The average film conductance is 3502 W/sq.m. K 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.5/ch1_5.sce #
+ 
+ 
+			chapter1_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The driveway surface temperature is 580 degree Rankine 
+ 
+ 
+ 
+ 
+
+The heat loss rate by radiation is 73318 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.6/ch1_6.sce #
+ 
+ 
+			chapter1_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+the radiation thermal conductance is 0.30 BTU/(hr. sq.ft.(degree Rankine)) 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.7/ch1_7.sce #
+ 
+ 
+			chapter1_example7
+
+
+ 
+ 
+ 
+ 
+
+			Solution to part (b)
+ 
+ 
+ 
+ 
+
+The resistance on left side of wall is 0.067 K/W 
+ 
+ 
+ 
+
+The resistance of construction material of wall is 0.222 K/W 
+ 
+
+The resistance on right side of wall is 0.067 K/W 
+
+
+			Solution to part (c)
+ 
+ 
+ 
+ 
+
+The Heat transferred per unit area is 2016 W = 2.017 kW 
+
+
+			Solution to part (d)
+ 
+ 
+ 
+
+The inside wall temperature is 865 K 
+
+The outside wall temperature is 417 K 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH1/EX1.8/ch1_8.sce #
+ 
+ 
+			chapter1_example8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    1.714D-09  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RHS=2418 
+ 
+ 
+
+Solving by trial and error yields the following, where LHS is the left-hand side of the equation 
+
+	Tw	LHS 
+
+	470.0	2339
+	480.0	2394
+	490.0	2449
+	485.0	2422
+	484.5	2419 
+
+The Surface temperature is 484.5 degree R = 24.5 degree F 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.1/ch2_1.sce #
+ 
+ 
+			Chapter2_example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Resistance of brick layer is 0.877 (hr.degree Rankine)/BTU 
+
+Resistance of glass fibre layer is 14.6 (hr.degree Rankine)/BTU 
+
+Resistance of plywood layer is 0.661 (hr.degree Rankine)/BTU 
+ 
+
+Heat transfer through the composite wall is 4.96 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.2/ch2_2.sce #
+ 
+ 
+			Chapter2_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Resistance of brick layer is 0.181 K/W 
+
+Resistance of wall stud and air layer is 1.98 K/W 
+
+Resistance of plastic layer is 0.013 K/W 
+ 
+ 
+ 
+
+Heat transfer through the composite wall is 11.5 W 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.3/ch2_3.sce #
+ 
+ 
+			Chapter2_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistances in (degree Fahrenheit.hr)/BTU:   
+ 
+ 
+
+Resistance from air to sheet metal: 1.266 degree F.hr/BTU 
+ 
+
+Resistance of steel layer: 0.0001 degree F.hr/BTU 
+ 
+
+Resistance of styrofoam layer: 3.125 degree F.hr/BTU 
+ 
+
+Resistance of fiberglass layer: 0.231 degree F.hr/BTU 
+ 
+
+Resistance from ice water to fiberglass: 0.0067 degree F.hr/BTU 
+ 
+
+The overall heat transfer coefficient is 0.216 BTU/(hr. sq.ft.degree Rankine) 
+ 
+ 
+ 
+
+The heat transfer rate is 12.5 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.4/ch2_4.sce #
+ 
+ 
+			Chapter2_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat transfer through the pipe wall per unit length of pipe is 1956.5 W/m = 1.96 kW/m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.5/ch2_5.sce #
+ 
+ 
+			Chapter2_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Outer radius is 0.0469 ft 
+ 
+
+Outer radius is 0.044 ft 
+ 
+ 
+
+Radius including thickness is 0.0885 ft 
+ 
+
+Product of length and copper layer resistance is: 4.4e-05 
+ 
+
+Product of length and insulation layer resistance is: 5.06 
+ 
+ 
+ 
+
+The heat transferred per unit length is -5.92 BTU/(hr.ft) 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.6/ch2_6.sce #
+ 
+ 
+			Chapter2_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Outer diameter is 0.552 ft 
+
+Inner diameter is 0.5054 ft 
+ 
+ 
+
+Diameter including thickness is 0.71875 ft 
+ 
+ 
+ 
+
+Overall heat transfer coefficient is 0.157  BTU/(hr. sq.ft.degree Fahrenheit) 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.7/ch2_7.sce #
+ 
+ 
+			Chapter2_example7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Heat flow calculated is 34.15 kW/sq.m 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Temperature of aluminium interface is 359.2 K 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Temperature of magnesium interface is 355.6 K 
+ 
+
+The required thermal contact resistance is 1.04e-04 K. sq.m/W 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.9/ch2_9.sce #
+ 
+ 
+			Chapter2_example9
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Length=0.09375 ft, Width=0.1875 ft, Delta=0.002604 ft 
+ 
+ 
+ 
+ 
+
+The value of m is 1.503 
+ 
+ 
+
+			Solution to part (a)
+ 
+ 
+
+The heat transferred is 26.12 BTU/hr 
+
+
+			Solution to part (b)
+ 
+ 
+
+The heat transferred is 25.43 BTU/hr
+ 
+
+			Solution to part (c)
+ 
+ 
+ 
+
+The heat transferred is 26.10 BTU/hr
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH3/EX3.2/ch3_2.sce #
+ 
+ 
+			Chapter3_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat transferred from the buried pipe per unit length is 18.1 BTU/(hr.ft) 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH3/EX3.4/ch3_4.sce #
+ 
+ 
+			Chapter3_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Shape Factor of pipe A is 7.3 
+ 
+ 
+ 
+ 
+
+The Shape Factor of pipe B is 29.2 
+ 
+
+The total conduction shape factor for the system is 43.8 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.1/ch4_1.sce #
+ 
+ 
+			Chapter4_example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The reciprocal of time constant is 4388.6 /hr 
+ 
+ 
+ 
+
+
+The response time of the junction is 3.5 s 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.2/ch4_2.sce #
+ 
+ 
+			Chapter4_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The volume of cylinder is 0.00118 cu.m 
+
+
+The surface area of cylinder is 0.098 sq.m 
+ 
+
+
+The Biot number is 0.028 
+ 
+
+
+			Solution to part (a)
+ 
+ 
+ 
+ 
+ 
+
+The temperature of aluminium is 17.4 degree celsius 
+
+
+			Solution to part (b)
+ 
+ 
+
+The cumulative heat transferred is 92892 J =92.9 kJ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.6/ch4_6.sce #
+ 
+ 
+			Chapter4_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The square root of kpc product of aluminium is 2.39e+04 sq.W.s/(m^4.sq.K) 
+ 
+ 
+ 
+ 
+
+The temperature of aluminium is felt as 20.0 degree celsius 
+ 
+
+The square root of kpc product of oak is 5.66e+02 sq.W.s/(m^4.sq.K) 
+ 
+
+The temperature of oak is felt as 20.1 degree celsius 
+
+The oak will feel warmer. 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH5/EX5.1/ch5_1.sce #
+ 
+ 
+			Chapter5_example1
+
+
+ 
+ 
+ 
+ 
+ 
+
+The specific heat at constant volume is 670 J/(kg.K) 
+ 
+ 
+ 
+ 
+
+ The heat required at constant pressure is 87.1 kJ 
+
+The heat required at constant volume is 67 kJ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH5/EX5.2/ch5_2.sce #
+ 
+ 
+			Chapter5_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient calculated for Freon-12 is 1.811e-03 /K 
+ 
+ 
+
+The error introduced in the case of Freon-12 is 31 percent 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient calculated for Freon-12 is 2.087e-03 /K 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.1/ch6_1.sce #
+ 
+ 
+			Chapter6_example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The average flow velocity is 2.0 m/s 
+ 
+ 
+
+The Reynolds Number is 14.9 
+ 
+ 
+
+The hydrodynamic length is 1.1 cm 
+ 
+ 
+ 
+ 
+ 
+
+The bulk-fluid outlet temperature is 54.8 degree celsius 
+ 
+ 
+
+The thermal entry length is 2.2 m 
+ 
+
+The wall temperature at outlet is 84.1 degree celsius 
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.2/ch6_2.sce #
+ 
+ 
+			Chapter6_example2
+
+
+ 
+ 
+ 
+
+The average bulk temperature is 105 degree celsius 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.006071  
+ 
+ 
+ 
+
+The velocity is 14340 ft/hr 
+ 
+ 
+ 
+ 
+ 
+
+The average convective coefficient is 5176 BTU/(hr. sq.ft.degree Rankine) 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.6/ch6_6.sce #
+ 
+ 
+			Chapter6_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The mass flow rate is 0.2 lbm/s 
+ 
+ 
+
+The average velocity evaluated by using the average bulk temperature is 9.71 ft/s 
+ 
+
+The Reynolds number for the flow is 3.709e+04  
+ 
+ 
+
+The heat gained by air is 1.295 BTU 
+ 
+ 
+ 
+
+The local coefficient at the duct end is 2.27 BTU/(hr. sq.ft.degree Rankine) 
+ 
+
+The wall flux is 22.9 BTU/(hr. sq.ft.degree Rankine) 
+ 
+
+The wall temperature at exit is 82.1 degree Fahrenheit 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.3/ch7_3.sce #
+ 
+ 
+			Chapter7_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Reynolds number is 2.41e+05 
+ 
+ 
+
+The average convection coefficient is 8.68 W/(sq.m.K) 
+ 
+
+The drag force is 1.69e-02 N 
+ 
+
+The local convective coefficient is 4.34  W/(sq.m.K) 
+ 
+
+The boundary-layer thickness at plate end is 1.02 cm 
+ 
+
+The thermal-boundary-layer thickness is 1.15 cm 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.4/ch7_4.sce #
+ 
+ 
+			Chapter7_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The wall flux is 324 BTU/(hr. sq.ft) 
+ 
+ 
+ 
+
+The Reynolds number at plate end is 1.46e+05 
+ 
+ 
+ 
+
+The maximum heater surface temperature is 469 degree Rankine 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.5/ch7_5.sce #
+ 
+ 
+			Chapter7_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The convection coefficient is 1.92 BTU/(hr.sq.ft.degree R) 
+ 
+
+The value of left hand side of the equation is 8.94e-04 
+ 
+ 
+
+The value of left hand side of the equation is 8.69e-04 
+ 
+
+The error is 2 percent 
+
+Since the error is only 2 percent, the agreement is quite good 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.7/ch7_7.sce #
+ 
+ 
+			Chapter7_example7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The transition length is 18.1 cm 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The transition thus occur at 5th heater 
+ 
+ 
+ 
+
+
+The convective coefficient for heater no. 1 is 164 W/(sq.m.K)
+The heat transferred by heater no. 1 is 210 W
+
+The convective coefficient for heater no. 2 is 116 W/(sq.m.K)
+The heat transferred by heater no. 2 is 87 W
+
+The convective coefficient for heater no. 3 is 95 W/(sq.m.K)
+The heat transferred by heater no. 3 is 66 W
+
+The convective coefficient for heater no. 4 is 82 W/(sq.m.K)
+The heat transferred by heater no. 4 is 56 W 
+ 
+ h  =
+ 
+    164.5763   
+    116.37302  
+    95.018172  
+    82.288151  
+    86.651512  
+
+
+The Reynolds number for heater no. 5 is 5.54e+05
+The convective coefficient for heater no. 5 is 86.7 W/(sq.m.K)
+The heat transferred by heater no. 5 is 133 W h  =
+ 
+    164.5763   
+    116.37302  
+    95.018172  
+    82.288151  
+    86.651512  
+    99.727129  
+
+
+The Reynolds number for heater no. 6 is 6.65e+05
+The convective coefficient for heater no. 6 is 99.7 W/(sq.m.K)
+The heat transferred by heater no. 6 is 211 W 
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.9/ch7_9.sce #
+ 
+ 
+			Chapter7_example9
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Reynolds number of flow past the wire is 5.019 
+ 
+ 
+ 
+
+The convection coefficient is 387 W/(sq.m.K) 
+ 
+ 
+ 
+ 
+
+The heat transferred to the air from the wire is 0.317 W 
+ 
+ 
+
+The resistance is 0.032 ohm 
+ 
+
+The current is 3.1 A 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.10/ch7_10.sce #
+ 
+ 
+			Chapter7_example10
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Velocity at area A1 is 36.7 ft/s 
+ 
+
+The diagonal pitch is 1.63 in 
+ 
+
+Velocity at area A2 is 10.3 ft/s 
+ 
+ 
+
+The Reynolds number is 1.59e+04  
+ 
+ 
+
+The values of parameters are sT/Do=1.49 and sT/sL=0.87 
+ 
+ 
+ 
+ 
+ 
+
+The pressure drop is 3.96 lbf/ft^2 = 0.0269 psi 
+ 
+ 
+ 
+ 
+ 
+
+The convection coefficient is 21.0 BTU/(hr.sq.ft.degree Rankine) 
+ 
+
+The outside surface area of 70 tubes is 32.1 sq.ft 
+ 
+ 
+ 
+
+The heat transferred is 8.76e+04 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.1/ch8_1.sce #
+ 
+ 
+			Chapter8_example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient is 0.00172/degree R 
+ 
+ 
+ 
+ 
+
+The Grashof number is 2.00e+08 
+ 
+ 
+
+The convection coefficient is 1.10 BTU/(hr.sq.ft.degree R) 
+ 
+ 
+
+The heat transferred is 616 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.2/ch8_2.sce #
+ 
+ 
+			Chapter8_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T_inf  =
+ 
+    22.    0.  
+ 
+ 
+
+The volumetric thermal expansion coefficients at 295 K and 273 K are respectively 0.00339 and 0.00366 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For first guess, the results are:
+ 
+ 
+
+The Rayleigh Numbers are 8.269e+07 and 1.396e+08 
+
+The convective coefficients are 2.17 W/(sq.m.K) and 2.29 W/(sq.m.K) 
+ 
+
+The heat flux is 24.4 W/sq.m 
+
+The wall temperature calculated is 10.8
+The wall temperature calculated is 10.6 
+
+For second guess, the results are:
+ 
+ 
+
+The Rayleigh Numbers are 2.317e+08 and 3.715e+08 
+
+The convective coefficients are 2.80 W/(sq.m.K) and 2.92 W/(sq.m.K) 
+ 
+
+The heat flux is 31.2 W/sq.m 
+
+The wall temperature calculated is 10.9 degree celsius
+The wall temperature calculated is 10.7 degree celsius 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.3/ch8_3.sce #
+ 
+ 
+			Chapter8_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient is 0.00182 /degree R 
+ 
+
+The Rayleigh Number is 4.84e+09  
+ 
+
+The value of convection coefficient is 0.553 BTU/(hr.sq.ft.degree R) 
+ 
+
+The heat gained is 141 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.4/ch8_4.sce #
+ 
+ 
+			Chapter8_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient is 0.00341 /K 
+ 
+ 
+
+The Laminar-turbulent  transition length by Vliet equation is 0.056 m 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	x,m		Ra		hc,W/(sq.m.K)
+ 
+	0.02		2.03e+04	9.32
+	0.04		1.62e+05	7.52
+	0.05		3.16e+05	7.04
+	0.05		3.36e+05	7.00
+	0.10		3.58e+06	6.39
+	1.00		3.58e+09	4.99
+	3.00		9.67e+10	4.73
+	5.00		4.48e+11	4.66
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.5/ch8_5.sce #
+ 
+ 
+			Chapter8_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient is 0.00192 /degree R 
+ 
+
+The Rayleigh Number is 4.92e+08  
+ 
+
+The value of convection coefficient is 0.586 BTU/(hr.sq.ft.degree R) 
+ 
+
+The heat transferred from one side is 93.7 BTU/hr 
+ 
+ 
+ 
+
+The Rayleigh Number based on characteristic length is 7.69e+06  
+ 
+
+The convective coefficient based on characteristic length is 0.862 BTU/(hr.sq.ft.degree R) 
+ 
+
+The heat transferred from top is 137 BTU/hr 
+
+The top transfers heat at a higher rate 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.6/ch8_6.sce #
+ 
+ 
+			Chapter8_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient is 0.00360 /K 
+ 
+
+The Rayleigh Number is 1.54e+07  
+ 
+ 
+
+The convection coefficient for horizontal length is 5.62 W/(sq.m.K) 
+ 
+ 
+
+The heat transferred from the horizontal length of 4 m is 476 W 
+ 
+ 
+
+The convection coefficient for vertical length is 2.89 W/(sq.m.K) 
+ 
+
+The heat transferred from the vertical length of 4 m is 245 W 
+ 
+
+The total heat lost from the pipe is 722 W 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.7/ch8_7.sce #
+ 
+ 
+			Chapter8_example7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient is 0.00189 /degree R 
+ 
+ 
+
+The characteristic length is 0.545 ft 
+ 
+
+The Rayleigh Number is 2.68e+07  
+ 
+
+The value of convection coefficient is 1.11 BTU/(hr.sq.ft.degree R) 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH8/EX8.8/ch8_8.sce #
+ 
+ 
+			Chapter8_example8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volumetric thermal expansion coefficient is 0.00325 /K 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The value of zeta is 2.91e-03  
+ 
+
+The fin length is 0.397 m 
+ 
+
+The fin spacing is 0.00841 m 
+ 
+
+The heat transfer rate is 1422 W 
+ 
+
+The number of fins can be atmost 27 
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH9/EX9.1/ch9_1.sce #
+ 
+ 
+			Chapter9_example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The LMTD for counter flow configuration is 59.4 degree C 
+ 
+ 
+
+The LMTD for parallel flow configuration is 52.4 degree C 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH9/EX9.2/ch9_2.sce #
+ 
+ 
+			Chapter9_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The LMTD for counter flow configuration is 72.1 degree C 
+ 
+
+For a finite heat-transfer rate and  a finite  overall heat-transfer coefficient,
+if parallel flow is to give  equal  outlet  temperatures,
+then the area  needed  must be infinite which is not feasible economically. 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH9/EX9.3/ch9_3.sce #
+ 
+ 
+			Chapter9_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The area of annulus is 0.01170 sq.ft 
+
+The area of inner pipe is 0.00909 sq.ft 
+
+Air flows through annulus 
+ 
+ 
+ 
+
+The Annulus Equivalent Diameter for friction is 0.0528 ft 
+
+The Annulus Equivalent Diameter for heat transfer is 0.1300 ft 
+ 
+ 
+
+The Reynolds Number for water is 5.2e+04 
+ 
+
+The Reynolds Number for ethylene glycol is 1.07e+04 
+ 
+ 
+ 
+
+The Nusselt number for water is 189 
+
+The Nusselt number for ethylene glycol is 185 
+ 
+ 
+ 
+ 
+
+The convective coefficient for water based on inner diameter is 663 BTU/(hr.ft^2.degree R) 
+
+The convective coefficient for water based on outer diameter is 623 BTU/(hr.sq.ft.degree R) 
+
+The convective coefficient for ethylene glycol is 213 BTU/(hr.sq.ft.degree R) 
+ 
+ 
+
+The overall exchanger coefficient is 159 BTU/(hr.sq.ft.degree R) 
+ 
+ 
+ 
+
+The ratio is 1.47 and area is 7.2 sq.ft 
+ 
+ 
+ 
+
+The temperature T2=173 degree F 
+ 
+
+The outlet temperature of Ethylene glycol is 99.4 degree F 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH10/EX10.2/ch10_2.sce #
+ 
+ 
+			Chapter10_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The vapor density is 0.516 kg/cu.m 
+ 
+ 
+ 
+
+The average heat transfer coefficient is 8.325e+03 W/(sq.m.K) 
+ 
+
+The heat flow rate is 3.5e+04 W 
+ 
+
+The rate at which steam condenses is 0.02 kg/s = 72 kg/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH10/EX10.3/ch10_3.sce #
+ 
+ 
+			Chapter10_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tw  =
+ 
+    120.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat transferred per unit area is 3.19e+05 W/sq.m 
+ 
+
+The area of the pan inside-bottom surface in contact with liquid is 1.56e-02 sq.m 
+
+
+			Solution to part (a) 
+ 
+
+The power delivered to the water is 4.98 kW 
+
+
+			Solution to part (b) 
+ 
+
+The water evaporation rate is 2.21e-03 kg/s = 7.94 kg/hr 
+
+
+			Solution to part (c) 
+ 
+
+The critical heat flux is 1.52e+06 W/sq.m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH11/EX11.1/ch11_1.sce #
+ 
+ 
+			Chapter11_example1
+
+
+ 
+ 
+			Solution to Part (a)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The solid angle subtended by area dA2 with respect to dA1 is 3.32e-04 sr 
+ 
+ 
+ 
+
+The solid angle subtended by area dA3 with respect to dA1 is 4.34e-04 sr 
+
+
+			Solution to Part (b)
+ 
+ 
+ 
+ 
+ 
+
+ The intensity of radiation emitted from dA1 in the direction of dA2 is 1530 BTU/(hr.sq.ft.sr) 
+
+ The intensity of radiation emitted from dA1 in the direction of dA3 is 1400 BTU/(hr.sq.ft.sr) 
+
+
+			Solution to Part (c)
+ 
+ 
+ 
+ 
+
+The rate at which radiation emitted by dA1 is intercepted by dA2 is 2.27e-03 BTU/hr 
+
+The rate at which radiation emitted by dA1 is intercepted by dA3 is 2.11e-03 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH11/EX11.2/ch11_2.sce #
+ 
+ 
+			Chapter11_example2
+
+
+ 
+ 
+			Solution to Part (a)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The solid angle subtended by area dA2 with respect to dA1 is 4.00e-04 sr 
+
+
+			Solution to Part (b)
+ 
+ 
+ 
+ 
+ 
+
+The rate at which radiation emitted by dA1 is intercepted by dA2 is 1.39e-04 W 
+
+
+			Solution to Part (c)
+ 
+ 
+ 
+
+The irradiation associated with dA2 is 3.46e-01 W/sq.m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH11/EX11.3/ch11_3.sce #
+ 
+ 
+			Chapter11_example3
+
+
+ 
+ 
+ 
+ 
+ 
+
+The inside surface area is 0.314 sq.ft  
+ 
+
+The area of a 1/8 inch hole is 8.522e-05 sq.ft 
+ 
+
+The fraction of area removed is 2.717e-04  
+
+
+			Solution to Part (a)
+ 
+ 
+ 
+ 
+
+The emissivity of the hole is 0.9933 
+
+
+			Solution to Part (b)
+ 
+ 
+ 
+ 
+
+The heat lost per unit area of the hole is 235 BTU/hr 
+ 
+
+The heat lost by the hole is 2.01e-02 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH11/EX11.4/ch11_4.sce #
+ 
+ 
+			Chapter11_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+hT=1.12e-03 m.K and lambda2_T=1.96e-03 m.K 
+ 
+ 
+ 
+
+The percentage of total emitted energy that lies in the visible range is 6.0 percent 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH11/EX11.5/ch11_5.sce #
+ 
+ 
+			Chapter11_example5
+
+
+ 
+ 
+ 
+ 
+ 
+
+The Surface Temperature of the Sun is 5796 K 
+ 
+ 
+ 
+
+The heat flux emitted is 6.404e+07 W/sq.m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH11/EX11.6/ch11_6.sce #
+ 
+ 
+			Chapter11_example6
+
+
+ 
+ 
+			Solution to Part (a)
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Lower and Upper limits of Wavelength-Temperature Products are 1.74e-03 m.K and 2.204e-03 m.K respectively 
+ 
+ 
+ 
+ 
+
+The Transmittivity is 0.0460 
+ 
+ 
+
+The energy transmitted from the sun through the glass is 50.6 W/sq.m 
+
+			Solution to Part (b)
+ 
+ 
+ 
+ 
+
+The Lower and Upper limits of Wavelength-Temperature Products are 9.33e-05 m.K and 1.18e-04 m.K respectively 
+ 
+ 
+ 
+
+the rate at which radiant energy from the car interior is transmitted through the glass windshield is 0 W/sq.m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH12/EX12.3/ch12_3.sce #
+ 
+ 
+			Chapter12_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For Fd1_3, the values of a/c=1.0 and b/c=2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For Fd1_4, the values of a/c=3.0 and b/c=0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For Fd1_5, the values of a/c=1.0 and b/c=0.5 
+ 
+ 
+
+Fd1_2=0.19 
+
+19 percent of the energy leaving dA1 reaches A 
+ 
+ 
+ 
+ 
+
+The net heat transferred is 29.8 BTU/(hr.sq.ft) 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH12/EX12.4/ch12_4.sce #
+ 
+ 
+			Chapter12_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Widths are L1=1 m, L2=0.707 m and L3=0.707 m 
+ 
+ 
+ 
+ 
+ 
+
+The heat transferred from A2 to A1 is 1.67e+03 W/sq.m 
+
+The heat transferred from A3 to A1 is 1.67e+03 W/sq.m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH12/EX12.6/ch12_6.sce #
+ 
+ 
+			Chapter12_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The temperature T2=853.7 degree R 
+ 
+ 
+
+The heat flux through area A1 is 1205 BTU/(hr.sq.ft) 
+ 
+
+The heat flux through area A3 is -1205 BTU/(hr.sq.ft) 
+
+The results are logical in that the heat entering the system (the oven itself) must equal that which leaves under steady-state conditions. 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH12/EX12.7/ch12_7.sce #
+ 
+ 
+			Chapter12_example7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ emissivity2  =
+ 
+    0.94  
+ 
+ 
+ 
+ 
+ 
+
+The heat lost through bottom surface is 3510 W/sq.m 
+ 
+
+The heat lost through top surface is -3510 W/sq.m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH12/EX12.8/ch12_8.sce #
+ 
+ 
+			Chapter12_example8
+
+
+ 
+ 
+ 
+ 
+ 
+
+The Surface area is 3.14 sq.ft 
+
+			Solution to part (a)
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat exchanged between the dish and the surroundings is 1893 BTU/hr 
+
+			Solution to part (b)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat exchanged between the dish and the surroundings for the second case is 1552 BTU/hr 
+ 

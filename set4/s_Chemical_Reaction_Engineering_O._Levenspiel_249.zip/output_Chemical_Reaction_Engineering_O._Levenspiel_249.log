@@ -1,0 +1,1327 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 83
+
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH1/EX1.1/1_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULT
+ 
+rate of reaction of H2(mol/m^3.s) is 28308.563340
+ 
+
+rate of reaction of O2(mol/m^3.s) is 14154.281670
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH1/EX1.2/1_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULT
+ 
+rate of reaction of O2(mol/m^3.s) is 0.001973
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH2/EX2.1/2_01.sce #
+ 
+ 
+ 
+Its a theorotical Question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH2/EX2.2/2_02.sce #
+ 
+ 
+ 
+Its a theorotical Question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH2/EX2.3/2_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T2  =
+ 
+    347.  
+ 
+ 
+ 
+ 
+
+RESULT
+ 
+E(J/mol) is 421885.039518 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH3/EX3.4/3_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E  =
+ 
+    0.  
+ 
+
+RESULT
+ 
+E(J/mol)using pressure units is 0.000000 
+ 
+ 
+ k1  =
+ 
+    0.0024781  
+ 
+ k2  =
+ 
+    0.0038720  
+ 
+ E  =
+ 
+    7420.8619  
+ 
+
+E(J/mol)using concentration units is 7420.861943 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH4/EX4.1/4_01.sce #
+ 
+ 
+ 
+ c  =
+ 
+    6.  
+ 
+ 
+ Cio  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULT
+ 
+The final concentration of B(CB) is 40.000000 
+
+ XA and XB are 0.500000 ,0.750000 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH5/EX5.1/5_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULT
+ 
+rate of reaction of A(mol/litre.min) is 0.080000
+ 
+
+rate of reaction of B(mol/litre.min) is -0.020000
+ 
+
+rate of reaction of C(mol/litre.min) is -0.040000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH5/EX5.3/5_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ volumetric flow rate(litre/min) into and out of the reactor is 2.000000 
+ 
+ 
+ The sol varies from book as the value of CB taken in book at end is wrong   
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH5/EX5.4/5_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Space time(sec) needed is 33.182380 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH5/EX5.5/5_05.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ volume(m3) of reactor is 0.147745 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH5/EX5.6/5_06.sce #
+ 
+ 
+ 
+Its a theorotical Question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH6/EX6.1/6_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    0.5  
+ 
+ 
+
+ Fraction of feed going to branch D is 0.666667 
+ 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH6/EX6.2/6_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ The conversion in percentage is 97.400000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part b 
+
+ Treatment rate can be increased by  6.545455 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH7/EX7.1/7_01.sce #
+ 
+ 
+ 
+Its a theorotical Question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH7/EX7.2/7_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ For Plug Flow 
+
+ Concentration of R(mol/litre) in the product stream is 2.858725 
+ 
+ 
+ 
+ 
+ 
+
+ Part b 
+
+ For Mixed Flow 
+
+ Concentration of R(mol/litre) in the product stream is 4.500000 
+ 
+ 
+ 
+ 
+ 
+
+ Part c 
+
+ For Plug flow A,Mixed flow B 
+
+ Concentration of R(mol/litre) in the product stream is 7.848707 
+ 
+ 
+ The result for plug flow varies as there seems to be typographical error 
+       in integration done in book                                        
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH7/EX7.3/7_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ For Mixed Flow Reactor 
+
+ Maximum expected Cs is 0.666667 
+ 
+ 
+ 
+ 
+
+ Part b 
+
+ For Plug Flow 
+
+ Maximum expected concentration of S is 0.863891 
+ 
+ 
+ 
+ 
+ 
+ 
+Part c 
+
+ For MFR with separation and recycle 
+
+ Concentration of Csf is 0.500000 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH7/EX7.4/7_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mixed flow followed by plug flow would be best 
+
+ Total amount of CS formed(mol/litre) is 0.886294 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH8/EX8.1/8_01.sce #
+ 
+ 
+ 
+Its a theorotical Question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH8/EX8.2/8_02.sce #
+ 
+ 
+ 
+ Data is not provided,only graph is provided   
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH8/EX8.3/8_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The rate constants are 
+
+ k1= 0.007027 
+
+ k2= 0.010811 
+
+ k3= 0.002668 
+
+ k4= 0.009900 
+
+ k5= 0.015700 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH9/EX9.1/9_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ dH(J) at temperature 1025C is 10000.000000 
+ 
+Reaction is Exothermic 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH9/EX9.3/9_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    48679.811  
+ 
+ ko  =
+ 
+    31411847.  
+ 
+ 
+ 
+
+ The rate constants are k=exp[(75300/RT)-24.7] min-1 
+
+ k1=exp[17.2-(48900/RT)] min-1 
+
+ k2=exp[41.9-(123800/RT)] min-1  
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH9/EX9.4/9_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ The space time needed is 1.620000 
+ min 
+ The Volume needed is 405.000000 
+ litres 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH9/EX9.5/9_05.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ The size of reactor(litres) needed is 2000.000000 
+ 
+ 
+ 
+ 
+ 
+
+ Part b 
+
+ Heat Duty(KW) of precooler is 350.000000 
+ 
+ 
+ 
+
+ Heat Duty(KW) of postcooler is 647.500000 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH9/EX9.6/9_06.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The volume of adiabatic plug flow reactor is 1720.000000 
+litres 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH9/EX9.7/9_07.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The volume required is 1200.000000 
+litre 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH10/EX10.1/10_01.sce #
+ 
+ 
+ 
+ v  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The Total volume(lires) of 4 reactor system is 750.000000 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH10/EX10.2/10_02.sce #
+ 
+ 
+For Intermediate R is desired 
+ 
+
+ E1<E2,E1<E3 so use a low temperature and plug flow 
+ 
+For Product S is desired 
+ 
+
+ High speed is all that matters so use a high temperature and plug flow 
+ 
+For Intermediate T is desired 
+ 
+
+ E2>E1,E3>E5 so use a falling temperature and plug flow 
+ 
+For Intermediate U is desired 
+ 
+
+ E2>E1,E3>E5 so use a rising temperature and plug flow 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH11/EX11.2/11_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ From material balance Area(gm.min/litre) is 0.500000 
+
+ From Tracer Curve Area(gm.min/litre) is 0.499969 
+
+ Part a 
+
+ As the two areas are equal,this is a properly done experiment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part b 
+
+ Fraction of liquid is 0.930225 
+ 
+
+ Part c 
+
+ The E curve is 1.5C 
+
+ Part d 
+
+ The vessel has  a strong recirculation of liquid,probably induced by the rising bubbles 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH11/EX11.4/11_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The fraction of reactant unconverted in a plug flow reactor is 0.010002 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The fraction of reactant unconverted in a real reactor is 0.046906 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH11/EX11.5/11_05.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Average concentration of A remaining in the droplet is 0.653426 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH12/EX12.1/12_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ fraction of gas is 50.000000 
+
+ fraction of liquid is 40.000000 
+
+ fraction of Stangnant liquid is 10.000000 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH12/EX12.2/12_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ New Conversion Expected is 0.900000 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH13/EX13.1/13_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The vessel dispersion number is 0.120000 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH13/EX13.2/13_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The vessel dispersion number is 0.000320 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH13/EX13.3/13_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The vessel dispersion number is 0.013889 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH13/EX13.4/13_04.sce #
+ 
+ 
+ 
+ All the values have to be read from the given graph   
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH14/EX14.1/14_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ No of bottles of rose expected is 10.000000 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH14/EX14.2/14_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The dumping of toxic phenol must have occured within 272.000000 
+miles upstream of cincinnati 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH14/EX14.3/14_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The reflux ratio is 1.000000 
+
+ The volume of 1st tank is 0.333333 
+
+ The volume of 2nd tank is 0.666667 
+
+ The number of tanks are 12.111111  
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH16/EX16.1/16_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Conversion for flow scheme A is 0.381966 
+ 
+ 
+ 
+ 
+ 
+
+ Conversion for flow scheme B is 0.366025 
+ 
+ 
+ 
+ 
+ 
+
+ Conversion for flow scheme C,D,E is 0.361329 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH17/EX17.1/17_01.sce #
+ 
+ 
+
+ Its a theorotical question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH17/EX17.2/17_02.sce #
+ 
+ 
+
+ Its a theorotical question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH17/EX17.3/17_03.sce #
+ 
+ 
+
+ Its a theorotical question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH17/EX17.4/17_04.sce #
+ 
+ 
+
+ Its a theorotical question 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH18/EX18.1/18_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ Resistance to mass transport to film should not influence rate of reaction 
+
+ Part b 
+ 
+ 
+
+ Mw= 16.000000 
+
+ Pore diffusion is influencing and hence strong pore diffusion 
+ 
+ 
+ 
+ 
+
+ Part c 
+
+ dTmax,pellet is 0.100000 
+ degree C 
+ dTmax,film is 40.000000 
+ degree C 
+
+ Pellet is  to uniform in temperature 
+
+ There is a variation in temp within Film 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH18/EX18.4/18_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The amount of catalyst(kg) needed in a packed bed reactor is 140.235763 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH18/EX18.6/18_06.sce #
+ 
+ 
+ 
+ 
+ CAo  =
+ 
+    0.1  
+ 
+ 
+ CA  =
+ 
+    0.0317073  
+ 
+ 
+ 
+ 
+The amount of catalyst needed(kg) is 229.967949 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH18/EX18.7/18_07.sce #
+ 
+ 
+Its a theorotical qn 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH20/EX20.1/20_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ Conversion of reactant is 31.430517  
+ 
+
+ Part b 
+
+ The proper mean concentration(mol/m3) of A seen by solid is 10.579478 
+ 
+
+ Part c 
+
+ Conversion of reactant for packed bad is 0.948820 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH22/EX22.1/22_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The conversion of acetone is 0.158339 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH23/EX23.1/23_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+ 
+ 
+ 
+
+ Fraction of the resistance in the gas film is 0.666667 
+
+ Fraction of the resistance in the liquid film is 0.333333 
+
+ Part b 
+
+ The reaction zone is in the liquid film 
+
+ Part c 
+
+ We have pseudo 1st order reaction in the film 
+ 
+ 
+ 
+
+ Part d 
+
+ The rate of reaction(mol/m3.hr) is 33.333331 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH24/EX24.1/24_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The height of the tower required for countercurrent operartions is  512.500000 
+m 
+ 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH24/EX24.2/24_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The height of the tower is 5.029493  
+m 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH24/EX24.3/24_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The height of the tower is 24.404762 
+m 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH24/EX24.4/24_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The height of the tower is 6.911691 
+m 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH24/EX24.5/24_05.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The height of the tower is 5.029493  
+m 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH24/EX24.6/24_06.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part a 
+
+ The run time needed is 9.130601 
+hr 
+ 
+ 
+
+ The minimum time required is 8.910000 
+hr 
+ 
+ 
+
+ Part b 
+
+ Fraction of reactant which passes through the tank unreacted is 0.024759 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH26/EX26.1/26_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The fraction of solid converted equals 0.932000  
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH26/EX26.2/26_02.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fraction of original sulfide ore remain unconverted is 0.070028 
+ 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH26/EX26.3/26_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The mean conversion of soild is 0.795208 
+
+ The answer slightly differs from those given in book as we have considered only significant terms in infinite series 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH26/EX26.4/26_04.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The needed weight of bed is 22.862369 
+tons 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH29/EX29.1/29_01.sce #
+ 
+ 
+
+ Its a theorotical qn 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH29/EX29.2/29_02.sce #
+ 
+ 
+
+ Its a theorotical qn 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH29/EX29.3/29_03.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The feed rate of glucose is 18.000000 
+kg/hr 
+ 
+ 
+ 
+
+ Max consumption rate of glucose is 14.400000  
+kg/hr 
+ 
+ 
+ 
+
+ Max production rate of E.coli is 1.440000 
+kg/hr 
+grepthis#Chemical_Reaction_Engineering_O._Levenspiel_249/CH30/EX30.1/30_01.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The Percentage of alchol in cocktail is 6.000000 
+ 
+ 
+ 
+ 
+ 
+
+ The Optimum feed rate is 25.980762 
+ m3/hr 
+ 
+ 
+
+ The production rate of alcohol is 1558.845727  
+ kgalc/hr 

@@ -1,0 +1,31 @@
+ERROR: Electronic_Communication_Systems_G._Kennedy_And_B._Davis_63/CH1/EX1.2/Exa1_2.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum voltage(in V)   
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 

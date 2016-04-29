@@ -1,0 +1,265 @@
+ERROR: Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/CH10/EX10.6/Ex10_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ Dqe  =
+ 
+    34.925  
+ 
+Dqe = 34 mm 
+ 
+ 
+ 
+ 
+ 
+ 
+
+From the figure which applies  to carbon and low-alloy steels,we see that the cooling rate was approximately 
+ 4 degree C/s (at 700 degree C)  
+ 
+s_J._F._Shackelford_3557/Ex10_6');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      17 of exec file called by :    
+kelford_3557/CH10/EX10.6/Ex10_6.sce',-1
+ 
+ERROR: Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/CH14/EX14.8/Ex14_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    366.  
+ 
+A = 366  
+ B  =
+ 
+    455.5  
+ 
+  B = 455.500000  
+ C  =
+ 
+    1.2445355  
+ 
+  C = 1.244536  
+ A1  =
+ 
+    19.131126  
+ 
+
+A1 = 19.131126  
+ B1  =
+ 
+    20.460246  
+ 
+  B1 = 20.460246  
+ C1  =
+ 
+    1.0694742  
+ 
+  C1 = 1.069474  
+ A2  =
+ 
+    1.0608032  
+ 
+
+A2 = 1.060803  
+ B2  =
+ 
+    1.0612699  
+ 
+   B2 = 1.061270  
+ C2  =
+ 
+    1.00044  
+ 
+   C2 = 1  
+ A3  =
+ 
+    0.9426819  
+ 
+
+A3 = 0.942682  
+ B3  =
+ 
+    0.9423027  
+ 
+  B3 = 0.942303  
+ C3  =
+ 
+    0.9995977  
+ 
+  C3 = 0.999598  
+ A4  =
+ 
+    0.0027322  
+ 
+
+A4 = 2.732240e-03  
+ B4  =
+ 
+    0.0031257  
+ 
+  B4 = 3.125686e-03  
+ C4  =
+ 
+    1.1440012  
+ 
+  C4 = 1.144001  
+ 
+ 
+ 
+ 
+ 
+
+ n=0 
+ 
+s_J._F._Shackelford_3557/Ex14_8');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      49 of exec file called by :    
+kelford_3557/CH14/EX14.8/Ex14_8.sce',-1
+ 
+ERROR: Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/CH17/EX17.9/Ex17_9.sce
+ 
+ 
+ 
+ 
+ ln1  =
+ 
+    4.0943446  
+ 
+ln1 = 4.094345 ohm^-1 m^-1 
+ 
+ T1  =
+ 
+    0.0026810  
+ 
+
+T1 = 2.680965e-03 k^-1 
+ 
+ ln2  =
+ 
+    4.0036902  
+ 
+
+ln2 = 4.003690 ohm^-1 m^-1 
+ 
+ T2  =
+ 
+    0.0033333  
+ 
+
+T2 = 3.333333e-03 k^-1 
+ 
+ 
+ 
+ ln3  =
+ 
+    4.0943446  
+ 
+
+ln3 = 4.094345 ohm^-1 m^-1 
+ 
+ T3  =
+ 
+    0.0024510  
+ 
+
+T3 = 2.450980e-03 K^-1 
+ 
+ ln4  =
+ 
+    0.7129498  
+ 
+
+ln4 = 0.712950 Ohm^-1 m^-1 
+ 
+ T4  =
+ 
+    0.0033333  
+ 
+
+T4 = 3.333333e-03 K 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+s_J._F._Shackelford_3557/Ex17_9');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      37 of exec file called by :    
+kelford_3557/CH17/EX17.9/Ex17_9.sce',-1
+ 
+ERROR: Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/CH18/EX18.3/Ex18_3.sce
+ 
+ 
+ x  =
+ 
+ 
+         column 1 to 8
+ 
+    60000.    10000.    0.  - 10000.  - 20000.  - 30000.  - 40000.  - 50000.  
+ 
+         column  9 to 16
+ 
+  - 60000.  - 60000.  - 10000.    0.    10000.    20000.    30000.    40000.  
+ 
+         column 17 to 18
+ 
+    50000.    60000.  
+ 
+ y  =
+ 
+ 
+         column  1 to 10
+ 
+    0.65    0.58    0.56    0.53    0.46    0.3    0.  - 0.44  - 0.65  - 0.65  
+ 
+         column 11 to 18
+ 
+  - 0.58  - 0.56  - 0.53  - 0.46  - 0.3    0.    0.44    0.65  
+ 
+ 
+ 
+ 
+(b) The remanent induction Br =0.56 weber/m^2 at (H = 0) 
+
+(c) The coercive field Hc = -4*10^4 amperes/m (at B= 0) 
+ 
+s_J._F._Shackelford_3557/Ex18_3');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      11 of exec file called by :    
+kelford_3557/CH18/EX18.3/Ex18_3.sce',-1
+ 
+ERROR: Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/CH18/EX18.7/Ex18_7.sce
+ 
+ 
+ 
+ 
+ 
+(BH)max ~10*10^3 J/m^3 
+ 
+ 
+ 
+s_J._F._Shackelford_3557/Ex18_7');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      10 of exec file called by :    
+kelford_3557/CH18/EX18.7/Ex18_7.sce',-1
+ 

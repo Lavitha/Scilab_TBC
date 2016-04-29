@@ -1,0 +1,444 @@
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH2/EX2.22/example2_22.sce #
+
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH3/EX3.8/example3_8.sce #
+ 
+ 
+[2J[0;0H 
+	 Example 3.8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ film based liq phase mass transfer coeff.ky is  :0.000166  
+ 
+ 
+ 
+ 
+ 
+
+ film based gas phase mass transfer coeff.ky is  :0.011719  
+ 
+ 
+ 
+
+ overall  liq phase mass transfer coefficient Kx is  :0.006445  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ overall gas phase mass transfer flux -NAo_gas is  :1.267466*10^-6 kmol/m^2*s  
+
+ overall liq phase mass transfer flux -NAo_liq is  :1.235953*10^-6 kmol/m^2*s  
+ 
+ 
+ 
+ 
+
+ film based gas phase mass transfer flux-NAf_gas is  :1.242613 *10^-6 kmol/m^2*s 
+
+ film based liq phase mass transfer flux-NAf_liq is  :1.192479 *10^-6 kmol/m^2*s 
+ 
+ 
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH5/EX5.10/example5_10.sce #
+ 
+ 
+[2J[0;0H 
+	 Example 5.10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    20.    30.    40.    50.    55.  
+ 
+ 
+
+ the enhalpy at :20.000000 is :60.734880
+ the enhalpy at :30.000000 is :71.086320
+ the enhalpy at :40.000000 is :81.437760
+ the enhalpy at :50.000000 is :91.789200
+ the enhalpy at :55.000000 is :96.964920 
+ ES  =
+ 
+    60.735    101.79    166.49    278.72    354.92  
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["operating line";"Enthalpy at saturated cond"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ the maximum area of the tower(based on gas) is :7.169260 m^2 
+
+ the maximum area of the tower(based on liquid) is :10.000000 m^2 
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    20.    30.    40.    50.    55.  
+ 
+ 
+ H_bar  =
+ 
+    101.79    133.    166.49    210.    278.72  
+ 
+ Hg  =
+ 
+    71.09    103.    140.    173.    211.09  
+ 
+ 
+
+ the enhalpy at :20.000000 is :0.032573
+ the enhalpy at :30.000000 is :0.033333
+ the enhalpy at :40.000000 is :0.037750
+ the enhalpy at :50.000000 is :0.027027
+ the enhalpy at :55.000000 is :0.014786 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+the tower height is :17.040000 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ make up water is based onevaporation loss(E),blow down loss(B),windage loss(W) is :3681.244571 kg /hr 
+ 
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH6/EX6.1/example6_1.sce #
+ 
+ 
+[2J[0;0H 
+	 Example 6.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  the solid temp. correspond to wbt and they are 23, 27,32 and 34  degree respectively 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ the water removed /hr is :515.648113kg /hr 
+ 
+ 
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH6/EX6.2/example6_2.sce #
+ 
+ 
+[2J[0;0H 
+	 Example 6.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ the total time for drying the wet slab on wet basis is :12.483556 min 
+ 
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH6/EX6.3.a/example6_3_a.sce #
+ 
+ 
+[2J[0;0H 
+	 Example 6_3_a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+
+ from the graph we get critical moisture content as 0.6 kg moisture/kg dry solid 
+ 
+ 
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH6/EX6.4/example6_4.sce #
+ 
+ 
+[2J[0;0H 
+	 Example 6.4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ total time for drying the material from 25 to 8 percent moisture under same drying conditions is :18.767213 hr 
+ 
+ 
+grepthis#Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH6/EX6.5.a/example6_5_a.sce #
+ 
+ 
+[2J[0;0H 
+	 Example 6_5_a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ w  =
+ 
+    5.314    5.238    5.162    5.124    5.048    4.972    4.895    4.819    4.743    4.667    4.524    4.468    4.426    4.34    4.12  
+ 
+ t  =
+ 
+    0.    0.4    0.8    1.    1.4    1.8    2.2    2.6    3.    3.4    4.2    4.6    5.    6.  
+ 
+ 
+ 
+
+ moisture content (dry basis)  
+ 
+
+     :0.289806
+     :0.271359
+     :0.252913
+     :0.243689
+     :0.225243
+     :0.206796
+     :0.188107
+     :0.169660
+     :0.151214
+     :0.132767
+     :0.098058
+     :0.084466
+     :0.074272
+     :0.053398
+     :0.000000 
+
+   
+  Drying rate kg/hr*m^2 
+ 
+
+      :0.190000  
+      :0.190000  
+      :0.190000  
+      :0.190000  
+      :0.190000  
+      :0.192500  
+      :0.190000  
+      :0.190000  
+      :0.190000  
+      :0.178750  
+      :0.140000  
+      :0.105000  
+      :0.086000   
+ 
+ 
+
+
+ from the above data it is clear that  critical moisture content Xcr=0.11 
+ 
+ 
+ 
+ 
+ 
+ 

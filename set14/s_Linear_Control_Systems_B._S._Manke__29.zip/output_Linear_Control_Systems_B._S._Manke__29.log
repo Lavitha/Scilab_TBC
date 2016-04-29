@@ -1,0 +1,2430 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 214
+
+grepthis#Linear_Control_Systems_B._S._Manke__29/DEPENDENCIES/parallel.sce #
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/DEPENDENCIES/series.sce #
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH6/EX6.10.5/exa6_10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+        20       
+    ----------   
+              2  
+    5 + 6s + s   
+ 
+ 
+ a  =
+ 
+        20        
+    ----------    
+               2  
+    25 + 6s + s   
+ 
+ b  =
+ 
+               2  
+    25 + 6s + s   
+ 
+ c  =
+ 
+    25.    6.    1.  
+ 
+ 
+ Wn  =
+ 
+    5.  
+ 
+ 
+ natural frequency,Wn=   
+ 
+    5.  
+ 
+ 
+ zeta  =
+ 
+    0.6  
+ 
+ 
+ damping ratio,zeta=   
+ 
+    0.6  
+ 
+ Wd  =
+ 
+    4.  
+ 
+ 
+ damping ratio,Wd=   
+ 
+    4.  
+ 
+ Tp  =
+ 
+    0.7853982  
+ 
+ 
+ peak time,Tp=   
+ 
+    0.7853982  
+ 
+ Mp  =
+ 
+    9.4780225  
+ 
+ 
+ max overshoot,Mp=   
+ 
+    9.4780225  
+ 
+ t  =
+ 
+    1.5707963  
+ 
+ 
+ time at which first overshoot occurs=   
+ 
+    1.5707963  
+ 
+ 
+ period of oscillation,t=   
+ 
+    1.5707963  
+ 
+ ts  =
+ 
+    1.3333333  
+ 
+ 
+ settling time,ts=   
+ 
+    1.3333333  
+ 
+ N  =
+ 
+    0.8488264  
+ 
+ 
+ no. of oscillations completed before reaching steady state,N=   
+ 
+    0.8488264  
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.1/exa7_5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    1.5    3.5    4.5    1.  
+ 
+ n  =
+ 
+    4.  
+ 
+ B  =
+ 
+    1.           3.5  
+    4.5          1.5  
+    3.1666667    0.   
+    1.5          0.   
+ 
+ 
+ routh table:   
+ 
+    1.           3.5  
+    4.5          1.5  
+    3.1666667    0.   
+    1.5          0.   
+ 
+ 
+ 
+ ans  =
+ 
+ system is stable   
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.2/exa7_5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    2000000.    50000.    400.    1.  
+ 
+ n  =
+ 
+    4.  
+ 
+ B  =
+ 
+    1.          50000.    
+    400.        2000000.  
+    45000.      0.        
+    2000000.    0.        
+ 
+ 
+ routh table:   
+ 
+    1.          50000.    
+    400.        2000000.  
+    45000.      0.        
+    2000000.    0.        
+ 
+ 
+ 
+ ans  =
+ 
+ system is stable   
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH7/EX7.5.3/exa7_5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+                2    3    4   5  
+    10 + 5s + 4s + 4s + 6s + s   
+    --------------------------   
+              5 + 2s             
+ 
+ 
+ characteristics eq is:   
+ 
+                2    3    4   5  
+    10 + 5s + 4s + 4s + 6s + s   
+ 
+ =0   
+ 
+ b  =
+ 
+    10.    5.    4.    4.    6.    1.  
+ 
+ n  =
+ 
+    6.  
+ 
+ B  =
+ 
+    1.           4.           5.   
+    6.           4.           10.  
+    3.3333333    3.3333333    0.   
+  - 2.           10.          0.   
+    20.          0.           0.   
+    10.          0.           0.   
+ 
+ 
+ routh table:   
+ 
+    1.           4.           5.   
+    6.           4.           10.  
+    3.3333333    3.3333333    0.   
+  - 2.           10.          0.   
+    20.          0.           0.   
+    10.          0.           0.   
+ 
+ 
+ 
+ 
+system is unstable
+ 
+no. of roots with positive real parts=2 
+ 
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.8.1/exa9_8_1.sce #
+ 
+ 
+ 
+ A  =
+ 
+    1.    1.  
+    0.  - 1.  
+ 
+ B  =
+ 
+    1.  
+    0.  
+ 
+ 
+ 
+ Controllability Matrix=   
+ 
+    1.    1.  
+    0.    0.  
+ 
+ d  =
+ 
+    0.  
+ 
+matrix is singular, so system is uncontrollable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.8.2/exa9_8_2.sce #
+ 
+ 
+ 
+ A  =
+ 
+  - 2.    0.  
+    0.  - 1.  
+ 
+ B  =
+ 
+    1.  
+    1.  
+ 
+ 
+ 
+ Controllability Matrix=   
+ 
+    1.  - 2.  
+    1.  - 1.  
+ 
+ d  =
+ 
+    1.  
+ 
+system is controllable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.9.1.a/exa9_9_1_a.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.    1.  
+  - 2.  - 3.  
+ 
+ B  =
+ 
+    0.  
+    1.  
+ 
+ C  =
+ 
+    1.    1.  
+ 
+ 
+ 
+ Observability Matrix=   
+ 
+    1.    1.  
+  - 2.  - 2.  
+ 
+ d  =
+ 
+    0.  
+ 
+matrix is singular, so system is unobservable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.9.1.b/exa9_9_1_b.sce #
+ 
+ 
+ 
+ A  =
+ 
+  - 2.    1.  
+    0.    1.  
+ 
+ B  =
+ 
+    1.  
+    1.  
+ 
+ C  =
+ 
+    1.    1.  
+ 
+ 
+ 
+ Observability Matrix=   
+ 
+    1.    1.  
+  - 2.    2.  
+ 
+ d  =
+ 
+    4.  
+ 
+system is observable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.10/exa9_10_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+                 2      
+       8 + 6s + s       
+    ----------------    
+                 2   3  
+    15 + 11s + 5s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 0.4705882    0.9866102  - 3.608D-16  
+  - 4.9047744  - 1.6673811    0.2381710  
+    3.174063     3.1182815  - 2.8620307  
+ 
+       SS(3) = B matrix = 
+ 
+  - 1.8786729  
+  - 2.800249   
+    1.9050442  
+ 
+       SS(4) = C matrix = 
+ 
+  - 0.5322906  - 2.776D-17  - 2.776D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+  - 0.0606339  - 0.3638034  - 0.4850713  
+  - 0.0903776    0.0108453    0.6904852  
+    0.0614850  - 0.3428257    0.5365967  
+ Bc  =
+ 
+    30.983867  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 5.  - 11.  - 15.  
+    1.    0.     0.   
+    0.    1.     0.   
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+  - 0.4705882    0.9866102  - 3.608D-16  
+  - 4.9047744  - 1.6673811    0.2381710  
+    3.174063     3.1182815  - 2.8620307  
+ 
+        (3) = B matrix = 
+ 
+  - 1.8786729  
+  - 2.800249   
+    1.9050442  
+ 
+        (4) = C matrix = 
+ 
+  - 0.5322906  - 2.776D-17  - 2.776D-17  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    3.  
+ 
+ U   
+ 
+  - 0.0606339  - 0.3638034  - 0.4850713  
+  - 0.0903776    0.0108453    0.6904852  
+    0.0614850  - 0.3428257    0.5365967  
+ 
+ Bc   
+ 
+    30.983867  
+    0.         
+    0.         
+ 
+ Ac   
+ 
+  - 5.  - 11.  - 15.  
+    1.    0.     0.   
+    0.    1.     0.   
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.16/exa9_10_16.sce #
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+    1.  - 2.  
+    4.  - 5.  
+ 
+ B  =
+ 
+    2.  
+    1.  
+ 
+ C  =
+ 
+    1.    1.  
+ 
+ 
+ 
+ r  =
+ 
+      5 + s          - 2        
+    ---------      ---------    
+              2              2  
+    3 + 4s + s     3 + 4s + s   
+                                
+        4          - 1 + s      
+    ---------      ---------    
+              2              2  
+    3 + 4s + s     3 + 4s + s   
+ 
+ G  =
+ 
+     15 + 3s     
+    ---------    
+              2  
+    3 + 4s + s   
+ 
+ 
+ transfer matrix=   
+ 
+     15 + 3s     
+    ---------    
+              2  
+    3 + 4s + s   
+ 
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.17/exa9_10_17.sce #
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+  - 3.    1.  
+    0.  - 1.  
+ 
+ B  =
+ 
+    1.  
+    1.  
+ 
+ C  =
+ 
+    1.    1.  
+ 
+ 
+ 
+ 
+ r  =
+ 
+      1           1        
+    -----     ---------    
+                        2  
+    3 + s     3 + 4s + s   
+                           
+    0           1          
+    -         -----        
+    1         1 + s        
+ 
+ G  =
+ 
+      5 + 2s     
+    ----------   
+              2  
+    3 + 4s + s   
+ 
+ 
+ transfer matrix=   
+ 
+      5 + 2s     
+    ----------   
+              2  
+    3 + 4s + s   
+ 
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.18/exa9_10_18.sce #
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+    0.    3.  
+  - 2.  - 5.  
+ 
+ B  =
+ 
+    1.    1.  
+    1.    1.  
+ 
+ C  =
+ 
+    2.    1.  
+    1.    0.  
+ 
+ 
+ 
+ 
+ r  =
+ 
+      5 + s            3        
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+                                
+      - 2              s        
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+ 
+ G  =
+ 
+     14 + 3s        14 + 3s     
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+                                
+      8 + s          8 + s      
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+ 
+ 
+ transfer matrix=   
+ 
+     14 + 3s        14 + 3s     
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+                                
+      8 + s          8 + s      
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+ 
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.20/exa9_10_20.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.    1.    0.  
+    0.    0.    1.  
+    0.  - 2.  - 3.  
+ 
+ B  =
+ 
+    0.    1.  
+    0.    0.  
+    1.    1.  
+ 
+ 
+ 
+ Controllability Matrix=   
+ 
+    0.    1.    0.    0.    1.    1.  
+    0.    0.    1.    1.  - 3.  - 3.  
+    1.    1.  - 3.  - 3.    7.    7.  
+ 
+ 
+ 
+system is controllable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.21/exa9_10_21.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.    1.     0.  
+    0.    0.     1.  
+  - 6.  - 11.  - 6.  
+ 
+ B  =
+ 
+    1.  
+    0.  
+    1.  
+ 
+ C  =
+ 
+    10.    5.    1.  
+ 
+ 
+ 
+ Controllability Matrix=   
+ 
+    1.    0.     1.   
+    0.    1.   - 12.  
+    1.  - 12.    61.  
+ 
+ d  =
+ 
+  - 84.  
+ 
+system is controllable 
+ 
+ 
+ Observability Matrix=   
+ 
+    10.    5.    1.  
+  - 6.   - 1.  - 1.  
+    6.     5.    5.  
+ 
+ d1  =
+ 
+    96.  
+ 
+system is observable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.22/exa9_10_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y(s)/U(s)=   
+ 
+        30 + 10s        
+    ----------------    
+                 2   3  
+    16 + 20s + 8s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+    0.9230769    2.6153846  - 2.220D-16  
+  - 4.0904977  - 5.8919351    0.0499038  
+    1.8272477    6.4289561  - 3.0311419  
+ 
+       SS(3) = B matrix = 
+ 
+    0.         
+  - 5.3655314  
+    3.348294   
+ 
+       SS(4) = C matrix = 
+ 
+  - 0.7126096  - 2.776D-17  - 5.551D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.         - 0.2773501  - 0.8320503  
+  - 0.1060456  - 0.2202486    0.2936648  
+    0.0661765  - 0.3529412    0.4705882  
+ Bc  =
+ 
+    50.596443  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 8.  - 20.  - 16.  
+    1.    0.     0.   
+    0.    1.     0.   
+ 
+ A  =
+ 
+    0.9230769    2.6153846  - 2.220D-16  
+  - 4.0904977  - 5.8919351    0.0499038  
+    1.8272477    6.4289561  - 3.0311419  
+ 
+ B  =
+ 
+    0.         
+  - 5.3655314  
+    3.348294   
+ 
+ C  =
+ 
+  - 0.7126096  - 2.776D-17  - 5.551D-17  
+ 
+ 
+ P  =
+ 
+    0.  - 14.    70.   
+  - 5.    32.  - 132.  
+    3.  - 45.    314.  
+ 
+ 
+ Controllability Matrix=   
+ 
+    0.  - 14.    70.   
+  - 5.    32.  - 132.  
+    3.  - 45.    314.  
+ 
+ d  =
+ 
+  - 7406.  
+ 
+system is controllable 
+ 
+ 
+ 
+ Observability Matrix=   
+ 
+  - 1.    0.    0.  
+  - 1.  - 2.    0.  
+    7.    9.    0.  
+ 
+ d1  =
+ 
+    0.  
+ 
+matrix is singular, so system is unobservable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.4.a/exa9_10_4_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+        1        
+    ---------    
+              2  
+    3 + 4s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+    0.     2.  
+  - 1.5  - 4.  
+ 
+       SS(3) = B matrix = 
+ 
+    0.  
+    1.  
+ 
+       SS(4) = C matrix = 
+ 
+    0.5    0.  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.   - 1.  
+  - 0.5    0.  
+ Bc  =
+ 
+  - 2.  
+    0.  
+ Ac  =
+ 
+  - 4.  - 3.  
+    1.    0.  
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+    0.     2.  
+  - 1.5  - 4.  
+ 
+        (3) = B matrix = 
+ 
+    0.  
+    1.  
+ 
+        (4) = C matrix = 
+ 
+    0.5    0.  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    2.  
+ 
+ U   
+ 
+    0.   - 1.  
+  - 0.5    0.  
+ 
+ Bc   
+ 
+  - 2.  
+    0.  
+ 
+ Ac   
+ 
+  - 4.  - 3.  
+    1.    0.  
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.4.b/exa9_10_4_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+    1 + 2s   
+    ------   
+         2   
+    2 + s    
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 0.4  - 1.8  
+    1.2    0.4  
+ 
+       SS(3) = B matrix = 
+ 
+  - 1.5491933  
+    0.7745967  
+ 
+       SS(4) = C matrix = 
+ 
+  - 1.2909944  - 1.110D-16  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.8944272    0.4472136  
+  - 0.4472136    0.8944272  
+ Bc  =
+ 
+  - 1.7320508  
+    0.         
+ Ac  =
+ 
+    5.551D-17  - 2.  
+    1.           0.  
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+  - 0.4  - 1.8  
+    1.2    0.4  
+ 
+        (3) = B matrix = 
+ 
+  - 1.5491933  
+    0.7745967  
+ 
+        (4) = C matrix = 
+ 
+  - 1.2909944  - 1.110D-16  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    2.  
+ 
+ U   
+ 
+    0.8944272    0.4472136  
+  - 0.4472136    0.8944272  
+ 
+ Bc   
+ 
+  - 1.7320508  
+    0.         
+ 
+ Ac   
+ 
+    5.551D-17  - 2.  
+    1.           0.  
+ 
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.5/exa9_10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+      3 + s      
+    ---------    
+              2  
+    4 + 3s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 0.9230769  - 0.6153846  
+    3.3846154  - 2.0769231  
+ 
+       SS(3) = B matrix = 
+ 
+  - 1.1094004  
+    1.6641006  
+ 
+       SS(4) = C matrix = 
+ 
+  - 0.9013878    5.551D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.2773501    0.8320503  
+  - 0.4160251    0.5547002  
+ Bc  =
+ 
+  - 4.  
+    0.  
+ Ac  =
+ 
+  - 3.  - 4.  
+    1.    0.  
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+  - 0.9230769  - 0.6153846  
+    3.3846154  - 2.0769231  
+ 
+        (3) = B matrix = 
+ 
+  - 1.1094004  
+    1.6641006  
+ 
+        (4) = C matrix = 
+ 
+  - 0.9013878    5.551D-17  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    2.  
+ 
+ U   
+ 
+    0.2773501    0.8320503  
+  - 0.4160251    0.5547002  
+ 
+ Bc   
+ 
+  - 4.  
+    0.  
+ 
+ Ac   
+ 
+  - 3.  - 4.  
+    1.    0.  
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.6/exa9_10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+       1 + s      
+    -----------   
+               2  
+    12 + 7s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 6.3529412  - 1.4117647  
+    5.5882353  - 0.6470588  
+ 
+       SS(3) = B matrix = 
+ 
+  - 1.3719887  
+    0.3429972  
+ 
+       SS(4) = C matrix = 
+ 
+  - 0.7288690    2.776D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.2425356    0.2425356  
+  - 0.0606339    0.9701425  
+ Bc  =
+ 
+  - 5.6568542  
+    0.         
+ Ac  =
+ 
+  - 7.  - 12.  
+    1.    0.   
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+  - 6.3529412  - 1.4117647  
+    5.5882353  - 0.6470588  
+ 
+        (3) = B matrix = 
+ 
+  - 1.3719887  
+    0.3429972  
+ 
+        (4) = C matrix = 
+ 
+  - 0.7288690    2.776D-17  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    2.  
+ 
+ U   
+ 
+    0.2425356    0.2425356  
+  - 0.0606339    0.9701425  
+ 
+ Bc   
+ 
+  - 5.6568542  
+    0.         
+ 
+ Ac   
+ 
+  - 7.  - 12.  
+    1.    0.   
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.7/exa9_10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+      3 + s      
+    ---------    
+              2  
+    2 + 3s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 0.6  - 0.2  
+    2.8  - 2.4  
+ 
+       SS(3) = B matrix = 
+ 
+  - 0.6324555  
+    1.8973666  
+ 
+       SS(4) = C matrix = 
+ 
+  - 1.5811388    0.  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.3162278    0.9486833  
+  - 0.9486833    0.3162278  
+ Bc  =
+ 
+  - 2.  
+    0.  
+ Ac  =
+ 
+  - 3.  - 2.  
+    1.    0.  
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+  - 0.6  - 0.2  
+    2.8  - 2.4  
+ 
+        (3) = B matrix = 
+ 
+  - 0.6324555  
+    1.8973666  
+ 
+        (4) = C matrix = 
+ 
+  - 1.5811388    0.  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    2.  
+ 
+ U   
+ 
+    0.3162278    0.9486833  
+  - 0.9486833    0.3162278  
+ 
+ Bc   
+ 
+  - 2.  
+    0.  
+ 
+ Ac   
+ 
+  - 3.  - 2.  
+    1.    0.  
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH9/EX9.10.9/exa9_10_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+        30 + 10s        
+    ----------------    
+                 2   3  
+    16 + 20s + 8s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+    0.9230769    2.6153846  - 2.220D-16  
+  - 4.0904977  - 5.8919351    0.0499038  
+    1.8272477    6.4289561  - 3.0311419  
+ 
+       SS(3) = B matrix = 
+ 
+    0.         
+  - 5.3655314  
+    3.348294   
+ 
+       SS(4) = C matrix = 
+ 
+  - 0.7126096  - 2.776D-17  - 5.551D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.         - 0.2773501  - 0.8320503  
+  - 0.1060456  - 0.2202486    0.2936648  
+    0.0661765  - 0.3529412    0.4705882  
+ Bc  =
+ 
+    50.596443  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 8.  - 20.  - 16.  
+    1.    0.     0.   
+    0.    1.     0.   
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+    0.9230769    2.6153846  - 2.220D-16  
+  - 4.0904977  - 5.8919351    0.0499038  
+    1.8272477    6.4289561  - 3.0311419  
+ 
+        (3) = B matrix = 
+ 
+    0.         
+  - 5.3655314  
+    3.348294   
+ 
+        (4) = C matrix = 
+ 
+  - 0.7126096  - 2.776D-17  - 5.551D-17  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    3.  
+ 
+ U   
+ 
+    0.         - 0.2773501  - 0.8320503  
+  - 0.1060456  - 0.2202486    0.2936648  
+    0.0661765  - 0.3529412    0.4705882  
+ 
+ Bc   
+ 
+    50.596443  
+    0.         
+    0.         
+ 
+ Ac   
+ 
+  - 8.  - 20.  - 16.  
+    1.    0.     0.   
+    0.    1.     0.   
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH11/EX11.10.a/exa11_10_a.sce #
+ 
+ 
+ 
+ 
+ G  =
+ 
+       16      
+    --------   
+            2  
+    1.6s + s   
+ 
+ 
+ CL  =
+ 
+         16         
+    ------------    
+                 2  
+    16 + 1.6s + s   
+ 
+ 
+ C(s)/R(s)=   
+ 
+         16         
+    ------------    
+                 2  
+    16 + 1.6s + s   
+ 
+ b  =
+ 
+                 2  
+    16 + 1.6s + s   
+ 
+ c  =
+ 
+    16.    1.6    1.  
+ 
+ 
+ Wn  =
+ 
+    4.  
+ 
+ 
+ zeta  =
+ 
+    0.2  
+ 
+ Wd  =
+ 
+    3.9191836  
+ 
+ Mp  =
+ 
+    52.66206  
+ 
+ tr  =
+ 
+    0.4521743  
+ 
+ Tp  =
+ 
+    0.8015936  
+ 
+ 
+ peak time=   
+ 
+    0.8015936  
+ 
+ 
+ max. peak overshoot=   
+ 
+    52.66206  
+ 
+ 
+ rise time=   
+ 
+    0.4521743  
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH11/EX11.33/exa11_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+      2 + s      
+    ---------    
+              2  
+    3 + 4s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 1.75    0.25  
+    3.75  - 2.25  
+ 
+       SS(3) = B matrix = 
+ 
+  - 1.2247449  
+    1.2247449  
+ 
+       SS(4) = C matrix = 
+ 
+  - 0.8164966    5.551D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.3535534    0.7071068  
+  - 0.3535534    0.7071068  
+ Bc  =
+ 
+  - 3.4641016  
+    0.         
+ Ac  =
+ 
+  - 4.  - 3.  
+    1.    0.  
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+  - 1.75    0.25  
+    3.75  - 2.25  
+ 
+        (3) = B matrix = 
+ 
+  - 1.2247449  
+    1.2247449  
+ 
+        (4) = C matrix = 
+ 
+  - 0.8164966    5.551D-17  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    2.  
+ 
+ U   
+ 
+    0.3535534    0.7071068  
+  - 0.3535534    0.7071068  
+ 
+ Bc   
+ 
+  - 3.4641016  
+    0.         
+ 
+ Ac   
+ 
+  - 4.  - 3.  
+    1.    0.  
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH11/EX11.34/exa11_34.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+                 2      
+        2 + s + s       
+    -----------------   
+                 2   3  
+    24 + 26s + 9s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 8.3030303  - 2.0073327  - 1.221D-15  
+    9.0430615  - 0.3915914  - 0.8294369  
+  - 0.8092503    2.340169   - 0.3053783  
+ 
+       SS(3) = B matrix = 
+ 
+  - 0.9847319  
+    0.1486568  
+    0.0905770  
+ 
+       SS(4) = C matrix = 
+ 
+  - 1.0155048  - 5.551D-17  - 3.608D-16  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.0615457    0.0615457    0.1230915  
+  - 0.0092910    0.4812763    0.2267016  
+  - 0.0056611  - 0.1207693    0.9661547  
+ Bc  =
+ 
+  - 16.  
+    0.   
+    0.   
+ Ac  =
+ 
+  - 9.  - 26.  - 24.  
+    1.    0.     0.   
+    0.    1.     0.   
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+  - 8.3030303  - 2.0073327  - 1.221D-15  
+    9.0430615  - 0.3915914  - 0.8294369  
+  - 0.8092503    2.340169   - 0.3053783  
+ 
+        (3) = B matrix = 
+ 
+  - 0.9847319  
+    0.1486568  
+    0.0905770  
+ 
+        (4) = C matrix = 
+ 
+  - 1.0155048  - 5.551D-17  - 3.608D-16  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    3.  
+ 
+ U   
+ 
+    0.0615457    0.0615457    0.1230915  
+  - 0.0092910    0.4812763    0.2267016  
+  - 0.0056611  - 0.1207693    0.9661547  
+ 
+ Bc   
+ 
+  - 16.  
+    0.   
+    0.   
+ 
+ Ac   
+ 
+  - 9.  - 26.  - 24.  
+    1.    0.     0.   
+    0.    1.     0.   
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH11/EX11.35/exa11_35.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+        1        
+    ---------    
+              2  
+    5 + 2s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+    0.     2.  
+  - 2.5  - 2.  
+ 
+       SS(3) = B matrix = 
+ 
+    0.  
+    1.  
+ 
+       SS(4) = C matrix = 
+ 
+    0.5    0.  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    2.  
+ U  =
+ 
+    0.   - 1.  
+  - 0.5    0.  
+ Bc  =
+ 
+  - 2.  
+    0.  
+ Ac  =
+ 
+  - 2.  - 5.  
+    1.    0.  
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+    0.     2.  
+  - 2.5  - 2.  
+ 
+        (3) = B matrix = 
+ 
+    0.  
+    1.  
+ 
+        (4) = C matrix = 
+ 
+    0.5    0.  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    2.  
+ 
+ U   
+ 
+    0.   - 1.  
+  - 0.5    0.  
+ 
+ Bc   
+ 
+  - 2.  
+    0.  
+ 
+ Ac   
+ 
+  - 2.  - 5.  
+    1.    0.  
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH11/EX11.37/exa11_37.sce #
+ 
+ 
+ 
+ A  =
+ 
+    1.    1.  
+    0.  - 1.  
+ 
+ B  =
+ 
+    1.  
+    0.  
+ 
+ 
+ 
+ Controllability Matrix=   
+ 
+    1.    1.  
+    0.    0.  
+ 
+ d  =
+ 
+    0.  
+ 
+matrix is singular, so system is uncontrollable 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH11/EX11.38/exa11_38.sce #
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+  - 5.    1.  
+  - 6.    0.  
+ 
+ B  =
+ 
+    1.  
+    2.  
+ 
+ C  =
+ 
+    2.    1.  
+ 
+ 
+ 
+ 
+ r  =
+ 
+        s              1        
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+                                
+      - 6            5 + s      
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+ 
+ G  =
+ 
+      4     
+    -----   
+    3 + s   
+ 
+ 
+ transfer matrix=   
+ 
+      4     
+    -----   
+    3 + s   
+ 
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH11/EX11.39/exa11_39.sce #
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+    0.    1.  
+  - 6.  - 5.  
+ 
+ B  =
+ 
+    0.  
+    1.  
+ 
+ C  =
+ 
+    2.    1.  
+ 
+ 
+ 
+ 
+ r  =
+ 
+      5 + s            1        
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+                                
+      - 6              s        
+    ---------      ---------    
+              2              2  
+    6 + 5s + s     6 + 5s + s   
+ 
+ G  =
+ 
+      1     
+    -----   
+    3 + s   
+ 
+ 
+ transfer matrix=   
+ 
+      1     
+    -----   
+    3 + s   
+ 
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH12/EX12.54/exa12_54.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+      10 + 5s     
+    -----------   
+           2   3  
+    5s + 6s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+    0.1176471    0.6758309    0.         
+  - 0.4556739  - 3.3903743    0.7496556  
+    0.4010903    5.1152968  - 2.7272727  
+ 
+       SS(3) = B matrix = 
+ 
+    0.         
+  - 2.7797972  
+    2.6967994  
+ 
+       SS(4) = C matrix = 
+ 
+  - 2.6614532    0.    5.551D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.         - 0.4850713  - 0.9701425  
+  - 0.7177406  - 1.3510411    0.1688801  
+    0.6963106  - 1.3926212    0.1740777  
+ Bc  =
+ 
+    3.8729833  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 6.  - 5.    1.172D-15  
+    1.    0.    0.         
+    0.    1.    0.         
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+    0.1176471    0.6758309    0.         
+  - 0.4556739  - 3.3903743    0.7496556  
+    0.4010903    5.1152968  - 2.7272727  
+ 
+        (3) = B matrix = 
+ 
+    0.         
+  - 2.7797972  
+    2.6967994  
+ 
+        (4) = C matrix = 
+ 
+  - 2.6614532    0.    5.551D-17  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    3.  
+ 
+ U   
+ 
+    0.         - 0.4850713  - 0.9701425  
+  - 0.7177406  - 1.3510411    0.1688801  
+    0.6963106  - 1.3926212    0.1740777  
+ 
+ Bc   
+ 
+    3.8729833  
+    0.         
+    0.         
+ 
+ Ac   
+ 
+  - 6.  - 5.    1.172D-15  
+    1.    0.    0.         
+    0.    1.    0.         
+ 
+grepthis#Linear_Control_Systems_B._S._Manke__29/CH12/EX12.55/exa12_55.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C(s)/R(s)=   
+ 
+          50         
+    --------------   
+              2   3  
+    50s + 0.5s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+    0.    0.125    0.   
+    0.    0.       8.   
+    0.  - 6.25   - 0.5  
+ 
+       SS(3) = B matrix = 
+ 
+    0.         
+    0.         
+    7.0710678  
+ 
+       SS(4) = C matrix = 
+ 
+    7.0710678    0.    0.  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.    0.  - 1.  
+    0.  - 8.    0.  
+  - 1.    0.    0.  
+ Bc  =
+ 
+  - 7.0710678  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 0.5  - 50.    0.  
+    1.     0.     0.  
+    0.     1.     0.  
+ 
+ 
+ state space matrix=   
+ 
+ 
+        (1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+        (2) = A matrix = 
+ 
+    0.    0.125    0.   
+    0.    0.       8.   
+    0.  - 6.25   - 0.5  
+ 
+        (3) = B matrix = 
+ 
+    0.         
+    0.         
+    7.0710678  
+ 
+        (4) = C matrix = 
+ 
+    7.0710678    0.    0.  
+ 
+        (5) = D matrix = 
+ 
+    0.  
+ 
+        (6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+        (7) = Time domain = 
+ 
+ c   
+ 
+ 
+ ind   
+ 
+    3.  
+ 
+ U   
+ 
+    0.    0.  - 1.  
+    0.  - 8.    0.  
+  - 1.    0.    0.  
+ 
+ Bc   
+ 
+  - 7.0710678  
+    0.         
+    0.         
+ 
+ Ac   
+ 
+  - 0.5  - 50.    0.  
+    1.     0.     0.  
+    0.     1.     0.  
+ 

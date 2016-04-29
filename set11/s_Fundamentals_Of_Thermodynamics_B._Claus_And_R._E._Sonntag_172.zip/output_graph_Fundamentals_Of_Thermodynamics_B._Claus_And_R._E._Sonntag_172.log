@@ -1,0 +1,419 @@
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH10/EX10.3/ex3.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ u1  =
+ 
+    1243.5  
+ 
+ s1  =
+ 
+    4.4819  
+ 
+ v1  =
+ 
+    28.895  
+ 
+ v2  =
+ 
+    57.79  
+ 
+ u2  =
+ 
+    1243.5  
+ 
+ 
+ T2  =
+ 
+    282.3  
+ 
+ x2  =
+ 
+    0.513  
+ 
+ s2  =
+ 
+    4.644  
+ 
+ V1  =
+ 
+    1.  
+ 
+ m  =
+ 
+    0.0346081  
+ 
+ To  =
+ 
+    293.2  
+ 
+ Wrev  =
+ 
+    1.6448424  
+ 
+ I  =
+ 
+    1.6448424  
+ 
+
+ The irreversibility is I=1.645 kJ/kg.
+ 
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH3/EX3.3/ex3.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ v1  =
+ 
+    0.5  
+ 
+ vf  =
+ 
+    0.001073  
+ 
+ vfg  =
+ 
+    0.60475  
+ 
+ 
+ For water at a pressure of 300 kPa,the state at which v1 is 0.5 m^3/kg is seen to be in the liquid-vapor two-phase region,at whi 
+      ch T=133.6 C and the quality x is                                                                                           
+ 
+ x  =
+ 
+    0.8250136  
+ 
+ v2  =
+ 
+    1.  
+ 
+ 
+ By comparing with the values given in the table,this state is seen to be in the superheated vapor region.temperature will be cal 
+      culated using the method of interplotation.                                                                                 
+ 
+ T  =
+ 
+    379.83355  
+ 
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH5/EX5.4/ex4.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ T1  =
+ 
+    300.  
+ 
+ u1  =
+ 
+    2780.  
+ 
+ 
+ From steam table, at T=300 C,ug=2563.0 kJ/kg.So,u1>ug ,it means the state is in the superheated vapor region.So, by interplotati 
+      on,we find P=1648 kPa and v=0.1542 m^3/kg                                                                                   
+ 
+ P2  =
+ 
+    2000.  
+ 
+ u2  =
+ 
+    2000.  
+ 
+ 
+ at P=2000 kPa,   
+ 
+ uf  =
+ 
+    906.4  
+ 
+ ug  =
+ 
+    2600.3  
+ 
+ x2  =
+ 
+    0.6456107  
+ 
+ 
+ Also, under the given conditions   
+ 
+ vf  =
+ 
+    0.001177  
+ 
+ vg  =
+ 
+    0.099627  
+ 
+ v2  =
+ 
+    0.0647374  
+ 
+
+ hence,specific volume for water is v2 = 0.06474 m^3/kg. 
+ 
+
+ Therefore ,this state is in the two phase region with quality x2=0.6456 . 
+ 
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH3/EX3.5/ex5.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ v1  =
+ 
+    0.14922  
+ 
+ 
+ Since the volume does not change during the process,the specific volume remains constant.therefore,    
+ 
+ v2  =
+ 
+    0.14922  
+ 
+ 
+ Since vg at 40C is less than v2,it is evident that in the final state the Ammonia is superheated vapor.By interplotation,we find 
+       that                                                                                                                       
+ 
+ P2  =
+ 
+    945.  
+ 
+ 
+ hence,the final pressure is 945 kPa   
+ 
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH5/EX5.5/ex5.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ Vliq  =
+ 
+    0.05  
+ 
+ vf  =
+ 
+    0.001043  
+ 
+ Vvap  =
+ 
+    4.95  
+ 
+ vg  =
+ 
+    1.694  
+ 
+ m1liq  =
+ 
+    47.938639  
+ 
+ m1vap  =
+ 
+    2.9220779  
+ 
+ u1liq  =
+ 
+    417.36  
+ 
+ u1vap  =
+ 
+    2506.1  
+ 
+ U1  =
+ 
+    27330.69  
+ 
+ m  =
+ 
+    50.860716  
+ 
+ V  =
+ 
+    5.  
+ 
+ v2  =
+ 
+    0.0983077  
+ 
+ 
+ by interplotation we find that for steam, if vg=0.09831 m^3/kg then pressure is 2.03 MPa   
+ 
+ u2  =
+ 
+    2600.5  
+ 
+ U2  =
+ 
+    132263.29  
+ 
+ Q  =
+ 
+    104932.6  
+ 
+
+ hence,heat transfer for the process is Q = 104933 kJ. 
+ 
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH9/EX9.6/ex6.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ T1  =
+ 
+    290.  
+ 
+ sT1  =
+ 
+    6.83521  
+ 
+ R  =
+ 
+    0.287  
+ 
+ P1  =
+ 
+    100.  
+ 
+ P2  =
+ 
+    1000.  
+ 
+ sT2  =
+ 
+    7.4960519  
+ 
+ T2  =
+ 
+    555.7  
+ 
+ V1  =
+ 
+    0.04  
+ 
+ V2  =
+ 
+    0.04  
+ 
+ m1  =
+ 
+    0.0480596  
+ 
+ m2  =
+ 
+    0.2508059  
+ 
+ Min  =
+ 
+    0.2027463  
+ 
+ u1  =
+ 
+    207.19  
+ 
+ u2  =
+ 
+    401.49  
+ 
+ hin  =
+ 
+    290.43  
+ 
+ W12  =
+ 
+  - 31.854981  
+ 
+
+ hence,the total amount of work required to fill the tank is W12=-31.9 m/s.
+ 
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH3/EX3.7/ex7.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ vg  =
+ 
+    0.12736  
+ 
+ v  =
+ 
+    0.4  
+ 
+ P1  =
+ 
+    500.  
+ 
+ v1  =
+ 
+    0.42492  
+ 
+ P2  =
+ 
+    600.  
+ 
+ v2  =
+ 
+    0.35202  
+ 
+ P  =
+ 
+    534.18381  
+ 
+ 
+ hence,the pressure of water is 534.2 kPa   
+ 
+grepthis#Fundamentals_Of_Thermodynamics_B._Claus_And_R._E._Sonntag_172/CH6/EX6.12/ex12.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ V1  =
+ 
+    0.4  
+ 
+ v1  =
+ 
+    0.5243  
+ 
+ h1  =
+ 
+    3040.4  
+ 
+ u1  =
+ 
+    2548.9  
+ 
+ m1  =
+ 
+    0.7629220  
+ 
+ V2  =
+ 
+    0.4  
+ 
+ 
+ let x=V*(h1-u2)/v2-m1*(h1-u1).If we assume T2=300C, then v2=0.1823m^3/kg ,u2=2785.2kJ/kg and x=+ve.If we assume T2=350C,then v2= 
+      0.2003 m^3/kg, u2=2869.1kJ/kg and x=-ve.Hence,actualt T2 must be between these two assumed values in order that x=0.By inte 
+      rplotation,                                                                                                                 
+ 
+ T2  =
+ 
+    342.  
+ 
+ v2  =
+ 
+    0.1974  
+ 
+ m2  =
+ 
+    2.0263425  
+ 
+ m  =
+ 
+    1.2634205  
+ 
+ 
+ Hence,mass of the steam that flows into the tank is m=1.263 kg. 
+ 

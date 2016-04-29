@@ -1,0 +1,1505 @@
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R_new  =
+ 
+    127323.95  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 2.4 : SOLUTION :-   
+ 
+
+ (a) Flux density in the core(Presence of the Air gap) , B = 0.00623394 Wb/Meter-Square 
+  
+
+ (b) Output of the Hall effect Sensor device , HEV = 0.3116969 mV 
+ 
+
+ (c) Ratio of the Flux Density in Absence of the Air gap and in the presence of the Air gap , Ratio = 125.99 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 2.5 : SOLUTION :-   
+ 
+
+ (a) Number of turns in the Coil in air gap made of Silicon Steel having an field intensity 200At/m corresounds to 1.0 T Flux Density , N = 85.08 appoximately 85 
+  
+
+ (b) Number of turns in the Coil for a ferrite core of having Relative premeability of 20000 and magnetic Field Density corresponnds to 1.0 T , N_new = 81.57 appoximately 82  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.15: SOLUTION :-   
+ 
+
+ (a) All day efficiency = 95.03 percent 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.21/Ex3_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.21 : SOLUTION :-   
+ 
+
+ (a.1) Current of Auto-Transformer in HV side for case (b) , IH = 13.6 A 
+  
+
+       Current of Auto-Transformer in LV side for case (b), IL=  20.4 A 
+ 
+
+ (a.2) LV side kVA rating of the Auto-Transformer for case (b), KVAL =  4.488 kVA 
+  
+
+       HV side kVA rating of the Auto-Transformer for case (b), KVAH=  4.488 kVA 
+ 
+
+ (b.1) Current of Auto-Transformer in HV side for case (c) , IH = 6.8 A 
+  
+
+       Current of Auto-Transformer in LV side for case (c) , IL=  20.4 A 
+ 
+
+ (b.2) LV side kVA rating of the Auto-Transformer for case (c), KVAL =  2.244 kVA 
+  
+
+       HV side kVA rating of the Auto-Transformer for case (c) , KVAH=  2.244 kVA 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 6.4 : 
+
+          Given Data 
+ 
+
+ Voc(v)  215      284      320      380      400      422      452      472      488      508      520      532      540      552      560 
+ 
+
+ If(A)    6.5      8        9       10       11       12        14       15       16       17      18        19       20       22       24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ (a)  Per phase leakage reactance, Xl = 5.13 Ohms 
+ 
+
+ For Case (b.1) 0.8 pf Lagging 
+  Open circuit EMF, EMF = 525 V 
+ 
+
+ Percenatge Regulation, R = 31.25 Percenatge 
+ 
+
+ For Case (b.2) 0.8 pf Leading 
+  Open circuit EMF, EMF = 338 V 
+ 
+
+ Percenatge Regulation, R = -15.5 Percenatge 
+ 
+
+ For Case (b.3) Unity pf Lagging 
+  Open circuit EMF, EMF = 520 V 
+ 
+
+ Percenatge Regulation, R = 30 Percenatge 
+ 
+
+ For Case (b.4) ZPF Lagging 
+  Open circuit EMF, EMF = 570 V
+ 
+
+ Percenatge Regulation, R = 42.50 Percenatge 
+ 
+
+ For Case (b.5) ZPF Leading 
+  Open circuit EMF, EMF = 135 V 
+ 
+
+ Percenatge Regulation, R = -66.25 Percenatge 
+
+ 
+ 
+  Calculated Answer in Tabular Column   
+ 
+
+   Power Factor                 0.8 Lag      0.8 Lead        1.0       ZPF Lag      ZPF Lead 
+ 
+
+ Open circuit EMF (V)            525           338            520       570          135 
+ 
+
+ Percenatge Regulation           31.25         -15.5          30.       42.50        -66.25 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 6.4 ( Data is same as Exaple 6.4 ): 
+
+          Given Data 
+ 
+
+ Voc(v)  215      284      320      380      400      422      452      472      488      508      520      532      540      552      560 
+ 
+
+ If(A)    6.5      8        9       10       11       12        14       15       16       17      18        19       20       22       24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_c  =
+ 
+    244.44011  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_d  =
+ 
+    230.94011 - 13.5i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_e  =
+ 
+    230.94011 + 13.5i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ For Case (a) 0.8 pf Lagging 
+  Open circuit EMF, EMF = 538 V 
+ 
+
+ Percenatge Regulation, R = 34.50 Percenatge 
+ 
+
+ For Case (b) 0.8 pf Leading 
+  Open circuit EMF, EMF = 382 V 
+ 
+
+ Percenatge Regulation, R = -4.50 Percenatge 
+ 
+
+ For Case (c) Unity pf Lagging 
+  Open circuit EMF, EMF = 480 V 
+ 
+
+ Percenatge Regulation, R = 20 Percenatge 
+ 
+
+ For Case (d) ZPF Lagging 
+  Open circuit EMF, EMF = 545 V
+ 
+
+ Percenatge Regulation, R = 36.25 Percenatge 
+ 
+
+ For Case (e) ZPF Leading 
+  Open circuit EMF, EMF = 63 V 
+ 
+
+ Percenatge Regulation, R = -84.25 Percenatge 
+
+ 
+ 
+  Calculated Answer in Tabular Column   
+ 
+
+   Power Factor                 0.8 Lag      0.8 Lead        1.0       ZPF Lag      ZPF Lead 
+ 
+
+ Open circuit EMF (V)            538           382          480         545          63 
+ 
+
+ Percenatge Regulation           34.50         -4.50          20       36.25        -84.25 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 6.7 ( Data as same as Example 6.4 ) : 
+
+          Given Data 
+ 
+
+ Voc(v)  215      284      320      380      400      422      452      472      488      508      520      532      540      552      560 
+ 
+
+ If(A)    6.5      8        9       10       11       12        14       15       16       17      18        19       20       22       24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+  Per phase leakage reactance, Xl = 5.13 Ohms 
+ 
+
+ For Case (a) 0.8 pf Lagging 
+  Open circuit EMF, EMF = 560 V 
+ 
+
+ Percenatge Regulation, R = 40 Percenatge 
+ 
+
+ For Case (b) 0.8 pf Leading 
+  Open circuit EMF, EMF = 380 V 
+ 
+
+ Percenatge Regulation, R = -5 Percenatge 
+ 
+
+ For Case (c) Unity pf Lagging 
+  Open circuit EMF, EMF = 510 V 
+ 
+
+ Percenatge Regulation, R = 28 Percenatge 
+ 
+
+ For Case (d) ZPF Lagging 
+  Open circuit EMF, EMF = 600 V
+ 
+
+ Percenatge Regulation, R = 50 Percenatge 
+ 
+
+ For Case (e) ZPF Leading 
+  Open circuit EMF, EMF = 5 V 
+ 
+
+ Percenatge Regulation, R = -98.75 Percenatge 
+
+ 
+ 
+  Calculated Answer in Tabular Column   
+ 
+
+   Power Factor                 0.8 Lag      0.8 Lead        1.0       ZPF Lag      ZPF Lead 
+ 
+
+ Open circuit EMF (V)            560           380            510       600          5 
+ 
+
+ Percenatge Regulation           40             -5          27.5        50        -98.75 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 6.9 : 
+
+          Given Data 
+ 
+
+ Voc(kV)   10     10.80     11.50     12.10       12.60       13       14       14.50     14.80 
+ 
+
+ If(A)    175      200       225       250        275        300       400       450      500 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ For Case (a) General(ZPF) Method 
+  Induced EMF, EMF = 7126 < -4.54 V 
+ 
+
+ Percenatge Regulation, R = 24.73 Percenatge 
+ 
+
+ For Case (b) ASA Method 
+  Induced EMF, EMF = 7126 < -4.54 V 
+ 
+
+ Percenatge Regulation, R = 24.18 Percenatge 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- For Case (a) General(ZPF) Method (a) Induced EMF = 6376<-5.07 degree instead of 7126 < -4.54 
+  
+
+                                     For Case (b) ASA Method          (a) Induced EMF = 6376<-5.07 degree instead of 7126 < -4.54 
+
+  
+ CALCULATION OF THE POWER ANGLE IS NOT CALCULATED IN THE TEXT BOOK FOR THIS PROBLEM
+  
+
+ INDUCED EMF AND PERCENTAGE REGULATION IS APPROXIMATED VALUE BECACUSE IN THE TEXT BOOK, CALCULATED INDUCED EMF IS WRONGLY PRINTED 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.11/Ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 6.11 : 
+
+          Given Data 
+ 
+
+ Voc( V)   12     13       13.8      14.5        15.1  
+ 
+
+ If(A)    175      200       225       250        275   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ (a) Leakage Reactance, Xl = 0.88 Ohms 
+ 
+
+ (b) Synchronous Reactance, Xs = 2.86 Ohms 
+ 
+
+ For Case (a) General (ZPF) Method 
+ Field Current required for maintaing the rated terminal voltage for rated kVA rating at 0.80 Lagging Power factor , F = 395.10 A 
+ 
+
+ For Case (a) EMF Method 
+ Field Current required for maintaing the rated terminal voltage for rated kVA rating at 0.80 Lagging Power factor , F = 500 A 
+ 
+
+ For Case (a) MMF Method 
+ Field Current required for maintaing the rated terminal voltage for rated kVA rating at 0.80 Lagging Power factor , F = 321.65 A 
+ 
+
+ For Case (a) ASA Method 
+ Field Current required for maintaing the rated terminal voltage for rated kVA rating at 0.80 Lagging Power factor , F = 406 A 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- For Case (a) General (ZPF) Method 
+ (a) Field Current required for maintaining the rated terminal voltage for rated kVA rating at 0.80 Lagging Power factor , F = 470.90 A instead of 395.10 A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.13/Ex6_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.13: SOLUTION :-   
+ 
+
+ For Case (a) 0.80 lagging Power factor 
+  Induced EMF, EMF = 321.35 V 
+ 
+
+ Power angle = 9.012 degree 
+ 
+
+ Percenatge Regulation, R = 39.1 Percenatge 
+ 
+
+ For Case (b) Unity Power factor 
+  Induced EMF, EMF = 253.82 V 
+ 
+
+ Power angle = 12.68 degree 
+ 
+
+ Percenatge Regulation, R = 9.91 Percenatge 
+ 
+
+ For Case (c) 0.80 leading Power factor 
+  Induced EMF, EMF = 170.96 V 
+ 
+
+ Power angle = 11.76 degree 
+ 
+
+ Percenatge Regulation, R = -25.97 Percenatge 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.14/Ex6_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.14: SOLUTION :-   
+ 
+
+ For Case (a) 0.80 lagging Power factor 
+  Induced EMF, EMF = 1.7645 V 
+ 
+
+ Power angle = 17.1 degree 
+ 
+
+ Percenatge Regulation, R = 76.45 Percenatge 
+ 
+
+ For Case (b) Unity Power factor 
+  Induced EMF, EMF = 1.34 V 
+ 
+
+ Power angle = 26.57 degree 
+ 
+
+ Percenatge Regulation, R = 34.16 Percenatge 
+ 
+
+ For Case (c) 0.80 leading Power factor 
+  Induced EMF, EMF = 0.7442 V 
+ 
+
+ Power angle = 29.74 degree 
+ 
+
+ Percenatge Regulation, R = -25.58 Percenatge 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.17/Ex6_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.17: SOLUTION :-   
+ 
+
+ (a) Line current, I = 18.68 A 
+ 
+
+ (b) Power factor angle = -38.1 degree 
+ 
+
+ (c) Power , P = 11.199 kW 
+ 
+
+ (d) Torque , T = 35.65 N-m 
+ 
+
+ (e) Power factor = 0.79 lagging 
+ 
+
+ To make the Power factor to UNITY requirements are:- 
+ (a) Excitation EMF, E = 279.90 V 
+ 
+
+ (b) Power angle = 24.84 degree 
+ 
+
+ (c) Power , P = 11.201 kW 
+ 
+
+ (d) Torque , T = 35.65 N-m 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.25/Ex6_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.25: SOLUTION :-   
+ 
+
+ (a) Rective kVA of the motor = 23.474 kVAR 
+ 
+
+ (b) Overall Power factor of the load and motor = 0.9990 lagging and 
+ 
+
+     Resultant (magnitude) current = 145.75 A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.27/Ex6_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.27: SOLUTION :-   
+ 
+
+ (a) Reactive kVA of the motor = 18.093 kVAR 
+ 
+
+ (b) Individual currents:- 
+     Induction Motor current, II = 40.76 + i(-36.80) A 
+
+     Synchronous Motor current, Im = 39.37 + i(41.12) A 
+ 
+
+ (c) Resultant (overall) current = 80.25 < 3.08 A 
+ 
+
+ (d) Overall Power factor = 0.9986 leading 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.32/Ex6_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.32: SOLUTION :-   
+ 
+
+ (a) Induced EMF per phase, E = 1.5930 < 14.47 pu 
+ 
+
+ (b) Power angle = 14.47 degree 
+ 
+
+ (C) Percenatge Regulation, R = 59.30 Percent 
+ 
+
+
+ IN THIS PROBLEM PERCENTAGE REGULATION IS NOT CALCULATED IN THE TEXT BOOK
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.6: SOLUTION :-   
+ 
+
+ At rated condition, 
+
+ (a.1) Current, I = 0.73 A 
+ 
+
+ (a.2) Power factor = 0.997 lagging 
+ 
+
+ (a.3) Developed torque = 0.16 N-m 
+ 
+
+ When load current halved (reduced to half), 
+
+ (b.1) Speed, N2 = 10066 RPM 
+ 
+
+ (b.2) Power factor = 0.9993 lagging 
+ 
+
+ (b.3) Developed torque = 0.04 N-m 
+ 
+
+ (b.4) Efficiency = 99.6 percenatge 
+ 
+
+ From Calculation of the Current(I), rest all the Calculated values in the TEXT BOOK is WRONG because of the Current equation and its value both are WRONGLY calculated and the same used for the further Calculation part, so all the values are in the TEXT BOOK IS WRONG 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.10 : SOLUTION :-   
+ 
+
+ (a) Synchronous linear speed, Vs = 12.5 m/s 
+  
+
+ (b) Per phase current when Machine is running at 11.5 m/s, I = 3.27 < -46.37 A 
+ 
+ 

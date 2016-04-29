@@ -1,0 +1,39 @@
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.12/Example11_12.sce
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/Example11_12');xend();exit();
+                                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      33 of exec file called by :    
+_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.12/Example11_12.sce',-1
+ 

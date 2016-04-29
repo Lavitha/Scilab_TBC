@@ -1,0 +1,1529 @@
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.3/Ex4_3.sce
+[2J[0;0H 
+ 
+ 
+ The expression Ps=rho*Q*gH/Eta is used to calculate the shaft power for al finite flow rate conditions.For the shutoff condition 
+      ,since Eta is zero,Ps has to be extrapolated. Also 0.1H is plotted instead of H in the same chart since its order of magnit 
+      ude is higher than others.                                                                                                  
+ 
+ 
+ 
+ The efficiency and NPSHR are read from the constant contours with interpolation and Ps is calculated with the above equation.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Q(gpm) 1/10H(ft) eff(%) NPSHR(ft) Ps(hp)   
+ 
+ 
+ 
+ 
+    40.     27.     30.     5.      9.1081309  
+    80.     26.5    42.5    5.5     12.620417  
+    120.    25.5    52.     6.1     14.888291  
+    160.    24.     56.7    7.3     17.134638  
+    200.    21.5    57.     11.5    19.086239  
+    220.    20.     54.5    16.     20.425982  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["OneTenthH(ft)";"NPSHR(ft))";"Ps(hp)";"eff(%)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex4_3');xend();exit();
+                                                                                                       !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      32 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.3/Ex4_3.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.9/Ex4_9.sce
+[2J[0;0H 
+ 
+ 
+ 
+ Use the motor calibration curves to convert input electrical power to shaft  power for the corresponding rotating speed. The res 
+      ult is provided below.                                                                                                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Q1  dp1(psi)  Ps1(hp)  N1(rpm)   
+ 
+ 
+    40.     77.    5.2     1775.  
+    80.     76.    5.6     1772.  
+    120.    70.    6.      1765.  
+    140.    66.    6.5     1760.  
+    160.    64.    7.2     1755.  
+    180.    62.    7.6     1753.  
+    200.    55.    7.75    1750.  
+    220.    48.    7.8     1747.  
+ 
+ 
+ 
+ Convert each operating condition of flow rate,pressure rise and shaft power from the test rotating speed to the rated speed of 1 
+      750rpm.                                                                                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Q0(gpm)     dp0(psi)     tenps(hp)      eff(%)   
+ 
+ 
+    39.43662     74.846261    49.833618    35.532147  
+    79.006772    74.124582    53.94001     64.911307  
+    118.98017    68.815254    58.483219    83.04143   
+    139.20455    65.252131    63.898329    83.841939  
+    159.54416    63.635847    71.386367    83.40634   
+    179.69196    61.787974    75.610479    85.919511  
+    200.         55.          77.5         82.764566  
+    220.37779    48.164996    78.402522    78.674228  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["dp(psi)";"10Ps(hp)";"Eff (%)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex4_9');xend();exit();
+                                                                                                       !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      39 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.9/Ex4_9.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.11/Ex4_11.sce
+[2J[0;0H 
+ 
+ 
+ With H=k*(Q^2)+3,the constant k can be obtained.   
+ 
+ 
+ H  =
+ 
+    23.076923  
+ 
+We have H= 23.08 ft and Q=25gpm 
+ 
+ Q_1  =
+ 
+    25.  
+ 
+ k  =
+ 
+    0.0321231  
+ 
+
+Thus k= 0.0321 ft/(gpm^2) 
+ 
+ 
+ Thus the H/Q relationship can be tabulated and plotted as follows   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Q(gpm)  H(ft)   
+ 
+ 
+    0.     3.       
+    5.     3.8025   
+    10.    6.21     
+    15.    10.2225  
+    20.    15.84    
+    25.    23.0625  
+    30.    31.89    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) Rewrite H=0.0321*(Q^2)+3 into Q=5.581*((H-3)^0.5)   
+ 
+ 
+ From Qc=2Q and Hc=H,we have Qc=11.16*(Hc-3)^0.5 or Qc^2=124.6*(Hc-3)   
+ 
+ 
+ Or Hc=0.00802*Qc^2+3   
+ 
+ 
+ It is the expression of the combined system   
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex4_11');xend();exit();
+                                                                                                        !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      37 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.11/Ex4_11.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.12/Ex4_12.sce
+[2J[0;0H 
+ 
+ 
+ The single pump performance is given as follows   
+ 
+ 
+ 
+ 
+ 
+   Q(gpm)  H(ft)   
+ 
+ 
+    0.      1600.  
+    70.     1500.  
+    130.    1275.  
+    172.    920.   
+    186.    785.   
+    190.    540.   
+    195.    435.   
+    200.    285.   
+ 
+ 
+ 
+ a) Two connected in series   
+ 
+ 
+ 
+ table1  =
+ 
+    0.      3200.  
+    70.     3000.  
+    130.    2550.  
+    172.    1840.  
+    186.    1570.  
+    190.    1080.  
+    195.    870.   
+    200.    570.   
+ 
+ 
+   Q_1(gpm)  H_1(ft)   
+ 
+ 
+    0.      3200.  
+    70.     3000.  
+    130.    2550.  
+    172.    1840.  
+    186.    1570.  
+    190.    1080.  
+    195.    870.   
+    200.    570.   
+ 
+ 
+ 
+ b) Two connected in parallel   
+ 
+ 
+ 
+ table2  =
+ 
+    0.      1600.  
+    140.    1500.  
+    260.    1275.  
+    344.    920.   
+    372.    785.   
+    380.    540.   
+    390.    435.   
+    400.    285.   
+ 
+ 
+   Q2(gpm)  H2(ft)   
+ 
+ 
+    0.      1600.  
+    140.    1500.  
+    260.    1275.  
+    344.    920.   
+    372.    785.   
+    380.    540.   
+    390.    435.   
+    400.    285.   
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["H(ft))";"H1(ft)";"H2(ft)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex4_12');xend();exit();
+                                                                                                        !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      30 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.12/Ex4_12.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH5/EX5.2/Ex5_2.sce
+[2J[0;0H 
+ 
+ 
+ a)   
+ 
+ 
+ Convert: 1) Q=5 m^3/s=10595 cfm   
+ 
+ 
+ 2) rhoa=0.0761lbm/ft^3   
+ 
+ 
+ 
+ 3) SP=deltap/(rhow*g)   
+ 
+ delta_ps  =
+ 
+    500.  
+ 
+ rho_w  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+SP=delta_p/(rho_w*g)
+     !--error 4 
+Undefined variable: delta_p
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH5/EX5.2/Ex5_2.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH5/EX5.5/Ex5_5.sce
+[2J[0;0H 
+ 
+ 
+ Since the pressure changes are small compared with the barometric pressure,constant densities are assumed that is rho3 =rho2=rho 
+      a where rhoa=pa/(RTa)                                                                                                       
+ 
+ p_a  =
+ 
+    14.6  
+ 
+ T_a  =
+ 
+    535.  
+ 
+ R  =
+ 
+    53.3  
+ 
+ rho_a  =
+ 
+    0.0737283  
+ 
+rhoa= 0.0737 lbm/ft^3 
+ 
+ A2  =
+ 
+    32.5  
+ 
+
+A2 equals 32.5 in^2 
+ 
+ On converting A2=0.225ft^2   
+ 
+ 
+ A3  =
+ 
+    28.890263  
+ 
+
+A3 equals 28.9 in^2 
+ 
+ On converting A3=0.2007ft^2   
+ 
+ 
+ 
+ From (rho3*V3^2)/2=rhow*g*pv3,V3 can be calculated   
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ rho_3  =
+ 
+    0.0737  
+ 
+ j  =
+ 
+    67.40791  
+ 
+V3=67.4 * pv3^0.5 ft/s 
+ 
+ 
+ The inlet flow rate can be calculated as Q=Q3=V3*A3=0.2007*60*V3=12.04*V3   
+ 
+ 
+ Also the dynamic pressure can be calculated as pv2=pv3*((A3/A2)^2)*(rho3/rho2)=(0.2/0.225)^2*pv3=0.79pv3   
+ 
+ 
+ 
+ The total pressure pt2=ps2+pv2   
+ 
+ 
+ To correct these data to a fixed speed of 3500rpm,the fan laws can be used as Qdash=Q*3500/N,pt2dash=pt2*((3500/N)^2) and Hdash= 
+      H*((3500/N)^3).                                                                                                             
+ 
+ 
+ The total efficiency can be calculated as ETAt=(rhow*g*pt2dash*Qdash)/(Hdash)   
+ 
+ 
+ On simplifying ETAt=Qdash*pt2dash/(6346*Hdash)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The table is in the order given in the book,that is pv3, ps2, N, H, V3, Q, pv2, pt2, Qdash, tenpt2dash, tenHdash and etat.   
+ 
+ 
+ 
+    2.4    2.5    3450.    1.1     104.41563    1257.1642    1.896    4.396    1275.384     45.243436    11.485226    79.169324  
+    2.1    4.2    3520.    1.25    97.671879    1175.9694    1.659    5.859    1169.2878    57.926096    12.28814     86.857925  
+    1.9    6.     3500.    1.49    92.904489    1118.57      1.501    7.501    1118.57      75.01        14.9         88.735216  
+    1.5    6.8    3420.    1.55    82.547804    993.87556    1.185    7.985    1017.1241    83.629365    16.613361    80.681724  
+    1.2    7.6    3430.    1.67    73.833001    888.94933    0.948    8.548    907.09115    89.004581    17.743457    71.700962  
+    0.8    8.5    3500.    1.72    60.284393    725.82409    0.632    9.132    725.82409    91.32        17.2         60.725174  
+    0.4    9.5    3520.    1.81    42.627503    513.23513    0.316    9.816    510.31903    97.047714    17.793227    43.86037   
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["tenpt2dash (inches of water)";"tenHdash (hp)";"eta_t (%)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex5_5');xend();exit();
+                                                                                                       !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      89 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH5/EX5.5/Ex5_5.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.1/Ex6_1.sce
+[2J[0;0H 
+ 
+ 
+ Pick the data rows for the flow rates of 10241 and 13965 cfm and list them in the first four columns of the table below.   
+ 
+ 
+ Convert the flow rate Q,static pressure SP and brake horsepower BHP values for various rpm into 300rpm based on the fan laws.   
+ 
+ 
+ That is Q1=Q*(300/N), SP1=SP((300/N)^2),BHP1=BHP*((300/N)^3)   
+ 
+ 
+ Calculate the static efficiency using ETAs=(Q*SP)/(6346*BHP)   
+ 
+ 
+ The results are plotted into the chart   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1  =
+ 
+    10241.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ SP1  =
+ 
+    0.25    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ BHP1  =
+ 
+    0.82    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ ETA  =
+ 
+    0.4920038    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ Q1  =
+ 
+    10241.    9571.028    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ SP1  =
+ 
+    0.25    0.3275395    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ BHP1  =
+ 
+    0.82    0.8407868    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ ETA  =
+ 
+    0.4920038    0.5875385    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ Q1  =
+ 
+    10241.    9571.028    9009.6774    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ SP1  =
+ 
+    0.25    0.3275395    0.3869936    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ BHP1  =
+ 
+    0.82    0.8407868    0.8375403    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ ETA  =
+ 
+    0.4920038    0.5875385    0.6560051    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ Q1  =
+ 
+    10241.    9571.028    9009.6774    8463.6364    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ SP1  =
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ BHP1  =
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ ETA  =
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ Q1  =
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ SP1  =
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ BHP1  =
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ ETA  =
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ Q1  =
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ SP1  =
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ BHP1  =
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+ ETA  =
+ 
+ 
+         column  1 to 14
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.    0.    0.    0.    0.    0.    0.    0.  
+ 
+         column 15
+ 
+    0.  
+ Q1  =
+ 
+ 
+         column  1 to 14
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    0.    0.    0.    0.    0.    0.    0.  
+ 
+         column 15
+ 
+    0.  
+ SP1  =
+ 
+ 
+         column  1 to 14
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.    0.    0.    0.    0.    0.    0.  
+ 
+         column 15
+ 
+    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 14
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.    0.    0.    0.    0.    0.    0.  
+ 
+         column 15
+ 
+    0.  
+ ETA  =
+ 
+ 
+         column  1 to 13
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.    0.    0.    0.    0.    0.  
+ 
+         column 14 to 15
+ 
+    0.    0.  
+ Q1  =
+ 
+ 
+         column  1 to 14
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    0.    0.    0.    0.    0.    0.  
+ 
+         column 15
+ 
+    0.  
+ SP1  =
+ 
+ 
+         column  1 to 12
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.    0.    0.    0.  
+ 
+         column 13 to 15
+ 
+    0.    0.    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 12
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.    0.    0.    0.  
+ 
+         column 13 to 15
+ 
+    0.    0.    0.  
+ ETA  =
+ 
+ 
+         column  1 to 12
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.    0.    0.    0.  
+ 
+         column 13 to 15
+ 
+    0.    0.    0.  
+ Q1  =
+ 
+ 
+         column  1 to 12
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    10579.545    0.    0.    0.  
+ 
+         column 13 to 15
+ 
+    0.    0.    0.  
+ SP1  =
+ 
+ 
+         column  1 to 11
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.2152204    0.    0.  
+ 
+         column 12 to 15
+ 
+    0.    0.    0.    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 11
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.8087069    0.    0.  
+ 
+         column 12 to 15
+ 
+    0.    0.    0.    0.  
+ ETA  =
+ 
+ 
+         column  1 to 10
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.4436691    0.  
+ 
+         column 11 to 15
+ 
+    0.    0.    0.    0.    0.  
+ Q1  =
+ 
+ 
+         column  1 to 11
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    10579.545    10144.068    0.  
+ 
+         column 12 to 15
+ 
+    0.    0.    0.    0.  
+ SP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.2152204    0.2638229  
+ 
+         column 11 to 15
+ 
+    0.    0.    0.    0.    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.8087069    0.8278799  
+ 
+         column 11 to 15
+ 
+    0.    0.    0.    0.    0.  
+ ETA  =
+ 
+ 
+         column 1 to 9
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.4436691  
+ 
+         column 10 to 15
+ 
+    0.5093979    0.    0.    0.    0.    0.  
+ Q1  =
+ 
+ 
+         column  1 to 10
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    10579.545    10144.068  
+ 
+         column 11 to 15
+ 
+    9788.5514    0.    0.    0.    0.  
+ SP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.2152204    0.2638229  
+ 
+         column 11 to 15
+ 
+    0.3070683    0.    0.    0.    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.8087069    0.8278799  
+ 
+         column 11 to 15
+ 
+    0.8368329    0.    0.    0.    0.  
+ ETA  =
+ 
+ 
+         column 1 to 9
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.4436691  
+ 
+         column 10 to 15
+ 
+    0.5093979    0.5659976    0.    0.    0.    0.  
+ Q1  =
+ 
+ 
+         column  1 to 10
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    10579.545    10144.068  
+ 
+         column 11 to 15
+ 
+    9788.5514    9435.8108    0.    0.    0.  
+ SP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.2152204    0.2638229  
+ 
+         column 11 to 15
+ 
+    0.3070683    0.3424032    0.    0.    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.8087069    0.8278799  
+ 
+         column 11 to 15
+ 
+    0.8368329    0.8390421    0.    0.    0.  
+ ETA  =
+ 
+ 
+         column 1 to 9
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.4436691  
+ 
+         column 10 to 15
+ 
+    0.5093979    0.5659976    0.6067828    0.    0.    0.  
+ Q1  =
+ 
+ 
+         column  1 to 10
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    10579.545    10144.068  
+ 
+         column 11 to 15
+ 
+    9788.5514    9435.8108    8857.2939    0.    0.  
+ SP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.2152204    0.2638229  
+ 
+         column 11 to 15
+ 
+    0.3070683    0.3424032    0.4022724    0.    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.8087069    0.8278799  
+ 
+         column 11 to 15
+ 
+    0.8368329    0.8390421    0.8419655    0.    0.  
+ ETA  =
+ 
+ 
+         column 1 to 9
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.4436691  
+ 
+         column 10 to 15
+ 
+    0.5093979    0.5659976    0.6067828    0.6668481    0.    0.  
+ Q1  =
+ 
+ 
+         column  1 to 10
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    10579.545    10144.068  
+ 
+         column 11 to 15
+ 
+    9788.5514    9435.8108    8857.2939    8279.6443    0.  
+ SP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.2152204    0.2638229  
+ 
+         column 11 to 15
+ 
+    0.3070683    0.3424032    0.4022724    0.4393913    0.  
+ BHP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.8087069    0.8278799  
+ 
+         column 11 to 15
+ 
+    0.8368329    0.8390421    0.8419655    0.8107031    0.  
+ ETA  =
+ 
+ 
+         column 1 to 9
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.4436691  
+ 
+         column 10 to 15
+ 
+    0.5093979    0.5659976    0.6067828    0.6668481    0.7071333    0.  
+ Q1  =
+ 
+ 
+         column  1 to 10
+ 
+    10241.    9571.028    9009.6774    8463.6364    7980.    7195.082    6592.9185    11025.    10579.545    10144.068  
+ 
+         column 11 to 15
+ 
+    9788.5514    9435.8108    8857.2939    8279.6443    7801.676  
+ SP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.25    0.3275395    0.3869936    0.4268834    0.4553888    0.4936132    0.5180607    0.1558172    0.2152204    0.2638229  
+ 
+         column 11 to 15
+ 
+    0.3070683    0.3424032    0.4022724    0.4393913    0.4681502  
+ BHP1  =
+ 
+ 
+         column  1 to 10
+ 
+    0.82    0.8407868    0.8375403    0.8184872    0.7948604    0.7594938    0.7337341    0.7774457    0.8087069    0.8278799  
+ 
+         column 11 to 15
+ 
+    0.8368329    0.8390421    0.8419655    0.8107031    0.7863528  
+ ETA  =
+ 
+ 
+         column 1 to 9
+ 
+    0.4920038    0.5875385    0.6560051    0.6955916    0.7204341    0.7368824    0.7335329    0.3481960    0.4436691  
+ 
+         column 10 to 15
+ 
+    0.5093979    0.5659976    0.6067828    0.6668481    0.7071333    0.7319065  
+ 
+ 
+ 
+ 
+ 
+ 
+      Q       SP        N        BHP        Q1          SP1          BHP1         ETA   
+ 
+ 
+    (cfm)   (in.wg)    rpm                 (cfm)      (in.wg)   
+ 
+ 
+    10241.    0.25     300.    0.82    10241.       0.25         0.82         0.4920038  
+    10241.    0.375    321.    1.03    9571.028     0.3275395    0.8407868    0.5875385  
+    10241.    0.5      341.    1.23    9009.6774    0.3869936    0.8375403    0.6560051  
+    10241.    0.625    363.    1.45    8463.6364    0.4268834    0.8184872    0.6955916  
+    10241.    0.75     385.    1.68    7980.        0.4553888    0.7948604    0.7204341  
+    10241.    1.       427.    2.19    7195.082     0.4936132    0.7594938    0.7368824  
+    10241.    1.25     466.    2.75    6592.9185    0.5180607    0.7337341    0.7335329  
+    13965.    0.25     380.    1.58    11025.       0.1558172    0.7774457    0.3481960  
+    13965.    0.375    396.    1.86    10579.545    0.2152204    0.8087069    0.4436691  
+    13965.    0.5      413.    2.16    10144.068    0.2638229    0.8278799    0.5093979  
+    13965.    0.625    428.    2.43    9788.5514    0.3070683    0.8368329    0.5659976  
+    13965.    0.75     444.    2.72    9435.8108    0.3424032    0.8390421    0.6067828  
+    13965.    1.       473.    3.3     8857.2939    0.4022724    0.8419655    0.6668481  
+    13965.    1.25     506.    3.89    8279.6443    0.4393913    0.8107031    0.7071333  
+    13965.    1.5      537.    4.51    7801.676     0.4681502    0.7863528    0.7319065  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["SP1(in.wg)";"BHP1(hp)";"ETA"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex6_1');xend();exit();
+                                                                                                       !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      72 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.1/Ex6_1.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.9/Ex6_9.sce
+[2J[0;0H 
+ 
+ 
+ The inlet specific volume is calculated from the ideal gas equation   
+ 
+ R  =
+ 
+    53.3  
+ 
+ T1  =
+ 
+    580.  
+ 
+ p1  =
+ 
+    65.  
+ 
+ nu1  =
+ 
+    3.3027778  
+ 
+ nu1=3.303 ft^3/lbm= 
+ 
+ 
+ Q1=m*v1=4594 cfm   
+ 
+ 
+ R  =
+ 
+    53.3  
+ 
+ T1  =
+ 
+    580.  
+ 
+ 
+ y  =
+ 
+    2.625  
+ 
+ p2  =
+ 
+    250.  
+ 
+ p1  =
+ 
+    65.  
+ 
+ H_oa  =
+ 
+    54417.07  
+ 
+ The overall adiabetic head is calculated as H_o/a= 54417 ft-lbf/lbm 
+ 
+ y  =
+ 
+    2.625  
+ 
+
+ Where n/(n-1)=(Eta_p*k)/(k-1)=2.625 
+ 
+ 
+ From figure 6.7 , a centrifugal compressor with speed N=10000rpm is appropriate for the present application   
+ 
+ 
+ 
+ To use figure 6.7,the specific speed can be calculated from Ns=N*(V1^0.5)/(H_ad^0.75)   
+ 
+ V1  =
+ 
+    82.566667  
+ 
+ Where V1= 82.6 cfs 
+ 
+ H_ad=(H_o/a)/Eta_s is the head for each stage .   
+ 
+ 
+ Selecting the number of stages to be 2,4, and 6,the head for each stage and specific speed  can be calculated,then the total-to= 
+      total adiabetic efficiencies can be read                                                                                    
+ 
+ 
+ The required shaft horse power can be calculated with the volumetric and mechanical efficiencies assumed to be 0.98 and 0.95 res 
+      pectively                                                                                                                   
+ 
+ 
+ That is Ps=(m*(H_o/a)/(33000*Eta_ad*Eta_v*Eta_m)   
+ 
+ 
+ H_oa  =
+ 
+    54417.  
+ 
+ V1  =
+ 
+    82.6  
+ 
+ Eta_v  =
+ 
+    0.98  
+ 
+ Eta_m  =
+ 
+    0.95  
+ 
+ N  =
+ 
+    10000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Ps(i) = (m*H_oa)/(33000*Eta_ad(i)*Eta_v*Eta_m);
+               !--error 4 
+Undefined variable: m
+at line      53 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.9/Ex6_9.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.10/Ex6_10.sce
+[2J[0;0H 
+ 
+ 
+ From table 6.1 at 1.25 SP,the rotating speeds for Q1=11172cfm and Q2=12103cfm are N1=474rpm and N2=483 rpm respectively   
+ 
+ Ns  =
+ 
+    482.0043  
+ 
+ Hence the rotating speed for the selected fan is determined by inetrpolation 482 rpm
+
+ 
+ 
+ 
+ Select a few data points around 482 rpm from table 6.1 as:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Q(cfm)   N(rpm)   SP(in.wg)   BHP(hp)   
+ 
+ table  =
+ 
+    14896.    490.    1.      3.66  
+    12103.    448.    1.      2.67  
+    11172.    436.    1.      2.4   
+    11172.    474.    1.25    2.97  
+    10241.    466.    1.25    2.75  
+    7448.     360.    0.75    1.2   
+ 
+ 
+    14896.    490.    1.      3.66  
+    12103.    448.    1.      2.67  
+    11172.    436.    1.      2.4   
+    11172.    474.    1.25    2.97  
+    10241.    466.    1.25    2.75  
+    7448.     360.    0.75    1.2   
+ 
+ 
+ 
+ Convert them into conditiond of 482 rpm according to the similarity laws,resulting in   
+ 
+ 
+ 
+ 
+ table1  =
+ 
+    14653.    0.967    3.5   
+    13021.    1.16     3.2   
+    12350.    1.22     3.24  
+    11360.    1.29     3.12  
+    10593.    1.34     3.04  
+    9972.     1.34     2.88  
+ 
+ 
+  Q(cfm)   SP(in.wg)   BHP(hp)   
+ 
+ 
+    14653.    0.967    3.5   
+    13021.    1.16     3.2   
+    12350.    1.22     3.24  
+    11360.    1.29     3.12  
+    10593.    1.34     3.04  
+    9972.     1.34     2.88  
+ 
+ 
+ 
+ The system curve can be calculated from the following table   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ table2  =
+ 
+    10000.    0.87  
+    11000.    1.05  
+    12000.    1.25  
+    13000.    1.47  
+    14000.    1.7   
+ 
+ 
+   Q(cfm)  H(in.wg)   
+ 
+ 
+    10000.    0.87  
+    11000.    1.05  
+    12000.    1.25  
+    13000.    1.47  
+    14000.    1.7   
+ 
+ 
+ 
+ The system curve can be calculated from H versus Q^2. It is plotted as shown.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex6_10');xend();exit();
+                                                                                                        !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      73 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.10/Ex6_10.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH9/EX9.2/Ex9_2.sce
+[2J[0;0H 
+ 
+ 
+ To use Figure 9.8,with Qf=ΣU^2/delta_Hs=2*g_c*lambda^2*R_H   
+ 
+ 
+ The value of R_H can be estimated with equation 8.4.   
+ 
+ 
+ Using k=1.3 for steam and suusming ETA_p=0.90 we have ETAad=[1-(p_e/p_i)^(ETAp*(k-1)/k)]/[1-(p_e/p_i)^(k-1)/k]=0.931   
+ 
+ 
+ ETA_ad  =
+ 
+    0.931  
+ 
+ ETA_p  =
+ 
+    0.9  
+ 
+ R_H  =
+ 
+    1.0344444  
+ 
+ R_H=ETA_ad/ETA_p= 1.034 
+ 
+ 
+ For impulse stages,the optimal efficiencies occur at lambda=U/V2=sinα2/2=0.47 with alpha2=70 degrees   
+ 
+ QF  =
+ 
+    11455.353  
+ 
+ So Qf can be calculated as 11455 
+ 
+ 
+ From figure 9.8, the efficiency can be estimated as ETA=83%   
+ 
+ 
+ 
+ From the Mollier diagram in figure A1 we have hi=1525 Btu/lbm,hse=1150 Btu/lbm,with s_i=s_es=1.8Btu/lb-R   
+ 
+ delta_Hs  =
+ 
+    375.  
+ 
+ Hence delta_Hs=375 Btu/lbm 
+ 
+summation_sqr(U)=11455*375
+                !--error 4 
+Undefined variable: U
+at line      22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH9/EX9.2/Ex9_2.sce',-1)
+ 
+ERROR: Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH10/EX10.2/Ex10_2.sce
+[2J[0;0H 
+ 
+ 
+ From psi=(g*H)/(omega^2*D^2)  and N=30*omega/pi we get N=172.7/(psi^0.5)   
+ 
+ 
+ Also from phi=Q/(omega*D^3) and pi=Ps/(rho*omega^3*D^5) we get Q=0.353*phi*N and Ps=0.0087*N^3*pi   
+ 
+ 
+ Pick the points along 80% gate opening curve,read the values for phi,psi, and efficiency from figure 10.14   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     phi     psi      eff(%)   pai        N(rpm)      Ps(mw)       Q(m^3/s)   
+ 
+ 
+ 
+ 
+    0.158    0.093    55.     0.0078    566.30561    12.324419    31.585129  
+    0.151    0.083    56.5    0.0067    599.45045    12.556076    31.952507  
+    0.14     0.071    58.     0.0058    648.13155    13.738418    32.030661  
+    0.127    0.06     62.5    0.0045    705.0448     13.720878    31.607863  
+    0.108    0.048    69.     0.0034    788.26405    14.488163    30.051779  
+    0.092    0.04     71.5    0.0025    863.5        14.003812    28.043026  
+    0.076    0.03     67.5    0.0015    997.08391    12.936168    26.749767  
+    0.066    0.025    60.     0.001     1092.2507    11.33669     25.447257  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["Ps (mw)";"Q (m^3/s)";"Eff (%)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Turbomachinery_W._W._Peng_3136/Ex10_2');xend();exit();
+                                                                                                        !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      37 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH10/EX10.2/Ex10_2.sce',-1)
+ 

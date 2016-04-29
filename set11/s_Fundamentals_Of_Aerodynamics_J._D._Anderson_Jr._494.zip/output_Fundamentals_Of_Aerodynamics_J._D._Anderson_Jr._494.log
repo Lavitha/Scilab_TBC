@@ -1,0 +1,2283 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 87
+
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH1/EX1.1/1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULT
+-------
+The Drag coefficient by first method is: 0.022
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Drag coefficient by second method is: 0.022
+
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH1/EX1.3/1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+RESULTS
+--------
+Xcp/C = 0.356
+
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH1/EX1.5/1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+-------
+The velocity required in the wind tunnel is: 577.5 mi/h
+
+ 
+The pressure required in the wind tunnel is: 23848 lb/sq.ft or 11.27 atm
+
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH1/EX1.6/1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The lift to drag ratio L/D is equal to: 14
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH1/EX1.7/1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The maximum value of lift coefficient is
+              Cl_max = 1.815
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH1/EX1.8.a/1_8_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The initial upward acceleration is:
+          a = 11.4 ft/s2 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH1/EX1.8.b/1_8_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h_max  =
+ 
+    9888.8262  
+ 
+ 
+
+RESULTS
+---------
+The maximum altitude that can be reached is:
+          h = 9889 ft 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULT
+-------
+The time rate of change of the volume of the fluid element per unit volume is: -0.0000 s-1
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The velocity at the given point is
+              V = 142.8 m/s
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The pressure at point 2 is
+              p2 = 99265.74 Pa
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The value of velocity at the inlet is
+              V1 = 31.2 m/s
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The height difference in a U-tube mercury manometer is
+              delta_h = 0.01146 m
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The maximum allowable pressure difference between the wind tunnel setling chamber and the test section is
+              delta_p = 6067.76 Pa 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.6.a/3_6_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The reservoir pressure is
+              p1 = 1.01 atm 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.6.b/3_6_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The new reservoir pressure is
+              p1 = 1.048 atm 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.7/3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The velocity of the airplane is
+              V1 = 76.06 atm 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The total pressure measured by pitot tube is
+              p0 = 107451.36 Pa 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The velocity of the airplane is
+              V1 = 114.2 m/s = 255 mph 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ 
+ q1  =
+ 
+    5342.8339  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The equivallent airspeed of the airplane is
+              Ve = 93.2 m/s 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The coefficient of pressure at the given point is
+              Cp = -1.25 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.12.a/3_12_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The velocity at the given point is
+              V = 61.2 m/s 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.12.b/3_12_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The velocity at the given point is
+              V = 229.5 m/s 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.13/3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The angular locations where surface pressure equals freestream pressure are
+              theta = 30, 150, 210, 330 degrees 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.14/3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The peak negative pressure coefficient is
+              Cp = -6.82 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.15/3_15.sce #
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The angular location of the stagnation points are
+              theta = 203.4, 336.6 degrees 
+ 
+ 
+ 
+
+RESULTS
+--------
+The value of Cp on top of the cylinder is
+              Cp = -6.82 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The angular location of points on the cylinder where p = p_inf is
+              theta = 243.9, 296.11, 5.86, 174.1 
+ 
+
+RESULTS
+--------
+The value of Cp at the bottom of the cylinder is
+              Cp = -0.45 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH3/EX3.16/3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The Lift per unit span for the given cylinder is
+              L' = 892.7 N 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+
+c_l = 0.65 , for this c_l value, from fig. 4.10we get
+alpha = 4
+------------
+
+Re = 3.08 x 10^6, for this value of Re, from fig. 4.11 we get
+c_d = 0.0068
+D' = 13.1 N/m
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ c_m_ac  =
+ 
+  - 0.05  
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The Moment per unit span about the aerodynamic center is is
+              M' = -61.7 Nm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.3/4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+  alpha     Cl      Cd         Cl/Cd 
+ 
+    0.     0.25    0.0065    38.461538  
+    4.     0.65    0.007     92.857143  
+    8.     1.08    0.0112    96.428571  
+    12.    1.44    0.017     84.705882  
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.4/4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+(a)
+  Cl = 0.5483
+(b)
+  Cm_le = -0.137
+(c)
+  Cm_c/4 = 0
+(d)
+  Cm_te = 0.411
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.5/4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+-------
+(a)
+        alpha_L=0 = -1.09 degrees
+(b)
+        cl = 0.559
+(c)
+        cm,c/4 = -0.0129
+(d)
+        x_cp/c = 0.273 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The location of the aerodynamic center is
+            x_ac = 0.241
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+(a)
+   delta = 0.00426 m
+---------
+(b)
+   Cf = 7.54 x 10^-4
+   Net Cf = 0.0015 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.8/4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+(a)
+   delta = 0.0279 m
+---------
+(b)
+   Cf = 0.00372
+   Net Cf = 0.00745 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.9/4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The net skin friction coefficient is
+        Net Cf = 0.0063 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The net skin friction coefficient is
+        Net Cf = 0.00529 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ 
+ a0  =
+ 
+    6.2831853  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+        Cl = 0.4433
+
+        CD,i = 0.00825 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH5/EX5.2/5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The induced drag coefficient of the second wing is
+        CD,i = 0.0074 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH5/EX5.3/5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+        alpha = 0.6 degrees
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH5/EX5.4/5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The drag coefficient of the wing is
+        C_D = 0.0148
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH7/EX7.1/7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The internal energy in the room is:
+        E = 2.92 x 10^7 J
+
+The Enthalpy in the room is:
+        H = 4.08 x 10^7 J
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH7/EX7.2/7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The temperature at the given point is:
+        T = 206.7 K
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH7/EX7.3/7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+--------
+The total temperature and pressure are given by:
+        T0 = 817.8 K
+
+        P0 = 26.7 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.1/8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a)
+The Mach number at sea level is:
+        M_inf = 0.735
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b)
+The Mach number at 5 km is:
+        M_inf = 0.78
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(c)
+The Mach number at 10 km is:
+        M_inf = 0.835
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.2/8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The Mach number is:
+        M = 2.79
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.3/8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a)
+The ratio of kinetic energy to internal energy is:
+
+                        1.12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b)
+The ratio of kinetic energy to internal energy is:
+
+                        112
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.4/8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The total temperature and pressure are:
+        T0 = 818 K
+        P0 = 26.7 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.5/8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        T0 = 621 K
+        P0 = 22.9 atm
+        T* = 517.5 k
+        a* = 456 m/s
+        M* = 2.06 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.6/8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The mach number at the given point is:
+        M1 = 0.9
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.8/8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    340.17407  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        p2 = 4.5 atm
+        T2 = 486 K
+        u2 = 255 m/s 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.9/8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The total pressure loss is:
+(a)        P0_loss = 2.184 atm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b)        P0_loss = 130.7 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.10/8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The pressure at point 2 is:
+        p2 = 1.43 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.11/8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The pressure at point 2 is:
+        p2 = 32.7 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.13/8_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The pressure at the nose is:
+        p_s = 38.1 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.14/8_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    295.04913  
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The Velocity of the airplane is:
+        V1 = 1003 m/s
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.1/9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The plane is ahead of the bystander by a distance of:
+        d = 27.7 km
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.4/9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The upstream mach number is:
+        M = 2.86
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.5/9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        Ans = 1.76
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.6/9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The drag coefficient is given by:
+        cd = 0.114
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.8/9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        p2 = 0.469 atm
+        T2 = 232 K
+        p0,2 = 3.671 atm
+        T0,2 = 417.6 K
+        Angle of forward Mach line = 41.81 degrees
+        Angle of rear Mach line = 15 degrees 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.9/9_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        M2 = 6.4
+        p2 = 18.02 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.10/9_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        M2 = 5.22
+        p2 = 13.32 atm
+        p0,2 = 9.85 x 10^3 atm
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.11/9_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The lift and drag coefficients are given by:
+        cl = 0.125
+        cd = 0.011
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH10/EX10.1/10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        Me = 3.95
+        pe = 0.035 atm
+        Te = 80.9 K 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH10/EX10.2/10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+At throat:
+        Mt = 1.0
+        pt = 0.528 atm
+        Tt = 240 K
+
+For supersonic exit:
+        Me = 2.2
+        pe = 0.0935 atm
+        Te = 146 K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For subrsonic exit:
+        Me = 0.3
+        pe = 0.94 atm
+        Te = 282.9 K 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH10/EX10.3/10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning :
+The identifier : area_ratio_throat_to_star
+ has been truncated to: area_ratio_throat_to_sta.
+
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+        Me = 0.2
+        Mt = 0.44
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH10/EX10.4/10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+(a)The thrust of the rocket is:
+        T = 2.17 x 10^6 N = 487664 lb
+
+(b)
+The nozzle exit area is:
+        Ae = 16.7 m2
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH10/EX10.5/10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The mass flow rate is:
+        m_dot = 586.1 kg/s
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH10/EX10.6/10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The diffuser throat to nozzle throat area ratio is:
+        At,2/At,1 = 1.387 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH11/EX11.1/11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+(a)The Cp after compressibility corrections is:
+        Cp = -0.375
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH11/EX11.2/11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+(a)The cl after compressibility corrections is:
+        cl = 8.8alpha
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH12/EX12.1/12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The cl and cd according to the linearized theory are:
+        cl = 0.123
+        cd = 0.011
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH12/EX12.2/12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The angle of attack of the wing is:
+        alpha = 1.97 degrees
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH12/EX12.3/12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+(a)
+        Net Cf = 4.3 x 10^-3
+(b)
+        cd = 2.83 x 10^-3
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH14/EX14.1/14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+(a) The exact results from the shock-expansion theory are:
+        Cp2 = -0.0219
+        Cp3 = 0.1885
+        cl = 0.2032
+        cd = 0.0544
+        L/D = 3.73
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b) The results from Newtonian theory are:
+        Cp2 = 0.0000
+        Cp3 = 0.1340
+        cl = 0.1294
+        cd = 0.0347
+        L/D = 3.73
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH16/EX16.1/16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+(a)
+        u = 30.48 m/s
+(b)
+        tow_w = 4.3 N/m2
+(c)
+        T = 288.6 K
+(d)
+        q_w_dot = 130.9 Nm-1s-1
+(e)
+        Taw = 289.6 K 
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH16/EX16.2/16_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The heat transfer is given by:
+        q_w_dot = 3.67 x 10^4 W/m2
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH18/EX18.1/18_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The total frictional drag is:
+(a)
+        D = 175.6 N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b)
+        D = 5019 N
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH18/EX18.2/18_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The total frictional drag is:
+        D = 4978 N
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH18/EX18.3/18_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The total frictional drag is:
+        D = 5014 N
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH19/EX19.1/19_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The total frictional drag is:
+(a)
+        D = 1352 N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b)
+        D = 65392 N
+ 
+grepthis#Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH19/EX19.2/19_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESULTS
+---------
+The total frictional drag is:
+        D = 51916 N
+ 

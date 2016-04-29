@@ -1,0 +1,178 @@
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH7/EX7.1/Ex7_1.sce #
+ 
+ F1  =
+ 
+    2000.  
+ 
+ F2  =
+ 
+    4000.  
+ 
+ l1  =
+ 
+    10.  
+ 
+ l2  =
+ 
+    30.  
+ 
+ l3  =
+ 
+    20.  
+ 
+ l4  =
+ 
+    40.  
+ 
+ t  =
+ 
+    60.  
+ 
+ 
+ 
+ Ra  =
+ 
+    2500.  
+ 
+ Rb  =
+ 
+    3500.  
+ 
+ 
+ A  =
+ 
+    1.  - 0.5        
+    0.  - 0.8660254  
+ 
+ B  =
+ 
+    0.     
+  - 2500.  
+ 
+ C  =
+ 
+    1443.3757  
+    2886.7513  
+ 
+ 
+ A1  =
+ 
+    1.    0.5        
+    0.  - 0.8660254  
+ 
+ B1  =
+ 
+  - 1443.3757  
+  - 500.       
+ 
+ C1  =
+ 
+  - 1732.0508  
+    577.35027  
+ 
+ 
+ CD  =
+ 
+    577.  
+ 
+ CE  =
+ 
+    2020.5508  
+ 
+ 
+ DE  =
+ 
+    4041.4519  
+ 
+ 
+[2J[0;0H 
+The reactions are Ra=2500.000000lb and Rb=3500.000000lb
+ 
+Force in member AB=2886.751346lb and AC=1443.375673lb
+ 
+Force in member BC=577.350269lb and BD=-1732.050808lb
+ 
+Force in member CD=577.000000lb and CE=2020.550808lb
+ 
+Force in member DE=4041.451884lb 
+ 
+ 
+grepthis#Engineering_Mechancis-schaum_Series_Mclean_3137/CH10/EX10.6/Ex10_6.sce #
+ 
+ theta  =
+ 
+    75.  
+ 
+ alpha  =
+ 
+    2.6179939  
+ 
+ r  =
+ 
+    1.  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ lhor  =
+ 
+    14.  
+ 
+ 
+ a  =
+ 
+    0.7379130  
+ 
+ y  =
+ 
+  - 0.1909859  
+ 
+ 
+ l  =
+ 
+    2.6179939  
+ 
+ 
+ DF  =
+ 
+    7.  
+ 
+ AB  =
+ 
+    7.  
+ 
+ BC  =
+ 
+    1.  
+ 
+ BF  =
+ 
+    0.8660254  
+ 
+ FC  =
+ 
+    0.5  
+ 
+ DC  =
+ 
+    7.5  
+ 
+ EC  =
+ 
+    8.660254  
+ 
+ 
+ yslope  =
+ 
+    3.0310889  
+ 
+ 
+ Y  =
+ 
+    1.0258095  
+ 
+ 
+[2J[0;0H 
+The centroid is at Y=1.025809 in 
+ 

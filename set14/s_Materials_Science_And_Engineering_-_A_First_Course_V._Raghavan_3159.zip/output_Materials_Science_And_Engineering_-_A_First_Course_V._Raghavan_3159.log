@@ -1,0 +1,2163 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 52
+
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ del_h  =
+ 
+    6.02  
+ 
+ t_m  =
+ 
+    273.15  
+ 
+
+ Example 2.1 
+ del_s  =
+ 
+    22.039173  
+ 
+
+ Increase in entropy is 22.04 J mol^-1 K^-1 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ E  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ t1  =
+ 
+    300.  
+ 
+ t2  =
+ 
+    1500.  
+ 
+
+ Example 2.2 
+
+
+ Part A: 
+ n_N  =
+ 
+    1.643D-17  
+ 
+
+ Fraction of atoms with energy equal to or greater than 1eV at temperature 300 K is 1.64e-17  
+
+
+ Part B: 
+ n_N  =
+ 
+    0.0004397  
+ 
+
+ Fraction of atoms with energy equal to or greater than 1eV at temperature 1500 K is 4.40e-04  
+ 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ sc_n  =
+ 
+    0.125  
+ 
+ sc_N  =
+ 
+    8.  
+ 
+ bcc_n_e  =
+ 
+    0.25  
+ 
+ bcc_N_e  =
+ 
+    4.  
+ 
+ bcc_n_c  =
+ 
+    1.  
+ 
+ bcc_N_c  =
+ 
+    1.  
+ 
+ fcc_n_e  =
+ 
+    0.125  
+ 
+ fcc_N_e  =
+ 
+    8.  
+ 
+ fcc_n_f  =
+ 
+    0.5  
+ 
+ fcc_N_f  =
+ 
+    6.  
+ 
+
+ Example 3.2  
+ sc_net  =
+ 
+    1.  
+ 
+ bcc_net  =
+ 
+    2.  
+ 
+ fcc_net  =
+ 
+    4.  
+ 
+
+ Effective number of lattice points are as: 
+
+
+ Space lattice 	 Abbreviation 	 Effective number of lattice point in unit cell 
+ 
+
+ Simple cubic 		SC 				 1
+ Body center cubic	BCC 				 2
+ Face centered cubic	FCC 				 4  
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ a  =
+ 
+    3.16  
+ 
+ l1  =
+ 
+    1.  
+ 
+ l2  =
+ 
+    2.  
+ 
+ l3  =
+ 
+    3.  
+ 
+ l4  =
+ 
+    4.  
+ 
+ theta1  =
+ 
+    20.3  
+ 
+ theta2  =
+ 
+    29.2  
+ 
+ theta3  =
+ 
+    36.7  
+ 
+ theta4  =
+ 
+    43.6  
+ 
+ n  =
+ 
+    1.  
+ 
+ lambda  =
+ 
+    1.54  
+ 
+
+ Example 3.7 
+ d1  =
+ 
+    2.2194317  
+ 
+ d2  =
+ 
+    1.5783228  
+ 
+ d3  =
+ 
+    1.2884331  
+ 
+ d4  =
+ 
+    1.1165577  
+ 
+ x1  =
+ 
+    2.0271719  
+ 
+ x2  =
+ 
+    4.0085059  
+ 
+ x3  =
+ 
+    6.0152051  
+ 
+ x4  =
+ 
+    8.0096186  
+ 
+
+ Interplanar spacing is  2.027 angstrom  
+
+
+ For a^2/d^2 = 2 	 Reflection plane is {110} 
+ 
+
+ For a^2/d^2 = 4 	 Reflection plane is {200} 
+ 
+
+ For a^2/d^2 = 6 	 Reflection plane is {211} 
+ 
+
+ For a^2/d^2 = 8 	 Reflection plane is {220} 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ d  =
+ 
+    114.6  
+ 
+ lambda  =
+ 
+    1.54  
+ 
+ s1  =
+ 
+    86.  
+ 
+ s2  =
+ 
+    100.  
+ 
+ s3  =
+ 
+    148.  
+ 
+ s4  =
+ 
+    180.  
+ 
+ s5  =
+ 
+    188.  
+ 
+ s6  =
+ 
+    232.  
+ 
+ s7  =
+ 
+    272.  
+ 
+
+ Example 3.8 
+ R  =
+ 
+    57.3  
+ 
+ k  =
+ 
+    0.25  
+ 
+ a1  =
+ 
+    0.1343231  
+ 
+ a2  =
+ 
+    0.1786062  
+ 
+ a3  =
+ 
+    0.3621813  
+ 
+ a4  =
+ 
+    0.5  
+ 
+ a5  =
+ 
+    0.5348782  
+ 
+ a6  =
+ 
+    0.7191856  
+ 
+ a7  =
+ 
+    0.8596699  
+ 
+ c  =
+ 
+    22.  
+ 
+ 
+
+ Within experimental error, values are as in integral ratio are as: 
+ 3:4:8:11:12:16:19 
+
+ So, this structure is FCC and material is copper with 3.62 angstrom lattice parameter 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ E  =
+ 
+    1.640D-18  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    2.998D+08  
+ 
+
+ Example 4.1 
+ nu  =
+ 
+    2.475D+15  
+ 
+ lambda  =
+ 
+    0.0000001  
+ 
+
+ Frequency of emitted radiation is 2.48e+15 Hz 
+
+ Wavelength of emitted radiation is 1.21e-07 m 
+	 	or		 1211 angstrom 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ e_a  =
+ 
+    713.  
+ 
+ e_b  =
+ 
+    347.  
+ 
+ a  =
+ 
+    4.  
+ 
+ b  =
+ 
+    2.  
+ 
+
+ Example 4.3 
+ k  =
+ 
+    2.  
+ 
+ e  =
+ 
+    694.  
+ 
+
+ 694 kJ should be the enthalpy of atomization of diamond 
+
+ However, 694 kJ is very  to 713 kJ 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ del_h  =
+ 
+    6.02  
+ 
+ n  =
+ 
+    2.  
+ 
+ del_b  =
+ 
+    20.5  
+ 
+
+ Example 4.4 
+ f  =
+ 
+    0.1468293  
+ 
+
+ Fraction of hydrogen bonds which broken is 0.15 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ n_c  =
+ 
+    0.125  
+ 
+ N_c  =
+ 
+    8.  
+ 
+ n_b  =
+ 
+    1.  
+ 
+ N_b  =
+ 
+    4.  
+ 
+ n_f  =
+ 
+    0.5  
+ 
+ N_f  =
+ 
+    6.  
+ 
+ a  =
+ 
+    1.  
+ 
+ m  =
+ 
+    12.  
+ 
+
+ Example 5.1 
+
+ Part A: 
+ N  =
+ 
+    8.  
+ 
+ r  =
+ 
+    0.2165064  
+ 
+ p_e  =
+ 
+    0.3400874  
+ 
+ 
+
+ Packing efficiency of diamond is 0.34 
+
+
+ Part B: 
+ a  =
+ 
+    3.57  
+ 
+ d  =
+ 
+    3502.472  
+ 
+
+ Density of diamond is 3502 Kg/m^3 
+
+ Density of diamond is 3.5 g/cm^3 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ PR  =
+ 
+    1.  
+ 
+ Example 5.3 
+ RT  =
+ 
+    0.5773503  
+ 
+ PT  =
+ 
+    0.8164966  
+ 
+ c_a  =
+ 
+    1.6329932  
+ 
+ 
+
+ c/a ratio for an ideally  packed HCP crystal is 1.633  
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ r  =
+ 
+    1.  
+ 
+ a  =
+ 
+    0.75  
+ 
+
+ Example 5.4 
+ pt  =
+ 
+    1.6329932  
+ 
+ s  =
+ 
+    0.2247449  
+ 
+
+ Size of largest sphere that can fit into a tetrahedral void is 0.225r 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ theta  =
+ 
+    60.  
+ 
+
+ Example 5.5 
+ r_c_a  =
+ 
+    0.1547005  
+ 
+
+ Critical radius ratio for triangular coordination is 0.155  
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ r_mg  =
+ 
+    0.78  
+ 
+ r_o  =
+ 
+    1.32  
+ 
+ n  =
+ 
+    4.  
+ 
+ m_o  =
+ 
+    16.  
+ 
+ m_mg  =
+ 
+    24.3  
+ 
+
+ Example 5.6 
+ a  =
+ 
+    4.2  
+ 
+ d  =
+ 
+    3611.813  
+ 
+
+ Density of MgO is 3611 Kg/m^3 
+
+ Density of MgO is 3.61 g/cm^3 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    300.  
+ 
+ t3  =
+ 
+    900.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ del_hf_al  =
+ 
+    68.  
+ 
+ del_hf_ni  =
+ 
+    168.  
+ 
+
+ Example 6.1 
+ 
+
+ Equilibrium concentration of vacancies of aluminium at 0K is 0 
+ n_N  =
+ 
+    1.445D-12  
+ 
+
+ Equilibrium concentration of vacancies of aluminium at 300K is 1.44e-12 
+ n_N  =
+ 
+    0.0001130  
+ 
+
+ Equilibrium concentration of vacancies of aluminium at 900K is 1.13e-04 
+ 
+
+
+ Equilibrium concentration of vacancies of Nickel at 0K is 0 
+ n_N  =
+ 
+    5.592D-30  
+ 
+
+ Equilibrium concentration of vacancies of Nickel at 300K is 5.59e-30 
+ n_N  =
+ 
+    1.775D-10  
+ 
+
+ Equilibrium concentration of vacancies of Nickel at 900K is 1.77e-10 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ a  =
+ 
+    2.87  
+ 
+ b  =
+ 
+    2.49  
+ 
+ G  =
+ 
+    80.2  
+ 
+
+ Example 6.2 
+ E  =
+ 
+    2.486D-09  
+ 
+
+ Line energy of dislocation is 2.49e-09 J m^-1 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ a  =
+ 
+    1.000D+10  
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ R  =
+ 
+    8.314  
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    1000.  
+ 
+ del_hf  =
+ 
+    100.  
+ 
+ d  =
+ 
+    2.  
+ 
+ v  =
+ 
+    0.0000055  
+ 
+
+ Example 6.4 
+ n  =
+ 
+    6.543D+23  
+ 
+ k  =
+ 
+    5.000D+09  
+ 
+ b  =
+ 
+    13086.621  
+ 
+ c  =
+ 
+    0.0000026  
+ 
+ 
+
+ Average down climb of crystal is 2.62e-06m 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ E  =
+ 
+    56.4  
+ 
+ N_a  =
+ 
+    6.023D+23  
+ 
+ n  =
+ 
+    12.  
+ 
+ m  =
+ 
+    3.  
+ 
+ N  =
+ 
+    1.770D+19  
+ 
+
+ Example 6.5 
+ b_e  =
+ 
+    5.618D-19  
+ 
+ e_b  =
+ 
+    1.405D-19  
+ 
+ s_e  =
+ 
+    2.4861697  
+ 
+
+ Surface enthalpy of copper is 2.49 J m^-2 
+
+ Surface enthalpy of copper is 2486 erg cm^-2 
+ 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ Gamma_gb  =
+ 
+    1.  
+ 
+ Gamma_s  =
+ 
+    3.  
+ 
+
+ Example 6.6 
+ theta  =
+ 
+    2.8066965  
+ 
+
+ Angle at the bottom of groove of a boundary is 161 degrees. 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ c  =
+ 
+    2.  
+ 
+
+ Example 7.1 
+ p  =
+ 
+    3.  
+ f  =
+ 
+    3.  
+
+
+ Degree of freedom for two components when 
+ number of phases is 1 is 3 p  =
+ 
+    3.  
+ f  =
+ 
+    2.  
+
+
+ Degree of freedom for two components when 
+ number of phases is 2 is 2 p  =
+ 
+    3.  
+ f  =
+ 
+    1.  
+
+
+ Degree of freedom for two components when 
+ number of phases is 3 is 1 p  =
+ 
+    3.  
+ f  =
+ 
+    0.  
+
+
+ Degree of freedom for two components when 
+ number of phases is 4 is 0 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ f  =
+ 
+    0.  
+ 
+ 
+
+ Example 7.2 
+ C  =
+ 
+    3.  
+ 
+
+ Minimum number of components in system is 3 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ L  =
+ 
+    23.3  
+ 
+ a  =
+ 
+    3.5  
+ 
+ ice  =
+ 
+    0.  
+ 
+
+ Example 7.3 
+ f_ice  =
+ 
+    0.8497854  
+ 
+
+ Fractional amount of pure water that can be extracted from sea water is 0.85 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ a  =
+ 
+    0.  
+ 
+ b  =
+ 
+    0.8  
+ 
+ c  =
+ 
+    0.6  
+ 
+ f  =
+ 
+    0.88  
+ 
+
+ Example 7.5 
+ f_pro_alpha  =
+ 
+    0.25  
+ 
+ f_perlite  =
+ 
+    0.75  
+ 
+ f_eut  =
+ 
+    0.66  
+ 
+
+ Composition of proeutectoid ferrite is 0.25 
+
+ Composition of eutectoid ferrite is 0.66 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ t  =
+ 
+    5.  
+ 
+ c  =
+ 
+    10.  
+ 
+ D  =
+ 
+    1.000D-09  
+ 
+
+ Example 8.1 
+ j  =
+ 
+    0.000002  
+ 
+
+ Outward flux is 2e-06 kg m^-2 s^-1 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ D_0  =
+ 
+    0.000024  
+ 
+ Q  =
+ 
+    121000.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ T  =
+ 
+    550.  
+ 
+ k  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    0.1  
+ 
+ c_x  =
+ 
+    0.4  
+ 
+ A  =
+ 
+    2.  
+ 
+ B  =
+ 
+    2.  
+ 
+
+ Example 8.2 
+ x  =
+ 
+  - 0.1  
+ 
+ D_cu_al  =
+ 
+    5.015D-13  
+ 
+ k  =
+ 
+    0.8  
+ 
+ z  =
+ 
+    0.9  
+ 
+ t  =
+ 
+    6154.8731  
+ 
+ 
+
+ Material can be kept at 550 degree Celsius for nearly 102 minute 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ D_0  =
+ 
+    0.00007  
+ 
+ Q  =
+ 
+    157.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ T  =
+ 
+    950.  
+ 
+ c2  =
+ 
+    0.8  
+ 
+ cs  =
+ 
+    0.  
+ 
+ c_x  =
+ 
+    0.6  
+ 
+ t  =
+ 
+    4.  
+ 
+ a  =
+ 
+    1.  
+ 
+
+ Example 8.3 
+ A  =
+ 
+    0.  
+ 
+ B  =
+ 
+    0.8  
+ 
+ D  =
+ 
+    1.378D-11  
+ 
+ k  =
+ 
+    0.7111556  
+ 
+ z  =
+ 
+    0.81  
+ 
+ x  =
+ 
+    0.0007217  
+ 
+ 
+
+ Depth up to which machining is required is nearly 0.72 mm 
+ 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ D  =
+ 
+    4.000D-17  
+ 
+ c1  =
+ 
+    0.  
+ 
+ cs  =
+ 
+    3.000D+26  
+ 
+ c_x  =
+ 
+    1.000D+23  
+ 
+ x  =
+ 
+    0.000002  
+ 
+
+ Example 8.4 
+ A  =
+ 
+    3.000D+26  
+ 
+ B  =
+ 
+    3.000D+26  
+ 
+ k  =
+ 
+    0.9996667  
+ 
+ z  =
+ 
+    2.55  
+ 
+ t  =
+ 
+    3844.6751  
+ 
+ 
+
+ Time required to get required boron concentration is 3844 sec 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ r  =
+ 
+    10.  
+ 
+ t  =
+ 
+    4.  
+ 
+
+ Example 8.5 
+ r  =
+ 
+    8.000D-08  
+ 
+
+ Ratio of cross sectional areas is 8e-08  
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ del_t1  =
+ 
+    0.  
+ 
+ del_t2  =
+ 
+  - 5.  
+ 
+ del_t3  =
+ 
+  - 40.  
+ 
+ del_h  =
+ 
+    6.02  
+ 
+ T_m  =
+ 
+    273.  
+ 
+ Gamma  =
+ 
+    0.076  
+ 
+ v  =
+ 
+    19.  
+ 
+
+ Example 9.1 
+
+ Part A 
+
+ At del_t = 0, there is no supercooling. So there is no critical radius 
+
+
+ Part B 
+ del_f  =
+ 
+    2.184D-16  
+ 
+ r  =
+ 
+    2.619D-08  
+ 
+
+ Critical free energy of nucleation is 2.2e-16J 
+
+ Critical radius is 262 angstrom 
+
+
+ Part C 
+ temp_r  =
+ 
+    8.  
+ 
+ del_f_  =
+ 
+    3.413D-18  
+ 
+ r_  =
+ 
+    3.274D-09  
+ 
+ 
+
+ Critical free energy of nucleation is 3.4e-18J 
+
+ Critical radius is 33 angstrom. 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ k  =
+ 
+    2.303  
+ 
+ a1  =
+ 
+    1.000D+42  
+ 
+ a2  =
+ 
+    1000000.  
+ 
+ a3  =
+ 
+    1.000D+10  
+ 
+Example 9.2 
+ I1  =
+ 
+    206789.13  
+ 
+ I2  =
+ 
+    183812.56  
+ 
+ del_f  =
+ 
+    22976.57  
+ 
+ a  =
+ 
+    10000.  
+ 
+ 
+
+  A change of 23 KJ mol^-1 energy is required to increase nucleation factor from 
+  1e+04 m^-3 s^-1  to  1e+10 m^-3 s^-1  
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ Gamma_alpha_del  =
+ 
+    0.5  
+ 
+ Gamma_alpha_beta  =
+ 
+    0.5  
+ 
+ Gamma_beta_del  =
+ 
+    0.01  
+ 
+ 
+
+ Example 9.4 
+ theta  =
+ 
+    0.2003348  
+ 
+ del_f_ratio  =
+ 
+    0.000298  
+ 
+ 
+ 
+
+ del_f_het is 0.0003th fraction of  del_f_homo. 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ mu  =
+ 
+    4.550D+10  
+ 
+ b  =
+ 
+    2.550D-10  
+ 
+ n1  =
+ 
+    1.000D+09  
+ 
+ n2  =
+ 
+    1.000D+13  
+ 
+
+ Example 9.6 
+ E  =
+ 
+    14793.188  
+ 
+ del_g  =
+ 
+    14793.188  
+ 
+
+ Free energy change during recrystallization is -14793 J m^-3 
+ 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ m  =
+ 
+    9.  
+ 
+ A  =
+ 
+    7.680D-29  
+ 
+ r_0  =
+ 
+    2.500D-10  
+ 
+
+ Example 10.1 
+ B  =
+ 
+    1.30D-106  
+ 
+ 
+ Y  =
+ 
+    1.573D+11  
+ 
+ 
+
+ Young’s modulus of material is 157 GN m^-2 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ Y_f  =
+ 
+    440.  
+ 
+ Y_m  =
+ 
+    71.  
+ 
+ sigma_total  =
+ 
+    100.  
+ 
+
+ Example 10.2 
+ r  =
+ 
+    6.1971831  
+ 
+ sigma_f  =
+ 
+    242.1574  
+ 
+
+ Part A: 
+
+ When load is applied parallel to fiber then, stress in fiber is 242 MN m^-2 
+ 
+
+
+ Part B: 
+
+ When load is applied perpendicular to fiber then, stress in fiber and matrix is same i.e. 100 MN m^-2 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ t_r  =
+ 
+    100.  
+ 
+ d  =
+ 
+    2.5  
+ 
+
+ Example 10.3 
+ f  =
+ 
+    0.01  
+ 
+ D  =
+ 
+    6.250D-22  
+ 
+
+ Diffusion coefficient is 6.25e-22 m^2 s^-1 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ b  =
+ 
+    2.  
+ 
+ v  =
+ 
+    160.  
+ 
+ tau_pn  =
+ 
+    1000.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    100.  
+ 
+ t3  =
+ 
+    300.  
+ 
+ t4  =
+ 
+    500.  
+ 
+
+ Example 11.2 
+
+
+ Part A: 
+ T  =
+ 
+    0.  
+ 
+ tau_app  =
+ 
+    1000.  
+ 
+
+ The stress required to move the dislocation at temperature 0K is 1000 MNm^-2 
+
+
+ Part B: 
+ T  =
+ 
+    100.  
+ 
+ tau_app  =
+ 
+    655.  
+ 
+
+ The stress required to move the dislocation at temperature 100K is 655 MNm^-2 
+
+
+ Part C: 
+ T  =
+ 
+    300.  
+ 
+ tau_app  =
+ 
+  - 35.  
+ 
+
+ Stress to be applied is zero
+ The stress required to move the dislocation at temperature 300K entirely overcome by thermal fluctuations 
+
+
+ Part D: 
+ T  =
+ 
+    500.  
+ 
+ tau_app  =
+ 
+  - 725.  
+ 
+
+ Stress to be applied is zero
+ The stress required to move the dislocation at temperature 500K entirely overcome by thermal fluctuations 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ mu  =
+ 
+    44.  
+ 
+ b  =
+ 
+    2.55  
+ 
+ tau  =
+ 
+    35.  
+ 
+Example 11.3 
+ l  =
+ 
+    0.0000003  
+ 
+ rho  =
+ 
+    9.731D+12  
+ 
+ 
+
+ Dislocation density in copper is 9.7e+12  m^-2 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ sigma1  =
+ 
+    120.  
+ 
+ sigma2  =
+ 
+    220.  
+ 
+ d1  =
+ 
+    0.04  
+ 
+ d2  =
+ 
+    0.01  
+ 
+ n  =
+ 
+    9.  
+ 
+Example 11.4 
+ k  =
+ 
+    632455.53  
+ 
+ sigma_i  =
+ 
+    20000000.  
+ 
+ d  =
+ 
+    0.0158730  
+ 
+ sigma_y  =
+ 
+    1.787D+08  
+ 
+ 
+
+ Yield stress for a grain size of ASTM 9 is 179 MN m^-2 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ n1  =
+ 
+    1000000.  
+ 
+ n2  =
+ 
+    1000.  
+ 
+
+ Example 11.5 
+ k  =
+ 
+    10.  
+ 
+
+ Yield strength would have decreased to 10% of its initial value. 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ c  =
+ 
+    2.  
+ 
+ Y  =
+ 
+    70.  
+ 
+ Gamma  =
+ 
+    1.  
+ 
+
+ Example 12.1 
+ sigma_f  =
+ 
+    149.27053  
+ 
+ r  =
+ 
+    468.94721  
+ 
+
+ Fracture strength of 150 MN m^-2 is 1/500th of young’s modulus.  
+
+ Thus Griffiths criterion bridges the gap between the 
+ observed and ideal strengths of brittle material 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ Gamma  =
+ 
+    1.5  
+ 
+ Y  =
+ 
+    200.  
+ 
+ c  =
+ 
+    2.  
+ 
+ 
+
+ Example 12.2 
+ sigma_f  =
+ 
+    3.090D+08  
+ 
+ 
+
+ Brittle fracture strength at low temperatures is 309 MNm^-2  
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ Gamma  =
+ 
+    2.  
+ 
+ Y  =
+ 
+    350.  
+ 
+ c  =
+ 
+    2.  
+ 
+ de_dt1  =
+ 
+    0.01  
+ 
+ de_dt2  =
+ 
+    0.00001  
+ 
+
+ Example 12.3 
+
+ Part A: 
+ sigma_f  =
+ 
+    4.720D+08  
+ 
+ sigma_y  =
+ 
+    472.03487  
+ 
+ T  =
+ 
+    302.42065  
+ 
+ 
+
+ Transition temperature for strain rate 1e-02 s^-1 is 302 K 
+
+
+ Part B: 
+ 
+ T  =
+ 
+    229.04343  
+ 
+ 
+
+ Transition temperature for strain rate 1e-05 s^-1 is 229 K 
+ 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ j  =
+ 
+    15.  
+ 
+ m  =
+ 
+    0.0243  
+ 
+ F  =
+ 
+    96490.  
+ 
+ n  =
+ 
+    2.  
+ 
+ t  =
+ 
+    10.  
+ 
+
+ Example 13.2 
+ a  =
+ 
+    0.5956509  
+ 
+
+ Amount of magnesium required is 0.6 kg m^-2 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ n_x1  =
+ 
+    1.  
+ 
+ n_y1  =
+ 
+    1.  
+ 
+ n_z1  =
+ 
+    1.  
+ 
+ n_x2  =
+ 
+    2.  
+ 
+ L  =
+ 
+    10.  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ m_e  =
+ 
+    9.109D-31  
+ 
+
+ Example 14.1 
+ E1  =
+ 
+    1.807D-33  
+ 
+ E2  =
+ 
+    3.615D-33  
+ 
+ E  =
+ 
+    1.807D-33  
+ 
+
+ Energy difference is 1.81e-33 J  
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ tau  =
+ 
+    2.000D-14  
+ 
+ e  =
+ 
+    1.602D-19  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ 
+
+ Example 14.2 
+ n  =
+ 
+    8.493D+28  
+ 
+ 
+ sigma  =
+ 
+    47905711.  
+ 
+
+ Conductivity of copper at 300 K is 4.8e+07 ohm^-1 m^-1  
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ r_cu  =
+ 
+    1.800D-08  
+ 
+ r_Ni_cu  =
+ 
+    7.000D-08  
+ 
+ per1  =
+ 
+    4.  
+ 
+ per2  =
+ 
+    1.  
+ 
+
+ Example 14.3 
+ r  =
+ 
+    1.300D-08  
+ 
+
+ Resistivity due to impurity scattering of 1 % of Nickel in copper lattice is 1.3e-08 ohm-m 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH15/EX15.1/Ex15_1.sce #
+ 
+ 
+ rho  =
+ 
+    3000.  
+ 
+ mu_e  =
+ 
+    0.14  
+ 
+ mu_h  =
+ 
+    0.05  
+ 
+ e  =
+ 
+    1.602D-19  
+ 
+
+ Example 15.1 
+ sigma  =
+ 
+    0.0003333  
+ 
+ n  =
+ 
+    1.095D+16  
+ 
+
+ Intrinsic carrier density is 1.095e+16 m^-3 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH16/EX16.1/Ex16_1.sce #
+ 
+ 
+ a  =
+ 
+    2.87  
+ 
+ n  =
+ 
+    2.  
+ 
+ m  =
+ 
+    1750.  
+ 
+ mu  =
+ 
+    9.273D-24  
+ 
+
+ Example 16.1 
+ m_atom  =
+ 
+    2.068D-23  
+ 
+ mu_b  =
+ 
+    2.2306605  
+ 
+ 
+
+ Net magnetic moment per iron atom in crystal is 2.068e-23 Am^2 
+
+ In unit of mu_b, Net magnetic moment per iron atom in crystal is 2.2  
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH16/EX16.2/Ex16_2.sce #
+ 
+ 
+ t1  =
+ 
+    0.  
+ 
+ t2  =
+ 
+    300.  
+ 
+ m_net_Gd  =
+ 
+    7.  
+ 
+ m_net_Co  =
+ 
+    1.7  
+ 
+ t_c_Gd  =
+ 
+    289.  
+ 
+
+ Example 16.2 
+
+ Part A: 
+
+ At 0 K, Net magnetic moment of gadolinium i.e. 7 is greater than net magnetic moment of cobalt i.e. 1.7 
+ So, Gd will have higher saturation magnetization 
+
+
+ Part B: 
+
+ At temperature 300 K, Gd is above its curie temperature of 289K
+ Gd will be paramagnetic at 300 K and will have negligible magnetization
+ as compared to Co, which has higher curie temperature 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH16/EX16.4/Ex16_4.sce #
+ 
+ 
+ v  =
+ 
+    0.01  
+ 
+ x  =
+ 
+    0.0001  
+ 
+ y  =
+ 
+    100.  
+ 
+ a  =
+ 
+    60000.  
+ 
+ f  =
+ 
+    50.  
+ 
+
+ Example 16.4 
+ e  =
+ 
+    600.  
+ 
+ E  =
+ 
+    6.  
+ 
+ P  =
+ 
+    300.  
+ 
+
+ Power loss due to hysteresis is 300 W 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH16/EX16.5/Ex16_5.sce #
+ 
+ 
+ Total1  =
+ 
+    2300.  
+ 
+ Total2  =
+ 
+    750.  
+ 
+
+ Example 16.5 
+ W_e  =
+ 
+    400.  
+ 
+
+ Eddy current loss at normal voltage and frequency is 1600W 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH17/EX17.1/Ex17_1.sce #
+ 
+ 
+ l  =
+ 
+    10.  
+ 
+ b  =
+ 
+    10.  
+ 
+ d  =
+ 
+    2.  
+ 
+ c  =
+ 
+    1.000D-09  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+
+ Example 17.1 
+ epsilon_r  =
+ 
+    2259.887  
+ 
+ 
+
+ Relative dielectric constant is 2259 
+ 
+ 
+grepthis#Materials_Science_And_Engineering_-_A_First_Course_V._Raghavan_3159/CH17/EX17.2/Ex17_2.sce #
+ 
+ 
+ Ti_shift  =
+ 
+    0.06  
+ 
+ O_shift  =
+ 
+    0.06  
+ 
+ o_shift  =
+ 
+    0.08  
+ 
+ O_charge  =
+ 
+    2.  
+ 
+ o_charge  =
+ 
+    2.  
+ 
+ Ti_charge  =
+ 
+    4.  
+ 
+ n_O  =
+ 
+    2.  
+ 
+ n_o  =
+ 
+    1.  
+ 
+ n_Ti  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+
+ Example 17.2 
+ p_Ti  =
+ 
+    3.840D-30  
+ 
+ p_O  =
+ 
+    3.840D-30  
+ 
+ p_o  =
+ 
+    2.560D-30  
+ 
+ Total  =
+ 
+    1.024D-29  
+ 
+ P  =
+ 
+    0.1604090  
+ 
+
+ Polarization of BaTiO3 crystal is 0.16 Cm^-2  
+ 
+ 

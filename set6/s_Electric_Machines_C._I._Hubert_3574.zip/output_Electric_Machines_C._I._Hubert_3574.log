@@ -1,0 +1,4358 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 104
+
+grepthis#Electric_Machines_C._I._Hubert_3574/CH1/EX1.6/EX1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Frequency = 5.7325 Hz  
+
+ Pole flux = 0.11 Wb  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH1/EX1.7/EX1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bmax1  =
+ 
+    1.  
+ 
+ Bmax2  =
+ 
+    0.62  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Eddy current loss if the apparatus is connected to a 60 Hz source  = 1.42 kW  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.2/EX2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Turns ratio = 10   
+
+ Number of primary windings = 1201 turns  
+
+ Number of secondary windings = 120 turns  
+
+ Magnetizing current = 0.25 A  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.3/EX2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Exciting current = 0.0575 A  
+
+ Exciting current quadrature component 1 = 0.2738 A  
+
+ Exciting current quadrature component 2 = 0.268 A  
+
+ Equivalent magnetic reactance = 8.97 kOhm  
+
+ Equivalent core loss resistance = 41.7 kOhm  
+
+ Exciting current in step-up mode = 0.575 A  
+
+ Exciting current in step-up mode quadrature component 1 = 2.74 A  
+
+ Exciting current in step-up mode quadrature component 2 = 2.68 A  
+
+ Equivalent  magnetic reactance in the step up mode  = 89.7 Ohm  
+
+ Equivalent core loss resistance in the step up mode = 417.4 Ohm  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.4/EX2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Turns ratio = 10   
+
+ Secondary voltage = 12 V 
+
+ Load current magnitude = 0.12 A 
+
+ Load current angle = -30 deg 
+
+ Input current to the primary magnitude = 0.012 A 
+
+ Input current to the primary angle = -30 deg 
+
+ Input impedance magnitude = 10 KOhm 
+
+ Input impedance angle = 30 deg 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.5/EX2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ XLS  =
+ 
+    0.0121  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zeq_LS  =
+ 
+    4.888 + 9.6784i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Equivalent impedance of the transformer magnitude = 10.84 Ohm  
+
+ Equivalent impedance of the transformer angle = 63.2 deg  
+
+ Input impedance of the combined transformer and load magnitude = 621.85 Ohm  
+
+ Input impedance of the combined transformer and load angle = 16.99 deg  
+
+ Actual input voltage at the high side = 4858 V 
+ 
+ Input impedance magnitude when load is disconnected = 7680 Ohm 
+ 
+ Input impedance angle when load is disconnected = 79.99 deg 
+ 
+ Exciting current magnitude = 0.63 A 
+ 
+ Exciting current angle = -80 deg 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.6/EX2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Equivalent input impedance of the transformer and load combination magnitude = 164.75 Ohm  
+
+ Equivalent input impedance of the transformer and load combination angle = 21.63 deg  
+
+ Primary current magnitude = 14.57 A  
+
+ Primary current angle = -21.63 deg  
+
+ Actual input voltage magnitude = 582.7 V 
+ 
+ Actual input voltage angle = -1.63 deg 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.8/EX2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RPU  =
+ 
+    0.009  
+ 
+ XPU  =
+ 
+    0.013  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Percent impedance = 1.58 Percent  
+
+ Rated high side current = 31.25 A 
+ 
+ High side equivalent resistance = 0.691 Ohm 
+ 
+ High side equivalent reactance = 0.998 Ohm 
+ 
+ High side fault current magnitude = 920 Ohm 
+ 
+ High side fault current angle = -23.55 deg 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.9/EX2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FP  =
+ 
+    0.75  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Transformer regulation = 0.035  
+
+ Secondary voltage when the load is disconnected  = 621 V 
+ 
+ Input primary voltage = 7452 V 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.10/EX2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FP  =
+ 
+    0.75  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Transformer regulation = -0.0147  
+
+ Secondary voltage when the load is disconnected  = 591.2 V 
+ 
+ Input primary voltage = 7094 V 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.11/EX2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Transformer regulation = 0.748  
+
+ Transformer regulation in percentage= 74.8  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.12/EX2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ eta  =
+ 
+    0.965  
+ 
+ Hl  =
+ 
+    0.71  
+ 
+ Vt60  =
+ 
+    375.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pcore  =
+ 
+    934.58549  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Core loss = 934.6 W 
+
+ Core loss at 375V, 50 Hz supply = 741.18 W 
+
+ Efficiency = 96.3 Percent 
+
+ Efficiency = 0 with the load is disconnected as Pout=0 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.13/EX2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ eta  =
+ 
+    0.9796135  
+ 
+ 
+ 
+
+ Efficiency at rated load = 0.977  
+
+ Efficiency at 70 percent load = 0.980  
+ 
+ There is very little change in efficiency   
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH2/EX2.14/EX2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Equivalent core-loss resistance = 101.5 Ohm 
+
+ Magnetizing reactance = 17.91 Ohm 
+
+ Per unit resistance = 0.016  
+
+ Per unit reactance = 0.031  
+
+ Per unit impedance magnitude = 0.035  
+
+ Per unit impedance angle = 62.8  
+
+ Voltage regulation in percentage = 3.26  
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.1/EX3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Load current  = 8 A  
+
+ Incoming line current = 2 A  
+
+ Transformed current = 6 A  
+
+ Apparent power conducted = 1200 VA  
+
+ Apparent power transformed = 3600 VA  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.2/EX3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Rated primary current = 41.67 A  
+
+ Rated secondary current = 4.167 A  
+
+ Apparent power rating = 110 KVA  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.3/EX3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Actual output voltage supplied to the air conditioner is = 233.2 V  
+
+ Actual output voltage assuming utilization voltage as 246 V is = 230.6 V  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.4/EX3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Circulating current magnitude = 65.6 A  
+
+ Circulating current angle = -68.0 deg  
+
+ Circulating current as a percent of the rated current = 30.2 Percent  
+
+ Percent difference in secondary voltage = 2.2 Percent  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.5/EX3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Rated high side current of transformer A = 31.25 A  
+
+ Rated high side current of transformer B = 83.333 A  
+
+ Percent of total bank current drawn by transformer A = 31 Percent  
+
+ Percent of total bank current drawn by transformer B = 70 Percent  
+
+ Maximum load that can be handled by the bank = 101.79 A  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.6/EX3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Percent of total bank current drawn by transformer A = 55.15 Percent  
+
+ Percent of total bank current drawn by transformer B = 44.85 Percent  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.7/EX3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vphases  =
+ 
+    240.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Bank ratio = 17.3   
+
+ Transformer ratio = 10.0   
+
+ Rated line current for the high side = 20.8 A  
+
+ Rated phase current for the high side = 20.8 A  
+
+ Rated line  current for the low side = 360.8 A  
+
+ Rated phase current for the low side = 208.3 A  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.8/EX3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Capacity of the bank when operating open-delta is = 43.3 kVA  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH3/EX3.9/EX3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FP  =
+ 
+    0.9  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Minimum power rating required for each transformer = 32.1 kVA  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH4/EX4.1/EX4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Synchronous speed of a six pole induction motor = 1020 r/min  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH4/EX4.2/EX4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Synchronous speed = 1200 r/min  
+
+ Slip = 0.0833   
+
+ Rotor frequency = 5.0 Hz  
+
+ Rotor voltage = 8.33 V  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH4/EX4.3/EX4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Synchronous speed = 1200 r/min  
+
+ Slip = 0.030  
+
+ Rotor impedance magnitude = 3.38 Ohm  
+
+ Rotor impedance angle = 9.20 deg  
+
+ Rotor current magnitude = 44.4 Ohm  
+
+ Rotor current angle = -9.2 deg  
+
+ Rotor current magnitude by changing the shaft load = 18.6 Ohm  
+
+ Rotor current angle by changing the shaft load = -3.83 deg  
+
+ New rotor speed = 1185 r/min  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH4/EX4.4/EX4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Total three phase apparent power crossing the air gap (VA) = 
+ 
+    19733. + 3196.i  
+ 
+
+ Active power component = 19732 W 
+
+ Reactive power component = 3196 var  
+
+ Rotor power factor = 0.99  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH4/EX4.5/EX4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Shaft speed = 1767.5 r/min  
+
+ Mechanical power developed in hp = 19.19 hp  
+
+ Developed torque = 57.0 lb-ft  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH4/EX4.6/EX4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Power input = 81978 W 
+
+ Total losses = 7378 W 
+
+ Air gap power = 77478 W  
+
+ Shaft speed = 1176 r/min  
+
+ Power factor = 0.83  
+
+ Combined windage, friction and stray load loss = 1329 W  
+
+ Shaft torque = 446.6 lb-ft  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.1/EX5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Locked rotor torque = 102.8 lb-ft  
+
+ Breakdown torque = 86.8 lb-ft  
+
+ Pull up torque = 75.4  lb-ft 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.2/EX5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Slip = 0.0125  
+
+ Line current magnitude = 15.1126 A 
+
+ Line current angle = -30.2271 deg 
+
+ Apparent power = 10404 W 
+
+ Active power = 6062 var 
+
+ Reactive power = 12041 VA 
+
+ Power factor of the motor = 0.864  
+
+ Equivalent rotor curret magnitude = 12.6853 A 
+
+ Equivalent rotor curret angle = -6.8806 deg 
+
+ Stator copper loss = 137 W 
+
+ Rotor copper loss = 121 W 
+
+ Core loss = 612 W 
+
+ Air-gap power = 9655 W 
+
+ Mechanical power developed = 9534 W 
+
+ Developed torque = 56.64 lb-ft 
+
+ Shaft horsepower = 12.56 hp 
+
+ Shaft torque = 55.7 lb-ft 
+
+ Effiency = 0.900 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.3/EX5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Speed at which maximum torque is developed = 1532 r/min  
+
+ Maximum torque that the machine can develop = 366.5 lb-ft  
+
+ Rated shaft torque = 120.0 lb-ft  
+
+ Maximum torque is developed at slip of 0.1490 and 
+ hence machine is placed in design A category  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.4/EX5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Amount of torque that must be removed from the motor shaft = 28.3  lb-ft 
+
+ Expected minimum starting torque for the lower voltage = 169.2 lb-ft  
+
+ Percent change in developed torque = -19 Percent  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.5/EX5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Shaft speed = 589 r/min  
+
+ Rotor current referred to the stator = 112 A  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.6/EX5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ New operating speed in case of voltage and frequency drop = 1101 r/min  
+
+ New shaft horsepower = 18.7 hp  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.7/EX5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Expected locked-rotor line current = 173 A  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.8/EX5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Expected minimum locked-rotor torque = 270 lb-ft 
+
+ Expected minimum locked-rotor torque after drop = 265 lb-ft 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.9/EX5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Shaft speed = 1470 r/min 
+
+ Slip = 0.020  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.10/EX5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Low range of rotor speed = 311 r/min 
+
+ High range of rotor speed = 504 r/min 
+
+ Required rheostat resistance = 0.115 Ohm/phase 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.11/EX5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Rotor frequency = 0.795 Hz 
+
+ Slip at which TDmax occurs = 0.0798  
+
+ Rotor speed at 1/2 rated torque = 1488 r/min 
+
+ Required rheostat resistance = 0.0627 Ohm/phase 
+
+ Rated torque = 1423 lb-ft 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.12/EX5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Percent change in rotor circuit resistance = 78 Percent increase 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.13/EX5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Lower limit of expected range of in-rush current = 1054 A 
+
+ Upper limit of expected range of in-rush current = 1186 A 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.14/EX5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Percent voltage unbalance  = 2.58  
+
+ Expected approximate temperature rise  = 125 deg C 
+
+ Expected insulation life = 7.2 years 
+
+ Required derating of motor = 27.6 hp 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.15/EX5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Motor resistance 1 = 0.119 Ohm 
+
+ Motor reactance 1 = 0.567 Ohm 
+
+ Motor resistance 2 = 0.113 Ohm 
+
+ Motor reactance 2 = 0.101 Ohm 
+
+ Field resistance = 113.46 Ohm 
+
+ Reactance of motor = 20.88 Ohm 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.16/EX5_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Motor resistance 1 = 0.102 Ohm/phase 
+
+ Motor reactance 1 = 0.4074 Ohm/phase 
+
+ Motor resistance 2 = 0.153 Ohm/phase 
+
+ Motor reactance 2 = 0.6111 Ohm/phase 
+
+ Reactance of motor = 7.58 Ohm/phase 
+
+ Combined friction, windage and core loss = 1446 W/phase 
+
+ No-load current as a percent of rated current = 56.6 Percent 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH5/EX5.17/EX5_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Active power of the motor = -9277 W 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH6/EX6.1/EX6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zmw  =
+ 
+    2. + 3.5i  
+ 
+ Zaw  =
+ 
+    9.15 + 8.4i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Main winding current magnitude = 29.8 A  
+
+ Main winding current angle = -60.3 deg  
+
+ Auxillary winding current magnitude = 9.66 A  
+
+ Auxillary winding current angle = -42.6 deg  
+
+ Phase displacement angle = 17.7 deg  
+
+ Locked rotor torque in terms of the machine constant = 87.45.Ksp  
+
+ External resistance required = 5.25 Ohm  
+
+ Locked rotor torque = 107.1.Ksp  
+
+ Percent increase in locked rotor torque = 22.5 Percent increase  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH6/EX6.2/EX6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zmw  =
+ 
+    2. + 3.5i  
+ 
+ Zaw  =
+ 
+    9.15 + 8.4i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Required capacitance = 1284.4 microF  
+
+ Percent increase in locked rotor torque = 217 Percent 
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH6/EX6.3/EX6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ NEMA standard horsepower rating of machine = 52.5 hp  
+
+ Required running capacitance = 1590 microF  
+
+ Additional capacitance required for starting = 12210 microF  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH6/EX6.4/EX6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Motor line current = 41.5 A  
+
+ Motor  phase current = 41.5 A  
+
+ Motor line current if one line opens = 71.9 A  
+
+ Motor phase current if one line opens = 71.9 A  
+
+ Line  current if the power factor is 82.0 percent = 74.0  A 
+
+ Phase current if the power factor is 82.0 percent = 74.0 A  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH7/EX7.1/EX7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phirel2  =
+ 
+    41.90288  
+ 
+ 
+ 
+
+ Torque load on the shaft = 29.18  lb-ft  
+
+ Torque angle if the voltage drops to 224V = 41.90 deg  
+
+ Because torque angle is less than 45 degree, 
+ the rotor will not pull out of synchronism  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH7/EX7.2/EX7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Resolution = 180   
+
+ Number of steps required for the rotor to make 20.6 revolutions = 3708   
+
+ Shaft speed if the stepping frequency is 1800 pulses/s = 10 r/s  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH7/EX7.3/EX7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The synchronous speed = 24 m/s  
+
+ Rail speed assuming slip of 16.7 percent = 20.0 m/s  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH8/EX8.1/EX8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Developed torque = 304 lb-ft  
+
+ Armature current magnitude= 121.92 A  
+
+ Armature current angle= 36.87 deg  
+
+ Excitation voltage magnitude = 535 V  
+
+ Excitation voltage angle = -29.7 deg  
+
+ Power angle = -29.7 deg  
+
+ Maximum torque = 613 lb-ft  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH8/EX8.2/EX8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The minimum value of excitation = 98 V  
+
+ The minimum value of excitation using eq.(8.16) = 99 V  
+
+ The minimum value of excitation using eq.(8.21) = 99 V  
+
+ Power angle = -35 deg  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH8/EX8.3/EX8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ System active power  = 400.2 kW  
+
+ Power factor of the synchronous motor = 0.828 leading  
+
+ System power factor = 0.995 lagging  
+
+ Percent change in synchronous field current = 9.38 Percent  
+
+ Power angle of the synchronous motor = -14.96 deg  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH8/EX8.4/EX8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Developed torque  = 887 lb-ft  
+
+ Developed torque in percent of rated torque = 164 Percent  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH9/EX9.1/EX9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Turbine torque supplied to the alternator  = 219.0 lb-ft  
+
+ Excitation voltage = 419.1 V/phase  
+
+ Active components of apparent power= 112 kW  
+
+ Reactive components of apparent power= 72.2 kvar lagging  
+
+ Power factor = 0.84 lagging  
+
+ Excitation voltage new = 356.2 V/phase  
+
+ Turbine speed = 3600 r/min  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH9/EX9.2/EX9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Speed regulation = 0.02   
+
+ Governor drop = 0.00240 Hz/kW  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH9/EX9.3/EX9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Frequency of generator A = 60.24 Hz  
+
+ Frequency of generator B = 59.76 Hz  
+
+ Frequency of bus = 59.76 Hz  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH9/EX9.5/EX9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Bus frequency = 59.91 Hz  
+
+ Load on machine A = 960 kW 
+
+ Load on machine B = 660 kW 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH9/EX9.7/EX9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Active component of the bus load = 670.40 kW  
+
+ Reactive component of the bus load  = 104.7 kvar 
+
+ Reactive power supplied by machine A = 121.7 kvar 
+
+ Reactive power supplied by machine B = -17.0 kvar 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH9/EX9.8/EX9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Per-unit impedance magnitude = 0.9989 Ohm  
+
+ Per-unit impedance angle = 88.01 deg  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH9/EX9.11/EX9_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Equivalent armature resistance = 0.1176 Ohm  
+
+ Synchronous reactance = 1.1923 Ohm  
+
+ Short-circuit ratio = 0.966  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.1/EX10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Induced emf = 205.2 V  
+
+ Frequency of the rectangular voltage wave = 44.25 Hz  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.2/EX10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Rheostat setting to obtain an induced emf of 290 V = 16.57   
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.3/EX10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ No-load voltage if the voltage regulation is 2.3 percent = 245.5 V  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.4/EX10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Percentage reduction in field flux = -47.4 Percent  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.5/EX10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ No-load speed = 1820 r/min  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.6/EX10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Induced emf = 265 V  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.7/EX10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Induced emf = 460 V  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.8/EX10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ New armature current = 32.05 A  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.9/EX10_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Steady state armature current = 24.0 A  
+
+ Steady state speed = 3046 r/min  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.10/EX10_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Mechanical power developed= 31346 W  
+
+ Mechanical power developed= 42.0 hp  
+
+ Torque developed = 88.3 lb-ft  
+
+ Shaft torque = 84.0 lb-ft  
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.11/EX10_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Electrical losses = 4755.4 W  
+
+ Rotational losses = 3541 W  
+
+ Efficiency = 91.8 Percent  
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH10/EX10.12/EX10_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Rated torque = 45.0 lb-ft  
+
+ Armature current = 821.4 A  
+
+ Armature current for 200 percent rated torque = 109.0 A  
+
+ External resistance required = 1.83 Ohm  
+
+ Locked rotor torque = 78.7 lb-ft  
+ 
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH11/EX11.1/EX11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bp2  =
+ 
+    0.5551407  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The armature current = 135.43 A  
+
+ The resistance rating = 29.0 Ohm  
+
+ The power rating = 101.1 W  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH11/EX11.2/EX11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Shunt field current = 4.88 A  
+
+ Armature current = 450.09 A  
+
+ Developed torque = 853.6 lb-ft  
+
+ Armature current if a resistor inserted in series = 477 A  
+
+ External resistance required = 17.7 Ohm  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH11/EX11.3/EX11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Speed of the motor = 1714 r/min  
+ 
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH11/EX11.4/EX11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The resistance rating of an external resistance = 25.96 Ohm  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH11/EX11.5/EX11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ External resistance required in series = 7.74 Ohm  
+
+ Error introduced by linear approximation = 56.5 Percent  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH11/EX11.6/EX11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Torque developed when operating at rated speed = 9062.5 lb-ft  
+
+ Developed torque required at half rated speed = 2265.6 lb-ft   
+
+ Armature voltage required for half rated speed = 371.0 V  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH11/EX11.7/EX11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Resistance of the dynamic braking resistor = 0.562 Ohm  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH12/EX12.1/EX12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Field circuit resistance = 33.19 Ohm 
+
+ Field rheostat setting that will provide no load voltage of 140V = 10.56 Ohm  
+
+ Armature voltage if the rheostat is set to 14.23 ohm = 130 V  
+
+ Field rheostat setting that will cause critical resistance = 59.6 Ohm  
+
+ Armature voltage at 80 percent rated speed (V)= 116   
+
+ Rheostat setting required = 4.31 Ohm  
+ 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH12/EX12.2/EX12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ No load voltage = 255 V  
+
+ Voltage regulation = 6.25 Percent  
+
+ Resistance setting of rheostat necessary = 3 Ohm 
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH12/EX12.3/EX12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Induced emf at rated load = 265.0 V  
+
+ No load voltage = 225 V  
+
+ Voltage regulation = -10 Percent  
+
+ The machine is overcompounded  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH12/EX12.4/EX12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Required resistance of a noninductive diverter = 0.00827 Ohm  
+
+ Power rating of the diverter = 279 W  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH12/EX12.5/EX12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ New bus voltage = 3.82 V  
+
+ Current supplied by generator A = 1311 A  
+
+ Current supplied by generator B = 1189 A  
+
+ Macine A is overloaded by 9.3 Percent  
+ 
+grepthis#Electric_Machines_C._I._Hubert_3574/CH12/EX12.6/EX12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The increment increase in load on machine A = 100 A  
+
+ The increment increase in load on machine B = 300 A  
+
+ Current carried by machine A = 300 A  
+
+ Current carried by machine B = 800 A  
+ 
+ 

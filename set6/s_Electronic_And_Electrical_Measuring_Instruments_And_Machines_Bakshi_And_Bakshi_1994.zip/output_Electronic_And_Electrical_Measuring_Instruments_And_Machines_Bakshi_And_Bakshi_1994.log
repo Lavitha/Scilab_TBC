@@ -1,0 +1,7756 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 155
+
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.1/Example1_1.sce #
+ 
+ Erms  =
+ 
+    10.  
+ 
+ Ep  =
+ 
+    14.142136  
+ 
+ Eav  =
+ 
+    8.4852814  
+ 
+ E  =
+ 
+    4.2426407  
+ 
+ Edc  =
+ 
+    4.5  
+ 
+ Idc  =
+ 
+    0.001  
+ 
+ Rm  =
+ 
+    200.  
+ 
+ Rs  =
+ 
+    4300.  
+ 
+required multiplier resistance 
+Rs=4300.00 ohm 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.2/Example1_2.sce #
+ 
+ Eav  =
+ 
+    9.  
+ 
+ Erms  =
+ 
+    10.  
+ 
+ Rm  =
+ 
+    500.  
+ 
+ Idc  =
+ 
+    0.002  
+ 
+ Edc  =
+ 
+    9.  
+ 
+ Rs  =
+ 
+    4000.  
+ 
+required multiplier resistance 
+Rs=4000.00 ohm 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.3/Example1_3.sce #
+ 
+ Kf  =
+ 
+    1.  
+ 
+ Kf1  =
+ 
+    1.11  
+ 
+ pere  =
+ 
+  - 11.  
+ 
+percentage error  
+pere=-11.00  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.4/Example1_4.sce #
+ 
+ A  =
+ 
+    50.  
+ 
+ T  =
+ 
+    2.  
+ 
+ 
+ 
+ I  =
+ 
+    6666.6667  
+ 
+ ans  =
+ 
+    6669.2099  
+ 
+ Erms  =
+ 
+    57.735027  
+ 
+ 
+ 
+ I1  =
+ 
+    6666.6667  
+ 
+ Eav  =
+ 
+    3333.3333  
+ 
+ Kf  =
+ 
+    0.0173205  
+ 
+ kf1  =
+ 
+    0.961  
+ 
+ pere  =
+ 
+    3.9  
+ 
+percentage error  
+pere=3.90  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.5/Example1_5.sce #
+ 
+ Idc  =
+ 
+    0.025  
+ 
+ Erms  =
+ 
+    200.  
+ 
+ Rm  =
+ 
+    100.  
+ 
+ Rf  =
+ 
+    500.  
+ 
+ Rd  =
+ 
+    1000.  
+ 
+ Rm1  =
+ 
+    1100.  
+ 
+ Rs  =
+ 
+    6100.  
+ 
+total meter resistance 
+Rs=6100.00 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.6/Example1_6.sce #
+ 
+ V1  =
+ 
+    2.  
+ 
+ Rm  =
+ 
+    50.  
+ 
+ Rd  =
+ 
+    15000.  
+ 
+ gm  =
+ 
+    0.006  
+ 
+ rd  =
+ 
+    100000.  
+ 
+ Im  =
+ 
+    0.0059885  
+ 
+meter current 
+Im=0.0060 A 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.7/Example1_7.sce #
+ 
+ V1  =
+ 
+    1.  
+ 
+ Rm  =
+ 
+    50.  
+ 
+ Rd  =
+ 
+    15000.  
+ 
+ gm  =
+ 
+    0.006  
+ 
+ rd  =
+ 
+    100000.  
+ 
+ Im  =
+ 
+    0.0029943  
+ 
+meter current 
+Im=0.0030 A 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.8/Example1_8.sce #
+ 
+ V1  =
+ 
+    1.  
+ 
+ Vin  =
+ 
+    30.  
+ 
+ Rin  =
+ 
+    9000000.  
+ 
+ R4  =
+ 
+    90000.  
+ 
+ R3  =
+ 
+    90000.  
+ 
+ R2  =
+ 
+    120000.  
+ 
+ R1  =
+ 
+    8700000.  
+ 
+resitance values are
+ 
+R1=8700000.00 ohm
+ 
+R2=120000.00 ohm
+ 
+R3=90000.00 ohm
+ 
+R4=90000.00 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.9/Example1_9.sce #
+ 
+ rd  =
+ 
+    10000.  
+ 
+ gm  =
+ 
+    0.003  
+ 
+ rdf  =
+ 
+    322.58065  
+ 
+ Rs  =
+ 
+    15000.  
+ 
+ V1  =
+ 
+    1.  
+ 
+ Vo  =
+ 
+    0.9473684  
+ 
+ Rth  =
+ 
+    631.57895  
+ 
+ Rm  =
+ 
+    1800.  
+ 
+ Im  =
+ 
+    0.0003896  
+ 
+ Img  =
+ 
+    0.0001  
+ 
+ Rf  =
+ 
+    7042.1053  
+ 
+current Im=0.00039 A
+ 
+seires resistance
+ 
+Rf=7042.11 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.10/Example1_10.sce #
+ 
+ rd  =
+ 
+    200000.  
+ 
+ gm  =
+ 
+    0.004  
+ 
+ Rs  =
+ 
+    40000.  
+ 
+ Rm  =
+ 
+    1000.  
+ 
+ V1  =
+ 
+    1.  
+ 
+ rdf  =
+ 
+    249.68789  
+ 
+ Rth  =
+ 
+    496.27792  
+ 
+ Vo  =
+ 
+    0.9925558  
+ 
+ Im  =
+ 
+    0.00005  
+ 
+ Rcal  =
+ 
+    18354.839  
+ 
+caliberation resistance
+ 
+Rcal=18354.84 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH1/EX1.11/Example1_11.sce #
+ 
+ Vin  =
+ 
+    3.  
+ 
+ V1  =
+ 
+    1.  
+ 
+ Rin  =
+ 
+    1000000.  
+ 
+ R4  =
+ 
+    10000.  
+ 
+ R3  =
+ 
+    23333.333  
+ 
+ R2  =
+ 
+    300000.  
+ 
+ R1  =
+ 
+    666666.67  
+ 
+Resistances are
+ 
+R1=666666.67 ohm
+ 
+R2=300000.00 ohm
+ 
+R3=23333.33 ohm
+ 
+R4=10000.00 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH2/EX2.1/Example2_1.sce #
+ 
+ 
+ Vr  =
+ 
+    10.  
+ 
+ n  =
+ 
+    4.  
+ 
+ Res  =
+ 
+    0.5  
+ 
+ Rt  =
+ 
+    1.25  
+ 
+ Rf  =
+ 
+    10000.  
+ 
+ R  =
+ 
+    12500.  
+ 
+input resistance
+ 
+r=12500.00 ohm
+ 
+feedback resistance
+ 
+Rf=10000 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH2/EX2.2/Example2_2.sce #
+ 
+ n  =
+ 
+    8.  
+ 
+ Res1  =
+ 
+    256.  
+ 
+ Vofs  =
+ 
+    2.55  
+ 
+ Res2  =
+ 
+    0.01  
+ 
+resolution through method-1
+ 
+Res1=256.00 
+ 
+resolution through method-2
+ 
+Res2=0.01 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH2/EX2.3/Example2_3.sce #
+ 
+ n  =
+ 
+    4.  
+ 
+ Vofs  =
+ 
+    15.  
+ 
+ Res  =
+ 
+    1.  
+ 
+ D  =
+ 
+    6.  
+ 
+ Vo  =
+ 
+    6.  
+ 
+output voltage
+ 
+Vo=6.00 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH2/EX2.4/Example2_4.sce #
+ 
+ Res  =
+ 
+    0.02  
+ 
+ n  =
+ 
+    8.  
+ 
+ Vofs  =
+ 
+    5.1  
+ 
+ D  =
+ 
+    128.  
+ 
+ Vo  =
+ 
+    2.56  
+ 
+output voltage
+ 
+Vo=2.56 V
+ 
+full scale output voltage
+ 
+Vofs=5.10 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH2/EX2.5/Example2_5.sce #
+ 
+ n  =
+ 
+    4.  
+ 
+ Vofs  =
+ 
+    5.  
+ 
+ Res  =
+ 
+    0.3333333  
+ 
+ D1  =
+ 
+    8.  
+ 
+ Vo1  =
+ 
+    2.6666667  
+ 
+ D2  =
+ 
+    15.  
+ 
+ Vo2  =
+ 
+    5.  
+ 
+output voltage1
+ 
+Vo1=2.67 V
+ 
+output voltage2
+ 
+Vo2=5.00 V
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH2/EX2.6/Example2_6.sce #
+ 
+ n  =
+ 
+    12.  
+ 
+ Res  =
+ 
+    0.008  
+ 
+ Vofs  =
+ 
+    32.76  
+ 
+ perR  =
+ 
+    0.0244200  
+ 
+ Vo  =
+ 
+    11.112  
+ 
+percentage resolution
+ 
+perR=0.02 
+ 
+output voltage
+ 
+Vo=11.11 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.1/Example3_1.sce #
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ Res1  =
+ 
+    256.  
+ 
+ Vifs  =
+ 
+    5.1  
+ 
+ Res2  =
+ 
+    0.02  
+ 
+ Res  =
+ 
+    20.  
+ 
+ Vi  =
+ 
+    1.28  
+ 
+ D  =
+ 
+    64.  
+ 
+ str  =
+ 
+ 1000000   
+ 
+Resolution
+ 
+Res2=20 mv/LSB
+ 
+digital output voltage 
+ 
+D=64 LSBs
+ 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.2/Example3_2.sce #
+ 
+ Vifs  =
+ 
+    4.095  
+ 
+ n  =
+ 
+    12.  
+ 
+ Qe  =
+ 
+    0.0005  
+ 
+quantisation error
+ 
+Qe=0.00050 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.3/Example3_3.sce #
+ 
+ V1  =
+ 
+    0.1  
+ 
+ Vr  =
+ 
+    0.1  
+ 
+ t1  =
+ 
+    83.33  
+ 
+ t2  =
+ 
+    83.33  
+ 
+t2=83.33000 ms
+ 
+ Vi  =
+ 
+    0.2  
+ 
+ t2  =
+ 
+    166.66  
+ 
+t2=166.66000 ms 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.4/Example3_4.sce #
+ 
+ fclk  =
+ 
+    12000.  
+ 
+ t1  =
+ 
+    0.08333  
+ 
+ V1  =
+ 
+    0.1  
+ 
+ Vr  =
+ 
+    0.1  
+ 
+ D  =
+ 
+    999.96  
+ 
+digital output
+ 
+D=1000 counts 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.5/Example3_5.sce #
+ 
+ F  =
+ 
+    1000000.  
+ 
+ T  =
+ 
+    0.000001  
+ 
+ n  =
+ 
+    8.  
+ 
+ Tc  =
+ 
+    0.000009  
+ 
+converstion time
+ 
+Tc=0.0000090 sec 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.6/Example3_6.sce #
+ 
+ Tc  =
+ 
+    0.000009  
+ 
+ n  =
+ 
+    8.  
+ 
+ fmax  =
+ 
+    69.077666  
+ 
+maximum input frequency
+ 
+fmax=69.08 Hz 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.7/Example3_7.sce #
+ 
+ n  =
+ 
+    3.  
+ 
+ R  =
+ 
+    0.001  
+ 
+ 
+ Res1  =
+ 
+    0.001  
+ 
+ 
+ Res2  =
+ 
+    0.05  
+ 
+least diffrence in readings for 50V range
+ 
+Res=0.05 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.8/Example3_8.sce #
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ R  =
+ 
+    0.001  
+ 
+ 
+ R  =
+ 
+    0.01  
+ 
+ err1  =
+ 
+    0.01  
+ 
+ 
+ err  =
+ 
+    0.025  
+ 
+ errt  =
+ 
+    0.035  
+ 
+error when reading is 5V
+ 
+errt=0.0350 V
+ 
+ 
+ err  =
+ 
+    0.0005  
+ 
+ errt  =
+ 
+    0.0105  
+ 
+ errp  =
+ 
+    10.5  
+ 
+percent error when reading is 0.1V
+ 
+errp=10.5  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.9/Example3_9.sce #
+ 
+ n  =
+ 
+    4.  
+ 
+ fsmin  =
+ 
+    0.01  
+ 
+ R  =
+ 
+    0.0001  
+ 
+ S  =
+ 
+    0.000001  
+ 
+senstivity of meter
+  
+s=0.0000010 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH3/EX3.10/Example3_10.sce #
+ 
+ n  =
+ 
+    4.  
+ 
+ R  =
+ 
+    0.0001  
+ 
+ 
+ R  =
+ 
+    0.001  
+ 
+12.98 would be displayed as 12.980 for 10V range
+ 
+ 
+ R  =
+ 
+    0.001  
+ 
+0.6973 would be displayed as 0.6973 for 1V range
+ 
+ 
+0.6973 would be displayed as 0.697 for 10V range
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH4/EX4.2/Example4_2.sce #
+ 
+ E1rms  =
+ 
+    10.  
+ 
+ E2rms  =
+ 
+    15.  
+ 
+ E1m  =
+ 
+    14.142136  
+ 
+ E2m  =
+ 
+    21.213203  
+ 
+ 
+ Ep  =
+ 
+    7.8777678  
+ 
+ 
+ En  =
+ 
+    1.1253954  
+ 
+ Eab  =
+ 
+    6.7523724  
+ 
+output voltage
+ 
+Eab=6.75 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH6/EX6.1/Example6_1.sce #
+ 
+ Trs  =
+ 
+    0.000017  
+ 
+ Trd  =
+ 
+    0.000021  
+ 
+ Tro  =
+ 
+    0.0000123  
+ 
+ BW  =
+ 
+    28388.749  
+ 
+bandwidth of CRO
+ 
+BW=28388.75 Hz 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH6/EX6.2/Example6_2.sce #
+ 
+ SR  =
+ 
+    2.000D+08  
+ 
+ trmin  =
+ 
+    5.000D-09  
+ 
+minimum rise time of pulse
+ 
+trmin=0.0000000050 s 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH6/EX6.4/Example6_4.sce #
+ 
+ Vd  =
+ 
+    2.  
+ 
+ Tb  =
+ 
+    0.002  
+ 
+ Vd  =
+ 
+    2.  
+ 
+ Nd  =
+ 
+    3.  
+ 
+ Vpp  =
+ 
+    6.  
+ 
+ Vm  =
+ 
+    3.  
+ 
+ Vrms  =
+ 
+    2.1213203  
+ 
+ Hd  =
+ 
+    2.  
+ 
+ T  =
+ 
+    0.004  
+ 
+ f  =
+ 
+    250.  
+ 
+RMS value of voltage
+ 
+Vrms=2.12 V
+ 
+frequency of voltage across resistor
+ 
+f=250.00 Hz 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH6/EX6.5/Example6_5.sce #
+ 
+ y1  =
+ 
+    8.  
+ 
+ y2  =
+ 
+    10.  
+ 
+ phi  =
+ 
+    0.9272952  
+ 
+ phi  =
+ 
+    53.130102  
+ 
+phase difference
+ 
+phi=53.13 deg 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH6/EX6.6/Example6_6.sce #
+ 
+ Nv  =
+ 
+    2.  
+ 
+ Nh  =
+ 
+    5.  
+ 
+ fh  =
+ 
+    1000.  
+ 
+ fv  =
+ 
+    2500.  
+ 
+vertical signal frequency
+ 
+fv=2500 Hz 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.1/Example7_1.sce #
+ 
+ N  =
+ 
+    100.  
+ 
+ B  =
+ 
+    0.15  
+ 
+ A  =
+ 
+    0.00008  
+ 
+ I  =
+ 
+    0.005  
+ 
+ Td  =
+ 
+    0.000006  
+ 
+ K  =
+ 
+    0.0000002  
+ 
+ theta  =
+ 
+    30.  
+ 
+deflection theta=30.00 deg 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.2/Example7_2.sce #
+ 
+ x  =
+ 
+    x   
+ 
+ L  =
+ 
+               2  
+    12 + 6x - x   
+ 
+ dl  =
+ 
+    6 - 2x   
+ 
+ K  =
+ 
+    12.  
+ 
+ I  =
+ 
+    8.  
+ 
+ x  =
+ 
+    2.5263158  
+ 
+ z  =
+ 
+    144.74723  
+ 
+ y  =
+ 
+    20.775623  
+ 
+deflection for given current
+ 
+x=144.75 deg
+ 
+inductance for given deflection
+ 
+L=20.78 uH 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.3/Example7_3.sce #
+ 
+ Rm  =
+ 
+    100.  
+ 
+ Im  =
+ 
+    0.002  
+ 
+ I  =
+ 
+    0.15  
+ 
+ Rsh  =
+ 
+    1.3513514  
+ 
+value of shunt resistance
+ 
+Rsh=1.35 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.4/Example7_4.sce #
+ 
+ Vsh1  =
+ 
+    0.4  
+ 
+ Rsh  =
+ 
+    0.01  
+ 
+ Ish  =
+ 
+    40.  
+ 
+current through shunt
+ 
+Ish=40.00 A
+ 
+ Ish  =
+ 
+    50.  
+ 
+ Vsh  =
+ 
+    0.5  
+ 
+voltage through shunt
+ 
+Ish=0.50 V
+ 
+ Rm  =
+ 
+    750.  
+ 
+ Im  =
+ 
+    0.0005333  
+ 
+ Rm1  =
+ 
+    937.5  
+ 
+meter resistance
+ 
+Rm1=937.50 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.5/Example7_5.sce #
+ 
+ I1  =
+ 
+    0.01  
+ 
+ Im  =
+ 
+    0.002  
+ 
+ Rm  =
+ 
+    75.  
+ 
+ R1  =
+ 
+    18.75  
+ 
+ I2  =
+ 
+    0.05  
+ 
+ R2  =
+ 
+    3.125  
+ 
+ I3  =
+ 
+    0.1  
+ 
+ R3  =
+ 
+    1.5306122  
+ 
+designed multi-range ammeter
+ 
+full scale deflection Im=0.00200 A
+ 
+meter resistance Rm=75.00 ohm
+ 
+R1=18.75 ohm
+ 
+R2=3.12 ohm
+ 
+R3=1.53 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.6/Example7_6.sce #
+ 
+ I1  =
+ 
+    10.  
+ 
+ Im  =
+ 
+    0.001  
+ 
+ Rm  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R3  =
+ 
+    0.0399920  
+ 
+ 
+ 
+ R1  =
+ 
+    0.0050009  
+ 
+ R2  =
+ 
+    0.0049991  
+ 
+various sections of aryton shunt are
+ 
+full scale deflection Im=0.0010 A
+ 
+meter resistance Rm=50.00 ohm
+ 
+R1=0.0050 ohm
+ 
+R2=0.0050 ohm
+ 
+R3=0.0400 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.7/Example7_7.sce #
+ 
+ Rm  =
+ 
+    500.  
+ 
+ Im  =
+ 
+    0.00004  
+ 
+ V  =
+ 
+    10.  
+ 
+ Rs  =
+ 
+    249500.  
+ 
+multiplier resistance
+ 
+Rs=249500.00 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.8/Example7_8.sce #
+ 
+ Im  =
+ 
+    0.02  
+ 
+ Vm  =
+ 
+    0.2  
+ 
+ Rm  =
+ 
+    10.  
+ 
+ I  =
+ 
+    200.  
+ 
+ Rsh  =
+ 
+    0.0010001  
+ 
+required shunt resistance
+ 
+Rsh=0.0010 ohm
+ 
+ V  =
+ 
+    500.  
+ 
+ Rs  =
+ 
+    24990.  
+ 
+required multipler resistance
+ 
+Rs=24990.00 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.9/Example7_9.sce #
+ 
+ Rm  =
+ 
+    50.  
+ 
+ Im  =
+ 
+    0.002  
+ 
+ 
+ V4  =
+ 
+    10.  
+ 
+ R4  =
+ 
+    4950.  
+ 
+ 
+ V3  =
+ 
+    50.  
+ 
+ R3  =
+ 
+    20000.  
+ 
+ 
+ V2  =
+ 
+    100.  
+ 
+ R2  =
+ 
+    25000.  
+ 
+ 
+ V1  =
+ 
+    500.  
+ 
+ R1  =
+ 
+    200000.  
+ 
+series string of multipliers
+ 
+R1=200000.00 ohm
+ 
+R2=25000.00 ohm
+ 
+R3=20000.00 ohm
+ 
+R4=4950.00 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.10/Example7_10.sce #
+ 
+ Rm  =
+ 
+    50.  
+ 
+ Im  =
+ 
+    0.002  
+ 
+ V1  =
+ 
+    500.  
+ 
+ V2  =
+ 
+    100.  
+ 
+ V3  =
+ 
+    50.  
+ 
+ V4  =
+ 
+    10.  
+ 
+ S  =
+ 
+    500.  
+ 
+ R4  =
+ 
+    4950.  
+ 
+ R3  =
+ 
+    20000.  
+ 
+ R2  =
+ 
+    25000.  
+ 
+ R1  =
+ 
+    200000.  
+ 
+series string of multipliers
+ 
+R1=200000.00 ohm
+ 
+R2=25000.00 ohm
+ 
+R3=20000.00 ohm
+ 
+R4=4950.00 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.11/Example7_11.sce #
+ 
+ Im  =
+ 
+    0.00005  
+ 
+ S  =
+ 
+    20000.  
+ 
+ Rm  =
+ 
+    200.  
+ 
+ V  =
+ 
+    500.  
+ 
+ Rs  =
+ 
+    9999800.  
+ 
+multipler resistance
+ 
+Rs=9999800.00 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.12/Example7_12.sce #
+ 
+ 
+ 
+ Rs  =
+ 
+    25000.  
+ 
+ Rm  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    100.  
+ 
+ S  =
+ 
+    260.  
+ 
+senstivity of meter A
+ 
+S=260.00 ohm/volt
+ 
+ 
+ Rs  =
+ 
+    150000.  
+ 
+ Rm  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    1000.  
+ 
+ S  =
+ 
+    151.  
+ 
+senstivity of meter B
+ 
+S=151.00 ohm/volt 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.13/Example7_13.sce #
+ 
+ R1  =
+ 
+    20000.  
+ 
+ R2  =
+ 
+    25000.  
+ 
+ V  =
+ 
+    250.  
+ 
+ VR2  =
+ 
+    138.88889  
+ 
+ 
+ S  =
+ 
+    500.  
+ 
+ Vr  =
+ 
+    150.  
+ 
+ Rv  =
+ 
+    75000.  
+ 
+ Req  =
+ 
+    18750.  
+ 
+ VReq  =
+ 
+    120.96774  
+ 
+first voltmeter reading
+ 
+VReq=120.97 V
+ 
+ 
+ S  =
+ 
+    10000.  
+ 
+ Rv  =
+ 
+    1500000.  
+ 
+ Req  =
+ 
+    24590.164  
+ 
+ VReq  =
+ 
+    137.86765  
+ 
+second voltmeter reading
+ 
+VReq=137.87 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.14/Example7_14.sce #
+ 
+ Rb  =
+ 
+    1000.  
+ 
+ Ra  =
+ 
+    5000.  
+ 
+ V  =
+ 
+    25.  
+ 
+ VRb  =
+ 
+    4.1666667  
+ 
+ Vr  =
+ 
+    5.  
+ 
+ 
+ S  =
+ 
+    1000.  
+ 
+ Rv  =
+ 
+    5000.  
+ 
+ Req  =
+ 
+    833.33333  
+ 
+ VReq  =
+ 
+    3.5714286  
+ 
+ err  =
+ 
+    14.285714  
+ 
+ acc  =
+ 
+    85.714286  
+ 
+voltmeter reading case-1
+ 
+VReq=3.57 V
+ 
+percentage error
+ 
+err=14.29 
+ 
+percentage accuracy
+ 
+acc=85.71
+ 
+ 
+ S  =
+ 
+    20000.  
+ 
+ Rv  =
+ 
+    100000.  
+ 
+ Req  =
+ 
+    990.09901  
+ 
+ VReq  =
+ 
+    4.1322314  
+ 
+ err  =
+ 
+    0.8264463  
+ 
+ acc  =
+ 
+    99.173554  
+ 
+voltmeter reading case-2
+ 
+VReq=4.13 V
+ 
+percentage error
+ 
+err=0.83 
+ 
+percentage accuracy
+ 
+acc=99.17
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.15/Example7_15.sce #
+ 
+ Rm  =
+ 
+    50.  
+ 
+ Im  =
+ 
+    0.02  
+ 
+ I  =
+ 
+    10.  
+ 
+ Rsh  =
+ 
+    0.1002004  
+ 
+shunt resistance for I=10A
+ 
+Rsh=0.10 ohm
+ 
+ I  =
+ 
+    20.  
+ 
+ Rsh  =
+ 
+    0.0500501  
+ 
+shunt resistance for I=20A
+ 
+Rsh=0.05 ohm
+ 
+ V  =
+ 
+    150.  
+ 
+ Rs  =
+ 
+    7450.  
+ 
+series resistance for V=150V
+ 
+Rs=7450.00 ohm
+ 
+ V  =
+ 
+    300.  
+ 
+ Rs  =
+ 
+    14950.  
+ 
+series resistance for V=300V
+ 
+Rs=14950.00 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.16/Example7_16.sce #
+ 
+ Rsh  =
+ 
+    0.02  
+ 
+ R  =
+ 
+    1000.  
+ 
+ Vm  =
+ 
+    0.5  
+ 
+ Im  =
+ 
+    0.0005  
+ 
+ Ish  =
+ 
+    25.  
+ 
+shunt current
+ 
+Ish=25.00 A
+ 
+ Ish1  =
+ 
+    10.  
+ 
+ V  =
+ 
+    0.2  
+ 
+ R  =
+ 
+    400.  
+ 
+resistance for Ish=10A
+ 
+R=400.00 ohm
+ 
+ Ish2  =
+ 
+    75.  
+ 
+ V  =
+ 
+    1.5  
+ 
+ R  =
+ 
+    3000.  
+ 
+resistance for Ish=75A
+ 
+R=3000.00 ohm
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.17/Example7_17.sce #
+ 
+ K  =
+ 
+    0.0000057  
+ 
+ I  =
+ 
+    20.  
+ 
+ theta  =
+ 
+    1.9198622  
+ 
+ dtheta  =
+ 
+    1.9198622  
+ 
+ L  =
+ 
+    0.000004  
+ 
+ dm  =
+ 
+    5.280D-08  
+ 
+ Lf  =
+ 
+    0.0000041  
+ 
+final inductance
+ 
+Lf=0.00000405 H 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.18/Example7_18.sce #
+ 
+ x  =
+ 
+    30.  
+ 
+ dM  =
+ 
+    0.0048296  
+ 
+ I  =
+ 
+    0.01  
+ 
+ Td  =
+ 
+    0.0000005  
+ 
+deflecting torque
+ 
+Td=0.00000048 Nm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.19/Example7_19.sce #
+ 
+ I  =
+ 
+    0.1  
+ 
+ Td  =
+ 
+    0.00008  
+ 
+ dtheta  =
+ 
+    1.5707963  
+ 
+ theta  =
+ 
+    90.  
+ 
+ dM  =
+ 
+    0.0125664  
+ 
+ Mo  =
+ 
+    0.5  
+ 
+ M  =
+ 
+    0.5125664  
+ 
+ 
+ Vdc  =
+ 
+    100.  
+ 
+ R  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    314.15927  
+ 
+ Z  =
+ 
+    1000. + 161.02747i  
+ 
+ Z  =
+ 
+    1012.882  
+ 
+ Vac  =
+ 
+    98.728188  
+ 
+ dif  =
+ 
+    1.2718117  
+ 
+ 
+ Vdc1  =
+ 
+    50.  
+ 
+ I1  =
+ 
+    0.05  
+ 
+ theta1  =
+ 
+    22.5  
+ 
+ theta1  =
+ 
+    0.3926991  
+ 
+ dM1  =
+ 
+    0.0031416  
+ 
+ M1  =
+ 
+    0.5031416  
+ 
+ Z1  =
+ 
+    1000. + 158.06659i  
+ 
+ Z1  =
+ 
+    1012.4155  
+ 
+ Vac1  =
+ 
+    49.38684  
+ 
+ dif1  =
+ 
+    0.6131600  
+ 
+difference in readings Vdc=100V
+ 
+dif=1.27 V
+ 
+difference in readings Vdc=50V
+ 
+dif1=0.61 V
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.20/Example7_20.sce #
+ 
+ I  =
+ 
+    20.  
+ 
+ V  =
+ 
+    230.  
+ 
+ Pf  =
+ 
+    0.8  
+ 
+ t  =
+ 
+    3600.  
+ 
+ K  =
+ 
+    100.  
+ 
+ Et  =
+ 
+    13248000.  
+ 
+ Et  =
+ 
+    3.68  
+ 
+ N  =
+ 
+    360.  
+ 
+ Er  =
+ 
+    3.6  
+ 
+ err  =
+ 
+  - 0.0217391  
+ 
+ err  =
+ 
+  - 2.173913  
+ 
+percentage error
+ 
+err=-2.17
+ 
+negative sign shows that meter is slow and Er<Et 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.21/Example7_21.sce #
+ 
+ K  =
+ 
+    1800.  
+ 
+ V  =
+ 
+    230.  
+ 
+ I  =
+ 
+    10.  
+ 
+ Pf  =
+ 
+    1.  
+ 
+ Ihl  =
+ 
+    5.  
+ 
+ t  =
+ 
+    138.  
+ 
+ Et  =
+ 
+    158700.  
+ 
+ Et  =
+ 
+    0.0440833  
+ 
+ N  =
+ 
+    80.  
+ 
+ Er  =
+ 
+    0.0444444  
+ 
+ err  =
+ 
+    0.0081916  
+ 
+ err  =
+ 
+    0.8191556  
+ 
+percentage error
+ 
+err=0.82
+ 
+positive sign shows that meter is fast and Er>Et 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.22/Example7_22.sce #
+ 
+ V  =
+ 
+    230.  
+ 
+ I  =
+ 
+    4.  
+ 
+ t  =
+ 
+    6.  
+ 
+ Pf  =
+ 
+    1.  
+ 
+ N  =
+ 
+    2208.  
+ 
+ Et  =
+ 
+    5520.  
+ 
+ K  =
+ 
+    0.4  
+ 
+meter constant
+ 
+K=0.40 rev/Wh
+ 
+ V  =
+ 
+    230.  
+ 
+ I  =
+ 
+    5.  
+ 
+ t  =
+ 
+    4.  
+ 
+ N  =
+ 
+    1472.  
+ 
+ Et  =
+ 
+    4600.  
+ 
+ Er  =
+ 
+    3680.  
+ 
+ Pf  =
+ 
+    0.8  
+ 
+power factor
+ 
+Pf=0.80 lagging 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.23/Example7_23.sce #
+ 
+ I  =
+ 
+    5.  
+ 
+ V  =
+ 
+    220.  
+ 
+ Pf  =
+ 
+    1.  
+ 
+ K  =
+ 
+    3275.  
+ 
+ t  =
+ 
+    0.0166667  
+ 
+ E  =
+ 
+    18.333333  
+ 
+ E  =
+ 
+    0.0183333  
+ 
+ Rev  =
+ 
+    60.041667  
+ 
+speed of disc
+ 
+s=60.04 r.p.m
+ 
+ 
+ I  =
+ 
+    2.5  
+ 
+ t  =
+ 
+    59.5  
+ 
+ Et  =
+ 
+    32725.  
+ 
+ Et  =
+ 
+    0.0090903  
+ 
+ N  =
+ 
+    30.  
+ 
+ Er  =
+ 
+    0.0091603  
+ 
+ err  =
+ 
+    0.0077036  
+ 
+ err  =
+ 
+    0.7703567  
+ 
+percentage error
+ 
+err=0.77
+ 
+Er>Et meter is fast 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.24/Example7_24.sce #
+ 
+ V  =
+ 
+    240.  
+ 
+ I  =
+ 
+    10.  
+ 
+ Pf  =
+ 
+    0.8  
+ 
+ t  =
+ 
+    0.0166667  
+ 
+ K  =
+ 
+    600.  
+ 
+ E  =
+ 
+    32.  
+ 
+ E  =
+ 
+    0.032  
+ 
+ Rev  =
+ 
+    19.2  
+ 
+speed of disc
+ 
+s=19.20 r.p.m
+ 
+ del  =
+ 
+    90.  
+ 
+ del1  =
+ 
+    1.5009832  
+ 
+ phi  =
+ 
+    0.  
+ 
+ err  =
+ 
+  - 0.0024359  
+ 
+ err  =
+ 
+  - 0.2435950  
+ 
+percentage error in case-1
+ 
+err=-0.24 
+ 
+ Pf  =
+ 
+    0.5  
+ 
+ phi  =
+ 
+    1.0471976  
+ 
+ err  =
+ 
+  - 0.1232577  
+ 
+ err  =
+ 
+  - 12.325771  
+ 
+percentage error in case-2
+ 
+err=-12.33 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.25/Example7_25.sce #
+ 
+ V  =
+ 
+    240.  
+ 
+ I  =
+ 
+    5.  
+ 
+ K  =
+ 
+    1200.  
+ 
+ N  =
+ 
+    40.  
+ 
+ Er  =
+ 
+    0.0333333  
+ 
+ W  =
+ 
+    1200.  
+ 
+ t  =
+ 
+    99.8  
+ 
+ Td  =
+ 
+    500.  
+ 
+ div  =
+ 
+    2.4  
+ 
+ We  =
+ 
+    0.24  
+ 
+ Ce  =
+ 
+    0.6  
+ 
+ Te  =
+ 
+    0.84  
+ 
+ Wru  =
+ 
+    1200.84  
+ 
+ Wrl  =
+ 
+    1199.16  
+ 
+ He  =
+ 
+    0.05  
+ 
+ Se  =
+ 
+    0.01  
+ 
+ Tte  =
+ 
+    0.06  
+ 
+ Sru  =
+ 
+    99.86  
+ 
+ Srl  =
+ 
+    99.74  
+ 
+ Eu  =
+ 
+    0.0333100  
+ 
+ El  =
+ 
+    0.0332234  
+ 
+ errl  =
+ 
+    0.0033091  
+ 
+ errl  =
+ 
+    0.3309094  
+ 
+ erru  =
+ 
+    0.0007015  
+ 
+ erru  =
+ 
+    0.0701472  
+ 
+percentage error upperlimt
+ 
+erru=0.070 
+ 
+percentage error lowerlimt
+ 
+errl=0.331 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.26/Example7_26.sce #
+ 
+ I1  =
+ 
+    250.  
+ 
+ I2  =
+ 
+    5.  
+ 
+ I  =
+ 
+    50.  
+ 
+ 
+ I1  =
+ 
+    135.  
+ 
+line current
+ 
+I1=135.00 A 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.27/Example7_27.sce #
+ 
+ V1  =
+ 
+    11000.  
+ 
+ V2  =
+ 
+    110.  
+ 
+ V  =
+ 
+    100.  
+ 
+ V2  =
+ 
+    87.5  
+ 
+ V1  =
+ 
+    8750.  
+ 
+line voltage
+ 
+V1=8750.00 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.28/Example7_28.sce #
+ 
+ Im  =
+ 
+    120.  
+ 
+ Ic  =
+ 
+    38.  
+ 
+ Kn  =
+ 
+    200.  
+ 
+ 
+ Is  =
+ 
+    5.  
+ 
+ Ns  =
+ 
+    1000.  
+ 
+ Np  =
+ 
+    5.  
+ 
+ n  =
+ 
+    200.  
+ 
+ R  =
+ 
+    207.6  
+ 
+ err  =
+ 
+  - 0.0366089  
+ 
+ err  =
+ 
+  - 3.6608863  
+ 
+percentage ratio error
+ 
+err=-3.66  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH7/EX7.29/Example7_29.sce #
+ 
+ Im  =
+ 
+    90.  
+ 
+ Ic  =
+ 
+    40.  
+ 
+ delta  =
+ 
+    0.4886922  
+ 
+ Is  =
+ 
+    5.  
+ 
+ Ns  =
+ 
+    400.  
+ 
+ Np  =
+ 
+    1.  
+ 
+ n  =
+ 
+    400.  
+ 
+ Kn  =
+ 
+    400.  
+ 
+ R  =
+ 
+    415.51407  
+ 
+ Ip  =
+ 
+    2077.5703  
+ 
+ err  =
+ 
+  - 0.0373370  
+ 
+ err  =
+ 
+  - 3.7337048  
+ 
+percentage ratio error
+ 
+err=-3.73  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.1/Example8_1.sce #
+ 
+ Rh  =
+ 
+    1000.  
+ 
+ Rm  =
+ 
+    50.  
+ 
+ V  =
+ 
+    3.  
+ 
+ Ifsd  =
+ 
+    0.001  
+ 
+ R1  =
+ 
+    983.33333  
+ 
+ R2  =
+ 
+    25.  
+ 
+R1=983.33 ohm
+ 
+R2=25.00 ohm
+ 
+ 
+ V  =
+ 
+    2.85  
+ 
+ R2  =
+ 
+    27.027027  
+ 
+change in value R2 
+ 
+R2=27.03 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.2/Example8_2.sce #
+ 
+ R1  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    2000.  
+ 
+ R3  =
+ 
+    5000.  
+ 
+ 
+ R4  =
+ 
+    25000.  
+ 
+unknown resistance
+ 
+R4=25000.00 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.3/Example8_3.sce #
+ 
+ R1  =
+ 
+    7000.  
+ 
+ R2  =
+ 
+    2000.  
+ 
+ R3  =
+ 
+    4000.  
+ 
+ R4  =
+ 
+    20000.  
+ 
+ E  =
+ 
+    8.  
+ 
+ Rg  =
+ 
+    300.  
+ 
+ Vth  =
+ 
+    0.4444444  
+ 
+ Req  =
+ 
+    4888.8889  
+ 
+ Ig  =
+ 
+    0.0000857  
+ 
+current through galvanometer
+ 
+Ig=0.0000857 A 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.4/Example8_4.sce #
+ 
+ R3  =
+ 
+    0.0001000  
+ 
+ R2  =
+ 
+    100.24  
+ 
+ R1  =
+ 
+    200.  
+ 
+ b  =
+ 
+    100.31  
+ 
+ a  =
+ 
+    200.  
+ 
+ Ry  =
+ 
+    0.0007  
+ 
+ Rx  =
+ 
+    0.0001996  
+ 
+ Rx  =
+ 
+    0.0001999  
+ 
+unknown resistance
+ 
+Rx=0.0001999 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.5/Example8_5.sce #
+ 
+ Z2  =
+ 
+    250.  
+ 
+ Z3  =
+ 
+    200.  
+ 
+ Z1  =
+ 
+    50.  
+ 
+ Z4  =
+ 
+    1000.  
+ 
+ theta1  =
+ 
+    80.  
+ 
+ theta2  =
+ 
+    0.  
+ 
+ theta3  =
+ 
+    30.  
+ 
+ theta4  =
+ 
+  - 50.  
+ 
+ theta4  =
+ 
+  - 0.8726646  
+ 
+ Rx  =
+ 
+    642.78761  
+ 
+ Ry  =
+ 
+  - 766.04444  
+ 
+ Z4  =
+ 
+    642.78761 - 766.04444i  
+ 
+unknown impedance
+ 
+ 
+    642.78761 - 766.04444i  
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.6/Example8_6.sce #
+ 
+ Z1  =
+ 
+    50.  
+ 
+ Z2  =
+ 
+    100.  
+ 
+ Z3  =
+ 
+    15.  
+ 
+ Z4  =
+ 
+    30.  
+ 
+ 
+ magl  =
+ 
+    1500.  
+ 
+ magr  =
+ 
+    1500.  
+ 
+magl=1500
+ 
+magr=1500
+ 
+lhs=rhs hence,magnitude condition is satisfied 
+ 
+ theta1  =
+ 
+    40.  
+ 
+ theta2  =
+ 
+  - 90.  
+ 
+ theta3  =
+ 
+    45.  
+ 
+ theta4  =
+ 
+    30.  
+ 
+ 
+ thetal  =
+ 
+    70.  
+ 
+ thetar  =
+ 
+  - 45.  
+ 
+thetal=70
+ 
+thetar=-45
+ 
+angle condition is not satisfied 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.7/Example8_7.sce #
+ 
+ C3  =
+ 
+    0.00001  
+ 
+ R1  =
+ 
+    1200.  
+ 
+ R2  =
+ 
+    100000.  
+ 
+ R3  =
+ 
+    120000.  
+ 
+ Rx  =
+ 
+    10000000.  
+ 
+ Cx  =
+ 
+    0.0000001  
+ 
+equivalent series circuit
+ 
+Rx=10000000 ohm
+ 
+Cx=0.000000120 F 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.8/Example8_8.sce #
+ 
+ L3  =
+ 
+    0.008  
+ 
+ R1  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    25000.  
+ 
+ R3  =
+ 
+    50000.  
+ 
+ Rx  =
+ 
+    1250000.  
+ 
+ Lx  =
+ 
+    0.2  
+ 
+equivalent series circuit
+ 
+Rx=1250000 ohm
+ 
+Lx=0.20000 H 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.9/Example8_9.sce #
+ 
+ 
+ C1  =
+ 
+    0.0000005  
+ 
+ R1  =
+ 
+    1200.  
+ 
+ R2  =
+ 
+    700.  
+ 
+ R3  =
+ 
+    300.  
+ 
+ Rx  =
+ 
+    175.  
+ 
+ Lx  =
+ 
+    0.105  
+ 
+components of branch RC
+ 
+Rx=175 ohm
+ 
+Lx=0.10500 H
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.10/Example8_10.sce #
+ 
+ 
+ w  =
+ 
+    1000.  
+ 
+ R1  =
+ 
+    5100.  
+ 
+ C1  =
+ 
+    0.000002  
+ 
+ R2  =
+ 
+    7900.  
+ 
+ R3  =
+ 
+    790.  
+ 
+ Rx  =
+ 
+    1212.0754  
+ 
+ Lx  =
+ 
+    0.1188309  
+ 
+unknown inductance and resistance
+ 
+Rx=1212 ohm
+ 
+Lx=0.11883 H 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.11/Example8_11.sce #
+ 
+ R1  =
+ 
+    1200.  
+ 
+ R2  =
+ 
+    4700.  
+ 
+ C1  =
+ 
+    0.000001  
+ 
+ C3  =
+ 
+    0.000001  
+ 
+ f  =
+ 
+    500.  
+ 
+ w  =
+ 
+    3141.5927  
+ 
+ Rx  =
+ 
+    4700.  
+ 
+ Cx  =
+ 
+    0.0000003  
+ 
+ D  =
+ 
+    3.7699112  
+ 
+unknown capacitance and resistance
+ 
+Rx=4700 ohm
+ 
+Cx=0.00000026 F
+ 
+dissipation factor
+ 
+D=3.770 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.12/Example8_12.sce #
+ 
+ R1  =
+ 
+    200.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ R4  =
+ 
+    2000.  
+ 
+ Rg  =
+ 
+    200.  
+ 
+ R41  =
+ 
+    2005.  
+ 
+ Si  =
+ 
+    12.  
+ 
+ E  =
+ 
+    10.  
+ 
+ Vth  =
+ 
+    0.0055463  
+ 
+ Req  =
+ 
+    733.88796  
+ 
+ Ig  =
+ 
+    0.0000059  
+ 
+ theta  =
+ 
+    71.267371  
+ 
+deflection of galvanometer
+ 
+theta=71.2674 mm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.13/Example8_13.sce #
+ 
+ R1  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ R3  =
+ 
+    119.  
+ 
+ R4  =
+ 
+    121.  
+ 
+ Rg  =
+ 
+    200.  
+ 
+ S1  =
+ 
+    1.  
+ 
+ E  =
+ 
+    5.  
+ 
+ Vth  =
+ 
+    0.0208333  
+ 
+ Req  =
+ 
+    559.99583  
+ 
+ Ig  =
+ 
+    0.0000274  
+ 
+ theta  =
+ 
+    27.412431  
+ 
+deflection of galvanometer
+ 
+theta=27.4124 mm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.14/Example8_14.sce #
+ 
+ R  =
+ 
+    500.  
+ 
+ delR  =
+ 
+    20.  
+ 
+ E  =
+ 
+    10.  
+ 
+ Vth  =
+ 
+    0.1  
+ 
+ Req  =
+ 
+    500.  
+ 
+ Rg  =
+ 
+    125.  
+ 
+ Ig  =
+ 
+    0.00016  
+ 
+current through galvanometer
+ 
+Ig=0.00016000 A 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.15/Example8_15.sce #
+ 
+ R  =
+ 
+    1000.  
+ 
+ E  =
+ 
+    20.  
+ 
+ Ig  =
+ 
+    1.000D-09  
+ 
+ Req  =
+ 
+    1000.  
+ 
+ 
+ delR  =
+ 
+    0.0002  
+ 
+change in resitance
+ 
+delR=0.00020000 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.16/Example8_16.sce #
+ 
+ 
+ R1  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    10000.  
+ 
+ R3  =
+ 
+    10000.  
+ 
+ R4  =
+ 
+    10000.  
+ 
+ E  =
+ 
+    10.  
+ 
+bridge is balanced at 80deg. from graph when Rv=10k
+ 
+ 
+ R4  =
+ 
+    9000.  
+ 
+ e  =
+ 
+  - 0.2631579  
+ 
+error voltage
+ 
+e=-0.2632 V
+ 
+negative sign indicates opposite polarity of error voltage 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.17/Example8_17.sce #
+ 
+ R1  =
+ 
+    100.  
+ 
+ R2  =
+ 
+    10.  
+ 
+ R3  =
+ 
+    4.  
+ 
+ R4  =
+ 
+    50.  
+ 
+ E  =
+ 
+    10.  
+ 
+ Rg  =
+ 
+    20.  
+ 
+ Vth  =
+ 
+    0.1683502  
+ 
+ Req  =
+ 
+    12.794613  
+ 
+ Ig  =
+ 
+    0.0051335  
+ 
+ 
+ R4  =
+ 
+    40.  
+ 
+unbalanced current in galvanometer
+ 
+Ig=0.00513 A
+ 
+resistance for null deflection
+ 
+R4=40 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.18/Example8_18.sce #
+ 
+ R1  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ R3  =
+ 
+    4000.  
+ 
+ R4  =
+ 
+    40000.  
+ 
+ Rth  =
+ 
+    3727.2727  
+ 
+ Si  =
+ 
+    70.  
+ 
+ theta  =
+ 
+    0.000003  
+ 
+ E  =
+ 
+    10.  
+ 
+ Rg  =
+ 
+    80.  
+ 
+ delR  =
+ 
+    7.8973714  
+ 
+change in resistance
+ 
+delR=7.8974 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.19/Example8_19.sce #
+ 
+ P  =
+ 
+    0.4  
+ 
+ Rarm  =
+ 
+    150.  
+ 
+ I  =
+ 
+    0.0516398  
+ 
+ 
+ r  =
+ 
+    1.  
+ 
+ E  =
+ 
+    25.  
+ 
+ R  =
+ 
+    91.061459  
+ 
+series resistance
+ 
+R=91.0615 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.20/Example8_20.sce #
+ 
+ R1  =
+ 
+    10.  
+ 
+ R2  =
+ 
+    20.  
+ 
+ Rba  =
+ 
+    0.0008333  
+ 
+ Rx  =
+ 
+    0.0166667  
+ 
+unknown resistance
+ 
+Rx=0.0167 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.21/Example8_21.sce #
+ 
+ w  =
+ 
+    6283.1853  
+ 
+ C1  =
+ 
+    0.0000002  
+ 
+ R2  =
+ 
+    500.  
+ 
+ R3  =
+ 
+    300.  
+ 
+ C3  =
+ 
+    1.000D-07  
+ 
+ Z4  =
+ 
+    34.31147 + 182.028i  
+ 
+ Zx  =
+ 
+    34.31147 + 182.028i  
+ 
+ Rx  =
+ 
+    34.31147  
+ 
+ Xl  =
+ 
+    182.028  
+ 
+ Lx  =
+ 
+    0.0289707  
+ 
+unknown resistance
+ 
+Rx=34.31 ohm
+ 
+unknown inductance
+ 
+Lx=0.02897 H 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.22/Example8_22.sce #
+ 
+ Z1  =
+ 
+    300.  
+ 
+ R2  =
+ 
+    200.  
+ 
+ w  =
+ 
+    6283.1853  
+ 
+ C2  =
+ 
+    0.000005  
+ 
+ Z2  =
+ 
+    200. - 31.830989i  
+ 
+ R3  =
+ 
+    500.  
+ 
+ C3  =
+ 
+    0.0000002  
+ 
+ Z3  =
+ 
+    500. - 795.77472i  
+ 
+ Z4  =
+ 
+    248.89901 - 583.56812i  
+ 
+ Zx  =
+ 
+    248.89901 - 583.56812i  
+ 
+unknown impedance
+ 
+ 
+    248.89901 - 583.56812i  
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.23/Example8_23.sce #
+ 
+ Z1  =
+ 
+    10000.  
+ 
+ Z2  =
+ 
+    50000.  
+ 
+ w  =
+ 
+    12566.371  
+ 
+ C3  =
+ 
+    0.0001  
+ 
+ R3  =
+ 
+    100000.  
+ 
+ Z3  =
+ 
+    100000. - 0.7957747i  
+ 
+ Z4  =
+ 
+    500000. - 3.9788736i  
+ 
+ Zx  =
+ 
+    500000. - 3.9788736i  
+ 
+ Rx  =
+ 
+    500000.  
+ 
+ Xc  =
+ 
+    3.9788736  
+ 
+ Cx  =
+ 
+    0.00002  
+ 
+unknown resistance
+ 
+Rx=500000 ohm
+ 
+unknown capacitance
+ 
+Cx=0.00002000 F 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.24/Example8_24.sce #
+ 
+ R2  =
+ 
+    4.8  
+ 
+ r2  =
+ 
+    0.4  
+ 
+ w  =
+ 
+    2827.4334  
+ 
+ C2  =
+ 
+    0.0000005  
+ 
+ Z2  =
+ 
+    5.2 - 707.3553i  
+ 
+ Z3  =
+ 
+    200.  
+ 
+ Z4  =
+ 
+    2850.  
+ 
+ 
+ Z1  =
+ 
+    0.3649123 - 49.638969i  
+ 
+ R1  =
+ 
+    0.3649123  
+ 
+ Xc1  =
+ 
+    49.638969  
+ 
+ C1  =
+ 
+    0.0000071  
+ 
+ D  =
+ 
+    0.0073513  
+ 
+arm-1 resistance
+ 
+R1=0.3649 ohm
+ 
+arm-1 capacitance
+ 
+C1=0.000007 F
+ 
+dissipation factor
+ 
+D=0.007351 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.25/Example8_25.sce #
+ 
+ R2  =
+ 
+    842.  
+ 
+ w  =
+ 
+    6283.1853  
+ 
+ C2  =
+ 
+    0.0000001  
+ 
+ Z2  =
+ 
+    842. - 1178.9255i  
+ 
+ Z3  =
+ 
+    10.  
+ 
+ C4  =
+ 
+    0.000001  
+ 
+ Z4  =
+ 
+  - 159.15494i  
+ 
+ Z1  =
+ 
+    74.074074 + 52.90442i  
+ 
+ R1  =
+ 
+    74.074074  
+ 
+ Xl1  =
+ 
+    52.90442  
+ 
+ L1  =
+ 
+    0.00842  
+ 
+resistance of arm AB
+ 
+R1=74.074 ohm
+ 
+inductance of arm AB
+ 
+L1=0.0084 H 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.26/Example8_26.sce #
+ 
+ 
+ L1  =
+ 
+    0.0478  
+ 
+ R1  =
+ 
+    1.36  
+ 
+ 
+ L2  =
+ 
+    0.0478  
+ 
+ r1  =
+ 
+    32.7  
+ 
+ r2  =
+ 
+    31.34  
+ 
+inductance of branch-CD
+ 
+L2=0.0478 H
+ 
+resistance of branch-CD
+ 
+r2=31.34 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH8/EX8.27/Example8_27.sce #
+ 
+ R1  =
+ 
+    100.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ R3  =
+ 
+    230.  
+ 
+ R4  =
+ 
+    230.  
+ 
+ lerrR1  =
+ 
+    0.0002  
+ 
+ lerrR3  =
+ 
+    0.0001  
+ 
+ lerrR2  =
+ 
+    0.0002  
+ 
+ lerrR4  =
+ 
+    0.0005  
+ 
+ R4u  =
+ 
+    230.115  
+ 
+ R4l  =
+ 
+    229.885  
+ 
+limiting range of R4
+ 
+upper limit=230.115 ohm
+ 
+lower limit=229.885 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.1/Example9_1.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    440.  
+ 
+ phi  =
+ 
+    0.07  
+ 
+ N  =
+ 
+    900.  
+ 
+ 
+ A  =
+ 
+    4.  
+ 
+ E  =
+ 
+    462.  
+ 
+e.m.f for lap wound
+ 
+E=462 V
+ 
+ 
+ A  =
+ 
+    2.  
+ 
+ E  =
+ 
+    924.  
+ 
+e.m.f for wave wound
+ 
+E=924 V
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.2/Example9_2.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ phi  =
+ 
+    0.021  
+ 
+ N  =
+ 
+    1120.  
+ 
+ C  =
+ 
+    42.  
+ 
+ tpC  =
+ 
+    8.  
+ 
+ t  =
+ 
+    336.  
+ 
+ Z  =
+ 
+    672.  
+ 
+ 
+ A  =
+ 
+    4.  
+ 
+ E  =
+ 
+    263.424  
+ 
+e.m.f for lap wound
+ 
+E=263 V
+ 
+ 
+ A  =
+ 
+    2.  
+ 
+ E  =
+ 
+    263.424  
+ 
+ N  =
+ 
+    560.  
+ 
+speed of generator for wave wound
+ 
+N=560 r.p.m
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.3/Example9_3.sce #
+ 
+ V  =
+ 
+    220.  
+ 
+ Ia  =
+ 
+    30.  
+ 
+ Ra  =
+ 
+    0.75  
+ 
+ Eb  =
+ 
+    197.5  
+ 
+back e.m.f of motor
+ 
+Ebb=197.50 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.4/Example9_4.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ V  =
+ 
+    230.  
+ 
+ Ra  =
+ 
+    0.6  
+ 
+ Z  =
+ 
+    250.  
+ 
+ phi  =
+ 
+    0.03  
+ 
+ Ia  =
+ 
+    40.  
+ 
+ Eb  =
+ 
+    206.  
+ 
+ N  =
+ 
+    1648.  
+ 
+back e.m.f
+ 
+Eb=206 V
+ 
+speed of motor
+ 
+N=1648 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.5/Example9_5.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    480.  
+ 
+ phi  =
+ 
+    0.02  
+ 
+ Ia  =
+ 
+    50.  
+ 
+ Ta  =
+ 
+    76.32  
+ 
+gross torque
+ 
+Ta=76.320 N 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.6/Example9_6.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ No  =
+ 
+    1000.  
+ 
+ Z  =
+ 
+    540.  
+ 
+ V  =
+ 
+    230.  
+ 
+ phi  =
+ 
+    0.025  
+ 
+ Ra  =
+ 
+    0.8  
+ 
+ Ebo  =
+ 
+    225.  
+ 
+ Iao  =
+ 
+    6.25  
+ 
+ SL  =
+ 
+    1406.25  
+ 
+ wo  =
+ 
+    104.71976  
+ 
+ Tf  =
+ 
+    13.428698  
+ 
+induced e.m.f
+ 
+Ebo=225 V
+ 
+armature current
+ 
+Ia=6.25 A
+ 
+stray losses
+ 
+Sl=1406.25 W
+ 
+loss torque
+ 
+Tf=13.429 Nm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.7/Example9_7.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    200.  
+ 
+ V  =
+ 
+    250.  
+ 
+ A  =
+ 
+    2.  
+ 
+ phi  =
+ 
+    0.025  
+ 
+ Ia  =
+ 
+    60.  
+ 
+ Il  =
+ 
+    60.  
+ 
+ Ra  =
+ 
+    0.15  
+ 
+ Rse  =
+ 
+    0.2  
+ 
+ Eb  =
+ 
+    229.  
+ 
+ N  =
+ 
+    1374.  
+ 
+speed of motor
+ 
+N=1374 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.8/Example9_8.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ Il  =
+ 
+    20.  
+ 
+ Ra  =
+ 
+    0.3  
+ 
+ Rsh  =
+ 
+    200.  
+ 
+ Ish  =
+ 
+    1.25  
+ 
+ Ia  =
+ 
+    18.75  
+ 
+ Eb  =
+ 
+    244.375  
+ 
+back e.m.f
+ 
+Eb=244.375 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.9/Example9_9.sce #
+ 
+ No  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    220.  
+ 
+ Rsh  =
+ 
+    110.  
+ 
+ Ra  =
+ 
+    0.3  
+ 
+ Ish  =
+ 
+    2.  
+ 
+ Ilo  =
+ 
+    6.  
+ 
+ Iao  =
+ 
+    4.  
+ 
+ Rao  =
+ 
+    0.3  
+ 
+ Ebo  =
+ 
+    218.8  
+ 
+ 
+ Il  =
+ 
+    50.  
+ 
+ IaFL  =
+ 
+    48.  
+ 
+ EbFL  =
+ 
+    205.6  
+ 
+ 
+ NFL  =
+ 
+    939.67093  
+ 
+speed at full load
+ 
+NFL=939.671 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.10/Example9_10.sce #
+ 
+ N1  =
+ 
+    800.  
+ 
+ I1  =
+ 
+    20.  
+ 
+ V  =
+ 
+    250.  
+ 
+ Ia1  =
+ 
+    20.  
+ 
+ I2  =
+ 
+    50.  
+ 
+ Ia2  =
+ 
+    50.  
+ 
+ Ra  =
+ 
+    0.2  
+ 
+ Ise1  =
+ 
+    20.  
+ 
+ Ise2  =
+ 
+    50.  
+ 
+ Rse  =
+ 
+    0.3  
+ 
+ Eb1  =
+ 
+    240.  
+ 
+ Eb2  =
+ 
+    225.  
+ 
+ 
+ N2  =
+ 
+    300.  
+ 
+speed of motor on new load
+ 
+N2=300.000 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.11/Example9_11.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ Rsh  =
+ 
+    250.  
+ 
+ Ra  =
+ 
+    0.25  
+ 
+ Rx  =
+ 
+    250.  
+ 
+ Ia1  =
+ 
+    20.  
+ 
+ Ish1  =
+ 
+    1.  
+ 
+ Ish2  =
+ 
+    0.5  
+ 
+ N1  =
+ 
+    1500.  
+ 
+ Eb1  =
+ 
+    245.  
+ 
+ 
+ 
+ Ia2  =
+ 
+    40.  
+ 
+ Eb2  =
+ 
+    240.  
+ 
+ 
+ N2  =
+ 
+    2938.7755  
+ 
+new current
+ 
+Ia2=40 A
+ 
+new speed
+ 
+N2=2938.776 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.12/Example9_12.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ Ra  =
+ 
+    0.5  
+ 
+ Rsh  =
+ 
+    250.  
+ 
+ Ia1  =
+ 
+    20.  
+ 
+ Ish1  =
+ 
+    1.  
+ 
+ Eb1  =
+ 
+    240.  
+ 
+ N1  =
+ 
+    600.  
+ 
+ N2  =
+ 
+    800.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+  - 187.5  
+ 
+ a  =
+ 
+    240.  
+ 
+ c  =
+ 
+    7.5  
+ 
+ Ish2  =
+ 
+    0.7389609  
+ 
+ Rx  =
+ 
+    88.312899  
+ 
+resistance in shunt feild
+ 
+Rx=88.313 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.13/Example9_13.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ Ra  =
+ 
+    0.15  
+ 
+ Rx  =
+ 
+    0.1  
+ 
+ Rse  =
+ 
+    0.1  
+ 
+ N1  =
+ 
+    800.  
+ 
+ Ise1  =
+ 
+    30.  
+ 
+ Ia1  =
+ 
+    30.  
+ 
+ I1  =
+ 
+    30.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Ia2  =
+ 
+    51.961524  
+ 
+ Ise2  =
+ 
+    25.980762  
+ 
+ Eb1  =
+ 
+    242.5  
+ 
+ Eb2  =
+ 
+    239.6077  
+ 
+ 
+ N2  =
+ 
+    912.74271  
+ 
+speed of motor
+ 
+N2=912.743 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.14/Example9_14.sce #
+ 
+ V  =
+ 
+    220.  
+ 
+ Ise1  =
+ 
+    15.  
+ 
+ Ia1  =
+ 
+    15.  
+ 
+ Ia2  =
+ 
+    10.  
+ 
+ Ise2  =
+ 
+    10.  
+ 
+ I2  =
+ 
+    10.  
+ 
+ N1  =
+ 
+    900.  
+ 
+ Ra  =
+ 
+    0.5  
+ 
+ Rse  =
+ 
+    0.5  
+ 
+ Rx  =
+ 
+    4.  
+ 
+ Eb1  =
+ 
+    205.  
+ 
+ Eb2  =
+ 
+    170.  
+ 
+ N2  =
+ 
+    1119.5122  
+ 
+speed of motor
+ 
+N2=1119.512 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.15/Example9_15.sce #
+ 
+ P  =
+ 
+    6.  
+ 
+ V  =
+ 
+    500.  
+ 
+ A  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    1200.  
+ 
+ phi  =
+ 
+    0.02  
+ 
+ Ra  =
+ 
+    0.5  
+ 
+ Rsh  =
+ 
+    250.  
+ 
+ Il  =
+ 
+    20.  
+ 
+ Ish  =
+ 
+    2.  
+ 
+ Ia  =
+ 
+    18.  
+ 
+ Eb  =
+ 
+    491.  
+ 
+ N  =
+ 
+    409.16667  
+ 
+ Pm  =
+ 
+    8838.  
+ 
+ w  =
+ 
+    42.847833  
+ 
+ Tg  =
+ 
+    206.26481  
+ 
+ ML  =
+ 
+    900.  
+ 
+ Pout  =
+ 
+    7938.  
+ 
+ Tsh  =
+ 
+    185.26024  
+ 
+ Pin  =
+ 
+    10000.  
+ 
+ n  =
+ 
+    79.38  
+ 
+usefull torque
+ 
+Tsh=185.26 Nm
+ 
+efficiency at load
+ 
+n=79.38 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.16/Example9_16.sce #
+ 
+ V  =
+ 
+    120.  
+ 
+ Ra  =
+ 
+    0.2  
+ 
+ Rsh  =
+ 
+    60.  
+ 
+ 
+ Il1  =
+ 
+    40.  
+ 
+ N1  =
+ 
+    1800.  
+ 
+ 
+ Ish  =
+ 
+    2.  
+ 
+ Ia1  =
+ 
+    38.  
+ 
+ Eb1  =
+ 
+    112.4  
+ 
+ 
+ Ia2  =
+ 
+    19.  
+ 
+ Eb2  =
+ 
+    116.2  
+ 
+ N2  =
+ 
+    1860.8541  
+ 
+speed of motor
+ 
+N2=1860.85 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.17/Example9_17.sce #
+ 
+ Ra  =
+ 
+    0.08  
+ 
+ Eb1  =
+ 
+    242.  
+ 
+ V  =
+ 
+    250.  
+ 
+ Ia  =
+ 
+    87.  
+ 
+ Vt  =
+ 
+    250.  
+ 
+ Nm  =
+ 
+    1500.  
+ 
+ Ia1  =
+ 
+    100.  
+ 
+ 
+ Ias  =
+ 
+    3125.  
+ 
+ Ia2  =
+ 
+    120.  
+ 
+ Eb2  =
+ 
+    240.4  
+ 
+ Eg  =
+ 
+    256.96  
+ 
+ Ng  =
+ 
+    1592.7273  
+ 
+speed as generator
+ 
+Ng=1592.73 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.18/Example9_18.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ Po  =
+ 
+    59680.  
+ 
+ Rsh  =
+ 
+    250.  
+ 
+ Ra  =
+ 
+    0.04  
+ 
+ n  =
+ 
+    80.  
+ 
+ N1  =
+ 
+    1200.  
+ 
+ Il  =
+ 
+    298.4  
+ 
+ Ish  =
+ 
+    1.  
+ 
+ Ia  =
+ 
+    297.4  
+ 
+ Eb  =
+ 
+    238.104  
+ 
+ Pm  =
+ 
+    70812.13  
+ 
+ SL  =
+ 
+    11132.13  
+ 
+gross mechanical power
+ 
+Pm=70812.130 W
+ 
+stray losses
+ 
+SL=11132.13 W
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+  - 6250.  
+ 
+ a  =
+ 
+    1.  
+ 
+ c  =
+ 
+    278303.24  
+ 
+ Iao  =
+ 
+    44.850367  
+ 
+ I  =
+ 
+    43.850367  
+ 
+ Ebo  =
+ 
+    248.20599  
+ 
+ No  =
+ 
+    1250.9121  
+ 
+no load speed
+ 
+No=1250.912 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.19/Example9_19.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ P  =
+ 
+    4.  
+ 
+ Ra  =
+ 
+    0.1  
+ 
+ Rsh  =
+ 
+    125.  
+ 
+ Vbr  =
+ 
+    2.  
+ 
+ 
+ Ilo  =
+ 
+    4.  
+ 
+ No  =
+ 
+    1200.  
+ 
+ Il1  =
+ 
+    61.  
+ 
+ Ish  =
+ 
+    2.  
+ 
+ Iao  =
+ 
+    2.  
+ 
+ Ebo  =
+ 
+    247.8  
+ 
+ 
+ 
+ 
+ phi  =
+ 
+    0.95  
+ 
+ Ia1  =
+ 
+    59.  
+ 
+ Eb1  =
+ 
+    242.1  
+ 
+ N1  =
+ 
+    1234.1022  
+ 
+full load speed
+ 
+N1=1234.102 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.20/Example9_20.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ Ra  =
+ 
+    0.15  
+ 
+ Rsh  =
+ 
+    166.67  
+ 
+ No  =
+ 
+    1280.  
+ 
+ Il1  =
+ 
+    67.  
+ 
+ Ish  =
+ 
+    1.49997  
+ 
+ Ia1  =
+ 
+    65.50003  
+ 
+ Eb1  =
+ 
+    240.175  
+ 
+ 
+ Ilo  =
+ 
+    6.5  
+ 
+ Ish  =
+ 
+    1.5  
+ 
+ Iao  =
+ 
+    5.  
+ 
+ Ebo  =
+ 
+    249.25  
+ 
+ N1  =
+ 
+    1233.3962  
+ 
+ Sr  =
+ 
+    3.6409246  
+ 
+ SL  =
+ 
+    1246.25  
+ 
+ Po  =
+ 
+    14485.219  
+ 
+ hp  =
+ 
+    19.417184  
+ 
+ Pi  =
+ 
+    16750.  
+ 
+ n  =
+ 
+    86.478922  
+ 
+full load speed
+ 
+N1=1233.396 r.p.m
+ 
+speed regulation
+ 
+Sr=3.64 
+ 
+hp rating of machine
+ 
+hp=19.42 hp
+ 
+full load efficiency
+ 
+n=86.48  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.21/Example9_21.sce #
+ 
+ Ra  =
+ 
+    0.1  
+ 
+ V  =
+ 
+    110.  
+ 
+ P  =
+ 
+    4.  
+ 
+ Ia1  =
+ 
+    50.  
+ 
+ I1  =
+ 
+    50.  
+ 
+ Rse  =
+ 
+    0.02  
+ 
+ N1  =
+ 
+    700.  
+ 
+ Eb1  =
+ 
+    104.  
+ 
+ 
+ Ia2  =
+ 
+    70.710678  
+ 
+ Eb2  =
+ 
+    102.57538  
+ 
+ 
+ N2  =
+ 
+    976.38889  
+ 
+speed of motor
+ 
+N2=976.389 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.22/Example9_22.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ Ia1  =
+ 
+    50.  
+ 
+ N1  =
+ 
+    2000.  
+ 
+ V  =
+ 
+    230.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ia2  =
+ 
+    84.089642  
+ 
+ N2  =
+ 
+    2378.4142  
+ 
+new speed of motor
+ 
+N2=2378.414 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.23/Example9_23.sce #
+ 
+ V  =
+ 
+    200.  
+ 
+ Ia1  =
+ 
+    30.  
+ 
+ Ra  =
+ 
+    0.75  
+ 
+ Rse  =
+ 
+    0.75  
+ 
+ R  =
+ 
+    1.5  
+ 
+ Eb1  =
+ 
+    155.  
+ 
+ 
+ N  =
+ 
+    0.6  
+ 
+ 
+ Ia2  =
+ 
+    13.94274  
+ 
+ 
+ Eb2  =
+ 
+    43.222494  
+ 
+ 
+ Rx  =
+ 
+    9.7443828  
+ 
+extra resistance to reduce speed
+ 
+Rx=9.744 ohm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.24/Example9_24.sce #
+ 
+ R  =
+ 
+    1.  
+ 
+ V1  =
+ 
+    230.  
+ 
+ N1  =
+ 
+    300.  
+ 
+ Ia1  =
+ 
+    15.  
+ 
+ N2  =
+ 
+    375.  
+ 
+ 
+ Ia2  =
+ 
+    18.75  
+ 
+ 
+ Eb1  =
+ 
+    215.  
+ 
+ 
+ 
+ 
+ V2  =
+ 
+    354.6875  
+ 
+new supply voltage
+ 
+V2=354.688 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.25/Example9_25.sce #
+ 
+ V  =
+ 
+    400.  
+ 
+ Po1  =
+ 
+    18500.  
+ 
+ Pi1  =
+ 
+    22500.  
+ 
+ Rsh  =
+ 
+    200.  
+ 
+ Ra  =
+ 
+    0.4  
+ 
+ Po2  =
+ 
+    9000.  
+ 
+ I1  =
+ 
+    56.25  
+ 
+ Ish  =
+ 
+    2.  
+ 
+ Ia1  =
+ 
+    54.25  
+ 
+ Acl  =
+ 
+    1177.225  
+ 
+ Scl  =
+ 
+    800.  
+ 
+ TL  =
+ 
+    4000.  
+ 
+ SFl  =
+ 
+    2022.775  
+ 
+ 
+ Pm  =
+ 
+    11022.775  
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.4  
+ 
+ b  =
+ 
+  - 400.  
+ 
+ c  =
+ 
+    11022.775  
+ 
+ Ia2  =
+ 
+    28.361301  
+ 
+ Pi2  =
+ 
+    12144.52  
+ 
+ n  =
+ 
+    74.107497  
+ 
+power input in case-2
+ 
+Pi2=12144.520 W
+ 
+efficiency of motor
+ 
+n=74.11  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.26/Example9_26.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ Ilo  =
+ 
+    4.  
+ 
+ Ra  =
+ 
+    1.  
+ 
+ Rsh  =
+ 
+    250.  
+ 
+ Ish  =
+ 
+    1.  
+ 
+ Il1  =
+ 
+    20.  
+ 
+ Iao  =
+ 
+    3.  
+ 
+ Ia1  =
+ 
+    19.  
+ 
+ Ebo  =
+ 
+    247.  
+ 
+ Po  =
+ 
+    741.  
+ 
+ Eb1  =
+ 
+    231.  
+ 
+ P1  =
+ 
+    4389.  
+ 
+ Pout  =
+ 
+    3648.  
+ 
+ Pi  =
+ 
+    5000.  
+ 
+ n  =
+ 
+    72.96  
+ 
+ 
+ 
+ Ia  =
+ 
+    31.480152  
+ 
+ Ebm  =
+ 
+    218.51985  
+ 
+ Pm  =
+ 
+    6879.0381  
+ 
+ Pout  =
+ 
+    6138.0381  
+ 
+ Pi  =
+ 
+    8120.0381  
+ 
+ nm  =
+ 
+    75.591248  
+ 
+maximum efficiency
+ 
+nm=75.59 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.27/Example9_27.sce #
+ 
+ V  =
+ 
+    250.  
+ 
+ FLo  =
+ 
+    16000.  
+ 
+ n  =
+ 
+    80.  
+ 
+ I  =
+ 
+    20000.  
+ 
+ Il  =
+ 
+    80.  
+ 
+ Il  =
+ 
+    80.  
+ 
+ Ia  =
+ 
+    120.  
+ 
+ 
+ Ra  =
+ 
+    2.0833333  
+ 
+ Rac  =
+ 
+    0.18  
+ 
+ Ras  =
+ 
+    1.9033333  
+ 
+ Ia  =
+ 
+    80.  
+ 
+ Eb  =
+ 
+    83.333333  
+ 
+back e.m.f
+ 
+Eb=83.33 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.28/Example9_28.sce #
+ 
+ Po  =
+ 
+    14710.  
+ 
+ V  =
+ 
+    230.  
+ 
+ N  =
+ 
+    1150.  
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    882.  
+ 
+ Ia  =
+ 
+    73.  
+ 
+ Ish  =
+ 
+    1.6  
+ 
+ T  =
+ 
+    122.14796  
+ 
+ phi  =
+ 
+    0.0119316  
+ 
+ Il  =
+ 
+    74.6  
+ 
+ Pin  =
+ 
+    17158.  
+ 
+ n  =
+ 
+    85.732603  
+ 
+electromagnetic torque
+ 
+T=122.148 Nm
+ 
+flux per pole
+ 
+phi=0.012 Wb
+ 
+efficiency of motor
+ 
+n=85.733 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.29/Example9_29.sce #
+ 
+ Pr  =
+ 
+    12000.  
+ 
+ V  =
+ 
+    200.  
+ 
+ Rsh  =
+ 
+    80.  
+ 
+ N1  =
+ 
+    800.  
+ 
+ n  =
+ 
+    0.9  
+ 
+ Out  =
+ 
+    9600.  
+ 
+ In  =
+ 
+    10666.667  
+ 
+ TL  =
+ 
+    1066.6667  
+ 
+ 
+ Iln  =
+ 
+    70.  
+ 
+ 
+ 
+ Wc  =
+ 
+    533.33333  
+ 
+ Il  =
+ 
+    53.333333  
+ 
+ Ish  =
+ 
+    2.5  
+ 
+ Ia1  =
+ 
+    50.833333  
+ 
+ Ra  =
+ 
+    0.2063961  
+ 
+ Ia2  =
+ 
+    67.5  
+ 
+ Wcn  =
+ 
+    533.33333  
+ 
+ TL  =
+ 
+    1473.7257  
+ 
+ Pi  =
+ 
+    14000.  
+ 
+ n  =
+ 
+    89.473388  
+ 
+ Eb1  =
+ 
+    189.5082  
+ 
+ Eb2  =
+ 
+    186.06826  
+ 
+ N2  =
+ 
+    785.47847  
+ 
+speed of motor
+ 
+N2=785.478 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.30/Example9_30.sce #
+ 
+ Po  =
+ 
+    8952.  
+ 
+ V  =
+ 
+    440.  
+ 
+ Ra  =
+ 
+    1.1  
+ 
+ Rsh  =
+ 
+    650.  
+ 
+ Rint  =
+ 
+    0.4  
+ 
+ Rreg  =
+ 
+    50.  
+ 
+ Ml  =
+ 
+    450.  
+ 
+ Vbr  =
+ 
+    2.  
+ 
+ Il  =
+ 
+    24.  
+ 
+ Rat  =
+ 
+    1.5  
+ 
+ Rsht  =
+ 
+    700.  
+ 
+ Ish  =
+ 
+    0.6285714  
+ 
+ Ia  =
+ 
+    23.371429  
+ 
+ Acl  =
+ 
+    819.33551  
+ 
+ Fcl  =
+ 
+    276.57143  
+ 
+ Bdl  =
+ 
+    46.742857  
+ 
+ TL  =
+ 
+    1592.6498  
+ 
+ n  =
+ 
+    84.896134  
+ 
+efficiency of motor
+ 
+n=84.90  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.31/Example9_31.sce #
+ 
+ 
+ N1  =
+ 
+    700.  
+ 
+ R  =
+ 
+    0.5  
+ 
+ I1  =
+ 
+    70.  
+ 
+ V  =
+ 
+    500.  
+ 
+ Eb1  =
+ 
+    465.  
+ 
+ K1  =
+ 
+    0.0094898  
+ 
+ 
+ N2  =
+ 
+    750.  
+ 
+ R  =
+ 
+    0.5  
+ 
+ I2  =
+ 
+    70.  
+ 
+ V  =
+ 
+    500.  
+ 
+ Eb2  =
+ 
+    465.  
+ 
+ K2  =
+ 
+    0.0088571  
+ 
+ 
+ It  =
+ 
+    70.  
+ 
+ Rt  =
+ 
+    1.  
+ 
+ Eb  =
+ 
+    430.  
+ 
+ N  =
+ 
+    334.81646  
+ 
+speed of motors
+ 
+N=334.816 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.32/Example9_32.sce #
+ 
+ Po  =
+ 
+    7460.  
+ 
+ V  =
+ 
+    250.  
+ 
+ Ilo  =
+ 
+    5.  
+ 
+ Ra  =
+ 
+    0.5  
+ 
+ Rsh  =
+ 
+    250.  
+ 
+ Ish  =
+ 
+    1.  
+ 
+ Iao  =
+ 
+    4.  
+ 
+ Acl  =
+ 
+    8.  
+ 
+ Fcl  =
+ 
+    250.  
+ 
+ Pi  =
+ 
+    1250.  
+ 
+ FWl  =
+ 
+    992.  
+ 
+ 
+ 
+ b  =
+ 
+  - 250.  
+ 
+ a  =
+ 
+    0.5  
+ 
+ c  =
+ 
+    8452.  
+ 
+ Ia  =
+ 
+    36.467801  
+ 
+ TL  =
+ 
+    1906.9503  
+ 
+ n  =
+ 
+    79.641717  
+ 
+ 
+ Ia  =
+ 
+    49.839743  
+ 
+ Eb  =
+ 
+    225.08013  
+ 
+ Pm  =
+ 
+    11217.936  
+ 
+ 
+ Po  =
+ 
+    10225.936  
+ 
+maximum efficiency output
+ 
+Po=10225.936 W 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH9/EX9.33/Example9_33.sce #
+ 
+ V  =
+ 
+    500.  
+ 
+ Ra  =
+ 
+    1.2  
+ 
+ Rsh  =
+ 
+    500.  
+ 
+ Ish  =
+ 
+    1.  
+ 
+ Ilo  =
+ 
+    4.  
+ 
+ Iao  =
+ 
+    3.  
+ 
+ Ebo  =
+ 
+    496.4  
+ 
+ Il1  =
+ 
+    26.  
+ 
+ Ish1  =
+ 
+    1.  
+ 
+ Ia1  =
+ 
+    25.  
+ 
+ Eb1  =
+ 
+    470.  
+ 
+ No  =
+ 
+    1000.  
+ 
+ N1  =
+ 
+    946.81708  
+ 
+ Rx  =
+ 
+    2.3  
+ 
+ Eb2  =
+ 
+    412.5  
+ 
+ N2  =
+ 
+    830.98308  
+ 
+speed of motor case-1
+ 
+N2=830.983 r.p.m
+ 
+ Ish3  =
+ 
+    0.85  
+ 
+ Ia3  =
+ 
+    29.411765  
+ 
+ Eb3  =
+ 
+    464.70588  
+ 
+ N3  =
+ 
+    1101.3554  
+ 
+speed of motor case-2
+ 
+N3=1101.355 r.p.m
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.1/Example10_1.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ N  =
+ 
+    1410.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.06  
+ 
+ s  =
+ 
+    6.  
+ 
+full load slip
+ 
+s=6  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.2/Example10_2.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ sfl  =
+ 
+    0.04  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ Nfl  =
+ 
+    1440.  
+ 
+full load speed of motor
+ 
+Nfl=1440 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.3/Example10_3.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ N  =
+ 
+    1470.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.02  
+ 
+ fr  =
+ 
+    1.  
+ 
+frequency of induced e.m.f
+ 
+fr=1 Hz 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.4/Example10_4.sce #
+ 
+ P  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ fr  =
+ 
+    2.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ s  =
+ 
+    4.  
+ 
+full load slip
+ 
+s=4 
+ 
+ s  =
+ 
+    0.04  
+ 
+ Ns  =
+ 
+    750.  
+ 
+ N  =
+ 
+    720.  
+ 
+speed of motor
+ 
+N=720 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.5/Example10_5.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ N  =
+ 
+    1455.  
+ 
+ E1line  =
+ 
+    415.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.03  
+ 
+ fr  =
+ 
+    1.5  
+ 
+ E1ph  =
+ 
+    239.60036  
+ 
+ E2ph  =
+ 
+    119.80018  
+ 
+ E2r  =
+ 
+    3.5940054  
+ 
+frequency of rotor e.m.f
+ 
+fr=1.50 Hz
+ 
+magnitude of induced e.m.f standstill
+ 
+E2ph=119.80 V
+ 
+magnitude of induced e.m.f running
+ 
+E2r=3.594 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.6/Example10_6.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.2  
+ 
+ X2  =
+ 
+    1.  
+ 
+ E2line  =
+ 
+    120.  
+ 
+ E2ph  =
+ 
+    69.282032  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ 
+ pf  =
+ 
+    0.1961161  
+ 
+ I2  =
+ 
+    67.936622  
+ 
+ at start
+ 
+pf=0.196 lagging
+ 
+I2=67.94 A
+ 
+ 
+ N  =
+ 
+    1440.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ pf  =
+ 
+    0.9805807  
+ 
+ I2  =
+ 
+    13.587324  
+ 
+ on full load
+ 
+pf=0.981 lagging
+ 
+I2=13.59 A 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.7/Example10_7.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.1  
+ 
+ X2  =
+ 
+    1.  
+ 
+ N  =
+ 
+    1440.  
+ 
+ K  =
+ 
+    0.5  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ E1line  =
+ 
+    400.  
+ 
+ E1ph  =
+ 
+    230.94011  
+ 
+ E2ph  =
+ 
+    115.47005  
+ 
+ s  =
+ 
+    0.04  
+ 
+ ns  =
+ 
+    25.  
+ 
+ T  =
+ 
+    87.809624  
+ 
+torque on full load
+ 
+T=87.81 N-m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.8/Example10_8.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ K  =
+ 
+    0.25  
+ 
+ R2  =
+ 
+    0.01  
+ 
+ X2  =
+ 
+    0.1  
+ 
+ E1line  =
+ 
+    400.  
+ 
+ E1ph  =
+ 
+    230.94011  
+ 
+ E2  =
+ 
+    57.735027  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ 
+ s  =
+ 
+    1.  
+ 
+ ns  =
+ 
+    25.  
+ 
+ k  =
+ 
+    0.0190986  
+ 
+ Tst  =
+ 
+    63.031661  
+ 
+starting torque
+ 
+Tst=63.032 N-m
+ 
+ 
+ sm  =
+ 
+    0.1  
+ 
+ sm  =
+ 
+    10.  
+ 
+slip at which max torque occurs
+ 
+sm=10 
+ 
+ 
+ sm  =
+ 
+    0.1  
+ 
+ N  =
+ 
+    1350.  
+ 
+speed at which max torque occurs
+ 
+N=1350 r.p.m
+ 
+ 
+ Tm  =
+ 
+    318.30989  
+ 
+ sf  =
+ 
+    0.04  
+ 
+ Tfl  =
+ 
+    219.52406  
+ 
+max torque
+ 
+Tm=318.31 N-m
+ 
+full load torque
+ 
+Tfl=219.52 N-m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.9/Example10_9.sce #
+ 
+ P  =
+ 
+    24.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.016  
+ 
+ X2  =
+ 
+    0.265  
+ 
+ N  =
+ 
+    247.  
+ 
+ Ns  =
+ 
+    250.  
+ 
+ sf  =
+ 
+    0.012  
+ 
+ sm  =
+ 
+    0.0603774  
+ 
+ Tfm  =
+ 
+    0.3823948  
+ 
+ Tsm  =
+ 
+    0.1203161  
+ 
+full load torque to max torque
+ 
+Tfm=0.3824 
+ 
+starting torque to max torque
+ 
+Tsm=0.1203 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.10/Example10_10.sce #
+ 
+ R2  =
+ 
+    0.04  
+ 
+ X2  =
+ 
+    0.2  
+ 
+ 
+ R21  =
+ 
+    0.2  
+ 
+ Rex  =
+ 
+  - 0.16  
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+  - 0.8  
+ 
+ c  =
+ 
+    0.04  
+ 
+ R21  =
+ 
+    0.0535898  
+ 
+ Rex  =
+ 
+    0.0135898  
+ 
+external resistance
+ 
+Rex=0.0136 ohm per phase 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.11/Example10_11.sce #
+ 
+ Tsh  =
+ 
+    190.  
+ 
+ P  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ fr  =
+ 
+    1.5  
+ 
+ ML  =
+ 
+    700.  
+ 
+ s  =
+ 
+    0.03  
+ 
+ Ns  =
+ 
+    750.  
+ 
+ N  =
+ 
+    727.5  
+ 
+ Po  =
+ 
+    14474.888  
+ 
+ Pm  =
+ 
+    15174.888  
+ 
+ Pc  =
+ 
+    469.32644  
+ 
+rotor copper loss
+ 
+Pc=469.326 W 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.12/Example10_12.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Pi  =
+ 
+    50000.  
+ 
+ N  =
+ 
+    1440.  
+ 
+ Sl  =
+ 
+    1000.  
+ 
+ Fl  =
+ 
+    650.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ P2  =
+ 
+    49000.  
+ 
+ Pc  =
+ 
+    1960.  
+ 
+ Pm  =
+ 
+    47040.  
+ 
+ Po  =
+ 
+    46390.  
+ 
+ n  =
+ 
+    92.78  
+ 
+full load efficiency
+ 
+n=92.78 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.13/Example10_13.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Tsh  =
+ 
+    300.  
+ 
+ Tlost  =
+ 
+    50.  
+ 
+ fr  =
+ 
+    2.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ s  =
+ 
+    4.  
+ 
+slip s=4 
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ N  =
+ 
+    1440.  
+ 
+ Po  =
+ 
+    45238.934  
+ 
+ Fl  =
+ 
+    7539.8224  
+ 
+ Pm  =
+ 
+    52778.757  
+ 
+ Pc  =
+ 
+    2199.1149  
+ 
+ Rcl  =
+ 
+    733.03829  
+ 
+ P2  =
+ 
+    54977.871  
+ 
+ n  =
+ 
+    96.  
+ 
+ I2r  =
+ 
+    60.  
+ 
+ R2  =
+ 
+    0.2036217  
+ 
+net output power
+ 
+Po=45238.934 W
+ 
+rotor copper loss per phase
+ 
+Rcl=733.038 W
+ 
+rotor efficiency
+ 
+n=96.00 
+ 
+rotor resistance per phase
+ 
+R2=0.2036 ohm/ph 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.14/Example10_14.sce #
+ 
+ Po  =
+ 
+    25000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    4.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ N  =
+ 
+    1410.  
+ 
+ s  =
+ 
+    0.06  
+ 
+ Ml  =
+ 
+    850.  
+ 
+ Pm  =
+ 
+    25850.  
+ 
+ Pc  =
+ 
+    1650.  
+ 
+ I2r  =
+ 
+    65.  
+ 
+ R2  =
+ 
+    0.1301775  
+ 
+ Sl  =
+ 
+    2805.  
+ 
+ P2  =
+ 
+    27500.  
+ 
+ Pin  =
+ 
+    30305.  
+ 
+ n  =
+ 
+    82.494638  
+ 
+gross mechanical power
+ 
+Pm=25850 W
+ 
+rotor copper losses
+ 
+Pc=1650 W
+ 
+rotor resistance per phase
+ 
+R2=0.130 ohm/ph
+ 
+full load efficiency
+ 
+n=82.49 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.15/Example10_15.sce #
+ 
+ Po  =
+ 
+    24000.  
+ 
+ Il  =
+ 
+    57.  
+ 
+ Is  =
+ 
+    57.  
+ 
+ P  =
+ 
+    8.  
+ 
+ N  =
+ 
+    720.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Vl  =
+ 
+    415.  
+ 
+ pf  =
+ 
+    0.707  
+ 
+ Ns  =
+ 
+    750.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ Ml  =
+ 
+    1000.  
+ 
+ Pm  =
+ 
+    25000.  
+ 
+ Pc  =
+ 
+    1041.6667  
+ 
+ Tsh  =
+ 
+    318.30989  
+ 
+ T  =
+ 
+    331.5728  
+ 
+ Rcl  =
+ 
+    1041.66  
+ 
+ P2  =
+ 
+    26041.667  
+ 
+ Pi  =
+ 
+    28966.965  
+ 
+ Rs  =
+ 
+    0.1  
+ 
+ Scl  =
+ 
+    974.7  
+ 
+ Sl  =
+ 
+    2925.2983  
+ 
+ Sil  =
+ 
+    1950.5983  
+ 
+ n  =
+ 
+    82.853002  
+ 
+shaft torque
+ 
+Tsh=318.310 N-m
+ 
+gross torque 
+ 
+T=331.573 N-m
+ 
+rotor copper losses
+ 
+Pc=1041.67 W
+ 
+stator copper losses
+ 
+Scl=974.70 W
+ 
+stator iron losses
+ 
+Sil=1950.60 W
+ 
+overallefficiency
+ 
+n=82.85 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.16/Example10_16.sce #
+ 
+ sf  =
+ 
+    0.05  
+ 
+ 
+ Ifs  =
+ 
+    0.1666667  
+ 
+ x  =
+ 
+    0.7453560  
+ 
+ t  =
+ 
+    74.535599  
+ 
+ Ist  =
+ 
+    3.3333333  
+ 
+supply current
+ 
+Ist=3.33 times Ifl 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.17/Example10_17.sce #
+ 
+ R2  =
+ 
+    0.4  
+ 
+ X2  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    0.1650165  
+ 
+ratio of starting torque to full load torque
+ 
+T=0.165  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.18/Example10_18.sce #
+ 
+ 
+ Vl  =
+ 
+    1000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ K  =
+ 
+    3.6  
+ 
+ R2  =
+ 
+    0.01  
+ 
+ X2  =
+ 
+    0.2  
+ 
+ E1line  =
+ 
+    1000.  
+ 
+ E1  =
+ 
+    577.35027  
+ 
+ E2  =
+ 
+    160.37507  
+ 
+ 
+ I2  =
+ 
+    800.84956  
+ 
+ pf  =
+ 
+    0.0499376  
+ 
+rotor current at start
+ 
+I2=800.85 A
+ 
+rotor power factor
+ 
+pf=0.050 lagging (answer in book is wrong)
+ 
+ 
+ s  =
+ 
+    0.03  
+ 
+ I2r  =
+ 
+    412.54842  
+ 
+rotor current at slip 0.03
+ 
+I2r=412.55 A
+ 
+ I2  =
+ 
+    200.  
+ 
+ R21  =
+ 
+    0.7765334  
+ 
+ Rex  =
+ 
+    0.7665334  
+ 
+external resistance 
+ 
+Rex=0.7665 ohm/ph (answer in book is wrong) 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.19/Example10_19.sce #
+ 
+ P  =
+ 
+    12.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.15  
+ 
+ X2  =
+ 
+    0.25  
+ 
+ E2  =
+ 
+    32.  
+ 
+ Ns  =
+ 
+    500.  
+ 
+ ns  =
+ 
+    8.3333333  
+ 
+ Tst  =
+ 
+    103.53684  
+ 
+ N  =
+ 
+    480.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ Tfl  =
+ 
+    15.576339  
+ 
+ Tm  =
+ 
+    117.34176  
+ 
+ sm  =
+ 
+    0.6  
+ 
+ N  =
+ 
+    200.  
+ 
+starting torque
+ 
+Tst=103.54 Nm
+ 
+full load torque
+ 
+Tfl=15.576 Nm
+ 
+maximum torque
+ 
+Tm=117.342 Nm
+ 
+speed at max torque
+ 
+N=200 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.20/Example10_20.sce #
+ 
+ Po  =
+ 
+    36775.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    1573.262  
+ 
+ TL  =
+ 
+    6096.3904  
+ 
+ n  =
+ 
+    85.779817  
+ 
+efficiency on full load
+ 
+n=85.78  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.21/Example10_21.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.25  
+ 
+ X2  =
+ 
+    0.55  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ N1  =
+ 
+    1440.  
+ 
+ s1  =
+ 
+    0.04  
+ 
+ Rex  =
+ 
+    0.2  
+ 
+ R21  =
+ 
+    0.45  
+ 
+ 
+ 
+ a  =
+ 
+    0.3025  
+ 
+ b  =
+ 
+  - 2.8342  
+ 
+ c  =
+ 
+    0.2025  
+ 
+ s2  =
+ 
+    0.0720021  
+ 
+ N2  =
+ 
+    1391.9969  
+ 
+new speed of motor
+ 
+N2=1392 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.22/Example10_22.sce #
+ 
+ E2line  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.5  
+ 
+ X2  =
+ 
+    3.  
+ 
+ E2  =
+ 
+    28.867513  
+ 
+ 
+ s  =
+ 
+    1.  
+ 
+ I2r  =
+ 
+    9.49158  
+ 
+rotor current atstart
+ 
+I2r=9.492 A
+ 
+ Rx  =
+ 
+    6.  
+ 
+ I2r  =
+ 
+    4.0323892  
+ 
+rotor current for rheostat of 6 ohm
+ 
+I2r=4.032 A
+ 
+ 
+ s  =
+ 
+    0.04  
+ 
+ I2r  =
+ 
+    2.2456323  
+ 
+ pf  =
+ 
+    0.9723873  
+ 
+full load rotor current
+ 
+I2r=2.246 A
+ 
+full load power factor
+ 
+pf=0.972 lagging
+ 
+ E2r  =
+ 
+    1.1547005  
+ 
+rotor e.m.f on full load
+ 
+E2r=1.155 V 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.23/Example10_23.sce #
+ 
+ P  =
+ 
+    12.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.15  
+ 
+ X2  =
+ 
+    0.25  
+ 
+ E2  =
+ 
+    32.  
+ 
+ Ns  =
+ 
+    500.  
+ 
+ ns  =
+ 
+    8.3333333  
+ 
+ k  =
+ 
+    3.  
+ 
+ Tst  =
+ 
+    103.53684  
+ 
+ N  =
+ 
+    480.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ Tfl  =
+ 
+    15.576339  
+ 
+ Tm  =
+ 
+    117.34176  
+ 
+ sm  =
+ 
+    0.6  
+ 
+ N  =
+ 
+    200.  
+ 
+starting torque
+ 
+Tst=103.54 Nm
+ 
+full load torque
+ 
+Tfl=15.576 Nm
+ 
+maximum torque
+ 
+Tm=117.342 Nm
+ 
+speed at max torque
+ 
+N=200 r.p.m 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.24/Example10_24.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.4  
+ 
+ X2  =
+ 
+    2.  
+ 
+ E2b  =
+ 
+    520.  
+ 
+ E2ph  =
+ 
+    300.22214  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ N  =
+ 
+    1425.  
+ 
+ sf  =
+ 
+    0.05  
+ 
+ ns  =
+ 
+    25.  
+ 
+ Tfl  =
+ 
+    202.51998  
+ 
+ Tst  =
+ 
+    165.52114  
+ 
+ T  =
+ 
+    0.8173077  
+ 
+ Tm  =
+ 
+    413.80285  
+ 
+ T1  =
+ 
+    2.0432692  
+ 
+ 
+ sm  =
+ 
+    1.  
+ 
+ R21  =
+ 
+    2.  
+ 
+ Rex  =
+ 
+    1.6  
+ 
+full load torque
+ 
+Tfl=202.52 Nm
+ 
+ratio of Tst to Tfl
+ 
+T=0.8173 
+ 
+ratio of Tm to Tfl
+ 
+T1=2.0433 
+ 
+external resistance required
+ 
+Rex=1.60 ohm/ph 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.25/Example10_25.sce #
+ 
+ Po  =
+ 
+    33730.  
+ 
+ P  =
+ 
+    4.  
+ 
+ Vl  =
+ 
+    400.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Nfl  =
+ 
+    1440.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ Ml  =
+ 
+    1300.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ fr  =
+ 
+    2.  
+ 
+ Pm  =
+ 
+    35030.  
+ 
+ Pc  =
+ 
+    1459.5833  
+ 
+ Pcp  =
+ 
+    486.52778  
+ 
+ P2  =
+ 
+    36489.583  
+ 
+ Sl  =
+ 
+    1400.  
+ 
+ Pi  =
+ 
+    37889.583  
+ 
+ n  =
+ 
+    89.021829  
+ 
+ Il  =
+ 
+    68.361129  
+ 
+slip at full load
+ 
+s=0.040 
+ 
+rotor frequency
+ 
+fr=2 Hz
+ 
+rotor copper loss per phase
+ 
+Pcp=486.53 W
+ 
+total copper loss
+ 
+Pc=1459.58 W
+ 
+efficiency at full load
+ 
+n=89.02 
+ 
+line current drawn
+ 
+Il=68.361 A
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.26/Example10_26.sce #
+ 
+ R2  =
+ 
+    0.04  
+ 
+ X2  =
+ 
+    0.2  
+ 
+ sfl  =
+ 
+    0.03  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+  - 1.3633  
+ 
+ c  =
+ 
+    0.04  
+ 
+ R21  =
+ 
+    1.3332992  
+ 
+ Rex  =
+ 
+    1.2932992  
+ 
+ pf  =
+ 
+    0.9889358  
+ 
+power factor of rotor
+ 
+pf=0.989 lagging 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.27/Example10_27.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Po  =
+ 
+    8000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+  - 2.667  
+ 
+ c  =
+ 
+    1.  
+ 
+ sm  =
+ 
+    0.4513309  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+  - 1.8052  
+ 
+ c  =
+ 
+    0.2036  
+ 
+ sfl  =
+ 
+    0.1208796  
+ 
+ N  =
+ 
+    1318.6806  
+ 
+ Nm  =
+ 
+    823.00359  
+ 
+full load speed
+ 
+N=1318.68 r.p.m
+ 
+speed at max. torque
+ 
+Nm=823.00 r.p.m
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.28/Example10_28.sce #
+ 
+ Po  =
+ 
+    7355.  
+ 
+ Nfl  =
+ 
+    1410.  
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ sfl  =
+ 
+    0.06  
+ 
+ Nm  =
+ 
+    1200.  
+ 
+ sm  =
+ 
+    0.2  
+ 
+ T  =
+ 
+    0.5504587  
+ 
+ T1  =
+ 
+    2.6  
+ 
+ T2  =
+ 
+    1.4311927  
+ 
+ Tfl  =
+ 
+    49.812111  
+ 
+ Tst  =
+ 
+    34.804616  
+ 
+starting torque
+ 
+Tst=34.80 Nm 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.29/Example10_29.sce #
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R2  =
+ 
+    0.025  
+ 
+ X2  =
+ 
+    0.15  
+ 
+ sfl  =
+ 
+    0.04  
+ 
+ Tfl  =
+ 
+    150.  
+ 
+ sm  =
+ 
+    0.1666667  
+ 
+ Tm  =
+ 
+    330.5  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ N  =
+ 
+    1250.  
+ 
+ 
+ R21  =
+ 
+    0.15  
+ 
+ Rex  =
+ 
+    0.125  
+ 
+maximum torque
+ 
+Tm=330.50 Nm
+ 
+speed N=1250 r.p.m
+ 
+external resistance
+ 
+Rex=0.125 ohm/ph 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.30/Example10_30.sce #
+ 
+ Tsh  =
+ 
+    162.84  
+ 
+ P  =
+ 
+    6.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Tlost  =
+ 
+    20.36  
+ 
+ fr  =
+ 
+    1.5  
+ 
+ s  =
+ 
+    0.03  
+ 
+ Ns  =
+ 
+    1000.  
+ 
+ N  =
+ 
+    970.  
+ 
+ Po  =
+ 
+    16540.988  
+ 
+ Fl  =
+ 
+    2068.1314  
+ 
+ Pm  =
+ 
+    18609.119  
+ 
+ Pc  =
+ 
+    575.53977  
+ 
+ P2  =
+ 
+    19184.659  
+ 
+ Sl  =
+ 
+    830.  
+ 
+ Pi  =
+ 
+    20014.659  
+ 
+ n  =
+ 
+    82.644365  
+ 
+motor output
+ 
+Po=16540.9880 W
+ 
+copper loss in rotor
+ 
+Pc=575.540 W
+ 
+motor input
+ 
+Pi=20014.659 W
+ 
+efficiency of motor
+ 
+n=82.64  
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH10/EX10.31/Example10_31.sce #
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    8.  
+ 
+ R2  =
+ 
+    0.01  
+ 
+ X2  =
+ 
+    0.1  
+ 
+ sfl  =
+ 
+    0.04  
+ 
+ 
+ sm  =
+ 
+    0.1  
+ 
+ 
+ s  =
+ 
+    0.04  
+ 
+ T  =
+ 
+    1.45  
+ 
+ Ns  =
+ 
+    750.  
+ 
+ sm  =
+ 
+    0.1  
+ 
+ N  =
+ 
+    675.  
+ 
+ratio of max to full load torque
+ 
+T=1.45
+ 
+speed at max torque
+ 
+N=675 r.p.m 
+ 

@@ -1,0 +1,1926 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 84
+
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.1/1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ at,the end,density(in kg/l)=   
+ 
+    4.13  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.2/1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ diameter(in meter)=   
+ 
+    509.55414  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.5/1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mod_C(in newton)=   
+ 
+    2.4183D+01  
+ 
+ angle_C(in degree)=   
+ 
+    1.8068D+01  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.6/1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ parallel to A,Cp(in Newton)=   
+ 
+  - 7.321  
+ 
+ perpendicular to A,Cv(in Newton)=   
+ 
+    10.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.7/1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ difference(in newton)=   
+ 
+    1.  - 2.    5.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.8/1_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ work done(in joule)=   
+ 
+    8660.25404  
+ 
+ 
+ 
+ 
+ 
+ work done(in joule)=   
+ 
+    43301.2702  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.11/1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A*B=   
+ 
+    0.    0.    10.  
+ 
+ 
+ 
+ 
+ 
+ mod_(A*B)   
+ 
+    10.  
+ 
+ 
+ hence |A*B|=|A|*|B|*sin(theta)   
+ 
+ and is perendicular to A and B both   
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH1/EX1.12/1_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A*B=   
+ 
+    0.    0.    7.  
+ 
+ 
+ 
+ 
+ 
+ mod_(A*B)   
+ 
+    7.  
+ 
+ 
+ hence |A*B|=|A|*|B|*sin(theta)   
+ 
+ and is perendicular to A and B both   
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ The height h at which the pressure is 9/10 of the pressure at the surface of the earth is (in meter):   
+ 
+   883.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ Given the vector r=   
+ 
+    2.    3.    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The direction cosines of the  given vector are:   
+ 
+ 
+ Ax=   
+ 
+    0.37139  
+ 
+ 
+ Ay=   
+ 
+    0.55709  
+ 
+ 
+ Az=   
+ 
+    0.74278  
+ 
+ 
+ 
+ 
+ 
+ 
+ The angles that the given vector makes with the three vectors are (in Degree):   
+ 
+    68.2    56.15    42.03  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH2/EX2.6/2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The given two points are: ro=   
+ 
+    1.    1.    1.  
+ 
+ 
+ r1=   
+ 
+    1.    2.    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The point at distance of 5cm away from r0 and towards r1 is:p1=    
+ 
+    1.    3.23606798    5.47213595  
+ 
+ 
+ 
+ The point at distance of 5cm away from r0 and away from r1 is:p2=   
+ 
+    1.  - 1.23606798  - 3.47213595  
+ 
+ 
+ Equation of the line passing through the given points:r=t(r1-r0)+r0   
+ 
+ 
+ to find the intersection of this line with X-Y plane:z=0   
+ 
+ 
+ 
+ The value of the parameter t=   
+ 
+  - 1.11803399  
+ 
+ 
+ 
+ 
+ 
+ 
+ The point of intersection with X-Y plane:p1=   
+ 
+    1.    0.5    0.  
+ 
+ 
+ to find the intersection with x-z plane:y=0   
+ 
+ 
+ 
+ The value of the parameter t=   
+ 
+  - 2.23606798  
+ 
+ 
+ 
+ 
+ 
+ The point of intersection with X-Z plane:p2=   
+ 
+    1.    0.  - 1.  
+ 
+ 
+ to find the intersection with y-z plane:x=0   
+ 
+ 
+ as we are getting 0=1,we can say that the line does not intersect with the Y-Z plane   
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH2/EX2.7/2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The unit vector perpendicular to the given plane is   
+ 
+    0.577    0.577    0.577  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH2/EX2.9/2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The equivalent cylindrical coordinates of the given point are (rho, phi, z)=    
+ 
+    1.4142    0.7854    1.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH2/EX2.10/2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The equivalent rectangular coordinates of the given point are (x, y, z)=   
+ 
+    0.54030    0.84147    1.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH2/EX2.12/2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the cylindrical components of the given vector filed:   
+ 
+    1.414  
+    0.000  
+    1.     
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ linear element dl in rectangular coordinates=   
+ 
+    0.    0.    0.001  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ linear element dl in cylindrical coordinates=   
+ 
+    0.    0.01    0.001  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ linear element dl in spherical coordinates=   
+ 
+    0.    0.01    0.00084147  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ 
+ from the given points   
+ 
+ the parametric equation of straight line is   
+ 
+ x=t,y=t,z=t   
+ 
+ 
+ 
+ 
+ 
+ 
+ required length=   
+ 
+    1.732  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ 
+ the straight line can be characterized as   
+ 
+ r=10t,theta=0,phi=0   
+ 
+ where t varies from t=1 to t=10.   
+ 
+ 
+ hence,F can be written as    
+ 
+ F(in Newton)=-103/100t^2 ar   
+ 
+ 
+ And dr/dt=10 ar   
+ 
+ 
+ 
+ work_done(in Jule)=   
+ 
+  - 9.27  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ 
+ the parametric equations of the straight line are:x=1-t,y=1-t,z=1-t for 0<=t<=1   
+ 
+ 
+ 
+ the line integral is=   
+ 
+  - 0.75  
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Total charge (in coulomb),Q=   
+ 
+  - 1.6020D-13  
+ 
+ 
+ 
+ linear charge density (in coulomb per meter)=   
+ 
+  - 1.6020D-11  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.3/4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ total charge in coulomb=   
+ 
+    3.7752D-12  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.5/4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ force felt by either of the charges at a distance of 1cm(in newton)=   
+ 
+    8.9964D-05  
+ 
+ 
+ 
+ At a distance of 10cm the force will be 100 times weeker,due to the inverse square law.   
+ 
+ 
+ 
+ force at a distance of 10cm(in newton)=   
+ 
+    8.9964D-07  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the volume charge density(in coulomb per cube meter)=   
+ 
+    93879575.5  
+ 
+ 
+ 
+ force(in newton)=   
+ 
+    76.8469538  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ charge on each ball(in coulomb)=   
+ 
+    2.0874D-09  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.8/4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ gravitational force(in newton)=   
+ 
+    3.6243D-47  
+ 
+ 
+ electrostatic force(in newton)=   
+ 
+    0.00000008  
+ 
+ 
+ the electrostatic force is    
+ 
+    2.2679D+39  
+ 
+  times the gravitational force.   
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F1(in newton)=   
+ 
+    0.001  
+ 
+ F2(in newton)=   
+ 
+    1.  
+ 
+ 
+ a1(in m/s^2)=   
+ 
+    1.  
+ 
+ a2(in m/s^2)=   
+ 
+    1.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.11/4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the required distance(in meter)=   
+ 
+    94849.1722  
+ 
+ 
+ 
+ 
+ force(in newton)=   
+ 
+    1.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.12/4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E(in v/m)=   
+ 
+    0.    0.80465939    1.60931878  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH4/EX4.23/4_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ total charge dispersed on the earth(in coulomb)=   
+ 
+  - 493029.659  
+ 
+ 
+ 
+ surface charge density(in C/m^2)=   
+ 
+  - 9.7350D-10  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ path of the integration is along a line parallel to the x-axis as y and z are fixed with y=z=1.   
+ 
+ 
+ 
+ work done(in joule)=   
+ 
+    5.0000D-10  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH5/EX5.2/5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The parametric eqution of the straight line joining these two points:   
+ 
+ 
+ x=3(1-t)   
+ 
+ y=5(1-t)   
+ 
+ z=6(1-t)   
+ 
+ 
+ 
+ work done(in joule)=   
+ 
+    3.2625D-07  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH5/EX5.10/5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As electron moves it slows down due to attraction to the charge at the origine and ultimately comes to rest.   
+ 
+ 
+ final kinetic enegy is zero   
+ 
+ Kf=0   
+ 
+ hence Etin=Etf=Pf   
+ 
+ computing rf   
+ 
+ 
+ 
+ 
+ rf(in meter)=   
+ 
+    1.0440486  
+ 
+ 
+ from this position the electron reverses motion and begins moving towards the charge at the origin.   
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH5/EX5.11/5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ When the electron reaches at infinite distance Pf=Kf=0.   
+ 
+ Hence Etin must be equal to zero   
+ 
+ 
+ 
+ vin(in meter/sec)=   
+ 
+    9.7370D+07  
+ 
+ 
+ Beyond this velocity the electron escapes.   
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.1/6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Total charge passing the cross-section in 1 sec(in coulomb)=   
+ 
+    1.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ 
+ Total charge passing the cross-section in 1 sec(in coulomb)=   
+ 
+    0.3332922  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.3/6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current density J(in A/m^2)=   
+ 
+    1.2739D+06  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.4/6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mobile charge density(in C/m^3)=   
+ 
+  - 9.3880D+09  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.5/6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ magnitude of the velosity of the mobile charge carriers(in m/s)=   
+ 
+    1.3559D-04  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.8/6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current density in copper(in A/m^2)=   
+ 
+    58140000.  
+ 
+ 
+ 
+ The current in the wire I(in ampere)=   
+ 
+    45.6630492  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.10/6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The time taken by the charge to dissipate(in sec)=   
+ 
+    6.2798D-18  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.11/6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drift velocity(in m/s)=   
+ 
+    1.3566D-04  
+ 
+ 
+ 
+ The electric field(in V/m)=   
+ 
+    2.0382D-02  
+ 
+ 
+ 
+ The mobility of electron(in m^2/V.s)=    
+ 
+    6.6560D-03  
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal velocity(in m/s)=   
+ 
+    9.5341D+04  
+ 
+ 
+ 
+ The velocity attained due to thermal motion is    
+ 
+    7.0277D+08  
+ 
+ times the drift velocity.   
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.15/6_15.sce #
+ 
+ 
+ 
+ 
+ The impurity is type 3 so the dopped material is a P-type semiconductor adn hence nh=3*10^23   
+ 
+ 
+ 
+ 
+ 
+ The conductivity of the material(in mho/m)=   
+ 
+    2400.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.16/6_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The polarisation density(in C/m^2)=   
+ 
+    4.4250D-12  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH6/EX6.19/6_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D2=   
+ 
+ 10^(-9) *
+ 
+  - 1.0620D-01    1.7700D-01    1.2390D-01  
+ 
+ 
+ E2=   
+ 
+  - 3.0000D+00    5.0000D+00    3.5000D+00  
+ 
+ 
+ 
+ 
+ 
+ P2=   
+ 
+ 10^(-9) *
+ 
+  - 7.9650D-02    1.3275D-01    9.2925D-02  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH7/EX7.7/7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The potential  V as a function of coordinates is    
+ 
+ V=A*ln(r)+B   
+ 
+ where A and B are constants.   
+ 
+ 
+ using the given data,we get   
+ 
+ A=-36.4   
+ 
+ B=85.2   
+ 
+ 
+ 
+ The potential at r=4 cm,V(in volt)=   
+ 
+    34.74  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.2/9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The frequency of the electron(in Hz)=   
+ 
+    1.1199D+06  
+ 
+ 
+ The redius of the circle,R(in meter)=   
+ 
+    5.6875D-03  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.4/9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The force on the charge(in newton)=   
+ 
+    0.0000D+00    0.0000D+00    0.0000D+00  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The force on the charge(in newton)=   
+ 
+    0.0000D+00    0.0000D+00  - 3.7680D-15  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.6/9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The force on the wire,F(in newton)=   
+ 
+  - 30.    60.  - 30.  
+ 
+ 
+ The magnitude of the force(in newton)=   
+ 
+    73.48  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.7/9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ H  =
+ 
+  - 1592.    0.    0.  
+ 
+ 
+ dir1  =
+ 
+    0.    0.  - 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the force on the 5m of the wire,F5m(in newton)=   
+ 
+    0.    1.    0.  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.13/9_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The inductance of the coil by the first method, L(in H)=   
+ 
+    1.5527D-06  
+ 
+ 
+ 
+ The inductance of the coil by the second method, L(in H)=   
+ 
+    1.4448D-06  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.14/9_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The inductance of the coil by Wheelers formula,L(in micro H)=   
+ 
+    1.3167D+00  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.17/9_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The inductance per meter of the coaxial line,L(in H)=   
+ 
+    3.0951D-07  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH9/EX9.19/9_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The inductance of the loop,L(in H)=   
+ 
+    1.3746D-08  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH10/EX10.15/10_15.sce #
+ 
+ 
+ 
+ 
+ The wave is travelling in the positive x direction due to the negative sign in the argument of the given wave function.   
+ 
+ 
+ 
+ 
+ 
+ The velocity of the wave,v(in m/s)=   
+ 
+    1.0000D+05  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.1/11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The propagation constant,k(in rad/m)=   
+ 
+    2.0944D+01  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.4/11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The wavelength(in meter)=   
+ 
+    30.  
+ 
+ 
+ The propagation constant,k(in rad/m)=   
+ 
+    0.20943951  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.5/11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The magnitude of the electric field vector,E(in V/m)=   
+ 
+    19416.4878  
+ 
+ 
+ The magnitude of the magnetic field vector,H(in A/m)=   
+ 
+    51.5026203  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.10/11_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bc=   
+ 
+    0.08115836 - 0.00097287i  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.11/11_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B_0=   
+ 
+    2.9633D+02  
+ 
+ 
+ B=   
+ 
+    2.9642D+02  
+ 
+ 
+ alpha=   
+ 
+    7.4082D+00  
+ 
+ 
+ skin depth(in meter)=   
+ 
+    1.3499D-01  
+ 
+ 
+ Characteristic impedence,Z(in Ohm)=   
+ 
+    2.6620D+02 + 6.6509D+00i  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.12/11_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ loss tangent=   
+ 
+    1.0456D+12  
+ 
+ 
+ 
+ 
+ 
+ 
+ beta=   
+ 
+    15150.1657  
+ 
+ 
+ alpha=   
+ 
+    15150.1657  
+ 
+ 
+ skin depth(in meter)=   
+ 
+    0.00006601  
+ 
+ 
+ The wave length(in meter)=   
+ 
+    0.00041473  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.15/11_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At t=T/4,equation of electric field is    
+ 
+ E=-2*sin(2*%pi*z/0.3)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zmax1(in meter)=   
+ 
+    0.075  
+ 
+ Zmax2(in meter)=   
+ 
+    0.375  
+ 
+ Zmax3(in meter)=   
+ 
+    0.675  
+ 
+ 
+ Zmin1(in meter)=   
+ 
+    0.225  
+ 
+ Zmin2(in meter)=   
+ 
+    0.525  
+ 
+ Zmin3(in meter)=   
+ 
+    0.825  
+ 
+ 
+ Zzero1(in meter)=   
+ 
+    0.  
+ 
+ Zzero2(in meter)=   
+ 
+    0.15  
+ 
+ Zzero3(in meter)=   
+ 
+    0.3  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH11/EX11.18/11_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ the Brewster angle(in degree)=   
+ 
+    83.6206298  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH12/EX12.2/12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ 
+ 
+ beta(in rad/m)=   
+ 
+    0.00010551  
+ 
+ alpha(in Neper/m)=   
+ 
+    0.00010204  
+ 
+ 
+ 
+ The phase velocity(in m/s)=   
+ 
+    47387035.7  
+ 
+ 
+ 
+ The characteristic impedance(in Ohm)=   
+ 
+    220.316724 - 193.511283i  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH12/EX12.3/12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b(in meter)=   
+ 
+    0.00739579  
+ 
+ 
+ 
+ The capacitance(in F/m)=   
+ 
+    7.1144D-11  
+ 
+ 
+ 
+ The inductance(in H/m)=   
+ 
+    0.00000040  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH12/EX12.4/12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b(in meter)=   
+ 
+    0.01227837  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH12/EX12.20/12_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ 
+ 
+    3.1430D+02  
+ 
+ 
+ 
+ 
+ The wave impedence(in Ohm)=   
+ 
+    3.7682D+02  
+ 
+ 
+ The wavelength(in meter)=   
+ 
+    1.9991D-02  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lemda_c10(in meter)=   
+ 
+    6.0000D-02  
+ 
+ lemda_c20(in meter)=   
+ 
+    3.0000D-02  
+ 
+ lemda_c30(in meter)=   
+ 
+    2.0000D-02  
+ 
+ 
+ Free space wavelength(in meter)=   
+ 
+    2.0000D-02  
+ 
+ 
+ lemda must be less then lemda_cm,   
+ 
+ so,only first two modes will propagate.   
+ 
+ 
+ 
+ 
+ 
+ 
+ beta_10(in rad/m)=   
+ 
+    2.9634D+02  
+ 
+ beta_20(in rad/m)=   
+ 
+    2.3435D+02  
+ 
+ 
+ lemda_g10(in meter)=   
+ 
+    2.1202D-02  
+ 
+ lemda_g20(in meter)=   
+ 
+    2.6811D-02  
+ 
+ 
+ 
+ 
+ vp_10(in m/s)=   
+ 
+    3.1804D+08  
+ 
+ vp_20(in m/s)=   
+ 
+    4.0216D+08  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH12/EX12.23/12_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fr110(in Hz)=   
+ 
+    4.8023D+09  
+ 
+ 
+ 
+ 
+ 
+ fr111(in Hz)=   
+ 
+    6.9327D+09  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH12/EX12.24/12_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fr011(in Hz)=   
+ 
+    6.2500D+09  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fr101(in Hz)=   
+ 
+    5.8310D+09  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH13/EX13.11/13_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The power density radiated in the diection of main beam(in W/m^2)=   
+ 
+    0.159  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH13/EX13.15/13_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The transmitted power(in watt)=   
+ 
+    5.5122D+04  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH14/EX14.4/14_4.sce #
+ 
+ 
+ 
+ 
+ 
+ The array factor is given as   
+ 
+ E=|sin(2*theta)/(N*sin(theta/2))|   
+ 
+ 
+ 
+ 
+ The sidelobe level=   
+ 
+    0.35355339  
+ 
+ 
+ The sidelobe level(in db)=   
+ 
+  - 9.03089987  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH14/EX14.5/14_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The progressive phase shift(in degree)=   
+ 
+  - 127.279221  
+ 
+ 
+ to find the BWFN,solving the equation   
+ 
+ sin(phi_0)*del_phi_fn+cos(phi_0)*del_phi_fn^2/2=2*%pi/(N*kd)0   
+ 
+ 
+ 
+ 
+ The BWFN(in degree)=   
+ 
+    28.8  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH14/EX14.6/14_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no of elements=   
+ 
+    31.0563006  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH14/EX14.10/14_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the E plane flare angle(in degree)=   
+ 
+    35.51  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH14/EX14.12/14_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The directivity=   
+ 
+    377.  
+ 
+ 
+ 
+ 
+ the E plane HPBW(in degree)=   
+ 
+    11.2  
+ 
+ 
+ the H plane HPBW(in degree)=   
+ 
+    6.7  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH14/EX14.14/14_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The directivity=   
+ 
+    53.2958638  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH15/EX15.6/15_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ d(in km)=   
+ 
+    37.13  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH15/EX15.7/15_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n=   
+ 
+    1.00022827  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH15/EX15.11/15_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the plasma frequency(in rad/s)   
+ 
+    9.7605D+06  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH15/EX15.12/15_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The electron density(in electrons/cc)=   
+ 
+    6.1728D+05  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH15/EX15.13/15_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ the critical frequency(in Hz)=   
+ 
+    1.2728D+07  
+ 
+ 
+grepthis#Fundamentals_Of_Engineering_Electromagnetics_S._Bhooshan_980/CH15/EX15.14/15_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ height of the layer(in meter)=   
+ 
+    1.5000D+05  
+ 
+ 
+ 
+ N(in electronc/cc)=   
+ 
+    3.0864D+05  
+ 
+ 

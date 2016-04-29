@@ -1,0 +1,42 @@
+ERROR: Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.3/ex3.sce
+ 
+ 
+ 
+ 
+ Rg=120   
+ 
+ 
+ Sg=2;   
+ 
+ 
+ Rs=120000   
+ 
+ 
+ 
+ Rs  =
+ 
+    120000.  
+ 
+ 
+ The input bridge excitation is represented by Eex   
+ 
+ A  =
+ 
+    10.  
+ 
+ 
+ eo  =
+ 
+    0.03  
+ 
+ 
+ 
+ 
+The input excitation voltage is 12.012000d V
+ 
+p1=2 *(1+v) // bridge factor
+           !--error 4 
+Undefined variable: v
+at line      18 of exec file called by :    
+nd_D._N._Manik_49/CH4/EX4.3/ex3.sce',-1
+ 

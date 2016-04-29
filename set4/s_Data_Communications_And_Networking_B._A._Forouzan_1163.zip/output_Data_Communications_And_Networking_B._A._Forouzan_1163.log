@@ -1,0 +1,4410 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 210
+
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH2/EX2.2/example_2_2.sce #
+ 
+ 
+ 
+ --------------Example 2.2---------------   
+ 
+ 
+ 07:01:02:01:2C:4B    
+ 
+This is an example of a 6-byte (12 hexadecimal digits) physical address. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH2/EX2.3/example_2_3.sce #
+ 
+ 
+ 
+ --------------Example 2.3---------------   
+ 
+ 
+Each device(computer or router) has a pair of addresses (logical and physical) for each connection. In this
+case, each computer is connected to only one link and therefore has only one pair of addresses. Each router,
+however, is connected to three networks . So each router has three pairs of addresses,one for each
+connection. Although it may obvious that each router must have a separate physical address for each connection,
+;it may not be obvious why it needs a logical address for each connection. 
+
+
+In this example,the computer with logical address A and physical address 10 needs to send a packet to
+the computer with logical address P and physical address 95. The sender encapsulates its data
+in a packet at the network layer and adds two logical addresses (A and P). The logical source address comes before the logical destination address .
+The network layer, however, needs to find the physical address of the next hop before the packet can be
+delivered. The network layer consults its routing table and finds the logical address of the next hop (router 1) to be F.
+The ARP finds the physical address of router 1 that corresponds to the logical address of 20. Now the network layer passes
+this address to the data link layer, which in turn, encapsulates the packet with physical destination address 20 and physical source address 10.
+
+ 
+The frame is received by every device on LAN 1, but is discarded by all except router 1, which finds that
+the destination physical address in the frame matches with its own physical address. The router decapsulates the
+packet from the frame to read the logical destination address P. Since the logical destination address does not match the
+routers logical address, the router knows that the packet needs to be forwarded. The router consults its routing table
+and ARP to find the physical destination address of the next hop (router 2), creates a new frame, encapsulates the packet, and sends it to router 2.
+
+ 
+The source physical address changes from 10 to 99. The destination physical address changes from 20 (router 1 physical address) to 33
+(router 2 physical address). The logical source and destination addresses must remain the same; otherwise the packet will be lost.
+
+ 
+At router 2 we have a similar scenario. The physical addresses are changed, and a new frame is sent to the destination computer.
+When the frame reaches the destination, the packet is decapsulated. The destination logical address P matches the logical address
+of the computer. The data are decapsulated from the packet and delivered to the upper layer. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH2/EX2.5/example_2_5.sce #
+ 
+ 
+ 
+ --------------Example 2.5---------------   
+ 
+ 
+ 753 -  A 16-bit port address represented as one single decimal number.   
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.13/example_3_13.sce #
+ 
+ 
+ 
+ --------------Example 3.13---------------   
+ 
+An example of a nonperiodic composite signal is the signal propagated by an AM radio station.
+In the United States, each AM radio station is assigned a 10-kHz band width.
+The total bandwidth dedicated to AM radio ranges from 530 to 1700 kHz. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.14/example_3_14.sce #
+ 
+ 
+ 
+ --------------Example 3.14---------------   
+ 
+Another example of a nonperiodic composite signal is the signal propagated by an FM radio station.
+In the United States, each FM radio station is assigned a 200-kHz bandwidth.
+The total bandwidth dedicated to FM radio ranges from 88 to 108 MHz. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.15/example_3_15.sce #
+ 
+ 
+ 
+ --------------Example 3.15---------------   
+ 
+Another example of a nonperiodic composite signal is the signal received by an old-fashioned analog black-and-white TV.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The bandwidth needed in the worst-case scenario i.e alternating black and white pixels where we need to represent 
+one color by the minimum amplitude and the other color by the maximum amplitude is 5.5125 MHz.
+
+ 
+This worst-case scenario has such a low probability of occurrence that the assumption is that we need only 70 percent
+of this bandwidth, which is 3.86 MHz. Since audio and synchronization signals are also needed, a 4 MHz bandwidth
+has been set aside for each black and white TV channel.
+An analog color TV channel has a 6-MHz bandwidth. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.16/example_3_16.sce #
+ 
+ 
+ 
+ --------------Example 3.16---------------   
+ 
+ 
+ 
+The number of bits per level is 3 bits. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.17/example_3_17.sce #
+ 
+ 
+ 
+ --------------Example 3.17---------------   
+ 
+ 
+ 
+The number of bits per level is 3.17 bits.
+ 
+This answer is not realistic. The number of bits sent per level needs to be an integer as well as a power of 2.
+Therefore 4 bits can represent one level. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.18/example_3_18.sce #
+ 
+ 
+ 
+ --------------Example 3.18---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The bit rate of the channel is 1.536 Mbps. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.19/example_3_19.sce #
+ 
+ 
+ 
+ --------------Example 3.19---------------   
+ 
+ 
+ 
+ 
+ 
+The bit rate of the channel is 64 kbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.1/example_3_1.sce #
+ 
+ 
+ 
+ --------------Example 3.1----------------   
+ 
+The power in our house can be represented by a sine wave with a peak amplitude of 155 to 170 V.
+However, it is common knowledge that the voltage of the power in U.S. homes is 110 to 120 V. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.20/example_3_20.sce #
+ 
+ 
+ 
+ --------------Example 3.20---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The bit rate of HDTV is 1.5 Gbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.21/example_3_21.sce #
+ 
+ 
+ 
+ --------------Example 3.21---------------   
+ 
+An example of a dedicated channel where the entire bandwidth of the medium is used as one single channel is a LAN.
+Almost every wired LAN today uses a dedicated channel for two stations communicating with each other.
+In a bus topology LAN with multipoint connections, only two stations can communicate with each other at each moment
+in time (timesharing); the other stations need to refrain from sending data. In a star topology LAN,
+the entire channel between each station and the hub is used for communication between these two entities. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.22/example_3_22.sce #
+ 
+ 
+ 
+ --------------Example 3.22---------------   
+ 
+ 
+ 
+ 
+ 
+
+ a) The minimum bandwidth is 500 kHz. 
+
+    A low-pass channel with frequencies between 0 and 500 kHz is required.
+
+ 
+ 
+ 
+ 
+ b) The required bandwidth is 1.5 MHz. 
+
+  Hence a better result can be achieved by using the first and the third harmonics.
+
+ 
+ 
+ 
+ 
+ c) The required bandwidth is 2.5 MHz. 
+
+  Hence a still better result can be achieved by using the first, third and the fifth harmonics.
+
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.23/example_3_23.sce #
+ 
+ 
+ 
+ --------------Example 3.23---------------   
+ 
+ 
+ 
+The maximum bit rate is 200 kbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.24/example_3_24.sce #
+ 
+ 
+ 
+ --------------Example 3.24---------------   
+ 
+An example of broadband transmission using modulation is the sending of computer data through a telephone subscriber line,
+the line connecting a resident to the central telephone office. These lines, installed many years ago,are designed to
+carry voice (analog signal) with a limited bandwidth(frequencies between 0 and 4 kHz).
+Although this channel can be used as a low-pass channel,it is normally considered a bandpass channel. One reason is that
+the bandwidth is so narrow(4 kHz) that if we treat the channel as low-pass and use it for baseband transmission, the maximum
+bit rate can be only 8 kbps. The solution is to consider the channel a bandpass channel, convert the digital signal from the
+computer to an analog signal, and send the analog signal.
+We can install two converters to change the digital signal to analog and vice versa at the receiving end.
+The converter,in this case, is called a modem (modulator/demodulator). 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.25/example_3_25.sce #
+ 
+ 
+ 
+ --------------Example 3.25---------------   
+ 
+Another example of broadband transmission is the digital cellular telephone. For better reception, digital cellular phones convert the analog
+voice signal to a digital signal.Although the bandwidth allocated to a company providing digital cellular phone service is very wide,
+we still cannot send the digital signal without conversion. The reason is that we only have a bandpass channel available between caller and callee.
+For example, if the available bandwidth is W and we allow 1000 couples to talk simultaneously, this means the available channel is W/1000,
+just part of the entire bandwidth. We need to convert the digitized voice to a composite analog signal before sending.
+The digital cellular phones convert the analog audio signal to digital and then convert it again to analog for transmission over
+a bandpass channel. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.26/example_3_26.sce #
+ 
+ 
+ 
+ --------------Example 3.26---------------   
+ 
+ 
+ 
+The attenuation is -3 dB.
+A loss of 3 dB (-3 dB) is equivalent to losing one-half the power. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.27/example_3_27.sce #
+ 
+ 
+ 
+ --------------Example 3.27---------------   
+ 
+ 
+ 
+The amplification is 10 dB. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.28/example_3_28.sce #
+ 
+ 
+ 
+ --------------Example 3.28---------------   
+ 
+ 
+ 
+ 
+ 
+The final decibel value is +1 dB . Hence the signal has gained in power. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.29/example_3_29.sce #
+ 
+ 
+ 
+ --------------Example 3.29---------------   
+ 
+ 
+ 
+The power of the signal in milliwatts is 1.0E-03 mW. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.2/example_3_2.sce #
+ 
+ 
+ 
+ --------------Example 3.2----------------   
+ 
+The voltage of battery is a constant; this constant value can be considered a sine wave .
+For example, the peak value of an AA battery is normally 1.5 V. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.30/example_3_30.sce #
+ 
+ 
+ 
+ --------------Example 3.30---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The power of the signal at 5 km is 1.4 mW. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.31/example_3_31.sce #
+ 
+ 
+ 
+ --------------Example 3.31---------------   
+ 
+ 
+ 
+ 
+ 
+SNR = 10000 
+
+SNRdB = 40  
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.32/example_3_32.sce #
+ 
+ 
+ 
+ --------------Example 3.32---------------   
+ 
+ 
+ 
+ 
+The values of SNR and SNRdB for a noiseless channel are both infinity . We can never achieve this ratio in real life; it is an ideal situation. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.33/example_3_33.sce #
+ 
+ 
+ 
+ --------------Example 3.33---------------   
+ 
+The Nyquist theorem bit rate and the intuitive bit rate match when there are only two levels.
+In baseband transmission, the bit rate is 2 times the bandwidth if only the first harmonic is used in the worst case.
+However, the Nyquist formula is more general than what we derived intuitively; it can be applied to baseband transmission and modulation.
+Also, it can be applied when we have two or more levels of signals. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.34/example_3_34.sce #
+ 
+ 
+ 
+ --------------Example 3.34---------------   
+ 
+ 
+ 
+ 
+The maximum bit rate of the noiseless channel is 6000 bps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.35/example_3_35.sce #
+ 
+ 
+ 
+ --------------Example 3.35---------------   
+ 
+ 
+ 
+ 
+The maximum bit rate of the noiseless channel is 12000 bps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.36/example_3_36.sce #
+ 
+ 
+ 
+ --------------Example 3.36---------------   
+ 
+ 
+ 
+ 
+
+The number of levels is 98.7 . 
+ 
+
+Since this result is not a power of 2, we need to either increase the number of levels or reduce the bit rate.
+
+Hence the number of signal levels is 64 and bit rate is 240 kbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.37/example_3_37.sce #
+ 
+ 
+ 
+ --------------Example 3.37---------------   
+ 
+ 
+ 
+ 
+The value of log2(1+SNR) = 0 
+Hence C = B*log2(1+SNR)= B*0 = 0 
+
+This means that the capacity of this channel is zero regardless of the bandwidth. In other words, any data cant be recieved through this channel. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.38/example_3_38.sce #
+ 
+ 
+ 
+ --------------Example 3.38---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The capacity of the channel is 34860 bps. 
+
+Hence the highest bit rate for a telephone line is 34.860 kbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.39/example_3_39.sce #
+ 
+ 
+ 
+ --------------Example 3.39---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+
+The theoretical channel capacity is 24 Mbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.3/example_3_3.sce #
+ 
+ 
+ 
+ --------------Example 3.3---------------   
+ 
+ 
+ f  =
+ 
+    60.  
+ 
+ t  =
+ 
+    0.0166667  
+ 
+ T  =
+ 
+    16.666667  
+ 
+
+ The period of the power for our lights at home is 0.016667s or 16.666667ms . 
+ 
+ Our eyes are not sensitive enough to distinguish these rapid changes in amplitude.   
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.40/example_3_40.sce #
+ 
+ 
+ 
+ --------------Example 3.40---------------   
+ 
+ 
+ 
+ 
+The theoretical channel capacity is 24 Mbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.41/example_3_41.sce #
+ 
+ 
+ 
+ --------------Example 3.41---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Shannon formula gives us 6 Mbps, the upper limit. For better performance choose something lower, 4 Mbps, for example. 
+
+
+The Nyquist formula gives the number of signal levels as 4 . 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.42/example_3_42.sce #
+ 
+ 
+ 
+ --------------Example 3.42---------------   
+ 
+The bandwidth of a subscriber line is 4 kHz for voice or data. The bandwidth of this line for data transmission
+can be up to 56,000 bps using a sophisticated modem to change the digital signal to analog. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.43/example_3_43.sce #
+ 
+ 
+ 
+ --------------Example 3.43---------------   
+ 
+If the telephone company improves the quality of the line and increases the bandwidth to 8 kHz,
+we can send 112,000 bps by using the same technology as mentioned in Example 3.42. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.44/example_3_44.sce #
+ 
+ 
+ 
+ --------------Example 3.44---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The throughput is 2 Mbps.
+ 
+The throughput is almost 1/5th of the bandwidth in this case. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.45/example_3_45.sce #
+ 
+ 
+ 
+ --------------Example 3.45---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+
+The propagation time is 50 ms.
+ 
+
+The example shows that a bit can go over the Atlantic Ocean in only 50 ms if there is a direct cable between the source and the destination. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.46/example_3_46.sce #
+ 
+ 
+ 
+ --------------Example 3.46---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The propagation time is 50 ms.
+ 
+The transmission time is 0.020 ms.
+ 
+
+Note that in this case, because the message is short and the bandwidth is high, the dominant factor is the
+propagation time, not the transmission time. The transmission time can be ignored. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.47/example_3_47.sce #
+ 
+ 
+ 
+ --------------Example 3.47---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The propagation time is 50 ms.
+ 
+The transmission time is 40 s.
+ 
+
+Note that in this case, because the message is very long and the bandwidth is not very high, the dominant factor is
+the transmission time, not the propagation time. The propagation time can be ignored. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.48/example_3_48.sce #
+ 
+ 
+ 
+ --------------Example 3.48---------------   
+ 
+Consider the link between two points to be a pipe. The cross section of the pipe represents the bandwidth,
+and the length of the pipe represents the delay. The volume of the pipe defines the bandwidth-delay product. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.4/example_3_4.sce #
+ 
+ 
+ 
+ --------------Example 3.4--------------   
+ 
+ 
+ 
+The period in microseconds = 1E+05 microseconds. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.5/example_3_5.sce #
+ 
+ 
+ 
+ --------------Example 3.5---------------   
+ 
+ 
+ 
+ 
+ 
+The frequency in kHz = 1.0E-02 kHz 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.6/example_3_6.sce #
+ 
+ 
+ 
+ --------------Example 3.6---------------   
+ 
+ 
+ 
+The phase in degrees = 60°
+
+ 
+ 
+The phase in radians = 1.047 rad 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.10/example_4_10.sce #
+ 
+ 
+ 
+ --------------Example 4.10---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The sampling rate is 400000 samples per second. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.11/example_4_11.sce #
+ 
+ 
+ 
+ --------------Example 4.11---------------   
+ 
+ 
+
+The minimum sampling rate cannot be determined in this case because we do not know where the bandwidth starts
+or ends or in order words we do not know the maximum frequency in the signal. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.12/example_4_12.sce #
+ 
+ 
+ 
+ --------------Example 4.12---------------   
+ 
+ 
+ 
+ 
+The SNRdB is 19.82 dB.
+Increasing number of levels increases the SNR. 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.13/example_4_13.sce #
+ 
+ 
+ 
+ --------------Example 4.13---------------   
+ 
+ 
+ 
+
+nb = 6.35 
+
+Therefore telephone companies usually assign 7 or 8 bits per sample. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.14/example_4_14.sce #
+ 
+ 
+ 
+ --------------Example 4.14---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The sampling rate is 8000 samples/s and the bit rate is 64 kbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.15/example_4_15.sce #
+ 
+ 
+ 
+ --------------Example 4.15---------------   
+ 
+ 
+ 
+ 
+The minimum bandwidth for the digital signal is 32 kHz. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.1/example_4_1.sce #
+ 
+ 
+ 
+ --------------Example 4.1---------------   
+ 
+ 
+ 
+ 
+ 
+The average baud rate is 50 kbaud. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.2/example_4_2.sce #
+ 
+ 
+ 
+ --------------Example 4.2---------------   
+ 
+
+A signal with L levels actually can carry log2 L bits per level. If each level corresponds to one signal element
+and we assume the average case (c = 1/2), then the two formulas agree with each other. 
+ 
+ Nmax = (1/c) x B x r = 2 x B x log2L   
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.3/example_4_3.sce #
+ 
+ 
+ 
+ --------------Example 4.3---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+
+At 1 kbps, 
+ 
+Data rate = 1001 bps
+Bits sent = 1000
+Bits recieved = 1001
+Extra bps = 1  
+ 
+
+
+At 1 Mbps, 
+ 
+Data rate = 1001000 bps
+Bits sent = 1000000
+Bits recieved = 1001000
+Extra bps = 1000  
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.4/example_4_4.sce #
+ 
+ 
+ 
+ --------------Example 4.4---------------   
+ 
+ 
+ 
+ 
+ 
+
+The average signal rate is 5000 kbaud. 
+
+
+The minimum bandwidth is 5000 kHz. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.5/example_4_5.sce #
+ 
+ 
+ 
+ --------------Example 4.5---------------   
+ 
+ 
+ frac  =
+ 
+    0.25  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 4B/5B block coding increases the bit rate to 1.25 Mbps
+ The minimum bandwidth using NRZ-I scheme is 625 kHz.
+
+ The minimum bandwidth using Manchester scheme is 1 MHz. 
+
+
+The NRZ-I scheme needs a lower bandwidth, but has a DC component problem; the Manchester scheme needs a higher bandwidth,
+but does not have a DC component problem. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.7/example_4_7.sce #
+ 
+ 
+ 
+ --------------Example 4.7---------------   
+ 
+ 
+The second hand of a clock has a period of 60 s.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a)According to the Nyquist theorem, the second hand is sampled every 30 s .
+The sample points, in order, are 12, 6, 12, 6, 12, and 6.
+The receiver of the samples cannot tell if the clock is moving forward or backward. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+b)The second hand is sampled at double the Nyquist rate or every 15 s.
+The sample points, in order, are 12, 3, 6, 9, and 12. The clock is moving forward. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+c)The second hand is sampled below the Nyquist rate or every 45 s.
+The sample points, in order, are 12, 9, 6, 3, and 12. Although the clock is moving forward, the receiver thinks that the clock is moving backward. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.8/example_4_8.sce #
+ 
+ 
+ 
+ --------------Example 4.8---------------   
+ 
+
+The seemingly backward rotation of the wheels of a forward moving car in a movie:-  This can be explained by undersampling.
+A movie is filmed at 24 frames per second. If a wheel is rotating more than 12 times per second,the undersampling
+creates the impression of a backward rotation. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.9/example_4_9.sce #
+ 
+ 
+ 
+ --------------Example 4.9---------------   
+ 
+ 
+ 
+
+Telephone companies digitize voice by assuming a maximum frequency of 4000 Hz.
+The sampling rate therefore is 8000 samples per second. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.1/example_5_1.sce #
+ 
+ 
+ 
+ --------------Example 5.1---------------   
+ 
+ 
+ 
+ 
+The bit rate is 4000 bps. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.2/example_5_2.sce #
+ 
+ 
+ 
+ --------------Example 5.2---------------   
+ 
+ 
+ 
+ 
+ 
+The number of data elements per signal element is 8 bits/baud and the number of signal elements is 256 . 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.3/example_5_3.sce #
+ 
+ 
+ 
+ --------------Example 5.3---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The carrier frequency is 250 kHz.
+The bit rate is 50 kbps. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.5/example_5_5.sce #
+ 
+ 
+ 
+ --------------Example 5.5---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The carrier frequency is 250 kHz , the signal rate is 25 kbaud and the bit rate 25 kbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.7/example_5_7.sce #
+ 
+ 
+ 
+ --------------Example 5.7---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The bandwidth is 6 MHz. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.10/example_6_10.sce #
+ 
+ 
+ 
+ --------------Example 6.10---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a)The data rate of each source is 2 kps.
+ 
+ 
+ 
+
+b)The duration of each character in each source is 4 ms.
+ 
+ 
+ 
+
+c)The frame rate is 250 frames per second.
+ 
+ 
+ 
+
+d)The duration of each frame is 4 ms.
+ 
+ 
+ 
+
+e)The number of bits in each frame is 33.
+ 
+ 
+ 
+
+f)The data rate of the link is 8250 bps. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.11/example_6_11.sce #
+ 
+ 
+ 
+ --------------Example 6.11---------------   
+ 
+ 
+ 
+
+ Multiplexing can be achieved by allocating one slot to the first channel and two slots to the second channel.
+ 
+ 
+ 
+ 
+ 
+
+The frame rate is 100000 frames per second , the frame duration is 10 ms and the bit rate of the link is 300 kbps.
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.4/example_6_4.sce #
+ 
+ 
+ 
+ --------------Example 6.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+790 channels are available for cellular phone users. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.5/example_6_5.sce #
+ 
+ 
+ 
+ --------------Example 6.5---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The duration of each input time slot is 1 ms.
+ 
+ 
+ 
+
+b) The duration of each output time slot is 0.33 ms.
+ 
+ 
+ 
+
+c) The duration of each frame is 1 ms.
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.6/example_6_6.sce #
+ 
+ 
+ 
+ --------------Example 6.6---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+a) The input bit duration is 1 microseconds.
+ 
+ 
+ 
+
+b) The output bit duration is 0.25 microseconds.
+ 
+ 
+ 
+
+c) The output bit rate is 4 Mbps.
+ 
+ 
+ 
+
+d) The frame rate is 1000000 frames per second. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.7/example_6_7.sce #
+ 
+ 
+ 
+ --------------Example 6.7---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+a)The duration of 1 bit before multiplexing is 1 ms.
+ 
+ 
+ 
+
+b)The transmission rate of the link is 4 kbps.
+ 
+ 
+ 
+
+c)The duration of each time slot is 250 microseconds.
+ 
+ 
+ 
+
+d)The duration of each frame is 1 ms.
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH8/EX8.1/example_8_1.sce #
+ 
+ 
+ 
+ --------------Example 8.1---------------   
+ 
+ 
+ 
+ 
+ 
+A circuit-switched network is used to connect eight telephones in a small area. Communication is through 4-kHz voice channels.
+It is assumed that each link uses FDM to connect a maximum of 2 voice channels. The bandwidth of each link is then 8 kHz.
+Telephone 1 is connected to telephone 7; 2 to 5; 3 to 8; and 4 to 6. Of course the situation may change when new connections are made.
+The switch controls the connections. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH8/EX8.3/example_8_3.sce #
+ 
+ 
+ 
+ --------------Example 8.3---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+In the first stage there are 10 crossbars, each of size 20 x 4.
+ 
+
+In the second stage there are 4 crossbars, each of size 10 x 10.
+ 
+
+In the third stage there are 10 crossbars, each of size 4 x 20.
+ 
+
+The total number of crosspoints is 2000. This is 5 percent of the number of crosspoints in a single stage switch. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH8/EX8.4/example_8_4.sce #
+ 
+ 
+ 
+ --------------Example 8.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The value of n is 10 and the value of k is 19 .
+In the first stage, there are 20 crossbars, each with 10 X 19 crosspoints.
+In the second stage, there are 19 crossbars, each with 10 X 10 crosspoints.
+In the third stage, there are 20 crossbars each with 19 X 10 crosspoints.
+The total number of crosspoints is 9500 .If a single-stage switch is used, 40000 crosspoints are needed.
+The number of crosspoints in this three-stage switch is 24 percent that of a single-stage switch.
+More points are needed than in single stage . The extra crosspoints are needed to prevent blocking. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.10/example_10_10.sce #
+ 
+ 
+ 
+ --------------Example 10.10---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1) 
+
+This scheme is a linear block code because the result of XORing any codeword with any other codeword is a valid codeword.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2) 
+
+This scheme is a linear block code because the result of XORing any codeword with any other codeword is a valid codeword.
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.11/example_10_11.sce #
+ 
+ 
+ 
+ --------------Example 10.11---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+In the first code (Table 10.1), the numbers of 1s in the nonzero codewords are 2,2,and 2.So the minimum Hamming distance is dmin = 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+In the second code (Table 10.2), the numbers of 1s in the nonzero codewords are 3,3,and 4.So the minimum Hamming distance is dmin = 3. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.12/example_10_12.sce #
+ 
+ 
+ 
+ --------------Example 10.12---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+
+1)No error occurs;the received codeword is 10111.The syndrome is O. The dataword 1011 is created.
+ 
+ 
+ 
+
+2)One single-bit error changes a1.The received codeword is 10011.The syndrome is 1.No dataword is created.
+ 
+ 
+ 
+
+3)One single-bit error changes r0.The received codeword is 10110.The syndrome is 1.No dataword is created.
+Note that although none of the dataword bits are corrupted, no dataword is created because the code is not
+sophisticated enough to show the position of the corrupted bit.
+ 
+ 
+ 
+
+4)An error changes r0 and a second error changes a3.The received codeword is 00110.The syndrome is 0.
+The dataword 0011 is created at the receiver. Note that here the dataword is wrongly created due to the syndrome value.
+The simple parity-check decoder cannot detect an even number of errors. The errors cancel each other out and give the syndrome a value of 0.
+ 
+ 
+ 
+
+5)Three bits-a3, a2, and a1 are changed by errors.The received codeword is 01011.The syndrome is 1.
+The dataword is not created. This shows that the simple parity check, guaranteed to detect one single error,
+can also find any odd number of errors.
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.13/example_10_13.sce #
+ 
+ 
+ 
+ --------------Example 10.13---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ syndrome  =
+ 
+ 000   
+ 
+
+1) 
+The dataword 0100 becomes the codeword 0100011. The codeword 0100011 is received.The syndrome is 000 (no error), the final dataword is 0100. 
+ 
+ 
+ 
+ 
+ 
+ syndrome  =
+ 
+ 011   
+ 
+
+
+2) 
+The dataword 0111 becomes the codeword 0111001. The codeword 0011001 is received. The syndrome is 011.
+b2 is the error. After flipping b2, the final dataword is 0111. 
+ 
+ 
+ 
+ 
+ 
+ syndrome  =
+ 
+ 101   
+ 
+
+
+3) 
+The dataword 1101 becomes the codeword 1101000. The codeword 0001000 is received. The syndrome is 101.
+b0 is the error. After flipping b0, the final dataword is 0000. 
+
+This is the wrong dataword. This shows that Hamming code cannot correct two errors. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.14/example_10_14.sce #
+ 
+ 
+ 
+ --------------Example 10.14---------------   
+ 
+ 
+ 
+ 
+ 
+
+1) 
+ m = 3 :- n = 7 .k = 4 , which is less than 7. Hence doesnt satisfy the condition.
+ 
+ 
+ 
+
+2) 
+ m = 4 :- The code is C(15, 11) or k = 11 and n = 15.
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.15/example_10_15.sce #
+ 
+ 
+ 
+ --------------Example 10.15---------------   
+ 
+ 
+ 
+
+a)No x^i can be divisible by x + 1. In other words, x^i/()x + 1) always has a remainder. So the syndrome is nonzero. Any single-bit error can be caught.
+ 
+ 
+ 
+
+b)If i is equal to or greater than 3, x^i is divisible by g(x). The remainder of x^i/x3 is zero, and the receiver is fooled into believing
+that there is no error,although there might be one.Note that in this case, the corrupted bit must be in position 4 or above.
+All single-bit errors in positions 1 to 3 are caught.
+ 
+ 
+ 
+
+c)All values of i make x^i divisible by g(x). No single-bit error can be caught. In addition, this g(x) is useless because it means the
+codeword is just the dataword augmented with (n - k) zeros. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.16/example_10_16.sce #
+ 
+ 
+ 
+ --------------Example 10.16---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a. t = 1 . This is a very poor choice for a generator. Any two errors next to each other cannot be detected.
+
+ 
+ 
+ 
+ 
+ 
+ 
+b. t = 4 .This generator cannot detect two errors that are four positions apart. The two errors can be anywhere, but if their
+distance is 4, they remain undetected.
+
+ 
+ 
+ 
+c. This is a good choice for this purpose.
+
+ 
+ 
+ 
+d. This polynomial cannot divide any error of type x^t + 1 if t is less than 32768. This means that a codeword with two isolated
+errors that are next to each other or up to 32768 bits apart can be detected by this generator. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.17/example_10_17.sce #
+ 
+ 
+ 
+ --------------Example 10.17---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a. This generator can detect all burst errors with a length less than or equal to 6 bits; 3 out of 100 burst errors with
+length 7 will slip by; 16 out of 1000 burst errors of length 8 or more will slip by.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. This generator can detect all burst errors with a length less than or equal to 18 bits; 8 out of 1 million burst errors with
+length 19 will slip by; 4 out of 1 million burst errors of length 20 or more will slip by.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. This generator can detect all burst errors with a length less than or equal to 32 bits; 5 out of 10 billion burst errors with
+length 33 will slip by; 3 out of 10 billion burst errors of length 34 or more will slip by.
+
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.18/example_10_18.sce #
+ 
+ 
+ 
+ --------------Example 10.18---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The set of numbers is (7, 11, 12, 0, 6). The sender sends (7, 11, 12, 0, 6, 36), where 36 is the sum of the original numbers.
+The receiver adds the five numbers and compares the result with the sum.
+If the two are the same, the receiver assumes no error, accepts the five numbers, and discards the sum.
+Otherwise, there is an error somewhere and the data are not accepted. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.19/example_10_19.sce #
+ 
+ 
+ 
+ --------------Example 10.19---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The job of the receiver becomes easier if the negative (complement) of the sum, called the checksum is sent along with the numbers.
+In this case, we send (7, 11, 12, 0, 6, -36). The receiver can add all the numbers received (including the checksum).
+If the result is 0, it assumes no error; otherwise, there is an error. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.1/example_10_1.sce #
+ 
+ 
+ 
+ --------------Example 10.1---------------   
+ 
+ 
+ 
+ 
+ 
+The 4B/5B block coding scheme has 16 datawords and 32 codewords.
+ 16 out of 32 codewords are used for message transfer and the rest are either used for other purposes or unused. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.20/example_10_20.sce #
+ 
+ 
+ 
+ --------------Example 10.20---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The number 21 in ones complement arithmetic using only four bits is 0110 or 6. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.21/example_10_21.sce #
+ 
+ 
+ 
+ --------------Example 10.21---------------   
+ 
+ 
+ 
+ 
+ 
+The number -6 in ones complement arithmetic using only four bits is 1001 or 9. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.22/example_10_22.sce #
+ 
+ 
+ 
+ --------------Example 10.22---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The sender initializes the checksum to 0 and adds all data items and the checksum . The result is 36. However, 36 cannot
+be expressed in 4 bits. The extra two bits are wrapped and added with the sum to create the wrapped sum value 6. The sum is then
+complemented, resulting in the checksum value 9 . The sender now sends six data items to the receiver including the checksum 9.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The receiver follows the same procedure as the sender. It adds all data items (including the checksum); the result is 45.
+The sum is wrapped and becomes 15. The wrapped sum is complemented and becomes 0 the checksum.
+ 
+ 
+Since the value of the checksum is 0, this means that the data is not corrupted. The receiver drops the checksum and keeps the other data items. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.23/example_10_23.sce #
+ 
+ 
+ 
+ --------------Example 10.23---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    36807.  
+ 
+ 
+ 
+ 
+Checksum for a text of 8 characters (Forouzan). The text needs to be divided into 2-byte (l6-bit) words.
+We use ASCII to change each byte to a 2-digit hexadecimal number.
+
+ 
+ 
+       a) Checksum at the sender site 
+
+         1013                         Carries
+ 
+
+          466F                          Fo 
+
+          726F                          ro 
+
+          757A                          uz 
+
+          616E                          an 
+
+          0000                          Checksum(initial) 
+
+          _____
+ 
+
+          8FC6                        Sum(partial) 
+
+          ____
+ 
+
+             1 
+
+          _____
+ 
+
+          8FC7                        Sum 
+
+          7038                   Checksum(to send) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    65535.  
+ 
+ 
+ 
+ 
+
+
+       b) Checksum at the reciever site 
+
+
+         1013                         Carries
+ 
+
+          466F                          Fo 
+
+          726F                          ro 
+
+          757A                          uz 
+
+          616E                          an 
+
+          7038                          Checksum(recieved) 
+
+          _____
+ 
+
+          FFFE                        Sum(partial) 
+
+          ____
+ 
+
+             1 
+
+          _____
+ 
+
+          FFFF                        Sum 
+
+          0000                   Checksum(new) 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.2/example_10_2.sce #
+ 
+ 
+ 
+ --------------Example 10.2---------------   
+ 
+ 
+ 
+ 
+ 
+!Datawords  Codewords  !
+!                      !
+!00         000        !
+!                      !
+!01         011        !
+!                      !
+!10         101        !
+!                      !
+!11         110        !
+ 
+ 
+ 
+
+Assume the sender encodes the dataword 01 as 011 and sends it to the receiver. Consider the following cases:
+ 
+ 
+ 
+ 
+
+1. The receiver receives 011. It is a valid codeword. The receiver extracts the dataword 01 from it. 
+ 
+ 
+
+
+2. The codeword is corrupted during transmission, and 111 is received (the leftmost bit is corrupted).
+This is not a valid codeword and is discarded. 
+ 
+ 
+
+
+3. The codeword is corrupted during transmission, and 000 is received (the right two bits are corrupted).
+This is a valid codeword. The receiver incorrectly extracts the dataword 00. Two corrupted bits have made the error undetectable. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.3/example_10_3.sce #
+ 
+ 
+ 
+ --------------Example 10.3---------------   
+ 
+ 
+ 
+ 
+!Datawords  Codewords  !
+!                      !
+!00         00000      !
+!                      !
+!01         01011      !
+!                      !
+!10         10101      !
+!                      !
+!11         11110      !
+ 
+ 
+ 
+ 
+
+The dataword is 01. The sender consults the table to create the codeword 01011.
+The codeword is corrupted during transmission, and 01001 is received (error in the second bit from the right).
+First, the receiver finds that the received codeword is not in the table. This means an error has occurred. (Detection must come before correction.)
+The receiver, assuming that there is only 1 bit corrupted, uses the following strategy to guess the correct dataword.
+ 
+ 
+
+1. Comparing the received codeword with the first codeword in the table (01001 versus 00000),the receiver decides
+that the first codeword is not the one that was sent because there are two different bits.
+
+2. By the same reasoning, the original codeword cannot be the third or fourth one in the table.
+
+3. The original codeword must be the second one in the table because this is the only one that differs from the received codeword by 1 bit.
+The receiver replaces 01001 with 01011 and consults the table to find the dataword 01. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.4/example_10_4.sce #
+ 
+ 
+ 
+ --------------Example 10.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Hamming distance d(OOO, 011) is 2.
+ 
+ 
+
+The Hamming distance d(10101, 11110) is 3.
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.5/example_10_5.sce #
+ 
+ 
+ 
+ --------------Example 10.5---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Hamming distance d(OOO, 011) is 2.
+ 
+ 
+
+The Hamming distance d(OOO, 101) is 2.
+ 
+ 
+
+The Hamming distance d(OOO, 110) is 2.
+ 
+ 
+
+The Hamming distance d(O11, 101) is 2.
+ 
+ 
+
+The Hamming distance d(O11, 110) is 2.
+ 
+ 
+
+The Hamming distance d(101, 110) is 2.
+ 
+ 
+
+The minimum Hamming distance dmin is 2. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.6/example_10_6.sce #
+ 
+ 
+ 
+ --------------Example 10.6---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Hamming distance d(OOO00, 01011) is 3.
+ 
+ 
+
+The Hamming distance d(OOO00, 10101) is 3.
+ 
+ 
+
+The Hamming distance d(OOO00, 11110) is 4.
+ 
+ 
+
+The Hamming distance d(O1011, 10101) is 4.
+ 
+ 
+
+The Hamming distance d(O1011, 11110) is 3.
+ 
+ 
+
+The Hamming distance d(10101, 11110) is 3.
+ 
+ 
+
+The minimum Hamming distance dmin is 3. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.7/example_10_7.sce #
+ 
+ 
+ 
+ --------------Example 10.7---------------   
+ 
+The minimum Hamming distance for the first code scheme (Table 10.1) is 2.
+This code guarantees detection of only a single error. For example, if the third codeword (l01)
+is sent and one error occurs, the received codeword does not match any valid codeword. If two errors occur, however,
+the received codeword may match a valid codeword and the errors are not detected. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.8/example_10_8.sce #
+ 
+ 
+ 
+ --------------Example 10.8---------------   
+ 
+The second block code scheme (Table 10.2) has dmin = 3. This code can detect up to two errors.
+When any of the valid codewords is sent, two errors create a codeword which is not in the table of valid codewords.
+However, some combinations of three errors change a valid codeword to another valid codeword.
+The receiver accepts the received codeword and the errors are undetected. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH10/EX10.9/example_10_9.sce #
+ 
+ 
+ 
+ --------------Example 10.9---------------   
+ 
+ 
+ 
+ 
+ 
+This code guarantees the detection of up to 3 errors.
+
+ 
+It can correct upto 1 error.
+In other words, if this code is used for error correction, part of its capability is wasted. Error correction codes need to have an odd
+minimum distance (3, 5, 7, ... ). 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.10/example_11_10.sce #
+ 
+ 
+ 
+ --------------Example 11.10---------------   
+ 
+ 
+This example shows an exchange using piggybacking. The sequence of events that occur are as follows :
+
+* Node A begins the exchange of information with an I-frame numbered 0 followed by another I-frame numbered 1.
+
+* Node B piggybacks its acknowledgment of both frames onto an I-frame of its own.
+  Node Bs first I-frame is also numbered 0 [N(S) field] and contains a 2 in its N(R) field, acknowledging the receipt of As
+  frames 1 and 0 and indicating that it expects frame 2 to arrive next.
+
+* Node B transmits its second and third I-frames (numbered 1 and 2) before accepting further frames from node A.
+  Its N(R) information, therefore, has not changed: B frames 1 and 2 indicate that node B is still expecting As frame 2 to arrive next.
+
+* Node A has sent all its data. Therefore, it cannot piggyback an acknowledgment onto an I-frame and sends an S-frame instead.
+  The RR code indicates that A is still ready to receive. The number 3 in the N(R) field tells B that frames 0, 1, and 2 have all been
+  accepted and that A is now expecting frame number 3. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.11/example_11_11.sce #
+ 
+ 
+ 
+ --------------Example 11.11---------------   
+ 
+ 
+This example shows an exchange in which a frame is lost. The sequence of events that occur is as follows :
+
+* Node B sends three data frames (0, 1,and 2), but frame 1 is lost.
+
+* When node A receives frame 2, it discards it and sends a REJ frame for frame 1 since the protocol being used is Go-Back-N
+with the special use of an REJ frame as a NAK frame.
+
+* The NAK frame does two things here: It confirms the receipt of frame 0 and declares that frame 1 and any following frames must be resent.
+
+* Node B, after receiving the REJ frame, resends frames 1 and 2.
+
+* Node A acknowledges the receipt by sending an RR frame (ACK) with acknowledgment number 3. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.3/example_11_3.sce #
+ 
+ 
+ 
+ --------------Example 11.3---------------   
+ 
+ 
+This an example of Stop-and-Wait ARQ. The series of events taking place are as follows : 
+
+* Frame 0 is sent and acknowledged.
+* Frame 1 is lost and resent after the time-out.
+* The resent frame 1 is acknowledged and the timer stops.
+* Frame 0 is sent and acknowledged, but the acknowledgment is lost.
+* The sender has no idea if the frame or the acknowledgment is lost, so after the time-out, it resends frame 0, which is acknowledged. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.4/example_11_4.sce #
+ 
+ 
+ 
+ --------------Example 11.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+
+The bandwidth-delay product is 20000. Hence the system can send 20000 bits during the time it takes for the data to go from
+the sender to the receiver and then back again.
+The utilization percentage of the link is 5 percent. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.5/example_11_5.sce #
+ 
+ 
+ 
+ --------------Example 11.5---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The bandwidth delay product is 20000 and the utilization percentage of the link is 75 percent. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.6/example_11_6.sce #
+ 
+ 
+ 
+ --------------Example 11.6---------------   
+ 
+ 
+This an example of Go-Back-N. This is an example of a case where the forward channel is reliable, but the reverse is not.
+No data frames are lost, but some ACKs are delayed and one is lost. The example also shows how cumulative
+acknowledgments can help if acknowledgments are delayed or lost.
+ 
+
+After initialization, there are seven sender events. Request events are triggered by data from the network layer;
+arrival events are triggered by acknowledgments from the physical layer. There is no time-out event here because all
+outstanding frames are acknowledged before the timer expires.Although ACK 2 is lost, ACK 3 serves as both ACK 2 and ACK3.
+
+There are four receiver events, all triggered by the arrival of frames from the physical layer. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.8/example_11_8.sce #
+ 
+ 
+ 
+ --------------Example 11.8---------------   
+ 
+ 
+This example shows the behaviour of Selective Repeat when a frame is lost.
+
+ 
+Here, each frame sent or resent needs a timer, which means that the timers need to be numbered (0, 1,2, and 3).
+The timer for frame 0 starts at the first request, but stops when the ACK for this frame arrives.
+The timer for frame 1 starts at the second request, restarts when a NAK arrives, and finally stops when the last ACK arrives.
+The other two timers start when the corresponding frames are sent and stop at the last arrival event. 
+
+
+At the second arrival, frame 2 arrives and is stored and marked (colored slot), but it cannot be delivered because frame 1 is missing.
+At the next arrival, frame 3 arrives and is marked and stored, but still none of the frames can be delivered.
+Only at the last arrival, when finally a copy of frame 1 arrives, can frames 1, 2, and 3 be delivered to the network layer.
+There are two conditions for the delivery of frames to the network layer: First, a set of consecutive frames must have arrived.
+Second, the set starts from the beginning of the window.
+After the first arrival, there was only one frame and it started from the beginning of the window. After the last arrival,
+there are three frames and the first one starts from the beginning of the window. 
+
+
+A NAK is sent after the second arrival, but not after the third,although both situations look the same.
+The reason is that the protocol does not want to crowd the network with unnecessary NAKs and unnecessary resent frames.
+The second NAK would still be NAK1 to inform the sender to resend frame 1 again; this has already been done. The first NAK sent is remembered
+(using the nakSent variable) and is not sent again until the frame slides. A NAK is sent once for each window position and defines
+the first slot in the window. 
+
+
+Only two ACKs are sent here. The first one acknowledges only the first frame; the second one acknowledges three frames.
+In Selective Repeat, ACKs are sent when data are delivered to the network layer. If the data belonging to n frames are delivered in one shot,
+only one ACK is sent for all of them. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.1/example_12_1.sce #
+ 
+ 
+ 
+ --------------Example 12.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a)K=1 :-  TB is either  0 ms (0 x 2) or 2 ms (l x 2), based on the outcome of the random variable.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+b)K=2 :-  TB can be 0, 2, 4, or 6 ms, based on the outcome of the random variable.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+c)K=3 :-  TB can be 0, 2, 4, 6, 8, 10, 12 or 14 ms, based on the outcome of the random variable.
+ 
+ 
+
+d)K>10 :-  If K > 10, it is normally set to 10. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.2/example_12_2.sce #
+ 
+ 
+ 
+ --------------Example 12.2---------------   
+ 
+ 
+ 
+ 
+ 
+The Tfr is 1 ms and the vulnerable time is 2 ms.
+This means no station should send later than 1 ms before this station starts transmission
+and no station should start sending during the one 1 ms period that this station is sending. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.3/example_12_3.sce #
+ 
+ 
+ 
+ --------------Example 12.3---------------   
+ 
+ 
+ 
+ 
+
+The frame transmission time is 1 ms.
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) 
+S = 0.135 or 13.5 percent. 
+ 
+
+The throughput is 135 frames.Only 135 frames out of 1000 will probably survive.
+ 
+ 
+ 
+
+b) 
+S = 0.184 or 18.4 percent. 
+ 
+ 
+
+The throughput is 92 frames.Only 92 frames out of 500 will probably survive.
+ 
+Note that this is the maximum throughput case, percentage wise.
+ 
+ 
+ 
+ 
+
+c) 
+S = 0.152 or 15.2 percent. 
+ 
+
+The throughput is 38 frames.Only 38 frames out of 250 will probably survive.
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.4/example_12_4.sce #
+ 
+ 
+ 
+ --------------Example 12.4---------------   
+ 
+ 
+ 
+ 
+
+The frame transmission time is 1 ms.
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) 
+S = 0.368 or 36.8 percent. 
+ 
+ 
+
+The throughput is 368 frames.Only 368 frames out of 1000 will probably survive.
+ 
+Note that this is the maximum throughput case, percentage wise.
+ 
+ 
+ 
+ 
+
+b) 
+S = 0.303 or 30.3 percent. 
+ 
+
+The throughput is 151 frames.Only 151 frames out of 500 will probably survive.
+ 
+ 
+ 
+ 
+
+c) 
+S = 0.195 or 19.5 percent. 
+ 
+
+The throughput is 49 frames.Only 49 frames out of 250 will probably survive.
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.5/example_12_5.sce #
+ 
+ 
+ 
+ --------------Example 12.5---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The minimum frame size is 512 bits or 64 bytes.
+This is the minimum size of the frame for Standard Ethernet. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.6/example_12_6.sce #
+ 
+ 
+ 
+ --------------Example 12.6---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)The chips for a two-station network are    
+ 
+ 
+    1.    1.  
+ 
+ 
+ and   
+ 
+ 
+    1.  - 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b)The chips for a four-station network are    
+ 
+ 
+    1.    1.    1.    1.  
+ 
+, 
+ 
+    1.  - 1.    1.  - 1.  
+ 
+, 
+ 
+    1.    1.  - 1.  - 1.  
+ 
+and 
+ 
+    1.  - 1.  - 1.    1.  
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.7/example_12_7.sce #
+ 
+ 
+ 
+ --------------Example 12.7---------------   
+ 
+ 
+ 
+ 
+The number of sequences is 128. Hence 90 of the sequences can be used as the chips. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH12/EX12.8/example_12_8.sce #
+ 
+ 
+ 
+ --------------Example 12.8---------------   
+ 
+ 
+Proof:-
+ Let us prove this for the first station, using the previous four-station example.
+ The data on the channel is D = (d1*c1 + d2*c2 + d3*c3 + d4*c4) .
+ The receiver which wants to get the data sent by station 1 multiplies these data by c1.
+  D*c1 = (d1*c1+d2*c2+d3*c3+d4*c4)*c1
+       = d1*c1*c1 + d2*c2*c1 + d3*c3*c1 + d4*c4*c1
+       = d1*N + d2*0 + d3*0 + d4*0
+       = d1*N
+ When the result is divided by N, we get d1. Hence Proved. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH13/EX13.1/example_13_1.sce #
+ 
+ 
+ 
+ --------------Example 13.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) 
+This is a unicast address because the second hexadecimal digit from the left i.e A in binary is 1010 and is even.
+ 
+ 
+ 
+ 
+
+b) 
+This is a multicast address because the second hexadecimal digit from the left i.e 7 in binary is 0111 and is odd.
+ 
+ 
+ 
+ 
+ 
+ 
+
+c)This is a broadcast address because all digits are Fs. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH13/EX13.2/example_13_2.sce #
+ 
+ 
+ 
+ --------------Example 13.2---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The address is sent left-to-right, byte by byte; for each byte, it is sent right-to-left, bit by bit, as :
+
+       11100010 00000100 11011000 01110100 00010000 01110111 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH16/EX16.1/example_16_1.sce #
+ 
+ 
+ 
+ --------------Example 16.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The period of the Moon, according to Keplers law is 2439090 s or approximately 1 month. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH16/EX16.2/example_16_2.sce #
+ 
+ 
+ 
+ --------------Example 16.2---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+According to Keplers law, the period of the satellite is 86579 s or 24 hours. 
+
+This means that a satellite located at 35786 km has a period of 24 h, which is the same as the rotation period of the Earth.
+A satellite like this is said to be stationary to the Earth. The orbit is called a geosynchronous orbit. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH17/EX17.1/example_17_1.sce #
+ 
+ 
+ 
+ --------------Example 17.1---------------   
+ 
+ 
+ 
+ 
+ 
+The STS-1 data rate is 51.840 Mbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH17/EX17.2/example_17_2.sce #
+ 
+ 
+ 
+ --------------Example 17.2---------------   
+ 
+ 
+ 
+ 
+ 
+The STS-3 data rate is 155.52 Mbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH17/EX17.3/example_17_3.sce #
+ 
+ 
+ 
+ --------------Example 17.3---------------   
+ 
+ 
+ 
+ 
+In SONET, 8000 frames are sent per second. This means that the duration of an STS-l, STS-3, or STS-n frame is the same and equal 125 microseconds. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH17/EX17.4/example_17_4.sce #
+ 
+ 
+ 
+ --------------Example 17.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The STS-1 user data rate is 49.536 Mbps. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH17/EX17.5/example_17_5.sce #
+ 
+ 
+ 
+ --------------Example 17.5---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The number 650 can be expressed in four hexadecimal digits as Ox028A.
+Hence the value of H1 is Ox02 and the value of H2 is Ox8A. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.10/example_19_10.sce #
+ 
+ 
+ 
+ --------------Example 19.10---------------   
+ 
+ 
+ 
+
+ 
+ 
+ 
+Number of bits needed to define each host = 6
+The prefix length = 26 
+
+The total number of addresses alloted to Group 1 = 16384
+
+ 
+ 
+Number of bits needed to define each host = 7
+The prefix length = 25 
+
+The total number of addresses alloted to Group 2 = 16384
+
+ 
+ 
+Number of bits needed to define each host = 7
+The prefix length = 25 
+
+The total number of addresses alloted to Group 3 = 8192
+
+ 
+ 
+ 
+
+The total number of addresses granted to the ISP = 65536 
+
+
+The total number of addresses allocated by the ISP = 40960 
+
+
+The number of addresses remaining = 24576 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.11/example_19_11.sce #
+ 
+ 
+ 
+ --------------Example 19.11---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The original address is 0000:0015:0000:0000:0000:0001:0012:1213 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.1/example_19_1.sce #
+ 
+ 
+ 
+ --------------Example 19.1---------------   
+ 
+ 
+ a  =
+ 
+ 10000001000010110000101111101111   
+ 
+ ab  =
+ 
+!10000001  !
+!          !
+!00001011  !
+!          !
+!00001011  !
+!          !
+!11101111  !
+ 
+ 
+ 
+ 
+ 
+
+a) Decimal notation :-  129.11.11.239 
+ 
+ b  =
+ 
+ 11000001100000110001101111111111   
+ 
+ bb  =
+ 
+!11000001  !
+!          !
+!10000011  !
+!          !
+!00011011  !
+!          !
+!11111111  !
+ 
+ 
+ 
+ 
+ 
+
+
+b) Decimal notation :-  193.131.27.255 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.2/example_19_2.sce #
+ 
+ 
+ 
+ --------------Example 19.2---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a) Binary notation :- 01101111 00111000 00101101 01001110   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b) Binary notation :- 11011101 00100010 00000111 01010010   
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.3/example_19_3.sce #
+ 
+ 
+ 
+ --------------Example 19.3---------------   
+ 
+ 
+ 
+ a) There must be no leading zero (045).   
+ 
+ 
+ 
+ b) There can be no more than four numbers in an IPv4 address.   
+ 
+ 
+ 
+ c) Each number needs to be less than or equal to 255 (301 is outside this range).   
+ 
+ 
+ 
+ d) A mixture of binary notation and dotted-decimal notation is not allowed.   
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.4/example_19_4.sce #
+ 
+ 
+ 
+ --------------Example 19.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) 
+ 
+  The first bit is O. This is a class A address.   
+ 
+ 
+ 
+
+b) 
+ 
+  The first 3 bits are 11O. This is a class C address.   
+ 
+ 
+ 
+
+c) 
+ 
+  The first byte is between 0 and 127; the class is A.   
+ 
+ 
+ 
+
+d) 
+ 
+  The first byte is between 240 and 255; the class is E.   
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.5/example_19_5.sce #
+ 
+ 
+ 
+ --------------Example 19.5---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The block of addresses is   
+ 
+ 
+ i) In binary notation :- 1st address = 11001101 00010000 00100101 00100000   
+ 
+ 
+   last address = 11001101 00010000 00100101 00101111   
+ 
+
+ii) In dotted decimal notation :- 1st address = 205.16.37.32
+
+    last address = 205.16.37.47 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.6/example_19_6.sce #
+ 
+ 
+ 
+ --------------Example 19.6---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Binary notation of the address is 11001101 00010000 00100101 00100111   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+!11001101  !
+!          !
+!00010000  !
+!          !
+!00100101  !
+!          !
+!00100000  !
+ 
+ 
+ 
+ 
+ 
+ 
+  Binary notation of first address:-  11001101 00010000 00100101 00100000   
+ 
+ Decimal notation of first address:-  205.16.37.32 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.7/example_19_7.sce #
+ 
+ 
+ 
+ --------------Example 19.7---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Binary notation of the address is 11001101 00010000 00100101 00100111   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+!11001101  !
+!          !
+!00010000  !
+!          !
+!00100101  !
+!          !
+!00101111  !
+ 
+ 
+ 
+ 
+ 
+ 
+  Binary notation of last address:-  11001101 00010000 00100101 00101111   
+ 
+ Decimal notation of last address:-  205.16.37.47 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.8/example_19_8.sce #
+ 
+ 
+ 
+ --------------Example 19.8---------------   
+ 
+ 
+ 
+ 
+ 
+
+ The number of addresses in the block is 16. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH19/EX19.9/example_19_9.sce #
+ 
+ 
+ 
+ --------------Example 19.9---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Binary notation of the address is 11001101 00010000 00100101 00100111   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The mask is 11111111 11111111 11111111 11110000   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The first address is  
+11001101 
+  
+00010000 
+  
+00100101 
+  
+00100000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+b) The complement of the mask is  
+00000000 
+  
+00000000 
+  
+00000000 
+  
+00001111 
+ 
+ 
+ 
+ 
+ 
+
+
+  The last address is  
+11001101 
+  
+00010000 
+  
+00100101 
+  
+00101111 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+c) The number of addresses is 16. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.1/example_20_1.sce #
+ 
+ 
+ 
+ --------------Example 20.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+There is an error in this packet. The 4 leftmost bits 0100 show the version, which is correct.
+The next 4 bits 0010 show an invalid header length 8. The minimum number of bytes in the header must be 20.
+The packet has been corrupted in transmission.
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.2/example_20_2.sce #
+ 
+ 
+ 
+ --------------Example 20.2---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The total number of bytes in the header is 32 bytes.The first 20 bytes are the base header, the next 12 bytes are the options. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.3/example_20_3.sce #
+ 
+ 
+ 
+ --------------Example 20.3---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ The total length is 40 bytes. The total number of bytes in the header is 20 bytes, which means the packet is carrying 20 bytes of data. 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.4/example_20_4.sce #
+ 
+ 
+ 
+ --------------Example 20.4---------------   
+ 
+ 
+ 
+ 
+ 
+The time-to-live field is the ninth byte, which is 01. Hence the packet can travel 1 hop.
+ 
+ 
+The protocol field is the next byte i.e 02, which means that the upper-layer protocol is IGMP. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.5/example_20_5.sce #
+ 
+ 
+ 
+ --------------Example 20.5---------------   
+ 
+ 
+There are no more fragments; this fragment is the last one. 
+
+However, it cannot be determined if the original packet was fragmented or not. A non-fragmented packet is considered the last fragment. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.6/example_20_6.sce #
+ 
+ 
+ 
+ --------------Example 20.6---------------   
+ 
+ 
+There is at least one more fragment. This fragment can be the first one or a middle one, but not the last one.
+It cannot be determined if it is the first one or a middle one. The value of the fragmentation offset is needed to determine this. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.7/example_20_7.sce #
+ 
+ 
+ 
+ --------------Example 20.7---------------   
+ 
+ 
+ 
+The M bit is 1 and the offset value is 0. Hence it is the first fragment. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.8/example_20_8.sce #
+ 
+ 
+ 
+ --------------Example 20.8----------------   
+ 
+ 
+ 
+The first byte number is 800. The number of the last byte cannot be determined as the length of the data is unknown. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.9/example_20_9.sce #
+ 
+ 
+ 
+ --------------Example 20.9----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The first byte number is 800 and the last byte number is 879. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.1/example_21_1.sce #
+ 
+ 
+ 
+ --------------Example 21.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sender_hw_addr  =
+ 
+ B23455102210   
+ 
+ 
+ 
+ 
+ 
+ARP Request Packet
+ 
+        __________________________________________________
+ 
+       |____0x0001_______________|____0x0800______________|
+ 
+       |___0x06______|___0x04____|____0x0001______________|
+ 
+       |_______________0xB23455102210_____________________|
+ 
+       |_________________130.23.43.20_____________________|
+ 
+       |_______________0x000000000000_____________________|
+ 
+       |_________________130.23.43.25_____________________|
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sender_hw_addr  =
+ 
+ A46EF45983AB   
+ 
+ 
+ 
+ 
+ 
+
+ARP Reply Packet
+ 
+        __________________________________________________
+ 
+       |____0x0001_______________|____0x0800______________|
+ 
+       |___0x06______|___0x04____|____0x0002______________|
+ 
+       |_______________0xA46EF45983AB_____________________|
+ 
+       |_________________130.23.43.25_____________________|
+ 
+       |_______________0xB23455102210_____________________|
+ 
+       |_________________130.23.43.20_____________________|
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.2/example_21_2.sce #
+ 
+ 
+ 
+ --------------Example 21.2----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      8 & 0 :- 00001000 00000000
+          0 :- 00000000 00000000
+          1 :- 00000000 00000001
+          9 :- 00000000 00001001
+      T & E :- 01010100 01000101
+      S & T :- 01010011 01010100
+      Sum   :- 10101111 10100011
+   Checksum :- 01010000 01011100 
+
+
+The message is divided into 16-bit (2-byte) words. The words are added and the sum is complemented.
+Now the sender can put this value in the checksum field. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.3/example_21_3.sce #
+ 
+ 
+ 
+ --------------Example 21.3---------------   
+ 
+ 
+We use the ping program to test the server fhda.edu. The result is shown below:
+$ ping thda.edu
+PING thda.edu (153.18.8.1) 56 (84) bytes of data.
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=O  ttl=62 time=1.91 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=1  ttl=62 time=2.04 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=2  ttl=62 time=1.90 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=3  ttl=62 time=1.97 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=4  ttl=62 time=1.93 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=5  ttl=62 time=2.00 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=6  ttl=62 time=1.94 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=7  ttl=62 time=1.94 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=8  ttl=62 time=1.97 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=9  ttl=62 time=1.89 ms
+64 bytes from tiptoe.fhda.edu (153.18.8.1): icmp_seq=10 ttl=62 time=1.98 ms
+
+--- thda.edu ping statistics ---
+11 packets transmitted, 11 received, 0% packet loss, time 10103ms
+   rttminJavg/max = 1.899/1.955/2.041 ms 
+
+
+The ping program sends messages with sequence numbers starting from 0. For each probe it gives us the RTT time.
+The TTL (time to live) field in the IP datagram that encapsulates an ICMP message has been set to 62,
+which means the packet cannot travel mare than 62 hops. At the beginning, ping defines the number of data bytes as 56
+and the total number of bytes as 84. It is obvious that if we add 8 bytes of ICMP header and 20 bytes of IP header to 56, the result is 84.
+However, in each probe ping defines the number of bytes as 64. This is the total number of bytes in the ICMP packet (56 + 8).
+The ping program continues to send messages, if we do not stop it by using the interrupt key . After it is interrupted,
+it prints the statistics of the probes. It tells us the number of packets sent, the number of packets received, the total time,
+and the RTT minimum, maximum, and average. Some systems may print more information. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.4/example_21_4.sce #
+ 
+ 
+ 
+ --------------Example 21.4---------------   
+ 
+ 
+The traceroute program is used to find the route from the computer voyager.deanza.edu to the server fhda.edu.
+The following shows the result:
+
+ 
+$ traceroute fbda.edu
+traceroute to fbda.edu  (153.18.8.1),30 hops max, 38 byte packets
+1 Dcore.fhda.edu    (153.18.31.254)  0.995 ms  0.899 ms  0.878 ms
+2 Dbackup.fhda.edu  (153.18.251.4)   1.039 ms  1.064 ms  1.083 ms
+3 tiptoe.fhda.edu   (153.18.8.1)     1.797 ms  1.642 ms  1.757 ms
+
+ 
+The unnumbered line after the command shows that the destination is 153.18.8.1. The TTL value is 30 hops.
+The packet contains 38 bytes: 20 bytes of IP header, 8 bytes of UDP header, and 10 bytes of application data.
+The application data are used by traceroute to keep track of the packets.
+
+ 
+The first line shows the first router visited. The router is named Dcore.fhda.edu with IP address 153.18.31.254.
+The first round-trip time was 0.995 ms, the second was 0.899 ms, and the third was 0.878 ms.
+
+ 
+The second line shows the second router visited. The router is named Dbackup.fhda.edu with IP address 153.18.251.4.
+The three round-trip times are also shown.
+
+ 
+The third line shows the destination host. This is the destination host because there are no more lines.
+The destination host is the server thda.edu, but it is named tiptoe.fhda.edu with the IP address 153.18.8.1.
+The three round-trip times are also shown. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.5/example_21_5.sce #
+ 
+ 
+ 
+ --------------Example 21.5---------------   
+ 
+ 
+In this example, we trace a longer route, the route to xerox.com.
+
+ 
+$ traceroute xerox.com
+traceroute to xerox.com (13.1.64.93), 30 hops max, 38 byte packets
+1 Dcore.fbda.edu (153.18.31.254)  0.622 ms  0.891 ms  0.875 ms
+2 Ddmz.fbda.edu  (153.18.251.40)  2.132 ms  2.266 ms  2.094ms
+3 Cinic.fhda.edu (153.18.253.126) 2.110 ms  2.145 ms  1.763 ms
+4 cenic.net      (137.164.32.140) 3.069 ms  2.875 ms  2.930ms
+5 cenic.net      (137.164.22.31)  4.205 ms  4.870 ms  4.197 ms
+ 
+     ...             ...              ...        ...       ...
+ 
+14 snfc21.pbi.net  (151.164.191.49)  7.656 ms  7.129 ms  6.866ms
+15 sbcglobaLnet    (151.164.243.58)  7.844 ms  7.545 ms  7.353 ms
+16 pacbell.net     (209.232.138.114) 9.857 ms  9.535 ms  9.603 ms
+17 209.233.48.223  (209.233.48.223)  10.634 ms10.771 ms  10.592 ms
+18 alpha.Xerox.COM (13.1.64.93)      11.172 ms 11.048 ms 10.922ms
+
+ 
+There are 17 hops between source and destination. Some round-trip times look unusual.
+It could be that a router was too busy to process the packet immediately. 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.6/example_21_6.sce #
+ 
+ 
+ 
+ --------------Example 21.6----------------   
+ 
+ 
+The events occur in this sequence:
+
+a. Time 12: The timer for 228.42.0.0 in host A expires, and a membership report is sent,
+which is received by the router and every host including host B which cancels its timer
+for 228.42.0.0.
+
+b. Time 30: The timer for 225.14.0.0 in host A expires, and a membership report is sent,
+which is received by the router and every host including host C which cancels its timer
+for 225.14.0.0.
+
+c. Time 50: The timer for 238.71.0.0 in host B expires, and a membership report is sent,
+which is received by the router and every host.
+
+d. Time 70: The timer for 230.43.0.0 in host C expires, and a membership report is sent,
+which is received by the router and every host including host A which cancels its timer
+for 230.43.0.0. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.7/example_21_7.sce #
+ 
+ 
+ 
+ --------------Example 21.7----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Ethernet multicast physical address is 01:00:5E:2B:0E:07. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.8/example_21_8.sce #
+ 
+ 
+ 
+ --------------Example 21.8----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Ethernet multicast physical address is 01:00:5E:54:18:09. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH21/EX21.9/example_21_9.sce #
+ 
+ 
+ 
+ --------------Example 21.9---------------   
+ 
+ 
+We use netstat with three options: -n, -r, and -a. The -n option gives the numeric versions of IP
+addresses, the -r option gives the routing table, and the -a option gives all addresses (unicast and
+multicast). Gateway defines the router, Iface defines the interface.
+
+ 
+$ netstat  -nra
+Kernel IP routing table
+Destination    Gateway          Mask         Flags   Iface
+153.18.16.0   0.0.0.0          255.255.240.0  U      eth0
+169.254.0.0   0.0.0.0          255.255.0.0    U      eth0
+127.0.0.0     0.0.0.0          255.0.0.0      U      lo
+224.0.0.0     0.0.0.0          224.0.0.0      U      eth0
+0.0.0.0       153.18.31.254    0.0.0.0        UG     eth0
+
+ 
+Any packet with a multicast address from 224.0.0.0 to 239.255.255.255 is masked and delivered to the Ethernet interface. 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH22/EX22.1/example_22_1.sce #
+ 
+ 
+ 
+ --------------Example 22.1----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ network_address5  =
+ 
+ Any   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+        ROUTING TABLE FOR ROUTER R1
+ 
+
+!Mask|Network address|  Next hop  | Interface!
+ 
+ 
+!/26  180.70.65.192         -            m2  !
+!                                            !
+!/25  180.70.65.128         -            m0  !
+!                                            !
+!/24  201.4.22.0            -            m3  !
+!                                            !
+!/22  201.4.16.0            -            m1  !
+!                                            !
+!Any  Any            180.70.65.200       m2  !
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH22/EX22.2/example_22_2.sce #
+ 
+ 
+ 
+ --------------Example 22.2----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1) The mask /26 is applied to the destination address.
+The result is 180.70.65.128, which does not match the corresponding network address 180.70.65.192.
+
+2) The mask /25 is applied to the destination address.
+The result is 180.70.65.128,which matches the corresponding network address 180.70.65.128.
+The next-hop address (the destination address of the packet in this case) and the interface number m0 are passed to ARP for further processing. 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH22/EX22.3/example_22_3.sce #
+ 
+ 
+ 
+ --------------Example 22.3----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1) The mask /26 is applied to the destination address.
+The result is 201.4.22.0, which does not match the corresponding network address 180.70.65.192.
+
+2) The mask /25 is applied to the destination address.
+The result is 201.4.22.0, which does not match the corresponding network address 180.70.65.128.
+
+3) The mask /24 is applied to the destination address.
+The result is 201.4.22.0, which matches the corresponding network address 201.4.22.0 .
+The destination address of the packet and the interface number m3 are passed to ARP. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH22/EX22.4/example_22_4.sce #
+ 
+ 
+ 
+ --------------Example 22.4----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1) The mask /26 is applied to the destination address.
+The result is 18.24.32.64, which does not match the corresponding network address 180.70.65.192.
+
+2) The mask /25 is applied to the destination address.
+The result is 18.24.32.0, which does not match the corresponding network address 180.70.65.128.
+
+3) The mask /24 is applied to the destination address.
+The result is 18.24.32.0, which does not match the corresponding network address 201.4.22.0.
+
+4) The mask /22 is applied to the destination address.
+The result is 18.24.32.0, which does not match the corresponding network address 201.4.16.0. 
+ 
+
+
+No matching network address is found.
+When it reaches the end of the table, the module gives the next-hop address 180.70.65.200 and interface number m2 to ARP.
+This is probably an outgoing package that needs to be sent, via the default router, to someplace else in the Internet. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH22/EX22.5/example_22_5.sce #
+ 
+ 
+ 
+ --------------Example 22.5----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+!01111000  !
+!          !
+!00001110  !
+!          !
+!01111111  !
+!          !
+!11111111  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+!01111000  !
+!          !
+!00001110  !
+!          !
+!01001111  !
+!          !
+!11111111  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+!01111000  !
+!          !
+!00001110  !
+!          !
+!01000000  !
+!          !
+!00000011  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+!01111000  !
+!          !
+!00001110  !
+!          !
+!01100000  !
+!          !
+!00000000  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+!01111000  !
+!          !
+!00001110  !
+!          !
+!01110000  !
+!          !
+!00000000  !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A regional ISP is granted 16384 addresses starting from 120.14.64.0 .The regional ISP has decided to divide this block into 4 subblocks,
+each with 4096 addresses.Three of these subblocks are assigned to three local ISPs; the second subblock is reserved for future use.
+The mask for each block is /20 because the original block with mask /18 is divided into 4 blocks.
+
+The first local ISP has divided its assigned subblock into 8 smaller blocks and assigned each to a small ISP.
+Each small ISP provides services to 128 households (H001 to H128),each using 4 addresses.
+The mask for each small ISP is now /23 because the block is further divided into 8 blocks. Each household has a mask of /30
+because a household has only 4 addresses.
+
+The second local ISP has divided its block into 4 blocks and has assigned the addresses to 4 large organizations (LOrg01 to LOrg04).
+Each large organization has 1024 addresses, and the mask is /22 and the starting address is 120.14.96.0 .
+
+The third local ISP has divided its block into 16 blocks and has assigned the addresses to 16 large organizations (SOrg01 to SOrg16).
+Each large organization has 256 addresses, and the mask is /24 and the starting address is 120.14.112.0 .
+
+There is a sense of hierarchy in this configuration. All routers in the Internet send a packet with destination address
+120.14.64.0 to 120.14.127.255 to the regional ISP.
+
+The regional ISP sends every packet with destination address 120.14.64.0 to 120.14.79.255 to local ISPl.
+Local ISP1 sends every packet with destination address 120.14.64.0 to 120.14.64.3 to H001. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH22/EX22.6/example_22_6.sce #
+ 
+ 
+ 
+ --------------Example 22.6----------------   
+ 
+ 
+One utility that can be used to find the contents of a routing table for a host or router is netstat in UNIX or LINUX.
+The following shows the list of the contents of a default server. Two options, r and n are used.
+The option r indicates that we are interested in the routing table, and the option n indicates that we are looking for numeric addresses.
+This is a routing table for a host, not a router. Although we discussed the routing table for a router throughout the chapter,
+a host also needs a routing table.
+ 
+ 
+
+$ netstat -rn
+Kernel IP routing table
+Destination   Gateway       Mask           Flags    Iface
+153.18.16.0   0.0.0.0       255.255.240.0     U     eth0
+127.0.0.0     0.0.0.0       255.0.0.0         U     la
+0.0.0.0      153.18.31.254  0.0.0.0           G     eth0 
+ 
+
+
+Note also that the order of columns is different from what we showed. The destination column here defines the network address.
+The term gateway used by UNIX is synonymous with router. This column acmally defines the address of the next hop.
+The value 0.0.0.0 shows that the delivery is direct. The last entry has a flag of G,
+which means that the destination can be reached through a router (default router). The Iface defines the interface.
+The host has only one real interface,eth0,which means interface 0 connected to an Ethernet network.
+The second interface, la,is actually a virtual loopback interface indicating that the host accepts packets with loopback address 127.0.0.0. 
+ 
+
+
+More information about the IP address and physical address of the server can be found by using the ifconfig command on the given interface (eth0).
+$ ifconfig eth0
+eth0 Link encap:Ethernet HWaddr 00:BO:DO:DF:09:5D
+inet addr:153.18.17.11 Bcast: 153.18.31.255 Mask:255.255.240.0 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH23/EX23.1/example_23_1.sce #
+ 
+ 
+ 
+ --------------Example 23.1----------------   
+ 
+ 
+In UNIX, the well-known ports are stored in a file called fetcfservices. Each line in this file gives
+the name of the server and the well-known port number.The following shows the port for FTP. Note that FTP can use port 21 with either UDP or TCP.
+
+$grep   ftp  /etc/services
+ftp     21/tcp
+ftp     21/udp 
+
+
+SNMP uses two port numbers (161 and 162), each for a different purpose.
+
+$grep snmp /etc/services
+snmp            161/tcp            #Simple Net Mgmt Proto
+snmp            161/udp            #Simple Net Mgmt Proto
+snmptrap        162/udp            #Traps for SNMP 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH23/EX23.2/example_23_2.sce #
+ 
+ 
+ 
+ --------------Example 23.2----------------   
+ 
+The datagram has only 7 bytes of data. Because the number of bytes of data is odd, padding is added for checksum calculation.
+The pseudoheader as well as the padding will be dropped when the user datagram is delivered to IP. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH23/EX23.3/example_23_3.sce #
+ 
+ 
+ 
+ --------------Example 23.3----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segment 1:- Sequence Number: 10001 and range: 10001 to 11000
+Segment 2:- Sequence Number: 11001 and range: 11001 to 12000
+Segment 3:- Sequence Number: 12001 and range: 12001 to 13000
+Segment 4:- Sequence Number: 13001 and range: 13001 to 14000
+Segment 5:- Sequence Number: 14001 and range: 14001 to 15000 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH23/EX23.4/example_23_4.sce #
+ 
+ 
+ 
+ --------------Example 23.4----------------   
+ 
+ 
+ 
+ 
+The value of rwnd = 4000 . Hence Host B can receive only 4000 bytes of data before overflowing its buffer. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH23/EX23.5/example_23_5.sce #
+ 
+ 
+ 
+ --------------Example 23.5----------------   
+ 
+ 
+ 
+ 
+The size of the window is the smaller of rwnd and cwnd, which is 3000 bytes. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH23/EX23.6/example_23_6.sce #
+ 
+ 
+ 
+ --------------Example 23.6----------------   
+ 
+ 
+ 
+ 
+ 
+This an unrealistic example of a sliding window. The sender has sent bytes up to 202.
+The receiver has sent an acknowledgment number of 200 with an rwnd of 9 bytes.
+The size of the sender window is the minimum of rwnd and cwnd, or 9 bytes. Bytes 200 to 202 are sent, but not acknowledged.
+Bytes 203 to 208 can be sent without worrying about acknowledgment. Bytes 209 and above cannot be sent. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH26/EX26.1/example_26_1.sce #
+ 
+ 
+ 
+ --------------Example 26.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this example, the client wants the server to echo each character sent to the server. In other words,
+when a character is typed at the user keyboard terminal, it goes to the server and is sent back to the screen of the user before being processed.
+The echo option is enabled by the server because it is the server that sends the characters back to the user terminal.
+Therefore, the client should request from the server the enabling of the option using DO.
+The request consists of three characters: IAC, DO and ECHO.
+The server accepts the request and enables the option WILL.
+It informs the client by sending the three-character approval: IAC, WILL and ECHO. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH26/EX26.2/example_26_2.sce #
+ 
+ 
+ 
+ --------------Example 26.2---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Client                                                Server
+ 
+    |             I will enable the terminal option       |
+ 
+    |------------|Terminal type|-|WILL|-|IAC|------------>|
+ 
+    |                                                     |
+ 
+    |             Do enable terminal option               |
+ 
+    |<-----------|IAC|-|DO|-|Terminal type|---------------|
+ 
+    |                                                     |
+ 
+    |            Set the terminal type to VT              |
+ 
+    |----|SE|-|IAC|-|T|-|V|-|Terminal type|-|SB|-|IAC|--->|
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH26/EX26.3/example_26_3.sce #
+ 
+ 
+ 
+ --------------Example 26.3---------------   
+ 
+ 
+We use TELNET to log into port 25 (the wellknown port for SMTP). We then use the commands directly to send an e-mail.
+In this example,forouzanb@adelphia.net is sending an e-mail to himself. The first few lines show TELNET trying to connect to the Adelphia mail server.
+After connection, we can type the SMTP commands and then receive the responses, as shown below.
+Comment lines are designated by the = signs. These lines are not part of the e-mail procedure. 
+ 
+
+
+$ telnet mail.adelphia.net25
+Trying 68.168.78.100...
+Connected to mail.adelphia.net(68.168.78.100). 
+
+
+================= Connection Establishment====================
+ 220 mta13.adelphia.net SMTP server ready Fri, 6 Aug 2004 ...
+HELO mail.adelphia.net
+ 250 mtal3.adelphia.net 
+
+
+============= Mail Transfer=================
+MAIL FROM: forouzanb@adelphia.net
+ 250 Sender:<forouzanb@adelphia.net>:Ok
+RCPT TO:forounzanb.@adelphia.net
+ 250 Recipient:<forouzanb@adelphia.net>Ok
+DATA
+ 354 Ok Send data ending with <CRLF>.<CRLF>
+From:Forouzan
+TO:Forouzan 
+
+
+This is a test message
+to show SMTP in action... 
+
+
+==============Connection Termination =================
+ 250 Message received:adelphia.net@mail.adelphia.net
+QUIT
+ 221 mta13.adelphia.net SMTP server closing connection
+Connection d by foreign host. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH26/EX26.4/example_26_4.sce #
+ 
+ 
+ 
+ --------------Example 26.4---------------   
+ 
+ 
+The following shows an actual FTP session for retrieving a list of items in a directory.Lines in the middle show 
+commands sent by the client and the top and bottom lines show data transfer. 
+ 
+
+
+$ ftp voyager.deanza.tbda.edu
+Connected to voyager.deanza.tbda.edu.
+220(vsFTPd 1.2.1)
+530 Please login with USER and PASS.
+Name(voyager.deanza.tbda.edu:forouzan): forouzan
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> Is reports
+227 Entering Passive Mode (153,18,17,11,238,169)
+150 Here comes the directory listing. 
+
+
+drwxr-xr-x  2 3027    411        4096Sep24 2002 business
+drwxr-xr-x  2 3027    411        4096Sep24 2002 personal
+drwxr-xr-x  2 3027    411        4096Sep24 2002 school 
+
+
+226 Directory send OK.
+ftp>quit
+221 Goodbye. 
+
+
+
+n1. After the control connection is created, the FIP server sends the 220 (service ready) response on the control connection.
+2. The client sends its name.
+3. The server responds with 331 (user name is OK, password is required).
+4. The client sends the password (not shown).
+5. The server responds with 230 (user log-in is OK).
+6. The client sends the list command Os reports) to find the list of files on the directory named report.
+7. Now the server responds with 150 and opens the data connection.
+8. The server then sends the list of the files or directories (as a file) on the data connection.
+When the whole list (file) is sent, the server responds with 226 (closing data connection)over the control connection.
+9. The client now has two choices. It can use the QUIT command to request the closing of the control connection, or it can send
+another command to start another activity (and eventually open another data connection). In our example, the client sends a QUIT command.
+10. After receiving the QUIT command, the server responds with 221 (service closing) and then s the control connection. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH26/EX26.5/example_26_5.sce #
+ 
+ 
+ 
+ --------------Example 26.5---------------   
+ 
+This an example of anonymous FTP. We assume that some public data are available at internic.net.Lines in the middle show 
+commands sent by the client and the top and bottom lines show data transfer.
+
+ 
+$ ftp internic.net
+Connected to internic.net
+220 Server ready
+Name: anonymous
+331 Guest login OK, send guest as password
+Password:guest
+ftp>pwd
+257 / is current directory
+ftp>ls
+200 OK
+150 Opening ASCII mode 
+
+
+bin
+...
+...
+... 
+
+
+ftp>
+221 Goodbye
+ftp>quit 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH27/EX27.3/example_27_3.sce #
+ 
+ 
+ 
+ --------------Example 27.3---------------   
+ 
+ 
+HTTP uses ASCII characters. A client can directly connect to a server using TELNET, which logs into port 80.
+The next three lines show that the connection is successful.
+The first shows the request line (GET method), the second is the header (defining the host), the third is a blank, terminating the request.
+The server response is seven lines starting with the status line.
+The blank line at the end terminates the server response. The file of 14,230 lines is received after the blank line.
+The last line is the output by the client.
+
+ 
+$ telnet www.mhhe.com 80
+Trying 198.45.24.104...
+Connected to www.mhhe.com (198.45.24.104).
+Escape character is ^]
+GET /engcs/compsci/forouzan HTTP/1.1
+From: forouzanbehrouz@fbda.edu
+
+ 
+HTTP/1.1 200 OK
+Date: Thu, 28 Oct 2004 16:27:46 GMT
+Server: Apache/l.3.9 (Unix) ApacheJServ/1.1.2 PHP/4.1.2 PHP/3.0.18
+MIME-version:1.0
+Content-Type: text/html
+Last-modified: Friday, 15-0ct-04 02:11:31 GMT
+Content-length: 14230
+
+Connection d by foreign host. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH28/EX28.1/example_28_1.sce #
+ 
+ 
+ 
+ --------------Example 28.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+       02          04          00         00        00        0E
+ 
+    | 00000010 | 00000100 |00000000 |  00000000 |  00000000 |  00001110|
+ 
+      Tag        Length                   Value(14)
+ 
+     (integer)  (4 bytes) 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH28/EX28.2/example_28_2.sce #
+ 
+ 
+ 
+ --------------Example 28.2---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+       04          02          48         49
+ 
+    | 00000100 | 00000010 | 01001000 |  01001001 |
+ 
+      Tag        Length       Value      Value
+ 
+     (string)   (2 bytes)      (H)         (I) 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH28/EX28.3/example_28_3.sce #
+ 
+ 
+ 
+ --------------Example 28.3---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+       06          04          01         03        06        01
+ 
+    | 00000110 | 00000100 |00000001 |  00000011 |  00000110 |  00000001|
+ 
+      Tag        Length      Value     Value     Value       Value
+ 
+     (ObjectId)  (4 bytes)    (1)      (3)       (6)          (1)
+ 
+                          |------1.3.6.1 (iso.org.dod.internet)--------| 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH28/EX28.4/example_28_4.sce #
+ 
+ 
+ 
+ --------------Example 28.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+        40          04         83         15         0E         08
+ 
+    | 01000000 | 00000100 |10000011 |  00010101 |  00001110 |  00001000|
+ 
+      Tag        Length      Value     Value     Value       Value
+ 
+    (IPAddress)  (4 bytes)   (131)      (21)      (14)         (8)
+ 
+                          |---------------131.21.14.8------------------| 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.10/example_30_10.sce #
+ 
+ 
+ 
+ --------------Example 30.10----------------   
+ 
+ 
+ 
+
+The steps are as follows:
+
+ 
+ 
+ 
+ 
+ 
+1) Alice chooses x = 3 and calculates R1 = 21.
+
+2) Bob chooses y = 6 and calculates R2 = 4.
+
+3) Alice sends the number 21 to Bob.
+
+4) Bob sends the number 4 to Alice.
+
+ 
+ 
+ 
+ 
+ 
+5) Alice calculates the symmetric key K =18.
+
+6) Bob calculates the symmetric key K = 18.
+
+ 
+ 
+ 
+The value of K is the same for both Alice and Bob. The symmetric key K = 18. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.1/example_30_1.sce #
+ 
+ 
+ 
+ --------------Example 30.1----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The cipher is probably monoalphabetic because both occurrences of Ls are encrypted as Os. 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.2/example_30_2.sce #
+ 
+ 
+ 
+ --------------Example 30.2----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The cipher is not monoalphabetic because each occurrence of L is encrypted by a different character. The first L is encrypted as N; the second as Z. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.3/example_30_3.sce #
+ 
+ 
+ 
+ --------------Example 30.3----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The cipher text is WTAAD. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.4/example_30_4.sce #
+ 
+ 
+ 
+ --------------Example 30.4----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The plain text is HELLO. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.5/example_30_5.sce #
+ 
+ 
+ 
+ --------------Example 30.5----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 3 blocks are HELL , OMYD and EARZ. 
+
+
+The ciphertext is ELHLMDOYAZER . 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.6/example_30_6.sce #
+ 
+ 
+ 
+ --------------Example 30.6----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The 3 blocks are HELL , OMYD and EARZ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The message is HELLO MY DEAR. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.7/example_30_7.sce #
+ 
+ 
+ 
+ --------------Example 30.7----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alice sends the plaintext 5 to Bob. She uses the public key 13 to encrypt 5.
+Bob receives the ciphertext 26 and uses the private key 37 to decipher the ciphertext. 
+ 
+ 
+ 
+
+
+The plaintext 5 sent by Alice is received as plaintext 5 by Bob. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.8/example_30_8.sce #
+ 
+ 
+ 
+ --------------Example 30.8----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The plaintext is 1314 and the ciphertext sent by Ted is 33677.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Jennifer deciphers the ciphertext 33677 as the plaintext 1314 and decodes it as the message NO. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH30/EX30.9/example_30_9.sce #
+ 
+ 
+ 
+ --------------Example 30.9----------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+p = 9613034531358350457419158128061542790930984559499621582258315087964794045505647063849125716018034750312098666606492420191808780667421096063354219926661209
+
+q = 12060191957231446918276794204450896001555925054637033936061798321731482148483764659215389453209175225273226830107120695604602513887145524969000359660045617
+
+n = 11593504I739676149688925098646158875237714573754541447754855261376147885408326350817276878815968325168468849300625485764111250162414552339182927162507656772727460097082714127730434960500556347274566628060099924037102991424472292215772798531727033839381334692684137327622000966676671831831088373420823444370953
+
+phi = 115935041739676149688925098646158875237714573754541447754855261376147885408326350817276878815968325168468849300625485764111250162414552339182927162507656751054233608492916752034482627988117554787657013923444405716989581728196098226361075467211864612171359107358640614008885170265377271264467341066243857664128
+
+e = 35535
+
+d = 580083028600377639360936612896779175946690620896509621804228661113805938528223587317062869100300217108590443384021707298690876006115306202524959884448047568240966247081485817130463240644077704833134010850947385295645071936774061197326557424237217617674620776371642076003370853332885321447088955136670294831
+
+ 
+The plaintext is 1907081826081826002619041819 and the ciphertext sent by Alice is
+C = 47530912364622682720636555061054518094237179607049171652323924305445296061319932856661784341835911415119741125200568297979457173603610127821884789274156609048002350719071527718591497518846588863210114835410336165789846796838676373376577746562507928052114814184404814184430812773059004692874248559166462108656
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bob recovers the plaintext 1907081826081826002619041819 and decodes it as the message THIS IS A TEST. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH31/EX31.1/example_31_1.sce #
+ 
+ 
+ 
+ --------------Example 31.1----------------   
+ 
+ 
+We cannot. A lossless compression method creates a compressed message that is reversible.
+The compressed message can be uncompressed to get the original one. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH31/EX31.2/example_31_2.sce #
+ 
+ 
+ 
+ --------------Example 31.2----------------   
+ 
+ 
+Yes. A checksum function is not reversible; it meets the first criterion. However, it does not meet the other criteria. 
+ 

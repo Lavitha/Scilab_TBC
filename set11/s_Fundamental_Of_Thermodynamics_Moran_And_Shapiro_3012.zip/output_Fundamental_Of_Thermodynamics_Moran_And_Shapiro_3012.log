@@ -1,0 +1,9649 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 126
+
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH2/EX2.1/Ex2_1.sce #
+ 
+ p1  =
+ 
+    300000.  
+ 
+ v1  =
+ 
+    0.1  
+ 
+ v2  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ 
+ constant1  =
+ 
+    9486.833  
+ 
+ constant2  =
+ 
+    30000.  
+ 
+ constant3  =
+ 
+    300000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ work1  =
+ 
+    17573.593  
+ 
+ w1  =
+ 
+    17.573593  
+ 
+The work done for n=1.5 in KJ is 17.57 
+ 
+ 
+ work2  =
+ 
+    20794.415  
+ 
+ w2  =
+ 
+    20.794415  
+ 
+The work done for n=1 in KJ is 20.79 
+ 
+ 
+ work3  =
+ 
+    30000.  
+ 
+ w3  =
+ 
+    30.  
+ 
+The work done for n=0 in KJ is 30.00 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH2/EX2.2/Ex2_2.sce #
+ 
+ p1  =
+ 
+    300000.  
+ 
+ v1  =
+ 
+    0.1  
+ 
+ v2  =
+ 
+    0.2  
+ 
+ m  =
+ 
+    4.  
+ 
+ deltau  =
+ 
+  - 4.6  
+ 
+ 
+ 
+ 
+ constant  =
+ 
+    9486.833  
+ 
+ 
+ 
+ 
+ work  =
+ 
+    17573.593  
+ 
+ w  =
+ 
+    17.573593  
+ 
+ 
+ deltaU  =
+ 
+  - 18.4  
+ 
+ Q  =
+ 
+  - 0.8264069  
+ 
+ 
+ 
+net heat transfer for the process in KJ -0.83 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ patm  =
+ 
+    100000.  
+ 
+ mp  =
+ 
+    45.  
+ 
+ A  =
+ 
+    0.09  
+ 
+ deltaV  =
+ 
+    0.045  
+ 
+ m  =
+ 
+    0.27  
+ 
+ deltau  =
+ 
+    42.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    104905.  
+ 
+ w  =
+ 
+    4.720725  
+ 
+ deltaU  =
+ 
+    11.34  
+ 
+ Q  =
+ 
+    16.060725  
+ 
+ 
+
+heat transfer from resistor to air in KJ for air alone as system is: 16.06 
+ 
+ 
+ 
+ 
+ 
+ wd  =
+ 
+    4.5  
+ 
+ deltaz  =
+ 
+    0.5  
+ 
+ deltaPE  =
+ 
+    0.220725  
+ 
+ Qt  =
+ 
+    16.060725  
+ 
+ 
+
+heat transfer from resistor to air in KJ for air + piston as system is: 16.06 
+ 
+ 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH2/EX2.4/Ex2_4.sce #
+ 
+ w1dot  =
+ 
+  - 60.  
+ 
+ h  =
+ 
+    0.171  
+ 
+ A  =
+ 
+    1.  
+ 
+ Tb  =
+ 
+    300.  
+ 
+ Tf  =
+ 
+    293.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat transfer rate in KW is:
+	Qdot =  -1.197000 
+The power delivered through output shaft in KW is: = 58.803000 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH2/EX2.5/Ex2_5.sce #
+ 
+ s  =
+ 
+    0.005  
+ 
+ wdot  =
+ 
+  - 0.225  
+ 
+ Tf  =
+ 
+    293.  
+ 
+ h  =
+ 
+    150.  
+ 
+ A  =
+ 
+    0.000025  
+ 
+ 
+ 
+ Tb  =
+ 
+    80.  
+ 
+ 
+ 
+The surface temperature of the chip in degree celcius is: 80.000000  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ p1  =
+ 
+    100000.  
+ 
+ x1  =
+ 
+    0.5  
+ 
+ 
+ T1  =
+ 
+    99.63  
+ 
+ v  =
+ 
+    0.5  
+ 
+ vf1  =
+ 
+    0.0010432  
+ 
+ vg1  =
+ 
+    1.694  
+ 
+ 
+ 
+ p2  =
+ 
+    150000.  
+ 
+ 
+ T2  =
+ 
+    111.4  
+ 
+ vf2  =
+ 
+    0.0010582  
+ 
+ vg2  =
+ 
+    1.159  
+ 
+ 
+ 
+ 
+ v1  =
+ 
+    0.8475216  
+ 
+ v2  =
+ 
+    0.8475216  
+ 
+ m  =
+ 
+    0.5899555  
+ 
+ mg1  =
+ 
+    0.2949777  
+ 
+ 
+ x2  =
+ 
+    0.7310069  
+ 
+ mg2  =
+ 
+    0.4312615  
+ 
+ 
+ 
+ p3  =
+ 
+    2.11  
+ 
+ 
+ 
+ The temperature in state 1 is 99.630000 degree celcius. 
+ The temperature in state 2 is 111.400000 degree celcius. 
+ The mass of vapour in state 1 is 0.29 kg. 
+ The mass of vapour in state 2 is 0.43 kg. 
+ The pressure corresponding to state 3 is 2.11 bar 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.2/Ex3_2.sce #
+ 
+ m  =
+ 
+    0.05  
+ 
+ p1  =
+ 
+    150000.  
+ 
+ v1  =
+ 
+    0.7787  
+ 
+ v2  =
+ 
+    0.9553  
+ 
+ T2  =
+ 
+    25.  
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    0.038935  
+ 
+ V2  =
+ 
+    0.047765  
+ 
+ w  =
+ 
+    1.3245  
+ 
+ 
+ 
+ The volume occupied by ammonia in state 1 is 0.04 m^3. 
+ The volume occupied by ammonia in state 2 is 0.05 m^3 
+ The work done for the process is 1.32 KJ 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.3/Ex3_3.sce #
+ 
+ V  =
+ 
+    0.25  
+ 
+ v  =
+ 
+    1.673  
+ 
+ 
+ 
+ T1  =
+ 
+    100.  
+ 
+ u1  =
+ 
+    2506.5  
+ 
+ 
+ 
+ p2  =
+ 
+    1.5  
+ 
+ T2  =
+ 
+    273.  
+ 
+ u2  =
+ 
+    2767.8  
+ 
+ 
+ 
+ m  =
+ 
+    0.1494322  
+ 
+ DeltaU  =
+ 
+    39.046623  
+ 
+ W  =
+ 
+  - 39.046623  
+ 
+ 
+ 
+ The temperature at the final state in is 273.00 degree celcius. 
+ The work during the process is -39.046623 KJ. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ P1  =
+ 
+    1000000.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ v1  =
+ 
+    0.3066  
+ 
+ u1  =
+ 
+    2957.3  
+ 
+ 
+ 
+ 
+ v2  =
+ 
+    0.1944  
+ 
+ w2to3  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ v3  =
+ 
+    0.1944  
+ 
+ vf3  =
+ 
+    0.0010905  
+ 
+ vg3  =
+ 
+    0.3928  
+ 
+ uf3  =
+ 
+    631.68  
+ 
+ ug3  =
+ 
+    2559.5  
+ 
+ 
+ 
+ w1to2  =
+ 
+  - 112.2  
+ 
+ W  =
+ 
+  - 112.2  
+ 
+ x3  =
+ 
+    0.4935022  
+ 
+ u3  =
+ 
+    1583.0634  
+ 
+ q  =
+ 
+  - 1486.4366  
+ 
+ 
+ 
+ The work done in the overall process is -112.200000 KJ/kg. 
+ The heat transfer in the overall process is -1486.436589 KJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ p1  =
+ 
+    20.  
+ 
+ T1  =
+ 
+    520.  
+ 
+ Z1  =
+ 
+    0.83  
+ 
+ R  =
+ 
+    8.314  
+ 
+ n  =
+ 
+    55.493896  
+ 
+ 
+ 
+ T2  =
+ 
+    400.  
+ 
+ 
+ 
+ Tc  =
+ 
+    647.3  
+ 
+ pc  =
+ 
+    22.09  
+ 
+ 
+ 
+ Tr  =
+ 
+    1.2250888  
+ 
+ Pr  =
+ 
+    0.9053871  
+ 
+ v1  =
+ 
+    0.0151837  
+ 
+ vr  =
+ 
+    1.1230818  
+ 
+ Tr2  =
+ 
+    1.0397034  
+ 
+ PR  =
+ 
+    0.69  
+ 
+ P2  =
+ 
+    15.2421  
+ 
+ 
+ 
+ The specific volume in state1 is 0.015184 m3/kg and the corresponding value obtained from table A-4 is .01551 m^3/Kg 
+ The pressure in MPa in the final state is 15.242100 MPa and the corresponding value from the table is 15.16Mpa 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ m  =
+ 
+    0.9  
+ 
+ T1  =
+ 
+    300.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ 
+ 
+ T2  =
+ 
+    470.  
+ 
+ P2  =
+ 
+    6.  
+ 
+ Q  =
+ 
+  - 20.  
+ 
+ 
+ 
+ u1  =
+ 
+    214.07  
+ 
+ u2  =
+ 
+    337.32  
+ 
+ 
+ 
+ deltaU  =
+ 
+    110.925  
+ 
+ W  =
+ 
+  - 130.925  
+ 
+ 
+ 
+ 
+ The work during the process is -130.925000 KJ. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ m1  =
+ 
+    2.  
+ 
+ T1  =
+ 
+    350.  
+ 
+ p1  =
+ 
+    0.7  
+ 
+ 
+ 
+ m2  =
+ 
+    8.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ p2  =
+ 
+    1.2  
+ 
+ Tf  =
+ 
+    315.  
+ 
+ 
+ 
+ Cv  =
+ 
+    0.745  
+ 
+ 
+ 
+ pf  =
+ 
+    1.05  
+ 
+ Ui  =
+ 
+    2309.5  
+ 
+ Uf  =
+ 
+    2346.75  
+ 
+ deltaU  =
+ 
+    37.25  
+ 
+ Q  =
+ 
+    37.25  
+ 
+ 
+ 
+ The final equilibrium pressure is 1.050000 bar. 
+ The heat transfer for the process is 37.250000 KJ. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH3/EX3.11/Ex3_11.sce #
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    295.  
+ 
+ p2  =
+ 
+    5.  
+ 
+ n  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    286.98654  
+ 
+ 
+ 
+ u2  =
+ 
+    306.53  
+ 
+ u1  =
+ 
+    210.49  
+ 
+ 
+ 
+ T2  =
+ 
+    427.68379  
+ 
+ w  =
+ 
+  - 126928.2  
+ 
+ Q  =
+ 
+  - 30.888201  
+ 
+ 
+ 
+ The work done per unit mass is -126.928201 KJ/kg. 
+ The heat transfer per unit mass is -30.888201 KJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ p1  =
+ 
+    7.  
+ 
+ T2  =
+ 
+    200.  
+ 
+ m1dot  =
+ 
+    40.  
+ 
+ 
+ 
+ p2  =
+ 
+    7.  
+ 
+ T2  =
+ 
+    40.  
+ 
+ A2  =
+ 
+    25.  
+ 
+ 
+ 
+ p3  =
+ 
+    7.  
+ 
+ AV3  =
+ 
+    0.06  
+ 
+ 
+ 
+ v3  =
+ 
+    0.001108  
+ 
+ 
+ 
+ v2  =
+ 
+    0.0010078  
+ 
+ 
+ 
+ m3dot  =
+ 
+    54.151625  
+ 
+ m2dot  =
+ 
+    14.151625  
+ 
+ V2  =
+ 
+    5.7048029  
+ 
+ 
+ 
+ The mass flow rate at the inlet 2 is 14.15 kg/s. 
+ The mass flow rate at the exit is 54.15 kg/s. 
+ The velocity at the inlet is 5.70 m/s. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.3/Ex4_3.sce #
+ 
+ p1  =
+ 
+    40.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ V1  =
+ 
+    10.  
+ 
+ 
+ 
+ p2  =
+ 
+    10.  
+ 
+ V2  =
+ 
+    665.  
+ 
+ mdot  =
+ 
+    2.  
+ 
+ 
+ 
+ h1  =
+ 
+    3213.6  
+ 
+ v2  =
+ 
+    0.1627  
+ 
+ 
+ 
+ h2  =
+ 
+    2992.5375  
+ 
+ A2  =
+ 
+    0.0004893  
+ 
+ 
+ 
+ The exit Area of the nozzle is 0.0005 m^2 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.4/Ex4_4.sce #
+ 
+ m1dot  =
+ 
+    4600.  
+ 
+ Wcvdot  =
+ 
+    1000.  
+ 
+ p1  =
+ 
+    60.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ V1  =
+ 
+    10.  
+ 
+ 
+ 
+ p2  =
+ 
+    0.1  
+ 
+ q2  =
+ 
+    0.9  
+ 
+ V2  =
+ 
+    50.  
+ 
+ 
+ 
+ h1  =
+ 
+    3177.2  
+ 
+ hf2  =
+ 
+    191.83  
+ 
+ hg2  =
+ 
+    2584.63  
+ 
+ 
+ 
+ h2  =
+ 
+    2345.35  
+ 
+ Qcvdot  =
+ 
+  - 61.386111  
+ 
+ 
+ 
+ The rate of heat transfer between the turbine and surroundings is -61.39 kW 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.5/Ex4_5.sce #
+ 
+ p1  =
+ 
+    1.  
+ 
+ t1  =
+ 
+    290.  
+ 
+ A1  =
+ 
+    0.1  
+ 
+ V1  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ p2  =
+ 
+    7.  
+ 
+ t2  =
+ 
+    450.  
+ 
+ V2  =
+ 
+    2.  
+ 
+ Qcvdot  =
+ 
+  - 180.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    290.16  
+ 
+ h2  =
+ 
+    451.8  
+ 
+ 
+ 
+ 
+ v1  =
+ 
+    0.8322610  
+ 
+ mdot  =
+ 
+    0.7209277  
+ 
+ Wcvdot  =
+ 
+  - 119.51922  
+ 
+ 
+ 
+ 
+ The power input to the compressor is -119.52 kw 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ t1  =
+ 
+    20.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ AV1  =
+ 
+    0.1  
+ 
+ D1  =
+ 
+    2.5  
+ 
+ 
+ 
+ t2  =
+ 
+    23.  
+ 
+ p2  =
+ 
+    1.  
+ 
+ V2  =
+ 
+    50.  
+ 
+ Z2  =
+ 
+    5.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.0010018  
+ 
+ c  =
+ 
+    4.18  
+ 
+ 
+ 
+ mdot  =
+ 
+    0.0998203  
+ 
+ V1  =
+ 
+    0.2038217  
+ 
+ deltah  =
+ 
+    12.54  
+ 
+ Wcvdot  =
+ 
+  - 1.5349015  
+ 
+ 
+ 
+ The power input to the motor is -1.53 kw 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ p1  =
+ 
+    0.1  
+ 
+ x1  =
+ 
+    0.95  
+ 
+ p2  =
+ 
+    0.1  
+ 
+ t2  =
+ 
+    45.  
+ 
+ t3  =
+ 
+    20.  
+ 
+ t4  =
+ 
+    35.  
+ 
+ 
+ 
+ hf  =
+ 
+    191.53  
+ 
+ hg  =
+ 
+    2584.7  
+ 
+ h2  =
+ 
+    188.45  
+ 
+ deltah4_3  =
+ 
+    62.7  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    2465.0415  
+ 
+ ratio  =
+ 
+    36.309274  
+ 
+ QRate  =
+ 
+  - 2276.5915  
+ 
+ 
+ 
+The rate of the mass flow rate of the cooling water to the mass flow rate of  the condenstaing stream is (m3dot/m1dot) 36.31  
+The rate of energy transfer from the condensing steam to the cooling water of the steam passing  through the condenser is -2276.59 kJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.8/Ex4_8.sce #
+ 
+ T1  =
+ 
+    293.  
+ 
+ P1  =
+ 
+    101325.  
+ 
+ V1max  =
+ 
+    1.3  
+ 
+ T2max  =
+ 
+    305.  
+ 
+ pec  =
+ 
+  - 80.  
+ 
+ Pf  =
+ 
+  - 18.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    0.02897  
+ 
+ Qcvdot  =
+ 
+    0.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ 
+ 
+ Wcvdot  =
+ 
+  - 98.  
+ 
+ mdotmin  =
+ 
+    0.0081260  
+ 
+ v1  =
+ 
+    0.8298747  
+ 
+ A1min  =
+ 
+    0.0051874  
+ 
+ D1min  =
+ 
+    0.0812698  
+ 
+ 
+ 
+ The smallest fan inlet diameter is 8.13 cm 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.9/Ex4_9.sce #
+ 
+ P1  =
+ 
+    20.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ T2  =
+ 
+    120.  
+ 
+ 
+ 
+ hf1  =
+ 
+    908.79  
+ 
+ hg1  =
+ 
+    2799.5  
+ 
+ 
+ 
+ h2  =
+ 
+    2766.6  
+ 
+ h1  =
+ 
+    2766.6  
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    0.9825991  
+ 
+ 
+ 
+ The quality of the steam in the supply line is 0.98 
+ 
+ 
+ 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.10/Ex4_10.sce #
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    478.  
+ 
+ m1dot  =
+ 
+    69.78  
+ 
+ T2  =
+ 
+    400.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ P3  =
+ 
+    0.275  
+ 
+ T3  =
+ 
+    38.9  
+ 
+ m3dot  =
+ 
+    2.079  
+ 
+ P5  =
+ 
+    0.07  
+ 
+ x5  =
+ 
+    0.93  
+ 
+ 
+ 
+ m2dot  =
+ 
+    69.78  
+ 
+ m5dot  =
+ 
+    2.079  
+ 
+ 
+ 
+ h1  =
+ 
+    480.3  
+ 
+ h2  =
+ 
+    400.98  
+ 
+ h3  =
+ 
+    162.9  
+ 
+ hf5  =
+ 
+    161.  
+ 
+ hg5  =
+ 
+    2571.72  
+ 
+ 
+ 
+ P4  =
+ 
+    0.275  
+ 
+ T4  =
+ 
+    180.  
+ 
+ 
+ 
+ h5  =
+ 
+    2402.9696  
+ 
+ Wcvdot  =
+ 
+    877.8449  
+ 
+ h4  =
+ 
+    2825.2134  
+ 
+ 
+ 
+ The power developed by the turbine is 877.84 kJ/s. 
+ Turbine inlet temperature is 180.00 degree celcius. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.11/Ex4_11.sce #
+ 
+ V  =
+ 
+    0.85  
+ 
+ T1  =
+ 
+    260.  
+ 
+ X1  =
+ 
+    0.7  
+ 
+ 
+ 
+ uf1  =
+ 
+    1128.4  
+ 
+ ug1  =
+ 
+    2599.  
+ 
+ 
+ vf1  =
+ 
+    0.0012755  
+ 
+ vg1  =
+ 
+    0.04221  
+ 
+ 
+ 
+ 
+ 
+ u2  =
+ 
+    2599.  
+ 
+ v2  =
+ 
+    0.04221  
+ 
+ he  =
+ 
+    2796.6  
+ 
+ 
+ 
+ u1  =
+ 
+    2157.82  
+ 
+ v1  =
+ 
+    0.0299296  
+ 
+ m1  =
+ 
+    28.399931  
+ 
+ m2  =
+ 
+    20.137408  
+ 
+ U2  =
+ 
+    52337.124  
+ 
+ U1  =
+ 
+    61281.939  
+ 
+ Qcv  =
+ 
+    14162.156  
+ 
+ 
+ 
+ The amount of heat transfer is 14162.16 KJ. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH4/EX4.12/Ex4_12.sce #
+ 
+ Pv  =
+ 
+    15.  
+ 
+ Tv  =
+ 
+    320.  
+ 
+ Vt  =
+ 
+    0.6  
+ 
+ Tt  =
+ 
+    400.  
+ 
+ 
+ 
+ m1  =
+ 
+    0.  
+ 
+ u1  =
+ 
+    0.  
+ 
+ 
+ 
+ v2  =
+ 
+    0.203  
+ 
+ m2  =
+ 
+    2.955665  
+ 
+ hi  =
+ 
+    3081.9  
+ 
+ u2  =
+ 
+    2951.3  
+ 
+ 
+ 
+ deltaUcv  =
+ 
+    8723.0542  
+ 
+ Wcv  =
+ 
+    386.00985  
+ 
+ 
+ 
+ The amount of work developed by the turbine is 386.01 kJ. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH5/EX5.1/Ex5_1.sce #
+ 
+ W  =
+ 
+    410.  
+ 
+ Q  =
+ 
+    1000.  
+ 
+ Tc  =
+ 
+    300.  
+ 
+ TH  =
+ 
+    500.  
+ 
+ 
+ 
+ eta  =
+ 
+    0.41  
+ 
+ etamax  =
+ 
+    0.4  
+ 
+ 
+ 
+ Eta = 0.4100 
+ Etamax  = 0.4000 
+ Since eta is more than etamax, the claim is not authentic 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH5/EX5.2/Ex5_2.sce #
+ 
+ Qcdot  =
+ 
+    8000.  
+ 
+ Wcycledot  =
+ 
+    3200.  
+ 
+ Tc  =
+ 
+    268.  
+ 
+ TH  =
+ 
+    295.  
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    2.5  
+ 
+ betamax  =
+ 
+    9.9259259  
+ 
+ 
+ 
+ Coefficient of performance is 2.500 
+ Coefficient of performance of a reversible cycle is  9.926 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH5/EX5.3/Ex5_3.sce #
+ 
+ Tc  =
+ 
+    283.  
+ 
+ TH  =
+ 
+    295.  
+ 
+ QH  =
+ 
+    500000.  
+ 
+ 
+ 
+ Wcyclemin  =
+ 
+    20338.983  
+ 
+ 
+ 
+ Minimum theoretical work input for one day of operation in kJ is: 20338.98 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.1/Ex6_1.sce #
+ 
+ T  =
+ 
+    373.15  
+ 
+ 
+ 
+ 
+ p  =
+ 
+    101400.  
+ 
+ vg  =
+ 
+    1.673  
+ 
+ vf  =
+ 
+    0.0010435  
+ 
+ sg  =
+ 
+    7.3549  
+ 
+ sf  =
+ 
+    1.3069  
+ 
+ 
+ 
+ w  =
+ 
+    169.53639  
+ 
+ Q  =
+ 
+    2256.8112  
+ 
+ 
+ 
+ The work per unit mass is 169.536 KJ/Kg 
+ The heat transfer per unit mass is 2256.81 kj/kg 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ ug  =
+ 
+    2506.5  
+ 
+ uf  =
+ 
+    418.94  
+ 
+ sg  =
+ 
+    7.3549  
+ 
+ sf  =
+ 
+    1.3069  
+ 
+ 
+ 
+ 
+ 
+ W  =
+ 
+  - 2087.56  
+ 
+ 
+ sigmabym  =
+ 
+    6.048  
+ 
+ 
+ 
+ The net work per unit mass is -2087.56 KJ/kg.  
+ The amount of entropy produced per unit mass is 6.05 KJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.3/Ex6_3.sce #
+ 
+ T1  =
+ 
+    273.  
+ 
+ P2  =
+ 
+    700000.  
+ 
+ 
+ 
+ u1  =
+ 
+    227.06  
+ 
+ 
+ 
+ 
+ u2s  =
+ 
+    244.32  
+ 
+ 
+ 
+ Wmin  =
+ 
+    17.26  
+ 
+ 
+ 
+ The minimum theoretical work input required per unit mass of refrigerant is: 17.26 kJ/kg 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.4/Ex6_4.sce #
+ 
+ Qdot  =
+ 
+  - 1.2  
+ 
+ Tb  =
+ 
+    300.  
+ 
+ Tf  =
+ 
+    293.  
+ 
+ 
+ 
+ 
+ 
+ sigmadot  =
+ 
+    0.004  
+ 
+ 
+ 
+ 
+ sigmadt  =
+ 
+    0.0040956  
+ 
+ 
+ 
+ The rate of entropy production with gearbox as system is 0.004000 kw/k 
+ The rate of entropy production with gearbox + sorrounding as system is 0.004096 kw/k 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.5/Ex6_5.sce #
+ 
+ Tmi  =
+ 
+    1200.  
+ 
+ cm  =
+ 
+    0.42  
+ 
+ mm  =
+ 
+    0.3  
+ 
+ Twi  =
+ 
+    300.  
+ 
+ cw  =
+ 
+    4.2  
+ 
+ mw  =
+ 
+    9.  
+ 
+ 
+ 
+ 
+ 
+ Tf  =
+ 
+    302.99003  
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    0.2014556  
+ 
+ 
+ 
+ The final equilibrium temperature of the metal bar and the water is 302.99 kelvin. 
+ The amount of entropy produced is: 0.20 kJ/k. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.6/Ex6_6.sce #
+ 
+ P1  =
+ 
+    30.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ V1  =
+ 
+    160.  
+ 
+ T2  =
+ 
+    100.  
+ 
+ V2  =
+ 
+    100.  
+ 
+ Wcvdot  =
+ 
+    540.  
+ 
+ Tb  =
+ 
+    350.  
+ 
+ 
+ 
+ h1  =
+ 
+    3230.9  
+ 
+ h2  =
+ 
+    2676.1  
+ 
+ 
+ 
+ 
+ 
+ Qcvdot  =
+ 
+  - 22.6  
+ 
+ 
+ 
+ s2  =
+ 
+    7.3549  
+ 
+ 
+ s1  =
+ 
+    6.9212  
+ 
+ 
+ 
+ sigmadot  =
+ 
+    0.4982714  
+ 
+ 
+ 
+The rate at which entropy is produced within the turbine per kg of steam  flowing is 0.50 kJ/kg.k 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.7/Ex6_7.sce #
+ 
+ T1  =
+ 
+    294.  
+ 
+ P1  =
+ 
+    5.1  
+ 
+ T2  =
+ 
+    352.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ T3  =
+ 
+    255.  
+ 
+ P3  =
+ 
+    1.  
+ 
+ cp  =
+ 
+    1.  
+ 
+ 
+ 
+ R  =
+ 
+    0.2869865  
+ 
+ se  =
+ 
+    0.4542009  
+ 
+ 
+ 
+ 
+ 
+ Specific entropy in kj/kg.k =  0.454 KJ/kg. 
+ Since se > 0, the claim of the writer is true 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.8/Ex6_8.sce #
+ 
+ P1  =
+ 
+    3.5  
+ 
+ T1  =
+ 
+    268.  
+ 
+ P2  =
+ 
+    14.  
+ 
+ T2  =
+ 
+    348.  
+ 
+ P3  =
+ 
+    14.  
+ 
+ T3  =
+ 
+    301.  
+ 
+ P4  =
+ 
+    3.5  
+ 
+ P5  =
+ 
+    1.  
+ 
+ T5  =
+ 
+    293.  
+ 
+ AV5  =
+ 
+    0.42  
+ 
+ P6  =
+ 
+    1.  
+ 
+ T6  =
+ 
+    323.  
+ 
+ 
+ 
+ 
+ 
+ s1  =
+ 
+    0.9572  
+ 
+ 
+ s2  =
+ 
+    0.98225  
+ 
+ h2  =
+ 
+    294.17  
+ 
+ 
+ s3  =
+ 
+    0.2936  
+ 
+ h3  =
+ 
+    79.05  
+ 
+ 
+ h4  =
+ 
+    79.05  
+ 
+ 
+ 
+ hf4  =
+ 
+    33.09  
+ 
+ hg4  =
+ 
+    246.  
+ 
+ sf4  =
+ 
+    0.1328  
+ 
+ sg4  =
+ 
+    0.9431  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ 
+ 
+ 
+ x4  =
+ 
+    0.2158659  
+ 
+ s4  =
+ 
+    0.3077161  
+ 
+ 
+ 
+ v5  =
+ 
+    0.8408706  
+ 
+ mairdot  =
+ 
+    0.4994823  
+ 
+ h6  =
+ 
+    324.615  
+ 
+ h5  =
+ 
+    294.465  
+ 
+ mrefdot  =
+ 
+    0.0700046  
+ 
+ deltaS65  =
+ 
+    0.0979671  
+ 
+ sigmacond  =
+ 
+    0.0007242  
+ 
+ 
+ 
+ sigmacomp  =
+ 
+    0.0017536  
+ 
+ 
+ 
+ sigmavalve  =
+ 
+    0.0009882  
+ 
+ 
+ 
+ The rates of entropy production for control volume enclosing the condenser  is 0.000724 kw/k 
+ The rates of entropy production for control volume enclosing the compressor  is 0.001754 kW/K. 
+ The rates of entropy production for control volume enclosing the expansion valve  is 0.000988 kW/K  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.9/Ex6_9.sce #
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T2  =
+ 
+    650.  
+ 
+ 
+ 
+ 
+ pr2  =
+ 
+    21.86  
+ 
+ pr1  =
+ 
+    1.386  
+ 
+ k  =
+ 
+    1.39  
+ 
+ 
+ 
+ p2  =
+ 
+    15.772006  
+ 
+ p2a  =
+ 
+    15.732491  
+ 
+ 
+ 
+ P2  =  15.772006 bar. 
+ Part(b) IT software problem 
+ P2a  = 15.732491 bar 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.10/Ex6_10.sce #
+ 
+ m1  =
+ 
+    5.  
+ 
+ P1  =
+ 
+    5.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ 
+ 
+ pr1  =
+ 
+    8.411  
+ 
+ 
+ 
+ 
+ 
+ T2  =
+ 
+    317.  
+ 
+ 
+ 
+ pr2  =
+ 
+    1.6822  
+ 
+ m2  =
+ 
+    1.5772871  
+ 
+ 
+ 
+The amount of mass remaining in the tank  is 1.577287 kg 
+and its temperature is 317.000000 kelvin. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.11/Ex6_11.sce #
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    593.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ eta  =
+ 
+    0.75  
+ 
+ 
+ 
+ h1  =
+ 
+    3105.6  
+ 
+ s1  =
+ 
+    7.5308  
+ 
+ 
+ h2s  =
+ 
+    2743.  
+ 
+ 
+ 
+ w  =
+ 
+    271.95  
+ 
+ 
+ 
+ The work developed per unit mass of steam flowing through is 271.950000 kJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.12/Ex6_12.sce #
+ 
+ P1  =
+ 
+    3.  
+ 
+ T1  =
+ 
+    390.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ Wcvdot  =
+ 
+    74.  
+ 
+ 
+ 
+ h1  =
+ 
+    390.88  
+ 
+ pr1  =
+ 
+    3.481  
+ 
+ 
+ 
+ h2s  =
+ 
+    285.27  
+ 
+ 
+ 
+ pr2  =
+ 
+    1.1603333  
+ 
+ Wcvdots  =
+ 
+    105.61  
+ 
+ eta  =
+ 
+    0.7006912  
+ 
+ 
+ 
+ The turbine efficiency is 0.7007  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.13/Ex6_13.sce #
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    593.  
+ 
+ V1  =
+ 
+    30.  
+ 
+ P2  =
+ 
+    0.3  
+ 
+ T2  =
+ 
+    453.  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    3093.9  
+ 
+ s1  =
+ 
+    7.1962  
+ 
+ h2  =
+ 
+    2823.9  
+ 
+ 
+ 
+ 
+ h2s  =
+ 
+    2813.3  
+ 
+ 
+ 
+ V2squareby2  =
+ 
+    270.45  
+ 
+ V2squareby2s  =
+ 
+    281.05  
+ 
+ eta  =
+ 
+    0.9622843  
+ 
+ 
+ 
+ The nozzle efficiency is 0.9623 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.14/Ex6_14.sce #
+ 
+ 
+ h1  =
+ 
+    249.75  
+ 
+ h2  =
+ 
+    294.17  
+ 
+ mdot  =
+ 
+    0.07  
+ 
+ 
+ 
+ s1  =
+ 
+    0.9572  
+ 
+ h2s  =
+ 
+    285.58  
+ 
+ 
+ 
+ wcvdot  =
+ 
+  - 3.1094  
+ 
+ eta  =
+ 
+    0.8066186  
+ 
+ 
+ 
+ The power in  is -3.109400 kw 
+ The isentropic efficiency is 0.807 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH6/EX6.15/Ex6_15.sce #
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    293.  
+ 
+ P2  =
+ 
+    5.  
+ 
+ n  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    0.2869865  
+ 
+ 
+ 
+ h1  =
+ 
+    293.17  
+ 
+ h2  =
+ 
+    426.35  
+ 
+ 
+ 
+ T2  =
+ 
+    424.78424  
+ 
+ wcvdot  =
+ 
+  - 163.88797  
+ 
+ Qcvdot  =
+ 
+  - 30.707973  
+ 
+ 
+ 
+ The work per unit mass passing through the device is -163.89 kJ/kg 
+ The heat transfer per unit mass is -30.71 kJ/kg.  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.1/Ex7_1.sce #
+ 
+ v  =
+ 
+    2450.  
+ 
+ P  =
+ 
+    7.  
+ 
+ T  =
+ 
+    867.  
+ 
+ T0  =
+ 
+    300.  
+ 
+ P0  =
+ 
+    1.013  
+ 
+ 
+ 
+ u  =
+ 
+    880.35  
+ 
+ u0  =
+ 
+    214.07  
+ 
+ s0T  =
+ 
+    3.11883  
+ 
+ s0T0  =
+ 
+    1.70203  
+ 
+ 
+ 
+ 
+ e  =
+ 
+    368.91241  
+ 
+ 
+ 
+ The specific exergy of the gas is 368.912 kJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.2/Ex7_2.sce #
+ 
+ mR  =
+ 
+    1.11  
+ 
+ T1  =
+ 
+  - 28.  
+ 
+ P2  =
+ 
+    1.4  
+ 
+ T0  =
+ 
+    293.  
+ 
+ P0  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ u1  =
+ 
+    211.29  
+ 
+ v1  =
+ 
+    0.2052  
+ 
+ s1  =
+ 
+    0.9411  
+ 
+ 
+ u0  =
+ 
+    246.67  
+ 
+ v0  =
+ 
+    0.23349  
+ 
+ s0  =
+ 
+    1.0829  
+ 
+ 
+ 
+ u2  =
+ 
+    300.16  
+ 
+ s2  =
+ 
+    1.2369  
+ 
+ v2  =
+ 
+    0.2052  
+ 
+ 
+ 
+ E1  =
+ 
+    3.705624  
+ 
+ E2  =
+ 
+    6.14829  
+ 
+ 
+ 
+ Part(a) The initial exergy is 3.71 kJ. 
+ The final exergy is 6.15 kJ. 
+ The change in exergy of the refrigerant is 2.44 kj 
+ 
+ 
+ 
+ 
+ deltaU  =
+ 
+    98.6457  
+ 
+ 
+ deltaPE  =
+ 
+  - 98.6457  
+ 
+ 
+ 
+ 
+ deltaE  =
+ 
+  - 98.6457  
+ 
+ 
+ 
+ Part(b)The change in exergy of the suspended mass is -98.646 kJ 
+ 
+ 
+ 
+ 
+ deltaEiso  =
+ 
+  - 96.203034  
+ 
+ 
+ 
+ Part(c)The change in exergy of an isolated system of the vessel and pulley–mass assembly is  -96.20 kJ 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.3/Ex7_3.sce #
+ 
+ T  =
+ 
+    373.15  
+ 
+ T0  =
+ 
+    293.15  
+ 
+ P0  =
+ 
+    1.014  
+ 
+ 
+ 
+ 
+ ug  =
+ 
+    2506.5  
+ 
+ uf  =
+ 
+    418.94  
+ 
+ vg  =
+ 
+    1.673  
+ 
+ vf  =
+ 
+    0.0010435  
+ 
+ sg  =
+ 
+    7.3549  
+ 
+ sf  =
+ 
+    1.3069  
+ 
+ 
+ 
+ 
+ 
+ etaw  =
+ 
+    0.  
+ 
+ 
+ Q  =
+ 
+    2257.  
+ 
+ etah  =
+ 
+    483.88048  
+ 
+ 
+ 
+ ed  =
+ 
+    0.  
+ 
+ deltae  =
+ 
+    484.12519  
+ 
+ 
+ 
+ Part(a)the change in exergy is 484.13 kJ/kg. 
+ The exergy transfer accompanying work is 0.00 kJ/kg. 
+ The exergy transfer accompanying heat is 483.88 kJ/kg 
+ The exergy destruction is 0.00 kJ/kg. 
+ 
+ 
+ 
+ Deltae  =
+ 
+    484.12519  
+ 
+ Etah  =
+ 
+    0.  
+ 
+ 
+ W  =
+ 
+  - 2087.56  
+ 
+ Etaw  =
+ 
+  - 2257.0964  
+ 
+ 
+ Ed  =
+ 
+    1772.9712  
+ 
+ 
+ 
+ Part(b)the change in exergy is 484.13 kJ/kg. 
+ The exergy transfer accompanying work is -2257.10 kJ/kg. 
+ The exergy transfer accompanying heat is 0.00 kJ/kg. 
+ The exergy destruction is 1772.97 kJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.4/Ex7_4.sce #
+ 
+ T0  =
+ 
+    293.  
+ 
+ Qdot  =
+ 
+  - 1.2  
+ 
+ Tb  =
+ 
+    300.  
+ 
+ sigmadot  =
+ 
+    0.004  
+ 
+ 
+ 
+ R  =
+ 
+    0.028  
+ 
+ Eddot  =
+ 
+    1.172  
+ 
+ 
+ 
+ Balance sheet 
+
+ Rate of exergy in high speed shaft 60Kw 
+
+ Disposition of the exergy: Rate of exergy out low-speed shaft 58.8 Kw 
+
+ Heat transfer is 0.028 kw. 
+
+ Rate of exergy destruction is 1.172 kw 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.5/Ex7_5.sce #
+ 
+ p1  =
+ 
+    3.  
+ 
+ p2  =
+ 
+    0.5  
+ 
+ T1  =
+ 
+    320.  
+ 
+ T0  =
+ 
+    25.  
+ 
+ p0  =
+ 
+    1.  
+ 
+ 
+ 
+ h1  =
+ 
+    3043.4  
+ 
+ s1  =
+ 
+    6.6245  
+ 
+ h2  =
+ 
+    3043.4  
+ 
+ s2  =
+ 
+    7.4223  
+ 
+ 
+ 
+ h0  =
+ 
+    104.89  
+ 
+ s0  =
+ 
+    0.3674  
+ 
+ 
+ 
+ ef1  =
+ 
+    1073.8942  
+ 
+ ef2  =
+ 
+    836.1498  
+ 
+ 
+ Ed  =
+ 
+    237.7444  
+ 
+ 
+ 
+ The specific flow exergy at the inlet is 1073.89 kJ/kg. 
+ The specific flow exergy at the exit is 836.15 kJ/kg. 
+ The exergy destruction per unit of mass flowing is 237.74 kJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.6/Ex7_6.sce #
+ 
+ T1  =
+ 
+    610.  
+ 
+ p1  =
+ 
+    10.  
+ 
+ T2  =
+ 
+    860.  
+ 
+ p2  =
+ 
+    9.7  
+ 
+ T3  =
+ 
+    1020.  
+ 
+ p3  =
+ 
+    1.1  
+ 
+ p4  =
+ 
+    1.  
+ 
+ mdot  =
+ 
+    90.  
+ 
+ T0  =
+ 
+    300.  
+ 
+ p0  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    617.53  
+ 
+ h2  =
+ 
+    888.27  
+ 
+ h3  =
+ 
+    1068.89  
+ 
+ 
+ 
+ h4  =
+ 
+    798.15  
+ 
+ 
+ 
+ T4  =
+ 
+    778.  
+ 
+ 
+ 
+ The exit temperature of the combustion gas   is 778.000000 kelvin. 
+ 
+ 
+ 
+ s2  =
+ 
+    2.79783  
+ 
+ s1  =
+ 
+    2.42644  
+ 
+ s4  =
+ 
+    2.68769  
+ 
+ s3  =
+ 
+    2.99034  
+ 
+ 
+ 
+ 
+ deltaR  =
+ 
+    14.103053  
+ 
+ deltRc  =
+ 
+  - 16.933574  
+ 
+ 
+ 
+ The net change in the flow exergy rate from inlet to exit of compressed gas   is 14.103 MW. 
+ The net change in the flow exergy rate from inlet to exit of hot combustion gas   is -16.934 MW. 
+ 
+ 
+ 
+ Eddot  =
+ 
+    2.8305213  
+ 
+ 
+ 
+ The rate exergy  destroyed,   is 2.831 MW. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.7/Ex7_7.sce #
+ 
+ p1  =
+ 
+    30.  
+ 
+ t1  =
+ 
+    400.  
+ 
+ v1  =
+ 
+    160.  
+ 
+ t2  =
+ 
+    100.  
+ 
+ v2  =
+ 
+    100.  
+ 
+ W  =
+ 
+    540.  
+ 
+ Tb  =
+ 
+    350.  
+ 
+ T0  =
+ 
+    25.  
+ 
+ p0  =
+ 
+    1.  
+ 
+ 
+ 
+ h1  =
+ 
+    3230.9  
+ 
+ s1  =
+ 
+    6.9212  
+ 
+ 
+ h2  =
+ 
+    2676.1  
+ 
+ s2  =
+ 
+    7.3549  
+ 
+ 
+ Q  =
+ 
+  - 22.6  
+ 
+ 
+ 
+ DELTAef  =
+ 
+    691.8426  
+ 
+ 
+ Eq  =
+ 
+  - 3.3577143  
+ 
+ Ed  =
+ 
+    148.48489  
+ 
+ 
+ 
+ 
+ Balance sheet 
+ Net rate of exergy 691.842600 kJ/kg, 
+ Disposition of the exergy: 
+* Rate of exergy out 
+ Work 540.000000 kJ/kg. 
+ Heat transfer 3.357714 
+• Rate of exergy destruction 148.484886 kJ/kg. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ m1dot  =
+ 
+    69.78  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    478.  
+ 
+ T2  =
+ 
+    400.  
+ 
+ p2  =
+ 
+    1.  
+ 
+ p3  =
+ 
+    0.275  
+ 
+ T3  =
+ 
+    38.9  
+ 
+ m3dot  =
+ 
+    2.08  
+ 
+ T4  =
+ 
+    180.  
+ 
+ p4  =
+ 
+    0.275  
+ 
+ p5  =
+ 
+    0.07  
+ 
+ x5  =
+ 
+    0.93  
+ 
+ Wcvdot  =
+ 
+    876.8  
+ 
+ T0  =
+ 
+    298.  
+ 
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    480.35  
+ 
+ h2  =
+ 
+    400.97  
+ 
+ s1  =
+ 
+    2.173  
+ 
+ s2  =
+ 
+    1.992  
+ 
+ 
+ 
+ h3  =
+ 
+    162.82  
+ 
+ s3  =
+ 
+    0.5598  
+ 
+ 
+ h5  =
+ 
+    2403.27  
+ 
+ s5  =
+ 
+    7.739  
+ 
+ 
+ 
+ 
+ h4  =
+ 
+    2825.  
+ 
+ s4  =
+ 
+    7.2196  
+ 
+ 
+ netRE  =
+ 
+    1775.3428  
+ 
+ netREout  =
+ 
+    210.18067  
+ 
+ 
+ Eddot  =
+ 
+    366.01879  
+ 
+ 
+ 
+ EdDot  =
+ 
+    322.3433  
+ 
+ 
+ 
+
+ balance sheet 
+
+- Net rate of exergy in: 1775.342760 kJ/kg. 
+
+ Disposition of the exergy: 
+
+• Rate of exergy out 
+
+ power developed 876.800000 kJ/kg. 
+
+ water stream  210.180672 
+
+• Rate of exergy destruction 
+
+ heat-recovery steam generator 366.018792 kJ/kg 
+
+ turbine 322.343296 
+ 
+ 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.9/Ex7_9.sce #
+ 
+ T0  =
+ 
+    273.  
+ 
+ pricerate  =
+ 
+    0.08  
+ 
+ 
+ 
+ sigmadotComp  =
+ 
+    0.00175  
+ 
+ sigmadotValve  =
+ 
+    0.000994  
+ 
+ sigmadotcond  =
+ 
+    0.000795  
+ 
+ 
+ 
+ 
+ EddotComp  =
+ 
+    0.47775  
+ 
+ EddotValve  =
+ 
+    0.271362  
+ 
+ Eddotcond  =
+ 
+    0.217035  
+ 
+ 
+ mCP  =
+ 
+    3.11  
+ 
+ 
+ 
+ Daily cost in dollars of exergy destruction due to compressor irreversibilities = 0.917 
+ Daily cost in dollars of exergy destruction due to irreversibilities in the throttling valve = 0.521 
+ Daily cost in dollars of exergy destruction due to irreversibilities in the condenser = 0.417  
+ Daily cost in dollars  of electricity to operate compressor = 5.971 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH7/EX7.10/Ex7_10.sce #
+ 
+ EfFdot  =
+ 
+    100.  
+ 
+ cF  =
+ 
+    1.44  
+ 
+ Zbdot  =
+ 
+    1080.  
+ 
+ Ef1dot  =
+ 
+    35.  
+ 
+ p1  =
+ 
+    50.  
+ 
+ T1  =
+ 
+    466.  
+ 
+ Ztdot  =
+ 
+    92.  
+ 
+ p2  =
+ 
+    5.  
+ 
+ T2  =
+ 
+    205.  
+ 
+ m2dot  =
+ 
+    26.15  
+ 
+ T0  =
+ 
+    298.  
+ 
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    3353.54  
+ 
+ h2  =
+ 
+    2865.96  
+ 
+ s1  =
+ 
+    6.8773  
+ 
+ s2  =
+ 
+    7.0806  
+ 
+ 
+ 
+ 
+ 
+ Wedot  =
+ 
+    12.750217  
+ 
+ Ef2dot  =
+ 
+    20.665527  
+ 
+ 
+ 
+ For the turbine,the power is 12.75 MW. 
+ For the turbine,the rate exergy exits with the steam is 20.67 MW. 
+ 
+ 
+ 
+ c1  =
+ 
+    7.2  
+ 
+ c2  =
+ 
+    7.2  
+ 
+ ce  =
+ 
+    8.8161798  
+ 
+ 
+ 
+The unit costs of the steam exiting the boiler of exergy is: 7.20 cents per kw.h. 
+The unit costs of the steam exiting the turbine of exergy is: 7.20 cents per kw.h. 
+Unit cost of power is: 8.816180 cents per kw.h. 
+ 
+ 
+ C2dot  =
+ 
+    1487.918  
+ 
+ Cedot  =
+ 
+    1124.082  
+ 
+ 
+ 
+ The cost rate of the steam exiting the turbine is: 1487.92 dollars per hour. 
+ The cost rate of the power is: 1124.08 dollars per hour. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.1/Ex8_1.sce #
+ 
+ p1  =
+ 
+    8.  
+ 
+ p3  =
+ 
+    0.008  
+ 
+ Wcycledot  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    2758.  
+ 
+ s1  =
+ 
+    5.7432  
+ 
+ s2  =
+ 
+    5.7432  
+ 
+ sf  =
+ 
+    0.5926  
+ 
+ sg  =
+ 
+    8.2287  
+ 
+ hf  =
+ 
+    173.88  
+ 
+ hfg  =
+ 
+    2403.1  
+ 
+ v3  =
+ 
+    0.0010084  
+ 
+ 
+ 
+ h3  =
+ 
+    173.88  
+ 
+ 
+ 
+ x2  =
+ 
+    0.6745066  
+ 
+ h2  =
+ 
+    1794.7869  
+ 
+ p4  =
+ 
+    8.  
+ 
+ h4  =
+ 
+    181.93913  
+ 
+ 
+ 
+ 
+ wtdot  =
+ 
+    963.21314  
+ 
+ wpdot  =
+ 
+    8.0591328  
+ 
+ 
+ 
+ qindot  =
+ 
+    2576.0609  
+ 
+ 
+ eta  =
+ 
+    0.3707808  
+ 
+ 
+ 
+ The thermal efficiency for the cycle is 0.37 
+ 
+ 
+ bwr  =
+ 
+    0.0083669  
+ 
+ 
+ 
+ The back work ratio is 0.008367 
+ 
+ 
+ mdot  =
+ 
+    376902.57  
+ 
+ 
+ 
+ The mass flow rate of the steam is 376902.57 kg/h . 
+ 
+ 
+ Qindot  =
+ 
+    269.7011  
+ 
+ 
+ 
+The rate of heat transfer,Qindot , into the working fluid as it passes through the boiler, is 269.70 MW. 
+ 
+ 
+ Qoutdot  =
+ 
+    169.7011  
+ 
+ 
+ 
+ The rate of heat transfer,Qoutdot from the condensing steam as it passes through the condenser, is 169.70 MW. 
+ 
+ 
+ 
+ hcwout  =
+ 
+    146.68  
+ 
+ hcwin  =
+ 
+    62.99  
+ 
+ mcwdot  =
+ 
+    7299844.2  
+ 
+ 
+ 
+ The mass flow rate of the condenser cooling water is 7299844.18 kg/ h. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.2/Ex8_2.sce #
+ 
+ etat  =
+ 
+    0.85  
+ 
+ 
+ 
+ h1  =
+ 
+    2758.  
+ 
+ s1  =
+ 
+    5.7432  
+ 
+ 
+ h1  =
+ 
+    2758.  
+ 
+ h2s  =
+ 
+    1794.8  
+ 
+ 
+ h3  =
+ 
+    173.88  
+ 
+ 
+ 
+ h2  =
+ 
+    1939.28  
+ 
+ wpdot  =
+ 
+    9.4823529  
+ 
+ 
+ h4  =
+ 
+    183.36235  
+ 
+ 
+ 
+ eta  =
+ 
+    0.3143113  
+ 
+ 
+ 
+ Thermal efficiency is:  0.314 
+ 
+ 
+ Wcycledot  =
+ 
+    100.  
+ 
+ 
+ mdot  =
+ 
+    444863.14  
+ 
+ 
+ The mass flow rate of steam, in kg/h, for a net power output of 100 MW is 444863.139 kg/h.   
+ 
+ 
+ Qindot  =
+ 
+    318.15594  
+ 
+ 
+ The rate of heat transfer Qindot into the working fluid as it passes through the boiler, is 318.156 MW. 
+ 
+ 
+ Qoutdot  =
+ 
+    218.15594  
+ 
+ 
+ The rate of heat transfer  Qoutdotfrom the condensing steam as it passes through the condenser, is   218.156 MW. 
+ 
+ 
+ 
+ hcwout  =
+ 
+    146.68  
+ 
+ hcwin  =
+ 
+    62.99  
+ 
+ mcwdot  =
+ 
+    9384172.4  
+ 
+ 
+ The mass flow rate of the condenser cooling water, is:  9384172.373 kg/h. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ T1  =
+ 
+    480.  
+ 
+ p1  =
+ 
+    8.  
+ 
+ p2  =
+ 
+    0.7  
+ 
+ T3  =
+ 
+    440.  
+ 
+ Pcond  =
+ 
+    0.008  
+ 
+ Wcycledot  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    3348.4  
+ 
+ s1  =
+ 
+    6.6586  
+ 
+ s2  =
+ 
+    6.6586  
+ 
+ 
+ sf  =
+ 
+    1.9922  
+ 
+ sg  =
+ 
+    6.708  
+ 
+ hf  =
+ 
+    697.22  
+ 
+ hfg  =
+ 
+    2066.3  
+ 
+ 
+ 
+ x2  =
+ 
+    0.9895246  
+ 
+ h2  =
+ 
+    2741.8746  
+ 
+ 
+ h3  =
+ 
+    3353.3  
+ 
+ s3  =
+ 
+    7.7571  
+ 
+ s4  =
+ 
+    7.7571  
+ 
+ 
+ sf  =
+ 
+    0.5926  
+ 
+ sg  =
+ 
+    8.2287  
+ 
+ hf  =
+ 
+    173.88  
+ 
+ hfg  =
+ 
+    2403.1  
+ 
+ 
+ 
+ x4  =
+ 
+    0.9382407  
+ 
+ h4  =
+ 
+    2428.5663  
+ 
+ 
+ 
+ h5  =
+ 
+    173.88  
+ 
+ 
+ h6  =
+ 
+    181.94  
+ 
+ 
+ 
+ eta  =
+ 
+    0.4031883  
+ 
+ 
+
+ The thermal efficiency of the cycle is: 0.40 
+ 
+ 
+ mdot  =
+ 
+    236344.68  
+ 
+
+ The mass flow rate of steam, is: 236344.68 kg/h. 
+ 
+ 
+ Qoutdot  =
+ 
+    148.02309  
+ 
+
+The rate of heat transfer Qoutdot from the condensing steam as it passes through the condenser, is 148.02 MW 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.5/Ex8_5.sce #
+ 
+ T1  =
+ 
+    480.  
+ 
+ p1  =
+ 
+    8.  
+ 
+ Pcond  =
+ 
+    0.008  
+ 
+ etat  =
+ 
+    0.85  
+ 
+ Wcycledot  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    3348.4  
+ 
+ h2  =
+ 
+    2832.8  
+ 
+ s2  =
+ 
+    6.8606  
+ 
+ h4  =
+ 
+    173.88  
+ 
+ 
+ h3s  =
+ 
+    2146.3  
+ 
+ 
+ 
+ 
+ h3  =
+ 
+    2249.275  
+ 
+ 
+ 
+ h6  =
+ 
+    697.22  
+ 
+ 
+ p5  =
+ 
+    0.7  
+ 
+ p4  =
+ 
+    0.008  
+ 
+ p7  =
+ 
+    8.  
+ 
+ p6  =
+ 
+    0.7  
+ 
+ v4  =
+ 
+    0.0010084  
+ 
+ v6  =
+ 
+    0.001108  
+ 
+ 
+ 
+ h5  =
+ 
+    174.57781  
+ 
+ h7  =
+ 
+    705.3084  
+ 
+ 
+ 
+ y  =
+ 
+    0.1966134  
+ 
+ 
+ 
+ wtdot  =
+ 
+    984.39615  
+ 
+ wpdot  =
+ 
+    8.6490134  
+ 
+ qindot  =
+ 
+    2643.0916  
+ 
+ eta  =
+ 
+    0.3691689  
+ 
+ 
+ 
+ The thermal efficiency is: 0.37 
+ 
+ 
+ m1dot  =
+ 
+    368948.05  
+ 
+ 
+ 
+ The mass flow rate of steam entering the first turbine stage, is: 368948.05 kg/h. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    3348.4  
+ 
+ s1  =
+ 
+    6.6586  
+ 
+ 
+ h2  =
+ 
+    2963.5  
+ 
+ 
+ h3  =
+ 
+    2741.8  
+ 
+ 
+ h4  =
+ 
+    3353.3  
+ 
+ s4  =
+ 
+    7.7571  
+ 
+ 
+ h5  =
+ 
+    3101.5  
+ 
+ 
+ x6  =
+ 
+    0.9382  
+ 
+ 
+ hf  =
+ 
+    173.88  
+ 
+ hfg  =
+ 
+    2403.1  
+ 
+ 
+ h6  =
+ 
+    2428.4684  
+ 
+ 
+ 
+ h7  =
+ 
+    173.88  
+ 
+ v7  =
+ 
+    0.0010084  
+ 
+ p8  =
+ 
+    0.3  
+ 
+ p7  =
+ 
+    0.008  
+ 
+ 
+ h8  =
+ 
+    174.17445  
+ 
+ 
+ h9  =
+ 
+    561.47  
+ 
+ 
+ 
+ v9  =
+ 
+    0.0010732  
+ 
+ p10  =
+ 
+    8.  
+ 
+ p9  =
+ 
+    0.3  
+ 
+ h10  =
+ 
+    569.73364  
+ 
+ 
+ h12  =
+ 
+    908.79  
+ 
+ h13  =
+ 
+    908.79  
+ 
+ 
+ hf  =
+ 
+    875.1  
+ 
+ vf  =
+ 
+    0.0011646  
+ 
+ p11  =
+ 
+    8.  
+ 
+ psat  =
+ 
+    1.73  
+ 
+ h11  =
+ 
+    882.40204  
+ 
+ 
+ ydash  =
+ 
+    0.1521715  
+ 
+ ydashdash  =
+ 
+    0.0941159  
+ 
+ 
+ 
+ wt1dot  =
+ 
+    572.86357  
+ 
+ wt2dot  =
+ 
+    720.75553  
+ 
+ wp1dot  =
+ 
+    0.2219328  
+ 
+ wp2dot  =
+ 
+    8.26364  
+ 
+ qindot  =
+ 
+    2984.4451  
+ 
+ 
+ eta  =
+ 
+    0.4306106  
+ 
+ 
+ 
+ The thermal efficiency is:  0.43 
+ 
+ 
+ Wcycledot  =
+ 
+    100.  
+ 
+ m1dot  =
+ 
+    280126.53  
+ 
+ 
+ 
+ The mass flow rate of the steam entering the first turbine, in kg/h is:  280126.53 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    2758.  
+ 
+ h4  =
+ 
+    183.36  
+ 
+ 
+ hi  =
+ 
+    1491.44  
+ 
+ he  =
+ 
+    843.98  
+ 
+ 
+ madotbymdot  =
+ 
+    3.9765236  
+ 
+ 
+ mdot  =
+ 
+    444900.  
+ 
+ madot  =
+ 
+    1769155.4  
+ 
+ 
+ 
+ T0  =
+ 
+    295.  
+ 
+ 
+ si  =
+ 
+    3.34474  
+ 
+ se  =
+ 
+    2.74504  
+ 
+ 
+ Rin  =
+ 
+    231.24261  
+ 
+ 
+ 
+The net rate at which exergy is carried into the heat exchanger unit by the gas stream, is : 231.24 MW  
+ 
+ 
+ 
+ s1  =
+ 
+    5.7432  
+ 
+ 
+ s4  =
+ 
+    0.5957  
+ 
+ 
+ Rout  =
+ 
+    130.51976  
+ 
+ 
+ The net rate at which exergy is carried from the heat exchanger by the water stream, is : 130.52 MW . 
+ 
+ 
+ Eddot  =
+ 
+    100.72286  
+ 
+ 
+ The rate of exergy destruction, in MW is : 100.72 
+ 
+ 
+ epsilon  =
+ 
+    0.5644278  
+ 
+ 
+ The exergetic efficiency is:  0.56 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ T0  =
+ 
+    295.  
+ 
+ P0  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ s1  =
+ 
+    5.7432  
+ 
+ s3  =
+ 
+    0.5926  
+ 
+ 
+ 
+ s2  =
+ 
+    6.2021  
+ 
+ s4  =
+ 
+    0.5957  
+ 
+ mdot  =
+ 
+    444900.  
+ 
+ 
+ 
+ Eddot  =
+ 
+    16.730156  
+ 
+ EddotP  =
+ 
+    0.1130170  
+ 
+ 
+ 
+ The rate of exergy destruction for the turbine is: 16.73 MW. 
+ 
+ The turbine rate of exergy destruction expressed as a percentage is:  7 
+ 
+ 
+ Percentage of the exergy entering the plant with the fuel destroyed within the turbine is : 4.99 
+ The exergy destruction rate for the pump in MW is : 0.11  
+and expressing this as a percentage of the exergy entering the plant as calculated above, we have 0.03 
+ The net power output of the vapor power plant of Example 8.2 is 100 MW. Expressing this as a percentage of the rate at which exergy is  
+carried into the plant with the fuel, 29.83 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ T0  =
+ 
+    295.  
+ 
+ 
+ 
+ mcwdot  =
+ 
+    9390000.  
+ 
+ 
+ 
+ 
+ he  =
+ 
+    146.68  
+ 
+ hi  =
+ 
+    62.99  
+ 
+ se  =
+ 
+    0.5053  
+ 
+ si  =
+ 
+    0.2245  
+ 
+ 
+ Rout  =
+ 
+    2.2275167  
+ 
+ 
+ The net rate at which exergy is carried from the condenser by the cooling water, is: 2.23 MW. 
+ Expressing this as a percentage of the exergy entering the plant with the fuel, we get 0.66 percent 
+ 
+ 
+ 
+ s3  =
+ 
+    0.5926  
+ 
+ s2  =
+ 
+    6.2021  
+ 
+ mdot  =
+ 
+    444900.  
+ 
+ 
+ Eddot  =
+ 
+    11.557891  
+ 
+ 
+ The rate of exergy destruction for the condenser is:  11.56 MW. 
+ Expressing this as a percentage of the exergy entering the plant with the fuel, we get, 3.45 percent 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.1/Ex9_1.sce #
+ 
+ T1  =
+ 
+    300.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ r  =
+ 
+    8.  
+ 
+ V1  =
+ 
+    560.  
+ 
+ T3  =
+ 
+    2000.  
+ 
+ 
+ 
+ 
+ u1  =
+ 
+    214.07  
+ 
+ vr1  =
+ 
+    621.2  
+ 
+ 
+ T2  =
+ 
+    673.  
+ 
+ u2  =
+ 
+    491.2  
+ 
+ 
+ u3  =
+ 
+    1678.7  
+ 
+ vr3  =
+ 
+    2.776  
+ 
+ 
+ T4  =
+ 
+    1043.  
+ 
+ u4  =
+ 
+    795.8  
+ 
+ 
+ 
+ 
+ vr2  =
+ 
+    77.65  
+ 
+ 
+ p2  =
+ 
+    17.946667  
+ 
+ 
+ p3  =
+ 
+    53.333333  
+ 
+ 
+ vr4  =
+ 
+    22.208  
+ 
+ 
+ p4  =
+ 
+    3.4766667  
+ 
+ 
+ 
+ At state1, the pressure is: 1.000000 bar. 
+ At state1, the temperature is 300.000000 kelvin. 
+ At state2, the pressure is : 17.947 bar. 
+ At state2, the temperature is 673.000000 kelvin. 
+ At state3, the pressure is : 53.333 bar. 
+ At state3, the temperature is 2000.000000 kelvin. 
+ At state4, the pressure is : 3.4767 bar. 
+ At state4, the temperature is 1043.000000 kelvin. 
+ 
+ 
+ eta  =
+ 
+    0.5101221  
+ 
+ 
+ The thermal efficiency is : 0.51  
+ 
+ 
+ R  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    28.97  
+ 
+ 
+ m  =
+ 
+    0.0006504  
+ 
+ Wcycle  =
+ 
+    0.3940152  
+ 
+ mep  =
+ 
+    8.0411271  
+ 
+ 
+ 
+ The mean effective pressure, is : 8.0411 atm. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ r  =
+ 
+    18.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ p1  =
+ 
+    0.1  
+ 
+ rc  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ u1  =
+ 
+    214.07  
+ 
+ vr1  =
+ 
+    621.2  
+ 
+ 
+ T2  =
+ 
+    898.3  
+ 
+ h2  =
+ 
+    930.98  
+ 
+ 
+ h3  =
+ 
+    1999.1  
+ 
+ vr3  =
+ 
+    3.97  
+ 
+ 
+ 
+ u4  =
+ 
+    664.3  
+ 
+ T4  =
+ 
+    887.7  
+ 
+ 
+ 
+ 
+ T3  =
+ 
+    1796.6  
+ 
+ 
+ p2  =
+ 
+    5.3898  
+ 
+ p3  =
+ 
+    5.3898  
+ 
+ 
+ vr2  =
+ 
+    34.511111  
+ 
+ 
+ vr4  =
+ 
+    35.73  
+ 
+ 
+ p4  =
+ 
+    0.2959  
+ 
+ 
+ 
+
+ At state1, the pressure is : 0.10 bar. 
+
+ At state1, the temperature is 300.00 kelvin. 
+
+ At state2, the pressure in bar is : 5.39 bar. 
+
+ At state2, the temperature is  898.30 kelvin. 
+
+ At state3, the pressure in bar is : 5.39 bar. 
+
+ At state3, the temperature is 1796.60 kelvin. 
+
+ At state4, the pressure is: 0.30 MPa. 
+
+ At state4, the temperature is 887.70 kelvin. 
+ 
+ 
+ eta  =
+ 
+    0.5784837  
+ 
+
+ The thermal efficiency is : 0.58  
+ 
+ 
+ R  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    28.97  
+ 
+ 
+ 
+ wcycle  =
+ 
+    617.89  
+ 
+ v1  =
+ 
+    0.8609596  
+ 
+ mep  =
+ 
+    0.7598922  
+ 
+ 
+ 
+
+ The mean effective pressure, is : 0.76 MPa. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.3/Ex9_3.sce #
+ 
+ T1  =
+ 
+    300.  
+ 
+ p1  =
+ 
+    0.1  
+ 
+ r  =
+ 
+    18.  
+ 
+ pr  =
+ 
+    1.5  
+ 
+ vr  =
+ 
+    1.2  
+ 
+ 
+ 
+ 
+ u1  =
+ 
+    214.07  
+ 
+ T2  =
+ 
+    898.3  
+ 
+ u2  =
+ 
+    673.2  
+ 
+ 
+ 
+ h3  =
+ 
+    1452.6  
+ 
+ u3  =
+ 
+    1065.8  
+ 
+ 
+ 
+ h4  =
+ 
+    1778.3  
+ 
+ vr4  =
+ 
+    5.609  
+ 
+ 
+ 
+ u5  =
+ 
+    475.96  
+ 
+ 
+ 
+ 
+ T3  =
+ 
+    1347.45  
+ 
+ 
+ T4  =
+ 
+    1616.94  
+ 
+ 
+ vr5  =
+ 
+    84.135  
+ 
+ 
+ 
+ eta  =
+ 
+    0.6354030  
+ 
+ 
+ The thermal efficiency is : 0.64 
+ 
+ 
+ 
+ v1  =
+ 
+    0.861  
+ 
+ mep  =
+ 
+    0.5612749  
+ 
+ 
+ 
+ The mean effective pressure, is : 0.56 MPa. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.4/Ex9_4.sce #
+ 
+ T1  =
+ 
+    300.  
+ 
+ AV  =
+ 
+    5.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ pr  =
+ 
+    10.  
+ 
+ T3  =
+ 
+    1400.  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    300.19  
+ 
+ pr1  =
+ 
+    1.386  
+ 
+ 
+ 
+ 
+ h2  =
+ 
+    579.9  
+ 
+ 
+ h3  =
+ 
+    1515.4  
+ 
+ pr3  =
+ 
+    450.5  
+ 
+ 
+ 
+ h4  =
+ 
+    808.5  
+ 
+ 
+ 
+ pr2  =
+ 
+    13.86  
+ 
+ pr4  =
+ 
+    45.05  
+ 
+ 
+ 
+ 
+ eta  =
+ 
+    0.4566435  
+ 
+ 
+ The thermal efficiency is : 0.4566  
+ 
+ 
+ bwr  =
+ 
+    0.3956854  
+ 
+ 
+ The back work ratio is : 0.3957 
+ 
+ 
+ R  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    28.97  
+ 
+ 
+ mdot  =
+ 
+    5.8074733  
+ 
+ Wcycledot  =
+ 
+    2480.8945  
+ 
+ 
+ The net power developed, is : 2480.89 kW . 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.6/Ex9_6.sce #
+ 
+ T1  =
+ 
+    300.  
+ 
+ AV  =
+ 
+    5.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ pr  =
+ 
+    10.  
+ 
+ T3  =
+ 
+    1400.  
+ 
+ Wt_ms  =
+ 
+    706.9  
+ 
+ Wc_m  =
+ 
+    279.7  
+ 
+ 
+ 
+ h1  =
+ 
+    300.19  
+ 
+ pr1  =
+ 
+    1.386  
+ 
+ 
+ 
+ 
+ h2  =
+ 
+    579.9  
+ 
+ 
+ h3  =
+ 
+    1515.4  
+ 
+ pr3  =
+ 
+    450.5  
+ 
+ 
+ 
+ h4  =
+ 
+    808.5  
+ 
+ 
+ 
+ Wtbym  =
+ 
+    565.52  
+ 
+ Wcbym  =
+ 
+    349.625  
+ 
+ h2  =
+ 
+    649.815  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Qinbym  =
+ 
+    865.585  
+ 
+ n  =
+ 
+    0.2494209  
+ 
+ 
+
+ The thermal efficiency is : 0.249  
+ 
+ 
+ 
+ bwr  =
+ 
+    0.6182363  
+ 
+ 
+
+ The back work ratio is : 0.618 
+ 
+ 
+ R  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    28.97  
+ 
+ 
+ 
+ Wcycledot  =
+ 
+  - 1253.7023  
+ 
+ 
+
+ The net power developed, is : 1254 kW . 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.8/Ex9_8.sce #
+ 
+ 
+ 
+ h1  =
+ 
+    300.19  
+ 
+ h2  =
+ 
+    579.9  
+ 
+ h3  =
+ 
+    1515.4  
+ 
+ 
+ hb  =
+ 
+    1515.4  
+ 
+ 
+ pa  =
+ 
+    300.  
+ 
+ p3  =
+ 
+    1000.  
+ 
+ 
+ pr3  =
+ 
+    450.5  
+ 
+ 
+ 
+ ha  =
+ 
+    1095.9  
+ 
+ p4  =
+ 
+    100.  
+ 
+ pb  =
+ 
+    300.  
+ 
+ 
+ h4  =
+ 
+    1127.6  
+ 
+ 
+ 
+ pra  =
+ 
+    135.15  
+ 
+ prb  =
+ 
+    135.15  
+ 
+ pr4  =
+ 
+    45.05  
+ 
+ 
+ hx  =
+ 
+    1127.6  
+ 
+ eta  =
+ 
+    0.6535241  
+ 
+ 
+ 
+ The thermal efficiency is : 0.65  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.9/Ex9_9.sce #
+ 
+ T1  =
+ 
+    300.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    1000.  
+ 
+ p3  =
+ 
+    1000.  
+ 
+ pc  =
+ 
+    300.  
+ 
+ pd  =
+ 
+    300.  
+ 
+ Td  =
+ 
+    300.  
+ 
+ 
+ 
+ 
+ 
+ prd  =
+ 
+    1.386  
+ 
+ 
+ T2  =
+ 
+    422.  
+ 
+ h2  =
+ 
+    423.8  
+ 
+ 
+ pr2  =
+ 
+    4.62  
+ 
+ 
+ The temperature at the exit of the second compressor stage  is : 422.00 kelvin. 
+ 
+ 
+ 
+ h1  =
+ 
+    300.19  
+ 
+ 
+ hd  =
+ 
+    300.19  
+ 
+ 
+ pr1  =
+ 
+    1.386  
+ 
+ 
+ hc  =
+ 
+    411.3  
+ 
+ 
+ prc  =
+ 
+    4.158  
+ 
+ wcdot  =
+ 
+    234.72  
+ 
+ 
+ The total compressor work input per unit of mass flow is : 234.72 kJ/kg 
+ 
+ 
+ 
+ T3  =
+ 
+    574.  
+ 
+ h3  =
+ 
+    579.9  
+ 
+ 
+ pr3  =
+ 
+    13.86  
+ 
+ wcdot  =
+ 
+    279.71  
+ 
+ 
+ For a single stage of compression, the temperature at the exit state is : 574.00 kelvin 
+ For a single stage of compression, the work input is : 279.71 kJ. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.11/Ex9_11.sce #
+ 
+ T1  =
+ 
+    300.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ mdot  =
+ 
+    5.807  
+ 
+ p2  =
+ 
+    300.  
+ 
+ p3  =
+ 
+    300.  
+ 
+ p4  =
+ 
+    1000.  
+ 
+ p5  =
+ 
+    1000.  
+ 
+ p6  =
+ 
+    1000.  
+ 
+ T6  =
+ 
+    1400.  
+ 
+ T8  =
+ 
+    1400.  
+ 
+ p7  =
+ 
+    300.  
+ 
+ p8  =
+ 
+    300.  
+ 
+ etac  =
+ 
+    0.8  
+ 
+ etat  =
+ 
+    0.8  
+ 
+ etareg  =
+ 
+    0.8  
+ 
+ 
+ 
+ h1  =
+ 
+    300.19  
+ 
+ h3  =
+ 
+    300.19  
+ 
+ h2s  =
+ 
+    411.3  
+ 
+ h4s  =
+ 
+    423.8  
+ 
+ 
+ h6  =
+ 
+    1515.4  
+ 
+ h8  =
+ 
+    1515.4  
+ 
+ h7s  =
+ 
+    1095.9  
+ 
+ h9s  =
+ 
+    1127.6  
+ 
+ 
+ 
+ h4  =
+ 
+    454.7025  
+ 
+ h2  =
+ 
+    439.0775  
+ 
+ h9  =
+ 
+    1205.16  
+ 
+ h7  =
+ 
+    1179.8  
+ 
+ h5  =
+ 
+    1055.0685  
+ 
+ 
+ 
+ 
+ wtdot  =
+ 
+    645.84  
+ 
+ wcdot  =
+ 
+    293.4  
+ 
+ qindot  =
+ 
+    795.9315  
+ 
+ eta  =
+ 
+    0.4428019  
+ 
+ 
+ The thermal efficiency is:  0.44 
+ 
+ 
+ bwr  =
+ 
+    0.4542921  
+ 
+ 
+ The back work ratio is: 0.45 
+ 
+ 
+ Wcycledot  =
+ 
+    2046.6191  
+ 
+ 
+ The net power developed, is: 2046.62 kW. 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.12/Ex9_12.sce #
+ 
+ Ta  =
+ 
+    240.  
+ 
+ pa  =
+ 
+    0.8  
+ 
+ Va  =
+ 
+    278.  
+ 
+ PR  =
+ 
+    8.  
+ 
+ T3  =
+ 
+    1200.  
+ 
+ p5  =
+ 
+    0.8  
+ 
+ 
+ 
+ ha  =
+ 
+    240.02  
+ 
+ h1  =
+ 
+    278.662  
+ 
+ 
+ pr1  =
+ 
+    1.07  
+ 
+ pra  =
+ 
+    0.6355  
+ 
+ 
+ 
+ h2  =
+ 
+    505.5  
+ 
+ 
+ h3  =
+ 
+    1277.79  
+ 
+ 
+ 
+ 
+ pr4  =
+ 
+    116.8  
+ 
+ 
+ pr4  =
+ 
+    116.  
+ 
+ pr3  =
+ 
+    238.  
+ 
+ 
+ h5  =
+ 
+    621.3  
+ 
+ 
+ 
+ p5  =
+ 
+    0.8  
+ 
+ 
+ 
+ p1  =
+ 
+    1.3469709  
+ 
+ 
+ h4  =
+ 
+    1050.952  
+ 
+ p2  =
+ 
+    10.775767  
+ 
+ 
+ p3  =
+ 
+    10.775767  
+ 
+ p4  =
+ 
+    5.2520546  
+ 
+ pr5  =
+ 
+    17.669276  
+ 
+ V5  =
+ 
+    926.98652  
+ 
+ 
+ 
+ The velocity at the nozzle exit in m/s is: 926.99 
+ pa in bars =  0.80 
+ p1 in bars =  1.35 
+ p2 in bars =  10.78 
+ p3 in bars =  10.78 
+ p4 in bars =  5.25 
+ p5 in bars =  0.80 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.13/Ex9_13.sce #
+ 
+ Wnetdot  =
+ 
+    45.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ etac  =
+ 
+    0.84  
+ 
+ T3  =
+ 
+    1400.  
+ 
+ p2  =
+ 
+    1200.  
+ 
+ p3  =
+ 
+    1200.  
+ 
+ etat  =
+ 
+    0.88  
+ 
+ T5  =
+ 
+    400.  
+ 
+ p4  =
+ 
+    100.  
+ 
+ p5  =
+ 
+    100.  
+ 
+ T7  =
+ 
+    400.  
+ 
+ p7  =
+ 
+    8.  
+ 
+ etatw  =
+ 
+    0.9  
+ 
+ p8  =
+ 
+    8.  
+ 
+ p9  =
+ 
+    8.  
+ 
+ etap  =
+ 
+    0.8  
+ 
+ T0  =
+ 
+    300.  
+ 
+ p0  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    300.19  
+ 
+ h2  =
+ 
+    669.79  
+ 
+ h3  =
+ 
+    1515.42  
+ 
+ h4  =
+ 
+    858.02  
+ 
+ h5  =
+ 
+    400.98  
+ 
+ h6  =
+ 
+    183.96  
+ 
+ h7  =
+ 
+    3138.3  
+ 
+ h8  =
+ 
+    2104.74  
+ 
+ h9  =
+ 
+    173.88  
+ 
+ s1  =
+ 
+    1.702  
+ 
+ s2  =
+ 
+    2.5088  
+ 
+ s3  =
+ 
+    3.362  
+ 
+ s4  =
+ 
+    2.762  
+ 
+ s5  =
+ 
+    1.9919  
+ 
+ s6  =
+ 
+    0.5975  
+ 
+ s7  =
+ 
+    6.3634  
+ 
+ s8  =
+ 
+    6.7282  
+ 
+ s9  =
+ 
+    0.5926  
+ 
+ 
+ 
+ 
+ 
+ mvdotbymgdot  =
+ 
+    0.1547012  
+ 
+ mgdot  =
+ 
+    100.86665  
+ 
+ mvdot  =
+ 
+    15.604193  
+ 
+ Wgasdot  =
+ 
+    29.029421  
+ 
+ Wvapdot  =
+ 
+    15.970579  
+ 
+ 
+ 
+ Mass flow rate of air is: 100.87 kg/s. 
+ Mass flow rate of vapor is: 15.60 kg/s. 
+ Net power developed by gas turbine is:  29.03 MW. 
+ Net power developed by vapor cycle is:  15.97 MW. 
+ 
+ 
+ 
+ 
+ 
+ Edotf32  =
+ 
+    59.478035  
+ 
+ 
+ Edotf51  =
+ 
+    1.393977  
+ 
+ 
+ Edotf89  =
+ 
+    1.4071861  
+ 
+ R  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    28.97  
+ 
+ 
+ Eddott  =
+ 
+    3.423457  
+ 
+ 
+ Eddotc  =
+ 
+    2.8343097  
+ 
+ 
+ Eddotst  =
+ 
+    1.7077229  
+ 
+ 
+ Eddotp  =
+ 
+    0.0229382  
+ 
+ 
+ EddotHE  =
+ 
+    3.6884439  
+ 
+ 
+ 
+ Balance sheet 
+Net exergy increase of the gas passing 
+ Through the combustor: 59.48 MW 
+Disposition of the exergy: 
+• Net power developed 
+gas turbine cycle 29.03 MW 
+vapor cycle 15.97 MW 
+• Net exergy lost 
+with exhaust gas at state 5 1.39 MW 
+from water passing through condenser 1.41 MW 
+• Exergy destruction 
+air turbine 3.42 MW 
+compressor 2.83 MW 
+steam turbine 1.71 MW 
+pump 0.02 MW 
+heat exchanger 3.69 MW 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.14/Ex9_14.sce #
+ 
+ 
+ Tnot  =
+ 
+    360.  
+ 
+ pnot  =
+ 
+    1.  
+ 
+ A2  =
+ 
+    0.001  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ pstarbypnot  =
+ 
+    0.5282818  
+ 
+ pstar  =
+ 
+    0.5282818  
+ 
+ 
+ 
+ 
+ 
+ M  =
+ 
+    1.  
+ 
+ p2  =
+ 
+    0.5282818  
+ 
+ T2  =
+ 
+    300.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ Mwt  =
+ 
+    28.97  
+ 
+ V2  =
+ 
+    347.18057  
+ 
+ mdot  =
+ 
+    2.1302877  
+ 
+ 
+ 
+ The exit mach number for back pressure of 500kpa is: 1.00 
+ The mass flow rate in kg/s for back pressure of 500kpa is: 2.13 
+ 
+ 
+ 
+ p2  =
+ 
+    784.  
+ 
+ 
+ M2  =
+ 
+    0.6000064  
+ 
+ T2  =
+ 
+    335.82041  
+ 
+ V2  =
+ 
+    220.39627  
+ 
+ mdot2  =
+ 
+    1.7928819  
+ 
+ 
+ The mass flow rate at the exit for back pressure of 784kpa is: 1.79 kg/s. 
+ The exit mach number for back pressure of 784 kpa is: 0.60 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH9/EX9.15/Ex9_15.sce #
+ 
+ 
+ Mt  =
+ 
+    0.7  
+ 
+ At  =
+ 
+    6.25  
+ 
+ Ae  =
+ 
+    15.  
+ 
+ 
+ 
+ M2  =
+ 
+    0.24  
+ 
+ 
+ T2byTnot  =
+ 
+    0.988  
+ 
+ p2bypnot  =
+ 
+    0.959  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T0  =
+ 
+    280.  
+ 
+ pnot  =
+ 
+    6.8  
+ 
+ 
+ 
+ AtbyAstar  =
+ 
+    1.09437  
+ 
+ A2byAstar  =
+ 
+    2.626488  
+ 
+ T2  =
+ 
+    276.64  
+ 
+ p2  =
+ 
+    6.5212  
+ 
+ V2  =
+ 
+    80.013545  
+ 
+ mdot  =
+ 
+    0.9858385  
+ 
+ 
+ Part(a)  the mass flow rate in kg/s is:  0.99 
+ The exit pressure in bars is:  6.52 
+ The exit mach number is:  0.24 
+ 
+ 
+ Mt  =
+ 
+    1.  
+ 
+ 
+ M2  =
+ 
+    0.26  
+ 
+ T2byTnot  =
+ 
+    0.986  
+ 
+ p2bypnot  =
+ 
+    0.953  
+ 
+ 
+ T0  =
+ 
+    280.  
+ 
+ pnot  =
+ 
+    6.8  
+ 
+ 
+ T2  =
+ 
+    276.08  
+ 
+ p2  =
+ 
+    6.4804  
+ 
+ k  =
+ 
+    1.4  
+ 
+ V2  =
+ 
+    86.593561  
+ 
+ mdot  =
+ 
+    1.0623857  
+ 
+ 
+ Part(b)  the mass flow rate  is:  1 kg/s. 
+ The exit pressure is: 6.480400 bars.  
+ The exit mach number is:  0.260000 
+ 
+ 
+ 
+ M2  =
+ 
+    2.4  
+ 
+ 
+ p2bypnot  =
+ 
+    0.0684  
+ 
+ pnot  =
+ 
+    6.8  
+ 
+ 
+ p2  =
+ 
+    0.46512  
+ 
+ 
+ 
+ Part(c)  the mass flow rate is:  1.062386 kg/s. 
+ The exit pressure is:  0.465120 bars. 
+ The exit mach number is:  2.400000 
+ 
+ 
+ 
+ Mx  =
+ 
+    2.4  
+ 
+ px  =
+ 
+    0.465  
+ 
+ 
+ My  =
+ 
+    0.52  
+ 
+ 
+ pybypx  =
+ 
+    6.5533  
+ 
+ py  =
+ 
+    3.0472845  
+ 
+ 
+ 
+ 
+ 
+ Part(d)  the mass flow rate is:  1.062386 kg/s. 
+ The exit pressure is:  3.047 bars. 
+ The exit mach number is:  0.520000 
+ 
+ 
+ 
+ Ax  =
+ 
+    12.5  
+ 
+ 
+ Axstar  =
+ 
+    6.25  
+ 
+ At  =
+ 
+    6.25  
+ 
+ 
+ Mx  =
+ 
+    2.2  
+ 
+ 
+ 
+ 
+ pnotybypnotx  =
+ 
+    0.62812  
+ 
+ 
+ 
+ M2  =
+ 
+    0.43  
+ 
+ 
+ p2bypnoty  =
+ 
+    0.88  
+ 
+ 
+ A2byAystar  =
+ 
+    1.507488  
+ 
+ p2  =
+ 
+    3.7586701  
+ 
+ 
+ 
+ 
+ part(e)  the mass flow rate is: 1.062386 kg/s. 
+ the exit pressure is:  3.758670 bars 
+ the exit mach number is:  0.430000 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH10/EX10.1/Ex10_1.sce #
+ 
+ Tc  =
+ 
+    273.  
+ 
+ Th  =
+ 
+    299.  
+ 
+ mdot  =
+ 
+    0.08  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    247.23  
+ 
+ s1  =
+ 
+    0.919  
+ 
+ 
+ 
+ p2  =
+ 
+    6.853  
+ 
+ 
+ h2s  =
+ 
+    264.7  
+ 
+ 
+ h3  =
+ 
+    85.75  
+ 
+ h4  =
+ 
+    85.75  
+ 
+ 
+ 
+ Wcdot  =
+ 
+    1.3976  
+ 
+ The compressor power, in kW, is:  1.40 
+ 
+ 
+ Qindot  =
+ 
+    3.6734787  
+ 
+ The refrigeration capacity in tons is:  3.67 
+ 
+ 
+ beta1  =
+ 
+    9.2432742  
+ 
+ The coefficient of performance is:  9.24 
+ 
+ 
+ betamax  =
+ 
+    10.5  
+ 
+ The coefficient of performance of a Carnot refrigeration cycle operating between warm and cold regions at 26 and 0C, respectively is:  10.50 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH10/EX10.2/Ex10_2.sce #
+ 
+ mdot  =
+ 
+    0.08  
+ 
+ 
+ 
+ h1  =
+ 
+    241.35  
+ 
+ s1  =
+ 
+    0.9253  
+ 
+ 
+ h2s  =
+ 
+    272.39  
+ 
+ 
+ h3  =
+ 
+    99.56  
+ 
+ h4  =
+ 
+    99.56  
+ 
+ 
+ 
+ Wcdot  =
+ 
+    2.4832  
+ 
+ 
+ 
+The compressor power in kw is:  2.48 
+ 
+ 
+ Qindot  =
+ 
+    3.2255545  
+ 
+ 
+ 
+The refrigeration capacity in tons is:  3.23 
+ 
+ 
+ beta1  =
+ 
+    4.5679768  
+ 
+ 
+ 
+The coefficient of performance is:  4.57 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH10/EX10.3/Ex10_3.sce #
+ 
+ Tnot  =
+ 
+    299.  
+ 
+ etac  =
+ 
+    0.8  
+ 
+ mdot  =
+ 
+    0.08  
+ 
+ 
+ 
+ h1  =
+ 
+    241.35  
+ 
+ s1  =
+ 
+    0.9253  
+ 
+ 
+ h2s  =
+ 
+    272.39  
+ 
+ h2  =
+ 
+    280.15  
+ 
+ 
+ s2  =
+ 
+    0.9497  
+ 
+ h3  =
+ 
+    91.49  
+ 
+ s3  =
+ 
+    0.3396  
+ 
+ h4  =
+ 
+    91.49  
+ 
+ 
+ hf4  =
+ 
+    36.97  
+ 
+ hg4  =
+ 
+    241.36  
+ 
+ sf4  =
+ 
+    0.1486  
+ 
+ sg4  =
+ 
+    0.9253  
+ 
+ x4  =
+ 
+    0.2667449  
+ 
+ s4  =
+ 
+    0.3557808  
+ 
+ 
+ 
+ Wcdot  =
+ 
+    3.104  
+ 
+The compressor power in kw is: 3.10 kW 
+ 
+ 
+ Qindot  =
+ 
+    3.4091374  
+ 
+The refrigeration capacity in ton is: 3.41 ton 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    3.8623711  
+ 
+The coefficient of performance is: 3.86 
+ 
+ 
+ Eddotc  =
+ 
+    0.583648  
+ 
+ Eddotv  =
+ 
+    0.3870448  
+ 
+The rate of exergy destruction within the compressor is: 0.58 kW 
+The rate of exergy destruction within the valve is: 0.39 kw 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH10/EX10.4/Ex10_4.sce #
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    270.  
+ 
+ AV  =
+ 
+    1.4  
+ 
+ r  =
+ 
+    3.  
+ 
+ T3  =
+ 
+    300.  
+ 
+ 
+ 
+ 
+ h1  =
+ 
+    270.11  
+ 
+ pr1  =
+ 
+    0.959  
+ 
+ 
+ h2s  =
+ 
+    370.1  
+ 
+ 
+ h3  =
+ 
+    300.19  
+ 
+ pr3  =
+ 
+    1.386  
+ 
+ 
+ h4s  =
+ 
+    219.  
+ 
+ 
+ pr2  =
+ 
+    2.877  
+ 
+ pr4  =
+ 
+    0.462  
+ 
+ 
+ 
+ R  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    28.97  
+ 
+ 
+ 
+ mdot  =
+ 
+    1.8067695  
+ 
+ Wcycledot  =
+ 
+    33.967266  
+ 
+ The net power input in kw is:  33.97 
+ 
+ 
+ Qindot  =
+ 
+    92.343988  
+ 
+ The refregeration capacity in kw is:  92.34 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    2.718617  
+ 
+The coefficient of performance is:  2.72 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ wcdots  =
+ 
+    99.99  
+ 
+ mdot  =
+ 
+    1.807  
+ 
+ etac  =
+ 
+    0.8  
+ 
+ Wcdot  =
+ 
+    225.85241  
+ 
+ 
+ 
+ wtdots  =
+ 
+    81.19  
+ 
+ etat  =
+ 
+    0.8  
+ 
+ 
+ Wtdot  =
+ 
+    117.36826  
+ 
+ Wdotcycle  =
+ 
+    108.48415  
+ 
+ 
+ The net power input in kw is:  108.48 
+ 
+ 
+ h3  =
+ 
+    300.19  
+ 
+ 
+ h1  =
+ 
+    270.11  
+ 
+ 
+ h4  =
+ 
+    235.238  
+ 
+ Qindot  =
+ 
+    63.013704  
+ 
+ 
+ The refrigeration capacity in kw is:  63.01 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.5808563  
+ 
+ 
+ The coefficient of performance is:  0.58 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH11/EX11.1/Ex11_1.sce #
+ 
+ m  =
+ 
+    4.  
+ 
+ T  =
+ 
+    223.  
+ 
+ D  =
+ 
+    0.2  
+ 
+ L  =
+ 
+    1.  
+ 
+ pi  =
+ 
+    3.14  
+ 
+ 
+ M  =
+ 
+    28.  
+ 
+ 
+ 
+ V  =
+ 
+    0.0314  
+ 
+ vbar  =
+ 
+    0.2198  
+ 
+ 
+ 
+ 
+ Tc  =
+ 
+    133.  
+ 
+ Pc  =
+ 
+    35.  
+ 
+ Tr  =
+ 
+    1.6766917  
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ Z  =
+ 
+    0.9  
+ 
+ 
+ vrdash  =
+ 
+    0.6957193  
+ 
+ p  =
+ 
+    75.915369  
+ 
+ 
+
+ part(a)the pressure in bar is:  75.92 bar 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    84.350409  
+ 
+ 
+
+ Part(b)the pressure in bar is: 84.35 bar 
+ 
+ 
+ 
+ a  =
+ 
+    1.474  
+ 
+ b  =
+ 
+    0.0395  
+ 
+ 
+ p  =
+ 
+    72.319846  
+ 
+ 
+
+ Part(c)the pressure in bars is:  72.32 bar 
+ 
+ 
+ 
+ a  =
+ 
+    17.22  
+ 
+ b  =
+ 
+    0.02737  
+ 
+ 
+ p  =
+ 
+    75.122399  
+ 
+ 
+
+ Part(d)the pressure in bar is:  75.12 bar 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ v  =
+ 
+    0.0010018  
+ 
+ T  =
+ 
+    293.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.0002066  
+ 
+ k  =
+ 
+    0.0000459  
+ 
+ 
+ cp  =
+ 
+    4.188  
+ 
+ 
+ cpv  =
+ 
+    0.0272957  
+ 
+ cv  =
+ 
+    4.1607043  
+ 
+ errorPercentage  =
+ 
+    0.6560347  
+ 
+ 
+ The percentage error is:  0.66 
+ 
+ 
+ 
+ K  =
+ 
+    1.0065603  
+ 
+ c  =
+ 
+    1482.1857  
+ 
+ 
+ The velocity of sound is:  1482.19 m/s 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH11/EX11.8/Ex11_8.sce #
+ 
+ p1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ p2  =
+ 
+    40.  
+ 
+ T2  =
+ 
+    245.  
+ 
+ 
+ 
+ 
+ h1starbar  =
+ 
+    8723.  
+ 
+ h2starbar  =
+ 
+    7121.  
+ 
+ 
+ Tc  =
+ 
+    126.  
+ 
+ pc  =
+ 
+    33.9  
+ 
+ M  =
+ 
+    28.  
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ Term1  =
+ 
+    0.5  
+ 
+ Term2  =
+ 
+    0.31  
+ 
+ 
+ 
+ TR1  =
+ 
+    2.3809524  
+ 
+ PR1  =
+ 
+    2.9498525  
+ 
+ TR2  =
+ 
+    1.9444444  
+ 
+ PR2  =
+ 
+    1.179941  
+ 
+ wcvdot  =
+ 
+    50.105816  
+ 
+ 
+ 
+ The work developed, in kJ per kg of nitrogen flowing is :  50.11 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+ 
+ sT2bar  =
+ 
+    185.775  
+ 
+ sT1bar  =
+ 
+    191.682  
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    28.  
+ 
+ p2  =
+ 
+    40.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ Term1  =
+ 
+    0.21  
+ 
+ Term2  =
+ 
+    0.14  
+ 
+ 
+ 
+ 
+ S2StarBarMinusS1StarBar  =
+ 
+    1.7110411  
+ 
+ sigmacvdot  =
+ 
+    0.0818936  
+ 
+ 
+ the rate of entropy production in kj/kg.K is:  0.08 
+ 
+ 
+ 
+ h2starbar  =
+ 
+    6654.  
+ 
+ h1starbar  =
+ 
+    8723.  
+ 
+ Tc  =
+ 
+    126.  
+ 
+ Term2  =
+ 
+    0.36  
+ 
+ Term1  =
+ 
+    0.5  
+ 
+ wcvdot  =
+ 
+    50.1  
+ 
+ 
+ 
+ wcvdots  =
+ 
+    68.655037  
+ 
+ etat  =
+ 
+    0.7297352  
+ 
+ 
+ 
+ The isentropic turbine efficiency is: 0.73 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH11/EX11.10/Ex11_10.sce #
+ 
+ 
+ 
+ V  =
+ 
+    0.241  
+ 
+ T  =
+ 
+    511.  
+ 
+ n1  =
+ 
+    0.18  
+ 
+ n2  =
+ 
+    0.274  
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ 
+ 
+ n  =
+ 
+    0.454  
+ 
+ y1  =
+ 
+    0.3964758  
+ 
+ y2  =
+ 
+    0.6035242  
+ 
+ vbar  =
+ 
+    0.530837  
+ 
+ 
+ 
+ p  =
+ 
+    80.033117  
+ 
+ 
+ The pressure in bar obtained using ideal gas equation is:  80.03 
+ 
+ 
+ 
+ Tc1  =
+ 
+    191.  
+ 
+ Pc1  =
+ 
+    46.4  
+ 
+ Tc2  =
+ 
+    425.  
+ 
+ Pc2  =
+ 
+    38.  
+ 
+ Z  =
+ 
+    0.88  
+ 
+ 
+ 
+ 
+ Tc  =
+ 
+    332.22467  
+ 
+ Pc  =
+ 
+    41.330396  
+ 
+ TR  =
+ 
+    1.5381158  
+ 
+ vRdash  =
+ 
+    0.0000079  
+ 
+ p  =
+ 
+    70.429143  
+ 
+ 
+ Pressure obtained using Kay’s rule together with the generalized compressibility chart, is: 70.43  
+ 
+ 
+ 
+ a1  =
+ 
+    2.293  
+ 
+ b1  =
+ 
+    0.0428  
+ 
+ 
+ a2  =
+ 
+    13.86  
+ 
+ b2  =
+ 
+    0.1162  
+ 
+ 
+ a  =
+ 
+    8.1067255  
+ 
+ b  =
+ 
+    0.0870987  
+ 
+ 
+ p  =
+ 
+    66.973438  
+ 
+ The pressure in bar from van der Waals equation is:   66.97 
+ 
+ 
+ 
+ TR1  =
+ 
+    2.6753927  
+ 
+ vR1dash  =
+ 
+    3.9121827  
+ 
+ Z1  =
+ 
+    1.  
+ 
+ 
+ TR2  =
+ 
+    1.2023529  
+ 
+ vR2dash  =
+ 
+    0.9463838  
+ 
+ Z2  =
+ 
+    0.8  
+ 
+ Z  =
+ 
+    0.8792952  
+ 
+ 
+ p  =
+ 
+    70.4  
+ 
+ 
+ 
+ The pressure in bar obtained using the rule of additive pressures employing the generalized compressibility chart is:  70.40 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.1/Ex12_1.sce #
+ 
+ n1  =
+ 
+    0.08  
+ 
+ n2  =
+ 
+    0.11  
+ 
+ n3  =
+ 
+    0.07  
+ 
+ n4  =
+ 
+    0.74  
+ 
+ 
+ 
+ M1  =
+ 
+    44.  
+ 
+ M2  =
+ 
+    18.  
+ 
+ M3  =
+ 
+    32.  
+ 
+ M4  =
+ 
+    28.  
+ 
+ 
+ 
+ M  =
+ 
+    28.46  
+ 
+ 
+The apparent molecular weight of the mixture in kg/kmol is:  28.460000 
+ 
+ 
+ mf1  =
+ 
+    12.368236  
+ 
+ mf2  =
+ 
+    6.9571328  
+ 
+ mf3  =
+ 
+    7.8706957  
+ 
+ mf4  =
+ 
+    72.803935  
+ 
+ 
+ 
+The mass fraction of CO2 in percentage is:  12.368236 
+The mass fraction of H2O in percentage is:  6.957133 
+The mass fraction of O2 in percentage is:  7.870696 
+The mass fraction of N2 in percentage is:  72.803935 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.2/Ex12_2.sce #
+ 
+ mf1  =
+ 
+    0.1  
+ 
+ mf2  =
+ 
+    0.6  
+ 
+ mf3  =
+ 
+    0.3  
+ 
+ 
+ 
+ M1  =
+ 
+    2.  
+ 
+ M2  =
+ 
+    28.  
+ 
+ M3  =
+ 
+    44.  
+ 
+ 
+ 
+ n1  =
+ 
+    0.6390041  
+ 
+ n2  =
+ 
+    0.2738589  
+ 
+ n3  =
+ 
+    0.0871369  
+ 
+ 
+ 
+The mole fraction of H2 in percentage is:  63.900415 
+The mole fraction of N2 in percentage is:  27.385892 
+The mole fraction of CO2 in percentage is:  8.713693 
+ 
+ 
+ 
+ M  =
+ 
+    12.780083  
+ 
+ 
+The apparent molecular weight of the mixture in kg/kmol is:  12.780083 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.3/Ex12_3.sce #
+ 
+ m1  =
+ 
+    0.3  
+ 
+ m2  =
+ 
+    0.2  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ p2  =
+ 
+    3.  
+ 
+ n  =
+ 
+    1.25  
+ 
+ 
+ 
+ 
+ T2  =
+ 
+    373.71928  
+ 
+ 
+The final temperature in Kelvin is:  373.719282 
+ 
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ 
+ M  =
+ 
+    35.813953  
+ 
+ W  =
+ 
+  - 34.227001  
+ 
+ 
+The work in kj is:  -34.227001 
+ 
+ 
+ 
+ uCO2T1  =
+ 
+    6939.  
+ 
+ uCO2T2  =
+ 
+    9198.  
+ 
+ uN2T1  =
+ 
+    6229.  
+ 
+ uN2T2  =
+ 
+    7770.  
+ 
+ deltaU  =
+ 
+    26.409416  
+ 
+ 
+ 
+ Q  =
+ 
+  - 7.8175853  
+ 
+ 
+The heat transfer in kj is:  -7.817585 
+ 
+ 
+ 
+ sbarT2CO2  =
+ 
+    222.475  
+ 
+ sbarT1CO2  =
+ 
+    213.915  
+ 
+ sbarT2N2  =
+ 
+    198.105  
+ 
+ sbarT1N2  =
+ 
+    191.682  
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ 
+ deltaS  =
+ 
+  - 0.0232760  
+ 
+ 
+The change in entropy of the mixture in kj/k is:  -0.023276 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.4/Ex12_4.sce #
+ 
+ y1  =
+ 
+    0.8  
+ 
+ y2  =
+ 
+    0.2  
+ 
+ T1  =
+ 
+    700.  
+ 
+ p1  =
+ 
+    5.  
+ 
+ V1  =
+ 
+    3.  
+ 
+ p2  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ sO2barT1  =
+ 
+    231.358  
+ 
+ sCO2barT1  =
+ 
+    250.663  
+ 
+ 
+ 
+ RHS  =
+ 
+    233.42113  
+ 
+ 
+ LHSat510K  =
+ 
+    232.8012  
+ 
+ LHSat520K  =
+ 
+    233.6224  
+ 
+ 
+ T2  =
+ 
+    517.54911  
+ 
+ 
+The temperature at the nozzle exit in K is:  517.549113 
+ 
+ 
+ 
+ sbarO2T2  =
+ 
+    221.667  
+ 
+ sbarO2T1  =
+ 
+    231.358  
+ 
+ sbarCO2T2  =
+ 
+    236.365  
+ 
+ sbarCO2T1  =
+ 
+    250.663  
+ 
+ 
+ deltasbarO2  =
+ 
+    3.6898668  
+ 
+ deltasbarCO2  =
+ 
+  - 0.9171332  
+ 
+ 
+The entropy changes of the CO2 from inlet to exit, in KJ/Kmol.K is:  -0.917133 
+The entropy change of the O2 from inlet to the exit in kj/kmol.k is:  3.689867 
+ 
+ 
+ 
+ h1barO2  =
+ 
+    21184.  
+ 
+ h2barO2  =
+ 
+    15320.  
+ 
+ h1barCO2  =
+ 
+    27125.  
+ 
+ h2barCO2  =
+ 
+    18468.  
+ 
+ 
+ M  =
+ 
+    41.6  
+ 
+ deltah  =
+ 
+    194.67308  
+ 
+ V2  =
+ 
+    623.9833  
+ 
+ 
+The exit velocity in m/s is:  623.983296 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.5/Ex12_5.sce #
+ 
+ nN2  =
+ 
+    0.79  
+ 
+ pN2  =
+ 
+    2.  
+ 
+ TN2  =
+ 
+    250.  
+ 
+ nO2  =
+ 
+    0.21  
+ 
+ pO2  =
+ 
+    1.  
+ 
+ TO2  =
+ 
+    300.  
+ 
+ 
+ 
+ MN2  =
+ 
+    28.01  
+ 
+ MO2  =
+ 
+    32.  
+ 
+ 
+ 
+ cvbarN2  =
+ 
+    20.81143  
+ 
+ cvbarO2  =
+ 
+    20.992  
+ 
+ T2  =
+ 
+    260.57184  
+ 
+ 
+The final temperature of the mixture in kelvin is:  260.571841 
+ 
+ 
+ 
+ p2  =
+ 
+    1.6109542  
+ 
+ 
+The final pressure of the mixture in bar is:  1.610954 
+ 
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ 
+ cpbarN2  =
+ 
+    29.12543  
+ 
+ cpbarO2  =
+ 
+    29.306  
+ 
+ yN2  =
+ 
+    0.79  
+ 
+ yO2  =
+ 
+    0.21  
+ 
+ sigma  =
+ 
+    4.9471553  
+ 
+ 
+The amount of entropy produced in the mixing process, in kJ/K is:  4.947155 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.6/Ex12_6.sce #
+ 
+ T1  =
+ 
+    32.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ AV1  =
+ 
+    100.  
+ 
+ T2  =
+ 
+    127.  
+ 
+ p2  =
+ 
+    1.  
+ 
+ T3  =
+ 
+    47.  
+ 
+ p3  =
+ 
+    1.  
+ 
+ 
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ Ma  =
+ 
+    28.97  
+ 
+ Mo  =
+ 
+    32.  
+ 
+ 
+ haT3  =
+ 
+    320.29  
+ 
+ haT1  =
+ 
+    305.22  
+ 
+ hnotT2  =
+ 
+    11711.  
+ 
+ hnotT1  =
+ 
+    9325.  
+ 
+ 
+ 
+ va1  =
+ 
+    0.8753089  
+ 
+ ma1dot  =
+ 
+    114.24538  
+ 
+ modot  =
+ 
+    23.090398  
+ 
+ 
+The mass flow rate of dry air in kg/min is:  114.245377 
+The mass flow rate of oxygen in kg/min is:  23.090398 
+ 
+ 
+ nadot  =
+ 
+    3.9435753  
+ 
+ nodot  =
+ 
+    0.7215750  
+ 
+ ya  =
+ 
+    0.8453265  
+ 
+ yo  =
+ 
+    0.1546735  
+ 
+ 
+The mole fraction of dry air in the exiting mixture is:  0.845327 
+The mole fraction of dry oxygen in the exiting mixture is:  0.154673 
+ 
+ 
+ 
+ sanotT3  =
+ 
+    1.7669  
+ 
+ sanotT1  =
+ 
+    1.71865  
+ 
+ sbarT3  =
+ 
+    207.112  
+ 
+ sbarT2  =
+ 
+    213.765  
+ 
+ 
+ sigmadot  =
+ 
+    17.41805  
+ 
+ 
+The time rate of entropy production, in kJ/K . min is:  17.418050 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.7/Ex12_7.sce #
+ 
+ m  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    21.  
+ 
+ psi1  =
+ 
+    0.7  
+ 
+ T2  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ pg  =
+ 
+    0.02487  
+ 
+ 
+ pv1  =
+ 
+    0.017409  
+ 
+ omega1  =
+ 
+    0.0109452  
+ 
+ 
+the initial humidity ratio is:  0.010945 
+ 
+ 
+ 
+ T  =
+ 
+    15.3  
+ 
+ 
+The dew point temperature in degree celcius is:  15.300000 
+ 
+ 
+ 
+ 
+ mv1  =
+ 
+    0.0108267  
+ 
+ ma  =
+ 
+    0.9891733  
+ 
+ pg  =
+ 
+    0.00872  
+ 
+ omega2  =
+ 
+    0.0053994  
+ 
+ mv2  =
+ 
+    0.0053409  
+ 
+ mw  =
+ 
+    0.0054858  
+ 
+ 
+ 
+The amount of water vapor that condenses, in kg. is:  0.005486 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.8/Ex12_8.sce #
+ 
+ 
+ V  =
+ 
+    35.  
+ 
+ p1  =
+ 
+    1.5  
+ 
+ T1  =
+ 
+    120.  
+ 
+ psi1  =
+ 
+    0.1  
+ 
+ T2  =
+ 
+    22.  
+ 
+ 
+ 
+ 
+ pg1  =
+ 
+    1.985  
+ 
+ 
+ T  =
+ 
+    60.  
+ 
+ 
+ pv1  =
+ 
+    0.1985  
+ 
+ 
+The dew point temperature corresponding to the initial state, in degee celcius is:  60.000000 
+ 
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ Mv  =
+ 
+    18.  
+ 
+ 
+ Tdash  =
+ 
+    56.  
+ 
+ vv1  =
+ 
+    9.1447019  
+ 
+ 
+The temperature at which condensation actually begins in degree celcius is:  56.000000 
+ 
+ 
+ 
+ vf2  =
+ 
+    0.0010022  
+ 
+ vg2  =
+ 
+    51.447  
+ 
+ vv2  =
+ 
+    9.1447019  
+ 
+ 
+ mv1  =
+ 
+    3.8273527  
+ 
+ x2  =
+ 
+    0.1777339  
+ 
+ mv2  =
+ 
+    0.6802505  
+ 
+ mw2  =
+ 
+    3.1471023  
+ 
+ 
+The amount of water condense in kg is:  3.147102 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.9/Ex12_9.sce #
+ 
+ 
+ V  =
+ 
+    35.  
+ 
+ p1  =
+ 
+    1.5  
+ 
+ T1  =
+ 
+    120.  
+ 
+ psi  =
+ 
+    0.1  
+ 
+ T2  =
+ 
+    22.  
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ Ma  =
+ 
+    28.97  
+ 
+ pv1  =
+ 
+    0.1985  
+ 
+ mv2  =
+ 
+    0.681  
+ 
+ mv1  =
+ 
+    3.827  
+ 
+ mw2  =
+ 
+    3.146  
+ 
+ 
+ ua2  =
+ 
+    210.49  
+ 
+ ua1  =
+ 
+    281.1  
+ 
+ ug2  =
+ 
+    2405.7  
+ 
+ uf2  =
+ 
+    92.32  
+ 
+ ug1  =
+ 
+    2529.3  
+ 
+ 
+ 
+ ma  =
+ 
+    40.388539  
+ 
+ Q  =
+ 
+  - 10602.745  
+ 
+ 
+ 
+The heat transfer during the process, in kJ is:  -10602.745406 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.10/Ex12_10.sce #
+ 
+ 
+ AV1  =
+ 
+    150.  
+ 
+ T1  =
+ 
+    10.  
+ 
+ psi1  =
+ 
+    0.8  
+ 
+ T2  =
+ 
+    30.  
+ 
+ p  =
+ 
+    1.  
+ 
+ 
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ Ma  =
+ 
+    28.97  
+ 
+ 
+ ha1  =
+ 
+    283.1  
+ 
+ ha2  =
+ 
+    303.2  
+ 
+ 
+ hv1  =
+ 
+    2519.8  
+ 
+ hv2  =
+ 
+    2556.3  
+ 
+ 
+ pg1  =
+ 
+    0.01228  
+ 
+ 
+ pv1  =
+ 
+    0.009824  
+ 
+ pa1  =
+ 
+    0.990176  
+ 
+ va1  =
+ 
+    0.8202298  
+ 
+ madot  =
+ 
+    182.87557  
+ 
+ omega  =
+ 
+    0.0061712  
+ 
+ Qcvdot  =
+ 
+    3716.9912  
+ 
+ 
+Rate of heat transfer, in kJ/min is:  3716.99 
+ 
+ 
+ 
+ pg2  =
+ 
+    0.04246  
+ 
+ 
+ pv2  =
+ 
+    0.009824  
+ 
+ psi2  =
+ 
+    0.2313707  
+ 
+ 
+The relative humidity at the exit is:  0.23 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.11/Ex12_11.sce #
+ 
+ 
+ T1  =
+ 
+    30.  
+ 
+ AV1  =
+ 
+    280.  
+ 
+ psi1  =
+ 
+    0.5  
+ 
+ T2  =
+ 
+    10.  
+ 
+ p  =
+ 
+    1.013  
+ 
+ 
+ 
+ 
+ pg1  =
+ 
+    0.04246  
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ Ma  =
+ 
+    28.97  
+ 
+ 
+ pv1  =
+ 
+    0.02123  
+ 
+ pa1  =
+ 
+    0.99177  
+ 
+ madot  =
+ 
+    319.34847  
+ 
+ 
+
+ The mass flow rate of the dry air in kg/min is:  319.35 
+ 
+ 
+ 
+ pv2  =
+ 
+    0.01228  
+ 
+ 
+ omega1  =
+ 
+    0.0133146  
+ 
+ omega2  =
+ 
+    0.0076327  
+ 
+ mwdotbymadot  =
+ 
+    0.0056820  
+ 
+ 
+
+ The rate at which water is condensed, in kg per kg of dry air flowing through the control volume is:  0.0057 
+ 
+ 
+ 
+ ha2  =
+ 
+    283.1  
+ 
+ ha1  =
+ 
+    303.2  
+ 
+ hg1  =
+ 
+    2556.3  
+ 
+ hg2  =
+ 
+    2519.8  
+ 
+ hf2  =
+ 
+    42.01  
+ 
+ 
+ Qcvdot  =
+ 
+  - 11070.127  
+ 
+ 
+
+ The required refrigerating capacity, in tons is:  -52.47 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.13/Ex12_13.sce #
+ 
+ 
+ T1  =
+ 
+    38.  
+ 
+ psi1  =
+ 
+    0.1  
+ 
+ AV1  =
+ 
+    140.  
+ 
+ Tw  =
+ 
+    21.  
+ 
+ T2  =
+ 
+    21.  
+ 
+ p  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ pg1  =
+ 
+    0.066  
+ 
+ 
+ va1  =
+ 
+    0.887  
+ 
+ cpa  =
+ 
+    1.005  
+ 
+ 
+ hf  =
+ 
+    88.14  
+ 
+ hg1  =
+ 
+    2570.7  
+ 
+ hg2  =
+ 
+    2539.94  
+ 
+ 
+ pv1  =
+ 
+    0.0066  
+ 
+ omega1  =
+ 
+    0.0040781  
+ 
+ omega2  =
+ 
+    0.0110976  
+ 
+ madot  =
+ 
+    157.8354  
+ 
+ mwdot  =
+ 
+    66.475658  
+ 
+ 
+
+ The mass flow rate of the water to the soaked pad in is:  66.48 kg(water)/h 
+ 
+ 
+ pv2  =
+ 
+    0.0177613  
+ 
+ 
+ pg2  =
+ 
+    0.02487  
+ 
+ psi2  =
+ 
+    0.7141657  
+ 
+ 
+
+ The relative humidity of the moist air at the exit to the evaporative cooler is:  0.71 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH12/EX12.15/Ex12_15.sce #
+ 
+ 
+ T1  =
+ 
+    38.  
+ 
+ m1dot  =
+ 
+    45000000.  
+ 
+ T2  =
+ 
+    30.  
+ 
+ m2dot  =
+ 
+    45000000.  
+ 
+ T3  =
+ 
+    25.  
+ 
+ psi3  =
+ 
+    0.35  
+ 
+ T4  =
+ 
+    35.  
+ 
+ psi4  =
+ 
+    0.9  
+ 
+ T5  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ omega3  =
+ 
+    0.00688  
+ 
+ omega4  =
+ 
+    0.0327  
+ 
+ 
+ hf1  =
+ 
+    159.21  
+ 
+ hf2  =
+ 
+    125.79  
+ 
+ ha4  =
+ 
+    308.2  
+ 
+ ha3  =
+ 
+    298.2  
+ 
+ hg4  =
+ 
+    2565.3  
+ 
+ hg3  =
+ 
+    2547.2  
+ 
+ hf5  =
+ 
+    83.96  
+ 
+ 
+ madot  =
+ 
+    20270181.  
+ 
+ m5dot  =
+ 
+    523376.07  
+ 
+ 
+The mass flow rate of dry air in kg/h is:  20270180.98 
+The mass flow rate of makeup water in kg/h is:  523376.07 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    8.  
+ 
+ c  =
+ 
+    9.  
+ 
+ a  =
+ 
+    12.5  
+ 
+ d  =
+ 
+    47.  
+ 
+ 
+ 
+ AFbar  =
+ 
+    59.5  
+ 
+ Ma  =
+ 
+    28.97  
+ 
+ MC8H18  =
+ 
+    114.22  
+ 
+ 
+ AF  =
+ 
+    15.091184  
+ 
+ 
+ 
+ The air–fuel ratio on a molar basis is:  59.500000 
+ The air–fuel ratio expressed on a mass basis is:  15.09 
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    8.  
+ 
+ c  =
+ 
+    9.  
+ 
+ e  =
+ 
+    6.25  
+ 
+ d  =
+ 
+    70.5  
+ 
+ 
+ AFbar  =
+ 
+    89.25  
+ 
+ 
+ AF  =
+ 
+    22.636776  
+ 
+ 
+ 
+ The air–fuel ratio on a molar basis is:  89.250000 
+ The air–fuel ratio expressed on a mass basis is:  22.64 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    10.2  
+ 
+ c  =
+ 
+    20.4  
+ 
+ b  =
+ 
+    23.1  
+ 
+ Ma  =
+ 
+    28.97  
+ 
+ MCH4  =
+ 
+    16.04  
+ 
+ 
+ AFbar  =
+ 
+    10.78  
+ 
+ 
+ AF  =
+ 
+    19.469863  
+ 
+ 
+ 
+ The air-fuel ratio on a molar basis is:  10.780000 
+ The air-fuel ratio on a mass basis is:  19.47 
+ 
+ 
+ 
+ 
+ 
+ 
+ AFbartheo  =
+ 
+    9.52  
+ 
+ 
+ Ta  =
+ 
+    1.1323529  
+ 
+ 
+ The percent theoretical air is:  113.24 
+ 
+ 
+ 
+ yv  =
+ 
+    0.1694352  
+ 
+ pv  =
+ 
+    0.1694352  
+ 
+ 
+ T  =
+ 
+    57.  
+ 
+ 
+ The dew point temperature of the products, in C, if the mixture were cooled at 1 atm is:  57.000000 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.3/Ex13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    12.93125  
+ 
+ c  =
+ 
+    1.9295  
+ 
+ a  =
+ 
+    2.8915063  
+ 
+ 
+ AFbar  =
+ 
+    13.76357  
+ 
+ 
+ The air-fuel ratio on a molar mass basis is:  13.76 
+ 
+ 
+ p  =
+ 
+    1.  
+ 
+ V  =
+ 
+    100.  
+ 
+ Rbar  =
+ 
+    8314.  
+ 
+ T  =
+ 
+    300.  
+ 
+ 
+ 
+ nF  =
+ 
+    4.0093016  
+ 
+ 
+ n  =
+ 
+    59.581228  
+ 
+ 
+ The amount of products in kmol that would be formed from 100 m3 of fuel mixture at 300 K and 1 bar is:  59.58 
+ 
+ 
+ 
+ 
+ 
+ 
+ AFbartheo  =
+ 
+    9.52  
+ 
+ 
+ Ta  =
+ 
+    1.4457531  
+ 
+ 
+ The percent of theoretical air is: 144.58  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.4/Ex13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ hRbar  =
+ 
+  - 249910.  
+ 
+ mfdot  =
+ 
+    0.0018  
+ 
+ M  =
+ 
+    114.22  
+ 
+ Wcvdot  =
+ 
+    37.  
+ 
+ 
+ 
+ 
+ hpbar  =
+ 
+  - 4069466.  
+ 
+ nFdot  =
+ 
+    0.0000158  
+ 
+ Qcvdot  =
+ 
+  - 23.192618  
+ 
+ 
+ 
+ The rate of heat transfer from the engine, in kW is:  -23.19 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.5/Ex13_5.sce #
+ 
+ 
+ 
+ 
+ cpbar  =
+ 
+    38.  
+ 
+ 
+ hfnotbar  =
+ 
+  - 74850.  
+ 
+ 
+ deltahbarO2  =
+ 
+    6088.  
+ 
+ deltahbarN2  =
+ 
+    5912.  
+ 
+ 
+ 
+ hRbar  =
+ 
+  - 6844.  
+ 
+ 
+ hpbar  =
+ 
+  - 228079.72  
+ 
+ Qcvdot  =
+ 
+  - 221235.72  
+ 
+ 
+ 
+ The rate of heat transfer from the combustion chamber in kJ per kmol of fuel is:  -221235.72 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.6/Ex13_6.sce #
+ 
+ 
+ nCH4  =
+ 
+    1.  
+ 
+ nO2  =
+ 
+    2.  
+ 
+ T1  =
+ 
+    25.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T2  =
+ 
+    900.  
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ 
+ 
+ 
+ 
+ 
+ hfbarCO2  =
+ 
+  - 393520.  
+ 
+ hfbarH2O  =
+ 
+  - 241820.  
+ 
+ hfbarCH4  =
+ 
+  - 74850.  
+ 
+ 
+ 
+ deltahbarCO2  =
+ 
+    28041.  
+ 
+ deltahbarH2O  =
+ 
+    21924.  
+ 
+ Q  =
+ 
+  - 745436.08  
+ 
+ 
+ The amount of heat transfer in kJ is:  -745436.08 
+ 
+ 
+ p2  =
+ 
+    3.0201342  
+ 
+ 
+ The final pressure in atm is:  3.02 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.7/Ex13_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ hfbarCO2  =
+ 
+  - 393520.  
+ 
+ hfbarH2O  =
+ 
+  - 285830.  
+ 
+ hfbarCH4  =
+ 
+  - 74850.  
+ 
+ M  =
+ 
+    16.04  
+ 
+ 
+ hRPbar  =
+ 
+  - 890330.  
+ 
+ hRP  =
+ 
+  - 55506.858  
+ 
+ 
+ Part(a)the enthalpy of combustion of gaseous methane,  fuel is: -55506.857855 kJ/kg. 
+ 
+ 
+ hfbarCO2  =
+ 
+  - 393520.  
+ 
+ hfbarH2O  =
+ 
+  - 241820.  
+ 
+ hfbarCH4  =
+ 
+  - 74850.  
+ 
+ 
+ hRPbar  =
+ 
+  - 802310.  
+ 
+ hRP  =
+ 
+  - 50019.327  
+ 
+ 
+ Part(b)the enthalpy of combustion of gaseous methane, fuel is:  -50019.326683 kJ/kg 
+ 
+ 
+ 
+ deltahbarO2  =
+ 
+    22707.  
+ 
+ deltahbarH2O  =
+ 
+    25978.  
+ 
+ deltahbarCO2  =
+ 
+    33405.  
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    298.  
+ 
+ 
+ 
+ 
+ deltahbarCH4  =
+ 
+    38188.637  
+ 
+ var  =
+ 
+    38188.637  
+ 
+ 
+ hRPbar  =
+ 
+  - 800551.64  
+ 
+ hRP  =
+ 
+  - 49909.703  
+ 
+ 
+ Part(c)the enthalpy of combustion of gaseous methane, per kg of fuel is -49910 kJ/kg 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.8/Ex13_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ hfbarC8H18  =
+ 
+  - 249910.  
+ 
+ hfbarCO2  =
+ 
+  - 393520.  
+ 
+ hfbarH2O  =
+ 
+  - 241820.  
+ 
+ 
+ 
+ RHS  =
+ 
+    5074630.  
+ 
+ 
+ LHS1  =
+ 
+    5089337.  
+ 
+ 
+ LHS2  =
+ 
+    4955163.  
+ 
+ 
+ Tp  =
+ 
+    2394.5194  
+ 
+ 
+ The temperature in kelvin with theoretical amount of air is:  2394.52 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tp  =
+ 
+    962.  
+ 
+ 
+ 
+ The temperature in kelvin using 400 percent theoretical air is: 962.00  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.9/Ex13_9.sce #
+ 
+ 
+ 
+ 
+ Tp  =
+ 
+    2395.  
+ 
+ 
+ 
+ 
+ 
+ sFbar  =
+ 
+    360.79  
+ 
+ 
+ 
+ 
+ sbarO2atTref  =
+ 
+    205.03  
+ 
+ sbarN2atTref  =
+ 
+    191.5  
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ yO2  =
+ 
+    0.21  
+ 
+ yN2  =
+ 
+    0.79  
+ 
+ 
+ yCO2  =
+ 
+    0.125  
+ 
+ yH2O  =
+ 
+    0.140625  
+ 
+ yN2p  =
+ 
+    0.734375  
+ 
+ 
+ 
+ sbarO2  =
+ 
+    218.00523  
+ 
+ sbarN2  =
+ 
+    193.4598  
+ 
+ 
+ sbarCO2  =
+ 
+    337.46148  
+ 
+ sbarH2O  =
+ 
+    290.29523  
+ 
+ sbarN2p  =
+ 
+    261.06983  
+ 
+ sigmadot  =
+ 
+    5404.165  
+ 
+ 
+ 
+ The rate of entropy production, in kJ/K per kmol of fuel with theoretical amount of air is:  5404.17 
+ 
+ 
+ 
+ 
+ 
+ 
+ yCO2  =
+ 
+    0.0329897  
+ 
+ yH2O  =
+ 
+    0.0371134  
+ 
+ yO2  =
+ 
+    0.1546392  
+ 
+ yN2p  =
+ 
+    0.7752577  
+ 
+ 
+ 
+ sbarCO2  =
+ 
+    295.48371  
+ 
+ sbarH2O  =
+ 
+    258.39446  
+ 
+ sbarO2p  =
+ 
+    257.63942  
+ 
+ sbarN2p  =
+ 
+    228.91141  
+ 
+ sigmadot  =
+ 
+    9754.7502  
+ 
+ 
+ 
+ The rate of entropy production, in kJ/K per kmol of fuel with 400 percent theoretical air is: 9754.75  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.10/Ex13_10.sce #
+ 
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ 
+ 
+ yCH4  =
+ 
+    0.3333333  
+ 
+ yO2  =
+ 
+    0.6666667  
+ 
+ yCO2  =
+ 
+    0.3333333  
+ 
+ yH2O  =
+ 
+    0.6666667  
+ 
+ 
+ sbarCH4atTref  =
+ 
+    186.16  
+ 
+ sbarO2atTref  =
+ 
+    205.03  
+ 
+ p2  =
+ 
+    3.02  
+ 
+ pref  =
+ 
+    1.  
+ 
+ 
+ 
+ sbarCH4  =
+ 
+    195.29386  
+ 
+ sbarO2  =
+ 
+    208.40104  
+ 
+ 
+ sbarCO2  =
+ 
+    263.50376  
+ 
+ sbarH2O  =
+ 
+    222.50293  
+ 
+ deltaS  =
+ 
+    96.413684  
+ 
+ 
+ 
+ The change in entropy of the system  is: 96.41 kJ/K  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.11/Ex13_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ hCbar  =
+ 
+    0.  
+ 
+ hH2bar  =
+ 
+    0.  
+ 
+ gRbar  =
+ 
+    0.  
+ 
+ 
+ hfbarCH4  =
+ 
+  - 74850.  
+ 
+ sbarCH4  =
+ 
+    186.16  
+ 
+ sbarC  =
+ 
+    5.74  
+ 
+ sbarH2  =
+ 
+    130.57  
+ 
+ Tref  =
+ 
+    298.15  
+ 
+ 
+ 
+ gfbarCH4  =
+ 
+  - 50783.332  
+ 
+ 
+ 
+ The gibbs function of formation of methane at the standard state is:  -50783.332000 kJ/mol 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.12/Ex13_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ Tnot  =
+ 
+    298.15  
+ 
+ 
+ gbarC8H18  =
+ 
+    6610.  
+ 
+ gbarO2  =
+ 
+    0.  
+ 
+ gbarCO2  =
+ 
+  - 394380.  
+ 
+ gbarH2O  =
+ 
+  - 228590.  
+ 
+ yO2  =
+ 
+    0.2035  
+ 
+ yCO2  =
+ 
+    0.0003  
+ 
+ yH2O  =
+ 
+    0.0312  
+ 
+ M  =
+ 
+    114.22  
+ 
+ 
+ 
+ ech  =
+ 
+    47345.849  
+ 
+ 
+ Part(a) the chemical exergy obtained on a unit mass basis is:  47345.85 kJ/K 
+ 
+ 
+ 
+ gbarH2O  =
+ 
+  - 237180.  
+ 
+ ebarCO2  =
+ 
+    19870.  
+ 
+ ebarH2O  =
+ 
+    900.  
+ 
+ ebarO2  =
+ 
+    3970.  
+ 
+ 
+ 
+ ech  =
+ 
+    47397.172  
+ 
+ 
+ Part(b) chemical exergy on a unit mass basis is: 47397.172 kJ/K 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.13/Ex13_13.sce #
+ 
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ Tnot  =
+ 
+    298.  
+ 
+ 
+ h  =
+ 
+    2939.9  
+ 
+ hnot  =
+ 
+    104.9  
+ 
+ s  =
+ 
+    7.2307  
+ 
+ snot  =
+ 
+    0.3674  
+ 
+ 
+ gbarH2Oliq  =
+ 
+  - 237180.  
+ 
+ gbarH2Ogas  =
+ 
+  - 228590.  
+ 
+ yeH2O  =
+ 
+    0.0303  
+ 
+ M  =
+ 
+    18.  
+ 
+ 
+ 
+ ech  =
+ 
+    4.0609445  
+ 
+ ef  =
+ 
+    793.79754  
+ 
+ 
+ 
+ The flow exergy of the steam, in is:  793.80 kJ/kg  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.14/Ex13_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ yCO2p  =
+ 
+    0.0697837  
+ 
+ yH2Op  =
+ 
+    0.1395673  
+ 
+ yN2p  =
+ 
+    0.7348221  
+ 
+ yO2p  =
+ 
+    0.0558269  
+ 
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ Tnot  =
+ 
+    298.15  
+ 
+ 
+ yeN2  =
+ 
+    0.7567  
+ 
+ yeO2  =
+ 
+    0.2035  
+ 
+ yeH2O  =
+ 
+    0.0303  
+ 
+ yeCO2  =
+ 
+    0.0003  
+ 
+ 
+ 
+ 
+ ebarch  =
+ 
+    17749.608  
+ 
+ 
+ 
+ contri480  =
+ 
+    17712.  
+ 
+ contri1560  =
+ 
+    390853.  
+ 
+ efbar480  =
+ 
+    35461.608  
+ 
+ efbar1560  =
+ 
+    408602.61  
+ 
+ 
+ 
+ At T= 480k, the flow exergy of the combustion products, in kJ per kmol of fuel is:  35461.61 
+ At T = 1560K, the flow exergy of the combustion products, in kJ per kmol of fuel is:  408602.61 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.15/Ex13_15.sce #
+ 
+ 
+ mFdot  =
+ 
+    0.0018  
+ 
+ ech  =
+ 
+    47346.  
+ 
+ Wcvdot  =
+ 
+    37.  
+ 
+ 
+ 
+ Efdot  =
+ 
+    85.2228  
+ 
+ epsilon  =
+ 
+    0.4341561  
+ 
+ 
+ 
+ The exergetic efficiency is:  0.434 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH13/EX13.16/Ex13_16.sce #
+ 
+ 
+ Tnot  =
+ 
+    298.  
+ 
+ 
+ 
+ sigmadot  =
+ 
+    5404.  
+ 
+ Efdot  =
+ 
+    5407843.  
+ 
+ 
+ Eddot  =
+ 
+    1610392.  
+ 
+ epsilon  =
+ 
+    0.7022118  
+ 
+ 
+ The exergetic efficiency with theoretical amount of air is:  0.702 
+ 
+ 
+ sigmadot  =
+ 
+    9754.  
+ 
+ 
+ Eddot  =
+ 
+    2906692.  
+ 
+ epsilon  =
+ 
+    0.4625044  
+ 
+ 
+The exergetic efficiency with 400 percent theoretical amount of air is: 0.463  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    298.  
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ 
+ 
+ hfbarCO2  =
+ 
+  - 393520.  
+ 
+ hfbarCO  =
+ 
+  - 110530.  
+ 
+ hfbarO2  =
+ 
+    0.  
+ 
+ deltahbarCO2  =
+ 
+    0.  
+ 
+ deltahbarCO  =
+ 
+    0.  
+ 
+ deltahbarO2  =
+ 
+    0.  
+ 
+ sbarCO2  =
+ 
+    213.69  
+ 
+ sbarCO  =
+ 
+    197.54  
+ 
+ sbarO2  =
+ 
+    205.03  
+ 
+ 
+ logKtable  =
+ 
+    45.066  
+ 
+ 
+ deltaG  =
+ 
+  - 257253.23  
+ 
+ lnK  =
+ 
+    103.8328  
+ 
+ logK  =
+ 
+    45.094011  
+ 
+ 
+ Part(a) the value of equilibrium constant expressed as log10K is:  45.094011 
+ The value of equilibrium constant expressed as log10K from table A-27 is: 45.066000  
+ 
+ 
+ T  =
+ 
+    2000.  
+ 
+ 
+ hfbarCO2  =
+ 
+  - 393520.  
+ 
+ hfbarCO  =
+ 
+  - 110530.  
+ 
+ hfbarO2  =
+ 
+    0.  
+ 
+ deltahbarCO2  =
+ 
+    91440.  
+ 
+ deltahbarCO  =
+ 
+    56739.  
+ 
+ deltahbarO2  =
+ 
+    59199.  
+ 
+ sbarCO2  =
+ 
+    309.21  
+ 
+ sbarCO  =
+ 
+    258.6  
+ 
+ sbarO2  =
+ 
+    268.655  
+ 
+ 
+ deltaG  =
+ 
+  - 110453.5  
+ 
+ lnK  =
+ 
+    6.6426209  
+ 
+ logK  =
+ 
+    2.8848536  
+ 
+ 
+ logKtable  =
+ 
+    2.884  
+ 
+ 
+ Part(b) the value of equilibrium constant expressed as log10K is: 2.884854  
+ The value of equilibrium constant expressed as log10K from table A-27 is: 2.884000  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ log10K  =
+ 
+  - 1.44  
+ 
+ 
+ p  =
+ 
+    1.  
+ 
+ 
+ K  =
+ 
+    0.0363078  
+ 
+ 
+ z  =
+ 
+    0.129  
+ 
+ yCO  =
+ 
+    0.1211837  
+ 
+ yO2  =
+ 
+    0.0605918  
+ 
+ yCO2  =
+ 
+    0.8182245  
+ 
+ 
+ 
+ Part(a) mole fraction of CO is: 0.121  
+ Mole fraction of O2 is:  0.061 
+ Mole fraction of CO2 is:  0.818 
+ 
+ 
+ p  =
+ 
+    10.  
+ 
+ 
+ z  =
+ 
+    0.062  
+ 
+ yCO  =
+ 
+    0.0601358  
+ 
+ yO2  =
+ 
+    0.0300679  
+ 
+ yCO2  =
+ 
+    0.9097963  
+ 
+ 
+ 
+ Part(b) mole fraction of CO is:  0.060 
+ Mole fraction of O2 is:  0.030 
+ Mole fraction of CO2 is: 0.910  
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ yCO  =
+ 
+    0.298  
+ 
+ p  =
+ 
+    1.  
+ 
+ pref  =
+ 
+    1.  
+ 
+ 
+ T  =
+ 
+    2881.  
+ 
+ 
+ 
+ 
+ z  =
+ 
+    0.3501763  
+ 
+ K  =
+ 
+    0.2080100  
+ 
+ 
+ 
+ The temperature T of the mixture in kelvin is:  2881.000000 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH14/EX14.4/Ex14_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ K  =
+ 
+    0.0363  
+ 
+ p  =
+ 
+    1.  
+ 
+ pref  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ z  =
+ 
+    0.175  
+ 
+ yCO  =
+ 
+    0.0589722  
+ 
+ yO2  =
+ 
+    0.0294861  
+ 
+ yCO2  =
+ 
+    0.2780118  
+ 
+ yN2  =
+ 
+    0.6335299  
+ 
+ 
+ 
+ The mole fraction of CO is: 0.059  
+ The mole fraction of O2 is: 0.029  
+ The mole fraction of CO2 is:  0.278 
+ The mole fraction of N2 is:  0.634 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH14/EX14.5/Ex14_5.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.  
+ 
+ pref  =
+ 
+    1.  
+ 
+ 
+ log10k  =
+ 
+  - 0.189  
+ 
+ 
+ z  =
+ 
+    0.422  
+ 
+ 
+ 
+ k  =
+ 
+    0.6471426  
+ 
+ 
+ hfbarCO2  =
+ 
+  - 393520.  
+ 
+ deltahbarCO2  =
+ 
+    165331.  
+ 
+ hfbarCO  =
+ 
+  - 110530.  
+ 
+ deltahbarCO  =
+ 
+    100998.  
+ 
+ hfbarO2  =
+ 
+    0.  
+ 
+ deltahbarO2  =
+ 
+    106127.  
+ 
+ hfbarCO2r  =
+ 
+  - 393520.  
+ 
+ deltahbarCO2r  =
+ 
+    0.  
+ 
+ 
+ Qcvdot  =
+ 
+    322385.45  
+ 
+ 
+ 
+ The heat transfer to the reactor, in kJ per kmol of CO2 entering is:  322385.449000 
+ 
+grepthis#Fundamental_Of_Thermodynamics_Moran_And_Shapiro_3012/CH14/EX14.10/Ex14_10.sce #
+ 
+ 
+ 
+ vf  =
+ 
+    0.0010018  
+ 
+ psat  =
+ 
+    0.0239  
+ 
+ p  =
+ 
+    1.  
+ 
+ T  =
+ 
+    293.15  
+ 
+ Rbar  =
+ 
+    8.314  
+ 
+ M  =
+ 
+    18.02  
+ 
+ e  =
+ 
+    2.715  
+ 
+ 
+ 
+ pvbypsat  =
+ 
+    1.0007224  
+ 
+ percent  =
+ 
+    0.0722374  
+ 
+ 
+ 
+ The departure, in percent, of the partial pressure of the water vapor from the saturation pressure of water at 20 is: 0.072 
+ 

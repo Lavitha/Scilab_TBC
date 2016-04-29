@@ -1,0 +1,1245 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 53
+
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shear Stress Required to nucleate a grain boundary crack in high temperature deformation = 158.887 MPa 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+sigma_x= -12.5 MPa
+sigma_y= -2.5 MPa
+T_xy= 57.5 MPa
+sigma_y`= -65 MPa 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ 
+ 
+ 
+
+sigma1 = 360 MPa
+sigma2 = -280 MPa
+sigma3 = -160 MPa 
+
+
+Logic: The matrix provided in the book is a state of stress of a body which includes a combination of normal and shear stresses acting in a triaxial direction. So the determinant of the matrix results in the cubic equation in "sigma" which when solved gives the principal stresses 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+sigma1 = 971.833 MPa
+sigma2 = 520.705 MPa
+ 
+
+Note: Slight calculation errors in Book 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For Iron:
+
+ 
+ 
+ 
+E_111 = 2.72727 x 10^11 Pa
+E_100 = 1.25 x 10^11 Pa
+ 
+
+
+
+For Tungten:
+
+ 
+ 
+ 
+E_111 = 3.84615 x 10^11 Pa
+E_100 = 3.84615 x 10^11 Pa
+
+Therefore tungsten is elastically isotropic while iron is elasitcally anisotropic 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Engineering Stress at maximum load = 99852.1 psi
+True Fracture Stress = 112785 psi
+True Strain at fracture = 0.344939
+Engineering strain at fracture = 0.411903 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Since the calculated value of sigma0 = 224.054 MPa, which is less than the yield strength of the aluminium alloy
+Thus safety factor is = 2.23161 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Since the calculated value of sigma0 = 250 MPa, which is less than the yield strength of the aluminium alloy
+Thus safety factor is = 2 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Plastic Strain = 0.199532 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tensile Stress applied = 14.6969 MPa 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Total force on the dislocation is = 1.32629e-07 N 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Yield Stress = 254.464 MPa 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+    2.760D+10  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Particle Spacing = 2.3e-08 m
+Particle Size = 7.35948e-10 m 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ec for 10 vol% = 92 GPa
+ 
+ 
+ 
+ 
+
+Ec for 60 vol% = 252 GPa
+ 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+sigma_cu = 2.51094 GPa for L=100um
+ 
+ 
+ 
+ 
+ 
+ 
+sigma_cu = 0.596875 GPa for L=2mm 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sigma_max  =
+ 
+    2.437D+10  
+ 
+ 
+Cohesive strength of a silica fiber = 24.367 GPa 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fracture Stress = 100 MPa 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ultimate Tensile Strength = 92363.2 psi
+0.2 percent offset yield strength = 74889.1 psi
+Breaking Stress = 80880.2 psi
+Elongation = 26.5 percent
+Reduction of Area = 61.092 percent
+
+
+Note: Slight Computational Errors in book 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+True Strain to fracture using changes in length = 0.405465
+True Strain to fracture using changes in area = 0.405465 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+For More ductile metals
+True Strain to fracture using changes in length = 0.729961
+True Strain to fracture using changes in diameter = 0.940007 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ultimate Tensile Strength = 99729.2 psi 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+At 70deg F
+ 
+ 
+ 
+ 
+sigma_a = 10.2 ksi
+sigma_b = 13.8229 ksi
+sigma_b/sigma_a = 1.35519
+ 
+
+
+At 825deg F
+ 
+ 
+ 
+sigma_a = 2.1 ksi
+sigma_b = 5.54906 ksi
+sigma_b/sigma_a = 2.64241
+ 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Since Fracture Toughness of the material is = 172.852 MPa
+ and the applied stress is 172 MPa thus the flaw will propagate as a brittle fracture 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Critical Crack depth = 15.4981 mm
+which is greater than the thickness of the vessel wall, 12mm 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Plastic zone size = 0.113177 mm
+Stress Intensity Factor = 42.8659 MPa m^(1/2)
+
+
+Note: Calculation Errors in book 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bar Diameter = 1.52431 in 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+d_e_e = 0.000681818
+d_e_p = 0.000608182
+Number of Cycles = 48884 cycles 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatigue Cycles = 261417 cycles 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH12/EX12.4/Ex12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mean Stress = 25464.8 psi
+Fluctuating Bending Stress = 33658.4 psi
+Effective Maximum Stress = 59123.2 psi
+Effective Minimum Stress = 8193.63 psi
+sigma_a = 39834.1 psi
+
+
+Note: Calculation Errors in the book 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Fatigue Limit = 14245.3 psi 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH12/EX12.6/Ex12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Number of cycles = 14785.5 cycles
+Fatigue damage per cycle = 6.7634e-05
+Number of cycles with correction of mean stress= 129289 cycles
+Fatigue damage per cycle  with correction of mean stress= 7.7346e-06 damage per year
+Shaft will fail in 2.2446 days 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----------------------------------------------------------------------------------
+ 
+Temperature	Creep Strength, psi	Working Stress, psi	Working Stress, MPa
+ 
+----------------------------------------------------------------------------------- 
+
+1100 F			30000			10000			68.9
+ 
+
+1500 F			4000			1333			9.18667
+ 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Activation Energy = 157861 cal/mol 
+
+
+
+Note: Calculation Errors in book 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH13/EX13.3/Exx13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+At T = 1200 F, P = 41500
+At T = 1600 F, P = 51500
+And from the master ploy of Astroploy, corresponding stress required are sigma = 78000 psi and sigma = 11000 psi 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Estimated Life = 11.5741 days 
+ 
+ 
+ 
+
+
+
+---------------------------------
+Stress, MPa	Crack Length, mm
+---------------------------------
+ 
+	500		0.105226
+	300		0.292296
+	100		2.63066
+ 
+--------------------------------- 
+
+
+
+
+Note: Calculation errors in book 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH15/EX15.1/Ex15_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Enginering Strain = 1
+True Strain = 0.693147
+Reduction = 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Enginering Strain = -0.5
+True Strain = -0.693147
+Reduction = -1 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH15/EX15.2/Ex15_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Plastic work done in 1st step = 39752.1 lb/in^2
+Plastic work done in 2nd step = 97934.8 lb/in^2
+ 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH15/EX15.3/Ex15_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pressure  = 2.88675 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH15/EX15.4/Ex15_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Temperature Rise for aluminium = 78.4808 C
+Temperature Rise for titanium = 162.686 C
+ 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH15/EX15.5/Ex15_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For OD after deformation being 70 mm, Di = 22.3607 mm
+Precent change in inside diameter = 25.4644 percent
+Peak pressure = 1.93531 
+ 
+ 
+ 
+ 
+
+
+
+
+For OD after deformation being 81.4 mm, Di = 35.0137 mm
+Precent change in inside diameter = -16.7124 percent
+Peak pressure = 1.17321 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH16/EX16.1/Ex16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+At the centerline of the slab = 63044.5 psi
+ 
+
+Pressure Distributon from the centerline: 
+
+---------------------------------
+ 
+x	p (ksi)		t_i (ksi)
+ 
+---------------------------------
+ 
+0	63.0445		15.7611
+0.25	38.2384		9.55961
+0.5	23.1928		5.7982
+0.75	14.0671		3.51678
+1	8.53215		2.13304
+1.25	5.17501		1.29375
+1.5	3.1388		0.7847
+1.75	1.90378		0.475945
+2	1.1547		0.288675
+ 
+---------------------------------
+ 
+ 
+ 
+ 
+
+For sticking friction:
+p_max = 10.3923 ksi 
+ 
+ 
+ 
+ 
+
+
+The Forging load = 62.7695 tons 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH17/EX17.1/Ex17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Maximum possible reduction when mu is 0.08 = 0.0768 in
+ 
+ 
+ 
+Maximum possible reduction when mu is 0.5 = 3 in 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH17/EX17.2/Ex17_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rolling Load = 3039.51 kips 
+ 
+
+Rolling Load  if sticking friction occurs = 5509.54 kips 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH17/EX17.3/Ex17_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    1410.3549  
+ 
+ 
+
+P2 = 1410.35 tons
+R2 = 18.6281 in 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH17/EX17.4/Ex17_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rolling Load = 540.012
+Horsepower = 1713.63 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH18/EX18.1/Ex18_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e  =
+ 
+    4.3944492  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Force required for the Operation = 3827.95 metric tons
+
+
+Note: Slight calculation errors in book 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH19/EX19.1/Ex19_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Drawing Stress = 240.422 MPa
+Drawing Force = 12.0849 kN
+Power = 36.2548 kW
+Horsepower = 48.599 hp 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH19/EX19.2/Ex19_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+By First Approximation, r = 0.514412
+By Second Approximation, r = 0.830601 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH20/EX20.1/Ex20_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Limiting ratio = 1.98104 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH20/EX20.2/Ex20_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Major Strain = 80 percent 
+Minor Strain = -20 percent 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH21/EX21.1/Ex21_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shear Plane Angle for 1040 steel= 22.2946 deg 
+ 
+
+Shear Plane Angle for Copper = 10.6433 deg 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH21/EX21.2/Ex21_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Slip plane angle = 33.1927 deg
+Percentage of total energy that goes into friction = 30.918 percent
+Percentage of total energy that goes into shear = 69.082 percent
+Total energy per unit volume = 0.197285 hp min/in^3 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH21/EX21.3/Ex21_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For High Speed steel tool, increase in tool life is given by: t2 = 322.54 t1 
+ 
+
+For Cemented carbide tool, increase in tool life is given by: t2 = 10.0794 t1 
+ 
+grepthis#Mechanical_Metallurgy_G._E._Dieter_3456/CH21/EX21.4/Ex21_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tangential force = 24 N 
+ 

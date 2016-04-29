@@ -1,0 +1,4351 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 82
+
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH1/EX1.1/1_1.sce #
+ 
+ 
+ 
+ P  =
+ 
+    2050.  
+ 
+ T  =
+ 
+    700.  
+ 
+ E  =
+ 
+    10.  
+ 
+ 
+ Pe  =
+ 
+    297.32881  
+ 
+ Te  =
+ 
+    800.  
+ 
+ Ee  =
+ 
+    947777.46  
+ 
+ 
+Temperature = 800 F 
+
+ Pressure = 297 lbf/in^2  
+
+ Energy = 9.478e+05 Btu 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+ basis  =
+ 
+    1.  
+ 
+ P  =
+ 
+    101300.  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ T  =
+ 
+    272.6  
+ 
+ 
+ V  =
+ 
+    22.373921  
+ 
+ Ts  =
+ 
+    373.1  
+ 
+ Vs  =
+ 
+    30.62256  
+ 
+ 
+Volume in case 1 = 22.37 m^3 
+
+ Volume in case 2 = 30.62 m^3 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.2/2_2.sce #
+ 
+ 
+ 
+ Vb  =
+ 
+    30.  
+ 
+ P  =
+ 
+    101300.  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ T  =
+ 
+    373.1  
+ 
+ 
+ Z  =
+ 
+    0.9796699  
+ 
+ 
+Compressibility factor = 0.980 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ Pc  =
+ 
+    22120000.  
+ 
+ Tc  =
+ 
+    647.3  
+ 
+ Vc  =
+ 
+    0.05697  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ Tr  =
+ 
+    0.7  
+ 
+ 
+ Zc  =
+ 
+    0.2341532  
+ 
+ T  =
+ 
+    453.11  
+ 
+ Ps  =
+ 
+    1000000.  
+ 
+ w  =
+ 
+    0.3447851  
+ 
+ 
+critical compressibility factor  = 0.234 
+
+ Accentric factor = 0.3448 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.4.b/2_4b.sce #
+ 
+ 
+ 
+ basis  =
+ 
+    1.  
+ 
+ P  =
+ 
+    1000000.  
+ 
+ a  =
+ 
+    4.19  
+ 
+ b  =
+ 
+    0.0373  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ Tc  =
+ 
+    405.5  
+ 
+ Pc  =
+ 
+    11280000.  
+ 
+ 
+ 
+ part b   
+ 
+ an  =
+ 
+    425116.33  
+ 
+ bn  =
+ 
+    0.0373609  
+ 
+ V  =
+ 
+    3.  
+ 
+ 
+Since an and bn are same as a and b, V is the same = 3 m^3/kmol 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.4.c/2_4c.sce #
+ 
+ 
+ 
+ 
+ part c   
+ 
+ 
+ USing SRK equation, P= RT/(V-b) -alph*a/(V*(V+b))   
+ 
+ 
+ By trail and error method,   
+ 
+ 
+ v2  =
+ 
+    2.98  
+ 
+ 
+volume = 2.98 m^3/kmol 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ basis  =
+ 
+    1.  
+ 
+ P  =
+ 
+    1000000.  
+ 
+ a  =
+ 
+    4.19  
+ 
+ b  =
+ 
+    0.0373  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ Tc  =
+ 
+    405.5  
+ 
+ Pc  =
+ 
+    11280000.  
+ 
+ 
+ 
+ case a   
+ 
+ 
+ Using vandwerwaals equation,    
+ 
+ 
+ (P+a/v^2)*(V-b) = R*T, on solving by trail and error method,   
+ 
+ V  =
+ 
+    3.  
+ 
+Volume = 3 m^3/kmol 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+ Pc  =
+ 
+    22120000.  
+ 
+ Tc  =
+ 
+    647.3  
+ 
+ Zc  =
+ 
+    0.234  
+ 
+ T  =
+ 
+    973.1  
+ 
+ P  =
+ 
+    25000000.  
+ 
+ 
+ Tr  =
+ 
+    1.5033215  
+ 
+ Pr  =
+ 
+    1.1301989  
+ 
+ Z  =
+ 
+    0.916  
+ 
+ Zn  =
+ 
+    0.9142  
+ 
+ 
+Compresson factor = 0.914  
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH2/EX2.6/2_6.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.3448  
+ 
+ Z0  =
+ 
+    0.898  
+ 
+ Z1  =
+ 
+    0.08  
+ 
+ 
+ Z  =
+ 
+    0.925584  
+ 
+ 
+Compression factor = 0.926  
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ mass  =
+ 
+    4000.  
+ 
+ Patm  =
+ 
+    101300.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ M  =
+ 
+    28.  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ T  =
+ 
+    303.  
+ 
+ P1  =
+ 
+    800000.  
+ 
+ 
+ Ps  =
+ 
+    140528.  
+ 
+ n  =
+ 
+    0.0357143  
+ 
+ V1  =
+ 
+    0.1124658  
+ 
+ W  =
+ 
+    31609.175  
+ 
+ 
+Work done on the surroundings = 31609 J 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.2.b/3_2b.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    1000.  
+ 
+ p1  =
+ 
+    20.  
+ 
+ p2  =
+ 
+    10.  
+ 
+ ti  =
+ 
+    600.  
+ 
+ t2  =
+ 
+    700.  
+ 
+ v1  =
+ 
+    0.02188  
+ 
+ vi  =
+ 
+    0.02008  
+ 
+ v2  =
+ 
+    0.02825  
+ 
+ Ei  =
+ 
+    2617.5  
+ 
+ E2  =
+ 
+    2893.1  
+ 
+ E1  =
+ 
+    3441.8  
+ 
+ x  =
+ 
+    0.22  
+ 
+ m  =
+ 
+    1.  
+ 
+ cp  =
+ 
+    4.186  
+ 
+ t3  =
+ 
+    639.  
+ 
+ H3  =
+ 
+    2409.5  
+ 
+ H1  =
+ 
+    3879.3  
+ 
+ 
+ Tf  =
+ 
+    622.03182  
+ 
+ Hf  =
+ 
+    2338.4712  
+ 
+ Q2  =
+ 
+  - 1540.8288  
+ 
+ 
+ 
+ part b   
+ 
+Heat transfer = -1540.8 kJ/kg 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    1000.  
+ 
+ p1  =
+ 
+    20.  
+ 
+ p2  =
+ 
+    10.  
+ 
+ ti  =
+ 
+    600.  
+ 
+ t2  =
+ 
+    700.  
+ 
+ v1  =
+ 
+    0.02188  
+ 
+ vi  =
+ 
+    0.02008  
+ 
+ v2  =
+ 
+    0.02825  
+ 
+ Ei  =
+ 
+    2617.5  
+ 
+ E2  =
+ 
+    2893.1  
+ 
+ E1  =
+ 
+    3441.8  
+ 
+ x  =
+ 
+    0.22  
+ 
+ m  =
+ 
+    1.  
+ 
+ cp  =
+ 
+    4.186  
+ 
+ t3  =
+ 
+    639.  
+ 
+ H3  =
+ 
+    2409.5  
+ 
+ H1  =
+ 
+    3879.3  
+ 
+ 
+ Tf  =
+ 
+    622.03182  
+ 
+ Ef  =
+ 
+    2678.132  
+ 
+ Q1  =
+ 
+  - 763.668  
+ 
+ 
+ 
+ part a   
+ 
+Heat transfer = -763.7 kJ/kg 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    2.181  
+ 
+ p2  =
+ 
+    2.637  
+ 
+ p3  =
+ 
+    3.163  
+ 
+ vg1  =
+ 
+    0.0915  
+ 
+ vg2  =
+ 
+    0.07585  
+ 
+ vg3  =
+ 
+    0.06323  
+ 
+ vl1  =
+ 
+    0.00118  
+ 
+ vl2  =
+ 
+    0.0012  
+ 
+ vl3  =
+ 
+    0.00122  
+ 
+ M  =
+ 
+    18.  
+ 
+ t1  =
+ 
+    490.  
+ 
+ t2  =
+ 
+    500.  
+ 
+ t3  =
+ 
+    510.  
+ 
+ R  =
+ 
+    8.3143  
+ 
+ 
+ lam1  =
+ 
+    32990.96  
+ 
+ lam2  =
+ 
+    38618.756  
+ 
+ err  =
+ 
+    0.1705860  
+ 
+ 
+latent heat using calyperon equation = 32990 kJ/kmol 
+
+ latent heat using the clasius calyperon equation = 38618 kJ/kmol 
+
+ Error = 17 percent 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ h1  =
+ 
+    147360.  
+ 
+ h2  =
+ 
+    29790.  
+ 
+ 
+ Hr  =
+ 
+    117570.  
+ 
+ 
+heat of reaction = 117570 kJ/kmol 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.7/3_7.sce #
+ 
+ 
+ 
+ P  =
+ 
+    100000.  
+ 
+ P2  =
+ 
+    550000.  
+ 
+ M  =
+ 
+    28.84  
+ 
+ R  =
+ 
+    8314.4  
+ 
+ T1  =
+ 
+    303.1  
+ 
+ T2  =
+ 
+    316.1  
+ 
+ d1  =
+ 
+    0.154  
+ 
+ d2  =
+ 
+    0.028  
+ 
+ mass  =
+ 
+    0.25  
+ 
+ Q  =
+ 
+    2.764D+08  
+ 
+ cp  =
+ 
+    29300.  
+ 
+ 
+ rho1  =
+ 
+    1.1444015  
+ 
+ u1  =
+ 
+    13.421736  
+ 
+ rho2  =
+ 
+    6.035351  
+ 
+ u2  =
+ 
+    76.985677  
+ 
+ Wsd  =
+ 
+    284440.27  
+ 
+ mdot  =
+ 
+    0.2861004  
+ 
+ Ws  =
+ 
+    109.1303  
+ 
+ 
+Power input to the compressor = 109 hp 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ u1  =
+ 
+    1.1  
+ 
+ rho1  =
+ 
+    1210.  
+ 
+ d1  =
+ 
+    0.078  
+ 
+ z1  =
+ 
+    4.  
+ 
+ h2  =
+ 
+    18.  
+ 
+ g  =
+ 
+    9.806  
+ 
+ 
+ mdot  =
+ 
+    6.3600004  
+ 
+ Wsd  =
+ 
+    22.  
+ 
+ Ws  =
+ 
+    1372.0556  
+ 
+ dP  =
+ 
+    261035.72  
+ 
+ 
+Power input = 1372 W 
+Pressure drop = 0.261 Mpa 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ eff  =
+ 
+    0.75  
+ 
+ Hf  =
+ 
+  - 110600.  - 241980.  - 393770.    0.  
+ 
+ Hc  =
+ 
+    30.35    36.    45.64    29.3  
+ 
+ T2  =
+ 
+    540.  
+ 
+ T1  =
+ 
+    25.  
+ 
+ mass  =
+ 
+    500.  
+ 
+ 
+ dHr  =
+ 
+  - 41190.  
+ 
+ dHpr  =
+ 
+    37488.137  
+ 
+ q  =
+ 
+    6595.6375  
+ 
+ heat  =
+ 
+    4397091.7  
+ 
+ 
+Heat produced = 4.397e+06 kJ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ eff  =
+ 
+    0.75  
+ 
+ Hf  =
+ 
+  - 110600.  - 241980.  - 393770.    0.  
+ 
+ Hc  =
+ 
+    30.35    36.    45.64    29.3  
+ 
+ T2  =
+ 
+    540.  
+ 
+ T1  =
+ 
+    25.  
+ 
+ mass  =
+ 
+    500.  
+ 
+ work  =
+ 
+    1000000.  
+ 
+ 
+ dHr  =
+ 
+  - 41190.  
+ 
+ dHpr  =
+ 
+    37488.137  
+ 
+ q  =
+ 
+    6595.6375  
+ 
+ heat  =
+ 
+    4397091.7  
+ 
+ qe  =
+ 
+    3397091.7  
+ 
+ 
+Heat produced = 3.397e+06 kJ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ so3  =
+ 
+    6.  
+ 
+ h2  =
+ 
+  - 296840.  
+ 
+ h3  =
+ 
+  - 395720.  
+ 
+ t2  =
+ 
+    400.  
+ 
+ t1  =
+ 
+    25.  
+ 
+ 
+ Hr  =
+ 
+  - 593280.  
+ 
+ cp  =
+ 
+    1.059    0.967    0.714  
+ 
+ n  =
+ 
+    82.76    11.    8.  
+ 
+ M  =
+ 
+    28.    32.    64.  
+ 
+ Ht  =
+ 
+    3159.9515  
+ 
+ Hre  =
+ 
+    1184981.8  
+ 
+ Hpr  =
+ 
+    1778261.8  
+ 
+ Tf  =
+ 
+    570.2115  
+ 
+ 
+temperature of exit gases = 570 C 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.12/3_12.sce #
+ 
+ 
+ 
+ x  =
+ 
+    0.25  
+ 
+ Hr  =
+ 
+    1427800.  
+ 
+ ti  =
+ 
+    25.  
+ 
+ cp  =
+ 
+    1.24    2.39    1.11  
+ 
+ M  =
+ 
+    44.    18.    32.  
+ 
+ z  =
+ 
+    12.    3.    0.5  
+ 
+ r  =
+ 
+    4.186  
+ 
+ 
+ v  =
+ 
+    654.72    129.06    17.76  
+ 
+ v2  =
+ 
+    801.54  
+ 
+ T  =
+ 
+    1806.321  
+ 
+ 
+Theoretical temperature = 1806 C 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ T  =
+ 
+    500.  
+ 
+ Qr  =
+ 
+    5000000.  
+ 
+ T2  =
+ 
+    600.  
+ 
+ 
+ dSS  =
+ 
+    10000.  
+ 
+ dSS2  =
+ 
+  - 8333.3333  
+ 
+ Ds  =
+ 
+    1666.6667  
+ 
+ 
+Entropy change of the system = 10000 kJ/K 
+
+ Entropy change of the surroundings = -8333 kJ/K 
+
+ Entropy change if the universe = 1666 kJ/K 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    2.758  
+ 
+ p2  =
+ 
+    0.552  
+ 
+ T1  =
+ 
+    700.  
+ 
+ T2  =
+ 
+    700.  
+ 
+ n  =
+ 
+    1.  
+ 
+ R  =
+ 
+    8.3143  
+ 
+ Cv  =
+ 
+    21.  
+ 
+ Cp  =
+ 
+    29.3  
+ 
+ 
+ dsa  =
+ 
+    13.375323  
+ 
+ T3  =
+ 
+    437.5  
+ 
+ dsb  =
+ 
+  - 9.8700762  
+ 
+ T4  =
+ 
+    350.  
+ 
+ dsc  =
+ 
+  - 6.5381061  
+ 
+ T5  =
+ 
+    634.  
+ 
+ dsd  =
+ 
+    0.  
+ 
+ T6  =
+ 
+    700.  
+ 
+ dse  =
+ 
+    2.9016195  
+ 
+ dstotal  =
+ 
+  - 0.1312402  
+ 
+ 
+Entropy change in case a = 13.375 kJ/kmol K 
+
+ Entropy change in case b = -9.870 kJ/kmol K 
+
+ Entropy change in case c = -6.538 kJ/kmol K 
+
+ Entropy change in case d = 0.000 kJ/kmol K 
+
+ Entropy change in case e = 2.902 kJ/kmol K 
+
+ Entropy change in total process = -0.131 kJ/kmol K 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.3/4_3.sce #
+ 
+ 
+ 
+ 
+ ratio  =
+ 
+    0.5  
+ 
+ R  =
+ 
+    8.314  
+ 
+ p1  =
+ 
+    0.5  
+ 
+ p2  =
+ 
+    0.1  
+ 
+ 
+ ya  =
+ 
+    0.3333333  
+ 
+ ds  =
+ 
+    5.2919788  
+ 
+ dss  =
+ 
+    13.380867  
+ 
+ 
+Entropy of mixing = 5.292 kJ/kmol K 
+
+ Total entropy change of the universe = 13.38 kJ/kmol K 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.4/4_4.sce #
+ 
+ 
+ 
+ s1  =
+ 
+    7.096  
+ 
+ s2  =
+ 
+    7.915  
+ 
+ s3  =
+ 
+    7.16  
+ 
+ s4  =
+ 
+    7.014  
+ 
+ s5  =
+ 
+    6.999  
+ 
+ 
+ dsa  =
+ 
+    0.819  
+ 
+ dsb  =
+ 
+  - 0.755  
+ 
+ dsc  =
+ 
+  - 0.146  
+ 
+ dsd  =
+ 
+  - 0.015  
+ 
+ dse  =
+ 
+    0.097  
+ 
+ dstotal  =
+ 
+    0.  
+ 
+ 
+Change in entropy in process a =0.819  kJ/kg K 
+
+ Change in entropy in process b =-0.755  kJ/kg K 
+
+ Change in entropy in process c =-0.146  kJ/kg K 
+
+ Change in entropy in process d =-0.015  kJ/kg K 
+
+ Change in entropy in process e =0.097  kJ/kg K 
+
+ Change in entropy in total process  =0.000  kJ/kg K 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.5/4_5.sce #
+ 
+ 
+ 
+ m1  =
+ 
+    5000.  
+ 
+ cp1  =
+ 
+    3.2  
+ 
+ cp2  =
+ 
+    4.186  
+ 
+ t1  =
+ 
+    220.  
+ 
+ t2  =
+ 
+    30.  
+ 
+ T1  =
+ 
+    210.  
+ 
+ T2  =
+ 
+    20.  
+ 
+ 
+ m2  =
+ 
+    3822.2647  
+ 
+ ds  =
+ 
+    208.96983  
+ 
+ 
+Change in entropy = 208 kJ/h K 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ 
+ s1  =
+ 
+    218.8  
+ 
+ s2  =
+ 
+    188.85  
+ 
+ s3  =
+ 
+    237.8  
+ 
+ s4  =
+ 
+    205.2  
+ 
+ 
+ ds  =
+ 
+    67.25  
+ 
+ 
+Entropy change  = 67.25 kJ/kmol K 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    6.  
+ 
+ p1  =
+ 
+    1.5  
+ 
+ p2  =
+ 
+    0.1  
+ 
+ t1  =
+ 
+    500.  
+ 
+ t2  =
+ 
+    140.8  
+ 
+ h1  =
+ 
+    3473.1  
+ 
+ h2  =
+ 
+    2758.1  
+ 
+ s1  =
+ 
+    7.5698  
+ 
+ s2  =
+ 
+    7.5698  
+ 
+ eff  =
+ 
+    0.85  
+ 
+ Ts  =
+ 
+    293.1  
+ 
+ 
+ Wideal  =
+ 
+  - 715.  
+ 
+ Ws  =
+ 
+  - 607.75  
+ 
+ dH  =
+ 
+    601.75  
+ 
+ H2  =
+ 
+    4074.85  
+ 
+ S2  =
+ 
+    7.8005  
+ 
+ ds  =
+ 
+    0.2307  
+ 
+ Wlost  =
+ 
+    73.61817  
+ 
+ 
+lost work = 73.6 kJ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.8/4_8.sce #
+ 
+ 
+ 
+ m  =
+ 
+    5000.  
+ 
+ cp  =
+ 
+    3.2  
+ 
+ Ts  =
+ 
+    303.1  
+ 
+ t1  =
+ 
+    220.  
+ 
+ t2  =
+ 
+    40.  
+ 
+ Q  =
+ 
+    2880000.  
+ 
+ 
+ Q  =
+ 
+  - 2880000.  
+ 
+ dss  =
+ 
+  - 7267.0298  
+ 
+ Wlost  =
+ 
+    677363.26  
+ 
+ eff  =
+ 
+    0.7648044  
+ 
+ 
+Lost work = 677363 kJ 
+
+ Efficiency = 0.765 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.9/4_9.sce #
+ 
+ 
+ 
+ R  =
+ 
+    8.314  
+ 
+ cp  =
+ 
+    35.58  
+ 
+ n  =
+ 
+    6.25  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T2  =
+ 
+    500.  
+ 
+ k  =
+ 
+    1.305  
+ 
+ P2  =
+ 
+    3.  
+ 
+ P1  =
+ 
+    0.5  
+ 
+ Ts  =
+ 
+    290.  
+ 
+ 
+ cv  =
+ 
+    27.266  
+ 
+ Wi  =
+ 
+    26581.688  
+ 
+ Hi  =
+ 
+    26581.688  
+ 
+ Ha  =
+ 
+    44475.  
+ 
+ eta  =
+ 
+    0.5976771  
+ 
+ dss1  =
+ 
+    3.2784875  
+ 
+ Wl1  =
+ 
+    950.76137  
+ 
+ dss2  =
+ 
+    113.59485  
+ 
+ dss3  =
+ 
+    153.36207  
+ 
+ dsst  =
+ 
+    266.95692  
+ 
+ Wl2  =
+ 
+    11532.494  
+ 
+ Wlost  =
+ 
+    12483.255  
+ 
+ 
+Thermodynamic efficiency = 0.598 
+
+ Net work lost = 12483 kJ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    673.  
+ 
+ T2  =
+ 
+    293.  
+ 
+ 
+ eta  =
+ 
+    0.5646360  
+ 
+ 
+Max efficiency  = 0.565 and an efficiency of 0.5 is possible 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.11/4_11.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    280.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ 
+ cop  =
+ 
+    14.  
+ 
+ 
+coefficient of performance = 14.0 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.12/4_12.sce #
+ 
+ 
+ 
+ P  =
+ 
+    2.  
+ 
+ T1  =
+ 
+    485.5  
+ 
+ T2  =
+ 
+    298.1  
+ 
+ h1  =
+ 
+    2799.5  
+ 
+ h2  =
+ 
+    104.89  
+ 
+ s1  =
+ 
+    6.3409  
+ 
+ s2  =
+ 
+    0.3674  
+ 
+ 
+ dh  =
+ 
+    2694.61  
+ 
+ ds  =
+ 
+    5.9735  
+ 
+ exergy  =
+ 
+    913.90965  
+ 
+ 
+exergy = 913.9 kJ/kg 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.13/4_13.sce #
+ 
+ 
+ 
+ R  =
+ 
+    8314.3  
+ 
+ T  =
+ 
+    700.  
+ 
+ T2  =
+ 
+    437.5  
+ 
+ T3  =
+ 
+    350.  
+ 
+ T4  =
+ 
+    350.  
+ 
+ p2  =
+ 
+    0.552  
+ 
+ p1  =
+ 
+    2.758  
+ 
+ p3  =
+ 
+    0.345  
+ 
+ cp  =
+ 
+    29.3  
+ 
+ R0  =
+ 
+    8.3143  
+ 
+ k  =
+ 
+    1.4  
+ 
+ n  =
+ 
+    1.  
+ 
+ P0  =
+ 
+    0.103  
+ 
+ 
+ cv  =
+ 
+    20.9857  
+ 
+ p3  =
+ 
+    0.4416  
+ 
+ p3  =
+ 
+    0.345  
+ 
+ T5  =
+ 
+    633.87527  
+ 
+ G1  =
+ 
+  - 9362725.8  
+ 
+ V700  =
+ 
+    10.543496  
+ 
+ Sa  =
+ 
+    209.  
+ 
+ Sb  =
+ 
+    199.2  
+ 
+ Sc  =
+ 
+    204.7  
+ 
+ S2  =
+ 
+  - 53681.25  
+ 
+ G2  =
+ 
+    51498.746  
+ 
+ saa  =
+ 
+    199.2  
+ 
+ sbb  =
+ 
+    192.6  
+ 
+ savg  =
+ 
+    195.9  
+ 
+ G3  =
+ 
+    17141.25  
+ 
+ pmid  =
+ 
+    0.4485  
+ 
+ vmid  =
+ 
+    2.88  
+ 
+ sav  =
+ 
+    192.7  
+ 
+ v4  =
+ 
+    8.435  
+ 
+ v5  =
+ 
+    1.911  
+ 
+ integ  =
+ 
+    8793.7763  
+ 
+ G4  =
+ 
+  - 45908.988  
+ 
+ Sav  =
+ 
+    194.25  
+ 
+ G5  =
+ 
+  - 12844.729  
+ 
+ Gt  =
+ 
+    523.55343  
+ 
+ 
+in case 1, Change in gibbs free energy = -9362 kJ 
+
+ in case 2, Change in gibbs free energy = 51498 kJ 
+
+ in case 3, Change in gibbs free energy = 17141 kJ 
+
+ in case 4, Change in gibbs free energy = -45908 kJ 
+
+ in case 5, Change in gibbs free energy = -12844 kJ 
+
+ Net change in gibbs energy = 523 kJ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.14/4_14.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.0023256  
+ 
+ pi  =
+ 
+    4.08  
+ 
+ pf  =
+ 
+    10.  
+ 
+ pf2  =
+ 
+    1.  
+ 
+ pii  =
+ 
+    0.1  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ n  =
+ 
+    0.0357143  
+ 
+ T  =
+ 
+    273.1  
+ 
+ 
+ logpr  =
+ 
+    0.2839078  
+ 
+ pr  =
+ 
+    1.3283105  
+ 
+ p  =
+ 
+    5.4195069  
+ 
+ logpr  =
+ 
+    0.0258098  
+ 
+ pr  =
+ 
+    1.0261458  
+ 
+ p2  =
+ 
+    4.1866747  
+ 
+ 
+Final pressure = 5.42 Mpa 
+
+ Final pressure in case 2 = 4.19 Mpa 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.15/4_15.sce #
+ 
+ 
+ 
+ Hvap  =
+ 
+    338.14  
+ 
+ T  =
+ 
+    409.3  
+ 
+ 
+ dss  =
+ 
+    0.8261422  
+ 
+ dg  =
+ 
+    0.  
+ 
+ 
+change in entropy and gibbs energy of system are 0.826 kJ/kg K and 0 kJ/kg respectivey 
+
+ change in entropy and gibbs energy of universe are -0.826 kJ/kg K and 0 kJ/kg respectivey 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.16/4_16.sce #
+ 
+ 
+ 
+ T  =
+ 
+    373.1  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ Pd  =
+ 
+    101300.  
+ 
+ P  =
+ 
+    10.  
+ 
+ p3  =
+ 
+    5000000.  
+ 
+ vf  =
+ 
+    0.0373  
+ 
+ a  =
+ 
+    424.447  
+ 
+ 
+ Vd  =
+ 
+    30.62256  
+ 
+ V  =
+ 
+    0.5  
+ 
+ dss  =
+ 
+    2428.5056  
+ 
+ dhh  =
+ 
+    2299.8533  
+ 
+ 
+Change in entropy = 2.4285 kJ/kmol K 
+
+ change in enthalpy= 2299 kJ/kmol 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.18/4_18.sce #
+ 
+ 
+ 
+ Tc  =
+ 
+    647.3  
+ 
+ dh  =
+ 
+    1.1  
+ 
+ Db  =
+ 
+  - 2.  
+ 
+ v2  =
+ 
+    0.234  
+ 
+ v1  =
+ 
+    0.27  
+ 
+ 
+ dh2  =
+ 
+    1.172  
+ 
+ dhh  =
+ 
+    758.6356  
+ 
+ dhbar  =
+ 
+    176.17204  
+ 
+ 
+ From steam tables,   
+ 
+ h1  =
+ 
+    3777.5  
+ 
+ h2  =
+ 
+    3928.2  
+ 
+ dhs  =
+ 
+    150.7  
+ 
+ err  =
+ 
+    0.1690248  
+ 
+ 
+Enthalpy departure = 176 kJ/kg 
+
+ Percentage error = 16.9  
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.19/4_19.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.3448  
+ 
+ R  =
+ 
+    8.3143  
+ 
+ Tc  =
+ 
+    647.3  
+ 
+ 
+ 
+ From charts of entropy   
+ 
+ h0  =
+ 
+    0.57  
+ 
+ h1  =
+ 
+    0.05  
+ 
+ h2  =
+ 
+    0.58724  
+ 
+ h3  =
+ 
+    3160.4355  
+ 
+ dh  =
+ 
+  - 3160.4355  
+ 
+ 
+Enthalpy departure = -3160 kJ/kmol 
+ 
+ The answer is a bit different due to rounding off error in the textbook   
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.20/4_20.sce #
+ 
+ 
+ 
+ ta  =
+ 
+    310.  
+ 
+ pa  =
+ 
+    80.  
+ 
+ r  =
+ 
+    10.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    8.3143  
+ 
+ n  =
+ 
+    0.1724138  
+ 
+ cv  =
+ 
+    20.93  
+ 
+ 
+ Qab  =
+ 
+    0.  
+ 
+ tb  =
+ 
+    778.68479  
+ 
+ va  =
+ 
+    32.217912  
+ 
+ vb  =
+ 
+    3.2217912  
+ 
+ pb  =
+ 
+    2009.5091  
+ 
+ Wab  =
+ 
+  - 1679.6491  
+ 
+ vc  =
+ 
+    3.2217912  
+ 
+ Qbc  =
+ 
+    500.  
+ 
+ Wbc  =
+ 
+    0.  
+ 
+ tc  =
+ 
+    917.24189  
+ 
+ pc  =
+ 
+    2367.0758  
+ 
+ Qcd  =
+ 
+    0.  
+ 
+ td  =
+ 
+    365.16057  
+ 
+ vd  =
+ 
+    32.217912  
+ 
+ pd  =
+ 
+    94.234987  
+ 
+ Wcd  =
+ 
+    1978.5214  
+ 
+ Wda  =
+ 
+    0.  
+ 
+ Qda  =
+ 
+  - 199.05359  
+ 
+ eta0  =
+ 
+    0.6018928  
+ 
+ 
+Efficiency of cycle = 0.602 
+ p  =
+ 
+    80.    2009.5091    2367.0758    94.234987  
+ 
+ t  =
+ 
+    310.    778.68479    917.24189    365.16057  
+ 
+ Q  =
+ 
+    0.    500.    0.  - 199.05359  
+ 
+ W  =
+ 
+  - 1679.6491    0.    1978.5214    0.  
+ 
+ 
+ Pressure (kPa) =    
+ 
+ p  =
+ 
+    80.    2010.    2367.    94.23  
+ 
+ 
+    80.    2010.    2367.    94.23  
+ 
+ 
+ Temperature (K)=    
+ 
+ t  =
+ 
+    310.    778.7    917.2    365.2  
+ 
+ 
+    310.    778.7    917.2    365.2  
+ 
+ 
+ Heat (kJ)=    
+ 
+ Q  =
+ 
+    0.    500.    0.  - 199.1  
+ 
+ 
+    0.    500.    0.  - 199.1  
+ 
+ 
+ Work done (kJ) =    
+ 
+ W  =
+ 
+  - 1680.    0.    1979.    0.  
+ 
+ 
+  - 1680.    0.    1979.    0.  
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.21/4_21.sce #
+ 
+ 
+ 
+ ta  =
+ 
+    310.  
+ 
+ tc  =
+ 
+    917.3  
+ 
+ td  =
+ 
+    365.2  
+ 
+ n  =
+ 
+    0.602  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ lntb  =
+ 
+    1.7946877  
+ 
+ tb  =
+ 
+    818.23324  
+ 
+ rc  =
+ 
+    11.318492  
+ 
+ 
+Temperature at B = 818.2 K 
+
+ Compression ratio = 11  
+ 
+ The answer given in textbook for rc is wrong. please check using a calculator   
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.22/4_22.sce #
+ 
+ 
+ 
+ pr  =
+ 
+    4.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ ta  =
+ 
+    298.  
+ 
+ pa  =
+ 
+    0.1  
+ 
+ pdr  =
+ 
+    0.01  
+ 
+ tc  =
+ 
+    900.  
+ 
+ pri  =
+ 
+    0.005  
+ 
+ 
+ pb  =
+ 
+    0.4  
+ 
+ nji  =
+ 
+    0.3270499  
+ 
+ tb  =
+ 
+    442.8263  
+ 
+ pc  =
+ 
+    0.39  
+ 
+ pd  =
+ 
+    0.105  
+ 
+ td  =
+ 
+    618.61578  
+ 
+ 
+ p  =
+ 
+    0.1    0.4    0.39    0.105  
+ 
+ t  =
+ 
+    298.    442.8263    900.    618.61578  
+ 
+ideal thermal efficiency = 0.327  
+ 
+ pressure (Mpa) =    
+ 
+ p  =
+ 
+    0.1    0.4    0.39    0.105  
+ 
+ 
+    0.1    0.4    0.39    0.105  
+ 
+ 
+ temperature (K) =    
+ 
+ t  =
+ 
+    298.    442.8    900.    618.6  
+ 
+ 
+    298.    442.8    900.    618.6  
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.23.a/4_23a.sce #
+ 
+ 
+ 
+ sd  =
+ 
+    4.9269  
+ 
+ sf  =
+ 
+    1.1453  
+ 
+ sg  =
+ 
+    7.532  
+ 
+ hf  =
+ 
+    359.86  
+ 
+ hg  =
+ 
+    2653.5  
+ 
+ hd  =
+ 
+    2409.7  
+ 
+ 
+ x  =
+ 
+    0.4078945  
+ 
+ he  =
+ 
+    1717.9368  
+ 
+ etar  =
+ 
+    0.3374718  
+ 
+ 
+Thermal efficiency = 0.3375 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.23.b/4_23b.sce #
+ 
+ 
+ 
+ sd  =
+ 
+    6.7039  
+ 
+ sf  =
+ 
+    1.1453  
+ 
+ sg  =
+ 
+    7.532  
+ 
+ hf  =
+ 
+    359.86  
+ 
+ hg  =
+ 
+    2653.5  
+ 
+ hd  =
+ 
+    3717.9  
+ 
+ 
+ x  =
+ 
+    0.1296601  
+ 
+ he  =
+ 
+    2356.1065  
+ 
+ etar  =
+ 
+    0.4055323  
+ 
+ 
+Thermal efficiency = 0.4055 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.24/4_24.sce #
+ 
+ 
+ 
+ ha  =
+ 
+    2510.6  
+ 
+ hd  =
+ 
+    125.78  
+ 
+ 
+ kg  =
+ 
+    419.31886  
+ 
+ 
+circulation rate = 419 kg steam/h 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.25/4_25.sce #
+ 
+ 
+ 
+ tin  =
+ 
+    298.  
+ 
+ tout  =
+ 
+    273.  
+ 
+ tout2  =
+ 
+    308.  
+ 
+ tin2  =
+ 
+    294.  
+ 
+ 
+ eta1  =
+ 
+    0.0838926  
+ 
+ eta2  =
+ 
+    0.0476190  
+ 
+ 
+Efficiency in case 1 = 0.084 
+
+ efficiency in case 2 = 0.048 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.26/4_26.sce #
+ 
+ 
+ 
+ ma  =
+ 
+    500.  
+ 
+ cp1  =
+ 
+    3.2  
+ 
+ ta  =
+ 
+    20.  
+ 
+ mb  =
+ 
+    200.  
+ 
+ mc  =
+ 
+    300.  
+ 
+ cp2  =
+ 
+    2.8  
+ 
+ tc  =
+ 
+    80.  
+ 
+ tb  =
+ 
+    80.  
+ 
+ me  =
+ 
+    50.  
+ 
+ te  =
+ 
+    120.  
+ 
+ td  =
+ 
+    120.  
+ 
+ hg  =
+ 
+    503.7  
+ 
+ he  =
+ 
+    2706.3  
+ 
+ 
+ Ws  =
+ 
+    25810.  
+ 
+ 
+Net work done = 25810 kJ/h 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.27/4_27.sce #
+ 
+ 
+ 
+ hc  =
+ 
+    150.  
+ 
+ he  =
+ 
+  - 115.  
+ 
+ hg  =
+ 
+    168.  
+ 
+ 
+ frac  =
+ 
+    0.0636042  
+ 
+ 
+Fraction of solid = 0.064 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH4/EX4.28/4_28.sce #
+ 
+ 
+ 
+ H  =
+ 
+    2696.5  
+ 
+ hg  =
+ 
+    2706.7  
+ 
+ hf  =
+ 
+    504.7  
+ 
+ 
+ x  =
+ 
+    0.9953678  
+ 
+ x2  =
+ 
+    1.  
+ 
+ 
+In case 1, fraction of vapor = 0.995 
+
+ In case 2, fraction of vapor = 1.000 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH5/EX5.5/5_5.sce #
+ 
+ 
+ 
+ 
+ R  =
+ 
+    8314.3  
+ 
+ b  =
+ 
+    0.0306  
+ 
+ a  =
+ 
+    548000.  
+ 
+ T  =
+ 
+    973.1  
+ 
+ P  =
+ 
+    25000000.  
+ 
+ 
+ Vi  =
+ 
+    0.3236258  
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+    0.2857247               
+    0.0342505 + 0.0342702i  
+    0.0342505 - 0.0342702i  
+ 
+ volume  =
+ 
+    0.2857247  
+ 
+ dH  =
+ 
+    2865411.7  
+ 
+ 
+Change in enthalpy  = 2.87e+06 J/kmol 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH7/EX7.2/7_2.sce #
+ 
+ 
+ 
+ T  =
+ 
+    154.5  
+ 
+ P  =
+ 
+    8620000.  
+ 
+ Tc  =
+ 
+    135.  
+ 
+ T0  =
+ 
+    273.1  
+ 
+ Pc  =
+ 
+    3648000.  
+ 
+ w  =
+ 
+    0.1756  
+ 
+ V  =
+ 
+    0.154  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ 
+ Tr  =
+ 
+    1.0477824  
+ 
+ Pr  =
+ 
+    2.3629386  
+ 
+ Z  =
+ 
+    0.3733916  
+ 
+ a  =
+ 
+    1301541.7  
+ 
+ b  =
+ 
+    0.0805853  
+ 
+ A  =
+ 
+    0.8876435  
+ 
+ B  =
+ 
+    0.1953889  
+ 
+ lnphi  =
+ 
+  - 0.8126326  
+ 
+ phi  =
+ 
+    0.4436885  
+ 
+ f  =
+ 
+    3824594.7  
+ 
+ 
+fugacity = 3824 kPa 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH7/EX7.3/7_3.sce #
+ 
+ 
+ 
+ T  =
+ 
+    154.5  
+ 
+ P  =
+ 
+    8620000.  
+ 
+ Tc  =
+ 
+    135.  
+ 
+ T0  =
+ 
+    273.1  
+ 
+ Pc  =
+ 
+    3648000.  
+ 
+ w  =
+ 
+    0.1756  
+ 
+ V  =
+ 
+    0.154  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ D  =
+ 
+    0.35  
+ 
+ Vc  =
+ 
+    0.263  
+ 
+ 
+ Tr  =
+ 
+    1.0477824  
+ 
+ Pr  =
+ 
+    2.3629386  
+ 
+ Zc  =
+ 
+    0.2827602  
+ 
+ phi1  =
+ 
+    0.44  
+ 
+ phi2  =
+ 
+    0.4445481  
+ 
+ f  =
+ 
+    3832004.5  
+ 
+ 
+fugacity = 3832 kPa 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH7/EX7.4/7_4.sce #
+ 
+ 
+ 
+ f0  =
+ 
+    0.7  
+ 
+ 
+ V  =
+ 
+    0.051  
+ 
+ P1  =
+ 
+    0.77  
+ 
+ P2  =
+ 
+    10.  
+ 
+ R  =
+ 
+    8314.3  
+ 
+ T  =
+ 
+    298.  
+ 
+ 
+ lnr  =
+ 
+    0.1899896  
+ 
+ f  =
+ 
+    0.8464659  
+ 
+ 
+Fugacity = 0.846 Mpa 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH7/EX7.5/7_5.sce #
+ 
+ 
+ 
+ Pt  =
+ 
+    0.1013  
+ 
+ ya  =
+ 
+    0.605  
+ 
+ P1  =
+ 
+    0.1373  
+ 
+ P2  =
+ 
+    0.06  
+ 
+ xa  =
+ 
+    0.4  
+ 
+ 
+The system is not ideal 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH7/EX7.6/7_6.sce #
+ 
+ 
+ 
+ Y  =
+ 
+    0.06  
+ 
+ X  =
+ 
+    0.0012  
+ 
+ P  =
+ 
+    2.53  
+ 
+ 
+ y  =
+ 
+    0.0566038  
+ 
+ x  =
+ 
+    0.0011986  
+ 
+ H  =
+ 
+    119.48283  
+ 
+ 
+Henrys law constant = 119.48 Mpa 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH7/EX7.7/7_7.sce #
+ 
+ 
+ 
+ Hi  =
+ 
+    55.  
+ 
+ Pi  =
+ 
+    11.8  
+ 
+ xi  =
+ 
+    0.514  
+ 
+ H2  =
+ 
+    18.1  
+ 
+ H3  =
+ 
+    26.9  
+ 
+ Pi2  =
+ 
+    17.4  
+ 
+ 
+ ai  =
+ 
+    0.2145455  
+ 
+ gam  =
+ 
+    0.4174036  
+ 
+ a2  =
+ 
+    0.6519337  
+ 
+ gam2  =
+ 
+    1.2683535  
+ 
+ a3  =
+ 
+    0.6468401  
+ 
+ gam3  =
+ 
+    1.3309468  
+ 
+ 
+ 
+ part a   
+ 
+Activity of acetic acid = 0.2145  
+
+ Activity coefficient  = 0.4174  
+ 
+ 
+ part b   
+ 
+Activity of acetic acid = 0.6519  
+
+ Activity coefficient  = 1.2684  
+ 
+ 
+ part c   
+ 
+Activity of toluene = 0.6468  
+
+ Activity coefficient  = 1.3309  
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.1/8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ part a   
+ 
+degrees of freedom = 2  
+ 
+ part b   
+ 
+degrees of freedom = 3  
+ 
+ part c   
+ 
+degrees of freedom = 2  
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.2/8_2.sce #
+ 
+ 
+ 
+ T  =
+ 
+    95.  
+ 
+ P  =
+ 
+    1013.  
+ 
+ Tc  =
+ 
+    135.  
+ 
+ Pc  =
+ 
+    3648.  
+ 
+ T0  =
+ 
+    273.1  
+ 
+ D  =
+ 
+    0.3  
+ 
+ P0  =
+ 
+    1800.  
+ 
+ D2  =
+ 
+    0.42  
+ 
+ 
+ Zc  =
+ 
+    0.283  
+ 
+ Tr  =
+ 
+    0.9019848  
+ 
+ Pr  =
+ 
+    0.2776864  
+ 
+ phic  =
+ 
+    0.88  
+ 
+ phi2  =
+ 
+    0.8879381  
+ 
+ Prd  =
+ 
+    0.4934211  
+ 
+ phi3  =
+ 
+    0.78  
+ 
+ phi4  =
+ 
+    0.7898682  
+ 
+ gl  =
+ 
+    0.6406562  
+ 
+ 
+equation is gl = 0.641 *(y/x) 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.3/8_3.sce #
+ 
+ 
+ 
+ ye  =
+ 
+    0.434  
+ 
+ Pt  =
+ 
+    40.25  
+ 
+ xe  =
+ 
+    0.616  
+ 
+ Pe1  =
+ 
+    22.9  
+ 
+ Pe2  =
+ 
+    29.6  
+ 
+ 
+ ge  =
+ 
+    1.2383386  
+ 
+ gb  =
+ 
+    2.0042846  
+ 
+ E  =
+ 
+    0.8509586  
+ 
+ B  =
+ 
+    0.6732732  
+ 
+ xe2  =
+ 
+    0.4  
+ 
+ xb2  =
+ 
+    0.6  
+ 
+ lnge2  =
+ 
+    0.2506353  
+ 
+ lngb2  =
+ 
+    0.1407916  
+ 
+ ge2  =
+ 
+    1.7808827  
+ 
+ gb2  =
+ 
+    1.3829028  
+ 
+ Pt1  =
+ 
+    40.782213  
+ 
+ Pt2  =
+ 
+    40.933922  
+ 
+ 
+Total pressure in case 1  = 40.78 kPa and in case 2 = 40.93 kPa 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.4/8_4.sce #
+ 
+ 
+ 
+ k4  =
+ 
+    1.8  
+ 
+ k5  =
+ 
+    0.8  
+ 
+ 
+ A  =
+ 
+    1.8    0.8  
+    1.     1.   
+ 
+ b  =
+ 
+    1.  
+    1.  
+ 
+ C  =
+ 
+    0.2  
+    0.8  
+ 
+ x4  =
+ 
+    0.2  
+ 
+ x5  =
+ 
+    0.8  
+ 
+ y4  =
+ 
+    0.36  
+ 
+ y5  =
+ 
+    0.64  
+ 
+ 
+Vapor and liquid mole fractions of component 1 = 0.36 and 0.20 respectively 
+
+ Vapor and liquid mole fractions of component 2 = 0.64 and 0.80 respectively 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.5/8_5.sce #
+ 
+ 
+ 
+ v1  =
+ 
+    81.  
+ 
+ v2  =
+ 
+    97.  
+ 
+ d1  =
+ 
+    9.2  
+ 
+ d2  =
+ 
+    8.6  
+ 
+ R  =
+ 
+    1.987  
+ 
+ T  =
+ 
+    373.1  
+ 
+ 
+ d  =
+ 
+    8.9  
+ 
+ lng1  =
+ 
+    0.0098334  
+ 
+ lng2  =
+ 
+    0.0117758  
+ 
+ g1  =
+ 
+    1.0098819  
+ 
+ g2  =
+ 
+    1.0118454  
+ 
+ 
+Activity coeffecients of components are 1.010 and 1.012 respectively 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.6/8_6.sce #
+ 
+ 
+ 
+ xe  =
+ 
+    0.3  
+ 
+ xe2  =
+ 
+    0.9  
+ 
+ Pe0  =
+ 
+    810.  
+ 
+ Pa0  =
+ 
+    470.  
+ 
+ ge  =
+ 
+    1.85  
+ 
+ ge2  =
+ 
+    1.05  
+ 
+ ga  =
+ 
+    1.15  
+ 
+ ga2  =
+ 
+    3.  
+ 
+ Pt  =
+ 
+    820.  
+ 
+ Pt2  =
+ 
+    900.  
+ 
+ 
+ ye  =
+ 
+    0.5482317  
+ 
+ ya  =
+ 
+    0.4614024  
+ 
+ yt  =
+ 
+    1.0096341  
+ 
+ ye2  =
+ 
+    0.5430004  
+ 
+ ya2  =
+ 
+    0.4569996  
+ 
+ ye3  =
+ 
+    0.8505  
+ 
+ ya3  =
+ 
+    0.1566667  
+ 
+ yt2  =
+ 
+    1.0096341  
+ 
+ ye4  =
+ 
+    0.8423843  
+ 
+ ya4  =
+ 
+    0.1551717  
+ 
+ 
+In case 1, ye = 0.543 and ya = 0.457 
+
+ In case 1, ye = 0.842 and ya = 0.155 
+ 
+ The calculations of ya in case 1 in textbook is wrong. please use a calculator   
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.7/8_7.sce #
+ 
+ 
+ 
+ m1  =
+ 
+    121.  
+ 
+ m2  =
+ 
+    18.  
+ 
+ p1  =
+ 
+    0.0042  
+ 
+ p2  =
+ 
+    0.0858  
+ 
+ 
+ massfrac  =
+ 
+    0.2475884  
+ 
+ 
+mass fractions of DMA and water are 0.248 and 0.752 respectively 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.9/8_9.sce #
+ 
+ 
+ 
+ FR  =
+ 
+    25.  
+ 
+ FE  =
+ 
+    19.  
+ 
+ bf  =
+ 
+    130.  
+ 
+ af  =
+ 
+    85.  
+ 
+ 
+ law  =
+ 
+    1.3157895  
+ 
+ x1  =
+ 
+    0.3  
+ 
+ x2  =
+ 
+    0.4333333  
+ 
+ ER  =
+ 
+    3.0833333  
+ 
+ e  =
+ 
+    0.5    0.1    0.9  
+ 
+ r  =
+ 
+    0.28    0.96    0.04  
+ 
+ et  =
+ 
+    1.5  
+ 
+ rt  =
+ 
+    1.28  
+ 
+ ett  =
+ 
+    0.3333333    0.0666667    0.6  
+ 
+ rtt  =
+ 
+    0.21875    0.75    0.03125  
+ 
+ 
+ 
+ the compositions of raffinate are    
+ 
+ 
+    0.21875    0.75    0.03125  
+ 
+ 
+ the compositions of extract are   
+ 
+ 
+    0.3333333    0.0666667    0.6  
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.10.b/8_10b.sce #
+ 
+ 
+ 
+ v1  =
+ 
+    0.1316  
+ 
+ v2  =
+ 
+    0.2941  
+ 
+ x1  =
+ 
+    0.5  
+ 
+ x2  =
+ 
+    0.2  
+ 
+ x3  =
+ 
+    0.8  
+ 
+ d1  =
+ 
+    14.87  
+ 
+ d2  =
+ 
+    16.34  
+ 
+ 
+ vm  =
+ 
+    0.1641  
+ 
+ phi1  =
+ 
+    0.6415600  
+ 
+ phi2  =
+ 
+    0.3584400  
+ 
+ Hl2  =
+ 
+    81.544934  
+ 
+ 
+ case 2   
+ 
+enthalpy = 81.5 kJ/mol 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.10.c/8_10c.sce #
+ 
+ 
+ 
+ v1  =
+ 
+    0.1316  
+ 
+ v2  =
+ 
+    0.2941  
+ 
+ x1  =
+ 
+    0.5  
+ 
+ x2  =
+ 
+    0.2  
+ 
+ x3  =
+ 
+    0.8  
+ 
+ d1  =
+ 
+    14.87  
+ 
+ d2  =
+ 
+    16.34  
+ 
+ 
+ vm  =
+ 
+    0.2616  
+ 
+ phi1  =
+ 
+    0.1006116  
+ 
+ phi2  =
+ 
+    0.8993884  
+ 
+ Hl3  =
+ 
+    51.152613  
+ 
+ 
+ case 3   
+ 
+enthalpy = 51.2 kJ/mol 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH8/EX8.10.a/8_10.sce #
+ 
+ 
+ 
+ v1  =
+ 
+    0.1316  
+ 
+ v2  =
+ 
+    0.2941  
+ 
+ x1  =
+ 
+    0.5  
+ 
+ x2  =
+ 
+    0.2  
+ 
+ x3  =
+ 
+    0.8  
+ 
+ d1  =
+ 
+    14.87  
+ 
+ d2  =
+ 
+    16.34  
+ 
+ 
+ vm  =
+ 
+    0.21285  
+ 
+ phi1  =
+ 
+    0.3091379  
+ 
+ phi2  =
+ 
+    0.6908621  
+ 
+ Hl1  =
+ 
+    98.231763  
+ 
+ 
+ case 1   
+ 
+enthalpy = 98.2 kJ/mol 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.1.a/9_1a.sce #
+ 
+ 
+ 
+ g11  =
+ 
+    178900.  
+ 
+ g12  =
+ 
+    207037.  
+ 
+ g21  =
+ 
+    211852.  
+ 
+ g22  =
+ 
+    228097.  
+ 
+ 
+ dG  =
+ 
+    32952.  
+ 
+ 
+Standard free energy change = 32952 kJ/kmol 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.1.b/9_1b.sce #
+ 
+ 
+ 
+ m1  =
+ 
+    54.1  
+ 
+ m2  =
+ 
+    56.1  
+ 
+ m3  =
+ 
+    2.  
+ 
+ cp1  =
+ 
+    2.122  
+ 
+ cp2  =
+ 
+    2.213  
+ 
+ cp3  =
+ 
+    14.499  
+ 
+ hf1  =
+ 
+    110200.  
+ 
+ hf2  =
+ 
+  - 126.  
+ 
+ T  =
+ 
+    700.  
+ 
+ Ts  =
+ 
+    298.  
+ 
+ 
+ hf  =
+ 
+    110326.  
+ 
+ cpn  =
+ 
+    19.6489  
+ 
+ h700  =
+ 
+    118224.86  
+ 
+ s298  =
+ 
+    103.7  
+ 
+ s700  =
+ 
+    120.4799  
+ 
+ G700  =
+ 
+    33888.926  
+ 
+ 
+Change in gibbs energy = 33888 kJ/kmol 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.2/9_2.sce #
+ 
+ 
+ 
+ g1  =
+ 
+    150670.  
+ 
+ g2  =
+ 
+    71500.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ Ts  =
+ 
+    298.  
+ 
+ T  =
+ 
+    700.  
+ 
+ 
+ G  =
+ 
+    79170.  
+ 
+ G2  =
+ 
+    33875.  
+ 
+ K1  =
+ 
+    1.325D-14  
+ 
+ K2  =
+ 
+    0.0029657  
+ 
+ 
+In case 1, equilibrium constant = 1.33e-14 
+
+ In case 2, equilibrium constant = 0.00297 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.3/9_3.sce #
+ 
+ 
+ 
+ R  =
+ 
+    8.3143  
+ 
+ T1  =
+ 
+    1273.  
+ 
+ T2  =
+ 
+    2273.  
+ 
+ k2  =
+ 
+    0.0018  
+ 
+ A  =
+ 
+    123.94  
+ 
+ B  =
+ 
+    7.554  
+ 
+ C  =
+ 
+    0.008552  
+ 
+ D  =
+ 
+  - 0.0000133  
+ 
+ E  =
+ 
+    7.002D-09  
+ 
+ F  =
+ 
+    1.349D-12  
+ 
+ 
+ 
+ lnk  =
+ 
+    0.4759678  
+ 
+ k1  =
+ 
+    0.0011183  
+ 
+ 
+Equilibrium constant = 0.00112  
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.4.b/9_4b.sce #
+ 
+ 
+ 
+ G  =
+ 
+  - 30050.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ T  =
+ 
+    573.  
+ 
+ phi1  =
+ 
+    0.98  
+ 
+ phi2  =
+ 
+    0.915  
+ 
+ phi3  =
+ 
+    0.555  
+ 
+ 
+ lnk  =
+ 
+  - 6.3078279  
+ 
+ k  =
+ 
+    0.0018220  
+ 
+ kexp  =
+ 
+    0.0013260  
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+  - 0.0377905  
+    0.0351350  
+ 
+ x2  =
+ 
+    0.0351350  
+ 
+ 
+Mole fraction of HCN = 0.0351 
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.4.a/9_4.sce #
+ 
+ 
+ 
+ G  =
+ 
+  - 30050.  
+ 
+ R  =
+ 
+    8.314  
+ 
+ T  =
+ 
+    573.  
+ 
+ 
+ lnk  =
+ 
+  - 6.3078279  
+ 
+ k  =
+ 
+    0.0018220  
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+  - 0.0218078  
+    0.0208964  
+ 
+ x2  =
+ 
+    0.0208964  
+ 
+ 
+Mole fraction of HCN = 0.0209 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.5/9_5.sce #
+ 
+ 
+ 
+ kp  =
+ 
+    74.  
+ 
+ 
+ f  =
+ 
+    f   
+ 
+ vec  =
+ 
+    1.4730998  
+    1.0909775  
+    0.9335178  
+ 
+ fn  =
+ 
+    0.9335178  
+ 
+ 
+Fractional conversion = 0.934 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.6.a/9_6a.sce #
+ 
+ 
+ 
+ C  =
+ 
+    3.  
+ 
+ phi  =
+ 
+    3.  
+ 
+ R  =
+ 
+    1.  
+ 
+ Sc  =
+ 
+    0.  
+ 
+ 
+ 
+ V  =
+ 
+    1.  
+ 
+ 
+Degrees of freedom = 1  
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.6.b/9_6b.sce #
+ 
+ 
+ 
+ C  =
+ 
+    3.  
+ 
+ phi  =
+ 
+    1.  
+ 
+ R  =
+ 
+    1.  
+ 
+ Sc  =
+ 
+    1.  
+ 
+ 
+ 
+ V  =
+ 
+    2.  
+ 
+ 
+Degrees of freedom = 2  
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.6.c/9_6c.sce #
+ 
+ 
+ 
+ C  =
+ 
+    6.  
+ 
+ phi  =
+ 
+    1.  
+ 
+ R  =
+ 
+    3.  
+ 
+ Sc  =
+ 
+    0.  
+ 
+ 
+ 
+ V  =
+ 
+    4.  
+ 
+ 
+Degrees of freedom = 4  
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.7/9_7.sce #
+ 
+ 
+ 
+ a1  =
+ 
+    0.956  
+ 
+ y  =
+ 
+    0.014  
+ 
+ x  =
+ 
+    0.956  
+ 
+ M  =
+ 
+    18.  
+ 
+ z  =
+ 
+    0.475  
+ 
+ P  =
+ 
+    8.37  
+ 
+ 
+ m  =
+ 
+    0.8135751  
+ 
+ w  =
+ 
+    0.0856  
+ 
+ phi1  =
+ 
+  - 0.04  
+ 
+ phi2  =
+ 
+    0.06  
+ 
+ phi  =
+ 
+    0.9228604  
+ 
+ f  =
+ 
+    3.6690621  
+ 
+ K  =
+ 
+    0.2319448  
+ 
+ 
+Equilibrium constant = 0.232 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.9/9_9.sce #
+ 
+ 
+ 
+ y  =
+ 
+    0.18  
+ 
+ z  =
+ 
+    0.6  
+ 
+ 
+ mole  =
+ 
+    0.22    3.62    0.18    2.94    0.6  
+ 
+ s  =
+ 
+    7.56  
+ 
+ molef  =
+ 
+    0.0291005    0.4788360    0.0238095    0.3888889    0.0793651  
+ 
+ 
+ 
+ Product composition moles  =    
+ 
+ mole  =
+ 
+    0.22    3.62    0.18    2.94    0.6  
+ 
+ 
+    0.22    3.62    0.18    2.94    0.6  
+ 
+ 
+ Mole fraction =    
+ 
+ molef  =
+ 
+    0.029    0.479    0.024    0.389    0.079  
+ 
+ 
+    0.029    0.479    0.024    0.389    0.079  
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.10.a/9_10a.sce #
+ 
+ 
+ 
+ kp  =
+ 
+    1.09  
+ 
+ feed  =
+ 
+    1.    5.    0.    0.    0.  
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+  - 0.9185535 + 0.6971569i  
+  - 0.9185535 - 0.6971569i  
+    0.5550666 + 0.8162764i  
+    0.5550666 - 0.8162764i  
+    0.7269738               
+ 
+ x  =
+ 
+    0.7269738  
+ 
+ pro  =
+ 
+    0.2730262    3.5460524    0.7269738    2.9078952    0  
+ 
+ 
+ 
+ Equlibrium composition (moles)=    
+ 
+ pro  =
+ 
+    0.273    3.546    0.727    2.908    0  
+ 
+ 
+    0.273    3.546    0.727    2.908    0  
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH9/EX9.10.b/9_10b.sce #
+ 
+ 
+ 
+ kp  =
+ 
+    1.09  
+ 
+ kp2  =
+ 
+    0.154  
+ 
+ feed  =
+ 
+    1.    5.    0.    0.    0.  
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+  - 0.9185535 + 0.6971569i  
+  - 0.9185535 - 0.6971569i  
+    0.5550666 + 0.8162764i  
+    0.5550666 - 0.8162764i  
+    0.7269738               
+ 
+ x  =
+ 
+    0.7269738  
+ 
+ pro  =
+ 
+    0.2730262    3.5460524    0.7269738    2.9078952    0  
+ 
+ y  =
+ 
+    y   
+ 
+ vec2  =
+ 
+  - 1.70861    
+  - 1.0773758  
+  - 0.1721162  
+    0.0845639  
+ 
+ y  =
+ 
+    0.0845639  
+ 
+ pro2  =
+ 
+    0.1884623    3.5460524    0.6424099    3.077023    0.1691278  
+ 
+ z  =
+ 
+    z   
+ 
+ vec3  =
+ 
+  - 1.6670565 + 0.7075977i  
+  - 1.6670565 - 0.7075977i  
+  - 0.1766601 + 0.8050346i  
+  - 0.1766601 - 0.8050346i  
+  - 0.0343802               
+ 
+ z  =
+ 
+  - 0.0343802  
+ 
+ pro3  =
+ 
+    0.2228425    3.6148127    0.6080297    2.9395024    0.1691278  
+ 
+ w  =
+ 
+    w   
+ 
+ vec4  =
+ 
+  - 1.5936754  
+  - 1.3053856  
+  - 0.1359544  
+  - 0.0441722  
+ 
+ w  =
+ 
+  - 0.0441722  
+ 
+ w  =
+ 
+    0.01  
+ 
+ pro4  =
+ 
+    0.2128425    3.6148127    0.5980297    2.9595024    0.1891278  
+ 
+ 
+ 
+ feed =    
+ 
+ feed  =
+ 
+    1.    5.    0.    0.    0.  
+ 
+ 
+    1.    5.    0.    0.    0.  
+ 
+ 
+ After reactor 1,   
+ 
+ pro  =
+ 
+    0.273    3.546    0.727    2.908    0  
+ 
+ 
+    0.273    3.546    0.727    2.908    0  
+ 
+ 
+ After reactor 2,   
+ 
+ pro2  =
+ 
+    0.188    3.546    0.642    3.077    0.169  
+ 
+ 
+    0.188    3.546    0.642    3.077    0.169  
+ 
+ 
+ After reactor 3,   
+ 
+ pro3  =
+ 
+    0.223    3.615    0.608    2.94    0.169  
+ 
+ 
+    0.223    3.615    0.608    2.94    0.169  
+ 
+ 
+ After reactor 4   
+ 
+ pro4  =
+ 
+    0.213    3.615    0.598    2.96    0.189  
+ 
+ 
+    0.213    3.615    0.598    2.96    0.189  
+ 
+ 
+ The answers are a bit different due to rounding off error in textbook   
+ 
+ 

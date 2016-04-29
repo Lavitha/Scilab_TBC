@@ -1,0 +1,71 @@
+ERROR: Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.14/Ex5_14.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d_Mechanics_J._Katz_2783/Ex5_14');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      21 of exec file called by :    
+_J._Katz_2783/CH5/EX5.14/Ex5_14.sce',-1
+ 
+ERROR: Introductory_Fluid_Mechanics_J._Katz_2783/CH5/EX5.15/Ex5_15.sce
+[2J[0;0H 
+ 
+ 
+ D  =
+ 
+    1.  
+ 
+ alpha  =
+ 
+    0.5  
+ 
+ n  =
+ 
+    0.012  
+ 
+ 
+ R  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+U_av = (1/n)*(R_h^(2/3))*sqrt(tan(alpha));
+                        !       
+at line      14 of exec file called by :    
+_J._Katz_2783/CH5/EX5.15/Ex5_15.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d_Mechanics_J._Katz_2783/Ex5_15');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      11 of exec file called by :    
+_J._Katz_2783/CH5/EX5.15/Ex5_15.sce',-1
+ 

@@ -1,0 +1,2098 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 74
+
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH1/EX1.1/sadiku_1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Component of A along ay :    
+ 
+  - 4.  
+ 
+ 
+ 
+ magnitude is :   
+ 
+    35.74  
+ 
+ 
+ 
+ 
+ 
+ 
+ Unit Vector along C is :   
+ 
+    0.9113  - 0.1302    0.3906  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH1/EX1.2/sadiku_1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Position Vector of P is :   
+ 
+    0.    2.    4.  
+ 
+ 
+ 
+ Position Vector from P to Q is :   
+ 
+  - 3.  - 1.    1.  
+ 
+ 
+ 
+ distance between P and Q is :   
+ 
+    3.317  
+ 
+ 
+ 
+ Vectors parallel to PQ with magnitude of 10 :   
+ 
+  - 9.045  - 3.015    3.015  
+    9.045    3.015  - 3.015  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH1/EX1.3/sadiku_1_3.sce #
+ 
+ vb  =
+ 
+    7.071  - 7.071  
+ 
+ vm  =
+ 
+  - 1.414  - 1.414  
+ 
+ 
+ 
+ Velocity of man with respect to ground:   
+ 
+    5.657  - 8.485  
+ 
+ 
+Warning : redefining function: dir                     . Use funcprot(0) to avoid this message
+
+ dir  =
+ 
+  - 56.31  
+ 
+ 
+ Absolute velocity of man is:   
+ 
+    10.2  
+ 
+ 
+ Angle with east in radian:   
+ 
+  - 56.31  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH1/EX1.4/sadiku_1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Angle between A and B is :   
+ 
+    83.727712  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH1/EX1.5/sadiku_1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (P+Q)*(P-Q)=   
+ 
+    2.    12.    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q.R*P   
+ 
+    14.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P.Q*R   
+ 
+    14.  
+ 
+ 
+ 
+ det_R  =
+ 
+    3.7417  
+ 
+ 
+ 
+ sin of theta=   
+ 
+    0.5976  
+ 
+ 
+ 
+ 
+ 
+ 
+ P* Q*R=   
+ 
+    2.    3.    4.  
+ 
+ 
+ Unit Vector Perpendicular to Q & R   
+ 
+    0.7454    0.2981  - 0.5963  
+ 
+ 
+ 
+ 
+ Component of P along Q   
+ 
+    0.4444  - 0.2222    0.4444  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH1/EX1.7/sadiku_1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ P4  =
+ 
+    3.  - 1.    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.    0.    0.  
+ 
+ 
+ Since U is Zero so P1,P2,P3 are in straight line   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shortest Distance   
+ 
+    2.426  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH2/EX2.1/sadiku_2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cylindrical acordinate of P:   
+ 
+    6.3246  - 71.565    3.  
+ 
+ 
+ Spherical Cordinate of P:   
+ 
+    7.    64.623  - 71.565  
+ 
+ 
+ 
+ A in cylindrical cordinates   
+ 
+    0.9487  
+    6.0083  
+    0.      
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH2/EX2.2/sadiku_2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ B in cartesian cordinate   
+ 
+  - 2.    1.  - 0.000  
+ 
+ 
+ 
+ B in cylindrical cordinates   
+ 
+    2.467    1.    1.167  
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH2/EX2.3/sadiku_2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mod of (E*F)   
+ 
+    74.060786  
+ 
+ 
+ 
+ 
+ Component of E parallel to x=2 & z=3   
+ 
+  - 5.  
+ 
+ 
+ 
+ Angle which make E wid Z=3   
+ 
+    15.020257  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH2/EX2.4/sadiku_2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ D at P   
+ 
+  - 5.  - 0.043    100.  
+ 
+ Tangential component of D at P   
+ 
+    0.  - 0.043    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unit vector P perpendicular to D   
+ 
+  - 0.9988    0.  - 0.0499  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH3/EX3.1/sadiku_3_1.sce #
+ 
+ 
+ B1  =
+ 
+    0.    5.    0.  
+ B2  =
+ 
+    5.    1.5707963    0.  
+ C1  =
+ 
+    0.    5.    10.  
+ C2  =
+ 
+    5.    1.5707963    0.  
+ D1  =
+ 
+    5.    0.    10.  
+ D2  =
+ 
+    5.    0.    10.  
+ 
+ 
+ 
+    10.  
+ 
+ 
+ 
+    7.8539816  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH3/EX3.2/sadiku_3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  - 0.1666667  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH3/EX3.9/sadiku_3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C1=   
+ 
+    4.941343  
+ 
+ 
+ 
+ C2=   
+ 
+    4.941343  
+ 
+ 
+ Since C1=C2 hence stroke theorem is proved   
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.10/sadiku_4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V(1,0,1)(in kV)=   
+ 
+  - 5.872  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.12/sadiku_4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Work done in uJoule   
+ 
+    28.125  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.13/sadiku_4_13.sce #
+ 
+ 
+ p1  =
+ 
+  - 5.000D-09  
+ 
+ r1  =
+ 
+    2.  
+ r2  =
+ 
+  - 3.  
+ 
+ 
+ 
+  - 20.25  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.14/sadiku_4_14.sce #
+ 
+ 
+ 
+ Q1  =
+ 
+  - 0.000  
+ Q2  =
+ 
+    0.000  
+ Q3  =
+ 
+    0.000  
+ 
+ V1  =
+ 
+    63.  
+ V2  =
+ 
+    10.09  
+ 
+ 
+ 
+ Energy in nJ   
+ 
+    13.37  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.1/sadiku_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F(in mN)=   
+ 
+  - 6.512  - 3.713    7.509  
+ 
+ 
+ At that point E(in kV)=   
+ 
+  - 651.2  - 371.3    750.9  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.6/sadiku_4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E(in V) at (1,1,-1)=   
+ 
+  - 508.9    848.2  - 169.6  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.7/sadiku_4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flux density D(in microC) due to a point charge and a infinite line charge   
+ 
+    240.    0.    41.11111111  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH4/EX4.8/sadiku_4_8.sce #
+ 
+ 
+ r1  =
+ 
+    0.  
+ r2  =
+ 
+    1.  
+ z1  =
+ 
+  - 2.  
+ z2  =
+ 
+    2.  
+ q1  =
+ 
+    0.  
+ 
+ 
+ 
+ Total charge is =   
+ 
+    4.1887902  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.10/sadiku_5_10.sce #
+ 
+ 
+ 
+ 
+ Point(3,-2,2) is in conductor region hence E=D=   
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D=   
+ 
+    0.    2.    0.  
+ 
+ 
+ E=   
+ 
+    0.    1.13097D+11    0.  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.1/sadiku_5_1.sce #
+ 
+ 
+ 
+ 
+ J=1/r3(2cosP ar + sinP a)   
+ 
+ 
+ 
+ Current passing through Hemispherical shell   
+ 
+    31.415927  
+ 
+ 
+ 
+  Current through spherical shell=    
+ 
+    4.589D-15  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.2/sadiku_5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ charge(in nC) collected in 5 sec=   
+ 
+    100.  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.3/sadiku_5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) pv(in MC/m3)=   
+ 
+  - 16000.  
+ 
+ 
+ 
+ 
+ 
+ (b) J(in kA/m2)=   
+ 
+    500.  
+ 
+ 
+ 
+ 
+ 
+ (c) I(in A)=   
+ 
+    0.393  
+ 
+ 
+ 
+ 
+ (d) u(in m/s)=   
+ 
+  - 0.00003125  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.4/sadiku_5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R(in microohm)=   
+ 
+    973.9  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.6/sadiku_5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D(in nC/m^2)=   
+ 
+    225.5  
+ 
+ 
+ 
+ 
+ P(in nC/m^2)=   
+ 
+    137.1  
+ 
+ 
+ 
+ ps(in nC/m^2)=   
+ 
+    225.5  
+ 
+ 
+ 
+ pps(in nC/m^2)=   
+ 
+    137.1  
+ 
+ 
+ 
+ V(in V)=   
+ 
+    15.  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.7/sadiku_5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) pps(in pC/m^2)=   
+ 
+    13.12  
+ 
+ 
+ 
+ 
+ (b) F(in pN)(in the direction of ar)=   
+ 
+  - 1.263  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH5/EX5.9/sadiku_5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E2=   
+ 
+    5.  - 2.    4.  
+ 
+ 
+ 
+ 
+ Angle of E1 with interface=   
+ 
+    29.12  
+ 
+ 
+ 
+ Angle of E2 with interface=   
+ 
+    36.6  
+ 
+ 
+ 
+ 
+ Energy densities are wE1(in uJ)=   
+ 
+    672.  
+ 
+ 
+                      wE2(in uJ)=   
+ 
+    596.8  
+ 
+ 
+ 
+ We(in mJ)=   
+ 
+    4.775  
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH7/EX7.1/sadiku_7_1.sce #
+ 
+ 
+ a1  =
+ 
+    1.5707963  
+ a2  =
+ 
+    1.1902899  
+ p  =
+ 
+    5.  
+ 
+ 
+ 
+ H at (0,0,5) in mA    
+ 
+  - 59.108662  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH7/EX7.2/sadiku_7_2.sce #
+ 
+ 
+ a1  =
+ 
+    1.5707963  
+ a2  =
+ 
+    0.  
+ p  =
+ 
+    5.  
+ 
+ 
+ a2  =
+ 
+    0.  
+ a1  =
+ 
+    0.9272952  
+ p  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ H at (0,0,5) in mA    
+ 
+    38.197186    28.64789    23.873241  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH7/EX7.5/sadiku_7_5.sce #
+ 
+ 
+ i0  =
+ 
+  - 10.  
+ 
+ 
+ 
+ 
+ 
+ H at (1,1,1) =   
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ H at (0,-3,10 =)   
+ 
+    0.  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH7/EX7.7/sadiku_7_7.sce #
+ 
+ 
+ 
+ Vector potential A=-p^2/4   
+ 
+ Q  =
+ 
+    1.5707963  
+ p1  =
+ 
+    1.  
+ p2  =
+ 
+    2.  
+ z1  =
+ 
+    0.  
+ z2  =
+ 
+    5.  
+ 
+ 
+ 
+ Total magnetic flux=    
+ 
+    3.75  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH8/EX8.14/sadiku_8_14.sce #
+ 
+ 
+ p  =
+ 
+    0.1  
+ a  =
+ 
+    0.01  
+ Ur  =
+ 
+    1000.  
+ Uo  =
+ 
+    0.0000013  
+ n  =
+ 
+    200.  
+ 
+ 
+ 
+ 
+    3.9788736  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH8/EX8.15/sadiku_8_15.sce #
+ 
+ 
+ Uo  =
+ 
+    0.0000013  
+ Ur  =
+ 
+    50.  
+ l1  =
+ 
+    0.3  
+ s  =
+ 
+    0.001  
+ l3  =
+ 
+    0.09  
+ la  =
+ 
+    0.01  
+ B  =
+ 
+    1.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required current=    
+ 
+    44.165497  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH8/EX8.16/sadiku_8_16.sce #
+ 
+ 
+ m  =
+ 
+    400.  
+ g  =
+ 
+    9.8  
+ Ur  =
+ 
+    3000.  
+ Uo  =
+ 
+    0.0000013  
+ S  =
+ 
+    0.004  
+ la  =
+ 
+    0.0001  
+ li  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ No of turns=    
+ 
+    161.901  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH8/EX8.1/sadiku_8_1.sce #
+ 
+ 
+ m  =
+ 
+    2.  
+ q  =
+ 
+    3.  
+ v  =
+ 
+    4.    0.    3.  
+ E  =
+ 
+    12.    10.    0.  
+ 
+ 
+ Acceleration ofthe particle=    
+ 
+    18.    15.    0.  
+ 
+ 
+ 
+ 
+ 
+ Kinetic energy=    
+ 
+    718.  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH8/EX8.8/sadiku_8_8.sce #
+ 
+ 
+ 
+ H1  =
+ 
+  - 2.    6.    4.  
+ Uo  =
+ 
+    0.000  
+ 
+ 
+ 
+ 
+ M =    
+ 
+  - 8.    24.    16.  
+ 
+ 
+ 
+ B in uW/m^2   
+ 
+  - 12.57    37.7    25.13  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH9/EX9.5/sadiku_9_5.sce #
+ 
+ 
+ z3  =
+ 
+    i    
+ z4  =
+ 
+    3. + 4.i  
+ z5  =
+ 
+  - 1. + 6.i  
+ 
+ 
+ 
+ z1 =   
+ 
+    0.1621622 - 0.0270270i  
+ 
+ z7  =
+ 
+    1. + i    
+ 
+ 
+ 
+ z2 =    
+ 
+    0.2325015 + 0.3225786i  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH10/EX10.10/sadiku_10_10.sce #
+ 
+ 
+ kx  =
+ 
+    0.  
+ ky  =
+ 
+    0.866  
+ kz  =
+ 
+    0.5  
+ Eo  =
+ 
+    8.842D-12  
+ 
+ 
+ 
+ 
+ w im Mrad/sec   
+ 
+    299.9934  
+ 
+ 
+ 
+ lamda =    
+ 
+    6.2833235  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH10/EX10.2/sadiku_10_2.sce #
+ 
+ 
+ Ho  =
+ 
+    10.  
+ n  =
+ 
+    173.20508 + 100.i  
+ P  =
+ 
+    1.0471976  
+ b  =
+ 
+    0.5  
+ 
+ 
+ 
+ a=w*sqrt(u*e/2*(1+(c/(w*e)^2)^.5)-1)   
+ 
+ 
+ b=w*sqrt(u*e/2*(1+(c/(w*e)^2)^.5)+1)   
+ 
+ 
+ 
+ Value of alpha=   
+ 
+    0.2886751  
+ 
+ 
+ Skin depth =    
+ 
+    3.4641016  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH10/EX10.3/sadiku_10_3.sce #
+ 
+ 
+ B  =
+ 
+    1.  
+ n  =
+ 
+    188.49556  
+ Ur  =
+ 
+    1.  
+ Eo  =
+ 
+    8.842D-12  
+ 
+ 
+ 
+ Er =   
+ 
+    4.  
+ 
+ 
+ 
+ w in Mrad/sec   
+ 
+    150.  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH10/EX10.4/sadiku_10_4.sce #
+ 
+ 
+ c  =
+ 
+    3.  
+ w  =
+ 
+    1.000D+08  
+ Ur  =
+ 
+    20.  
+ Eo  =
+ 
+    8.842D-12  
+ Er  =
+ 
+    1.  
+ 
+ 
+ 
+ alpha = beta =   
+ 
+    61.399602  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH10/EX10.6/sadiku_10_6.sce #
+ 
+ 
+ a  =
+ 
+    0.002  
+ b  =
+ 
+    0.006  
+ t  =
+ 
+    0.001  
+ l  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ Resistance in mOhm   
+ 
+    3.588374  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH10/EX10.7/sadiku_10_7.sce #
+ 
+ 
+ a  =
+ 
+    0.  
+ b  =
+ 
+    0.8  
+ Eo  =
+ 
+    8.842D-12  
+ Uo  =
+ 
+    0.0000013  
+ Ur  =
+ 
+    1.  
+ 
+ 
+ 
+    14.59025  
+ 
+ 
+ 
+    98.696044  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.10/sadiku_11_10.sce #
+ 
+ 
+ 
+ Er  =
+ 
+    3.8  
+ 
+ 
+ 
+ 
+ The effective relative permittivity =    
+ 
+    3.131  
+ 
+ 
+ 
+ Character impedence of line   
+ 
+    30.08  
+ 
+ 
+ 
+ 
+ The wavelength of line at 10 GHz   
+ 
+    16.95  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.11/sadiku_11_11.sce #
+ 
+ 
+ h  =
+ 
+    1.  
+ w  =
+ 
+    0.8  
+ Er  =
+ 
+    6.6  
+ P  =
+ 
+    0.0001  
+ c  =
+ 
+    58000000.  
+ f  =
+ 
+    1.000D+10  
+ mu  =
+ 
+    0.0000013  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conduction Attenuation Constant =    
+ 
+    4.3548072  
+ 
+ 
+ 
+    0.0141421  
+ 
+ 
+ 
+ Dielectric Attenuation Constant =   
+ 
+    0.1769535  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.1/sadiku_11_1.sce #
+ 
+ 
+ 
+ R  =
+ 
+    0.  
+ G  =
+ 
+    0.  
+ a  =
+ 
+    0.  
+ Ro  =
+ 
+    70.  
+ B  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ Capacitance per meter of line in pF   
+ 
+    68.21  
+ 
+ 
+ 
+ Inductance per meter in nHz   
+ 
+    334.2  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.2/sadiku_11_2.sce #
+ 
+ 
+ Zo  =
+ 
+    60.  
+ a  =
+ 
+    0.02  
+ u  =
+ 
+    1.800D+08  
+ 
+ R  =
+ 
+    1.2  
+ 
+ R=   
+ 
+    1.2  
+ 
+ L  =
+ 
+    0.0000003  
+ 
+ L in nH=   
+ 
+    333.33333  
+ 
+ G  =
+ 
+    0.0003333  
+ 
+ G in micro S per meter =   
+ 
+    333.33333  
+ 
+ C  =
+ 
+    9.259D-11  
+ 
+ C in pF =   
+ 
+    92.592593  
+ 
+ 
+ l=   
+ 
+    1.8  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.3/sadiku_11_3.sce #
+ 
+ 
+ 
+ w  =
+ 
+   ******  
+ B  =
+ 
+    1.  
+ a  =
+ 
+    8.  
+ 
+ Zo  =
+ 
+    60. + 40.i  
+ Zg  =
+ 
+    40.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The input impdence =   
+ 
+    60.25 + 38.79i  
+ 
+ 
+ 
+ Sending end current in mA =   
+ 
+    86.76 - 33.57i  
+ 
+ 
+ 
+ 
+ 
+ 
+ Current at middle line in mA=    
+ 
+    6.616 - 34.29i  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.4/sadiku_11_4.sce #
+ 
+ 
+ 
+ l  =
+ 
+    30.  
+ Zo  =
+ 
+    50.  
+ f  =
+ 
+   ******  
+ Zl  =
+ 
+    60. + 40.i  
+ 
+ 
+ 
+ 
+ Reflection coefficient  =   
+ 
+    0.197 + 0.292i  
+ 
+ 
+ 
+ Standing wave ratio =   
+ 
+    2.088  
+ 
+ 
+    2.094  
+ 
+ 
+ 
+    23.97 + 1.352i  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.5/sadiku_11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T =   
+ 
+    0.506 + 0.424i  
+ 
+ 
+ 
+ s =   
+ 
+    4.878  
+ 
+ 
+ 
+ 
+ Load admittance in mS   
+ 
+    3.08 - 4.62i  
+ 
+ B  =
+ 
+    6.28  
+ 
+ 
+ 
+ 
+ Zin at .4 l from load   
+ 
+    21.96 + 47.61i  
+ 
+ B  =
+ 
+    6.283  
+ 
+ 
+ 
+ 
+ Zin at .6 l from load   
+ 
+    133.6 - 165.7i  
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.6/sadiku_11_6.sce #
+ 
+ 
+ s  =
+ 
+    2.  
+ l1  =
+ 
+    11.  
+ l2  =
+ 
+    19.  
+ ma  =
+ 
+    24.  
+ mi  =
+ 
+    16.  
+ u  =
+ 
+    3.000D+08  
+ 
+ 
+ 
+ Lamda =   
+ 
+    16.  
+ 
+ 
+ 
+ Frequency im MHz =   
+ 
+    18.75  
+ 
+ 
+ 
+ 
+ 
+ Zl =   
+ 
+    70. + 37.5i  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH11/EX11.8/sadiku_11_8.sce #
+ 
+ 
+ Zg  =
+ 
+    100.  
+ Zo  =
+ 
+    50.  
+ Zl  =
+ 
+    200.  
+ u  =
+ 
+    3.000D+08  
+ l  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH12/EX12.1/sadiku_12_1.sce #
+ 
+ 
+ a  =
+ 
+    0.025  
+ b  =
+ 
+    0.01  
+ c  =
+ 
+    0.  
+ Ur  =
+ 
+    1.  
+ Er  =
+ 
+    4.  
+ 
+ fc  =
+ 
+    0.  
+ m  =
+ 
+    0.  
+ 
+ 
+ Max value of n is =   
+ 
+    2.  
+ 
+ fc  =
+ 
+    0.  
+ m  =
+ 
+    0.  
+ 
+ 
+ Max value of m is =   
+ 
+    5.  
+ 
+ 
+ 
+ Transmission mode is possible   
+ 
+    1.    1.  
+ 
+ Transmission mode is possible   
+ 
+    2.    1.  
+ 
+ Transmission mode is possible   
+ 
+    3.    1.  
+ 
+ Transmission mode is possible   
+ 
+    4.    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH12/EX12.3/sadiku_12_3.sce #
+ 
+ 
+ 
+ a  =
+ 
+    0.015  
+ b  =
+ 
+    0.008  
+ c  =
+ 
+    0.  
+ Uo  =
+ 
+    1.D-06  
+ Ur  =
+ 
+    1.  
+ Eo  =
+ 
+    9.D-12  
+ Er  =
+ 
+    4.  
+ C  =
+ 
+    3.D+08  
+ w  =
+ 
+    3.D+11  
+ m  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ Cutoff frequency =    
+ 
+    28.566  
+ 
+ 
+ 
+ Phase constant =    
+ 
+    1718.9  
+ 
+ 
+ Propagation constant =    
+ 
+    1718.9i  
+ 
+ 
+ 
+ Intrinsic wave impedence =    
+ 
+    154.71  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH12/EX12.4/sadiku_12_4.sce #
+ 
+ 
+ a  =
+ 
+    0.08636  
+ b  =
+ 
+    0.04318  
+ 
+ 
+ 
+ 
+ Cut off frquency =    
+ 
+    1.7369152  
+ 
+ 
+ As f>fc so TE10 mode will propagate   
+ 
+ 
+ 
+ Phase velocity in Mm/sec =    
+ 
+    333.03634  
+ 
+ 
+ 
+ Group velocity in Mm/sec =    
+ 
+    270.24078  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH12/EX12.5/sadiku_12_5.sce #
+ 
+ 
+ f  =
+ 
+    1.000D+10  
+ a  =
+ 
+    0.04  
+ b  =
+ 
+    0.02  
+ u  =
+ 
+    3.000D+08  
+ 
+ 
+ 
+ 
+ 
+ Peak value of Electric field =    
+ 
+    63.77126  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH12/EX12.6/sadiku_12_6.sce #
+ 
+ 
+ cc  =
+ 
+    58000000.  
+ f  =
+ 
+    4.800D+09  
+ c  =
+ 
+    1.000D-17  
+ Uo  =
+ 
+    0.0000013  
+ Eo  =
+ 
+    8.842D-12  
+ Er  =
+ 
+    2.55  
+ z  =
+ 
+    0.6  
+ l  =
+ 
+    0.042  
+ b  =
+ 
+    0.026  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power dissipiated =    
+ 
+    6.0959644  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH12/EX12.8/sadiku_12_8.sce #
+ 
+ 
+ a  =
+ 
+    0.05  
+ b  =
+ 
+    0.04  
+ c  =
+ 
+    0.1  
+ C  =
+ 
+    58000000.  
+ 
+ 
+ 
+ 
+ 
+ Quality factor of TE101 =    
+ 
+    14325.571  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.10/sadiku_13_10.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ f  =
+ 
+    3.000D+09  
+ Aet  =
+ 
+    9.  
+ r1  =
+ 
+    185200.  
+ r2  =
+ 
+    740800.  
+ r3  =
+ 
+    555600.  
+ Pr  =
+ 
+    200000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Signal power density at 100nmile in mWatt   
+ 
+    5.2479603  
+ 
+ 
+ Signal power density at 400nmile in mWatt   
+ 
+    0.3279975  
+ 
+ 
+ 
+ Power of reflected signal in picoWatt   
+ 
+    0.0270574  
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.1/sadiku_13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Power transmit by Hertizian dipole in mWatt   
+ 
+    158.  
+ 
+ 
+ 
+ Power transmit by Half wave dipole in mWatt   
+ 
+    144.  
+ 
+ 
+ 
+ Power transmit by Quarterwave monopole in mWatt   
+ 
+    72.  
+ 
+ 
+ 
+ Power transmit by 10 turn loop antena in mWatt   
+ 
+   158.  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.2/sadiku_13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Length of halfdipole in meter   
+ 
+    3.  
+ 
+ 
+ 
+ Current fed to antenna in mA   
+ 
+    83.33  
+ 
+ Power radiated by Antenna in mWatt   
+ 
+    253.5  
+ 
+ Zl  =
+ 
+    73. + 42.5i  
+ 
+ 
+ 
+ 
+ Standing wave ratio   
+ 
+    1.764  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.3/sadiku_13_3.sce #
+ 
+ 
+ G  =
+ 
+    8.3775804  
+ 
+ 
+ 
+    1.5  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.4/sadiku_13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric field intensity at 10 km =   
+ 
+    0.1948  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.5/sadiku_13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Directivity of antenna   
+ 
+    6.  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.8/sadiku_13_8.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ f  =
+ 
+    30000000.  
+ 
+ 
+ n  =
+ 
+    376.99112  
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum effective area   
+ 
+    13.08  
+ 
+ 
+ 
+ Power rerceived in nWatt   
+ 
+    69.4  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH13/EX13.9/sadiku_13_9.sce #
+ 
+ 
+ Gt  =
+ 
+    25.  
+ Gr  =
+ 
+    18.  
+ r  =
+ 
+    200.  
+ 
+ Gdt  =
+ 
+    316.22777  
+ 
+ 
+ 
+ Minimum power received in Watt =   
+ 
+    1.5828863  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH14/EX14.1/sadiku_14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Zl  =
+ 
+    75.  
+ 
+ 
+ 
+ 
+ Input reflection coefficient=   
+ 
+    0.7361216 - 0.425i  
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH14/EX14.2/sadiku_14_2.sce #
+ 
+ 
+ 
+ 
+ n1  =
+ 
+    1.62  
+ NA  =
+ 
+    0.21  
+ 
+ 
+ 
+ Acceptance angle   
+ 
+    12.12  
+ 
+ 
+ 
+ Refractive index   
+ 
+    1.606  
+ 
+ 
+ 
+ No of modes   
+ 
+    65.97  
+ 
+ 
+grepthis#Elements_Of_Electromagnetics_M._N._O._Sadiku_42/CH14/EX14.3/sadiku_14_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Distance travelled in Km   
+ 
+    8.87395  
+ 
+ 
+ 
+ 

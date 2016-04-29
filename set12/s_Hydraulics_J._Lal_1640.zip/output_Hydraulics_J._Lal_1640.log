@@ -1,0 +1,4841 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 104
+
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.1/1_1.sce #
+ 
+ 
+ h1  =
+ 
+    2.  
+ 
+ h2  =
+ 
+    2.  
+ 
+ wn  =
+ 
+    13.6  
+ 
+ w  =
+ 
+    1.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ 
+ ha  =
+ 
+    2.1  
+ 
+ pa  =
+ 
+    0.91  
+ 
+ 
+Pressure of water= 0.91 lb/sq in  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.2/1_2.sce #
+ 
+ 
+ a  =
+ 
+    6.  
+ 
+ h  =
+ 
+    2.  
+ 
+ sm  =
+ 
+    13.6  
+ 
+ sw  =
+ 
+    1.  
+ 
+ sl  =
+ 
+    0.8  
+ 
+ 
+ dh  =
+ 
+    31.2  
+ 
+ h1  =
+ 
+  - 126.  
+ 
+ 
+pressure difference in ft of water= 31.2 ft of water  
+
+ reading of mercury= -126 ft of liquid  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.3/1_3.sce #
+ 
+ 
+ sm  =
+ 
+    13.6  
+ 
+ so  =
+ 
+    0.9  
+ 
+ sw  =
+ 
+    1.  
+ 
+ ha  =
+ 
+    12.7  
+ 
+ hb  =
+ 
+    8.  
+ 
+ hc  =
+ 
+    7.5  
+ 
+ hd  =
+ 
+    1.75  
+ 
+ 
+ pa  =
+ 
+    12.7  
+ 
+ pc  =
+ 
+    5.5  
+ 
+ pd  =
+ 
+  - 27.  
+ 
+ pb  =
+ 
+  - 17.25  
+ 
+ 
+pressure at A= 12.70 ft of water  
+
+ pressure at B= -17.25 ft of water  
+
+ pressure at C= 5.50 ft of water  
+
+ pressure at D= -27.00 ft of water  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.4/1_4.sce #
+ 
+ 
+ lm  =
+ 
+    2.  
+ 
+ lw  =
+ 
+    5.  
+ 
+ lo  =
+ 
+    8.  
+ 
+ so  =
+ 
+    0.75  
+ 
+ p  =
+ 
+    40.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ sm  =
+ 
+    13.6  
+ 
+ 
+ h  =
+ 
+    92.307692  
+ 
+ Pd  =
+ 
+    65.107692  
+ 
+ Pc  =
+ 
+    60.107692  
+ 
+ Pb  =
+ 
+    54.107692  
+ 
+ Pg  =
+ 
+    23.446667  
+ 
+ 
+Reading of the pressure guage at the top of tank = 23.4 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.5/1_5.sce #
+ 
+ 
+ h  =
+ 
+    42.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ D  =
+ 
+    1.5166667  
+ 
+ 
+Depth of point = 1.5 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.6/1_6.sce #
+ 
+ 
+ h  =
+ 
+    200.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ D  =
+ 
+    86.666667  
+ 
+ 
+Depth of point = 86.7 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.7/1_7.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ l  =
+ 
+    2.  
+ 
+ b  =
+ 
+    3.  
+ 
+ h  =
+ 
+    10.  
+ 
+ 
+ P  =
+ 
+    3744.  
+ 
+ 
+Total pressure = 3744 lb  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.8/1_8.sce #
+ 
+ 
+ l  =
+ 
+    2.  
+ 
+ b  =
+ 
+    3.  
+ 
+ a  =
+ 
+    60.  
+ 
+ h  =
+ 
+    8.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ x  =
+ 
+    8.75  
+ 
+ P  =
+ 
+    3276.  
+ 
+ 
+total pressure = 3276 lb  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.9/1_9.sce #
+ 
+ 
+ l  =
+ 
+    2.  
+ 
+ b  =
+ 
+    3.  
+ 
+ h  =
+ 
+    8.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ P  =
+ 
+    3556.8  
+ 
+ 
+total pressure = 3557 lb  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.10/1_10.sce #
+ 
+ 
+ 
+ l  =
+ 
+    6.  
+ 
+ b  =
+ 
+    4.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ h  =
+ 
+    10.  
+ 
+ 
+ P  =
+ 
+    2995.2  
+ 
+ hn  =
+ 
+    2.6666667  
+ 
+ P1  =
+ 
+    17971.2  
+ 
+ h1  =
+ 
+    12.111111  
+ 
+ 
+Total pressure = 17971 lb 
+
+ Depth = 2.67 ft 
+
+ pressure in ft in case 2= 12.111 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.11/1_11.sce #
+ 
+ 
+ sp  =
+ 
+    0.87  
+ 
+ d  =
+ 
+    12.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ Wa  =
+ 
+    30.  
+ 
+ 
+ A  =
+ 
+    113.09734  
+ 
+ w  =
+ 
+    54.288  
+ 
+ x  =
+ 
+    79.575597  
+ 
+ P  =
+ 
+    488580.49  
+ 
+ h  =
+ 
+    79.688697  
+ 
+ 
+force exerted by the oil upon the gate = 488580 lb  
+
+ position of centre of pressure = 79.689 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.12/1_12.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ a  =
+ 
+    60.  
+ 
+ l  =
+ 
+    18.  
+ 
+ b  =
+ 
+    4.  
+ 
+ W  =
+ 
+    8000.  
+ 
+ 
+ P  =
+ 
+    144.10663  
+ 
+ h  =
+ 
+    0.6666667  
+ 
+ h1  =
+ 
+    0.3849002  
+ 
+ x  =
+ 
+    13.743905  
+ 
+ 
+Level of water = 13.74 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.13/1_13.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ l  =
+ 
+    12.  
+ 
+ b  =
+ 
+    6.  
+ 
+ h  =
+ 
+    5.196  
+ 
+ a  =
+ 
+    60.  
+ 
+ a1  =
+ 
+    45.  
+ 
+ 
+ P  =
+ 
+    11672.294  
+ 
+ h1  =
+ 
+    3.4640508  
+ 
+ R  =
+ 
+    11005.068  
+ 
+ 
+Total comression in the promp CD = 11005 lb  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.14/1_14.sce #
+ 
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ h  =
+ 
+    4.  
+ 
+ b  =
+ 
+    6.  
+ 
+ sg  =
+ 
+    1.45  
+ 
+ h1  =
+ 
+    5.  
+ 
+ a  =
+ 
+    90.  
+ 
+ 
+ P1  =
+ 
+    15200.64  
+ 
+ P2  =
+ 
+    2995.2  
+ 
+ Pr  =
+ 
+    12205.44  
+ 
+ hup  =
+ 
+    7.1904762  
+ 
+ x1  =
+ 
+    1.8095238  
+ 
+ hd  =
+ 
+    2.6666667  
+ 
+ x2  =
+ 
+    1.3333333  
+ 
+ x  =
+ 
+    1.9263804  
+ 
+ d  =
+ 
+    7.0736196  
+ 
+ F  =
+ 
+    5878.08  
+ 
+ 
+P resultant = 12205 lb  
+
+ depth of centre of pressure = 7.074 ft  
+
+ force F required to act horizontally at the top of gate = 5878 lb  
+ 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.15/1_15.sce #
+ 
+ 
+ w  =
+ 
+    15.  
+ 
+ D  =
+ 
+    15.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ a  =
+ 
+    120.  
+ 
+ h1  =
+ 
+    15.  
+ 
+ h2  =
+ 
+    4.  
+ 
+ h3  =
+ 
+    18.  
+ 
+ 
+ Pu  =
+ 
+    105300.  
+ 
+ hu  =
+ 
+    10.  
+ 
+ Pd  =
+ 
+    7488.  
+ 
+ hd  =
+ 
+    2.6666667  
+ 
+ P  =
+ 
+    97812.  
+ 
+ h  =
+ 
+    5.2807018  
+ 
+ F  =
+ 
+    97812.  
+ 
+ RT  =
+ 
+    73158.8  
+ 
+ RB  =
+ 
+    24653.2  
+ 
+ 
+RB = 24653 lb  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.16/1_16.sce #
+ 
+ 
+ h  =
+ 
+    42.  
+ 
+ w  =
+ 
+    25.  
+ 
+ d  =
+ 
+    8.  
+ 
+ W  =
+ 
+    150.  
+ 
+ w1  =
+ 
+    62.4  
+ 
+ 
+ W1  =
+ 
+    103950.  
+ 
+ P  =
+ 
+    55036.8  
+ 
+ R  =
+ 
+    117620.8  
+ 
+ o  =
+ 
+    27.899186  
+ 
+ AE  =
+ 
+    8.979798  
+ 
+ EF  =
+ 
+    7.4123636  
+ 
+ AF  =
+ 
+    16.392162  
+ 
+ AH  =
+ 
+    12.5  
+ 
+ e  =
+ 
+    3.8921616  
+ 
+ BS  =
+ 
+    3884.0659  
+ 
+ DS  =
+ 
+    4158.  
+ 
+ Smax  =
+ 
+    8042.0659  
+ 
+ Smin  =
+ 
+    273.93408  
+ 
+ 
+S max = 8042 lb/sq ft  
+
+ S min = 274 lb/sq ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.17/1_17.sce #
+ 
+ 
+ W  =
+ 
+    145.  
+ 
+ M  =
+ 
+    500.  
+ 
+ W1  =
+ 
+    64.  
+ 
+ 
+ dW  =
+ 
+    81.  
+ 
+ V  =
+ 
+    6.1728395  
+ 
+ 
+Volume of concrete = 6.2 cu ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.18/1_18.sce #
+ 
+ 
+ W  =
+ 
+    10000.  
+ 
+ A  =
+ 
+    15000.  
+ 
+ d  =
+ 
+    15.  
+ 
+ Dsw  =
+ 
+    64.  
+ 
+ Dw  =
+ 
+    62.4  
+ 
+ 
+ Vsw  =
+ 
+    35.  
+ 
+ Vw  =
+ 
+    35.897436  
+ 
+ dV  =
+ 
+    0.8974359  
+ 
+ V1  =
+ 
+    8974.359  
+ 
+ h  =
+ 
+    0.6666667  
+ 
+ h1  =
+ 
+    15.666667  
+ 
+ 
+Depth necessary to just float the ship in river = 15.67 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.19/1_19.sce #
+ 
+ 
+ W  =
+ 
+    5000.  
+ 
+ w  =
+ 
+    10.  
+ 
+ d  =
+ 
+    30.  
+ 
+ x  =
+ 
+    5.5  
+ 
+ l  =
+ 
+    10.  
+ 
+ a  =
+ 
+    15.  
+ 
+ 
+ GM  =
+ 
+    1.3090909  
+ 
+ M  =
+ 
+    1694.0883  
+ 
+ 
+Rightening moment = 1694 lb  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH1/EX1.20/1_20.sce #
+ 
+ 
+ l  =
+ 
+    5.  
+ 
+ h  =
+ 
+    20.  
+ 
+ n  =
+ 
+    0.0666667  
+ 
+ AG  =
+ 
+    50.  
+ 
+ x  =
+ 
+    30.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ AG1  =
+ 
+    46.875  
+ 
+ G1G2  =
+ 
+    1.875  
+ 
+ W  =
+ 
+    3900.  
+ 
+ h1  =
+ 
+    32.  
+ 
+ BK  =
+ 
+    16.  
+ 
+ GK  =
+ 
+    10.  
+ 
+ G1K  =
+ 
+    13.125  
+ 
+ BG1  =
+ 
+    2.875  
+ 
+ BM  =
+ 
+    9.375  
+ 
+ G1M  =
+ 
+    12.25  
+ 
+ o  =
+ 
+    8.7022238  
+ 
+ 
+angle through which the cube will tilt = 9 degrees  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.1/2_1.sce #
+ 
+ 
+ Q  =
+ 
+    0.8  
+ 
+ w  =
+ 
+    62.4  
+ 
+ d1  =
+ 
+    3.  
+ 
+ d2  =
+ 
+    1.5  
+ 
+ 
+ Q1  =
+ 
+    299.52  
+ 
+ a1  =
+ 
+    0.0490874  
+ 
+ a2  =
+ 
+    0.0122718  
+ 
+ v1  =
+ 
+    16.297466  
+ 
+ v2  =
+ 
+    65.189865  
+ 
+ 
+v1 = 16.3 ft/sec  
+
+ v2 = 65.2 ft/sec  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.2/2_2.sce #
+ 
+ 
+ d1  =
+ 
+    12.  
+ 
+ d2  =
+ 
+    9.  
+ 
+ z1  =
+ 
+    10.  
+ 
+ z2  =
+ 
+    10.  
+ 
+ p1  =
+ 
+    15.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ Q  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v1  =
+ 
+    2.5464791  
+ 
+ v2  =
+ 
+    4.5270739  
+ 
+ p2  =
+ 
+    14.905731  
+ 
+ 
+p2 = 14.906 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.3/2_3.sce #
+ 
+ 
+ d0  =
+ 
+    4.  
+ 
+ d2  =
+ 
+    2.  
+ 
+ z0  =
+ 
+    0.  
+ 
+ z1  =
+ 
+    5.  
+ 
+ z2  =
+ 
+    13.  
+ 
+ h  =
+ 
+    9.5  
+ 
+ w  =
+ 
+    62.4  
+ 
+ w1  =
+ 
+    30.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ r  =
+ 
+    0.1  
+ 
+ 
+ p2  =
+ 
+  - 10.766667  
+ 
+ v2  =
+ 
+    12.72697  
+ 
+ Q  =
+ 
+    103.95568  
+ 
+ 
+Discharge = 104 gpm  
+ 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.4/2_4.sce #
+ 
+ 
+ d1  =
+ 
+    2.  
+ 
+ d2  =
+ 
+    3.  
+ 
+ v1  =
+ 
+    20.  
+ 
+ z1  =
+ 
+    20.  
+ 
+ z2  =
+ 
+    0.  
+ 
+ h  =
+ 
+    5.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Hl  =
+ 
+    0.9316770  
+ 
+ a1  =
+ 
+    3.1415927  
+ 
+ a2  =
+ 
+    7.0685835  
+ 
+ v2  =
+ 
+    8.8888889  
+ 
+ p1  =
+ 
+  - 19.052603  
+ 
+ 
+water pressure at top = -19.05 ft of water  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.5/2_5.sce #
+ 
+ 
+ d1  =
+ 
+    15.  
+ 
+ d2  =
+ 
+    6.  
+ 
+ h  =
+ 
+    10.  
+ 
+ C  =
+ 
+    0.98  
+ 
+ sm  =
+ 
+    13.6  
+ 
+ w  =
+ 
+    12.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a1  =
+ 
+    1.2271846  
+ 
+ a2  =
+ 
+    0.1963495  
+ 
+ h1  =
+ 
+    10.5  
+ 
+ Q  =
+ 
+    113870.7  
+ 
+ 
+Discharge = 113871 gph  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.6/2_6.sce #
+ 
+ 
+ d1  =
+ 
+    8.  
+ 
+ d2  =
+ 
+    4.  
+ 
+ h  =
+ 
+    10.  
+ 
+ Cd  =
+ 
+    0.98  
+ 
+ g  =
+ 
+    32.2  
+ 
+ sm  =
+ 
+    13.56  
+ 
+ 
+ a1  =
+ 
+    0.3490659  
+ 
+ a2  =
+ 
+    0.0872665  
+ 
+ h1  =
+ 
+    10.466667  
+ 
+ Q  =
+ 
+    2.3399623  
+ 
+ Qactual  =
+ 
+    2.2931631  
+ 
+ 
+Actual discharge = 2.29 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.7/2_7.sce #
+ 
+ 
+ h  =
+ 
+    6.8  
+ 
+ sm  =
+ 
+    13.6  
+ 
+ ssw  =
+ 
+    1.026  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ V  =
+ 
+    14.605354  
+ 
+ 
+speed of submarine = 14.6 miles per hour  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH2/EX2.8/2_8.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ d1  =
+ 
+    2.  
+ 
+ d2  =
+ 
+    12.  
+ 
+ r  =
+ 
+    1.4  
+ 
+ n  =
+ 
+    0.905  
+ 
+ Q  =
+ 
+    2995.  
+ 
+ w  =
+ 
+    0.083  
+ 
+ 
+ V1  =
+ 
+    12.048193  
+ 
+ n1  =
+ 
+    0.9718828  
+ 
+ n2  =
+ 
+    0.8671004  
+ 
+ Q  =
+ 
+    13.09458  
+ 
+ 
+Volume of air passing through the Venturimeter = 13.1 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.1/3_1.sce #
+ 
+ 
+ Q  =
+ 
+    16.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ d  =
+ 
+    1.  
+ 
+ h  =
+ 
+    2.4166667  
+ 
+ g  =
+ 
+    32.2  
+ 
+ x  =
+ 
+    11.5  
+ 
+ h1  =
+ 
+    1.2  
+ 
+ 
+ Cd  =
+ 
+    0.6280662  
+ 
+ Cv  =
+ 
+    0.9747163  
+ 
+ Cc  =
+ 
+    0.6443580  
+ 
+ Cr  =
+ 
+    0.0525520  
+ 
+ 
+Cr = 0.053   
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.2/3_2.sce #
+ 
+ 
+ Ww  =
+ 
+    261.  
+ 
+ a  =
+ 
+    1.  
+ 
+ h  =
+ 
+    4.  
+ 
+ y  =
+ 
+    5.  
+ 
+ W1  =
+ 
+    10.65  
+ 
+ l  =
+ 
+    1.  
+ 
+ Q  =
+ 
+    261.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    10.038462  
+ 
+ F  =
+ 
+    2.13  
+ 
+ v  =
+ 
+    15.766897  
+ 
+ vth  =
+ 
+    16.049922  
+ 
+ Cv  =
+ 
+    0.9823659  
+ 
+ Q1  =
+ 
+    4.1826923  
+ 
+ Qth  =
+ 
+    6.6874675  
+ 
+ Cd  =
+ 
+    0.6254524  
+ 
+ Cc  =
+ 
+    0.6366796  
+ 
+ 
+Cd = 0.625   
+
+ Cc = 0.637   
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.3/3_3.sce #
+ 
+ 
+ Q  =
+ 
+    10.  
+ 
+ a1  =
+ 
+    1.  
+ 
+ a2  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ p1  =
+ 
+    12.  
+ 
+ v1  =
+ 
+    10.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ v2  =
+ 
+    2.5  
+ 
+ Hl  =
+ 
+    0.8734472  
+ 
+ p2  =
+ 
+    12.252329  
+ 
+ W  =
+ 
+    0.9909656  
+ 
+ 
+ 
+Head lost = 0.873 ft of water  
+
+ Pressure in larger part of pipe = 12.25 lb/in^2  
+
+ Work done = 0.991 HP  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.4/3_4.sce #
+ 
+ 
+ Cc  =
+ 
+    1.  
+ 
+ Cv  =
+ 
+    0.833  
+ 
+ d  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    12.  
+ 
+ Pa  =
+ 
+    34.  
+ 
+ 
+ Q  =
+ 
+    0.5052030  
+ 
+ Cd  =
+ 
+    0.833  
+ 
+ Pc  =
+ 
+    22.96  
+ 
+ 
+ 
+Discharge = 0.505 cu ft/sec  
+
+ Coefficient of discharge = 0.833   
+
+ Pressure at Vent-contraction= 22.96 ft of water  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.5/3_5.sce #
+ 
+ 
+ H  =
+ 
+    4.  
+ 
+ d  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cc  =
+ 
+    0.5  
+ 
+ 
+ Q  =
+ 
+    0.0437694  
+ 
+ 
+Actual Discharge = 0.0438 cu ft/sec  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.6/3_6.sce #
+ 
+ 
+ D  =
+ 
+    4.  
+ 
+ d  =
+ 
+    2.  
+ 
+ H1  =
+ 
+    6.  
+ 
+ H2  =
+ 
+    2.  
+ 
+ t  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ H  =
+ 
+    5.  
+ 
+ 
+ Cd  =
+ 
+    0.6192336  
+ 
+ Q  =
+ 
+    90.76234  
+ 
+ 
+Cd = 0.619  
+
+ Discharge = 90.8 gpm 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.7/3_7.sce #
+ 
+ 
+ H1  =
+ 
+    10.  
+ 
+ H2  =
+ 
+    2.  
+ 
+ Cd  =
+ 
+    0.61  
+ 
+ d1  =
+ 
+    8.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d2  =
+ 
+    3.  
+ 
+ 
+ a  =
+ 
+    0.0625  
+ 
+ H0  =
+ 
+    6.  
+ 
+ t  =
+ 
+    5.1388794  
+ 
+ 
+time required to lower the water level = 5.14 min 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ D  =
+ 
+    10.  
+ 
+ H1  =
+ 
+    17.  
+ 
+ H2  =
+ 
+    5.  
+ 
+ d  =
+ 
+    3.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ t1  =
+ 
+    1213.6569  
+ 
+ t2  =
+ 
+    671.13075  
+ 
+ t  =
+ 
+    1884.7876  
+ 
+ 
+time required to empty the vessel = 1885 sec 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.9/3_9.sce #
+ 
+ 
+ Cd  =
+ 
+    0.8  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    3.  
+ 
+ 
+ t  =
+ 
+    21.984561  
+ 
+ 
+time to emptify biler = 21.98 min 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ H1  =
+ 
+    9.  
+ 
+ H2  =
+ 
+    4.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ a  =
+ 
+    4.  
+ 
+ A1  =
+ 
+    72.  
+ 
+ A2  =
+ 
+    24.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ t  =
+ 
+    4.4860031  
+ 
+ 
+time required to reduce the water level difference = 4.5 min 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.12/3_12.sce #
+ 
+ 
+ l  =
+ 
+    80.  
+ 
+ w  =
+ 
+    12.  
+ 
+ t  =
+ 
+    3.  
+ 
+ Hl  =
+ 
+    12.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ 
+ s  =
+ 
+    2.7702093  
+ 
+ 
+side of the square orifice = 2.77 ft 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.13/3_13.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ d  =
+ 
+    2.  
+ 
+ H1  =
+ 
+    5.  
+ 
+ 
+ v  =
+ 
+    8.9721792  
+ 
+ q  =
+ 
+    0.1174456  
+ 
+ 
+Total discharge = 0.117 cfs 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.14/3_14.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ H  =
+ 
+    9.  
+ 
+ l  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q1  =
+ 
+    11.8739  
+ 
+ Q2  =
+ 
+    11.817733  
+ 
+ 
+Discharge by appropriate formula = 11.87 cfs 
+
+ Discharge by exact formula = 11.82 cfs 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH3/EX3.15/3_15.sce #
+ 
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ B  =
+ 
+    2.5  
+ 
+ H2  =
+ 
+    8.  
+ 
+ H1  =
+ 
+    7.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    4.  
+ 
+ 
+ Q1  =
+ 
+    34.058441  
+ 
+ Q2  =
+ 
+    105.54578  
+ 
+ Q  =
+ 
+    139.60422  
+ 
+ 
+Total discharge = 140 cfs 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.1/4_1.sce #
+ 
+ 
+ p  =
+ 
+    70.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ Q  =
+ 
+    50.  
+ 
+ H  =
+ 
+    2.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q1  =
+ 
+    64.918685  
+ 
+ L  =
+ 
+    7.1502593  
+ 
+ 
+length of the weir = 7.15 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.2/4_2.sce #
+ 
+ 
+ L  =
+ 
+    15.  
+ 
+ H  =
+ 
+    1.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ v  =
+ 
+    80.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ vo  =
+ 
+    1.3333333  
+ 
+ Q  =
+ 
+    566.55116  
+ 
+ 
+HP = 567 HP  
+ 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.3/4_3.sce #
+ 
+ 
+ L  =
+ 
+    11.  
+ 
+ H  =
+ 
+    0.7  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    1.95  
+ 
+ Q  =
+ 
+    20.65  
+ 
+ Q1  =
+ 
+    21.2  
+ 
+ 
+ Q  =
+ 
+    20.679626  
+ 
+ vo  =
+ 
+    0.9640851  
+ 
+ h1  =
+ 
+    0.0144326  
+ 
+ Q1  =
+ 
+    21.261247  
+ 
+ v1  =
+ 
+    0.9912003  
+ 
+ Q2  =
+ 
+    21.292801  
+ 
+ p  =
+ 
+    0.1484107  
+ 
+ 
+discharge percent = 0.148 per cent  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.4/4_4.sce #
+ 
+ 
+ b  =
+ 
+    3.  
+ 
+ H  =
+ 
+    1.  
+ 
+ Q  =
+ 
+    9.  
+ 
+ k  =
+ 
+    1.105  
+ 
+ h  =
+ 
+    0.1  
+ 
+ 
+ K  =
+ 
+    3.  
+ 
+ n  =
+ 
+    1.5075749  
+ 
+ 
+K = 3   
+
+ n = 1.5   
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.5/4_5.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ L  =
+ 
+    7.573  
+ 
+ H  =
+ 
+    1.2  
+ 
+ S  =
+ 
+    2.85  
+ 
+ 
+ Q1  =
+ 
+    33.020465  
+ 
+ Q2  =
+ 
+    33.15004  
+ 
+ Q3  =
+ 
+    33.009814  
+ 
+ He  =
+ 
+    1.204  
+ 
+ Q4  =
+ 
+    34.123999  
+ 
+ 
+Q = 33.02 cuses  
+
+ Q = 33.15 cuses  
+
+ Q = 33.01 cuses  
+
+ Q = 34.12 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.6/4_6.sce #
+ 
+ 
+ H  =
+ 
+    2.5  
+ 
+ L  =
+ 
+    10.  
+ 
+ A  =
+ 
+    10.  
+ 
+ p  =
+ 
+    30.  
+ 
+ a  =
+ 
+    2.  
+ 
+ w  =
+ 
+    2.  
+ 
+ 
+ Q  =
+ 
+    3872.  
+ 
+ n  =
+ 
+    29.964031  
+ 
+ 
+n = 30   
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.7/4_7.sce #
+ 
+ 
+ L  =
+ 
+    2.5  
+ 
+ H  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd  =
+ 
+    0.61  
+ 
+ L1  =
+ 
+    1.75  
+ 
+ L2  =
+ 
+    2.25  
+ 
+ 
+ Q1  =
+ 
+    8.1587104  
+ 
+ Q2  =
+ 
+    7.510278  
+ 
+ Q3  =
+ 
+    3.4591875  
+ 
+ Q  =
+ 
+    19.128176  
+ 
+ 
+Total discharge = 19.1 cfs  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.8/4_8.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ h1  =
+ 
+    16.63  
+ 
+ h2  =
+ 
+    10.18  
+ 
+ h3  =
+ 
+    16.53  
+ 
+ 
+ H1  =
+ 
+    6.45  
+ 
+ H2  =
+ 
+    6.35  
+ 
+ p  =
+ 
+    2.3165441  
+ 
+ 
+Percent decrease in discharge = 2.32 per cent  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.9/4_9.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ a  =
+ 
+    20000.  
+ 
+ H2  =
+ 
+    12.  
+ 
+ L  =
+ 
+    5.  
+ 
+ H1  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ t  =
+ 
+    109.49332  
+ 
+ 
+time required to lower level of reservoir = 109.49 min  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.10/4_10.sce #
+ 
+ 
+ L  =
+ 
+    3.  
+ 
+ H  =
+ 
+    6.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ Cd1  =
+ 
+    0.59  
+ 
+ a  =
+ 
+    45.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ H  =
+ 
+    1.1418535  
+ 
+ 
+depth of water = 1.142 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.11/4_11.sce #
+ 
+ 
+ V  =
+ 
+    20.  
+ 
+ g  =
+ 
+    981.  
+ 
+ Cd  =
+ 
+    0.593  
+ 
+ r  =
+ 
+    2.5  
+ 
+ r1  =
+ 
+    1.5  
+ 
+ e  =
+ 
+    2.  
+ 
+ Cd1  =
+ 
+    0.623  
+ 
+ L  =
+ 
+    30.  
+ 
+ 
+ H  =
+ 
+    18.274724  
+ 
+ dH1  =
+ 
+    0.2  
+ 
+ p  =
+ 
+    2.7360194  
+ 
+ H1  =
+ 
+    10.950694  
+ 
+ p1  =
+ 
+    2.7395525  
+ 
+ 
+percentage error of discharge over the weir = 2.74 per cent  
+
+ percentage error of discharge over the weir = 2.74 per cent  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.12/4_12.sce #
+ 
+ 
+ L  =
+ 
+    16.  
+ 
+ H  =
+ 
+    9.  
+ 
+ h  =
+ 
+    18.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    2.  
+ 
+ Cd  =
+ 
+    0.63  
+ 
+ W  =
+ 
+    62.4  
+ 
+ 
+ Q  =
+ 
+    2.9189245  
+ 
+ v  =
+ 
+    0.9729748  
+ 
+ H1  =
+ 
+    0.0147  
+ 
+ Q1  =
+ 
+    1122.1331  
+ 
+ 
+Discharge = 1122 gpm  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.13/4_13.sce #
+ 
+ 
+ L  =
+ 
+    100.  
+ 
+ H  =
+ 
+    2.25  
+ 
+ Cd  =
+ 
+    0.95  
+ 
+ w  =
+ 
+    120.  
+ 
+ h  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    989.76938  
+ 
+ v0  =
+ 
+    1.9407243  
+ 
+ Q1  =
+ 
+    1024.4621  
+ 
+ 
+Discharge = 1024 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.14/4_14.sce #
+ 
+ 
+ L  =
+ 
+    6.  
+ 
+ H1  =
+ 
+    0.5  
+ 
+ H2  =
+ 
+    0.25  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd1  =
+ 
+    0.58  
+ 
+ Cd2  =
+ 
+    0.8  
+ 
+ w  =
+ 
+    6.24  
+ 
+ 
+ Q1  =
+ 
+    2.3272387  
+ 
+ Q2  =
+ 
+    4.8149766  
+ 
+ Q  =
+ 
+    160442.73  
+ 
+ 
+Discharge = 160443 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.15/4_15.sce #
+ 
+ 
+ W  =
+ 
+    100.  
+ 
+ h  =
+ 
+    10.  
+ 
+ v  =
+ 
+    4.  
+ 
+ h1  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    5.4  
+ 
+ Cd1  =
+ 
+    0.58  
+ 
+ Cd2  =
+ 
+    0.8  
+ 
+ 
+ v0  =
+ 
+    3.0769231  
+ 
+ h0  =
+ 
+    0.1470102  
+ 
+ H2  =
+ 
+    2.0064925  
+ 
+ dh  =
+ 
+    7.9935075  
+ 
+ 
+height of anicut which is drowned = 8 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.16/4_16.sce #
+ 
+ 
+ x  =
+ 
+    6.  
+ 
+ l  =
+ 
+    200.  
+ 
+ d  =
+ 
+    10.  
+ 
+ v  =
+ 
+    4.  
+ 
+ Ce  =
+ 
+    0.95  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ l1  =
+ 
+    123.21113  
+ 
+ 
+length = 123 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH4/EX4.17/4_17.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    25.  
+ 
+ l  =
+ 
+    2.5  
+ 
+ b  =
+ 
+    5.  
+ 
+ Cd  =
+ 
+    0.64  
+ 
+ Q  =
+ 
+    3200.  
+ 
+ L  =
+ 
+    150.  
+ 
+ C  =
+ 
+    3.2  
+ 
+ depth  =
+ 
+    0.5  
+ 
+ A1  =
+ 
+    5000000.  
+ 
+ 
+ Q1  =
+ 
+    320.99844  
+ 
+ n  =
+ 
+    9.9688957  
+ 
+ h  =
+ 
+    3.5421952  
+ 
+ hr  =
+ 
+    3.0421952  
+ 
+ Area  =
+ 
+    45000000.  
+ 
+ V  =
+ 
+    1.369D+08  
+ 
+ 
+number of spilways = 10   
+
+ Volume of extra water stored = 136898785 cu ft 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.1/5_1.sce #
+ 
+ 
+ h  =
+ 
+    4.  
+ 
+ h1  =
+ 
+    3.  
+ 
+ r  =
+ 
+    3.  
+ 
+ h2  =
+ 
+    1.5  
+ 
+ 
+ m  =
+ 
+    1.5408747  
+ 
+ a  =
+ 
+    120.  
+ 
+ P  =
+ 
+    6.2831853  
+ 
+ A  =
+ 
+    5.5276636  
+ 
+ H  =
+ 
+    0.8797550  
+ 
+ 
+hydraulic mean depth = 0.880 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.2/5_2.sce #
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ l  =
+ 
+    5280.  
+ 
+ v  =
+ 
+    3.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ g  =
+ 
+    32.2  
+ 
+ C  =
+ 
+    115.  
+ 
+ 
+ hf  =
+ 
+    4.9192547  
+ 
+ m  =
+ 
+    0.75  
+ 
+ hf1  =
+ 
+    4.7909263  
+ 
+ 
+hf = 4.92 ft  
+
+ hf = 4.79 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.3/5_3.sce #
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ Q  =
+ 
+    2.  
+ 
+ l  =
+ 
+    1000.  
+ 
+ f  =
+ 
+    0.0055  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    70.  
+ 
+ 
+ v  =
+ 
+    10.185916  
+ 
+ hf  =
+ 
+    30.71773  
+ 
+ P  =
+ 
+    61.051063  
+ 
+ 
+pressure = 30.7 lb/in^2  
+
+ presure difference = 61.05 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.4/5_4.sce #
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ hf  =
+ 
+    7.7  
+ 
+ f  =
+ 
+    0.005  
+ 
+ l  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ C  =
+ 
+    113.49009  
+ 
+ Q  =
+ 
+    0.6913344  
+ 
+ 
+Discharge = 0.69 cfs  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.5/5_5.sce #
+ 
+ 
+ Q  =
+ 
+    400000.  
+ 
+ d  =
+ 
+    4.  
+ 
+ h  =
+ 
+    50.  
+ 
+ q  =
+ 
+    40.  
+ 
+ t  =
+ 
+    8.  
+ 
+ f  =
+ 
+    0.0075  
+ 
+ w  =
+ 
+    6.24  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q1  =
+ 
+    44.51567  
+ 
+ d  =
+ 
+    43.585529  
+ 
+ 
+size of the supply = 43.6 in  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.6/5_6.sce #
+ 
+ 
+ Q  =
+ 
+    0.7  
+ 
+ d  =
+ 
+    6.  
+ 
+ v1  =
+ 
+    0.0000108  
+ 
+ v2  =
+ 
+    0.0000039  
+ 
+ R  =
+ 
+    2320.  
+ 
+ 
+ v3  =
+ 
+    0.0502976  
+ 
+ v4  =
+ 
+    0.0182816  
+ 
+ v  =
+ 
+    3.5650707  
+ 
+ 
+crititcal velocity = 0.0183 ft/sec  
+
+ actual velocity = 3.57 ft/sec  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.7/5_7.sce #
+ 
+ 
+ 
+ p  =
+ 
+    0.91  
+ 
+ u  =
+ 
+    0.21  
+ 
+ q  =
+ 
+    200.  
+ 
+ h  =
+ 
+    40.  
+ 
+ l  =
+ 
+    200.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ d  =
+ 
+    0.75  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    0.0002481  
+ 
+ Q  =
+ 
+    0.0097837  
+ 
+ V  =
+ 
+    3.1889785  
+ 
+ Re  =
+ 
+    803.43989  
+ 
+ F  =
+ 
+    0.0796575  
+ 
+ Hf  =
+ 
+    40.252595  
+ 
+ Ht  =
+ 
+    80.252595  
+ 
+ P  =
+ 
+    31.646273  
+ 
+ 
+Pressure head  = 31.6 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.8/5_8.sce #
+ 
+ 
+ logh  =
+ 
+    0.1761  
+ 
+ logk  =
+ 
+  - 0.415  
+ 
+ logv  =
+ 
+    0.301  
+ 
+ 
+ n  =
+ 
+    1.9637874  
+ 
+ 
+n = 1.96   
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.10/5_10.sce #
+ 
+ 
+ pb  =
+ 
+    20.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ Q  =
+ 
+    1.96  
+ 
+ d1  =
+ 
+    0.5  
+ 
+ d2  =
+ 
+    1.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ g  =
+ 
+    32.2  
+ 
+ l1  =
+ 
+    300.  
+ 
+ H  =
+ 
+    14.015  
+ 
+ 
+ v1  =
+ 
+    9.982198  
+ 
+ v2  =
+ 
+    2.4955495  
+ 
+ hf1  =
+ 
+    18.567257  
+ 
+ hf2  =
+ 
+    0.5802268  
+ 
+ h  =
+ 
+    0.8703402  
+ 
+ h1  =
+ 
+    1.5472714  
+ 
+ h2  =
+ 
+    0.0967045  
+ 
+ P  =
+ 
+    6.0731667  
+ 
+ 
+Loss of head at C = 0.870 ft  
+
+ Loss of head at C = 1.55 ft  
+
+ Loss of head at C = 0.097 ft  
+
+ Pressure differnece at discharge end = 6.07 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.11/5_11.sce #
+ 
+ 
+ d  =
+ 
+    8.  
+ 
+ l  =
+ 
+    6000.  
+ 
+ H  =
+ 
+    100.  
+ 
+ H1  =
+ 
+    1000.  
+ 
+ f  =
+ 
+    0.008  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h1  =
+ 
+    24.  
+ 
+ h2  =
+ 
+    34.  
+ 
+ h3  =
+ 
+    25.  
+ 
+ w  =
+ 
+    6.24  
+ 
+ 
+ v  =
+ 
+    4.7287537  
+ 
+ h  =
+ 
+    18.013889  
+ 
+ Q  =
+ 
+    37080.121  
+ 
+ 
+minimum depth = 18 ft  
+
+ Discharge = 37080 gpm 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.12/5_12.sce #
+ 
+ 
+ h  =
+ 
+    25.  
+ 
+ l  =
+ 
+    2000.  
+ 
+ d  =
+ 
+    12.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ f  =
+ 
+    0.005  
+ 
+ dz  =
+ 
+    16.  
+ 
+ zb  =
+ 
+    25.  
+ 
+ zc  =
+ 
+  - 16.  
+ 
+ 
+ v  =
+ 
+    6.2285777  
+ 
+ Q  =
+ 
+    4.8919135  
+ 
+ l1  =
+ 
+    1440.  
+ 
+ 
+Discharge = 4.9 cfs  
+
+ length of the inlet = 1440 ft of water  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.13/5_13.sce #
+ 
+ 
+ d1  =
+ 
+    2.  
+ 
+ l1  =
+ 
+    25.  
+ 
+ d2  =
+ 
+    4.  
+ 
+ l2  =
+ 
+    140.  
+ 
+ v  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ f  =
+ 
+    0.0065  
+ 
+ 
+ v1  =
+ 
+    16.  
+ 
+ H  =
+ 
+    22.688199  
+ 
+ 
+necessaey height of water = 22.688 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.14/5_14.sce #
+ 
+ 
+ l1  =
+ 
+    3000.  
+ 
+ d1  =
+ 
+    18.  
+ 
+ l2  =
+ 
+    1500.  
+ 
+ d2  =
+ 
+    15.  
+ 
+ l3  =
+ 
+    1000.  
+ 
+ d3  =
+ 
+    12.  
+ 
+ 
+ d  =
+ 
+    14.863417  
+ 
+ 
+Diameter = 14.86 in  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.15/5_15.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ D  =
+ 
+    9.  
+ 
+ 
+ d  =
+ 
+    6.8207245  
+ 
+ 
+diameter of paralle mains = 6.82 in  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.16/5_16.sce #
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ l  =
+ 
+    5280.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ H  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    7.8092796  
+ 
+ Q  =
+ 
+    24.533576  
+ 
+ r  =
+ 
+    2.  
+ 
+ v2  =
+ 
+    4.9390221  
+ 
+ Q1  =
+ 
+    31.032791  
+ 
+ dQ  =
+ 
+    6.4992156  
+ 
+ p  =
+ 
+    26.491106  
+ 
+ 
+percentage increase in discharge = 26.5 per cent  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.18/5_18.sce #
+ 
+ 
+ A  =
+ 
+    10000.  
+ 
+ H1  =
+ 
+    50.  
+ 
+ H2  =
+ 
+    40.  
+ 
+ l  =
+ 
+    1500.  
+ 
+ d  =
+ 
+    6.  
+ 
+ f  =
+ 
+    0.0075  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ t  =
+ 
+    90636.849  
+ 
+ 
+Time taken to lower the level of water = 90637 sec  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.19/5_19.sce #
+ 
+ 
+ l  =
+ 
+    24.  
+ 
+ b  =
+ 
+    12.  
+ 
+ f  =
+ 
+    0.006  
+ 
+ d  =
+ 
+    4.  
+ 
+ l1  =
+ 
+    25.  
+ 
+ H1  =
+ 
+    6.  
+ 
+ H  =
+ 
+    20.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ 
+ a  =
+ 
+    0.0872665  
+ 
+ A  =
+ 
+    288.  
+ 
+ H2  =
+ 
+    26.  
+ 
+ t  =
+ 
+    936.64717  
+ 
+ t1  =
+ 
+    3659.8625  
+ 
+ t2  =
+ 
+    3357.8134  
+ 
+ 
+Time taken to lower the pipe = 937 sec  
+
+ Time taken to lower the pipe = 3660 sec  
+
+ Time taken to lower the pipe = 3358 sec  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.20/5_20.sce #
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ l  =
+ 
+    1000.  
+ 
+ f  =
+ 
+    0.0075  
+ 
+ H1  =
+ 
+    20.  
+ 
+ A1  =
+ 
+    100000.  
+ 
+ A2  =
+ 
+    50000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ h  =
+ 
+    4.  
+ 
+ H2  =
+ 
+    16.  
+ 
+ t  =
+ 
+    84.140389  
+ 
+ 
+Time taken to lower the level of water = 84 min  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.21/5_21.sce #
+ 
+ 
+ H  =
+ 
+    1000.  
+ 
+ Hf  =
+ 
+    100.  
+ 
+ l  =
+ 
+    10.  
+ 
+ HP  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    64.4  
+ 
+ f  =
+ 
+    0.006  
+ 
+ 
+ n  =
+ 
+    90.  
+ 
+ v  =
+ 
+    0.5403409  
+ 
+ r  =
+ 
+    11.363636  
+ 
+ d  =
+ 
+    0.4807991  
+ 
+ 
+Diameter = 0.4808 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.22/5_22.sce #
+ 
+ 
+ h1  =
+ 
+    1640.  
+ 
+ h2  =
+ 
+    40.  
+ 
+ d  =
+ 
+    8.  
+ 
+ l  =
+ 
+    2.  
+ 
+ D  =
+ 
+    3.  
+ 
+ f  =
+ 
+    0.006  
+ 
+ Cv  =
+ 
+    0.98  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ r  =
+ 
+    0.2222222  
+ 
+ vact  =
+ 
+    286.45224  
+ 
+ HP  =
+ 
+    14454.399  
+ 
+ 
+Horse Power of Jet = 14454 HP  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.23/5_23.sce #
+ 
+ 
+ p  =
+ 
+    60.  
+ 
+ l  =
+ 
+    300.  
+ 
+ D  =
+ 
+    2.5  
+ 
+ d  =
+ 
+    0.875  
+ 
+ f  =
+ 
+    0.018  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ r  =
+ 
+    66.6389  
+ 
+ V  =
+ 
+    7.2250282  
+ 
+ Q  =
+ 
+    0.2462901  
+ 
+ 
+Volume of flow = 0.246 cu ft/sec  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.24/5_24.sce #
+ 
+ 
+ D  =
+ 
+    3.  
+ 
+ l  =
+ 
+    800.  
+ 
+ H  =
+ 
+    120.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ d  =
+ 
+    0.0625  
+ 
+ hf  =
+ 
+    40.  
+ 
+ dh  =
+ 
+    80.  
+ 
+ v  =
+ 
+    4.4860896  
+ 
+ HPmax  =
+ 
+    0.1249194  
+ 
+ 
+HPmax = 0.125 HP  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.25/5_25.sce #
+ 
+ 
+ l  =
+ 
+    2.  
+ 
+ Q  =
+ 
+    2000000.  
+ 
+ d  =
+ 
+    12.  
+ 
+ t  =
+ 
+    16.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q1  =
+ 
+    3.7096391  
+ 
+ hi  =
+ 
+    96.812146  
+ 
+ 
+height = 96.8 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.26/5_26.sce #
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ Q  =
+ 
+    0.7854  
+ 
+ E  =
+ 
+    30000000.  
+ 
+ t  =
+ 
+    0.25  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ K  =
+ 
+    300000.  
+ 
+ 
+ v  =
+ 
+    4.0000094  
+ 
+ p  =
+ 
+    228.24113  
+ 
+ 
+rise of presure in the pipe = 228 lb/in^2  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH5/EX5.27/5_27.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ f  =
+ 
+    0.005  
+ 
+ Q  =
+ 
+    100.  
+ 
+ m  =
+ 
+    40.  
+ 
+ n  =
+ 
+    0.75  
+ 
+ n1  =
+ 
+    0.065  
+ 
+ K  =
+ 
+    15.  
+ 
+ 
+ d  =
+ 
+    3.79488  
+ 
+ 
+economical diameter of pipe line = 3.795 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.1/6_1.sce #
+ 
+ 
+ i  =
+ 
+    0.000146  
+ 
+ v  =
+ 
+    2.8  
+ 
+ m  =
+ 
+    7.  
+ 
+ 
+ C  =
+ 
+    87.585575  
+ 
+ K  =
+ 
+    2.1149688  
+ 
+ 
+K = 2.115   
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.2/6_2.sce #
+ 
+ 
+ b  =
+ 
+    10.  
+ 
+ n  =
+ 
+    1.  
+ 
+ i  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    1.5  
+ 
+ C  =
+ 
+    110.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ L  =
+ 
+    2.1213203  
+ 
+ P  =
+ 
+    14.242641  
+ 
+ A  =
+ 
+    17.25  
+ 
+ m  =
+ 
+    1.2111518  
+ 
+ v  =
+ 
+    3.8281767  
+ 
+ Q  =
+ 
+    35602411.  
+ 
+ 
+Discharge = 3.56e+07 gal/day  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.3/6_3.sce #
+ 
+ 
+ b  =
+ 
+    10.  
+ 
+ n  =
+ 
+    2.  
+ 
+ d  =
+ 
+    3.5  
+ 
+ i  =
+ 
+    0.0016  
+ 
+ 
+ A  =
+ 
+    41.125  
+ 
+ L  =
+ 
+    3.913119  
+ 
+ P  =
+ 
+    17.826238  
+ 
+ m  =
+ 
+    2.3069927  
+ 
+ v  =
+ 
+    3.459301  
+ 
+ Q  =
+ 
+    142.26375  
+ 
+ 
+Discharge = 142.3 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.4/6_4.sce #
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ i  =
+ 
+    0.0002222  
+ 
+ C  =
+ 
+    80.  
+ 
+ 
+ A  =
+ 
+    3.5342917  
+ 
+ P  =
+ 
+    4.712389  
+ 
+ m  =
+ 
+    0.75  
+ 
+ v  =
+ 
+    1.0327956  
+ 
+ Q  =
+ 
+    3.6502008  
+ 
+ 
+Discharge = 3.65 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.5/6_5.sce #
+ 
+ 
+ A  =
+ 
+    2500.  
+ 
+ n  =
+ 
+    20.  
+ 
+ Q  =
+ 
+    40.  
+ 
+ C  =
+ 
+    130.  
+ 
+ i  =
+ 
+    0.0003333  
+ 
+ p  =
+ 
+    7.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ Q1  =
+ 
+    0.6232194  
+ 
+ Q2  =
+ 
+    105.65794  
+ 
+ d  =
+ 
+    8.7537837  
+ 
+ 
+Diameter = 8.754 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.6/6_6.sce #
+ 
+ 
+ Qt  =
+ 
+    150000.  
+ 
+ i  =
+ 
+    0.0001  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    0.6666667  
+ 
+ d1  =
+ 
+    30.  
+ 
+ C1  =
+ 
+    100.  
+ 
+ C2  =
+ 
+    75.  
+ 
+ b1  =
+ 
+    600.  
+ 
+ b2  =
+ 
+    2000.  
+ 
+ r  =
+ 
+    2.  
+ 
+ A1  =
+ 
+    18900.  
+ 
+ P1  =
+ 
+    684.85281  
+ 
+ m1  =
+ 
+    27.597171  
+ 
+ v1  =
+ 
+    5.2533009  
+ 
+ Q1  =
+ 
+    99287.388  
+ 
+ Q2  =
+ 
+    50712.612  
+ 
+ v2  =
+ 
+    2.6266505  
+ 
+ A2  =
+ 
+    19306.951  
+ 
+ d2  =
+ 
+    9.5845775  
+ 
+ 
+depth of water = 10 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.7/6_7.sce #
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ i  =
+ 
+    0.001  
+ 
+ C  =
+ 
+    65.  
+ 
+ Cd  =
+ 
+    0.56  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h1  =
+ 
+    7.5  
+ 
+ h2  =
+ 
+    3.  
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ v  =
+ 
+    3.5601966  
+ 
+ Q  =
+ 
+    10.68059  
+ 
+ H  =
+ 
+    2.333657  
+ 
+ h  =
+ 
+    8.166343  
+ 
+ 
+Height of dam = 8.17 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.8/6_8.sce #
+ 
+ 
+ Q  =
+ 
+    100.  
+ 
+ v  =
+ 
+    2.  
+ 
+ n  =
+ 
+    1.5  
+ 
+ A  =
+ 
+    50.  
+ 
+ C  =
+ 
+    120.  
+ 
+ 
+ d  =
+ 
+    4.8730637  
+ 
+ m  =
+ 
+    10.260486  
+ 
+ h1  =
+ 
+    2.95089  
+ 
+ h2  =
+ 
+    17.570081  
+ 
+ i  =
+ 
+    0.0001140  
+ 
+ 
+Depth = 4.87 ft  
+
+ Bottom width = 2.95 ft  
+
+ Top width = 17.57 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.9/6_9.sce #
+ 
+ 
+ Q  =
+ 
+    1100.  
+ 
+ i  =
+ 
+    0.0005556  
+ 
+ C  =
+ 
+    95.  
+ 
+ n  =
+ 
+    1.5  
+ 
+ 
+ d  =
+ 
+    10.182172  
+ 
+ b  =
+ 
+    6.109303  
+ 
+ ht  =
+ 
+    36.655818  
+ 
+ 
+Depth = 10.18 ft  
+
+ Bottom width = 6.11 ft  
+
+ Top width = 36.66 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.10/6_10.sce #
+ 
+ 
+ n  =
+ 
+    1.5  
+ 
+ Q  =
+ 
+    800.  
+ 
+ i  =
+ 
+    0.0004735  
+ 
+ n1  =
+ 
+    9.24  
+ 
+ r  =
+ 
+    0.6  
+ 
+ k  =
+ 
+    1.49  
+ 
+ 
+ d  =
+ 
+    7.0989936  
+ 
+ 
+Depth of channel = 7.1 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.11/6_11.sce #
+ 
+ 
+ d  =
+ 
+    8.  
+ 
+ i  =
+ 
+    0.0008333  
+ 
+ C  =
+ 
+    90.  
+ 
+ a  =
+ 
+    308.  
+ 
+ 
+ h  =
+ 
+    7.6  
+ 
+ A  =
+ 
+    49.308999  
+ 
+ m  =
+ 
+    2.32  
+ 
+ Q  =
+ 
+    195.12911  
+ 
+ 
+Discharge = 195 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.12/6_12.sce #
+ 
+ 
+ v  =
+ 
+    5.  
+ 
+ Q  =
+ 
+    500.  
+ 
+ w  =
+ 
+    25.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ h  =
+ 
+    4.  
+ 
+ E  =
+ 
+    4.3881988  
+ 
+ 
+Specific energy = 4.39 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.13/6_13.sce #
+ 
+ 
+ i  =
+ 
+    0.0002  
+ 
+ C  =
+ 
+    100.  
+ 
+ b  =
+ 
+    50.  
+ 
+ h  =
+ 
+    10.  
+ 
+ Q  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ f  =
+ 
+    0.00644  
+ 
+ m  =
+ 
+    7.1428571  
+ 
+ v  =
+ 
+    2.  
+ 
+ r  =
+ 
+    0.0001458  
+ 
+ s  =
+ 
+    0.0000542  
+ 
+ 
+Slope = 0.000054   
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.14/6_14.sce #
+ 
+ 
+ B  =
+ 
+    48.  
+ 
+ D  =
+ 
+    5.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ i  =
+ 
+    0.001  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ C  =
+ 
+    113.49009  
+ 
+ m  =
+ 
+    4.137931  
+ 
+ V  =
+ 
+    7.3004487  
+ 
+ Q  =
+ 
+    1752.1077  
+ 
+ Dc  =
+ 
+    3.4588183  
+ 
+ d1  =
+ 
+    2.25  
+ 
+ Q1  =
+ 
+    36.502244  
+ 
+ d2  =
+ 
+    5.043244  
+ 
+ hd  =
+ 
+    2.793244  
+ 
+ 
+height required = 2.793 ft 
+ 
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.15/6_15.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    360.  
+ 
+ d1  =
+ 
+    1.  
+ 
+ B  =
+ 
+    18.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w1  =
+ 
+    624.  
+ 
+ d2  =
+ 
+    4.5  
+ 
+ 
+ w  =
+ 
+    20.  
+ 
+ v1  =
+ 
+    20.  
+ 
+ v2  =
+ 
+    4.4444444  
+ 
+ d2  =
+ 
+    4.5094631  
+ 
+ El  =
+ 
+    2.3949921  
+ 
+ EL  =
+ 
+    538011.02  
+ 
+ 
+loss in energy = 538011 lb  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.16/6_16.sce #
+ 
+ 
+ d1  =
+ 
+    4.  
+ 
+ v1  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ d2  =
+ 
+    27.973487  
+ 
+ 
+d2 = 28 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.17/6_17.sce #
+ 
+ 
+ b  =
+ 
+    150.  
+ 
+ d  =
+ 
+    12.  
+ 
+ N  =
+ 
+    0.03  
+ 
+ i  =
+ 
+    0.0001  
+ 
+ h  =
+ 
+    10.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    1800.  
+ 
+ P  =
+ 
+    174.  
+ 
+ m  =
+ 
+    10.344828  
+ 
+ v  =
+ 
+    2.3580184  
+ 
+ A1  =
+ 
+    3300.  
+ 
+ P1  =
+ 
+    194.  
+ 
+ m1  =
+ 
+    17.010309  
+ 
+ C1  =
+ 
+    79.649621  
+ 
+ v1  =
+ 
+    1.2861918  
+ 
+ s  =
+ 
+    0.0000849  
+ 
+ L  =
+ 
+    235658.55  
+ 
+ 
+Length of back water = 235659 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.18/6_18.sce #
+ 
+ 
+ b1  =
+ 
+    3.2  
+ 
+ b2  =
+ 
+    1.3  
+ 
+ h1  =
+ 
+    1.86  
+ 
+ h2  =
+ 
+    1.63  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a1  =
+ 
+    5.952  
+ 
+ a2  =
+ 
+    2.119  
+ 
+ Q  =
+ 
+    8.7270537  
+ 
+ 
+Discharge = 8.7 cuses  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.19/6_19.sce #
+ 
+ 
+ b1  =
+ 
+    4.  
+ 
+ b2  =
+ 
+    2.  
+ 
+ h1  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Qmax  =
+ 
+    17.47968  
+ 
+ v1  =
+ 
+    2.18496  
+ 
+ H  =
+ 
+    2.0741312  
+ 
+ Qmax2  =
+ 
+    18.460473  
+ 
+ h2  =
+ 
+    1.3827541  
+ 
+ 
+Qmax = 17.48 cfs  
+
+ Qmax = 18.46 cfs  
+
+ h2 = 1.383 ft  
+ 
+grepthis#Hydraulics_J._Lal_1640/CH6/EX6.20/6_20.sce #
+ 
+ 
+ h1  =
+ 
+    8.  
+ 
+ b1  =
+ 
+    32.  
+ 
+ h  =
+ 
+    1.  
+ 
+ b2  =
+ 
+    24.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ H  =
+ 
+    7.  
+ 
+ Q  =
+ 
+    1373.4624  
+ 
+ v1  =
+ 
+    5.3650876  
+ 
+ Q1  =
+ 
+    1507.0865  
+ 
+ hc  =
+ 
+    4.9659156  
+ 
+ d2  =
+ 
+    9.0513399  
+ 
+ 
+Q = 1507 cfs  
+
+ hc = 4.97 ft  
+
+ max depth = 9.05 ft  
+ 

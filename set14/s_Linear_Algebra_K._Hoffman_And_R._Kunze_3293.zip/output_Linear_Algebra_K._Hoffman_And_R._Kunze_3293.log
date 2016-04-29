@@ -1,0 +1,5385 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 77
+
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.1/Ex1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    2.  - 1.    3.    2.  
+    1.    4.    0.  - 1.  
+    2.    6.  - 1.    5.  
+ 
+ 
+ Applying row transformations:   
+ 
+ 
+ R1 = R1-2*R2   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.    4.  
+    1.    4.    0.  - 1.  
+    2.    6.  - 1.    5.  
+ 
+ 
+ R3 = R3-2*R2   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.    4.  
+    1.    4.    0.  - 1.  
+    0.  - 2.  - 1.    7.  
+ 
+ 
+ R3 = R3/-2   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.     4.   
+    1.    4.    0.   - 1.   
+    0.    1.    0.5  - 3.5  
+ 
+ 
+ R2 = R2-4*R3   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.     4.   
+    1.    0.  - 2.     13.  
+    0.    1.    0.5  - 3.5  
+ 
+ 
+ R1 = R1+9*R3   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    7.5  - 27.5  
+    1.    0.  - 2.     13.   
+    0.    1.    0.5  - 3.5   
+ 
+ 
+ R1 = R1*2/15   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    1.   - 3.6666667  
+    1.    0.  - 2.     13.        
+    0.    1.    0.5  - 3.5        
+ 
+ 
+ R2 = R2+2*R1   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    1.   - 3.6666667  
+    1.    0.    0.     5.6666667  
+    0.    1.    0.5  - 3.5        
+ 
+ 
+ R3 = R3-R1/2   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    1.  - 3.6666667  
+    1.    0.    0.    5.6666667  
+    0.    1.    0.  - 1.6666667  
+ 
+ 
+ We get the system of equations as:   
+ 
+ 
+ 2*x1 - x2 + 3*x3 + 2*x4 = 0   
+ 
+ 
+ x1 + 4*x2 - x4 = 0   
+ 
+ 
+ 2*x1 + 6* x2 - x3 + 5*x4 = 0   
+ 
+ 
+ and   
+ 
+ 
+ x3 - 11/3*x4 = 0   
+ 
+ x1 + 17/3*x4 = 0   
+ 
+ x2 - 5/3*x4 = 0   
+ 
+ 
+ now by assigning any rational value c to x4 in system second, the solution is  
+      evaluated as:                                                             
+ 
+ 
+ (-17/3*c,5/3,11/3*c,c)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    2.  - 1.    3.    2.  
+    1.    4.    0.  - 1.  
+    2.    6.  - 1.    5.  
+ 
+ 
+ Applying row transformations:   
+ 
+ 
+ R1 = R1-2*R2   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.    4.  
+    1.    4.    0.  - 1.  
+    2.    6.  - 1.    5.  
+ 
+ 
+ R3 = R3-2*R2   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.    4.  
+    1.    4.    0.  - 1.  
+    0.  - 2.  - 1.    7.  
+ 
+ 
+ R3 = R3/-2   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.     4.   
+    1.    4.    0.   - 1.   
+    0.    1.    0.5  - 3.5  
+ 
+ 
+ R2 = R2-4*R3   
+ 
+ 
+ 
+ a =    
+ 
+    0.  - 9.    3.     4.   
+    1.    0.  - 2.     13.  
+    0.    1.    0.5  - 3.5  
+ 
+ 
+ R1 = R1+9*R3   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    7.5  - 27.5  
+    1.    0.  - 2.     13.   
+    0.    1.    0.5  - 3.5   
+ 
+ 
+ R1 = R1*2/15   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    1.   - 3.6666667  
+    1.    0.  - 2.     13.        
+    0.    1.    0.5  - 3.5        
+ 
+ 
+ R2 = R2+2*R1   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    1.   - 3.6666667  
+    1.    0.    0.     5.6666667  
+    0.    1.    0.5  - 3.5        
+ 
+ 
+ R3 = R3-R1/2   
+ 
+ 
+ 
+ a =    
+ 
+    0.    0.    1.  - 3.6666667  
+    1.    0.    0.    5.6666667  
+    0.    1.    0.  - 1.6666667  
+ 
+ 
+ We get the system of equations as:   
+ 
+ 
+ 2*x1 - x2 + 3*x3 + 2*x4 = 0   
+ 
+ 
+ x1 + 4*x2 - x4 = 0   
+ 
+ 
+ 2*x1 + 6* x2 - x3 + 5*x4 = 0   
+ 
+ 
+ and   
+ 
+ 
+ x3 - 11/3*x4 = 0   
+ 
+ x1 + 17/3*x4 = 0   
+ 
+ x2 - 5/3*x4 = 0   
+ 
+ 
+ now by assigning any rational value c to x4 in system second, the solution is  
+      evaluated as:                                                             
+ 
+ 
+ (-17/3*c,5/3,11/3*c,c)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+  - 1.     i    
+  - i      3.   
+    1.     2.   
+ 
+ 
+ Applying row transformations:   
+ 
+ 
+ R1 = R1+R3 and R2 = R2 + i *R3   
+ 
+ 
+ 
+ 
+ a =    
+ 
+    0     2. + i    
+    0     3. + 2.i  
+    1.    2.        
+ 
+ 
+ R1 = R1 * (1/2+i)   
+ 
+ 
+ 
+ a =    
+ 
+    0     1.        
+    0     3. + 2.i  
+    1.    2.        
+ 
+ 
+ R2 = R2-R1*(3+2i) and R3 = R3 - 2 *R1   
+ 
+ 
+ 
+ 
+ a =    
+ 
+    0     1.  
+    0     0   
+    1.    0   
+ 
+ 
+ Thus the system of equations is:   
+ 
+ 
+ -x1+i*x2 = 0   
+ 
+ -i*x1 + 3*x2 = 0   
+ 
+ x1 + 2*x2 = 0   
+ 
+ 
+ It has only trivial solution x1 = x2 = 0   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1.    0.  
+    0.    1.  
+ 
+This is an Identity matrix of order 2 * 2 
+ 
+ And It is a row reduced matrix.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.8/Ex1_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1.    0.  
+    0.    1.  
+ 
+This is an Identity matrix of order 2 * 2 
+ 
+ And It is a row reduced matrix.   
+ 
+ 
+ 
+ 
+ 
+ 
+     []
+ 
+This is an Zero matrix of order 8 * 0 
+ 
+ And It is also a row reduced matrix.   
+ 
+ 
+ 
+ a =    
+ 
+    0.    1.  - 3.    0.    0.5  
+    0.    0.    0.    1.    2.   
+    0.    0.    0.    0.    0.   
+ 
+ 
+ This is a non-trivial row reduced matrix.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.9/Ex1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.  - 2.    1.  
+    2.    1.    1.  
+    0.    5.  - 1.  
+ 
+ 
+ Applying row transformations:   
+ 
+ 
+ R2 = R2 - 2*R1   
+ 
+ 
+ 
+ A =    
+ 
+    1.  - 2.    1.  
+    0.    5.  - 1.  
+    0.    5.  - 1.  
+ 
+ 
+ R3 = R3 - R2   
+ 
+ 
+ 
+ A =    
+ 
+    1.  - 2.    1.  
+    0.    5.  - 1.  
+    0.    0.    0.  
+ 
+ 
+ R2 = 1/5*R2   
+ 
+ 
+ 
+ A =    
+ 
+    1.  - 2.    1.   
+    0.    1.  - 0.2  
+    0.    0.    0.   
+ 
+ 
+ R1 = R1 - 2*R2   
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    0.6  
+    0.    1.  - 0.2  
+    0.    0.    0.   
+ 
+ 
+ The condition that the system have a solution is:   
+ 
+ 
+ 2*y1 - y2 + y3 = 0   
+ 
+ 
+ where, y1,y2,y3 are some scalars   
+ 
+ 
+ If the condition is satisfied then solutions are obtained by assigning a value 
+       c to x3                                                                  
+ 
+ 
+ Solutions are:   
+ 
+ 
+ x1 = -3/5*c + 1/5*(y1 + 2*y2)   
+ 
+ x2 = 1/5*c + 1/5*(y2 - 2*y1)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    1.    0.  
+  - 3.    1.  
+ 
+ 
+ b=   
+ 
+    5.   - 1.    2.  
+    15.    4.    8.  
+ 
+ 
+ ab =    
+ 
+    5.  - 1.    2.  
+    0.    7.    2.  
+ 
+ 
+ -----------------------------------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    1.    0.  
+  - 2.    3.  
+    5.    4.  
+    0.    1.  
+ 
+ 
+ b=   
+ 
+    0.    6.    1.  
+    3.    8.  - 2.  
+ 
+ 
+ ab =    
+ 
+    0.     6.     1.  
+    9.     12.  - 8.  
+    12.    62.  - 3.  
+    3.     8.   - 2.  
+ 
+ 
+ -----------------------------------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    2.    1.  
+    5.    4.  
+ 
+ 
+ b=   
+ 
+    1.  
+    6.  
+ 
+ 
+ ab =    
+ 
+    8.   
+    29.  
+ 
+ 
+ -----------------------------------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+  - 1.  
+    3.  
+ 
+ 
+ b=   
+ 
+    2.    4.  
+ 
+ 
+ ab =    
+ 
+  - 2.  - 4.   
+    6.    12.  
+ 
+ 
+ -----------------------------------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    2.    4.  
+ 
+ 
+ b=   
+ 
+  - 1.  
+    3.  
+ 
+ 
+ ab =    
+ 
+    10.  
+ 
+ 
+ -----------------------------------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    0.    1.    0.  
+    0.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ b=   
+ 
+    1.  - 5.    2.  
+    2.    3.    4.  
+    9.  - 1.    3.  
+ 
+ 
+ ab =    
+ 
+    2.    3.    4.  
+    0.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ -----------------------------------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    1.  - 5.    2.  
+    2.    3.    4.  
+    9.  - 1.    3.  
+ 
+ 
+ b=   
+ 
+    0.    1.    0.  
+    0.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ ab =    
+ 
+    0.    1.    0.  
+    0.    2.    0.  
+    0.    9.    0.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.11/Ex1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ I = m * m identity matrix   
+ 
+ 
+ A = m * n matrix   
+ 
+ 
+ Then,   
+ 
+ I*A = A   
+ 
+ 
+ A * I = A   
+ 
+ 
+ 0(k,m) = k * m zero matrix   
+ 
+ 
+ Then,   
+ 
+ 0(k,m) = 0(k,m) * A   
+ 
+ 
+ And, A*0(k,m) = 0(k,m)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.13/Ex1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A 2*2 elementary matrix is one of the following:   
+ 
+ 
+ 
+    0.    1.  
+    1.    0.  
+ 
+ 
+ ---------------------   
+ 
+ 
+ 1   c   
+ 
+ 
+ 0   1   
+ 
+ 
+ ---------------------   
+ 
+ 
+ 1   0   
+ 
+ 
+ c   1   
+ 
+ 
+ ---------------------   
+ 
+ 
+ c   0   
+ 
+ 
+ 0   1   
+ 
+ 
+ where, c is not equal to 0   
+ 
+ 
+ ---------------------   
+ 
+ 
+ 1   0   
+ 
+ 
+ 0   c   
+ 
+ 
+ where, c is not equal to 0   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.14/Ex1_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+    0.    1.  
+    1.    0.  
+ 
+ 
+ inverse a =    
+ 
+    0.    1.  
+    1.    0.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.15/Ex1_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+    2.  - 1.  
+    1.    3.  
+ 
+ 
+ 
+ Applying row tranformations   
+ 
+ 
+ Interchange R1 and R2   
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+    1.    3.  
+    2.  - 1.  
+ 
+ 
+ R2 = R2 - 2 * R1   
+ 
+ 
+ 
+ a =    
+ 
+    1.    3.  
+    0.  - 7.  
+ 
+ 
+ R2 = R2 *1/(-7)   
+ 
+ 
+ 
+ a =    
+ 
+    1.    3.  
+    0.    1.  
+ 
+ 
+ R1 = R1 - 3 * R2   
+ 
+ 
+ 
+ a =    
+ 
+    1.    0.  
+    0.    1.  
+ 
+ 
+ Since a  has become an identity matrix. So, a is invertible   
+ 
+ 
+ inverse of a =    
+ 
+ 
+    0.4285714    0.1428571  
+  - 0.1428571    0.2857143  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH1/EX1.16/Ex1_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+    1.           0.5          0.3333333  
+    0.5          0.3333333    0.25       
+    0.3333333    0.25         0.2        
+ 
+ 
+ 
+ b =    
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ Applying row transformations on a and b simultaneously,   
+ 
+ 
+ R2 = R2 - 1/2 * R1 and R3 = R3 - 1/3*R1   
+ 
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+    1.    0.5          0.3333333  
+    0.    0.0833333    0.0833333  
+    0.    0.0833333    0.0888889  
+ 
+ 
+ b =    
+ 
+    1.           0.    0.  
+  - 0.5          1.    0.  
+  - 0.3333333    0.    1.  
+ 
+ 
+ R3 = R3 - R2   
+ 
+ 
+ 
+ 
+ a =    
+ 
+    1.    0.5          0.3333333  
+    0.    0.0833333    0.0833333  
+    0.    2.776D-17    0.0055556  
+ 
+ 
+ b =    
+ 
+    1.           0.    0.  
+  - 0.5          1.    0.  
+    0.1666667  - 1.    1.  
+ 
+ 
+ R2 = R2 * 12 and R3 = R3 * 180   
+ 
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+    1.    0.5          0.3333333  
+    0.    1.           1.         
+    0.    4.996D-15    1.         
+ 
+ 
+ b =    
+ 
+    1.     0.      0.    
+  - 6.     12.     0.    
+    30.  - 180.    180.  
+ 
+ 
+ R2 = R2 - R3 and R1 = R1 - 1/3*R3   
+ 
+ 
+ 
+ 
+ 
+ 
+ a =    
+ 
+    1.    0.5        - 4.441D-16  
+    0.    1.         - 1.332D-15  
+    0.    4.996D-15    1.         
+ 
+ 
+ b =    
+ 
+  - 9.     60.   - 60.   
+  - 36.    192.  - 180.  
+    30.  - 180.    180.  
+ 
+ 
+ R1 = R1 - 1/2 * R2   
+ 
+ 
+ 
+ 
+ a =    
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ b =    
+ 
+    9.   - 36.     30.   
+  - 36.    192.  - 180.  
+    30.  - 180.    180.  
+ 
+ 
+ Since, a = identity matrix of order 3*3. So, b is inverse of a   
+ 
+ 
+ inverse(a) =    
+ 
+    9.   - 36.     30.   
+  - 36.    192.  - 180.  
+    30.  - 180.    180.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ a and b are n-tuples scalars as:   
+ 
+ 
+ a = (x1,x2,x3,..,xn)   
+ 
+ 
+ b = (y1,y2,y3,..,yn)   
+ 
+ 
+ Then a+b = (x1+y1, x2+y2, x3+y3,.., xn+yn)   
+ 
+ 
+ And a*b = (x1*y1, x2*y2, x3*y3,..,xn*yn)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A and B are two m*n matrices where m,n > 0   
+ 
+ 
+ Sum of A and B:  (A+B)(i,j) = A(i,j) + B(i,j)   
+ 
+ 
+ where i and j are index values   
+ 
+ 
+ Product of a scalar c and matrix A:  (c*A)(i,j) = c*A(i,j)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A = m*n matrix over field F   
+ 
+ 
+ X and Y are n*1 matrices over F   
+ 
+ 
+ A*X = 0, A*Y = 0   
+ 
+ 
+ c is a scalar   
+ 
+ 
+ So, A(cX+Y) = c*A*X + A*Y = 0   
+ 
+ 
+ Hence, the set of all n*1 column matrices is the subspace of space of all n*1  
+      matrices over F                                                           
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    1.    2.    0.    3.    0.  
+ 
+ 
+ a2 =    
+ 
+    0.    0.    1.    4.    0.  
+ 
+ 
+ a3 =    
+ 
+    0.    0.    0.    0.    1.  
+ 
+ 
+ By theorem 3, vector a is in subspace W of F^5 spanned by a1, a2, a3   
+ 
+ 
+ if and only if there exist scalars c1, c2, c3 such that   
+ 
+ 
+ a= c1a1 + c2a2 + c3a3   
+ 
+ 
+ So, a = (c1,2*c1,c2,3c1+4c2,c3)   
+ 
+ 
+ 
+ 
+ 
+ 
+ c1 =    
+ 
+  - 3.  
+ 
+ 
+ c2 =    
+ 
+    1.  
+ 
+ 
+ c3 =    
+ 
+    2.  
+ 
+ 
+ Therefore, a =    
+ 
+  - 3.  - 6.    1.  - 5.    2.  
+ 
+ 
+ This shows, a is in W   
+ 
+ 
+ And (2,4,6,7,8) is not in W as there is no value of c1 c2 c3 that satisfies th 
+      e equation                                                                
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ W1 =    
+ 
+ 
+ x    y   
+ 
+ 
+ z    0   
+ 
+ 
+ where, x,y,z are scalars in F   
+ 
+ 
+ W2 =    
+ 
+ 
+ x    0   
+ 
+ 
+ 0    y   
+ 
+ 
+ where, x,y are scalars in F   
+ 
+ 
+ Now, V = W1 + W2   
+ 
+ 
+ This is because,   
+ 
+ 
+ a    b   
+ 
+ 
+ c    d   =     
+ 
+ 
+ a    b      +     0    0   
+ 
+ 
+ c    0            0    d   
+ 
+ 
+ And, W1 (intersect) W2) =    
+ 
+ 
+ x    0   
+ 
+ 
+ 0    0   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    2.    0.    3.    0.  
+    0.    0.    1.    4.    0.  
+    0.    0.    0.    0.    1.  
+ 
+ 
+ The subspace of F^5 spanned by a1 a2 a3(row vectors of A) is called row space  
+      of A.                                                                     
+ 
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    1.    2.    0.    3.    0.  
+ 
+ 
+ a2 =    
+ 
+    0.    0.    1.    4.    0.  
+ 
+ 
+ a3 =    
+ 
+    0.    0.    0.    0.    1.  
+ 
+ 
+ And, it is also the row space of B.   
+ 
+ 
+ 
+ B =    
+ 
+    1.    2.    0.    3.    0.  
+    0.    0.    1.    4.    0.  
+    0.    0.    0.    0.    1.  
+  - 4.  - 8.    1.  - 8.    0.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ V is the space of all polynomial functions over F.   
+ 
+ 
+ S contains the functions as:   
+ 
+ 
+ 
+ 
+ n =    
+ 
+    2.  
+ 
+f0(x) =  
+    1   
+f1(x) =  
+    x   
+f2(x) =  
+     2  
+    x   
+ 
+ 
+ Then, V is the subspace spanned by set S.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.12/Ex2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    3.    0.  - 3.  
+ 
+ 
+ a2 =    
+ 
+  - 1.    1.    2.  
+ 
+ 
+ a3 =    
+ 
+    4.    2.  - 2.  
+ 
+ 
+ a4 =    
+ 
+    2.    1.    1.  
+ 
+ 
+ 
+  Since, 2 * a1 + 2 * a2 - a3 + 0 * a4 =    
+ 
+    0.    0.    0.  
+ 
+  = 0   
+ 
+ 
+ a1,a2,a3,a4 are linearly independent   
+ 
+ 
+ 
+ 
+ 
+ Now, e1 =    
+ 
+    1.    0.    0.  
+ 
+ 
+ e2 =    
+ 
+    0.    1.    0.  
+ 
+ 
+ e3 =    
+ 
+    0.    0.    1.  
+ 
+ 
+ Also, e1,e2,e3 are linearly independent.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.13/Ex2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ S is the subset of F^n consisting of n vectors.   
+ 
+ 
+ 
+ n =    
+ 
+    3.  
+ 
+ 
+e1 =  
+    1.    0.    0.  
+e2 =  
+    0.    1.    0.  
+e3 =  
+    0.    0.    1.  
+ 
+ 
+ x1,x2,x3...xn are the scalars in F   
+ 
+ 
+ Putting a = x1*e1 + x2*e2 + x3*e3 + .... + xn*en   
+ 
+ 
+ So, a = (x1,x2,x3,...,xn)   
+ 
+ 
+ Therefore, e1,e2..,en span F^n   
+ 
+ 
+ a = 0 if x1 = x2 = x3 = .. = xn = 0   
+ 
+ 
+ So,e1,e2,e3,..,en are linearly independent.   
+ 
+ 
+ The set S = {e1,e2,..,en} is called standard basis of F^n   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.19/Ex2_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ P =    
+ 
+ 
+ cos(thetha)     -sin(thetha)   
+ 
+ 
+ sin(thetha)      cos(thetha)   
+ 
+ 
+ Inverse(P) =    
+ 
+ 
+ cos(thetha)       sin(thetha)   
+ 
+ 
+ -sin(thetha)      cos(thetha)   
+ 
+ 
+ where, thetha is some real number   
+ 
+ 
+ The basis for R^2 (B') is the set consisting of vectors (cos(thetha) , sin(the 
+      tha)) and (-sin(thetha) , cos(thetha))                                    
+ 
+ 
+ This basis may be obtained by rotating the standard basis by angle thetha   
+ 
+ 
+ a = [x1 x2]   
+ 
+ 
+ [a]B' =    
+ 
+ 
+ |cos(thetha)       sin(thetha)|         *           |x1|   
+ 
+ 
+ |-sin(thetha)      cos(thetha)|                     |x2|   
+ 
+ 
+ or   
+ 
+ 
+ x1' = x1*cos(thetha) + x2*sin(thetha)   
+ 
+ 
+ x2' = -x1*sin(thetha) + x2*cos(thetha)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.20/Ex2_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P =    
+ 
+  - 1.    4.    5.  
+    0.    2.  - 3.  
+    0.    0.    8.  
+ 
+ 
+ inverse(P) =    
+ 
+  - 1.    2.     1.375   
+    0.    0.5    0.1875  
+    0.    0.     0.125   
+ 
+ 
+ 
+ 
+ 
+ The vectors forming basis of F^3 are a1', a2', a3'   
+ 
+ 
+ a1' =    
+ 
+  - 1.    0.    0.  
+ 
+ 
+ a2' =    
+ 
+    4.    2.    0.  
+ 
+ 
+ a3' =    
+ 
+    5.  - 3.    8.  
+ 
+ 
+ The coordinates x1',x2',x3' of vector a = [x1,x2,x3] is given by inverse(P)*[x 
+      1; x2; x3]                                                                
+ 
+ 
+ 
+ And, -10*a1' - 1/2*a2' - a3' =    
+ 
+    3.  
+    2.  
+  - 8.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.21/Ex2_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Given row vectors are:   
+ 
+ 
+ a1 =    
+ 
+    1.    2.    2.    1.  
+ 
+ 
+ a2 =    
+ 
+    0.    2.    0.    1.  
+ 
+ 
+ a3 =    
+ 
+  - 2.    0.  - 4.    3.  
+ 
+ 
+ The matrix A from these vectors will be:   
+ 
+ 
+ 
+ A =    
+ 
+    1.    2.    2.    1.  
+    0.    2.    0.    1.  
+  - 2.    0.  - 4.    3.  
+ 
+ 
+ Finding Row reduced echelon matrix of A that is given by R   
+ 
+ 
+ And applying same operations on identity matrix Q such that R = QA   
+ 
+ 
+ 
+ Q =    
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ 
+ Applying row transformations on A and Q,we get   
+ 
+ 
+ R1 = R1-R2   
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    2.    0.    1.  
+  - 2.    0.  - 4.    3.  
+ 
+ 
+ Q =    
+ 
+    1.  - 1.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ R3 = R3 + 2*R1   
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    2.    0.    1.  
+    0.    0.    0.    3.  
+ 
+ 
+ Q =    
+ 
+    1.  - 1.    0.  
+    0.    1.    0.  
+    2.  - 2.    1.  
+ 
+ 
+ R3 = R3/3   
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    2.    0.    1.  
+    0.    0.    0.    1.  
+ 
+ 
+ Q =    
+ 
+    1.         - 1.           0.         
+    0.           1.           0.         
+    0.6666667  - 0.6666667    0.3333333  
+ 
+ 
+ R2 = R2/2   
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.   
+    0.    1.    0.    0.5  
+    0.    0.    0.    1.   
+ 
+ 
+ Q =    
+ 
+    1.         - 1.           0.         
+    0.           0.5          0.         
+    0.6666667  - 0.6666667    0.3333333  
+ 
+ 
+ R2 = R2 - 1/2*R3   
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    1.    0.    0.  
+    0.    0.    0.    1.  
+ 
+ 
+ Q =    
+ 
+    1.         - 1.           0.         
+  - 0.3333333    0.8333333  - 0.1666667  
+    0.6666667  - 0.6666667    0.3333333  
+ 
+ 
+ 
+ 
+ Row reduced echelon matrix:   
+ 
+ 
+ R =    
+ 
+    1.    0.    2.    0.  
+    0.    1.    0.    0.  
+    0.    0.    0.    1.  
+ 
+ 
+ Q =   
+ 
+    1.         - 1.           0.         
+  - 0.3333333    0.8333333  - 0.1666667  
+    0.6666667  - 0.6666667    0.3333333  
+ 
+ 
+ 
+ rank of R =    
+ 
+    3.  
+ 
+ 
+ Since, Rank of R is 3, so a1, a2, a3 are independent   
+ 
+ 
+ 
+ Now, basis for W can be given by row vectors of R i.e. p1,p2,p3   
+ 
+ 
+ b is any vector in W. b = [b1 b2 b3 b4]   
+ 
+ 
+ Span of vectors p1,p2,p3 consist of vector b with b3 = 2*b1   
+ 
+ 
+ So,b = b1p1 + b2p2 + b4p3   
+ 
+ 
+ And,[p1 p2 p3] = R = Q*A   
+ 
+ 
+ So, b = [b1 b2 b3]* Q * A   
+ 
+ 
+ hence, b = x1a1 + x2a2 + x3a3 where x1 = [b1 b2 b4] * Q(1) and so on   
+ 
+ 
+ 
+ Now, given 3 vectors a1' a2' a3':   
+ 
+ 
+ 
+ 
+ 
+ a1' =    
+ 
+    1.    0.    2.    0.  
+ 
+ 
+ a2' =    
+ 
+    0.    2.    0.    1.  
+ 
+ 
+ a3' =    
+ 
+    0.    0.    0.    3.  
+ 
+ 
+ Since a1' a2' a3' are all of the form (y1 y2 y3 y4) with y3 = 2*y1, hence they 
+       are in W.                                                                
+ 
+ 
+ So, they are independent.   
+ 
+ 
+ 
+ 
+ 
+ 
+ Required matrix P such that X = PX' is:   
+ 
+ 
+ P =    
+ 
+    1.    0.    2.  
+  - 1.    1.  - 2.  
+    0.    0.    1.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH2/EX2.22/Ex2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    2.    0.    3.     0.  
+    1.    2.  - 1.  - 1.     0.  
+    0.    0.    1.    4.     0.  
+    2.    4.    1.    10.    1.  
+    0.    0.    0.    0.     1.  
+ 
+ 
+ 
+ 
+ Taking an identity matrix P:   
+ 
+ 
+ 
+ P =    
+ 
+    1.    0.    0.    0.    0.  
+    0.    1.    0.    0.    0.  
+    0.    0.    1.    0.    0.  
+    0.    0.    0.    1.    0.  
+    0.    0.    0.    0.    1.  
+ 
+ 
+ Applying row transformations on P and A to get a row reduced echelon matrix R: 
+ 
+ 
+ R2 = R2 - R1 and R4 = R4 - 2* R1   
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    2.    0.    3.    0.  
+    0.    0.  - 1.  - 4.    0.  
+    0.    0.    1.    4.    0.  
+    0.    0.    1.    4.    1.  
+    0.    0.    0.    0.    1.  
+ 
+ 
+ P =    
+ 
+    1.    0.    0.    0.    0.  
+  - 1.    1.    0.    0.    0.  
+    0.    0.    1.    0.    0.  
+  - 2.    0.    0.    1.    0.  
+    0.    0.    0.    0.    1.  
+ 
+ 
+ R2 = -R2 , R3 = R3 - R1 + R2 and R4  = R4 - R1 + R2   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    2.    0.    3.    0.  
+    0.    0.    1.    4.    0.  
+    0.    0.    0.    0.    0.  
+    0.    0.    0.    0.    1.  
+    0.    0.    0.    0.    1.  
+ 
+ 
+ P =    
+ 
+    1.    0.    0.    0.    0.  
+    1.  - 1.    0.    0.    0.  
+  - 1.    1.    1.    0.    0.  
+  - 3.    1.    0.    1.    0.  
+    0.    0.    0.    0.    1.  
+ 
+ 
+ Mutually interchanging R3, R4 and R5   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Row reduced echelon matrix R =    
+ 
+    1.    2.    0.    3.    0.  
+    0.    0.    1.    4.    0.  
+    0.    0.    0.    0.    1.  
+    0.    0.    0.    0.    0.  
+    0.    0.    0.    0.    0.  
+ 
+ 
+ Invertible Matrix P =    
+ 
+    1.    0.    0.    0.    0.  
+    1.  - 1.    0.    0.    0.  
+    0.    0.    0.    0.    1.  
+  - 1.    1.    1.    0.    0.  
+  - 3.    1.    0.    1.  - 1.  
+ 
+ 
+ Invertible matrix P is not unique. There can be many that depends on operation 
+      s used to reduce A                                                        
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ For the basis of row space W of A, we can take the non-zero rows of R   
+ 
+ 
+ It can be given by p1, p2, p3   
+ 
+ 
+ 
+ 
+ 
+ p1 =    
+ 
+    1.    2.    0.    3.    0.  
+ 
+ 
+ p2 =    
+ 
+    0.    0.    1.    4.    0.  
+ 
+ 
+ p3 =    
+ 
+    0.    0.    0.    0.    1.  
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ The row space W consists of vectors of the form:   
+ 
+ 
+ b = c1p1 + c2p2 + c3p3   
+ 
+ 
+ i.e. b = (c1,2*c1,c2,3*c1+4*c2,c3) where, c1 c2 c3 are scalars.   
+ 
+ 
+ So, if b2 = 2*b1 and b4 = 3*b1 + 4*b3  =>  (b1,b2,b3,b4,b5) = b1p1 + b3p2 + b5 
+      p3                                                                        
+ 
+ 
+ then,(b1,b2,b3,b4,b5) is in W   
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ The coordinate matrix of the vector (b1,2*b1,b2,3*b1+4*b2,b3) in the basis (p1 
+      ,p2,p3) is column matrix of b1,b2,b3 such that:                           
+ 
+ 
+   b1   
+ 
+ 
+   b2   
+ 
+ 
+   b3   
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ Now, to write each vector in W as a linear combination of rows of A:   
+ 
+ 
+ Let b = (b1,b2,b3,b4,b5) and if b is in W, then   
+ 
+ 
+ we know,b = (b1,2*b1,b3,3*b1 + 4*b3,b5)  =>  [b1,b3,b5,0,0]*R   
+ 
+ 
+ => b = [b1,b3,b5,0,0] * P*A  =>  b = [b1+b3,-b3,0,0,b5] * A   
+ 
+ 
+ if b = (-5,-10,1,-11,20)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b =    
+ 
+ (   
+ 
+  - 4.  - 1.    0.    0.    20.  
+ 
+ )   
+ 
+ *   
+ 
+ [   
+ 
+    1.    2.    0.    3.     0.  
+    1.    2.  - 1.  - 1.     0.  
+    0.    0.    1.    4.     0.  
+    2.    4.    1.    10.    1.  
+    0.    0.    0.    0.     1.  
+ 
+ ]   
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ The equations in system RX = 0 are given by R * [x1 x2 x3 x4 x5]   
+ 
+ 
+ i.e., x1 + 2*x2 + 3*x4   
+ 
+ 
+ x3 + 4*x4   
+ 
+ 
+ x5   
+ 
+ 
+ so, V consists of all columns of the form   
+ 
+ 
+ X=   
+ 
+ [   
+ 
+ 
+   -2*x2 - 3*x4   
+ 
+ 
+   x2   
+ 
+ 
+   -4*x4   
+ 
+ 
+   x4   
+ 
+ 
+   0   
+ 
+ 
+ ]   
+ 
+ where x2 and x4  are arbitrary   
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ Let x2 = 1,x4 = 0 then the given column forms a basis of V   
+ 
+ 
+ 
+ 
+  - 2.  
+    1.  
+    0.  
+    0.  
+    0.  
+ 
+ 
+ Similarly,if x2 = 0,x4 = 1 then the given column forms a basis of V   
+ 
+ 
+ 
+ 
+  - 3.  
+    0.  
+  - 4.  
+    1.  
+    0.  
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ The equation AX = Y has solutions X if and only if   
+ 
+ 
+ -y1 + y2 + y3 = 0   
+ 
+ 
+ -3*y1 + y2 + y4 -y5 = 0   
+ 
+ 
+ where, Y = (y1 y2 y3 y4 y5)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ If V is a vector space, the identity transformation I defined by I*alpha = alp 
+      ha is a linear transformation from V into V.                              
+ 
+ 
+ The zero transformation defined by 0*alpha = 0 is a linear transformation from 
+       V into V.                                                                
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A is an m * n matrix defined in field F   
+ 
+ 
+ Linear transformation function from F^(n*1) into F^(m*1) is given as:   
+ 
+ 
+ T(X) = AX   
+ 
+ 
+ Linear transformation function from F^m into F^n is given as:   
+ 
+ 
+ U(a) = aA   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    1.    2.  
+ 
+ 
+ a2 =    
+ 
+    3.    4.  
+ 
+ 
+ a1 and a2 are linearly independent and hence form a basis for R^2   
+ 
+ 
+ According to theorem 1, there is a linear transformation from R^2 to R^3 with  
+      the transformation functions as:                                          
+ 
+ 
+ 
+ 
+ Ta1 =    
+ 
+    3.    2.    1.  
+ 
+ 
+ Ta2 =    
+ 
+    6.    5.    4.  
+ 
+ 
+ Now, we find scalars c1 and c2 for that we know T(c1a1 + c2a2) = c1(Ta1) + c2( 
+      Ta2))                                                                     
+ 
+ 
+ if(1,0) = c1(1,2) + c2(3,4), then    
+ 
+ 
+ 
+ 
+ 
+ c1 =    
+ 
+  - 2.  
+ 
+ 
+ c2 =    
+ 
+    1.  
+ 
+ 
+ The transformation function T(1,0) will be:   
+ 
+ 
+ 
+ T(1,0) =    
+ 
+    0.    1.    2.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x1 =    
+ 
+    2.  
+ 
+ 
+ x2 =    
+ 
+    8.  
+ 
+T(2,8) =  
+ 
+    10.    2.  
+ 
+ 
+ If, T(x1,x2) = 0, then   
+ 
+ 
+ x1 = x2 = 0   
+ 
+ 
+ So, T is non-singular   
+ 
+ 
+ z1,z2 are two scalars in F   
+ 
+ 
+ 
+ 
+ z1 =    
+ 
+    0.  
+ 
+ 
+ z2 =    
+ 
+    3.  
+ 
+ 
+ 
+ 
+ So, x1 =    
+ 
+    3.  
+ 
+ 
+ x2 =    
+ 
+  - 3.  
+ 
+ 
+ Hence, T is onto.   
+ 
+ 
+ 
+ inverse(T) =    
+ 
+    3.  - 3.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T is a linear operator on F^2 defined as:   
+ 
+ 
+ T(x1,x2) = (x1,0)   
+ 
+ 
+ B = {e1,e2} is a standard ordered basis for F^2,then   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ So, Te1 = T(1,0) =    
+ 
+    1.    0.  
+ 
+ 
+ So, Te2 = T(0,1) =    
+ 
+    0.    0.  
+ 
+ 
+ so,matrix T in ordered basis B is:    
+ 
+ 
+ 
+ T =    
+ 
+    1.    0.  
+    0.    0.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Differentiation operator D is defined as:   
+ 
+ 
+ 
+(Df1)(x) =  
+    0  
+(Df2)(x) =  
+    1   
+(Df3)(x) =  
+    2x   
+(Df4)(x) =  
+      2  
+    3x   
+ 
+ 
+ Matrix of D in ordered basis is:   
+ 
+ 
+ [D] =    
+ 
+    0.    1.    0.    0.  
+    0.    0.    2.    0.  
+    0.    0.    0.    3.  
+    0.    0.    0.    0.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T is a linear operator on R^2 defined as T(x1,x2) = (x1,0)   
+ 
+ 
+ So, the matrix T in standard ordered basis B = {e1,e2} is    
+ 
+ 
+ 
+ [T]B =    
+ 
+    1.    0.  
+    0.    0.  
+ 
+ 
+ Let B' is the ordered basis for R^2 consisting of vectors:   
+ 
+ 
+ 
+ 
+ E1 =    
+ 
+    1.    1.  
+ 
+ 
+ E2 =    
+ 
+    2.    1.  
+ 
+ P  =
+ 
+    1.    2.  
+    1.    1.  
+ 
+ 
+ So, matrix P =    
+ 
+    1.    2.  
+    1.    1.  
+ 
+ 
+ 
+ P inverse =    
+ 
+  - 1.    2.  
+    1.  - 1.  
+ 
+ 
+ 
+ So, matrix T in ordered basis B' is [T]B' =    
+ 
+  - 1.  - 2.  
+    1.    2.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ g1 = f1   
+ 
+ 
+ g2 = t*f1 + f2   
+ 
+ 
+ g3 = t^2*f1 + 2*t*f2 + f3   
+ 
+ 
+ g4 = t^3*f1 + 3*t^2*f2 + 3*t*f3 + f4   
+ 
+ 
+ 
+ P =    
+ 
+                 2      3   
+    1     t     t      t    
+                            
+                         2  
+    0     1     2t     3t   
+                            
+    0     0     1      3t   
+                            
+    0     0     0      1    
+ 
+ 
+ inverse P =    
+ 
+                 2      3   
+    1   - t     t    - t    
+                            
+                         2  
+    0     1   - 2t     3t   
+                            
+    0     0     1    - 3t   
+                            
+    0     0     0      1    
+ 
+ 
+ Matrix of differentiation operator D in ordered basis B is:   
+ 
+ 
+ 
+ D =    
+ 
+    0.    1.    0.    0.  
+    0.    0.    2.    0.  
+    0.    0.    0.    3.  
+    0.    0.    0.    0.  
+ 
+ 
+ Matrix of D in ordered basis B' is:   
+ 
+ 
+ inverse(P) * D * P =    
+ 
+    0    1     0     0   
+                         
+    0    0     2     0   
+                         
+    0    0     0     3   
+                         
+    0    0     0     0   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n =    
+ 
+    4.  
+ 
+ 
+ 
+ A =    
+ 
+    8.    6.    1.    2.  
+    0.    8.    6.    5.  
+    3.    7.    7.    2.  
+    7.    9.    7.    2.  
+ 
+ 
+ 
+ Trace of A:   
+ 
+ 
+ 
+ tr(A) =    
+ 
+    25.  
+ 
+ 
+ --------------------------------   
+ 
+ 
+ 
+ c =    
+ 
+    4.  
+ 
+ 
+ 
+ B =    
+ 
+    9.    2.    6.    5.  
+    7.    3.    5.    4.  
+    3.    4.    3.    3.  
+    9.    3.    6.    6.  
+ 
+ 
+ Trace of B:   
+ 
+ 
+ 
+ tr(B) =    
+ 
+    21.  
+ 
+ 
+ tr(cA + B) =    
+ 
+    121.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.20/Ex3_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Let V be the space of all polynomial functions from F into itself and t be any 
+       element of F.                                                            
+ 
+ 
+ If, Lt(p) = p(t), then Lt is a linear functional on V.   
+ 
+ 
+ That is, for each t, evaluation at t is a linear functional on the space of po 
+      lynomial functions.                                                       
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.23/Ex3_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Matrix represented by given linear functionals on R^4:   
+ 
+ 
+ 
+ A =    
+ 
+    1.    2.    2.    1.  
+    0.    2.    0.    1.  
+  - 2.    0.  - 4.    3.  
+ 
+ 
+ 
+ To find Row reduced echelon matrix of A given by R:   
+ 
+ 
+ Applying row transformations on A,we get   
+ 
+ 
+ R1 = R1-R2   
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    2.    0.    1.  
+  - 2.    0.  - 4.    3.  
+ 
+ 
+ R3 = R3 + 2*R1   
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    2.    0.    1.  
+    0.    0.    0.    3.  
+ 
+ 
+ R3 = R3/3   
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    2.    0.    1.  
+    0.    0.    0.    1.  
+ 
+ 
+ R2 = R2/2   
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.   
+    0.    1.    0.    0.5  
+    0.    0.    0.    1.   
+ 
+ 
+ R2 = R2 - 1/2*R3   
+ 
+ 
+ 
+ A =    
+ 
+    1.    0.    2.    0.  
+    0.    1.    0.    0.  
+    0.    0.    0.    1.  
+ 
+ 
+ 
+ 
+ Row reduced echelon matrix of A is:   
+ 
+ 
+ R =    
+ 
+    1.    0.    2.    0.  
+    0.    1.    0.    0.  
+    0.    0.    0.    1.  
+ 
+ 
+ Therefore,linear functionals g1,g2,g3 span the same subspace of (R^4)* as f1,f 
+      2,f3 are given by:                                                        
+ 
+ 
+ g1(x1,x2,x3,x4) = x1 + 2*x3   
+ 
+ 
+ g1(x1,x2,x3,x4) = x2   
+ 
+ 
+ g1(x1,x2,x3,x4) = x4   
+ 
+ 
+ The subspace consists of the vectors with   
+ 
+ 
+ x1 = -2*x3   
+ 
+ 
+ x2 = x4 = 0   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH3/EX3.24/Ex3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ W be the subspace of R^5 spanned by vectors:   
+ 
+ 
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    2.  - 2.    3.    4.  - 1.  
+ 
+ 
+ a2 =    
+ 
+  - 1.    1.    2.    5.    2.  
+ 
+ 
+ a3 =    
+ 
+    0.    0.  - 1.  - 2.    3.  
+ 
+ 
+ a4 =    
+ 
+    1.  - 1.    2.    3.    0.  
+ 
+ 
+ Matrix A by the row vectors a1,a2,a3,a4 will be:   
+ 
+ 
+ 
+ A =    
+ 
+    2.  - 2.    3.    4.  - 1.  
+  - 1.    1.    2.    5.    2.  
+    0.    0.  - 1.  - 2.    3.  
+    1.  - 1.    2.    3.    0.  
+ 
+ 
+ After Applying row transformations, we get the row reduced echelon matrix R of 
+       A;                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R =    
+ 
+    1.  - 1.    0.  - 1.    0.  
+    0.    0.    1.    2.    0.  
+    0.    0.    0.    0.    1.  
+    0.    0.    0.    0.    0.  
+ 
+ 
+ Then we obtain all the linear functionals f by assigning arbitrary values to c 
+      2 and c4                                                                  
+ 
+ 
+ Let c2 = a, c4 = b then c1 = a+b, c3 = -2b, c5 = 0.   
+ 
+ 
+ So, W0 consists all linear functionals f of the form   
+ 
+ 
+ f(x1,x2,x3,x4,x5) = (a+b)x1 + ax2 -2bx3 + bx4   
+ 
+ 
+ Dimension of W0 = 2 and basis {f1,f2} can be found by first taking a = 1, b =  
+      0. Then a = 0,b = 1                                                       
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The set of n*n matrices over a field is a linear algebra with identity.   
+ 
+ 
+ This algebra is not commutative if n >= 2.   
+ 
+ 
+ And the field which is an algebra with identity is commutative.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ C is the field of complex numbers   
+ 
+ 
+ 
+ 
+ f =    
+ 
+         2  
+    2 + x   
+ 
+ 
+ 
+ if a = C and z belongs to C, then f(z) = z^2 + 2   
+ 
+ 
+ f(2) =    
+ 
+    6.  
+ 
+ 
+ f(1+%i/1-%i) =    
+ 
+    1.  
+ 
+ 
+ ----------------------------------------   
+ 
+ 
+ 
+ If a is the algebra of all 2*2 matrices over C and   
+ 
+ 
+ 
+ B =    
+ 
+    1.    0.  
+  - 1.    2.  
+ 
+ 
+ then, f(B) =    
+ 
+    3.    0.  
+  - 3.    6.  
+ 
+ 
+ ----------------------------------------   
+ 
+ 
+ 
+ If a is algebra of all linear operators on C^3   
+ 
+ 
+ And T is element of a as:   
+ 
+ 
+ T(c1,c2,c3) = (i*2^1/2*c1,c2,i*2^1/2*c3)   
+ 
+ 
+ Then, f(T)(c1,c2,c3) = (0,3*c2,0)   
+ 
+ 
+ ----------------------------------------   
+ 
+ 
+ 
+ If a is the algebra of all polynomials over C   
+ 
+ 
+ 
+ And, g =    
+ 
+Real part
+
+ 
+     4  
+    x   
+Imaginary part
+
+ 
+    3   
+ 
+ 
+ Then f(g) =    
+ 
+Real part
+
+ 
+         8  
+  - 7 + x   
+Imaginary part
+
+ 
+      4  
+    6x   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M = (x+2)F[x] + (x^2 + 8x + 16)F[x]   
+ 
+ 
+ We assert, M = F[x]   
+ 
+ 
+ M contains:   
+ 
+ 
+ 
+    16 + 6x   
+ 
+ 
+ And hence M contains:   
+ 
+ 
+    4   
+ 
+ 
+ Thus the scalar polynomial 1 belongs to M as well all its multiples.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p1 =    
+ 
+    2 + x   
+ 
+ 
+ p2 =    
+ 
+               2  
+    16 + 8x + x   
+ 
+ 
+ M = (x+2)F[x] + (x^2 + 8x + 16)F[x]   
+ 
+ 
+ We assert, M = F[x]   
+ 
+ 
+ M contains:   
+ 
+ 
+ 
+    16 + 6x   
+ 
+ 
+ And hence M contains:   
+ 
+ 
+    4   
+ 
+ 
+ Thus the scalar polynomial 1 belongs to M as well all its multiples   
+ 
+ 
+ So, gcd(p1,p2) = 1   
+ 
+ 
+ ----------------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ p1 =    
+ 
+Real part
+
+ 
+           2   3  
+    4x - 4x + x   
+Imaginary part
+
+ 
+              2  
+    4 - 4x + x   
+ 
+ 
+ p2 =    
+ 
+              2   3  
+  - 2 + x - 2x + x   
+ 
+ 
+ M = (x - 2)^2*(x+%i)F[x] + (x-2)*(x^2 + 1   
+ 
+ 
+ The ideal M contains p1 - p2 i.e.,   
+ 
+ 
+Real part
+
+ 
+               2  
+    2 + 3x - 2x   
+Imaginary part
+
+ 
+              2  
+    4 - 4x + x   
+ 
+ 
+ Hence it contains (x-2)(x+i), which is monic and divides both,   
+ 
+ 
+ So, gcd(p1,p2) = (x-2)(x+i)   
+ 
+ 
+ ----------------------------------------------   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ M is the ideal in F[x] generated by:   
+ 
+ 
+ (x-1)*(x+2)^2   
+ 
+ 
+ (x+2)^2*(x+3)   
+ 
+ 
+ and   
+ 
+ (x-3)   
+ 
+ 
+ 
+ 
+ 
+ 
+ M = (x-1)*(x+2)^2 F[x] + (x+2)^2*(x-3) + (x-3)   
+ 
+ 
+ Then M contains:   
+ 
+ 
+ 
+              2  
+    4 + 4x + x   
+ 
+ 
+ i.e., M contains (x+2)^2   
+ 
+ 
+ and since, (x+2)^2 = (x-3)(x-7) - 17   
+ 
+ 
+ So M contains the scalar polynomial 1.   
+ 
+ 
+ So, M = F[x] and given polynomials are relatively prime.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P =    
+ 
+         2  
+    1 + x   
+ 
+ 
+ P is reducible over complex numbers as:    
+ 
+ 
+         2  
+    1 + x   
+ 
+ =   
+ 
+ 
+ (x-i)(x+i)   
+ 
+ 
+ Whereas, P is irreducible over real numbers as:.   
+ 
+ 
+         2  
+    1 + x   
+ 
+ =   
+ 
+ 
+ (ax + b)(a'x + b')   
+ 
+ 
+ For, a,a',b,b' to be in R,   
+ 
+ 
+ aa' = 1   
+ 
+ 
+ ab' + ba' = 0   
+ 
+ 
+ bb' = 1   
+ 
+ 
+ => a^2 + b^2 = 0   
+ 
+ 
+ => a = b = 0   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    2.    0.  
+    8.    3.  
+ 
+ 
+ 
+ 
+ D1(A) =    
+ 
+    6.  
+ 
+ 
+ D2(A) =    
+ 
+    0.  
+ 
+ 
+ D(A) = D1(A) + D2(A) =    
+ 
+    6.  
+ 
+ 
+ That is, D is a 2-linear function.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+                 2  
+    x     0   - x   
+                    
+    0     1     0   
+                    
+                 3  
+    1     0     x   
+ 
+ 
+ e1,e2,e3 are the rows of 3*3 identity matrix, then   
+ 
+ 
+ 
+ 
+ 
+ 
+ e1 =    
+ 
+    1.    0.    0.  
+ 
+ 
+ e2 =    
+ 
+    0.    1.    0.  
+ 
+ 
+ e3 =    
+ 
+    0.    0.    1.  
+ 
+ 
+ D(A) = D(x*e1 - x^2*e3, e2, e1 + x^3*e3)   
+ 
+ 
+ Since, D is linear as a function of each row,   
+ 
+ 
+ D(A) = x*D(e1,e2,e1 + x^3*e3) - x^2*D(e3,e2,e1 + x^3*e3)   
+ 
+ 
+ D(A) = x*D(e1,e2,e1) + x^4*D(e1,e2,e3) - x^2*D(e3,e2,e1) - x^5*D(e3,e2,e3)   
+ 
+ 
+ As D is alternating, So   
+ 
+ 
+ D(A) = (x^4 + x^2)*D(e1,e2,e3)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+               2         3      
+  - 1 + x     x         x       
+                                
+    0       - 2 + x     1       
+                                
+    0         0       - 3 + x   
+ 
+ 
+ 
+ E1(A) =    
+ 
+                2   3  
+  - 6 + 11x - 6x + x   
+ 
+ 
+ E2(A) =    
+ 
+                2   3  
+  - 6 + 11x - 6x + x   
+ 
+ 
+ E3(A) =    
+ 
+                2   3  
+  - 6 + 11x - 6x + x   
+ 
+ 
+ --------------------------------------   
+ 
+ 
+ 
+ 
+ A =    
+ 
+    0.    1.    0.  
+    0.    0.    1.  
+    1.    0.    0.  
+ 
+ 
+ 
+ E1(A) =    
+ 
+    1.  
+ 
+ 
+ E2(A) =    
+ 
+    1.  
+ 
+ 
+ E3(A) =    
+ 
+    1.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Given Matrix:   
+ 
+ 
+ 
+ A =    
+ 
+    1.  - 1.    2.    3.  
+    2.    2.    0.    2.  
+    4.    1.  - 1.  - 1.  
+    1.    2.    3.    0.  
+ 
+ 
+ After, Subtracting muliples of row 1 from rows 2 3 4   
+ 
+ 
+ R2 = R2 - 2*R1   
+ 
+ 
+ 
+ R3 = R3 - 4*R1   
+ 
+ 
+ 
+ R4 = R4 - R1   
+ 
+ 
+ 
+ A =    
+ 
+    1.  - 1.    2.    3.   
+    0.    4.  - 4.  - 4.   
+    0.    5.  - 9.  - 13.  
+    0.    3.    1.  - 3.   
+ 
+ 
+ 
+ We obtain the same determinant as before.   
+ 
+ 
+ Now, applying some more row transformations as:   
+ 
+ 
+ R3 = R3 - 5/4 * R2   
+ 
+ 
+ 
+ R4 = R4 - 3/4 * R2   
+ 
+ 
+ 
+ 
+ We get B as:   
+ 
+ 
+ B =    
+ 
+    1.  - 1.    2.    3.  
+    0.    4.  - 4.  - 4.  
+    0.    0.  - 4.  - 8.  
+    0.    0.    4.    0.  
+ 
+ 
+ Now,determinant of A and B will be same   
+ 
+ 
+ det A = det B =    
+ 
+    128.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+         2            
+    x + x     1 + x   
+                      
+  - 1 + x     1       
+ 
+ 
+ B =    
+ 
+         2                 
+  - 1 + x          2 + x   
+                           
+              2            
+    3 - 2x + x     x       
+ 
+ 
+ det A =    
+ 
+    1 + x   
+ 
+ 
+ det B =    
+ 
+  - 6   
+ 
+ 
+ Thus, A is not invertible over K whereas B is invertible   
+ 
+ 
+ adj A =    
+ 
+    1       - 1 - x   
+    -         -----   
+    1           1     
+                      
+                   2  
+    1 - x     x + x   
+    -----     -----   
+      1         1     
+ 
+ 
+ adj B =    
+ 
+    x            - 2 - x   
+                           
+              2         2  
+  - 3 + 2x - x   - 1 + x   
+ 
+ 
+ (adj A)A = (x+1)I   
+ 
+ 
+ (adj B)B =  -6I   
+ 
+ 
+ B inverse =    
+ 
+  - 0.1666667x                        0.3333333 + 0.1666667x   
+                                                               
+                                 2                          2  
+    0.5 - 0.3333333x + 0.1666667x     0.1666667 - 0.1666667x   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.    2.  
+    3.    4.  
+ 
+ 
+ 
+ Determinant of A is:   
+ 
+ det A =    
+ 
+  - 2.  
+ 
+ 
+ 
+ Adjoint of A is:   
+ 
+ adj A =    
+ 
+    4.  - 2.  
+  - 3.    1.  
+ 
+ 
+ Thus, A is not invertible as a matrix over the ring of integers.   
+ 
+ 
+ But, A can be regarded as a matrix over field of rational numbers.   
+ 
+ 
+ 
+ 
+ Then, A is invertible and Inverse of A is:   
+ 
+ inv(A) =    
+ 
+  - 2.     1.   
+    1.5  - 0.5  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Standard ordered matrix for Linear operator T on R^2 is:   
+ 
+ 
+ 
+ A =    
+ 
+    0.  - 1.  
+    1.    0.  
+ 
+ 
+ The characteristic polynomial for T or A is:   
+ 
+ 
+ 
+ 
+         2  
+    1 + x   
+ 
+ 
+ Since this polynomial has no real roots,T has no characteristic values.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    3.    1.  - 1.  
+    2.    2.  - 1.  
+    2.    2.    0.  
+ 
+ 
+ Characteristic polynomial for A is:   
+ 
+ 
+ 
+               2   3  
+  - 4 + 8x - 5x + x   
+ 
+ 
+ or   
+ 
+ 
+ (x-1)(x-2)^2   
+ 
+ 
+ 
+ 
+ The characteristic values of A are:   
+ 
+ 
+    2.  
+    2.  
+    1.  
+ 
+ 
+ 
+ Now, A-I =    
+ 
+    2.    1.  - 1.  
+    2.    1.  - 1.  
+    2.    2.  - 1.  
+ 
+ 
+ rank of A - I=    
+ 
+    2.  
+ 
+ 
+ So, nullity of T-I = 1   
+ 
+ 
+ 
+ The vector that spans the null space of T-I =    
+ 
+    1.    0.    2.  
+ 
+ 
+ 
+ Now,A-2I =    
+ 
+    1.    1.  - 1.  
+    2.    0.  - 1.  
+    2.    2.  - 2.  
+ 
+ 
+ rank of A - 2I=    
+ 
+    2.  
+ 
+ 
+ T*alpha = 2*alpha if alpha is a scalar multiple of a2   
+ 
+ 
+ 
+ a2 =    
+ 
+    1.    1.    2.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Standard ordered matrix for Linear operator T on R^3 is:   
+ 
+ 
+ 
+ A =    
+ 
+    5.  - 6.  - 6.  
+  - 1.    4.    2.  
+    3.  - 6.  - 4.  
+ 
+ 
+ xI - A =    
+ 
+ 
+ 
+ 
+ 
+  - 5 + x     6         6       
+                                
+    1       - 4 + x   - 2       
+                                
+  - 3         6         4 + x   
+ 
+ 
+ Applying row and column transformations:   
+ 
+ 
+ C2 = C2 - C3   
+ 
+ 
+ 
+ =>   
+ 
+ 
+  - 5 + x     0         6       
+                                
+    1       - 2 + x   - 2       
+                                
+  - 3         2 - x     4 + x   
+ 
+ 
+ Taking (x-2) common from C2   
+ 
+ 
+ 
+ 
+ =>   
+ 
+ 
+  - 2 + x   
+ 
+  *    
+ 
+ 
+  - 5 + x     0     6       
+    -----     -     -       
+      1       1     1       
+                            
+    1         1   - 2       
+    -         -     -       
+    1         1     1       
+                            
+  - 3       - 1     4 + x   
+    -         -     -----   
+    1         1       1     
+ 
+ 
+ R3 = R3 + R2   
+ 
+ 
+ 
+ =>   
+ 
+ 
+  - 2 + x   
+ 
+  *    
+ 
+ 
+  - 5 + x     0     6       
+    -----     -     -       
+      1       1     1       
+                            
+    1         1   - 2       
+    -         -     -       
+    1         1     1       
+                            
+  - 2         0     2 + x   
+    -         -     -----   
+    1         1       1     
+ 
+ 
+ 
+ =>   
+ 
+ 
+  - 2 + x   
+ 
+  *    
+ 
+ 
+  - 5 + x     6       
+    -----     -       
+      1       1       
+                      
+  - 2         2 + x   
+    -         -----   
+    1           1     
+ 
+ 
+ =>   
+ 
+ 
+  - 2 + x   
+ 
+  *    
+ 
+ 
+              2  
+    2 - 3x + x   
+    ----------   
+        1        
+ 
+ 
+ This is the characteristic polynomial   
+ 
+ 
+ Now, A - I =    
+ 
+    4.  - 6.  - 6.  
+  - 1.    3.    2.  
+    3.  - 6.  - 5.  
+ 
+ 
+ And, A- 2I =    
+ 
+    3.  - 6.  - 6.  
+  - 1.    2.    2.  
+    3.  - 6.  - 6.  
+ 
+ 
+ rank(A-I) =    
+ 
+    2.  
+ 
+ 
+ rank(A-2I) =    
+ 
+    1.  
+ 
+ 
+ W1,W2 be the spaces of characteristic vectors associated with values 1,2   
+ 
+ 
+ So by theorem 2, T is diagonalizable   
+ 
+ 
+ 
+ 
+ 
+ Null space of (T- I) i.e basis of W1 is spanned by a1 =    
+ 
+    3.  - 1.    3.  
+ 
+ 
+ Null space of (T- 2I) i.e. basis of W2 is spanned by vectors x1,x2,x3 such tha 
+      t x1 = 2x1 + 2x3                                                          
+ 
+ 
+ One example are;   
+ 
+ 
+ a2 =    
+ 
+    2.    1.    0.  
+ 
+ 
+ a3 =    
+ 
+    2.    0.    1.  
+ 
+ 
+ The diagonal matrix is:   
+ 
+ 
+ 
+ D =    
+ 
+    1.    0.    0.  
+    0.    2.    0.  
+    0.    0.    2.  
+ 
+ 
+ The standard basis matrix is denoted as:   
+ 
+ 
+ 
+ P =    
+ 
+    3.    2.    2.  
+  - 1.    1.    0.  
+    3.    0.    1.  
+ 
+ 
+ AP =    
+ 
+    3.    4.    4.  
+  - 1.    2.    0.  
+    3.    0.    2.  
+ 
+ 
+ PD =    
+ 
+    3.    4.    4.  
+  - 1.    2.    0.  
+    3.    0.    2.  
+ 
+ 
+ That is, AP = PD   
+ 
+ 
+ =>  inverse(P)*A*P = D   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    5.  - 6.  - 6.  
+  - 1.    4.    2.  
+    3.  - 6.  - 4.  
+ 
+ 
+ 
+ Characteristic polynomial of A is:   
+ 
+ 
+ f = (x-1)(x-2)^2   
+ 
+ 
+ i.e., f =    
+ 
+               2   3  
+  - 4 + 8x - 5x + x   
+ 
+ 
+ 
+ (A-I)(A-2I) =    
+ 
+    0.    0.    0.  
+    0.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ Since, (A-I)(A-2I) = 0. So, Minimal polynomial for above is:   
+ 
+ 
+ p =    
+ 
+              2  
+    2 - 3x + x   
+ 
+ 
+ ---------------------------------------   
+ 
+ 
+ 
+ A =    
+ 
+    3.    1.  - 1.  
+    2.    2.  - 1.  
+    2.    2.    0.  
+ 
+ 
+ 
+ Characteristic polynomial of A is:   
+ 
+ 
+ f = (x-1)(x-2)^2   
+ 
+ 
+ i.e., f =    
+ 
+               2   3  
+  - 4 + 8x - 5x + x   
+ 
+ 
+ (A-I)(A-2I) =    
+ 
+    2.    0.  - 1.  
+    2.    0.  - 1.  
+    4.    0.  - 2.  
+ 
+ 
+ Since, (A-I)(A-2I) is not equal to 0. T is not diagonalizable. So, Minimal pol 
+      ynomial cannot be p.                                                      
+ 
+ 
+ ---------------------------------------   
+ 
+ 
+ 
+ A =    
+ 
+    0.  - 1.  
+    1.    0.  
+ 
+ 
+ 
+ Characteristic polynomial of A is:   
+ 
+ 
+ f =    
+ 
+         2  
+    1 + x   
+ 
+ 
+ A^2 + I =    
+ 
+    0.    0.  
+    0.    0.  
+ 
+ 
+ Since, A^2 + I = 0, so minimal polynomial is   
+ 
+ 
+ 
+ p =    
+ 
+         2  
+    1 + x   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    0.    1.    0.    1.  
+    1.    0.    1.    0.  
+    0.    1.    0.    1.  
+    1.    0.    1.    0.  
+ 
+ 
+ Computing powers on A:   
+ 
+ 
+ A^2 =    
+ 
+    2.    0.    2.    0.  
+    0.    2.    0.    2.  
+    2.    0.    2.    0.  
+    0.    2.    0.    2.  
+ 
+ 
+ A^3 =    
+ 
+    0.    4.    0.    4.  
+    4.    0.    4.    0.  
+    0.    4.    0.    4.  
+    4.    0.    4.    0.  
+ 
+ 
+ 
+ if p = x^3 - 4x, then   
+ 
+ 
+ p(A) =    
+ 
+    0.    0.    0.    0.  
+    0.    0.    0.    0.  
+    0.    0.    0.    0.  
+    0.    0.    0.    0.  
+ 
+ 
+ 
+ 
+ Minimal polynomial for A is:    
+ 
+          3  
+  - 4x + x   
+ 
+ 
+ Characteristic values for A are:   
+ 
+  - 2.  
+    2.  
+    0   
+ 
+ 
+ Rank(A) =    
+ 
+    2.  
+ 
+ 
+ So, from theorem 2, characteristic polynomial for A is:   
+ 
+      2   4  
+  - 4x + x   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ F is a field with D as differentiation operator on the space F[x].   
+ 
+ 
+ n is an integer as n>0.   
+ 
+ 
+ W is space of polynomialswith degree <= n.   
+ 
+ 
+ so, W is invariant undet D.   
+ 
+ 
+ And, D is degree decreasing.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T is the linear operator on R^2 represented in standard order basis by matrix: 
+ 
+ 
+ 
+ A =    
+ 
+    0.  - 1.  
+    1.    0.  
+ 
+ 
+ Then invariant subspaces of R^2 under T are R^2 and zero subspace   
+ 
+ 
+ If W is invariant subspace spanned by non zero vector 'a' means 'a' is charact 
+      eristic vector                                                            
+ 
+ 
+ But, A has no characteristic values   
+ 
+ 
+ When W is invariant under T, T induces a linear operator Tw on W that is defin 
+      ed by                                                                     
+ 
+ 
+ Tw(a) = T(a)   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH6/EX6.12/Ex6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    2.    3.    8.  
+    8.    7.    7.  
+    0.    6.    9.  
+ 
+ 
+ A transpose is:   
+ 
+ 
+ A' =    
+ 
+    2.    8.    0.  
+    3.    7.    6.  
+    8.    7.    9.  
+ 
+ 
+ Since, A' is not equal to A, A is not a symmetric matrix.   
+ 
+ 
+ Since, A' is not equal to -A, A is not a skew-symmetric matrix.   
+ 
+ 
+ 
+ 
+ A can be expressed as sum of A1 and A2   
+ 
+ 
+ i.e., A = A1 + A2   
+ 
+ 
+ A1 =    
+ 
+    2.     5.5    4.   
+    5.5    7.     6.5  
+    4.     6.5    9.   
+ 
+ 
+ A2 =    
+ 
+    0.   - 2.5    4.   
+    2.5    0.     0.5  
+  - 4.   - 0.5    0.   
+ 
+ 
+ A1 + A2 =    
+ 
+    2.    3.    8.  
+    8.    7.    7.  
+    0.    6.    9.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T is a linear operator on F^2 represented by the matrix:   
+ 
+ 
+ 
+ A =    
+ 
+    0.    0.  
+    1.    0.  
+ 
+ 
+ e1 is a cyclic vector.   
+ 
+ 
+ if beta = (a,b)   
+ 
+ 
+ then with , g = a+ bx   
+ 
+ 
+ beta = g(T)e1   
+ 
+ 
+ Cyclic subspace generated by e2 is 1-D space spanned by it.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Any 2*2 matrix over Field F is similar over F to exactly one matrix of the typ 
+      es:                                                                       
+ 
+ 
+ c     0   
+ 
+ 
+ 0     c   
+ 
+ 
+ or   
+ 
+ 
+ 0     -c0   
+ 
+ 
+ 1     -c1   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    5.  - 6.  - 6.  
+  - 1.    4.    2.  
+    3.  - 6.  - 4.  
+ 
+ 
+ 
+ Characteristic polynomial for linear operator T on R^3 will be:   
+ 
+ 
+ f =    
+ 
+               2   3  
+  - 4 + 8x - 5x + x   
+ 
+ 
+ or   
+ 
+ 
+ (x-1)(x-2)^2   
+ 
+ 
+ 
+ The minimal polynomial for T is:   
+ 
+ 
+ 
+ p =    
+ 
+              2  
+    2 - 3x + x   
+ 
+ 
+ or   
+ 
+ 
+ p = (x-1)(x-2)   
+ 
+ 
+ So in cyclic decomposition of T, a1 will have p as its T-annihilator.   
+ 
+ 
+ Another vector a2 that generate cyclic subspace of dimension 1 will have its T 
+      -annihilator as p2.                                                       
+ 
+ 
+ 
+ p2 =    
+ 
+  - 2 + x   
+ 
+ 
+ pp2 =    
+ 
+               2   3  
+  - 4 + 8x - 5x + x   
+ 
+ 
+ i.e., pp2 = f   
+ 
+ 
+ Therefore, A is similar to B   
+ 
+ 
+ 
+ B =    
+ 
+    0.  - 2.    0.  
+    1.    3.    0.  
+    0.    0.    2.  
+ 
+ 
+ Thus, we can see thet Matrix of T in ordered basis is B   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T is the linear operator on C^2   
+ 
+ 
+ Characteristic polynomial for T is:   
+ 
+ 
+ (x - c1)(x - c2)   
+ 
+ 
+ c1 and c2 are distinct complex numbers.   
+ 
+ 
+ Then, T is diagonalizable and is represented in ordered basis by:   
+ 
+ 
+ c1     0   
+ 
+ 
+  0     c2   
+ 
+ 
+ or the characteristic polynomial for T is:   
+ 
+ 
+ (x - c)^2   
+ 
+ 
+ Then, minimal polynomial will be:   
+ 
+ 
+ (x - c)   
+ 
+ 
+ And, T is represented in ordered basis by:   
+ 
+ 
+ c     0   
+ 
+ 
+ 1     c   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+ 
+ 2   0   0   
+ 
+ 
+ a   2   0   
+ 
+ 
+ b   c   -1   
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    2.    0.    0.  
+    1.    2.    0.  
+    0.    0.  - 1.  
+ 
+ 
+ Characteristic polynomial for A is:   
+ 
+ 
+ p =    
+ 
+          2   3  
+    4 - 3x + x   
+ 
+ 
+ In this case, minimal polynomial is same as characteristic polynomial.   
+ 
+ 
+ -----------------------------------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    2.    0.    0.  
+    0.    2.    0.  
+    0.    0.  - 1.  
+ 
+ 
+ Characteristic polynomial for A is:   
+ 
+ 
+ p =    
+ 
+          2   3  
+    4 - 3x + x   
+ 
+ 
+ In this case, minimal polynomial is:   
+ 
+ 
+ (x-2)(x+1)   
+ 
+ 
+ or   
+ 
+ 
+ 
+ 
+             2  
+  - 2 - x + x   
+ 
+ 
+ (A-2I)(A+I) =    
+ 
+ 
+ 0    0   0   
+ 
+ 
+ 3a   0   0   
+ 
+ 
+ ac   0   0   
+ 
+ 
+ if a = 0, A is similar to diagonal matrix.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+ 
+ 2   0   0   0   
+ 
+ 
+ 1   2   0   0   
+ 
+ 
+ 0   0   2   0   
+ 
+ 
+ 0   0   a   2   
+ 
+ 
+ Considering a = 1   
+ 
+ 
+ 
+ 
+ Characteristic polynomial for A is:   
+ 
+ 
+ p =    
+ 
+                  2    3   4  
+    16 - 32x + 24x - 8x + x   
+ 
+ 
+ or   
+ 
+ 
+ (x-2)^4   
+ 
+ 
+ Minimal polynomial for A =   
+ 
+ 
+ (x-2)^2   
+ 
+ 
+ For a = 0 and a = 1, characteristic and minimal polynomial are same.   
+ 
+ 
+ But for a=0, the solution space of (A - 2I) has 3 dimension whereas for a = 1, 
+       it has 2 dimension.                                                      
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    8.    0.    3.    7.  
+ 
+ b  =
+ 
+    6.    8.    7.    9.  
+ 
+ 
+ n =    
+ 
+    4.  
+ 
+ 
+ a =    
+ 
+    8.    0.    3.    7.  
+ 
+ 
+ b =    
+ 
+    6.    8.    7.    9.  
+ 
+ 
+ Then, (a|b) =    
+ 
+    132.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    2.    8.  
+ 
+ b  =
+ 
+    0.    3.  
+ 
+ 
+ a =    
+ 
+    2.    8.  
+ 
+ 
+ b =    
+ 
+    0.    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Then, a|b =    
+ 
+    90.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (x,y) =    
+ 
+    2.    8.  
+ 
+ 
+ (-y,x) =    
+ 
+  - 8.    2.  
+ 
+ 
+ Inner product of these vectors is:   
+ 
+ 
+ 
+ (x,y)|(-y,x) =    
+ 
+    0.  
+ 
+ 
+ So, these are orthogonal.   
+ 
+ 
+ ------------------------------------------   
+ 
+ 
+ If inner product is defined as:   
+ 
+ 
+ (x1,x2)|(y1,y2) = x1y1- x2y1 - x1y2 + 4x2y2   
+ 
+ 
+ Then, (x,y)|(-y,x) = -x*y+y^2-x^2+4*x*y = 0 if,   
+ 
+ 
+ y = 1/2(-3 + sqrt(13))*x   
+ 
+ 
+ or   
+ 
+ 
+ y = 1/2(-3 - sqrt(13))*x   
+ 
+ 
+ Hence,   
+ 
+ 
+    2.    8.  
+ 
+ is not orthogonal to   
+ 
+  - 8.    2.  
+ 
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.12/Ex8_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b1 =    
+ 
+    3.    0.    4.  
+ 
+ 
+ b2 =    
+ 
+  - 1.    0.    7.  
+ 
+ 
+ b3 =    
+ 
+    2.    9.    11.  
+ 
+ 
+ Applying the Gram-Schmidt process to b1,b2,b3:   
+ 
+ 
+ 
+ a1 =    
+ 
+    3.    0.    4.  
+ 
+ 
+ 
+ a2 =    
+ 
+  - 4.    0.    3.  
+ 
+ 
+ 
+ a3 =    
+ 
+    0.    9.    0.  
+ 
+ 
+ {a1,a2,a3} are mutually orthogonal and hence forms orthogonal basis for R^3   
+ 
+ 
+ Any arbitrary vector {x1,x2,x3} in R^3 can be expressed as:   
+ 
+ 
+ y = {x1,x2,x3} = (3*x1 + 4*x3)/25*a1 + (-4*x1 + 3*x3)/25*a2 + x2/9*a3   
+ 
+ 
+ 
+ 
+ 
+ 
+ x1 =    
+ 
+    1.  
+ 
+ 
+ x2 =    
+ 
+    2.  
+ 
+ 
+ x3 =    
+ 
+    3.  
+ 
+ 
+ y =    
+ 
+    1.    2.    3.  
+ 
+ 
+ i.e. y = [x1 x2 x3], according to above equation.   
+ 
+ 
+ Hence, we get the orthonormal basis as:   
+ 
+ 
+    0.6    0.    0.8  
+ 
+ ,   
+ 
+ 
+  - 0.8    0.    0.6  
+ 
+ ,   
+ 
+ 
+    0.    1.    0.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.13/Ex8_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+    1.2113249    1.0002211  
+    0.7560439    0.3303271  
+ 
+ 
+ b1 =    
+ 
+    1.2113249    1.0002211  
+ 
+ 
+ b2 =    
+ 
+    0.7560439    0.3303271  
+ 
+ 
+ Applying the orthogonalization process to b1,b2:   
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    1.2113249    1.0002211  
+ 
+ 
+ a2 =    
+ 
+    0.1443243  - 0.1747850  
+ 
+ 
+ a2 is not equal to zero if and only if b1 and b2 are linearly independent.   
+ 
+ 
+ That is, if determinant of A is non-zero.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.14/Ex8_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ u  =
+ 
+    3.    12.  - 1.  
+ 
+ 
+ v =    
+ 
+  - 10.    2.    8.  
+ 
+ 
+ v =    
+ 
+    3.    12.  - 1.  
+ 
+ 
+ Orthogonal projection of v1 on subspace W spanned by v2 is given by:   
+ 
+ 
+ 
+  - 0.2727273  - 1.0909091    0.0909091  
+ 
+ 
+ Orthogonal projection of R^3 on W is the linear transformation E given by:   
+ 
+(x1,x2,x3) -> (3*x1 + 12*x2 - x3)/154 * (3 12 -1) 
+ 
+ Rank(E) = 1   
+ 
+ 
+ Nullity(E)  = 2   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.15/Ex8_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f = (sqrt(2)*cos(2*pi*t) + sqrt(2)*sin(4*pi*t))^2   
+ 
+ 
+ Integration (f dt) in limits 0 to 1 =    
+ 
+ 
+ 
+ 
+ 
+    2.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.17/Ex8_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Matrix of projection E in orthonormal basis is:   
+ 
+ 
+ 
+ 
+ 
+ 
+ A = 1/154  *     
+ 
+    9.     36.   - 3.   
+    36.    144.  - 12.  
+  - 3.   - 12.     1.   
+ 
+ 
+ 
+ A* =    
+ 
+    9.     36.   - 3.   
+    36.    144.  - 12.  
+  - 3.   - 12.     1.   
+ 
+ 
+ Since, E = E* and A = A*, then A is also the matrix of E*   
+ 
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    154.    0.    0.  
+ 
+ 
+ a2 =    
+ 
+    145.  - 36.    3.  
+ 
+ 
+ a3 =    
+ 
+  - 36.    10.    12.  
+ 
+ 
+ {a1,a2,a3} is the basis.   
+ 
+ 
+ 
+ 
+ 
+ Ea1 =    
+ 
+    9.    36.  - 3.  
+ 
+ 
+ Ea2 =    
+ 
+    0.    0.    0.  
+ 
+ 
+ Ea3 =    
+ 
+    0.    0.    0.  
+ 
+ 
+ 
+ Matrix B of E in the basis is:   
+ 
+ 
+ B =    
+ 
+  - 1.    0.    0.  
+  - 1.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ 
+ B* =    
+ 
+  - 1.  - 1.    0.  
+    0.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ Since, B is not equal to B*, B is not the matrix of E*   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.23/Ex8_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Linear transformation from V into W i.e. T is:   
+ 
+ 
+ T(x1,x2,x3) =    
+ 
+ 
+ 0    -x3    x2   
+ 
+ 
+ x3     0   -x1   
+ 
+ 
+ -x2   x1    0   
+ 
+ 
+ Then, T maps V onto W   
+ 
+ 
+ And, putting:   
+ 
+ 
+ A =    
+ 
+ 
+ 0    -x3    x2   
+ 
+ 
+ x3     0   -x1   
+ 
+ 
+ -x2   x1    0   
+ 
+ 
+ B =    
+ 
+ 
+ 0    -y3    y2   
+ 
+ 
+ y3     0   -y1   
+ 
+ 
+ -y2   y1    0   
+ 
+ 
+ we get,   
+ 
+ 
+ tr(AB') = x3*y3 + x2*y2 + x1*y1 + x3*y3 + x2*y2 + x1*y1   
+ 
+ 
+ tr(AB') = 2*(x1*y1 + x2*y2 + x3*y3)   
+ 
+ 
+ Thus, (a|b) = (Ta|Tb)   
+ 
+ 
+ T is vector space isomorphism   
+ 
+ 
+ T contains the standard and orthonormal basis consisting of matrices A1,A2,A3  
+ 
+ 
+ 
+ 
+ 
+ A1 =    
+ 
+    0.    0.    0.  
+    0.    0.  - 1.  
+    0.    1.    0.  
+ 
+ 
+ A2 =    
+ 
+    0.    0.    1.  
+    0.    0.    0.  
+  - 1.    0.    0.  
+ 
+ 
+ A3 =    
+ 
+    0.  - 1.    0.  
+    1.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.27/Ex8_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Unitary and orthogonal matrices   
+ 
+ 
+ 
+ A =    
+ 
+ 
+ [c]   
+ 
+ 
+ A is orthogonal if c = +1 or -1   
+ 
+ 
+ A is unitary if absolute value of c is 1, i.e. |c| = 1   
+ 
+ 
+ -------------------------------------------------   
+ 
+ 
+ 
+ A =    
+ 
+ 
+ a    b   
+ 
+ 
+ c    d   
+ 
+ 
+ A is orthogonal if,    
+ 
+ 
+ A' = inv(A)   
+ 
+ 
+ inv(A) = 1/(ad - bc) * X   
+ 
+ 
+ where X =    
+ 
+ 
+  d    -b   
+ 
+ 
+ -c     a   
+ 
+ 
+ Determinant of orthogonal matrices is +1 or -1   
+ 
+ 
+ So A is orthogonal if,   
+ 
+ 
+  a   b   
+ 
+ 
+ -b   a   
+ 
+ 
+ or   
+ 
+ 
+ a    b   
+ 
+ 
+ b   -a   
+ 
+ 
+ where, a^2 + b^2 = 1   
+ 
+ 
+ 
+ A is unitary if,   
+ 
+ 
+ A' = inv(A)   
+ 
+ 
+ inv(A) = 1/(ad - bc) * X   
+ 
+ 
+ where X =    
+ 
+ 
+  d    -b   
+ 
+ 
+ -c     a   
+ 
+ 
+ Determinant of unitary matrices is +1 or -1   
+ 
+ 
+ So, A is unitary if,   
+ 
+ 
+ A =    
+ 
+ 
+ a                                b   
+ 
+ 
+ -(e^i*x)*b_bar       (e^i*x)*a_bar   
+ 
+ 
+ A =    
+ 
+ 
+ 1    0                *            a         b   
+ 
+ 
+ 0    e^(i*x)                    -b_bar     a_bar   
+ 
+ 
+ where x ia real number, and a,b are complex nos.   
+ 
+ 
+ |a|^2 + |b|^2 = 1   
+ 
+ 
+ -----------------------------------   
+ 
+ 
+ 
+ A =    
+ 
+ 
+ cos(thetha)         -sin(thetha)   
+ 
+ 
+ sin(thetha)          cos(thetha)   
+ 
+ 
+ A is orthogonal.   
+ 
+ 
+ If thetha is real, then A is unitary.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH8/EX8.28/Ex8_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ x1 and x2  are two real nos. i.e., x1^2 + x2^2 = 1   
+ 
+ 
+ 
+ 
+ x1 =    
+ 
+    0.2113249  
+ 
+ 
+ x2 =    
+ 
+    0.9774159  
+ 
+ 
+ 
+ B =    
+ 
+    0.2113249    0.9774159    0.  
+    0.           1.           0.  
+    0.           0.           1.  
+ 
+ 
+ Applying Gram-Schmidt process to B:   
+ 
+ 
+ 
+ 
+ 
+ a1 =    
+ 
+    0.2113249    0.9774159    0.  
+ 
+ 
+ a2 =    
+ 
+  - 0.2065523    0.0446582    0.  
+ 
+ 
+ a3 =    
+ 
+    0.    0.    1.  
+ 
+ 
+ 
+ U =    
+ 
+    0.2113249    0.9774159    0.  
+  - 0.9774159    0.2113249    0.  
+    0.           0.           1.  
+ 
+ 
+ 
+ M =    
+ 
+    1.           0.           0.  
+  - 4.6251816    4.7320508    0.  
+    0.           0.           1.  
+ 
+ 
+ inverse(M) * U =    
+ 
+    0.2113249    0.9774159    0.  
+    0.           1.           0.  
+    0.           0.           1.  
+ 
+ 
+ So, B = inverse(M) * U   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A =    
+ 
+ 
+ r    *     |cos(thetha)       -sin(thetha)|   
+ 
+ 
+            |sin(thetha         cos(thetha)|   
+ 
+ 
+ Characteristic polynomial for T:   
+ 
+ 
+ p = det(xI - A)   
+ 
+ 
+ p = x - 2*r*cos(thetha*x) + r^2    
+ 
+ 
+ if, a = r*cos(thetha)   
+ 
+ 
+ b = r*sin(thetha)   
+ 
+ 
+ c = a + ib,   b is not equal to 0   
+ 
+ 
+ Then, A =    
+ 
+ 
+ a     -b   
+ 
+ 
+ b      a   
+ 
+ 
+ p = (x-c)(x-c')   
+ 
+ 
+ So, p is reducible over R and it is the minimal polynomial   
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ a = [x1 x2]   
+ 
+ 
+ b = [y1 y2]   
+ 
+ 
+ f(a,b) = x1*y1 + x1*y2 + x2*y1 + x2*y2   
+ 
+ 
+ so, f(a,b) =    
+ 
+ 
+ [x1  x2]  *  |1   1|  *   |y1|   
+ 
+ 
+               |1   1|     |y2|   
+ 
+ 
+ So the matrix of f in standard order basis B = {e1,e2} is:   
+ 
+ 
+ 
+ [f]B =    
+ 
+    1.    1.  
+    1.    1.  
+ 
+ 
+ 
+ P =    
+ 
+    1.    1.  
+  - 1.    1.  
+ 
+ 
+ Thus, [f]B' = P'*[f]B*P   
+ 
+ 
+ 
+ [f]B' =    
+ 
+    0.    0.  
+    0.    4.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_K._Hoffman_And_R._Kunze_3293/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n =    
+ 
+    4.  
+ 
+ 
+ a =    
+ 
+    8.    0.    3.    7.  
+ 
+ 
+ b =    
+ 
+    6.    8.    7.    9.  
+ 
+ 
+ 
+ f(a,b) =    
+ 
+    132.  
+ 
+ 
+ f is non-degenerate billinear form on R^n.   
+ 
+ 
+ 

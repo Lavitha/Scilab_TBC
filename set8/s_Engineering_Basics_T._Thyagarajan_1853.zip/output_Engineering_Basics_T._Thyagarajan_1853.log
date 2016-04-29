@@ -1,0 +1,3129 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 85
+
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.1/Ex1_1.sce #
+ 
+ L  =
+ 
+    12.  
+ 
+ A  =
+ 
+    0.000001  
+ 
+ R  =
+ 
+    0.2  
+ 
+ p  =
+ 
+    1.667D-08  
+ 
+ 
+ value of specific resistance=1.667D-08   ohm -meter   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ a0  =
+ 
+    0.0043  
+ 
+ t1  =
+ 
+    27.  
+ 
+ t2  =
+ 
+    40.  
+ 
+ R1  =
+ 
+    1.5  
+ 
+ R2  =
+ 
+    1.5751277  
+ 
+ 
+ value of resistance=1.5751277   ohm   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ R1  =
+ 
+    5.  
+ 
+ R2  =
+ 
+    10.  
+ 
+ R3  =
+ 
+    15.  
+ 
+ V  =
+ 
+    120.  
+ 
+ R  =
+ 
+    30.  
+ 
+ I  =
+ 
+    4.  
+ 
+ V1  =
+ 
+    20.  
+ 
+ V2  =
+ 
+    40.  
+ 
+ V3  =
+ 
+    60.  
+ 
+ 
+ Voltage V1=20volts   
+ 
+ Voltage  V2=40volt   
+ 
+ Voltage V3=60volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ Rab  =
+ 
+    1.3333333  
+ 
+ Rbc  =
+ 
+    3.4285714  
+ 
+ Rac  =
+ 
+    4.7619048  
+ 
+ 
+ rasistance across AC=4.7619048ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ Rab  =
+ 
+    4.  
+ 
+ Rbc  =
+ 
+    4.8  
+ 
+ Rcd  =
+ 
+    2.  
+ 
+ Rad  =
+ 
+    10.8  
+ 
+ 
+ resistance across AC=10.8     ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ R1  =
+ 
+    8.  
+ 
+ R2  =
+ 
+    24.  
+ 
+ 
+ R2=24ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ I  =
+ 
+    12.  
+ 
+ R1  =
+ 
+    6.  
+ 
+ R2  =
+ 
+    8.  
+ 
+ I1  =
+ 
+    6.8571429  
+ 
+ I2  =
+ 
+    5.1428571  
+ 
+ 
+ I2 =5.1428571amps   
+ 
+ I1=6.8571429amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.9/Ex1_9.sce #
+ 
+ 
+ R1  =
+ 
+    0.02  
+ 
+ R2  =
+ 
+    0.03  
+ 
+ I1  =
+ 
+    6.  
+ 
+ I2  =
+ 
+    4.  
+ 
+ 
+ I1= 6amps   
+ 
+ I2=4amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ I  =
+ 
+    25.  
+ 
+ P1  =
+ 
+    1500.  
+ 
+ R1  =
+ 
+    26.666667  
+ 
+ R  =
+ 
+    8.  
+ 
+ R2  =
+ 
+    11.428571  
+ 
+ 
+ R2=11.428571  ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.11/Ex1_11.sce #
+ 
+ 
+ V  =
+ 
+    100.  
+ 
+ P  =
+ 
+    1500.  
+ 
+ R  =
+ 
+    3.3333333  
+ 
+ Ra  =
+ 
+    3.3333333  
+ 
+ Rb  =
+ 
+    3.3333333  
+ 
+ Rc  =
+ 
+    3.3333333  
+ 
+ R1  =
+ 
+    5.  
+ 
+ I  =
+ 
+    20.  
+ 
+ I1  =
+ 
+    10.  
+ 
+ I2  =
+ 
+    10.  
+ 
+ Pa  =
+ 
+    1333.3333  
+ 
+ Pb  =
+ 
+    333.33333  
+ 
+ Pc  =
+ 
+    333.33333  
+ 
+ 
+ Pa=1333.3333  watts   
+ 
+ Pb=333.33333  watts   
+ 
+ Pc=333.33333  watts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.12/Ex1_12.sce #
+ 
+ 
+ L  =
+ 
+    3600.  
+ 
+ H  =
+ 
+    3000.  
+ 
+ M  =
+ 
+    735.5  
+ 
+ F  =
+ 
+    2400.  
+ 
+ T  =
+ 
+    9735.5  
+ 
+ TE  =
+ 
+    292.065  
+ 
+ C  =
+ 
+    0.9  
+ 
+ B  =
+ 
+    262.8585  
+ 
+ 
+ B=  262.8585     
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.18/Ex1_18.sce #
+ 
+ 
+ Rry  =
+ 
+    4.  
+ 
+ Ryb  =
+ 
+    1.  
+ 
+ Rbr  =
+ 
+    5.  
+ 
+ Rr  =
+ 
+    2.  
+ 
+ Ry  =
+ 
+    0.4  
+ 
+ Rb  =
+ 
+    0.5  
+ 
+ 
+ Rr=2  ohms   
+ 
+ Ry=0.4  ohms   
+ 
+ Rb=0.5ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH1/EX1.19/Ex1_19.sce #
+ 
+ 
+ Rr  =
+ 
+    2.  
+ 
+ Ry  =
+ 
+    0.67  
+ 
+ Rb  =
+ 
+    1.  
+ 
+ Rry  =
+ 
+    4.01  
+ 
+ Ryb  =
+ 
+    3.01  
+ 
+ Rbr  =
+ 
+    4.9950746  
+ 
+ 
+ Rry=4.01ohms   
+ 
+ Ryb=3.01ohms   
+ 
+ Rbr=4.9950746ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ flux density is = 1.25 Wb/m^2   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ magnetic field strenght=400AT/m   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ A  =
+ 
+    0.0005  
+ 
+ N  =
+ 
+    250.  
+ 
+ l  =
+ 
+    0.5  
+ 
+ F  =
+ 
+    0.0007  
+ 
+ u  =
+ 
+    380.  
+ 
+ S  =
+ 
+    2094144.  
+ 
+ I  =
+ 
+    5.8636032  
+ 
+ 
+ reluctance =2094144AT/Wb   
+ 
+ current=5.8636032amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ D  =
+ 
+    0.15  
+ 
+ l  =
+ 
+    0.4712389  
+ 
+ N  =
+ 
+    450.  
+ 
+ I  =
+ 
+    2.  
+ 
+ B  =
+ 
+    1.2  
+ 
+ u  =
+ 
+    2251.5819  
+ 
+ 
+ value of relative permeability=2251.5819     
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ l  =
+ 
+    1.5  
+ 
+ u  =
+ 
+    1600.  
+ 
+ B  =
+ 
+    1.2  
+ 
+ H1  =
+ 
+    895.24655  
+ 
+ la  =
+ 
+    0.001  
+ 
+ ua  =
+ 
+    1.  
+ 
+ H2  =
+ 
+    954.92966  
+ 
+ H  =
+ 
+    1850.1762  
+ 
+ 
+ amprs turns=895.24655 AT   
+ 
+ amprs turns=954.92966 AT   
+ 
+ total amprs turns =1850.1762 AT   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ A  =
+ 
+    0.0005  
+ 
+ l  =
+ 
+    0.25  
+ 
+ N  =
+ 
+    100.  
+ 
+ I  =
+ 
+    2.  
+ 
+ F  =
+ 
+    0.0003  
+ 
+ H  =
+ 
+    800.  
+ 
+ u  =
+ 
+    597.13376  
+ 
+ B  =
+ 
+    0.6  
+ 
+ I1  =
+ 
+    5.  
+ 
+ F1  =
+ 
+    0.00058  
+ 
+ H1  =
+ 
+    2000.  
+ 
+ u1  =
+ 
+    1154.4586  
+ 
+ B1  =
+ 
+    1.16  
+ 
+ 
+ flux density  B =0.6Wb/m^2   
+ 
+ flux density B1=1.16Wb/m^2   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ A  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    0.002  
+ 
+ u  =
+ 
+    1.  
+ 
+ F  =
+ 
+    0.0008  
+ 
+ B  =
+ 
+    0.08  
+ 
+ H  =
+ 
+    63694.268  
+ 
+ N  =
+ 
+    127.38854  
+ 
+ L  =
+ 
+    1.5  
+ 
+ v  =
+ 
+    600.  
+ 
+ f  =
+ 
+    0.00096  
+ 
+ N1  =
+ 
+    190.98593  
+ 
+ N2  =
+ 
+    318.37447  
+ 
+ n  =
+ 
+    200.  
+ 
+ M  =
+ 
+    1.5918723  
+ 
+ 
+ amps turn for air=  127.38854  AT   
+ 
+ amps turn iron=  190.98593  AT   
+ 
+ Total amps turns=  318.37447  AT   
+ 
+ Magnetising current =  1.5918723 A   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ A  =
+ 
+    0.0025  
+ 
+ F  =
+ 
+    0.0012  
+ 
+ u  =
+ 
+    1.  
+ 
+ l  =
+ 
+    0.0025  
+ 
+ N  =
+ 
+    1909.8593  
+ 
+ v  =
+ 
+    2000.  
+ 
+ L  =
+ 
+    0.5  
+ 
+ N1  =
+ 
+    95.492966  
+ 
+ N2  =
+ 
+    2005.3523  
+ 
+ 
+ amps turn for air=   1909.8593   AT   
+ 
+ amps turn for air=    95.492966    AT   
+ 
+ total amps turns  =    2005.3523    AT   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ u  =
+ 
+    1.  
+ 
+ F  =
+ 
+    0.0015  
+ 
+ A  =
+ 
+    0.0009  
+ 
+ B  =
+ 
+    1.6666667  
+ 
+ H  =
+ 
+    1326963.9  
+ 
+ l  =
+ 
+    0.004  
+ 
+ S  =
+ 
+    5307.8556  
+ 
+ l  =
+ 
+    0.004  
+ 
+ u1  =
+ 
+    800.  
+ 
+ A1  =
+ 
+    0.00075  
+ 
+ B1  =
+ 
+    2.  
+ 
+ H1  =
+ 
+    1990.4459  
+ 
+ l1  =
+ 
+    0.27  
+ 
+ S1  =
+ 
+    537.42038  
+ 
+ u2  =
+ 
+    1000.  
+ 
+ H2  =
+ 
+    1326.9639  
+ 
+ Ip  =
+ 
+    0.135  
+ 
+ Iq  =
+ 
+    0.27  
+ 
+ Ir  =
+ 
+    0.135  
+ 
+ S2  =
+ 
+    716.56051  
+ 
+ TNn  =
+ 
+    6561.8365  
+ 
+ TN  =
+ 
+    4000.  
+ 
+ EI  =
+ 
+    1.6404591  
+ 
+ 
+ exciting current=   1.6404591  amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ u  =
+ 
+    1.  
+ 
+ F  =
+ 
+    0.0012  
+ 
+ A  =
+ 
+    0.001  
+ 
+ B  =
+ 
+    1.2  
+ 
+ H  =
+ 
+    955414.01  
+ 
+ l  =
+ 
+    0.0002  
+ 
+ S  =
+ 
+    191.0828  
+ 
+ l1  =
+ 
+    0.15  
+ 
+ A1  =
+ 
+    0.0008  
+ 
+ H1  =
+ 
+    450.  
+ 
+ S1  =
+ 
+    67.5  
+ 
+ F1  =
+ 
+    0.0006  
+ 
+ B1  =
+ 
+    0.75  
+ 
+ H2  =
+ 
+    140.  
+ 
+ S2  =
+ 
+    42.  
+ 
+ TN  =
+ 
+    500.  
+ 
+ TAN  =
+ 
+    300.5828  
+ 
+ EI  =
+ 
+    0.6011656  
+ 
+ 
+ exciting current =0.6011656amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ A  =
+ 
+    50.  
+ 
+ H  =
+ 
+    200.  
+ 
+ B  =
+ 
+    0.2  
+ 
+ f  =
+ 
+    50.  
+ 
+ D  =
+ 
+    10.  
+ 
+ M  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    100.  
+ 
+ HL  =
+ 
+    2000.  
+ 
+ HL1  =
+ 
+    0.2  
+ 
+ HL2  =
+ 
+    10.  
+ 
+ 
+ 
+ Hysteresis loop = 10   j/s   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ N  =
+ 
+    200.  
+ 
+ F1  =
+ 
+    0.001  
+ 
+ F2  =
+ 
+    0.003  
+ 
+ F3  =
+ 
+    0.002  
+ 
+ t  =
+ 
+    0.1  
+ 
+ e  =
+ 
+    4.  
+ 
+ 
+ induced emf=   4  volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ e  =
+ 
+    9.6  
+ 
+ 
+ emf induced in the conductor=9.6volt   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ inductance of coil=0.075henry   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S = 4.775D+08   
+ 
+ Self inductance is = 0.0003351 henry   
+ 
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ u  =
+ 
+    1.  
+ 
+ D  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    0.785  
+ 
+ N  =
+ 
+    500.  
+ 
+ d  =
+ 
+    0.04  
+ 
+ A  =
+ 
+    0.001256  
+ 
+ s  =
+ 
+    4.976D+08  
+ 
+ L  =
+ 
+    0.0005024  
+ 
+ dI  =
+ 
+    10.  
+ 
+ dt  =
+ 
+    0.05  
+ 
+ e  =
+ 
+    0.10048  
+ 
+ 
+ Inductance =   0.0005024    henry   
+ 
+ Induced emf=0.10048   volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ A  =
+ 
+    0.0004  
+ 
+ u  =
+ 
+    1.  
+ 
+ D  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    0.785  
+ 
+ N  =
+ 
+    500.  
+ 
+ d  =
+ 
+    0.04  
+ 
+ s  =
+ 
+    1.563D+09  
+ 
+ L  =
+ 
+    0.00016  
+ 
+ dI  =
+ 
+    10.  
+ 
+ dt  =
+ 
+    0.05  
+ 
+ e  =
+ 
+    0.032  
+ 
+ 
+ Inductance =   0.00016    henry   
+ 
+ Induced emf=0.032   volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ di  =
+ 
+    5.  
+ 
+ dt  =
+ 
+    0.05  
+ 
+ L  =
+ 
+    0.0005029  
+ 
+ di1  =
+ 
+    400.  
+ 
+ dt1  =
+ 
+    1.  
+ 
+ e  =
+ 
+    0.05029  
+ 
+ e1  =
+ 
+    0.20116  
+ 
+ 
+ Induced emf=   0.05029   volts   
+ 
+ Induced emf=   0.20116   volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ N1  =
+ 
+    50.  
+ 
+ N2  =
+ 
+    400.  
+ 
+ A  =
+ 
+    0.015  
+ 
+ l  =
+ 
+    2.  
+ 
+ u  =
+ 
+    2500.  
+ 
+ s  =
+ 
+    42462.845  
+ 
+ M  =
+ 
+    0.471  
+ 
+ dI1  =
+ 
+    24.  
+ 
+ dt  =
+ 
+    0.03  
+ 
+ eM2  =
+ 
+    376.8  
+ 
+ 
+ s=42462.845  AT/Wb   
+ 
+ Mutual inductance=  0.471  henry   
+ 
+ induced emf=   376.8  volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ L  =
+ 
+    0.5  
+ 
+ I  =
+ 
+    2.  
+ 
+ E  =
+ 
+    1.  
+ 
+ 
+ Energy stored=  1  joule   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ A  =
+ 
+    0.0015  
+ 
+ B  =
+ 
+    1.2  
+ 
+ U  =
+ 
+    1.  
+ 
+ F  =
+ 
+    1719.7452  
+ 
+ 
+ Total force=1719.7452  N   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ Im  =
+ 
+    40.  
+ 
+ w  =
+ 
+    314.  
+ 
+ Iav  =
+ 
+    28.288543  
+ 
+ Irms  =
+ 
+    25.477707  
+ 
+ f  =
+ 
+    50.  
+ 
+ Ff  =
+ 
+    0.9006369  
+ 
+ Pf  =
+ 
+    1.57  
+ 
+ 
+ frequency =50     
+ 
+ form factor=0.9006369     
+ 
+ peak factor=1.57     
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ Vr  =
+ 
+    200.  
+ 
+ Vm  =
+ 
+    282.8  
+ 
+ t  =
+ 
+    0.0025  
+ 
+ w  =
+ 
+    0.785  
+ 
+ v  =
+ 
+    199.89016  
+ 
+ v1  =
+ 
+    150.  
+ 
+ t  =
+ 
+    0.0017796  
+ 
+ 
+ time=0.0017796 seconds     
+ 
+ voltage equation=199.89016 volts     
+ 
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Im  =
+ 
+    50.  
+ 
+ o  =
+ 
+    314.  
+ 
+ R  =
+ 
+    4.  
+ 
+ I  =
+ 
+    35.360679  
+ 
+ P  =
+ 
+    5001.5105  
+ 
+ 
+ power dissipiated in resistance=5001.5105   watts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.13/Ex4_14.sce #
+ 
+ 
+ 
+ 
+ X  =
+ 
+    78.5  
+ 
+ 
+ value of inductive reactance=78.5ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ L  =
+ 
+    0.05  
+ 
+ V  =
+ 
+    230.  
+ 
+ f  =
+ 
+    60.  
+ 
+ X  =
+ 
+    18.849556  
+ 
+ I  =
+ 
+    12.201879  
+ 
+ 
+  the current flowing through the coil=12.201879amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.16/Ex4_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ value of inductors=0.1273240henry   
+ 
+ the value of inductive.reactance=40ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.17/Ex4_17.sce #
+ 
+ 
+ Vrms  =
+ 
+    150.  
+ 
+ Vm  =
+ 
+    424.2  
+ 
+ f  =
+ 
+    50.  
+ 
+ L  =
+ 
+    0.2  
+ 
+ X  =
+ 
+    62.8  
+ 
+ Im  =
+ 
+    6.7547771  
+ 
+ 
+  Im= 6.7547771    
+ 
+ voltage equation v=3.376sin(314t-90)   
+ 
+ current equation   i=212.132sin(314)t   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.18/Ex4_18.sce #
+ 
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ f  =
+ 
+    60.  
+ 
+ f2  =
+ 
+    120.  
+ 
+ Xc  =
+ 
+    106.1033  
+ 
+ Xc  =
+ 
+    53.051648  
+ 
+ I  =
+ 
+    3.7699112  
+ 
+ 
+ frequency douled=120hz   
+ 
+ frequency half=60hz   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.19/Ex4_19.sce #
+ 
+ 
+ Xc  =
+ 
+    25.  
+ 
+ V  =
+ 
+    200.  
+ 
+ f  =
+ 
+    50.  
+ 
+ C  =
+ 
+    0.0001273  
+ 
+ I  =
+ 
+    8.  
+ 
+ 
+ the value of current=8amps   
+ 
+ the value of capacitance =0.0001273farad   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.20/Ex4_20.sce #
+ 
+ 
+ Vrms  =
+ 
+    110.  
+ 
+ c  =
+ 
+    0.000015  
+ 
+ I  =
+ 
+    0.518  
+ 
+ Xc  =
+ 
+    212.35521  
+ 
+ f  =
+ 
+    49.965006  
+ 
+ 
+ value of frequency=49.965006hz   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.21/Ex4_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    6.2831853  
+ 
+ Z  =
+ 
+    11.810098  
+ 
+ I  =
+ 
+    21.168325  
+ 
+ coso  =
+ 
+    0.8467330  
+ 
+ o  =
+ 
+    32.141908  
+ 
+ 
+ current flowing through coil=21.168325amp   
+ 
+ phase angle=32.141908degree   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.22/Ex4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    157.07963  
+ 
+ Z  =
+ 
+    164.84542  
+ 
+ I  =
+ 
+    1.2132579  
+ 
+ coso  =
+ 
+    0.3033145  
+ 
+ sino  =
+ 
+    0.3033145  
+ 
+ o  =
+ 
+    72.343213  
+ 
+ o1  =
+ 
+    17.656787  
+ 
+ Vr  =
+ 
+    60.662894  
+ 
+ Vl  =
+ 
+    190.5781  
+ 
+ AP  =
+ 
+    73.599735  
+ 
+ RP  =
+ 
+    73.599735  
+ 
+ 
+ 
+ 
+ The time equation of current = 1.711sin(314t-72.34)   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.23/Ex4_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    47.12389  
+ 
+ Z  =
+ 
+    49.453625  
+ 
+ V  =
+ 
+    989.07249  
+ 
+ 
+ supply voltage = 989.07249volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.24/Ex4_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Z  =
+ 
+    400.  
+ 
+ X  =
+ 
+    125.66371  
+ 
+ R  =
+ 
+    419.27481  
+ 
+ 
+ Resistance = 419.27481ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.25/Ex4_25.sce #
+ 
+ 
+ R  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    166.55863  
+ 
+ L  =
+ 
+    0.4418105  
+ 
+ 
+ inductance of coil=0.4418105henry   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.27/Ex4_27.sce #
+ 
+ 
+ I  =
+ 
+    7.  
+ 
+ V  =
+ 
+    200.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R  =
+ 
+    10.  
+ 
+ r  =
+ 
+    1.5  
+ 
+ V1  =
+ 
+    70.  
+ 
+ V3  =
+ 
+    10.5  
+ 
+ V2  =
+ 
+    183.084  
+ 
+ X  =
+ 
+    26.154857  
+ 
+ L  =
+ 
+    0.0832535  
+ 
+ V4  =
+ 
+    183.38484  
+ 
+ 
+ inductor=0.0832535henry   
+ 
+ voltage across choking coil=183.38484volts   
+ 
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.28/Ex4_28.sce #
+ 
+ ans  =
+ 
+    4.28  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sino  =
+ 
+    0.4262788  
+ 
+ 
+ o  =
+ 
+    25.231637  
+ 
+ 
+ 
+ AP  =
+ 
+    18.171366  
+ 
+ RP  =
+ 
+    18.171366  
+ 
+ 
+ 
+ ACTIVE POWER =18.171366 watts   
+ 
+ Apparent power =42.627885vars     
+ 
+ The time equation of current i  = (0.426)1.414sin(314t-64.34)   
+ 
+ 
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.29/Ex4_29.sce #
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    157.07963  
+ 
+ Z  =
+ 
+    30. + 157.07963i  
+ 
+ V  =
+ 
+    86.6 + 50.i  
+ 
+ I  =
+ 
+    0.4086954 - 0.4732576i  
+ 
+ 
+ current  =  0.4086954-%i*0.4732576A   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.30/Ex4_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Im  =
+ 
+    2.  
+ 
+ Vm  =
+ 
+    874.80554  
+ 
+ 
+ 
+ 
+ The time equation of voltage Vc  = 636sin(wt-90)   
+ 
+ The time equation of voltage Vr  = 600sin(314t)   
+ 
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.31/Ex4_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    16.  
+ 
+ Xc  =
+ 
+    57.827329  
+ 
+ 
+ 
+ find tha value of capacitance=0.0000551farad   
+ 
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.32/Ex4_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ determine the value of capacitance=0.0000278farad   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.33/Ex4_33.sce #
+ 
+ 
+ R  =
+ 
+    25.  
+ 
+ C  =
+ 
+    0.00002  
+ 
+ L  =
+ 
+    0.15  
+ 
+ V  =
+ 
+    250.  
+ 
+ f  =
+ 
+    50.  
+ 
+ X  =
+ 
+    47.12389  
+ 
+ Xc  =
+ 
+    159.15494  
+ 
+ Z  =
+ 
+    114.78657  
+ 
+ I  =
+ 
+    2.1779551  
+ 
+ coso  =
+ 
+    0.2177955  
+ 
+ o  =
+ 
+    77.420414  
+ 
+ Vr  =
+ 
+    54.448878  
+ 
+ Vl  =
+ 
+    102.63372  
+ 
+ Vc  =
+ 
+    346.63232  
+ 
+ 
+ ind capacitance=159.15494ohms   
+ 
+ ind.reactance=47.12389ohms   
+ 
+ impedence=114.78657ohms   
+ 
+ current=2.1779551amps   
+ 
+ phase angle=77.420414degree   
+ 
+ Vc=346.63232volts   
+ 
+ Vl=102.63372volts   
+ 
+ Vr=54.448878volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.34/Ex4_34.sce #
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R1  =
+ 
+    10.  
+ 
+ L1  =
+ 
+    0.15  
+ 
+ C1  =
+ 
+    0.00001  
+ 
+ X1  =
+ 
+    47.12389  
+ 
+ Xc1  =
+ 
+    318.30989  
+ 
+ R2  =
+ 
+    8.  
+ 
+ L2  =
+ 
+    0.25  
+ 
+ X2  =
+ 
+    78.539816  
+ 
+ Z  =
+ 
+    193.48527  
+ 
+ I  =
+ 
+    1.292088  
+ 
+ Z1  =
+ 
+    271.37031  
+ 
+ V1  =
+ 
+    350.63432  
+ 
+ Z2  =
+ 
+    78.946202  
+ 
+ V2  =
+ 
+    102.00544  
+ 
+ 
+ V2=102.00544volts   
+ 
+ v1=350.63432volts   
+ 
+ value of current=1.292088amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.35/Ex4_35.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ I  =
+ 
+    16.666667  
+ 
+ f  =
+ 
+    64.974733  
+ 
+ 
+ maximum crnt=16.666667amp   
+ 
+ frequency=64.974733hertz   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.36/Ex4_36.sce #
+ 
+ 
+ C  =
+ 
+    0.00003  
+ 
+ L  =
+ 
+    0.2  
+ 
+ R  =
+ 
+    12.  
+ 
+ F  =
+ 
+    403.81514  
+ 
+ f  =
+ 
+    64.301774  
+ 
+ 
+ freq at resonance=64.301774hz   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.37/Ex4_37.sce #
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R1  =
+ 
+    30.  
+ 
+ L1  =
+ 
+    0.2  
+ 
+ C1  =
+ 
+    0.00001  
+ 
+ X1  =
+ 
+    62.831853  
+ 
+ Z1  =
+ 
+    30. + 62.831853i  
+ 
+ R2  =
+ 
+    40.  
+ 
+ L2  =
+ 
+    0.12  
+ 
+ X2  =
+ 
+    37.699112  
+ 
+ Z2  =
+ 
+    40. + 37.699112i  
+ 
+ Z  =
+ 
+    18.961839 + 24.828507i  
+ 
+ I  =
+ 
+    3.8855984 - 5.087777i  
+ 
+ R  =
+ 
+    18.858  
+ 
+ Z  =
+ 
+    31.06  
+ 
+ coso  =
+ 
+    0.6071475  
+ 
+ I  =
+ 
+    6.44  
+ 
+ P  =
+ 
+    782.10915  
+ 
+ I1  =
+ 
+    3.611945 + 0.5932117i  
+ 
+ I2  =
+ 
+    3.611945 + 0.5932117i  
+ 
+ coso1  =
+ 
+    0.1856496 - 0.3888237i  
+ 
+ P1  =
+ 
+    380.82739 + 128.55889i  
+ 
+ coso2  =
+ 
+    0.5295869 - 0.4991239i  
+ 
+ P2  =
+ 
+    507.76985 + 171.41185i  
+ 
+ 
+ total impedance=31.06ohms   
+ 
+ total current  =6.44amps   
+ 
+ Total power=782.10915watt   
+ 
+ Total power factr=0.6071475   
+ 
+ P1 = 380.82739+%i*128.55889watt     
+ 
+ P2 = 507.76985+%i*171.41185watt   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.38/Ex4_38.sce #
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R1  =
+ 
+    10.  
+ 
+ X1  =
+ 
+    12.  
+ 
+ Z1  =
+ 
+    10. + 12.i  
+ 
+ R2  =
+ 
+    15.  
+ 
+ Xc2  =
+ 
+    20.  
+ 
+ Z2  =
+ 
+    15. - 20.i  
+ 
+ Z  =
+ 
+    14.383164 + 3.8026125i  
+ 
+ I  =
+ 
+    12.996721 - 3.4360656i  
+ 
+ R  =
+ 
+    14.36  
+ 
+ I  =
+ 
+    13.46  
+ 
+ coso  =
+ 
+    0.9331646 - 0.2467095i  
+ 
+ P  =
+ 
+    2601.6242  
+ 
+ I1  =
+ 
+    10.451524 - 7.4235123i  
+ 
+ I2  =
+ 
+    3.0084761 + 7.4235123i  
+ 
+ coso1  =
+ 
+    0.4098361 - 0.4918033i  
+ 
+ P1  =
+ 
+    541.25817 - 1551.7403i  
+ 
+ coso2  =
+ 
+    0.36 + 0.48i  
+ 
+ P2  =
+ 
+  - 690.86411 + 670.00377i  
+ 
+ 
+ total impedance   Z  = 14.383164+%i*3.8026125ohms   
+ 
+ total current  =13.46amps   
+ 
+ Total power=2601.6242watt   
+ 
+ Total power factr= 0.9331646-%i*0.2467095   
+ 
+ P1 = 541.25817-%i*1551.7403watt     
+ 
+ P2 =-690.86411+%i*670.00377watt   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.40/Ex4_40.sce #
+ 
+ 
+ R  =
+ 
+    200.  
+ 
+ Vl  =
+ 
+    440.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V  =
+ 
+    254.04157  
+ 
+ I  =
+ 
+    1.2702079  
+ 
+ Il  =
+ 
+    1.2702079  
+ 
+ coso  =
+ 
+    1.  
+ 
+ P  =
+ 
+    968.05679  
+ 
+ Vp  =
+ 
+    440.  
+ 
+ Vl  =
+ 
+    440.  
+ 
+ I1  =
+ 
+    2.2  
+ 
+ P1  =
+ 
+    1676.6744  
+ 
+ 
+ active power=1676.6744watt   
+ 
+ active power=968.05679watt   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.41/Ex4_41.sce #
+ 
+ 
+ R  =
+ 
+    15.  
+ 
+ L  =
+ 
+    0.25  
+ 
+ f  =
+ 
+    50.  
+ 
+ X  =
+ 
+    78.539816  
+ 
+ Z  =
+ 
+    79.959382  
+ 
+ Vl  =
+ 
+    400.  
+ 
+ V  =
+ 
+    230.94688  
+ 
+ I  =
+ 
+    2.8883025  
+ 
+ Il  =
+ 
+    2.8883025  
+ 
+ coso  =
+ 
+    0.1875952  
+ 
+ P  =
+ 
+    375.40311  
+ 
+ 
+ total power absorbed=375.40311watt   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.42/Ex4_42.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    230.94688  
+ 
+ 
+ Z  =
+ 
+    6.5984823  
+ 
+ coso  =
+ 
+    0.6186077  
+ 
+ R  =
+ 
+    4.0818721  
+ 
+ X  =
+ 
+    5.1844276  
+ 
+ 
+ resistance=4.0818721ohms   
+ 
+ reactance=5.1844276ohms   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.43/Ex4_43.sce #
+ 
+ 
+ W1  =
+ 
+    5000.  
+ 
+ W2  =
+ 
+    3000.  
+ 
+ o  =
+ 
+    23.412612  
+ 
+ 
+ power factor=23.412612     
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e.m.f induced is = 240 volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e.m.f induced is = 120 volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ determine the speed (A=P=6)=2564.1026rpm   
+ 
+ determine the speed=854.70085rpm   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ emf induced=252.125volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ Il  =
+ 
+    200.  
+ 
+ Vl  =
+ 
+    500.  
+ 
+ Ra  =
+ 
+    0.03  
+ 
+ Rs  =
+ 
+    0.015  
+ 
+ R  =
+ 
+    150.  
+ 
+ BCD  =
+ 
+    2.  
+ 
+ I  =
+ 
+    3.3333333  
+ 
+ Ia  =
+ 
+    203.33333  
+ 
+ Eg  =
+ 
+    511.15  
+ 
+ 
+ emf induced=     511.15     volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ Il  =
+ 
+    200.  
+ 
+ Vl  =
+ 
+    500.  
+ 
+ Ra  =
+ 
+    0.03  
+ 
+ Rs  =
+ 
+    0.015  
+ 
+ Is  =
+ 
+    200.  
+ 
+ R  =
+ 
+    150.  
+ 
+ BCD  =
+ 
+    2.  
+ 
+ I  =
+ 
+    3.3533333  
+ 
+ Ia  =
+ 
+    203.35333  
+ 
+ Eg  =
+ 
+    511.1509  
+ 
+ 
+ emf induced=     511.1509    volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ Ra  =
+ 
+    0.5  
+ 
+ Rs  =
+ 
+    250.  
+ 
+ Vl  =
+ 
+    250.  
+ 
+ Il  =
+ 
+    40.  
+ 
+ Is  =
+ 
+    1.  
+ 
+ Ia  =
+ 
+    39.  
+ 
+ Eb  =
+ 
+    230.5  
+ 
+ 
+ emf induced=     230.5    volts   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ Pl  =
+ 
+    20000.  
+ 
+ Vl  =
+ 
+    200.  
+ 
+ Ra  =
+ 
+    0.05  
+ 
+ R  =
+ 
+    150.  
+ 
+ I  =
+ 
+    1.3333333  
+ 
+ Il  =
+ 
+    100.  
+ 
+ Ia  =
+ 
+    101.33333  
+ 
+ Eg  =
+ 
+    205.06667  
+ 
+ P  =
+ 
+    20780.089  
+ 
+ 
+ power developed=20780.089watt   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ N1  =
+ 
+    1000.  
+ 
+ E1  =
+ 
+    205.06  
+ 
+ E2  =
+ 
+    195.06  
+ 
+ N2  =
+ 
+    951.23379  
+ 
+ 
+ speed of motor=951.23379rpm   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ Vl  =
+ 
+    250.  
+ 
+ Ra  =
+ 
+    0.05  
+ 
+ R  =
+ 
+    0.02  
+ 
+ Ia  =
+ 
+    30.  
+ 
+ I1  =
+ 
+    30.  
+ 
+ N1  =
+ 
+    400.  
+ 
+ E1  =
+ 
+    247.9  
+ 
+ 
+ I2  =
+ 
+    25.  
+ 
+ N2  =
+ 
+    480.  
+ 
+ 
+ speed of motor=480rpm   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ Vl  =
+ 
+    200.  
+ 
+ Il  =
+ 
+    60.  
+ 
+ R  =
+ 
+    50.  
+ 
+ I  =
+ 
+    4.  
+ 
+ Ia  =
+ 
+    56.  
+ 
+ f  =
+ 
+    0.03  
+ 
+ Z  =
+ 
+    700.  
+ 
+ P  =
+ 
+    4.  
+ 
+ A  =
+ 
+    2.  
+ 
+ T  =
+ 
+    373.968  
+ 
+ 
+ Torque=373.968N-m   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ KVA  =
+ 
+    50.  
+ 
+ E1  =
+ 
+    6000.  
+ 
+ E2  =
+ 
+    250.  
+ 
+ N2  =
+ 
+    52.  
+ 
+ N1  =
+ 
+    1248.  
+ 
+ I2  =
+ 
+    200.  
+ 
+ I1  =
+ 
+    8.3333333  
+ 
+ 
+ prim num of turns  N1 =  1248    turns   
+ 
+ sec current  I2 =  200    amps   
+ 
+ prim current  I1 =  8.3333333    amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.13/Ex5_13.sce #
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ N1  =
+ 
+    350.  
+ 
+ N2  =
+ 
+    800.  
+ 
+ E1  =
+ 
+    400.  
+ 
+ E2  =
+ 
+    914.28571  
+ 
+ A  =
+ 
+    0.0075  
+ 
+ Bm  =
+ 
+    0.6864007  
+ 
+ 
+ flux density=0.6864007wb/m^2   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.14/Ex5_14.sce #
+ 
+ 
+ E1  =
+ 
+    440.  
+ 
+ E2  =
+ 
+    200.  
+ 
+ I  =
+ 
+    0.2  
+ 
+ coso  =
+ 
+    0.18  
+ 
+ sino  =
+ 
+    0.9836666  
+ 
+ Iw  =
+ 
+    0.036  
+ 
+ Iu  =
+ 
+    0.1967333  
+ 
+ 
+ Iu=0.1967333amprs   
+ 
+ Iw=0.036amps   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.15/Ex5_15.sce #
+ 
+ 
+ KVA  =
+ 
+    20.  
+ 
+ Il  =
+ 
+    350.  
+ 
+ Cl  =
+ 
+    400.  
+ 
+ x  =
+ 
+    1.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ pf1  =
+ 
+    0.4  
+ 
+ x1  =
+ 
+    0.5  
+ 
+ op  =
+ 
+    20000.  
+ 
+ op1  =
+ 
+    4000.  
+ 
+ Tl  =
+ 
+    750.  
+ 
+ Tl1  =
+ 
+    450.  
+ 
+ ip  =
+ 
+    20750.  
+ 
+ ip1  =
+ 
+    4450.  
+ 
+ %n  =
+ 
+    96.385542  
+ 
+ %n1  =
+ 
+    89.88764  
+ 
+ 
+ efficiency at full load  n1 =  96.385542     
+ 
+ efficiency at half load  n =  89.88764     
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.16/Ex5_16.sce #
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ p  =
+ 
+    4.  
+ 
+ Ns  =
+ 
+    1500.  
+ 
+ N  =
+ 
+    1460.  
+ 
+ s  =
+ 
+    0.0266667  
+ 
+ f1  =
+ 
+    1.3333333  
+ 
+ 
+ Ns=1500rpm   
+ 
+ s=0.0266667    
+ 
+ f1=1.3333333hz   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.17/Ex5_17.sce #
+ 
+ 
+ P  =
+ 
+    6.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Ns  =
+ 
+    1000.  
+ 
+ f1  =
+ 
+    1.5  
+ 
+ s  =
+ 
+    0.03  
+ 
+ N  =
+ 
+    970.  
+ 
+ 
+ speed of motor=970RPM   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.18/Ex5_18.sce #
+ 
+ 
+ Ns  =
+ 
+    1000.  
+ 
+ N  =
+ 
+    960.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    6.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ f1  =
+ 
+    2.  
+ 
+ N  =
+ 
+    920.  
+ 
+ 
+ speed of rotor=920RPM   
+ 
+ 
+grepthis#Engineering_Basics_T._Thyagarajan_1853/CH5/EX5.19/Ex5_19.sce #
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    16.  
+ 
+ N  =
+ 
+    160.  
+ 
+ S  =
+ 
+    6.  
+ 
+ n  =
+ 
+    960.  
+ 
+ Z  =
+ 
+    320.  
+ 
+ F  =
+ 
+    0.025  
+ 
+ e  =
+ 
+    888.  
+ 
+ 
+ e=888volts   
+ 
+ 

@@ -1,0 +1,7100 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 153
+
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.1/1_1.sce #
+ 
+ 
+ Ar  =
+ 
+    50.  
+ 
+ Ap  =
+ 
+    0.125  
+ 
+ Wp  =
+ 
+    5.  
+ 
+ 
+ Pp  =
+ 
+    40.  
+ 
+ F  =
+ 
+    2000.  
+ 
+ 
+weight supported by ram = 2000 lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.2/1_2.sce #
+ 
+ 
+ Dp  =
+ 
+    1.  
+ 
+ Dr  =
+ 
+    10.  
+ 
+ R  =
+ 
+    12.  
+ 
+ W  =
+ 
+    15.  
+ 
+ 
+ Ar  =
+ 
+    78.539816  
+ 
+ Ap  =
+ 
+    0.7853982  
+ 
+ P  =
+ 
+    28.  
+ 
+ 
+power applied to lever = 28 lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.3/1_3.sce #
+ 
+ 
+ Dj  =
+ 
+    1.  
+ 
+ Dr  =
+ 
+    2.  
+ 
+ W  =
+ 
+    40.  
+ 
+ W1  =
+ 
+    1.  
+ 
+ rl  =
+ 
+    20.  
+ 
+ 
+ Ap  =
+ 
+    0.7853982  
+ 
+ Ar  =
+ 
+    3.1415927  
+ 
+ Vrj  =
+ 
+    80.  
+ 
+ e  =
+ 
+    70.  
+ 
+ 
+efficiency of machine at this load = 70 percent 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.4/1_4.sce #
+ 
+ 
+ Dj  =
+ 
+    1.  
+ 
+ Dr  =
+ 
+    2.  
+ 
+ ns  =
+ 
+    3.  
+ 
+ h  =
+ 
+    2.  
+ 
+ 
+ Ap  =
+ 
+    0.7853982  
+ 
+ Ar  =
+ 
+    3.1415927  
+ 
+ Vrj  =
+ 
+    4.  
+ 
+ ns1  =
+ 
+    32.  
+ 
+ 
+ working strokes = 32 strokes 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.5/1_5.sce #
+ 
+ 
+ T  =
+ 
+    40.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ h  =
+ 
+    50.  
+ 
+ 
+ p  =
+ 
+    21.666667  
+ 
+ 
+ pressure at a depth of 50 ft = 21.67 lbs per in 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.6/1_6.sce #
+ 
+ 
+ W  =
+ 
+    64.  
+ 
+ h1  =
+ 
+    27.  
+ 
+ h2  =
+ 
+    9.  
+ 
+ w  =
+ 
+    40.  
+ 
+ 
+ Pr  =
+ 
+    933120.  
+ 
+ Pl  =
+ 
+    103680.  
+ 
+ y1  =
+ 
+    9.  
+ 
+ y2  =
+ 
+    3.  
+ 
+ y  =
+ 
+    9.75  
+ 
+ 
+ point of application = 9.75 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.7/1_7.sce #
+ 
+ 
+ d  =
+ 
+    5.  
+ 
+ x  =
+ 
+    3.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ a  =
+ 
+    90.  
+ 
+ 
+ h  =
+ 
+    3.5208333  
+ 
+ 
+depth of the pressure= 3.52 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.8/1_8.sce #
+ 
+ 
+ w  =
+ 
+    3.  
+ 
+ h  =
+ 
+    4.  
+ 
+ ht  =
+ 
+    30.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ 
+ Ap  =
+ 
+    12.  
+ 
+ X  =
+ 
+    32.  
+ 
+ P  =
+ 
+    23961.6  
+ 
+ I0  =
+ 
+    12304.  
+ 
+ H  =
+ 
+    32.041667  
+ 
+ 
+ total pressure on the gate = 32.04 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.9/1_9.sce #
+ 
+ 
+ w  =
+ 
+    3.  
+ 
+ h  =
+ 
+    4.  
+ 
+ ht  =
+ 
+    30.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ x  =
+ 
+    2.22  
+ 
+ x1  =
+ 
+    4.5  
+ 
+ 
+ Ap  =
+ 
+    12.  
+ 
+ X  =
+ 
+    32.  
+ 
+ P  =
+ 
+    23961.6  
+ 
+ T  =
+ 
+    11821.056  
+ 
+ T1  =
+ 
+    12140.544  
+ 
+ 
+ tension devoloped in the top bolt = 11821 lbs 
+ 
+ tension devoloped in the bottom bolt = 12141 lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.10/1_10.sce #
+ 
+ 
+ w  =
+ 
+    3.  
+ 
+ h  =
+ 
+    15.  
+ 
+ d  =
+ 
+    140.  
+ 
+ x  =
+ 
+    6.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ 
+ W1  =
+ 
+    6300.  
+ 
+ h  =
+ 
+    6.7157173  
+ 
+ 
+ height of water rise = 6.72 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.11/1_11.sce #
+ 
+ 
+ h  =
+ 
+    5.  
+ 
+ d  =
+ 
+    6.  
+ 
+ a  =
+ 
+    30.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ A  =
+ 
+    28.274334  
+ 
+ X  =
+ 
+    6.5  
+ 
+ P  =
+ 
+    11468.07  
+ 
+ Ic  =
+ 
+    63.617251  
+ 
+ I0  =
+ 
+    4841.9797  
+ 
+ h  =
+ 
+    6.5865385  
+ 
+ 
+depth of the centre os pressure= 6.59 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.12/1_12.sce #
+ 
+ 
+ w  =
+ 
+    4.  
+ 
+ l  =
+ 
+    4.  
+ 
+ X  =
+ 
+    10.  
+ 
+ a  =
+ 
+    45.  
+ 
+ W  =
+ 
+    100.  
+ 
+ a1  =
+ 
+    60.  
+ 
+ w1  =
+ 
+    62.4  
+ 
+ 
+ A  =
+ 
+    16.  
+ 
+ X1  =
+ 
+    11.414214  
+ 
+ Ig  =
+ 
+    21.333333  
+ 
+ I0  =
+ 
+    4190.43  
+ 
+ h  =
+ 
+    11.47262  
+ 
+ P  =
+ 
+    11395.951  
+ 
+ h1  =
+ 
+    1.4726203  
+ 
+ h2  =
+ 
+    2.0825996  
+ 
+ T  =
+ 
+    6892.0102  
+ 
+ 
+Pull in the chain= 6892 lbs  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.13/1_13.sce #
+ 
+ 
+ 
+ w  =
+ 
+    4.  
+ 
+ l  =
+ 
+    4.  
+ 
+ X  =
+ 
+    10.  
+ 
+ a  =
+ 
+    45.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ u  =
+ 
+    0.25  
+ 
+ 
+ A  =
+ 
+    16.  
+ 
+ X1  =
+ 
+    11.414214  
+ 
+ P  =
+ 
+    11395.951  
+ 
+ T  =
+ 
+    2848.9877  
+ 
+ 
+magnitude of the lifting force= 2849 lbs  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.14/1_14.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ sg  =
+ 
+    1.6  
+ 
+ h  =
+ 
+    10.  
+ 
+ h1  =
+ 
+    4.  
+ 
+ 
+ D  =
+ 
+    99.84  
+ 
+ W  =
+ 
+    6115.2  
+ 
+ P  =
+ 
+    624.  
+ 
+ P1  =
+ 
+    399.36  
+ 
+ P2  =
+ 
+    6414.72  
+ 
+ y  =
+ 
+    4.5110246  
+ 
+ 
+Position where P acts= 4.5 ft above the base 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.15/1_15.sce #
+ 
+ 
+ pa  =
+ 
+    10.  
+ 
+ h  =
+ 
+    8.  
+ 
+ h1  =
+ 
+    6.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ pg  =
+ 
+    10.  
+ 
+ 
+ Pa  =
+ 
+    1440.  
+ 
+ Pa1  =
+ 
+    374.4  
+ 
+ Pt  =
+ 
+    12643.2  
+ 
+ y  =
+ 
+    3.8223235  
+ 
+ 
+Depth of the centre of pressure= 3.82 ft from the base 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.16/1_16.sce #
+ 
+ 
+ d  =
+ 
+    4.  
+ 
+ h  =
+ 
+    6.  
+ 
+ 
+ A  =
+ 
+    12.566371  
+ 
+ X  =
+ 
+    2.  
+ 
+ I0  =
+ 
+    62.831853  
+ 
+ h1  =
+ 
+    2.5  
+ 
+ h2  =
+ 
+    1.5  
+ 
+ 
+Depth of the axis be placed in order= 1.5 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.17/1_17.sce #
+ 
+ 
+ h  =
+ 
+    10.  
+ 
+ 
+ x  =
+ 
+    7.0710678  
+ 
+ 
+Depth of the axis be placed in order= 7.07 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.18/1_18.sce #
+ 
+ 
+ h  =
+ 
+    8.  
+ 
+ h1  =
+ 
+    10.  
+ 
+ 
+ A  =
+ 
+    8.  
+ 
+ X  =
+ 
+    5.  
+ 
+ Ig  =
+ 
+    42.666667  
+ 
+ I0  =
+ 
+    242.66667  
+ 
+ h2  =
+ 
+    6.0666667  
+ 
+ 
+depth at which the hinge of the shutter= 6.07 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.19/1_19.sce #
+ 
+ 
+ k1  =
+ 
+    1.  
+ 
+ k2  =
+ 
+    35.98  
+ 
+ k3  =
+ 
+    66.83  
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+  - 6.7712395  
+    4.6476564  
+    2.1235832  
+ 
+ X  =
+ 
+    4.6476564  
+ 
+ 
+depth of the water= 4.65 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.22/1_22.sce #
+ 
+ 
+ d  =
+ 
+    8.  
+ 
+ d1  =
+ 
+    2.  
+ 
+ h  =
+ 
+    4.  
+ 
+ h1  =
+ 
+    2.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ A1  =
+ 
+    50.265482  
+ 
+ A2  =
+ 
+    3.1415927  
+ 
+ A  =
+ 
+    47.12389  
+ 
+ x  =
+ 
+    7.8666667  
+ 
+ P  =
+ 
+    23132.175  
+ 
+ Ig  =
+ 
+    186.8724  
+ 
+ h2  =
+ 
+    8.3707627  
+ 
+ 
+depth of the centre of the pressure= 8.4 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.25/1_25.sce #
+ 
+ 
+ W  =
+ 
+    62.4  
+ 
+ a  =
+ 
+    140.  
+ 
+ h  =
+ 
+    20.  
+ 
+ w  =
+ 
+    6.  
+ 
+ h1  =
+ 
+    17.  
+ 
+ h2  =
+ 
+    5.  
+ 
+ 
+ P1  =
+ 
+    54100.8  
+ 
+ P2  =
+ 
+    4680.  
+ 
+ P  =
+ 
+    49420.8  
+ 
+ y  =
+ 
+    6.0454545  
+ 
+ R  =
+ 
+    72248.376  
+ 
+ Rt  =
+ 
+    21838.714  
+ 
+ Rb  =
+ 
+    50409.663  
+ 
+ 
+Rt= 21839 lbs  
+
+ Rb= 50410 lbs  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.26/1_26.sce #
+ 
+ 
+ w  =
+ 
+    64.  
+ 
+ h  =
+ 
+    12.  
+ 
+ l  =
+ 
+    9.  
+ 
+ a  =
+ 
+    45.  
+ 
+ 
+ P  =
+ 
+    4608.  
+ 
+ h1  =
+ 
+    4.  
+ 
+ Rb  =
+ 
+    2048.  
+ 
+ Ra  =
+ 
+    2560.  
+ 
+ Wh  =
+ 
+    8192.  
+ 
+ T  =
+ 
+    11585.238  
+ 
+ 
+Load on the strut= 11585 lbs  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH1/EX1.27/1_27.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ h  =
+ 
+    9.  
+ 
+ l  =
+ 
+    10.  
+ 
+ 
+ P  =
+ 
+    2527.2  
+ 
+ h1  =
+ 
+    3.  
+ 
+ Ra  =
+ 
+    1263.6  
+ 
+ x  =
+ 
+    1.7777778  
+ 
+ x1  =
+ 
+    4.7777778  
+ 
+ hb  =
+ 
+    1.2222222  
+ 
+ W  =
+ 
+    12636.  
+ 
+ 
+magnitude od total in each beam= 12636 lbs  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.1/2_1.sce #
+ 
+ 
+ l  =
+ 
+    60.  
+ 
+ w  =
+ 
+    10.  
+ 
+ h  =
+ 
+    5.  
+ 
+ t  =
+ 
+    0.1875  
+ 
+ sp  =
+ 
+    7.75  
+ 
+ H  =
+ 
+    4.  
+ 
+ w1  =
+ 
+    62.4  
+ 
+ y  =
+ 
+    4.  
+ 
+ 
+ V  =
+ 
+    20.3125  
+ 
+ W  =
+ 
+    9823.125  
+ 
+ x  =
+ 
+    0.2623698  
+ 
+ W1  =
+ 
+    149760.  
+ 
+ dW  =
+ 
+    62.527647  
+ 
+ 
+weight of water displaced= 62.5 tons 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ D  =
+ 
+    64.  
+ 
+ d  =
+ 
+    6.  
+ 
+ l  =
+ 
+    10.  
+ 
+ W  =
+ 
+    2.  
+ 
+ 
+ V  =
+ 
+    70.  
+ 
+ h  =
+ 
+    2.4757436  
+ 
+ BM  =
+ 
+    0.9088179  
+ 
+ P  =
+ 
+    3661.5696  
+ 
+ 
+Minimum pull required= 3665 lbs  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.4/2_4.sce #
+ 
+ 
+ sg  =
+ 
+    7.  
+ 
+ sg1  =
+ 
+    5.  
+ 
+ d  =
+ 
+    8.  
+ 
+ t  =
+ 
+    1.  
+ 
+ 
+ x  =
+ 
+    30.547237  
+ 
+ 
+maximum length of cylinder= 30.55 in  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.7/2_7.sce #
+ 
+ 
+ W  =
+ 
+    2000.  
+ 
+ m  =
+ 
+    15.  
+ 
+ dx  =
+ 
+    24.  
+ 
+ l  =
+ 
+    3.  
+ 
+ dx1  =
+ 
+    5.  
+ 
+ 
+ GM  =
+ 
+    3.6  
+ 
+ 
+metacentric height= 3.6 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.8/2_8.sce #
+ 
+ 
+ M  =
+ 
+    350.  
+ 
+ l  =
+ 
+    50.  
+ 
+ w  =
+ 
+    20.  
+ 
+ W  =
+ 
+    100.  
+ 
+ h  =
+ 
+    6.  
+ 
+ M1  =
+ 
+    250.  
+ 
+ 
+ V  =
+ 
+    12250.  
+ 
+ d  =
+ 
+    12.25  
+ 
+ BM  =
+ 
+    2.7210884  
+ 
+ y  =
+ 
+    15.96131  
+ 
+ 
+Highest position of centre of gravity= 15.96 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.9/2_9.sce #
+ 
+ 
+ W  =
+ 
+    2000.  
+ 
+ l  =
+ 
+    250.  
+ 
+ w  =
+ 
+    30.  
+ 
+ a  =
+ 
+    0.0666667  
+ 
+ W1  =
+ 
+    50.  
+ 
+ h  =
+ 
+    10.  
+ 
+ 
+ BG  =
+ 
+    4.2857143  
+ 
+ 
+distance of the centre of gravity= 4.29 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.10/2_10.sce #
+ 
+ 
+ l  =
+ 
+    91.  
+ 
+ w  =
+ 
+    30.  
+ 
+ h  =
+ 
+    6.  
+ 
+ W  =
+ 
+    40.  
+ 
+ a  =
+ 
+    3.  
+ 
+ cg  =
+ 
+    3.  
+ 
+ d  =
+ 
+    4.  
+ 
+ W1  =
+ 
+    60.  
+ 
+ cg1  =
+ 
+    1.  
+ 
+ 
+ W2  =
+ 
+    252.  
+ 
+ y  =
+ 
+    3.7692308  
+ 
+ BG  =
+ 
+    1.7692308  
+ 
+ BM  =
+ 
+    18.75  
+ 
+ GM  =
+ 
+    16.980769  
+ 
+ dx  =
+ 
+    4.6276069  
+ 
+ 
+maximum distance through which the load can be shifted= 4.6 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH2/EX2.11/2_11.sce #
+ 
+ 
+ W  =
+ 
+    5000.  
+ 
+ I  =
+ 
+    1400000.  
+ 
+ k  =
+ 
+    12.2  
+ 
+ BG  =
+ 
+    6.5  
+ 
+ 
+ BM  =
+ 
+    8.  
+ 
+ GM  =
+ 
+    1.5  
+ 
+ T  =
+ 
+    11.029762  
+ 
+ 
+period of oscialltion= 11.03 sec  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.1/3_1.sce #
+ 
+ 
+ d1  =
+ 
+    1.  
+ 
+ d2  =
+ 
+    6.  
+ 
+ h1  =
+ 
+    5.  
+ 
+ h2  =
+ 
+    15.  
+ 
+ Pa  =
+ 
+    15.  
+ 
+ v1  =
+ 
+    10.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v2  =
+ 
+    40.  
+ 
+ Pb  =
+ 
+    9.2401656  
+ 
+ 
+Pb= 9.24 lbs/in^2  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.2/3_2.sce #
+ 
+ 
+ d1  =
+ 
+    4.  
+ 
+ d2  =
+ 
+    2.  
+ 
+ h1  =
+ 
+    50.  
+ 
+ h2  =
+ 
+    45.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ r  =
+ 
+    4.  
+ 
+ v1  =
+ 
+    4.6332134  
+ 
+ Q  =
+ 
+    58.222677  
+ 
+ 
+discharge through pipe= 58.22 cubic feet per second  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ z1  =
+ 
+    10.  
+ 
+ h1  =
+ 
+    10.  
+ 
+ v1  =
+ 
+    12.  
+ 
+ v2  =
+ 
+    4.  
+ 
+ k  =
+ 
+    0.6  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ p  =
+ 
+    9.2695652  
+ 
+ 
+pressure at bottom end = 9.27 lb/in^2 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.4/3_4.sce #
+ 
+ 
+ d  =
+ 
+    4.  
+ 
+ d1  =
+ 
+    1.25  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    3.  
+ 
+ K  =
+ 
+    1.  
+ 
+ 
+ C  =
+ 
+    9.8954069  
+ 
+ Q  =
+ 
+    17.139347  
+ 
+ V  =
+ 
+    13.966397  
+ 
+ 
+Velocity at the throat= 13.97 ft/sec  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.5/3_5.sce #
+ 
+ 
+ d  =
+ 
+    9.  
+ 
+ d1  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ dh  =
+ 
+    10.  
+ 
+ sg  =
+ 
+    13.6  
+ 
+ K  =
+ 
+    1.  
+ 
+ 
+ C  =
+ 
+    0.6985964  
+ 
+ h  =
+ 
+    10.5  
+ 
+ Q  =
+ 
+    2.2637112  
+ 
+ 
+Discharge passing through the pipe= 2.26 cuses  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.6/3_6.sce #
+ 
+ 
+ sm  =
+ 
+    13.6  
+ 
+ so  =
+ 
+    0.8  
+ 
+ di  =
+ 
+    8.  
+ 
+ dt  =
+ 
+    4.  
+ 
+ K  =
+ 
+    0.98  
+ 
+ v  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ s  =
+ 
+    17.  
+ 
+ dp  =
+ 
+    16.  
+ 
+ A  =
+ 
+    0.3490659  
+ 
+ At  =
+ 
+    0.0872665  
+ 
+ C  =
+ 
+    0.7232770  
+ 
+ Q  =
+ 
+    2.8352459  
+ 
+ 
+Discharge passing through the pipe= 2.84 cuses  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.7/3_7.sce #
+ 
+ 
+ s  =
+ 
+    0.1  
+ 
+ d1  =
+ 
+    6.  
+ 
+ d2  =
+ 
+    2.  
+ 
+ l  =
+ 
+    20.  
+ 
+ p  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    6.  
+ 
+ K  =
+ 
+    0.95  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ H  =
+ 
+    20.29089  
+ 
+ C  =
+ 
+    0.1761683  
+ 
+ Q  =
+ 
+    282.47868  
+ 
+ 
+Discharge passing through the pipe= 282 Gallons/minute  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.8/3_8.sce #
+ 
+ 
+ d1  =
+ 
+    12.  
+ 
+ Q  =
+ 
+    4.25  
+ 
+ h  =
+ 
+    18.  
+ 
+ K  =
+ 
+    0.98  
+ 
+ g  =
+ 
+    32.2  
+ 
+ sm  =
+ 
+    13.6  
+ 
+ 
+ R  =
+ 
+    2.6769457  
+ 
+ d2  =
+ 
+    0.6111956  
+ 
+ dh  =
+ 
+    9.45  
+ 
+ d3  =
+ 
+    3.0794176  
+ 
+ 
+Diameter of the throat= 3.08 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ R  =
+ 
+    4.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ c  =
+ 
+    0.007  
+ 
+ K  =
+ 
+    33.96  
+ 
+ w  =
+ 
+    62.4  
+ 
+ pa  =
+ 
+    12.13  
+ 
+ pb  =
+ 
+    14.7  
+ 
+ w1  =
+ 
+    2.5  
+ 
+ Q  =
+ 
+    40.  
+ 
+ h  =
+ 
+    1.86  
+ 
+ 
+ va  =
+ 
+    19.588301  
+ 
+ vb  =
+ 
+    1.91292  
+ 
+ vx  =
+ 
+    3.82584  
+ 
+ pu  =
+ 
+    729.25162  
+ 
+ pd  =
+ 
+    738.90259  
+ 
+ RP  =
+ 
+    9.4338096  
+ 
+ 
+velocity = 19.6 ft/sec 
+
+ velocity = 1.91 ft/sec 
+
+ velocity = 3.83 ft/sec 
+
+  pressure = 14.7 lbs/in^2 
+
+  upward pressure = 729.3 lbs 
+
+  downward pressure = 738.9 lbs 
+
+ Resultant pressure = 9.4 lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ h  =
+ 
+    4.  
+ 
+ h1  =
+ 
+    3.  
+ 
+ p  =
+ 
+    25.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ h2  =
+ 
+    2.  
+ 
+ w  =
+ 
+    22.698018  
+ 
+ N  =
+ 
+    216.7501  
+ 
+ h3  =
+ 
+    3.5  
+ 
+ w1  =
+ 
+    30.026655  
+ 
+ N1  =
+ 
+    286.73343  
+ 
+ 
+original volume= 286.7 R.P.M  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH3/EX3.12/3_12.sce #
+ 
+ 
+ R2  =
+ 
+    2.  
+ 
+ R1  =
+ 
+    1.  
+ 
+ w  =
+ 
+    200.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v2  =
+ 
+    41.887902  
+ 
+ v1  =
+ 
+    20.943951  
+ 
+ H  =
+ 
+    20.433964  
+ 
+ 
+centrifugal head= 20.4 ft of watrer  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.1/4_1.sce #
+ 
+ 
+ M  =
+ 
+    310.  
+ 
+ P  =
+ 
+    3.6  
+ 
+ t  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    9.  
+ 
+ d  =
+ 
+    1.  
+ 
+ w  =
+ 
+    6.24  
+ 
+ 
+ v  =
+ 
+    22.436129  
+ 
+ V  =
+ 
+    24.074883  
+ 
+ Cv  =
+ 
+    0.9319310  
+ 
+ V1  =
+ 
+    49.161759  
+ 
+ Cd  =
+ 
+    0.6305714  
+ 
+ Cc  =
+ 
+    0.6766289  
+ 
+ Cr  =
+ 
+    0.1514167  
+ 
+ 
+Coefficient of resistance = 0.15  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    1.65  
+ 
+ Q  =
+ 
+    20.  
+ 
+ d  =
+ 
+    1.  
+ 
+ h  =
+ 
+    4.  
+ 
+ t  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q1  =
+ 
+    6.24  
+ 
+ c  =
+ 
+    0.36  
+ 
+ 
+ v  =
+ 
+    15.939  
+ 
+ V  =
+ 
+    16.049922  
+ 
+ Cv  =
+ 
+    0.9730889  
+ 
+ vf  =
+ 
+    32.774506  
+ 
+ Cd  =
+ 
+    0.6102304  
+ 
+ Cc  =
+ 
+    0.9871065  
+ 
+ Cr  =
+ 
+    0.0560754  
+ 
+ 
+velocity of jet = 15.94 ft/sec 
+
+ theatrical velocity of jet = 16.05 ft/sec 
+
+ Cv = 0.97  
+
+ volume flow = 32.77 gallons per minute 
+
+ Cd = 0.61  
+
+ Cc = 0.99  
+
+ Coefficient of resistance = 0.06  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.3/4_3.sce #
+ 
+ 
+ x  =
+ 
+    11.5  
+ 
+ y  =
+ 
+    1.2  
+ 
+ H  =
+ 
+    29.  
+ 
+ q  =
+ 
+    6.24  
+ 
+ d  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    16.  
+ 
+ 
+ Cv  =
+ 
+    0.9747163  
+ 
+ Q1  =
+ 
+    25.47502  
+ 
+ Cd  =
+ 
+    0.6280662  
+ 
+ Cc  =
+ 
+    0.6443580  
+ 
+ Cr  =
+ 
+    0.0525520  
+ 
+ 
+Coefficient of resistance = 0.05  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.4/4_4.sce #
+ 
+ 
+ x  =
+ 
+    3.2  
+ 
+ d  =
+ 
+    8.  
+ 
+ W  =
+ 
+    5.12  
+ 
+ A  =
+ 
+    0.0069444  
+ 
+ H  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    251.5  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ F  =
+ 
+    2.048  
+ 
+ v  =
+ 
+    15.732549  
+ 
+ V  =
+ 
+    16.049922  
+ 
+ Cv  =
+ 
+    0.9802259  
+ 
+ Q1  =
+ 
+    417.29798  
+ 
+ Cd  =
+ 
+    0.6026868  
+ 
+ Cc  =
+ 
+    0.6148449  
+ 
+ 
+Cc = 0.61  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.5/4_5.sce #
+ 
+ 
+ d  =
+ 
+    8.  
+ 
+ 
+ Cd  =
+ 
+    0.8  
+ 
+ 
+Cd = 0.80  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.6/4_6.sce #
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ h  =
+ 
+    6.  
+ 
+ H  =
+ 
+    26.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ R  =
+ 
+    6.  
+ 
+ 
+ v2  =
+ 
+    45.396035  
+ 
+ Q  =
+ 
+    0.9903878  
+ 
+ v3  =
+ 
+    19.65706  
+ 
+ r  =
+ 
+    2.3094011  
+ 
+ d3  =
+ 
+    3.0393427  
+ 
+ v4  =
+ 
+    18.532854  
+ 
+ d4  =
+ 
+    3.1301692  
+ 
+ 
+diameter = 3.13 in 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.5625  
+ 
+ r1  =
+ 
+    0.4375  
+ 
+ h  =
+ 
+    26.  
+ 
+ 
+ r2  =
+ 
+    2.7453083  
+ 
+ H1  =
+ 
+    14.897081  
+ 
+ 
+maximu head of the tank = 14.90 ft of water 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.8/4_8.SCE #
+ 
+ 
+ l  =
+ 
+    30.  
+ 
+ w  =
+ 
+    15.  
+ 
+ A  =
+ 
+    2.  
+ 
+ H1  =
+ 
+    5.  
+ 
+ H2  =
+ 
+    0.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ T  =
+ 
+    202.23806  
+ 
+ 
+Time taken for 5 feet fall = 202.2 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.9/4_9.sce #
+ 
+ 
+ 
+ H1  =
+ 
+    9.  
+ 
+ A  =
+ 
+    2.  
+ 
+ H2  =
+ 
+    4.  
+ 
+ d  =
+ 
+    2.25  
+ 
+ t  =
+ 
+    60.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a  =
+ 
+    0.0351563  
+ 
+ Cd  =
+ 
+    0.945199  
+ 
+ 
+coefficient of dicharge = 0.035  
+ 
+ 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ h1  =
+ 
+    10.  
+ 
+ h2  =
+ 
+    2.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ t  =
+ 
+    12.6  
+ 
+ 
+ A  =
+ 
+    0.7853982  
+ 
+ a  =
+ 
+    0.0069444  
+ 
+ T1  =
+ 
+    60.884321  
+ 
+ T2  =
+ 
+    66.435955  
+ 
+ T  =
+ 
+    127.32028  
+ 
+ 
+Total time = 127.32 sec 
+ 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.11/4_11.sce #
+ 
+ 
+ l  =
+ 
+    600.  
+ 
+ w  =
+ 
+    400.  
+ 
+ s  =
+ 
+    1.  
+ 
+ h  =
+ 
+    20.  
+ 
+ d  =
+ 
+    3.  
+ 
+ dh  =
+ 
+    10.  
+ 
+ Cd  =
+ 
+    0.7  
+ 
+ g  =
+ 
+    32.2  
+ 
+ k  =
+ 
+    240000.  
+ 
+ k1  =
+ 
+    2000.  
+ 
+ k2  =
+ 
+    4.  
+ 
+ 
+ T  =
+ 
+    17834.92  
+ 
+ 
+Time taken for 10 feet fall = 17835 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.12/4_12.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ H1  =
+ 
+    8.  
+ 
+ H2  =
+ 
+    3.  
+ 
+ l  =
+ 
+    90.  
+ 
+ b  =
+ 
+    30.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ A  =
+ 
+    2.  
+ 
+ 
+ T1  =
+ 
+    332.16562  
+ 
+ T2  =
+ 
+    417.95866  
+ 
+ T  =
+ 
+    750.12428  
+ 
+ 
+Time it take to emptify the swimming bath = 750.1 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.13/4_13.sce #
+ 
+ 
+ Cd  =
+ 
+    0.8  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    3.  
+ 
+ x  =
+ 
+    6.  
+ 
+ l  =
+ 
+    25.  
+ 
+ d1  =
+ 
+    8.  
+ 
+ 
+ A  =
+ 
+    0.0490874  
+ 
+ T  =
+ 
+    2094.2039  
+ 
+ 
+Time it take to emptify the boiler = 2100 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.14/4_14.sce #
+ 
+ 
+ l  =
+ 
+    30.  
+ 
+ w  =
+ 
+    10.  
+ 
+ d  =
+ 
+    4.  
+ 
+ h  =
+ 
+    10.  
+ 
+ dh  =
+ 
+    2.  
+ 
+ Cd  =
+ 
+    0.97  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A1  =
+ 
+    225.  
+ 
+ A2  =
+ 
+    75.  
+ 
+ A  =
+ 
+    0.0872665  
+ 
+ T  =
+ 
+    289.49951  
+ 
+ 
+Time it take to reduce the height = 289 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.15/4_15.sce #
+ 
+ 
+ A1  =
+ 
+    1000.  
+ 
+ A2  =
+ 
+    1000.  
+ 
+ a  =
+ 
+    2.  
+ 
+ H1  =
+ 
+    9.  
+ 
+ H2  =
+ 
+    4.  
+ 
+ Cd  =
+ 
+    0.8  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ T  =
+ 
+    77.881998  
+ 
+ 
+Time it take to reduce the height = 77.88 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.16/4_16.sce #
+ 
+ 
+ l  =
+ 
+    70.  
+ 
+ b  =
+ 
+    10.  
+ 
+ Hl  =
+ 
+    10.  
+ 
+ H1  =
+ 
+    6.  
+ 
+ h1  =
+ 
+    4.  
+ 
+ h2  =
+ 
+    2.  
+ 
+ w  =
+ 
+    2.  
+ 
+ h3  =
+ 
+    3.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ t  =
+ 
+    59.351026  
+ 
+ t1  =
+ 
+    76.621845  
+ 
+ 
+Time of filling= 59.35 sec 
+
+ Time of emptying= 76.62 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.17/4_17.sce #
+ 
+ 
+ HL  =
+ 
+    12.5  
+ 
+ H1  =
+ 
+    10.5  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ h  =
+ 
+    4.  
+ 
+ l  =
+ 
+    3.  
+ 
+ n  =
+ 
+    2.  
+ 
+ t  =
+ 
+    5.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a1  =
+ 
+    18.  
+ 
+ A  =
+ 
+    3358.4462  
+ 
+ 
+Area= 3358 sq ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.18/4_18.sce #
+ 
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ l  =
+ 
+    200.  
+ 
+ w  =
+ 
+    25.  
+ 
+ a1  =
+ 
+    5.  
+ 
+ h  =
+ 
+    20.  
+ 
+ 
+ t  =
+ 
+    1607.8864  
+ 
+ 
+tme rquired to fill the lock= 1608 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.19/4_19.sce #
+ 
+ 
+ L  =
+ 
+    150.  
+ 
+ w  =
+ 
+    20.  
+ 
+ t  =
+ 
+    5.  
+ 
+ h  =
+ 
+    5.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ Hl  =
+ 
+    9.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ T  =
+ 
+    12.46112  
+ 
+ 
+Area of sumberged slice= 12.5 sq ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.20/4_20.sce #
+ 
+ 
+ L  =
+ 
+    3.  
+ 
+ H1  =
+ 
+    1.5  
+ 
+ H2  =
+ 
+    0.75  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    709.06397  
+ 
+ 
+Discharge per minute= 709.1 cubic ft per minute 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH4/EX4.21/4_21.sce #
+ 
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ H1  =
+ 
+    6.  
+ 
+ H2  =
+ 
+    3.  
+ 
+ H  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q1  =
+ 
+    37.201269  
+ 
+ Q2  =
+ 
+    79.607614  
+ 
+ Q  =
+ 
+    116.80888  
+ 
+ 
+Total discharge= 117 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.1/5_1.sce #
+ 
+ 
+ L  =
+ 
+    6.  
+ 
+ H  =
+ 
+    15.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    27.813756  
+ 
+ 
+Total Discharge= 27.8 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.2/5_2.sce #
+ 
+ 
+ o  =
+ 
+    90.  
+ 
+ H  =
+ 
+    15.5  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    4.8693281  
+ 
+ 
+Total Discharge= 4.87 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.3/5_3.sce #
+ 
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ L  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    6.  
+ 
+ o  =
+ 
+    90.  
+ 
+ 
+ Q  =
+ 
+    4.6909236  
+ 
+ H1  =
+ 
+    1.2559432  
+ 
+ 
+depth of water= 1.26 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.4/5_4.sce #
+ 
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ L  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    1.  
+ 
+ L1  =
+ 
+    2.  
+ 
+ h  =
+ 
+    0.5  
+ 
+ L2  =
+ 
+    1.  
+ 
+ h1  =
+ 
+    0.25  
+ 
+ 
+ Q  =
+ 
+    9.9509517  
+ 
+ Q1  =
+ 
+    5.5534093  
+ 
+ Q2  =
+ 
+    1.5852367  
+ 
+ Q3  =
+ 
+    17.089598  
+ 
+ 
+Total Discharge= 17.09 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.5/5_5.sce #
+ 
+ 
+ h  =
+ 
+    9.  
+ 
+ l  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ H  =
+ 
+    0.75  
+ 
+ Q  =
+ 
+    0.3145684  
+ 
+ Q1  =
+ 
+    12.977391  
+ 
+ 
+Discharge by francis formula= 12.98 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.6/5_6.sce #
+ 
+ 
+ l  =
+ 
+    24.  
+ 
+ n  =
+ 
+    5.  
+ 
+ h  =
+ 
+    2.  
+ 
+ w  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    4.  
+ 
+ c  =
+ 
+    10.  
+ 
+ 
+ Q  =
+ 
+    169.53592  
+ 
+ 
+Discharge= 169.5 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.7/5_7.sce #
+ 
+ 
+ A  =
+ 
+    25.  
+ 
+ t  =
+ 
+    24.  
+ 
+ p  =
+ 
+    50.  
+ 
+ l  =
+ 
+    3.  
+ 
+ h  =
+ 
+    4.  
+ 
+ 
+ A1  =
+ 
+    6.970D+08  
+ 
+ V  =
+ 
+    1.742D+08  
+ 
+ V1  =
+ 
+    2016.6667  
+ 
+ V2  =
+ 
+    1008.3333  
+ 
+ L  =
+ 
+    38.65035  
+ 
+ 
+length of weir= 38.7 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.8/5_8.sce #
+ 
+ 
+ h  =
+ 
+    4.  
+ 
+ w  =
+ 
+    5.  
+ 
+ l  =
+ 
+    2.  
+ 
+ Q1  =
+ 
+    1008.5  
+ 
+ n  =
+ 
+    8.  
+ 
+ 
+ Q  =
+ 
+    111.888  
+ 
+ n1  =
+ 
+    9.0134778  
+ 
+ L  =
+ 
+    61.067389  
+ 
+ 
+length of weir= 61 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.9/5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    3.33  
+ 
+ l  =
+ 
+    10.  
+ 
+ x  =
+ 
+    2.  
+ 
+ A  =
+ 
+    30.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    90.419158  
+ 
+ V  =
+ 
+    3.0139719  
+ 
+ h  =
+ 
+    0.1410563  
+ 
+ Q1  =
+ 
+    98.168623  
+ 
+ va  =
+ 
+    3.2722874  
+ 
+ ha  =
+ 
+    0.1662712  
+ 
+ Q2  =
+ 
+    99.412964  
+ 
+ 
+ 
+Discharge in franccis formula= 98.17 cusecs 
+
+ Discharge in corrected franccis formula= 99.41 cusecs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.10/5_10.sce #
+ 
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ o  =
+ 
+    90.  
+ 
+ H  =
+ 
+    2.  
+ 
+ A  =
+ 
+    15.2  
+ 
+ 
+ Q  =
+ 
+    14.526731  
+ 
+ va  =
+ 
+    0.955706  
+ 
+ ha  =
+ 
+    0.0141828  
+ 
+ Q1  =
+ 
+    14.785579  
+ 
+ 
+Discharge of stream= 14.8 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.11/5_11.sce #
+ 
+ 
+ va  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    1.25  
+ 
+ l  =
+ 
+    10.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ p  =
+ 
+    60.  
+ 
+ l1  =
+ 
+    90.  
+ 
+ 
+ ha  =
+ 
+    0.2484472  
+ 
+ Q  =
+ 
+    3450.7252  
+ 
+ E  =
+ 
+    310565.27  
+ 
+ HP  =
+ 
+    338.79848  
+ 
+ 
+H.P available= 338.8 H.P 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.12/5_12.sce #
+ 
+ 
+ L  =
+ 
+    8.  
+ 
+ d  =
+ 
+    9.  
+ 
+ h  =
+ 
+    3.  
+ 
+ Cd1  =
+ 
+    0.62  
+ 
+ Cd2  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q1  =
+ 
+    3.3169839  
+ 
+ Q2  =
+ 
+    14.926428  
+ 
+ Q  =
+ 
+    18.243411  
+ 
+ 
+Discharge= 18.24 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.13/5_13.sce #
+ 
+ 
+ L  =
+ 
+    50.  
+ 
+ d  =
+ 
+    2.  
+ 
+ h  =
+ 
+    4.  
+ 
+ Cd1  =
+ 
+    0.58  
+ 
+ Cd2  =
+ 
+    0.8  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ ha  =
+ 
+    0.0621118  
+ 
+ Q1  =
+ 
+    1267.8141  
+ 
+ Q2  =
+ 
+    1293.9243  
+ 
+ Q  =
+ 
+    2561.7383  
+ 
+ 
+Discharge= 2562 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.14/5_14.sce #
+ 
+ 
+ M  =
+ 
+    60.  
+ 
+ k  =
+ 
+    500.  
+ 
+ v  =
+ 
+    8.  
+ 
+ w  =
+ 
+    100.  
+ 
+ h1  =
+ 
+    5.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ x  =
+ 
+    1.95  
+ 
+ 
+ Q  =
+ 
+    7663.0943  
+ 
+ A  =
+ 
+    957.88679  
+ 
+ md  =
+ 
+    9.5788679  
+ 
+ h  =
+ 
+    4.5788679  
+ 
+ ha  =
+ 
+    0.9937888  
+ 
+ H  =
+ 
+    11.381368  
+ 
+ 
+height above the crest of the air = 11.38 ft of water 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH5/EX5.16/5_16.sce #
+ 
+ 
+ H2  =
+ 
+    1.5  
+ 
+ H1  =
+ 
+    1.  
+ 
+ A  =
+ 
+    100.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A1  =
+ 
+    900.  
+ 
+ T  =
+ 
+    106.46522  
+ 
+ 
+time of lowering the surface= 106.5 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.1/6_1.sce #
+ 
+ 
+ R  =
+ 
+    0.5  
+ 
+ v  =
+ 
+    10.  
+ 
+ A  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    15000.  
+ 
+ V  =
+ 
+    20.  
+ 
+ 
+ k  =
+ 
+    0.005  
+ 
+ R  =
+ 
+    64533.333  
+ 
+ HP  =
+ 
+    3441.7778  
+ 
+ 
+Horse power= 3442 HP 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ k  =
+ 
+    0.01  
+ 
+ d  =
+ 
+    6.  
+ 
+ l  =
+ 
+    1000.  
+ 
+ v  =
+ 
+    8.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ f  =
+ 
+    0.0116667  
+ 
+ hf  =
+ 
+    92.753623  
+ 
+ C  =
+ 
+    74.296702  
+ 
+ hf1  =
+ 
+    92.753623  
+ 
+ 
+head lost in friction= 92.75 ft of water 
+
+ head lost in friction= 92.75 ft of water 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.3/6_3.sce #
+ 
+ 
+ d1  =
+ 
+    3.  
+ 
+ d2  =
+ 
+    6.  
+ 
+ v  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v1  =
+ 
+    1.5  
+ 
+ L  =
+ 
+    0.3144410  
+ 
+ 
+Loss due to sudden enlargment= 0.3144  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.4/6_4.sce #
+ 
+ 
+ d1  =
+ 
+    4.  
+ 
+ d2  =
+ 
+    3.  
+ 
+ Q  =
+ 
+    90.  
+ 
+ k  =
+ 
+    0.7  
+ 
+ v  =
+ 
+    6.24  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ V  =
+ 
+    0.2403846  
+ 
+ v1  =
+ 
+    2.7546048  
+ 
+ v2  =
+ 
+    4.8970752  
+ 
+ L  =
+ 
+    61.556882  
+ 
+ 
+Loss hc= 61.6 ft lbs per minute 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.5/6_5.sce #
+ 
+ 
+ d1  =
+ 
+    3.  
+ 
+ d2  =
+ 
+    6.  
+ 
+ sm  =
+ 
+    13.6  
+ 
+ Q  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v1  =
+ 
+    10.185916  
+ 
+ v2  =
+ 
+    2.5464791  
+ 
+ hc  =
+ 
+    0.9062267  
+ 
+ h  =
+ 
+    0.6041512  
+ 
+ h1  =
+ 
+    0.5753821  
+ 
+ 
+difference in level in two limbs of mercury= 0.575 in 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.6/6_6.sce #
+ 
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    60.  
+ 
+ d  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ v  =
+ 
+    10.  
+ 
+ d1  =
+ 
+    3.  
+ 
+ l1  =
+ 
+    20.  
+ 
+ k  =
+ 
+    0.62  
+ 
+ 
+ H  =
+ 
+    14.906832  
+ 
+ v2  =
+ 
+    2.5  
+ 
+ hf  =
+ 
+    4.9689441  
+ 
+ h  =
+ 
+    0.8734472  
+ 
+ h1  =
+ 
+    0.1552795  
+ 
+ h2  =
+ 
+    4.9689441  
+ 
+ h3  =
+ 
+    0.5833080  
+ 
+ dh  =
+ 
+    3.3569094  
+ 
+ 
+Saving in head= 3.36 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.7/6_7.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    3.  
+ 
+ h  =
+ 
+    50.  
+ 
+ w  =
+ 
+    6.24  
+ 
+ r  =
+ 
+    0.5  
+ 
+ r1  =
+ 
+    16.  
+ 
+ r2  =
+ 
+    0.5625  
+ 
+ r3  =
+ 
+    0.25  
+ 
+ r4  =
+ 
+    0.1582031  
+ 
+ r5  =
+ 
+    3.796875  
+ 
+ r6  =
+ 
+    0.3164063  
+ 
+ 
+ v  =
+ 
+    12.214118  
+ 
+ Q  =
+ 
+    224.47494  
+ 
+ 
+discharge in the pipeline= 224.5 gal.min 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.8/6_8.sce #
+ 
+ 
+ 
+ l  =
+ 
+    6000.  
+ 
+ d  =
+ 
+    9.  
+ 
+ s  =
+ 
+    0.01  
+ 
+ h  =
+ 
+    20.  
+ 
+ h1  =
+ 
+    5.  
+ 
+ f  =
+ 
+    0.006  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ L  =
+ 
+    60.  
+ 
+ v  =
+ 
+    5.0156007  
+ 
+ Q  =
+ 
+    2.2158245  
+ 
+ s1  =
+ 
+    0.0125  
+ 
+ 
+Discharge through the pipe= 2.216 cuses 
+
+ slope of hydraulic gradient= 0.0125  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.9/6_9.sce #
+ 
+ 
+ d1  =
+ 
+    24.  
+ 
+ Q  =
+ 
+    10.  
+ 
+ d2  =
+ 
+    18.  
+ 
+ d3  =
+ 
+    12.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ l1  =
+ 
+    100.  
+ 
+ l2  =
+ 
+    600.  
+ 
+ 
+ v1  =
+ 
+    1.7841241  
+ 
+ v2  =
+ 
+    2.3788322  
+ 
+ v3  =
+ 
+    3.5682482  
+ 
+ hf  =
+ 
+    0.9885400  
+ 
+ dh  =
+ 
+    99.01146  
+ 
+ h1  =
+ 
+    1.4059236  
+ 
+ dh1  =
+ 
+    97.605536  
+ 
+ h2  =
+ 
+    3.1633281  
+ 
+ dh2  =
+ 
+    94.442208  
+ 
+ 
+level gradient at D= 94.44 ft 
+ 
+ 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.10/6_10.sce #
+ 
+ 
+ k  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    24.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    15.6  
+ 
+ W  =
+ 
+    62.4  
+ 
+ h  =
+ 
+    12.  
+ 
+ l1  =
+ 
+    100.  
+ 
+ 
+ f  =
+ 
+    0.03  
+ 
+ C  =
+ 
+    46.332134  
+ 
+ L  =
+ 
+    36.  
+ 
+ i  =
+ 
+    0.12  
+ 
+ v  =
+ 
+    1.6380883  
+ 
+ Q  =
+ 
+    0.1340158  
+ 
+ v1  =
+ 
+    0.9457507  
+ 
+ Q1  =
+ 
+    0.0773741  
+ 
+ 
+Discharge quantity of water= 0.077 cubic ft/mt 
+ 
+ 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.11/6_11.sce #
+ 
+ 
+ 
+ p  =
+ 
+    15.6  
+ 
+ la  =
+ 
+    250.  
+ 
+ lb  =
+ 
+    200.  
+ 
+ lc  =
+ 
+    120.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ p1  =
+ 
+    93.6  
+ 
+ l2  =
+ 
+    600.  
+ 
+ l3  =
+ 
+    100.  
+ 
+ l4  =
+ 
+    300.  
+ 
+ ph  =
+ 
+    95.  
+ 
+ 
+ H1  =
+ 
+    286.  
+ 
+ H2  =
+ 
+    341.  
+ 
+ s  =
+ 
+    0.055  
+ 
+ h1  =
+ 
+    5.5  
+ 
+ h2  =
+ 
+    33.  
+ 
+ h3  =
+ 
+    16.5  
+ 
+ H  =
+ 
+    55.  
+ 
+ P  =
+ 
+    41.166667  
+ 
+ 
+pressure head for 95ft= 41.17 lbs/in^2 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.12/6_12.sce #
+ 
+ 
+ Q  =
+ 
+    30.  
+ 
+ C  =
+ 
+    78.  
+ 
+ n  =
+ 
+    100000.  
+ 
+ d  =
+ 
+    3.  
+ 
+ l  =
+ 
+    40.  
+ 
+ 
+ st  =
+ 
+    3000000.  
+ 
+ Q1  =
+ 
+    8.346688  
+ 
+ i  =
+ 
+    0.0025253  
+ 
+ d  =
+ 
+    1.96645  
+ 
+ 
+size of pipe= 1.97 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.13/6_13.sce #
+ 
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    2000.  
+ 
+ d  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    10.  
+ 
+ 
+ v  =
+ 
+    2.0062403  
+ 
+ Q1  =
+ 
+    0.3939244  
+ 
+ 
+Discharge through the pipe= 0.394 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.14/6_14.sce #
+ 
+ 
+ 
+ h  =
+ 
+    10.  
+ 
+ l  =
+ 
+    50.  
+ 
+ d  =
+ 
+    1.  
+ 
+ lm  =
+ 
+    5.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ sm  =
+ 
+    13.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ ps  =
+ 
+    5.6666667  
+ 
+ v  =
+ 
+    6.4837403  
+ 
+ Q  =
+ 
+    0.0353633  
+ 
+ 
+Discharge through the pipe= 0.035 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.15/6_15.sce #
+ 
+ 
+ r  =
+ 
+    34.  
+ 
+ r1  =
+ 
+    4.  
+ 
+ H  =
+ 
+    25.  
+ 
+ x  =
+ 
+    18.  
+ 
+ l  =
+ 
+    2000.  
+ 
+ 
+ l1  =
+ 
+    960.  
+ 
+ 
+l1= 960 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.16/6_16.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ l  =
+ 
+    1000.  
+ 
+ dh  =
+ 
+    40.  
+ 
+ d  =
+ 
+    6.  
+ 
+ h  =
+ 
+    15.  
+ 
+ h1  =
+ 
+    300.  
+ 
+ f  =
+ 
+    0.002  
+ 
+ 
+ v  =
+ 
+    12.132601  
+ 
+ Q  =
+ 
+    2.3822306  
+ 
+ r  =
+ 
+  - 29.4  
+ 
+ 
+pbyw= -29.4 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.17/6_17.sce #
+ 
+ 
+ f  =
+ 
+    0.008  
+ 
+ l  =
+ 
+    2000.  
+ 
+ p1  =
+ 
+    34.  
+ 
+ p2  =
+ 
+    8.  
+ 
+ p3  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    18.  
+ 
+ P  =
+ 
+    140.  
+ 
+ l1  =
+ 
+    9500.  
+ 
+ 
+ v  =
+ 
+    5.6637877  
+ 
+ Q  =
+ 
+    10.008739  
+ 
+ v1  =
+ 
+    6.6452991  
+ 
+ Q1  =
+ 
+    11.743213  
+ 
+ 
+Quantity discharge= 10 cuses 
+
+ Quantity discharge= 11.74 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.19/6_19.sce #
+ 
+ 
+ L  =
+ 
+    20000.  
+ 
+ l1  =
+ 
+    6000.  
+ 
+ d1  =
+ 
+    12.  
+ 
+ l2  =
+ 
+    10000.  
+ 
+ d2  =
+ 
+    9.  
+ 
+ d3  =
+ 
+    6.  
+ 
+ l3  =
+ 
+    4000.  
+ 
+ 
+ D  =
+ 
+    0.6471939  
+ 
+ 
+Diameter of uniform pipe= 0.65 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.20/6_20.sce #
+ 
+ 
+ 
+ L  =
+ 
+    4700.  
+ 
+ l1  =
+ 
+    2500.  
+ 
+ d1  =
+ 
+    15.  
+ 
+ l2  =
+ 
+    1200.  
+ 
+ d2  =
+ 
+    12.  
+ 
+ d3  =
+ 
+    9.  
+ 
+ l3  =
+ 
+    1000.  
+ 
+ H  =
+ 
+    100.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ D  =
+ 
+    0.9450994  
+ 
+ v  =
+ 
+    5.6898753  
+ 
+ Q  =
+ 
+    3.9916052  
+ 
+ 
+Quantity discharged= 3.99 cusecs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.21/6_21.sce #
+ 
+ 
+ v1  =
+ 
+    6.2  
+ 
+ a  =
+ 
+    43.52  
+ 
+ a1  =
+ 
+    105.6  
+ 
+ r  =
+ 
+    0.468  
+ 
+ r1  =
+ 
+    0.87  
+ 
+ d  =
+ 
+    5.  
+ 
+ d1  =
+ 
+    6.  
+ 
+ 
+ v2  =
+ 
+    5.05273  
+ 
+ v3  =
+ 
+    8.4945394  
+ 
+ Q1  =
+ 
+    59.526072  
+ 
+ Q2  =
+ 
+    69.495788  
+ 
+ 
+Quantity discharged= 59.53 cuses 
+
+ Quantity discharged= 69.50 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.22/6_22.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ za  =
+ 
+    150.  
+ 
+ zd  =
+ 
+    80.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ v1  =
+ 
+    5.25  
+ 
+ 
+ p  =
+ 
+    3.4413496  
+ 
+ 
+pressure = 3.441 lbs/in^2 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.23/6_23.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    200.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ L  =
+ 
+    8100.  
+ 
+ d  =
+ 
+    3.  
+ 
+ d1  =
+ 
+    1.  
+ 
+ 
+ vn  =
+ 
+    27.525389  
+ 
+ h  =
+ 
+    11.764706  
+ 
+ 
+height of the jet= 11.76 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.24/6_24.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.25  
+ 
+ d1  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    50.  
+ 
+ f  =
+ 
+    0.1  
+ 
+ L  =
+ 
+    100.  
+ 
+ l  =
+ 
+    775.  
+ 
+ 
+ vn  =
+ 
+    28.372522  
+ 
+ h  =
+ 
+    12.5  
+ 
+ 
+height of the jet= 12.50 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.25/6_25.sce #
+ 
+ 
+ W  =
+ 
+    62.4  
+ 
+ d1  =
+ 
+    0.75  
+ 
+ d2  =
+ 
+    3.  
+ 
+ f  =
+ 
+    0.024  
+ 
+ L  =
+ 
+    5.  
+ 
+ 
+ h  =
+ 
+    142.92804  
+ 
+ 
+height of the jet= 143 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.26/6_26.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    600.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ n  =
+ 
+    1.5  
+ 
+ d  =
+ 
+    0.229  
+ 
+ 
+ vn  =
+ 
+    160.49922  
+ 
+ HP  =
+ 
+    299.99614  
+ 
+ 
+H.P= 299.3 H.P 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.27/6_27.sce #
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ W  =
+ 
+    1100.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ f  =
+ 
+    0.01  
+ 
+ v  =
+ 
+    3.  
+ 
+ W2  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ W1  =
+ 
+    36.756634  
+ 
+ ph  =
+ 
+    2307.6923  
+ 
+ HP  =
+ 
+    154.22364  
+ 
+ e  =
+ 
+    0.9090909  
+ 
+ hf  =
+ 
+    230.76923  
+ 
+ l  =
+ 
+    20641.026  
+ 
+ 
+l= 20641 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.28/6_28.sce #
+ 
+ 
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    10000.  
+ 
+ d  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ W  =
+ 
+    1200.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ hf  =
+ 
+    12.42236  
+ 
+ H  =
+ 
+    37.267081  
+ 
+ H1  =
+ 
+    2769.2308  
+ 
+ v  =
+ 
+    8.620191  
+ 
+ H2  =
+ 
+    1846.1538  
+ 
+ HP  =
+ 
+    354.51659  
+ 
+ dn  =
+ 
+    0.1405853  
+ 
+ 
+size of the nozzle at the end= 0.141 in 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.29/6_29.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    1750000.  
+ 
+ h  =
+ 
+    500.  
+ 
+ f  =
+ 
+    0.0075  
+ 
+ p  =
+ 
+    80.  
+ 
+ l  =
+ 
+    2.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ hf  =
+ 
+    100.  
+ 
+ 
+ r  =
+ 
+    20.328283  
+ 
+ R  =
+ 
+    5.278767  
+ 
+ d  =
+ 
+    3.4269226  
+ 
+ HP  =
+ 
+    3535.3535  
+ 
+ 
+diameter = 3.43 ft 
+
+ maximum horse power = 3535 HP 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.30/6_30.sce #
+ 
+ 
+ hp  =
+ 
+    40.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ d  =
+ 
+    4.  
+ 
+ k  =
+ 
+    0.98  
+ 
+ v  =
+ 
+    2.395  
+ 
+ W  =
+ 
+    120.  
+ 
+ 
+ hv  =
+ 
+    4122.5378  
+ 
+ H  =
+ 
+    1721.3101  
+ 
+ d  =
+ 
+    1.7850395  
+ 
+ 
+diameter = 1.79 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.31/6_31.sce #
+ 
+ 
+ 
+ d  =
+ 
+    50.  
+ 
+ d1  =
+ 
+    6.  
+ 
+ l  =
+ 
+    500.  
+ 
+ H1  =
+ 
+    20.  
+ 
+ f  =
+ 
+    0.0075  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a  =
+ 
+    0.1963495  
+ 
+ T  =
+ 
+    30515.683  
+ 
+ 
+time rquired for the tanks to same level= 30516 sec 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.32/6_32.sce #
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    10000.  
+ 
+ A2  =
+ 
+    5000.  
+ 
+ d  =
+ 
+    6.  
+ 
+ h1  =
+ 
+    18.  
+ 
+ h2  =
+ 
+    15.  
+ 
+ h3  =
+ 
+    5.  
+ 
+ l  =
+ 
+    800.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a  =
+ 
+    0.1963495  
+ 
+ H1  =
+ 
+    9.  
+ 
+ H2  =
+ 
+    0.  
+ 
+ T  =
+ 
+    101542.34  
+ 
+ 
+time rquired water level in the reservoir to reduce= 101542 sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH6/EX6.33/6_33.sce #
+ 
+ 
+ de  =
+ 
+    19.  
+ 
+ di  =
+ 
+    18.  
+ 
+ Q  =
+ 
+    8.84  
+ 
+ k  =
+ 
+    300000.  
+ 
+ E  =
+ 
+    30000000.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ t  =
+ 
+    0.5  
+ 
+ v  =
+ 
+    5.0024167  
+ 
+ k1  =
+ 
+    43200000.  
+ 
+ E1  =
+ 
+    4.320D+09  
+ 
+ r  =
+ 
+    0.75  
+ 
+ 
+ p  =
+ 
+    4874.99  
+ 
+ 
+stress produced in the pipe= 4875 lbs/in^2 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.1/7_1.sce #
+ 
+ 
+ i  =
+ 
+    0.0002222  
+ 
+ w  =
+ 
+    3.  
+ 
+ d  =
+ 
+    3.  
+ 
+ k  =
+ 
+    0.003  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    3.5342917  
+ 
+ P  =
+ 
+    4.712389  
+ 
+ m  =
+ 
+    0.75  
+ 
+ f  =
+ 
+    0.0034  
+ 
+ C  =
+ 
+    137.62695  
+ 
+ V  =
+ 
+    1.7767562  
+ 
+ Q  =
+ 
+    6.2795749  
+ 
+ 
+Discharge= 6.28 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.2/7_2.sce #
+ 
+ 
+ b  =
+ 
+    40.  
+ 
+ d  =
+ 
+    4.  
+ 
+ k  =
+ 
+    0.004  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    500.  
+ 
+ 
+ A  =
+ 
+    160.  
+ 
+ P  =
+ 
+    48.  
+ 
+ m  =
+ 
+    3.3333333  
+ 
+ f  =
+ 
+    0.0041183  
+ 
+ C  =
+ 
+    125.0508  
+ 
+ V  =
+ 
+    3.125  
+ 
+ i  =
+ 
+    0.0001873  
+ 
+ D  =
+ 
+    0.9891958  
+ 
+ 
+fall in feet per mile= 0.99 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.3/7_3.sce #
+ 
+ 
+ b  =
+ 
+    40.  
+ 
+ d  =
+ 
+    4.  
+ 
+ n  =
+ 
+    1.  
+ 
+ k  =
+ 
+    0.005  
+ 
+ i  =
+ 
+    0.0003077  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    176.  
+ 
+ P  =
+ 
+    51.313708  
+ 
+ m  =
+ 
+    3.4298827  
+ 
+ f  =
+ 
+    0.0061662  
+ 
+ C  =
+ 
+    102.19588  
+ 
+ V  =
+ 
+    3.3199486  
+ 
+ Q  =
+ 
+    584.31095  
+ 
+ 
+Discharge= 584 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.4/7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    400.  
+ 
+ V  =
+ 
+    2.  
+ 
+ d  =
+ 
+    3.  
+ 
+ n  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    200.  
+ 
+ w  =
+ 
+    66.666667  
+ 
+ W  =
+ 
+    63.666667  
+ 
+ P  =
+ 
+    72.151948  
+ 
+ m  =
+ 
+    2.7719279  
+ 
+ f  =
+ 
+    0.0146582  
+ 
+ C  =
+ 
+    66.282993  
+ 
+ i  =
+ 
+    0.0003285  
+ 
+ 
+ slope = 0.00033  
+ 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.5/7_5.sce #
+ 
+ 
+ Q  =
+ 
+    600.  
+ 
+ V  =
+ 
+    3.  
+ 
+ n  =
+ 
+    1.  
+ 
+ i  =
+ 
+    0.0003125  
+ 
+ C  =
+ 
+    80.  
+ 
+ d  =
+ 
+    6.  
+ 
+ 
+ A  =
+ 
+    200.  
+ 
+ m  =
+ 
+    4.5  
+ 
+ b  =
+ 
+    27.333333  
+ 
+ 
+width= 27.3 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.6/7_6.sce #
+ 
+ 
+ Q  =
+ 
+    20.  
+ 
+ i  =
+ 
+    50000.  
+ 
+ p  =
+ 
+    10.  
+ 
+ t  =
+ 
+    24.  
+ 
+ T  =
+ 
+    0.25  
+ 
+ a  =
+ 
+    2000.  
+ 
+ 
+ q  =
+ 
+    4.451567  
+ 
+ A  =
+ 
+    1815000.  
+ 
+ Q1  =
+ 
+    21.006944  
+ 
+ Q2  =
+ 
+    25.458511  
+ 
+ 
+total discharge= 25.46 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.7/7_7.sce #
+ 
+ 
+ Q  =
+ 
+    400.  
+ 
+ V  =
+ 
+    8.  
+ 
+ C  =
+ 
+    150.  
+ 
+ 
+ A  =
+ 
+    50.  
+ 
+ d  =
+ 
+    5.  
+ 
+ i  =
+ 
+    0.0011378  
+ 
+ 
+slope 0.0011  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.8/7_8.sce #
+ 
+ 
+ Q  =
+ 
+    100.  
+ 
+ V  =
+ 
+    2.  
+ 
+ n  =
+ 
+    1.5  
+ 
+ k  =
+ 
+    0.006  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    50.  
+ 
+ d  =
+ 
+    4.8730637  
+ 
+ m  =
+ 
+    10.260486  
+ 
+ mb  =
+ 
+    2.95089  
+ 
+ bt  =
+ 
+    17.570081  
+ 
+ m1  =
+ 
+    2.4365319  
+ 
+ f  =
+ 
+    0.0158501  
+ 
+ C  =
+ 
+    63.742251  
+ 
+ i  =
+ 
+    0.0004040  
+ 
+ 
+slope 0.00040  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.9/7_9.sce #
+ 
+ 
+ i  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    4.  
+ 
+ C  =
+ 
+    125.  
+ 
+ k  =
+ 
+    0.95  
+ 
+ o  =
+ 
+    5.372  
+ 
+ 
+ h  =
+ 
+    3.8  
+ 
+ A  =
+ 
+    12.324461  
+ 
+ P  =
+ 
+    10.744  
+ 
+ m  =
+ 
+    1.1471018  
+ 
+ V  =
+ 
+    4.2336113  
+ 
+ Q  =
+ 
+    52.176979  
+ 
+ 
+Discharge= 52.18 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.10/7_10.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.95  
+ 
+ m  =
+ 
+    300.  
+ 
+ V  =
+ 
+    8.  
+ 
+ d  =
+ 
+    6.  
+ 
+ n  =
+ 
+    6.  
+ 
+ s  =
+ 
+    40.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ dh  =
+ 
+    0.11  
+ 
+ 
+ h  =
+ 
+    1.3450292  
+ 
+ h1  =
+ 
+    0.9236646  
+ 
+ 
+afflux upstream= 0.92 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.11/7_11.sce #
+ 
+ 
+ V  =
+ 
+    8.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    10.  
+ 
+ l  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ a  =
+ 
+    1.5687124  
+ 
+ V1  =
+ 
+    6.6666667  
+ 
+ va  =
+ 
+    6.6660333  
+ 
+ v1  =
+ 
+    13.161915  
+ 
+ 
+total head producing velocity= 13.2 ft/sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.13/7_13.sce #
+ 
+ 
+ d  =
+ 
+    8.  
+ 
+ V  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.  
+ 
+ 
+ h  =
+ 
+    4.5  
+ 
+ d2  =
+ 
+    1.1622777  
+ 
+ x  =
+ 
+    3.4415184  
+ 
+ l  =
+ 
+  - 0.7204810 + 0.4896384i  
+ 
+ Lw  =
+ 
+  - 24.73019 + 16.80662i  
+ 
+ 
+height of standing wave= 10.0 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.14/7_14.sce #
+ 
+ 
+ w  =
+ 
+    9.  
+ 
+ wc  =
+ 
+    6.  
+ 
+ d  =
+ 
+    8.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    0.8409915  
+ 
+ V  =
+ 
+    1.681983  
+ 
+ H  =
+ 
+    0.7105963  
+ 
+ Q  =
+ 
+    0.9254711  
+ 
+ 
+Discharge= 0.93 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.15/7_15.sce #
+ 
+ 
+ i  =
+ 
+    0.0001563  
+ 
+ b  =
+ 
+    40.  
+ 
+ d  =
+ 
+    5.  
+ 
+ C  =
+ 
+    140.  
+ 
+ h  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    200.  
+ 
+ P  =
+ 
+    50.  
+ 
+ m  =
+ 
+    4.  
+ 
+ v  =
+ 
+    3.5  
+ 
+ V  =
+ 
+    2.9166667  
+ 
+ Q  =
+ 
+    700.  
+ 
+ x  =
+ 
+    0.8243153  
+ 
+ 
+height of pump= 0.82 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.16/7_16.sce #
+ 
+ 
+ w  =
+ 
+    40.  
+ 
+ h  =
+ 
+    5.  
+ 
+ P  =
+ 
+    50.  
+ 
+ i  =
+ 
+    0.0001563  
+ 
+ h1  =
+ 
+    10.  
+ 
+ H  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ m  =
+ 
+    4.  
+ 
+ v  =
+ 
+    3.5  
+ 
+ v1  =
+ 
+    1.75  
+ 
+ h2  =
+ 
+    6.6666667  
+ 
+ a  =
+ 
+    0.0000234  
+ 
+ s  =
+ 
+    0.1340878  
+ 
+ dh  =
+ 
+    9.8659122  
+ 
+ 
+depth of water= 9.866 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH7/EX7.17/7_17.sce #
+ 
+ 
+ h  =
+ 
+    9.  
+ 
+ h1  =
+ 
+    9.5  
+ 
+ i  =
+ 
+    0.0001563  
+ 
+ h2  =
+ 
+    40.  
+ 
+ h3  =
+ 
+    59.  
+ 
+ h4  =
+ 
+    5.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ m  =
+ 
+    6.440678  
+ 
+ v  =
+ 
+    2.3374926  
+ 
+ a  =
+ 
+    0.0000433  
+ 
+ s  =
+ 
+    0.0001269  
+ 
+ x  =
+ 
+    7878.3755  
+ 
+ 
+distance upstream from the dam= 7878 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.1/8_1.sce #
+ 
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ v  =
+ 
+    36.  
+ 
+ a  =
+ 
+    30.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ P  =
+ 
+    6.8490622  
+ 
+ 
+Total thrust on the plate= 6.85 lb wt 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.2/8_2.sce #
+ 
+ 
+ a  =
+ 
+    180.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ d  =
+ 
+    1.  
+ 
+ H  =
+ 
+    100.  
+ 
+ u  =
+ 
+    0.95  
+ 
+ 
+ v  =
+ 
+    76.23713  
+ 
+ Px  =
+ 
+    122.86245  
+ 
+ 
+force it exerts= 122.9 lb wt 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.3/8_3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    30.  
+ 
+ a  =
+ 
+    90.  
+ 
+ Q  =
+ 
+    62.5  
+ 
+ w  =
+ 
+    62.4  
+ 
+ n  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    12.732395  
+ 
+ P  =
+ 
+    1542.1224  
+ 
+ Px  =
+ 
+    385.53061  
+ 
+ 
+pull on each bolt= 385.5 lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.4/8_4.sce #
+ 
+ 
+ d  =
+ 
+    4.  
+ 
+ v  =
+ 
+    30.  
+ 
+ a  =
+ 
+    22.5  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ P  =
+ 
+    59.386034  
+ 
+ 
+Resultant force tending to move the pipe= 59 lbs 
+ 
+ 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.5/8_5.sce #
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ v1  =
+ 
+    80.  
+ 
+ v2  =
+ 
+    40.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ vr  =
+ 
+    40.  
+ 
+ P  =
+ 
+    152.20138  
+ 
+ 
+normal pressure on the plate when jet strikes= 152.2 lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.6/8_6.sce #
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ v1  =
+ 
+    50.  
+ 
+ v2  =
+ 
+    20.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ vr  =
+ 
+    30.  
+ 
+ P  =
+ 
+    2283.0207  
+ 
+ W  =
+ 
+    45660.415  
+ 
+ KE  =
+ 
+    48.  
+ 
+ 
+Efficiency= 48 per cent 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.7/8_7.sce #
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ v  =
+ 
+    10.  
+ 
+ v1  =
+ 
+    30.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ a  =
+ 
+    180.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    0.0054542  
+ 
+ vr  =
+ 
+    50.  
+ 
+ M  =
+ 
+    17.01696  
+ 
+ Px  =
+ 
+    52.847703  
+ 
+ W  =
+ 
+    1585.4311  
+ 
+ M1  =
+ 
+    27.227136  
+ 
+ Px1  =
+ 
+    84.556324  
+ 
+ W1  =
+ 
+    2536.6897  
+ 
+ 
+total force when there is a single cup= 1585.4 ft lbs 
+
+ total force when there is a series of cups= 2536.7 ft lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.8/8_8.sce #
+ 
+ 
+ v  =
+ 
+    100.  
+ 
+ u  =
+ 
+    40.  
+ 
+ a  =
+ 
+    25.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ vr  =
+ 
+    66.  
+ 
+ a1  =
+ 
+    20.  
+ 
+ a2  =
+ 
+    8.  
+ 
+ r  =
+ 
+    0.14  
+ 
+ 
+ A  =
+ 
+    39.851963  
+ 
+ A1  =
+ 
+    7.9696104  
+ 
+ v1  =
+ 
+    26.755026  
+ 
+ W  =
+ 
+    144.16411  
+ 
+ e  =
+ 
+    92.841686  
+ 
+ 
+inlet blade angle = 39.85 degrees 
+
+ outlet blade angle = 7.97 degrees 
+
+ Work done = 144 ft lbs 
+
+ efficiency = 92.84 ft per cent 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.9/8_9.sce #
+ 
+ 
+ Q  =
+ 
+    60.  
+ 
+ v  =
+ 
+    12.  
+ 
+ A  =
+ 
+    3.  
+ 
+ D  =
+ 
+    64.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ M  =
+ 
+    64.  
+ 
+ 
+ vr  =
+ 
+    20.  
+ 
+ u  =
+ 
+    17.6  
+ 
+ v1  =
+ 
+    2.4  
+ 
+ P  =
+ 
+    286.21118  
+ 
+ 
+propelling force= 286.2 lbs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.10/8_10.sce #
+ 
+ 
+ vr  =
+ 
+    20.  
+ 
+ u  =
+ 
+    9.  
+ 
+ D  =
+ 
+    64.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ p  =
+ 
+    40.  
+ 
+ 
+ u1  =
+ 
+    15.2  
+ 
+ v  =
+ 
+    4.8  
+ 
+ P  =
+ 
+    381.61491  
+ 
+ HP  =
+ 
+    10.546448  
+ 
+ HP1  =
+ 
+    26.366121  
+ 
+ 
+cylinder H.P= 26.37 H.P 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.11/8_11.sce #
+ 
+ 
+ W  =
+ 
+    62.4  
+ 
+ A  =
+ 
+    4.  
+ 
+ P  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ v  =
+ 
+    10.  
+ 
+ 
+ vr  =
+ 
+    17.409932  
+ 
+ Q  =
+ 
+    434.5519  
+ 
+ e  =
+ 
+    72.966252  
+ 
+ 
+quantity of water pumped= 434.6 lbs 
+
+ efficiency= 73.0 per cent 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH8/EX8.12/8_12.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    32.099844  
+ 
+ 
+speed that delivery commence= 32.1 ft/sec 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH9/EX9.1/9_1.sce #
+ 
+ 
+ sg  =
+ 
+    0.7  
+ 
+ v  =
+ 
+    0.05  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ u  =
+ 
+    0.0001044  
+ 
+ v1  =
+ 
+    0.0714286  
+ 
+ d  =
+ 
+    0.1384206  
+ 
+ v  =
+ 
+    0.0007543  
+ 
+ 
+viscocity= 0.000104 slug/t sec  
+
+ kinematic viscocity= 0.0714 cm^2/ sec  
+
+ kinematic viscocity= 0.000754 ft^2/ sec  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH9/EX9.2/9_2.sce #
+ 
+ 
+ d  =
+ 
+    0.5  
+ 
+ V  =
+ 
+    1.  
+ 
+ l  =
+ 
+    200.  
+ 
+ T  =
+ 
+    5.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ i  =
+ 
+    0.1192547  
+ 
+ gf  =
+ 
+    23.850932  
+ 
+ 
+loss of head= 23.9 ft  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH9/EX9.3/9_3.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ T  =
+ 
+    25.  
+ 
+ dp  =
+ 
+    8.  
+ 
+ t  =
+ 
+    0.005  
+ 
+ w  =
+ 
+    3.  
+ 
+ l  =
+ 
+    1.  
+ 
+ 
+ ut  =
+ 
+    0.0000189  
+ 
+ Ql  =
+ 
+    2.066014  
+ 
+ 
+Discharge= 2.066014 gallons per hour  
+ 
+ 
+ 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH9/EX9.4/9_4.sce #
+ 
+ 
+ v  =
+ 
+    1.25  
+ 
+ d  =
+ 
+    3.  
+ 
+ l  =
+ 
+    6.  
+ 
+ t  =
+ 
+    0.002  
+ 
+ w  =
+ 
+    40.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ u  =
+ 
+    0.0026102  
+ 
+ T  =
+ 
+    0.4025323  
+ 
+ hp  =
+ 
+    0.0030657  
+ 
+ 
+Horse-power lost in velocit= 0.0031  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH9/EX9.5/9_5.sce #
+ 
+ 
+ w  =
+ 
+    750.  
+ 
+ t  =
+ 
+    0.02  
+ 
+ r1  =
+ 
+    9.  
+ 
+ r2  =
+ 
+    5.  
+ 
+ u  =
+ 
+    0.003  
+ 
+ 
+ T  =
+ 
+    0.5673596  
+ 
+ 
+horse power required to overcome= 0.6 hp 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.1/10_1.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ x  =
+ 
+    8.  
+ 
+ A  =
+ 
+    16.  
+ 
+ X  =
+ 
+    2.5  
+ 
+ X1  =
+ 
+    0.66  
+ 
+ x1  =
+ 
+    3.834  
+ 
+ x2  =
+ 
+    2.182  
+ 
+ 
+ P  =
+ 
+    7987.2  
+ 
+ y  =
+ 
+    5.3333333  
+ 
+ P1  =
+ 
+    2635.776  
+ 
+ R  =
+ 
+    8410.8667  
+ 
+ m  =
+ 
+    0.33  
+ 
+ X2  =
+ 
+    1.652  
+ 
+ C  =
+ 
+    9.8416667  
+ 
+ Y  =
+ 
+    10.386827  
+ 
+ 
+Water pressure on vertical face = 7987 lbs 
+
+ pressure which acts at the base = 5.33 ft 
+
+ Resultant = 8411 lbs 
+
+ x coordinate of the resultant = 1.652 ft 
+
+ y coordinate of the resultant = 10.387 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.2/10_2.sce #
+ 
+ 
+ s  =
+ 
+    13.6  
+ 
+ h  =
+ 
+    12.  
+ 
+ u  =
+ 
+    0.04  
+ 
+ k  =
+ 
+    1.  
+ 
+ d  =
+ 
+    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ h1  =
+ 
+    12.6  
+ 
+ hf  =
+ 
+    0.504  
+ 
+ hn  =
+ 
+    12.096  
+ 
+ Q  =
+ 
+    529.76581  
+ 
+ 
+discharge through flow= 530 ft G.P.M 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.3/10_3.sce #
+ 
+ 
+ za  =
+ 
+    16.  
+ 
+ h1  =
+ 
+    2.  
+ 
+ h2  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ vc  =
+ 
+    26.615785  
+ 
+ vb  =
+ 
+    6.6539462  
+ 
+ r  =
+ 
+  - 5.6875  
+ 
+ r1  =
+ 
+    28.3125  
+ 
+ 
+pressure head at B= 28.3 ft lb 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.4/10_4.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ a  =
+ 
+    90.  
+ 
+ H1  =
+ 
+    14.  
+ 
+ H2  =
+ 
+    8.  
+ 
+ 
+ Q1  =
+ 
+    3.901219  
+ 
+ Q2  =
+ 
+    1.7690581  
+ 
+ Q  =
+ 
+    2.1321609  
+ 
+ 
+Discharge through notch= 2.13 cuses 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.5/10_5.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ d  =
+ 
+    1.25  
+ 
+ h  =
+ 
+    9.  
+ 
+ 
+ T  =
+ 
+    1333.6453  
+ 
+ 
+time required to lower water level= 1334 secs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.6/10_6.sce #
+ 
+ 
+ 
+ a  =
+ 
+    60.  
+ 
+ d  =
+ 
+    4.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ h  =
+ 
+    5.  
+ 
+ w  =
+ 
+    30.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ H1  =
+ 
+    8.660254  
+ 
+ H2  =
+ 
+    3.660254  
+ 
+ T  =
+ 
+    1213.6779  
+ 
+ 
+time required to lower water level= 1214 secs 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.7/10_7.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    40.  
+ 
+ p2  =
+ 
+    35.  
+ 
+ dh  =
+ 
+    200.  
+ 
+ f  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    32.2  
+ 
+ l  =
+ 
+    2000.  
+ 
+ d  =
+ 
+    1.  
+ 
+ 
+ hf1  =
+ 
+    80.  
+ 
+ hf2  =
+ 
+    70.  
+ 
+ hf3  =
+ 
+    50.  
+ 
+ hft  =
+ 
+    200.  
+ 
+ v1  =
+ 
+    2.5377155  
+ 
+ Q  =
+ 
+    1.9931171  
+ 
+ d2  =
+ 
+    1.5364521  
+ 
+ v3  =
+ 
+    4.5114942  
+ 
+ l3  =
+ 
+    415.2832  
+ 
+ 
+proportion of the quantity folwing in the bypass to the whole pass= 415 ft 
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.8/10_8.sce #
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ l  =
+ 
+    2000.  
+ 
+ f  =
+ 
+    0.038  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    6.  
+ 
+ l1  =
+ 
+    1500.  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ v  =
+ 
+    7.6394373  
+ 
+ hf  =
+ 
+    275.49293  
+ 
+ v1  =
+ 
+    5.7748718  
+ 
+ v3  =
+ 
+    11.549744  
+ 
+ Q1  =
+ 
+    9.0711474  
+ 
+ Q2  =
+ 
+    4.5355737  
+ 
+ r1  =
+ 
+    0.5  
+ 
+ 
+proportion of the quantity folwing in the bypass to the whole pass= 0.5  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.9/10_9.sce #
+ 
+ 
+ f  =
+ 
+    0.01  
+ 
+ d  =
+ 
+    3.  
+ 
+ l  =
+ 
+    22.  
+ 
+ l1  =
+ 
+    20.  
+ 
+ w  =
+ 
+    20.  
+ 
+ h  =
+ 
+    5.  
+ 
+ h1  =
+ 
+    20.  
+ 
+ t  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ h2  =
+ 
+    25.  
+ 
+ h3  =
+ 
+    20.474288  
+ 
+ dh  =
+ 
+    4.5257118  
+ 
+ Q  =
+ 
+    1810.2847  
+ 
+ 
+Quantiy discharged= 1810 cuses  
+ 
+grepthis#Hydraulics_Made_Easy_R._S._Dighe_1484/CH10/EX10.10/10_10.sce #
+ 
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ sct  =
+ 
+    1.6  
+ 
+ sl  =
+ 
+    0.8  
+ 
+ K  =
+ 
+    0.98  
+ 
+ dh1  =
+ 
+    4.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ d1  =
+ 
+    8.  
+ 
+ d2  =
+ 
+    6.  
+ 
+ 
+ dp  =
+ 
+    4.  
+ 
+ C  =
+ 
+    1.9057845  
+ 
+ Q  =
+ 
+    3.7353375  
+ 
+ 
+Discharge passing through the pipe= 3.7 cuses  
+ 
+ 

@@ -1,0 +1,5716 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 171
+
+grepthis#Material_Science_V._Rajendran_1826/CH1/EX1.1/ex1_1.sce #
+ 
+ 
+ 
+ 
+ r  =
+ 
+    0.00045  
+ 
+ L  =
+ 
+    0.3  
+ 
+ rho  =
+ 
+    1.700D-08  
+ 
+ 
+ R  =
+ 
+    0.0080167  
+ 
+The Resistance of the wire is 0.008 ohm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH1/EX1.2/ex1_2.sce #
+ 
+ 
+ 
+ 
+ r  =
+ 
+    0.00125  
+ 
+ L  =
+ 
+    3.  
+ 
+ F  =
+ 
+    4900.  
+ 
+ e  =
+ 
+    2.050D+11  
+ 
+ s  =
+ 
+    0.0048694  
+ 
+strain = 0.005
+Therefore, extension = 0.015 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.2/ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    2.000D-10  
+ 
+ h  =
+ 
+    4.  
+ 
+ k  =
+ 
+    3.  
+ 
+ l  =
+ 
+    0.  
+ 
+ d  =
+ 
+    4.000D-11  
+ 
+The lattice spacing for the plane 430 is 0.4*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.3/ex2_3.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    960.  
+ 
+ awt  =
+ 
+    23.  
+ 
+ n  =
+ 
+    2.  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ m  =
+ 
+    7.637D-26  
+ 
+ a  =
+ 
+    4.301D-10  
+ 
+The lattice constant od sodium is 4.3 A° 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.4/ex2_4.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    4000.  
+ 
+ awtcs  =
+ 
+    132.9  
+ 
+ awtcl  =
+ 
+    35.5  
+ 
+ a  =
+ 
+    4.120D-10  
+ 
+ m  =
+ 
+    2.797D-25  
+ 
+ N  =
+ 
+    6.020D+26  
+ 
+The value of Avogadro Constant 6.0199 *10^26 per kg mole 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.5/ex2_5.sce #
+ 
+ 
+ 
+ lam  =
+ 
+    1.542D-10  
+ 
+ theta  =
+ 
+    30.  
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    2.670D-10  
+ 
+The lattice constant is 2.6705 *10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.6/ex2_6.sce #
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    0.  
+ 
+ l  =
+ 
+    0.  
+ 
+ a  =
+ 
+    2.814D-10  
+ 
+ d  =
+ 
+    2.814D-10  
+ 
+The lattice spacing for the plane(100) is 2.814*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.7/ex2_7.sce #
+ 
+ 
+ 
+ h  =
+ 
+    3.  
+ 
+ k  =
+ 
+    2.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    4.120D-10  
+ 
+ d  =
+ 
+    1.101D-10  
+ 
+The lattice spacing for the plane(321) is 1.1011*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.8/ex2_8.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    0.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    4.200D-10  
+ 
+ d  =
+ 
+    2.970D-10  
+ 
+
+The lattice spacing for the plane(101) is 2.970*10^-10 m 
+ 
+ h  =
+ 
+    2.  
+ 
+ k  =
+ 
+    2.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    4.120D-10  
+ 
+ d  =
+ 
+    1.373D-10  
+ 
+
+The lattice spacing for the plane(220) is 1.4*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.13/ex2_13.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    4.120D-10  
+ 
+ d  =
+ 
+    2.379D-10  
+ 
+
+For (111) plane
+The lattice spacing is 2.379*10^-10 m 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    2.  
+ 
+ a  =
+ 
+    4.120D-10  
+ 
+ d  =
+ 
+    1.682D-10  
+ 
+
+
+For (112) plane
+The lattice spacing is 1.682*10^-10 m 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    2.  
+ 
+ l  =
+ 
+    3.  
+ 
+ a  =
+ 
+    4.120D-10  
+ 
+ d  =
+ 
+    1.101D-10  
+ 
+
+
+For (123) plane
+The lattice spacing is 1.101*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.15/ex2_15.sce #
+ 
+ 
+ 
+ h  =
+ 
+    2.  
+ 
+ k  =
+ 
+    2.  
+ 
+ l  =
+ 
+    0.  
+ 
+ a  =
+ 
+    4.938D-10  
+ 
+ d  =
+ 
+    1.746D-10  
+ 
+
+The lattice spacing for (220) plane is 1.746*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.16/ex2_16.sce #
+ 
+ 
+ 
+ a  =
+ 
+    4.050D-11  
+ 
+ t  =
+ 
+    0.005  
+ 
+ A  =
+ 
+    0.25  
+ 
+ n  =
+ 
+    1.882D+28  
+ 
+The number of atoms in the Al foil is 1.88 * 10^28 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.17/ex2_17.sce #
+ 
+ 
+ 
+ a  =
+ 
+    2.880D-10  
+ 
+ d  =
+ 
+    7200.  
+ 
+ n  =
+ 
+    5.814D+24  
+ 
+The number of unit cell present in 1 kg metal is 5.8142 *10^24 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.18/ex2_18.sce #
+ 
+ 
+ 
+ rbcc  =
+ 
+    1.258D-10  
+ 
+ rfcc  =
+ 
+    1.292D-10  
+ 
+ a  =
+ 
+    2.905D-10  
+ 
+ vbcc  =
+ 
+    1.226D-29  
+ 
+ a1  =
+ 
+    3.654D-10  
+ 
+ vfcc  =
+ 
+    1.220D-29  
+ 
+ vp  =
+ 
+    6.048D-32  
+ 
+ vp  =
+ 
+    6.  
+ 
+ vp  =
+ 
+    0.0048937  
+ 
+The volume change in % duringg the structural change is 0.4894 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.19/ex2_19.sce #
+ 
+ 
+ 
+ awt  =
+ 
+    0.0635  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ r  =
+ 
+    1.273D-10  
+ 
+ n  =
+ 
+    4.  
+ 
+ a  =
+ 
+    3.601D-10  
+ 
+ d  =
+ 
+    9.034428  
+ 
+The density of copper is 9.0344 gm/m^3 
+ 
+ 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.20/ex2_20.sce #
+ 
+ 
+ 
+ d  =
+ 
+    7860.  
+ 
+ m  =
+ 
+    55.85  
+ 
+ n  =
+ 
+    2.  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ a  =
+ 
+    2.868D-11  
+ 
+ r  =
+ 
+    1.242D-11  
+ 
+
+The lattice constant of alfa-iron is 0.2868 A° 
+
+The atomic radius  of alfa-iron is 0.12420 *10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX20.21/ex2_21.sce #
+ 
+ 
+ 
+ d  =
+ 
+    8960.  
+ 
+ m  =
+ 
+    63.54  
+ 
+ n  =
+ 
+    4.  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ a  =
+ 
+    3.611D-11  
+ 
+
+The lattice constant of copper is 0.3611 A° 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.22/ex2_22.sce #
+ 
+ 
+ 
+ a  =
+ 
+    3.810D-10  
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    3.  
+ 
+ l  =
+ 
+    2.  
+ 
+ lam  =
+ 
+    5.800D-11  
+ 
+ n  =
+ 
+    2.  
+ 
+ d  =
+ 
+    1.018D-10  
+ 
+ theta  =
+ 
+    0.6060144  
+ 
+The angle of glancing at which 2nd order diffraction pattern of NaCl occurs is 34.72° 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.23/ex2_23.sce #
+ 
+ 
+ 
+ h  =
+ 
+    3.  
+ 
+ k  =
+ 
+    0.  
+ 
+ l  =
+ 
+    2.  
+ 
+ theta  =
+ 
+    35.  
+ 
+ lam  =
+ 
+    7.000D-11  
+ 
+ n  =
+ 
+    1.  
+ 
+ d  =
+ 
+    6.102D-11  
+ 
+
+The interplanar distance for(302) plane is 6.102*10^-11 m 
+ a  =
+ 
+    2.200D-10  
+ 
+
+The lattice constance is 2.20*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.25/ex2_25.sce #
+ 
+ 
+ 
+ theta  =
+ 
+    12.  
+ 
+ lam  =
+ 
+    2.820D-10  
+ 
+ n  =
+ 
+    1.  
+ 
+ d  =
+ 
+    6.782D-10  
+ 
+The interplanar spacing is 6.782 *10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.26/ex2_26.sce #
+ 
+ 
+ 
+ theta  =
+ 
+    13.75  
+ 
+ a  =
+ 
+    5.630D-10  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ d  =
+ 
+    3.250D-10  
+ 
+
+The lattice spacing for the plane (111) is 3.25 * 10^-10 m 
+ lam  =
+ 
+    1.545D-10  
+ 
+
+The deBroglie wavelength of the neutrons is 1.545 *10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.27/ex2_27.sce #
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    0.  
+ 
+ d  =
+ 
+    2.000D-10  
+ 
+ a  =
+ 
+    2.828D-10  
+ 
+ R  =
+ 
+    1.000D-10  
+ 
+The lattice constant is 2.828*10^-10 m
+The atomic radius of the crystal is 1.0 *10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.28/ex2_28.sce #
+ 
+ 
+ 
+ theta  =
+ 
+    22.  
+ 
+ d  =
+ 
+    1.800D-10  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ lam  =
+ 
+    1.349D-10  
+ 
+ E  =
+ 
+    1.326D-17  
+ 
+
+The deBroglie wavelength of the neutron is 1.349 *10^-10
+the energy of the neutron is 82.90 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.29/ex2_29.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ a  =
+ 
+    3.000D-10  
+ 
+ d  =
+ 
+    1.732D-10  
+ 
+
+The interplanar spacing for the plane(101) is 1.732*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.30/ex2_30.sce #
+ 
+ 
+ 
+ h  =
+ 
+    3.  
+ 
+ k  =
+ 
+    2.  
+ 
+ l  =
+ 
+    1.  
+ 
+ rfcc  =
+ 
+    1.278D-10  
+ 
+ a  =
+ 
+    3.615D-10  
+ 
+ d  =
+ 
+    9.661D-11  
+ 
+
+The lattice constant = 3.615 *106-10
+The interplanar spacing for the plane(321) is 9.661*10^-11 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.31/ex2_31.sce #
+ 
+ 
+ 
+ a  =
+ 
+    4.049D-11  
+ 
+ t  =
+ 
+    0.005  
+ 
+ A  =
+ 
+    0.25  
+ 
+ n  =
+ 
+    1.883D+28  
+ 
+The number of atoms in the Al foil is 1.88 * 10^28 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.32/ex2_32.sce #
+ 
+ 
+ 
+ theta  =
+ 
+    20.  
+ 
+ d  =
+ 
+    2.000D-10  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ lam  =
+ 
+    1.368D-10  
+ 
+ E  =
+ 
+    7.023D-21  
+ 
+
+The deBroglie wavelength of the neutron is 1.368 *10^-10
+the energy of the neutron is 0.0439 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.35/ex2_35.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ ek  =
+ 
+    3.763D-17  
+ 
+ n  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    9.21  
+ 
+ lam  =
+ 
+    8.006D-11  
+ 
+ d  =
+ 
+    2.501D-10  
+ 
+
+The deBroglie wavelength of electron is 8.006 *10^-11 m
+The interplanar spacing is 2.501 *10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.36/ex2_36.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    2.000D-10  
+ 
+ h  =
+ 
+    4.  
+ 
+ k  =
+ 
+    3.  
+ 
+ l  =
+ 
+    0.  
+ 
+ d  =
+ 
+    4.000D-11  
+ 
+The lattice spacing for the plane 430 is 0.4*10^-10 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH2/EX2.38/ex2_38.sce #
+ 
+ 
+ 
+Same as example 2.24 of the same chapter 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH3/EX3.1/ex3_1.sce #
+ 
+ 
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    10000.  
+ 
+ lam_min  =
+ 
+    1.242D-10  
+ 
+ V  =
+ 
+    2.415D+18  
+ 
+
+(i)
+The wavelength of X-rays emitted Lamda_min = 1.24 A°
+(ii)
+The frequency of X-ray beam emitted is 2.4*10^18 Hz 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH3/EX3.2/ex3_2.sce #
+ 
+ 
+ 
+ v  =
+ 
+    10000.  
+ 
+ i  =
+ 
+    0.002  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ t  =
+ 
+    1.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ n  =
+ 
+    1.250D+16  
+ 
+The no of electrons striking the target per second =1.25 *10^16 
+ 
+ v1  =
+ 
+    59299945.  
+ 
+ 
+ lam  =
+ 
+    1.24  
+ 
+
+(ii)
+The velocity of electron =5.93*10^7 m/s
+(iii)
+Wavelength of x-rays=1.24 A° 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH3/EX3.3/ex3_3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    5.653D-10  
+ 
+ theta  =
+ 
+    13.6666  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ lam  =
+ 
+    2.671D-10  
+ 
+
+(i)
+Lambda =2.671*10^-10 m 
+ 
+ n  =
+ 
+    2.  
+ 
+ theta  =
+ 
+    0.4921746  
+ 
+ theta  =
+ 
+    28.199528  
+ 
+
+(ii)
+2nd order Bragg reflection at angle Theta2 = 28.199528° 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH3/EX3.4/ex3_4.sce #
+ 
+ 
+ 
+ v  =
+ 
+    24800.  
+ 
+ n  =
+ 
+    1.  
+ 
+ lam  =
+ 
+    1.540D-10  
+ 
+ ga  =
+ 
+    15.8  
+ 
+ 
+ d  =
+ 
+    2.828D-10  
+ 
+
+(i)
+grating spacinf for NaCl crystal =2.827969 *10^-10 m 
+ 
+ lam_min  =
+ 
+    0.5  
+ 
+ lam_min  =
+ 
+    5.000D-11  
+ 
+ theta  =
+ 
+    0.0885182  
+ 
+ theta  =
+ 
+    5.071721  
+ 
+
+(ii)
+glancing angle for minimum wavelength = 5.071721 degrees 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH3/EX3.5/ex3_5.sce #
+ 
+ 
+ 
+ lam  =
+ 
+    7.078D-11  
+ 
+ wt  =
+ 
+    42.  
+ 
+ wt1  =
+ 
+    48.  
+ 
+ lam1  =
+ 
+    5.386D-11  
+ 
+
+Wavelength of cadmium radiation is 0.5386 A° 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH3/EX3.6/ex3_6.sce #
+ 
+ 
+ 
+ lam  =
+ 
+    1.000D-10  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ m  =
+ 
+    1.675D-27  
+ 
+ e1  =
+ 
+    1.602D-19  
+ 
+ e  =
+ 
+    1.311D-20  
+ 
+ e  =
+ 
+    0.0818080  
+ 
+
+The energy of thermal neutron with wavelength 1A° is 0.081808 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH3/EX3.8/ex3_8.sce #
+ 
+ 
+ 
+ lam  =
+ 
+    0.1  
+ 
+ T  =
+ 
+    633.0256  
+ 
+temperature of thermal neutron corresponding to 1A is 633 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH4/EX4.1/ex4_1.sce #
+ 
+ 
+ 
+ R  =
+ 
+    2.810D-10  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ U  =
+ 
+  - 8.188D-19  
+ 
+The Coulomb interatomic energy is -5.12 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH5/EX5.1/ex5_1.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    3.615D-10  
+ 
+ t_ang  =
+ 
+    0.75  
+ 
+ h  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.  
+ 
+ l  =
+ 
+    0.  
+ 
+ d_110  =
+ 
+    2.556D-10  
+ 
+ D  =
+ 
+    3.906D-08  
+ 
+The average distance between the dislocations is 0.039 A° 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH5/EX5.2/ex5_2.sce #
+ 
+ 
+ 
+ lp  =
+ 
+    4.019D-10  
+ 
+ dens  =
+ 
+    4285.  
+ 
+ avg  =
+ 
+    6.022D+26  
+ 
+ wt_cs  =
+ 
+    132.9  
+ 
+ wt_cl  =
+ 
+    35.5  
+ 
+ N  =
+ 
+    0.9943549  
+ 
+ sd  =
+ 
+    0.5645123  
+ 
+The number of Schottky defects per unit cell = 0.565% 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH6/EX6.1/ex6_1.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.609D-19  
+ 
+ eg  =
+ 
+    1.8  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ E  =
+ 
+    2.896D-19  
+ 
+ lamda  =
+ 
+    0.0000007  
+ 
+The wavelength of light emitted from given LED is 6.863 µm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH6/EX6.2/ex6_2.sce #
+ 
+ 
+ 
+ lam  =
+ 
+    0.0000007  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ Eg  =
+ 
+    2.960D-19  
+ 
+ Eg  =
+ 
+    1.8501489  
+ 
+The band gap of the given GaAsP is 1.85 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.1/ex7_1.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1.730D-08  
+ 
+ z  =
+ 
+    63.5  
+ 
+ d  =
+ 
+    8920.  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ n  =
+ 
+    8.461D+28  
+ 
+ sig  =
+ 
+    57803468.  
+ 
+ tau  =
+ 
+    2.431D-14  
+ 
+ mu  =
+ 
+    0.0042700  
+ 
+ 
+Mobility of electrons in copper is 4.27 *10^-3 m^2/V-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.2/ex7_2.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.850D-10  
+ 
+ t  =
+ 
+    3.000D-14  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ a  =
+ 
+    4.272D-10  
+ 
+ ne  =
+ 
+    2.565D+28  
+ 
+ rho  =
+ 
+    4.625D-08  
+ 
+Resistivity of copper is 4.625*10^-8 Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.3/ex7_3.sce #
+ 
+ 
+ 
+ 
+ r  =
+ 
+    1.850D-10  
+ 
+ t  =
+ 
+    3.100D+14  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    2.533D+28  
+ 
+ rho  =
+ 
+    4.532D-36  
+ 
+The electric Resistivity of sodium at 0°C is 4.532*10^-36 Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.4/ex7_4.sce #
+ 
+ 
+ 
+ 
+ r  =
+ 
+    1.850D-10  
+ 
+ t  =
+ 
+    3.400D-14  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    5.800D+28  
+ 
+ rho  =
+ 
+    1.805D-08  
+ 
+
+The electric resistivity of material is 1.805*10^-8 Ohm-m 
+ mu  =
+ 
+    0.0059715  
+ 
+
+The mobility of the electron in a metal is 5.97*10^-3 m^2/v-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.5/ex7_5.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    1.540D-08  
+ 
+ E  =
+ 
+    100.  
+ 
+ n  =
+ 
+    5.800D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mu  =
+ 
+    0.0069973  
+ 
+ vd  =
+ 
+    0.6997313  
+ 
+
+Mobility of electron in silvetr is 6.9973*10^-3 m^2/v-s
+
+The drift velocity of the electron in silver is 0.69973 m/s  
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.6/ex7_6.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    10500.  
+ 
+ sig  =
+ 
+    68000000.  
+ 
+ wt  =
+ 
+    107.9  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ 
+ n  =
+ 
+    5.861D+28  
+ 
+ mu  =
+ 
+    0.0072512  
+ 
+The mobility of electron is 0.725 *10^-2 m^2.V/s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.7/ex7_7.sce #
+ 
+ 
+ 
+ sig  =
+ 
+    58700000.  
+ 
+ k  =
+ 
+    390.  
+ 
+ T  =
+ 
+    293.  
+ 
+ L  =
+ 
+    2.268D-08  
+ 
+The Lorentz number is 2.268 *10^-8 W.Ohm/K^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.8/ex7_8.sce #
+ 
+ 
+ 
+ 
+ t  =
+ 
+    1.000D-14  
+ 
+ T  =
+ 
+    300.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    6.000D+28  
+ 
+ sig  =
+ 
+    16860593.  
+ 
+
+the electrical conductivity is 1.6861 * 10^7/ohm-m 
+ k  =
+ 
+    1.380D-23  
+ 
+ k1  =
+ 
+    123.79149  
+ 
+
+
+Thermal conductivity is 123.79 W/m-k 
+ L  =
+ 
+    2.447D-08  
+ 
+
+
+the Lorentz number is 2.4474 *10^-8 W.Ohm/k^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.9/ex7_9.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    8900.  
+ 
+ cu  =
+ 
+    63.5  
+ 
+ t  =
+ 
+    1.000D-14  
+ 
+ avg  =
+ 
+    6.023D+23  
+ 
+ n  =
+ 
+    8.442D+28  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ sig  =
+ 
+    23748037.  
+ 
+The electrical conductivity is 2.375 *10^7 /Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.10/ex7_10.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1.600D-08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ fe  =
+ 
+    8.800D-19  
+ 
+ avg  =
+ 
+    6.023D+23  
+ 
+ d  =
+ 
+    10500.  
+ 
+ wt  =
+ 
+    0.1079  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ sig  =
+ 
+    62500000.  
+ 
+ n  =
+ 
+    5.861D+28  
+ 
+ t  =
+ 
+    3.791D-14  
+ 
+
+The conductivity of silver piece is 6.25*10^7 per Ohm-m
+
+The relaxation time is 3.79*10^-14 s 
+ lam  =
+ 
+    0.0000114  
+ 
+ vd  =
+ 
+    0.6664680  
+ 
+
+
+The driftt velocityy of electrons in the silver piece is 0.67 m/s 
+ 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.11/ex7_11.sce #
+ 
+ 
+ 
+ r1  =
+ 
+    1.700D-08  
+ 
+ t2  =
+ 
+    300.  
+ 
+ t1  =
+ 
+    973.  
+ 
+ r2  =
+ 
+    3.062D-08  
+ 
+The resistivityy of the copper wire is 3.0616*10^-8 Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH7/EX7.12/ex7_12.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    1.540D-08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ef  =
+ 
+    8.800D-19  
+ 
+ n  =
+ 
+    5.800D+28  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ 
+ t  =
+ 
+    3.980D-14  
+ 
+ mu  =
+ 
+    0.0069973  
+ 
+
+(i)
+The relaxation time is 3.98*10^-14 s
+The mobility of the electrons is 6.9973 *10^-3 m^2/V-s 
+ 
+ 
+ vd  =
+ 
+    0.6997313  
+ 
+
+
+(ii)
+the drift velocity of elctron is 0.69973 m/s 
+ 
+ 
+ vf  =
+ 
+    1390707.  
+ 
+
+
+(iii)
+Fermi velocity is 1.39*10^6 m/s 
+ 
+ 
+ lam  =
+ 
+    5.535D-08  
+ 
+
+
+(iv)
+The mean free path is 5.535*10^-8 m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.1/ex8_1.sce #
+ 
+ 
+ 
+ d_cu  =
+ 
+    8960.  
+ 
+ a_cu  =
+ 
+    63.55  
+ 
+ d_z  =
+ 
+    7100.  
+ 
+ a_z  =
+ 
+    65.38  
+ 
+ d_al  =
+ 
+    2700.  
+ 
+ a_al  =
+ 
+    27.  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ n_cu  =
+ 
+    8.492D+28  
+ 
+ e_cu  =
+ 
+    1.130D-18  
+ 
+ e_cu  =
+ 
+    7.0615922  
+ 
+
+(i)For Cu
+The electron concentration in Cu is 8.4919*10^28 per m^3
+Fermi energy at 0 k =7.0616 eV  
+ 
+ 
+ n_z  =
+ 
+    1.308D+29  
+ 
+ e_z  =
+ 
+    1.507D-18  
+ 
+ e_z  =
+ 
+    9.4189672  
+ 
+
+(i)For Zn
+The electron concentration in Zn is 13.0815*10^28 per m^3
+Fermi energy at 0 k =9.4190 eV  
+ 
+ 
+ n_al  =
+ 
+    1.807D+29  
+ 
+ e_al  =
+ 
+    1.869D-18  
+ 
+ e_al  =
+ 
+    11.682125  
+ 
+
+(i)For Al
+The electron concentration in Al is 18.0690*10^28 per m^3
+Fermi energy at 0 k =11.6821 eV  
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.2/ex8_2.sce #
+ 
+ 
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    8.491D+28  
+ 
+ 
+ ef  =
+ 
+    1.130D-18  
+ 
+ ef  =
+ 
+    7.0608112  
+ 
+ gam  =
+ 
+    6.820D+27  
+ 
+ x  =
+ 
+    9.061D+27  
+ 
+The density of states for Cu at the Fermi level for T = 0 K is 9*10^27 m^-3 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.3/ex8_3.sce #
+ 
+ 
+ 
+ rni  =
+ 
+    63.  
+ 
+ rcr  =
+ 
+    129.  
+ 
+ k  =
+ 
+    1120.  
+ 
+ c  =
+ 
+    0.000007  
+ 
+The Nordheims coeeficient is 7 *10^-6 Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.4/ex8_4.sce #
+ 
+ 
+ 
+ d  =
+ 
+    2700.  
+ 
+ awt  =
+ 
+    27.  
+ 
+ t  =
+ 
+    1.000D-14  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ n  =
+ 
+    1.807D+29  
+ 
+ sig  =
+ 
+    50831473.  
+ 
+The conductivity of Al is 5.0831*10^7 ohm-m. 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.5/ex8_5.sce #
+ 
+ 
+ 
+ e1  =
+ 
+    0.01  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ed  =
+ 
+    1.600D-21  
+ 
+ T  =
+ 
+    200.  
+ 
+ E  =
+ 
+    0.3589993  
+ 
+The Fermy distribution function for energy E is 0.3590 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.6/ex8_6.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    860000.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ E  =
+ 
+    3.365D-19  
+ 
+ T  =
+ 
+    24385.362  
+ 
+
+The fermi energy is 3.365*10^-19 J
+The Fermi Temperature Tf is 2.44*10^4 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.7/ex8_7.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ dE  =
+ 
+    0.01  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ eF  =
+ 
+    3.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ E1  =
+ 
+    4.800D-19  
+ 
+ E2  =
+ 
+    4.816D-19  
+ 
+ 
+ n  =
+ 
+    1.059D+56  
+ 
+ k  =
+ 
+    3.909D-31  
+ 
+ n  =
+ 
+    4.138D+25  
+ 
+The number of states lying between the energy level is 4.14*10^25 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.8/ex8_8.sce #
+ 
+ 
+ 
+ Tf  =
+ 
+    24600.  
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ vf  =
+ 
+    863302.32  
+ 
+The Fermi Velocity is 0.8633 *10^6 m/s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.9/ex8_9.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.810D+29  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ef  =
+ 
+    1.868D-18  
+ 
+ ef  =
+ 
+    11.674311  
+ 
+The Fermi energy at 0 K is 11.67 eV  
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.10/ex8_10.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.810D+29  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ef  =
+ 
+    1.868D-18  
+ 
+ ef  =
+ 
+    11.674311  
+ 
+The Fermi energy at 0 K is 11.67 eV  
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.11/ex8_11.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ Ed  =
+ 
+    8.000D-20  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ x  =
+ 
+    0.01  
+ 
+ T  =
+ 
+    1261.5779  
+ 
+ 
+Temperature at which there is 1% probability that a state with 0.5 eV energy occupied above the Fermi energy level is 1261.6 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.12/ex8_12.sce #
+ 
+ 
+ 
+Theorotical Exam[ple 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.13/ex8_13.sce #
+ 
+ 
+ 
+Theorotical Exam[ple 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.14/ex8_14.sce #
+ 
+ 
+ 
+ ef  =
+ 
+    2.1  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ T  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ p1  =
+ 
+    0.99  
+ 
+ E1  =
+ 
+    1.9811013  
+ 
+ 
+ 
+ p2  =
+ 
+    0.01  
+ 
+ E2  =
+ 
+    2.2188987  
+ 
+ 
+ 
+ p3  =
+ 
+    0.5  
+ 
+ E3  =
+ 
+    2.1  
+ 
+ 
+
+The energies for the occupying of delectrons at 300 K for the probability of 0.99 is 1.98 
+ 
+
+The energies for the occupying of delectrons at 300 K for the probability of 0.01 is 2.22 
+ 
+
+The energies for the occupying of delectrons at 300 K for the probability of 0.50 is 2.10 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.15/ex8_15.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ed  =
+ 
+    3.200D-21  
+ 
+ T1  =
+ 
+    200.  
+ 
+ T2  =
+ 
+    400.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ fe1  =
+ 
+    0.2387726  
+ 
+ fe2  =
+ 
+    0.3589993  
+ 
+
+The Fermi distribution function for the given energy at 200 K is 0.2388 
+
+The Fermi distribution function for the given energy at 400 K is 0.3590 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.16/ex8_16.sce #
+ 
+ 
+ 
+ d  =
+ 
+    10500.  
+ 
+ avg  =
+ 
+    6.022D+26  
+ 
+ awt  =
+ 
+    107.9  
+ 
+ n  =
+ 
+    5.860D+28  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ef  =
+ 
+    8.807D-19  
+ 
+ ef  =
+ 
+    5.5045008  
+ 
+The Fermi energy for given metal is 5.50 eV  
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.17/ex8_17.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ed  =
+ 
+    3.200D-20  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T2  =
+ 
+    1000.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ fe1  =
+ 
+    0.0004395  
+ 
+ fe2  =
+ 
+    0.0895746  
+ 
+
+The Fermi distribution function for the given energy at 300 K is 0.000439 
+
+The Fermi distribution function for the given energy at 1000 K is 0.0896 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.18/ex8_18.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ef  =
+ 
+    4.800D-19  
+ 
+ k  =
+ 
+    5.838D-38  
+ 
+ k  =
+ 
+    8.223D+18  
+ 
+ n  =
+ 
+    2.358D+28  
+ 
+The number of free electrons concentration in metal is 2.36 *10^28 per cubic meter  
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.19/ex8_19.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ef  =
+ 
+    8.800D-19  
+ 
+ k  =
+ 
+    5.838D-38  
+ 
+ k  =
+ 
+    1.507D+19  
+ 
+ n  =
+ 
+    5.853D+28  
+ 
+The number of free electrons concentration in metal is 5.853 *10^28 per cubic meter  
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH8/EX8.20/ex8_20.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ef  =
+ 
+    1.120D-18  
+ 
+ k  =
+ 
+    5.838D-38  
+ 
+ k  =
+ 
+    1.919D+19  
+ 
+ n  =
+ 
+    8.404D+28  
+ 
+The number of free electrons concentration in metal is 8.40 *10^28 per cubic meter  
+ vth  =
+ 
+    1568929.1  
+ 
+
+The termal velocity of electrons in copper is 1.569 *10^6 m/s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.1/ex10_1.sce #
+ 
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ mue  =
+ 
+    0.4  
+ 
+ muh  =
+ 
+    0.2  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eg  =
+ 
+    1.120D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ me  =
+ 
+    0.55  
+ 
+ mh  =
+ 
+    0.37  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ ni  =
+ 
+    2.884D+70  
+ 
+ ni  =
+ 
+    7.586D+24  
+ 
+ ni  =
+ 
+    1.352D+13  
+ 
+
+The intrinsic concentration ni=1.352 *10^13 /m^3 
+ 
+ sig  =
+ 
+    0.0000013  
+ 
+ rho  =
+ 
+    770418.7  
+ 
+
+Intrinsic Conductivity,Sigma =1.298 *10^-6 per m^3
+Intrinsic Resistivity, rho = 0.77*10^6 Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.2/ex10_2.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    1.450D+10  
+ 
+ nd  =
+ 
+    1.000D+16  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ T  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ Ef  =
+ 
+    5.566D-20  
+ 
+ Ef  =
+ 
+    0.3478621  
+ 
+The Fermi energyy with respect to Ef in intrinsic Si = 0.348 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.3/ex10_3.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ mue  =
+ 
+    0.39  
+ 
+ muh  =
+ 
+    0.19  
+ 
+ l  =
+ 
+    0.01  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ sig  =
+ 
+    2.32  
+ 
+ R  =
+ 
+    4310.3448  
+ 
+The conductivity of intrinsic Ge is 2.32 /ohm-m
+The Resistance is 4310 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.4/ex10_4.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    1.500D+16  
+ 
+ mue  =
+ 
+    0.13  
+ 
+ muh  =
+ 
+    0.05  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ sig  =
+ 
+    0.000432  
+ 
+The conductivity of intrinsic Ge is 4.32 *10^-4 /ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.5/ex10_5.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    2.150D+13  
+ 
+ mue  =
+ 
+    3900.  
+ 
+ muh  =
+ 
+    1900.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ sig  =
+ 
+    0.019952  
+ 
+ r  =
+ 
+    50.120289  
+ 
+ 
+The conductivity of intrinsic Ge is 2.00 *10^-2 /ohm-cm
+ The intrinsic resistivity is 50 Ohm-cm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.6/ex10_6.sce #
+ 
+ 
+ 
+ ni  =
+ 
+    2.100D+19  
+ 
+ mue  =
+ 
+    0.4  
+ 
+ muh  =
+ 
+    0.2  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ p  =
+ 
+    4.500D+23  
+ 
+ sig  =
+ 
+    2.016  
+ 
+ r  =
+ 
+    14400.  
+ 
+ 
+The conductivity of intrinsic Ge is 2.016 *10^-2 /ohm-cm
+The intrinsic resistivity is 1.44 *10^4 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.7/ex10_7.sce #
+ 
+ 
+ 
+ n  =
+ 
+    5.000D+28  
+ 
+ ni  =
+ 
+    1.450D+13  
+ 
+ mue  =
+ 
+    1.35  
+ 
+ muh  =
+ 
+    0.45  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ p  =
+ 
+    4.500D+23  
+ 
+ sig  =
+ 
+    0.0000042  
+ 
+ rho  =
+ 
+    239463.6  
+ 
+ 
+ r  =
+ 
+    2.395D+17  
+ 
+ nd  =
+ 
+    5.000D+19  
+ 
+ p  =
+ 
+    4205000.  
+ 
+ sig2  =
+ 
+    10.8  
+ 
+ 
+
+The intrinsic conductivity is 4.18 *10^-6 /ohm-cm
+
+The intrinsic resistivity is 2.39 *10^-5Ohm-m
+
+Resistance = 2.39*10^7 Ohm
+
+Donar concentration is 5*10^19
+
+Concentration of hole is 4.2*10^6 m^-3
+
+Conductivity = 10.8 per ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.8/ex10_8.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ rho  =
+ 
+    2.12  
+ 
+ mue  =
+ 
+    0.36  
+ 
+ muh  =
+ 
+    0.17  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ sig  =
+ 
+    0.4716981  
+ 
+ ni  =
+ 
+    5.562D+18  
+ 
+
+Conductivity = 0.471698 per Ohm-m
+Intrinsic carrier concentration, ni=5.56248*10^18 
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ Nc  =
+ 
+    2.884D+70  
+ 
+ Nc  =
+ 
+    8.852D+24  
+ 
+ Nv  =
+ 
+    2.884D+70  
+ 
+ Nv  =
+ 
+    5.635D+24  
+ 
+
+Nc=8.852*10^24
+Nv=5.635*10^24 
+ eg  =
+ 
+    1.164D-19  
+ 
+ eg  =
+ 
+    0.7273117  
+ 
+
+The band gap of Ge is 0.727 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.9/ex10_9.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ eg  =
+ 
+    1.120D-19  
+ 
+ T  =
+ 
+    300.  
+ 
+ ni  =
+ 
+    2.504D+25  
+ 
+ ni  =
+ 
+    3.343D+19  
+ 
+The carrier concentration of an intrinsic semiconductor is = 33.43*10^18 per m^3 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.10/ex10_10.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ eg  =
+ 
+    1.760D-19  
+ 
+ mue  =
+ 
+    0.48  
+ 
+ muh  =
+ 
+    0.013  
+ 
+ T  =
+ 
+    300.  
+ 
+ ni  =
+ 
+    2.504D+25  
+ 
+ ni  =
+ 
+    1.470D+16  
+ 
+ 
+ sig  =
+ 
+    0.0011593  
+ 
+
+The carrier concentration of an intrinsic semiconductor is = 1.47*10^16 per m^3
+ the electrical conductiivity od Si is 1.159*10^-3 per Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.11/ex10_11.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eg  =
+ 
+    1.12  
+ 
+ me  =
+ 
+    0.12  
+ 
+ mh  =
+ 
+    0.28  
+ 
+ T  =
+ 
+    300.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ 
+ ef  =
+ 
+    0.56  
+ 
+The Fermi energy of Si at 300 K is 0.560 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.12/ex10_12.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eg  =
+ 
+    1.600D-19  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ m  =
+ 
+    4.  
+ 
+ T  =
+ 
+    1115.1266  
+ 
+Temperature at which Fermi level is shifted 10% is 1115 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.13/ex10_13.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ni  =
+ 
+    2.400D+19  
+ 
+ mue  =
+ 
+    0.39  
+ 
+ muh  =
+ 
+    0.19  
+ 
+ sig  =
+ 
+    2.2272  
+ 
+The conductivity of Ge at 300 K is 2.23 per Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.14/ex10_14.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T2  =
+ 
+    330.  
+ 
+ eg  =
+ 
+    0.3  
+ 
+ eg2  =
+ 
+    0.33  
+ 
+E_c-E_f330=0.33 eV
+
+At 330 K, the Fermi energy level lies 0.33 eV, bellow the conduction band. 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.15/ex10_15.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eg  =
+ 
+    1.152D-19  
+ 
+ t1  =
+ 
+    293.  
+ 
+ t2  =
+ 
+    313.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ sig1  =
+ 
+    2.  
+ 
+ n  =
+ 
+    2.6545686  
+ 
+ sig2  =
+ 
+    5.3091372  
+ 
+The conductivity of Ge at 40°C is 5.309 per Ohm-m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.16/ex10_16.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ mm  =
+ 
+    2.821D-31  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ eg  =
+ 
+    1.760D-19  
+ 
+ T  =
+ 
+    300.  
+ 
+ ni  =
+ 
+    4.322D+24  
+ 
+ ni  =
+ 
+    2.537D+15  
+ 
+The intrinsic concentration of Si at 300 K is 2.5367 * 10^15 electrons per m^3 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.17/ex10_17.sce #
+ 
+ 
+ 
+ hc  =
+ 
+    5.500D-11  
+ 
+ cc  =
+ 
+    59000000.  
+ 
+ T  =
+ 
+    300.  
+ 
+ dm  =
+ 
+    0.003245  
+ 
+The drift mobility is given by mu_d = 3.2 * 10^-3 m^2/V-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.18/ex10_18.sce #
+ 
+ 
+ 
+ 
+ sig  =
+ 
+    59000000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mu  =
+ 
+    0.0032  
+ 
+ d  =
+ 
+    8900.  
+ 
+ avg  =
+ 
+    6.022D+23  
+ 
+ ni  =
+ 
+    1.152D+29  
+ 
+ awt  =
+ 
+    63.5  
+ 
+ n  =
+ 
+    8.440D+28  
+ 
+ k  =
+ 
+    1.3652903  
+ 
+Concentration of free electron in pure Cu is 8.44*10^28
+The average number of electrons contributed per Cu atom is 1.37 i.e. 1 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.19/ex10_19.sce #
+ 
+ 
+ 
+ i  =
+ 
+    0.005  
+ 
+ v  =
+ 
+    1.35  
+ 
+ l  =
+ 
+    0.01  
+ 
+ b  =
+ 
+    0.005  
+ 
+ t  =
+ 
+    0.001  
+ 
+ a  =
+ 
+    0.000005  
+ 
+ vy  =
+ 
+    0.02  
+ 
+ H  =
+ 
+    0.45  
+ 
+ 
+ rho  =
+ 
+    0.135  
+ 
+ Ey  =
+ 
+    20.  
+ 
+ j  =
+ 
+    1000.  
+ 
+ k  =
+ 
+    0.0444444  
+ 
+ Rh  =
+ 
+    0.0523599  
+ 
+ mu  =
+ 
+    0.3878509  
+ 
+The mobility of the Ge sample is 0.39 m^2/V-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.20/ex10_20.sce #
+ 
+ 
+ 
+ I  =
+ 
+    200.  
+ 
+ H  =
+ 
+    1.5  
+ 
+ n  =
+ 
+    8.400D+28  
+ 
+ d  =
+ 
+    0.001  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ v  =
+ 
+    0.0000223  
+ 
+The Hall potential difference appearance between the ship is 22 µv 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.21/ex10_21.sce #
+ 
+ 
+ 
+ rh  =
+ 
+    0.000366  
+ 
+ rho  =
+ 
+    0.00893  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ni  =
+ 
+    1.708D+22  
+ 
+ muh  =
+ 
+    0.0409854  
+ 
+the carrier concentration of Si doped specimen is 1.708 *10^22 m^-3
+ The mobility of Si doped specimen is 0.04099 m^2/V-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.22/ex10_22.sce #
+ 
+ 
+ 
+ Rh  =
+ 
+    3.660D-11  
+ 
+ sig  =
+ 
+    1.120D+09  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    2.012D+29  
+ 
+ mu  =
+ 
+    0.0347951  
+ 
+
+The concentration of electrons is 2*10^29 m^-3
+the electron mobility at room temperature = 0.035 m^2/V-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.23/ex10_23.sce #
+ 
+ 
+ 
+ I  =
+ 
+    50.  
+ 
+ B  =
+ 
+    1.5  
+ 
+ t  =
+ 
+    0.005  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ d  =
+ 
+    0.02  
+ 
+ N  =
+ 
+    8.400D+28  
+ 
+ v  =
+ 
+    0.0000003  
+ 
+The Hall voltage is 2.79 *10^-7 V 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.24/ex10_24.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1.540D-08  
+ 
+ ni  =
+ 
+    5.800D+28  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ tau  =
+ 
+    3.980D-14  
+ 
+The relaxation time of electrons in metal is 3.98*10^-14 s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.25/ex10_25.sce #
+ 
+ 
+ 
+ sig  =
+ 
+    62200000.  
+ 
+ n  =
+ 
+    5.900D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mu  =
+ 
+    0.0065890  
+ 
+The mobility of electrons in Si is 6.59*10^-3 m^2/V-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.26/ex10_26.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    0.1  
+ 
+ ni  =
+ 
+    1.000D+20  
+ 
+ vd  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mu  =
+ 
+    0.625  
+ 
+ E  =
+ 
+    1.6  
+ 
+
+The mobility of the electrons in material is 0.625 m^2/V-s
+The electric field is 1.6 V/m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.27/ex10_27.sce #
+ 
+ 
+ 
+ sig  =
+ 
+    62200000.  
+ 
+ n  =
+ 
+    5.900D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mu  =
+ 
+    0.0065890  
+ 
+The mobility of electrons in silver is 6.59*10^-3 m^2/V-s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.28/ex10_28.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    0.1  
+ 
+ ni  =
+ 
+    1.000D+20  
+ 
+ vd  =
+ 
+    1.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mu  =
+ 
+    0.625  
+ 
+ E  =
+ 
+    1.6  
+ 
+
+The mobility of the electrons in material is 0.625 m^2/V-s
+The electric field is 1.6 V/m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.29/ex10_29.sce #
+ 
+ 
+ 
+ 
+ avg  =
+ 
+    6.023D+23  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ d  =
+ 
+    8920.  
+ 
+ rho  =
+ 
+    1.730D-08  
+ 
+ z  =
+ 
+    63.5  
+ 
+ 
+ n  =
+ 
+    8.461D+25  
+ 
+ sig  =
+ 
+    57803468.  
+ 
+ tau  =
+ 
+    2.429D-11  
+ 
+ mu  =
+ 
+    4.2700201  
+ 
+
+The relaxation time is 2.43 *10^-11 s
+The mobility of electrons in copper is 4.27 m^2/V-s
+The conductivity of coppper is 5.78 * 10^7 per Ohm-m
+ 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.30/ex10_30.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1.540D-08  
+ 
+ E  =
+ 
+    100.  
+ 
+ ni  =
+ 
+    5.800D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mu  =
+ 
+    0.0069973  
+ 
+ vd  =
+ 
+    0.6997313  
+ 
+The mobility of electrons in silver is 6.9973*10^-3 m^2/V-s
+The drift velocity id 0.69973 m/s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.31/ex10_31.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1.430D-08  
+ 
+ ni  =
+ 
+    6.500D+28  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ tau  =
+ 
+    3.824D-14  
+ 
+The relaxation time for electrons in the metal is 3.82 *10^-14 s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.32/ex10_32.sce #
+ 
+ 
+ 
+ 
+ R  =
+ 
+    60.  
+ 
+ rho  =
+ 
+    2.700D-08  
+ 
+ i  =
+ 
+    15.  
+ 
+ l  =
+ 
+    5.  
+ 
+ m  =
+ 
+    3.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ d  =
+ 
+    2700.  
+ 
+ awt  =
+ 
+    26.98  
+ 
+ avg  =
+ 
+    6.023D+23  
+ 
+ n  =
+ 
+    1.808D+29  
+ 
+Free electron concentration is 1.808 * 10^29 
+ mu  =
+ 
+    0.0012801  
+ 
+
+The mobility of electron in aluminium is 1.2801*10^-3 m^2/v-s 
+ vd  =
+ 
+    0.0002304  
+ 
+
+The drift velocity of the electron in Al is 2.3*10^-4 m/s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH10/EX10.33/ex10_33.sce #
+ 
+ 
+ 
+ R  =
+ 
+    0.02  
+ 
+ i  =
+ 
+    15.  
+ 
+ mu  =
+ 
+    0.0043  
+ 
+ l  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ T  =
+ 
+    300.  
+ 
+ v  =
+ 
+    0.3  
+ 
+ E  =
+ 
+    0.15  
+ 
+ vd  =
+ 
+    0.000645  
+ 
+ vth  =
+ 
+    116826.16  
+ 
+
+The thermal velocity of the free electrons in copper is 1.168 mm/s
+The drift velocity of electrons in copper is 0.645 mm/s 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH11/EX11.1/ex11_1.sce #
+ 
+ 
+ 
+ 
+ ld  =
+ 
+    2000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ r  =
+ 
+    0.005  
+ 
+ force  =
+ 
+    19600.  
+ 
+ stress  =
+ 
+    2.496D+08  
+ 
+The stress produce in an aluminium alloy is 249.6 MPa 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH11/EX11.2/ex11_2.sce #
+ 
+ 
+ 
+ lf  =
+ 
+    0.05375  
+ 
+ l0  =
+ 
+    0.05  
+ 
+ df  =
+ 
+    0.0094  
+ 
+ d0  =
+ 
+    0.0088  
+ 
+ pl  =
+ 
+    7.5  
+ 
+ pa  =
+ 
+    12.358533  
+ 
+
+The % elongation is 7.5% and 
+the % reduction in area is 12.359% 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH11/EX11.3/ex11_3.sce #
+ 
+ 
+ 
+ ts  =
+ 
+    937.  
+ 
+ bhn  =
+ 
+    271.5942  
+ 
+The Brinell Hardness Number is 271.59 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH11/EX11.4/ex11_4.sce #
+ 
+ 
+ 
+ p  =
+ 
+    3000.  
+ 
+ D  =
+ 
+    10.  
+ 
+ d  =
+ 
+    2.2  
+ 
+ Hb  =
+ 
+    779.53034  
+ 
+
+Brinell Hardness Number of steel Plate, Hb=779.5
+ 
+ ts  =
+ 
+    2689.3797  
+ 
+ fl  =
+ 
+    1344.6898  
+ 
+
+The Tensile strength of steel plate is 2689.380 MPa
+ 
+
+The Fatigue limit of steel plate is 1344.6898 MPa 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.1/ex12_1.sce #
+ 
+ 
+ 
+ 
+ alfe  =
+ 
+    0.0000088  
+ 
+ lo  =
+ 
+    0.1  
+ 
+ delT  =
+ 
+    973.  
+ 
+ delL  =
+ 
+    0.0008562  
+ 
+The change in length produced by heating is 0.856 mm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.2/ex12_2.sce #
+ 
+ 
+ 
+ 
+ alfe  =
+ 
+    0.0000053  
+ 
+ lo  =
+ 
+    0.1  
+ 
+ delT  =
+ 
+    973.  
+ 
+ delL  =
+ 
+    0.0005157  
+ 
+The change in length produced by heating is 0.516 mm 
+ 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.3/ex12_3.sce #
+ 
+ 
+ 
+ k  =
+ 
+    371.  
+ 
+ delT  =
+ 
+    50.  
+ 
+ delx  =
+ 
+    0.01  
+ 
+ ht  =
+ 
+    1855000.  
+ 
+The steady state heat transfer of 10 mm copper sheet is 1.855 *10^6 J.m^-2.s^-1 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.4/ex12_4.sce #
+ 
+ 
+ 
+ alfe  =
+ 
+    0.0000088  
+ 
+ t1  =
+ 
+    1300.  
+ 
+ t2  =
+ 
+    327.  
+ 
+ delT  =
+ 
+    973.  
+ 
+ E  =
+ 
+    370.  
+ 
+ ep  =
+ 
+    0.0085624  
+ 
+ sig  =
+ 
+    3.168088  
+ 
+
+The unconstrained thermal expansion produced by the heating is 8.5624 *10^-3 
+
+the compression stress produced by heating is 3.168 GPa 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.5/ex12_5.sce #
+ 
+ 
+ 
+ 
+ K  =
+ 
+    120.  
+ 
+ t2  =
+ 
+    423.  
+ 
+ t1  =
+ 
+    323.  
+ 
+ delT  =
+ 
+    100.  
+ 
+ delx  =
+ 
+    0.0075  
+ 
+ A  =
+ 
+    0.5  
+ 
+ Q  =
+ 
+    800000.  
+ 
+ hph  =
+ 
+    2.880D+09  
+ 
+The heat flux transmitted through a sheet per hour is 2.88 *10^9 J.h^-1 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.6/ex12_6.sce #
+ 
+ 
+ 
+ 
+ alfe  =
+ 
+    0.000017  
+ 
+ t2  =
+ 
+    293.  
+ 
+ t1  =
+ 
+    233.  
+ 
+ delT  =
+ 
+    60.  
+ 
+ st  =
+ 
+    119.  
+ 
+ k  =
+ 
+    0.00102  
+ 
+
+The strain produced in te rod is 1.02 * 10^-3 
+ E  =
+ 
+    1.167D+11  
+ 
+
+The Youngs Modulus of the rod is 116.7 GPa 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.7/ex12_7.sce #
+ 
+ 
+ 
+ 
+ lo  =
+ 
+    11.6  
+ 
+ delx  =
+ 
+    0.0054  
+ 
+ alfL  =
+ 
+    0.000012  
+ 
+ delT  =
+ 
+    38.793103  
+ 
+The maximum temperature cange can withstand without any thermal stress is 38.79 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.8/ex12_8.sce #
+ 
+ 
+ 
+ 
+ lo  =
+ 
+    0.35  
+ 
+ alfe  =
+ 
+    0.0000236  
+ 
+ t2  =
+ 
+    358.  
+ 
+ t1  =
+ 
+    288.  
+ 
+ delT  =
+ 
+    70.  
+ 
+ ym  =
+ 
+    69.  
+ 
+ k  =
+ 
+    0.001652  
+ 
+
+The strain produced in te rod is 1.652 * 10^-3 
+ E  =
+ 
+    1.140D+08  
+ 
+
+The compressive stress produced in Al rod is 0.114 GPa 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.9/ex12_9.sce #
+ 
+ 
+ 
+ alfe  =
+ 
+    0.00002  
+ 
+ t1  =
+ 
+    293.  
+ 
+ sig  =
+ 
+    172.  
+ 
+ E  =
+ 
+    100.  
+ 
+ delT  =
+ 
+    86.  
+ 
+
+Tf-Ti=86 
+
+
+the maximum temperature at which the rod may be heated without
+exceeding a compresssive stress of 172 MPa is 379 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH12/EX12.10/ex12_10.sce #
+ 
+ 
+ 
+ h_ir  =
+ 
+    444.  
+ 
+ h_gr  =
+ 
+    711.  
+ 
+ h_pl  =
+ 
+    1880.  
+ 
+ t2  =
+ 
+    373.  
+ 
+ t1  =
+ 
+    300.  
+ 
+ delT  =
+ 
+    73.  
+ 
+ W  =
+ 
+    2.  
+ 
+ 
+ 
+ q  =
+ 
+    64824.  
+ 
+ 
+ 
+ q1  =
+ 
+    103806.  
+ 
+ 
+ 
+ q2  =
+ 
+    274480.  
+ 
+ 
+The heat energy required to raise temperature 73 K from its temperature of 
+iron, graphite and polypropylene is 64824,103806,274480 J respectively 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH14/EX14.1/ex14_1.sce #
+ 
+ 
+ 
+ eb  =
+ 
+    10000.  
+ 
+ k  =
+ 
+    0.00012  
+ 
+ b  =
+ 
+    0.151  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ rc  =
+ 
+    0.0000007  
+ 
+The penetration depth of the electron is 0.6998 µm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH14/EX14.2/ex14_2.sce #
+ 
+ 
+ 
+ ed  =
+ 
+    0.4  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ kT  =
+ 
+    0.025  
+ 
+ q  =
+ 
+    1.000D+08  
+ 
+ r  =
+ 
+    11.253517  
+ 
+The escape rate per unit time = 11.3 per sec
+ Therefore, the luminescent lifetime is nearly 11 sec 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH15/EX15.1/ex15_1.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eg  =
+ 
+    1.8  
+ 
+ E  =
+ 
+    2.880D-19  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ lam  =
+ 
+    0.0000007  
+ 
+The wavelenth of light emitted from given LED is 0.6902 µm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH15/EX15.2/ex15_2.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ lam  =
+ 
+    0.0000007  
+ 
+ E  =
+ 
+    2.944D-19  
+ 
+ E  =
+ 
+    1.8402829  
+ 
+The band gap of the given GaAsP is 1.8 eV 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH16/EX16.1/ex16_1.sce #
+ 
+ 
+ 
+ 
+ lam  =
+ 
+    0.0000004  
+ 
+ A  =
+ 
+    0.000004  
+ 
+ in  =
+ 
+    200.  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ N  =
+ 
+    1.610D+15  
+ 
+The number of pairs generated per second is 16.098 * 10^14 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH16/EX16.2/ex16_2.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eg  =
+ 
+    1.43  
+ 
+ E  =
+ 
+    2.288D-19  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ lam  =
+ 
+    0.0000009  
+ 
+The wavelength of emitted radiation is 0.87 µm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.1/ex18_1.sce #
+ 
+ 
+ 
+ atom  =
+ 
+    4.  
+ 
+ kci  =
+ 
+    6.290D-10  
+ 
+ alfk  =
+ 
+    1.264D-40  
+ 
+ alfCl  =
+ 
+    3.408D-40  
+ 
+ eps0  =
+ 
+    8.854D-12  
+ 
+ pol  =
+ 
+    4.672D-40  
+ 
+ N  =
+ 
+    1.607D+28  
+ 
+ epsr  =
+ 
+    1.8481475  
+ 
+
+The electronic polarisability for KCL = 4.672 *10^-40 F m^2
+ 
+
+The no of Dipoles per m^3 = 1.607 * 10^28 atoms m^-3
+ 
+
+The dielectric constant of KCL is 1.848 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.2/ex18_2.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.200D-10  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ alf  =
+ 
+    1.923D-40  
+ 
+The electronic polarisability of an isolated Se is 1.9226 * 10^-40 F m^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.3/ex18_3.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    2.69  
+ 
+ er  =
+ 
+    4.94  
+ 
+ alfi_by_alfe  =
+ 
+    0.5755163  
+ 
+The ratio of the electronic to ionic polariability is 1.7376 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.4/ex18_4.sce #
+ 
+ 
+ 
+ N  =
+ 
+    2.700D+25  
+ 
+ alfe  =
+ 
+    3.500D-41  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ epsr  =
+ 
+    1.0001067  
+ 
+The dielectric constant of Ne gas is 1.00010674 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.5/ex18_5.sce #
+ 
+ 
+ 
+ 
+ eps  =
+ 
+    8.850D-12  
+ 
+ epsr  =
+ 
+    6.  
+ 
+ A  =
+ 
+    0.0005  
+ 
+ d  =
+ 
+    0.0015  
+ 
+ v  =
+ 
+    100.  
+ 
+ Q  =
+ 
+    1.770D-09  
+ 
+The charge on the capacitor is 1.77 * 10^-9 C 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.6/ex18_6.sce #
+ 
+ 
+ 
+ N  =
+ 
+    2.700D+25  
+ 
+ d  =
+ 
+    3.840D-10  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ alfe  =
+ 
+    6.300D-39  
+ 
+ epsr  =
+ 
+    1.0193356  
+ 
+The dielectric constant of Ar  is 1.01933559 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.7/ex18_7.sce #
+ 
+ 
+ 
+ c  =
+ 
+    0.000002  
+ 
+ epsr  =
+ 
+    80.  
+ 
+ v  =
+ 
+    1000.  
+ 
+ E1  =
+ 
+    1.  
+ 
+ c0  =
+ 
+    2.500D-08  
+ 
+ E2  =
+ 
+    0.0125  
+ 
+ E  =
+ 
+    0.9875  
+ 
+
+The Energy stored in capacitor =1 J 
+
+The energy stored in polarising the capacitor = 0.9875 J 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.8/ex18_8.sce #
+ 
+ 
+ 
+ N  =
+ 
+    5.000D+28  
+ 
+ alfe  =
+ 
+    2.000D-40  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ P  =
+ 
+    1.000D-11  
+ 
+ E_ratio  =
+ 
+    1.6037918  
+ 
+The ratio of the internal field to the applied field = 1.6038 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.9/ex18_9.sce #
+ 
+ 
+ 
+ E  =
+ 
+    1000.  
+ 
+ P  =
+ 
+    4.300D-08  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ epsr  =
+ 
+    5.856562  
+ 
+The relative permittivity of NaCl is 5.86 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.10/ex18_10.sce #
+ 
+ 
+ 
+ 
+ epsr  =
+ 
+    1.0024  
+ 
+ N  =
+ 
+    2.700D+25  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ alfe  =
+ 
+    7.870D-40  
+ 
+The polarisability of argon atom is 7.9 * 10^-40 F m^2 
+ 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.11/ex18_11.sce #
+ 
+ 
+ 
+ 
+ epsr  =
+ 
+    1.0000684  
+ 
+ N  =
+ 
+    2.700D+25  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ alfe  =
+ 
+    2.243D-41  
+ 
+The electronic polarisability of He atom at NTP is 2.243 * 10^-41 F m^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.12/ex18_12.sce #
+ 
+ 
+ 
+ epsr  =
+ 
+    12.  
+ 
+ N  =
+ 
+    5.000D+28  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ alfe  =
+ 
+    1.948D-39  
+ 
+The electronic polarisability of given element is 1.948 * 10^-39 F m^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.13/ex18_13.sce #
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.000002  
+ 
+ v  =
+ 
+    1000.  
+ 
+ epsr  =
+ 
+    100.  
+ 
+ E  =
+ 
+    1.  
+ 
+ c0  =
+ 
+    2.000D-08  
+ 
+ e2  =
+ 
+    0.01  
+ 
+ E1  =
+ 
+    0.99  
+ 
+The energy stored in dielectric is 0.99 J 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.14/ex18_14.sce #
+ 
+ 
+ 
+ epsr  =
+ 
+    4.94  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ d  =
+ 
+    2070.  
+ 
+ w  =
+ 
+    32.07  
+ 
+ N  =
+ 
+    3.888D+28  
+ 
+ alfe  =
+ 
+    3.879D-40  
+ 
+The electronic polarisability of sulphur is 3.878942 * 10^-40 F.m^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.15/ex18_15.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.000645  
+ 
+ d  =
+ 
+    0.002  
+ 
+ epsr  =
+ 
+    6.  
+ 
+ v  =
+ 
+    10.  
+ 
+ eps  =
+ 
+    8.850D-12  
+ 
+ c  =
+ 
+    1.712D-11  
+ 
+Capaccitance of Capacitor = 17.125 pF 
+ q  =
+ 
+    1.712D-10  
+ 
+ E  =
+ 
+    5000.  
+ 
+ p  =
+ 
+    0.0000002  
+ 
+
+charge stored on the plate is 17.125 *10^-11 C 
+
+Polarisation produce in the plate is 2.212 *10^-7 Cm^-2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.16/ex18_16.sce #
+ 
+ 
+ 
+ E  =
+ 
+    600000.  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ epsr  =
+ 
+    6.  
+ 
+ p  =
+ 
+    0.0000266  
+ 
+Polarisation produced in NaCl is 2.656 *10^-5 C.m^-2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.17/ex18_17.sce #
+ 
+ 
+ 
+ E  =
+ 
+    1000.  
+ 
+ p  =
+ 
+    4.300D-08  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ epsr  =
+ 
+    5.856562  
+ 
+Relative permitivity of NaCl is 5.86 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.18/ex18_18.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    0.005  
+ 
+ epsr  =
+ 
+    4.  
+ 
+ Q  =
+ 
+    3.000D-10  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ c  =
+ 
+    7.083D-12  
+ 
+ v  =
+ 
+    42.353738  
+ 
+ E  =
+ 
+    8470.7477  
+ 
+The voltage across capacitor is 42.35 V
+The electric field strength is 8470.75 V/m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.19/ex18_19.sce #
+ 
+ 
+ 
+ epsr  =
+ 
+    1.0000684  
+ 
+ N  =
+ 
+    2.700D+25  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ alfe  =
+ 
+    2.243D-41  
+ 
+The electronic polarisability of He atoms at NTP is 2.243 *10^-41 F.m^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.20/ex18_20.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.003  
+ 
+ d  =
+ 
+    0.001  
+ 
+ epsr  =
+ 
+    3.5  
+ 
+ Q  =
+ 
+    2.000D-08  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ c  =
+ 
+    9.297D-11  
+ 
+ E  =
+ 
+    215130.1  
+ 
+The capacitance of capacitor is 92.97 pF
+The electric field strength is 215.13*10^3 V/m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.21/ex18_21.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.000754  
+ 
+ d  =
+ 
+    0.00245  
+ 
+ epsr  =
+ 
+    6.  
+ 
+ v  =
+ 
+    10.  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ c  =
+ 
+    1.635D-11  
+ 
+
+The capacitance of the capacitor is 16.349 pF 
+ Q  =
+ 
+    1.635D-10  
+ 
+ E  =
+ 
+    4081.6327  
+ 
+ p  =
+ 
+    0.0000002  
+ 
+ D  =
+ 
+    0.0000002  
+ 
+
+Charge stored on capacitor = 16.349 *10^-11 C
+E=4.08*10^3 V/m
+Polarisation=1.807*10^-7 Cm^-2
+dielectric displacement = 2.168*10^-7 cm 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.22/ex18_22.sce #
+ 
+ 
+ 
+ E  =
+ 
+    500.  
+ 
+ epsr  =
+ 
+    6.  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ p  =
+ 
+    2.213D-08  
+ 
+The polarisation produced in NaCl is 2.213 * 10^-8 C.m^-2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.23/ex18_23.sce #
+ 
+ 
+ 
+ 
+ E  =
+ 
+    500.  
+ 
+ epsr  =
+ 
+    15.  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ p  =
+ 
+    6.198D-08  
+ 
+The polarisation produced in NaCl is 6.198 * 10^-8 C.m^-2 
+ 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.24/ex18_24.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.00065  
+ 
+ d  =
+ 
+    0.004  
+ 
+ epsr  =
+ 
+    3.5  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ q  =
+ 
+    2.000D-10  
+ 
+ v  =
+ 
+    39.716326  
+ 
+The voltage across capacitor is 39.72 V 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.25/ex18_25.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.0005  
+ 
+ d  =
+ 
+    0.0015  
+ 
+ epsr  =
+ 
+    6.  
+ 
+ v  =
+ 
+    100.  
+ 
+ eps  =
+ 
+    8.854D-12  
+ 
+ q  =
+ 
+    1.771D-09  
+ 
+The charge on the capacitor is 1.77 *10^-9 C 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH18/EX18.26/ex18_26.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    2080.  
+ 
+ wt  =
+ 
+    32.  
+ 
+ ep  =
+ 
+    3.280D-40  
+ 
+ eps  =
+ 
+    8.854D-15  
+ 
+ k  =
+ 
+    790.60312  
+ 
+ epsr  =
+ 
+    12.326648  
+ 
+The dielectric constant of the given material is 12.327 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.1/ex19_1.sce #
+ 
+ 
+ 
+ M  =
+ 
+    2300.  
+ 
+ B  =
+ 
+    0.00314  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ H  =
+ 
+    198.73261  
+ 
+ mur  =
+ 
+    12.57334  
+ 
+The magnetic force H is 198.7326 A/m and the relative permeability mu_r is 12.57334 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.2/ex19_2.sce #
+ 
+ 
+ 
+ H  =
+ 
+    10000.  
+ 
+ sus  =
+ 
+    0.0037  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ M  =
+ 
+    37.  
+ 
+ B  =
+ 
+    0.0126129  
+ 
+The magnetisation in the material is 37 A/m and flux density in the material is 1.26 * 10^-2 Wb.m^-2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.3/ex19_3.sce #
+ 
+ 
+ 
+ H  =
+ 
+    10000.  
+ 
+ sus  =
+ 
+  - 0.000008  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ M  =
+ 
+  - 0.08  
+ 
+ B  =
+ 
+    0.0125663  
+ 
+The flux density in the material is 1.26 * 10^-2 Wb.m^-2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.4/ex19_4.sce #
+ 
+ 
+ 
+ 
+ H  =
+ 
+    1800.  
+ 
+ fi  =
+ 
+    0.00003  
+ 
+ A  =
+ 
+    0.00002  
+ 
+ 
+ B  =
+ 
+    1.5  
+ 
+ mu  =
+ 
+    0.0008333  
+ 
+
+The magnetic flux is 1.5 Wb/m^2
+The permeability is 8.333*10^-4 H/m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.5/ex19_5.sce #
+ 
+ 
+ 
+ 
+ B  =
+ 
+    0.65  
+ 
+ r  =
+ 
+    8906.  
+ 
+ M  =
+ 
+    58.7  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ k  =
+ 
+    9.270D-24  
+ 
+ N  =
+ 
+    9.138D+28  
+ 
+ mu_m  =
+ 
+    5.660D-24  
+ 
+ mu_m  =
+ 
+    0.6106134  
+ 
+ 
+The magnetic moment of nickel atom is 0.61 Bohr magneton 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.6/ex19_6.sce #
+ 
+ 
+ 
+ a  =
+ 
+    2.500D-10  
+ 
+ M  =
+ 
+    1800000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    1.280D+29  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ ma  =
+ 
+    1.406D-23  
+ 
+ beta1  =
+ 
+    9.269D-24  
+ 
+The average magnetisation contributed per atom = 1.517 Bohr Magneton 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.7/ex19_7.sce #
+ 
+ 
+ 
+ 
+ mu  =
+ 
+    9.400D-24  
+ 
+ H  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ T  =
+ 
+    3.9308213  
+ 
+The temperature of the system T is 3.9 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.8/ex19_8.sce #
+ 
+ 
+ 
+ ba  =
+ 
+    7.1  
+ 
+ aw  =
+ 
+    1800000.  
+ 
+ d  =
+ 
+    7800.  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ M  =
+ 
+    157.26  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ k  =
+ 
+    9.270D-24  
+ 
+ N  =
+ 
+    2.987D+28  
+ 
+ mm  =
+ 
+    1966198.1  
+ 
+ B  =
+ 
+    2.4707974  
+ 
+
+The saturation magnetic field of Gd atom is 2.470797 Wb/m^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.9/ex19_9.sce #
+ 
+ 
+ 
+ bet  =
+ 
+    9.270D-24  
+ 
+ V  =
+ 
+    8.390D-10  
+ 
+ M  =
+ 
+    502277.62  
+ 
+The saturation magnetisation is 5.023 *10^5 A/m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.10/ex19_10.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    8900.  
+ 
+ wt  =
+ 
+    58.71  
+ 
+ avg  =
+ 
+    6.022D+26  
+ 
+ bet  =
+ 
+    9.270D-24  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ mm  =
+ 
+    5.562D-24  
+ 
+ N  =
+ 
+    9.129D+28  
+ 
+ ms  =
+ 
+    507749.68  
+ 
+ bs  =
+ 
+    0.6380571  
+ 
+
+The saturation magnetisation is 5.077 *10^5 A/m
+The saturation flux density is 0.638 Wb/m^2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.11/ex19_11.sce #
+ 
+ 
+ 
+ awt  =
+ 
+    157.25  
+ 
+ an  =
+ 
+    64.  
+ 
+ d  =
+ 
+    7860.  
+ 
+ k  =
+ 
+    9.270D-24  
+ 
+ avg  =
+ 
+    6.023D+26  
+ 
+ N  =
+ 
+    2232618.3  
+ 
+The saturation magnetisation of gadolinium is 2.23*10^6 A/m 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH19/EX19.12/ex19_12.sce #
+ 
+ 
+ 
+ H  =
+ 
+    1000.  
+ 
+ sus  =
+ 
+  - 0.000003  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ M  =
+ 
+  - 0.003  
+ 
+ B  =
+ 
+    0.0012566  
+ 
+The magnetic flux density inside the material is 1.257 T or Wb.m^-2 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH20/EX20.2/ex20_2.sce #
+ 
+ 
+ 
+ h0  =
+ 
+    0.0306  
+ 
+ t1  =
+ 
+    2.  
+ 
+ t2  =
+ 
+    3.7  
+ 
+ he  =
+ 
+    0.0216592  
+ 
+The critical field at 2 K is 0.02166 T 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH20/EX20.3/ex20_3.sce #
+ 
+ 
+ 
+ 
+ t1  =
+ 
+    4.2  
+ 
+ t2  =
+ 
+    7.18  
+ 
+ h0  =
+ 
+    65000.  
+ 
+ he  =
+ 
+    42758.552  
+ 
+ r  =
+ 
+    0.0005  
+ 
+ I  =
+ 
+    134.32995  
+ 
+The critical current through a wire of lead is 134.33 A 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH20/EX20.4/ex20_4.sce #
+ 
+ 
+ 
+ 
+ tc1  =
+ 
+    4.185  
+ 
+ m1  =
+ 
+    199.5  
+ 
+ m2  =
+ 
+    203.4  
+ 
+ tc2  =
+ 
+    4.1446841  
+ 
+The critical temperature for metal with isotopic mass of 203.4 is 4.145 K 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH23/EX23.1/ex23_1.sce #
+ 
+ 
+ 
+ p_wt  =
+ 
+    500.  
+ 
+ s_req  =
+ 
+    0.3720930  
+ 
+Therefore, sulphur required for 500 *10^3 kg of final  rubber product = 186 * 10^-3 kg 
+ 
+grepthis#Material_Science_V._Rajendran_1826/CH23/EX23.2/ex23_2.sce #
+ 
+ 
+ 
+ E  =
+ 
+    370000.  
+ 
+ lam  =
+ 
+    0.0000003  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ E1  =
+ 
+    6.212D-19  
+ 
+ Ec  =
+ 
+    6.146D-19  
+ 
+
+E=6.21*10^-19 J 
+
+The Energy of c-c Bond = 6.1 * 10^-19 
+
+
+The UV light photon energy is sufficient to break a C-C bond.
+Therefore, the polymer deteriorates under the influence of UV light 
+ 

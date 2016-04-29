@@ -1,0 +1,64 @@
+ERROR: Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.7/8_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a1 = sqrt(gam*R*T1);
+                !--error 4 
+Undefined variable: R
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH8/EX8.7/8_7.sce',-1)
+ 
+ERROR: Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.7/9_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mn_1 = M1*sin(b);
+                !--error 4 
+Undefined variable: b
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH9/EX9.7/9_7.sce',-1)
+ 
+ERROR: Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH19/EX19.3/19_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rho_star = p_star/R/T_star;
+             !--error 4 
+Undefined variable: p_star
+at line      22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Aerodynamics_J._D._Anderson_Jr._494/CH19/EX19.3/19_3.sce',-1)
+ 

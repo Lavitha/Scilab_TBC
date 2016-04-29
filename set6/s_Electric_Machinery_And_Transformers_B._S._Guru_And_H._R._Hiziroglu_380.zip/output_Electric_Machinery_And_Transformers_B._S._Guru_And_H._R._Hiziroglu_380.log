@@ -1,0 +1,3065 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 79
+
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH1/EX1.1/ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ load resistance (in ohms)=   
+ 
+    12.  
+ 
+ 
+ 
+ 
+ max power (in watts)=   
+ 
+    102.08333  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH1/EX1.3/ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of capacitance (in Farad) is=   
+ 
+    0.0001085  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH1/EX1.4/ex1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_na_mag (in Amperes)=   
+ 
+    4.9998533  
+ 
+ 
+ I_na_phase (in Degrees)=   
+ 
+    53.130102  
+ 
+ 
+ I_nb_mag (in Amperes)=   
+ 
+    4.9998533  
+ 
+ 
+ I_nb_phase (in Degrees)=   
+ 
+  - 66.869898  
+ 
+ 
+ I_nc_mag (in Amperes)=   
+ 
+    4.9998533  
+ 
+ 
+ I_nc_phase (in Degrees)=   
+ 
+    173.1301  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_AB_mag (in Amperes)=   
+ 
+    2.8866667  
+ 
+ 
+ I_AB_phase (in Degrees)=   
+ 
+    83.130102  
+ 
+ 
+ I_BC_mag (in Amperes)=   
+ 
+    2.8866667  
+ 
+ 
+ I_BC_phase (in Degrees)=   
+ 
+  - 36.869898  
+ 
+ 
+ I_CA_mag (in Amperes)=   
+ 
+    2.8866667  
+ 
+ 
+ I_CA_phase (in Degrees)=   
+ 
+  - 156.8699  
+ 
+ 
+ 
+ 
+ Power dissipated (in Watts)=   
+ 
+    4424.7404  
+ 
+ 
+ 
+ Power dissipated by transmission line (in Watts)=   
+ 
+    74.9956  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH1/EX1.6/ex1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reading of ammeter (in Amperes)=   
+ 
+    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Reading of voltmeter (in Volts)=   
+ 
+    72.  
+ 
+ 
+ 
+ Reading of wattmeter (in Watts)=   
+ 
+    129.6  
+ 
+ 
+ 
+ power factor=   
+ 
+    0.6  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH1/EX1.7/ex1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reading of wattmeter W1 (in Watts) =   
+ 
+    2679.616  
+ 
+ 
+ 
+ Reading of wattmeter W2 (in Watts)=   
+ 
+    1640.3852  
+ 
+ 
+ 
+ Total power developed (in Watts)=   
+ 
+    4320.0012  
+ 
+ 
+ 
+ power factor=   
+ 
+    0.9230769  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Induced emf (in volts)=   
+ 
+    16.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH2/EX2.6/2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ magnetic flux density (in Tesla)=   
+ 
+    0.7164681  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH2/EX2.10/2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ percentage (%)=   
+ 
+    40.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH2/EX2.11/2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mutual inductance (in henry)=   
+ 
+    0.34  
+ 
+ 
+ 
+ 
+ inductance of coil-1 (in henry)=   
+ 
+    0.1  
+ 
+ 
+ 
+ inductance of coil-2 (in henry)=   
+ 
+    1.6  
+ 
+ 
+ 
+ coefficient of coupling=   
+ 
+    0.85  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH2/EX2.12/2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ effective inductance in parallel aiding  (in mili-Henry)=   
+ 
+    43.529412  
+ 
+ 
+ 
+ 
+ effective inductance in parallel opposing  (in mini-Henry)=   
+ 
+    18.655462  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH2/EX2.13/2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ frequency (in hertz)=   
+ 
+    25.    25.    60.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P_h=k_h*f.*B_m^n//hysteresis loss
+                 !       
+at line      17 of exec file called by :    
+._Hiziroglu_380/CH2/EX2.13/2_13.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ P_h  =
+ 
+    0.3285714    0.6671783    0.7885714  
+ 
+ 
+ Hysteresis loss (in Watts)=   
+ 
+    0.3285714    0.6671783    0.7885714  
+ 
+P_eddy=k_e*(f^2).*B_m^2//eddy current loss
+                !       
+at line       3 of exec file called by :    
+._Hiziroglu_380/CH2/EX2.13/2_13.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+P_eddy=k_e*(f^2).*B_m^2//eddy current loss
+                        !       
+at line       1 of exec file called by :    
+._Hiziroglu_380/CH2/EX2.13/2_13.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ P_eddy  =
+ 
+    0.0714286    0.1328217    0.4114286  
+ 
+ 
+ eddy current loss (in Watts)=   
+ 
+    0.0714286    0.1328217    0.4114286  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH2/EX2.14/2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ minimum length of magnet (in centimeter)=   
+ 
+    1.5252349  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mass of object (in grams)=   
+ 
+    3.6052768  
+ 
+ 
+ 
+ energy stored in the feild (in micro-joules)=   
+ 
+    176.83883  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy stored in magnetic feild (in Joules)=   
+ 
+    0.6479184  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.4/EX3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ 
+ 
+ 
+ 
+ current in the coil (in Amperes)=   
+ 
+    14.283518  
+ 
+ 
+ 
+ 
+ energy stored in the magnetic feild  (in mili-Joules)=   
+ 
+    8.5083452  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ 
+ 
+ 
+ 
+ current in the coil (in Amperes)=   
+ 
+    0.5946971  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) frequency of induced emf (in Hertz)=   
+ 
+    60.  
+ 
+ 
+ 
+ 
+ 
+ (b) max value of induced emf in coil (in Volts)=   
+ 
+    169.646  
+ 
+ 
+ 
+ (c) rms value of induced emf (in Volts)=   
+ 
+    119.95784  
+ 
+ 
+ 
+ (d) average value of induced emf (in Volts)=   
+ 
+    108.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ synchronous speed (in rpm)=   
+ 
+    1500.  
+ 
+ 
+ 
+ 
+ percent slip of the motor(%)=   
+ 
+    20.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rotor speed(in rad/sec)=   
+ 
+    376.99112  
+ 
+ 
+ 
+ 
+ average torque developed by motor (in Newton-meter)=   
+ 
+    25.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ restraining force of the spring(in Newton)=   
+ 
+    350.6901  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) a-ratio=   
+ 
+    0.2  
+ 
+ 
+ 
+ (b) current in primary (in Amperes)=   
+ 
+    20.  
+ 
+ 
+ 
+ (c) voltage on secondary side (in Volts)=   
+ 
+    1200.  
+ 
+ 
+ 
+ (d) power supplied to the load (in Watts)=   
+ 
+    3840.  
+ 
+ 
+ 
+ (e) flux in the core (in mili-Weber)=   
+ 
+    7.2072072  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency (%)=   
+ 
+    97.075738  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency (%)=   
+ 
+    95.450395  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency (%)=   
+ 
+    90.598696  
+ 
+ 
+ 
+ voltage regulation (%)=   
+ 
+    5.6278842  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) KVA rating at max efficiency =   
+ 
+    84.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) max efficiency (%)=   
+ 
+    94.002448  
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Efficiency at full load (%)=   
+ 
+    93.641407  
+ 
+ 
+ 
+ (d) equivalent core resistance (in ohms)=   
+ 
+    2686.8805  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Generator Voltage (in Volts)=   
+ 
+    301.88985  
+ 
+ 
+ Phase of generated voltage (in degree)=   
+ 
+    11.082542  
+ 
+ 
+ 
+ (b) Generator current (in Amperes)=   
+ 
+    0.0020716  
+ 
+ 
+ Phase of generator current (in degree)=   
+ 
+  - 30.843794  
+ 
+ 
+ 
+ 
+ 
+ (c) Efficiency (%)=   
+ 
+    85.612246  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refer to fig:4.31a   
+ 
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    240.  
+ 
+ 
+ (c) ratio of transformation=   
+ 
+    11.  
+ 
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    26.4  
+ 
+ 
+ Refer to fig:4.31b   
+ 
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    240.  
+ 
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ 
+ (c) ratio of transformation=   
+ 
+    0.0909091  
+ 
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    26.4  
+ 
+ 
+ Refer to fig:4.31c   
+ 
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    2400.  
+ 
+ 
+ (c) ratio of transformation=   
+ 
+    1.1  
+ 
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    264.  
+ 
+ 
+ Refer to fig:4.31d   
+ 
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    2400.  
+ 
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ 
+ (c) ratio of transformation=   
+ 
+    0.9090909  
+ 
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    264.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency (%)=   
+ 
+    80.293414  
+ 
+ 
+ 
+ 
+ Voltage regulation (%)=   
+ 
+    1.2578083  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.13/Ex4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line current in secondary side (in Amperes)=   
+ 
+    86.6  
+ 
+ 
+ phase angle of induced line current in secondary (in Degree)=   
+ 
+  - 36.869898  
+ 
+ 
+ Line current in primary side (in Amperes)=   
+ 
+    100.67653  
+ 
+ 
+ phase angle of induced line current in primary (in Degree) =   
+ 
+  - 6.8821937  
+ 
+ 
+ Line voltage induced  in secondary side (in Volts)=   
+ 
+    251.40194  
+ 
+ 
+ phase angle of induced line voltage in secondary (in Degree)=   
+ 
+    30.91961  
+ 
+ 
+ 
+ 
+ Line voltage induced  in primary side (in Volts)=   
+ 
+    229.77546  
+ 
+ 
+ phase angle of induced line voltage  in primary (in Degree)=   
+ 
+    61.979867  
+ 
+ 
+ 
+ 
+ 
+ Efficiency (%)=   
+ 
+    92.308106  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line current (in Amperes)=   
+ 
+    64.  
+ 
+ 
+ 
+ Line voltage (in Volts)=   
+ 
+    11000.  
+ 
+ 
+ 
+ Power on the transmission line (in Watts)=   
+ 
+    563200.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ coil pitch for 2-pole winding (electrical)=   
+ 
+    180.  
+ 
+ 
+ 
+ 
+ 
+ 
+ coil pitch for 4-pole winding(electrical)=   
+ 
+    144.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) induced emf in armature winding  (in Volts)=   
+ 
+    1266.2784  
+ 
+ 
+ 
+ (b) induced emf per coil  (in Volts)=   
+ 
+    105.5232  
+ 
+ 
+ 
+ (c) induced emf per turn  (in Volts)=   
+ 
+    5.8624  
+ 
+ 
+ 
+ (d) induced emf per conductor  (in Volts)=   
+ 
+    2.9312  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) current in each conductor (in Amperes)=   
+ 
+    12.5  
+ 
+ 
+ 
+ (b) torque developed by machine (in Newton-meter)=   
+ 
+    171.8875  
+ 
+ 
+ 
+ (c) Power developed (in Watts)=   
+ 
+    31490.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) induced emf at full load (in Volts)=   
+ 
+    250.  
+ 
+ 
+ 
+ (b) power developed (in watts)=   
+ 
+    250000.  
+ 
+ 
+ 
+ 
+ (c) torque developed (in Newton-meter)=   
+ 
+    3978.8736  
+ 
+ 
+ 
+ 
+ (d) Applied torque (in Newton-meter)=   
+ 
+    4138.0285  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (e) efficiency (%)=   
+ 
+    92.180058  
+ 
+ 
+ 
+ 
+ (f) external resistance in feild winding (in ohms)=   
+ 
+    10.  
+ 
+ 
+ 
+ (g) voltage regulation (%)=   
+ 
+    10.833333  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R_fx (in ohms)=   
+ 
+    18.571429  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Terminal voltage (in Volts)=   
+ 
+    142.406  
+ 
+ 
+ 
+ 
+ 
+ (b) Voltage Regulation (%)=   
+ 
+    19.376993  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Efficiency (%)=   
+ 
+    79.215166  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  voltage between far end of feeder and bus bar  (in Volts)=   
+ 
+    270.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Max efficiency of generator  (%)=   
+ 
+    82.357607  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) armature current at rated load (in Amperes)=   
+ 
+    50.  
+ 
+ 
+ 
+ (b) Efficiency at full load (%)=   
+ 
+    67.818182  
+ 
+ 
+ 
+ (c) no. of turns per pole=   
+ 
+    3.  
+ 
+ 
+ 
+ 
+ 
+ (d) new speed of motor (in rpm)=   
+ 
+    2711.  
+ 
+ 
+ 
+ driving torque (in Newton-meter)=   
+ 
+    11.939102  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) For Cumulative compound motor   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power developed (in Watts)=   
+ 
+    4600.  
+ 
+ 
+ 
+ speed (in rpm)=   
+ 
+    2124.  
+ 
+ 
+ (b) For differential compound motor   
+ 
+ 
+ 
+ 
+ 
+ Power developed (in Watts)=   
+ 
+    5840.8163  
+ 
+ 
+ 
+ speed (in rpm)=   
+ 
+    2697.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    120.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ After insertion of external resistance in the armature ckt   
+ 
+ 
+ (a) motor speed (in rpm)=   
+ 
+    1343.  
+ 
+ 
+ 
+ 
+ 
+ (b) power loss in external resistance (in Watts)=   
+ 
+    705.6  
+ 
+ 
+ 
+ (c) efficiency (%)=   
+ 
+    46.100541  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) new motor speed (in rpm)=   
+ 
+    2907.  
+ 
+ 
+ 
+ (b) Power loss in external resistance (in Watts)=   
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Efficiency (%)=   
+ 
+    84.860015  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)   external resistance (in ohms)=    
+ 
+    38.571429  
+ 
+ 
+ (b)   external resistance (in ohms)=    
+ 
+    270.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ shaft torque of motor (in Newton-meter)=   
+ 
+    2.27  
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency of motor (%)=   
+ 
+    67.918241  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.8/Ex6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reading on the scale (in Kg)=   
+ 
+    7.5643213  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) external resistance (in ohms)=   
+ 
+    17.380952  
+ 
+ 
+ 
+ 
+ 
+ (2a) breaking torque at the instant of plugging (in Newton-meter)=   
+ 
+    156.24  
+ 
+ 
+ (2b) breaking torque when speed of motor approaches zero (in Newton-meter)=   
+ 
+    80.953368  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pitch factor =   
+ 
+    0.9238795  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ distribution factor=   
+ 
+    0.9597951  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) frequency of induced voltage (in Hertz)=   
+ 
+    50.  
+ 
+ 
+ 
+ (b) Rms value of Phase voltage (in Volts)=   
+ 
+    1201.3473  
+ 
+ 
+ 
+ (c) line voltage (in Volts)=   
+ 
+    2080.7945  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)  For 80% lagging power factor of load   
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage regulation (%)=   
+ 
+    94.804478  
+ 
+ 
+ (b)  For Unity power factor of load   
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage regulation (%)=   
+ 
+    55.02296  
+ 
+ 
+ (c)  For 80% leading power factor of load   
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage regulation (%)=   
+ 
+  - 0.2564051  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  (a) Voltage Regulation (%)=   
+ 
+    85.444754  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) Efficiency (%)=   
+ 
+    86.  
+ 
+ 
+ 
+ 
+ (c) Torque developed (in Newton-meter)=   
+ 
+    65.750886  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ synchronous reactance per phase (in ohms)=   
+ 
+    8.8385729  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage regulation (%)=   
+ 
+    66.680294  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage regulation (%)=   
+ 
+    49.681294  
+ 
+ 
+ 
+ Power developed (in Mega-Watts)=   
+ 
+    56.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  (a) magnitude of phase voltage (in Volts)=   
+ 
+    82.174516  
+ 
+ 
+ 
+ phase angle of voltage (in Degree)=   
+ 
+  - 5.9327036  
+ 
+ 
+ 
+ (b) magnitude of armature current of generator 1 (in Amperes)=   
+ 
+    9.3560414  
+ 
+ 
+ 
+ phase angle of armature current of generator 1 (in Degree)=   
+ 
+  - 51.170595  
+ 
+ 
+ 
+ magnitude of armature current of generator 2 (in Amperes)=   
+ 
+    7.306458  
+ 
+ 
+ 
+ phase angle of armature current of generator 2 (in Degree)=   
+ 
+  - 32.062512  
+ 
+ 
+ 
+ 
+  (c) Power developed of generator 1 (in Watts)=   
+ 
+    1624.1452  
+ 
+ 
+  Power developed of generator 2 (in Watts)=   
+ 
+    1617.1273  
+ 
+ 
+ 
+ (d) total power output (in Watts)=   
+ 
+    3241.2725  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency (%)=   
+ 
+    96.134021  
+ 
+ 
+ 
+ 
+ magnitude of generated voltage (in Volts)=   
+ 
+    248.82011  
+ 
+ 
+ Phase angle of generated voltage (in Degree)=   
+ 
+  - 22.82404  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rms value of excitation voltage (in Volts)=   
+ 
+    525.89024  
+ 
+ 
+ 
+ power developed by motor (in Kilo-Watts)=   
+ 
+    37.819219  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Power factor=   
+ 
+    0.9682794  
+ 
+ 
+ (b) power angle (in Degree)=   
+ 
+  - 25.99621  
+ 
+ 
+ 
+ (c) line to line excitation voltage (in Volts)=   
+ 
+    560.  
+ 
+ 
+ phase angle of line to line excitation voltage (in Degree)   
+ 
+    4.0037903  
+ 
+ 
+ 
+ (d) Torque developed (in Newton-meter)=   
+ 
+    47.745358  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) per-phase excitation voltage(in Volts)=   
+ 
+    94.417952  
+ 
+ 
+ phase angle of excitation voltage (in degree)=   
+ 
+  - 34.48402  
+ 
+ 
+ 
+ (b) power developed due to feild excitation(in Watts)=   
+ 
+    7126.9003  
+ 
+ 
+ 
+ (c) power developed due to saliency of motor (in Watts)=   
+ 
+    4392.1412  
+ 
+ 
+ 
+ (d) total power developed (in Watts)=   
+ 
+    11519.041  
+ 
+ 
+ 
+ 
+ 
+ 
+ (e) Efficiency (in %)=   
+ 
+    95.000409  
+ 
+ 
+ 
+ 
+ 
+ 
+ (f) maximum power developed (in Watts)=   
+ 
+    15024.709  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) New armature current (in Ampere)=   
+ 
+    20.059341  
+ 
+ 
+ Phase angle of new armature current (in Degree)=   
+ 
+    4.9276299  
+ 
+ 
+ 
+ (b) New Power factor=   
+ 
+    0.9963040  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ overall power factor=   
+ 
+    0.7449891  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power factor of motor to improve overall power factor to 0.9=   
+ 
+    0.2120143  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) synchronous speed of induction motor (in rpm)=   
+ 
+    1800.  
+ 
+ 
+ 
+ (b) Slip at full load =   
+ 
+    0.025  
+ 
+ 
+ 
+ (c) rotor frequency at full load (in Hertzs)=   
+ 
+    1.5  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency (%)=   
+ 
+    87.849316  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency (%)=   
+ 
+    87.964223  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Slip=   
+ 
+    0.2857143  
+ 
+ 
+ 
+ max power developed (in Kilo-Watts)=   
+ 
+    27.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Torque developed (in Newton-meter)=   
+ 
+    300.80284  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Breakdown slip=   
+ 
+    0.4850713  
+ 
+ 
+ 
+ (b) Breakdown Torque (in Newton-meter)=   
+ 
+    335.52384  
+ 
+ 
+ 
+ (c)  power developed by the motor (in Kilo-Watts)=   
+ 
+    21.710388  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) breakdown slip=   
+ 
+    0.25  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Breakdown torque (in Newton-meter)=   
+ 
+    1.1459156  
+ 
+ 
+ 
+ (b) Starting Torque (in Newton-meter)=   
+ 
+    0.5392544  
+ 
+ 
+ Starting torque is =   
+ 
+    0.4705882  
+ 
+ 
+ times the max torque   
+ 
+ 
+ 
+ 
+ rotor resistance (in ohms)=   
+ 
+    0.04  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.7/Ex9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Torque range (in Newton-meter) is :-   
+ 
+ 
+ minimum value=   
+ 
+    6.7488397  
+ 
+ 
+ maximum value=   
+ 
+    10.0793  
+ 
+ 
+ (b) Current range (in Amperes) is :-   
+ 
+ 
+ minimum value=   
+ 
+    4.05  
+ 
+ 
+ maximum value=   
+ 
+    4.95  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.8/Ex9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R_1 (in ohms)=   
+ 
+    1.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R_c=core loss resistance (in ohms)=   
+ 
+    100.14815  
+ 
+ 
+ 
+ 
+ 
+ 
+ X_m=Magnetization reactance (in ohms)=   
+ 
+    128.04022  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R_2 (in ohms)=   
+ 
+    1.3805106  
+ 
+ 
+ 
+ 
+ 
+ 
+ X_1 (in ohms)=   
+ 
+    2.5005433  
+ 
+ 
+ X_2 (in ohms)=   
+ 
+    2.5005433  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH9/EX9.10/Ex9_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rotor Parameters as reffered to stator:   
+ 
+ 
+ R_2 (in mili ohms)=   
+ 
+    14.58  
+ 
+ 
+ 
+ X_2 (in ohms)=   
+ 
+    1.458  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) slip in forward direction=   
+ 
+    0.05  
+ 
+ 
+ 
+ (b) slip in backward direction=   
+ 
+    1.95  
+ 
+ 
+ 
+ 
+ effective rotor resistance in forward branch (in ohms)=   
+ 
+    125.  
+ 
+ 
+ 
+ effective rotor resistance in backward branch (in ohms)=   
+ 
+    3.2051282  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ shaft torque (in Newton-meter)=   
+ 
+    1.2949391  
+ 
+ 
+ 
+ Efficiency of motor (%)=   
+ 
+    65.861477  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) magnitude of line current (in Amperes)=   
+ 
+    1.2066914  
+ 
+ 
+   phase of line current (in Degree)   
+ 
+  - 23.47786  
+ 
+ 
+ 
+ (b) power input (in Watts)=   
+ 
+    254.56271  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Efficiency of motor (%)=   
+ 
+    57.520783  
+ 
+ 
+ 
+ (d) shaft torque (in Newton-meter)=   
+ 
+    1.487521  
+ 
+ 
+ 
+ (e) magnitude of voltage across capacitor (in Volts)=   
+ 
+    444.6664  
+ 
+ 
+     phase of voltage across capacitor (in Degree)=   
+ 
+  - 68.294737  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (f) starting torque (in Newton-meter)=   
+ 
+    0.5204152  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X1 (in ohms)=   
+ 
+    1.2585887  
+ 
+ 
+ X2 (in ohms)=   
+ 
+    1.2585887  
+ 
+ 
+ R2 (in ohms)=   
+ 
+    3.7312117  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_r (in Watts)=   
+ 
+    20.  
+ 
+ 
+ X_m (in ohms)=   
+ 
+    69.174812  
+ 
+ 
+ 
+ 
+ 
+ 
+ alpha=   
+ 
+    0.5012573  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) induced emf in the armature (in Volts)=   
+ 
+    74.1042  
+ 
+ 
+ phase of induced emf in the armature (in Degree)=   
+ 
+  - 24.217693  
+ 
+ 
+ 
+ 
+ (b) power output (in Watts)=   
+ 
+    1222.7518  
+ 
+ 
+ 
+ 
+ (c) shaft torque (in Newton-meter)=   
+ 
+    1.4595525  
+ 
+ 
+ 
+ 
+ (d) Efficiency (%)=   
+ 
+    63.55407  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sub-transient current (in Amperes)=   
+ 
+    14238.479  
+ 
+ 
+ 
+ transient current (in Amperes)=   
+ 
+    10195.686  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) power generated (in per unit)=   
+ 
+    0.9520487  
+ 
+ 
+ 
+ 
+ 
+ (b) critical fault ing time (in sec)=   
+ 
+    0.5810606  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed of motor (in rpm)=   
+ 
+    942.  
+ 
+ 
+ 
+ 
+ torque developed under blocked rotor condition (in Newton-meter)=   
+ 
+    19.  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH12/EX12.2/Ex12_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ magnetic flux (in Weber)=   
+ 
+    0.0071636  
+ 
+grepthis#Electric_Machinery_And_Transformers_B._S._Guru_And_H._R._Hiziroglu_380/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ developed power (in Kilo-Watts)   
+ 
+    5555.  
+ 
+ 
+ 
+ 
+ 
+ Copper loss (in Kilo-Watts)=   
+ 
+    444.  
+ 

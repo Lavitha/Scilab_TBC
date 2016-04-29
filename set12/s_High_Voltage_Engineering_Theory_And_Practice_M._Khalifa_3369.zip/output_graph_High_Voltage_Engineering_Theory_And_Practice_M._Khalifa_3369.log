@@ -1,0 +1,500 @@
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ Q1  =
+ 
+    0.25  
+ 
+ e0  =
+ 
+    8.854D-12  
+ 
+ RV1  =
+ 
+    18.143988  
+ 
+ RV2  =
+ 
+    0.5771412  
+ 
+ RV  =
+ 
+    18.721129  
+ 
+ E  =
+ 
+    4.206D+10  
+ 
+Maximum field = 4.206432e+10 V/m per volt 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH2/EX2.6/Ex2_6.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+Part a
+ 
+ req  =
+ 
+    0.0887412  
+ 
+Equivalent radius = 8.874120e-02 m 
+ 
+ V  =
+ 
+    400000.  
+ 
+ H  =
+ 
+    12.  
+ 
+ d  =
+ 
+    9.  
+ 
+ e0  =
+ 
+    8.854D-12  
+ 
+ Hd  =
+ 
+    25.632011  
+ 
+ Q  =
+ 
+    0.0000049  
+ 
+ q  =
+ 
+    0.0000024  
+ 
+Charge per bundle = 4.887041e-06 uC/m 
+ 
+Charge per sunconducter = 2.443520e-06 uC/m 
+ 
+ 
+ 
+
+Part b 
+
+Sub part 1
+ 
+ r  =
+ 
+    0.0175  
+ 
+ R  =
+ 
+    0.45  
+ 
+ MF  =
+ 
+    2607467.  
+ 
+Maximum feild = 2.607467e+06 kV/m 
+ 
+ MSF  =
+ 
+    2412255.5  
+ 
+Maximum feild = 2.412256e+06 kV/m 
+ 
+ ASF  =
+ 
+    2509861.2  
+ 
+Maximum feild = 2.509861e+06 kV/m 
+ 
+ 
+ 
+
+Sub part 2
+ 
+ 
+ drO1  =
+ 
+    0.1108955  
+ 
+ dRrO1  =
+ 
+    0.1056245  
+ 
+ EO1  =
+ 
+    2597956.8  
+ 
+EO1 = 2.597957e+06 kV/m 
+ 
+ 
+ drO2  =
+ 
+    0.1113276  
+ 
+ dRrO2  =
+ 
+    0.1171989  
+ 
+ EO2  =
+ 
+    2597429.5  
+ 
+EO2 = 2.597429e+06 kV/m 
+ 
+ 
+ 
+ drI1  =
+ 
+    0.1113276  
+ 
+ dRrI1  =
+ 
+    0.1060164  
+ 
+ EI1  =
+ 
+    2402709.2  
+ 
+EI1 = 2.402709e+06 kV/m 
+ 
+ 
+ drI2  =
+ 
+    0.1108955  
+ 
+ dRrI2  =
+ 
+    0.1167202  
+ 
+ EI2  =
+ 
+    2402258.1  
+ 
+EI2 = 2.402258e+06 kV/m 
+ 
+ 
+ 
+
+Part c
+ 
+ Eavg  =
+ 
+    2597693.2  
+ 
+The average of the maximum gradient = 2.597693e+06 kV/m 
+ 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ e0  =
+ 
+    8.854D-12  
+ 
+ q  =
+ 
+    1.  
+ 
+ C  =
+ 
+    1.798D+10  
+ 
+ 
+ E  =
+ 
+    3.002D+10  
+ 
+Electric Feild = 3.001560e+10 V/m 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ V  =
+ 
+    212.13203  
+ 
+ Ebd  =
+ 
+    50.  
+ 
+ T  =
+ 
+    4.2426407  
+ 
+
+Thickness of graded design= 4.242641e+00 cm 
+ 
+ 
+ r  =
+ 
+    2.  
+ 
+ l  =
+ 
+    10.  
+ 
+ zr  =
+ 
+    62.426407  
+ 
+Curve = 6.242641e+01 cm^2 
+ 
+ 
+ V1  =
+ 
+    47402.907  
+ 
+V1 = 4.740291e+04 cm^3 
+ 
+ 
+ pow  =
+ 
+    2.1213203  
+ 
+ t  =
+ 
+    14.684289  
+ 
+Thickness of regular design = 1.468429e+01 cm 
+ 
+ 
+ V2  =
+ 
+    861.94468  
+ 
+V2 = 8.619447e+02 cm^3 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ A1  =
+ 
+    0.35  
+ 
+ A2  =
+ 
+    0.525  
+ 
+ S  =
+ 
+    0.5571  - 0.4571  - 0.1     
+  - 0.4751    0.828     0.3667  
+  - 0.1       0.667     0.4667  
+ 
+ 
+ 
+ S1  =
+ 
+    1.25   - 0.014   
+  - 0.014    0.8381  
+ 
+ S2  =
+ 
+  - 0.7786  - 0.4571  
+  - 0.4571  - 0.3667  
+ 
+ Phi13  =
+ 
+    0.   
+    10.  
+ 
+ val1  =
+ 
+  - 4.571  
+  - 3.667  
+ 
+ Phi24  =
+ 
+  - 3.7064976  
+  - 4.4372879  
+ 
+ 
+ The values of Phi2 and Phi4 are:   
+ 
+    3.7064976  
+    4.4372879  
+ 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.9/Ex16_9.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ n  =
+ 
+    8.  
+ 
+ C1  =
+ 
+    0.02  
+ 
+ C2  =
+ 
+    0.001  
+ 
+ T2  =
+ 
+    50.  
+ 
+ T1  =
+ 
+    1.2  
+ 
+ 
+ a  =
+ 
+    6.4  
+ 
+ theta  =
+ 
+    5.2631579  
+ 
+ X  =
+ 
+    0.0256348  
+ 
+ R1  =
+ 
+    0.0004345  
+ 
+ R2  =
+ 
+    0.0031873  
+ 
+ R1n  =
+ 
+    0.0000543  
+ 
+ R2n  =
+ 
+    0.0003984  
+ 
+ V0  =
+ 
+    960.  
+ 
+ neta  =
+ 
+    0.9462378  
+ 
+ V  =
+ 
+    908.3883  
+ 
+ E  =
+ 
+    9216.  
+ 
+
+ Theta = 5.263158 micro S 
+
+ X = 0.025635  
+
+ V0 = 960.000000  
+
+ R1 = 434.546375 Ohm 
+
+ R2 = 3187.327366 Ohm 
+
+ R1/n = 54 Ohm 
+
+ R2/n = 398 Ohm 
+
+ neta = 0.946238  
+
+ Maximum output voltage = 908.388299 kV 
+
+ Energy rating = 9216.000000 J 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.10/Ex16_10.sce #
+ 
+ 
+ 
+[2J[0;0H 
+ n  =
+ 
+    12.  
+ 
+ C1  =
+ 
+    1.042D-08  
+ 
+ C2  =
+ 
+    1.000D-09  
+ 
+ R1  =
+ 
+    840.  
+ 
+ R2  =
+ 
+    4800.  
+ 
+ 
+ theta  =
+ 
+    0.0000065  
+ 
+ neta  =
+ 
+    0.7867821  
+ 
+ a  =
+ 
+    4.9029889  
+ 
+ T2  =
+ 
+    45.365185  
+ 
+ T1  =
+ 
+    1.8146074  
+ 
+
+ R1 = 840.000000 Ohm 
+
+ R2 = 4800.000000 Ohm 
+
+ Theta = 6.480741 microS 
+
+ Neta = 0.786782 
+
+ Alpha = 4.902989  
+
+ T1 = 1.814607 microS 
+
+ T2 = 45.365185 microS 
+ 
+ 
+ 

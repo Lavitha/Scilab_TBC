@@ -1,0 +1,450 @@
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH5/EX5.2/exa5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    80.  
+ 
+ 
+ Nc  =
+ 
+    24.  
+ 
+ 
+ Nb1  =
+ 
+    7.  
+ 
+ 
+ Nb2  =
+ 
+    5.  
+ 
+ 
+ 
+ The number of crosspoints in the space stage is   
+ 
+ 
+ Nx  =
+ 
+    6400.  
+ 
+ 
+ 
+ The total number of memory bits for the space stage control store is   
+ 
+ 
+ Nbx  =
+ 
+    13440.  
+ 
+ 
+ 
+ The total number of memory bits for the time stage is   
+ 
+ 
+ Nbt  =
+ 
+    24960.  
+ 
+ 
+ 
+ Thus the implementation complexity is    
+ 
+ 
+ Cmplx  =
+ 
+    6784.  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH6/EX6.4/exa6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SNR detector is 3dB higher than Eb/N0, therefore   
+ 
+ 
+ snr  =
+ 
+    13.7  
+ 
+ 
+ 
+ Since 4 PSK modulation provides 2bps/Hz, the sampling rate is 5 MHz, which is  
+      Nqyuist rate, therefore                                                   
+ 
+ 
+ a1  =
+ 
+    140.9691  
+ 
+ 
+ a2  =
+ 
+    1.1394335  
+ 
+ 
+ A0  =
+ 
+    116.12967  
+ 
+ 
+ 
+ At a carrier frequency of 2GHz, the wavelength is   
+ 
+ 
+ ans  =
+ 
+    0.15  
+ 
+ 
+ FM  =
+ 
+    38.558228  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH8/EX8.1/exa8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pin  =
+ 
+    42.  
+ 
+ 
+ 
+ A  =
+ 
+    3.  
+ 
+ 
+ LL  =
+ 
+    14.  
+ 
+ 
+ 
+ Using 2 Gbps-km as typical BDP of graded index multimode fiber, the multimode  
+      dispersion distance is determined as                                      
+ 
+ 
+ Dl  =
+ 
+    22.222222  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH8/EX8.2/exa8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The attenuation of single-mode fibre operating at 1300nm is approximately 0.35 
+      dB/km. Thus,                                                              
+ 
+ 
+ Pin  =
+ 
+    42.  
+ 
+ 
+ A  =
+ 
+    0.35  
+ 
+ 
+ LL  =
+ 
+    120.  
+ 
+ 
+ 
+ Using 250 Gbps-km as BDP of a silica single-mode fiber, the chromatic dispersi 
+      on limit is determined as                                                 
+ 
+ 
+ Cd  =
+ 
+    599.52038  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH8/EX8.3/exa8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ smf  =
+ 
+    16.  
+ 
+ 
+ smf  =
+ 
+    16.  
+ 
+ 
+ sw  =
+ 
+    0.4  
+ 
+ 
+ BDP  =
+ 
+    39.0625  
+ 
+ 
+ 
+ The BDP of the DS SMF system is determined as   
+ 
+ 
+ smf  =
+ 
+    3.5  
+ 
+ 
+ BDP  =
+ 
+    178.57143  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH8/EX8.5/exa8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dr  =
+ 
+    565.  
+ 
+ 
+ wl  =
+ 
+    0.0000016  
+ 
+ 
+ 
+ The use of 5B6B line code implies the line data rate is,   
+ 
+ 
+ ans  =
+ 
+    678.  
+ 
+ 
+ 
+ 
+ 
+ The receiver sensitivity for 678 Mbps is determined from fig 8.8 or table 8.2  
+      as                                                                        
+ 
+ 
+ rsen  =
+ 
+  - 34.5  
+ 
+ 
+ A  =
+ 
+    29.5  
+ 
+ 
+ BDP  =
+ 
+    73.529412  
+ 
+ 
+ BDPs  =
+ 
+    108.55457  
+ 
+ 
+ lossp  =
+ 
+    26.  
+ 
+ 
+ lossm  =
+ 
+    3.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH11/EX11.1/exa11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By seeing the figure, it can be seen that the minimum delay between a terminal 
+       transmitting D bit and receiving it back in the following E bit is seven 
+       bit times                                                                
+ 
+ 
+ 
+ At a 192 kbps data rate the duration of bit is 5.2 usec. Thus, the total round 
+       trip propagation time is                                                 
+ 
+ 
+ ans  =
+ 
+    36.4  
+ 
+ 
+ 
+ Assuming no appreciable circuitry delays in the NT,   
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ Lmax  =
+ 
+    3640.  
+ 
+ 
+ 
+ Because round trip propagation involves both direction of transmission   
+ 
+ 
+ Dmax  =
+ 
+    1820.  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ Maximum length of wire(Lmax) = 3640 m = 3.64 km   
+ 
+ 
+ 
+ Maximum distance(Dmax)= 1820 m = 1.82 km   
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH12/EX12.5/exa12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ From fig, it can be that the output circuit utilization for B=0.1 and N=24 is  
+      0.8.                                                                      
+ 
+ 
+ N  =
+ 
+    24.  
+ 
+ 
+ op  =
+ 
+    0.8  
+ 
+ 
+ 
+ Thus the carried traffic intensity is    
+ 
+ 
+ ans  =
+ 
+    19.2  
+ 
+ 
+ 
+ Since the blocking probability is 0.1, the maximum level of offered traaffic i 
+      s,                                                                        
+ 
+ 
+ A  =
+ 
+    21.333333  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ A = 21.3 erlangs   
+ 
+ 

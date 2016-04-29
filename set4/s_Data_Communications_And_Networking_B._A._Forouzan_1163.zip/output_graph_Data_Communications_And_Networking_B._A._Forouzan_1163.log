@@ -1,0 +1,1322 @@
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH2/EX2.4/example_2_4.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --------------Example 2.4----------------   
+ 
+ 
+Figure shows two computers communicating via the Internet. The sending computer is running three processes at
+this time with port addresses a, b, and c. The receiving computer is running two processes at this time with port addresses j and k.
+Process a in the sending computer needs to communicate with process j in the receiving computer.
+Note that although both computers are using the same application, FTP, the port addresses are different because one is a client
+program and the other is a server program . To show that data from process a need to be delivered to process j, and not k,
+the transport layer encapsulates data from the application layer in a packet and adds two port addresses (a and j), source and destination.
+The packet from the transport layer is then encapsulated in another packet at the network layer with logical source and
+destination addresses (A and P). Finally, this packet is encapsulated in a frame with the physical source and destination addresses of the next
+hop. We have not shown the physical addresses because they change from hop to hop inside the cloud designated as the Internet. Note
+that although physical addresses change from hop to hop, logical and port
+addresses remain the same from the source to destination. 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.10/example_3_10.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 3.10---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The bandawidth = 800 Hz
+ 
+The spectrum has only 5 spikes, at 100, 300, 500, 700 and 900 Hz. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.11/example_3_11.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 3.11---------------   
+ 
+ 
+ 
+ 
+The lowest frequency = 40 Hz
+The spectrum contains all integer frequencies which is shown as a series of spikes in the figure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.12/example_3_12.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 3.12----------------   
+ 
+ 
+ 
+ 
+ 
+The lowest frequency is 40 kHz and highest frequency is 240 kHz. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.7/example_3_7.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.8/example_3_8.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a1  =
+ 
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+ 
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [1,1]
+grid_style = [3,3]
+x_location = "middle"
+y_location = "left"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+ 
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [0,0;1,1]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+ 
+auto_clear = "off"
+auto_scale = "on"
+ 
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 1
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH3/EX3.9/example_3_9.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 3.9--------------   
+ 
+ 
+ 
+ 
+Figure shows a nonperiodic composite signal. It can be the signal created by a microphone or a telephone set when a word or two
+is pronounced. In this case, the composite signal cannot be periodic, because that implies that we are repeating the same word or
+words with exactly the same tone.
+
+ 
+In a time-domain representation of this composite signal, there are an infinite number of simple sine frequencies.
+Although the number of frequencies in a human voice is infinite, the range is limited. A normal human being
+can create a continuous range of frequencies between 0 and 4 kHz. 
+
+
+The frequency decomposition of the signal yields a continuous curve. There are an infinite number of frequencies between 0.0
+and 4000.0 (real values). To find the amplitude related to frequency f, draw a vertical line at f to intersect the envelope curve.
+The height of the vertical line is the amplitude of the corresponding frequency. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH4/EX4.6/example_4_6.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 4.6---------------   
+ 
+ 
+A simple sine wave is sampled at three sampling rates:
+fs = 4f (2 times the Nyquist rate )
+fs = 2f (Nyquist rate
+fs = f (one-half the Nyquist rate)
+
+ 
+It can be seen that sampling at the Nyquist rate can create a good approximation of the original sine wave (part a).
+Oversampling in part b can also create the same approximation, but it is redundant and unnecessary.
+Sampling below the Nyquist rate (part c) does not produce a signal that looks like the original sine wave. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.4/example_5_4.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 5.4---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The carrier frequency for one direction is 225 kHz , bandwidth is 50 kHz and data rate is 25 kbps.
+ 
+
+The carrier frequency for other direction is 275 kHz , bandwidth is 50 kHz and data rate is 25 kbps.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.6/example_5_6.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 5.6---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The number of levels is 8 , the signal rate is 1 Mbaud and the bandwidth is 8 MHz. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.1/example_6_1.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 6.1---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 20- to 24-kHz bandwidth is used for the first channel, the 24- to 28-kHz bandwidth for the second channel, and the 28- to 32-kHz
+bandwidth for the third one. Then they are combined as shown in the figure.
+
+At the receiver, each channel receives the entire signal, using a filter to separate out its own signal. The first channel uses a filter that passes
+frequencies between 20 and 24 kHz and filters out (discards) any other frequencies. The second channel uses a filter that passes frequencies between
+24 and 28 kHz,and the third channel uses a filter that passes frequencies between 28 and 32 kHz. Each channel then shifts the frequency to start
+from zero. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.2/example_6_2.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 6.2---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The required bandwidth is atleast 540 kHz. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.3/example_6_3.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 6.3---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+The satellite channel is analog. Each channel has a 250 kHz bandwidth.
+Each digital channel of 1 Mbps is modulated such that each 4 bits is modulated to 1 Hz. One solution is 16-QAM modulation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.8/example_6_8.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 6.8---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Each frame carries 1 byte from each channel; the size of each frame, therefore, is 4 bytes, or 32 bits.
+The frame rate is 100 frames per second. The duration of a frame is 0.01 s.
+The bit rate is 3200 bps. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH6/EX6.9/example_6_9.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 6.9---------------   
+ 
+ 
+ 
+ bitrate_channel  =
+ 
+    100000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The frame rate is 50000 frames per second. The frame duration is therefore 20 microseconds .
+Each frame carries 8 bits; the bit rate is 400 kbps.
+The bit duration is 2.5 microseconds. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH8/EX8.2/example_8_2.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 8.2---------------   
+ 
+Consider a circuit-switched network that connects computers in two remote offices of a private company. The offices are
+connected using a T-1 line leased from a communication service provider. There are two 4 X 8 (4 inputs and 8 outputs)
+switches in this network. For each switch, four output ports are folded into the input ports to allow communication between
+computers in the same office. Four other output ports allow communication between the two offices. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.12/example_11_12.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 11.12---------------   
+ 
+ 
+This example shows the steps and the phases followed by a network layer packet as it is transmitted through a PPP connection.
+For simplicity, unidirectional movement of data from the user site to the system site is assumed (such as sending an e-mail through an ISP).
+
+ 
+The first two frames show link establishment. Two options are chosen(not shown in the figure): using PAP for authentication and
+suppressing the address control fields. Frames 3 and 4 are for authentication. Frames 5 and 6 establish the network layer connection using IPCP.
+
+ 
+The next several frames show that some IP packets are encapsulated in the PPP frame. The system (receiver) may have been running
+several network layer protocols, but it knows that the incoming data must be delivered to the IP protocol because the NCP protocol
+used before the data transfer was IPCP.
+
+ 
+After data transfer, the user then terminates the data link connection, which is acknowledged by the system.
+Of course the user or the system could have chosen to terminate the network layer IPCP and keep the data link layer running if it
+wanted to run another NCP protocol. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.1/example_11_1.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 11.1---------------   
+ 
+ 
+This an example of communication using the simplest protocol. It is very simple. The sender sends a sequence of frames
+without even thinking about the receiver. To send three frames, three events occur at the sender site and three events at the receiver site.
+The data frames are shown by tilted boxes in the figure; the height of the box defines the transmission time difference between the first bit
+and the last bit in the frame. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.2/example_11_2.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 11.2---------------   
+ 
+ 
+This is an example of communication using the Stop and Wait protocol. It is still very simple. The sender sends one frame and
+waits for feedback from the receiver. When the ACK arrives, the sender sends the next frame. Sending two frames in this
+protocol involves the sender in four events and the receiver in two events. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.7/example_11_7.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 11.7---------------   
+ 
+ 
+This example shows what happens when a frame is lost. The sequence of events that occur is as follows:
+
+* Frames 0, 1, 2, and 3 are sent. However, frame 1 is lost. The receiver receives frames 2 and 3, but they are discarded because they are received out
+of order (frame 1 is expected).
+
+* The sender receives no acknowledgment about frames 1, 2, or 3. Its timer finally expires. The sender sends all outstanding frames (1, 2, and 3)
+because it does not know what is wrong. The resending of frames l, 2, and 3 is the response to one single event.
+
+* When the sender is responding to this event, it cannot accept the triggering of other events. This means that when ACK 2 arrives,
+the sender is still busy with sending frame 3. The physica1 layer must wait until this event is completed and the data link layer goes back
+to its sleeping state. A vertical line indicates this delay in the figure.
+
+* It is the same story with ACK 3; but when ACK 3 arrives, the sender is busy responding to ACK 2. It happens
+again when ACK 4 arrives. Before the second timer expires, all outstanding frames have been sent and the timer is stopped. 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH11/EX11.9/example_11_9.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 11.9---------------   
+ 
+ 
+This example shows how U-frames can be used for connection establishment and connection release.
+
+* Node A asks for a connection with a set asynchronous balanced mode (SABM) frame; node B gives a positive response with
+  an unnumbered acknowledgment (UA) frame.
+* After these two exchanges, data can be transferred between the two nodes (not shown in the figure).
+* After data transfer, node A sends a DISC (disconnect) frame to release the connection; it is confirmed by node B
+  responding with a UA (unnumbered acknowledgment). 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH20/EX20.10/example_20_10.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 20.10---------------   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure shows an example of a checksum calculation for an IPv4 header without options. The header is divided into 16-bit sections.
+All the sections are added and the sum is complemented.The sum is 744E and the checksum is 8BB1.
+The result is inserted in the checksum field. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH27/EX27.1/example_27_1.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 27.1---------------   
+ 
+ 
+This example retrieves a document. We use the GET method to retrieve an image with the path /usr/bin/image1.
+The request line shows the method (GET), the URL, and the HTTP version(1.1).
+The header has two lines that show that the client can accept images in the GIF or JPEG format.
+The request does not have a body. The response message contains the status line
+and four lines of header. The header lines define the date, server,
+MIME version, and length of the document. The body of the document follows the header. 
+ 
+
+
+  Client                                           Server
+ 
+   |           Request (GET method)                    |
+ 
+   |            _____________________________          |
+ 
+   |-----------|GET /usr/bin/image1 HTTP/1.1 |-------->|
+ 
+   |           |Accept: image/gif            |         |
+ 
+   |           |Accept: image/jpeg           |         |
+ 
+   |           |_____________________________|         |
+ 
+   |                                                   |
+ 
+   |            _____________________________          |
+ 
+   |           |HTTP/l.l 200 OK              |         |
+ 
+   |           |Date:Mon07-Jan-05 13:15:14GMT|         |
+ 
+   |<----------|Server: Challenger           |---------|
+ 
+   |           |MIME-version: 1.0            |         |
+ 
+   |           |Content-length: 2048         |         |
+ 
+   |           |                             |         |
+ 
+   |           |(Body of the document)       |         |
+ 
+   |           |_____________________________|         |
+ 
+   |           Response                                |
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH27/EX27.2/example_27_2.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 27.2---------------   
+ 
+ 
+In this example, the client wants to send data to the server. The POST method is used. The request line shows the method (POST),
+URL, and HTTP version (1.1). There are four lines of headers. The request body contains the input information. The response message contains
+the status line and four lines of headers. The created document, which is a CGI document, is included as the body. 
+ 
+
+
+  Client                                           Server
+ 
+   |            Request (POST method)                  |
+ 
+   |           ______________________________          |
+ 
+   |----------|POST /cgi-bin/doc.pl HTTP/1.1 |-------->|
+ 
+   |          |Accept: */*                   |         |
+ 
+   |          |Accept: image/gif             |         |
+ 
+   |          |Accept: image/jpeg            |         |
+ 
+   |          |Content-length: 50            |         |
+ 
+   |          |                              |         |
+ 
+   |          |(Input information)           |         |
+ 
+   |          |______________________________|         |
+ 
+   |                                                   |
+ 
+   |            _____________________________          |
+ 
+   |          |HTTP/1.1 200 OK               |         |
+ 
+   |          |Date:Mon,07-Jan-02 13:15:14GMT|         |
+ 
+   |<---------|Server: Challenger            |---------|
+ 
+   |          |MIME-version: 1.0             |         |
+ 
+   |          |Content-length: 2000          |         |
+ 
+   |          |                              |         |
+ 
+   |          |(Body of the document)        |         |
+ 
+   |          |______________________________|         |
+ 
+   |           Response                                |
+ 
+ 
+ 
+grepthis#Data_Communications_And_Networking_B._A._Forouzan_1163/CH28/EX28.5/example_28_5.sce #
+ 
+[2J[0;0H 
+ 
+ --------------Example 28.5---------------   
+ 
+ 
+In this example, a manager station (SNMP client) uses the GetRequest message to retrieve the number of UDP datagrams that a
+router has received.
+
+There is only one VarBind entity. The corresponding MIB variable related to this information is udpInDatagrams with the object identifier
+1.3.6.1.2.1.7.1.0. The manager wants to retrieve a value (not to store a value), so the value defines a null entity.
+
+The VarBind list has only one VarBind. The variable is of type 06 and length 09.
+The value is of type 05 and length 00. The whole VarBind is a sequence of length 0D (13).
+The VarBind list is also a sequence of length 0F (15). The GetRequest PDU is of length 1D (29).
+
+There are three OCTET STRINGs related to the security parameter, security model, and flags. Then we have two integers defining
+maximum size (1024) and message ID (64). The header is a sequence of length 12, which we left blank for simplicity. There is one integer,
+version (version 3). The whole message is a sequence of 52 bytes.
+
+The figure shows the actual message sent by the manager station (client) to the agent (server).It shows the conceptual view of
+the packet and the hierarchical nature of sequences.White boxes and colored boxes are used for the sequences and a gray one for the PDU. 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Rectangle" with properties:
+===========================================
+parent: Axes
+children: []
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+line_mode = "off"
+fill_mode = "on"
+line_style = 1
+thickness = 1
+foreground = -1
+background = 33
+data = [0.04,0.5,0.5,0.3]
+visible = "on"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Rectangle" with properties:
+===========================================
+parent: Axes
+children: []
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+line_mode = "off"
+fill_mode = "on"
+line_style = 1
+thickness = 1
+foreground = -1
+background = 33
+data = [0.08,0.3,0.3,0.06]
+visible = "on"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

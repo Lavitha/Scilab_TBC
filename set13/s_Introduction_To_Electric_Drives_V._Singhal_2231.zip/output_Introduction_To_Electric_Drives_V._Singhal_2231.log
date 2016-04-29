@@ -1,0 +1,3143 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 90
+
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.12/Ex_1_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rms current (in A) :    
+ 
+    84.852814  
+ 
+ 
+ Form Factor :    
+ 
+    1.4142136  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.13/Ex_1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Power supplied to load (in W) :    
+ 
+    212.43799  
+ 
+ 
+ 
+ 
+ (a) Power supplied to load (in W) :    
+ 
+    240.07373  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.14/Ex_1_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Average power loss (in W) :    
+ 
+    360.  
+ 
+ 
+ 
+ (b) Average power loss (in W) :    
+ 
+    380.  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.15/Ex_1_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Average current (in A) :    
+ 
+    25.285538  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) Average current (in A) :    
+ 
+    19.133163  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Average current (in A) :    
+ 
+    11.640507  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.16/Ex_1_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Mean power dissipation (in W) :    
+ 
+    26.  
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) Mean power dissipation (in W) :    
+ 
+    37.739209  
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Power dissipation occur only during half cycle. Mean power dissipation (W) 
+ 
+    13.  
+ 
+ 
+ 
+ 
+ 
+ 
+ (d) Power dissipation occur only during 1/3rd period in a cycle. Mean power di 
+      ssipation (W)                                                             
+ 
+    8.6666667  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.17/Ex_1_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I^2*t rating in A^2-seconds    
+ 
+    20000.  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.18/Ex_1_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vg  =
+ 
+    7.8654599  
+ 
+ 
+ 
+ Series resistance Rg in ohm   
+ 
+    5.4200099  
+ 
+ 
+ 
+ Average power loss in W    
+ 
+    1.8  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.19/Ex_1_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Source resistance, Rs in ohm    
+ 
+    100.  
+ 
+ 
+ Trigger current in mA    
+ 
+    35.505103  
+ 
+ 
+ 
+ Voltage Vg in V    
+ 
+    8.4494897  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.1/Ex_1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anode current in A :    
+ 
+    0.064  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.20/Ex_1_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of Rs in ohm    
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R1 must be more than 100 ohm and less than 172 ohm.   
+ 
+ 
+ Let R1 is 125 ohm.   
+ 
+ 
+ 
+ 
+ 
+ R2<=48.333333 ohm    
+ 
+ 
+ Let R2 is 48 ohm.   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.21/Ex_1_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Temperature of the surface in degree C    
+ 
+    57.272727  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.22/Ex_1_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum losses in W    
+ 
+    528.  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.23/Ex_1_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thermal resistance of heat sink in degree C/W    
+ 
+    1.2  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.24/Ex_1_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of heat sink in degree C/W   
+ 
+    1.325  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.25/Ex_1_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of heat sink in degree C/W   
+ 
+    1.325  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.26/Ex_1_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Average power loss in W   
+ 
+    40.909091  
+ 
+ 
+ 
+ 
+ 
+ (b) Permisible average power loss in W   
+ 
+    68.181818  
+ 
+ 
+ 
+ Percentage increase in rating   
+ 
+    29.099445  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.27/Ex_1_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum firing angle in degree   
+ 
+    25.367568  
+ 
+ 
+ Maximum firing angle in degree   
+ 
+    92.587964  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.28/Ex_1_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    0.02  
+ 
+ 
+ 
+ 
+ Suitable value of C in micro F    
+ 
+    0.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of R should be lie between 2850 ohm to 1134000 ohm   
+ 
+ 
+ 
+ Suitale value of R in ohm    
+ 
+    50289.048  
+ 
+ 
+ 
+ Suitale value of R4 in ohm    
+ 
+    125000.  
+ 
+ 
+ 
+ Suitale value of R3 in ohm    
+ 
+    496.03175  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.29/Ex_1_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of R should be less than 700 ohm   
+ 
+ 
+ 
+ Let value of C in micro F    
+ 
+    0.5  
+ 
+ T  =
+ 
+    0.0005  
+ 
+ 
+ 
+ For C=0.5 micro F, calculated value of R 1091.3567 ohm. But it is not suitable 
+ 
+ 
+ 
+ Let value of C in micro F    
+ 
+    1.  
+ 
+ 
+ 
+ For C=1 micro F, calculated value of R 545.67833 ohm. It is suitable   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.2/Ex_1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of depletion layer in F :    
+ 
+    4.211D-11  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.30/Ex_1_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum firing angle in degree   
+ 
+    8.7554301  
+ 
+ 
+ Maximum firing angle in degree   
+ 
+    74.086865  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.31/Ex_1_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum value of R should be 0.8944272 ohm   
+ 
+ 
+ Given value of R is 0.8 ohm. The circuit is underdamped.   
+ 
+ 
+ 
+ Time of conduction of thyristor in seconds   
+ 
+    0.0001571  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.32/Ex_1_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of L(H)   
+ 
+    0.0001432  
+ 
+ 
+ Value of C(F)   
+ 
+    0.0000045  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.33/Ex_1_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of C(F)   
+ 
+    0.0000072  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.34/Ex_1_34.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of C(F)   
+ 
+    0.000024  
+ 
+ 
+ 
+ 
+ 
+ Value of L should be greater than 0.00015 H. For this value of L, Peak capacit 
+      or current is 40 A. But it should be less than maximum load current.      
+ 
+ 
+ 
+ 
+ 
+ Value of L(H)   
+ 
+    0.0002005  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.35/Ex_1_35.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T_off is 0.0001 seconds. It is greater than thristor turn off time, so it is s 
+      ufficient for communication.                                              
+ 
+ 
+ 
+ Current rating(A)   
+ 
+    31.622777  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.36/Ex_1_36.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of C(F)   
+ 
+    0.0000001  
+ 
+ 
+ Value of R(ohm)   
+ 
+    50.107925  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.37/Ex_1_37.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    0.0000001  
+ 
+ 
+ Value of R(ohm)   
+ 
+    3.  
+ 
+ 
+ Value of C(F)   
+ 
+    0.0000001  
+ 
+ 
+ 
+ Power loss in snubber circuit(W)   
+ 
+    10.097041  
+ 
+ 
+ Power rating of resitance is 10.097041 W as all energy will be disspated in th 
+      e resistance.                                                             
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.38/Ex_1_38.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum permissible value of di/dt(A/s)   
+ 
+    50000000.  
+ 
+ 
+ Maximum permissible value of dv/dt(V/s)   
+ 
+    2.125D+08  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.39/Ex_1_39.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of L(H)   
+ 
+    0.0000163  
+ 
+ 
+ 
+ Value of R(ohm)   
+ 
+    3.75  
+ 
+ 
+ 
+ 
+ 
+ Total current through capacitor for these values(A)   
+ 
+    127.39707  
+ 
+ 
+ Itotal>Ip, therefore value of R should be increased.   
+ 
+ 
+ 
+ 
+ 
+ New Value of R(ohm)   
+ 
+    6.  
+ 
+ 
+ 
+ 
+ Value of C(micro F)   
+ 
+    0.7634789  
+ 
+ 
+ Value of L(micro H)   
+ 
+    16.263456  
+ 
+ 
+ 
+ 
+ Value of dv/dt is 30431107 V/s. It is within the limit for the calculated valu 
+      e of R, L & C. Design is safe.                                            
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.3/Ex_1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) When thyristor is in off state, Output voltage in V   
+ 
+    20.  
+ 
+ 
+ 
+ 
+ (b) Voltage necessary to turn on the thyristor in V   
+ 
+    14.75  
+ 
+ 
+ 
+ 
+ (c) Current through thyristor should be less than holding current. Voltage sho 
+      uld be reduced to less than 1 V                                           
+ 
+ 
+ 
+ 
+ (d) VCC should be reduced to less than 1.7 V   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.40/Ex_1_40.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fault ing time in seconds   
+ 
+    0.0022763  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.4/Ex_1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VG in V   
+ 
+    3.824154  
+ 
+ 
+ IG in A   
+ 
+    0.3137949  
+ 
+ 
+ RG in ohm   
+ 
+    67.483081  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.5/Ex_1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Width of pulse should be more than 8 milli-seconds.   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.6/Ex_1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum width of gate pulse is 2.5062709 milli-seconds.   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.7/Ex_1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current in the circuit is 0.0071928 A, it is less than latchig current, the th 
+      yristor will not turn on.                                                 
+ 
+ 
+ 
+ Maximum value of R is 2743.3007 ohm.   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.8/Ex_1_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum value of R is 2499.3756 ohm.   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH1/EX1.9/Ex_1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For no current transient, triggering angle in degree   
+ 
+    72.343213  
+ 
+ 
+ 
+ 
+ For worst current transient, triggering angle in degree   
+ 
+    162.34321  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.10/Ex_2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Turn ratio of transformer   
+ 
+    1.7343352  
+ 
+ 
+ 
+ 
+ (b) Transformer rating in VA   
+ 
+    1989.2348  
+ 
+ 
+ 
+ (c) PIV in V   
+ 
+    187.54685  
+ 
+ 
+ (d) RMS value of thyristor current in A   
+ 
+    10.606602  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.11/Ex_2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    103.53638  
+ 
+ 
+ Vdc in V   
+ 
+    103.53638  
+ 
+ 
+ 
+ Vrms in V   
+ 
+    162.63456  
+ 
+ 
+ 
+ Form factor   
+ 
+    1.5707963  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.12/Ex_2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    103.53638  
+ 
+ 
+ Vdc in V   
+ 
+    103.53638  
+ 
+ 
+ 
+ Vrms in V   
+ 
+    162.63456  
+ 
+ 
+ 
+ 
+ 
+ Harmonic factor   
+ 
+    0.4834258  
+ 
+ 
+ 
+ 
+ Displacement factor   
+ 
+    0.7071068  
+ 
+ 
+ 
+ Power factor(lagging)   
+ 
+    0.6366198  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.13/Ex_2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    103.53638  
+ 
+ 
+ Vdc in V   
+ 
+    103.53638  
+ 
+ 
+ 
+ Vrms in V   
+ 
+    230.  
+ 
+ 
+ 
+ 
+ 
+ Harmonic factor   
+ 
+    0.4834258  
+ 
+ 
+ 
+ 
+ Displacement factor   
+ 
+    0.5  
+ 
+ 
+ 
+ Power factor(lagging)   
+ 
+    0.4501582  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.14/Ex_2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ part (a)   
+ 
+ 
+ Vdc  =
+ 
+    179.33026  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dc output voltage(V)   
+ 
+    179.33026  
+ 
+ 
+ Active power input(W)   
+ 
+    717.32106  
+ 
+ 
+ Reactive power input(vars)   
+ 
+    414.14551  
+ 
+ 
+ Appearent power input(VA)   
+ 
+    828.29101  
+ 
+ 
+ part (b)   
+ 
+ Vdc  =
+ 
+    193.20151  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dc output voltage(V)   
+ 
+    193.20151  
+ 
+ 
+ Active power input(W)   
+ 
+    832.58279  
+ 
+ 
+ Reactive power input(vars)   
+ 
+    223.08989  
+ 
+ 
+ Appearent power input(VA)   
+ 
+    861.95313  
+ 
+ 
+ part (c)   
+ 
+ Vdc  =
+ 
+    96.600754  
+ 
+ 
+ 
+ dc output voltage(V)   
+ 
+    96.600754  
+ 
+ 
+ dc output current(A)   
+ 
+    2.1547005  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.15/Ex_2_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    179.33026  
+ 
+ 
+ (a) dc output voltage(V)   
+ 
+    179.33026  
+ 
+ 
+ 
+ (b) Irms in A   
+ 
+    10.  
+ 
+ 
+ 
+ (c) Fundamental component of input current in A   
+ 
+    9.0031632  
+ 
+ 
+ 
+ (d) Displacement fator   
+ 
+    0.8660254  
+ 
+ 
+ 
+ (e) Input power fator(lagging)   
+ 
+    0.7796968  
+ 
+ 
+ 
+ (f) Harmonic factor   
+ 
+    0.4834258  
+ 
+ 
+ 
+ 
+ 
+ (g) Ripple factor   
+ 
+    0.8030779  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.16/Ex_2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    162.05694  
+ 
+ 
+ (a) average load voltage(V)   
+ 
+    162.05694  
+ 
+ 
+ 
+ 
+ 
+ (b) rms input current(A)   
+ 
+    13.231893  
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Input power fator(lagging)   
+ 
+    0.8269933  
+ 
+ 
+ 
+ (d) Average power dissipated(W)   
+ 
+    2626.2451  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.17/Ex_2_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ alfa  =
+ 
+    48.207688  
+ 
+ 
+ Firing angle in degree   
+ 
+    48.207688  
+ 
+ 
+ 
+ Apparent power(VA)   
+ 
+    138564.06  
+ 
+ 
+ 
+ Active power(W)   
+ 
+    92343.588  
+ 
+ 
+ 
+ Rective power(vars)   
+ 
+    103308.58  
+ 
+ 
+ 
+ 
+ 
+ 
+ When variation is +10%, firing angle(degree)   
+ 
+    52.710135  
+ 
+ 
+ When variation is -10%, firing angle(degree)   
+ 
+    42.227638  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.18/Ex_2_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    270.09489  
+ 
+ 
+ 
+ Output power, Pdc(W)   
+ 
+    40514.234  
+ 
+ 
+ 
+ Average thyristor current(A)   
+ 
+    50.  
+ 
+ 
+ 
+ RMS value of thyristor current(A)   
+ 
+    86.60254  
+ 
+ 
+ 
+ Peak current through thyristor(A)   
+ 
+    150.  
+ 
+ 
+ 
+ Peak inverse voltage(V)   
+ 
+    565.68542  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.19/Ex_2_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Converter firing angle(degree)   
+ 
+    34.837695  
+ 
+ 
+ 
+ dc power(kW)   
+ 
+    92.  
+ 
+ 
+ 
+ AC line current(A)   
+ 
+    163.29932  
+ 
+ 
+ 
+ 
+ RMS value of thyristor current(A)   
+ 
+    115.47005  
+ 
+ 
+ 
+ Average thyristor current(A)   
+ 
+    66.666667  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.1/Ex_2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average load voltage(V) :    
+ 
+    118.79487  
+ 
+ 
+ 
+ Average load current(A) :    
+ 
+    2.3758973  
+ 
+ 
+ 
+ rms load voltage(V) :    
+ 
+    197.09546  
+ 
+ 
+ 
+ rms load current(A) :    
+ 
+    3.9419093  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.20/Ex_2_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Firing angle(degree)   
+ 
+    47.461079  
+ 
+ 
+ 
+ 
+ 
+ Input power factor(lagging)   
+ 
+    0.6456192  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.21/Ex_2_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Firing angle(degree)   
+ 
+    90.  
+ 
+ 
+ 
+ Average output current(A)   
+ 
+    27.009489  
+ 
+ 
+ 
+ 
+ RMS output voltage(V)   
+ 
+    346.41016  
+ 
+ 
+ RMS output current(A)   
+ 
+    34.641016  
+ 
+ 
+ 
+ Average thyristor current(A)   
+ 
+    9.0031632  
+ 
+ 
+ 
+ RMS thyristor current(A)   
+ 
+    20.  
+ 
+ 
+ 
+ Rectification Efficiency(%)   
+ 
+    60.79271  
+ 
+ 
+ 
+ 
+ 
+ Transformer utilisation factor   
+ 
+    0.3722778  
+ 
+ 
+ 
+ 
+ Input power factor(lagging)   
+ 
+    0.6123724  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.22/Ex_2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Firing angle in degree   
+ 
+    60.  
+ 
+ 
+ 
+ Average output current(A)   
+ 
+    27.009489  
+ 
+ 
+ 
+ 
+ RMS output voltage(V)   
+ 
+    306.33402  
+ 
+ 
+ RMS output current(A)   
+ 
+    30.633402  
+ 
+ 
+ 
+ Average thyristor current(A)   
+ 
+    9.0031632  
+ 
+ 
+ 
+ RMS thyristor current(A)   
+ 
+    17.686203  
+ 
+ 
+ 
+ Rectification Efficiency(%)   
+ 
+    77.739597  
+ 
+ 
+ 
+ 
+ 
+ Transformer utilisation factor   
+ 
+    0.4209810  
+ 
+ 
+ 
+ 
+ Input power factor(lagging)   
+ 
+    0.5415272  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.25/Ex_2_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Firing angle(degree)   
+ 
+    50.113047  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.2/Ex_2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average current in the circuit(A) :    
+ 
+    1.0899778  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.3/Ex_2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average current in the circuit(A) :    
+ 
+    2.4953541  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.4/Ex_2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdc(V) :    
+ 
+    51.768188  
+ 
+ 
+ 
+ Idc(A) :    
+ 
+    3.4512125  
+ 
+ 
+ 
+ Vrms(V) :    
+ 
+    115.  
+ 
+ 
+ 
+ Irms(A) :    
+ 
+    7.6666667  
+ 
+ 
+ 
+ Pdc(W) :    
+ 
+    178.66302  
+ 
+ 
+ 
+ Pac(W) :    
+ 
+    881.66667  
+ 
+ 
+ 
+ Rectification efficiency(unitless) :    
+ 
+    0.2026424  
+ 
+ 
+ 
+ Form factor(unitless) :    
+ 
+    2.2214415  
+ 
+ 
+ 
+ Ripple factor(unitless) :    
+ 
+    1.9836336  
+ 
+ 
+ 
+ VoltAmpere rating(VA) :    
+ 
+    1763.3333  
+ 
+ 
+ 
+ Transformer utilization factor(unitless) :    
+ 
+    0.1013212  
+ 
+ 
+ 
+ Peak Inverse Voltage across thyristor(V) :    
+ 
+    325.26912  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.5/Ex_2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average dc Voltage(V) :    
+ 
+    115.27021  
+ 
+ 
+ 
+ Average load current(A) :    
+ 
+    3.8423402  
+ 
+ 
+ 
+ rms load Voltage(V) :    
+ 
+    143.02443  
+ 
+ 
+ 
+ rms load current(A) :    
+ 
+    4.7674808  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.6/Ex_2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Turn ratio of transformer   
+ 
+    1.7766508  
+ 
+ 
+ 
+ 
+ (b) Transformer rating in VA   
+ 
+    2746.199  
+ 
+ 
+ 
+ (c) PIV in V   
+ 
+    366.15987  
+ 
+ 
+ (d) RMS value of thyristor current in A   
+ 
+    10.606602  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.7/Ex_2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Voltage rating of thristor in V   
+ 
+    1263.4371  
+ 
+ 
+ 
+ 
+ (b) Voltage rating of thristor in V   
+ 
+    631.71853  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.8/Ex_2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Firing angle in degree   
+ 
+    58.725337  
+ 
+ 
+ 
+ 
+ (b) Firing angle in degree   
+ 
+    116.53234  
+ 
+ 
+ Part(c)   
+ 
+ 
+ 
+ 
+ 
+ 
+ When E=100, input power factor(lagging)   
+ 
+    0.4673913  
+ 
+ 
+ 
+ 
+ 
+ When E=-100, input power factor(lagging)   
+ 
+    0.4021739  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH2/EX2.9/Ex_2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average value of load current in A   
+ 
+    21.725386  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.1/Ex_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As R^2<4*L/C, Circuit will work as a series inverter.   
+ 
+ 
+ 
+ 
+ Maximum frequency in Hz :    
+ 
+    1416.0915  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.2/Ex_3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency of output in Hz :    
+ 
+    1362.0841  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.3/Ex_3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) RMS value of output voltage(V) :    
+ 
+    13.504745  
+ 
+ 
+ 
+ 
+ 
+ (b) Output power(W) :    
+ 
+    75.  
+ 
+ 
+ 
+ (c) Peak current in thyristor(A) :    
+ 
+    5.  
+ 
+ 
+ 
+ (d) Average current of each thyristor(A) :    
+ 
+    2.5  
+ 
+ 
+ 
+ (e) Peak reverse braking voltage(V) :    
+ 
+    30.  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.4/Ex_3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) RMS value of output voltage in volt :    
+ 
+    27.009489  
+ 
+ 
+ 
+ 
+ 
+ (b) Output power(W) :    
+ 
+    300.  
+ 
+ 
+ 
+ (c) Peak current in thyristor(A) :    
+ 
+    10.  
+ 
+ 
+ 
+ (d) Average current of each thyristor(A) :    
+ 
+    5.  
+ 
+ 
+ 
+ (e) Peak reverse braking voltage(V) :    
+ 
+    30.  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.5/Ex_3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RMS load current(A)   
+ 
+    6.5632201  
+ 
+ 
+ 
+ Peak value of load current(A)   
+ 
+    11.563239  
+ 
+ 
+ 
+ RMS harmonic current(A)   
+ 
+    4.8763093  
+ 
+ 
+ 
+ Harmonic distortion(%)   
+ 
+    74.297512  
+ 
+ 
+ 
+ 
+ Total output power(W)   
+ 
+    668.5425  
+ 
+ 
+ 
+ Fundamental component of power(W)   
+ 
+    430.75858  
+ 
+ 
+ 
+ Average input current(A)   
+ 
+    3.3427125  
+ 
+ 
+ 
+ Peak thyristor current(A)   
+ 
+    11.563239  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.6/Ex_3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of Capacitance in F :    
+ 
+    0.0000036  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.7/Ex_3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RMS load current in A :    
+ 
+    16.329932  
+ 
+ 
+ 
+ Power output(W) :    
+ 
+    8000.  
+ 
+ 
+ 
+ Average thyristor current(A) :    
+ 
+    6.6666667  
+ 
+ 
+ 
+ RMS value of thyristor current(A) :    
+ 
+    11.547005  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH3/EX3.8/Ex_3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RMS load current in A :    
+ 
+    18.856181  
+ 
+ 
+ 
+ Power output(W):    
+ 
+    10666.667  
+ 
+ 
+ 
+ 
+ Average thyristor current(A) :    
+ 
+    8.8888889  
+ 
+ 
+ 
+ RMS value of thyristor current(A) :    
+ 
+    13.333333  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.10/Ex_4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average load voltage(V)   
+ 
+    164.28571  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.11/Ex_4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum current(A)   
+ 
+    101.29608  
+ 
+ 
+ Minimum current(A)   
+ 
+    37.264745  
+ 
+ 
+ 
+ Average load current(A)   
+ 
+    69.280411  
+ 
+ 
+ 
+ Average load voltage(V)   
+ 
+    33.333333  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.12/Ex_4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum current(A)   
+ 
+    245.12957  
+ 
+ 
+ Minimum current(A)   
+ 
+    172.73989  
+ 
+ 
+ 
+ Average load voltage(V)   
+ 
+    41.666667  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.13/Ex_4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Series inductance(H)   
+ 
+    0.03125  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.14/Ex_4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Motor speed(rpm)   
+ 
+    151.3201  
+ 
+ 
+ 
+ 
+ Current swing(A)   
+ 
+    3.2  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.17/Ex_4_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum value required of alfa   
+ 
+    0.1094937  
+ 
+ 
+ Actual value of alfa   
+ 
+    0.3  
+ 
+ 
+ Load current is continuous as alfa_actual>alfa_min   
+ 
+ 
+ 
+ 
+ Maximum current(A)   
+ 
+    22.126501  
+ 
+ 
+ Minimum current(A)   
+ 
+    17.929438  
+ 
+ 
+ 
+ Average load current(A)   
+ 
+    20.  
+ 
+ 
+ 
+ Average input current(A)   
+ 
+    6.0146861  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.18/Ex_4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RMS value of 1st harmonic of load current(A)   
+ 
+    1.1568968  
+ 
+ 
+ 
+ 
+ RMS value of 2nd harmonic of load current(A)   
+ 
+    0.3405193  
+ 
+ 
+ 
+ 
+ RMS value of 3rd harmonic of load current(A)   
+ 
+    0.0491878  
+ 
+ 
+ 
+ 
+ RMS value of load current(A)   
+ 
+    15.048481  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.19/Ex_4_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Period of conduction(seconds)   
+ 
+    0.00015  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.1/Ex_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Periods of conduction & blocking(seconds)   
+ 
+    0.0006522  
+ 
+    0.0003478  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.20/Ex_4_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Period of conduction(seconds)   
+ 
+    0.0006667  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.2/Ex_4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Periods of conduction & blocking(seconds)   
+ 
+    0.0010135  
+ 
+    0.0009865  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.3/Ex_4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Duty cycle   
+ 
+    0.7604167  
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) Duty cycle   
+ 
+    0.7395833  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.4/Ex_4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Average output voltage(V)   
+ 
+    79.2  
+ 
+ 
+ 
+ (b) RMS output voltage(V)   
+ 
+    125.2262  
+ 
+ 
+ 
+ 
+ 
+ (c) Chopper efficiency(%)   
+ 
+    99.  
+ 
+ 
+ 
+ (d) Input resistance(ohm)   
+ 
+    20.  
+ 
+ 
+ 
+ (e) RMS value of fundamental component(V)   
+ 
+    89.131315  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.5/Ex_4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chopping frequency(pulses/s)   
+ 
+    150.  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.6/Ex_4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum current(A)   
+ 
+    29.12851  
+ 
+ 
+ Minimum current(A)   
+ 
+    20.87149  
+ 
+ 
+ 
+ Average load current(A)   
+ 
+    25.  
+ 
+ 
+ 
+ RMS load current(A)   
+ 
+    25.113374  
+ 
+ 
+ 
+ Average input current(A)   
+ 
+    12.5  
+ 
+ 
+ 
+ RMS input current(A)   
+ 
+    17.757837  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.7/Ex_4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Load Inductance(H)   
+ 
+    0.05  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.8/Ex_4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current at instant of turn off(A)   
+ 
+    21.511518  
+ 
+ 
+ 
+ 
+ Current 5 ms after turn off(A)   
+ 
+    18.399776  
+ 
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH4/EX4.9/Ex_4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Speed of the motor(rpm)   
+ 
+    509.09091  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH6/EX6.1/Ex_6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required hp(rms)   
+ 
+    94.744238  
+ 
+ 
+ Motor size should be 100 hp   
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH6/EX6.2/Ex_6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.   
+    0.5  
+ 
+ 
+ 
+ 
+ Thermal time constant(minutes)   
+ 
+    57.707802  
+ 
+ 
+ 
+ Final temperature rise(degree C)   
+ 
+    60.  
+ 
+ 
+ 
+ 
+ 
+ 20 minute rating of motor(kW)   
+ 
+    69.36156  
+ 
+ 
+grepthis#Introduction_To_Electric_Drives_V._Singhal_2231/CH6/EX6.3/Ex_6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Field current(A)   
+ 
+    1.0353638  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Firing angle of armture circuit(degree)   
+ 
+    94.0776  
+ 
+ 
+ 
+ 
+ 
+ 
+ Input power factor(lagging)   
+ 
+    0.6052205  
+ 
+ 

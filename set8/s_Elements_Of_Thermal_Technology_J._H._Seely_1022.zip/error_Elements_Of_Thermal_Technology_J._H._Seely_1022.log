@@ -1,0 +1,70 @@
+ERROR: Elements_Of_Thermal_Technology_J._H._Seely_1022/CH14/EX14.7/14_7.sce
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ T  =
+ 
+    11.  
+ 
+ Csf  =
+ 
+    0.006  
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ s  =
+ 
+    1.  
+ 
+ cl  =
+ 
+    4.218  
+ 
+ hfg  =
+ 
+    2257.  
+ 
+ Pr  =
+ 
+    1.75  
+ 
+ ul  =
+ 
+    0.2831  
+ 
+ s  =
+ 
+    0.05778  
+ 
+ pl  =
+ 
+    958000.  
+ 
+ pv  =
+ 
+    598.  
+ 
+ gc  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ p  =
+ 
+    957402.  
+ 
+q= ((((cl*dt)/(hfg*Csf*Pr^s))^(1/r))*(ul*hfg))/(gc/(g*p))^(1/2)
+            !--error 4 
+Undefined variable: dt
+at line      19 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Thermal_Technology_J._H._Seely_1022/CH14/EX14.7/14_7.sce',-1)
+ 

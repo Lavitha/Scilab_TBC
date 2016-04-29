@@ -1,0 +1,4634 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 92
+
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH2/EX2.1/2_1.sce #
+ 
+ 
+ g  =
+ 
+    1.4  
+ 
+ P  =
+ 
+    100.  
+ 
+ V1  =
+ 
+    3.  
+ 
+ Pf  =
+ 
+    20.  
+ 
+ 
+ V2  =
+ 
+    9.4707755  
+ 
+ W  =
+ 
+    39810.416  
+ 
+ 
+Net work done = 39810 ft 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH2/EX2.2/2_2.sce #
+ 
+ 
+ Wb  =
+ 
+  - 33000.  
+ 
+ V2  =
+ 
+    3.  
+ 
+ V1  =
+ 
+    1.  
+ 
+ P  =
+ 
+    69.4  
+ 
+ 
+ Wa  =
+ 
+    19987.2  
+ 
+ W  =
+ 
+  - 13012.8  
+ 
+ 
+Net work done = -13012 ft-lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH2/EX2.3/2_3.sce #
+ 
+ 
+ b  =
+ 
+    11.  
+ 
+ s  =
+ 
+    15.  
+ 
+ l  =
+ 
+    2.4  
+ 
+ k  =
+ 
+    80.  
+ 
+ 
+ a  =
+ 
+    95.033178  
+ 
+ L  =
+ 
+    1.25  
+ 
+ Pm  =
+ 
+    53.333333  
+ 
+ W  =
+ 
+    6335.5452  
+ 
+ 
+Net work done = 6335 ft lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH3/EX3.1/3_1.sce #
+ 
+ 
+ T1  =
+ 
+    500.  
+ 
+ T2  =
+ 
+    100.  
+ 
+ Tf  =
+ 
+    75.  
+ 
+ cpi  =
+ 
+    0.12  
+ 
+ cpw  =
+ 
+    1.  
+ 
+ 
+ Qw  =
+ 
+    25.  
+ 
+ Qi  =
+ 
+    48.  
+ 
+ mw  =
+ 
+    1.92  
+ 
+ 
+Mass of water = 1.92 lb water/lb iron 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH3/EX3.2/3_2.sce #
+ 
+ 
+ m  =
+ 
+    5.  
+ 
+ T1  =
+ 
+    2000.  
+ 
+ T2  =
+ 
+    1000.  
+ 
+ 
+ 
+ Q  =
+ 
+  - 1292.2667  
+ 
+ 
+Heat transferred = -1292 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH3/EX3.3/3_3.sce #
+ 
+ 
+ Tm  =
+ 
+    235.  
+ 
+ Tb  =
+ 
+    832.  
+ 
+ T  =
+ 
+    70.  
+ 
+ cps  =
+ 
+    0.18  
+ 
+ cpl  =
+ 
+    0.235  
+ 
+ Lf  =
+ 
+    15.8  
+ 
+ Lv  =
+ 
+    120.  
+ 
+ m  =
+ 
+    10.  
+ 
+ 
+ Qa  =
+ 
+    297.  
+ 
+ Qb  =
+ 
+    158.  
+ 
+ Qc  =
+ 
+    1402.95  
+ 
+ Qd  =
+ 
+    1200.  
+ 
+ Q  =
+ 
+    3057.95  
+ 
+ 
+Heat required = 3057 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH3/EX3.4/3_4.sce #
+ 
+ 
+ T1  =
+ 
+    22.  
+ 
+ T2  =
+ 
+    32.  
+ 
+ T3  =
+ 
+    40.  
+ 
+ T4  =
+ 
+    70.  
+ 
+ cps  =
+ 
+    0.501  
+ 
+ cpw  =
+ 
+    1.  
+ 
+ Lf  =
+ 
+    143.3  
+ 
+ m  =
+ 
+    40.  
+ 
+ 
+ Qa  =
+ 
+    5.01  
+ 
+ Qb  =
+ 
+    143.3  
+ 
+ Qc  =
+ 
+    8.  
+ 
+ Qd  =
+ 
+  - 1200.  
+ 
+ mi  =
+ 
+    7.677052  
+ 
+ 
+Mass of ice required  = 7.68 lb ice 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH3/EX3.5/3_5.sce #
+ 
+ 
+ T1  =
+ 
+    22.  
+ 
+ T2  =
+ 
+    32.  
+ 
+ T3  =
+ 
+    40.  
+ 
+ T4  =
+ 
+    70.  
+ 
+ cps  =
+ 
+    0.501  
+ 
+ cpw  =
+ 
+    1.  
+ 
+ Lf  =
+ 
+    143.3  
+ 
+ m  =
+ 
+    40.  
+ 
+ cp  =
+ 
+    0.092  
+ 
+ mc  =
+ 
+    10.  
+ 
+ 
+ Qa  =
+ 
+    5.01  
+ 
+ Qb  =
+ 
+    143.3  
+ 
+ Qc  =
+ 
+    8.  
+ 
+ Qe  =
+ 
+  - 27.6  
+ 
+ mi  =
+ 
+    0.1765722  
+ 
+ 
+Extra Mass of ice required  = 0.177 lb ice 
+ 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH5/EX5.1/5_1.sce #
+ 
+ 
+ V1  =
+ 
+    10.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ V2  =
+ 
+    5.  
+ 
+ H  =
+ 
+    34.7  
+ 
+ 
+ W  =
+ 
+  - 10800.  
+ 
+ dE  =
+ 
+  - 20.818252  
+ 
+ 
+Internal energy change = -20.8 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH5/EX5.2/5_2.sce #
+ 
+ 
+ dT  =
+ 
+    35.  
+ 
+ H  =
+ 
+    34.  
+ 
+ cv  =
+ 
+    1.2  
+ 
+ m  =
+ 
+    2.  
+ 
+ 
+ U  =
+ 
+    84.  
+ 
+ W  =
+ 
+  - 50.  
+ 
+ 
+Work done = -50 Btu 
+
+ Internal energy change = 84.0 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH5/EX5.3/5_3.sce #
+ 
+ 
+ p  =
+ 
+    500.  
+ 
+ V2  =
+ 
+    0.9278  
+ 
+ V1  =
+ 
+    0.0197  
+ 
+ h2  =
+ 
+    1204.4  
+ 
+ h1  =
+ 
+    449.4  
+ 
+ 
+ W  =
+ 
+    65383.2  
+ 
+ du  =
+ 
+    670.9599  
+ 
+ du2  =
+ 
+    670.9599  
+ 
+ 
+Change in internal energy = 671.0 Btu 
+
+ Method 2, Internal energy change = 671.0 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH5/EX5.4.b/5_4b.sce #
+ 
+ 
+ P1  =
+ 
+    75.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ V1  =
+ 
+    6.  
+ 
+ g  =
+ 
+    1.2  
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ Q  =
+ 
+    30.  
+ 
+ V2  =
+ 
+    22.941735  
+ 
+ U  =
+ 
+  - 50.81951  
+ 
+ W  =
+ 
+    80.81951  
+ 
+ 
+Work done = 80.8  Btu 
+ 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH5/EX5.4.a/5_4.sce #
+ 
+ 
+ P1  =
+ 
+    75.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ V1  =
+ 
+    6.  
+ 
+ g  =
+ 
+    1.2  
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ V2  =
+ 
+    22.941735  
+ 
+ U  =
+ 
+  - 50.81951  
+ 
+ W  =
+ 
+    97.98106  
+ 
+ Q  =
+ 
+    47.16155  
+ 
+ 
+Heat = 47.162 Btu 
+ 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH6/EX6.1/6_1.sce #
+ 
+ 
+ u1  =
+ 
+    1111.9  
+ 
+ P1  =
+ 
+    170.  
+ 
+ v1  =
+ 
+    2.675  
+ 
+ v2  =
+ 
+    100.9  
+ 
+ z1  =
+ 
+    10.  
+ 
+ V1  =
+ 
+    100.  
+ 
+ Q  =
+ 
+  - 1000.  
+ 
+ u2  =
+ 
+    914.6  
+ 
+ P2  =
+ 
+    3.  
+ 
+ V2  =
+ 
+    300.  
+ 
+ rate  =
+ 
+    2500.  
+ 
+ 
+ Wx  =
+ 
+    558647.7  
+ 
+ f  =
+ 
+    0.000392  
+ 
+ 
+Power output of turbine = 558647 B/hr 
+
+ Power output in hp = 219 hp 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH6/EX6.2/6_2.sce #
+ 
+ 
+ w1  =
+ 
+    500.  
+ 
+ h1  =
+ 
+    132.9  
+ 
+ h2  =
+ 
+    1150.  
+ 
+ h3  =
+ 
+    180.  
+ 
+ 
+ w2  =
+ 
+    24.278351  
+ 
+ 
+Flow rate = 24.3 lb/min 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH6/EX6.3/6_3.sce #
+ 
+ 
+ v2  =
+ 
+    5.434  
+ 
+ v1  =
+ 
+    4.937  
+ 
+ h1  =
+ 
+    1227.6  
+ 
+ h2  =
+ 
+    1223.9  
+ 
+ A1  =
+ 
+    0.0218166  
+ 
+ 
+ Vratio  =
+ 
+    1.1006684  
+ 
+ V1  =
+ 
+    936.28531  
+ 
+ V2  =
+ 
+    1030.5397  
+ 
+ w  =
+ 
+    4.1374472  
+ 
+ 
+Average velocity at 1 = 936 fps 
+
+ Average velocity at 2 = 1030 fps 
+
+ Rate of flow = 4.14 lb/sec 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH8/EX8.1/8_1.sce #
+ 
+ 
+ T1  =
+ 
+    545.  
+ 
+ T2  =
+ 
+    510.  
+ 
+ 
+ eta  =
+ 
+    0.0642202  
+ 
+ 
+Max. efficiency = 6.4 percent 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH8/EX8.2/8_2.sce #
+ 
+ 
+ T1  =
+ 
+    1510.  
+ 
+ T2  =
+ 
+    550.  
+ 
+ 
+ eta  =
+ 
+    0.6357616  
+ 
+ 
+Max. possible efficiency = 63 percent 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH8/EX8.3/8_3.sce #
+ 
+ 
+ T1  =
+ 
+    510.  
+ 
+ T2  =
+ 
+    610.  
+ 
+ m  =
+ 
+    1.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ ds  =
+ 
+    0.0429716  
+ 
+ 
+Change in entropy = 0.0430 B/ F abs 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH8/EX8.4/8_4.sce #
+ 
+ 
+ T1  =
+ 
+    510.  
+ 
+ T2  =
+ 
+    610.  
+ 
+ m  =
+ 
+    1.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ ds  =
+ 
+    0.0429716  
+ 
+ 
+Change in entropy = 0.0430 B/ F abs 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH8/EX8.5/8_5.sce #
+ 
+ 
+ Q  =
+ 
+    826.  
+ 
+ T  =
+ 
+    860.  
+ 
+ T1  =
+ 
+    2460.  
+ 
+ T2  =
+ 
+    1460.  
+ 
+ 
+ ds  =
+ 
+    0.9604651  
+ 
+ dsgas  =
+ 
+  - 0.4309448  
+ 
+Warning : redefining function: dst                     . Use funcprot(0) to avoid this message
+
+ dst  =
+ 
+    0.5295203  
+ 
+ 
+Total entropy change = 0.530 B/R 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH8/EX8.6/8_6.sce #
+ 
+ 
+ T0  =
+ 
+    540.  
+ 
+ Q  =
+ 
+    826.  
+ 
+ ds  =
+ 
+    0.534  
+ 
+ ds2  =
+ 
+    0.431  
+ 
+ 
+ tds  =
+ 
+    288.36  
+ 
+ tds2  =
+ 
+    232.74  
+ 
+ H  =
+ 
+    593.26  
+ 
+ Loss  =
+ 
+    0.4860601  
+ 
+ 
+Loss = 49 percent 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.1/10_1.sce #
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ hfg  =
+ 
+    888.8  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ vg  =
+ 
+    4.432  
+ 
+ vf  =
+ 
+    0.001774  
+ 
+ W  =
+ 
+    63795.254  
+ 
+ ufg  =
+ 
+    807.1  
+ 
+ W  =
+ 
+    81.7  
+ 
+ sfg  =
+ 
+    1.1286  
+ 
+ Q  =
+ 
+    889.3368  
+ 
+ 
+Work done = 81.7 B/lb 
+
+ Heat of vaporization of water = 889 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.2/10_2.sce #
+ 
+ 
+ s  =
+ 
+    1.6315  
+ 
+ 
+ 
+ From table 1    
+ 
+ h  =
+ 
+    1180.6  
+ 
+ t  =
+ 
+    302.92  
+ 
+ p  =
+ 
+    70.  
+ 
+ 
+Pressure = 70 psia 
+
+ Temperature = 302.92 F 
+
+ Enthalpy = 1180.6 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.3/10_3.sce #
+ 
+ 
+ T  =
+ 
+    250.  
+ 
+ 
+ From table 1,   
+ 
+ p  =
+ 
+    29.825  
+ 
+ hg  =
+ 
+    1164.  
+ 
+ vg  =
+ 
+    13.821  
+ 
+ 
+ ug  =
+ 
+    1087.7038  
+ 
+ 
+Internal energy of the gas = 1087.7 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.4/10_4.sce #
+ 
+ 
+ x  =
+ 
+    0.4  
+ 
+ P  =
+ 
+    100.  
+ 
+ 
+ y  =
+ 
+    0.6  
+ 
+ 
+ From table 2,   
+ 
+ vf  =
+ 
+    0.01774  
+ 
+ vg  =
+ 
+    4.432  
+ 
+ vx  =
+ 
+    2.666296  
+ 
+ hf  =
+ 
+    298.4  
+ 
+ hfg  =
+ 
+    888.8  
+ 
+ hx  =
+ 
+    831.68  
+ 
+ sg  =
+ 
+    1.6026  
+ 
+ sfg  =
+ 
+    1.1286  
+ 
+ sx  =
+ 
+    1.15116  
+ 
+ 
+Specific volume = 2.666 cu ft/lb 
+
+ Enthalpy = 831.7 B/lb 
+
+ Entropy = 1.1512 B/lb R 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.6/10_6.sce #
+ 
+ 
+ s  =
+ 
+    1.705  
+ 
+ 
+ 
+ From table 2,   
+ 
+ sx  =
+ 
+    1.705  
+ 
+ sg  =
+ 
+    1.7549  
+ 
+ sfg  =
+ 
+    1.4415  
+ 
+ dx  =
+ 
+    0.0346167  
+ 
+ hg  =
+ 
+    1150.8  
+ 
+ hfg  =
+ 
+    969.7  
+ 
+ hx  =
+ 
+    1117.2322  
+ 
+ vg  =
+ 
+    26.29  
+ 
+ vfg  =
+ 
+    26.27  
+ 
+ vx  =
+ 
+    25.380619  
+ 
+ 
+Specific volume = 25.381 cu ft/lb 
+
+ Enthalpy = 1117.2 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.7/10_7.sce #
+ 
+ 
+ P  =
+ 
+    150.  
+ 
+ T  =
+ 
+    400.  
+ 
+ 
+ 
+ From table 3,   
+ 
+ h  =
+ 
+    1219.4  
+ 
+ 
+Enthalpy = 1219.4 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.8/10_8.sce #
+ 
+ 
+ en  =
+ 
+    1303.7  
+ 
+ P  =
+ 
+    300.  
+ 
+ 
+ 
+ Given hg is less than h, steam is superheated. T=580 F   
+ 
+ T  =
+ 
+    580.  
+ 
+ 
+Temperature = 580 F 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.10/10_10.sce #
+ 
+ 
+ T  =
+ 
+    100.  
+ 
+ P  =
+ 
+    1000.  
+ 
+ 
+ 
+ From table 4   
+ 
+ dvf  =
+ 
+  - 0.000051  
+ 
+ dhf  =
+ 
+    2.7  
+ 
+ vf  =
+ 
+    0.01613  
+ 
+ hf  =
+ 
+    67.97  
+ 
+ v  =
+ 
+    0.016079  
+ 
+ h  =
+ 
+    70.67  
+ 
+ 
+Enthalpy = 70.67 B/lb 
+
+ Volume = 0.01608 cu ft/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH10/EX10.11/10_11.sce #
+ 
+ 
+ h1  =
+ 
+    1183.2  
+ 
+ hg  =
+ 
+    1198.4  
+ 
+ hfg  =
+ 
+    843.  
+ 
+ 
+ x  =
+ 
+    0.9819692  
+ 
+ 
+Quality = 0.982 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH11/EX11.1/11_1.sce #
+ 
+ 
+ P1  =
+ 
+    15.  
+ 
+ T1  =
+ 
+    540.  
+ 
+ dm  =
+ 
+    3.  
+ 
+ T2  =
+ 
+    535.  
+ 
+ P2  =
+ 
+    25.  
+ 
+ 
+ mratio  =
+ 
+    0.5944444  
+ 
+ m2  =
+ 
+    7.3972603  
+ 
+ V2  =
+ 
+    60.638219  
+ 
+ 
+Volume of the apparatus = 60.6 cu ft 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH11/EX11.2/11_2.sce #
+ 
+ 
+ R  =
+ 
+    48.3  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ dc  =
+ 
+    0.0620823  
+ 
+ cp  =
+ 
+    0.2172879  
+ 
+ cv  =
+ 
+    0.1552057  
+ 
+ 
+Specific heat at constant volume = 0.155 B/lb R 
+Specific heat at constant pressure = 0.217 B/lb R 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH11/EX11.4/11_4.sce #
+ 
+ 
+ P1  =
+ 
+    100.  
+ 
+ P2  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    600.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    0.248  
+ 
+ 
+ dh  =
+ 
+  - 55839.037  
+ 
+ T2  =
+ 
+    310.76848  
+ 
+ dh2  =
+ 
+  - 71.729417  
+ 
+ 
+In method 1, Enthalpy = -718 Btu/lb 
+
+ In method 2, Enthalpy = -71.7 ft lb/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH11/EX11.5.a/11_5a.sce #
+ 
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    2460.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ v1  =
+ 
+    9.11225  
+ 
+ v2  =
+ 
+    35.329043  
+ 
+ T2  =
+ 
+    1430.6474  
+ 
+ dh  =
+ 
+  - 247.04462  
+ 
+ dv  =
+ 
+    26.216793  
+ 
+ 
+Change in enthalpy = -247 B/lb 
+
+ Specific volume change = 26.2 cu ft/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH11/EX11.5.b/11_5b.sce #
+ 
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    2460.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    0.276  
+ 
+ cv  =
+ 
+    0.207  
+ 
+ T2  =
+ 
+    1520.  
+ 
+ 
+ k  =
+ 
+    1.3333333  
+ 
+ v1  =
+ 
+    9.11225  
+ 
+ v2  =
+ 
+    37.805691  
+ 
+ dh  =
+ 
+  - 259.44  
+ 
+ dv  =
+ 
+    28.693441  
+ 
+ 
+Enthalpy change = -259 B/lb 
+
+ Volume change = 28.7 cu t/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH12/EX12.1/12_1.sce #
+ 
+ 
+ P  =
+ 
+    15.  
+ 
+ T2  =
+ 
+    530.  
+ 
+ T1  =
+ 
+    515.  
+ 
+ 
+ pw  =
+ 
+    0.2141  
+ 
+ pA  =
+ 
+    14.7859  
+ 
+ mratio  =
+ 
+    111.26449  
+ 
+ mAbym  =
+ 
+    0.9910925  
+ 
+ mwbym  =
+ 
+    0.0089075  
+ 
+ pg  =
+ 
+    0.3631  
+ 
+ phi  =
+ 
+    0.5896447  
+ 
+Warning : redefining function: gamma                   . Use funcprot(0) to avoid this message
+
+ gamma  =
+ 
+    0.0089876  
+ 
+ 
+Partial pressure of water vapor = 14.79 psia 
+
+ Specific humidity = 0.0090 lb vapor/lb air 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH12/EX12.2/12_2.sce #
+ 
+ 
+ rh  =
+ 
+    0.75  
+ 
+ pg  =
+ 
+    0.5069  
+ 
+ inc  =
+ 
+    10.  
+ 
+ pA  =
+ 
+    29.5  
+ 
+ 
+ pw  =
+ 
+    0.380175  
+ 
+ p  =
+ 
+    14.845529  
+ 
+ pA  =
+ 
+    14.465354  
+ 
+ mratio  =
+ 
+    0.0163128  
+ 
+ 
+Pounds of water vapor enter the surface per pound of dry air = 0.0163 lb vapor/lb air 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.1.a/13_1a.sce #
+ 
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    960.  
+ 
+ v  =
+ 
+    10.  
+ 
+ P2  =
+ 
+    50.  
+ 
+ cv  =
+ 
+    0.172  
+ 
+ R  =
+ 
+    53.34  
+ 
+ m  =
+ 
+    2.81  
+ 
+ 
+ T2  =
+ 
+    480.  
+ 
+ Q1  =
+ 
+  - 232.17098  
+ 
+ u1  =
+ 
+    165.26  
+ 
+ u2  =
+ 
+    81.77  
+ 
+ du  =
+ 
+  - 83.49  
+ 
+ Q2  =
+ 
+  - 234.6069  
+ 
+ 
+Case 1, 
+
+ Final temperature of the steam = 480 R 
+
+ Heat transferred = -231 Btu 
+
+ Heat transferred in case 2 = -235 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.1.b/13_1b.sce #
+ 
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    960.  
+ 
+ V  =
+ 
+    10.  
+ 
+ P2  =
+ 
+    50.  
+ 
+ cv  =
+ 
+    0.172  
+ 
+ R  =
+ 
+    53.34  
+ 
+ v  =
+ 
+    5.589  
+ 
+ 
+ m  =
+ 
+    1.7892288  
+ 
+ x2  =
+ 
+    0.6556837  
+ 
+ 
+ From table 2,   
+ 
+ T2  =
+ 
+    281.01  
+ 
+ h1  =
+ 
+    1279.1  
+ 
+ u1  =
+ 
+    1175.6532  
+ 
+ uf  =
+ 
+    249.93  
+ 
+ ufg  =
+ 
+    845.4  
+ 
+ u2  =
+ 
+    804.24499  
+ 
+ Q  =
+ 
+  - 664.5343  
+ 
+ 
+Final temperature = 281.01 F 
+
+ Heat transferred = -664 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.2.a/13_2a.sce #
+ 
+ 
+ T1  =
+ 
+    810.  
+ 
+ v1  =
+ 
+    6.  
+ 
+ m  =
+ 
+    1.  
+ 
+ R  =
+ 
+    53.34  
+ 
+ v2  =
+ 
+    12.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ P  =
+ 
+    50.00625  
+ 
+ W  =
+ 
+    43205.4  
+ 
+ T2  =
+ 
+    1620.  
+ 
+ Q  =
+ 
+    194.4  
+ 
+ h1  =
+ 
+    194.25  
+ 
+ h2  =
+ 
+    401.09  
+ 
+ dh  =
+ 
+    206.84  
+ 
+ 
+Final temperature = 1160 F 
+
+ Enthalpy = 206.84 B/lb 
+
+ Heat = 194 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.2.b/13_2b.sce #
+ 
+ 
+ T1  =
+ 
+    810.  
+ 
+ v1  =
+ 
+    6.  
+ 
+ m  =
+ 
+    1.  
+ 
+ R  =
+ 
+    53.34  
+ 
+ v2  =
+ 
+    12.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ vg  =
+ 
+    3.342  
+ 
+ P1  =
+ 
+    77.5  
+ 
+ P2  =
+ 
+    77.5  
+ 
+ h1  =
+ 
+    1204.8  
+ 
+ v2  =
+ 
+    12.  
+ 
+ T2  =
+ 
+    1106.  
+ 
+ h2  =
+ 
+    1586.7  
+ 
+ Q  =
+ 
+    381.9  
+ 
+ W  =
+ 
+    66960.  
+ 
+ 
+Final temperature = 1106 F 
+
+ Work = 66960 ft lb/lb 
+
+ Heat = 381.9 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.3.a/13_3a.sce #
+ 
+ 
+ T1  =
+ 
+    860.  
+ 
+ P1  =
+ 
+    50.  
+ 
+ ratio  =
+ 
+    0.1  
+ 
+ R  =
+ 
+    53.34  
+ 
+ 
+ P2  =
+ 
+    500.  
+ 
+ W  =
+ 
+  - 105625.1  
+ 
+ du  =
+ 
+    0.  
+ 
+ 
+Final pressure =  500 psia 
+
+ Work done = -105625.1 B/lb 
+
+ Change in Internal energy = 0  
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.3.b/13_3b.sce #
+ 
+ 
+ T1  =
+ 
+    860.  
+ 
+ P1  =
+ 
+    50.  
+ 
+ ratio  =
+ 
+    0.1  
+ 
+ R  =
+ 
+    53.34  
+ 
+ v1  =
+ 
+    10.065  
+ 
+ vfg  =
+ 
+    1.8447  
+ 
+ vg  =
+ 
+    1.8633  
+ 
+ 
+ v2  =
+ 
+    1.0065  
+ 
+ dx  =
+ 
+  - 0.4644658  
+ 
+ P2  =
+ 
+    247.3  
+ 
+ 
+ From steam tables,   
+ 
+ u2  =
+ 
+    773.  
+ 
+ u1  =
+ 
+    1141.6  
+ 
+ du  =
+ 
+  - 368.6  
+ 
+ s1  =
+ 
+    1.7349  
+ 
+ s2  =
+ 
+    1.082  
+ 
+ W  =
+ 
+  - 192.894  
+ 
+ 
+Final pressure =  247.3 psia 
+
+ Work done = -192 B/lb 
+
+ Change in Internal energy = -368 B/lb  
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.4.a/13_4a.sce #
+ 
+ 
+ P1  =
+ 
+    150.  
+ 
+ T1  =
+ 
+    860.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    53.34  
+ 
+ 
+ Tratio  =
+ 
+    0.5179475  
+ 
+ W  =
+ 
+    55282.266  
+ 
+ T2  =
+ 
+    445.43482  
+ 
+ v2  =
+ 
+    10.999765  
+ 
+ u1  =
+ 
+    147.5  
+ 
+ Pr1  =
+ 
+    7.149  
+ 
+ Pr2  =
+ 
+    0.7149  
+ 
+ 
+ From tables,   
+ 
+ Pr  =
+ 
+    0.7149  
+ 
+ T2  =
+ 
+    447.  
+ 
+ u2  =
+ 
+    76.13  
+ 
+ W  =
+ 
+    71.37  
+ 
+ v2  =
+ 
+    11.038417  
+ 
+ 
+Final specific volume = 11.0 cu ft/lb 
+
+ Work per pound of fluid = 71.4 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.4.b/13_4b.sce #
+ 
+ 
+ 
+ From Steam tables,   
+ 
+ h1  =
+ 
+    1219.4  
+ 
+ P1  =
+ 
+    150.  
+ 
+ v1  =
+ 
+    0.59733  
+ 
+ s1  =
+ 
+    1.5995  
+ 
+ 
+ u1  =
+ 
+    1129.8005  
+ 
+ sg  =
+ 
+    1.7549  
+ 
+ sfg  =
+ 
+    1.4415  
+ 
+ s2  =
+ 
+    1.5995  
+ 
+ dx  =
+ 
+    0.1078044  
+ 
+ u2  =
+ 
+    981.3  
+ 
+ W  =
+ 
+    148.5005  
+ 
+ v2  =
+ 
+    23.48  
+ 
+ 
+Final specific volume = 23.48 cu ft/lb 
+
+ Work per pound of fluid = 148.5 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.5.a/13_5a.sce #
+ 
+ 
+ P1  =
+ 
+    150.  
+ 
+ T1  =
+ 
+    860.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ n  =
+ 
+    1.15  
+ 
+ cv  =
+ 
+    0.172  
+ 
+ R  =
+ 
+    53.34  
+ 
+ 
+ v2  =
+ 
+    15.727617  
+ 
+ v1  =
+ 
+    2.1237222  
+ 
+ T2  =
+ 
+    636.88888  
+ 
+ Q  =
+ 
+    63.809779  
+ 
+ 
+Final specific volume = 15.7 cu ft/lb 
+
+ Final temperature = 636 R 
+
+ Heat transferred = 63.8 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.5.b/13_5b.sce #
+ 
+ 
+ 
+ From table 3,   
+ 
+ v1  =
+ 
+    3.223  
+ 
+ P1  =
+ 
+    150.  
+ 
+ T1  =
+ 
+    860.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ n  =
+ 
+    1.15  
+ 
+ 
+ v2  =
+ 
+    23.868522  
+ 
+ T2  =
+ 
+    213.  
+ 
+ W  =
+ 
+    155.32282  
+ 
+ u1  =
+ 
+    1129.8  
+ 
+ v2  =
+ 
+    23.9  
+ 
+ vg  =
+ 
+    26.29  
+ 
+ vfg  =
+ 
+    26.27  
+ 
+ dx  =
+ 
+    0.0909783  
+ 
+ u2  =
+ 
+    996.1  
+ 
+ Q  =
+ 
+    21.62282  
+ 
+ 
+Final specific volume = 23.9 cu ft/lb 
+
+ Final temperature = 213 F 
+
+ Heat transferred = 21.6 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.6.a/13_6a.sce #
+ 
+ 
+ v2  =
+ 
+    15.7  
+ 
+ T2  =
+ 
+    640.  
+ 
+ cv  =
+ 
+    0.172  
+ 
+ T1  =
+ 
+    860.  
+ 
+ 
+ du  =
+ 
+  - 37.84  
+ 
+ W  =
+ 
+    37.84  
+ 
+ 
+Final specific volume = 15.7 cu ft/lb 
+
+ Final temperature = 640  
+
+ Work done = 37.8 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH13/EX13.6.b/13_6b.sce #
+ 
+ 
+ 
+ From steam tables,   
+ 
+ T2  =
+ 
+    213.  
+ 
+ v2  =
+ 
+    23.9  
+ 
+ W  =
+ 
+    133.7  
+ 
+ 
+Final specific volume = 23.9 cu ft/lb 
+
+ Final temperature = 213  
+
+ Work done = 133.7 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH14/EX14.1/14_1.sce #
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    1210.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ h1  =
+ 
+    1399.2  
+ 
+ h2  =
+ 
+    976.  
+ 
+ h3  =
+ 
+    69.7  
+ 
+ v3  =
+ 
+    0.01614  
+ 
+ dh3  =
+ 
+    0.5944831  
+ 
+ h4  =
+ 
+    70.294483  
+ 
+ Q1  =
+ 
+    1328.9055  
+ 
+ Wt  =
+ 
+    423.2  
+ 
+ Wp  =
+ 
+    0.5944831  
+ 
+ eta  =
+ 
+    0.3180102  
+ 
+ w  =
+ 
+    6.0137051  
+ 
+ 
+Heat supplied = 1329 B/lb 
+
+ Turbine work = 423 B/lb 
+
+ Pump work = 0.594 B/lb 
+
+ Efficiency =  0.318 
+
+ Steam rate = 6.01 lb steam per hr 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH14/EX14.2/14_2.sce #
+ 
+ 
+ h1  =
+ 
+    1399.2  
+ 
+ h2s  =
+ 
+    976.  
+ 
+ wt  =
+ 
+    8.  
+ 
+ 
+ Wt  =
+ 
+    318.125  
+ 
+ etaT  =
+ 
+    0.7517131  
+ 
+ h2  =
+ 
+    1081.075  
+ 
+ 
+Engine efficiency = 0.752 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH14/EX14.3.b/14_3b.sce #
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ e  =
+ 
+    0.7  
+ 
+ 
+ h1  =
+ 
+    1198.4  
+ 
+ h2s  =
+ 
+    863.5  
+ 
+ h3r  =
+ 
+    69.7  
+ 
+ h4r  =
+ 
+    70.3  
+ 
+ h3c  =
+ 
+    300.7  
+ 
+ h4c  =
+ 
+    355.4  
+ 
+ 
+ For Rankine cycle with actual machines,    
+ 
+ Wtr  =
+ 
+    234.43  
+ 
+ Q1r  =
+ 
+    1128.1  
+ 
+ Wpr  =
+ 
+    0.8571429  
+ 
+ Wnetr  =
+ 
+    233.57286  
+ 
+ eta1  =
+ 
+    0.2070498  
+ 
+ wr  =
+ 
+    10.856119  
+ 
+Back work = 233.6 B/lb 
+
+ Efficiency = 0.207  
+
+ Steam rate = 10.9 lb/hp hr 
+ 
+ For carnot cycle,   
+ 
+ Wtc  =
+ 
+    234.43  
+ 
+ Q1c  =
+ 
+    843.  
+ 
+ Wpc  =
+ 
+    78.142857  
+ 
+ Wnetc  =
+ 
+    156.28714  
+ 
+ eta2  =
+ 
+    0.185394  
+ 
+ wc  =
+ 
+    16.2  
+ 
+Back work = 156.3 B/lb 
+
+ Efficiency = 0.185  
+
+ Steam rate = 16.2 lb/hp hr 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH14/EX14.3.a/14_3.sce #
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ e  =
+ 
+    0.7  
+ 
+ 
+ h1  =
+ 
+    1198.4  
+ 
+ h2s  =
+ 
+    863.5  
+ 
+ h3r  =
+ 
+    69.7  
+ 
+ h4r  =
+ 
+    70.3  
+ 
+ h3c  =
+ 
+    300.7  
+ 
+ h4c  =
+ 
+    355.4  
+ 
+ 
+ For Rankine cycle,    
+ 
+ Wtr  =
+ 
+    334.9  
+ 
+ Q1r  =
+ 
+    1128.1  
+ 
+ Wpr  =
+ 
+    0.6  
+ 
+ Wnetr  =
+ 
+    334.3  
+ 
+ eta1  =
+ 
+    0.2963390  
+ 
+ wr  =
+ 
+    7.5992834  
+ 
+Back work = 334.3 B/lb 
+
+ Efficiency = 0.296  
+
+ Steam rate = 7.6 lb/hp hr 
+ 
+ For carnot cycle,   
+ 
+ Wtc  =
+ 
+    334.9  
+ 
+ Q1c  =
+ 
+    843.  
+ 
+ Wpc  =
+ 
+    54.7  
+ 
+ Wnetc  =
+ 
+    280.2  
+ 
+ eta2  =
+ 
+    0.3323843  
+ 
+ wc  =
+ 
+    9.1  
+ 
+Back work = 280.2 B/lb 
+
+ Efficiency = 0.332  
+
+ Steam rate = 9.1 lb/hp hr 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH15/EX15.1/15_1.sce #
+ 
+ 
+ e  =
+ 
+    0.85  
+ 
+ 
+ From Mollier chart and table 3,   
+ 
+ h1  =
+ 
+    1474.5  
+ 
+ s1  =
+ 
+    1.5603  
+ 
+ h2s  =
+ 
+    1277.5  
+ 
+ 
+ h2  =
+ 
+    1307.05  
+ 
+ h3  =
+ 
+    1522.4  
+ 
+ h4s  =
+ 
+    948.  
+ 
+ h4  =
+ 
+    1034.16  
+ 
+ h5  =
+ 
+    47.6  
+ 
+ h6  =
+ 
+    53.5  
+ 
+ h7s  =
+ 
+    840.  
+ 
+ h7  =
+ 
+    935.175  
+ 
+ h8  =
+ 
+    1493.2  
+ 
+ h9s  =
+ 
+    866.  
+ 
+ h9  =
+ 
+    960.08  
+ 
+ h11  =
+ 
+    51.5  
+ 
+ eta1  =
+ 
+    0.401  
+ 
+ eta2  =
+ 
+    0.375  
+ 
+ eta3  =
+ 
+    0.366  
+ 
+ IE1  =
+ 
+    0.0693333  
+ 
+ IE2  =
+ 
+    0.0956284  
+ 
+ 
+Improvement in efficiency = 7 percent 
+
+Improvement in efficiency in case 2= 9.6 percent 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH15/EX15.2.a/15_2a.sce #
+ 
+ 
+ 
+ From mollier chart and table 3,   
+ 
+ h1  =
+ 
+    1371.  
+ 
+ h2s  =
+ 
+    1149.  
+ 
+ h3  =
+ 
+    118.  
+ 
+ e  =
+ 
+    0.9  
+ 
+ 
+ Neglecting pump work,   
+ 
+ Q1  =
+ 
+    1253.  
+ 
+ W  =
+ 
+    156.  
+ 
+ eta1  =
+ 
+    0.1245012  
+ 
+ Q  =
+ 
+    1097.  
+ 
+ UE  =
+ 
+    1143.3  
+ 
+ fraction  =
+ 
+    0.9124501  
+ 
+ 
+Fraction supplied = 0.91 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH15/EX15.2.b/15_2b.sce #
+ 
+ 
+ 
+ From mollier chart and table 3,   
+ 
+ h1  =
+ 
+    1371.  
+ 
+ h2s  =
+ 
+    1149.  
+ 
+ h3  =
+ 
+    118.  
+ 
+ e  =
+ 
+    0.23  
+ 
+ e2  =
+ 
+    0.9  
+ 
+ 
+ Neglecting pump work,   
+ 
+ Q1  =
+ 
+    1253.  
+ 
+ W  =
+ 
+    156.  
+ 
+ eta1  =
+ 
+    0.1245012  
+ 
+ Q  =
+ 
+    1097.  
+ 
+ We  =
+ 
+    678.26087  
+ 
+ UE  =
+ 
+    1775.2609  
+ 
+ UE1  =
+ 
+    1143.3  
+ 
+ Q2  =
+ 
+    1775.2609  
+ 
+ fraction  =
+ 
+    0.6440180  
+ 
+ 
+Fraction supplied = 0.64 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH16/EX16.1.a/16_1a.sce #
+ 
+ 
+ Pb  =
+ 
+    75.  
+ 
+ Pc  =
+ 
+    15.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Td  =
+ 
+    550.  
+ 
+ Tb  =
+ 
+    1700.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ Gas law solution   
+ 
+ Pratio  =
+ 
+    5.  
+ 
+ Ta  =
+ 
+    871.10078  
+ 
+ Tc  =
+ 
+    1073.3546  
+ 
+ Q1  =
+ 
+    198.93581  
+ 
+ Q2  =
+ 
+    125.60509  
+ 
+ Wnet  =
+ 
+    73.330717  
+ 
+ eta  =
+ 
+    0.3686150  
+ 
+ eta2  =
+ 
+    0.3686150  
+ 
+ 
+Efficiency in 1= 0.369 
+
+ Efficiency in 2 = 0.37 
+
+ Work per pound of fluid = 73 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH16/EX16.1.b/16_1b.sce #
+ 
+ 
+ Pb  =
+ 
+    75.  
+ 
+ Pc  =
+ 
+    15.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Td  =
+ 
+    550.  
+ 
+ Tb  =
+ 
+    1700.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ Prd  =
+ 
+    1.4779  
+ 
+ hd  =
+ 
+    131.46  
+ 
+ Prb  =
+ 
+    90.95  
+ 
+ hb  =
+ 
+    422.59  
+ 
+ Pratio  =
+ 
+    5.  
+ 
+ Pra  =
+ 
+    7.3895  
+ 
+ Ta  =
+ 
+    868.  
+ 
+ ha  =
+ 
+    208.41  
+ 
+ Prc  =
+ 
+    18.19  
+ 
+ Tc  =
+ 
+    1113.  
+ 
+ hc  =
+ 
+    269.27  
+ 
+ Q1  =
+ 
+    214.18  
+ 
+ Q2  =
+ 
+    137.81  
+ 
+ Wnet  =
+ 
+    76.37  
+ 
+ eta  =
+ 
+    0.3565692  
+ 
+ 
+Efficiency = 0.357 
+
+ Work per pound of fluid = 76.37 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH17/EX17.1.a/17_1a.sce #
+ 
+ 
+ w  =
+ 
+    1.  
+ 
+ v2  =
+ 
+    36.4  
+ 
+ h1  =
+ 
+    1279.1  
+ 
+ h2  =
+ 
+    1091.7  
+ 
+ V1  =
+ 
+    100.  
+ 
+ 
+ a2  =
+ 
+    0.0118728  
+ 
+ a2  =
+ 
+    1.705  
+ 
+ 
+Exit area = 1.705 sq. in 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH17/EX17.2/17_2.sce #
+ 
+ 
+ k  =
+ 
+    1.3  
+ 
+ P  =
+ 
+    250.  
+ 
+ h0  =
+ 
+    1263.4  
+ 
+ w  =
+ 
+    10000.  
+ 
+ cv  =
+ 
+    0.949  
+ 
+ vts  =
+ 
+    3.415  
+ 
+ 
+ Pratio  =
+ 
+    0.5457277  
+ 
+ Pt  =
+ 
+    136.43193  
+ 
+ hts  =
+ 
+    1208.2  
+ 
+ h2s  =
+ 
+    891.  
+ 
+ Vts  =
+ 
+    1663.0384  
+ 
+ w  =
+ 
+    2.7777778  
+ 
+ at  =
+ 
+    0.0057041  
+ 
+ V2  =
+ 
+    4099.2441  
+ 
+ etan  =
+ 
+    0.900601  
+ 
+ h2  =
+ 
+    928.  
+ 
+ 
+ From table 3,   
+ 
+ v2  =
+ 
+    276.  
+ 
+ a2  =
+ 
+    0.1870264  
+ 
+ a2s  =
+ 
+    0.17  
+ 
+ Cw  =
+ 
+    0.98  
+ 
+ at2  =
+ 
+    0.0058205  
+ 
+ 
+
+ Throat area = 0.00570 ft^2 
+
+ Exit area = 0.187 ft^2 
+
+ For frictionless nozzle = 0.170 ft^2 
+
+ Changed throat area = 0.00582 ft^2 and exit area is unchanged 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH17/EX17.3.a/17_3a.sce #
+ 
+ 
+ w  =
+ 
+    1.  
+ 
+ Pratio  =
+ 
+    0.53  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T0  =
+ 
+    800.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ P0  =
+ 
+    150.  
+ 
+ P2  =
+ 
+    15.  
+ 
+ 
+ Pt  =
+ 
+    79.5  
+ 
+ Tratio  =
+ 
+    0.8341068  
+ 
+ Tts  =
+ 
+    667.28546  
+ 
+ Vts  =
+ 
+    1263.2741  
+ 
+ vts  =
+ 
+    3.1091026  
+ 
+ at  =
+ 
+    0.0024611  
+ 
+ T2s  =
+ 
+    667.28546  
+ 
+ T2  =
+ 
+    460.  
+ 
+ V2  =
+ 
+    2021.9845  
+ 
+ v2  =
+ 
+    11.359444  
+ 
+ a2  =
+ 
+    0.0056180  
+ 
+ 
+Exit velocity = 1263 fps 
+
+ Throat area = 0.00246 ft^2 
+
+ Exit area = 0.00562 ft^2 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH18/EX18.1/18_1.sce #
+ 
+ 
+ drop  =
+ 
+    50.  
+ 
+ cv  =
+ 
+    0.95  
+ 
+ Vb  =
+ 
+    700.  
+ 
+ alpha  =
+ 
+    20.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    30.  
+ 
+ Cb  =
+ 
+    0.95  
+ 
+ 
+ V1  =
+ 
+    1503.6312  
+ 
+ y1  =
+ 
+    1412.9512  
+ 
+ z1  =
+ 
+    514.27217  
+ 
+ y1R  =
+ 
+    712.95118  
+ 
+ V1R  =
+ 
+    879.07636  
+ 
+ V2R  =
+ 
+    835.12254  
+ 
+ y2R  =
+ 
+  - 723.23734  
+ 
+ z2  =
+ 
+    417.56127  
+ 
+ Wx  =
+ 
+    31221.489  
+ 
+ Fa  =
+ 
+    3.0034441  
+ 
+ Vc  =
+ 
+    1582.77  
+ 
+ etanb  =
+ 
+    0.8026087  
+ 
+ 
+Work per pound of fluid = 31221 ft lbf/lbm 
+
+ Axial thrust = 3.0 lbf/lbm/sec 
+
+ Nozzle bucket efficiency = 0.80 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH18/EX18.2/18_2.sce #
+ 
+ 
+ ha  =
+ 
+    1187.2  
+ 
+ sa  =
+ 
+    1.6026  
+ 
+ h3s  =
+ 
+    895.  
+ 
+ h1s  =
+ 
+    1090.  
+ 
+ p1  =
+ 
+    28.  
+ 
+ h2s  =
+ 
+    993.  
+ 
+ p2  =
+ 
+    6.2  
+ 
+ n  =
+ 
+    0.65  
+ 
+ 
+ 
+ From  Table 3,   
+ 
+ h1  =
+ 
+    1124.02  
+ 
+ s1  =
+ 
+    1.65  
+ 
+ h2dash  =
+ 
+    1024.  
+ 
+ h2  =
+ 
+    1059.007  
+ 
+ s2  =
+ 
+    1.706  
+ 
+ h3dash  =
+ 
+    953.  
+ 
+ h3  =
+ 
+    990.10245  
+ 
+ etaT  =
+ 
+    0.6745296  
+ 
+ reheat  =
+ 
+    1.0377379  
+ 
+ 
+Internal efficiency = 0.675 
+
+ Reheat factor = 1.04 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH19/EX19.1/19_1.sce #
+ 
+ 
+ 
+ From tables,   
+ 
+ h1  =
+ 
+    1185.3  
+ 
+ v1  =
+ 
+    4.896  
+ 
+ v2  =
+ 
+    23.66  
+ 
+ h2  =
+ 
+    1054.3  
+ 
+ Pd1  =
+ 
+    1.  
+ 
+ Pd2  =
+ 
+    0.98  
+ 
+ N  =
+ 
+    300.  
+ 
+ 
+ Wx  =
+ 
+    131.  
+ 
+ Pd  =
+ 
+    1.98  
+ 
+ Cl  =
+ 
+    0.05  
+ 
+ mf  =
+ 
+    0.0676492  
+ 
+ P  =
+ 
+    62.678544  
+ 
+ mep  =
+ 
+    3482.1413  
+ 
+ 
+Horsepower output = 62.679 hp 
+
+ Mean effective pressure = 3482 psf 
+ 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH19/EX19.2/19_2.sce #
+ 
+ 
+ R  =
+ 
+    53.34  
+ 
+ T1  =
+ 
+    540.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ T2  =
+ 
+    720.  
+ 
+ P2  =
+ 
+    60.  
+ 
+ PD  =
+ 
+    150.  
+ 
+ p1  =
+ 
+    0.03  
+ 
+ p2  =
+ 
+    0.06  
+ 
+ 
+ v1  =
+ 
+    13.335  
+ 
+ vratio  =
+ 
+    3.  
+ 
+ Nmf  =
+ 
+    10.573678  
+ 
+ Nmf2  =
+ 
+    9.8987627  
+ 
+ 
+For ance of 3 percent, Mass per min = 10.6 lb/min 
+
+ For ance of 6 percent, Mass per min = 9.9 lb/min 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH21/EX21.1/21_1.sce #
+ 
+ 
+ R  =
+ 
+    53.34  
+ 
+ T1  =
+ 
+    540.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ g  =
+ 
+    1.4  
+ 
+ n2  =
+ 
+    1.3  
+ 
+ P2  =
+ 
+    90.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ cv  =
+ 
+    0.171  
+ 
+ 
+ pv  =
+ 
+    28803.6  
+ 
+ Wk  =
+ 
+    67394.276  
+ 
+ Wn  =
+ 
+    63914.962  
+ 
+ Wt  =
+ 
+    51609.123  
+ 
+ Q  =
+ 
+  - 12262.581  
+ 
+ 
+
+ Work in case 1 = 67394 ft lb/lb 
+
+ Work in case 2 = 63914 ft lb/lb 
+
+ Work in case 3 = 51609 ft lb/lb 
+
+ Heat transferred = -16.0 B/lb 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH21/EX21.2/21_2.sce #
+ 
+ 
+ R  =
+ 
+    53.34  
+ 
+ T1  =
+ 
+    540.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ g  =
+ 
+    1.4  
+ 
+ n2  =
+ 
+    1.3  
+ 
+ P2  =
+ 
+    90.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ cv  =
+ 
+    0.171  
+ 
+ 
+ pv  =
+ 
+    28803.6  
+ 
+ Wk  =
+ 
+    67394.276  
+ 
+ Wn  =
+ 
+    63914.962  
+ 
+ Wt  =
+ 
+    51609.123  
+ 
+ eta1  =
+ 
+    0.8074654  
+ 
+ eta2  =
+ 
+    1.0544366  
+ 
+ 
+Adiabatic efficiency = 1.05 
+
+ Isothermal efficiency = 0.81 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH21/EX21.4/21_4.sce #
+ 
+ 
+ n  =
+ 
+    1.3  
+ 
+ P1  =
+ 
+    15.  
+ 
+ P2  =
+ 
+    75.  
+ 
+ eta  =
+ 
+    0.5  
+ 
+ eta2  =
+ 
+    0.  
+ 
+ 
+ Pr  =
+ 
+    3.4488097  
+ 
+ Cl  =
+ 
+    0.2041808  
+ 
+ Cl2  =
+ 
+    0.4083617  
+ 
+ 
+For volumetric efficiency to be 0.5, Clearance = 0.204 
+
+ For volumetric efficiency to be 0, Clearance = 0.408 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH21/EX21.5/21_5.sce #
+ 
+ 
+ P1  =
+ 
+    5.  
+ 
+ P2  =
+ 
+    83.5  
+ 
+ n  =
+ 
+    1.25  
+ 
+ per  =
+ 
+    0.03  
+ 
+ 
+ nv1  =
+ 
+    0.7447048  
+ 
+ nv2  =
+ 
+    0.9374859  
+ 
+ 
+For single stage machine =  0.745 
+
+ For Two stage machine =  0.937 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH22/EX22.5/22_5.sce #
+ 
+ 
+ mO  =
+ 
+    1.33  
+ 
+ CO  =
+ 
+    0.155  
+ 
+ mC  =
+ 
+    3.67  
+ 
+ CC  =
+ 
+    0.165  
+ 
+ t2  =
+ 
+    1000.  
+ 
+ tb  =
+ 
+    68.  
+ 
+ t1  =
+ 
+    300.  
+ 
+ mC2  =
+ 
+    1.  
+ 
+ CC2  =
+ 
+    0.17  
+ 
+ mO2  =
+ 
+    4.  
+ 
+ CO2  =
+ 
+    0.155  
+ 
+ H  =
+ 
+  - 14087.  
+ 
+ 
+ dE2  =
+ 
+    756.5044  
+ 
+ dE1  =
+ 
+  - 183.28  
+ 
+ Q  =
+ 
+  - 13513.776  
+ 
+ 
+Heat transfer from the system = -13513 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH22/EX22.6/22_6.sce #
+ 
+ 
+ H1  =
+ 
+    17889.  
+ 
+ H2  =
+ 
+  - 94052.  
+ 
+ H3  =
+ 
+  - 136634.  
+ 
+ 
+ x  =
+ 
+  - 212797.  
+ 
+ 
+Constant pressure heating value of methane = -212797 cal/gm formula wt. 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH22/EX22.7/22_7.sce #
+ 
+ 
+ HV  =
+ 
+    4344.  
+ 
+ xC  =
+ 
+    56.  
+ 
+ R  =
+ 
+    1.986  
+ 
+ T  =
+ 
+    530.  
+ 
+ MC  =
+ 
+    56.  
+ 
+ 
+ HR  =
+ 
+    243264.  
+ 
+ Eb  =
+ 
+  - 242211.42  
+ 
+ HV  =
+ 
+    4325.2039  
+ 
+ 
+COnstant volume heating value = 4325 B/lb  
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH22/EX22.8/22_8.sce #
+ 
+ 
+ dH2  =
+ 
+    14087.  
+ 
+ xc  =
+ 
+    3.67  
+ 
+ xN  =
+ 
+    8.78  
+ 
+ tb  =
+ 
+    100.  
+ 
+ 
+ dt2  =
+ 
+    4863.0194  
+ 
+ t2  =
+ 
+    4963.0194  
+ 
+ 
+products temperature = 4963 F 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH22/EX22.9/22_9.sce #
+ 
+ 
+ Heat  =
+ 
+    14087.  
+ 
+ x1  =
+ 
+    0.9  
+ 
+ x2  =
+ 
+    0.05  
+ 
+ x3  =
+ 
+    0.05  
+ 
+ Heat2  =
+ 
+    3952.  
+ 
+ 
+ h1  =
+ 
+    12678.3  
+ 
+ h2  =
+ 
+    197.6  
+ 
+ e  =
+ 
+    0.9140271  
+ 
+ 
+Efficiency = 0.91 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH22/EX22.10/22_10.sce #
+ 
+ 
+ 
+ From data and steam tables,   
+ 
+ Q  =
+ 
+    10240000.  
+ 
+ w  =
+ 
+    700.  
+ 
+ h  =
+ 
+    19500.  
+ 
+ 
+ HV  =
+ 
+    13650000.  
+ 
+ e  =
+ 
+    0.7501832  
+ 
+ 
+Efficiency = 0.75 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH23/EX23.1/23_1.sce #
+ 
+ 
+ 
+ from chart   
+ 
+ T6  =
+ 
+    2600.  
+ 
+ mratio  =
+ 
+    0.05  
+ 
+ V6d  =
+ 
+    82.  
+ 
+ E6d  =
+ 
+    465.  
+ 
+ H6d  =
+ 
+    655.  
+ 
+ T6d  =
+ 
+    2480.  
+ 
+ Hs  =
+ 
+    58.  
+ 
+ LHV  =
+ 
+    19256.  
+ 
+ 
+ H1  =
+ 
+    87.85  
+ 
+ dV  =
+ 
+    18.33  
+ 
+ PD  =
+ 
+    0.12  
+ 
+ Work  =
+ 
+    2.9198036  
+ 
+ pm  =
+ 
+    131.45875  
+ 
+ eta  =
+ 
+    0.3666262  
+ 
+ 
+Efficiency = 0.367 
+
+ Mean effective pressure = 131 psi 
+
+ Work per machine cycle = 2.92 Btu 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH23/EX23.2/23_2.sce #
+ 
+ 
+ f  =
+ 
+    0.03  
+ 
+ T6  =
+ 
+    1500.  
+ 
+ 
+ from air tables,   
+ 
+ hi  =
+ 
+    131.46  
+ 
+ h6  =
+ 
+    381.  
+ 
+ vratio  =
+ 
+    0.0666667  
+ 
+ v1r  =
+ 
+    120.7  
+ 
+ P1  =
+ 
+    15.  
+ 
+ T1  =
+ 
+    580.  
+ 
+ x  =
+ 
+    0.5  
+ 
+ Tb  =
+ 
+    520.  
+ 
+ H  =
+ 
+    18500.  
+ 
+ mh  =
+ 
+    0.0345  
+ 
+ m3  =
+ 
+    1.065  
+ 
+ 
+ h1  =
+ 
+    138.9462  
+ 
+ v2r  =
+ 
+    8.0466667  
+ 
+ T2  =
+ 
+    1615.  
+ 
+ u2  =
+ 
+    289.05  
+ 
+ P2  =
+ 
+    626.50862  
+ 
+ theo  =
+ 
+    0.069  
+ 
+ m  =
+ 
+    0.0345  
+ 
+ h3B  =
+ 
+    125.84  
+ 
+ m3  =
+ 
+    1.0645  
+ 
+ h3  =
+ 
+    991.5677  
+ 
+ T3  =
+ 
+    3520.  
+ 
+ P3  =
+ 
+    626.  
+ 
+ v3  =
+ 
+    2.0828541  
+ 
+ v3p  =
+ 
+    2.2171982  
+ 
+ v1  =
+ 
+    14.325463  
+ 
+ v2  =
+ 
+    0.98  
+ 
+ m1  =
+ 
+    1.03  
+ 
+ h3  =
+ 
+    992.  
+ 
+ h4  =
+ 
+    531.  
+ 
+ T3  =
+ 
+    3520.  
+ 
+ T4  =
+ 
+    2030.  
+ 
+ W12  =
+ 
+  - 195.8545  
+ 
+ W23  =
+ 
+    143.46608  
+ 
+ W34  =
+ 
+    381.86817  
+ 
+ W  =
+ 
+    329.47974  
+ 
+ eta  =
+ 
+    0.5162236  
+ 
+ 
+Efficiency = 0.516 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH23/EX23.3/23_3.sce #
+ 
+ 
+ 
+ Using air tables,   
+ 
+ h1  =
+ 
+    124.27  
+ 
+ pr1  =
+ 
+    1.2147  
+ 
+ p2byp1  =
+ 
+    6.  
+ 
+ p1  =
+ 
+    15.  
+ 
+ p4  =
+ 
+    15.  
+ 
+ eta  =
+ 
+    0.8  
+ 
+ 
+ pr2  =
+ 
+    7.2882  
+ 
+ h2s  =
+ 
+    197.5  
+ 
+ h2  =
+ 
+    215.8075  
+ 
+ h2B  =
+ 
+    124.3  
+ 
+ dhB  =
+ 
+  - 18500.  
+ 
+ dh2  =
+ 
+  - 91.5075  
+ 
+ T3  =
+ 
+    1910.  
+ 
+ h3  =
+ 
+    479.85  
+ 
+ pr3  =
+ 
+    144.53  
+ 
+ h3B  =
+ 
+    124.3  
+ 
+ dh3  =
+ 
+    355.55  
+ 
+ wratio  =
+ 
+    0.0145522  
+ 
+ pr4  =
+ 
+    28.91  
+ 
+ h4s  =
+ 
+    306.9  
+ 
+ h4  =
+ 
+    341.49  
+ 
+ Wt  =
+ 
+    140.37345  
+ 
+ Wc  =
+ 
+    91.5075  
+ 
+ Wnet  =
+ 
+    48.865949  
+ 
+ E  =
+ 
+    0.1815117  
+ 
+ rate  =
+ 
+    52.081256  
+ 
+ BWratio  =
+ 
+    1.872623  
+ 
+ 
+Efficiency = 0.182 
+
+ Air rate = 52.1 lb air/hp hr 
+
+ Back work ratio = 1.87 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH24/EX24.1/24_1.sce #
+ 
+ 
+ 
+ From tables,   
+ 
+ h1  =
+ 
+    611.8  
+ 
+ h2  =
+ 
+    704.4  
+ 
+ h3  =
+ 
+    127.4  
+ 
+ h4  =
+ 
+    127.4  
+ 
+ T2  =
+ 
+    460.  
+ 
+ T1  =
+ 
+    536.  
+ 
+ W  =
+ 
+    10000.  
+ 
+ e  =
+ 
+    0.7  
+ 
+ 
+ Qe  =
+ 
+    484.4  
+ 
+ Wc  =
+ 
+    92.6  
+ 
+ CP  =
+ 
+    5.2311015  
+ 
+ CP2  =
+ 
+    6.0526316  
+ 
+ w  =
+ 
+    0.3440683  
+ 
+ v1  =
+ 
+    9.116  
+ 
+ PD  =
+ 
+    4.4807518  
+ 
+ 
+Coefficient of performance in case 1 = 5.23 
+
+ Coefficient of performance in case 2 = 6.05 
+
+ Piston displacement = 4.48 cu ft/min 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH25/EX25.1/25_1.sce #
+ 
+ 
+ Pg  =
+ 
+    0.4298  
+ 
+ phi  =
+ 
+    0.5  
+ 
+ P  =
+ 
+    14.7  
+ 
+ 
+ pw  =
+ 
+    0.2149  
+ 
+ Pa  =
+ 
+    14.4851  
+ 
+Warning : redefining function: gamma                   . Use funcprot(0) to avoid this message
+
+ gamma  =
+ 
+    0.0092280  
+ 
+ T  =
+ 
+    55.  
+ 
+ 
+Specific humidity = 0.00923 lb water/lb dry air 
+
+ Dew temperature = 55 F 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH25/EX25.2/25_2.sce #
+ 
+ 
+ 
+ From psychrometric chart ,   
+ 
+ hgdp  =
+ 
+    1061.8  
+ 
+ cpw  =
+ 
+    0.44  
+ 
+ tdb  =
+ 
+    72.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    0.0071  
+ 
+ 
+ rh  =
+ 
+    0.42  
+ 
+ sp  =
+ 
+    0.0071  
+ 
+ tdp  =
+ 
+    58.  
+ 
+ hw  =
+ 
+    1093.48  
+ 
+ h  =
+ 
+    25.043708  
+ 
+ 
+Enthalpy = 25.04 B/lb dry air 
+
+ relative humidity = 0.42  
+
+ specific humidity = 0.01  
+
+ Dew point temperature = 58 F 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH25/EX25.3/25_3.sce #
+ 
+ 
+ 
+ From the psychrometric chart,   
+ 
+ ha  =
+ 
+    12.9  
+ 
+ g1  =
+ 
+    0.0032  
+ 
+ g2  =
+ 
+    0.0078  
+ 
+ hl  =
+ 
+    13.  
+ 
+ hd  =
+ 
+    25.33  
+ 
+ p  =
+ 
+    14.7  
+ 
+ phi  =
+ 
+    0.6  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ t2  =
+ 
+    70.  
+ 
+ 
+ wl  =
+ 
+    0.0046  
+ 
+ Q  =
+ 
+    12.3702  
+ 
+ pg  =
+ 
+    0.1217  
+ 
+ pa  =
+ 
+    14.5783  
+ 
+ G1  =
+ 
+    0.0031155  
+ 
+ G2  =
+ 
+    0.00788  
+ 
+ wl2  =
+ 
+    0.0047645  
+ 
+ t1  =
+ 
+    40.  
+ 
+ hw1  =
+ 
+    1079.4  
+ 
+ hw2  =
+ 
+    1092.6  
+ 
+ Q2  =
+ 
+    12.384897  
+ 
+ 
+Method 1 
+
+ Water to be supplied = 0.0046 lb/lb of dry air 
+
+ heat supplied = 12.4 B/lb of dry air 
+
+ Method 2 
+
+ Water to be supplied = 0.00476 lb/lb of dry air 
+
+ heat supplied = 12.4 B/lb of dry air 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH25/EX25.4/25_4.sce #
+ 
+ 
+ 
+ From psychrometric charts,   
+ 
+ e  =
+ 
+    0.7  
+ 
+ phi  =
+ 
+    0.5  
+ 
+ g1  =
+ 
+    0.0131  
+ 
+ h1  =
+ 
+    32.36  
+ 
+ g3  =
+ 
+    0.0073  
+ 
+ h3  =
+ 
+    24.26  
+ 
+ pg  =
+ 
+    0.339  
+ 
+ T3  =
+ 
+    528.  
+ 
+ V3  =
+ 
+    1000.  
+ 
+ Rw  =
+ 
+    85.8  
+ 
+ 
+ pw3  =
+ 
+    0.1695  
+ 
+ ww3  =
+ 
+    0.5387794  
+ 
+ wa3  =
+ 
+    73.805398  
+ 
+ wa1  =
+ 
+    36.902699  
+ 
+ wa2  =
+ 
+    36.902699  
+ 
+ ww1  =
+ 
+    0.4834254  
+ 
+ ww2  =
+ 
+    0.0553540  
+ 
+ g2  =
+ 
+    0.0015  
+ 
+ h2  =
+ 
+    16.16  
+ 
+ tdb  =
+ 
+    61.  
+ 
+ 
+Air supplied = 0.055 lb/min 
+
+ temperature = 61 F 
+
+ Humidity = 0.00150 lb water/lb dry air 
+ 
+grepthis#Mechanical_Engineering_Thermodynamics_D._A._Mooney_1472/CH25/EX25.5/25_5.sce #
+ 
+ 
+ 
+ From psychrometric charts,   
+ 
+ g1  =
+ 
+    0.0131  
+ 
+ g2  =
+ 
+    0.0093  
+ 
+ h1  =
+ 
+    32.36  
+ 
+ h2  =
+ 
+    27.03  
+ 
+ hd2  =
+ 
+    23.4  
+ 
+ hf  =
+ 
+    23.4  
+ 
+ hw1  =
+ 
+    1094.5  
+ 
+ 
+ tdp  =
+ 
+    55.3  
+ 
+ wratio  =
+ 
+    0.0038  
+ 
+ Qc  =
+ 
+  - 8.87108  
+ 
+ Qh  =
+ 
+    3.63  
+ 
+ Heat  =
+ 
+    4.07018  
+ 
+ frac  =
+ 
+    0.4588145  
+ 
+ 
+Cooling temperature = 55.3 F 
+
+ heat transfer = 4.07 B/lb dry air 
+
+ Fraction of heat removed = 0.46 
+ 

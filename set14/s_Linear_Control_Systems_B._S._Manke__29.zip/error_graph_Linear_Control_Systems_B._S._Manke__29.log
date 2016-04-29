@@ -1,0 +1,737 @@
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.18/exa7_17_18.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for GM=8 db, K=2.23   
+ 
+ 
+ for PM=20 deg. , K=2.69   
+ 
+tems_B._S._Manke__29/exa7_17_18');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      15 of exec file called by :    
+ke__29/CH7/EX7.17.18/exa7_17_18.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.1/exa7_17_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GH  =
+ 
+        50       
+    ----------   
+              2  
+    2 + 3s + s   
+ 
+ GH1  =
+ 
+        50       
+    ----------   
+              2  
+    2 - 3s + s   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since the point(-1+%i0) is not encircled by Nyquist plot ,so N=0 and P=0(given 
+      )                                                                         
+ 
+ 
+ 
+ 
+ 
+ Z=   
+ 
+    0.  
+ 
+ 
+ as Z=0,there are no roots of closed loop characterstics eq having positive rea 
+      l part, hence system is stable.                                           
+ 
+stems_B._S._Manke__29/exa7_17_1');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      23 of exec file called by :    
+anke__29/CH7/EX7.17.1/exa7_17_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.2.ii/exa7_17_2_ii.sce
+ 
+ 
+ 
+ 
+ for K=2.5   
+ 
+g=(2.5*(s+1))/((s+0.5)*(s-2));
+          !--error 4 
+Undefined variable: s
+at line       5 of exec file called by :    
+29/CH7/EX7.17.2.ii/exa7_17_2_ii.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.2.i/exa7_17_2_i.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for K=1.25   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since the point(-1+%i0) is  encircled clockwise by Nyquist plot ,so N=-1 and P 
+      =1(given)                                                                 
+ 
+ 
+ 
+ 
+ 
+ Z=   
+ 
+    2.  
+ 
+ 
+ as Z=2,there are two roots of closed loop characterstics eq having positive re 
+      al part, hence system is unstable.                                        
+ 
+ems_B._S._Manke__29/exa7_17_2_i');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      24 of exec file called by :    
+__29/CH7/EX7.17.2.i/exa7_17_2_i.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.3/exa7_17_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since the point(-1+%i0) is  encircled clockwise by Nyquist plot ,so N=-1 and P 
+      =1(given)                                                                 
+ 
+ 
+ 
+ 
+ 
+ Z=   
+ 
+    2.  
+ 
+ 
+ as Z=2,there are two roots of closed loop characterstics eq having positive re 
+      al part, hence system is unstable.                                        
+ 
+stems_B._S._Manke__29/exa7_17_3');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      23 of exec file called by :    
+anke__29/CH7/EX7.17.3/exa7_17_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.5/exa7_17_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for K=3   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pm  =
+ 
+    0.  
+ 
+ 
+ phase margin=   
+ 
+    0.  
+ 
+stems_B._S._Manke__29/exa7_17_5');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      18 of exec file called by :    
+anke__29/CH7/EX7.17.5/exa7_17_5.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.17.7/exa7_17_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ g  =
+ 
+          2.2          
+    ---------------    
+           2    3   4  
+    2s + 4s + 3s + s   
+ 
+ g1  =
+ 
+          2.2          
+    ---------------    
+           2    3   4  
+  - 2s + 4s - 3s + s   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ as the nyquist plot passes through the point -1+%i*0, so system is marginally  
+      stable and output represents sustained oscillations.                      
+ 
+stems_B._S._Manke__29/exa7_17_7');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      15 of exec file called by :    
+anke__29/CH7/EX7.17.7/exa7_17_7.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.19.1/exa7_19_1.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+        50       
+    ----------   
+              2  
+    2 + 3s + s   
+ 
+ 
+ 
+ 
+ 
+ gm  =
+ 
+    Inf  
+ 
+ pm  =
+ 
+    24.432402  
+ 
+ 
+ gain_margin=   
+ 
+    Inf  
+ 
+ 
+ phase_margin=   
+ 
+    24.432402  
+ 
+ 
+ since gain and phase margin are both positive so system is stable   
+ 
+ 
+stems_B._S._Manke__29/exa7_19_1');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      17 of exec file called by :    
+anke__29/CH7/EX7.19.1/exa7_19_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.19.3/exa7_19_3.sce
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+          480 + 48s          
+    ---------------------    
+              2       3   4  
+    320s + 64s + 22.4s + s   
+ 
+ 
+ 
+ 
+ 
+ gm  =
+ 
+    4.7297805  
+ 
+ pm  =
+ 
+    76.302087  
+ 
+ 
+ gain_margin=   
+ 
+    4.7297805  
+ 
+ 
+ phase_margin=   
+ 
+    76.302087  
+ 
+ 
+ since gain and phase margin are both positive so system is stable   
+ 
+stems_B._S._Manke__29/exa7_19_3');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      16 of exec file called by :    
+anke__29/CH7/EX7.19.3/exa7_19_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH7/EX7.24.6/exa7_24_6.sce
+ 
+ 
+ 
+[2J[0;0H 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+anke__29/CH7/EX7.24.6/exa7_24_6.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH8/EX8.6.1/exa8_6_1.sce
+ 
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+_Manke__29/CH8/EX8.6.1/exa8_6_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH8/EX8.6.2/exa8_6_2.sce
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH8/EX8.6.2/exa8_6_2.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH8/EX8.6.3/exa8_6_3.sce
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Manke__29/CH8/EX8.6.3/exa8_6_3.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.1/exa11_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ G(s)=   
+ 
+                  2    
+     96 + 56s + 8s     
+    ---------------    
+           2    3   4  
+    4s + 6s + 4s + s   
+ 
+ 
+ 
+Systems_B._S._Manke__29/exa11_1');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      10 of exec file called by :    
+._Manke__29/CH11/EX11.1/exa11_1.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.21.b/exa11_21_b.sce
+ 
+ 
+ 
+ 
+ num  =
+ 
+    210.  
+ 
+ 
+ 
+ G  =
+ 
+            210           
+    -------------------   
+             2     3   4  
+    12s + 30s + 14s + s   
+ 
+ 
+ 
+ 
+ 
+ gm  =
+ 
+  - 18.492679  
+ 
+ pm  =
+ 
+  - 49.159311  
+ 
+ 
+ gain_margin=   
+ 
+  - 18.492679  
+ 
+ 
+ phase_margin=   
+ 
+  - 49.159311  
+ 
+tems_B._S._Manke__29/exa11_21_b');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      17 of exec file called by :    
+e__29/CH11/EX11.21.b/exa11_21_b.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.24/exa11_24.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GH  =
+ 
+        50       
+    ----------   
+              2  
+    2 + 3s + s   
+ 
+ GH1  =
+ 
+        50       
+    ----------   
+              2  
+    2 - 3s + s   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since the point(-1+%i0) is not encircled by Nyquist plot ,so N=0 and P=0(given 
+      )                                                                         
+ 
+ 
+ 
+ 
+ 
+ Z=   
+ 
+    0.  
+ 
+ 
+ as Z=0,there are no roots of closed loop characterstics eq having positive rea 
+      l part, hence system is stable.                                           
+ 
+ystems_B._S._Manke__29/exa11_24');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      23 of exec file called by :    
+Manke__29/CH11/EX11.24/exa11_24.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.25/exa11_25.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ g  =
+ 
+          2.2          
+    ---------------    
+           2    3   4  
+    2s + 4s + 3s + s   
+ 
+ g1  =
+ 
+          2.2          
+    ---------------    
+           2    3   4  
+  - 2s + 4s - 3s + s   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ as the nyquist plot passes through the point -1+%i*0, so system is marginally  
+      stable and output represents sustained oscillations.                      
+ 
+ystems_B._S._Manke__29/exa11_25');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      15 of exec file called by :    
+Manke__29/CH11/EX11.25/exa11_25.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.26.ii/exa11_26_ii.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for K=4   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since the point(-1+%i0) is  encircled anticlockwise by Nyquist plot ,so N=1 an 
+      d P=1(given)                                                              
+ 
+ 
+ 
+ 
+ 
+ Z=   
+ 
+    0.  
+ 
+ 
+ as Z=0,there are no roots of closed loop characterstics eq having positive rea 
+      l part, hence system is stable.                                           
+ 
+ 
+ems_B._S._Manke__29/exa11_26_ii');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      23 of exec file called by :    
+_29/CH11/EX11.26.ii/exa11_26_ii.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.26.i/exa11_26_i.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for K=10   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since the point(-1+%i0) is  encircled clockwise by Nyquist plot ,so N=-1 and P 
+      =1(given)                                                                 
+ 
+ 
+ 
+ 
+ 
+ Z=   
+ 
+    1.  
+ 
+ 
+ as Z=1,there is one roots of closed loop characterstics eq having positive rea 
+      l part, hence system is unstable.                                         
+ 
+ 
+ 
+tems_B._S._Manke__29/exa11_26_i');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      24 of exec file called by :    
+e__29/CH11/EX11.26.i/exa11_26_i.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH11/EX11.31/exa11_31.sce
+ 
+ 
+ 
+ 
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+Manke__29/CH11/EX11.31/exa11_31.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.23.iii/exa12_23_iii.sce
+ 
+ 
+ 
+ 
+ for K=10   
+ 
+g=(10*(s+10)*(s+40))/(s*(s+1)*(s+4));
+         !--error 4 
+Undefined variable: s
+at line       5 of exec file called by :    
+9/CH12/EX12.23.iii/exa12_23_iii.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.23.ii/exa12_23_ii.sce
+ 
+ 
+ 
+ 
+ for K=1   
+ 
+g=(0.1*(s+10)*(s+40))/(s*(s+1)*(s+4));
+          !--error 4 
+Undefined variable: s
+at line       5 of exec file called by :    
+_29/CH12/EX12.23.ii/exa12_23_ii.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.23.i/exa12_23_i.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for K=0.1   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since the point(-1+%i0) is  not encircled clockwise by Nyquist plot ,so N=0 an 
+      d P=0                                                                     
+ 
+ 
+ 
+ 
+ 
+ Z=   
+ 
+    0.  
+ 
+ 
+ as Z=0,there are no roots of closed loop characterstics eq having positive rea 
+      l part, hence system is stable.                                           
+ 
+tems_B._S._Manke__29/exa12_23_i');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      24 of exec file called by :    
+e__29/CH12/EX12.23.i/exa12_23_i.sce',-1
+ 
+ERROR: Linear_Control_Systems_B._S._Manke__29/CH12/EX12.27/exa12_27.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for K=0.5   
+ 
+ 
+ 
+ 
+ 
+ 
+ pm  =
+ 
+    44.060312  
+ 
+ 
+ phase margin=   
+ 
+    44.060312  
+ 
+ gm  =
+ 
+    12.0412  
+ 
+ 
+ gain margin=   
+ 
+    12.0412  
+ 
+ystems_B._S._Manke__29/exa12_27');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      17 of exec file called by :    
+Manke__29/CH12/EX12.27/exa12_27.sce',-1
+ 

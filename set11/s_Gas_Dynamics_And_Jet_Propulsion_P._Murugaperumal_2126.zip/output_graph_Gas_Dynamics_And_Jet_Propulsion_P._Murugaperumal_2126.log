@@ -1,0 +1,473 @@
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.1/1.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ m  =
+ 
+    0.75  
+ 
+ T1  =
+ 
+    800.  
+ 
+ P1  =
+ 
+    400.  
+ 
+ P2  =
+ 
+    150.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ 
+ p1  =
+ 
+    0.375  
+ 
+ T2  =
+ 
+    604.48376  
+ 
+ W  =
+ 
+    105.21218  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 32x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  -2
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ V1  =
+ 
+    547.712  
+ 
+ V2  =
+ 
+    903.40656  
+ 
+ V  =
+ 
+ 
+         column  1 to 10
+ 
+    547.712    551.26894    554.82589    558.38283    561.93978    565.49673    569.05367    572.61062    576.16756    579.72451  
+ 
+         column 11 to 19
+ 
+    583.28145    586.8384    590.39535    593.95229    597.50924    601.06618    604.62313    608.18007    611.73702  
+ 
+         column 20 to 28
+ 
+    615.29396    618.85091    622.40786    625.9648    629.52175    633.07869    636.63564    640.19258    643.74953  
+ 
+         column 29 to 37
+ 
+    647.30648    650.86342    654.42037    657.97731    661.53426    665.0912    668.64815    672.20509    675.76204  
+ 
+         column 38 to 46
+ 
+    679.31899    682.87593    686.43288    689.98982    693.54677    697.10371    700.66066    704.21761    707.77455  
+ 
+         column 47 to 55
+ 
+    711.3315    714.88844    718.44539    722.00233    725.55928    729.11622    732.67317    736.23012    739.78706  
+ 
+         column 56 to 64
+ 
+    743.34401    746.90095    750.4579    754.01484    757.57179    761.12874    764.68568    768.24263    771.79957  
+ 
+         column 65 to 73
+ 
+    775.35652    778.91346    782.47041    786.02735    789.5843    793.14125    796.69819    800.25514    803.81208  
+ 
+         column 74 to 82
+ 
+    807.36903    810.92597    814.48292    818.03987    821.59681    825.15376    828.7107    832.26765    835.82459  
+ 
+         column 83 to 91
+ 
+    839.38154    842.93848    846.49543    850.05238    853.60932    857.16627    860.72321    864.28016    867.8371  
+ 
+         column  92 to 101
+ 
+    871.39405    874.951    878.50794    882.06489    885.62183    889.17878    892.73572    896.29267    899.84961    903.40656  
+ 
+P = P1*V1^k./V^k //Representing pressure on graph
+                 !       
+at line      23 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.1/1.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ P  =
+ 
+ 
+         column  1 to 10
+ 
+    400.    396.39139    392.83823    389.33932    385.8935    382.49963    379.1566    375.86336    372.61885    369.42206  
+ 
+         column 11 to 20
+ 
+    366.27199    363.1677    360.10823    357.09269    354.12018    351.18983    348.30081    345.4523    342.64349    339.8736  
+ 
+         column 21 to 30
+ 
+    337.14188    334.44758    331.78998    329.16838    326.5821    324.03045    321.51279    319.02848    316.5769    314.15743  
+ 
+         column 31 to 40
+ 
+    311.76949    309.4125    307.0859    304.78912    302.52164    300.28292    298.07245    295.88973    293.73427    291.60559  
+ 
+         column 41 to 50
+ 
+    289.50321    287.42669    285.37557    283.34941    281.3478    279.3703    277.4165    275.48602    273.57845    271.69341  
+ 
+         column 51 to 60
+ 
+    269.83053    267.98944    266.16978    264.3712    262.59335    260.8359    259.09852    257.38088    255.68267    254.00358  
+ 
+         column 61 to 69
+ 
+    252.3433    250.70154    249.07801    247.47242    245.88449    244.31394    242.76052    241.22395    239.70398  
+ 
+         column 70 to 79
+ 
+    238.20035    236.71282    235.24115    233.78509    232.34441    230.91888    229.50829    228.1124    226.731    225.36388  
+ 
+         column 80 to 88
+ 
+    224.01083    222.67165    221.34614    220.03409    218.73532    217.44963    216.17685    214.91679    213.66926  
+ 
+         column 89 to 97
+ 
+    212.4341    211.21112    210.00017    208.80107    207.61366    206.43778    205.27327    204.11998    202.97774  
+ 
+         column  98 to 101
+ 
+    201.84643    200.72588    199.61595    198.5165  
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = "P*V^k=C"
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = "Polyline"
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+Workdone is 105.21 kJ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.2/2.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ V1  =
+ 
+    0.35  
+ 
+ P1  =
+ 
+    110.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ P2  =
+ 
+    600.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cv  =
+ 
+    718.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ dQ  =
+ 
+    0.  
+ 
+ m  =
+ 
+    0.4471545  
+ 
+ p1  =
+ 
+    5.4545455  
+ 
+ T2  =
+ 
+    487.10625  
+ 
+ dU  =
+ 
+    60.071755  
+ 
+ dW  =
+ 
+  - 60.071755  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 32x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  -2
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ V1cc  =
+ 
+    350.  
+ 
+ V2cc  =
+ 
+    1175.7748  
+ 
+ V  =
+ 
+ 
+         column  1 to 10
+ 
+    350.    358.25775    366.5155    374.77325    383.03099    391.28874    399.54649    407.80424    416.06199    424.31974  
+ 
+         column 11 to 19
+ 
+    432.57748    440.83523    449.09298    457.35073    465.60848    473.86623    482.12397    490.38172    498.63947  
+ 
+         column 20 to 28
+ 
+    506.89722    515.15497    523.41272    531.67046    539.92821    548.18596    556.44371    564.70146    572.95921  
+ 
+         column 29 to 38
+ 
+    581.21695    589.4747    597.73245    605.9902    614.24795    622.5057    630.76345    639.02119    647.27894    655.53669  
+ 
+         column 39 to 47
+ 
+    663.79444    672.05219    680.30994    688.56768    696.82543    705.08318    713.34093    721.59868    729.85643  
+ 
+         column 48 to 56
+ 
+    738.11417    746.37192    754.62967    762.88742    771.14517    779.40292    787.66066    795.91841    804.17616  
+ 
+         column 57 to 66
+ 
+    812.43391    820.69166    828.94941    837.20716    845.4649    853.72265    861.9804    870.23815    878.4959    886.75365  
+ 
+         column 67 to 75
+ 
+    895.01139    903.26914    911.52689    919.78464    928.04239    936.30014    944.55788    952.81563    961.07338  
+ 
+         column 76 to 84
+ 
+    969.33113    977.58888    985.84663    994.10437    1002.3621    1010.6199    1018.8776    1027.1354    1035.3931  
+ 
+         column 85 to 93
+ 
+    1043.6509    1051.9086    1060.1664    1068.4241    1076.6819    1084.9396    1093.1974    1101.4551    1109.7129  
+ 
+         column  94 to 101
+ 
+    1117.9706    1126.2283    1134.4861    1142.7438    1151.0016    1159.2593    1167.5171    1175.7748  
+ 
+P = P2*V1cc^k./V^k //Representing pressure on graph
+                   !       
+at line      27 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.2/2.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ P  =
+ 
+ 
+         column  1 to 10
+ 
+    600.    580.72789    562.49314    545.2184    528.83359    513.27513    498.48519    484.4111    471.00472    458.22205  
+ 
+         column 11 to 19
+ 
+    446.02278    434.36987    423.22931    412.56975    402.3623    392.58026    383.19893    374.19547    365.54866  
+ 
+         column 20 to 28
+ 
+    357.23881    349.24763    341.55806    334.15423    327.02133    320.14553    313.51389    307.1143    300.93544  
+ 
+         column 29 to 37
+ 
+    294.96666    289.19799    283.62006    278.22405    273.00168    267.94512    263.04702    258.30044    253.69882  
+ 
+         column 38 to 47
+ 
+    249.23596    244.90602    240.70345    236.62301    232.65973    228.8089    225.06606    221.42697    217.88759    214.4441  
+ 
+         column 48 to 56
+ 
+    211.09286    207.83041    204.65346    201.55885    198.54361    195.60488    192.73993    189.94617    187.22112  
+ 
+         column 57 to 65
+ 
+    184.56241    181.96778    179.43505    176.96216    174.54712    172.18804    169.8831    167.63054    165.42871  
+ 
+         column 66 to 74
+ 
+    163.27599    161.17086    159.11183    157.09749    155.12647    153.19746    151.30922    149.46053    147.65022  
+ 
+         column 75 to 83
+ 
+    145.87717    144.14032    142.43862    140.77107    139.13671    137.53461    135.96388    134.42365    132.91309  
+ 
+         column 84 to 93
+ 
+    131.4314    129.9778    128.55154    127.15191    125.7782    124.42973    123.10586    121.80595    120.5294    119.27561  
+ 
+         column  94 to 101
+ 
+    118.04402    116.83406    115.64521    114.47695    113.32878    112.20021    111.09077    110.  
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = "P*V^k=C"
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = "Polyline"
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+(A)Heat transfer is   0 J
+ (B)Change in internal energy is 60.072 kJ
+ (C)Workdone is -60.072 kJ
+ 
+ 

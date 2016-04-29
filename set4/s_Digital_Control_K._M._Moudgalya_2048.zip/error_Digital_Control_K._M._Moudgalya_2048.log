@@ -1,0 +1,583 @@
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH13/EX13.8/lqg_as1.sce
+ 
+ 
+ 
+ 
+exec('lqg1.sci',-1);
+                    !--error 241 
+File "lqg1.sci" does not exist.
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH13/EX13.8/lqg_as1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.1/ball_basic.sce
+ 
+ 
+ 
+exec('myc2d.sci',-1);
+                     !--error 241 
+File "myc2d.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.1/ball_basic.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.17/dof_choice.sce
+ 
+ 
+ 
+exec('pp_im.sci',-1);
+                     !--error 241 
+File "pp_im.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.17/dof_choice.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH14/EX14.2/ex_comp.sce
+ 
+ 
+ 
+exec('polyno.sci',-1);
+                      !--error 241 
+File "polyno.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH14/EX14.2/ex_comp.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH12/EX12.1/gpc_ex11.sce
+ 
+ 
+ 
+exec('xdync.sci',-1);
+                     !--error 241 
+File "xdync.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH12/EX12.1/gpc_ex11.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH12/EX12.3/gpc_ex12.sce
+ 
+ 
+ 
+exec('gpc_bas.sci',-1);
+                       !--error 241 
+File "gpc_bas.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH12/EX12.3/gpc_ex12.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.2/recursion_ex1.sce
+ 
+ 
+ 
+exec('poladd.sci',-1);
+                      !--error 241 
+File "poladd.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.2/recursion_ex1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.1/rlocus_ex1.sce
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.1/rlocus_ex1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH12/EX12.7/gpc_ex2.sce
+ 
+ 
+ 
+exec('gpc_col.sci',-1);
+                       !--error 241 
+File "gpc_col.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH12/EX12.7/gpc_ex2.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH13/EX13.1/spec_ex.sce
+ 
+ 
+ 
+exec('spec1.sci',-1);
+                     !--error 241 
+File "spec1.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH13/EX13.1/spec_ex.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.15/sigurd_his.sce
+ 
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.15/sigurd_his.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH10/EX10.6/visc_imc1.sce
+ 
+ 
+ 
+exec('imc_stable1.sci',-1);
+                           !--error 241 
+File "imc_stable1.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH10/EX10.6/visc_imc1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH10/EX10.7/vande_imc1.sce
+ 
+ 
+ 
+exec('tf.sci');
+               !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH10/EX10.7/vande_imc1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH10/EX10.8/lewin_imc1.sce
+ 
+ 
+ 
+exec('tf.sci');
+               !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH10/EX10.8/lewin_imc1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH10/EX10.10/vande_imc.sce
+ 
+ 
+ 
+exec('tf.sci');
+               !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH10/EX10.10/vande_imc.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.9/ball_im.sce
+ 
+ 
+ 
+ 
+exec('desired.sci',-1);
+                       !--error 241 
+File "desired.sci" does not exist.
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.9/ball_im.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.6/ant_lead.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exec('cosfil_ip.sci',-1);
+                         !--error 241 
+File "cosfil_ip.sci" does not exist.
+at line      23 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.6/ant_lead.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.13/gmv_mac1.sce
+ 
+ 
+ 
+ 
+ 
+exec('gmv.sci',-1);
+                   !--error 241 
+File "gmv.sci" does not exist.
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.13/gmv_mac1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.4/mv_mac1.sce
+ 
+ 
+ 
+exec('mv.sci',-1);
+                  !--error 241 
+File "mv.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.4/mv_mac1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH13/EX13.5/lqg_mac1.sce
+ 
+ 
+ 
+ 
+ 
+exec('lqg1.sci',-1);
+                    !--error 241 
+File "lqg1.sci" does not exist.
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH13/EX13.5/lqg_mac1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.19/pid_neg.sce
+ 
+ 
+ 
+exec('iodelay.sci',-1);
+                       !--error 241 
+File "iodelay.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.19/pid_neg.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.21/motor_pd.sce
+ 
+ 
+ 
+exec('desired.sci',-1);
+                       !--error 241 
+File "desired.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.21/motor_pd.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH12/EX12.10/gpc_pid_test.sce
+ 
+ 
+ 
+exec('gpc_pid.sci',-1);
+                       !--error 241 
+File "gpc_pid.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH12/EX12.10/gpc_pid_test.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.18/ibm_pp_sat.sce
+ 
+ 
+ 
+exec('pp_im2.sci',-1);
+                      !--error 241 
+File "pp_im2.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.18/ibm_pp_sat.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.10/ibm_pp.sce
+ 
+ 
+ 
+exec('desired.sci',-1);
+                       !--error 241 
+File "desired.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.10/ibm_pp.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH10/EX10.1/delay.sce
+ 
+ 
+ 
+exec('zpowk.sci',-1);
+                     !--error 241 
+File "zpowk.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH10/EX10.1/delay.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH10/EX10.2/smith.sce
+ 
+ 
+ 
+exec('zpowk.sci',-1);
+                     !--error 241 
+File "zpowk.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH10/EX10.2/smith.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.15/miller.sce
+ 
+ 
+ 
+exec('gmvc_pid.sci',-1);
+                        !--error 241 
+File "gmvc_pid.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.15/miller.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.8/sumsq.sce
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.8/sumsq.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH14/EX14.1/pend.sce
+ 
+ 
+ 
+exec('pol2cart.sci',-1);
+                        !--error 241 
+File "pol2cart.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH14/EX14.1/pend.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.8/abex.sce
+ 
+ 
+ 
+exec('indep.sci',-1);
+                     !--error 241 
+File "indep.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.8/abex.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.11/motor.sce
+ 
+ 
+ 
+exec('desired.sci',-1);
+                       !--error 241 
+File "desired.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.11/motor.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.14/sigurd.sce
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.14/sigurd.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.7/unstb.sce
+ 
+ 
+ 
+exec('desired.sci',-1);
+                       !--error 241 
+File "desired.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.7/unstb.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.7/type_test.sce
+ 
+ 
+ 
+exec('rowjoin.sci',-1);
+                       !--error 241 
+File "rowjoin.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.7/type_test.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.11/mv_visc.sce
+ 
+ 
+ 
+ 
+ 
+exec('mv_nm.sci',-1);
+                     !--error 241 
+File "mv_nm.sci" does not exist.
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.11/mv_visc.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.14/gmv_visc.sce
+ 
+ 
+ 
+ 
+ 
+exec('gmv.sci',-1);
+                   !--error 241 
+File "gmv.sci" does not exist.
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.14/gmv_visc.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH13/EX13.6/lqg_visc.sce
+ 
+ 
+ 
+ 
+exec('lqg1.sci',-1);
+                    !--error 241 
+File "lqg1.sci" does not exist.
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH13/EX13.6/lqg_visc.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH12/EX12.8/gpc_wtc.sce
+ 
+ 
+ 
+exec('gpc_Nc.sci',-1);
+                      !--error 241 
+File "gpc_Nc.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH12/EX12.8/gpc_wtc.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH12/EX12.4/gpc_wt.sce
+ 
+ 
+ 
+exec('gpc_N.sci',-1);
+                     !--error 241 
+File "gpc_N.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH12/EX12.4/gpc_wt.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH9/EX9.16/type_2DOF.sce
+ 
+ 
+ 
+exec('polsplit3.sci',-1);
+                         !--error 241 
+File "polsplit3.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH9/EX9.16/type_2DOF.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.3/pm_10.sce
+ 
+ 
+ 
+exec('xdync.sci',-1);
+                     !--error 241 
+File "xdync.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.3/pm_10.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH11/EX11.10/ast_12p9.sce
+ 
+ 
+ 
+exec('mv_nm.sci',-1);
+                     !--error 241 
+File "mv_nm.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH11/EX11.10/ast_12p9.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.9/data01.sce
+ 
+ 
+ 
+exec('rowjoin.sci',-1);
+                       !--error 241 
+File "rowjoin.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.9/data01.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.1/aconv1.sce
+ 
+ 
+ 
+exec('stem.sci',-1);
+                    !--error 241 
+File "stem.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.1/aconv1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.6/respol1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exec('respol.sci',-1);
+                      !--error 241 
+File "respol.sci" does not exist.
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.6/respol1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.2/aconv2.sce
+ 
+ 
+ 
+exec('stem.sci',-1);
+                    !--error 241 
+File "stem.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.2/aconv2.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.7/respol2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exec('respol.sci',-1);
+                      !--error 241 
+File "respol.sci" does not exist.
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.7/respol2.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH8/EX8.1/disc2.sce
+ 
+ 
+ 
+exec('tf.sci');
+               !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH8/EX8.1/disc2.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.8/respol3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exec('respol.sci',-1);
+                      !--error 241 
+File "respol.sci" does not exist.
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.8/respol3.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.10/data05.sce
+ 
+ 
+ 
+exec('move_sci.sci',-1);
+                        !--error 241 
+File "move_sci.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.10/data05.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.9/respol5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exec('respol.sci',-1);
+                      !--error 241 
+File "respol.sci" does not exist.
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.9/respol5.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.10/respol6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exec('respol.sci',-1);
+                      !--error 241 
+File "respol.sci" does not exist.
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.10/respol6.sce',-1)
+ 

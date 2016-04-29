@@ -1,0 +1,79 @@
+ERROR: Data_Communications_And_Networking_B._A._Forouzan_1163/CH2/EX2.1/example_2_1.sce
+ 
+[2J[0;0H 
+ 
+ --------------Example 2.1---------------   
+ 
+ 
+A node with physical address 10 sends a frame to a node with physical address 87. The two nodes are connected by a link (bus topology LAN).
+At the data link layer, this frame contains physical (link) addresses in the header.The trailer contains extra bits needed for error detection.
+The computer with physical address 10 is the sender, and the computer with physical address 87 is the receiver.
+The header, among other pieces of information, carries the receiver and the sender physical (link) The destination address, 87 comes 
+before the source address 10. In a bus topology, the frame is propagated in both directions (left and right). The frame propagated
+to the left dies when it reaches the end of the cable if the cable end is terminated appropriately. The frame propagated to the right is sent
+to every station on the network. Each station with a physical addresses other than 87 drops the frame because the destination address in the frame
+does not match its own physical address. The intended destination computer, however, finds a match between the destination address
+in the frame and its own physical address. The frame is checked, the header and trailer are dropped, and the data part is decapsulated and
+delivered to the upper layer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

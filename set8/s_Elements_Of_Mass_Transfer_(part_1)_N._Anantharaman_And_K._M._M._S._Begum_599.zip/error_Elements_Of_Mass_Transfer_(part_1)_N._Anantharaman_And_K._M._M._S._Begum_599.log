@@ -1,0 +1,22 @@
+ERROR: Elements_Of_Mass_Transfer_(part_1)_N._Anantharaman_And_K._M._M._S._Begum_599/CH5/EX5.5/example5_5.sce
+ 
+ 
+ 
+	 Example 5.5
+ 
+ 
+ 
+ 
+
+ we get humidity as(from chart)  :0.018300 kg of water/kg dry air 
+
+ we get saturation humidity as(from chart)  :67 percent 
+ 
+ 
+ 
+rh=(pa/pa2)*100;            //relative humidity in pecentage
+      !--error 4 
+Undefined variable: pa
+at line      13 of exec file called by :    
+N._Anantharaman_And_K._M._M._S._Begum_599/CH5/EX5.5/example5_5.sce',-1
+ 

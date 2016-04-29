@@ -1,0 +1,27 @@
+ERROR: Electrical_Engineering_Fundamentals_V._Del_Toro_293/CH2/EX2.1.c/eg2_1c.sce
+ 
+ 
+ 
+ 
+ 
+ c - a)   
+ 
+ 
+ voltage across the resistor (in volts)=   
+ 
+    10.  
+ 
+ 
+ current flowing through the resistor (in amps) =   
+ 
+    1.  
+ 
+ 
+ 
+ 
+Vr2 = I*R2; //voltage across R2
+          !--error 4 
+Undefined variable: R2
+at line      11 of exec file called by :    
+Del_Toro_293/CH2/EX2.1.c/eg2_1c.sce',-1
+ 

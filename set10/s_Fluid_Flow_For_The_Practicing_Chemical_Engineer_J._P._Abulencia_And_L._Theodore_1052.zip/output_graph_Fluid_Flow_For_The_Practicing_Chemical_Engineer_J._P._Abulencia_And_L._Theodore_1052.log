@@ -1,0 +1,147 @@
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH7/EX7.3/3.sce #
+[2J[0;0H 
+ 
+ 
+Example 7.3 page no 66,fig 7.4
+
+
+ 
+ 
+ 
+ rho  =
+ 
+    800.  
+ 
+ v1  =
+ 
+    5.  
+ 
+ S1  =
+ 
+    0.2  
+ 
+ v2  =
+ 
+    7.  
+ 
+ S2  =
+ 
+    0.3  
+ 
+ v3  =
+ 
+    12.  
+ 
+ S3  =
+ 
+    0.25  
+ 
+ S4  =
+ 
+    0.15  
+ 
+
+ velocity v1=5.000000 m/s 
+ surface area S1=0.200000 m^2/s
+ velocity v2=7.000000 m/s
+ surface area S2=0.300000 m^2/s
+ velocity v3=12.000000 m/s
+ surface area S3=0.250000 m^2/s
+ surface area S4=0.150000 m^2/s 
+ q1  =
+ 
+    1.  
+ 
+ q2  =
+ 
+    2.1  
+ 
+ q3  =
+ 
+    3.  
+ 
+
+ volumatric flow rate q1=1.000000 m^3/s
+ volumatric flow rate q2=2.100000  m^3/s
+ volumatrisc flow rate q3=3.000000 m^3/s 
+ 
+ q4  =
+ 
+    0.1  
+ 
+ v4  =
+ 
+    0.6666667  
+ 
+
+ volumatric flow rate q4=0.100000 m^3/s
+ velocity v4=0.666667 m/s  
+ m  =
+ 
+    80.  
+ 
+
+ mass flow rate m=80.000000 kg/s 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.13/2113.sce #
+[2J[0;0H 
+ 
+ 
+Example 21.13 page no 289 fig 21.1  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ rho_m  =
+ 
+    13600.  
+ 
+ h  =
+ 
+    0.04  
+ 
+ rho  =
+ 
+    919.  
+ 
+ g  =
+ 
+    9.804  
+ 
+ D  =
+ 
+    0.055  
+ 
+ meu  =
+ 
+    0.04  
+ 
+ v  =
+ 
+    3.2897708  
+ 
+
+ flow velocity v=3.289771 m/s 
+ 
+ S  =
+ 
+    0.0023758  
+ 
+ m_dot  =
+ 
+    7.1828436  
+ 
+ R_e  =
+ 
+    4157.0366  
+ 
+
+ reynolds no R_e=4157.036616  
+
+ mass flow rate m_dot=7.182844 kg/s 
+ 

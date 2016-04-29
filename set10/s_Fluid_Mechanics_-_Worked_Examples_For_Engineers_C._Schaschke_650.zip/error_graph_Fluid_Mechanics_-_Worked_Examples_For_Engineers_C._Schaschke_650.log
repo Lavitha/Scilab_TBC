@@ -1,0 +1,242 @@
+ERROR: Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH5/EX5.2/2.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Rate of flow =   
+ 
+ 
+    2.74  
+ 
+ 
+ m^3/s   
+ 
+ 
+ 
+ 
+ 
+ 
+ Average velocity =   
+ 
+ 
+    13.954705  
+ 
+ 
+ m/s   
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/2');xend();exit();
+                                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      21 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH5/EX5.2/2.sce',-1)
+ 
+ERROR: Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH7/EX7.3/3.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depth =    
+ 
+ 
+    4.13  
+ 
+ 
+ m   
+ 
+ 
+ 
+ 
+ Chezy Coefficient =   
+ 
+ 
+    77.405132  
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/3');xend();exit();
+                                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      43 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH7/EX7.3/3.sce',-1)
+ 
+ERROR: Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH7/EX7.5/5.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The depth in the channel =   
+ 
+ 
+    0.201  
+ 
+ 
+ m   
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/5');xend();exit();
+                                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      39 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH7/EX7.5/5.sce',-1)
+ 
+ERROR: Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH9/EX9.10/10.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["pump";"system"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Duty point =   
+ 
+ 
+    0.0066  
+ 
+ 
+ m^3/s   
+ 
+ 
+ 
+ 
+ The speed of the pump to reduce the flow by 25% =   
+ 
+ 
+    986.97398  
+ 
+ 
+ rpm   
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/10');xend();exit();
+                                                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      49 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluid_Mechanics_-_Worked_Examples_For_Engineers_C._Schaschke_650/CH9/EX9.10/10.sce',-1)
+ 

@@ -1,0 +1,3532 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 129
+
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH1/EX1.1/example_1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+Time period of the waveform is T = 0.000000 us
+ 
+ Duty cycle H = 25.000000 % 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH1/EX1.2/example_1_2.sce #
+ 
+ 
+ 
+ 
+ 
+Maximum count = 255 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH2/EX2.10/example_2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Truth table :   
+ 
+ 
+    A     B     C     D     Y   
+ 
+ 
+ 
+    0.    0.    0.    0.    0.  
+    0.    0.    0.    1.    0.  
+    0.    0.    1.    0.    0.  
+    0.    0.    1.    1.    0.  
+    0.    1.    0.    0.    0.  
+    0.    1.    0.    1.    1.  
+    0.    1.    1.    0.    1.  
+    0.    1.    1.    1.    1.  
+    1.    0.    0.    0.    0.  
+    1.    0.    0.    1.    1.  
+    1.    0.    1.    0.    1.  
+    1.    0.    1.    1.    1.  
+    1.    1.    0.    0.    0.  
+    1.    1.    0.    1.    1.  
+    1.    1.    1.    0.    1.  
+    1.    1.    1.    1.    1.  
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH2/EX2.12/example_2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Y    Y1   
+ 
+ 
+ 
+    0.    0.  
+    0.    0.  
+    0.    0.  
+    1.    1.  
+    0.    0.  
+    0.    0.  
+    0.    0.  
+    1.    1.  
+    0.    0.  
+    0.    0.  
+    0.    0.  
+    1.    1.  
+    1.    1.  
+    1.    1.  
+    1.    1.  
+    1.    1.  
+ 
+ 
+ Both are logically equivalent   
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH2/EX2.13/example_2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Truth table :   
+ 
+ 
+    A     B     C     D     Y   
+ 
+ 
+ 
+    0.    0.    0.    0.    0.  
+    0.    0.    0.    1.    0.  
+    0.    0.    1.    0.    0.  
+    0.    0.    1.    1.    1.  
+    0.    1.    0.    0.    0.  
+    0.    1.    0.    1.    0.  
+    0.    1.    1.    0.    0.  
+    0.    1.    1.    1.    1.  
+    1.    0.    0.    0.    0.  
+    1.    0.    0.    1.    0.  
+    1.    0.    1.    0.    0.  
+    1.    0.    1.    1.    1.  
+    1.    1.    0.    0.    1.  
+    1.    1.    0.    1.    1.  
+    1.    1.    1.    0.    1.  
+    1.    1.    1.    1.    1.  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH2/EX2.15/example_2_15.sce #
+ 
+ 
+ 
+ 
+[0mEnter the value at S0 :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH2/EX2.3/example_2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    1.  
+ r  =
+ 
+    1.  
+    1.  
+ r  =
+ 
+    1.  
+    1.  
+    1.  
+ r  =
+ 
+    1.  
+    1.  
+    1.  
+    0.  
+ 
+ 
+    A     B     Y   
+ 
+ 
+ 
+    0.    0.    1.  
+    0.    1.    1.  
+    1.    0.    1.  
+    1.    1.    0.  
+ 
+ 
+ '1' represents a HIGH(H) and '0' represents a LOW(L)   
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH2/EX2.4/example_2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    1.  
+ r  =
+ 
+    1.  
+    0.  
+ r  =
+ 
+    1.  
+    0.  
+    0.  
+ r  =
+ 
+    1.  
+    0.  
+    0.  
+    0.  
+ 
+ 
+    A     B     Y   
+ 
+ 
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    1.    0.    0.  
+    1.    1.    0.  
+ 
+ 
+ '1' represents a HIGH(H) and '0' represents a LOW(L)   
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH2/EX2.9/example_2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Y    Y1   
+ 
+ 
+ 
+    0.    0.  
+    0.    0.  
+    0.    0.  
+    0.    0.  
+    0.    0.  
+    1.    1.  
+    1.    1.  
+    1.    1.  
+    0.    0.  
+    1.    1.  
+    1.    1.  
+    1.    1.  
+    0.    0.  
+    1.    1.  
+    1.    1.  
+    1.    1.  
+ 
+ 
+ Both are logically equivalent   
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.13/example_3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ stage 1   
+ 
+ 
+ 
+     A    B     C   
+ 
+ 
+    0.    1.    0.    2.  
+    1.    1.    0.    6.  
+    1.    1.    1.    7.  
+ 
+ count  =
+ 
+    0.    0.  
+    0.    0.  
+ 
+ 
+ pos  =
+ 
+    1.    0.  
+    0.    0.  
+ pos  =
+ 
+    1.    1.  
+    0.    0.  
+ pos  =
+ 
+    1.    3.  
+    0.    0.  
+ pos  =
+ 
+    1.    3.  
+    3.    0.  
+ 
+ 
+ 
+ 
+ stage 2   
+ 
+ 
+    2.    6.  
+    6.    7.  
+ 
+ 
+ 
+ 
+ 
+ fin  =
+ 
+    2.  
+    6.  
+    7.  
+ 
+ ppp  =
+ 
+    1.    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ The minimised expression is    
+ 
+ 
+  BC' + AB   
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.1/example_3_1.sce #
+ 
+ 
+ 
+ 
+ we can minimize the given equation as:   
+ 
+ 
+ Y = AB' + AB  = A(B' + B)   
+ 
+ 
+ Therefore,    Y =  A(1) = A   
+ 
+ 
+ this says that output Y equals to A, so all we hve to do is connect a wire bet 
+      ween input A and output Y.                                                
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.2/example_3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Multipl the factors of the foregoing equation to get   
+ 
+ 
+ Y = A'A + A'B + BA +BB   
+ 
+ 
+ it becomes,    Y =  A'B + AB + B    
+ 
+ 
+ We can factor the foregooing equation as follows :   
+ 
+ 
+ Y =  B(A' + A) + B = B + B = B    
+ 
+ 
+ this says that output Y equals to B, so all we have to do is connect a wire be 
+      tween input B and output Y.                                               
+ 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.3/example_3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The second AND gate is diffective    
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.4/example_3_4.sce #
+ 
+ 
+ 
+ 
+ Given the truth table has high output for following conditons :   
+ 
+ a  =
+ 
+    0.    0.    0.  
+    0.    1.    0.  
+    1.    0.    0.  
+    1.    1.    0.  
+ 
+ 
+    0.    0.    0.  
+    0.    1.    0.  
+    1.    0.    0.  
+    1.    1.    0.  
+ 
+ b  =
+ 
+ A^   
+ b  =
+ 
+!A^  B^  !
+ b  =
+ 
+!A^  B^  C^  !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^          !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B       !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B   C^  !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B   C^  !
+!            !
+!A           !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B   C^  !
+!            !
+!A   B^      !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B   C^  !
+!            !
+!A   B^  C^  !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B   C^  !
+!            !
+!A   B^  C^  !
+!            !
+!A           !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B   C^  !
+!            !
+!A   B^  C^  !
+!            !
+!A   B       !
+ b  =
+ 
+!A^  B^  C^  !
+!            !
+!A^  B   C^  !
+!            !
+!A   B^  C^  !
+!            !
+!A   B   C^  !
+ 
+ 
+ When you OR these products you get :   
+ 
+ 
+ 
+ A^B^C^ + A^BC^ + AB^C^ + ABC^   
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.5/example_3_5.sce #
+ 
+ 
+ 
+ 
+ The boolean equation is :   
+ 
+ 
+ Y = A'B'C' + A'BC' + AB'C' + ABC'   
+ 
+ 
+ Since C' is common to each term, factor as follows :   
+ 
+ 
+ Y = (A'B + A'B + AB' AB)C'   
+ 
+ 
+ Again, factor to get :   
+ 
+ 
+ Y = [A'(B' + B) + A(B' + B)]C'   
+ 
+ 
+ Now, simplify the foregoing as follows :   
+ 
+ 
+ Y=[A'(1) + A(1)]C' = (A' + A)C'   
+ 
+ 
+  or   Y= C'   
+ 
+ 
+ This final equation means that you don't even need a logic circuit. All you ne 
+      ed is a wire connecting input C' to output Y.                             
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.9/example_3_9.sce #
+ 
+ 
+ 
+ 
+ Given the truth table has high output for following conditons :   
+ 
+ a  =
+ 
+    0.    0.    0.  
+    0.    0.    1.  
+    0.    1.    0.  
+ 
+ 
+    0.    0.    0.  
+    0.    0.    1.  
+    0.    1.    0.  
+ 
+ 
+ b  =
+ 
+ A   
+ b  =
+ 
+!A  B  !
+ b  =
+ 
+!A  B  C  !
+ b  =
+ 
+!A  B  C  !
+!         !
+!A        !
+ b  =
+ 
+!A  B  C  !
+!         !
+!A  B     !
+ b  =
+ 
+!A  B  C   !
+!          !
+!A  B  C^  !
+ b  =
+ 
+!A  B  C   !
+!          !
+!A  B  C^  !
+!          !
+!A         !
+ b  =
+ 
+!A  B   C   !
+!           !
+!A  B   C^  !
+!           !
+!A  B^      !
+ b  =
+ 
+!A  B   C   !
+!           !
+!A  B   C^  !
+!           !
+!A  B^  C   !
+ 
+ 
+!A  B   C   !
+!           !
+!A  B   C^  !
+!           !
+!A  B^  C   !
+ 
+ 
+ The product-of-sums equation is  :   
+ 
+ 
+ 
+ (A + B + C)(A + B + C^)(A + B^ + C)   
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.10/exmple_4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When switch 6 is pressed the ABCD output is : 
+ 
+    1.    0.    0.    1.  
+ 
+ Which is equivalent to 6 when the output is complimented.In the output above a '0' represents a LOW and a '1' represents a HIGH.  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.1/exmple_4_1.sce #
+ 
+ 
+ 
+ 
+ Logic equation for 2-to-1 Multiplexer :   
+ 
+ Y = A'D0 + AD1
+ 
+ 
+ Logic equation for 4-to-1 Multiplexer :   
+ 
+ Y = A'B'D0 + A'BD1 + AB'D2 + ABD3
+ 
+ 
+ This can be rewritten as,   
+ 
+ Y= A'(B'D0 + BD1) + A(B'D2 + BD3)
+ 
+ 
+ Compare this with equation of 2-to-1 mux. We need two 2-to-1 multiplexer to re 
+      alize the bracketed terms where B serves as select input. The output of t 
+      hese two multiplexers can be sent to a third multiplexer as data inputs w 
+      here A serves as select input and we get the 4-to-1 multiplexer.          
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.2/exmple_4_2.sce #
+ 
+ 
+ 
+ a  =
+ 
+    0.  
+ 
+ a  =
+ 
+    0.    1.  
+ 
+ a  =
+ 
+    0.    1.    2.  
+ 
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+ 
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+ 
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+ 
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+    1.    0.    0.  
+ 
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+    1.    1.    0.  
+ 
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+    1.    1.    1.  
+ 
+ 
+ coun  =
+ 
+    1.  
+ p  =
+ 
+    4.  
+ coun  =
+ 
+    1.  
+ p  =
+ 
+    5.  
+ 
+ 
+ 
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+    1.    1.    1.  
+    0.    0.    0.  
+    0.    0.    0.  
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+    1.    1.    1.  
+    0.    1.    0.  
+    0.    0.    0.  
+ a  =
+ 
+    0.    1.    2.  
+    2.    0.    0.  
+    1.    1.    1.  
+    0.    1.    2.  
+    0.    0.    0.  
+ a  =
+ 
+    0.    1.    0.  
+    2.    0.    0.  
+    1.    1.    1.  
+    0.    1.    1.  
+    2.    0.    0.  
+ a  =
+ 
+    0.    1.    0.  
+    2.    0.    0.  
+    1.    1.    1.  
+    0.    1.    1.  
+    2.    0.    0.  
+ a  =
+ 
+    0.    1.    0.  
+    2.    0.    0.  
+    1.    1.    1.  
+    0.    1.    1.  
+    2.    0.    0.  
+ 
+ f  =
+ 
+    0.  
+ f  =
+ 
+    2.  
+    0.  
+ f  =
+ 
+    2.  
+    0.  
+    0.  
+ f  =
+ 
+    2.  
+    0.  
+    7.  
+    0.  
+ f  =
+ 
+    2.  
+    0.  
+    7.  
+    3.  
+    0.  
+ 
+ 
+ The min terms are :   
+ 
+ 
+    A     B     C   
+ 
+ 
+    0.    1.    0.  
+    0.    0.    0.  
+    1.    1.    1.  
+    0.    1.    1.  
+    1.    0.    0.  
+ 
+ l  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ The following data lines are to be given '1' and remaining should be given '0  
+ 
+ 
+    2.    0.    7.    3.    4.  
+ 
+ 
+ For a 4-1 mux, we should give D0 =C',D1 = '1',D2 = C' and D3 = C with A and B  
+      as data selector inputs                                                   
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.3/exmple_4_3.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    32.  
+    5.   
+ 
+ 
+ 
+A 32-to-1 multiplexer requires 5 select lines, The lower 4 select lines choose 16-to-1 multiplexer outputs. The 2-to-1 multiplexers chooses one of the outpt of two 16-to-1 multiplexers depending on what appears in the 5th select line. 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.4/exmple_4_4.sce #
+ 
+ 
+ 
+[0mEnter the value of R (0 or 1) :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.7/exmple_4_7.sce #
+ 
+ 
+ 
+[0mEnter the no.of terms in ur expression :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.8/exmple_4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    1.  
+ 
+ v  =
+ 
+    2.  
+ 
+ 
+The current through a LED is : 3.000000 mA 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.9/exmple_4_9.sce #
+ 
+ 
+ 
+ 
+[0m Enter the values of ABCD :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.10/example_5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Given decimal number is : 56000
+ 
+The hexadecimal equivalent is = DAC0
+ 
+ 
+The binary equivalent is = 1101101011000000.000000
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.11/example_5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the decimal no:[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.1/example_5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e  =
+ 
+    0.000047748908401  
+ w  =
+ 
+    0.000047748908401  
+ d  =
+ 
+    1000000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000047748908401    0.  
+ d  =
+ 
+    100000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000047748908401    0.    0.  
+ d  =
+ 
+    10000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000047748908401    0.    0.    0.  
+ d  =
+ 
+    1000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000047748908401    0.    0.    0.    0.  
+ d  =
+ 
+    100.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000047748908401    0.    0.    0.    0.    0.  
+ d  =
+ 
+    10.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000047748908401    0.    0.    0.    0.    0.    0.  
+ d  =
+ 
+    1.  
+ e  =
+ 
+    1.  
+ w  =
+ 
+    0.000047748908401    0.    0.    0.    0.    0.    0.    1.  
+ d  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+The Decimal equivalent of the Binary number given is = 6.125000 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.2/example_5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e  =
+ 
+    0.000136375427246  
+ w  =
+ 
+    0.000136375427246  
+ d  =
+ 
+    110000000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000136375427246    0.  
+ d  =
+ 
+    11000000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000136375427246    0.    0.  
+ d  =
+ 
+    1100000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000136375427246    0.    0.    0.  
+ d  =
+ 
+    110000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000136375427246    0.    0.    0.    0.  
+ d  =
+ 
+    11000.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000136375427246    0.    0.    0.    0.    0.  
+ d  =
+ 
+    1100.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000136375427246    0.    0.    0.    0.    0.    0.  
+ d  =
+ 
+    110.  
+ e  =
+ 
+    0.  
+ w  =
+ 
+    0.000136375427246    0.    0.    0.    0.    0.    0.    0.  
+ d  =
+ 
+    11.  
+ e  =
+ 
+    1.  
+ w  =
+ 
+    0.000136375427246    0.    0.    0.    0.    0.    0.    0.    1.  
+ d  =
+ 
+    1.  
+ e  =
+ 
+    1.  
+ w  =
+ 
+    0.000136375427246    0.    0.    0.    0.    0.    0.    0.    1.    1.  
+ d  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+The Decimal equivalent of the Binary number given is = 11.750000 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.3/example_5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+The decimal equivalent of 2Mb is = 2097152.000000  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.4/example_5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The binary equivalent of the given decimal number is = 10111.100110 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.5/example_5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+The decimal equivalent of 32 bit number with all 1s is = 4294967295.000000  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.6/example_5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The give decimal number is 363   
+ 
+ The binary equivalent of the given decimal number is = 101101011.000000 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.7/example_5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the 8-bit binary address :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.8/example_5_8.sce #
+ 
+ 
+ 
+[0mEnter the hexadecimal number to be converted into decimal(enter in a single quotation) : [0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH5/EX5.9/example_5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Given decimal number is : 65535
+ 
+The hexadecimal equivalent is = FFFF
+ 
+The binary equivalent is = 1111111111111111.000000 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.10/example_6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ aaa  =
+ 
+  - 12618.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    100011110110101.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    0.  
+ re  =
+ 
+    10.  
+ re  =
+ 
+    110.  
+ re  =
+ 
+    110.  
+ re  =
+ 
+    10110.  
+ re  =
+ 
+    110110.  
+ re  =
+ 
+    110110.  
+ re  =
+ 
+    10110110.  
+ re  =
+ 
+    10110110.  
+ re  =
+ 
+    1010110110.  
+ re  =
+ 
+    11010110110.  
+ re  =
+ 
+    111010110110.  
+ re  =
+ 
+    111010110110.  
+ re  =
+ 
+    111010110110.  
+ re  =
+ 
+    100111010110110.  
+ re  =
+ 
+    1100111010110110.  
+ 
+ The binary representation of first number is  
+ 
+    100011110110101.  
+ 
+ The 2's compliment of second nmber is 
+ 
+    1100111010110110.  
+ 
+ 
+ 
+ 
+ c1  =
+ 
+    1.  
+    1.  
+    0.  
+    1.  
+    0.  
+    1.  
+    1.  
+    0.  
+    1.  
+    1.  
+    1.  
+    1.  
+    0.  
+    0.  
+    1.  
+    1.  
+ 
+ 
+ 
+ re  =
+ 
+    1.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    1101011.  
+ re  =
+ 
+    1101011.  
+ 
+ The sum of lower bytes of two binary numbers is 1101011
+ 
+ with a carry is 1
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    1101011.  
+ re  =
+ 
+    1001101011.  
+ re  =
+ 
+    11001101011.  
+ re  =
+ 
+    11001101011.  
+ re  =
+ 
+    1011001101011.  
+ re  =
+ 
+    1011001101011.  
+ re  =
+ 
+    1011001101011.  
+ re  =
+ 
+    1011001101011.  
+ 
+ The sum of upper  bytes of the given numbers is 10110
+ 
+ with a carry is 1
+ 
+ The total sum is  
+ 
+    1011001101011.  
+ 
+ with a carry 1 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.12/example_6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The final carry is C3 = 1 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.1/example_6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    0.  
+ re  =
+ 
+    0.  
+ re  =
+ 
+    100.  
+ re  =
+ 
+    1100.  
+ re  =
+ 
+    1100.  
+ re  =
+ 
+    1100.  
+ re  =
+ 
+    1100.  
+ re  =
+ 
+    10001100.  
+ re  =
+ 
+    10001100.  
+ 
+The sum of given two binary numbers is 10001100
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The sum in hexadecimal notation is 8C 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.2/example_6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    1.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    100000101011.  
+ re  =
+ 
+    100000101011.  
+ re  =
+ 
+    100000101011.  
+ re  =
+ 
+    100100000101011.  
+ re  =
+ 
+    100100000101011.  
+ re  =
+ 
+    100100000101011.  
+ 
+The sum of given two binary numbers is 100100000101011.000000
+ 
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.  
+ c  =
+ 
+    1.  
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ c  =
+ 
+    7.  
+ c  =
+ 
+    8.  
+ c  =
+ 
+    9.  
+ c  =
+ 
+    10.  
+ c  =
+ 
+    11.  
+ c  =
+ 
+    12.  
+ c  =
+ 
+    13.  
+ c  =
+ 
+    14.  
+ 
+ 
+ Sum in decimal notation is 18475
+ 
+ Sum in hexadecimal notation is 482B 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.3/example_6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ c1  =
+ 
+    1.  
+    1.  
+    0.  
+    1.  
+    0.  
+    1.  
+    0.  
+    0.  
+    1.  
+ 
+ 
+ 
+ re  =
+ 
+    1.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    100101011.  
+ 
+ 
+The sum of lower bytes of two binary numbers is 100101011
+ 
+ with a carry is 1
+ 
+ re  =
+ 
+    101011.  
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    100000101011.  
+ re  =
+ 
+    100000101011.  
+ re  =
+ 
+    100000101011.  
+ re  =
+ 
+    100100000101011.  
+ re  =
+ 
+    100100000101011.  
+ re  =
+ 
+    100100000101011.  
+ 
+ The sum of upper  bytes of the given numbers is 1001000
+ 
+ with a carry is 0
+ 
+ The total sum is 100100000101011.000000 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.4/example_6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The binary equivalent of first no is 1111101.000000
+
+ 
+ The binary equivalent of secnd no is 11001000.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    1.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ re  =
+ 
+    1001011.  
+ 
+ The diference of given two numbers is 1001011.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.  
+ c  =
+ 
+    1.  
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ 
+ 
+ Sum in decimal notation is 75
+
+ 
+ Sum in hexadecimal notation is 4B 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.5/example_6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The binary equivalent of first no is 10010110.000000
+
+ 
+ The binary equivalent of secnd no is 1010101.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    1.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    11.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    1011.  
+ re  =
+ 
+    101011.  
+ re  =
+ 
+    1101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ re  =
+ 
+    11101011.  
+ 
+ The sum of given two binary numbers is 11101011.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sum in decimal notation is 235
+
+ 
+ 
+ The sum in hexadecimal notation is EBH 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.6/example_6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nn  =
+ 
+    10010110.  
+ 
+ 
+ 
+ 
+The binary equivalent of first no is 1010101.000000
+
+ 
+ The binary equivalent of secnd no is 10010110.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    1.  
+ re  =
+ 
+    1.  
+ re  =
+ 
+    1.  
+ re  =
+ 
+    1.  
+ re  =
+ 
+    1.  
+ re  =
+ 
+    1.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ re  =
+ 
+    1000001.  
+ 
+ The diference of given two numbers is 1000001.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.  
+ c  =
+ 
+    1.  
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ 
+ 
+ Sum in decimal notation is 65
+
+ 
+ Sum in hexadecimal notation is 41 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.7/example_6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The binary equivalent of first no is 10101111.000000
+
+ 
+ The binary equivalent of secnd no is 1110110.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    1.  
+ re  =
+ 
+    1.  
+ re  =
+ 
+    101.  
+ re  =
+ 
+    101.  
+ re  =
+ 
+    101.  
+ re  =
+ 
+    100101.  
+ re  =
+ 
+    100101.  
+ re  =
+ 
+    100101.  
+ 
+If only 8 bits are taken the result will be as shown below 
+
+ 
+ and the sum of given two binary numbers will be 100101.000000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sum in decimal notation is 37
+
+ 
+ 
+ The sum in hexadecimal notation is 25H 
+ 
+ 
+ with an overflow of 1
+
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.8/example_6_8.sce #
+ 
+ 
+ 
+ 
+[0menter the number(in decimal) :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH6/EX6.9/example_6_9.sce #
+ 
+ 
+ 
+ 
+ aaa  =
+ 
+  - 19750.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ re  =
+ 
+    0.  
+ re  =
+ 
+    10.  
+ re  =
+ 
+    10.  
+ re  =
+ 
+    1010.  
+ re  =
+ 
+    11010.  
+ re  =
+ 
+    11010.  
+ re  =
+ 
+    1011010.  
+ re  =
+ 
+    11011010.  
+ re  =
+ 
+    11011010.  
+ re  =
+ 
+    1011011010.  
+ re  =
+ 
+    1011011010.  
+ re  =
+ 
+    1011011010.  
+ re  =
+ 
+    1001011011010.  
+ re  =
+ 
+    11001011011010.  
+ re  =
+ 
+    11001011011010.  
+ re  =
+ 
+    1011001011011010.  
+ re  =
+ 
+    1011001011011010.  
+ 
+
+ The 2's compliment is 
+ 
+    1011001011011010.  
+ 
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.  
+ c  =
+ 
+    1.  
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ c  =
+ 
+    4.  
+ c  =
+ 
+    5.  
+ c  =
+ 
+    6.  
+ c  =
+ 
+    7.  
+ c  =
+ 
+    8.  
+ c  =
+ 
+    9.  
+ c  =
+ 
+    10.  
+ c  =
+ 
+    11.  
+ c  =
+ 
+    12.  
+ c  =
+ 
+    13.  
+ c  =
+ 
+    14.  
+ c  =
+ 
+    15.  
+ 
+ 
+
+ In Hexadecimal notation is B2DAH
+
+ 
+ 
+ As the memory of a first generation microcumputer is orgnised in bytes . The l 
+      ower byte is stored in 2000 address and the higher byte is stored in 2001 
+       address.                                                                 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.11/example_7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The required value of capacitance is 0.006061 microfarads
+ 
+The pulse delay capacitor is 0.012121 microfarads 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.1/example_7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cycle time for 500-kHz clock is 0.020000 milliseconds 
+ 
+ Cycle time for 8-MHz clock is 1.250000 micro seconds 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.3/example_7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ ppm  =
+ 
+    5.  
+ 
+ clk_frq  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The clock frequency will be somewhere between 4999975 and 5000025 Hz 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.5/example_7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Ra  =
+ 
+    1.  
+ 
+ Rb  =
+ 
+    1.  
+ 
+ C  =
+ 
+    0.001  
+ 
+ 
+ 
+Freqency of oscillation is 480.000000 KHz 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.6/example_7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ rb  =
+ 
+    0.75  
+ 
+ dc  =
+ 
+    25.  
+ 
+ clk  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ C  =
+ 
+    0.000000000481000  
+ 
+ 
+ 
+The value of RA is 1.500000 Kohms
+ 
+The value of C is 481.000481 pico farads 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.7/example_7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ Ra  =
+ 
+    10.  
+ 
+ C  =
+ 
+    0.1  
+ 
+ pw  =
+ 
+    1.1  
+ 
+pulse width is 1.100000 milliseconds 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.8/example_7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ Ra  =
+ 
+    10.  
+ 
+ pw  =
+ 
+    10.  
+ 
+ 
+The required value of capacitance is 0.909091 microfarads 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH8/EX8.10/example_8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The given truth table  is :   
+ 
+ 
+   Qn     A     B    Qn+1   
+ 
+ 
+    0.    0.    0.    0.  
+    0.    0.    1.    0.  
+    0.    1.    0.    1.  
+    0.    1.    1.    1.  
+    1.    0.    0.    0.  
+    1.    0.    1.    1.  
+    1.    1.    0.    0.  
+    1.    1.    1.    1.  
+ 
+ 
+ The transitions are shown below   
+ 
+ 
+ 
+ 
+ 
+ 
+ transition from 0 ----> 0   
+ 
+    A     B    
+ 
+    0.    0.  
+ 
+    0.    1.  
+ 
+ 
+ transition from 0 ----> 1   
+ 
+    A     B    
+ 
+    1.    0.  
+ 
+    1.    1.  
+ 
+ 
+ transition from 1 ----> 0   
+ 
+    A     B    
+ 
+    0.    0.  
+ 
+    1.    0.  
+ 
+ 
+ transition from 1 ----> 1   
+ 
+    A     B    
+ 
+    0.    1.  
+ 
+    1.    1.  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH8/EX8.12/example_8_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The state table  is :   
+ 
+ 
+    Qn    X     D    Qn+1   Y   
+ 
+ 
+    0.    0.    0.    0.    0.  
+    0.    1.    1.    1.    1.  
+    1.    0.    1.    1.    0.  
+    1.    1.    0.    0.    0.  
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH8/EX8.13/example_8_13.sce #
+ 
+ 
+ 
+ 
+ For SR flip flop Qn+1 = S + R`Qn  and  for D flip-flop Qn+1 = D .   
+ 
+ 
+ Thus with D = S + R`Qn  we get circuit which behaves like SR flip-flop.   
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH8/EX8.4/example_8_4.sce #
+ 
+ 
+ 
+[0mEnter the enable input level(1 or 0) : [0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH8/EX8.5/example_8_5.sce #
+ 
+ 
+ 
+ 
+ Here what happens at each point in time   
+ 
+ 
+ Time  t0: S = 0, R = 0,  no change in Q (Q remains 0)   
+ 
+ 
+ Time  t1: S = 1, R = 0,  Q changes from 0 to 1   
+ 
+ 
+ Time  t2: S = 0, R = 1,  Q resets to 0   
+ 
+ 
+ Time  t3: S = 1, R = 0,  Q sets to 1    
+ 
+ 
+ Time  t4: S = 0, R = 0,  no change in Q (Q remains 1)   
+ 
+ 
+ Notice that either R or S, or both, are allowed to change state at any time, w 
+      hether C is high or low. The only time both R and S must be stable (uncha 
+      nging) is during the short PTs of the clock.                              
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH8/EX8.6/example_8_6.sce #
+ 
+ 
+ 
+ 
+ Here what happens at each point in time   
+ 
+ 
+ Time  t0: S = 0, R = 0,  no change in Q (Q remains 0)   
+ 
+ 
+ Time  t1: S = 1, R = 0,  Q changes from 0 to 1   
+ 
+ 
+ Time  t2: S = 0, R = 1,  Q resets to 0   
+ 
+ 
+ Time  t3: S = 1, R = 0,  Q sets to 1    
+ 
+ 
+ Time  t4: S = 0, R = 0,  no change in Q (Q remains 1)   
+ 
+ 
+ Notice that either R or S, or both, are allowed to change state at any time, w 
+      hether C is high or low. The only time both R and S must be stable (uncha 
+      nging) is during the short NTs of the clock.                              
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH8/EX8.7/example_8_7.sce #
+ 
+ 
+ 
+ 
+For input J and K = 0 otput Qn+1 = Qn i.e output does not change its state And for J = K = 1, The Output Qn+1 = Qn` i.e output toggles  
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH9/EX9.1/example_9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The state table  is :   
+ 
+ 
+ Clock  Input   Q     R     S     T   
+ 
+ 
+    0.    0.    0.    0.    0.    0.  
+    1.    1.    0.    0.    0.    0.  
+    2.    0.    1.    0.    0.    0.  
+    3.    0.    0.    1.    0.    0.  
+    4.    0.    0.    0.    1.    0.  
+ 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH9/EX9.4/example_9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One clock period takes 100 ns
+ 
+ 
+ Time required by total bits required is 800 ns 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH9/EX9.5/example_9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The data must be stable for 30 ns
+ 
+ 
+ The data may be changing in 70 ns 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH9/EX9.8/example_9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The data input levels must be held steady foor a minimum of 25 ns 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH9/EX9.9/example_9_9.sce #
+ 
+ 
+ 
+ 
+ The mode control line must be high. The data lines must be stable for more tha 
+      n 10 ns prior to the clock NTs . If the clock is stopped after the transi 
+      tion time T, the levels n the input data lines may be changed. However ,  
+      if the clock is not stopped, the input data levels must be mainted.       
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.10/example_10_10.sce #
+ 
+ 
+ 
+The correct expresion is "8" = Qd Qc' Qb Qa' 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.12/example_10_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The NAND gate inputs must be :   
+ 
+ 
+  QaQbQc'Qd   
+ 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.13/example_10_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.  
+ c  =
+ 
+    1.  
+ c  =
+ 
+    2.  
+ c  =
+ 
+    3.  
+ 
+ 
+ The counter will count down to 15 , Then preset back to %d, The resulting stat 
+      e diagram is shown below                                                  
+ 
+9  8  7  6  5  4  3  2  1  0  15  9  8  7  6  5  4  3  2  1  0  15  9  8  7  6  5  4  3  2  1  0  15   
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.1/example_10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The clock period is 3.000000 micro seconds 
+ 
+The clock frequenc must be 333.333333  KHz  
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.2/example_10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A mod-128 conter should have 7 flipflops
+ 
+ A mod-32 conter should have 5 flipflops
+ 
+ 
+ 
+ The largest decimal no that can be stored in a mod-64 counter is 63 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.5/example_10_5.sce #
+ 
+ 
+ 
+The correct expression is : (count-up clock)'(Qa)(Qb)(Qc) 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.6/example_10_6.sce #
+ 
+ 
+ 
+ 
+The correct logic expression is : (down-up)'(Qa)(Qb)(Qc)(enable)' 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.7/example_10_7.sce #
+ 
+ 
+ 
+[0mEnter the n value in your desired mod-n counter:[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.8/example_10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+With given number of flip-flops the counter will have a natural count of 16
+We can thus construct any counter that has a modulus between 16 and 2 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH11/EX11.5/example_11_5.sce #
+ 
+ 
+ 
+ 
+ Original table :   
+ 
+ 
+ Present State   Next State   Present Output   
+ 
+ 
+                 X=0    X=1       
+ 
+ 
+        a         a      b           0       
+ 
+ 
+       √b         c      d           0       
+ 
+ 
+        c         d      e           1       
+ 
+ 
+       √d         c      b           0       
+ 
+ 
+        e         b      c           1       
+ 
+ 
+ For states b and d except for next state X=1 rest are same. NOw b and d would  
+      have been equivalent if these next states are equivalent. For b next stat 
+      e is d and d, next state is b. Thus bd are equivalent if next states db a 
+      re equivalent which can always be true. Thus b and d are equivlent and st 
+      ate b is retained.                                                        
+ 
+ 
+ Table after first row elimination :   
+ 
+ 
+ Present State   Next State   Present Output   
+ 
+ 
+                 X=0    X=1       
+ 
+ 
+        a         a      b           0       
+ 
+ 
+        b         c      b           0       
+ 
+ 
+       √c         b      e           1       
+ 
+ 
+       √e         b      c           1       
+ 
+ 
+ Now repeating the same above step for  c and e. Retaining c and replacing arll 
+       c's with e we get the below table                                        
+ 
+ 
+ Table after second row elimination :   
+ 
+ 
+ Present State   Next State   Present Output   
+ 
+ 
+                 X=0    X=1       
+ 
+ 
+        a         a      b           0       
+ 
+ 
+        b         c      b           0       
+ 
+ 
+        c         b      c           1       
+ 
+ 
+ 
+ Implication table method   
+ 
+d:d
+c:d(ce)
+b:d(Ce)(bd)
+a:(ce)(bd)a
+P=(ce)(bd)(a) 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH11/EX11.6/example_11_6.sce #
+ 
+ 
+ 
+ 
+ To analye the circuit we consider x = X(t-τ) where τ is the cummulative prop 
+      agatin delay from input side up to X.For all  possible combbinations of x 
+      AB we get X and Y following the logic relation as shown in the circuit an 
+      d prepare the following Karnaugh map                                      
+ 
+ 
+ Karnaugh map   
+ 
+ 
+   AB   
+ 
+ 
+ x    00      01      11      10   
+ 
+ 
+ 0    0'/0    0'/0    1/0     0'/0   
+ 
+ 
+ 1    0/0     0/1     1'/1    1'/0   
+ 
+ 
+ State where X = x are stable and primed. Outputs corresponding to ech state an 
+      d inpt combination are shown beside.                                      
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH11/EX11.7/example_11_7.sce #
+ 
+ 
+ 
+ 
+ Given karnaugh map    
+ 
+ 
+      00      01      11      10   
+ 
+ 
+ 00   11      00'     11      00'   
+ 
+ 
+ 01   01'     11      11      01'   
+ 
+ 
+ 11   10      11      11'     10   
+ 
+ 
+ 10   10'     10'     11      11   
+ 
+ 
+ Yes, the circuit may face problem in its operation. When the circuit is at sta 
+      ble state xyAB = 1111 and input AB changes from 11 --> 10 the circuit osc 
+      illates between xyAB = 1110 and xy AB = 1010. Also there can be a criticl 
+       race problem if at stable state xyAB = 0001, input AB chnge from 01 to 0 
+      0. The circuit may settle at xyAB = 0100 or xyAB = 1000 depending on whic 
+      h of x and y changes first at the feedbck path. Non-critical race situatu 
+      ion occurs if at stable state xyAB = 0010 the input AB change from 10 to  
+      00.                                                                       
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.10/example_12_10.sce #
+ 
+ 
+ 
+ 
+ The LSB of an 11-bit system has a resolution of 1/2048   
+ 
+ 
+
+
+ 1/2048 x 10 = 5 mV 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.11/example_12_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ fre  =
+ 
+    500.  
+ 
+ 
+ 
+ 
+ 
+ Maximum Conversion Time =    
+ 
+ 
+    0.000512  
+ 
+ 
+ Average Conversion Time =   
+ 
+ 
+    0.000256  
+ 
+ 
+ Maximum Conversion Rate =   
+ 
+ 
+    1953.125  
+ 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.13/example_12_13.sce #
+ 
+ 
+ 
+ 
+ 
+ If the analog portion to be constructed ti an accuracy of 0.1   
+ 
+
+The overall accuracy is in percentage = 0.197656 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.1/example_12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Binary weight of each bit in a 4-bit system   
+ 
+ 
+ LSB =   
+ 
+ 
+    0.0666667  
+ 
+ 
+ LSB2 =   
+ 
+ 
+    0.1333333  
+ 
+ 
+ LSB3 =   
+ 
+ 
+    0.2666667  
+ 
+ 
+ MSB =   
+ 
+ 
+    0.5333333  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.2/example_12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) LSB =   
+ 
+ 
+    0.0322581  
+ 
+ 
+ (b)Second LSB =   
+ 
+ 
+    0.0645161  
+ 
+ 
+   Third LSB3 =   
+ 
+ 
+    0.1290323  
+ 
+ 
+ (c) change in output voltage caused by    
+ 
+ 
+ change in LSB =   
+ 
+ 
+    0.3225806  
+ 
+ 
+ change in second LSB =   
+ 
+ 
+    0.6451613  
+ 
+ 
+ change in third LSB =   
+ 
+ 
+    1.2903226  
+ 
+ 
+ (d)output voltage for a digital input of 10101 =   
+ 
+ 
+    6.7741935  
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.3/example_12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ output voltages corresponding to each bit are    
+ 
+ 
+    5.    2.5    1.25    0.625    0.3125  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.4/example_12_4.sce #
+ 
+ 
+ 
+ V_A  =
+ 
+    0.  
+ 
+ 
+ a  =
+ 
+    11010.  
+ 
+ 
+ 
+ 
+ 
+ The output voltage in volts is    
+ 
+ 
+    8.125  
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.5/example_12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ full scale output voltage in volts is =   
+ 
+ 
+    9.6875  
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.6/example_12_6.sce #
+ 
+ 
+ 
+ 
+Current each input digital voltage must be capable of supplying is =3.333333 mA
+ 
+ 
+ 
+ 
+
+ Output voltage Va = 6.458333 V 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.8/example_12_8.sce #
+ 
+ 
+ 
+ 
+Output voltage = 7.890625 V 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH12/EX12.9/example_12_9.sce #
+ 
+ 
+ 
+ 
+ 
+Resoluition in percentage = 0.195312 
+ 
+
+
+ Voltage resolution = 9.765625 mV 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH13/EX13.2/example_13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The no of bits in the address word are : 10
+ 
+The number of required rows are : 32
+ 
+The number of required columns are : 32 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH13/EX13.3/example_13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The decimal address is :   
+ 
+ 
+    22.    13.  
+ 
+ 
+ The hexadecimal address is :   
+ 
+ 
+!16  D  !
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH14/EX14.1/example_14_1.sce #
+ 
+ 
+ 
+ 
+[0mEnter the value of DC voltage Vdc in volts :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH14/EX14.2/example_14_2.sce #
+ 
+ 
+ 
+ 
+[0mEnter the value of DC voltage Vdc in volts :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH14/EX14.3/example_14_3.sce #
+ 
+ 
+ 
+ 
+[0mEnter the value of V1 in volts :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH14/EX14.4/example_14_4.sce #
+ 
+ 
+ 
+[0mEnter the value of V1 in volts :[0m[1m
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.10/example_15_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The ccount held in the counter for given analog input will be : 1250.000000 
+ 
+
+The duty cycle is : 0.625000 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.11/example_15_11.sce #
+ 
+ 
+ 
+ 
+ The full scale count for ADC3511 is 1999 and for the ADC3711 is 3999. So, the  
+      largest value possible for the MSD in either case is 3 = 0011. ly the MSB 
+       is not needed for th magnitue of the MSD. It is thus convenient to speci 
+      f  positive number when this bit is a 0 and a negtive number when this bi 
+      t is a 1 .                                                                
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.12/example_15_12.sce #
+ 
+ 
+ 
+ 
+ These two components establish the internal oscillator frequency used as the c 
+      lock frequency in the cnverter according to the relationship fi=0.6/RC. I 
+      n this case fi=320 kHz.                                                   
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.1/example_15_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All digits must be serviced once every 8.000000 milliseconds 
+ 
+Each digit will be ON for : 1.333333 milliseconds
+ 
+and OFF for : 6.666667 milliseconds 
+ 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.4/example_15_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For t = 0.100000 seconds
+ 
+The counter will count up to : 750.000000
+ 
+ 
+ 
+
+
+For t = 1.000000 seconds
+ 
+ 
+The counter will count up to : 7500.000000
+ 
+ 
+ 
+ 
+
+
+For t = 10.000000 seconds
+ 
+The counter will count up to : 75000.000000
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.5/example_15_5.sce #
+ 
+ 
+ 
+ Assuming the counter began at 0000, the display would read 200 at the end of t 
+      he first measurment period.It will read 400,then 600 and so on at the end 
+       of succeeding periods. This is because the counter capacity is exceeded  
+      each time, and it simply recycles through 0000.                           
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.6/example_15_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assuming that the conter and the display are initially at 00000   
+ 
+Enable gate time in micro secnds will be : 5000
+ 
+During the gate time the counter will be advced by (number of counts ) 500 
+ 
+The time period of the unknown input in micro-seconds is : 5000 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH15/EX15.9/example_15_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The digital output is :10000000
+ 
+ 
+ 
+ 
+ 
+ 
+ The analog input in volts is :0.664020 
+ 
+ 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH16/EX16.1/example_16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)Maximum Number of Opcodes = 16 
+ 
+ (b)Size of memory in Kilo bits = 64 
+ 
+ (c)Size of PC and MAR = 12 
+ 
+   Size of IR = 4
+ 
+   Size of ACC and MDR = 16 
+ 
+grepthis#Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH16/EX16.6/example_16_6.sce #
+ 
+[0mEnter the number of LDA instructions :[0m[1m

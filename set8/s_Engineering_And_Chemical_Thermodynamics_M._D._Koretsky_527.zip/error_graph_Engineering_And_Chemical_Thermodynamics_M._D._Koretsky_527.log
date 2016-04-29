@@ -1,0 +1,367 @@
+ERROR: Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.3/6_3exam.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+  Example: 6.3   Page no : 261   
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/6_3exam');xend();exit();
+                                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      16 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.3/6_3exam.sce',-1)
+ 
+ERROR: Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.6/6_6exam.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Example: 6.6   Page no : 277   
+ 
+
+    For weight percent  0.000    del_h_mix = -0.0 J/mol
+
+    For weight percent  0.051    del_h_mix = -291.7 J/mol
+
+    For weight percent  0.108    del_h_mix = -635.6 J/mol
+
+    For weight percent  0.172    del_h_mix = -981.5 J/mol
+
+    For weight percent  0.244    del_h_mix = -1415.4 J/mol
+
+    For weight percent  0.327    del_h_mix = -1817.3 J/mol
+
+    For weight percent  0.421    del_h_mix = -2142.2 J/mol
+
+    For weight percent  0.531    del_h_mix = -2272.9 J/mol
+
+    For weight percent  0.660    del_h_mix = -2124.7 J/mol
+
+    For weight percent  0.814    del_h_mix = -1465.1 J/mol
+
+    For weight percent  1.000    del_h_mix = -0.0 J/mol
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/6_6exam');xend();exit();
+                                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      30 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.6/6_6exam.sce',-1)
+ 
+ERROR: Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.10/6_10exam.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Example: 6.10   Page no : 283   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+     For equimolar mixture del_H_H2SO4 = -6.6 kJ/mol   del_H_H2O = -17.0 kJ/mol 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/6_10exam');xend();exit();
+                                                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      29 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.10/6_10exam.sce',-1)
+ 
+ERROR: Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.13/6_13exam.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Example: 6.13   Page no : 287   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                   H_bar_H2SO4 = -6574 J/mol      H_bar_H2O = -17004 J/mol
+  
+ 
+       The partial molar property can be obtained by drawing tangent at mole fraction 0.5 .   
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/6_13exam');xend();exit();
+                                                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      37 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH6/EX6.13/6_13exam.sce',-1)
+ 
+ERROR: Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH8/EX8.11/8_11exam.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Example: 8.11   Page no : 390   
+ 
+
+      From average ,  the value of A = 1408 J/mol
+ 
+
+      From linear regression best fit line the values of A and B are     1401.3 J/mol    &     76.1 J/mol   respectively . 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/8_11exam');xend();exit();
+                                                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      46 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH8/EX8.11/8_11exam.sce',-1)
+ 
+ERROR: Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH8/EX8.15/8_15exam.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Example: 8.15   Page no : 402   
+ 
+ 
+ 
+ 
+ 
+
+
+             The equilibrium composition can be found by drawing a line tangent to the minima .
+
+                     In this case the answer is 0.85 and 0.1   . 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/8_15exam');xend();exit();
+                                                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      48 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH8/EX8.15/8_15exam.sce',-1)
+ 
+ERROR: Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH9/EX9.18/9_18exam.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Example: 9.18   Page no : 470   
+ 
+ 
+ 
+ 
+ 
+      T              K1               K2              S1               S2             y_CH4     y_H2   
+ 
+ 
+ 
+ 
+ 
+    600.     0.0000005    0.0000140    0.0004782    0.1132433    0.1695434    0.7217745  
+    650.     0.0000142    0.0002238    0.0025986    0.1913677    0.1495998    0.6708818  
+    700.     0.0002587    0.0024670    0.0109320    0.2936983    0.1239682    0.6064385  
+    750.     0.0032438    0.0201451    0.0366811    0.4096162    0.0939659    0.5335657  
+    800.     0.0299851    0.1286020    0.0985763    0.5151482    0.0620279    0.4610439  
+    850.     0.2152462    0.6689916    0.2073362    0.5784938    0.0325899    0.4010670  
+    900.     1.2498902    2.9295834    0.3319422    0.5839078    0.0123176    0.3659766  
+    950.     6.0643147    11.082377    0.4241192    0.5512696    0.0035408    0.3558367  
+    1000.    25.233565    36.978809    0.4846896    0.5086226    0.0009572    0.3575497  
+    1050.    91.974962    110.70013    0.5305565    0.4675144    0.0002757    0.3622589  
+ 
+ 
+       y_H20          y_CO          y_CO2     
+ 
+ 
+    0.0869274    0.0000915    0.0216632  
+    0.1435182    0.0004823    0.0355178  
+    0.2152849    0.0019489    0.0523595  
+    0.2967298    0.0062249    0.0695137  
+    0.3783767    0.0158293    0.0827222  
+    0.4467644    0.0315501    0.0880286  
+    0.4876470    0.0485885    0.0854703  
+    0.5002945    0.0610175    0.0793105  
+    0.4993197    0.0693739    0.0727995  
+    0.4948052    0.0758356    0.0668246  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/9_18exam');xend();exit();
+                                                                                                                      !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line     135 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_And_Chemical_Thermodynamics_M._D._Koretsky_527/CH9/EX9.18/9_18exam.sce',-1)
+ 

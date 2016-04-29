@@ -1,0 +1,427 @@
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH15/EX15.04/15_04.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C = 1/(2*%pi*f1*Z)
+               !--error 4 
+Undefined variable: f1
+at line       8 of exec file called by :    
+_O._Bird_608/CH15/EX15.04/15_04.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH15/EX15.05/15_05.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Xc = 1/(2*%pi*f1*C)
+                !--error 4 
+Undefined variable: f1
+at line       9 of exec file called by :    
+_O._Bird_608/CH15/EX15.05/15_05.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH15/EX15.09/15_09.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ XL  =
+ 
+    99.996894  
+ 
+ Z  =
+ 
+    223.60541  
+ 
+I = V/Z
+      !--error 4 
+Undefined variable: V
+at line      12 of exec file called by :    
+_O._Bird_608/CH15/EX15.09/15_09.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH15/EX15.17/15_17.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ XL  =
+ 
+    8.984955  
+ 
+phid1 = atan(XL/R)*180/%pi
+                  !--error 4 
+Undefined variable: R
+at line      13 of exec file called by :    
+_O._Bird_608/CH15/EX15.17/15_17.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH17/EX17.08/17_08.sce
+ 
+ 
+ 
+ 
+ 
+ 
+i2 = 0.01*I; // in amperes
+            !--error 4 
+Undefined variable: I
+at line       7 of exec file called by :    
+_O._Bird_608/CH17/EX17.08/17_08.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH19/EX19.04/19_04.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vp = Vl/(3^0.5)
+       !--error 4 
+Undefined variable: Vl
+at line      14 of exec file called by :    
+_O._Bird_608/CH19/EX19.04/19_04.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH21/EX21.18/21_18.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Phi2 = (1 - x)*Phi1
+                 !--error 4 
+Undefined variable: Phi1
+at line      14 of exec file called by :    
+_O._Bird_608/CH21/EX21.18/21_18.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH21/EX21.21/21_21.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    188.  
+ 
+ E2  =
+ 
+    182.  
+ 
+ 
+Phi2 = Phi1
+         !--error 4 
+Undefined variable: Phi1
+at line      16 of exec file called by :    
+_O._Bird_608/CH21/EX21.21/21_21.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH21/EX21.22/21_22.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    208.  
+ 
+ 
+ E  =
+ 
+    187.2  
+ 
+ 
+ Vd  =
+ 
+    32.8  
+ 
+ 
+ Ia  =
+ 
+    82.  
+ 
+ 
+ 
+Phi2 = (1-x)*Phi1
+               !--error 4 
+Undefined variable: Phi1
+at line      21 of exec file called by :    
+_O._Bird_608/CH21/EX21.22/21_22.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH21/EX21.23/21_23.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    232.5  
+ 
+ 
+ E2  =
+ 
+    225.  
+ 
+ 
+ 
+Phi2 = x*Phi1
+           !--error 4 
+Undefined variable: Phi1
+at line      19 of exec file called by :    
+_O._Bird_608/CH21/EX21.23/21_23.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH21/EX21.28/21_28.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    476.  
+ 
+ 
+ E2  =
+ 
+    458.  
+ 
+ 
+Phi2 = Phi1
+         !--error 4 
+Undefined variable: Phi1
+at line      18 of exec file called by :    
+_O._Bird_608/CH21/EX21.28/21_28.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH22/EX22.09/22_09.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nr = x*ns
+         !--error 4 
+Undefined variable: ns
+at line      10 of exec file called by :    
+_O._Bird_608/CH22/EX22.09/22_09.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH29/EX29.07/29_07.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.004  
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    300.  
+ 
+ wr  =
+ 
+    942477.8  
+ 
+ 
+Rd = L*Q/(C*wr*L)
+       !--error 4 
+Undefined variable: L
+at line      14 of exec file called by :    
+_O._Bird_608/CH29/EX29.07/29_07.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH36/EX36.13/36_13.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    300.  
+ 
+V3 = V3m*cos(phiv3) + %i*V3m*sin(phiv3)
+               !--error 4 
+Undefined variable: phiv3
+at line      16 of exec file called by :    
+_O._Bird_608/CH36/EX36.13/36_13.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH38/EX38.06/38_06.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ke = Pe/(Bm1*f1*t1)^2
+           !--error 4 
+Undefined variable: Bm1
+at line      13 of exec file called by :    
+_O._Bird_608/CH38/EX38.06/38_06.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH39/EX39.03/39_03.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ del  =
+ 
+    0.0099469  
+ 
+ 
+ 
+ Cs  =
+ 
+    2.000D-09  
+ 
+Rs = (tan(del))/(2*%pi*f*Cp)
+                           !--error 4 
+Undefined variable: Cp
+at line      16 of exec file called by :    
+_O._Bird_608/CH39/EX39.03/39_03.sce',-1
+ 
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH43/EX43.14/43_14.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.7  
+ 
+ 
+ 
+ 
+ w  =
+ 
+    125663.71  
+ 
+ 
+ E1  =
+ 
+    40.  
+ 
+ 
+ ZL  =
+ 
+    100. - 173.20508i  
+ 
+ 
+ M  =
+ 
+    0.0017146  
+ 
+ 
+ 
+ 
+ 
+ 
+ I1  =
+ 
+    0.3043853 - 0.6571846i  
+ 
+ 
+pd = I2*ZL
+       !--error 4 
+Undefined variable: I2
+at line      30 of exec file called by :    
+_O._Bird_608/CH43/EX43.14/43_14.sce',-1
+ 

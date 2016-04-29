@@ -1,0 +1,474 @@
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ M  =
+ 
+    1.  
+ 
+ f  =
+ 
+    0.001  
+ 
+ do  =
+ 
+    0.002  
+ 
+object and image distance for unity magnification=0.002000m 
+ 
+ dobyf  =
+ 
+    1.2  
+ M  =
+ 
+    5.  
+ dobyf  =
+ 
+    1.2  
+    1.4  
+ M  =
+ 
+    5.   
+    2.5  
+ dobyf  =
+ 
+    1.2  
+    1.4  
+    1.6  
+ M  =
+ 
+    5.         
+    2.5        
+    1.6666667  
+ dobyf  =
+ 
+    1.2  
+    1.4  
+    1.6  
+    1.8  
+ M  =
+ 
+    5.         
+    2.5        
+    1.6666667  
+    1.25       
+ dobyf  =
+ 
+    1.2  
+    1.4  
+    1.6  
+    1.8  
+    2.   
+ M  =
+ 
+    5.         
+    2.5        
+    1.6666667  
+    1.25       
+    1.         
+ 
+ 
+ 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ d  =
+ 
+    1.64  
+ 
+ lambda  =
+ 
+    0.82  
+ 
+ 
+ 
+ dbylambda  =
+ 
+    2.  
+ 
+ neff1  =
+ 
+    3.594  
+ 
+ theta1  =
+ 
+    86.7  
+ 
+ neff2  =
+ 
+    3.578  
+ 
+ theta2  =
+ 
+    83.7  
+ 
+ neff3  =
+ 
+    3.577  
+ 
+ theta3  =
+ 
+    81.1  
+ 
+For TE0 mode 
+  neff =3.594000  theta=86.700000 degree 
+ 
+For TE1 mode 
+ neff =3.578000  theta=83.700000 degree 
+ 
+For TE2 mode 
+  neff =3.577000  theta=81.100000 degree 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ NFdb  =
+ 
+    3.2  
+ 
+ SNRidb  =
+ 
+    50.  
+ 
+ 
+ NF  =
+ 
+    2.0892961  
+ 
+ SNRi  =
+ 
+    100000.  
+ 
+ SNRo  =
+ 
+    47863.009  
+ 
+ SNRodb  =
+ 
+    46.8  
+ 
+Output SNR=46.800000dB 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ loss  =
+ 
+    0.25  
+ 
+ a  =
+ 
+    50.  
+ 
+ NA  =
+ 
+    0.24  
+ 
+ dby2a  =
+ 
+    0.045  
+ 
+ theta  =
+ 
+    2.4  
+ 
+ xbya  =
+ 
+    0.94  
+ 
+ 
+ 
+ d  =
+ 
+    4.5  
+ 
+ x  =
+ 
+    47.  
+ 
+lateral offset in =4.500000um 
+
+angular misalignment=2.400000degrees 
+
+ End separation =47.000000um 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ NA  =
+ 
+    0.2  
+ 
+ dia  =
+ 
+    0.00005  
+ 
+ a  =
+ 
+    0.000025  
+ 
+ lateral_loss  =
+ 
+    0.5  
+ 
+ Beam_dai  =
+ 
+    2.  
+ 
+ dby2a  =
+ 
+    0.09  
+ 
+ 
+ r  =
+ 
+    1.  
+ 
+ Beam_divergence  =
+ 
+    11.536959  
+ 
+ f  =
+ 
+    4.8989795  
+ 
+ d  =
+ 
+    0.0000045  
+ 
+Focal Length=4.898979mm 
+
+Displacement=4.500000um 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH11/EX11.5/EX11_5.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ RL  =
+ 
+    100.  
+ 
+ T  =
+ 
+    300.  
+ 
+ lambda  =
+ 
+    0.0000008  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ deltaf  =
+ 
+    1000000.  
+ 
+ Error_rate  =
+ 
+    0.0001  
+ 
+ eta  =
+ 
+    1.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ snr  =
+ 
+    17.5  
+ 
+ SNR  =
+ 
+    56.234133  
+ 
+ tau  =
+ 
+    0.000001  
+ 
+ 
+ f  =
+ 
+    3.659D+14  
+ 
+ P  =
+ 
+    0.0000001  
+ 
+Optic power incident=146.295549nW 
+ i  =
+ 
+    9.650D-08  
+ 
+
+Current=96.500634nA 
+ np  =
+ 
+    603128.96  
+ 
+
+No. of Photons per bit=6.031290x10^5 photons/bit 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ TA  =
+ 
+    300.  
+ 
+ T  =
+ 
+    454.  
+ 
+ 
+ F  =
+ 
+    2.5133333  
+ 
+ Fdb  =
+ 
+    4.0025009  
+ 
+Noise figure =4.002501 db 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ alphadb  =
+ 
+    30.  
+ 
+ Gi  =
+ 
+    1000.  
+ 
+ Fidb  =
+ 
+    3.  
+ 
+ N  =
+ 
+    10.  
+ 
+ SNRin  =
+ 
+    1.000D+08  
+ 
+ 
+ alpha  =
+ 
+    1000.  
+ 
+ Fi  =
+ 
+    1.9952623  
+ 
+ F  =
+ 
+    19952.623  
+ 
+ SNRout  =
+ 
+    5011.8723  
+ 
+ SNRoutdb  =
+ 
+    37.  
+ 
+Output SNR=37.000000dB 
+ 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH12/EX12.1/EX12_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ lambda  =
+ 
+    0.82  
+ 
+ ER  =
+ 
+    1.000D-09  
+ 
+ datarate  =
+ 
+    100.  
+ 
+ NRZ_Qpl  =
+ 
+  - 63.  
+ 
+ NRZ_TL  =
+ 
+  - 36.  
+ 
+ 
+ RZ_Qpl  =
+ 
+  - 60.  
+ 
+ RZ_TL  =
+ 
+  - 33.  
+ 
+ 
+ 
+Power level for RZ=-60.000000dBm 
+
+Thermal limit for RZ =-33.000000dBm 
+ 

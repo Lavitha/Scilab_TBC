@@ -1,0 +1,4292 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 202
+
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH16/EX16.2/EX_2.sce #
+ 
+ 
+ 
+ 
+ The Engin Capacity in m^3:   
+ 
+    0.0249336  
+ 
+ 
+ The Brake mean effective pressure is (bar) :   
+ 
+    8.3421516  
+ 
+ 
+ 
+ The Increase of pressure required (in bar):   
+ 
+    0.4669181  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.12/EX_12.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ (i)Nominal diameter of the inlet valve is (m):   
+ 
+    0.0449460  
+ 
+ 
+ (mm)=   
+ 
+    44.946013  
+ 
+ 
+ (ii)When the engine is modified to develop max indicative power at 2800rpm, no 
+      minal diameter of the inlet valve is (m):                                 
+ 
+    0.0485472  
+ 
+ 
+ (mm)=   
+ 
+    48.547242  
+ 
+ 
+ 
+ (iii)The new mach index value is :   
+ 
+    0.6416667  
+ 
+ 
+ Hence the volumetric efficiency drops (There is a steady decrease in volumetri 
+      c efficiency of an engine if there is an increase in the mach index beyon 
+      d 0.55, Refer the FIG 7_12)                                               
+ 
+ 
+ 
+ (iv)The mach index for the unmodified engine is :   
+ 
+    1.1  
+ 
+ 
+ The volumetric efficiency is approximately 56% (from the FIG 7_12)   
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.1/EX3_1.sce #
+ 
+ 
+ 
+ 
+ Engine thermal efficiency in %:   
+ 
+    53.491828  
+ 
+ 
+ Head added in kJ:   
+ 
+    243.02778  
+ 
+ 
+ Change in entropy in kJ/K   
+ 
+    0.3611111  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.2/EX3_2.sce #
+ 
+ 
+ 
+ 
+ The maximum temperature in Kelvin:   
+ 
+    585.36585  
+ 
+ 
+ The minimum temperature in Kelvin:   
+ 
+    292.68293  
+ 
+ 
+ Volume at the end of isothermal expansion in m^3   
+ 
+    0.1931916  
+ 
+
+
+ 
+Process                              Heat transfer
+ 
+_______________________________________________________________
+ 
+Isothermal expansion                               40 kJ
+ 
+Adiabatic reversible expansion                     0 kJ
+ 
+Isothermal compression                            -40 kJ
+ 
+Adiabatic reversible compressions                  0 kJ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.3/EX3_3.sce #
+ 
+ 
+ 
+ 
+ 
+p1=18.000000 bar 
+p2=12.000000 bar 
+p3=0.976719 bar 
+p4=1.465078 bar 
+t1=t2=683.000000 Kelvin 
+t3=t4=333.549431 Kelvin 
+ 
+ 
+ Change in entropy in kJ/K:   
+ 
+    0.1923436  
+ 
+ 
+ Mean effective pressure of the cycle in bar:   
+ 
+    0.4667680  
+ 
+ 
+ Mean effective pressure of the cycle in bar:   
+ 
+    235.25106  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.4/EX3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ Temperature of the sink in Celsius:   
+ 
+    1442.  
+ 
+ 
+ temperature of source in Celsius:   
+ 
+    1785.  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.5/EX3_5.sce #
+ 
+ 
+ 
+Since the efficiency of the given engine is more than efficiency of carnot engine, the claim is not true. 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.7/EX3_7.sce #
+ 
+ 
+ 
+ 
+ The compression ratio of the engine is:   
+ 
+    6.25  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.8/EX3_8.sce #
+ 
+ 
+ 
+ 
+ The air standard efficiency of otto cycle in %:   
+ 
+    56.472472  
+ 
+ 
+ 
+ Mean effective pressure in bar:   
+ 
+    1.3353372  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.9/EX3_9.sce #
+ 
+ 
+ 
+ 
+ Temperature after adiabatic compression in K:   
+ 
+    689.21901  
+ 
+ 
+ Pressure after adiabatic compression in bar:   
+ 
+    18.379174  
+ 
+ 
+ Temperature after isochoric compression in K:   
+ 
+    2772.5523  
+ 
+ 
+ Pressure after isochoric compression in bar:   
+ 
+    73.934729  
+ 
+ 
+ Temperature after adiabatic expansion in K:   
+ 
+    1206.8235  
+ 
+ 
+ Pressure after adiabatic expansion in bar:   
+ 
+    4.022745  
+ 
+ 
+ Specific work in kJ/kg :   
+ 
+    847.08708  
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    56.472472  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.10/EX3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ Temperature after adiabatic compression in K:   
+ 
+    614.30175  
+ 
+ 
+ Pressure after adiabatic compression in bar:   
+ 
+    12.286035  
+ 
+ 
+ Temperature after isochoric compression in K:   
+ 
+    1842.  
+ 
+ 
+ Pressure after isochoric compression in bar:   
+ 
+    36.84  
+ 
+ 
+ Temperature after adiabatic expansion in K:   
+ 
+    899.55791  
+ 
+ 
+ Pressure after adiabatic expansion in bar:   
+ 
+    2.9985264  
+ 
+ 
+ Improvement in efficiency in %:   
+ 
+    8.0903414  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.11/EX3_11.sce #
+ 
+ 
+ 
+ 
+ Compression ratio:   
+ 
+    3.9503831  
+ 
+ 
+ Temperature at the end of compression in K   
+ 
+    607.78915  
+ 
+ 
+ Temperature at the end of heat addition in K   
+ 
+    1266.4294  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.12/EX3_12.sce #
+ 
+ 
+ 
+ 
+ Compression ratio:   
+ 
+    6.9193482  
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    53.871012  
+ 
+ 
+ Work done in kJ:   
+ 
+    598.65054  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.13/EX3_13.sce #
+ 
+ 
+ 
+ 
+ 
+Temperature after adiabatic compression: 601.150753 K
+
+ 
+Pressure after adiabatic compression: 11.000000 bar
+
+ 
+Volume after adiabatic compression: 0.081163 m^3
+
+ 
+Temperature after isochoric compression: 1172.725401 K
+
+ 
+Pressure after isochoric compression: 21.458809 bar
+
+ 
+Volume after isochoric compression: 0.081163 m^3
+
+ 
+Temperature after adiabatic expansion: 591.092658 K
+
+ 
+Pressure after adiabatic expansion: 1.950801 bar
+
+ 
+Volume after adiabatic expansion: 0.450000 m^3
+
+ 
+Percentage ance: 22.005268
+
+ 
+Efficiency of otto cycle: 49.596670
+
+ 
+Mean effective pressure: 2.823826 bar:
+
+ 
+Power developed: 364.535522 kW
+
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.14/EX3_14.sce #
+ 
+ 
+ 
+ 
+ Air standard efficiency of the engine in %:   
+ 
+    49.59183  
+ 
+ 
+ There is no change in efficiency when Helium is used as working fluid instead  
+      of air                                                                    
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.15/EX3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ Power developed in kW:   
+ 
+    1.8845745  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.17/EX3_17.sce #
+ 
+ 
+ 
+ 
+ Efficiency of diesel engine in %:   
+ 
+    61.191426  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.18/EX3_18.sce #
+ 
+ 
+ 
+ 
+ Efficiency of diesel engine in %:   
+ 
+    59.335433  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.19/EX3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage loss in efficiency due to delay in cut off:   
+ 
+    2.0959616  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.20/EX3_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    2.2846432  
+ 
+ 
+ Cut off Percentage:   
+ 
+    11.17081  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.21/EX3_21.sce #
+ 
+ 
+ 
+ 
+ 
+Temperature after adiabatic compression: 886.253082 K
+
+ 
+Pressure after adiabatic compression: 44.312654 bar
+
+ 
+Volume after adiabatic compression: 0.000673 m^3
+
+ 
+Temperature after isobaric compression: 1878.856533 K
+
+ 
+Pressure after isobaric compression: 44.312654 bar
+
+ 
+Volume after isobaric compression: 0.001427 m^3
+
+ 
+Temperature after adiabatic expansion: 858.996630 K
+
+ 
+Pressure after adiabatic expansion: 2.863322 bar
+
+ 
+Volume after adiabatic expansion: 0.010098 m^3
+
+ 
+ 
+ Efficiency of diesel engine in %:   
+ 
+    59.774137  
+ 
+ 
+ Mean effective pressure :   
+ 
+    7.4165018  
+ 
+ 
+ Power developed in kW:   
+ 
+    44.269292  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.22/EX3_22.sce #
+ 
+ 
+ 
+ 
+ Mean effective pressure in bar:   
+ 
+    7.0167327  
+ 
+ 
+ Ratio of maximum pressure to mean effective pressure    
+ 
+    6.4928156  
+ 
+ 
+ Cycle efficiency in %:   
+ 
+    60.476335  
+ 
+ 
+ Fuel consumption in kg/kWh:   
+ 
+    0.3543299  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.23/EX3_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency of dual cycle:   
+ 
+    63.757629  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.24/EX3_24.sce #
+ 
+ 
+ 
+ 
+ Efficiency of dual cycle:   
+ 
+    61.420029  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.25/EX3_25.sce #
+ 
+ 
+ 
+ 
+ 
+ Air standard efficiency in %:   
+ 
+    57.548133  
+ 
+ 
+ Power developed in kW   
+ 
+    51.392157  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.26/EX3_26.sce #
+ 
+ 
+ 
+ 
+Temperature after adiabatic compression: 874.185561 K
+
+ 
+Pressure after adiabatic compression: 21.674022 bar
+
+ 
+Temperature after isochoric compression: 2742.666667 K
+
+ 
+Pressure after isochoric compression: 68.000000 bar
+
+ 
+Temperature after isobaric expansion: 3166.045081 K
+
+ 
+Pressure after isobaric expansion: 68.000000 bar
+
+ 
+Temperature after adiabatic expansion: 1392.379810 K
+
+ 
+Pressure after adiabatic expansion: 3.835757 bar
+
+ 
+ 
+ Air standard efficiency in %:   
+ 
+    58.236591  
+ 
+ 
+ Mean effective pressure in bar:   
+ 
+    11.093733  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.27/EX3_27.sce #
+ 
+ 
+ 
+ Air standard efficiency in %:   
+ 
+    65.304565  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.28/EX3_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    61.799455  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.29/EX3_29.sce #
+ 
+ 
+ 
+Temperature after adiabatic compression: 524.811395 K
+
+ 
+Pressure after adiabatic compression: 15.588457 bar
+
+ 
+Temperature after isochoric compression: 1201.987388 K
+
+ 
+Pressure after isochoric compression: 35.702596 bar
+
+ 
+Temperature after isobaric expansion: 2163.577298 K
+
+ 
+Pressure after isobaric expansion: 35.702596 bar
+
+ 
+Temperature after adiabatic expansion: 1446.871342 K
+
+ 
+Pressure after adiabatic expansion: 4.775153 bar
+
+ 
+ 
+ Mean effective pressure in bar:   
+ 
+    10.920179  
+ 
+ 
+ Engine efficiency in %:   
+ 
+    58.522193  
+ 
+ 
+ Power of the engine in kW:   
+ 
+    171.53377  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.31/EX3_31.sce #
+ 
+ 
+ 
+ 
+ Work done in kJ/kg:   
+ 
+    282.89952  
+ 
+ 
+ Efficiency of cycle in %:   
+ 
+    32.640759  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.32/EX3_32.sce #
+ 
+ 
+ 
+ 
+ Cycle efficiency in %:   
+ 
+    40.066303  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.33/EX3_33.sce #
+ 
+ 
+ 
+ 
+ 
+ Power developed per kg of gas per second in kW:   
+ 
+    362.00667  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.34/EX3_34.sce #
+ 
+ 
+ 
+ 
+ Temperature at turbine inlet in K:   
+ 
+    423.50837  
+ 
+ 
+ Power developed in kW:   
+ 
+    13.850837  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.35/EX3_35.sce #
+ 
+ 
+ 
+ 
+ Efficiency of the cycle:   
+ 
+    30.087958  
+ 
+ 
+ Heat supplied to the air in kJ/kg:   
+ 
+    456.17147  
+ 
+ 
+ Work available at the shaft in kJ/kg:   
+ 
+    137.25268  
+ 
+ 
+ Heat rejected in the cooler in kJ/kg:   
+ 
+    318.91879  
+ 
+ 
+ Temperature of air leaving the turbine in K:   
+ 
+    610.33213  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.36/EX3_36.sce #
+ 
+ 
+ 
+ 
+ Maximum temperature in K:   
+ 
+    1251.3828  
+ 
+ 
+ Cycle efficiency in %:   
+ 
+    40.066303  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.37/EX3_37.sce #
+ 
+ 
+ 
+ 
+ Rate of fuel consumption in kg/s:   
+ 
+    0.0047423  
+ 
+ 
+ Mass flow rate of air  in kg/s:   
+ 
+    0.4142996  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.38/EX3_38.sce #
+ 
+ 
+ 
+ 
+ Compressor work in kJ/kg:   
+ 
+    259.322  
+ 
+ 
+ Turbine work in kJ/kg:   
+ 
+    351.64425  
+ 
+ 
+ Heat supplied in kJ/kg:   
+ 
+    517.543  
+ 
+ 
+ Cycle efficiency in %:   
+ 
+    17.838565  
+ 
+ 
+ Actual exhaust temperature of turbine in K   
+ 
+    723.10522  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.39/EX3_39.sce #
+ 
+ 
+ 
+Air fuel ratio is 56:1 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH3/EX3.40/EX3_40.sce #
+ 
+ 
+ 
+ 
+ 
+ Work done in process 1-2 in kJ/kg:   
+ 
+    148.93368  
+ 
+ 
+ Heat rejected in process 1-2 in kJ/kg:   
+ 
+    148.93368  
+ 
+ 
+ Work done in process 2-3 in kJ/kg:   
+ 
+    0.  
+ 
+ 
+ Heat rejected in process 2-3 in kJ/kg:   
+ 
+    0.  
+ 
+ 
+ 
+ Work done in process 3-4 in kJ/kg:   
+ 
+    446.80105  
+ 
+ 
+ Heat rejected in process 3-4 in kJ/kg:   
+ 
+    446.80105  
+ 
+ 
+ 
+ Work done in process 4-1 in kJ/kg:   
+ 
+    297.86737  
+ 
+ 
+ Heat rejected in process 4-1 in kJ/kg:   
+ 
+    297.86737  
+ 
+ 
+ Thermal efficiency of the cycle in %:   
+ 
+    66.666667  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.2/EX4_2.sce #
+ 
+ 
+ 
+ 
+ The percentage change in the efficiency of otto cycle (in %):   
+ 
+  - 0.7052232  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.3/EX4_3.sce #
+ 
+ 
+ 
+ 
+ The percentage change in the efficiency of otto cycle (in %):   
+ 
+  - 1.9824089  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.4/EX4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage change in efficiency    
+ 
+  - 1.1465593  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.5/EX4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Max pressure in the cylinder (in bar):   
+ 
+    65.524069  
+ 
+ 
+ Max pressure for constant specific heat (in bar):   
+ 
+    93.518961  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.6/EX4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Max pressure in the cylinder (in bar):   
+ 
+    102.27361  
+ 
+ 
+ Max pressure for constant specific heat (in bar):   
+ 
+    150.6438  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.7/EX4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage of the stroke when the combustion is completed is :   
+ 
+    9.7736942  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.8/EX4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Max pressure in the cylinder (in bar):   
+ 
+    73.230134  
+ 
+ 
+ 
+ Percentage of the stroke when the combustion is completed is :   
+ 
+    2.4231817  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.9/EX4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum temperature ignoring molecular expansion (in Kelvin):   
+ 
+    4862.3886  
+ 
+ 
+ Maximum pressure ignoring molecular expansion (in bar):   
+ 
+    113.40848  
+ 
+ 
+ Maximum temperature considering molecular expansion (in Kelvin):   
+ 
+    4862.3886  
+ 
+ 
+ Maximum pressure considering molecular expansion (in bar):   
+ 
+    122.86347  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH4/EX4.10/EX4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The cycle work (in kJ/kg):   
+ 
+    872.05  
+ 
+ 
+ The cycle efficiency (in %):   
+ 
+    44.990456  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH5/EX5.1/EX5_1.sce #
+ 
+ 
+ 
+ 
+ Time for one combustion process in seconds:   
+ 
+    0.0045104  
+ 
+ 
+ The crank position is (in degree):   
+ 
+    12.474684  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH5/EX5.2/EX5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ The time of spark (in Degrees before TDC)   
+ 
+    15.  
+ 
+ 
+ 
+ 
+ Time of spark (in degrees before TDC)   
+ 
+    16.54  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.1/EX7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Gas Inhaled per minute:(m^3/min)   
+ 
+    0.2309924  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.2/EX7_2.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Volumetric efficiency of the engine is:   
+ 
+    0.8501272  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.3/EX7_3.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The volumetric efficiency based on the free air condition :    
+ 
+    0.8564823  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.4/EX7_4.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The given fuel C7H16 requires 11(O2) for complete combustion   
+ 
+ 
+ 
+ Hence, Mass of fuel is :   
+ 
+    100.  
+ 
+ 
+ 
+ Mass of Oxygen required is :   
+ 
+    352.  
+ 
+ 
+ 
+ The air fuel ratio is :   
+ 
+    15.304348  
+ 
+ 
+ 
+ 
+ The volumetric efficiency of the engine is (%) :   
+ 
+    75.897145  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.5/EX7_5.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The volumetric efficiency is (%):   
+ 
+    87.430871  
+ 
+ 
+ 
+ The brake thermal efficiency is (%):   
+ 
+    23.376623  
+ 
+ 
+ 
+ The brake torque (Nm):   
+ 
+    246.43346  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.6/EX7_6.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The volumetric efficiency is (%):   
+ 
+    81.435234  
+ 
+ 
+ 
+ Percentage Reduction in Output (%):    
+ 
+    4.6080984  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.7/EX7_7.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The percentage increase in volumetric efficiency is (%):   
+ 
+    6.6792147  
+ 
+ 
+ 
+ 
+ 
+ 
+ The percentage increase in power (%):   
+ 
+    23.33625  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.8/EX7_8.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ There is no change in volumetric efficiency due to inlet and exhaust pressure  
+      change                                                                    
+ 
+ 
+ For inlet temperature change   
+ 
+ 
+ 
+ Percentage decrease in %:   
+ 
+    4.9948737  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brake power of the engine on the hill station in kW :   
+ 
+    24.810191  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.9/EX7_9.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The volumetric efficiency of supercharged engine is (%):   
+ 
+    86.363142  
+ 
+ 
+ 
+ Indicated power of supercharged engine is (kW):   
+ 
+    102.11243  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH7/EX7.10/EX7_10.sce #
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The volumetric efficiency of the engine is (%):   
+ 
+    72.657859  
+ 
+ 
+ The heating value of 1 m^3 of charge at 25 degree Celsius in kJ.m^3   
+ 
+    1513.1556  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.1/EX11_1.sce #
+ 
+ 
+ 
+ 
+ Suction at throat (in N/m^2):   
+ 
+    4447.6097  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.2/EX11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Suction at the throat in (N/m^2)   
+ 
+    539.13447  
+ 
+ 
+ Throat area (in cm^2)   
+ 
+    7.7222406  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.3/EX11_3.sce #
+ 
+ 
+ 
+ 
+ Diameter of the fuel jet (in mm):   
+ 
+    1.3219131  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.4/EX11_4.sce #
+ 
+ 
+ 
+ 
+ Suction at the throat (in cm of Water):   
+ 
+    7.6678429  
+ 
+ 
+ Throat area (in cm):   
+ 
+    2.8642585  
+ 
+ 
+ Velocity of air across the venturi throat (in m/s):   
+ 
+    8.3388806  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.5/EX11_5.sce #
+ 
+ 
+ 
+ 
+ Throat pressure (in bar):   
+ 
+    0.7599752  
+ 
+ 
+ Air fuel ratio when the air cleaner is fitted:   
+ 
+    13.692357  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.6/EX11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Throat diameter in m   
+ 
+    0.0327795  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.7/EX11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ Throat diameter (in cm):   
+ 
+    3.526166  
+ 
+ 
+ Orifice diameter (in cm):   
+ 
+    0.0023433  
+ 
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.8/EX11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Diameter of choke (in mm):   
+ 
+    29.608437  
+ 
+ 
+ 
+ Diameter of the fuel jet (in mm):   
+ 
+    1.6827276  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.9/EX11_9.sce #
+ 
+ 
+ 
+ 
+ Air fuel ratio when the nozzle lip is neglected:   
+ 
+    11.353846  
+ 
+ 
+ Air fuel ratio when nozzle lip is taken into account:   
+ 
+    11.392599  
+ 
+ 
+ Minimum velocity of air (in m/s):   
+ 
+    8.5775871  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.10/EX11_10.sce #
+ 
+ 
+ 
+ 
+ Fuel consumption (in kg/h):   
+ 
+    46.657906  
+ 
+ 
+ Velocity of air at the throat (in m/s):   
+ 
+    132.51713  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH11/EX11.11/EX11_11.sce #
+ 
+ 
+ 
+ 
+ Air fuel ratio at the altitude:   
+ 
+    11.262073  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.1/EX12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volume of Fuel Injected per Cycle (cc):   
+ 
+    0.0544662  
+ 
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.2/EX12_2.sce #
+ 
+ 
+ 
+ 
+ Diameter of Nozzle Orifice is (m):   
+ 
+    0.0008130  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.3/EX12_3.sce #
+ 
+ 
+ 
+ 
+ Volume of Fuel Injected per Cycle (cm^3):   
+ 
+    0.1289377  
+ 
+ d  =
+ 
+    0.0003978  
+ 
+ 
+ Diameter of orifice (mm) :   
+ 
+    0.3977691  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.4/EX12_4.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.0005553  
+ 
+ 
+ Diameter of orifice (mm) :   
+ 
+    0.5552524  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.5/EX12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ Fuel consumption in kg/kWh :   
+ 
+    0.2784195  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.6/EX12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Orifice Area Required per injector (cm^2):   
+ 
+    0.0136057  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.7/EX12_7.sce #
+ 
+ 
+ 
+ 
+ The mass of fuel injected into each cylinder per second in kg/s :   
+ 
+    0.0229873  
+ 
+ 
+ Diameter of the fuel orifice in mm :   
+ 
+    0.5482616  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.8/EX12_8.sce #
+ 
+ 
+ 
+ 
+ Total displacement of plunger in cc :   
+ 
+    0.2637664  
+ 
+ 
+ Effective stroke of plunger in mm:   
+ 
+    0.6853832  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH12/EX12.9/EX12_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The time required for spray penetration at an injection pressure of 235 bar in 
+       milliseconds:                                                            
+ 
+    11.983729  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH15/EX15.1/EX15_1.sce #
+ 
+ 
+ 
+ 
+ The mass of cooling water required (kg/h)for petrol engine:   
+ 
+    3668.4977  
+ 
+ 
+ The mass of cooling water required (kg/h)for diesel engine:   
+ 
+    2674.9463  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH16/EX16.1/EX16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Power required to run the supercharger (kW):   
+ 
+    90.471222  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH16/EX16.3/EX16_3.sce #
+ 
+ 
+ 
+ 
+ The Net increase in Brake Power in kW:   
+ 
+    17.597618  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH16/EX16.4/EX16_4.sce #
+ 
+ 
+ 
+ 
+ The Engin Capacity in m^3:   
+ 
+    0.0237805  
+ 
+ 
+ The Brake mean effective pressure is (bar) :   
+ 
+    8.4102508  
+ 
+ 
+ 
+ The Increase of pressure required (in bar):   
+ 
+    0.4669181  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH16/EX16.5/EX16_5.sce #
+ 
+ 
+ 
+ 
+ The indicated mean effective pressure (in bar):   
+ 
+    4.5454545  
+ 
+ 
+ The total aspirated air mass flow into the engine (in kg/min):   
+ 
+    6.7329558  
+ 
+ 
+ 
+ Air flow into the compressor in kg/min:   
+ 
+    16.78994  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.1/EX17_1.sce #
+ 
+ 
+ 
+ 
+ Indicated power developed (in kW):   
+ 
+    13.304645  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.2/EX17_2.sce #
+ 
+ 
+ 
+ 
+ The bore of the engine (in mm):   
+ 
+    87.96264  
+ 
+ 
+ The stroke of the engine (in mm):   
+ 
+    131.94396  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.3/EX17_3.sce #
+ 
+ 
+ 
+ 
+ Brake Power (in KW):   
+ 
+    2.5074622  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.4/EX17_4.sce #
+ 
+ 
+ 
+ 
+ Since it is given that the stroke is equal to bore, their value is (in mm):    
+                                                                                
+ 
+    138.67225  
+ 
+ 
+ The engine displacement (in m^3):   
+ 
+    0.0020944  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.5/EX17_5.sce #
+ 
+ 
+ 
+ 
+ Since the stroke and bore are equal, their value is (in mm):   
+ 
+    290.89681  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.6/EX17_6.sce #
+ 
+ 
+ 
+ 
+ 
+ Ratio of the power input of the engine with methane fuel to that with octane:  
+ 
+    1.1174242  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.7/EX17_7.sce #
+ 
+ 
+ 
+ 
+ The Brake power (in kW):   
+ 
+    250.  
+ 
+ 
+ Brake thermal efficiency (in %):   
+ 
+    33.068783  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.8/EX17_8.sce #
+ 
+ 
+ 
+ 
+ Brake power developed by engine (in kW):   
+ 
+    9.1629786  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.9/EX17_9.sce #
+ 
+ 
+ 
+ 
+ Indicated power (in kW):   
+ 
+    47.712938  
+ 
+ 
+ Brake power (in kW):   
+ 
+    42.88274  
+ 
+ 
+ Mechanical efficiency (%):   
+ 
+    89.876543  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.10/EX17_10.sce #
+ 
+ 
+ 
+ 
+ Brake specific fuel consumption (in kJ/hW-h)   
+ 
+    0.2657877  
+ 
+ 
+ Brake thermal efficiency:   
+ 
+    30.783279  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.11/EX17_11.sce #
+ 
+ 
+ 
+ 
+ Indicated thermal efficiency (%):   
+ 
+    42.517007  
+ 
+ 
+ Brake power (in kW):   
+ 
+    100.53096  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.12/EX17_12.sce #
+ 
+ 
+ 
+ 
+ The volumetric efficiency (in %):   
+ 
+    84.477897  
+ 
+ 
+ Brake specific fuel consumption (in kg/kWh):   
+ 
+    0.28  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.13/EX17_13.sce #
+ 
+ 
+ 
+ 
+ The mechanical efficiency is (%):   
+ 
+    63.58898  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.14/EX17_14.sce #
+ 
+ 
+ 
+ 
+ Engine bore (in mm):   
+ 
+    152.98026  
+ 
+ 
+ Engine stroke (in mm):   
+ 
+    229.47038  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.15/EX17_15.sce #
+ 
+ 
+ 
+ 
+ Indicated thermal efficiency (in %):   
+ 
+    27.034469  
+ 
+ 
+ Indicated brake efficiency (in %):   
+ 
+    23.429873  
+ 
+ 
+ Mechanical efficiency (in %):   
+ 
+    86.666667  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.16/EX17_16.sce #
+ 
+ 
+ 
+ 
+ Brake specific fuel consumption  (in kg/kWh):   
+ 
+    0.2864789  
+ 
+ 
+ Brake thermal efficiency (in %):   
+ 
+    28.62499  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.17/EX17_17.sce #
+ 
+ 
+ 
+ 
+ The calorific value of the fuel used (in kJ/kg):   
+ 
+    40341.03  
+ 
+ 
+ Fuel consumption (kg/h):   
+ 
+    20.516564  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.18/EX17_18.sce #
+ 
+ 
+ 
+ 
+ Engine bore (in mm):   
+ 
+    62.035049  
+ 
+ 
+ Engine stroke (in mm):   
+ 
+    93.052574  
+ 
+ 
+ Fuel consumption in (kg/h):   
+ 
+    8.7862024  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.19/EX17_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The volumetric efficiency of the engine (in %):   
+ 
+    78.15625  
+ 
+ 
+ The brake thermal efficiency of the engine (in %):   
+ 
+    23.636364  
+ 
+ 
+ Brake torque (in kNm):   
+ 
+    0.2327641  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.20/EX17_20.sce #
+ 
+ 
+ 
+ 
+ Average no of times each cylinder misfires in one min:   
+ 
+    2.  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.21/EX17_21.sce #
+ 
+ 
+ 
+ 
+ Indicated power (in kW):   
+ 
+    14.238281  
+ 
+ 
+ Indicated thermal efficiency (%):   
+ 
+    34.630065  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.22/EX17_22.sce #
+ 
+ 
+ 
+ 
+ Indicated power (in kW):   
+ 
+    26.589  
+ 
+ 
+ Brake power (in kW):   
+ 
+    21.20575  
+ 
+ 
+ Mechanical efficiency (in %):   
+ 
+    79.753846  
+ 
+ 
+ Indicated thermal efficiency (in %):   
+ 
+    21.607314  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.23/EX17_23.sce #
+ 
+ 
+ 
+ 
+ Brake mean effective pressure (in bar):   
+ 
+    7.6857869  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.24/EX17_24.sce #
+ 
+ 
+ 
+ 
+ Volumetric efficiency (in %):   
+ 
+    85.668166  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.25/EX17_25.sce #
+ 
+ 
+ 
+ 
+ Indicated power (in kW):   
+ 
+    26.589  
+ 
+ 
+ Brake power (in kW):   
+ 
+    22.866667  
+ 
+ 
+ Mechanical efficiency (in %):   
+ 
+    86.000475  
+ 
+ 
+ Indicated thermal efficiency (in %):   
+ 
+    22.790572  
+ 
+ 
+ Relative efficiency (in %):   
+ 
+    43.2435  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.26/EX17_26.sce #
+ 
+ 
+ 
+ 
+ The compression ratio :   
+ 
+    5.5823004  
+ 
+ 
+ Thermal efficiency (in %):   
+ 
+    19.893582  
+ 
+ 
+ Gas consumption (in m^3/IP hour):   
+ 
+    0.9625685  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.27/EX17_27.sce #
+ 
+ 
+ 
+ 
+ Mean effective pressure developed (in bar):   
+ 
+    6.5421837  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH15/EX17.28/EX17_28.sce #
+ 
+ 
+ 
+ 
+ 
+ Mean effective pressure (in bar):   
+ 
+    8.1089168  
+ 
+ 
+ Brake mean effective pressure (in bar):   
+ 
+    6.1627768  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.28/EX17_28.sce #
+ 
+ 
+ 
+ 
+ 
+ Mean effective pressure (in bar):   
+ 
+    8.1089168  
+ 
+ 
+ Brake mean effective pressure (in bar):   
+ 
+    6.1627768  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.29/EX17_29.sce #
+ 
+ 
+ 
+ 
+ The compression ratio :   
+ 
+    6.2646514  
+ 
+ 
+ Indicated thermal efficiency:   
+ 
+    36.4  
+ 
+ 
+ Brake specific fuel consumption (in kg/kWs):   
+ 
+    0.2668387  
+ 
+ 
+ Engine bore (in mm):   
+ 
+    108.19665  
+ 
+ 
+ Engine stroke (in mm):   
+ 
+    135.24581  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.30/EX17_30.sce #
+ 
+ 
+ 
+ 
+ Brake power (in kW):   
+ 
+    14.806364  
+ 
+ 
+ Mechanical efficiency (in %):   
+ 
+    85.  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.31/EX17_31.sce #
+ 
+ 
+ 
+ 
+ Mechanical efficiency (in %):   
+ 
+    81.605223  
+ 
+ 
+ 
+ Brake thermal efficiency (in %):   
+ 
+    39.539827  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.32/EX17_32.sce #
+ 
+ 
+ 
+ 
+ 
+ Volumetric efficiency (in %):   
+ 
+    66.454602  
+ 
+ 
+ Air fuel ratio:   
+ 
+    13.196749  
+ 
+ 
+ Mean effective pressure (in bar):   
+ 
+    7.5505618  
+ 
+ 
+ Relative efficiency (in %):   
+ 
+    53.786912  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.33/EX17_33.sce #
+ 
+ 
+ 
+ 
+ Indicated power (in kW):   
+ 
+    7.5  
+ 
+ 
+ Brake power (in kW):   
+ 
+    8.0424772  
+ 
+ 
+ Brake mean effective pressure (in bar):   
+ 
+    6.  
+ 
+ 
+ Brake specific fuel consumption (in kg/BP h)   
+ 
+    0.3481514  
+ 
+ 
+ Brake thermal efficiency (in %):   
+ 
+    24.737626  
+ 
+ 
+ Indicated thermal efficiency (in %):   
+ 
+    30.922033  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.34/EX17_34.sce #
+ 
+ 
+ 
+ 
+ 
+ Indicated thermal efficiency (in %):   
+ 
+    27.964625  
+ 
+ 
+ Mean effective pressure (in bar):   
+ 
+    8.0583643  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.35/EX17_35.sce #
+ 
+ 
+ 
+ 
+ Indicated power (in kW):   
+ 
+    13.439035  
+ 
+ 
+ Brake power (in kW):   
+ 
+    10.764039  
+ 
+ 
+ Indicated thermal efficiency (in %):   
+ 
+    23.865101  
+ 
+ 
+ Brake thermal efficiency (in %):   
+ 
+    19.11483  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.36/EX17_36.sce #
+ 
+ 
+ 
+ 
+ Brake mean effective pressure (in bar):   
+ 
+    3.9680787  
+ 
+ 
+ Brake specific fuel consumption (in kg/kWh):   
+ 
+    0.3025595  
+ 
+ 
+ Brake thermal efficiency (in %):   
+ 
+    26.38245  
+ 
+ 
+ Volumetric efficiency (in %)   
+ 
+    61.011439  
+ 
+ 
+ Percentage of excess air supplied :   
+ 
+    43.763852  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.37/EX17_37.sce #
+ 
+ 
+ 
+ 
+ Mechanical efficiency (in %):   
+ 
+    77.282248  
+ 
+ 
+ Brake thermal efficiency (in %):   
+ 
+    23.256531  
+ 
+ 
+ pex  =
+ 
+    53.65702  
+ 
+
+
+ 
+HEAT BALANCE TABLE
+ 
+_______________________________________________________________________
+ 
+Item                                      kJ                  Percent
+ 
+_______________________________________________________________________
+ 
+Heat supplied by fuel                     367840             100.000000
+ 
+Heat absorbed in IP                       110694             30.092980
+ 
+Heat taken away by cooling water          59774             16.250000
+ 
+Heat carried away by exhaust gases        197371             53.657020
+ 
+_____________________________________________________________________ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.38/EX17_38.sce #
+ 
+ 
+ 
+ 
+ Brake power in kW:   
+ 
+    37.007961  
+ 
+ 
+ Brake specific fuel consumption in kg/kWh:   
+ 
+    0.2756164  
+ 
+ 
+ Brake thermal efficiency in %:   
+ 
+    29.75993  
+ 
+ 
+ 
+
+
+ 
+HEAT BALANCE TABLE
+ 
+_______________________________________________________________________
+ 
+Item                                      kJ                  Percent
+ 
+_______________________________________________________________________
+ 
+Heat supplied by fuel                     7461             100.000000
+ 
+Heat absorbed in BP                       2220             29.759930
+ 
+Heat taken away by cooling water          2332             31.260504
+ 
+Heat carried away by exhaust gases        1811             24.278758
+ 
+Unaccounted heat                          1097             14.702532
+ 
+_____________________________________________________________________ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.39/EX17_39.sce #
+ 
+ 
+ 
+ 
+ Indicated power in kW:   
+ 
+    15.906931  
+ 
+ 
+ Brake power in kW:   
+ 
+    11.728613  
+ 
+ 
+ 
+
+
+ 
+HEAT BALANCE TABLE
+ 
+_______________________________________________________________________
+ 
+Item                                          kJ               Percent
+ 
+_______________________________________________________________________
+ 
+Heat supplied by fuel                       66728             100.000000
+ 
+Heat absorbed in IP                         19088             28.606158
+ 
+Heat taken away by cooling water            16929             25.370159
+ 
+Heat carried away by dry exhaust gases      13448             20.154897
+ 
+Heat carried away by steam in exhaust gases 6606             9.901049
+ 
+Unaccounted heat                            10655             15.967810
+ 
+_____________________________________________________________________ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.40/EX17_40.sce #
+ 
+ 
+ 
+ 
+ Volumetric efficiency in %:   
+ 
+    68.486161  
+ 
+ 
+ Brake mean effective pressure (in bar):   
+ 
+    5.1357561  
+ 
+ 
+ Engine torque in N-m:   
+ 
+    269.6272  
+ 
+ 
+ Brake specific fuel consumption in kg/kWh:   
+ 
+    0.272  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.41/EX17_41.sce #
+ 
+ 
+ 
+ 
+ Indicated power in kW:   
+ 
+    14.059674  
+ 
+ 
+ Indicated thermal efficiency in %:   
+ 
+    26.850313  
+ 
+ 
+ 
+
+
+ 
+HEAT BALANCE TABLE
+ 
+_______________________________________________________________________
+ 
+Item                                          kJ               Percent
+ 
+_______________________________________________________________________
+ 
+Heat supplied by fuel                       3141.790000             100.000000
+ 
+Heat equivalent of BP                       659.734457             20.998681
+ 
+Heat taken away by cooling water            862.125000             27.440567
+ 
+Heat carried away by dry exhaust gases      782.778587             24.915051
+ 
+Heat carried away by steam in exhaust gases 294.848444             9.384728
+ 
+Unaccounted heat                            543.000000             17.283141
+ 
+_____________________________________________________________________ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.42/EX17_42.sce #
+ 
+ 
+ 
+ 
+ Indicated power in kW:   
+ 
+    17.384736  
+ 
+ 
+ Brake power in kW:   
+ 
+    10.812315  
+ 
+ 
+ 
+
+
+ 
+HEAT BALANCE TABLE
+ 
+_______________________________________________________________________
+ 
+Item                                          kJ               Percent
+ 
+_______________________________________________________________________
+ 
+Heat supplied by fuel                       3146             100.000000
+ 
+Heat absorbed in IP                         1043             33.154129
+ 
+Heat taken away by cooling water            870             27.679186
+ 
+Heat carried away by dry exhaust gases      877             27.890091
+ 
+Heat carried away by steam in exhaust gases 319             10.158015
+ 
+Unaccounted heat                            35             1.112465
+ 
+_____________________________________________________________________ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.43/EX17_43.sce #
+ 
+ 
+ 
+ pa  =
+ 
+    7.4079133  
+ 
+
+
+ 
+HEAT BALANCE TABLE
+ 
+_______________________________________________________________________
+ 
+Item                                      kJ                  Percent
+ 
+_______________________________________________________________________
+ 
+Heat supplied by fuel                     7951             100.000000
+ 
+Heat absorbed in BP                       3073             38.646513
+ 
+Heat taken away by cooling water          2544             32.000000
+ 
+Heat carried away by exhaust gases        1745             21.945573
+ 
+Unaccounted heat                          589             7.407913
+ 
+_____________________________________________________________________ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.44/EX17_44.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+HEAT BALANCE TABLE
+ 
+_______________________________________________________________________
+ 
+Item                                          kJ               Percent
+ 
+_______________________________________________________________________
+ 
+Heat supplied by fuel                       8745             100.000000
+ 
+Heat absorbed in BP                         3056             34.949117
+ 
+Heat lost by FP                             658              7.534700
+ 
+Heat taken away by cooling water            2612             29.874214
+ 
+Heat carried away by dry exhaust gases      1569             17.944731
+ 
+Heat carried away by steam in exhaust gases 795              9.095155
+ 
+Unaccounted heat                            52               0.602083
+ 
+_____________________________________________________________________ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.45/EX17_45.sce #
+ 
+ 
+ 
+ 
+ Mechanical efficiency in %:   
+ 
+    83.288841  
+ 
+ 
+ Indicated thermal efficiency in %:   
+ 
+    13.442584  
+ 
+ 
+ Air standard efficiency in %:   
+ 
+    49.12918  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH17/EX17.46/EX17_46.sce #
+ 
+ 
+ 
+ 
+ Engine torque in Nm:   
+ 
+    59.2  
+ 
+ 
+ Brake mean effective pressure in bar:   
+ 
+    7.308642  
+ 
+ 
+ Brake thermal efficiency in %:   
+ 
+    21.309543  
+ 
+ 
+ Specific fuel consumption in kg/kWh:   
+ 
+    0.3830803  
+ 
+ 
+ Mechanical efficiency in %:   
+ 
+    76.555024  
+ 
+ 
+ Indicated mean effective pressure in bar:   
+ 
+    9.5469136  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.1/EX20_1.sce #
+ 
+ 
+ 
+ 
+ Indicated power in kW:   
+ 
+    4.2368831  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.2/EX20_2.sce #
+ 
+ 
+ 
+ 
+ Cylinder bore in mm:   
+ 
+    141.43792  
+ 
+ 
+ Motor power in kW:   
+ 
+    5.5384092  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.3/EX20_3.sce #
+ 
+ 
+ 
+ 
+ Temperature at the end of compression in K:   
+ 
+    430.06519  
+ 
+ 
+ Work done during compression per kg of air in kJ:   
+ 
+    236.02625  
+ 
+ 
+ Heat transferred during compression per kg of air in kJ:   
+ 
+  - 98.275738  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.4/EX20_4.sce #
+ 
+ 
+ 
+ 
+ Volumetric Efficiency in %:   
+ 
+    77.387575  
+ 
+ 
+ Indicated power in kW:   
+ 
+    5.3502275  
+ 
+ 
+ Isothermal efficiency in %:   
+ 
+    79.791136  
+ 
+ 
+ Mechanical efficiency in %:   
+ 
+    85.603639  
+ 
+ 
+ Overall efficiency in %:   
+ 
+    68.304117  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.5/EX20_5.sce #
+ 
+ 
+ 
+ 
+ Work output in kW:   
+ 
+    148.9455  
+ 
+ 
+ Mass of cooling water in kg/min:   
+ 
+    2.1208454  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.6/EX20_6.sce #
+ 
+ 
+ 
+ 
+ 
+ Swept volume in m^3:   
+ 
+    0.0281522  
+ 
+ 
+ Delivery temperature in K:   
+ 
+    449.9048  
+ 
+ 
+ 
+ Indicated Power in kW:   
+ 
+    57.580517  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.7/EX20_7.sce #
+ 
+ 
+ 
+ 
+ 
+ Indicated power in kW:   
+ 
+    63.508914  
+ 
+ 
+ 
+ 
+ Volumetric efficiency in %:   
+ 
+    72.404128  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.8/EX20_8.sce #
+ 
+ 
+ 
+ 
+ Power input to compressor in kW:   
+ 
+    83.653589  
+ 
+ 
+ Compressor stroke in mm:   
+ 
+    300.  
+ 
+ 
+ Compressor bore in mm:   
+ 
+    291.43295  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.9/EX20_9.sce #
+ 
+ 
+ 
+ 
+ Volumetric efficiency in %:   
+ 
+    91.095829  
+ 
+ 
+ Power required to drive the compressor in kW:   
+ 
+    2.2701856  
+ 
+ 
+ Compressor rpm:   
+ 
+    486.17894  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.10/EX20_10.sce #
+ 
+ 
+ 
+ pcfa  =
+ 
+    0.0268118  
+ 
+ 
+ Percentage change in free air delivery:   
+ 
+    2.6811773  
+ 
+ 
+ Percentage change in power delivered:   
+ 
+    2.6811773  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.11/EX20_11.sce #
+ 
+ 
+ 
+ 
+ Motor power in kW:   
+ 
+    241.06832  
+ 
+ 
+ Compressor bore in mm:   
+ 
+    262.70956  
+ 
+ 
+ Compressor stroke in mm:   
+ 
+    315.25147  
+ 
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.12/EX20_12.sce #
+ 
+ 
+ 
+ 
+ 
+ Diameter of compressor cylinder in mm:   
+ 
+    159.69955  
+ 
+ 
+ Stroke of compressor cylinder in mm:   
+ 
+    191.63946  
+ 
+ 
+ Diameter of engine cylinder in mm:   
+ 
+    98.486771  
+ 
+ 
+ Stroke of engine cylinder in mm:   
+ 
+    118.18413  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.13/EX20_13.sce #
+ 
+ 
+ 
+ 
+ Volumetric efficiency in %:   
+ 
+    81.444406  
+ 
+ 
+ 
+ Diameter of the cylinder in cm:   
+ 
+    17.978574  
+ 
+ 
+ Stroke of the cylinder in cm:   
+ 
+    17.978574  
+ 
+ 
+ Brake power in kW:   
+ 
+    11.103704  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.14/EX20_14.sce #
+ 
+ 
+ 
+ 
+ Compressor diameter in cm:   
+ 
+    35.754605  
+ 
+ 
+ Compressor stroke in cm:   
+ 
+    53.631908  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.15/EX20_15.sce #
+ 
+ 
+ 
+ 
+ Free air delivered in m^3/min:   
+ 
+    14.515844  
+ 
+ 
+ Heat rejected during compression in kJ/min:   
+ 
+    817.99629  
+ 
+ 
+ Power needed to drive the compressor in kW:   
+ 
+    56.844911  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.16/EX20_16.sce #
+ 
+ 
+ 
+ Power required to run the compressor in kW:   
+ 
+    4.1935217  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.17/EX20_17.sce #
+ 
+ 
+ 
+ 
+ Diameter of low pressure cylinder in mm:   
+ 
+    267.30092  
+ 
+ 
+ Diameter of high pressure cylinder in mm:   
+ 
+    109.12515  
+ 
+ 
+ Power required to run the compressor:   
+ 
+    57.490624  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.18/EX20_18.sce #
+ 
+ 
+ 
+ 
+ Intermediate pressure in Mpa:   
+ 
+    0.2645751  
+ 
+ 
+ Volume of low pressure cylinder in m^3:   
+ 
+    0.02  
+ 
+ 
+ Volume of high pressure cylinder in m^3:   
+ 
+    0.0075593  
+ 
+ 
+ Power required to drive the compressor in kW:   
+ 
+    42.962809  
+ 
+ 
+ Heat rejected in the intercooler in kW:   
+ 
+    15.044468  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.19/EX20_19.sce #
+ 
+ 
+ 
+ Ratio of cylinder diameters:   
+ 
+    2.3403473  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.20/EX20_20.sce #
+ 
+ 
+ 
+ 
+ 
+ Work done in compressing 1 kg of gas in kJ:   
+ 
+    388.53418  
+ 
+ 
+ 
+ Pressure in the intercooler would rise.   
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.21/EX20_21.sce #
+ 
+ 
+ 
+ 
+ Stroke length in m:   
+ 
+    0.36  
+ 
+ 
+ Bore in m:   
+ 
+    0.2659615  
+ 
+ 
+ Work required in kW:   
+ 
+    49.204141  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.22/EX20_22.sce #
+ 
+ 
+ 
+ 
+ Indicated power in kW:   
+ 
+    15.483333  
+ 
+ 
+ Swept volume for low pressure cylinder in m^3:   
+ 
+    0.0131099  
+ 
+ 
+ Swept volume of high pressure cylinder in m^3:   
+ 
+    0.0043700  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.23/EX20_23.sce #
+ 
+ 
+ 
+ 
+ 
+ Power required to run the compressor in kW:   
+ 
+    18.680753  
+ 
+ 
+ Bore of low pressure cylinder in cm:   
+ 
+    25.374113  
+ 
+ 
+ Stroke of low pressure cylinder in cm:   
+ 
+    25.374113  
+ 
+ 
+ 
+ Bore of high pressure cylinder in cm:   
+ 
+    9.3175169  
+ 
+ 
+ Stroke of high pressure cylinder in cm:   
+ 
+    25.374113  
+ 
+ 
+ Ratio of cylinder volumes:   
+ 
+    7.4161985  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.24/EX20_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Heat rejected to the intercooler in kJ/min:   
+ 
+    2179.6215  
+ 
+ 
+ Diameter of high pressure cylinder in mm:   
+ 
+    184.6761  
+ 
+ 
+ Power required for high pressure cylinder in kW:   
+ 
+    45.021136  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.25/EX20_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Power required to run the compressor in kW:   
+ 
+    63.865325  
+ 
+ 
+ Heat rejected in intercooler in kJ/min:   
+ 
+    1303.2803  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.26/EX20_26.sce #
+ 
+ 
+ 
+ 
+ Power required in kW:   
+ 
+    49.231779  
+ 
+ 
+ Isothermal work done in kW:   
+ 
+    41.775981  
+ 
+ 
+ Isothermal efficiency in %:   
+ 
+    84.85572  
+ 
+ 
+ Free air delivered in m^3/min:   
+ 
+    9.0405  
+ 
+ 
+ Heat transferred in intercooler in kW:   
+ 
+    19.891961  
+ 
+
+Swept volume for low pressure stage in m^3:   0.022241
+ 
+
+Clearance volume for low pressure stage in m^3:  0.000890
+ 
+
+Swept volume for high pressure stage in m^3:  0.005799
+ 
+
+Clearance volume for high pressure stage in m^3:  0.000348
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.27/EX20_27.sce #
+ 
+ 
+ 
+ 
+ Work done in Nm:   
+ 
+    1297727.2  
+ 
+ 
+ Isothermal work done in Nm:   
+ 
+    1146628.1  
+ 
+ 
+ Isothermal efficiency in %:   
+ 
+    88.356638  
+ 
+ 
+ Single stage work done per min in Nm:   
+ 
+    1686780.2  
+ 
+ 
+ Percentage of work saved:   
+ 
+    23.064832  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.28/EX20_28.sce #
+ 
+ 
+ 
+ 
+ 
+
+
+Intermediate pressures
+
+  p2=3.301927
+  p3=10.902724
+
+ 
+ 
+ Indicated power required in kW:   
+ 
+    101.19493  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.29/EX20_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Heat rejected in intercooler after first stage in kJ/min:   
+ 
+    1276.5876  
+ 
+ 
+ Heat rejected in intercooler after second stage in kJ/min:   
+ 
+    1639.4474  
+ 
+ 
+ Heat rejected in intercooler after third stage in kJ/min:   
+ 
+    1875.1837  
+ 
+ 
+ Diameter of the intermediate cylinder in mm:   
+ 
+    179.48179  
+ 
+ 
+ Diameter of the intermediate cylinder in mm:   
+ 
+    87.589503  
+ 
+ 
+ Shaft power in kW:   
+ 
+    142.68231  
+ 
+
+Heat transferred during first stage in kJ/min: 455.697105
+ 
+
+Heat transferred during second stage in kJ/min: 438.714964
+ 
+
+Heat transferred during third stage in kJ/min: 334.220681
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.30/EX20_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ No of stages:   
+ 
+    4.  
+ 
+ 
+ 
+ Exact stage pressure ratios:   
+ 
+    3.3437015  
+ 
+
+Intermediate pressures
+p4=37.383720
+p3=11.180340
+p2=3.343702 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.31/EX20_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ No of stages:   
+ 
+    4.  
+ 
+ 
+ Total work done in kJ/kg:   
+ 
+    512.24287  
+ 
+ 
+ Heat rejected in intercoolers in kJ/kg:   
+ 
+    254.235  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.32/EX20_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Swept capacity of low pressure cylinder in m^3:   
+ 
+    0.1215102  
+ 
+ 
+ Swept capacity of intermediate pressure cylinder in m^3:   
+ 
+    0.0289132  
+ 
+ 
+ Swept capacity of intermediate pressure cylinder in m^3:   
+ 
+    0.0063366  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.34/EX20_34.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Temperature at the end of expansion in K:   
+ 
+    244.6293  
+ 
+ 
+ 
+ Indicated power of the motor in kW:   
+ 
+    0.7484564  
+ 
+ 
+ 
+ 
+ Mass of air supplied per min in kg:   
+ 
+    0.4195610  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.35/EX20_35.sce #
+ 
+ 
+ 
+ 
+ 
+ Work input for roots compressor in kJ/rev   
+ 
+    1.5195  
+ 
+ 
+ 
+ Work input for vane compressor in kJ/rev   
+ 
+    1.3480298  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.36/EX20_36.sce #
+ 
+ 
+ 
+ 
+ Compressor efficiency in %:   
+ 
+    85.976983  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.37/EX20_37.sce #
+ 
+ 
+ 
+ 
+ 
+ Isentropic efficiency in %:   
+ 
+    74.463627  
+ 
+ 
+ Power required to drive the coompressor in kW:   
+ 
+    190.6875  
+ 
+ 
+ Overall efficiency in %:   
+ 
+    72.916972  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.38/EX20_38.sce #
+ 
+ 
+ 
+ 
+ 
+ Actual rise in temperature:   
+ 
+    165.  
+ 
+ 
+ 
+ Tip diameter of the impeller in cm:   
+ 
+    40.989737  
+ 
+ 
+ Power required in kW:   
+ 
+    1459.26  
+ 
+ 
+ Diameter of the eye in cm:   
+ 
+    28.174313  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.39/EX20_39.sce #
+ 
+ 
+ 
+ 
+ 
+ Final temperature of air in Kevin:   
+ 
+    466.65406  
+ 
+ 
+ Theoretical power in kW:   
+ 
+    2282.9382  
+ 
+ 
+ 
+ Impeller diameter at outlet in cm   
+ 
+    84.101864  
+ 
+ 
+ Impeller diameter at inlet in cm   
+ 
+    42.050932  
+ 
+ 
+ Breadth of impeller at inlet in cm:   
+ 
+    14.922205  
+ 
+ 
+ 
+ 
+ 
+ Impeller blade angle at inlet in degrees:   
+ 
+    15.726696  
+ 
+ 
+ Diffuser blade angle at inlet in degrees   
+ 
+    8.8912278  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.40/EX20_40.sce #
+ 
+ 
+ 
+ 
+ 
+
+Blade angles  
+
+	 Blade angle at the inlet of the impeller: beta 1=25.869916 
+	 Blade angle at the outlet of the impeller: beta 2=34.206408 
+	 Absolute angle at the tip of impeller: alpha 2=21.610499
+
+ 
+ 
+ Breadth of the blade at inlet in cm   
+ 
+    7.3456128  
+ 
+ 
+ Breadth of the blade at outlet in cm   
+ 
+    2.8932912  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.41/EX20_41.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Diameter of the impeller in m:   
+ 
+    0.5566210  
+ 
+ 
+ 
+ Power input to compressor in kW:   
+ 
+    2951.6089  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.42/EX20_42.sce #
+ 
+ 
+ 
+ 
+ Total head temperature in K:   
+ 
+    447.09408  
+ 
+ 
+ Static temperature at outlet in K:   
+ 
+    439.9299  
+ 
+ 
+ 
+ Static pressure at exit in bar:   
+ 
+    3.4500595  
+ 
+ 
+ Static temperature at inlet in K:   
+ 
+    278.24876  
+ 
+ 
+ Static pressure at inlet in bar:   
+ 
+    0.9022741  
+ 
+ 
+ Static pressure ratio:   
+ 
+    3.8237379  
+ 
+ 
+ Work done on air in kJ/kg:   
+ 
+    159.88955  
+ 
+ 
+ Power required to drve the compressor in kW:   
+ 
+    1918.6746  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.43/EX20_43.sce #
+ 
+ 
+ 
+ 
+ Temperature rise of air while passing through compressor :   
+ 
+    219.23779  
+ 
+ 
+ Pressure ratio:   
+ 
+    4.6929907  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.44/EX20_44.sce #
+ 
+ 
+ 
+ 
+ Pressure rise in bar:   
+ 
+    0.1692793  
+ 
+ 
+ Work done per kg of air in kW:   
+ 
+    34.230643  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.45/EX20_45.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Work done by the machine in kJ/kg   
+ 
+    174.52233  
+ 
+ 
+ 
+
+Blade angels are as follows (In degrees)
+
+alpha1=18.091622	beta1=59.136727
+
+alpha2=59.136727	beta2=18.091622
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.46/EX20_46.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flow velocity in m/s:   
+ 
+    161.73079  
+ 
+ 
+ No of stages:   
+ 
+    10.  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.47/EX20_47.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+Blade angels are as follows (In degrees)
+
+alpha1=4.924070		beta1=59.410637
+
+alpha2=59.410637	beta2=4.924070
+
+ 
+ 
+ Power required by the compressor in kW:   
+ 
+    184.95024  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.48/EX20_48.sce #
+ 
+ 
+ 
+ 
+ 
+ Stagnation polytropic efficiency in %:   
+ 
+    87.59149  
+ 
+ 
+ 
+ 
+ No of stages:   
+ 
+    12.  
+ 
+ 
+ Inlet temperature in K:   
+ 
+    275.97589  
+ 
+ 
+ Inlet pressure in bar:   
+ 
+    0.7466629  
+ 
+ 
+ 
+ Height of the blade in the first stage in cm:   
+ 
+    11.185705  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH20/EX20.49/EX20_49.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Delivery pressure in bar:   
+ 
+    5.5680364  
+ 
+ 
+ No of stages:   
+ 
+    11.  
+ 
+ 
+ 
+ Overall efficiency in %:   
+ 
+    84.858052  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.1/EX21_1.sce #
+ 
+ 
+ 
+ 
+ Power developed in kW/kg of air:   
+ 
+    250.21661  
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    17.95813  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.2/EX21_2.sce #
+ 
+ 
+ 
+ 
+ Power developed in kW/kg of air:   
+ 
+    770.30624  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.3/EX21_3.sce #
+ 
+ 
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    32.645706  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.4/EX21_4.sce #
+ 
+ 
+ 
+Air fuel ratio is 56:1 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.5/EX21_5.sce #
+ 
+ 
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    15.91932  
+ 
+ 
+ The work ratio is:   
+ 
+    0.2592902  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.6/EX21_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Quantity of air in circulation in kg   
+ 
+    13.494105  
+ 
+ 
+ Actual heat supplied per kg of air circulation in kJ:   
+ 
+    552.66358  
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    14.280542  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.7/EX21_7.sce #
+ 
+ 
+ 
+ 
+ Pressure ratio of low pressure turbine:   
+ 
+    2.3042072  
+ 
+ 
+ Temperature of the exhaust from the unit in K:   
+ 
+    672.9501  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.8/EX21_8.sce #
+ 
+ 
+ 
+ 
+ Cycle efficiency in %:   
+ 
+    31.041065  
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.9/EX21_9.sce #
+ 
+ 
+ 
+ 
+ Thermal efficiency of power turbine in %:   
+ 
+    21.733785  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.10/EX21_10.sce #
+ 
+ 
+ 
+ 
+ 
+ Temperature of gasses entering the turbine in K:   
+ 
+    654.75092  
+ 
+ 
+ Pressure of gasses entering the power turbine in bar:   
+ 
+    1.6511109  
+ 
+ 
+ 
+ 
+ Net power output in kW:   
+ 
+    73.950247  
+ 
+ 
+ Work ratio:   
+ 
+    0.2198043  
+ 
+ 
+ Thermal efficiency of the unit:   
+ 
+    19.263275  
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.11/EX21_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net work output in kW:   
+ 
+    173.97548  
+ 
+ 
+ 
+ Power plant efficiency in %:   
+ 
+    25.000468  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.13/EX21_13.sce #
+ 
+ 
+ 
+ 
+ 
+ Cycle efficiency in %:   
+ 
+    11.807657  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.14/EX21_14.sce #
+ 
+ 
+ 
+ 
+ Thermal efficiency in simple cycle in %:   
+ 
+    16.13747  
+ 
+ 
+ 
+ Thermal efficiency in heat exchanger cycle in %:   
+ 
+    20.941014  
+ 
+ 
+ 
+ Increase in thermal efficiency in %:   
+ 
+    4.8035443  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.15/EX21_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    23.44091  
+ 
+ 
+ The workk ratio is:   
+ 
+    0.2827376  
+ 
+ 
+ Mass flow in kg/s:   
+ 
+    39.12315  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.16/EX21_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thermal efficiency of the turbine without regenerator (in %):   
+ 
+    18.058598  
+ 
+ 
+ Thermal efficiency of the turbine with regenerator (in %):   
+ 
+    32.079006  
+ 
+ 
+ Mass of fluid circulated in kg/s:   
+ 
+    2.4032372  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.17/EX21_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net power output in kW:    
+ 
+    2042.4  
+ 
+ 
+ 
+ Thermal efficiency is (in %):   
+ 
+    30.953709  
+ 
+ 
+ Specific fuel consumption in kg/kWh:   
+ 
+    0.2769112  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.18/EX21_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overall efficiency (in %):   
+ 
+    29.606625  
+ 
+ 
+ Work ratio :   
+ 
+    0.3487805  
+ 
+ 
+ Mass flow rate in kg/s:   
+ 
+    36.485254  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.19/EX21_19.sce #
+ 
+ 
+ 
+ 
+ Exit velocity of jet in m/s:   
+ 
+    651.10368  
+ 
+ 
+ Rate of fuel consumption in kg/s:   
+ 
+    0.86  
+ 
+ 
+ Thrust specific fuel consumption in kg/N:   
+ 
+    0.0000383  
+ 
+ 
+ Thermal efficiency in %:   
+ 
+    31.410825  
+ 
+ 
+ Propulsive power in kW:   
+ 
+    10437.943  
+ 
+ 
+ Propulsive efficiency in %:   
+ 
+    59.809091  
+ 
+ 
+ Overall efficiency in %:   
+ 
+    18.786529  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.20/EX21_20.sce #
+ 
+ 
+ 
+ 
+ Absolute velocity of jet in m/s:   
+ 
+    363.63636  
+ 
+ 
+ Volume of air compressed in kg/min:   
+ 
+    5920.5882  
+ 
+ 
+ Diameter of the jet in mm:   
+ 
+    463.09006  
+ 
+ 
+ Turbine output in kW:   
+ 
+    2464.6465  
+ 
+
+
+Air fuel ratio is 53.224875:1 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.21/EX21_21.sce #
+ 
+ 
+ 
+ 
+ Power required to drive the compressor in kW:   
+ 
+    171.45879  
+ 
+
+
+Air fuel ratio 73.093844:1
+ 
+ 
+ Pressure of gases leaving the turbine in bar:   
+ 
+    1.7399078  
+ 
+ 
+ 
+ 
+ Thrust per kg of air per second in N:   
+ 
+    465.68777  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.22/EX21_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Air fuel ratio:   
+ 
+    48.347661  
+ 
+ 
+ 
+ 
+ 
+ Specific thrust in N/kg:   
+ 
+    822.74274  
+ 
+ 
+ Total thrust in N:   
+ 
+    21805.035  
+ 
+ 
+grepthis#Internal_Combustion_Engines_R._K._Rajput_1226/CH21/EX21.23/EX21_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overall efficiency in %:   
+ 
+    12.913817  
+ 
+ 
+ Rate of air consumption in kg/s:   
+ 
+    9.23046  
+ 
+ 
+ Power developed by turbine in kW:   
+ 
+    1496.7615  
+ 
+ 
+ 
+ The outlet area of jet tube in m^2:   
+ 
+    0.0982848  
+ 
+ 
+ Specific fuel consumption in kg per kg of thrust:   
+ 
+    0.1410254  
+ 
+ 

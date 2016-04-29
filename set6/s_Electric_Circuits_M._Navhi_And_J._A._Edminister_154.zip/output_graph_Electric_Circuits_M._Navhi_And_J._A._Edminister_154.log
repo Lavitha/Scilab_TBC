@@ -1,0 +1,6490 @@
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH2/EX2.1/ch2_1.sce #
+ 
+ 
+ Example 2.1   
+ 
+
+ 
+Given 
+ 
+ Resistance used is 4 ohm   
+ 
+ 
+ Current flow is i=2.5*sin(w*t)   
+ 
+ 
+ Angular frequency(w)=500 rad/s   
+ 
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column 1 to 9
+ 
+    0.    0.001    0.002    0.003    0.004    0.005    0.006    0.007    0.008  
+ 
+         column 10 to 13
+ 
+    0.009    0.01    0.011    0.012  
+ 
+ i  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    1.1985638    2.1036775    2.4937375    2.2732436    1.4961804  
+ 
+         column  7 to 12
+ 
+    0.3528000  - 0.8769581  - 1.8920062  - 2.4438253  - 2.3973107  - 1.7638508  
+ 
+         column 13
+ 
+  - 0.6985387  
+ 
+ 
+ 
+ 
+v=10*sin(500*t)(V)
+ 
+ 
+ 
+p=25(sin(500*t))^2(W)
+ 
+p=pamp*sin(w*t)^2;
+                  !       
+at line      20 of exec file called by :    
+_Edminister_154/CH2/EX2.1/ch2_1.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ W  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    0.0019816    0.0136338    0.035736    0.0594600    0.0744866  
+ 
+         column  7 to 12
+ 
+    0.0784927    0.0792877    0.0876330    0.1073485    0.1318003    0.1499999  
+ 
+         column 13
+ 
+    0.1567072  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch2_1.sce #
+[2J[0;0H 
+ 
+ Example 2.1   
+ 
+
+ 
+Given 
+ 
+ Resistance used is 4 ohm   
+ 
+ 
+ Current flow is i=2.5*sin(w*t)   
+ 
+ 
+ Angular frequency(w)=500 rad/s   
+ 
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column 1 to 9
+ 
+    0.    0.001    0.002    0.003    0.004    0.005    0.006    0.007    0.008  
+ 
+         column 10 to 13
+ 
+    0.009    0.01    0.011    0.012  
+ 
+ i  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    1.1985638    2.1036775    2.4937375    2.2732436    1.4961804  
+ 
+         column  7 to 12
+ 
+    0.3528000  - 0.8769581  - 1.8920062  - 2.4438253  - 2.3973107  - 1.7638508  
+ 
+         column 13
+ 
+  - 0.6985387  
+ 
+ 
+ 
+ 
+v=10*sin(500*t)(V)
+ 
+ 
+ 
+p=25(sin(500*t))^2(W)
+ 
+p=pamp*sin(w*t)^2;
+                  !       
+at line      20 of exec file called by :    
+minister_154/DEPENDENCIES/ch2_1.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ W  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    0.0019816    0.0136338    0.035736    0.0594600    0.0744866  
+ 
+         column  7 to 12
+ 
+    0.0784927    0.0792877    0.0876330    0.1073485    0.1318003    0.1499999  
+ 
+         column 13
+ 
+    0.1567072  
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 2
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH2/EX2.2/ch2_2.sce #
+[2J[0;0H 
+ 
+ Example 2.2   
+ 
+
+ 
+Given 
+ 
+ Inductance used is 30mH   
+ 
+ 
+ Current flow is i=10*sin(50*t)   
+ 
+ 
+ 
+ i  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    4.7942554    8.4147098    9.9749499    9.0929743    5.9847214  
+ 
+         column 7
+ 
+    1.4112001  
+ 
+ 
+ 
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+    15.    13.163738    8.1045346    1.061058  - 6.2422025  - 12.017154  
+ 
+         column 7
+ 
+  - 14.849887  
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    63.110324    68.197307    10.584001  - 56.760187  - 71.919321  
+ 
+         column 7
+ 
+  - 20.956162  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch2_2.sce #
+[2J[0;0H 
+ 
+ Example 2.2   
+ 
+
+ 
+Given 
+ 
+ Inductance used is 30mH   
+ 
+ 
+ Current flow is i=10*sin(50*t)   
+ 
+ 
+ 
+ i  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    4.7942554    8.4147098    9.9749499    9.0929743    5.9847214  
+ 
+         column 7
+ 
+    1.4112001  
+ 
+ 
+ 
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+    15.    13.163738    8.1045346    1.061058  - 6.2422025  - 12.017154  
+ 
+         column 7
+ 
+  - 14.849887  
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    63.110324    68.197307    10.584001  - 56.760187  - 71.919321  
+ 
+         column 7
+ 
+  - 20.956162  
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 2
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 3
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH2/EX2.3/ch2_3.sce #
+[2J[0;0H 
+ 
+ Example 2.3   
+ 
+
+ 
+Given 
+ 
+ Capacitance used is 20uF   
+ 
+ 
+ Voltage is v=50*sin(200*t)   
+ 
+ 
+ 
+ 
+ 
+ 
+ qamp  =
+ 
+    0.001  
+ 
+ q  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    0.0001987    0.0003894    0.0005646    0.0007174    0.0008415  
+ 
+         column  7 to 12
+ 
+    0.0009320    0.0009854    0.0009996    0.0009738    0.0009093    0.0008085  
+ 
+         column 13 to 16
+ 
+    0.0006755    0.0005155    0.0003350    0.0001411  
+ 
+ 
+ 
+ 
+ i  =
+ 
+ 
+         column 1 to 6
+ 
+    0.2    0.1960133    0.1842122    0.1650671    0.1393413    0.1080605  
+ 
+         column  7 to 12
+ 
+    0.0724716    0.0339934  - 0.0058399  - 0.0454404  - 0.0832294  - 0.1177002  
+ 
+         column 13 to 16
+ 
+  - 0.1474787  - 0.1713778  - 0.1884445  - 0.1979985  
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    1.9470917    3.5867805    4.6601954    4.997868    4.5464871  
+ 
+         column  7 to 12
+ 
+    3.3773159    1.6749408  - 0.2918707  - 2.2126022  - 3.7840125  - 4.7580104  
+ 
+         column 13 to 16
+ 
+  - 4.980823  - 4.4172733  - 3.1563332  - 1.3970775  
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch4_1.sce #
+[2J[0;0H 
+ 
+ Problem 4.1   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 is written if the direction of flow is away from the node   
+ 
+ 
+ -1 is written if the direction of flow is towards the node   
+ 
+ 
+ 0 is written if the branch is not connected to the node   
+ 
+ 
+ 
+ A  =
+ 
+    1.    0.  - 1.  - 1.    0.    0.  
+  - 1.    1.    0.    0.    1.    0.  
+    0.  - 1.    1.    0.    0.    1.  
+    0.    0.    0.    1.  - 1.  - 1.  
+ 
+ 
+ The incidence matrix is    
+ 
+ 
+ Aa=   
+ 
+    1.    0.  - 1.  - 1.    0.    0.  
+  - 1.    1.    0.    0.    1.    0.  
+    0.  - 1.    1.    0.    0.    1.  
+    0.    0.    0.    1.  - 1.  - 1.  
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch4_2.sce #
+[2J[0;0H 
+ 
+ Problem 4.2   
+ 
+
+ 
+ 
+ 
+ 
+ The reduced incidence matrix is    
+ 
+ A  =
+ 
+  - 1.    1.    0.    0.    1.    0.  
+    0.  - 1.    1.    0.    0.    1.  
+    0.    0.    0.    1.  - 1.  - 1.  
+ 
+ 
+ A=   
+ 
+  - 1.    1.    0.    0.    1.    0.  
+    0.  - 1.    1.    0.    0.    1.  
+    0.    0.    0.    1.  - 1.  - 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KCL equations are   
+ 
+ 
+ -i1+i2+i5=0   
+ 
+ 
+ -i2+i3+i6=0   
+ 
+ 
+ i4-i5-i6=0   
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch4_3.sce #
+[2J[0;0H 
+ 
+ Problem 4.3   
+ 
+
+ 
+ 
+ 
+ 
+ The reduced incidence matrix is    
+ 
+ A  =
+ 
+  - 1.    1.    0.    0.    1.    0.  
+    0.  - 1.    1.    0.    0.    1.  
+    0.    0.    0.    1.  - 1.  - 1.  
+ 
+ 
+ A=   
+ 
+  - 1.    1.    0.    0.    1.    0.  
+    0.  - 1.    1.    0.    0.    1.  
+    0.    0.    0.    1.  - 1.  - 1.  
+ 
+ AT  =
+ 
+  - 1.    0.    0.  
+    1.  - 1.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+    1.    0.  - 1.  
+    0.    1.  - 1.  
+ 
+ 
+ AT=   
+ 
+  - 1.    0.    0.  
+    1.  - 1.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+    1.    0.  - 1.  
+    0.    1.  - 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Node to datum voltages are   
+ 
+ 
+ v1=-e1   
+ 
+ 
+ v2=e1-e2   
+ 
+ 
+ v3=e2   
+ 
+ 
+ v4=e3   
+ 
+ 
+ v5=e1-e3   
+ 
+ 
+ v6=e2-e3   
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch4_4.sce #
+[2J[0;0H 
+ 
+ Problem 4.4   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ L1={1,5,6} L2={2,5,6,7,8} L3={3,6,7,8} L4={4,6,7}   
+ 
+ 
+ 1 is written if the direction of flow is along the direction of loop   
+ 
+ 
+ -1 is written if the direction of flow is opposite to the direction of loop   
+ 
+ 
+ 0 is written if the branch is not a part of loop   
+ 
+ 
+ The loop incidence matrix is   
+ 
+ B  =
+ 
+    1.    0.    0.    0.  - 1.    1.    0.    0.  
+    0.    1.    0.    0.    1.  - 1.    1.    1.  
+    0.    0.    1.    0.    0.  - 1.    1.    1.  
+    0.    0.    0.    1.    0.  - 1.    1.    0.  
+ 
+ 
+ B=   
+ 
+    1.    0.    0.    0.  - 1.    1.    0.    0.  
+    0.    1.    0.    0.    1.  - 1.    1.    1.  
+    0.    0.    1.    0.    0.  - 1.    1.    1.  
+    0.    0.    0.    1.    0.  - 1.    1.    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The branch currents are   
+ 
+ 
+ i1=iL1   
+ 
+ 
+ i2=iL2   
+ 
+ 
+ i3=iL3   
+ 
+ 
+ i4=iL4   
+ 
+ 
+ i5=-iL1+iL2   
+ 
+ 
+ i6=iL1-iL2-iL3-iL4   
+ 
+ 
+ i7=iL2+iL3+iL4   
+ 
+ 
+ i8=iL2+iL3   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch4_5.sce #
+[2J[0;0H 
+ 
+ Problem 4.5   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ C1={1,2,5} L2={2,3,8} L3={1,2,3,4,6} L4={2,3,4,7}   
+ 
+ 
+ 1 is written for the link if the direction of flow of tree branch is same as t 
+      hat of the link                                                           
+ 
+ 
+ -1 is written for the link if the direction of flow of tree branch is opposite 
+       as that of the link                                                      
+ 
+ 
+ 0 is written if the branch or a link is not a part of cut set   
+ 
+ 
+ The cut set matrix is   
+ 
+ C  =
+ 
+    1.  - 1.    0.    0.    1.    0.    0.    0.  
+    0.  - 1.  - 1.    0.    0.    0.    0.    1.  
+    1.  - 1.  - 1.  - 1.    0.    1.    0.    0.  
+    0.  - 1.  - 1.  - 1.    0.    0.    1.    0.  
+ 
+ 
+ C=   
+ 
+    1.  - 1.    0.    0.    1.    0.    0.    0.  
+    0.  - 1.  - 1.    0.    0.    0.    0.    1.  
+    1.  - 1.  - 1.  - 1.    0.    1.    0.    0.  
+    0.  - 1.  - 1.  - 1.    0.    0.    1.    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KCL equations are   
+ 
+ 
+ i1-i2+i5=0   
+ 
+ 
+ -i2-i3+i8=0   
+ 
+ 
+ i1-i2-i3-i4+i6=0   
+ 
+ 
+ -i2-i3-i4+i7=0   
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH5/EX5.8/ch5_8.sce #
+[2J[0;0H 
+ 
+ 
+ I  =
+ 
+    3.3333333  
+ 
+ 
+ V1  =
+ 
+    10.  
+ 
+Thevenin voltage = 10V
+ 
+ 
+ 
+ R1  =
+ 
+    5.  
+ 
+Thevenin resistance =5ohm
+ 
+ 
+ 
+ I1  =
+ 
+    2.  
+ 
+
+ Norton current =2A
+ 
+ 
+ The value of resistance in Norton equivalent will not change but will come in  
+      parallel with current source                                              
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch5_8.sce #
+[2J[0;0H 
+ 
+ 
+ I  =
+ 
+    3.3333333  
+ 
+ 
+ V1  =
+ 
+    10.  
+ 
+Thevenin voltage = 10V
+ 
+ 
+ 
+ R1  =
+ 
+    5.  
+ 
+Thevenin resistance =5ohm
+ 
+ 
+ 
+ I1  =
+ 
+    2.  
+ 
+
+ Norton current =2A
+ 
+ 
+ The value of resistance in Norton equivalent will not change but will come in  
+      parallel with current source                                              
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH6/EX6.8/ch6_8.sce #
+[2J[0;0H 
+ 
+ Example 6.8   
+ 
+Given 
+ 
+ R1= 10kohm R2=50kohm Ri=500kohm R0=0   
+ 
+ 
+ Open loop gain (A)=10^5   
+ 
+ 
+ 
+ 
+ 
+ (v1+vd)/10+ (v2+vd)/50+ vd/500=0          (1)   
+ 
+ 
+ 
+ v2=A*vd   
+ 
+ 
+ 
+ vd=10^-5*v2      (2)   
+ 
+ 
+v2/v1=-5
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch6_8.sce #
+[2J[0;0H 
+ 
+ Example 6.8   
+ 
+Given 
+ 
+ R1= 10kohm R2=50kohm Ri=500kohm R0=0   
+ 
+ 
+ Open loop gain (A)=10^5   
+ 
+ 
+ 
+ 
+ 
+ (v1+vd)/10+ (v2+vd)/50+ vd/500=0          (1)   
+ 
+ 
+ 
+ v2=A*vd   
+ 
+ 
+ 
+ vd=10^-5*v2      (2)   
+ 
+ 
+v2/v1=-5
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH6/EX6.10/ch6_10.sce #
+[2J[0;0H 
+Given 
+ 
+ R1=1 ohm;R2=1/2 ohm;R3=1/4 ohm;R4=1/8 ohm   
+ 
+ 
+ Rf=1 ohm   
+ 
+ 
+ 
+ 
+ v0=-((Rf/R1)*v1+(Rf/R2)*v2+(Rf/R3)*v3+......   
+ 
+ 
+ 
+ v0=-(8v4+4v3+2v2+v1)-----------(1)   
+ 
+ 
+ a)   
+ 
+ 
+ 
+ v0  =
+ 
+  - 9.  
+ 
+v0=-9V
+ 
+ 
+ 
+ b)   
+ 
+ 
+ 
+ v0  =
+ 
+  - 14.  
+ 
+v0=-14V
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH7/EX7.1/ch7_1.sce #
+[2J[0;0H 
+ 
+ Example 7.1   
+ 
+
+ 
+ 
+ t1  =
+ 
+ 
+         column  1 to 12
+ 
+  - 5.  - 4.5  - 4.  - 3.5  - 3.  - 2.5  - 2.  - 1.5  - 1.  - 0.5    0.    0.5  
+ 
+         column 13 to 24
+ 
+    1.    1.5    2.    2.5    3.    3.5    4.    4.5    5.    5.5    6.    6.5  
+ 
+         column 25 to 27
+ 
+    7.    7.5    8.  
+ 
+ v1  =
+ 
+ 
+         column 1 to 6
+ 
+    0.2836622  - 0.2107958  - 0.6536436  - 0.9364567  - 0.9899925  - 0.8011436  
+ 
+         column  7 to 12
+ 
+  - 0.4161468    0.0707372    0.5403023    0.8775826    1.    0.8775826  
+ 
+         column 13 to 18
+ 
+    0.5403023    0.0707372  - 0.4161468  - 0.8011436  - 0.9899925  - 0.9364567  
+ 
+         column 19 to 24
+ 
+  - 0.6536436  - 0.2107958    0.2836622    0.7086698    0.9601703    0.9765876  
+ 
+         column 25 to 27
+ 
+    0.7539023    0.3466353  - 0.1455000  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period1= 6.283s
+ Frequency 1=0.159Hz
+ 
+ 
+ t2  =
+ 
+ 
+         column  1 to 12
+ 
+  - 4.  - 3.5  - 3.  - 2.5  - 2.  - 1.5  - 1.  - 0.5    0.    0.5    1.    1.5  
+ 
+         column 13 to 24
+ 
+    2.    2.5    3.    3.5    4.    4.5    5.    5.5    6.    6.5    7.    7.5  
+ 
+         column 25 to 29
+ 
+    8.    8.5    9.    9.5    10.  
+ 
+ v2  =
+ 
+ 
+         column 1 to 6
+ 
+    0.7568025    0.3507832  - 0.1411200  - 0.5984721  - 0.9092974  - 0.9974950  
+ 
+         column  7 to 12
+ 
+  - 0.8414710  - 0.4794255    0.    0.4794255    0.8414710    0.9974950  
+ 
+         column 13 to 18
+ 
+    0.9092974    0.5984721    0.1411200  - 0.3507832  - 0.7568025  - 0.9775301  
+ 
+         column 19 to 24
+ 
+  - 0.9589243  - 0.7055403  - 0.2794155    0.2151200    0.6569866    0.9380000  
+ 
+         column 25 to 29
+ 
+    0.9893582    0.7984871    0.4121185  - 0.0751511  - 0.5440211  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 2= 6.283s
+ Frequency 2=0.159Hz
+ 
+ 
+ t3  =
+ 
+ 
+         column  1 to 10
+ 
+  - 1.  - 0.95  - 0.9  - 0.85  - 0.8  - 0.75  - 0.7  - 0.65  - 0.6  - 0.55  
+ 
+         column 11 to 20
+ 
+  - 0.5  - 0.45  - 0.4  - 0.35  - 0.3  - 0.25  - 0.2  - 0.15  - 0.1  - 0.05  
+ 
+         column 21 to 30
+ 
+    0.    0.05    0.1    0.15    0.2    0.25    0.3    0.35    0.4    0.45  
+ 
+         column 31 to 40
+ 
+    0.5    0.55    0.6    0.65    0.7    0.75    0.8    0.85    0.9    0.95  
+ 
+         column 41 to 50
+ 
+    1.    1.05    1.1    1.15    1.2    1.25    1.3    1.35    1.4    1.45  
+ 
+         column 51
+ 
+    1.5  
+ 
+ v3  =
+ 
+ 
+         column 1 to 6
+ 
+    2.    1.902113    1.618034    1.1755705    0.6180340  - 3.674D-16  
+ 
+         column  7 to 12
+ 
+  - 0.6180340  - 1.1755705  - 1.618034  - 1.902113  - 2.  - 1.902113  
+ 
+         column 13 to 18
+ 
+  - 1.618034  - 1.1755705  - 0.6180340    1.225D-16    0.6180340    1.1755705  
+ 
+         column 19 to 24
+ 
+    1.618034    1.902113    2.    1.902113    1.618034    1.1755705  
+ 
+         column 25 to 30
+ 
+    0.6180340    1.225D-16  - 0.6180340  - 1.1755705  - 1.618034  - 1.902113  
+ 
+         column 31 to 36
+ 
+  - 2.  - 1.902113  - 1.618034  - 1.1755705  - 0.6180340  - 3.674D-16  
+ 
+         column 37 to 42
+ 
+    0.6180340    1.1755705    1.618034    1.902113    2.    1.902113  
+ 
+         column 43 to 48
+ 
+    1.618034    1.1755705    0.6180340    6.123D-16  - 0.6180340  - 1.1755705  
+ 
+         column 49 to 51
+ 
+  - 1.618034  - 1.902113  - 2.  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 2
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 3= 1s
+ Frequency 3=1Hz
+ 
+ 
+ t4  =
+ 
+ 
+         column  1 to 12
+ 
+  - 5.  - 4.5  - 4.  - 3.5  - 3.  - 2.5  - 2.  - 1.5  - 1.  - 0.5    0.    0.5  
+ 
+         column 13 to 24
+ 
+    1.    1.5    2.    2.5    3.    3.5    4.    4.5    5.    5.5    6.    6.5  
+ 
+         column 25 to 35
+ 
+    7.    7.5    8.    8.5    9.    9.5    10.    10.5    11.    11.5    12.  
+ 
+ v4  =
+ 
+ 
+         column 1 to 6
+ 
+  - 3.674D-16  - 0.7653669  - 1.4142136  - 1.8477591  - 2.  - 1.8477591  
+ 
+         column  7 to 12
+ 
+  - 1.4142136  - 0.7653669    1.225D-16    0.7653669    1.4142136    1.8477591  
+ 
+         column 13 to 18
+ 
+    2.    1.8477591    1.4142136    0.7653669    1.225D-16  - 0.7653669  
+ 
+         column 19 to 24
+ 
+  - 1.4142136  - 1.8477591  - 2.  - 1.8477591  - 1.4142136  - 0.7653669  
+ 
+         column 25 to 30
+ 
+  - 3.674D-16    0.7653669    1.4142136    1.8477591    2.    1.8477591  
+ 
+         column 31 to 35
+ 
+    1.4142136    0.7653669    2.389D-15  - 0.7653669  - 1.4142136  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 3
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 4= 8s
+ Frequency 4=0.125Hz
+ 
+ 
+ t5  =
+ 
+ 
+         column 1 to 9
+ 
+  - 1.  - 0.995  - 0.99  - 0.985  - 0.98  - 0.975  - 0.97  - 0.965  - 0.96  
+ 
+         column 10 to 18
+ 
+  - 0.955  - 0.95  - 0.945  - 0.94  - 0.935  - 0.93  - 0.925  - 0.92  - 0.915  
+ 
+         column 19 to 27
+ 
+  - 0.91  - 0.905  - 0.9  - 0.895  - 0.89  - 0.885  - 0.88  - 0.875  - 0.87  
+ 
+         column 28 to 36
+ 
+  - 0.865  - 0.86  - 0.855  - 0.85  - 0.845  - 0.84  - 0.835  - 0.83  - 0.825  
+ 
+         column 37 to 45
+ 
+  - 0.82  - 0.815  - 0.81  - 0.805  - 0.8  - 0.795  - 0.79  - 0.785  - 0.78  
+ 
+         column 46 to 54
+ 
+  - 0.775  - 0.77  - 0.765  - 0.76  - 0.755  - 0.75  - 0.745  - 0.74  - 0.735  
+ 
+         column 55 to 63
+ 
+  - 0.73  - 0.725  - 0.72  - 0.715  - 0.71  - 0.705  - 0.7  - 0.695  - 0.69  
+ 
+         column 64 to 72
+ 
+  - 0.685  - 0.68  - 0.675  - 0.67  - 0.665  - 0.66  - 0.655  - 0.65  - 0.645  
+ 
+         column 73 to 81
+ 
+  - 0.64  - 0.635  - 0.63  - 0.625  - 0.62  - 0.615  - 0.61  - 0.605  - 0.6  
+ 
+         column 82 to 90
+ 
+  - 0.595  - 0.59  - 0.585  - 0.58  - 0.575  - 0.57  - 0.565  - 0.56  - 0.555  
+ 
+         column 91 to 99
+ 
+  - 0.55  - 0.545  - 0.54  - 0.535  - 0.53  - 0.525  - 0.52  - 0.515  - 0.51  
+ 
+         column 100 to 108
+ 
+  - 0.505  - 0.5  - 0.495  - 0.49  - 0.485  - 0.48  - 0.475  - 0.47  - 0.465  
+ 
+         column 109 to 117
+ 
+  - 0.46  - 0.455  - 0.45  - 0.445  - 0.44  - 0.435  - 0.43  - 0.425  - 0.42  
+ 
+         column 118 to 126
+ 
+  - 0.415  - 0.41  - 0.405  - 0.4  - 0.395  - 0.39  - 0.385  - 0.38  - 0.375  
+ 
+         column 127 to 135
+ 
+  - 0.37  - 0.365  - 0.36  - 0.355  - 0.35  - 0.345  - 0.34  - 0.335  - 0.33  
+ 
+         column 136 to 144
+ 
+  - 0.325  - 0.32  - 0.315  - 0.31  - 0.305  - 0.3  - 0.295  - 0.29  - 0.285  
+ 
+         column 145 to 153
+ 
+  - 0.28  - 0.275  - 0.27  - 0.265  - 0.26  - 0.255  - 0.25  - 0.245  - 0.24  
+ 
+         column 154 to 162
+ 
+  - 0.235  - 0.23  - 0.225  - 0.22  - 0.215  - 0.21  - 0.205  - 0.2  - 0.195  
+ 
+         column 163 to 171
+ 
+  - 0.19  - 0.185  - 0.18  - 0.175  - 0.17  - 0.165  - 0.16  - 0.155  - 0.15  
+ 
+         column 172 to 180
+ 
+  - 0.145  - 0.14  - 0.135  - 0.13  - 0.125  - 0.12  - 0.115  - 0.11  - 0.105  
+ 
+         column 181 to 189
+ 
+  - 0.1  - 0.095  - 0.09  - 0.085  - 0.08  - 0.075  - 0.07  - 0.065  - 0.06  
+ 
+         column 190 to 198
+ 
+  - 0.055  - 0.05  - 0.045  - 0.04  - 0.035  - 0.03  - 0.025  - 0.02  - 0.015  
+ 
+         column 199 to 207
+ 
+  - 0.01  - 0.005    0.    0.005    0.01    0.015    0.02    0.025    0.03  
+ 
+         column 208 to 216
+ 
+    0.035    0.04    0.045    0.05    0.055    0.06    0.065    0.07    0.075  
+ 
+         column 217 to 225
+ 
+    0.08    0.085    0.09    0.095    0.1    0.105    0.11    0.115    0.12  
+ 
+         column 226 to 234
+ 
+    0.125    0.13    0.135    0.14    0.145    0.15    0.155    0.16    0.165  
+ 
+         column 235 to 243
+ 
+    0.17    0.175    0.18    0.185    0.19    0.195    0.2    0.205    0.21  
+ 
+         column 244 to 252
+ 
+    0.215    0.22    0.225    0.23    0.235    0.24    0.245    0.25    0.255  
+ 
+         column 253 to 261
+ 
+    0.26    0.265    0.27    0.275    0.28    0.285    0.29    0.295    0.3  
+ 
+         column 262 to 270
+ 
+    0.305    0.31    0.315    0.32    0.325    0.33    0.335    0.34    0.345  
+ 
+         column 271 to 279
+ 
+    0.35    0.355    0.36    0.365    0.37    0.375    0.38    0.385    0.39  
+ 
+         column 280 to 288
+ 
+    0.395    0.4    0.405    0.41    0.415    0.42    0.425    0.43    0.435  
+ 
+         column 289 to 297
+ 
+    0.44    0.445    0.45    0.455    0.46    0.465    0.47    0.475    0.48  
+ 
+         column 298 to 306
+ 
+    0.485    0.49    0.495    0.5    0.505    0.51    0.515    0.52    0.525  
+ 
+         column 307 to 315
+ 
+    0.53    0.535    0.54    0.545    0.55    0.555    0.56    0.565    0.57  
+ 
+         column 316 to 324
+ 
+    0.575    0.58    0.585    0.59    0.595    0.6    0.605    0.61    0.615  
+ 
+         column 325 to 333
+ 
+    0.62    0.625    0.63    0.635    0.64    0.645    0.65    0.655    0.66  
+ 
+         column 334 to 342
+ 
+    0.665    0.67    0.675    0.68    0.685    0.69    0.695    0.7    0.705  
+ 
+         column 343 to 351
+ 
+    0.71    0.715    0.72    0.725    0.73    0.735    0.74    0.745    0.75  
+ 
+         column 352 to 360
+ 
+    0.755    0.76    0.765    0.77    0.775    0.78    0.785    0.79    0.795  
+ 
+         column 361 to 369
+ 
+    0.8    0.805    0.81    0.815    0.82    0.825    0.83    0.835    0.84  
+ 
+         column 370 to 378
+ 
+    0.845    0.85    0.855    0.86    0.865    0.87    0.875    0.88    0.885  
+ 
+         column 379 to 387
+ 
+    0.89    0.895    0.9    0.905    0.91    0.915    0.92    0.925    0.93  
+ 
+         column 388 to 396
+ 
+    0.935    0.94    0.945    0.95    0.955    0.96    0.965    0.97    0.975  
+ 
+         column 397 to 401
+ 
+    0.98    0.985    0.99    0.995    1.  
+ 
+ v5  =
+ 
+ 
+         column 1 to 6
+ 
+  - 4.4533593  - 4.3341795  - 4.2041664  - 4.0636451  - 3.9129669  - 3.7525082  
+ 
+         column  7 to 12
+ 
+  - 3.5826702  - 3.4038774  - 3.2165767  - 3.0212363  - 2.8183443  - 2.6084079  
+ 
+         column 13 to 18
+ 
+  - 2.3919519  - 2.1695172  - 1.9416599  - 1.7089494  - 1.4719674  - 1.2313063  
+ 
+         column 19 to 24
+ 
+  - 0.9875676  - 0.7413604  - 0.4933003  - 0.2440071    0.0058959    0.2557842  
+ 
+         column 25 to 30
+ 
+    0.5050332    0.7530199    0.9991244    1.2427316    1.4832326    1.7200263  
+ 
+         column 31 to 36
+ 
+    1.9525209    2.1801351    2.4023002    2.6184607    2.8280765    3.0306236  
+ 
+         column 37 to 42
+ 
+    3.2255956    3.4125054    3.5908857    3.7602906    3.9202968    4.0705043  
+ 
+         column 43 to 48
+ 
+    4.2105376    4.3400468    4.4587081    4.5662249    4.6623286    4.7467789  
+ 
+         column 49 to 54
+ 
+    4.8193647    4.8799046    4.9282473    4.964272    4.9878885    4.999038  
+ 
+         column 55 to 60
+ 
+    4.9976924    4.9838552    4.9575609    4.9188754    4.8678952    4.8047478  
+ 
+         column 61 to 66
+ 
+    4.7295911    4.6426128    4.5440304    4.4340903    4.3130673    4.1812639  
+ 
+         column 67 to 72
+ 
+    4.0390095    3.8866596    3.7245952    3.5532211    3.3729659    3.1842801  
+ 
+         column 73 to 78
+ 
+    2.9876352    2.7835227    2.5724529    2.3549533    2.1315676    1.902854  
+ 
+         column 79 to 84
+ 
+    1.6693843    1.431742    1.1905211    0.9463245    0.6997626    0.4514517  
+ 
+         column 85 to 90
+ 
+    0.2020123  - 0.0479319  - 0.2977564  - 0.5468366  - 0.7945500  - 1.0402775  
+ 
+         column 91 to 96
+ 
+  - 1.2834048  - 1.5233243  - 1.7594362  - 1.9911505  - 2.2178879  - 2.4390818  
+ 
+         column  97 to 102
+ 
+  - 2.6541792  - 2.8626426  - 3.0639508  - 3.2576008  - 3.4431084  - 3.6200101  
+ 
+         column 103 to 108
+ 
+  - 3.7878637  - 3.9462495  - 4.0947718  - 4.2330593  - 4.3607664  - 4.4775738  
+ 
+         column 109 to 114
+ 
+  - 4.5831896  - 4.6773498  - 4.7598191  - 4.8303913  - 4.88889  - 4.9351691  
+ 
+         column 115 to 120
+ 
+  - 4.9691128  - 4.9906363  - 4.9996859  - 4.9962388  - 4.9803037  - 4.9519205  
+ 
+         column 121 to 126
+ 
+  - 4.91116  - 4.8581242  - 4.7929456  - 4.7157871  - 4.6268417  - 4.5263315  
+ 
+         column 127 to 132
+ 
+  - 4.4145079  - 4.2916503  - 4.1580658  - 4.0140883  - 3.8600777  - 3.6964188  
+ 
+         column 133 to 138
+ 
+  - 3.5235209  - 3.341816  - 3.1517583  - 2.9538229  - 2.7485044  - 2.5363161  
+ 
+         column 139 to 144
+ 
+  - 2.3177883  - 2.0934673  - 1.8639137  - 1.6297013  - 1.3914154  - 1.1496518  
+ 
+         column 145 to 150
+ 
+  - 0.9050146  - 0.6581154  - 0.4095712  - 0.1600033    0.0899645    0.3397075  
+ 
+         column 151 to 156
+ 
+    0.5886014    0.8360240    1.0813571    1.3239873    1.5633082    1.7987217  
+ 
+         column 157 to 162
+ 
+    2.0296393    2.2554839    2.4756909    2.68971    2.8970063    3.0970615  
+ 
+         column 163 to 168
+ 
+    3.2893757    3.4734681    3.6488787    3.815169    3.9719234    4.11875  
+ 
+         column 169 to 174
+ 
+    4.2552819    4.3811778    4.496123    4.5998303    4.6920404    4.7725228  
+ 
+         column 175 to 180
+ 
+    4.8410764    4.8975298    4.941742    4.9736024    4.9930314    4.9999804  
+ 
+         column 181 to 186
+ 
+    4.994432    4.9764002    4.9459299    4.9030974    4.8480098    4.7808046  
+ 
+         column 187 to 192
+ 
+    4.7016499    4.6107435    4.5083127    4.3946134    4.2699299    4.1345738  
+ 
+         column 193 to 198
+ 
+    3.9888834    3.8332228    3.6679813    3.4935716    3.3104299    3.1190138  
+ 
+         column 199 to 204
+ 
+    2.9198018    2.7132918    2.5    2.2804595    2.055219    1.8248416  
+ 
+         column 205 to 210
+ 
+    1.589903    1.3509905    1.1087012    0.8636407    0.6164216    0.3676617  
+ 
+         column 211 to 216
+ 
+    0.1179829  - 0.1319908  - 0.3816346  - 0.6303245  - 0.8774389  - 1.1223602  
+ 
+         column 217 to 222
+ 
+  - 1.3644762  - 1.6031817  - 1.8378801  - 2.0679847  - 2.2929205  - 2.5121251  
+ 
+         column 223 to 228
+ 
+  - 2.7250508  - 2.9311652  - 3.1299532  - 3.320918  - 3.5035823  - 3.6774894  
+ 
+         column 229 to 234
+ 
+  - 3.8422046  - 3.9973164  - 4.142437  - 4.2772036  - 4.4012795  - 4.5143544  
+ 
+         column 235 to 240
+ 
+  - 4.6161458  - 4.7063993  - 4.7848892  - 4.8514193  - 4.9058235  - 4.9479656  
+ 
+         column 241 to 246
+ 
+  - 4.9777404  - 4.9950735  - 4.9999215  - 4.9922722  - 4.9721449  - 4.9395898  
+ 
+         column 247 to 252
+ 
+  - 4.8946883  - 4.8375527  - 4.7683257  - 4.6871803  - 4.5943194  - 4.4899752  
+ 
+         column 253 to 258
+ 
+  - 4.3744083  - 4.2479077  - 4.1107895  - 3.9633965  - 3.8060971  - 3.6392844  
+ 
+         column 259 to 264
+ 
+  - 3.4633754  - 3.2788098  - 3.0860488  - 2.8855743  - 2.6778874  - 2.4635072  
+ 
+         column 265 to 270
+ 
+  - 2.2429695  - 2.0168255  - 1.7856405  - 1.5499924  - 1.3104701  - 1.0676722  
+ 
+         column 271 to 276
+ 
+  - 0.8222058  - 0.5746843  - 0.3257263  - 0.0759542    0.1740077    0.4235347  
+ 
+         column 277 to 282
+ 
+    0.6720031    0.9187918    1.1632841    1.4048687    1.6429419    1.8769086  
+ 
+         column 283 to 288
+ 
+    2.106184    2.330195    2.5483817    2.7601989    2.9651169    3.1626238  
+ 
+         column 289 to 294
+ 
+    3.3522257    3.5334488    3.7058401    3.8689687    4.0224269    4.1658312  
+ 
+         column 295 to 300
+ 
+    4.2988231    4.4210701    4.5322667    4.6321351    4.7204255    4.7969173  
+ 
+         column 301 to 306
+ 
+    4.8614194    4.9137704    4.9538395    4.9815267    4.9967626    4.9995092  
+ 
+         column 307 to 312
+ 
+    4.9897596    4.9675382    4.9329006    4.8859333    4.8267537    4.7555097  
+ 
+         column 313 to 318
+ 
+    4.6723794    4.5775706    4.4713203    4.353894    4.2255852    4.0867147  
+ 
+         column 319 to 324
+ 
+    3.9376295    3.7787023    3.6103303    3.4329344    3.2469579    3.0528657  
+ 
+         column 325 to 330
+ 
+    2.8511429    2.6422938    2.4268403    2.2053209    1.9782894    1.7463133  
+ 
+         column 331 to 336
+ 
+    1.5099722    1.269857    1.0265678    0.7807127    0.5329063    0.2837679  
+ 
+         column 337 to 342
+ 
+    0.0339202  - 0.2160123  - 0.4654049  - 0.7136342  - 0.9600798  - 1.2041257  
+ 
+         column 343 to 348
+ 
+  - 1.4451619  - 1.6825859  - 1.9158044  - 2.1442343  - 2.3673048  - 2.5844582  
+ 
+         column 349 to 354
+ 
+  - 2.7951519  - 2.9988591  - 3.1950707  - 3.3832964  - 3.5630655  - 3.7339289  
+ 
+         column 355 to 360
+ 
+  - 3.8954593  - 4.0472532  - 4.188931  - 4.3201386  - 4.4405482  - 4.5498587  
+ 
+         column 361 to 366
+ 
+  - 4.647797  - 4.7341181  - 4.8086065  - 4.8710758  - 4.92137  - 4.9593633  
+ 
+         column 367 to 372
+ 
+  - 4.9849607  - 4.9980984  - 4.9987435  - 4.9868942  - 4.9625804  - 4.9258627  
+ 
+         column 373 to 378
+ 
+  - 4.8768328  - 4.8156135  - 4.7423576  - 4.6572483  - 4.5604983  - 4.4523494  
+ 
+         column 379 to 384
+ 
+  - 4.333072  - 4.2029641  - 4.062351  - 3.9115842  - 3.7510404  - 3.581121  
+ 
+         column 385 to 390
+ 
+  - 3.4022507  - 3.2148765  - 3.0194668  - 2.81651  - 2.6065133  - 2.3900018  
+ 
+         column 391 to 396
+ 
+  - 2.1675165  - 1.9396135  - 1.7068625  - 1.4698453  - 1.2291542  - 0.9853908  
+ 
+         column 397 to 401
+ 
+  - 0.7391645  - 0.4910907  - 0.2417893    0.0081163    0.2580017  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 4
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 5= 0.628s
+ Frequency 5=1.59Hz
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch7_1.sce #
+[2J[0;0H 
+ 
+ Example 7.1   
+ 
+
+ 
+ 
+ t1  =
+ 
+ 
+         column  1 to 12
+ 
+  - 5.  - 4.5  - 4.  - 3.5  - 3.  - 2.5  - 2.  - 1.5  - 1.  - 0.5    0.    0.5  
+ 
+         column 13 to 24
+ 
+    1.    1.5    2.    2.5    3.    3.5    4.    4.5    5.    5.5    6.    6.5  
+ 
+         column 25 to 27
+ 
+    7.    7.5    8.  
+ 
+ v1  =
+ 
+ 
+         column 1 to 6
+ 
+    0.2836622  - 0.2107958  - 0.6536436  - 0.9364567  - 0.9899925  - 0.8011436  
+ 
+         column  7 to 12
+ 
+  - 0.4161468    0.0707372    0.5403023    0.8775826    1.    0.8775826  
+ 
+         column 13 to 18
+ 
+    0.5403023    0.0707372  - 0.4161468  - 0.8011436  - 0.9899925  - 0.9364567  
+ 
+         column 19 to 24
+ 
+  - 0.6536436  - 0.2107958    0.2836622    0.7086698    0.9601703    0.9765876  
+ 
+         column 25 to 27
+ 
+    0.7539023    0.3466353  - 0.1455000  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period1= 6.283s
+ Frequency 1=0.159Hz
+ 
+ 
+ t2  =
+ 
+ 
+         column  1 to 12
+ 
+  - 4.  - 3.5  - 3.  - 2.5  - 2.  - 1.5  - 1.  - 0.5    0.    0.5    1.    1.5  
+ 
+         column 13 to 24
+ 
+    2.    2.5    3.    3.5    4.    4.5    5.    5.5    6.    6.5    7.    7.5  
+ 
+         column 25 to 29
+ 
+    8.    8.5    9.    9.5    10.  
+ 
+ v2  =
+ 
+ 
+         column 1 to 6
+ 
+    0.7568025    0.3507832  - 0.1411200  - 0.5984721  - 0.9092974  - 0.9974950  
+ 
+         column  7 to 12
+ 
+  - 0.8414710  - 0.4794255    0.    0.4794255    0.8414710    0.9974950  
+ 
+         column 13 to 18
+ 
+    0.9092974    0.5984721    0.1411200  - 0.3507832  - 0.7568025  - 0.9775301  
+ 
+         column 19 to 24
+ 
+  - 0.9589243  - 0.7055403  - 0.2794155    0.2151200    0.6569866    0.9380000  
+ 
+         column 25 to 29
+ 
+    0.9893582    0.7984871    0.4121185  - 0.0751511  - 0.5440211  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 2= 6.283s
+ Frequency 2=0.159Hz
+ 
+ 
+ t3  =
+ 
+ 
+         column  1 to 10
+ 
+  - 1.  - 0.95  - 0.9  - 0.85  - 0.8  - 0.75  - 0.7  - 0.65  - 0.6  - 0.55  
+ 
+         column 11 to 20
+ 
+  - 0.5  - 0.45  - 0.4  - 0.35  - 0.3  - 0.25  - 0.2  - 0.15  - 0.1  - 0.05  
+ 
+         column 21 to 30
+ 
+    0.    0.05    0.1    0.15    0.2    0.25    0.3    0.35    0.4    0.45  
+ 
+         column 31 to 40
+ 
+    0.5    0.55    0.6    0.65    0.7    0.75    0.8    0.85    0.9    0.95  
+ 
+         column 41 to 50
+ 
+    1.    1.05    1.1    1.15    1.2    1.25    1.3    1.35    1.4    1.45  
+ 
+         column 51
+ 
+    1.5  
+ 
+ v3  =
+ 
+ 
+         column 1 to 6
+ 
+    2.    1.902113    1.618034    1.1755705    0.6180340  - 3.674D-16  
+ 
+         column  7 to 12
+ 
+  - 0.6180340  - 1.1755705  - 1.618034  - 1.902113  - 2.  - 1.902113  
+ 
+         column 13 to 18
+ 
+  - 1.618034  - 1.1755705  - 0.6180340    1.225D-16    0.6180340    1.1755705  
+ 
+         column 19 to 24
+ 
+    1.618034    1.902113    2.    1.902113    1.618034    1.1755705  
+ 
+         column 25 to 30
+ 
+    0.6180340    1.225D-16  - 0.6180340  - 1.1755705  - 1.618034  - 1.902113  
+ 
+         column 31 to 36
+ 
+  - 2.  - 1.902113  - 1.618034  - 1.1755705  - 0.6180340  - 3.674D-16  
+ 
+         column 37 to 42
+ 
+    0.6180340    1.1755705    1.618034    1.902113    2.    1.902113  
+ 
+         column 43 to 48
+ 
+    1.618034    1.1755705    0.6180340    6.123D-16  - 0.6180340  - 1.1755705  
+ 
+         column 49 to 51
+ 
+  - 1.618034  - 1.902113  - 2.  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 2
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 3= 1s
+ Frequency 3=1Hz
+ 
+ 
+ t4  =
+ 
+ 
+         column  1 to 12
+ 
+  - 5.  - 4.5  - 4.  - 3.5  - 3.  - 2.5  - 2.  - 1.5  - 1.  - 0.5    0.    0.5  
+ 
+         column 13 to 24
+ 
+    1.    1.5    2.    2.5    3.    3.5    4.    4.5    5.    5.5    6.    6.5  
+ 
+         column 25 to 35
+ 
+    7.    7.5    8.    8.5    9.    9.5    10.    10.5    11.    11.5    12.  
+ 
+ v4  =
+ 
+ 
+         column 1 to 6
+ 
+  - 3.674D-16  - 0.7653669  - 1.4142136  - 1.8477591  - 2.  - 1.8477591  
+ 
+         column  7 to 12
+ 
+  - 1.4142136  - 0.7653669    1.225D-16    0.7653669    1.4142136    1.8477591  
+ 
+         column 13 to 18
+ 
+    2.    1.8477591    1.4142136    0.7653669    1.225D-16  - 0.7653669  
+ 
+         column 19 to 24
+ 
+  - 1.4142136  - 1.8477591  - 2.  - 1.8477591  - 1.4142136  - 0.7653669  
+ 
+         column 25 to 30
+ 
+  - 3.674D-16    0.7653669    1.4142136    1.8477591    2.    1.8477591  
+ 
+         column 31 to 35
+ 
+    1.4142136    0.7653669    2.389D-15  - 0.7653669  - 1.4142136  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 3
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 4= 8s
+ Frequency 4=0.125Hz
+ 
+ 
+ t5  =
+ 
+ 
+         column 1 to 9
+ 
+  - 1.  - 0.995  - 0.99  - 0.985  - 0.98  - 0.975  - 0.97  - 0.965  - 0.96  
+ 
+         column 10 to 18
+ 
+  - 0.955  - 0.95  - 0.945  - 0.94  - 0.935  - 0.93  - 0.925  - 0.92  - 0.915  
+ 
+         column 19 to 27
+ 
+  - 0.91  - 0.905  - 0.9  - 0.895  - 0.89  - 0.885  - 0.88  - 0.875  - 0.87  
+ 
+         column 28 to 36
+ 
+  - 0.865  - 0.86  - 0.855  - 0.85  - 0.845  - 0.84  - 0.835  - 0.83  - 0.825  
+ 
+         column 37 to 45
+ 
+  - 0.82  - 0.815  - 0.81  - 0.805  - 0.8  - 0.795  - 0.79  - 0.785  - 0.78  
+ 
+         column 46 to 54
+ 
+  - 0.775  - 0.77  - 0.765  - 0.76  - 0.755  - 0.75  - 0.745  - 0.74  - 0.735  
+ 
+         column 55 to 63
+ 
+  - 0.73  - 0.725  - 0.72  - 0.715  - 0.71  - 0.705  - 0.7  - 0.695  - 0.69  
+ 
+         column 64 to 72
+ 
+  - 0.685  - 0.68  - 0.675  - 0.67  - 0.665  - 0.66  - 0.655  - 0.65  - 0.645  
+ 
+         column 73 to 81
+ 
+  - 0.64  - 0.635  - 0.63  - 0.625  - 0.62  - 0.615  - 0.61  - 0.605  - 0.6  
+ 
+         column 82 to 90
+ 
+  - 0.595  - 0.59  - 0.585  - 0.58  - 0.575  - 0.57  - 0.565  - 0.56  - 0.555  
+ 
+         column 91 to 99
+ 
+  - 0.55  - 0.545  - 0.54  - 0.535  - 0.53  - 0.525  - 0.52  - 0.515  - 0.51  
+ 
+         column 100 to 108
+ 
+  - 0.505  - 0.5  - 0.495  - 0.49  - 0.485  - 0.48  - 0.475  - 0.47  - 0.465  
+ 
+         column 109 to 117
+ 
+  - 0.46  - 0.455  - 0.45  - 0.445  - 0.44  - 0.435  - 0.43  - 0.425  - 0.42  
+ 
+         column 118 to 126
+ 
+  - 0.415  - 0.41  - 0.405  - 0.4  - 0.395  - 0.39  - 0.385  - 0.38  - 0.375  
+ 
+         column 127 to 135
+ 
+  - 0.37  - 0.365  - 0.36  - 0.355  - 0.35  - 0.345  - 0.34  - 0.335  - 0.33  
+ 
+         column 136 to 144
+ 
+  - 0.325  - 0.32  - 0.315  - 0.31  - 0.305  - 0.3  - 0.295  - 0.29  - 0.285  
+ 
+         column 145 to 153
+ 
+  - 0.28  - 0.275  - 0.27  - 0.265  - 0.26  - 0.255  - 0.25  - 0.245  - 0.24  
+ 
+         column 154 to 162
+ 
+  - 0.235  - 0.23  - 0.225  - 0.22  - 0.215  - 0.21  - 0.205  - 0.2  - 0.195  
+ 
+         column 163 to 171
+ 
+  - 0.19  - 0.185  - 0.18  - 0.175  - 0.17  - 0.165  - 0.16  - 0.155  - 0.15  
+ 
+         column 172 to 180
+ 
+  - 0.145  - 0.14  - 0.135  - 0.13  - 0.125  - 0.12  - 0.115  - 0.11  - 0.105  
+ 
+         column 181 to 189
+ 
+  - 0.1  - 0.095  - 0.09  - 0.085  - 0.08  - 0.075  - 0.07  - 0.065  - 0.06  
+ 
+         column 190 to 198
+ 
+  - 0.055  - 0.05  - 0.045  - 0.04  - 0.035  - 0.03  - 0.025  - 0.02  - 0.015  
+ 
+         column 199 to 207
+ 
+  - 0.01  - 0.005    0.    0.005    0.01    0.015    0.02    0.025    0.03  
+ 
+         column 208 to 216
+ 
+    0.035    0.04    0.045    0.05    0.055    0.06    0.065    0.07    0.075  
+ 
+         column 217 to 225
+ 
+    0.08    0.085    0.09    0.095    0.1    0.105    0.11    0.115    0.12  
+ 
+         column 226 to 234
+ 
+    0.125    0.13    0.135    0.14    0.145    0.15    0.155    0.16    0.165  
+ 
+         column 235 to 243
+ 
+    0.17    0.175    0.18    0.185    0.19    0.195    0.2    0.205    0.21  
+ 
+         column 244 to 252
+ 
+    0.215    0.22    0.225    0.23    0.235    0.24    0.245    0.25    0.255  
+ 
+         column 253 to 261
+ 
+    0.26    0.265    0.27    0.275    0.28    0.285    0.29    0.295    0.3  
+ 
+         column 262 to 270
+ 
+    0.305    0.31    0.315    0.32    0.325    0.33    0.335    0.34    0.345  
+ 
+         column 271 to 279
+ 
+    0.35    0.355    0.36    0.365    0.37    0.375    0.38    0.385    0.39  
+ 
+         column 280 to 288
+ 
+    0.395    0.4    0.405    0.41    0.415    0.42    0.425    0.43    0.435  
+ 
+         column 289 to 297
+ 
+    0.44    0.445    0.45    0.455    0.46    0.465    0.47    0.475    0.48  
+ 
+         column 298 to 306
+ 
+    0.485    0.49    0.495    0.5    0.505    0.51    0.515    0.52    0.525  
+ 
+         column 307 to 315
+ 
+    0.53    0.535    0.54    0.545    0.55    0.555    0.56    0.565    0.57  
+ 
+         column 316 to 324
+ 
+    0.575    0.58    0.585    0.59    0.595    0.6    0.605    0.61    0.615  
+ 
+         column 325 to 333
+ 
+    0.62    0.625    0.63    0.635    0.64    0.645    0.65    0.655    0.66  
+ 
+         column 334 to 342
+ 
+    0.665    0.67    0.675    0.68    0.685    0.69    0.695    0.7    0.705  
+ 
+         column 343 to 351
+ 
+    0.71    0.715    0.72    0.725    0.73    0.735    0.74    0.745    0.75  
+ 
+         column 352 to 360
+ 
+    0.755    0.76    0.765    0.77    0.775    0.78    0.785    0.79    0.795  
+ 
+         column 361 to 369
+ 
+    0.8    0.805    0.81    0.815    0.82    0.825    0.83    0.835    0.84  
+ 
+         column 370 to 378
+ 
+    0.845    0.85    0.855    0.86    0.865    0.87    0.875    0.88    0.885  
+ 
+         column 379 to 387
+ 
+    0.89    0.895    0.9    0.905    0.91    0.915    0.92    0.925    0.93  
+ 
+         column 388 to 396
+ 
+    0.935    0.94    0.945    0.95    0.955    0.96    0.965    0.97    0.975  
+ 
+         column 397 to 401
+ 
+    0.98    0.985    0.99    0.995    1.  
+ 
+ v5  =
+ 
+ 
+         column 1 to 6
+ 
+  - 4.4533593  - 4.3341795  - 4.2041664  - 4.0636451  - 3.9129669  - 3.7525082  
+ 
+         column  7 to 12
+ 
+  - 3.5826702  - 3.4038774  - 3.2165767  - 3.0212363  - 2.8183443  - 2.6084079  
+ 
+         column 13 to 18
+ 
+  - 2.3919519  - 2.1695172  - 1.9416599  - 1.7089494  - 1.4719674  - 1.2313063  
+ 
+         column 19 to 24
+ 
+  - 0.9875676  - 0.7413604  - 0.4933003  - 0.2440071    0.0058959    0.2557842  
+ 
+         column 25 to 30
+ 
+    0.5050332    0.7530199    0.9991244    1.2427316    1.4832326    1.7200263  
+ 
+         column 31 to 36
+ 
+    1.9525209    2.1801351    2.4023002    2.6184607    2.8280765    3.0306236  
+ 
+         column 37 to 42
+ 
+    3.2255956    3.4125054    3.5908857    3.7602906    3.9202968    4.0705043  
+ 
+         column 43 to 48
+ 
+    4.2105376    4.3400468    4.4587081    4.5662249    4.6623286    4.7467789  
+ 
+         column 49 to 54
+ 
+    4.8193647    4.8799046    4.9282473    4.964272    4.9878885    4.999038  
+ 
+         column 55 to 60
+ 
+    4.9976924    4.9838552    4.9575609    4.9188754    4.8678952    4.8047478  
+ 
+         column 61 to 66
+ 
+    4.7295911    4.6426128    4.5440304    4.4340903    4.3130673    4.1812639  
+ 
+         column 67 to 72
+ 
+    4.0390095    3.8866596    3.7245952    3.5532211    3.3729659    3.1842801  
+ 
+         column 73 to 78
+ 
+    2.9876352    2.7835227    2.5724529    2.3549533    2.1315676    1.902854  
+ 
+         column 79 to 84
+ 
+    1.6693843    1.431742    1.1905211    0.9463245    0.6997626    0.4514517  
+ 
+         column 85 to 90
+ 
+    0.2020123  - 0.0479319  - 0.2977564  - 0.5468366  - 0.7945500  - 1.0402775  
+ 
+         column 91 to 96
+ 
+  - 1.2834048  - 1.5233243  - 1.7594362  - 1.9911505  - 2.2178879  - 2.4390818  
+ 
+         column  97 to 102
+ 
+  - 2.6541792  - 2.8626426  - 3.0639508  - 3.2576008  - 3.4431084  - 3.6200101  
+ 
+         column 103 to 108
+ 
+  - 3.7878637  - 3.9462495  - 4.0947718  - 4.2330593  - 4.3607664  - 4.4775738  
+ 
+         column 109 to 114
+ 
+  - 4.5831896  - 4.6773498  - 4.7598191  - 4.8303913  - 4.88889  - 4.9351691  
+ 
+         column 115 to 120
+ 
+  - 4.9691128  - 4.9906363  - 4.9996859  - 4.9962388  - 4.9803037  - 4.9519205  
+ 
+         column 121 to 126
+ 
+  - 4.91116  - 4.8581242  - 4.7929456  - 4.7157871  - 4.6268417  - 4.5263315  
+ 
+         column 127 to 132
+ 
+  - 4.4145079  - 4.2916503  - 4.1580658  - 4.0140883  - 3.8600777  - 3.6964188  
+ 
+         column 133 to 138
+ 
+  - 3.5235209  - 3.341816  - 3.1517583  - 2.9538229  - 2.7485044  - 2.5363161  
+ 
+         column 139 to 144
+ 
+  - 2.3177883  - 2.0934673  - 1.8639137  - 1.6297013  - 1.3914154  - 1.1496518  
+ 
+         column 145 to 150
+ 
+  - 0.9050146  - 0.6581154  - 0.4095712  - 0.1600033    0.0899645    0.3397075  
+ 
+         column 151 to 156
+ 
+    0.5886014    0.8360240    1.0813571    1.3239873    1.5633082    1.7987217  
+ 
+         column 157 to 162
+ 
+    2.0296393    2.2554839    2.4756909    2.68971    2.8970063    3.0970615  
+ 
+         column 163 to 168
+ 
+    3.2893757    3.4734681    3.6488787    3.815169    3.9719234    4.11875  
+ 
+         column 169 to 174
+ 
+    4.2552819    4.3811778    4.496123    4.5998303    4.6920404    4.7725228  
+ 
+         column 175 to 180
+ 
+    4.8410764    4.8975298    4.941742    4.9736024    4.9930314    4.9999804  
+ 
+         column 181 to 186
+ 
+    4.994432    4.9764002    4.9459299    4.9030974    4.8480098    4.7808046  
+ 
+         column 187 to 192
+ 
+    4.7016499    4.6107435    4.5083127    4.3946134    4.2699299    4.1345738  
+ 
+         column 193 to 198
+ 
+    3.9888834    3.8332228    3.6679813    3.4935716    3.3104299    3.1190138  
+ 
+         column 199 to 204
+ 
+    2.9198018    2.7132918    2.5    2.2804595    2.055219    1.8248416  
+ 
+         column 205 to 210
+ 
+    1.589903    1.3509905    1.1087012    0.8636407    0.6164216    0.3676617  
+ 
+         column 211 to 216
+ 
+    0.1179829  - 0.1319908  - 0.3816346  - 0.6303245  - 0.8774389  - 1.1223602  
+ 
+         column 217 to 222
+ 
+  - 1.3644762  - 1.6031817  - 1.8378801  - 2.0679847  - 2.2929205  - 2.5121251  
+ 
+         column 223 to 228
+ 
+  - 2.7250508  - 2.9311652  - 3.1299532  - 3.320918  - 3.5035823  - 3.6774894  
+ 
+         column 229 to 234
+ 
+  - 3.8422046  - 3.9973164  - 4.142437  - 4.2772036  - 4.4012795  - 4.5143544  
+ 
+         column 235 to 240
+ 
+  - 4.6161458  - 4.7063993  - 4.7848892  - 4.8514193  - 4.9058235  - 4.9479656  
+ 
+         column 241 to 246
+ 
+  - 4.9777404  - 4.9950735  - 4.9999215  - 4.9922722  - 4.9721449  - 4.9395898  
+ 
+         column 247 to 252
+ 
+  - 4.8946883  - 4.8375527  - 4.7683257  - 4.6871803  - 4.5943194  - 4.4899752  
+ 
+         column 253 to 258
+ 
+  - 4.3744083  - 4.2479077  - 4.1107895  - 3.9633965  - 3.8060971  - 3.6392844  
+ 
+         column 259 to 264
+ 
+  - 3.4633754  - 3.2788098  - 3.0860488  - 2.8855743  - 2.6778874  - 2.4635072  
+ 
+         column 265 to 270
+ 
+  - 2.2429695  - 2.0168255  - 1.7856405  - 1.5499924  - 1.3104701  - 1.0676722  
+ 
+         column 271 to 276
+ 
+  - 0.8222058  - 0.5746843  - 0.3257263  - 0.0759542    0.1740077    0.4235347  
+ 
+         column 277 to 282
+ 
+    0.6720031    0.9187918    1.1632841    1.4048687    1.6429419    1.8769086  
+ 
+         column 283 to 288
+ 
+    2.106184    2.330195    2.5483817    2.7601989    2.9651169    3.1626238  
+ 
+         column 289 to 294
+ 
+    3.3522257    3.5334488    3.7058401    3.8689687    4.0224269    4.1658312  
+ 
+         column 295 to 300
+ 
+    4.2988231    4.4210701    4.5322667    4.6321351    4.7204255    4.7969173  
+ 
+         column 301 to 306
+ 
+    4.8614194    4.9137704    4.9538395    4.9815267    4.9967626    4.9995092  
+ 
+         column 307 to 312
+ 
+    4.9897596    4.9675382    4.9329006    4.8859333    4.8267537    4.7555097  
+ 
+         column 313 to 318
+ 
+    4.6723794    4.5775706    4.4713203    4.353894    4.2255852    4.0867147  
+ 
+         column 319 to 324
+ 
+    3.9376295    3.7787023    3.6103303    3.4329344    3.2469579    3.0528657  
+ 
+         column 325 to 330
+ 
+    2.8511429    2.6422938    2.4268403    2.2053209    1.9782894    1.7463133  
+ 
+         column 331 to 336
+ 
+    1.5099722    1.269857    1.0265678    0.7807127    0.5329063    0.2837679  
+ 
+         column 337 to 342
+ 
+    0.0339202  - 0.2160123  - 0.4654049  - 0.7136342  - 0.9600798  - 1.2041257  
+ 
+         column 343 to 348
+ 
+  - 1.4451619  - 1.6825859  - 1.9158044  - 2.1442343  - 2.3673048  - 2.5844582  
+ 
+         column 349 to 354
+ 
+  - 2.7951519  - 2.9988591  - 3.1950707  - 3.3832964  - 3.5630655  - 3.7339289  
+ 
+         column 355 to 360
+ 
+  - 3.8954593  - 4.0472532  - 4.188931  - 4.3201386  - 4.4405482  - 4.5498587  
+ 
+         column 361 to 366
+ 
+  - 4.647797  - 4.7341181  - 4.8086065  - 4.8710758  - 4.92137  - 4.9593633  
+ 
+         column 367 to 372
+ 
+  - 4.9849607  - 4.9980984  - 4.9987435  - 4.9868942  - 4.9625804  - 4.9258627  
+ 
+         column 373 to 378
+ 
+  - 4.8768328  - 4.8156135  - 4.7423576  - 4.6572483  - 4.5604983  - 4.4523494  
+ 
+         column 379 to 384
+ 
+  - 4.333072  - 4.2029641  - 4.062351  - 3.9115842  - 3.7510404  - 3.581121  
+ 
+         column 385 to 390
+ 
+  - 3.4022507  - 3.2148765  - 3.0194668  - 2.81651  - 2.6065133  - 2.3900018  
+ 
+         column 391 to 396
+ 
+  - 2.1675165  - 1.9396135  - 1.7068625  - 1.4698453  - 1.2291542  - 0.9853908  
+ 
+         column 397 to 401
+ 
+  - 0.7391645  - 0.4910907  - 0.2417893    0.0081163    0.2580017  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 4
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+Time period 5= 0.628s
+ Frequency 5=1.59Hz
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH7/EX7.2/ch7_2.sce #
+[2J[0;0H 
+ 
+ Example 7.2   
+ 
+
+ 
+ 
+ 
+ q  =
+ 
+ 
+         column  1 to 12
+ 
+  - 8.  - 7.5  - 7.  - 6.5  - 6.  - 5.5  - 5.  - 4.5  - 4.  - 3.5  - 3.  - 2.5  
+ 
+         column 13 to 24
+ 
+  - 2.  - 1.5  - 1.  - 0.5    0.    0.5    1.    1.5    2.    2.5    3.    3.5  
+ 
+         column 25 to 33
+ 
+    4.    4.5    5.    5.5    6.    6.5    7.    7.5    8.  
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+  - 0.7275002    1.7331766    3.7695113    4.8829381    4.8008514    3.5433489  
+ 
+         column  7 to 12
+ 
+    1.4183109  - 1.053979  - 3.2682181  - 4.6822834  - 4.9499625  - 4.0057181  
+ 
+         column 13 to 18
+ 
+  - 2.0807342    0.3536860    2.7015115    4.3879128    5.    4.3879128  
+ 
+         column 19 to 24
+ 
+    2.7015115    0.3536860  - 2.0807342  - 4.0057181  - 4.9499625  - 4.6822834  
+ 
+         column 25 to 30
+ 
+  - 3.2682181  - 1.053979    1.4183109    3.5433489    4.8008514    4.8829381  
+ 
+         column 31 to 33
+ 
+    3.7695113    1.7331766  - 0.7275002  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch7_2.sce #
+[2J[0;0H 
+ 
+ Example 7.2   
+ 
+
+ 
+ 
+ 
+ q  =
+ 
+ 
+         column  1 to 12
+ 
+  - 8.  - 7.5  - 7.  - 6.5  - 6.  - 5.5  - 5.  - 4.5  - 4.  - 3.5  - 3.  - 2.5  
+ 
+         column 13 to 24
+ 
+  - 2.  - 1.5  - 1.  - 0.5    0.    0.5    1.    1.5    2.    2.5    3.    3.5  
+ 
+         column 25 to 33
+ 
+    4.    4.5    5.    5.5    6.    6.5    7.    7.5    8.  
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+  - 0.7275002    1.7331766    3.7695113    4.8829381    4.8008514    3.5433489  
+ 
+         column  7 to 12
+ 
+    1.4183109  - 1.053979  - 3.2682181  - 4.6822834  - 4.9499625  - 4.0057181  
+ 
+         column 13 to 18
+ 
+  - 2.0807342    0.3536860    2.7015115    4.3879128    5.    4.3879128  
+ 
+         column 19 to 24
+ 
+    2.7015115    0.3536860  - 2.0807342  - 4.0057181  - 4.9499625  - 4.6822834  
+ 
+         column 25 to 30
+ 
+  - 3.2682181  - 1.053979    1.4183109    3.5433489    4.8008514    4.8829381  
+ 
+         column 31 to 33
+ 
+    3.7695113    1.7331766  - 0.7275002  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH7/EX7.3/ch7_3.sce #
+[2J[0;0H 
+ 
+ Example 7.3   
+ 
+
+ 
+ 
+ t1  =
+ 
+ 
+         column  1 to 10
+ 
+  - 10.  - 9.95  - 9.9  - 9.85  - 9.8  - 9.75  - 9.7  - 9.65  - 9.6  - 9.55  
+ 
+         column 11 to 20
+ 
+  - 9.5  - 9.45  - 9.4  - 9.35  - 9.3  - 9.25  - 9.2  - 9.15  - 9.1  - 9.05  
+ 
+         column 21 to 30
+ 
+  - 9.  - 8.95  - 8.9  - 8.85  - 8.8  - 8.75  - 8.7  - 8.65  - 8.6  - 8.55  
+ 
+         column 31 to 40
+ 
+  - 8.5  - 8.45  - 8.4  - 8.35  - 8.3  - 8.25  - 8.2  - 8.15  - 8.1  - 8.05  
+ 
+         column 41 to 50
+ 
+  - 8.  - 7.95  - 7.9  - 7.85  - 7.8  - 7.75  - 7.7  - 7.65  - 7.6  - 7.55  
+ 
+         column 51 to 60
+ 
+  - 7.5  - 7.45  - 7.4  - 7.35  - 7.3  - 7.25  - 7.2  - 7.15  - 7.1  - 7.05  
+ 
+         column 61 to 70
+ 
+  - 7.  - 6.95  - 6.9  - 6.85  - 6.8  - 6.75  - 6.7  - 6.65  - 6.6  - 6.55  
+ 
+         column 71 to 80
+ 
+  - 6.5  - 6.45  - 6.4  - 6.35  - 6.3  - 6.25  - 6.2  - 6.15  - 6.1  - 6.05  
+ 
+         column 81 to 90
+ 
+  - 6.  - 5.95  - 5.9  - 5.85  - 5.8  - 5.75  - 5.7  - 5.65  - 5.6  - 5.55  
+ 
+         column  91 to 100
+ 
+  - 5.5  - 5.45  - 5.4  - 5.35  - 5.3  - 5.25  - 5.2  - 5.15  - 5.1  - 5.05  
+ 
+         column 101 to 110
+ 
+  - 5.  - 4.95  - 4.9  - 4.85  - 4.8  - 4.75  - 4.7  - 4.65  - 4.6  - 4.55  
+ 
+         column 111 to 120
+ 
+  - 4.5  - 4.45  - 4.4  - 4.35  - 4.3  - 4.25  - 4.2  - 4.15  - 4.1  - 4.05  
+ 
+         column 121 to 130
+ 
+  - 4.  - 3.95  - 3.9  - 3.85  - 3.8  - 3.75  - 3.7  - 3.65  - 3.6  - 3.55  
+ 
+         column 131 to 140
+ 
+  - 3.5  - 3.45  - 3.4  - 3.35  - 3.3  - 3.25  - 3.2  - 3.15  - 3.1  - 3.05  
+ 
+         column 141 to 150
+ 
+  - 3.  - 2.95  - 2.9  - 2.85  - 2.8  - 2.75  - 2.7  - 2.65  - 2.6  - 2.55  
+ 
+         column 151 to 160
+ 
+  - 2.5  - 2.45  - 2.4  - 2.35  - 2.3  - 2.25  - 2.2  - 2.15  - 2.1  - 2.05  
+ 
+         column 161 to 170
+ 
+  - 2.  - 1.95  - 1.9  - 1.85  - 1.8  - 1.75  - 1.7  - 1.65  - 1.6  - 1.55  
+ 
+         column 171 to 180
+ 
+  - 1.5  - 1.45  - 1.4  - 1.35  - 1.3  - 1.25  - 1.2  - 1.15  - 1.1  - 1.05  
+ 
+         column 181 to 190
+ 
+  - 1.  - 0.95  - 0.9  - 0.85  - 0.8  - 0.75  - 0.7  - 0.65  - 0.6  - 0.55  
+ 
+         column 191 to 200
+ 
+  - 0.5  - 0.45  - 0.4  - 0.35  - 0.3  - 0.25  - 0.2  - 0.15  - 0.1  - 0.05  
+ 
+         column 201 to 210
+ 
+    0.    0.05    0.1    0.15    0.2    0.25    0.3    0.35    0.4    0.45  
+ 
+         column 211 to 220
+ 
+    0.5    0.55    0.6    0.65    0.7    0.75    0.8    0.85    0.9    0.95  
+ 
+         column 221 to 230
+ 
+    1.    1.05    1.1    1.15    1.2    1.25    1.3    1.35    1.4    1.45  
+ 
+         column 231 to 240
+ 
+    1.5    1.55    1.6    1.65    1.7    1.75    1.8    1.85    1.9    1.95  
+ 
+         column 241 to 250
+ 
+    2.    2.05    2.1    2.15    2.2    2.25    2.3    2.35    2.4    2.45  
+ 
+         column 251 to 260
+ 
+    2.5    2.55    2.6    2.65    2.7    2.75    2.8    2.85    2.9    2.95  
+ 
+         column 261 to 270
+ 
+    3.    3.05    3.1    3.15    3.2    3.25    3.3    3.35    3.4    3.45  
+ 
+         column 271 to 280
+ 
+    3.5    3.55    3.6    3.65    3.7    3.75    3.8    3.85    3.9    3.95  
+ 
+         column 281 to 290
+ 
+    4.    4.05    4.1    4.15    4.2    4.25    4.3    4.35    4.4    4.45  
+ 
+         column 291 to 300
+ 
+    4.5    4.55    4.6    4.65    4.7    4.75    4.8    4.85    4.9    4.95  
+ 
+         column 301 to 310
+ 
+    5.    5.05    5.1    5.15    5.2    5.25    5.3    5.35    5.4    5.45  
+ 
+         column 311 to 320
+ 
+    5.5    5.55    5.6    5.65    5.7    5.75    5.8    5.85    5.9    5.95  
+ 
+         column 321 to 330
+ 
+    6.    6.05    6.1    6.15    6.2    6.25    6.3    6.35    6.4    6.45  
+ 
+         column 331 to 340
+ 
+    6.5    6.55    6.6    6.65    6.7    6.75    6.8    6.85    6.9    6.95  
+ 
+         column 341 to 350
+ 
+    7.    7.05    7.1    7.15    7.2    7.25    7.3    7.35    7.4    7.45  
+ 
+         column 351 to 360
+ 
+    7.5    7.55    7.6    7.65    7.7    7.75    7.8    7.85    7.9    7.95  
+ 
+         column 361 to 370
+ 
+    8.    8.05    8.1    8.15    8.2    8.25    8.3    8.35    8.4    8.45  
+ 
+         column 371 to 380
+ 
+    8.5    8.55    8.6    8.65    8.7    8.75    8.8    8.85    8.9    8.95  
+ 
+         column 381 to 390
+ 
+    9.    9.05    9.1    9.15    9.2    9.25    9.3    9.35    9.4    9.45  
+ 
+         column 391 to 400
+ 
+    9.5    9.55    9.6    9.65    9.7    9.75    9.8    9.85    9.9    9.95  
+ 
+         column 401
+ 
+    10.  
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+  - 9.185D-16  - 0.1308847  - 0.2616798  - 0.3922955  - 0.5226423  - 0.6526310  
+ 
+         column  7 to 12
+ 
+  - 0.7821723  - 0.9111776  - 1.0395585  - 1.1672268  - 1.2940952  - 1.4200767  
+ 
+         column 13 to 18
+ 
+  - 1.545085  - 1.6690343  - 1.7918397  - 1.9134172  - 2.0336832  - 2.1525555  
+ 
+         column 19 to 24
+ 
+  - 2.2699525  - 2.3857938  - 2.5  - 2.6124928  - 2.7231952  - 2.8320312  
+ 
+         column 25 to 30
+ 
+  - 2.9389263  - 3.0438071  - 3.146602  - 3.2472402  - 3.345653  - 3.4417729  
+ 
+         column 31 to 36
+ 
+  - 3.5355339  - 3.6268719  - 3.7157241  - 3.8020298  - 3.8857298  - 3.9667667  
+ 
+         column 37 to 42
+ 
+  - 4.045085  - 4.1206309  - 4.1933528  - 4.2632008  - 4.330127  - 4.3940856  
+ 
+         column 43 to 48
+ 
+  - 4.4550326  - 4.5129264  - 4.5677273  - 4.6193977  - 4.6679021  - 4.7132075  
+ 
+         column 49 to 54
+ 
+  - 4.7552826  - 4.7940987  - 4.8296291  - 4.8618496  - 4.890738  - 4.9162745  
+ 
+         column 55 to 60
+ 
+  - 4.9384417  - 4.9572243  - 4.9726095  - 4.9845867  - 4.9931477  - 4.9982866  
+ 
+         column 61 to 66
+ 
+  - 5.  - 4.9982866  - 4.9931477  - 4.9845867  - 4.9726095  - 4.9572243  
+ 
+         column 67 to 72
+ 
+  - 4.9384417  - 4.9162745  - 4.890738  - 4.8618496  - 4.8296291  - 4.7940987  
+ 
+         column 73 to 78
+ 
+  - 4.7552826  - 4.7132075  - 4.6679021  - 4.6193977  - 4.5677273  - 4.5129264  
+ 
+         column 79 to 84
+ 
+  - 4.4550326  - 4.3940856  - 4.330127  - 4.2632008  - 4.1933528  - 4.1206309  
+ 
+         column 85 to 90
+ 
+  - 4.045085  - 3.9667667  - 3.8857298  - 3.8020298  - 3.7157241  - 3.6268719  
+ 
+         column 91 to 96
+ 
+  - 3.5355339  - 3.4417729  - 3.345653  - 3.2472402  - 3.146602  - 3.0438071  
+ 
+         column  97 to 102
+ 
+  - 2.9389263  - 2.8320312  - 2.7231952  - 2.6124928  - 2.5  - 2.3857938  
+ 
+         column 103 to 108
+ 
+  - 2.2699525  - 2.1525555  - 2.0336832  - 1.9134172  - 1.7918397  - 1.6690343  
+ 
+         column 109 to 114
+ 
+  - 1.545085  - 1.4200767  - 1.2940952  - 1.1672268  - 1.0395585  - 0.9111776  
+ 
+         column 115 to 120
+ 
+  - 0.7821723  - 0.6526310  - 0.5226423  - 0.3922955  - 0.2616798  - 0.1308847  
+ 
+         column 121 to 126
+ 
+    3.062D-16    0.1308847    0.2616798    0.3922955    0.5226423    0.6526310  
+ 
+         column 127 to 132
+ 
+    0.7821723    0.9111776    1.0395585    1.1672268    1.2940952    1.4200767  
+ 
+         column 133 to 138
+ 
+    1.545085    1.6690343    1.7918397    1.9134172    2.0336832    2.1525555  
+ 
+         column 139 to 144
+ 
+    2.2699525    2.3857938    2.5    2.6124928    2.7231952    2.8320312  
+ 
+         column 145 to 150
+ 
+    2.9389263    3.0438071    3.146602    3.2472402    3.345653    3.4417729  
+ 
+         column 151 to 156
+ 
+    3.5355339    3.6268719    3.7157241    3.8020298    3.8857298    3.9667667  
+ 
+         column 157 to 162
+ 
+    4.045085    4.1206309    4.1933528    4.2632008    4.330127    4.3940856  
+ 
+         column 163 to 168
+ 
+    4.4550326    4.5129264    4.5677273    4.6193977    4.6679021    4.7132075  
+ 
+         column 169 to 174
+ 
+    4.7552826    4.7940987    4.8296291    4.8618496    4.890738    4.9162745  
+ 
+         column 175 to 180
+ 
+    4.9384417    4.9572243    4.9726095    4.9845867    4.9931477    4.9982866  
+ 
+         column 181 to 186
+ 
+    5.    4.9982866    4.9931477    4.9845867    4.9726095    4.9572243  
+ 
+         column 187 to 192
+ 
+    4.9384417    4.9162745    4.890738    4.8618496    4.8296291    4.7940987  
+ 
+         column 193 to 198
+ 
+    4.7552826    4.7132075    4.6679021    4.6193977    4.5677273    4.5129264  
+ 
+         column 199 to 204
+ 
+    4.4550326    4.3940856    4.330127    4.2632008    4.1933528    4.1206309  
+ 
+         column 205 to 210
+ 
+    4.045085    3.9667667    3.8857298    3.8020298    3.7157241    3.6268719  
+ 
+         column 211 to 216
+ 
+    3.5355339    3.4417729    3.345653    3.2472402    3.146602    3.0438071  
+ 
+         column 217 to 222
+ 
+    2.9389263    2.8320312    2.7231952    2.6124928    2.5    2.3857938  
+ 
+         column 223 to 228
+ 
+    2.2699525    2.1525555    2.0336832    1.9134172    1.7918397    1.6690343  
+ 
+         column 229 to 234
+ 
+    1.545085    1.4200767    1.2940952    1.1672268    1.0395585    0.9111776  
+ 
+         column 235 to 240
+ 
+    0.7821723    0.6526310    0.5226423    0.3922955    0.2616798    0.1308847  
+ 
+         column 241 to 246
+ 
+    3.062D-16  - 0.1308847  - 0.2616798  - 0.3922955  - 0.5226423  - 0.6526310  
+ 
+         column 247 to 252
+ 
+  - 0.7821723  - 0.9111776  - 1.0395585  - 1.1672268  - 1.2940952  - 1.4200767  
+ 
+         column 253 to 258
+ 
+  - 1.545085  - 1.6690343  - 1.7918397  - 1.9134172  - 2.0336832  - 2.1525555  
+ 
+         column 259 to 264
+ 
+  - 2.2699525  - 2.3857938  - 2.5  - 2.6124928  - 2.7231952  - 2.8320312  
+ 
+         column 265 to 270
+ 
+  - 2.9389263  - 3.0438071  - 3.146602  - 3.2472402  - 3.345653  - 3.4417729  
+ 
+         column 271 to 276
+ 
+  - 3.5355339  - 3.6268719  - 3.7157241  - 3.8020298  - 3.8857298  - 3.9667667  
+ 
+         column 277 to 282
+ 
+  - 4.045085  - 4.1206309  - 4.1933528  - 4.2632008  - 4.330127  - 4.3940856  
+ 
+         column 283 to 288
+ 
+  - 4.4550326  - 4.5129264  - 4.5677273  - 4.6193977  - 4.6679021  - 4.7132075  
+ 
+         column 289 to 294
+ 
+  - 4.7552826  - 4.7940987  - 4.8296291  - 4.8618496  - 4.890738  - 4.9162745  
+ 
+         column 295 to 300
+ 
+  - 4.9384417  - 4.9572243  - 4.9726095  - 4.9845867  - 4.9931477  - 4.9982866  
+ 
+         column 301 to 306
+ 
+  - 5.  - 4.9982866  - 4.9931477  - 4.9845867  - 4.9726095  - 4.9572243  
+ 
+         column 307 to 312
+ 
+  - 4.9384417  - 4.9162745  - 4.890738  - 4.8618496  - 4.8296291  - 4.7940987  
+ 
+         column 313 to 318
+ 
+  - 4.7552826  - 4.7132075  - 4.6679021  - 4.6193977  - 4.5677273  - 4.5129264  
+ 
+         column 319 to 324
+ 
+  - 4.4550326  - 4.3940856  - 4.330127  - 4.2632008  - 4.1933528  - 4.1206309  
+ 
+         column 325 to 330
+ 
+  - 4.045085  - 3.9667667  - 3.8857298  - 3.8020298  - 3.7157241  - 3.6268719  
+ 
+         column 331 to 336
+ 
+  - 3.5355339  - 3.4417729  - 3.345653  - 3.2472402  - 3.146602  - 3.0438071  
+ 
+         column 337 to 342
+ 
+  - 2.9389263  - 2.8320312  - 2.7231952  - 2.6124928  - 2.5  - 2.3857938  
+ 
+         column 343 to 348
+ 
+  - 2.2699525  - 2.1525555  - 2.0336832  - 1.9134172  - 1.7918397  - 1.6690343  
+ 
+         column 349 to 354
+ 
+  - 1.545085  - 1.4200767  - 1.2940952  - 1.1672268  - 1.0395585  - 0.9111776  
+ 
+         column 355 to 360
+ 
+  - 0.7821723  - 0.6526310  - 0.5226423  - 0.3922955  - 0.2616798  - 0.1308847  
+ 
+         column 361 to 366
+ 
+  - 9.185D-16    0.1308847    0.2616798    0.3922955    0.5226423    0.6526310  
+ 
+         column 367 to 372
+ 
+    0.7821723    0.9111776    1.0395585    1.1672268    1.2940952    1.4200767  
+ 
+         column 373 to 378
+ 
+    1.545085    1.6690343    1.7918397    1.9134172    2.0336832    2.1525555  
+ 
+         column 379 to 384
+ 
+    2.2699525    2.3857938    2.5    2.6124928    2.7231952    2.8320312  
+ 
+         column 385 to 390
+ 
+    2.9389263    3.0438071    3.146602    3.2472402    3.345653    3.4417729  
+ 
+         column 391 to 396
+ 
+    3.5355339    3.6268719    3.7157241    3.8020298    3.8857298    3.9667667  
+ 
+         column 397 to 401
+ 
+    4.045085    4.1206309    4.1933528    4.2632008    4.330127  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch7_3.sce #
+[2J[0;0H 
+ 
+ Example 7.3   
+ 
+
+ 
+ 
+ t1  =
+ 
+ 
+         column  1 to 10
+ 
+  - 10.  - 9.95  - 9.9  - 9.85  - 9.8  - 9.75  - 9.7  - 9.65  - 9.6  - 9.55  
+ 
+         column 11 to 20
+ 
+  - 9.5  - 9.45  - 9.4  - 9.35  - 9.3  - 9.25  - 9.2  - 9.15  - 9.1  - 9.05  
+ 
+         column 21 to 30
+ 
+  - 9.  - 8.95  - 8.9  - 8.85  - 8.8  - 8.75  - 8.7  - 8.65  - 8.6  - 8.55  
+ 
+         column 31 to 40
+ 
+  - 8.5  - 8.45  - 8.4  - 8.35  - 8.3  - 8.25  - 8.2  - 8.15  - 8.1  - 8.05  
+ 
+         column 41 to 50
+ 
+  - 8.  - 7.95  - 7.9  - 7.85  - 7.8  - 7.75  - 7.7  - 7.65  - 7.6  - 7.55  
+ 
+         column 51 to 60
+ 
+  - 7.5  - 7.45  - 7.4  - 7.35  - 7.3  - 7.25  - 7.2  - 7.15  - 7.1  - 7.05  
+ 
+         column 61 to 70
+ 
+  - 7.  - 6.95  - 6.9  - 6.85  - 6.8  - 6.75  - 6.7  - 6.65  - 6.6  - 6.55  
+ 
+         column 71 to 80
+ 
+  - 6.5  - 6.45  - 6.4  - 6.35  - 6.3  - 6.25  - 6.2  - 6.15  - 6.1  - 6.05  
+ 
+         column 81 to 90
+ 
+  - 6.  - 5.95  - 5.9  - 5.85  - 5.8  - 5.75  - 5.7  - 5.65  - 5.6  - 5.55  
+ 
+         column  91 to 100
+ 
+  - 5.5  - 5.45  - 5.4  - 5.35  - 5.3  - 5.25  - 5.2  - 5.15  - 5.1  - 5.05  
+ 
+         column 101 to 110
+ 
+  - 5.  - 4.95  - 4.9  - 4.85  - 4.8  - 4.75  - 4.7  - 4.65  - 4.6  - 4.55  
+ 
+         column 111 to 120
+ 
+  - 4.5  - 4.45  - 4.4  - 4.35  - 4.3  - 4.25  - 4.2  - 4.15  - 4.1  - 4.05  
+ 
+         column 121 to 130
+ 
+  - 4.  - 3.95  - 3.9  - 3.85  - 3.8  - 3.75  - 3.7  - 3.65  - 3.6  - 3.55  
+ 
+         column 131 to 140
+ 
+  - 3.5  - 3.45  - 3.4  - 3.35  - 3.3  - 3.25  - 3.2  - 3.15  - 3.1  - 3.05  
+ 
+         column 141 to 150
+ 
+  - 3.  - 2.95  - 2.9  - 2.85  - 2.8  - 2.75  - 2.7  - 2.65  - 2.6  - 2.55  
+ 
+         column 151 to 160
+ 
+  - 2.5  - 2.45  - 2.4  - 2.35  - 2.3  - 2.25  - 2.2  - 2.15  - 2.1  - 2.05  
+ 
+         column 161 to 170
+ 
+  - 2.  - 1.95  - 1.9  - 1.85  - 1.8  - 1.75  - 1.7  - 1.65  - 1.6  - 1.55  
+ 
+         column 171 to 180
+ 
+  - 1.5  - 1.45  - 1.4  - 1.35  - 1.3  - 1.25  - 1.2  - 1.15  - 1.1  - 1.05  
+ 
+         column 181 to 190
+ 
+  - 1.  - 0.95  - 0.9  - 0.85  - 0.8  - 0.75  - 0.7  - 0.65  - 0.6  - 0.55  
+ 
+         column 191 to 200
+ 
+  - 0.5  - 0.45  - 0.4  - 0.35  - 0.3  - 0.25  - 0.2  - 0.15  - 0.1  - 0.05  
+ 
+         column 201 to 210
+ 
+    0.    0.05    0.1    0.15    0.2    0.25    0.3    0.35    0.4    0.45  
+ 
+         column 211 to 220
+ 
+    0.5    0.55    0.6    0.65    0.7    0.75    0.8    0.85    0.9    0.95  
+ 
+         column 221 to 230
+ 
+    1.    1.05    1.1    1.15    1.2    1.25    1.3    1.35    1.4    1.45  
+ 
+         column 231 to 240
+ 
+    1.5    1.55    1.6    1.65    1.7    1.75    1.8    1.85    1.9    1.95  
+ 
+         column 241 to 250
+ 
+    2.    2.05    2.1    2.15    2.2    2.25    2.3    2.35    2.4    2.45  
+ 
+         column 251 to 260
+ 
+    2.5    2.55    2.6    2.65    2.7    2.75    2.8    2.85    2.9    2.95  
+ 
+         column 261 to 270
+ 
+    3.    3.05    3.1    3.15    3.2    3.25    3.3    3.35    3.4    3.45  
+ 
+         column 271 to 280
+ 
+    3.5    3.55    3.6    3.65    3.7    3.75    3.8    3.85    3.9    3.95  
+ 
+         column 281 to 290
+ 
+    4.    4.05    4.1    4.15    4.2    4.25    4.3    4.35    4.4    4.45  
+ 
+         column 291 to 300
+ 
+    4.5    4.55    4.6    4.65    4.7    4.75    4.8    4.85    4.9    4.95  
+ 
+         column 301 to 310
+ 
+    5.    5.05    5.1    5.15    5.2    5.25    5.3    5.35    5.4    5.45  
+ 
+         column 311 to 320
+ 
+    5.5    5.55    5.6    5.65    5.7    5.75    5.8    5.85    5.9    5.95  
+ 
+         column 321 to 330
+ 
+    6.    6.05    6.1    6.15    6.2    6.25    6.3    6.35    6.4    6.45  
+ 
+         column 331 to 340
+ 
+    6.5    6.55    6.6    6.65    6.7    6.75    6.8    6.85    6.9    6.95  
+ 
+         column 341 to 350
+ 
+    7.    7.05    7.1    7.15    7.2    7.25    7.3    7.35    7.4    7.45  
+ 
+         column 351 to 360
+ 
+    7.5    7.55    7.6    7.65    7.7    7.75    7.8    7.85    7.9    7.95  
+ 
+         column 361 to 370
+ 
+    8.    8.05    8.1    8.15    8.2    8.25    8.3    8.35    8.4    8.45  
+ 
+         column 371 to 380
+ 
+    8.5    8.55    8.6    8.65    8.7    8.75    8.8    8.85    8.9    8.95  
+ 
+         column 381 to 390
+ 
+    9.    9.05    9.1    9.15    9.2    9.25    9.3    9.35    9.4    9.45  
+ 
+         column 391 to 400
+ 
+    9.5    9.55    9.6    9.65    9.7    9.75    9.8    9.85    9.9    9.95  
+ 
+         column 401
+ 
+    10.  
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+  - 9.185D-16  - 0.1308847  - 0.2616798  - 0.3922955  - 0.5226423  - 0.6526310  
+ 
+         column  7 to 12
+ 
+  - 0.7821723  - 0.9111776  - 1.0395585  - 1.1672268  - 1.2940952  - 1.4200767  
+ 
+         column 13 to 18
+ 
+  - 1.545085  - 1.6690343  - 1.7918397  - 1.9134172  - 2.0336832  - 2.1525555  
+ 
+         column 19 to 24
+ 
+  - 2.2699525  - 2.3857938  - 2.5  - 2.6124928  - 2.7231952  - 2.8320312  
+ 
+         column 25 to 30
+ 
+  - 2.9389263  - 3.0438071  - 3.146602  - 3.2472402  - 3.345653  - 3.4417729  
+ 
+         column 31 to 36
+ 
+  - 3.5355339  - 3.6268719  - 3.7157241  - 3.8020298  - 3.8857298  - 3.9667667  
+ 
+         column 37 to 42
+ 
+  - 4.045085  - 4.1206309  - 4.1933528  - 4.2632008  - 4.330127  - 4.3940856  
+ 
+         column 43 to 48
+ 
+  - 4.4550326  - 4.5129264  - 4.5677273  - 4.6193977  - 4.6679021  - 4.7132075  
+ 
+         column 49 to 54
+ 
+  - 4.7552826  - 4.7940987  - 4.8296291  - 4.8618496  - 4.890738  - 4.9162745  
+ 
+         column 55 to 60
+ 
+  - 4.9384417  - 4.9572243  - 4.9726095  - 4.9845867  - 4.9931477  - 4.9982866  
+ 
+         column 61 to 66
+ 
+  - 5.  - 4.9982866  - 4.9931477  - 4.9845867  - 4.9726095  - 4.9572243  
+ 
+         column 67 to 72
+ 
+  - 4.9384417  - 4.9162745  - 4.890738  - 4.8618496  - 4.8296291  - 4.7940987  
+ 
+         column 73 to 78
+ 
+  - 4.7552826  - 4.7132075  - 4.6679021  - 4.6193977  - 4.5677273  - 4.5129264  
+ 
+         column 79 to 84
+ 
+  - 4.4550326  - 4.3940856  - 4.330127  - 4.2632008  - 4.1933528  - 4.1206309  
+ 
+         column 85 to 90
+ 
+  - 4.045085  - 3.9667667  - 3.8857298  - 3.8020298  - 3.7157241  - 3.6268719  
+ 
+         column 91 to 96
+ 
+  - 3.5355339  - 3.4417729  - 3.345653  - 3.2472402  - 3.146602  - 3.0438071  
+ 
+         column  97 to 102
+ 
+  - 2.9389263  - 2.8320312  - 2.7231952  - 2.6124928  - 2.5  - 2.3857938  
+ 
+         column 103 to 108
+ 
+  - 2.2699525  - 2.1525555  - 2.0336832  - 1.9134172  - 1.7918397  - 1.6690343  
+ 
+         column 109 to 114
+ 
+  - 1.545085  - 1.4200767  - 1.2940952  - 1.1672268  - 1.0395585  - 0.9111776  
+ 
+         column 115 to 120
+ 
+  - 0.7821723  - 0.6526310  - 0.5226423  - 0.3922955  - 0.2616798  - 0.1308847  
+ 
+         column 121 to 126
+ 
+    3.062D-16    0.1308847    0.2616798    0.3922955    0.5226423    0.6526310  
+ 
+         column 127 to 132
+ 
+    0.7821723    0.9111776    1.0395585    1.1672268    1.2940952    1.4200767  
+ 
+         column 133 to 138
+ 
+    1.545085    1.6690343    1.7918397    1.9134172    2.0336832    2.1525555  
+ 
+         column 139 to 144
+ 
+    2.2699525    2.3857938    2.5    2.6124928    2.7231952    2.8320312  
+ 
+         column 145 to 150
+ 
+    2.9389263    3.0438071    3.146602    3.2472402    3.345653    3.4417729  
+ 
+         column 151 to 156
+ 
+    3.5355339    3.6268719    3.7157241    3.8020298    3.8857298    3.9667667  
+ 
+         column 157 to 162
+ 
+    4.045085    4.1206309    4.1933528    4.2632008    4.330127    4.3940856  
+ 
+         column 163 to 168
+ 
+    4.4550326    4.5129264    4.5677273    4.6193977    4.6679021    4.7132075  
+ 
+         column 169 to 174
+ 
+    4.7552826    4.7940987    4.8296291    4.8618496    4.890738    4.9162745  
+ 
+         column 175 to 180
+ 
+    4.9384417    4.9572243    4.9726095    4.9845867    4.9931477    4.9982866  
+ 
+         column 181 to 186
+ 
+    5.    4.9982866    4.9931477    4.9845867    4.9726095    4.9572243  
+ 
+         column 187 to 192
+ 
+    4.9384417    4.9162745    4.890738    4.8618496    4.8296291    4.7940987  
+ 
+         column 193 to 198
+ 
+    4.7552826    4.7132075    4.6679021    4.6193977    4.5677273    4.5129264  
+ 
+         column 199 to 204
+ 
+    4.4550326    4.3940856    4.330127    4.2632008    4.1933528    4.1206309  
+ 
+         column 205 to 210
+ 
+    4.045085    3.9667667    3.8857298    3.8020298    3.7157241    3.6268719  
+ 
+         column 211 to 216
+ 
+    3.5355339    3.4417729    3.345653    3.2472402    3.146602    3.0438071  
+ 
+         column 217 to 222
+ 
+    2.9389263    2.8320312    2.7231952    2.6124928    2.5    2.3857938  
+ 
+         column 223 to 228
+ 
+    2.2699525    2.1525555    2.0336832    1.9134172    1.7918397    1.6690343  
+ 
+         column 229 to 234
+ 
+    1.545085    1.4200767    1.2940952    1.1672268    1.0395585    0.9111776  
+ 
+         column 235 to 240
+ 
+    0.7821723    0.6526310    0.5226423    0.3922955    0.2616798    0.1308847  
+ 
+         column 241 to 246
+ 
+    3.062D-16  - 0.1308847  - 0.2616798  - 0.3922955  - 0.5226423  - 0.6526310  
+ 
+         column 247 to 252
+ 
+  - 0.7821723  - 0.9111776  - 1.0395585  - 1.1672268  - 1.2940952  - 1.4200767  
+ 
+         column 253 to 258
+ 
+  - 1.545085  - 1.6690343  - 1.7918397  - 1.9134172  - 2.0336832  - 2.1525555  
+ 
+         column 259 to 264
+ 
+  - 2.2699525  - 2.3857938  - 2.5  - 2.6124928  - 2.7231952  - 2.8320312  
+ 
+         column 265 to 270
+ 
+  - 2.9389263  - 3.0438071  - 3.146602  - 3.2472402  - 3.345653  - 3.4417729  
+ 
+         column 271 to 276
+ 
+  - 3.5355339  - 3.6268719  - 3.7157241  - 3.8020298  - 3.8857298  - 3.9667667  
+ 
+         column 277 to 282
+ 
+  - 4.045085  - 4.1206309  - 4.1933528  - 4.2632008  - 4.330127  - 4.3940856  
+ 
+         column 283 to 288
+ 
+  - 4.4550326  - 4.5129264  - 4.5677273  - 4.6193977  - 4.6679021  - 4.7132075  
+ 
+         column 289 to 294
+ 
+  - 4.7552826  - 4.7940987  - 4.8296291  - 4.8618496  - 4.890738  - 4.9162745  
+ 
+         column 295 to 300
+ 
+  - 4.9384417  - 4.9572243  - 4.9726095  - 4.9845867  - 4.9931477  - 4.9982866  
+ 
+         column 301 to 306
+ 
+  - 5.  - 4.9982866  - 4.9931477  - 4.9845867  - 4.9726095  - 4.9572243  
+ 
+         column 307 to 312
+ 
+  - 4.9384417  - 4.9162745  - 4.890738  - 4.8618496  - 4.8296291  - 4.7940987  
+ 
+         column 313 to 318
+ 
+  - 4.7552826  - 4.7132075  - 4.6679021  - 4.6193977  - 4.5677273  - 4.5129264  
+ 
+         column 319 to 324
+ 
+  - 4.4550326  - 4.3940856  - 4.330127  - 4.2632008  - 4.1933528  - 4.1206309  
+ 
+         column 325 to 330
+ 
+  - 4.045085  - 3.9667667  - 3.8857298  - 3.8020298  - 3.7157241  - 3.6268719  
+ 
+         column 331 to 336
+ 
+  - 3.5355339  - 3.4417729  - 3.345653  - 3.2472402  - 3.146602  - 3.0438071  
+ 
+         column 337 to 342
+ 
+  - 2.9389263  - 2.8320312  - 2.7231952  - 2.6124928  - 2.5  - 2.3857938  
+ 
+         column 343 to 348
+ 
+  - 2.2699525  - 2.1525555  - 2.0336832  - 1.9134172  - 1.7918397  - 1.6690343  
+ 
+         column 349 to 354
+ 
+  - 1.545085  - 1.4200767  - 1.2940952  - 1.1672268  - 1.0395585  - 0.9111776  
+ 
+         column 355 to 360
+ 
+  - 0.7821723  - 0.6526310  - 0.5226423  - 0.3922955  - 0.2616798  - 0.1308847  
+ 
+         column 361 to 366
+ 
+  - 9.185D-16    0.1308847    0.2616798    0.3922955    0.5226423    0.6526310  
+ 
+         column 367 to 372
+ 
+    0.7821723    0.9111776    1.0395585    1.1672268    1.2940952    1.4200767  
+ 
+         column 373 to 378
+ 
+    1.545085    1.6690343    1.7918397    1.9134172    2.0336832    2.1525555  
+ 
+         column 379 to 384
+ 
+    2.2699525    2.3857938    2.5    2.6124928    2.7231952    2.8320312  
+ 
+         column 385 to 390
+ 
+    2.9389263    3.0438071    3.146602    3.2472402    3.345653    3.4417729  
+ 
+         column 391 to 396
+ 
+    3.5355339    3.6268719    3.7157241    3.8020298    3.8857298    3.9667667  
+ 
+         column 397 to 401
+ 
+    4.045085    4.1206309    4.1933528    4.2632008    4.330127  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH7/EX7.17/ch7_17.sce #
+[2J[0;0H 
+ 
+ Example 7.17   
+ 
+
+ 
+ 
+Given 
+ 
+ Capacitance is 100nF   
+ 
+ 
+ The voltage across capacitor increases linearly from 0 to 10V   
+ 
+ 
+ 
+ 
+ a)   
+ 
+ 
+ 
+ 
+Charge across capacitor is 0.000001C
+ 
+ 
+ b)   
+ 
+ 
+ 
+ 0                 t<0   
+ 
+ 
+ I0=10^-6/T        0<t<T   
+ 
+ 
+ 0                 t>T   
+ 
+ 
+ 
+ 
+ 
+ 
+I0(1s)=0.000001A
+ 
+ 
+ 
+ 
+ 
+I0(1ms)=0.001A
+ 
+ 
+ 
+ 
+ 
+I0(1us)=1A 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch7_17.sce #
+[2J[0;0H 
+ 
+ Example 7.17   
+ 
+
+ 
+ 
+Given 
+ 
+ Capacitance is 100nF   
+ 
+ 
+ The voltage across capacitor increases linearly from 0 to 10V   
+ 
+ 
+ 
+ 
+ a)   
+ 
+ 
+ 
+ 
+Charge across capacitor is 0.000001C
+ 
+ 
+ b)   
+ 
+ 
+ 
+ 0                 t<0   
+ 
+ 
+ I0=10^-6/T        0<t<T   
+ 
+ 
+ 0                 t>T   
+ 
+ 
+ 
+ 
+ 
+ 
+I0(1s)=0.000001A
+ 
+ 
+ 
+ 
+ 
+I0(1ms)=0.001A
+ 
+ 
+ 
+ 
+ 
+I0(1us)=1A 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH7/EX7.22/ch7_22.sce #
+[2J[0;0H 
+ 
+ Example 7.22   
+ 
+
+ 
+ 
+ 
+ 
+ v(t)=A*e(-t/T)+B   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column  1 to 10
+ 
+    0.    0.05    0.1    0.15    0.2    0.25    0.3    0.35    0.4    0.45  
+ 
+         column 11 to 20
+ 
+    0.5    0.55    0.6    0.65    0.7    0.75    0.8    0.85    0.9    0.95  
+ 
+         column 21 to 30
+ 
+    1.    1.05    1.1    1.15    1.2    1.25    1.3    1.35    1.4    1.45  
+ 
+         column 31 to 40
+ 
+    1.5    1.55    1.6    1.65    1.7    1.75    1.8    1.85    1.9    1.95  
+ 
+         column 41 to 50
+ 
+    2.    2.05    2.1    2.15    2.2    2.25    2.3    2.35    2.4    2.45  
+ 
+         column 51 to 60
+ 
+    2.5    2.55    2.6    2.65    2.7    2.75    2.8    2.85    2.9    2.95  
+ 
+         column 61 to 70
+ 
+    3.    3.05    3.1    3.15    3.2    3.25    3.3    3.35    3.4    3.45  
+ 
+         column 71 to 80
+ 
+    3.5    3.55    3.6    3.65    3.7    3.75    3.8    3.85    3.9    3.95  
+ 
+         column 81 to 90
+ 
+    4.    4.05    4.1    4.15    4.2    4.25    4.3    4.35    4.4    4.45  
+ 
+         column  91 to 100
+ 
+    4.5    4.55    4.6    4.65    4.7    4.75    4.8    4.85    4.9    4.95  
+ 
+         column 101 to 110
+ 
+    5.    5.05    5.1    5.15    5.2    5.25    5.3    5.35    5.4    5.45  
+ 
+         column 111 to 120
+ 
+    5.5    5.55    5.6    5.65    5.7    5.75    5.8    5.85    5.9    5.95  
+ 
+         column 121 to 130
+ 
+    6.    6.05    6.1    6.15    6.2    6.25    6.3    6.35    6.4    6.45  
+ 
+         column 131 to 140
+ 
+    6.5    6.55    6.6    6.65    6.7    6.75    6.8    6.85    6.9    6.95  
+ 
+         column 141 to 150
+ 
+    7.    7.05    7.1    7.15    7.2    7.25    7.3    7.35    7.4    7.45  
+ 
+         column 151 to 160
+ 
+    7.5    7.55    7.6    7.65    7.7    7.75    7.8    7.85    7.9    7.95  
+ 
+         column 161 to 170
+ 
+    8.    8.05    8.1    8.15    8.2    8.25    8.3    8.35    8.4    8.45  
+ 
+         column 171 to 180
+ 
+    8.5    8.55    8.6    8.65    8.7    8.75    8.8    8.85    8.9    8.95  
+ 
+         column 181 to 190
+ 
+    9.    9.05    9.1    9.15    9.2    9.25    9.3    9.35    9.4    9.45  
+ 
+         column 191 to 200
+ 
+    9.5    9.55    9.6    9.65    9.7    9.75    9.8    9.85    9.9    9.95  
+ 
+         column 201
+ 
+    10.  
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch7_22.sce #
+[2J[0;0H 
+ 
+ Example 7.22   
+ 
+
+ 
+ 
+ 
+ 
+ v(t)=A*e(-t/T)+B   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column  1 to 10
+ 
+    0.    0.05    0.1    0.15    0.2    0.25    0.3    0.35    0.4    0.45  
+ 
+         column 11 to 20
+ 
+    0.5    0.55    0.6    0.65    0.7    0.75    0.8    0.85    0.9    0.95  
+ 
+         column 21 to 30
+ 
+    1.    1.05    1.1    1.15    1.2    1.25    1.3    1.35    1.4    1.45  
+ 
+         column 31 to 40
+ 
+    1.5    1.55    1.6    1.65    1.7    1.75    1.8    1.85    1.9    1.95  
+ 
+         column 41 to 50
+ 
+    2.    2.05    2.1    2.15    2.2    2.25    2.3    2.35    2.4    2.45  
+ 
+         column 51 to 60
+ 
+    2.5    2.55    2.6    2.65    2.7    2.75    2.8    2.85    2.9    2.95  
+ 
+         column 61 to 70
+ 
+    3.    3.05    3.1    3.15    3.2    3.25    3.3    3.35    3.4    3.45  
+ 
+         column 71 to 80
+ 
+    3.5    3.55    3.6    3.65    3.7    3.75    3.8    3.85    3.9    3.95  
+ 
+         column 81 to 90
+ 
+    4.    4.05    4.1    4.15    4.2    4.25    4.3    4.35    4.4    4.45  
+ 
+         column  91 to 100
+ 
+    4.5    4.55    4.6    4.65    4.7    4.75    4.8    4.85    4.9    4.95  
+ 
+         column 101 to 110
+ 
+    5.    5.05    5.1    5.15    5.2    5.25    5.3    5.35    5.4    5.45  
+ 
+         column 111 to 120
+ 
+    5.5    5.55    5.6    5.65    5.7    5.75    5.8    5.85    5.9    5.95  
+ 
+         column 121 to 130
+ 
+    6.    6.05    6.1    6.15    6.2    6.25    6.3    6.35    6.4    6.45  
+ 
+         column 131 to 140
+ 
+    6.5    6.55    6.6    6.65    6.7    6.75    6.8    6.85    6.9    6.95  
+ 
+         column 141 to 150
+ 
+    7.    7.05    7.1    7.15    7.2    7.25    7.3    7.35    7.4    7.45  
+ 
+         column 151 to 160
+ 
+    7.5    7.55    7.6    7.65    7.7    7.75    7.8    7.85    7.9    7.95  
+ 
+         column 161 to 170
+ 
+    8.    8.05    8.1    8.15    8.2    8.25    8.3    8.35    8.4    8.45  
+ 
+         column 171 to 180
+ 
+    8.5    8.55    8.6    8.65    8.7    8.75    8.8    8.85    8.9    8.95  
+ 
+         column 181 to 190
+ 
+    9.    9.05    9.1    9.15    9.2    9.25    9.3    9.35    9.4    9.45  
+ 
+         column 191 to 200
+ 
+    9.5    9.55    9.6    9.65    9.7    9.75    9.8    9.85    9.9    9.95  
+ 
+         column 201
+ 
+    10.  
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH7/EX7.23/ch7_23.sce #
+[2J[0;0H 
+ 
+ Example 7.23   
+ 
+
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column 1 to 7
+ 
+  - 0.001  - 0.00095  - 0.0009  - 0.00085  - 0.0008  - 0.00075  - 0.0007  
+ 
+         column  8 to 14
+ 
+  - 0.00065  - 0.0006  - 0.00055  - 0.0005  - 0.00045  - 0.0004  - 0.00035  
+ 
+         column 15 to 21
+ 
+  - 0.0003  - 0.00025  - 0.0002  - 0.00015  - 0.0001  - 0.00005    0.  
+ 
+ t1  =
+ 
+ 
+         column 1 to 7
+ 
+    0.    0.00005    0.0001    0.00015    0.0002    0.00025    0.0003  
+ 
+         column  8 to 14
+ 
+    0.00035    0.0004    0.00045    0.0005    0.00055    0.0006    0.00065  
+ 
+         column 15 to 21
+ 
+    0.0007    0.00075    0.0008    0.00085    0.0009    0.00095    0.001  
+ 
+ 
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+    3.6787944    3.8674102    4.0656966    4.2741493    4.4932896    4.7236655  
+ 
+         column  7 to 12
+ 
+    4.965853    5.2204578    5.4881164    5.7694981    6.0653066    6.3762815  
+ 
+         column 13 to 18
+ 
+    6.7032005    7.0468809    7.4081822    7.7880078    8.1873075    8.6070798  
+ 
+         column 19 to 21
+ 
+    9.0483742    9.5122942    10.  
+ 
+ v1  =
+ 
+ 
+         column 1 to 6
+ 
+    10.    9.5122942    9.0483742    8.6070798    8.1873075    7.7880078  
+ 
+         column  7 to 12
+ 
+    7.4081822    7.0468809    6.7032005    6.3762815    6.0653066    5.7694981  
+ 
+         column 13 to 18
+ 
+    5.4881164    5.2204578    4.965853    4.7236655    4.4932896    4.2741493  
+ 
+         column 19 to 21
+ 
+    4.0656966    3.8674102    3.6787944  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column 1 to 7
+ 
+  - 0.001  - 0.00095  - 0.0009  - 0.00085  - 0.0008  - 0.00075  - 0.0007  
+ 
+         column  8 to 14
+ 
+  - 0.00065  - 0.0006  - 0.00055  - 0.0005  - 0.00045  - 0.0004  - 0.00035  
+ 
+         column 15 to 21
+ 
+  - 0.0003  - 0.00025  - 0.0002  - 0.00015  - 0.0001  - 0.00005    0.  
+ 
+ t1  =
+ 
+ 
+         column 1 to 7
+ 
+    0.    0.00005    0.0001    0.00015    0.0002    0.00025    0.0003  
+ 
+         column  8 to 14
+ 
+    0.00035    0.0004    0.00045    0.0005    0.00055    0.0006    0.00065  
+ 
+         column 15 to 21
+ 
+    0.0007    0.00075    0.0008    0.00085    0.0009    0.00095    0.001  
+ 
+ 
+ 
+ i  =
+ 
+ 
+         column 1 to 6
+ 
+    0.0036788    0.0038674    0.0040657    0.0042741    0.0044933    0.0047237  
+ 
+         column  7 to 12
+ 
+    0.0049659    0.0052205    0.0054881    0.0057695    0.0060653    0.0063763  
+ 
+         column 13 to 18
+ 
+    0.0067032    0.0070469    0.0074082    0.0077880    0.0081873    0.0086071  
+ 
+         column 19 to 21
+ 
+    0.0090484    0.0095123    0.01  
+ 
+ i1  =
+ 
+ 
+         column 1 to 6
+ 
+  - 0.01  - 0.0095123  - 0.0090484  - 0.0086071  - 0.0081873  - 0.0077880  
+ 
+         column  7 to 12
+ 
+  - 0.0074082  - 0.0070469  - 0.0067032  - 0.0063763  - 0.0060653  - 0.0057695  
+ 
+         column 13 to 18
+ 
+  - 0.0054881  - 0.0052205  - 0.0049659  - 0.0047237  - 0.0044933  - 0.0042741  
+ 
+         column 19 to 21
+ 
+  - 0.0040657  - 0.0038674  - 0.0036788  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch7_23.sce #
+[2J[0;0H 
+ 
+ Example 7.23   
+ 
+
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column 1 to 7
+ 
+  - 0.001  - 0.00095  - 0.0009  - 0.00085  - 0.0008  - 0.00075  - 0.0007  
+ 
+         column  8 to 14
+ 
+  - 0.00065  - 0.0006  - 0.00055  - 0.0005  - 0.00045  - 0.0004  - 0.00035  
+ 
+         column 15 to 21
+ 
+  - 0.0003  - 0.00025  - 0.0002  - 0.00015  - 0.0001  - 0.00005    0.  
+ 
+ t1  =
+ 
+ 
+         column 1 to 7
+ 
+    0.    0.00005    0.0001    0.00015    0.0002    0.00025    0.0003  
+ 
+         column  8 to 14
+ 
+    0.00035    0.0004    0.00045    0.0005    0.00055    0.0006    0.00065  
+ 
+         column 15 to 21
+ 
+    0.0007    0.00075    0.0008    0.00085    0.0009    0.00095    0.001  
+ 
+ 
+ 
+ v  =
+ 
+ 
+         column 1 to 6
+ 
+    3.6787944    3.8674102    4.0656966    4.2741493    4.4932896    4.7236655  
+ 
+         column  7 to 12
+ 
+    4.965853    5.2204578    5.4881164    5.7694981    6.0653066    6.3762815  
+ 
+         column 13 to 18
+ 
+    6.7032005    7.0468809    7.4081822    7.7880078    8.1873075    8.6070798  
+ 
+         column 19 to 21
+ 
+    9.0483742    9.5122942    10.  
+ 
+ v1  =
+ 
+ 
+         column 1 to 6
+ 
+    10.    9.5122942    9.0483742    8.6070798    8.1873075    7.7880078  
+ 
+         column  7 to 12
+ 
+    7.4081822    7.0468809    6.7032005    6.3762815    6.0653066    5.7694981  
+ 
+         column 13 to 18
+ 
+    5.4881164    5.2204578    4.965853    4.7236655    4.4932896    4.2741493  
+ 
+         column 19 to 21
+ 
+    4.0656966    3.8674102    3.6787944  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+ 
+         column 1 to 7
+ 
+  - 0.001  - 0.00095  - 0.0009  - 0.00085  - 0.0008  - 0.00075  - 0.0007  
+ 
+         column  8 to 14
+ 
+  - 0.00065  - 0.0006  - 0.00055  - 0.0005  - 0.00045  - 0.0004  - 0.00035  
+ 
+         column 15 to 21
+ 
+  - 0.0003  - 0.00025  - 0.0002  - 0.00015  - 0.0001  - 0.00005    0.  
+ 
+ t1  =
+ 
+ 
+         column 1 to 7
+ 
+    0.    0.00005    0.0001    0.00015    0.0002    0.00025    0.0003  
+ 
+         column  8 to 14
+ 
+    0.00035    0.0004    0.00045    0.0005    0.00055    0.0006    0.00065  
+ 
+         column 15 to 21
+ 
+    0.0007    0.00075    0.0008    0.00085    0.0009    0.00095    0.001  
+ 
+ 
+ 
+ i  =
+ 
+ 
+         column 1 to 6
+ 
+    0.0036788    0.0038674    0.0040657    0.0042741    0.0044933    0.0047237  
+ 
+         column  7 to 12
+ 
+    0.0049659    0.0052205    0.0054881    0.0057695    0.0060653    0.0063763  
+ 
+         column 13 to 18
+ 
+    0.0067032    0.0070469    0.0074082    0.0077880    0.0081873    0.0086071  
+ 
+         column 19 to 21
+ 
+    0.0090484    0.0095123    0.01  
+ 
+ i1  =
+ 
+ 
+         column 1 to 6
+ 
+  - 0.01  - 0.0095123  - 0.0090484  - 0.0086071  - 0.0081873  - 0.0077880  
+ 
+         column  7 to 12
+ 
+  - 0.0074082  - 0.0070469  - 0.0067032  - 0.0063763  - 0.0060653  - 0.0057695  
+ 
+         column 13 to 18
+ 
+  - 0.0054881  - 0.0052205  - 0.0049659  - 0.0047237  - 0.0044933  - 0.0042741  
+ 
+         column 19 to 21
+ 
+  - 0.0040657  - 0.0038674  - 0.0036788  
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH9/EX9.8/ch9_8.sce #
+[2J[0;0H 
+ 
+ Example 9.8   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Z(s)=(2.5+((5*s/3)*(20/s))/(5*s/3+20/s))   
+ 
+ 
+ z1  =
+ 
+               2  
+    12 + 8s + s   
+ 
+ z2  =
+ 
+          2  
+    12 + s   
+ 
+ Z  =
+ 
+                   2  
+    30 + 20s + 2.5s   
+    ---------------   
+              2       
+        12 + s        
+ 
+ 
+ Z(s)   
+ 
+                   2  
+    30 + 20s + 2.5s   
+    ---------------   
+              2       
+        12 + s        
+ 
+ 
+ 
+ H  =
+ 
+              2   
+    4.8 + 0.4s    
+    ----------    
+               2  
+    12 + 8s + s   
+ 
+ 
+ H(s)   
+ 
+              2   
+    4.8 + 0.4s    
+    ----------    
+               2  
+    12 + 8s + s   
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch9_8.sce #
+[2J[0;0H 
+ 
+ Example 9.8   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Z(s)=(2.5+((5*s/3)*(20/s))/(5*s/3+20/s))   
+ 
+ 
+ z1  =
+ 
+               2  
+    12 + 8s + s   
+ 
+ z2  =
+ 
+          2  
+    12 + s   
+ 
+ Z  =
+ 
+                   2  
+    30 + 20s + 2.5s   
+    ---------------   
+              2       
+        12 + s        
+ 
+ 
+ Z(s)   
+ 
+                   2  
+    30 + 20s + 2.5s   
+    ---------------   
+              2       
+        12 + s        
+ 
+ 
+ 
+ H  =
+ 
+              2   
+    4.8 + 0.4s    
+    ----------    
+               2  
+    12 + 8s + s   
+ 
+ 
+ H(s)   
+ 
+              2   
+    4.8 + 0.4s    
+    ----------    
+               2  
+    12 + 8s + s   
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH9/EX9.11/ch9_11.sce #
+[2J[0;0H 
+ 
+ Example 9.11   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ z1  =
+ 
+                  2  
+    3 + 2s + 0.25s   
+    --------------   
+          5s         
+ 
+ Z  =
+ 
+          5s         
+    --------------   
+                  2  
+    3 + 2s + 0.25s   
+ 
+ Dem  =
+ 
+                  2  
+    3 + 2s + 0.25s   
+ 
+ 
+ q  =
+ 
+  - 6.  
+  - 2.  
+ 
+ 
+ Poles are   
+ 
+  - 6.  
+  - 2.  
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch9_11.sce #
+[2J[0;0H 
+ 
+ Example 9.11   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ z1  =
+ 
+                  2  
+    3 + 2s + 0.25s   
+    --------------   
+          5s         
+ 
+ Z  =
+ 
+          5s         
+    --------------   
+                  2  
+    3 + 2s + 0.25s   
+ 
+ Dem  =
+ 
+                  2  
+    3 + 2s + 0.25s   
+ 
+ 
+ q  =
+ 
+  - 6.  
+  - 2.  
+ 
+ 
+ Poles are   
+ 
+  - 6.  
+  - 2.  
+ 
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH12/EX12.2/ch12_2.sce #
+[2J[0;0H 
+ 
+ Example 12.2   
+ 
+
+ 
+ 
+Given 
+ 
+ The system ABC is DELTA connected   
+ 
+ 
+ Effective line voltage is 120V   
+ 
+ 
+ The three impedances are 5(45 deg)   
+ 
+ 
+ 
+ Vmax  =
+ 
+    169.70563  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IABmag  =
+ 
+    33.941125  
+ 
+ IABph  =
+ 
+    75.  
+ 
+IAB=33.94(75 deg)
+ 
+ 
+ IBCmag  =
+ 
+    33.941125  
+ 
+ IBCph  =
+ 
+  - 45.  
+ 
+IBC=33.94(-45 deg)
+ 
+ 
+ ICAmag  =
+ 
+    33.941125  
+ 
+ ICAph  =
+ 
+    195.  
+ 
+ICA=33.94(195 deg)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+    8.7846097 + 32.78461i  
+ 
+ 
+ 
+ 
+ z1  =
+ 
+  - 32.78461 - 8.7846097i  
+ 
+ 
+ 
+ 
+ z2  =
+ 
+    24. - 24.i  
+ 
+ 
+ 
+ ThetaA  =
+ 
+    0.7853982 + 1.665D-16i  
+ RA  =
+ 
+    58.787754  
+ 
+ 
+ 
+ ThetaB  =
+ 
+  - 1.3089969 - 1.249D-16i  
+ RB  =
+ 
+    58.787754  
+ 
+ 
+ IC  =
+ 
+  - 56.78461 + 15.21539i  
+ 
+ ThetaC  =
+ 
+    2.8797933 + 4.163D-17i  
+ RC  =
+ 
+    58.787754  
+ 
+ 
+ 
+ Therefore   
+ 
+ 
+
+IA=58.79(45 deg)A
+ 
+
+IB=58.79(-75 deg)A
+ 
+
+IC=58.79(165 deg)A
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch12_2.sce #
+[2J[0;0H 
+ 
+ Example 12.2   
+ 
+
+ 
+ 
+Given 
+ 
+ The system ABC is DELTA connected   
+ 
+ 
+ Effective line voltage is 120V   
+ 
+ 
+ The three impedances are 5(45 deg)   
+ 
+ 
+ 
+ Vmax  =
+ 
+    169.70563  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IABmag  =
+ 
+    33.941125  
+ 
+ IABph  =
+ 
+    75.  
+ 
+IAB=33.94(75 deg)
+ 
+ 
+ IBCmag  =
+ 
+    33.941125  
+ 
+ IBCph  =
+ 
+  - 45.  
+ 
+IBC=33.94(-45 deg)
+ 
+ 
+ ICAmag  =
+ 
+    33.941125  
+ 
+ ICAph  =
+ 
+    195.  
+ 
+ICA=33.94(195 deg)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+    8.7846097 + 32.78461i  
+ 
+ 
+ 
+ 
+ z1  =
+ 
+  - 32.78461 - 8.7846097i  
+ 
+ 
+ 
+ 
+ z2  =
+ 
+    24. - 24.i  
+ 
+ 
+ 
+ ThetaA  =
+ 
+    0.7853982 + 1.665D-16i  
+ RA  =
+ 
+    58.787754  
+ 
+ 
+ 
+ ThetaB  =
+ 
+  - 1.3089969 - 1.249D-16i  
+ RB  =
+ 
+    58.787754  
+ 
+ 
+ IC  =
+ 
+  - 56.78461 + 15.21539i  
+ 
+ ThetaC  =
+ 
+    2.8797933 + 4.163D-17i  
+ RC  =
+ 
+    58.787754  
+ 
+ 
+ 
+ Therefore   
+ 
+ 
+
+IA=58.79(45 deg)A
+ 
+
+IB=58.79(-75 deg)A
+ 
+
+IC=58.79(165 deg)A
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch12_3.sce #
+[2J[0;0H 
+ 
+ Example 12.3   
+ 
+
+ 
+ 
+Given 
+ 
+ The system CBA is WYE connected   
+ 
+ 
+ Effective line voltage is 120V   
+ 
+ 
+ The three impedances are 20(-30 deg)   
+ 
+ 
+ 
+ Vmax  =
+ 
+    169.70563  
+ 
+ 
+ Vn  =
+ 
+    97.97959  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IAmag  =
+ 
+    4.8989795  
+ 
+ IAph  =
+ 
+  - 60.  
+ 
+
+IA=4.90(-60 deg)A
+ 
+ 
+ IBmag  =
+ 
+    4.8989795  
+ 
+ IBph  =
+ 
+    60.  
+ 
+
+IB=4.90(60 deg)A
+ 
+ 
+ ICmag  =
+ 
+    4.8989795  
+ 
+ ICph  =
+ 
+    180.  
+ 
+
+IC=4.90(180 deg)A
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch12_4.sce #
+[2J[0;0H 
+ 
+ Example 12.4   
+ 
+
+ 
+ 
+ 
+ Continued from Example 12.3   
+ 
+ Vmax  =
+ 
+    169.70563  
+ 
+ 
+ 
+ VLN  =
+ 
+    97.97959  
+ 
+ 
+ 
+ ILmag  =
+ 
+    4.8989795  
+ 
+ ILph  =
+ 
+    30.  
+ 
+
+IL=4.90(30 deg)
+ 
+ 
+ 
+ 
+ 
+ 
+ IAph  =
+ 
+  - 60.  
+ 
+
+IA=4.90(-60 deg)A
+ 
+ 
+ IBph  =
+ 
+    60.  
+ 
+
+IB=4.90(60 deg)A
+ 
+ 
+ ICph  =
+ 
+    180.  
+ 
+
+IC=4.90(180 deg)A
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH12/EX12.5/ch12_5.sce #
+[2J[0;0H 
+ 
+ Example 12.5   
+ 
+
+ 
+ 
+Given 
+ 
+ The system ABC is DELTA connected   
+ 
+ 
+ Maximum line voltage is 339.4V   
+ 
+ 
+ The three impedances are 10(0 deg),10(30 deg),15(-30 deg)   
+ 
+ 
+ 
+ 
+ 
+ 
+ Vmax  =
+ 
+    339.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IABmag  =
+ 
+    33.94  
+ 
+ IABph  =
+ 
+    120.  
+ 
+IAB=33.94(120 deg)
+ 
+ 
+ IBCmag  =
+ 
+    33.94  
+ 
+ IBCph  =
+ 
+  - 30.  
+ 
+IBC=33.94(-30 deg)
+ 
+ 
+ ICAmag  =
+ 
+    22.626667  
+ 
+ ICAph  =
+ 
+    270.  
+ 
+ICA=22.63(270 deg)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+  - 16.97 + 29.392902i  
+ 
+ 
+ 
+ 
+ z1  =
+ 
+  - 4.156D-15 - 22.626667i  
+ 
+ 
+ 
+ 
+ z2  =
+ 
+    29.392902 - 16.97i  
+ 
+ 
+ 
+ ThetaA  =
+ 
+    1.8861343 - 6.245D-17i  
+ RA  =
+ 
+    54.717606  
+ 
+ 
+ 
+ ThetaB  =
+ 
+  - 0.7853982 + 1.110D-16i  
+ RB  =
+ 
+    65.567045  
+ 
+ 
+ IC  =
+ 
+  - 29.392902 - 5.6566667i  
+ 
+ ThetaC  =
+ 
+  - 2.9514671 - 3.816D-17i  
+ RC  =
+ 
+    29.932266  
+ 
+ 
+ 
+ Therefore   
+ 
+ 
+
+IA=54.72(108 deg)A
+ 
+
+IB=65.57(-45 deg)A
+ 
+
+IC=29.93(-169 deg)A
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch12_5.sce #
+[2J[0;0H 
+ 
+ Example 12.5   
+ 
+
+ 
+ 
+Given 
+ 
+ The system ABC is DELTA connected   
+ 
+ 
+ Maximum line voltage is 339.4V   
+ 
+ 
+ The three impedances are 10(0 deg),10(30 deg),15(-30 deg)   
+ 
+ 
+ 
+ 
+ 
+ 
+ Vmax  =
+ 
+    339.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IABmag  =
+ 
+    33.94  
+ 
+ IABph  =
+ 
+    120.  
+ 
+IAB=33.94(120 deg)
+ 
+ 
+ IBCmag  =
+ 
+    33.94  
+ 
+ IBCph  =
+ 
+  - 30.  
+ 
+IBC=33.94(-30 deg)
+ 
+ 
+ ICAmag  =
+ 
+    22.626667  
+ 
+ ICAph  =
+ 
+    270.  
+ 
+ICA=22.63(270 deg)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+  - 16.97 + 29.392902i  
+ 
+ 
+ 
+ 
+ z1  =
+ 
+  - 4.156D-15 - 22.626667i  
+ 
+ 
+ 
+ 
+ z2  =
+ 
+    29.392902 - 16.97i  
+ 
+ 
+ 
+ ThetaA  =
+ 
+    1.8861343 - 6.245D-17i  
+ RA  =
+ 
+    54.717606  
+ 
+ 
+ 
+ ThetaB  =
+ 
+  - 0.7853982 + 1.110D-16i  
+ RB  =
+ 
+    65.567045  
+ 
+ 
+ IC  =
+ 
+  - 29.392902 - 5.6566667i  
+ 
+ ThetaC  =
+ 
+  - 2.9514671 - 3.816D-17i  
+ RC  =
+ 
+    29.932266  
+ 
+ 
+ 
+ Therefore   
+ 
+ 
+
+IA=54.72(108 deg)A
+ 
+
+IB=65.57(-45 deg)A
+ 
+
+IC=29.93(-169 deg)A
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH12/EX12.6/ch12_6.sce #
+[2J[0;0H 
+ 
+ Example 12.6   
+ 
+
+ 
+ 
+Given 
+ 
+ The system CBA is WYE connected   
+ 
+ 
+ Maximum line voltage is 150V   
+ 
+ 
+ The three impedances are 6(0 deg),6(30 deg),5(45 deg)   
+ 
+ 
+ 
+ 
+ 
+ Vmax  =
+ 
+    150.  
+ 
+ 
+ Vn  =
+ 
+    86.60254  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IAmag  =
+ 
+    14.433757  
+ 
+ IAph  =
+ 
+  - 90.  
+ 
+
+IA=14.43(-90 deg)A
+ 
+ 
+ IBmag  =
+ 
+    14.433757  
+ 
+ IBph  =
+ 
+    0.  
+ 
+
+IB=14.43(0 deg)A
+ 
+ 
+ ICmag  =
+ 
+    17.320508  
+ 
+ ICph  =
+ 
+    105.  
+ 
+
+IC=17.32(105 deg)A
+ 
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+    8.838D-16 - 14.433757i  
+ 
+ 
+ 
+ 
+ z1  =
+ 
+  - 4.4828774 + 16.730326i  
+ 
+ 
+ 
+ 
+ z2  =
+ 
+    14.433757  
+ 
+ 
+ IN  =
+ 
+  - 9.9508794 - 2.2965693i  
+ 
+ 
+ Theta  =
+ 
+  - 2.9147735 - 1.943D-16i  
+ R  =
+ 
+    10.212455  
+ 
+ 
+
+IN=10.21(-167 deg)A
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch12_6.sce #
+[2J[0;0H 
+ 
+ Example 12.6   
+ 
+
+ 
+ 
+Given 
+ 
+ The system CBA is WYE connected   
+ 
+ 
+ Maximum line voltage is 150V   
+ 
+ 
+ The three impedances are 6(0 deg),6(30 deg),5(45 deg)   
+ 
+ 
+ 
+ 
+ 
+ Vmax  =
+ 
+    150.  
+ 
+ 
+ Vn  =
+ 
+    86.60254  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IAmag  =
+ 
+    14.433757  
+ 
+ IAph  =
+ 
+  - 90.  
+ 
+
+IA=14.43(-90 deg)A
+ 
+ 
+ IBmag  =
+ 
+    14.433757  
+ 
+ IBph  =
+ 
+    0.  
+ 
+
+IB=14.43(0 deg)A
+ 
+ 
+ ICmag  =
+ 
+    17.320508  
+ 
+ ICph  =
+ 
+    105.  
+ 
+
+IC=17.32(105 deg)A
+ 
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+    8.838D-16 - 14.433757i  
+ 
+ 
+ 
+ 
+ z1  =
+ 
+  - 4.4828774 + 16.730326i  
+ 
+ 
+ 
+ 
+ z2  =
+ 
+    14.433757  
+ 
+ 
+ IN  =
+ 
+  - 9.9508794 - 2.2965693i  
+ 
+ 
+ Theta  =
+ 
+  - 2.9147735 - 1.943D-16i  
+ R  =
+ 
+    10.212455  
+ 
+ 
+
+IN=10.21(-167 deg)A
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH14/EX14.7/ch14_7.sce #
+[2J[0;0H 
+ 
+ Example 14.7   
+ 
+
+ 
+ 
+ 
+ 
+ V1=50*I1        (1)   
+ 
+ 
+ I2=300*I1       (2)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+h11=50
+ 
+h12=0
+ 
+h21=300
+ 
+h22=0
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch14_7.sce #
+[2J[0;0H 
+ 
+ Example 14.7   
+ 
+
+ 
+ 
+ 
+ 
+ V1=50*I1        (1)   
+ 
+ 
+ I2=300*I1       (2)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+h11=50
+ 
+h12=0
+ 
+h21=300
+ 
+h22=0
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH14/EX14.8/ch14_8.sce #
+[2J[0;0H 
+ 
+ Example 14.8   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I1=10^-9*V1              (1)   
+ 
+ 
+ V2=10*I2-10^-2*V1        (2)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+g11=1.0e-09
+ 
+g12=0
+ 
+g21=-1.0e-02
+ 
+g22=10
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch14_8.sce #
+[2J[0;0H 
+ 
+ Example 14.8   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I1=10^-9*V1              (1)   
+ 
+ 
+ V2=10*I2-10^-2*V1        (2)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+g11=1.0e-09
+ 
+g12=0
+ 
+g21=-1.0e-02
+ 
+g22=10
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/CH15/EX15.7/ch15_7.sce #
+[2J[0;0H 
+ 
+ Example 15.7   
+ 
+
+ 
+ 
+Given 
+ 
+ N1=20 N2=N3=10   
+ 
+ 
+ I2=10(-53.13 deg) I3=10(-45 deg)   
+ 
+ 
+ 
+ 
+ 
+ 
+ N1*I1-N2*I2-N3*I3=0   
+ 
+ 
+ Xmag  =
+ 
+    100.  
+ 
+ Xph  =
+ 
+  - 53.13  
+ 
+ 
+ 
+ z  =
+ 
+    60.000143 - 79.999893i  
+ 
+ 
+ Ymag  =
+ 
+    100.  
+ 
+ Yph  =
+ 
+  - 45.  
+ 
+ 
+ 
+ z1  =
+ 
+    70.710678 - 70.710678i  
+ 
+ 
+ I1  =
+ 
+    6.5355411 - 7.5355285i  
+ 
+ 
+I1=9.97(-49.06 deg) A
+ 
+ 
+ 
+grepthis#Electric_Circuits_M._Navhi_And_J._A._Edminister_154/DEPENDENCIES/ch15_7.sce #
+[2J[0;0H 
+ 
+ Example 15.7   
+ 
+
+ 
+ 
+Given 
+ 
+ N1=20 N2=N3=10   
+ 
+ 
+ I2=10(-53.13 deg) I3=10(-45 deg)   
+ 
+ 
+ 
+ 
+ 
+ 
+ N1*I1-N2*I2-N3*I3=0   
+ 
+ 
+ Xmag  =
+ 
+    100.  
+ 
+ Xph  =
+ 
+  - 53.13  
+ 
+ 
+ 
+ z  =
+ 
+    60.000143 - 79.999893i  
+ 
+ 
+ Ymag  =
+ 
+    100.  
+ 
+ Yph  =
+ 
+  - 45.  
+ 
+ 
+ 
+ z1  =
+ 
+    70.710678 - 70.710678i  
+ 
+ 
+ I1  =
+ 
+    6.5355411 - 7.5355285i  
+ 
+ 
+I1=9.97(-49.06 deg) A
+ 
+ 
+ 

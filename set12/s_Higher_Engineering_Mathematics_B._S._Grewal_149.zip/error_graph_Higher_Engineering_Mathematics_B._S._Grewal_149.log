@@ -1,0 +1,547 @@
+ERROR: Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.23/ex23.sce
+ 
+[2J[0;0H 
+ 
+ 
+ x  =
+ 
+ 
+         column 1 to 6
+ 
+    1.    1.0689655    1.137931    1.2068966    1.2758621    1.3448276  
+ 
+         column  7 to 12
+ 
+    1.4137931    1.4827586    1.5517241    1.6206897    1.6896552    1.7586207  
+ 
+         column 13 to 18
+ 
+    1.8275862    1.8965517    1.9655172    2.0344828    2.1034483    2.1724138  
+ 
+         column 19 to 24
+ 
+    2.2413793    2.3103448    2.3793103    2.4482759    2.5172414    2.5862069  
+ 
+         column 25 to 30
+ 
+    2.6551724    2.7241379    2.7931034    2.862069    2.9310345    3.  
+ 
+ y1  =
+ 
+ 
+         column 1 to 6
+ 
+    2.    1.9310345    1.862069    1.7931034    1.7241379    1.6551724  
+ 
+         column  7 to 12
+ 
+    1.5862069    1.5172414    1.4482759    1.3793103    1.3103448    1.2413793  
+ 
+         column 13 to 18
+ 
+    1.1724138    1.1034483    1.0344828    0.9655172    0.8965517    0.8275862  
+ 
+         column 19 to 24
+ 
+    0.7586207    0.6896552    0.6206897    0.5517241    0.4827586    0.4137931  
+ 
+         column 25 to 30
+ 
+    0.3448276    0.2758621    0.2068966    0.1379310    0.0689655    0.  
+ 
+ y2  =
+ 
+ 
+         column 1 to 6
+ 
+    1.    1.0713993    1.1478964    1.2298553    1.3176661    1.4117465  
+ 
+         column  7 to 12
+ 
+    1.5125442    1.6205387    1.736244    1.8602105    1.9930282    2.1353289  
+ 
+         column 13 to 18
+ 
+    2.2877898    2.4511363    2.6261457    2.8136505    3.0145431    3.2297793  
+ 
+         column 19 to 24
+ 
+    3.4603831    3.7074519    3.9721613    4.2557707    4.5596295    4.8851837  
+ 
+         column 25 to 30
+ 
+    5.2339823    5.6076847    6.0080693    6.437041    6.896641    7.3890561  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["3-x";"%e^(x-1)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ from the graph,it is clear that the point of intersection is nearly x=1.43    
+ 
+thematics_B._S._Grewal_149/ex23');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      12 of exec file called by :    
+._S._Grewal_149/CH1/EX1.23/ex23.sce',-1
+ 
+ERROR: Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.24/ex24.sce
+ 
+[2J[0;0H 
+ 
+ 
+ x  =
+ 
+ 
+         column 1 to 6
+ 
+    1.    1.0689655    1.137931    1.2068966    1.2758621    1.3448276  
+ 
+         column  7 to 12
+ 
+    1.4137931    1.4827586    1.5517241    1.6206897    1.6896552    1.7586207  
+ 
+         column 13 to 18
+ 
+    1.8275862    1.8965517    1.9655172    2.0344828    2.1034483    2.1724138  
+ 
+         column 19 to 24
+ 
+    2.2413793    2.3103448    2.3793103    2.4482759    2.5172414    2.5862069  
+ 
+         column 25 to 30
+ 
+    2.6551724    2.7241379    2.7931034    2.862069    2.9310345    3.  
+ 
+ y1  =
+ 
+ 
+         column 1 to 6
+ 
+    1.    1.0689655    1.137931    1.2068966    1.2758621    1.3448276  
+ 
+         column  7 to 12
+ 
+    1.4137931    1.4827586    1.5517241    1.6206897    1.6896552    1.7586207  
+ 
+         column 13 to 18
+ 
+    1.8275862    1.8965517    1.9655172    2.0344828    2.1034483    2.1724138  
+ 
+         column 19 to 24
+ 
+    2.2413793    2.3103448    2.3793103    2.4482759    2.5172414    2.5862069  
+ 
+         column 25 to 30
+ 
+    2.6551724    2.7241379    2.7931034    2.862069    2.9310345    3.  
+ 
+ y2  =
+ 
+ 
+         column 1 to 6
+ 
+    2.4122673    2.4474997    2.4785639    2.5053122    2.5276176    2.5453738  
+ 
+         column  7 to 12
+ 
+    2.5584966    2.5669235    2.5706145    2.5695519    2.5637409    2.5532091  
+ 
+         column 13 to 18
+ 
+    2.5380066    2.5182056    2.4939002    2.4652062    2.4322597    2.3952176  
+ 
+         column 19 to 24
+ 
+    2.3542558    2.3095693    2.2613703    2.2098881    2.1553674    2.0980674  
+ 
+         column 25 to 30
+ 
+    2.0382607    1.9762314    1.9122745    1.8466942    1.7798021    1.7119163  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["x";"sin(x)+%pi/2"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ from the graph,it is clear that the point of intersection is nearly x=2.3    
+ 
+thematics_B._S._Grewal_149/ex24');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      12 of exec file called by :    
+._S._Grewal_149/CH1/EX1.24/ex24.sce',-1
+ 
+ERROR: Higher_Engineering_Mathematics_B._S._Grewal_149/CH6/EX6.24/ex24.sce
+ 
+[2J[0;0H 
+ 
+ 
+ x  =
+ 
+ 
+         column 1 to 6
+ 
+  - 5.  - 4.7826087  - 4.5652174  - 4.3478261  - 4.1304348  - 3.9130435  
+ 
+         column  7 to 12
+ 
+  - 3.6956522  - 3.4782609  - 3.2608696  - 3.0434783  - 2.826087  - 2.6086957  
+ 
+         column 13 to 18
+ 
+  - 2.3913043  - 2.173913  - 1.9565217  - 1.7391304  - 1.5217391  - 1.3043478  
+ 
+         column 19 to 24
+ 
+  - 1.0869565  - 0.8695652  - 0.6521739  - 0.4347826  - 0.2173913    0.  
+ 
+         column 25 to 30
+ 
+    0.2173913    0.4347826    0.6521739    0.8695652    1.0869565    1.3043478  
+ 
+         column 31 to 36
+ 
+    1.5217391    1.7391304    1.9565217    2.173913    2.3913043    2.6086957  
+ 
+         column 37 to 42
+ 
+    2.826087    3.0434783    3.2608696    3.4782609    3.6956522    3.9130435  
+ 
+         column 43 to 48
+ 
+    4.1304348    4.3478261    4.5652174    4.7826087    5.    5.2173913  
+ 
+         column 49 to 54
+ 
+    5.4347826    5.6521739    5.8695652    6.0869565    6.3043478    6.5217391  
+ 
+         column 55 to 60
+ 
+    6.7391304    6.9565217    7.173913    7.3913043    7.6086957    7.826087  
+ 
+         column 61 to 66
+ 
+    8.0434783    8.2608696    8.4782609    8.6956522    8.9130435    9.1304348  
+ 
+         column 67 to 70
+ 
+    9.3478261    9.5652174    9.7826087    10.  
+ 
+ y1  =
+ 
+ 
+         column 1 to 6
+ 
+    1.5    1.6086957    1.7173913    1.826087    1.9347826    2.0434783  
+ 
+         column  7 to 12
+ 
+    2.1521739    2.2608696    2.3695652    2.4782609    2.5869565    2.6956522  
+ 
+         column 13 to 18
+ 
+    2.8043478    2.9130435    3.0217391    3.1304348    3.2391304    3.3478261  
+ 
+         column 19 to 24
+ 
+    3.4565217    3.5652174    3.673913    3.7826087    3.8913043    4.  
+ 
+         column 25 to 30
+ 
+    4.1086957    4.2173913    4.326087    4.4347826    4.5434783    4.6521739  
+ 
+         column 31 to 36
+ 
+    4.7608696    4.8695652    4.9782609    5.0869565    5.1956522    5.3043478  
+ 
+         column 37 to 42
+ 
+    5.4130435    5.5217391    5.6304348    5.7391304    5.8478261    5.9565217  
+ 
+         column 43 to 48
+ 
+    6.0652174    6.173913    6.2826087    6.3913043    6.5    6.6086957  
+ 
+         column 49 to 54
+ 
+    6.7173913    6.826087    6.9347826    7.0434783    7.1521739    7.2608696  
+ 
+         column 55 to 60
+ 
+    7.3695652    7.4782609    7.5869565    7.6956522    7.8043478    7.9130435  
+ 
+         column 61 to 66
+ 
+    8.0217391    8.1304348    8.2391304    8.3478261    8.4565217    8.5652174  
+ 
+         column 67 to 70
+ 
+    8.673913    8.7826087    8.8913043    9.  
+ 
+y2=x^2/8
+       !       
+at line       7 of exec file called by :    
+._S._Grewal_149/CH6/EX6.24/ex24.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ y2  =
+ 
+ 
+         column 1 to 6
+ 
+    3.125    2.8591682    2.6051512    2.362949    2.1325614    1.9139887  
+ 
+         column  7 to 12
+ 
+    1.7072306    1.5122873    1.3291588    1.157845    0.9983459    0.8506616  
+ 
+         column 13 to 18
+ 
+    0.7147921    0.5907372    0.4784972    0.3780718    0.2894612    0.2126654  
+ 
+         column 19 to 24
+ 
+    0.1476843    0.0945180    0.0531664    0.0236295    0.0059074    0.  
+ 
+         column 25 to 30
+ 
+    0.0059074    0.0236295    0.0531664    0.0945180    0.1476843    0.2126654  
+ 
+         column 31 to 36
+ 
+    0.2894612    0.3780718    0.4784972    0.5907372    0.7147921    0.8506616  
+ 
+         column 37 to 42
+ 
+    0.9983459    1.157845    1.3291588    1.5122873    1.7072306    1.9139887  
+ 
+         column 43 to 48
+ 
+    2.1325614    2.362949    2.6051512    2.8591682    3.125    3.4026465  
+ 
+         column 49 to 54
+ 
+    3.6921078    3.9933837    4.3064745    4.63138    4.9681002    5.3166352  
+ 
+         column 55 to 60
+ 
+    5.6769849    6.0491493    6.4331285    6.8289225    7.2365312    7.6559546  
+ 
+         column 61 to 66
+ 
+    8.0871928    8.5302457    8.9851134    9.4517958    9.930293    10.420605  
+ 
+         column 67 to 70
+ 
+    10.922732    11.436673    11.962429    12.5  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["(x+8)/2";"x^2/8"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ from the graph,it is clear that the points of intersection are x=-4 and x=8.   
+ 
+ 
+ So,our region of integration is from x=-4 to x=8   
+ 
+ ans  =
+ 
+    36.  
+ 
+thematics_B._S._Grewal_149/ex24');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line       8 of exec file called by :    
+._S._Grewal_149/CH6/EX6.24/ex24.sce',-1
+ 
+ERROR: Higher_Engineering_Mathematics_B._S._Grewal_149/CH1/EX1.25/ex25.sce
+ 
+[2J[0;0H 
+ 
+ 
+ x  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    0.1034483    0.2068966    0.3103448    0.4137931    0.5172414  
+ 
+         column  7 to 12
+ 
+    0.6206897    0.7241379    0.8275862    0.9310345    1.0344828    1.137931  
+ 
+         column 13 to 18
+ 
+    1.2413793    1.3448276    1.4482759    1.5517241    1.6551724    1.7586207  
+ 
+         column 19 to 24
+ 
+    1.862069    1.9655172    2.0689655    2.1724138    2.2758621    2.3793103  
+ 
+         column 25 to 30
+ 
+    2.4827586    2.5862069    2.6896552    2.7931034    2.8965517    3.  
+ 
+ y1  =
+ 
+ 
+         column 1 to 6
+ 
+  - 1.  - 1.0053747  - 1.0217916  - 1.0501683  - 1.0921773  - 1.150501  
+ 
+         column  7 to 12
+ 
+  - 1.2292902  - 1.3349873  - 1.477858  - 1.6750295  - 1.9570597  - 2.3839406  
+ 
+         column 13 to 18
+ 
+  - 3.0912718  - 4.4632779  - 8.1823577  - 52.435546    11.865774    5.3555563  
+ 
+         column 19 to 24
+ 
+    3.4822398    2.6004382    2.0928469    1.7668572    1.5430101    1.3826252  
+ 
+         column 25 to 30
+ 
+    1.2646917    1.17689    1.1116019    1.0639546    1.0307925    1.0101087  
+ 
+ y2  =
+ 
+ 
+         column 1 to 6
+ 
+    1.    1.0053555    1.0214795    1.0485447    1.0868409    1.1367784  
+ 
+         column  7 to 12
+ 
+    1.198892    1.2738471    1.3624465    1.4656391    1.5845303    1.7203936  
+ 
+         column 13 to 18
+ 
+    1.8746842    2.0490547    2.2453729    2.4657414    2.7125207    2.988354  
+ 
+         column 19 to 24
+ 
+    3.296196    3.6393437    4.0214728    4.4466763    4.9195085    5.4450341  
+ 
+         column 25 to 30
+ 
+    6.0288819    6.6773057    7.3972506    8.1964282    9.0833986    10.067662  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["-sec(x)";"cosh(x)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ from the graph,it is clear that the point of intersection is nearly x=2.3    
+ 
+thematics_B._S._Grewal_149/ex25');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      12 of exec file called by :    
+._S._Grewal_149/CH1/EX1.25/ex25.sce',-1
+ 

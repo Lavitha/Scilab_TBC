@@ -1,0 +1,3721 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 82
+
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.2/2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The average annual power loss = 12 kW
+ 
+ b) The total annual energy loss due to the copper losses of the feeder circuits = 105120 kWh
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diversified demand of the group on the distribution transformer is 31.9091 kW
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The copper loss of the feeder per phase = 15 kW
+ 
+ b) The total coper losses of the feeder per three phase = 45 kW
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The diversity factor of the load is 1.33333
+ 
+ b) The load diversity of the load is 1000 kW
+ 
+ c) The coincidence factor of the load is 0.75
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.6/2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    100.    1000.    1200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The class distribution factors factor of:
+ 
+ i) Street lighting = 0
+ ii) Residential = 0.6
+ iii) Commercial =1
+ 
+ b) The diversity factor for the primary feeder = 1.27778
+ 
+ c) The diversified maximum demand of the load group = 1800 kW
+ 
+ d) The coincidence factor of the load group = 0.782609
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.9/2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The annual loss factor is 0.167834
+ 
+ b) The annual copper loss energy is 147022 kWh and the cost of total annual copper loss is $4410.67
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.10/2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The 30 mins annual maximum deman on the substation transformer are 5217.39 kW and 5793.58 kVA respectively
+ 
+ b) The load diversity is 782.609 kW
+ 
+ c) Suitable transformer size for 25 percent short time over loads is 3750/4687 kVA
+ 
+ d) Fans on rating is 7.17735 percent and it will loaded for 7 more year if a 7599/9375 kVA transformer is installed
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.12/2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) Monthly load factor for :
+ 
+ i) Consumer A = 0.435866
+ 
+ ii) Consumer B =0.245873
+ 
+ b) Rating of the each of the distribution transformer:
+ 
+ i) A = 25 kVA
+ 
+ ii) B = 50 kVA
+ 
+ c) Monthly bil for:
+ 
+ i) Consumer A = $171.556
+ 
+ ii) Consumer B = $217.237
+ 
+ d) The capacitor size required is 2.25743 kVAr
+ 
+ e) Payback period:
+ 
+ i) Calculated : 8 months
+ 
+ ii) Realistic as capacitor size available is 3 kVAr : 10 months
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.13/2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The instantenous demands are 14.0583 kW and 17.496 kW for reading 1 and 2 and the average demand is 15.7772 kW
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.14/2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The instantenous demands are 702.915 kW and 874.8 kW for reading 1 and 2 and the average demand is 788.858 kW
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.15/2_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kr4  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The instantaneous kilowatt hour demands for readings 1 and 2 are 2764.8 kW and 3456 kW respectively
+ 
+ b) The average kilowatt demand is 3110.4 kW
+ 
+ c) The instantaneous kilovar hour demands for readings 1 and 2 are 1382.4 kVAr and 2304 kVAr respectively
+ 
+ d) The average kilovar demand is 1843.2 kVAr
+ 
+ e) The average kilovoltampere demand is 3615.52 kVA
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Circuit impedances on the high voltage side is 24.6366/_53.9017 ohm
+ 
+Each of the Circuit impedances on the low voltage side is 0.0085248/_18.9246 ohm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Magnitude of Line to Neutral Fault Currentson HV and LV when R of service 
+drop is zero are 136.353 A and 8181.2 A respectively
+ 
+b) The Magnitude of Line to Line Fault Currentson HV and LV when R of service 
+drop is zero are 188.283 A and 5648.5 A respectively
+ 
+c) The Minimum Allowable interrupting capacity for circuit breaker is
+connected to the LV is 8181.2 A
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Value of Service drop in the Cable is 0.00657582 ohm
+ 
+b) The Length of service drop cable for:
+ 
+i) #4 AWG Conductor is 0.00254877 miles
+ 
+ii) #1/0 AWG Conductor is 0.00638429 miles
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Maximum Load Carried without overloading any of the transformer is 637.097 kVA
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Line Currents flowing in secondary phase wire :
+ 
+A phase is 481.125/_-36.8699 A
+ 
+B phase is 764.567/_39.7599 A
+ 
+C phase is 803.691/_75.3808 A
+ 
+b) The Current flowing in secondary winding of each transformer:
+ 
+AC is 328.168/_-75.0532 A
+ 
+AB is 301.597/_5.40131 A
+ 
+BC is 542.962/_58.0295 A
+ 
+c) The Load on Each Transformer is:
+ 
+1 : 78.7604 kVA
+ 
+2 : 72.3834 kVA
+ 
+3 : 130.311 kVA
+ 
+d) The Current flowing in primary winding of each transformer:
+ 
+AC is 10.336/_-75.0532 A
+ 
+AB is 9.49913/_5.40131 A
+ 
+BC is 17.1012/_58.0295 A
+ 
+e) The Line Currents flowing in primary phase wire :
+ 
+A phase is 15.1536/_-36.8699 A
+ 
+B phase is 24.0809/_39.7599 A
+ 
+C phase is 25.3131/_75.3808 A
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Line Currents flowing in secondary phase wire :
+ 
+A phase is 420.582/_-17.8947 A
+ 
+B phase is 442.79/_-165.669 A
+ 
+C phase is 240.563/_83.1301 A
+ 
+b) The Current flowing in secondary winding of each transformer:
+ 
+AB is 420.582/_-17.8947 A
+ 
+BC is 240.563/_263.13 A
+ 
+c) The Load on Each Transformer is:
+ 
+1 : 100.94 kVA
+ 
+2 : 57.735 kVA
+ 
+d) The Line Currents flowing in primary phase wire :
+ 
+AB is 13.2467/_-17.8947 A
+ 
+CB is 7.57678/_263.13 A
+ 
+The Neutral Current is 13.9461/_14.3314
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Phasor diagram is shown in the result file attached to the code
+ 
+b) Vab is 480/_0 V
+ 
+c) The Magnitudes of the following rated winding voltages
+ 
+i) The Voltage VH1H2 on transformer 1 : 3602.67 V
+ 
+ii) The Voltage Vx1x2 on transformer 1 : 138.564 V
+ 
+iii) The Voltage Vx2x3 on transformer 1 : 277.128 V
+ 
+iv) The Voltage VH1H2 on transformer 2 : 2080 V
+ 
+v) The Voltage VH2H3 on transformer 2 : 2080 V
+ 
+vi) The Voltage Vx1x2 on transformer 2 : 240 V
+ 
+vii) The Voltage Vx1x2 on transformer 2 : 240 V
+ 
+d) i) NO ii) NO iii) YES
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Low voltage current phasors are:
+ 
+A is 100.046/_-30 A
+ 
+B is 100.046/_-150 A
+ 
+C is 100.046/_90 A
+ 
+b) The Phasor Diagram is the 'b' diagram of in the result file
+ 
+c) The Power Factor of the Transformer is 1
+ 
+d) Power Factor as seen by winding x3x2 of transformer 2 is 0.866025 leading
+ 
+e) Power Factor as seen by winding x1x2 of transformer 2 is 0.866025 lagging
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The voltampere raing of x1x2 of transformer 1 is 0.288675*VI VA
+ 
+b) The voltampere raing of x1x2 of transformer 1 is 0.57735*VI VA
+ 
+c) The Total Output from transformer 1 is 0.866025*VI VA
+ 
+d) The voltampere raing of x1x2 of transformer 2 is 0.5*VI VA
+ 
+e) The voltampere raing of x1x2 of transformer 2 is 0.5*VI VA
+ 
+f) The Total Output from transformer 2 is 1*VI VA
+ 
+g) The Total Rating to the Maximum Continous Output is 1.07735
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Phasor Currents:
+ 
+Ia is 422.219/_-1.20699 A
+ 
+Ib is 432.316/_186.75 A
+ 
+Ic is 60.1407/_83.1301 A
+ 
+
+b) Suitable ratings of the transformers are 100 kVA and 15 kVA
+ 
+
+c) The Per Unit kVA load on each transformer is 1.01333 pu and 0.96225 pu
+ 
+
+d) The power factor of output of each transformer is 0.855301 and 0.99282 both lagging
+ 
+
+e) The phasor currents at the high voltage leads:
+ 
+IA is 14.074/_-1.20699 A
+ 
+IB is 2.00469/_263.13 A
+ 
+IN is 14.0188/_-9.38806 A
+ 
+
+f) VAN is 7377.32/_31.1604 V and VBN is 7214.11/_-89.764 V
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Value of Constant K is 0.0146655 percent VDpu per kVA mile
+ 
+b) From the precalculated per cent voltage drop Curve, It is found that the K is 
+0.01 percent VDpu per kVA mile which is same as the answer obtained in part a
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Percent Voltage drop in the Main is 5 percent
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.3/4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Percent Voltage drop in the Main is 2.5 percent
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.4/4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Percent Voltage drop in the Main is 3.33333 percent
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.5/4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) Percent VDlumped = 2 Percent VDuniform
+ 
+b) Percent VDlumped = 1.50015 Percent VDincreasing
+ 
+c) Percent VDincreasing = 1.3332 Percent VDuniform
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) 
+
+The Substation Size is
+ 
+ 
+    3000.    3000.    6000.    6000.    10000.    10000.    30000.    30000.  
+ 
+
+The Number of Feeders from the Curve is
+ 
+ 
+    4.    2.    5.    3.    5.    4.    6.    5.  
+ 
+
+Also From the Curve, 1,2,3,4,5,7 cases are VDL but 6 and 8 case are TL
+ 
+
+a) 
+
+The Load Current for 6th Case is 346.965 A, which is less than the ampacities of the main but 
+more than that of the lateral, Hence it is thermally limited but not the main feeder
+ 
+
+The Load Current for 8th Case is 262.432 A, which is less than the ampacities of the main but 
+more than that of the lateral, Hence it is thermally limited but not the main feeder
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) For Thermally Limited 
+ 
+i) The Substation Size = 6628.9 kVA
+ 
+ii) Substation Spacing = 2.57467 miles
+ 
+iii) Maximum Load Per Feeder = 1657.23 kVA
+ 
+iv) The Voltage Drop is 9.95588 percent
+ 
+ 
+
+b) For Voltage Drop Limited 
+ 
+i) The Substation Size = 2979.45 kVA
+ 
+ii) Substation Spacing = 1.72611 miles
+ 
+iii) Maximum Load Per Feeder = 744.863 kVA
+ 
+iv) Ampere Loading of the Main is 0.449464 pu
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.8/4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Voltage drop in Site A is 1.8375 percent
+ 
+The Voltage drop in Site B is 3.25938 percent
+ 
+Comparing the results we find Site A suitable due to its less percent voltage drop
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Parts a,b and c of thhis question cannot be coded
+ 
+d) The substation size and spacing is 14687.1 kVA and 7.66475 miles
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH4/EX4.11/4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) Ratio of substation spacings = 2l2/2l4 = 1.25992
+ 
+b) Ratio of areas covered per feeder main = A2/A4 = 1.5874
+ 
+c) Ratio of substation loads = TS2/TS4 = 0.793701
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ir  =
+ 
+    1.2934567 - 0.9700925i  
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) Vr is 0.773122/_0 pu, del is 1.85306 degrees, Ir = Is = 1.61682/_-36.8699 pu
+ 
+b) Vr is 0.773645/_-2.39343 pu, which is almost equal to the previous case.
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH5/EX5.2/5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The percent voltage drops at :
+ 
+i) 3Phase
+ 
+Lateral End is 4.23818 percent
+ 
+Main End is 6.475 percent
+ 
+ii) 1Phase
+ 
+Lateral End is 16.9527 percent
+ 
+Main End is 6.475 percent
+ 
+
+b) Conductors with Ampacities of 480A and 270A are used to find the Percent voltage drop of the Main and Lateral as 1.9425 percent and 1.69527 percent respectively
+ 
+The Above Drops meet the required criterion of 4 percent voltage drop
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH5/EX5.3/5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The percent voltage drops at :
+ 
+Lateral End is 6.26639 percent
+ 
+Main End is 4.69865 percent
+ 
+ 
+
+b) Conductors with Ampacities of 278A and 174A are used to find the Percent voltage drop of the Main and Lateral as 2.06046 percent and 1.66456 percent respectively
+ 
+The Above Drops meet the required criterion of 4 percent voltage drop
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH5/EX5.4/5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The percent voltage drops at :
+ 
+Lateral End is 0.494455 percent
+ 
+Main End is 1.9425 percent
+ 
+ 
+
+b) The Above Drops meet the required criterion of 4 percent voltage drop
+ 
+
+c) The Difference in Voltage drop is 0.0435921 ohm/mile, which is a smaller VD valuue that it really is.
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH5/EX5.5/5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a)From Table A5, 300-kcmilACSR conductors, with 500A Ampacity is used for main
+and AWG #2 XLPE Al URD cable with 168A Ampacity
+ 
+b) The Total Voltage Drop in Percent for Normal Operation is 1.50489 percent
+ 
+c) The Total Voltage Drop in Percent for Worst Condition is 4.79962 percent
+ 
+d) The Voltage drop is met for Normal operation and NOT for emergency operation
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH6/EX6.1/6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Most Economical SD Size is -85.4132 kmil and the nearest larger standard AWG wire size is 105.5 kmil
+ 
+b) The Most Economical SL Size is -204.987 kmil and the nearest larger standard AWG wire size is 211.6 kmil
+ 
+c) The Most Economical Distribution Transformer Size is 39 kmil and the nearest larger standard transformer size is 50 kVA
+ 
+d) The Total Annual Cost Per Block for the theoretically most economical sizes of equipment is 111.862 dollars
+ 
+e) The Total Annual Cost Per Block for the nearest larger standard comercial sizes of equipment is 843.83 dollars
+ 
+f) The Total Annual Cost Per Block for the nearest larger transformer size and for the second larger sizes of ASD and ASL is 862.067 dollars
+ 
+g) Fixed Charges per Customer per Month is 1.17104 dollars
+ 
+h) The Variable Operating Costs Per Customer Per Month is 1.00721 dollars
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Part A cannot be resulted by this code, hence from the equations obtained in Part A
+ Co-Efficient Matrix is Obtained as
+ 
+ 
+    8.2992918    0.         
+    1.3862944    9.6855861  
+  - 8.2992918  - 9.6855861  
+ 
+
+ * (10^-7) Wb*T/m
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH6/EX6.4/6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z2  =
+ 
+    0.03279 + 0.03899i  
+ 
+ Z3  =
+ 
+  - 0.03279 - 0.03899i  
+ 
+ Z4  =
+ 
+  - 0.88574 + 0.50267i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Secondary Currents are:
+ 
+Ia = 109.376/_-34.7812 A
+ 
+Ib = 124.295/_210.235 A
+ 
+b) The Secondary Neutral Current = 126.208/_82.0057 A
+ 
+c) The Secondary Voltages are:
+ 
+Va = 109.376/_2.08869 V
+ 
+Vb = 124.295/_67.1048 V
+ 
+d) The Resultant Secondary Voltage Vab is 197.222/_36.9266 V
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH6/EX6.5/6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Lowest favourable Voltage is 0.912 pu and The Lowest tolerable voltage is 0.888 pu
+ 
+b) There Are No buses in Table 6-5, for the first contingency outage which satisfy the necessary condition
+ 
+c) For Second Contingency Outage
+ 
+1) Less than Favourable Voltage are B,C,J,K,R and S
+ 
+2) Less than Tolerable Voltage are B,C,J,K.
+ 
+d) ZM/ZT = 2.14675 and (1/2)*ZM/ZT = 1.07338 respectively.
+ 
+The Actual Application Factor is 1.58461
+ 
+Therefore the Design of this network is sufficient
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.2/7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Total Voltage drop is 0.0593859 pu
+ 
+b) The Real Power per Phase is 20.4151 kW
+ 
+c) The Reactive Power per Phase is 9.39455 kVAr
+ 
+d) The Kilovoltampere output and load factor is 22.473 kVA and 0.90843 lagging
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.3/7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Cable Selected is of 100 feet, carrying 100A and cable size #2 AWG
+ 
+The Voltage drop for the above cable is 0.0261361 pu V
+ 
+The Above Value is Close to the Value(0.02613 pu V) in the table given.
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.4/7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Voltage drops are:
+ 
+Transformer is 0.0183246 pu V
+ 
+Secondary Lines is 0.0154044 pu V
+ 
+Service Drops is 0.00491975 pu V
+ 
+Total is 0.0386487 pu V
+ 
+The Above Value doesn't meet the required criterion
+ 
+
+b) The Voltage dip for motor starting are:
+ 
+Transformer is 0.0066769 pu V
+ 
+Secondary Lines is 0.007632 pu V
+ 
+Service Drops is 0.0060984 pu V
+ 
+Total is 0.0204073 pu V
+ 
+The Above Value does meet the required criterion
+ 
+
+C) The Voltage drops after changing the conductors are:
+ 
+Transformer is 0.0183246 pu V
+ 
+Secondary Lines is 0.0134613 pu V
+ 
+Service Drops is 0.00396032 pu V
+ 
+Total is 0.0357463 pu V
+ 
+The Above Value doesn't meet the required criterion
+ 
+Thus 350 kcmilcable size for the secondary lines and #2/0 AWG cable size for service drops to meet the criteria
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.5/7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a)The Load in transformer is 72 kVA or 0.96 pu
+ 
+b) The Total Voltage Drop is 0.0568576 pu V
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.7/7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Percentage drops are
+ 
+ Substation to a is 1.8 percent
+ 
+ a to b is 2.4 percent
+ 
+ b to c is 3.6 percent
+ 
+ c to d is -2.69858 percent
+ 
+b) The Per unit voltages are:
+ 
+ Point a is 1.007 pu V
+ 
+ Point b is 0.983 pu V
+ 
+ Point c is 0.947 pu V
+ 
+ Point d is 0.973986 pu V
+ 
+c) The Line to Neutral voltages are:
+ 
+ Point a is 7673.34  V
+ 
+ Point b is 7490.46  V
+ 
+ Point c is 7216.14  V
+ 
+ Point d is 7421.77  V
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.8/7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Percentage drops are
+ 
+ Substation to a is 0.9996 percent
+ 
+ a to b is 1.5996 percent
+ 
+ b to c is 3.6 percent
+ 
+ c to d is -2.69858 percent
+ 
+b) The Per unit voltages are:
+ 
+ Point a is 0.990004 pu V
+ 
+ Point b is 0.974008 pu V
+ 
+ Point c is 0.938008 pu V
+ 
+ Point d is 0.964994 pu V
+ 
+c) The Line to Neutral voltages are:
+ 
+ Point a is 7543.83  V
+ 
+ Point b is 7421.94  V
+ 
+ Point c is 7147.62  V
+ 
+ Point d is 7353.25  V
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.9/7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) To Achieve Minimum Voltage Drop, The Substation is Placed at the Centre of the Line,
+ and For a Current of 164.02 A following in it, #4 AWG or #2 AWG ACSR conductors are used
+ 
+b) For a #4 AWG Copper Conductor, The Percentage Voltage drop at annual peak load is 4.79403 pecent
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.10/7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Total Annual Eddy Current Loss is 158887 kWhr
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH7/EX7.11/7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Voltage Drops at:
+ 
+Point a is 2.5 percent
+ 
+Point b is 4 percent
+ 
+Point c is 4 percent
+ 
+Point d is 6.5 percent
+ 
+b) The Voltages VaL-N is 7117.5 V and VaL-L is 12333.8 V
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH8/EX8.1/8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The Correction Factor is 0.74
+ 
+b) The Capacitor Size Required is 336.7 kVAr
+ 
+c) Resulting power factor if the next higher standard capacitor size is used is 93.5375 percent
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH8/EX8.2/8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) Rating of Capacitor Bank is 168.458 kVAr
+ 
+b) The Value of Capacitance if there are connected in delta is 8.60703 micro F
+ 
+c) The Value of Capacitance if there are connected in wye is 25.8211 micro F
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH8/EX8.3/8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Uncorrected power factor and reactive load is 0.75 and 317.49 kVAr
+ 
+b) The New Corrected factor after the introduction of capacitor unit is 0.998822
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH8/EX8.4/8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) Since the Apparent Power(7397.77 kVAr) is more than Transformer Capability (7200 kVAr), 
+Hence Additional Capacitors are required
+ 
+b) The Rating of the Addtional capacitor is 646.352 kVAr
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH8/EX8.5/8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Resulting additional savings in kilowatt losses due to power factor improvement at the substation buses is 3427 kW
+ 
+b) The Resulting assitional savings in kilowatt  losses due to the power factor improvement for feeders is 10428 kW
+ 
+c) The Additional Kilowatt Savings is 13855 kW
+ 
+d) The Additional savings in the system kilovoltampere capacity is 1.33339e+06 kVA
+ 
+e) The Additional Capacitors required are 5.59684e+06 kVAr
+ 
+f) The Annual Savings in demand reduction due to capacitors applied to distribution substation buses is approximately is 640610 dollars/year
+ 
+g) The Annual Savings due to the additional released transmission capacity is 7.20031e+06 dollars/year
+ 
+h) The Total Anuual Savings due to the energy loss reduction is 928479 dollars/year
+ 
+i) The Total Annual Cost of the additional capacitors is 5.317e+06 dollars/year
+ 
+j) The Total Annual Savings is 8.7694e+06 dollars/year
+ 
+k) No, Since the total net annual savings is not zero
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.1/9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a)The Setting of the VRR for the highest allowable primary voltage is 124.008 V
+ 
+b) The Maximum Number of Steps of buck and boost for:
+ 
+Off Peak : 4 steps
+ 
+Peak : 12 steps
+ 
+c) At Annual Load, Significant Values on Voltage Curve
+ 
+The Total Voltage Drop is 0.0776 pu V
+ 
+The Minimum Feeder Voltage at the end of the feeder is 0.9558
+ 
+The Minimum and Maximum Primary Voltages at Peak Load is 1.0667 pu V and 1.0083 pu V
+ 
+The Minimum and Maximum Primary Voltages at Peak Load is 1.0334 pu V and 1.0083 pu V
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.2/9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Regulator must be placed at 1.76693 miles from the start of the feeder
+ 
+b) The Regulator must be placed at 2.59076 miles from the start of the feeder
+ 
+c) The Advantage of a over b is that it can compensate for future growth
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.3/9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Calculated Circuit Kilovoltampere Size is 110 kVA, 
+And The corresponding Minimum kilovoltampere size of the regulator size can be found as 114.3 kVA
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.4/9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a)The Best Settings for LDC's R and X, and for the VRR
+ 
+The best settings for LDC of the regulator are when settings for both R and X are zero and VRRpu = 1.035 pu V
+ 
+b)The Voltage Drop occuring in the feeder portion between the regulating point and the end of the feeder is 0.0528165 pu V
+ 
+The Result Files give the Profiles and relevant information about the solution
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.5/9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Regulating Voltage is 1.06665 pu V
+ 
+As per Table 9-6; the primary voltage criteria are met by using the R and X settings
+ 
+b) The Voltage Profiles are given in the result file attached
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.6/9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Number of steps of buck and number is steps of boost in example 9-4 is 0.208 and 3.792 respectively
+ 
+
+b) The Number of steps of buck and number is steps of boost in example 9-5 is 3.392 and 9.056 respectively
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.8/9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Necessary Setting of the voltage-setting dial of the VRR of each single phase regulator in use is 118.804 V
+ 
+b) R and X dial settings of LDS is 3.54331 ohm and 15.8992 ohm respectively
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.9/9_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The NSW Capacitor Rating is 567 kVAr, Which means 2 100kVAr Capacitor Banks per phase
+ 
+
+b) Voltage Rise per unit is 0.0143399 pu V
+ 
+i) When the No Capacitor Bank is Installed 
+ 
+Voltage at 6.66667 miles is 0.966022 pu V
+ 
+Voltage at 10 miles is 0.9574 pu V
+ 
+ii) When the Fixed Capacitor Bank is Installed 
+ 
+Voltage at 6.66667 miles is 0.980362 pu V
+ 
+Voltage at 10 miles is 0.97174 pu V
+ 
+
+c) At Annual Peak Load, The Size of Capacitor Bank Required is 744.939
+ 
+The Voltage Rise at the Annual Load for the Required Capacitor Bank is 0.0282601 pu V
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.10/9_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The The Voltage Rise found out is 0.0221836 pu V, which is greater than the voltage rise criterion.
+Hence 6 Capacitor units of 150 kVAr must be installed
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.11/9_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Voltage dip due to the motor start is 0.730181 V
+ 
+b) From the Permissible voltage flicker limit curve, The Voltage dip of 0.73 V
+with a frequency of 15 times per hour is in the satisfactory flicker zone
+ and therefore is not objectionable to the immediate customers
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH9/EX9.12/9_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Voltage dip due to the motor start is 1.76476 V
+ 
+b) From the Permissible voltage flicker limit curve, The Voltage dip of 1.72 V
+with a frequency of three times per hour is in the satisfactory flicker zone
+ and therefore is not objectionable to the immediate customers
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH10/EX10.1/10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+During Instantaneous Operation
+ 
+|Relay Closing Travel| < |Relay Rest Travel|
+ 
+|7.14286 percent| < |-16.6667 percent|
+ 
+ 
+
+During the Delayed Tripping Operations
+ 
+Total Relay Travel is from:
+ 
+40.4762 percent to -16.6667 percent to 40.4762 percent
+ 
+Since this Net Total Relay Travel is less than 100 percent, 
+the desired rer to relay coordination is accomplished
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH10/EX10.2/10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Zero and Postive sequence impedance of the line to point 10 are:
+ 
+ 
+    0.778272 + 4.005408i  
+ 
+ 
+    0.61248 + 1.275648i  
+ 
+b) The impedance to ground of the line to point 10
+ 
+ 
+    0.667744 + 2.185568i  
+ 
+c) The Total positive sequence impedance including system impedance is
+ 
+ 
+    1.33238 + 4.737548i  
+ 
+d) The Total Impedance to ground to point 10 including system impedance is
+ 
+ 
+    1.286844 + 5.525268i  
+ 
+All the Above impedances are in ohm
+ 
+e) The Three phase fault current at point 10 is 1463.02 A
+ 
+f) The line to line fault current at point 10 is 1266.97 A
+ 
+g) The Line to Ground Current at point 10 is 1269.14 A
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH10/EX10.3/10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) For Maximum Power Generation:
+ 
+Bus 1
+ 
+3 phase fault current is 5020.44 A and 600 MVA
+ 
+Line to Line fault current is 4347.7 A and 299.991 MVA
+ 
+Line to ground fault current is 7530.66 A and 300 MVA
+ 
+Bus 2
+ 
+3 phase fault current is 3156.76 A and 68.1818 MVA
+ 
+Line to Line fault current is 2733.75 A and 34.0899 MVA
+ 
+Line to ground fault current is 3281.04 A and 23.622 MVA
+ 
+
+b) For Minimum Power Generation:
+ 
+Bus 1
+ 
+3 phase fault current is 3012.26 A and 360 MVA
+ 
+Line to Line fault current is 2608.62 A and 179.995 MVA
+ 
+Line to ground fault current is 4518.39 A and 180 MVA
+ 
+Bus 2
+ 
+3 phase fault current is 2934.45 A and 63.3803 MVA
+ 
+Line to Line fault current is 2541.24 A and 31.6892 MVA
+ 
+Line to ground fault current is 3117.4 A and 22.4439 MVA
+ 
+ 
+ 
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH10/EX10.4/10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Impedance of the substation in ohms
+ 
+ 
+    0.2073345 + 1.4364558i  
+ 
+b) The Positive And Zero Sequence Impedances in  ohms
+ 
+ 
+    0.087 + 0.1812i  
+ 
+ 
+    0.1653 + 0.4878i  
+ 
+c) The Line to Ground impedance in the primary system in ohms
+ 
+ 
+    0.1131 + 0.2834i  
+ 
+d) The Total Impedance through the primary in ohms
+ 
+ 
+    0.3204345 + 1.7198558i  
+ 
+e) The Total Primary Impedance referred to the secondary in ohms
+ 
+ 
+    0.0003560 + 0.0019110i  
+ 
+f) The Distribution transformer impedance in ohms
+ 
+ 
+    0.00576 + 0.0093056i  
+ 
+g) the Impedance of the secondary cable in ohms
+ 
+ 
+    0.02796 + 0.001758i  
+ 
+h) The Total Impedance to the fault in ohms
+ 
+ 
+    0.0340760 + 0.0129745i  
+ 
+i) The Single Phase line to line fault for the 120/240 V three-wire service in amperes is 6582.1 A
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.1/11_1.sce #
+ 
+ 
+ 
+ 
+ Rsys  =
+ 
+    0.99  
+ 
+ 
+ 
+ 
+ 
+The Approximate Value of The component reliability is 0.999333
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.2/11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ct  =
+ 
+    0.003  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The Total Annual Fault Rate is 0.706 faults per year
+ 
+b) The Annual Fault Restoration Time is 6.54108 hours per fault per year
+ 
+c) Unavailability of the feeder is 0.0746698 percent
+ 
+d) Availability of the feeder is 99.9253 percent
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.3/11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+i) The Annual Sustained Interruption Rates for:
+ 
+Customer A : 0.64 faults per year
+ 
+Customer B : 0.54 faults per year
+ 
+Customer C : 0.54 faults per year
+ 
+
+ii) The Average Annual Repair Time (Restoration Time) for:
+ 
+Customer A : 1.5625 hours per fault per year
+ 
+Customer A : 1.98148 hours per fault per year
+ 
+Customer A : 2.38889 hours per fault per year
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.4/11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Equivalent System reliability for:
+ 
+a) Configuration A : 0.522006
+ 
+b) Configuration B : 0.771522
+ 
+c) Configuration C : 0.851917
+ 
+d) Configuration D : 0.831951
+ 
+e) Configuration E : 0.912992
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.5/11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The Equivalent system Reliability is 0.440154
+ 
+b) One Each of B,C and D all connected in series are connected in series
+with the series combination of X(Comination of 2 elements of A, All Connected in Parallel)
+and Y(Comination of 3 elements of E, All Connected in Parallel) to achieve 
+0.8 Equivalent System Realibility
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.6/11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PfA  =
+ 
+    0.09405  
+ 
+ PfB  =
+ 
+    0.04455  
+ 
+ PfC  =
+ 
+    0.00855  
+ 
+ 
+ PfAB  =
+ 
+    0.00495  
+ 
+ PfBC  =
+ 
+    0.00045  
+ 
+ PfCA  =
+ 
+    0.00095  
+ 
+ 
+ 
+ 
+
+a) Probability of No Transformer Failing is 0.84645
+ 
+
+b)
+ 
+Probability of Transformer A Failing is 0.09405
+ 
+Probability of Transformer B Failing is 0.04455
+ 
+Probability of Transformer C Failing is 0.00855
+ 
+
+c)
+ 
+Probability of Transformers A and B Failing is 0.00495
+ 
+Probability of Transformers B and C Failing is 0.00045
+ 
+Probability of Transformers C and A Failing is 0.00095
+ 
+
+d) Probability of All Three Transformers Failing is 5e-05
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.7/11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Conditional Probabilites for
+ 
+Transformers Down in Present and Down in Future is 0.02
+ 
+Transformers Down in Present and Up in Future is 0.02
+ 
+Transformers Up in Present and Down in Future is 0.02
+ 
+Transformers Up in Present and Up in Future is 0.02
+ 
+
+b) The Transition Matrix is
+ 
+ 
+    0.02    0.98  
+    0.05    0.95  
+ 
+
+c) The Transition Diagram can be viewed with the result file attached to this code
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.9/11_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Vector of State Probability at time t1 is
+ 
+ 
+    0.54    0.46  
+ 
+
+a) The Vector of State Probability at time t4 is
+ 
+ 
+    0.43158    0.56842  
+ 
+
+a) The Vector of State Probability at time t8 is
+ 
+ 
+    0.4285958    0.5714042  
+ 
+ 

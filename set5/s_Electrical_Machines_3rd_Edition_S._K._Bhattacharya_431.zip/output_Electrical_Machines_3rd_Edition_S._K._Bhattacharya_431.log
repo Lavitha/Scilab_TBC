@@ -1,0 +1,3507 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 109
+
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.4/EX2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 2.4   
+ 
+ P  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    400.  
+ 
+ n  =
+ 
+    300.  
+ 
+ E  =
+ 
+    200.  
+ 
+ A  =
+ 
+    2.  
+ 
+ N  =
+ 
+    1200.  
+ 
+ phi  =
+ 
+    0.1  
+ 
+ t  =
+ 
+    0.15  
+ 
+magnitude of flux at the end of 15sec is 0.100000 wb 
+ e  =
+ 
+    800.  
+ 
+
+induced emf in the field coil= 800 volts 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.6/EX2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 2.5   
+ 
+ P  =
+ 
+    8.  
+ 
+ A  =
+ 
+    8.  
+ 
+ Z  =
+ 
+    960.  
+ 
+ N  =
+ 
+    400.  
+ 
+ phi  =
+ 
+    0.04  
+ 
+ E  =
+ 
+    256.  
+ 
+emf generated on open circuit condition, E=256 volts 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.7/EX2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 2.7   
+ 
+ 
+ flux is constant   
+ 
+ 
+ K1  =
+ 
+    0.36  
+ 
+K1=0.360000 
+ E1  =
+ 
+    216.  
+ 
+
+ induced emf at 600rpm is=216 V 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.8/EX2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 2.8   
+ 
+ 
+ assuming constant flux   
+ 
+ 
+ 
+ K1  =
+ 
+    0.2933333  
+ 
+ 
+ N2  =
+ 
+    852.27273  
+ 
+speed at induced emf of 250V =852 rpm 
+ 
+ when induced emf is 250V and speed 700 rpm   
+ 
+ 
+ 
+ ratio  =
+ 
+    1.2175325  
+ 
+ Pi  =
+ 
+    21.753247  
+ 
+percentage increase in flux is 21.753247 percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.9/EX2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 2.9   
+ 
+ E  =
+ 
+    200.  
+ 
+ I  =
+ 
+    15.  
+ 
+ n  =
+ 
+    1200.  
+ 
+ 
+omega=125.600000 
+ 
+ 
+electromagnetic torque=23.885350 Nm 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.10/EX2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.10   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total induced emf=62.800000 V 
+ 
+ 
+
+The current through the armature coil when connected to the load,I=15.700000 A 
+ T  =
+ 
+    6.28  
+ 
+
+torque=6.280000 Nm 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.11/EX2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.11   
+ 
+ 
+ 
+ 
+ 
+ E  =
+ 
+    220.4  
+ 
+induced emf,E=220.400000V 
+ Te  =
+ 
+    26.448  
+ 
+
+the electromagnetic torque=26.448000Nm 
+ Pi  =
+ 
+    2760.  
+ 
+
+electrical input to the armature,Pinput= 2760W 
+ Pd  =
+ 
+    2644.8  
+ 
+
+mechanical developed=2644.800000W 
+ loss  =
+ 
+    115.2  
+ 
+
+armature copper loss=115.200000W 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.12/EX2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.11   
+ 
+ 
+ 
+ 
+ 
+ E  =
+ 
+    220.4  
+ 
+induced emf,E=220.400000V 
+ Te  =
+ 
+    26.448  
+ 
+
+the electromagnetic torque=26.448000Nm 
+ Pi  =
+ 
+    2760.  
+ 
+
+electrical input to the armature,Pinput= 2760W 
+ Pd  =
+ 
+    2644.8  
+ 
+
+mechanical developed=2644.800000W 
+ loss  =
+ 
+    115.2  
+ 
+
+armature copper loss=115.200000W 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.13/EX2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.13   
+ 
+ 
+ At generator condition   
+ 
+ 
+ 
+ 
+ 
+ If  =
+ 
+    5.  
+ 
+ 
+field current,If=5A 
+ Il  =
+ 
+    200.  
+ 
+
+Load current,If=200A 
+ Ia  =
+ 
+    205.  
+ 
+
+Aramture current,If=205A
+ 
+ Eg  =
+ 
+    254.1  
+ 
+ 
+ At motor condition   
+ 
+ Ia  =
+ 
+    195.  
+ 
+Aramture current,If=195A 
+ Em  =
+ 
+    246.1  
+ 
+
+Em=246.100000V 
+ Nm  =
+ 
+    387.40653  
+ 
+
+Speed of the motor=387rpm 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.14/EX2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.14   
+ 
+ 
+ 
+ 
+ 
+ If  =
+ 
+    2.5  
+ 
+Field current,If=2.500000 
+ 
+ When machine is generating   
+ 
+ Ia  =
+ 
+    82.5  
+ 
+ Eg  =
+ 
+    259.9  
+ 
+
+Ia=82.500000A 
+
+Eg=259.900000V 
+ 
+ When machine is motoring   
+ 
+ Ia  =
+ 
+    77.5  
+ 
+ Em  =
+ 
+    240.7  
+ 
+
+Ia=77.500000A 
+
+Eg=240.700000V 
+ ratio  =
+ 
+    1.0797673  
+ 
+
+Ratio of speeds=1.079767 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.15/EX2_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.15   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ia  =
+ 
+    2727.2727  
+ 
+Full load current=2727.272727A 
+ Ra  =
+ 
+    0.0033611  
+ 
+
+Ra=0.003361ohms 
+ E  =
+ 
+    559.16667  
+ 
+
+Induced emf=559.166667volts 
+ phi  =
+ 
+    0.0894667  
+ 
+
+flux density=0.900000Wb/m^2 
+
+flux=0.089467Wb 
+ area  =
+ 
+    0.0994074  
+ 
+
+ Area of pole shoe=994.074074cm^2 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.16/EX2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.16   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+peripheral speed of commutator,V=23.864000m/sec 
+ 
+
+Time of commutation=0.000629seconds 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.17/EX2_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.17   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At no-load   
+ 
+E=239.200000V 
+ 
+
+If=1.500000A 
+ 
+
+K1=0.199333 
+ 
+ At a load of 30A   
+ 
+ 
+ 
+ 
+ 
+If1=1.207182A
+ 
+ 
+ 
+
+Extra resistance required in the field circuit,R=38.810149ohms 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.18/EX2_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.18   
+ 
+ 
+ 
+ 
+ 
+E=220V 
+ 
+ when extra resistance is added in the armature circuit,the speed is halved   
+ 
+ 
+ 
+ 
+ The load torque is conatant   
+ 
+extra resistance in the armature circui,R=5.500000ohms 
+ 
+ The load torque directly proportional to square of speed   
+ 
+ 
+ if N is halfed, Iais one-fourthed   
+ 
+ 
+ 
+extra resistance in the armature circui,R=23.500000ohms 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.19/EX2_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.19   
+ 
+ 
+ 
+ 
+ 
+ 
+E=235V 
+ 
+ when extra resistance is added in the armature circuit when the speed is 800rp 
+      m                                                                         
+ 
+ 
+ 
+
+E at 800rpm=188V 
+ 
+
+extra resistance in the armature circui,R=0.940000ohms 
+ 
+ if load is halfed,Ia will be halfed   
+ 
+ 
+ 
+E1=219V 
+ 
+
+N1=931.914894rpm 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.20/EX2_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.20   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ at a load current of 50A   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N2=993.670467rpm 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.21/EX2_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.21   
+ 
+ 
+voltage drop across each brush=486.000000V 
+ 
+ N  =
+ 
+    675.  
+ 
+
+full load speed of the motor=675.000000rpm 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.22/EX2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.22   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ia1=35.355339A 
+ 
+ 
+ 
+ 
+
+value of extra resistance added=6.511746ohms 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX2.22/EX2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.22   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ia1=35.355339A 
+ 
+ 
+ 
+ 
+
+value of extra resistance added=6.511746ohms 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.23/EX2_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.23   
+ 
+ 
+ 
+ 
+ 
+ 
+In first case,E=186.000000V 
+ 
+ 
+ 
+ 
+ 
+ when resistace R is added and new conditions   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Induced emf=188.000000V 
+ 
+ N1  =
+ 
+    1443.9324  
+ 
+
+N1=1443.932412rpm 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.24/EX2_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.24   
+ 
+ 
+resistance when 1ohm=185.000000V 
+ E2  =
+ 
+    110.  
+ 
+
+Resistance when 5ohms connected in series=110.000000V 
+ 
+
+speed at which motor will run when resistance is 5ohms=475.675676rpm 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.25/EX2_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.25   
+ 
+ 
+ Mu  =
+ 
+    0.0000013  
+ 
+ 
+current for each commutating pole=9744.824841 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.26/EX2_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.26   
+ 
+Armature current=1000.000000 
+
+Number armature winding turns=270.000000 
+
+Number of armature turns per parallel path=45.000000 
+ 
+
+Number of armature ampere turns per pole=7500.000000 
+ 
+ Mu  =
+ 
+    0.0000013  
+ 
+
+ampere turns for the air gap=2388.535032 
+
+Total interpole ampere turns=9888.535032 
+ 
+
+Number of turns needed on each commutating pole=9.888535 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.27/EX2_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.27   
+ 
+radius of the drum=22.500000cm 
+ 
+ 
+
+output power=5101.043040W 
+ 
+
+input power =6440.000000W 
+ 
+
+Efficiency of the motor=79.208743percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.29/EX2_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.29   
+ 
+ 
+ 
+ Effi  =
+ 
+    87.301587  
+ 
+Efficiency as a generator when delivering 40A at 220V=87.301587percent 
+ 
+
+Efficiency as a motor when taking 40A from at 220V=86.363636percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.30/EX2_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.30   
+ 
+iron,friction and windage in losses=1195.500000W 
+ 
+
+Efficiency of full load=84.262500percent 
+ 
+ 
+ 
+
+Percentage change in speed from no load to full load=5.646173percent 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.31/EX2_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.31   
+ 
+ 
+efficiency of the machine=89.588435percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.32/EX2_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.32   
+ 
+ 
+Efficiency of the motor=90.520833percent 
+ 
+
+Efficiency of the generator=92.059839percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.33/EX2_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.33   
+ 
+ 
+ 
+approximate efficiency=91.363261percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.34/EX2_34.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 2.34   
+ 
+Efficiences of the generator at full load assuming equal efficiencies=91.669850percent 
+ 
+
+Efficiency of the generator at full load=91.846461percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.1/EX3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.1   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+number of turns in primary  winding,N1=2750turns 
+ 
+ I2  =
+ 
+    1250.  
+ 
+
+primary current,I1=45.454545A 
+
+secondary current,I2=1250.000000A 
+ 
+ phi  =
+ 
+    0.0180180  
+ 
+
+maximium flux in the core=0.018018Wb 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.2/EX3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.2   
+ 
+ 
+ 
+ 
+ 
+ 
+ phi  =
+ 
+    0.06875  
+ 
+flux=0.068750Wb 
+ 
+ 
+ 
+ 
+
+number of turns in primary winding,N1=432turns 
+
+number of turns in secondary winding,N2=15turns 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.3/EX3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.3   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ since at no-load E2=V2   
+ 
+ 
+induced secondary winding,E2=920V 
+ 
+ 
+
+Maximium flux density in the core=0.414414Wb/m^2 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.4/EX3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.3   
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    0.0334687  
+ 
+Total resistance of the transformer in terms of the secondary winding=0.033469ohms 
+ 
+
+Full load secondary current=160A 
+
+Total resistance load on full load=5.355000Volts 
+
+Total copper loss on full load=856.800000Watts 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH2/EX2.5/EX3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.5   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phi  =
+ 
+    38.106703  
+ 
+primary power factor=0.786863degrees 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.5/EX3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.5   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phi  =
+ 
+    38.106703  
+ 
+primary power factor=0.786863degrees 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.6/EX3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.6   
+ 
+ 
+ phi0  =
+ 
+    78.463041  
+ 
+ 
+ phi2  =
+ 
+    36.869898  
+ 
+ 
+ 
+ 
+ 
+ 
+I1=14.489406A 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.7/EX3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.7   
+ 
+ 
+ 
+ 
+ 
+ 
+ Im  =
+ 
+    4.3571063  
+ 
+magnetising current,Im=4.357106A 
+ 
+
+Core loss=258W 
+ 
+ neglecting I^2R loss in primary winding at no-load   
+ 
+ 
+ 
+
+Maximium value of flux in the core=0.004144Wb 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.8/EX3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.8   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phi  =
+ 
+    33.722026  
+ 
+I1=11.361713A 
+
+primary power factor=0.831741degrees 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.9/EX3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.9   
+ 
+ 
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    239.76  
+ 
+ 
+V1=239V 
+ 
+ 
+ 
+
+Im=0.966575A 
+ V2  =
+ 
+    719.28  
+ 
+
+V2=719.280000V 
+ 
+ At a load of 1.2kVA and power factor of 0.8 lagging   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+I1=5.825933A 
+ 
+
+primary power factor=0.844673lagging 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.11/EX3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.11   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rr2  =
+ 
+    0.25  
+ 
+R2=0.250000 ohms 
+ 
+
+X2=0.875000 ohms 
+ 
+
+Equivqlent impedence=2.050152 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.12/EX3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.11   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+equivalent resistance reffered to primary,Re=1.980000ohms 
+ 
+
+equivalent reactance reffered to primary,Xe=9.680000ohms 
+ 
+
+equivalent impedance reffered to primary,Ze=9.880425ohms 
+ 
+
+secondary current reffered to primary side=1200.000000A 
+
+(a)Voltage to be applied to the high voltage side=11856volts 
+
+(b)Power factor=0.200396 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.13/EX3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.13   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equivalent resistance referred to primary side=0.399573ohms 
+ 
+
+Equivalent reactance referred to primary side=1.906048ohms 
+ 
+
+equivalent impedance reffered to primary,Ze=1.947480ohms 
+ 
+ 
+
+I1=205.393656 
+
+Power input=16856.612924W 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.14/EX3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.14   
+ 
+ 
+ 
+ 
+ 
+Primary winding resistance referred to secondary side=0.268000ohms 
+
+secondary winding resistance referred to primary side=0.058250ohms 
+
+Total resistance of the transformer refferred to primary side=1.200000ohms 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.15/EX3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.15   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Re  =
+ 
+    20.888469  
+ 
+equivalent resistance,Re=20.888469ohms 
+ 
+ 
+ 
+
+percentage regulation=2.609097percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.16/EX3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.16   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+equivalent resistance referred to the secondary=0.420000ohms 
+ 
+equivalent reactance referred to the secondary=0.930000ohms 
+ 
+equivalent impedance referred to the secondary=1.020441ohms 
+ 
+ 
+
+Voltage across the full load and 0.8 p.f lagging=374.500000V 
+ 
+
+percentage voltage regulation=6.809079 percent 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.17/EX3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.17   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phi  =
+ 
+    36.869898  
+ 
+ 
+ 
+ I2Xe  =
+ 
+    13.856406  
+ 
+ reg  =
+ 
+    7.3569219  
+ 
+percentage regulation=7.356922percent 
+ pf  =
+ 
+    0.8660254  
+ 
+
+Power factor for zero regulation=0.866025(leading) 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.19/EX3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.19   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Psc  =
+ 
+    540.  
+ 
+ phi  =
+ 
+    36.869898  
+ 
+ effi  =
+ 
+    97.560976  
+ 
+From the open-circuit test, core-loss=460W 
+
+From short circuit test, copper loss=540W 
+
+The efficiency at full-load and 0.8 lagging power factor=97.560976 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Voltage regulation=3percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.20/EX3_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.20   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Total resistance=4.360000ohms 
+
+Total impedence=10.000000ohms 
+ 
+ 
+
+full voltage current,V1=6735V 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.21/EX3_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.21   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From open circuit test , cos(phi0)=-0.606173 
+ 
+
+Loss component of no-load current,Ic=0.320000A 
+ 
+
+Magnetising current,Im=0.947418A 
+ 
+ 
+ 
+ 
+ 
+
+
+Equvalent resistance referred to secondary=0.694444ohms 
+
+Equvalent reactance referred to secondary=1.515099ohms 
+
+Equvalent impedance referred to secondary=1.666667ohms 
+ 
+
+
+Equvalent resistance referred to primary=0.173611ohms 
+
+Equvalent reactance referred to primary=0.378775ohms 
+
+Equvalent impedance referred to primary=0.416667ohms 
+ 
+ 
+ 
+ 
+
+Effiency=96.398447percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.22/EX3_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.22   
+ 
+ 
+ 
+ 
+ 
+ 
+
+Core loss of two transformer=3.400000kW 
+
+Core loss of each transformer=1.700000kW 
+
+Full load copper loss of the two transformer=5.200000kW 
+Therefore,full load copper loss of each transformer=2.600000kW 
+ effi  =
+ 
+    97.382836  
+ 
+
+Full load efficiency at 0.8 p.f. lagging=97.382836percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.24/EX3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.24   
+ 
+ 
+ 
+ 
+ pf  =
+ 
+    0.8  
+ 
+ 
+ 
+ 
+ 
+Full load secondary current,I2=208.333333A 
+ effi  =
+ 
+    89.217075  
+ 
+
+Efficiency=89.217075percent 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.25/EX3_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.25   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Primary winding current=75.757576A 
+ 
+
+Secondary winding current=1250.000000A 
+ 
+
+Copper losses in the two winding=3858.184114Watts 
+ 
+
+Efficiency at 0.8 p.f=98.314355percent 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.26/EX3_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.26   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficiency is maximium when,core-loss=copper-loss   
+ 
+ 
+ 
+ Maximium efficiency occurs at 240kw,0.8 power factor,i.e., at 300kVA load   
+ 
+ 
+ 
+ 
+ 
+
+Efficiency at full-load and 071 power factor=98percent 
+ pf2  =
+ 
+    1.  
+ 
+ MAXeffi  =
+ 
+    98.684211  
+ 
+
+Maximium efficiency at 300kVA and unity power factor=98.684211percent 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.27/EX3_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.27   
+ 
+ 
+ 
+ 
+ 
+ 
+Full-load efficiency=96.240602percent 
+ 
+ For maximium efficiency, Core loss=copper loss   
+ 
+ 
+ 
+ 
+ 
+
+Value of maximium efficiency=96.385542percent 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.28/EX3_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.29   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Full-load copper loss=375.000000W 
+ 
+
+Total loss on full load=0.575000kW 
+ TL2  =
+ 
+    0.29375  
+ 
+
+Total loss on half load=0.293750kW 
+ 
+
+Efficiency at full load,0.8 power factor lagging=98.582871 percent 
+ 
+
+Efficiency at half load,0.8 power factor lagging=98.552510 percent 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.29/EX3_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.30   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Input at 75percent of full load=7.812500kW 
+ 
+
+Total losses=0.312500kW 
+ 
+ 
+ 
+ Maximiunm efficiency occurs at 3/4th of full load   
+ 
+ 
+
+Thus,total losses on full load=434.027778W 
+ 
+ 
+
+Efficiency on full load. 0.8 power factor lagging=94.853849percent 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.30/EX3_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.31   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Output at maximium efficiency=375000watts 
+ 
+
+Thus, at maximium efficiency,
+  lossses=11597.938144W 
+ 
+
+Copper losses at 75percent of full load=5798W 
+ 
+
+Copper losses at full load=10309W 
+ 
+ 
+ 
+ 
+ 
+
+percentage regulation=7.520562 percent 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.32/EX3_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.32   
+ 
+ 
+ 
+ 
+ 
+ 
+Primary current,I1=65.217391A 
+
+Load current,I1=200.000000A 
+
+cirrent flowing through the common portion of winding=134.782609A 
+
+Economy in saving in copper in percentage=32.608696percent 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.1/EX4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 4.1   
+ 
+ 
+ 
+ 
+ 
+ 
+Syhchronous speed,Ns=1000 
+ 
+ 
+speed of rotor with slip 4 percent,Nr is 960 rpm 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.2/EX4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 4.2   
+ 
+ 
+ 
+ 
+ 
+when P=2, Syhchronous speed,Ns=3000 
+ 
+ 
+when P=2, Syhchronous speed,Ns=1500 
+ 
+ 
+when P=2, Syhchronous speed,Ns=1000 
+ 
+ 
+when P=2, Syhchronous speed,Ns=750 
+ 
+ 
+ for Nr to be 1440 , Ns will be 1500, thus p=4   
+ 
+ 
+ 
+slip=4
+ 
+ 
+ for Nr to be 940 , Ns will be 1000, thus p=6   
+ 
+ 
+ 
+slip=6
+ 
+ 
+ motor running at 940 rpm is running at higher slip   
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.3/EX4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 4.3   
+ 
+ 
+ induction motor is to be run at 1440 rpm   
+ 
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+frequency=50 
+ 
+ when P=2   
+ p  =
+ 
+    2.  
+ 
+ 
+Syhchronous speed,Ns=3000 
+ 
+ 
+ when P=4   
+ 
+ 
+Syhchronous speed,Ns=1500 
+ 
+ 
+ 
+ speed of rotor(1440) is less than synchronous speed 1500, therefore P=4\n   
+ 
+ 
+ 
+ S  =
+ 
+    4.  
+ 
+
+slip is 4 percent and number of poles is 4 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.4/EX4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.4   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rotor frequency=2Hz 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.5/EX4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.5   
+ 
+ 
+synchronous speed=750.000000rpm 
+ 
+
+motor running speed=727.500000rpm 
+ 
+
+slip percent=3.000000percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.6/EX4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.7   
+ 
+ 
+ 
+ 
+ 
+ 
+ When S=0.04   
+ 
+ 
+ I2  =
+ 
+    46.040926  
+ 
+I2=46A 
+ 
+
+Phase angle between rotor voltage and rotor current=4.573921 degrees 
+ 
+ When S=1   
+ 
+ 
+ I2  =
+ 
+    516.39778  
+ 
+I2=516A 
+ 
+
+Phase angle between rotor voltage and rotor current=63.434949 degrees 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.7/EX4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.7   
+ 
+ 
+ 
+ 
+ 
+ 
+ When S=0.04   
+ 
+ 
+ I2  =
+ 
+    46.040926  
+ 
+I2=46A 
+ 
+
+Phase angle between rotor voltage and rotor current=4.573921 degrees 
+ 
+ When S=1   
+ 
+ 
+ I2  =
+ 
+    516.39778  
+ 
+I2=516A 
+ 
+
+Phase angle between rotor voltage and rotor current=63.434949 degrees 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.8/EX4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.8   
+ 
+ 
+ Nr  =
+ 
+    1455.  
+ 
+ 
+synchronous speed=1500.000000rpm 
+
+speed of running motor=1455.000000rpm 
+
+rotor frequency=1.500000Hz 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.9/EX4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.9   
+ 
+ 
+ 
+percentage slip=4.000000percent 
+
+rotor speed=960.000000rpm 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.10/EX4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.10   
+ 
+ 
+ 
+ 
+frequency of rotor current=1.546392Hz 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.11/EX4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.11   
+ 
+Rotor induced emf at a slip E2=23.094011V 
+
+Rotor impedence at a slip S, Z2=0.984886ohms 
+ 
+
+rotor current=23.448415A 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.12/EX4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.12   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power developed by the rotor=46.560000kW 
+ 
+ 
+
+Output power=45.560000kW 
+ 
+
+Efficiency of the motor=91.120000 percent 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.13/EX4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.13   
+ 
+ 
+ 
+ 
+ 
+Output of the motor=14710.000000W 
+ 
+
+Power developed by the rotor=15210W 
+ 
+ 
+
+Rotor I^2R-loss=633.750000W 
+ 
+
+Ns=1500rpm 
+ 
+Nr=1440rpm 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.14/EX4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.14   
+ 
+ 
+ 
+ 
+ 
+Syncronous speed,Ns=1000rpm 
+ 
+ 
+
+Slip,S=0.060000 
+
+standstill rotor reactance,X20=1.666667ohms 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.15/EX4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.15   
+ 
+ 
+ 
+ 
+ 
+ 
+Synchronous speed=1500rpm 
+ 
+Full-load slip with rotor resistance,R2 i.e. S1=4.000000 
+ 
+ on adding extra resistance o.1ohm   
+ 
+ 
+ 
+ 
+
+New rotor speed=1380rpm 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.16/EX4_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.16   
+ 
+ 
+ 
+ 
+ 
+Syncronous speed=1500rpm 
+ 
+ 
+
+Slip at maximium torque=0.200000 
+ 
+ 
+ 
+ 
+
+Therefore, starting torque is 38.461538percent of the maximium torque 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.18/EX4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.18   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S1=0.040000 
+ 
+ 
+ 
+ R2dash  =
+ 
+    1.25  
+ 
+
+Extra resistance to be connected in the  motor circuit=1.000000ohms 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.20/EX4_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.20   
+ 
+ 
+ 
+ 
+ 
+ 
+ losses  =
+ 
+    294.2  
+ 
+ 
+ 
+rotor copper loss=464.047423W 
+ Ri  =
+ 
+    15468.247  
+ 
+
+Rotor input=15468.247423W 
+ 
+ 
+ 
+
+output torque=96.592028Nm 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.21/EX4_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.21   
+ 
+ 
+ 
+the slip=0.025000 
+ 
+
+rotor copper losses=0.975000kW 
+ 
+
+output horse output=48.980286HP 
+ 
+
+efficiency=90.062500percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.22/EX4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.22   
+ 
+ 
+synchronous speed=1000.000000rpm 
+ 
+
+the slip=0.040000 
+ 
+
+rotor speed=960.000000rpm 
+ 
+
+mechanical power developed=104.418763hp 
+ 
+
+rotor resistance per phase at rotor current 60A=0.296296ohms 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.23/EX4_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.23   
+ 
+ 
+ 
+ 
+ 
+ At starting contion since Tm=Ts   
+ 
+ a  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+extra resistance added,r=0.350000ohms 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.24/EX4_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.24   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+synchronous speed=1000rpm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Slip at maximium torque,Sm=0.075000 
+ 
+ 
+
+Rotor speed at maximium torque=925rpm 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.25/EX4_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.25   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+voltage at maximium torque=333.333333volts 
+ 
+
+Full-load current at 333.3 volts is=150.000000A 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.26/EX4_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.26   
+ 
+ 
+ 
+ 
+current taken when delta-connected=75A 
+ 
+
+current taken when star-connected=25A 
+ 
+ 
+ 
+ 
+ 
+
+Starting torque with winding star connected=0.500000 times of Tfl 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.28/EX4_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.28   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S  =
+ 
+    0.04  
+ 
+ At slip=0.04 
+
+For direct-on-line starting, (Tst/Tfl)=1.440000 
+ 
+ 
+
+For direct-on-line starting, (Tst/Tfl)=0.480000 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.29/EX4_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.29   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Slip at maximium torque,Sm=0.040000 
+ 
+ Nr  =
+ 
+    1440.  
+ 
+ 
+ 
+ 
+
+full load speed,Nr=1485rpm 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.30/EX4_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.30   
+ 
+ 
+ 
+ 
+ 
+Synchronous speed,Ns=1500rpm 
+ 
+ 
+ 
+
+Output power=14710.000000W 
+ 
+
+Output torque=97.598195Nm 
+ 
+ 
+
+Power developed by the rotor=15004.200000W 
+ 
+ 
+
+Rotor I^2R-loss=625.175000W 
+ 
+
+Rotor input=15629W 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.31/EX4_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.31   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Full-load I^2R losses=735.000000W 
+ 
+ 
+ 
+
+I^2R loss at no-load=129.654000W 
+ 
+
+Core loss plus friction and windage loss=145W 
+ 
+ 
+
+Efficiency=80.685043percent 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.32/EX4_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.32   
+ 
+ 
+ 
+ 
+ 
+ 
+ IFL  =
+ 
+    30549.046  
+ 
+Input to the motor on full load=30549W 
+ 
+ SLFL  =
+ 
+    1250.  
+ 
+
+Stator I^2R loss on full load=1250W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RI  =
+ 
+    28399.046  
+ 
+ 
+ 
+ 
+ 
+
+Efficiency=87.279597 percent 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.33/EX4_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.33   
+ 
+induced emf per phase=57.735027V 
+ I2  =
+ 
+    8.56444  
+ 
+
+rotor current at slip 0.03 =8.564440A per phase 
+ 
+ I2m  =
+ 
+    40.824829  
+ 
+
+rotor current when the rotor develops maximum torque=40.824829A per phase 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.34/EX4_34.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.34   
+ 
+ 
+ 
+Synchronous speed=1500.000000rpm 
+ Nr  =
+ 
+    1459.6396  
+ 
+ 
+ Nr  =
+ 
+    1200.  
+ 
+ I2  =
+ 
+    48.989795  
+ 
+
+rotor current at maximum torque=48.989795Aper Phase 
+ 
+
+Rotor input for the three phase=7200.000000W 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH4/EX4.35/EX4_35.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 4.35   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X2  =
+ 
+    0.6002449  
+ 
+ 
+Thus the elements of the equivalent circuit are: 
+
+Rm=13964.632361ohms 
+
+Xm=11.763476ohms 
+
+
+R1=0.015000ohms 
+
+rotor resistance referred to stator side,R2=0.437675ohms 
+
+equivalent resistance referred to stator side,Re=0.452675ohms 
+ 
+
+
+X1=0.600245ohms 
+
+rotor reactance referred to stator side,X2=0.600245ohms 
+
+equivalent reactance referred to stator side,Xe=1.200490ohms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.1/EX5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.1   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+number of slots per pole per phase,m=3
+ 
+emfs of the oils of each phase will have a time-phase difference of  20 degree mechanical 
+ 
+ 
+distribution factor=0.959795 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.2/EX5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.2   
+ 
+
+ 
+ 
+ 
+ 
+ 
+number of slots per phase= 12
+ 
+ 
+number of slots per pole per phase,m=3
+ 
+ 
+ SA_e  =
+ 
+    20.  
+ 
+slot angle= 20 degree electrical
+ 
+ 
+distribution factor= 0.959795 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.3/EX5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.3   
+ 
+
+ 
+ 
+ 
+ 
+ 
+total number of slots= 48
+ 
+slot angle= 7.500000 degree mechanical
+ 
+ 
+ 
+ 
+ 
+pitch factor=0.991445 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.4/EX5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.4   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+flux per pole=0.150000Wb
+ 
+number of turns per phase=120
+ 
+pitch factor=1.000000
+ 
+ 
+ 
+ 
+ 
+distribution factor=0.959795
+ 
+ 
+RMS vale of emf induced per phase=3835.341142V
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.5/EX5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.5   
+ 
+ 
+ E(line to line)=  440V   
+ 
+ 
+ 
+ 
+ 
+ 
+P=  8
+ 
+E(per phase)=  254V
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+slot angle=  30 degree electrical
+ 
+pitch factor=1.000000
+ 
+ 
+distribution factor=  0.965926
+
+ 
+ 
+ 
+ 
+ 
+ 
+flux per pole=  0.037021Wb
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.6/EX5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.6   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+frequency=50
+
+ 
+ 
+number of slots per pole per phase,m=  3
+ 
+ 
+ 
+ k_p  =
+ 
+    1.  
+ 
+short pitch=  1
+ 
+ 
+distribution factor=  0.959795
+ 
+ 
+number of turns per phase,T=  240
+ 
+ 
+RMS value of induced emf per phase,E=  1534.136457V
+ 
+induced emf across the linesis 2657.202289V 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.7/EX5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.7   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+slot angle=20 degree elecrical
+ 
+number of slots per pole per phase,m=3
+ 
+ 
+pitch factor=1
+ 
+ 
+distribution factor=0.959795
+
+ 
+ 
+ 
+total number of armature conductors,Z= 372 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.8/EX5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.8   
+ 
+ 
+ P=6   , f=50   
+ 
+ 
+ 
+ 
+ 
+ 
+ TS  =
+ 
+    72.  
+ 
+total number of slots=72
+ 
+total number of slots per phase= 24
+ 
+total number of conductors per phase= 96
+ 
+ 
+total number of turns per phase=48
+ 
+ 
+number of slots per pole per phase,m= 4
+ 
+ 
+ 
+ 
+distribution factor=0.957662
+
+ 
+ 
+ coil pitch is 5/6 of full-pitch   
+ 
+
+ 
+ 
+short pitch angle= 30 degrees
+ 
+ 
+pitch factor= 0.965926 
+ 
+ 
+induced per phase=  14785.689892V
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.9/EX5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.9   
+ 
+
+ 
+ 
+ 
+ 
+line current=  87.477314A
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+phase voltage=  1905.255888V
+ 
+ 
+induced emf=  2152.469556 V/Phase
+ 
+ 
+percentage regulation=  12.975353 percent
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.10/EX5_10.sce #
+ 
+ 
+ 
+ 
+ example 5.10   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Z_s= 5 ohm
+ 
+ 
+X_s= 4.935585 ohm
+ 
+ 
+ 
+ 
+ At unity power factor   
+ 
+
+ 
+ 
+induced emf= 2137.755833V
+ 
+ 
+regulation= 6.887792 percent
+ 
+ 
+ 
+ 
+ 
+ At 0.71 lagging power factor   
+ 
+
+ 
+ 
+induced emf= 2422.283821V
+ 
+ 
+regulation= 21.114191percent
+ 
+ 
+ 
+ 
+ 
+ At 0.8 leading power factor   
+ 
+
+ 
+ 
+induced emf= 1822.487197V
+ 
+ 
+regulation=  -8.875640percent
+ 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.11/EX5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.11   
+ 
+
+ 
+ 
+ field exitation current=10A   
+ 
+ 
+ 
+ 
+synchronous impedence,Z_s= 6 ohm
+ 
+ 
+internal voltage drop when the load current is 60amp=  360 V 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.12/EX5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.12   
+ 
+ 
+ 
+ 
+ 
+ 
+ X_s  =
+ 
+    4.5  
+ 
+ 
+ 
+
+V/phase= 3810V 
+ 
+ E  =
+ 
+    4378.5156  
+ 
+E=  4378.515597 V per phase
+ 
+ 
+percentage change in terminal voltage= 14.906234 percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.13/EX5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.13   
+ 
+
+ 
+ 
+output power=1200
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+V per phase= 1905V
+ 
+ 
+ 
+ 
+ 
+Synchronous impedance,Zs=3.175426 ohm
+ 
+ 
+ 
+ (a)for 0.8 lagging power facor   
+ 
+ 
+ 
+ E  =
+ 
+    2398.7326  
+ 
+induced emf,E=2398.732590 V
+ 
+ 
+regulation=25.900810 percent
+
+ 
+ 
+ 
+ 
+ 
+ (b)For leading power factor load   
+ 
+ E  =
+ 
+    1647.7169  
+ 
+induced emf,E= 1647.716860 V
+ 
+ 
+regulation=-13.517293 percent 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.14/EX5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.14   
+ 
+ 
+ star connected alternator   
+ 
+
+ 
+ 
+ 
+ 
+ Ra  =
+ 
+    0.4  
+ 
+ 
+ 
+Full-load current= 131 A
+ 
+ 
+Voltage per phase=3810 V
+ 
+ 
+ for 0.8 lagging power facor   
+ 
+ 
+ 
+ E  =
+ 
+    4366.0726  
+ 
+induced emf=4366.072552 V
+
+ 
+ 
+ then at 0.8 leading power factor   
+ 
+ 
+termial Voltage, line-to-line=8215 V
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.15/EX5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.15   
+ 
+ 
+ 
+ 
+ 
+
+tan phi=  0.750000
+ 
+ 
+ FOR ALTERNATOR A   
+ 
+ 
+ 
+
+tan phi_a=  0.484322
+ 
+ 
+ reactive load=active load*tan phi   
+ 
+ 
+ Active load=8000kW   
+ 
+reactive load=  3874 KVAr
+ 
+ 
+ Active Load A=5000kW\n   
+ 
+Reactive load A=  2421kVAr
+ 
+Active load of B=  3000kW
+ 
+ a  =
+ 
+    3578.3895  
+ 
+Reactive load of B=  3578kVAr
+ 
+ 
+ 
+phi_b=  50.024676
+ 
+Power Factor of B=  0.642458 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.16/EX5_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.16   
+ 
+ 
+ 
+ 
+ 
+ Two alternators in parallel connection   
+ 
+ 
+ 
+ 
+load current=  1093.466419A
+
+ 
+ 
+ 
+ 
+Active component of current=  874.773135A
+ 
+Reactive component of current=  656.079851A
+ 
+Current supplied by each alternator=546.733209A
+ 
+Active component of current supplied by each alternator=  437.386568A
+ 
+Reactive component of current supplied by each alternator=  328.039926A
+
+ 
+ 
+ Since steam supply is same,the active component remain the same    
+ 
+ 
+Reactive component of Il= 23A
+ 
+ 
+reactive component of I2=  632.906796A
+ 
+ 
+ I2=  769.336091A
+ 
+ 
+phi 2=  55.352588 degrees
+ 
+cos phi 2= 0.568525 
+ 
+grepthis#Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH5/EX5.17/EX5_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ example 5.17   
+ 
+ 
+ power factor of existing load is 0.8 lagging   
+ 
+ 
+ 
+phi= 36 degree
+ 
+ 
+ 
+kVAr1= 599 
+ 
+ 
+ output for the synchronous motor is 200kW   
+ 
+ 
+ 
+ 
+Input to the synchronous motor= 222.222222kW
+ 
+ 
+Total load on the system= 1022.222222kW
+ 
+ 
+ overall power factor of the load is to be raised to 0.92 lagging   
+ 
+ 
+ 
+ kVAr2  =
+ 
+    435.46484  
+ 
+kVAr2=435.464843
+ 
+ 
+lagging kVAr of synchronous codenser= 164.535157
+ 
+leading kVAr supplied by the motor= 164.535157
+ 
+ 
+phi= 36 degree
+
+ 
+Power factor of the synchronos motor= 0.803685 leading 
+ 
+KVA rating of the synchronous motor= 276.504130 
+ 
+ 

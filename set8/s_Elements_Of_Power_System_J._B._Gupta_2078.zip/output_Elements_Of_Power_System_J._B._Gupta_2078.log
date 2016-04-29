@@ -1,0 +1,4225 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 137
+
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH1/EX1.1/Example1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Base Impedence (in ohm) :   
+ 
+    0.00121  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH1/EX1.2/Example1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Per unit resistance (pu) :   
+ 
+    0.0004132  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH1/EX1.3/Example1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leakage reactance Per unit (pu) :   
+ 
+    0.015  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH1/EX1.4/Example1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leakage reactance Per unit (pu) :   
+ 
+    0.172 + 0.631i  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH1/EX1.5/Example1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Per unit impedence(pu) :   
+ 
+    0.037  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH2/EX2.1/Example2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We know, W=I^2*2*R=(P/VL)^2*2*rho*l/a   
+ 
+ 
+ a=(P/VL)^2*2*rho*l/(I^2*2*R)   
+ 
+ 
+ v=2*(P/VL)^2*2*rho*l/(I1^2*2)*l   
+ 
+ 
+ 
+ % saving in copper :    
+ 
+    69.75  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH2/EX2.2/Example2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Two wire dc system :    
+ 
+ 
+ I1=P/V & W=2*I1^2*R1=2*P^2*rho*l/V^2/a1   
+ 
+ 
+ Therefore, Volume required, v1 is 2*a1*l=4*P^2*rho*l^2/V^2/W   
+ 
+ 
+ Three phase four wire system :    
+ 
+ 
+ I2=P/3/Vas Power by each phase is P/3 & W=3*I1^2*R2=P^2*rho*l/3/V^2/a2   
+ 
+ 
+ Therefore, Volume required, v2 is 3.5*a2*l=3.5*P^2*rho*l^2/3/V^2/W   
+ 
+ 
+ 
+ For 3-phase four wire system material required is 0.2916667 times the material required in two wire system.   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH2/EX2.3/Example2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ For single phase ac system, P1=V*I1*cosd(fi) watts & W1=2*I1^2*R watts   
+ 
+ 
+ Line losses=W1/P1*100=2*I1^2*R*100/V/I1/cosd(fi)   
+ 
+ 
+ For three phase ac system, P2=sqrt(3)*V*I2*cosd(fi) watts & W2=3*I2^2*R watts   
+ 
+ 
+ Line losses=W2/P2*100=3*I2^2*R*100/sqrt(3)/V/I2/cosd(fi)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additional load that can be tranmitted by converting sigle to 3-phase line in %   
+ 
+    100.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH2/EX2.4/Example2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ For three wire dc system, line current I1=(VS-VL)/R & P1=2*VL*I1=2*VL*(VS-VL)/R   
+ 
+ 
+ For four wire three phase ac system, line current I2=(VS-VL)/R & P2=3*VL*I2*pf=3*VL*(VS-VL)/R   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Extra power that can be supplied in %   
+ 
+    50.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH2/EX2.5/Example2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three wire dc system :    
+ 
+ 
+ P1=2*I1*V & %P1loss=2*I1^2*R/(2*I1*V)*100=100*I1*R/V   
+ 
+ 
+ Three phase 4-wire ac system :    
+ 
+ 
+ P2=3*I1^2*V*pf & %P2loss=3*I2^2*R/(3*I2*V*pf)*100=100*I12*R/pf/V   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Additional load :    
+ 
+    21.5  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH2/EX2.6/Example2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of copper required for 3 conductors of 100 km length(in kg) :    
+ 
+    9349.  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH3/EX3.1/Example3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of copper required(kg)   
+ 
+    184114.15  
+ 
+ 
+ 
+ 
+ 
+ Weight of Alluminium required(kg)   
+ 
+    60433.884  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH3/EX3.2/Example3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most economical cross sectional area in cm^2 :    
+ 
+    0.6488194  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH3/EX3.3/Example3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Best current density in A/mm^2 :    
+ 
+    0.6944651  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH3/EX3.4/Example3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cc  =
+ 
+    8000 + 20000a   
+ 
+ 
+ 
+ 
+ Cc_var  =
+ 
+    20000a   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diameter of conductor in cm :    
+ 
+    0.6353724  
+ 
+ 
+ Most economical current density in A/cm^2 :    
+ 
+    310.38543  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH3/EX3.5/Example3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cc  =
+ 
+    500 + 2000a   
+ 
+ 
+ 
+ 
+ 
+ Cc_var  =
+ 
+    2000a   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most economical current density in A/cm^2 :    
+ 
+    160.16512  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH3/EX3.6/Example3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cc  =
+ 
+    500 + 2000A   
+ 
+ 
+ 
+ 
+ 
+ 
+ Cc_var  =
+ 
+    2000A   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most economical current density in A/cm^2 :    
+ 
+    163.89039  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH3/EX3.7/Example3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CcBYL  =
+ 
+    1500 + 8000a   
+ 
+ 
+ 
+ 
+ Cc_varBYL  =
+ 
+    800a   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most economical cross sectional area in cm^2 :    
+ 
+    3.375969  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.1/Example4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loop inductance per km(mH)   
+ 
+    2.1300699  
+ 
+ 
+ 
+ Reactance of transmission line(ohm/km)   
+ 
+    0.6691812  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.2/Example4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loop inductance per km(mH)   
+ 
+    1.1771363  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.3/Example4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loop inductance per km of copper conductor line(mH)   
+ 
+    2.2193269  
+ 
+ 
+ 
+ Loop inductance per km of copper conductor line(mH)   
+ 
+    7.1193269  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.4/Example4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geometric mean radius(mm)   
+ 
+    6.3666087  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.5/Example4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loop inductance of line(mH/km)   
+ 
+    1.3889845  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.6/Example4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loop inductance of line(mH/km)   
+ 
+    1.4210152  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.7/Example4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per phase per km(mH)   
+ 
+    1.2052708  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.8/Example4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per phase(mH)   
+ 
+    1.2902004  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.9/Example4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per km of phase1(mH)   
+ 
+    1.121442 - 0.1200531i  
+ 
+ 
+ 
+ Inductance per km of phase2(mH)   
+ 
+    1.0521273  
+ 
+ 
+ 
+ Inductance per km of phase3(mH)   
+ 
+    1.121442 + 0.1200531i  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.10/Example4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spacing between adjacent conductors(m)   
+ 
+    2.7779518  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.11/Example4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spacing between adjacent conductors(mH)   
+ 
+    0.5964093  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.12/Example4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per phase(mH/km)   
+ 
+    0.6134626  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.13/Example4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GMD(m) :    
+ 
+    0.26  
+ 
+ 
+ 
+ 
+ 
+ 
+ Deq or Dm(m) :    
+ 
+    9.22  
+ 
+ 
+ 
+ 
+ Inductance of 100 km line(H)   
+ 
+    0.07  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Using Alternate method, Inductance of 100 km line(H)   
+ 
+    0.07  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.14/Example4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per phase(mH/km)   
+ 
+    0.9059451  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.15/Example4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductive reactance of bundled conductor line(ohm/km)   
+ 
+    0.3004788  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductive reactance with single conductor(ohm/km)   
+ 
+    0.3848657  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.16/Example4_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of line(micro F)   
+ 
+    0.1574971  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.17/Example4_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of line(micro F)   
+ 
+    1.0075472  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.18/Example4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of line(micro F)   
+ 
+    0.0088976  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.19/Example4_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance per phase per meter  line(F)   
+ 
+    9.374D-12  
+ 
+ 
+ 
+ 
+ Charging current per phase(mA) :    
+ 
+    0.3740442  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.20/Example4_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance per phase per meter  line(F)   
+ 
+    8.262D-12  
+ 
+ 
+ 
+ 
+ Charging current per phase(A/km) :    
+ 
+    0.1648431  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.21/Example4_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitive reactance too neutral(kohm) :    
+ 
+    166.59854  
+ 
+ 
+ 
+ 
+ Charging current(A/km)   
+ 
+    0.4574484  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.22/Example4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of 100 km line(micro Farad) :    
+ 
+    1.1220221  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.23/Example4_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance per km(F/km) :    
+ 
+    1.228D-08  
+ 
+ 
+ 
+ 
+ Charging current per km(A/km) :    
+ 
+    0.2940429  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.24/Example4_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ One conductor ACSR moose conductor line :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductive reactance per Km per phase(ohm) :    
+ 
+    0.4351151  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitivetive reactance per Km per phase(Mohm) :    
+ 
+    0.3962370  
+ 
+ 
+ Three conductor bundled line :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductive reactance per km per phase(ohm) :    
+ 
+    0.2895485  
+ 
+ 
+ 
+ 
+ 
+ Capacitivetive reactance per km per phase(Mohm) :    
+ 
+    0.2589088  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.25/Example4_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance per km of line(F) :    
+ 
+    4.916D-09  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH4/EX4.26/Example4_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part(i) Capacitance per phase per meter length(F) :    
+ 
+    1.006D-11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part(ii) Capacitance per phase per meter length(F) :    
+ 
+    1.013D-11  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.1/Example5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage at sending end(V)   
+ 
+    11425.985  
+ 
+ 
+ 
+ % Regulation   
+ 
+    3.8725876  
+ 
+ 
+ 
+ 
+ Transmission Efficiency(%)   
+ 
+    97.237569  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.2/Example5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Regulation   
+ 
+    12.444444  
+ 
+ 
+ 
+ 
+ 
+ Transmission Efficiency(%)   
+ 
+    90.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.3/Example5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line voltage at sending end(kV)   
+ 
+    13.611946  
+ 
+ 
+ 
+ % Regulation   
+ 
+    23.744962  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.4/Example5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line voltage at sending end(kV)   
+ 
+    38.318383  
+ 
+ 
+ 
+ Sending end pf(lagging)    
+ 
+    0.7578608  
+ 
+ 
+ 
+ Transmission Efficiency(%)   
+ 
+    90.909091  
+ 
+ 
+ 
+ % Regulation   
+ 
+    16.116312  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.5/Example5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance per phase(ohm/phase)   
+ 
+    2.4  
+ 
+ 
+ 
+ 
+ 
+ Inductance per phase(mH/phase)   
+ 
+    28.01127  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.6/Example5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line voltage at load end(volt) :    
+ 
+    10109.772  
+ 
+ 
+ 
+ Transmission Efficiency(%) :    
+ 
+    94.783576  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.7/Example5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power output(kW)   
+ 
+    22852.5  
+ 
+ 
+ 
+ Power factor at sending end(lagging)   
+ 
+    0.6558831  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.8/Example5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end current(A), magnitude is 240.30274 and angle in degree is -18.954522   
+ 
+ 
+ 
+ Sending end voltage(V), magnitude is 79598.477 and angle in degree is 11.765353   
+ 
+ 
+ 
+ 
+ Sending end power factor(lag) :    
+ 
+    0.8596751  
+ 
+ 
+ 
+ Regulation(%) :     
+ 
+    20.603752  
+ 
+ 
+ 
+ Line Losses in kW :    
+ 
+    1443.6351  
+ 
+ 
+ 
+ Transmission Efficiency(%) :    
+ 
+    91.220706  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.9/Example5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end line voltage(Volt) :   
+ 
+    77071.423  
+ 
+ 
+ 
+ Regulation(%) :     
+ 
+    16.774883  
+ 
+ 
+ 
+ 
+ 
+ Transmission Efficiency(%) :    
+ 
+    93.534295  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.10/Example5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end current(A), magnitude is 200.12127 and angle in degree is -23.969816   
+ 
+ 
+ 
+ 
+ Sending end line voltage(kV) :   
+ 
+    160.85154  
+ 
+ 
+ 
+ Regulation(%) :     
+ 
+    21.857229  
+ 
+ 
+ 
+ 
+ 
+ Transmission Efficiency(%) :    
+ 
+    91.487591  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.11/Example5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage(Volt), magnitude is 24437.433 and angle in degree is 3.6918518   
+ 
+ 
+ 
+ 
+ Sending end current(A), magnitude is 42.874178 and angle in degree is -41.422736   
+ 
+ 
+ 
+ 
+ Sending end power factor(lag) :    
+ 
+    0.7056912  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.12/Example5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end line to line voltage(kV) :   
+ 
+    143.562  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.13/Example5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end line to line voltage(kV) :   
+ 
+    238.07073  
+ 
+ 
+ 
+ Sending end current(A), magnitude is 128.14524 and angle in degree is 15.113177   
+ 
+ 
+ 
+ 
+ Sending end power factor(lag) :    
+ 
+    0.9881065  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.14/Example5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end line to line voltage(kV) :   
+ 
+    238.07073  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.15/Example5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end line voltage(kV) :   
+ 
+    143.98095  
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end power factor(lag) :    
+ 
+    0.8068060  
+ 
+ 
+ 
+ Transmission Efficiency(%) :    
+ 
+    95.907991  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.16/Example5_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line voltage at mid point(kV) :    
+ 
+    35.113982  
+ 
+ 
+ 
+ 
+ 
+ Total current(A), magnitude is 251.32447 and angle in degree is -42.1789   
+ 
+ 
+ 
+ 
+ 
+ Sending end line voltage(kV) :   
+ 
+    41.639365  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.17/Example5_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Load supply by line A(kVA), magnitude is 5787.0339 at pf 0.7662051   
+ 
+ 
+ 
+ Load supply by line B(kVA), magnitude is 6732.6442 and angle in degree is 0.8334852   
+ 
+ 
+ 
+ Power supplied by line A(kW) :    
+ 
+    4434.0551  
+ 
+ 
+ 
+ Power supplied by line B(kW) :    
+ 
+    5611.5596  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.18/Example5_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage rise in voltage :    
+ 
+    2.1932454  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.19/Example5_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Parameter A :    
+ 
+    0.98752 + 0.0024i  
+ 
+ 
+ Parameter B :    
+ 
+    11.85024 + 62.025024i  
+ 
+ 
+ Parameter C :    
+ 
+    0.0004i  
+ 
+ 
+ Parameter D :    
+ 
+    0.98752 + 0.0024i  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.20/Example5_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Parameter A, magnitude is 0.8722672 and angle in degree is 1.4829796   
+ 
+ 
+ Parameter B, magnitude is 187.21111 and angle in degree is 80.6909   
+ 
+ 
+ Parameter C, magnitude is 0.0013 and angle in degree is 90   
+ 
+ 
+ Parameter D, magnitude is 0.8722672 and angle in degree is 1.4829796   
+ 
+ 
+ 
+ 
+ Sending end Line voltage(kV) :    
+ 
+    261.1665  
+ 
+ 
+ 
+ Sending end current(A), magnitude is 189.44107 and angle in degree is 9.8971314   
+ 
+ 
+ 
+ 
+ Sending end power factor(lag) :    
+ 
+    0.9972341  
+ 
+ 
+ 
+ Power Input(MW) :    
+ 
+    85.457334  
+ 
+ 
+ 
+ Transmission Efficiency(%) :    
+ 
+    93.613967  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.21/Example5_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end Line voltage(kV) :    
+ 
+    151.45044  
+ 
+ 
+ 
+ Sending end current(A), magnitude is 246.05308 and angle in degree is -27.09228   
+ 
+ 
+ 
+ 
+ Sending end power factor(lag) :    
+ 
+    0.7542103  
+ 
+ 
+ 
+ Power Input(MW) :    
+ 
+    48.680207  
+ 
+ 
+ 
+ Transmission Efficiency(%) :    
+ 
+    82.168919  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.22/Example5_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Parameter A, magnitude is 0.9327198 and angle in degree is 1.2440292   
+ 
+ 
+ Parameter B, magnitude is 156.6046 and angle in degree is 73.300756   
+ 
+ 
+ Parameter C, magnitude is 0.0008697 and angle in degree is 90.600361   
+ 
+ 
+ Parameter D, magnitude is 0.9327198 and angle in degree is 1.2440292   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power received in MW :    
+ 
+    53.794914  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end Line voltage(kV) :    
+ 
+    350.15509  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.23/Example5_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end Line voltage(kV) :    
+ 
+    211.98094  
+ 
+ 
+ 
+ Sending end current(A), magnitude is 116.79771 and angle in degree is 20.960252   
+ 
+ 
+ 
+ Sending end phase angle(degree) & power factor(leading):    
+ 
+    13.690449  
+ 
+    0.9715886  
+ 
+ 
+ 
+ Sending end power(MW) :    
+ 
+    41.665267  
+ 
+ 
+ 
+ Voltage regulation in % :    
+ 
+    5.9904675  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.24/Example5_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end Line voltage(kV) :    
+ 
+    115.05763  
+ 
+ 
+ 
+ Sending end current(A), magnitude is 178.82349 and angle in degree is -1.562686   
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH5/EX5.25/Example5_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Generalised constants ot two lines combined are :    
+ 
+ 
+ Parameter A, magnitude is 0.98 and angle in degree is 1   
+ 
+ 
+ Parameter B, magnitude is 50 and angle in degree is 75   
+ 
+ 
+ Parameter C, magnitude is 0.001 and angle in degree is 90   
+ 
+ 
+ Parameter D, magnitude is 0.98 and angle in degree is 1   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end power factor(lagging) :    
+ 
+    0.7726394  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH6/EX6.1/Example6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Auxiliary Constants by using Convergent series of complex angles :    
+ 
+ 
+ A =    
+ 
+    0.472 + 0.229i  
+ 
+ 
+ B =    
+ 
+    142.8 + 386.6i  
+ 
+ 
+ C =    
+ 
+  - 0.000 + 0.002i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Auxiliary Constants by using Convergent series of real angles :    
+ 
+ 
+ A, magnitude is 0.524 and angle in degree is 25.9   
+ 
+ 
+ B, magnitude is 412.1 and angle in degree is 69.73   
+ 
+ 
+ C, magnitude is 0.002 and angle in degree is 95.69   
+ 
+ 
+ We obtain same result by both of the methods.   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH6/EX6.2/Example6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end line voltage in kV :    
+ 
+    263.589  
+ 
+ 
+ 
+ Sending end current in A, magnitude is 187.485 and angle in degree is 7.65926   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH6/EX6.3/Example6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Constant A0, magnitude is 0.85362 and angle in degree is 1.02248   
+ 
+ 
+ Constant B0(ohm), magnitude is 188.314 and angle in degree is 84.3902   
+ 
+ 
+ Constant C0(S), magnitude is 0.0012 and angle in degree is 90   
+ 
+ 
+ Constant D0, magnitude is 0.9 and angle in degree is 0.6   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH6/EX6.4/Example6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Constant A0, magnitude is 0.95810 and angle in degree is 3.52791   
+ 
+ 
+ Constant B0(ohm), magnitude is 50.8894 and angle in degree is 75.2379   
+ 
+ 
+ Constant C0(S), magnitude is 0.00282 and angle in degree is 53.0473   
+ 
+ 
+ Constant D0, magnitude is 0.95810 and angle in degree is 3.52791   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH6/EX6.5/Example6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Constant A0, magnitude is 0.84340 and angle in degree is 26.4523   
+ 
+ 
+ Constant B0(ohm), magnitude is 233.85 and angle in degree is 84.3027   
+ 
+ 
+ Constant C0(S), magnitude is 0.00344 and angle in degree is 50.8778   
+ 
+ 
+ Constant D0, magnitude is 0.84340 and angle in degree is 26.4523   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH6/EX6.6/Example6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For equivalent T-network :    
+ 
+ 
+ Shunt admittance in S, magnitude is 0.00138 and angle in degree is 90.4   
+ 
+ 
+ Impedance in ohm, magnitude is 83.8057 and angle in degree is 72.6367   
+ 
+ 
+ For equivalent pi-network :    
+ 
+ 
+ 
+ Series Impedance in ohm, magnitude is 82.3 and angle in degree is 73.03   
+ 
+ 
+ 
+ Shunt admittance in S, magnitude is 0.00140 and angle in degree is 90.0067   
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.1/Example7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line Voltage for comencing of corena(in kV) :   
+ 
+    220.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.2/Example7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Disruptive critical voltage from line to line(kV rms) :    
+ 
+    208.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.3/Example7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spacing between conductors in meter :    
+ 
+    3.04  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.4/Example7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Diameter of conductor by Hit & Trial method(cm) :    
+ 
+    1.4  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.5/Example7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ g1max(kV/cm) =    
+ 
+    35.013  
+ 
+ 
+ g1max > go, Corona will be present.   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.6/Example7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line to line visual critical voltage for local corona(kV-rms)  :    
+ 
+    115.  
+ 
+ 
+ 
+ Line to line visual critical voltage for general corona(kV-rms)  :    
+ 
+    132.  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.7/Example7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Using proportionality : Pc is proportional to (Vph-Vdo)^2   
+ 
+ 
+ We have, Pc1/Pc2 = (Vph1-Vdo)^2/(Vph2-Vdo)^2   
+ 
+ 
+ 
+ 
+ 
+ 
+ Corona Loss at 113 kV in kW :    
+ 
+    121.  
+ 
+ 
+ 
+ Disruptive critical voltage between lines(kV):     
+ 
+    92.4  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.8/Example7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical disruptive voltage(rms) in kV :    
+ 
+    54.7  
+ 
+ 
+ 
+ Visual Critical voltage(rms) in kV :    
+ 
+    66.1  
+ 
+ 
+ 
+ 
+ 
+ Total corona loss under foul weather condition using Peek formula in kW :    
+ 
+   1645.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Total corona loss under foul weather condition using Peterson formula in kW :    
+ 
+   1309.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH7/EX7.9/Example7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power loss due to corona for fair weather condition :    
+ 
+ 
+ Total corona loss using Peek formula in kW :    
+ 
+    249.47397  
+ 
+ 
+ 
+ 
+ 
+ According Peterson formula, Total corona loss for 175 km 3-phase line(kW):    
+ 
+    205.39529  
+ 
+ 
+ Power loss due to corona for stormy weather condition :    
+ 
+ 
+ 
+ 
+ Total corona loss using Peek formula in kW :    
+ 
+    1457.3252  
+ 
+ 
+ 
+ 
+ 
+ According Peterson formula, Total corona loss for 175 km 3-phase line(kW):    
+ 
+    1137.8841  
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH8/EX8.1/Example8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage induced per Km in the line in Volt :   
+ 
+    3.275  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.1/Example9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V5byV1  =
+ 
+    3.1165123  
+ 
+ 
+ 
+ 
+ Voltage across the first unit is 11.1676 % of V   
+ 
+ 
+ Voltage across the seconf unit is 13.028867 % of V   
+ 
+ 
+ Voltage across the third unit is 17.061611 % of V   
+ 
+ 
+ Voltage across the fourth unit is 23.937958 % of V   
+ 
+ 
+ Voltage across the bottom most unit is 34.803964 % of V   
+ 
+ 
+ 
+ 
+ String Efficiency(%)   
+ 
+    57.464719  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.2/Example9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V5byV1  =
+ 
+    2.1571  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage across the first unit is 9.9039221 % of V   
+ 
+ 
+ Voltage across the seconf unit is 10.894314 % of V   
+ 
+ 
+ Voltage across the third unit is 12.974138 % of V   
+ 
+ 
+ Voltage across the fourth unit is 16.351375 % of V   
+ 
+ 
+ Voltage across the fifth unit is 21.36375 % of V   
+ 
+ 
+ Voltage across the sixth unit is 28.5125 % of V   
+ 
+ 
+ 
+ 
+ String Efficiency(%)   
+ 
+    58.453894  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.3/Example9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part(i) Percentage String Efficiency(%)   
+ 
+    54.164479  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part(ii) Percentage String Efficiency(%)   
+ 
+    57.464719  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.4/Example9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage across top most unit(kV)   
+ 
+    15.267176  
+ 
+ 
+ 
+ Voltage across middle unit(kV)   
+ 
+    16.793893  
+ 
+ 
+ 
+ 
+ Percentage String Efficiency(%)   
+ 
+    86.768448  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.5/Example9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum safe working voltage(kV)   
+ 
+    44.241573  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.6/Example9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum safe working voltage(kV)   
+ 
+    36.784979  
+ 
+ 
+ 
+ Percentage String Efficiency(%)   
+ 
+    76.635373  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.7/Example9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum safe working voltage(kV)   
+ 
+    36.808261  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.8/Example9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage between conductors(kV)   
+ 
+    138.41327  
+ 
+ 
+ 
+ Percentage String Efficiency(%)   
+ 
+    63.190504  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.9/Example9_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C2 is 11 times of C1   
+ 
+ 
+ C3 is 13 times of C1   
+ 
+ 
+ C4 is 16 times of C1   
+ 
+ 
+ 
+ 
+ 
+ C5 is 20 times of C1   
+ 
+ 
+ 
+ 
+ 
+ C6 is 25 times of C1   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.10/Example9_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C1 is 0.1428571 times of C   
+ 
+ 
+ C2 is 0.3333333 times of C   
+ 
+ 
+ C3 is 0.6 times of C   
+ 
+ 
+ C4 is 1 times of C   
+ 
+ 
+ C5 is 1.6666667 times of C   
+ 
+ 
+ C6 is 3 times of C   
+ 
+ 
+ C7 is 7 times of C   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.11/Example9_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ String efficiency in % is    
+ 
+    82.070707  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH9/EX9.12/Example9_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage onn the line end unit in kV :    
+ 
+    7.0588235  
+ 
+ 
+ 
+ 
+ Capacitance required is 0.3666667C(in F).   
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.1/Example10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ maximum sag(m) :   
+ 
+    2.5  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.2/Example10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Height above the ground(m) :   
+ 
+    13.707097  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.3/Example10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Horizontal component of tension in kg is :    
+ 
+    3498.4243  
+ 
+ 
+ 
+ Maximum sag in m :    
+ 
+    2.2510134  
+ 
+ 
+ 
+ 
+ Sag will be half at the point where x coordinate(in m) will be :    
+ 
+    106.06602  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.4/Example10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum sag(m)   
+ 
+    3.4496336  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.5/Example10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag(meter)   
+ 
+    4.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.6/Example10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag in still air(meter)   
+ 
+    4.2804921  
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Sag(meter)   
+ 
+    9.1051569  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.7/Example10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Sag(meter)   
+ 
+    6.4217157  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.8/Example10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Sag(meter)   
+ 
+    4.8053514  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.9/Example10_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag in inclined direction(meter)   
+ 
+    11.875596  
+ 
+ 
+ 
+ Sag in vertical direction(meter)   
+ 
+    9.6210833  
+ 
+ 
+ 
+ Height of lowest cross arm(m)   
+ 
+    18.671083  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.10/Example10_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Distance of lowest point(m)   
+ 
+    115.71429  
+ 
+ 
+ 
+ 
+ minimum point of catenary above the ground(m)   
+ 
+    64.141964  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.11/Example10_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Slant sag(m)   
+ 
+    0.4904005  
+ 
+ 
+ 
+ Vertical Sag(meter)   
+ 
+    0.4386276  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.12/Example10_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vertical Sag(meter)   
+ 
+    45.269534  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.13/Example10_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mid point P is 19.7475 meter below point B or 60.2525 meter above the water level.   
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.14/Example10_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stringing Tension(kg)   
+ 
+    1093.75  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.15/Example10_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clearance of the lowest point from ground(m)   
+ 
+    26.34375  
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum ance(m)   
+ 
+    24.  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH10/EX10.16/Example10_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag at erection(m)   
+ 
+    2.3073765  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.1/Example11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insulation resistance of cable(Mohm) :   
+ 
+    93.549153  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.2/Example11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insulation resistance of cable(Mohm) :   
+ 
+    53.55122  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.3/Example11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistivity (ohm-m) :   
+ 
+    2.818D+13  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.4/Example11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum electrostatic stress(kV/cm)   
+ 
+    22.581302  
+ 
+ 
+ 
+ 
+ Minimum electrostatic stress(kV/cm)   
+ 
+    9.3870125  
+ 
+ 
+ 
+ Capacitance per km length(F)   
+ 
+    0.0000002  
+ 
+ 
+ 
+ 
+ Charging Current per phase per km length(A)   
+ 
+    0.4396264  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.5/Example11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum electrostatic stress(V/m)   
+ 
+    5498264.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ Total charging kVA(kVAR)   
+ 
+    508.29121  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.6/Example11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diameter of conductor(mm)   
+ 
+    8.6956522  
+ 
+ 
+ 
+ Internal diameter of sheath(mm)   
+ 
+    23.637233  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.7/Example11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diameter of conductor(mm)   
+ 
+    35.92585  
+ 
+ 
+ 
+ Internal diameter of sheath(mm)   
+ 
+    97.656584  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.8/Example11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RMS value of max safe working voltage(kV)   
+ 
+    11.344041  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.9/Example11_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Radial thickness of inner dielectric(mm)   
+ 
+    4.6  
+ 
+ 
+ 
+ Radial thickness of outer dielectric(mm)   
+ 
+    15.4  
+ 
+ 
+ 
+ 
+ Maximum working voltage(rms in kV)   
+ 
+    46.32339  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.10/Example11_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Working voltage(rms) for the cable (kV)   
+ 
+    35.596358  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.11/Example11_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Potential gradient at the surface of conductor(kV/cm)   
+ 
+    62.968776  
+ 
+ 
+ 
+ Maximum stress in the outer dielectric(kV/cm)   
+ 
+    25.187511  
+ 
+ 
+ 
+ Stress at the surface of outer dielectric(kV/cm)   
+ 
+    15.112506  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.12/Example11_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Potential gradient at the surface of conductor(kV/cm)   
+ 
+    39.365837  
+ 
+ 
+ 
+ Maximum stress in the outer dielectric(kV/cm)   
+ 
+    32.804864  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.13/Example11_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inner diameter of lead sheath(cm)   
+ 
+    14.898542  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.14/Example11_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage between sheath & intersheath(kV)   
+ 
+    41.719957  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.15/Example11_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum stress without intersheath(kV/cm)   
+ 
+    49.243357  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak voltage on 1st intersheath(kV)   
+ 
+    40.845154  
+ 
+ 
+ 
+ Peak voltage on 2nd intersheath(kV)   
+ 
+    23.381496  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.16/Example11_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of core to neutral(micro F)   
+ 
+    1.95  
+ 
+ 
+ 
+ Capacitance between any two core(micro F)   
+ 
+    0.975  
+ 
+ 
+ 
+ 
+ Charging current per phase(A)   
+ 
+    3.8905996  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.17/Example11_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA taken by the cable(kVAR)   
+ 
+    188.49556  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.18/Example11_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance between any two cores(micro F)   
+ 
+    0.3666667  
+ 
+ 
+ 
+ Capacitance between any two shorted conductors and third conductor(micro F)   
+ 
+    0.4888889  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.19/Example11_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total charging kVAR :    
+ 
+    508.29121  
+ 
+ 
+ 
+ Maximum stress in the cable(kV/cm)    
+ 
+    38.878599  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.20/Example11_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of the cable(micro F)   
+ 
+    0.1395210  
+ 
+ 
+ 
+ 
+ Charging current(A)   
+ 
+    0.2783694  
+ 
+ 
+ 
+ 
+ 
+ Dielectric loss(W)   
+ 
+    88.504848  
+ 
+ 
+ 
+ Equivalent insulation resistance(Mohm)   
+ 
+    0.4557189  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH11/EX11.21/Example11_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss angle(degree)   
+ 
+    0.0900632  
+ 
+ 
+ 
+ 
+ No load current drawn by cable(A)   
+ 
+    9.9759088  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH12/EX12.1/Example12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reactance of coil (ohm) :   
+ 
+    235.8  
+ 
+ 
+grepthis#Elements_Of_Power_System_J._B._Gupta_2078/CH12/EX12.2/Example12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Necessary Inductance of peterson coil in H :    
+ 
+    1.97  
+ 
+ 
+ 
+ 
+ 
+ Rating of supressor coil in MVA :   
+ 
+    9.4  
+ 
+ 

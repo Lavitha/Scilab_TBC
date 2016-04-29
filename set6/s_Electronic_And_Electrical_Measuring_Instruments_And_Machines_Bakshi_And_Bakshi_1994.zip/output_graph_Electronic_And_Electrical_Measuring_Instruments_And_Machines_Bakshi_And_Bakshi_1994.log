@@ -1,0 +1,129 @@
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH4/EX4.1/Example4_1.sce #
+ 
+ 
+ E1mag  =
+ 
+    0.    3.    5.    7.    9.    12.    15.    18.    21.  
+ 
+ E1rms  =
+ 
+ 
+         column 1 to 6
+ 
+    0.    2.1213203    3.5355339    4.9497475    6.363961    8.4852814  
+ 
+         column 7 to 9
+ 
+    10.606602    12.727922    14.849242  
+ 
+ Erms  =
+ 
+    5.  
+ 
+Einrms=(((E1rms)^2)+((Erms)^2))^(1/2)
+                   !       
+at line       6 of exec file called by :    
+akshi_1994/CH4/EX4.1/Example4_1.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+Einrms=(((E1rms)^2)+((Erms)^2))^(1/2)
+                                      !       
+at line       1 of exec file called by :    
+akshi_1994/CH4/EX4.1/Example4_1.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ Einrms  =
+ 
+ 
+         column 1 to 6
+ 
+    5.    5.4313902    6.1237244    7.0356236    8.093207    9.8488578  
+ 
+         column 7 to 9
+ 
+    11.726039    13.674794    15.66844  
+ 
+ Eab  =
+ 
+ 
+         column 1 to 6
+ 
+    4.5015816    4.8899693    5.513289    6.3342868    7.2864463    8.8670874  
+ 
+         column 7 to 9
+ 
+    10.557145    12.31164    14.106552  
+ 
+ 
+ 
+ 
+E1 mag    E1 rms    Ein Rms    Eab output 
+ k  =
+ 
+    0.     0.        5.        4.501   
+    3.     2.121     5.431     4.889   
+    5.     3.53      6.123     5.513   
+    7.     4.949     7.035     6.334   
+    9.     6.363     8.093     7.286   
+    12.    8.485     9.848     8.867   
+    15.    10.606    11.726    10.557  
+    18.    12.727    13.674    12.311  
+    21.    14.849    15.668    14.106  
+ 
+ 
+    0.     0.        5.        4.501   
+    3.     2.121     5.431     4.889   
+    5.     3.53      6.123     5.513   
+    7.     4.949     7.035     6.334   
+    9.     6.363     8.093     7.286   
+    12.    8.485     9.848     8.867   
+    15.    10.606    11.726    10.557  
+    18.    12.727    13.674    12.311  
+    21.    14.849    15.668    14.106  
+ 
+ 
+ 
+grepthis#Electronic_And_Electrical_Measuring_Instruments_And_Machines_Bakshi_And_Bakshi_1994/CH6/EX6.3/Example6_3.sce #
+ 
+ 
+ pp  =
+ 
+    2.6  
+ 
+ np  =
+ 
+    2.6  
+ 
+ Nd  =
+ 
+    5.2  
+ 
+ Vd  =
+ 
+    0.002  
+ 
+ Vpp  =
+ 
+    0.0104  
+ 
+ Vm  =
+ 
+    0.0052  
+ 
+ Vrms  =
+ 
+    0.0036770  
+ 
+peak value of voltage
+ 
+Vm=0.0052 V
+ 
+RMS value of voltage
+ 
+Vrms=0.0037 V
+ 
+ 

@@ -1,0 +1,74 @@
+ERROR: Engineering_Economics_R._Panneerselvam_1682/CH16/EX16.4/Exa16_4.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ Given the following LP model :   
+ 
+ 
+ minimize Z = 2*X1 + 3*X2   
+ 
+ 
+ subject to   
+ 
+ 
+ X1+X2 >= 6   
+ 
+ 
+ 7*X1+X2 >= 14   
+ 
+ 
+ X1,X2 >= 0   
+ 
+ 
+ The introduction of non-negative constraints X1>=0 and X2>=0 will eliminate the 2nd, 3rd and 4th quadrants of XY plane.   
+ 
+ 
+ Compute the cordinates to plot equations relting to the constraints on the XY plane as shown below :    
+ 
+ 
+ X1+X2 = 6   
+ 
+ 
+ When X1=0 : X2=6   
+ 
+ 
+ When X2=0 : X1=6   
+ 
+ 
+ 
+ 
+ 
+ Consider the 2nd constraint in the form :   
+ 
+ 
+ 7*X1+X2 = 14   
+ 
+ 
+ When X1=0 : X2=14   
+ 
+ 
+ When X2=0 : X1=2   
+ 
+ 
+ 
+ 
+ 
+ The Optimum solution will be in any one of the corners A, B and C   
+ 
+ 
+ The objective function value at each of these corner points of the feasible solution space is computed as fllows by substituting its coordina 
+      tes in the objective function.                                                                                                           
+ 
+ 
+ 
+ 
+disp("ZA=6*0+8*0=0   ZB=6*10+8*0=60   ZC=6*8+8*2=64);
+      !--error 31 
+Incorrect string.
+at line      34 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Economics_R._Panneerselvam_1682/CH16/EX16.4/Exa16_4.sce',-1)
+ 
+ 

@@ -1,0 +1,248 @@
+ERROR: Engineering_Physics_U._Mukherji_1026/CH8/EX8.4/Example8_4.sce
+ 
+ 
+ i  =
+ 
+    0.7853982  
+ 
+ 
+ u  =
+ 
+    1.33  
+ 
+ 
+ r  =
+ 
+    0.5605584  
+ 
+ 
+ r  =
+ 
+    32.117631  
+ 
+ 
+ 
+ 
+ 
+ 
+ lam  =
+ 
+    0.00005  
+ 
+ 
+t=lam/(4*u*t*cos(r))
+             !--error 4 
+Undefined variable: t
+at line      17 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics_U._Mukherji_1026/CH8/EX8.4/Example8_4.sce',-1)
+ 
+ERROR: Engineering_Physics_U._Mukherji_1026/CH8/EX8.16/Example8_16.sce
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ grat  =
+ 
+    0.0002  
+ 
+ 
+ lam  =
+ 
+    0.0000589  
+ 
+ 
+ dtheta  =
+ 
+    0.0007269  
+ 
+ 
+ 
+ 
+ 
+ 
+cos(theta)=sqrt(1-(((n*lam)/grat)^2))
+      !--error 4 
+Undefined variable: theta
+at line      15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics_U._Mukherji_1026/CH8/EX8.16/Example8_16.sce',-1)
+ 
+ERROR: Engineering_Physics_U._Mukherji_1026/CH8/EX8.17/Example8_17.sce
+ 
+ 
+ grat  =
+ 
+    0.0001667  
+ 
+ 
+ f  =
+ 
+    30.  
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ lam1  =
+ 
+    0.0000577  
+ 
+ 
+ lam2  =
+ 
+    0.0000546  
+ 
+ 
+ dlam  =
+ 
+    0.0000031  
+ 
+ 
+ lam  =
+ 
+    0.0000546  
+ 
+ 
+cos(theta)=sqrt(1-(((n*lam)/grat)^2))
+      !--error 4 
+Undefined variable: theta
+at line      17 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics_U._Mukherji_1026/CH8/EX8.17/Example8_17.sce',-1)
+ 
+ERROR: Engineering_Physics_U._Mukherji_1026/CH9/EX9.8/Example9_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ theta1  =
+ 
+    0.0942478  
+ 
+ 
+ theta2  =
+ 
+    0.1326450  
+ 
+ 
+ theta3  =
+ 
+    0.1640609  
+ 
+ 
+d100=lam/2*sin(theta1)
+       !--error 4 
+Undefined variable: lam
+at line      15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics_U._Mukherji_1026/CH9/EX9.8/Example9_8.sce',-1)
+ 
+ERROR: Engineering_Physics_U._Mukherji_1026/CH10/EX10.4/Example10_4.sce
+ 
+ 
+ vx  =
+ 
+    17000000.  
+ 
+ 
+ Ey  =
+ 
+    34000.  
+ 
+ 
+ x  =
+ 
+    0.03  
+ 
+ 
+ t  =
+ 
+    1.765D-09  
+ 
+ 
+ 
+ 
+ay=(e*Ey)/m
+      !--error 4 
+Undefined variable: e
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics_U._Mukherji_1026/CH10/EX10.4/Example10_4.sce',-1)
+ 
+ERROR: Engineering_Physics_U._Mukherji_1026/CH10/EX10.13/Example10_13.sce
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ Va  =
+ 
+    150.  
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ vx  =
+ 
+    7262730.4  
+ 
+ 
+ V  =
+ 
+    20.  
+ 
+ 
+ d  =
+ 
+    0.01  
+ 
+ 
+ ay  =
+ 
+    3.516D+14  
+ 
+ 
+ l  =
+ 
+    0.1  
+ 
+ 
+ vy  =
+ 
+    4841820.3  
+ 
+ 
+ theta  =
+ 
+    0.5880026  
+ 
+ 
+ theta  =
+ 
+    33.690068  
+ 
+ 
+ theta  =
+ 
+    0.5880026  
+ 
+ 
+Y=D*tan(theta)
+    !--error 4 
+Undefined variable: D
+at line      27 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics_U._Mukherji_1026/CH10/EX10.13/Example10_13.sce',-1)
+ 

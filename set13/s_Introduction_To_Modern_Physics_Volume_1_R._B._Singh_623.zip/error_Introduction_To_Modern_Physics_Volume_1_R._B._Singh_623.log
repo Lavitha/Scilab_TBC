@@ -1,0 +1,41 @@
+ERROR: Introduction_To_Modern_Physics_Volume_1_R._B._Singh_623/CH2/EX2.1.7/U2_C1_7.sce
+ 
+ ch  =
+ 
+    12400.  
+ 
+ phi_Tantalum  =
+ 
+    4.2  
+ 
+ phi_Tungsten  =
+ 
+    4.5  
+ 
+ phi_Aluminium  =
+ 
+    4.2  
+ 
+ phi_Barium  =
+ 
+    2.5  
+ 
+ phi_Lithium  =
+ 
+    2.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+da_Tantalum<8000&lembda_Tantalum>4000)then                               //Check
+                                         !--error 276 
+Missing operator, comma, or semicolon.
+at line      16 of exec file called by :    
+._Singh_623/CH2/EX2.1.7/U2_C1_7.sce',-1
+ 
+ 

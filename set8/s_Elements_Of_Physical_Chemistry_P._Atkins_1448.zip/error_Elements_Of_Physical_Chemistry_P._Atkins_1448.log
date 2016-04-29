@@ -1,0 +1,119 @@
+ERROR: Elements_Of_Physical_Chemistry_P._Atkins_1448/CH8/EX8.1.i/I8_1.sce
+ 
+ 
+ ph1  =
+ 
+    6.37  
+ 
+ ph2  =
+ 
+    10.25  
+ 
+ ph3  =
+ 
+    7.21  
+ 
+ ph4  =
+ 
+    12.67  
+ 
+ 
+ pH1  =
+ 
+    8.31  
+ 
+ pH2  =
+ 
+    9.94  
+ 
+ 
+printf("Equilibrium pH in case 1 = ",pH1)
+                                          !--error 999 
+mprintf: Wrong number of input arguments: at most 0 expected.
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH8/EX8.1.i/I8_1.sce',-1)
+ 
+ERROR: Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.6.e/E9_6.sce
+ 
+ 
+ ER  =
+ 
+    1.23  
+ 
+ EL  =
+ 
+  - 0.44  
+ 
+ 
+ E  =
+ 
+    1.67  
+ 
+ 
+The reaction is favouring products and E is 1.67 Vexit();
+        !--error 47 
+ end or else is missing...
+at line      15 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH9/EX9.6.e/E9_6.sce',-1)
+ 
+ 
+ERROR: Elements_Of_Physical_Chemistry_P._Atkins_1448/CH18/EX18.2.e/E18_2.sce
+ 
+ 
+ Q  =
+ 
+    1.    2.    3.    4.    5.  
+ 
+ t1  =
+ 
+    5.2    9.4    13.7    18.    22.2  
+ 
+ t2  =
+ 
+    1.1    2.    2.9    4.    4.5  
+ 
+ 
+kqbykf=regress(Q,t1)
+                     !--error 4 
+Undefined variable: regress
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH18/EX18.2.e/E18_2.sce',-1)
+ 
+ERROR: Elements_Of_Physical_Chemistry_P._Atkins_1448/CH20/EX20.2.i/I20_2.sce
+ 
+ 
+ g2  =
+ 
+    5.  
+ 
+ g1  =
+ 
+    3.  
+ 
+ E2  =
+ 
+    6.  
+ 
+ E1  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ B  =
+ 
+    3.180D+11  
+ 
+ 
+ratio=g2/g1 *(%e^((E1-E2)*h*B/(k*T)))
+                                   !--error 4 
+Undefined variable: T
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Physical_Chemistry_P._Atkins_1448/CH20/EX20.2.i/I20_2.sce',-1)
+ 

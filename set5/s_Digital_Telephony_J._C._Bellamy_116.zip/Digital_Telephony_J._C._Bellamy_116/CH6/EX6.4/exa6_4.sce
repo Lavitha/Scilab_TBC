@@ -1,0 +1,32 @@
+mode(2);errcatch(-1,"stop");driver("GIF");
+
+//Example 6.4
+ 
+//Page 325
+ 
+//Refer to figure 6.17 on page 300
+ 
+
+disp('SNR detector is 3dB higher than Eb/N0, therefore')
+
+snr=13.7//SNR=13.7dB
+
+disp('Since 4 PSK modulation provides 2bps/Hz, the sampling rate is 5 MHz, which is Nqyuist rate, therefore')
+
+a1=10*log10(125000000000000)
+
+a2=10*log10(1.3)
+ 
+A0=a1-13.7-7-3-a2
+
+disp('At a carrier frequency of 2GHz, the wavelength is')
+
+(3*10^8)/(2*10^9)
+ 
+FM=116+60+20*log10(0.15)-5-20*log10(4*%pi*5*10^4)//Fade Margin can be found by Equation 6.31
+
+//Result
+//A0 = 116dB
+//wavelength = 0.15 m
+//Fade Margin = 38.5 dB
+xinit('/home/fossee/Downloads/tbc_graphs/Digital_Telephony_J._C._Bellamy_116/exa6_4');xend();exit();

@@ -1,0 +1,146 @@
+ERROR: Chemical_Reaction_Engineering_O._Levenspiel_249/CH3/EX3.1/3_01.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+coeff1=regress(log_CAo,log_Tf);
+                               !--error 4 
+Undefined variable: regress
+at line      34 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Chemical_Reaction_Engineering_O._Levenspiel_249/CH3/EX3.1/3_01.sce',-1)
+ 
+ERROR: Chemical_Reaction_Engineering_O._Levenspiel_249/CH3/EX3.2/3_02.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+coeff1=regress(log_CA,log_y);
+                             !--error 4 
+Undefined variable: regress
+at line      18 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Chemical_Reaction_Engineering_O._Levenspiel_249/CH3/EX3.2/3_02.sce',-1)
+ 
+ERROR: Chemical_Reaction_Engineering_O._Levenspiel_249/CH5/EX5.2/5_02.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+coefs=regress(m,n);
+                   !--error 4 
+Undefined variable: regress
+at line      30 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Chemical_Reaction_Engineering_O._Levenspiel_249/CH5/EX5.2/5_02.sce',-1)
+ 
+ERROR: Chemical_Reaction_Engineering_O._Levenspiel_249/CH18/EX18.2/18_02.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+coeff1=regress(CA_avg,rA)
+                          !--error 4 
+Undefined variable: regress
+at line      24 of exec file called by :    
+nspiel_249/CH18/EX18.2/18_02.sce',-1
+ 
+ERROR: Chemical_Reaction_Engineering_O._Levenspiel_249/CH18/EX18.3/18_03.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+coeff3=regress(x,y);
+                    !--error 4 
+Undefined variable: regress
+at line      19 of exec file called by :    
+nspiel_249/CH18/EX18.3/18_03.sce',-1
+ 
+ERROR: Chemical_Reaction_Engineering_O._Levenspiel_249/CH21/EX21.1/21_01.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+coeff =regress(t,y);
+                    !--error 4 
+Undefined variable: regress
+at line      19 of exec file called by :    
+nspiel_249/CH21/EX21.1/21_01.sce',-1
+ 

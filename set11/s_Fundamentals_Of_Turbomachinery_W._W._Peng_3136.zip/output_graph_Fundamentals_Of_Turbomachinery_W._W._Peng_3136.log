@@ -1,0 +1,4553 @@
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH2/EX2.9/Ex2_9.sce #
+[2J[0;0H 
+ 
+ 
+ N  =
+ 
+    1500.  
+ 
+ E  =
+ 
+    0.74  
+ 
+ Q  =
+ 
+    0.5575  
+ 
+Q is equal to 0.5575 
+ H  =
+ 
+    18.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q_o  =
+ 
+    250.  
+ 
+ 
+ 
+ From the dimensional specific speed (N_s) and fig2.1 , we select a Francis type pump and efficiency is estimated to be equal to  
+      74%                                                                                                                         
+ 
+ 
+ N_s  =
+ 
+    2713.9815  
+ 
+
+ N_s is equal to 2714 rpm(gpm^0.5)/(ft^0.75) 
+ 
+ To find the approximate size,Figure 2.2 has to be used   
+ 
+ 
+ omega  =
+ 
+    157.07963  
+ 
+
+ omega is equal to 157 
+ 
+ omega_s  =
+ 
+    0.9928783  
+ 
+
+ omega_s is equal to 0.9929 
+ 
+ 
+ From figure 2.2, it is obtained that delta_s=3.1   
+ 
+ D  =
+ 
+    0.4717393  
+ 
+
+ Hence D is equal to 0.472 ft 
+ 
+ Hence D is equal to 5.7 in    
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH3/EX3.11/Ex3_11.sce #
+[2J[0;0H 
+ 
+ 
+ The velocity diagram is similar to that in figure 3.19   
+ 
+ 
+ r_t  =
+ 
+    1.2  
+ 
+ r_h  =
+ 
+    0.7  
+ 
+ N  =
+ 
+    4800.  
+ 
+ V_1  =
+ 
+    600.  
+ 
+ 
+ r_m  =
+ 
+    0.9823441  
+ 
+
+ r_m is equal to 0.982 ft 
+ 
+ A  =
+ 
+    2.984513  
+ 
+
+ A is equal to 2.98 ft^2 
+ 
+ r_m  =
+ 
+    0.982  
+ 
+ U  =
+ 
+    493.60704  
+ 
+
+ U is equal to 493.6 ft/s 
+ 
+ V_a1  =
+ 
+    300.  
+ 
+
+ V_a1 is equal to 300.00 ft/s 
+ 
+ V_u1  =
+ 
+    519.61524  
+ 
+
+ V_u1 is equal to 519.6 ft/s 
+ 
+ 
+ x  =
+ 
+    0.0866940  
+ 
+
+ tan(ßf1) is equal to 0.0867 
+ beta_f1  =
+ 
+    4.9548127  
+ 
+
+ Hence ßf1= 4.95 degrees 
+ 
+ 
+ ßf1=ßb1. Also ßb2=ßf2=alpha_1=60 degrees   
+ 
+ 
+ From the velocity diagram we have V_u2=W_u1=V_u1-U   
+ 
+ W_u1  =
+ 
+    26.008205  
+ 
+
+ Thus Wu1 = 26.0082 ft/s 
+ 
+ 
+ V_u2  =
+ 
+    26.008205  
+ 
+ l  =
+ 
+    269323.57  
+ 
+
+ P_s/m=U*(V_u1+V_u2) is equal to 269324 (ft/s)^2 
+ 
+ Thus we can round it off to 29*10^5 (ft/s)^2   
+ 
+ 
+ 
+ Where m=rho*V_a1*A   
+ 
+ rho  =
+ 
+    0.0026398  
+ 
+ m  =
+ 
+    2.3635119  
+ 
+
+ m= 2.36 slug/s 
+ 
+ 
+ Thus we can determine P_s   
+ 
+ l  =
+ 
+    269000.  
+ 
+ m  =
+ 
+    2.36  
+ 
+ P_s  =
+ 
+    1154.2545  
+ 
+ P_s =1154 hp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH3/EX3.12/Ex3_12.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ The velocity diagram is similar to that in figure 3.19   
+ 
+ 
+ r_t  =
+ 
+    0.36  
+ 
+ r_h  =
+ 
+    0.21  
+ 
+ N  =
+ 
+    4800.  
+ 
+ V_1  =
+ 
+    183.  
+ 
+ 
+ r_m  =
+ 
+    0.2947032  
+ 
+
+ rm is equal to 0.295 m 
+ 
+ A  =
+ 
+    0.2686062  
+ 
+
+ A is equal to 0.27 m^2 
+ 
+ r_m  =
+ 
+    0.295  
+ 
+ U  =
+ 
+    148.28317  
+ 
+
+ U is equal to 148.3 m/s 
+ 
+ V_a1  =
+ 
+    91.5  
+ 
+
+ V_a1 is equal to 91.50 m/s 
+ 
+ V_u1  =
+ 
+    158.48265  
+ 
+
+ V_u1 is equal to 158.5 m/s 
+ 
+ 
+ x  =
+ 
+    0.1114697  
+ 
+
+ tan(ß1) is equal to 0.11147 m/s^2 
+ 
+ beta_f1  =
+ 
+    6.3604848  
+ 
+
+ We have ß_b1= ß_f1= 6.36 degrees 
+ 
+ 
+ ß_f1=ß_b1. Also ß_b2=ß_f2=alpha_1=60 degrees   
+ 
+ 
+ From the velocity diagram we have V_u2=W_u1=V_u1-U   
+ 
+ W_u1  =
+ 
+    10.199476  
+ 
+
+ Thus W_u1 = 10.20 m/s 
+ 
+ 
+ V_u2  =
+ 
+    10.199476  
+ 
+ l  =
+ 
+    25012.721  
+ 
+
+ P_s/m=U*(V_u1+V_u2) is equal to 25012.7 (m/s)^2 
+ 
+ Thus we can round it off to 2.5*10^4 (m/s)^2   
+ 
+ 
+ 
+ Where m=rho*V_a1*A   
+ 
+ rho  =
+ 
+    1.36  
+ 
+ V_a1  =
+ 
+    91.5  
+ 
+ A  =
+ 
+    0.269  
+ 
+ m  =
+ 
+    33.47436  
+ 
+
+ m= 33.5 kg/s 
+ 
+ 
+ Thus we can determine P_s   
+ 
+ l  =
+ 
+    25000.  
+ 
+ m  =
+ 
+    33.5  
+ 
+ P_s  =
+ 
+    837500.  
+ 
+ P_s =837500 W 
+ 
+ Thus on rounding off P_s is equal to 837kW   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.2/Ex4_2.sce #
+[2J[0;0H 
+ 
+ 
+ The relevant formulae are given as :    
+ 
+ 
+ Eta_1 =((62.4*0.00223*Q_1*H_1/(550*P_s1)))*100   
+ 
+ 
+ Q_2=Q_1*N_2/N_1   
+ 
+ 
+ H_2=H_1*(N_2/N_1)^2   
+ 
+ 
+ P_s2=P_s1*((N_2/N_1)^3)   
+ 
+ 
+ H and P_s at Q=0 are obtained with extrapolition   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_s2  =
+ 
+    72.056292    0.    0.    0.    0.    0.    0.  
+ Eta_2  =
+ 
+    0.    0.    0.    0.    0.    0.    0.  
+ P_s2  =
+ 
+    72.056292    79.776609    0.    0.    0.    0.    0.  
+ Eta_2  =
+ 
+    0.    46.520023    0.    0.    0.    0.    0.  
+ P_s2  =
+ 
+    72.056292    79.776609    92.643804    0.    0.    0.    0.  
+ Eta_2  =
+ 
+    0.    46.520023    59.613982    0.    0.    0.    0.  
+ P_s2  =
+ 
+    72.056292    79.776609    92.643804    108.08444    0.    0.    0.  
+ Eta_2  =
+ 
+    0.    46.520023    59.613982    61.805174    0.    0.    0.  
+ P_s2  =
+ 
+    72.056292    79.776609    92.643804    108.08444    113.23132    0.    0.  
+ Eta_2  =
+ 
+    0.    46.520023    59.613982    61.805174    83.956957    0.    0.  
+ P_s2  =
+ 
+    72.056292    79.776609    92.643804    108.08444    113.23132    126.09851    0.  
+ Eta_2  =
+ 
+    0.    46.520023    59.613982    61.805174    83.956957    81.704685    0.  
+ P_s2  =
+ 
+    72.056292    79.776609    92.643804    108.08444    113.23132    126.09851    149.25946  
+ Eta_2  =
+ 
+    0.    46.520023    59.613982    61.805174    83.956957    81.704685    72.302332  
+ 
+ 
+ 
+ 
+   Q_1(gpm)  H_1(ft)   P_s1(hp)  Eta_1(%)    Q_2(gpm)        H_2(ft)      P_s2(hp)      Eta_2(%)   
+ 
+ 
+    0.       205.    28.    0.           0.           384.97257    72.056292    0.         
+    285.     200.    31.    46.520023    390.55556    375.58299    79.776609    46.520023  
+    435.     195.    36.    59.613982    596.11111    366.19342    92.643804    59.613982  
+    540.     190.    42.    61.805174    740.         356.80384    108.08444    61.805174  
+    785.     186.    44.    83.956957    1075.7407    349.29218    113.23132    83.956957  
+    920.     172.    49.    81.704685    1260.7407    323.00137    126.09851    81.704685  
+    1275.    130.    58.    72.302332    1747.2222    244.12894    149.25946    72.302332  
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 0
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["H_1(ft)";"P_s1(hp)";"Eta_1(%)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = 33
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["H_2(ft)";"Ps_2(hp)";"Eta_2(%)"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline","Polyline"]
+legend_location = "out_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = 33
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.4/Ex4_4.sce #
+[2J[0;0H 
+ 
+ 
+ From figure 4.7a, H=235ft, Q=170 gpm at b.e.p. of 57.5%.    
+ 
+ 
+ The corresponding NPSHR is 8.7ft. From the steam table we have pv=3.73 psia at T=150 degrees Farenheit   
+ 
+ 
+ Also NPSPA=pt-pf+rho*g*Z-pv is greater than or equal to NPSPR    
+ 
+ 
+ Thus we can determine the value of Z   
+ 
+ 
+ NPSHR  =
+ 
+    8.7  
+ 
+ p_t  =
+ 
+    20.  
+ 
+ p_f  =
+ 
+    17.34  
+ 
+ p_v  =
+ 
+    3.73  
+ 
+ 
+ x  =
+ 
+    62.4  
+ 
+ 
+ Z  =
+ 
+    11.169231  
+ 
+ 
+ Thus the value of Zis equal to 11.2 ft 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.6/Ex4_6.sce #
+[2J[0;0H 
+ 
+ 
+ From figure 4.7a,we have NPSHR=8.7ft=2.65m at Q=170gpm for the b.e.p. condition of the 8in impeller.   
+ 
+ 
+ 
+ From figure 4.18 we have deltaNPSH=0.6ft=0.18m and pv=69kPa at T=90 degrees celsius for water.    
+ 
+ 
+ The total NPSPA is equal to  pt-rho*g*Z-pf-pv and the total NPSPR is equal to rho*g*(NPSHR-deltaNPSH)   
+ 
+ 
+ To avoid cavitation, at the pump inlet ,it is required to have NPSPA>NPSPR   
+ 
+ 
+ Hence it is required (pt-rho*g*Z-pf-pv)>rho*g*(NPSHR-deltaNPSH)   
+ 
+ p_f  =
+ 
+    10.  
+ 
+ p_v  =
+ 
+    69.  
+ 
+ rho  =
+ 
+    998.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ Z  =
+ 
+    2.  
+ 
+ NPSHR  =
+ 
+    2.65  
+ 
+ deltaNPSH  =
+ 
+    0.18  
+ 
+ p_t  =
+ 
+    122.71839  
+ 
+
+ Thus pt is equal to  122.7 kPA 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.7/Ex4_7.sce #
+[2J[0;0H 
+ 
+ 
+ (a) Start wit calculation of specific speed   
+ 
+ 
+ N  =
+ 
+    2400.  
+ 
+ Q  =
+ 
+    1200.  
+ 
+ H  =
+ 
+    450.  
+ 
+ N_s  =
+ 
+    850.92734  
+ 
+Ns= 851 rpm*gpm^0.5/ft^0.75 
+ 
+ 
+ From figure 4.20 we obtain overall efficiency is equal to 0.76   
+ 
+ Q  =
+ 
+    1200.  
+ 
+ delta_p  =
+ 
+    62.6184  
+ 
+ ETA_oa  =
+ 
+    0.76  
+ 
+ P_s  =
+ 
+    98871.158  
+ 
+Since Ps=(Q*delta_p)/(ETA_oa),P_s= 98871 ft-lbf/s 
+ 
+ 
+ To determine the inlet configuration:   
+ 
+ N  =
+ 
+    2400.  
+ 
+ omega  =
+ 
+    251.32741  
+ 
+Omega = 251rad/s 
+ tau  =
+ 
+    393.39584  
+ 
+
+τ= 393 lbf-ft 
+ 
+ 
+ Hence the shaft diameter Dsh can be determined   
+ 
+ sigma_s  =
+ 
+    10000.  
+ 
+ D_sh  =
+ 
+    0.1116381  
+ 
+D_sh= 0.1116 ft =1.34 inches 
+ 
+ 
+ A pure radial inet confuguratin isbselected that is Dt1=Dh1=D1(see figure 4.19).The impeller eyee area and leading edge diameter 
+      s can be calculated from the following equations.                                                                           
+ 
+ 
+ 
+ U_1=0.5*omega*D_1   
+ 
+ 
+ Q=A_1*V_1=A_e*V_e   
+ 
+ 
+ V_1=1.1*V_e   
+ 
+ 
+ ß_f1=taninverse(V1/U1)   
+ 
+ 
+ 
+ Where A_1=ε_1*pi*D_1*b_1   
+ 
+ 
+ Where A_e=pi*D_e^2/4   
+ 
+ 
+ With φ_1=Q/(A_e*U_e)=Q/(pi*omega*re^3)=27   
+ 
+ 
+ Thus we obtain re=2.8 in and selecting r1=3.2 inches the final results are obtained as Ve=Q/(pi*D_e^2/4)=15.6ft   
+ 
+ 
+ V_1=17.2ft/s , A_1=22.4in^2, b2=1.24in with ε_1=0.9 assumed. Also U_1=66.9ft/s,ß_f1=14.4 degrees,ß_b1=17 degrees and W_1=69.1 
+       ft/s                                                                                                                       
+ 
+ 
+ 
+ (c) The impeller discharge is determined    
+ 
+ omega  =
+ 
+    251.  
+ 
+ Q  =
+ 
+    2.676  
+ 
+ 
+ x  =
+ 
+    14490.  
+ 
+ omega_s  =
+ 
+    0.3108963  
+ 
+
+omegas is 0.311 
+ 
+ delta_s  =
+ 
+    9.  
+ 
+ D_2  =
+ 
+    1.3418948  
+ 
+
+D2= 1.3419 ft = 16.1in 
+ 
+ D_2  =
+ 
+    1.342  
+ 
+ omega  =
+ 
+    251.  
+ 
+ U_2  =
+ 
+    168.421  
+ 
+
+ U_2= 168.42 
+ 
+ 
+ Selecting ß_b2=27.5 degrees   
+ 
+ Zb  =
+ 
+    5.7428374  
+ 
+
+Zb= 5.74 is approximately equal to 6 
+ MUs  =
+ 
+    0.7489586  
+ 
+
+Thus µs= 0.749 
+ 
+ ETA_h  =
+ 
+    0.8640765  
+ 
+
+ ETA_h= 0.864 
+ 
+ 
+ (3) Substituting these values into the Euler equation ,we obtain values of Vu2 and Vr2   
+ 
+ ETA_h  =
+ 
+    0.864  
+ 
+ U_2  =
+ 
+    168.5  
+ 
+ V_u2  =
+ 
+    99.530168  
+ 
+
+ Vu2= 99.53 ft/s 
+ 
+ 
+ Vu2=µ*(U2-Vr2/tanßb2)   
+ 
+ 
+ Hence we can find out the value of Vr2=19.4 ft/s   
+ 
+ V_r2  =
+ 
+    19.4  
+ 
+ V_u2  =
+ 
+    99.6  
+ 
+ U_2  =
+ 
+    168.5  
+ 
+ W_2  =
+ 
+    71.579117  
+ 
+W2= 71.58 ft/s 
+ 
+ 
+ Hence W2/W1 >1 , which is not appropriate. A different D2 has to be selected,say D2=15in.   
+ 
+ 
+ So we have U_2=159.6 ft/s,V_u2=106.9 ft/s , V_rt=8.5ft/s, and W_2=50.7 ft/s   
+ 
+ 
+ Hence W_2/W_1=0.74, which is acceptable   
+ 
+ 
+ 
+ The outlet dimensions are calculated as A2=Q/Vr2   
+ 
+ Q  =
+ 
+    1200.  
+ 
+ V_r2  =
+ 
+    8.5  
+ 
+ A_2  =
+ 
+    0.3148235  
+ 
+
+Thus A_2= 0.315 ft^2 
+ 
+ On converting, we get A2=45.3 in^2   
+ 
+ 
+ A_2=ε_2*pi*D_2*b_2, where ε_2=1-(Zb*t)/(pi*D_2*sin(ß_b2))   
+ 
+ Zb  =
+ 
+    6.  
+ 
+ t  =
+ 
+    0.25  
+ 
+ D_2  =
+ 
+    15.  
+ 
+ beta_b2  =
+ 
+    0.4799655  
+ 
+ epsilon_2  =
+ 
+    0.9310642  
+ 
+Thus ε2 = 0.93 
+ A_2  =
+ 
+    45.3  
+ 
+ b_2  =
+ 
+    1.03247  
+ 
+
+Thus we can determine b_2 which is equal to 1 in 
+ 
+ epsilon_1  =
+ 
+    0.7448321  
+ 
+
+ε_1= 0.74 
+ 
+ b_1 has to be adjusted   
+ 
+ b_1  =
+ 
+    1.5810811  
+ 
+
+Thus b_1 is equal to 1.58 in 
+ 
+ 
+ The blade profile is constructed by assuming a linear blade angle distribution   
+ 
+ 
+ ßb=ßb1+(ßb2-ßb1)*(r-r1)/(r2-r1))=17+2.44(r-3.2)   
+ 
+ 
+ where ßb is in degrees and r is in inches.   
+ 
+ 
+ Also deltatheta can be expressed as (180/pi)*deltar/(r*tanßb)   
+ 
+ 
+ If we select deltar=0.43 in,then ßb,deltatheta,theta,dL and L can be calculated and tabulated as follows   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ table  =
+ 
+    3.2     17.      25.188    0.        1.4709    0.       3.2     17.     25.19    0.      0.      1.471    0.     
+    3.63    18.05    20.831    25.188    1.388     1.471    3.63    17.6    21.4     25.2    25.2    1.422    1.471  
+    4.06    19.1     17.528    46.018    1.3143    2.859    4.06    18.2    18.46    46.6    46.6    1.377    2.893  
+    4.49    20.15    14.957    63.546    1.2484    4.173    4.49    18.8    16.12    65.     65.     1.334    4.27   
+    4.92    21.2     12.913    78.502    1.1892    5.422    4.92    19.4    14.22    81.2    81.2    1.295    5.604  
+    5.35    22.25    11.259    91.415    1.1358    6.611    5.35    20.     12.65    95.4    95.4    1.257    6.899  
+    5.78    23.3     9.8993    102.67    1.0873    7.747    5.78    20.6    11.34    108.    108.    1.222    8.157  
+    6.21    24.35    8.768     112.57    1.0431    8.834    6.21    21.2    10.23    119.    119.    1.189    9.379  
+    6.64    25.4     7.8157    121.34    1.0026    9.877    6.64    21.8    9.279    130.    130.    1.158    10.57  
+    7.07    26.45    7.006     129.16    0.9655    10.88    7.07    22.4    8.456    139.    139.    1.129    11.73  
+    7.5     27.5     6.3116    136.16    0.9314    11.85    7.5     23.     7.74     147.    147.    1.101    12.85  
+ 
+ 
+ The table is in the given order:beta,dthita,thita,dL,L.r,beta,dthita,thita,thita,dL,L   
+ 
+ 
+    3.2     17.      25.188    0.        1.4709    0.       3.2     17.     25.19    0.      0.      1.471    0.     
+    3.63    18.05    20.831    25.188    1.388     1.471    3.63    17.6    21.4     25.2    25.2    1.422    1.471  
+    4.06    19.1     17.528    46.018    1.3143    2.859    4.06    18.2    18.46    46.6    46.6    1.377    2.893  
+    4.49    20.15    14.957    63.546    1.2484    4.173    4.49    18.8    16.12    65.     65.     1.334    4.27   
+    4.92    21.2     12.913    78.502    1.1892    5.422    4.92    19.4    14.22    81.2    81.2    1.295    5.604  
+    5.35    22.25    11.259    91.415    1.1358    6.611    5.35    20.     12.65    95.4    95.4    1.257    6.899  
+    5.78    23.3     9.8993    102.67    1.0873    7.747    5.78    20.6    11.34    108.    108.    1.222    8.157  
+    6.21    24.35    8.768     112.57    1.0431    8.834    6.21    21.2    10.23    119.    119.    1.189    9.379  
+    6.64    25.4     7.8157    121.34    1.0026    9.877    6.64    21.8    9.279    130.    130.    1.158    10.57  
+    7.07    26.45    7.006     129.16    0.9655    10.88    7.07    22.4    8.456    139.    139.    1.129    11.73  
+    7.5     27.5     6.3116    136.16    0.9314    11.85    7.5     23.     7.74     147.    147.    1.101    12.85  
+ 
+ 
+ 
+ The table shows that with ßb2=27.5 degrees the blade lemgth L=11.85 in.   
+ 
+ sigma_s  =
+ 
+    1.5087889  
+ 
+ Hence the solidity is sigma_s= 1.51 which is too low. 
+ 
+ sigma_s  =
+ 
+    2.4541692  
+ 
+
+ Hence the new ßb2=23 degrees and Zb=9 are selected so that we hae final value of sigma_s=2.45. 
+ 
+ 
+ The final values of the impeller outlet dimensions are revised:   
+ 
+ 
+ A2=0.194 ft^2=27.9 in^2, b2=0.67 in , with mu_s=0.86, epsilon_2=0.88 , Vr2=13.8 ft/s , W2=51.8 ft/s   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.8/Ex4_8.sce #
+[2J[0;0H 
+ 
+ 
+ From example 4.7 we have Q=1200gpm,H=450ft,N=2400rpm   
+ 
+ 
+ Furthermore Ns=851 rpm*(gpm^0.5)/(ft^0.75),D2=15in,b2=0.67in,U2=156.9 ft/s.   
+ 
+ 
+ Also,ßb2=23 degrees,µs=0.86,V2=13.8ft/s and Vu2=106.9ft/s   
+ 
+ 
+ Hence we have the angular momentum L=r2*Vu2    
+ 
+ L  =
+ 
+    66.8125  
+ 
+ Thus L= 66.81 dt/s^2 
+ 
+ 
+ Fom figure 4.24 we have K3=0.46 and Ns=851.   
+ 
+ 
+ Hence the volute exit velocity Vt=K3*(2*g*H)^0.5   
+ 
+ V_3  =
+ 
+    78.30816  
+ 
+
+ Thus Vt= 78.31 ft/s 
+ 
+ 
+ Also A_t=Q/V_t    
+ 
+ A_t  =
+ 
+    0.0341762  
+ 
+ At= 0.034 ft^2 which is equal to 4.92 in^2 
+ 
+ Also from Figure 4.24 we have (D3-D2)/D2=0.08   
+ 
+ 
+ r_3  =
+ 
+    8.1  
+ 
+
+ r3= 8.10 
+ 
+ If the trapezoid with an included angle of 30 degrees is selected for bassic geometry of the volute cross section,the dimensions 
+       from each section can be calculated from Athita*Vthita=(Q*thita)/(2*pi)                                                    
+ 
+ 
+ 
+ r_c*V_thita=CL   
+ 
+ 
+ A_thita=0.5*h*(a+b)   
+ 
+ 
+ (a-b)/(2*h)=tan(15)   
+ 
+ 
+ x_c=h*(2a+b)/(3*(a+b))   
+ 
+ 
+ rc=r3+x_c   
+ 
+ 
+ 
+ where b=1.82 b2=1.206 in. is selected   
+ 
+ 
+ The equations are to be solved with iterations and performed with a spreadsheet.   
+ 
+ 
+ The initial velocity is selected as V_thita=V_t   
+ 
+ 
+ Then A_thita is calculated from 1,a and h from(3) and (4), and x_c and r_c from (5) and (6)   
+ 
+ 
+ Then the improved V_thita is obtained from (2) and the process is repeated until the discrepancies of the repeated values are sm 
+      all enough.                                                                                                                 
+ 
+ 
+ In the final design the trapezoid is modified by roundidng off the corners and the area may be increassed by 5 to 10 percent to  
+      accomodate the blockage due to the boundary layer and sme secondary flows.                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH4/EX4.13/Ex4_13.sce #
+[2J[0;0H 
+ 
+ 
+ The specific speeds for all three options can be calculated   
+ 
+ 
+ N_sa  =
+ 
+    994.80159  
+ 
+Nsa= 995 rpm*(gpm^0.5)/(ft^0.75) 
+ 
+ N_sb  =
+ 
+    1193.7619  
+ 
+
+Nsb= 1194  
+ 
+ N_sc  =
+ 
+    1673.0502  
+ 
+
+Nsc= 1673 
+ 
+ 
+ From figures 4.20 and 4.36, we oobtain Effa=0.75, Dsa=1.7,Effb=0.78,Dsb=1.4,Effc=0.80,Dsc=1.31   
+ 
+ 
+ D_sa  =
+ 
+    1.7  
+ 
+ Q  =
+ 
+    500.  
+ 
+ H  =
+ 
+    350.  
+ 
+ D_a  =
+ 
+    8.7885436  
+ 
+
+Da=Dsa*(Q^0.5)/(H^0.25)= 8.8 in 
+ 
+ D_sb  =
+ 
+    1.4  
+ 
+ D_b  =
+ 
+    7.2376242  
+ 
+
+Db= 7.2 in 
+ 
+ D_sc  =
+ 
+    1.1  
+ 
+ D_c  =
+ 
+    5.6867047  
+ 
+
+Dc= 5.7 in 
+ 
+ Q  =
+ 
+    1.115  
+ 
+ 
+ x  =
+ 
+    62.4  
+ 
+ P_h  =
+ 
+    24351.6  
+ 
+
+The output hydraulic power is equal to 24352 ft-lbf/s = 44.3hp=33kW 
+ 
+ P_a  =
+ 
+    48.888889  
+ 
+
+The power required for option a= 48.9 kW 
+ 
+ P_b  =
+ 
+    49.482681  
+ 
+
+The power required for option b= 49.5 kW 
+ 
+ P_c  =
+ 
+    45.833333  
+ 
+
+The power required for option c= 45.8 kW 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH5/EX5.1/Ex5_1.sce #
+[2J[0;0H 
+ 
+ 
+ From figure 5.3a, we have Cl=0.36, Cd=0.017 and alpha=1.8 degrees at maximum L/D   
+ 
+ 
+ N  =
+ 
+    3500.  
+ 
+ C_l  =
+ 
+    0.36  
+ 
+ alpha  =
+ 
+    1.8  
+ 
+ C_d  =
+ 
+    0.017  
+ 
+ r_t  =
+ 
+    13.25  
+ 
+ r_h  =
+ 
+    3.25  
+ 
+ Zb  =
+ 
+    7.  
+ 
+ Q  =
+ 
+    11560.  
+ 
+ gamma_1  =
+ 
+    70.  
+ 
+ alpha  =
+ 
+    1.8  
+ 
+ 
+ A  =
+ 
+    518.36279  
+ 
+
+ A is equal to 518.4 in^2 
+ 
+ On converting it in terms of feet we have A= 3.6 ft^2   
+ 
+ 
+ r_m  =
+ 
+    9.6468907  
+ 
+
+ rm is equal to 9.65 in 
+ 
+ On converting it in terms of feet we have rm=0.804 ft    
+ 
+ 
+ r_m  =
+ 
+    0.804  
+ 
+ U_m  =
+ 
+    294.68139  
+ 
+
+ Um is equal to 294.7 ft/s 
+ 
+ r_m  =
+ 
+    9.65  
+ 
+ s  =
+ 
+    8.6618197  
+ 
+
+ s= 8.66 in 
+ 
+ 
+ Va=V1=Q/A   
+ 
+ 
+ A  =
+ 
+    3.6  
+ 
+ V_1  =
+ 
+    53.518519  
+ 
+
+ V1=Va= 53.52 ft/s 
+ 
+ U_m  =
+ 
+    294.7  
+ 
+ V_1  =
+ 
+    53.5  
+ 
+ beta_1  =
+ 
+    79.710552  
+ 
+
+ ß1= 79.7 degrees 
+ 
+ beta_m  =
+ 
+    71.8  
+ 
+
+ ßm= 71.8 degrees 
+ 
+ 
+ From tanßm=(tanß1+tanß2)/2 ,ß2=30.1 degrees; Then Wmcosßm=Va   
+ 
+ V_a  =
+ 
+    53.5  
+ 
+ W_m  =
+ 
+    171.29049  
+ 
+
+ So Wm= 171.3 ft/s 
+ 
+ W_m  =
+ 
+    171.3  
+ 
+ rho  =
+ 
+    0.0023665  
+ 
+ cm  =
+ 
+    3.5  
+ 
+ s  =
+ 
+    8.66  
+ 
+ 
+ hence we have deltapr=((rho*Wm^2)/2)*(cm/s)*(Cl*sin(betam*%pi/180)-Cd*cos(betam*%pi/180))   
+ 
+ delta_pr  =
+ 
+    4.7244539  
+ 
+
+ deltapr= 4.7245 lb/ft^2  
+ 
+ On rounding off we get deltapr= 4.73 lbf/ft^2   
+ 
+ 
+ Thus deltapr=0.0328psia=0.91 in.wg   
+ 
+ 
+ 
+ Across the stator, from the velocity diagram, we have Wu2=Va*tanß2 and V2=(Va^2+(Um-Wu2)^2)^0.5   
+ 
+ 
+ beta_2  =
+ 
+    0.5253441  
+ 
+ V_a  =
+ 
+    53.5  
+ 
+ W_u2  =
+ 
+    31.012865  
+ 
+ Thus Wu2 is equal to 31 ft/s 
+ 
+ U_m  =
+ 
+    294.7  
+ 
+ V_2  =
+ 
+    269.05976  
+ 
+
+ V2= 269 ft/s 
+ 
+ 
+ So assuming V_3=V_a   
+ 
+ 
+ V_a  =
+ 
+    53.5  
+ 
+ V_2  =
+ 
+    269.  
+ 
+ eta_s  =
+ 
+    0.85  
+ 
+ rho  =
+ 
+    0.0023665  
+ 
+ delta_ps  =
+ 
+    0.4854031  
+ 
+ 
+ delta_ps=(((etas*rho)/2)*(V2^2-Va^2))   
+ 
+
+ deltaps is equal to 0.485 psia 
+ 
+ On converting the unit deltaps = 1.12 ft which is equal to 13.44 inches of water   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH5/EX5.7/Ex5_7.sce #
+[2J[0;0H 
+ 
+ 
+ The average flow velocity V is determined as V=Q/A   
+ 
+ Q  =
+ 
+    7000.  
+ 
+ A  =
+ 
+    1.7671459  
+ 
+ V  =
+ 
+    3961.1897  
+ 
+ Thus V = 3961.19 fpm 
+ 
+ Thus V is approximately equal to 4000fpm   
+ 
+ 
+ 
+ So we have 100% effective discharge duct length Le=[2.5+(4000-2500)/1000]*D   
+ 
+ D  =
+ 
+    1.5  
+ 
+ Le  =
+ 
+    6.  
+ 
+
+ Since D=1.5 ft, Le is equal to 6.00 ft 
+ 
+ 
+ L1  =
+ 
+    0.75  
+ 
+ x  =
+ 
+    0.125  
+ 
+
+ Since L1=0.75,L1/Le=0.125 
+ 
+ 
+ So the line V in figure 5.18 can be used to obtain SEF1=0.255in.wg   
+ 
+ 
+ For the two elbows we have L2/D and C2   
+ 
+ 
+ L2  =
+ 
+    3.  
+ 
+ y  =
+ 
+    2.  
+ 
+
+ The value of L2/D is equal to 2.00 
+ 
+ From figure 5.19a,C2=4.2   
+ 
+ 
+ 
+ Hence we can obtain SEF2=4.2*(rho*V^2/2)   
+ 
+ rho  =
+ 
+    0.075  
+ 
+ V  =
+ 
+    4000.  
+ 
+ SEF2  =
+ 
+    4.180602  
+ 
+
+ SEF2 is equal to 4.18 in.wg 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH5/EX5.8/Ex5_8.sce #
+[2J[0;0H 
+ 
+ 
+ We have the duct resistance deltap=0.25*((7000/5000)^2)   
+ 
+ delta_p  =
+ 
+    0.49  
+ 
+ deltap 0.49 in.wg at 7000cfm 
+ 
+ 
+ The density in the building can be calculated from rho=p/R*T   
+ 
+ p  =
+ 
+    12.5  
+ 
+ R  =
+ 
+    53.3  
+ 
+ T  =
+ 
+    545.  
+ 
+ rho  =
+ 
+    0.0619653  
+ 
+
+ rho= 0.06197 lbm/ft^3 
+ 
+ 
+ So the equivalent SPe of the required fan at STP can be found out   
+ 
+ SPe  =
+ 
+    0.5936995  
+ 
+
+ SPe = 0.5937 in.wg. 
+ 
+ 
+ Form figure 5.24a,at SP=0.5,Q1=6894,N1=347,BHP1=0.76 and Q2=7660, N2=360, BHP2=0.88. Hence for Q=7000cfm we can determine Ndash  
+ 
+ Ndash  =
+ 
+    348.79896  
+ 
+
+ Ndash is equal to 348.80 rpm 
+ 
+ BHPdash  =
+ 
+    0.77656  
+ 
+
+ BHPdash= 0.7766 
+ 
+ 
+ At Sp=5/8=0.625 in.wg.,Q1=6894,N1=375,BHP1=0.92 and Q2=7660,N2=387,BHP2=1.05,so for Q=7000cfm we can determine Ndbldash and BHPd 
+      bldassh                                                                                                                     
+ 
+ 
+ Ndbldash  =
+ 
+    376.656  
+ 
+
+ Ndbldash 376.66 rpm 
+ 
+ BHPdbldash  =
+ 
+    0.93794  
+ 
+
+ BHPdbldash 0.9379 hp 
+ 
+ 
+ Again interpolating for SPe=0.593,we have values of N and BHP as mentioned below    
+ 
+ N  =
+ 
+    369.4832  
+ 
+
+ N= 369rpm 
+ BHP  =
+ 
+    0.896528  
+ 
+
+ BHP= 0.8965 hp 
+ 
+ 
+ Correcting for the reduced air density,the actual BHP is determined   
+ 
+ BHP  =
+ 
+    0.7394987  
+ 
+
+ Actual BHP is equal to 0.7395 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.7/Ex6_7.sce #
+[2J[0;0H 
+ 
+ 
+ Inlet Configuration selection: Mr1,t=0.75 and ßf1=25 degrees   
+ 
+ M_r1t  =
+ 
+    0.75  
+ 
+ beta_f1  =
+ 
+    0.4363323  
+ 
+ M_1t  =
+ 
+    0.3169637  
+ 
+ M_1t=0.317 
+ 
+ 
+ T1=To1/(1=((k-1))*(M_lt^2)/2   
+ 
+ T1  =
+ 
+    519.55803  
+ 
+
+ Thus the value of T1= 519.6R 
+ 
+ a1  =
+ 
+    1117.6667  
+ 
+
+ a1= 1117.67 ft/s 
+ 
+ V_1t  =
+ 
+    354.2792  
+ 
+
+ V1=354.3 ft/s 
+ 
+ W_1t  =
+ 
+    838.2  
+ 
+
+ W_1t= 838.2 ft/s 
+ 
+ U_1t  =
+ 
+    759.63857  
+ 
+
+ U_1t= 759.6 ft/s 
+ 
+ omega  =
+ 
+    1623.  
+ 
+ U_1t  =
+ 
+    759.6  
+ 
+ r_1t  =
+ 
+    0.4680222  
+ 
+
+ So we have r_1t= 0.468 ft=5.6in 
+ 
+ 
+ x  =
+ 
+    3.5  
+ 
+ po1  =
+ 
+    14.7  
+ 
+ T_1  =
+ 
+    519.6  
+ 
+ T_o1  =
+ 
+    530.  
+ 
+ p1  =
+ 
+    13.714936  
+ 
+
+ So we have p1= 13.7 psia 
+ 
+ p1  =
+ 
+    13.7  
+ 
+ R  =
+ 
+    53.33  
+ 
+ T1  =
+ 
+    519.6  
+ 
+ rho1  =
+ 
+    0.0711938  
+ 
+
+ rho1= 0.0712 lbm/ft^3 
+ 
+ m  =
+ 
+    17.  
+ 
+ rho1  =
+ 
+    0.0713  
+ 
+ V1  =
+ 
+    354.3  
+ 
+ A1  =
+ 
+    0.6729584  
+ 
+
+ A1= 0.673 ft^2=96.9 in ^2,assuming uniform inlet flow.
+
+ 
+ 
+ 
+ From pi*[(r_1t^2)-(r_1h^2)]=A1   
+ 
+ 
+ We have r_1h={[(r_1t^2)-A1]/pi}^0.5=0.72 in   
+ 
+ 
+ U_1h=97.0 ft/s   
+ 
+ 
+ 
+ ß_f1,h=taninverse(V_1h/U_1h)   
+ 
+ V_1h  =
+ 
+    354.3  
+ 
+ U_1h  =
+ 
+    97.  
+ 
+ beta_f1h  =
+ 
+    74.688793  
+ 
+ ßf1= 74.7 degrees 
+ 
+ 
+ (B) Outlet Configuration From   
+ 
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ To1  =
+ 
+    530.  
+ 
+ 
+ y  =
+ 
+    0.2857  
+ 
+ 
+ m  =
+ 
+    2.5  
+ 
+ H_ad  =
+ 
+    29613.884  
+ 
+ H_ad=H_ad=Cp*To1*778[(po2/po1)^((k-1)/k)-1] 29614 ft-lbf/lbm  
+ 
+ m  =
+ 
+    17.  
+ 
+ rho1  =
+ 
+    0.0713  
+ 
+ Q1  =
+ 
+    238.42917  
+ 
+
+ Q1=238.4 ft^3/s 
+ 
+ N  =
+ 
+    15500.  
+ 
+ H_ad  =
+ 
+    29614.  
+ 
+ Q1  =
+ 
+    238.4  
+ 
+ Ns  =
+ 
+    106.01371  
+ 
+
+ We obtain specific speed 106 rpm*{(ft^3/s)^0.5}(ft-lbf/lbm)^0.75  
+ 
+ 
+ Fom figure 6.7 we have estimated Eta_c=0.87 and Ds=D2*(H_ad)/(Q1^0.5)=1.50   
+ 
+ D2  =
+ 
+    1.7655097  
+ 
+
+ D2=1.7655 ft=21.2 inches or r2=10.6 in. and U2=r2*omega=1433.7 ft/s 
+ 
+ 
+ Referring to figure 6.16c,we have T_sso3=T_o1*(po3/po1)^((k-1)/k)   
+ 
+ 
+ x  =
+ 
+    0.2857  
+ 
+ T_o1  =
+ 
+    530.  
+ 
+ 
+ l  =
+ 
+    2.5  
+ 
+ T_sso3  =
+ 
+    688.60049  
+ 
+ T_sso3= 688.6 R  
+ 
+ From Eta_c=(T_sso3-(T_o1))/(To3-To1) we have To2=To3   
+ 
+ 
+ l  =
+ 
+    712.29885  
+ 
+ To2/To3 712.3R 
+ 
+ Also from Etam=U2*Vu2/[Cp*(T_o2-T_o1)]   
+ 
+ 
+ Vu2  =
+ 
+    726.27099  
+ 
+ With the estimated Eta_m=0.95,Vu2=726.3 ft/s 
+ 
+ 
+ Flow coefficient φ=Vm2/U2=0.30    
+ 
+ Vm2  =
+ 
+    430.11  
+ 
+ Vm2=430.1 ft/s 
+ 
+ 
+ W2=[Vm2^2+(U2-Vu2)^2]^0.5=827.9 ft/s   
+ 
+ 
+ V2=[Vu2^2+Vm2^2]^0.5=844.1 ft/s   
+ 
+ 
+ W1t  =
+ 
+    838.2  
+ 
+ W2  =
+ 
+    827.9  
+ 
+ Df  =
+ 
+    1.0124411  
+ 
+ Hence we have diffusion factor Df=1.012. The value is less than 1.9 which is okay. 
+ 
+ 
+ The impeller efiiciency can be estiamted form the losses fraction X=(1-Eta_imp)/(1-Eta_c) is approximately =0.6    
+ 
+ Eta_imp  =
+ 
+    0.922  
+ 
+
+ Eta_imp 0.922 
+ 
+ 
+ Hence from Eta_imp=(T_so2-T_o1)/(T_o2-T_o1),we have T_so2=T_o1+Eta_imp*(To2-T_o1)=698R and po2=po1*(T_so2/T_o1)^(k/(k-1))   
+ 
+ po1  =
+ 
+    14.7  
+ 
+ T_so2  =
+ 
+    698.1  
+ 
+ T_o1  =
+ 
+    530.  
+ 
+ 
+ x  =
+ 
+    3.5  
+ 
+ po2  =
+ 
+    38.553475  
+ 
+ po2=38.55 psia  
+ 
+ 
+ Then from the energy equation we have T2=T_o2-V2^2/(2*Cp)=653.0R   
+ 
+ 
+ Hence p2=p02*(T2/To2)^(k/(k-1))=28.4psia and rho2=p2/(R*T2)=0.117lbm/ft^3   
+ 
+ 
+ 
+ Selecting Zb=16 and using the Stanitz fromula for the slip coefficient we have Vdash_u2=Vu2+0.63*pi*U2/Zb   
+ 
+ Vu2  =
+ 
+    726.3  
+ 
+ U2  =
+ 
+    1433.7  
+ 
+ Zb  =
+ 
+    16.  
+ 
+ Vdash_u2  =
+ 
+    903.64899  
+ 
+ Vdash_u2= 903.6 ft/s 
+ 
+ 
+ tanß_b2=Vm2/(U2-Vdash_u2)   
+ 
+ Vm2  =
+ 
+    430.1  
+ 
+ U2  =
+ 
+    1433.7  
+ 
+ Vdash_u2  =
+ 
+    903.6  
+ 
+ tan_beta_b2  =
+ 
+    0.8113563  
+ 
+ tanß_b2=0.81  
+ 
+ betab2  =
+ 
+    39.054367  
+ 
+
+ ß_b2= 39 degrees 
+ 
+ 
+ With blade thickness t=0.15,contraction factor is determined   
+ 
+ Zb  =
+ 
+    16.  
+ 
+ t  =
+ 
+    0.15  
+ 
+ betab2  =
+ 
+    0.6806784  
+ 
+ D2  =
+ 
+    21.3  
+ 
+ epsilon2  =
+ 
+    0.9430085  
+ 
+ Thus epsilon2= 0.94 
+ 
+ 
+ Hence from the mass equation we can determine b2   
+ 
+ b2  =
+ 
+    0.0648144  
+ 
+ b2=0.0648=0.7 8inch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH6/EX6.8/Ex6_8.sce #
+[2J[0;0H 
+ 
+ 
+ Using figure 6.7 the specific speed Ns=N(V1^0.5)/(H_ad^0.75) should be calculated based on the inlet volumetric  flow rate V1 an 
+      d the adiabetic head per stage H_ad                                                                                         
+ 
+ p1  =
+ 
+    14.7  
+ 
+ R  =
+ 
+    53.3  
+ 
+ T1  =
+ 
+    530.  
+ 
+ rho1  =
+ 
+    0.0749336  
+ 
+ From rho1=p1/(R*T1) =0.075 lbm/ft^3, we have V1 
+ 
+ V1  =
+ 
+    1333.3333  
+ 
+
+ Thus V1= 1333 ft^3/s. 
+ 
+ 
+ Also from equation (A.3), we have total adiabetic head ΣH_ad=Cp*T1*[(pe/pi)^((k-1)/k)-1]   
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ T1  =
+ 
+    530.  
+ 
+ pe  =
+ 
+    50.  
+ 
+ pi  =
+ 
+    14.7  
+ 
+ 
+ y  =
+ 
+    0.2857  
+ 
+ H_ad  =
+ 
+    41436.062  
+ 
+ Thus ΣH_ad= 41436 lbf-ft/lbm 
+ 
+ 
+ 
+ The specific speeds for different number of stages are calculated as follows    
+ 
+ 
+ Ns  =
+ 
+    60.342451  
+ 
+ For n=1 , Ns=4800*(1333^0.5)/(41436^0.75)=60  
+ 
+ Ns  =
+ 
+    137.55104  
+ 
+
+ For n=3 , Ns=4800*(1333^0.5)/(13812^0.75)=137.55  
+ 
+ Ns  =
+ 
+    170.67422  
+ 
+
+ For n=4 , Ns=4800*(1333^0.5)/(10359^0.75)=171  
+ 
+ Ns  =
+ 
+    231.33236  
+ 
+
+ For n=6 , Ns=4800*(1333^0.5)/(6906^0.75)=231  
+ 
+ Ns  =
+ 
+    287.05947  
+ 
+
+ For n=8 , Ns=4800*(1333^0.5)/(5179^0.75)=287  
+ 
+ 
+ Reading the curves in figure 6.7,the best efficient point is around Ns=280 with Eta=0.90   
+ 
+ 
+ ds=D*(H_ad^0.25)/(V1^0.5)=0.7   
+ 
+ 
+ Hence 8 stage mixed flow impellers are selected.   
+ 
+ 
+ D  =
+ 
+    3.0125978  
+ 
+ The impeller diameter is calculated to be = 3.0 ft 
+ 
+ m  =
+ 
+    100.  
+ 
+ H_ad  =
+ 
+    41436.  
+ 
+ Eta  =
+ 
+    0.9  
+ 
+ Ps  =
+ 
+    8370.9091  
+ 
+
+ The total required shaft power Ps=m*H_ad/(Eta)=8371 hp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH8/EX8.2/Ex8_2.sce #
+[2J[0;0H 
+ 
+ 
+ Referring to figure 8.3,we have T_s2=T_01*((p2/p01)^((k-1)/k))   
+ 
+ T_01  =
+ 
+    2860.  
+ 
+ p2  =
+ 
+    180.  
+ 
+ p01  =
+ 
+    250.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T_s2  =
+ 
+    2603.7776  
+ 
+ T_s2= 2604 R 
+ 
+ 
+  From ε_s=(h2-hs2)/((V_2^2)/2),we have Cp*(T2-Ts2=ε_s*(V_2^2)/2.Combining with Cp*(T_02-T_2)=((V_2^2)/2),where T02=T01, we hav 
+      e Cp*(T_02-Ts2)=(1+εs)*((V_2^2)/2)                                                                                         
+ 
+ 
+ V2=[2*Cp*(T_02-T_s2)/(1+εs)]^0.5   
+ 
+ T_02  =
+ 
+    2860.  
+ 
+ Cp  =
+ 
+    6012.384  
+ 
+ epsilon_s  =
+ 
+    0.07  
+ 
+ T_s2  =
+ 
+    2604.  
+ 
+ V2  =
+ 
+    1696.1586  
+ 
+ V2= 1696 ft/s 
+ 
+ V2  =
+ 
+    1696.  
+ 
+ alpha2  =
+ 
+    1.134464  
+ 
+ V_u2  =
+ 
+    1537.098  
+ 
+
+ Hence we have V_u2=V2*sin(α2) = 1537 ft/s 
+ 
+ Va  =
+ 
+    716.76057  
+ 
+
+ Va=V2*cos(alpha2)= 716.8 ft/s 
+ 
+ 
+ T2=T_02-(V_2^2)/(2*Cp)   
+ 
+ T_02  =
+ 
+    2860.  
+ 
+ V2  =
+ 
+    1696.  
+ 
+ Cp  =
+ 
+    6012.384  
+ 
+ T2  =
+ 
+    2620.7924  
+ 
+ Hence we have T2= 2621 R  
+ 
+ 
+ Since V1=Va,we have T1=T_01-((V1^2)/(2*Cp))   
+ 
+ V1  =
+ 
+    716.8  
+ 
+ T_01  =
+ 
+    2860.  
+ 
+ T1  =
+ 
+    2817.2713  
+ 
+T1= 2817 R 
+ 
+ 
+ From delta_E=Cp*delta_T0s=U*(V_u2+V_u3)=U*V_u2, we have U=Ps/(m*V_u2)   
+ 
+ Ps  =
+ 
+    6641250.  
+ 
+ m  =
+ 
+    3.  
+ 
+ V_u2  =
+ 
+    1537.  
+ 
+ U  =
+ 
+    1440.3058  
+ 
+U=1440 ft/s 
+ 
+ 
+ φ=Va/U   
+ 
+ Va  =
+ 
+    716.8  
+ 
+ U  =
+ 
+    1440.  
+ 
+ phi  =
+ 
+    0.4977778  
+ 
+φ=0.498 
+ 
+ tanbeta3  =
+ 
+    2.0089286  
+ 
+
+ tanß3= 2.01 
+ 
+ beta3  =
+ 
+    63.536899  
+ 
+
+ ß3= 63.5 degrees 
+ 
+ alpha3  =
+ 
+    0.  
+ 
+ phi  =
+ 
+    0.498  
+ 
+ alpha2  =
+ 
+    1.134464  
+ 
+ R  =
+ 
+    0.4660178  
+ 
+
+ R= 0.466 
+ 
+ 
+ Also from the velocity diagram in figure 8.4,we have tanß2=tanα2-(1/φ)=0.136,so ß2=7.8 degrees   
+ 
+ 
+ Similarly we have W3=Va/cosß3=1606 ft/s and W2=Va/cosß2=723.5 ft/s   
+ 
+ 
+ Across the rotor we have h2+(W2^2)/2=h3+(W3^2)/2. Hence T3=T2+(W2^2)-(W3^2)/(2*Cp)=2450R   
+ 
+ 
+ We have Ts3=T3-εr*(W3^2)/(2*Cp)=2424R   
+ 
+ 
+ Also p3=p2*(Ts3/T2)^(k/(k-1))=136.9 psia   
+ 
+ ETAs  =
+ 
+    0.8986479  
+ 
+ From equation 8.2 we have ETAs= 0.8986 
+ 
+ 
+ j  =
+ 
+    0.249  
+ 
+ 
+ k  =
+ 
+    0.6027349  
+ 
+ 
+ l  =
+ 
+    0.3663537  
+ 
+ 
+ m  =
+ 
+    2.1426727  
+ 
+ 
+ ETAs  =
+ 
+    0.8987812  
+ 
+
+ From equation 8.3 we have ETAs= 0.8988 
+ 
+ 
+ Also ETAs can be calculated from ETAs=(T_01-T_03)/(T_01-T_ss03)   
+ 
+ 
+ We have T_03=T3+V3^2/(2*Cp)   
+ 
+ 
+ p03=p3*(T_03/T3)^(k/(k-1))   
+ 
+ 
+ T_ss03=T_01*(p_03/(p_01)*((k-1)/k))   
+ 
+ ETAs  =
+ 
+    0.8951220  
+ 
+ Hence we have ETAs= 0.895 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH8/EX8.3/Ex8_3.sce #
+[2J[0;0H 
+ 
+ 
+ Use the velocity diagram shown in figure 8.2 or 8.4   
+ 
+ 
+ We have Vatanß2=Vatanα2-Um   
+ 
+ 
+ Or tanß2=tanα2-Um/Va   
+ 
+ 
+ tanbeta2  =
+ 
+    1.3320508  
+ 
+ Thus tanß2= 1.33 
+ beta2  =
+ 
+    53.103632  
+ 
+
+ Thus ß2= 53.10 
+ 
+ 
+ Also Vatanß3=Vatanα3+Um   
+ 
+ 
+ tanß3=tanα3+Um/Va   
+ 
+ tanbeta3  =
+ 
+    2.576327  
+ 
+ tanß3= 2.58 
+ beta3  =
+ 
+    68.786303  
+ 
+
+ ß3= 68.79 
+ 
+ 
+ From Cp*deltaT0s=deltaE=Um(Vu2+Vu3)=UmVa(tanα2+tanα3)   
+ 
+ deltaE  =
+ 
+    2345026.7  
+ 
+ Thus Cp*deltaT0s=deltaE= 2.34503e+06=2.34*10^6 ((ft/s)^2) 
+ 
+ deltaT0s  =
+ 
+    389.1967  
+ 
+ 
+ deltaT0s=(2.34*(10^6))/(0.24*778*32.2)   
+ 
+ Thus deltaT0s= 389.20 R which is rounded off to 890R 
+ 
+ 
+ Hence neglecting leakage and mechanical losses , we have shaft power output Ps=mCpdeltaT0s   
+ 
+ Ps  =
+ 
+    6606.437  
+ 
+
+ Hence we have Ps= 6606.44 hp wich is rounded off to 6607hp 
+ 
+ 
+ The degree of reaction at the mean radius can be determined from equation 8.5A   
+ 
+ R  =
+ 
+    0.2596415  
+ 
+
+ Thus R = 0.260 
+ 
+ 
+ To determine the radii the flow area A2 can be determined from m=rho2*A2*Va. The density rho2 can be determined from p2 and T2 w 
+      hich can be caalculated as follows.                                                                                         
+ 
+ 
+ From Cp*T02=CpT2+V2^2/2 and V2= VA/cosα2   
+ 
+ V2  =
+ 
+    1931.8517  
+ 
+
+ V2= 1932 ft/s 
+ 
+ T2  =
+ 
+    1689.5887  
+ 
+
+ Thus we have T2= 1690 degrees Farenheit = 2150R 
+ 
+ 
+ From the definition of loss coefficient εe we have Ts2=T2-εsV2^2/(2*Cp)   
+ 
+ Ts2  =
+ 
+    1665.1671  
+ 
+
+ Ts2= 1665.17 degrees Farenheit which is equal to 2125.2R 
+ 
+ 
+ x  =
+ 
+    0.5992754  
+ 
+
+ and P2/p01= 0.60 
+ 
+ 
+ P2  =
+ 
+    120.  
+ 
+
+ P2= 120 psia 
+ 
+ 
+ Hence the density can be calculated as rho2=p2/(R*T2)   
+ 
+ 
+ rho2  =
+ 
+    0.1507919  
+ 
+
+ Thus ro2=0.151 lbm/ft^3 
+ 
+ A2  =
+ 
+    0.6622517  
+ 
+
+ A2=m/(rho2*Va)=0.662 ft^2 
+ 
+ 
+ y  =
+ 
+    0.2107211  
+ 
+
+ rt^2-rh^2=A2/pi=0.211 
+ 
+ rm  =
+ 
+    1.4323945  
+ 
+ and rm= 1.43 ft 
+ 
+ 
+ rt^2+rh^2=2*rm^2=4.09ft^2   
+ 
+ 
+ and 1.466ft,rh=1.393ft   
+ 
+ rt  =
+ 
+    1.466  
+ 
+ rh  =
+ 
+    1.393  
+ 
+ b  =
+ 
+    0.073  
+ 
+ b= 0.073 ft=0.88in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH8/EX8.4/Ex8_4.sce #
+[2J[0;0H 
+ 
+ 
+ For N/(T01^1/2)=40,the following data of p02/p01,τ/p01 and Eta can be obtained from figure 8.9a   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  The columns of the table are in the order p02/p01 τ/p01 Eta Ps/(p01*((T01)^1/2)) and m*((T01)^1/2)/p01   
+ 
+ 
+    0.7     8.7    0.81    0.066    2.48  
+    0.75    5.3    0.64    0.04     2.34  
+    0.8     2.2    0.41    0.017    2.    
+ 
+ 
+ 
+ The power and mass flow rate have to be obtained with the following manipulations.    
+ 
+ 
+ Frpm Ps=τ*omega, wee obtain:   
+ 
+ 
+ Ps/(p01*((T01)^0.5))=τ*N*pi/(30*550*p01*((T01)^0.5))   
+ 
+ 
+ Also from Ps/m=Eta*Cp*T01[1-(p02/p01)^((k-1)/k)] we obtain   
+ 
+ 
+ m*(T01^0.5)/p01={[Ps/(p01*T01^0.5)]/(Eta*Cp)}*[1-(p02/p01)^((k-1)/k)]^-1   
+ 
+ 
+ Where (k-1)/k=0.40/1.4   
+ 
+ 
+ 
+ j  =
+ 
+    0.2857143  
+ 
+Thus=(k-1)/k 0.2857 
+ 
+ 
+ And Cp= 0.24*Btu/(1bm*R)   
+ 
+ Cp  =
+ 
+    0.3394909  
+ 
+Thus Cp= 0.3395 hp-s/(lbm*R) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH8/EX8.6/Ex8_6.sce #
+[2J[0;0H 
+ 
+ 
+ From figure 8.14c we have Pl=620hp at N=18400rpm. Pick a point on the curve of N/(T01^0.5)=18400/(530^0.5)=800   
+ 
+ 
+ In figure 8.14a,say p02/p01=5   
+ 
+ 
+ So we have   
+ 
+ 
+ 
+ m(T01^0.5)/p01   ETAc   p02(psia)   m(lbm/s)   p03(psia)   p03/p04   
+ 
+ 
+    5.7            0.85     73.5       3.64       71.5        4.86   
+ 
+ 
+ 
+ where p02=5*14.7   
+ 
+ p02  =
+ 
+    73.5  
+ 
+ Thus p02= 73.50 
+ 
+ 
+ m=5.7*14.7/(530^0.5)   
+ 
+ m  =
+ 
+    3.639605  
+ 
+ m= 3.64 
+ 
+ 
+ 73.5-2   
+ 
+ p03  =
+ 
+    71.5  
+ 
+ m= 71.50 psia 
+ 
+ 
+ i  =
+ 
+    4.8639456  
+ 
+
+ p03/p04= 4.86 
+ 
+ 
+ Then from figure 8.14b,with p03/p04 and m3=m2 we have   
+ 
+ 
+ m(T01^0.5)/p01     T03(R)   N/(T03^0.5)      ETAt   
+ 
+ 
+ 2.56                2528        366           0.87   
+ 
+ 
+ 
+ where T03=(2.56*71.5/3.64)^2   
+ 
+ T03  =
+ 
+    2528.6531  
+ 
+ T03= 2528.65 
+ 
+ 
+ N/T03=18400/(2528^0.5)   
+ 
+ 
+ k  =
+ 
+    365.95635  
+ 
+ Thus T03= 365.96 
+ 
+ 
+ So from equations (8.1),(7.4) and(8.11) we have:   
+ 
+ 
+ delta_T034=ETAt*T03*[1-(p04/p03)^((k-1)/k)]   
+ 
+ delta_T034  =
+ 
+    713.38834  
+ 
+ delta_T034 = 713 R 
+ 
+ 
+ delta_T012=(T01/ETAc)*[(p02/p01)^((k-1)/k)-1]   
+ 
+ delta_T012  =
+ 
+    364.00599  
+ 
+ delta_T012= 364R 
+ 
+ P0  =
+ 
+    391.96286  
+ 
+ 
+ and P0=3.64*(0.28*713-0.24*(364/0.95))= 392 Btu/s=554hp, which is less than Pl 
+ 
+ 
+ So we pick another point on the same curve , say p02/p01=5.2, and repeat the calculations    
+ 
+ 
+ 
+ m(T01^0.5)/p01  ETAc  p02(psia)  m(lbm/s)  p03(psia)  p03/p04  m(T01^0.5)/p01  T03(R)  N/(T03^0.5)  ETAt   
+ 
+ 
+ 5.6             0.88   76.4       3.57       74.4       5.06     2.55            2824    346         0.85   
+ 
+ 
+ delta_T034  =
+ 
+    794.73741  
+ 
+
+ The new delta_T034= 794.74R 
+ 
+ delta_T012  =
+ 
+    362.34525  
+ 
+
+ delta_T012= 362R 
+ 
+ P0  =
+ 
+    467.19651  
+ 
+
+ Net output power P0= 467 Btu/s=660hp, which is much greater than Pl 
+
+ 
+ 
+ 
+ Pick another point say p02/p01=5.15   
+ 
+ 
+ 
+ m(T01^0.5)/p01  ETAc  p02(psia)  m(lbm/s)  p03(psia)  p03/p04  m(T01^0.5)/p01  T03(R)  N/(T03^0.5)  ETAt   
+ 
+ 
+ 5.65            0.87   75.7       3.61       73.7       5.01     2.55            2710    353         0.86   
+ 
+ 
+ delta_T034  =
+ 
+    767.78351  
+ 
+
+
+ From new values delta_T034= 768 R 
+ 
+ delta_T012  =
+ 
+    363.82051  
+ 
+
+ and delta_T012= 364 R 
+ 
+ P0  =
+ 
+    444.3264  
+ 
+also P0= 444.3 Btu/s =628hp 
+ 
+ 
+ P0 is close to Pl   
+ 
+ 
+ So the running point is around p02/p01=5.15, m(T01^0.5)/p01=5.65   
+ 
+ 
+ and N/(T01^0.5)=800 on the compressor characteristics   
+ 
+ 
+ It is not too close to the surge line and hence is safe.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH8/EX8.7/Ex8_7.sce #
+[2J[0;0H 
+ 
+ 
+ Velocity diagrams at the rotor inlet and outlet are given.   
+ 
+ 
+ 
+ Velocities at the rotor inlet can be calculated .   
+ 
+ 
+ r2  =
+ 
+    0.4166667  
+ 
+ N  =
+ 
+    15000.  
+ 
+ U2  =
+ 
+    654.49847  
+ 
+ U2=r2*N*pi/30 = 654.5 ft/s 
+ 
+ alpha2  =
+ 
+    1.4835299  
+ 
+ V2  =
+ 
+    656.99855  
+ 
+
+ V2= 657 ft/s 
+ 
+ Vr2  =
+ 
+    57.261196  
+ 
+
+ Vr2=W2= 57.3 ft/s 
+ 
+ 
+ Hence from Cp(T02-T2)=V2^2/2, where T02=T01, we have   
+ 
+ T02  =
+ 
+    2000.  
+ 
+ V2  =
+ 
+    657.  
+ 
+ Cp  =
+ 
+    6012.384  
+ 
+ T2  =
+ 
+    1964.1033  
+ 
+
+ T2=T02-(V2^2)/(2*Cp) =1964.1R 
+ 
+ 
+ From εn=(T2-T2_dash)/((V2^2)/(2*Cp)), we have   
+ 
+ T2  =
+ 
+    1964.1  
+ 
+ epsilon_n  =
+ 
+    0.08  
+ 
+ V2  =
+ 
+    657.  
+ 
+ T2_dash  =
+ 
+    1961.2283  
+ 
+ T2_dash=T2-epsilon_n*V2^2/(2*Cp)= 1961.2R 
+ 
+ p01  =
+ 
+    50.  
+ 
+ T2_dash  =
+ 
+    1961.2  
+ 
+ T01  =
+ 
+    2000.  
+ 
+ 
+ i  =
+ 
+    3.5  
+ 
+ p2  =
+ 
+    46.686532  
+ 
+
+ p2= 46.7 psia 
+ 
+ p2  =
+ 
+    46.7  
+ 
+ R  =
+ 
+    53.3  
+ 
+ T2  =
+ 
+    1964.1  
+ 
+ rho2  =
+ 
+    0.0642375  
+ 
+
+ rho2= 0.064 lb,/ft^3 
+ 
+ rho2  =
+ 
+    0.064  
+ 
+ Vr2  =
+ 
+    57.3  
+ 
+ A2  =
+ 
+    0.4363323  
+ 
+ m  =
+ 
+    1.6001179  
+ 
+
+ So the mass flow rate m=rho2*Vr2*A2= 1.60 lbm/s 
+ 
+ 
+ Assuming whirl-free flow at the rotor outlet under the design condition, we have   
+ 
+ U2  =
+ 
+    654.5  
+ 
+ delta_E  =
+ 
+    428370.25  
+ 
+
+ delta_E=U2*Vu2=U2^2 428370 ((ft/s)^2)=428370/(32.2*550)=24.2hp/(lbm/s) 
+ 
+ m  =
+ 
+    1.6  
+ 
+ delta_E  =
+ 
+    24.2  
+ 
+ Ps  =
+ 
+    38.72  
+ 
+
+ Ps= 38.7 hp 
+ 
+ rm3  =
+ 
+    0.1716667  
+ 
+ Um3  =
+ 
+    269.65337  
+ 
+
+ Um3= 269.65 ft/s 
+ 
+ beta3  =
+ 
+    0.5235988  
+ 
+ V3  =
+ 
+    467.05334  
+ 
+
+ V3 = 467 ft/s 
+ 
+ W3  =
+ 
+    539.30674  
+ 
+
+ W3 = 539.31 ft/s 
+ 
+ 
+ The turbine efficiency can be determined from equations 8.12 and 8.13. Without detailed calculations wthe result is given as ETA 
+      t=0.691                                                                                                                     
+ 
+ 
+ 
+ The exhaust pressure/temperature can be determined from te following calculations with the help of figure 8.21   
+ 
+ delta_E  =
+ 
+    17.099507  
+ 
+ From Cp(T01-T03)=delta_E= 17.1Btu/lbm 
+ 
+ 
+ (T01-T03)/(T01-T3dash)=Etat=0.691   
+ 
+ 
+ T03  =
+ 
+    1928.75  
+ 
+ T03= 1929 R 
+ 
+ T01  =
+ 
+    2000.  
+ 
+ T03  =
+ 
+    1929.  
+ 
+ ETAt  =
+ 
+    0.691  
+ 
+ T3_dash  =
+ 
+    1897.2504  
+ 
+
+ T3_dash=T01-(T01-T03)/ETAt 1897R = 
+ 
+ 
+ i  =
+ 
+    3.5  
+ 
+ p01  =
+ 
+    50.  
+ 
+ T3_dash  =
+ 
+    1897.  
+ 
+ T01  =
+ 
+    2000.  
+ 
+ p3  =
+ 
+    41.552837  
+ 
+
+ p3=p01*(T3_dash/T01)^i= 41.6 psia 
+ 
+ T2  =
+ 
+    1964.4  
+ 
+ p3  =
+ 
+    41.6  
+ 
+ p2  =
+ 
+    46.7  
+ 
+ 
+ l  =
+ 
+    0.2857  
+ 
+ T3_dbldash  =
+ 
+    1900.5577  
+ 
+
+ T3_dbldash=T2*(p3/p2)^(1/i)=1900.56R 
+ 
+ T3_dbldash  =
+ 
+    1900.3  
+ 
+ epsilon_r  =
+ 
+    0.45  
+ 
+ W3  =
+ 
+    539.2  
+ 
+ Cp  =
+ 
+    6012.384  
+ 
+ T3  =
+ 
+    1911.1802  
+ 
+
+ T3= 1911.2 R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH9/EX9.3/Ex9_3.sce #
+[2J[0;0H 
+ 
+ 
+ The tangential velocity at the rotor mean radius is Um   
+ 
+ rm  =
+ 
+    1.5  
+ 
+ N  =
+ 
+    3600.  
+ 
+ Um  =
+ 
+    565.48668  
+ 
+Um=rm*N*pi/30= 565.5 
+ 
+ 
+ From the velocity diagram in figure 8.11 for the impulse stages we have delta_h0   
+ 
+ 
+ delta_h0=delta_Et=UmVu2-UmVu3/g_c=UmVu2/g_c=2((Um)^2)/gc   
+ 
+ Um  =
+ 
+    565.5  
+ 
+ gc  =
+ 
+    32.2  
+ 
+ delta_h0  =
+ 
+    19862.748  
+ 
+
+ delta_h0= 19863 lbf-ft/lbm=25.5 Btu/lbm 
+ 
+ 
+ From the Mollier diagram in appendix A, we have hoi=1565 Btu/lbm   
+ 
+ 
+ For the stages with constant mean radi,we have hoi-hoe=n_s*delta_hoe or hoe=h0i-n_s*delta_hoe   
+ 
+ h_oe  =
+ 
+    1259.  
+ 
+ hoe= 1259 Btu/lbm. 
+ 
+ 
+ Also from ETA_ad=(hoi-hoe)/(hoi-hsoe), we have hsoe=hoi-(hoi-hoe)/ETA_ad   
+ 
+ h_soe  =
+ 
+    1205.  
+ 
+ hsoe= 1205 Btu/lbm 
+ 
+ 
+ From s_soe=Soi=1.69 Btu/(lbm-R),we have poe=50 psia and Toe=450 degrees Farenheit   
+ 
+ 
+ Also from given efficiencies we have Ps=ETAv*ETAm*m*n_s*delta_ho   
+ 
+ Ps  =
+ 
+    2511.8389  
+ 
+ Ps=2512 hp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH10/EX10.1/Ex10_1.sce #
+[2J[0;0H 
+ 
+ 
+ H  =
+ 
+    85.  
+ 
+ Q  =
+ 
+    16.  
+ 
+ E  =
+ 
+    0.9  
+ 
+ g  =
+ 
+    9.8  
+ 
+ rho  =
+ 
+    998.  
+ 
+ 
+ P_o  =
+ 
+    11971.21  
+ 
+The estimated power (Po) is equal to 11971 kW 
+ 
+ 
+ 
+ From figure 10.11,a Francis Turbine is selected. Then with the synchronous speed of 16 poles N is determined   
+ 
+ N  =
+ 
+    450.  
+ 
+N is equal to 450rpm 
+ 
+ 
+ N_s  =
+ 
+    64.299606  
+ 
+
+We have value of Ns equal to 64.3 rpm(m^3/s)^0.5 
+ 
+ 
+ Ksigma  =
+ 
+    2.11  
+ 
+ n  =
+ 
+    7.5  
+ 
+ g  =
+ 
+    9.8  
+ 
+ sigma  =
+ 
+    0.4082441  
+ 
+
+ Value of sigma is equal to 0.41 
+ 
+ 
+ omega  =
+ 
+    47.12389  
+ 
+ V  =
+ 
+    16.  
+ 
+ omega_s  =
+ 
+    1.2156747  
+ 
+ thita  =
+ 
+    1.9  
+ 
+ K  =
+ 
+    1.054  
+ 
+
+ Value of omegas is equal to 1.21567 
+ 
+ 
+ 
+ From figure 10.10 we have thita=1.9 for nq=Ns=64.3   
+ 
+ 
+ Since K*D*(g*H)^0.25/Q^0.5=thita, we can determine D.   
+ 
+ 
+ D  =
+ 
+    1.342183  
+ 
+
+ Value of D is equal to 1.34 m  
+ 
+ 
+ 
+ From figure 10.9 we have efficiency=0.95,which is close to the original estimation   
+ 
+ D  =
+ 
+    1.34  
+ 
+ k_phi  =
+ 
+    2.4674011  
+ 
+ k_psi  =
+ 
+    4.9348022  
+ 
+ flowcoeff  =
+ 
+    0.3593392  
+ 
+The flow coefficient is equal to 0.359 
+ 
+ 
+ energycoeff  =
+ 
+    1.6712566  
+ 
+
+The energy coefficient is equal to 1.6713 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH10/EX10.5/Ex10_5.sce #
+[2J[0;0H 
+ 
+ To use figure 10.21 we need the dimensional power specific speed. So the shaft power has to be estimated from figure 10.9 where  
+      the non dimensional omegas is needed.                                                                                       
+ 
+ 
+ Ve  =
+ 
+    5.  
+ 
+ Hl  =
+ 
+    0.7  
+ 
+ 
+ H  =
+ 
+    80.  
+ 
+ Q  =
+ 
+    63.  
+ 
+ Es  =
+ 
+    0.97  
+ 
+ N  =
+ 
+    400.  
+ 
+ V3  =
+ 
+    25.  
+ 
+ Dh3  =
+ 
+    2.  
+ 
+ rh3  =
+ 
+    0.0833333  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ omega  =
+ 
+    41.887902  
+ 
+ omega_s  =
+ 
+    0.9194952  
+ 
+ The value of omegas is 0.92 
+ 
+ 
+ We have efficiency=0.95   
+ 
+ E  =
+ 
+    0.95  
+ 
+ rho  =
+ 
+    1.9378  
+ 
+ Ps  =
+ 
+    543.19564  
+ 
+ The value of Ps 543.20 hp 
+ 
+ Nsp  =
+ 
+    38.965087  
+ 
+
+The value of Nsp is equal to 38.97 rpm(hp^0.5)/ft^1.25 
+ 
+ 
+ From figure 10.21, we obtain sigma approximately equal to 0.1 or NSPHavail/H is greater than or equal to 0.1   
+ 
+ 
+ NSPHavail =Ha-Z+Hl+Ve^2/(2*g)) and NSPH avail is greater than or equal to 8 ft.   
+ 
+ 
+ At T=70 degrees farenheit we have the value of Ha equal to   
+ 
+ Ha  =
+ 
+    33.923077  
+ 
+ 33.92 ft. 
+ Hv  =
+ 
+    0.8376923  
+ 
+
+ The value of Hv is equal to 0.84 ft 
+ K  =
+ 
+    0.3881988  
+ 
+ NPSHavail  =
+ 
+    8.  
+ 
+
+ The value of (Ve^2)/(2*g) is equal to 0.39 ft 
+ 
+ 
+ 
+ 
+ 
+ NPSH_avail  =
+ 
+    8.  
+ 
+ H_vr  =
+ 
+    0.84  
+ 
+ Kr  =
+ 
+    0.39  
+ 
+ H_ar  =
+ 
+    33.9  
+ 
+ Z  =
+ 
+    26.15  
+ 
+
+ The value of Zmax is equal to 26.1 ft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH11/EX11.1/Ex11_1.sce #
+[2J[0;0H 
+ 
+ Pe  =
+ 
+    1.5  
+ 
+ Eg  =
+ 
+    0.96  
+ 
+ Em  =
+ 
+    0.94  
+ 
+ P  =
+ 
+    1.662234  
+ 
+
+ The power is equal to 1.662 MW 
+ 
+ After converting to W the magnitude of power is equal to 1.662*10^6 W   
+ 
+ 
+ Cp  =
+ 
+    0.47  
+ 
+ V  =
+ 
+    13.  
+ 
+ rho  =
+ 
+    1.222  
+ 
+ 
+  Since P=Cp(0.5*rho*A*V^3),thus on substituting the values we get P=630.9A   
+ 
+ A  =
+ 
+    2634.6507  
+ 
+ On substituing the value of P in P=630.9A we get A equal to 2634.65 
+ 
+ 
+ After rounding off,the area is equal to 2634.7m^2   
+ 
+ Ar  =
+ 
+    2634.7  
+ 
+ 
+ R  =
+ 
+    28.959202  
+ 
+ The Radius is equal to 28.9592 m 
+ 
+ 
+ After rounding off the,area is equal to 28.9m   
+ 
+ Rr  =
+ 
+    28.9  
+ 
+ D  =
+ 
+    57.8  
+ 
+ The Diameter is equal to 57.8 m 
+ 
+ omega  =
+ 
+    2.3792092  
+ 
+
+ Omega is equal to 2.38 rad/s 
+ N  =
+ 
+    22.719775  
+ 
+
+ RPM is equal to 22.7198 rpm 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH11/EX11.3/Ex11_3.sce #
+[2J[0;0H 
+ 
+ V  =
+ 
+    40.  
+ 
+ V  =
+ 
+    58.9  
+ 
+ 
+ V  =
+ 
+    58.666667  
+ 
+ a  =
+ 
+    0.27  
+ 
+ V1  =
+ 
+    42.826667  
+ 
+V1 is equal to 42.8 ft/s 
+ 
+ N  =
+ 
+    60.  
+ 
+ D  =
+ 
+    50.  
+ 
+ U  =
+ 
+    157.07963  
+ 
+
+U is equal to 157.1 ft/s 
+ 
+ 
+ A  =
+ 
+    135.  
+ 
+
+A is equal to 135 degrees 
+ 
+ 
+ W  =
+ 
+    189.79417  
+ 
+
+W is equal to 189.8 ft/s 
+ 
+ 
+ sinB  =
+ 
+    0.1595572  
+ 
+
+sinB is equal to 0.1596 ft/s 
+ 
+ B  =
+ 
+    9.1811954  
+ 
+
+B is equal to 9.2 degrees 
+ 
+ setting_angle  =
+ 
+    85.  
+ 
+ alpha  =
+ 
+    4.1811954  
+ 
+
+alpha is equal to 4.2 degrees 
+ 
+ 
+ Cl  =
+ 
+    0.58  
+ 
+ Cd  =
+ 
+    0.027  
+ 
+ rho  =
+ 
+    0.0763  
+ 
+ gc  =
+ 
+    32.2  
+ 
+ c  =
+ 
+    1.2  
+ 
+ Wr  =
+ 
+    189.8  
+ 
+ Fu  =
+ 
+    3.374627  
+ 
+
+Fu is equal to 3.375 lb/ft 
+ 
+ 
+ After rounding off the tangential force (Fu) is equal to 3.38 lb/ft   
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH12/EX12.6/Ex12_6.sce #
+[2J[0;0H 
+ 
+ 
+ referring to figure A-14a,Va=650mph=953ft/s   
+ 
+ Ta  =
+ 
+    510.  
+ 
+ Va  =
+ 
+    953.  
+ 
+ Cp  =
+ 
+    6012.384  
+ 
+ T01  =
+ 
+    585.52819  
+ 
+ T01=585.5 R 
+ 
+ 
+ from Eta_i=(Ts01-Ta)/(T01-Ta),we have Ts01=Ta+Eta_i(T01-Ta)=577.9R   
+ 
+ pa  =
+ 
+    10.5  
+ 
+ Ts01  =
+ 
+    577.9  
+ 
+ Ta  =
+ 
+    510.  
+ 
+ 
+ x  =
+ 
+    3.5  
+ 
+ p01  =
+ 
+    16.262156  
+ 
+ p01=16.3 psia 
+ 
+ p03  =
+ 
+    81.5  
+ 
+
+ p03=p02=81.5 psia 
+ 
+ T01  =
+ 
+    585.5  
+ 
+ Ts02  =
+ 
+    927.30506  
+ 
+
+ Ts02=927.3 R 
+ 
+ 
+ From Eta_c= (Ts02-T01)/(T02-T01),we have T)2=T01 +(Ts02-T01)/Eta_c=1012.7R   
+ 
+ 
+ For the turbojet w_c=w_t is assumed,we have T04=T03-(T02-T01)   
+ 
+ T03  =
+ 
+    1810.  
+ 
+ T02  =
+ 
+    1012.7  
+ 
+ T01  =
+ 
+    585.5  
+ 
+ T04  =
+ 
+    1382.8  
+ 
+ T04= 1382.8 R 
+ 
+ 
+ From Eta_t=(T03-T04)/(T03-Ts04)=1318.9R and p04=p03*(T_s04/T_03)^3.5=26.9 psia   
+ 
+ 
+ 
+ To check whether the flow is choked at the nozzle exit,we calculate te choking condition from Tc=2*T_04/(k+1)   
+ 
+ T_04  =
+ 
+    1382.8  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Tc  =
+ 
+    1152.3333  
+ 
+ Tc= 1152.3 R 
+ 
+ T04  =
+ 
+    1382.8  
+ 
+ Tc  =
+ 
+    1152.3  
+ 
+ Eta_n  =
+ 
+    0.92  
+ 
+ T_sc  =
+ 
+    1132.2565  
+ 
+
+ T_sc= 1132.3 R 
+ 
+ p04  =
+ 
+    26.9  
+ 
+ Tsc  =
+ 
+    1132.3  
+ 
+ T04  =
+ 
+    1382.8  
+ 
+ pc  =
+ 
+    13.364717  
+ 
+
+ pc= 13.36 psia 
+ 
+ 
+ Since pc>pa the flow is choked at the nozzle exit plane,and hence we have T5=Tc=1152.3R,ps=pc=13.36 psia   
+ 
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    53.33  
+ 
+ T5  =
+ 
+    1152.3  
+ 
+ Vj  =
+ 
+    1664.4108  
+ 
+ Vj= 1664.4 ft/s 
+ 
+ p5  =
+ 
+    13.36  
+ 
+ rho5  =
+ 
+    0.0313063  
+ 
+
+ rho5 0.0313 lbn/ft^3 
+ 
+ 
+ m=rho*V*A   
+ 
+ 
+ A5  =
+ 
+    1.1517261  
+ 
+ A5= 1.15 ft^2 
+ 
+ 
+ F=m*(Vj-Va)+A5*(p5-pa)   
+ 
+ F  =
+ 
+    1799.2061  
+ 
+ F= 1799.2 lbf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Turbomachinery_W._W._Peng_3136/CH12/EX12.7/Ex12_7.sce #
+[2J[0;0H 
+ 
+ 
+ Referring to figure A-12 and assuming pure saturated liquid at the condenser outlet,we have h9=hf=93 Btu/lbm from the steam tabl 
+      e                                                                                                                           
+ 
+ 
+ With p8=p9=2 psia and p6=100 psia,we have h6=h9+delta_p*144/(Eta_p*rho)   
+ 
+ h9  =
+ 
+    93.  
+ 
+ delta_p  =
+ 
+    98.  
+ 
+ Eta_p  =
+ 
+    0.8  
+ 
+ rho  =
+ 
+    48547.2  
+ 
+ h6  =
+ 
+    93.363358  
+ 
+ h6=93.4 Btu/lbm 
+ 
+ 
+ Assuming T6 to be approximately equal to T9=585 R with the definition of boiler efficiency Eta_b=(h7-h6)*m_w/[Cp*(T4-T5)*m_g]   
+ 
+ h7  =
+ 
+    1514.5  
+ 
+ h7= 1514.50 Btu/lbm 
+ 
+ 
+ Assuming p6 to be approximately equal to p7=100 psia,we obtain s8s=s7=1.908 Btu/lbmR and h8s=1120 btu/lbm from the steam table   
+ 
+ 
+ From the definition of turbine efficiency,Eta_t=(h7-h8)/(h7-h8s) we can determine the value of h8   
+ 
+ h8  =
+ 
+    1183.12  
+ 
+ h8=1183 Btu/lbm 
+ 
+ Or w_t=h7-h8=331.4 Btu/lbm,w_p=0.4 Btu/lbm   
+ 
+ 
+ 
+ Hence the additional power output from the steam power plant per unit mass flow rate of gas through the gas turbine is delta_w=( 
+      w_t-w_p)*m_w*/m_g                                                                                                           
+ 
+ delta_w  =
+ 
+    33.1  
+ 
+ delta_w= 33.1 Btu/lbm=hp/(lbm/s) 
+ 
+ Eta_th  =
+ 
+    0.3831678  
+ 
+
+ The new thermal efficiency = 0.383 =38.3 percent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

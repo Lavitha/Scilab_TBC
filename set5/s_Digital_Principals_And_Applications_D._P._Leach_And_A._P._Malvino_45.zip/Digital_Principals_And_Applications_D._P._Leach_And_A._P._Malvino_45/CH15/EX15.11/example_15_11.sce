@@ -1,0 +1,6 @@
+errcatch(-1,"stop");mode(2);// example 15.11 
+;
+;
+disp('The full scale count for ADC3511 is 1999 and for the ADC3711 is 3999. So, the largest value possible for the MSD in either case is 3 = 0011. ly the MSB is not needed for th magnitue of the MSD. It is thus convenient to specif  positive number when this bit is a 0 and a negtive number when this bit is a 1 .');
+
+exit();

@@ -1,0 +1,1021 @@
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH3/EX3.3/ch3_3.sce
+[2J[0;0H 
+ 
+			Chapter3_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Total shape factor of component A is 6.348  
+ 
+ 
+ 
+ 
+
+The Total shape factor of component B is 17.296  
+ 
+ 
+ 
+ 
+
+The Total shape factor of component C is 0.0072  
+ 
+ 
+ 
+ 
+
+The Total shape factor of component D is 0.40608  
+ 
+ 
+ 
+ 
+
+The Total shape factor of component E is 0.59616  
+ 
+
+The Total shape factor is 24.65 
+
+			Solution to part (a)
+ 
+ 
+ 
+ 
+
+The heat transferred through the walls of the furnace is 13717 W = 13.7 kW 
+
+
+			Solution to part (b)
+ 
+ 
+ 
+
+Neglecting the effects of the edges and corners, the shape factor for all walls is 23.64 
+ 
+
+Neglecting the effects of the edges and corners, the heat transferred is 13155 W = 13.2 kW 
+ 
+
+The error introduced by neglecting heat flow through the edges and corners is 4.1 percent 
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH3/EX3.5/ch3_5.sce
+[2J[0;0H 
+ 
+			Chapter3_example5
+
+
+ 
+ 
+ 
+ 
+ 
+
+			Solution to part (a)
+ 
+ 
+ 
+ 
+ 
+
+The cross sectional area is 3.409e-04 sq.ft and Perimeter is 6.545e-02 ft 
+ 
+ 
+
+The value of Product mL is 10.60 
+ 
+ 
+ 
+
+
+			Solution to part (b)
+ 
+ 
+ 
+
+The value of K is 9.0213 
+ 
+ 
+ 
+ 
+ 
+
+
+A Comparison of Exact to Numerical Results for the Data of Example 3.5 
+
+z,in	Exact (e) T	Numerical (n) T	 Percent error (e - n)/e 
+
+0.0	200.00		200.00		0.00
+
+1.5	77.33		82.82		-7.10
+
+3.0	68.66		69.68		-1.49
+
+4.5	68.05		68.19		-0.21
+
+6.0	68.01		68.04		-0.05
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch3_5');xend();exit();
+                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      51 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH3/EX3.5/ch3_5.sce',-1)
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.3/ch4_3.sce
+[2J[0;0H 
+ 
+			Chapter4_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The value of diffusivity is 2.55e-06 sq.m/s 
+ 
+ 
+ 
+
+The Biot number is 5.76, 
+ 
+ 
+ Since value of Biot number is greater than 0.1, Lumped capacity approach would not give accurate results, so figure 4.6 is to be 
+       used                                                                                                                       
+The required time is 9022 s = 2.5 hr 
+ 
+ 
+ 
+
+The choosen values of x/L are: 
+ 
+ 
+    0.    0.2    0.4    0.6    0.8    0.9    1.  
+ 
+
+ Values for dimensionless temperature for corresponding values of x/L: 
+ 
+ 
+    1.    0.97    0.86    0.68    0.48    0.36    0.24  
+ 
+the temperature profile with distance is
+ 
+	x/L		 
+0.00	0.20	0.40	0.60	0.80	0.90	1.00	 
+
+ 
+(T-T_inf)/T_i-T_inf)	 
+1.00	0.97	0.86	0.68	0.48	0.36	0.24	 
+ 
+ 
+ 
+
+	x,cm		 
+0.0	4.8	9.6	14.4	19.2	21.6	24.0	 
+
+T, degree celsius	 
+150	163	213	294	384	438	492	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch4_3');xend();exit();
+                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      84 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.3/ch4_3.sce',-1)
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.9/ch4_9.sce
+[2J[0;0H 
+ 
+			Chapter4_example9
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The time increment is 0.709 hr 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The temperature at different points after 1 time interval are: 
+    110.  
+    20.   
+    20.   
+    20.   
+    20.   
+    20.   
+
+The temperature at different points after 2 time interval are: 
+    110.  
+    65.   
+    20.   
+    20.   
+    20.   
+    20.   
+
+The temperature at different points after 3 time interval are: 
+    110.  
+    65.   
+    42.5  
+    20.   
+    20.   
+    20.   
+
+The temperature at different points after 4 time interval are: 
+    110.   
+    76.25  
+    42.5   
+    31.25  
+    20.    
+    20.    
+
+The temperature at different points after 5 time interval are: 
+    110.    
+    76.25   
+    53.75   
+    31.25   
+    25.625  
+    20.     
+
+The temperature at different points after 6 time interval are: 
+    112.8125  
+    81.875    
+    53.75     
+    39.6875   
+    25.625    
+    25.625    
+
+The temperature at different points after 7 time interval are: 
+    112.8125  
+    83.28125  
+    60.78125  
+    39.6875   
+    32.65625  
+    25.625    
+ 
+ 
+
+The required time is 4.96 hr 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch4_9');xend();exit();
+                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line     117 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.9/ch4_9.sce',-1)
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.3/ch6_3.sce
+[2J[0;0H 
+ 
+			Chapter6_example3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.000141  
+ 
+ 
+ 
+ mu  =
+ 
+    0.00212  
+ 
+ 
+ 
+
+The Reynolds Number is 651 
+ 
+ 
+
+The hydrodynamic entry length is 43.6 cm 
+ 
+ 
+ 
+ 
+
+The heat flux is 11446 W/sq.m 
+ 
+
+The power required is 2891.3 W 
+
+A 3000 W heater would suffice 
+ 
+
+The Prandtl Number is 13.6 
+ 
+
+The length required for flow to be thermally developed is 5.9 m 
+ 
+ 
+ 
+ 
+ 
+
+Summary of Calculations to Find the Wall Temperature of the Tube 
+
+	1/Gz		Nu		z (m)		h W/(sq.m.K)		Tbz (degree celsius)		Twz (degree celsius) 
+
+	0.002		12.0		0.237		537			22.0				43.3
+	0.004		10.0		0.475		447			24.1				49.7
+	0.010		7.5		1.187		335			30.2				64.3
+	0.040		5.2		4.747		232			60.9				110.1
+	0.050		4.5		5.934		201			71.1				127.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Label" with properties:
+=======================================
+parent: Axes
+visible = "on"
+text = ""
+font_foreground = -1
+foreground = -1
+background = -2
+fill_mode = "off"
+font_style = 6
+font_size = 1
+fractional_font = "off"
+font_angle = 0
+auto_position = "on"
+position = [1,1]
+auto_rotation = "on"
+tag = 
+ 
+ ans  =
+ 
+Handle of type "Label" with properties:
+=======================================
+parent: Axes
+visible = "on"
+text = ""
+font_foreground = -1
+foreground = -1
+background = -2
+fill_mode = "off"
+font_style = 6
+font_size = 1
+fractional_font = "off"
+font_angle = 0
+auto_position = "on"
+position = [1,1]
+auto_rotation = "on"
+tag = 
+ 
+ 
+ x_label  =
+ 
+Handle of type "Label" with properties:
+=======================================
+parent: Axes
+visible = "on"
+text = "z,m"
+font_foreground = -1
+foreground = -1
+background = -2
+fill_mode = "off"
+font_style = 6
+font_size = 1
+fractional_font = "off"
+font_angle = 0
+auto_position = "on"
+position = [1,1]
+auto_rotation = "on"
+tag = 
+ 
+ ans  =
+ 
+Handle of type "Label" with properties:
+=======================================
+parent: Axes
+visible = "on"
+text = ""
+font_foreground = -1
+foreground = -1
+background = -2
+fill_mode = "off"
+font_style = 6
+font_size = 1
+fractional_font = "off"
+font_angle = 0
+auto_position = "on"
+position = [1,1]
+auto_rotation = "on"
+tag = 
+ 
+ ans  =
+ 
+Handle of type "Label" with properties:
+=======================================
+parent: Axes
+visible = "on"
+text = ""
+font_foreground = -1
+foreground = -1
+background = -2
+fill_mode = "off"
+font_style = 6
+font_size = 1
+fractional_font = "off"
+font_angle = 0
+auto_position = "on"
+position = [1,1]
+auto_rotation = "on"
+tag = 
+ 
+ 
+ y_label  =
+ 
+Handle of type "Label" with properties:
+=======================================
+parent: Axes
+visible = "on"
+text = "T, degree celsius"
+font_foreground = -1
+foreground = -1
+background = -2
+fill_mode = "off"
+font_style = 6
+font_size = 1
+fractional_font = "off"
+font_angle = 0
+auto_position = "on"
+position = [1,1]
+auto_rotation = "on"
+tag = 
+ 
+ 
+ y_label  =
+ 
+Handle of type "Label" with properties:
+=======================================
+parent: Axes
+visible = "on"
+text = "h, W/(sq.m.K)"
+font_foreground = -1
+foreground = -1
+background = -2
+fill_mode = "off"
+font_style = 6
+font_size = 1
+fractional_font = "off"
+font_angle = 0
+auto_position = "on"
+position = [1,1]
+auto_rotation = "on"
+tag = 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch6_3');xend();exit();
+                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      82 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.3/ch6_3.sce',-1)
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.4/ch6_4.sce
+[2J[0;0H 
+ 
+			Chapter6_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.0008814  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Summary of Results
+ 
+Assmued V (ft/hr)	1/Gz	Nu(fig 8.8)	hL BTU/(hr. sq.ft. degree R)	V (ft/hr)
+ 
+	100		0.0909	4.7		5.61				246
+	246		0.0369	5.8		6.93				304
+	304		0.0299	6.2		7.40				325
+	325		0.0279	6.3		7.52				330
+	330		0.0275	6.4		7.64				335
+	335		0.0271	6.4		7.64				335
+ 
+ 
+ 
+
+The final velocity is 335 ft/hr = 0.0932 ft/s 
+
+The final convective coefficient is 7.64 BTU/(hr. sq.ft. degree R) 
+ 
+ 
+
+The Reynolds number is 1148 
+ 
+ 
+
+The mass flow rate of Freon-12 is 7.64e-03 lbm/s = 27.49 lbm/hr 
+ 
+ 
+
+The heat gained by Freon-12 is 208.9 BTU/hr 
+ 
+
+On checking the heat transferred we find almost equal to the heat gained by Freon-12 
+ 
+ 
+
+The mass of water in the prescribed volume is 13.0 lbm 
+ 
+ 
+
+The required time is 9.0 hr 
+ 
+ 
+ 
+ 
+
+Summary of Data for Example 6.4  
+
+	1/Gz	Nu_D	z (ft)	hz, BTU/(hr. sq.ft.degree R)	Tbz,degree F
+ 
+	0.0010	19.3	0.18	23.04				-34.7
+	0.0040	12.1	0.74	14.45				-27.3
+	0.0100	8.9	1.85	10.63				-18.5
+	0.0150	7.7	2.77	9.19				-13.4
+	0.0200	7.1	3.69	8.48				-8.8
+	0.0271	6.4	5.00	7.64				-4.0
+ 
+ 
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch6_4');xend();exit();
+                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line     107 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.4/ch6_4.sce',-1)
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.1/ch7_1.sce
+[2J[0;0H 
+ 
+			Chapter7_example1
+
+
+ 
+			Solution to part (a)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Reynolds Number is 3.19e+04  
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+			Solution to part (b)
+ 
+ 
+ 
+ 
+ 
+ 
+
+			Results of Calculations for Example 7.1
+ 
+	eta		y,m			f=vx, m/s
+ 
+	0		0.00e+00		0.00000
+	1		1.98e-03		0.32979
+	2		3.96e-03		0.62977
+	3		5.94e-03		0.84605
+	4		7.92e-03		0.95552
+	5		9.90e-03		0.99155
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			Solution to part (c)
+ 
+ 
+ 
+ 
+
+The absolute viscosity is 1.846e-05 N.s/sq.m 
+ 
+ 
+
+The skin-drag is 2.19e-03 N 
+
+The skin-drag including both sides of plate is 4.38e-03 N 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch7_1');xend();exit();
+                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      66 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.1/ch7_1.sce',-1)
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.2/ch7_2.sce
+[2J[0;0H 
+ 
+			Chapter7_example2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Reynolds Number at x=1 ft is 1.108e+05
+The average convection coefficient at x=1 is 146.0 BTU/(hr. sq.ft. degree Rankine)
+The heat transferred to water over the x=1 ft is 1.314e+04 BTU/hr
+The Reynolds Number at x=2 ft is 2.216e+05
+The average convection coefficient at x=2 is 103.2 BTU/(hr. sq.ft. degree Rankine)
+The heat transferred to water over the x=2 ft is 1.858e+04 BTU/hr 
+ 
+ 
+ 
+ 
+
+Solution Chart for example 7.2
+ 
+	eta		theta		y, ft			T, degree F
+ 
+	0.0		1.00		0.0e+00			100.0
+	0.2		0.75		6.0e-04			85.0
+	0.4		0.51		1.2e-03			70.6
+	0.6		0.31		1.8e-03			58.6
+	0.8		0.17		2.4e-03			50.2
+	1.0		0.08		3.0e-03			44.8
+	1.2		0.01		3.6e-03			40.6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch7_2');xend();exit();
+                                                                                                   !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      54 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.2/ch7_2.sce',-1)
+ 
+ERROR: Engineering_Heat_Transfer_W._S._Janna_1309/CH10/EX10.1/ch10_1.sce
+[2J[0;0H 
+ 
+			Chapter10_example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Growth of and Heat-Transfer Coefficient for the Condensate Film of Example 10.1  
+
+z, ft	delta, ft	delta, in	hz, BTU/(hr.sq.ft.degree Rankine) 
+
+0.2	1.33e-04	0.0016		2962
+
+0.4	1.58e-04	0.0019		2491
+
+0.6	1.75e-04	0.0021		2251
+
+0.8	1.88e-04	0.0023		2095
+
+1.0	1.98e-04	0.0024		1981
+
+1.2	2.08e-04	0.0025		1893
+
+1.4	2.16e-04	0.0026		1821
+
+1.6	2.23e-04	0.0027		1761
+
+1.8	2.30e-04	0.0028		1710
+
+2.0	2.36e-04	0.0028		1666
+ 
+ 
+ 
+
+The convective coefficient at the plate end is 2221 BTU/(hr.sq.ft. degree Rankine) 
+
+The amount of steam condensed is 42.1 lbm/hr 
+ 
+
+The heat transfer rate is 3.75e+04 BTU/hr 
+ 
+
+The Reynolds Number is 134 
+
+The film is laminar and above equations apply 
+ 
+WARNING: Transposing row vector Y to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector Y to get compatible dimensions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Heat_Transfer_W._S._Janna_1309/ch10_1');xend();exit();
+                                                                                                    !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      66 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Heat_Transfer_W._S._Janna_1309/CH10/EX10.1/ch10_1.sce',-1)
+ 

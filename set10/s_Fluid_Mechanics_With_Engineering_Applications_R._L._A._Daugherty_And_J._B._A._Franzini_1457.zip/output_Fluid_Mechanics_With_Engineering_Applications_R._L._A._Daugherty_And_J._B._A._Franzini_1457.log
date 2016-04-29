@@ -1,0 +1,4848 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 85
+
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH1/EX1.1/1_1.sce #
+ 
+ 
+ sw  =
+ 
+    62.4  
+ 
+ sw2  =
+ 
+    9.81  
+ 
+ sg  =
+ 
+    13.55  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ dwater  =
+ 
+    1.9378882  
+ 
+ dwater2  =
+ 
+    1.  
+ 
+ Gmercury  =
+ 
+    845.52  
+ 
+ Gmercury2  =
+ 
+    132.9255  
+ 
+ dmercury  =
+ 
+    26.258385  
+ 
+ dmercury2  =
+ 
+    13.55  
+ 
+ 
+Density of water = 1.94 slugs/ft^3 
+
+ Density of water = 1.00 g/ml 
+
+ Density of mercury = 26.3 slugs/ft^3 
+
+ Density of mercury = 13.55 kN/m^3 
+
+ Specific weight of mercury = 846 lb/ft^3 
+
+ Specific weight of mercury = 133 kN/m^3 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH1/EX1.2/1_2.sce #
+ 
+ 
+ T  =
+ 
+    560.  
+ 
+ P  =
+ 
+    15.  
+ 
+ MW  =
+ 
+    32.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ ratio  =
+ 
+    0.4  
+ 
+ 
+ R  =
+ 
+    1553.4375  
+ 
+ d  =
+ 
+    0.0024830  
+ 
+ Gamma  =
+ 
+    0.0799517  
+ 
+ volume  =
+ 
+    402.74306  
+ 
+ P2  =
+ 
+    54.101246  
+ 
+ P2f  =
+ 
+    7790.5795  
+ 
+ T2  =
+ 
+    347.91195  
+ 
+ P3  =
+ 
+    37.5  
+ 
+ 
+part a 
+
+ Density of oxygen = 0.00248 slug/ft^3 
+
+ Specific weight of oxygen = 0.08 lb/ft^3 
+
+ Specific volume of oxygen = 403 ft^3/slug 
+
+ part b 
+
+ Final pressure of oxygen = 54.1 psia  
+
+ Final Temperature of oxygen = 349 F  
+
+ part 3 
+
+ Final pressure of oxygen = 37.5 psia  
+
+ Final Temperature of oxygen = 100 F  
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH1/EX1.3/1_3.sce #
+ 
+ 
+ P  =
+ 
+    600000.  
+ 
+ T  =
+ 
+    25.  
+ 
+ M  =
+ 
+    71.  
+ 
+ 
+ R  =
+ 
+    117.07042  
+ 
+ d  =
+ 
+    17.19839  
+ 
+ Gamma  =
+ 
+    168.71621  
+ 
+ v  =
+ 
+    0.0581450  
+ 
+Density of chlorine = 17.2 kg/m^3 
+
+ Specific weight of chlorine = 169 N/m^3 
+
+ Specific volume of chlorine = 0.058 m^3/Kg 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH2/EX2.1/2_1.sce #
+ 
+ 
+ z  =
+ 
+    20000.  
+ 
+ rate  =
+ 
+  - 0.00356  
+ 
+ T  =
+ 
+    59.  
+ 
+ P  =
+ 
+    14.7  
+ 
+Warning : redefining function: gamma                   . Use funcprot(0) to avoid this message
+
+ gamma  =
+ 
+    0.076  
+ 
+ 
+ P2  =
+ 
+    596.8  
+ 
+ P2f  =
+ 
+    4.1444444  
+ 
+ P3  =
+ 
+    7.169117  
+ 
+ P4  =
+ 
+    947.904  
+ 
+ P4f  =
+ 
+    6.5826666  
+ 
+ P5  =
+ 
+    6.7903485  
+ 
+ 
+Constant density 
+
+ Final pressure = 4.14 psia 
+
+ Isothermal 
+
+ Final pressure = 7.17 psia 
+
+ Isentropic 
+
+ Final pressure = 6.58 psia 
+
+ Linear decrease 
+
+ Final pressure = 7 psia 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH2/EX2.2/2_2.sce #
+ 
+ 
+ wA  =
+ 
+    53.5  
+ 
+ wA2  =
+ 
+    8.4  
+ 
+ wB  =
+ 
+    78.8  
+ 
+ wB2  =
+ 
+    12.3  
+ 
+ PB  =
+ 
+    30.  
+ 
+ PB2  =
+ 
+    200.  
+ 
+ AB  =
+ 
+    1.3  
+ 
+ AB2  =
+ 
+    0.4  
+ 
+ BC  =
+ 
+    6.5  
+ 
+ BC2  =
+ 
+    2.  
+ 
+ CD  =
+ 
+    10.  
+ 
+ CD2  =
+ 
+    3.  
+ 
+ 
+ PAbyGB  =
+ 
+    29.669086  
+ 
+ PA  =
+ 
+    16.235583  
+ 
+ PAbyGB2  =
+ 
+    8.5764065  
+ 
+ PA2  =
+ 
+    105.4898  
+ 
+ 
+English units 
+
+ Final pressure = 16.2 psi 
+
+ SI Units 
+
+ Final pressure = 106 kPa 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH2/EX2.3/2_3.sce #
+ 
+ 
+ W  =
+ 
+    500.  
+ 
+ width  =
+ 
+    2.  
+ 
+ len  =
+ 
+    4.  
+ 
+ CGx  =
+ 
+    1.2  
+ 
+ CGy  =
+ 
+    0.9  
+ 
+ theta  =
+ 
+    30.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ 
+ Fv  =
+ 
+    8.  
+ 
+ F  =
+ 
+    1.1547005  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ vector  =
+ 
+  - 6.2797235  
+    5.6725423  
+    0.6071812  
+ 
+The gate will remain d between 0.61 ft and 5.67 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH2/EX2.4/2_4.sce #
+ 
+ 
+ z1  =
+ 
+    1.  
+ 
+ z2  =
+ 
+    2.  
+ 
+ z3  =
+ 
+    2.  
+ 
+ sOil  =
+ 
+    0.8  
+ 
+ sWater  =
+ 
+    1.  
+ 
+ Pa  =
+ 
+    3.  
+ 
+ 
+ Pd  =
+ 
+    4.9066667  
+ 
+ Fa  =
+ 
+    5428.6721  
+ 
+ Fb  =
+ 
+    674.72983  
+ 
+ Fc  =
+ 
+    940.96983  
+ 
+ Fd  =
+ 
+    332.8  
+ 
+ F  =
+ 
+    7377.1718  
+ 
+ yPa  =
+ 
+    3.  
+ 
+ yCb  =
+ 
+    2.1511736  
+ 
+ ICb  =
+ 
+    1.7561114  
+ 
+ yPb  =
+ 
+    2.2810998  
+ 
+ yPc  =
+ 
+    3.8488264  
+ 
+ ICd  =
+ 
+    1.7561114  
+ 
+ yPd  =
+ 
+    4.1780972  
+ 
+ yP  =
+ 
+    3.0956637  
+ 
+ 
+case 1 
+
+ Pressure at the bottom = 4.9 psi 
+
+ case 2 
+
+ Net force = 7380 lb 
+
+ Location of net force= 3.10 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH2/EX2.5/2_5.sce #
+ 
+ 
+ dia  =
+ 
+    4.  
+ 
+ P  =
+ 
+    35.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ Fx  =
+ 
+    130.62178  
+ 
+ Fz  =
+ 
+    35.  
+ 
+ dist  =
+ 
+    3.7320508  
+ 
+ Fxb  =
+ 
+    68.317837  
+ 
+ Fzb  =
+ 
+    100.02677  
+ 
+ 
+part a 
+
+ Horizontal force= 130.6 kN/m to the right 
+
+ Vertical force = 35.0 kN/m upward 
+
+ part b 
+
+ force by the fluid = 68.3 kN/m to the right 
+
+ weight of the cross-hatched volume of liquid =100.0 kN/m Upward 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH2/EX2.6/2_6.sce #
+ 
+ 
+ d1  =
+ 
+    4.  
+ 
+ h1  =
+ 
+    3.75  
+ 
+ w1  =
+ 
+    0.85  
+ 
+Warning : redefining function: gamma                   . Use funcprot(0) to avoid this message
+
+ gamma  =
+ 
+    52.  
+ 
+ d2  =
+ 
+    5.  
+ 
+ depth  =
+ 
+    3.  
+ 
+ 
+ A  =
+ 
+    4.  - 2.25  
+    1.    1.    
+ 
+ b  =
+ 
+    0.         
+    2.2477575  
+ 
+ C  =
+ 
+    0.8091927  
+    1.4385648  
+ 
+ x  =
+ 
+    0.8091927  
+ 
+ y  =
+ 
+    1.4385648  
+ 
+ height  =
+ 
+    2.1908073  
+ 
+ 
+Bottom of the cylinder will be 2.19 in above the bottom of hollow cylinder 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH2/EX2.7/2_7.sce #
+ 
+ 
+ v  =
+ 
+    180.  
+ 
+ angle  =
+ 
+    40.  
+ 
+ a  =
+ 
+    4.  
+ 
+ r  =
+ 
+    2600.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ an  =
+ 
+  - 12.461538  
+ 
+ at  =
+ 
+  - 4.  
+ 
+ ax  =
+ 
+  - 11.0743  
+ 
+ az  =
+ 
+    6.9749419  
+ 
+ tangent  =
+ 
+  - 0.6597759  
+ 
+ theta  =
+ 
+  - 33.415867  
+ 
+ 
+Angle made by the free liquid = 33.42 degrees 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH3/EX3.1/3_1.sce #
+ 
+ 
+ Q  =
+ 
+    0.5  
+ 
+ d1  =
+ 
+    8.  
+ 
+ d2  =
+ 
+    4.  
+ 
+ R  =
+ 
+    2.  
+ 
+ h  =
+ 
+    0.59  
+ 
+ 
+ Aa  =
+ 
+    0.3490659  
+ 
+ Va  =
+ 
+    1.4323945  
+ 
+ Ab  =
+ 
+    0.0514872  
+ 
+ Vb  =
+ 
+    9.7111491  
+ 
+ 
+Average velocity at section A =1.43 fps  
+
+ Average velocity at section B=9.71 fps  
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH3/EX3.2/3_2.sce #
+ 
+ 
+ Q  =
+ 
+    0.5  
+ 
+ d1  =
+ 
+    8.  
+ 
+ d2  =
+ 
+    4.  
+ 
+ R  =
+ 
+    2.  
+ 
+ theta  =
+ 
+    45.  
+ 
+ 
+ h  =
+ 
+    0.2928932  
+ 
+ Aa  =
+ 
+    1.8403024  
+ 
+ V  =
+ 
+    0.2716945  
+ 
+ aA  =
+ 
+    0.  
+ 
+ r  =
+ 
+    0.167  
+ 
+ V1  =
+ 
+    9.7419944  
+ 
+ dvbydx  =
+ 
+    116.67059  
+ 
+ aB  =
+ 
+    1136.6043  
+ 
+ 
+ 
+Acceleration at A = 0 since flow is steady 
+
+ Acceleration at B = 1136 ft/s^2 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.1/4_1.sce #
+ 
+ 
+ d  =
+ 
+    1.26  
+ 
+ d  =
+ 
+    25.  
+ 
+ d2  =
+ 
+    60.  
+ 
+ Q  =
+ 
+    25.  
+ 
+ Q2  =
+ 
+    700.  
+ 
+ dout  =
+ 
+    12.  
+ 
+ dout2  =
+ 
+    0.3  
+ 
+ z  =
+ 
+    3.  
+ 
+ z2  =
+ 
+    1.  
+ 
+ P1  =
+ 
+    45.  
+ 
+ P2  =
+ 
+    300.  
+ 
+Warning : redefining function: gamma                   . Use funcprot(0) to avoid this message
+
+ gamma  =
+ 
+    9.81  
+ 
+ 
+ V1  =
+ 
+    7.9577472  
+ 
+ V2  =
+ 
+    31.830989  
+ 
+ pf  =
+ 
+    38.584618  
+ 
+ V1  =
+ 
+    2.4757436  
+ 
+ V2  =
+ 
+    9.9029742  
+ 
+ p2f  =
+ 
+    254.43866  
+ 
+ 
+ 
+English units 
+
+ Pressure at point 2 = 38.6 psi  
+
+ SI Units 
+
+ Pressure at point 2 = 254 kN/m^2  
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.2/4_2.sce #
+ 
+ 
+ h  =
+ 
+    20.  
+ 
+ c  =
+ 
+    4187.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ dT  =
+ 
+    0.0468593  
+ 
+ 
+Increase in temperature of water = 0.047 K 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.3/4_3.sce #
+ 
+ 
+ sg  =
+ 
+    1.26  
+ 
+ sg2  =
+ 
+    1.26  
+ 
+ HP  =
+ 
+    22.  
+ 
+ HP2  =
+ 
+    16.  
+ 
+ 
+ hp  =
+ 
+    153.89703  
+ 
+ Q  =
+ 
+    14.2  
+ 
+In English units, By trial Q= 14.2 cfs 
+ hp2  =
+ 
+    1294.4355  
+ 
+ Q2  =
+ 
+    0.42  
+ 
+
+ In SI units, By trial Q= 0.42 m^3/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.44/4_4.sce #
+ 
+ 
+ g  =
+ 
+    9810.  
+ 
+ Q  =
+ 
+    10.  
+ 
+ H  =
+ 
+    20.  
+ 
+ 
+ Rate  =
+ 
+    1962.  
+ 
+ 
+Rate of energy loss = 1960 kW 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.5/4_5.sce #
+ 
+ 
+ s  =
+ 
+    0.86  
+ 
+ P2  =
+ 
+    3.8  
+ 
+ Patm  =
+ 
+    26.8  
+ 
+ SPatm  =
+ 
+    29.9  
+ 
+ psi  =
+ 
+    14.7  
+ 
+ 
+ Pa  =
+ 
+    13.17592  
+ 
+ Pcrit  =
+ 
+  - 25.158997  
+ 
+ Q  =
+ 
+    45.730002  
+ 
+ 
+Max. theoretical flow = 45.7 cfs 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.6/4_6.sce #
+ 
+ 
+ z  =
+ 
+    3.  
+ 
+ s  =
+ 
+    0.82  
+ 
+ 
+ ua  =
+ 
+    13.89964  
+ 
+ ub  =
+ 
+    13.039018  
+ 
+ 
+Velocity at B= 13.0 fps 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.7/4_7.sce #
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ x1  =
+ 
+    0.25  
+ 
+ x2  =
+ 
+    0.5625  
+ 
+ z  =
+ 
+    80.  
+ 
+ z3  =
+ 
+    10.  
+ 
+ 
+ 
+ Using bernoullis theorem   
+ 
+ v3  =
+ 
+    29.7  
+ 
+ Q  =
+ 
+    1.4578953  
+ 
+ hls  =
+ 
+    4.280328  
+ 
+ hld  =
+ 
+    52.005986  
+ 
+ 
+Head loss in suction pipe = 4.3 ft 
+
+ Head loss in discharge pipe = 52.0 ft 
+
+ Flow rate = 1.46 cfs 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.8/4_8.sce #
+ 
+ 
+ z1  =
+ 
+    2.  
+ 
+ z2  =
+ 
+    0.8  
+ 
+ 
+ 
+ From equation of continuity, z1*v1=z2*v2   
+ 
+ V1  =
+ 
+    2.1176807  
+ 
+ V2  =
+ 
+    5.2942017  
+ 
+ Q  =
+ 
+    4.2353613  
+ 
+ 
+Flow rate = 4.24 m^3/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.9/4_9.sce #
+ 
+ 
+ theta  =
+ 
+    30.  
+ 
+ z  =
+ 
+    10.  
+ 
+ x  =
+ 
+    60.  
+ 
+ 
+ V  =
+ 
+    55.22773  
+ 
+ 
+velocity = 55.23 fps 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH4/EX4.10/4_10.sce #
+ 
+ 
+ V  =
+ 
+    60.  
+ 
+ theta  =
+ 
+    15.  
+ 
+ ra  =
+ 
+    0.5  
+ 
+ rb  =
+ 
+    0.6666667  
+ 
+ B  =
+ 
+    0.125  
+ 
+ 
+ Vra  =
+ 
+    15.529143  
+ 
+ Q  =
+ 
+    6.0982801  
+ 
+ Vratio  =
+ 
+    0.75  
+ 
+ Vb  =
+ 
+    45.  
+ 
+ flow  =
+ 
+    24.456522  
+ 
+ 
+Flow rate = 6.10 cfs 
+
+ Velocity at b = 45 fps 
+
+ Pressure head = 24.5 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH6/EX6.1/6_1.sce #
+ 
+ 
+ g  =
+ 
+    9.81  
+ 
+ V2  =
+ 
+    12.  
+ 
+ V3  =
+ 
+    12.  
+ 
+ A2  =
+ 
+    100.  
+ 
+ A1  =
+ 
+    225.  
+ 
+ A3  =
+ 
+    56.25  
+ 
+ t1  =
+ 
+    15.  
+ 
+ t2  =
+ 
+    30.  
+ 
+ 
+ V1  =
+ 
+    8.3333333  
+ 
+ Q1  =
+ 
+    0.1472622  
+ 
+ Q2  =
+ 
+    0.0942478  
+ 
+ Q3  =
+ 
+    0.0530144  
+ 
+ P1g  =
+ 
+    3.7999773  
+ 
+ P1  =
+ 
+    37.277778  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ V2x  =
+ 
+    11.59111  
+ 
+ V3x  =
+ 
+    10.392305  
+ 
+ V1x  =
+ 
+    8.3333333  
+ 
+ Fx  =
+ 
+    415.35455  
+ 
+ Fx  =
+ 
+    0.4153545  
+ 
+ V2y  =
+ 
+    3.1058285  
+ 
+ V3y  =
+ 
+  - 6.  
+ 
+ V1y  =
+ 
+    0.  
+ 
+ Fy  =
+ 
+  - 25.368812  
+ 
+ Fy  =
+ 
+  - 0.0253688  
+ 
+ 
+Force in x directio = 0.415 kN 
+
+ Force in y direction = -0.025 kN 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH6/EX6.2/6_2.sce #
+ 
+ 
+ V1x  =
+ 
+    100.  
+ 
+ V2x  =
+ 
+    82.27  
+ 
+ V1y  =
+ 
+    0.  
+ 
+ V2y  =
+ 
+    47.5  
+ 
+ A1  =
+ 
+    0.0218  
+ 
+ 
+ Q  =
+ 
+    2.18  
+ 
+ rho  =
+ 
+    1.94  
+ 
+ Fx  =
+ 
+  - 74.983716  
+ 
+ Fxr  =
+ 
+    74.983716  
+ 
+ Fy  =
+ 
+    200.887  
+ 
+ 
+Horizontal force on the blade = 75.0 lb 
+
+ Vertical force on the blade = 200 lb 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH6/EX6.3/6_3.sce #
+ 
+ 
+ v2  =
+ 
+    36.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    150.  
+ 
+ u  =
+ 
+    60.  
+ 
+ rho  =
+ 
+    1.94  
+ 
+ Qd  =
+ 
+    0.0218  
+ 
+ V1  =
+ 
+    100.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v2s  =
+ 
+    18.  
+ 
+ v2c  =
+ 
+    28.823085  
+ 
+ V2  =
+ 
+    34.  
+ 
+ alpha  =
+ 
+    32.  
+ 
+ Fx  =
+ 
+  - 120.40856  
+ 
+ Fy  =
+ 
+  - 30.45024  
+ 
+ Fx2  =
+ 
+  - 301.02141  
+ 
+ HPin  =
+ 
+    38.405421  
+ 
+ HPout  =
+ 
+    4.4396666  
+ 
+ HPtransfer  =
+ 
+    32.838699  
+ 
+ HPfl  =
+ 
+    1.1270551  
+ 
+ 
+Force exerted by water on the vane = -301 lb 
+
+ Friction loss = 1.1 hp  
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH6/EX6.4/6_4.sce #
+ 
+ 
+ z1  =
+ 
+    35.  
+ 
+ z3  =
+ 
+    20.  
+ 
+ P1  =
+ 
+    30.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ z2  =
+ 
+    10.  
+ 
+ d2  =
+ 
+    4.  
+ 
+ rho  =
+ 
+    1.94  
+ 
+ be  =
+ 
+    20.  
+ 
+ W  =
+ 
+    150.  
+ 
+ 
+ V3  =
+ 
+    77.61654  
+ 
+ Q  =
+ 
+    3.81  
+ 
+ V2  =
+ 
+    43.6  
+ 
+ P2  =
+ 
+    28.27437  
+ 
+ Fx  =
+ 
+    164.18843  
+ 
+ Fy  =
+ 
+    322.9461  
+ 
+ Fres  =
+ 
+    362.28721  
+ 
+ Fsx  =
+ 
+    475.1655  
+ 
+ 
+resultant force = 362 lb 
+
+ horizontal component of force = 475 lb 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH6/EX6.5/6_5.sce #
+ 
+ 
+ omega  =
+ 
+    300.  
+ 
+ r1  =
+ 
+    1.6  
+ 
+ Q  =
+ 
+    120.  
+ 
+ z  =
+ 
+    0.8  
+ 
+ beta1  =
+ 
+    80.  
+ 
+ r2  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    1.94  
+ 
+ g  =
+ 
+    32.2  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ 
+ 
+ part a   
+ 
+ u1  =
+ 
+    50.265482  
+ 
+ Vr1  =
+ 
+    14.920776  
+ 
+ v1  =
+ 
+    15.150953  
+ 
+ v2c  =
+ 
+    2.6309354  
+ 
+ V1c  =
+ 
+    52.896418  
+ 
+ u2  =
+ 
+    31.415927  
+ 
+ Vr2  =
+ 
+    23.873241  
+ 
+ beta2  =
+ 
+    37.231524  
+ 
+required Blade angle = 142.8 degrees 
+ 
+ part b   
+ 
+ T  =
+ 
+    19702.858  
+ 
+ power  =
+ 
+    618983.53  
+ 
+Torque exerted = 618983 ft lb/s 
+ 
+ part c   
+ 
+ h2  =
+ 
+    82.573415  
+ 
+ Power  =
+ 
+    618309.73  
+ 
+Torque exerted = 618309 ft lb/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH6/EX6.6/6_6.sce #
+ 
+ 
+ V1  =
+ 
+    220.  
+ 
+ Q  =
+ 
+    10000.  
+ 
+ d  =
+ 
+    6.5  
+ 
+ rho  =
+ 
+    0.072  
+ 
+ 
+ A  =
+ 
+    33.183072  
+ 
+ V  =
+ 
+    301.35847  
+ 
+ dV  =
+ 
+    162.71694  
+ 
+ Ft  =
+ 
+    7276.7826  
+ 
+ eta  =
+ 
+    0.7300276  
+ 
+ dP  =
+ 
+    109.646  
+ 
+ hpp  =
+ 
+    1993.5637  
+ 
+ 
+pressure rise = 109 psf 
+
+ horsepower input = 1993 hp  
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH6/EX6.7/6_7.sce #
+ 
+ 
+ V1  =
+ 
+    8.02  
+ 
+ V2  =
+ 
+    16.04  
+ 
+ Q  =
+ 
+    481.  
+ 
+ rho  =
+ 
+    1.94  
+ 
+ A  =
+ 
+    60.  
+ 
+ d  =
+ 
+    3.  
+ 
+ 
+ Fx  =
+ 
+    940.2172  
+ 
+ V1m  =
+ 
+    2.56  
+ 
+ V2m  =
+ 
+    5.12  
+ 
+ Qm  =
+ 
+    15.4  
+ 
+ dm  =
+ 
+    1.  
+ 
+ Am  =
+ 
+    6.  
+ 
+ rhom  =
+ 
+    1.  
+ 
+ Fxm  =
+ 
+    4.721  
+ 
+ 
+Force in x- direction = 940 lb 
+Force in x- direction = 4.7 kN 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH7/EX7.2/7_2.sce #
+ 
+ 
+ Dratio  =
+ 
+    8.  
+ 
+ mu  =
+ 
+    0.0006  
+ 
+ rho  =
+ 
+    1.6149068  
+ 
+ vm  =
+ 
+    0.0000122  
+ 
+ V  =
+ 
+    45.  
+ 
+ Fm  =
+ 
+    0.8  
+ 
+ 
+ vp  =
+ 
+    0.0003715  
+ 
+ Vm  =
+ 
+    0.1847050  
+ 
+ Fratio  =
+ 
+    772.02904  
+ 
+ Fp  =
+ 
+    617.62323  
+ 
+ 
+velocity = 0.18 fps 
+
+ Drag force = 617 lb 
+ 
+ The answer given in textbook is wrong. Please use a calculator   
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH7/EX7.3/7_3.sce #
+ 
+ 
+ L  =
+ 
+    50.  
+ 
+ Fm  =
+ 
+    0.02  
+ 
+ Vm  =
+ 
+    1.  
+ 
+ 
+ Fp  =
+ 
+    2500.  
+ 
+ Fp  =
+ 
+    562.  
+ 
+ Vp  =
+ 
+    7.0710678  
+ 
+ Vp  =
+ 
+    23.193102  
+ 
+ Hp  =
+ 
+    23.699134  
+ 
+ 
+Required horsepower = 23.7 hp 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.1/8_1.sce #
+ 
+ 
+ s  =
+ 
+    0.85  
+ 
+ nu  =
+ 
+    0.000018  
+ 
+ d  =
+ 
+    10.  
+ 
+ flow  =
+ 
+    0.5  
+ 
+ 
+ Q  =
+ 
+    500.  
+ 
+ A  =
+ 
+    78.539816  
+ 
+ V  =
+ 
+    6.3661977  
+ 
+ V  =
+ 
+    0.0636620  
+ 
+ R  =
+ 
+    353.67765  
+ 
+ 
+reynolds number = 353 .Hence the flow is laminar 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.2/8_2.sce #
+ 
+ 
+ Vc  =
+ 
+    12.7  
+ 
+ r  =
+ 
+    2.  
+ 
+ r2  =
+ 
+    5.  
+ 
+ R  =
+ 
+    354.  
+ 
+ rho  =
+ 
+    0.85  
+ 
+ V  =
+ 
+    6.37  
+ 
+ D  =
+ 
+    0.1  
+ 
+ 
+ k  =
+ 
+    0.508  
+ 
+ f  =
+ 
+    0.1807910  
+ 
+ T0  =
+ 
+    0.7794433  
+ 
+ T02  =
+ 
+    0.0779443  
+ 
+ hr  =
+ 
+    0.0003739  
+ 
+ 
+Friction factor = 0.18 
+
+ Shear stress at the pipe wall = 0.078 N/m^2 
+
+ Head loss per pipe length = 0.00037 m/m 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.3/8_3.sce #
+ 
+ 
+ Q  =
+ 
+    2.  
+ 
+ A  =
+ 
+    0.196  
+ 
+ D  =
+ 
+    0.5  
+ 
+ rho  =
+ 
+    1.746  
+ 
+ mu  =
+ 
+    0.0008  
+ 
+ hl  =
+ 
+    25.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ L  =
+ 
+    200.  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ V  =
+ 
+    10.204082  
+ 
+ R  =
+ 
+    11135.204  
+ 
+ f  =
+ 
+    0.0386561  
+ 
+ umax  =
+ 
+    12.872381  
+ 
+ T0  =
+ 
+    0.8784563  
+ 
+ u2  =
+ 
+    10.926418  
+ 
+ 
+Center line velocity = 12.9 fps 
+
+ Shear stress = 0.88 lb/ft^2 
+
+ Velcoity at 2 in from center line = 10.93 fps 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.4/8_4.sce #
+ 
+ 
+ f  =
+ 
+    0.0131  
+ 
+ d  =
+ 
+    0.5  
+ 
+ 
+ V  =
+ 
+    2.12  
+ 
+ R  =
+ 
+    1000000.  
+ 
+ Q  =
+ 
+    0.4162610  
+ 
+ d1  =
+ 
+    0.0001352  
+ 
+ 
+flow rate = 0.416 m^3/s 
+
+ nominal thickness = 1.35e-04 m 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.5/8_5.sce #
+ 
+ 
+ dz  =
+ 
+    260.  
+ 
+ ke  =
+ 
+    0.5  
+ 
+ f  =
+ 
+    0.02  
+ 
+ l  =
+ 
+    5000.  
+ 
+ D  =
+ 
+    10.  
+ 
+ A2  =
+ 
+    0.545  
+ 
+ 
+ V2by2g  =
+ 
+    2.1399177  
+ 
+ V2  =
+ 
+    137.8107  
+ 
+ V  =
+ 
+    11.73928  
+ 
+ DV  =
+ 
+    117.3928  
+ 
+ Q  =
+ 
+    6.4027841  
+ 
+ 
+Flow rate = 6.40 cfs 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.6/8_6.sce #
+ 
+ 
+ z  =
+ 
+    260.  
+ 
+ f  =
+ 
+    0.02  
+ 
+ 
+ V2by2g  =
+ 
+    0.6433096  
+ 
+ V2  =
+ 
+    41.429137  
+ 
+ V  =
+ 
+    6.436547  
+ 
+ Q  =
+ 
+    3.5079181  
+ 
+ V3  =
+ 
+    102.98475  
+ 
+ H  =
+ 
+    182.80285  
+ 
+ 
+rate of discharge = 3.51 cfs 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.7/8_7.sce #
+ 
+ 
+ g  =
+ 
+    52.  
+ 
+ Hp  =
+ 
+    2.  
+ 
+ 
+ Q  =
+ 
+    3.48  
+ 
+ V6  =
+ 
+    17.755102  
+ 
+ P  =
+ 
+  - 20.9  
+ 
+ P2  =
+ 
+  - 7.5472222  
+ 
+ 
+Flow rate = 3.48 cfs 
+
+ Pressure in the pipe = -7.55 psi 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.8/8_8.sce #
+ 
+ 
+ h  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ f1  =
+ 
+    0.019  
+ 
+ f2  =
+ 
+    0.021  
+ 
+ f3  =
+ 
+    0.02  
+ 
+ z1  =
+ 
+    300.  
+ 
+ z2  =
+ 
+    150.  
+ 
+ z3  =
+ 
+    250.  
+ 
+ d1  =
+ 
+    0.3  
+ 
+ d2  =
+ 
+    0.2  
+ 
+ d3  =
+ 
+    0.25  
+ 
+ 
+ 
+ part(a)   
+ 
+ Vbyg  =
+ 
+    0.0713234  
+ 
+ V1  =
+ 
+    1.1829479  
+ 
+ Q  =
+ 
+    0.0836177  
+ 
+
+ Flow rate = 0.084 m^3/s 
+ 
+ Part b   
+ 
+ Le2  =
+ 
+    1258.9638  
+ 
+ Le3  =
+ 
+    654.82105  
+ 
+ Le1  =
+ 
+    300.  
+ 
+ Le  =
+ 
+    2213.7849  
+ 
+ V1byg  =
+ 
+    0.0713234  
+ 
+ V2  =
+ 
+    1.1829479  
+ 
+ Q1  =
+ 
+    0.0836177  
+ 
+
+ Flow rate = 0.084 m^3/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH8/EX8.9/8_9.sce #
+ 
+ 
+ d1  =
+ 
+    0.5  
+ 
+ d2  =
+ 
+    0.3333333  
+ 
+ d3  =
+ 
+    0.6666667  
+ 
+ l1  =
+ 
+    2000.  
+ 
+ l2  =
+ 
+    1600.  
+ 
+ l3  =
+ 
+    4000.  
+ 
+ f1  =
+ 
+    0.02  
+ 
+ f2  =
+ 
+    0.032  
+ 
+ f3  =
+ 
+    0.024  
+ 
+ El1  =
+ 
+    200.  
+ 
+ El2  =
+ 
+    50.  
+ 
+ El3  =
+ 
+    120.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Vc  =
+ 
+    5.7824887  
+ 
+ Qc  =
+ 
+    2.0184693  
+ 
+ Va  =
+ 
+    7.7832298  
+ 
+ Qa  =
+ 
+    1.5282336  
+ 
+ Vb  =
+ 
+    5.6176878  
+ 
+ Qb  =
+ 
+    0.4902357  
+ 
+ P  =
+ 
+    2.0570329  
+ 
+ 
+Flowrate at A = 1.528 cfs 
+
+Flowrate at B = 0.490 cfs 
+
+Flowrate at C = 2.018 cfs 
+
+Pressure at P = 2.06 psi 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.1/9_1.sce #
+ 
+ 
+ T2  =
+ 
+    30.  
+ 
+ T1  =
+ 
+    20.  
+ 
+ cv  =
+ 
+    716.  
+ 
+ m  =
+ 
+    15.  
+ 
+ cp  =
+ 
+    1003.  
+ 
+ 
+ di  =
+ 
+    7160.  
+ 
+ dU  =
+ 
+    107400.  
+ 
+ dh  =
+ 
+    10030.  
+ 
+ dH  =
+ 
+    150450.  
+ 
+ 
+Change in Internal energy = 107400 N m 
+
+ Change in Enthalpy = 150450 Nm 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.2/9_2.sce #
+ 
+ 
+ cv  =
+ 
+    716.  
+ 
+ m  =
+ 
+    15.  
+ 
+ cp  =
+ 
+    1003.  
+ 
+ T1  =
+ 
+    293.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ ratio  =
+ 
+    0.4  
+ 
+ 
+ T2  =
+ 
+    422.71107  
+ 
+ P1  =
+ 
+    95.  
+ 
+ P2  =
+ 
+    342.64123  
+ 
+ di  =
+ 
+    92873.128  
+ 
+ dU  =
+ 
+    1393096.9  
+ 
+ dh  =
+ 
+    130100.21  
+ 
+ dH  =
+ 
+    1951503.1  
+ 
+ 
+Final temperature = 422 K 
+
+ Final pressure = 342 kN/m^2 
+
+ Change in Internal energy = 1393096 N m 
+
+ Change in Enthalpy = 1951503 Nm 
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.3/9_3.sce #
+ 
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    1773.  
+ 
+ v  =
+ 
+    600.  
+ 
+ T  =
+ 
+    660.  
+ 
+ P  =
+ 
+    100.  
+ 
+ cp  =
+ 
+    6210.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ c  =
+ 
+    1279.9422  
+ 
+ M  =
+ 
+    0.4687712  
+ 
+ rho  =
+ 
+    0.0123058  
+ 
+ Ps  =
+ 
+    16736.731  
+ 
+ Ts  =
+ 
+    688.98551  
+ 
+ 
+Stagnation pressure = 16736 lb/ft^2 
+
+ Stagnation temperature = 688 R 
+ 
+ Please check the units of the answer.   
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.4/9_4.sce #
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ A  =
+ 
+    0.0218  
+ 
+ P1  =
+ 
+    25.6  
+ 
+ T1  =
+ 
+    540.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    1715.  
+ 
+ 
+ G  =
+ 
+    1.841222  
+ 
+ 
+Flow rate  = 1.84 lb/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.5/9_5.sce #
+ 
+ 
+ P1  =
+ 
+    50.  
+ 
+ T1  =
+ 
+    540.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ R  =
+ 
+    1715.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ P3  =
+ 
+    13.5  
+ 
+ A2  =
+ 
+    0.0218  
+ 
+ cp  =
+ 
+    6000.  
+ 
+ 
+ Pc  =
+ 
+    26.4  
+ 
+ V32  =
+ 
+    31415.789  
+ 
+ V3  =
+ 
+    1422.3842  
+ 
+ G3  =
+ 
+    3.5961368  
+ 
+ T3  =
+ 
+    371.40193  
+ 
+ gam3  =
+ 
+    0.0982752  
+ 
+ gam2  =
+ 
+    0.1586697  
+ 
+ V2  =
+ 
+    1039.6466  
+ 
+ T2  =
+ 
+    449.92791  
+ 
+ A3  =
+ 
+    0.0257262  
+ 
+ D3  =
+ 
+    0.1809851  
+ 
+ G2  =
+ 
+    3.5961368  
+ 
+ 
+
+ velocity at section 3 = 1422 fps 
+
+ Flow rate at section 3 = 3.596 lb/s 
+
+ temperature at section 3  = 371 R 
+
+ velocity at section 2 = 1039 fps 
+
+ Flow rate at section 2 = 3.596 lb/s 
+
+ temperature at section 2  = 449 R 
+
+ Required Diameter = 2.17 in 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.6/9_6.sce #
+ 
+ 
+ P1  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ R  =
+ 
+    1715.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ V1  =
+ 
+    1400.  
+ 
+ 
+ rho1  =
+ 
+    0.0000117  
+ 
+ c1  =
+ 
+    1095.6733  
+ 
+ M1  =
+ 
+    1.2777531  
+ 
+ P2  =
+ 
+    17.380952  
+ 
+ V2  =
+ 
+    947.91667  
+ 
+ rho2  =
+ 
+    0.0000172  
+ 
+ T2  =
+ 
+    588.41766  
+ 
+ P22  =
+ 
+    122.5  
+ 
+ V22  =
+ 
+    286.  
+ 
+ T22  =
+ 
+    328.  
+ 
+ 
+Pressure at point 2 = 17.4 psia and 122.5 N/m^2 
+
+ Velocity at point 2 = 947 fps and 286 m/s 
+
+ Temperature at point 2 = 588 R and 328 K 
+ 
+ Similarly it can be done for SI units   
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.7/9_7.sce #
+ 
+ 
+ A  =
+ 
+    140.  
+ 
+ P  =
+ 
+    48.  
+ 
+ mu  =
+ 
+    0.0000004  
+ 
+ g  =
+ 
+    32.2  
+ 
+ G  =
+ 
+    100.  
+ 
+ p  =
+ 
+    80.  
+ 
+ T  =
+ 
+    525.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    1715.  
+ 
+ 
+ Rh  =
+ 
+    0.2430556  
+ 
+ R1  =
+ 
+    8215846.7  
+ 
+ R2  =
+ 
+    8215846.7  
+ 
+ f  =
+ 
+    0.0083  
+ 
+ gam1  =
+ 
+    0.4119883  
+ 
+ V1  =
+ 
+    249.66033  
+ 
+ c  =
+ 
+    1122.731  
+ 
+ M1  =
+ 
+    0.2223688  
+ 
+ M2  =
+ 
+    0.8451543  
+ 
+ D  =
+ 
+    0.9722222  
+ 
+ L  =
+ 
+    1262.1158  
+ 
+ Ln  =
+ 
+    500.  
+ 
+ P2  =
+ 
+    11426.203  
+ 
+ Pa  =
+ 
+    12.2  
+ 
+ 
+Max. length = 1262 ft 
+
+ Pressure required = 67.1 psia 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.8/9_8.sce #
+ 
+ 
+ G  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ V2  =
+ 
+    300.  
+ 
+ V1  =
+ 
+    250.  
+ 
+ 
+ Qh  =
+ 
+    427.01863  
+ 
+ Q  =
+ 
+    42701.863  
+ 
+ 
+Thermal energy added = 42701 ft lb/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH9/EX9.9/9_9.sce #
+ 
+ 
+ gam1  =
+ 
+    0.41  
+ 
+ g  =
+ 
+    32.2  
+ 
+ V1  =
+ 
+    250.  
+ 
+ R1  =
+ 
+    8200000.  
+ 
+ f  =
+ 
+    0.0083  
+ 
+ A  =
+ 
+    0.97  
+ 
+ G  =
+ 
+    100.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ P  =
+ 
+    80.  
+ 
+ ratio  =
+ 
+    0.8  
+ 
+ R  =
+ 
+    1715.  
+ 
+ 
+ rho1  =
+ 
+    0.0127329  
+ 
+ X  =
+ 
+    6396415.2  
+ 
+ P2  =
+ 
+    9164.2475  
+ 
+ L  =
+ 
+    563.  
+ 
+ rho2  =
+ 
+    0.0101863  
+ 
+ V2  =
+ 
+    314.30727  
+ 
+ T2  =
+ 
+    524.58361  
+ 
+ 
+Length = 563 ft 
+
+ velocity = 314 fps 
+
+ Temperature = 524 R 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.1/10_1.sce #
+ 
+ 
+ nu  =
+ 
+    0.001  
+ 
+ L  =
+ 
+    1.5  
+ 
+ U  =
+ 
+    2.  
+ 
+ s  =
+ 
+    0.925  
+ 
+ ro  =
+ 
+    1.94  
+ 
+ b  =
+ 
+    6.  
+ 
+ 
+ R  =
+ 
+    3000.  
+ 
+ Cf  =
+ 
+    0.0242459  
+ 
+ Ff  =
+ 
+    0.0652638  
+ 
+ delta  =
+ 
+    0.1344659  
+ 
+ T0  =
+ 
+    0.0435092  
+ 
+ 
+Friction drag = 0.065 lb 
+
+ Thickness of boundary layer = 0.1345 ft 
+
+ Shear stress = 0.0435 lb/ft^2 
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.2/10_2.sce #
+ 
+ 
+ nu  =
+ 
+    0.00015  
+ 
+ L  =
+ 
+    35.  
+ 
+ U  =
+ 
+    88.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ b  =
+ 
+    10.  
+ 
+ w  =
+ 
+    8.  
+ 
+ rho  =
+ 
+    0.0725  
+ 
+ 
+ R  =
+ 
+    20533333.  
+ 
+ Cf  =
+ 
+    0.0026837  
+ 
+ B  =
+ 
+    28.  
+ 
+ Ff  =
+ 
+    22.928265  
+ 
+ Rx  =
+ 
+    205.33333  
+ 
+ delta  =
+ 
+    0.4549016  
+ 
+ T0  =
+ 
+    0.0176426  
+ 
+ 
+Frictional drag = 22.9 lb 
+
+ Thickness of  boundary layer = 0.455 ft 
+
+ Shear stress = 0.0176 lb/ft^2 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.3/10_3.sce #
+ 
+ 
+ nu  =
+ 
+    0.0000166  
+ 
+ U  =
+ 
+    5.06  
+ 
+ L  =
+ 
+    50.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ dia  =
+ 
+    10.  
+ 
+ 
+ R  =
+ 
+    15240964.  
+ 
+ Cf  =
+ 
+    0.0028  
+ 
+ Ff  =
+ 
+    111.91107  
+ 
+ Rx  =
+ 
+    304819.28  
+ 
+ ec  =
+ 
+    0.0020042  
+ 
+ Rx2  =
+ 
+    7620481.9  
+ 
+ T02  =
+ 
+    0.0315873  
+ 
+ delta2  =
+ 
+    0.0056041  
+ 
+ 
+Friction drag = 111 lb 
+
+ Critical roughness = 0.0020 ft 
+
+ height of roughness = 0.0056 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.4/10_4.sce #
+ 
+ 
+ Cd  =
+ 
+    0.45  
+ 
+ rho  =
+ 
+    0.0022516  
+ 
+ V  =
+ 
+    88.  
+ 
+ A  =
+ 
+    80.  
+ 
+ 
+ Fd  =
+ 
+    313.84845  
+ 
+ Drag2  =
+ 
+    23.  
+ 
+ D  =
+ 
+    290.84845  
+ 
+ 
+Pressure drag = 290 lb 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.5/10_5.sce #
+ 
+ 
+ Cd  =
+ 
+    0.2  
+ 
+ D  =
+ 
+    8.5  
+ 
+ V  =
+ 
+    412.  
+ 
+ nu  =
+ 
+    0.000157  
+ 
+ 
+ Vt  =
+ 
+    480.  
+ 
+ 
+Free fall velocity = 480 fps 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.6/10_6.sce #
+ 
+ 
+ nu  =
+ 
+    0.0000115  
+ 
+ D  =
+ 
+    0.002  
+ 
+ V  =
+ 
+    15.  
+ 
+ T  =
+ 
+  - 20.  
+ 
+ 
+ R  =
+ 
+    2608.6957  
+ 
+ f  =
+ 
+    1488.5  
+ 
+ 
+Frequency of oscillation = 1488 Hz 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.7/10_7.sce #
+ 
+ 
+ n  =
+ 
+    90.  
+ 
+ R  =
+ 
+    2.  
+ 
+ rho  =
+ 
+    0.0023758  
+ 
+ B  =
+ 
+    25.  
+ 
+ U  =
+ 
+    120.  
+ 
+ 
+ vt  =
+ 
+    18.849556  
+ 
+ T  =
+ 
+    236.87051  
+ 
+ Fl  =
+ 
+    1688.2541  
+ 
+ theta  =
+ 
+  - 4.5046393  
+ 
+ 
+Value of circulation = 236 ft62/s 
+
+ Transverse or lift force = 1688 lb 
+
+ Position of stagnation points = 184.5 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.8/10_8.sce #
+ 
+ 
+ B  =
+ 
+    36.  
+ 
+ c  =
+ 
+    6.  
+ 
+ Cl  =
+ 
+    0.8  
+ 
+ tau  =
+ 
+    0.175  
+ 
+ rho  =
+ 
+    0.001756  
+ 
+ V  =
+ 
+    300.  
+ 
+ 
+ alphai  =
+ 
+    2.8572574  
+ 
+ alpha  =
+ 
+    5.4  
+ 
+ lift  =
+ 
+  - 5.6  
+ 
+ alphao  =
+ 
+    2.5427426  
+ 
+ alphaod  =
+ 
+    8.1427426  
+ 
+ alphaor  =
+ 
+    0.1421177  
+ 
+ eta  =
+ 
+    0.8959052  
+ 
+ Fl  =
+ 
+    13654.656  
+ 
+ Fd  =
+ 
+    803.7  
+ 
+ HP  =
+ 
+    438.38182  
+ 
+ 
+Friction coefficient = 0.896  
+
+ weight of the wing = 13654 lb 
+
+ Horsepower required = 438 hp 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH10/EX10.9/10_9.sce #
+ 
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ T  =
+ 
+    249.  
+ 
+ v  =
+ 
+    600.  
+ 
+ d  =
+ 
+    0.2  
+ 
+ 
+ c  =
+ 
+    316.30397  
+ 
+ M  =
+ 
+    1.8969095  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ rho  =
+ 
+    0.6607615  
+ 
+ Fd  =
+ 
+    2316.6414  
+ 
+ 
+Drag = 2316 N 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH11/EX11.1/11_1.sce #
+ 
+ 
+ y  =
+ 
+    3.4  
+ 
+ n  =
+ 
+    0.016  
+ 
+ 
+ A  =
+ 
+    57.12  
+ 
+ P  =
+ 
+    25.205262  
+ 
+ Rh  =
+ 
+    2.2661934  
+ 
+ f  =
+ 
+    0.0226082  
+ 
+ e  =
+ 
+    0.0158566  
+ 
+ 
+absolute roughness of pipe = 0.0159 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH11/EX11.2/11_2.sce #
+ 
+ 
+ y  =
+ 
+    1.495  
+ 
+ Q  =
+ 
+    14.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ yc  =
+ 
+    1.6484889  
+ 
+ 
+yc = 1.65 ft is greater than uniform flow depth. Hence flow is supercritical 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH11/EX11.3/11_3.sce #
+ 
+ 
+ q  =
+ 
+    6.75  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    27.  
+ 
+ d  =
+ 
+    2.  
+ 
+ dz1  =
+ 
+    0.3  
+ 
+ 
+ yc  =
+ 
+    1.122666  
+ 
+ V2  =
+ 
+    6.012474  
+ 
+ V1  =
+ 
+    3.375  
+ 
+ dz  =
+ 
+    0.4928741  
+ 
+ y2  =
+ 
+    1.6  
+ 
+ drop  =
+ 
+    0.1  
+ 
+ dz2  =
+ 
+    0.6  
+ 
+ up  =
+ 
+    2.12  
+ 
+ down  =
+ 
+    0.66  
+ 
+ 
+yc = 1.12 ft. Since, depth is greater than critical depth. the flow is subcritical 
+
+ Drop in water height = 0.10 ft 
+
+ Drop upstream = 2.12 ft and Downstream = 0.66 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH11/EX11.5/11_5.sce #
+ 
+ 
+ y0  =
+ 
+    2.17  
+ 
+ q  =
+ 
+    40.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    4.8  
+ 
+ S0  =
+ 
+    0.0016  
+ 
+ 
+ yc  =
+ 
+    3.6763883  
+ 
+ y2  =
+ 
+    5.7687541  
+ 
+ y1  =
+ 
+    2.7443108  
+ 
+ E1  =
+ 
+    4.0081941  
+ 
+ E2  =
+ 
+    6.0431984  
+ 
+ Vm  =
+ 
+    12.727926  
+ 
+ Rm  =
+ 
+    1.6407456  
+ 
+ S  =
+ 
+    0.0063725  
+ 
+ dx  =
+ 
+  - 426.40484  
+ 
+ E1d  =
+ 
+    6.0431984  
+ 
+ E2d  =
+ 
+    5.8783299  
+ 
+ HPl  =
+ 
+    7.4820347  
+ 
+ 
+Power loss = 7.48  
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH11/EX11.6/11_6.sce #
+ 
+ 
+ y1  =
+ 
+    1.5    1.48  
+ 
+ V1  =
+ 
+    2.22    2.29  
+ 
+ d  =
+ 
+    1.2  
+ 
+ 
+ q  =
+ 
+    3.33    3.3892  
+ 
+ V2  =
+ 
+    2.775    2.8243333  
+ 
+ Vm  =
+ 
+    2.5    2.56  
+ 
+ Rh1  =
+ 
+    0.9    0.89  
+ 
+ Rh2  =
+ 
+    0.88    0.78  
+ 
+ Rhm  =
+ 
+    0.89    0.835  
+ 
+ S  =
+ 
+    87.879056  
+ 
+ dx  =
+ 
+    358.    226.  
+ 
+ yavg  =
+ 
+    1.49  
+ 
+ qavg  =
+ 
+    3.3596  
+ 
+ B  =
+ 
+    4.5  
+ 
+ Q  =
+ 
+    15.1182  
+ 
+ 
+Flow rate = 15.1 m^3/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH12/EX12.1/12_1.sce #
+ 
+ 
+ P1  =
+ 
+    10.  
+ 
+ Q  =
+ 
+    0.6  
+ 
+ A1  =
+ 
+    0.0491  
+ 
+ g  =
+ 
+    32.2  
+ 
+ V  =
+ 
+    39.2  
+ 
+ A0  =
+ 
+    0.0218  
+ 
+ d1  =
+ 
+    2.  
+ 
+ d2  =
+ 
+    3.  
+ 
+ 
+ Phead  =
+ 
+    23.076923  
+ 
+ V1  =
+ 
+    12.219959  
+ 
+ V2i  =
+ 
+    40.441084  
+ 
+ Cv  =
+ 
+    0.9693113  
+ 
+ A2  =
+ 
+    0.0153061  
+ 
+ Cc  =
+ 
+    0.7021157  
+ 
+ Cd  =
+ 
+    0.6805687  
+ 
+ hL  =
+ 
+    1.2316313  
+ 
+ 
+Cc = 0.70  
+
+ Cd= 0.68 
+
+ Cv= 0.97 
+
+ Head loss = 1.23 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH12/EX12.2/12_2.sce #
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d1  =
+ 
+    3.  
+ 
+ k  =
+ 
+    1.06  
+ 
+ 
+ A2  =
+ 
+    0.0218166  
+ 
+ dp  =
+ 
+    0.1666667  
+ 
+ Q  =
+ 
+    0.0757636  
+ 
+ A  =
+ 
+    0.0490874  
+ 
+ V1  =
+ 
+    1.5434432  
+ 
+ K2  =
+ 
+    1.04  
+ 
+ Q2  =
+ 
+    0.0743341  
+ 
+ 
+Flow rate = 0.0743 cfs 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH12/EX12.3/12_3.sce #
+ 
+ 
+ P1  =
+ 
+    700.  
+ 
+ P2  =
+ 
+    400.  
+ 
+ D2  =
+ 
+    12.5  
+ 
+ D1  =
+ 
+    25.  
+ 
+ C  =
+ 
+    0.985  
+ 
+ g  =
+ 
+    9.81  
+ 
+ R  =
+ 
+    287.  
+ 
+ T  =
+ 
+    293.  
+ 
+ 
+ Pr  =
+ 
+    0.5714286  
+ 
+ Dr  =
+ 
+    0.5  
+ 
+ Y  =
+ 
+    0.72  
+ 
+ gam1  =
+ 
+    0.0816615  
+ 
+ G  =
+ 
+    0.1970661  
+ 
+ 
+Weight flow rate = 0.1971 kN/s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH12/EX12.4/12_4.sce #
+ 
+ 
+ V  =
+ 
+    3.  
+ 
+ y  =
+ 
+    1.  
+ 
+ L  =
+ 
+    4.  
+ 
+ 
+ H  =
+ 
+    0.9327917  
+ 
+ P  =
+ 
+    3.0672083  
+ 
+ 
+Height of weir = 3.07 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH13/EX13.1/13_1.sce #
+ 
+ 
+ ken  =
+ 
+    0.5  
+ 
+ kex  =
+ 
+    0.2  
+ 
+ f  =
+ 
+    0.0018  
+ 
+ l  =
+ 
+    10.  
+ 
+ dia  =
+ 
+    3.  
+ 
+ z1  =
+ 
+    8.  
+ 
+ z2  =
+ 
+    5.  
+ 
+ 
+ x1  =
+ 
+    0.772  
+ 
+ t  =
+ 
+    270.91416  
+ 
+ 
+Time reqired = 270 s 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH13/EX13.2/13_2.sce #
+ 
+ 
+ 
+ For steady state, dV/dt =0   
+ 
+ Q  =
+ 
+    3.5634744  
+ 
+ A2  =
+ 
+    0.1963  
+ 
+ g  =
+ 
+    32.2  
+ 
+ rp2  =
+ 
+    2000.  
+ 
+ 
+ V2  =
+ 
+    18.153206  
+ 
+ hp1  =
+ 
+    113.74604  
+ 
+ hp2  =
+ 
+    167.11998  
+ 
+ hpf  =
+ 
+    169.  
+ 
+ Q  =
+ 
+    4.1  
+ 
+ 
+Steady state flow rate = 4.10 cfs 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH13/EX13.3/13_3.sce #
+ 
+ 
+ kl  =
+ 
+    0.5  
+ 
+ f  =
+ 
+    0.02  
+ 
+ L  =
+ 
+    15.  
+ 
+ D  =
+ 
+    0.1  
+ 
+ k  =
+ 
+    3.5  
+ 
+ g  =
+ 
+    9.81  
+ 
+ H  =
+ 
+    2.  
+ 
+ 
+ k  =
+ 
+    3.5  
+ 
+ V0  =
+ 
+    2.9529646  
+ 
+ Q  =
+ 
+    0.25    0.5    0.75  
+ 
+ V  =
+ 
+    0.7382412    1.4764823    2.2147235  
+ 
+ Vfun  =
+ 
+    1.6675603    3.0040239    7.0241918  
+ 
+ lnVfun  =
+ 
+    0.5113616    1.0999527    1.9493602  
+ 
+ t  =
+ 
+    0.5773273    1.2418466    2.2008276  
+ 
+ 
+ 
+    0.5773273    1.2418466    2.2008276  
+ 
+ 
+ Similarly, it can be calculated for L=150,1500 ft   
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH13/EX13.4/13_4.sce #
+ 
+ 
+ Q  =
+ 
+    30.  
+ 
+ r  =
+ 
+    2.  
+ 
+ cp  =
+ 
+    3200.  
+ 
+ rho  =
+ 
+    1.94  
+ 
+ Q2  =
+ 
+    10.  
+ 
+ z  =
+ 
+    300.  
+ 
+ 
+ V  =
+ 
+    2.3873241  
+ 
+ ph  =
+ 
+    102.9202  
+ 
+ phd  =
+ 
+    32.162561  
+ 
+ dV  =
+ 
+  - 1.5915494  
+ 
+ dph  =
+ 
+    68.613464  
+ 
+ ph3  =
+ 
+    34.306732  
+ 
+ ph4  =
+ 
+    6.4325123  
+ 
+ 
+Water hammer pressure= 102.9 psi 
+
+ Water hammer pressure in case 2= 32.2 psi 
+
+ Water hammer pressure in case 3= 68.6 psi 
+
+ Pressure at valve in case 4 = 34.3 psi 
+
+ Pressure at 300 ft from reservoir = 6.43 psi 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH14/EX14.1.a/14_1a.sce #
+ 
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q  =
+ 
+    3.2  
+ 
+ h  =
+ 
+    25.  
+ 
+ eta  =
+ 
+    0.82  
+ 
+ 
+ bp  =
+ 
+    957.07317  
+ 
+ 
+Brake power = 957 kW 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH14/EX14.1.b/14_1b.sce #
+ 
+ 
+ D1  =
+ 
+    50.  
+ 
+ n1  =
+ 
+    1450.  
+ 
+ n2  =
+ 
+    1200.  
+ 
+ D2  =
+ 
+    80.  
+ 
+ Q1  =
+ 
+    3.2  
+ 
+ h1  =
+ 
+    25.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ eta  =
+ 
+    0.82  
+ 
+ 
+ h2  =
+ 
+    43.833532  
+ 
+ Q2  =
+ 
+    10.847338  
+ 
+ bp  =
+ 
+    5688.33  
+ 
+ h1  =
+ 
+    82.  
+ 
+ Q1  =
+ 
+    50700.  
+ 
+ h2  =
+ 
+    143.8  
+ 
+ Q2  =
+ 
+    171800.  
+ 
+ Ns1  =
+ 
+    11981.511  
+ 
+ Ns2  =
+ 
+    11977.706  
+ 
+ 
+Brake power = 5688 kW 
+
+ Pumps are homologous. We expect them to have same specific speed and their speeds are 11981.5 and 11977.7 
+ 
+ 14.1c is included in this example itself   
+ 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH15/EX15.1/15_1.sce #
+ 
+ 
+ z2  =
+ 
+    500.  
+ 
+ z1  =
+ 
+    300.  
+ 
+ D  =
+ 
+    1.    1.5    2.    2.5    3.    4.    6.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ 
+ Dj  =
+ 
+    0.0833333    0.125    0.1666667    0.2083333    0.25    0.3333333    0.5  
+ 
+ Vj  =
+ 
+    109.67073    103.76406    91.636759    75.733594    60.319301    37.954143    17.715534  
+ 
+ Aj  =
+ 
+    0.0054542    0.0122718    0.0218166    0.0340885    0.0490874    0.0872665    0.1963495  
+ 
+ Q  =
+ 
+    0.5981610    1.2733766    1.9992039    2.5816417    2.9609168    3.3121238    3.478437  
+ 
+ Pjet  =
+ 
+    12.67464    24.153875    29.575532    26.086099    18.979066    8.40545    1.9232188  
+ 
+ Pj  =
+ 
+    29.575532  
+ 
+ 
+ diameter  =
+ 
+    2.  
+ 
+ 
+Thus a pipe of 2 in will be the optimum 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH15/EX15.2/15_2.sce #
+ 
+ 
+ phi  =
+ 
+    0.46  
+ 
+ g  =
+ 
+    32.2  
+ 
+ k  =
+ 
+    0.44  
+ 
+ cv  =
+ 
+    0.98  
+ 
+ d  =
+ 
+    10.  
+ 
+ A  =
+ 
+    0.545  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    160.  
+ 
+ 
+ u  =
+ 
+    3.6914821  
+ 
+ V1  =
+ 
+    7.8644618  
+ 
+ gQ  =
+ 
+    267.45462  
+ 
+ T  =
+ 
+    309.01578  
+ 
+ Power  =
+ 
+    228.14524  
+ 
+ 
+Torque required = 309 ft lb 
+
+ Power transferred = 228 ft lb/s 
+ Pi  =
+ 
+    267.45462  
+ 
+ He  =
+ 
+    0.8530241  
+ 
+
+ Hydraulic efficiency = 0.85 
+ v1  =
+ 
+    4.1729798  
+ 
+ v2  =
+ 
+    3.4774831  
+ 
+ hl  =
+ 
+    0.0826222  
+ 
+Head loss in bucket friction = 8.2622 
+ Hn  =
+ 
+    0.0396  
+ 
+
+ Head loss in  nozzle = 3.9600 
+ V2cos  =
+ 
+    0.4237169  
+ 
+ V2sin  =
+ 
+    1.1893693  
+ 
+ alpha  =
+ 
+    1.2285614  
+ 
+ V2  =
+ 
+    1.2625907  
+ 
+ Hd  =
+ 
+    0.0247537  
+ 
+
+ Head loss at discharge = 2.48 
+ Htotal  =
+ 
+    0.1469759  
+ 
+
+ Total head loss = 14.70 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH15/EX15.3.b/15_3b.sce #
+ 
+ 
+ cv  =
+ 
+    0.98  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    1320.  
+ 
+ A  =
+ 
+    0.196  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ ne  =
+ 
+    400.  
+ 
+ phi  =
+ 
+    0.45  
+ 
+ 
+ V  =
+ 
+    285.73009  
+ 
+ Q  =
+ 
+    18.667699  
+ 
+ bhp  =
+ 
+    2376.3234  
+ 
+ ne2  =
+ 
+    600.  
+ 
+ ns1  =
+ 
+    3.676094  
+ 
+ D  =
+ 
+    4.1666667  
+ 
+ Dj  =
+ 
+    0.2884181  
+ 
+ 
+Jet diameter = 0.288 ft 
+
+ Specific speed = 3.68  
+
+ Pitch Diameter = 4.17 ft 
+
+ Operating speed = 600 rpm 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH15/EX15.3.a/15_3.sce #
+ 
+ 
+ cv  =
+ 
+    0.98  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    1320.  
+ 
+ A  =
+ 
+    0.196  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ ne  =
+ 
+    400.  
+ 
+ phi  =
+ 
+    0.45  
+ 
+ 
+ V  =
+ 
+    285.73009  
+ 
+ Q  =
+ 
+    56.003097  
+ 
+ bhp  =
+ 
+    7128.9703  
+ 
+ ns  =
+ 
+    4.2447877  
+ 
+ u  =
+ 
+    131.20259  
+ 
+ D  =
+ 
+    6.2644623  
+ 
+ 
+Pitch diameter = 6.26 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH16/EX16.2/16_2.sce #
+ 
+ 
+ ns  =
+ 
+    20.  
+ 
+ eta  =
+ 
+    0.925  
+ 
+ etah  =
+ 
+    0.94  
+ 
+ BD  =
+ 
+    0.1  
+ 
+ phie  =
+ 
+    0.72  
+ 
+ g  =
+ 
+    32.2  
+ 
+ alpha2  =
+ 
+    90.  
+ 
+ 
+ Cr  =
+ 
+    0.1243171  
+ 
+ c1cos  =
+ 
+    0.6527778  
+ 
+ alpha  =
+ 
+    0.1881896  
+ 
+ C1  =
+ 
+    0.6645100  
+ 
+ beta1  =
+ 
+    118.40151  
+ 
+ 
+Alpha = 10.78 degrees 
+
+ Beta = 118.40 degrees 
+ 
+ part b   
+ 
+ h  =
+ 
+    402.  
+ 
+ n  =
+ 
+    600.  
+ 
+ bhp  =
+ 
+    3600.  
+ 
+ ns  =
+ 
+    19.999537  
+ 
+ D  =
+ 
+    3.6859805  
+ 
+ B  =
+ 
+    0.3685981  
+ 
+ Dt  =
+ 
+    2.7091957  
+ 
+ Ac  =
+ 
+    4.0548944  
+ 
+ Vr  =
+ 
+    20.002612  
+ 
+ Q  =
+ 
+    81.108479  
+ 
+ 
+
+ Breadth= 0.369 ft 
+
+ depth D= 3.686 ft 
+
+ velocity Vr= 20 ft/s 
+
+ Flow rate Q= 81.1 cfs 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH16/EX16.3/16_3.sce #
+ 
+ 
+ ns  =
+ 
+    70.  
+ 
+ z1  =
+ 
+    10.  
+ 
+ z2  =
+ 
+    5000.  
+ 
+ 
+ P1  =
+ 
+    28.153846  
+ 
+ P2  =
+ 
+    0.6  
+ 
+ sigmac  =
+ 
+    0.31  
+ 
+ h  =
+ 
+    56.62531  
+ 
+ 
+Max permissible head to assure against cavitation = 56 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH16/EX16.4/16_4.sce #
+ 
+ 
+ Q  =
+ 
+    600.  
+ 
+ z  =
+ 
+    350.  
+ 
+ eta  =
+ 
+    0.9  
+ 
+ 
+ power  =
+ 
+    21442.909  
+ 
+ rpm  =
+ 
+    75.  
+ 
+ n  =
+ 
+    2.  
+ 
+ ns  =
+ 
+    5.1298311  
+ 
+ phi  =
+ 
+    0.45  
+ 
+ D  =
+ 
+    17.207882  
+ 
+ rpm2  =
+ 
+    600.  
+ 
+ ns2  =
+ 
+    41.038648  
+ 
+ 
+For two turbines, ns= 5.13 
+
+ For francis turbines, ns= 41  
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH17/EX17.1.b/17_1b.sce #
+ 
+ 
+ ne  =
+ 
+    600.  
+ 
+ gpm  =
+ 
+    1600.  
+ 
+ Ns  =
+ 
+    500.  
+ 
+ Head  =
+ 
+    900.  
+ 
+ 
+ h  =
+ 
+    174.44358  
+ 
+ n  =
+ 
+    5.1592613  
+ 
+ 
+No. of stages = 6 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH17/EX17.1/17_1.sce #
+ 
+ 
+ Ns  =
+ 
+    500.  
+ 
+ h  =
+ 
+    900.  
+ 
+ Q  =
+ 
+    1600.  
+ 
+ 
+ ne  =
+ 
+    2053.9596  
+ 
+ 
+Minimum rotative speed = 2053 rpm 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH17/EX17.2/17_2.sce #
+ 
+ 
+ ne  =
+ 
+    600.  
+ 
+ gpm  =
+ 
+    2000.  
+ 
+ h  =
+ 
+    150.  
+ 
+ num  =
+ 
+    2.  
+ 
+ 
+ ns  =
+ 
+    626.03383  
+ 
+ gpm2  =
+ 
+    4000.  
+ 
+ h2  =
+ 
+    600.  
+ 
+ Ns  =
+ 
+    626.03383  
+ 
+ Ne2  =
+ 
+    356.76213  
+ 
+ 
+Specific speed in case1 = 626  
+
+Flow rate in case 2 = 4000 gpm 
+
+ Head in case 2 = 600 ft 
+
+ Specific speed in case 2 = 626  
+
+ required operating speed in case 2 = 356 rpm 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH17/EX17.3/17_3.sce #
+ 
+ 
+ ne  =
+ 
+    300.  
+ 
+ gpm  =
+ 
+    1450.  
+ 
+ h  =
+ 
+    140.  
+ 
+ NPSH  =
+ 
+    10.4  
+ 
+ 
+ Ns  =
+ 
+    617.0674  
+ 
+ sigmac  =
+ 
+    0.0742857  
+ 
+ zsmax  =
+ 
+  - 3.  
+ 
+ 
+Sigma C for the pump = 0.0743 
+
+ Position of pump = -3 ft 
+ 
+grepthis#Fluid_Mechanics_With_Engineering_Applications_R._L._A._Daugherty_And_J._B._A._Franzini_1457/CH17/EX17.4/17_4.sce #
+ 
+ 
+ ne  =
+ 
+    600.  
+ 
+ gpm  =
+ 
+    84500.  
+ 
+ h  =
+ 
+    225.  
+ 
+ f  =
+ 
+    0.95  
+ 
+ phie  =
+ 
+    1.1  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Ns  =
+ 
+    3002.2214  
+ 
+ u2  =
+ 
+    132.41186  
+ 
+ D  =
+ 
+    4.213  
+ 
+ D0  =
+ 
+    53.58936  
+ 
+ B  =
+ 
+    99.67621  
+ 
+ De  =
+ 
+    32.153616  
+ 
+ u0  =
+ 
+    140.35657  
+ 
+ Vm2  =
+ 
+    21.053485  
+ 
+ Area  =
+ 
+    8.7035005  
+ 
+ Q  =
+ 
+    183.23902  
+ 
+ 
+Specific speed =3002  
+
+ Flow rate = 183 cfs 
+
+ Eye diameter = 32.2 in 
+ 

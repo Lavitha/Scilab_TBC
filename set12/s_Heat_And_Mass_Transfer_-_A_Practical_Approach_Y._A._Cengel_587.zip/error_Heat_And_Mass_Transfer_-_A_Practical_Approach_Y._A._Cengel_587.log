@@ -1,0 +1,380 @@
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.14/example2_14.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    disp("K",xs,"The outer surface temperature is ")
+               !--error 4 
+Undefined variable: xs
+at line      20 of exec file called by :    
+ngel_587/CH2/EX2.14/example2_14.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.13/example3_13.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k_soil  =
+ 
+    0.9  
+ 
+ 
+ 
+ 
+ 
+ 
+if(z>(1.5*D))then
+                !--error 276 
+Missing operator, comma, or semicolon.
+at line      14 of exec file called by :    
+ngel_587/CH3/EX3.13/example3_13.sce',-1
+ 
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.6/example4_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x=(h/k)*(sqrt(a*t));
+     !--error 4 
+Undefined variable: h
+at line      14 of exec file called by :    
+Cengel_587/CH4/EX4.6/example4_6.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.2/example7_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flow is not laminar   
+ 
+ Nusselt Number is   
+ 
+    2687.  
+ 
+ Heat Flow Rate is   
+ 
+    14279.267  
+ 
+ W   
+ 
+ 
+ 
+ 
+if(ReL2<Rec) then,
+          !--error 4 
+Undefined variable: Rec
+at line      35 of exec file called by :    
+Cengel_587/CH7/EX7.2/example7_2.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.6/example7_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nu=2+[(0.4*(Re^(1/2)))+(0.06*(Re^(2/3)))]*(Pr^(0.4))*((mu/mu_s)^(1/4));
+                                             !--error 4 
+Undefined variable: Pr
+at line      21 of exec file called by :    
+Cengel_587/CH7/EX7.6/example7_6.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.8/example7_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ri  =
+ 
+    0.008  
+ 
+ 
+ 
+ 
+ hi  =
+ 
+    70.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    disp("m",xs,"The outer radius of the insulation is")
+               !--error 4 
+Undefined variable: xs
+at line      31 of exec file called by :    
+Cengel_587/CH7/EX7.8/example7_8.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.4/example8_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reynolds Number is   
+ 
+    122961.6  
+ 
+ 
+ 
+ 
+disp(xs,"Friction Factor is")
+       !--error 4 
+Undefined variable: xs
+at line      22 of exec file called by :    
+Cengel_587/CH8/EX8.4/example8_4.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.2/example9_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) The Rayleigh no is   
+ 
+    7.649D+08  
+ 
+ 
+ 
+ The natural convection Nusselt number is   
+ 
+    113.34469  
+ 
+ 
+ 
+ 
+ 
+ Heat loss to the surrounding is   
+ 
+    115.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ (b) The Rayleigh number is   
+ 
+    11951606.  
+ 
+ 
+ 
+ The natural convection Nusselt number is   
+ 
+    31.750482  
+ 
+ 
+ 
+ 
+ Heat Loss is   
+ 
+    128.  
+ 
+ W   
+ 
+ 
+ Lc_c  =
+ 
+    0.15  
+ 
+ 
+ 
+ (c) Natural convection Nusselt number   
+ 
+    15.875241  
+ 
+ 
+ 
+ 
+ Heat Loss is   
+ 
+    64.191855  
+ 
+ W   
+ 
+Q_rad=e*(5.67*10^(-8))*As*(((Tp+273)^4)-((T_surr+273)^4));//[W]
+        !--error 4 
+Undefined variable: e
+at line      41 of exec file called by :    
+Cengel_587/CH9/EX9.2/example9_2.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.8/example9_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U_a  =
+ 
+    6.63  
+ U_b  =
+ 
+    3.51  
+ U_c  =
+ 
+    1.92  
+ 
+ 
+A_win=h*w;//[m^2]
+        !--error 4 
+Undefined variable: h
+at line      12 of exec file called by :    
+Cengel_587/CH9/EX9.8/example9_8.sce',-1
+ 
+ERROR: Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.10/example13_10.sce
+ 
+ 
+ 
+ 
+ 
+ Pr1  =
+ 
+    0.7282  
+ 
+ nu1  =
+ 
+    0.0000161  
+ 
+ T1  =
+ 
+    20.  
+ 
+ 
+ Do  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ eo  =
+ 
+    0.9  
+ 
+ 
+ 
+ 
+    303.  
+ 
+    0.3141593  
+ 
+ 
+ 
+ The Rayleigh number is   
+ 
+    2692193.4  
+ 
+ 
+ 
+ The nusselt number is   
+ 
+    19.331691  
+ 
+ 
+ 
+ 
+ 
+disp("W",Qo_total,"The total rate of heat loss from the glass cover
+                   !--error 31 
+Incorrect string.
+at line      26 of exec file called by :    
+l_587/CH13/EX13.10/example13_10.sce',-1
+ 
+ 

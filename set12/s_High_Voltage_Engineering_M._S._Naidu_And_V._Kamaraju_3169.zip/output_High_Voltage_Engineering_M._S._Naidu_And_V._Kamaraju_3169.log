@@ -1,0 +1,940 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 50
+
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    0.1  
+ 
+ d2  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    43.446648  
+ 
+ E2  =
+ 
+    25.579529  
+ 
+ 
+the breakdown strength of air for 0.1mm air gap is 43.45 kV/cm. 
+
+the breakdown strength of air for 20 cm air gap is 25.58 kV/cm. 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    0.4  
+ 
+ d2  =
+ 
+    0.1  
+ 
+ I1  =
+ 
+    5.500D-08  
+ 
+ I2  =
+ 
+    5.500D-09  
+ 
+ 
+ 
+ 
+ alpha  =
+ 
+    7.6752836  
+ 
+ 
+Townsend primary ioniztion coefficient is 7.675 /cm torr 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.9  
+ 
+ alpha  =
+ 
+    7.676  
+ 
+ 
+ 
+ 
+ gama  =
+ 
+    0.0009994  
+ 
+ 
+the value of Townsend secondary ioniztion coefficient is 9.994e-04 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    15.  
+ 
+ B  =
+ 
+    360.  
+ 
+ d  =
+ 
+    0.1  
+ 
+ gama  =
+ 
+    0.00015  
+ 
+ p  =
+ 
+    760.  
+ 
+ 
+ 
+ 
+ V  =
+ 
+    5625.6235  
+ 
+ 
+the value of breakdown voltage of the spark gap is 5625 V 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    15.  
+ 
+ B  =
+ 
+    360.  
+ 
+ gama  =
+ 
+    0.0001  
+ 
+ e  =
+ 
+    2.178  
+ 
+ 
+ 
+ Vbmin  =
+ 
+    481.44814  
+ 
+ 
+the value of minimum spark over voltage is 481 V. 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    5.  
+ 
+ Vd  =
+ 
+    1.2  
+ 
+ Id  =
+ 
+    1.75  
+ 
+ 
+ 
+ 
+ Pd  =
+ 
+    2.1  
+ 
+ 
+the diode will not be destroyed 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    10.  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ 
+ 
+ Vl  =
+ 
+    10.  
+ 
+ 
+ Il  =
+ 
+    0.01  
+ 
+ 
+the load voltage is 10 V 
+
+the load current is 10 mA 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    36.  
+ 
+ R1  =
+ 
+    6000.  
+ 
+ R2  =
+ 
+    3000.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ 
+ 
+ Rth  =
+ 
+    2000.  
+ 
+ Vth  =
+ 
+    12.  
+ 
+ 
+ Il  =
+ 
+    0.004  
+ 
+ Vl  =
+ 
+    4.  
+ 
+ 
+the load voltage is 4 V 
+
+the load current is 4 mA 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    10.  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ Vd  =
+ 
+    0.7  
+ 
+ 
+ 
+ Vl  =
+ 
+    9.3  
+ 
+ 
+ Il  =
+ 
+    0.0093  
+ 
+ 
+ Pd  =
+ 
+    0.00651  
+ 
+ 
+the load voltage is 9.3 V 
+
+the load current is 9.3 mA 
+
+the diode power is 6.51 mW 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    36.  
+ 
+ R1  =
+ 
+    6000.  
+ 
+ R2  =
+ 
+    3000.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ Vd  =
+ 
+    0.7  
+ 
+ 
+ 
+ Rth  =
+ 
+    2000.  
+ 
+ Vth  =
+ 
+    12.  
+ 
+ 
+ Il  =
+ 
+    0.0037667  
+ 
+ Vl  =
+ 
+    3.7666667  
+ 
+ 
+ Pd  =
+ 
+    0.0026367  
+ 
+ 
+the load voltage is 3.77 V 
+
+the load current is 3.77 mA 
+
+the diode power is 2.64 mW 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    10.  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ Vd  =
+ 
+    0.7  
+ 
+ Rb  =
+ 
+    0.23  
+ 
+ 
+ 
+ Vl  =
+ 
+    9.3  
+ Il  =
+ 
+    0.0093  
+ Pd  =
+ 
+    0.00651  
+the load voltage is 9.3 V
+the load current is 9.3 mA
+the diode power is 6.51 mW 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    10.  
+ 
+ Rl  =
+ 
+    10.  
+ 
+ Vd  =
+ 
+    0.7  
+ 
+ Rb  =
+ 
+    0.23  
+ 
+ 
+ 
+ Rt  =
+ 
+    10.23  
+ 
+ Vt  =
+ 
+    9.3  
+ 
+ 
+ Il  =
+ 
+    0.9090909  
+ 
+ Vl  =
+ 
+    9.0909091  
+ 
+ 
+the load voltage is 9.09 V 
+
+the load current is 0.909 A 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ epsilonr  =
+ 
+    4.2  
+ 
+ tandelta  =
+ 
+    0.001  
+ 
+ f  =
+ 
+    50.  
+ 
+ E  =
+ 
+    50000.  
+ 
+ 
+ 
+ 
+ H  =
+ 
+    0.0002917  
+ 
+ 
+The heat generated in specimen due to dielectric loss is 0.292 mW/cm^3. 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    1.  
+ 
+ dt  =
+ 
+    10.  
+ 
+ epsilon0  =
+ 
+    8.890D-12  
+ 
+ epsilonr  =
+ 
+    4.  
+ 
+ Vb  =
+ 
+    3.  
+ 
+ 
+ 
+ d2  =
+ 
+    9.  
+ 
+ epsilon1  =
+ 
+    3.556D-11  
+ 
+ V1  =
+ 
+    3.  
+ 
+ V  =
+ 
+    9.75  
+ 
+ 
+the voltage at which an internal discharge can occur is 9.75 kV. 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ epsilon0  =
+ 
+    8.842D-12  
+ 
+ 
+ epsilonr  =
+ 
+    2.3  
+ 
+ l  =
+ 
+    0.2  
+ 
+ C  =
+ 
+    1.000D-09  
+ 
+ V  =
+ 
+    15.  
+ 
+ Emax  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ logr2byr1  =
+ 
+    0.0255556  
+ 
+ r1  =
+ 
+    11.73913  
+ 
+ r2  =
+ 
+    12.042997  
+ 
+ 
+the value of inner diameter of electrodes in coaxial cylindrical capacitor is 11.74 cm 
+
+the value of outer diameter of electrodes in coaxial cylindrical capacitor is 12.04 cm 
+
+the thickness of the insulation is 0.30 cm 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    5.000D-08  
+ 
+ Vmax  =
+ 
+    125000.  
+ 
+ f  =
+ 
+    150.  
+ 
+ I  =
+ 
+    0.005  
+ 
+ nst  =
+ 
+    8.  
+ 
+ 
+ 
+ n  =
+ 
+    16.  
+ 
+ 
+ deltaV  =
+ 
+    90666.667  
+ 
+ perripple  =
+ 
+    4.5333333  
+ 
+ deltaVn  =
+ 
+    248000.  
+ 
+ reg  =
+ 
+    0.124  
+ 
+ nopt  =
+ 
+    14.  
+ 
+ 
+the value of percentage ripple is 4.53 percentage. 
+
+the value of the regulation is 12.4 percentage. 
+
+the optimum number of stages for minimum regulation is 14. 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kva  =
+ 
+    100000.  
+ 
+ V  =
+ 
+    250000.  
+ 
+ Vi  =
+ 
+    400.  
+ 
+ Vc  =
+ 
+    500000.  
+ 
+ Ic  =
+ 
+    0.4  
+ 
+ perX  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ perR1  =
+ 
+    2.  
+ 
+ perR2  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ I  =
+ 
+    0.4  
+ 
+ Xc  =
+ 
+    1250000.  
+ 
+ Xl  =
+ 
+    50000.  
+ 
+ adrec  =
+ 
+    1200000.  
+ 
+ Xadrec  =
+ 
+    3819.7186  
+ 
+ perR  =
+ 
+    4.  
+ 
+ R  =
+ 
+    25000.  
+ 
+ VE2  =
+ 
+    10000.  
+ 
+ VE1  =
+ 
+    16.  
+ 
+ IkW  =
+ 
+    4.  
+ 
+ 
+The value of series inductance is 3820 H. 
+
+The value of input voltage to the transformer is 16 V. 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ C  =
+ 
+    0.0000002  
+ 
+ Cl  =
+ 
+    1.000D-09  
+ 
+ t1  =
+ 
+    0.0000012  
+ 
+ t2  =
+ 
+    0.00005  
+ 
+ Vc  =
+ 
+    120000.  
+ 
+ 
+ 
+ C1  =
+ 
+    2.000D-08  
+ 
+ C2  =
+ 
+    1.000D-09  
+ 
+ R1  =
+ 
+    420.  
+ 
+ R2  =
+ 
+    2981.3605  
+ 
+ V  =
+ 
+    960000.  
+ 
+ alpha  =
+ 
+    2380952.4  
+ 
+ betaa  =
+ 
+    16770.867  
+ 
+ Vmax  =
+ 
+  - 892020.94  
+ 
+ 
+The value of series resistance is 420 ohm 
+
+The value of damping resistance is 2981 ohm 
+
+The value of maximum output voltage of the generator is 892.02 kV 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ alpha  =
+ 
+    53500.  
+ 
+ LC  =
+ 
+    65.  
+ 
+ C  =
+ 
+    8.  
+ 
+ Ip  =
+ 
+    10.  
+ 
+ t1  =
+ 
+    8.  
+ 
+ 
+ 
+ L  =
+ 
+    8.125  
+ 
+ Rd  =
+ 
+    0.869375  
+ 
+ V  =
+ 
+    17.5  
+ 
+ 
+The value of circuit inductance is 8.125 microhenry 
+
+The value of dynamic resistance is 0.8694 ohm 
+
+The value of charging voltage is 17.5 kV 
+ 
+ 
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    12.  
+ 
+ C  =
+ 
+    0.0000001  
+ 
+ R1  =
+ 
+    800.  
+ 
+ R2  =
+ 
+    5000.  
+ 
+ C2  =
+ 
+    1.000D-09  
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    1.050D-08  
+ 
+ t1  =
+ 
+    0.0000022  
+ 
+ t2  =
+ 
+    0.0000467  
+ 
+ 
+The time to front is 2.19 microsecond 
+
+The time to tail is 46.7 microsecond 
+ 

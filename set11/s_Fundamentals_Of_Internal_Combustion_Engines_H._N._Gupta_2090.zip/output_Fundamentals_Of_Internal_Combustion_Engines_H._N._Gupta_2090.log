@@ -1,0 +1,3040 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 84
+
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.10/Chapter2_example10.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ p2  =
+ 
+    4.  
+ 
+ p3  =
+ 
+    16.  
+ 
+ Cv  =
+ 
+    0.573  
+ 
+ Cp  =
+ 
+    0.761  
+ 
+ 
+ 
+ g  =
+ 
+    1.3280977  
+ 
+ T2  =
+ 
+    422.52867  
+ 
+ T3  =
+ 
+    1690.1147  
+ 
+ T4  =
+ 
+    852.01319  
+ 
+ Q1  =
+ 
+    726.32678  
+ 
+ Q2  =
+ 
+    420.08204  
+ 
+ W  =
+ 
+    306.24474  
+ 
+ n  =
+ 
+    42.163493  
+ 
+ r  =
+ 
+    2.840044  
+ 
+ R  =
+ 
+    0.188  
+ 
+ Vs  =
+ 
+    0.3654115  
+ 
+ pm  =
+ 
+    8.3808177  
+ 
+ 
+ 
+(a) The work done per kg of gas is 306.2 kJ/kg 
+ (b) The efficiency of the cycle is 42.2 percent 
+ (c) Mean effective pressure is 8.38 bar 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.1/Chapter2_example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temperature at point 2 = 614.4 K 
+ Pressure at point 2 = 12.291 bar 
+ Pressure at point 3 = 33.47 bar 
+ Temperature at point 4 = 817 K 
+ Pressure at point 4 = 2.723 bar 
+ Air standard efficiency of otto cycle = 51.1692 percent 
+ Work done = 4.26 kJ 
+ Mean effective pressure = 5.420 bar 
+ Power developed = 35.5 kW  
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.2/Chapter2_example2.sce #
+ 
+ 
+ 
+ 
+ pa  =
+ 
+    5.  
+ 
+ 
+ pb  =
+ 
+    75.  
+ 
+ 
+ 
+ g1  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    9.5118096  
+ 
+ n1  =
+ 
+    59.384225  
+ 
+ nthj  =
+ 
+    0.3563054  
+ 
+ x  =
+ 
+    0.2405641  
+ 
+ 
+ 
+The compression ratio of the engine is 9.5 
+ The specific fuel consumption is 0.241 kg/kW.h 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.4/Chapter2_example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Volume at point 2 = 0.000628 m^3 
+ Volume at point 1 = 0.010051 m^3 
+ Pressure at point 2 = 48.5 bar 
+ Temperature at point 2 = 909.4 K 
+ Temperature at point 3 = 2001 K 
+ Pressure at point 4 = 3.016 bar 
+ Temperature at point 4 = 904.7 K 
+ Volume at point 4 = 0.010051 m^3 
+ (b) cut off ratio = 2.20 
+ (c) Work done per cycle = 7.735 kJ 
+ (d) air standard efficiency = 60.41 percent 
+ (e)Mean effective pressure = 8.21 bar  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.5/Chapter2_example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The cut off ratio = 2.2 
+  The air standard efficiency = 55.47 percent  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.6/Chapter2_example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The ideal efficiency of the engine based on the air standard cycle = 58.9 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.7/Chapter2_example7.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ p2  =
+ 
+    32.425  
+ 
+ r  =
+ 
+    6.  
+ 
+ r1  =
+ 
+    1.4  
+ 
+ 
+ 
+ rc  =
+ 
+    12.000518  
+ 
+ b  =
+ 
+    2.0000863  
+ 
+ n  =
+ 
+    56.670879  
+ 
+ pm  =
+ 
+    5.8469897  
+ 
+ 
+ 
+Air-standard efficiency is 56.67 percent 
+ Mean effective pressure is 5.847 bar 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.8/Chapter2_example8.sce #
+ 
+ 
+ 
+ rc  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ pm  =
+ 
+    60.  
+ 
+ h  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T2  =
+ 
+    886.25308  
+ 
+ p2  =
+ 
+    44.312654  
+ 
+ T3  =
+ 
+    1200.  
+ 
+ T4  =
+ 
+    1312.0748  
+ 
+ b  =
+ 
+    1.0933956  
+ 
+ T5  =
+ 
+    460.29156  
+ 
+ p5  =
+ 
+    1.5343052  
+ 
+ Q1  =
+ 
+    337.90543  
+ 
+ Q2  =
+ 
+    115.08934  
+ 
+ W  =
+ 
+    222.81609  
+ 
+ n  =
+ 
+    65.940369  
+ 
+ Vs  =
+ 
+    0.8036  
+ 
+ pmean  =
+ 
+    2.7727238  
+ 
+ 
+ 
+(a) The pressures and temperatures at the cardinal points of the cycle are 
+ T2 = 886 K  p2 = 44.3 bar 
+ T3 = 1200 K  p3 =  60 bar 
+ T4 = 1312 K  p4 =  60 bar 
+ T5 = 460 K  p5 = 1.53 bar 
+ (b) The cycle efficiency is  66 percent 
+ (c) The mean effective pressure of the cycle is 2.77 bar 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH2/EX2.9/Chapter2_example9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)The temperature at cardinal points ,
+     T2 = 799 K
+     T3 = 1456 K 
+     T4 = 2352 K 
+     T5 = 1166 K 
+ (b) The cycle efficiency = 56.9 percent 
+ (c) The mean effective pressure of the cycle = 9.638 bar  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.10/Chapter3_Example10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The enthalpy of combustion is  -280.439 MJ/kmol CO  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.11/Chapter3_Example11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The amount of heat transfer per kg of fuel is   32 MJ/kg 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.12/Chapter3_Example12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)The water as liquid , 
+    The standard enthalpy of combustion is  -890.25 MJ/kmol 
+    The standard internal energy of combustion is  -885.29 MJ/kmol 
+ (b)The water as a gas , 
+    The standard enthalpy of combustion is  -802.29 MJ/kmol 
+    The standard internal energy of combustion is  -802.29 MJ/kmol  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.13/Chapter3_Example13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The higher calorific value at constant pressure = 47516 kJ/kg fuel 
+ The higher calorific value at constant volume = 47417 kJ/kg fuel 
+ The lower calorific value at constant volume = 43901 kJ/kg fuel 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.14/Chapter3_Example14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The adiabatic flame temperature for steady-flow process is  1510.4 K 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.15/Chapter3_Example15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The adiabatic flame temperature at  
+    (a)Constant pressure process is 2550 K 
+    (b)Constant volume process is 3089.3 K 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.16/Chapter3_Example16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The adiabatic flame temperature having 
+    (a)50 percent excess air is 2027.6 K 
+    (b)20 percent less air is 2311.2 K 
+ The loss of thermal energy due to incomplete combustion is 226.4 MJ/kmol fuel 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.18/Chapter3_Example18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The percent dissociation of carbondioxide into carbonmonoxide and oxygen at 
+    (a) at 3000 K and 1 atm pressure = 44.3 percent 
+    (b) at 4000 K and 1 atm pressure = 89.84 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.19/Chapter3_Example19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mole fraction of the carbondioxide is 0.8599 
+ Mole fraction of the carbonmonoxide is 0.0934 
+ Mole fraction of oxygen is 0.0467 
+ Pressure of the product is 5.594 bar 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.1/Chapter3_Example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) The volume of air supplied per kmole of fuel = 213.7 m^3/kmole fuel 
+ (b) The molecular weight of the reactants = 29.17 
+ The molecular weight of the products = 27.72 
+ (c) The dew point of the products =  60 degree centigrade  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.20/Chapter3_Example20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The adiabatic flame temperature taking dissociation into account is 2436 K 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.2/Chapter3_Example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)The air/fuel ratio =15.93 
+ (b)The mass of the exhaust gases in the ance space =0.0001142 kg  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.3/Chapter3_Example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)Stoichiometric air/fuel ratio = 11.64 
+ (b)The percentage of dry products of combustion by weight : 
+   CO2 = 20.89 percent 
+   N2 = 74.68 percent 
+   O2 = 4.44 percent 
+ (c)The percentage of dry products of combustion by volume : 
+   CO2 = 14.47 percent 
+   N2 = 81.30 percent 
+   O2= 4.23 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.4/Chapter3_Example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)The air/fuel ratio = 17.54 
+ (b)The percent theoretical air = 120.3 percent 
+ (c)The percentage composition of fuel on a mass basis : 
+   C = 86.3 percent 
+   H = 13.7 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.5/Chapter3_Example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The percentage analysis of dry exhaust gas by volume : 
+    CO = 10.88 percent 
+    CO2 = 7.38 percent 
+    N2 = 81.74 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.6/Chapter3_Example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The heat transfer per mole of fuel = -2219.91 kJ/mol fuel 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.7/Chapter3_Example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The work for a fuel rate of 1 kmol/h is 1606.2 kW 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.8/Chapter3_Example8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The fuel consumption for complete combustion is 74.31 kg/h 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH3/EX3.9/Chapter3_Example9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat transfer per mole of propane = 2026.6 kJ/mol propane 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.10/Chapter4_Example10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)At the end of the compression stroke, 
+  The temperature is 645 K 
+ The pressure is  15 atm 
+ The volume per unit mass of air is 0.125 m^3/kg air 
+ The pressure is  15 atm 
+ (b)The work input during compression is 275 kJ/kg air  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.11/Chapter4_Example11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)At the end of expansion stroke, 
+ The pressure is 4.25 bar 
+ The temperature is 1280 K 
+ The volume is 1.0 m^3/kg air 
+ (b)The work during the expansion stroke is 1180 kJ/kg air  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.13/Chapter4_Example13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)For constant volume adiabatic combustion,
+ The temperature is 2820 K 
+ The pressure is 6500 kN/m^2 
+ (b)For constant pressure adiabatic combustion, 
+ The temperature is 2420 K 
+ The pressure is 1560 kN/m^2 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.14/Chapter4_Example14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)At point 2, 
+ The temperature is 682 K 
+ The pressure is 15.6 atm 
+ At point 3, 
+ The temperature is 2825 K 
+ The pressure is 7100 kN/m^2 
+ At point 4, 
+ The temperature is 1840 K 
+ The pressure is 570 kN/m^2 
+ (b)The indicated thermal efficiency is 45.7 percent 
+ (c)The indicated mean effective pressure is  14 bar 
+ (d)The volumetric efficiency is 88.8 percent 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.1/Chapter4_Example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The efficiency decreases by 0.885 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.2/Chapter4_Example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The efficiency decreases by 1.060 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.3/Chapter4_Example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The Maximum temperature in the cylinder T3 = 3541 K 
+ The Maximum pressure in the cylinder P3 =  85 bar 
+ (b)With constant value of Cv 
+ The Maximum temperature in the cylinder T3 = 4483 K 
+ The Maximum pressure in the cylinder P3 = 107.7 bar  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.4/Chapter4_Example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    1400.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The percentage of stroke at which combustion is complete = 6.706 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.5/Chapter4_Example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    613.98  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    498.533  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The pressure and temperature at all points of the cycle 
+ at point 2 , Temperature T2 = 1007 K    and Pressure P2 = 43.18 bar 
+ at point 3 , Temperature T3 = 1632 K    and Pressure P3 =  70 bar 
+ at point 4 , Temperature T4 = 3101 K    and Pressure P4 =  70 bar 
+ at point 5 ,Temperature T5 = 1698 K    and Pressure P5 = 4.55 bar  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.6/Chapter4_Example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The percentage molecular expansion is   6 percent 
+ (a) Without considering the molecular expansion 
+ The maximum temperature is 4495 K 
+ The maximum pressure is 108 bar 
+ (b) With molecular expansion 
+ The maximum temperature is 4495 K 
+ The maximum pressure is 114.4 bar  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.7/Chapter4_Example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fresh air = 0.97 kg 
+ Fresh fuel = 0.077115 kg 
+ Air in residual = 0.03 kg 
+ Fuel in residual = 0.002385 kg  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.8/Chapter4_Example8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total sensible enthalpy of reactants = 615.3 kJ/kg air 
+ Sensible internal energy of reactants = 468.7 kJ/kg air  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH4/EX4.9/Chapter4_Example9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The isentropic compression functions at 500 K for the unburned, 
+ isooctsne-air mixture are 587.4 J/kg air and 413.9 J/kg air  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.1/Chapter9_example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The throat diameter of the choke = 3.25 cm 
+ The oriface diameter = 2.2 mm  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.2/Chapter9_example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diameter of the choke = 22.89 mm 
+ The diameter of the jet in = 1.26 mm  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.3/Chapter9_example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The fuel flow rate = 0.003791 kg/s 
+ The velocity of air at throat = 102.5 m/s 
+ The throat diameter = 2.47 cm  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.4/Chapter9_example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The depression of the throat = 0.05409 bar 
+ The diameter of the fuel jet of a simple carburettor = 1.95 mm  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.5/Chapter9_example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The critical air velocity = 4.851 m/s 
+ The depression at the throat in mm of H2O = 351.69 mm of H2O 
+ The effective throat diameter  21.12 mm  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.6/Chapter9_example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) The air fuel ratio when the nozzle lip is neglected = 15.75 
+ (b)The air fuel ratio when the nozzle lip is considered = 15.78 
+ (c) The critical air velocity or minimum velocity required to start the fuel flow =   7 m/s  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.7/Chapter9_example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The air fuel ratio at altitude = 12.11  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.8/Chapter9_example8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) The throat pressure when the air cleaner is fitted = 0.775 bar 
+ (b) The air fuel ratio with the air cleaner fitted = 12.89  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH9/EX9.9/Chapter9_example9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The venturi throat diameter of the carburator = 2.63 cm  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH10/EX10.1/Chapter10_example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The nozzle area required per injection = 1.067 mm^2 
+ The diameter of the orifice = 0.58 mm  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH10/EX10.2/Chapter10_example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The velocity of injection of the fuel = 157.8 m/s 
+ The diameter of the fuel orifice = 0.755 mm  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH10/EX10.3/Chapter10_example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The discharge of fuel through the injector = 79.5 cm^2/s 
+ The jet velocity through the orifice = 158.2 m/s  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH10/EX10.4/Chapter10_example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The time required for the spray to penetrate = 8.75 ms 
+ (b) The spray penetration of the orifice =  10 cm 
+ The time required for the spray to penetrate =   6 ms  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH10/EX10.5/Chapter10_example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The total displacement of the plunger = 0.291 cc 
+ (b) The effective stroke of the plunger = 0.659 cm 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH10/EX10.6/Chapter10_example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The displacement volume of one plunger per cycle = 0.2774 cc 
+ Total power lost for pumping the fuel = 0.413 kW 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH10/EX10.7/Chapter10_example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)The velocity of the pressure disturbance = 1440 m/s 
+ (b) The time taken by the disturbance to travel through the pipe line = 0.0004 s 
+ (c) The velocity at the pump end of the pipe line as the plunger moves =   6 m/s 
+ The pressure at the pump end of the pipe line as the plunger moves =  101.9 bar 
+ (d) The magnitude of the first reflected pressure = 26.80 bar 
+ The magnitude of the first reflected velocity wave = 2.16 m/s 
+ (e)The pressure at the oriface end of the pipe line after the first reflection = 128.7 bar 
+ The velocity at the oriface end of the pipe line after the first reflection = 3.83 m/s  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH11/EX11.1/Chapter11_example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The percentage change in the scavenging ratio = 66.1 percent  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH11/EX11.2/Chapter11_example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The scavenging ratio = 0.929 
+ (b) The scavenging efficiency = 60.5 percent 
+ (c) The trapping efficiency = 65.1 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH11/EX11.3/Chapter11_example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The diameter of the bore = 8.83 cm 
+ The length of the stroke =   9 cm 
+ The brake power = 10.58 kW 
+ The brake thermal efficiency = 13.3 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH11/EX11.4/Chapter11_example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The scavenging ratio = 1.172 
+ The scavenging efficiency = 69.03 percent 
+ The trapping efficiency = 58.89 percent  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH11/EX11.5/Chapter11_example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The scavenging efficiency = 57.5 percent 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH11/EX11.6/Chapter11_example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The flow coefficient = 0.0288 
+ The compressor mean effective pressure = 0.4 bar  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH13/EX13.1/Chapter13_example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The friction force on the piston = 192 N 
+  The thrust force on the cylinder wall = 1916 N 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH13/EX13.2/Chapter13_example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The force in the connecting rod = 16.203 kN 
+ The side thrust on the piston = 4.051 kN 
+ (b) The side thrust on the piston = 3.765 kN  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH15/EX15.1/Chapter15_example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The volumetric efficiency of supercharged engine = 134 percent 
+ The increase in brake power by supercharging = 15.09 kW 
+ The percentage increase in brake power = 42.3 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH15/EX15.2/Chapter15_example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The engine capacity Vd = 0.0245 m^3 
+ The bmep of the unsupercharged engine = 7.483 bar 
+ (b) Increase in air pressure required in the supercharged = 0.442 bar  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH15/EX15.3/Chapter15_example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum hours required for supply of sufficient fuel = 6.823 hr  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH15/EX15.4/Chapter15_example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The imep of the supercharged engine = 4.706 bar 
+ (b) The rate of air consumed by the engine = 551.4 kg/h 
+ (c) The rate of air flow available to the consumer = 1033.0 kg/h  
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH15/EX15.5/Chapter15_example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The rate of heat rejected from the after cooler = 5.141 kJ/s 
+ (b) The power absorbed by the supercharger from the engine = 18.83 kW  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH15/EX15.6/Chapter15_example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The temperature of the air leaving the compressor =  86 degree centigrade 
+ (b) The temperature of gases leaving the turbine = 502 degree centigrade 
+ (c) The mechanical power used to run the turbocharger, when expressed as a percentage of power generated in the turbine = 76.5 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH15/EX15.7/Chapter15_example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The power required by the compressor for carburettor placed before the supercharger = 26.74 kW/kg of air per second 
+ (b) The power required by the compressor for carburettor placed after the supercharger = 29.89 kW/kg of air per second 
+ Percentage of turbine power used to run the compressor = 10.6 percent  
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.10/Chapter16_example10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------
+           Heatinput        kJ/min        percent     Heat expenditure          kJ/min       percent  
+       ----------------------------------------------------------------------------------------- 
+                    Heat                                                                                        
+                   supplied      1571       100        (a) Heat in bp                 369.8       23.5   
+                                                     (b) Heat loss to cooling water  334.4       21.3   
+                                                     (c) Heat to exhaust gas         565.5       36.0   
+                                                       (d) Unaccounted heat           300.9      19.2 
+        -----------------------------------------------------------------------------------------        
+ The mechanical efficiency = 81.65 percent 
+ The Indicated thermal efficiency = 28.8 percent  
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.11/Chapter16_example11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+----------------------------------------------------------------------------------------------------
+       Heat input      kJ/min     percent         Heat expenditure              kJ/min        percent    
+      ---------------------------------------------------------------------------------------------------
+  Heat supplied by fuel  7000      100      (a) Heat in bp                   1800            25.71     
+                                             (b) Heat loss to cooling water   2257             32.25    
+                                             (c) Heat to exhaust gases        1809            25.84     
+                                              (d)Unaccounted heat loss         1134            16.20    
+        total              7000    100                 total                   7000           100   
+ ---------------------------------------------------------------------------------------------------  
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.12/Chapter16_example12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------------------------------------------------------------
+      Heat input            kJ/min       percent          Heat expenditure         kJ/min      percent   
+  -------------------------------------------------------------------------------------------------------
+  Heat supplied by fuel     10560         100      (a) Heat in bp                   2836         26.86  
+                                                   (b) Heat lost to cooling water    3260        30.87  
+                                                   (c) Heat to dry exhaust           1518        14.37  
+                                                   (d) Heat lost in steam            1106        10.47  
+                                                   (e) Unaccounted heat loss         1839        17.42  
+         total              10560          100                    Total              10560          100   
+ --------------------------------------------------------------------------------------------------------
+ 
+ The indicated mean effective pressure = 10.61 bar 
+ The indicated thermal efficiency = 32.5 percent 
+ The brake specific fuel comsumption = 0.3046 kg/kWh 
+ The volumetric efficiency = 92.7 percent  
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.1/Chapter16_example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)The cylinder bore and The stroke length (d = L) = 8.6 cm 
+ (b) The average piston speed = 8.6 m/s 
+ (c) The ence volume of one cylinder = 62.5 cm^3 
+ (d) The piston speed at the end of combustion = 5.71 m/s 
+ (e) The distance the piston travels from TDC at the end of combustion = 0.32 cm 
+ (f) Instantaneous volume = 81.2 cm^3  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.2/Chapter16_example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The full load break power = 17.31 kW 
+ The mechanical efficiency of the engine = 86.8 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.3/Chapter16_example3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The brake mean effective pressure = 5.93 bar 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.4/Chapter16_example4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The brake power = 17.59 kW 
+ The brake mean effective pressure = 7.32 bar 
+ The brake thermal efficiency =  28 percent 
+ The brake specific fuel consumption = 0.293 kg/kWh 
+ The indicated power = 20.67 kW 
+ The mechanical efficiency = 85.1 percent 
+ The indicated mean effective pressure = 8.6 bar  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.5/Chapter16_example5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The brake power = 7.33 kW 
+ (b) The indicated power = 8.834 kW 
+ (c) The mechanical efficiency =  83 percent 
+ (d) The brake thermal efficiency = 22.06 percent 
+ (e) The indicated thermal efficiency = 26.6 percent 
+ (f) The brake specific fuel consumption = 0.389 kg/kWh  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.6/Chapter16_example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The brake power = 101.7 kW 
+ The brake mean effective pressure = 6.744 bar 
+ The brake specific fuel consumption = 0.261 kg/kWh 
+ The brake specific air consumption = 3.54 kg/kWh 
+ The air fuel ratio = 13.57 
+ The brake thermal efficiency = 31.4 percent 
+ The volumetric efficiency = 57.1 percent 
+ The relative efficiency = 54.1 percent  
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.7/Chapter16_example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The volumetric efficiency = 70.4 percent 
+ The brake mean effective pressure = 6.25 bar 
+ The brake power = 67.5 kW 
+ The Torque = 257.9 Nm 
+ The brake specific fuel consumption = 0.231 kg/kWh 
+ The percentage of excess air = 31.8 percent  
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.8/Chapter16_example8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The indicated power = 14.13 kW 
+ The thermal efficiency = 27.9 percent 
+ The relative efficiency = 56.5 percent  
+ 
+grepthis#Fundamentals_Of_Internal_Combustion_Engines_H._N._Gupta_2090/CH16/EX16.9/Chapter16_example9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The volumetric composition of dry exhaust gas : 
+   1) CO2 = 0.07167 kmol   and   volume = 7.03 percent 
+   2) O2 = 0.11683 kmol   and   volume = 11.46 percent 
+   3) N2 = 0.83138 kmol   and   volume = 81.52 percent 
+ The bore of the engine = 149 mm 
+ The stroke of the engine = 178.8 mm  
+ 
+ 

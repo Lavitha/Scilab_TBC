@@ -1,0 +1,21 @@
+ERROR: Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/CH12/EX12.2/Ex12_2.sce
+ 
+ 
+ 
+ 
+Na2O=c*Na+O
+       !--error 4 
+Undefined variable: c
+at line       5 of exec file called by :    
+kelford_3557/CH12/EX12.2/Ex12_2.sce',-1
+ 
+ERROR: Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/CH14/EX14.4/Ex14_4.sce
+ 
+ 
+ 
+d=a0-a
+       !--error 4 
+Undefined variable: a
+at line       4 of exec file called by :    
+kelford_3557/CH14/EX14.4/Ex14_4.sce',-1
+ 

@@ -1,0 +1,447 @@
+ERROR: Digital_Signal_Processing_R._Babu_52/CH1/EX1.3.a/Example1_3_a.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+abu_52/CH1/EX1.3.a/Example1_3_a.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH1/EX1.3.b/Example1_3_b.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+abu_52/CH1/EX1.3.b/Example1_3_b.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH1/EX1.4.a/Example1_4_a.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n N;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+abu_52/CH1/EX1.4.a/Example1_4_a.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH1/EX1.4.d/Example1_4_d.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n N;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+abu_52/CH1/EX1.4.d/Example1_4_d.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH1/EX1.11/Example1_11.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Babu_52/CH1/EX1.11/Example1_11.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH1/EX1.61/Example1_61.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Babu_52/CH1/EX1.61/Example1_61.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH1/EX1.62/Example1_62.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms w n;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Babu_52/CH1/EX1.62/Example1_62.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.4/Example2_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms a n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+R._Babu_52/CH2/EX2.4/Example2_4.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.5/Example2_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms b n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+R._Babu_52/CH2/EX2.5/Example2_5.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.6/Example2_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+R._Babu_52/CH2/EX2.6/Example2_6.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.7/Example2_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+R._Babu_52/CH2/EX2.7/Example2_7.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.8.a/Example2_8_a.sce
+ 
+ 
+ 
+ 
+syms Wo n z;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+abu_52/CH2/EX2.8.a/Example2_8_a.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.9/Example2_9.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+R._Babu_52/CH2/EX2.9/Example2_9.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.10/Example2_10.sce
+ 
+ 
+ 
+ 
+syms r Wo n z;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+_Babu_52/CH2/EX2.10/Example2_10.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.11/Example2_11.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms a n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+_Babu_52/CH2/EX2.11/Example2_11.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.13.a/Example2_13_a.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+u_52/CH2/EX2.13.a/Example2_13_a.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.13.b/Example2_13_b.sce
+ 
+ 
+ 
+ 
+syms n z k;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH2/EX2.13.b/Example2_13_b.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.13.c/Example2_13_c.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+u_52/CH2/EX2.13.c/Example2_13_c.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.13.d/Example2_13_d.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+u_52/CH2/EX2.13.d/Example2_13_d.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.41.a/Example2_41_a.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms a n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+u_52/CH2/EX2.41.a/Example2_41_a.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.41.b/Example2_41_b.sce
+ 
+ 
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       7 of exec file called by :    
+u_52/CH2/EX2.41.b/Example2_41_b.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.41.c/Example2_41_c.sce
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH2/EX2.41.c/Example2_41_c.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.53.b/Example2_53_b.sce
+ 
+ 
+ 
+ 
+syms n z;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH2/EX2.53.b/Example2_53_b.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.53.c/Example2_53_c.sce
+ 
+ 
+ 
+ 
+syms n z k;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH2/EX2.53.c/Example2_53_c.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.53.d/Example2_53_d.sce
+ 
+ 
+ 
+ 
+syms n z kc;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH2/EX2.53.d/Example2_53_d.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH2/EX2.54/Example2_54.sce
+ 
+ 
+ 
+ 
+syms Wo n z;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+_Babu_52/CH2/EX2.54/Example2_54.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH3/EX3.23.a/Example3_23_a.sce
+ 
+ 
+ 
+ 
+syms n k N;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH3/EX3.23.a/Example3_23_a.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH3/EX3.23.b/Example3_23_b.sce
+ 
+ 
+ 
+ 
+syms n k N no;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH3/EX3.23.b/Example3_23_b.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH3/EX3.23.c/Example3_23_c.sce
+ 
+ 
+ 
+ 
+syms a n k N;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH3/EX3.23.c/Example3_23_c.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH3/EX3.23.d/Example3_23_d.sce
+ 
+ 
+ 
+ 
+syms n k N;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH3/EX3.23.d/Example3_23_d.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH3/EX3.23.e/Example3_23_e.sce
+ 
+ 
+ 
+ 
+syms n k N ko;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH3/EX3.23.e/Example3_23_e.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH3/EX3.23.f/Example3_23_f.sce
+ 
+ 
+ 
+ 
+syms n k N ;
+  !--error 4 
+Undefined variable: syms
+at line       5 of exec file called by :    
+u_52/CH3/EX3.23.f/Example3_23_f.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH5/EX5.12/Example5_12.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pp=ilaplace(HS);
+                !--error 4 
+Undefined variable: ilaplace
+at line       9 of exec file called by :    
+_Babu_52/CH5/EX5.12/Example5_12.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH5/EX5.13/Example5_13.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pp=ilaplace(HS);//Inverse Laplace
+                !--error 4 
+Undefined variable: ilaplace
+at line       9 of exec file called by :    
+_Babu_52/CH5/EX5.13/Example5_13.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH6/EX6.1/Example6_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+syms w;
+  !--error 4 
+Undefined variable: syms
+at line       9 of exec file called by :    
+R._Babu_52/CH6/EX6.1/Example6_1.sce',-1
+ 
+ERROR: Digital_Signal_Processing_R._Babu_52/CH8/EX8.9/Example8_9.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+syms z a n;
+  !--error 4 
+Undefined variable: syms
+at line       8 of exec file called by :    
+R._Babu_52/CH8/EX8.9/Example8_9.sce',-1
+ 

@@ -1,0 +1,7067 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 130
+
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 2.1 : SOLUTION :-   
+ 
+
+ (a) Flux in the core, phi = 0.004488 mWb ,
+ 
+
+ (b) Flux Density in the core, B = 44.88 Wb/metre square  
+ 
+
+ (c) Magnetic Field Intensity in the core, H = 35.71 At/m  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 2.2 : SOLUTION :-   
+ 
+
+ (a)   The Total MMF , F = 45.4 At 
+  
+
+ (b)   Current flowing through the Coil , I = 0.454 A 
+ 
+
+ (c.1) Relatative permeability of the Material a, mue_r_a = 47746 
+  
+
+ (c.2) Relatative permeability of the Material b, mue_r_b = 6201 
+  
+
+ (c.3) Relatative permeability of the Material c, mue_r_c = 1768 
+  
+
+ (c.4) Relucatnce of the Material a, Ra= 5000 MKS unit 
+ 
+
+ (c.5) Relucatnce of the Material b, Rb= 25666.7 MKS unit 
+ 
+
+ (c.6) Relucatnce of the Material c, Rc= 45000 MKS unit 
+ 
+
+ (d)   Inductance of the Coil , L = 0.1322 H 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 2.3 : SOLUTION :-   
+ 
+
+ (a) Flux in the core , phi = 0.00065 Wb 
+  
+
+ (b) Flux density of material a,b,c , Ba = Bb = Bc 0.65 T 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.1 : SOLUTION :-   
+ 
+
+ (a.1) Voltage drop due to I1 , I1Z =  454.55+j454.55  V 
+  
+
+ (a.2) Voltage drop due to I2 , I2Z =  100+j100  V 
+ 
+
+ (b.1) Line loss for I1 , Loss1 = 41.32 kW 
+  
+
+ (b.2) Line loss for I2 , Loss2 =  2.00 kW 
+ 
+
+ (c.1) Input Voltages on Generator Terminal from a load terminal , Vg1 = 674.55+j454.55 = 813.40 V 
+  
+
+ (c.2) Input Voltages on Generator Terminal from a Generating Station , Vg2 =  1100+j100 = 1104.54 V 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) I1Z = (450.45)+j(450.45)V instead of (454.55)+j(454.55) V
+ 
+
+                                     (b) Vg1 = (670.45)+j(450.45) = 807.72 V  instead of  674.55+j454.55 = 813.40 V 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.2 : SOLUTION :-   
+ 
+
+ (a.1) Number of turns in Primary , N1 = 495.5 Turns nearly 496 Turns 
+  
+
+ (a.2) Number of turns in Secondary , N2 = 16.5 Turns nearly 16 Turns 
+ 
+
+ (b.1) Voltage per turns in Primary , vpn1 = 13.3 Volts/turns 
+  
+
+ (b.2) Voltage per turns in Secondary , vpn2 = 13.32 Volts/turns 
+  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.3 : SOLUTION :-   
+ 
+
+ (a) Maximum value of the Flux , phi_m =  0.0198198 Wb 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.4 : SOLUTION :-   
+ 
+
+ (a) Rated HV side Curent , Ihv = 6.82 A 
+  
+
+ (b) Rated LV side Curent , Ilv = 37.5 A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.5 : SOLUTION :-   
+ 
+
+ (a) Maximum Flux in the core , phi_m = 2.252252 mWb 
+  
+
+ (b) No load Current , I0 = 1.746 A 
+ 
+
+ (c) No load Power factor angle  =  80.523 degree 
+  
+
+ (d) No load Power factor =  0.1646 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.6 : SOLUTION :-   
+ 
+
+   (a)   Turn Ratio of the Transformer , a = 2 
+  
+
+ (b.1.1) Primary current at full load , I1 = 22.73 A 
+ 
+
+ (b.1.2) Secondary current at full load , I2 = 45.45 A 
+  
+
+ (b.2.1) Primary current at 4kW, 0.8 lagging pf load , I1 = 14.545 A 
+ 
+
+ (b.2.1) Secondary current at 4kW, 0.8 lagging pf load , I2 = 29.091 A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.7 : SOLUTION :-   
+ 
+
+ (a) Referred value of the 1 Ohm resistance from Primary side having 100 turns , R1 = 0.25 ohms 
+  
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) Referred value of the resistance from Primary side having 100 turns = 0.025 Ohms instead of 0.25 Ohms 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ip  =
+ 
+    9.0909091  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.8 : SOLUTION :-   
+ 
+
+ (a) Equlivalent Resistance as Referred to Primary Side, Rp =  15.45 ohms 
+ 
+
+ (b) Equlivalent Resistance as Referred to Secondary Side, Rs =  0.01717 ohms 
+ 
+
+ (c) Total Copper Loss, Cu_loss =  1276.86 W 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.9 : SOLUTION :-   
+ 
+
+ (a) Referred value of the resistance from Primary side having 440V , R2 = 625 Ohms 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.10 : SOLUTION :-   
+ 
+
+ (a) Primary current , I1 = 63.83 < -39.9 A 
+  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.11 : SOLUTION :-   
+ 
+
+  (a)  Core loss , Wc = 187.47 W 
+  
+
+ (b.1) No load power factor angle , theta_o =  82.80 Degree 
+ 
+
+ (b.2) No load power factor , cos(theta_o) =  0.125395 
+ 
+
+ (c.1) Curent through Core loss Component , Ic = 0.8151 A 
+  
+
+ (c.2) Core loss Resistance , Rc = 282.19 Ohms 
+  
+
+  (d)  Current through the Magnetizing Component Xm , Im =  6.45 A 
+ 
+
+  (e)  Percentage of the Exicting Current  =  2.99 Percent 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.12 : SOLUTION :-   
+ 
+
+ (a) Hysteresis loss at 50 Hertz , Ph = 151.874 W 
+  
+
+ (b) Eddy current loss at 50 Hertz , Pe =  77.96 W 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.13 : SOLUTION :-   
+ 
+
+ (a.1) Hysteresis loss at 50 Hertz , Ph = 30 W 
+  
+
+ (a.2) Eddy current loss at 50 Hertz , Pe = 25 W 
+ 
+
+ (b.1) Hysteresis loss at 40 Hertz , Ph = 24 W 
+  
+
+ (b.2) Eddy current loss at 40 Hertz , Pe = 16 W 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) Hysteresis loss at 40 Hertz , Ph = 25 W instead of 24 W 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.14 : SOLUTION :-   
+ 
+
+ (a.1) Efficiency at unity power factor and full load , eta = 97.75 Percent 
+  
+
+ (a.2) Efficiency at unity power factor and half load , eta=  97.28 Percent 
+ 
+
+ (b.1) Efficiency at 0.8 power factor lagging and full load  , eta = 97.21 Percent 
+  
+
+ (b.2) Efficiency at 0.8 power factor lagging and half load  , eta=  96.62 Percent 
+ 
+
+ (c.1) Efficiency at 0.8 power factor leading and full load  , eta = 97.21 Percent 
+  
+
+ (c.2) Efficiency at 0.8 power factor leading and half load  , eta=  96.62 Percent 
+ 
+
+  (d)  Maximum Efficiency at unity power factor and full load , eta = 97.85 Percent 
+  
+
+  (e)  Maximum Efficiency at 0.8 power factor lagging and full load , eta = 97.32 Percent 
+  
+
+  (f)  Maximum Efficiency at 0.8 power factor leading and full load , eta = 97.32 Percent 
+  
+
+  (g)  Output at which maximum efficiency occurs at unity power factor at full load = 10000 W 
+  
+
+  (h)  Output at which maximum efficiency occurs at 0.8 power factor lagging at full load = 8000 W 
+  
+
+  (i)  Output at which maximum efficiency occurs at 0.8 power factor leading at full load = 8000 W 
+  
+
+ IN THE ABOVE PROBLEM MAXIMUM EFFICIENCY AND THE OUTPUT AT WHICH THE MAXIMUM EFFICIENCY OCCURS IS NOT CALCULATED IN THE TEXT BOOK 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.16 : SOLUTION :-   
+ 
+
+ (a) pu Regulation at Unity Power factor , E = 1.4 
+  
+
+ (b) pu Regulation at 0.6 Power factor Lagging , E=  4.68 
+ 
+
+ (c) pu Regulation at 0.6 Power factor Leading , E= -3.00 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.17 : SOLUTION :-   
+ 
+
+ (a) Load power factor for minimum volatge of the secondary terminal , cos(theta) = 0.2727 lagging 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z1  =
+ 
+    0.005 + 0.08i  
+ 
+ Z2  =
+ 
+    0.0075 + 0.04i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.19 : SOLUTION :-   
+ 
+
+ (a) Load shared by Transformer-1 , S1 = 134.48+j(-10.99) kVA 
+  
+
+ (b )Load shared by Transformer-2 , S2 = 265.52+j10.99 kVA 
+  
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) S1 = (-131.90)+j(38.47)kVA instead of 134.48+j(-10.99) kVA 
+  
+
+                                     (b) S2 = (268.1)+j(.38047)kVA  instead of 265.52+j10.99 kVA 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.20/Ex3_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.20 : SOLUTION :-   
+ 
+
+ (a) LT ( Primary ) winding current in the 1st Transformer , It1 = 13.039+j(-5.4166) A 
+  
+
+ (b) LT ( Primary ) winding current in the 2nd Transformer , It2= -12.675+j3.44994 A 
+ 
+
+ (c) LT winding are connected in parallel, the current flowing on paralel connected LT winding, In1 = 0.364+j(-1.96666) A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.22/Ex3_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.22 : SOLUTION :-   
+ 
+
+ (a.1)  HV side Curent supplied by the common windings , IH = 50 A 
+  
+
+ (a.2)  LV side Curent supplied by the common windings , IL= 55 A 
+ 
+
+ (b.1)  KVA rating of LV SIDE as output Auto-Transformer , KVAL = 11 kVA 
+  
+
+ (b.2)  KVA rating of HV SIDE as output Auto-Transformer , KVAH= 11 kVA 
+ 
+
+  (c)   Voltage on the Secondary, if the Commom windings are open , V = 2000 V 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.23/Ex3_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.23 : SOLUTION :-   
+ 
+
+ (a.1) Line current in line A  , IA = 385<-30 A 
+  
+
+ (a.2) Line current in line B  , IB = 385<173.13 A 
+ 
+
+ (a.3) Line current in line C  , IC = 385<150 A 
+  
+
+ (b.1) Phase Voltage across line A and Neutral , VAN = 231<-30 V 
+ 
+
+ (b.2) Phase Voltage across line B and Neutral , VBN = 231<-150 V 
+  
+
+ (b.3) Phase Voltage across line C and Neutral , VCN = 231<90 V 
+ 
+
+  (c)   Neutral Potential , VN = 99.7<166.53 V 
+  
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) IC = 385<-90.1 V instead of 385<150 A 
+  
+
+                                     (b) VN = 230.5<78.17 V  instead of 99.7<166.53 V 
+  
+
+ From Calculation of the IC, rest all the Calculated values in the TEXT BOOK is WRONG because of the IC value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH3/EX3.24/Ex3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 3.24 : SOLUTION :-   
+ 
+
+ For STAR-STAR Connection 
+
+ (a.1) Secondary line voltage = 1100 V 
+  
+
+ (a.2) Secondary line current =  100 A 
+ 
+
+ (a.3) Primary phase current = 10 A 
+  
+
+ (a.4) Secondary phase current = 100 A 
+ 
+
+ (a.5) Output = 190.53 kVA 
+  
+
+ For STAR-DELTA Connection 
+
+  (b.1) Secondary line voltage =  635 V 
+ 
+
+ (b.2) Secondary line current = 173 A 
+  
+
+ (b.3) Primary phase current = 10 A 
+ 
+
+ (b.4) Secondary phase current = 100 A 
+  
+
+ (b.5) Output =  190.53 kVA 
+ 
+
+ For DELTA-DELTA Connection 
+
+ (c.1) Secondary line voltage = 1100 V 
+  
+
+ (c.2) Secondary line current = 100.00 A 
+ 
+
+ (c.3) Primary phase current = 5.77 A 
+  
+
+ (c.4) Secondary phase current = 57.7 A 
+ 
+
+ (c.5) Output = 190.5 kVA 
+  
+
+ For DELTA-STAR Connection 
+
+ (d.1) Secondary line voltage =  1905.26 V 
+ 
+
+ (d.2) Secondary line current = 57.7 A 
+  
+
+ (d.3) Primary phase current = 5.77 A 
+ 
+
+ (d.4) Secondary phase current  = 57.7 A 
+  
+
+ (d.5) Output =  190.5 kVA 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.1 : SOLUTION :-   
+ 
+
+ (a) Maximum EMF induced in the Conducter , E = 18.850 V 
+  
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a)Induced EMF, E = 2.826 V instead of 18.850 A 
+  
+
+ From Calculation of the peripheral velocity(v), rest all the Calculated values in the TEXT BOOK is WRONG because of the peripheral velocity(v) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.2 : SOLUTION :-   
+ 
+
+ (a) EMF induced , E = 791.7 A 
+  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.3 : SOLUTION :-   
+ 
+
+ (a) Number of the Conductor in Parallel Path , Zc = 116.67 Conductors nearly 117 conductors 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    21.6  
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.4 : SOLUTION :-   
+ 
+
+ (a) Torque produced in the Machine, T = 21.6 N-m 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.5 : SOLUTION :-   
+ 
+
+ (a) Useful flux per pole when Armature is Lap connected , phi = 0.1 Wb  
+  
+
+ (B) Useful flux per pole when Armature is Lap connected , phi = 0.055 Wb  
+  
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.6 : SOLUTION :-   
+ 
+
+ (a) Developed Torque in an Six-pole DC Motor , T = 79.6 N-m 
+  
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.7 : SOLUTION :-   
+ 
+
+ (a) Reactance voltage assuming Linear Commutation , Er = 0.7714 V 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+     WRONGLY PRINTED ANSWERS ARE :- (a) Tc = 0.014 s instead of 0.0023 s 
+ 
+
+                                    (b) Er = 1.2857 V instead of 0.7714 V
+ 
+
+ From Calculation of the Time of commutation (Tc), rest all the Calculated values in the TEXT BOOK is WRONG because of the Time of commutation (Tc) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.8 : SOLUTION :-   
+ 
+
+ (a) Time of the Commutation , Tc = 0.7162 ms 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.9 : SOLUTION :-   
+ 
+
+ For LAP winding 
+
+ (a.1) Amphere turns per pole, AT = 1562.5 AT 
+ 
+
+ (a.2) Demagnetizing Armature Amphere turns per pole, ATd = 277.8 AT 
+ 
+
+ (a.3) Cross-Magnetizing Armature Amphere turns per pole, ATc = 1284.7 AT 
+ 
+
+ (a.4) Amphere turns of Compensating winding, ATw = 1093.8 AT 
+ 
+
+ For WAVE winding 
+
+ (b.1) Amphere turns per pole, AT = 3125 AT 
+ 
+
+ (b.2) Demagnetizing Armature Amphere turns per pole, ATd = 555.56 AT 
+ 
+
+ (b.3) Cross-Magnetizing Armature Amphere turns per pole, ATc = 2569 AT 
+ 
+
+ (b.4) Amphere turns of Compensating winding, ATw = 2187.5 AT 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.10 : SOLUTION :-   
+ 
+
+ (a) Amphere turns for each Interpole, ATi = 3806.45 AT 
+ 
+
+ (b) Number of turns per pole of interpole, Nc = 16.75 turns per pole nearly 17 turns per pole 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 4.11 : 
+
+          Given Data between the Field current and Open-Circuit EMF generated by DC shunt wound Generator 
+ 
+
+ If(A)    0       1       2       3       4       5       6  
+ 
+
+ Voc(v)  10      90      170     217.5   251     272.5   281 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+        SOLUTION :-
+ 
+
+ (a) Crictical field Resistance, Rc = 90 Ohms 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 4.12 : 
+
+          Given Data between the Field current and Open-Circuit EMF generated by DC Machine 
+ 
+
+ If(A)   0      0.25      0.5      1.0      1.5      2.0      2.5     3.0 
+ 
+
+ Voc(v)  8       43        77      151      198      229      253     269
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+        SOLUTION :-
+ 
+
+  (a)  Crictical field Resistance, Rc = 151 Ohms 
+ 
+
+ (b.1) Terminal Voltage correspounding to field resistance of 100 Ohms is 253.33 V 
+  
+
+ (b.1) Terminal Voltage correspounding to field resistance of 125 Ohms is 213.33 V 
+  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.13/Ex4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.13 : SOLUTION :-   
+ 
+
+ (a) New load current at 1000 RPM , Ia2 = 83.19 A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.14 : SOLUTION :-   
+ 
+
+ (a) Armature Current immediately after flux changes, Ia = 31.7 A 
+ 
+
+ (b) Percenatge change in the speed of the machine (that is required to restore the original Armature current) is 3.45 Percenatge 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VI  =
+ 
+    800000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I1_b  =
+ 
+    564.40262  
+ 
+ I2_b  =
+ 
+    1053.8645  
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.15: SOLUTION :-   
+ 
+
+ For case (a) Having open-circuit EMfs of 500V but their voltage falls to 2 percent and 3 percent when fully loaded Load Voltage,
+
+      Load Voltage = 490.21 V 
+
+      Load current = 1631.96 A 
+
+      Individual currents are 979.18 A and 652.78 A 
+ 
+
+ For case (b) Having open-circuit EMfs of 500V and 505V but their governors have identical speed regulation of 2 percent when fully loaded Load Voltage,
+
+      Load Voltage = 494.36 V 
+
+      Load current = 1618.27 A 
+
+      Individual currents are 564.40 A and 1053.86 A 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- For case(b) Load voltage = 493.35 V A instead of 494.36 V 
+  
+
+                                                 Load current = 1634.73 A instead of 1618.27 A 
+  
+
+                                                 Individual currents 665 A and 1153.5 A instead of 564.40 A and 1053.86 
+  
+
+ For Case (b):- From Calculation of the Load Voltage (V), rest of all the Calculated values in the TEXT BOOK is WRONG because of the value Load Voltage (V) is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.16/Ex4_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.16 : SOLUTION :-   
+ 
+
+ (a) Graded Resistances are 0.3949 Ohms, 0.2294 Ohms, 0.1332 Ohms and 0.0774 Ohms 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.17/Ex4_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.17 : SOLUTION :-   
+ 
+
+ (a)Graded Resistances are 8.42 Ohms, 4.1662 Ohms, 2.0620 Ohms and 1.0205 Ohms 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.18/Ex4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.18: SOLUTION :-   
+ 
+
+ (a) The resistance steps in series motor stater are 0.098 Ohms,0.1625 Ohms, 0.268 Ohms and 0.44 Ohms 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.19/Ex4_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.19 : SOLUTION :-   
+ 
+
+ (a) Speed of the Motor, N = 918.11 RPM 
+ 
+
+ (b) Devolped Torque, T = 143.91 N-m 
+ 
+
+ (b) Power intake at Rated current and Firing angle of 30 deg, VI = 14688.2 W 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS IS :- (a) T = 114.07 N-m instead of 143.91 N-m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.20/Ex4_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.20 : SOLUTION :-   
+ 
+
+  (a)  Firing Angle at Rated speed and Rated Motor Current , alpa = 24.89 deg 
+ 
+
+ (b.1) No load speed at Firing Angle 0 deg, N = 1702.5 RPM 
+ 
+
+ (b.2) No load speed at Firing Angle 30 deg, N = 1475.1 RPM 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.21/Ex4_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.21 : SOLUTION :-   
+ 
+
+ (a) Range of the Speed is from 0 RPM to 1184.21 RPM and Range of the Duty Cycle is 0.1 to 1.0 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.22/Ex4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.22: SOLUTION :-   
+ 
+
+ (a) New Speed of the Motor , N2 = 901.45 RPM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.23/Ex4_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ out  =
+ 
+    7460.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.23 : SOLUTION :-   
+ 
+
+ (a) New speed of the motor, N2 = 1091.77 RPM nearly 1092 RPM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.24/Ex4_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.24 : SOLUTION :-   
+ 
+
+ (a) Resistance at Dynamic Braking, Rd = 5.37 Ohms 
+ 
+
+ (b) Resistance at Counter Current Braking, Rc = 11.2 Ohms 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.25/Ex4_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.25 : SOLUTION :-   
+ 
+
+ (a) Extra resistance should be added in the field circuit for raising the speed to 1000 RPM is = 63.12 Ohms 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) Ia2 = 39.29 A and 180.71 A instead of 194.26 A and 25.74 A 
+  
+
+                                     (b) Extra resistance required is 212.22 Ohms  instead of 63.12 Ohms 
+  
+
+ From Calculation of the New armature current (Ia2), rest all the Calculated values in the TEXT BOOK is WRONG because of the New armature current (Ia2) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.26/Ex4_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.26 : SOLUTION :-   
+ 
+
+ (a.1) Applied Voltage when magnetic circuit is Unsaturated,V2 = 306.24 V 
+ 
+
+ (a.2) Current in Motor when magnetic circuit is Unsaturated, I2 = 26.4 A 
+ 
+
+ (b.1) Applied Voltage when magnetic circuit is Saturated,V2 = 274.56 V 
+ 
+
+ (b.2) Current in Motor when magnetic circuit is Saturated, I2 = 31.68 A 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.27/Ex4_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.27 : SOLUTION :-   
+ 
+
+  (a)   New Rotation speed of the Motor at torque remains constant, N2 = 3349 RPM 
+ 
+
+ (b.1)  New Armature Current at torque remains constant, I2 = 34.64 A 
+ 
+
+ (b.2)  New Field Current at torque remains constant, If2 = 11.55 A 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.28/Ex4_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.28 : SOLUTION :-   
+ 
+
+  (a)  New Rotation speed of the Motor , N2 = 813 RPM 
+ 
+
+ (b.1) Developed Torque, T = 91.7 N-m A 
+ 
+
+ (b.2) Shaft torque, Ts = 81.54 N-m 
+ 
+
+  (c)  Efficiency in Percentage, eta = 69.40 percent  
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.29/Ex4_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.29 : SOLUTION :-   
+ 
+
+ (a) Motor Efficiency , eta = 88.17 Percentage 
+  
+
+ (b) Generator Efficiency , eta = 89.85 Percantage 
+  
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) Total Iron and Rotational Loss = 720 W instead of 883.2 W 
+  
+
+                                     (b) Pim = 15912 W instead of 16060 W 
+  
+
+                                     (c) Wm = 1371.4 Winstead of 1698.4 W 
+  
+
+                                     (d) Pom = 14540.6 W instead of 14361.6 W 
+  
+
+                                     (e) eta_m = 90.54 Percentage  instead of 88.17 Percentage 
+  
+
+                                     (f) eta_g = 93.22 Percentage  instead of 89.85 Percentage 
+  
+
+ From Calculation of the Total Iron and Rotational Loss in each Machine (Wc), rest all the Calculated values in the TEXT BOOK is WRONG because of the Total Iron and Rotational Loss in each Machine (Wc) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH4/EX4.30/Ex4_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 4.30 : SOLUTION :-   
+ 
+
+ (a) Motor Efficiency , eta_m = 76.16 percentage 
+  
+
+ (b) Generator Efficiency , eta_g = 81.16 Percentage 
+  
+
+ (c) Torque , T = 12.77 N-m 
+  
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) Generator input = 2307.5 W instead of 2372 W 
+  
+
+                                     (b) eta_g = 83.42 Percenatge  instead of 81.16 Percentage 
+  
+
+ From Calculation of the Generator input, rest all the Calculated values in the TEXT BOOK is WRONG because of the Generator input value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.1 : SOLUTION :-   
+ 
+
+ For case (a) Slot per poles per phase, spp = 5  
+  
+
+ For case (b) Slot per poles per phase, spp = 5  
+  
+
+ For case (c) Slot per poles per phase, spp = 2  
+  
+
+ For case (d) Slot per poles per phase, spp = 2  
+  
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.2 : SOLUTION :-   
+ 
+
+  For Case (a) Slot per poles per phase  , spp = 2.250 
+  
+
+               Phase allociation series is 2, 2, 2, 3, 2, 2, 2, 3, 2,slots are allocated respectively to R, Y, B, R, Y, B, R, Y, B....... phase in Sequence
+  
+
+               By seeing Sequence its Slot per pole per phase is an Integer and such, balanced winding may be possible 
+ 
+
+  For Case (b) Slot per poles per phase  , spp = 2.667 
+  
+
+               Phase allociation series is 2, 3, 3 
+ 
+
+               By seeing Sequence its Slot per pole per phase are not Integer therefore R-phase will have 8 slots whereas Y-phase and B-phase will have 12 slots 
+ 
+
+  For Case (c) Slot per poles per phase  , spp = 2.5 
+  
+
+               Phase allociation series is 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3 slots are allocated respectively to R, Y, B, R, Y, B, R, Y, B, R, Y, B....... phase in Sequence
+  
+
+               By seeing Sequence its Slot per pole per phase is an Integer and such, balanced winding may be possible 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kp5_b  =
+ 
+  - 0.8660254  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.3 : SOLUTION :-   
+ 
+
+ For Case (a) Short pitching by one Slots:- Pitch Facor , kp = 0.9659 
+  
+
+                                                          kp5 = 0.2588 
+  
+
+                                                          kp7 = -0.2588 
+  
+
+ For Case (a) Short pitching by Two Slots:- Pitch Facor , kp = 0.8660 
+  
+
+                                                          kp5 = -0.8660 
+  
+
+                                                          kp7 = -0.8660 
+  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.4 : SOLUTION :-   
+ 
+
+ (a) Distribution Factor, Ka = 0.2 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.7 : SOLUTION :-   
+ 
+
+ (a.1) Synchronous Speed of 5th order space harmonic, Ns5 = -600 RPM 
+ 
+
+ (a.2) Synchronous Speed of 5th order time harmonic, N5 = -15000 RPM 
+ 
+
+ (b.1) Synchronous Speed of 7th order space harmonic, Ns7 = 428.57 RPM 
+ 
+
+ (b.2) Synchronous Speed of 7th order time harmonic, N7 = 21000 RPM 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.8 : SOLUTION :-   
+ 
+
+ (a) Frequency of the Rotor Current, fr = 3.33 Hz 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.9 : SOLUTION :-   
+ 
+
+ (a) Slip, s = 6.67 percent 
+ 
+
+ (b) Frequency of the Rotor Current, fr = 3.33 Hz 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.10 : SOLUTION :-   
+ 
+
+ (a) Rotor Speed , Nr = 1455 RPM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.11 : SOLUTION :-   
+ 
+
+ (a) Speed of Forward Rotating magnetic fields with respect to stator and rotor is equal to + 30 RPM 
+ 
+
+ (b) Speed of Backward Rotating magnetic fields with respect to stator and rotor is equal to + 1970 RPM 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.12 : SOLUTION :-   
+ 
+
+ (a) Speed of Forward Rotating magnetic fields with respect to stator and rotor is equal to + 150 RPM 
+ 
+
+ (b) Speed of Backward Rotating magnetic fields with respect to stator and rotor is equal to + 5850 RPM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.13/Ex5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.13 : SOLUTION :-   
+ 
+
+ (a.1) Speed of Forward Rotating magnetic fields with respect to rotor surface is equal to + 75 RPM 
+ 
+
+ (a.2) Speed of Backward Rotating magnetic fields with respect to rotor surface is equal to + -75 RPM 
+ 
+
+ (b.1) Speed of Forward Rotating magnetic fields with respect to stator surface is equal to + 1500 RPM 
+ 
+
+ (b.2) Speed of Backward Rotating magnetic fields with respect to stator surface is equal to + 1350 RPM 
+ 
+
+  (c)  Speed of Backward Rotating magnetic fields with respect to stator for 50 percenatge slip is equal to  -37.5 RPM 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) Speed of Backward Rotating magnetic fields with respect to stator for 50 percenatge slip is equal to 0 RPM instead of -37.5 RPM  
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.14/Ex5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.14 : SOLUTION :-   
+ 
+
+ (a) Rotor Speed of Induction Motor, Nr = 2400 RPM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.15/Ex5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 5.15 : 
+
+          Given Data No-load test : 440V, 30A, 4.5KW 
+ 
+
+          Blocked rotor test :      90V,50Hz, 120A, 16KW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ (a.1)  DC winding Resistance per phase, R1 = 0.075 Ohms 
+ 
+
+ (a.2)  AC Resistance referred to stator from locked rotor test at supply frequency  = 0.3704 Ohms 
+ 
+
+ (a.3)  Per phase Rotor Resistance to Stator, R2 = 0.2954 Ohms 
+ 
+
+ (a.4)  Per phase Impedance from locked rotor test,Zsc = 0.433 Ohms 
+ 
+
+ (a.5)  Per phase leakage Reactance referred to stator, Xs = 0.2243 Ohms 
+ 
+
+ (a.6)  No-load power factor angle, theta_O = 78.65 Degree 
+ 
+
+ (a.7)  Reactive component of no-load current, Im = 29.4 A 
+ 
+
+ (a.8)  Magnetizing Reactance, Xm = 8.64 Ohms 
+ 
+
+ (a.9)  Total Core loss, Pc = 4297.5 W 
+ 
+
+ (a.10) Per phase core loss Resistance, Pc = 45 Ohms 
+ 
+
+ (a.11) Per phase Voltage, Vph = 254 V 
+ 
+
+ (a.12) Core loss current, Ic = 5.64 < 0 A 
+ 
+
+ (a.13) Magnetizing Current, Im = 29.4 < -90 A 
+ 
+
+ (a.14) No-load current, I0 = 29.95 < -79.15 A 
+ 
+
+ (a.15) Current, I2 = 42.43 < -2.15 A 
+ 
+
+   (b)  Input current, I1 = 57.18 < -32.84 A 
+ 
+
+   (c)  Power Factor, Pf = 0.8402 Lagging 
+ 
+
+   (d)  Output Power, P0 = 30.3 kW 
+ 
+
+   (e)  Torque, T = 304.73 NM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.17/Ex5_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 5.17 : 
+
+          Given Data No-load test : 440V, 3.0A, 500KW, 50Hz 
+ 
+
+          Blocked rotor test at rated frequency : 110V, 18A, 2500W, 50Hz 
+ 
+
+          DC test on Stator per phase : 10V, 15A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ (a)  Magnetizing Reactance of Equivalent circuit, Xm = 64.4 Ohms 
+ 
+
+ (b) Per phase core loss Resistance, Pc = 742 Ohms 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.18/Ex5_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.18 : SOLUTION :-   
+ 
+
+   (a)  Input current, I1 = 7.68 < -33.99 A 
+ 
+
+   (b)  Power Factor, Pf = 0.829 Lagging 
+ 
+
+   (c)  Output Power, P0 = 4342.67 W 
+ 
+
+   (d)  Torque, T = 28.65 NM 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) T = 4340.82 Nm instead of 28.65 Nm 
+  
+
+
+       IN TEXT BOOK, CALCULATION OF TORQUE IS NOT DONE 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.19/Ex5_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.19 : SOLUTION :-   
+ 
+
+   (a)  Input line current, I1 = 113.2 < -24.68 A 
+ 
+
+   (b)  Power Factor, Pf = 0.9087 Lagging 
+ 
+
+   (c)  Output Power, P0 = 106.4 HP 
+ 
+
+   (d)  Torque, T = 538.13 Nm 
+ 
+
+   (e)  Efficiency, eta = 97.7 Percenatge 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) I1 = 114.2<-24.68 A instead of 113.2<-24.68 A 
+  
+
+                                     (b) T = 548.24 Nm instead of 538.13 Nm 
+  
+
+                                     (c) Po = 108.4 HP instead of 106.4 HP 
+  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.20/Ex5_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.20 : SOLUTION :-   
+ 
+
+   (a)  Input line current, I1 = 27 < -8.08 A 
+ 
+
+   (b)  Power Factor, Pf = 0.9901 Lagging 
+ 
+
+   (c)  Output Power, P0 = 22.98 HP 
+ 
+
+   (d)  Torque, T = 172.3 Nm 
+ 
+
+   (e)  Efficiency, eta = 93.2 Percenatge 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) I1 = 26.8-j3.584 {27<-7.62} A in instead of (26.8)+(j-3.805) {27<-8.08} A 
+  
+
+                                     (b) pf = 0.9885 Lagging instead of 0.9901 Lagging 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.21/Ex5_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.21 : SOLUTION :-   
+ 
+
+ (a) Torque at 0.05 slip, T = 226.56 Nm 
+ 
+
+ (b) Power Output at 0.05 slip, P = 33808.8 W = 45.32 HP 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.22/Ex5_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.22 : SOLUTION :-   
+ 
+
+   (a)  Input line current, I2 = 17.78 A 
+ 
+
+   (b)  Power Factor, Pf = 0.979 
+ 
+
+   (c)  Torque, T = 37.89 Nm 
+ 
+ 
+ Verification Results from Circle Diagram :-
+ 
+
+   (a)  Efficency, eta = 93.10 Percent 
+ 
+
+   (b)  slip, s = 0.069 = 7 percent 
+ 
+
+   (c)  Torque, T = 28.14 Nm 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.23/Ex5_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.23 : SOLUTION :-   
+ 
+
+ For Case (a.1) Winding is connected in star 
+ 
+
+ (a.1.1) Per phase impedance seen from the terminals in Ohms, Z = 2.571 < 76.5 Ohms 
+ 
+
+ (a.1.2) Initial Starting Current , Isy = 98.81 A 
+ 
+
+ (a.1.3) Starting Torque , Tsy = 37.3 Nm 
+ 
+
+ For Case (a.2) Winding is connected in delta 
+ 
+
+ (a.2.1) Initial Starting Current , Isd = 296.42 A 
+ 
+
+ (a.2.2) Starting Torque , Tsd = 111.88 Nm 
+ 
+
+ For Case (b) Machine is started using auto-transfromer and voltage is 50 percentage reduced :- (b.1) Winding is connected in star 
+  
+
+ (b.1.1) Per phase impedance seen from the terminals in Ohms, Z = 2.571<76.5 Ohms 
+ 
+
+ (b.1.2) Initial Starting Current , Isy = 49.4 A 
+ 
+
+ (b.1.3) Starting Torque , Tsy = 9.32 Nm 
+ 
+
+ For Case (b.2) Winding is connected in delta 
+ 
+
+ (b.2.1) Initial Starting Current , Isd = 148.21 A 
+ 
+
+ (b.2.2) Starting Torque , Tsd = 28 Nm 
+ 
+
+ For Case (c) Both Voltage and Frequency are reduced to 50 percentage :- (c.1) Winding is connected in star 
+  
+
+ (c.1.1) Per phase impedance seen from the terminals in Ohms, Z =  0.65<22.62 Ohms 
+ 
+
+ (c.1.2) Initial Starting Current , Isy = 39.08 A 
+ 
+
+ (c.1.3) Starting Torque , Tsy = 58.34 Nm 
+ 
+
+ For Case (c.2) Winding is connected in delta 
+ 
+
+ (c.2.1) Initial Starting Current , Isd = 117.25 A 
+ 
+
+ (c.2.2) Starting Torque , Tsd = 175.03 Nm 
+ 
+
+Comparing the Calculated values of starting current and torque eid rated frequency and rated voltage
+ 
+
+                            star                           delta
+ 
+
+                   440V,50Hz   44V,5Hz             440V,50Hz   44V,5Hz 
+ 
+
+ starting current     98.81 A     39 A               296 A       117.25 A 
+ 
+
+ starting Torque      37.3 Nm   58.34 Nm             112 Nm      175.03 Nm 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- For Case (a.2) Winding is connected in delta :- (a) Initial Starting Current Isy = 254.01 A instead of 296.42 A 
+
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.24/Ex5_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.24 : SOLUTION :-   
+ 
+
+ Normal Initial Starting Current in DOL starter, I = 101.9 <-76.7 A 
+ 
+
+ For Case(a) A per Phase resistance of 0.5 Ohms is added in Series with the stator circuit 
+ 
+
+              Initial Starting Current in DOL starter, I = 95.7 <-66.09 A 
+ 
+
+  For Case(b) A per Phase resistance of 0.5 Ohms is added in Series with the rotor circuit 
+ 
+
+              Initial Starting Current in DOL starter, I = 96.12 <-67.2 A 
+ 
+
+  For Case(c) When applied Voltage reduced to 50 percentage 
+ 
+
+              Initial Starting Current in DOL starter, I = 50.94 <-76.7 A 
+ 
+
+  For Case(d) When Motor is supplied by reduced Voltage of 44V ( Voltage is reduced by 10 percenatge ) and the reduced frequency is 5Hz 
+ 
+
+              Initial Starting Current in DOL starter, I = 40.6 <-27.3 A 
+ 
+
+ By reducing volatge as well as the frequency, the peak starting current at the instant os starting is reduced by a fector of 0.3982 of the starting current with the reted volatge and frequency 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- For Case(d) When Motor is supplied by reduced Voltage of 44V ( Voltage is reduced by 10 percenatge ) and the reduced frequency is 5Hz,  I = 24.1 < 25.6 A instead of 40.6 < (-27.31) A 
+  
+
+  Ratio of the Starting Current with the rated Voltage and frequency to the reduced Voltage and frequency, Ratio = 0.2518 instead of 0.3982 
+  
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.25/Ex5_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.25 : SOLUTION :-   
+ 
+
+ (a)  Range of speed is 375 - 600 - 1000 - 1500 RPM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.26/Ex5_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.26 : SOLUTION :-   
+ 
+
+ For Case (a) Machine running at, N = 1400 RPM 
+  
+
+ (a.1) Rotor per phase Current referred to the stator side, I2 = 30.57 < -21.16 A 
+ 
+
+ (a.2) Developed Torque, T = 133.85 Nm 
+ 
+
+ For Case (b) Machine running at, N = 1600 RPM 
+  
+
+ (a.1) Rotor per phase Current referred to the stator side, I2 = 32.38 < -157.52 A 
+ 
+ 
+    ( angle -157.52 + 180 = 22.48 )    
+ 
+
+ (a.2) Developed Torque, T = -150.15 Nm 
+ 
+
+ For Case (c) Machine running at, N = -100 RPM 
+  
+
+ (c.1) Rotor per phase Current referred to the stator side, I2 = 82.35 < -76.53 A 
+ 
+
+ (c.2) Developed Torque, T = -60.71 Nm 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.27/Ex5_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.27 : SOLUTION :-   
+ 
+
+ Maximim Torque during Motoring, Tm = 174 N-m 
+ 
+
+ Maximim Torque during Generating, Tm = -242.49 N-m 
+ 
+
+ For Case (a) slip = 0.05 
+  
+
+ (a.1) Torque, T = 96.89 Nm 
+ 
+
+ For Case (b) slip = -0.05 
+  
+
+ (b.1) Torque, T = 135.01 Nm 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.28/Ex5_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.28 : SOLUTION :-   
+ 
+
+ (a) Starting torque, Tst = 1100.42 Nm 
+ 
+
+ (b) Running torque at slip = 0.07, T = 419.62 Nm 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.29/Ex5_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.29 : SOLUTION :-   
+ 
+
+ (a) Torque at slip 0.05, T = 296.11 Nm 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.30/Ex5_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.30 : SOLUTION :-   
+ 
+
+ (a) Input Current, I = 2.77 < -67 A 
+ 
+
+ (b) Power factor, pf = 0.39 Lagging 
+ 
+
+ (c) Developed Torque, T = 0.134 Nm 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.31/Ex5_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.31 : SOLUTION :-   
+ 
+
+ Circuit Parameters are 
+
+ (a) Leakage reactance of stator and rotor to be equal, Xl1 = Xl2 = 8.72 Ohms 
+ 
+
+ (b) Equivalent resistance of rotor referred to stator, R2 = 24 Ohms 
+ 
+
+ (c) Total Forward impedance, Zf = 122.0 < 69.16 Ohms 
+ 
+
+ (c) Total Backward impedance, Zb = 12.70 < 24.56 Ohms 
+ 
+
+ (d) Total impedance, Z = 144.44 < 62.39 Ohms 
+ 
+
+ (e) Input Current, I = 1.52 < -62.39 A 
+ 
+
+ (f) Power factor, pf = 0.46 Lagging 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH5/EX5.32/Ex5_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 5.32 : SOLUTION :-   
+ 
+
+ Circuit Parameters are 
+
+ (a) Leakage reactance of stator and rotor to be equal, Xl1 = Xl2 = 3.95 Ohms 
+ 
+
+ (b) Equivalent resistance of rotor referred to stator, R2 = 1.47 Ohms 
+ 
+
+ (c) Total Forward impedance, Zf = 12.3 < 34.65 Ohms 
+ 
+
+ (c) Total Backward impedance, Zb = 1.87 < 79.96 Ohms 
+ 
+
+ (d) Total impedance, Z = 17.28 < 47.68 Ohms 
+ 
+
+ (e) Input Current, I = 12.73 < -48 A 
+ 
+
+ (f) Power factor, pf = 0.6733 Lagging 
+ 
+
+ (g) Forward torque, Tf = 1638.70 Synchronous Watts 
+ 
+
+ (h) Backward torque, Tb = 52.90 Synchronous Watts 
+ 
+
+ (i) Net torque, T = 1585.80 Synchronous Watts 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.1 : SOLUTION :-   
+ 
+
+ For Case(a) Ns = 3000, p = 2 
+  
+
+ For Case(b) Ns = 1000, p = 6 
+  
+
+ For Case(c) Ns = 300, p = 20 
+  
+
+ For Case(d) Ns = 40, p = 150 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.2 : SOLUTION :-   
+ 
+
+ Alternator running frequency, f = 50 Hz 
+  
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.3 : SOLUTION :-   
+ 
+
+ For Case (a) When f = 10, Synchronous speed, Ns = 600 RPM 
+ 
+
+ For Case (b) When f = 50, Synchronous speed, Ns = 3000 RPM 
+ 
+
+ For Case (c) When f = 60, Synchronous speed, Ns = 3600 RPM 
+ 
+
+ For Case (d) When f = 100, Synchronous speed, Ns = 6000 RPM 
+ 
+
+ For Case (e) When f = 400, Synchronous speed, Ns = 24000 RPM 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.5a/Ex6_5a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 6.5a( Data is same as Example 6.4): 
+
+          Given Data 
+ 
+
+ Voc(v)  215      284      320      380      400      422      452      472      488      508      520      532      540      552      560 
+ 
+
+ If(A)    6.5      8        9       10       11       12        14       15       16       17      18        19       20       22       24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ (a.1)  Synchronous reactance for rated current at If = 9.50, Xs = 14.72 Ohms 
+ 
+
+ (a.2)  Synchronous reactance for rated per phase Voltage  at v  = 231, Xs = 14.63 Ohms 
+ 
+
+ For Case (b.1) 0.8 pf Lagging 
+  Induced EMF per phase , EMF = 391.24 V 
+ 
+
+ Percenatge Regulation, R = 69.41 Percenatge 
+ 
+
+ Power angle = 22.68 degree 
+ 
+
+ For Case (b.2) 0.8 pf Leading 
+  Induced EMF per phase, EMF = 207.18 V 
+ 
+
+ Percenatge Regulation, R = -10.29 Percenatge 
+ 
+
+ Power angle = 53.75 degree 
+ 
+
+ For Case (b.3) Unity pf Lagging 
+  Induced EMF per phase, EMF = 315.03 V 
+ 
+
+ Percenatge Regulation, R = 36.41 Percenatge 
+ 
+
+ Power angle = 39.11 degree 
+ 
+
+ For Case (b.4) ZPF Lagging 
+  Induced EMF per phase, EMF = 429.88 V
+ 
+
+ Percenatge Regulation, R = 86.14 Percenatge 
+ 
+
+ Power angle = -1.8 degree 
+ 
+
+ For Case (b.5) ZPF Leading 
+  Induced EMF per phase, EMF = 34.93 V 
+ 
+
+ Percenatge Regulation, R = -84.88 Percenatge 
+ 
+
+ Power angle = 22.74 degree 
+
+ 
+ 
+  Calculated Answer in Tabular Column   
+ 
+
+   Power Factor                 0.8 Lag      0.8 Lead        1.0         ZPF Lag         ZPF Lead 
+ 
+
+ Open circuit EMF (V)           391.24        207.18         315.03       429.88          34.93 
+ 
+
+ Percenatge Regulation           69.41         -10.29          36.41.       86.14         -84.88 
+ 
+
+ Power angle                    22.68         53.75          39.11.       -1.8           22.74 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.10/Ex6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.10: SOLUTION :-   
+ 
+
+ (a) Field Current required to produce the excitation EMF, F = 283.22 A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.12/Ex6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ EXAMPLE : 6.12 : 
+
+          Given Data 
+ 
+
+ Voc(V)   175     250      280      300        330       350      370       380 
+ 
+
+ If(A)     10       17       20       23         30       38       50        60 
+ 
+
+ Vzpf(V)      -        -       -       0         130     210      265      280 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SOLUTION :-   
+ 
+
+ (a) Leakage Reactance, Xl = 1.52 Ohms 
+ 
+
+ (b) Synchronous Reactance, Xs = 6.45 Ohms 
+ 
+
+ (c) Field Current required for maintaing the rated terminal voltage for rated kVA rating at 0.80 Lagging Power factor , F = 374.50 A 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.15/Ex6_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.15: SOLUTION :-   
+ 
+
+ Induced EMF, E = 1.44 < 19.44 pu 
+  
+
+ The field current required for 1.44 pu voltage on air gap line 1.8 pu 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.16/Ex6_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.16: SOLUTION :-   
+ 
+
+ Induced EMF, EMF = 444 V 
+ 
+
+ Power angle = 25.90 degree 
+ 
+
+ Power, P = 16.003 kW 
+ 
+
+ Counter Torque, T = 50.94 N-m 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- 
+ (a) Induced EMF, EMF = 471 V instead of 444 V 
+ 
+
+ (b) Power angle = 18.05 degree instead of 25.90 degree 
+ 
+
+ (c) Power, P = 12.003 kV instead of 16.003 kW 
+ 
+
+ (d) Counter Torque, T = 38.23 N-m instead of 50.94 N-m 
+ 
+
+ From Calculation of the Induced EMF(E), rest all the Calculated values in the TEXT BOOK is WRONG because of the Induced EMF(E) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.18/Ex6_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.18: SOLUTION :-   
+ 
+
+ (a) Excitation EMF, E = 2109.2 V 
+ 
+
+ (b) Line current, I = 296.95 A 
+ 
+
+ (c) Power factor = 0.222 leading 
+ 
+
+ (d) Power , P = 125.7278 kW 
+ 
+
+ (e) Torque , T = 800.41 N-m 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- 
+ (a) Power , P = 13.0667 kW instaed of 125.7278 kW 
+ 
+
+ (b) Torque , T = 83.22 N-m instaed of 800.41 N-m 
+ 
+
+ From Calculation of the Power(P), rest all the Calculated values in the TEXT BOOK is WRONG because of the Power(P) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.19/Ex6_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.19: SOLUTION :-   
+ 
+
+ (a) Efficiency, eta = 88.18 Percent 
+ 
+
+ (b) Induced EMF, E = 287 V per phase and 
+
+     Power (Torque) angle = 8.01 degree 
+ 
+
+ (c) Power , P = 6.0968 kW 
+ 
+
+ (d) Torque , T = 58.22 N-m 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.20/Ex6_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.20: SOLUTION :-   
+ 
+
+ For Case (a) 0.80 pf lagging :- 
+ (a) Induced EMF, E = 6036.46 V 
+ 
+
+ (b) Power , P = 1.2 MW 
+ 
+
+ (c) Torque , T = 7642.26 N-m 
+ 
+
+ For Case (b) 0.80 pf leading :- 
+ (a) Induced EMF, E = 6696.2 V 
+ 
+
+ (b) Power , P = 1.202 MW 
+ 
+
+ (c) Torque , T = 7649.23 N-m 
+ 
+
+ For Case (a) UPf :- 
+ (a) Induced EMF, E = 6374.9 V 
+ 
+
+ (b) Power , P = 1.50 MW 
+ 
+
+ (c) Torque , T = 9550 N-m 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.21/Ex6_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.21: SOLUTION :-   
+ 
+
+ (a) Induced EMF, E = 323.43 V 
+ 
+
+ (b) Power (Torque) angle = 10.71 degree 
+ 
+
+     Power , P = 6096.82 W 
+ 
+
+     Torque , T = 58.22 N-m 
+ 
+
+ (c) when the machine is running as alternator requirements are:- 
+
+     New Current = 13.42 A
+ 
+
+     Power factor = 0.649 lagging 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.22/Ex6_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.22 : SOLUTION :-   
+ 
+
+ (a) Terminal Voltage per phase, V = 614.53 < -21.5 V 
+ 
+
+ (b) Individual currents per phase, I1 = 273 < -62.8 A 
+
+     I2 = 163.3 < -72.7 A 
+ 
+
+ (c) Per phase Active Power , P1 = 125896 W 
+
+     P2 = 62925.2 W 
+  
+
+ (d) No-load current per phase, Ic = 17.73 < -178.79 A 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.23/Ex6_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.23: SOLUTION :-   
+ 
+
+ (a.1) Final value (maximum value) of the Power angle (considering Linear variation), delta2 = 18 degree 
+ 
+
+ (a.2) Natural frequency of oscillations, Ns = 15.36 radians/s 
+ 
+
+ (a.3) Damping ratio, zeta = 0.2605 
+ 
+
+ (a.4) Frequency of damped oscillations, Wd = 14.83 radians/s 
+ 
+
+ (a.5) Settling time, ts = 1.25 seconds 
+ 
+
+  (b)  The maximum overshoot for damping ratio of 0.2604 is about 42 percent the maximum appoximate value of the overshoot in terms of 1 percent tolearance band is, deltamax = 21.78 degree 
+ 
+
+
+ FOR CASE (C) CANNOT BE DO IT IN THIS BECAUSE AS IT REQUIRES MATLAB SIMULINK 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.28/Ex6_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.28: SOLUTION :-   
+ 
+
+ (a) Operating speed, Ns = 3000 RPM 
+ 
+
+ (b) Developed Torque , T = 14.85 N-m 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.29/Ex6_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.29: SOLUTION :-   
+ 
+
+ (a) Operating speed, Ns = 24000 RPM 
+ 
+
+ (b) Developed Torque , T = 0.78750 N-m 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) xd = 12.56 instead of 125.66 Ohms 
+  
+
+                                     (b) xq = 3.768 instead of 37.70 Ohms 
+  
+
+                                     (c) v = 36.68 instead of 376.99 V 
+  
+
+                                     (d) T = 0.07875 instead of 0.7875 N-m 
+  
+
+ From Calculation of the d-axis and q-axis reactance (xd and xq respectively), rest all the Calculated values in the TEXT BOOK is WRONG because of the d-axis and q-axis reactance (xd and xq respectively) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.30/Ex6_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.30: SOLUTION :-   
+ 
+
+ (a) Power at the shaft, Ph = 790 W 
+ 
+
+ )b) Torque at the shaft , Th = 2.51 N-m 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.31/Ex6_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.31: SOLUTION :-   
+ 
+
+ For Case (a) 0.80 lagging Power factor 
+  Induced EMF, EMF = 6816.45 V 
+ 
+
+ Power (Torque) angle = 26.57 degree 
+ 
+
+ Power developed, P = 1.6 MVA 
+ 
+
+ For Case (b) 0.80 leading Power factor 
+  Induced EMF, EMF = 3408 V 
+ 
+
+ Power (Torque) angle = 63.43 degree 
+ 
+
+ Power developed, P = 1.600 MVA 
+ 
+
+ For Case (c) Unity Power Factor 
+  Induced EMF, EMF = 5388.9 V 
+ 
+
+ Power (Torque) angle = 45.00 degree 
+ 
+
+ Power developed, P = 2.0 MVA 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :-  xs = 20.14 instead of 21.78 Ohms 
+  
+
+  For Case (a) 0.80 lagging Pf (a.1)  E = 6561.42 instead of 6816.45 V 
+  
+
+                               (a.2)  delta = 25.45 instead of 26.57 degree 
+  
+
+  For Case (b) 0.80 leading Pf (b.1)  E = 3290 instead of 3408.2 V 
+  
+
+                               (b.2)  delta = 58.98 instead of 63.43 degree 
+  
+
+                               (b.3)  Power developed = 1.617 instead of 1.600 MVA 
+  
+
+  For Case (c) UPF  (c.1)  E = 5190.2 instead of 5388.88 V 
+  
+
+                    (c.2)  delta = 42.77 instead of 45.00 degree 
+  
+
+ In all the three cases from Calculation of the Synchronous reactance (xs), rest all the Calculated values in the TEXT BOOK is WRONG because of the Synchronous reactance (xs) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH6/EX6.33/Ex6_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 6.33: SOLUTION :-   
+ 
+
+ (a) Ratio of the Maximum electromagnetic torque to the actual electromagnetic torque is 6.93 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) delta = 2.41 instead of 3.87 degree 
+  
+
+                                     (b) E = 6379 instead of 6675.30 V 
+  
+
+                                     (c) Ratio = 10.84 instead of 6.93 
+  
+
+ From Calculation of the Power angle (delta), rest all the Calculated values in the TEXT BOOK is WRONG because of the Power angle (delta) value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.1: SOLUTION :-   
+ 
+
+ (a) Induced EMF in the outer and inner rims of the disk, Er = 1.3254 V 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    29.317195  
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.2 : SOLUTION :-   
+ 
+
+ (a) Torque, T = 0.33 N-m 
+  
+
+ (b) Total Number of Conductors, N = 29.32 nearly 30 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.3: SOLUTION :-   
+ 
+
+ (a) Resultant torque, T = 18.93 N-m 
+ 
+
+ (b) Phase currents (line currents), Ia = 0.26 < -40.85 A 
+
+                                     Ib = 0.12 < -97.91 
+ 
+
+
+ IN THE ABOVE PROBLEM ALL THE VALUES PRINTED IN THE TEXT BOOK ARE NOT ACCURATE, SO VALUE OF THE TORQUE AND LINE CURRENTS ARE DIFFERING, WHEN WE COMPARED TO THE TEXT BOOK ANSWERS FOR THE SAME. 
+
+ 
+
+ IN EVERY CALCULATED PARAMETER IN THE TEXT BOOK SLIGHT VARIATION IS THERE AS WE COMPARED TO MANUAL CALCULATION ITS FROM POSITIVE SEQUENCE VOLTAGE (Va1) 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.4: SOLUTION :-   
+ 
+
+ (a) Resultant torque, T = 33.70 N-m 
+ 
+
+
+ IN THE ABOVE PROBLEM ALL THE VALUES PRINTED IN THE TEXT BOOK ARE NOT ACCURATE, SO VALUE OF THE TORQUE AND LINE CURRENTS ARE DIFFERING WHEN WE COMPARED TO THE TEXT BOOK ANSWERS FOR THE SAME. 
+
+ 
+
+ IN EVERY CALCULATED PARAMETER IN THE TEXT BOOK SLIGHT VARIATION IS THERE AS WE COMPARED TO MANUAL CALCULATION ITS FROM POSITIVE SEQUENCE IMPEDANCE (Z1) 
+ 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.5: SOLUTION :-   
+ 
+
+ When the Motor operting at AC 230V, 50 Hz 
+
+ (a) NAC = 1342 RPM 
+ 
+
+ (b) Power factor = 0.5730 lagging 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.7: SOLUTION :-   
+ 
+
+ (a) Line currents, I1 = 2.47 < -42.81 A and I2 = 3.87 < -77.31 A 
+ 
+
+ (b) Power factor = 0.73 lagging 
+ 
+
+ (c) Efficiency = 82.97 percentage 
+ 
+
+
+    [ TEXT BOOK SOLUTION IS PRINTED WRONGLY ( I verified by manual calculation )]
+ 
+
+      WRONGLY PRINTED ANSWERS ARE :- (a) I1 = 3.37 < -42.78 A instead of 2.47 < j(-42.81) A 
+  
+
+                                     (b) I2 = 5.26 < -77.34 A instead of 3.87 < j(-77.31) A 
+  
+
+                                     (b) eta = 81.53 percent instead of 82.97 percent  
+  
+
+ From Calculation of the I1, rest all the Calculated values in the TEXT BOOK is WRONG because of the I1 value is WRONGLY calculated and the same used for the further Calculation part 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.8: SOLUTION :-   
+ 
+
+ (a) Currents, I = 9.94 < -45.05 A 
+ 
+
+ (b) Power factor = 0.7065 lagging 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.9: SOLUTION :-   
+ 
+
+ (a) Slip when injected EMF is opposite to the E2, s = 0.5 
+ 
+
+ (b) Slip when injected EMF is phase with E2, s = -0.5 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.11/Ex7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.11: SOLUTION :-   
+ 
+
+ (a) Input pulse rate is 133.33 pulses per second 
+ 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.13/Ex7_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.13: SOLUTION :-   
+ 
+
+ (a) Instantaneous Torque, T = 0.6 N-m 
+
+ 
+The force is a motoring force since inductance of the coil is rising 
+ 
+grepthis#Electrical_Machines_R._K._Srivastava_2777/CH7/EX7.14/Ex7_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Va0  =
+ 
+    5.7144115 + 6.0420519i  
+ 
+ Va1  =
+ 
+    232.72449 - 0.5810383i  
+ 
+ Va2  =
+ 
+  - 18.438896 - 5.4610136i  
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE : 7.14 : SOLUTION :-   
+ 
+
+ (a) Zero sequence Voltage, Va0 = 8.32 < 46.60 V 
+ 
+
+ (b) Positive sequence Voltage, Va1 = 232.725 < -0.14 V 
+ 
+
+ (c) Negative sequence Voltage, Va1 = 19.23 < -163.5 V 
+ 
+ 
+ 

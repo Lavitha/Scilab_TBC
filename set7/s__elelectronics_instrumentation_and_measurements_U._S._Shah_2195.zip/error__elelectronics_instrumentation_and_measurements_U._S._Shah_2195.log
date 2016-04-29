@@ -1,0 +1,218 @@
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.1.a/ex_2_7_1_a.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      12 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.1.a/ex_2_7_1_a.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.1.d/ex_2_7_1_d.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      11 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.1.d/ex_2_7_1_d.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.2.a/ex_2_7_2_a.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      12 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.2.a/ex_2_7_2_a.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.2.c/ex_2_7_2_c.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      12 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.2.c/ex_2_7_2_c.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.2.d/ex_2_7_2_d.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      13 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.2.d/ex_2_7_2_d.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.4.a/ex_2_7_4_a.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      12 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.4.a/ex_2_7_4_a.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.4.b/ex_2_7_4_b.sce
+ 
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+ deviation in 10.3 is   
+ 
+    0.0125  
+ 
+ deviation in 10.7 is   
+ 
+    0.4125  
+ 
+ deviation in 10.9 is   
+ 
+    0.6125  
+ 
+ deviation in 9.7 is   
+ 
+  - 0.5875  
+ 
+ deviation in 9.5 is   
+ 
+  - 0.7875  
+ 
+ deviation in 9.2 is   
+ 
+  - 1.0875  
+ 
+ deviation in 10.3 is   
+ 
+    0.0125  
+ 
+ deviation in 11.7 is   
+ 
+    1.4125  
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      14 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.4.b/ex_2_7_4_b.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.4.c/ex_2_7_4_c.sce
+ 
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      14 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.4.c/ex_2_7_4_c.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.7.4.d/ex_2_7_4_d.sce
+ 
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      14 of exec file called by :    
+measurements_U._S._Shah_2195/CH2/EX2.7.4.d/ex_2_7_4_d.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.8.1/ex_2_8_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      12 of exec file called by :    
+and_measurements_U._S._Shah_2195/CH2/EX2.8.1/ex_2_8_1.sce',-1
+ 
+ERROR: _elelectronics_instrumentation_and_measurements_U._S._Shah_2195/CH2/EX2.8.3/ex_2_8_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      12 of exec file called by :    
+and_measurements_U._S._Shah_2195/CH2/EX2.8.3/ex_2_8_3.sce',-1
+ 

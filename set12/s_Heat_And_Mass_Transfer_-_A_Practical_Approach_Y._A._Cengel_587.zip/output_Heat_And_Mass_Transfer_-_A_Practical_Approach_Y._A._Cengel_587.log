@@ -1,0 +1,5984 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 143
+
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.1/example1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Heat needs to be transferred to the copper ball to heat it from 100 to 150 deg 
+      ree celsius is                                                            
+ 
+    92.552629  
+ 
+ kJ   
+ 
+ 
+ 
+ 
+ 
+ 
+ Average Heat Transfer by the iron ball is    
+ 
+    51.418127  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ Average flux is   
+ 
+    1636.6898  
+ 
+ W/m^2   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.2/example1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ m1  =
+ 
+    1.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Time needed for this heater to supply    
+ 
+    429.856  
+ 
+ kJ   
+ 
+ of heat is   
+ 
+    6.  
+ 
+ minutes   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.3/example1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The constant pressure specific heat of air at the average temperature of   
+ 
+    330.  
+ 
+ K is   
+ 
+    1.007  
+ 
+ kJ/kg   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mass flow rate of air through the duct is   
+ 
+    0.2615856  
+ 
+ kg/s   
+ 
+ 
+ 
+ The rate of heat loss by the air is   
+ 
+    1.5805004  
+ 
+ kJ/s   
+ 
+ 
+ 
+  Cost of heat loss to the home owner is   
+ 
+ $   
+ 
+    0.1078635  
+ 
+ per hour   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.4/example1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The specific heat capacities of air   
+ 
+ at the average temperature of   
+ 
+    288.  
+ 
+ K   
+ 
+    0.72  
+ 
+ and   
+ 
+    1.007  
+ 
+ kJ/kg.K   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mass of air in the room is   
+ 
+    624.96152  
+ 
+ kg   
+ 
+ 
+ 
+ The amount of energy transferred to air at constant volume is    
+ 
+    4499.723  
+ 
+ kJ   
+ 
+ 
+ 
+ 
+ Cost of Energy is $   
+ 
+    0.0937442  
+ 
+ 
+ 
+ 
+ 
+ The amount of energy transferred to air at constant is    
+ 
+    6293.3626  
+ 
+ kJ   
+ 
+ 
+ 
+ Cost of Energy is $   
+ 
+    0.1311117  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.5/example1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The steady rate of heat transfer through the roof is   
+ 
+    1689.6  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The amount of heat lost through the roof   
+ 
+    16.896  
+ 
+ kWh   
+ 
+ and its cost is $   
+ 
+    1.35168  
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.6/example1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The electrical power consumed by the resistance heater and converted to heat i 
+      s                                                                         
+ 
+    44.  
+ 
+ W   
+ 
+ 
+ 
+ The rate of heat flow through each sample   
+ 
+    22.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal conductivity of the sample is   
+ 
+    22.409016  
+ 
+ W/mC   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.7/example1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal conductivity of the brick in English units is   
+ 
+    0.4160132  
+ 
+ Btu/h.ft.degree Farenhiet   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.8/example1_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat generated in the wire as a result of resistance heating is   
+ 
+    90.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ The convection Heat Transfer coefficient is   
+ 
+    34.851447  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.9/example1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The net rates of radiation heat transfer from the body to the surrounding wall 
+      s,ceiling, and floor in winter and summer are respectively                
+ 
+    152.  
+ 
+ and   
+ 
+    40.928722  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.10/example1_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rate of convection heat transfer from the person to the air in the room is   
+ 
+    86.4  
+ 
+ W   
+ 
+ 
+ 
+ The rate of convection heat transfer from the person to the surrounding walls, 
+      cieling,fllor is                                                          
+ 
+    81.712672  
+ 
+ W   
+ 
+ 
+ 
+ The rate of total heat transfer from the body is    
+ 
+    168.  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.11/example1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    300.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rates of conduction and radiation heat transfer between the plates through 
+       the air layer are respectively                                           
+ 
+    219.  
+ 
+ and   
+ 
+    369.  
+ 
+ W   
+ 
+ 
+ 
+ Net rate of heat transfer is   
+ 
+    588.  
+ 
+ W   
+ 
+ 
+ The heat transfer rate in reality will be higher because of the natural convec 
+      tion currents that are likely to occur in the air space between the plate 
+      s                                                                         
+ 
+ 
+ 
+ when the air space b/w the plates is evacuted there is no conduction or convec 
+      tion,and the only heat transfer between the plates will be by radiation.  
+ 
+ 
+ Therefore   
+ 
+ 
+ 
+ Net rate of heat transfer is   
+ 
+    369.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ An opaque solid material placed b/w the two plates blocks direct radiation hea 
+      t transfer between the plates                                             
+ 
+ 
+ 
+ 
+ The net rate of heat transfer through the urethane insulation is   
+ 
+    260.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The layers of superinsulation prevent any direct radiation heat transfer betwe 
+      en the plates                                                             
+ 
+ 
+ 
+ 
+ The net rate of heat transfer through the layer of superinsulation is   
+ 
+    0.2  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.13/example1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The plate surface temperature is   
+ 
+    33.4  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH1/EX1.14/example1_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.2/example2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat generation in the wire per unit volume and heat flux on the o 
+      uter surface of the wire as a result of this heat generation are respecti 
+      vely                                                                      
+ 
+    212.  
+ 
+ W/cm^3   
+ 
+ and   
+ 
+    15.915494  
+ 
+ W/cm^2   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.4/example2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat generation in the wire per unit volume is   
+ 
+    3.183D+08  
+ 
+ W/m^3   
+ 
+ 
+ 
+ The equation governing the variation of temperature int he wire is simply (1/r 
+      )d/dr(r.dT/dr)+                                                           
+ 
+    21220659.  
+ 
+ = 0   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.5/example2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal conductivity is given to be variable,and there is no heat generati 
+      on in the ball, therefore the differential equation governing the variati 
+      on of temperature in the ball is                                          
+ 
+ 
+ (1/(r^2)d/dr((r^2)k(dT/dr))=rho*c(dT/dt)   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.6/example2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The differential equation governing the variation of temperature in the billet 
+       is                                                                       
+ 
+ 
+ ((1/r)(d/dr)(k*r(dT/dr)))+((d/dz)(k(dT/dz)))=rho*c(dT/dt)   
+ 
+ 
+ In case of constant thermal conductivity it reduces to   
+ 
+ 
+ ((1/r)(d/dr)(r(dT/dr)))+(d^2)T/(dz^2)=(1/a)(dT/dt)   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.7/example2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -k*dT(0)/dx=q_   
+ 
+ 
+ 
+ 
+ T(L)=   
+ 
+    110.  
+ 
+ degree Celcius   
+ 
+ 
+ where L=   
+ 
+    0.003  
+ 
+ m   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.8/example2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Taling the direction of heat transfer to be the positive r direction, the boun 
+      dary condition on that surface can be expressed as                        
+ 
+ 
+ -k(dT(r_in,t)/dr)=h(T_steam-T(r1))   
+ 
+ 
+ 
+ Then the boundary at the outer surface can be expressed as   
+ 
+ 
+ dT(r_out,t)/dr=0   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.9/example2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The initial condition can be expressed as   
+ 
+ 
+ T(r,0)=T_ball   
+ 
+ 
+    300.  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ The boundary condition at the midpoint i.e. r=0 can be expressed as dT(0,t)/dr 
+      =0                                                                        
+ 
+ 
+ 
+ Taking the direction of heat transfer to be the positive r direction, the boun 
+      dary condition on the outer surface can be expressed as                   
+ 
+ 
+ -k(dT(r_out,t)/dr)=h[T(r_out)-T_ambient]+e*sigma[(T(r_out)^4)-(T_ambient^4)]   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.10/example2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The boundary condition ont the inner surface of the wall at x=0 can be express 
+      ed as -k(dT(0)/dx)=h_in[T_surf1-T(0)]                                     
+ 
+ 
+ where h_in and T_surf are respectively    
+ 
+    6.  
+ 
+ W/m^2.degree Celcius   
+ 
+ and   
+ 
+    20.  
+ 
+ degree Celcius   
+ 
+ 
+ The boundary condition on the outer surface at x=L can be expressed as    
+ 
+ 
+ -kdT(L)/dx=h_out[T(L)-T_surf2]+e*sigma[(T(L)^4)-(T_sky^4)]-a*q_solar   
+ 
+ 
+ where T_sky is temperature of the sky and q_solar is the incident solar heat f 
+      lux                                                                       
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.11/example2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    120.  
+ 
+ 
+ 
+ Differential equation can be expressed as d^2(T)/(dx^2)=0   
+ 
+ 
+ with boundary conditions    
+ 
+ 
+ T(0)=T1=   
+ 
+    120.  
+ 
+ degree Celcius   
+ 
+ 
+ T(L)=T2=   
+ 
+    50.  
+ 
+ degree Celcius   
+ 
+ 
+ integrating this we get,   
+ 
+ 
+ where C1 is an arbitrary constant   
+ 
+ 
+ dT/dx=C1   
+ 
+ 
+ integrating we obtain temperature to follow following relation :-   
+ 
+ 
+ T(x)=((T2-T1)/L)*x+T1    
+ 
+ and substituting values in above equation   
+ 
+ 
+ 
+ The value of temperature at x=0.1m is   
+ 
+    85.  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ The rate of heat conduction through the wall is   
+ 
+    6300.  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.13/example2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Uniform Heat Flux to whicj inner surface of the base plate is subjected   
+ 
+    40000.  
+ 
+ W/m^2   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The temperatures at the inner and outer surfaces of the plate i.e. at x=0 and  
+      x=L are                                                                   
+ 
+    533.  
+ 
+ degree Celcius   
+ 
+ and   
+ 
+    520.  
+ 
+ degree Celcius   
+ 
+ respectively   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.15/example2_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat conduction through the pipe is   
+ 
+    786.  
+ 
+ kW   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.16/example2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat conduction through the container wall is   
+ 
+    27.143361  
+ 
+ kW   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.17/example2_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The heat generation per unit volume of the wire is   
+ 
+    3.183D+08  
+ 
+ W/m^3   
+ 
+ 
+ 
+ The center temperature of the wire is    
+ 
+    126.  
+ 
+ degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.18/example2_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The temperature at the centreline,r=0 is   
+ 
+    128.  
+ 
+ degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.19/example2_19.sce #
+ 
+ 
+ 
+ 
+ 
+ k_wire  =
+ 
+    15.  
+ 
+ r1  =
+ 
+    0.002  
+ 
+ 
+ 
+ 
+ 
+ 
+ The Interface temperature is   
+ 
+    149.39691  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ The temperature at the centreline(r=0) is   
+ 
+    152.73025  
+ 
+ degree Celcius   
+ 
+ 
+ Thus the temperature of the centreline is slightly above the interface tempera 
+      ture                                                                      
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH2/EX2.21/example2_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    2.  
+ w  =
+ 
+    0.7  
+ 
+ T1  =
+ 
+    600.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The average thermal conductivity of the medium is   
+ 
+    55.499  
+ 
+ W/m.K   
+ 
+ 
+ 
+ The rate of heat conduction through the plate is   
+ 
+    155.  
+ 
+ kW   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.1/example3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal conductivity is given to be   
+ 
+    0.9  
+ 
+ W/m.K   
+ 
+ 
+ 
+ 
+ The area of the wall is   
+ 
+    15.  
+ 
+ m^2   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thermal Resistnace offered by the wall is   
+ 
+    0.0222222  
+ 
+ degree Celicus/W   
+ 
+ 
+ 
+ The steady rate of heat transfer through the wall is    
+ 
+    630.  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.2/example3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal conductivity is given to be   
+ 
+    0.78  
+ 
+ W/m.K   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total Resistance offered by glass window   
+ 
+    0.1127137  
+ 
+ degree Celcius/W   
+ 
+ 
+ 
+ Steady rate of Heat Transfer through the window is   
+ 
+    266.16114  
+ 
+ W   
+ 
+ 
+ 
+ 
+ Inner Surface Temperature of the window glass   
+ 
+  - 2.1800948  
+ 
+ degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.3/example3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The net resistance offered is   
+ 
+    0.4332265  
+ 
+ degree Celcius/W   
+ 
+ 
+ 
+ The steady rate of Heat transfer through the window is   
+ 
+    69.247842  
+ 
+ W   
+ 
+ 
+ 
+ 
+ Inner Surface Temperature of the window is   
+ 
+    14.229346  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.4/example3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Since thermal contact resistance is the inverse of thermal contact conductance 
+ 
+ 
+ Hence Therml contact Resistance is   
+ 
+    0.0000909  
+ 
+ m^2.K/W   
+ 
+ 
+ 
+ 
+ 
+ 
+ Equivalent thickness is   
+ 
+    2.1545455  
+ 
+ cm   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.5/example3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total thermal Tesistance is   
+ 
+    4.0323526  
+ 
+ degree Cecius/W   
+ 
+ 
+ 
+ The rate of heat transferred is   
+ 
+    12.399709  
+ 
+ W   
+ 
+ 
+ 
+ The temperature jump at the interface is given by   
+ 
+    0.3690390  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.6/example3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Resistance offered is   
+ 
+    6.8723543  
+ 
+ degree Celcius/W   
+ 
+ 
+ 
+ The steady rate of heat transfer through the wall is   
+ 
+    4.3653163  
+ 
+ W   
+ 
+ 
+ 
+ Heat Transfer per unit area is   
+ 
+    17.461265  
+ 
+ W/m^2   
+ 
+ 
+ 
+ 
+ Thr rate of heat transfer through the entire wall   
+ 
+    261.91898  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.7/example3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The radiation heat transfer coefficient is given by    
+ 
+ 
+ h_rad=e*sigma*((T2^2)+(T_tank^2))*(T2+T_tank)   
+ 
+ 
+ But we dont know the outer surface temperature T2 of the tank. hence we assume 
+       a T2 value                                                               
+ 
+ 
+ since heat transfer inside the tank is larger    
+ 
+ 
+ 
+ Therefore taking T2 =   
+ 
+    278.  
+ 
+ K   
+ 
+ 
+ 
+ The radiation heat transfer coefficient is determined to be   
+ 
+    5.3382515  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The steady rate of heat transfer to the iced water is   
+ 
+    8046.2109  
+ 
+ W   
+ 
+ 
+ We determine outer surface temperature to check the validity of assumption   
+ 
+ 
+ 
+    276.93165  
+ 
+ K   
+ 
+ 
+ which is sufficiently  to 278 K   
+ 
+ 
+ 
+ 
+ 
+ The total amount of heat transfer during a 24 hour period is   
+ 
+    695192.63  
+ 
+ kJ   
+ 
+ 
+ 
+ 
+ The amount of ice that will melt during 24h period is   
+ 
+    2083.2863  
+ 
+ kg   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.8/example3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Steady rate of heat loss from the steam per m length of pipe is   
+ 
+    120.78609  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The temperature drop across the pipe and the insulation is respectively   
+ 
+ 
+    0.0229027  
+ 
+ and   
+ 
+    283.58767  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.9/example3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Heat generated in the wire is   
+ 
+    80.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The interface temperature is   
+ 
+    105.01463  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ The critical radius of insulation of the plastic cover is   
+ 
+    12.5  
+ 
+ mm   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.10/example3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The given power transistor should not be operated at power levels above   
+ 
+    3.  
+ 
+ W   
+ 
+ 
+ if is its case temperature is not to exceed 85 degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.11/example3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal resistance b/w the transistor attached to the heat sink and the am 
+      bient air for the specified temperature difference is                     
+ 
+    1.  
+ 
+ degree Celcius/W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.14/example3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shave factor for given configuration is   
+ 
+    6.3392529  
+ 
+ m   
+ 
+ 
+ 
+ The steady rate of heat transfer between the pipes becomes   
+ 
+    261.49418  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.15/example3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h_in  =
+ 
+    8.29  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The steady rate of heat transfer through the walls of the house is   
+ 
+    925.69954  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The total amount of heat lost through the walss during a 24 hour period    
+ 
+    22.216789  
+ 
+ kWh/day   
+ 
+ 
+ 
+ Cost of heat consumption is $   
+ 
+    1.6662592  
+ 
+ per day   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.16/example3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overall U factor is   
+ 
+    0.5534016  
+ 
+ W/m^   
+ 
+ 
+ Overall unit thermal Resistance is   
+ 
+    1.8070059  
+ 
+ degree Celcius.m^2/W   
+ 
+ 
+ 
+ 
+ 
+ The rate of heat loss through the walls under design conditions is   
+ 
+    1328.1639  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH3/EX3.17/example3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Old R value is   
+ 
+    2.23  
+ 
+ m^2.degree Celcius/W   
+ 
+ 
+ New R value is   
+ 
+    2.98  
+ 
+ m^2.degree Celcius/W   
+ 
+ 
+ Percent increase in R-value   
+ 
+    33.632287  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.1/example4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Since Bi=   
+ 
+    0.001  
+ 
+ is less than 0.1 hence lumped system is applicable and the error involved in t 
+      his approximation is negligible                                           
+ 
+ 
+ 
+ Time constant for given lumped heat capacity system   
+ 
+    0.4632353  
+ 
+ s^(-1)   
+ 
+ 
+ 
+ 
+ Required time is   
+ 
+    10.  
+ 
+ seconds   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.2/example4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lumped system analysis is not applicable, but we can still use it to get a rou 
+      gh estimate of time of death                                              
+ 
+ As a rough estimate the person dies about   
+ 
+    12.186401  
+ 
+ hour   
+ 
+ before the body was found   
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.3/example4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the lumped system analysis is not applicable   
+ lambda1  =
+ 
+    3.0754  
+ 
+ Fourier no is   
+ 
+    0.2085019  
+ 
+ The time taken for center of egg to reach 70 degree Celcius temperature   
+ 
+    14.383411  
+ 
+ minutes   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.4/example4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The surface temperature of the plates when they leave the oven will be   
+ 
+    282.  
+ 
+ degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.5/example4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The center temperature of the shaft after 45 minutes is   
+ 
+    360.  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total heat transfer from the shaft during 45 minutes of cooling is   
+ 
+    29359.  
+ 
+ kJ   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.7/example4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The surface temperature fro both the wood and aluminium blocks are    
+ 
+    149.  
+ 
+ and   
+ 
+    22.  
+ 
+ degree Celcius   
+ 
+ respectively   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.8/example4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At the center of the plane wall   
+ 
+ 
+ 
+ 
+ Fourier no and Biot no are   
+ 
+    8.475  
+ 
+ and   
+ 
+    0.0327273  
+ 
+ respectively   
+ 
+ 
+ At the center of the cylinder   
+ 
+ 
+ 
+ 
+ Fourier no and Biot no are   
+ 
+    12.204  
+ 
+ and   
+ 
+    0.0272727  
+ 
+ respectively   
+ 
+ 
+ 
+ 
+ 
+ The temperature at the center of the short cylinder is   
+ 
+    63.  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The temperature at the top surface of the cylinder   
+ 
+    62.  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.9/example4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At the center of the plane wall   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At the center of the cylinder   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total heat transfer from the cylinder during the first 15 minutes of cooli 
+      ng is                                                                     
+ 
+    172.  
+ 
+ kJ   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.10/example4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lambda  =
+ 
+    0.3126  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the temperature at the center of the cylinder 15cm from the exposed bottom sur 
+      face                                                                      
+ 
+    151.  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH4/EX4.11/example4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T_L  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The convection heat transfer coefficient should be kept below the value   
+ 
+    20.  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ to satisfy the constraints on the temperature of the steak during refrigeratio 
+      n                                                                         
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH5/EX5.1/example5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH5/EX5.2/example5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ((5.5-m)T_(m-1))-((10.008-2m)Tm)+((4.5-m)T_m+1)=-0.29   
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH5/EX5.3/example5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    80.  
+ 
+ 
+ del_x  =
+ 
+    0.012  
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH5/EX5.4/example5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ delx  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH5/EX5.5/example5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T1_0  =
+ 
+    200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Temperatures at node 1 and 2 are respectively   
+ 
+    139.732  
+ 
+    228.3592  
+ 
+ and   
+ 
+    149.25862  
+ 
+    172.77582  
+ 
+ degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH5/EX5.6/example5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tout  =
+ 
+    0.6  
+ 
+ 
+ 
+ 
+ No of nodes are   
+ 
+    6.  
+ 
+ 
+ 
+ 
+ The maximum allowable value of the time step is   
+ 
+    2167.9433  
+ 
+ s   
+ 
+ 
+ 
+ 
+ 
+ The mesh Fourier number is   
+ 
+    0.111  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nodal temperatures at 7:15am are   
+ 
+ 
+ Node0:   
+ 
+    20.01876  
+ 
+ degree Celcius   
+ 
+ 
+ Node1:   
+ 
+    16.6  
+ 
+ degree Celcius   
+ 
+ 
+ Node2:   
+ 
+    12.2  
+ 
+ degree Celcius   
+ 
+ 
+ Node3:   
+ 
+    7.8  
+ 
+ degree Celcius   
+ 
+ 
+ Node4:   
+ 
+    3.4  
+ 
+ degree Celcius   
+ 
+ 
+ Node5:   
+ 
+    5.45576  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ The amount of heat transfer during the first time step or during the first 15  
+      min period is                                                             
+ 
+  - 1012500.  
+ 
+ J   
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH6/EX6.1/example6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T(y)=T0+(mu*(v^2)/(2*k))[(y/L)-((y/L)^2)]   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum temperature occurs at mid plane and its value is   
+ 
+    124.  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ 
+ Heat fluxes at the two plates are equal in magnitude but opposite in sign and  
+      the value of magnitude is                                                 
+ 
+    30.1464  
+ 
+ kW/m^2   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH6/EX6.2/example6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Friction Factor and average heat transfer coefficient are   
+ 
+    0.0024295  
+ 
+ and   
+ 
+    12.706033  
+ 
+ W/m^2.degree Celcius   
+ 
+ respectively   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.1/example7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We have laminar flow over the entire plate   
+ 
+ The average friction coefficient is   
+ 
+    0.0066300  
+ 
+ The drag force acting on the plate per unit width is   
+ 
+    58.078975  
+ 
+ N   
+ 
+ 
+ 
+ Nusselt Number is   
+ 
+    1913.  
+ 
+ 
+ 
+ Convective heat transfer coefficient is   
+ 
+    55.245523  
+ 
+ W/m^.degree Celcius   
+ 
+ 
+ 
+ Heat flow rate is   
+ 
+    11049.  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.3/example7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Flow is laminar   
+ 
+ The nusselt number is   
+ 
+    259.34897  
+ 
+ The covection heat flow rate is   
+ 
+    612.  
+ 
+ W   
+ 
+ Radiation heat transfer rate is   
+ 
+    768.15732  
+ 
+ W   
+ 
+ The rate of cooling of the plastic sheet by combined convection and radiation  
+      is                                                                        
+ 
+    1380.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) The temperature of the plastic sheet as it leaves the cooling section is   
+ 
+    91.242133  
+ 
+ degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.4/example7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drag force acting on the pipe is   
+ 
+    5.275248  
+ 
+ kN   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.5/example7_5.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The nusselt number is   
+ 
+    124.  
+ 
+ 
+ 
+ 
+ 
+ The rate of heat loss from the pipe per unit of its length is   
+ 
+    1098.  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.7/example7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SL  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reynolds number is   
+ 
+    5085.5507  
+ 
+ 
+ 
+ The nusselt number is   
+ 
+    52.119733  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mass flow rate of air is   
+ 
+    2.709  
+ 
+ kg/s   
+ 
+ 
+ 
+ Fluid exit temperature is   
+ 
+    29.113969  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ Log mean temperature difference is   
+ 
+    95.370446  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ Rate of heat transfer is   
+ 
+    24862.571  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ The pressure drop across the tube bank is   
+ 
+    21.007102  
+ 
+ Pa   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH7/EX7.9/example7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    402.12386  
+ 
+ 
+ 
+ 
+ The total amount of heat loss from the surrounding is   
+ 
+    11058.602  
+ 
+ Therms   
+ 
+ 
+ 
+ The annual fuel cost of the oven before insulation is $   
+ 
+    8293.9516  
+ 
+ per year   
+ 
+ 
+ 
+ 
+ 
+ 
+ Total energy consumption by oven on being insulated   
+ 
+    823.39126  
+ 
+ therms   
+ 
+ 
+ 
+ 
+ 
+ The sum of insulation cost and heat loss costs is $   
+ 
+    1705.6434  
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.1/example8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat transfer is   
+ 
+    125.61  
+ 
+ kW   
+ 
+ 
+ 
+ 
+ 
+ Logrithmic Mean temperature difference is   
+ 
+    32.845874  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ Heat Transfer surface area is   
+ 
+    4.7802808  
+ 
+ m^2   
+ 
+ 
+ 
+ Required tube length is   
+ 
+    61.  
+ 
+ m   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.2/example8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The reynolds number is    
+ 
+    1777.3074  
+ 
+ 
+ 
+ Friction factor is   
+ 
+    0.0359955  
+ 
+ 
+ 
+ The Pressure drop is    
+ 
+    48.589066  
+ 
+ kPa   
+ 
+ 
+ 
+ Volumetric flow rate is   
+ 
+    0.0000064  
+ 
+ m^3/s   
+ 
+ 
+ 
+ Mechanical Power Input of   
+ 
+    0.3091103  
+ 
+ W   
+ 
+ 
+ is needed to overcome the frictional losses in the flow due to viscosity   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.3/example8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Reynolds number is   
+ 
+    637.  
+ 
+ 
+ 
+ The thermal entry length is   
+ 
+    103687.56  
+ 
+ m   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exit temperature of oil is   
+ 
+    19.713933  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ The logrithmic mean temperature difference is   
+ 
+  - 19.856623  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ The rate of heat loss from the oil are   
+ 
+  - 67522.756  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+    1184133.3  
+ 
+ 
+ 
+ We need a   
+ 
+    167.40291  
+ 
+ kW   
+ 
+ pump just to overcome the friction in the pipe as the oil flows   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.5/example8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The power rating of the heater is   
+ 
+    34.475475  
+ 
+ kW   
+ 
+ 
+ 
+ Heat flux is   
+ 
+    73.15923  
+ 
+ kW/m^2   
+ 
+ 
+ 
+ 
+ 
+ 
+ The nussel number is   
+ 
+    69.350678  
+ 
+ 
+ 
+ 
+ The surface temperature of the pipe at the exit becomes   
+ 
+    115.  
+ 
+ degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.6/example8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reynolds number is   
+ 
+    35765.379  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The exit temperature of air is   
+ 
+    71.294019  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ The logrithmic mean temperature difference and the rate of heat loss from the  
+      air are                                                                   
+ 
+  - 15.234656  
+ 
+ degree Celcius   
+ 
+ and   
+ 
+  - 1316.  
+ 
+ W   
+ 
+ respectively   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.7/example8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reynolds number is   
+ 
+    7652.6555  
+ 
+ 
+ 
+ 
+ For bell mouth inlet friction coefficient is   
+ 
+    0.0097868  
+ 
+ 
+ 
+ 
+ For square edged inlet case coefficient of friction is   
+ 
+    0.0081846  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH8/EX8.8/example8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reynolds Number is   
+ 
+    6715.3984  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Nusselt number for re-entrant inlet is   
+ 
+    88.259513  
+ 
+ 
+ 
+ (b) Nusselt number for square edged inlet is   
+ 
+    85.309448  
+ 
+ 
+ 
+ (c) Nusselt number for bell mouth inlet is   
+ 
+    21.323328  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.1/example9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Rayleigh number is   
+ 
+    1867257.9  
+ 
+ 
+ 
+  The natural convection Nusselt number is   
+ 
+    17.394004  
+ 
+ 
+ 
+ 
+ 
+ The pipe loses heat to the air in the room at a rate of   
+ 
+    442.  
+ 
+ W   
+ 
+ by natural convection   
+ 
+ 
+ 
+ The radiation heat transfer is   
+ 
+    563.  
+ 
+ W   
+ 
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.3/example9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Rayleigh number is   
+ 
+    18445279.  
+ 
+ 
+ 
+ The optimum spacing is   
+ 
+    0.7454372  
+ 
+ mm   
+ 
+ 
+ 
+ The no of for this optimum fin spacing are   
+ 
+    14.  
+ 
+ 
+ 
+ 
+ 
+ The rate of natural convection heat transfer   
+ 
+    29.394735  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.4/example9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    12.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Rayleigh Number is   
+ 
+    10502.134  
+ 
+ 
+ 
+ The Nusselt Number is   
+ 
+    1.4006895  
+ 
+ 
+ 
+ 
+ 
+ Rate at which Heat is Lost through the window is   
+ 
+    27.072527  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.5/example9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ti  =
+ 
+    320.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Rayleigh Number is   
+ 
+    477453.53  
+ 
+ 
+ 
+ 
+    0.1104489  
+ 
+    0.0052291  
+ 
+ 
+ 
+ The rate of heat transfer between the spheres is   
+ 
+    16.655301  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.6/example9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Rayleigh Number is   
+ 
+    1823622.6  
+ 
+ 
+ 
+ The Nusselt number is   
+ 
+    17.326956  
+ 
+ 
+ 
+ 
+ The rate of natural convection heat transfer from the glass cover to the ambie 
+      nt air is                                                                 
+ 
+    28.175161  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Rayleigh number on assuming higher temperatures   
+ 
+    62489.209  
+ 
+ 
+ 
+ 
+ 
+ The rate of heat transfer between the cylinders is   
+ 
+    35.716152  
+ 
+ W   
+ 
+ 
+ 
+ Therefore tube will reach an equilibrium temperature of 82 degree Celcius when 
+       the pump fails                                                           
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.7/example9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The center of glass U-factor value is   
+ 
+    3.4610709  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH9/EX9.9/example9_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U_c  =
+ 
+    3.24  
+ U_e  =
+ 
+    3.71  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The overall U factor of the entire window is   
+ 
+    3.2810972  
+ 
+ W/m^2.degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.1/example10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Csf  =
+ 
+    0.013  
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) The rate of heat transfer during nucleate boiling becomes    
+ 
+    5095.1366  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The rate of Evaporation of water is   
+ 
+    0.0022575  
+ 
+ kg/s   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.2/example10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Csf  =
+ 
+    0.013  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum or critical heat flux is   
+ 
+    1017411.2  
+ 
+ W/m^2   
+ 
+ 
+ 
+ The surface temperature is   
+ 
+    119.  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.3/example10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The film boiling heat flux is   
+ 
+    63008.004  
+ 
+ W/m^2)   
+ 
+ 
+ 
+ The radiation heat flux is   
+ 
+    372.19933  
+ 
+ W/m^2   
+ 
+ 
+ 
+ The total heat flux is   
+ 
+    63287.153  
+ 
+ W/m^2   
+ 
+ 
+ 
+ The rate of heat transfer from the heating element to the water is   
+ 
+    994.11228  
+ 
+ W   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.4/example10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ Tsat  =
+ 
+    100.  
+ 
+ 
+ L  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The modified latent heat of vapourization is   
+ 
+    2314201.6  
+ 
+ J/kg   
+ 
+ 
+ 
+ For wavy laminar flow Reynolds number is   
+ 
+    1288.  
+ 
+ 
+ 
+ The conensation heat transfer coefficient is   
+ 
+    5850.1765  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ 
+ The rate of heat transfer during condensation process is   
+ 
+    702021.18  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The rate of condensation of steam is   
+ 
+    0.3033535  
+ 
+ kg/s   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.5/example10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ Tsat  =
+ 
+    100.  
+ 
+ 
+ L  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The modified latent heat of vapourization is   
+ 
+    2314201.6  
+ 
+ J/kg   
+ 
+ 
+ 
+ For wavy laminar flow Reynolds number is   
+ 
+    1288.  
+ 
+ 
+ 
+ The conensation heat transfer coefficient is   
+ 
+    5643.5403  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ 
+ The rate of heat transfer during condensation process is   
+ 
+    677224.83  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The rate of condensation of steam is   
+ 
+    0.2926387  
+ 
+ kg/s   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.6/example10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) The modified latent heat of vapourisation is   
+ 
+    2435410.4  
+ 
+ J/kg   
+ 
+ 
+ 
+ The heat transfer coefficient for condensation on a single horizontal tube is  
+ 
+    9294.6622  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ 
+ The rate of heat transfer during condensation Process is   
+ 
+    8760.0127  
+ 
+ W   
+ 
+ 
+ 
+ 
+ (b) The rate of condensation of steam is   
+ 
+    0.0035969  
+ 
+ kg/s   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.7/example10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) The modified latent heat of vapourisation is   
+ 
+    2435410.4  
+ 
+ J/kg   
+ 
+ 
+ 
+ The heat transfer coefficient for condensation 12 horizontal tube is   
+ 
+    7062.416  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ 
+ The rate of heat transfer during condensation Process is   
+ 
+    79874.043  
+ 
+ W   
+ 
+ 
+ 
+ 
+ (b) The rate of condensation of steam is   
+ 
+    0.0327970  
+ 
+ kg/s   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH10/EX10.8/example10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The diameter of the copper pipe is   
+ 
+    24.  
+ 
+ cm   
+ 
+ 
+ 
+ Mass of the copper rod is   
+ 
+    120.  
+ 
+ kg   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.1/example11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The average velocity of water in the tube is   
+ 
+    1.6074633  
+ 
+ m/s   
+ 
+ 
+ 
+ The Reynolds number for flow of water in the tube is   
+ 
+    53404.097  
+ 
+ 
+ 
+ The nusselt no for turbulent water flow   
+ 
+    240.24713  
+ 
+ 
+ 
+ 
+ 
+ 
+ The average velocity for flow of oil is   
+ 
+    2.3910602  
+ 
+ m/s   
+ 
+ 
+ 
+ The Reynolds number for flow of oil is   
+ 
+    630.22145  
+ 
+ 
+ 
+ 
+ 
+ The overall heat transfer Coefficient for the given heat exchanger is   
+ 
+    74.477958  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.2/Example11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thermal Resistance for an unfinned shell and tube heat exchanger with foul 
+      ing on both heat transfer surfaces is                                     
+ 
+    0.0531419  
+ 
+ m^2.degree Celcius/W   
+ 
+ 
+ 
+ 
+ 
+ The overall Heat transfer Coefficients based on the inner and outer surfaces o 
+      f the tube are                                                            
+ 
+    399.32056  
+ 
+ and   
+ 
+    315.25307  
+ 
+ W/m^2.degree Celcius   
+ 
+ respectively   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.3/example11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ Th_in  =
+ 
+    30.  
+ Th_out  =
+ 
+    30.  
+ Tc_in  =
+ 
+    14.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The logrithmic Mean temperature difference is   
+ 
+    11.54156  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ The heat transfer rate in the condenser is   
+ 
+    1090677.5  
+ 
+ W   
+ 
+ 
+ 
+ The mass flow rate of the cooling water is   
+ 
+    32.584771  
+ 
+ kg/s   
+ 
+ 
+ 
+ 
+ The rate of condensation of steam is   
+ 
+    0.4486538  
+ 
+ kg/s   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.4/example11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ mw  =
+ 
+    1.2  
+ 
+ 
+ 
+ Tw_out  =
+ 
+    80.  
+ 
+ 
+ Cp_w  =
+ 
+    4.18  
+ 
+ 
+ 
+ 
+ The rate of heat transfer in the heat exchanger is   
+ 
+    301.  
+ 
+ kW   
+ 
+ 
+ 
+ The outlet temp of geothermal fluid is   
+ 
+    125.08121  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ 
+ The logrithmic Mean temperature difference is   
+ 
+    91.971324  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ The surface area of the heat exchanger is   
+ 
+    5.1136863  
+ 
+ m^2   
+ 
+ 
+ 
+ The length of the tube is   
+ 
+    109.  
+ 
+ m   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.5/example11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Th_in  =
+ 
+    80.  
+ Th_out  =
+ 
+    40.  
+ Tc_in  =
+ 
+    20.  
+ 
+ hi  =
+ 
+    160.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The log mean temperature difference for the counter flow arrangement is   
+ 
+    24.663035  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ 
+ In case of no fouling, the over all heat transfer coefficient is   
+ 
+    21.621622  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ And the rate of heat transfer is   
+ 
+    1830.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ When there is fouling on one of the surfaces, the overall heat transfer coeffi 
+      cient is                                                                  
+ 
+    21.344717  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ And the rate of heat transfer is   
+ 
+    1806.  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.6/example11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Th_in  =
+ 
+    90.  
+ Th_out  =
+ 
+    65.  
+ Tc_in  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat transfer in the radiator from the hot water to the air is   
+ 
+    62925.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ The log mean temperature difference for the counter flow arrangement is   
+ 
+    47.456108  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ the overall heat transfer coefficient is   
+ 
+    3347.  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.7/example11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Th_in  =
+ 
+    90.  
+ Th_out  =
+ 
+    65.  
+ Tc_in  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rate of heat transfer in the radiator from the hot water to the air is   
+ 
+    62925.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ The log mean temperature difference for the counter flow arrangement is   
+ 
+    47.456108  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ the overall heat transfer coefficient is   
+ 
+    3347.  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.8/example11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ mc  =
+ 
+    1.2  
+ 
+ 
+ 
+ Tc_out  =
+ 
+    80.  
+ 
+ 
+ Cp_c  =
+ 
+    4.18  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum heat transfer rate is   
+ 
+    702.24  
+ 
+ kW   
+ 
+ 
+ 
+ 
+ The effectiveness of the heat exchanger is   
+ 
+    0.4285714  
+ 
+ 
+ 
+ The NTU of this counter flow heat exchanger is   
+ 
+    0.6523622  
+ 
+ 
+ 
+ The heat transfer surface area is   
+ 
+    5.1128887  
+ 
+ m^2   
+ 
+ 
+ 
+ The length of the tube is   
+ 
+    108.  
+ 
+ m   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.9/example11_9.sce #
+ 
+ 
+ 
+ 
+ 
+ Cp_c  =
+ 
+    4.18  
+ 
+ mc  =
+ 
+    0.2  
+ 
+ Th_in  =
+ 
+    150.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum heat transfer rate is   
+ 
+    83.07  
+ 
+ kW   
+ 
+ 
+ 
+ Heat transfer Surface Area is   
+ 
+    1.7592919  
+ 
+ m^2   
+ 
+ 
+ 
+ The NTU of this heat exchanger is   
+ 
+    853.49059  
+ 
+ 
+ 
+ 
+ 
+ 
+ The temperature of cooling water will rise from   
+ 
+    20.  
+ 
+ degree Celcius   
+ 
+ to   
+ 
+    66.702033  
+ 
+ degree Celcius   
+ 
+ 
+ as it cools the hot oil from   
+ 
+    150.  
+ 
+ degree Celcius   
+ 
+ to   
+ 
+    88.9  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH11/EX11.10/example11_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Th_in  =
+ 
+    80.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximun Heat recover is   
+ 
+    67.925  
+ 
+ kJ/kg.degree Celcius   
+ 
+ 
+ 
+ 
+ The energy saved during an entire year will be   
+ 
+    1.607D+09  
+ 
+ kJ/year   
+ 
+ 
+ 
+ Fuel savings will be   
+ 
+    19035.096  
+ 
+ therms/year   
+ 
+ 
+ 
+ The amount of money saved is $   
+ 
+    20938.606  
+ 
+ per year   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH12/EX12.1/example12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The ball emits   
+ 
+    23.22432  
+ 
+ kJ   
+ 
+ of energy in the form of energy in the form of electromagnetic radiation per s 
+      econd per m^2                                                             
+ 
+ 
+ 
+ 
+ The total Surface area of the ball is   
+ 
+    0.1256637  
+ 
+ m^2   
+ 
+ 
+ 
+ 
+ The total amount of radiation energy emitted from the entire ball is   
+ 
+    875.53624  
+ 
+ kJ   
+ 
+ 
+ 
+ 
+ The spectral blackbody emissive power   
+ 
+    3846.  
+ 
+ W/m^2.micrometer   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH12/EX12.2/example12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ lambda1  =
+ 
+    0.4  
+ 
+ f1  =
+ 
+    0.000321  
+ 
+ 
+ 
+ 
+ Fraction of radiation emitted between the two given wavelengths is   
+ 
+    0.052714  
+ 
+ 
+ 
+ The wavelength at which the emission of radiation from the filament peaks is   
+ 
+    1.15912  
+ 
+ micron   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH12/EX12.3/example12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ theta1  =
+ 
+    0.9599311  
+ 
+ 
+ 
+ 
+ 
+ The solid angle subtended by a2 when viewed from A1 is   
+ 
+    0.0006809  
+ 
+ sr   
+ 
+ 
+ 
+ The Intensity of radiation emitted by A1 is   
+ 
+    2339.0429  
+ 
+ W/m^2.sr   
+ 
+ 
+ 
+ The rate of radiation energy emitted by A1 in the direction of   
+ 
+    0.9599311  
+ 
+ radians   
+ 
+ through the solid angle   
+ 
+    0.0006809  
+ 
+ Steradian   
+ 
+ is    
+ 
+    0.9136474  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH12/EX12.4/example12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lambda1  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average emissivity of the surface is   
+ 
+    0.5206042  
+ 
+ 
+ 
+ The Emissive Power of the surface is   
+ 
+    12090.679  
+ 
+ W/m^2   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH12/EX12.5/example12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ G_D  =
+ 
+    400.  
+ 
+ Ts  =
+ 
+    320.  
+ 
+ theta  =
+ 
+    0.3490659  
+ 
+ 
+ G_solar  =
+ 
+    675.87705  
+ 
+ 
+ ab_a  =
+ 
+    0.9  
+ 
+ 
+ 
+ (a) The net radiation heat transfer is   
+ 
+    306.  
+ 
+ W/m^2   
+ 
+ 
+ ab_b  =
+ 
+    0.1  
+ 
+ 
+ 
+ The net radiation heat transfer is   
+ 
+    34.  
+ 
+ W/m^2   
+ 
+ 
+ ab_c  =
+ 
+    0.9  
+ 
+ 
+ 
+ 
+ The net radiation heat transfer is   
+ 
+    575.  
+ 
+ W/m^2   
+ 
+ 
+ ab_d  =
+ 
+    0.1  
+ 
+ 
+ 
+ The net radiation heat transfer is   
+ 
+  - 234.  
+ 
+ W/m^2   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH12/EX12.6/example12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ SHGC_wof  =
+ 
+    0.766  
+ 
+ 
+ 
+ COP  =
+ 
+    2.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The decrease in the annual cooling load is   
+ 
+    10365.428  
+ 
+ kWh/year   
+ 
+ 
+ 
+ The increase in annual heating load is   
+ 
+    11073.842  
+ 
+ kWh/year   
+ 
+ 
+ 
+ 
+ The corresponding decrease in cooling costs and the increase in heating costs  
+      are $                                                                     
+ 
+    331.6937  
+ 
+ and $   
+ 
+    236.13617  
+ 
+ per year   
+ 
+ 
+ 
+ The net annual cost savings due to the reflective film is $   
+ 
+    95.557522  
+ 
+ per year   
+ 
+ 
+ 
+ The implementation Cost of installing films is $   
+ 
+    800.  
+ 
+ 
+ 
+ Payback Period is   
+ 
+    8.3719207  
+ 
+ years   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.1/example13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This enclosure involves    
+ 
+    4.  
+ 
+ View Factors   
+ 
+ 
+ 
+ W need to determine only   
+ 
+    1.  
+ 
+ view factor directly   
+ 
+ 
+ 
+ 
+ The Two view Factors   
+ 
+ 
+ Since no radiation leaving surface 1 strikes itself..... F11=   
+ 
+    0.  
+ 
+ 
+ Since all radiation leaving surface 1 strikes surface 2    F12=   
+ 
+    1.  
+ 
+ 
+ F12= ((r1/r2)^2)   
+ 
+ 
+ F22= 1-((r1/r2)^2)   
+ 
+ 
+ where r1 and r2 are radius of surface 1 and surface 2   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.2/example13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r2  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The fraction of the radiation leaving the base cyllinder enclosure that escape 
+      s through coaxial ring opening at its top surface is                      
+ 
+    0.17  
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.3/example13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Each side pf the four surfaces of the pyramid recieves   
+ 
+    0.25  
+ 
+ of total radiation   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.5/example13_5.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    12.  
+ 
+ 
+ L1  =
+ 
+    12.  
+ L2  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F14=   
+ 
+    1.2095748  
+ 
+ F13=   
+ 
+    0.1909830  
+ 
+ Therefore from two different methods F12_1=F12_2=   
+ 
+    0.2502964  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.6/example13_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tb  =
+ 
+    800.  
+ Tt  =
+ 
+    1500.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The net rate of heat transfer from surface1 to surface3 is   
+ 
+    394.  
+ 
+ kW   
+ 
+ 
+ 
+ The net rate of radiation heat transfer from siurface1 to surface2 is   
+ 
+  - 1319.  
+ 
+ kW   
+ 
+ 
+ 
+ Rhe net radiation heat transfer from the base surface is   
+ 
+  - 925.  
+ 
+ kW   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.7/example13_7.sce #
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    800.  
+ 
+ e1  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ The net heat at the rate of   
+ 
+    3625.  
+ 
+ W   
+ 
+ is transferred from plate 1 to plate 2 by radiation per unit surface area of e 
+      ither plate                                                               
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.8/example13_8.sce #
+ 
+ 
+ 
+ 
+ 
+ ro  =
+ 
+    1.  
+ 
+ e1  =
+ 
+    0.8  
+ 
+ T1  =
+ 
+    700.  
+ 
+ 
+ F11  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.9/example13_9.sce #
+ 
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    1.  
+ A2  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    600.  
+ 
+ 
+ F12  =
+ 
+    0.5  
+ F13  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ Heat at the rate of   
+ 
+    28.  
+ 
+ kW   
+ 
+ 
+ must be supplied to the heated surface per unit lemgth of the duct to maintain 
+       steady operation in the furnace                                          
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.11/example13_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    800.  
+ 
+ e1  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ Radiation Heat Transfer   
+ 
+    806.  
+ 
+ W/m^2   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.12/example13_12.sce #
+ 
+ 
+ 
+ 
+ 
+ Tw  =
+ 
+    400.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The temperature of actual air is   
+ 
+    715.  
+ 
+ K   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.13/example13_13.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    5.  
+ 
+ 
+ 
+ yN2  =
+ 
+    0.8  
+ yH2O  =
+ 
+    0.08  
+ yO2  =
+ 
+    0.07  
+ 
+ 
+ 
+ 
+ 
+ The partial pressures of CO2 and H2O are   
+ 
+    0.1  
+ 
+ atm   
+ 
+ and   
+ 
+    0.16  
+ 
+ atm   
+ 
+ 
+ x  =
+ 
+    0.3  
+ 
+ ec_1  =
+ 
+    0.16  
+ 
+ Cc  =
+ 
+    1.1  
+ 
+ 
+ 
+ 
+ The effectivity of the combustion gases is   
+ 
+    0.45  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.14/example13_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ d  =
+ 
+    5.  
+ 
+ Tg  =
+ 
+    1200.  
+ 
+ Pc  =
+ 
+    0.1  
+ L  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ ec_1  =
+ 
+    0.11  
+ 
+ Cc  =
+ 
+    1.1  
+ 
+ 
+ 
+ 
+ The absorptivities of CO2 and H2O are   
+ 
+    0.1898694  
+ 
+ and   
+ 
+    0.4781141  
+ 
+ 
+ 
+ 
+ The absorptivity of the combustion gases is   
+ 
+    0.6409834  
+ 
+ 
+ 
+ the surface area of the cylindrical surface is   
+ 
+    118.  
+ 
+ m^2   
+ 
+ 
+ 
+ The net rate of radiation heat transfer from the combustion gases to walls of  
+      the furnace is                                                            
+ 
+    5687334.8  
+ 
+ W   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH13/EX13.15/example13_15.sce #
+ 
+ 
+ 
+ 
+ h_rad  =
+ 
+    4.7  
+ 
+ 
+ T_skin  =
+ 
+    33.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The sensible heat loss from this person when clothed is   
+ 
+    95.218617  
+ 
+ W   
+ 
+ 
+ 
+ 
+ T_amb_new  =
+ 
+    26.919629  
+ 
+ 
+ The ambient temperature now is   
+ 
+    26.919629  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.1/example14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ yN2  =
+ 
+    0.781  
+ yO2  =
+ 
+    0.209  
+ 
+ M_N2  =
+ 
+    28.  
+ M_O2  =
+ 
+    32.  
+ 
+ 
+ 
+ 
+ The molar mass of air is   
+ 
+    28.955  
+ 
+ kg/kmol   
+ 
+ 
+ 
+ 
+ 
+ The mass fractions of N2, O2 and Ar in dry standard atmosphere are   
+ 
+    75.524089  
+ 
+ percent   
+ 
+ ,   
+ 
+    23.097911  
+ 
+ percent   
+ 
+ and   
+ 
+    1.3780003  
+ 
+ percent   
+ 
+ respectively   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.2/example14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The mole fraction of water vapor in the air at the surface of lake is   
+ 
+    0.0185326  
+ 
+ 
+ 
+ Mole fraction of liquid water in lake   
+ 
+    0.9814674  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.3/example14_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The partial pressure of dry air is   
+ 
+    0.9004  
+ 
+ bar   
+ 
+ 
+ 
+ The mole fraction of air in the water is   
+ 
+    0.0000145  
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.4/example14_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The molar density of hydrogen in the nickel at the interface is   
+ 
+    0.02703  
+ 
+ kmol/m^3   
+ 
+ 
+ 
+ Mass Density of hydrogen is   
+ 
+    0.05406  
+ 
+ kg/m^3   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.5/example14_5.sce #
+ 
+ 
+ 
+ 
+ 
+ CA1  =
+ 
+    0.087  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The molar flow rate of hydrogen through the shell by diffusion is   
+ 
+    1.228D-10  
+ 
+ kmol/s   
+ 
+ 
+ 
+ The mass flow rate of hydrogen is   
+ 
+    2.456D-10  
+ 
+ kg/s   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.6/example14_6.sce #
+ 
+ 
+ 
+ 
+ Ti  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ Rv_int  =
+ 
+    0.0124  
+ 
+ phi1  =
+ 
+    0.6  
+ 
+ Psat1  =
+ 
+    2340.  
+ 
+ 
+ 
+ 
+ The rate of heat transfer through unit area of wall is   
+ 
+    11.803279  
+ 
+ W   
+ 
+ 
+ 
+ The temperature of outer sheathing interface is   
+ 
+  - 11.278689  
+ 
+ degree Celcius   
+ 
+ 
+ 
+ 
+ 
+ The vapor pressure at the indoor and the outdoor is   
+ 
+    1404.  
+ 
+ Pa   
+ 
+ and   
+ 
+    106.  
+ 
+ Pa   
+ 
+ 
+ 
+ 
+ The rate of moisture flow through the interior and exterior parts of the wall  
+      is                                                                        
+ 
+    94354.839  
+ 
+ ng/s   
+ 
+ and   
+ 
+    3911.5854  
+ 
+ ng/s   
+ 
+ 
+ 
+ The moisture is freezing in the insulation at the rate of   
+ 
+    90443.253  
+ 
+ ng/s   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.7/example14_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Time taken to reach desired level of hardening is   
+ 
+    4505.  
+ 
+ seconds   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.8/example14_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ M_He  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_He0  =
+ 
+    1.  
+ 
+ 
+ 
+ The molar flow rate of Helium is   
+ 
+    3.853D-12  
+ 
+ kmol/s   
+ 
+ 
+ 
+ Mass flow rate of helium is   
+ 
+    1.541D-11  
+ 
+ kg/s   
+ 
+ 
+ 
+ 
+ The flow rate of air into the pipeline is   
+ 
+  - 1.118D-10  
+ 
+ kg/s   
+ 
+ 
+ 
+ Mass fraction of air in the helium pipeline is   
+ 
+    1.16  
+ 
+ which is negligible   
+ 
+ 
+ 
+ 
+ 
+ 
+ The average flow velocity at the bottom of the tube is   
+ 
+  - 0.0000300  
+ 
+ m/s   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.9/example14_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The mole fraction of water vapor (species A) at the Interface is   
+ 
+    0.0280240  
+ 
+ 
+ 
+ 
+ 
+ The cross sectional area of tube   
+ 
+    0.0007069  
+ 
+ m^2   
+ 
+ 
+ 
+ 
+ The molar flow rate of vapor is   
+ 
+    5.273D-11  
+ 
+ kmol/s   
+ 
+ 
+ 
+ Binary diffusion coefficient of water vapor in air at 20 degree Celcius and 83 
+      .5kPa                                                                     
+ 
+    0.0000306  
+ 
+ m^2/s   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.10/example14_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The mass diffusivity of water vapor in air at 300K is   
+ 
+    0.0000254  
+ 
+ m^2/s   
+ 
+ 
+ 
+ The Reynolds number for internal flow is   
+ 
+    1139.  
+ 
+ 
+ laminar Flow   
+ 
+ The mass transfer coefficient is   
+ 
+    0.0061919  
+ 
+ m/s   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.11/example14_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mass fraction at the surface is   
+ 
+    0.0004799  
+ 
+ 
+ 
+ The rate of evaporation of napthalene is   
+ 
+    0.0000133  
+ 
+ kg/s   
+ 
+ 
+ 
+ The mass convection coefficient is   
+ 
+    0.0782167  
+ 
+ m/s   
+ 
+ 
+ 
+ 
+ The average heat transfer coefficient is   
+ 
+    215.  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.12/example14_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ M_A  =
+ 
+    18.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Lewis Number is   
+ 
+    0.8564  
+ 
+ 
+ 
+ The vapor pressure of air away from the surface is   
+ 
+    1.7  
+ 
+ kPa   
+ 
+ 
+ 
+ The temperature of the drink can be lowered to   
+ 
+    19.405873  
+ 
+ degree Celcius   
+ 
+grepthis#Heat_And_Mass_Transfer_-_A_Practical_Approach_Y._A._Cengel_587/CH14/EX14.13/example14_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The radiation heat loss from the water to the surrounding surface is   
+ 
+    663.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Density of water vapor at the surface is   
+ 
+    0.0828500  
+ 
+ kg/m^3   
+ 
+ 
+ 
+ Density of air at the surface is   
+ 
+    0.8592140  
+ 
+ kg/m^3   
+ 
+ 
+ 
+ Density of mixture at the surface is   
+ 
+    0.9420641  
+ 
+ kg/m^3   
+ 
+ 
+ 
+ 
+ Density of vapor away from the surface is   
+ 
+    0.0119860  
+ 
+ kg/m^3   
+ 
+ 
+ 
+ Density of air away from the surface is   
+ 
+    1.0564226  
+ 
+ kg/m^3   
+ 
+ 
+ 
+ The density of mixture away from the surface is   
+ 
+    1.0684086  
+ 
+ kg/m^3   
+ 
+ 
+ 
+ The characteristic length is   
+ 
+    0.3888889  
+ 
+ m   
+ 
+ 
+ 
+ The Grashof number is   
+ 
+    2.121D+08  
+ 
+ 
+ 
+ The Nusselt number is   
+ 
+    80.407527  
+ 
+ 
+ 
+ The convection heat transfer coefficient is   
+ 
+    5.4667929  
+ 
+ W/m^2.degree Celcius   
+ 
+ 
+ 
+ The natural convection heat transfer rate is   
+ 
+    479.  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The mass diffusivity of water vapor in air at the average temperature is   
+ 
+    0.0000300  
+ 
+ m^2/s   
+ 
+ 
+ 
+ The Schmidt Number is   
+ 
+    0.6160485  
+ 
+ 
+ 
+ The Sherwood Number is   
+ 
+    76.11722  
+ 
+ 
+ 
+ The mass transfer coefficient is   
+ 
+    0.0058746  
+ 
+ m/s   
+ 
+ 
+ 
+ The evaporation rate is   
+ 
+    0.0014570  
+ 
+ kg/s   
+ 
+ 
+ 
+ The rate of heat transfer by evaporation is   
+ 
+    3.4721411  
+ 
+ kW   
+ 
+ 
+ 
+ The total rate of heat transfer from the water to the surrounding air and surf 
+      aces is                                                                   
+ 
+    4613.0634  
+ 
+ W   
+ 

@@ -1,0 +1,250 @@
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH5/EX5.3/ma_bode.sce
+ 
+ 
+ 
+exec('label.sci',-1);
+                     !--error 241 
+File "label.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH5/EX5.3/ma_bode.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH5/EX5.4/derv_bode.sce
+ 
+ 
+ 
+exec('label.sci',-1);
+                     !--error 241 
+File "label.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH5/EX5.4/derv_bode.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.14/fir_cra_ex1.sce
+ 
+ 
+ 
+exec('cra.sci',-1);
+                   !--error 241 
+File "cra.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.14/fir_cra_ex1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.15/arx_est.sce
+ 
+ 
+ 
+exec('armac1.sci',-1);
+                      !--error 241 
+File "armac1.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.15/arx_est.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.16/armax_est.sce
+ 
+ 
+ 
+exec('cra.sci',-1);
+                   !--error 241 
+File "cra.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.16/armax_est.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.17/oe_est.sce
+ 
+ 
+ 
+exec('armac1.sci',-1);
+                      !--error 241 
+File "armac1.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.17/oe_est.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.2/nyquist_ex1.sce
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.2/nyquist_ex1.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.3/lead_exp.sce
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.3/lead_exp.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.13/arma_ex.sce
+ 
+ 
+ 
+exec('plotacf.sci',-1);
+                       !--error 241 
+File "plotacf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.13/arma_ex.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.3/acf_ex.sce
+ 
+ 
+ 
+exec('plotacf.sci',-1);
+                       !--error 241 
+File "plotacf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.3/acf_ex.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.4/max_ex.sce
+ 
+ 
+ 
+exec('label.sci',-1);
+                     !--error 241 
+File "label.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.4/max_ex.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.9/pacf_ex.sce
+ 
+ 
+ 
+exec('pacf.sci',-1);
+                    !--error 241 
+File "pacf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.9/pacf_ex.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH5/EX5.1/incr_freq.sce
+ 
+ 
+ 
+exec('stem.sci',-1);
+                    !--error 241 
+File "stem.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH5/EX5.1/incr_freq.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.4/lead_lag.sce
+ 
+ 
+ 
+exec('tf.sci',-1)
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.4/lead_lag.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH13/EX13.10/gmv_mac1_loop.sce
+ 
+ 
+ 
+exec('gmv.sci',-1);
+                   !--error 241 
+File "gmv.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH13/EX13.10/gmv_mac1_loop.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.7/unique_ma.sce
+ 
+ 
+ 
+exec('plotacf.sci',-1);
+                       !--error 241 
+File "plotacf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.7/unique_ma.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.12/ma_pacf.sce
+ 
+ 
+ 
+exec('plotacf.sci',-1);
+                       !--error 241 
+File "plotacf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.12/ma_pacf.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH14/EX14.3/kalrun.sce
+ 
+ 
+ 
+exec('kal_ex.sci',-1);
+                      !--error 241 
+File "kal_ex.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH14/EX14.3/kalrun.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.11/division.sce
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.11/division.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH4/EX4.3/pz.sce
+ 
+ 
+ 
+exec('label.sci',-1);
+                     !--error 241 
+File "label.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH4/EX4.3/pz.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH5/EX5.5/nmp.sce
+ 
+ 
+ 
+exec('label.sci',-1);
+                     !--error 241 
+File "label.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH5/EX5.5/nmp.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH6/EX6.5/ma.sce
+ 
+ 
+ 
+exec('plotacf.sci',-1);
+                       !--error 241 
+File "plotacf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH6/EX6.5/ma.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH7/EX7.5/lead_vfy.sce
+ 
+ 
+ 
+exec('tf.sci',-1);
+                  !--error 241 
+File "tf.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH7/EX7.5/lead_vfy.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH13/EX13.9/lqg_visc_loop.sce
+ 
+ 
+ 
+exec('lqg1.sci',-1);
+                    !--error 241 
+File "lqg1.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH13/EX13.9/lqg_visc_loop.sce',-1)
+ 
+ERROR: Digital_Control_K._M._Moudgalya_2048/CH5/EX5.2/filter1.sce
+ 
+ 
+ 
+exec('label.sci',-1);
+                     !--error 241 
+File "label.sci" does not exist.
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Digital_Control_K._M._Moudgalya_2048/CH5/EX5.2/filter1.sce',-1)
+ 

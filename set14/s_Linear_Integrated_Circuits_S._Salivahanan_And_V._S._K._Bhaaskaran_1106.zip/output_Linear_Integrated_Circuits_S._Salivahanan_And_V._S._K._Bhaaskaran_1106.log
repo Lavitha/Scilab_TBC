@@ -1,0 +1,4762 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 107
+
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH1/EX1.1/ex1_1.sce #
+ 
+ 
+ 
+ 
+ Rs  =
+ 
+    200.  
+ 
+ R  =
+ 
+    5000.  
+ 
+ luponw  =
+ 
+    25.  
+ 
+L upon W =25 
+
+5kohm resistor can be fabricated by using a pattern of 25 mil*1mil 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH1/EX1.2/ex1_2.sce #
+ 
+ 
+ 
+ 
+ Rs  =
+ 
+    30.  
+ 
+ R  =
+ 
+    1000.  
+ 
+ luponw  =
+ 
+    33.333333  
+ 
+L upon W =100/3 
+
+1kohm resistor can be fabricated by using a pattern of 100 mil* 3 mil 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.1/ex2_1.sce #
+ 
+ 
+ 
+ 
+ Vcc  =
+ 
+    5.  
+ 
+ Vbeon  =
+ 
+    0.6  
+ 
+ Beta  =
+ 
+    150.  
+ 
+ Io  =
+ 
+    0.0001  
+ 
+ Iref  =
+ 
+    0.0001013  
+ 
+ Iref  =
+ 
+    101.33333  
+ 
+Iref= 101.33 uA 
+ 
+ R  =
+ 
+    0.0434211  
+ 
+ R  =
+ 
+    43.421053  
+ 
+
+Resistance= 43.42 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.2/ex2_2.sce #
+ 
+ 
+ 
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Vcc  =
+ 
+    12.  
+ 
+ Rc1  =
+ 
+    1000.  
+ 
+ Rc2  =
+ 
+    330.  
+ 
+ 
+ Iref  =
+ 
+    0.0113  
+ 
+ I0  =
+ 
+    0.0113  
+ 
+ V0  =
+ 
+    8.271  
+ 
+ 
+ Iref  =
+ 
+    11.3  
+ 
+Iref= 11.3 mA 
+
+V0= 8.271 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.3/ex2_3.sce #
+ 
+ 
+ 
+ 
+ Vbe  =
+ 
+    0.6  
+ 
+ Vz  =
+ 
+    4.7  
+ 
+ Re  =
+ 
+    1000.  
+ 
+ 
+ Vre  =
+ 
+    4.1  
+ 
+ 
+ I  =
+ 
+    0.0041  
+ 
+ I  =
+ 
+    4.1  
+ 
+I=4.1 mA 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.4/ex2_4.sce #
+ 
+ 
+ 
+ 
+ Vcc  =
+ 
+    20.  
+ 
+ R1  =
+ 
+    19300.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Ic2  =
+ 
+    0.000005  
+ 
+ Vt  =
+ 
+    0.026  
+ 
+ 
+ Ic1  =
+ 
+    0.001  
+ 
+ 
+ R2  =
+ 
+    27551.25  
+ 
+ 
+ Ic1  =
+ 
+    1.  
+ 
+ R2  =
+ 
+    27.55125  
+ 
+Ic1= 1 mA 
+
+R2= 27.55 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.5/ex2_5.sce #
+ 
+ 
+ 
+ 
+ Beta  =
+ 
+    100.  
+ 
+ R  =
+ 
+    20000.  
+ 
+ Vcc  =
+ 
+    5.  
+ 
+ Vbe  =
+ 
+    0.6  
+ 
+ Iref  =
+ 
+    0.00022  
+ 
+ N  =
+ 
+    3.  
+ 
+ 
+ Ic  =
+ 
+    0.0002288  
+ 
+ Ic1  =
+ 
+    0.0002115  
+ 
+ Ic2  =
+ 
+    0.0002115  
+ 
+ Ic3  =
+ 
+    0.0002115  
+ 
+ 
+ Iref  =
+ 
+    0.22  
+ 
+Iref= 0.22 mA 
+ Ic1  =
+ 
+    0.2115385  
+ 
+
+Ic1=Ic2=Ic3= 0.212 mA 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.6/ex2_6.sce #
+ 
+ 
+ 
+ 
+ Iref  =
+ 
+    0.00025  
+ 
+ Io  =
+ 
+    0.0002  
+ 
+ kn  =
+ 
+    0.00002  
+ 
+ Vth  =
+ 
+    1.  
+ 
+ Vgs2  =
+ 
+    1.752  
+ 
+ lamb  =
+ 
+    0.  
+ 
+ Vdd  =
+ 
+    5.  
+ 
+ Vss  =
+ 
+    0.  
+ 
+ 
+ wbyltwo  =
+ 
+    17.683341  
+ 
+W/L2= 17.7 
+ 
+ Vdssat  =
+ 
+    0.752  
+ 
+
+Vds(sat)= 0.752 V 
+ 
+ Vgs1  =
+ 
+    1.752  
+ 
+ wbylone  =
+ 
+    22.104176  
+ 
+
+W/L1= 22.1 
+ 
+ Vgs3  =
+ 
+    3.248  
+ 
+
+Vgs3= 3.248 V 
+ 
+ wbylthr  =
+ 
+    2.4735312  
+ 
+
+W/L3= 2.47 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.7/ex2_7.sce #
+ 
+ 
+ 
+ 
+ cmrra  =
+ 
+    1000.  
+ 
+ cmrrb  =
+ 
+    10000.  
+ 
+ v1a  =
+ 
+    0.0001  
+ 
+ v2a  =
+ 
+  - 0.0001  
+ 
+ v1b  =
+ 
+    0.0011  
+ 
+ v2b  =
+ 
+    0.0009  
+ 
+ 
+ 
+ vida  =
+ 
+    0.0002  
+ 
+ vcma  =
+ 
+    0.  
+ 
+ vic  =
+ 
+    0.  
+ 
+ voa  =
+ 
+    0.0002  
+ 
+ voa  =
+ 
+    200.  
+ 
+Vo for first set= 200.0 uV 
+ 
+ 
+ vidb  =
+ 
+    0.0002  
+ 
+ vic  =
+ 
+    0.001  
+ 
+ vob  =
+ 
+    0.0002001  
+ 
+ vob  =
+ 
+    200.1  
+ 
+
+Vo for second set= 200.1 uV 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.8/ex2_8.sce #
+ 
+ 
+ 
+ 
+ Beta  =
+ 
+    100.  
+ 
+ Vee  =
+ 
+    15.  
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Re  =
+ 
+    65000.  
+ 
+ Rc  =
+ 
+    65000.  
+ 
+ alpha  =
+ 
+    0.9900990  
+ 
+ Ve  =
+ 
+  - 0.7  
+ 
+ 
+ Ie  =
+ 
+    0.00011  
+ 
+ Ic  =
+ 
+    0.0001089  
+ 
+ Ib  =
+ 
+    0.0000011  
+ 
+ 
+ Vc  =
+ 
+    7.9207921  
+ 
+ 
+ Vce  =
+ 
+    8.6207921  
+ 
+ 
+ Ie  =
+ 
+    110.  
+ 
+Ie= 110.0 uA 
+ 
+ Ic  =
+ 
+    108.91089  
+ 
+
+Ic= 108.9 uA 
+ 
+ Ib  =
+ 
+    1.0891089  
+ 
+
+Ib= 1.089 uA 
+ 
+
+Vc= 7.921 V 
+
+Vce= 8.621 V 
+ 
+ 
+ 
+ Ieapprox  =
+ 
+    0.0001154  
+ 
+ Ieapprox  =
+ 
+    115.38462  
+ 
+
+Ie (approx)= 115.38 uA 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH2/EX2.9/ex2_9.sce #
+ 
+ 
+ 
+ 
+ Vdd  =
+ 
+    12.  
+ 
+ Vss  =
+ 
+  - 12.  
+ 
+ Iss  =
+ 
+    0.000175  
+ 
+ Rd  =
+ 
+    65000.  
+ 
+ kn  =
+ 
+    0.003  
+ 
+ Vth  =
+ 
+    1.  
+ 
+ 
+ Ids  =
+ 
+    0.0000875  
+ 
+ 
+ Vgs  =
+ 
+    1.2415229  
+ 
+ 
+ Vds  =
+ 
+    7.5540229  
+ 
+ 
+ 
+ Vicmax  =
+ 
+    7.3125  
+ 
+ 
+ Ids  =
+ 
+    87.5  
+ 
+
+Ids=87.5 uA 
+
+Vgs=1.242 V 
+
+Vds=7.55 V 
+
+Vicmax=7.31 V 
+
+Requirement of saturation for M1 
+for non-zero Vic necessiates Vic <= 7.312 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.1/ex3_1.sce #
+ 
+ 
+ 
+ 
+ Vp  =
+ 
+    15.  
+ 
+ Vm  =
+ 
+  - 15.  
+ 
+ R5  =
+ 
+    40000.  
+ 
+ Vbe11  =
+ 
+    0.7  
+ 
+ Vbe12  =
+ 
+    0.7  
+ 
+ 
+ Iref  =
+ 
+    0.000715  
+ 
+ 
+ Iref  =
+ 
+    0.715  
+ 
+Iref= 0.715 mA 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.2/ex3_2.sce #
+ 
+ 
+ 
+ 
+ Iref  =
+ 
+    0.000715  
+ 
+ Ic13b  =
+ 
+    0.0005363  
+ 
+ Ic17  =
+ 
+    0.0005363  
+ 
+ Ie17  =
+ 
+    0.0005363  
+ 
+ Beta  =
+ 
+    150.  
+ 
+ Vbe17  =
+ 
+    0.7  
+ 
+ R9  =
+ 
+    50000.  
+ 
+ R8  =
+ 
+    100.  
+ 
+ Ic16  =
+ 
+    0.0000186  
+ 
+ Ic16  =
+ 
+    15.135958  
+ 
+
+Ic16= 15.1 uA 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.3/ex3_3.sce #
+ 
+ 
+ 
+ 
+ Iref  =
+ 
+    0.000715  
+ 
+ Vbe19  =
+ 
+    0.7  
+ 
+ Is18  =
+ 
+    1.000D-14  
+ 
+ Is19  =
+ 
+    1.000D-14  
+ 
+ R10  =
+ 
+    50000.  
+ 
+ 
+ Is14  =
+ 
+    2.000D-14  
+ 
+ Is20  =
+ 
+    2.000D-14  
+ 
+ 
+ Ic13a  =
+ 
+    0.0001788  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Ir10  =
+ 
+    0.000014  
+ 
+ Ic19  =
+ 
+    0.0001648  
+ 
+ Vbe19  =
+ 
+    0.612  
+ 
+ Beta  =
+ 
+    200.  
+ 
+ 
+ Ib19  =
+ 
+    0.0000008  
+ 
+ Ic18  =
+ 
+    0.0000148  
+ 
+ Vbe18  =
+ 
+    0.549  
+ 
+ Vbb  =
+ 
+    1.161  
+ 
+Vbb= 1.161 V 
+ Ic14  =
+ 
+    2.030D-14  
+ 
+ Ic14  =
+ 
+    99.432662  
+ 
+
+Ic14= 99.43 uA 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.4/ex3_4.sce #
+ 
+ 
+ 
+ 
+ Ib1  =
+ 
+    0.0000004  
+ 
+ Ib2  =
+ 
+    0.0000003  
+ 
+ Ib  =
+ 
+    0.0000004  
+ 
+ Ios  =
+ 
+    1.000D-07  
+ 
+ Ib  =
+ 
+    350.  
+ 
+ Ios  =
+ 
+    100.  
+ 
+Ib= 350.0 nA 
+
+Ios= 100.0 nA 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.5/ex3_5.sce #
+ 
+ 
+ 
+ 
+ Ios  =
+ 
+    0.0000004  
+ 
+ Rf  =
+ 
+    100000.  
+ 
+ R1  =
+ 
+    1000.  
+ 
+ Vo  =
+ 
+    0.04  
+ 
+ Vo  =
+ 
+    40.  
+ 
+Vo= 40.0 mV 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.6/ex3_6.sce #
+ 
+ 
+ 
+ 
+ Rf  =
+ 
+    10000.  
+ 
+ R1  =
+ 
+    2000.  
+ 
+ Vos  =
+ 
+    0.005  
+ 
+ Ios  =
+ 
+    5.000D-08  
+ 
+ Ib  =
+ 
+    0.0000002  
+ 
+ Ta  =
+ 
+    25.  
+ 
+ 
+ 
+ Vot  =
+ 
+    0.032  
+ 
+ Vot  =
+ 
+    32.  
+ 
+Vot= 32.0 mV 
+ 
+ 
+ 
+ Vot  =
+ 
+    0.0305  
+ 
+ Vot  =
+ 
+    30.5  
+ 
+
+Vot= 30.5 mV 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.7/ex3_7.sce #
+ 
+ 
+ 
+ 
+ Vos  =
+ 
+    0.0015  
+ 
+ Rf  =
+ 
+    1000000.  
+ 
+ R1  =
+ 
+    100000.  
+ 
+ Vo  =
+ 
+    0.0165  
+ 
+ Vo  =
+ 
+    16.5  
+ 
+Vo= 16.5 mV 
+ 
+ 
+ Iosch  =
+ 
+    1.000D-08  
+ 
+ Vosch  =
+ 
+    0.01  
+ 
+ Vosch  =
+ 
+    10.  
+ 
+
+Change in Vo= 10.0 mV 
+
+ Worst case drift is 26.5 mV or -26.5 mV 
+ 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.8/ex3_8.sce #
+ 
+ 
+ 
+ f  =
+ 
+    1000.  
+ 
+ 
+ gain_db  =
+ 
+    60.  
+ 
+ gain  =
+ 
+    1000.  
+ 
+Gain= 1000 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.9/ex3_9.sce #
+ 
+ 
+ 
+ 
+ riset  =
+ 
+    0.0000007  
+ 
+ bw  =
+ 
+    500000.  
+ 
+ bw  =
+ 
+    500.  
+ 
+Bandwidth= 500 kHz 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.10/ex3_10.sce #
+ 
+ 
+ 
+ 
+ ugb  =
+ 
+    1500000.  
+ 
+ f1  =
+ 
+    2000.  
+ 
+ A0  =
+ 
+    750.  
+ 
+Openloop Dc Voltage gain= 750  
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.11/ex3_11.sce #
+ 
+ 
+ 
+ 
+ Voch  =
+ 
+    10.  
+ 
+ slew  =
+ 
+    0.5  
+ 
+ time  =
+ 
+    20.  
+ 
+Time= 20 us 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.12/ex3_12.sce #
+ 
+ 
+ 
+ 
+ slew  =
+ 
+    0.5  
+ 
+ Vm  =
+ 
+    12.  
+ 
+ fmax  =
+ 
+    0.0066315  
+ 
+ fmax  =
+ 
+    6.631456  
+ 
+Fmax= 6.6 kHz 
+ 
+ 
+ Vm1  =
+ 
+    2.  
+ 
+ fmax1  =
+ 
+    0.0397887  
+ 
+ fmax1  =
+ 
+    39.788736  
+ 
+
+Fmax1= 39.8 kHz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.13/ex3_13.sce #
+ 
+ 
+ 
+ 
+ slew  =
+ 
+    0.5  
+ 
+ f  =
+ 
+    10000.  
+ 
+ Vmmax  =
+ 
+    0.0000080  
+ 
+ Vmmax  =
+ 
+    7.9577472  
+ 
+Vm(max)= 7.96 Hz 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.14/ex3_14.sce #
+ 
+ 
+ 
+ 
+ slew  =
+ 
+    0.5  
+ 
+ riset  =
+ 
+    4.  
+ 
+
+Vo is greater than 1V 
+ Vswing  =
+ 
+    4.  
+ 
+ slewreq  =
+ 
+    1.  
+ 
+
+Slew Rate Required= 1 V/us 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.15/ex3_15.sce #
+ 
+ 
+ 
+ 
+ Vch  =
+ 
+    20.  
+ 
+ time  =
+ 
+    4.  
+ 
+ slew  =
+ 
+    5.  
+ 
+
+Slew Rate = 5 V/us 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.16/ex3_16.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    50.  
+ 
+ slew  =
+ 
+    0.5  
+ 
+ Vid  =
+ 
+    0.02  
+ 
+ Vm  =
+ 
+    1.  
+ 
+ 
+ fmax  =
+ 
+    79577.472  
+ 
+ fmax  =
+ 
+    79.577472  
+ 
+Fmax= 79.6 kHz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.17/ex3_17.sce #
+ 
+ 
+ 
+ 
+ slew  =
+ 
+    0.5  
+ 
+ f  =
+ 
+    40000.  
+ 
+ Vm  =
+ 
+    1.9894368  
+ 
+Vpeak= 1.99 V 
+ Vmpp  =
+ 
+    0.3978874  
+ 
+
+Voltage peak-to-peak= 0.398 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.18/ex3_18.sce #
+ 
+ 
+ 
+ 
+ Rf  =
+ 
+    10000.  
+ 
+ R1  =
+ 
+    100.  
+ 
+ Vni  =
+ 
+    0.000001  
+ 
+ Kn  =
+ 
+    101.  
+ 
+ Vno  =
+ 
+    0.000101  
+ 
+ Vno  =
+ 
+    101.  
+ 
+Output noise voltage= 101 uV (rms) 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.19/ex3_19.sce #
+ 
+ 
+ 
+ 
+ Rf  =
+ 
+    10000.  
+ 
+ R1  =
+ 
+    1000.  
+ 
+ Av  =
+ 
+  - 10.  
+ 
+Closed loop voltage gain= -10 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.20/ex3_20.sce #
+ 
+ 
+ 
+ 
+ Rf  =
+ 
+    10000.  
+ 
+ R1  =
+ 
+    1000.  
+ 
+ Av  =
+ 
+    11.  
+ 
+Closed loop voltage gain= 11 
+ 
+ Beta  =
+ 
+    0.0909091  
+ 
+
+Feedback factor= 0.091 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.21/ex3_21.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ Rf  =
+ 
+    50000.  
+ 
+ I  =
+ 
+    0.0005  
+ 
+ Vi1  =
+ 
+    0.5  
+ 
+ Vo  =
+ 
+    3.  
+ 
+Vout= 3 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.22/ex3_22.sce #
+ 
+ 
+ 
+ 
+ Vi  =
+ 
+    0.6  
+ 
+ Vi1  =
+ 
+    0.6  
+ 
+ Vi2  =
+ 
+    0.6  
+ 
+ R1  =
+ 
+    10000.  
+ 
+ Rf  =
+ 
+    20000.  
+ 
+ RL  =
+ 
+    2000.  
+ 
+ I1  =
+ 
+    0.00006  
+ 
+ I1  =
+ 
+    0.06  
+ 
+ Av  =
+ 
+    3.  
+ 
+Av=3 
+ Vo  =
+ 
+    1.8  
+ 
+
+Vo=1.8 V 
+ IL  =
+ 
+    0.0009  
+ 
+ IL  =
+ 
+    0.9  
+ 
+
+I1=0.9 mA 
+ 
+ 
+ Io  =
+ 
+    0.96  
+ 
+
+Io=0.96 mA 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.23/ex3_23.sce #
+ 
+ 
+ 
+ 
+ fL  =
+ 
+    50.  
+ 
+ RL  =
+ 
+    3300.  
+ 
+ Ibmax  =
+ 
+    0.0000005  
+ 
+ R1max  =
+ 
+    140000.  
+ 
+ C1  =
+ 
+    0.0000002  
+ 
+ C1  =
+ 
+    0.2273642  
+ 
+C1=0.227 uF 
+ 
+ C2  =
+ 
+    0.0000010  
+ 
+ C2  =
+ 
+    0.9645754  
+ 
+
+C2=0.96 uF 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.24/ex3_24.sce #
+ 
+ 
+ 
+ Vbe  =
+ 
+    0.6  
+ 
+ Ibmax  =
+ 
+    0.0000005  
+ 
+ fL  =
+ 
+    50.  
+ 
+ RL  =
+ 
+    3300.  
+ 
+ R1max  =
+ 
+    120000.  
+ 
+ R1  =
+ 
+    60000.  
+ 
+ R2  =
+ 
+    60000.  
+ 
+ 
+ C3  =
+ 
+    0.0000010  
+ 
+ C3  =
+ 
+    0.9645754  
+ 
+
+C3=0.96 uF 
+ 
+ C2  =
+ 
+    0.0000005  
+ 
+ C2  =
+ 
+    0.5305165  
+ 
+
+C2=0.53 uF 
+ 
+ 
+ Mmin  =
+ 
+    50000.  
+ 
+ Zinmin  =
+ 
+    2.800D+09  
+ 
+ Zinmin  =
+ 
+    2800.056  
+ 
+
+Zin(min)= 2800 Mohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.25/ex3_25.sce #
+ 
+ 
+ 
+ 
+ Vo  =
+ 
+    3.  
+ 
+ Vi  =
+ 
+    0.01  
+ 
+ R2  =
+ 
+    1000000.  
+ 
+ Av  =
+ 
+    300.  
+ 
+ fL  =
+ 
+    100.  
+ 
+ RL  =
+ 
+    15000.  
+ 
+ R3  =
+ 
+    3344.4816  
+ 
+ 
+ R1  =
+ 
+    996655.52  
+ 
+ C2  =
+ 
+    0.0000005  
+ 
+ C2  =
+ 
+    0.4758733  
+ 
+
+C2= 0.48 uF 
+ 
+ C3  =
+ 
+    0.0000011  
+ 
+ C3  =
+ 
+    1.061033  
+ 
+
+C3= 1.06 uF 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.26/ex3_26.sce #
+ 
+ 
+ 
+ 
+ fL  =
+ 
+    20.  
+ 
+ fH  =
+ 
+    2000.  
+ 
+ RL  =
+ 
+    300.  
+ 
+ R1  =
+ 
+    1500.  
+ 
+ R2  =
+ 
+    56000.  
+ 
+ 
+ C1  =
+ 
+    0.0000531  
+ 
+ C1  =
+ 
+    53.051648  
+ 
+
+C1= 53 uF 
+ 
+ C2  =
+ 
+    0.0000265  
+ 
+ C2  =
+ 
+    26.525824  
+ 
+
+C2= 26.5 uF 
+ 
+ Cf  =
+ 
+    1.421D-09  
+ 
+ Cf  =
+ 
+    1421.0263  
+ 
+
+Cf= 1421 pF 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.27/ex3_27.sce #
+ 
+ 
+ 
+ 
+ Ibmax  =
+ 
+    0.0000005  
+ 
+ Vcc  =
+ 
+    24.  
+ 
+ I2  =
+ 
+    0.00005  
+ 
+ Vo  =
+ 
+    6.  
+ 
+ Av  =
+ 
+    100.  
+ 
+ fL  =
+ 
+    100.  
+ 
+ RL  =
+ 
+    5600.  
+ 
+ 
+ I2  =
+ 
+    0.00005  
+ 
+ R1  =
+ 
+    240000.  
+ 
+ R2  =
+ 
+    240000.  
+ 
+ Vi  =
+ 
+    0.06  
+ 
+ 
+ I4  =
+ 
+    0.00005  
+ 
+ R4  =
+ 
+    1200.  
+ 
+ 
+ R3  =
+ 
+    118800.  
+ 
+ R1pR2  =
+ 
+    120000.  
+ 
+ 
+ C1  =
+ 
+    0.0000001  
+ 
+ C1  =
+ 
+    0.1326291  
+ 
+
+C1= 0.133 uF 
+ 
+ C2  =
+ 
+    0.0000028  
+ 
+ C2  =
+ 
+    2.8420526  
+ 
+
+C2= 2.842 uF 
+ 
+ C3  =
+ 
+    0.0000013  
+ 
+ C3  =
+ 
+    1.3262912  
+ 
+
+C3= 1.326 uF 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.28/ex3_28.sce #
+ 
+ 
+ 
+ 
+ cmrr  =
+ 
+    100000.  
+ 
+ Adm  =
+ 
+    100000.  
+ 
+ Acm  =
+ 
+    1.  
+ 
+Common mode gain Acm= 1 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH3/EX3.29/ex3_29.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    560.  
+ 
+ R3  =
+ 
+    560.  
+ 
+ Rf  =
+ 
+    5600.  
+ 
+ R2  =
+ 
+    5600.  
+ 
+ Vo1  =
+ 
+  - 2.  
+ 
+ Ri  =
+ 
+    2000000.  
+ 
+ Vo2  =
+ 
+  - 1.  
+ 
+ 
+ 
+ Ad  =
+ 
+    11.  
+ 
+
+Ad= 11 
+ 
+ 
+ A  =
+ 
+    200000.  
+ 
+ Ri1  =
+ 
+    3.636D+11  
+ 
+ Ri1  =
+ 
+    363.63836  
+ 
+
+Ri1=363.6 Gohm 
+ 
+ Ri2  =
+ 
+    3.637D+10  
+ 
+ Ri2  =
+ 
+    36.365636  
+ 
+
+Ri2=36.37 Gohm 
+ 
+ 
+ Vid  =
+ 
+    1.  
+ 
+ Vo  =
+ 
+    11.  
+ 
+ Vo  =
+ 
+    11.  
+ 
+
+Vo=11 V 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.1/ex4_1.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    20000.  
+ 
+ R  =
+ 
+    39000.  
+ 
+ f  =
+ 
+    2000.  
+ 
+ Rf  =
+ 
+    20000.  
+ 
+ C  =
+ 
+    1.000D-09  
+ 
+ fo  =
+ 
+    4080.896  
+ 
+ 
+ theta  =
+ 
+  - 0.9113740  
+ 
+ theta  =
+ 
+  - 52.217881  
+ 
+Phase angle=-52.2 degree 
+ 
+ td  =
+ 
+  - 0.0000725  
+ 
+ td  =
+ 
+    72.524835  
+ 
+
+Time delay td= 72.5 us 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.2/ex4_2.sce #
+ 
+ 
+ 
+ 
+ Vee  =
+ 
+    12.  
+ 
+ Vcc  =
+ 
+    5.  
+ 
+ Vdiff  =
+ 
+    7.  
+ 
+ RL  =
+ 
+    1000.  
+ 
+ IL  =
+ 
+    0.007  
+ 
+ IL  =
+ 
+    7.  
+ 
+Current through RL is IL= 7 mA 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.3/ex4_3.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    5.  
+ 
+ R  =
+ 
+    1000.  
+ 
+ I  =
+ 
+    0.005  
+ 
+ I  =
+ 
+    5.  
+ 
+Current= 5 mA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.4/ex4_4.sce #
+ 
+ 
+ 
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ Re2  =
+ 
+    1000.  
+ 
+ Vc1  =
+ 
+    5.  
+ 
+ Ve2  =
+ 
+    5.  
+ 
+ I  =
+ 
+    0.01  
+ 
+ I  =
+ 
+    10.  
+ 
+Current= 10 mA 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.5/ex4_5.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    22000.  
+ 
+ Rf  =
+ 
+    1000.  
+ 
+ RL  =
+ 
+    10000.  
+ 
+ Ii  =
+ 
+    0.00001  
+ 
+ 
+ Ai  =
+ 
+    23.  
+ 
+ Io  =
+ 
+    0.00023  
+ 
+ Io  =
+ 
+    230.  
+ 
+Current Io= 230.000000 uA 
+ 
+ Io  =
+ 
+    0.00023  
+ 
+ Vmax  =
+ 
+    2.52  
+ 
+
+Vmax= 2.52 V 
+
+Hence output clipping doesnot occur 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.6/ex4_6.sce #
+ 
+ 
+ 
+ 
+ Rf  =
+ 
+    10000.  
+ 
+ RL  =
+ 
+    2000.  
+ 
+ Vi  =
+ 
+    0.5  
+ 
+ 
+ IL  =
+ 
+    0.00005  
+ 
+ IL  =
+ 
+    50.  
+ 
+Current IL= 50 uA 
+ 
+ IL  =
+ 
+    0.00005  
+ 
+ Vmax  =
+ 
+    0.6  
+ 
+
+Vmax= 0.60 V 
+
+Hence output clipping doesnot occur 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.7/ex4_7.sce #
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    2.  
+ 
+ V2  =
+ 
+    3.  
+ 
+ V3  =
+ 
+    4.  
+ 
+ Rf  =
+ 
+    1000.  
+ 
+ R1  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ R  =
+ 
+    1000.  
+ 
+ 
+ Vo  =
+ 
+  - 9.  
+ 
+Vo= -9 V 
+ 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.8/ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hence the input impedence of circuit Ri=R1*R3/(R3-R1) 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.9/ex4_9.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    10000.  
+ 
+ Rf  =
+ 
+    100000.  
+ 
+ Cf  =
+ 
+    1.000D-08  
+ 
+ 
+ fa  =
+ 
+    159.15494  
+ 
+fa= 159 Hz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.10/ex4_10.sce #
+ 
+ 
+ 
+ 
+ fa  =
+ 
+    1000.  
+ 
+ C1  =
+ 
+    0.000001  
+ 
+ 
+ Rf  =
+ 
+    159.15494  
+ 
+ Rf  =
+ 
+    1.5915494  
+ 
+Rf= 1.59 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.11/ex4_11.sce #
+ 
+ 
+ 
+ 
+ fa  =
+ 
+    200.  
+ 
+ fmax  =
+ 
+    200.  
+ 
+ 
+ C1  =
+ 
+    1.000D-07  
+ 
+ Rf  =
+ 
+    7957.7472  
+ 
+ Rf  =
+ 
+    7.9577472  
+ 
+Rf= 7.958 kohm 
+ 
+ fb  =
+ 
+    2000.  
+ 
+ R1  =
+ 
+    795.77472  
+ 
+ R1  =
+ 
+    0.7957747  
+ 
+
+R1= 0.796 kohm 
+ 
+ Cf  =
+ 
+    1.000D-08  
+ 
+ Cf  =
+ 
+    0.01  
+ 
+
+Cf= 0.01 uF 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.12/ex4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH4/EX4.13/ex4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH5/EX5.1/ex5_1.sce #
+ 
+ 
+ 
+ 
+ Vz1  =
+ 
+    5.5  
+ 
+ Vz2  =
+ 
+    5.5  
+ 
+ Aol  =
+ 
+    100000.  
+ 
+ Vd  =
+ 
+    0.7  
+ 
+ Vo  =
+ 
+    6.2  
+ 
+ Vich  =
+ 
+    0.000062  
+ 
+ Vich  =
+ 
+    0.062  
+ 
+Delta Vi=0.062 mV 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH5/EX5.2/ex5_2.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    56000.  
+ 
+ R2  =
+ 
+    150.  
+ 
+ Vi  =
+ 
+    1.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Vsat  =
+ 
+    13.5  
+ 
+ Vref  =
+ 
+    0.  
+ 
+ 
+ Vut  =
+ 
+    0.0360641  
+ 
+ Vut  =
+ 
+    36.064114  
+ 
+Vut= 36 mV 
+ VL  =
+ 
+  - 36.064114  
+ 
+
+VL= -36 mV 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH5/EX5.3/ex5_3.sce #
+ 
+ 
+ 
+ 
+ Vclipl  =
+ 
+    0.35  
+ 
+ Vp  =
+ 
+    0.5  
+ 
+ gain  =
+ 
+    10.  
+ 
+ R  =
+ 
+    1000.  
+ 
+ 
+ Vounclip  =
+ 
+    5.  
+ 
+When unclipped, output voltage= 5.0 V 
+ Voclip  =
+ 
+    3.5  
+ 
+
+When clipped, output voltage= 3.5 V 
+ Vb  =
+ 
+    2.8  
+ 
+
+Zener diode breakdown voltage= 2.8 V 
+
+A 2.8V Zener diode should be connected 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH5/EX5.4/ex5_4.sce #
+ 
+ 
+ 
+ 
+ Vref  =
+ 
+    1.5  
+ 
+ 
+ 
+ Vpp  =
+ 
+    5.  
+ 
+ Vnp  =
+ 
+    2.5  
+ 
+ Vc  =
+ 
+    4.  
+ 
+
+Capacitor voltage Vc= 4.0 V 
+ 
+ 
+ Vopeak  =
+ 
+    9.  
+ 
+
+Peak value of clamped output voltage Vo(peak)= 9.0 V 
+ 
+ 
+ Voc  =
+ 
+    2.2  
+ 
+
+Op-amp output voltage during charging Vo= 2.2 V 
+ 
+ 
+ Vd  =
+ 
+  - 7.5  
+ 
+
+Maximum differential input voltage Vd= -7.5 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.1/ex6_1.sce #
+ 
+ 
+ 
+ 
+ fH  =
+ 
+    10000.  
+ 
+ f  =
+ 
+    12000.  
+ 
+ t  =
+ 
+    1.44  
+ 
+ Hif  =
+ 
+    0.6401844  
+ 
+ Hifdb  =
+ 
+  - 3.8738983  
+ 
+Delta Vi=-3.87 dB 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.2/ex6_2.sce #
+ 
+ 
+ 
+ 
+ fh  =
+ 
+    2000.  
+ 
+ A  =
+ 
+    2.  
+ 
+ C  =
+ 
+    1.000D-08  
+ 
+ R  =
+ 
+    7957.7472  
+ 
+ R  =
+ 
+    7.9577472  
+ 
+R= 7.958 kohm 
+ 
+
+ Hence Rf=Ri=10kohm 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.3/ex6_3.sce #
+ 
+ 
+ 
+ 
+ fh  =
+ 
+    10000.  
+ 
+ f  =
+ 
+    12000.  
+ 
+ RC  =
+ 
+    0.0000159  
+ 
+ R  =
+ 
+    200000.  
+ 
+ C  =
+ 
+    7.958D-11  
+ 
+ C3  =
+ 
+    1.125D-10  
+ 
+ C4  =
+ 
+    5.626D-11  
+ 
+ 
+ t  =
+ 
+    2.0736  
+ 
+ Hif  =
+ 
+    0.5703958  
+ 
+ Hifdb  =
+ 
+  - 4.8764735  
+ 
+Hif= -4.88 dB 
+ 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.4/ex6_4.sce #
+ 
+ 
+ 
+ 
+ N  =
+ 
+    2.  
+ 
+ fh  =
+ 
+    2000.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ R  =
+ 
+    795.77472  
+ 
+ Rkohm  =
+ 
+    0.7957747  
+ 
+R= 0.8 kohm 
+ alpha  =
+ 
+    1.414  
+ 
+ A  =
+ 
+    1.586  
+ 
+ RfbyRi  =
+ 
+    0.586  
+ 
+
+Rf/Ri= 0.586 
+
+Hence, take Rf=5.86 kohm and Ri=10 kohm 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.5/ex6_5.sce #
+ 
+ 
+ 
+ 
+ fh  =
+ 
+    10000.  
+ 
+ f  =
+ 
+    12000.  
+ 
+ 
+ 
+ t  =
+ 
+    2.985984  
+ 
+ Hif  =
+ 
+    0.5008783  
+ 
+ Hifdb  =
+ 
+  - 6.0053555  
+ 
+Hif= -6.0054 dB 
+ 
+ 
+ t  =
+ 
+    4.299817  
+ 
+ Hif  =
+ 
+    0.4343797  
+ 
+ Hifdb  =
+ 
+  - 7.2426087  
+ 
+
+Hif= -7.24 dB 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.6/ex6_6.sce #
+ 
+ 
+ 
+ 
+ N  =
+ 
+    2.  
+ 
+ fh  =
+ 
+    2000.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ R  =
+ 
+    795.77472  
+ 
+ Rkohm  =
+ 
+    0.7957747  
+ 
+R= 0.8 kohm 
+ 
+ alpha1  =
+ 
+    0.765  
+ 
+ alpha2  =
+ 
+    1.848  
+ 
+ A1  =
+ 
+    2.235  
+ 
+ A2  =
+ 
+    1.152  
+ 
+ 
+ Rf1byRi1  =
+ 
+    1.235  
+ 
+ Rf2byRi2  =
+ 
+    0.152  
+ 
+ 
+
+Rf1/Ri1= 1.235 
+
+Hence, take Rf1=12.35 kohm and Ri1=10 kohm 
+
+Rf2/Ri2= 0.152 
+
+Hence, take Rf2=15.2 kohm and Ri2=100 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.7/ex6_7.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    2.  
+ 
+ fL  =
+ 
+    2000.  
+ 
+ C  =
+ 
+    1.000D-08  
+ 
+ R  =
+ 
+    7957.7472  
+ 
+ Rkohm  =
+ 
+    7.9577472  
+ 
+R= 8.0 kohm 
+ 
+ RfbyRi  =
+ 
+    1.  
+ 
+
+Rf/Ri= 1.000 
+
+Hence, take Rf=10 kohm and Ri=10 kohm 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.8/ex6_8.sce #
+ 
+ 
+ 
+ 
+ R2  =
+ 
+    16000.  
+ 
+ R3  =
+ 
+    16000.  
+ 
+ Rf  =
+ 
+    15800.  
+ 
+ Ri  =
+ 
+    27000.  
+ 
+ C2  =
+ 
+    1.000D-08  
+ 
+ C3  =
+ 
+    1.000D-08  
+ 
+ fL  =
+ 
+    994.71839  
+ 
+ fL  =
+ 
+    0.9947184  
+ 
+
+fL= 1.0 kHz 
+ 
+ A  =
+ 
+    1.5851852  
+ 
+
+A= 1.585 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.9/ex6_9.sce #
+ 
+ 
+ 
+ 
+ fh  =
+ 
+    50000.  
+ 
+ C  =
+ 
+    1.000D-09  
+ 
+ R  =
+ 
+    3183.0989  
+ 
+ Rkohm  =
+ 
+    3.1830989  
+ 
+R= 3.183 kohm 
+ 
+ R1  =
+ 
+    2941.8659  
+ 
+ R2  =
+ 
+    3444.5394  
+ 
+ R3  =
+ 
+    1218.1779  
+ 
+ R4  =
+ 
+    8321.8271  
+ 
+
+R1= 2.942 kohm 
+
+R2= 3.445 kohm 
+
+R3= 1.218 kohm 
+
+R4= 8.322 kohm 
+ Hif  =
+ 
+    0.02  
+ 
+ s  =
+ 
+    0.0004002  
+ 
+ s1  =
+ 
+    0.3760791  
+ 
+ f  =
+ 
+    11182.846  
+ 
+ fkhz  =
+ 
+    11.182846  
+ 
+
+f= 11.18 kHz 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.10/ex6_10.sce #
+ 
+ 
+ 
+ 
+ fh  =
+ 
+    2500.  
+ 
+ fL  =
+ 
+    250.  
+ 
+ B  =
+ 
+    2250.  
+ 
+Bandwdth B= 2250 Hz 
+ 
+ fr  =
+ 
+    790.56942  
+ 
+
+Resonant Frequency fr= 790.57 Hz 
+ 
+ fc  =
+ 
+    1375.  
+ 
+
+Center Frequency fr= 1375 Hz 
+
+Hence, resonant frequency is always less than center frequency 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.11/ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ fr  =
+ 
+    1000.  
+ 
+ B  =
+ 
+    3000.  
+ 
+ Q  =
+ 
+    0.3333333  
+ 
+Quality factor Q= 0.33  
+Since Q<0.5, this is a wideband filter 
+ 
+ 
+ fL  =
+ 
+    302.77564  
+ 
+
+fL= 302.78 Hz 
+ 
+ 
+ fh  =
+ 
+    3302.7756  
+ 
+
+fh= 3302.78 Hz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.12/ex6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    20000.  
+ 
+ Rr  =
+ 
+    2700.  
+ 
+ C  =
+ 
+    1.000D-08  
+ 
+ 
+ fr  =
+ 
+    1630.9985  
+ 
+Resonant frequency= 1631.0 Hz 
+ 
+ 
+ B  =
+ 
+    795.5  
+ 
+
+Bandwidth= 795.5 Hz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.13/ex6_13.sce #
+ 
+ 
+ 
+ 
+ fr  =
+ 
+    200.  
+ 
+ B  =
+ 
+    20.  
+ 
+ C  =
+ 
+    0.0000003  
+ 
+ Q  =
+ 
+    10.  
+ 
+ 
+ R  =
+ 
+    24106.061  
+ 
+ Rr  =
+ 
+    121.13598  
+ 
+ R  =
+ 
+    24.106061  
+ 
+
+R= 24.1 kohm 
+
+Rr= 121.1 ohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH6/EX6.14/ex6_14.sce #
+ 
+ 
+ 
+ 
+ R  =
+ 
+    1000000.  
+ 
+ C  =
+ 
+    4.000D-11  
+ 
+ fck  =
+ 
+    25000.  
+ 
+ fck  =
+ 
+    25.  
+ 
+Fck= 25.0 kHz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.1/ex7_1.sce #
+ 
+ 
+ 
+ 
+ f  =
+ 
+    300.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ t  =
+ 
+    0.00003  
+ 
+ R  =
+ 
+    2165.8244  
+ 
+ R  =
+ 
+    2.1658244  
+ 
+R= 2.17 kohm 
+
+Let R=2.2 kohm, hence R1=22 kohm 
+ R1  =
+ 
+    22000.  
+ 
+ Rf  =
+ 
+    638000.  
+ 
+ Rf  =
+ 
+    638.  
+ 
+
+Rf= 638 kohm 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.2/ex7_2.sce #
+ 
+ 
+ 
+ 
+ f  =
+ 
+    2000.  
+ 
+ C  =
+ 
+    5.000D-08  
+ 
+ t  =
+ 
+    0.0001  
+ 
+ R  =
+ 
+    1591.5494  
+ 
+ R  =
+ 
+    1.5915494  
+ 
+R= 1.592 kohm 
+
+Let R=1.8 kohm 
+ R1  =
+ 
+    1800.  
+ 
+ Rf  =
+ 
+    3600.  
+ 
+ Rf  =
+ 
+    3.6  
+ 
+
+Rf= 3 kohm 
+
+Standard value Rf= 3.3 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.3/ex7_3.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    116000.  
+ 
+ R2  =
+ 
+    100000.  
+ 
+ Vsat  =
+ 
+    14.  
+ 
+ 
+ 
+ f  =
+ 
+    1000.  
+ 
+ T  =
+ 
+    0.001  
+ 
+ 
+ RC  =
+ 
+    0.0005  
+ 
+ RC1  =
+ 
+    0.5  
+ 
+RC= 0.5 *10^-3 sec 
+ 
+ 
+ C  =
+ 
+    1.000D-08  
+ 
+ R  =
+ 
+    50000.  
+ 
+ Rn  =
+ 
+    50.  
+ 
+
+R= 50 kohm 
+ 
+ 
+ Vmax  =
+ 
+    12.962963  
+ 
+
+Maximum value of differential input voltage= 12.96 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.4/ex7_4.sce #
+ 
+ 
+ 
+ 
+ fo  =
+ 
+    1000.  
+ 
+ Vcc  =
+ 
+    12.  
+ 
+ R1  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    10000.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ R  =
+ 
+    4545.4545  
+ 
+ R  =
+ 
+    4.5454545  
+ 
+R= 4.545 kohm 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.5/ex7_5.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    100000.  
+ 
+ R2  =
+ 
+    10000.  
+ 
+ R3  =
+ 
+    20000.  
+ 
+ C1  =
+ 
+    1.000D-08  
+ 
+ Vsat  =
+ 
+    14.  
+ 
+ 
+ 
+ T  =
+ 
+    0.002  
+ 
+ Tn  =
+ 
+    2.  
+ 
+Time period T= 2 ms 
+ 
+ 
+ f  =
+ 
+    500.  
+ 
+
+frequency f= 500 Hz 
+ 
+ 
+
+Peak value is +14V and -14V 
+ 
+ 
+ Vp  =
+ 
+    7.  
+ 
+
+Triangular wave oscillates between  7 V and - 7 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.6/ex7_6.sce #
+ 
+ 
+ 
+ 
+ Ri  =
+ 
+    10000.  
+ 
+ Vp  =
+ 
+    10.  
+ 
+ Vref  =
+ 
+    10.  
+ 
+ fo  =
+ 
+    200.  
+ 
+ C1  =
+ 
+    1.000D-07  
+ 
+ Vi  =
+ 
+    2.  
+ 
+ t  =
+ 
+    0.2  
+ 
+ f  =
+ 
+    200.  
+ 
+Frequency f= 200 Hz 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.7/ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ t  =
+ 
+    0.001  
+ 
+ R  =
+ 
+    8196.7213  
+ 
+ R  =
+ 
+    8.1967213  
+ 
+R= 8.2 kohm 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.8/ex7_8.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    20.  
+ 
+ Ton  =
+ 
+    0.001  
+ 
+ Tonpoff  =
+ 
+    0.005  
+ 
+ Tonpoff1  =
+ 
+    5.  
+ 
+Ton + Toff= 5 ms 
+ f  =
+ 
+    200.  
+ 
+
+Frequency of oscillation= 200 Hz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.9/ex7_9.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.7  
+ 
+ f  =
+ 
+    1000.  
+ 
+ 
+ RB  =
+ 
+    4329.0043  
+ 
+ RA  =
+ 
+    5772.0058  
+ 
+ RB1  =
+ 
+    4.3290043  
+ 
+RB= 4.3 kohm 
+ RA1  =
+ 
+    5.7720058  
+ 
+
+RA= 5.8 kohm 
+
+ Answers in textbooks are wrong 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH7/EX7.10/ex7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ f1  =
+ 
+    1070.  
+ 
+ RA  =
+ 
+    50000.  
+ 
+ C  =
+ 
+    1.000D-08  
+ 
+ Rc  =
+ 
+    76.  
+ 
+ t  =
+ 
+    135514.02  
+ 
+ RB  =
+ 
+    42757.009  
+ 
+Assuming RA= 50 kohm and C= 0.01 uF 
+ RB  =
+ 
+    42.757009  
+ 
+
+Hence, RB= 42.76 kohm 
+
+Rc= 76 ohm (Standard Value) 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.1/ex8_1.sce #
+ 
+ 
+ 
+ 
+ Vo  =
+ 
+    15.  
+ 
+ Vimin  =
+ 
+    18.  
+ 
+ 
+ Vr  =
+ 
+    2.  
+ 
+ Vi  =
+ 
+    19.  
+ 
+ 
+ Vz  =
+ 
+    9.5  
+ 
+As Vz=9.5, use Zener diode 1N758 for 10V 
+ 
+ Vz  =
+ 
+    10.  
+ 
+ Iz  =
+ 
+    0.02  
+ 
+ 
+ R1  =
+ 
+    450.  
+ 
+
+R1= 450 ohm 
+ I2  =
+ 
+    0.00005  
+ 
+ R2  =
+ 
+    100000.  
+ 
+ R2  =
+ 
+    100.  
+ 
+
+R2= 100.0 kohm 
+ 
+ R3  =
+ 
+    200000.  
+ 
+ R3  =
+ 
+    200.  
+ 
+
+R3= 200 kohm 
+
+Select C1= 50uF 
+ Vcemax  =
+ 
+    20.  
+ 
+ IE  =
+ 
+    0.00005  
+ 
+ IL  =
+ 
+    0.00005  
+ 
+ P  =
+ 
+    0.0002  
+ 
+ P1  =
+ 
+    200.  
+ 
+
+P= 200.0 mW 
+
+Use the transstor 2N718 for Q1 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.2/ex8_2.sce #
+ 
+ 
+ 
+ 
+ IL  =
+ 
+    0.25  
+ 
+ Vr  =
+ 
+    5.  
+ 
+ R  =
+ 
+    20.  
+ 
+R= 20 ohm 
+ RL  =
+ 
+    10.  
+ 
+ VL  =
+ 
+    2.5  
+ 
+ 
+ Vo  =
+ 
+    7.5  
+ 
+
+Vo= 7.5 V 
+ Vdrop  =
+ 
+    2.  
+ 
+ Vi  =
+ 
+    9.5  
+ 
+
+Vo= 9.5 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.3/ex8_3.sce #
+ 
+ 
+ 
+ VL  =
+ 
+    5.  
+ 
+ RL  =
+ 
+    100.  
+ 
+ IL  =
+ 
+    0.05  
+ 
+ IL1  =
+ 
+    50.  
+ 
+Part A 
+
+Load Current IL= 50 mA 
+ R1  =
+ 
+    7.  
+ 
+ VR1  =
+ 
+    0.35  
+ 
+ VR1x  =
+ 
+    350.  
+ 
+
+Voltage accross R1= 350 mV 
+
+As voltage < 0.7V, Q1 is OFF 
+
+Hence IL=Io=Ii=50 mA 
+ 
+
+
+Part B 
+ VLb  =
+ 
+    5.  
+ 
+ RLb  =
+ 
+    2.  
+ 
+ ILb  =
+ 
+    2.5  
+ 
+
+Load Current IL= 2.5 A 
+ R1  =
+ 
+    7.  
+ 
+ VR1  =
+ 
+    17.5  
+ 
+
+Voltage accross R1= 17.5 mV 
+
+As voltage > 0.7V, Q1 is ON 
+ Io  =
+ 
+    0.147  
+ 
+ Ic  =
+ 
+    2.353  
+ 
+
+Hence Ic= 2.353 A 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.4/ex8_4.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    240.  
+ 
+ R2  =
+ 
+    2000.  
+ 
+ Iadj  =
+ 
+    0.00005  
+ 
+ Vref  =
+ 
+    1.25  
+ 
+ 
+ Vo  =
+ 
+    11.766667  
+ 
+Vo= 11.77 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.5/ex8_5.sce #
+ 
+ 
+ 
+ 
+ Iadjmax  =
+ 
+    0.0001  
+ 
+ R1  =
+ 
+    240.  
+ 
+ Vref  =
+ 
+    1.25  
+ 
+ 
+ 
+ Vo  =
+ 
+    4.  
+ 
+ R2a1  =
+ 
+    518.05338  
+ 
+ R2a  =
+ 
+    0.5180534  
+ 
+
+R2= 0.52 kohm 
+ 
+ 
+ Vo  =
+ 
+    12.  
+ 
+ R2b1  =
+ 
+    2025.1177  
+ 
+ R2b  =
+ 
+    2.0251177  
+ 
+
+R2= 2.03 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.6/ex8_6.sce #
+ 
+ 
+ 
+ 
+ ILmax  =
+ 
+    0.5  
+ 
+ 
+ 
+ Rsc  =
+ 
+    1.4  
+ 
+Rsc= 1.4 ohm 
+ 
+ 
+ RL  =
+ 
+    100.  
+ 
+ Vo  =
+ 
+    20.  
+ 
+ IL  =
+ 
+    0.2  
+ 
+
+IL= 0.2 A 
+ 
+ 
+ RLn  =
+ 
+    10.  
+ 
+ IL  =
+ 
+    2.  
+ 
+
+IL= 2.0 A 
+
+Since IL > ILmax of 0.5A, current limiting will happen 
+ Von  =
+ 
+    5.  
+ 
+
+Vo= 5.0 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.7/ex8_7.sce #
+ 
+ 
+ 
+ 
+ R2  =
+ 
+    10000.  
+ 
+ Vo  =
+ 
+    12.  
+ 
+ Vref  =
+ 
+    7.15  
+ 
+ 
+ R1  =
+ 
+    6783.2168  
+ 
+ R1a  =
+ 
+    6.7832168  
+ 
+
+R1= 6.78 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH8/EX8.8/ex8_8.sce #
+ 
+ 
+ 
+ 
+ Vref  =
+ 
+    7.15  
+ 
+ Vo  =
+ 
+    5.  
+ 
+ k  =
+ 
+    1.43  
+ 
+(R1b+R2)/R2= 1.43 
+ k1  =
+ 
+    0.43  
+ 
+
+R1 = 0.43 * R2 
+ 
+ 
+ Vom  =
+ 
+    2.  
+ 
+ km  =
+ 
+    3.575  
+ 
+
+(R1a+R1b+R2)/R2= 3.575 
+ km1  =
+ 
+    2.145  
+ 
+
+R1a = 2.145 * R2 
+ 
+ R1a  =
+ 
+    10000.  
+ 
+ R1b  =
+ 
+    2000.  
+ 
+ R2  =
+ 
+    4662.0047  
+ 
+ R2n  =
+ 
+    4.6620047  
+ 
+
+R2= 4.66 kohm 
+ R1  =
+ 
+    6000.  
+ 
+ R3  =
+ 
+    2623.5243  
+ 
+ R3n  =
+ 
+    2.6235243  
+ 
+
+R3= 2.62 kohm 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH9/EX9.1/ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ th1  =
+ 
+    1.5707963  
+ 
+ th  =
+ 
+    90.  
+ 
+Theta= + or - 90 degree 
+ 
+ 
+ Vodc  =
+ 
+    6.117D-17  
+ 
+ 
+ Vodc1  =
+ 
+    0.8660254  
+ 
+
+Vodc for 30 degree= 0.866 V 
+ 
+ Vodc2  =
+ 
+    0.7071068  
+ 
+
+Vodc for 45 degree= 0.707 V 
+ 
+ Vodc3  =
+ 
+    0.5  
+ 
+
+Vodc for 60 degree= 0.5 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH10/EX10.1/ex10_1.sce #
+ 
+ 
+ 
+ 
+ fs  =
+ 
+    20000.  
+ 
+ fr  =
+ 
+    21000.  
+ 
+ VCOf  =
+ 
+    4000.  
+ 
+ Vcd  =
+ 
+    0.25  
+ 
+Vcd= 0.25 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH10/EX10.2/ex10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    15000.  
+ 
+ R3  =
+ 
+    15000.  
+ 
+ R2  =
+ 
+    2200.  
+ 
+ C1  =
+ 
+    1.000D-09  
+ 
+ Vcc  =
+ 
+    12.  
+ 
+ Vc  =
+ 
+    10.465116  
+ 
+
+Vc= 10.465 V 
+ fo1  =
+ 
+    17054.264  
+ 
+ fo1n  =
+ 
+    17.054264  
+ 
+
+Fo= 17.05 kHz 
+ 
+ 
+ Vc1  =
+ 
+    7.  
+ 
+ fo2  =
+ 
+    55555.556  
+ 
+ fo2n  =
+ 
+    55.555556  
+ 
+
+Fo= 55.556 kHz 
+ Vc2  =
+ 
+    8.  
+ 
+ fo3  =
+ 
+    44444.444  
+ 
+ fo3n  =
+ 
+    44.444444  
+ 
+
+Fo= 44.444 kHz 
+ 
+ fch  =
+ 
+    11.111111  
+ 
+
+Change in output frequency= 11.111 kHz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH10/EX10.3/ex10_3.sce #
+ 
+ 
+ 
+ 
+ fo  =
+ 
+    100000.  
+ 
+ C  =
+ 
+    0.000002  
+ 
+ Vcc  =
+ 
+    6.  
+ 
+ 
+ fld  =
+ 
+    65000.  
+ 
+ fldn  =
+ 
+    65.  
+ 
+
+Delta FL= +/- 65 kHz 
+ LR  =
+ 
+    130.  
+ 
+
+Lock Range= 130 kHz 
+ 
+ fcd  =
+ 
+    1198.6724  
+ 
+ fcdn  =
+ 
+    1.1986724  
+ 
+
+Delta FC= +/- 1.199 kHz 
+ CR  =
+ 
+    2.3973447  
+ 
+
+Capture Range= 2.397 kHz 
+ 
+ R1  =
+ 
+    12000.  
+ 
+ C1  =
+ 
+    2.500D-10  
+ 
+ C1n  =
+ 
+    250.  
+ 
+
+C1= 250 pF 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH10/EX10.4/ex10_4.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    15000.  
+ 
+ C1  =
+ 
+    1.000D-08  
+ 
+ C  =
+ 
+    0.000001  
+ 
+ V  =
+ 
+    12.  
+ 
+ fo  =
+ 
+    2000.  
+ 
+ fon  =
+ 
+    2.  
+ 
+
+Centre frequency of VCO is= 2.00 kHz 
+ 
+ LR  =
+ 
+    1300.  
+ 
+ LR1  =
+ 
+    1.3  
+ 
+
+Lock Range = +/- 1.3 kHz 
+ fcd  =
+ 
+    239.73447  
+ 
+
+Delta FC= 239.73 Hz 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH10/EX10.5/ex10_5.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    4.700D-10  
+ 
+ C  =
+ 
+    0.00002  
+ 
+ V  =
+ 
+    12.  
+ 
+ R1  =
+ 
+    15000.  
+ 
+ fo  =
+ 
+    42553.191  
+ 
+ fon  =
+ 
+    42.553191  
+ 
+
+Centre frequency of VCO is= 42.553 kHz 
+ 
+ LR  =
+ 
+    27659.574  
+ 
+ LR1  =
+ 
+    27.659574  
+ 
+
+Lock Range = +/- 27.66 kHz 
+ fcd  =
+ 
+    247.26723  
+ 
+
+Delta FC= +/- 247.27 Hz 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH10/EX10.6/ex10_6.sce #
+ 
+ 
+ 
+ 
+ fr  =
+ 
+    300.  
+ 
+ bw  =
+ 
+    50.  
+ 
+ ip  =
+ 
+    320.  
+ 
+ pdop  =
+ 
+    620.  
+ 
+
+Phase detector output= 620 kHz 
+ difr  =
+ 
+    20.  
+ 
+
+Difference Frequency= 20 kHz 
+
+As Bandwidth is greater than difference frequency, 
+
+PLL can acquire lock 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH10/EX10.7/ex10_7.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    1.000D-08  
+ 
+ C  =
+ 
+    4.000D-08  
+ 
+ V  =
+ 
+    12.  
+ 
+ R1  =
+ 
+    10000.  
+ 
+ fo  =
+ 
+    300000.  
+ 
+ fon  =
+ 
+    300.  
+ 
+
+Centre frequency of VCO is= 300.0 kHz 
+ 
+ fld  =
+ 
+    195000.  
+ 
+ fldn  =
+ 
+    195.  
+ 
+
+Lock Range= 195 kHz 
+ 
+ fcd  =
+ 
+    14680.678  
+ 
+ fcdn  =
+ 
+    14.680678  
+ 
+
+Capture Range= 14.68 kHz 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.1/ex11_1.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    12.  
+ 
+ lv  =
+ 
+    4096.  
+ 
+ Vo  =
+ 
+    4.  
+ 
+ st  =
+ 
+    976.5625  
+ 
+
+Step Size= 976 uV 
+ 
+ dr  =
+ 
+    4096.  
+ 
+
+Dynamic Range= 4096 
+ drdb  =
+ 
+    72.247199  
+ 
+
+Dynamic Range= 72 dB 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.2/ex11_2.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ lv  =
+ 
+    255.  
+ 
+ Vo  =
+ 
+    2.55  
+ 
+ st  =
+ 
+    10.  
+ 
+
+Step Size= 10 mV 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.3/ex11_3.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ R  =
+ 
+    10000.  
+ 
+ Vr  =
+ 
+    10.  
+ 
+ 
+ reso  =
+ 
+    62.5  
+ 
+
+Resolution of 1 LSB= 62.5 uA 
+ 
+ 
+ k  =
+ 
+    13.  
+ 
+ Io  =
+ 
+    0.8125  
+ 
+
+Output Io for digital input 1101= 0.8125 uA 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.4/ex11_4.sce #
+ 
+ 
+ 
+ 
+ reso  =
+ 
+    10.  
+ 
+ 
+ k1  =
+ 
+    138.  
+ 
+ Vo  =
+ 
+    1380.  
+ 
+ Von  =
+ 
+    1.38  
+ 
+
+Vo= 1.38 V 
+ 
+ 
+ k2  =
+ 
+    32.  
+ 
+ Vo1  =
+ 
+    320.  
+ 
+ Von1  =
+ 
+    0.32  
+ 
+
+Vo= 0.32 V 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.5/ex11_5.sce #
+ 
+ 
+ 
+ 
+ 
+
+Part A 
+ R  =
+ 
+    10000.  
+ 
+ Vr  =
+ 
+    10.  
+ 
+ n  =
+ 
+    4.  
+ 
+ lsb  =
+ 
+    0.5  
+ 
+ Rf  =
+ 
+    8000.  
+ 
+ Rfn  =
+ 
+    8.  
+ 
+
+Rf= 8 kohm 
+ 
+
+Part B 
+ b1  =
+ 
+    1.  
+ 
+ Rf1  =
+ 
+    12000.  
+ 
+ Rfn1  =
+ 
+    12.  
+ 
+
+Rf= 12 kohm 
+ 
+
+Part C 
+ Vfs  =
+ 
+    12.  
+ 
+ Rf2  =
+ 
+    12000.  
+ 
+ Rfn2  =
+ 
+    12.  
+ 
+
+Rf= 12 kohm 
+
+Part D 
+ Vfs1  =
+ 
+    10.  
+ 
+ bb  =
+ 
+    0.9375  
+ 
+ Rf3  =
+ 
+    10666.667  
+ 
+ Rfn3  =
+ 
+    10.666667  
+ 
+
+Rf= 10.667 kohm 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.6/ex11_6.sce #
+ 
+ 
+ 
+ 
+ Vr  =
+ 
+    10.  
+ 
+ R  =
+ 
+    10000.  
+ 
+ I1  =
+ 
+    0.0005  
+ 
+ I1n  =
+ 
+    0.5  
+ 
+
+I1= 0.5 mA 
+ I2  =
+ 
+    0.00025  
+ 
+ I2n  =
+ 
+    0.25  
+ 
+
+I2= 0.25 mA 
+ I3  =
+ 
+    0.000125  
+ 
+ I3n  =
+ 
+    0.125  
+ 
+
+I3= 0.12 mA 
+ 
+ Io  =
+ 
+    0.000875  
+ 
+ Ion  =
+ 
+    0.875  
+ 
+
+Io= 0.875 mA 
+ 
+ Vo  =
+ 
+  - 8.75  
+ 
+
+Output Voltage Vo= -8.75 V 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.7/ex11_7.sce #
+ 
+ 
+ 
+ 
+ lsb  =
+ 
+    0.000008  
+ 
+ Ifs  =
+ 
+    0.00204  
+ 
+ R  =
+ 
+    5000.  
+ 
+ ip1  =
+ 
+    0.  
+ 
+ Io1  =
+ 
+    0.  
+ 
+ Io1d  =
+ 
+    0.00204  
+ 
+ Vo  =
+ 
+  - 10.2  
+ 
+
+Case 1: Vo= -10.20 V 
+ 
+ ip2  =
+ 
+    127.  
+ 
+ Io2  =
+ 
+    1.016  
+ 
+ Io2d  =
+ 
+    1.024  
+ 
+ Vo2  =
+ 
+  - 5.12  
+ 
+
+Case 2: Vo= -0.04 V 
+ 
+ ip3  =
+ 
+    128.  
+ 
+ Io3  =
+ 
+    0.001024  
+ 
+ Io3d  =
+ 
+    0.001016  
+ 
+ Vo3  =
+ 
+  - 5.08  
+ 
+
+Case 3: Vo= 0.04 V 
+ 
+ ip4  =
+ 
+    511.  
+ 
+ Io4  =
+ 
+    0.004088  
+ 
+ Io4d  =
+ 
+  - 0.002048  
+ 
+ Vo4  =
+ 
+    10.2  
+ 
+
+Case 4: Vo= 10.20 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.8/ex11_8.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    16.  
+ 
+ lv  =
+ 
+    65536.  
+ 
+ V  =
+ 
+    2.  
+ 
+ st  =
+ 
+    0.0000305  
+ 
+ lvn  =
+ 
+    30.517578  
+ 
+
+Step Size= 30.52 uV 
+ dr  =
+ 
+    96.329599  
+ 
+
+Dynamic Range= 96 dB 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.9/ex11_9.sce #
+ 
+ 
+ 
+ 
+ Vm  =
+ 
+    10.  
+ 
+ n  =
+ 
+    8.  
+ 
+ lv  =
+ 
+    256.  
+ 
+ lsb  =
+ 
+    0.0390625  
+ 
+ lsbn  =
+ 
+    39.0625  
+ 
+
+Part A: 1 LSB= 39.1 mV 
+ 
+ Vifs  =
+ 
+    9.9609375  
+ 
+
+Part B: Vifs= 9.961 V 
+ 
+ ip  =
+ 
+    4.8  
+ 
+ d  =
+ 
+    123.88  
+ 
+
+Part C: D= 123 
+ d  =
+ 
+    123.  
+ 
+ op  =
+ 
+ 01111011   
+ 
+
+ Digital Output= 01111011 
+ 
+grepthis#Linear_Integrated_Circuits_S._Salivahanan_And_V._S._K._Bhaaskaran_1106/CH11/EX11.10/ex11_10.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ cl  =
+ 
+    2000000.  
+ 
+ tp  =
+ 
+    0.0000005  
+ 
+ tpn  =
+ 
+    0.5  
+ 
+
+ Time for one clock pulse= 0.5 uS 
+ tm  =
+ 
+    0.0000045  
+ 
+ tmn  =
+ 
+    4.5  
+ 
+
+ Time for resetting SAR and conversion= 4.5 uS 
+ 

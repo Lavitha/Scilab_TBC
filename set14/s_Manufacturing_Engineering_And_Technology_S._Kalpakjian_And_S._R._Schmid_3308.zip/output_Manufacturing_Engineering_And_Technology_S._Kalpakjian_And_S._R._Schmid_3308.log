@@ -1,0 +1,1381 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 22
+
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ # Calculation of Ultimate Tensile Strength # 
+ 
+ 
+ n  =
+ 
+    0.5  
+ 
+ E  =
+ 
+    0.5  
+ 
+ K  =
+ 
+    100000.  
+ 
+ Truestress  =
+ 
+    70710.678  
+ 
+ 
+ 
+ t  =
+ 
+    0.6065307  
+ 
+ UTS  =
+ 
+    42888.194  
+ 
+
+
+ Ultimate Tensile Strength = 42888.194248 psi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ x  =
+ 
+    0.2  
+ 
+ Ef  =
+ 
+    300.  
+ 
+ Em  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+
+ # application of reinforced plastics # 
+ 
+ 
+ Ec  =
+ 
+    140.  
+ 
+
+
+ The Elastic Modulus of the composite is = 140 GPa 
+ 
+ 
+ r  =
+ 
+    0.75  
+ 
+ 
+ 
+ R  =
+ 
+    2.3333333  
+ 
+ P  =
+ 
+    42.857143  
+ 
+
+
+ The Fraction of load supported by Fibre is = 42.857143 Percent 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ #solidification time for various shapes# 
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    0.6204554  
+ 
+ A  =
+ 
+    4.8351585  
+ 
+ time1  =
+ 
+    0.0427739  
+ 
+
+ the solidification time for the sphere is 0.042774C 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ A  =
+ 
+    6.  
+ 
+ time2  =
+ 
+    0.0277778  
+ 
+
+ the solidification time for the cube is 0.027778C 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    0.5420177  
+ 
+ A  =
+ 
+    5.5348748  
+ 
+ time3  =
+ 
+    0.0326426  
+ 
+
+ the solidification time for the sphere is 0.032643C 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ w  =
+ 
+    9.  
+ 
+ ho  =
+ 
+    1.  
+ 
+ hf  =
+ 
+    0.8  
+ 
+ r  =
+ 
+    12.  
+ 
+ N  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+
+ #Calculation of roll force and torque# 
+ 
+ 
+ L  =
+ 
+    1.5491933  
+ 
+ 
+ E  =
+ 
+    0.2231436  
+ 
+ 
+ Y  =
+ 
+    26000.  
+ 
+ F  =
+ 
+    362511.24  
+ 
+ F1  =
+ 
+    1.61245  
+ 
+
+
+Roll force = 1.612450 MN  
+ 
+ 
+ 
+ P  =
+ 
+    890.61818  
+ 
+ P1  =
+ 
+    664.13398  
+ 
+
+
+power per roll = 664.133978 KW  
+ 
+ 
+ 
+ Tp  =
+ 
+    1328.268  
+ 
+
+
+Total power = 1328.267956 KW  
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ d  =
+ 
+    150.  
+ 
+ Hi  =
+ 
+    100.  
+ 
+ u  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+
+ # Calculation of forging force # 
+ 
+ 
+ 
+ Hf  =
+ 
+    50.  
+ 
+ 
+ r  =
+ 
+    106.06602  
+ 
+ E  =
+ 
+    0.6931472  
+ 
+ 
+ Yf  =
+ 
+    1000.  
+ 
+ F  =
+ 
+    45316419.  
+ 
+ F1  =
+ 
+    45.316419  
+ 
+
+
+ Forging force = 45 MN 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH15/EX15.1/Ex15_1.sce #
+ 
+ 
+ di  =
+ 
+    5.  
+ 
+ df  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+
+ # Calculation of force in Hot Extrusion# 
+ 
+ 
+ 
+ k  =
+ 
+    35000.  
+ 
+ F  =
+ 
+    1258754.4  
+ 
+ F1  =
+ 
+    5.5989395  
+ 
+
+
+ Extrusion force=5.598940 MN 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH16/EX16.1/Ex16_1.sce #
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ T  =
+ 
+    0.125  
+ 
+ 
+ 
+ 
+
+ # Calculation of Punch Force# 
+ 
+ 
+ UTS  =
+ 
+    140000.  
+ 
+ L  =
+ 
+    3.14  
+ 
+ F  =
+ 
+    38465.  
+ 
+ F1  =
+ 
+    0.1710923  
+ 
+
+
+ Extrusion force=0.171092 MN 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH17/EX17.1/Ex17_1.sce #
+ 
+ 
+ L  =
+ 
+    20.  
+ 
+ 
+ Sd  =
+ 
+    0.07  
+ 
+ Sf  =
+ 
+    0.06  
+ 
+ 
+ 
+ 
+
+ # Dimensional changes during the shaping of ceramic components # 
+ 
+ 
+ 
+ 
+ Ld  =
+ 
+    21.276596  
+ 
+ Lo  =
+ 
+    22.765957  
+ 
+
+
+ Initial Length=22.765957 mm 
+ 
+ 
+ 
+ 
+ 
+ Pf  =
+ 
+    0.03  
+ 
+ r  =
+ 
+    0.97  
+ 
+ R  =
+ 
+    1.2039721  
+ 
+ Pd  =
+ 
+    0.1943335  
+ 
+
+
+Dried porosity is 19 percent 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH18/EX18.1/Ex18_1.sce #
+ 
+ 
+ W  =
+ 
+    400.  
+ 
+ 
+ 
+ 
+
+ # Blown Film # 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    800.  
+ 
+ D  =
+ 
+    254.77707  
+ 
+ 
+ Dd  =
+ 
+    101.91083  
+ 
+
+
+ Extrusion Die Diameter =101 mm 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH18/EX18.2/Ex18_2.sce #
+ 
+ 
+ W  =
+ 
+    250.  
+ 
+ d  =
+ 
+    4.5  
+ 
+ t  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+
+ # Injection Molding of Parts # 
+ 
+ 
+ 
+ p  =
+ 
+    15.  
+ 
+ A  =
+ 
+    15.89625  
+ 
+ F  =
+ 
+    238443.75  
+ 
+ n  =
+ 
+    2.0969306  
+ 
+
+
+ Number of gears that can be injected =2 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH20/EX20.1/Ex20_1.sce #
+ 
+ 
+ to  =
+ 
+    0.005  
+ 
+ V  =
+ 
+    400.  
+ 
+ X  =
+ 
+    10.  
+ 
+ w  =
+ 
+    0.25  
+ 
+ tc  =
+ 
+    0.009  
+ 
+ Fc  =
+ 
+    125.  
+ 
+ Ft  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+
+ # Relative Energies in cutting # 
+ 
+ 
+ r  =
+ 
+    0.5555556  
+ 
+ R  =
+ 
+    134.62912  
+ 
+ B  =
+ 
+    31.801409  
+ 
+ F  =
+ 
+    70.94641  
+ 
+ P  =
+ 
+    31.531738  
+ 
+
+
+ Percentage of total energy going into overcoming friction =31 pecrent 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH20/EX20.2/Ex20_2.sce #
+ 
+ 
+ n  =
+ 
+    0.5  
+ 
+ C  =
+ 
+    400.  
+ 
+ 
+ 
+ 
+
+ # Increasing tool life by Reducing the Cutting Speed # 
+ 
+ 
+ V1  =
+ 
+    V1   
+ 
+ r  =
+ 
+    0.5  
+ 
+ 
+ t  =
+ 
+    4.  
+ 
+ P  =
+ 
+    300.  
+ 
+
+
+ Percent increase in tool life  =300 Percent 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH22/EX22.1/Ex22_1.sce #
+ 
+ 
+ l  =
+ 
+    6.  
+ 
+ di  =
+ 
+    0.5  
+ 
+ df  =
+ 
+    0.48  
+ 
+ N  =
+ 
+    400.  
+ 
+ Vt  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+
+ # Material Removal Rate and Cutting Force in Turning # 
+ 
+ 
+ V  =
+ 
+    628.  
+ 
+
+
+ Cutting speed=628 in/min 
+ 
+ v1  =
+ 
+    602.88  
+ 
+ d  =
+ 
+    0.01  
+ 
+ f  =
+ 
+    0.02  
+ 
+ Davg  =
+ 
+    0.49  
+ 
+ MRR  =
+ 
+    0.123088  
+ 
+
+
+ Material Removal Rate 0.123088=in^3/min 
+ 
+ t  =
+ 
+    0.75  
+ 
+
+
+ Cutting time=0.750000 min 
+ 
+ P  =
+ 
+    0.1803487  
+ 
+
+
+ Cutting power=0.180349 hp 
+ 
+ Fc  =
+ 
+    116.04396  
+ 
+
+
+ Cutting force=116 lb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH22/EX22.2/Ex22_2.sce #
+ 
+ 
+ d  =
+ 
+    10.  
+ 
+ f  =
+ 
+    0.2  
+ 
+ N  =
+ 
+    800.  
+ 
+ 
+ 
+ 
+
+ # Material Removal Rate and Torque in Drilling # 
+ 
+ 
+ MRR  =
+ 
+    209.33333  
+ 
+
+
+ Material Removal Rate 209=mm^3/sec 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    1.25  
+ 
+
+
+ Torque on the drill 1.250000=Nm 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH23/EX23.1/Ex23_1.sce #
+ 
+ 
+ l  =
+ 
+    12.  
+ 
+ w  =
+ 
+    4.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ d  =
+ 
+    0.125  
+ 
+ D  =
+ 
+    2.  
+ 
+ n  =
+ 
+    20.  
+ 
+ N  =
+ 
+    100.  
+ 
+ Vt  =
+ 
+    8.  
+ 
+ 
+ 
+ 
+
+ # Material Removal Rate , Power required and Cutting Time in slab milling # 
+ 
+ 
+ v  =
+ 
+    20.  
+ 
+ MRR  =
+ 
+    10.  
+ 
+
+
+ Material Removal Rate = 10 in^3/min 
+ 
+ 
+ P  =
+ 
+    11.  
+ 
+
+
+ Cutting power=11 hp 
+ 
+ T  =
+ 
+    578.02548  
+ 
+
+
+ Cutting torque=578 lb-ft 
+ 
+ lc  =
+ 
+    0.5  
+ 
+ t  =
+ 
+    37.5  
+ 
+
+
+ Cutting time=37.500000 sec 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH23/EX23.2/Ex23_2.sce #
+ 
+ 
+ l  =
+ 
+    500.  
+ 
+ w  =
+ 
+    60.  
+ 
+ v  =
+ 
+    0.6  
+ 
+ d  =
+ 
+    3.  
+ 
+ D  =
+ 
+    150.  
+ 
+ n  =
+ 
+    10.  
+ 
+ N  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+
+ # Material Removal Rate , Power Required and Cutting Time in Face Milling # 
+ 
+ 
+ MRR  =
+ 
+    108000.  
+ 
+
+
+ Material Removal Rate = 108000 mm3/min 
+ 
+ lc  =
+ 
+    75.  
+ 
+ t  =
+ 
+    65.  
+ 
+ t1  =
+ 
+    1.0833333  
+ 
+
+
+ Cutting time= 1.083333f min 
+ 
+ f  =
+ 
+    0.6  
+ 
+
+
+ Feed per Tooth= 0.600000 mm/tooth 
+ 
+ 
+ P  =
+ 
+    1980.  
+ 
+ P1  =
+ 
+    1.98  
+ 
+
+
+ Cutting power=1.980000 KW 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH25/EX25.1/Ex25_1.sce #
+ 
+ 
+ D  =
+ 
+    200.  
+ 
+ d  =
+ 
+    0.05  
+ 
+ v  =
+ 
+    30.  
+ 
+ V  =
+ 
+    1800.  
+ 
+ 
+ 
+ 
+
+ # Chip Dimensions in Surface Grinding # 
+ 
+ 
+ l  =
+ 
+    3.1622777  
+ 
+ l1  =
+ 
+    0.1244991  
+ 
+
+
+ Undeformed Chip Length = 0.124499 mm 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    2.  
+ 
+ r  =
+ 
+    15.  
+ 
+ t  =
+ 
+    0.0059276  
+ 
+ t1  =
+ 
+    0.0002334  
+ 
+
+
+ Undeformed chip Thickness = 0.000233 in 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH25/EX25.2/Ex25_2.sce #
+ 
+ 
+ D  =
+ 
+    10.  
+ 
+ N  =
+ 
+    4000.  
+ 
+ w  =
+ 
+    1.  
+ 
+ d  =
+ 
+    0.002  
+ 
+ v  =
+ 
+    60.  
+ 
+ 
+ 
+ 
+
+ # force in Surface Grinding # 
+ 
+ 
+ Mrr  =
+ 
+    0.12  
+ 
+ 
+ u  =
+ 
+    15.  
+ 
+ P  =
+ 
+    712800.  
+ 
+ Fc  =
+ 
+    5.6751592  
+ 
+ 
+
+
+ Cutting Force = 5.675159 lb 
+ 
+ 
+ 
+ Fn  =
+ 
+    7.377707  
+ 
+ 
+
+
+ Thrust Force = 7.377707 lb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH28/EX28.1/Ex28_1.sce #
+ 
+ 
+ t  =
+ 
+    1.  
+ 
+ I  =
+ 
+    5000.  
+ 
+ T  =
+ 
+    0.1  
+ 
+ d  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ 
+
+ # Heat Generated in Spot Welding # 
+ 
+ 
+ 
+ R  =
+ 
+    0.0002  
+ 
+ H  =
+ 
+    500.  
+ 
+ 
+
+
+ Heat Generated = 500 J 
+ 
+ 
+ V  =
+ 
+    30.  
+ 
+ D  =
+ 
+    0.008  
+ 
+ M  =
+ 
+    0.24  
+ 
+ 
+ m1  =
+ 
+    336.  
+ 
+
+
+ Heat Required to melt weld nugget = 336 J 
+ 
+ m2  =
+ 
+    164.  
+ 
+
+
+ Heat Dissipitated into the metal surrounding the nugget = 164 J 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH32/EX32.1/Ex32_1.sce #
+ 
+ 
+ hi  =
+ 
+    10.  
+ 
+ ODi  =
+ 
+    30.  
+ 
+ IDi  =
+ 
+    15.  
+ 
+ ODf  =
+ 
+    38.  
+ 
+ 
+ hf  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+
+ # Determination of Cofficient of Friction # 
+ 
+ 
+ IDf  =
+ 
+    9.6953597  
+ 
+ ID  =
+ 
+    35.364269  
+ 
+ 
+
+
+ With a 50 percent reduction in height and a 35 reduction in internal diameter, from the book data Cofficient of Friction = 0.21 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH36/EX36.1/Ex36_1.sce #
+ 
+ 
+ 
+ T  =
+ 
+    2.6  
+ 
+ USL  =
+ 
+    3.2  
+ 
+ LSL  =
+ 
+    2.  
+ 
+ Y  =
+ 
+    2.6  
+ 
+ s  =
+ 
+    0.2  
+ 
+ C1  =
+ 
+    10.  
+ 
+ C2  =
+ 
+    50000.  
+ 
+ n  =
+ 
+    10000.  
+ 
+ 
+ 
+
+ # Production of Polymer Tubing # 
+ 
+ 
+ k  =
+ 
+    27.777778  
+ 
+ LossCost  =
+ 
+    1.1111111  
+ 
+ 
+ s1  =
+ 
+    0.1  
+ 
+ LossCost1  =
+ 
+    0.2777778  
+ 
+
+
+ Taguchi Loss Function = $ 0.277778 per unit  
+ 
+ 
+ savings  =
+ 
+    8333.3333  
+ 
+ paybackperiod  =
+ 
+    6.  
+ 
+
+
+ Payback Period = 6.000000 months 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Manufacturing_Engineering_And_Technology_S._Kalpakjian_And_S._R._Schmid_3308/CH36/EX36.2/Ex36_2.sce #
+ 
+ 
+ n  =
+ 
+    5.  
+ 
+ m  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+
+ # Calculation of Control Limits and Standard Deviation# 
+ 
+ avgx  =
+ 
+    44.296  
+ 
+ x  =
+ 
+    4.4296  
+ 
+ avgR  =
+ 
+    1.03  
+ 
+ R  =
+ 
+    0.103  
+ 
+ 
+ A2  =
+ 
+    0.577  
+ 
+ D4  =
+ 
+    2.115  
+ 
+ D3  =
+ 
+    0.  
+ 
+ UCLx  =
+ 
+    4.489031  
+ 
+ LCLx  =
+ 
+    4.370169  
+ 
+
+
+ Control Limits for Averages are =
+ UCLx =  4.489031 in 
+ UCLy =  4.370169 in 
+ 
+ UCLR  =
+ 
+    0.  
+ 
+ LCLR  =
+ 
+    0.217845  
+ 
+ 
+
+
+ Control Limits for Ranges are =
+ UCLR =  0.000000 in 
+ UCLR =  0.217845 in 
+ 
+ 
+ d2  =
+ 
+    2.326  
+ 
+ sigma  =
+ 
+    0.0442820  
+ 
+
+
+ Standard Deviation = 0.044282 in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

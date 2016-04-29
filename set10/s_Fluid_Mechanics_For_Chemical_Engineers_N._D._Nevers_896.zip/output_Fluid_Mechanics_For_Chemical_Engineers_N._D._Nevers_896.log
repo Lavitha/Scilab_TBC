@@ -1,0 +1,3846 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 127
+
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.1/1.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    50.  
+ 
+ P1  =
+ 
+    30.  
+ 
+ P2  =
+ 
+    100.  
+ 
+ dP  =
+ 
+    70.  
+ 
+ power  =
+ 
+    2.8  
+ 
+ 
+ 
+ 
+ eta  =
+ 
+    0.7291667  
+ 
+The efficiency of the pump is 0.729167 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH11/EX11.1/1.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ dz  =
+ 
+    1.25  
+ 
+ Dp  =
+ 
+    0.03  
+ 
+ eta  =
+ 
+    0.33  
+ 
+ rho  =
+ 
+    62.3  
+ 
+ mew  =
+ 
+    1.002  
+ 
+ dx  =
+ 
+    1.  
+ 
+ 
+ 
+ Vs  =
+ 
+    0.0124222  
+ 
+The velocity of water is 0.012422 ft/s
+ 
+ d  =
+ 
+    2.  
+ 
+ A  =
+ 
+    0.0218166  
+ 
+ Q  =
+ 
+    0.0002710  
+ 
+The volumetric flow rate is 0.000271 ft^3/s
+ 
+ R  =
+ 
+    4.2885864  
+ 
+Reynolds number is 4.288586 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH12/EX12.1/1.sce #
+ 
+ 
+ 
+ ratio_Q  =
+ 
+    10.  
+ 
+ x  =
+ 
+    0.35  
+ 
+ eta  =
+ 
+    0.7407407  
+ 
+Eta = 0.740741
+ 
+ Vl  =
+ 
+    2.06  
+ 
+ Vl_avg  =
+ 
+    7.9457143  
+ 
+ Vg_avg  =
+ 
+    27.81  
+ 
+ V_slip  =
+ 
+    19.864286  
+ 
+The slip velocity is 19.864286 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH13/EX13.1/1.sce #
+ 
+ 
+ 
+ v  =
+ 
+    1.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ A  =
+ 
+    0.1963495  
+ 
+ Q  =
+ 
+    0.1963495  
+ 
+ 
+ n  =
+ 
+    0.41  
+ 
+ K  =
+ 
+    0.66  
+ 
+ 
+ Q1  =
+ 
+    0.0055592  
+ 
+ d1  =
+ 
+    0.1523926  
+ 
+ DP  =
+ 
+    61.241859  
+ 
+The pressure gradient is 61.241859 Pa/m 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH17/EX17.1/1.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.000161  
+ 
+ x  =
+ 
+    2.  
+ 
+ V  =
+ 
+    200.  
+ 
+ 
+ 
+ delta_aeroplane  =
+ 
+    0.0052386  
+ 
+The boundary layer thickness for the aeroplane is 0.005239 ft
+ 
+ 
+ v1  =
+ 
+    0.0000108  
+ 
+ x1  =
+ 
+    2.  
+ 
+ V1  =
+ 
+    10.  
+ 
+ 
+ 
+ delta_boat  =
+ 
+    0.0060678  
+ 
+The boundary layer thickness for the boat is 0.006068 ft
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.1/1.sce #
+ 
+ 
+ 
+ L  =
+ 
+    0.000001  
+ 
+ D  =
+ 
+    1.200D-09  
+ 
+ t  =
+ 
+    0.0016667  
+ 
+The time required for mixing is 0.001667 seconds 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH1/EX1.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The density of mud=   
+ 
+ 
+    110.58981  
+ 
+ 
+ lbm/ft^3   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH20/EX20.1/1.sce #
+ 
+ 
+ 
+ y_fd2  =
+ 
+    0.4336  
+ 
+ y_fd1  =
+ 
+    0.4375  
+ 
+ delta_yfd  =
+ 
+  - 0.0039  
+ 
+ x_fd2  =
+ 
+    0.75  
+ 
+ x  =
+ 
+    0.5  
+ 
+ delta_xfd  =
+ 
+    0.25  
+ 
+ y_bd2  =
+ 
+    0.4375  
+ 
+ y_bd1  =
+ 
+    0.2461  
+ 
+ delta_ybd  =
+ 
+    0.1914  
+ 
+ x_bd1  =
+ 
+    0.25  
+ 
+ delta_xbd  =
+ 
+    0.25  
+ 
+ 
+ Dy_fd  =
+ 
+  - 0.0156  
+ 
+ Dy_bd  =
+ 
+    0.7656  
+ 
+ Dy  =
+ 
+    0.375  
+ 
+The first derivative of fluid flow is 0.375000
+ 
+ D2y  =
+ 
+  - 3.1248  
+ 
+The second derivative of fluid flow is -3.124800 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Specific weight of water is   
+ 
+ 
+    62.3  
+ 
+ 
+ lbf/ft^3   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH4/EX4.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ dpe  =
+ 
+    225.63  
+ 
+change in pot. energy per unit mass is 225.630000 m^2/s^2
+ 
+ 
+ dPE  =
+ 
+    2256.3  
+ 
+The total change in potential energy is 2256.300000 J 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.1/1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dT  =
+ 
+    0.2344646  
+ 
+Change in temperature is 0.234465 K or degree centigrade 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.1/1.sce #
+ 
+ 
+ 
+ q  =
+ 
+    50.  
+ 
+ d  =
+ 
+    3.068  
+ 
+ a  =
+ 
+    0.0513379  
+ 
+ 
+ 
+ v_avg  =
+ 
+    2.1700965  
+ 
+ mew  =
+ 
+    50.  
+ 
+ 
+ rho  =
+ 
+    62.3  
+ 
+ R  =
+ 
+    1028.7313  
+ 
+Laminar flow
+ 
+ dx  =
+ 
+    3000.  
+ 
+ 
+ 
+ dp  =
+ 
+    23.127341  
+ 
+ 
+ Dp  =
+ 
+    0.7709114  
+ 
+The pressure gradient in the pipe is 0.770911 psi/100ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.1/1.sce #
+ 
+ 
+ 
+ 
+ K_steel  =
+ 
+    1.940D+11  
+ 
+ rho_steel  =
+ 
+    7800.  
+ 
+ c_steel  =
+ 
+    4.987163  
+ 
+the speed of sound in steel at 20 C is 4.987163 km/s
+ 
+ 
+ K_water  =
+ 
+    314000.  
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ 
+ 
+ c_water  =
+ 
+    4834.2598  
+ 
+the speed of sound in water at 20 C is 4834.259759 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.2/2.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    3.72  
+ 
+ P2  =
+ 
+    14.5  
+ 
+ dP  =
+ 
+    10.78  
+ 
+ rho  =
+ 
+    61.3  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ h_loss  =
+ 
+    4.  
+ 
+ v  =
+ 
+    10.  
+ 
+ h_max  =
+ 
+    19.770533  
+ 
+the maximum elevation above the lowest water level in sump at which pump inlet can be placed is 19.770533 ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH11/EX11.2/2.sce #
+ 
+ 
+ 
+ Vs  =
+ 
+    2.  
+ 
+ dp  =
+ 
+    0.03  
+ 
+ rho  =
+ 
+    62.3  
+ 
+ eta  =
+ 
+    0.33  
+ 
+ 
+ 
+ 
+ DP  =
+ 
+    701.39182  
+ 
+The pressure gradient is 701.391821 psi/ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH17/EX17.2/2.sce #
+ 
+ 
+ 
+ rho_water  =
+ 
+    998.2  
+ 
+ V  =
+ 
+    15.  
+ 
+ v  =
+ 
+    0.0000010  
+ 
+ l  =
+ 
+    1.  
+ 
+ 
+ 
+ Rx  =
+ 
+    4150066.4  
+ 
+ Cf  =
+ 
+    0.0006519  
+ 
+ F  =
+ 
+    11.297065  
+ 
+The force required to tow the square plate is 11.297065 N 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH18/EX18.2/2.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.82  
+ 
+ energy_per_unit_mass  =
+ 
+    0.3362  
+ 
+The energy per unit mass is 0.336200 J/Kg
+ 
+ 
+ 
+ DP  =
+ 
+    0.0286  
+ 
+ rho  =
+ 
+    1.2  
+ 
+ eta  =
+ 
+    0.0195433  
+ 
+The heat dissipation rate is 0.019543 J/Kg/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.2/2.sce #
+ 
+ 
+ 
+ D_tank  =
+ 
+    3.  
+ 
+ D_impeller  =
+ 
+    1.  
+ 
+ N  =
+ 
+    4.  
+ 
+ v  =
+ 
+    0.0000108  
+ 
+ R_impeller  =
+ 
+    4.  
+ 
+ 
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ P  =
+ 
+    1.1256917  
+ 
+The power required to run an impeller is 1.125692 hp 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH1/EX1.2/2.sce #
+ 
+ 
+ 
+ D1  =
+ 
+    25.15  
+ 
+ D2  =
+ 
+    27.62  
+ 
+ dr  =
+ 
+    1.235  
+ 
+ f  =
+ 
+    10.  
+ 
+ Vo  =
+ 
+    13.168509  
+ 
+ 
+ DV  =
+ 
+    10.66276  
+ 
+ tow  =
+ 
+    0.005  
+ 
+ L  =
+ 
+    92.37  
+ 
+ s  =
+ 
+    0.0544808  
+ 
+The stress at the surface of the inner cylinder is 0.054481 N/m^2 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pressure at the depth is   
+ 
+ 
+    3164.1547  
+ 
+ 
+ KPa   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH4/EX4.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ KE  =
+ 
+    842.23602  
+ 
+the kinetic energy of bullet is 842.236025 J 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.2/2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Velocity of the air flowing out of the pipe 35.094226 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.2/2.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    1050.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ dz  =
+ 
+    0.12  
+ 
+ d  =
+ 
+    0.001  
+ 
+ q  =
+ 
+    1.000D-08  
+ 
+ dx  =
+ 
+    0.1  
+ 
+ mew  =
+ 
+    30.337477  
+ 
+The viscosity of the fluid is 30.337477 cP 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.2/2.sce #
+ 
+ 
+ 
+ m_duck  =
+ 
+    3.  
+ 
+ v_duck  =
+ 
+  - 15.  
+ 
+ m_bullet  =
+ 
+    0.05  
+ 
+ v_bullet  =
+ 
+    1000.  
+ 
+ 
+ v_sys  =
+ 
+    1.6393443  
+ 
+The final velocity of the duck is 1.639344 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.2/2.sce #
+ 
+ 
+ 
+ R  =
+ 
+    10.73  
+ 
+ 
+ 
+ R1  =
+ 
+    223.0535  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T  =
+ 
+    528.  
+ 
+ M  =
+ 
+    29.  
+ 
+ c  =
+ 
+    1126.1365  
+ 
+the speed of sound in air at 20 C is 1126.136469 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.3/3.sce #
+ 
+ 
+ 
+ R  =
+ 
+    1.987  
+ 
+ T  =
+ 
+    528.  
+ 
+ ratio_P  =
+ 
+    10.  
+ 
+ 
+ W1  =
+ 
+    2415.7249  
+ 
+The work required per pound mole for a 100 percent efficient isothermal compressor is 2415.724914  
+Btu/lbmol
+ 
+ 
+ gama  =
+ 
+    1.4  
+ 
+ W2  =
+ 
+    3417.4997  
+ 
+The work required per pound mole for a 100 percent efficient adiabatic compressor is 3417.499724  
+Btu/lbmol 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH11/EX11.3/3.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    1.  
+ 
+ mew  =
+ 
+    0.018  
+ 
+ dx  =
+ 
+    0.5  
+ 
+ A  =
+ 
+    1.  
+ 
+ dP  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.0855772  
+ 
+The permeability is 0.085577 darcy 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH13/EX13.3/3.sce #
+ 
+ 
+ 
+ DP  =
+ 
+    61.3  
+ 
+ D  =
+ 
+    0.152  
+ 
+ V_avg  =
+ 
+    0.305  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ f  =
+ 
+    0.0500812  
+ 
+The fanning friction factor is 0.050081
+ 
+ n  =
+ 
+    0.41  
+ 
+ K  =
+ 
+    0.66  
+ 
+ R_pl  =
+ 
+    318.53177  
+ 
+The reynolds number is 318.531771
+ 
+The flow is Laminar 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH17/EX17.3/3.sce #
+ 
+ 
+ 
+ V  =
+ 
+    10.  
+ 
+ l  =
+ 
+    0.25  
+ 
+ v  =
+ 
+    0.0000108  
+ 
+ R  =
+ 
+    231481.48  
+ 
+ f  =
+ 
+    0.0037  
+ 
+ u1  =
+ 
+    0.4301163  
+ 
+ u01  =
+ 
+    5.  
+ 
+ y01  =
+ 
+    5.  
+ 
+ r1  =
+ 
+    0.0001255  
+ 
+the distance between the wall and edge of the laminar sublayer is 0.000126 ft
+ 
+ 
+ u02  =
+ 
+    12.  
+ 
+ y02  =
+ 
+    26.  
+ 
+ r2  =
+ 
+    0.0006528  
+ 
+the distance between the wall and edge of the buffer layer is 0.000653 ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH18/EX18.3/3.sce #
+ 
+ 
+ 
+ Vx_rms  =
+ 
+    9.5  
+ 
+ Vy_rms  =
+ 
+    5.  
+ 
+ k  =
+ 
+    0.0057625  
+ 
+k = 0.005763 J/Kg 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.3/3.sce #
+ 
+ 
+ 
+ 
+ ratio_D  =
+ 
+    5.  
+ 
+ N2  =
+ 
+    240.  
+ 
+ N1  =
+ 
+    82.078845  
+ 
+the impeller speed in a model of a large mixer if the power per unit volume remains the same is 82.078845 rpm 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH1/EX1.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The surface tension of fluid is   
+ 
+ 
+    0.02945  
+ 
+ 
+ N/m   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH20/EX20.3/3.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0000108  
+ 
+ t  =
+ 
+    2.  
+ 
+ dy  =
+ 
+    0.01  
+ 
+ w  =
+ 
+    0.2154  
+ 
+ 
+ V00  =
+ 
+    5.  
+ 
+ V10  =
+ 
+    5.  
+ 
+ V01  =
+ 
+    0.  
+ 
+ V02  =
+ 
+    0.  
+ 
+ V12  =
+ 
+    0.  
+ 
+ V11  =
+ 
+    1.077  
+ 
+ V21  =
+ 
+    1.6900284  
+ 
+The grid velocity for 2,1 is 1.690028 ft/s
+ 
+ V13  =
+ 
+    0.  
+ 
+ V22  =
+ 
+    0.2319858  
+ 
+The grid velocity for 2,2 is 0.231986 ft/s
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gauge pressure is   
+ 
+ 
+    3300.  
+ 
+ 
+ lbf/ft^2   
+ 
+ 
+ 
+ 
+ Gauge pressure is   
+ 
+ 
+    22.916667  
+ 
+ 
+ lbf/in^2   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH4/EX4.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ v_b  =
+ 
+    10.  
+ 
+ 
+ KE  =
+ 
+    0.0210559  
+ 
+the kinetic energy of bullet fired from a airplane is 0.021056 J 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.3/3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The velocity of the water flowing out through the nozzle is 43.954522 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.3/3.sce #
+ 
+ 
+ 
+ R  =
+ 
+    100000.  
+ 
+ ratio_ED  =
+ 
+    0.0002  
+ 
+ f  =
+ 
+    0.0046889  
+ 
+The fanning friction factor is 0.004689 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.3/3.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    998.2  
+ 
+ q  =
+ 
+    0.01  
+ 
+ v_initial  =
+ 
+    30.  
+ 
+ v_final  =
+ 
+    0.  
+ 
+ F  =
+ 
+  - 299.46  
+ 
+The force required to hold of water from a hoze -299.460000 N 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.3/3.sce #
+ 
+ 
+ 
+ Ma  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T1  =
+ 
+    528.  
+ 
+ T2  =
+ 
+    293.33333  
+ 
+The temperature of the gas when mach number is 2 is 293.333333 R 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.4/4.sce #
+ 
+ 
+ 
+ R  =
+ 
+    1.987  
+ 
+ T  =
+ 
+    528.  
+ 
+ ratio_P1  =
+ 
+    3.  
+ 
+ ratio_P2  =
+ 
+    3.3333333  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ W  =
+ 
+    2861.5921  
+ 
+The work required per pound mole for a 100 percent efficient adiabatic compressor is 2861.592127  
+Btu/lbmol 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH13/EX13.4/4.sce #
+ 
+ 
+ 
+ D  =
+ 
+    0.152  
+ 
+ V_avg  =
+ 
+    3.04  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ n  =
+ 
+    0.41  
+ 
+ K  =
+ 
+    0.66  
+ 
+ R_pl  =
+ 
+    12327.784  
+ 
+The reynolds number is 12327.783810
+ 
+ f  =
+ 
+    0.004  
+ 
+ 
+ DP  =
+ 
+    0.4864  
+ 
+The pressure gradient is 0.486400 KPa/m 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH15/EX15.4/4.sce #
+ 
+ 
+ 
+ 
+ y  =
+ 
+    0.05  
+ 
+ r0  =
+ 
+    0.077  
+ 
+ mew  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ new  =
+ 
+    0.001  
+ 
+ t  =
+ 
+    0.29645  
+ 
+the time taken by water in a long pipe to reach its steady state velocity is  0.296450 seconds 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH17/EX17.4/4.sce #
+ 
+ 
+ 
+ V  =
+ 
+    50.  
+ 
+ l  =
+ 
+    20.  
+ 
+ b  =
+ 
+    1.  
+ 
+ v  =
+ 
+    0.0000108  
+ 
+ R  =
+ 
+    92592593.  
+ 
+ delta  =
+ 
+    0.1887628  
+ 
+The boundary layer thichness at the end of the plate is 0.188763 ft
+ 
+ Cf  =
+ 
+    0.0018366  
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ V  =
+ 
+    50.  
+ 
+ 
+ A  =
+ 
+    40.  
+ 
+ 
+ F  =
+ 
+    177.67218  
+ 
+The drag on the plate is 177.672178 lbf 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH18/EX18.4/4.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0001613  
+ 
+ eta  =
+ 
+    0.21  
+ 
+ kolmogorov_scale  =
+ 
+    0.0021143  
+ 
+The Kolmogorov scale is 0.002114 ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.4/4.sce #
+ 
+ 
+ 
+ D_tank  =
+ 
+    3.  
+ 
+ D_impeller  =
+ 
+    1.  
+ 
+ H_tank  =
+ 
+    3.  
+ 
+ N  =
+ 
+    4.  
+ 
+ t_blend  =
+ 
+    9.675  
+ 
+the time required to blend two miscible, low viscosity liquids is 9.675000 s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH1/EX1.4/4.sce #
+ 
+ 
+ 
+ V  =
+ 
+    327.  
+ 
+ 
+ 
+ V1  =
+ 
+    479.6  
+ 
+327 miles/hr = 479.600000 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pressure at 1000ft is   
+ 
+ 
+    14.178951  
+ 
+ 
+ psia   
+ 
+ 
+ 
+ 
+ 
+ pressure at 10000ft is   
+ 
+ 
+    10.246725  
+ 
+ 
+ psia   
+ 
+ 
+ 
+ 
+ 
+ pressure at 100000ft is   
+ 
+ 
+    0.3981023  
+ 
+ 
+ psia   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH3/EX3.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ q  =
+ 
+    0.0167  
+ 
+volumetric flow rate is 0.016700 ft^3/s
+ 
+ m  =
+ 
+    0.7490952  
+ 
+Mass flow rate is 0.749095 lbm/s
+ 
+ 
+ 
+ v_avg  =
+ 
+    3.0618865  
+ 
+The average velocity is 3.061886 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH4/EX4.4/4.sce #
+ 
+ 
+ 
+ 
+ 
+ dW  =
+ 
+    2.7208226  
+ 
+ 
+ dU  =
+ 
+  - 44.720823  
+ 
+the change in internal energy of the system is -44.720823 Btu 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.4/4.sce #
+ 
+ 
+ 
+ A_nozzle  =
+ 
+    1.  
+ 
+ A_tank  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    30.  
+ 
+ v  =
+ 
+    45.396035  
+ 
+The velocity of water flowing out of nozzle is 45.396035 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.4/4.sce #
+ 
+ 
+ 
+ q  =
+ 
+    300.  
+ 
+ d  =
+ 
+    3.068  
+ 
+ a  =
+ 
+    0.0513379  
+ 
+ 
+ 
+ v_avg  =
+ 
+    13.020579  
+ 
+ f  =
+ 
+    0.0091  
+ 
+ dx  =
+ 
+    3000.  
+ 
+ rho  =
+ 
+    62.3  
+ 
+ dp  =
+ 
+    486.4619  
+ 
+The gauge pressure in the tank is 486.461898 psi 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.4/4.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    998.2  
+ 
+ q  =
+ 
+    0.01  
+ 
+ v_initial  =
+ 
+    30.  
+ 
+ v_final  =
+ 
+  - 15.  
+ 
+ F  =
+ 
+  - 449.19  
+ 
+The force required to hold of water from a hoze -449.190000 N 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.4/4.sce #
+ 
+ 
+ 
+ R  =
+ 
+    10.73  
+ 
+ 
+ 
+ R_root  =
+ 
+    223.0535  
+ 
+ Ma  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T  =
+ 
+    298.  
+ 
+ M  =
+ 
+    29.  
+ 
+ c  =
+ 
+    846.02305  
+ 
+846.023046 
+ v  =
+ 
+    1692.0461  
+ 
+The speed of sound in air at 20 C is 1692.046093 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.5/5.sce #
+ 
+ 
+ 
+ N  =
+ 
+    1750.  
+ 
+ 
+ omega  =
+ 
+    183.25957  
+ 
+ Q  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ d_inlet  =
+ 
+    2.067  
+ 
+ A_inlet  =
+ 
+    3.355605  
+ 
+ V1  =
+ 
+    9.5611174  
+ 
+ d_outlet  =
+ 
+    1.61  
+ 
+ A_outlet  =
+ 
+    2.0358306  
+ 
+ V2  =
+ 
+    15.759334  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d_inner  =
+ 
+    0.086  
+ 
+ d_outer  =
+ 
+    0.336  
+ 
+ h  =
+ 
+    112.47175  
+ 
+The pump head is 112.471747 ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH13/EX13.5/5.sce #
+ 
+ 
+ 
+ tow_yield  =
+ 
+    3.8  
+ 
+ mew  =
+ 
+    0.00686  
+ 
+ D  =
+ 
+    0.0206  
+ 
+ rho  =
+ 
+    1530.  
+ 
+ V  =
+ 
+    3.47  
+ 
+ He  =
+ 
+    52427.752  
+ 
+The headstrom number is 52427.752042
+ 
+ R  =
+ 
+    15942.778  
+ 
+The reynolds number is 15942.778426
+ 
+ dP  =
+ 
+    11069.  
+ 
+ f  =
+ 
+    0.0061886  
+ 
+The fanning friction factor is 0.006189 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.5/5.sce #
+ 
+ 
+ 
+ c  =
+ 
+    0.1  
+ 
+ c_interface  =
+ 
+    50.  
+ 
+ c_original  =
+ 
+    0.  
+ 
+ ratio_c  =
+ 
+    0.998  
+ 
+ 
+ 
+ t  =
+ 
+    457000.  
+ 
+ D  =
+ 
+    2.000D-09  
+ 
+ x  =
+ 
+    0.1299995  
+ 
+x=0.129999 m
+ 
+ v0  =
+ 
+    0.355  
+ 
+ 
+ V_mixed  =
+ 
+    0.3028350  
+ 
+the mixed volume is 0.302835 ft^3 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH1/EX1.5/5.sce #
+ 
+ 
+ 
+ t  =
+ 
+    2.6  
+ 
+ 
+ t1  =
+ 
+    9360.  
+ 
+2.6 hours = 9360.000000 seconds 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    8314.  
+ 
+ 
+ h  =
+ 
+    304.8  
+ 
+ 
+ 
+ pressure at 1000ft is   
+ 
+ 
+    14.169493  
+ 
+ 
+ psia   
+ 
+ 
+ h  =
+ 
+    3048.  
+ 
+ 
+ 
+ pressure at 10000ft is   
+ 
+ 
+    9.3949261  
+ 
+ 
+ psia   
+ 
+ 
+ h  =
+ 
+    30480.  
+ 
+ 
+ 
+ pressure at 100000ft is   
+ 
+ 
+  - 38.350739  
+ 
+ 
+ psia   
+ 
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH3/EX3.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ v2  =
+ 
+    37.229437  
+ 
+Velocity is 37.229437 ft/s
+ 
+ m  =
+ 
+    405.26545  
+ 
+The mass flow rate is 405.265452 lbm/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH4/EX4.5/5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W  =
+ 
+    101.65  
+ 
+The work done is 101.650000 J/Kg 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.5/5.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    30.  
+ 
+ M_air  =
+ 
+    29.  
+ 
+ M_CO2  =
+ 
+    44.  
+ 
+ v  =
+ 
+    25.663912  
+ 
+The velocity of water flowing out of nozzle is 25.663912 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.5/5.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.1  
+ 
+ A  =
+ 
+    0.0078540  
+ 
+ dx  =
+ 
+    100.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ dz  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ v  =
+ 
+    3.132092  
+ 
+The velocity of gasoline through pipe is 3.132092 m/s
+ 
+ q  =
+ 
+    0.0245994  
+ 
+The volumteric flow arte od gasoline through the pipe is 0.024599 m^3/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.5/5.sce #
+ 
+ 
+ 
+ 
+ Pg  =
+ 
+    100.  
+ 
+ A  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ F_bolts  =
+ 
+  - 1000.  
+ 
+The force exerted on the flange when the valve of the nozzle is d is -1000.000000 lbf 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.5/5.sce #
+ 
+ 
+ 
+ ratio_T  =
+ 
+    1.8  
+ 
+ P1  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ P2  =
+ 
+    0.2556091  
+ 
+The pressure where temperature ratio is 1.8 and initial pressure is 2 bar is 0.255609 bar
+ 
+ rho1  =
+ 
+    2.39  
+ 
+ rho2  =
+ 
+    0.5498151  
+ 
+The density where temperature ratio is 1.8 and initial density is 2.39 Kg/m^3 is 0.549815 Kg/m^3 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.6/6.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    62.3  
+ 
+ g  =
+ 
+    32.2  
+ 
+ v  =
+ 
+    18.46  
+ 
+ 
+ h  =
+ 
+    2.7349246  
+ 
+The pump head is 2.734925 ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.6/6.sce #
+ 
+ 
+ 
+ v  =
+ 
+    8.  
+ 
+ f  =
+ 
+    0.0039  
+ 
+ D_turbulent  =
+ 
+    1.186075  
+ 
+ 
+ t  =
+ 
+    457000.  
+ 
+ x  =
+ 
+    3165.7939  
+ 
+x=3165.793854 m
+ 
+ v0  =
+ 
+    0.355  
+ 
+ V_mixed  =
+ 
+    2247.7136  
+ 
+the mixed volume is 2247.713636 ft^3 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH1/EX1.6/6.sce #
+ 
+ 
+ 
+ m  =
+ 
+    10.  
+ 
+ F  =
+ 
+    3.5  
+ 
+ 
+ 
+ a  =
+ 
+    40572.  
+ 
+The acceleration provided is 40572.000000 ft/min^2 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Force exerted by atmosphere on the roof is   
+ 
+ 
+    23940444.  
+ 
+ 
+ lbf   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH3/EX3.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d2  =
+ 
+    0.125  
+ 
+ 
+ m  =
+ 
+    97.998056  
+ 
+Mass flow rate is 97.998056 kg/s
+ 
+ q  =
+ 
+    0.0981748  
+ 
+The volumetric flow rate is 0.098175 m^3/s
+ 
+ v2  =
+ 
+    8.  
+ 
+Velocity of water is 8.000000 m/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH4/EX4.6/6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pow  =
+ 
+    8.  
+ 
+ Dm  =
+ 
+    2.2222222  
+ 
+the mass consumed in a nu reactor per unit time is 2.222222 * 10^(-8) kg/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.6/6.sce #
+ 
+ 
+ 
+ h  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ v  =
+ 
+    4.4294469  
+ 
+The velocity of sailboat is 4.429447 m/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.6/6.sce #
+ 
+ 
+ 
+ p  =
+ 
+    14.75  
+ 
+ M  =
+ 
+    29.  
+ 
+ R  =
+ 
+    10.73  
+ 
+ T  =
+ 
+    500.  
+ 
+ rho  =
+ 
+    0.0797297  
+ 
+ q  =
+ 
+    500.  
+ 
+ d  =
+ 
+    1.  
+ 
+ A  =
+ 
+    0.7853982  
+ 
+ v  =
+ 
+    10.61033  
+ 
+ mew  =
+ 
+    0.017  
+ 
+ 
+ R  =
+ 
+    74051.007  
+ 
+ f  =
+ 
+    0.00465  
+ 
+ dx  =
+ 
+    800.  
+ 
+ 
+ 
+ dP  =
+ 
+    0.0144023  
+ 
+The pressure drop across the duct is 0.014402 lbf/in^2 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.6/6.sce #
+ 
+ 
+ 
+ dP  =
+ 
+    100.  
+ 
+ A_out  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    62.3  
+ 
+ ratio_A  =
+ 
+    0.1  
+ 
+ 
+ 
+ v_out  =
+ 
+    122.62035  
+ 
+ v_in  =
+ 
+    12.3  
+ 
+ m  =
+ 
+    53.050333  
+ 
+ F  =
+ 
+    181.75563  
+ 
+The force exerted on the flange is 181.755634 lbf 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.6/6.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    30.  
+ 
+ T1  =
+ 
+    660.  
+ 
+ m  =
+ 
+    10.  
+ 
+ v1  =
+ 
+    1400.  
+ 
+ R  =
+ 
+    49800.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ M  =
+ 
+    29.  
+ 
+ T2  =
+ 
+    496.94779  
+ 
+The temperature at the pt in the duct where air velocity is 1400 ft/s is 496.947791 R
+ 
+ c  =
+ 
+    1092.2581  
+ 
+ Ma  =
+ 
+    1.2817484  
+ 
+The mach number at the pt in the duct where air velocity is 1400 ft/s is 1.281748
+ 
+ P2  =
+ 
+    11.112331  
+ 
+The pressure at the pt in the duct where air velocity is 1400 ft/s is 11.112331 psia
+ 
+ 
+ A0  =
+ 
+    16.083495  
+ 
+ ratio_A  =
+ 
+    1.0587965  
+ 
+ A  =
+ 
+    17.029147  
+ 
+The cross sectional at the pt in the duct where air velocity is 1400 ft/s is 17.029147 in^2 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.7/7.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    0.075  
+ 
+ omega  =
+ 
+    1047.  
+ 
+ d  =
+ 
+    2.  
+ 
+ dP  =
+ 
+    8.8655619  
+ 
+ 
+ 
+the estimated pressure rise in the first stage of mutisatge centrifugal compressor is 8.865562 psia 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH18/EX18.7/7.sce #
+ 
+ 
+ 
+ K  =
+ 
+    0.00576  
+ 
+ eta  =
+ 
+    0.0196  
+ 
+ C_mew  =
+ 
+    0.09  
+ 
+ v_t  =
+ 
+    0.0001523  
+ 
+the value of turbulent kinematic viscosity is 0.000152 m^2/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.7/7.sce #
+ 
+ 
+ 
+ f  =
+ 
+    0.0039  
+ 
+ D  =
+ 
+    0.665  
+ 
+ L  =
+ 
+    5.9631724  
+ 
+L = 5.963172 ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH1/EX1.7/7.sce #
+ 
+ 
+ 
+ I  =
+ 
+    50000.  
+ 
+ 
+ I1  =
+ 
+    1.800D+08  
+ 
+ 
+ 
+ 
+ m  =
+ 
+    16.787565  
+ 
+the wt of metallic aluminium deposited in an electrolytic cell is 16.787565 Kg/hr 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ 
+ 
+ 
+ 
+ 
+    469965.8  
+ 
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH3/EX3.7/7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    92.103404  
+ 
+The time required is 92.103404 min 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.7/7.sce #
+ 
+ 
+ 
+ dP  =
+ 
+    0.05  
+ 
+ rho_air  =
+ 
+    0.075  
+ 
+ 
+ 
+ v  =
+ 
+    78.628239  
+ 
+The velocity of air in the air duct is 78.628239 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.7/7.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    200.  
+ 
+ A  =
+ 
+    0.1  
+ 
+ m  =
+ 
+    500.  
+ 
+ rho  =
+ 
+    998.2  
+ 
+ q  =
+ 
+    0.5009016  
+ 
+ v  =
+ 
+    5.0090162  
+ 
+ Vx_initial  =
+ 
+    5.0090162  
+ 
+ Vx_final  =
+ 
+    0.  
+ 
+ Vy_initial  =
+ 
+    0.  
+ 
+ Vy_final  =
+ 
+  - 5.0090162  
+ 
+ Fx  =
+ 
+  - 22504.508  
+ 
+The support force in the x direction is -22504.508115 N
+ 
+ Fy  =
+ 
+  - 22504.508  
+ 
+The support force in the y direction is -22504.508115 N 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.7/7.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    30.  
+ 
+ T1  =
+ 
+    660.  
+ 
+ ratio_T  =
+ 
+    0.83333  
+ 
+ m  =
+ 
+    10.  
+ 
+ v1  =
+ 
+    1400.  
+ 
+ R  =
+ 
+    49800.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ M  =
+ 
+    29.  
+ 
+ T2  =
+ 
+    549.9978  
+ 
+The temperature at the pt in the duct where air velocity is 1400 ft/s is 549.997800 R
+ 
+ c  =
+ 
+    1149.0802  
+ 
+ Ma  =
+ 
+    1.2183657  
+ 
+The mach number at the pt in the duct where air velocity is 1400 ft/s is 1.218366
+ 
+ ratio_t  =
+ 
+    0.7528  
+ 
+ ratio_P  =
+ 
+    0.3701  
+ 
+ ratio_A  =
+ 
+    1.0587  
+ 
+ T  =
+ 
+    496.848  
+ 
+T=496.848000
+ 
+ P  =
+ 
+    11.103  
+ 
+P=11.103000 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH10/EX10.8/8.sce #
+ 
+ 
+ 
+ m  =
+ 
+    100.  
+ 
+ M  =
+ 
+    29.  
+ 
+ gama  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    8.314  
+ 
+ T  =
+ 
+    293.15  
+ 
+ ratio_P  =
+ 
+    4.  
+ 
+ Po  =
+ 
+    3.9709885  
+ 
+ P_real  =
+ 
+    5.3  
+ 
+ eta  =
+ 
+    0.7492431  
+ 
+The efficiency of the compressor is 0.749243
+ 
+ Cp  =
+ 
+    29.1  
+ 
+ dT_real  =
+ 
+    190.14433  
+ 
+dT_real = 190.144330 K
+ 
+ dT_isentropic  =
+ 
+    142.46433  
+ 
+dT_isentropic = 142.464330 K 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.8/8.sce #
+ 
+ 
+ 
+ Vo  =
+ 
+    40.  
+ 
+ Do  =
+ 
+    1.  
+ 
+ x  =
+ 
+    10.  
+ 
+ K  =
+ 
+    6.2  
+ 
+ V_centerline  =
+ 
+    24.8  
+ 
+ alpha  =
+ 
+    20.  
+ 
+ Dx  =
+ 
+    4.4202014  
+ 
+The jet diameter is 4.420201 ft
+ 
+ 
+ r  =
+ 
+    1.9606121  
+ 
+The entrainment ratio is 1.960612 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.8/8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The net force on the lock gate is   
+ 
+ 
+    9.81  
+ 
+ 
+ MN   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH3/EX3.8/8.sce #
+ 
+ 
+ 
+ 
+ 
+ rho_sys  =
+ 
+    0.0001  
+ 
+ 
+ 
+ p_steady  =
+ 
+    0.0013333  
+ 
+The steady state pressure is 0.001333 atm 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.8/8.sce #
+ 
+ 
+ 
+ dP  =
+ 
+    1.  
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ d1  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    0.7853982  
+ 
+ d2  =
+ 
+    0.5  
+ 
+ A2  =
+ 
+    0.1963495  
+ 
+ 
+ 
+ v  =
+ 
+    12.600696  
+ 
+The velocity of the water flowing through venturimeter is 12.600696 ft/s
+ 
+ q  =
+ 
+    2.4741408  
+ 
+The volumetric flow rate of water is 2.474141 ft^3/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.8/8.sce #
+ 
+ 
+ 
+ q  =
+ 
+    200.  
+ 
+ rho  =
+ 
+    62.3  
+ 
+ 
+ m  =
+ 
+    27.762923  
+ 
+ dx  =
+ 
+    2000.  
+ 
+ dp  =
+ 
+    3.87  
+ 
+ F  =
+ 
+    5760.6472  
+ 
+ 
+ Po  =
+ 
+    290.78619  
+ 
+The pump power required is 290.786193 hp 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.8/8.sce #
+ 
+ 
+ 
+ m  =
+ 
+    1000.  
+ 
+ v_out  =
+ 
+  - 3000.  
+ 
+ v_in  =
+ 
+    0.  
+ 
+ A  =
+ 
+    7.  
+ 
+ P  =
+ 
+    35000.  
+ 
+ F_thrust  =
+ 
+    3.245  
+ 
+The thrust on the rocket is 3.245000 MN 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.8/8.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    30.  
+ 
+ T1  =
+ 
+    660.  
+ 
+ m  =
+ 
+    10.  
+ 
+ v1  =
+ 
+    4000.  
+ 
+ R  =
+ 
+    49800.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ M  =
+ 
+    29.  
+ 
+ T2  =
+ 
+  - 671.03844  
+ 
+The temperature at the pt in the duct where air velocity is 1400 ft/s is -671.038439 R
+ 
+ c  =
+ 
+    7.772D-14 + 1269.2395i  
+ 
+ Ma  =
+ 
+    1.930D-16 - 3.1514935i  
+ 
+ P2  =
+ 
+    4.285D-14 + 31.793137i  
+ 
+ 
+ A0  =
+ 
+    16.083495  
+ 
+ ratio_A  =
+ 
+  - 2.591D-16 - 0.1762283i  
+ 
+ A  =
+ 
+  - 4.167D-15 - 2.8343662i  
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH19/EX19.9/9.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    20.  
+ 
+ u  =
+ 
+    3.  
+ 
+ sigma_y  =
+ 
+    30.  
+ 
+ sigma_z  =
+ 
+    20.  
+ 
+ y  =
+ 
+    60.  
+ 
+ z  =
+ 
+    20.  
+ 
+ H  =
+ 
+    0.  
+ 
+ c  =
+ 
+    0.0001452  
+ 
+the SO2 concentration at the centerline is 0.000145 gm/m^3 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.9/9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thichness of the storage tank is   
+ 
+ 
+    0.8244  
+ 
+ 
+ in   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH3/EX3.9/9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The water level in tank is falling
+ Dh  =
+ 
+  - 0.0022222  
+The rate of level of water is rising or falling in a cylindrical tank is -0.002222 m/s
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.9/9.sce #
+ 
+ 
+ 
+ dP  =
+ 
+    1.  
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ d1  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    0.7853982  
+ 
+ d2  =
+ 
+    0.5  
+ 
+ A2  =
+ 
+    0.1963495  
+ 
+ 
+ 
+ v_th  =
+ 
+    12.600696  
+ 
+ Cv  =
+ 
+    0.984  
+ 
+ v_act  =
+ 
+    12.399084  
+ 
+The velocity of the water flowing through venturimeter is 12.399084 ft/s
+ 
+ q  =
+ 
+    2.4345545  
+ 
+The volumetric flow rate of water is 2.434555 ft^3/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.9/9.sce #
+ 
+ 
+ 
+ dp  =
+ 
+    0.1  
+ 
+ dx  =
+ 
+    800.  
+ 
+ 
+ 
+ 
+ Dp  =
+ 
+    2.82695  
+ 
+The drop in pressure per unit length in the pipe is 2.826950 Pa/m 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.9/9.sce #
+ 
+ 
+ 
+ Vy_exh  =
+ 
+  - 3000.  
+ 
+ Isp  =
+ 
+    3.  
+ 
+The specific impulse on the rocket is 3.000000 KN.s/Kg 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.9/9.sce #
+ 
+ 
+ 
+ 
+ ratio_T  =
+ 
+    0.9524  
+ 
+ T1  =
+ 
+    293.15  
+ 
+ T2  =
+ 
+    307.80134  
+ 
+The temperature at the pt in the duct where mach number is 0.5 is 307.801344 K
+ 
+ 
+ ratio_t  =
+ 
+    0.5556  
+ 
+ t2  =
+ 
+    293.15  
+ 
+ t1  =
+ 
+    162.87414  
+ 
+The temperature initially at the start of the nozzle is 162.874140 K 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.10/10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thichness of the storage tank is   
+ 
+ 
+    0.75  
+ 
+ 
+ in   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.10/10.sce #
+ 
+ 
+ 
+ v1  =
+ 
+    1.  
+ 
+ d1  =
+ 
+    0.4  
+ 
+ A1  =
+ 
+    0.1256637  
+ 
+ d2  =
+ 
+    0.2  
+ 
+ A2  =
+ 
+    0.0314159  
+ 
+ v2  =
+ 
+    4.  
+ 
+ Cv  =
+ 
+    0.62  
+ 
+ rho_water  =
+ 
+    998.2  
+ 
+ dP  =
+ 
+    19.475806  
+ 
+The pressure difference in the pipe is 19.475806 KPa 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.10/10.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    62.3  
+ 
+ K  =
+ 
+    1.5  
+ 
+ v  =
+ 
+    13.  
+ 
+ 
+ 
+ dp  =
+ 
+    1.7030118  
+ 
+The pressure drop due to expansion and contraction is 1.703012 lbf/in^2 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.10/10.sce #
+ 
+ 
+ 
+ F_thrust  =
+ 
+    20000.  
+ 
+ Vx_out  =
+ 
+    1350.  
+ 
+ Vx_in  =
+ 
+    0.  
+ 
+ 
+ m  =
+ 
+    477.03704  
+ 
+The mass air flow rate required by a jet engine is 477.037037 lbm/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.11/11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payload of the balloon is   
+ 
+ 
+    144.30784  
+ 
+ 
+ N   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH3/EX3.11/11.sce #
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    133.54701  
+ 
+The flow rate of ventilation air supply is 133.547009 m^3/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.11/11.sce #
+ 
+ 
+ 
+ M_N2  =
+ 
+    28.  
+ 
+ M_He  =
+ 
+    4.  
+ 
+ 
+ q_N2  =
+ 
+    100.  
+ 
+ q_He  =
+ 
+    264.57513  
+ 
+The flow rate of Helium is 264.575131 cm^3/min 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.11/11.sce #
+ 
+ 
+ 
+ dx  =
+ 
+    3000.  
+ 
+ dx1  =
+ 
+    281.  
+ 
+ p  =
+ 
+    484.  
+ 
+ dx_total  =
+ 
+    3281.  
+ 
+ dp_total  =
+ 
+    529.33467  
+ 
+ dp_vnf  =
+ 
+    45.334667  
+ 
+The pressure drop due to valves and fittings is 45.334667 psi 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.12/12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fraction of wood in water   
+ 
+ 
+    0.8571429  
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.12/12.sce #
+ 
+ 
+ 
+ p_atm  =
+ 
+    14.7  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ dh  =
+ 
+    10.  
+ 
+ v3  =
+ 
+    25.377155  
+ 
+ p1  =
+ 
+    14.7  
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ 
+ dh1  =
+ 
+    40.  
+ 
+ p2  =
+ 
+  - 6.9319444  
+ 
+The absolute pressure at the top of the inverted manometer is -6.931944 lbf/in^2 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.12/12.sce #
+ 
+ 
+ 
+ K  =
+ 
+    27.56  
+ 
+ rho  =
+ 
+    62.3  
+ 
+ v  =
+ 
+    13.  
+ 
+ 
+ 
+ dp  =
+ 
+    31.290003  
+ 
+THe pressure drop due to valves and fittings is 31 psi 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.12/12.sce #
+ 
+ 
+ 
+ Isp  =
+ 
+    430.  
+ 
+ v_initial  =
+ 
+    0.  
+ 
+ 
+ Vrel_out  =
+ 
+  - 13846.  
+ 
+ ratio_m  =
+ 
+    0.1  
+ 
+ v_final  =
+ 
+    31881.593  
+ 
+The velocity of the rocket after launch is 31881.593198 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.12/12.sce #
+ 
+ 
+ 
+ gama  =
+ 
+    1.4  
+ 
+ Ma  =
+ 
+    2.  
+ 
+ To  =
+ 
+    273.15  
+ 
+ Tr  =
+ 
+    491.67  
+ 
+the reservoir temperature of air around the aircraft is 491.670000 K
+ 
+ P1  =
+ 
+    50.  
+ 
+ Pr  =
+ 
+    391.22245  
+ 
+The pressure of air around the aircraft is 391.222453 KPa 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.13/13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gauge pressure is   
+ 
+ 
+    1.0819444  
+ 
+ 
+ lbf/in^2   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH5/EX5.13/13.sce #
+ 
+ 
+ 
+ dP  =
+ 
+    10.  
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ 
+ 
+ v3  =
+ 
+    38.581593  
+ 
+The velocity of water after the throat is 38.581593 ft/s
+ 
+ ratio_A  =
+ 
+    0.5  
+ 
+ v2  =
+ 
+    77.163186  
+ 
+The velocity of water at the throat is 77.163186 ft/s
+ 
+ P1  =
+ 
+    24.7  
+ 
+ rho_water  =
+ 
+    62.3  
+ 
+ P2  =
+ 
+  - 15.3  
+ 
+The pressure of water at the throat is -15.300000 psia 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH6/EX6.13/13.sce #
+ 
+ 
+ 
+ p  =
+ 
+    100.  
+ 
+ l  =
+ 
+    1.  
+ 
+ mew  =
+ 
+    0.6  
+ 
+ d  =
+ 
+    0.25  
+ 
+ t  =
+ 
+    0.0001  
+ 
+ 
+ 
+ q  =
+ 
+    0.2705678  
+ 
+The volumetric leakage rate of gasoline is 0.270568 in^3/hr
+ 
+ rho  =
+ 
+    0.026  
+ 
+ m  =
+ 
+    0.0070348  
+ 
+The mass leakage rate of gasoline is 0.007035 lbm/hr 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.13/13.sce #
+ 
+ 
+ 
+ 
+ ratio_T  =
+ 
+    1.2309  
+ 
+ Tx  =
+ 
+    528.  
+ 
+ Ty  =
+ 
+    649.9152  
+ 
+temperature of air inside the shock wave is 649.915200 R
+ 
+ My  =
+ 
+    0.7558  
+ 
+ cy  =
+ 
+    1249.  
+ 
+ Vy  =
+ 
+    943.9942  
+ 
+the velocity of air inside the shock wave is 943.994200 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.14/14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The pressure difference is   
+ 
+ 
+    0.0432639  
+ 
+ 
+ lbf/in^2   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH8/EX8.14/14.sce #
+ 
+ 
+ 
+ A_throat  =
+ 
+    1.  
+ 
+ A_exit  =
+ 
+    1.5  
+ 
+ ratio_A  =
+ 
+    2.2385  
+ 
+ ratio_A1  =
+ 
+    1.4923333  
+ 
+the ratio of area of throat to area of a certain point is 1.492333 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.15/15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The gauge pressure is   
+ 
+ 
+    25.  
+ 
+ 
+ KPa   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.15/15.sce #
+ 
+ 
+ 
+ v1  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ z1  =
+ 
+    0.0005  
+ 
+ Fr  =
+ 
+    993.78882  
+ 
+ ratio_z  =
+ 
+    44.085061  
+ 
+ 
+ z2  =
+ 
+    0.0220425  
+ 
+The height of flow in open channel is 0.022043 ft
+ 
+ v2  =
+ 
+    0.0907337  
+ 
+The velocity of flow in open channel is 0.090734 ft/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.16/16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The pressure difference is   
+ 
+ 
+    0.0031842  
+ 
+ 
+ lbf/in^2   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.16/16.sce #
+ 
+ 
+ 
+ l  =
+ 
+    15.  
+ 
+ b  =
+ 
+    3.  
+ 
+ A  =
+ 
+    45.  
+ 
+ rho_air  =
+ 
+    1.21  
+ 
+ Vx  =
+ 
+    50.  
+ 
+ m  =
+ 
+    2722.5  
+ 
+ Fy  =
+ 
+    9810.  
+ 
+ Vy  =
+ 
+    3.6033058  
+ 
+The verticle downward velocity of air hitting the aircraft wing is 3.603306 m/s 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.17/17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THe gauge pressure is   
+ 
+ 
+    49.05  
+ 
+ 
+ KPa   
+ 
+ 
+ 
+ 
+ 
+ THe gauge pressure is   
+ 
+ 
+    74.05  
+ 
+ 
+ KPa   
+ 
+ 
+ 
+ 
+ 
+ THe gauge pressure is   
+ 
+ 
+    24.05  
+ 
+ 
+ KPa   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.17/17.sce #
+ 
+ 
+ 
+ 
+ 
+ r1  =
+ 
+    10.  
+ 
+ r2  =
+ 
+    2.  
+ 
+ 
+ 
+ r3  =
+ 
+    20.  
+ 
+The ratio of the total weight of the aircraft to the weight of engine is 20.000000 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.18/18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The angle made by free surface with the horizontal is   
+ 
+ 
+    1.7788003  
+ 
+ 
+ degrees   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH7/EX7.18/18.sce #
+ 
+ 
+ 
+ q  =
+ 
+    100.  
+ 
+ rho  =
+ 
+    8.33  
+ 
+ m  =
+ 
+    833.  
+ 
+ f  =
+ 
+    1800.  
+ 
+ omega  =
+ 
+    11309.734  
+ 
+ r_in  =
+ 
+    0.0833333  
+ 
+ r_out  =
+ 
+    0.5  
+ 
+ 
+ 
+ tou  =
+ 
+    19.753523  
+ 
+The torque exerted on the rotor is 19.753523 lbf.ft 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.19/19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The liquid in the cylinder rises to a height of   
+ 
+ 
+    0.0765121  
+ 
+ 
+ m   
+ 
+grepthis#Fluid_Mechanics_For_Chemical_Engineers_N._D._Nevers_896/CH2/EX2.20/20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The thickness of water strip at bottom of industrial centrifuge   
+ 
+ 
+    13.949573  
+ 
+ 
+ in   
+ 

@@ -1,0 +1,4055 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 87
+
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH1/EX1.1/Exa1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Break even quantity in units :    
+ 
+    20000.  
+ 
+ 
+ 
+ 
+ Break even sales in Rs. :    
+ 
+    4000000.  
+ 
+ 
+ 
+ 
+ Contribution in units :    
+ 
+    6000000.  
+ 
+ 
+ 
+ Margin of safety in Rs. :    
+ 
+    8000000.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH1/EX1.2/Exa1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contribution in Rs :    
+ 
+    75000.  
+ 
+ 
+ 
+ 
+ Profit in Rs :    
+ 
+    50000.  
+ 
+ 
+ 
+ 
+ 
+ BEP in Rs :    
+ 
+    40000.  
+ 
+ 
+ 
+ 
+ M.S. in Rs :    
+ 
+    80000.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH1/EX1.3/Exa1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contribution in Rs :    
+ 
+    45000.  
+ 
+ 
+ 
+ 
+ Profit in Rs :    
+ 
+    30000.  
+ 
+ 
+ 
+ 
+ 
+ BEP in Rs :    
+ 
+    26667.  
+ 
+ 
+ 
+ 
+ M.S. in Rs :    
+ 
+    53333.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH2/EX2.1/Exa2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of jet engine part made of aluminium per unit in Rs :    
+ 
+    246.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of jet engine part made of steel per unit in Rs :    
+ 
+    412.25  
+ 
+ 
+ DECISION : The total cost/unit of a jet engine part made of aluminium is less than that for an engine made of steel. Hence, aluminium is sugg 
+      ested for making jet engine part. The economic advantage of aluminium over steel per unit in Rs :                                        
+ 
+    166.25  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH2/EX2.2/Exa2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of Table with wooden top in Rs :    
+ 
+    5020.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of Table with Granite top in Rs :    
+ 
+    3611.  
+ 
+ 
+ 
+ Economic advantage of table with granite top in Rs :    
+ 
+    1409.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH2/EX2.3/Exa2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of design A per 100,000 units :    
+ 
+    387500.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of design A per 100,000 units :    
+ 
+    320000.  
+ 
+ 
+ 
+ Economic advantage of design B over design A per 100,000 units in Rs :    
+ 
+    67500.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH2/EX2.4/Exa2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of old design = 111% of cost of new design(Optimal Design)   
+ 
+ 
+ Optimal Ratio of height to diameter = 4:1    
+ 
+ 
+ h:d = 4:1   
+ 
+ 
+ 4*d = h   
+ 
+ 
+ r = h/8   
+ 
+ 
+ Since volume remains the same, Volume = (22/7)*(h/8)^2*h   
+ 
+ 
+ 
+ 
+ 
+ 
+ Expected savings by redesign in Rs :    
+ 
+    89189.189  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH2/EX2.5/Exa2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of steel window frame per unit in Rs :    
+ 
+    2875.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of Alumilnium window frame per unit in Rs :    
+ 
+    2200.  
+ 
+ 
+ DECISION : The total cost per unit of the aluminium window frame is less than that of steel window frame. Hence, Alumilnium window frame is r 
+      ecommended. The Economic advantage per unit of the Alumilnium window frame over steel window frame in Rs :                               
+ 
+    675.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH2/EX2.6/Exa2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The process sequence 1 of the component is as follows : Turning - Milling - Shaping - Drilling   
+ 
+ 
+ Calculations are summarized in form of table below :    
+ 
+ 
+ Operation     Operation       Time       Machine Hour rate     Cost   
+ 
+ 
+    No.                     Min    Hour           Rs.             Rs.   
+ 
+ 
+    1           Turning       5   0.083          200           16.60   
+ 
+ 
+    2           Milling       8   0.133          400           53.20   
+ 
+ 
+    3          Shapiing      10   0.167          350           58.45   
+ 
+ 
+    4          Drilling       3   0.050          300           15.00   
+ 
+ 
+                                                    Total     143.25   
+ 
+ 
+ 
+ 
+ The process sequence 2 of the component is as follows : Turning - Milling - Drilling   
+ 
+ 
+ Calculations are summarized in form of table below :    
+ 
+ 
+ Operation     Operation       Time       Machine Hour rate     Cost   
+ 
+ 
+    No.                     Min    Hour           Rs.             Rs.   
+ 
+ 
+    1           Turning       5   0.083          200           16.60   
+ 
+ 
+    2           Milling      14   0.233          400           93.20   
+ 
+ 
+    4          Drilling       3   0.050          300           15.00   
+ 
+ 
+                                                    Total     124.80   
+ 
+ 
+ 
+ 
+ The process sequence 3 of the component is as follows : Only CNC operations   
+ 
+ 
+ Calculations are summarized in form of table below :    
+ 
+ 
+ Operation     Operation       Time       Machine Hour rate     Cost   
+ 
+ 
+    No.                     Min    Hour           Rs.             Rs.   
+ 
+ 
+    1             CNC         8   0.133         1000             133   
+ 
+ 
+ 
+ The process sequence 2 has the least cost. Therefore, it should be selected for manufacturing the component.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.1/Exa3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maturity value after 18 years is : 104676.71 Rupees.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.2/Exa3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The person has to invest : 24718.471 Rupees.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.3/Exa3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future sum of the annual equal payment after 25 years is : 4719810.8 Rupees.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.4/Exa3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equal ammount which must be deposited for 15 years is : 8201.3913 Rupees.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.5/Exa3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The amount of reserve which must be setup now is : 6259331.5 Rupees.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.6/Exa3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent installment to be paid by the company to the bank is : 196402.78 Rupees.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.7/Exa3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At the end of 10th year, the compound amountr of all his payments will be : 115560.6 Rupees.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.8/Exa3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At the end of 10th year, the compound amountr of all his payments will be : 138235.88 Rupees.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH3/EX3.9/Exa3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maturity value after 10 years is : 16310.189 Rupees.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH4/EX4.1/Exa4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Technology 1 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for this technology in RS. :    
+ 
+    476988.83  
+ 
+ 
+ 
+ 
+ Technology 2 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for this technology in RS. :    
+ 
+    515483.25  
+ 
+ 
+ 
+ 
+ Technology 3 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for this technology in RS. :    
+ 
+    296236.04  
+ 
+ 
+ It is  from the calculations that the present worth of technology 2 is the highest among all technologies. Therefore technology 2 is suggeste 
+      d for implementation to expand the production.                                                                                           
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH4/EX4.2/Exa4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Bid 1: Alpha Elevator Inc.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for this bid in RS. :    
+ 
+    607878.99  
+ 
+ 
+ 
+ 
+ Bid 2: Beta Elevator Inc.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for this bid in RS. :    
+ 
+    706650.05  
+ 
+ 
+ The total present worth cost of bid 1 is less than that of bid 2. Hence bid 1 is to be selected for implementation. That is, the Elevator fro 
+      m Alpha Elevator Inc. is to be purchased and installed in the new building.                                                              
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH4/EX4.3/Exa4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of A in RS. :    
+ 
+    2052.0755  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of B in RS. :    
+ 
+    2767.1116  
+ 
+ 
+ At i=18%, the present worth of proposal B is higher than that of proposal A. Therefore, select proposal B.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH4/EX4.4/Exa4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ In 1st alternative down payment : Rs. 16,00,000   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of alternative 2 in RS. :    
+ 
+    1298817.3  
+ 
+ 
+ The present worth of 2nd alternative is less than that of first one i.e., complete downpayment of Rs. 1600000. Hence, select 2nd alternative. 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH4/EX4.5/Exa4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of Plan-1 in RS. :    
+ 
+    1192.3551  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of Plan-2 in RS. :    
+ 
+    1018.678  
+ 
+ 
+ The present worth of Plan-1 is more than that of Plan-1. Therefore plan 1 is the best plan from the investors point of view.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH4/EX4.6/Exa4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of Plan-1 in RS. :    
+ 
+    8238.9758  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of Plan-1 in RS. :    
+ 
+    13540.524  
+ 
+ 
+ The present worth of Innovative Investment Ltd. Plan is more than that of Novel Investment Ltd. Plan. Therefore Innovative Investment Ltd. Pl 
+      an is the best plan from the investors point of view.                                                                                    
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH4/EX4.7/Exa4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth of the small business in RS. :    
+ 
+    47293.316  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH5/EX5.1/Exa5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative A :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative A in RS. :    
+ 
+    736975.2  
+ 
+ 
+ 
+ 
+ Alternative B :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative B in RS. :    
+ 
+    663277.68  
+ 
+ 
+ The future worth of alternative A is greater than that of alternative B. Thus, alternative A should be selected.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH5/EX5.2/Exa5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 1 in RS. :    
+ 
+    32585172.  
+ 
+ 
+ 
+ 
+ Alternative 2:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 2 in RS. :    
+ 
+    25076872.  
+ 
+ 
+ The future worth of alternative 1 is greater than that of alternative 2. Thus, building the gas station is the best alternative.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH5/EX5.3/Exa5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Evaluation at i=8%   
+ 
+ 
+ 
+ Alternative 1 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 1 in RS. :    
+ 
+    408314.94  
+ 
+ 
+ 
+ 
+ Alternative 2 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 2 in RS. :    
+ 
+    571640.91  
+ 
+ 
+ The future worth of alternative 2 is greater than that of alternative 1. Thus, alternative 2 must be selected.   
+ 
+ 
+ 
+ 
+ Evaluation at i=9%   
+ 
+ 
+ 
+ Alternative 1 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 1 in RS. :    
+ 
+    383913.65  
+ 
+ 
+ 
+ 
+ Alternative 2 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 2 in RS. :    
+ 
+    537479.11  
+ 
+ 
+ The future worth of alternative 2 is greater than that of alternative 1. Thus, alternative 2 must be selected.   
+ 
+ 
+ 
+ 
+ Evaluation at i=20%   
+ 
+ 
+ 
+ Alternative 1 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 1 in RS. :    
+ 
+  - 14016.  
+ 
+ 
+ 
+ 
+ Alternative 2 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of alternative 2 in RS. :    
+ 
+  - 19622.4  
+ 
+ 
+ The negative sign of alternatives future worth indicates that alternative 2 incurs loss. Thus, none of the two alternatives should be selecte 
+      d.                                                                                                                                       
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH5/EX5.4/Exa5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1 :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth for this alternative in RS. :    
+ 
+    1.025D+08  
+ 
+ 
+ 
+ 
+ Alternative 2 :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth for this alternative in RS. :    
+ 
+    97635155.  
+ 
+ 
+ 
+ 
+ Alternative 3 :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth for this alternative in RS. :    
+ 
+    1.132D+08  
+ 
+ 
+ The future worth of alternative 2 is less than that of other two alternatives. Thus, Ms. Krishna castings should buy the annealing furnace fr 
+      om manufacturer 2.                                                                                                                       
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH5/EX5.5/Exa5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine A:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of Machine A in RS. :    
+ 
+    620580.86  
+ 
+ 
+ 
+ 
+ Machine AB:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The future worth amount of Machine B in RS. :    
+ 
+    708815.49  
+ 
+ 
+ The future worth of Machine A is less than that of Machine B. Thus, Machine A should be selected.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.1/Exa6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Average No. of Km run/year = 20000 Km   
+ 
+ 
+ No. of Km/litre of petrol = 9 Km   
+ 
+ 
+ Therefore,   
+ 
+ 
+ Petrol consumption/year = 20000/9 = 2222.2 litre   
+ 
+ 
+ Cost/litre of petrol for the 1st year = Rs. 21    
+ 
+ 
+ Cost/litre of petrol for the 2nd year = Rs. 21 + Re. 1 = Rs. 22    
+ 
+ 
+ Cost/litre of petrol for the 3rd year = Rs. 22 + Re. 1 = Rs. 23    
+ 
+ 
+ Cost/litre of petrol for the 4th year = Rs. 23 + Re. 1 = Rs. 24    
+ 
+ 
+ 
+ Fuel expenditure for 1st year = 2222.2 * 21 = Rs. 46666.20   
+ 
+ 
+ Fuel expenditure for 2nd year = 2222.2 * 22 = Rs. 48888.40   
+ 
+ 
+ Fuel expenditure for 3rd year = 2222.2 * 23 = Rs. 51110.60   
+ 
+ 
+ Fuel expenditure for 4th year = 2222.2 * 24 = Rs. 53332.80   
+ 
+ 
+ The annual equal increment of the above expendiyure is Rs. 2222.20(G)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual equal amount spending for petrol in Rs. :    
+ 
+    49543.274  
+ 
+ 
+ This amoount is less than the annual rental value of Rs. 60000. Therefore, the company should continue to provide its own car to its executiv 
+      e.                                                                                                                                       
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.2/Exa6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost of alternative 1 in RS. :    
+ 
+    306941.06  
+ 
+ 
+ 
+ 
+ Alternative 2:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost of alternative 1 in RS. :    
+ 
+    385552.85  
+ 
+ 
+ 
+ 
+ Alternative 3:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost of alternative 1 in RS. :    
+ 
+    278329.27  
+ 
+ 
+ The annual equivalent cost of manufacturer 3 is less than that of other two. Therefore, company should buy advanced machine centre from manuf 
+      acturer 3.                                                                                                                               
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.3/Exa6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative A:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent revenue of alternative A in RS. :    
+ 
+    6050.6901  
+ 
+ 
+ 
+ Alternative B:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent revenue of alternative A in RS. :    
+ 
+    9191.4564  
+ 
+ 
+ The annual equivalent net return of alternative B is more than that of alternative A. Thus the company should select alternative A   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.4/Exa6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine X :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost of machine X in RS. :    
+ 
+    27672.116  
+ 
+ 
+ 
+ 
+ Machine Y :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost of machine X in RS. :    
+ 
+    46706.54  
+ 
+ 
+ The annual equivalent cost of machine X is less than that of machine Y.So machine X is more cost effective machine.    
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.5/Exa6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1 : Around the lake   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost for this alternative in RS. :    
+ 
+    671415.35  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost for this alternative in RS. :    
+ 
+    760551.16  
+ 
+ 
+ The annual equivalent cost of alternative 1 is less than that of alternative 2. Therefore, select the route around the lake for laying the po 
+      wer line.                                                                                                                                
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.6/Exa6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1 : Purchase of diesel Taxi   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost for this alternative in RS. :    
+ 
+    179475.41  
+ 
+ 
+ 
+ 
+ Alternative 2 : Purchase of petrol Taxi   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost for this alternative in RS. :    
+ 
+    227175.82  
+ 
+ 
+ The annual equivalent cost of purchase and operation of cars with diesel engine is less than that of cars with petrol engine. Therefore, the  
+      taxy company should buy cars with diesel engine.                                                                                         
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.7/Exa6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1 : Purchase car for cash   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Monthly equivalent cost for this alternative in RS. :    
+ 
+    10167.864  
+ 
+ 
+ 
+ 
+ Alternative 2 : Use of car under lease   
+ 
+ 
+ 
+ 
+ The Monthly equivalent cost for this alternative in RS. :    
+ 
+    10500.  
+ 
+ 
+ The monthly equivalent cost of alternative 1 is less than that of alternative 2. hence the salesman should purchase the car for cash.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.8/Exa6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine A :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost of machine X in RS. :    
+ 
+    95026.535  
+ 
+ 
+ 
+ 
+ Machine B :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Annual equivalent cost of machine X in RS. :    
+ 
+    150079.61  
+ 
+ 
+ The annual equivalent cost of machine A is less than that of machine B.So machine A is more cost effective machine. It is advised to buy mach 
+      ine A                                                                                                                                    
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.9/Exa6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1 :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent for this alternative in RS. :    
+ 
+    73392.857  
+ 
+ 
+ 
+ AE1  =
+ 
+    24163.456  
+ 
+ 
+ The annual equivalent for this alternative in RS. :    
+ 
+    24163.456  
+ 
+ 
+ 
+ 
+ Alternative 2 :    
+ 
+ 
+ 
+ 
+ The annual equivalent for this alternative in RS. :    
+ 
+    18831.099  
+ 
+ 
+ The annual equivalent cost of alternative 2 is less than that of alternative 1. Hence, Joshi Lakshimi should select alternative 2 for purchas 
+      ing the home equipment.                                                                                                                  
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH6/EX6.10/Exa6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Brand A :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent for this brand in RS. :    
+ 
+    106.61855  
+ 
+ 
+ 
+ 
+ Brand B :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent for this brand in RS. :    
+ 
+    84.73225  
+ 
+ 
+ 
+ 
+ Brand C :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent for this brand in RS. :    
+ 
+    69.750051  
+ 
+ 
+ 
+ 
+ Brand D :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent for this brand in RS. :    
+ 
+    71.101356  
+ 
+ 
+ 
+ Here common multiple lives of tyres is considered. This is 144 months. Therefore, the comparison is nade on 144 months basis.   
+ 
+ 
+ The annual equivalent cost of Brand C is less than that of other brands. hence, it should be used in the vehicles of the trucking company. It 
+       should be replaced  for times during the 144 months period.                                                                             
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH7/EX7.1/Exa7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=10% in RS. :    
+ 
+    13723.603  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=15% in RS. :    
+ 
+    564.65294  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=18% in RS. :    
+ 
+  - 6184.8694  
+ 
+ 
+ Present worth for i=15% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return for the new business in % per annum :   
+ 
+    15.250975  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH7/EX7.2/Exa7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=10% in RS. :    
+ 
+    150598.49  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=15% in RS. :    
+ 
+  - 22421.94  
+ 
+ 
+ Present worth for i=10% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return of the new product line in % per annum :   
+ 
+    11.740817  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH7/EX7.3/Exa7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=10% in RS. :    
+ 
+    22746.153  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=10% in RS. :    
+ 
+    14269.652  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=10% in RS. :    
+ 
+    2757.7078  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=10% in RS. :    
+ 
+  - 7494.8166  
+ 
+ 
+ Present worth for i=15% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return of alternative in % per annum :   
+ 
+    15.806935  
+ 
+ 
+ 
+ 
+ Alternative 2:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=12% in RS. :    
+ 
+    14.261549  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=13% in RS. :    
+ 
+  - 5086.1067  
+ 
+ 
+ Present worth for i=12% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return of alternative 2 in % per annum :   
+ 
+    12.002796  
+ 
+ 
+ 
+ 
+ Alternative 3:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=11% in RS. :    
+ 
+    16.894218  
+ 
+ 
+ 
+ 
+ 
+ The present worth for i=12% in RS. :    
+ 
+  - 6270.442  
+ 
+ 
+ Present worth for i=11% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return of the alternative 3 in % per annum :   
+ 
+    11.002687  
+ 
+ 
+    
+ 
+ 
+ It is  that rate of return for alternative 3v is less than the minimum attractive rate of return of 12 %. So it should not be considered for  
+      comparison. the remaining two alternatives are qualified for consideration. Among the alternatives 1 and 2, the rate of return of 1 is g 
+      reater than that of 2. ence,         alternative 1 should be selected.                                                                   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH7/EX7.4/Exa7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent of the positive cash flows in RS. :    
+ 
+    421.51889  
+ 
+ 
+ 
+ ans  =
+ 
+    
+ 
+ 
+ PW(10) :   
+ 
+    322.88825  
+ 
+ 
+ ans  =
+ 
+    
+ 
+ 
+ PW(12) :   
+ 
+    225.26884  
+ 
+ 
+ ans  =
+ 
+    
+ 
+ 
+ PW(15) :   
+ 
+    94.094686  
+ 
+ 
+ ans  =
+ 
+    
+ 
+ 
+ PW(18) :   
+ 
+  - 21.236897  
+ 
+ 
+ 
+ Present worth for i=15% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return for the given cash flow in % per annum :   
+ 
+    17.447587  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH7/EX7.5/Exa7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth(PW(15%)) for i=10% in RS. :    
+ 
+    69866.367  
+ 
+ 
+ 
+ 
+ 
+ The present worth(PW17(%)) for i=10% in RS. :    
+ 
+    43888.848  
+ 
+ 
+ 
+ 
+ 
+ The present worth(PW(20%)) for i=10% in RS. :    
+ 
+    8404.0638  
+ 
+ 
+ 
+ 
+ 
+ The present worth(PW(22%)) for i=10% in RS. :    
+ 
+  - 13181.241  
+ 
+ 
+ Present worth for i=15% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return of alternative 1 in % per annum :   
+ 
+    20.778684  
+ 
+ 
+ 
+ 
+ Alternative 2:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present worth(PW(20%)) for i=10% in RS. :    
+ 
+    7465.2778  
+ 
+ 
+ 
+ 
+ 
+ The present worth(PW(22%)) for i=10% in RS. :    
+ 
+  - 26817.264  
+ 
+ 
+ Present worth for i=15% is suitable.   
+ 
+ 
+ 
+ Therefore, the rate of return of alternative 2 in % per annum :   
+ 
+    20.435515  
+ 
+ 
+ Since the rate of return of alternative 1 is greater than that of the alternative 2, select alternative 1.    
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.1/Exa8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ When i = 0% :   
+ 
+ 
+ 
+ 
+ 
+ Tabulation to determine economic life :    
+ 
+ 
+ End of     Maintenance     Summation of     Avg cost of     Avg FC if     Avg total   
+ 
+ 
+  year      cost at end     maintenance      maintenance    replaced at    cost through   
+ 
+ 
+              of year         costs          through year    year given    year given   
+ 
+ 
+   A           B(Rs.)        C(Rs.)             D(Rs.)        E(Rs.)        F(Rs.)   
+ 
+ 
+   1            0                0                 0          4000          4000   
+ 
+ 
+   2          200              200               100          2000          2100   
+ 
+ 
+   3          400              600               200       1333.33       1533.33   
+ 
+ 
+   4          600             1200               300          1000          1300   
+ 
+ 
+   5          800             2000               400           800          1200   
+ 
+ 
+   6         1000             3000               500        666.67       1166.67   
+ 
+ 
+   7         1200             4200               600        571.43       1171.43   
+ 
+ 
+ Economic life of the machine : 6 years   
+ 
+ 
+ Column C summarizes the summation of maintenance costs for each replacement period. The value corresponding to any end of year in this column 
+       represents the total maintenance costs of using the equipment till the end of that year. It gives the Economic life of the machine : 6  
+      years                                                                                                                                    
+ 
+ 
+ 
+ 
+ When i = 12% :   
+ 
+ 
+ 
+ 
+ Tabulation to determine economic life :    
+ 
+ 
+ End of     Maintenance         P/F       PW as of begin   Summation of    PW of        A/P     Annual equi   
+ 
+ 
+  year      cost at end        12%         of year of         PW of      cumulative     12%     total cost   
+ 
+ 
+              of year           n          maintenance     maintenance   maintenance     n       of year   
+ 
+ 
+   A           B(Rs.)        C(Rs.)             D(Rs.)        E(Rs.)        F(Rs.)    G(rs.)      H(rs.)   
+ 
+ 
+   1            0           0.8929              0.00          0.00       4000.00     1.1200     4480.00   
+ 
+ 
+   2          200           0.7972            159.44        159.44       4159.44     0.5917     2461.14   
+ 
+ 
+   3          400           0.7118            284.72        444.16       4444.16     0.4163     1850.10   
+ 
+ 
+   4          600           0.6355            381.30        825.46       4825.46     0.3292     1588.54   
+ 
+ 
+   5          800           0.5674            453.92       1279.38       5279.38     0.2774     1464.50   
+ 
+ 
+   6         1000           0.5066            506.60       1785.98       5785.98     0.2432     1407.15   
+ 
+ 
+   7         1200           0.4524            542.88       2328.86       6328.86     0.2191     1386.65   
+ 
+ 
+   8         1400           0.4039            565.46       2894.32       6894.32     0.2013     1387.83   
+ 
+ 
+   9         1600           0.3606            576.96       3471.28       7471.28     0.1877     1402.36   
+ 
+ 
+  10         1800           0.3220            579.60       4050.88       8050.88     0.1770     1425.00   
+ 
+ 
+ Economic life of the machine : 7 years   
+ 
+ 
+ For this problem, the annual equivalent total cost is minimum at the end of year 7. Therefore, the economic life of the equipment is 7 year.  
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.2/Exa8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The other details are summarized in Table 8.3. It can be seen from the book.   
+ 
+ 
+ Total annual equivalent cost = [cumulative sum of PW as of beginning of year 1 of operation & maintenance cost + FC - PW as of beginning of y 
+      ear 1 of salvage]*(A/P,15,n)                                                                                                             
+ 
+ 
+ In column L, the annual equivalent cost is minimum for n=5. Therefore, the economic life of the machine is 5 years.    
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.3/Exa8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The details are summarized in Table 8.4. It can be seen from the book.   
+ 
+ 
+ Total annual equivalent cost = [summation of PW of maintenance cost + FC]]*(A/P,15,n)   
+ 
+ 
+ (column E + Rs. 6000)* Column G   
+ 
+ 
+ Column F * Column G   
+ 
+ 
+ In column H, the minimum annual equivalent cost occurs when n=8. Therefore, the economic life of the machine B is 8 years.    
+ 
+ 
+ RESULT : Min annual equivalent cost for machine A : Rs. 2780   
+ 
+ 
+ Min annual equivalent cost for machine B : Rs. 3672.30   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.4/Exa8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(12%)) of this alternative in RS. :    
+ 
+    51106.443  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(12%)) of this alternative in RS. :    
+ 
+    48019.343  
+ 
+ 
+ Since, The equivalent cost of new machine is less than that of present machine, it is suggested that the present machine be replaced with the 
+       new machine.                                                                                                                            
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.5/Exa8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(15%)) of this alternative in RS. :    
+ 
+    17288.209  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(15%)) of this alternative in RS. :    
+ 
+    19257.596  
+ 
+ 
+ Since, The equivalent cost of Old deisel Engine is less than that of New deisel Engine, it is suggested to keep the Old deisel Engine.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.6/Exa8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1: Reinforce the existing bridge.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(10%)) of this alternative in RS. :    
+ 
+    204587.35  
+ 
+ 
+ 
+ 
+ Alternative 2: Replace the existing bridge by a new prestressed concrete bridge.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(10%)) of this alternative in RS. :    
+ 
+    108389.96  
+ 
+ 
+ Since, The equivalent cost of alternative 2 is less than that of alternative 1, it is suggested that alternative 2 should be selected.   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.7/Exa8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative 1: Augmenting the present 10 hp motor with an additional 5 hp motor.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(10%)) of 10 hp motor  in RS. :    
+ 
+    3868.0631  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(10%)) of 10 hp motor  in RS. :    
+ 
+    3331.3153  
+ 
+ 
+ Total annual equivalent cost of alternative in Rs. :    
+ 
+    7199.3784  
+ 
+ 
+ 
+ 
+ 
+ Alternative 2: Replacing the present 10 hp motor with a new 15 hp motor.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost of alternative 2 in RS. :    
+ 
+    8551.1713  
+ 
+ 
+ Since, The equivalent cost of alternative 1 is less than that of alternative 2, it is suggested that the present 10 hp motor be augmented wit 
+      h an additional 5 hp motor.                                                                                                              
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.8/Exa8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Let the comparative use value of old machine be X.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AE(12%)=(X-F)*((i/100)*(1+i/100)^n)/(((1+i/100)^n)-1)+F*i/100+A;//in RS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent cost(AE(15%)) of n in RSew machine :    
+ 
+    3201.5921  
+ 
+ 
+ Now equating both annual equivalent cost we get the X.   
+ 
+ 
+ X = Rs. 7334.14   
+ 
+ 
+ The comparative use value of old machine is Rs. 7334.14, which is less than the price(Rs. 8000) offered by the company which is supplying the 
+       new machine in the event of replacing the old machine by nw machine.                                                                    
+ 
+ 
+ Therefore, it is advisable to replace the old machine with the new one.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.9/Exa8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expected life of each transistor in weeks :    
+ 
+    4.39  
+ 
+ 
+ Average No. of failures/week :     
+ 
+    23.  
+ 
+ 
+ 
+ 
+ Cost of transistor when replaced simultaneously = Rs. 3   
+ 
+ 
+ Cost of transistor when replaced individually = Rs. 9   
+ 
+ 
+ The cost of group replacement policy for seeral replacement periods are summarized in Table 8.6. This table can be seen from the book.   
+ 
+ 
+ From table it is  that the avg cost/week is minimum for the 4th week. Hence, the group replacement period is 4 weeks.   
+ 
+ 
+ Individual replacement cost/week = Rs. 207   
+ 
+ 
+ Minimum group replacement ost/week = Rs. 196.50   
+ 
+ 
+ Since the min group replacement cost/week is less than the individual replacement cost/week, the group replacement policy is the best, and he 
+      nce all the transistors should be replaced in 4 weeks.                                                                                   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH8/EX8.10/Exa8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expected life of each transistor in months :    
+ 
+    4.03  
+ 
+ 
+ Average No. of failures/month :     
+ 
+    248.  
+ 
+ 
+ Therefore, cost of individual replacement in Rs. :    
+ 
+    2480.  
+ 
+ 
+ 
+ 
+ 
+ Cost/transistor when replaced simultaneously = Rs. 4   
+ 
+ 
+ Cost/transistor when replaced individually = Rs. 10   
+ 
+ 
+ The cost of group replacement policy for several replacement periods are summarized in Table 8.7. This table can be seen from the book.   
+ 
+ 
+ From table it is  that the avg cost/month is minimum for the 3rd month. Hence, the group replacement period is 3 months.   
+ 
+ 
+ Individual replacement cost/month = Rs. 2480   
+ 
+ 
+ Minimum group replacement ost/month = Rs. 2426.67   
+ 
+ 
+ Since the min group replacement cost/month is less than the individual replacement cost/month, the group replacement policy is the best, and  
+      hence all the transistors should be replaced in 3 months.                                                                                
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.1/Exa9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In this method of depreciation, the value of Dt is same for all the years. The calculations pertaining to Bt for different values of t are su 
+      mmarized in table below :                                                                                                                
+ 
+ 
+ End of year          Depreciation          Book value   
+ 
+ 
+    (t)                  (Dt)             (Bt=B(t-1)-Dt)   
+ 
+ 
+     0                                       100000   
+ 
+ 
+     1                  10000                 90000   
+ 
+ 
+     2                  10000                 80000   
+ 
+ 
+     3                  10000                 70000   
+ 
+ 
+     4                  10000                 60000   
+ 
+ 
+     5                  10000                 50000   
+ 
+ 
+     6                  10000                 40000   
+ 
+ 
+     7                  10000                 30000   
+ 
+ 
+     8                  10000                 20000   
+ 
+ 
+ If we are interested in computing Dt and Bt for a specific period (t), the formulae can be used. in this approach, it should be noted that th 
+      e depreciation is the same for all the periods.                                                                                          
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.2/Exa9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D5 in Rs. :    
+ 
+    10000.  
+ 
+ 
+ (This is independent of the time period)   
+ 
+ 
+ 
+ 
+ B5 in Rs. :    
+ 
+    50000.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.3/Exa9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.2  
+ 
+ 
+ 
+ The calculations pertaining to Dt and Bt for different values of t are summarized in table below using the formulae :    
+ 
+ 
+ Dt=k*B(t-1)   
+ 
+ 
+ Bt=B(t-1)-Dt   
+ 
+ 
+ 
+ End of year          Depreciation          Book value   
+ 
+ 
+    (t)                  (Dt)             (Bt=B(t-1)-Dt)   
+ 
+ 
+     0                                       100000.00   
+ 
+ 
+     1                 20000.00               80000.00   
+ 
+ 
+     2                 16000.00               64000.00   
+ 
+ 
+     3                 12800.00               51200.00   
+ 
+ 
+     4                 10240.00               40960.00   
+ 
+ 
+     5                  8192.00               32768.00   
+ 
+ 
+     6                  6553.60               26214.40   
+ 
+ 
+     7                  5242.88               20971.52   
+ 
+ 
+     8                  4194.                 16777.22   
+ 
+ 
+ If we are interested in computing Dt and Bt for a specific period (t), the formulae can be used. in this approach, it should be noted that th 
+      e depreciation is the same for all the periods.                                                                                          
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.4/Exa9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ D5 in Rs. :    
+ 
+    8192.  
+ 
+ 
+ 
+ B5 in Rs. :    
+ 
+    32768.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.5/Exa9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rates for years 1-8, are respectively 8/36,7/36,6/36,5/36,4/36,3/36,2/36,1/36   
+ 
+ 
+ The calculations of Dt and Bt for different values of t are summarized in table below using the formulae :    
+ 
+ 
+ Dt=Rate*(P-F)   
+ 
+ 
+ Bt=B(t-1)-Dt   
+ 
+ 
+ End of year          Depreciation          Book value   
+ 
+ 
+    (t)                  (Dt)             (Bt=B(t-1)-Dt)   
+ 
+ 
+     0                                      100000.00   
+ 
+ 
+     1                 17777.77              82222.23   
+ 
+ 
+     2                 15555.55              66666.68   
+ 
+ 
+     3                 13333.33              53333.35   
+ 
+ 
+     4                 11111.11              42222.24   
+ 
+ 
+     5                  8888.88              33333.36   
+ 
+ 
+     6                  6666.66              26666.70   
+ 
+ 
+     7                  4444.44              22222.26   
+ 
+ 
+     8                  2222.22              20000.04   
+ 
+ 
+ If we are interested in computing Dt and Bt for a specific period (t), then the usage of the  formulae would be better.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.6/Exa9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D5 in Rs. :    
+ 
+    8888.8889  
+ 
+ 
+ 
+ B5 in Rs. :    
+ 
+    33333.333  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.7/Exa9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In this method of depreciation, a fixed amount of Rs. 6504.2273 will be depreciated at the end of every year from the earning of the asset. T 
+      he deprecited amount will earn intrest for the remaining period of life of the asset at an intrest rate of 12 %, compounded anually.     
+ 
+ 
+ Depreciation at the end of year 1(D1) in Rs. :    
+ 
+    6504.2273  
+ 
+ 
+ Depreciation at the end of year 2(D2) in Rs. :    
+ 
+    7284.7346  
+ 
+ 
+ Depreciation at the end of year 3(D3) in Rs. :    
+ 
+    8158.9027  
+ 
+ 
+ The calculations along with boook values are summarized in table below :    
+ 
+ 
+ End of year          Fixed Depreciation          Net Depreciation        Book value   
+ 
+ 
+    (t)                    (Rs.)                      Dt(Rs.)              Bt(Rs.)   
+ 
+ 
+     0                     6504                                          100000.00   
+ 
+ 
+     1                     6504                      6504.00              82222.23   
+ 
+ 
+     2                     6504                      7284.48              66666.68   
+ 
+ 
+     3                     6504                      8158.62              53333.35   
+ 
+ 
+     4                     6504                      9137.65              42222.24   
+ 
+ 
+     5                     6504                     10324.17              33333.36   
+ 
+ 
+     6                     6504                     11462.27              26666.70   
+ 
+ 
+     7                     6504                     12837.74              22222.26   
+ 
+ 
+     8                     6504                     14378.27              20000.04   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.8/Exa9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D5 in Rs. :    
+ 
+    10234.528  
+ 
+ 
+ 
+ 
+ B7 in Rs. :    
+ 
+    34378.774  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH9/EX9.9/Exa9_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation for year 3 in Rs. :    
+ 
+    212000.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH10/EX10.1/Exa10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total present worth of costs in RS. :    
+ 
+    5021629.7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Present worth of fuel savings in Rs. :    
+ 
+    5782527.3  
+ 
+ 
+ 
+ BCratio :    
+ 
+    1.151524  
+ 
+ 
+ Since BC ratio is more than 1, the construction of the bridge across the river is justified.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH10/EX10.2/Exa10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total present worth of benefits in RS. :    
+ 
+    83044985.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Present worth of costs in Rs. :    
+ 
+    55086505.  
+ 
+ 
+ 
+ BCratio :    
+ 
+    1.5075377  
+ 
+ 
+ Since BC ratio is more than 1, the state govt. can implement the hydroelectric project.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH10/EX10.3/Exa10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative A1 :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual equivalent of initial cost in Rs. :    
+ 
+    791392.44  
+ 
+ 
+ 
+ BCratio :    
+ 
+    1.137236  
+ 
+ 
+ 
+ 
+ Alternative A2 :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual equivalent of initial cost in Rs. :    
+ 
+    1232433.  
+ 
+ 
+ 
+ BCratio :    
+ 
+    1.2171047  
+ 
+ 
+ The benefit cost ratio of alternative 2 is more than that of alternative A1. Hence, alternative A2 is to be selected. The comparisoon is made 
+       on a 35 years period which is the minimum common multiple of the lives of alternative 1 and 2                                           
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH10/EX10.4/Exa10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost to the state :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual equivalent initial cost in Rs. :    
+ 
+    2.936D+08  
+ 
+ 
+ 
+ Total Annual equivalent cost of the project in Rs. :    
+ 
+    3.080D+08  
+ 
+ 
+ 
+ Benefit to the state :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual equivalent average of transport cost saving in Rs. :    
+ 
+    3.302D+08  
+ 
+ 
+ 
+ Total annual equivalent benefits to the state :    
+ 
+    3.337D+08  
+ 
+ 
+ 
+ BCratio :    
+ 
+    1.0832212  
+ 
+ 
+ The benefit cost ratio is more than 1,the project is justified.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH10/EX10.5/Exa10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Project A :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs/year :    
+ 
+    5684030.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ Benefits/year :    
+ 
+    7000000.  
+ 
+ 
+ 
+ BC Ratio of project A :    
+ 
+    1.2315205  
+ 
+ 
+ 
+ Project B :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs/year :    
+ 
+    13306717.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Benefits/year :    
+ 
+    10000000.  
+ 
+ 
+ 
+ BC Ratio of project B :    
+ 
+    0.7515002  
+ 
+ 
+ 
+ Project C :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs/year :    
+ 
+    21990747.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Benefits/year :    
+ 
+    14500000.  
+ 
+ 
+ 
+ BC Ratio of project C :    
+ 
+    0.6593682  
+ 
+ 
+ From the computations it is  that only alternative A is eligible because other two alternatives have BC ratio less than one.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH11/EX11.1/Exa11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Few steps are as follows :    
+ 
+ 
+ Step 1 : The estimated future requirementt per year in terms of todays rupees from his age 61 through 70 is Rs. 24000.   
+ 
+ 
+ Step 2 : The formula which is given below is used to get future equivalent of Rs. 24000 with the inflation of 9% per year.   
+ 
+ 
+ Formula : P*(1+IR)^n   
+ 
+ 
+ 
+ 
+ 
+ Age in years : 61. "Inflated value of Rs. 24000 at end of year : 21 in Rs. 146611   
+ 
+ Age in years : 62. "Inflated value of Rs. 24000 at end of year : 22 in Rs. 159806   
+ 
+ Age in years : 63. "Inflated value of Rs. 24000 at end of year : 23 in Rs. 174189   
+ 
+ Age in years : 64. "Inflated value of Rs. 24000 at end of year : 24 in Rs. 189866   
+ 
+ Age in years : 65. "Inflated value of Rs. 24000 at end of year : 25 in Rs. 206954   
+ 
+ Age in years : 66. "Inflated value of Rs. 24000 at end of year : 26 in Rs. 225580   
+ 
+ Age in years : 67. "Inflated value of Rs. 24000 at end of year : 27 in Rs. 245882   
+ 
+ Age in years : 68. "Inflated value of Rs. 24000 at end of year : 28 in Rs. 268011   
+ 
+ Age in years : 69. "Inflated value of Rs. 24000 at end of year : 29 in Rs. 292132   
+ 
+ Age in years : 70. "Inflated value of Rs. 24000 at end of year : 30 in Rs. 318424   
+ 
+ 
+ 
+ 
+ 
+ Present equivalent of withdrawls in Rs. :    
+ 
+    1013631.8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The annual equivalent amount in Rs. :    
+ 
+    9894.5368  
+ 
+ 
+ RECOMMENDATION : The person has to invest an amount of Rs. 9894.5368 at the end of every year starting from his age 41 through 60 which will  
+      enable him to make a withdrawl at the end of every year starting from his age 61 through 70.                                             
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH11/EX11.2/Exa11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ The method of finding the economic life of the machine witha discounting factor of 20% at zero inflation rate is summarized in table below. F 
+      rom the table it is  that total annual cost is minimum if the machine is used for 14 years. Hence the economic life of the machine is 14 
+       years.                                                                                                                                  
+ 
+ 
+ End of year     Op_cost     Main_cost    Op+Main     P/F,i,n     PW     Cummulative     Salvage     PW_S    TPW     A/P,i,n     AEM   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cum  =
+ 
+    83333.333  
+ 
+        1        40000        60000        100000    0.8333333     83333.333        83333.333        400000        333333.33        250000     
+          1.2        300000                                                                                                                    
+ Cum  =
+ 
+    152777.78  
+ 
+        2        45000        66000        100000    0.6944444     69444.444        152777.78        350000        243055.56        409722.22  
+             0.6545455        268181.82                                                                                                        
+ Cum  =
+ 
+    210648.15  
+ 
+        3        50000        72000        100000    0.5787037     57870.37        210648.15        300000        173611.11        537037.04   
+            0.4747253        254945.05                                                                                                         
+ Cum  =
+ 
+    258873.46  
+ 
+        4        55000        78000        100000    0.4822531     48225.309        258873.46        250000        120563.27        638310.19  
+             0.3862891        246572.28                                                                                                        
+ Cum  =
+ 
+    299061.21  
+ 
+        5        60000        84000        100000    0.4018776     40187.757        299061.21        200000        80375.514        718685.7   
+            0.3343797        240313.91                                                                                                         
+ Cum  =
+ 
+    332551.01  
+ 
+        6        65000        90000        100000    0.3348980     33489.798        332551.01        150000        50234.697        782316.32  
+             0.3007057        235247.01                                                                                                        
+ Cum  =
+ 
+    360459.18  
+ 
+        7        70000        96000        100000    0.2790816     27908.165        360459.18        100000        27908.165        832551.01  
+             0.2774239        230969.57                                                                                                        
+ Cum  =
+ 
+    383715.98  
+ 
+        8        75000        102000        100000    0.2325680     23256.804        383715.98        50000        11628.402        872087.58  
+             0.2606094        227274.24                                                                                                        
+ Cum  =
+ 
+    403096.65  
+ 
+        9        80000        108000        100000    0.1938067     19380.67        403096.65        0        0        903096.65        0.2480 
+      795        224039.73                                                                                                                     
+ Cum  =
+ 
+    419247.21  
+ 
+        10        85000        114000        100000    0.1615056     16150.558        419247.21        -50000        -8075.2791        927322. 
+      49        0.2385228        221187.52                                                                                                     
+ Cum  =
+ 
+    432706.01  
+ 
+        11        90000        120000        100000    0.1345880     13458.799        432706.01        -100000        -13458.799        946164 
+      .81        0.2311038        218662.28                                                                                                    
+ Cum  =
+ 
+    443921.67  
+ 
+        12        95000        126000        100000    0.1121567     11215.665        443921.67        -150000        -16823.498        960745 
+      .17        0.2252650        216422.23                                                                                                    
+ Cum  =
+ 
+    453268.06  
+ 
+        13        100000        132000        100000    0.0934639     9346.3879        453268.06        -200000        -18692.776        97196 
+      0.84        0.22062        214434                                                                                                        
+ Cum  =
+ 
+    461056.72  
+ 
+        14        105000        138000        100000    0.0778866     7788.6566        461056.72        -250000        -19471.641        98052 
+      8.36        0.2168931        212669.79                                                                                                   
+ Cum  =
+ 
+    467547.26  
+ 
+        15        110000        144000        100000    0.0649055     6490.5472        467547.26        -300000        -19471.641        98701 
+      8.91        0.2138821        211105.7                                                                                                    
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH11/EX11.3/Exa11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine X :    
+ 
+ 
+ 
+ 
+ 
+ 
+ End of year     AMC     InflationFactor     InflatedAmount     P/F     PW   
+ 
+ 
+ 
+ FP  =
+ 
+    1.05  
+ 
+      1        300000         1.05           315000          0.869565      273913   
+ FP  =
+ 
+    1.1025  
+ 
+      2        300000         1.1025           330750          0.756144      250094.5   
+ FP  =
+ 
+    1.157625  
+ 
+      3        300000         1.157625           347287.5          0.657516      228347.2   
+ FP  =
+ 
+    1.215506  
+ 
+      4        300000         1.215506           364651.9          0.571753      208490.9   
+ FP  =
+ 
+    1.276282  
+ 
+      5        300000         1.276282           382884.5          0.497177      190361.3   
+ FP  =
+ 
+    1.340096  
+ 
+      6        300000         1.340096           402028.7          0.432328      173808.1   
+ FP  =
+ 
+    1.4071  
+ 
+      7        300000         1.4071           422130.1          0.375937      158694.4   
+ 
+ 
+ Present worth of inflated annual operating and maintenance cost in Rs. :    
+ 
+    1483709.  
+ 
+ 
+ 
+ Present worth of machine X in Rs. :    
+ 
+    2908522.  
+ 
+ 
+ 
+ Machine Y :    
+ 
+ 
+ 
+ 
+ 
+ 
+ End of year     AMC     InflationFactor     InflatedAmount     P/F     PW   
+ 
+ 
+ 
+ FP  =
+ 
+    1.05  
+ 
+      1        250000         1.05           262500          0.869565      228260.9   
+ FP  =
+ 
+    1.1025  
+ 
+      2        250000         1.1025           275625          0.756144      208412.1   
+ FP  =
+ 
+    1.157625  
+ 
+      3        250000         1.157625           289406.3          0.657516      190289.3   
+ FP  =
+ 
+    1.215506  
+ 
+      4        250000         1.215506           303876.6          0.571753      173742.4   
+ FP  =
+ 
+    1.276282  
+ 
+      5        250000         1.276282           319070.4          0.497177      158634.4   
+ FP  =
+ 
+    1.340096  
+ 
+      6        250000         1.340096           335023.9          0.432328      144840.1   
+ FP  =
+ 
+    1.4071  
+ 
+      7        250000         1.4071           351775.1          0.375937      132245.3   
+ 
+ 
+ Present worth of inflated annual operating and maintenance cost in Rs. :    
+ 
+    1236424.  
+ 
+ 
+ 
+ Present worth of machine Y in Rs. :    
+ 
+    3123643.  
+ 
+ 
+ Since the present worth of Machine X is less than Machine Y, select Machine X   
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH11/EX11.4/Exa11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End of year     AFR     InflationFactor     InflatedAmount     P/F     PW   
+ 
+ 
+ 
+ 
+        1        5000000        1.06        5300000    0.8474576     4491525.4   
+ 
+        2        5500000        1.1236        6179800    0.7181844     4438236.1   
+ 
+        3        6000000        1.191016        7146096    0.6086309     4349334.6   
+ 
+        4        6500000        1.262477        8206100.2    0.5157889     4232615.2   
+ 
+        5        7000000        1.3382256        9367579    0.4371092     4094655.1   
+ 
+ 
+ The value of the single deposit to be made now to recieve the specified series for the next five years is Rs. :    
+ 
+    21606367.  
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH12/EX12.1/Exa12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Economic order quantity in units :    
+ 
+    730.  
+ 
+ 
+ 
+ No. of orders/year :    
+ 
+    32.876712  
+ 
+ 
+ 
+ 
+ 
+ Time between successive orders in days :    
+ 
+    11.  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH12/EX12.2/Exa12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Economic order quantity in units :    
+ 
+    749.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Cycle time in days :   
+ 
+    22.  
+ 
+ 
+ No. of setups/year :    
+ 
+    16.021362  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH12/EX12.3/Exa12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ordering quantity in units :    
+ 
+    1871.  
+ 
+ 
+ 
+ Maximum Inventory in units :    
+ 
+    1604.  
+ 
+ 
+ Maximum shortage quantity in units :    
+ 
+    267.  
+ 
+ 
+ 
+ 
+ Cycle time in days:    
+ 
+    23.  
+ 
+ 
+ 
+ 
+ Inventory period(t1) in days :    
+ 
+    20.  
+ 
+ 
+ 
+ Shortage period(t2) in days :    
+ 
+    3.  
+ 
+ 
+ No. of Orders/year :    
+ 
+    16.034206  
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH12/EX12.4/Exa12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ordering quantity in units :    
+ 
+    3046.  
+ 
+ 
+ 
+ 
+ Maximum Inventory in units :    
+ 
+    210.  
+ 
+ 
+ 
+ Maximum shortage quantity in units :    
+ 
+    1313.  
+ 
+ 
+ 
+ 
+ Cycle time in days:    
+ 
+    93.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Period of shortage in days :    
+ 
+    40.  
+ 
+ 
+ Period of production satisfying back order in days :    
+ 
+    40.  
+ 
+ 
+ Period of production satisfying period requirement in days :    
+ 
+    7.  
+ 
+ 
+ Period of consumption only in days :    
+ 
+    7.  
+ 
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH13/EX13.1/Exa13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost to make :    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost in Rs. :    
+ 
+    4250000.  
+ 
+ 
+ 
+ 
+ Cost to buy :    
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost in Rs. :    
+ 
+    5500000.  
+ 
+ 
+ The cost of making fixtures is less than the cost of buying fixtures from outside. Therefore, the organisation should make the fixtures.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH13/EX13.2/Exa13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Buy Option :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of buying in Rs. :    
+ 
+    16876.356  
+ 
+ 
+ 
+ Make Option :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of making in Rs. :    
+ 
+    10424.264  
+ 
+ 
+ The cost of making is less than the cost of buying . Therefore, the firm should go in for making option.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH13/EX13.3/Exa13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEP in units :    
+ 
+    2000.  
+ 
+ 
+ Since the demand(1500units) is less than the break even quantity, the company should buy the cabinets for its TV production.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH13/EX13.4/Exa13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Process A :   
+ 
+ 
+ 
+ 
+ 
+ Annual Cost of Process A in Rs. :   
+ 
+    1900000.  
+ 
+ 
+ 
+ 
+ Process B :   
+ 
+ 
+ 
+ 
+ 
+ Annual Cost of Process A in Rs. :   
+ 
+    1800000.  
+ 
+ 
+ 
+ 
+ Buy Option :   
+ 
+ 
+ 
+ 
+ 
+ Annual Cost of Buy in Rs. :   
+ 
+    1000000.  
+ 
+ 
+ Since the annual cost of buy option is the minimum among all the alternatives, the company should buy the product.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH16/EX16.1/Exa16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The data of the problem are summarized below :    
+ 
+ 
+ Machine                   Products           Limit on    
+ 
+ 
+                         P1         P2       machine hours   
+ 
+ 
+ Lathe                    5         10            60   
+ 
+ 
+ Milling                  4          4            40   
+ 
+ 
+ Profit/unit              6          8   
+ 
+ 
+ Let X1 be the production volume of the product.P1, and   
+ 
+ 
+ X2 be the production volume of the product,P2.   
+ 
+ 
+ The corresponding linear programming model to determine the production volume of each product such that the total profit is maximized is as s 
+      hown below :                                                                                                                             
+ 
+ 
+ maximize Z = 6*X1 + 8*X2   
+ 
+ 
+ subject to   
+ 
+ 
+ 5*X1+10*X2 <= 60   
+ 
+ 
+ 4*X1+4*X2 <= 40   
+ 
+ 
+ X1,X2 >= 0   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH16/EX16.2/Exa16_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Let X1 be the No. of packets of food type1 suggested for babies, and   
+ 
+ 
+ X2 be the No. of packets of food type1 suggested for babies.   
+ 
+ 
+ The corresponding linear programming model to determine the No. of packets of each food type to be suggested for babies with the minimum cost 
+       such that the minimum daily required vitamin in each food type is satisfied is as shown below :                                         
+ 
+ 
+ maximize Z = 2*X1 + 3*X2   
+ 
+ 
+ subject to   
+ 
+ 
+ X1+X2 >= 6   
+ 
+ 
+ 7*X1+X2 >= 14   
+ 
+ 
+ X1,X2 >= 0   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH16/EX16.5/Exa16_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Given the following LP model :   
+ 
+ 
+ maximize Z = 6*X1 + 8*X2   
+ 
+ 
+ subject to   
+ 
+ 
+ 5*X1+10*X2 <= 60   
+ 
+ 
+ 4*X1+4*X2 <= 40   
+ 
+ 
+ X1,X2 >= 0   
+ 
+ 
+ The canonical form of the above LP problem is :   
+ 
+ 
+ maximize Z = 6*X1 + 8*X2 + 0*S1 + 0*S2   
+ 
+ 
+ subject to   
+ 
+ 
+ 5*X1+10*X2+S1 = 60   
+ 
+ 
+ 4*X1+4*X2+S2 = 40   
+ 
+ 
+ X1,X2,S1,S2 >= 0   
+ 
+ 
+ S1, S2 are slack variables.   
+ 
+ 
+ The initial simplex table of the above problem is shownin table below :    
+ 
+ 
+ CBi               Cj          6          8          0          0   
+ 
+ 
+            Basic Variable    X1         X2         S1         S2     Solution     Ratio   
+ 
+ 
+  0               S1           5         10          1          0        60        60/10=6**   
+ 
+ 
+  0               S2           4          4          0          1        40        40/4=10   
+ 
+ 
+                  Zj           0          0          0          0         0   
+ 
+ 
+                Cj-Zj          6          8*         0          0   
+ 
+ 
+ * key column       ** key row   
+ 
+ 
+ The value at the intersection of the keyrow and key column is called the key element.   
+ 
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH16/EX16.6/Exa16_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Given the following LP model :   
+ 
+ 
+ minimize Z = 2*X1 + 3*X2   
+ 
+ 
+ subject to   
+ 
+ 
+ X1+X2 >= 6   
+ 
+ 
+ 7*X1+X2 >= 14   
+ 
+ 
+ X1,X2 >= 0   
+ 
+ 
+ Standard Form : The standard form of the above model is as follows :   
+ 
+ 
+ minimize Z = 2*X1 + 3*X2   
+ 
+ 
+ subject to   
+ 
+ 
+ X1+X2-S1 >= 6   
+ 
+ 
+ 7*X1+X2-S2 >= 14   
+ 
+ 
+ X1,X2,S1,S2 >= 0   
+ 
+ 
+ S1, S2 are surplus variables which are introduced to balance the constraints.   
+ 
+ 
+ Canonical Form : The Canonical form of the above model is as follows :   
+ 
+ 
+ minimize Z = 2*X1 + 3*X2 + M1*R1 + M2*R2   
+ 
+ 
+ subject to   
+ 
+ 
+ X1+X2-S1+R1 >= 6   
+ 
+ 
+ 7*X1+X2-S2+R2 >= 14   
+ 
+ 
+ X1,X2,S1,S2,R1,R2 >= 0   
+ 
+ 
+ R1, R2 are artificial variables which are introduced to have basic variables in each of the constraints.   
+ 
+ 
+ 
+ The initial simplex table of the above problem is shownin table below :    
+ 
+ 
+ CBi               Cj          2          3          0          0          M          M   
+ 
+ 
+            Basic Variable    X1         X2         S1         S2         R1        R2          Solution          Ratio   
+ 
+ 
+  M               R1           1          1         -1          0          1         0             6                6   
+ 
+ 
+  M               R2           7          1          0         -1          0         1            14                2**   
+ 
+ 
+                  Zj          8M         2M         -M         -M          M         M           20M   
+ 
+ 
+                Cj-Zj       2-8*M       3-2*M        M          M          0         0   
+ 
+ 
+ * key column       ** key row   
+ 
+ 
+ The value at the intersection of the keyrow and key column is called the key element.   
+ 

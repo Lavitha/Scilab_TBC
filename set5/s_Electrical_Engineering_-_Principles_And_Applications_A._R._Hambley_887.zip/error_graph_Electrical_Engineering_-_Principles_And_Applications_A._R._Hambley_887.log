@@ -1,0 +1,20 @@
+ERROR: Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH17/EX17.2/17_2.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I_s=V_s/Z_s;      //starting phase current
+      !--error 4 
+Undefined variable: V_s
+at line      14 of exec file called by :    
+R._Hambley_887/CH17/EX17.2/17_2.sce',-1
+ 

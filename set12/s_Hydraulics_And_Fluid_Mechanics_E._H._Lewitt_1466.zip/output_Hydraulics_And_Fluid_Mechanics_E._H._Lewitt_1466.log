@@ -1,0 +1,7232 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 144
+
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.1/1_1.sce #
+ 
+ 
+ r  =
+ 
+    2.  
+ 
+ p  =
+ 
+    120.  
+ 
+ 
+ F  =
+ 
+    1507.9645  
+ 
+ 
+ total force tending to lift the done= 1508 Lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.2/1_2.sce #
+ 
+ 
+ d1  =
+ 
+    0.5  
+ 
+ d2  =
+ 
+    5.  
+ 
+ x  =
+ 
+    10.  
+ 
+ t  =
+ 
+    12.  
+ 
+ h  =
+ 
+    3.  
+ 
+ W  =
+ 
+    2240.  
+ 
+ 
+ F  =
+ 
+    22.4  
+ 
+ n  =
+ 
+    360.  
+ 
+ hp  =
+ 
+    0.0169697  
+ 
+ 
+ Force on plunger= 22.4 lb 
+ 
+ strokes required= 360  
+ 
+ horse-power required= 0.017 hp 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.3/1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ w  =
+ 
+    64.  
+ 
+ h  =
+ 
+    7.  
+ 
+ 
+ p  =
+ 
+    7.3333333  
+ 
+ 
+ pressure = 7.33 tons/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.4/1_4.sce #
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ H  =
+ 
+    6.  
+ 
+ W  =
+ 
+    5.  
+ 
+ 
+ P  =
+ 
+    5616.  
+ 
+ 
+ presure on end= 5616.00 Lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.5/1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    76.  
+ 
+ s  =
+ 
+    13.6  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ cw  =
+ 
+    1033.6  
+ 
+ Iw  =
+ 
+    406.92913  
+ 
+ fw  =
+ 
+    33.910761  
+ 
+ P  =
+ 
+    2116.0315  
+ 
+ p  =
+ 
+    14.694663  
+ 
+ 
+ pressure in Feet of water = 33.91  
+ 
+ pressure in pounds per inch = 14.7  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.6/1_6.sce #
+ 
+ 
+ dh  =
+ 
+    2.  
+ 
+ d  =
+ 
+    13.6  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ x  =
+ 
+    25.2  
+ 
+ P  =
+ 
+    0.91  
+ 
+ 
+ presure = 0.91 Lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.7/1_7.sce #
+ 
+ 
+ A  =
+ 
+    0.025  
+ 
+ sl  =
+ 
+    0.95  
+ 
+ sc  =
+ 
+    0.9  
+ 
+ h  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    1.  
+ 
+ 
+ x  =
+ 
+    10.38961  
+ 
+ 
+ displcement = 10.39 in 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.8/1_8.sce #
+ 
+ 
+ h  =
+ 
+    10.  
+ 
+ h1  =
+ 
+    3.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ H  =
+ 
+    11.5  
+ 
+ A  =
+ 
+    9.  
+ 
+ P  =
+ 
+    6458.4  
+ 
+ 
+ total pressure on the sluice  = 6458 Lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.9/1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ x  =
+ 
+    4.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ Ig  =
+ 
+    63.617251  
+ 
+ A  =
+ 
+    28.274334  
+ 
+ Io  =
+ 
+    516.00659  
+ 
+ h  =
+ 
+    4.5625  
+ 
+ P  =
+ 
+    7057.2737  
+ 
+ 
+Depth of centre of pressure  = 4.56 ft 
+ 
+ Total pressure on plate  = 7050 Lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH1/EX1.11/1_11.sce #
+ 
+ 
+ d  =
+ 
+    0.25  
+ 
+ w  =
+ 
+    62.4  
+ 
+ T  =
+ 
+    0.000343  
+ 
+ 
+ h  =
+ 
+    0.1519754  
+ 
+ 
+ Height  = 0.152 in 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH2/EX2.1/2_1.sce #
+ 
+ 
+ V  =
+ 
+    4000.  
+ 
+ W  =
+ 
+    64.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ W1  =
+ 
+    114.28571  
+ 
+ V1  =
+ 
+    4102.5641  
+ 
+ 
+ volume of the  dispalcement in fresh water = 4103 ft^3 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH2/EX2.2/2_2.sce #
+ 
+ 
+ W  =
+ 
+    3000.  
+ 
+ m  =
+ 
+    15.  
+ 
+ x  =
+ 
+    30.  
+ 
+ s  =
+ 
+    0.0333333  
+ 
+ 
+ GM  =
+ 
+    4.5  
+ 
+ 
+ Manometric height  = 4.5 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ W  =
+ 
+    1350.  
+ 
+ m  =
+ 
+    20.  
+ 
+ x  =
+ 
+    22.5  
+ 
+ s  =
+ 
+    0.0875  
+ 
+ msw  =
+ 
+    64.  
+ 
+ k  =
+ 
+    0.65  
+ 
+ l  =
+ 
+    200.  
+ 
+ b  =
+ 
+    28.  
+ 
+ l1  =
+ 
+    5.  
+ 
+ 
+ GM  =
+ 
+    3.8095238  
+ 
+ V  =
+ 
+    47250.  
+ 
+ I  =
+ 
+    237813.33  
+ 
+ BM  =
+ 
+    5.0330864  
+ 
+ PositionOfM  =
+ 
+    0.0330864  
+ 
+ PositionOfG  =
+ 
+    3.7764374  
+ 
+ 
+Position of M= 0.05 ft above water-line 
+
+ Position of G= 3.76 ft below water-line 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ l  =
+ 
+    4.  
+ 
+ W  =
+ 
+    2500.  
+ 
+ Wt  =
+ 
+    500.  
+ 
+ cg  =
+ 
+    1.5  
+ 
+ d1  =
+ 
+    64.  
+ 
+ 
+ w1  =
+ 
+    3000.  
+ 
+ V  =
+ 
+    46.875  
+ 
+ D  =
+ 
+    1.657864  
+ 
+ hb  =
+ 
+    0.828932  
+ 
+ BG  =
+ 
+    1.357168  
+ 
+ hg  =
+ 
+    2.1861  
+ 
+ x  =
+ 
+    5.6166001  
+ 
+ 
+ Maximum height c.g above the bottom= 5.62 ft  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+ 
+ W  =
+ 
+    1500.  
+ 
+ d  =
+ 
+    5.  
+ 
+ dw  =
+ 
+    64.  
+ 
+ D  =
+ 
+    3.4  
+ 
+ 
+ RG  =
+ 
+    0.7308824  
+ 
+ d1  =
+ 
+    1.7  
+ 
+ T  =
+ 
+    619.70075  
+ 
+ 
+ pull on the chain = 640 Lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH2/EX2.6/2_6.sce #
+ 
+ 
+ T  =
+ 
+    20.  
+ 
+ m  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ k  =
+ 
+    25.544244  
+ 
+ 
+ Radius of gyration=  25.544244 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ ws  =
+ 
+    62.4  
+ 
+ V  =
+ 
+    300.  
+ 
+ P  =
+ 
+    20.  
+ 
+ ww  =
+ 
+    10.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ Ws  =
+ 
+    50.  
+ 
+ Vws  =
+ 
+    0.8012821  
+ 
+ hp  =
+ 
+    4.1958042  
+ 
+ 
+ horse power required= 4.2 hp  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    6.  
+ 
+ d  =
+ 
+    4.  
+ 
+ db  =
+ 
+    2.  
+ 
+ V  =
+ 
+    300.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    0.8012821  
+ 
+ A  =
+ 
+    12.566371  
+ 
+ A1  =
+ 
+    3.1415927  
+ 
+ v1  =
+ 
+    36.728064  
+ 
+ v2  =
+ 
+    9.1820159  
+ 
+ dp  =
+ 
+    5.9094908  
+ 
+ 
+ difference ofpressure between top and bottom ends ofpipes= 5.91 Lb/in^2  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ dp  =
+ 
+    6.  
+ 
+ dt  =
+ 
+    3.  
+ 
+ dm  =
+ 
+    13.6  
+ 
+ dw  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ k  =
+ 
+    0.97  
+ 
+ h  =
+ 
+    7.  
+ 
+ 
+ H  =
+ 
+    7.35  
+ 
+ a1  =
+ 
+    0.1963495  
+ 
+ a2  =
+ 
+    0.0490874  
+ 
+ c  =
+ 
+    0.4068433  
+ 
+ Q  =
+ 
+    1.0698985  
+ 
+ 
+ discharge through the meter= 1.07 ft^3/sec  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ k  =
+ 
+    0.97  
+ 
+ dp  =
+ 
+    3.  
+ 
+ dt  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    16.2  
+ 
+ 
+ a2  =
+ 
+    0.0490874  
+ 
+ a1  =
+ 
+    0.0054542  
+ 
+ Q  =
+ 
+  - 0.0496371i  
+ 
+ hf  =
+ 
+    0.079785  
+ 
+ hl  =
+ 
+    0.15957  
+ 
+ ht  =
+ 
+    0.239355  
+ 
+ 
+ total head lost in the meter due to friction = 0.24 ft  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ v  =
+ 
+    20.  
+ 
+ d  =
+ 
+    2.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    0.0218166  
+ 
+ hp  =
+ 
+    0.3074775  
+ 
+ 
+ horse power = 0.307 hp  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ v0  =
+ 
+    20.  
+ 
+ D  =
+ 
+    12.  
+ 
+ R  =
+ 
+    6.  
+ 
+ t  =
+ 
+    0.5  
+ 
+ r  =
+ 
+    1.  
+ 
+ r1  =
+ 
+    0.5  
+ 
+ k2  =
+ 
+    34.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ 
+ va  =
+ 
+    3.3333333  
+ 
+ k1  =
+ 
+    27.961353  
+ 
+ H  =
+ 
+    34.172533  
+ 
+ k  =
+ 
+    0.0431332  
+ 
+ p1  =
+ 
+    1636.2919  
+ 
+ p2  =
+ 
+    1662.5308  
+ 
+ p  =
+ 
+    26.238932  
+ 
+ 
+ net pressure on plate= 24 lb  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.7/3_7.sce #
+ 
+ 
+ 
+ w  =
+ 
+    300.  
+ 
+ ri  =
+ 
+    2.  
+ 
+ ro  =
+ 
+    3.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v1  =
+ 
+    62.831853  
+ 
+ v2  =
+ 
+    109.95574  
+ 
+ CH  =
+ 
+    126.43515  
+ 
+ 
+ centrifugalhead impressed on the water = 126.4 ft of water  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ h  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ r  =
+ 
+    1.5  
+ 
+ 
+ w  =
+ 
+    32.099844  
+ 
+ V  =
+ 
+    5.1088489  
+ 
+ V1  =
+ 
+    153.26547  
+ 
+ 
+ number of revolutions per minute made by engine at that engine = 153.3 r.p.m  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    12.  
+ 
+ h  =
+ 
+    0.1  
+ 
+ w  =
+ 
+    240.  
+ 
+ W  =
+ 
+    62.4  
+ 
+ 
+ P  =
+ 
+    60.086698  
+ 
+ Pt  =
+ 
+    60.495105  
+ 
+ 
+ Total pressure on bottom of cylinder = 60.495 Lb  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ r  =
+ 
+    6.  
+ 
+ r1  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Q  =
+ 
+    1450.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ 
+ dp  =
+ 
+    29.089131  
+ 
+ 
+ pressure difference = 29.1 Lb/in^2  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ r  =
+ 
+    3.  
+ 
+ v  =
+ 
+    20.  
+ 
+ P  =
+ 
+    30.  
+ 
+ r1  =
+ 
+    6.  
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ C  =
+ 
+    5.  
+ 
+ P2  =
+ 
+    32.018634  
+ 
+ 
+ pressure at 6 in = 32.02 Lb/in^2  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH3/EX3.13/3_13.sce #
+ 
+ 
+ 
+ d  =
+ 
+    10.  
+ 
+ h  =
+ 
+    3.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    0.5454154  
+ 
+ V  =
+ 
+    4.3339743  
+ 
+ vm  =
+ 
+    2.8893162  
+ 
+ Q  =
+ 
+    94.552652  
+ 
+ 
+ Quantity flowing per minute = 94.6 ft^3  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ H  =
+ 
+    8.  
+ 
+ x  =
+ 
+    32.5  
+ 
+ y  =
+ 
+    33.7  
+ 
+ 
+ Cv  =
+ 
+    0.9896769  
+ 
+ 
+ Coefficient of velocity = 0.990  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ b  =
+ 
+    4.  
+ 
+ H1  =
+ 
+    2.  
+ 
+ a  =
+ 
+    2.  
+ 
+ 
+ D  =
+ 
+    68.616096  
+ 
+ 
+ Quantity of water flowing thourght the pipe = 68.6 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.3/4_3.SCE #
+ 
+ 
+ 
+ d  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ b  =
+ 
+    4.  
+ 
+ H1  =
+ 
+    4.  
+ 
+ a  =
+ 
+    1.  
+ 
+ 
+ D  =
+ 
+    42.196545  
+ 
+ D1  =
+ 
+    44.502009  
+ 
+ Dt  =
+ 
+    86.698554  
+ 
+ 
+ Quantity of water flowing thourght the pipe =86.7 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.4/4_4.sce #
+ 
+ 
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    32.2  
+ 
+ D  =
+ 
+    12.  
+ 
+ H1  =
+ 
+    6.  
+ 
+ H2  =
+ 
+    4.  
+ 
+ d1  =
+ 
+    8.  
+ 
+ 
+ T  =
+ 
+    58.13646  
+ 
+ 
+ Time required  to lower the level of water = 58.1 sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.5/4_5.sce #
+ 
+ 
+ 
+ H1  =
+ 
+    10.  
+ 
+ H2  =
+ 
+    2.  
+ 
+ d  =
+ 
+    0.62  
+ 
+ so  =
+ 
+    3.  
+ 
+ w  =
+ 
+    5.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ b  =
+ 
+    2.5  
+ 
+ b1  =
+ 
+    7.5  
+ 
+ 
+ A1  =
+ 
+    12.5  
+ 
+ A2  =
+ 
+    37.5  
+ 
+ a  =
+ 
+    0.0625  
+ 
+ T  =
+ 
+    105.40082  
+ 
+ 
+ Time required  to lower the level of water = 105.4 sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ q  =
+ 
+    12.  
+ 
+ H1  =
+ 
+    16.  
+ 
+ A  =
+ 
+    1500.  
+ 
+ Q  =
+ 
+    6.  
+ 
+ H2  =
+ 
+    6.  
+ 
+ 
+ k  =
+ 
+    3.  
+ 
+ T  =
+ 
+    75.601485  
+ 
+ 
+ Time required  to lower the level of water = 75.6 min 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ h1  =
+ 
+    2.25  
+ 
+ dh1  =
+ 
+    6.  
+ 
+ h2  =
+ 
+    4.125  
+ 
+ dh2  =
+ 
+    3.  
+ 
+ dt1  =
+ 
+    107.  
+ 
+ dt2  =
+ 
+    120.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    1.5  
+ 
+ 
+ r1  =
+ 
+    0.0046729  
+ 
+ r2  =
+ 
+    0.0020833  
+ 
+ k  =
+ 
+    0.0610583  
+ 
+ A  =
+ 
+    12.52046  
+ 
+ Q  =
+ 
+    0.1500942  
+ 
+ 
+ Area = 12.5 ft^2 
+ 
+ Discharge = 0.1501 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.8/4_8.sce #
+ 
+ 
+ 
+ Q  =
+ 
+    4.  
+ 
+ d  =
+ 
+    6.  
+ 
+ D  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ V  =
+ 
+    20.371833  
+ 
+ V1  =
+ 
+    5.0929582  
+ 
+ L  =
+ 
+    3.6249069  
+ 
+ 
+ Loss of head= 3.62 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.9/4_9.sce #
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ d1  =
+ 
+    2.  
+ 
+ v  =
+ 
+    0.59  
+ 
+ L  =
+ 
+    1.25  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Cc  =
+ 
+    0.5553127  
+ 
+ 
+ Coefficient of conraction = 0.555  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    0.62  
+ 
+ d  =
+ 
+    1.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ D  =
+ 
+    2.  
+ 
+ h  =
+ 
+    0.85  
+ 
+ 
+ Q  =
+ 
+    1.5503762  
+ 
+ 
+ Flow through the orifice = 1.55 ft^3/min 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.11/4_11.sce #
+ 
+ 
+ 
+ A  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ c  =
+ 
+    0.64  
+ 
+ H  =
+ 
+    10.  
+ 
+ Ha  =
+ 
+    34.  
+ 
+ 
+ v  =
+ 
+    22.118108  
+ 
+ D  =
+ 
+    0.6143919  
+ 
+ vc  =
+ 
+    34.559543  
+ 
+ Hc  =
+ 
+    25.454006  
+ 
+ 
+ Pessure at the vvena contracta = 25.5 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH4/EX4.12/4_12.sce #
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.64  
+ 
+ d  =
+ 
+    2.  
+ 
+ h  =
+ 
+    3.  
+ 
+ cd1  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+Warning : redefining function: cd                      . Use funcprot(0) to avoid this message
+
+ cd  =
+ 
+    0.8715755  
+ 
+ ad  =
+ 
+    0.1516216  
+ 
+ ad1  =
+ 
+    6.3431826  
+ 
+ 
+ Coefficient of discharge= 0.872 
+ 
+ Actual discharge for Borda mouthpiece= 0.1516 ft^3/sec 
+ 
+ Actual discharge for Cylindrical mouthpiece= 0 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ 
+ x  =
+ 
+    1.105  
+ 
+ y  =
+ 
+    0.955  
+ 
+ z  =
+ 
+    0.1  
+ 
+ 
+ n  =
+ 
+    1.5  
+ 
+ 
+ value of n = 1.5  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.2/5_2.sce #
+ 
+ 
+ k  =
+ 
+    1.667  
+ 
+ L  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Cd  =
+ 
+    0.6231806  
+ 
+ 
+ Coefficiant of discharge = 0.623  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.3/5_3.sce #
+ 
+ 
+ Q  =
+ 
+    0.0055  
+ 
+ h  =
+ 
+    0.002  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Cd  =
+ 
+    0.6425265  
+ 
+ 
+ Coefficiant of discharge = 0.643  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.5/5_5.sce #
+ 
+ 
+ B  =
+ 
+    5.  
+ 
+ H  =
+ 
+    0.75  
+ 
+ k  =
+ 
+    0.4444444  
+ 
+ Q1  =
+ 
+    16.2  
+ 
+ B1  =
+ 
+    5.  
+ 
+ H1  =
+ 
+    0.51  
+ 
+ 
+ A  =
+ 
+    3.2853333  
+ 
+ C  =
+ 
+    0.1352814  
+ 
+ Q  =
+ 
+    10.452927  
+ 
+ 
+ Discharge flow rate = 10.45 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.6/5_6.sce #
+ 
+ 
+ 
+ 
+ H  =
+ 
+    0.5  
+ 
+ h  =
+ 
+    6.  
+ 
+ l  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ m  =
+ 
+    0.42468  
+ 
+ D  =
+ 
+    4.819697  
+ 
+ 
+ Discharge using bazins formula = 4.82 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.7/5_7.sce #
+ 
+ 
+ 
+ L  =
+ 
+    10.  
+ 
+ h  =
+ 
+    2.  
+ 
+ w  =
+ 
+    20.  
+ 
+ d  =
+ 
+    3.  
+ 
+ n  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    94.186623  
+ 
+ v1  =
+ 
+    1.5697771  
+ 
+ H1  =
+ 
+    2.038264  
+ 
+ Q  =
+ 
+    92.713134  
+ 
+ 
+ Discharge over a weir = 93 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.8/5_8.sce #
+ 
+ 
+ 
+ l  =
+ 
+    12.  
+ 
+ w  =
+ 
+    4.  
+ 
+ h1  =
+ 
+    0.0833333  
+ 
+ h2  =
+ 
+    1.  
+ 
+ 
+ T  =
+ 
+    8.1958019  
+ 
+ 
+ time taken = 8.2 min 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH5/EX5.9/5_9.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    32.2  
+ 
+ B  =
+ 
+    20.  
+ 
+ H1  =
+ 
+    2.  
+ 
+ H2  =
+ 
+    0.25  
+ 
+ w  =
+ 
+    5.  
+ 
+ 
+ Q1  =
+ 
+    153.5785  
+ 
+ Q2  =
+ 
+    32.909679  
+ 
+ Q  =
+ 
+    186.48818  
+ 
+ v1  =
+ 
+    1.8648818  
+ 
+ Q1i  =
+ 
+    159.90941  
+ 
+ Q2i  =
+ 
+    38.690813  
+ 
+ Qi  =
+ 
+    198.60022  
+ 
+ V  =
+ 
+    1.9860022  
+ 
+ 
+ mean velocity ofthe channel = 1.99 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH6/EX6.1/6_1.sce #
+ 
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ d  =
+ 
+    2.  
+ 
+ V  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ a  =
+ 
+    60.  
+ 
+ 
+ W  =
+ 
+    136.13568  
+ 
+ F  =
+ 
+    422.78162  
+ 
+ N  =
+ 
+    366.13962  
+ 
+ 
+ Normalforce on the plate when the jet is normal = 422.8 Lb 
+.
+ Normalforce on the plate when the jet is inclines at 60 degrees = 366 Lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ w  =
+ 
+    62.4  
+ 
+ d  =
+ 
+    3.  
+ 
+ V  =
+ 
+    40.  
+ 
+ v  =
+ 
+    30.  
+ 
+ 
+ P  =
+ 
+    38.050346  
+ 
+ W  =
+ 
+    1141.5104  
+ 
+ e  =
+ 
+    37.5  
+ 
+ 
+ Prssure on the plates = 38 Lb 
+.
+ Work = 1142 ft-Lb 
+.
+ Efficiency = 37.5 per-cent 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH6/EX6.3/6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    80.  
+ 
+ v  =
+ 
+    40.  
+ 
+ a  =
+ 
+    30.  
+ 
+ b  =
+ 
+    20.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ O  =
+ 
+    53.793977  
+ 
+ Vr  =
+ 
+    49.572547  
+ 
+ V1  =
+ 
+    10.110533  
+ 
+ W  =
+ 
+    96.941629  
+ 
+ e  =
+ 
+    97.547514  
+ 
+ 
+ Velocity = 10.12 ft/sec 
+ 
+ Work done = 97.9 ft-lb/sec 
+ 
+ Efficiency = 98.5 per cent 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH6/EX6.4/6_4.sce #
+ 
+ 
+ 
+ a  =
+ 
+    30.  
+ 
+ V  =
+ 
+    100.  
+ 
+ a1  =
+ 
+    40.  
+ 
+ r  =
+ 
+    2.  
+ 
+ r1  =
+ 
+    1.  
+ 
+ v  =
+ 
+    14.  
+ 
+ a2  =
+ 
+    35.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Vf  =
+ 
+    50.  
+ 
+ Vw  =
+ 
+    86.60254  
+ 
+ c  =
+ 
+    59.58768  
+ 
+ v1  =
+ 
+    27.014861  
+ 
+ R  =
+ 
+    2.  
+ 
+ V1  =
+ 
+    13.50743  
+ 
+ h  =
+ 
+    19.994072  
+ 
+ Vw1  =
+ 
+    6.4866417  
+ 
+ W  =
+ 
+    75.378057  
+ 
+ s  =
+ 
+    128.98646  
+ 
+ e  =
+ 
+    48.543469  
+ 
+ 
+ Efficiency = 49 per-cent 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH6/EX6.5/6_5.sce #
+ 
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ A  =
+ 
+    25.  
+ 
+ Vr  =
+ 
+    35.  
+ 
+ V  =
+ 
+    12.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ W1  =
+ 
+    379.16667  
+ 
+ v  =
+ 
+    17.6  
+ 
+ W  =
+ 
+    5388.6413  
+ 
+ hp  =
+ 
+    9.7975296  
+ 
+ 
+ horse-power required to work the pupms = 9.8  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.1/7_1.sce #
+ 
+ 
+ 
+ As  =
+ 
+    13500.  
+ 
+ n  =
+ 
+    16.  
+ 
+ Vs  =
+ 
+    20.  
+ 
+ fm  =
+ 
+    0.0094  
+ 
+ r  =
+ 
+    20.  
+ 
+ fs  =
+ 
+    0.0091  
+ 
+ 
+ Am  =
+ 
+    52.734375  
+ 
+ s  =
+ 
+    5.  
+ 
+ rf  =
+ 
+    12.392578  
+ 
+ rw  =
+ 
+    7.6074219  
+ 
+ R  =
+ 
+    80300.  
+ 
+ hp  =
+ 
+    8224.6667  
+ 
+ 
+ required horse power = 8200  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.2/7_2.sce #
+ 
+ 
+ 
+ f  =
+ 
+    0.0056  
+ 
+ l  =
+ 
+    150.  
+ 
+ v  =
+ 
+    8.  
+ 
+ d  =
+ 
+    8.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ hf  =
+ 
+    5.0086957  
+ 
+ hf1  =
+ 
+    5.1263795  
+ 
+ 
+ head lost in friction = 5.13 ft of water 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.3/7_3.sce #
+ 
+ 
+ r  =
+ 
+  - 3.19  
+ 
+ logi  =
+ 
+  - 2.6  
+ 
+ logv  =
+ 
+    0.302  
+ 
+ 
+ k  =
+ 
+    0.0006457  
+ 
+ n  =
+ 
+    1.9536424  
+ 
+ 
+value of k = 0.000646  
+
+ value of n = 1.954  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.4/7_4.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    1500.  
+ 
+ d  =
+ 
+    6.  
+ 
+ h  =
+ 
+    96.  
+ 
+ 
+ v  =
+ 
+    7.1480217  
+ 
+ D  =
+ 
+    1.4035108  
+ 
+ 
+ discharge through the pipe = 1.40 ft^3/sec 
+ 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.5/7_5.sce #
+ 
+ 
+ 
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    2640.  
+ 
+ d1  =
+ 
+    8.  
+ 
+ d2  =
+ 
+    0.25  
+ 
+ k1  =
+ 
+    0.03125  
+ 
+ h  =
+ 
+    100.  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ k2  =
+ 
+    13.2  
+ 
+ k3  =
+ 
+    422.4  
+ 
+ 
+ k  =
+ 
+    437.13125  
+ 
+ v2  =
+ 
+    3.8382831  
+ 
+ dis  =
+ 
+    70.569577  
+ 
+ 
+ Discharge= 70.6 gal/min 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.6/7_6.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    25.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ d  =
+ 
+    1.  
+ 
+ d1  =
+ 
+    12.  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ 
+ k  =
+ 
+    81.  
+ 
+ v  =
+ 
+    4.4583117  
+ 
+ k1  =
+ 
+    0.04  
+ 
+ l1  =
+ 
+    37.88  
+ 
+ l  =
+ 
+    947.  
+ 
+ dis  =
+ 
+    3.5029592  
+ 
+ 
+ Discharge through pipe= 3.50 ft^3/sec  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.7/7_7.sce #
+ 
+ 
+ 
+ Th  =
+ 
+    120.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ k1  =
+ 
+    1.875  
+ 
+ k2  =
+ 
+    9.14  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ r  =
+ 
+    0.25  
+ 
+ 
+ k  =
+ 
+    0.0155280  
+ 
+ k3  =
+ 
+    0.0379724  
+ 
+ v  =
+ 
+    56.215571  
+ 
+ dis  =
+ 
+    2.7605861  
+ 
+ 
+ Discharge through pipe= 2.76 ft^3/sec  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.8/7_8.sce #
+ 
+ 
+ A1  =
+ 
+    400.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    0.25  
+ 
+ H1  =
+ 
+    7.22  
+ 
+ H2  =
+ 
+    1.66  
+ 
+ A2  =
+ 
+    225.  
+ 
+ a  =
+ 
+    0.0491  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ T  =
+ 
+    216.18323  
+ 
+ 
+Time taken to reduce height = 216 min 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.9/7_9.sce #
+ 
+ 
+ 
+ h  =
+ 
+    50.  
+ 
+ wg  =
+ 
+    0.045  
+ 
+ wa  =
+ 
+    0.08  
+ 
+ k1  =
+ 
+    0.333  
+ 
+ k2  =
+ 
+    0.0834  
+ 
+ k3  =
+ 
+    62.4  
+ 
+ f  =
+ 
+    0.008  
+ 
+ l  =
+ 
+    300.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ 
+ j  =
+ 
+    385.00089  
+ 
+ j1  =
+ 
+    20.2  
+ 
+ v  =
+ 
+    35.034677  
+ 
+ del  =
+ 
+    24774.521  
+ 
+ 
+ Delivery= 24750 ft^3/hr  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.10/7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ p1  =
+ 
+    750.  
+ 
+ p2  =
+ 
+    680.  
+ 
+ f  =
+ 
+    0.008  
+ 
+ k  =
+ 
+    62.4  
+ 
+ l  =
+ 
+    3000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ h  =
+ 
+    161.53846  
+ 
+ k1  =
+ 
+    108.36538  
+ 
+ v  =
+ 
+    5.5529886  
+ 
+ d  =
+ 
+    0.2845529  
+ 
+ 
+ velocity of supply pipe= 5.55 ft/sec  
+
+ Diameter of supply  pipe= 0.285 ft  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.11/7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.25  
+ 
+ f  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    600.  
+ 
+ H  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ 
+ k  =
+ 
+    13.856406  
+ 
+ d  =
+ 
+    0.0671606  
+ 
+ v  =
+ 
+    4.7287537  
+ 
+ v1  =
+ 
+    65.523533  
+ 
+ hp  =
+ 
+    1.7563942  
+ 
+ 
+ Diameter= 0.804 in  
+
+ Horsepower= 1.738  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.12/7_12.sce #
+ 
+ 
+ 
+ dis  =
+ 
+    29.7  
+ 
+ H  =
+ 
+    4.  
+ 
+ H1  =
+ 
+    40.  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ g  =
+ 
+    32.2  
+ 
+ l  =
+ 
+    540.  
+ 
+ D  =
+ 
+    0.5  
+ 
+ A  =
+ 
+    36.  
+ 
+ a  =
+ 
+    2.25  
+ 
+ 
+ v  =
+ 
+    2.52  
+ 
+ k1  =
+ 
+    39.564374  
+ 
+ k2  =
+ 
+    4320.  
+ 
+ f  =
+ 
+    0.0091584  
+ 
+ k3  =
+ 
+    39.564374  
+ 
+ k4  =
+ 
+    256.  
+ 
+ V1  =
+ 
+    2.9522076  
+ 
+ v1  =
+ 
+    47.235321  
+ 
+ hp  =
+ 
+    2.2773319  
+ 
+ 
+ horse power= 2.28. 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.13/7_13.sce #
+ 
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ l  =
+ 
+    2.  
+ 
+ v  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ t  =
+ 
+    20.  
+ 
+ t1  =
+ 
+    1.  
+ 
+ 
+ P  =
+ 
+    4092.8199  
+ 
+ P1  =
+ 
+    81856.398  
+ 
+ 
+ Rise in pressure behind the valve = 4093 Lb/ft^2 
+ 
+ Rise in pressure behind the valve = 81856 Lb/ft^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH7/EX7.14/7_14.sce #
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ v  =
+ 
+    4.  
+ 
+ K  =
+ 
+    300000.  
+ 
+ E  =
+ 
+    4.320D+09  
+ 
+ w  =
+ 
+    62.4  
+ 
+ t  =
+ 
+    0.0208333  
+ 
+ g  =
+ 
+    32.2  
+ 
+ fc1  =
+ 
+    300.  
+ 
+ 
+ P  =
+ 
+    36568.287  
+ 
+ fc  =
+ 
+    2747.3572  
+ 
+ 
+ Theotrical stress= 2747 Lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.1/8_1.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.8  
+ 
+ cv  =
+ 
+    0.01  
+ 
+ db  =
+ 
+    0.6  
+ 
+ cvb  =
+ 
+    0.005  
+ 
+ 
+ v  =
+ 
+    0.0125  
+ 
+ vc  =
+ 
+    25.  
+ 
+ vb  =
+ 
+    0.0083333  
+ 
+ vcb  =
+ 
+    16.666667  
+ 
+ r  =
+ 
+    1.5  
+ 
+ 
+ Ratio of critical velocities= 1.5 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.2/8_2.sce #
+ 
+ 
+ a  =
+ 
+    0.0000193  
+ 
+ b  =
+ 
+    0.03368  
+ 
+ c  =
+ 
+    0.000221  
+ 
+ t  =
+ 
+    5.  
+ 
+ n  =
+ 
+    0.0833333  
+ 
+ d  =
+ 
+    0.25  
+ 
+ g  =
+ 
+    32.  
+ 
+ l  =
+ 
+    100.  
+ 
+ t1  =
+ 
+    70.  
+ 
+ va  =
+ 
+    1.  
+ 
+ vb  =
+ 
+    10.  
+ 
+ ka  =
+ 
+    0.032  
+ 
+ k2  =
+ 
+  - 0.23  
+ 
+ 
+ v  =
+ 
+    0.0000164  
+ 
+ Re  =
+ 
+    1267.8471  
+ 
+ k  =
+ 
+    0.0063099  
+ 
+ i  =
+ 
+    0.0378595  
+ 
+ hf  =
+ 
+    3.7859454  
+ 
+ v1  =
+ 
+    0.0000043  
+ 
+ Re1  =
+ 
+    47957.707  
+ 
+ k1  =
+ 
+    0.0026826  
+ 
+ i1  =
+ 
+    1.6095475  
+ 
+ hf1  =
+ 
+    160.95475  
+ 
+ 
+
+ loss of head= 3.79 ft  
+
+ loss of head= 161 ft  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.3/8_3.sce #
+ 
+ 
+ 
+ w  =
+ 
+    20.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ w1  =
+ 
+    57.2  
+ 
+ vs  =
+ 
+    0.0205  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ l  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Q  =
+ 
+    0.2175602  
+ 
+ v  =
+ 
+    1.1075793  
+ 
+ Re  =
+ 
+    27.014129  
+ 
+ k  =
+ 
+    0.2952030  
+ 
+ i  =
+ 
+    0.0899714  
+ 
+ hf  =
+ 
+    89.971397  
+ 
+ hp  =
+ 
+    2.0357165  
+ 
+ 
+ horse power required= 2.04  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.4/8_4.sce #
+ 
+ 
+ 
+ 
+ t1  =
+ 
+    10.  
+ 
+ hf  =
+ 
+    30.  
+ 
+ t  =
+ 
+    0.0003333  
+ 
+ g  =
+ 
+    32.2  
+ 
+ l  =
+ 
+    1.  
+ 
+ D  =
+ 
+    0.3333333  
+ 
+ 
+ i  =
+ 
+    30.  
+ 
+ v  =
+ 
+    0.0000142  
+ 
+ mv  =
+ 
+    0.6300988  
+ 
+ rate  =
+ 
+    0.0002199  
+ 
+ 
+ Rate of flow= 0.000220 ft^3/sec  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.5/8_5.sce #
+ 
+ 
+ 
+ t  =
+ 
+    0.0000833  
+ 
+ n  =
+ 
+    30.  
+ 
+ ne  =
+ 
+    0.0032  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ D  =
+ 
+    0.3333333  
+ 
+ l  =
+ 
+    0.6666667  
+ 
+ 
+ vt  =
+ 
+    2.3413454  
+ 
+ 
+ viscious torque= 2.34 lb-ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.6/8_6.sce #
+ 
+ 
+ 
+ ne  =
+ 
+    0.0019  
+ 
+ n  =
+ 
+    300.  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+ t  =
+ 
+    0.0008333  
+ 
+ R1  =
+ 
+    0.25  
+ 
+ R2  =
+ 
+    0.167  
+ 
+ 
+ w  =
+ 
+    15.714286  
+ 
+ T  =
+ 
+    0.3522767  
+ 
+ hp  =
+ 
+    0.0201301  
+ 
+ 
+ hp absorbed= 0.02 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.7/8_7.sce #
+ 
+ 
+ 
+ d  =
+ 
+    5.  
+ 
+ d2  =
+ 
+    0.01  
+ 
+ l  =
+ 
+    10.  
+ 
+ w  =
+ 
+    0.88  
+ 
+ d1  =
+ 
+    0.1  
+ 
+ T  =
+ 
+    1200.  
+ 
+ Q  =
+ 
+    50.  
+ 
+ H1  =
+ 
+    5.  
+ 
+ w1  =
+ 
+    863.28  
+ 
+ n1  =
+ 
+    0.007  
+ 
+ 
+ A  =
+ 
+    19.634954  
+ 
+ a  =
+ 
+    0.0078540  
+ 
+ H2  =
+ 
+    2.4535209  
+ 
+ n  =
+ 
+    0.0181379  
+ 
+ 
+viscosity of liquid= 0.0181 poises 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH8/EX8.8/8_8.sce #
+ 
+ 
+ 
+ l  =
+ 
+    20.  
+ 
+ t  =
+ 
+    21.3  
+ 
+ d  =
+ 
+    0.0622  
+ 
+ g  =
+ 
+    981.  
+ 
+ p1  =
+ 
+    7.8  
+ 
+ p2  =
+ 
+    0.96  
+ 
+ 
+ vf  =
+ 
+    0.9389671  
+ 
+ r  =
+ 
+    0.078994  
+ 
+ n  =
+ 
+    9.9094697  
+ 
+ 
+ coefficient of viscocity= 9.91 poise 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH9/EX9.1/9_1.sce #
+ 
+ 
+ hp  =
+ 
+    10000.  
+ 
+ p  =
+ 
+    0.95  
+ 
+ head  =
+ 
+    150.  
+ 
+ f  =
+ 
+    0.004  
+ 
+ l  =
+ 
+    20.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ r  =
+ 
+  - 3.6  
+ 
+ 
+ Q  =
+ 
+    599.3244  
+ 
+ d  =
+ 
+    2175841.  
+ 
+ dia  =
+ 
+    18.515073  
+ 
+ f  =
+ 
+    0.0038058  
+ 
+ 
+diameter of pipe to transmit= 18.52 ft 
+
+ value of f= 0.0038  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH9/EX9.2/9_2.sce #
+ 
+ 
+ 
+ w  =
+ 
+    64.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ s  =
+ 
+    10.  
+ 
+ l  =
+ 
+    100.  
+ 
+ r  =
+ 
+    0.125  
+ 
+ cf  =
+ 
+    0.0047  
+ 
+ A  =
+ 
+    1600.  
+ 
+ v1  =
+ 
+    0.000027  
+ 
+ 
+ v  =
+ 
+    14.666667  
+ 
+ p  =
+ 
+    1.9875776  
+ 
+ k1  =
+ 
+    9600.  
+ 
+ Re  =
+ 
+    1.080D+08  
+ 
+ R  =
+ 
+    1607.5881  
+ 
+ fhp  =
+ 
+    42.869017  
+ 
+ 
+Frictional horse power= 43 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH10/EX10.1/10_1.sce #
+ 
+ 
+ 
+ A  =
+ 
+    32.  
+ 
+ b  =
+ 
+    6.  
+ 
+ d  =
+ 
+    4.  
+ 
+ c  =
+ 
+    2.  
+ 
+ k  =
+ 
+    0.29  
+ 
+ sl  =
+ 
+    10.  
+ 
+ 
+ wp  =
+ 
+    14.944272  
+ 
+ m  =
+ 
+    2.1412887  
+ 
+ C  =
+ 
+    131.44934  
+ 
+ v  =
+ 
+    8.3710328  
+ 
+ Q  =
+ 
+    267.87305  
+ 
+ 
+ quantity= 268 ft^3/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH10/EX10.2/10_2.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ r  =
+ 
+    200.  
+ 
+ Q  =
+ 
+    3500.  
+ 
+ k  =
+ 
+    100.  
+ 
+ d1  =
+ 
+    1.9  
+ 
+ 
+ 
+ D  =
+ 
+    0.925  
+ 
+ 
+ 
+ Required depth= 0.925 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH10/EX10.3/10_3.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.5  
+ 
+ sl  =
+ 
+    1600.  
+ 
+ a  =
+ 
+    10000.  
+ 
+ 
+ k1  =
+ 
+    0.8284271  
+ 
+ A  =
+ 
+    1.8284271  
+ 
+ wp  =
+ 
+    3.6568542  
+ 
+ m  =
+ 
+    0.5  
+ 
+ k  =
+ 
+    0.0003125  
+ 
+ d  =
+ 
+    5.0365797  
+ 
+ b  =
+ 
+    4.1724393  
+ 
+ 
+ d= 5.04 ft 
+
+ b= 4.17 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH10/EX10.4/10_4.sce #
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ 
+ depth  =
+ 
+    4.86  
+ 
+ 
+ depth= 4.86 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH10/EX10.5/10_5.sce #
+ 
+ 
+ 
+ p  =
+ 
+    80.  
+ 
+ ra  =
+ 
+    36.6  
+ 
+ area  =
+ 
+    1680.  
+ 
+ r  =
+ 
+    0.3333333  
+ 
+ re  =
+ 
+    15.  
+ 
+ h  =
+ 
+    48.  
+ 
+ V  =
+ 
+    1098435.  
+ 
+ 
+ mir  =
+ 
+    29.28  
+ 
+ cr  =
+ 
+    14.28  
+ 
+ vol  =
+ 
+    87085152.  
+ 
+ volg  =
+ 
+    5.420D+08  
+ 
+ vola  =
+ 
+    3.613D+08  
+ 
+ pop  =
+ 
+    20624.049  
+ 
+ 
+ Volume of rain collected per annum= 542000000 gal 
+ 
+ population supplied= 20600 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH10/EX10.6/10_6.sce #
+ 
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ vel  =
+ 
+    20.  
+ 
+ 
+ v  =
+ 
+    10.880244  
+ 
+ d1  =
+ 
+    3.6763883  
+ 
+ 
+critical depth of water= 3.68 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH10/EX10.7/10_7.sce #
+ 
+ 
+ 
+ q  =
+ 
+    40.  
+ 
+ d1  =
+ 
+    3.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ d2  =
+ 
+    4.4477974  
+ 
+ H  =
+ 
+    1.4477974  
+ 
+ 
+ height of the wave= 1.45 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH11/EX11.1/11_1.sce #
+ 
+ 
+ 
+ H  =
+ 
+    4.  
+ 
+ v  =
+ 
+    0.0000084  
+ 
+ g  =
+ 
+    32.2  
+ 
+ p  =
+ 
+    0.00504  
+ 
+ 
+ k1  =
+ 
+    0.0000002  
+ 
+ k2  =
+ 
+    0.0000050  
+ 
+ 
+ non dimensional constant= 1.85e-07 
+
+ non dimensional constant= 5.05e-06 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH11/EX11.2/11_2.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ n  =
+ 
+    0.0000209  
+ 
+ H  =
+ 
+    2.  
+ 
+ D  =
+ 
+    0.0833333  
+ 
+ 
+ p  =
+ 
+    1.9378882  
+ 
+ v  =
+ 
+    0.0000108  
+ 
+ k  =
+ 
+    0.0000114  
+ 
+ 
+ value of non dimensional constant= 1.14e-05 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH11/EX11.3/11_3.sce #
+ 
+ 
+ 
+ H  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ D  =
+ 
+    0.0833333  
+ 
+ vi  =
+ 
+    0.0000318  
+ 
+ 
+ v  =
+ 
+    11.349009  
+ 
+ k  =
+ 
+    57633.936  
+ 
+ k1  =
+ 
+    10.961867  
+ 
+ cd1  =
+ 
+    0.62  
+ 
+ 
+ value of cd= 0.62 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH12/EX12.1/12_1.sce #
+ 
+ 
+ 
+ nw  =
+ 
+    0.01  
+ 
+ na  =
+ 
+    0.00015  
+ 
+ pw  =
+ 
+    62.4  
+ 
+ pa  =
+ 
+    0.075  
+ 
+ vw  =
+ 
+    10.  
+ 
+ dw  =
+ 
+    1.  
+ 
+ da  =
+ 
+    3.  
+ 
+ hf1  =
+ 
+    70.  
+ 
+ l1  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ D  =
+ 
+    0.0833333  
+ 
+ l2  =
+ 
+    60.  
+ 
+ d2  =
+ 
+    0.25  
+ 
+ 
+ va  =
+ 
+    41.6  
+ 
+ f  =
+ 
+    0.0093917  
+ 
+ hf2  =
+ 
+    242.2784  
+ 
+ 
+ loss of head= 242 ft of air 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH12/EX12.2/12_2.sce #
+ 
+ 
+ 
+ v  =
+ 
+    90.  
+ 
+ Rm  =
+ 
+    0.5  
+ 
+ r  =
+ 
+    0.05  
+ 
+ 
+ v1  =
+ 
+    20.124612  
+ 
+ R  =
+ 
+    4000.  
+ 
+ 
+ corresponding speed of model= 20.12 ft/sec 
+ 
+ resistance= 4000 Lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH13/EX13.1/13_1.sce #
+ 
+ 
+ 
+ 
+ H  =
+ 
+  - 6.8  
+ 
+ U  =
+ 
+    4.8  
+ 
+ Vs  =
+ 
+    6.25  
+ 
+ H1  =
+ 
+  - 17.  
+ 
+ U1  =
+ 
+  - 12.1  
+ 
+ Vs1  =
+ 
+    10.6  
+ 
+ t  =
+ 
+  - 38.  
+ 
+ 
+H = -6.8 B.Th.U 
+ 
+ U = 4.8 B.Th.U 
+ 
+ Vs = 6.25 ft^3/Lb 
+ 
+ H = -17.0 B.Th.U 
+ 
+ U = -12.1 B.Th.U 
+ 
+ Vs = 10.60 ft^3/Lb 
+ 
+ t = -38 F 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH13/EX13.2/13_2.sce #
+ 
+ 
+ 
+ w  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ b  =
+ 
+    300000.  
+ 
+ 
+ p  =
+ 
+    1.9378882  
+ 
+ v  =
+ 
+    4721.473  
+ 
+ 
+ velocity of sound in water= 4721 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH13/EX13.3/13_3.sce #
+ 
+ 
+ 
+ g1  =
+ 
+    1.41  
+ 
+ g  =
+ 
+    32.2  
+ 
+ T  =
+ 
+    273.  
+ 
+ R  =
+ 
+    96.  
+ 
+ p  =
+ 
+    14.7  
+ 
+ 
+ w  =
+ 
+    0.0807692  
+ 
+ po  =
+ 
+    0.0025084  
+ 
+ v  =
+ 
+    1090.8234  
+ 
+ 
+ velocity of sound in air= 1091 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH13/EX13.4/13_4.sce #
+ 
+ 
+ 
+ T  =
+ 
+    520.  
+ 
+ R  =
+ 
+    53.3  
+ 
+ h2  =
+ 
+    10000.  
+ 
+ p1  =
+ 
+    14.7  
+ 
+ 
+ p2  =
+ 
+    10.25178  
+ 
+ p2a  =
+ 
+    10.04304  
+ 
+ 
+ pressure assuming isothermal change= 10.25 lb/in^2 
+ 
+pressure assuming adiabatic change= 10.04 lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH13/EX13.5/13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.002  
+ 
+ h  =
+ 
+    12000.  
+ 
+ T  =
+ 
+    288.  
+ 
+ p0  =
+ 
+    14.7  
+ 
+ R  =
+ 
+    96.  
+ 
+ T1  =
+ 
+    264.  
+ 
+ 
+ k  =
+ 
+  - 0.4531843  
+ 
+ p1  =
+ 
+    10.073157  
+ 
+ d  =
+ 
+    0.0572338  
+ 
+ 
+ pressure of atmosphere = 9.38 Lb/in^2 
+
+ density of atmosphere = 0.0534 Lb/ft^3 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH14/EX14.1/14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ H1  =
+ 
+    26.  
+ 
+ H2  =
+ 
+  - 27.5  
+ 
+ 
+ H  =
+ 
+    53.5  
+ 
+ t  =
+ 
+  - 83.  
+ 
+ s  =
+ 
+    3.43  
+ 
+ v  =
+ 
+    1638.4187  
+ 
+ 
+Final temperature= -83 F 
+ 
+ Final specific volume = 3.43 ft^3/Lb 
+ 
+ Hd = 53.5 B.Th.U/lb 
+ 
+ velocity of the air = 1645 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH14/EX14.2/14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    0.9  
+ 
+ 
+ Hd  =
+ 
+    54.5  
+ 
+ s  =
+ 
+    6.9  
+ 
+ t  =
+ 
+  - 153.  
+ 
+ v  =
+ 
+    1568.7998  
+ 
+ 
+Hd= 54.5 B.Th.U 
+
+ Final temperature= -153 F 
+
+ specific volume= 6.90 ft^3/Lb 
+ 
+ final velocity= 1563 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH14/EX14.3/14_3.sce #
+ 
+ 
+ 
+ Hd  =
+ 
+    27.7  
+ 
+ g  =
+ 
+    32.2  
+ 
+ v1  =
+ 
+    300.  
+ 
+ j  =
+ 
+    1400.  
+ 
+ k  =
+ 
+    0.85  
+ 
+ 
+ v2  =
+ 
+    1487.5541  
+ 
+ 
+ velocity= 1488 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH14/EX14.4/14_4.sce #
+ 
+ 
+ 
+ g  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    96.  
+ 
+ p1  =
+ 
+    140.  
+ 
+ p2  =
+ 
+    130.  
+ 
+ T  =
+ 
+    288.  
+ 
+ r  =
+ 
+    6.  
+ 
+ g1  =
+ 
+    32.2  
+ 
+ 
+ v1  =
+ 
+    1.3714286  
+ 
+ v2  =
+ 
+    1.4459799  
+ 
+ k  =
+ 
+    3.5  
+ 
+ k1  =
+ 
+    0.9285714  
+ 
+ w  =
+ 
+    5.4726156  
+ 
+ 
+ weight of air flowiing per second= 5.47 Lb/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH14/EX14.5/14_5.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    120.  
+ 
+ T  =
+ 
+    288.  
+ 
+ R  =
+ 
+    96.  
+ 
+ g  =
+ 
+    1.404  
+ 
+ g1  =
+ 
+    32.2  
+ 
+ n  =
+ 
+    0.528  
+ 
+ 
+ v1  =
+ 
+    1.6  
+ 
+ k  =
+ 
+    3.4752475  
+ 
+ w  =
+ 
+    2.2045251  
+ 
+ 
+ weight of maximum discharge in pounds per second= 2.20 lb/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH14/EX14.6/14_6.sce #
+ 
+ 
+ p1  =
+ 
+    60.  
+ 
+ Hd2  =
+ 
+    12.  
+ 
+ Vs2  =
+ 
+    5.  
+ 
+ d  =
+ 
+    0.0833333  
+ 
+ Hd  =
+ 
+    23.2  
+ 
+ t3  =
+ 
+  - 84.  
+ 
+ k  =
+ 
+    0.85  
+ 
+ 
+ p2  =
+ 
+    31.68  
+ 
+ v2  =
+ 
+    1039.2305  
+ 
+ W  =
+ 
+    1.1336246  
+ 
+ net  =
+ 
+    19.72  
+ 
+ Vs3  =
+ 
+    8.7  
+ 
+ v3  =
+ 
+    1332.2162  
+ 
+ a3  =
+ 
+    0.0074031  
+ 
+ d3  =
+ 
+    1.1650464  
+ 
+ 
+
+ critical pressure at throat=  31.680000 lb/in^2 
+
+ velocity at the throat=  1039.230485 ft/sec 
+
+ discharge in pounds per second=  1.133625 lb/sec 
+
+ final velocity of air leaving the nozzle=  1332.216199 ft/sec 
+
+ required diameter at mouth=  1.165046 in 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH14/EX14.7/14_7.sce #
+ 
+ 
+ 
+ T  =
+ 
+    288.  
+ 
+ d  =
+ 
+    0.1666667  
+ 
+ f  =
+ 
+    0.005  
+ 
+ l  =
+ 
+    300.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ R  =
+ 
+    96.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ Q  =
+ 
+    80.  
+ 
+ 
+ a  =
+ 
+    0.0218166  
+ 
+ v1  =
+ 
+    61.115498  
+ 
+ p2  =
+ 
+    92.139145  
+ 
+ 
+ delivery pressure= 92.1 lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH15/EX15.1/15_1.sce #
+ 
+ 
+ 
+ kl  =
+ 
+    0.2  
+ 
+ kd  =
+ 
+    0.05  
+ 
+ A  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ wa  =
+ 
+    0.081  
+ 
+ ww  =
+ 
+    62.4  
+ 
+ v  =
+ 
+    20.  
+ 
+ 
+ La  =
+ 
+    0.8049689  
+ 
+ Da  =
+ 
+    0.2012422  
+ 
+ Lw  =
+ 
+    620.12422  
+ 
+ Dw  =
+ 
+    155.03106  
+ 
+ 
+
+ force on the plate for fluid air= 0.805 lb 
+
+ resistance of the plate for fluid air= 0.201 lb 
+
+ force on the plate for fluid water= 620 lb 
+
+ resistance of the plate for fluid air= 155 lb 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH15/EX15.2/15_2.sce #
+ 
+ 
+ 
+ kl  =
+ 
+    0.375  
+ 
+ kd  =
+ 
+    0.023  
+ 
+ cp  =
+ 
+    0.3  
+ 
+ c  =
+ 
+    4.  
+ 
+ l  =
+ 
+    20.  
+ 
+ ANG  =
+ 
+    4.  
+ 
+ v1  =
+ 
+    150.  
+ 
+ w  =
+ 
+    0.08  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ A  =
+ 
+    80.  
+ 
+ V  =
+ 
+    220.  
+ 
+ L  =
+ 
+    3607.4534  
+ 
+ D  =
+ 
+    221.25714  
+ 
+ hp  =
+ 
+    88.502857  
+ 
+ p  =
+ 
+    1.2  
+ 
+ 
+A = 80 ft^2 
+
+ V = 220 ft/sec 
+
+ L = 3600 Lb 
+
+ D = 221 Lb 
+
+ h.p = 88.5  
+
+ position of Cp = 1.2 ft from leading edge 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH15/EX15.3/15_3.sce #
+ 
+ 
+ 
+ v  =
+ 
+    120.  
+ 
+ r  =
+ 
+    5.  
+ 
+ lr  =
+ 
+    2.  
+ 
+ l  =
+ 
+    8.2  
+ 
+ p  =
+ 
+    1.9378882  
+ 
+ th  =
+ 
+    0.4363323  
+ 
+ cl  =
+ 
+    0.7  
+ 
+ cd1  =
+ 
+    0.04  
+ 
+ N  =
+ 
+    4.  
+ 
+ H  =
+ 
+    25.  
+ 
+ vf  =
+ 
+    15.  
+ 
+ s  =
+ 
+    2.  
+ 
+ vr  =
+ 
+    36.  
+ 
+ 
+ v1  =
+ 
+    62.831853  
+ 
+ A  =
+ 
+    16.4  
+ 
+ F  =
+ 
+    5345.8847  
+ 
+ hp  =
+ 
+    2441.6113  
+ 
+ W  =
+ 
+    58810.614  
+ 
+ eff  =
+ 
+    91.382645  
+ 
+ 
+
+ horse power developed= 2442  
+
+ efficiency of turbine= 91.4 per cent 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH15/EX15.4/15_4.sce #
+ 
+ 
+ 
+ 
+ 
+ H  =
+ 
+    40.  
+ 
+ r  =
+ 
+    10.  
+ 
+ sp  =
+ 
+    75.  
+ 
+ Q  =
+ 
+    6000.  
+ 
+ r2  =
+ 
+    5.  
+ 
+ c  =
+ 
+    0.95  
+ 
+ th  =
+ 
+    0.5235988  
+ 
+ ch  =
+ 
+    13.5  
+ 
+ cl  =
+ 
+    0.6  
+ 
+ Cd  =
+ 
+    0.025  
+ 
+ g  =
+ 
+    32.2  
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+ v  =
+ 
+    78.539816  
+ 
+ Vf  =
+ 
+    26.805043  
+ 
+ Vr  =
+ 
+    53.610086  
+ 
+ F  =
+ 
+    10464.434  
+ 
+ fo  =
+ 
+    82187.471  
+ 
+ tw  =
+ 
+    3082030.2  
+ 
+ tw4  =
+ 
+    22414.765  
+ 
+ eff  =
+ 
+    82.319182  
+ 
+ 
+Horsepower = 22320  
+
+ efficiency of turbine= 82.1 per cent 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH15/EX15.5/15_5.sce #
+ 
+ 
+ 
+ 
+ 
+ d  =
+ 
+    17.66  
+ 
+ S  =
+ 
+    3.8  
+ 
+ sp  =
+ 
+    8700.  
+ 
+ c  =
+ 
+    1.93  
+ 
+ p1  =
+ 
+    14.7  
+ 
+ T1  =
+ 
+    293.  
+ 
+ W  =
+ 
+    43.  
+ 
+ ga  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    96.  
+ 
+ cha  =
+ 
+    34.5  
+ 
+ th  =
+ 
+    23.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Vr  =
+ 
+    1050.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ cl  =
+ 
+    0.426  
+ 
+ Cd  =
+ 
+    0.23  
+ 
+ N  =
+ 
+    27.  
+ 
+ T2  =
+ 
+    323.  
+ 
+ p2  =
+ 
+    18.8  
+ 
+ 
+ area  =
+ 
+    1.3615846  
+ 
+ v  =
+ 
+    670.38969  
+ 
+ cha  =
+ 
+    0.0509306  
+ 
+ w  =
+ 
+    0.0752560  
+ 
+ Q  =
+ 
+    571.38322  
+ 
+ Vf  =
+ 
+    419.64578  
+ 
+ vs  =
+ 
+    1126.0596  
+ 
+ al  =
+ 
+  - 23.449069  
+ 
+ rel  =
+ 
+    0.9324551  
+ 
+ L  =
+ 
+    27.952568  
+ 
+ D  =
+ 
+    15.091762  
+ 
+ F  =
+ 
+    24.986113  
+ 
+ work  =
+ 
+    452261.68  
+ 
+ hp  =
+ 
+    822.29397  
+ 
+ rise  =
+ 
+    19.123116  
+ 
+ 
+ Relative Mach no= 0.932  
+
+ Theoretical horse power required for stage= 814  
+
+ Rise in total heat during compression= 7.45 C.H.U 
+
+ Final temperature= 323 K 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH16/EX16.1/16_1.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ p  =
+ 
+    1.9378882  
+ 
+ b  =
+ 
+    1.  
+ 
+ v  =
+ 
+    10.  
+ 
+ d  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    8.  
+ 
+ 
+ drag  =
+ 
+    12.919255  
+ 
+ kd  =
+ 
+    0.0083333  
+ 
+ 
+
+ drag= 12.92 lb 
+
+ kd= 0.00833  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH18/EX18.1/18_1.sce #
+ 
+ 
+ 
+ f  =
+ 
+    0.0025  
+ 
+ l  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    540.  
+ 
+ d  =
+ 
+    0.125  
+ 
+ w1  =
+ 
+    0.208  
+ 
+ 
+ k  =
+ 
+    0.2  
+ 
+ v1  =
+ 
+    630.90899  
+ 
+ W  =
+ 
+    1.610423  
+ 
+ 
+
+ maximum discharge= 1.610 lb/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH18/EX18.2/18_2.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    200.  
+ 
+ p2  =
+ 
+    120.  
+ 
+ f  =
+ 
+    0.0025  
+ 
+ l  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    600.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+ po  =
+ 
+    0.77  
+ 
+ mvi  =
+ 
+    0.0000004  
+ 
+ f1  =
+ 
+    0.00185  
+ 
+ 
+ k  =
+ 
+    0.5  
+ 
+ k1  =
+ 
+    1.6666667  
+ 
+ v1  =
+ 
+    477.6505  
+ 
+ T2  =
+ 
+    570.78  
+ 
+ r  =
+ 
+    1.5855  
+ 
+ v2  =
+ 
+    757.31487  
+ 
+ mv  =
+ 
+    617.48268  
+ 
+ mt  =
+ 
+    585.39  
+ 
+ mp  =
+ 
+    160.  
+ 
+ Re  =
+ 
+    17919770.  
+ 
+ k2  =
+ 
+    0.37  
+ 
+ nv1  =
+ 
+    524.1908  
+ 
+ T2  =
+ 
+    566.4  
+ 
+ r  =
+ 
+    1.5733333  
+ 
+ nv2  =
+ 
+    824.72687  
+ 
+ W  =
+ 
+    97.778393  
+ 
+ 
+
+ Discharge= 97.8 lb/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH18/EX18.3/18_3.sce #
+ 
+ 
+ 
+ 
+ 
+ f  =
+ 
+    0.0025  
+ 
+ l  =
+ 
+    100.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ p1  =
+ 
+    200.  
+ 
+ p2  =
+ 
+    120.  
+ 
+ T1  =
+ 
+    600.  
+ 
+ w1  =
+ 
+    0.95  
+ 
+ g  =
+ 
+    32.2  
+ 
+ nT1  =
+ 
+    580.  
+ 
+ nw1  =
+ 
+    0.87  
+ 
+ 
+ k  =
+ 
+    0.5  
+ 
+ v1  =
+ 
+    477.6505  
+ 
+ pd1  =
+ 
+    23.371991  
+ 
+ np1  =
+ 
+    176.62801  
+ 
+ nv1  =
+ 
+    445.539  
+ 
+ nT2  =
+ 
+    562.6  
+ 
+ W  =
+ 
+    76.108799  
+ 
+ r  =
+ 
+    1.4277431  
+ 
+ v2  =
+ 
+    636.11522  
+ 
+ 
+W = 76.2 Lb/sec 
+
+ v2 = 638 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH18/EX18.4/18_4.sce #
+ 
+ 
+ 
+ f  =
+ 
+    0.002  
+ 
+ T  =
+ 
+    520.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    50.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ R  =
+ 
+    53.3  
+ 
+ l  =
+ 
+    60.  
+ 
+ d  =
+ 
+    0.25  
+ 
+ n  =
+ 
+    0.0000004  
+ 
+ w  =
+ 
+    0.4  
+ 
+ w1  =
+ 
+    0.53  
+ 
+ f1  =
+ 
+    0.0022  
+ 
+ 
+ r  =
+ 
+    2.  
+ 
+ v1  =
+ 
+    449.93843  
+ 
+ v2  =
+ 
+    899.87685  
+ 
+ mv  =
+ 
+    674.90764  
+ 
+ mp  =
+ 
+    75.  
+ 
+ Re  =
+ 
+    5664828.3  
+ 
+ nv1  =
+ 
+    437.41701  
+ 
+ nv2  =
+ 
+    874.83402  
+ 
+ W  =
+ 
+    11.379978  
+ 
+ 
+
+ velocity at outlet= 875 ft/sec 
+
+ flow per second= 11.38 lb/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH19/EX19.1/19_1.sce #
+ 
+ 
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ J  =
+ 
+    778.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ w  =
+ 
+    1.7  
+ 
+ A  =
+ 
+    0.00853  
+ 
+ p0  =
+ 
+    16.2  
+ 
+ v0  =
+ 
+    1672.  
+ 
+ T0  =
+ 
+    367.  
+ 
+ T1  =
+ 
+    558.  
+ 
+ R  =
+ 
+    96.  
+ 
+ 
+ b  =
+ 
+    12024.768  
+ 
+ c  =
+ 
+    23.265826  
+ 
+ k  =
+ 
+    88.065061  
+ 
+ T  =
+ 
+    599.48548  
+ 
+ v1  =
+ 
+    706.29548  
+ 
+ p1  =
+ 
+    57.707425  
+ 
+ 
+Temperature = 558 R 
+
+ v1 = 714 ft/sec 
+
+ p1 = 57.5 lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH19/EX19.2/19_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    288.  
+ 
+ v1  =
+ 
+    600.  
+ 
+ J  =
+ 
+    1400.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ ga  =
+ 
+    1.4  
+ 
+ g  =
+ 
+    32.  
+ 
+ 
+ T1  =
+ 
+    271.25893  
+ 
+ T2  =
+ 
+    281.25893  
+ 
+ v2  =
+ 
+    380.73613  
+ 
+ ra  =
+ 
+    1.4395325  
+ 
+ 
+Exit velocity = 388 ft/sec 
+
+ Ratio of areas = 1.417  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH20/EX20.1/20_1.sce #
+ 
+ 
+ 
+ 
+ p  =
+ 
+    800.  
+ 
+ d  =
+ 
+    6.  
+ 
+ l  =
+ 
+    18.  
+ 
+ 
+ loa  =
+ 
+    22619.467  
+ 
+ capacity  =
+ 
+    0.2056315  
+ 
+ 
+
+ capacity= 0.206 hp-hours 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH20/EX20.2/20_2.sce #
+ 
+ 
+ 
+ p  =
+ 
+    95.  
+ 
+ w  =
+ 
+    80.  
+ 
+ 
+ heat  =
+ 
+    3473.6587  
+ 
+ wp  =
+ 
+    13005378.  
+ 
+ wa  =
+ 
+    1702400.  
+ 
+ hp  =
+ 
+    445.69024  
+ 
+ 
+
+ horse power delivered= 446  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH20/EX20.3/20_3.sce #
+ 
+ 
+ 
+ p  =
+ 
+    24.  
+ 
+ L  =
+ 
+    5.  
+ 
+ l  =
+ 
+    2.  
+ 
+ 
+ P  =
+ 
+    150.  
+ 
+ 
+
+ pressure= 150 lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH20/EX20.4/20_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    50.  
+ 
+ d1  =
+ 
+    3.  
+ 
+ p  =
+ 
+    3.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ l1  =
+ 
+    36.  
+ 
+ d  =
+ 
+    8.  
+ 
+ i  =
+ 
+    2.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ wp  =
+ 
+    51.546392  
+ 
+ ip  =
+ 
+    1.0245599  
+ 
+ ip1  =
+ 
+    1.0562474  
+ 
+ p1  =
+ 
+    16.938675  
+ 
+ phead  =
+ 
+    39.08925  
+ 
+ headl  =
+ 
+    10.91075  
+ 
+ v  =
+ 
+    3.826041  
+ 
+ V  =
+ 
+    1.1956378  
+ 
+ 
+v = 3.8 ft/sec 
+
+ V = 1.2 in/min 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH20/EX20.6/20_6.sce #
+ 
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ d1  =
+ 
+    0.75  
+ 
+ g  =
+ 
+    32.2  
+ 
+ p  =
+ 
+    800.  
+ 
+ v1  =
+ 
+    2.  
+ 
+ 
+ v  =
+ 
+    128.  
+ 
+ vhead  =
+ 
+    254.40994  
+ 
+ p1  =
+ 
+    910.24431  
+ 
+ lo  =
+ 
+    25736.551  
+ 
+ V  =
+ 
+    5.7468637  
+ 
+ 
+
+ V= 5.75 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH21/EX21.1/21_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.5  
+ 
+ toh  =
+ 
+    40.  
+ 
+ sp  =
+ 
+    60.  
+ 
+ 
+ v  =
+ 
+    1.5  
+ 
+ thv  =
+ 
+    1.5  
+ 
+ li  =
+ 
+    550.  
+ 
+ av  =
+ 
+    1.4690171  
+ 
+ slip  =
+ 
+    2.0655271  
+ 
+ cds  =
+ 
+    97.934473  
+ 
+ thp  =
+ 
+    6.6666667  
+ 
+ 
+slip = 2 per cent 
+
+ coefficient of discharge = 98 per cent 
+
+ Total pressure head = 40 ft of water 
+
+ Theoretical horse-power = 6.67  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH21/EX21.2/21_2.sce #
+ 
+ 
+ 
+ l  =
+ 
+    30.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    5.  
+ 
+ d1  =
+ 
+    3.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ rp  =
+ 
+    30.  
+ 
+ Hs  =
+ 
+    10.  
+ 
+ 
+ Ha  =
+ 
+    12.771227  
+ 
+ phead  =
+ 
+    11.228773  
+ 
+ 
+
+ pressure head in cylinder= 11.23  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH21/EX21.3/21_3.sce #
+ 
+ 
+ 
+ Hd  =
+ 
+    100.  
+ 
+ k  =
+ 
+    8.  
+ 
+ ld  =
+ 
+    100.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    6.  
+ 
+ d1  =
+ 
+    3.  
+ 
+ r  =
+ 
+    1.  
+ 
+ 
+ Ha  =
+ 
+    126.  
+ 
+ w  =
+ 
+    3.1848077  
+ 
+ n  =
+ 
+    30.412673  
+ 
+ 
+
+ maximum speed= 30.4 r p m 
+ 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH21/EX21.4/21_4.sce #
+ 
+ 
+ 
+ 
+ 
+ Ls  =
+ 
+    20.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d1  =
+ 
+    6.  
+ 
+ d2  =
+ 
+    3.  
+ 
+ s1  =
+ 
+    30.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ f  =
+ 
+    0.01  
+ 
+ ds  =
+ 
+    0.25  
+ 
+ Hs  =
+ 
+    15.  
+ 
+ ld  =
+ 
+    120.  
+ 
+ Hd  =
+ 
+    100.  
+ 
+ 
+ Ha  =
+ 
+    12.260378  
+ 
+ hfs  =
+ 
+    1.9616605  
+ 
+ pb  =
+ 
+    27.260378  
+ 
+ pe  =
+ 
+    2.7396219  
+ 
+ pm  =
+ 
+    16.961661  
+ 
+ nHa  =
+ 
+    73.562269  
+ 
+ hfd  =
+ 
+    11.769963  
+ 
+ npb  =
+ 
+    173.56227  
+ 
+ npe  =
+ 
+    26.437731  
+ 
+ npm  =
+ 
+    111.76996  
+ 
+ W  =
+ 
+    12.64491  
+ 
+ w1  =
+ 
+    206.21034  
+ 
+ w2  =
+ 
+    1363.7111  
+ 
+ hp  =
+ 
+    1.4272013  
+ 
+ 
+Pressure at middle of stroke = 16.96 ft of water 
+
+ Horse power required= 1.38  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH21/EX21.5/21_5.sce #
+ 
+ 
+ 
+ d1  =
+ 
+    9.  
+ 
+ d2  =
+ 
+    6.  
+ 
+ Ls  =
+ 
+    40.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ s1  =
+ 
+    20.  
+ 
+ r  =
+ 
+    0.625  
+ 
+ Hs  =
+ 
+    10.  
+ 
+ k  =
+ 
+    0.125  
+ 
+ f  =
+ 
+    0.01  
+ 
+ ls1  =
+ 
+    35.  
+ 
+ ds  =
+ 
+    0.5  
+ 
+ lv  =
+ 
+    0.5  
+ 
+ 
+ Ha  =
+ 
+    7.6627363  
+ 
+ tph  =
+ 
+    17.662736  
+ 
+ nHa  =
+ 
+    8.6205784  
+ 
+ ntph  =
+ 
+    18.620578  
+ 
+ vs  =
+ 
+    0.9375  
+ 
+ hf  =
+ 
+    0.0382133  
+ 
+ nHa1  =
+ 
+    0.0960405  
+ 
+ tpc  =
+ 
+    10.134254  
+ 
+ nHa2  =
+ 
+    1.080456  
+ 
+ tpc1  =
+ 
+    11.118669  
+ 
+ 
+Total pressure head in cylinder= 17.66 ft of water below atm 
+
+ Total pressure head in cylinder = 18.62 ft of water below atm 
+
+ Total pressure head in cylinder = 10.134 ft of water below atm 
+
+ Total pressure head in cylinder = 11.119 ft of water below atm 
+ 
+ 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.1/22_1.sce #
+ 
+ 
+ 
+ 
+ 
+ al  =
+ 
+    0.4363323  
+ 
+ th  =
+ 
+    1.8325957  
+ 
+ be  =
+ 
+    1.5707963  
+ 
+ H  =
+ 
+    15.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ kf  =
+ 
+    0.4226183  
+ 
+ kw  =
+ 
+    0.9063078  
+ 
+ k1  =
+ 
+    1.019548  
+ 
+ w  =
+ 
+    0.9240243  
+ 
+ er  =
+ 
+    0.0446515  
+ 
+ eff  =
+ 
+    95.390455  
+ 
+ V  =
+ 
+    22.329774  
+ 
+ Vf  =
+ 
+    9.4369703  
+ 
+ 
+velocity of flow = 9.24 ft/sec 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.2/22_2.sce #
+ 
+ 
+ 
+ 
+ H  =
+ 
+    90.  
+ 
+ dis  =
+ 
+    50.  
+ 
+ v  =
+ 
+    50.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ Vf  =
+ 
+    10.20224  
+ 
+ Vw  =
+ 
+    56.919143  
+ 
+ a  =
+ 
+    0.1773576  
+ 
+ t  =
+ 
+    0.9748526  
+ 
+ work  =
+ 
+    88.383762  
+ 
+ hp  =
+ 
+    80.348875  
+ 
+ 
+
+ horse power required= 80.3  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.3/22_3.sce #
+ 
+ 
+ 
+ l1  =
+ 
+    30.  
+ 
+ n  =
+ 
+    375.  
+ 
+ l2  =
+ 
+    20.  
+ 
+ va  =
+ 
+    10.  
+ 
+ H  =
+ 
+    50.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    49.087385  
+ 
+ v1  =
+ 
+    32.724923  
+ 
+ vf  =
+ 
+    6.6666667  
+ 
+ thw  =
+ 
+    48.447205  
+ 
+ the  =
+ 
+    96.89441  
+ 
+ aw  =
+ 
+    41.971917  
+ 
+ ae  =
+ 
+    83.943834  
+ 
+ Vw  =
+ 
+    31.780059  
+ 
+ alp  =
+ 
+    0.2067768  
+ 
+ k  =
+ 
+    0.3676772  
+ 
+ 
+
+ most suitable angle= 158.9  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.4/22_4.sce #
+ 
+ 
+ 
+ 
+ p  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    120.  
+ 
+ d  =
+ 
+    5.  
+ 
+ d1  =
+ 
+    6.  
+ 
+ n  =
+ 
+    200.  
+ 
+ b  =
+ 
+    9.  
+ 
+ 
+ V1  =
+ 
+    27.799281  
+ 
+ v  =
+ 
+    52.359878  
+ 
+ v1  =
+ 
+    43.633231  
+ 
+ Vf  =
+ 
+    16.976527  
+ 
+ Vf1  =
+ 
+    20.371833  
+ 
+ be  =
+ 
+    27.83248  
+ 
+ Vw1  =
+ 
+    24.583361  
+ 
+ si  =
+ 
+    16.627444  
+ 
+ Vw  =
+ 
+    45.931133  
+ 
+ al  =
+ 
+    20.28473  
+ 
+ th  =
+ 
+    130.74089  
+ 
+ 
+Angle= 131.5 degrees 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.5/22_5.sce #
+ 
+ 
+ 
+ 
+ 
+ th1  =
+ 
+    0.4188790  
+ 
+ th2  =
+ 
+    0.8377580  
+ 
+ th3  =
+ 
+    0.4014257  
+ 
+ H  =
+ 
+    280.  
+ 
+ d  =
+ 
+    4.5  
+ 
+ b  =
+ 
+    4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ V  =
+ 
+    134.28328  
+ 
+ Vf  =
+ 
+    54.617932  
+ 
+ Vw  =
+ 
+    122.67388  
+ 
+ v  =
+ 
+    73.495676  
+ 
+ v1  =
+ 
+    73.495676  
+ 
+ n  =
+ 
+    311.92534  
+ 
+ Vr  =
+ 
+    73.495676  
+ 
+ Vr1  =
+ 
+    73.495676  
+ 
+ Vw1  =
+ 
+    5.8425496  
+ 
+ w  =
+ 
+  - 9.525722  
+ 
+ Q  =
+ 
+    218.7738  
+ 
+ hp  =
+ 
+    6577.5337  
+ 
+ 
+Horse-power= 6550  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.6/22_6.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    81.  
+ 
+ r1  =
+ 
+    1.  
+ 
+ r  =
+ 
+    0.75  
+ 
+ p  =
+ 
+    0.95  
+ 
+ p1  =
+ 
+    0.06  
+ 
+ th  =
+ 
+    0.3490659  
+ 
+ d  =
+ 
+    1.5  
+ 
+ b  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    10.  
+ 
+ 
+ v  =
+ 
+    28.88986  
+ 
+ v1  =
+ 
+    38.519813  
+ 
+ V  =
+ 
+    68.613417  
+ 
+ Vw  =
+ 
+    64.475522  
+ 
+ Vf  =
+ 
+    23.467171  
+ 
+ th1  =
+ 
+    0.5829938  
+ 
+ Vr  =
+ 
+    42.626839  
+ 
+ Vr1  =
+ 
+    46.402752  
+ 
+ Vw1  =
+ 
+    5.084511  
+ 
+ w  =
+ 
+    63.929913  
+ 
+ e  =
+ 
+    0.8745243  
+ 
+ rad  =
+ 
+    0.2650719  
+ 
+ Q  =
+ 
+    6.2204871  
+ 
+ hp  =
+ 
+    45.118059  
+ 
+ 
+
+ horse power required= 45.1  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.8/22_8.sce #
+ 
+ 
+ 
+ 
+ c  =
+ 
+    0.98  
+ 
+ g  =
+ 
+    32.2  
+ 
+ H  =
+ 
+    130.  
+ 
+ hp  =
+ 
+    100.  
+ 
+ e  =
+ 
+    0.8  
+ 
+ n  =
+ 
+    250.  
+ 
+ R  =
+ 
+    18.96  
+ 
+ 
+ V  =
+ 
+    89.668661  
+ 
+ v  =
+ 
+    41.247584  
+ 
+ W  =
+ 
+    528.84615  
+ 
+ D  =
+ 
+    3.1510833  
+ 
+ d  =
+ 
+    0.3469022  
+ 
+ dep  =
+ 
+    0.4162827  
+ 
+ wid  =
+ 
+    1.7345112  
+ 
+ ga  =
+ 
+    0.1981690  
+ 
+ k  =
+ 
+    11.354246  
+ 
+ num  =
+ 
+    31.706202  
+ 
+ 
+
+ number of buckets= 33  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.9/22_9.sce #
+ 
+ 
+ 
+ n  =
+ 
+    150.  
+ 
+ H  =
+ 
+    40.  
+ 
+ hp  =
+ 
+    20000.  
+ 
+ ns  =
+ 
+    100.  
+ 
+ 
+ p  =
+ 
+    4497.4616  
+ 
+ num  =
+ 
+    4.446953  
+ 
+ 
+
+ number of units should be used= 5  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH22/EX22.10/22_10.sce #
+ 
+ 
+ 
+ n  =
+ 
+    900.  
+ 
+ H1  =
+ 
+    64.  
+ 
+ p  =
+ 
+    38.4  
+ 
+ p1  =
+ 
+    500.  
+ 
+ H  =
+ 
+    81.  
+ 
+ D  =
+ 
+    1.  
+ 
+ 
+ k  =
+ 
+    30.809394  
+ 
+ n1  =
+ 
+    334.81463  
+ 
+ c  =
+ 
+    112.5  
+ 
+ D1  =
+ 
+    3.0240614  
+ 
+ 
+
+ diameter of turbine= 3.02 ft 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH23/EX23.1/23_1.sce #
+ 
+ 
+ 
+ h  =
+ 
+    28.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ v1  =
+ 
+    45.4  
+ 
+ A  =
+ 
+    45.  
+ 
+ Q  =
+ 
+    1700.  
+ 
+ w  =
+ 
+    6.24  
+ 
+ c  =
+ 
+    0.65  
+ 
+ a  =
+ 
+    60.  
+ 
+ r1  =
+ 
+    10.  
+ 
+ r2  =
+ 
+    5.  
+ 
+ 
+ V  =
+ 
+    38.414464  
+ 
+ e  =
+ 
+    51.696753  
+ 
+ a1  =
+ 
+    17.104851  
+ 
+ w  =
+ 
+    561.88048  
+ 
+ 
+Efficiency = 51.7 per cent 
+
+ Inlet angle = 17.1 degrees 
+
+ Least speed of starting = 560 r.p.m 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH23/EX23.2/23_2.sce #
+ 
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    50.  
+ 
+ vd  =
+ 
+    5.  
+ 
+ A  =
+ 
+    60.  
+ 
+ 
+ R  =
+ 
+    50.388199  
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+    43.270329  
+  - 37.496826  
+ 
+ v1  =
+ 
+    43.270329  
+ 
+ V1  =
+ 
+    38.80737  
+ 
+ H1  =
+ 
+    22.10146  
+ 
+ H  =
+ 
+    23.385279  
+ 
+ b  =
+ 
+    15.  
+ 
+ 
+velocity of the wheel at exit = 43.23 ft/sec 
+
+ Pressure head at outlet = 22.1 ft of water 
+
+ velocity head at exit from the vessel = 23.3 ft of water 
+
+ inclination of guide vanes = 15 degrees 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH23/EX23.3/23_3.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    400.  
+ 
+ h1  =
+ 
+    20.  
+ 
+ h2  =
+ 
+    60.  
+ 
+ r  =
+ 
+    4.  
+ 
+ 
+ n1  =
+ 
+    173.20508  
+ 
+ p  =
+ 
+    1662.7688  
+ 
+ ratio  =
+ 
+    27.712813  
+ 
+ 
+Horse power delivered = 173 r.p.m 
+
+ ratio of quantities discharged = 27.7  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH24/EX24.3/24_3.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ p0  =
+ 
+    8.56  
+ 
+ A  =
+ 
+    0.0002082  
+ 
+ W  =
+ 
+    0.0212  
+ 
+ v0  =
+ 
+    1057.6  
+ 
+ T1  =
+ 
+    213.7  
+ 
+ T2  =
+ 
+    206.  
+ 
+ 
+ b  =
+ 
+    12024.768  
+ 
+ k1  =
+ 
+    109.6575  
+ 
+ c  =
+ 
+    45.536875  
+ 
+ k  =
+ 
+    31.785133  
+ 
+ v1  =
+ 
+    304.28722  
+ 
+ p1  =
+ 
+    25.102918  
+ 
+ 
+
+ velocity= 304 ft/sec 
+
+ pressure= 25.10 lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH24/EX24.4/24_4.sce #
+ 
+ 
+ 
+ 
+ 
+ mb  =
+ 
+    0.0246  
+ 
+ mt  =
+ 
+    0.0104  
+ 
+ dx  =
+ 
+    0.0104  
+ 
+ A1  =
+ 
+    0.0002082  
+ 
+ A2  =
+ 
+    0.000302  
+ 
+ r1  =
+ 
+    0.0842  
+ 
+ r2  =
+ 
+    0.091  
+ 
+ w  =
+ 
+    6280.  
+ 
+ cf  =
+ 
+    0.01  
+ 
+ W  =
+ 
+    0.0212  
+ 
+ T1  =
+ 
+    132.  
+ 
+ p1  =
+ 
+    11.5  
+ 
+ Vr1  =
+ 
+    422.  
+ 
+ g1  =
+ 
+    1.4  
+ 
+ dT  =
+ 
+    8.  
+ 
+ T2  =
+ 
+    146.7  
+ 
+ ndv  =
+ 
+  - 313.  
+ 
+ R  =
+ 
+    53.3  
+ 
+ 
+ A  =
+ 
+    0.0002551  
+ 
+ mp  =
+ 
+    0.07  
+ 
+ r  =
+ 
+    0.0876  
+ 
+ dr  =
+ 
+    0.0068  
+ 
+ dA  =
+ 
+    0.0000938  
+ 
+ k  =
+ 
+    0.3676989  
+ 
+ Vr2  =
+ 
+    359.03946  
+ 
+ dv  =
+ 
+  - 62.960542  
+ 
+ nVr2  =
+ 
+    109.  
+ 
+ p2  =
+ 
+    17.485065  
+ 
+ 
+Temperature= 146.7 R 
+
+ pressure= 17.4 lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH24/EX24.5/24_5.sce #
+ 
+ 
+ 
+ in  =
+ 
+    630.  
+ 
+ T0  =
+ 
+    520.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ J  =
+ 
+    778.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ g1  =
+ 
+    1.4  
+ 
+ T1  =
+ 
+    450.  
+ 
+ ar  =
+ 
+    0.262  
+ 
+ nT1  =
+ 
+    498.  
+ 
+ R  =
+ 
+    53.3  
+ 
+ nT1  =
+ 
+    489.  
+ 
+ 
+ W  =
+ 
+    10.5  
+ 
+ v1  =
+ 
+    917.4605  
+ 
+ p1  =
+ 
+    7.2757516  
+ 
+ nv1  =
+ 
+    610.54714  
+ 
+ np1  =
+ 
+    11.88071  
+ 
+ 
+
+ velocity= 611 ft/sec 
+
+ pressure= 11.9 lb/in^2 
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH24/EX24.6/24_6.sce #
+ 
+ 
+ 
+ dv  =
+ 
+    360.  
+ 
+ v1  =
+ 
+    1564.  
+ 
+ H1  =
+ 
+    1188.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ J  =
+ 
+    778.  
+ 
+ cf  =
+ 
+    0.005  
+ 
+ p  =
+ 
+    0.12  
+ 
+ A  =
+ 
+    0.000875  
+ 
+ p1  =
+ 
+    67.  
+ 
+ dx  =
+ 
+    0.0234  
+ 
+ A1  =
+ 
+    0.00085  
+ 
+ W  =
+ 
+    0.203  
+ 
+ g  =
+ 
+    32.2  
+ 
+ q2  =
+ 
+    0.989  
+ 
+ Vs2  =
+ 
+    8.902  
+ 
+ A2  =
+ 
+    0.0009  
+ 
+ 
+ v2  =
+ 
+    1924.  
+ 
+ H2  =
+ 
+    1162.9381  
+ 
+ p2  =
+ 
+    48.309039  
+ 
+ W  =
+ 
+    0.1966816  
+ 
+ nv2  =
+ 
+    1866.  
+ 
+ np2  =
+ 
+    51.2  
+ 
+ nT2  =
+ 
+    742.2  
+ 
+ nVs2  =
+ 
+    8.331  
+ 
+ nq2  =
+ 
+    0.99  
+ 
+ nH2  =
+ 
+    1167.5  
+ 
+ vs2  =
+ 
+    1489.8384  
+ 
+ Ma2  =
+ 
+    1.2914153  
+ 
+ 
+velocity = 8.33 ft/sec 
+
+ Ma2 = 1.25  
+ 
+grepthis#Hydraulics_And_Fluid_Mechanics_E._H._Lewitt_1466/CH24/EX24.7/24_7.sce #
+ 
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ J  =
+ 
+    778.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ T1  =
+ 
+    2175.  
+ 
+ Q  =
+ 
+    300.  
+ 
+ v1  =
+ 
+    526.  
+ 
+ A  =
+ 
+    0.342  
+ 
+ p1  =
+ 
+    98.8  
+ 
+ W1  =
+ 
+    22.06  
+ 
+ r  =
+ 
+    1.65  
+ 
+ 
+ b  =
+ 
+    12024.768  
+ 
+ a  =
+ 
+    3448.0088  
+ 
+ c  =
+ 
+    2336.0828  
+ 
+ d  =
+ 
+    22.934782  
+ 
+ v2  =
+ 
+    867.9  
+ 
+ T2  =
+ 
+    3385.3673  
+ 
+ p2  =
+ 
+    93.200776  
+ 
+ np2  =
+ 
+    94.725888  
+ 
+ 
+Temperature = 3400 R 
+
+ pressure = 95.6 Lb/in^2 
+ 

@@ -1,0 +1,18 @@
+ERROR: Fundamentals_Of_Electronic_Devices_J._B._Gupta_1787/CH7/EX7.9/Exa7_9.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fundamentals_Of_Electronic_Devices_J._B._Gupta_1787/Exa7_9');xend();exit();
+                                                                                                             !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      14 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fundamentals_Of_Electronic_Devices_J._B._Gupta_1787/CH7/EX7.9/Exa7_9.sce',-1)
+ 

@@ -1,0 +1,2749 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 67
+
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.3.1/1_3_1.sci #
+ 
+ 
+ 
+ a  =
+ 
+    1.    1.    1.  
+    2.    2.    5.  
+    4.    6.    8.  
+ 
+ 
+ x=[u;v;w]   
+ 
+ 
+ R2=R2-R1,R3=R3-4*R1   
+ 
+ 
+ 
+ 
+    1.    1.    1.  
+    0.    0.    3.  
+    0.    2.    4.  
+ 
+ 
+ R2<->R3   
+ 
+ 
+ 
+ 
+ 
+    1.    1.    1.  
+    0.    2.    4.  
+    0.    0.    3.  
+ 
+ 
+ The system is now triangular and the equations can be solved by Back substitut 
+      ion                                                                       
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.3.2/1_3_2.sci #
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    1.    1.    1.  
+    2.    2.    5.  
+    4.    4.    8.  
+ 
+ 
+ x=[u;v;w]   
+ 
+ 
+ R2=R2-2*R1,R3=R3-4*R1   
+ 
+ 
+ 
+ 
+    1.    1.    1.  
+    0.    0.    3.  
+    0.    0.    4.  
+ 
+ 
+ No exchange of equations can avoid zero in the second pivot positon ,therefore 
+       the equations are unsolvable                                             
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.4.1/1_4_1.sci #
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    2.    3.  
+    4.    0.  
+ 
+ 
+ 
+ B   
+ 
+    1.    2.    0.  
+    5.  - 1.    0.  
+ 
+ 
+ AB=   
+ 
+    17.    1.    0.  
+    4.     8.    0.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.4.2/1_4_2.sci #
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    2.    3.  
+    7.    8.  
+ 
+ 
+ 
+ P(Row exchange matrix)=   
+ 
+    0.    1.  
+    1.    0.  
+ 
+ 
+ PA=   
+ 
+    7.    8.  
+    2.    3.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.4.3/1_4_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.    2.  
+    3.    4.  
+ 
+ 
+ 
+ I=   
+ 
+    1.    0.  
+    0.    1.  
+ 
+ 
+ IA=   
+ 
+    1.    2.  
+    3.    4.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.4.4/1_4_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E=   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ 
+ 
+ F=   
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    1.    0.    1.  
+ 
+ 
+ EF=   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+    1.    0.    1.  
+ 
+ 
+ FE=   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+    1.    0.    1.  
+ 
+ 
+ Here,EF=FE,so this shows that these two matrices commute   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.4.5/1_4_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ 
+ 
+ F=   
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    1.    0.    1.  
+ 
+ 
+ 
+ 
+ G   
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    1.    1.  
+ 
+ 
+ GE=   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+  - 2.    1.    1.  
+ 
+ 
+ EG=   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+    0.    1.    1.  
+ 
+ 
+ Here EG is not equal to GE,Therefore these two matrices do not commute and sho 
+      ws that most matrices do not commute.                                     
+ 
+ 
+ GFE=   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+  - 1.    1.    1.  
+ 
+ 
+ EFG=   
+ 
+    1.    0.    0.  
+  - 2.    1.    0.  
+    1.    1.    1.  
+ 
+ 
+ The product GFE is the true order of elimation.It is the matrix that takes the 
+       original A to the upper triangular U.                                    
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.5.1/1_5_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.    2.  
+    3.    8.  
+ 
+ 
+ 
+ L=   
+ 
+    0.3333333    1.  
+    1.           0.  
+ 
+ 
+ U=   
+ 
+    3.    8.         
+    0.  - 0.6666667  
+ 
+ 
+ LU=   
+ 
+ 
+    1.    2.  
+    3.    8.  
+ 
+ 
+ This shows that LU=A   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.5.2/1_5_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    0.    2.  
+    3.    4.  
+ 
+ 
+ Here this cannot be factored into A=LU,(Needs a row exchange)   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.5.3/1_5_3.sci #
+ 
+ 
+ 
+ 
+ 
+ Given Matrix:   
+ 
+ 
+ 
+ A=   
+ 
+    1.    1.    1.  
+    1.    2.    2.  
+    1.    2.    3.  
+ 
+ 
+ 
+ L=   
+ 
+    1.    0.    0.  
+    1.    1.    0.  
+    1.    1.    1.  
+ 
+ 
+ U=   
+ 
+    1.    1.    1.  
+    0.    1.    1.  
+    0.    0.    1.  
+ 
+ 
+ LU=   
+ 
+    1.    1.    1.  
+    1.    2.    2.  
+    1.    2.    3.  
+ 
+ 
+ Here LU=A,from A to U there are subtraction of rows.Frow U to A there are addi 
+      tions of rows                                                             
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.5.4/1_5_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ L=   
+ 
+    1.           0.           0.  
+    0.2113249    1.           0.  
+    0.7560439    0.0002211    1.  
+ 
+ 
+ 
+ U=   
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+ 
+ E=   
+ 
+    1.           0.    0.  
+  - 0.2113249    1.    0.  
+    0.           0.    1.  
+ 
+ 
+ 
+ F=   
+ 
+    1.           0.    0.  
+    0.           1.    0.  
+  - 0.7560439    0.    1.  
+ 
+ 
+ 
+ G=   
+ 
+    1.    0.           0.  
+    0.    1.           0.  
+    0.  - 0.0002211    1.  
+ 
+ 
+ A=inv(E)*inv(F)*inv(G)*U   
+ 
+ 
+ 
+ A=   
+ 
+    1.           0.           0.  
+    0.2113249    1.           0.  
+    0.7560439    0.0002211    1.  
+ 
+ 
+ When U is identity matrix then L is same as A   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.5.5/1_5_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.  - 1.    0.    0.  
+  - 1.    2.  - 1.    0.  
+    0.  - 1.    2.  - 1.  
+    0.    0.  - 1.    2.  
+ 
+ 
+ 
+ U=   
+ 
+    1.  - 1.    0.    0.  
+    0.    1.  - 1.    0.  
+    0.    0.    1.  - 1.  
+    0.    0.    0.    1.  
+ 
+ 
+ L=   
+ 
+    1.    0.    0.    0.  
+  - 1.    1.    0.    0.  
+    0.  - 1.    1.    0.  
+    0.    0.  - 1.    1.  
+ 
+ 
+ This shows how a matrix A with 3 diagnols has factors L and U with two diagnol 
+      s.                                                                        
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.5.6/1_5_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    1.  - 1.    0.    0.  
+  - 1.    2.  - 1.    0.  
+    0.  - 1.    2.  - 1.  
+    0.    0.  - 1.    2.  
+ 
+ b  =
+ 
+    1.  
+    1.  
+    1.  
+    1.  
+ 
+ 
+ b=   
+ 
+    1.  
+    1.  
+    1.  
+    1.  
+ 
+ 
+ Given Equation ,ax=b   
+ 
+ 
+ 
+ U=   
+ 
+    1.  - 1.    0.    0.  
+    0.    1.  - 1.    0.  
+    0.    0.    1.  - 1.  
+    0.    0.    0.    1.  
+ 
+ 
+ L=   
+ 
+    1.    0.    0.    0.  
+  - 1.    1.    0.    0.  
+    0.  - 1.    1.    0.  
+    0.    0.  - 1.    1.  
+ 
+ 
+ Augmented Matrix of L and b=   
+ 
+ 
+ 
+    1.    0.    0.    0.    1.  
+  - 1.    1.    0.    0.    1.  
+    0.  - 1.    1.    0.    1.  
+    0.    0.  - 1.    1.    1.  
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    1.  
+    2.  
+    0.  
+    0.  
+ c  =
+ 
+    1.  
+    2.  
+    3.  
+    0.  
+ c  =
+ 
+    1.  
+    2.  
+    3.  
+    4.  
+ 
+ 
+ c=   
+ 
+    1.  
+    2.  
+    3.  
+    4.  
+ 
+ 
+ 
+ Augmented matrix of U and c=   
+ 
+ 
+ 
+    1.  - 1.    0.    0.    1.  
+    0.    1.  - 1.    0.    2.  
+    0.    0.    1.  - 1.    3.  
+    0.    0.    0.    1.    4.  
+ 
+ 
+ 
+ 
+ 
+ x=   
+ 
+    10.  
+    9.   
+    7.   
+    4.   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.5.7/1_5_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.    1.    1.  
+    1.    1.    3.  
+    2.    5.    8.  
+ 
+ 
+ 
+ L=   
+ 
+    1.     0.    0.  
+    0.5    1.    0.  
+    0.5    1.    1.  
+ 
+ 
+ U=   
+ 
+    2.    5.     8.  
+    0.  - 1.5  - 1.  
+    0.    0.   - 2.  
+ 
+ 
+ P=   
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    1.    0.    0.  
+ 
+ 
+ PA=   
+ 
+    2.    5.    8.  
+    1.    1.    3.  
+    1.    1.    1.  
+ 
+ 
+ LU=   
+ 
+    2.    5.    8.  
+    1.    1.    3.  
+    1.    1.    1.  
+ 
+ 
+ This shows that PA is the same as LU   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.6.1/1_6_1.sci #
+ 
+ 
+ 
+ 
+ 
+ Given matrix:   
+ 
+ 
+ 
+    2.    1.    1.  
+    4.  - 6.    0.  
+  - 2.    7.    2.  
+ 
+ 
+ 
+ Augmented matrix :   
+ 
+ 
+ 
+    2.    1.    1.    1.    0.    0.  
+    4.  - 6.    0.    0.    1.    0.  
+  - 2.    7.    2.    0.    0.    1.  
+ 
+ 
+ R2=R2-2*R1,R3=R3-(-2)*R1   
+ 
+ 
+ 
+ 
+    2.    1.    1.    1.    0.    0.  
+    0.  - 8.  - 2.  - 2.    1.    0.  
+    0.    8.    3.    1.    0.    1.  
+ 
+ 
+ R3=R3-(-1)*R2   
+ 
+ 
+ 
+ a=   
+ 
+    2.    1.    1.    1.    0.    0.  
+    0.  - 8.  - 2.  - 2.    1.    0.  
+    0.    0.    1.  - 1.    1.    1.  
+ 
+ 
+ [U inv(L)] :   
+ 
+    2.    1.    1.    1.    0.    0.  
+    0.  - 8.  - 2.  - 2.    1.    0.  
+    0.    0.    1.  - 1.    1.    1.  
+ 
+ 
+ R2=R2-(-2)*R3,R1=R1-R3   
+ 
+ 
+ 
+ 
+    2.    1.    0.    2.  - 1.  - 1.  
+    0.  - 8.    0.  - 4.    3.    2.  
+    0.    0.    1.  - 1.    1.    1.  
+ 
+ 
+ R1=R1-(-1/8)*R2)   
+ 
+ 
+ 
+    2.    0.    0.    1.5  - 0.625  - 0.75  
+    0.  - 8.    0.  - 4.     3.       2.    
+    0.    0.    1.  - 1.     1.       1.    
+ 
+ 
+ 
+ 
+ [I inv(A)]:   
+ 
+ 
+ 
+    1.    0.    0.    0.75  - 0.3125  - 0.375  
+    0.    1.    0.    0.5   - 0.375   - 0.25   
+    0.    0.    1.  - 1.      1.        1.     
+ 
+ 
+ inv(A):   
+ 
+ 
+ 
+    0.75  - 0.3125  - 0.375  
+    0.5   - 0.375   - 0.25   
+  - 1.      1.        1.     
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH1/EX1.6.2/1_6_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R=   
+ 
+    1.    2.  
+ 
+ 
+ 
+ Transpose of the given matrix is :   
+ 
+    1.  
+    2.  
+ 
+ 
+ The product of R & transpose(R)is :   
+ 
+    5.  
+ 
+ 
+ The product of transpose(R)& R is :   
+ 
+    1.    2.  
+    2.    4.  
+ 
+ 
+ Rt*R and R*Rt are not likely to be equal even if m==n.   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.1.1/2_1_1.sci #
+ 
+ 
+ 
+ 
+ 
+ Consider all vectors in R^2 whose components are positive or zero   
+ 
+ 
+ The subset is first Quadrant of x-y plane,the co-ordinates satisfy x>=0 and y> 
+      =0.It is not a subspace.                                                  
+ 
+ 
+ 
+ If the Vector=   
+ 
+    1.    1.  
+ 
+ 
+ Taking a scalar,c=-1   
+ 
+ 
+ 
+ c*v=   
+ 
+  - 1.  - 1.  
+ 
+ 
+ It lies in third Quadrant instead of first,Hence violating the rule(ii).   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.1.2/2_1_2.sci #
+ 
+ 
+ 
+ 
+ 
+ Take vector space of 3X3 matrices   
+ 
+ 
+ One possible subspace is the set of lower triangular matrices,Another is set o 
+      f symmetric matrices                                                      
+ 
+ 
+ A+B,cA are both lower triangular if A and B are lower triangular ,and are symm 
+      etric if A and B are symmetric and Zero matrix is in both subspaces       
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.1/2_3_1.sci #
+ 
+ 
+ 
+ 
+ 
+ For linear independence,C1V1+C2V2+......CkVk=0   
+ 
+ 
+ If we choose V1=zero vector,then the set is linearly dependent.We may choose C 
+      1=3 and all other Ci=0;this is a non-trival solution that produces zero.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.2/2_3_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ Given matrix:   
+ 
+ 
+    1.    3.    3.    2.  
+    2.    6.    9.    5.  
+  - 1.  - 3.    3.    0.  
+ 
+ 
+ 
+ C2->C2-3*C1   
+ 
+ 
+ 
+    1.    0.    3.    2.  
+    2.    0.    9.    5.  
+  - 1.    0.    3.    0.  
+ 
+ 
+ Here,C2=3*C1,Therefore the columns are linearly dependent.   
+ 
+ 
+ R3->R3-2*R2+5*R1   
+ 
+ 
+ 
+    1.    3.    3.    2.  
+    2.    6.    9.    5.  
+    0.    0.    0.    0.  
+ 
+ 
+ Here R3=R3-2*R2+5*R1,therefore the rows are linearly dependent.   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.3/2_3_3.sci #
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    3.    4.    2.  
+    0.    1.    5.  
+    0.    0.    2.  
+ 
+ 
+ The columns of the triangular matrix are linearly independent,it has no zeros  
+      on the diagonal                                                           
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.4/2_3_4.sci #
+ 
+ 
+ 
+ 
+ 
+ The columns of the nxn identity matrix are independent.   
+ 
+[0mEnter n:[0m[1m
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.5/2_3_5.sci #
+ 
+ 
+ 
+ 
+ 
+ Three columns in R2 cannot be independent.   
+ 
+ 
+ 
+ Given matrix:   
+ 
+    1.    2.    1.  
+    1.    2.    3.  
+ 
+ 
+ 
+ U=   
+ 
+    1.    2.    1.  
+    0.    0.    2.  
+ 
+ 
+ If c3 is 1 ,then back-substitution Uc=0 gives c2=-1,c1=1,With these three weig 
+      hts,the first column minus the second plus the third equals zero ,therefo 
+      re linearly dependent.                                                    
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.6/2_3_6.sci #
+ 
+ 
+ 
+ 
+ 
+ The vectors w1=(1,0,0),w2=(0,1,0),w3=(-2,0,0) span a plane (x-y plane) in R3.  
+      The first two vectors also span this plane, whereas w1 and w3 span only a 
+       line.                                                                    
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.7/2_3_7.sci #
+ 
+ 
+ 
+ 
+ 
+ The column space of A is excatly the space that is spanned by its columns.The  
+      row space is spanned by the rows.The definition is made to order.Multiply 
+      ing A by any x gives a combination of columns; it is a vector Ax in the c 
+      olumn space. The coordinate vectors e_1,....e_n coming from the identity  
+      matrix span Rn. Every vector b=(b_1.....,b_n) is a combination of those c 
+      olumns.In this example the weights are the components b_i themselves:b=b_ 
+      1e_1+.....+b_ne_n.But the columns of other matrices also span R_.         
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.8/2_3_8.sci #
+ 
+ 
+ 
+ 
+ 
+ Here,the vector v1 by itself is linearly independent , but it fails to span R2 
+      .The three vectors v1,v2,v3 certainly span R2, but are not independent. A 
+      ny two of these vectors say v1 and v2 have both properties -they span and 
+       they are independent.So they form a basis.(A vector space does not have  
+      a unique basis)                                                           
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.3.9/2_3_9.sci #
+ 
+ 
+ 
+ 
+ 
+ These four columns span the column space U,but they are not independent.   
+ 
+ 
+ 
+ U=   
+ 
+    1.    3.    3.    2.  
+    0.    0.    3.    1.  
+    0.    0.    0.    0.  
+ 
+ 
+ The columns that contains pivots (here 1st & 3rd) are a basis for the column s 
+      pace. These columns are independent, and it is easy to see that they span 
+       the space.In fact,the column space of U is just the x-y plane withinn R3 
+      . C(U) is not the same as the column space C(A) before elimination-but th 
+      e number of independent columns did not change.                           
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.4.1/2_4_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.    2.  
+    3.    6.  
+ 
+ 
+ 
+ m=   
+ 
+    2.  
+ 
+ 
+ n=   
+ 
+    2.  
+ 
+ 
+ 
+ 
+ rank=   
+ 
+    1.  
+ 
+ 
+ 
+ Column space=   
+ 
+    1.  
+    3.  
+ 
+ 
+ 
+ Null space=   
+ 
+  - 0.8944272  
+    0.4472136  
+ 
+ 
+ 
+ Row space=   
+ 
+    1.  
+    2.  
+ 
+ 
+ 
+ Left null sapce=   
+ 
+  - 0.9486833  
+    0.3162278  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.4.2/2_4_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    4.    0.    0.  
+    0.    5.    0.  
+ 
+ 
+ 
+ m=   
+ 
+    2.  
+ 
+ 
+ n=   
+ 
+    3.  
+ 
+ 
+ 
+ rank=   
+ 
+    2.  
+ 
+ 
+ since m=r=2 ,there exists a right inverse .   
+ 
+ 
+ 
+ Best right inverse=   
+ 
+    0.25    0.   
+    0.      0.2  
+    0.      0.   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH2/EX2.5.1/2_5_1.sci #
+ 
+ 
+ 
+ 
+ 
+ Applying current law A'y=f at nodes 1,2,3:   
+ 
+ 
+ 
+ A'=   
+ 
+  - 1.    0.  - 1.    0.  - 1.  
+    1.  - 1.    0.    0.    0.  
+    0.    1.    1.  - 1.    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The other equation is inv(C)y+Ax=b.The block form of the two equations is:   
+ 
+ 
+ 
+ 
+         column 1 to 7
+ 
+    4.7320508    0.           0.           0.           0.         - 1.    1.  
+    0.           1.3226746    0.           0.           0.           0.  - 1.  
+    0.           0.           4522.1321    0.           0.         - 1.    0.  
+    0.           0.           0.           3.0273024    0.           0.    0.  
+    0.           0.           0.           0.           1.5028981  - 1.    0.  
+  - 1.           0.         - 1.           0.         - 1.           0.    0.  
+    1.         - 1.           0.           0.           0.           0.    0.  
+    0.           1.           1.         - 1.           0.           0.    0.  
+ 
+         column 8
+ 
+    0.  
+    1.  
+    1.  
+  - 1.  
+    0.  
+    0.  
+    0.  
+    0.  
+ 
+ 
+ 
+ X=   
+ 
+!y1  !
+!    !
+!y2  !
+!    !
+!y3  !
+!    !
+!y4  !
+!    !
+!y5  !
+!    !
+!x1  !
+!    !
+!x2  !
+!    !
+!x3  !
+ 
+ 
+ 
+ X=   
+ 
+    0.3490578  
+  - 0.5006874  
+    0.0003578  
+  - 0.5003296  
+  - 0.3494156  
+  - 0.5251361  
+  - 2.1768955  
+  - 1.514649   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.1.1/3_1_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ x1=   
+ 
+    2.  
+    2.  
+  - 1.  
+ 
+ 
+ 
+ x2=   
+ 
+  - 1.  
+    2.  
+    2.  
+ 
+ 
+ x1'*x2=   
+ 
+    0.  
+ 
+ 
+ Therefore,X1 is orthogonal to x2 .Both have length of sqrt(14).   
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.1.2/3_1_2.sci #
+ 
+ 
+ 
+ 
+ 
+ Suppose V is a plane spanned by v1=(1,0,0,0) and v2=(1,1,0,0).If W is the line 
+       spanned by w=(0,0,4,5),then w is orthogonal to both v's.The line W will  
+      be orthogonal to the whole plane V.                                       
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.1.3/3_1_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.    3.  
+    2.    6.  
+    3.    9.  
+ 
+ 
+ 
+ Null space=   
+ 
+  - 0.9486833  
+    0.3162278  
+ 
+ 
+ A(1,:)*ns=   
+ 
+    1.110D-16  
+ 
+ 
+ A(2,:)*ns=   
+ 
+    2.220D-16  
+ 
+ 
+ A(3,:)*ns=   
+ 
+    4.441D-16  
+ 
+ 
+ This shows that the null space of A is orthogonal to the row space.   
+ 
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.2.1/3_2_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ b=   
+ 
+    1.  
+    2.  
+    3.  
+ 
+ 
+ 
+ a=   
+ 
+    1.  
+    1.  
+    1.  
+ 
+ x  =
+ 
+    2.  
+ 
+ 
+ Projection p of b onto the line through a is x^*a=   
+ 
+    2.  
+    2.  
+    2.  
+ 
+ 
+ cos(thetha)=   
+ 
+    0.9258201  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.2.2/3_2_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    1.  
+    1.  
+    1.  
+ 
+ 
+ 
+ Matrix that projects onto a line through a=(1,1,1) is   
+ 
+    0.3333333    0.3333333    0.3333333  
+    0.3333333    0.3333333    0.3333333  
+    0.3333333    0.3333333    0.3333333  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.2.3/3_2_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a=   
+ 
+    0.5253220  
+    0.8509035  
+ 
+ 
+ 
+ Projection of line onto the thetha-direction(thetha taken as 45) in the x-y pl 
+      ane passing through a is                                                  
+ 
+    0.2759632    0.4469983  
+    0.4469983    0.7240368  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.3.1/3_3_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    0.2113249    0.6653811    0.8782165    0.7263507  
+    0.7560439    0.6283918    0.0683740    0.1985144  
+    0.0002211    0.8497452    0.5608486    0.5442573  
+    0.3303271    0.6857310    0.6623569    0.2320748  
+ 
+ 
+ 
+ P=A*inv(A'*A)*A   
+ 
+ 
+ Projection of a  invertible 4x4 matrix on to the whole space is:   
+ 
+    1.         - 2.220D-16  - 8.882D-16  - 1.998D-15  
+    0.           1.           5.551D-17  - 1.110D-15  
+    5.551D-17  - 2.776D-16    1.           1.409D-15  
+  - 4.441D-16  - 3.331D-16    6.661D-16    1.         
+ 
+ 
+ Its identity matrix.   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.3.2/3_3_2.sci #
+ 
+ 
+ 
+ 
+ 
+ b=C+Dt   
+ 
+ 
+ Ax=b   
+ 
+ 
+ 
+ A=   
+ 
+    1.  - 1.  
+    1.    1.  
+    1.    2.  
+ 
+ 
+ 
+ b=   
+ 
+    1.  
+    1.  
+    3.  
+ 
+ 
+ If Ax=b could be solved then they would be no errors, they can't be solved bec 
+      ause the points are not on a line.Therefore they are solved by least squa 
+      res.                                                                      
+ 
+ 
+ so,A'Ax^=A'b   
+ 
+ 
+ 
+ 
+ C^ =   
+ 
+    1.2857143  
+ 
+ 
+ D^=   
+ 
+    0.5714286  
+ 
+ 
+ The best line is 9/7+4/7t   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.4.1/3_4_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q=   
+ 
+    0.5253220  - 0.8509035  
+    0.8509035    0.5253220  
+ 
+ 
+ Q'=inv(Q)=   
+ 
+    0.5253220    0.8509035  
+  - 0.8509035    0.5253220  
+ 
+ 
+ Q rotates every vector through an angle thetha, and Q' rotates it back through 
+       -thetha.The columns are ly orthogonal and they are orthonormal because s 
+      in^2(theta)+cos^2(thetha)=1.                                              
+ 
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.4.2/3_4_2.sci #
+ 
+ 
+ 
+ 
+ 
+ Any permutation matrix is an orthogonal matrix.The columns are certainly unit  
+      vectors and certainly orthogonal-because the 1 appears in a differnt plac 
+      e in each column                                                          
+ 
+ 
+ 
+ P=   
+ 
+    0.    1.    0.  
+    0.    0.    1.  
+    1.    0.    0.  
+ 
+ 
+ inv(P)=P'=   
+ 
+    0.    0.    1.  
+    1.    0.    0.  
+    0.    1.    0.  
+ 
+ 
+ And,P'*P=   
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.4.3/3_4_3.sci #
+ 
+ 
+ 
+ 
+ 
+ If we project b=(x,y,z) onto the x-y plane then its projection is p=(x,y,0),an 
+      d is the sum of projection onto x- any y-axes.                            
+ 
+ 
+ 
+ 
+ q1=   
+ 
+    1.  
+    0.  
+    0.  
+ 
+ 
+ 
+ q2=   
+ 
+    0.  
+    1.  
+    0.  
+ 
+ 
+ 
+ Overall projection matrix,P=   
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    0.  
+ 
+ 
+ and,P[x;y;z]=[x;y;0]   
+ 
+ 
+ Projection onto a plane=sum of projections onto orthonormal q1 and q2.   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.4.4/3_4_4.sci #
+ 
+ 
+ 
+ 
+ 
+ y=C+Dt   
+ 
+ 
+ Ax=b   
+ 
+ 
+ 
+ A=   
+ 
+    1.  - 3.  
+    1.    0.  
+    1.    3.  
+ 
+ 
+ 
+ y=   
+ 
+    0.2113249  
+    0.7560439  
+    0.0002211  
+ 
+ 
+ the columns of A are orthogonal,so   
+ 
+ 
+ 
+ C^ =   
+ 
+    0.3225300  
+ 
+ 
+ D^ =   
+ 
+  - 0.0351840  
+ 
+ 
+ C^ gives the besy fit ny horizontal line, whereas D^t is the best fit by a str 
+      aight line through the origin.                                            
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH3/EX3.4.5/3_4_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.    0.    1.  
+    1.    0.    0.  
+    2.    1.    0.  
+ 
+ 
+ 
+ 
+ Q=   
+ 
+    0.4082483  - 0.5773503    0.7071068  
+    0.4082483  - 0.5773503  - 0.7071068  
+    0.8164966    0.5773503  - 1.570D-16  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH4/EX4.3.1/4_3_1.sci #
+ 
+ 
+ 
+[0mEnter the value of n:[0m[1m
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH4/EX4.3.2/4_3_2.sci #
+ 
+ 
+ 
+ 
+ For a 3*3 matrix:   
+ 
+ 
+ det A=a11(a22a33-a23a32)+a12(a23a31-a21a33)+a13(a21a32-a22a31)   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH4/EX4.3.3/4_3_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    2.  - 1.    0.    0.  
+  - 1.    2.  - 1.    0.  
+    0.  - 1.    2.  - 1.  
+    0.    0.  - 1.    2.  
+ 
+ n  =
+ 
+    4.  
+ m  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+    5.  
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH4/EX4.4.1/4_4_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.    1.    1.  
+    0.    1.    1.  
+    0.    0.    1.  
+ 
+ 
+ 
+ 
+ 
+ Adjoint of A:   
+ 
+    1.  - 1.    0.  
+    0.    1.  - 1.  
+    0.    0.    1.  
+ 
+ 
+ inv(A):   
+ 
+    1.  - 1.    0.  
+    0.    1.  - 1.  
+    0.    0.    1.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH4/EX4.4.2/4_4_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x1=   
+ 
+    9.  
+ 
+ 
+ x2=   
+ 
+  - 3.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.1.1/5_1_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eigen values:   
+ 
+    2.  
+    3.  
+ 
+ 
+ 
+ 
+ Eigen vectors:   
+ 
+    1.  
+    0.  
+ 
+    0.  
+    1.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.1.2/5_1_2.sci #
+ 
+ 
+ 
+ 
+ 
+ The eigen values of a projection matrix are 1 or 0.   
+ 
+ 
+ 
+ 
+ 
+ Eigen values:   
+ 
+    0.  
+    1.  
+ 
+ 
+ 
+ 
+ Eigen vectors:   
+ 
+    0.7071068  
+    0.7071068  
+ 
+  - 0.7071068  
+    0.7071068  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.2.1/5_2_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eigenvalue matrix:   
+ 
+    0.    0.  
+    0.    1.  
+ 
+ 
+ S=   
+ 
+  - 0.7071068    0.7071068  
+    0.7071068    0.7071068  
+ 
+ 
+ AS=S*eigenvaluematrix   
+ 
+    0.    0.7071068  
+    0.    0.7071068  
+ 
+ 
+ Therefore inv(S)*A*S=eigenvalue matrix   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.2.2/5_2_2.sci #
+ 
+ 
+ 
+ 
+ 
+ The eigenvalues themselves are not so  for a rotation.   
+ 
+ 
+ 90 degree rotation   
+ 
+ 
+ 
+ K=   
+ 
+    0.  - 1.  
+    1.    0.  
+ 
+ 
+ 
+ 
+ Eigen values:   
+ 
+    i    
+  - i    
+ 
+ 
+ 
+ 
+ Eigen vectors:   
+ 
+    0.7071068   
+    0.7071068i  
+ 
+    0.7071068   
+  - 0.7071068i  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.2.3/5_2_3.sci #
+ 
+ 
+ 
+ 
+ 
+ K is rotation through 90 degree,then K^2 is rotation through 180 degree and in 
+      v(k is rotation through -90 degree)                                       
+ 
+ 
+ 
+ K=   
+ 
+    0.  - 1.  
+    1.    0.  
+ 
+ 
+ K^2=   
+ 
+  - 1.    0.  
+    0.  - 1.  
+ 
+ 
+ K^3=   
+ 
+    0.    1.  
+  - 1.    0.  
+ 
+ 
+ K^4=   
+ 
+    1.    0.  
+    0.    1.  
+ 
+ 
+ 
+ K^4 is a complete rotation through 360 degree.   
+ 
+ 
+ Eigen value matrix,D of K:   
+ 
+    i      0    
+    0    - i    
+ 
+ 
+ and also D^4=   
+ 
+    1.    0   
+    0     1.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.3.1/5_3_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    0.    4.   
+    0.    0.5  
+ 
+ 
+ 
+ Eigen values:   
+ 
+    0    
+    0.5  
+ 
+ 
+ 
+ 
+ k=   
+ 
+    0.  
+ 
+ U(k+1)(K from 0 to 5)   
+ 
+    0  
+    0  
+ 
+ k=   
+ 
+    1.  
+ 
+ U(k+1)(K from 0 to 5)   
+ 
+    0  
+    0  
+ 
+ k=   
+ 
+    2.  
+ 
+ U(k+1)(K from 0 to 5)   
+ 
+    0  
+    0  
+ 
+ k=   
+ 
+    3.  
+ 
+ U(k+1)(K from 0 to 5)   
+ 
+    0  
+    0  
+ 
+ k=   
+ 
+    4.  
+ 
+ U(k+1)(K from 0 to 5)   
+ 
+    0  
+    0  
+ 
+ k=   
+ 
+    5.  
+ 
+ U(k+1)(K from 0 to 5)   
+ 
+    0  
+    0  
+ 
+ 
+ 
+ k=   
+ 
+    0.  
+ 
+ U(k+1)=   
+ 
+    0.4961389  
+    0.0620174  
+ 
+ k=   
+ 
+    1.  
+ 
+ U(k+1)=   
+ 
+    0.2480695  
+    0.0310087  
+ 
+ k=   
+ 
+    2.  
+ 
+ U(k+1)=   
+ 
+    0.1240347  
+    0.0155043  
+ 
+ k=   
+ 
+    3.  
+ 
+ U(k+1)=   
+ 
+    0.0620174  
+    0.0077522  
+ 
+ k=   
+ 
+    4.  
+ 
+ U(k+1)=   
+ 
+    0.0310087  
+    0.0038761  
+ 
+ k=   
+ 
+    5.  
+ 
+ U(k+1)=   
+ 
+    0.0155043  
+    0.0019380  
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.5.1/5_5_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x=   
+ 
+    3. + 4.i  
+ 
+ 
+ 
+ xx_=   
+ 
+    25.  
+ 
+ 
+ 
+ r=   
+ 
+    5.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH5/EX5.5.2/5_5_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Length of x squared:   
+ 
+    2.  
+ 
+ 
+ Length of y squared:   
+ 
+    25.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.1.1/6_1_1.sci #
+ 
+ 
+ 
+ 
+ 
+ f(x,y)=x^2-10*x*y+y^2   
+ 
+ 
+ 
+ 
+ 
+ f(1,1)=   
+ 
+  - 8.  
+ 
+ 
+ The conditions a>0 and c>0 ensure that f(x,y) is positive on the x and y axes. 
+       But this function is negative on the line x=y,because b=-10 overwhelms a 
+       and c.                                                                   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.2.2/6_1_2.sci #
+ 
+ 
+ 
+ 
+ 
+ f(x,y)=x^2+4*x*y+y^2   
+ 
+ 
+ 
+ 
+ 
+ f(0,0)=   
+ 
+    0.  
+ 
+ 
+ Here 2b=4  it still does not ensure a minimum ,the sign of b is of no importan 
+      ce.Neither F nor f has a minimum at(0,0) because f(1,-1)=-1.              
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.1.3/6_1_3.sci #
+ 
+ 
+ 
+ 
+ 
+ f(x,y)=2*x^2+4*x*y+y^2   
+ 
+ 
+ 
+ 
+ 
+ 
+ ac=   
+ 
+    1.  
+ 
+ 
+ b^2=   
+ 
+    4.  
+ 
+ 
+ Saddle point,as ac<b^2   
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.1.4/6_1_4.sci #
+ 
+ 
+ 
+ 
+ 
+ f(x,y)=2*x^2+4*x*y+y^2   
+ 
+ 
+ 
+ 
+ 
+ 
+ ac=   
+ 
+    0.  
+ 
+ 
+ b^2=   
+ 
+    1.  
+ 
+ 
+ Saddle point,as ac<b^2   
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.3.1/6_3_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+  - 1.  
+    2.  
+    2.  
+ 
+ 
+ 
+ U=   
+ 
+  - 0.3333333    0.6666667    0.6666667  
+    0.6666667    0.6666667  - 0.3333333  
+    0.6666667  - 0.3333333    0.6666667  
+ 
+ 
+ diagnol=   
+ 
+    3.  
+    0.  
+    0.  
+ 
+ 
+ V'=   
+ 
+    1.  
+ 
+ 
+ A=U*diagnol*V'   
+ 
+  - 1.  
+    2.  
+    2.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.3.2/6_3_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+  - 1.    1.    0.  
+    0.  - 1.    1.  
+ 
+ 
+ 
+ U=   
+ 
+  - 0.7071068    0.7071068  
+    0.7071068    0.7071068  
+ 
+ 
+ Diagonal=   
+ 
+    1.7320508    0.    0.  
+    0.           1.    0.  
+ 
+ 
+ V'=   
+ 
+    0.4082483  - 0.8164966    0.4082483  
+  - 0.7071068  - 2.776D-16    0.7071068  
+    0.5773503    0.5773503    0.5773503  
+ 
+ 
+ A=U*diagonal*V'=   
+ 
+  - 1.           1.    2.776D-16  
+    1.110D-16  - 1.    1.         
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.3.3/6_3_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.  - 2.  
+    3.  - 1.  
+ 
+ 
+ 
+ 
+ 
+ Q=   
+ 
+    0.  - 1.  
+    1.    0.  
+ 
+ 
+ S=   
+ 
+    3.  - 1.  
+  - 1.    2.  
+ 
+ 
+ A=SQ=   
+ 
+    1.  - 2.  
+    3.  - 1.  
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH6/EX6.3.4/6_3_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ A=   
+ 
+    1.  - 2.  
+    3.  - 1.  
+ 
+ 
+ 
+ 
+ 
+ Q=   
+ 
+    0.  - 1.  
+    1.    0.  
+ 
+ 
+ S=   
+ 
+    2.    1.  
+    1.    3.  
+ 
+ 
+ A=S'Q=   
+ 
+    1.  - 2.  
+    3.  - 1.  
+ 
+ 
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH7/EX7.4.1/7_4_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ intial v & w:   
+ 
+    0.  
+    0.  
+ 
+ 
+ 
+ k=   
+ 
+    0.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.  
+    1.  
+ 
+ k=   
+ 
+    1.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.5  
+    1.5  
+ 
+ k=   
+ 
+    2.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.75  
+    1.75  
+ 
+ k=   
+ 
+    3.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.875  
+    1.875  
+ 
+ k=   
+ 
+    4.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9375  
+    1.9375  
+ 
+ k=   
+ 
+    5.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.96875  
+    1.96875  
+ 
+ k=   
+ 
+    6.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.984375  
+    1.984375  
+ 
+ k=   
+ 
+    7.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9921875  
+    1.9921875  
+ 
+ k=   
+ 
+    8.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9960938  
+    1.9960938  
+ 
+ k=   
+ 
+    9.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9980469  
+    1.9980469  
+ 
+ k=   
+ 
+    10.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9990234  
+    1.9990234  
+ 
+ k=   
+ 
+    11.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9995117  
+    1.9995117  
+ 
+ k=   
+ 
+    12.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9997559  
+    1.9997559  
+ 
+ k=   
+ 
+    13.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9998779  
+    1.9998779  
+ 
+ k=   
+ 
+    14.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.999939  
+    1.999939  
+ 
+ k=   
+ 
+    15.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999695  
+    1.9999695  
+ 
+ k=   
+ 
+    16.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999847  
+    1.9999847  
+ 
+ k=   
+ 
+    17.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999924  
+    1.9999924  
+ 
+ k=   
+ 
+    18.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999962  
+    1.9999962  
+ 
+ k=   
+ 
+    19.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999981  
+    1.9999981  
+ 
+ k=   
+ 
+    20.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.999999  
+    1.999999  
+ 
+ k=   
+ 
+    21.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999995  
+    1.9999995  
+ 
+ k=   
+ 
+    22.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999998  
+    1.9999998  
+ 
+ k=   
+ 
+    23.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999999  
+    1.9999999  
+ 
+ k=   
+ 
+    24.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    1.9999999  
+    1.9999999  
+ 
+ k=   
+ 
+    25.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    2.  
+    2.  
+ 
+grepthis#Linear_Algebra_And_Its_Applications_G._Strang_70/CH7/EX7.4.2/7_4_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ intial v & w:   
+ 
+    0.  
+    0.  
+ 
+ 
+ 
+ k=   
+ 
+    0.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.1056624  
+    0.4308531  
+ 
+ k=   
+ 
+    1.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.321089   
+    0.5385664  
+ 
+ k=   
+ 
+    2.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3749456  
+    0.5654948  
+ 
+ k=   
+ 
+    3.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3884098  
+    0.5722268  
+ 
+ k=   
+ 
+    4.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3917758  
+    0.5739099  
+ 
+ k=   
+ 
+    5.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3926174  
+    0.5743306  
+ 
+ k=   
+ 
+    6.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928277  
+    0.5744358  
+ 
+ k=   
+ 
+    7.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928803  
+    0.5744621  
+ 
+ k=   
+ 
+    8.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928935  
+    0.5744687  
+ 
+ k=   
+ 
+    9.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928968  
+    0.5744703  
+ 
+ k=   
+ 
+    10.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928976  
+    0.5744707  
+ 
+ k=   
+ 
+    11.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928978  
+    0.5744708  
+ 
+ k=   
+ 
+    12.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928978  
+    0.5744708  
+ 
+ k=   
+ 
+    13.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    14.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    15.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    16.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    17.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    18.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    19.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    20.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    21.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    22.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    23.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    24.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 
+ k=   
+ 
+    25.  
+ 
+ v(k+1) & w(k+1)=   
+ 
+    0.3928979  
+    0.5744709  
+ 

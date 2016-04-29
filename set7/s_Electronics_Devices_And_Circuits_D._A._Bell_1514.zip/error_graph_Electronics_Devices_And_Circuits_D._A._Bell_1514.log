@@ -1,0 +1,229 @@
+ERROR: Electronics_Devices_And_Circuits_D._A._Bell_1514/CH19/EX19.6/19_6.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ Vce  =
+ 
+    20.    0.  
+ 
+ Ic  =
+ 
+    0.    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+At illumination level =0,output voltage=Vce= 20V 
+
+At illumination level =20 mW/cm^2,output voltage= 12.5V 
+
+At illumination level =40 mW/cm^2,output voltage= 4V 
+ 
+d_Circuits_D._A._Bell_1514/19_6');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      20 of exec file called by :    
+._A._Bell_1514/CH19/EX19.6/19_6.sce',-1
+ 
+ERROR: Electronics_Devices_And_Circuits_D._A._Bell_1514/CH20/EX20.4/20_4.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Id  =
+ 
+    0.    1.    0.12    0.12    1.  
+ 
+ 
+ 
+ 
+ 
+
+Value of RD=-324 ohm 
+ 
+d_Circuits_D._A._Bell_1514/20_4');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      21 of exec file called by :    
+._A._Bell_1514/CH20/EX20.4/20_4.sce',-1
+ 
+ERROR: Electronics_Devices_And_Circuits_D._A._Bell_1514/CH21/EX21.1/21_1.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+d_Circuits_D._A._Bell_1514/21_1');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      28 of exec file called by :    
+._A._Bell_1514/CH21/EX21.1/21_1.sce',-1
+ 
+ERROR: Electronics_Devices_And_Circuits_D._A._Bell_1514/CH21/EX21.3/21_3.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+ 
+ 
+ 
+
+For Q point,
+Eg=-2.4 V
+Ip=8.8 mA
+Ep=112V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d_Circuits_D._A._Bell_1514/21_3');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      45 of exec file called by :    
+._A._Bell_1514/CH21/EX21.3/21_3.sce',-1
+ 

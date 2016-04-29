@@ -1,0 +1,2614 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 87
+
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.1/example2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+    1.    3.2784587    3.3320428  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.2/example2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F1  =
+ 
+       6 + s      
+    -----------   
+               2  
+    10 + 2s + s   
+ 
+ F  =
+ 
+ 
+       F(1)
+ 
+       6 + s      
+    -----------   
+               2  
+    10 + 2s + s   
+ 
+ 
+ 
+ 
+ 
+ F=[((s+1)/(s+1)^2+3^2)+(5/3)*(3/(s+1)^2+3^2)]   
+ 
+ 
+ 
+ 
+ 
+ f(t)=(%e^-t)*(cos3t)+(5/3)*(%e^-t)*(sin3t)   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.3/example2_3.sce #
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ n3  =
+ 
+    2 + 3s   
+ 
+ d3  =
+ 
+           2   3  
+    5s + 4s + s   
+ 
+ F  =
+ 
+      2 + 3s      
+    ----------    
+           2   3  
+    5s + 4s + s   
+ 
+ 
+ 
+ 
+ 
+ Final value=   
+ 
+    0.  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.4.1/examplesec2_4a.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.  - 1.  
+    0.  - 1.  
+ 
+ B  =
+ 
+    1.  
+  - 1.  
+ 
+ 
+ Eigen values=   
+ 
+    1.  
+  - 1.  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.4.b/examplesec2_4b.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.    6.  - 5.  
+    1.    0.    2.  
+    3.    2.    4.  
+ 
+ B  =
+ 
+    2.         
+    1.0000002  
+    0.9999998  
+ 
+ 
+ Eigen values=   
+ 
+    2.         
+    1.0000002  
+    0.9999998  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.4/example2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F  =
+ 
+      1 + 4s      
+    ----------    
+           2   3  
+    5s + 4s + s   
+ 
+ 
+ 
+ 
+ F1  =
+ 
+      1 + 4s     
+    ----------   
+              2  
+    5 + 4s + s   
+ 
+ 
+ 
+ f'(0+)=4   
+ 
+ 
+ 
+ F2  =
+ 
+   - 20 - 15s    
+    ----------   
+              2  
+    5 + 4s + s   
+ 
+ 
+ 
+ f''(0+)=-15   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.5/example2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F  =
+ 
+         5 + 8s        
+    ----------------   
+           2    3   4  
+    5s + 9s + 5s + s   
+ 
+ F1  =
+ 
+        5 + 8s        
+    --------------    
+               2   3  
+    5 + 9s + 5s + s   
+ 
+ 
+ 
+ 
+ Final value=1   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.6/example2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F  =
+ 
+       5      
+    -------   
+           3  
+    49s + s   
+ 
+ F1  =
+ 
+      5      
+    -----    
+          2  
+    49 + s   
+ 
+ 
+ 
+ THE SYSTEM HAS POLES ON IMAGINARY AXIS. THEREFORE f(t) HAS NO FINAL VALUE   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.7/example2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F1  =
+ 
+      2     
+    -----   
+     2   3  
+    s + s   
+ 
+ F  =
+ 
+ 
+       F(1)
+ 
+    2 - 2s   
+    ------   
+       2     
+      s      
+ 
+       F(2)
+ 
+      2     
+    -----   
+    1 + s   
+ 
+ 
+ 
+ 
+ F(s)=2*((1/s^2)-(1/s)+(1/(s+1)))   
+ 
+ 
+ 
+ 
+ f(t)=2*(t-1+e^-t)   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.8/example2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cxz  =
+ 
+    0.25  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.9/example2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X1  =
+ 
+    0.25  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X2  =
+ 
+    0.36  
+ 
+ 
+ 
+ ans=   
+ 
+    0.61  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.10/example2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    1.3465736 - 4.3561945i  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.11/example2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+          2       
+        2z        
+    ----------    
+               2  
+    1 - 3z + 2z   
+ 
+ 
+ 
+ 
+ X1  =
+ 
+           2         
+          z          
+    -------------    
+                  2  
+    0.5 - 1.5z + z   
+ 
+ 
+ 
+ A1  =
+ 
+  - 0.5 + 1.5z   
+    ----------   
+         2       
+        z        
+ 
+ 
+ B1  =
+ 
+  - 0.75 + 1.75z   
+    ------------   
+          3        
+         z         
+ 
+ 
+ C1  =
+ 
+  - 0.875 + 1.875z   
+    --------------   
+           4         
+          z          
+ 
+ 
+ D1  =
+ 
+  - 0.9375 + 1.9375z   
+    ----------------   
+            5          
+           z           
+ 
+ 
+ E1  =
+ 
+  - 0.96875 + 1.96875z   
+    ------------------   
+             6           
+            z            
+ 
+ 
+ 
+ x1(n)=1,1.5,1.75,1.875,1.9375,........   
+ 
+ 
+ 
+ 
+ A2  =
+ 
+           2  
+    6z - 4z   
+    -------   
+       1      
+ 
+ B2  =
+ 
+       2     3  
+    14z - 12z   
+    ---------   
+        1       
+ 
+ 
+ C2  =
+ 
+       3     4  
+    30z - 28z   
+    ---------   
+        1       
+ 
+ 
+ D2  =
+ 
+       4     5  
+    62z - 60z   
+    ---------   
+        1       
+ 
+ 
+ E2  =
+ 
+        5      6  
+    126z - 124z   
+    -----------   
+         1        
+ 
+ 
+ 
+ X2(z)=2*z^2+6*z^3+14*z^4+30*z^5+62*z^6+........   
+ 
+ 
+ x2(n)=.....,62,30,14,6,2,0,0   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH2/EX2.12/example2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+           3        
+          z         
+    -------------   
+             2   3  
+    1 - z - z + z   
+ 
+ X1  =
+ 
+           2        
+          z         
+    -------------   
+             2   3  
+    1 - z - z + z   
+ 
+ ans  =
+ 
+ 
+       ans(1)
+ 
+  - 0.25 + 0.75z   
+    ------------   
+               2   
+     1 - 2z + z    
+ 
+       ans(2)
+ 
+    0.25    
+    ----    
+    1 + z   
+ 
+ 
+ 
+ X(z)=(0.25*z/(z+1))+(0.75*z/(z-1))+(0.5*z/(z-1)^2)   
+ 
+ 
+ X(z)=(0.25/(1+z^-1))+(0.75/(1-z^-1))+(0.5*z/(z-1)^2)   
+ 
+ 
+ 
+ 
+ 
+ x(n)=0.25*((-1)^n)*u(n)+0.75*u(n)+0.5*n*u(n)   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH3/EX3.1/example3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+         2        
+    -----------   
+           2   3  
+    2s + 2s + s   
+ 
+ 
+ since one integration is being observed, it is TYPE 1 system   
+ 
+ 
+ 
+ 
+ 
+ 
+ B  =
+ 
+           5          
+    ---------------   
+               2   3  
+    6 + 7s + 4s + s   
+ 
+ 
+ since no integration is being observed, it is TYPE 0 system   
+ 
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    1 + s    
+    -----    
+      2   3  
+    2s + s   
+ 
+ 
+ since two integration is being observed, it is TYPE 2 system   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH4/EX4.1/example4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.    1.  
+  - 2.  - 3.  
+ 
+ B  =
+ 
+    0.  
+    1.  
+ 
+ C  =
+ 
+    0.  
+ 
+ 
+ 
+ Ac=   
+ 
+  - 3.  - 2.  
+    1.    0.  
+ 
+ 
+ Bc=   
+ 
+  - 1.  
+    0.  
+ 
+ 
+ transformation matrix U=   
+ 
+    0.  - 1.  
+  - 1.    0.  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH4/EX4.3/example4_3.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.    1.     0.  
+    0.    0.     1.  
+  - 6.  - 11.  - 6.  
+ 
+ P  =
+ 
+  - 1.    0.    0.  
+    0.  - 2.    0.  
+    0.    0.  - 3.  
+ 
+ 
+ T  =
+ 
+    1.    1.    1.  
+  - 1.  - 2.  - 3.  
+    1.    4.    9.  
+ 
+ ans  =
+ 
+    3.    2.5    0.5  
+  - 3.  - 4.   - 1.   
+    1.    1.5    0.5  
+ 
+ 
+ A1  =
+ 
+  - 1.           4.441D-16  - 8.882D-16  
+    2.665D-15  - 2.           7.105D-15  
+  - 1.332D-15  - 2.665D-15  - 3.         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH4/EX4.6.a/examplesec4_6a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ S  =
+ 
+    1.    2.    10.  
+    0.    3.    9.   
+    1.    2.    7.   
+ 
+ 
+ D  =
+ 
+  - 1 + s   - 2       - 1       
+                                
+    0       - 1 + s   - 3       
+                                
+  - 1       - 1       - 1 + s   
+ 
+ ans  =
+ 
+              2   3  
+  - 3 - s - 3s + s   
+ 
+ 
+ 
+ 
+ 
+ a2  =
+ 
+  - 3.  
+ 
+ a1  =
+ 
+  - 1.  
+ 
+ a0  =
+ 
+  - 3.  
+ 
+ M  =
+ 
+  - 1.  - 3.    1.  
+  - 3.    1.    0.  
+    1.    0.    0.  
+ 
+ 
+ P  =
+ 
+    3.  - 1.    1.  
+    0.    3.    0.  
+    0.  - 1.    1.  
+ 
+ A1  =
+ 
+    0.    1.    0.  
+    0.    0.    1.  
+    3.    1.    3.  
+ 
+ B1  =
+ 
+    0.  
+    0.  
+    1.  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH4/EX4.6.b/examplesec4_6b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    1.    1.    0.   
+    1.    3.    4.   
+    5.    9.    14.  
+ 
+ 
+ D  =
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ s  =
+ 
+    s   
+ 
+ E  =
+ 
+  - 1 + s   - 2       - 1       
+                                
+    0       - 1 + s   - 3       
+                                
+  - 1       - 1       - 1 + s   
+ 
+ ans  =
+ 
+              2   3  
+  - 3 - s - 3s + s   
+ 
+ 
+ 
+ 
+ 
+ a2  =
+ 
+  - 3.  
+ 
+ a1  =
+ 
+  - 1.  
+ 
+ a0  =
+ 
+  - 3.  
+ 
+ M  =
+ 
+  - 1.  - 3.    1.  
+  - 3.    1.    0.  
+    1.    0.    0.  
+ 
+ F  =
+ 
+    1.  - 1.    2.  
+  - 2.    0.    4.  
+    1.    1.    0.  
+ 
+ Q  =
+ 
+    0.3333333  - 0.1666667    0.3333333  
+  - 0.3333333    0.1666667    0.6666667  
+    0.1666667    0.1666667    0.1666667  
+ 
+ A1  =
+ 
+    0.  - 2.220D-16    3.  
+    1.  - 1.110D-16    1.  
+    0.    1.           3.  
+ 
+ B1  =
+ 
+    3.  
+    2.  
+    1.  
+ 
+ C1  =
+ 
+  - 5.551D-17  - 8.327D-17    1.  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH4/EX4.8/examplesec4_8.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.    6.  - 5.  
+    1.    0.    2.  
+    3.    2.    4.  
+ 
+ B  =
+ 
+    2.         
+    1.0000002  
+    0.9999998  
+ 
+ 
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    2.         - 0.0006990  - 0.0001697  
+    0.           1.0014       1.0021894  
+  - 7.105D-15  - 0.0000020    0.9986     
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH4/EX4.10/examplesec4_10.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.    0.    0.  
+    0.    2.    0.  
+    0.    0.    3.  
+ 
+ B  =
+ 
+    1.    0.  
+    0.    1.  
+    1.    1.  
+ 
+ b1  =
+ 
+    1.  
+    0.  
+    1.  
+ 
+ b2  =
+ 
+    0.  
+    1.  
+    1.  
+ 
+ u  =
+ 
+    1.    0.    1.    0.    1.    0.    0.    1.    0.  
+    0.    1.    0.    2.    0.    4.    0.    0.    1.  
+    1.    1.    3.    3.    0.    0.    9.    1.    1.  
+ 
+ u1  =
+ 
+    1.    0.    1.  
+    0.    1.    0.  
+    1.    1.    3.  
+ 
+ 
+ 
+ u1  =
+ 
+    1.    1.    0.  
+    0.    0.    1.  
+    1.    3.    1.  
+ 
+ 
+ 
+ ans  =
+ 
+    1.5    0.5  - 0.5  
+  - 0.5  - 0.5    0.5  
+    0.     1.     0.   
+ 
+ 
+ p1  =
+ 
+  - 0.5  - 0.5    0.5  
+ 
+ p2  =
+ 
+    0.    1.    0.  
+ 
+ P  =
+ 
+  - 0.5  - 0.5    0.5  
+  - 0.5  - 1.     1.5  
+    0.     1.     0.   
+ 
+ A1  =
+ 
+    0.    1.    0.   
+  - 3.    4.    0.5  
+    0.    0.    2.   
+ 
+ B1  =
+ 
+    0.    0.   
+    1.    0.5  
+    0.    1.   
+ 
+ C  =
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ 
+ s  =
+ 
+    s   
+ 
+ D  =
+ 
+    s   - 1         0       
+                            
+    3   - 4 + s   - 0.5     
+                            
+    0     0       - 2 + s   
+ 
+ E  =
+ 
+                2   3  
+  - 6 + 11s - 6s + s   
+ 
+ ans  =
+ 
+    1.     11.  
+  - 6.   - 6.   
+    10.    0.   
+  - 6.     0.   
+ 
+ 
+ A2  =
+ 
+    0.    1.     0.  
+    0.    0.     1.  
+  - 6.  - 11.  - 6.  
+ 
+ B2  =
+ 
+    0.    0.   
+    1.    0.5  
+    0.    1.   
+ 
+ N1  =
+ 
+    6.    1.5    4.5  
+  - 6.  - 11.    8.   
+ 
+ N  =
+ 
+  - 3.75    0.     5.25  
+    8.5     22.  - 19.5  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.1/example5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+                 2    3   4  
+    4 + 16s + 18s + 8s + s   
+ 
+ 
+ 
+ a0  =
+ 
+    1.  
+ 
+ a1  =
+ 
+    8.  
+ 
+ a2  =
+ 
+    18.  
+ 
+ a3  =
+ 
+    16.  
+ 
+ a4  =
+ 
+    4.  
+ 
+ 
+ D  =
+ 
+    8.     1.     0.     0.   
+    16.    18.    8.     1.   
+    0.     4.     16.    18.  
+    0.     0.     0.     4.   
+ 
+ 
+ 
+ D1  =
+ 
+    8.  
+ 
+ ans  =
+ 
+    8.  
+ 
+ D2  =
+ 
+    8.     1.   
+    16.    18.  
+ 
+ ans  =
+ 
+    128.  
+ 
+ D3  =
+ 
+    8.     1.     0.   
+    16.    18.    8.   
+    0.     4.     16.  
+ 
+ ans  =
+ 
+    1792.  
+ 
+ D4  =
+ 
+    8.     1.     0.     0.   
+    16.    18.    8.     1.   
+    0.     4.     16.    18.  
+    0.     0.     0.     4.   
+ 
+ ans  =
+ 
+    128.  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.2.2a/examplesec5_2_2a.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+               2    3   4   5  
+    6 + 4s + 2s + 2s + s + s   
+ 
+ ans  =
+ 
+    1                   2     4   
+    -                   -     -   
+    1                   1     1   
+                                  
+    1                   2     6   
+    -                   -     -   
+    1                   1     1   
+                                  
+    eps               - 2     0   
+    ---                 -     -   
+     1                  1     1   
+                                  
+    2 + 2eps            6     0   
+    --------            -     -   
+      eps               1     1   
+                                  
+                   2              
+  - 4 - 4eps - 6eps     0     0   
+    ---------------     -     -   
+       2 + 2eps         1     1   
+                                  
+    6                   0     0   
+    -                   -     -   
+    1                   1     1   
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.2.2b/examplesec5_2_2b.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ B  =
+ 
+                 2    3    4   5  
+    16 + 8s + 12s + 6s + 2s + s   
+ 
+ ans  =
+ 
+    1.           6.     8.   
+    2.           12.    16.  
+    8.           24.    0.   
+    6.           16.    0.   
+    2.6666667    0.     0.   
+    16.          0.     0.   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.2.2c/examplesec5_2_2c.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ p  =
+ 
+    p   
+ 
+ C  =
+ 
+               2    3   4   5  
+    5 + 3s + 2s + 2s + s + s   
+ 
+ 
+ 
+ 
+ 
+ C1  =
+ 
+              2    3    4    5  
+    1 + p + 2p + 2p + 3p + 5p   
+ 
+ ans  =
+ 
+    5.           2.           1.  
+    3.           2.           1.  
+  - 1.3333333  - 0.6666667    0.  
+    0.5          1.           0.  
+    2.           0.           0.  
+    1.           0.           0.  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.2.2d/examplesec5_2_2d.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ D  =
+ 
+              2    3    4    5    6  
+    1 + s + 2s + 3s + 3s + 2s + 2s   
+ 
+ ans  =
+ 
+    2                  3           2     1   
+    -                  -           -     -   
+    1                  1           1     1   
+                                             
+    2                  3           1     0   
+    -                  -           -     -   
+    1                  1           1     1   
+                                             
+    eps                1           1     0   
+    ---                -           -     -   
+     1                 1           1     1   
+                                             
+  - 2 + 3eps         - 2 + eps     0     0   
+    --------           -------     -     -   
+      eps                eps       1     1   
+                                             
+                  2                          
+  - 2 + 5eps - eps     1           0     0   
+    --------------     -           -     -   
+     - 2 + 3eps        1           1     1   
+                                             
+                2                            
+    - 2eps - eps       0           0     0   
+    --------------     -           -     -   
+                  2                          
+  - 2 + 5eps - eps     1           1     1   
+                                             
+    1                  0           0     0   
+    -                  -           -     -   
+    1                  1           1     1   
+ 
+ 
+ D1  =
+ 
+         2  
+    1 + s   
+ 
+ 
+ ans  =
+ 
+             2    3    4  
+    1 + s + s + 2s + 2s   
+    -------------------   
+             1            
+ 
+ D2  =
+ 
+             2    3    4  
+    1 + s + s + 2s + 2s   
+ 
+ ans  =
+ 
+    2           1     1   
+    -           -     -   
+    1           1     1   
+                          
+    2           1     0   
+    -           -     -   
+    1           1     1   
+                          
+    eps         1     0   
+    ---         -     -   
+     1          1     1   
+                          
+  - 2 + eps     0     0   
+    -------     -     -   
+      eps       1     1   
+                          
+    1           0     0   
+    -           -     -   
+    1           1     1   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.2/example5_2.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    k   
+ ans  =
+ 
+    1             4      k   
+    -             -      -   
+    1             1      1   
+                             
+    4             3      0   
+    -             -      -   
+    1             1      1   
+                             
+    13            4k     0   
+   ---           ---     -   
+    4             4      1   
+                             
+    156 - 64k     0      0   
+    ---------     -      -   
+       52         1      1   
+                             
+    k             0      0   
+    -             -      -   
+    1             1      1   
+ 
+ 0<k<2.4375   
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.3/example5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    k   
+ ans  =
+ 
+    1             4      k   
+    -             -      -   
+    1             1      1   
+                             
+    4             3      0   
+    -             -      -   
+    1             1      1   
+                             
+    13            4k     0   
+   ---           ---     -   
+    4             4      1   
+                             
+    156 - 64k     0      0   
+    ---------     -      -   
+       52         1      1   
+                             
+    k             0      0   
+    -             -      -   
+    1             1      1   
+ 
+ 0<k<39/16   
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.4/example5_4.sce #
+ 
+ 
+ 
+ 
+ z  =
+ 
+    z   
+ ans  =
+ 
+    1.     13.  
+    5.     21.  
+    8.8    0.   
+    21.    0.   
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.5/example5_5.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+             2   3  
+    1 - s + s + s   
+ ans  =
+ 
+    1.  - 1.  
+    1.    1.  
+  - 2.    0.  
+    1.    0.  
+ B  =
+ 
+              2   4  
+    2 - 2s - s + s   
+ ans  =
+ 
+    1                 - 1     2   
+    -                   -     -   
+    1                   1     1   
+                                  
+    eps               - 2     0   
+    ---                 -     -   
+     1                  1     1   
+                                  
+    2 - eps             2     0   
+    -------             -     -   
+      eps               1     1   
+                                  
+                   2              
+  - 4 + 2eps - 2eps     0     0   
+    ---------------     -     -   
+        2 - eps         1     1   
+                                  
+    2                   0     0   
+    -                   -     -   
+    1                   1     1   
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH5/EX5.6/example5_6.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    k   
+ ans  =
+ 
+    1                24     k   
+    -               ---     -   
+    1                1      1   
+                                
+    8                32     0   
+    -               ---     -   
+    1                1      1   
+                                
+    160              8k     0   
+    ---             ---     -   
+     8               8      1   
+                                
+    40960 - 512k     0      0   
+    ------------     -      -   
+        1280         1      1   
+                                
+    k                0      0   
+    -                -      -   
+    1                1      1   
+ 
+    80.  
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH10/EX10.1.1/examplesec10_1_1.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    1.  
+ 
+ K  =
+ 
+    2.  
+ 
+ F  =
+ 
+    2.  
+ 
+ A  =
+ 
+    0.    1.  
+  - 2.  - 2.  
+ 
+ C  =
+ 
+    1.    0.  
+    0.    1.  
+ 
+ s  =
+ 
+    s   
+ 
+ D  =
+ 
+    s   - 1       
+                  
+    2     2 + s   
+ 
+ X  =
+ 
+      3 + s      
+    ---------    
+              2  
+    2 + 2s + s   
+                 
+    - 2 + s      
+    ---------    
+              2  
+    2 + 2s + s   
+ 
+ 
+ 
+ X(t)=sqrt(5)*sin(t+inv(tan 0.5));sqrt(10)*sin(t+inv(tan -1/3))   
+ 
+ 
+ The system is asymptotically stable   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH10/EX10.3/example10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    9.    1.  - 2.  
+    1.    4.  - 1.  
+  - 2.  - 1.    1.  
+ 
+ ans  =
+ 
+    14.  
+ 
+ A1  =
+ 
+    9.    1.  
+    1.    4.  
+ 
+ ans  =
+ 
+    35.  
+ 
+ 
+ 
+ 
+ W is positive definite   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH10/EX10.4/example10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x2  =
+ 
+    x11   
+ 
+ 
+ 
+ W=x1^2+x2^2   
+ 
+ 
+ 
+ 
+ dW/dt=2*x1*x11+2*x2*x22=-2*(x2^2+x2^4)   
+ 
+ 
+ This will be negative semidefinite and therefore the system will be stable   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH11/EX11.6/example11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ F  =
+ 
+                2    3    4  
+    1 + 5z + 12z + 6z + 4z   
+ 
+ 
+ a0  =
+ 
+    1.  
+ 
+ a1  =
+ 
+    5.  
+ 
+ a2  =
+ 
+    12.  
+ 
+ a3  =
+ 
+    6.  
+ 
+ a4  =
+ 
+    4.  
+ 
+ 
+ b0  =
+ 
+    1.    4.  
+    4.    1.  
+ 
+ ans  =
+ 
+  - 15.  
+ 
+ b1  =
+ 
+    1.    6.  
+    4.    5.  
+ 
+ ans  =
+ 
+  - 19.  
+ 
+ b2  =
+ 
+    1.    12.  
+    4.    12.  
+ 
+ ans  =
+ 
+  - 36.  
+ 
+ b3  =
+ 
+    1.    5.  
+    4.    6.  
+ 
+ ans  =
+ 
+  - 14.  
+ 
+ 
+ c0  =
+ 
+  - 15.  - 14.  
+  - 14.  - 15.  
+ 
+ ans  =
+ 
+    29.  
+ 
+ c1  =
+ 
+  - 15.  - 36.  
+  - 14.  - 19.  
+ 
+ ans  =
+ 
+  - 219.  
+ 
+ c2  =
+ 
+  - 15.  - 19.  
+  - 14.  - 36.  
+ 
+ ans  =
+ 
+    274.  
+ 
+ 
+ 
+ det(a0)<det(a4)=satisfied   
+ 
+ 
+ det(b0)>det(b3)=satisfied   
+ 
+ 
+ det(c0)<det(c3)=not satisfied   
+ 
+ 
+ 
+ The system is unstable   
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH11/EX11.9.2a/examplesec11_9_2a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+         1        
+    -----------   
+           2   3  
+    2s + 3s + s   
+ 
+ G1  =
+ 
+ 
+       G1(1)
+ 
+    0.5   
+    ---   
+     s    
+ 
+       G1(2)
+ 
+    - 1     
+    -----   
+    1 + s   
+ 
+       G1(3)
+ 
+     0.5    
+    -----   
+    2 + s   
+ 
+ 
+ 
+ G2  =
+ 
+                                   2           
+            0.2939919z - 0.7991528z            
+    ---------------------------------------    
+                                       2    3  
+    0.1991483 + 2.2120072z + 6.0128589z + 4z   
+ 
+ 
+ B  =
+ 
+                      2   3  
+  - 0.5 + 0.85z - 1.3z + z   
+ 
+ 
+ 
+ 
+ B1  =
+ 
+                        2       3  
+    0.05 + 2.35r + 1.95r + 3.65r   
+ 
+ ans  =
+ 
+    3.65         2.35  
+    1.95         0.05  
+    2.2564103    0.    
+    0.05         0.    
+ 
+ 
+ The system is stable   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH11/EX11.9.2b/examplesec11_9_2b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+         5        
+    -----------   
+           2   3  
+    2s + 3s + s   
+ 
+ G1  =
+ 
+ 
+       G1(1)
+ 
+    2.5   
+    ---   
+     s    
+ 
+       G1(2)
+ 
+    - 5     
+    -----   
+    1 + s   
+ 
+       G1(3)
+ 
+     2.5    
+    -----   
+    2 + s   
+ 
+ 
+ 
+ G2  =
+ 
+                                   2           
+             1.4699594z - 3.995764z            
+    ----------------------------------------   
+                                       2    3  
+    0.1991483 + 2.2120072z + 6.0128589z + 4z   
+ 
+ 
+ B  =
+ 
+                        2   3  
+  - 0.496 + 2.49z - 0.5z + z   
+ 
+ 
+ 
+ r  =
+ 
+    r   
+ 
+ B1  =
+ 
+                     2      3  
+    2.5 + 0.5r - 2.5r + 3.5r   
+ 
+ ans  =
+ 
+    3.5    0.5  
+  - 2.5    2.5  
+    4.     0.   
+    2.5    0.   
+ 
+ 
+ The system is unstable   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH11/EX11.9.3/examplesec11_9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+    z   
+ 
+ G  =
+ 
+            2         
+           z          
+    ---------------   
+                   2  
+  - 0.5 - 1.75z + z   
+ 
+ A2  =
+ 
+                   2  
+  - 0.5 - 1.75z + z   
+    ---------------   
+            2         
+           z          
+ 
+ 
+ K2  =
+ 
+  - 0.5  
+ 
+ B2  =
+ 
+                    2  
+    1 - 1.75z - 0.5z   
+    ----------------   
+            2          
+           z           
+ 
+ 
+ A1  =
+ 
+  - 3.5 + z   
+    -------   
+       z      
+ 
+ 
+ K1  =
+ 
+  - 3.5  
+ 
+ 
+ 
+ The sytem is unstable   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.2/example15_2.sce #
+ 
+ 
+ 
+ 
+ x  =
+ 
+  - 2.  
+    0   
+ wn  =
+ 
+    1.4142136  
+ zeta  =
+ 
+    0.7071068  
+ wd  =
+ 
+    1.  
+ Dc  =
+ 
+    1.  
+ Tc  =
+ 
+    1.  
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.4/example15_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (J*s^2+B*s+K)theta(s)=H*w(s)   
+ 
+ 
+ 
+ theta(s)/w(s)=H/J*s^2+B*s+K   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.5/example15_5.sce #
+ 
+ 
+ 
+ 
+ G1  =
+ 
+          2       
+         s        
+    -----------   
+               2  
+    16 + 8s + s   
+ G2  =
+ 
+    1 + s    
+    -----    
+      3   4  
+    3s + s   
+ H1  =
+ 
+             2  
+    1 + s + s   
+    ---------   
+           2    
+     3s + s     
+ Tf  =
+ 
+                     2   3        
+          1 + 2s + 2s + s         
+    ---------------------------   
+        2      3     4     5   6  
+    144s + 168s + 73s + 14s + s   
+ 
+ Type of the system=   
+ 
+    2.  
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.6/example15_6.sce #
+ 
+ 
+ 
+ 
+ 
+ k1  =
+ 
+    100.  
+ 
+ k2  =
+ 
+    100.  
+ 
+ 
+ T1  =
+ 
+    100.  
+ 
+ 
+ T2  =
+ 
+    100.  
+ 
+ 
+ both transfer function are equal   
+ 
+ 
+ T11  =
+ 
+    0.01  
+ 
+ 
+ T12  =
+ 
+    0.1  
+ 
+ 
+ The system of fig 15.6 is 10 times more sensitive than system of fig 15.5 with respect to variations in k1   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.7/example15_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tf  =
+ 
+      1     
+    -----   
+    1 + s   
+ 
+ 
+ when O/R(jw)=0.707, w=wc   
+ 
+ 
+ wc  =
+ 
+    1.0006042  
+ 
+ 
+ 
+ 
+ Hence the bandwidth is 1 rad/sec   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.8/example15_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tf  =
+ 
+        6        
+    ---------    
+              2  
+    6 + 2s + s   
+ 
+ 
+ 
+ when O/R(jw)=6/sqrt(w^4-8*w+36)   
+ 
+ 
+ w  =
+ 
+    2.  - 2.  
+ 
+ 
+ 
+ when O/R(jw)=6/sqrt(w^4-8*w+36), At w=+-2   
+ 
+ 
+ peak  =
+ 
+    1.3416408  
+ 
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.12/example15_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+           2   3  
+    2z + 3z + z   
+ 
+ B  =
+ 
+              2  
+    2 + 3z + z   
+    ----------   
+        1        
+ 
+ ans  =
+ 
+  - 2.  
+  - 1.  
+ 
+ 
+ y(n)=z^n is solution of polynomial equation (z+2)*(z+1)=0   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.13/example15_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ wn=sqrt(k/J)=10^3*sqrt(k/5.5)   
+ 
+ 
+ zeta=sqrt(4.9*10^-3/k)   
+ 
+ 
+ k  =
+ 
+    0.00409  
+ 
+ 
+ zeta  =
+ 
+    0.5221749  
+ 
+ wn  =
+ 
+    52.223297  
+ 
+ wd  =
+ 
+    7.0884481  
+ 
+ 
+ Pwd  =
+ 
+    0.1410746  
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.14/example15_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Mil  =
+ 
+    0.00018  
+ 
+ 
+ 
+ Tr  =
+ 
+    40.  
+ 
+ 
+ 
+ til  =
+ 
+    0.00056  
+ 
+ 
+ 
+ Til  =
+ 
+    0.00076  
+ 
+ 
+ 
+ Mi  =
+ 
+    0.0000019  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.15/example15_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ J  =
+ 
+    0.107  
+ 
+ 
+ F  =
+ 
+    0.0255  
+ 
+ s  =
+ 
+    s   
+ 
+ 
+ wm1  =
+ 
+           2           
+    ---------------    
+                    2  
+    0.0255s + 0.107s   
+ 
+ 
+ 
+ 
+ wm2  =
+ 
+    32.391228  
+ 
+ 
+ 
+ 
+ 
+ 
+ Nl  =
+ 
+    3.0931344  
+ 
+ 
+ 
+ Nos  =
+ 
+    3.3506304  
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.26/example15_26.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    5.  - 6.  - 12.  
+  - 1.    1.    2.   
+    5.  - 6.  - 11.  
+ B  =
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ s  =
+ 
+    s   
+ C  =
+ 
+  - 5 + s     6         12       
+                                 
+    1       - 1 + s   - 2        
+                                 
+  - 5         6         11 + s   
+ ans  =
+ 
+    1.     5.  
+    5.     1.  
+    4.8    0.  
+    1.     0.  
+ 
+ No sign change in the first column, hence the system is asymptotically stable   
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.27/example15_27.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.    0.  
+    0.    1.  
+ B  =
+ 
+    1.  
+    1.  
+ Wc  =
+ 
+    1.    1.  
+    1.    1.  
+ 
+ The rank of Wc=(1*1-1*1)=0,and not equal to 2. Thus the given system is not reachable    
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.28/example15_28.sce #
+ 
+ 
+ 
+ 
+ 
+ z  =
+ 
+    z   
+ ans  =
+ 
+    1.           8.    
+    6.         - 0.04  
+    8.0066667    0.    
+  - 0.04         0.    
+ 
+ There is sign change in the first column, hence the system is unstable   
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.31/example15_31.sce #
+ 
+ 
+ 
+ 
+ x  =
+ 
+    7.    5.    1.  
+ wn  =
+ 
+    2.6457513  
+ zeta  =
+ 
+    0.9449112  
+ wd  =
+ 
+    0.8660254  
+ Tc  =
+ 
+    0.4  
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.33/example15_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x2  =
+ 
+    x11   
+ 
+ 
+ x22+x2+x2^3+x1=0   
+ 
+ 
+ 
+ V=x1^2+x2^2   
+ 
+ 
+ 
+ 
+ dV/dt=2*x1*x2-2*x1*x2-2*x2^2-2*x2^4=-2*x2^2-2*x2^4   
+ 
+ 
+ dV/dt will never be positive hence origin is stable   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.34/example15_34.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ A  =
+ 
+    1.  
+ 
+ B  =
+ 
+    1 + s   
+ 
+ tf  =
+ 
+      1     
+    -----   
+    1 + s   
+ 
+ 
+ 
+ when A/B(jw)=1/sqrt(2), w=w1   
+ 
+ 
+ w1  =
+ 
+    1.0006042  
+ 
+ 
+ 
+ 
+ Hence the bandwidth is 1 rad/sec   
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.38/example15_38.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ G  =
+ 
+              2    3   4  
+  - 1 - 2s + s + 2s + s   
+ 
+ ans  =
+ 
+  - 1.2071068 + 0.9783183i  
+  - 1.2071068 - 0.9783183i  
+    0.8832035               
+  - 0.4689899               
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.43/example15_43.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    2.         
+    1.0000002  
+    0.9999998  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.44/example15_44.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+  - s   - 1       
+                  
+    2     3 - s   
+ 
+ 
+ H1  =
+ 
+ 
+       H1(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       H1(2) = A matrix = 
+ 
+    0.  - 1.  
+    2.    3.  
+ 
+       H1(3) = B matrix = 
+ 
+    0.  
+    1.  
+ 
+       H1(4) = C matrix = 
+ 
+    1.    1.  
+ 
+       H1(5) = D matrix = 
+ 
+    0.  
+ 
+       H1(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+ 
+       H1(7) = Time domain = 
+ 
+     []
+ 
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.45/example15_45.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.    0.    0.  
+    0.    2.    0.  
+    0.    0.    3.  
+ 
+WARNING: Feature mvvacov is obsolete.
+         Please use cov instead.
+         This feature will be permanently removed in Scilab 6.0.0
+
+ ans  =
+ 
+    0.2222222  - 0.2222222  - 0.3333333  
+  - 0.2222222    0.8888889  - 0.6666667  
+  - 0.3333333  - 0.6666667    2.         
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.53/example15_53.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ 
+ A  =
+ 
+           1           
+    ---------------    
+                2   3  
+    6 + 11s + 6s + s   
+ 
+ B  =
+ 
+ 
+       B(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       B(2) = A matrix = 
+ 
+    0.     1.      0.  
+    0.     0.      4.  
+  - 1.5  - 2.75  - 6.  
+ 
+       B(3) = B matrix = 
+ 
+    0.  
+    0.  
+    1.  
+ 
+       B(4) = C matrix = 
+ 
+    0.25    0.    0.  
+ 
+       B(5) = D matrix = 
+ 
+    0.  
+ 
+       B(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       B(7) = Time domain = 
+ 
+     []
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.57/example15_57.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    s   
+ 
+ 
+ 
+ 
+ B  =
+ 
+    10.    2.    1.  
+ 
+ 
+ wn  =
+ 
+    3.1622777  
+ 
+ 
+ zeta  =
+ 
+    0.5623413  
+ 
+ 
+ ess  =
+ 
+    0.  
+ 
+ 
+ zeta1  =
+ 
+    0.65  
+ 
+ k0  =
+ 
+    2.110961  
+ 
+ 
+grepthis#Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.59/example15_59.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+         5        
+    -----------   
+           2   3  
+    10 + 6s + s   
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    0.5  
+ 
+ 
+ 

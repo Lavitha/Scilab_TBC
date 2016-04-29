@@ -1,0 +1,1425 @@
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH1/EX1.7/1_7.sce #
+ 
+[2J[0;0H 
+ n  =
+ 
+    4.  
+ 
+ Zo  =
+ 
+    50.  
+ 
+ 
+ 
+ R  =
+ 
+    30.  
+ 
+ 
+Value of the matching resistor = 30 ohm 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH1/EX1.8/1_8.sce #
+ 
+[2J[0;0H 
+ n  =
+ 
+    3.  
+ 
+ Zo  =
+ 
+    50.  
+ 
+ Van  =
+ 
+    0.0001  
+ 
+ 
+ 
+ R  =
+ 
+    25.  
+ 
+ V  =
+ 
+    0.0000167  
+ 
+ 
+(a) Value of the matching resistor = 25 ohm
+
+
+ 
+(b) Voltage at receiver input terminal = 16.667 uV 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.11/3_11.sce #
+ 
+[2J[0;0H 
+ Zs  =
+ 
+    50.  
+ 
+ Zl  =
+ 
+    100.  
+ 
+ 
+ 
+ Z0  =
+ 
+    70.710678  
+ 
+ 
+ 
+ Z0t  =
+ 
+    1.4142136  
+ 
+ Z0t2  =
+ 
+    60.  
+ 
+ Z0t1  =
+ 
+    84.852814  
+ 
+ 
+ 
+ x  =
+ 
+    0.6    0.8    1.    1.2    1.4  
+ 
+ y  =
+ 
+  - 13.83  - 19.28  - 60.  - 19.28  - 13.83  
+ 
+ 
+ x1  =
+ 
+    0.6    0.8    1.    1.2    1.4  
+ 
+ y1  =
+ 
+  - 18.81  - 32.09  - 38.69  - 32.09  - 18.81  
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["one h/4";"Two h/4"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+(a) Matching network using one λ/4 transformer,
+	 Z0 = 70.71 ohm
+
+ 
+(b) Matching network using two λ/4 transformers,
+ Ratio of Z0t1 and Z0t2 = 1.414
+ 
+If I choose a value of 60 ohm for Z0t2, then Z0t1 = 84.85 ohm
+
+ 
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.15/3_15.sce #
+ 
+[2J[0;0H 
+ 
+ zo  =
+ 
+    50.  
+ 
+ zl  =
+ 
+    50.  
+ 
+ 
+ 
+ z1  =
+ 
+    100.  
+ 
+ s11  =
+ 
+    0.3333333  
+ 
+ z2  =
+ 
+    100.  
+ 
+ s22  =
+ 
+    0.3333333  
+ 
+ s21  =
+ 
+    0.6666667  
+ 
+ s12  =
+ 
+    0.6666667  
+ 
+ 
+ s  =
+ 
+    0.3333333    0.6666667  
+    0.6666667    0.3333333  
+ 
+ 
+s11 (magnitude) = 0.333 
+	(angle) = 0 degree
+
+ 
+s12 (magnitude) = 0.667 
+	(angle) = 0 degree
+
+ 
+s21 (magnitude) = 0.667 
+	(angle) = 0 degree
+
+ 
+s22 (magnitude) = 0.333 
+	(angle) = 0 degree
+
+ 
+ 
+ S =    
+ 
+    0.3333333    0.6666667  
+    0.6666667    0.3333333  
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.16/3_16.sce #
+ 
+[2J[0;0H 
+ 
+ zo  =
+ 
+    50.  
+ 
+ zl  =
+ 
+    50.  
+ 
+ 
+ 
+ z1  =
+ 
+    25.  
+ 
+ s11  =
+ 
+  - 0.3333333  
+ 
+ z2  =
+ 
+    25.  
+ 
+ s22  =
+ 
+  - 0.3333333  
+ 
+ s21  =
+ 
+    0.6666667  
+ 
+ s12  =
+ 
+    0.6666667  
+ 
+ 
+ s  =
+ 
+  - 0.3333333    0.6666667  
+    0.6666667  - 0.3333333  
+ 
+ 
+s11 (magnitude) = 0.333 
+	(angle) = 180 degree
+
+ 
+s12 (magnitude) = 0.667 
+	(angle) = 0 degree
+
+ 
+s21 (magnitude) = 0.667 
+	(angle) = 0 degree
+
+ 
+s22 (magnitude) = 0.333 
+	(angle) = 180 degree
+
+ 
+ 
+ S (magnitude) =    
+ 
+  - 0.3333333    0.6666667  
+    0.6666667  - 0.3333333  
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH3/EX3.17/3_17.sce #
+ 
+[2J[0;0H 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ zo  =
+ 
+    50.  
+ 
+ zl  =
+ 
+    50.  
+ 
+ r1  =
+ 
+    30.  
+ 
+ zai  =
+ 
+    20.i  
+ 
+ za  =
+ 
+    18.75  
+ 
+ z1  =
+ 
+    18.75 + 20.i  
+ 
+ s11  =
+ 
+  - 0.3410546 + 0.3901250i  
+ 
+ z2  =
+ 
+    19.411765 + 2.6470588i  
+ 
+ s22  =
+ 
+  - 0.4385858 + 0.0548613i  
+ 
+ s21  =
+ 
+    0.5028955 - 0.1462969i  
+ 
+ s12  =
+ 
+    0.5028955 - 0.1462969i  
+ 
+ 
+ 
+ s11a  =
+ 
+    131.16056  
+ s11m  =
+ 
+    0.518185  
+ 
+ s22a  =
+ 
+    172.87008  
+ s22m  =
+ 
+    0.4420037  
+ 
+ s21a  =
+ 
+  - 16.220194  
+ s21m  =
+ 
+    0.5237429  
+ 
+ s12a  =
+ 
+  - 16.220194  
+ s12m  =
+ 
+    0.5237429  
+ 
+ 
+ ret_loss  =
+ 
+    5.7103032  
+ 
+ ins_loss  =
+ 
+    5.6176372  
+ 
+ 
+(a) S parameters is , 
+ 
+s11 (magnitude) = 0.518 
+	(angle) = 131.16 degree
+
+ 
+s12 (magnitude) = 0.524 
+	(angle) = -16.22 degree
+
+ 
+s21 (magnitude) = 0.524 
+	(angle) = -16.22 degree
+
+ 
+s22 (magnitude) = 0.442 
+	(angle) = 172.87 degree
+
+ 
+(b) Return loss = 5.710 dB
+
+ 
+(c) Insertion loss = 5.618 dB
+
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH5/EX5.21/5_21.sce #
+ 
+[2J[0;0H 
+ Rp  =
+ 
+    500.  
+ 
+ Rs  =
+ 
+    50.  
+ 
+ f  =
+ 
+    1.000D+08  
+ 
+ 
+ w  =
+ 
+    6.283D+08  
+ 
+ Qs  =
+ 
+    3.  
+ 
+ Ls  =
+ 
+    0.0000002  
+ 
+ Xs  =
+ 
+    150.  
+ 
+ Ca  =
+ 
+    1.061D-11  
+ 
+ Lp  =
+ 
+    0.0000003  
+ 
+Capacitor Ca = 10.61 pF
+
+Inductor Lp = 265.26 nH 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH5/EX5.22/5_22.sce #
+ 
+[2J[0;0H 
+ f  =
+ 
+    1.000D+08  
+ 
+ Rs  =
+ 
+    50.  
+ 
+ Csh  =
+ 
+    4.200D-11  
+ 
+ Rl  =
+ 
+    500.  
+ 
+ Rp  =
+ 
+    500.  
+ 
+ 
+ 
+ w  =
+ 
+    6.283D+08  
+ 
+ Qs  =
+ 
+    3.  
+ 
+ Ls  =
+ 
+    0.0000002  
+ 
+ Xs  =
+ 
+    150.  
+ 
+ Ca  =
+ 
+    1.061D-11  
+ 
+ Lp  =
+ 
+    0.0000003  
+ 
+ 
+ L  =
+ 
+    6.031D-08  
+ 
+ Lcom  =
+ 
+    4.914D-08  
+ 
+ 
+Matching network component value are,
+ Ca = 10.6 pF 
+ L (combined) = 49 nH
+
+ 
+ 
+ For the final network, shown in figure 5.61   
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH5/EX5.23/5_23.sce #
+ 
+[2J[0;0H 
+ Rs  =
+ 
+    100.  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ Q  =
+ 
+    15.  
+ 
+ 
+ 
+ Rv  =
+ 
+    4.4247788  
+ 
+ Xp2  =
+ 
+    66.666667  
+ 
+ Xs2  =
+ 
+    66.371681  
+ 
+ Q1  =
+ 
+    4.64758  
+ 
+ Xp1  =
+ 
+    21.516574  
+ 
+ Xs1  =
+ 
+    20.564513  
+ 
+ 
+Zs = 100 ohm
+Xp1 = 21.517 ohm 
+Xs1 = 20.565 ohm
+ 
+Xs2 = 66.372 ohm
+ Xp2 = 66.667 ohm
+ Zl = 1000 ohm
+
+ 
+ 
+ Four types of matching network is shown in figure 5.66, 5.67, 5.68, 5.69.   
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH5/EX5.24/5_24.sce #
+ 
+[2J[0;0H 
+ Rs  =
+ 
+    10.  
+ 
+ Rl  =
+ 
+    50.  
+ 
+ Q  =
+ 
+    10.  
+ 
+ 
+ 
+ Rv  =
+ 
+    1010.  
+ 
+ Xs1  =
+ 
+    100.  
+ 
+ Xp1  =
+ 
+    101.  
+ 
+ Q2  =
+ 
+    4.3817805  
+ 
+ Xp2  =
+ 
+    230.49991  
+ 
+ Xs2  =
+ 
+    219.08902  
+ 
+ 
+Zs = 10 ohm
+Xp1 = 101.000 ohm 
+Xs1 = 100.000 ohm
+ 
+Xs2 = 219.089 ohm
+ Xp2 = 230.500 ohm
+ Zl = 50 ohm
+
+ 
+ 
+ Four types of matching network is shown in figure 5.66, 5.67, 5.68, 5.69.   
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH6/EX6.7/6_7.sce #
+ 
+[2J[0;0H 
+ vcc  =
+ 
+    24.  
+ 
+ vds  =
+ 
+    10.  
+ 
+ id  =
+ 
+    0.005  
+ 
+ vgs  =
+ 
+    2.3  
+ 
+ vs  =
+ 
+    2.3  
+ 
+ vp  =
+ 
+  - 8.  
+ 
+ idss  =
+ 
+    0.01  
+ 
+ 
+ 
+ rs  =
+ 
+    460.  
+ 
+ vd  =
+ 
+    12.3  
+ 
+ rd  =
+ 
+    2340.  
+ 
+ vgs  =
+ 
+  - 2.3431458  
+ 
+ 
+ 
+ Since IG = 0, RG = 1 Mohm (approx)   
+ 
+Rs = 460.00 ohm
+Rd = 2340.00 ohm
+
+ 
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH7/EX7.1/7_1.sce #
+ 
+[2J[0;0H 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ s11  =
+ 
+  - 0.2819078 + 0.1026060i  
+ 
+ s12  =
+ 
+    0.0140841 + 0.0264884i  
+ 
+ s21  =
+ 
+    2.5779714 + 5.5284775i  
+ 
+ s22  =
+ 
+    0.3152043 - 0.2462646i  
+ 
+ R  =
+ 
+    50.  
+ 
+ f  =
+ 
+    1.500D+08  
+ 
+ vce  =
+ 
+    12.  
+ 
+ ic  =
+ 
+    0.008  
+ 
+ 
+ Ds  =
+ 
+    0.0465418 - 0.0443845i  
+ 
+ Dang  =
+ 
+  - 43.64086  
+ Dmag  =
+ 
+    0.0643127  
+ 
+ s11a  =
+ 
+    160.  
+ s11m  =
+ 
+    0.3  
+ 
+ s22a  =
+ 
+  - 38.  
+ s22m  =
+ 
+    0.4  
+ 
+ s21a  =
+ 
+    65.  
+ s21m  =
+ 
+    6.1  
+ 
+ s12a  =
+ 
+    62.  
+ s12m  =
+ 
+    0.03  
+ 
+ K  =
+ 
+    2.0604812  
+ 
+ B1  =
+ 
+    0.9258639  
+ 
+ MAG  =
+ 
+    17.213928  
+ 
+ C2  =
+ 
+    0.3328789 - 0.2540015i  
+ 
+ C2a  =
+ 
+  - 37.345246  
+ C2m  =
+ 
+    0.4187184  
+ 
+ B2  =
+ 
+    1.0658639  
+ 
+ reflm  =
+ 
+    0.4854056  
+ 
+ refla  =
+ 
+    37.345246  
+ 
+ refl  =
+ 
+    0.3858949 + 0.2944550i  
+ 
+ refs  =
+ 
+  - 0.3879665 - 0.1326426i  
+ 
+ refsa  =
+ 
+  - 161.12485  
+ refsm  =
+ 
+    0.4100147  
+ 
+ 
+ 
+ y  =
+ 
+    1.33  
+ 
+ r  =
+ 
+    0.34  
+ 
+ C1  =
+ 
+    2.822D-11  
+ 
+ L1  =
+ 
+    1.804D-08  
+ 
+ 
+ 
+ y1  =
+ 
+    0.8  
+ 
+ r1  =
+ 
+    1.1  
+ 
+ C2  =
+ 
+    1.929D-11  
+ 
+ L2  =
+ 
+    6.631D-08  
+ 
+ 
+For input matching network,
+
+ 
+C1 = 28.22 pF
+ 
+L1 = 18.04 nH
+
+ 
+For output matching network,
+
+ 
+C2 = 19.29 pF
+ 
+L2 = 66.31 nH
+
+ 
+The completed design (minus biasing network) is shown in Figure 7.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH7/EX7.5/7_5.sce #
+ 
+[2J[0;0H 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ s11  =
+ 
+    0.1483774 - 0.2374535i  
+ 
+ s12  =
+ 
+  - 0.0027920 + 0.0799513i  
+ 
+ s21  =
+ 
+    0.8874983 + 1.9032464i  
+ 
+ s22  =
+ 
+    0.6928203 - 0.4i  
+ 
+ f  =
+ 
+    1.000D+09  
+ 
+ vce  =
+ 
+    15.  
+ 
+ ic  =
+ 
+    0.005  
+ 
+ Zs  =
+ 
+    35. - 60.i  
+ 
+ Zl  =
+ 
+    50. - 50.i  
+ 
+ K  =
+ 
+    1.168  
+ 
+ g  =
+ 
+    7.94  
+ 
+ R  =
+ 
+    50.  
+ 
+ 
+ s11a  =
+ 
+  - 58.  
+ s11m  =
+ 
+    0.28  
+ 
+ s22a  =
+ 
+  - 30.  
+ s22m  =
+ 
+    0.8  
+ 
+ s21a  =
+ 
+    65.  
+ s21m  =
+ 
+    2.1  
+ 
+ s12a  =
+ 
+    92.  
+ s12m  =
+ 
+    0.08  
+ 
+ 
+ Ds  =
+ 
+    0.1624623 - 0.2895064i  
+ 
+ Dsa  =
+ 
+  - 60.700165  
+ Dsm  =
+ 
+    0.3319758  
+ 
+ D2  =
+ 
+    0.5297921  
+ 
+ C2  =
+ 
+    0.5999703 - 0.3956210i  
+ 
+ G  =
+ 
+    1.8004535  
+ 
+ ro  =
+ 
+    0.5528622 + 0.3645579i  
+ 
+ po  =
+ 
+    0.317529  
+ 
+ 
+ 
+ r  =
+ 
+    2.  
+ 
+ y  =
+ 
+    0.4  
+ 
+ C1  =
+ 
+    1.592D-12  
+ 
+ L1  =
+ 
+    1.989D-08  
+ 
+ 
+ 
+ refl  =
+ 
+    0.7989835 + 0.1844599i  
+ 
+ refs  =
+ 
+  - 0.1133161 + 0.0385787i  
+ 
+ refsa  =
+ 
+    161.19876  
+ refsm  =
+ 
+    0.1197032  
+ 
+ 
+ 
+ 
+ y1  =
+ 
+    0.63  
+ 
+ r1  =
+ 
+    1.08  
+ 
+ y2  =
+ 
+    2.15  
+ 
+ 
+ C2  =
+ 
+    2.005D-12  
+ 
+ L2  =
+ 
+    8.594D-09  
+ 
+ C3  =
+ 
+    6.844D-12  
+ 
+ 
+For output matching network,
+
+ 
+C1 = 1.59 pF
+ 
+L1 = 19.9 nH
+
+ 
+For input matching network,
+
+ 
+C2 = 2.0 pF
+ 
+L2 = 8.6 nH
+
+ 
+C3 = 6.8 pF
+ 
+The completed design (minus biasing network) is shown in Figure 7.7 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH7/EX7.7/7_7.sce #
+ 
+[2J[0;0H 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ s11  =
+ 
+    0.0694593 - 0.3939231i  
+ 
+ s12  =
+ 
+    0.0202857 + 0.0435028i  
+ 
+ s21  =
+ 
+  - 1.2147357 + 5.2615983i  
+ 
+ s22  =
+ 
+    0.7534221 - 0.2018789i  
+ 
+ f  =
+ 
+    2.000D+08  
+ 
+ vce  =
+ 
+    6.  
+ 
+ ic  =
+ 
+    0.005  
+ 
+ 
+ s11a  =
+ 
+  - 80.  
+ s11m  =
+ 
+    0.4  
+ 
+ s22a  =
+ 
+  - 15.  
+ s22m  =
+ 
+    0.78  
+ 
+ s21a  =
+ 
+    103.  
+ s21m  =
+ 
+    5.4  
+ 
+ s12a  =
+ 
+    65.  
+ s12m  =
+ 
+    0.048  
+ 
+ 
+ Ds  =
+ 
+    0.2263433 - 0.3647035i  
+ 
+ Dang  =
+ 
+  - 58.17532  
+ Dmag  =
+ 
+    0.4292317  
+ 
+ K  =
+ 
+    0.8021603  
+ 
+ C1  =
+ 
+  - 0.1746987 - 0.1648414i  
+ 
+ C1a  =
+ 
+  - 136.66291  
+ C1m  =
+ 
+    0.2401922  
+ 
+ C2  =
+ 
+    0.5940354 - 0.2657087i  
+ 
+ C2a  =
+ 
+  - 24.098697  
+ C2m  =
+ 
+    0.6507527  
+ 
+ rs1  =
+ 
+    7.2070752 - 6.8004184i  
+ 
+ rs1a  =
+ 
+  - 43.337092  
+ rs1m  =
+ 
+    9.9089668  
+ 
+ ps1  =
+ 
+    10.45945 - 2.2232247i  
+ 
+ ps1a  =
+ 
+  - 12.  
+ ps1m  =
+ 
+    10.69312  
+ 
+ 
+ rs2  =
+ 
+    1.400498 + 0.6264348i  
+ 
+ rs2a  =
+ 
+    24.098697  
+ rs2m  =
+ 
+    1.5342148  
+ 
+ ps2  =
+ 
+  - 0.5977362 + 0.1270528i  
+ 
+ ps2a  =
+ 
+    168.  
+ ps2m  =
+ 
+    0.6110900  
+ 
+ 
+Centre of input stability circle (magnitude) = 9.909 
+				(angle) = -43.34 degree
+ 
+Radius of input  stability circle = 10.69 
+
+ 
+Centre of output stability circle (magnitude) = 1.534 
+				(angle) = 24.10 degree
+ 
+Radius of output  stability circle = 0.61 
+
+ 
+Using these points, plotting a circle on smith chart as shown on Fig 7.9,
+,with the help of these we will get
+ 
+load reflection coefficient = 0.89 (magnitude) , 70 (degree)
+ Source reflection coefficient = 0.678 (magnitude), 79.4 (degree) 
+ 
+grepthis#High_Frequency_And_Microwave_Engineering_E._Da_Silva_2210/CH7/EX7.10/7_10.sce #
+ 
+[2J[0;0H 
+ ans  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ s11  =
+ 
+  - 0.3380740 + 0.0905867i  
+ 
+ s12  =
+ 
+    0.0185472 + 0.0296817i  
+ 
+ s21  =
+ 
+    2.3997462 + 5.3899182i  
+ 
+ s22  =
+ 
+    0.3942970 - 0.2369175i  
+ 
+ refs  =
+ 
+  - 0.5358473 + 0.4186498i  
+ 
+ f  =
+ 
+    3.000D+08  
+ 
+ vce  =
+ 
+    12.  
+ 
+ ic  =
+ 
+    0.004  
+ 
+ s11a  =
+ 
+    165.  
+ s11m  =
+ 
+    0.35  
+ 
+ s22a  =
+ 
+  - 31.  
+ s22m  =
+ 
+    0.46  
+ 
+ s21a  =
+ 
+    66.  
+ s21m  =
+ 
+    5.9  
+ 
+ s12a  =
+ 
+    58.  
+ s12m  =
+ 
+    0.035  
+ 
+ 
+ Ds  =
+ 
+    0.0036333 - 0.0553826i  
+ 
+ Dang  =
+ 
+  - 86.246526  
+ Dmag  =
+ 
+    0.0555016  
+ 
+ K  =
+ 
+    1.6198073  
+ 
+ 
+ y  =
+ 
+    1.65  
+ 
+ r  =
+ 
+    0.85  
+ 
+ y1  =
+ 
+    0.62  
+ 
+ r1  =
+ 
+    1.2  
+ 
+ R  =
+ 
+    50.  
+ 
+ 
+ 
+ C1  =
+ 
+    1.751D-11  
+ 
+ L1  =
+ 
+    2.255D-08  
+ 
+ 
+ refl  =
+ 
+  - 0.3153721 + 0.0294104i  
+ 
+ 
+ 
+ 
+ C2  =
+ 
+    8.842D-12  
+ 
+ L2  =
+ 
+    4.278D-08  
+ 
+ 
+For input matching network,
+
+ 
+C1 = 17.51 pF
+ 
+L1 = 22.55 nH
+
+ 
+For output matching network,
+
+ 
+C2 = 8.84 pF
+ 
+L2 = 42.78 nH
+
+ 
+The completed design is shown in Figure 7.12 
+ 

@@ -1,0 +1,10969 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 145
+
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH1/EX1.1/Chapter1_example1.sce #
+ 
+ 
+ 
+ BHP  =
+ 
+    51.  
+ 
+ N  =
+ 
+    1000.  
+ 
+ FHP  =
+ 
+    17.  
+ 
+ 
+ 
+ IHP  =
+ 
+    68.  
+ 
+ mn  =
+ 
+    75.  
+ 
+ 
+ 
+Mechanical efficiency of the engine is 75 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH1/EX1.2/Chapter1_example2.sce #
+ 
+ 
+ 
+ BHP  =
+ 
+    51.  
+ 
+ N  =
+ 
+    1000.  
+ 
+ FHP  =
+ 
+    17.  
+ 
+ 
+ O1  =
+ 
+    25.5  
+ 
+ O2  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ IHP1  =
+ 
+    42.5  
+ 
+ mn1  =
+ 
+    60.  
+ 
+ 
+ 
+ IHP2  =
+ 
+    27.  
+ 
+ mn2  =
+ 
+    37.037037  
+ 
+ 
+ 
+ 
+Mechanical efficiency of the engine when it delivers 
+ (a) Half the b.h.p output is  60 percent 
+ (b) 10 b.h.p is  37 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH1/EX1.3/Chapter1_example3.sce #
+ 
+ 
+ 
+ Fc  =
+ 
+    220.  
+ 
+ CV  =
+ 
+    10600.  
+ 
+ 
+ 
+ hf  =
+ 
+    2332.  
+ 
+ O  =
+ 
+    632.  
+ 
+ bn  =
+ 
+    27.101201  
+ 
+ 
+ 
+Brake thermal efficiency is 27.1 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH1/EX1.4/Chapter1_example4.sce #
+ 
+ 
+ 
+ IHP  =
+ 
+    45.  
+ 
+ Fc  =
+ 
+    13.  
+ 
+ g  =
+ 
+    0.8  
+ 
+ nm  =
+ 
+    80.  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ 
+ 
+ BHP  =
+ 
+    36.  
+ 
+ hi  =
+ 
+    104000.  
+ 
+ In  =
+ 
+    27.359935  
+ 
+ Bn  =
+ 
+    21.887948  
+ 
+ 
+ 
+Indicated thermal efficiency is 27.36 percent 
+ Brake thermal efficiency is 21.89 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH1/EX1.5/Chapter1_example5.sce #
+ 
+ 
+ 
+ BHP  =
+ 
+    15.  
+ 
+ In  =
+ 
+    28.  
+ 
+ mn  =
+ 
+    75.  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ 
+ 
+ Bn  =
+ 
+    21.  
+ 
+ I  =
+ 
+    45165.607  
+ 
+ Fc  =
+ 
+    4.5165607  
+ 
+ 
+ 
+Fuel consumption of the engine is 4.52 kg/hr 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.10/Chapter3_example10.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    353.  
+ 
+ r  =
+ 
+    14.  
+ 
+ p4  =
+ 
+    2.7  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ p2  =
+ 
+    40.232707  
+ 
+ s  =
+ 
+    7.9454191  
+ 
+ T2  =
+ 
+    1014.439  
+ 
+ T3  =
+ 
+    2062.2575  
+ 
+ q  =
+ 
+    251.47645  
+ 
+ 
+ 
+(a) The maximum pressure attained during the cycle is 40.2 kg/cm^2 
+ (b) The percentage of working stroke at which the heat supply to the working fluid ceases is 7.95 percent 
+ (c) The heat received per kg of woring substance during the cycle is 251 kcal/kg 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.11/Chapter3_example11.sce #
+ 
+ 
+ d  =
+ 
+    0.25  
+ 
+ L  =
+ 
+    0.35  
+ 
+ Cv  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    5.  
+ 
+ a  =
+ 
+    1.4  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Vs  =
+ 
+    0.0171719  
+ 
+ r  =
+ 
+    12.447917  
+ 
+ k  =
+ 
+    1.5723958  
+ 
+ na  =
+ 
+    60.739617  
+ 
+ 
+ 
+The air standard efficiency of the engine is 60.7 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.12/Chapter3_example12.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.2  
+ 
+ L  =
+ 
+    0.4  
+ 
+ r  =
+ 
+    13.5  
+ 
+ a  =
+ 
+    1.42  
+ 
+ s  =
+ 
+    5.1  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Vs  =
+ 
+    1.256D-08  
+ 
+ Vc  =
+ 
+    9.304D-10  
+ 
+ k  =
+ 
+    1.6885  
+ 
+ ASE  =
+ 
+    61.37952  
+ 
+ 
+ 
+The air standard efficiency of the engine is 61.4 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.13/Chapter3_example13.sce #
+ 
+ 
+ 
+ x  =
+ 
+    0.6666667    0.3333333  
+ 
+ r  =
+ 
+    13.  
+ 
+ p3  =
+ 
+    43.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ g  =
+ 
+    1.41  
+ 
+ 
+ 
+ T2  =
+ 
+    824.34548  
+ 
+ p2  =
+ 
+    37.210039  
+ 
+ T3  =
+ 
+    952.61538  
+ 
+ q23  =
+ 
+    21.805883  
+ 
+ q34  =
+ 
+    10.902942  
+ 
+ T4  =
+ 
+    998.04431  
+ 
+ T5  =
+ 
+    355.40887  
+ 
+ na  =
+ 
+    64.965088  
+ 
+ T  =
+ 
+    15.    551.34548    679.61538    725.04431    82.40887  
+ 
+ 
+ 
+(a) The temperature at the five cardinal points of the cycle are : 
+ point 1 is  15 degree C 
+ point 2 is 551 degree C 
+ point 3 is 680 degree C 
+ point 4 is 725.0 degree C 
+ point 5 is  82 degree C 
+
+ (b) The ideal thermal efficiency of the cycle is 65.0 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.14/Chapter3_example14.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    373.  
+ 
+ r  =
+ 
+    10.  
+ 
+ p3  =
+ 
+    70.  
+ 
+ q  =
+ 
+    400.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ g  =
+ 
+    1.41  
+ 
+ 
+ 
+ T2  =
+ 
+    958.75763  
+ 
+ p2  =
+ 
+    25.703958  
+ 
+ T3  =
+ 
+    2611.  
+ 
+ qv  =
+ 
+    280.8812  
+ 
+ qp  =
+ 
+    119.1188  
+ 
+ T4  =
+ 
+    3107.3283  
+ 
+ k  =
+ 
+    1.1900913  
+ 
+ T5  =
+ 
+    1298.3  
+ 
+ qv2  =
+ 
+    157.301  
+ 
+ W  =
+ 
+    242.699  
+ 
+ na  =
+ 
+    60.67475  
+ 
+ 
+ 
+The temperature at the five cardinal points of the cycle are : 
+ point 1 is 373 K 
+ point 2 is 959 K 
+ point 3 is 2611 K 
+ point 4 is 3107 K 
+ point 5 is 1298 K 
+
+ The air standard efficiency of the engine is 60.7 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.15/Chapter3_example15.sce #
+ 
+ 
+ 
+ r  =
+ 
+    12.  
+ 
+ p1  =
+ 
+    0.955  
+ 
+ T1  =
+ 
+    358.  
+ 
+ p3  =
+ 
+    55.  
+ 
+ x  =
+ 
+    0.0333333  
+ 
+ Cp  =
+ 
+    0.238  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    967.28739  
+ 
+ p2  =
+ 
+    30.964004  
+ 
+ T3  =
+ 
+    1718.1501  
+ 
+ T4  =
+ 
+    2377.8238  
+ 
+ T5  =
+ 
+    983.91128  
+ 
+ qs  =
+ 
+    284.649  
+ 
+ qre  =
+ 
+    106.40492  
+ 
+ W  =
+ 
+    178.24408  
+ 
+ an  =
+ 
+    62.618903  
+ 
+ 
+ 
+The wordone per kg of air is 178.24 kcal 
+ The ideal thermal efficiency is 62.6 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.16/Chapter3_example16.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    323.  
+ 
+ v  =
+ 
+    0.0714286  
+ 
+ x  =
+ 
+    2.  
+ 
+ r  =
+ 
+    14.  
+ 
+ Cp  =
+ 
+    0.237  
+ 
+ Cv  =
+ 
+    0.169  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    928.22602  
+ 
+ p2  =
+ 
+    40.232707  
+ 
+ p3  =
+ 
+    80.465413  
+ 
+ T3  =
+ 
+    1856.452  
+ 
+ T4  =
+ 
+    3712.9041  
+ 
+ T5  =
+ 
+    1704.8042  
+ 
+ qs  =
+ 
+    596.84933  
+ 
+ qre  =
+ 
+    233.52491  
+ 
+ na  =
+ 
+    60.873724  
+ 
+ T  =
+ 
+    50.    655.22602    1583.452    3439.9041    1431.8042  
+ 
+ 
+ 
+(a) The temperature at the five key points of the cycle are : 
+ point 1 is 323 K =  50 degree C 
+ point 2 is 928 K = 655 degree C 
+ point 3 is 1856 K = 1583 degree C 
+ point 4 is 3713 K = 3440 degree C 
+ point 5 is 1705 K = 1432 degree C 
+
+ (b) The ideal thermal efficiency of the cycle is 60.87 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.18/Chapter3_example18.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ r  =
+ 
+    5.  
+ 
+ Vc  =
+ 
+    110.  
+ 
+ a  =
+ 
+    0.66  
+ 
+ N  =
+ 
+    2400.  
+ 
+ m  =
+ 
+    9.9  
+ 
+ CV  =
+ 
+    10600.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Vs  =
+ 
+    440.  
+ 
+ na  =
+ 
+    47.469444  
+ 
+ nt  =
+ 
+    0.3132983  
+ 
+ IHP  =
+ 
+    51.9952  
+ 
+ pm  =
+ 
+    7.3856818  
+ 
+ 
+ 
+The average indicated mean effective pressure in each cylinder is 7.386 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.19/Chapter3_example19.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ BHP  =
+ 
+    40.  
+ 
+ N  =
+ 
+    3000.  
+ 
+ nm  =
+ 
+    70.  
+ 
+ pm  =
+ 
+    13.5  
+ 
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    7.3950298  
+ 
+ 
+ 
+ d2  =
+ 
+    58.694391  
+ 
+ 
+ 
+The cylinder sizes for a bore equal to stroke of a four cylinder in case of 
+ (i)Four stroke engine is 7.4 cm 
+ (ii)Two stroke engine is  59 mm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.1/Chapter3_example1.sce #
+ 
+ 
+ 
+ p  =
+ 
+    1.    8.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ r  =
+ 
+    4.4163581  
+ 
+ n  =
+ 
+    44.795524  
+ 
+ 
+ 
+Air standard efficiency of an engine working on the Otto cycle is 44.8 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.20/Chapter3_example20.sce #
+ 
+ 
+ 
+ T  =
+ 
+    323.    618.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ IHP  =
+ 
+    25.  
+ 
+ m  =
+ 
+    5.44  
+ 
+ CV  =
+ 
+    10300.  
+ 
+ 
+ 
+ na  =
+ 
+    47.734628  
+ 
+ r  =
+ 
+    5.063664  
+ 
+ qIHP  =
+ 
+    263.46604  
+ 
+ q  =
+ 
+    933.86667  
+ 
+ Ith  =
+ 
+    28.212383  
+ 
+ nr  =
+ 
+    59.102552  
+ 
+ 
+ 
+The air standard efficiency is 47.7 percent 
+ The compression ratio is 5.06 
+ Indicated thermal efficiency is 28.2 percent 
+ Efficiency ratio is 59.1 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.21/Chapter3_example21.sce #
+ 
+ 
+ 
+ CV  =
+ 
+    10000.  
+ 
+ pe  =
+ 
+    30.    70.  
+ 
+ p  =
+ 
+    1.33    2.66  
+ 
+ n  =
+ 
+    1.33  
+ 
+ rn  =
+ 
+    50.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ v  =
+ 
+    1.6839855  
+ 
+ r  =
+ 
+    4.5111406  
+ 
+ na  =
+ 
+    45.262437  
+ 
+ ith  =
+ 
+    22.631219  
+ 
+ q  =
+ 
+    2794.0099  
+ 
+ Sc  =
+ 
+    0.2794010  
+ 
+ 
+ 
+Compression ratio is 4.51 
+ Specific consumption is 0.279 kg/i.h.p.hr 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.22/Chapter3_example22.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    7.5  
+ 
+ L  =
+ 
+    8.75  
+ 
+ r  =
+ 
+    6.  
+ 
+ n1  =
+ 
+    55.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ N  =
+ 
+    2400.  
+ 
+ pm  =
+ 
+    7.  
+ 
+ m  =
+ 
+    9.  
+ 
+ CV  =
+ 
+    10500.  
+ 
+ 
+ 
+ an  =
+ 
+    51.164066  
+ 
+ In  =
+ 
+    28.140236  
+ 
+ BHP  =
+ 
+    129819.38  
+ 
+ Bth  =
+ 
+    19.303279  
+ 
+ nm  =
+ 
+    68.596719  
+ 
+ Sc  =
+ 
+    0.3119719  
+ 
+ 
+ 
+Indicated thermal efficiency is 28.1 percent 
+ Brake thermal efficiency is 19.3 percent 
+ Mechanical efficiency is 68.6 percent 
+ Specific fuel consumption is 0.312 kg/i.h.p.hr 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.26/Chapter3_example26.sce #
+ 
+ 
+ 
+ r  =
+ 
+    7.  
+ 
+ v  =
+ 
+    1.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ e  =
+ 
+    0.5408435  
+ 
+ dee  =
+ 
+  - 0.6608030  
+ 
+ x  =
+ 
+    0.6608030  
+ 
+ 
+ 
+Percentage change is efficiency is -0.66 percent i.e., a decrease of 0.66 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.2/Chapter3_example2.sce #
+ 
+ 
+ 
+ D  =
+ 
+    0.25  
+ 
+ L  =
+ 
+    0.45  
+ 
+ Cv  =
+ 
+    5.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ IHP  =
+ 
+    32.  
+ 
+ m  =
+ 
+    14.  
+ 
+ CV  =
+ 
+    4000.  
+ 
+ 
+ 
+ Vs  =
+ 
+    0.0220781  
+ 
+ Vc  =
+ 
+    0.005  
+ 
+ r  =
+ 
+    5.415625  
+ 
+ na  =
+ 
+    49.120766  
+ 
+ q  =
+ 
+    933.33333  
+ 
+ aI  =
+ 
+    337.23653  
+ 
+ itn  =
+ 
+    36.132486  
+ 
+ rn  =
+ 
+    73.558474  
+ 
+ 
+ 
+The air standard efficiency is 49.1 percent 
+ Indicated thermal efficiency is 36.1 percent 
+ Relative efficiency is 73.6 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.30/Chapter3_example30.sce #
+ 
+ 
+ 
+ N  =
+ 
+    210.  
+ 
+ d  =
+ 
+    0.3  
+ 
+ L  =
+ 
+    0.4  
+ 
+ v  =
+ 
+    2.5  
+ 
+ CO  =
+ 
+    19.7  
+ 
+ H2  =
+ 
+    28.8  
+ 
+ CO2  =
+ 
+    14.4  
+ 
+ N2  =
+ 
+    37.1  
+ 
+ x  =
+ 
+    0.875  
+ 
+ tn  =
+ 
+    35.  
+ 
+ CVH2  =
+ 
+    13200.  
+ 
+ CVC  =
+ 
+    2540.  
+ 
+ de  =
+ 
+    1.293  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ 
+ 
+ a  =
+ 
+    1.1547619  
+ 
+ Vm  =
+ 
+    2.1547619  
+ 
+ Vs  =
+ 
+    0.02826  
+ 
+ Vc  =
+ 
+    0.0007065  
+ 
+ V  =
+ 
+    0.0289665  
+ 
+ VC  =
+ 
+    0.0253457  
+ 
+ VM  =
+ 
+    2.6612972  
+ 
+ VG  =
+ 
+    1.2350771  
+ 
+ vH2  =
+ 
+    0.3557022  
+ 
+ vCO  =
+ 
+    0.2433102  
+ 
+ CVH2cum  =
+ 
+    74.219385  
+ 
+ CVCO  =
+ 
+    1088.5714  
+ 
+ CVCOcum  =
+ 
+    85.689654  
+ 
+ qH2  =
+ 
+    1194.1899  
+ 
+ qCO  =
+ 
+    942.58619  
+ 
+ qt  =
+ 
+    2136.7761  
+ 
+ qu  =
+ 
+    747.87164  
+ 
+ hp  =
+ 
+    70.964709  
+ 
+ 
+ 
+Maximum horse power that can be developed is 71.0 H.P 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.31/Chapter3_example31.sce #
+ 
+ 
+ 
+ vCH4  =
+ 
+    65.  
+ 
+ vH2  =
+ 
+    2.  
+ 
+ vN2  =
+ 
+    2.  
+ 
+ vCO2  =
+ 
+    31.  
+ 
+ O2  =
+ 
+    5.3  
+ 
+ N2  =
+ 
+    83.  
+ 
+ CO  =
+ 
+    0.3  
+ 
+ CO2  =
+ 
+    11.4  
+ 
+ an  =
+ 
+    79.  
+ 
+ 
+ 
+ a  =
+ 
+    6.2380952  
+ 
+ xCO  =
+ 
+    0.15  
+ 
+ xCO2  =
+ 
+    0.3  
+ 
+ tO2  =
+ 
+    5.15  
+ 
+ tN2  =
+ 
+    83.  
+ 
+ tCO2  =
+ 
+    11.7  
+ 
+ T  =
+ 
+    99.85  
+ 
+ pCO2  =
+ 
+    11.717576  
+ 
+ mm  =
+ 
+    623.80952  
+ 
+ an2  =
+ 
+    492.80952  
+ 
+ tn2  =
+ 
+    494.80952  
+ 
+ v  =
+ 
+    228.47253  
+ 
+ pea  =
+ 
+    36.625367  
+ 
+ 
+ 
+(a) the air-fuel ratio by volume to give complete combustion is 6.238 
+ (b) the percentage of excess air actually used in the test is 36.6 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.32/Chapter3_example32.sce #
+ 
+ 
+ 
+ Vs  =
+ 
+    9.45  
+ 
+ Vc  =
+ 
+    2.32  
+ 
+ m  =
+ 
+    4.25  
+ 
+ N  =
+ 
+    165.  
+ 
+ bhp  =
+ 
+    5.62  
+ 
+ nm  =
+ 
+    73.4  
+ 
+ CV  =
+ 
+    3500.  
+ 
+ vn  =
+ 
+    0.87  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ tV  =
+ 
+    11770.  
+ 
+ rc  =
+ 
+    5073.2759  
+ 
+ na  =
+ 
+    96.704779  
+ 
+ W  =
+ 
+    59.227166  
+ 
+ Iw  =
+ 
+    80.690962  
+ 
+ q  =
+ 
+    247.91667  
+ 
+ ith  =
+ 
+    32.547615  
+ 
+ rn  =
+ 
+    33.656677  
+ 
+ Vm  =
+ 
+    8221.5  
+ 
+ Vg  =
+ 
+    858.58586  
+ 
+ Va  =
+ 
+    7362.9141  
+ 
+ agr  =
+ 
+    8.5756294  
+ 
+ CVc  =
+ 
+    365.51122  
+ 
+ 
+ 
+Ratio of air to gas used is 8.58 
+ Calorific value of 1 cu.m of the mixture in the cylinder is 365.5 kcal 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.33/Chapter3_example33.sce #
+ 
+ 
+ 
+ d  =
+ 
+    18.  
+ 
+ l  =
+ 
+    37.5  
+ 
+ N  =
+ 
+    220.  
+ 
+ 
+ 
+ pp  =
+ 
+    5.9  
+ 
+ pn  =
+ 
+    0.248  
+ 
+ 
+ nn  =
+ 
+    0.432  
+ 
+ bhp  =
+ 
+    8.62  
+ 
+ ex  =
+ 
+    100.  
+ 
+ vg  =
+ 
+    0.101  
+ 
+ 
+ 
+ tc  =
+ 
+    110.  
+ 
+ nw  =
+ 
+    100.  
+ 
+ nm  =
+ 
+    10.  
+ 
+ ihp  =
+ 
+    11.927663  
+ 
+ fhp  =
+ 
+    3.3076629  
+ 
+ W  =
+ 
+    539.07363  
+ 
+ Wp  =
+ 
+    41.20308  
+ 
+ n  =
+ 
+    33.461315  
+ 
+ gf  =
+ 
+    0.00101  
+ 
+ gl  =
+ 
+    0.0337959  
+ 
+ 
+ 
+Friction horse power of the engine is 3.31 
+ Gas consumption at no load is 0.034 cu.m/min 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.3/Chapter3_example3.sce #
+ 
+ 
+ 
+ r  =
+ 
+    6.  
+ 
+ It  =
+ 
+    0.6  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ an  =
+ 
+    51.164066  
+ 
+ In  =
+ 
+    0.3069844  
+ 
+ SFC  =
+ 
+    0.2059774  
+ 
+ 
+ 
+Specific fuel consumption is 0.206 kg/I.H.P. hr 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.4/Chapter3_example4.sce #
+ 
+ 
+ 
+ T  =
+ 
+    373.    746.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ an  =
+ 
+    50.  
+ 
+ r  =
+ 
+    5.6568542  
+ 
+ 
+ 
+The compression ratio is 5.66 
+ Air standard efficiency is 50 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.5/Chapter3_example5.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    318.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T2  =
+ 
+    598.  
+ 
+ T3  =
+ 
+    1773.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ r  =
+ 
+    4.8493682  
+ 
+ an  =
+ 
+    46.822742  
+ 
+ p2  =
+ 
+    9.1192521  
+ 
+ p3  =
+ 
+    27.037515  
+ 
+ p4  =
+ 
+    2.9648829  
+ 
+ T4  =
+ 
+    942.83278  
+ 
+ t4  =
+ 
+    669.83278  
+ 
+ 
+ 
+The air standard efficiency is 46.8 percent 
+ Temperature at the end of adiabatic expansion is 669 degree C 
+ Pressure at the end of adiabatic expansion is   3 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.6/Chapter3_example6.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    313.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ p2  =
+ 
+    15.  
+ 
+ T3  =
+ 
+    2273.  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    678.53212  
+ 
+ na  =
+ 
+    53.871012  
+ 
+ q  =
+ 
+    271.05954  
+ 
+ W  =
+ 
+    146.02252  
+ 
+ W1  =
+ 
+    624.97637  
+ 
+ p3  =
+ 
+    50.248174  
+ 
+ p4  =
+ 
+    3.3498783  
+ 
+ 
+ 
+(a) The heat supplied is 271 kcal/kg of air 
+ (b) The workdone is 146 kcal/kg of air 
+ (c) The pressure at the end of adiabatic expansion is 3.35 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.7/Chapter3_example7.sce #
+ 
+ 
+ 
+ r  =
+ 
+    16.  
+ 
+ k  =
+ 
+    5.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ c  =
+ 
+    1.75  
+ 
+ na  =
+ 
+    62.644171  
+ 
+ 
+ 
+The air standard efficiency is 62.6 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.8/Chapter3_example8.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.05  
+ 
+ T1  =
+ 
+    288.  
+ 
+ p2  =
+ 
+    33.4  
+ 
+ r  =
+ 
+    5.  
+ 
+ Cp  =
+ 
+    0.238  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ r1  =
+ 
+    11.837367  
+ 
+ k  =
+ 
+    2.3674734  
+ 
+ T2  =
+ 
+    773.91727  
+ 
+ T3  =
+ 
+    1832.2286  
+ 
+ T4  =
+ 
+    962.47986  
+ 
+ qa  =
+ 
+    251.87809  
+ 
+ qre  =
+ 
+    114.66158  
+ 
+ nt  =
+ 
+    54.477352  
+ 
+ 
+ 
+The ideal thermal efficiency is 54.5 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH3/EX3.9/Chapter3_example9.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    303.  
+ 
+ T3  =
+ 
+    1773.  
+ 
+ r  =
+ 
+    16.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ g  =
+ 
+    1.41  
+ 
+ 
+ 
+ T2  =
+ 
+    944.34747  
+ 
+ s  =
+ 
+    5.8499126  
+ 
+ r1  =
+ 
+    8.5220302  
+ 
+ T4  =
+ 
+    736.5226  
+ 
+ qa  =
+ 
+    198.87661  
+ 
+ qre  =
+ 
+    73.698842  
+ 
+ nt  =
+ 
+    62.942428  
+ 
+ 
+ 
+(a) The percentage of stroke at which cut off takes place is 5.85 percent 
+ (b) The temperature at the end of expansion stroke is 737 K 
+ (c) The theoretical efficiency is  63 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH4/EX4.1/Chapter4_example.sce #
+ 
+ 
+ 
+ d  =
+ 
+    20.  
+ 
+ l  =
+ 
+    38.  
+ 
+ Vc  =
+ 
+    900.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    363.  
+ 
+ x  =
+ 
+    0.75  
+ 
+ n  =
+ 
+    1.32  
+ 
+ wa  =
+ 
+    0.0125  
+ 
+ 
+ 
+ Vs  =
+ 
+    11932.  
+ 
+ V1  =
+ 
+    12832.  
+ 
+ V2  =
+ 
+    3883.  
+ 
+ p2  =
+ 
+    4.8444847  
+ 
+ T2  =
+ 
+    532.14165  
+ 
+ W  =
+ 
+  - 186.84794  
+ 
+ dI  =
+ 
+    0.3594260  
+ 
+ q  =
+ 
+  - 0.0781570  
+ 
+ 
+ 
+When the cylinder has travelled 0.75 of the compression stroke, 
+ The volume is 3883 c.c 
+ The pressure is 4.84 kg/cm^2 
+ Temperature is 532 K 
+
+ The workdone on the gas is -186.85 kg.m 
+
+ Change in internal energy between the two points is 0.359 kcal 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.10/Chapter5_example10.sce #
+ 
+ 
+ 
+ r  =
+ 
+    20.  
+ 
+ c  =
+ 
+    5.  
+ 
+ dc  =
+ 
+    1.  
+ 
+ Cv  =
+ 
+    0.171  
+ 
+ R  =
+ 
+    29.3  
+ 
+ k  =
+ 
+    1.95  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ g  =
+ 
+    1.4012764  
+ 
+ e  =
+ 
+    0.6502065  
+ 
+ dee  =
+ 
+  - 0.5635399  
+ 
+ 
+ 
+Percentage change in air standard efficiency is -0.564 percent 
+ This indicates that there is a decrease in efficiency 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.2/Chapter5_example2.sce #
+ 
+ 
+ 
+ r  =
+ 
+    8.  
+ 
+ n  =
+ 
+    1.41  
+ 
+ cv  =
+ 
+    0.17  
+ 
+ x  =
+ 
+    2.  
+ 
+ R  =
+ 
+    29.3  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ e  =
+ 
+    0.5736826  
+ 
+ debye  =
+ 
+    1.2474668  
+ 
+ 
+ 
+The change in air standard efficiency of the cycle is 1.247 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.3/Chapter5_example3.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    28.9  
+ 
+ T  =
+ 
+    373.    323.  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ 
+ I  =
+ 
+    4241.391  
+ 
+ 
+ 
+The work done is 4241 m.kg/kg of gas 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.4/Chapter5_example4.sce #
+ 
+ 
+ 
+ af  =
+ 
+    25.  
+ 
+ cv  =
+ 
+    0.17    0.00004  
+ 
+ r  =
+ 
+    14.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    426.  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ n  =
+ 
+    1.35  
+ 
+ R  =
+ 
+    29.  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ T2  =
+ 
+    1072.8881  
+ 
+ a  =
+ 
+    0.00002  
+ 
+ b  =
+ 
+    0.2379157  
+ 
+ c  =
+ 
+  - 662.89406  
+ 
+ T3  =
+ 
+    2329.917  
+ 
+ pc  =
+ 
+    9.0125461  
+ 
+ 
+ 
+The percentage of stroke at which the constant pressure combustion stops is 9 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.5/Chapter5_example5.sce #
+ 
+ 
+ 
+ af  =
+ 
+    25.  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ cv  =
+ 
+    0.17    0.00004  
+ 
+ r  =
+ 
+    14.  
+ 
+ T2  =
+ 
+    1073.  
+ 
+ R  =
+ 
+    29.  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ CVm  =
+ 
+    384.61538  
+ 
+ cpv  =
+ 
+    0.0679157  
+ 
+ a  =
+ 
+    0.00002  
+ 
+ b  =
+ 
+    0.2379157  
+ 
+ c  =
+ 
+  - 662.9255  
+ 
+ T3  =
+ 
+    2330.0119  
+ 
+ s  =
+ 
+    16.703792  
+ 
+ 
+ 
+The percentage of the stroke at which the combustion will be complete is 16.70 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.6/Chapter5_example6.sce #
+ 
+ 
+ 
+ T  =
+ 
+    500.    2000.  
+ 
+ x  =
+ 
+    11.515  - 172.    1530.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ 
+ 
+ 
+ I  =
+ 
+    11701.457  
+ 
+ dh  =
+ 
+    365.67052  
+ 
+ 
+ 
+The change in enthalpy is 365.7 kcal/kg 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.7/Chapter5_example7.sce #
+ 
+ 
+ 
+ r  =
+ 
+    14.  
+ 
+ s  =
+ 
+    5.  
+ 
+ pm  =
+ 
+    50.  
+ 
+ p4  =
+ 
+    1.  
+ 
+ T4  =
+ 
+    363.  
+ 
+ R  =
+ 
+    29.3  
+ 
+ cv  =
+ 
+    0.171    0.00003  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ a  =
+ 
+    0.2396183  
+ 
+ g  =
+ 
+    1.3772515  
+ 
+ z  =
+ 
+    1.3  
+ 
+ T5  =
+ 
+    801.20755  
+ 
+ p5  =
+ 
+    37.888421  
+ 
+ T1  =
+ 
+    1057.3251  
+ 
+ T2  =
+ 
+    1744.5864  
+ 
+ T3  =
+ 
+    778.68202  
+ 
+ p3  =
+ 
+    2.1451295  
+ 
+ 
+ I1  =
+ 
+    50.93614  
+ 
+ 
+ I2  =
+ 
+    193.56504  
+ 
+ qs  =
+ 
+    244.50118  
+ 
+ 
+ qre  =
+ 
+    106.72366  
+ 
+ nth  =
+ 
+    56.350454  
+ 
+ 
+ 
+The tempertautes and pressures at salient points of the cycle are : 
+ T1 = 1057 K  p1 = 50.0 kg/cm^2 
+ T2 = 1745 K  p2 = 50.0 kg/cm^2 
+ T3 = 779 K  p3 = 2.1 kg/cm^2 
+ T4 = 363 K  p4 = 1.0 kg/cm^2 
+ T5 = 801 K  p5 = 37.9 kg/cm^2 
+
+ Heat supplied per kg of air is 244.5 kcal/kg 
+
+ The thermal efficiency of the cycle is 56.4 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH5/EX5.8/Chapter5_example8.sce #
+ 
+ 
+ 
+ r  =
+ 
+    14.  
+ 
+ c  =
+ 
+    5.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    363.  
+ 
+ p3  =
+ 
+    50.  
+ 
+ R  =
+ 
+    29.3  
+ 
+ cv  =
+ 
+    0.171    0.00003  
+ 
+ g1  =
+ 
+    1.4  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ T2x  =
+ 
+    1043.1766  
+ 
+ 
+ I1  =
+ 
+    130.65693  
+ 
+ Cv  =
+ 
+    0.1920926  
+ 
+ Cp  =
+ 
+    0.2607109  
+ 
+ g  =
+ 
+    1.35  
+ 
+ T2  =
+ 
+    914.22151  
+ 
+ I2  =
+ 
+    104.81936  
+ 
+ CV  =
+ 
+    0.1901583  
+ 
+ CP  =
+ 
+    0.2607109  
+ 
+ g2  =
+ 
+    1.36  
+ 
+ T2a  =
+ 
+    938.66952  
+ 
+ p2  =
+ 
+    36.20213  
+ 
+ T3  =
+ 
+    1296.4286  
+ 
+ T4  =
+ 
+    2139.1071  
+ 
+ g3  =
+ 
+    1.3  
+ 
+ T5  =
+ 
+    1126.2617  
+ 
+ cV  =
+ 
+    0.2199805  
+ 
+ cP  =
+ 
+    0.2885988  
+ 
+ g4  =
+ 
+    1.3119288  
+ 
+ T5a  =
+ 
+    1097.8972  
+ 
+ I3  =
+ 
+    73.171196  
+ 
+ 
+ I4  =
+ 
+    245.34696  
+ 
+ q  =
+ 
+    318.51816  
+ 
+ 
+ 
+(a) Temperatures at all the points of the cycle are: 
+ T1 = 363 K 
+ T2 = 939 K 
+ T3 = 1296 K 
+ T4 = 2139 K 
+ T5 = 1097 K 
+
+ (b) heat supplied per kg of the working substance is 318.5 kcal/kg 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH6/EX6.1/Chapter6_example1.sce #
+ 
+ 
+ 
+ r  =
+ 
+    7.5  
+ 
+ 
+ p  =
+ 
+    1.    15.1    26.95    1.95  
+ 
+ T  =
+ 
+    60.    460.    1150.    435.  
+ 
+ V  =
+ 
+    16.98    2.264    2.264    16.98  
+ 
+ U  =
+ 
+    17.    78.8    212.    80.  
+ 
+ S  =
+ 
+    0.07    0.07    0.22    0.22  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ n  =
+ 
+    52.702703  
+ 
+ na  =
+ 
+    55.334161  
+ 
+ 
+ 
+Thermal efficiency is 52.7 percent 
+ Air standard efficiency is 55.3 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH6/EX6.2/Chapter6_example2.sce #
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.    33.    33.    1.  
+ 
+ T  =
+ 
+    65.    600.    1450.    725.  
+ 
+ V  =
+ 
+    16.    1.23    3.45    16.  
+ 
+ U  =
+ 
+    11.8    110.    295.    140.  
+ 
+ H  =
+ 
+    22.7    150.    395.    225.  
+ 
+ S  =
+ 
+    0.068    0.068    0.264    0.264  
+ 
+ 
+ 
+ r  =
+ 
+    13.00813  
+ 
+ q  =
+ 
+    245.  
+ 
+ qre  =
+ 
+    128.2  
+ 
+ nt  =
+ 
+    47.673469  
+ 
+ 
+ 
+(a)Compression ratio is  13 
+ (b) Heat supplied to the cycle is 245 kcal/kg 
+ (c) Heat rejected by the cycle is 128.20 kcal/kg 
+ (d) Thermal efficiency is 47.67 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH6/EX6.3/Chapter6_example3.sce #
+ 
+ 
+ 
+ 
+ p  =
+ 
+    1.    51.5    77.25    77.25    3.75  
+ 
+ T  =
+ 
+    16.    1.    1.    1.5    16.  
+ 
+ V  =
+ 
+    65.    745.    1400.    2200.    1030.  
+ 
+ U  =
+ 
+    14.7    135.    275.    475.    197.  
+ 
+ H  =
+ 
+    21.9    85.    372.    625.    280.  
+ 
+ S  =
+ 
+    0.068    0.068    0.19    0.32    0.32  
+ 
+ 
+ 
+ nth  =
+ 
+    53.613232  
+ 
+ 
+ 
+Thermal efficiency is 53.61 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.10/Chapter8_example10.sce #
+ 
+ 
+ CO2  =
+ 
+    10.9  
+ 
+ CO  =
+ 
+    1.  
+ 
+ O2  =
+ 
+    7.1  
+ 
+ N2  =
+ 
+    81.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ 
+ 
+ pCO2  =
+ 
+    4.796  
+ 
+ pCO  =
+ 
+    0.28  
+ 
+ pO2  =
+ 
+    2.272  
+ 
+ pN2  =
+ 
+    22.68  
+ 
+ T  =
+ 
+    30.028  
+ 
+ ppCO2  =
+ 
+    15.97176  
+ 
+ ppCO  =
+ 
+    0.9324630  
+ 
+ ppO2  =
+ 
+    7.5662715  
+ 
+ ppN2  =
+ 
+    75.529506  
+ 
+ 
+The gravimetric analysis is given by (in percent) 
+ CO2 -> 15.97 
+ CO -> 0.93 
+ O2 -> 7.57 
+ N2 -> 75.53 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.11/Chapter8_example11.sce #
+ 
+ 
+ 
+ CO2  =
+ 
+    10.  
+ 
+ N2  =
+ 
+    80.  
+ 
+ C  =
+ 
+    80.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ 
+ 
+ O2  =
+ 
+    10.  
+ 
+ pCO2  =
+ 
+    4.4  
+ 
+ pO2  =
+ 
+    3.2  
+ 
+ pN2  =
+ 
+    22.4  
+ 
+ T  =
+ 
+    30.  
+ 
+ ppCO2  =
+ 
+    0.1466667  
+ 
+ ppO2  =
+ 
+    0.1066667  
+ 
+ ppN2  =
+ 
+    0.7466667  
+ 
+ wC  =
+ 
+    0.04  
+ 
+ WC  =
+ 
+    20.  
+ 
+ wa  =
+ 
+    19.  
+ 
+ 
+ 
+Weight of air supplied per kg of fuel is 19 kg 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.12/Chapter8_example12.sce #
+ 
+ 
+ 
+ CO2  =
+ 
+    12.  
+ 
+ CO  =
+ 
+    4.  
+ 
+ N2  =
+ 
+    84.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ 
+ 
+ pCO2  =
+ 
+    5.28  
+ 
+ pCO  =
+ 
+    1.12  
+ 
+ pN2  =
+ 
+    23.52  
+ 
+ T  =
+ 
+    29.92  
+ 
+ ppCO2  =
+ 
+    0.1764706  
+ 
+ ppCO  =
+ 
+    0.0374332  
+ 
+ ppN2  =
+ 
+    0.7860963  
+ 
+ wC  =
+ 
+    0.0641711  
+ 
+ pC  =
+ 
+    0.8372093  
+ 
+ we  =
+ 
+    13.046512  
+ 
+ wa  =
+ 
+    12.046512  
+ 
+ tw  =
+ 
+    15.37634  
+ 
+ exc  =
+ 
+  - 3.3298281  
+ 
+ 
+ 
+Excess air supplied per kg of fuel is -3.3 kg(deficient) 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.13/Chapter8_example13.sce #
+ 
+ 
+ 
+ C  =
+ 
+    84.  
+ 
+ H2  =
+ 
+    12.  
+ 
+ S  =
+ 
+    1.5  
+ 
+ O2  =
+ 
+    1.5  
+ 
+ ma  =
+ 
+    20.  
+ 
+ pC  =
+ 
+    4.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ mS  =
+ 
+    32.  
+ 
+ mSO2  =
+ 
+    64.  
+ 
+ 
+ 
+ mm  =
+ 
+    13.913043  
+ 
+ 
+ xCO2  =
+ 
+    3.08  
+ 
+ xSO2  =
+ 
+    0.03  
+ 
+ xO2  =
+ 
+    1.4  
+ 
+ xN2  =
+ 
+    15.4  
+ 
+ nCO2  =
+ 
+    0.07  
+ 
+ nSO2  =
+ 
+    0.0004687  
+ 
+ nO2  =
+ 
+    0.04375  
+ 
+ nN2  =
+ 
+    0.55  
+ 
+ T  =
+ 
+    0.6642188  
+ 
+ pCO2  =
+ 
+    10.538697  
+ 
+ pSO2  =
+ 
+    0.0705716  
+ 
+ pO2  =
+ 
+    6.5866855  
+ 
+ pN2  =
+ 
+    82.804046  
+ 
+ 
+ yCO2  =
+ 
+    2.9615385  
+ 
+ yCO  =
+ 
+    0.0753846  
+ 
+ yO2  =
+ 
+    2.24  
+ 
+ eO2  =
+ 
+    0.0430769  
+ 
+ nnCO2  =
+ 
+    0.0673077  
+ 
+ nnCO  =
+ 
+    0.0026923  
+ 
+ nnSO2  =
+ 
+    0.0004687  
+ 
+ nnO2  =
+ 
+    0.0450962  
+ 
+ nnN2  =
+ 
+    0.55  
+ 
+ TT  =
+ 
+    0.6655649  
+ 
+ ppCO2  =
+ 
+    10.112867  
+ 
+ 
+ 
+Minimum weight of air required for complete combustion of 1 kg of the fuel is 13.9 kg/kg of fuel 
+
+ Percentage composition by volume when 20 kg of air is supplied (in percent) 
+ CO2 -> 10.5 
+ SO2 -> 0.1 
+ O2 -> 6.6 
+ N2 -> 82.8 
+
+ The percentage volume of CO2 when 4 percent of the carbon in the fuel is burnt to form CO is 10.1 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.14/Chapter8_example14.sce #
+ 
+ 
+ 
+ C  =
+ 
+    85.  
+ 
+ H2  =
+ 
+    14.  
+ 
+ x  =
+ 
+    50.  
+ 
+ Ta  =
+ 
+    343.    773.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ qC  =
+ 
+    8080.  
+ 
+ qH2  =
+ 
+    34250.  
+ 
+ a  =
+ 
+    23.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ 
+ 
+ mm  =
+ 
+    14.724638  
+ 
+ Q1  =
+ 
+    11663.  
+ 
+ ea  =
+ 
+    7.3623188  
+ 
+ Q2  =
+ 
+    759.7913  
+ 
+ 
+ 
+(a) Minimum quantity of air necessary for the complete combustion of 1 kg of fuel is 14.72 kg/kg of fuel 
+ (b) Heat released per kg of fuel when the carbon is burnt to CO2 and hydrogen is burnt to H2O is 11663 kcal/kg fuel 
+ (c) Heat carried away by the excess air is 760 kcal/kg fuel 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.15/Chapter8_example15.sce #
+ 
+ 
+ 
+ CO  =
+ 
+    17.  
+ 
+ H2  =
+ 
+    53.4  
+ 
+ CH2  =
+ 
+    28.8  
+ 
+ O2  =
+ 
+    0.8  
+ 
+ ea  =
+ 
+    30.  
+ 
+ v  =
+ 
+    1.  
+ 
+ 
+ 
+ ta  =
+ 
+    4.3809524  
+ 
+ aa  =
+ 
+    5.6952381  
+ 
+ Vg  =
+ 
+    6.6952381  
+ 
+ 
+ 
+Total quantity of air required is 4.38 m^3/m^3 of gas 
+ The volume of gas air mixture is 6.70 m^3/m^3 of gas 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.16/Chapter8_example16.sce #
+ 
+ 
+ 
+ CH4  =
+ 
+    20.  
+ 
+ C2H4  =
+ 
+    2.  
+ 
+ H2  =
+ 
+    50.  
+ 
+ CO  =
+ 
+    16.  
+ 
+ CO2  =
+ 
+    4.  
+ 
+ O2  =
+ 
+    1.5  
+ 
+ N2  =
+ 
+    6.5  
+ 
+ v  =
+ 
+    6.8  
+ 
+ 
+ 
+ mmO2  =
+ 
+    77.5  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mH2O  =
+ 
+    94.  
+ 
+ mN2  =
+ 
+    298.04762  
+ 
+ ma  =
+ 
+    3.6904762  
+ 
+ ea  =
+ 
+    3.1095238  
+ 
+ tm  =
+ 
+    690.31429  
+ 
+ pCO2  =
+ 
+    6.3739084  
+ 
+ 
+ 
+Minimum volume of air necessary for the complete combustion of 1 m^3 of coal gas is 3.69 m^3/m^3 of gas 
+ Percentage volume of CO2 in dry flue gases is 6.37 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.17/Chapter8_example17.sce #
+ 
+ 
+ 
+ C  =
+ 
+    86.  
+ 
+ H2  =
+ 
+    14.  
+ 
+ ea  =
+ 
+    20.  
+ 
+ O2  =
+ 
+    23.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ mH2O  =
+ 
+    18.  
+ 
+ 
+ 
+ ma  =
+ 
+    14.84058  
+ 
+ 
+ XCO2  =
+ 
+    3.1533333  
+ 
+ XH2O  =
+ 
+    1.26  
+ 
+ XO2  =
+ 
+    0.6826667  
+ 
+ XN2  =
+ 
+    13.712696  
+ 
+ XT  =
+ 
+    18.808696  
+ 
+ 
+ xCO2  =
+ 
+    16.765295  
+ 
+ xH2O  =
+ 
+    6.6990291  
+ 
+ xO2  =
+ 
+    3.6295269  
+ 
+ xN2  =
+ 
+    72.906149  
+ 
+ 
+ xxCO2  =
+ 
+    0.3810294  
+ 
+ xxH2O  =
+ 
+    0.3721683  
+ 
+ xxO2  =
+ 
+    0.1134227  
+ 
+ xxN2  =
+ 
+    2.603791  
+ 
+ xxt  =
+ 
+    3.4704115  
+ 
+ 
+ pCO2  =
+ 
+    10.979373  
+ 
+ pH2O  =
+ 
+    10.724039  
+ 
+ pO2  =
+ 
+    3.2682786  
+ 
+ pN2  =
+ 
+    75.028309  
+ 
+ 
+ 
+Volumetric composition of the products of combustion (in percent) 
+ CO2 -> 11.0 
+ H2O -> 10.7 
+ O2  -> 3.27 
+ N2  -> 75.03 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.18/Chapter8_example18.sce #
+ 
+ 
+ 
+ bhp  =
+ 
+    20.  
+ 
+ N  =
+ 
+    320.  
+ 
+ C  =
+ 
+    84.  
+ 
+ H2  =
+ 
+    16.  
+ 
+ CV  =
+ 
+    10800.  
+ 
+ bth  =
+ 
+    30.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ mH2O  =
+ 
+    18.  
+ 
+ 
+ 
+ W  =
+ 
+    210.77283  
+ 
+ Wc  =
+ 
+    1.3173302  
+ 
+ qs  =
+ 
+    4.3911007  
+ 
+ wf  =
+ 
+    0.0004066  
+ 
+ tO2  =
+ 
+    3.52  
+ 
+ mw  =
+ 
+    15.304348  
+ 
+ aw  =
+ 
+    30.608696  
+ 
+ wac  =
+ 
+    0.0124450  
+ 
+ 
+ 
+(a) the weight of fuel used per cycle is 0.000407 kg 
+ (b) the actual weight of air taken in per cycle is 0.0124 kg 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.19/Chapter8_example19.sce #
+ 
+ 
+ 
+ CO2  =
+ 
+    8.85  
+ 
+ CO  =
+ 
+    1.2  
+ 
+ O2  =
+ 
+    6.8  
+ 
+ N2  =
+ 
+    83.15  
+ 
+ C  =
+ 
+    84.  
+ 
+ H2  =
+ 
+    14.  
+ 
+ aO2  =
+ 
+    2.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ mH2O  =
+ 
+    18.  
+ 
+ 
+ 
+ 
+ xC  =
+ 
+    2.24  
+ 
+ xH2  =
+ 
+    1.12  
+ 
+ xO2  =
+ 
+  - 0.02  
+ 
+ ttO2  =
+ 
+    3.38  
+ 
+ twa  =
+ 
+    14.695652  
+ 
+ 
+ 
+ xxCO2  =
+ 
+    389.4  
+ 
+ xxCO  =
+ 
+    33.6  
+ 
+ xxO2  =
+ 
+    217.6  
+ 
+ xxN2  =
+ 
+    2328.2  
+ 
+ xxt  =
+ 
+    2968.8  
+ 
+ 
+ yCO2  =
+ 
+    13.116411  
+ 
+ yCO  =
+ 
+    1.1317704  
+ 
+ yO2  =
+ 
+    7.3295608  
+ 
+ yN2  =
+ 
+    78.422258  
+ 
+ wcd  =
+ 
+    0.0406225  
+ 
+ wdf  =
+ 
+    20.678209  
+ 
+ wxf  =
+ 
+    1.5156219  
+ 
+ weO2  =
+ 
+    6.5896604  
+ 
+ was  =
+ 
+    21.285313  
+ 
+ 
+ 
+Weight of air supplied per kg fuel burnt is 21.29 kg 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.1/Chapter8_example1.sce #
+ 
+ 
+ 
+ C  =
+ 
+    88.6  
+ 
+ H2  =
+ 
+    11.4  
+ 
+ 
+ 
+ w1  =
+ 
+    0.886  
+ 
+ w2  =
+ 
+    0.114  
+ 
+ O1  =
+ 
+    2.6666667  
+ 
+ O2  =
+ 
+    8.  
+ 
+ O11  =
+ 
+    2.3626667  
+ 
+ O22  =
+ 
+    0.912  
+ 
+ T  =
+ 
+    3.2746667  
+ 
+ P1  =
+ 
+    3.2486667  
+ 
+ P2  =
+ 
+    1.026  
+ 
+ w  =
+ 
+    14.237681  
+ 
+ 
+ 
+The weight of air required for complete combustion of liquid fuel is 14.24 kg per kg of fuel 
+ 
+ The composition of CO2 is 3.249 kg 
+ The composition of H2O is 1.026 kg 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.2/Chapter8_example2.sce #
+ 
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H2  =
+ 
+    2.  
+ 
+ O2  =
+ 
+    32.  
+ 
+ 
+ 
+ C7H16  =
+ 
+    100.  
+ 
+ O2x  =
+ 
+    352.  
+ 
+ wt  =
+ 
+    15.172414  
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    18.  
+ 
+ W  =
+ 
+    24.827586  
+ 
+ 
+ 
+The weight of air is 15.2 kg per kg of fuel which would just suffice for theoretically complete combustion 
+ The ratio of air to fuel by weight as actually supplied is 24.8 kg of air per kg of fuel 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.3/Chapter8_example3.sce #
+ 
+ 
+ 
+ H  =
+ 
+    15.  
+ 
+ CO  =
+ 
+    25.  
+ 
+ CH4  =
+ 
+    4.  
+ 
+ CO2  =
+ 
+    4.  
+ 
+ O2  =
+ 
+    2.  
+ 
+ N2  =
+ 
+    50.  
+ 
+ 
+ 
+ O21  =
+ 
+    0.075  
+ 
+ O22  =
+ 
+    0.125  
+ 
+ CO21  =
+ 
+    0.25  
+ 
+ O23  =
+ 
+    0.08  
+ 
+ CO22  =
+ 
+    0.04  
+ 
+ H201  =
+ 
+    0.5  
+ 
+ TO2  =
+ 
+    0.26  
+ 
+ wa  =
+ 
+    1.2380952  
+ 
+ vN2  =
+ 
+    0.9780952  
+ 
+ TvN2  =
+ 
+    1.4780952  
+ 
+ xCO2  =
+ 
+    0.29  
+ 
+ TCO2  =
+ 
+    0.33  
+ 
+ 
+ 
+The air required for complete combustion of one m^3 of the fuel is 1.238 cu.m 
+ The dry flue gas contains 1.478 cu.m volume of N2 and 0.33 cu.m volume of CO2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.4/Chapter8_example4.sce #
+ 
+ 
+ 
+ C  =
+ 
+    88.1  
+ 
+ H2  =
+ 
+    10.7  
+ 
+ O2  =
+ 
+    1.2  
+ 
+ 
+ 
+ w1  =
+ 
+    0.881  
+ 
+ w2  =
+ 
+    0.107  
+ 
+ w3  =
+ 
+    0.012  
+ 
+ O1  =
+ 
+    2.6666667  
+ 
+ O2  =
+ 
+    8.  
+ 
+ O11  =
+ 
+    2.3493333  
+ 
+ O22  =
+ 
+    0.856  
+ 
+ T  =
+ 
+    3.1933333  
+ 
+ P1  =
+ 
+    3.2303333  
+ 
+ P2  =
+ 
+    0.963  
+ 
+ w  =
+ 
+    13.884058  
+ 
+ wN2  =
+ 
+    10.690725  
+ 
+ T1  =
+ 
+    14.884058  
+ 
+ pCO2  =
+ 
+    21.703311  
+ 
+ pH2O  =
+ 
+    6.4700097  
+ 
+ pN2  =
+ 
+    71.82668  
+ 
+ 
+ 
+The weight of air required to burn one kg of the fuel is 13.9 kg 
+ The composition of products of combustion by weight is 21.70 percent of CO2, 6.47 percent of H2O and 71.83 percent of N2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.5/Chapter8_example5.sce #
+ 
+ 
+ 
+ C  =
+ 
+    85.  
+ 
+ H2  =
+ 
+    15.  
+ 
+ CV  =
+ 
+    10600.  
+ 
+ eO2  =
+ 
+    60.  
+ 
+ bhp  =
+ 
+    240.  
+ 
+ nth  =
+ 
+    30.  
+ 
+ O2  =
+ 
+    23.  
+ 
+ wC  =
+ 
+    12.  
+ 
+ wH2  =
+ 
+    2.  
+ 
+ wO2  =
+ 
+    32.  
+ 
+ 
+ 
+ mma  =
+ 
+    15.072464  
+ 
+ aa  =
+ 
+    24.115942  
+ 
+ q  =
+ 
+    8430.9133  
+ 
+ mf  =
+ 
+    0.7953692  
+ 
+ ma  =
+ 
+    19.181077  
+ 
+ 
+ 
+The weight of air is 19.18 kg/min 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.6/Chapter8_example6.sce #
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ O2  =
+ 
+    32.  
+ 
+ CO2  =
+ 
+    44.  
+ 
+ N2  =
+ 
+    28.  
+ 
+ 
+ 
+ wair  =
+ 
+    11.594203  
+ 
+ wN2  =
+ 
+    8.9275362  
+ 
+ pCO2  =
+ 
+    0.0833333  
+ 
+ pN2  =
+ 
+    0.3188406  
+ 
+ Tv  =
+ 
+    0.4021739  
+ 
+ ppCO2  =
+ 
+    20.720721  
+ 
+ ppN2  =
+ 
+    79.279279  
+ 
+ 
+ 
+The volumetric analysis of the flue gas when pure carbon is burnt with a minimum quantity of air is given by 
+ CO2 -> 20.7 percent 
+ N2 -> 79.3 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.7/Chapter8_example7.sce #
+ 
+ 
+ 
+ C  =
+ 
+    90.  
+ 
+ H2  =
+ 
+    3.3  
+ 
+ O2  =
+ 
+    3.  
+ 
+ N2  =
+ 
+    0.8  
+ 
+ S  =
+ 
+    0.9  
+ 
+ Ash  =
+ 
+    2.  
+ 
+ eO2  =
+ 
+    50.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mS  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mSO2  =
+ 
+    64.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ 
+ 
+ w1  =
+ 
+    0.9  
+ 
+ w2  =
+ 
+    0.033  
+ 
+ w3  =
+ 
+    0.009  
+ 
+ O1  =
+ 
+    2.6666667  
+ 
+ O2  =
+ 
+    8.  
+ 
+ O3  =
+ 
+    1.  
+ 
+ O11  =
+ 
+    2.4  
+ 
+ O22  =
+ 
+    0.264  
+ 
+ O33  =
+ 
+    0.009  
+ 
+ T  =
+ 
+    2.593  
+ 
+ ma  =
+ 
+    11.273913  
+ 
+ aN2  =
+ 
+    13.02137  
+ 
+ TN2  =
+ 
+    13.02937  
+ 
+ wt  =
+ 
+    1.2965  
+ 
+ TSO2  =
+ 
+    0.018  
+ 
+ TCO2  =
+ 
+    3.3  
+ 
+ pCO2  =
+ 
+    0.075  
+ 
+ pSO2  =
+ 
+    0.0002813  
+ 
+ pO2  =
+ 
+    0.0405156  
+ 
+ pN2  =
+ 
+    0.4653346  
+ 
+ Tv  =
+ 
+    0.5811315  
+ 
+ ppCO2  =
+ 
+    12.905857  
+ 
+ ppSO2  =
+ 
+    0.0483970  
+ 
+ ppO2  =
+ 
+    6.9718514  
+ 
+ ppN2  =
+ 
+    80.073895  
+ 
+ 
+ 
+Percentage combustion of the dry flue gases by volume is 
+ CO2 12.91 percent 
+ SO2 0.05 percent 
+ O2 7.0 percent 
+ N2 80.07 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.8/Chapter8_example8.sce #
+ 
+ 
+ 
+ C  =
+ 
+    85.  
+ 
+ H2  =
+ 
+    12.3  
+ 
+ i  =
+ 
+    2.7  
+ 
+ ma  =
+ 
+    25.  
+ 
+ pO2  =
+ 
+    23.  
+ 
+ pN2  =
+ 
+    77.  
+ 
+ p  =
+ 
+    1.03  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ mH2O  =
+ 
+    18.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ 
+ 
+ xCO2  =
+ 
+    3.1166667  
+ 
+ xH2O  =
+ 
+    1.107  
+ 
+ xO2  =
+ 
+    3.2506667  
+ 
+ xN2  =
+ 
+    10.882667  
+ 
+ mma  =
+ 
+    14.133333  
+ 
+ ea  =
+ 
+    10.866667  
+ 
+ XO2  =
+ 
+    2.4993333  
+ 
+ XN2  =
+ 
+    8.3673333  
+ 
+ wCO2  =
+ 
+    0.0708333  
+ 
+ wO2  =
+ 
+    0.0781042  
+ 
+ wN2  =
+ 
+    0.6875  
+ 
+ wH2O  =
+ 
+    0.0615  
+ 
+ Tv  =
+ 
+    0.8979375  
+ 
+ ppCO2  =
+ 
+    7.8884481  
+ 
+ ppO2  =
+ 
+    8.6981741  
+ 
+ ppN2  =
+ 
+    76.564349  
+ 
+ ppH2O  =
+ 
+    6.849029  
+ 
+ Tv1  =
+ 
+    0.8364375  
+ 
+ pp1CO2  =
+ 
+    8.468455  
+ 
+ pp1O2  =
+ 
+    9.337717  
+ 
+ pp1N2  =
+ 
+    82.193828  
+ 
+ papH2O  =
+ 
+    0.0705450  
+ 
+ 
+ 
+The volumetric analysis for wet products gives (in percent) 
+ CO2 -> 7.9 
+ O2 -> 8.7 
+ N2 -> 76.6 
+ H2O -> 6.8 
+
+ The volumetric analysis for dry products gives (in percent) 
+ CO2 -> 8.5 
+ O2 -> 9.3 
+ N2 -> 82.2 
+
+ The partial pressure of the vapour is 0.0705 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH8/EX8.9/Chapter8_example9.sce #
+ 
+ 
+ 
+ CO2  =
+ 
+    15.  
+ 
+ CO  =
+ 
+    2.2  
+ 
+ O2  =
+ 
+    1.6  
+ 
+ N2  =
+ 
+    81.2  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mCO2  =
+ 
+    44.  
+ 
+ mCO  =
+ 
+    28.  
+ 
+ mN2  =
+ 
+    28.  
+ 
+ 
+ 
+ pCO2  =
+ 
+    6.6  
+ 
+ pCO  =
+ 
+    0.616  
+ 
+ pO2  =
+ 
+    0.512  
+ 
+ pN2  =
+ 
+    22.736  
+ 
+ T  =
+ 
+    30.464  
+ 
+ ppCO2  =
+ 
+    21.664916  
+ 
+ ppCO  =
+ 
+    2.0220588  
+ 
+ ppO2  =
+ 
+    1.6806723  
+ 
+ ppN2  =
+ 
+    74.632353  
+ 
+ 
+The analysis by weight is given by (in percent) 
+ CO2 -> 21.7 
+ CO -> 2.0 
+ O2 -> 1.7 
+ N2 -> 74.6 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.10/Chapter9_example10.sce #
+ 
+ 
+ 
+ x  =
+ 
+    2.8  
+ 
+ va  =
+ 
+    58.  
+ 
+ da  =
+ 
+    1.28  
+ 
+ dp  =
+ 
+    750.  
+ 
+ An  =
+ 
+    1.8  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ Ca  =
+ 
+    0.84  
+ 
+ 
+ 
+ dpa  =
+ 
+    311.03437  
+ 
+ wf  =
+ 
+    0.0023027  
+ 
+ 
+ 
+Petrol consumption is 0.0023 kg/sec 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.11/Chapter9_example11.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.155  
+ 
+ Cd  =
+ 
+    0.94  
+ 
+ td  =
+ 
+    3.18  
+ 
+ Ca  =
+ 
+    0.84  
+ 
+ x  =
+ 
+    29.  
+ 
+ dw  =
+ 
+    0.89  
+ 
+ sa  =
+ 
+    1.1  
+ 
+ sg  =
+ 
+    0.72  
+ 
+ cyd  =
+ 
+    7.75    10.75  
+ 
+ fc  =
+ 
+    10.9  
+ 
+ N  =
+ 
+    3200.  
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+ 
+ w  =
+ 
+    14.93279  
+ 
+ Va  =
+ 
+    0.0408624  
+ 
+ vn  =
+ 
+    75.581134  
+ 
+ 
+ 
+Air fue ratio is 14.9 
+ Volumetric efficiency is 75.6 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.12/Chapter9_example12.sce #
+ 
+ 
+ 
+ af  =
+ 
+    0.066  
+ 
+ p  =
+ 
+    0.83  
+ 
+ pd  =
+ 
+    0.04  
+ 
+ va  =
+ 
+    245.  
+ 
+ 
+ 
+ dpa  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    0.79  
+ 
+ naf  =
+ 
+    0.0722994  
+ 
+ 
+ 
+(a) Throat pressure when the air cleaner is fitted is 0.79 kg/cm^2 
+ (b) New air fuel ratio is 0.0723 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.13/Chapter9_example13.sce #
+ 
+ 
+ 
+ x  =
+ 
+    3.  
+ 
+ Ta  =
+ 
+    288.5  
+ 
+ pa  =
+ 
+    1.027  
+ 
+ R  =
+ 
+    29.27  
+ 
+ sg  =
+ 
+    0.76  
+ 
+ fc  =
+ 
+    6.4  
+ 
+ jd  =
+ 
+    1.27  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ Ca  =
+ 
+    0.8  
+ 
+ af  =
+ 
+    0.066  
+ 
+ 
+ 
+ df  =
+ 
+    760.  
+ 
+ da  =
+ 
+    1.2161913  
+ 
+ va  =
+ 
+    4.8518343  
+ 
+ dpa  =
+ 
+    369.55017  
+ 
+ dpaw  =
+ 
+    36.955017  
+ 
+ dj  =
+ 
+    21.371912  
+ 
+ 
+ 
+Critical air velocity is 4.85 m/sec 
+ Effective throat diameter of the venturi is 21.4 mm 
+ The drop in pressure in the venturi is 36.96 cm of water 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.14/Chapter9_example14.sce #
+ 
+ 
+ 
+ ma  =
+ 
+    6.11  
+ 
+ mf  =
+ 
+    0.408  
+ 
+ dp  =
+ 
+    768.  
+ 
+ Ta  =
+ 
+    288.5  
+ 
+ pa  =
+ 
+    1.027  
+ 
+ R  =
+ 
+    29.27  
+ 
+ va  =
+ 
+    97.5  
+ 
+ Cv  =
+ 
+    0.84  
+ 
+ g  =
+ 
+    1.4  
+ 
+ x  =
+ 
+    0.8  
+ 
+ Cd  =
+ 
+    0.66  
+ 
+ 
+ 
+ rp  =
+ 
+    0.9210169  
+ 
+ p2  =
+ 
+    0.9458844  
+ 
+ T2  =
+ 
+    281.79713  
+ 
+ da  =
+ 
+    1.1467765  
+ 
+ daa  =
+ 
+    34.061868  
+ 
+ df  =
+ 
+    2.0487265  
+ 
+ 
+ 
+Throat diameter of the choke is 34 mm 
+ The orifice diameter is 2.05 mm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.15/Chapter9_example15.sce #
+ 
+ 
+ 
+ ma  =
+ 
+    6.8  
+ 
+ mf  =
+ 
+    0.45  
+ 
+ pa  =
+ 
+    1.033  
+ 
+ Ta  =
+ 
+    293.  
+ 
+ va  =
+ 
+    97.5  
+ 
+ Cv  =
+ 
+    0.8  
+ 
+ g  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    29.27  
+ 
+ x  =
+ 
+    0.75  
+ 
+ Cd  =
+ 
+    0.65  
+ 
+ pw  =
+ 
+    800.  
+ 
+ 
+ 
+ rp  =
+ 
+    0.9144726  
+ 
+ p2  =
+ 
+    0.9446502  
+ 
+ T2  =
+ 
+    285.61008  
+ 
+ da  =
+ 
+    1.1299904  
+ 
+ daa  =
+ 
+    3.6199645  
+ 
+ df  =
+ 
+    0.0021349  
+ 
+ 
+ 
+Throat diameter of the choke is 3.62 cm 
+ The orifice diameter is 0.00213 m 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.16/Chapter9_example16.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    100.  
+ 
+ L  =
+ 
+    100.  
+ 
+ N  =
+ 
+    1500.  
+ 
+ ap  =
+ 
+    13.5  
+ 
+ Ta  =
+ 
+    353.  
+ 
+ x  =
+ 
+    0.875  
+ 
+ nth  =
+ 
+    22.  
+ 
+ p  =
+ 
+    76.  
+ 
+ CV  =
+ 
+    9000.  
+ 
+ l  =
+ 
+    1524.  
+ 
+ dp  =
+ 
+    2.54  
+ 
+ lx  =
+ 
+    274.  
+ 
+ 
+ 
+ Vs  =
+ 
+    785.  
+ 
+ Va  =
+ 
+    686.875  
+ 
+ wa  =
+ 
+    3.0909375  
+ 
+ wf  =
+ 
+    0.2289583  
+ 
+ q  =
+ 
+    2060.625  
+ 
+ P  =
+ 
+    43.016692  
+ 
+ db  =
+ 
+    14.127591  
+ 
+ Pd  =
+ 
+    35.020346  
+ 
+ 
+ 
+Power developed at the ground level is 43 H.P 
+ Power developed at an altitude of 1524 m is 35 H.P 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.1/Chapter9_example1.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.001  
+ 
+ vd  =
+ 
+    104.  
+ 
+ Cd  =
+ 
+    0.65  
+ 
+ g  =
+ 
+    0.76  
+ 
+ w  =
+ 
+    1000.  
+ 
+ 
+ 
+ pa  =
+ 
+    1040.  
+ 
+ dp  =
+ 
+    760.  
+ 
+ wf  =
+ 
+    2.0093518  
+ 
+ 
+ 
+The weight of petrol discharged is 2.01 gm/sec 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.2/Chapter9_example2.sce #
+ 
+ 
+ 
+ d1  =
+ 
+    0.075  
+ 
+ Ca  =
+ 
+    0.93  
+ 
+ d2  =
+ 
+    0.005  
+ 
+ Cf  =
+ 
+    0.68  
+ 
+ ap  =
+ 
+    1.  
+ 
+ dp  =
+ 
+    0.15  
+ 
+ da  =
+ 
+    1.29  
+ 
+ df  =
+ 
+    720.  
+ 
+ 
+ 
+ w  =
+ 
+    13.025223  
+ 
+ 
+ 
+The air-fuel ratio neglecting the nozzle lip is 13.0 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.3/Chapter9_example3.sce #
+ 
+ 
+ 
+ af  =
+ 
+    15.  
+ 
+ dp  =
+ 
+    753.  
+ 
+ da  =
+ 
+    1.28  
+ 
+ C  =
+ 
+    0.84    0.7  
+ 
+ 
+ 
+ A  =
+ 
+    0.0032984  
+ 
+ d  =
+ 
+    0.0574313  
+ 
+ x  =
+ 
+    17.412104  
+ 
+ 
+ 
+The ratio of diameter of jet to diameter of venturi is 1 : 17.4 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.4/Chapter9_example4.sce #
+ 
+ 
+ 
+ D  =
+ 
+    10.    12.  
+ 
+ n  =
+ 
+    4.  
+ 
+ N  =
+ 
+    2000.  
+ 
+ d  =
+ 
+    0.03  
+ 
+ nv  =
+ 
+    70.  
+ 
+ Ca  =
+ 
+    0.8  
+ 
+ da  =
+ 
+    1.29  
+ 
+ 
+ 
+ Vs  =
+ 
+    0.000942  
+ 
+ Va  =
+ 
+    2.6376  
+ 
+ w  =
+ 
+    0.0567084  
+ 
+ dp  =
+ 
+    397.74229  
+ 
+ 
+ 
+The venturi depression is 397.7 kg/m^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.5/Chapter9_example5.sce #
+ 
+ 
+ 
+ D  =
+ 
+    8.25    11.5  
+ 
+ n  =
+ 
+    4.  
+ 
+ N  =
+ 
+    3000.  
+ 
+ v  =
+ 
+    150.  
+ 
+ nv  =
+ 
+    80.  
+ 
+ af  =
+ 
+    14.  
+ 
+ Ca  =
+ 
+    0.84  
+ 
+ Cf  =
+ 
+    0.7  
+ 
+ da  =
+ 
+    1.29  
+ 
+ df  =
+ 
+    700.  
+ 
+ dw  =
+ 
+    1000.  
+ 
+ 
+ 
+ Va  =
+ 
+    0.0491547  
+ 
+ vd  =
+ 
+    1500.  
+ 
+ va  =
+ 
+    126.87602  
+ 
+ d  =
+ 
+    0.0222156  
+ 
+ Af  =
+ 
+    0.0000014  
+ 
+ df  =
+ 
+    1.3475895  
+ 
+ 
+ 
+The size of venturi is 1500 kg/m^2 
+ The diameter of fuel orifice is 1.35 mm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.6/Chapter9_example6.sce #
+ 
+ 
+ D  =
+ 
+    7.5    10.  
+ 
+ n  =
+ 
+    6.  
+ 
+ pC  =
+ 
+    84.  
+ 
+ pH2  =
+ 
+    16.  
+ 
+ dc  =
+ 
+    0.0385  
+ 
+ N  =
+ 
+    3000.  
+ 
+ nv  =
+ 
+    0.8  
+ 
+ p  =
+ 
+    0.914  
+ 
+ T  =
+ 
+    288.5  
+ 
+ Ts  =
+ 
+    273.  
+ 
+ ps  =
+ 
+    1.027  
+ 
+ Ra  =
+ 
+    29.27  
+ 
+ Rf  =
+ 
+    9.9  
+ 
+ pO2  =
+ 
+    23.  
+ 
+ pN2  =
+ 
+    77.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ mC  =
+ 
+    12.  
+ 
+ 
+ 
+ Vm  =
+ 
+    3.17925  
+ 
+ qa  =
+ 
+    15.304348  
+ 
+ vf  =
+ 
+    0.2631646  
+ 
+ va  =
+ 
+    0.7780633  
+ 
+ wf  =
+ 
+    0.2612170  
+ 
+ Fc  =
+ 
+    15.673019  
+ 
+ da  =
+ 
+    1.0823748  
+ 
+ Va  =
+ 
+    52.90494  
+ 
+ 
+ 
+(a) The fuel consumption is 15.7 kg/hr 
+ (b) The speed of the air through the choke is 52.9 m/s 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.7/Chapter9_example7.sce #
+ 
+ 
+ 
+ mf  =
+ 
+    7.5  
+ 
+ gf  =
+ 
+    0.75  
+ 
+ Tf  =
+ 
+    298.  
+ 
+ af  =
+ 
+    15.  
+ 
+ dc  =
+ 
+    22.  
+ 
+ l  =
+ 
+    4.  
+ 
+ Ca  =
+ 
+    0.82  
+ 
+ Cf  =
+ 
+    0.7  
+ 
+ R  =
+ 
+    29.27  
+ 
+ p  =
+ 
+    1.03  
+ 
+ 
+ 
+ da  =
+ 
+    1.1808595  
+ 
+ dp  =
+ 
+    750.  
+ 
+ dpa  =
+ 
+    434.25523  
+ 
+ df  =
+ 
+    1.246785  
+ 
+ 
+ 
+Diameter of the jet of the carburettor is 1.25 mm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.8/Chapter9_example8.sce #
+ 
+ 
+ 
+ td  =
+ 
+    7.5  
+ 
+ Ca  =
+ 
+    0.85  
+ 
+ fd  =
+ 
+    0.5  
+ 
+ Cd  =
+ 
+    0.7  
+ 
+ l  =
+ 
+    5.  
+ 
+ x  =
+ 
+    1.  
+ 
+ dpa  =
+ 
+    0.15  
+ 
+ da  =
+ 
+    1.29  
+ 
+ dp  =
+ 
+    720.  
+ 
+ 
+ 
+ afr1  =
+ 
+    11.564637  
+ 
+ afr2  =
+ 
+    11.566025  
+ 
+ 
+ 
+The air fuel ratio 
+ (a) neglecting nozzle lip is 11.56 
+ (b) nozzle lip is taken into account is 11.57 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH9/EX9.9/Chapter9_example9.sce #
+ 
+ 
+ 
+ td  =
+ 
+    7.5  
+ 
+ Ca  =
+ 
+    0.85  
+ 
+ fd  =
+ 
+    0.5  
+ 
+ Cd  =
+ 
+    0.7  
+ 
+ l  =
+ 
+    5.  
+ 
+ x  =
+ 
+    1.  
+ 
+ dpa  =
+ 
+    0.15  
+ 
+ da  =
+ 
+    1.29  
+ 
+ dp  =
+ 
+    720.  
+ 
+ 
+ 
+ v  =
+ 
+    7.39956  
+ 
+ 
+ 
+Velocity of air flow is 7.4 m/s 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH11/EX11.1/Chapter11_example1.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.0625  
+ 
+ L  =
+ 
+    0.09  
+ 
+ nv  =
+ 
+    0.75  
+ 
+ p  =
+ 
+    1.03  
+ 
+ T  =
+ 
+    273.  
+ 
+ R  =
+ 
+    29.27  
+ 
+ 
+ 
+ Vs  =
+ 
+    0.0002760  
+ 
+ V  =
+ 
+    0.0002070  
+ 
+ w  =
+ 
+    0.0002668  
+ 
+ 
+ 
+The weight of the charge is 0.000267 kg/cycle 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH11/EX11.2/Chapter11_example2.sce #
+ 
+ 
+ 
+ n  =
+ 
+    9.  
+ 
+ d  =
+ 
+    0.145  
+ 
+ l  =
+ 
+    0.19  
+ 
+ r  =
+ 
+    5.9  
+ 
+ bhp  =
+ 
+    460.  
+ 
+ N  =
+ 
+    2000.  
+ 
+ x  =
+ 
+    20.  
+ 
+ CV  =
+ 
+    11200.  
+ 
+ pC  =
+ 
+    85.3  
+ 
+ pH2  =
+ 
+    14.7  
+ 
+ nv  =
+ 
+    70.  
+ 
+ T  =
+ 
+    288.  
+ 
+ nm  =
+ 
+    90.  
+ 
+ wO2  =
+ 
+    23.3  
+ 
+ da  =
+ 
+    1.29  
+ 
+ mC  =
+ 
+    12.  
+ 
+ mO2  =
+ 
+    32.  
+ 
+ mH2  =
+ 
+    2.  
+ 
+ 
+ 
+ hihp  =
+ 
+    5386.4169  
+ 
+ Vs  =
+ 
+    28.222909  
+ 
+ cw  =
+ 
+    21.878224  
+ 
+ ma  =
+ 
+    14.809728  
+ 
+ mf  =
+ 
+    1.4772873  
+ 
+ ith  =
+ 
+    27.129121  
+ 
+ 
+ 
+Indicated thermal efficiency of the engine is 27.1 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH11/EX11.3/Chapter11_example3.sce #
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ d  =
+ 
+    8.57  
+ 
+ l  =
+ 
+    8.25  
+ 
+ r  =
+ 
+    7.  
+ 
+ N  =
+ 
+    4000.  
+ 
+ la  =
+ 
+    53.35  
+ 
+ t  =
+ 
+    10.  
+ 
+ br  =
+ 
+    40.8  
+ 
+ gas  =
+ 
+    0.455  
+ 
+ CV  =
+ 
+    11400.  
+ 
+ Ta  =
+ 
+    294.  
+ 
+ pa  =
+ 
+    1.027  
+ 
+ wa  =
+ 
+    5.44  
+ 
+ J  =
+ 
+    427.  
+ 
+ R  =
+ 
+    29.27  
+ 
+ 
+ 
+ bhp  =
+ 
+    121.50711  
+ 
+ pb  =
+ 
+    7.1847058  
+ 
+ bsfc  =
+ 
+    0.2246782  
+ 
+ bsac  =
+ 
+    2.6862625  
+ 
+ nb  =
+ 
+    24.687101  
+ 
+ Vd  =
+ 
+    475.64753  
+ 
+ Pd  =
+ 
+    7.6103605  
+ 
+ Va  =
+ 
+    4.5582539  
+ 
+ nv  =
+ 
+    59.895373  
+ 
+ af  =
+ 
+    11.956044  
+ 
+ 
+ 
+(a) the B.H.P delivered s 122 h.p 
+ (b) the b.m.e.p is 7.2 kg/cm^2 
+ (c) the b.s.f.c is 0.225 kg/b.h.p.hr 
+ (d) the brake specific air consumption is 2.686 kg/b.h.p.hr 
+ (e) the brake thermal efficiency is 24.7 percent 
+ (f) the volumetric efficiency is  60 percent 
+ (g) the air fuel ratio is 11.96 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH11/EX11.4/Chapter11_example4.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ N  =
+ 
+    2000.  
+ 
+ m  =
+ 
+    13.15  
+ 
+ Vd  =
+ 
+    655.5  
+ 
+ da  =
+ 
+    1.2  
+ 
+ d  =
+ 
+    12.7  
+ 
+ 
+ 
+ 
+ Qa  =
+ 
+    2.3764201  
+ 
+ Wa  =
+ 
+    2.8517041  
+ 
+ Va  =
+ 
+    594.10503  
+ 
+ nv  =
+ 
+    90.633871  
+ 
+ af  =
+ 
+    13.011578  
+ 
+ 
+ 
+(a) the weight of air drawn is 2.852 kg/min 
+ (b) volumetric efficiency taking air into account is 90.6 percent 
+ (c) the air-fuel ratio is 13 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH11/EX11.5/Chapter11_example5.sce #
+ 
+ 
+ 
+ d  =
+ 
+    10.  
+ 
+ l  =
+ 
+    15.  
+ 
+ r  =
+ 
+    6.  
+ 
+ ihp  =
+ 
+    20.  
+ 
+ N  =
+ 
+    1000.  
+ 
+ n  =
+ 
+    4.  
+ 
+ nt  =
+ 
+    30.  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Vs  =
+ 
+    1177.5  
+ 
+ Vc  =
+ 
+    235.5  
+ 
+ na  =
+ 
+    51.164066  
+ 
+ pm  =
+ 
+    38216.561  
+ 
+ pc  =
+ 
+    4.2154567  
+ 
+ 
+ 
+Clearance volume is 235.5 c.c 
+ The air standard efficiency is 51.2 percent 
+ Petrol consumption is 4.22 kg/hr 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH11/EX11.6/Chapter11_example6.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ P  =
+ 
+    62.  
+ 
+ N  =
+ 
+    3000.  
+ 
+ nv  =
+ 
+    85.  
+ 
+ nt  =
+ 
+    25.  
+ 
+ CV  =
+ 
+    10500.  
+ 
+ af  =
+ 
+    15.  
+ 
+ T  =
+ 
+    273.  
+ 
+ p  =
+ 
+    1.03  
+ 
+ R  =
+ 
+    29.27  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ q  =
+ 
+    2613.5831  
+ 
+ F  =
+ 
+    0.2489127  
+ 
+ Fc  =
+ 
+    0.0000277  
+ 
+ wt  =
+ 
+    0.0004149  
+ 
+ d  =
+ 
+    7.8424503  
+ 
+ 
+ 
+Cylinder bore = stroke = 7.84 cm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH14/EX14.1/Chapter14_example1.sce #
+ 
+ 
+ 
+ r  =
+ 
+    14.3  
+ 
+ c  =
+ 
+    5.  
+ 
+ w  =
+ 
+    0.006  
+ 
+ T4  =
+ 
+    912.  
+ 
+ q  =
+ 
+    8300.  
+ 
+ x  =
+ 
+    0.258    0.000048  
+ 
+ 
+ 
+ v4  =
+ 
+    1.  
+ 
+ v1  =
+ 
+    1.665  
+ 
+ T1  =
+ 
+    1518.48  
+ 
+ qp1  =
+ 
+    502.44535  
+ 
+ qp4  =
+ 
+    275.21971  
+ 
+ qre  =
+ 
+    227.22564  
+ 
+ wf  =
+ 
+    0.0001643  
+ 
+ 
+ 
+The weight of oil that must be injected is 0.000164 kg 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH14/EX14.2/Chapter14_example2.sce #
+ 
+ 
+ 
+ r  =
+ 
+    14.  
+ 
+ p  =
+ 
+    1.2  
+ 
+ bp  =
+ 
+    0.65  
+ 
+ Tc  =
+ 
+    360.  
+ 
+ Te  =
+ 
+    1123.  
+ 
+ T1  =
+ 
+    384.  
+ 
+ g  =
+ 
+    1.2  
+ 
+ 
+ 
+ Cw1  =
+ 
+    5.7880677  
+ 
+ Cw2  =
+ 
+    433.33333  
+ 
+ T3  =
+ 
+    372.03681  
+ 
+ t3  =
+ 
+    99.03681  
+ 
+ rw  =
+ 
+    0.0133571  
+ 
+ 
+ 
+The ratio of the mass residuals to fresh charge is 0.0134 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.10/Chapter15_example10.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    11.5  
+ 
+ l  =
+ 
+    14.  
+ 
+ af  =
+ 
+    16.  
+ 
+ pa  =
+ 
+    1.03  
+ 
+ Ta  =
+ 
+    297.  
+ 
+ nv  =
+ 
+    76.5  
+ 
+ R  =
+ 
+    29.27  
+ 
+ N  =
+ 
+    1500.  
+ 
+ ip  =
+ 
+    125.  
+ 
+ cp  =
+ 
+    40.  
+ 
+ q  =
+ 
+    18.5  
+ 
+ fsw  =
+ 
+    760.  
+ 
+ dc  =
+ 
+    0.94  
+ 
+ 
+ 
+ Vs  =
+ 
+    1453.4275  
+ 
+ Va  =
+ 
+    1111.872  
+ 
+ wa  =
+ 
+    0.0013174  
+ 
+ wf  =
+ 
+    0.0000823  
+ 
+ I  =
+ 
+    0.0020556  
+ 
+ F  =
+ 
+    0.0400556  
+ 
+ Af  =
+ 
+    0.0000004  
+ 
+ df  =
+ 
+    0.6943848  
+ 
+ 
+ 
+Maximum amount of fuel injected per cylinder per sec is 0.04 kg/sec 
+ Diameter of orifice is 0.694 mm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.1/Chapter15_example1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ p  =
+ 
+    720.  
+ 
+ N  =
+ 
+    180.  
+ 
+ f  =
+ 
+    250.  
+ 
+ 
+ 
+ w  =
+ 
+    5.5555556  
+ 
+ 
+ 
+The quantity of fuel to be injected per cylinder is 5.56 gm/cycle 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.2/Chapter15_example2.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ fc  =
+ 
+    0.215  
+ 
+ BHP  =
+ 
+    400.  
+ 
+ N  =
+ 
+    250.  
+ 
+ sg  =
+ 
+    0.9  
+ 
+ 
+ 
+ Fc  =
+ 
+    86.  
+ 
+ Fcy  =
+ 
+    21.5  
+ 
+ Fcyc  =
+ 
+    3.1851852  
+ 
+ 
+ 
+The quantity of fuel to be injected per cycle per cylinder is 3.185 c.c 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.3/Chapter15_example3.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ p  =
+ 
+    450.  
+ 
+ N  =
+ 
+    200.  
+ 
+ f  =
+ 
+    0.2  
+ 
+ g  =
+ 
+    0.9  
+ 
+ 
+ 
+ Fc  =
+ 
+    90.  
+ 
+ Fcy  =
+ 
+    22.5  
+ 
+ Fcyc  =
+ 
+    0.00375  
+ 
+ q  =
+ 
+    4.1666667  
+ 
+ 
+ 
+The quantity of fuel to be injected per cycle per cylinder is 4.167 c.c 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.4/Chapter15_example4.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ p  =
+ 
+    720.  
+ 
+ N  =
+ 
+    180.  
+ 
+ f  =
+ 
+    250.  
+ 
+ 
+ Vo  =
+ 
+    20.  
+ 
+ dp  =
+ 
+    80.  
+ 
+ voi  =
+ 
+    6.  
+ 
+ g  =
+ 
+    0.9  
+ 
+ b  =
+ 
+    0.0000788  
+ 
+ 
+ 
+ w  =
+ 
+    5.5555556  
+ 
+ Va  =
+ 
+    6.1728395  
+ 
+ V1  =
+ 
+    26.17284  
+ 
+ dV12  =
+ 
+    0.1649936  
+ 
+ 
+ d  =
+ 
+    2.0291386  
+ 
+ l  =
+ 
+    4.0582771  
+ 
+ 
+ 
+The diameter of the pump is 2.03 cm 
+ The total stroke is 4.06 cm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.5/Chapter15_example5.sce #
+ 
+ 
+ 
+ p  =
+ 
+    110.  
+ 
+ pc  =
+ 
+    25.  
+ 
+ q  =
+ 
+    0.805  
+ 
+ d  =
+ 
+    0.906  
+ 
+ 
+ 
+ v  =
+ 
+    289.27783  
+ 
+ 
+ 
+The velocity of injection is 289 m/s 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.6/Chapter15_example6.sce #
+ 
+ 
+ 
+ Vf  =
+ 
+    6.2  
+ 
+ l  =
+ 
+    65.  
+ 
+ di  =
+ 
+    2.5  
+ 
+ V  =
+ 
+    2.75  
+ 
+ Vd  =
+ 
+    0.15  
+ 
+ p  =
+ 
+    140.  
+ 
+ pp  =
+ 
+    1.  
+ 
+ patm  =
+ 
+    1.03  
+ 
+ b  =
+ 
+    0.0000788  
+ 
+ 
+ 
+ V1  =
+ 
+    12.139062  
+ 
+ dV  =
+ 
+    0.1290889  
+ 
+ d  =
+ 
+    0.2790889  
+ 
+ 
+ 
+The total displacement of the plunger is 0.279 c.c 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.7/Chapter15_example7.sce #
+ 
+ 
+ 
+ Vf  =
+ 
+    6.75  
+ 
+ l  =
+ 
+    65.  
+ 
+ di  =
+ 
+    2.5  
+ 
+ V  =
+ 
+    2.45  
+ 
+ Vd  =
+ 
+    0.15  
+ 
+ p  =
+ 
+    150.  
+ 
+ pp  =
+ 
+    1.  
+ 
+ patm  =
+ 
+    1.03  
+ 
+ b  =
+ 
+    0.0000788  
+ 
+ 
+ 
+ V1  =
+ 
+    12.389063  
+ 
+ dV  =
+ 
+    0.1412257  
+ 
+ d  =
+ 
+    0.2912257  
+ 
+ 
+ 
+The total displacement of the plunger is 0.291 c.c 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.8/Chapter15_example8.sce #
+ 
+ 
+ 
+ Vf  =
+ 
+    6.75  
+ 
+ l  =
+ 
+    65.  
+ 
+ di  =
+ 
+    2.5  
+ 
+ V  =
+ 
+    2.45  
+ 
+ Vd  =
+ 
+    0.15  
+ 
+ p  =
+ 
+    150.  
+ 
+ pp  =
+ 
+    1.  
+ 
+ patm  =
+ 
+    1.03  
+ 
+ b  =
+ 
+    0.0000788  
+ 
+ dp  =
+ 
+    0.75  
+ 
+ 
+ 
+ V1  =
+ 
+    12.389063  
+ 
+ dV  =
+ 
+    0.1412257  
+ 
+ d  =
+ 
+    0.2912257  
+ 
+ s  =
+ 
+    6.5953447  
+ 
+ 
+ 
+The effective plunger stroke is 6.6 mm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH15/EX15.9/Chapter15_example9.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ p  =
+ 
+    300.  
+ 
+ N  =
+ 
+    1200.  
+ 
+ f  =
+ 
+    0.2  
+ 
+ ip  =
+ 
+    200.  
+ 
+ cp  =
+ 
+    40.  
+ 
+ pic  =
+ 
+    33.  
+ 
+ g  =
+ 
+    0.83  
+ 
+ Cd  =
+ 
+    0.9  
+ 
+ 
+ 
+ Fc  =
+ 
+    60.  
+ 
+ Fcy  =
+ 
+    10.  
+ 
+ Fcyc  =
+ 
+    0.0002778  
+ 
+ q  =
+ 
+    0.3346720  
+ 
+ I  =
+ 
+    0.0045833  
+ 
+ df  =
+ 
+    0.00083  
+ 
+ v  =
+ 
+    19447.799  
+ 
+ A  =
+ 
+    0.0041718  
+ 
+ d  =
+ 
+    0.7290002  
+ 
+ 
+ 
+The diameter of the single orifice injector is 0.73 mm 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH16/EX16.1/Chapter16_example1.sce #
+ 
+ 
+ 
+ s  =
+ 
+    0.005  
+ 
+ d  =
+ 
+    30.  
+ 
+ N  =
+ 
+    600.  
+ 
+ dx  =
+ 
+    10.    15.    20.  
+ 
+ 
+ 
+ t  =
+ 
+    0.0016667    0.0025    0.0033333  
+ 
+ 
+ 
+The delay time for 10 cm diameter bore is 0.00167 sec 
+ The delay time for 15 cm diameter bore is 0.00250 sec 
+ The delay time for 20 cm diameter bore is 0.00333 sec 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH16/EX16.2/Chapter16_example2.sce #
+ 
+ 
+ 
+ d  =
+ 
+    15.    60.  
+ 
+ N  =
+ 
+    1600.    400.  
+ 
+ q  =
+ 
+    30.  
+ 
+ pc  =
+ 
+    30.  
+ 
+ d  =
+ 
+    0.001  
+ 
+ rp  =
+ 
+    5.  
+ 
+ pe  =
+ 
+    60.  
+ 
+ 
+ 
+ 
+ It1  =
+ 
+    0.003125  
+ 
+ pf1  =
+ 
+    48.666667  
+ 
+ 
+ It2  =
+ 
+    0.0125  
+ 
+ pf2  =
+ 
+    24.666667  
+ 
+ pr  =
+ 
+    15.205479  
+ 
+ mp  =
+ 
+    45.205479  
+ 
+ 
+ 
+Pressure in the large engine is 45.2 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH16/EX16.3/Chapter16_example3.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    105.  
+ 
+ l  =
+ 
+    127.  
+ 
+ BHP  =
+ 
+    63.  
+ 
+ N  =
+ 
+    1800.  
+ 
+ t  =
+ 
+    15.  
+ 
+ mf  =
+ 
+    2.75  
+ 
+ CV  =
+ 
+    11000.  
+ 
+ af  =
+ 
+    14.8  
+ 
+ v  =
+ 
+    0.805  
+ 
+ nv  =
+ 
+    80.  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ bth  =
+ 
+    32.922368  
+ 
+ Vs  =
+ 
+    1099.1374  
+ 
+ Vsw  =
+ 
+    59353418.  
+ 
+ Va  =
+ 
+    47.482735  
+ 
+ wa  =
+ 
+    58.984763  
+ 
+ wr  =
+ 
+    40.7  
+ 
+ pei  =
+ 
+    69.00087  
+ 
+ 
+ 
+Brake thermal efficiency is 32.9 percent 
+ The percentage of air used for combustion is 69 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH18/EX18.1/Chapter18_example1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    9.  
+ 
+ l  =
+ 
+    10.  
+ 
+ N  =
+ 
+    2500.  
+ 
+ Ta  =
+ 
+    298.  
+ 
+ q  =
+ 
+    16800.  
+ 
+ T  =
+ 
+    333.  
+ 
+ p  =
+ 
+    1.6  
+ 
+ t  =
+ 
+    14.5  
+ 
+ nv  =
+ 
+    75.  
+ 
+ nm  =
+ 
+    74.  
+ 
+ R  =
+ 
+    29.27  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ BHP  =
+ 
+    50.588889  
+ 
+ IHP  =
+ 
+    68.363363  
+ 
+ pm  =
+ 
+    6.4508953  
+ 
+ Vs  =
+ 
+    4.768875  
+ 
+ Va  =
+ 
+    3.5766563  
+ 
+ ma  =
+ 
+    5.8712453  
+ 
+ mcdT  =
+ 
+    2221.4091  
+ 
+ msdT  =
+ 
+    1166.6667  
+ 
+ x  =
+ 
+    1.9040649  
+ 
+ T2  =
+ 
+    371.71403  
+ 
+ mc  =
+ 
+    30.135497  
+ 
+ 
+ 
+(a) the mean effective pressure is 6.45 kg/cm^2 
+ (b) the air consumption is 5.871 kg/min 
+ (c) the air flow into the compressor is 30.14 kg/min 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH18/EX18.2/Chapter18_example2.sce #
+ 
+ 
+ 
+ IMEP  =
+ 
+    10.  
+ 
+ x  =
+ 
+    20.  
+ 
+ pIMEP  =
+ 
+    0.41  
+ 
+ p1  =
+ 
+    0.97  
+ 
+ T1  =
+ 
+    373.  
+ 
+ pm  =
+ 
+    0.91  
+ 
+ bn  =
+ 
+    70.  
+ 
+ T2  =
+ 
+    50.  
+ 
+ dp  =
+ 
+    0.07  
+ 
+ pi  =
+ 
+    1.47  
+ 
+ Ta  =
+ 
+    288.  
+ 
+ pa  =
+ 
+    1.03  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2x  =
+ 
+    382.0119  
+ 
+ rIMEP  =
+ 
+    1.3935163  
+ 
+ gIMEP  =
+ 
+    13.935163  
+ 
+ nsIMEP  =
+ 
+    14.375163  
+ 
+ nuIMEP  =
+ 
+    9.59  
+ 
+ iIMEP  =
+ 
+    4.7851628  
+ 
+ pei  =
+ 
+    49.897423  
+ 
+ 
+ 
+Percentage increase in the net I.M.E.P due to supercharging is 49.9 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH18/EX18.3/Chapter18_example3.sce #
+ 
+ 
+ 
+ l  =
+ 
+    4.5  
+ 
+ P  =
+ 
+    20.  
+ 
+ N  =
+ 
+    1700.  
+ 
+ nv  =
+ 
+    75.  
+ 
+ Ta  =
+ 
+    300.  
+ 
+ pa  =
+ 
+    1.03  
+ 
+ pr  =
+ 
+    1.75  
+ 
+ ie  =
+ 
+    70.  
+ 
+ nm  =
+ 
+    75.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ nb  =
+ 
+    80.  
+ 
+ R  =
+ 
+    29.27  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ Vs  =
+ 
+    3.825  
+ 
+ uVs  =
+ 
+    2.86875  
+ 
+ dp  =
+ 
+    1.8025  
+ 
+ Tc  =
+ 
+    352.01462  
+ 
+ dT  =
+ 
+    374.3066  
+ 
+ Va  =
+ 
+    5.3649202  
+ 
+ iiv  =
+ 
+    2.4961702  
+ 
+ iIHP  =
+ 
+    49.923403  
+ 
+ iBHP  =
+ 
+    37.442552  
+ 
+ ma  =
+ 
+    6.2929823  
+ 
+ HP  =
+ 
+    13.311301  
+ 
+ nibhp  =
+ 
+    24.131252  
+ 
+ pei  =
+ 
+    42.058827  
+ 
+ 
+ 
+Percentage net increase in B.H.P is 42.1 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH19/EX19.3/Chapter19_example3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    11.25  
+ 
+ l  =
+ 
+    15.  
+ 
+ r  =
+ 
+    7.  
+ 
+ N  =
+ 
+    1800.  
+ 
+ a  =
+ 
+    4.5  
+ 
+ Ta  =
+ 
+    345.  
+ 
+ af  =
+ 
+    14.3  
+ 
+ ep  =
+ 
+    1.  
+ 
+ R  =
+ 
+    29.27  
+ 
+ 
+ 
+ Vc  =
+ 
+    0.0017387  
+ 
+ Wa  =
+ 
+    3.099156  
+ 
+ sr  =
+ 
+    1.4520082  
+ 
+ sn  =
+ 
+    0.7659003  
+ 
+ nt  =
+ 
+    0.5274766  
+ 
+ 
+ 
+(a) Ideal air capacity is 3.10 kg/min 
+ (b) Scavenging ratio is 1.45 
+ (c) Scavenging efficiency is 0.766 
+ (d) Trapping efficiency is 0.53 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.10/Chapter23_example10.sce #
+ 
+ 
+ 
+ d  =
+ 
+    25.  
+ 
+ l  =
+ 
+    50.  
+ 
+ N  =
+ 
+    240.  
+ 
+ n  =
+ 
+    100.  
+ 
+ qc  =
+ 
+    0.3  
+ 
+ h  =
+ 
+    100.  
+ 
+ bp  =
+ 
+    1.03  
+ 
+ T  =
+ 
+    288.  
+ 
+ ma  =
+ 
+    2.82  
+ 
+ R  =
+ 
+    29.45  
+ 
+ 
+ 
+ gp  =
+ 
+    1.1296517  
+ 
+ Vc  =
+ 
+    0.3118881  
+ 
+ Vce  =
+ 
+    0.0031189  
+ 
+ va  =
+ 
+    2.2012017  
+ 
+ V  =
+ 
+    0.0178235  
+ 
+ tV  =
+ 
+    0.0209424  
+ 
+ Vs  =
+ 
+    0.0245312  
+ 
+ nv  =
+ 
+    85.370351  
+ 
+ 
+ 
+(a) the charge of air per working cycle as measured at N.T.P is 0.02094 cu.m 
+ (b) the volumetric efficiency is 85.4 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.11/Chapter23_example11.sce #
+ 
+ 
+ 
+ d  =
+ 
+    18.  
+ 
+ l  =
+ 
+    24.  
+ 
+ t  =
+ 
+    30.  
+ 
+ r  =
+ 
+    9000.  
+ 
+ e  =
+ 
+    4445.  
+ 
+ mep  =
+ 
+    5.85  
+ 
+ Nl  =
+ 
+    40.  
+ 
+ ed  =
+ 
+    1.  
+ 
+ tg  =
+ 
+    2.3  
+ 
+ CV  =
+ 
+    4600.  
+ 
+ ta  =
+ 
+    36.  
+ 
+ pa  =
+ 
+    720.  
+ 
+ Ta  =
+ 
+    291.  
+ 
+ da  =
+ 
+    1.293  
+ 
+ Te  =
+ 
+    623.  
+ 
+ Tr  =
+ 
+    291.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ twc  =
+ 
+    81.5  
+ 
+ dT  =
+ 
+    33.  
+ 
+ R  =
+ 
+    29.45  
+ 
+ 
+ 
+ ihp  =
+ 
+    11.75763  
+ 
+ bhp  =
+ 
+    8.3733333  
+ 
+ qs  =
+ 
+    352.66667  
+ 
+ qbhp  =
+ 
+    88.24356  
+ 
+ ql  =
+ 
+    89.65  
+ 
+ VA  =
+ 
+    31.995659  
+ 
+ WA  =
+ 
+    1.3790129  
+ 
+ WG  =
+ 
+    2.9465724  
+ 
+ Wg  =
+ 
+    0.0982191  
+ 
+ We  =
+ 
+    1.477232  
+ 
+ qle  =
+ 
+    117.70585  
+ 
+ qra  =
+ 
+    57.067262  
+ 
+ nm  =
+ 
+    71.216169  
+ 
+ ith  =
+ 
+    35.135003  
+ 
+ 
+ 
+         HEAT BALANCE SHEET
+          ------------------ 
+
+ Heat supplied per minute is 352.7 kcal/min 
+
+ Heat expenditure               (kcal per minute) 
+ 1.Heat equivalent of B.H.P is          88.2 
+ 2.Heat lost to jacket cooling water is 89.7 
+ 3.Heat lost in exhaust gases is        117.7 
+ 4.Heat lost by radiation, etc., is     57.1 
+                                      --------
+                                       352.7
+                                      -------- 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.12/Chapter23_example12.sce #
+ 
+ 
+ 
+ gu  =
+ 
+    0.135  
+ 
+ CV  =
+ 
+    3990.  
+ 
+ dg  =
+ 
+    0.64  
+ 
+ au  =
+ 
+    1.52  
+ 
+ C  =
+ 
+    0.24  
+ 
+ Te  =
+ 
+    670.  
+ 
+ Tr  =
+ 
+    290.  
+ 
+ cw  =
+ 
+    6.  
+ 
+ rT  =
+ 
+    27.5  
+ 
+ ihp  =
+ 
+    12.3  
+ 
+ bhp  =
+ 
+    10.2  
+ 
+ 
+ 
+ qs  =
+ 
+    32319.  
+ 
+ qbhp  =
+ 
+    6449.6487  
+ 
+ ql  =
+ 
+    9900.  
+ 
+ mg  =
+ 
+    0.0864  
+ 
+ me  =
+ 
+    1.6064  
+ 
+ qe  =
+ 
+    8790.2208  
+ 
+ qun  =
+ 
+    7179.1305  
+ 
+ 
+ 
+Heat supplied is 32319 kcal/hour 
+ Heat equivalent of B.H.P is 6450 kcal/hr 
+ Heat lost in jacket cooling water is 9900 kcal/hr 
+ Heat carried away by exhaust gases is 8790 kcal/hour 
+ Heat unaccounted is 7179 kcal/hour 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.13/Chapter23_example13.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ r  =
+ 
+    1.  
+ 
+ N  =
+ 
+    1400.  
+ 
+ bl  =
+ 
+    14.5  
+ 
+ P  =
+ 
+    9.8    10.1    10.3    10.  
+ 
+ d  =
+ 
+    9.  
+ 
+ l  =
+ 
+    12.  
+ 
+ 
+ 
+ bhp  =
+ 
+    28.329778  
+ 
+ bhp1  =
+ 
+    19.147022  
+ 
+ bhp2  =
+ 
+    19.733156  
+ 
+ bhp3  =
+ 
+    20.123911  
+ 
+ bhp4  =
+ 
+    19.537778  
+ 
+ ihp1  =
+ 
+    9.1827556  
+ 
+ ihp2  =
+ 
+    8.5966222  
+ 
+ ihp3  =
+ 
+    8.2058667  
+ 
+ ihp4  =
+ 
+    8.792  
+ 
+ ihp  =
+ 
+    34.777244  
+ 
+ nm  =
+ 
+    81.460674  
+ 
+ pm  =
+ 
+    23.868313  
+ 
+ 
+ 
+I.H.P is 34.8 h.p 
+ Mechanical efficiency is 81.5 percent 
+ Brake mean effective pressure is  24 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.14/Chapter23_example14.sce #
+ 
+ 
+ 
+ N  =
+ 
+    350.  
+ 
+ L  =
+ 
+    60.  
+ 
+ mep  =
+ 
+    2.75  
+ 
+ oc  =
+ 
+    4.25  
+ 
+ jcw  =
+ 
+    490.  
+ 
+ Tw  =
+ 
+    293.    318.  
+ 
+ au  =
+ 
+    31.5  
+ 
+ Ta  =
+ 
+    293.  
+ 
+ Te  =
+ 
+    663.  
+ 
+ d  =
+ 
+    22.  
+ 
+ l  =
+ 
+    28.  
+ 
+ bd  =
+ 
+    1.  
+ 
+ CV  =
+ 
+    10500.  
+ 
+ pH2  =
+ 
+    15.  
+ 
+ C  =
+ 
+    0.24  
+ 
+ Cs  =
+ 
+    9.5  
+ 
+ 
+ 
+ ibp  =
+ 
+    22.754184  
+ 
+ bhp  =
+ 
+    14.653333  
+ 
+ qs  =
+ 
+    743.75  
+ 
+ qbhp  =
+ 
+    154.42623  
+ 
+ pqbhp  =
+ 
+    20.763191  
+ 
+ ql  =
+ 
+    204.16667  
+ 
+ pql  =
+ 
+    27.45098  
+ 
+ wH2O  =
+ 
+    0.095625  
+ 
+ twe  =
+ 
+    2.3020833  
+ 
+ twd  =
+ 
+    2.2064583  
+ 
+ qle  =
+ 
+    195.9335  
+ 
+ pqle  =
+ 
+    26.344  
+ 
+ qx  =
+ 
+    783.9  
+ 
+ qst  =
+ 
+    74.960437  
+ 
+ pqst  =
+ 
+    10.078714  
+ 
+ qra  =
+ 
+    114.26317  
+ 
+ pqra  =
+ 
+    15.363115  
+ 
+ 
+ 
+         HEAT BALANCE SHEET
+          ------------------ 
+
+ Heat supplied per minute is        744 kcal/min  100 percent 
+
+ Heat expenditure              (kcal per minute)      (percent) 
+ 1.Heat equivalent of B.H.P is              154.4      20.8 
+ 2.Heat lost to cooling water is            204        27.5 
+ 3.Heat lost to dry exhaust gases is        195.9      26.3
+ 4.Heat lost of steam in exhaust gases is   75         10.1
+ 5.Heat lost by radiation, etc., is         114        15.4 
+                                           ------------------
+        Total                               744        100 
+                                           ------------------ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.15/Chapter23_example15.sce #
+ 
+ 
+ 
+ d  =
+ 
+    20.  
+ 
+ l  =
+ 
+    40.  
+ 
+ mep  =
+ 
+    5.95  
+ 
+ bt  =
+ 
+    41.5  
+ 
+ N  =
+ 
+    250.  
+ 
+ oc  =
+ 
+    4.2  
+ 
+ CV  =
+ 
+    11300.  
+ 
+ jcw  =
+ 
+    4.5  
+ 
+ rT  =
+ 
+    45.  
+ 
+ au  =
+ 
+    31.  
+ 
+ Te  =
+ 
+    420.  
+ 
+ Tr  =
+ 
+    20.  
+ 
+ Cm  =
+ 
+    0.24  
+ 
+ 
+ 
+ ihp  =
+ 
+    20.758889  
+ 
+ bhp  =
+ 
+    14.478889  
+ 
+ q  =
+ 
+    47460.  
+ 
+ qbhp  =
+ 
+    9155.2693  
+ 
+ qfhp  =
+ 
+    3970.9602  
+ 
+ qc  =
+ 
+    12150.  
+ 
+ qe  =
+ 
+    12902.4  
+ 
+ hu  =
+ 
+    9281.3705  
+ 
+ 
+ 
+Indicated horse power is 20.8 h.p 
+ Brake horse power is 14.48 h.p 
+ Heat supplied is 47460 kcal/hour 
+ Heat equivalent of B.H.P is 9155 kcal/hour 
+ Heat equivalent of F.H.P is 3971 kcal/hour 
+ Heat lost in cooling water is 12150 kcal/hour 
+ Heat lost in exhaust gases is 12902 kcal/hour 
+ Heat unaccounted is 9281 kcal/hour 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.16/Chapter23_example16.sce #
+ 
+ 
+ 
+ ihp  =
+ 
+    45.  
+ 
+ bhp  =
+ 
+    37.  
+ 
+ fu  =
+ 
+    8.4  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ Tc  =
+ 
+    15.    70.  
+ 
+ cj  =
+ 
+    7.  
+ 
+ Tw  =
+ 
+    15.    55.  
+ 
+ rw  =
+ 
+    12.5  
+ 
+ Te  =
+ 
+    82.  
+ 
+ Tr  =
+ 
+    17.  
+ 
+ af  =
+ 
+    20.  
+ 
+ Cm  =
+ 
+    0.24  
+ 
+ 
+ 
+ q  =
+ 
+    1400.  
+ 
+ qbhp  =
+ 
+    389.92974  
+ 
+ ql  =
+ 
+    385.  
+ 
+ qe  =
+ 
+    500.  
+ 
+ qee  =
+ 
+    45.864  
+ 
+ te  =
+ 
+    545.864  
+ 
+ hra  =
+ 
+    79.206258  
+ 
+ ith  =
+ 
+    33.874205  
+ 
+ bth  =
+ 
+    27.852124  
+ 
+ nm  =
+ 
+    82.222222  
+ 
+ 
+ 
+Heat supplied is 1400 kcal/min 
+ Heat equivalent of B.H.P is 390 kcal/min 
+ Heat lost to cylinder jacket cooling water is 385 kcal/min 
+ Total heat lost to exhaust gases is 545.9 kcal/min 
+ Heat lost to radiation is 79.2 kcal/min 
+ Indicated thermal efficiency is 33.9 percent 
+ Brake thermal efficiency is 27.9 percent 
+ Mechanical efficiency is 82.2 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.17/Chapter23_example17.sce #
+ 
+ 
+ 
+ Vs  =
+ 
+    0.0015  
+ 
+ rc  =
+ 
+    5.5  
+ 
+ p2  =
+ 
+    8.  
+ 
+ T2  =
+ 
+    623.  
+ 
+ p3  =
+ 
+    25.  
+ 
+ x  =
+ 
+    0.0333333  
+ 
+ pa  =
+ 
+    0.0625  
+ 
+ R  =
+ 
+    29.45  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ Cv  =
+ 
+    0.23  
+ 
+ 
+ 
+ V2  =
+ 
+    333.33333  
+ 
+ V3  =
+ 
+    383.33333  
+ 
+ T3  =
+ 
+    2238.9063  
+ 
+ W  =
+ 
+    825.  
+ 
+ mM  =
+ 
+    0.0014534  
+ 
+ dE  =
+ 
+    0.5401811  
+ 
+ q  =
+ 
+    0.5595019  
+ 
+ qc  =
+ 
+    0.8549613  
+ 
+ ql  =
+ 
+    203.28362  
+ 
+ 
+ 
+Heat lost per kg of charge during explosion is 203 kcal 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.1/Chapter23_example1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ N  =
+ 
+    1200.  
+ 
+ BHP1  =
+ 
+    26.3  
+ 
+ T  =
+ 
+    11.3  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ m  =
+ 
+    270.  
+ 
+ 
+ 
+ BHP2  =
+ 
+    18.923733  
+ 
+ IHP  =
+ 
+    7.3762667  
+ 
+ TIHP  =
+ 
+    29.505067  
+ 
+ p  =
+ 
+    0.2406705  
+ 
+ nth  =
+ 
+    26.2732  
+ 
+ 
+ 
+Thermal efficiency is 26.3 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.2/Chapter23_example2.sce #
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    0.1  
+ 
+ l  =
+ 
+    0.15  
+ 
+ RPM  =
+ 
+    1600.  
+ 
+ ap  =
+ 
+    0.000576  
+ 
+ an  =
+ 
+    0.000026  
+ 
+ L  =
+ 
+    0.055  
+ 
+ k  =
+ 
+    3500000.  
+ 
+ 
+ 
+ NA  =
+ 
+    0.00055  
+ 
+ h  =
+ 
+    0.01  
+ 
+ Pm  =
+ 
+    35000.  
+ 
+ IHP  =
+ 
+    58.613333  
+ 
+ 
+ 
+Indicated horse power of a four cylinder two stroke petrol engine is 58.6 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.3/Chapter23_example3.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    0.089  
+ 
+ l  =
+ 
+    0.1016  
+ 
+ vc  =
+ 
+    3.183  
+ 
+ rn  =
+ 
+    55.  
+ 
+ m  =
+ 
+    0.218  
+ 
+ Pm  =
+ 
+    84000.  
+ 
+ N  =
+ 
+    2500.  
+ 
+ 
+ 
+ an  =
+ 
+    54.19148  
+ 
+ nth  =
+ 
+    29.805314  
+ 
+ CV  =
+ 
+    9731.6324  
+ 
+ IHP  =
+ 
+    88.444619  
+ 
+ p  =
+ 
+    19.280927  
+ 
+ 
+ 
+(1) The calorific value of petrol is 9731 kcal/kg 
+ (2) Corresponding petrol consumption is 19.3 kg/hour 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.4/Chapter23_example4.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    0.2  
+ 
+ l  =
+ 
+    0.3  
+ 
+ N  =
+ 
+    300.  
+ 
+ af  =
+ 
+    5.  
+ 
+ nv  =
+ 
+    78.  
+ 
+ CV  =
+ 
+    2200.  
+ 
+ bth  =
+ 
+    23.  
+ 
+ 
+ 
+ Vs  =
+ 
+    0.00942  
+ 
+ c  =
+ 
+    0.0073476  
+ 
+ Vg  =
+ 
+    0.440856  
+ 
+ q  =
+ 
+    969.8832  
+ 
+ BHP  =
+ 
+    21.167162  
+ 
+ 
+ 
+The volume of gas used per min is 0.441 cu.m at N.T.P 
+ B.H.P of engine is 21.2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.5/Chapter23_example5.sce #
+ 
+ 
+ 
+ d  =
+ 
+    20.  
+ 
+ l  =
+ 
+    37.5  
+ 
+ r  =
+ 
+    6.  
+ 
+ IPm  =
+ 
+    5.  
+ 
+ ag  =
+ 
+    6.  
+ 
+ CV  =
+ 
+    3070.  
+ 
+ T  =
+ 
+    348.  
+ 
+ p  =
+ 
+    0.975  
+ 
+ RPM  =
+ 
+    240.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Vs  =
+ 
+    11775.  
+ 
+ Vg  =
+ 
+    1682.1429  
+ 
+ x  =
+ 
+    1249.1473  
+ 
+ q  =
+ 
+    3.8348824  
+ 
+ IHP  =
+ 
+    15.7  
+ 
+ nth  =
+ 
+    35.954313  
+ 
+ na  =
+ 
+    51.164066  
+ 
+ rn  =
+ 
+    70.272588  
+ 
+ 
+ 
+The thermal efficiency is 36.0 percent 
+ The relative efficiency is 70.3 percent 
+ Indicated horese power is 15.7 H.P 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.6/Chapter23_example6.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    6.25  
+ 
+ l  =
+ 
+    9.5  
+ 
+ t  =
+ 
+    678.  
+ 
+ N  =
+ 
+    3000.  
+ 
+ Vc  =
+ 
+    60.  
+ 
+ be  =
+ 
+    0.5  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Vs  =
+ 
+    291.30859  
+ 
+ r  =
+ 
+    5.8551432  
+ 
+ na  =
+ 
+    0.5068432  
+ 
+ bth  =
+ 
+    25.342162  
+ 
+ bhp  =
+ 
+    28.3856  
+ 
+ q  =
+ 
+    1180.4268  
+ 
+ F  =
+ 
+    7.0825607  
+ 
+ P  =
+ 
+    7.3081263  
+ 
+ 
+ 
+The fuel consumption is 7.08 kg/hour 
+ The brake mean effective pressure is 7.31 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.7/Chapter23_example7.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ t  =
+ 
+    30.  
+ 
+ m  =
+ 
+    5.6  
+ 
+ CV  =
+ 
+    9980.  
+ 
+ g  =
+ 
+    0.8  
+ 
+ a  =
+ 
+    8.35  
+ 
+ l  =
+ 
+    8.4  
+ 
+ is  =
+ 
+    5.5  
+ 
+ L  =
+ 
+    147.5  
+ 
+ sp  =
+ 
+    20.  
+ 
+ d  =
+ 
+    1.5  
+ 
+ N  =
+ 
+    200.  
+ 
+ cyd  =
+ 
+    30.  
+ 
+ l1  =
+ 
+    45.  
+ 
+ mw  =
+ 
+    11.  
+ 
+ Tc  =
+ 
+    308.  
+ 
+ 
+ 
+ mp  =
+ 
+    5.4672619  
+ 
+ ihp  =
+ 
+    38.626205  
+ 
+ bhp  =
+ 
+    30.876667  
+ 
+ nm  =
+ 
+    79.937096  
+ 
+ F  =
+ 
+    8.96  
+ 
+ Fc  =
+ 
+    0.2901868  
+ 
+ ith  =
+ 
+    27.313628  
+ 
+ 
+ 
+(a) I.H.P is 38.6 
+ (b) B.H.P is 30.9 
+ (c) Mechanical efficiency is 79.9 percent 
+ (d) Specific fuel consumption is 0.29 kg/B.H.P/hour 
+ (e) Indicated thermal efficiency is 27.3 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.8/Chapter23_example8.sce #
+ 
+ 
+ 
+ d  =
+ 
+    15.  
+ 
+ l  =
+ 
+    45.  
+ 
+ f  =
+ 
+    9.5  
+ 
+ CV  =
+ 
+    10500.  
+ 
+ n  =
+ 
+    12624.  
+ 
+ imep  =
+ 
+    7.24  
+ 
+ pimep  =
+ 
+    0.34  
+ 
+ L  =
+ 
+    150.  
+ 
+ db  =
+ 
+    1.78  
+ 
+ dr  =
+ 
+    4.  
+ 
+ cw  =
+ 
+    545.  
+ 
+ Tc  =
+ 
+    45.  
+ 
+ g  =
+ 
+    0.8  
+ 
+ 
+ 
+ ihp  =
+ 
+    102.56684  
+ 
+ q  =
+ 
+    1330.  
+ 
+ bhp  =
+ 
+    40.079797  
+ 
+ qbhp  =
+ 
+    422.38662  
+ 
+ qw  =
+ 
+    408.75  
+ 
+ dq  =
+ 
+    498.86338  
+ 
+ 
+ 
+Heat supplied is 1330 kcal/min 
+ Heat equivalent of B.H.P is 422 kcal/min 
+ Heat lost to jacket cooling water is 409 kcal/min 
+ Heat unaccounted is 499 kcal/min 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH23/EX23.9/Chapter23_example9.sce #
+ 
+ 
+ 
+ d  =
+ 
+    27.  
+ 
+ l  =
+ 
+    45.  
+ 
+ db  =
+ 
+    1.62  
+ 
+ t  =
+ 
+    2310.  
+ 
+ CV  =
+ 
+    4650.  
+ 
+ n  =
+ 
+    8080.  
+ 
+ en  =
+ 
+    3230.  
+ 
+ p  =
+ 
+    5.75  
+ 
+ V  =
+ 
+    7.7  
+ 
+ T  =
+ 
+    288.  
+ 
+ pg  =
+ 
+    135.  
+ 
+ hb  =
+ 
+    750.  
+ 
+ L  =
+ 
+    92.  
+ 
+ w  =
+ 
+    183.  
+ 
+ Tc  =
+ 
+    47.  
+ 
+ 
+ 
+ ihp  =
+ 
+    27.606212  
+ 
+ bhp  =
+ 
+    21.825822  
+ 
+ pa  =
+ 
+    760.38462  
+ 
+ Vg  =
+ 
+    7.3026521  
+ 
+ q  =
+ 
+    882.00863  
+ 
+ qbhp  =
+ 
+    230.01452  
+ 
+ qc  =
+ 
+    223.4026  
+ 
+ qra  =
+ 
+    428.59152  
+ 
+ 
+ 
+Heat supplied is 882.0 kcal/min 
+ Heat equivalent of B.H.P is 230 kcal/min 
+ Heat lost to jacket cooling water is 223.4 kcal/min 
+ Heat lost to exhaust radiation etc. is 428.6 kcal/min 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.10/Chapter25_example10.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.02  
+ 
+ T1  =
+ 
+    300.  
+ 
+ p2  =
+ 
+    4.08  
+ 
+ nc  =
+ 
+    80.  
+ 
+ mf  =
+ 
+    1.  
+ 
+ ma  =
+ 
+    80.  
+ 
+ nt  =
+ 
+    85.  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ rp  =
+ 
+    4.  
+ 
+ T2  =
+ 
+    445.79829  
+ 
+ dt  =
+ 
+    145.79829  
+ 
+ adt  =
+ 
+    182.24786  
+ 
+ T2i  =
+ 
+    482.24786  
+ 
+ q  =
+ 
+    125.  
+ 
+ T3  =
+ 
+    1003.0812  
+ 
+ T4  =
+ 
+    675.02358  
+ 
+ T4i  =
+ 
+    724.23223  
+ 
+ Wt  =
+ 
+    67.760299  
+ 
+ Wc  =
+ 
+    43.739486  
+ 
+ N  =
+ 
+    24.020813  
+ 
+ nt  =
+ 
+    19.21665  
+ 
+ 
+ 
+(a) The net work output of installation is 24.02 kcal/kg of air 
+ (b) Overall efficiency of the plant is 19.2 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.11/Chapter25_example11.sce #
+ 
+ 
+ 
+ rp  =
+ 
+    5.  
+ 
+ T3  =
+ 
+    853.  
+ 
+ p1  =
+ 
+    1.03  
+ 
+ T1  =
+ 
+    288.  
+ 
+ nc  =
+ 
+    80.  
+ 
+ no  =
+ 
+    18.  
+ 
+ Cpa  =
+ 
+    0.239  
+ 
+ Cpg  =
+ 
+    0.261  
+ 
+ R  =
+ 
+    29.27  
+ 
+ g  =
+ 
+    1.4  
+ 
+ g1  =
+ 
+    1.355  
+ 
+ 
+ 
+ T2  =
+ 
+    456.14005  
+ 
+ T2i  =
+ 
+    498.17506  
+ 
+ q  =
+ 
+    92.60931  
+ 
+ Wc  =
+ 
+    50.231839  
+ 
+ Wt  =
+ 
+    66.901515  
+ 
+ T4i  =
+ 
+    596.67236  
+ 
+ T4  =
+ 
+    559.53087  
+ 
+ nt  =
+ 
+    87.343987  
+ 
+ 
+ 
+Isentropic efficiency of turbine is 87.3 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.12/Chapter25_example12.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.03  
+ 
+ T1  =
+ 
+    288.  
+ 
+ rp  =
+ 
+    5.  
+ 
+ nc  =
+ 
+    85.  
+ 
+ T3  =
+ 
+    813.  
+ 
+ nt  =
+ 
+    80.  
+ 
+ NHP  =
+ 
+    2000.  
+ 
+ fp  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    0.25  
+ 
+ 
+ 
+ T2i  =
+ 
+    456.14005  
+ 
+ dt  =
+ 
+    168.14005  
+ 
+ adt  =
+ 
+    197.81182  
+ 
+ Wc  =
+ 
+    49.452955  
+ 
+ e  =
+ 
+    4.9029126  
+ 
+ T4i  =
+ 
+    516.19992  
+ 
+ dt1  =
+ 
+    296.80008  
+ 
+ adt1  =
+ 
+    371.0001  
+ 
+ Wt  =
+ 
+    92.750026  
+ 
+ N  =
+ 
+    43.297071  
+ 
+ w  =
+ 
+    35.84572  
+ 
+ 
+ 
+Flow rate is 35.85 kg of air per sec 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.13/Chapter25_example13.sce #
+ 
+ 
+ 
+ nc  =
+ 
+    75.  
+ 
+ nt  =
+ 
+    85.  
+ 
+ nm  =
+ 
+    98.  
+ 
+ rp  =
+ 
+    6.  
+ 
+ T3  =
+ 
+    1000.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    288.5  
+ 
+ m  =
+ 
+    2.2  
+ 
+ Cpa  =
+ 
+    0.24  
+ 
+ Cpg  =
+ 
+    0.276  
+ 
+ g  =
+ 
+    1.4  
+ 
+ g1  =
+ 
+    1.33  
+ 
+ 
+ 
+ T2  =
+ 
+    481.36526  
+ 
+ T2i  =
+ 
+    545.65368  
+ 
+ T4  =
+ 
+    641.09867  
+ 
+ T4i  =
+ 
+    694.93387  
+ 
+ Wt  =
+ 
+    84.198251  
+ 
+ Wc  =
+ 
+    61.716884  
+ 
+ N  =
+ 
+    22.481367  
+ 
+ P  =
+ 
+    287.33329  
+ 
+ 
+ 
+Power output of the plant is 287 H.P 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.14/Chapter25_example14.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    288.  
+ 
+ rp  =
+ 
+    4.  
+ 
+ T4  =
+ 
+    833.  
+ 
+ nc  =
+ 
+    83.  
+ 
+ nt  =
+ 
+    86.  
+ 
+ x  =
+ 
+    75.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T5i  =
+ 
+    560.56743  
+ 
+ dt  =
+ 
+    272.43257  
+ 
+ ta  =
+ 
+    234.29201  
+ 
+ T5  =
+ 
+    598.70799  
+ 
+ T2i  =
+ 
+    427.96636  
+ 
+ tc  =
+ 
+    139.96636  
+ 
+ T2  =
+ 
+    456.63416  
+ 
+ q  =
+ 
+    142.07383  
+ 
+ T3  =
+ 
+    563.18953  
+ 
+ 
+ qw  =
+ 
+    376.36584  
+ 
+ tw  =
+ 
+    234.29201  
+ 
+ cw  =
+ 
+    168.63416  
+ 
+ nw  =
+ 
+    65.657847  
+ 
+ no  =
+ 
+    17.44522  
+ 
+ 
+ qs  =
+ 
+    269.81047  
+ 
+ no1  =
+ 
+    24.334804  
+ 
+ 
+ 
+The overall efficiency 
+ (a) without heat exchanger is 17.4 percent 
+ (b) with heat exchanger making use of 75 percent of heat available is 24.3 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.15/Chapter25_example15.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ p2  =
+ 
+    5.5  
+ 
+ T3  =
+ 
+    1023.  
+ 
+ v  =
+ 
+    225.  
+ 
+ x  =
+ 
+    70.  
+ 
+ in  =
+ 
+    75.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    468.73209  
+ 
+ at  =
+ 
+    240.97612  
+ 
+ T2i  =
+ 
+    528.97612  
+ 
+ T4  =
+ 
+    628.55522  
+ 
+ to  =
+ 
+    94.666747  
+ 
+ ci  =
+ 
+    57.834268  
+ 
+ ke  =
+ 
+    6.0427991  
+ 
+ dT34  =
+ 
+    380.22064  
+ 
+ r  =
+ 
+    5.0856677  
+ 
+ p4  =
+ 
+    0.9246669  
+ 
+ 
+ 
+The pressure of the gases in the turbine exhaust annulus is 0.9 kg/cm^2 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.16/Chapter25_example16.sce #
+ 
+ 
+ 
+ p  =
+ 
+    1.    5.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ T3  =
+ 
+    923.  
+ 
+ er  =
+ 
+    0.85  
+ 
+ x  =
+ 
+    0.72  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    456.14005  
+ 
+ T2i  =
+ 
+    485.81182  
+ 
+ T4  =
+ 
+    582.76839  
+ 
+ T4i  =
+ 
+    633.80313  
+ 
+ Tc  =
+ 
+    592.36556  
+ 
+ W  =
+ 
+    21.932412  
+ 
+ q  =
+ 
+    79.352265  
+ 
+ n  =
+ 
+    27.639302  
+ 
+ 
+ 
+The heat efficiency of the plant is 27.6 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.17/Chapter25_example17.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    288.  
+ 
+ p1  =
+ 
+    1.03  
+ 
+ rp  =
+ 
+    5.  
+ 
+ T3  =
+ 
+    1088.  
+ 
+ nc  =
+ 
+    0.83  
+ 
+ nt  =
+ 
+    0.92  
+ 
+ nr  =
+ 
+    0.65  
+ 
+ p2  =
+ 
+    2.45  
+ 
+ T6  =
+ 
+    288.  
+ 
+ T9  =
+ 
+    1088.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    456.14005  
+ 
+ T4  =
+ 
+    686.94692  
+ 
+ Wt  =
+ 
+    96.25274  
+ 
+ Wc  =
+ 
+    40.353611  
+ 
+ Wr  =
+ 
+    2.3852324  
+ 
+ qa  =
+ 
+    151.64639  
+ 
+ nth  =
+ 
+    36.861496  
+ 
+ T2i  =
+ 
+    490.57837  
+ 
+ T4i  =
+ 
+    719.03117  
+ 
+ Wti  =
+ 
+    88.55252  
+ 
+ Wci  =
+ 
+    48.618809  
+ 
+ Wri  =
+ 
+    1.8213634  
+ 
+ qai  =
+ 
+    143.38119  
+ 
+ nthi  =
+ 
+    27.85143  
+ 
+ T2ii  =
+ 
+    639.07269  
+ 
+ qaii  =
+ 
+    107.74256  
+ 
+ nthii  =
+ 
+    37.06401  
+ 
+ T5  =
+ 
+    368.90541  
+ 
+ T5i  =
+ 
+    385.47639  
+ 
+ T7  =
+ 
+    356.10303  
+ 
+ T7i  =
+ 
+    370.05185  
+ 
+ T7ii  =
+ 
+    596.8884  
+ 
+ Wcomp  =
+ 
+    43.086777  
+ 
+ Wratio  =
+ 
+    2.0552134  
+ 
+ qaa  =
+ 
+    117.86678  
+ 
+ nthe  =
+ 
+    38.573839  
+ 
+ T8  =
+ 
+    879.92511  
+ 
+ T8i  =
+ 
+    896.5711  
+ 
+ T10  =
+ 
+    849.38848  
+ 
+ T10i  =
+ 
+    868.4774  
+ 
+ T2iii  =
+ 
+    736.21274  
+ 
+ Wturb  =
+ 
+    98.62836  
+ 
+ Wratioi  =
+ 
+    2.028605  
+ 
+ qaai  =
+ 
+    130.37188  
+ 
+ nthei  =
+ 
+    38.359155  
+ 
+ T7iii  =
+ 
+    694.02845  
+ 
+ Wratioii  =
+ 
+    2.2890633  
+ 
+ qaaii  =
+ 
+    140.49611  
+ 
+ ntheii  =
+ 
+    39.532471  
+ 
+ 
+ 
+Condition     Work ratio     Thermal efficiency(in percent)
+   (a)           2.385                36.9
+   (b)           1.82                 27.9
+   (c)           1.82                 37.1
+   (d)           2.06                 38.6
+   (e)           2.029                38.4
+   (f)           2.289                39.5 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.18/Chapter25_example18.sce #
+ 
+ 
+ 
+ p  =
+ 
+    1.    9.  
+ 
+ T  =
+ 
+    298.    1523.  
+ 
+ n  =
+ 
+    0.83  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ x  =
+ 
+    0.65  
+ 
+ 
+ 
+ 
+ ip  =
+ 
+    3.  
+ 
+ T2  =
+ 
+    407.88396  
+ 
+ T3  =
+ 
+    430.39031  
+ 
+ T4  =
+ 
+    298.  
+ 
+ T5  =
+ 
+    407.88396  
+ 
+ T6  =
+ 
+    430.39031  
+ 
+ T7  =
+ 
+    1523.  
+ 
+ T8  =
+ 
+    1112.7037  
+ 
+ T9  =
+ 
+    1182.4541  
+ 
+ T10  =
+ 
+    1523.  
+ 
+ T11  =
+ 
+    1112.7037  
+ 
+ T12  =
+ 
+    1182.4541  
+ 
+ Wc  =
+ 
+    63.547348  
+ 
+ We  =
+ 
+    196.94221  
+ 
+ NW  =
+ 
+    133.39486  
+ 
+ qi  =
+ 
+    343.95734  
+ 
+ nth  =
+ 
+    38.782385  
+ 
+ 
+ 
+ Tg  =
+ 
+    919.23177  
+ 
+ q  =
+ 
+    226.63539  
+ 
+ nthi  =
+ 
+    58.858795  
+ 
+ 
+ 
+ Eg  =
+ 
+    1182.4541  
+ 
+ qa  =
+ 
+    163.46203  
+ 
+ nthii  =
+ 
+    81.606021  
+ 
+ 
+ 
+(a)Cycle efficiency without regeneration is 38.8 percent 
+ (b)Cycle efficiency with 65 percent regeneration is 58.9 percent 
+ (c)Cycle efficiency with ideal regeneration is  82 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.19/Chapter25_example19.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ ic  =
+ 
+    0.8  
+ 
+ ma  =
+ 
+    20.5  
+ 
+ T3  =
+ 
+    923.  
+ 
+ p2  =
+ 
+    5.  
+ 
+ it  =
+ 
+    0.92  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ Cpa  =
+ 
+    0.24  
+ 
+ ga  =
+ 
+    1.4  
+ 
+ Cpg  =
+ 
+    0.276  
+ 
+ gs  =
+ 
+    1.33  
+ 
+ 
+ 
+ T2  =
+ 
+    475.14588  
+ 
+ T2i  =
+ 
+    518.93235  
+ 
+ T4  =
+ 
+    619.11746  
+ 
+ T4i  =
+ 
+    643.42807  
+ 
+ Wc  =
+ 
+    52.543765  
+ 
+ We  =
+ 
+    77.161854  
+ 
+ mx  =
+ 
+    0.6809552  
+ 
+ F  =
+ 
+    0.0133608  
+ 
+ Wg  =
+ 
+    1.0133608  
+ 
+ Wt  =
+ 
+    0.3324056  
+ 
+ Ot  =
+ 
+    2993.5841  
+ 
+ nth  =
+ 
+    19.197247  
+ 
+ 
+ 
+Output is 2994 H.P 
+ Thermal efficiency is 19.20 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.20/Chapter25_example20.sce #
+ 
+ 
+ 
+ q  =
+ 
+    2250.  
+ 
+ 
+ T1  =
+ 
+    200.  
+ 
+ T2  =
+ 
+    100.  
+ 
+ T3  =
+ 
+    625.  
+ 
+ T4  =
+ 
+    550.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Wc  =
+ 
+    48.  
+ 
+ We  =
+ 
+    36.  
+ 
+ NW  =
+ 
+    12.  
+ 
+ qi  =
+ 
+    36.  
+ 
+ nth  =
+ 
+    33.333333  
+ 
+ rf  =
+ 
+    62.5  
+ 
+ O  =
+ 
+    4270.  
+ 
+ 
+ 
+Output is 4270 H.P 
+ Thermal efficiency is 33.3 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.22/Chapter25_example22.sce #
+ 
+ 
+ 
+ p  =
+ 
+    5.    20.  
+ 
+ T3  =
+ 
+    923.  
+ 
+ T1  =
+ 
+    333.  
+ 
+ T2  =
+ 
+    333.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    29.27  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ T4  =
+ 
+    621.13294  
+ 
+ Wc  =
+ 
+    31.64423  
+ 
+ qs  =
+ 
+    141.6  
+ 
+ qre  =
+ 
+    69.151905  
+ 
+ nth  =
+ 
+    56.321515  
+ 
+ nc  =
+ 
+    63.921993  
+ 
+ r  =
+ 
+    88.109759  
+ 
+ 
+ 
+(a) air standard efficiency of the cycle is 56.3 percent 
+ (b) carnot efficiency is  64 percent 
+ (c) Ratio of air standard efficiency to carnot efficiency is 88.1 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.2/Chapter25_example2.sce #
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ T3  =
+ 
+    1000.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ m  =
+ 
+    11.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ R  =
+ 
+    29.27  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ Pc  =
+ 
+    600.86623  
+ 
+ Pt  =
+ 
+    1404.0034  
+ 
+ N  =
+ 
+    803.1372  
+ 
+ T2  =
+ 
+    427.96636  
+ 
+ q  =
+ 
+    137.28807  
+ 
+ n  =
+ 
+    9.3410916  
+ 
+ 
+ 
+Horse power developed is 803 H.P 
+ The overall efficiency of the plant is 9.34 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.3/Chapter25_example3.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    288.  
+ 
+ rp  =
+ 
+    5.  
+ 
+ T3  =
+ 
+    973.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ T2  =
+ 
+    456.14005  
+ 
+ T4  =
+ 
+    614.33764  
+ 
+ Wc  =
+ 
+    40.353611  
+ 
+ Wt  =
+ 
+    86.078966  
+ 
+ N  =
+ 
+    45.725355  
+ 
+ SHP  =
+ 
+    260.32969  
+ 
+ q  =
+ 
+    124.04639  
+ 
+ n  =
+ 
+    36.861496  
+ 
+ 
+ 
+Efficiency of plant is 36.9 percent 
+ The shaft horse-power per kg of air per second is 260 H.P 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.4/Chapter25_example4.sce #
+ 
+ 
+ 
+ g  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ m  =
+ 
+    20.5  
+ 
+ p  =
+ 
+    5.85    1.03    1.03    5.85  
+ 
+ T  =
+ 
+    293.    523.    873.    633.  
+ 
+ 
+ 
+ T2  =
+ 
+    481.26827  
+ 
+ T4  =
+ 
+    531.48943  
+ 
+ ic  =
+ 
+    81.855771  
+ 
+ it  =
+ 
+    70.276009  
+ 
+ Wc  =
+ 
+    55.2  
+ 
+ Wt  =
+ 
+    57.6  
+ 
+ N  =
+ 
+    2.4  
+ 
+ P  =
+ 
+    280.112  
+ 
+ 
+ 
+The net output is 280 H.P 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.5/Chapter25_example5.sce #
+ 
+ 
+ 
+ rp  =
+ 
+    5.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ nc  =
+ 
+    80.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    456.14005  
+ 
+ T2i  =
+ 
+    498.17506  
+ 
+ 
+ 
+The temperature at the end of compression is 498 K 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.6/Chapter25_example6.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    5.62  
+ 
+ T1  =
+ 
+    1273.  
+ 
+ p2  =
+ 
+    1.124  
+ 
+ n1  =
+ 
+    0.8  
+ 
+ n  =
+ 
+    1.36  
+ 
+ Cp  =
+ 
+    0.25  
+ 
+ 
+ 
+ T2  =
+ 
+    831.39409  
+ 
+ dt  =
+ 
+    441.60591  
+ 
+ adt  =
+ 
+    353.28473  
+ 
+ T2i  =
+ 
+    919.71527  
+ 
+ W  =
+ 
+    88.321182  
+ 
+ q  =
+ 
+    8.3806989  
+ 
+ t2i  =
+ 
+    646.71527  
+ 
+ 
+ 
+(1) H.P developed per kg of gas per min is 8.38 
+ (2) Exhaust gas temperature is 646.7 degree C 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.7/Chapter25_example7.sce #
+ 
+ 
+ 
+ pt1  =
+ 
+    1.    288.  
+ 
+ pt3  =
+ 
+    4.    923.  
+ 
+ n  =
+ 
+    85.    80.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ T2  =
+ 
+    427.96636  
+ 
+ T2i  =
+ 
+    462.95794  
+ 
+ T4  =
+ 
+    621.13294  
+ 
+ T4i  =
+ 
+    666.413  
+ 
+ Wt  =
+ 
+    61.58088  
+ 
+ Wc  =
+ 
+    41.989907  
+ 
+ N  =
+ 
+    19.590974  
+ 
+ q  =
+ 
+    110.41009  
+ 
+ nt  =
+ 
+    17.743825  
+ 
+ 
+ 
+Thermal efficiency of the cycle is 17.74 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.8/Chapter25_example8.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.03  
+ 
+ T1  =
+ 
+    288.5  
+ 
+ rp  =
+ 
+    5.  
+ 
+ nc  =
+ 
+    85.  
+ 
+ T3  =
+ 
+    813.  
+ 
+ p3  =
+ 
+    1.03  
+ 
+ nt  =
+ 
+    80.  
+ 
+ O  =
+ 
+    2500.  
+ 
+ fp  =
+ 
+    0.07  
+ 
+ g  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ T2  =
+ 
+    456.93196  
+ 
+ T2i  =
+ 
+    486.65524  
+ 
+ T4  =
+ 
+    515.3271  
+ 
+ T4i  =
+ 
+    574.86168  
+ 
+ Wt  =
+ 
+    57.153198  
+ 
+ Wc  =
+ 
+    47.557258  
+ 
+ N  =
+ 
+    9.5959392  
+ 
+ Fl  =
+ 
+    45.759989  
+ 
+ 
+ 
+Flow rate of air is 45.8 kg/sec for a net output of 2500 H.P 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH25/EX25.9/Chapter25_example9.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    289.  
+ 
+ rp  =
+ 
+    3.5  
+ 
+ nc  =
+ 
+    85.  
+ 
+ T3  =
+ 
+    773.  
+ 
+ nt  =
+ 
+    80.  
+ 
+ mc  =
+ 
+    4.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ 
+ 
+ T2  =
+ 
+    413.37657  
+ 
+ dt  =
+ 
+    124.37657  
+ 
+ adt  =
+ 
+    146.32537  
+ 
+ T2i  =
+ 
+    435.32537  
+ 
+ T4  =
+ 
+    540.42008  
+ 
+ T4i  =
+ 
+    586.93607  
+ 
+ Wt  =
+ 
+    44.655344  
+ 
+ Wc  =
+ 
+    35.11809  
+ 
+ N  =
+ 
+    9.5372539  
+ 
+ q  =
+ 
+    81.04191  
+ 
+ NHP  =
+ 
+    60.331962  
+ 
+ nt  =
+ 
+    11.768298  
+ 
+ 
+ 
+(i) The net Horse power available from this unit is 60.3 H.P 
+ (ii) The thermal efficiency of the plant is 11.77 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH26/EX26.1/Chapter26_example1.sce #
+ 
+ 
+ 
+ Ve  =
+ 
+    2700.  
+ 
+ Vf  =
+ 
+    1350.  
+ 
+ m  =
+ 
+    78.6  
+ 
+ 
+ 
+ T  =
+ 
+    10816.514  
+ 
+ TH  =
+ 
+    1.9469725  
+ 
+ pn  =
+ 
+    66.666667  
+ 
+ 
+ 
+(i) Thrust is 10817 kg 
+ (ii) Thrust horse power is 1.947*10^5 H.P 
+ (iii) Propulsive efficiency is 66.7 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH26/EX26.2/Chapter26_example2.sce #
+ 
+ 
+ 
+ CV  =
+ 
+    10000.  
+ 
+ F  =
+ 
+    1.4  
+ 
+ T  =
+ 
+    900.  
+ 
+ Va  =
+ 
+    425.  
+ 
+ w  =
+ 
+    19.5  
+ 
+ 
+ 
+ af  =
+ 
+    55.714286  
+ 
+ nv  =
+ 
+    25.593844  
+ 
+ 
+ 
+Air fuel ratio is 55.7 
+ Overall efficiency is 25.6 percent 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH26/EX26.3/Chapter26_example3.sce #
+ 
+ 
+ 
+ a  =
+ 
+    11500.  
+ 
+ n  =
+ 
+    123.  
+ 
+ c  =
+ 
+    3.  
+ 
+ Va  =
+ 
+    650.  
+ 
+ d  =
+ 
+    640.  
+ 
+ pe  =
+ 
+    50.  
+ 
+ oe  =
+ 
+    18.  
+ 
+ CV  =
+ 
+    10000.  
+ 
+ da  =
+ 
+    0.0172  
+ 
+ 
+ 
+ Vp  =
+ 
+    180.55556  
+ 
+ Vr  =
+ 
+    541.66667  
+ 
+ nhp  =
+ 
+    3081.4815  
+ 
+ wf  =
+ 
+    1082.4876  
+ 
+ thp  =
+ 
+    1564.8148  
+ 
+ F  =
+ 
+    0.6917672  
+ 
+ W  =
+ 
+    11.772  
+ 
+ va  =
+ 
+    684.4186  
+ 
+ aa  =
+ 
+    0.4211807  
+ 
+ d  =
+ 
+    73.248611  
+ 
+ af  =
+ 
+    39.149823  
+ 
+ 
+ 
+(a) Absolute velocity of the jet is 541.7 m/sec 
+ (b) Net horse power of the gas plant is 3081 H.P 
+ (c) Fuel consumption per thrust H.P hour is 0.692 kg 
+ (d) Diameter of the jet is 73.2 cm 
+ (e) Air-fuel ratio of the engine is 39.1 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH26/EX26.4/Chapter26_example4.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    7.  
+ 
+ p2  =
+ 
+    5.  
+ 
+ T1  =
+ 
+    523.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ Cv  =
+ 
+    0.17  
+ 
+ nv  =
+ 
+    0.8  
+ 
+ 
+ 
+ R  =
+ 
+    29.89  
+ 
+ g  =
+ 
+    1.4117647  
+ 
+ V1  =
+ 
+    0.223321  
+ 
+ V2  =
+ 
+    0.2834242  
+ 
+ Wd  =
+ 
+    5010.0351  
+ 
+ KE  =
+ 
+    4008.0281  
+ 
+ v3  =
+ 
+    280.4238  
+ 
+ T2  =
+ 
+    474.11207  
+ 
+ T3  =
+ 
+    483.88966  
+ 
+ V3  =
+ 
+    0.2892692  
+ 
+ qa  =
+ 
+    10.315431  
+ 
+ 
+ 
+Area of discharge per unit rate of mass flow is 10.32 sq.cm 
+ 
+ 
+grepthis#Internal_Combustion_Engines_H._B._Keswani_2168/CH26/EX26.5/Chapter26_example5.sce #
+ 
+ 
+ 
+ p  =
+ 
+    3.5  
+ 
+ T  =
+ 
+    1.15  
+ 
+ T3  =
+ 
+    773.  
+ 
+ pa  =
+ 
+    1.  
+ 
+ Ta  =
+ 
+    288.  
+ 
+ Cp  =
+ 
+    0.24  
+ 
+ g  =
+ 
+    1.4  
+ 
+ J  =
+ 
+    427.  
+ 
+ 
+ 
+ p2  =
+ 
+    3.5  
+ 
+ T2a  =
+ 
+    411.9462  
+ 
+ T2  =
+ 
+    430.53813  
+ 
+ wcomp  =
+ 
+    34.209151  
+ 
+ T5  =
+ 
+    540.42008  
+ 
+ dh35  =
+ 
+    55.81918  
+ 
+ dhnozzle  =
+ 
+    21.610029  
+ 
+ v5  =
+ 
+    425.49172  
+ 
+ Th  =
+ 
+    43.373264  
+ 
+ 
+ 
+(a) the power required to drive the compressor per kg of air per second is 34.2 kcal/kg 
+ (b) Static thrust developed per kg of air per second is 43.4 kg 
+ 

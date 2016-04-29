@@ -1,0 +1,748 @@
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.1/Example1_1.sce
+ 
+ 
+ 
+ 
+ 
+aG = UnitVector(G);
+                   !--error 4 
+Undefined variable: UnitVector
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.1/Example1_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.2/Example1_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ G(rQ) =   
+ 
+    5.  - 10.    3.  
+ 
+ 
+G_dot_aN = dot(G,aN); //dot product of G and aN
+                     !--error 4 
+Undefined variable: dot
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.2/Example1_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.3/Example1_3.sce
+ 
+ 
+ 
+ 
+ 
+y = sym('y');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.3/Example1_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.4/Example1_4.sce
+ 
+ 
+ 
+ 
+ 
+y = sym('y');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH1/EX1.4/Example1_4.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH2/EX2.1/Example2_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aR12 = UnitVector(r2-r1);
+                         !--error 4 
+Undefined variable: UnitVector
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH2/EX2.1/Example2_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH2/EX2.2/Example2_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aR1 = UnitVector(P-P1);
+                       !--error 4 
+Undefined variable: UnitVector
+at line      12 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH2/EX2.2/Example2_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH2/EX2.3/Example2_3.sce
+ 
+ 
+ 
+ 
+r = sym('r');
+             !--error 4 
+Undefined variable: sym
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH2/EX2.3/Example2_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.1/Example3_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning :
+The identifier : Electric_Field_Line_Charge
+ has been truncated to: Electric_Field_Line_Char.
+
+E = Electric_Field_Line_Charge(rL,e0,r); //electric field intensity of line charge
+                                        !--error 4 
+Undefined variable: Electric_Field_Line_Cha
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.1/Example3_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.2/Example3_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+r = sym('r');
+             !--error 4 
+Undefined variable: sym
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.2/Example3_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.3/Example3_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.3/Example3_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.4/Example3_4.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.4/Example3_4.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.5/Example3_5.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH3/EX3.5/Example3_5.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH4/EX4.1/Example4_1.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH4/EX4.1/Example4_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH4/EX4.2/Example4_2.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH4/EX4.2/Example4_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH4/EX4.3/Example4_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+disp(float(V),'Potential V at point P(-4,3,6)in volts is Vp =')
+              !--error 4 
+Undefined variable: float
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH4/EX4.3/Example4_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH5/EX5.2/Example5_2.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH5/EX5.2/Example5_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH5/EX5.3/Example5_3.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH5/EX5.3/Example5_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH6/EX6.1/Example6_1.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH6/EX6.1/Example6_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH6/EX6.2/Example6_2.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH6/EX6.2/Example6_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH6/EX6.3/Example6_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C =  parallel_capacitor(e,S,d);
+                               !--error 4 
+Undefined variable: parallel_capacitor
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH6/EX6.3/Example6_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.1/Example7_1.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.1/Example7_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.2/Example7_2.sce
+ 
+ 
+ 
+ 
+ 
+A = sym('A');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.2/Example7_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.3/Example7_3.sce
+ 
+ 
+ 
+ 
+ 
+phi = sym('phi');
+                 !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.3/Example7_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.4/Example7_4.sce
+ 
+ 
+ 
+ 
+ 
+a = sym('a');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.4/Example7_4.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.5/Example7_5.sce
+ 
+ 
+ 
+ 
+ 
+teta = sym('teta');
+                   !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH7/EX7.5/Example7_5.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH8/EX8.1/Example8_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aphi = sym('aphi');
+                   !--error 4 
+Undefined variable: sym
+at line      12 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH8/EX8.1/Example8_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH8/EX8.2/Example8_2.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH8/EX8.2/Example8_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH8/EX8.3/Example8_3.sce
+ 
+ 
+ 
+ 
+ 
+teta = sym('teta');
+                   !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH8/EX8.3/Example8_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.1/Example9_1.sce
+ 
+ 
+ 
+ 
+ 
+x = sym('x');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.1/Example9_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.2/Example9_2.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.2/Example9_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.3/Example9_3.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.3/Example9_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.4/Example9_4.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.4/Example9_4.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.6/Example9_6.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.6/Example9_6.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.9/Example9_9.sce
+ 
+ 
+ 
+ 
+ 
+n1 = sym('n1');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.9/Example9_9.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.1/Example11_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+VST = sym('2*Vo*cos(B*z)');
+                           !--error 4 
+Undefined variable: sym
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.1/Example11_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.3/Example11_3.sce
+ 
+ 
+ 
+ 
+ 
+Zo = sym('sqrt(L/C)*(1-sqrt(-1)*R/(2*W*L))');
+                                             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.3/Example11_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.5/Example11_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R = reflection_coeff(ZL,Zo);
+                            !--error 4 
+Undefined variable: reflection_coeff
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.5/Example11_5.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.8/Example11_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZL1 = parallel(ZR1,ZR2);
+                        !--error 4 
+Undefined variable: parallel
+at line      16 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.8/Example11_8.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.9/Example11_9.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T = reflection_coeff(ZL,ZR);//reflection coefficient in rectandular form
+                            !--error 4 
+Undefined variable: reflection_coeff
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.9/Example11_9.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.10/Example11_10.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T = reflection_coeff(ZL,Zo);//reflection coefficient in rectandular form
+                            !--error 4 
+Undefined variable: reflection_coeff
+at line       9 of exec file called by :    
+_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.10/Example11_10.sce',-1
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.11/Example11_11.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T = reflection_coeff(RL,Zo);
+                            !--error 4 
+Undefined variable: reflection_coeff
+at line      12 of exec file called by :    
+_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.11/Example11_11.sce',-1
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.1/Example12_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+Eyzt = sym('100*exp(%i*10^8*t-%i*0.5*z+30)');
+                                             !--error 4 
+Undefined variable: sym
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.1/Example12_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.2/Example12_2.sce
+ 
+ 
+ 
+ 
+ 
+t = sym('t');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.2/Example12_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.3/Example12_3.sce
+ 
+ 
+ 
+ 
+ 
+syms t;
+  !--error 4 
+Undefined variable: syms
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.3/Example12_3.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.4/Example12_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[uo,eo] = muo_epsilon(); //free space permittivity and permeability
+                        !--error 4 
+Undefined variable: muo_epsilon
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.4/Example12_4.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.5/Example12_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[uo,eo] = muo_epsilon(); //free space permittivity and permeability
+                        !--error 4 
+Undefined variable: muo_epsilon
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.5/Example12_5.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.6/Example12_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[uo,eo] = muo_epsilon();//free space permittivity and permeability
+                        !--error 4 
+Undefined variable: muo_epsilon
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.6/Example12_6.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.7/Example12_7.sce
+ 
+ 
+ 
+s = sym('s');
+             !--error 4 
+Undefined variable: sym
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH12/EX12.7/Example12_7.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.1/Example13_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+T = reflection_coefficient(etta1,etta2);
+                                        !--error 4 
+Undefined variable: reflection_coefficient
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.1/Example13_1.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.2/Example13_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[uo,eo] = muo_epsilon();//free space permittivity and permeability
+                        !--error 4 
+Undefined variable: muo_epsilon
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.2/Example13_2.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.6/Example13_6.sce
+ 
+ 
+ 
+ 
+ 
+ax = sym('ax');
+               !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.6/Example13_6.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.7/Example13_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+teta2 = snells_law(teta1,n2);
+                             !--error 4 
+Undefined variable: snells_law
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.7/Example13_7.sce',-1)
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.10/Example13_10.sce
+ 
+ 
+ 
+ 
+ 
+w = sym('w');
+             !--error 4 
+Undefined variable: sym
+at line       6 of exec file called by :    
+_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.10/Example13_10.sce',-1
+ 
+ERROR: Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH14/EX14.3/Example14_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vg1 = group_delay(C,er,fc1,f);//group delay for mode m = 1
+                              !--error 4 
+Undefined variable: group_delay
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH14/EX14.3/Example14_3.sce',-1)
+ 

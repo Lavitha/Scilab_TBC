@@ -1,0 +1,3220 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 65
+
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH2/EX2.1/2_1.sce #
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ V  =
+ 
+    3.  
+ 
+ P1  =
+ 
+    20.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ 
+ V1  =
+ 
+    9.4707755  
+ 
+ W  =
+ 
+    39810.416  
+ 
+ 
+P dV work for this process= 39810 ft lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH2/EX2.2/2_2.sce #
+ 
+ 
+ W  =
+ 
+    1.  
+ 
+ P  =
+ 
+    69.4  
+ 
+ V2  =
+ 
+    3.  
+ 
+ V1  =
+ 
+    1.  
+ 
+ 
+ Wb  =
+ 
+  - 33000.  
+ 
+ Wa  =
+ 
+    19987.2  
+ 
+ Q  =
+ 
+  - 13012.8  
+ 
+ 
+Total system work during the 1 minute period= -13013 ft lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH2/EX2.3/2_3.sce #
+ 
+ 
+ r  =
+ 
+    11.  
+ 
+ l  =
+ 
+    15.  
+ 
+ A  =
+ 
+    1.6  
+ 
+ l1  =
+ 
+    2.4  
+ 
+ 
+ a  =
+ 
+    95.033178  
+ 
+ L  =
+ 
+    1.25  
+ 
+ Pm  =
+ 
+    53.333333  
+ 
+ W  =
+ 
+    6335.5452  
+ 
+ 
+Net work done by the fluid in the cylinder= 6336 ft lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH3/EX3.1/3_1.sce #
+ 
+ 
+ T2w  =
+ 
+    100.  
+ 
+ T1w  =
+ 
+    75.  
+ 
+ cw  =
+ 
+    1.  
+ 
+ T2i  =
+ 
+    100.  
+ 
+ T1i  =
+ 
+    500.  
+ 
+ ci  =
+ 
+    0.12  
+ 
+ mi  =
+ 
+    1.  
+ 
+ 
+ Mw  =
+ 
+    1.92  
+ 
+ 
+Pounds of water needed per pound of iron= 1.92 lb water/lb iron 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH3/EX3.2/3_2.sce #
+ 
+ 
+ m  =
+ 
+    5.  
+ 
+ T1  =
+ 
+    2000.  
+ 
+ T2  =
+ 
+    1000.  
+ 
+ 
+ 
+ Q  =
+ 
+  - 1292.2667  
+ 
+ 
+Net heat transferred to the system = -1292.27 Btu 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH3/EX3.3/3_3.sce #
+ 
+ 
+ m  =
+ 
+    10.  
+ 
+ cp  =
+ 
+    0.18  
+ 
+ cp1  =
+ 
+    0.235  
+ 
+ L  =
+ 
+    15.8  
+ 
+ L1  =
+ 
+    120.  
+ 
+ T1  =
+ 
+    70.  
+ 
+ T2  =
+ 
+    235.  
+ 
+ T3  =
+ 
+    832.  
+ 
+ 
+ Qa  =
+ 
+    297.  
+ 
+ Qb  =
+ 
+    158.  
+ 
+ Qc  =
+ 
+    1402.95  
+ 
+ Qd  =
+ 
+    1200.  
+ 
+ Q  =
+ 
+    3057.95  
+ 
+ 
+Heat required= 3058 Btu 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH3/EX3.4/3_4.sce #
+ 
+ 
+ m  =
+ 
+    40.  
+ 
+ m1  =
+ 
+    10.  
+ 
+ cp  =
+ 
+    1.  
+ 
+ cp1  =
+ 
+    0.501  
+ 
+ cp2  =
+ 
+    0.092  
+ 
+ L  =
+ 
+    143.3  
+ 
+ L1  =
+ 
+    120.  
+ 
+ T1  =
+ 
+    22.  
+ 
+ T2  =
+ 
+    32.  
+ 
+ T3  =
+ 
+    40.  
+ 
+ T4  =
+ 
+    70.  
+ 
+ 
+ Qa  =
+ 
+    5.01  
+ 
+ Qb  =
+ 
+    143.3  
+ 
+ Qc  =
+ 
+    8.  
+ 
+ Qd  =
+ 
+  - 1200.  
+ 
+ mi  =
+ 
+    7.677052  
+ 
+ Qe  =
+ 
+  - 27.6  
+ 
+ mi1  =
+ 
+    0.1765722  
+ 
+ 
+Ice weight= 7.68 lb of ice 
+ 
+ Additional ice required= 0.177 lb of ice 
+ 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH5/EX5.1/5_1.sce #
+ 
+ 
+ p  =
+ 
+    15.  
+ 
+ V2  =
+ 
+    5.  
+ 
+ V1  =
+ 
+    10.  
+ 
+ E  =
+ 
+    34.7  
+ 
+ 
+ dE  =
+ 
+  - 20.818252  
+ 
+ 
+Change in internal enenrgy of the gas= -20.82 Btu 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH5/EX5.2/5_2.sce #
+ 
+ 
+ m  =
+ 
+    2.  
+ 
+ T2  =
+ 
+    35.  
+ 
+ cv  =
+ 
+    1.2  
+ 
+ Q  =
+ 
+    34.  
+ 
+ 
+ U  =
+ 
+    84.  
+ 
+ W  =
+ 
+  - 50.  
+ 
+ 
+Change in internal enenrgy = -50 Btu 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH5/EX5.3/5_3.sce #
+ 
+ 
+ p  =
+ 
+    500.  
+ 
+ V2  =
+ 
+    0.9278  
+ 
+ V1  =
+ 
+    0.0197  
+ 
+ h  =
+ 
+    1204.4  
+ 
+ h1  =
+ 
+    449.4  
+ 
+ 
+ W  =
+ 
+    65383.2  
+ 
+ U  =
+ 
+    670.9599  
+ 
+ 
+Change in internal enenrgy = 671.0 Btu 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH5/EX5.4/5_4.sce #
+ 
+ 
+ m  =
+ 
+    3.  
+ 
+ V1  =
+ 
+    6.  
+ 
+ p1  =
+ 
+    75.  
+ 
+ p2  =
+ 
+    15.  
+ 
+ n  =
+ 
+    1.2  
+ 
+ Q1  =
+ 
+    30.  
+ 
+ 
+ V2  =
+ 
+    22.941735  
+ 
+ 
+    22.941735  
+ 
+ U  =
+ 
+  - 50.81951  
+ 
+ W  =
+ 
+    529.36989  
+ 
+ Q  =
+ 
+    478.55038  
+ 
+ W1  =
+ 
+    80.81951  
+ 
+ 
+Change in internal enenrgy = -50.8 Btu 
+ 
+ Work done = 529 Btu 
+ 
+ Heat generated = 479 Btu 
+ 
+ Work done = 81 Btu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH6/EX6.1/6_1.sce #
+ 
+ 
+ u1  =
+ 
+    1111.9  
+ 
+ p  =
+ 
+    170.  
+ 
+ v1  =
+ 
+    2.675  
+ 
+ V1  =
+ 
+    6000.  
+ 
+ g0  =
+ 
+    32.2  
+ 
+ g  =
+ 
+    32.2  
+ 
+ z  =
+ 
+    10.  
+ 
+ Q  =
+ 
+    1000.  
+ 
+ u2  =
+ 
+    914.6  
+ 
+ p1  =
+ 
+    3.  
+ 
+ v2  =
+ 
+    100.9  
+ 
+ V2  =
+ 
+    300.  
+ 
+ g0  =
+ 
+    32.2  
+ 
+ g  =
+ 
+    32.2  
+ 
+ z1  =
+ 
+    0.  
+ 
+ 
+ Wx  =
+ 
+    558647.7  
+ 
+ 
+Poweroutput = 220 hp 
+ 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH6/EX6.2/6_2.sce #
+ 
+ 
+ w1  =
+ 
+    500.  
+ 
+ h1  =
+ 
+    132.9  
+ 
+ h2  =
+ 
+    1150.  
+ 
+ h3  =
+ 
+    180.  
+ 
+ 
+ w2  =
+ 
+    1456.701  
+ 
+ 
+Steam supplied to the hater = 1457 lb/hr 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH6/EX6.3/6_3.sce #
+ 
+ 
+ h1  =
+ 
+    1227.6  
+ 
+ h2  =
+ 
+    1223.9  
+ 
+ g  =
+ 
+    32.2  
+ 
+ v1  =
+ 
+    4.937  
+ 
+ d  =
+ 
+    0.1666667  
+ 
+ A1  =
+ 
+    0.0218166  
+ 
+ 
+ V1  =
+ 
+    939.55876  
+ 
+ V2  =
+ 
+    1033.5146  
+ 
+ w  =
+ 
+    4.1519126  
+ 
+ 
+Average velovity at section1 = 940 fps 
+ 
+ Average velovity at section2 = 1034 fps 
+
+ rate of flow =4.15 lb/sec 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH8/EX8.1/8_1.sce #
+ 
+ 
+ T1  =
+ 
+    85.  
+ 
+ T2  =
+ 
+    50.  
+ 
+ 
+ n  =
+ 
+    0.0642202  
+ 
+ n1  =
+ 
+    6.4220183  
+ 
+ 
+Maximum thermal efficiency  = 6.4 percent 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH8/EX8.2/8_2.sce #
+ 
+ 
+ T1  =
+ 
+    1050.  
+ 
+ T2  =
+ 
+    90.  
+ 
+ 
+ n  =
+ 
+    0.6357616  
+ 
+ n1  =
+ 
+    63.576159  
+ 
+ 
+Maximum thermal efficiency  = 64 percent 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH8/EX8.3/8_3.sce #
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ T2  =
+ 
+    150.  
+ 
+ T1  =
+ 
+    50.  
+ 
+ 
+ S  =
+ 
+    0.0429716  
+ 
+ 
+Entropy change = 0.0430 Btu/Fabs 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH8/EX8.4/8_4.sce #
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ T2  =
+ 
+    150.  
+ 
+ T1  =
+ 
+    50.  
+ 
+ 
+ S  =
+ 
+    0.0429716  
+ 
+ 
+Entropy change = 0.0430 Btu/Fabs 
+ 
+ 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH8/EX8.5/8_5.sce #
+ 
+ 
+ Q  =
+ 
+    826.  
+ 
+ T  =
+ 
+    400.  
+ 
+ T1  =
+ 
+    1000.  
+ 
+ T2  =
+ 
+    2000.  
+ 
+ 
+ Sw  =
+ 
+    0.9604651  
+ 
+ Sg  =
+ 
+  - 0.4309448  
+ 
+ S  =
+ 
+    0.5295203  
+ 
+ 
+Total Entropy change = 0.530 Btu/R 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH8/EX8.6/8_6.sce #
+ 
+ 
+ Q  =
+ 
+    826.  
+ 
+ T  =
+ 
+    400.  
+ 
+ T1  =
+ 
+    1000.  
+ 
+ T2  =
+ 
+    2000.  
+ 
+ T3  =
+ 
+    80.  
+ 
+ 
+ Sw  =
+ 
+    0.9604651  
+ 
+ Sg  =
+ 
+  - 0.4309448  
+ 
+ S  =
+ 
+    0.5295203  
+ 
+ Q1  =
+ 
+    285.94098  
+ 
+ Q2  =
+ 
+    593.28982  
+ 
+ n  =
+ 
+    0.4819583  
+ 
+ n1  =
+ 
+    48.195835  
+ 
+ 
+Loss percent = 49  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.1/10_1.sce #
+ 
+ 
+ p  =
+ 
+    100.  
+ 
+ vg  =
+ 
+    4.432  
+ 
+ vf  =
+ 
+    0.01744  
+ 
+ T  =
+ 
+    327.8  
+ 
+ sfg  =
+ 
+    1.1286  
+ 
+ 
+ Q  =
+ 
+    889.11108  
+ 
+ 
+Heat of vaourisation= 889 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.2/10_2.sce #
+ 
+ 
+ S  =
+ 
+    1.6315  
+ 
+ 
+ P  =
+ 
+    70.  
+ 
+ t  =
+ 
+    302.92  
+ 
+ h  =
+ 
+    1180.6  
+ 
+ 
+Pressure= 70.00 Psia 
+ 
+ Temperature = 302.92 F 
+ 
+ Enthalpy= 1180.6 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.3/10_3.sce #
+ 
+ 
+ T  =
+ 
+    250.  
+ 
+ hg  =
+ 
+    1164.  
+ 
+ P  =
+ 
+    29.825  
+ 
+ Vg  =
+ 
+    13.821  
+ 
+ 
+ ug  =
+ 
+    1087.7038  
+ 
+ 
+Internal energy= 1087.7 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.4/10_4.sce #
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ n  =
+ 
+    40.  
+ 
+ vf  =
+ 
+    0.01774  
+ 
+ vg  =
+ 
+    4.432  
+ 
+ hf  =
+ 
+    298.4  
+ 
+ hfg  =
+ 
+    888.8  
+ 
+ sg  =
+ 
+    1.6026  
+ 
+ sfg  =
+ 
+    1.1286  
+ 
+ 
+ vx  =
+ 
+    2.666296  
+ 
+ hx  =
+ 
+    831.68  
+ 
+ sx  =
+ 
+    1.15116  
+ 
+ 
+Volume= 2.67 cu ft/lb 
+ 
+ Entropy = 1.15 Btu/lb R 
+ 
+ Enthalpy= 831.7 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.5/10_5.sce #
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ n  =
+ 
+    0.97  
+ 
+ hf  =
+ 
+    298.4  
+ 
+ hfg  =
+ 
+    888.8  
+ 
+ hg  =
+ 
+    1187.2  
+ 
+ 
+ hx  =
+ 
+    1160.536  
+ 
+ hx1  =
+ 
+    1160.536  
+ 
+ 
+Enthalpy= 1161 Btu/lb 
+ 
+ Precise Enthalpy= 1160.5 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.10/10_10.sce #
+ 
+ 
+ T  =
+ 
+    100.  
+ 
+ P  =
+ 
+    1000.  
+ 
+ dv  =
+ 
+  - 0.000051  
+ 
+ dh  =
+ 
+    2.7  
+ 
+ vf  =
+ 
+    0.01613  
+ 
+ hf  =
+ 
+    67.97  
+ 
+ 
+ h  =
+ 
+    70.67  
+ 
+ v  =
+ 
+    0.016079  
+ 
+ 
+Volume= 0.01608 cu ft/lb 
+ 
+ Enthalpy= 70.67 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH10/EX10.11/10_11.sce #
+ 
+ 
+ h1  =
+ 
+    1183.2  
+ 
+ hg  =
+ 
+    1198.4  
+ 
+ hfg  =
+ 
+    843.  
+ 
+ 
+ n  =
+ 
+    0.9819692  
+ 
+ 
+quality= 0.982  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH11/EX11.1/11_1.sce #
+ 
+ 
+ P  =
+ 
+    15.  
+ 
+ T  =
+ 
+    80.  
+ 
+ m  =
+ 
+    3.  
+ 
+ P1  =
+ 
+    25.  
+ 
+ T1  =
+ 
+    75.  
+ 
+ 
+ r  =
+ 
+    0.5944444  
+ 
+ m2  =
+ 
+    7.3972603  
+ 
+ V2  =
+ 
+    60.638219  
+ 
+ 
+Volume of the apparatus= 60.6 cu ft 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH11/EX11.2/11_2.sce #
+ 
+ 
+ R  =
+ 
+    48.3  
+ 
+ T  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ T2  =
+ 
+    1500.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ k1  =
+ 
+    1.36  
+ 
+ k2  =
+ 
+    1.31  
+ 
+ 
+ dc  =
+ 
+    0.0620823  
+ 
+ cp  =
+ 
+    0.2172879  
+ 
+ cv  =
+ 
+    0.1552057  
+ 
+ cp1  =
+ 
+    0.2345330  
+ 
+ cv1  =
+ 
+    0.1597705  
+ 
+ cp2  =
+ 
+    0.2623476  
+ 
+ cv2  =
+ 
+    0.2002654  
+ 
+ 
+cp= 0.217 Btu/lb R 
+ 
+ cv= 0.155 Btu/lb R 
+ 
+ cp1= 0.235 Btu/lb R 
+ 
+ cv1= 0.160 Btu/lb R 
+ 
+ cp2= 0.262 Btu/lb R 
+ 
+ cv2= 0.200 Btu/lb R 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH11/EX11.4/11_4.sce #
+ 
+ 
+ P  =
+ 
+    10.  
+ 
+ P1  =
+ 
+    100.  
+ 
+ T  =
+ 
+    140.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    55.16  
+ 
+ 
+ dh  =
+ 
+  - 71.793048  
+ 
+ 
+Enthalpy change= -71.8 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH11/EX11.5/11_5.sce #
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ T  =
+ 
+    2000.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    53.34  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ v1  =
+ 
+    35.329043  
+ 
+ 
+    35.329043  
+ 
+ T1  =
+ 
+    1430.6474  
+ 
+ dh  =
+ 
+  - 136.64462  
+ 
+ dv  =
+ 
+    26.216793  
+ 
+ 
+ case 1   
+ 
+change in volume = 26.22 
+ 
+ case 2   
+ 
+ T2  =
+ 
+    1500.  
+ 
+ v2  =
+ 
+    37.810166  
+ 
+ 
+    37.810166  
+ 
+ T2  =
+ 
+    1531.1203  
+ 
+ deltah  =
+ 
+  - 256.37079  
+ 
+ dv2  =
+ 
+    28.697916  
+ 
+change in volume = 28.70 cu ft/lb 
+ 
+ At T1=2460 R, from table 1, case 3   
+ 
+ h1  =
+ 
+    634.34  
+ 
+ pr1  =
+ 
+    407.3  
+ 
+ pr2  =
+ 
+    61.095  
+ 
+ T2  =
+ 
+    1075.  
+ 
+ h2  =
+ 
+    378.44  
+ 
+ deltah  =
+ 
+  - 255.9  
+ 
+ v2  =
+ 
+    37.905972  
+ 
+ 
+    37.905972  
+ 
+ dv3  =
+ 
+    28.793722  
+ 
+change in volume = 28.79 cu ft/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH12/EX12.1/12_1.sce #
+ 
+ 
+ P  =
+ 
+    15.  
+ 
+ T  =
+ 
+    55.  
+ 
+ P1  =
+ 
+    0.2141  
+ 
+ ma  =
+ 
+    29.  
+ 
+ mb  =
+ 
+    18.  
+ 
+ P2  =
+ 
+    0.2141  
+ 
+ P3  =
+ 
+    0.3631  
+ 
+ 
+ dp  =
+ 
+    14.7859  
+ 
+ r  =
+ 
+    111.26449  
+ 
+ r1  =
+ 
+    0.9910925  
+ 
+ r2  =
+ 
+    0.0089075  
+ 
+ r4  =
+ 
+    0.0089876  
+ 
+ P  =
+ 
+    0.5896447  
+ 
+ 
+relative humidity= 0.59  
+ 
+ specific humidity= 0.0090 lb vapour/lb air 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH12/EX12.2/12_2.sce #
+ 
+ 
+ h  =
+ 
+    29.5  
+ 
+ n  =
+ 
+    75.  
+ 
+ T  =
+ 
+    80.  
+ 
+ h1  =
+ 
+    10.  
+ 
+ mw  =
+ 
+    6.84  
+ 
+ ma  =
+ 
+    419.63  
+ 
+ d  =
+ 
+    13.6  
+ 
+ P  =
+ 
+    0.5069  
+ 
+ 
+ Pw  =
+ 
+    0.380175  
+ 
+ P  =
+ 
+    14.845529  
+ 
+ pa  =
+ 
+    14.465354  
+ 
+ r  =
+ 
+    0.0163001  
+ 
+ 
+Pounds of water vapour enter the furnance per pound of dry air= 0.0163 lb vapour/lb air 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH12/EX12.3/12_3.sce #
+ 
+ 
+ n  =
+ 
+    0.5  
+ 
+ T  =
+ 
+    75.  
+ 
+ P  =
+ 
+    14.7  
+ 
+ pg  =
+ 
+    0.4298  
+ 
+ pw  =
+ 
+    0.2149  
+ 
+ 
+ pw1  =
+ 
+    0.2149  
+ 
+ pa  =
+ 
+    14.4851  
+ 
+ r  =
+ 
+    0.0092280  
+ 
+ 
+relative humidity= 0.00923 lb water/lb dry air 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH12/EX12.4/12_4.sce #
+ 
+ 
+ r2  =
+ 
+    0.0078  
+ 
+ r1  =
+ 
+    0.0032  
+ 
+ h2  =
+ 
+    25.33  
+ 
+ h1  =
+ 
+    12.9  
+ 
+ pg  =
+ 
+    0.1217  
+ 
+ p  =
+ 
+    14.7  
+ 
+ h3  =
+ 
+    13.  
+ 
+ n  =
+ 
+    60.  
+ 
+ t2  =
+ 
+    70.  
+ 
+ t1  =
+ 
+    40.  
+ 
+ cpa  =
+ 
+    0.24  
+ 
+ R2  =
+ 
+    0.00788  
+ 
+ w1  =
+ 
+    0.00477  
+ 
+ 
+ 
+ Method 1   
+ 
+ w  =
+ 
+    0.0046  
+ 
+ q  =
+ 
+    12.3702  
+ 
+In method 1, Enthalpy =12.37 Btu/lb of dry air 
+ 
+ Method 2   
+ 
+ R1  =
+ 
+    0.0031155  
+ 
+ R2  =
+ 
+    0.00788  
+ 
+ w2  =
+ 
+    0.0047645  
+ 
+ 
+ Q  =
+ 
+    12.384274  
+ 
+In method 2, Enthalpy = 12.38 btu/lb of dry air 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH12/EX12.5/12_5.sce #
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ n  =
+ 
+    70.  
+ 
+ T  =
+ 
+    75.  
+ 
+ T1  =
+ 
+    70.  
+ 
+ r1  =
+ 
+    0.0131  
+ 
+ r2  =
+ 
+    0.0093  
+ 
+ h1  =
+ 
+    32.36  
+ 
+ h2  =
+ 
+    27.03  
+ 
+ hd2  =
+ 
+    23.4  
+ 
+ hf  =
+ 
+    23.4  
+ 
+ hg  =
+ 
+    1094.5  
+ 
+ 
+ R1  =
+ 
+    0.0038  
+ 
+ Qc  =
+ 
+  - 8.87108  
+ 
+ Qh  =
+ 
+    3.63  
+ 
+ x  =
+ 
+    4.07018  
+ 
+ y  =
+ 
+    0.4588145  
+ 
+ 
+Fraction of heat removed in the coil= 0.46  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH13/EX13.1/13_1.sce #
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ P1  =
+ 
+    200.  
+ 
+ T  =
+ 
+    750.  
+ 
+ v3  =
+ 
+    0.01614  
+ 
+ h1  =
+ 
+    1399.2  
+ 
+ h2  =
+ 
+    976.  
+ 
+ h3  =
+ 
+    69.7  
+ 
+ 
+ dh  =
+ 
+    0.5944831  
+ 
+ h4  =
+ 
+    70.294483  
+ 
+ Q1  =
+ 
+    1328.9055  
+ 
+ Wt  =
+ 
+    423.2  
+ 
+ Wp  =
+ 
+    0.5944831  
+ 
+ n  =
+ 
+    0.3180102  
+ 
+ w  =
+ 
+    6.0137051  
+ 
+ 
+cycle efficency = 0.318  
+ 
+ steam rate= 6.01 lb steam per hphr 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH13/EX13.2/13_2.sce #
+ 
+ 
+ wt  =
+ 
+    8.  
+ 
+ h1  =
+ 
+    1399.2  
+ 
+ h2s  =
+ 
+    976.  
+ 
+ h2  =
+ 
+    976.  
+ 
+ 
+ Wt  =
+ 
+    318.125  
+ 
+ nt  =
+ 
+    0.7517131  
+ 
+ h21  =
+ 
+    1081.075  
+ 
+ 
+Engine efficency = 0.752  
+ 
+ state  of the exhaust steam= 1081.075 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH13/EX13.3/13_3.sce #
+ 
+ 
+ h1  =
+ 
+    1474.5  
+ 
+ s1  =
+ 
+    1.5603  
+ 
+ h2s  =
+ 
+    1277.5  
+ 
+ 
+ h2  =
+ 
+    1307.05  
+ 
+h2= 1307.05 Btu/lb 
+ h3  =
+ 
+    1522.4  
+ 
+ s3  =
+ 
+    1.7623  
+ 
+ h4s  =
+ 
+    948.  
+ 
+ h4  =
+ 
+    1034.16  
+ 
+
+ h4= 1034.16 Btu/lb 
+ h5  =
+ 
+    47.6  
+ 
+ h6  =
+ 
+    53.5  
+ 
+ 
+ For the first rankine cycle   
+ 
+ h7s  =
+ 
+    840.  
+ 
+ h7  =
+ 
+    935.175  
+ 
+h7= 935.18 Btu/lb 
+ 
+ For the second rankine cycle   
+ 
+ h8  =
+ 
+    1493.2  
+ 
+ s8  =
+ 
+    1.6903  
+ 
+ h9s  =
+ 
+    866.  
+ 
+ h9  =
+ 
+    960.08  
+ 
+h9= 960.08 Btu/lb 
+ h11  =
+ 
+    51.5  
+ 
+ n1  =
+ 
+    0.401  
+ 
+ n2  =
+ 
+    0.375  
+ 
+ n3  =
+ 
+    0.366  
+ 
+ e1  =
+ 
+    0.0693333  
+ 
+
+ Percentage Efficiency of reheat cycle compared to Rankine cycle for the first case = 6.93 
+ e2  =
+ 
+    0.0956284  
+ 
+
+ Percentage Efficiency of reheat cycle compared to Rankine cycle for the second case = 9.56 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH13/EX13.4/13_4.sce #
+ 
+ 
+ h1  =
+ 
+    1371.  
+ 
+ h2s  =
+ 
+    1149.  
+ 
+ h3  =
+ 
+    118.  
+ 
+ Q1  =
+ 
+    1253.  
+ 
+ W  =
+ 
+    156.  
+ 
+ Qw  =
+ 
+    680.  
+ 
+ 
+ Qh  =
+ 
+    1097.  
+ 
+ y  =
+ 
+    1143.3  
+ 
+ r  =
+ 
+    0.9124501  
+ 
+ x  =
+ 
+    1777.  
+ 
+ z  =
+ 
+    0.6433877  
+ 
+ 
+Fraction of energy supplied = 0.91  
+ 
+ Fraction of energy supplied= 0.64  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH14/EX14.1/14_1.sce #
+ 
+ 
+ M  =
+ 
+    114.  
+ 
+ Mo  =
+ 
+    32.  
+ 
+ Mn  =
+ 
+    28.  
+ 
+ Mc  =
+ 
+    44.  
+ 
+ Mw  =
+ 
+    18.  
+ 
+ 
+ Ma  =
+ 
+    15.05848  
+ 
+ 
+Theoritical air for combustion= 15.1 lb air per lb C8H18  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH14/EX14.5/14_5.sce #
+ 
+ 
+ HV  =
+ 
+    4344.  
+ 
+ m  =
+ 
+    56.  
+ 
+ R  =
+ 
+    1.986  
+ 
+ Tb  =
+ 
+    530.  
+ 
+ 
+ HR  =
+ 
+    243264.  
+ 
+ Eb  =
+ 
+  - 242211.42  
+ 
+Constant pressure heating value = -242211.4 Btu/lb formula wt 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH14/EX14.6/14_6.sce #
+ 
+ 
+ mC  =
+ 
+    1.  
+ 
+ mO2  =
+ 
+    2.67  
+ 
+ mN2  =
+ 
+    8.78  
+ 
+ mCO2  =
+ 
+    3.67  
+ 
+ mN2  =
+ 
+    8.78  
+ 
+ tB  =
+ 
+    77.  
+ 
+ deltaH  =
+ 
+    14087.  
+ 
+ CpCO2  =
+ 
+    0.196  
+ 
+ CpCO2f  =
+ 
+    0.3  
+ 
+ CpN2  =
+ 
+    0.248  
+ 
+ CpN2f  =
+ 
+    0.285  
+ 
+ 
+ t2  =
+ 
+    4940.0194  
+ 
+ t2f  =
+ 
+    3986.4719  
+ 
+ 
+In case 1, t2 = 4940.0 F 
+
+ In case 2, t2f = 3986.5 F 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH14/EX14.7/14_7.sce #
+ 
+ 
+ HR  =
+ 
+    14087.  
+ 
+ HRC  =
+ 
+    3952.  
+ 
+ x1  =
+ 
+    0.9  
+ 
+ x2  =
+ 
+    0.05  
+ 
+ 
+ HR1  =
+ 
+    12678.3  
+ 
+ HR2  =
+ 
+    197.6  
+ 
+ e  =
+ 
+    0.9140271  
+ 
+ 
+Efficiency = 0.914 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH14/EX14.8/14_8.sce #
+ 
+ 
+ h  =
+ 
+    19500.  
+ 
+ w  =
+ 
+    700.  
+ 
+ Q  =
+ 
+    10240000.  
+ 
+ 
+ Q1  =
+ 
+    13650000.  
+ 
+ e  =
+ 
+    0.7501832  
+ 
+ 
+Efficiency= 0.75  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH15/EX15.1/15_1.sce #
+ 
+ 
+ p  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    75.  
+ 
+ T  =
+ 
+    550.  
+ 
+ T1  =
+ 
+    1700.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ Ta  =
+ 
+    871.10078  
+ 
+ Tc  =
+ 
+    1073.3546  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ Q1  =
+ 
+    198.93581  
+ 
+ Q2  =
+ 
+    125.60509  
+ 
+ Wnet  =
+ 
+    73.330717  
+ 
+ n  =
+ 
+    0.3686150  
+ 
+ hb  =
+ 
+    422.59  
+ 
+ hc  =
+ 
+    269.27  
+ 
+ ha  =
+ 
+    208.41  
+ 
+ hd  =
+ 
+    131.46  
+ 
+ Q1i  =
+ 
+    214.18  
+ 
+ Q2i  =
+ 
+    137.81  
+ 
+ Wnet1  =
+ 
+    76.37  
+ 
+ n1  =
+ 
+    0.3565692  
+ 
+ 
+Efficiency = 0.37  
+Efficiency = 0.357  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH15/EX15.2/15_2.sce #
+ 
+ 
+ p  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    75.  
+ 
+ T  =
+ 
+    550.  
+ 
+ T1  =
+ 
+    1700.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ n  =
+ 
+    75.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ Ta  =
+ 
+    871.10078  
+ 
+ Tc  =
+ 
+    1073.3546  
+ 
+ Ta1  =
+ 
+    1022.7911  
+ 
+ Tc1  =
+ 
+    921.66423  
+ 
+ Q1  =
+ 
+    162.53013  
+ 
+ Q2  =
+ 
+    89.199415  
+ 
+ Wnet  =
+ 
+    73.330717  
+ 
+ n1  =
+ 
+    0.4511823  
+ 
+ 
+Efficiency = 0.45  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH15/EX15.3/15_3.sce #
+ 
+ 
+ h1  =
+ 
+    124.27  
+ 
+ Pr1  =
+ 
+    1.2147  
+ 
+ r  =
+ 
+    6.  
+ 
+ p4  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    15.  
+ 
+ h2s  =
+ 
+    197.5  
+ 
+ Wnet  =
+ 
+    48.9  
+ 
+ hs  =
+ 
+    18500.  
+ 
+ wfbywa  =
+ 
+    0.0146  
+ 
+ W  =
+ 
+    2545.  
+ 
+ dh  =
+ 
+  - 91.5  
+ 
+ Wc  =
+ 
+    91.5  
+ 
+ 
+ n  =
+ 
+    0.1810441  
+ 
+ n1  =
+ 
+    52.04499  
+ 
+ n2  =
+ 
+    1.8711656  
+ 
+ 
+Efficiency = 0.181  
+ 
+ air rate= 52.0 lb air/hphr 
+ 
+ back work ratio= 1.87  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH16/EX16.1/16_1.sce #
+ 
+ 
+ h1  =
+ 
+    1279.1  
+ 
+ s1  =
+ 
+    1.7085  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    10.  
+ 
+ h2  =
+ 
+    1091.7  
+ 
+ s2  =
+ 
+    1.7085  
+ 
+ V1  =
+ 
+    100.  
+ 
+ v2  =
+ 
+    36.41  
+ 
+ w  =
+ 
+    1.  
+ 
+ 
+ a2  =
+ 
+    0.0118987  
+ 
+Exit area = 0.01190 sq. ft 
+ pt  =
+ 
+    55.  
+ 
+ ht  =
+ 
+    1221.5  
+ 
+ vt  =
+ 
+    8.841  
+ 
+ at  =
+ 
+    0.0052051  
+ 
+
+ Exit area in case 2 = 0.00521 sq. ft 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH16/EX16.2/16_2.sce #
+ 
+ 
+ w  =
+ 
+    10000.  
+ 
+ p0  =
+ 
+    250.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ Pf  =
+ 
+    1.  
+ 
+ vc  =
+ 
+    0.949  
+ 
+ dc  =
+ 
+    1.  
+ 
+ h0  =
+ 
+    1263.4  
+ 
+ s0  =
+ 
+    1.5949  
+ 
+ v2  =
+ 
+    276.  
+ 
+ 
+ pt  =
+ 
+    137.5  
+ 
+ 
+ from tables   
+ 
+ hts  =
+ 
+    1208.2  
+ 
+ vts  =
+ 
+    3.415  
+ 
+ h2s  =
+ 
+    891.  
+ 
+ Vts  =
+ 
+    1662.3668  
+ 
+ w  =
+ 
+    2.7777778  
+ 
+ cw  =
+ 
+    1.  
+ 
+ at  =
+ 
+    0.0057064  
+ 
+Throat area = 0.00571 ft^2 
+ V2  =
+ 
+    4317.7964  
+ 
+ eta  =
+ 
+    0.9  
+ 
+ h2  =
+ 
+    928.24  
+ 
+ a2s  =
+ 
+    0.1775597  
+ 
+
+ Exit area = 0.17756 ft^2 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH16/EX16.3/16_3.sce #
+ 
+ 
+ k  =
+ 
+    1.4  
+ 
+ ptbyp0  =
+ 
+    0.53  
+ 
+ T0  =
+ 
+    800.  
+ 
+ cp  =
+ 
+    778.  
+ 
+ R  =
+ 
+    0.0425864  
+ 
+ P0  =
+ 
+    150.  
+ 
+ Pt  =
+ 
+    15.  
+ 
+ w  =
+ 
+    1.  
+ 
+ cw  =
+ 
+    1.0043782  
+ 
+ 
+ Pt2  =
+ 
+    7.95  
+ 
+ Tts  =
+ 
+    667.28546  
+ 
+ Vts  =
+ 
+    1262.764  
+ 
+Exit velocity case 1= 1262.76 fps 
+ vts  =
+ 
+    3.12  
+ 
+ at  =
+ 
+    0.0024600  
+ 
+
+ Throat Area = 0.00246 ft^2 
+ T2s  =
+ 
+    414.35797  
+ 
+ eta  =
+ 
+    0.88  
+ 
+ T2  =
+ 
+    460.63502  
+ 
+ V2  =
+ 
+    2019.2796  
+ 
+
+ Exit velocity = 2019.28 fps 
+ v2  =
+ 
+    11.4  
+ 
+ a2  =
+ 
+    0.0056456  
+ 
+
+ Exit area = 0.00565 ft^2 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH17/EX17.1/17_1.sce #
+ 
+ 
+ R  =
+ 
+    53.31  
+ 
+ T  =
+ 
+    80.  
+ 
+ P2  =
+ 
+    90.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ n1  =
+ 
+    1.3  
+ 
+ cv  =
+ 
+    0.171  
+ 
+ 
+ Wk  =
+ 
+    67356.371  
+ 
+ Wn  =
+ 
+    63879.015  
+ 
+ Wt  =
+ 
+    51580.097  
+ 
+ Q  =
+ 
+  - 16.008713  
+ 
+ 
+Heat transfered from the airin each case= -16.0 Btu/lb 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH17/EX17.2/17_2.sce #
+ 
+ 
+ R  =
+ 
+    53.31  
+ 
+ T  =
+ 
+    80.  
+ 
+ P2  =
+ 
+    90.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ n1  =
+ 
+    1.3  
+ 
+ cv  =
+ 
+    0.171  
+ 
+ 
+ Wk  =
+ 
+    67356.371  
+ 
+ Wn  =
+ 
+    63879.015  
+ 
+ Wt  =
+ 
+    51580.097  
+ 
+ nc  =
+ 
+    0.8074654  
+ 
+ nc1  =
+ 
+    1.0544366  
+ 
+ 
+Thermal effeciency= 0.81  
+ 
+ Isothermal effeciency= 1.05  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH17/EX17.3/17_3.sce #
+ 
+ 
+ R  =
+ 
+    53.31  
+ 
+ T  =
+ 
+    80.  
+ 
+ P2  =
+ 
+    90.  
+ 
+ P1  =
+ 
+    15.  
+ 
+ n  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ nc  =
+ 
+    0.95  
+ 
+ n1  =
+ 
+    1.3  
+ 
+ 
+ Wk  =
+ 
+    67356.371  
+ 
+ Wx  =
+ 
+  - 70901.443  
+ 
+ dh  =
+ 
+    66.364935  
+ 
+ Q  =
+ 
+  - 24.768026  
+ 
+ 
+Heat transferred= -24.8 Btu/lb  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH17/EX17.4/17_4.sce #
+ 
+ 
+ P1  =
+ 
+    83.5  
+ 
+ P2  =
+ 
+    5.  
+ 
+ n  =
+ 
+    3.  
+ 
+ n1  =
+ 
+    1.25  
+ 
+ 
+ nv  =
+ 
+    0.7447048  
+ 
+ nv1  =
+ 
+    0.9374859  
+ 
+ 
+single-stage compression = 0.745  
+ 
+ two-stage compression = 0.937  
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH18/EX18.1/18_1.sce #
+ 
+ 
+ T2  =
+ 
+    0.  
+ 
+ T1  =
+ 
+    76.  
+ 
+ h1  =
+ 
+    611.8  
+ 
+ h4  =
+ 
+    127.4  
+ 
+ h2  =
+ 
+    704.4  
+ 
+ x  =
+ 
+    10000.  
+ 
+ v1  =
+ 
+    9.116  
+ 
+ n  =
+ 
+    70.  
+ 
+ 
+ CP  =
+ 
+    6.0526316  
+ 
+ CP1  =
+ 
+    5.2311015  
+ 
+ w  =
+ 
+    0.3440683  
+ 
+ PD  =
+ 
+    4.4807518  
+ 
+ 
+CP1 = 6.05  
+ 
+ CP2 = 5.23  
+ 
+ PD = 4.48 cu ft/min 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH19/EX19.2/19_2.sce #
+ 
+ 
+ t  =
+ 
+    8.  
+ 
+ t1  =
+ 
+    1.  
+ 
+ k  =
+ 
+    0.5  
+ 
+ k1  =
+ 
+    0.02  
+ 
+ A  =
+ 
+    1.  
+ 
+ T  =
+ 
+    60.  
+ 
+ T1  =
+ 
+  - 20.  
+ 
+ 
+ Rc  =
+ 
+    1.3333333  
+ 
+ Rf  =
+ 
+    4.1666667  
+ 
+ R  =
+ 
+    5.5  
+ 
+ q  =
+ 
+    14.545455  
+ 
+ T2  =
+ 
+    40.606061  
+ 
+ 
+Rate of heat flow= 14.5 Btu/hr 
+ 
+ Temperature at the interface= 40.6 F 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH19/EX19.3/19_3.sce #
+ 
+ 
+ h1  =
+ 
+    2500.  
+ 
+ r  =
+ 
+    10.  
+ 
+ t  =
+ 
+    0.375  
+ 
+ Ts  =
+ 
+    500.  
+ 
+ Ta  =
+ 
+    80.  
+ 
+ r2  =
+ 
+    5.375  
+ 
+ r1  =
+ 
+    5.  
+ 
+ r3  =
+ 
+    7.375  
+ 
+ kp  =
+ 
+    26.  
+ 
+ ki  =
+ 
+    0.045  
+ 
+ h1  =
+ 
+    2500.  
+ 
+ h3  =
+ 
+    1.6  
+ 
+ r4  =
+ 
+    14.75  
+ 
+ 
+ R1  =
+ 
+    0.0001528  
+ 
+ Rp  =
+ 
+    0.0004427  
+ 
+ Ri  =
+ 
+    1.1188144  
+ 
+ R3  =
+ 
+    0.1618525  
+ 
+ R0  =
+ 
+    1.2812624  
+ 
+ T3  =
+ 
+    133.05552  
+ 
+ 
+Temperature at the interface= 133.055520 F 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH19/EX19.4/19_4.sce #
+ 
+ 
+ wh  =
+ 
+    40000.  
+ 
+ cph  =
+ 
+    0.5  
+ 
+ th1  =
+ 
+    170.  
+ 
+ th2  =
+ 
+    120.  
+ 
+ cpc  =
+ 
+    1.  
+ 
+ tc2  =
+ 
+    140.  
+ 
+ tc1  =
+ 
+    100.  
+ 
+ t  =
+ 
+    140.  
+ 
+ U  =
+ 
+    120.  
+ 
+ 
+ dh  =
+ 
+    20.  
+ 
+ dc  =
+ 
+    40.  
+ 
+ wc  =
+ 
+    25000.  
+ 
+ dtm  =
+ 
+    24.663035  
+ 
+ q  =
+ 
+    1000000.  
+ 
+ A  =
+ 
+    337.88759  
+ 
+ th2  =
+ 
+    131.11111  
+ 
+ wc1  =
+ 
+    25000.  
+ 
+ 
+Water flow rate= 25000 lb/hr 
+ 
+ Area of heat transfer surface= 338 sq ft 
+ 
+ temperature of the oil= 131 F 
+ 
+ flow rate= 50000 lb/hr 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH19/EX19.5/19_5.sce #
+ 
+ 
+ Tw  =
+ 
+    200.  
+ 
+ Ta  =
+ 
+    600.  
+ 
+ V  =
+ 
+    100.  
+ 
+ Di  =
+ 
+    0.902  
+ 
+ d  =
+ 
+    0.0375  
+ 
+ u  =
+ 
+    0.00002  
+ 
+ cp  =
+ 
+    0.25  
+ 
+ k  =
+ 
+    0.027  
+ 
+ 
+ NRe  =
+ 
+    14093.75  
+ 
+ Npr  =
+ 
+    0.66  
+ 
+ h  =
+ 
+    14.591675  
+ 
+ 
+Film coefficient = 14.6 Btu/sq ft hr F 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH19/EX19.6/19_6.sce #
+ 
+ 
+ Tw  =
+ 
+    200.  
+ 
+ Ta  =
+ 
+    600.  
+ 
+ cpb  =
+ 
+    0.25  
+ 
+ tf  =
+ 
+    0.68  
+ 
+ uf  =
+ 
+    0.000017  
+ 
+ D  =
+ 
+    0.902  
+ 
+ V  =
+ 
+    100.  
+ 
+ d  =
+ 
+    0.0375  
+ 
+ 
+ Nre  =
+ 
+    16580.882  
+ 
+ Npr  =
+ 
+    0.68  
+ 
+ h  =
+ 
+    14.379402  
+ 
+ 
+Film coefficient = 14.4 Btu/sq ft hr F 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH19/EX19.7/19_7.sce #
+ 
+ 
+ A1  =
+ 
+    0.916  
+ 
+ e1  =
+ 
+    0.8  
+ 
+ s  =
+ 
+    0.173  
+ 
+ T  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    70.  
+ 
+ D  =
+ 
+    0.292  
+ 
+ 
+ q  =
+ 
+    140.51998  
+ 
+ hr  =
+ 
+    1.1800468  
+ 
+ hc  =
+ 
+    1.2402347  
+ 
+ 
+Heat loss= 140.52 Btu/hr 
+ 
+ hr= 1.18 Btu/sq ft hr F 
+ 
+ hc= 1.24 Btu/sq ft hr F 
+ 
+grepthis#Introduction_To_Thermodynamics_And_Heat_Transfer_D._A._Mooney_1100/CH19/EX19.8/19_8.sce #
+ 
+ 
+ T  =
+ 
+    120.  
+ 
+ T1  =
+ 
+    1500.  
+ 
+ A  =
+ 
+    0.4444444  
+ 
+ F  =
+ 
+    0.86  
+ 
+ Fe  =
+ 
+    1.  
+ 
+ s  =
+ 
+    0.173  
+ 
+ 
+ q  =
+ 
+    9683.7434  
+ 
+ 
+Heat loss= 9684 Btu/hr 
+ 

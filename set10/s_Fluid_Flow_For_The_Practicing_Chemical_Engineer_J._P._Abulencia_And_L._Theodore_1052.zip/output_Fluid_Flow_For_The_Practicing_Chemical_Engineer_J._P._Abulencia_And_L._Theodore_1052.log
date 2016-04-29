@@ -1,0 +1,10119 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 182
+
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH7/EX7.1/1.sce #
+ 
+ 
+ 
+example no. 7.1 page no. 64
+
+ 
+ 
+ 
+ 
+ 
+ Rf  =
+ 
+    4000.  
+ 
+ Ra  =
+ 
+    8000.  
+ 
+ Rm  =
+ 
+    550.  
+ 
+ Rin  =
+ 
+    12550.  
+ 
+ Rout  =
+ 
+    12550.  
+ 
+
+ Rf=4000.000000 kg/hr
+ Ra=8000.000000 kg/hr
+ Rm=550.000000 kg/hr
+ Rin=12550.000000 kg/hr
+ Rout=12550.000000 kg/hr 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH9/EX9.1/1.sce #
+ 
+ 
+ 
+Example 9.1 page no 87
+
+ 
+ 
+ rho  =
+ 
+    62.4  
+ 
+ v  =
+ 
+    100.  
+ 
+ q  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    32.2  
+ 
+
+ density rho=62.400000 lb/ft^3
+ horizontal velocity of water v=100.000000 ft/s
+ flow rate q=0.500000 ft^3/s 
+ M_in  =
+ 
+    96.89441  
+ 
+
+ momentum rate M_in=96.894410 lbf 
+ M_out  =
+ 
+    0.  
+ 
+ F  =
+ 
+  - 96.89441  
+ 
+
+ net horizontal force F=-96.894410 lbf 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH10/EX10.2/2.sce #
+ 
+ 
+ 
+Example 10.2 page no 99
+
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ P1  =
+ 
+    10.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ z1  =
+ 
+    0.  
+ 
+ g  =
+ 
+    9.807  
+ 
+
+ density rho=1000.000000 kg/m^3
+ pressure P1=10.000000 atm
+ pressure P2=1.000000 atm
+ height at ocean surface z1=0.000000 m 
+ z2  =
+ 
+  - 92.987152  
+ 
+ 
+ depth z2=-92.987152 m 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH2/EX2.1/2.sce #
+ 
+ 
+Example 2.1(1) Page no. 10
+
+ 
+ 
+8.03 yr =a
+
+ 
+ yr  =
+ 
+    365.  
+ 
+ day  =
+ 
+    24.  
+ 
+ h  =
+ 
+    60.  
+ 
+Warning : redefining function: min                     . Use funcprot(0) to avoid this message
+
+ min  =
+ 
+    60.  
+ 
+ a  =
+ 
+    2.532D+08  
+ 
+8.03 yr is 253234080.000000 seconds 
+
+ 
+ 
+ 
+Example 2.1(2) Page no.10
+
+ 
+ 
+150 mile/h =x
+
+ 
+ mile  =
+ 
+    5280.  
+ 
+ ft  =
+ 
+    0.3333333  
+ 
+ x  =
+ 
+    264000.  
+ 
+150 mile/h is 264000.000000 yd/h
+ 
+ 
+ 
+Example 2.1(3) Page no. 10
+
+ 
+ 
+100 m/s^2 =a
+
+ 
+ m  =
+ 
+    100.  
+ 
+ cm  =
+ 
+    0.0328084  
+ 
+ min  =
+ 
+    60.  
+ 
+ a  =
+ 
+    1181102.4  
+ 
+100 m/s^2 is 1181102.362205 ft/min^2
+ 
+ 
+ 
+Example 2.1(4) Page no.10
+
+  
+ 
+0.03g/cm^3 =x
+ 
+ g  =
+ 
+    0.0022026  
+ 
+ ft  =
+ 
+    28316.847  
+ 
+ x  =
+ 
+    1.8711573  
+ 
+0.03g/cm^3 is 1.871157 lb/ft^3
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH3/EX3.2/2.sce #
+ 
+ 
+ 
+Example 3.2 Page no. 25
+
+ 
+ 
+ sigma  =
+ 
+    0.0712  
+ 
+ D  =
+ 
+    0.008  
+ 
+ R  =
+ 
+    0.004  
+ 
+ theta  =
+ 
+    0.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ rho  =
+ 
+    1000.  
+ 
+surface tension=0.071200N/m
+ Radius=0.004000m
+ theta=0.000000degree
+ g=9.807000m/s^2
+ rho=1000.000000kg/m^3
+ 
+ h  =
+ 
+    0.0036301  
+ 
+height of liquid rise =0.003630m
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH9/EX9.2/2.sce #
+ 
+ 
+ 
+Example 9.2 page no 87
+
+ 
+ 
+ 
+ 
+ 
+ m_dot  =
+ 
+    0.15  
+ 
+ V_in_x  =
+ 
+    420.  
+ 
+ V_out_x  =
+ 
+    0.  
+ 
+mass flow rate m_dot=0.150000 kg/s
+ velocity in x direction V_in=420.000000 m/s
+ velocity out in  the x direction=0.000000=m/s 
+ 
+ F_x  =
+ 
+  - 63.  
+ 
+
+ force F_x=-63.000000 N 
+ 
+ V_in_y  =
+ 
+    0.  
+ 
+ V_out_y  =
+ 
+    420.  
+ 
+velocity in y dir V_in_y=0.000000 m/s
+ velocity out y dir V_out_y=420.000000 m/s 
+ F_y  =
+ 
+    63.  
+ 
+
+ force in y dir F_y=63.000000 N 
+ 
+ F_res  =
+ 
+    89.095454  
+ 
+
+ resultant force F_res=89.095454 N 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH3/EX3.3/3.sce #
+ 
+ 
+ 
+Example 3.3 Page no. 26
+
+ 
+ 
+ 
+ rho  =
+ 
+    996.  
+ 
+ sigma  =
+ 
+    0.071  
+ 
+rho=996.000000kg/m^3
+ surface tension (sigma)=0.071000 N/m
+ 
+ theta  =
+ 
+    0.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ h  =
+ 
+    0.001  
+ 
+theta=0.000000 degree 
+ g=9.807000 m/s^2
+ h=0.001000 m
+ 
+ R  =
+ 
+    0.0145376  
+ 
+ D  =
+ 
+    0.0290752  
+ 
+R=0.014538 m
+ D=0.029075 m
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH7/EX7.4/4.sce #
+ 
+ 
+ 
+Example 7.4 page no,fig 7.5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    0.0833333  
+ 
+
+
+ calculation:
+  calculation  of liquid  bypassed B=0.0833  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH10/EX10.5/5.sce #
+ 
+ 
+ 
+
+ Example 10.5 page no 103
+
+ 
+ 
+ F  =
+ 
+    0.13  
+ 
+ SG  =
+ 
+    1.3  
+ 
+ D  =
+ 
+    0.008  
+ 
+ rho_w  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ pi  =
+ 
+    3.1428571  
+ 
+
+ force F=0.130000 N
+ sp.gravity SG=1.300000 
+ stem diameter D=0.008000 m
+ density rho_w=1000.000000 kg/m^3
+ g=ravitational acc. g=9.807000 m/s^2 
+ h  =
+ 
+    0.0608332  
+ 
+
+ height h=0.060833 m 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH3/EX3.5/5.sce #
+ 
+ 
+ 
+Example 3.5 Page no. 30
+
+ 
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ Z1  =
+ 
+    0.  
+ 
+ Z2  =
+ 
+    10.  
+ 
+m=1.000000 kg
+ g=9.800000 m/s^2
+ Z1=0.000000 m
+ Z2=10.000000 m
+ 
+ PE1  =
+ 
+    0.  
+ 
+ PE2  =
+ 
+    98.  
+ 
+ PE  =
+ 
+    98.  
+ 
+PE1=0.000000J
+ PE2=98.000000J
+ PE=98.000000J
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH3/EX3.4/34.sce #
+ 
+ 
+ 
+Example 3.4 page no 28
+
+ 
+ S  =
+ 
+    2.  
+ 
+ F  =
+ 
+    10.  
+ 
+ theta  =
+ 
+    0.5235988  
+ 
+ F_p  =
+ 
+    8.660254  
+ 
+
+ F_p=8.660254 lbf 
+ F_n  =
+ 
+    5.  
+ 
+
+ F-n=5.000000 lbf 
+ tou  =
+ 
+    4.330127  
+ 
+ P  =
+ 
+    2.5  
+ 
+
+ tou=4.330127 psf
+ P=2.500000 psf 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH5/EX5.2/52.sce #
+ 
+ 
+ 
+Example 5.2 page no 42
+
+ 
+ 
+ 
+ k  =
+ 
+    1.66  
+ 
+ rho  =
+ 
+    0.08  
+ 
+ d  =
+ 
+    0.0833  
+ 
+ v1  =
+ 
+    300.  
+ 
+ v2  =
+ 
+    0.  
+ 
+ g_c  =
+ 
+    4.170D+08  
+ 
+given 
+ kinamatic viscosity =1.660000 ft^2/hr
+ rho=0.080000 lb/ft^3
+ d=0.083300 ft
+ v1=300.000000 ft/hr
+ v2=0.000000 ft/hr
+ gc=417000000.000000 (ft*lb/hr)/lbf*hr 
+ tou_xy  =
+ 
+    0.0000011  
+ 
+
+ force tou_xy=0.000001  lbf/ft^2 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH5/EX5.3/53.sce #
+ 
+ 
+ 
+Example  5.3 page no. 45
+
+ 
+ D  =
+ 
+    0.25  
+ 
+ L  =
+ 
+    0.5  
+ 
+ T  =
+ 
+    15.3  
+ 
+Given :
+ diameter =0.25 ft
+ height =0.500000 ft
+ Torque=15.300000 ft.lbf 
+ F  =
+ 
+    122.4  
+ 
+
+ force =122.400000 lbf 
+ 
+ tou  =
+ 
+    311.68904  
+ 
+
+ shear stress tou=311.689041 psf 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH5/EX5.4/54.sce #
+ 
+ 
+ 
+Example 5.4 page no. 45
+
+ 
+ 
+ 
+ omega  =
+ 
+    26.2  
+ 
+ D  =
+ 
+    0.25  
+ 
+ v  =
+ 
+    3.275  
+ 
+
+ omega=26.200000 rad/s
+ diameter D =0.250000 ft
+ linear velocity =3.275000 ft/s 
+ d  =
+ 
+    0.001  
+ 
+ vel  =
+ 
+   gradient: 39300
+ 
+ gc  =
+ 
+    32.14  
+ 
+
+ ance d=0.001000 ft
+ vel. gradient=39300.000000 1/s
+ gravitational constant gc=32.140000 ft/s*S 
+ tou  =
+ 
+    311.7  
+ 
+ meu  =
+ 
+    0.2549119  
+ 
+
+ tou=311.700000 psf
+ meu=0.254912 lb/ft*s 
+ rho  =
+ 
+    60.528  
+ 
+ neu  =
+ 
+    0.0042115  
+ 
+
+ kinematic viscosity=0.004211 (ft*ft)/s 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH7/EX7.2/72.sce #
+ 
+ 
+ 
+Example 7.2 page no. 65
+
+ 
+ 
+ 
+ D1  =
+ 
+    0.14  
+ 
+ D2  =
+ 
+    0.07  
+ 
+ v1  =
+ 
+    2.  
+ 
+ S1  =
+ 
+    0.0153938  
+ 
+ rho  =
+ 
+    1000.  
+ 
+
+ diameter D1=0.140000 m
+ diameter D2=0.070000 m
+ v1=2.000000 m/s
+ Surface area S1=0.015394 m^2
+ density of water rho=1000.000000  kg/m^3  
+ q1  =
+ 
+    0.0307876  
+ 
+ m1  =
+ 
+    30.787608  
+ 
+ G  =
+ 
+    2000.  
+ 
+
+ volumatric flow rate q1=0.030788 m^3/s
+ mass flow ratem1=30.787608 kg/s
+ mass flux G=2000.000000 kg/m^2*s 
+ S2  =
+ 
+    0.0038485  
+ 
+ q2  =
+ 
+    0.0307876  
+ 
+
+ surface areaS1=0.015394 m^2
+ volumatric flow rate q2=0.030788 m^3/s 
+ v2  =
+ 
+    8.  
+ 
+
+ velocity v2=8.000000 m/s 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH7/EX7.5/75.sce #
+ 
+ 
+ 
+Example 7.5 page no 67
+
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    0.09  
+ 
+ v_in  =
+ 
+    4.  
+ 
+ v_out  =
+ 
+    3.  
+ 
+ q_in  =
+ 
+    0.0254469  
+ 
+ d2  =
+ 
+    0.04  
+ 
+ q_out  =
+ 
+    0.0037699  
+ 
+
+ diameter at inlet d1=0.090000 m
+ volumatric flow rate at inlet q_in=0.025447 m^3/s
+ diameter d2=0.040000 m
+ volumatric flow rate at outlet q_out=0.003770 m^3/s 
+ q  =
+ 
+    0.0216770  
+ 
+ D  =
+ 
+    1.4  
+ 
+ S  =
+ 
+    1.5393804  
+ 
+
+ volumatric flow in tank=0.021677 m^3/s
+ diameter of tank D=1.400000 m
+ surface area of tank S=1.539380 m^2 
+ 
+ R_z  =
+ 
+    0.0140816  
+ 
+
+ rate of water level rise R_z=0.014082 m/s 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH8/EX8.1/81.sce #
+ 
+ 
+ 
+Example 8.1 page no 75
+
+ 
+ 
+ Cp  =
+ 
+    1090.  
+ 
+ M_dot  =
+ 
+    9.  
+ 
+ T1  =
+ 
+    650.  
+ 
+ 
+ Q  =
+ 
+    5500000.  
+ 
+ delta_H  =
+ 
+    5500000.  
+ 
+
+ heat capacity Cp=1090.000000 J/kg.deg c
+ mass flow rate M_dot=9.000000 kg/s
+ gas inlet temperature T1=650.000000 deg c
+ heat transferred Q=5500000.000000 W 
+ T2  =
+ 
+    89.  
+ 
+
+  temperature T2=89.000000 deg c  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH8/EX8.2/82.sce #
+ 
+ 
+ 
+Example 8.2 page no 77  fig 8.2 
+
+
+ 
+ 
+ 
+ q1  =
+ 
+    8.  
+ 
+ q2  =
+ 
+    6.  
+ 
+ q3  =
+ 
+    14.  
+ 
+ h1  =
+ 
+    250.  
+ 
+ h2  =
+ 
+    150.  
+ 
+ h3  =
+ 
+    200.  
+ 
+ rho  =
+ 
+    800.  
+ 
+
+ flow rate q1=8.000000 m^3/s
+ flow rate q2=6.000000 m^3/s
+ flow rate q3=14.000000 m^3/s
+ enthalpy h1=250.000000 j/kg
+ enthalpy h2=150.000000 j/kg
+ enthalpy h3=200.000000 j/kg
+ density of fluid rho=800.000000 kg/m^3 
+ 
+ hp  =
+ 
+    746.  
+ 
+ H  =
+ 
+    107.23861  
+ 
+
+ enthalpy H=107.238606 hp 
+ 
+ W_dot  =
+ 
+    107.23861  
+ 
+
+ work W_dot=107.238606 hp 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH8/EX8.5/85.sce #
+ 
+ 
+ 
+ Example 8.5 page no 81 fig 8.3
+
+
+ 
+ 
+ 
+ z1  =
+ 
+    9.  
+ 
+ h2  =
+ 
+    1.  
+ 
+ D1  =
+ 
+    3.  
+ 
+ D2  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    9.807  
+ 
+
+ elevation head at section 1 z1=9.000000 m
+ height at section h2=1.000000 m
+ diameter of cylindrical tank D1=3.000000 m
+ diameter of outlet hole of tank D2=0.300000 m
+ gravitational acc. g=9.807000 m/s^2 
+ t  =
+ 
+    90.318539  
+ 
+
+ time t=90.318539 sec 
+ x  =
+ 
+  - 0.01  
+ 
+
+  x=-0.010000 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH9/EX9.3/93.sce #
+ 
+ 
+ 
+Example 9.3 page no 88
+
+ 
+ 
+ rho  =
+ 
+    62.4  
+ 
+ D  =
+ 
+    0.167  
+ 
+ g  =
+ 
+    32.174  
+ 
+ M_dot_out  =
+ 
+    0.  
+ 
+ F_x  =
+ 
+    5.  
+ 
+density  rho=62.400000 lb/ft^3
+ diameter D=0.167000 ft
+ momentum M_dot_out=0.000000 lbf
+ forc in x dir F_x=5.000000 lbf 
+ M_dot_in  =
+ 
+    5.  
+ 
+
+ momentum M_dot_in=5.000000 lbf 
+ S  =
+ 
+    0.0219040  
+ 
+
+ surface area S=0.021904 ft^2 
+ v  =
+ 
+    10.848853  
+ 
+
+ velocity =10.848853 ft/s 
+ q  =
+ 
+    0.2376329  
+ 
+ m_dot  =
+ 
+    14.828296  
+ 
+
+ volumatric flow rate q=0.237633 ft^3/s
+ mass flow rate m_dot=14.828296 lb/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH9/EX9.4/94.sce #
+ 
+ 
+ 
+Example 9.4 page no 89 fig. 9.2
+
+
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ meu  =
+ 
+    0.001  
+ 
+ q  =
+ 
+    0.025  
+ 
+ D1  =
+ 
+    0.1  
+ 
+ D2  =
+ 
+    0.03  
+ 
+
+ density rho=1000.000000 kg/m^3
+ viscosity meu=0.001000 kg/m.s
+ volumatric flow rate q=0.025000 m^3/s
+ diametetr at section1 D1=0.100000 m
+ diameter at section2 D2=0.030000 m 
+ S1  =
+ 
+    0.0078540  
+ 
+ S2  =
+ 
+    0.0007069  
+ 
+
+ surface area at section 1 S1=0.007854 m^2
+ surface area at section 2 S2=0.000707 m^2 
+ v1  =
+ 
+    3.1830989  
+ 
+ v2  =
+ 
+    35.367765  
+ 
+
+ velocity at sec1 v1=3.183099 m/s
+ velocity at sec2 v2=35.367765 m/s 
+ 
+ P2  =
+ 
+    0.  
+ 
+ P1  =
+ 
+    620373.35  
+ 
+
+ pressure at point2 P2=0.000000 Pag(pascal gauge)
+ pressure atpoint1 P1=620373.346017 Pag 
+ m_dot1  =
+ 
+    25.  
+ 
+ m_dot2  =
+ 
+    25.  
+ 
+
+ mass flow rate m_dot1=25.000000 kg/s
+ mass flow rate m_dot2=25.000000 kg/s 
+ M_dot1_x  =
+ 
+    79.577472  
+ 
+ M_dot2_x  =
+ 
+    884.19413  
+ 
+
+ momentum rate M_dot1_x=79.577472 N
+ momentum rate M_dot2_x=884.194128 N 
+ 
+ F_x  =
+ 
+  - 4067.7842  
+ 
+
+ force from momentum balance F_x=-4067.784209 N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH10/EX10.1/101.sce #
+ 
+ 
+ 
+Example 10.1  pagr no. 98
+
+ 
+ 
+ h  =
+ 
+    2.493  
+ 
+ rho  =
+ 
+    848.7  
+ 
+ P_at  =
+ 
+    2116.  
+ 
+
+ height of mercury h=2.493000 ft
+ density of mercury rho=848.700000 lb/ft^3
+ atmospheric pressure P_at=2116.000000 psf  
+ 
+ g  =
+ 
+    9.8  
+ 
+ g_c  =
+ 
+    9.8  
+ 
+ P  =
+ 
+    2115.8091  
+ 
+ P_ab  =
+ 
+    4232.  
+ 
+gauge pressure P=2115.809100 psf
+ absolute pressure P_ab=4232.000000 psf 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH10/EX10.3/103.sce #
+ 
+ 
+ 
+Example 10.3 page no 99 fig 10.1
+
+
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ SG  =
+ 
+    0.89  
+ 
+ rho_oil  =
+ 
+    890.  
+ 
+ density of water rho=1000.000000 kg/m^3
+ density of oil rho_oil=890.000000 kg/m^3 
+ 
+ z1  =
+ 
+    0.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ z2  =
+ 
+  - 10.98  
+ 
+
+ depth at point 1, z1=0.000000 m
+ pressure P1=1.000000 atm
+ depth at point 2,z2=-10.980000 m 
+ g  =
+ 
+    9.807  
+ 
+ P2_gu  =
+ 
+    95835.965  
+ 
+
+ gauge pressure P2_gu=95835.965400 Pag 
+ 
+ z3  =
+ 
+  - 13.72  
+ 
+ P3  =
+ 
+    122707.15  
+ 
+
+ depth z3=-13.720000 m
+ pressure at bottom P3=122707.145400 Pag 
+ d  =
+ 
+    6.1  
+ 
+ s  =
+ 
+    29.224666  
+ 
+
+ diameter of tank d=6.100000 m
+ surface area of tank s=29.224666 m^2 
+ P3_ab  =
+ 
+    224032.15  
+ 
+ F  =
+ 
+    6547264.5  
+ 
+
+ absolute pressure P3_ab=224032.145400 Pag
+ pressure force at bottom F=6547264.546412 N 
+ 
+ 
+
+ force on the side of the tank F_s=5734275.573980  N 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH10/EX10.4/104.sce #
+ 
+ 
+ 
+ Example 10.4 page n0 102 
+
+ 
+ W_a  =
+ 
+    200.  
+ 
+ W_w  =
+ 
+    120.  
+ 
+ gamma_w  =
+ 
+    62.4  
+ 
+
+ weight of air W_a=200.000000 lbf
+ weight of water W_w=120.000000 lbf
+ sp.weight of water gamma_w=62.400000 lbf/ft^3 
+ F_b  =
+ 
+    80.  
+ 
+
+buoyant force F_b=80.000000 lbf 
+ V_dis  =
+ 
+    1.2820513  
+ 
+
+ volume displaced V_dis=1.282051 ft^3 
+ rho_b  =
+ 
+    156.  
+ 
+
+ density of block rho_b=156.000000 lb/ft^3 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH10/EX10.6/106.sce #
+ 
+ 
+ 
+
+ Example 10.6 page no 105 fig. 10.3
+
+
+ 
+ 
+ 
+ rho  =
+ 
+    62.3  
+ 
+ SG  =
+ 
+    1.4  
+ 
+ h  =
+ 
+    3.  
+ 
+ P  =
+ 
+    1.8170833  
+ 
+ 
+ pressure P=1.817083 psi 
+ P_r  =
+ 
+    14.7  
+ 
+ 
+ P_w  =
+ 
+    1.2979167  
+ 
+
+  pressure at right leg P_r=14.700000 psia
+ pressure due to water height P_w=1.297917 psi 
+ P_a  =
+ 
+    14.180833  
+ 
+ P_g  =
+ 
+  - 0.5191667  
+ 
+
+ absolute pressure P_a=14.180833 psia
+ gauge pressure P_g=-0.519167 psig 
+ P_af  =
+ 
+    2042.04  
+ 
+ P_gf  =
+ 
+  - 75.  
+ 
+
+pressure in psfa P_af=2042.040000 psfa
+ pressure in psfg P_gf=-75.000000 psfg 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH11/EX11.2/112.sce #
+ 
+ 
+ 
+Example 11.2-Page no.113
+
+ 
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ T_d  =
+ 
+    60.  
+ 
+ M  =
+ 
+    29.  
+ 
+ 
+ R  =
+ 
+    0.73  
+ 
+ T  =
+ 
+    520.  
+ 
+ 
+ rho  =
+ 
+    0.0763962  
+ 
+density of gas rho =0.076396lb/ft^3 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH11/EX11.3/113.sce #
+ 
+ 
+ 
+Example 11.3-Page no. 114
+
+ 
+ 
+ 
+ Qs  =
+ 
+    2000.  
+ 
+ Ps  =
+ 
+    1.  
+ 
+ Ts  =
+ 
+    60.  
+ 
+ Pa  =
+ 
+    1.  
+ 
+ Ta  =
+ 
+    700.  
+ 
+ Ta  =
+ 
+    1160.  
+ 
+ Ts  =
+ 
+    520.  
+ 
+ Qa  =
+ 
+    4461.5385  
+ 
+actual volumetric flowrate Qa=4461.538462 acfm 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH11/EX11.4/114.sce #
+ 
+ 
+ 
+Example 11.4-Page no. 115
+
+ 
+ 
+ 
+ m  =
+ 
+    50.  
+ 
+ M  =
+ 
+    29.  
+ 
+ Ts  =
+ 
+    60.  
+ 
+ Ps  =
+ 
+    1.  
+ 
+ R  =
+ 
+    0.73  
+ 
+ Ts  =
+ 
+    520.  
+ 
+ Qs  =
+ 
+    654.48276  
+ 
+standard volumetric flowrate Qs=654.482759 scfm 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH11/EX11.5/115.sce #
+ 
+ 
+ 
+Example 11.5-Page no.1 116
+
+ 
+ 
+ 
+ V  =
+ 
+    12.084  
+ 
+ T  =
+ 
+    70.  
+ 
+ P  =
+ 
+    1.  
+ 
+ R  =
+ 
+    0.73  
+ 
+ T  =
+ 
+    530.  
+ 
+ Mw  =
+ 
+    32.017544  
+ 
+molecular weight of gas Mw=32.017544 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH11/EX11.6/116.sce #
+ 
+ 
+ 
+Example 11.6 page no 118
+
+ 
+ 
+ 
+ B  =
+ 
+  - 0.159  
+ 
+ C  =
+ 
+    0.009  
+ 
+ V_new  =
+ 
+    0.  
+ 
+ 
+ V_new  =
+ 
+    0.6717069  
+ V  =
+ 
+    0.6717069  
+ V_new  =
+ 
+    0.6419974  
+ V  =
+ 
+    0.6419974  
+ V_new  =
+ 
+    0.6345669  
+ V  =
+ 
+    0.6345669  
+ 
+
+Volume of gas V=0.634567 L/gmol 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH11/EX11.7/117.sce #
+ 
+ 
+ 
+Example 11.7 page no 118
+
+ 
+ 
+ T_c  =
+ 
+    343.  
+ 
+ P_c  =
+ 
+    45.4  
+ 
+ 
+ R  =
+ 
+    0.73  
+ 
+ a  =
+ 
+    10933.  
+ 
+ b  =
+ 
+    0.4778368  
+ 
+ 
+ 
+ 
+ V  =
+ 
+    48.8  
+ 
+
+ Volume V=48.800000 ft^3/lbmol  
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH12/EX12.1/121.sce #
+ 
+ 
+ 
+Example 12.1 page no 124
+
+ 
+ T_i  =
+ 
+    660.  
+ 
+ D_1  =
+ 
+    6.  
+ 
+ v_1  =
+ 
+    25.  
+ 
+
+ temperature at inlet T_i=660.000000 k
+ diameter at inlet D_1=6.000000 ft
+ velocity at inlet v_1=25.000000 ft/s 
+ 
+ q_1  =
+ 
+    706.85835  
+ 
+
+ area at ilet A_1=28.274334 st^2
+ volumatric flow rate at inlet q_1=706.858347 ft^3/s 
+ 
+ 
+ T_2  =
+ 
+    2360.  
+ 
+ v_2  =
+ 
+    40.  
+ 
+
+ temperature T_2=2360.000000 k
+ velocity of flow at outlet v_2=40.000000 ft/s 
+ q_2  =
+ 
+    2527.5541  
+ 
+ A_2  =
+ 
+    63.188852  
+ 
+
+ volumatric flow rate at outlet q_2=2527.554089 ft^3/s
+ cross sectional area at outlet A_2=63.188852 ft^2  
+ D_2  =
+ 
+    8.9696458  
+ 
+
+ diameter at outlet D_2=8.969646 ft  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH12/EX12.2/122.sce #
+ 
+ 
+ 
+Example 12.2 page no 125
+
+ 
+ 
+ L  =
+ 
+    2.54  
+ 
+ rho  =
+ 
+    1.5  
+ 
+ v  =
+ 
+    20.  
+ 
+ meu  =
+ 
+    0.0078  
+ 
+
+ diameter of tube L=2.540000 cm
+ density  rho=1.500000 gm/cm^3
+ velocity v=20.000000 cm/s
+ viscosity meu=0.007800 g/cm*s 
+ R_e  =
+ 
+    9769.2308  
+ 
+
+ Reynolds no. R_e=9769.230769  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH12/EX12.3/123.sce #
+ 
+ 
+ 
+
+ Example 12.3 page no 126
+
+ 
+ 
+ v  =
+ 
+    3.8  
+ 
+ D  =
+ 
+    0.45  
+ 
+ rho  =
+ 
+    1.2  
+ 
+ meu  =
+ 
+    0.0000173  
+ 
+
+ velocity v=3.800000 m/s
+ diameter D=0.450000 m
+ density rho=1.200000 kg/m^3
+ viscosity meu=0.000017 kg/m*s 
+ R_e  =
+ 
+    118612.72  
+ 
+
+ reynoldsno R_e=118612.716763  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH12/EX12.5/125.sce #
+ 
+ 
+ 
+ Example 12.5 page no 128
+
+ 
+ SG  =
+ 
+    0.96  
+ 
+ R  =
+ 
+    0.03  
+ 
+ 
+ 
+
+ volumatric flow rate  q=0.005655 m^3/s 
+ rho_w  =
+ 
+    1000.  
+ 
+ rho_l  =
+ 
+    960.  
+ 
+ m_dot  =
+ 
+    5.4286721  
+ 
+
+ mass flow rate m_dot=5.428672 kg/s 
+ s  =
+ 
+    0.0028274  
+ 
+ v_av  =
+ 
+    2.  
+ 
+
+ average velocity v_av=2.000000 m/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH12/EX12.6/126.sce #
+ 
+ 
+ 
+Example 12.6 page no 129
+
+ 
+ 
+ V  =
+ 
+    20.  
+ 
+ q  =
+ 
+    0.00565  
+ 
+ t  =
+ 
+    3539.823  
+ 
+
+ time t=3539.823009 s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH12/EX12.7/127.sce #
+ 
+ 
+ 
+Example 12.7 page no. 130
+
+ 
+ 
+ D  =
+ 
+    1.2  
+ 
+ T  =
+ 
+    760.  
+ 
+ P  =
+ 
+    1.  
+ 
+ T_s  =
+ 
+    520.  
+ 
+ P_s  =
+ 
+    1.  
+ 
+ q_s  =
+ 
+    1000.  
+ 
+ q  =
+ 
+    1461.5385  
+ 
+
+ actual volumatric flow rate q=1461.538462 acfm  
+ s  =
+ 
+    1.1309734  
+ 
+ s_m  =
+ 
+    0.1050674  
+ 
+ v  =
+ 
+    21.538062  
+ 
+
+ average velocity v=21.538062 ft/s 
+ MW  =
+ 
+    33.  
+ 
+ R  =
+ 
+    0.7302  
+ 
+ rho  =
+ 
+    0.0594646  
+ 
+
+ density rho=0.059465 lb/ft^3 
+ m_dot  =
+ 
+    0.1345653  
+ 
+
+ mass flow rate m_dot=0.134565 lb/s 
+ D_m  =
+ 
+    0.366  
+ 
+ v_m  =
+ 
+    6.55  
+ 
+ rho_m  =
+ 
+    0.9525476  
+ 
+ rho_m  =
+ 
+    0.952  
+ 
+
+v_m=6.550000 
+ meu  =
+ 
+    0.000022  
+ 
+ R_e  =
+ 
+    103737.71  
+ 
+
+ reynolds no R_e=103737.709091  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH13/EX13.1/131.sce #
+ 
+ 
+ 
+Example 13.1 page no 136
+
+ 
+ 
+ 
+ R_e  =
+ 
+    2100.  
+ 
+ meu_w  =
+ 
+    0.000672  
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ D_w  =
+ 
+    2.067  
+ 
+ v_w  =
+ 
+    0.1312940  
+ 
+
+ velocity v_w=0.131294 ft/s 
+ 
+ meu_a  =
+ 
+    0.0000121  
+ 
+ rho_a  =
+ 
+    0.1024  
+ 
+ D_a  =
+ 
+    0.17225  
+ 
+ v_a  =
+ 
+    1.4406069  
+ 
+
+ velocity of air v_a=1.440607 ft/s 
+ 
+ meu_o  =
+ 
+    0.2016  
+ 
+ rho_o  =
+ 
+    57.408  
+ 
+ D_o  =
+ 
+    0.3355  
+ 
+ v_o  =
+ 
+    22.  
+ 
+
+ velocity of oil v_o=22.000000 ft/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH13/EX13.2/132.sce #
+ 
+ 
+ 
+ Example 13.2 page no 137
+
+ 
+ 
+ 
+ meu  =
+ 
+    0.000672  
+ 
+ v  =
+ 
+    0.13  
+ 
+ D  =
+ 
+    0.17225  
+ 
+ P_l  =
+ 
+    0.0942202  
+ 
+
+ pressure drop per unit length P_l=0.094220 psf/ft 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH13/EX13.4/134.sce #
+ 
+ 
+ 
+ Example 13.4 page no 138
+
+  
+ 
+ w  =
+ 
+    1.  
+ 
+ h  =
+ 
+    0.25  
+ 
+ D  =
+ 
+    0.4  
+ 
+
+ hydraulic diameter D=0.400000 m 
+ R_e  =
+ 
+    2300.  
+ 
+ neu  =
+ 
+    0.00001  
+ 
+ v  =
+ 
+    0.0575  
+ 
+
+ velocity of air v=0.057500 m/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH13/EX13.5/135.sce #
+ 
+ 
+ 
+ Example 13.5 page no 139
+
+ 
+ 
+ D  =
+ 
+    0.1667  
+ 
+ s  =
+ 
+    0.0218253  
+ 
+ q  =
+ 
+    0.486  
+ 
+ v  =
+ 
+    22.267691  
+ 
+flow velocity v=22.267691 ft/s 
+ g  =
+ 
+    32.174  
+ 
+ P_grad  =
+ 
+    144.  
+ 
+ meu  =
+ 
+    0.1806815  
+ 
+
+ dynamic viscosity meu=0.180681 lb/ft.s 
+ 
+ rho  =
+ 
+    70.  
+ 
+ R_e  =
+ 
+    1438.1204  
+ 
+
+ reynolds no R_e=1438.120395  
+ f  =
+ 
+    0.0111256  
+ 
+
+ friction factor f=0.011126  
+ 
+ L_e  =
+ 
+    11.986733  
+ 
+
+ entance length L_e=11.986733 ft 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH13/EX13.6/136.sce #
+ 
+ 
+ 
+ Example 13.6 page no 140
+
+ 
+ 
+ 
+ rho  =
+ 
+    1260.  
+ 
+ meu  =
+ 
+    1.49  
+ 
+ neu  =
+ 
+    0.0011825  
+ 
+ R  =
+ 
+    0.02  
+ 
+ 
+vol. flow rate q=0.010053 m^3/s 
+ r  =
+ 
+    0.  
+ 
+ v_av  =
+ 
+    8.  
+ 
+ q  =
+ 
+    0.01  
+ 
+ m_dot  =
+ 
+    12.6  
+ 
+ G  =
+ 
+    10080.  
+ 
+ M_dot  =
+ 
+    100.8  
+ 
+
+ av. velocity v_av=8.000000 m/s
+ mass flow rate m_dot=12.600000 kg/s
+ mass flux G=10080.000000 kg/m^2.s
+ linear mometum flux M_dot=100.800000 N  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH13/EX13.7/137.sce #
+ 
+ 
+ 
+Example 13.7 page no 142
+
+ 
+ 
+ rho  =
+ 
+    1260.  
+ 
+ v  =
+ 
+    8.  
+ 
+ D  =
+ 
+    0.02  
+ 
+ meu  =
+ 
+    1.49  
+ 
+ R_e  =
+ 
+    135.30201  
+ 
+
+ reynolds no R_e=135.302013  
+ V  =
+ 
+    14000.  
+ 
+ q  =
+ 
+    159.6  
+ 
+ t  =
+ 
+    87.719298  
+ 
+
+ time t=87.719298 min 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.1/141.sce #
+ 
+ 
+ 
+Example 14.1 page no 148
+
+ 
+ 
+ meu  =
+ 
+    0.0078  
+ 
+ rho  =
+ 
+    1.5  
+ 
+ D  =
+ 
+    2.54  
+ 
+ v  =
+ 
+    20.  
+ 
+ R_e  =
+ 
+    9769.2308  
+ 
+
+ Reynolds no R_e=9769.230769  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.2/142.sce #
+ 
+ 
+ 
+Example 14.2 page no 148
+
+ 
+ 
+ meu  =
+ 
+    0.0006922  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ D  =
+ 
+    0.0833333  
+ 
+ R_e  =
+ 
+    2100.  
+ 
+ v  =
+ 
+    0.2795262  
+ 
+
+ velocity v=0.279526 ft/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.3/143.sce #
+ 
+ 
+ 
+Example 14.3 page no 152
+
+ 
+ 
+ R_e  =
+ 
+    14080.  
+ 
+ K_r  =
+ 
+    0.004  
+ 
+ 
+ f_a  =
+ 
+    0.0086175  
+ 
+
+ fanning friction factor f_a=0.008618  
+ 
+ f_b1  =
+ 
+    0.0072156  
+ 
+
+ friction factor f_b1=0.007216  
+ 
+ f_b2  =
+ 
+    0.0068083  
+ 
+
+ friction factor f_b2=0.006808  
+ 
+ f_c  =
+ 
+    0.0070953  
+ 
+
+ friction factor f_c=0.007095  
+ 
+ f_d  =
+ 
+    0.0087598  
+ 
+
+ friction factor f_d=0.008760  
+ f_e  =
+ 
+    0.0085  
+ 
+
+ friction factor f_e=0.008500 
+ f_av  =
+ 
+    0.0078328  
+ 
+
+ average friction f_av=0.007833  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.4/144.sce #
+ 
+ 
+ 
+Example 14.4 page no 154
+
+ 
+ 
+ 
+ w  =
+ 
+    2.  
+ 
+ h  =
+ 
+    10.  
+ 
+ S_a  =
+ 
+    20.  
+ 
+ P_a  =
+ 
+    24.  
+ 
+ D_eq_a  =
+ 
+    3.3333333  
+ 
+
+ equivalent diameter D_eq_a=3.333333 in 
+ 
+ d_o  =
+ 
+    10.  
+ 
+ d_i  =
+ 
+    8.  
+ 
+ S_b  =
+ 
+    28.274334  
+ 
+ P_b  =
+ 
+    6.2831853  
+ 
+ D_eq_b  =
+ 
+    18.  
+ 
+
+ equivalent diameter D_eq_b=18.000000 cm 
+ 
+ d_c  =
+ 
+    10.  
+ 
+ S_c  =
+ 
+    39.269908  
+ 
+ P_c  =
+ 
+    15.707963  
+ 
+ D_eq_c  =
+ 
+    10.  
+ 
+
+ equivalent diameter D_eq_c=10.000000 cm 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.5/145.sce #
+ 
+ 
+ 
+Example 14.5 page no 157
+
+ 
+ 
+ MW  =
+ 
+    28.9  
+ 
+ R  =
+ 
+    10.73  
+ 
+ T  =
+ 
+    500.  
+ 
+ P  =
+ 
+    14.75  
+ 
+ 
+ rho  =
+ 
+    0.0794548  
+ 
+ rho  =
+ 
+    0.08  
+ 
+ meu  =
+ 
+    0.0000004  
+ 
+ 
+ q  =
+ 
+    8.33  
+ 
+ L  =
+ 
+    800.  
+ 
+ P_1  =
+ 
+    0.1  
+ 
+ P_2  =
+ 
+    0.01  
+ 
+ D  =
+ 
+    0.2934596  
+ 
+
+ pipe diameter D=0.293460 ft 
+ 
+ meu  =
+ 
+    0.0000114  
+ 
+ R_e1  =
+ 
+    253624.92  
+ 
+ 
+ 
+ P_drop  =
+ 
+    12.96  
+ 
+ f  =
+ 
+    0.005  
+ 
+ g_c  =
+ 
+    32.174  
+ 
+ D  =
+ 
+    0.7037786  
+ 
+ 
+ k  =
+ 
+    0.000005  
+ 
+ K_r  =
+ 
+    0.0000071  
+ 
+ C_f  =
+ 
+    1.321224  
+ 
+ R_e_n  =
+ 
+    105755.81  
+ 
+ 
+ f_n  =
+ 
+    0.0045  
+ 
+ D  =
+ 
+    0.6899998  
+ 
+
+D=0.690000  
+ 
+ S  =
+ 
+    0.3739279  
+ 
+ v  =
+ 
+    22.277022  
+ 
+
+ flow velocity v=22.277022 ft/s 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.6/146.sce #
+ 
+ 
+ 
+Example 14.6 page no. 159
+
+ 
+ 
+ rho  =
+ 
+    789.  
+ 
+ meu  =
+ 
+    0.0011  
+ 
+ k  =
+ 
+    0.0000015  
+ 
+ L  =
+ 
+    60.  
+ 
+ q  =
+ 
+    0.002778  
+ 
+ g  =
+ 
+    9.807  
+ 
+ h_f  =
+ 
+    30.  
+ 
+ A  =
+ 
+    0.0000016  
+ 
+ A  =
+ 
+    0.0000002  
+ 
+ 
+ D  =
+ 
+    0.0377  
+ 
+ 
+ S  =
+ 
+    0.0011157  
+ 
+ v  =
+ 
+    2.4898884  
+ 
+ v  =
+ 
+    3.93  
+ 
+ neu  =
+ 
+    0.0000014  
+ 
+ R_e  =
+ 
+    106208.6  
+ 
+
+ R_e=106208.602151  
+
+ since R_e is more than 4000 flow is turbulent 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.7/147.sce #
+ 
+ 
+ 
+Example 14.7 page no 160
+
+ 
+ 
+ rho  =
+ 
+    820.  
+ 
+ D  =
+ 
+    0.0493  
+ 
+ R_e  =
+ 
+    60000.  
+ 
+ meu  =
+ 
+    0.0016  
+ 
+ v  =
+ 
+    2.3747093  
+ 
+
+ average velocity v=2.374709 m/s 
+ S  =
+ 
+    0.0019089  
+ 
+
+ S=0.001909  
+ q  =
+ 
+    1244.0182  
+ 
+
+ flow rate q=1244.018221 m^3/s 
+ m_dot  =
+ 
+    1020094.9  
+ 
+
+ mass flow rate m_dot=1020094.941202 kg/s 
+ n  =
+ 
+    7.  
+ 
+ v_max  =
+ 
+    2.9078074  
+ 
+
+ v_max=2.907807 m/s 
+ 
+ R_e  =
+ 
+    60000.  
+ 
+ L_c  =
+ 
+    1.3572446  
+ 
+
+ length L_c=1.357245 m 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.8/148.sce #
+ 
+ 
+ 
+
+ Example 14.8 page no 161
+
+ 
+ 
+ rho  =
+ 
+    860.  
+ 
+ R_e  =
+ 
+    60000.  
+ 
+ f  =
+ 
+    0.0050948  
+ 
+
+ fanning friction factor f=0.005095  
+ L  =
+ 
+    9.  
+ 
+ v  =
+ 
+    2.38  
+ 
+ D  =
+ 
+    0.0493  
+ 
+ g  =
+ 
+    9.807  
+ 
+ h_f  =
+ 
+    1.0744121  
+ 
+
+ h_f friction loss=1.074412 m  
+ 
+ P_drop  =
+ 
+    9061.6135  
+ 
+ P_drop_a  =
+ 
+    0.0906161  
+ 
+
+ P_drop_a =0.090616 atm 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.9/149.sce #
+ 
+ 
+ 
+ Example 14.9 page no 161
+
+ 
+ 
+ D  =
+ 
+    0.0493  
+ 
+ S  =
+ 
+    0.0019089  
+ 
+ P  =
+ 
+    8685.  
+ 
+ F  =
+ 
+    16.578817  
+ 
+
+ Force required to hold pipe F=16.578817 N 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH15/EX15.2/152.sce #
+ 
+ 
+ 
+ Example 15.2 page no 169
+
+ 
+ 
+ T  =
+ 
+    293.  
+ 
+ R  =
+ 
+    8314.4  
+ 
+ k  =
+ 
+    1.4  
+ 
+ M  =
+ 
+    28.  
+ 
+ c  =
+ 
+    349.00711  
+ 
+
+ speed of sound on nitrogen c=349.007106 m/s 
+ v  =
+ 
+    82.  
+ 
+ M_a  =
+ 
+    0.2349522  
+ 
+
+ mach no. M_a=0.234952  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH15/EX15.3/153.sce #
+ 
+ 
+ 
+Example 15.3 page no 170
+
+ 
+ 
+ k  =
+ 
+    1.3  
+ 
+ T  =
+ 
+    290.  
+ 
+ M  =
+ 
+    44.  
+ 
+ R  =
+ 
+    8314.4  
+ 
+ c  =
+ 
+    266.9069  
+ 
+
+ speed of sound in propane c=266.906896 m/s 
+ v  =
+ 
+    43.  
+ 
+ M_a  =
+ 
+    0.1611049  
+ 
+
+ M_a mach no=0.161105  
+ 
+ rho  =
+ 
+    6.39  
+ 
+ meu  =
+ 
+    0.000008  
+ 
+ D  =
+ 
+    0.0254  
+ 
+ R_e  =
+ 
+    872394.75  
+ 
+
+ reynolds no R_e=872394.750000  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH15/EX15.6/156.sce #
+ 
+ 
+ 
+Example 15.6 page no 173
+
+ 
+ 
+ m_dot  =
+ 
+    10.  
+ 
+ D  =
+ 
+    1.  
+ 
+ G  =
+ 
+    12.732395  
+ 
+ P  =
+ 
+    89.7  
+ 
+ T  =
+ 
+    530.  
+ 
+ MW  =
+ 
+    16.  
+ 
+ R  =
+ 
+    10.73  
+ 
+ 
+ rho  =
+ 
+    0.2523695  
+ 
+ f  =
+ 
+    0.008  
+ 
+ L  =
+ 
+    15840.  
+ 
+ g_c  =
+ 
+    32.2  
+ 
+ P_drop  =
+ 
+    5055.9491  
+ 
+ P1  =
+ 
+    89.7  
+ 
+ P2  =
+ 
+    54.589243  
+ 
+ P2  =
+ 
+    54.7  
+ 
+ P_drop  =
+ 
+    35.  
+ 
+
+ pressure drop P_drop=35.000000 psia 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH15/EX15.7/157.sce #
+ 
+ 
+ 
+Example 15.7 page no 174
+
+ 
+ 
+ D  =
+ 
+    1.  
+ 
+ G  =
+ 
+    12.7  
+ 
+ meu  =
+ 
+    0.0000074  
+ 
+ R_e  =
+ 
+    1718538.6  
+ 
+
+ reynolds no R_e=1718538.565629  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH15/EX15.8/158.sce #
+ 
+ 
+ 
+Example no page no 174
+
+ 
+ 
+ P_1  =
+ 
+    2.7  
+ 
+ T  =
+ 
+    288.  
+ 
+ v  =
+ 
+    30.  
+ 
+ Mw  =
+ 
+    29.  
+ 
+ V  =
+ 
+    22.4  
+ 
+ T_s  =
+ 
+    273.  
+ 
+ P_s  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    3.3134766  
+ 
+ density rho =3.313477 kg/m^3 
+ G  =
+ 
+    99.404297  
+ 
+
+ G mass velocity flux =99.404297 kg/m^2.s 
+ f  =
+ 
+    0.004  
+ 
+ D  =
+ 
+    0.085  
+ 
+ L  =
+ 
+    65.  
+ 
+ 
+ P_2  =
+ 
+    2.5199495  
+ 
+ 
+
+ pressure drop P__2=2.519950 atm 
+ P_drop  =
+ 
+    0.1800505  
+ 
+
+ P_drop pressure=0.180050 atm 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH15/EX15.9/159.sce #
+ 
+ 
+ 
+ Example 15.9 page no 175
+
+ 
+ 
+ meu  =
+ 
+    0.0000174  
+ 
+ D  =
+ 
+    0.085  
+ 
+ G  =
+ 
+    99.3  
+ 
+ R_e  =
+ 
+    485086.21  
+ 
+
+ reynolds no R_e=485086.206897  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH16/EX16.2/162.sce #
+ 
+ 
+ 
+ Example 16.2 page no 183
+
+ 
+ 
+ 
+ X  =
+ 
+    1.66  
+ 
+ Y_g  =
+ 
+    32.705841  
+ 
+
+ Y_g=32.705841  
+ 
+ 
+ P_drop_g  =
+ 
+    2.71  
+ 
+ P_drop_t  =
+ 
+    88.632829  
+ 
+
+ P_drop_t=88.632829 psf/100 ft 
+ 
+ Y_l  =
+ 
+    12.028514  
+ 
+
+ Y_l =12.028514  
+ 
+ P_drop_l  =
+ 
+    7.5  
+ 
+ P_drop  =
+ 
+    90.213858  
+ 
+
+ P_drop=90.213858 psf/100ft 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH16/EX16.3/163.sce #
+ 
+ 
+ 
+ Example 16.3 page no 185
+
+ 
+ 
+ 
+ X  =
+ 
+    1.66  
+ 
+ Y_G_tv  =
+ 
+    20.482692  
+ 
+
+ Y_G_tv=20.482692  
+ 
+ P_drop_g  =
+ 
+    2.71  
+ 
+ P_drop_a  =
+ 
+    55.508096  
+ 
+
+ pressure drop P_drop_a=55.508096 psf/100 ft 
+ 
+ Y_l_tv  =
+ 
+    8.0692435  
+ 
+
+ Y_l_tv=8.069244  
+ 
+ P_drop_l  =
+ 
+    7.5  
+ 
+ P_drop_b  =
+ 
+    60.519326  
+ 
+
+ P_drop_b=60.519326 psf/100 f 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH16/EX16.4/164.sce #
+ 
+ 
+ 
+Example 16.4 page no 187
+
+ 
+ 
+ 
+ X  =
+ 
+    1.66  
+ 
+ Y_G  =
+ 
+    12.449193  
+ 
+
+ Y_G=12.449193  
+ 
+ P_drop_g  =
+ 
+    2.71  
+ 
+ P_drop  =
+ 
+    33.737313  
+ 
+
+ pressure drop P_drop=33.737313 psf/100 ft 
+ 
+ Y_l  =
+ 
+    4.8810974  
+ 
+
+ Y_l =4.881097  
+ 
+ P_drop_l  =
+ 
+    7.5  
+ 
+ P_drop_b  =
+ 
+    36.60823  
+ 
+
+ pressure drop P_drop_b=36.608230 psf/100 ft 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH16/EX16.6/166.sce #
+ 
+ 
+ 
+
+ Example 16.6 page no 191
+
+ 
+ 
+ rho_a  =
+ 
+    0.075  
+ 
+ meu_a  =
+ 
+    0.0000124  
+ 
+ q_a  =
+ 
+    5.3125  
+ 
+ rho_k  =
+ 
+    52.1  
+ 
+ meu_k  =
+ 
+    0.00168  
+ 
+ q_k  =
+ 
+    1.79  
+ 
+ D  =
+ 
+    0.19167  
+ 
+ S  =
+ 
+    0.0288535  
+ 
+
+ S=0.028853  
+ 
+ v_a  =
+ 
+    3.0686653  
+ 
+ v_k  =
+ 
+    1.0339597  
+ 
+
+ velocity v_a =3.068665 ft/s
+ velocity v_k=1.033960 ft/s 
+ R_e_a  =
+ 
+    3557.4864  
+ 
+ R_e_k  =
+ 
+    6145.91  
+ 
+
+ R_e_a=3557.486385
+R_e_k=6145.910025  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH17/EX17.1/171.sce #
+ 
+ 
+ 
+Example 17.1 page no 201
+
+ 
+ 
+ 
+ D_a  =
+ 
+    46.  
+ 
+ rpm_a  =
+ 
+    1575.  
+ 
+ D_b  =
+ 
+    42.  
+ 
+ rpm_b  =
+ 
+    1625.  
+ 
+ h_p_a  =
+ 
+    47.5  
+ 
+ h_p_b  =
+ 
+    33.10315  
+ 
+
+ power requirement h_p_b=33.103150 bhp 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH17/EX17.2/172.sce #
+ 
+ 
+ 
+Example 17.2 page no 201
+
+ 
+ rpm  =
+ 
+    1694.  
+ 
+ q  =
+ 
+    12200.  
+ 
+ rpm_n  =
+ 
+    2100.  
+ 
+ q_n  =
+ 
+    15123.967  
+ 
+
+new flow rate q_n=15123.966942 acfm 
+ 
+ P  =
+ 
+    5.  
+ 
+ P_n  =
+ 
+    7.6839014  
+ 
+
+new pressureP_n=7.683901 in H20 
+ 
+ hp  =
+ 
+    9.25  
+ 
+ hp_n  =
+ 
+    17.622171  
+ 
+
+ new powerhp_n=17.622171 bhp 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH17/EX17.3/173.sce #
+ 
+ 
+ 
+Example 17.3 page no 201
+
+ 
+ 
+ P_l_m  =
+ 
+    4.4  
+ 
+ P_l_mz  =
+ 
+    6.4  
+ 
+ P_drop  =
+ 
+    10.8  
+ 
+
+ total pressure P_drop=10.800000 in H20 
+ 
+ q  =
+ 
+    6500.  
+ 
+ neta  =
+ 
+    0.63  
+ 
+ bhp  =
+ 
+    17.55  
+ 
+ 
+
+ brake horse power bhp=17.550000 bhp 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH17/EX17.4/174.sce #
+ 
+ 
+ 
+ Example 17.4 page no 208
+
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    25.  
+ 
+ b  =
+ 
+    5.  
+ 
+ 
+ 
+ q  =
+ 
+    1.  
+ 
+ P  =
+ 
+    20.  
+ 
+
+ pressure P=20.000000 kpa 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH17/EX17.6/176.sce #
+ 
+ 
+ 
+
+ Example 17.6 page no. 214
+
+ 
+ 
+ 
+ 
+ 
+ 
+ q  =
+ 
+    35.  
+ 
+ hc  =
+ 
+    36.2425  
+ 
+
+ total head hc=36.242500 ft of water 
+ rho  =
+ 
+    62.4  
+ 
+ q_c  =
+ 
+    0.078  
+ 
+ m_dot  =
+ 
+    4.8672  
+ 
+
+ m_dot mass flow rate =4.867200 lb/s 
+ W_dot  =
+ 
+    176.3995  
+ 
+
+ fluid power requirement W_dot=176.399496 lbf.ft/s 
+ neta  =
+ 
+    0.6  
+ 
+ W_dot_hp  =
+ 
+    0.32  
+ 
+ bhp  =
+ 
+    0.5333333  
+ 
+
+ brake horse power bhp=0.533333 bhp 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH17/EX17.8/178.sce #
+ 
+ 
+ 
+ Example 17.8 page no 216
+
+ 
+ 
+ T1  =
+ 
+    520.  
+ 
+ P2  =
+ 
+    40.  
+ 
+ P1  =
+ 
+    14.7  
+ 
+Warning : redefining function: gamma                   . Use funcprot(0) to avoid this message
+
+ gamma  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    1.987  
+ 
+ W_s  =
+ 
+  - 1163.5284  
+ 
+
+ energy requirement W_s=-1163.528433 btu/lbmol of air 
+ hp  =
+ 
+  - 234109.95  
+ 
+
+ power hp=-234109.945099 ft .lbf/min 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.1/181.sce #
+ 
+ 
+ 
+
+ Example 18.1 page no 225
+
+ 
+ 
+ 
+ D1  =
+ 
+    1.  
+ 
+ D2  =
+ 
+    2.  
+ 
+ K_se  =
+ 
+    0.5625  
+ 
+
+ K_se coeff. of sudden expansion=0.562500  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.2/182.sce #
+ 
+ 
+ 
+
+ Example 18.2 page no 227
+
+ 
+ 
+ D  =
+ 
+    3.  
+ 
+ L_gate  =
+ 
+    7.  
+ 
+ L_globe  =
+ 
+    300.  
+ 
+ L_eq_gate  =
+ 
+    21.  
+ 
+
+ L_eq_gate=21.000000 in 
+ L_eq_globe  =
+ 
+    900.  
+ 
+
+ L_eq_globe=900.000000 in  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.3/183.sce #
+ 
+ 
+ 
+
+ Example 18.3 page no 227
+
+ 
+ 
+ rho  =
+ 
+    62.4  
+ 
+ meu  =
+ 
+    0.000672  
+ 
+ D  =
+ 
+    0.03125  
+ 
+ v  =
+ 
+    10.  
+ 
+ R_e  =
+ 
+    29017.857  
+ 
+
+ reynolds no R_e=29017.857143  
+ f  =
+ 
+    0.0072294  
+ 
+
+ friction factor f=0.007229  
+ L  =
+ 
+    30.  
+ 
+ gc  =
+ 
+    32.2  
+ 
+ P_drop  =
+ 
+    2689.8819  
+ 
+
+ pressure drop P_drop=2689.881860 lbf/ft^2  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.4/184.sce #
+ 
+ 
+ 
+
+ Example 18.4 pageno 229
+
+ 
+ 
+ 
+ K_f  =
+ 
+    22.  
+ 
+ v  =
+ 
+    10.  
+ 
+ gc  =
+ 
+    32.2  
+ 
+ h_f  =
+ 
+    34.161491  
+ 
+
+ friction loss due to globe valve h_f=34.161491 ft.lbf/lb 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.5/185.sce #
+ 
+ 
+ 
+ Example 18.5 page no. 230
+
+ 
+ 
+ P_drop  =
+ 
+    34.16  
+ 
+ h_f  =
+ 
+    43.  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ P_d_t  =
+ 
+    4814.784  
+ 
+
+ total pressure drop P_d_t=4814.784000 lbf/ft^2 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.6/186.sce #
+ 
+ 
+ 
+Example 18.6 page no 230
+
+ 
+ k  =
+ 
+    0.00085  
+ 
+ D  =
+ 
+    0.833  
+ 
+ f  =
+ 
+    0.005  
+ 
+ K  =
+ 
+    0.45  
+ 
+ L  =
+ 
+    5000.  
+ 
+ h_f  =
+ 
+    120.04802  
+ 
+
+ h_f=120.048019  
+ 
+ h_s  =
+ 
+    0.  
+ 
+ v1  =
+ 
+    0.  
+ 
+ 
+ h  =
+ 
+    260.  
+ 
+ V2_h  =
+ 
+    1.4628577  
+ 
+ g  =
+ 
+    32.174  
+ 
+ V2  =
+ 
+    94.131966  
+ 
+ V2  =
+ 
+    11.75  
+ 
+ neu  =
+ 
+    0.0000108  
+ 
+ R_e  =
+ 
+    904180.14  
+ 
+
+ reynolds number R_e=904180.138568  
+ q  =
+ 
+    6.403505  
+ 
+
+ vol. flow rate q=6.403505 ft^3/s 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.7/187.sce #
+ 
+ 
+ 
+Example 18.7 page no 232
+
+ 
+ 
+ D  =
+ 
+    0.0779  
+ 
+ k  =
+ 
+    0.000046  
+ 
+ K_r  =
+ 
+    0.0005905  
+ 
+
+ relative roughness K_r=0.000591  
+ q  =
+ 
+    0.0126  
+ 
+ S  =
+ 
+    0.0047661  
+ 
+ v  =
+ 
+    2.6436609  
+ 
+
+ flow velocity v=2.643661 m/s 
+ neu  =
+ 
+    0.000001  
+ 
+ R_e  =
+ 
+    205941.18  
+ 
+
+ reynolds no R_e=205941.184386  
+ 
+ f  =
+ 
+    0.00345  
+ 
+ L  =
+ 
+    609.6  
+ 
+ h_f  =
+ 
+    377.37062  
+ 
+
+ head loss h_f=377.370622 J/kg 
+ 
+ 
+ 
+ 
+ h_s  =
+ 
+    377.37062  
+ 
+
+ major friction losses h_s=377.370622 J/kg 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH18/EX18.8/188.sce #
+ 
+ 
+ 
+
+ Example 18.8 page no 233
+
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ h_f  =
+ 
+    38.39  
+ 
+ P_rise  =
+ 
+    376490.73  
+ 
+ P_rise  =
+ 
+    475000.  
+ 
+ q  =
+ 
+    0.0126  
+ 
+ W_dot  =
+ 
+    5985.  
+ 
+
+ W_dot fluid power=5985.000000 kw 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.1/191.sce #
+ 
+ 
+ 
+Example 19.1 page no 246
+
+ 
+ 
+ 
+ 
+ 
+ 
+ rho_oil  =
+ 
+    800.  
+ 
+ 
+ rho3  =
+ 
+    800.  
+ 
+ z_32  =
+ 
+    0.4  
+ 
+ g  =
+ 
+    9.807  
+ 
+ P7  =
+ 
+    0.  
+ 
+ z_76  =
+ 
+    0.8  
+ 
+ rho_hg  =
+ 
+    13600.  
+ 
+ P6  =
+ 
+    106700.16  
+ 
+ P5  =
+ 
+    106700.16  
+ 
+ rho_air  =
+ 
+    1.2  
+ 
+ z_54  =
+ 
+    1.  
+ 
+ P4  =
+ 
+    106711.93  
+ 
+ P3  =
+ 
+    106711.93  
+ 
+ P2  =
+ 
+    109850.17  
+ 
+ P1  =
+ 
+    109850.17  
+ 
+
+ pressure P1=109850.168400 Pag 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.2/192.sce #
+ 
+ 
+ 
+Example 19.2 page no 250
+
+ 
+ 
+ rho  =
+ 
+    0.075  
+ 
+ h  =
+ 
+    0.0166667  
+ 
+ g  =
+ 
+    32.2  
+ 
+ rho_m  =
+ 
+    62.4  
+ 
+ v  =
+ 
+    29.865394  
+ 
+
+ velocity v=29.865394 ft/s 
+ v_max  =
+ 
+    29.865394  
+ 
+
+ maximum veocity v_max=29.865394 ft/s 
+ 
+ 
+ v_av  =
+ 
+    24.340296  
+ 
+
+ average velocity v_av=24.340296 ft/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.3/193.sce #
+ 
+ 
+ 
+Example 19.3 page no 251
+
+ 
+ 
+ S  =
+ 
+    0.785  
+ 
+ v_av  =
+ 
+    24.4  
+ 
+ q  =
+ 
+    1149.24  
+ 
+
+ flow rate q=1149.240000 ft^3 min 
+ rho  =
+ 
+    0.075  
+ 
+ m_dot  =
+ 
+    5171.58  
+ 
+
+ m_dot mass flow rate=5171.580000 lb/hr 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.4/194.sce #
+ 
+ 
+ 
+Example 19.4 page no
+
+ 
+ 
+ h  =
+ 
+    0.07  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ rho_m  =
+ 
+    13600.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ v  =
+ 
+    4.1592725  
+ 
+
+ water velocity v=4.159273 m/s  
+ D  =
+ 
+    0.0779  
+ 
+ S  =
+ 
+    0.0047661  
+ 
+/n cross sectional area S=0.004766 m^2 
+ q  =
+ 
+    0.0198236  
+ 
+
+ flow rate q=0.019824 m^3/s 
+ meu  =
+ 
+    0.001  
+ 
+ R_e  =
+ 
+    324007.33  
+ 
+
+ reynolds no R_e=324007.330285  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.5/195.sce #
+ 
+ 
+ 
+Example 19.5 page no 254
+
+ 
+ 
+ h  =
+ 
+    0.035  
+ 
+ D1  =
+ 
+    0.06  
+ 
+ D2  =
+ 
+    0.02  
+ 
+ rho_m  =
+ 
+    13600.  
+ 
+ rho  =
+ 
+    680.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ v2  =
+ 
+    3.6098427  
+ 
+
+ velocity at throat v2=3.609843 m/s 
+ q  =
+ 
+    0.0011341  
+ 
+
+ flow rate q =0.001134 m^3/s 
+ P1  =
+ 
+    101325.  
+ 
+ P2  =
+ 
+    96890.275  
+ 
+
+ pressure P2=96890.274600 Pa 
+ P_d  =
+ 
+    4434.7254  
+ 
+ P_l  =
+ 
+    443.47254  
+ 
+
+ pressure loss P_l=443.472540 Pa 
+ W_l  =
+ 
+    0.5029269  
+ 
+
+ power loss W_l=0.502927 W 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.6/196.sce #
+ 
+ 
+ 
+
+ Example 19.6 page no. 255
+
+ 
+ 
+ 
+ P1  =
+ 
+    101325.  
+ 
+ P2  =
+ 
+    50000.  
+ 
+ D1  =
+ 
+    0.06  
+ 
+ D2  =
+ 
+    0.02  
+ 
+ rho  =
+ 
+    680.  
+ 
+ v2  =
+ 
+    12.210333  
+ 
+
+ velocity v2=12.210333 m/s 
+ q  =
+ 
+    0.0038360  
+ 
+
+ flow rate q=0.003836 m^3/s 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.7/197.sce #
+ 
+ 
+ 
+Example 19.7 page no 258
+
+ 
+ 
+ D1  =
+ 
+    0.25  
+ 
+ D2  =
+ 
+    0.19  
+ 
+ v2  =
+ 
+    35.269793  
+ 
+
+ velocity through orifice v2=35.269793 m/s 
+ C_o  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    1.23  
+ 
+ P  =
+ 
+    509.80226  
+ 
+
+ pressure P=509.802260 Pa 
+ meu  =
+ 
+    0.000018  
+ 
+ R_e  =
+ 
+    457919.49  
+ 
+
+ Reynolds no. R_e=457919.485387  
+ C_ac  =
+ 
+    0.62  
+ 
+ P_ac  =
+ 
+    1326.2286  
+ 
+ P_rec  =
+ 
+    56.848  
+ 
+ P_loss  =
+ 
+    43.152  
+ 
+ P_l  =
+ 
+    572.  
+ 
+
+ actual pressure drop P_l=572.000000 Pa 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH19/EX19.9/199.sce #
+ 
+ 
+ 
+
+ Example 19.9 page no 259
+
+ 
+ 
+ rho  =
+ 
+    0.075  
+ 
+ m_dot  =
+ 
+    0.5  
+ 
+ q  =
+ 
+    6.6666667  
+ 
+
+ volumatric flow rate q=6.666667 ft^3/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH20/EX20.2/202.sce #
+ 
+ 
+ 
+
+ Example 20.2 page no 269
+
+ 
+ 
+ 
+ C_a  =
+ 
+    0.00008  
+ 
+ q  =
+ 
+    0.375  
+ 
+ v  =
+ 
+    0.4  
+ 
+ S_g  =
+ 
+    0.87  
+ 
+
+ C_a concentration of toluene=0.000080 
+ q  volumatric flow rate q=0.375000 gal/h 
+ S_g specific gravity=0.870000  
+ 
+ m_dot_tol  =
+ 
+    1.08837  
+ 
+
+ mass flow rate m_dot-tol=1.088370 lb/h 
+ m_dot_g  =
+ 
+    8.235333  
+ 
+
+ mass flow rate in g/min m_dot_g=8.235333 g/min 
+ M_w  =
+ 
+    92.  
+ 
+ n_dot_tol  =
+ 
+    0.0895145  
+ 
+
+ no. of moles n_dot_tol=0.089514 gmol/min 
+ 
+ 
+ R  =
+ 
+    0.08206  
+ 
+ P  =
+ 
+    1.  
+ 
+ T  =
+ 
+    293.  
+ 
+
+ R gas constant=0.082060 atm.L/(gmol.K)
+ T temperature=293.000000 K
+ P pressure =1.000000 atm 
+ q_tol  =
+ 
+    2.1522488  
+ 
+
+ toluene vapor vol. flow rate q_tol=2.152249 L/min 
+ q_tol  =
+ 
+    2.15  
+ 
+ 
+ K  =
+ 
+    5.  
+ 
+ q_dil  =
+ 
+    134375.  
+ 
+
+ diluent vol. flow rate q_dil=134375.000000 L/min 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH20/EX20.3/203.sce #
+ 
+ 
+ 
+Example 20.3 page no 270 
+
+ 
+ 
+ 
+ 
+ 
+ Mw_Fe2S3  =
+ 
+    208.  
+ 
+ Mw_H2SO4  =
+ 
+    98.  
+ 
+ Mw_H2S  =
+ 
+    34.  
+ 
+ Mw_air  =
+ 
+    29.  
+ 
+ 
+ 
+ 
+ v_r  =
+ 
+    1600.  
+ 
+ n_H2SO4  =
+ 
+    0.01  
+ 
+ Stoi_c_H2SO4  =
+ 
+    3.  
+ 
+ Stoi_c_H2S  =
+ 
+    3.  
+ 
+ n_H2S  =
+ 
+    0.01  
+ 
+
+ lbmol of H2S n_H2S=0.010000 lbmol 
+ m_H2S  =
+ 
+    0.34  
+ 
+
+ mass of H2S m_H2S=0.340000 lb 
+ 
+ T_r  =
+ 
+    51.  
+ 
+ T_st  =
+ 
+    32.  
+ 
+ v_st  =
+ 
+    359.  
+ 
+
+ stand. temperature T_st=32.000000 F
+ temperature of air in room T_r=51.000000 F
+ stand. volume v_st=359.000000 ft^3 
+ V_a  =
+ 
+    372.86382  
+ 
+
+ volume of air at 51deg F V_a=372.863821 ft^3 
+ 
+ C_H2S  =
+ 
+    2732.1918  
+ 
+
+ conc. of H2S in ppm C_H2S=2732.191793 ppm 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH20/EX20.4/204.sce #
+ 
+ 
+ 
+Example 20.4 page no 271
+
+ 
+ 
+ 
+ Mw  =
+ 
+    78.  
+ 
+ R  =
+ 
+    82.06  
+ 
+ T  =
+ 
+    298.  
+ 
+ P  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    0.0031897  
+ 
+
+ rho density of vinyl chloride=0.003190 g/cm^3 
+ 
+ m_dot  =
+ 
+    10.  
+ 
+ q  =
+ 
+    3135.1128  
+ 
+
+ vol. flow rate q=3135.112821 cm^3/min 
+ q_acfm  =
+ 
+    0.1107  
+ 
+ 
+ q_air  =
+ 
+    110700.  
+ 
+
+ vol.flow rate q_air=110700.000000 acfm 
+ S_factor  =
+ 
+    10.  
+ 
+ 
+ q_dil  =
+ 
+    1107000.  
+ 
+
+ air flow rate for dilution q_dil=1107000.000000 acfm 
+ 
+ H  =
+ 
+    30.  
+ 
+ W  =
+ 
+    25.  
+ 
+ S  =
+ 
+    5.2083333  
+ 
+ 
+ v  =
+ 
+    100.  
+ 
+ q_exh  =
+ 
+    521.  
+ 
+
+ air flow rate q_exh=521.000000 acfm 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH20/EX20.7/207.sce #
+ 
+ 
+ 
+
+ Example 20.7 page no 276
+
+ 
+ 
+ 
+ 
+ 
+ rV  =
+ 
+    250.  
+ 
+ c_o  =
+ 
+    10.  
+ 
+ c  =
+ 
+    35.  
+ 
+ 
+ 
+ 
+ q_o  =
+ 
+    10.  
+ 
+
+ q_o min. air ventilation flow rate=10.000000 m^3/min 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH20/EX20.8/208.sce #
+ 
+ 
+ Example 20.8 page no 277
+
+ 
+ 
+ V  =
+ 
+    142.  
+ 
+ q  =
+ 
+    12.1  
+ 
+ tou  =
+ 
+    11.735537  
+ 
+ r  =
+ 
+    30.  
+ 
+ k  =
+ 
+    0.2112676  
+ 
+ c_i  =
+ 
+    85.  
+ 
+ c_o  =
+ 
+    10.  
+ 
+ c  =
+ 
+    20.7  
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    29.  
+ 
+
+ t=29.000000 min  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.7/217.sce #
+ 
+ 
+ 
+Example 21.7 page no 284
+
+ 
+ 
+ D  =
+ 
+    0.0411  
+ 
+ S  =
+ 
+    0.00133  
+ 
+ meu  =
+ 
+    0.0006598  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ q_gpm  =
+ 
+    2.  
+ 
+ q  =
+ 
+    0.00456  
+ 
+ v  =
+ 
+    3.4285714  
+ 
+
+ veloctiy of fluid v=3.428571 ft/s 
+ R_e  =
+ 
+    13326.844  
+ 
+
+ reynolds no R_e=13326.843632  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.8/218.sce #
+ 
+ 
+ 
+Example 21.8 page no 285
+
+ 
+ 
+ rho  =
+ 
+    62.4  
+ 
+ meu  =
+ 
+    0.000672  
+ 
+ q_1gpm  =
+ 
+    1.5  
+ 
+ q_2gpm  =
+ 
+    6.  
+ 
+ D_1  =
+ 
+    0.493  
+ 
+ v11  =
+ 
+    2.5241824  
+ 
+ v12  =
+ 
+    10.096729  
+ 
+ R_e11  =
+ 
+    115553.46  
+ 
+ R_e12  =
+ 
+    462213.85  
+ 
+
+ reynolds no R_e11=115553.462764
+ reynolds no R_e12=462213.851058   
+ D_2  =
+ 
+    0.622  
+ 
+ v21  =
+ 
+    1.5857466  
+ 
+ v22  =
+ 
+    6.3429865  
+ 
+ R_e21  =
+ 
+    91588.195  
+ 
+ R_e22  =
+ 
+    366352.78  
+ 
+
+ reynolds no R_e21=91588.194763
+ reynolds no R_e22=366352.779054 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.9/219.sce #
+ 
+ 
+Example no 21.9 page no 286
+
+ 
+ 
+ 
+ P_drop  =
+ 
+  - 4.5  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ z2  =
+ 
+    15.  
+ 
+ z1  =
+ 
+    0.  
+ 
+ 
+ h_f  =
+ 
+    14.927885  
+ 
+
+ frictional loss h_f=14.927885 ft.lbf/lb  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.4/224.sce #
+ 
+ 
+ 
+Example 22.4 page no 298
+
+ 
+ 
+ h  =
+ 
+    200.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ v  =
+ 
+    113.49009  
+ 
+
+ velocity v=113.490088 ft/s 
+ N  =
+ 
+    1800.  
+ 
+ c  =
+ 
+    3.7830029  
+ 
+ 
+
+ circumference c=3.783003 ft/rotation 
+ D  =
+ 
+    1.2041672  
+ 
+
+ diameter D=1.204167 ft 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.5/225.sce #
+ 
+ 
+ 
+Example 22.5 page no 299
+
+ 
+ 
+ 
+ rho  =
+ 
+    998.  
+ 
+ meu  =
+ 
+    0.001  
+ 
+ L  =
+ 
+    120.  
+ 
+ D  =
+ 
+    0.15  
+ 
+ S  =
+ 
+    0.0176715  
+ 
+ 
+ q  =
+ 
+    0.02  
+ 
+ v  =
+ 
+    1.1317685  
+ 
+ R_e  =
+ 
+    169425.74  
+ 
+
+ reynolds no R_e=169425.742086  
+ 
+ k  =
+ 
+    0.0005  
+ 
+ K_r  =
+ 
+    0.0033333  
+ 
+ f  =
+ 
+    0.0053  
+ 
+ h_f  =
+ 
+    10.862031  
+ 
+
+ h_f frictional  loss=10.862031 J  
+ 
+ K  =
+ 
+    4.  
+ 
+ V_h  =
+ 
+    0.6404500  
+ 
+ e_l  =
+ 
+    2.5617998  
+ 
+
+ e_l total elbow loss=2.561800 J/kg 
+ 
+ z  =
+ 
+    22.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ PE  =
+ 
+    215.82  
+ 
+
+ potential energy PE=215.820000 J/kg 
+ TE  =
+ 
+    229.24383  
+ 
+
+ total energy TE=229.243831 J/kg 
+ W_dot_s  =
+ 
+    4575.7069  
+ 
+
+ theoritical power W_dot_s=4575.706866 J/s 
+ h  =
+ 
+    23.368382  
+ 
+
+ equivalent head h=23.368382 m  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.6/226.sce #
+ 
+ 
+ 
+Example 22.6 page no 301
+
+ 
+ 
+ v_gal  =
+ 
+    400.  
+ 
+ v_o  =
+ 
+    2.7248884  
+ 
+ D_o  =
+ 
+    0.0833333  
+ 
+ rho  =
+ 
+    54.288  
+ 
+ meu  =
+ 
+    0.0138432  
+ 
+ R_e  =
+ 
+    890.50186  
+ 
+
+ reynolds no =890.501860  
+ D_r  =
+ 
+    0.62  
+ 
+ C_d  =
+ 
+    0.76  
+ 
+ g  =
+ 
+    32.2  
+ 
+ h  =
+ 
+    0.1701158  
+ 
+
+ gauge reading h=0.170116 ft  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.7/227.sce #
+ 
+ 
+ 
+Example 22.7 page no 302
+
+  
+ 
+ 
+ D_o  =
+ 
+    2.5  
+ 
+ D_1  =
+ 
+    10.15  
+ 
+ D_r  =
+ 
+    0.2463054  
+ 
+ 
+ C_o  =
+ 
+    0.61  
+ 
+ g  =
+ 
+    32.2  
+ 
+ rho_m  =
+ 
+    62.4  
+ 
+ rho  =
+ 
+    0.054  
+ 
+ h  =
+ 
+    1.6  
+ 
+ meu  =
+ 
+    0.0000887  
+ 
+ v_o  =
+ 
+    60.762768  
+ 
+
+ orifice veloctiy v_o=60.762768 ft/s 
+ R_e_o  =
+ 
+    92475.804  
+ 
+
+ R_e_o reynolds no =92475.804070  
+ 
+ m_dot  =
+ 
+    403.  
+ 
+
+ mass flow rate m_dot=403.000000 lb/hr 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.8/228.sce #
+ 
+ 
+ 
+Example 22.8 page no 303
+
+ 
+ 
+ D1  =
+ 
+    0.1  
+ 
+ D2  =
+ 
+    0.06  
+ 
+ S2  =
+ 
+    0.0028274  
+ 
+ rho  =
+ 
+    1.22  
+ 
+ rho_m  =
+ 
+    827.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ h  =
+ 
+    0.08  
+ 
+ 
+ v2  =
+ 
+    32.578066  
+ 
+ v1  =
+ 
+    11.728104  
+ 
+ q  =
+ 
+    0.0921123  
+ 
+
+ vol.flow rate q=0.092112 m^3/s 
+ 
+ T  =
+ 
+    293.  
+ 
+ c  =
+ 
+    342.34486  
+ 
+ M_a  =
+ 
+    0.0951615  
+ 
+
+ mach no. M_a =0.095162  
+ 
+ P1  =
+ 
+    130000.  
+ 
+ 
+ P2  =
+ 
+    129436.49  
+ 
+
+ pressure at point 2=129436.493013 Pa 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.9/229.sce #
+ 
+ 
+ 
+
+ Example 22.9 page no 305
+
+ 
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    30.  
+ 
+ z1  =
+ 
+    300.  
+ 
+ P2  =
+ 
+    18.  
+ 
+ z2  =
+ 
+  - 10.  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ m_dot  =
+ 
+    3600.  
+ 
+ W_dot  =
+ 
+    1000.  
+ 
+ neta  =
+ 
+    0.9  
+ 
+ h_s  =
+ 
+    305.55556  
+ 
+
+ h_s =305.555556 ft.lbf/lb 
+ 
+ h_f  =
+ 
+  - 643.24786  
+ 
+
+ frictional loss h_f=-643.247863 ft.lbf/lb 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.1/231.sce #
+ 
+ 
+Example 23.1 page no 323
+
+ 
+ 
+ d_es  =
+ 
+    1.4  
+ 
+ sg_s  =
+ 
+    2.  
+ 
+ d_eh  =
+ 
+    2.8  
+ 
+ sg_h  =
+ 
+    0.51  
+ 
+ d_pa1  =
+ 
+    1.979899  
+ 
+ d_pa2  =
+ 
+    2.  
+ 
+
+ d_pa1=1.979899 micron
+d_pa2=2.000000 micron 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.2/232.sce #
+ 
+ 
+Example 23.2 page no 323
+
+ 
+ 
+ d_e  =
+ 
+    1.3  
+ 
+ sg  =
+ 
+    2.35  
+ 
+ d_pa  =
+ 
+    1.9928623  
+ 
+
+ aerodynamic diameter d_pa=1.992862 micron 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.3/233.sce #
+ 
+ 
+Example 23.3 page no 335
+
+ 
+ 
+ dp  =
+ 
+    0.4  
+ 
+ lemda  =
+ 
+    0.0653  
+ 
+ A  =
+ 
+    1.2707687  
+ 
+ C  =
+ 
+    1.414906  
+ 
+CCF C=1.414906  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.4/234.sce #
+ 
+ 
+ 
+Example 23.4 page no 336
+
+ 
+ 
+ 
+ 
+ SG  =
+ 
+    2.31  
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ rho_p  =
+ 
+    144.144  
+ 
+ 
+ R  =
+ 
+    0.7302  
+ 
+ T  =
+ 
+    698.  
+ 
+ P  =
+ 
+    1.  
+ 
+ Mw  =
+ 
+    29.  
+ 
+ rho_a  =
+ 
+    0.0568985  
+ 
+ meu  =
+ 
+    0.0000141  
+ 
+ g  =
+ 
+    32.174  
+ 
+ D1  =
+ 
+    0.4  
+ 
+ D2  =
+ 
+    40.  
+ 
+ D3  =
+ 
+    400.  
+ 
+ K1  =
+ 
+    0.0144223  
+ 
+ K2  =
+ 
+    1.4422252  
+ 
+ K3  =
+ 
+    14.422252  
+ 
+
+ dimensionless constant K1=0.014422 
+ K2=1.442225 
+ K3=14.422252  
+ 
+ 
+ 
+ 
+ 
+ v1  =
+ 
+    0.0000315  
+ 
+
+ terminal settling velocity for particle 1 v1=0.000031 ft/s 
+ v2  =
+ 
+    0.3147024  
+ 
+
+ terminal settling velocity v2=0.314702 ft/s 
+ v3  =
+ 
+    8.8959736  
+ 
+
+ terminal settling velocity v3=8.895974 ft/s  
+ 
+ t  =
+ 
+    30.  
+ 
+ x2  =
+ 
+    9.4410723  
+ 
+ x3  =
+ 
+    266.87921  
+ 
+
+ distance by 2 particle x2=9.441072 ft
+ distance by 3 particle x3=266.879207 ft 
+ 
+ lemda  =
+ 
+    6.530D-08  
+ 
+ y  =
+ 
+  - 11.053366  
+ 
+ A  =
+ 
+    1.2570063  
+ 
+ C  =
+ 
+    1.1250938  
+ 
+ 
+ v1_corrected  =
+ 
+    0.0000354  
+ 
+ x1  =
+ 
+    0.0010622  
+ 
+
+ distance travel by 1 particle x1=0.001062 ft 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.5/235.sce #
+ 
+ 
+ 
+
+ Example 23.5 page no 338
+
+ 
+ 
+ 
+ SG  =
+ 
+    2.31  
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ rho_p  =
+ 
+    144.144  
+ 
+ 
+ R  =
+ 
+    0.7302  
+ 
+ T  =
+ 
+    698.  
+ 
+ P  =
+ 
+    1.  
+ 
+ Mw  =
+ 
+    29.  
+ 
+ rho_a  =
+ 
+    0.0568985  
+ 
+ meu  =
+ 
+    0.0000141  
+ 
+ g  =
+ 
+    32.174  
+ 
+ v  =
+ 
+    1.384  
+ 
+ W  =
+ 
+    0.1312469  
+ 
+
+ dimensionless constant W=0.131247  
+ 
+ D_p  =
+ 
+    0.0002752  
+ 
+
+ diameter of particle D_p=0.000275 ft 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.7/237.sce #
+ 
+ 
+ 
+
+ Example 23.7 page no 340
+
+ 
+ 
+ 
+ 
+ 
+ D_l  =
+ 
+    0.00328  
+ 
+ g  =
+ 
+    32.174  
+ 
+ SG  =
+ 
+    0.8  
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ rho_p  =
+ 
+    49.92  
+ 
+ rho_a  =
+ 
+    0.0752  
+ 
+ meu  =
+ 
+    0.0000118  
+ 
+ K_l  =
+ 
+    272.7422  
+ 
+
+ dimensionless constant K_l=272.742198  
+ 
+ 
+ v_l  =
+ 
+    11.854376  
+ 
+
+ settling velocity v_l=11.854376 ft/s 
+ H  =
+ 
+    400.  
+ 
+ t_l  =
+ 
+    33.742812  
+ 
+ v_w  =
+ 
+    20.  
+ 
+ L  =
+ 
+    989.78916  
+ 
+
+ descent time t_l=33.742812 second
+ horizontal distance L=989.789159 ft 
+ 
+ D_s  =
+ 
+    0.0000069  
+ 
+ K_s  =
+ 
+    0.0656768  
+ 
+
+ dimensionless constant K_s=0.065677  
+ 
+ v_s  =
+ 
+    0.0003590  
+ 
+
+ settling velocity v_s=0.000359 ft/s 
+ t_s  =
+ 
+    1114285.4  
+ 
+ L_s  =
+ 
+    32685704.  
+ 
+
+ descent time t_s=1114285.363013 s
+horizontal distance travelled by smallest particle L_s=32685703.981712 ft 
+ m  =
+ 
+    200000.  
+ 
+ V_act  =
+ 
+    4006.4103  
+ 
+ e  =
+ 
+    0.5  
+ 
+ V_b  =
+ 
+    8012.8205  
+ 
+ actual volume V_act=4006.410256 ft^3
+bulk volume V_b=8012.820513  
+ L_d  =
+ 
+    32684714.  
+ 
+
+ L_d=32684714.192552  
+ W  =
+ 
+    100.  
+ 
+ A_d  =
+ 
+    3.268D+09  
+ 
+ H_d  =
+ 
+    0.0000025  
+ 
+
+ deposition height H_d=0.000002 ft 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.8/238.sce #
+ 
+ 
+ 
+Example 23.8 page no 342
+
+ 
+ 
+ v_t  =
+ 
+    0.042  
+ 
+ meu_f  =
+ 
+    0.9  
+ 
+ rho_f  =
+ 
+    970.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ D_p  =
+ 
+    0.006  
+ 
+ rho_p  =
+ 
+    2897.1949  
+ 
+
+ density of particle rho_p=2897.194861 kg/m^3 
+ neu_f  =
+ 
+    0.000928  
+ 
+ R_e  =
+ 
+    0.2715517  
+ 
+
+ reynolds no R_e=0.271552  
+ 
+ 
+ K  =
+ 
+    1.6972042  
+ 
+
+ K=1.697204  
+ 
+ 
+ C_d  =
+ 
+    88.380952  
+ 
+
+ drag coeff C_d=88.380952  
+ F_d  =
+ 
+    0.0021375  
+ 
+
+ drag force F_d=0.002138 N 
+ F_b  =
+ 
+    0.0010759  
+ 
+
+ buoyancy force F_b=0.001076 N 
+ 
+ rho_w  =
+ 
+    1000.  
+ 
+ meu_w  =
+ 
+    0.001  
+ 
+ 
+ K_w  =
+ 
+    158.98908  
+ 
+
+ k_w settling factor =158.989077  
+ 
+ 
+ v_t_w  =
+ 
+    0.5847062  
+ 
+
+ terminal velocity in water v_t_w=0.584706 m/s 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH23/EX23.9/239.sce #
+ 
+ 
+ 
+Example 23.9 page no 344
+
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ v  =
+ 
+    12.  
+ 
+ L  =
+ 
+    20.  
+ 
+ W  =
+ 
+    5.  
+ 
+ meu  =
+ 
+    0.001  
+ 
+ R_e  =
+ 
+    2.400D+08  
+ 
+Reynolds no R_e=240000000.000000  
+ 
+ C_d  =
+ 
+    0.0019687  
+ 
+
+coeff. discharge C_d=0.001969  
+ 
+ F_d  =
+ 
+    14174.938  
+ 
+
+ drag force F_d=14174.937600 N 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.1/241.sce #
+ 
+ 
+ 
+Example 24.1 page no 350
+
+ 
+ 
+ 
+ 
+ m_f  =
+ 
+    40.  
+ 
+ rho_f  =
+ 
+    998.  
+ 
+ V_f  =
+ 
+    0.0400802  
+ 
+ m_s  =
+ 
+    60.  
+ 
+ rho_p  =
+ 
+    2467.  
+ 
+ V_s  =
+ 
+    0.0243210  
+ 
+ V  =
+ 
+    0.0644012  
+ 
+ v_frac_f  =
+ 
+    0.6223512  
+ 
+
+ volume fraction fluid particles v_frac_f =0.622351  
+ v_frac_p  =
+ 
+    0.3776488  
+ 
+
+ volume fraction for the glass particles v_frac_p=0.377649   
+ rho_m  =
+ 
+    1553.  
+ 
+
+ bulk density of slurry rho_m=1553.000000 kg/m^3  
+ b  =
+ 
+    4.8676673  
+ 
+ g  =
+ 
+    9.807  
+ 
+ D_p  =
+ 
+    0.0001554  
+ 
+ meu_f  =
+ 
+    0.001  
+ 
+ v_t  =
+ 
+    0.0015379  
+ 
+
+ terminal velocity v_t=0.001538 m/s 
+ meu_m  =
+ 
+    0.0048677  
+ 
+
+ effective mixture viscosity meu_m=0.004868 kg/m.s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.2/242.sce #
+ 
+ 
+ 
+Example 24.2 page no 352
+
+ 
+ 
+ m_f  =
+ 
+    40.  
+ 
+ rho_f  =
+ 
+    998.  
+ 
+ V_f  =
+ 
+    0.0400802  
+ 
+ m_s  =
+ 
+    60.  
+ 
+ rho_p  =
+ 
+    2467.  
+ 
+ V_s  =
+ 
+    0.0243210  
+ 
+ V  =
+ 
+    0.0644012  
+ 
+ v_frac_f  =
+ 
+    0.6223512  
+ 
+
+ volume fraction fluid particles v_frac_f =0.622351  
+ v_frac_p  =
+ 
+    0.3776488  
+ 
+
+ volume fraction for the glass particles v_frac_p=0.377649   
+ rho_m  =
+ 
+    1553.  
+ 
+
+ bulk density of slurry rho_m=1553.000000 kg/m^3  
+ b  =
+ 
+    4.8676673  
+ 
+ g  =
+ 
+    9.807  
+ 
+ D_p  =
+ 
+    0.0001554  
+ 
+ meu_f  =
+ 
+    0.001  
+ 
+ v_t  =
+ 
+    0.0015379  
+ 
+
+ terminal velocity v_t=0.001538 m/s 
+ meu_m  =
+ 
+    0.0048677  
+ 
+
+ effective mixture viscosity meu_m=0.004868 kg/m.s 
+ R_e  =
+ 
+    0.1225191  
+ 
+
+ reynolds no R_e=0.122519  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX2.3/243.sce #
+ 
+ 
+ 
+Example 24.3 page no 352
+
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    0.075  
+ 
+ meu  =
+ 
+    0.0000123  
+ 
+ 
+ SG  =
+ 
+    2.2  
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ rho_p  =
+ 
+    137.28  
+ 
+ v  =
+ 
+    15.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ D_p1  =
+ 
+    0.0008668  
+ 
+ K1  =
+ 
+    11.258337  
+ 
+
+ settling factor K1=11.258337  
+ 
+ 
+ D_p  =
+ 
+    0.0021787  
+ 
+
+ particle diameter= D_p=0.002179 ft  
+ K_n  =
+ 
+    28.299018  
+ 
+
+ final settling factor K_n=28.299018 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.4/244.sce #
+ 
+ 
+ 
+Example 24.4 page no 354
+
+ 
+ 
+ r  =
+ 
+    0.25  
+ 
+ omega  =
+ 
+    30.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ G  =
+ 
+    7.  
+ 
+
+ G=7.000000  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.5/245.sce #
+ 
+ 
+ 
+Example 24.5 page no 357
+
+ 
+ 
+ 
+ 
+ g  =
+ 
+    32.174  
+ 
+ R  =
+ 
+    0.25  
+ 
+ z_st  =
+ 
+    0.6666667  
+ 
+ h  =
+ 
+    0.6666667  
+ 
+ omega  =
+ 
+    26.198829  
+ 
+
+ omega =26.198829 rad/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.7/247.sce #
+ 
+ 
+ 
+Example 24.7 page no 358
+
+ 
+ 
+ 
+ 
+ h  =
+ 
+    0.03  
+ 
+ R  =
+ 
+    0.03  
+ 
+ 
+ g  =
+ 
+    9.807  
+ 
+ omega  =
+ 
+    25.569513  
+ 
+ omega  =
+ 
+    36.2  
+ 
+ 
+ z  =
+ 
+    0.1  
+ 
+ rho  =
+ 
+    1010.  
+ 
+ P_a  =
+ 
+    990.507  
+ 
+ P_b  =
+ 
+    990.507  
+ 
+
+ pressure P_a=990.507000 Pa_gauge
+ pressure P_b=990.507000 Pa_gauge 
+ z_c  =
+ 
+    0.04  
+ 
+ P_c  =
+ 
+    396.2028  
+ 
+
+ pressure P_c=396.202800 Pa_gauge 
+ 
+ z_l  =
+ 
+    0.07  
+ 
+ h_o  =
+ 
+    0.03  
+ 
+ r  =
+ 
+    2.1190204  
+ 
+
+ r=2.119020cm  
+ R  =
+ 
+    3.  
+ 
+ t_f  =
+ 
+    0.8809796  
+ 
+
+ thickness film t_f=0.880980 m 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.8/248.sce #
+ 
+ 
+ 
+Example 24.7 page no 358
+
+ 
+ 
+ SG_q  =
+ 
+    2.65  
+ 
+ SG_g  =
+ 
+    7.5  
+ 
+ rho_f  =
+ 
+    1000.  
+ 
+ rho_q  =
+ 
+    2650.  
+ 
+ rho_g  =
+ 
+    7500.  
+ 
+ 
+ D_q  =
+ 
+    0.00009  
+ 
+ g  =
+ 
+    9.807  
+ 
+ meu_f  =
+ 
+    0.001  
+ 
+ K_q  =
+ 
+    2.2764033  
+ 
+
+ settling factor K_q=2.276403  
+ 
+ v_q  =
+ 
+    0.0072817  
+ 
+
+ settling velocity (quartz) v_q=0.007282 m/s 
+ 
+ d_g  =
+ 
+    0.00004  
+ 
+ K_g  =
+ 
+    1.5978763  
+ 
+
+ settling factor K_g=1.597876  
+ 
+ v_g  =
+ 
+    0.0056663  
+ 
+
+ setling velocity v_g=0.005666 m/s 
+ 
+ v_w  =
+ 
+    0.0072817  
+ 
+
+ water velocity v_w=0.007282 m/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.9/249.sce #
+ 
+ 
+ 
+
+ Example 24.9 page no 361
+
+ 
+ 
+ 
+ 
+ 
+ v_w  =
+ 
+    0.0073  
+ 
+ v_q  =
+ 
+    0.0073  
+ 
+ SG_q  =
+ 
+    2.65  
+ 
+ SG_g  =
+ 
+    7.5  
+ 
+ rho_f  =
+ 
+    1000.  
+ 
+ rho_q  =
+ 
+    2650.  
+ 
+ rho_g  =
+ 
+    7500.  
+ 
+ g  =
+ 
+    9.807  
+ 
+ meu_f  =
+ 
+    0.001  
+ 
+ D  =
+ 
+    0.0000454  
+ 
+
+ diameter D =0.000045 m 
+ 
+ K  =
+ 
+    1.8136609  
+ 
+
+ settling factor K=1.813661  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH25/EX25.1/251.sce #
+ 
+ 
+ 
+Example 25.1 page no 370
+
+ 
+ 
+ V  =
+ 
+    0.2  
+ 
+ n  =
+ 
+    100.  
+ 
+ V_p  =
+ 
+    2.  
+ 
+ S_p  =
+ 
+    2.18  
+ 
+ a_p  =
+ 
+    1.09  
+ 
+ D_p  =
+ 
+    5.5045872  
+ 
+
+ effective partcle diameter D_p=5.504587 mm  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH25/EX25.2/252.sce #
+ 
+ 
+ 
+Example 25.2 page no 371
+
+ 
+ 
+ V  =
+ 
+    0.2  
+ 
+ n  =
+ 
+    100.  
+ 
+ V_p  =
+ 
+    2.  
+ 
+ S_p  =
+ 
+    2.18  
+ 
+ a_p  =
+ 
+    1.09  
+ 
+ D_p  =
+ 
+    5.5045872  
+ 
+ D_p  =
+ 
+    5.5  
+ 
+ rho  =
+ 
+    0.235  
+ 
+ meu  =
+ 
+    0.0002  
+ 
+ v  =
+ 
+    10.  
+ 
+ R_e  =
+ 
+    6463.  
+ 
+
+ Reynolds no R_e=6463.000000  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH25/EX25.3/253.sce #
+ 
+ 
+ 
+Example 25.3 page no 372
+
+ 
+ 
+ d_p  =
+ 
+    1.5  
+ 
+ h  =
+ 
+    2.5  
+ 
+ V_p  =
+ 
+    4.4178647  
+ 
+ S_p  =
+ 
+    15.315264  
+ 
+ a_p  =
+ 
+    3.4666667  
+ 
+
+ particle specific surface a_p =3.466667 cm^-1  
+ d_p_e  =
+ 
+    1.7307692  
+ 
+
+ effective particle diameter d_p_e=1.730769 cm 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH25/EX25.4/254.sce #
+ 
+ 
+ 
+
+Example 25.4 page no 373
+
+ 
+ 
+ L  =
+ 
+    0.75  
+ 
+ V_p  =
+ 
+    0.421875  
+ 
+ S_p  =
+ 
+    3.375  
+ 
+ a_p  =
+ 
+    8.  
+ 
+
+ specific particle surface area a_p=8.000000 in^-1 
+ d_p_e  =
+ 
+    0.75  
+ 
+
+ effective particle diameter d_p_e=0.750000 in 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH25/EX25.5/255.sce #
+ 
+ 
+ 
+Example 25.5 page no 373
+
+ 
+ 
+ Mw  =
+ 
+    44.1  
+ 
+ P  =
+ 
+    4320.  
+ 
+ R  =
+ 
+    10.73  
+ 
+ T  =
+ 
+    960.  
+ 
+ rho  =
+ 
+    0.1284366  
+ 
+ L  =
+ 
+    50.  
+ 
+ D  =
+ 
+    20.  
+ 
+ V  =
+ 
+    15707.963  
+ 
+ theta  =
+ 
+    10.  
+ 
+ e  =
+ 
+    0.4  
+ 
+ q  =
+ 
+    628.31853  
+ 
+ v_s  =
+ 
+    2.  
+ 
+
+ superficial velocity v_s=2.000000 ft/s 
+ v_i  =
+ 
+    5.  
+ 
+
+ interstitial velocity v_i=5.000000 ft/s 
+ rho_s  =
+ 
+    77.28  
+ 
+ rho_b  =
+ 
+    46.368  
+ 
+
+ bulk density rho_b=46.368000 lb/ft^3 
+ d_p  =
+ 
+    0.0833  
+ 
+ a_p  =
+ 
+    72.028812  
+ 
+
+ specific surface area a_p=72.028812 ft^-1 
+ a_b  =
+ 
+    43.217287  
+ 
+
+ bed specific surface a_b=43.217287 ft^-1 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH25/EX25.6/256.sce #
+ 
+ 
+ 
+Example 25.6 page no 375
+
+ 
+ 
+ d_p  =
+ 
+    0.0833  
+ 
+ e  =
+ 
+    0.4  
+ 
+ D_h  =
+ 
+    0.0370222  
+ 
+ r_h  =
+ 
+    0.0092556  
+ 
+
+ hydraulic diameter D_h=0.037022 ft
+ hydrulic radius r_h=0.009256 ft 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.2/262.sce #
+ 
+ 
+ 
+Example 26.2 page no 384
+
+ 
+ 
+ h_f  =
+ 
+    1.25  
+ 
+ h_l  =
+ 
+    1.25  
+ 
+ g  =
+ 
+    32.174  
+ 
+ e  =
+ 
+    0.25  
+ 
+ d_p  =
+ 
+    0.00417  
+ 
+ L  =
+ 
+    1.  
+ 
+ 
+ v_s  =
+ 
+    0.0446823  
+ 
+
+ superficial velocity v_s=0.044682 ft/s 
+ meu  =
+ 
+    0.000676  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ 
+ R_e  =
+ 
+    22.932352  
+ 
+
+ R_e=22.932352 
+ 
+ 
+ v_s_t  =
+ 
+    0.0119545  
+ 
+
+ superficial velocity v_s_t=0.011954 ft/s 
+ 
+ R_e_t  =
+ 
+    6.1354158  
+ 
+
+ reynolds no R_e_t=6.135416  
+ 
+ D  =
+ 
+    0.167  
+ 
+ S  =
+ 
+    0.0219040  
+ 
+ q  =
+ 
+    0.0002619  
+ 
+
+ vol. flow rate q=0.000262 ft^3/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.3/263.sce #
+ 
+ 
+ 
+Example 26.3 page no 384
+
+ 
+ 
+ 
+ h_f  =
+ 
+    1.25  
+ 
+ h_l  =
+ 
+    1.25  
+ 
+ g  =
+ 
+    32.174  
+ 
+ e  =
+ 
+    0.25  
+ 
+ d_p  =
+ 
+    0.00417  
+ 
+ L  =
+ 
+    1.  
+ 
+ 
+ v_s  =
+ 
+    0.0446823  
+ 
+
+ superficial velocity v_s=0.044682 ft/s 
+ meu  =
+ 
+    0.000676  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ 
+ R_e  =
+ 
+    22.932352  
+ 
+
+ R_e=22.932352 
+ 
+ 
+ v_s_t  =
+ 
+    0.0119545  
+ 
+
+ superficial velocity v_s_t=0.011954 ft/s 
+ 
+ R_e_t  =
+ 
+    6.1354158  
+ 
+
+ reynolds no R_e_t=6.135416  
+ 
+ 
+ k  =
+ 
+    3.220D-09  
+ 
+ P_drop_fr  =
+ 
+    78.  
+ 
+
+ fricion pressure drop P_drop_fr=78.000000 psf 
+ z_d  =
+ 
+  - 1.  
+ 
+ P_drop_r  =
+ 
+    15.6  
+ 
+
+ pressure drop across across the resin bed P_drop_r=15.600000 psf 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.4/264.sce #
+ 
+ 
+ 
+
+Example 26.4 page no 387
+
+ 
+ 
+ D  =
+ 
+    0.2  
+ 
+ d_p  =
+ 
+    0.000074  
+ 
+ rho_s  =
+ 
+    2200.  
+ 
+ rho_f  =
+ 
+    1.2  
+ 
+ meu  =
+ 
+    0.0000189  
+ 
+ g  =
+ 
+    9.807  
+ 
+ e  =
+ 
+    0.45  
+ 
+ L_mf  =
+ 
+    0.3  
+ 
+ 
+ 
+ v_mf  =
+ 
+    0.2515327  
+ 
+
+ min. fluidization velocity v_mf=0.251533 m/s 
+ 
+ R_e  =
+ 
+    1.7906125  
+ 
+
+ Reynolds no R_e=1.790612  
+ 
+ m_dot  =
+ 
+    0.0094826  
+ 
+
+ mass flow rate m_dot =0.009483 kg/s 
+ P_fr  =
+ 
+    3560.  
+ 
+
+ gas pressure drop P_fr=3560.000000 Pa 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.5/265.sce #
+ 
+ 
+ 
+Example 26.5 page no 389
+
+ 
+ 
+ V_o  =
+ 
+    4.65  
+ 
+ meu_g  =
+ 
+    0.000013  
+ 
+ rho_g  =
+ 
+    0.67  
+ 
+ e  =
+ 
+    0.89  
+ 
+ g_c  =
+ 
+    32.2  
+ 
+ L  =
+ 
+    10.  
+ 
+ d_p  =
+ 
+    0.007815  
+ 
+ P_drop  =
+ 
+    18.083548  
+ 
+
+ pressure drop P_rop=18.083548 lb/ft^2 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.6/266.sce #
+ 
+ 
+ 
+Example 26.6 page no 392
+
+ 
+ 
+ D  =
+ 
+    4.  
+ 
+ d_p  =
+ 
+    0.00137  
+ 
+ rho_s  =
+ 
+    84.  
+ 
+ rho_f  =
+ 
+    55.  
+ 
+ e_mf  =
+ 
+    0.38  
+ 
+ L_mf  =
+ 
+    8.  
+ 
+ P_drop  =
+ 
+    583.84  
+ 
+
+pressure drop P_drop=583.840000 psf 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.6/266.sce #
+ 
+ 
+ 
+Example 26.6 page no 392
+
+ 
+ 
+ D  =
+ 
+    4.  
+ 
+ d_p  =
+ 
+    0.00137  
+ 
+ rho_s  =
+ 
+    84.  
+ 
+ rho_f  =
+ 
+    55.  
+ 
+ e_mf  =
+ 
+    0.38  
+ 
+ L_mf  =
+ 
+    8.  
+ 
+ P_drop  =
+ 
+    583.84  
+ 
+
+pressure drop P_drop=583.840000 psf 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.7/267.sce #
+ 
+ 
+ 
+Example 26.7 page no 393
+
+ 
+ 
+ D  =
+ 
+    4.  
+ 
+ d_p  =
+ 
+    0.00137  
+ 
+ rho_s  =
+ 
+    84.  
+ 
+ rho_f  =
+ 
+    55.  
+ 
+ meu_f  =
+ 
+    0.000313  
+ 
+ e_mf  =
+ 
+    0.38  
+ 
+ L_mf  =
+ 
+    8.  
+ 
+ L_f  =
+ 
+    10.  
+ 
+ e  =
+ 
+    0.504  
+ 
+ g  =
+ 
+    32.174  
+ 
+ v_s  =
+ 
+    0.0096276  
+ 
+
+ superficial velocity v_s=0.009628 ft/s 
+ q  =
+ 
+    0.1209841  
+ 
+
+ vol. floe rate q=0.120984 ft^3/s 
+ 
+ meu_f  =
+ 
+    0.01  
+ 
+ R_e  =
+ 
+    0.1462582  
+ 
+
+ reynolds no R_e=0.146258 
+
+ since R_e is less than 10 ,flow is laminar 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.8/268.sce #
+ 
+ 
+ 
+ Example 26.8 page no 393
+
+ 
+ 
+ 
+ 
+ f_pm  =
+ 
+    1.75  
+ 
+ v_s  =
+ 
+    2.  
+ 
+ e  =
+ 
+    0.4  
+ 
+ L  =
+ 
+    50.  
+ 
+ d_p  =
+ 
+    0.0833  
+ 
+ g  =
+ 
+    32.174  
+ 
+ h_f  =
+ 
+    1224.304  
+ 
+
+ head loss h_f=1224.303982 ft of propane  
+ 
+ 
+ P2  =
+ 
+    4320.  
+ 
+ rho_f  =
+ 
+    0.0128  
+ 
+ z_d  =
+ 
+  - 50.  
+ 
+ P1  =
+ 
+    4303.6889  
+ 
+
+ pressure P1=4303.688909 psf 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.9/269.sce #
+ 
+ 
+ 
+Example 26.9 page no 394
+
+ 
+ 
+ d_p  =
+ 
+    0.001  
+ 
+ meu  =
+ 
+    0.001  
+ 
+ e  =
+ 
+    0.25  
+ 
+ R_e  =
+ 
+    1000.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ v_s  =
+ 
+    0.75  
+ 
+
+ superficial velocity v_s=0.750000 m/s 
+ phi_s  =
+ 
+    1.  
+ 
+ L  =
+ 
+    0.5  
+ 
+ P_drop  =
+ 
+    23625000.  
+ 
+
+pressure drop P_drop=23625000.000000 Pa 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH27/EX27.2/272.sce #
+ 
+ 
+ 
+Example 27.2 page no 413
+
+ 
+ 
+ m_dot_slurry  =
+ 
+    36000.  
+ 
+ m  =
+ 
+    0.1  
+ 
+ m_dot_solids  =
+ 
+    3600.  
+ 
+ a  =
+ 
+    0.2  
+ 
+ A  =
+ 
+    720.  
+ 
+
+ filter colth area A=720.000000 ft^2 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH27/EX27.4/274.sce #
+ 
+ 
+ 
+Example 27.4 page no. 414
+
+ 
+ m  =
+ 
+    1947.  
+ 
+ K_c  =
+ 
+    3894.  
+ 
+ c  =
+ 
+    217.  
+ 
+ q_r  =
+ 
+    217.  
+ 
+
+ coeff. K_c=3894.000000 s/ft^6
+ coeff. q_r=217.000000 s/ft^3 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH27/EX27.5/275.sce #
+ 
+ 
+ 
+Example 27.5 page no 415
+
+ 
+ 
+ meu  =
+ 
+    0.000595  
+ 
+ g_c  =
+ 
+    32.174  
+ 
+ P_drop  =
+ 
+    2880.  
+ 
+ q_o  =
+ 
+    0.0046083  
+ 
+ S  =
+ 
+    0.35  
+ 
+ K_c  =
+ 
+    3894.  
+ 
+ c  =
+ 
+    4.142  
+ 
+ R_m  =
+ 
+    1.183D+10  
+ 
+R_m=11827919435.294117 ft 
+ alpha  =
+ 
+    1.794D+10  
+ 
+
+ alpha=17935047071.321041 ft/lb 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH27/EX27.7/277.sce #
+ 
+ 
+ 
+Example 27.7 page no 418
+
+ 
+ 
+ alpha  =
+ 
+    4.570D+11  
+ 
+ P_drop  =
+ 
+    1554.  
+ 
+ alpha_o  =
+ 
+    9.766D+10  
+ 
+
+ specific cake resistance alpha_o=97658823278.886719 ft/lb 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH27/EX27.9/279.sce #
+ 
+ 
+ 
+Example 27.9 page no 418
+
+ 
+ 
+ P  =
+ 
+    50.  
+ 
+ q  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ C  =
+ 
+    5.  
+ 
+ 
+ 
+ t  =
+ 
+    60.  
+ 
+ V_s  =
+ 
+    100.  
+ 
+ B  =
+ 
+    0.5  
+ 
+ 
+ 
+ V_w  =
+ 
+    15.  
+ 
+ t_w  =
+ 
+    16.5  
+ 
+
+ washing time t_w=16.500000 min 
+ t_d  =
+ 
+    30.  
+ 
+ t_c  =
+ 
+    1.775  
+ 
+ q_c  =
+ 
+    56.338028  
+ 
+
+ flow rate q_c=56.338028 gal/hr  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.3/283.sce #
+ 
+ 
+ 
+Example 28.3 page no 430
+
+ 
+ 
+ 
+ 
+ h  =
+ 
+    150.  
+ 
+ v_w  =
+ 
+    0.0008333  
+ 
+ SG  =
+ 
+    1.96  
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ rho_p  =
+ 
+    122.304  
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ M  =
+ 
+    29.  
+ 
+ R  =
+ 
+    0.73  
+ 
+ T  =
+ 
+    520.  
+ 
+ rho_a  =
+ 
+    0.0763962  
+ 
+ meu  =
+ 
+    0.0000122  
+ 
+ g  =
+ 
+    32.174  
+ 
+ d_p  =
+ 
+    0.0000082  
+ 
+ K  =
+ 
+    0.1036790  
+ 
+
+ settling factor K=0.103679  
+ 
+ v  =
+ 
+    0.0012055  
+ 
+
+settling velocity v=0.001205 ft/s 
+ t  =
+ 
+    124430.77  
+ 
+
+ desent time t=124430.768762 sec 
+ x  =
+ 
+    103.69231  
+ 
+
+ minimum horizontal distance x=103.692307 miles 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.4/284.sce #
+ 
+ 
+ 
+Example 28.4 page  no 432
+
+ 
+ 
+ 
+ q_scfm  =
+ 
+    10000.  
+ 
+ T  =
+ 
+    520.  
+ 
+ T_o  =
+ 
+    710.  
+ 
+ q_acfm  =
+ 
+    13653.846  
+ 
+ v_f  =
+ 
+    2.5  
+ 
+ S_c  =
+ 
+    5461.5385  
+ 
+
+ filtering beg area S_c=5461.538462 ft^2 
+ 
+ D_a  =
+ 
+    0.6666667  
+ 
+ H_a  =
+ 
+    16.  
+ 
+ S_a  =
+ 
+    33.510322  
+ 
+ N_a  =
+ 
+    163.  
+ 
+
+ area S_a=33.510322 ft^2
+ number og bags N_a=163.000000  
+ 
+ D_b  =
+ 
+    0.8333333  
+ 
+ H_b  =
+ 
+    16.  
+ 
+ S_b  =
+ 
+    41.887902  
+ 
+ N_b  =
+ 
+    130.  
+ 
+
+ area S_b=41.887902 ft^2
+ no. of bags N_b=130.000000  
+ 
+ 
+ c_a  =
+ 
+    26.  
+ 
+ TC_a  =
+ 
+    4238.  
+ 
+
+ total cost TC_a=4238.000000 $ 
+ 
+ c_b  =
+ 
+    38.  
+ 
+ TC_b  =
+ 
+    4940.  
+ 
+
+ total cost TC_b=4940.000000 $ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.5/285.sce #
+ 
+ 
+ 
+
+ Example 28.5 page no 433
+
+ 
+ 
+ q  =
+ 
+    50000.  
+ 
+ v_f  =
+ 
+    10.  
+ 
+ D  =
+ 
+    1.  
+ 
+ L  =
+ 
+    15.  
+ 
+ S_c  =
+ 
+    5000.  
+ 
+ S  =
+ 
+    47.12389  
+ 
+ N  =
+ 
+    106.1033  
+ 
+
+ no. of bags N=106.103295  
+ c  =
+ 
+    0.0007143  
+ 
+ P_drop  =
+ 
+    8.  
+ 
+ t  =
+ 
+    16.799664  
+ 
+
+ time t=16.799664 min 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.6/286.sce #
+ 
+ 
+ 
+Example 28.6 page no 434
+
+ 
+ 
+ 
+ l_b  =
+ 
+    20.  
+ 
+ l_t  =
+ 
+    50.  
+ 
+ h  =
+ 
+    7.5  
+ 
+ A  =
+ 
+    262.5  
+ 
+ P  =
+ 
+    36.77051  
+ 
+ r_h  =
+ 
+    7.138873  
+ 
+ S  =
+ 
+    0.0008  
+ 
+ n  =
+ 
+    0.02  
+ 
+ q  =
+ 
+    2045.2648  
+ 
+
+ volumetric flow rate q=2045.264840 ft^3/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.7/287.sce #
+ 
+ 
+ 
+
+ Example 28.7 page no 435
+
+ 
+ 
+ 
+ q_w  =
+ 
+    10.  
+ 
+ c  =
+ 
+    35.  
+ 
+ m_dot_w  =
+ 
+    2919.  
+ 
+
+ fdischarge from the treatment plant m_dot_w=2919.000000 lb/day 
+ S  =
+ 
+    8.  
+ 
+ r  =
+ 
+    0.06  
+ 
+ n  =
+ 
+    0.5  
+ 
+ q  =
+ 
+    154.88  
+ 
+ c_r  =
+ 
+    9.  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ m_r  =
+ 
+    7515.1245  
+ 
+
+ total nitrogen discharge m_r=7515.124531 lb/day  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.8/288.sce #
+ 
+ 
+ 
+Example 28.8 page no 436
+
+ 
+ 
+ m  =
+ 
+    1000.  
+ 
+ OL  =
+ 
+    0.2  
+ 
+ VS  =
+ 
+    0.78  
+ 
+ V_ol  =
+ 
+    3900.  
+ 
+
+ volume based on organic loading V_ol=3900.000000 ft^3 
+ t_h  =
+ 
+    20.  
+ 
+ TS  =
+ 
+    0.044  
+ 
+ V_hl  =
+ 
+    7295.0911  
+ 
+
+ volume based on hyraulic load V_hl=7295.091104 ft^3 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.9/289.sce #
+ 
+ 
+ 
+Example 28.9 page no 437
+
+ 
+ 
+ V_c  =
+ 
+    0.78  
+ 
+ V_s  =
+ 
+    0.75  
+ 
+ V  =
+ 
+    8.611D+10  
+ 
+
+ volume of cavern availible for solid waste V=86110801920.000000 ft^3 
+ r  =
+ 
+    20000.  
+ 
+ rho  =
+ 
+    30.  
+ 
+ q  =
+ 
+    208000.  
+ 
+
+ q=208000.000000  
+ t  =
+ 
+    413994.24  
+ 
+
+ time to fill the cavern t=413994.240000 year 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH29/EX29.2/292.sce #
+ 
+ 
+ 
+Example 29.2 page no 455
+
+ 
+ 
+ 
+ 
+ n  =
+ 
+    5.  
+ 
+ x  =
+ 
+    3.  
+ 
+ p  =
+ 
+    0.05  
+ 
+ q  =
+ 
+    0.95  
+ 
+ P  =
+ 
+    0.0000198  
+ 
+
+ probability P=0.000020   
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH29/EX29.3/293.sce #
+ 
+ 
+ 
+Example 29.3 page no 455 
+ 
+ v_air  =
+ 
+    4000.  
+ 
+ v_air_s  =
+ 
+    66.666667  
+ 
+ n  =
+ 
+    4.  
+ 
+ q_e  =
+ 
+    3000.  
+ 
+ q  =
+ 
+    12000.  
+ 
+ A  =
+ 
+    3.  
+ 
+ D  =
+ 
+    1.95441  
+ 
+ rho  =
+ 
+    0.075  
+ 
+ meu  =
+ 
+    0.0000121  
+ 
+ R_e  =
+ 
+    807607.46  
+ 
+
+ reynolds no. R_e=807607.457691  
+ f  =
+ 
+    0.003  
+ 
+ L  =
+ 
+    400.  
+ 
+ g_c  =
+ 
+    32.2  
+ 
+ P_drop_d  =
+ 
+    12.712133  
+ 
+
+ pressure drop in duct P_drop_d=12.712133 lbf/ft^2 
+ P_drop_h  =
+ 
+    2.6  
+ 
+ P_drop_cyc  =
+ 
+    18.2  
+ 
+ P_drop_t  =
+ 
+    33.512133  
+ 
+
+ total pressure drop P_drop_t=33.512133 lbf/ft^2 
+ neta  =
+ 
+    0.4  
+ 
+ hp  =
+ 
+    30.462529  
+ 
+
+ power required hp=30.462529 hp  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH29/EX29.6/296.sce #
+ 
+ 
+ 
+Example 29.6 page no 458
+
+ 
+ 
+ l_i  =
+ 
+    5.  
+ 
+ l_o  =
+ 
+    0.03  
+ 
+ l_o_max  =
+ 
+    0.4  
+ 
+ E_b  =
+ 
+    0.994  
+ 
+ P_t  =
+ 
+    0.006  
+ 
+ E  =
+ 
+    0.92  
+ 
+ P_t_r  =
+ 
+    0.08  
+ 
+ P_tc  =
+ 
+    0.074  
+ 
+
+ penetration associated with failed bags P_tc=0.074000  
+ P_drop  =
+ 
+    6.  
+ 
+ T  =
+ 
+    250.  
+ 
+ q  =
+ 
+    50000.  
+ 
+ D  =
+ 
+    8.  
+ 
+ L  =
+ 
+    1.5219275  
+ 
+
+ no. of bags L=1.521928  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH29/EX29.7/297.sce #
+ 
+ 
+ 
+Example 29.7 page no 461
+
+ 
+ 
+ v  =
+ 
+    1100.  
+ 
+ T  =
+ 
+    295.  
+ 
+ v_s  =
+ 
+    0.0224  
+ 
+ T_s  =
+ 
+    273.  
+ 
+ n_air  =
+ 
+    45444.915  
+ 
+
+ n_air=45444.915254 gmol 
+ v_r  =
+ 
+    0.75  
+ 
+ x_hc  =
+ 
+    16503.224  
+ 
+
+ mole fraction of HC x_hc=16503.224143 ppb  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH31/EX31.1/311.sce #
+ 
+ 
+Example 31.1 page no 486
+
+  
+ 
+ A  =
+ 
+    3.  - 2.    1.  
+    1.    4.  - 2.  
+    2.  - 3.  - 4.  
+ 
+ B  =
+ 
+    7.   
+    21.  
+    9.   
+ 
+ X  =
+ 
+    5.  
+    3.  
+  - 2.  
+ 
+
+ X=5.000000
+ X=3.000000
+ X=-2.000000 
+ X1  =
+ 
+    5.  
+ 
+ X2  =
+ 
+    3.  
+ 
+ X3  =
+ 
+  - 2.  
+ 
+
+ X1=5.000000
+X2=3.000000 
+X3=-2.000000 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH31/EX31.2/312.sce #
+ 
+ 
+ 
+Example 31.2 page no 492
+
+ 
+ 
+ t1  =
+ 
+    1100.  
+ 
+ T1  =
+ 
+    1.1  
+ 
+
+ T1=1.100000 k 
+ f1  =
+ 
+    0.111  
+ 
+ f_d1  =
+ 
+    1.23  
+ 
+ 
+ T2  =
+ 
+    1.0097561  
+ 
+
+ T2=1.009756 k 
+ f2  =
+ 
+    0.0098522  
+ 
+ f_d2  =
+ 
+    1.0197977  
+ 
+ T3  =
+ 
+    1.0000952  
+ 
+
+ T3=1.000095 k 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH31/EX31.3/313.sce #
+ 
+ 
+ 
+Example 31.3 page no 493
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f  =
+ 
+                      2  
+  - 22791.05v + 213.5v   
+ 
+ 
+ df  =
+ 
+  - 22791.05 + 427v   
+ 
+ v1  =
+ 
+    5.  
+ 
+ f1  =
+ 
+  - 108617.75  
+ 
+ df1  =
+ 
+  - 20656.05  
+ 
+ v2  =
+ 
+  - 0.2583989  
+ 
+ 
+ 
+ v6  =
+ 
+    10.09  
+ 
+
+ v6=10.090000 ft/s  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH31/EX31.4/314.sce #
+ 
+ 
+ 
+Example 31.4 page no 497
+
+ 
+ 
+ I  =
+ 
+    0.900784  
+ 
+
+ I=0.900784  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH32/EX32.5/325.sce #
+ 
+ 
+ 
+Example 32.5 page no 512
+
+ 
+ 
+ 
+ OC_a  =
+ 
+    20000.  
+ 
+ CRF  =
+ 
+    0.1  
+ 
+ OC_b  =
+ 
+    1250.  
+ 
+ d  =
+ 
+    21120.  
+ 
+ c_a  =
+ 
+    1.  
+ 
+ c_b  =
+ 
+    6.  
+ 
+ CC_a  =
+ 
+    2112.  
+ 
+ CC_b  =
+ 
+    12672.  
+ 
+ TC_a  =
+ 
+    22112.  
+ 
+
+ total cost with 2 inch pipe TC_a=22112.000000 $ 
+ TC_b  =
+ 
+    13922.  
+ 
+
+ total cost with 4 inch pipe TC_b=13922.000000 $ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH32/EX32.6/326.sce #
+ 
+ 
+ 
+ Example 32.6 page no 512
+
+ 
+ 
+ q  =
+ 
+    50000.  
+ 
+ c  =
+ 
+    0.0002857  
+ 
+ DV  =
+ 
+    0.03  
+ 
+ 
+ 
+ C_e  =
+ 
+    0.18  
+ 
+ E_f  =
+ 
+    0.55  
+ 
+ 
+ P1  =
+ 
+    54.457143  
+ 
+
+ P1=54.457143 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH32/EX32.8/328.sce #
+ 
+ 
+ 
+Example 32.8 page no 514
+
+ 
+ 
+ 
+ i  =
+ 
+    0.03375  
+ 
+ n  =
+ 
+    9.  
+ 
+ SFDF  =
+ 
+    0.0969397  
+ 
+ P  =
+ 
+    60000.  
+ 
+ L  =
+ 
+    500.  
+ 
+ UAP  =
+ 
+    5767.9115  
+ 
+
+ uniform annual payment UAP=5767.911462 $ 
+ 
+ 
+ 
+ x  =
+ 
+    5.  
+ 
+ B5  =
+ 
+    26944.444  
+ 
+
+ apprasial value B=26944.444444 $ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH32/EX32.9/329.sce #
+ 
+ 
+ 
+Example 32.9 page no 516
+
+ 
+ 
+ 
+ CC  =
+ 
+    150000.  
+ 
+ I  =
+ 
+    0.07  
+ 
+ n  =
+ 
+    5.  
+ 
+ CRF  =
+ 
+    0.2438907  
+ 
+ IC  =
+ 
+    36583.604  
+ 
+ OC  =
+ 
+    15000.  
+ 
+ AC  =
+ 
+    51583.604  
+ 
+
+ annulized cost AC=51583.604166 $ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.1/331.sce #
+ 
+ 
+Example 33.1 page no 524
+
+ 
+ 
+ meu_cp  =
+ 
+    1.25  
+ 
+ meu_e  =
+ 
+    0.00084  
+ 
+
+ viscosity meu_e=0.000840 lb/ft.s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.2/332.sce #
+ 
+ 
+Example 33.2 page no 525
+
+ 
+ 
+ P  =
+ 
+    80.  
+ 
+ P1  =
+ 
+    3.1494737  
+ 
+ P2  =
+ 
+    3.5694737  
+ 
+ P3  =
+ 
+    42.833684  
+ 
+ P4  =
+ 
+    1.5473684  
+ 
+ P5  =
+ 
+    222.73684  
+ 
+ P6  =
+ 
+    10663.158  
+ 
+
+ P1=3.149474 inHg
+ P2=3.569474 ft H2O
+P3=42.833684 in H2O
+ P4=1.547368 psia
+P5=222.736842 psfa
+P6=10663.157895 N/m^2 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.5/335.sce #
+ 
+ 
+Example 33.5 page no 527
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ q  =
+ 
+    1.  
+ 
+ q1  =
+ 
+    0.5  
+ 
+ s  =
+ 
+    1.  
+ 
+ s1  =
+ 
+    0.5  
+ 
+ 
+ D_r  =
+ 
+    1.4142136  
+ 
+
+ ratio of diameters D_r=1.414214  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.6/336.sce #
+ 
+ 
+ 
+Example 33.6 page no 528
+
+ 
+ 
+ 
+ a  =
+ 
+    0.2  
+ 
+ v  =
+ 
+    5.  
+ 
+ a1  =
+ 
+    0.08  
+ 
+ v1  =
+ 
+    7.  
+ 
+ a2  =
+ 
+    0.025  
+ 
+ v2  =
+ 
+    12.  
+ 
+ a3  =
+ 
+    0.031  
+ 
+ q  =
+ 
+    1.  
+ 
+ q1  =
+ 
+    0.56  
+ 
+ q2  =
+ 
+    0.3  
+ 
+ q3  =
+ 
+    0.14  
+ 
+ v3  =
+ 
+    4.516129  
+ 
+
+ velocity v3=4.516129 mm/s 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.7/337.sce #
+ 
+ 
+ 
+Example 33.7 page no 531
+
+ 
+ 
+ D  =
+ 
+    2.5  
+ 
+ S  =
+ 
+    4.9087385  
+ 
+ q  =
+ 
+    93.3  
+ 
+ v  =
+ 
+    19.00692  
+ 
+
+ flow velocity v=19.006920 cm/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.8/338.sce #
+ 
+ 
+ 
+Example 33.8 page no 531
+
+ 
+ 
+ Y  =
+ 
+    74.  
+ 
+ d  =
+ 
+    365.  
+ 
+ h  =
+ 
+    24.  
+ 
+ m  =
+ 
+    60.  
+ 
+ b  =
+ 
+    80.  
+ 
+ T  =
+ 
+    3.112D+09  
+ 
+
+ no.of times heart beats T=3111552000.000000  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.9/339.sce #
+ 
+ 
+ 
+
+ Example 33.9 page no 531
+
+ 
+ 
+ Y  =
+ 
+    74.  
+ 
+ d  =
+ 
+    365.  
+ 
+ h  =
+ 
+    24.  
+ 
+ m  =
+ 
+    60.  
+ 
+ b  =
+ 
+    80.  
+ 
+ T  =
+ 
+    3.112D+09  
+ 
+ v  =
+ 
+    70.  
+ 
+ V  =
+ 
+    2.178D+11  
+ 
+
+ Volume of blood  V=217808640000.000000 ml 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH34/EX34.4/344.sce #
+ 
+ 
+Example 34.4 page no 548
+
+ 
+ 
+ m_dot  =
+ 
+    10000.  
+ 
+ v  =
+ 
+    50.  
+ 
+ KE  =
+ 
+    990.12876  
+ 
+
+ KE=990.128758 ft.lbf/s 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.10/1410.sce #
+ 
+ 
+ 
+Example 14.10 page no 163
+
+ 
+ 
+ 
+ 
+ 
+ vz  =
+ 
+    43.4    42.1    42.    40.8    38.5    37.    37.5    38.    39.    41.7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ vz_bar=40.000000 
+ 
+ 
+
+ vz_sqr=4.600000 
+ I  =
+ 
+    0.0536190  
+ 
+
+ intensity of turbulance I=0.053619  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH14/EX14.11/1411.sce #
+ 
+ 
+ 
+Example 14.11 page no 164
+
+ 
+ 
+ D  =
+ 
+    2.  
+ 
+ v_max  =
+ 
+    30.  
+ 
+ A  =
+ 
+    0.0218166  
+ 
+ 
+ v_a  =
+ 
+    15.  
+ 
+ q_a  =
+ 
+    0.3272492  
+ 
+
+ flow rate q_a=0.327249 ft^3/min 
+ 
+ v_b  =
+ 
+    30.  
+ 
+ q_b  =
+ 
+    0.6544985  
+ 
+ 
+flow rate q_b=0.654498 ft^3/min 
+ 
+ v_c  =
+ 
+    24.5  
+ 
+ q_c  =
+ 
+    0.5345071  
+ 
+
+ flow rate q_c=0.534507 ft^3/min 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.10/2110.sce #
+ 
+ 
+ 
+Example 21.10 page no 286
+
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    14.7  
+ 
+ P2  =
+ 
+    10.2  
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    10000.  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ g_c  =
+ 
+    32.2  
+ 
+ h_s  =
+ 
+    9989.6154  
+ 
+ h_s  =
+ 
+    9990.  
+ 
+ h_sf  =
+ 
+    499500.  
+ 
+
+ work h_sf=499500.000000 ft.lbf/s 
+ 
+ neta  =
+ 
+    0.65  
+ 
+ W_p  =
+ 
+    1397.  
+ 
+
+ actual work W_p=1397.000000 hp 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.12/2112.sce #
+ 
+ 
+ 
+Example 21.12 page no 288
+
+ 
+ 
+ 
+ K_f_globe  =
+ 
+    6.  
+ 
+ K_f_tee  =
+ 
+    0.4  
+ 
+ v  =
+ 
+    2.53  
+ 
+ g_c  =
+ 
+    32.2  
+ 
+ f  =
+ 
+    1.25  
+ 
+ L  =
+ 
+    144.  
+ 
+ D  =
+ 
+    62.4  
+ 
+ h_f  =
+ 
+    12.770933  
+ 
+
+ frictional loss h_f=12.770933 ft.lbf/lb 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.14/2114.sce #
+ 
+ 
+ 
+Example 21.14 page no 290
+
+ 
+ 
+ 
+ S1  =
+ 
+    0.00133  
+ 
+ S2  =
+ 
+    0.00211  
+ 
+ K_e  =
+ 
+    0.1366546  
+ 
+ K_c  =
+ 
+    0.1375770  
+ 
+ L  =
+ 
+    50.  
+ 
+ D  =
+ 
+    0.03125  
+ 
+ v  =
+ 
+    1.93  
+ 
+ f  =
+ 
+    0.01124  
+ 
+ g_c  =
+ 
+    32.2  
+ 
+ h_f  =
+ 
+    8661.0237  
+ 
+
+ frictional loss h_f=8661.023717 ft.lbf/lb  
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH21/EX21.16/2116.sce #
+ 
+ 
+ 
+Example 21.16 page no 291
+
+ 
+ 
+ v_p  =
+ 
+    0.02  
+ 
+ D_p  =
+ 
+    1.5  
+ 
+ L_p  =
+ 
+    20.  
+ 
+ rho_p  =
+ 
+    1000.  
+ 
+ meu_p  =
+ 
+    0.001  
+ 
+ K_p  =
+ 
+    0.003  
+ 
+ 
+ D_m  =
+ 
+    0.05  
+ 
+ L_m  =
+ 
+    0.6666667  
+ 
+ K_m  =
+ 
+    0.0001  
+ 
+ 
+ rho_m  =
+ 
+    961.3  
+ 
+ meu_m  =
+ 
+    0.0721  
+ 
+ 
+ v_m  =
+ 
+    45.00156  
+ 
+
+ flow velocity v_m=45.001560 m/s 
+ 
+ P_drop_m  =
+ 
+    100000.  
+ 
+ P_drop_p  =
+ 
+    0.0205469  
+ 
+
+ pressure drop in prototype P_drop_p=0.020547 Pa 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.10/2210.sce #
+ 
+ 
+ 
+
+ Example 22.10 page no 306
+
+ 
+ 
+ 
+ q  =
+ 
+    0.003  
+ 
+ 
+ D  =
+ 
+    0.03  
+ 
+ v_2  =
+ 
+    4.2441318  
+ 
+ 
+ v_3  =
+ 
+    4.2441318  
+ 
+ g  =
+ 
+    9.807  
+ 
+ D_h  =
+ 
+    0.9183570  
+ 
+
+ dynamic head D_h=0.918357 m 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    1.8  
+ 
+ 
+ rho  =
+ 
+    865.  
+ 
+ P3  =
+ 
+    78265.028  
+ 
+
+ pressure at point 3 P3=78265.027769 Pa 
+ P_v  =
+ 
+    26200.  
+ 
+ NPSH  =
+ 
+    7.0558898  
+ 
+
+  NPSH=7.055890 m 
+ 
+ 
+ NPSH_m  =
+ 
+    8.  
+ 
+ P3_n_ab  =
+ 
+    86273.967  
+ 
+
+ new pressure at point 3 P3_n_ab=86273.966769 Pa absolute 
+ P3_n_bz  =
+ 
+  - 1.77  
+ 
+ z3  =
+ 
+    0.8516430  
+ 
+
+ height z3=0.851643 m 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.11/2211.sce #
+ 
+ 
+ 
+Example 22.11 page no 308
+
+ 
+ 
+ q  =
+ 
+    1.36  
+ 
+ D  =
+ 
+    0.333  
+ 
+ S  =
+ 
+    0.0870920  
+ 
+ v2  =
+ 
+    15.615668  
+ 
+ rho  =
+ 
+    62.37  
+ 
+ meu  =
+ 
+    0.0007587  
+ 
+ R_e  =
+ 
+    427481.5  
+ 
+
+ reynolds no. R_e=427481.497975 
+ 
+ k  =
+ 
+    0.0018  
+ 
+ K_r  =
+ 
+    0.0054054  
+ 
+ f  =
+ 
+    0.0046  
+ 
+ L  =
+ 
+    525.  
+ 
+ g_c  =
+ 
+    32.174  
+ 
+ h_fp  =
+ 
+    109.93069  
+ 
+
+ frictional loss h_fp=109.930691 ft.lbf/lb 
+ 
+ K_ff_gate  =
+ 
+    0.22  
+ 
+ K_ff_elbows  =
+ 
+    3.2  
+ 
+ 
+ 
+ K_c  =
+ 
+    0.42  
+ 
+ K_e  =
+ 
+    1.  
+ 
+ K_s  =
+ 
+    4.84  
+ 
+ h_f  =
+ 
+    18.341355  
+ 
+ h_f_total  =
+ 
+    128.27205  
+ 
+
+ total frictional loss h_f_total=128.272047 ft.lbf/lb 
+ v1  =
+ 
+    0.  
+ 
+ P_drop  =
+ 
+    0.  
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    200.  
+ 
+ W_s  =
+ 
+    332.06158  
+ 
+ m_dot  =
+ 
+    84.8232  
+ 
+ neta  =
+ 
+    0.6  
+ 
+ W_dot_s  =
+ 
+    85.353109  
+ 
+
+ W_dot_s=85.353109 hp 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.12/2212.sce #
+ 
+ 
+ 
+Example 22.12 page no 311
+
+ 
+ 
+ rho  =
+ 
+    62.4  
+ 
+ SG  =
+ 
+    0.872  
+ 
+ rho_t  =
+ 
+    54.4128  
+ 
+ v  =
+ 
+    12.67  
+ 
+ z1  =
+ 
+    20.  
+ 
+ z2  =
+ 
+    90.  
+ 
+ neta  =
+ 
+    0.74  
+ 
+ W_s  =
+ 
+    401.9  
+ 
+ g_c  =
+ 
+    32.174  
+ 
+ L  =
+ 
+    700.  
+ 
+ 
+ h_f  =
+ 
+    224.9113  
+ 
+
+ frictional loss h_f =224.911301 ft.lbf/lb 
+ k_c  =
+ 
+    0.4  
+ 
+ k_e  =
+ 
+    0.9  
+ 
+ k_f  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.184  
+ 
+ S  =
+ 
+    0.0265904  
+ 
+ S  =
+ 
+    0.0266  
+ 
+ q  =
+ 
+    0.337022  
+ 
+
+ q=0.337022 ft^3/s  
+ m_dot  =
+ 
+    18.338311  
+ 
+ bhp  =
+ 
+    18.108519  
+ 
+
+ brake horse power bhp=18.108519 hp 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.13/2213.sce #
+ 
+ 
+ 
+Example 22.13 page no 313
+
+ 
+ 
+ 
+ rho  =
+ 
+    0.0838  
+ 
+ meu  =
+ 
+    0.0000090  
+ 
+ D  =
+ 
+    0.08  
+ 
+ L  =
+ 
+    1.  
+ 
+ q  =
+ 
+    0.0004  
+ 
+ S  =
+ 
+    0.000503  
+ 
+ v  =
+ 
+    0.7952286  
+ 
+ m_dot  =
+ 
+    0.0000335  
+ 
+ R_e  =
+ 
+    589.08428  
+ 
+
+ R_e reynolds no=589.084279  
+ 
+ 
+ P_grad  =
+ 
+    0.0036009  
+ 
+
+ Pressure gradient P_grad=0.003601 Pa/m 
+ v_max  =
+ 
+    1.5904573  
+ 
+ 
+ 
+ f  =
+ 
+    0.0271608  
+ 
+
+ fanning friction factor f=0.027161  
+ f_d  =
+ 
+    0.1086432  
+ 
+
+ darcy friction factor f_d=0.108643  
+ g  =
+ 
+    9.807  
+ 
+ h_f  =
+ 
+    0.0437855  
+ 
+
+ friction loss h_f=0.043786 m 
+ W_f  =
+ 
+    0.0000144  
+ 
+
+ friction power loss W_f=0.000014 W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.14/2214.sce #
+ 
+ 
+ 
+Example 22.14 page no 315
+
+ 
+ 
+ L  =
+ 
+    30.  
+ 
+ D  =
+ 
+    0.2  
+ 
+ S  =
+ 
+    0.0314159  
+ 
+ q  =
+ 
+    0.3  
+ 
+ v  =
+ 
+    9.5492966  
+ 
+ rho  =
+ 
+    680.  
+ 
+ meu  =
+ 
+    0.000292  
+ 
+ R_e  =
+ 
+    4447617.6  
+ 
+
+ reynolds no R_e=4447617.587774  
+ 
+ k  =
+ 
+    0.00026  
+ 
+ K_r  =
+ 
+    0.0013  
+ 
+ f  =
+ 
+    0.00525  
+ 
+ 
+ g  =
+ 
+    9.807  
+ 
+ 
+ h_f  =
+ 
+    14.647  
+ 
+ 
+ 
+ 
+ P_diff  =
+ 
+    97677.328  
+ 
+ P_diff  =
+ 
+    97680.  
+ 
+ W_s_id  =
+ 
+    29304.  
+ 
+
+ ideal shaft work W_s_id=29304.000000 W  
+ neta  =
+ 
+    0.8  
+ 
+ W_s_ac  =
+ 
+    36630.  
+ 
+
+ actual shaft work W_s_ac=36630.000000 W 
+ f_s  =
+ 
+    0.009  
+ 
+ f_r  =
+ 
+    0.021  
+ 
+ k  =
+ 
+    2.3333333  
+ 
+ f_inc  =
+ 
+    133.33333  
+ 
+
+ f_inc=133.333333  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.15/2215.sce #
+ 
+ 
+ 
+
+ Example 22.15 page no 316
+
+ 
+ 
+ D  =
+ 
+    2.3  
+ 
+ L  =
+ 
+    146.304  
+ 
+ S  =
+ 
+    4.1547563  
+ 
+ q  =
+ 
+    4000.  
+ 
+ v  =
+ 
+    0.0607407  
+ 
+
+ flow velocity v=0.060741 m/s 
+ rho  =
+ 
+    899.  
+ 
+ meu  =
+ 
+    0.0008  
+ 
+ R_e  =
+ 
+    156991.9  
+ 
+
+ reynolds no R_e=156991.895140  
+ 
+ f  =
+ 
+    0.0032  
+ 
+ 
+ 
+ 
+ P_drop  =
+ 
+    1.3502911  
+ 
+
+ pressure drop P_drop=1.350291 Pa 
+ W_dot_f  =
+ 
+    0.3407632  
+ 
+
+ friction power loss W_dot_f=0.340763 W 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH22/EX22.16/2216.sce #
+ 
+ 
+ 
+
+ Example 22.16 page no 317
+
+ 
+ 
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+  - 20.  
+ 
+ v1  =
+ 
+    120.  
+ 
+ v2  =
+ 
+    330.  
+ 
+ H1  =
+ 
+    1505.4  
+ 
+ H2  =
+ 
+    940.  
+ 
+ Q  =
+ 
+    0.  
+ 
+ g_c  =
+ 
+    32.174  
+ 
+ 
+ W_s  =
+ 
+    563.53808  
+ 
+
+ work extracted from the system W_s=563.538076 Btu/lb  
+ m_dot  =
+ 
+    450000.  
+ 
+ W_dot_s  =
+ 
+    2.536D+08  
+ 
+
+ W_dot_s =253592134.061209 Btu/h 
+ W_hp  =
+ 
+    99585.631  
+ 
+
+ power generated W_hp=99585.631046 hp 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH24/EX24.10/2410.sce #
+ 
+ 
+ 
+Example 24.10 page no 362
+
+ 
+ 
+ q  =
+ 
+    0.0666667  
+ 
+ D  =
+ 
+    0.2083333  
+ 
+ S  =
+ 
+    0.0340885  
+ 
+ v  =
+ 
+    1.9556959  
+ 
+ meu  =
+ 
+    0.0000123  
+ 
+ rho  =
+ 
+    0.0775  
+ 
+ g  =
+ 
+    32.2  
+ 
+ SG  =
+ 
+    1.34  
+ 
+ rho_w  =
+ 
+    62.4  
+ 
+ rho_p  =
+ 
+    83.616  
+ 
+ D_p_max  =
+ 
+    0.0005009  
+ 
+
+D_p_max=0.000501  
+ 
+ K  =
+ 
+    5.5761968  
+ 
+
+ settling factor K=5.576197  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.10/2610.sce #
+ 
+ 
+ 
+Example 26.10 page no 395
+
+ 
+ 
+ d_b  =
+ 
+    0.2  
+ 
+ d_p  =
+ 
+    0.000074  
+ 
+ L_mf  =
+ 
+    0.3  
+ 
+ e_mf  =
+ 
+    0.45  
+ 
+ L_o  =
+ 
+    0.165  
+ 
+
+ zero porosity bed height L_o=0.165000 m 
+ rho_s  =
+ 
+    2200.  
+ 
+ rho_f  =
+ 
+    1.2  
+ 
+ g  =
+ 
+    9.807  
+ 
+ meu_f  =
+ 
+    0.0000189  
+ 
+ 
+ v_mf  =
+ 
+    0.0069009  
+ 
+
+ velocity at min. fluidization v_mf=0.006901 m/s 
+ v_t  =
+ 
+    0.35  
+ 
+ e  =
+ 
+    0.91  
+ 
+ L_f  =
+ 
+    1.8333333  
+ 
+ m  =
+ 
+    45.615925  
+ 
+
+ expanded bed height L_f=1.833333 m
+ bed inventory m=45.615925 kg 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH26/EX26.11/2611.sce #
+ 
+ 
+ 
+
+ Example 26.11 page no 396
+
+ 
+ 
+ d_p  =
+ 
+    0.000074  
+ 
+ L_mf  =
+ 
+    0.3  
+ 
+ e_mf  =
+ 
+    0.45  
+ 
+ L_o  =
+ 
+    0.165  
+ 
+
+ zero porosity bed height L_o=0.165000 m 
+ rho_s  =
+ 
+    2200.  
+ 
+ rho_f  =
+ 
+    1.2  
+ 
+ g  =
+ 
+    9.807  
+ 
+ meu_f  =
+ 
+    0.0000189  
+ 
+ 
+ v_mf  =
+ 
+    0.0069009  
+ 
+
+ velocity at min. fluidization v_mf=0.006901 m/s 
+ F_mf  =
+ 
+    0.0656215  
+ 
+
+ fluidization mode F_mf=0.065622  
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH28/EX28.10/2810.sce #
+ 
+ 
+ 
+Example 28.10 page no 438
+
+ 
+ 
+ g  =
+ 
+    9.807  
+ 
+ rho_l  =
+ 
+    1000.  
+ 
+ rho  =
+ 
+    1.084  
+ 
+ C  =
+ 
+    0.85  
+ 
+ h  =
+ 
+    0.3772  
+ 
+ m  =
+ 
+    0.16  
+ 
+ V  =
+ 
+    35.  
+ 
+ C_p  =
+ 
+    0.0705371  
+ 
+
+ particulate con. C_p=0.070537 gr/dscf 
+ 
+ 
+ v  =
+ 
+    36.717669  
+ 
+
+ velocity v=36.717669 fps 
+ D  =
+ 
+    2.  
+ 
+ v_s  =
+ 
+    6921.1176  
+ 
+
+ stack flow rate v_s=6921.117636 acfm 
+ w_mo  =
+ 
+    0.07  
+ 
+ v_dry  =
+ 
+    6436.6394  
+ 
+ 
+ T_s  =
+ 
+    530.  
+ 
+ P_s  =
+ 
+    29.9  
+ 
+ P_g  =
+ 
+    29.6  
+ 
+ T_g  =
+ 
+    600.  
+ 
+ q_s  =
+ 
+    5628.651  
+ 
+
+ standard volumetric flow rate q_s=5628.650999 dscfm 
+ R_e  =
+ 
+    81.674529  
+ 
+
+ particulate emmision rate R_e=81.674529 lb/day 
+ w_co2  =
+ 
+    0.14  
+ 
+ w_N2  =
+ 
+    0.79  
+ 
+ mw_o  =
+ 
+    32.  
+ 
+ mw_co2  =
+ 
+    44.  
+ 
+ mw_N2  =
+ 
+    28.  
+ 
+ MW_d  =
+ 
+    30.52  
+ 
+
+ mol. weight of flue gas on dry basis MW_d=30.520000 lb/lbmol 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.10/3310.sce #
+ 
+ 
+ 
+Example 33.10 page no 532
+
+ 
+ 
+ meu  =
+ 
+    0.0007392  
+ 
+ L  =
+ 
+    0.3  
+ 
+ g_c  =
+ 
+    32.2  
+ 
+ rho  =
+ 
+    62.4  
+ 
+ D  =
+ 
+    0.0830052  
+ 
+ P_drop  =
+ 
+    1.6871519  
+ 
+
+ pressure drop P_drop=1.687152 ft*lbf/lb 
+ 
+ 
+ 
+grepthis#Fluid_Flow_For_The_Practicing_Chemical_Engineer_J._P._Abulencia_And_L._Theodore_1052/CH33/EX33.12/3312.sce #
+ 
+ 
+ 
+
+ Example 33.12 page no 534
+
+ 
+ 
+ P_drop  =
+ 
+    60.  
+ 
+ q  =
+ 
+    0.0033  
+ 
+ hp  =
+ 
+    0.5514821  
+ 
+
+power generated hp=0.551482 hp 
+ 

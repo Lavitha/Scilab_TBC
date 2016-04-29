@@ -1,0 +1,30 @@
+ERROR: Electronics_Engineering_P._Raja_2150/CH8/EX8.13/ex8_13.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

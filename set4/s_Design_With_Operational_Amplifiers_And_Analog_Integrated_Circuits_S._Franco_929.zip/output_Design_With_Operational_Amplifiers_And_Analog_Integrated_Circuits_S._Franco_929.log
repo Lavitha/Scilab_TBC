@@ -1,0 +1,9548 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 210
+
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.1.a/Example1_1_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overall Gain (Av)=60.00 V/V 
+ 
+
+Percentage Input Loading=80.00 
+ 
+
+Percentage Output Loading=75.00 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.1.b/Example1_1_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overall Gain (Av)=53.33 V/V 
+ 
+
+Percentage Input Loading=66.67 (Not mentioned in book) 
+ 
+
+Percentage Output Loading=80.00 (Not mentioned in book) 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.2.a/Example1_2_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Output Voltage (Vo)=9.091 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.2.b/Example1_2_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Output Voltage (Vo)=9.990 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.2.c/Example1_2_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Output Voltage (Vo)=9.9999 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.3/Example1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ri=10.00 kohms 
+ 
+
+Ro=0 ohms 
+ 
+
+A=-10.00 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.4/Example1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Summing Amplifier : 
+ 
+
+ R1=20.00 kohms 
+ 
+
+ R2=15.00 kohms 
+ 
+
+ R3=30.00 kohms 
+ 
+
+ Rf=120.00 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.5/Example1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Function Generator : 
+ 
+
+ R1=10.00 kohms 
+ 
+
+ R2=300.00 kohms 
+ 
+
+ Rf=100.00 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.6/Example1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Difference Amplifier : 
+ 
+
+R1=100.00 kohms 
+ 
+
+R2=300.00 kohms 
+ 
+
+R3=75.00 kohms 
+ 
+
+R4=25.00 kohms 
+ 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.7.a/Example1_7_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loop Gain (T)>=1000.00 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.7.b/Example1_7_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Open Loop Gain (a)>=100000 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.7.c/Example1_7_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Feedback Factor (b) for A=100 is =0.00999 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.8.a/Example1_8_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Percentage change in A =0.1 percent 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.8.b/Example1_8_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Percentage change in A =0.0001 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.9.a/Example1_9_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aapprox  =
+ 
+    995.02488  
+ 
+ 
+ 
+ 
+ 
+ 
+ Anum  =
+ 
+    2.000D+08  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Roden  =
+ 
+    200.90022  
+ 
+ 
+ 
+ 
+ 
+ 
+Exact Value of A is =995.02 V/V 
+ 
+
+Approximate Value of A is =995.025 V/V 
+ 
+
+Ideal Value of A is =1000.000 V/V 
+ 
+
+Exact Value of Ri is =401.971 Mohms 
+ 
+
+Approximate Value of Ri is =402.000 Mohms 
+ 
+
+Ideal Value of Ri is infinity 
+ 
+
+Exact Value of Ro is =373.320 mohms 
+ 
+
+Approximate Value of Ro is =373.134 mohms 
+ 
+
+Approximate Value of Ro is =0.000 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.9.b/Example1_9_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note (as mentioned in the book): Because of much larger value, we simply ignore the exact calculations and use only the approximations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Approximate Value of A is =1 V/V 
+ 
+
+Ideal Value of A is =1.00 V/V 
+ 
+
+Approximate Value of Ri is =400.002 Gohms 
+ 
+
+Ideal Value of Ri is infinity 
+ 
+
+Approximate Value of Ro is =374.998 uohms 
+ 
+
+Approximate Value of Ro is =0 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.10.a/Example1_10_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A=-0.99999 V/V 
+ 
+
+Rn=0.50 ohms  
+ 
+
+Ri=100.00 kohms 
+ 
+
+Ro=0.75 mohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.10.b/Example1_10_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A=-995.01993 V/V 
+ 
+
+Rn=5.00 ohms 
+ 
+
+Ri=1.005 kohms 
+ 
+
+Ro=0.374 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.11.a/Example1_11_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ideal Gain of of the op amp (A)=-101.10 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.11.b/Example1_11_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Actual Gain of op amp=-100.8 V/V 
+ 
+
+Percentage Departure of Actual Gain from Ideal gain=-0.32 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.12.a/Example1_12_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RArec  =
+ 
+    0.0001843  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b=0.017 V/V 
+ 
+
+T=169.11 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.12.b/Example1_12_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RArec  =
+ 
+    0.0001843  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ideal Transfer Characterstic of the circuit vo=-(30.00*v1 
+ 
++15.00*v2 
+ 
++10.00*v3) 
+ 
+
+Actual Transfer Characterstic of the circuit vo=-(29.82*v1 
+ 
++14.91*v2 
+ 
++9.94*v3) 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.13/Example1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b=0.434 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.14.a/Example1_14_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iCC=0.50 mA 
+ 
+
+iEE=3.80 mA 
+ 
+
+iO=3.30 mA 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.14.b/Example1_14_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Dissipated inside the op amp=44.70 mW 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.15.a/Example1_15_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Source : 
+ 
+
+RA=25.00 kohms 
+ 
+
+RB=25.00 kohms 
+ 
+
+Rpot=100.00 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH1/EX1.15.b/Example1_15_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in Vs=3.750 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.1/Example2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T=133330 
+ 
+
+A=-0.999992 V/uA 
+ 
+
+Ri=5.0 ohms 
+ 
+
+Ro=0.563 mohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.2/Example2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed High Sensitivity I-V Converter : 
+ 
+
+R=1 Mohms 
+ 
+
+R1=1 kohms 
+ 
+
+R2=99 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.3.a/Example2_3_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iO=0.5 mA 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.3.b/Example2_3_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For Circuit shown in Fig.2.4(a) -18.0 V< vL < 
+ 
+8.0 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For Circuit shown in Fig.2.4(b) -13.0 V< vL < 
+ 
+13.0 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.3.c/Example2_3_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Max Value of RL for Circuit shown in Fig.2.4(a)= 16 kohms 
+ 
+
+Max Value of RL for Circuit shown in Fig.2.4(b)= 26 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.4/Example2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Current Source using Grounded Load Converter : 
+ 
+
+R1=15 kohms 
+ 
+
+R2=4.5 kohms 
+ 
+
+R3=15 kohms 
+ 
+
+R4=4.5 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.5.a/Example2_5_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ro can be anywhere in the range Ro>=375.00 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.5.b/Example2_5_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ro can be anywhere in the range Ro>=3.75 Mohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.5.c/Example2_5_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resistance tolerance Required=0.00750 percent 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.6/Example2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Current Source using Grounded Load Converter with trimmed R3 : 
+ 
+
+R1=15.00 kohms 
+ 
+
+R2=4.50 kohms 
+ 
+
+Rs=14.00 kohms 
+ 
+
+Rpot=2.00 kohms 
+ 
+
+R4=4.50 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.7/Example2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Output Resistance (Ro)=417 Mohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.8.a/Example2_8_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vo for (-0.1 V,+0.1 V)=2.00 V 
+ 
+
+vo for (4.9 V,5.1 V)=2.00 V 
+ 
+
+vo for (9.9 V,10.1 V)=2.00 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.8.b/Example2_8_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vo for (-0.1 V,+0.1 V)=1.965 V 
+ 
+
+vo for (4.9 V,5.1 V)=2.230 V 
+ 
+
+vo for (9.9 V,10.1 V)=2.495 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.9/Example2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) CMRR min=48.4 dB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b) Output Error vO=0.364 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(c) Required Resistance Tolerance=0.0275 percent 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.10.a/Example2_10_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Instrumentation Amplifier : 
+ 
+
+R1=100.00 kohms 
+ 
+
+R2=50.00 kohms 
+ 
+
+R3=50 kohms 
+ 
+
+R4=50 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.10.b/Example2_10_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Instrumentation Amplifier with trimmed resistances : 
+ 
+
+R1=100.00 kohms 
+ 
+
+R2=50.00 kohms 
+ 
+
+R3=50 kohms 
+ 
+
+R4=50 ohms 
+ 
+
+R5=100 kohms 
+ 
+
+R6=47.50 kohms 
+ 
+
+R7=5.00 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.10.c/Example2_10_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To calibrate the circuit, tie the inputs together and set the Rpot1 pot for the maximum gain (wiper all the way up). Then, while switching the common inputs back and forth between -5V and +5V, adjust the Rpot2 pot for the minimum change at the output. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.11.a/Example2_11_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R(T)=100.00 
+ 
+(1+0.00392 
+ 
+T) ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.11.b/Example2_11_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R(25 deg Celsius)=109.80 ohms 
+ 
+ 
+ 
+ 
+ 
+
+R(100 deg Celsius)=139.20 ohms 
+ 
+ 
+ 
+ 
+ 
+
+R(-15 deg Celsius)=94.12 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.11.c/Example2_11_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in R=3.92 ohms 
+ 
+
+Percentage Deviation=3.92 percent 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.12.a/Example2_12_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R1=15 kohms 
+ 
+
+A=258.5 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.12.b/Example2_12_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vO(100 deg Celsius)=9.974 V 
+ 
+ 
+ 
+
+Equivalent Temperature Error=0.26 deg Celsius 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.13.a/Example2_13_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Circuit for Calibration : 
+ 
+
+R1=13.7 kohms 
+ 
+
+R2=500 ohms 
+ 
+
+R3=1 kohms 
+ 
+
+A=257.8 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.13.b/Example2_13_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To calibrate, first set T=0 degree Celsius and adjust R2 for vO=0 V. Then set T=100 degree Celsius and adjust R3 for vO=10.0 V. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH2/EX2.14/Example2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) R1=2.37 kohms 
+ 
+
+    R2=1 kohms 
+ 
+
+    R3=50 ohms 
+ 
+
+    R4=200 ohms 
+ 
+ 
+ 
+
+
+(b) To calibrate, first adjust R2 so that with no strain we get vO=o V. Then supply a known strain, preferably near the full scale, and adjust R3 for the desired value of vO. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.3/Example3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vO(t)=4.472 
+ 
+cos((10^3)t+108.43 
+ 
+) V 
+ 
+ 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.4.a/Example3_4_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Components for achieving the mentioned requirements : 
+ 
+
+R1=15.8 kohms 
+ 
+
+R2=158 kohms 
+ 
+
+C=1 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.4.b/Example3_4_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The frequency at which gain drops to 0dB=9.950 kHz 
+ 
+
+Corresponding phase=95.74 deg 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.5/Example3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Wideband Band Pass Filter : 
+ 
+
+R1=7.87 kohms 
+ 
+
+R2=78.7 kohms 
+ 
+
+C1=1 uF 
+ 
+
+C2=101 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.6/Example3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed RIAA phono Amplifier : 
+ 
+
+R1=340 ohms 
+ 
+
+R2=316 kohms 
+ 
+
+R3=28.0 kohms 
+ 
+
+C1=33 uF 
+ 
+
+C2=10 nF 
+ 
+
+C3=2.7 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.7/Example3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Bass/Trebble Control : 
+ 
+
+R1=11 kohms 
+ 
+
+R2=100 kohms 
+ 
+
+R3=3.6 kohms 
+ 
+
+R4=500 kohms 
+ 
+
+R5=11 kohms 
+ 
+
+C1=51 nF 
+ 
+
+C2=5.1 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.8/Example3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Equal Component Second Order Low Pass Filter : 
+ 
+
+R=15.92 kohms 
+ 
+
+RA=10.00 kohms 
+ 
+
+RB=17.80 kohms 
+ 
+
+C=10.00 nF 
+ 
+
+
+dc gain (K)=2.80 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.9/Example3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Second Order Low Pass Filter for 0dB dc gain : 
+ 
+
+R1A=44.56 kohms 
+ 
+
+R1B=24.76 kohms 
+ 
+
+R2=15.92 kohms 
+ 
+
+RA=10.00 kohms 
+ 
+
+RB=17.80 kohms 
+ 
+
+C=10.00 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.10/Example3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Unity Gain Low Pass Filter : 
+ 
+
+R1=5.76 kohms 
+ 
+
+R2=2.20 kohms 
+ 
+
+C1=20 nF 
+ 
+
+C2=1 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.11.a/Example3_11_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Second Order Low Pass Butterworth Filter : 
+ 
+
+R1=11.25 kohms 
+ 
+
+R2=11.25 kohms 
+ 
+
+C1=2 nF 
+ 
+
+C2=1 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.11.b/Example3_11_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vo(t)=2.425 cos(4*pi*(10^4)*t+ 
+ 
+46.69) V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.12/Example3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed High Pass KRC Filter : 
+ 
+
+R1=2.65 kohms 
+ 
+
+R2=23.87 kohms 
+ 
+
+C1=0.1 uF 
+ 
+
+C2=0.1 uF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.13.a/Example3_13_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed KRC Second Order Band Pass filter 
+ 
+
+R1=R2=R3=22.5 kohms 
+ 
+
+RA=10.00 kohms 
+ 
+
+RB=28.59 kohms 
+ 
+
+C1=C2=10.00 nF 
+ 
+
+
+Resonance Gain=27.28 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.13.b/Example3_13_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed KRC Second Order Band Pass filter with 20 dB Resonance Gain 
+ 
+
+R1A=61.90 kohms 
+ 
+
+R1B=35.70 kohms 
+ 
+
+RA=10.00 kohms 
+ 
+
+RB=28.59 kohms 
+ 
+
+C1=C2=10.00 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.14/Example3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Second Order Notch Filter : 
+ 
+
+R1=26.53 kohms 
+ 
+
+R2=13.26 kohms 
+ 
+
+RA=10.00 kohms 
+ 
+
+RB=9.58 kohms 
+ 
+
+C1=100.00 nF 
+ 
+
+C2=200.00 nF 
+ 
+
+
+Low and High Frequency Gain=1.96 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.15/Example3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Multiple Feedback Band Pass Filter : 
+ 
+
+R1A=15.92 kohms 
+ 
+
+R1B=837.66 ohms 
+ 
+
+R2=318.31 kohms 
+ 
+
+C1=10.00 nF 
+ 
+
+C2=10.00 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.16/Example3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Multiple Feedback Low Pass Filter : 
+ 
+
+R1=1.19 kohms 
+ 
+
+R2=530.52 ohms 
+ 
+
+R3=2.39 kohms 
+ 
+
+C1=0.20 uF 
+ 
+
+C2=1.00 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.17/Example3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Multiple Feedback Notch Filter : 
+ 
+
+R1A=159.15 kohms 
+ 
+
+R1B=799.77 ohms 
+ 
+
+R2=318.31 kohms 
+ 
+
+R3=10.00 kohms 
+ 
+
+R4=10.00 kohms 
+ 
+
+R5=10.00 kohms 
+ 
+
+C1=C2=10.00 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.18/Example3_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed State-Variable Filter for Bandpass Response : 
+ 
+
+R1=1.00 kohms 
+ 
+
+R2=299.00 kohms 
+ 
+
+R3=R4=R5=15.80 kohms 
+ 
+
+C1=C2=10.00 nF 
+ 
+
+
+Resonance Gain=100.00 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.19/Example3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Biquad Filter : 
+ 
+
+R1=78.70 kohms 
+ 
+
+R2=795.77 kohms 
+ 
+
+R3=795.77 kohms 
+ 
+
+R4=19.89 kohms 
+ 
+
+R5=19.89 kohms 
+ 
+
+C1=C2=1.00 nF 
+ 
+
+
+Resonance Gain (Holp)=-11.94 dB 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.20/Example3_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Designed Biquad Filter for a low pass notch response : 
+ 
+
+R=15.80 kohms 
+ 
+
+R1=158 kohms 
+ 
+
+R2=100.00 kohms 
+ 
+
+R3=100.00 kohms 
+ 
+
+R4=3.33 kohms 
+ 
+
+R5=25.00 kohms 
+ 
+
+C=10.00 nF 
+ 
+
+
+High Frequency Gain (Hohp)=-12.04 dB 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.21.a/Example3_21_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sensitivities for Example 3.8 : 
+ 
+
+SR=4.50 percent 
+ 
+
+SC=9.50 percent 
+ 
+
+SRA=-9.00 percent 
+ 
+
+SK=14.00 percent 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.21.b/Example3_21_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sensitivities for Example 3.10 : 
+ 
+
+SR=-0.22 percent 
+ 
+
+SC=0.50 percent 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.1/Example4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n=8 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.2/Example4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Chebyshev Filter : 
+ 
+
+Section I : 
+ 
+
+R1=10.64 kohms 
+ 
+
+R2=10.08 kohms 
+ 
+
+C1=5.10 nF 
+ 
+
+C2=2.20 nF 
+ 
+
+
+Section II : 
+ 
+
+R1=8.12 kohms 
+ 
+
+R2=6.48 kohms 
+ 
+
+C1=10.00 nF 
+ 
+
+C2=510.00 pF 
+ 
+
+
+Section III : 
+ 
+
+R1=4.55 kohms 
+ 
+
+R2=2.44 kohms 
+ 
+
+C1=62.00 nF 
+ 
+
+C2=220.00 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.3/Example4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Cauer Low Pass Filter : 
+ 
+
+Section I : 
+ 
+
+R=110 kohms 
+ 
+
+R1=69.69 kohms 
+ 
+
+R2=100 kohms 
+ 
+
+R3=100 kohms 
+ 
+
+R4=4.05 kohms 
+ 
+
+R5=2.47 kohms 
+ 
+
+C=2.20 nF 
+ 
+
+
+Section II : 
+ 
+
+R=78.93 kohms 
+ 
+
+R1=140 kohms 
+ 
+
+R2=100 kohms 
+ 
+
+R3=100 kohms 
+ 
+
+R4=24.3 kohms 
+ 
+
+R5=30.33 kohms 
+ 
+
+C=2.20 nF 
+ 
+
+
+Section III : 
+ 
+
+R=69.80 kohms 
+ 
+
+R1=549.00 kohms 
+ 
+
+R2=100 kohms 
+ 
+
+R3=100 kohms 
+ 
+
+R4=20 kohms 
+ 
+
+R5=61.90 kohms 
+ 
+
+C=2.20 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.4/Example4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Chebyshev High Pass Filter : 
+ 
+
+Second Order High Pass Section : 
+ 
+
+R1=7.71 kohms 
+ 
+
+R2=54.90 kohms 
+ 
+
+C=100.00 nF 
+ 
+
+
+First Order High Pass Section : 
+ 
+
+R1=15.40 kohms 
+ 
+
+Rf=154.00 kohms 
+ 
+
+C=100.00 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.5/Example4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Butterworth Band Pass Filter : 
+ 
+
+Section I : 
+ 
+
+R1A=158 kohms 
+ 
+
+R1B=698 ohms 
+ 
+
+R2=316 kohms 
+ 
+
+C1=10 nF 
+ 
+
+C2=10 nF 
+ 
+
+Potentiometer Resistance (Rpot)=200 ohms 
+ 
+
+
+Section II : 
+ 
+
+R1A=154 kohms 
+ 
+
+R1B=332 ohms 
+ 
+
+R2=604 kohms 
+ 
+
+C1=10 nF 
+ 
+
+C2=10 nF 
+ 
+
+Potentiometer Resistance (Rpot)=100 ohms 
+ 
+
+
+Section III : 
+ 
+
+R1A=165 kohms 
+ 
+
+R1B=365 ohms 
+ 
+
+R2=665 kohms 
+ 
+
+C1=10 nF 
+ 
+
+C2=10 nF 
+ 
+
+Potentiometer Resistance (Rpot)=100 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.6/Example4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q2  =
+ 
+    21.97  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Elliptic Band Pass Filter : 
+ 
+
+Stage I (High pass notch biquad stage) 
+ 
+
+R=17.4 kohms 
+ 
+
+R1=383 kohms 
+ 
+
+R2=100 kohms 
+ 
+
+R3=100 kohms 
+ 
+
+R4=14.8 kohms 
+ 
+
+R5=100 kohms 
+ 
+
+C=10 nF 
+ 
+
+Rex=14.70 kohms 
+ 
+
+Rexpot=5 kohms 
+ 
+
+
+Stage II (low pass notch biquad stage) 
+ 
+
+R=14.30 kohms 
+ 
+
+R1=316 kohms 
+ 
+
+R2=100 kohms 
+ 
+
+R3=100 kohms 
+ 
+
+R4=10.20 kohms 
+ 
+
+R5=69.2 kohms 
+ 
+
+C=10 nF 
+ 
+
+Rex=11.80 kohms 
+ 
+
+Rexpot=5 kohms 
+ 
+
+
+Stage III (Multiple feedback band pass stage) 
+ 
+
+R2=309 kohms 
+ 
+
+R1A=124 kohms 
+ 
+
+R1B=732 ohms 
+ 
+
+Rpot=200 ohms 
+ 
+
+C=10 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.7/Example4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Chebyshev Band Reject Filter : 
+ 
+
+Stage I(High pass notch Biquad section) 
+ 
+
+R=4.60 kohms 
+ 
+
+R1=144.43 kohms 
+ 
+
+R2=100.00 kohms 
+ 
+
+R3=100.00 kohms 
+ 
+
+R4=38.59 kohms 
+ 
+
+R5=100.00 kohms 
+ 
+
+C=10.00 nF 
+ 
+
+
+Stage II(Low pass notch Biquad section) 
+ 
+
+R=4.25 kohms 
+ 
+
+R1=133.44 kohms 
+ 
+
+R2=100.00 kohms 
+ 
+
+R3=100.00 kohms 
+ 
+
+R4=41.94 kohms 
+ 
+
+R5=108.22 kohms 
+ 
+
+C=10.00 nF 
+ 
+
+
+Stage III(Symmetric Notch Section) 
+ 
+
+C0=10.00 uF 
+ 
+
+CC1=274.99 pF 
+ 
+
+CL1=372.71 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.8/Example4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Dual Amplifier Band Pass Filter : 
+ 
+
+C=10.00 nF 
+ 
+
+L=0.63 H 
+ 
+
+R=198.94 kohms 
+ 
+
+
+Components of General Impedance Converter : 
+ 
+
+C2=10.00 nF 
+ 
+
+R1=R3=R4=R5=7.96 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.9/Example4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed General Impedance Converter Low Pass Filter : 
+ 
+
+R0=1 Mohms 
+ 
+
+Capacitance denoted by R inverse=0.1 uF 
+ 
+
+Resistance associated with C=3.18 pohms 
+ 
+
+Resistance associated with L=8.06 kohms 
+ 
+
+C1=C2=C5=10 nF 
+ 
+
+R2=R3=R4=31.60 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.10/Example4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Low Pass Filter : 
+ 
+
+R1new=14.30 kohms 
+ 
+
+R2new=1.54 kohms 
+ 
+
+R3new=18.70 kohms 
+ 
+
+R4new=7.67 kohms 
+ 
+
+R5new=16.75 kohms 
+ 
+
+R6new=5.36 kohms 
+ 
+
+R7new=11.50 kohms 
+ 
+
+D2new= 
+ 
+ 
+    1.281D-14  
+ 
+ 
+
+D4new= 
+ 
+ 
+    9.082D-15  
+ 
+ 
+
+D6new= 
+ 
+ 
+    9.701D-15  
+ 
+ 
+
+C=1.00 nF 
+ 
+
+R4=R5=10.00 kohms 
+ 
+
+R21=12.81 kohms 
+ 
+
+R22=9.08 kohms 
+ 
+
+R23=9.70 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.11/Example4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed High Pass Filter : 
+ 
+
+Rnew=100 kohms 
+ 
+
+C1new=5.16 nF 
+ 
+
+C2new=35.05 nF 
+ 
+
+C3new=3.25 nF 
+ 
+
+C4new=12.03 nF 
+ 
+
+C5new=6.51 nF 
+ 
+
+L2new=43.66 H 
+ 
+
+L4new=56.72 H 
+ 
+
+
+The elements for GIC : 
+ 
+
+R1=R3=R4=R5=66.07 kohms 
+ 
+
+R2=R6=75.32 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.12/Example4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Switched Capacitor Biquad Filter : 
+ 
+
+C1=1.00 pF 
+ 
+
+C2=15.92 pF 
+ 
+
+C3=1.41 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.13/Example4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Switched Capacitor Low Pass Filter for Butterworth Response : 
+ 
+
+CRi=CRo=C0=1.00 pF 
+ 
+
+CC1=CC5=9.84 pF 
+ 
+
+CL2=CL4=25.75 pF 
+ 
+
+CC3=31.83 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH4/EX4.14/Example4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Switched Capacitor Band Pass Filter : 
+ 
+
+Ri=R0=Rs=1.00 ohms 
+ 
+
+CRi=CRo=C0=1.00 pF 
+ 
+
+CC1=15.92 pF 
+ 
+
+C1=22.36 pF 
+ 
+
+CL1=11.33 pF 
+ 
+
+CC2=14.81 pF 
+ 
+
+CL2=16.50 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.1.a/Example5_1_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eo=(+-)175.00 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.1.b/Example5_1_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eo=(+-)44 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.1.c/Example5_1_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eo=(+-)4.40 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.1.d/Example5_1_d.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eo=(+-)0.7 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.2.a/Example5_2_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Time taken by the op amp to enter saturation (t)=0.1625 sec 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.2.b/Example5_2_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Time taken by the op amp to enter saturation (t)=0.65 sec 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.3/Example5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IB(100degC)=0.18 nA 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.4.a/Example5_4_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Typical change in vo=3.16 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.4.b/Example5_4_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Typical change in vo=0.141 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.5/Example5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The output ripple is=3.00 mV(typical) 
+ 
+ and 15.01 mV(maximum) peak to peak 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.6/Example5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worst Change in Vos=(+-)885.00 uV 
+ 
+
+The most probable change in Vos=(+-)145 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.7/Example5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R1=47.00 kohms 
+ 
+
+R2=470.00 kohms 
+ 
+
+Rp=43 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.8/Example5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R1=30.00 kohms 
+ 
+
+R2=150.00 kohms 
+ 
+
+Rp=24.00 kohms 
+ 
+
+RA=1.00 kohms 
+ 
+
+RB=1.00 Mohms 
+ 
+
+RC=100.00 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.9.a/Example5_9_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R1=25.50 kohms 
+ 
+
+R2=102.00 kohms 
+ 
+
+Rp=20 kohms 
+ 
+
+RA=100 ohms 
+ 
+
+RB=100 kohms 
+ 
+
+RC=100 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.9.b/Example5_9_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R1=1010 ohms 
+ 
+
+R2=100.00 kohms 
+ 
+
+Rp=1 kohms 
+ 
+
+RA=101 ohms 
+ 
+
+RB=200 kohms 
+ 
+
+RC=100 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.10/Example5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RA=2 kohms 
+ 
+
+RB=100 kohms 
+ 
+
+RC=100 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.11/Example5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Current at 100degC=3.9 mA 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH5/EX5.12/Example5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IC14=26 mA 
+ 
+
+IB14=0.104 mA 
+ 
+
+IC15=76 uA 
+ 
+
+Isc=26 mA 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.1.a/Example6_1_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+f<=14.2 kHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.1.b/Example6_1_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+f<=8.75 kHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.2.a/Example6_2_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Audio Amplifier : 
+ 
+
+Operational Amplifier-1 : 
+ 
+
+R1=1.00 kohms 
+ 
+
+R2=30.9 kohms 
+ 
+
+
+Operational Amplifier-2 : 
+ 
+
+R1=1.00 kohms 
+ 
+
+R2=30.9 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.2.c/Example6_2_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Actual Bandwidth (fB)=20.35 kHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.4/Example6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Element Values in the Equivalent Circuit of Zi : 
+ 
+
+Rs=1.00 Mohms 
+ 
+
+Rp=1.67 Gohms 
+ 
+
+Ceq=1.59 pF 
+ 
+
+
+Breakpoint Frequencies of Magnitude Plot : 
+ 
+
+fB=100.00 kHz 
+ 
+
+f1=60.00 Hz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.5/Example6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Element Values in the Equivalent Circuit of Zo : 
+ 
+
+Rs=10 mohms 
+ 
+
+Rp=100.00 ohms 
+ 
+
+Leq=159 uH 
+ 
+
+
+Breakpoint Frequencies of Magnitude Plot : 
+ 
+
+fb=10.00 Hz 
+ 
+
+ft=1.00 MHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.6.a/Example6_6_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A(jf)=(-1000000 V/A) 
+ 
+/(1+(jf/100000)) 
+ 
+
+Zi(jf)=5 
+ 
+*(1+j(f/5)) 
+ 
+/(1+(jf/100000)) ohms 
+ 
+
+Zo(jf)=4 
+ 
+*(1+j(f/5)) 
+ 
+/(1+(jf/100000)) mohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.8.a/Example6_8_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fmax=16 kHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.8.b/Example6_8_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Value of Vim before the output distorts=0.796 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.8.c/Example6_8_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Useful Frequency Range of Operation f<=100.00 kHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.8.d/Example6_8_d.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Useful Input Amplitude Range is Vim<=1.30 V
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.9/Example6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Qreler  =
+ 
+    0.01  
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Biquad Filter : 
+ 
+
+R1=R2=R5=R6=10.00 kohms 
+ 
+
+R3=R4=250.00 kohms 
+ 
+
+C1=C2=1.59 nF 
+ 
+ ft  =
+ 
+    1.000D+08  
+
+GBP>=100.00 MHz
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.10.b/Example6_10_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Qreler  =
+ 
+    0.01  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Biquad Filter : 
+ 
+
+R1=R2=R5=R6=10.00 kohms 
+ 
+
+R3=R4=250.00 kohms 
+ 
+
+C1=C2=1.576 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.11/Example6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Percentage Deviation of cut off frequency=0.16 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.12/Example6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Components for the mentioned circuit : 
+ 
+
+R1=15.92 kohms 
+ 
+
+R2=78.58 ohms 
+ 
+
+R3=31.83 kohms 
+ 
+
+GBP>=20.00 MHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.14/Example6_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ceq=0.64 pF 
+ 
+
+iN=7.04 uA 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.15/Example6_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Values of R1, fB and tR for A0=1 : 
+ 
+
+R1=infinity 
+ 
+
+fB=96.77 MHz 
+ 
+
+tR=3.62 nS 
+ 
+
+
+Values of R1, fB and tR for A0=10 : 
+ 
+
+R1=166.67 ohms 
+ 
+
+fB=75.00 MHz 
+ 
+
+tR=4.67 nS 
+ 
+
+
+Values of R1, fB and tR for A0=100 : 
+ 
+
+R1=15.15 ohms 
+ 
+
+fB=23.08 MHz 
+ 
+
+tR=15.17 nS 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH6/EX6.16/Example6_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Redisigned Current Feedback Amplifier of Example 6.15 : 
+ 
+
+    R1=111 ohms 
+ 
+
+    R2=1.00 kohms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Percentage dc gain error=-0.2 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.1.a/Example7_1_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estimated RMS input voltage=0.77 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.1.b/Example7_1_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estimated RMS input voltage=2.92 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.1.c/Example7_1_c.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estimated RMS input voltage=20.0 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.3/Example7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estimated rms noise voltage=77.5 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.4/Example7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Noise Voltage(eR)=12.83 nV/sqrt(Hz) 
+ 
+ 
+ 
+
+(b) Noise Current(iR)=1.28 pA/sqrt(Hz) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(c) rms noise voltage over audio range=1.81 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.5.a/Example7_5_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signal to Noise Ratio=64.9 dB 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.5.b/Example7_5_b.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signal to Noise Ratio=34.9 dB 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.7.a/Example7_7_a.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RMS Output Noise Voltage=154 uV 
+ 
+
+Peak to Peak Noise Voltage=1.01 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.8/Example7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    7019.316  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resistances after scaling are : 
+ 
+
+R1=5.26 kohms 
+ 
+
+R2=10.5 kohms 
+ 
+
+R3=3.5 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.9/Example7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SNR of the circuit of Example 7.7=73.2 dB 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.10/Example7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RMS Noise Voltage (Eno)=611.10 uV 
+ 
+
+Peak to Peak Noise Voltage (Eno)=4.03 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.11/Example7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Output Noise=222 uV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.12/Example7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cc=C2=0.5 pF 
+ 
+
+R3=500 ohms 
+ 
+
+C3=10 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH7/EX7.13/Example7_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Designed T Network : 
+ 
+
+    R1=100.00 Gohms 
+ 
+
+    R2=36.4 Mohms 
+ 
+
+    R3=1.00 kohms 
+ 
+
+    R4=26.50 kohms 
+ 
+
+    C1=2.00 nF 
+ 
+
+    C2=0.50 pF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Total rms Output Noise=1.50 mV 
+ 
+
+    Bandwidth(fB)=318 Hz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.1/Example8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Gain Margin(GM)=20.83 dB 
+ 
+
+(b) Phase Margin(PM)=47.4 degrees 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(c) T0 for PM=60 degrees=5760 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.2/Example8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fx=10.00 kHz 
+ 
+
+Q=100 
+ 
+
+Phase Margin (PM)=0.6 degrees 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.3/Example8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Phase Margin with Cf absent=14.7 degrees 
+ 
+
+(b) Cf for PM=90 degrees=16.00 pF 
+ 
+
+(c) A(jf)= 
+ 
+ 
+                                    
+                 -1                 
+   -------------------------------  
+                                 2  
+    1 + i*0.0000031f - 3.016D-13f   
+ 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.4/Example8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A(jf)= 
+ 
+ 
+                       
+           2           
+   ------------------  
+                       
+    1 + i*0.0000001f   
+ 
+ 
+V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.5/Example8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Rs=50 ohms 
+ 
+
+    Cf=56 pF 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) A(jf)= 
+ 
+ 
+                                    
+                 -2                 
+   -------------------------------  
+                                 2  
+    1 + i*0.0000074f - 2.121D-12f   
+ 
+ 
+V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.6/Example8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+|a(j*fmin135)|=470 V/V 
+ 
+
+|a(j*fmin180)|=63.7 V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.7/Example8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fd=233 Hz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.8/Example8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) fd=10 Hz 
+ 
+
+    Cc=159 nF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) fd=20 Hz 
+ 
+
+    Cc=79.6 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.9/Example8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) f1new=100 Hz 
+ 
+
+    f2new=77 MHz 
+ 
+
+    Cc=31.8 pF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) f1new=200 Hz 
+ 
+
+    f2new=71 MHz 
+ 
+
+    Cc=15.9 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.10/Example8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cc=15.9 nF 
+ 
+
+Rc=10 ohms 
+ 
+
+R1=100 kohms 
+ 
+
+C1=15.92 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.11/Example8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Rc=447.4 ohms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) DC Gain Error=-0.24 percent 
+ 
+ 
+ 
+ 
+ 
+
+
+(c) DC Output Error=244 mV 
+ 
+ 
+ 
+
+
+(d) f-3dB=3 MHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.12/Example8_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Rc=447.4 ohms 
+ 
+
+    Cc=1.186 nF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) DC Gain Error=-0.011 percent 
+ 
+ 
+ 
+ 
+ 
+
+
+(c) DC Output Error=11 mV 
+ 
+ 
+ 
+
+
+(d) f-3dB=3 MHz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(e) Actual Phase Margin=34.4 degrees 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.13/Example8_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) PM=0.2 degrees indicating a circuit in bad need of compensation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) PM after compensation=52.5 degrees 
+ 
+ 
+ 
+
+
+(c) f-3dB=327 kHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.14/Example8_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Rc=3 kohms 
+ 
+
+    Rf=12 kohms 
+ 
+
+    Cc=133 pF 
+ 
+
+
+(b) A(jf)=1/[1+jf/(4 MHz)] V/V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.15/Example8_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cf=1.88 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.16/Example8_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Composite Amplifier with feedback Lead Compensation Parameters : 
+ 
+
+    PM=45 degrees 
+ 
+
+    T0= 
+ 
+ 
+    4.000D+08  
+ 
+ 
+    fB=100 kHz 
+ 
+
+
+    Single Op Amp Parameters : 
+ 
+
+    PM=90 degrees 
+ 
+
+    T0= 
+ 
+ 
+    2000.  
+ 
+ 
+    fB=10 kHz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Cf=50.8 pF 
+ 
+
+    fp=31.62 kHz 
+ 
+
+    PM=78.6 degrees 
+ 
+
+
+(c) Increasing Cf above 50.8 pF will reduce PM until eventually PM=0 degrees, 
+ 
+
+    indicating the overcompensation is decremental. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH8/EX8.17/Example8_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Components for the Circuit : 
+ 
+
+R1=1 kohms 
+ 
+
+R2=100 kohms 
+ 
+
+R3=2 kohms 
+ 
+
+R4=18 kohms 
+ 
+
+Associated Parameters with the Circuit : 
+ 
+
+T0= 
+ 
+ 
+    19900.744  
+ 
+ 
+fB=100 kHz 
+ 
+
+
+Single Op Amp Parameters : 
+ 
+
+T0= 
+ 
+ 
+    1980.198  
+ 
+ 
+fB=10 kHz 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH9/EX9.1/Example9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worst Case Error=8 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH9/EX9.2/Example9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Circuit for Voltage Indicator : 
+ 
+
+
+Circuit Elements for Overvoltage Circuit : 
+ 
+
+R1=10 kohms 
+ 
+
+R2=42.20 kohms 
+ 
+
+R4=5.6 kohms 
+ 
+
+
+Circuit Elements for Undervoltage Circuit : 
+ 
+
+R1=10 kohms 
+ 
+
+R2=30.1 kohms 
+ 
+
+R3=10 kohms 
+ 
+
+R4=3.9 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH9/EX9.3/Example9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed On-Off Temperature Controller : 
+ 
+
+R1=31.7 kohms 
+ 
+
+R2=5.00 kohms 
+ 
+
+R3=32.3 kohms 
+ 
+
+R4=2 kohms 
+ 
+
+R5=6.2 kohms 
+ 
+
+R6=10 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH9/EX9.4/Example9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ VCC  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Video Detector : 
+ 
+
+R1=10.00 kohms 
+ 
+
+R2=1.05 kohms 
+ 
+
+R3=10 kohms 
+ 
+
+R4=4.30 kohms 
+ 
+
+R5=2.70 kohms 
+ 
+
+R6=330.00 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH9/EX9.5/Example9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designing Single Supply Inverting Schmitt trigger : 
+ 
+
+R1=40.00 kohms 
+ 
+
+R2=66.7 kohms 
+ 
+
+R3=100 kohms 
+ 
+
+R4=2.2 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH9/EX9.6/Example9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed On-Off Temperature Controller : 
+ 
+
+R1=31.7 kohms 
+ 
+
+R2=5.00 kohms 
+ 
+
+R3=32.3 kohms 
+ 
+
+R4=2 kohms 
+ 
+
+R5=6.2 kohms 
+ 
+
+R6=10 kohms 
+ 
+
+Feedback Resistance (Rf)=750 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH10/EX10.1/Example10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Square Wave Generator : 
+ 
+
+R1=33 kohms 
+ 
+
+R2=33 kohms 
+ 
+
+R3=2.46 kohms 
+ 
+
+Rs=6.41 kohms 
+ 
+
+Rpot=250.00 kohms 
+ 
+
+R4=10.00 kohms 
+ 
+
+C1=3.3 uF 
+ 
+
+C2=0.33 uF 
+ 
+
+C3=33 nF 
+ 
+
+C4=3.3 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH10/EX10.3/Example10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Astable Multivibrator : 
+ 
+
+RA=14.4 kohms 
+ 
+
+RB=7.20 kohms 
+ 
+
+C=1 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH10/EX10.4/Example10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Range of Variation of f0 :27.8 kHz<=f0<= 
+ 
+78.5 kHz 
+ 
+
+Range of Percentage Variation of D : 
+ 
+61.1 
+ 
+<=D<= 
+ 
+86.2 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH10/EX10.5/Example10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Basic Triangular/Square Wave Generator : 
+ 
+
+R=2.5 kohms 
+ 
+
+R1=20 kohms 
+ 
+
+R2=10 kohms 
+ 
+
+R3=1.78 kohms 
+ 
+
+C=5 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH10/EX10.6/Example10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Components for the Circuit : 
+ 
+
+R=27.5 kohms 
+ 
+
+Rsym=5 kohms 
+ 
+
+Rthd=100 kohms 
+ 
+
+C=1 nF 
+ 
+
+To calibrate the circuit, adjust Rsym so that the square wave has D(percent)=50, 
+ 
+
+and Rthd until the THD of the sine wave is minimized. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH10/EX10.7/Example10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Celsius to Frequency Converter : 
+ 
+
+R=2.564 kohms 
+ 
+
+R1=573 ohms 
+ 
+
+R2=7.29 kohms 
+ 
+
+R3=2.74 kohms 
+ 
+
+C=3.9 nF 
+ 
+
+To calibrate, place the IC in a 0 deg Celsius environment and adjust R2, 
+ 
+
+so that the circuit is barely oscillating, say fo=1 Hz. Then move the IC to 
+ 
+
+a 100 deg Celsius environment and adjust R1 for f0=1 kHz. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH10/EX10.8/Example10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Voltage to Frequency Converter : 
+ 
+
+R=40.0 kohms 
+ 
+
+C=333 pF 
+ 
+
+C1=1 nF 
+ 
+
+RA=62 ohms 
+ 
+
+RB=150 kohms 
+ 
+
+RC=100 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.1/Example11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Line Regulation=0.0033 percent/V 
+ 
+
+    Load Regulation=0.2 percent/A 
+ 
+
+    Output Impedance=0.01 ohms 
+ 
+
+
+(b) Amount of Output Ripple for every volt of Vri=0.126 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.2/Example11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Variation of Vo with change in Vi=2.15 mV 
+ 
+
+(b) Variation of Vo with change in Io=1 mV 
+ 
+
+(c) Variation of Vo with change in temperature=0.7 mV 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.3/Example11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Rs=270 ohms 
+ 
+
+    Line Regulation=0.55 percentage/V 
+ 
+
+    Load regulation=-0.15 percentage/mA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Percentage Change of Vo with change in VI=5.5 percentage 
+ 
+
+    Percentage Change of Vo with change in Io=-1.5 percentage 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.4/Example11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Line Regulation=7.4 ppm/V 
+ 
+
+Load Regulation=-0.06 ppm/mA 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.5/Example11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(R4/R3)=8.87 
+ 
+
+(R2/R1)=2.9 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.6/Example11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) R=500 ohms 
+ 
+
+
+(b) TC(Io)=120 nA/V 
+ 
+
+    Ro(min)=8.33 Mohms 
+ 
+
+
+(c) VL<=7 V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.7/Example11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) R=25 ohms 
+ 
+
+    R1=25 kohms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Voltage Compliance (VL)=12.3 V 
+ 
+
+    The 741 inputs are at 12.5 V which is within the input voltage range specifications. 
+ 
+
+    The 741 output is at 10.8 V which is below VOH=13 V. 
+ 
+
+    The 741 sinks a current of 1 mA which is below Isc=25 mA. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.8/Example11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In practice we would use R3=52.3 ohms,1 percent and make R1 and R2 adjustable as follows : 
+ 
+
+(a) Place the hot junction in an ice bath and adjust R1 for Vo(Tj)=0 V; 
+ 
+
+(b) Place the hot junction in a hot environment of known temperature and adjust R2 
+ 
+
+    for the desired ouput(the second adjustment can also be performed with 
+ 
+
+    the help of a thermocouple voltage simulator). 
+ 
+
+To suppress noise pickup by the thermocouple wires, use an RC filter, say R=10 kohms 
+ 
+
+and C=10.1 uF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.9/Example11_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b2  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) R2/R1=2.9 
+ 
+
+
+(b) The error amplifier must thus force IOA=0.47 mA 
+ 
+
+                                        VOA=7 V 
+ 
+ 
+ 
+ 
+ 
+
+
+(c) The dropout voltage VDO=2.5 V 
+ 
+ 
+ 
+
+
+(d) Maximum Percentage efficiency=67 percentage 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.10/Example11_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Isc=1.5 A 
+ 
+
+    Rsc=0.47 ohms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Ifb=4 A 
+ 
+
+    Rfb=0.61 ohms 
+ 
+
+    R3=160 ohms 
+ 
+
+    R4=540 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.11/Example11_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R7=880 ohms 
+ 
+
+R8=400 ohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.12/Example11_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Permissible input range :17 V<= 
+ 
+VCC<=35 V 
+ 
+
+The percentage values of line and load regulation are the same as for the 7805; 
+ 
+
+however, their mV/V and mV/A values are now 3 times as large. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.13/Example11_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R=1.25 ohms 
+ 
+,1.25 W 
+ 
+
+Voltage Compliance=11.75 V 
+ 
+
+Minimum Equivalent Resistance=1.05 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.14/Example11_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Maximum Power Dissipated (PDmax)=1.67 W 
+ 
+
+    Case Temperature (TC)=145 degCelsius 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Maximum Current that can be drawn=0.556 A 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.15/Example11_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+thetaSA=6 degCelsius/W 
+ 
+
+According to the catalogs, a suitable heatsink example is the IERC HP1 series, 
+ 
+
+whose thetaSA rating is in the range of 5 degCelsius/W to 6 degCelsius/W. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.16/Example11_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vref  =
+ 
+    2.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Circuit Components : 
+ 
+
+COV=8.2 nF 
+ 
+
+CUV=43 nF 
+ 
+
+R1=10.0 kohms 
+ 
+
+R2=16.2 kohms 
+ 
+
+R3=45.3 kohms 
+ 
+
+R4=36.5 kohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.17/Example11_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) D=41.7 percentage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) D=46.7 percentage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(c) Duty Cycle for case(a): 31.2<=D(percentage) 
+ 
+<=62.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    Duty Cycle for case(b): 35.2<=D(percentage) 
+ 
+<=69.5 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.18/Example11_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L=61 uH 
+ 
+
+At full load the coil must withstand Ip=2.64 A 
+ 
+ and Irms=2.4 A 
+ 
+
+Minimum Load Current (Iomin)=0.1 A 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.19/Example11_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C=177 uF 
+ 
+
+Equivalent Series Resistance (ESR)=25 mohms 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.20/Example11_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Efficiency of Buck Regulator=81 percent 
+ 
+
+Efficiency of Linear Regulator=33 percent 
+ 
+
+Hence the Buck Regulator is most efficient than a Linear Regulator. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH11/EX11.21/Example11_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Error Amplifier : 
+ 
+
+R2=10 kohms 
+ 
+
+R3=866 ohms 
+ 
+
+R4=16 kohms 
+ 
+
+C1=240.0 pF 
+ 
+
+C2=10.8 nF 
+ 
+
+C3=17.3 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH12/EX12.1/Example12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DNL  =
+ 
+    0.    0.  - 0.5    1.  - 1.5    1.5  - 1.    0.5  
+ 
+ 
+INL= 
+ 
+ 
+    0.    0.  - 0.5    0.5  - 1.    0.5  - 0.5    0.  
+ 
+ 
+
+DNL= 
+ 
+ 
+    0.    0.  - 0.5    1.  - 1.5    1.5  - 1.    0.5  
+ 
+ 
+
+The maxima of INL and DNL are, respectively, INL=1 LSB and DNL=(3/2) LSB.We observe 
+ 
+
+a nonmonotonicity as the code changes from 011 and 100, where the step size is 
+ 
+
+(-1/2) LSB instead of (+1 LSB); hence, DNL(100)=-(1/2)-(+1)=(-3/2) LSB<-1 LSB. 
+ 
+
+The fact that DNL(101)=(3/2) LSB>1 LSB, though undesirable, does not cause nonmonotocity. 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH12/EX12.2/Example12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eq=2.89 mV 
+ 
+
+SNR(max)=61.96 dB 
+ 
+
+ENOB=9.01 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH12/EX12.3/Example12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tmin  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TCmax(Vref)=(+-)1.36 ppm/degC 
+ 
+
+TCmax(Vos)=(+-)6.8 uV/degC 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH12/EX12.4/Example12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Digitally Programmable filter : 
+ 
+
+R1=7.07 kohms 
+ 
+
+R2=10 kohms 
+ 
+
+R3=7.07 kohms 
+ 
+
+R4=10 kohms 
+ 
+
+R5=15.54 kohms 
+ 
+
+C=1 nF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH12/EX12.5/Example12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designed Digitally Programmable triangular or square wave oscillator 
+ 
+
+R1=20 kohms 
+ 
+
+R2=20 kohms 
+ 
+
+R3=6.2 kohms 
+ 
+
+C=1.22 nF 
+ 
+
+Use 1.0 nF, which is more easily available, and raise R1 to 24.3 kohms,1 percent 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH12/EX12.6/Example12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oversampling Frequency=11.29 MHz 
+ 
+
+SNRmax=98.08 dB 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH12/EX12.7/Example12_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m2  =
+ 
+    6.7189369  
+ 
+ 
+ 
+ 
+k for first order Integrate Difference ADC  : k=1261 
+ 
+
+k for second order Integrate Difference ADC : k=105 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH13/EX13.1/Example13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RE=4.50 kohms
+ 
+ 
+ 
+ 
+Roots obtained for Cf : 
+ 
+ 
+ 10^(-10) *
+ 
+    0.9040245  
+  - 0.1637689  
+ 
+ 
+Choosing positive root Cf=90 pF 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH13/EX13.2/Example13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) gm1=2 uA/V 
+ 
+
+    gm2=gm3=10 uA/V 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) R=500 kohms 
+ 
+
+    L=1 H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(c) The sensitivities of the filter are : 
+ 
+
+    s1 (for gm1)=-1 
+ 
+
+    Other sensitivities are either 0.5 or  
+ 
+-0.5 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH13/EX13.3/Example13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Control Voltage vE needed to lock the PLL on 20 kHz input signal=2 V 
+ 
+
+    Control Voltage vE needed to lock the PLL on 5 kHz input signal=-1 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) ve(t)=0.2[ 
+ 
+1-exp(-t/100 
+ 
+ us)]u(t) V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(c) ve(t)=0.1074cos( 
+ 
+15707.96t 
+ 
+-57.52) V 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH13/EX13.4/Example13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Designed Passive Lag-Lead Filter : 
+ 
+
+    R1=90.00 kohms 
+ 
+
+    R2=10.00 kohms 
+ 
+
+    C=0.1 uF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Actual Value of wx=1.27 krad/s 
+ 
+
+    Actual Phase Margin (PM)=56 deg 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH13/EX13.5/Example13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) zeta=0.55 
+ 
+
+    tau=1 ms 
+ 
+
+    w-3dB=1.9 krad/s 
+ 
+ y  =
+ 
+    s   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(b) Step Response of ve(t)=(|wi|/Ko)*[1-(A*exp(-550t)*cos( 
+ 
+835t+phi))] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    AC Response of ve(t)=(|wi|/Ko)*1.286*cos( 
+ 
+1000*t- 
+ 
+45 degrees) 
+grepthis#Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH13/EX13.6/Example13_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y  =
+ 
+              2             4  
+  - 0.000008wx + 1.600D-11wx   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tau=2 ms 
+ 
+
+PM=-42 deg 
+ 
+
+C2=0.1 uF 

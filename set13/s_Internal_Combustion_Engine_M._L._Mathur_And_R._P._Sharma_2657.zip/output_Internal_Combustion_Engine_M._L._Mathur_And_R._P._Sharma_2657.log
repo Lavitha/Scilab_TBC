@@ -1,0 +1,9744 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 103
+
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d  =
+ 
+    6.8  
+ 
+ l  =
+ 
+    7.5  
+ 
+ r  =
+ 
+    8.  
+ 
+ 
+ V_s  =
+ 
+    272.37608  
+ 
+ cubic_capacity  =
+ 
+    1089.5043  
+ 
+ 
+ V_c  =
+ 
+    38.910869  
+ 
+ 
+
+ The cubic capacity of the engine = 1089.5 cm^3 
+
+ The ance volume of a cylinder, V_c = 38.9 cm^3
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ ip  =
+ 
+    10.  
+ 
+ eta_m  =
+ 
+    80.  
+ 
+ 
+ 
+ bp  =
+ 
+    8.  
+ 
+ fp  =
+ 
+    2.  
+ 
+ 
+
+ The brake power delivered, bp = 8 kW
+ 
+ The friction power, fp = 2 kW
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ bp  =
+ 
+    100.  
+ 
+ fp  =
+ 
+    25.  
+ 
+ 
+ eta_m  =
+ 
+    0.8  
+ 
+ 
+ bp  =
+ 
+    50.  
+ 
+ eta_m1  =
+ 
+    0.6666667  
+ 
+ 
+ bp  =
+ 
+    25.  
+ 
+ eta_m2  =
+ 
+    0.5  
+ 
+ 
+
+ The mechanical efficiency at full load, eta_m = 80 percent 
+
+ The mechanical efficiency,
+ (a)At half load, eta_m = 66.7 percent
+ (b)At quarter load, eta_m = 50 percent
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+ bp  =
+ 
+    35.  
+ 
+ eta_m  =
+ 
+    80.  
+ 
+ bsfc  =
+ 
+    0.4  
+ 
+ A_F  =
+ 
+    14.  
+ 
+ CV  =
+ 
+    43000.  
+ 
+ 
+ 
+ ip  =
+ 
+    43.75  
+ 
+ 
+ fp  =
+ 
+    8.75  
+ 
+ 
+ 
+ eta_bt  =
+ 
+    0.2093023  
+ 
+ 
+ eta_it  =
+ 
+    0.2616279  
+ 
+ 
+ m_f  =
+ 
+    14.  
+ 
+ 
+ m_a  =
+ 
+    196.  
+ 
+ 
+
+ (a)The indicated power, ip = 43.75 kW
+ (b)The friction power, fp = 8.75 kW 
+
+ (c)The brake thermal efficiency, eta_bt = 20.9 percent
+ (d)The indicated thermal efficiency, eta_it = 26.2 percent 
+
+ (e)The fuel consumption per hour, m_f = 14.0 kg/hr
+ (f)The air consumption per hour, m_a = 196 kg/hr
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ F_A  =
+ 
+    0.07  
+ 
+ bp  =
+ 
+    75.  
+ 
+ eta_bt  =
+ 
+    20.  
+ 
+ rho_a  =
+ 
+    1.2  
+ 
+ rho_f  =
+ 
+    4.8  
+ 
+ CV  =
+ 
+    43700.  
+ 
+ 
+ m_f  =
+ 
+    30.892449  
+ 
+ m_a  =
+ 
+    441.32069  
+ 
+ V_a  =
+ 
+    367.76724  
+ 
+ V_f  =
+ 
+    6.4359268  
+ 
+ V_mixture  =
+ 
+    374.20317  
+ 
+ 
+
+ The air consumption, m_a = 441.3 kg/hr 
+
+ The volume of air required, V_a = 367.8 m^3/hr 
+
+ The volume of mixture required = 374.2 m^3/hr
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ bp  =
+ 
+    5.  
+ 
+ eta_it  =
+ 
+    30.  
+ 
+ eta_m  =
+ 
+    75.  
+ 
+ 
+ ip  =
+ 
+    6.6666667  
+ 
+ CV  =
+ 
+    42000.  
+ 
+ m_f  =
+ 
+    1.9047619  
+ 
+ 
+ rho_f  =
+ 
+    0.87  
+ 
+ V_f  =
+ 
+    2.1893815  
+ 
+ isfc  =
+ 
+    0.2857143  
+ 
+ bsfc  =
+ 
+    0.3809524  
+ 
+ 
+
+ The fuel consumption of engine, m_f in,
+ (a)kg/hr = 1.905 kg/hr
+ (b)litres/hr = 2.19 l/hr 
+
+
+ (c)Indicated specific fuel consumption, isfc = 0.286 kg/kWh 
+
+ (d)Brake specific fuel consumption, bsfc = 0.381 kg/kWh
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ 
+ bp  =
+ 
+    5000.  
+ 
+ fp  =
+ 
+    1000.  
+ 
+ m_f  =
+ 
+    2300.  
+ 
+ A_F  =
+ 
+    20.  
+ 
+ CV  =
+ 
+    42000.  
+ 
+ 
+ 
+ ip  =
+ 
+    6000.  
+ 
+ 
+ eta_m  =
+ 
+    0.8333333  
+ 
+ 
+ m_a  =
+ 
+    46000.  
+ 
+ 
+ eta_it  =
+ 
+    0.2236025  
+ 
+ 
+ eta_bt  =
+ 
+    0.1863354  
+ 
+ 
+
+ (a)The indicated power, ip = 6000 kW 
+
+ (b)The mechanical efficiency, eta_m = 83 percent 
+
+ (c)The air consumption, m_a = 46000 kg/hr 
+
+ (d)The indicated thermal efficiency, eta_it = 22.4 percent
+ (e)The brake thermal efficiency, eta_bt = 18.6 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ T2  =
+ 
+    300.  
+ 
+ eta  =
+ 
+    30.  
+ 
+ Q2  =
+ 
+    200.  
+ 
+ 
+ 
+ T1  =
+ 
+    428.57143  
+ 
+ Q1  =
+ 
+    285.71429  
+ 
+ Power  =
+ 
+    86.  
+ 
+ 
+
+ Temperature of heat source, T1 = 155.6 degreeC 
+
+ Power of engine = 86 kW
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ T3  =
+ 
+    1073.  
+ T1  =
+ 
+    288.  
+ 
+ P3  =
+ 
+    210.  
+ P1  =
+ 
+    1.  
+ 
+ 
+ 
+ eta_carnot  =
+ 
+    0.7315937  
+ 
+ T4  =
+ 
+    1073.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ P4  =
+ 
+    99.821782  
+ 
+ R  =
+ 
+    0.287  
+ 
+ Q3_4  =
+ 
+    229.02966  
+ 
+ W3_4  =
+ 
+    229.02966  
+ 
+ Net_work  =
+ 
+    167.55665  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ W4_1  =
+ 
+    563.63  
+ 
+ Gross_work  =
+ 
+    792.65966  
+ 
+ work_ratio  =
+ 
+    0.2113854  
+ 
+ 
+
+ The efficiency of the Carnot cycle, eta_carnot = 73.2 percent 
+
+ The work ratio of the Carnot cycle = 0.211
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    17.  
+ l  =
+ 
+    30.  
+ 
+ V_c  =
+ 
+    0.001025  
+ 
+ 
+ V_s  =
+ 
+    6809.4021  
+ 
+ V_c  =
+ 
+    1025.  
+ 
+ V  =
+ 
+    7834.4021  
+ 
+ r  =
+ 
+    7.6433191  
+ 
+ g  =
+ 
+    1.4  
+ 
+ eta  =
+ 
+    0.5567107  
+ 
+ 
+
+ The Air standard efficiency of Otto cycle, eta = 55.7 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    97.  
+ 
+ T1  =
+ 
+    313.  
+ 
+ r  =
+ 
+    7.  
+ 
+ Q  =
+ 
+    1200.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ 
+ 
+ T2  =
+ 
+    681.68471  
+ T3  =
+ 
+    2353.  
+ 
+ 
+ eta  =
+ 
+    0.5408435  
+ 
+ 
+ W  =
+ 
+    649.01214  
+ 
+ 
+
+ (a)The maximum temperature attained in the cycle, T3 = 2080 degreeC 
+
+ (b)The thermal efficiency of the cycle, eta = 54.1 percent 
+
+ (c)The workdone during the cycle/kg of working fluid, W = 649 kJ
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ r  =
+ 
+    8.  
+ 
+ P1  =
+ 
+    1.  
+ P3  =
+ 
+    50.  
+ 
+ T1  =
+ 
+    373.  
+ 
+ m  =
+ 
+    1.  
+ 
+ R  =
+ 
+    0.287  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    1.07051  
+ 
+ 
+ P2  =
+ 
+    18.379174  
+ 
+ V2  =
+ 
+    0.1338138  
+ 
+ T2  =
+ 
+    856.92897  
+ 
+ 
+ V3  =
+ 
+    0.1338138  
+ 
+ T3  =
+ 
+    2331.25  
+ 
+ 
+ P4  =
+ 
+    2.7204705  
+ 
+ V4  =
+ 
+    1.07051  
+ 
+ T4  =
+ 
+    1014.7355  
+ 
+ cv  =
+ 
+    0.7175  
+ 
+ ratio  =
+ 
+    2.2973967  
+ 
+ 
+
+ Point 1:
+ Pressure = 1 bar, Volume = 1.0705 m^3, Temperature = 100 degreeC 
+
+
+ Point 2:
+ Pressure = 18.4 bar, Volume = 0.1338 m^3, Temperature = 583.9 degreeC 
+
+
+ Point 3:
+ Pressure = 50.0 bar, Volume = 0.1338 m^3, Temperature = 2058.2 degreeC 
+
+
+ Point 4:
+ Pressure = 2.72 bar, Volume = 1.0705 m^3, Temperature = 741.7 degreeC 
+
+
+ Ratio of heat supplied to the heat rejected = 2.297
+
+ 
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ r  =
+ 
+    8.  
+ 
+ Q1  =
+ 
+    1000.  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    18.379174  
+ 
+ T2  =
+ 
+    661.65025  
+ 
+ T3  =
+ 
+    2054.4079  
+ 
+ 
+ eta  =
+ 
+    0.5647247  
+ 
+ 
+ W  =
+ 
+    564.72472  
+ 
+ 
+ Q2  =
+ 
+    435.27528  
+ 
+ 
+
+ (a)The maximum temperature in the cycle, T3 = 1781 degreeC 
+
+ (b)The air standard efficiency, eta = 56.5 percent 
+
+ (c)The workdone per kg of air = 564 kJ/kg 
+
+ (d)The heat rejected = 435 kJ/kg 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.05  
+ P2  =
+ 
+    13.  
+ P3  =
+ 
+    35.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ r  =
+ 
+ V1/V2   
+ 
+ g  =
+ 
+    1.3997214  
+ 
+ r  =
+ 
+    6.0352316  
+ 
+ eta  =
+ 
+    0.5125390  
+ 
+ T2  =
+ 
+    590.81648  
+ 
+ T3  =
+ 
+    1590.6598  
+ 
+ Q1  =
+ 
+    717.88747  
+ 
+ W  =
+ 
+    367.94532  
+ 
+ V1  =
+ 
+    0.7872  
+ 
+ V2  =
+ 
+    0.1304341  
+ 
+ V_s  =
+ 
+    0.6567659  
+ 
+ mep  =
+ 
+    5.6023815  
+ 
+ 
+
+ The air standard efficiency, eta = 51.3 percent 
+
+ The compression ratio, r = 6 
+
+ The mean effective pressure, mep = 5.60 bar
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ r  =
+ 
+    8.  
+ 
+ T1  =
+ 
+    293.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ Q1  =
+ 
+    1800.  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ T2  =
+ 
+    673.13724  
+ 
+ T3  =
+ 
+    3180.101  
+ 
+ P2  =
+ 
+    18.379174  
+ 
+ P3  =
+ 
+    86.828697  
+ 
+ T4  =
+ 
+    1384.2194  
+ 
+ eta  =
+ 
+    0.5647247  
+ 
+ W1_2  =
+ 
+  - 272.93854  
+ 
+ W3_4  =
+ 
+    1289.443  
+ 
+ W  =
+ 
+    1016.5045  
+ 
+ V1  =
+ 
+    0.841496  
+ 
+ V2  =
+ 
+    0.105187  
+ 
+ V_s  =
+ 
+    0.736309  
+ 
+ mep  =
+ 
+    13.805406  
+ 
+ 
+
+ The maximum temperature, T3 = 3180 K 
+
+ The maximum pressure, P3 = 86.8 bar 
+
+ The temperature at the end of the expansion process, T4 = 1384 K 
+
+ The air standard efficiency, eta = 56.5 percent 
+
+ The mean effective pressure of the cycle, mep = 13.8 bar
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ 
+ power  =
+ 
+    50.  
+ 
+ N  =
+ 
+    4800.  
+ 
+ l  =
+ 
+    80.  
+ d  =
+ 
+    80.  
+ 
+ n  =
+ 
+    4.  
+ 
+ V_c  =
+ 
+    50000.  
+ 
+ delta_P  =
+ 
+    45.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ V_s  =
+ 
+    402123.86  
+ 
+ r  =
+ 
+    9.0424772  
+ 
+ eta  =
+ 
+    0.5855377  
+ 
+ ideal_mep  =
+ 
+    8.1906345  
+ 
+ W  =
+ 
+    0.3125  
+ 
+ V_s  =
+ 
+    0.0004021  
+ 
+ actual_mep  =
+ 
+    7.7712375  
+ 
+ 
+
+ The mean effective pressure of the engine, actual mep = 7.77 bar 
+
+ The mean effective pressure of the Otto cycle, ideal mep = 8.19 bar
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ 
+ CV  =
+ 
+    42000.  
+ 
+ a  =
+ 
+    0.3  
+ b  =
+ 
+    0.7  
+ 
+ P_a  =
+ 
+    1.33  
+ P_b  =
+ 
+    2.66  
+ 
+ n  =
+ 
+    1.33  
+ 
+ eta_cycle  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ a_b  =
+ 
+    1.6839855  
+ 
+ 
+ 
+ ans  =
+ 
+    1.  
+ 
+ r  =
+ 
+    4.5111406  
+ 
+ g  =
+ 
+    1.4  
+ 
+ eta  =
+ 
+    0.453  
+ 
+ eta_it  =
+ 
+    0.2265  
+ 
+ 
+ Q1  =
+ 
+    15894.04  
+ 
+ isfc  =
+ 
+    0.3784295  
+ 
+ 
+
+ The compression ratio, r = 4.51 
+
+ The fuel consumption, isfc = 0.378 kg/kWh
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ 
+ r  =
+ 
+    14.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    300.  
+ T3  =
+ 
+    2773.  
+ 
+ 
+ 
+ g  =
+ 
+    1.4  
+ 
+ T2  =
+ 
+    862.12943  
+ 
+ P2  =
+ 
+    40.232707  
+ 
+ rho  =
+ 
+    3.2164544  
+ 
+ T3_T4  =
+ 
+    1.8009442  
+ 
+ T4  =
+ 
+    1540.  
+ 
+ eta  =
+ 
+    0.5364865  
+ 
+ R  =
+ 
+    0.287  
+ cp  =
+ 
+    1.005  
+ cv  =
+ 
+    0.718  
+ 
+ V1  =
+ 
+    0.861  
+ 
+ V_s  =
+ 
+    0.7995  
+ 
+ mep  =
+ 
+    12.884364  
+ 
+ 
+
+ The thermal efficiency of the diesel cycle, eta = 53.6 percent 
+
+ The mean effective pressure of the cycle, pm = 12.88 bar
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.12/Ex2_12.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ P2  =
+ 
+    50.  
+ 
+ V1  =
+ 
+    1.  
+ V3  =
+ 
+    0.1  
+ 
+ T1  =
+ 
+    291.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ T2  =
+ 
+    889.84218  
+ 
+ V2  =
+ 
+    0.0611575  
+ 
+ T3  =
+ 
+    1455.  
+ 
+ V4  =
+ 
+    1.  
+ 
+ T4  =
+ 
+    579.24593  
+ 
+ eta  =
+ 
+    0.6356948  
+ 
+ 
+
+ Temperature at 1, T1 = 291 K
+ Temperature at 2, T2 = 889.8 K
+ Temperature at 3, T3 = 1455 K
+ Temperature at 4, T4 = 579.2 K 
+
+ The thermal efficiency of the cycle, eta = 63.6 percent
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.13/Ex2_13.sce #
+ 
+ 
+ 
+ r  =
+ 
+    18.  
+ 
+ p  =
+ 
+    10.  
+ 
+ P1  =
+ 
+    1.  
+ T1  =
+ 
+    293.  
+ 
+ V_a  =
+ 
+    100.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ V_c  =
+ 
+    1.  
+ 
+ V_s  =
+ 
+    17.  
+ 
+ V3  =
+ 
+    2.7  
+ 
+ V2  =
+ 
+    1.  
+ 
+ rho  =
+ 
+    2.7  
+ 
+ eta  =
+ 
+    0.6010677  
+ 
+ P2  =
+ 
+    57.198087  
+ 
+ P3  =
+ 
+    57.198087  
+ 
+ T2  =
+ 
+    931.05776  
+ 
+ T3  =
+ 
+    2513.8559  
+ 
+ 
+ V_s  =
+ 
+    100.  
+ 
+ V2  =
+ 
+    5.8823529  
+ 
+ V1  =
+ 
+    105.88235  
+ 
+ V3  =
+ 
+    15.882353  
+ 
+ V4  =
+ 
+    105.88235  
+ 
+ P4  =
+ 
+    4.0170688  
+ 
+ W  =
+ 
+    1.203D+08  
+ 
+ ip  =
+ 
+    33424.922  
+ 
+ 
+
+ (a)The maximum temperature, T3 = 2240 degreeC and the maximum pressure, P2 = 57.2 bar 
+
+ (b)The thermal efficiency of the engine, eta = 60 percent 
+
+ (c)The indicated power of the engine, ip = 33.42 kW
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.14/Ex2_14.sce #
+ 
+ 
+ 
+ d  =
+ 
+    15.  
+ l  =
+ 
+    20.  
+ 
+ p1  =
+ 
+    10.  
+ 
+ p2  =
+ 
+    6.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ V_s  =
+ 
+    3534.2917  
+ 
+ V_c  =
+ 
+    353.42917  
+ 
+ V1  =
+ 
+    3887.7209  
+ 
+ V2  =
+ 
+    353.42917  
+ 
+ V3  =
+ 
+    565.48668  
+ 
+ r  =
+ 
+    11.  
+ 
+ rho  =
+ 
+    1.6  
+ 
+ eta  =
+ 
+    0.5752986  
+ 
+ 
+
+ The air standard efficiency of the engine, eta = 57 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.15/Ex2_15.sce #
+ 
+ 
+ 
+ r  =
+ 
+    15.  
+ 
+ P1  =
+ 
+    1.  
+ T1  =
+ 
+    298.  
+ V1  =
+ 
+    0.1  
+ 
+ P4  =
+ 
+    65.  
+ T4  =
+ 
+    1773.  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ V2  =
+ 
+    0.0066667  
+ 
+ P2  =
+ 
+    44.312654  
+ 
+ T2  =
+ 
+    880.34473  
+ 
+ P3  =
+ 
+    65.  
+ 
+ T3  =
+ 
+    1291.3333  
+ 
+ V3  =
+ 
+    0.0066667  
+ 
+ V4  =
+ 
+    0.0091533  
+ 
+ V5  =
+ 
+    0.1  
+ 
+ P5  =
+ 
+    2.2862521  
+ 
+ T5  =
+ 
+    681.30313  
+ 
+ eta  =
+ 
+    0.6468300  
+ 
+ 
+
+ Point 1:
+ Pressure = 1 bar, Volume = 0.1 m^3, Temperature = 25 degreeC 
+
+
+ Point 2:
+ Pressure = 44.3 bar, Volume = 0.0067 m^3, Temperature = 607 degreeC 
+
+
+ Point 3:
+ Pressure = 65 bar, Volume = 0.0067 m^3, Temperature = 1018 degreeC 
+
+
+ Point 4:
+ Pressure = 65 bar, Volume = 0.0092 m^3, Temperature = 1500 degreeC 
+
+
+ Point 5:
+ Pressure = 2.29 bar, Volume = 0.1 m^3, Temperature = 408 degreeC 
+
+
+ The thermal efficiency of the cycle, eta = 64 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.16/Ex2_16.sce #
+ 
+ 
+ 
+ r  =
+ 
+    18.  
+ 
+ P1  =
+ 
+    1.01  
+ P3  =
+ 
+    69.  
+ 
+ T1  =
+ 
+    293.  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ T2  =
+ 
+    931.05776  
+ 
+ P2  =
+ 
+    57.770068  
+ 
+ T3  =
+ 
+    1112.0462  
+ 
+ Q_v  =
+ 
+    129.94971  
+ 
+ 
+ T4  =
+ 
+    1241.3494  
+ 
+ rho  =
+ 
+    1.116275  
+ 
+ T5  =
+ 
+    408.21928  
+ 
+ Q1  =
+ 
+    259.89941  
+ 
+ Q2  =
+ 
+    82.727446  
+ 
+ eta  =
+ 
+    0.6816944  
+ 
+ W  =
+ 
+    177.17197  
+ 
+ V1  =
+ 
+    0.8325842  
+ 
+ V2  =
+ 
+    0.0462547  
+ 
+ V_s  =
+ 
+    0.7863295  
+ 
+ mep  =
+ 
+    2.2531518  
+ 
+ 
+
+ The air standard efficiency, eta = 68.2 percent 
+
+ The mean effective pressure, mep = 2.25 bar
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.17/Ex2_17.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    323.  
+ 
+ r  =
+ 
+    14.  
+ rho  =
+ 
+    2.  
+ alpha  =
+ 
+    2.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ 
+ 
+ T2  =
+ 
+    930.24  
+ 
+ P2  =
+ 
+    40.  
+ 
+ P3  =
+ 
+    80.  
+ 
+ T3  =
+ 
+    1860.48  
+ 
+ T4  =
+ 
+    3720.96  
+ 
+ e  =
+ 
+    7.  
+ 
+ T5  =
+ 
+    1708.5032  
+ 
+ Q1  =
+ 
+    2537.6947  
+ 
+ Q2  =
+ 
+    994.79127  
+ 
+ eta  =
+ 
+    0.6079941  
+ 
+ 
+
+ The temperature
+	T1 = 323 K
+	T2 = 930 K
+	T3 = 1860 K
+	T4 = 3720 K
+	T5 = 1708 K 
+
+
+ The ideal thermal efficiency, eta = 60.8 percent
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.18/Ex2_18.sce #
+ 
+ 
+ 
+ r  =
+ 
+    15.  
+ 
+ P1  =
+ 
+    1.  
+ P3  =
+ 
+    55.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ 
+ 
+ T2  =
+ 
+    886.25308  
+ 
+ P2  =
+ 
+    44.312654  
+ 
+ alpha  =
+ 
+    1.2411805  
+ 
+ T3  =
+ 
+    1100.  
+ 
+ Q1_v  =
+ 
+    153.47029  
+ 
+ T4  =
+ 
+    T4   
+ 
+ 
+ Q1_p  =
+ 
+  - 1105.5 + 1.005T4   
+ 
+ T4  =
+ 
+    1176.3534  
+ 
+ rho  =
+ 
+    1.0694122  
+ 
+ e  =
+ 
+    14.026397  
+ 
+ T5  =
+ 
+    409.03394  
+ 
+ eta  =
+ 
+    0.6599508  
+ 
+ eta  =
+ 
+    66.  
+ 
+ 
+
+ The constant volume pressure ratio, alpha = 1.24 
+
+ The cut off ratio, rho = 1.07 
+
+ The thermal efficiency of the cycle, eta = 66 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.19/Ex2_19.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ V_s  =
+ 
+    300.  
+ 
+ r  =
+ 
+    10.  
+ 
+ N  =
+ 
+    3500.  
+ 
+ bp  =
+ 
+    75.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ eta_o  =
+ 
+    0.6018928  
+ 
+ Q1  =
+ 
+    124.6069  
+ 
+ P_o  =
+ 
+    12.5  
+ 
+ W_o  =
+ 
+    0.4285714  
+ 
+ mep_o  =
+ 
+    14.285714  
+ 
+ T2  =
+ 
+    723.42329  
+ 
+ Q1  =
+ 
+    0.7120394  
+ 
+ R  =
+ 
+    0.287  
+ 
+ v1  =
+ 
+    0.82656  
+ 
+ V1  =
+ 
+    0.0003333  
+ 
+ m  =
+ 
+    0.0004033  
+ 
+ T3  =
+ 
+    3182.5179  
+ 
+ 
+ T3!  =
+ 
+    2480.269  
+ 
+ rho  =
+ 
+    3.4285169  
+ 
+ eta_d  =
+ 
+    0.4599201  
+ 
+ Power  =
+ 
+    57.309215  
+ 
+ P_d  =
+ 
+    9.5515358  
+ 
+ W_d  =
+ 
+    0.3274812  
+ 
+ mep_d  =
+ 
+    10.916041  
+ 
+ 
+
+ The rate of heat addition same for both Petrol and Diesel engine, Q1 = 124.6 kW 
+
+ For Petrol engine
+	 Cycle efficiency, eta = 0.602
+	 Mean effective pressure, mep = 14.29 bar
+	 The maximum temperature of the cycle, Tmax = 3183 K 
+
+ For Diesel engine
+	 Cycle efficiency, eta = 0.46
+	 Mean effective pressure, mep = 10.92 bar
+	 The maximum temperature of the cycle, Tmax = 2480 K
+	 Power output = 57.3 kW 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.20/Ex2_20.sce #
+ 
+ 
+ 
+ r  =
+ 
+    10.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    313.  
+ 
+ Q1  =
+ 
+    2700.  
+ 
+ 
+ 
+ g  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    0.287  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ V1  =
+ 
+    0.89831  
+ 
+ V5  =
+ 
+    0.89831  
+ 
+ V2  =
+ 
+    0.089831  
+ 
+ V3  =
+ 
+    0.089831  
+ 
+ V_s  =
+ 
+    0.808479  
+ 
+ T2  =
+ 
+    786.22045  
+ 
+ P2  =
+ 
+    25.118864  
+ 
+ 
+ P3  =
+ 
+    70.  
+ 
+ T3  =
+ 
+    2191.  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ Q_v  =
+ 
+    1008.6317  
+ 
+ Q_p  =
+ 
+    1691.3683  
+ 
+ T4  =
+ 
+    3873.9535  
+ 
+ V4  =
+ 
+    0.1588321  
+ 
+ T5  =
+ 
+    1937.132  
+ 
+ Q2  =
+ 
+    1166.1268  
+ 
+ W  =
+ 
+    1533.8732  
+ 
+ eta1  =
+ 
+    0.5681012  
+ 
+ mep1  =
+ 
+    18.972332  
+ 
+ 
+ 
+ T6  =
+ 
+    4546.6661  
+ 
+ P6  =
+ 
+    145.2609  
+ 
+ T7  =
+ 
+    1810.0604  
+ 
+ Q2  =
+ 
+    1074.8894  
+ 
+ W  =
+ 
+    1625.1106  
+ 
+ eta2  =
+ 
+    0.6018928  
+ 
+ mep2  =
+ 
+    20.100839  
+ 
+ 
+ P8  =
+ 
+    1.  
+ 
+ T8  =
+ 
+    1096.3173  
+ 
+ Q3  =
+ 
+    787.23393  
+ 
+ W_inc  =
+ 
+    287.65543  
+ 
+ 
+
+ (a)For Limited pressure cycle
+	 The mean effective pressure, mep = 18.97 bar
+	 The thermal efficiency, eta = 56.8 percent 
+
+
+ (a)For Constant volume cycle
+	 The mean effective pressure, mep = 20.1 bar
+	 The thermal efficiency, eta = 60.2 percent 
+
+
+   Additional work per kg of charge = 287.7 kJ
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.21/Ex2_21.sce #
+ 
+ 
+ 
+ r  =
+ 
+    6.  
+ 
+ P1  =
+ 
+    1.  
+ P3  =
+ 
+    20.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ eta_otto  =
+ 
+    0.5116407  
+ 
+ 
+ e  =
+ 
+    66.28908  
+ 
+ eta_atk  =
+ 
+    0.7535936  
+ 
+ 
+
+ Efficiency of Otto cycle = 51.16 percent 
+
+ Efficiency of Atkinson cycle = 75.4 percent
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH2/EX2.22/Ex2_22.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.02  
+ P2  =
+ 
+    6.12  
+ 
+ T1  =
+ 
+    288.  
+ T3  =
+ 
+    1073.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ 
+ 
+ r_p  =
+ 
+    6.  
+ 
+ eta  =
+ 
+    0.4006630  
+ 
+ r_w  =
+ 
+    0.5521612  
+ 
+ 
+
+ The thermal efficiency, eta = 40.1 percent 
+
+ The work ratio, r_w = 0.55
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ r  =
+ 
+    7.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ dcv  =
+ 
+    0.00718  
+ 
+ 
+ R  =
+ 
+    0.2872  
+ 
+ eta  =
+ 
+    0.54  
+ 
+ 
+ ans  =
+ 
+    1.  
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ detaBydcv  =
+ 
+  - 0.4977590  
+ 
+ detaByeta  =
+ 
+  - 0.0066184  
+ 
+ 
+
+ The percentage change in the efficiency of Otto cycle = -0.662 percent 
+ 
+ decrease   
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ r  =
+ 
+    6.  
+ 
+ CV  =
+ 
+    44000.  
+ 
+ A_F  =
+ 
+    15.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    333.  
+ 
+ n  =
+ 
+    1.32  
+ 
+ T  =
+ 
+    T   
+ 
+ cv  =
+ 
+    0.71 + 0.0002T   
+ 
+ cv_c  =
+ 
+    0.71  
+ 
+ 
+ 
+ P2  =
+ 
+    10.645343  
+ 
+ T2  =
+ 
+    590.  
+ 
+ T3  =
+ 
+    T3   
+ 
+ T_av  =
+ 
+    295 + 0.5T3   
+ 
+ cv_mean  =
+ 
+    0.769 + 0.0001T3   
+ 
+ 
+ m_a  =
+ 
+    1.  
+ m_f  =
+ 
+    0.0666667  
+ m_c  =
+ 
+    1.0666667  
+ 
+ Q1  =
+ 
+    2933.3333  
+ 
+ T3_v  =
+ 
+  - 10231.287  
+    3131.2873  
+ T3_v  =
+ 
+    3131.2873  
+ 
+ P3_v  =
+ 
+    56.497672  
+ 
+ 
+ T3_c  =
+ 
+    4463.2394  
+ 
+ P3_c  =
+ 
+    80.530023  
+ 
+ 
+
+ The maximum pressure in the cycle for variable specific heat, P3 = 56.5 bar 
+
+ The maximum pressure in the cycle for constant specific heat, P3 = 80.5 bar
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ A_F  =
+ 
+    28.  
+ 
+ CV  =
+ 
+    42000.  
+ 
+ cv  =
+ 
+ 0.71+20D-5*T   
+ 
+ R  =
+ 
+ 0.287   
+ 
+ r  =
+ 
+    14.  
+ 
+ T2  =
+ 
+    800.  
+ 
+ 
+ 
+ 
+ m_c  =
+ 
+    29.  
+ 
+ cp  =
+ 
+ 0.71+20D-5*T+0.287   
+ 
+ 
+ 
+ 
+ 
+ 
+ T3  =
+ 
+    1939.5205  
+ 
+ T3  =
+ 
+    1940.  
+ 
+ rho  =
+ 
+    2.425  
+ 
+ V2  =
+ 
+    1.  
+ 
+ V3  =
+ 
+    2.425  
+ 
+ p  =
+ 
+    10.961538  
+ 
+ 
+
+ At 10.96 percentage of stroke combustion is completed.
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    363.  
+ 
+ r  =
+ 
+    13.  
+ 
+ Q1  =
+ 
+    1675.  
+ 
+ Q1_v  =
+ 
+    837.5  
+ Q1_p  =
+ 
+    837.5  
+ 
+ g  =
+ 
+    1.4  
+ 
+ R  =
+ 
+ 0.287   
+ 
+ cv  =
+ 
+ 0.71+20D-5*T   
+ 
+ 
+ 
+ P2  =
+ 
+    36.267757  
+ 
+ T2  =
+ 
+    1012.7074  
+ 
+ 
+ 
+ 
+ 
+ 
+ T3  =
+ 
+    1853.0823  
+ 
+ P3  =
+ 
+    66.363829  
+ 
+ cp  =
+ 
+ 0.71+20D-5*T+0.287   
+ 
+ 
+ 
+ 
+ 
+ 
+ T4  =
+ 
+    2440.2522  
+ 
+ rho  =
+ 
+    1.3168612  
+ 
+ p  =
+ 
+    2.6405099  
+ 
+ 
+
+ The maximum pressure in the cycle, P3 = 66.4 bar 
+
+ The percentage of stroke at which cut off occurs = 2.64 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ r  =
+ 
+    7.  
+ 
+ CV  =
+ 
+    44000.  
+ 
+ A_F  =
+ 
+    13.67  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ n  =
+ 
+    1.3  
+ 
+ P1  =
+ 
+    1.  
+ T1  =
+ 
+    340.  
+ 
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ p  =
+ 
+    23.  
+ 
+ 
+ 
+ 
+ x  =
+ 
+    9.5  
+ y  =
+ 
+    6.  
+ z  =
+ 
+    7.  
+ 
+ A_F_g  =
+ 
+    15.36906  
+ 
+ MS  =
+ 
+    112.42911  
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    4.39  
+ b  =
+ 
+    2.36  
+ c  =
+ 
+    7.87  
+ 
+ 
+ 
+ m1  =
+ 
+    46.362386  
+ 
+ m2  =
+ 
+    50.358095  
+ 
+ Me  =
+ 
+    8.618428  
+ 
+ T2  =
+ 
+    609.54859  
+ 
+ m_c  =
+ 
+    14.67  
+ 
+ T3  =
+ 
+    4786.8722  
+ 
+ T3  =
+ 
+    4787.  
+ 
+ P3  =
+ 
+    98.555882  
+ 
+ 
+ T3!  =
+ 
+    4787.  
+ 
+ P3!  =
+ 
+    107.04985  
+ 
+ 
+
+	 The molecular expansion = 8.62 percent
+ 
+
+ (a)Without considering the molecular contraction
+	 The maximum pressure, P3 = 98.56 bar
+	 The maximum temperature, T3 = 4787 K 
+
+ (b)Considering the molecular contraction
+	 The maximum pressure, P3 = 107.05 bar
+	 The maximum temperature, T3 = 4787 K 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ p  =
+ 
+    15.  
+ 
+ V_s  =
+ 
+    2.8  
+ 
+ N  =
+ 
+    2500.  
+ 
+ Q1  =
+ 
+    1400.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ P1  =
+ 
+    100.  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ 
+ 
+ 
+ V2  =
+ 
+    0.00042  
+ 
+ V3  =
+ 
+    0.00042  
+ 
+ V1  =
+ 
+    0.00322  
+ V4  =
+ 
+    0.00322  
+ 
+ 
+ vr1  =
+ 
+    621.2  
+ pr1  =
+ 
+    1.386  
+ u1  =
+ 
+    214.09  
+ phi1  =
+ 
+    5.7016  
+ 
+ vr2  =
+ 
+    81.026087  
+ 
+ vr  =
+ 
+    81.89    78.61  
+ T  =
+ 
+    660.    670.  
+ pr  =
+ 
+    23.13    24.46  
+ u  =
+ 
+    481.01    488.81  
+ 
+ 
+ T2  =
+ 
+    662.63388  
+ 
+ 
+ pr2  =
+ 
+    23.480306  
+ 
+ 
+ u2  =
+ 
+    483.06443  
+ 
+ P2  =
+ 
+    1694.1058  
+ 
+ 
+ u3  =
+ 
+    1883.0644  
+ 
+ vr  =
+ 
+    2.356    2.175    2.012  
+ T  =
+ 
+    2100.    2150.    2200.  
+ pr  =
+ 
+    2559.    2837.    3138.  
+ u  =
+ 
+    1775.3    1823.8    1872.8  
+ 
+ 
+ vr3  =
+ 
+    1.9778551  
+ 
+ 
+ pr3  =
+ 
+    3201.0529  
+ 
+ 
+ T3  =
+ 
+    2210.4739  
+ 
+ P3  =
+ 
+    5651.351  
+ 
+ 
+ vr4  =
+ 
+    15.163556  
+ 
+ vr  =
+ 
+    15.241    14.47  
+ T  =
+ 
+    1180.    1200.  
+ pr  =
+ 
+    222.2    238.  
+ u  =
+ 
+    915.57    933.33  
+ phi  =
+ 
+    7.1586    7.1684  
+ 
+ 
+ T4  =
+ 
+    1182.0089  
+ 
+ 
+ u4  =
+ 
+    917.35394  
+ 
+ 
+ pr4  =
+ 
+    223.78706  
+ 
+ P4  =
+ 
+    395.08851  
+ 
+ 
+ phi4  =
+ 
+    7.1595844  
+ 
+ 
+ Q2  =
+ 
+  - 703.26394  
+ 
+ W  =
+ 
+    696.73606  
+ 
+ eta  =
+ 
+    0.4976686  
+ 
+ m  =
+ 
+    0.0037398  
+ 
+ W  =
+ 
+    108.56998  
+ 
+ Delta_s  =
+ 
+  - 1.0636637  
+ 
+ AE  =
+ 
+  - 384.16482  
+ 
+ p_AE  =
+ 
+    0.5462598  
+ 
+ 
+ g  =
+ 
+    1.4  
+ 
+ cv  =
+ 
+    0.718  
+ 
+ r  =
+ 
+    7.6666667  
+ 
+ eta!  =
+ 
+    0.5572512  
+ 
+ 
+ T2  =
+ 
+    677.58516  
+ 
+ P2  =
+ 
+    17.316065  
+ 
+ 
+ T3!  =
+ 
+    2627.4459  
+ 
+ P3!  =
+ 
+    67.145839  
+ 
+ 
+ T4  =
+ 
+    1163.2984  
+ 
+ Q2  =
+ 
+  - 619.84828  
+ 
+ W!  =
+ 
+    780.15172  
+ 
+ eta!  =
+ 
+    0.5572512  
+ 
+ power  =
+ 
+    121.56836  
+ 
+ Delta_s  =
+ 
+  - 0.9730568  
+ 
+ AE!  =
+ 
+  - 327.93125  
+ 
+ p_AE!  =
+ 
+    0.5290508  
+ 
+ 
+
+ Constant specific heat:
+	 Maximum temperature, Tmax = 2627.4 K
+	 Maximum pressure, Pmax = 67.1 bar
+	 Thermal efficiency, eta = 55.73 percent
+	 Power = 121.6 kW
+	 Available portion of heat rejected = 327.9 kJ/kg (52.9 percent) 
+
+ Variable specific heat:
+	 Maximum temperature, Tmax = 2210 K
+	 Maximum pressure, Pmax = 56.5 bar
+	 Thermal efficiency, eta = 49.8 percent
+	 Power = 108.6 kW
+	 Available portion of heat rejected = 384.2 kJ/kg (54.6 percent) 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ theta_s  =
+ 
+    25.  
+ 
+ theta_d  =
+ 
+    3.  
+ 
+ theta_c  =
+ 
+  - 12.  
+ 
+ p  =
+ 
+    15.  
+ 
+ 
+ DP  =
+ 
+    22.  
+ 
+ CP  =
+ 
+    15.  
+ 
+ 
+ DA1  =
+ 
+    11.  
+ 
+ TP1  =
+ 
+    26.  
+ 
+ TS1  =
+ 
+    14.  
+ 
+ 
+ DA2  =
+ 
+    12.65  
+ 
+ TP2  =
+ 
+    27.65  
+ 
+ TS2  =
+ 
+    15.65  
+ 
+ 
+
+ (a)Full throttle, half speed
+	 Time of spark before top dead centre is 14 degree 
+
+ (a)Half throttle, half speed
+	 Time of spark before top dead centre is 15.65 degree
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ F_A1  =
+ 
+    0.0740741  
+ 
+ CV1  =
+ 
+    44000.  
+ 
+ eta_bt1  =
+ 
+    25.  
+ 
+ m_f1  =
+ 
+    1.  
+ 
+ 
+ A_F2  =
+ 
+    25.  
+ 
+ CV2  =
+ 
+    42000.  
+ 
+ eta_bt2  =
+ 
+    38.  
+ 
+ 
+ 
+ bp1  =
+ 
+    3.0555556  
+ 
+ bsfc1  =
+ 
+    0.3272727  
+ 
+ m_a1  =
+ 
+    4.4181818  
+ 
+ 
+ m_f2  =
+ 
+    1.  
+ 
+ bp2  =
+ 
+    4.4333333  
+ 
+ bsfc2  =
+ 
+    0.2255639  
+ 
+ m_a2  =
+ 
+    5.6390977  
+ 
+ 
+ R_bp  =
+ 
+    0.6892231  
+ 
+ R_bsfc  =
+ 
+    1.4509091  
+ 
+ R_m_a  =
+ 
+    0.7834909  
+ 
+ 
+
+ For SI engine
+	Brake output, bp = 3.06 kW/kg of fuel
+	Brake specific fuel consumption, bsfc = 0.327 kg/kWh 
+
+ For CI engine
+	Brake output, bp = 4.4 kW/kg of fuel
+	Brake specific fuel consumption, bsfc = 0.226 kg/kWh 
+
+ The air consumption
+	for SI engine, m_a = 4.42 kg/kWh
+	for CI engine, m_a = 5.64 kg/kWh 
+
+ Comparison of SI to CI
+	bp = 0.689
+	bsfc = 1.451
+	air consumption = 0.783
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ s1  =
+ 
+    0.72  
+ 
+ CV1  =
+ 
+    44800.  
+ 
+ eta_bt1  =
+ 
+    20.  
+ 
+ A_F1  =
+ 
+    14.  
+ 
+ 
+ s2  =
+ 
+    0.87  
+ 
+ CV2  =
+ 
+    43100.  
+ 
+ eta_bt2  =
+ 
+    30.  
+ 
+ A_F2  =
+ 
+    21.  
+ 
+ 
+ 
+ bsfc_SI  =
+ 
+    0.4017857  
+ 
+ m_a_SI  =
+ 
+    5.625  
+ 
+ 
+ bsfc_CI  =
+ 
+    0.2784223  
+ 
+ m_a_CI  =
+ 
+    5.8468677  
+ 
+ 
+
+ For SI engine
+	Brake specific fuel consumption, bsfc_SI = 0.402 kg/kWh
+	Air consumption = 5.62 kg/kWh 
+
+ For CI engine
+	Brake specific fuel consumption, bsfc_CI = 0.278 kg/kWh
+	Air consumption = 5.85 kg/kWh 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ HCV  =
+ 
+    46900.  
+ 
+ pH2  =
+ 
+    0.144  
+ 
+ ufg  =
+ 
+    2304.4  
+ 
+ 
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ 
+ mH2  =
+ 
+    0.144  
+ 
+ m_a  =
+ 
+    1.296  
+ 
+ LCV  =
+ 
+    43913.498  
+ 
+ 
+
+ The LCV of petrol = 43913 kJ/kg
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ pCO2  =
+ 
+    0.13  
+ 
+ 
+ p_v  =
+ 
+    0.21  
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ 
+ 
+ 
+ x  =
+ 
+    8.  
+ y  =
+ 
+    9.  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    13.868077  
+ 
+ A_F_act  =
+ 
+    66.038462  
+ 
+ 
+ a  =
+ 
+    12.5  
+ 
+ A_F_cc  =
+ 
+    59.52381  
+ 
+ ratio  =
+ 
+    90.135064  
+ 
+ 
+
+ The ratio by volume of fuel to air supplied = 1/66 
+
+ The volume fuel air ratio = 90.1 percentage of chemically correct ratio
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ pC  =
+ 
+    84.  
+ pH2  =
+ 
+    16.  
+ 
+ p_v  =
+ 
+    20.9  
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ N  =
+ 
+    14.  
+ 
+ m_f  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ b  =
+ 
+    7.  
+ f  =
+ 
+    8.  
+ d  =
+ 
+    1.1666667  
+ a  =
+ 
+    12.166667  
+ 
+ m_a  =
+ 
+    1678.6507  
+ 
+ A_F  =
+ 
+    16.786507  
+ 
+ P_e  =
+ 
+    10.606061  
+ 
+ 
+
+ (a)The air fuel ratio by mass, A_F = 16.8/1 
+
+ (b)The percentage excess air supplied = 10.6 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ MS  =
+ 
+    25.  
+ 
+ p  =
+ 
+    23.1  
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ N  =
+ 
+    14.  
+ 
+ m_f  =
+ 
+    1.  
+ 
+ mC  =
+ 
+    0.8372093  
+ 
+ mH  =
+ 
+    0.1627907  
+ 
+ m_a  =
+ 
+    15.302527  
+ 
+ 
+ m_f  =
+ 
+    1.25  
+ 
+ A_F  =
+ 
+    12.242022  
+ 
+ mO2  =
+ 
+    2.827907  
+ 
+ mO2_1  =
+ 
+    1.3023256  
+ 
+ mH2O  =
+ 
+    1.4651163  
+ 
+ mO2_2  =
+ 
+    1.1162791  
+ 
+ mCO  =
+ 
+    1.9534884  
+ 
+ mO2_3  =
+ 
+    0.4093023  
+ 
+ mCO_b  =
+ 
+    0.7162791  
+ 
+ mCO2  =
+ 
+    1.1255814  
+ 
+ mCO_ub  =
+ 
+    1.2372093  
+ 
+ nH2O  =
+ 
+    0.0813953  
+ 
+ nCO2  =
+ 
+    0.0255814  
+ 
+ nCO  =
+ 
+    0.0441860  
+ 
+ mN2  =
+ 
+    9.4141146  
+ 
+ nN2  =
+ 
+    0.3362184  
+ 
+ nT  =
+ 
+    0.4873812  
+ 
+ pH2O  =
+ 
+    0.1670055  
+ pCO2  =
+ 
+    0.0524875  
+ pCO  =
+ 
+    0.0906601  
+ pN2  =
+ 
+    0.6898469  
+ 
+ 
+
+ The theoretical mass of air required, m_a = 15.30 kg 
+
+ The composition of the products in percent
+	 H2O = 16.70
+	 CO2 = 5.25
+	 CO = 9.07
+	 N2 = 68.98
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ p_v  =
+ 
+    21.  
+ 
+ p_e  =
+ 
+    50.  
+ 
+ 
+ m_f  =
+ 
+    100.  
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ N  =
+ 
+    14.  
+ 
+ a  =
+ 
+    a   
+ 
+ 
+ 
+ 
+ b  =
+ 
+    7.  
+ 
+ f  =
+ 
+    8.  
+ 
+ d  =
+ 
+    0.5a   
+ 
+ a  =
+ 
+    11.  
+ 
+ m_a  =
+ 
+    1510.6667  
+ 
+ A_F  =
+ 
+    15.106667  
+ 
+ d  =
+ 
+    5.5  
+ 
+ e  =
+ 
+    62.071429  
+ 
+ nT  =
+ 
+    82.571429  
+ 
+ pH2O  =
+ 
+    9.6885813  
+ pCO2  =
+ 
+    8.4775087  
+ pO2  =
+ 
+    6.6608997  
+ pN2  =
+ 
+    75.17301  
+ 
+ 
+
+ (a)The stoichiometric air fuel consumption by mass, A_F = 15.11:1 
+
+ (b)The percentage volumetric composition of the products
+	 CO2 = 8.48
+	 O2 = 6.66
+	 N2 = 75.2
+	 H2O = 9.69
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ pC  =
+ 
+    85.  
+ pH2  =
+ 
+    15.  
+ 
+ A_F  =
+ 
+    14.  
+ 
+ p_m  =
+ 
+    23.2  
+ 
+ 
+ m_f  =
+ 
+    100.  
+ 
+ m_a  =
+ 
+    1400.  
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ N  =
+ 
+    14.  
+ 
+ p_v  =
+ 
+    20.9  
+ 
+ 
+ 
+ 
+ f  =
+ 
+    7.5  
+ 
+ a  =
+ 
+    10.147038  
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.    1.   
+    1.    0.5  
+ B  =
+ 
+    7.0833333  
+    6.3970384  
+ SOL  =
+ 
+    5.7107435  
+    1.3725898  
+ 
+ b  =
+ 
+    5.7107435  
+ d  =
+ 
+    1.3725898  
+ 
+ e  =
+ 
+    38.403385  
+ 
+ mC  =
+ 
+    0.6852892  
+ 
+ mCO2  =
+ 
+    2.5127271  
+ 
+ mCO  =
+ 
+    0.3843251  
+ 
+ mN2  =
+ 
+    10.752948  
+ 
+ mH2O  =
+ 
+    1.35  
+ 
+ 
+
+ (a)The mass of the carbon burning to CO2 = 0.685 kg 
+
+ (b)The mass of each of the gases in the exhaust per kg of fuel
+	 CO2 = 2.51 kg
+	 CO = 0.38 kg
+	 N2 = 10.75 kg
+	 H2O = 1.35 kg
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ pCO2  =
+ 
+    0.12  
+ pCO  =
+ 
+    0.02  
+ pCH4  =
+ 
+    0.04  
+ pH2  =
+ 
+    0.01  
+ pO2  =
+ 
+    0.045  
+ 
+ pN2  =
+ 
+    0.765  
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ p_v  =
+ 
+    21.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y  =
+ 
+    0.2033544  
+ 
+ a  =
+ 
+    0.0567089  
+ 
+ Xp  =
+ 
+    2.16  
+ 
+ Xq  =
+ 
+    0.2934177  
+ 
+ p_q  =
+ 
+    7.3615186  
+ 
+ 
+
+ The proportion by mass of Carbon to Hydrogen in the fuel = 7.36/1
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ 
+ pCO2  =
+ 
+    7.5  
+ pCO  =
+ 
+    1.  
+ pO2  =
+ 
+    9.4  
+ 
+ P  =
+ 
+    1.02  
+ 
+ pO_v  =
+ 
+    21.  
+ 
+ pN_v  =
+ 
+    79.  
+ 
+ M  =
+ 
+    29.  
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ 
+ pN2  =
+ 
+    82.1  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    8.5  
+ 
+ x  =
+ 
+    1.0392405  
+ 
+ d  =
+ 
+    8.8481013  
+ 
+ d  =
+ 
+    8.8  
+ 
+ b  =
+ 
+    8.8  
+ 
+ m_a  =
+ 
+    3013.7975  
+ 
+ m_f  =
+ 
+    119.6  
+ 
+ A_F  =
+ 
+    25.198975  
+ 
+ pC  =
+ 
+    85.284281  
+ 
+ pH2  =
+ 
+    14.715719  
+ 
+ nT  =
+ 
+    108.8  
+ 
+ CO2  =
+ 
+    6.8933824  
+ O2  =
+ 
+    8.6397059  
+ CO  =
+ 
+    0.9191176  
+ N2  =
+ 
+    75.459559  
+ H2O  =
+ 
+    8.0882353  
+ 
+ PP  =
+ 
+    0.0825  
+ 
+ 
+ T  =
+ 
+    42.8  
+ 
+ 
+
+ (a)The air fuel ratio used, A_F = 25.2 
+
+ (b)The mass analysis of the fuel
+	 Carbon = 85.3 percent
+	 Hydrogen = 14.7 percent 
+
+ (c)The wet products analysis in percent
+	 CO2 = 6.9
+	 O2 = 8.64
+	 CO = 0.9
+	 N2 = 75.46
+	 Steam = 8.1 
+
+ (d)The minimum temperature to which the exhaust may be cooled before condensation occurs = 42.8 degreeC
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ 
+ pH2  =
+ 
+    0.494  
+ pCO  =
+ 
+    0.18  
+ pCH4  =
+ 
+    0.2  
+ pC4H8  =
+ 
+    0.02  
+ pO2  =
+ 
+    0.004  
+ pN2  =
+ 
+    0.062  
+ pCO2  =
+ 
+    0.04  
+ 
+ MW  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nO2  =
+ 
+    0.861  
+ 
+ nCO2  =
+ 
+    0.5  
+ 
+ nH2O  =
+ 
+    0.974  
+ 
+ p_v  =
+ 
+    21.  
+ 
+ n_a  =
+ 
+    4.1  
+ 
+ n_f  =
+ 
+    1.  
+ 
+ A_F  =
+ 
+    4.1  
+ 
+ 
+ A_F_act  =
+ 
+    4.92  
+ 
+ nN2  =
+ 
+    3.8868  
+ 
+ nO2  =
+ 
+    0.1722  
+ 
+ nN2  =
+ 
+    3.9488  
+ 
+ nT_d  =
+ 
+    4.621  
+ 
+ nT_w  =
+ 
+    5.595  
+ 
+ p_d  =
+ 
+    10.820169    3.7264661    85.453365  
+ 
+ p_w  =
+ 
+    8.9365505    17.4084    3.077748    70.577301  
+ 
+ 
+
+ The stoichiometric air fuel ratio used, A_F = 4.1/1 
+
+ The wet products analysis in percent
+	 CO2 = 9
+	 H2O = 17.41
+	 O2 = 3.08
+	 N2 = 70.58 
+
+ The dry products analysis in percent
+	 CO2 = 10.82
+	 O2 = 3.73
+	 N2 = 85.45
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ V_d  =
+ 
+    700.  
+ 
+ bp  =
+ 
+    78.  
+ 
+ N  =
+ 
+    3200.  
+ 
+ m_f  =
+ 
+    27.  
+ 
+ CV  =
+ 
+    44.  
+ 
+ 
+ 
+ A_F  =
+ 
+    12.  
+ 
+ P1  =
+ 
+    0.9  
+ T1  =
+ 
+    305.  
+ 
+ m_a  =
+ 
+    324.  
+ 
+ R  =
+ 
+    287.  
+ 
+ rho_a  =
+ 
+    1.0281602  
+ 
+ eta_vol  =
+ 
+    0.7815625  
+ 
+ 
+ eta_bt  =
+ 
+    0.2363636  
+ 
+ 
+ T  =
+ 
+    0.2327641  
+ 
+ 
+
+ (1)The volumetric efficiency, eta_vol = 78.16 percent 
+
+ (2)The brake thermal efficiency, eta_bt = 23.64 percent 
+
+ (3)The brake torque, T = 233 Nm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ m_a  =
+ 
+    5.  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ T1  =
+ 
+    300.  
+ 
+ C1  =
+ 
+    0.  
+ C2  =
+ 
+    90.  
+ 
+ Cv  =
+ 
+    0.8  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    0.9405161  
+ 
+ R  =
+ 
+    0.287  
+ 
+ rho1  =
+ 
+    1.1765389  
+ 
+ rho2  =
+ 
+    1.1157719  
+ 
+ A2  =
+ 
+    0.0008299  
+ 
+ d2  =
+ 
+    0.0325054  
+ 
+ 
+
+ The throat diameter of the choke, d2 = 3.25 cm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+ m_a  =
+ 
+    6.  
+ m_f  =
+ 
+    0.45  
+ 
+ rho_f  =
+ 
+    740.  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ T1  =
+ 
+    300.  
+ 
+ C2  =
+ 
+    92.  
+ 
+ Cv  =
+ 
+    0.8  
+ 
+ Cd_f  =
+ 
+    0.6  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    0.9373485  
+ 
+ R  =
+ 
+    0.287  
+ 
+ rho1  =
+ 
+    1.1765389  
+ 
+ rho2  =
+ 
+    1.1130865  
+ 
+ A2  =
+ 
+    0.0009765  
+ 
+ d2  =
+ 
+    0.0352612  
+ 
+ deltaP_v  =
+ 
+    0.0756515  
+ 
+ deltaP_f  =
+ 
+    0.0567386  
+ 
+ A_f  =
+ 
+    0.0000043  
+ 
+ d_f  =
+ 
+    0.0023436  
+ 
+ 
+
+ The throat diameter of the choke, d2 = 3.526 cm 
+
+ The orifice diameter, d_f = 2.34 mm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    10.  
+ l  =
+ 
+    12.  
+ 
+ n  =
+ 
+    4.  
+ 
+ N  =
+ 
+    2000.  
+ 
+ d2  =
+ 
+    3.  
+ 
+ eta_vol  =
+ 
+    70.  
+ 
+ rho_a  =
+ 
+    1.2  
+ 
+ Cd_a  =
+ 
+    0.8  
+ 
+ 
+ V_s  =
+ 
+    0.0037699  
+ 
+ V_act  =
+ 
+    0.0439823  
+ 
+ m_a  =
+ 
+    0.0527788  
+ 
+ deltaP_v  =
+ 
+    3629.6296  
+ 
+ 
+
+ The suction at the throat = 0.0363 bar
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ m_f  =
+ 
+    7.5  
+ 
+ s  =
+ 
+    0.75  
+ 
+ T1  =
+ 
+    298.  
+ 
+ A_F  =
+ 
+    15.  
+ 
+ d  =
+ 
+    22.  
+ 
+ z  =
+ 
+    4.  
+ 
+ Cd_a  =
+ 
+    0.82  
+ Cd_f  =
+ 
+    0.7  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ R  =
+ 
+    0.287  
+ 
+ rho_a  =
+ 
+    1.1844351  
+ 
+ rho_f  =
+ 
+    750.  
+ 
+ m_a  =
+ 
+    0.03125  
+ 
+ deltaP_v  =
+ 
+    4242.8783  
+ 
+ A_f  =
+ 
+    0.0000012  
+ 
+ d_f  =
+ 
+    0.0012277  
+ 
+ 
+
+ The diameter of the fuel jet of a simple carburettor, d_f = 1.228 mm
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ 
+ V_s  =
+ 
+    1489.  
+ 
+ N  =
+ 
+    4200.  
+ 
+ eta_v  =
+ 
+    70.  
+ 
+ A_F  =
+ 
+    13.  
+ 
+ C2  =
+ 
+    90.  
+ 
+ Cd_a  =
+ 
+    0.85  
+ Cd_f  =
+ 
+    0.66  
+ 
+ s  =
+ 
+    0.74  
+ 
+ z  =
+ 
+    6.  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ T1  =
+ 
+    300.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ 
+ V_s  =
+ 
+    0.001489  
+ 
+ V_act  =
+ 
+    0.0364805  
+ 
+ R  =
+ 
+    0.287  
+ 
+ m_a  =
+ 
+    0.0429207  
+ 
+ 
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    0.9661682  
+ 
+ V2  =
+ 
+    0.0377350  
+ 
+ A2  =
+ 
+    0.0004933  
+ 
+ d2  =
+ 
+    d2   
+ 
+ d_f  =
+ 
+    0.4d2   
+ 
+ d2  =
+ 
+  - 0.0273437  
+    0.0273437  
+ 
+ m_f  =
+ 
+    0.0033016  
+ 
+ A_f  =
+ 
+    0.0000019  
+ 
+ d_f  =
+ 
+    0.0015590  
+ 
+ 
+
+ The diameter of the fuel jet of a simple carburettor, D_jet = 1.56 mm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ 
+ V_s  =
+ 
+    1710.  
+ 
+ N  =
+ 
+    5400.  
+ 
+ eta_vol  =
+ 
+    70.  
+ 
+ n  =
+ 
+    2.  
+ 
+ A_F  =
+ 
+    13.  
+ 
+ C2  =
+ 
+    107.  
+ 
+ Cd_a  =
+ 
+    0.85  
+ Cd_f  =
+ 
+    0.66  
+ 
+ s  =
+ 
+    0.75  
+ 
+ z  =
+ 
+    6.  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ T1  =
+ 
+    300.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ 
+ V_s  =
+ 
+    0.00171  
+ 
+ V_act  =
+ 
+    0.053865  
+ 
+ V_act  =
+ 
+    0.0269325  
+ 
+ R  =
+ 
+    0.287  
+ 
+ m_a  =
+ 
+    0.0316871  
+ 
+ 
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    0.9472651  
+ 
+ V2  =
+ 
+    0.0282546  
+ 
+ A2  =
+ 
+    0.0003107  
+ 
+ d2  =
+ 
+    d2   
+ 
+ d_f  =
+ 
+    0.4d2   
+ 
+ d2  =
+ 
+  - 0.0217000  
+    0.0217000  
+ 
+ m_f  =
+ 
+    0.0024375  
+ 
+ A_f  =
+ 
+    0.0000012  
+ 
+ d_f  =
+ 
+    0.0012258  
+ 
+ 
+
+ The diameter of the choke tube, D = -2.17 cm 
+
+ The diameter of the fuel jet of a simple carburettor, D_f = 1.23 mm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ 
+ ha  =
+ 
+    5000.  
+ 
+ A_F  =
+ 
+    14.  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ T1  =
+ 
+    300.  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ 
+ 
+ ts  =
+ 
+    27.  
+ 
+ T2  =
+ 
+  - 5.5  
+ 
+ T2  =
+ 
+    267.5  
+ 
+ 
+ 
+ 
+ 
+ P2  =
+ 
+    0.5561511  
+ 
+ rho_a  =
+ 
+    0.0072441  
+ 
+ rho_s  =
+ 
+    0.0117654  
+ 
+ A_F_a  =
+ 
+    10.985465  
+ 
+ 
+
+ The air fuel ratio supplied at 5000 m altitude by a carburettor = 10.99
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+ d2  =
+ 
+    20.  
+ d_f  =
+ 
+    1.25  
+ 
+ Cd_a  =
+ 
+    0.85  
+ Cd_f  =
+ 
+    0.66  
+ 
+ z  =
+ 
+    5.  
+ 
+ rho_a  =
+ 
+    1.2  
+ rho_f  =
+ 
+    750.  
+ 
+ deltaP_a  =
+ 
+    0.07  
+ 
+ g  =
+ 
+    9.806  
+ 
+ 
+ 
+ A_f  =
+ 
+    1.2271846  
+ A2  =
+ 
+    314.15927  
+ 
+ m_a1  =
+ 
+    109.45193  
+ m_f1  =
+ 
+    8.2994343  
+ 
+ A_F1  =
+ 
+    13.187879  
+ 
+ 
+ m_a2  =
+ 
+    109.45193  
+ 
+ m_f2  =
+ 
+    8.2776063  
+ 
+ A_F2  =
+ 
+    13.222655  
+ 
+ 
+ 
+ deltaP_a  =
+ 
+    36.7725  
+ 
+ C2  =
+ 
+    7.8286333  
+ 
+ 
+
+ The air fuel ratio when the nozzle lip is neglected = 13.2 
+
+ The air fuel ratio when the nozzle lip is taken into account = 13.223 
+
+ The minimum velocity required to start the fuel flow when lip is provided = 7.83 m/s 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+ A_F  =
+ 
+    14.  
+ 
+ P2  =
+ 
+    0.834  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ deltaP_ac  =
+ 
+    30.  
+ 
+ m_a  =
+ 
+    250.  
+ 
+ 
+ 
+ deltaP_a1  =
+ 
+    0.179  
+ 
+ 
+ deltaP_ac  =
+ 
+    0.04  
+ 
+ p  =
+ 
+    p   
+ 
+ deltaP_a2  =
+ 
+    0.973 - p   
+ 
+ 
+ p  =
+ 
+    0.794  
+ 
+ deltaP_f  =
+ 
+    0.219  
+ 
+ A_F_f  =
+ 
+    12.65705  
+ 
+ 
+
+ (a)The throat pressure when the air cleaner is fitted, P = 0.794 bar 
+
+ (b)Air fuel ratio with air cleaner is fitted = 12.66
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ bsfc  =
+ 
+    245.  
+ 
+ bp  =
+ 
+    89.  
+ 
+ N  =
+ 
+    2500.  
+ 
+ s  =
+ 
+    0.84  
+ 
+ 
+ m_f  =
+ 
+    21.805  
+ 
+ m_f  =
+ 
+    3.6341667  
+ 
+ m_f  =
+ 
+    0.0000485  
+ 
+ V_f  =
+ 
+    0.0576852  
+ 
+ 
+
+ The quantity of fuel to be injected per cycle per cylinder, V_f = 0.0577 cc 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ 
+ n  =
+ 
+    8.  
+ 
+ bp  =
+ 
+    368.  
+ 
+ N  =
+ 
+    800.  
+ 
+ bsfc  =
+ 
+    0.238  
+ 
+ P1  =
+ 
+    35.  
+ P2  =
+ 
+    60.  
+ 
+ P1_i  =
+ 
+    210.  
+ P2_i  =
+ 
+    600.  
+ 
+ theta_i  =
+ 
+    12.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ s  =
+ 
+    0.85  
+ 
+ P_atm  =
+ 
+    1.013  
+ 
+ 
+ m_f  =
+ 
+    0.1824667  
+ 
+ m_f  =
+ 
+    0.0004562  
+ 
+ t  =
+ 
+    0.0025  
+ 
+ m_f  =
+ 
+    0.1824667  
+ 
+ deltaP1  =
+ 
+    175.  
+ 
+ deltaP2  =
+ 
+    540.  
+ 
+ deltaP_av  =
+ 
+    357.5  
+ 
+ A_f  =
+ 
+    0.0000012  
+ 
+ 
+
+ The Orifice area of fuel injector, Af = 0.01234 cm^2 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ 
+ bp  =
+ 
+    15.  
+ 
+ N  =
+ 
+    2000.  
+ 
+ bsfc  =
+ 
+    0.272  
+ 
+ API  =
+ 
+    32.  
+ 
+ theta_i  =
+ 
+    30.  
+ 
+ P_i  =
+ 
+    120.  
+ 
+ P_c  =
+ 
+    30.  
+ 
+ Cd  =
+ 
+    0.9  
+ 
+ 
+ 
+ s  =
+ 
+    0.8654434  
+ 
+ m_f  =
+ 
+    0.000068  
+ 
+ t  =
+ 
+    0.0025  
+ 
+ m_f  =
+ 
+    0.0272  
+ 
+ A_f  =
+ 
+    0.0000002  
+ 
+ A_f  =
+ 
+    0.2421424  
+ 
+ d_f  =
+ 
+    0.5552524  
+ 
+ 
+
+ The diameter of the fuel orifice, d = 0.56 mm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH12/EX12.4/Ex12_4.sce #
+ 
+ 
+ 
+ s1  =
+ 
+    20.  
+ 
+ t1  =
+ 
+    16.  
+ 
+ P_i1  =
+ 
+    140.  
+ 
+ s2  =
+ 
+    20.  
+ 
+ P_i2  =
+ 
+    220.  
+ 
+ P_c  =
+ 
+    15.  
+ 
+ 
+ deltaP1  =
+ 
+    125.  
+ 
+ deltaP2  =
+ 
+    205.  
+ 
+ t2  =
+ 
+    12.493901  
+ 
+ 
+
+ Penetration time for 220 bar injection pressure, t2 = 12.5 milli-seconds
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ 
+ V_b  =
+ 
+    7.  
+ 
+ D_l  =
+ 
+    3.  
+ L_l  =
+ 
+    700.  
+ 
+ V_iv  =
+ 
+    3.  
+ 
+ P2  =
+ 
+    200.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ V_d  =
+ 
+    0.15  
+ 
+ C  =
+ 
+    0.0000788  
+ 
+ d  =
+ 
+    8.  
+ 
+ 
+ V_l  =
+ 
+    4.9480084  
+ 
+ V1  =
+ 
+    14.948008  
+ 
+ deltaV  =
+ 
+    0.2344027  
+ 
+ V_p  =
+ 
+    0.3844027  
+ 
+ A_p  =
+ 
+    0.5026548  
+ 
+ l  =
+ 
+    0.7647449  
+ 
+ 
+
+ The plunger displacement = 0.384 cc 
+
+ The effective stroke of the plunger, l = 7.65 mm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ 
+ bp  =
+ 
+    80.  
+ 
+ eta_m  =
+ 
+    80.  
+ 
+ bsfc  =
+ 
+    258.  
+ 
+ Reduction  =
+ 
+    3.7  
+ 
+ 
+ ip1  =
+ 
+    100.  
+ 
+ fp1  =
+ 
+    20.  
+ 
+ fp2  =
+ 
+    16.3  
+ 
+ ip2  =
+ 
+    96.3  
+ 
+ eta_m2  =
+ 
+    0.8307373  
+ 
+ bsfc2  =
+ 
+    248.454  
+ 
+ Saving  =
+ 
+    0.76368  
+ 
+ 
+
+ (a)The new mechanical efficiency, eta_m = 0.831 
+
+ (b)The new bsfc = 248.5 gm/kWh 
+
+ (c)The saving in fuel per hour = 0.76 kg/hr
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ 
+ eta_it  =
+ 
+    30.  
+ 
+ fp_1500  =
+ 
+    18.  
+ 
+ fp_2500  =
+ 
+    45.  
+ 
+ bp  =
+ 
+    75.  
+ 
+ CV  =
+ 
+    44000.  
+ 
+ 
+ isfc  =
+ 
+    0.2727273  
+ 
+ eta_m_1500  =
+ 
+    0.8064516  
+ 
+ bsfc_1500  =
+ 
+    0.3381818  
+ 
+ eta_m_2500  =
+ 
+    0.625  
+ 
+ bsfc_2500  =
+ 
+    0.4363636  
+ 
+ 
+
+ The brake specific fuel consumption
+	at 1500 rpm, bsfc_1500 = 0.338 kg/kWh
+	at 2500 rpm, bsfc_2500 = 0.436 kg/kWh
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH15/EX15.1/Ex15_1.sce #
+ 
+ 
+ 
+ bp  =
+ 
+    100.  
+ 
+ deltaT  =
+ 
+    30.  
+ 
+ p_p  =
+ 
+    30.  
+ p_d  =
+ 
+    26.  
+ 
+ eta_p  =
+ 
+    26.  
+ eta_d  =
+ 
+    31.  
+ 
+ s  =
+ 
+    4.1868  
+ 
+ 
+ 
+ CW_p  =
+ 
+    0.9186381  
+ 
+ 
+ CW_d  =
+ 
+    0.6677412  
+ 
+ 
+
+ Amount of cooling water required in petrol engine = 3307 kg/hr 
+
+ Amount of cooling water required in diesel engine = 2403.9 kg/hr
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH16/EX16.1/Ex16_1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ N  =
+ 
+    4000.  
+ 
+ eta_v  =
+ 
+    0.77  
+ 
+ eta_m  =
+ 
+    0.75  
+ 
+ V_f  =
+ 
+    10.  
+ 
+ s  =
+ 
+    0.73  
+ 
+ h  =
+ 
+    10500.  
+ 
+ A_F  =
+ 
+    18.  
+ 
+ v_p  =
+ 
+    600.  
+ 
+ imep  =
+ 
+    5.  
+ 
+ T  =
+ 
+    298.  
+ P  =
+ 
+    1.013  
+ 
+ 
+ R  =
+ 
+    0.287  
+ 
+ m_f  =
+ 
+    7.3  
+ 
+ m_a  =
+ 
+    131.4  
+ 
+ m_c  =
+ 
+    138.7  
+ 
+ m  =
+ 
+    180.  
+ 
+ V  =
+ 
+    75.985587  
+ 
+ V_s  =
+ 
+    316.60661  
+ 
+ L  =
+ 
+    7.5  
+ 
+ d  =
+ 
+    7.3313579  
+ 
+ IHP  =
+ 
+    28.  
+ 
+ BHP  =
+ 
+    21.  
+ 
+ eta_t  =
+ 
+    0.1733742  
+ 
+ 
+
+ The engine dimensions
+	 Stroke length, L = 7.5 cm
+	 Bore, d = 7.3 cm 
+
+ The brake power output, BHP = 21.0 metric HP 
+
+ The thermal efficiency, eta_t = 17.3 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH17/EX17.1/Ex17_1.sce #
+ 
+ 
+ 
+ V_s  =
+ 
+    3000.  
+ 
+ ip  =
+ 
+    14.  
+ 
+ N  =
+ 
+    3500.  
+ 
+ eta_v  =
+ 
+    80.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ r_p  =
+ 
+    1.7  
+ 
+ eta_C  =
+ 
+    75.  
+ 
+ eta_m  =
+ 
+    80.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ V_s  =
+ 
+    5.25  
+ 
+ Vi  =
+ 
+    4.2  
+ 
+ P2  =
+ 
+    1.7221  
+ 
+ T2!  =
+ 
+    349.11122  
+ 
+ T2!  =
+ 
+    350.  
+ 
+ T2  =
+ 
+    366.66667  
+ 
+ V1  =
+ 
+    7.3022727  
+ 
+ Vi_inc  =
+ 
+    3.1022727  
+ 
+ ip_inc1  =
+ 
+    43.431818  
+ 
+ ip_inc2  =
+ 
+    6.204625  
+ 
+ ip_inc  =
+ 
+    49.636443  
+ 
+ bp_inc  =
+ 
+    39.709155  
+ 
+ R  =
+ 
+    0.287  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ m2  =
+ 
+    0.1431901  
+ 
+ Power  =
+ 
+    11.992174  
+ 
+ bp_inc  =
+ 
+    27.716981  
+ 
+ 
+
+ The net increase in the brake power = 27.7 kW
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH17/EX17.2/Ex17_2.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    283.  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ bp  =
+ 
+    250.  
+ 
+ eta_v  =
+ 
+    78.  
+ 
+ bsfc  =
+ 
+    0.245  
+ 
+ A_F  =
+ 
+    17.  
+ 
+ N  =
+ 
+    1500.  
+ 
+ h  =
+ 
+    2700.  
+ 
+ P_a  =
+ 
+    0.72  
+ 
+ p  =
+ 
+    8.  
+ 
+ T2  =
+ 
+    305.  
+ 
+ 
+ 
+ m_f  =
+ 
+    1.0208333  
+ 
+ m_a  =
+ 
+    17.354167  
+ 
+ m_a  =
+ 
+    0.0231389  
+ 
+ m1  =
+ 
+    0.0296652  
+ 
+ R  =
+ 
+    0.287  
+ 
+ V_s  =
+ 
+    0.0237852  
+ 
+ bmep  =
+ 
+    840.85907  
+ 
+ 
+ bp2  =
+ 
+    271.73913  
+ 
+ m_a2  =
+ 
+    0.0251510  
+ 
+ m2  =
+ 
+    0.0322448  
+ 
+ P2  =
+ 
+    1.1866838  
+ 
+ deltaP  =
+ 
+    0.4666838  
+ 
+ 
+
+ The required engine capacity, V_s = 0.0238 m^3 
+
+ The anticipated brake mean effective pressure, bmep = 8.4 bar 
+
+ The increase of air pressure required at the supercharger = 0.467 bar
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH17/EX17.3/Ex17_3.sce #
+ 
+ 
+ 
+ V_s  =
+ 
+    3300.  
+ 
+ 
+ bmep1  =
+ 
+    9.3  
+ 
+ N1  =
+ 
+    4500.  
+ 
+ eta_it1  =
+ 
+    28.5  
+ 
+ eta_m1  =
+ 
+    90.  
+ 
+ m1  =
+ 
+    205.  
+ 
+ 
+ bmep2  =
+ 
+    12.1  
+ 
+ N2  =
+ 
+    4500.  
+ 
+ eta_it2  =
+ 
+    24.8  
+ 
+ eta_m2  =
+ 
+    90.  
+ 
+ m2  =
+ 
+    225.  
+ 
+ h  =
+ 
+    h   
+ 
+ CV  =
+ 
+    44000.  
+ 
+ 
+ 
+ bp1  =
+ 
+    115.0875  
+ 
+ bp1  =
+ 
+    115.  
+ 
+ ip1  =
+ 
+    127.77778  
+ 
+ m_f1  =
+ 
+    0.0101896  
+ 
+ m_f1  =
+ 
+    36.682616h   
+ 
+ Mass1  =
+ 
+    1.7826087 + 0.3189793h   
+ 
+ 
+ bp2  =
+ 
+    149.7375  
+ 
+ bp2  =
+ 
+    150.  
+ 
+ ip2  =
+ 
+    166.66667  
+ 
+ m_f2  =
+ 
+    0.0152737  
+ 
+ m_f2  =
+ 
+    54.985337h   
+ 
+ Mass2  =
+ 
+    1.5 + 0.3665689h   
+ 
+ h_max  =
+ 
+    5.94  
+ 
+ 
+
+ The maximum value of h hours duration, h_max = 5.94 hours
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH17/EX17.4/Ex17_4.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    293.  
+ 
+ Q1  =
+ 
+    1340.  
+ 
+ T3  =
+ 
+    333.  
+ 
+ P3  =
+ 
+    1.72  
+ 
+ eta_v  =
+ 
+    0.7  
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    90.  
+ l  =
+ 
+    100.  
+ 
+ N  =
+ 
+    2000.  
+ 
+ T  =
+ 
+    147.  
+ 
+ eta_m  =
+ 
+    0.75  
+ 
+ 
+ bp  =
+ 
+    30.787608  
+ 
+ ip  =
+ 
+    41.050144  
+ 
+ ip  =
+ 
+    6.8416907  
+ 
+ A  =
+ 
+    0.0063617  
+ 
+ l  =
+ 
+    0.1  
+ 
+ imep  =
+ 
+    645.26749  
+ 
+ imep  =
+ 
+    6.4526749  
+ 
+ V_s  =
+ 
+    3.8170351  
+ 
+ Vi  =
+ 
+    2.6719246  
+ 
+ R  =
+ 
+    0.287  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ m_e  =
+ 
+    4.808687  
+ 
+ Q1  =
+ 
+    22.333333  
+ 
+ m_c  =
+ 
+    1.  
+ 
+ 
+ T2  =
+ 
+    438.66647  
+ 
+ m_c  =
+ 
+    12.61832  
+ 
+ 
+
+ (a)The engine indicated mean effective pressure, imep = 6.45 bar 
+
+ (b)The air consumption in the engine, m_e = 4.81 kg/min 
+
+ (c)The air flow into the compressor, m_c = 12.62 kg/min
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.1/Ex18_1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d_o  =
+ 
+    7.5  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ d  =
+ 
+    11.  
+ l  =
+ 
+    13.  
+ 
+ N  =
+ 
+    2250.  
+ 
+ bp  =
+ 
+    36.  
+ 
+ m_f  =
+ 
+    10.5  
+ 
+ CV  =
+ 
+    42000.  
+ 
+ deltaP_o  =
+ 
+    4.1  
+ 
+ P  =
+ 
+    1.013  
+ 
+ T  =
+ 
+    288.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ eta_bt  =
+ 
+    0.2938776  
+ 
+ 
+ A  =
+ 
+    0.0095033  
+ 
+ bmep  =
+ 
+    388528.28  
+ 
+ 
+ rho_w  =
+ 
+    1000.  
+ 
+ deltaP_o  =
+ 
+    402.21  
+ 
+ R  =
+ 
+    0.287  
+ 
+ rho_a  =
+ 
+    1.2255614  
+ 
+ A_o  =
+ 
+    0.0044179  
+ 
+ m_a  =
+ 
+    0.0832286  
+ 
+ V_s  =
+ 
+    0.0926573  
+ 
+ eta_vol  =
+ 
+    0.8982407  
+ 
+ 
+
+ (a)Brake thermal efficiency, eta_bt = 0.294 
+
+ (b)Brake mean effective pressure, bmep = 3.885 bar 
+
+ (c)Volumetric efficiency, eta_vol = 0.898
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.2/Ex18_2.sce #
+ 
+ 
+ 
+ d  =
+ 
+    24.  
+ l  =
+ 
+    48.  
+ 
+ D_b  =
+ 
+    1.25  
+ 
+ P  =
+ 
+    1236.  
+ 
+ N  =
+ 
+    77.  
+ 
+ N1  =
+ 
+    226.7  
+ 
+ imep  =
+ 
+    7.5  
+ 
+ Vg1  =
+ 
+    13.  
+ 
+ T1  =
+ 
+    288.  
+ P1  =
+ 
+    771.  
+ 
+ T2  =
+ 
+    273.  
+ P2  =
+ 
+    760.  
+ 
+ CV  =
+ 
+    22000.  
+ 
+ m_w  =
+ 
+    625.  
+ 
+ T1_w  =
+ 
+    298.  
+ T2_w  =
+ 
+    333.  
+ 
+ 
+ 
+ T  =
+ 
+    772.5  
+ 
+ bp  =
+ 
+    18339.126  
+ 
+ ip  =
+ 
+    20900.388  
+ 
+ eta_m  =
+ 
+    0.8774539  
+ 
+ 
+ Vg2  =
+ 
+    12.501275  
+ 
+ 
+ eta_it  =
+ 
+    0.2630818  
+ 
+ 
+ Q1  =
+ 
+    4583.8007  
+ 
+ Q_bp  =
+ 
+    1100.3475  
+ 
+ cp  =
+ 
+    4.1868  
+ 
+ Q_w  =
+ 
+    1526.4375  
+ 
+ Q_r  =
+ 
+    1957.0157  
+ 
+ 
+
+ (a)The mechanical efficiency of the engine, eta_m = 87.7 percent 
+
+ (b)The gas consumption at N.T.P. = 12.5 m^3/hr 
+
+ (c)The indicated thermal efficiency, eta_it = 26.3 percent 
+
+
+   Heat balance sheet
+	 Heat supplied by the gas = 4583.8 kJ/min, 100 percent 
+
+	 Heat equivalent to b.p. = 1100.3 kJ/min, 24.0 percent 
+
+	 Heat in cooling water = 1526.4 kJ/min, 33.3 percent 
+
+	 Heat to exhaust, radiation = 1957.0 kJ/min, 42.7 percent 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.3/Ex18_3.sce #
+ 
+ 
+ 
+ d  =
+ 
+    18.  
+ l  =
+ 
+    36.  
+ 
+ N  =
+ 
+    285.  
+ 
+ T  =
+ 
+    393.  
+ 
+ imep  =
+ 
+    7.2  
+ 
+ m_f  =
+ 
+    3.5  
+ 
+ m_w  =
+ 
+    4.5  
+ 
+ deltaT_w  =
+ 
+    36.  
+ 
+ A_F  =
+ 
+    25.  
+ 
+ T2  =
+ 
+    688.  
+ 
+ P  =
+ 
+    1.013  
+ 
+ T1  =
+ 
+    294.  
+ 
+ CV  =
+ 
+    45200.  
+ 
+ p  =
+ 
+    15.  
+ 
+ R  =
+ 
+    0.287  
+ 
+ cv  =
+ 
+    1.005  
+ cp  =
+ 
+    2.05  
+ 
+ 
+ 
+ ip  =
+ 
+    15.665112  
+ 
+ ip  =
+ 
+    15.7  
+ 
+ eta_it  =
+ 
+    0.3572693  
+ 
+ 
+ m_a  =
+ 
+    1.4583333  
+ 
+ m_a  =
+ 
+    1.46  
+ 
+ V_a  =
+ 
+    1.2161094  
+ 
+ V_s  =
+ 
+    1.305426  
+ 
+ eta_vol  =
+ 
+    0.9315805  
+ 
+ 
+ Q1  =
+ 
+    2636.6667  
+ 
+ bp  =
+ 
+    11.729136  
+ 
+ Q_bp  =
+ 
+    703.74817  
+ 
+ cp_w  =
+ 
+    4.1868  
+ 
+ Q_w  =
+ 
+    678.2616  
+ 
+ m_e  =
+ 
+    1.5183333  
+ 
+ 
+ 
+ m_h  =
+ 
+    0.00875  
+ 
+ m_s  =
+ 
+    0.07875  
+ 
+ m_d  =
+ 
+    1.4395833  
+ 
+ Q_d  =
+ 
+    570.03181  
+ 
+ lv  =
+ 
+    2256.9  
+ 
+ Q_s  =
+ 
+    234.80494  
+ 
+ Q_r  =
+ 
+    449.82015  
+ 
+ 
+
+ (a)The indicated thermal efficiency, eta_it = 35.7 percent 
+
+ (b)The volumetric efficiency, eta_vol = 93.2 percent 
+
+
+   Heat balance sheet
+	 Heat input = 2636.7 kJ/min, 100 percent 
+
+	 Heat equivalent to b.p. = 703.7 kJ/min, 26.7 percent 
+
+	 Heat in cooling water = 678.3 kJ/min, 25.7 percent 
+
+	 Heat in dry exhaust gases = 570.0 kJ/min, 21.6 percent 
+
+	 Heat in steam in exhaust gases = 234.8 kJ/min, 8.9 percent 
+
+	 Heat in radiation = 449.8 kJ/min, 17.1 percent 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.4/Ex18_4.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ d_o  =
+ 
+    5.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ d  =
+ 
+    10.5  
+ l  =
+ 
+    12.5  
+ 
+ N  =
+ 
+    1200.  
+ 
+ T  =
+ 
+    147.  
+ 
+ m_f  =
+ 
+    5.5  
+ 
+ CV  =
+ 
+    43100.  
+ 
+ deltaP_o  =
+ 
+    5.7  
+ 
+ P1  =
+ 
+    1.013  
+ 
+ T1  =
+ 
+    293.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ bp  =
+ 
+    18.472565  
+ 
+ eta_bt  =
+ 
+    0.2805367  
+ 
+ 
+ A  =
+ 
+    0.0086590  
+ 
+ bmep  =
+ 
+    426666.67  
+ 
+ 
+ rho_w  =
+ 
+    1000.  
+ 
+ deltaP_o  =
+ 
+    559.17  
+ 
+ R  =
+ 
+    0.287  
+ 
+ rho_a  =
+ 
+    1.2046473  
+ 
+ rho_a  =
+ 
+    1.2  
+ 
+ A_o  =
+ 
+    0.0019635  
+ 
+ V_a  =
+ 
+    0.0359648  
+ 
+ V_s  =
+ 
+    0.0432951  
+ 
+ eta_vol  =
+ 
+    0.8306900  
+ 
+ 
+
+ (a)Brake thermal efficiency, eta_bt = 28.1 percent 
+
+ (b)Brake mean effective pressure, bmep = 4.27 bar 
+
+ (c)Volumetric efficiency, eta_vol = 83.1 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.5/Ex18_5.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    7.5  
+ l  =
+ 
+    9.  
+ 
+ R_b  =
+ 
+    38.  
+ 
+ P1  =
+ 
+    324.  
+ 
+ N  =
+ 
+    3300.  
+ 
+ P2  =
+ 
+    245.  
+ 
+ m_f  =
+ 
+    0.3  
+ 
+ CV  =
+ 
+    42000.  
+ 
+ m_w  =
+ 
+    65.  
+ 
+ deltaT_w  =
+ 
+    12.  
+ 
+ m_a  =
+ 
+    14.  
+ 
+ T1_a  =
+ 
+    283.  
+ T2_a  =
+ 
+    328.  
+ 
+ 
+ bp  =
+ 
+    42.547218  
+ 
+ bp1  =
+ 
+    32.17305  
+ 
+ ip  =
+ 
+    62.245004  
+ 
+ A  =
+ 
+    0.0044179  
+ 
+ bmep  =
+ 
+    948780.25  
+ 
+ 
+ Q1  =
+ 
+    12600.  
+ 
+ Q_bp  =
+ 
+    2552.8331  
+ 
+ cp_w  =
+ 
+    4.1868  
+ 
+ Q_w  =
+ 
+    3265.704  
+ 
+ cp_a  =
+ 
+    1.005  
+ 
+ Q_a  =
+ 
+    633.15  
+ 
+ Q_e  =
+ 
+    6148.3129  
+ 
+ 
+
+ (a)The indicated mean effective pressure, bmep = 9.5 bar 
+
+
+   Heat balance sheet
+	 Heat input = 12600 kJ/min, 100 percent 
+
+	 Heat equivalent to b.p. = 2552 kJ/min, 20.3 percent 
+
+	 Heat in cooling water = 3265 kJ/min, 25.9 percent 
+
+	 Heat to ventilating air = 633 kJ/min, 5.0 percent 
+
+	 Heat to exhaust and other losses = 6148 kJ/min, 48.80 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.6/Ex18_6.sce #
+ 
+ 
+ 
+ N  =
+ 
+    450.  
+ 
+ P  =
+ 
+    450.  
+ 
+ imep  =
+ 
+    2.9  
+ 
+ m_f  =
+ 
+    5.4  
+ 
+ deltaT_w  =
+ 
+    36.1  
+ 
+ m_w  =
+ 
+    440.  
+ 
+ A_F  =
+ 
+    31.  
+ 
+ T1_g  =
+ 
+    293.  
+ T2_g  =
+ 
+    628.  
+ 
+ P1  =
+ 
+    76.  
+ 
+ d  =
+ 
+    22.  
+ l  =
+ 
+    27.  
+ 
+ D_b  =
+ 
+    1.5  
+ 
+ CV  =
+ 
+    44000.  
+ 
+ p  =
+ 
+    15.  
+ 
+ R  =
+ 
+    0.287  
+ 
+ cp_g  =
+ 
+    1.005  
+ cp_s  =
+ 
+    2.05  
+ 
+ 
+ ip  =
+ 
+    22.323293  
+ 
+ eta_it  =
+ 
+    0.3382317  
+ 
+ bp  =
+ 
+    15.904313  
+ 
+ bp  =
+ 
+    15.9  
+ 
+ bsfc  =
+ 
+    339.62264  
+ 
+ V_s  =
+ 
+    4.6186124  
+ 
+ m_a  =
+ 
+    2.79  
+ 
+ P1  =
+ 
+    1.0132  
+ 
+ T1  =
+ 
+    293.  
+ 
+ V_a  =
+ 
+    2.3155733  
+ 
+ V_a  =
+ 
+    2.32  
+ 
+ eta_vol  =
+ 
+    0.5023154  
+ 
+ 
+ Q1  =
+ 
+    3960.  
+ 
+ Q_bp  =
+ 
+    954.  
+ 
+ cp_w  =
+ 
+    4.1868  
+ 
+ Q_w  =
+ 
+    1108.3855  
+ 
+ m_e  =
+ 
+    2.88  
+ 
+ 
+ 
+ m_h  =
+ 
+    0.0135  
+ 
+ m_s  =
+ 
+    0.1215  
+ 
+ m_d  =
+ 
+    2.7585  
+ 
+ Q_d  =
+ 
+    928.71799  
+ 
+ lv  =
+ 
+    2256.9  
+ 
+ Q_s  =
+ 
+    347.44748  
+ 
+ Q_r  =
+ 
+    621.44902  
+ 
+ 
+
+ (a)The indicated thermal efficiency, eta_it = 33.8 percent 
+
+ (b)Brake specific fuel consumption = 339.6 gm/kWh 
+
+ (c)The volumetric efficiency, eta_vol = 50.2 percent 
+
+
+   Heat balance sheet
+	 Heat input = 3960.0 kJ/min, 100 percent 
+
+	 Heat equivalent to b.p. = 954.0 kJ/min, 24.1 percent 
+
+	 Heat in cooling water = 1108.4 kJ/min, 28.0 percent 
+
+	 Heat in dry exhaust gases = 928.7 kJ/min, 23.5 percent 
+
+	 Heat in steam in exhaust gases = 347.4 kJ/min, 8.8 percent 
+
+	 Heat in radiation = 621.4 kJ/min, 15.7 percent 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.7/Ex18_7.sce #
+ 
+ 
+ 
+ n  =
+ 
+    12.  
+ 
+ 
+ d  =
+ 
+    38.  
+ l  =
+ 
+    50.  
+ 
+ N  =
+ 
+    200.  
+ 
+ Wall1  =
+ 
+    2000.  
+ Wall2  =
+ 
+    2020.  
+ 
+ Wn  =
+ 
+ 
+         column 1 to 8
+ 
+    1795.    1814.    1814.    1795.    1804.    1819.    1800.    1824.  
+ 
+         column  9 to 12
+ 
+    1785.    1804.    1814.    1795.  
+ 
+ 
+ W  =
+ 
+    2010.  
+ 
+ bp  =
+ 
+    2233.3333  
+ 
+ ipn  =
+ 
+ 
+         column 1 to 6
+ 
+    238.88889    217.77778    217.77778    238.88889    228.88889    212.22222  
+ 
+         column  7 to 12
+ 
+    233.33333    206.66667    250.    228.88889    217.77778    238.88889  
+ 
+ ip  =
+ 
+    2730.  
+ 
+ eta_m  =
+ 
+    0.8180708  
+ 
+ A  =
+ 
+    0.1134115  
+ 
+ bmep  =
+ 
+    984615.07  
+ 
+ 
+
+ The brake mean effective pressure, bmep = 9.85 bar 
+
+ The mechanical efficiency, eta_m = 81.8 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.8/Ex18_8.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ 
+ d  =
+ 
+    95.  
+ l  =
+ 
+    120.  
+ 
+ N  =
+ 
+    2400.  
+ 
+ C_H  =
+ 
+    4.8823529  
+ 
+ d_o  =
+ 
+    30.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ P  =
+ 
+    550.  
+ 
+ P1  =
+ 
+    750.  
+ 
+ T1  =
+ 
+    298.  
+ 
+ deltaP_o  =
+ 
+    14.5  
+ 
+ s  =
+ 
+    0.831  
+ 
+ t  =
+ 
+    19.3  
+ 
+ V_f  =
+ 
+    100.  
+ 
+ 
+ 
+ bp  =
+ 
+    66.  
+ 
+ A  =
+ 
+    0.0070882  
+ 
+ bmep  =
+ 
+    646612.88  
+ 
+ 
+ T  =
+ 
+    262.60566  
+ 
+ 
+ rho_f  =
+ 
+    831.  
+ 
+ m_f  =
+ 
+    15.500518  
+ 
+ bsfc  =
+ 
+    0.2348563  
+ 
+ 
+ R  =
+ 
+    0.287  
+ 
+ P1  =
+ 
+    0.9999178  
+ 
+ rho_a  =
+ 
+    1.1691389  
+ 
+ deltaP_o  =
+ 
+    19345.32  
+ 
+ A_o  =
+ 
+    0.0007069  
+ 
+ V_a  =
+ 
+    0.0771531  
+ 
+ V_s  =
+ 
+    0.1020703  
+ 
+ eta_vol  =
+ 
+    0.7558819  
+ 
+ 
+ pH  =
+ 
+    17.  
+ pC  =
+ 
+    83.  
+ 
+ pO  =
+ 
+    23.3  
+ 
+ H  =
+ 
+    1.  
+ C  =
+ 
+    12.  
+ O  =
+ 
+    16.  
+ 
+ mO2  =
+ 
+    3.5733333  
+ 
+ m_a  =
+ 
+    15.336195  
+ 
+ A_F_t  =
+ 
+    15.336195  
+ 
+ m_a_act  =
+ 
+    0.0902027  
+ 
+ A_F_act  =
+ 
+    20.94961  
+ 
+ P_e  =
+ 
+    36.602402  
+ 
+ 
+
+ (a)The brake mean effective pressure, bmep = 6.466 bar 
+
+ (b)The brake torque, T = 262.6 Nm 
+
+ (c)The brake specific fuel consumption, bsfc = 0.235 kg/kWh 
+
+ (d)The percentage excess air = 36.6 percent 
+
+ (e)The volumetric efficiency, eta_vol = 75.6 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.9/Ex18_9.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    125.  
+ l  =
+ 
+    190.  
+ 
+ pC  =
+ 
+    0.82  
+ pH2  =
+ 
+    0.18  
+ 
+ pCO2  =
+ 
+    0.1119  
+ pO2  =
+ 
+    0.0361  
+ pN2  =
+ 
+    0.852  
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    290.  
+ 
+ m_f  =
+ 
+    31.3  
+ 
+ N  =
+ 
+    1500.  
+ 
+ m  =
+ 
+    1.  
+ T  =
+ 
+    273.  
+ P  =
+ 
+    1.013  
+ V  =
+ 
+    0.773  
+ 
+ p  =
+ 
+    0.23  
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ N2  =
+ 
+    14.  
+ 
+ A_F_s  =
+ 
+    15.768116  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.0683333  
+ c  =
+ 
+    0.09  
+ 
+ d1  =
+ 
+    0.5202860  
+ 
+ x  =
+ 
+    0.6585898  
+ 
+ m_a  =
+ 
+    28.92  
+ 
+ A_F_act  =
+ 
+    19.046418  
+ 
+ P_e  =
+ 
+    20.790703  
+ 
+ R_a  =
+ 
+    0.2868311  
+ 
+ V_a  =
+ 
+    15.843007  
+ 
+ 
+ V_f  =
+ 
+    0.2483016  
+ 
+ V_m  =
+ 
+    16.091308  
+ 
+ V_m1  =
+ 
+    8.3942991  
+ 
+ V_s  =
+ 
+    10.492429  
+ 
+ eta_v  =
+ 
+    80.003395  
+ 
+ 
+
+ The mass of air supplied per kg of petrol, m_a = 19.05 kg/kg of fuel 
+
+ The percentage excess air = 20.8 percent 
+
+ The volume of mixture per kg of petrol, V_m = 16.09 m^3/kg fuel 
+
+ The volumetric efficiency of the engine, eta_v = 80 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.10/Ex18_10.sce #
+ 
+ 
+ 
+ d  =
+ 
+    27.  
+ l  =
+ 
+    45.  
+ 
+ D_b  =
+ 
+    1.62  
+ 
+ t  =
+ 
+    38.5  
+ 
+ N  =
+ 
+    8080.  
+ N1  =
+ 
+    3230.  
+ 
+ P  =
+ 
+    903.  
+ 
+ imep  =
+ 
+    5.64  
+ 
+ Vg1  =
+ 
+    7.7  
+ 
+ T1  =
+ 
+    300.  
+ 
+ deltaP1  =
+ 
+    135.  
+ 
+ Patm  =
+ 
+    750.  
+ 
+ CV  =
+ 
+    18420.  
+ 
+ m_w  =
+ 
+    183.  
+ 
+ deltaT_w  =
+ 
+    47.  
+ 
+ 
+ P1  =
+ 
+    759.92647  
+ 
+ P1  =
+ 
+    1.0132353  
+ 
+ T2  =
+ 
+    273.  
+ P2  =
+ 
+    1.013  
+ 
+ Vg2  =
+ 
+    7.0086275  
+ 
+ Q1  =
+ 
+    3353.2187  
+ 
+ T  =
+ 
+    731.43  
+ 
+ bp  =
+ 
+    16.075038  
+ 
+ bp  =
+ 
+    16.1  
+ 
+ Q_bp  =
+ 
+    966.  
+ 
+ A  =
+ 
+    0.0572555  
+ 
+ ip  =
+ 
+    20.318871  
+ 
+ ip  =
+ 
+    20.3  
+ 
+ Q_ip  =
+ 
+    1218.  
+ 
+ fp  =
+ 
+    4.2  
+ 
+ Q_fp  =
+ 
+    252.  
+ 
+ cp  =
+ 
+    4.1868  
+ 
+ Q_w  =
+ 
+    935.34199  
+ 
+ Q_e  =
+ 
+    1451.8767  
+ 
+ eta_it  =
+ 
+    0.3632331  
+ 
+ eta_bt  =
+ 
+    0.2880814  
+ 
+ 
+
+ The indicated thermal efficiency, eta_it = 36.3 percent 
+
+ The brake thermal efficiency, eta_bt = 28.8 percent 
+
+
+   Heat balance sheet
+	 Heat supplied by the gas = 3353 kJ/min, 100 percent 
+
+	 Heat equivalent to b.p. = 966 kJ/min, 28.8 percent 
+
+	 Heat in cooling water = 935 kJ/min, 27.9 percent 
+
+	 Heat to exhaust, radiation = 1451 kJ/min, 43.3 percent 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.11/Ex18_11.sce #
+ 
+ 
+ 
+ Li  =
+ 
+    100.  
+ 
+ Ai  =
+ 
+    2045.  
+ 
+ Pi  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    100.  
+ l  =
+ 
+    100.  
+ 
+ N  =
+ 
+    900.  
+ 
+ eta_m  =
+ 
+    75.  
+ 
+ 
+ Hi_av  =
+ 
+    20.45  
+ 
+ imep  =
+ 
+    4.09  
+ 
+ ip  =
+ 
+    2.4092089  
+ 
+ bp  =
+ 
+    1.8069066  
+ 
+ 
+
+ The mean effective pressure, mep = 4.09 bar 
+
+ The indicated power, ip = 2.41 kW 
+
+ The brake power, bp = 1.81 kW
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.12/Ex18_12.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ bp  =
+ 
+    110.  
+ 
+ N  =
+ 
+    1600.  
+ 
+ CV  =
+ 
+    43100.  
+ 
+ pC  =
+ 
+    0.862  
+ pH2  =
+ 
+    0.135  
+ pNC  =
+ 
+    0.003  
+ 
+ eta_v  =
+ 
+    78.  
+ 
+ eta_it  =
+ 
+    38.  
+ 
+ eta_m  =
+ 
+    80.  
+ 
+ MS  =
+ 
+    110.  
+ 
+ l_d  =
+ 
+    1.5  
+ 
+ v_a  =
+ 
+    0.772  
+ 
+ p_m  =
+ 
+    0.231  
+ p_v  =
+ 
+    0.208  
+ 
+ 
+ C  =
+ 
+    12.  
+ 
+ H  =
+ 
+    1.  
+ 
+ O  =
+ 
+    16.  
+ 
+ N2  =
+ 
+    14.  
+ 
+ A_F_s  =
+ 
+    14.626263  
+ 
+ A_F_act  =
+ 
+    30.715152  
+ 
+ Ma  =
+ 
+    28.924  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.0718333  
+ b  =
+ 
+    0.0675  
+ 
+ x  =
+ 
+    1.0619261  
+ 
+ c  =
+ 
+    0.1152973  
+ 
+ d  =
+ 
+    0.8410455  
+ 
+ pCO2  =
+ 
+    0.0698648  
+ pO2  =
+ 
+    0.1121377  
+ pN2  =
+ 
+    0.8179975  
+ 
+ ip  =
+ 
+    137.5  
+ 
+ m_f  =
+ 
+    0.5037245  
+ 
+ m_a  =
+ 
+    15.471975  
+ 
+ V_a  =
+ 
+    11.944364  
+ 
+ V_s  =
+ 
+    15.313288  
+ 
+ V_s  =
+ 
+    0.0031903  
+ 
+ 
+ d  =
+ 
+    0.1393848  
+ 
+ l  =
+ 
+    0.2090772  
+ 
+ 
+
+ The volumetric composition of dry exhaust gas,
+	CO2 = 6.99 percent
+	O2 = 11.21 percent
+	N2 = 81.80 percent 
+
+ The bore of the engine, d = 13.94 cm
+ The stroke of the engine, l = 20.91 cm
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.13/Ex18_13.sce #
+ 
+ 
+ 
+ d  =
+ 
+    150.  
+ l  =
+ 
+    250.  
+ 
+ Li  =
+ 
+    50.  
+ 
+ Ai  =
+ 
+    450.  
+ 
+ ISR  =
+ 
+    1.2  
+ 
+ N  =
+ 
+    420.  
+ 
+ T  =
+ 
+    217.  
+ 
+ m_f  =
+ 
+    2.95  
+ 
+ CV  =
+ 
+    44000.  
+ 
+ m_w  =
+ 
+    0.068  
+ 
+ deltaT_w  =
+ 
+    45.  
+ 
+ cp  =
+ 
+    4.1868  
+ 
+ 
+ Hi_av  =
+ 
+    9.  
+ 
+ imep  =
+ 
+    7.5  
+ 
+ ip  =
+ 
+    11.596895  
+ 
+ bp  =
+ 
+    9.5441585  
+ 
+ eta_m  =
+ 
+    0.8229926  
+ 
+ eta_bt  =
+ 
+    0.2647070  
+ 
+ bsfc  =
+ 
+    0.3090896  
+ 
+ 
+ Power_f  =
+ 
+    36.055556  
+ 
+ Power_w  =
+ 
+    12.811608  
+ 
+ Power_e  =
+ 
+    13.699789  
+ 
+ 
+
+ The mechanical efficiency, eta_m = 82 percent 
+
+ The brake thermal efficiency, eta_bt = 26.5 percent 
+
+ The specific fuel consumption, bsfc = 0.309 kg/kWh 
+
+
+   Energy balance
+	 Power in fuel = 36.1 kW, 100 percent 
+
+	 Brake power = 9.54 kW, 26.5 percent 
+
+	 Power to cooling water = 12.8 kW, 35.5 percent 
+
+	 Power to exhaust, radiation = 13.7 kW, 38.0 percent 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.14/Ex18_14.sce #
+ 
+ 
+ 
+ n  =
+ 
+    6.  
+ 
+ d  =
+ 
+    70.  
+ l  =
+ 
+    100.  
+ 
+ V_c  =
+ 
+    67.  
+ 
+ N  =
+ 
+    3960.  
+ 
+ m_f  =
+ 
+    19.5  
+ 
+ T  =
+ 
+    140.  
+ 
+ CV  =
+ 
+    44000.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ bp  =
+ 
+    58.056632  
+ 
+ A  =
+ 
+    0.0038485  
+ 
+ bmep  =
+ 
+    761904.76  
+ 
+ eta_bt  =
+ 
+    0.2435943  
+ 
+ V_s  =
+ 
+    384.8451  
+ 
+ r  =
+ 
+    6.7439567  
+ 
+ eta  =
+ 
+    0.5339483  
+ 
+ eta_r  =
+ 
+    0.4562132  
+ 
+ 
+
+ (a)The brake power, bp = 58 kW 
+
+ (b)The brake mean effective pressure, bmep = 7.62 bar 
+
+ (c)The brake thermal efficiency, eta_bt = 24.4 percent 
+
+ (d)The relative efficiency, eta_r = 45.6 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.15/Ex18_15.sce #
+ 
+ 
+ 
+ d  =
+ 
+    178.  
+ l  =
+ 
+    330.  
+ 
+ N  =
+ 
+    400.  
+ 
+ wmep  =
+ 
+    6.2  
+ 
+ pmep  =
+ 
+    0.35  
+ 
+ mep_dc  =
+ 
+    0.62  
+ 
+ N_f  =
+ 
+    47.  
+ 
+ 
+ imep  =
+ 
+    5.85  
+ 
+ N_d  =
+ 
+    153.  
+ 
+ ip1  =
+ 
+    3.7631047  
+ 
+ pp_dc  =
+ 
+    1.2983019  
+ 
+ fp  =
+ 
+    2.4648028  
+ 
+ ip  =
+ 
+    16.013211  
+ 
+ bp  =
+ 
+    13.548409  
+ 
+ eta_m  =
+ 
+    0.8460769  
+ 
+ 
+
+ The brake power at full load, b.p. = 13.55 kW 
+
+ The mechanical efficiency at full load, eta_m = 84.6 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH18/EX18.16/Ex18_16.sce #
+ 
+ 
+ 
+ d  =
+ 
+    200.  
+ l  =
+ 
+    250.  
+ 
+ imep  =
+ 
+    450000.  
+ 
+ m_f  =
+ 
+    7.  
+ 
+ CV  =
+ 
+    43500.  
+ 
+ N  =
+ 
+    180.  
+ 
+ 
+ 
+ ip  =
+ 
+    10.602875  
+ 
+ 
+ eta_it  =
+ 
+    0.1253542  
+ 
+ 
+
+ (a)The indicated power, ip = 10.6 kW 
+
+ (b)The indicated thermal efficiency, eta_it = 12.5 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.1/Ex26_1.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    101.325  
+ 
+ T1  =
+ 
+    300.  
+ 
+ r_p  =
+ 
+    6.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ W_TC  =
+ 
+    2.5  
+ 
+ m  =
+ 
+    1.  
+ 
+ 
+ 
+ T2  =
+ 
+    500.55313  
+ 
+ T3  =
+ 
+    T3   
+ 
+ T4  =
+ 
+    0.5993370T3   
+ 
+ W_C  =
+ 
+    201.5559  
+ 
+ W_T  =
+ 
+    0.4026663T3   
+ 
+ T3  =
+ 
+    1251.3828  
+ 
+ T4  =
+ 
+    750.  
+ 
+ eta  =
+ 
+    0.4006630  
+ 
+ 
+
+ The maximum temperature in the cycle, T3 = 1251.4 K 
+
+ The cycle efficiency, eta = 40.07 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.2/Ex26_2.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    298.  
+ T3  =
+ 
+    1098.  
+ 
+ r_p  =
+ 
+    4.5  
+ 
+ eta_C  =
+ 
+    85.  
+ eta_T  =
+ 
+    90.  
+ 
+ P  =
+ 
+    1300.  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2!  =
+ 
+    457.982  
+ 
+ T2  =
+ 
+    486.21412  
+ 
+ T4!  =
+ 
+    714.44729  
+ 
+ T4  =
+ 
+    752.80256  
+ 
+ W_C  =
+ 
+    189.15519  
+ 
+ W_T  =
+ 
+    346.92343  
+ 
+ Q1  =
+ 
+    614.84481  
+ 
+ W  =
+ 
+    157.76824  
+ 
+ eta  =
+ 
+    0.2565985  
+ 
+ r_w  =
+ 
+    0.4547639  
+ 
+ HR  =
+ 
+    14029.702  
+ 
+ m  =
+ 
+    8.2399349  
+ 
+ 
+
+ The specific work output, W = 157 kJ/kg 
+
+ The cycle efficiency, eta = 25.7 percent 
+
+ The work ratio, rw = 0.455 
+
+ The heat rate = 14029 kJ/kWh 
+
+ The mass flow rate for 1300 kW, m = 8.24 kg/s
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.3/Ex26_3.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    298.  
+ T3  =
+ 
+    1023.  
+ 
+ r_p  =
+ 
+    4.  
+ 
+ eta_C  =
+ 
+    75.  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2!  =
+ 
+    442.8263  
+ 
+ T2  =
+ 
+    491.10173  
+ 
+ T4!  =
+ 
+    688.42795  
+ 
+ 
+ eta_T  =
+ 
+    0.5771604  
+ 
+ 
+
+ The turbine efficiency for zero cycle efficiency, eta_T = 57.7 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.4/Ex26_4.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ P2  =
+ 
+    6.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T3  =
+ 
+    973.  
+ 
+ eta_C  =
+ 
+    0.8  
+ eta_T  =
+ 
+    0.85  
+ 
+ eta_c  =
+ 
+    0.98  
+ 
+ P3  =
+ 
+    5.9  
+ 
+ cp_a  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp_g  =
+ 
+    1.147  
+ 
+ g1  =
+ 
+    1.333  
+ 
+ CV  =
+ 
+    42700.  
+ 
+ 
+ 
+ T2!  =
+ 
+    500.55313  
+ 
+ T2  =
+ 
+    550.69142  
+ 
+ T4!  =
+ 
+    624.51721  
+ 
+ T4  =
+ 
+    676.78963  
+ 
+ W_C  =
+ 
+    251.94487  
+ 
+ W_T  =
+ 
+    339.7533  
+ 
+ W  =
+ 
+    87.808427  
+ 
+ Q1  =
+ 
+    494.27341  
+ 
+ eta  =
+ 
+    0.1776515  
+ 
+ r_w  =
+ 
+    0.2584476  
+ 
+ AR  =
+ 
+    41.  
+ 
+ sfc  =
+ 
+    0.4745951  
+ 
+ A_F  =
+ 
+    86.389433  
+ 
+ 
+
+ (a)The thermal efficiency, eta = 17.8 percent 
+
+ (b)The work ratio, rw = 0.258 
+
+ (e)The air rate = 41 kg/kWh 
+
+ (d)The specific fuel consumption, sfc = 0.475 kg/kWh 
+
+ (c)The air fuel ratio = 86.4
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.5/Ex26_5.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ P2  =
+ 
+    6.2  
+ 
+ T1  =
+ 
+    300.  
+ 
+ eta_C  =
+ 
+    88.  
+ eta_T  =
+ 
+    90.  
+ 
+ CV  =
+ 
+    44186.  
+ 
+ F_A  =
+ 
+    0.017  
+ 
+ cp_a  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp_g  =
+ 
+    1.147  
+ 
+ g1  =
+ 
+    1.333  
+ 
+ 
+ 
+ T2!  =
+ 
+    505.26461  
+ 
+ T2  =
+ 
+    533.25524  
+ 
+ m_a  =
+ 
+    1.  
+ 
+ m_f  =
+ 
+    0.017  
+ 
+ T3  =
+ 
+    1103.373  
+ 
+ r_p  =
+ 
+    6.2  
+ 
+ T4!  =
+ 
+    699.47637  
+ 
+ T4  =
+ 
+    739.86603  
+ 
+ W_C  =
+ 
+    234.42151  
+ 
+ W_T  =
+ 
+    424.03053  
+ 
+ W  =
+ 
+    189.60901  
+ 
+ Q1  =
+ 
+    751.162  
+ 
+ eta  =
+ 
+    0.2524209  
+ 
+ 
+
+ The turbine work, W_T = 424.03 kJ/kg 
+
+ The compressor work, W_C = 234.42 kJ/kg 
+
+ The thermal efficiency, eta = 25.24 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.6/Ex26_6.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    290.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ r_p  =
+ 
+    4.5  
+ 
+ W  =
+ 
+    4000.  
+ 
+ m  =
+ 
+    40.  
+ 
+ e  =
+ 
+    0.6  
+ 
+ eta_C  =
+ 
+    84.  
+ 
+ eta  =
+ 
+    0.29  
+ 
+ cp_a  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp_g  =
+ 
+    1.07  
+ 
+ g1  =
+ 
+    1.365  
+ 
+ 
+ 
+ T2!  =
+ 
+    445.68718  
+ 
+ T2  =
+ 
+    475.34188  
+ 
+ W  =
+ 
+    100.  
+ 
+ Q1  =
+ 
+    344.82759  
+ 
+ W_C  =
+ 
+    186.26859  
+ 
+ W_T  =
+ 
+    286.26859  
+ 
+ 
+ 
+ 
+ T4  =
+ 
+    894.40238  
+ 
+ T5  =
+ 
+    626.86164  
+ 
+ T5!  =
+ 
+    598.22478  
+ 
+ eta_T  =
+ 
+    0.9033119  
+ 
+ 
+
+ The isentropic efficiency of the gas turbine, eta_T = 90.3 percent
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.7/Ex26_7.sce #
+ 
+ 
+ 
+ r_p  =
+ 
+    4.  
+ 
+ eta_C  =
+ 
+    0.86  
+ eta_HPT  =
+ 
+    0.84  
+ eta_LPT  =
+ 
+    0.8  
+ 
+ e  =
+ 
+    70.  
+ 
+ eta_d  =
+ 
+    0.92  
+ 
+ T4  =
+ 
+    933.  
+ T6  =
+ 
+    898.  
+ 
+ cp_a  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ cp_g  =
+ 
+    1.15  
+ 
+ g1  =
+ 
+    1.333  
+ 
+ T1  =
+ 
+    288.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ 
+ 
+ P2  =
+ 
+    4.  
+ P4  =
+ 
+    4.  
+ 
+ T2!  =
+ 
+    427.96636  
+ 
+ T2  =
+ 
+    450.75158  
+ 
+ W_C  =
+ 
+    163.56533  
+ 
+ W_HPT  =
+ 
+    177.78841  
+ 
+ T5  =
+ 
+    778.40139  
+ 
+ T5!  =
+ 
+    748.95403  
+ 
+ P5  =
+ 
+    1.6598449  
+ 
+ P6  =
+ 
+    1.6598449  
+ P7  =
+ 
+    1.  
+ 
+ T7!  =
+ 
+    791.22634  
+ 
+ T7  =
+ 
+    812.58107  
+ 
+ W_LPT  =
+ 
+    98.23177  
+ 
+ T3  =
+ 
+    T3   
+ 
+ e1  =
+ 
+  - 1.0886832 + 0.0024153T3   
+ 
+ 
+ 
+ T3  =
+ 
+    740.5752  
+ 
+ W  =
+ 
+    98.23177  
+ 
+ Q1  =
+ 
+    358.82693  
+ 
+ eta  =
+ 
+    0.2737581  
+ 
+ 
+
+ The pressure of the gas entering L.P.T., P6 = 1.66 bar 
+
+ The net specific power, W = 98.23 kW/kg/s 
+
+ The overall efficiency, eta = 0.2738
+
+ 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.8/Ex26_8.sce #
+ 
+ 
+ 
+ r_p  =
+ 
+    6.  
+ 
+ e  =
+ 
+    65.  
+ 
+ T5  =
+ 
+    1073.  
+ T1  =
+ 
+    288.  
+ 
+ m  =
+ 
+    0.7  
+ 
+ eta_C  =
+ 
+    0.8  
+ eta_HPT  =
+ 
+    0.85  
+ eta_LPT  =
+ 
+    0.85  
+ 
+ eta_d  =
+ 
+    98.  
+ 
+ eta_c  =
+ 
+    97.  
+ 
+ CV  =
+ 
+    42600.  
+ 
+ cp  =
+ 
+    1.005  
+ 
+ g  =
+ 
+    1.4  
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ 
+ P3  =
+ 
+    6.  
+ P5  =
+ 
+    6.  
+ P7  =
+ 
+    1.  
+ 
+ T3!  =
+ 
+    480.53101  
+ 
+ T3!  =
+ 
+    480.5  
+ 
+ T3  =
+ 
+    528.625  
+ 
+ W_C  =
+ 
+    169.27969  
+ 
+ W_HPT  =
+ 
+    172.73437  
+ 
+ T6  =
+ 
+    827.46429  
+ 
+ T6!  =
+ 
+    784.13445  
+ 
+ P6  =
+ 
+    2.0017927  
+ 
+ T7!  =
+ 
+    678.62447  
+ 
+ T7  =
+ 
+    700.95044  
+ 
+ W  =
+ 
+    89.002489  
+ 
+ T4  =
+ 
+    640.63654  
+ 
+ Q1  =
+ 
+    313.57494  
+ 
+ eta  =
+ 
+    0.2838316  
+ 
+ sfc  =
+ 
+    0.2977365  
+ 
+ 
+
+ (a)The net power developed, W = 89.00 kW 
+
+ (b)The overall thermal efficiency, eta = 28.4 percent 
+
+ (c)The specific fuel consumption, sfc = 0.298 kg/kWh
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.9/Ex26_9.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    4.  
+ P2  =
+ 
+    16.  
+ 
+ T1  =
+ 
+    320.  
+ T2  =
+ 
+    590.  
+ 
+ e  =
+ 
+    70.  
+ 
+ P3  =
+ 
+    15.5  
+ P4  =
+ 
+    4.2  
+ 
+ T3  =
+ 
+    1400.  
+ T4  =
+ 
+    860.  
+ 
+ P  =
+ 
+    100.  
+ 
+ cp_h  =
+ 
+    5.2  
+ 
+ g_h  =
+ 
+    1.67  
+ 
+ 
+ 
+ T2!  =
+ 
+    558.07813  
+ 
+ eta_C  =
+ 
+    0.8817709  
+ 
+ T4!  =
+ 
+    829.11721  
+ 
+ eta_T  =
+ 
+    0.9459035  
+ 
+ Tx  =
+ 
+    779.  
+ 
+ Q1  =
+ 
+    3229.2  
+ 
+ W_T  =
+ 
+    2808.  
+ 
+ W_C  =
+ 
+    1404.  
+ 
+ W  =
+ 
+    1404.  
+ 
+ eta  =
+ 
+    0.4347826  
+ 
+ T5  =
+ 
+    671.  
+ 
+ Qout  =
+ 
+    1825.2  
+ 
+ m_h  =
+ 
+    71.225071  
+ 
+ 
+
+ (a)The compressor efficiency, eta_C = 0.882
+	The turbine efficiency, eta_T = 0.946 
+
+ (b)The thermal efficiency of the cycle, eta = 43.5 percent 
+
+ (c)The heat rejected in the cooler before compressor, Qout = 1825.2 kJ/kg 
+
+ (d)The helium flow rate for the net power output of 100 MW, m = 71.23 kg/s
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH26/EX26.10/Ex26_10.sce #
+ 
+ 
+ 
+ r_p  =
+ 
+    9.  
+ 
+ eta_LPC  =
+ 
+    85.  
+ eta_HPC  =
+ 
+    85.  
+ 
+ eta_LPT  =
+ 
+    90.  
+ eta_HPT  =
+ 
+    90.  
+ 
+ T1  =
+ 
+    300.  
+ T5  =
+ 
+    1100.  
+ 
+ cp_ar  =
+ 
+    0.5207  
+ 
+ g_ar  =
+ 
+    1.667  
+ 
+ R_ar  =
+ 
+    0.20813  
+ 
+ 
+ 
+ m_ar  =
+ 
+    1.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ P2  =
+ 
+    3.  
+ 
+ P3  =
+ 
+    3.  
+ 
+ P4  =
+ 
+    9.  
+ 
+ T2!  =
+ 
+    465.61504  
+ 
+ T2  =
+ 
+    494.84122  
+ 
+ W_LPC  =
+ 
+    101.45382  
+ 
+ T3  =
+ 
+    300.  
+ 
+ T4!  =
+ 
+    465.61504  
+ 
+ T4  =
+ 
+    494.84122  
+ 
+ 
+ W_HPC  =
+ 
+    101.45382  
+ 
+ P5  =
+ 
+    9.  
+ P6  =
+ 
+    3.  
+ P7  =
+ 
+    3.  
+ P8  =
+ 
+    1.  
+ 
+ T6!  =
+ 
+    708.73999  
+ 
+ T6  =
+ 
+    747.86599  
+ 
+ W_HPT  =
+ 
+    183.35618  
+ 
+ 
+ W_LPT  =
+ 
+    183.35618  
+ 
+ T7  =
+ 
+    1100.  
+ 
+ 
+ W  =
+ 
+    163.8047  
+ 
+ 
+ r_w  =
+ 
+    0.4466844  
+ 
+ 
+ Q1_c  =
+ 
+    315.10618  
+ 
+ Q1_r  =
+ 
+    183.35618  
+ 
+ eta  =
+ 
+    0.3286200  
+ 
+ 
+
+ (a)The work done per kg of fuel flow, W = 163.8 kW/kg 
+
+ (b)The work ratio, r_w = 0.447 
+
+ (c)The overall efficiency, eta = 0.329
+
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH27/EX27.1/Ex27_1.sce #
+ 
+ 
+ 
+ Pr  =
+ 
+    500.  
+ 
+ eta_m  =
+ 
+    85.  
+ 
+ br  =
+ 
+    220.  
+ 
+ px  =
+ 
+    87.  
+ 
+ Tx  =
+ 
+    318.  
+ 
+ phix  =
+ 
+    0.8  
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ m  =
+ 
+    1.  
+ n  =
+ 
+    0.75  
+ q  =
+ 
+    0.  
+ 
+ psx  =
+ 
+    9.6  
+ 
+ psr  =
+ 
+    3.2  
+ 
+ pr  =
+ 
+    100.  
+ 
+ Tr  =
+ 
+    298.  
+ 
+ phir  =
+ 
+    0.3  
+ 
+ k  =
+ 
+    0.7628057  
+ 
+ alpha  =
+ 
+    0.7335052  
+ 
+ Beta  =
+ 
+    1.0399458  
+ 
+ Px  =
+ 
+    366.75262  
+ 
+ bx  =
+ 
+    228.78808  
+ 
+ 
+
+ The site continuous net brake power, Px = 366.8 kW 
+
+ The site continuous specific fuel consumption, bx = 228.8 g/kWh
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH27/EX27.2/Ex27_2.sce #
+ 
+ 
+ 
+ Pr  =
+ 
+    1000.  
+ 
+ eta_m  =
+ 
+    90.  
+ 
+ Pir  =
+ 
+    2.  
+ 
+ Tra  =
+ 
+    313.  
+ 
+ Pimax  =
+ 
+    2.36  
+ 
+ h  =
+ 
+    4000.  
+ 
+ px  =
+ 
+    61.5  
+ 
+ Tx  =
+ 
+    323.  
+ 
+ Tcx  =
+ 
+    310.  
+ 
+ 
+ 
+ m  =
+ 
+    0.7  
+ n  =
+ 
+    1.2  
+ q  =
+ 
+    1.  
+ 
+ pr  =
+ 
+    100.  
+ 
+ Tcr  =
+ 
+    298.  
+ 
+ Tr  =
+ 
+    298.  
+ 
+ pra  =
+ 
+    84.745763  
+ 
+ pra  =
+ 
+    84.7  
+ 
+ k  =
+ 
+    0.739876  
+ 
+ alpha  =
+ 
+    0.7196441  
+ 
+ Px1  =
+ 
+    720.  
+ 
+ 
+ k  =
+ 
+    0.6209886  
+ 
+ alpha  =
+ 
+    0.5915100  
+ 
+ Px2  =
+ 
+    592.  
+ 
+ 
+
+ Power available at an altitude of 4000m, Px = 720 kW 
+
+ Power available at an altitude of 4000m if reference conditions are not changed, Px = 592 kW
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH27/EX27.3/Ex27_3.sce #
+ 
+ 
+ 
+ Px  =
+ 
+    640.  
+ 
+ px  =
+ 
+    70.  
+ 
+ Tx  =
+ 
+    330.  
+ 
+ Tcx  =
+ 
+    300.  
+ 
+ eta_m  =
+ 
+    85.  
+ 
+ py  =
+ 
+    100.  
+ 
+ Tcy  =
+ 
+    280.  
+ 
+ Ty  =
+ 
+    300.  
+ 
+ 
+ 
+ m  =
+ 
+    0.7  
+ n  =
+ 
+    1.2  
+ q  =
+ 
+    1.  
+ 
+ pr  =
+ 
+    100.  
+ 
+ Tcr  =
+ 
+    298.  
+ 
+ Tr  =
+ 
+    298.  
+ 
+ kr  =
+ 
+    0.6847096  
+ 
+ kr  =
+ 
+    0.684  
+ 
+ alphar  =
+ 
+    0.6449647  
+ 
+ Pr  =
+ 
+    992.30236  
+ 
+ ky  =
+ 
+    1.0557771  
+ 
+ alphay  =
+ 
+    1.0626672  
+ 
+ Py  =
+ 
+    1054.4872  
+ 
+ 
+
+ Power developed under test ambient conditions, Py = 1054 kW 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH27/EX27.4/Ex27_4.sce #
+ 
+ 
+ 
+ 
+ Px  =
+ 
+    640.  
+ 
+ eta_m  =
+ 
+    85.  
+ 
+ px  =
+ 
+    70.  
+ 
+ py  =
+ 
+    100.  
+ 
+ Tx  =
+ 
+    330.  
+ 
+ Ty  =
+ 
+    300.  
+ 
+ p2_py  =
+ 
+    2.5  
+ 
+ by  =
+ 
+    238.  
+ 
+ 
+ 
+ m  =
+ 
+    0.7  
+ n  =
+ 
+    1.2  
+ q  =
+ 
+    1.  
+ 
+ ky  =
+ 
+    1.2836049  
+ 
+ alphay  =
+ 
+    1.3186385  
+ 
+ Py  =
+ 
+    844.  
+ 
+ 
+ Tx_Ty  =
+ 
+    1.1  
+ 
+ p1_py  =
+ 
+    0.925  
+ 
+ p1  =
+ 
+    92.5  
+ 
+ Betay  =
+ 
+    0.9734320  
+ 
+ bx  =
+ 
+    244.49576  
+ 
+ 
+
+ Power developed on the test bed, Py = 844 kW 
+
+ The pressure behind the throttle plate, p1 = 92.5 kPa 
+
+ The fuel consumption adjusted to site ambient conditions, bx = 244 g/kWh 
+ 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH27/EX27.5/Ex27_5.sce #
+ 
+ 
+ 
+ Py  =
+ 
+    640.  
+ 
+ py  =
+ 
+    98.  
+ 
+ Ty  =
+ 
+    303.  
+ 
+ phiy  =
+ 
+    0.8  
+ 
+ 
+ 
+ psy  =
+ 
+    4.2  
+ 
+ psr  =
+ 
+    3.2  
+ 
+ pr  =
+ 
+    100.  
+ 
+ Tr  =
+ 
+    298.  
+ 
+ phir  =
+ 
+    0.3  
+ 
+ alpha_a  =
+ 
+    1.0666425  
+ 
+ Pr  =
+ 
+    683.  
+ 
+ 
+
+ The power at standard reference conditions, Pr = 683 kW 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH27/EX27.6/Ex27_6.sce #
+ 
+ 
+ 
+ Py  =
+ 
+    896.  
+ 
+ py  =
+ 
+    96.  
+ 
+ Ty  =
+ 
+    302.  
+ 
+ phiy  =
+ 
+    0.2  
+ 
+ px  =
+ 
+    98.  
+ 
+ Tx  =
+ 
+    315.  
+ 
+ phix  =
+ 
+    0.4  
+ 
+ N  =
+ 
+    1800.  
+ 
+ V_s  =
+ 
+    51.8  
+ 
+ m_f  =
+ 
+    54.5  
+ 
+ pi  =
+ 
+    2.6  
+ 
+ 
+ 
+ psy  =
+ 
+    4.8  
+ 
+ psx  =
+ 
+    8.2  
+ 
+ q  =
+ 
+    70.14157  
+ 
+ qc  =
+ 
+    27.  
+ 
+ 
+ 
+ fa  =
+ 
+    0.9365248  
+ 
+ alpha_d  =
+ 
+    0.9805185  
+ 
+ Px  =
+ 
+    878.54455  
+ 
+ 
+
+ Power at site ambient conditions, Px = 878 kW 
+ 
+grepthis#Internal_Combustion_Engine_M._L._Mathur_And_R._P._Sharma_2657/CH27/EX27.7/Ex27_7.sce #
+ 
+ 
+ 
+ Py  =
+ 
+    700.  
+ 
+ py  =
+ 
+    96.  
+ 
+ Ty  =
+ 
+    302.  
+ 
+ phiy  =
+ 
+    0.2  
+ 
+ px  =
+ 
+    69.  
+ 
+ Tx  =
+ 
+    283.  
+ 
+ phix  =
+ 
+    0.4  
+ 
+ N  =
+ 
+    1200.  
+ 
+ V_s  =
+ 
+    45.  
+ 
+ m_f  =
+ 
+    51.3  
+ 
+ pi  =
+ 
+    2.  
+ 
+ eta_m  =
+ 
+    85.  
+ 
+ 
+ pr  =
+ 
+    100.  
+ 
+ Tr  =
+ 
+    298.  
+ 
+ phir  =
+ 
+    0.3  
+ 
+ 
+ psy  =
+ 
+    4.1  
+ 
+ psx  =
+ 
+    1.2  
+ 
+ psr  =
+ 
+    3.2  
+ 
+ q  =
+ 
+    114.  
+ 
+ qc  =
+ 
+    57.  
+ 
+ 
+ 
+ fa  =
+ 
+    0.8758322  
+ 
+ alpha_d  =
+ 
+    0.8861105  
+ 
+ 
+ fa  =
+ 
+    1.0489903  
+ alpha_d  =
+ 
+    1.0445845  
+ Pr  =
+ 
+    731.20916  
+ m  =
+ 
+    0.7  
+ n  =
+ 
+    2.  
+ k  =
+ 
+    0.8551731  
+ alpha  =
+ 
+    0.8372827  
+ Px  =
+ 
+    612.22877  
+ 
+ 
+
+ Power at site ambient conditions, Px = 612 kW 
+ 
+ 

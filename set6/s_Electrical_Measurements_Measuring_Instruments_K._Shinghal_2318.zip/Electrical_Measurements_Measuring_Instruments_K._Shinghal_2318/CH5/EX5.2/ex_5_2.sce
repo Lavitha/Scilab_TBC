@@ -1,0 +1,13 @@
+errcatch(-1,"stop");mode(2);//Example 5.2: Coulomb sensitivity
+;
+;
+
+//given data :
+C=1.5*10^-6;// in F
+V=15;// in V
+d1=20;// in cm
+Q=C*V;
+Sb=(d1/Q)*10^-5;
+disp(Sb,"Coulomb sensitivity,Sb(mm/micro-C)")
+
+exit();

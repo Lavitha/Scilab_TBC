@@ -1,0 +1,8640 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 120
+
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ VAK2  =
+ 
+    300.  
+ 
+ 
+ VAK2 = 300 volts   
+ 
+ VAK1  =
+ 
+    170.  
+ 
+ 
+ VAK1 = 170 volts   
+ 
+ IA2  =
+ 
+    0.002  
+ 
+ 
+ IA2 = 0.002 ampere   
+ 
+ IA1  =
+ 
+    0.  
+ 
+ 
+ IA1 = 0 ampere   
+ 
+ rP  =
+ 
+    65000.  
+ 
+ 
+ resistance,rP =(VAK2-VAK1)/(IA2-IA1)=65000 ohm   
+ 
+ VGK2  =
+ 
+  - 2.5  
+ 
+ 
+ VGK2 = -2.5 volts   
+ 
+ VGK3  =
+ 
+  - 1.5  
+ 
+ 
+ VGK1 = -1.5 volts   
+ 
+ VAK3  =
+ 
+    200.  
+ 
+ 
+ VAK3 = 200 volts   
+ 
+ u  =
+ 
+  - 100.  
+ 
+ 
+ amplification factor,u =(VAK2-VAK1)/(VGK2-VGK1)=-100 unitless    
+ 
+ IA4  =
+ 
+    0.0022  
+ 
+ 
+ IA4 = 0.0022 ampere   
+ 
+ IA3  =
+ 
+    0.0005  
+ 
+ 
+ IA1 = 0.0005 ampere   
+ 
+ gm  =
+ 
+  - 0.0017  
+ 
+ 
+ transconductance,gm =(IAK4-IAK3)/(VGK2-VGK3)=-0.0017 ampere/volt    
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ d  =
+ 
+    0.005  
+ 
+ 
+ d = 0.005metre   
+ 
+ l  =
+ 
+    0.02  
+ 
+ 
+ l = 0.02metre   
+ 
+ L  =
+ 
+    0.2  
+ 
+ 
+ L = 0.2metre   
+ 
+ Va  =
+ 
+    2000.  
+ 
+ 
+ Va = 2000volts   
+ 
+ Vd  =
+ 
+    100.  
+ 
+ 
+ Vd = 100volts   
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ m = 9.110D-31Kg   
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+ 
+ q = 1.600D-19coulomb   
+ 
+ 
+ horizontal beam velocity,Vx =(2*Va*q/m)^(0.5) metre/second   
+ 
+ Vx  =
+ 
+    26505182.  
+ 
+ 
+ horizontal beam velocity,Vx =(2*Va*q/m)^(0.5)= 26505182 metre/second   
+ 
+ 
+ transit time,t1 =(l/Vx) second   
+ 
+ t1  =
+ 
+    7.546D-10  
+ 
+ 
+ transit time,t1 =(l/Vx)= 7.546D-10 second   
+ 
+ 
+ vertical beam velocity,Vy =(q*Vd*l/d*m*Vx) metre/second   
+ 
+ Vy  =
+ 
+    2650518.2  
+ 
+ 
+ vertical beam velocity,Vy =(q*Vd*l/d*m*Vx)= 2650518.2 metre/second   
+ 
+ 
+ vertical displacement,D =((l*L*Vd)/(2*d*Va) metre   
+ 
+ D  =
+ 
+    0.02  
+ 
+ 
+ vertical displacement,D =((l*L*Vd)/(2*d*Va)=0.02 metre   
+ 
+ 
+ sensitivity of CRT,S =(0.5*l*L)/(d*Va) metre/volt   
+ 
+ S  =
+ 
+    0.0002  
+ 
+ 
+ sensitivity of CRT,S =(0.5*l*L)/(d*Va)=0.0002 metre/volt   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ m  =
+ 
+    9.110D-31  
+ 
+ 
+ m = 9.110D-31 Kg   
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+ 
+ q = 1.600D-19 coulomb   
+ 
+ B  =
+ 
+    0.0015  
+ 
+ 
+ B = 0.0015 wb/m^2   
+ 
+ l  =
+ 
+    0.05  
+ 
+ 
+ l = 0.05 metre   
+ 
+ L  =
+ 
+    0.3  
+ 
+ 
+ L = 0.3 metre   
+ 
+ Va  =
+ 
+    10000.  
+ 
+ 
+ Va = 10000 volts   
+ 
+ 
+ horizontal beam velocity,Vx =(2*Va*q/m)^(0.5) metre/second   
+ 
+ Vx  =
+ 
+    59267390.  
+ 
+ 
+ horizontal beam velocity,Vx =(2*Va*q/m)^(0.5)= 59267390 metre/second   
+ 
+ 
+ radius,r =(m*Vx)/(B*q) metre   
+ 
+ r  =
+ 
+    0.2249691  
+ 
+ 
+ radius,r =(m*Vx)/(B*q)= 0.2249691 metre   
+ 
+ 
+ deflection,D =(L*l)/r) metre   
+ 
+ D  =
+ 
+    0.0666758  
+ 
+ 
+ deflection,D =(L*l)/r)=0.0666758 metre   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+ 
+ q = 1.600D-19coulomb   
+ 
+ I  =
+ 
+    10.  
+ 
+ 
+ I = 10Ampere   
+ 
+ r  =
+ 
+    64.25  
+ 
+ 
+ radius,r = 64.25 mils   
+ 
+ 
+ r1  =
+ 
+    0.0016319  
+ 
+ 
+ r1 = 0.0016319 metre   
+ 
+ n  =
+ 
+    5.000D+28  
+ 
+ 
+ n = 5.000D+28 electrons/m^3   
+ 
+ A  =
+ 
+    0.0000084  
+ 
+ 
+ cross sectional area,A =(%pi*r1^2)= 0.0000084 square metre   
+ 
+ v  =
+ 
+    0.0001494  
+ 
+ 
+ drift velocity,v=(I)/(A*q*n)=0.0001494 metre/second   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ 
+ cross sectional area,A =0.00001merer square   
+ 
+ 
+ resitivity(rho),p1 =0.0001 ohm-m   
+ 
+ 
+ resitivity(rho),p2 =1000 ohm-m   
+ 
+ 
+ resitivity(rho),p3 =1.000D+10 ohm-m   
+ 
+ 
+ conductor length,l =0.01 metre   
+ 
+ 
+  resistance for copper,R = p1*l/A = 0.1ohm   
+ 
+ 
+  resistance for silicon,R = p2*l/A = 1000000ohm   
+ 
+ 
+  resistance for glass,R = p3*l/A = 1.000D+13ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ ni  =
+ 
+    1.450D+10  
+ 
+ nV  =
+ 
+    5.000D+22  
+ 
+ un  =
+ 
+    1500.  
+ 
+ up  =
+ 
+    475.  
+ 
+ T  =
+ 
+    300.  
+ 
+ I  =
+ 
+    0.000001  
+ 
+ 
+ I = 0.000001Ampere   
+ 
+ l  =
+ 
+    0.5  
+ 
+ q  =
+ 
+    1.590D-19  
+ 
+ 
+ intrinsic charge concentration,ni = 1.450D+10 /centimetre cube   
+ 
+ 
+ silicon atoms concntration, nV = 5.000D+22 /centimetre cube    
+ 
+ 
+ 
+ electron mobility,un = 1500 cm.sq/V-s   
+ 
+ 
+ hole mobility,up = 475cm.sq/V-s   
+ 
+ 
+ temperature,T = 300K   
+ 
+ 
+ q = 1.590D-19coulomb   
+ 
+ 
+ cross sectional area,A =0.000025cm square   
+ 
+ 
+ conductor length,l =0.5cm   
+ 
+ N  =
+ 
+    3.448D+12  
+ 
+ 
+ relative concentration,N =nV/ni= 3.448D+12 silicon atoms per electron -hole pair   
+ 
+ sigma  =
+ 
+    0.0000046  
+ 
+ 
+ intrinsic conductivityi,sigma =(1.59*10^(-19)*(1.45*10^10)*(1500+0475))= 0.0000046 (ohm-cm)^-1   
+ 
+ pi  =
+ 
+    219617.92  
+ 
+ 
+ resitivity(rho),pi =(1/sigma)=219617.92 ohm-cm   
+ 
+ R  =
+ 
+    4.440D+09  
+ 
+ 
+  resistance for silicon,R =((2.22*10^5*0.5)/0.000025) = 4.440D+09 ohm   
+ 
+ V  =
+ 
+    4440.  
+ 
+ 
+  voltage drop,V =I*R = 4440 V   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ ni  =
+ 
+    1.450D+10  
+ 
+ nV  =
+ 
+    5.000D+22  
+ 
+ un  =
+ 
+    1500.  
+ 
+ up  =
+ 
+    475.  
+ 
+ T  =
+ 
+    300.  
+ 
+ I  =
+ 
+    0.000001  
+ 
+ 
+ I = 0.000001Ampere   
+ 
+ l  =
+ 
+    0.5  
+ 
+ q  =
+ 
+    1.590D-19  
+ 
+ 
+ intrinsic charge concentration,ni = 1.450D+10 /centimetre cube   
+ 
+ 
+ silicon atoms concntration, nV = 5.000D+22 /centimetre cube    
+ 
+ 
+ 
+ electron mobility,un = 1500 cm.sq/V-s   
+ 
+ 
+ hole mobility,up = 475 cm.sq/V-s   
+ 
+ 
+ temperature,T = 300 K   
+ 
+ 
+ q = 1.590D-19coulomb   
+ 
+ 
+ cross sectional area,A =0.000025 cm square   
+ 
+ 
+ conductor length,l =0.5 cm   
+ 
+ nD  =
+ 
+    5.000D+16  
+ 
+ 
+ donor concentration,nD= nV/10^6=5.000D+16 /cm.cube   
+ 
+ nn  =
+ 
+    5.000D+16  
+ 
+ 
+ resulting mobile electron concentration,nn= nD=5.000D+16 /cm.cube   
+ 
+ pn  =
+ 
+    4205.  
+ 
+ 
+ resulting hole concentration,pn= ni^2/nD=4205 /cm.cube   
+ 
+ sigma  =
+ 
+    11.925  
+ 
+ 
+ n-type semiconductor conductivity,sigma=q*nD*un= 11.925 (ohm-cm)^-1   
+ 
+ pn  =
+ 
+    0.0838574  
+ 
+ 
+ doped silicon resitivity(rho),pn =(1/sigma)=0.0838574 ohm-cm   
+ 
+ R  =
+ 
+    1680.  
+ 
+ 
+  resistance for silicon,R =((0.084*0.5)/A) = 1680 ohm   
+ 
+ V  =
+ 
+    0.00168  
+ 
+ 
+  voltage drop,V =I*R = 0.00168 V   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH1/EX1.8/Ex1_8.sce #
+ 
+ 
+ q  =
+ 
+    1.590D-19  
+ 
+ 
+ q = 1.590D-19coulomb   
+ 
+ d  =
+ 
+    0.037  
+ 
+ 
+ dimension of semiconductor,d=0.037 cm   
+ 
+ A  =
+ 
+    0.001369  
+ 
+ 
+ cross sectional area,A =d^2=0.001369 cm square   
+ 
+ x  =
+ 
+    0.0001  
+ 
+ 
+ thickness,x =0.0001 cm   
+ 
+ x0  =
+ 
+    0.  
+ 
+ 
+ thickness,x0 =0 cm   
+ 
+ p  =
+ 
+    9.220D+15  
+ 
+ 
+ hole concentration at x,p= 9.220D+15 /cm-cube   
+ 
+ p0  =
+ 
+    0.  
+ 
+ 
+ hole concentration at x0,p0= 0 /cm-cube   
+ 
+ dp  =
+ 
+    9.220D+15  
+ 
+ dx  =
+ 
+    0.0001  
+ 
+ 
+  change in concentration at ,dp= 9.220D+15 /cm-cube   
+ 
+ 
+ change in thickness,dx= 0.0001 cm   
+ 
+ ans  =
+ 
+  T  
+ 
+ 
+  slope,(dp/dx) =(p-p0)/(x-x0)=9.220D+19 holes/cm-cube   
+ 
+ Dp  =
+ 
+    12.  
+ 
+ 
+ hole diffusion constant,Dp= 12 cm-sq/s   
+ 
+ Ip  =
+ 
+    0.2408312  
+ 
+ 
+  hole diffusion current,Ip =A*q*Dp*(dp/dx)=0.2408312 ampere   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ IR  =
+ 
+    5.000D-08  
+ 
+ 
+ IR = 5.000D-08 ampere   
+ 
+ VT  =
+ 
+    0.026  
+ 
+ 
+  Thermal voltage,VT= 0.026volt   
+ 
+ VAK1  =
+ 
+  - 0.25  
+ 
+ 
+ Junction voltage,VAK1=-0.25volt   
+ 
+ IA  =
+ 
+  - 4.959D-08  
+ 
+ 
+ Diode current,IA =IR*(exp(VAK1/(2*VT))-1)= -4.959D-08 ampere   
+ 
+ VAK2  =
+ 
+    0.25  
+ 
+ 
+ Junction voltage,VAK2=0.25volt   
+ 
+ IA  =
+ 
+    0.0000061  
+ 
+ 
+ Diode current,IA =IR*(exp(VAK2/(2*VT))-1)= 0.0000061 ampere   
+ 
+ VAK3  =
+ 
+    0.5  
+ 
+ 
+ Junction voltage,VAK3=0.5volt   
+ 
+ 
+ Diode current,IA =IR*(exp(VAK3/(2*VT))-1)= 0.0007496 ampere   
+ 
+ VAK4  =
+ 
+    0.6  
+ 
+ 
+ Junction voltage,VAK4=0.6volt   
+ 
+ 
+ Diode current,IA =IR*(exp(VAK4/(2*VT))-1)= 0.0051293 ampere   
+ 
+ VAK5  =
+ 
+    0.7  
+ 
+ 
+ Junction voltage,VAK3=0.7volt   
+ 
+ 
+ Diode current,IA =IR*(exp(VAK5/(2*VT))-1)= 0.0350947 ampere   
+ 
+ VAK6  =
+ 
+    0.8  
+ 
+ 
+ Junction voltage,VAK3=0.8volt   
+ 
+ 
+ Diode current,IA =IR*(exp(VAK6/(2*VT))-1)= 0.2401173 ampere   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ VF  =
+ 
+    5.  
+ 
+ 
+ source voltage,VF = 5 volts   
+ 
+ VD  =
+ 
+    0.7  
+ 
+ 
+ voltage drop,VD = 0.7 volts   
+ 
+ R  =
+ 
+    5000.  
+ 
+ 
+ resistance,R = 5000ohm   
+ 
+ RF  =
+ 
+    100.  
+ 
+ 
+ resistance,R = 100ohm   
+ 
+ VR  =
+ 
+    0.6  
+ 
+ 
+ VR = 0.6 volts   
+ 
+ IA  =
+ 
+    0.00086  
+ 
+ 
+ Diode current ,IA = 0.00086 ampere   
+ 
+ IA  =
+ 
+    0.0008627  
+ 
+ 
+  using large signal model,IA = 0.0008627 ampere   
+ 
+ VAK  =
+ 
+    0.6862745  
+ 
+ 
+ Junction voltage,VAK =0.6862745 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ VT  =
+ 
+    0.026  
+ 
+ 
+  Thermal voltage,VT= 0.026 volt   
+ 
+ IR  =
+ 
+    5.000D-08  
+ 
+ 
+ IR = 5.000D-08 ampere   
+ 
+ VAK1  =
+ 
+    0.7  
+ 
+ 
+ Junction voltage,VAK1=0.7 volt   
+ 
+ gf  =
+ 
+    0.6748986  
+ 
+ 
+ Forward conductance,gf=0.6748986 mho   
+ 
+ rf  =
+ 
+    1.481704  
+ 
+ 
+ Forward resistance,rf = 1.481704 ohm   
+ 
+ VAK2  =
+ 
+  - 0.7  
+ 
+ gr  =
+ 
+    1.370D-12  
+ 
+ 
+ Reverse conductance,gr=1.370D-12 mho   
+ 
+ rr  =
+ 
+    7.300D+11  
+ 
+ 
+  Reverse resistance,rr = 7.300D+11 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ Vi  =
+ 
+    10.  
+ 
+ 
+ input voltage,Vi = 10 volts   
+ 
+ Rs  =
+ 
+    0.2  
+ 
+ 
+ resistance,Rs = 0.2ohm   
+ 
+ RL  =
+ 
+    10.  
+ 
+ 
+ resistance,RL = 10ohm   
+ 
+ VD  =
+ 
+    0.7  
+ 
+ 
+ input voltage,VD = 0.7 volts   
+ 
+ Vim  =
+ 
+    14.142136  
+ 
+ Iim  =
+ 
+    1.3178564  
+ 
+ 
+  Peak load current ,Iim =(Vim-VD)/(RL+Rs) =1.3178564 ampere   
+ 
+ Ildc  =
+ 
+    0.8389735  
+ 
+ 
+  D.C load current ,Ildc =(2*Iim/(%pi)) =0.8389735 ampere   
+ 
+ Iadc  =
+ 
+    0.4194867  
+ 
+ 
+  diode d.c current ,Iadc =(Ildc/2)= 0.4194867 ampere   
+ 
+ PIV  =
+ 
+    28.284271  
+ 
+ 
+ peak inverse voltage ,PIV = 2*Vim=28.284271 volts   
+ 
+ Vldc  =
+ 
+    8.3897346  
+ 
+ 
+ D.C output voltage,Vldc=Ildc*RL= 8.3897346 volts   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ Idc  =
+ 
+    0.001  
+ 
+ 
+  D.C load current ,Idc = 0.001 ampere   
+ 
+ Vi  =
+ 
+    2.5  
+ 
+ 
+ input voltage,Vi = 2.5 volts   
+ 
+ Vim  =
+ 
+    3.5355339  
+ 
+ VD  =
+ 
+    0.7  
+ 
+ 
+ voltage drop,VD = 0.7 volts   
+ 
+ Rm  =
+ 
+    50.  
+ 
+ 
+ resistance,Rm = 50 ohm   
+ 
+ R  =
+ 
+    1309.5231  
+ 
+ 
+ resistance,R =[(2/%pi)*((Vim-2*VD)/Idc)-Rm]= 1309.5231 ohm   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ Vi  =
+ 
+    10.  
+ 
+ 
+ input voltage,Vi = 10 volts   
+ 
+ Vim  =
+ 
+    14.142136  
+ 
+ f1  =
+ 
+    50.  
+ 
+ 
+ frequency,f1=50 hertz   
+ 
+ RL  =
+ 
+    1100.  
+ 
+ 
+ resistance,RL = 1100 ohm   
+ 
+ C  =
+ 
+    0.00005  
+ 
+ r  =
+ 
+    0.0524864  
+ 
+ 
+ Ripple factor,r = 0.0524864   
+ 
+ x  =
+ 
+    0.0909091  
+ 
+ VLDC  =
+ 
+    12.963624  
+ 
+ 
+ output voltage,VLDC = VLDC=Vim/(1+x)=12.963624 volts   
+ 
+ VR  =
+ 
+    0.0909091  
+ 
+ 
+  voltage Regulation,VR =(Vim-VLDC)/(VLDC)= 0.0909091 volts   
+ 
+ Vr  =
+ 
+    0.6804138  
+ 
+ 
+ Ripple output voltage,Vr = Vr=VLDC*r=0.6804138 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ VI  =
+ 
+    10.  
+ 
+ 
+ input voltage,VI = 10 volts   
+ 
+ Vz  =
+ 
+    5.  
+ 
+ 
+ diode voltage,Vz = 5 volts   
+ 
+ Rz  =
+ 
+    100.  
+ 
+ 
+ resistance,Rz = 100 ohm   
+ 
+ RD  =
+ 
+    500.  
+ 
+ 
+ resistance,RD = 500 ohm   
+ 
+ DVI  =
+ 
+    25.  
+ 
+ 
+ percentage change in VI,DVI= 25 volts   
+ 
+ DVL  =
+ 
+    4.1666667  
+ 
+ 
+ percentage change in VL,DVL=(DVI)*(Rz/(RD+Rz))= 4.1666667 %   
+ 
+ R0  =
+ 
+    83.333333  
+ 
+ 
+ Output resistance,R0 =(RD*Rz)/(RD+Rz)= 83.333333 ohm   
+ 
+ VImax  =
+ 
+    12.5  
+ 
+ Izmax  =
+ 
+    0.0125  
+ 
+ 
+ resistance,RD = 500 ohm   
+ 
+ PZmax  =
+ 
+    0.0625  
+ 
+ 
+ Power dissipated,PZmax =PZmax=(Izmax*Vz)= 0.0625 watt   
+ 
+ Prd  =
+ 
+    0.078125  
+ 
+ 
+ Power dissipated,Prd=Prd=(Izmax*Izmax*RD)= 0.078125 watt   
+ 
+ PD  =
+ 
+    0.140625  
+ 
+ 
+ Power dissipated,PD = 0.140625 watt   
+ 
+ RL  =
+ 
+    500.  
+ 
+ 
+ resistance,RL = 500 ohm   
+ 
+ %VR  =
+ 
+    16.666667  
+ 
+ 
+  voltage Regulation Percentage,%VR =(R0/RL)*(100)= 16.666667%    
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ Vz  =
+ 
+    10.  
+ 
+ 
+ diode voltage,Vz = 10 volts   
+ 
+ TC1  =
+ 
+    0.002  
+ 
+ 
+  Zener diode TC1 = 0.002 V/degree celsius   
+ 
+ VD  =
+ 
+    0.7  
+ 
+ 
+  voltage drop,VD = 0.7 volts   
+ 
+ TC2  =
+ 
+  - 0.0025  
+ 
+ 
+ Si diode TC = -0.0025 V/degree celsius   
+ 
+ Vref1  =
+ 
+    10.7  
+ 
+ 
+ Combined voltage ,Vref=VD+Vz= 10.7 volts   
+ 
+ TC3  =
+ 
+  - 0.0005  
+ 
+ 
+  Combined TC = -0.0005 V/degree celsius   
+ 
+ TC  =
+ 
+  - 0.0046729  
+ 
+ 
+ New Combined TC = (TC1+TC2)*100/(Vref1)=-0.0046729 percent/degree celsius   
+ 
+ T1  =
+ 
+    25.  
+ 
+ T2  =
+ 
+    50.  
+ 
+ Vref  =
+ 
+    10.6875  
+ 
+ 
+ New Combined reference voltage ,Vref= Vref1-((-TC3)*(T2-T1))=10.6875 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ Vi1  =
+ 
+    0.2  
+ 
+ 
+ input voltage,Vi1 = 0.2 volts   
+ 
+ VD  =
+ 
+    0.7  
+ 
+ 
+  voltage drop,VD = 0.7 volts   
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ resistance,RL = 5000 ohm   
+ 
+ Vcc  =
+ 
+    5.  
+ 
+ 
+ Supply voltage,Vcc = 5 volts   
+ 
+ V01  =
+ 
+    0.9  
+ 
+ 
+ output voltage ,V01 ==VD+Vi1 = 0.9 volts   
+ 
+ IL1  =
+ 
+    0.00082  
+ 
+ 
+  output current ,IL1=IL1=(Vcc-V01)/RL = 0.00082 ampere   
+ 
+ Vi2  =
+ 
+    5.  
+ 
+ 
+ input voltage,Vi2 = 5 volts   
+ 
+ V02  =
+ 
+    2.1  
+ 
+ 
+ output voltage ,V02 =3*VD= 2.1 volts   
+ 
+ IL2  =
+ 
+    0.00058  
+ 
+ 
+  output current ,IL2= IL2=(Vcc-V02)/RL = 0.00058 ampere   
+ 
+ VAK  =
+ 
+  - 2.9  
+ 
+ 
+  Diode voltage ,VAK = V02-Vi2 = -2.9 volts   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ 
+ Vcc = 15 volts   
+ 
+ VBB  =
+ 
+    1.  
+ 
+ 
+ VBB = 1 volts   
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VBE = 0.7 volts   
+ 
+ RB  =
+ 
+    5000.  
+ 
+ 
+ resistance,RB = 5000 ohm   
+ 
+ RL  =
+ 
+    650.  
+ 
+ 
+ resistance,RL = 650 ohm   
+ 
+ Bf  =
+ 
+    200.  
+ 
+ 
+ Gain,Bf = 200    
+ 
+ IB  =
+ 
+    0.00006  
+ 
+ 
+ IB =(VBB-VBE)/RB = 0.00006 ampere   
+ 
+ IC  =
+ 
+    0.012  
+ 
+ 
+ IC =IB*Bf= 0.012 ampere   
+ 
+ IE  =
+ 
+    0.01206  
+ 
+ 
+ IE = IB+IC=0.01206 ampere   
+ 
+ VCE  =
+ 
+    7.2  
+ 
+ 
+ VCE =Vcc-IC*RL= 7.2 volts   
+ 
+ VCB  =
+ 
+    6.5  
+ 
+ 
+ VCB = VCE-VBE=6.5 volts   
+ 
+ RB  =
+ 
+    238333.33  
+ 
+ 
+ resistance,RB =(Vcc-VBE)/IB= 238333.33 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ Vbe1  =
+ 
+    0.025  
+ 
+ 
+ Vbe1 = 0.025 volts   
+ 
+ Vbe2  =
+ 
+  - 0.025  
+ 
+ 
+ Vbe2 = -0.025 volts   
+ 
+ ib1  =
+ 
+    0.00002  
+ 
+ 
+ ib1 = 0.00002 ampere   
+ 
+ ib2  =
+ 
+  - 0.00002  
+ 
+ 
+ ib2 = -0.00002 ampere   
+ 
+ IBQ  =
+ 
+    0.00006  
+ 
+ 
+ IBQ = 0.00006 ampere   
+ 
+ ICP  =
+ 
+    0.0155  
+ 
+ 
+ ICP = 0.0155 ampere   
+ 
+ ICR  =
+ 
+    0.0085  
+ 
+ 
+ ICR = 0.0085 ampere   
+ 
+ VCEP  =
+ 
+    5.  
+ 
+ 
+ VCEP = 5 volts   
+ 
+ VCER  =
+ 
+    9.  
+ 
+ 
+ VCER = 9 volts   
+ 
+ change_IC  =
+ 
+    0.007  
+ 
+ 
+ change_IC = 0.007 ampere   
+ 
+ change_VCE  =
+ 
+    4.  
+ 
+ 
+ change_VCE = 4 volts   
+ 
+ change_VBE  =
+ 
+    0.05  
+ 
+ change_IB  =
+ 
+    0.00004  
+ 
+ AV  =
+ 
+    80.  
+ 
+ 
+ AV = 80    
+ 
+ AI  =
+ 
+    175.  
+ 
+ 
+ AI = 175    
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ ICQ  =
+ 
+    0.012  
+ 
+ 
+ ICQ = 0.012 ampere   
+ 
+ B  =
+ 
+    200.  
+ 
+ 
+ B = 200    
+ 
+ Cbe  =
+ 
+    1.000D-10  
+ 
+ 
+ capacitance,Cbe = 1.000D-10 F    
+ 
+ VT  =
+ 
+    0.026  
+ 
+ 
+ VT = 0.026 volts   
+ 
+ gm  =
+ 
+    0.4615385  
+ 
+ 
+ gm =(ICQ/VT)= 0.4615385 A/V   
+ 
+ hie  =
+ 
+    433.33333  
+ 
+ 
+ hie =(B/gm)= 433.33333 ohm   
+ 
+ fT  =
+ 
+    7.346D+08  
+ 
+ 
+ fT =((1/2)*(gm/Cbe)*(1/%pi))= 7.346D+08 hertz   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ VCC  =
+ 
+    20.  
+ 
+ 
+ VCC = 20 volts   
+ 
+ VBB  =
+ 
+    20.  
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL= 5000 ohm   
+ 
+ RB  =
+ 
+    965000.  
+ 
+ 
+ RB = 965000 ohm   
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VBE = 0.7 volts   
+ 
+ BF  =
+ 
+    50.  
+ 
+ 
+ BF = 50    
+ 
+ ICO  =
+ 
+    1.000D-08  
+ 
+ 
+ ICO = 1.000D-08 ampere   
+ 
+ Vi  =
+ 
+    0.  
+ 
+ 
+ Vi = 0 volts   
+ 
+ IBQ  =
+ 
+    0.00002  
+ 
+ 
+ IBQ = 0.00002 ampere   
+ 
+ ICQ  =
+ 
+    0.001  
+ 
+ 
+ ICQ =BF*IBQ= 0.001 ampere   
+ 
+ VCEQ  =
+ 
+    15.  
+ 
+ 
+ VCEQ =VCC-ICQ*RL = 15 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ BF1  =
+ 
+    100.  
+ 
+ 
+ BF1 = 100    
+ 
+ VCC  =
+ 
+    20.  
+ 
+ 
+ VCC = 20 volts   
+ 
+ VBB  =
+ 
+    20.  
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ resistance,RL= 5000 ohm   
+ 
+ RB  =
+ 
+    965000.  
+ 
+ 
+ resistance,RB = 965000 ohm   
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VBE = 0.7 volts   
+ 
+ ICO  =
+ 
+    1.000D-08  
+ 
+ 
+ ICO = 1.000D-08 ampere   
+ 
+ Vi  =
+ 
+    0.  
+ 
+ 
+ Vi = 0 volts   
+ 
+ IBQ  =
+ 
+    0.00002  
+ 
+ 
+ IBQ = 0.00002 ampere   
+ 
+ ICQ1  =
+ 
+    0.002  
+ 
+ 
+ ICQ1 =BF1*IBQ= 0.002 ampere   
+ 
+ VCEQ1  =
+ 
+    10.  
+ 
+ 
+ VCEQ1 =VCC-ICQ1*RL = 10 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ VBE2  =
+ 
+    0.5  
+ 
+ 
+ VBE2 = 0.5 volts   
+ 
+ VCC  =
+ 
+    20.  
+ 
+ 
+ VCC = 20 volts   
+ 
+ BF2  =
+ 
+    150.  
+ 
+ 
+ BF2 = 150    
+ 
+ ICO2  =
+ 
+    0.0000005  
+ 
+ 
+ ICO2 = 0.0000005 ampere   
+ 
+ RB  =
+ 
+    965000.  
+ 
+ 
+ RB = 965000 ohm   
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL= 5000 ohm   
+ 
+ IBQ2  =
+ 
+    0.0000202  
+ 
+ 
+ IBQ2 = (VCC-VBE2)/RB=0.0000202 ampere   
+ 
+ ICQ2  =
+ 
+    0.0030311  
+ 
+ 
+ ICQ2 =BF2*IBQ2= 0.0030311 ampere   
+ 
+ dICQ2  =
+ 
+    0.000075  
+ 
+ 
+ dICQ2 =BF2*ICO2= 0.000075 ampere   
+ 
+ ICQ3  =
+ 
+    0.0031061  
+ 
+ 
+ ICQ3 =ICQ2+dICQ2= 0.0031061 ampere   
+ 
+ VCEQ3  =
+ 
+    4.4695596  
+ 
+ 
+ VCEQ3 =VCC-ICQ3*RL = 4.4695596 volts   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ VCC  =
+ 
+    20.  
+ 
+ 
+ VCC = 20 volts   
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ resistance,RL= 5000 ohm   
+ 
+ R1  =
+ 
+    90000.  
+ 
+ 
+ resistance,R1 = 90000 ohm   
+ 
+ R2  =
+ 
+    10000.  
+ 
+ 
+ resistance,R2 = 10000 ohm   
+ 
+ Rc  =
+ 
+    1000.  
+ 
+ 
+ resistance,Rc = 1000 ohm   
+ 
+ VBEmax  =
+ 
+    0.7  
+ 
+ 
+ VBEmax = 0.7 volts   
+ 
+ VBEmin  =
+ 
+    0.5  
+ 
+ 
+ VBEmin = 0.5 volts   
+ 
+ BFmax  =
+ 
+    150.  
+ 
+ 
+ BFmax = 150    
+ 
+ BFmin  =
+ 
+    50.  
+ 
+ 
+ BFmin = 50    
+ 
+ ICOmax  =
+ 
+    0.0000005  
+ 
+ 
+ ICOmax = 0.0000005 ampere   
+ 
+ ICOmin  =
+ 
+    1.000D-08  
+ 
+ 
+ ICOmin = 1.000D-08 ampere   
+ 
+ VBB  =
+ 
+    2.  
+ 
+ 
+ VBB = 2 volts   
+ 
+ RB  =
+ 
+    9000.  
+ 
+ 
+ RB = (R1*R2)/(R1+R2)=9000 ohm   
+ 
+ ICmin  =
+ 
+    0.0010834  
+ 
+ 
+ ICmin = 0.0010834 ampere   
+ 
+ VCEQmax  =
+ 
+    14.582908  
+ 
+ 
+ VCEQmax =VCC-ICmin*RL = 14.582908 volts   
+ 
+ ICmax  =
+ 
+    0.0014110  
+ 
+ 
+ ICmax = 0.0014110 ampere   
+ 
+ VCEQmin  =
+ 
+    12.945156  
+ 
+ 
+ VCEQmin =VCC-ICmax*RL = 12.945156 volts   
+ 
+ change_IC  =
+ 
+    0.0003276  
+ 
+ 
+ change_IC= 0.0003276 ampere   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ VCC  =
+ 
+    20.  
+ 
+ 
+ VCC = 20 volts   
+ 
+ RL  =
+ 
+    2000.  
+ 
+ 
+ RL= 2000 ohm   
+ 
+ R1  =
+ 
+    100000.  
+ 
+ R2  =
+ 
+    100000.  
+ 
+ 
+ R1 =R2= 100000 ohm   
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VBE = 0.7 volts   
+ 
+ BF  =
+ 
+    100.  
+ 
+ 
+ BF = 100    
+ 
+ ICO  =
+ 
+    0.  
+ 
+ VBB  =
+ 
+    10.  
+ 
+ 
+ VBB = 10 volts   
+ 
+ RB  =
+ 
+    50000.  
+ 
+ 
+ RB = (R1*R2)/(R1+R2)=50000 ohm   
+ 
+ IC  =
+ 
+    0.0036905  
+ 
+ 
+ IC = 0.0036905 ampere   
+ 
+ VE  =
+ 
+    7.3809524  
+ 
+ 
+ VE = 7.3809524 volts   
+ 
+ VB  =
+ 
+    8.0809524  
+ 
+ 
+ VB = 8.0809524 volts   
+ 
+ VCB  =
+ 
+    11.919048  
+ 
+ 
+ VCB = 11.919048 volts   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ VCC  =
+ 
+    5.  
+ 
+ 
+ VCC = 5 volts   
+ 
+ RL  =
+ 
+    250.  
+ 
+ 
+ RL= 250 ohm   
+ 
+ RB  =
+ 
+    25000.  
+ 
+ 
+ RB =25000 ohm   
+ 
+ VCS  =
+ 
+    0.2  
+ 
+ 
+ VCS = 0.2 volts   
+ 
+ BF  =
+ 
+    200.  
+ 
+ 
+ BF = 200    
+ 
+ VBS  =
+ 
+    0.8  
+ 
+ 
+ VBS = 0.8 volts   
+ 
+ VI  =
+ 
+    5.  
+ 
+ 
+ VI = 5 volts   
+ 
+ VCON  =
+ 
+    0.3  
+ 
+ 
+ VCON = 0.3 volts   
+ 
+ ICON  =
+ 
+    0.0188  
+ 
+ 
+ ICON = (VCC-VCON)/RL=0.0188 ampere   
+ 
+ IBON  =
+ 
+    0.000094  
+ 
+ 
+ IBON = (ICON)/BF=0.000094 ampere   
+ 
+ IBS  =
+ 
+    0.000168  
+ 
+ 
+ IBS = (VI-VBS)/RB=0.000168 ampere   
+ 
+ ICS  =
+ 
+    0.0192  
+ 
+ 
+ ICS = (VCC-VCS)/RL=0.0192 ampere   
+ 
+ Bforced  =
+ 
+    114.28571  
+ 
+ 
+ Bforced = ICS/IBS=114.28571    
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ TJmax  =
+ 
+    175.  
+ 
+ 
+ TJmax= 175degree celsius   
+ 
+ theta  =
+ 
+    0.5  
+ 
+ 
+ theta= 0.5degree celsius/mW    
+ 
+ change_T  =
+ 
+    150.  
+ 
+ PDmax  =
+ 
+    300.  
+ 
+ 
+ at 25 degree celsius,PDmax=(TJmax-25 )/theta = 300 mW    
+ 
+ change_T  =
+ 
+    100.  
+ 
+ PDmax2  =
+ 
+    200.  
+ 
+ 
+ at 75 degree celsius,PDmax2= (TJmax-75)/theta = 200 mW    
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ TJmax  =
+ 
+    175.  
+ 
+ 
+ TJmax= 175 degree celsius   
+ 
+ theta  =
+ 
+    0.1  
+ 
+ 
+ theta= 0.1 degree celsius/mW    
+ 
+ change_T  =
+ 
+    150.  
+ 
+ PDmax  =
+ 
+    1500.  
+ 
+ 
+ at 25 degree celsius,PDmax=(TJmax-25 )/theta = 1500 mW    
+ 
+ change_T  =
+ 
+    100.  
+ 
+ PDmax  =
+ 
+    1000.  
+ 
+ 
+ at 75 degree celsius,PDmax= (TJmax-75)/theta = 1000 mW    
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VBE = 0.7 volts   
+ 
+ VCC  =
+ 
+    10.  
+ 
+ 
+ VCC = 10 volts   
+ 
+ IREF  =
+ 
+    0.005  
+ 
+ 
+ IREF =IQ= 0.005 ampere   
+ 
+ R  =
+ 
+    1860.  
+ 
+ 
+ R=(VCC-VBE)/(IREF)= 1860 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ IDSS  =
+ 
+    0.01  
+ 
+ 
+ IDSS = 0.01 ampere   
+ 
+ VP  =
+ 
+  - 4.  
+ 
+ 
+ VP= -4 volts   
+ 
+ VGS  =
+ 
+  - 2.  
+ 
+ 
+ VGS = -2 volts   
+ 
+ VDSmin  =
+ 
+    2.  
+ 
+ 
+ VDSmin  =VGS-VP=2 volts   
+ 
+ ID  =
+ 
+    0.0025  
+ 
+ 
+ ID =IDSS*(1-VGS/VP)^2= 0.0025 ampere   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ IDSS  =
+ 
+    0.01  
+ 
+ 
+ IDSS = 0.01 ampere   
+ 
+ VP  =
+ 
+  - 4.  
+ 
+ 
+ VP= -4 volts   
+ 
+ VGS  =
+ 
+    0.  
+ 
+ 
+ VGS = 0 volts   
+ 
+ RDS  =
+ 
+    200.  
+ 
+ 
+ RDS = 1/[(2*(IDSS/(-VP)))*(1-VGS/VP)]=200 ohm   
+ 
+ VGS  =
+ 
+  - 2.  
+ 
+ 
+ VGS = -2 volts   
+ 
+ RDS  =
+ 
+    400.  
+ 
+ 
+ RDS = 1/[(2*(IDSS/(-VP)))*(1-VGS/VP)]=400 ohm   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ ID  =
+ 
+    0.01  
+ 
+ 
+ ID = 0.01 ampere   
+ 
+ VDD  =
+ 
+    24.  
+ 
+ 
+ VDD= 24 volts   
+ 
+ VT  =
+ 
+    5.  
+ 
+ 
+ VT= 5 volts   
+ 
+ VGS  =
+ 
+    10.  
+ 
+ 
+ VGS= 10 volts   
+ 
+ KF  =
+ 
+    0.0004  
+ 
+ 
+ KF = ID/(VGS-VT)^2 = 0.0004 A/V^2   
+ 
+ VDS  =
+ 
+    7.  
+ 
+ 
+ VDS =VGS= 7 volts   
+ 
+ VGS  =
+ 
+    7.  
+ 
+ ID  =
+ 
+    0.0016  
+ 
+ 
+ ID =KF*(VGS-VT)^2= 0.0016 ampere   
+ 
+ RL  =
+ 
+    10625.  
+ 
+ 
+ RL=(VDD-VDS)/ID= 10625 ohm   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ part(i)    
+ 
+ IDSS  =
+ 
+    0.005  
+ 
+ 
+ IDSS = 0.005 ampere   
+ 
+ VP  =
+ 
+    2.  
+ 
+ 
+ VP= 2 volts   
+ 
+ IDQ  =
+ 
+    0.00442  
+ 
+ 
+ IDQ = 0.00442 ampere   
+ 
+ gm  =
+ 
+    0.0047011  
+ 
+ 
+ gm =[(2)*sqrt(IDQ*IDSS)]/VP= 0.0047011 A/V   
+ 
+ 
+ 
+ part(ii)    
+ 
+ IDQ  =
+ 
+    0.00604  
+ 
+ 
+ IDQ = 0.00604 ampere   
+ 
+ IDSS  =
+ 
+    0.015  
+ 
+ 
+ IDSS = 0.015 ampere   
+ 
+ VP  =
+ 
+    6.  
+ 
+ 
+ VP= 6 volts   
+ 
+ gm  =
+ 
+    0.0031728  
+ 
+ 
+ gm =[(2)*sqrt(IDQ*IDSS)]/VP= 0.0031728 A/V   
+ 
+ 
+ 
+ part(iii)    
+ 
+ IDQ  =
+ 
+    0.001  
+ 
+ 
+ IDQ = 0.001 ampere   
+ 
+ KF  =
+ 
+    0.00025  
+ 
+ 
+ KF = 0.00025 A/V^2   
+ 
+ gm  =
+ 
+    0.001  
+ 
+ 
+ gm =sqrt(4*IDQ*KF)= 0.001 A/V   
+ 
+ 
+ 
+ part(iv)    
+ 
+ IDQ  =
+ 
+    0.00091  
+ 
+ 
+ IDQ = 0.00091 ampere   
+ 
+ KF  =
+ 
+    0.000375  
+ 
+ 
+ KF = 0.000375 A/V^2   
+ 
+ gm  =
+ 
+    0.0011683  
+ 
+ 
+ gm =sqrt(4*IDQ*KF)= 0.0011683 A/V   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ IDQmax  =
+ 
+    0.005  
+ 
+ 
+ IDQmax = 0.005 ampere   
+ 
+ IDmax  =
+ 
+    0.005  
+ 
+ IDQmin  =
+ 
+    0.003  
+ 
+ 
+ IDQmin = 0.003 ampere   
+ 
+ VDD  =
+ 
+    20.  
+ 
+ 
+ VDD= 20 volts   
+ 
+ VDSmin  =
+ 
+    6.  
+ 
+ 
+ VDSmin= 6 volts   
+ 
+ ID  =
+ 
+    0.0024  
+ 
+ 
+ ID = 0.0024 ampere   
+ 
+ VGG  =
+ 
+    3.  
+ 
+ 
+ VGG= 3 volts   
+ 
+ Ri  =
+ 
+    100000.  
+ 
+ 
+ Ri= 100000 ohm   
+ 
+ RF  =
+ 
+    1250.  
+ 
+ 
+ RF= (VGG-0)/(ID-0)= 1250 ohm   
+ 
+ R1  =
+ 
+    666666.67  
+ 
+ 
+ R1= VDD*Ri/VGG= 666666.67 ohm   
+ 
+ R2  =
+ 
+    117647.06  
+ 
+ 
+ R2= R1*VGG/(VDD-VGG)= 117647.06 ohm   
+ 
+ RL  =
+ 
+    1550.  
+ 
+ 
+ RL=[((VDD-VDSmin)/IDmax)-RF]=1550 ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ IDSS  =
+ 
+    0.05  
+ 
+ 
+ IDSS = 0.05 ampere   
+ 
+ VP  =
+ 
+  - 10.  
+ 
+ 
+ VP= -10 volts   
+ 
+ VGSQ  =
+ 
+  - 5.  
+ 
+ 
+ VGSQ= -5 volts   
+ 
+ ID  =
+ 
+    0.0125  
+ 
+ 
+ ID =IDSS*(1-VGS/VP)^2= 0.0125 ampere   
+ 
+ RF  =
+ 
+    400.  
+ 
+ 
+ RF= (VGSQ)/(ID)= 400 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ IDSS  =
+ 
+    0.005  
+ 
+ 
+ IDSS = 0.005 ampere   
+ 
+ RL  =
+ 
+    910.  
+ 
+ 
+ RL= 910 ohm   
+ 
+ RF  =
+ 
+    2290.  
+ 
+ 
+ RF= 2290 ohm   
+ 
+ R1  =
+ 
+    12000000.  
+ 
+ 
+ R1= 12000000 ohm   
+ 
+ R2  =
+ 
+    8570000.  
+ 
+ 
+ R2= 8570000 ohm   
+ 
+ VDD  =
+ 
+    24.  
+ 
+ 
+ VDD= 24 volts   
+ 
+ VP  =
+ 
+  - 2.  
+ 
+ 
+ VP= -2 volts   
+ 
+ VGG  =
+ 
+    9.9990277  
+ 
+ 
+ VGG= VDD*R2/(R1+R2)=9.9990277 volts   
+ 
+ 
+ Quadratic equation =5.244*ID^(2)-55.76*ID+144=0   
+ 
+ p  =
+ 
+    5.244  - 55.76    144.  
+ 
+ ID  =
+ 
+    0.0062142  
+    0.0044189  
+ 
+ 
+!ID =  0.0062142 ampere  !
+!                        !
+!ID =  0.0044189 ampere  !
+ 
+ 
+ Since ID <=IDSS, hence ID=6.214 mA cannot be chosen, so we chose ID=4.42 mA   
+ 
+ IDQ  =
+ 
+    0.00442  
+ 
+ 
+ IDQ =0.00442  A   
+ 
+ VGSQ  =
+ 
+  - 0.1227723  
+ 
+ 
+ VGSQ = VGG-IDQ*RF = -0.1227723 volts   
+ 
+ VDSQ  =
+ 
+    9.856  
+ 
+ 
+ VDSQ= VDD-IDQ*(RL+RF)= 9.856 volts   
+ 
+ VDGQ  =
+ 
+    9.9787723  
+ 
+ 
+ VDGQ = VDSQ-VGSQ =9.9787723 volts   
+ 
+ 
+ VDGQ >magnitude_VP,Hence FET is in pinch off region   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ IDSS  =
+ 
+    0.015  
+ 
+ 
+ IDSS = 0.015 ampere   
+ 
+ RL  =
+ 
+    910.  
+ 
+ 
+ RL= 910 ohm   
+ 
+ RF  =
+ 
+    2290.  
+ 
+ 
+ RF= 2290 ohm   
+ 
+ R1  =
+ 
+    12000000.  
+ 
+ 
+ R1= 12000000 ohm   
+ 
+ R2  =
+ 
+    8570000.  
+ 
+ 
+ R2= 8570000 ohm   
+ 
+ VDD  =
+ 
+    24.  
+ 
+ 
+ VDD= 24 volts   
+ 
+ VP  =
+ 
+  - 6.  
+ 
+ 
+ VP= -6 volts   
+ 
+ VGG  =
+ 
+    9.9990277  
+ 
+ 
+ VGG= VDD*R2/(R1+R2)=9.9990277 volts   
+ 
+ 
+ Quadratic equation =5.244*ID^(2)-75.68*ID+256=0   
+ 
+ p  =
+ 
+    5.244  - 75.68    256.  
+ 
+ ID  =
+ 
+    0.0090189  
+    0.0054128  
+ 
+ 
+!ID =  0.0090189 ampere  !
+!                        !
+!ID =  0.0054128 ampere  !
+ 
+ VDG  =
+ 
+    5.7937507  
+    9.0753182  
+ 
+ 
+!VDG=  5.7937507 volts  !
+!                       !
+!VDG=  9.0753182 volts  !
+ 
+ 
+ since VDG < magnitude_VP for ID=9.0189 mA which is inappropriate for JFET pinch off region ,hence ID=5.4128 mA is choosen   
+      !                                                                                                                      
+ 
+ IDQ  =
+ 
+    0.00541  
+ 
+ 
+ IDQ =0.00541  ampere   
+ 
+ VGSQ  =
+ 
+  - 2.3898723  
+ 
+ 
+ VGSQ = VGG-IDQ*RF = -2.3898723 volts   
+ 
+ VDSQ  =
+ 
+    6.688  
+ 
+ 
+ VDSQ= VDD-IDQ*(RL+RF)= 6.688 volts   
+ 
+ VDGQ  =
+ 
+    9.0778723  
+ 
+ 
+ VDGQ = VDSQ-VGSQ =9.0778723 volts   
+ 
+ 
+ VDGQ > VP,Hence FET is in pinch off region   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ RL  =
+ 
+    12000.  
+ 
+ 
+ RL= 12000 ohm   
+ 
+ RF  =
+ 
+    6000.  
+ 
+ 
+ RF= 6000 ohm   
+ 
+ R1  =
+ 
+    12000000.  
+ 
+ 
+ R1= 12000000 ohm   
+ 
+ R2  =
+ 
+    8570000.  
+ 
+ 
+ R2= 8570000 ohm   
+ 
+ VDD  =
+ 
+    24.  
+ 
+ 
+ VDD= 24 volts   
+ 
+ VT  =
+ 
+    3.  
+ 
+ 
+ VT= 3 volts   
+ 
+ KF  =
+ 
+    0.00025  
+ 
+ 
+ KF= 0.00025 A/V^2   
+ 
+ VGG  =
+ 
+    9.9990277  
+ 
+ 
+ VGG= VDD*R2/(R1+R2)=9.9990277 volts   
+ 
+ 
+ Quadratic equation =9*ID^(2)-25*ID+16=0   
+ 
+ p  =
+ 
+    9.  - 25.    16.  
+ 
+ ID  =
+ 
+    0.0017778  
+    0.001      
+ 
+ 
+!ID =  0.0017778 A  !
+!                   !
+!ID =  0.001 A      !
+ 
+ VGS  =
+ 
+  - 0.6676390  
+    3.9990277  
+ 
+ 
+!VGS = VGG-ID*RF = -0.6676390 volts  !
+!                                    !
+!VGS = VGG-ID*RF =  3.9990277 volts  !
+ 
+ 
+ Since VGS < VT for ID=1.78 mA, hence ID = 1.78 mA cannot be chosen, so we chose ID= 1 mA as operating drain current IDQ   
+ 
+ IDQ  =
+ 
+    0.001  
+ 
+ 
+ IDQ =0.001A   
+ 
+ VGSQ  =
+ 
+    3.9990277  
+ 
+ 
+ VGSQ = VGG-IDQ*RF = 3.9990277 volts   
+ 
+ VDSQ  =
+ 
+    6.  
+ 
+ 
+ VDSQ= VDD-IDQ*(RL+RF)= 6 volts   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ RL  =
+ 
+    12000.  
+ 
+ 
+ RL= 12000 ohm   
+ 
+ RF  =
+ 
+    6000.  
+ 
+ 
+ RF= 6000 ohm   
+ 
+ R1  =
+ 
+    12000000.  
+ 
+ 
+ R1= 12000000 ohm   
+ 
+ R2  =
+ 
+    8570000.  
+ 
+ 
+ R2= 8570000 ohm   
+ 
+ VDD  =
+ 
+    24.  
+ 
+ 
+ VDD= 24 volts   
+ 
+ VT  =
+ 
+    3.  
+ 
+ 
+ VT= 3 volts   
+ 
+ KF  =
+ 
+    0.000375  
+ 
+ 
+ KF= 0.000375 A/V^2   
+ 
+ VGG  =
+ 
+    9.9990277  
+ 
+ 
+ VGG= VDD*R2/(R1+R2)=9.9990277 volts   
+ 
+ 
+ Quadratic equation =36*ID^(2)-86.67*ID+49=0   
+ 
+ p  =
+ 
+    36.  - 86.67    49.  
+ 
+ ID  =
+ 
+    0.0015002  
+    0.0009073  
+ 
+ 
+!ID =  0.0015002 A  !
+!                   !
+!ID =  0.0009073 A  !
+ 
+ VGS  =
+ 
+    0.9976218  
+    4.5554336  
+ 
+ 
+!VGS = VGG-ID*RF =  0.9976218 volts  !
+!                                    !
+!VGS = VGG-ID*RF =  4.5554336 volts  !
+ 
+ 
+ Since VGS < VT for ID=1.5 mA, hence ID = 1.5 mA cannot be chosen, so we chose ID= 0.91 mA as operating drain current IDQ   
+ 
+ IDQ  =
+ 
+    0.00091  
+ 
+ 
+ IDQ =0.00091 A   
+ 
+ change_IDQ  =
+ 
+    9.  
+ 
+ 
+ change in IDQ = 9 percent   
+ 
+ VGSQ  =
+ 
+    4.5390277  
+ 
+ 
+ VGSQ = VGG-IDQ*RF = 4.5390277 volts   
+ 
+ VDSQ  =
+ 
+    7.62  
+ 
+ 
+ VDSQ= VDD-IDQ*(RL+RF)= 7.62 volts   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ RF  =
+ 
+    6000.  
+ 
+ 
+ RF= 6000 ohm   
+ 
+ VDD  =
+ 
+    20.  
+ 
+ 
+ VDD= 20 volts   
+ 
+ 
+ part(i)    
+ 
+ VT  =
+ 
+    2.  
+ 
+ 
+ VT= 2 volts   
+ 
+ KF  =
+ 
+    0.00025  
+ 
+ 
+ KF= 0.00025 A/V^2   
+ 
+ ID  =
+ 
+    0.001  
+ 
+ 
+ ID = 0.001 A   
+ 
+ RL  =
+ 
+    16000.  
+ 
+ 
+ RL=[VDD-VT-sqrt(ID/KF)]/ID= 16000 ohm   
+ 
+ 
+ part(ii)    
+ 
+ VT  =
+ 
+    3.  
+ 
+ 
+ VT= 3 volts   
+ 
+ KF  =
+ 
+    0.000375  
+ 
+ 
+ KF= 0.000375 A/V^2   
+ 
+ 
+ Quadratic equation =(256)*ID^(2)-(546.67)*ID+289=0   
+ 
+ p  =
+ 
+    256.  - 546.66    289.  
+ 
+ ID  =
+ 
+    0.0011729  
+    0.0009625  
+ 
+ 
+!ID =  0.0011729 A  !
+!                   !
+!ID =  0.0009625 A  !
+ 
+ VDS  =
+ 
+    1.2336757  
+    4.6000743  
+ 
+ 
+!VDS =VDD-ID*RL =  1.2336757 volts  !
+!                                   !
+!VDS =VDD-ID*RL =  4.6000743 volts  !
+ 
+ IDQ  =
+ 
+    0.000962  
+ 
+ 
+ IDQ =0.000962 A   
+ 
+ Percentage_change  =
+ 
+    3.8  
+ 
+ 
+ Percentage change= 3.8 percent   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ VDD  =
+ 
+    5.  
+ 
+ 
+ VDD= 5 volts   
+ 
+ RL1  =
+ 
+    125000.  
+ 
+ 
+ RL1= 125000 ohm   
+ 
+ RL2  =
+ 
+    200000.  
+ 
+ 
+ RL2= 200000 ohm   
+ 
+ IDON1  =
+ 
+    0.0000349  
+ 
+ 
+ IDON1 =0.0000349 A   
+ 
+ IDON2  =
+ 
+    0.0000225  
+ 
+ 
+ IDON2 =0.0000225 A   
+ 
+ VDON1  =
+ 
+    0.64  
+ 
+ 
+ VDON1=VDD-IDON1*RL1= 0.64 volts   
+ 
+ VDON2  =
+ 
+    0.5  
+ 
+ 
+ VDON2=VDD-IDON2*RL2= 0.5 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.13/Ex4_13.sce #
+ 
+ 
+ IDSS  =
+ 
+    0.01  
+ 
+ 
+ IDSS = 0.01 ampere   
+ 
+ ID  =
+ 
+    0.01  
+ 
+ VP  =
+ 
+  - 4.  
+ 
+ 
+ VP= -4 volts   
+ 
+ VGS  =
+ 
+    0.  
+ 
+ 
+ VGS= 0 volts   
+ 
+ VDD  =
+ 
+    10.  
+ 
+ 
+ VDD= 10 volts   
+ 
+ RL  =
+ 
+    500.  
+ 
+ 
+ RL= 500 ohm   
+ 
+ VDS  =
+ 
+    5.  
+ 
+ 
+ VDS=VDD-ID*RL= 5 volts   
+ 
+ 
+ VDS>VP,so pinch off region   
+ 
+ RL  =
+ 
+    750.  
+ 
+ 
+ RL= 750 ohm   
+ 
+ VDS  =
+ 
+    2.5  
+ 
+ 
+ VDS=VDD-ID*RL= 2.5 volts   
+ 
+ 
+ VDS<VP,so ohmic region   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ KF1  =
+ 
+    0.00025  
+ 
+ 
+ KF1 = 0.00025 A/V^2   
+ 
+ KF2  =
+ 
+    0.00025  
+ 
+ 
+ KF2 = 0.00025 A/V^2   
+ 
+ IQ  =
+ 
+    0.001  
+ 
+ 
+ IQ= 0.001 ampere   
+ 
+ VT1  =
+ 
+    2.  
+ 
+ 
+ VT1 = 2 volts   
+ 
+ VT2  =
+ 
+    2.  
+ 
+ 
+ VT2 = 2 volts   
+ 
+ VDD  =
+ 
+    15.  
+ 
+ 
+ VDD= 15 volts   
+ 
+ IREF  =
+ 
+    0.001  
+ 
+ 
+ IREF =IQ= 0.001 ampere   
+ 
+ VGS  =
+ 
+    4.8284271  
+ 
+ 
+ VGS= VT1+sqrt(2*IREF/KF1)=4.8284271 volts   
+ 
+ R  =
+ 
+    10171.573  
+ 
+ 
+ R= (VDD-VGS)/IREF=10171.573 ohm   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ RON  =
+ 
+    100.  
+ 
+ 
+ RON= 100 ohm   
+ 
+ ROFF  =
+ 
+    1.000D+10  
+ 
+ 
+ ROFF= 1.000D+10 ohm   
+ 
+ Vip  =
+ 
+    1.  
+ 
+ 
+ Vip= 1 volts   
+ 
+ Rs  =
+ 
+    100.  
+ 
+ 
+ Rs= 100 ohm   
+ 
+ RL  =
+ 
+    10000.  
+ 
+ 
+ RL= 10000 ohm   
+ 
+ 
+ part(i)    
+ 
+ Vo  =
+ 
+    0.9803922  
+ 
+ 
+ Vo=(Vip*RL)/(RL+RON+Rs)= 0.9803922 volts   
+ 
+ ErON  =
+ 
+    1.9607843  
+ 
+ 
+ ErON=[Vip*(RON+Rs)/(RL+RON+Rs)]*100= 1.9607843 percent   
+ 
+ vOFF  =
+ 
+    0.000001  
+ 
+ 
+ vOFF=(Vip*RL)/ROFF= 0.000001 volts   
+ 
+ OFF_isolation  =
+ 
+    120.  
+ 
+ 
+ OFF_isolation=20*log10(Vip/vOFF)= 120 dB   
+ 
+ 
+ part(ii)    
+ 
+ vOFF  =
+ 
+    0.5  
+ 
+ 
+ vOFF=(Vip*RON)/(Rs+RON)= 0.5 volts   
+ 
+ OFF_isolation  =
+ 
+    6.0205999  
+ 
+ 
+ OFF_isolation=20*log10((Rs+RON)/RON)= 6.0205999 dB   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL= 5000 ohm   
+ 
+ R1  =
+ 
+    100000.  
+ 
+ 
+ R1= 100000 ohm   
+ 
+ R2  =
+ 
+    10000.  
+ 
+ 
+ R2= 10000 ohm   
+ 
+ rc  =
+ 
+    50000.  
+ 
+ 
+ rc= 50000 ohm   
+ 
+ rd  =
+ 
+    50000.  
+ 
+ rbe  =
+ 
+    1000.  
+ 
+ 
+ rbe= 1000 ohm   
+ 
+ gm  =
+ 
+    0.05  
+ 
+ 
+ gm = 0.05 A/V   
+ 
+ Av  =
+ 
+  - 250.  
+ 
+ 
+ For BJT,Av=(-gm*RL)= -250   
+ 
+ AI  =
+ 
+    50.  
+ 
+ 
+ AI=(gm*rbe)= 50   
+ 
+ gm  =
+ 
+    0.005  
+ 
+ 
+ gm = 0.005 A/V   
+ 
+ Av  =
+ 
+  - 25.  
+ 
+ 
+ For FET,Av=(-gm*RL)= -25    
+ 
+ R0  =
+ 
+    50000.  
+ 
+ 
+ R0= 50000 ohm   
+ 
+ Ri  =
+ 
+    1000.  
+ 
+ 
+ Ri= 1000 ohm   
+ 
+ RB  =
+ 
+    9090.9091  
+ 
+ 
+ RB=(R1*R2)/(R1+R2)= 9090.9091 ohm   
+ 
+ Ri  =
+ 
+    900.9009  
+ 
+ 
+ Ri= (RB*rbe)/(RB+rbe)=900.9009 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL= 5000 ohm   
+ 
+ R1  =
+ 
+    100000.  
+ 
+ 
+ R1= 100000 ohm   
+ 
+ R2  =
+ 
+    100000.  
+ 
+ 
+ R2= 100000 ohm   
+ 
+ Rs  =
+ 
+    5000.  
+ 
+ 
+ Rs= 5000 ohm   
+ 
+ Beta_o  =
+ 
+    50.  
+ 
+ 
+ Beta_o = 50   
+ 
+ rbe  =
+ 
+    1000.  
+ 
+ 
+ rbe= 1000 ohm   
+ 
+ gm  =
+ 
+    0.05  
+ 
+ 
+ gm = 0.05 A/V   
+ 
+ rc  =
+ 
+    50000.  
+ 
+ 
+ rc= 50000 ohm   
+ 
+ Av  =
+ 
+    0.9960159  
+ 
+ 
+ Av=RL/(RL+1/gm)= 0.9960159   
+ 
+ Avs  =
+ 
+    0.9765625  
+ 
+ 
+ Avs=RL/[(Rs/Beta_o)+(1/gm)+(RL)]= 0.9765625   
+ 
+ AI  =
+ 
+  - 51.  
+ 
+ 
+ AI=-(Beta_o+1)= -51   
+ 
+ R0  =
+ 
+    120.  
+ 
+ 
+ R0= (Rs+rbe)/Beta_o=120 ohm   
+ 
+ Ri  =
+ 
+    251000.  
+ 
+ 
+ Ri= rbe+Beta_o*RL=251000 ohm   
+ 
+ RB  =
+ 
+    50000.  
+ 
+ 
+ RB=(R1*R2)/(R1+R2)= 50000 ohm   
+ 
+ Rieff  =
+ 
+    41694.352  
+ 
+ 
+ Rieff= (Ri*RB)/(RB+Ri)=41694.352 ohm   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL= 5000 ohm   
+ 
+ RF  =
+ 
+    5000.  
+ 
+ 
+ RF= 5000 ohm   
+ 
+ Beta_o  =
+ 
+    50.  
+ 
+ 
+ Beta_o = 50   
+ 
+ rbe  =
+ 
+    1000.  
+ 
+ 
+ rbe= 1000 ohm   
+ 
+ gm  =
+ 
+    0.05  
+ 
+ 
+ gm = 0.05 A/V   
+ 
+ rc  =
+ 
+    50000.  
+ 
+ 
+ rc= 50000 ohm   
+ 
+ Ri  =
+ 
+    256000.  
+ 
+ 
+ Ri= rbe+RF*(1+gm*rbe)=256000 ohm   
+ 
+ Av  =
+ 
+  - 0.9960159  
+ 
+ 
+ Av=(-gm*RL)/(1+gm*RF)= -0.9960159   
+ 
+ AI  =
+ 
+    50.  
+ 
+ 
+ AI=(Beta_o)= 50   
+ 
+ R0  =
+ 
+    2500000.  
+ 
+ 
+ R0= Beta_o*rc=2500000 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL= 5000 ohm   
+ 
+ RF  =
+ 
+    2500.  
+ 
+ 
+ RF= 2500 ohm   
+ 
+ Rs  =
+ 
+    50.  
+ 
+ 
+ Rs= 50 ohm   
+ 
+ ro  =
+ 
+    50000.  
+ 
+ 
+ ro= 50000 ohm   
+ 
+ rd  =
+ 
+    50000.  
+ 
+ rc  =
+ 
+    50000.  
+ 
+ 
+ rc= 50000 ohm   
+ 
+ rbe  =
+ 
+    1000.  
+ 
+ 
+ rbe= 1000 ohm   
+ 
+ 
+ For CG Amplifier   
+ 
+ gm  =
+ 
+    0.005  
+ 
+ 
+ gm = 0.005 A/V   
+ 
+ Ri  =
+ 
+    200.  
+ 
+ 
+ Ri= 1/gm=200 ohm   
+ 
+ Avs  =
+ 
+    20.  
+ 
+ 
+ Avs=gm*RL/(1+gm*Rs)= 20   
+ 
+ Ro  =
+ 
+    62500.  
+ 
+ 
+ Ro=rd*(1+gm*Rs)=62500 ohm   
+ 
+ 
+ For CB Amplifier   
+ 
+ gm  =
+ 
+    0.05  
+ 
+ 
+ gm = 0.05 A/V   
+ 
+ Ri  =
+ 
+    20.  
+ 
+ 
+ Ri= 1/gm=20 ohm   
+ 
+ Avs  =
+ 
+    71.428571  
+ 
+ 
+ Avs=gm*RL/(1+gm*Rs)= 71.428571   
+ 
+ Ro  =
+ 
+    2500000.  
+ 
+ 
+ Ro=gm*(rbe*rc)=2500000 ohm   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL= 5000 ohm   
+ 
+ Cc  =
+ 
+    1.000D-07  
+ 
+ 
+ Cc= 1.000D-07 farad   
+ 
+ Ri  =
+ 
+    100000.  
+ 
+ 
+ Ri= 100000 ohm   
+ 
+ CSH  =
+ 
+    1.000D-10  
+ 
+ 
+ CSH= 1.000D-10 farad   
+ 
+ Avm  =
+ 
+    100.  
+ 
+ 
+ Avm=100   
+ 
+ fL  =
+ 
+    15.915494  
+ 
+ 
+ fL=1/[2*(%pi)*(Ri)*(Cc)]= 15.915494Hz    
+ 
+ fH  =
+ 
+    318309.89  
+ 
+ 
+ fH=1/[2*(%pi)*(RL)*(CSH)]= 318309.89 Hz   
+ 
+ BW  =
+ 
+    318293.97  
+ 
+ 
+ BW=fH-fL= 318293.97 Hz   
+ 
+ fT  =
+ 
+    31830989.  
+ 
+ 
+ fT=Avm*fH= 31830989 Hz   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ IDSS  =
+ 
+    0.016  
+ 
+ 
+ IDSS = 0.016 ampere   
+ 
+ VP  =
+ 
+  - 4.  
+ 
+ 
+ VP= -4 volts   
+ 
+ VGSQ  =
+ 
+  - 2.  
+ 
+ 
+ VGSQ= -2 volts   
+ 
+ Vsm  =
+ 
+    0.2  
+ 
+ 
+ Vsm= 0.2 volts   
+ 
+ D  =
+ 
+    2.5  
+ 
+ 
+ D=[((0.5)*(Vsm)^2)/(4*Vsm)]*100  =2.5%    
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ Ic  =
+ 
+    0.001  
+ 
+ 
+ Ic = 0.001 ampere   
+ 
+ rbe  =
+ 
+    2000.  
+ 
+ 
+ rbe= 2000 ohm   
+ 
+ gm  =
+ 
+    0.05  
+ 
+ 
+ gm = 0.05 A/V   
+ 
+ Beta_o  =
+ 
+    100.  
+ 
+ 
+ Beta_o = 100    
+ 
+ rc  =
+ 
+    50000.  
+ 
+ 
+ rc= 50000 ohm   
+ 
+ Cbe  =
+ 
+    1.000D-11  
+ 
+ 
+ Cbe= 1.000D-11 farad   
+ 
+ Ctc  =
+ 
+    1.000D-12  
+ 
+ 
+ Ctc= 1.000D-12 farad   
+ 
+ 
+ part(i)   
+ 
+ RL  =
+ 
+    10000.  
+ 
+ 
+ RL= 10000 ohm   
+ 
+ Rs  =
+ 
+    500.  
+ 
+ 
+ Rs= 500 ohm   
+ 
+ Rth  =
+ 
+    400.  
+ 
+ 
+ Rth=(Rs*rbe)/(Rs+rbe)=400 ohm   
+ 
+ Avm  =
+ 
+  - 500.  
+ 
+ 
+ Avm=(-gm*RL)=-500   
+ 
+ CM  =
+ 
+    5.010D-10  
+ 
+ 
+ CM=Ctc*(1-Avm)= 5.010D-10 farad   
+ 
+ Ci  =
+ 
+    1.000D-11  
+ 
+ 
+ Ci=Cbe= 1.000D-11 farad   
+ 
+ fHi  =
+ 
+    778644.54  
+ 
+ 
+ fHi=1/[2*(%pi)*(Rth)*(Cbe+CM)]= 778644.54 Hz   
+ 
+ Ri  =
+ 
+    2000.  
+ 
+ 
+ Ri=rbe =2000 ohm   
+ 
+ Ro  =
+ 
+    50000.  
+ 
+ 
+ R0= rc=50000 ohm   
+ 
+ fB  =
+ 
+    7957747.2  
+ 
+ 
+ fB=1/[2*(%pi)*(rbe)*(Cbe)]= 7957747.2 Hz   
+ 
+ fT  =
+ 
+    7.958D+08  
+ 
+ 
+ fT=Beta_o*fB= 7.958D+08 Hz   
+ 
+ 
+ part(ii)   
+ 
+ Rs  =
+ 
+    50000.  
+ 
+ 
+ Rs= 50000 ohm   
+ 
+ RL  =
+ 
+    1000.  
+ 
+ 
+ RL= 1000 ohm   
+ 
+ fhi  =
+ 
+    3183098.9  
+ 
+ 
+ fhi=1/[2*(%pi)*(Rs)*(Ctc)]= 3183098.9 Hz   
+ 
+ Avm  =
+ 
+    0.9803922  
+ 
+ 
+ Avm=(gm*RL)/(1+gm*RL)=0.9803922   
+ 
+ Ro  =
+ 
+    20.  
+ 
+ 
+ Ro= 1/gm=20 ohm   
+ 
+ Ri  =
+ 
+    100000.  
+ 
+ 
+ Ri=Beta_o*RL =100000 ohm   
+ 
+ 
+ part(iii)   
+ 
+ RL  =
+ 
+    10000.  
+ 
+ 
+ RL= 10000 ohm   
+ 
+ Rs  =
+ 
+    50.  
+ 
+ 
+ Rs= 50 ohm   
+ 
+ fHi  =
+ 
+    7.958D+08  
+ 
+ 
+ fHi=gm/[2*(%pi)*(Cbe)]= 7.958D+08 Hz   
+ 
+ fHo  =
+ 
+    15915494.  
+ 
+ 
+ fHo=gm/[2*(%pi)*(Ctc)*(RL)]= 15915494 Hz   
+ 
+ Avs  =
+ 
+    142.85714  
+ 
+ 
+ Avs=(gm*RL)/(1+gm*Rs)=142.85714   
+ 
+ Ri  =
+ 
+    20.  
+ 
+ 
+ Ri= 1/gm=20 ohm   
+ 
+ Ro  =
+ 
+    5000000.  
+ 
+ 
+ Ro=Beta_o*rc =5000000 ohm   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ tp  =
+ 
+    0.01  
+ 
+ 
+ tp= 0.01 s   
+ 
+ tr  =
+ 
+    5.000D-08  
+ 
+ 
+ tr= 5.000D-08 s   
+ 
+ CSH  =
+ 
+    5.000D-11  
+ 
+ 
+ CSH= 5.000D-11 farad   
+ 
+ tilt  =
+ 
+    5.  
+ 
+ 
+ percentage tilt= 5%   
+ 
+ Ri  =
+ 
+    100000.  
+ 
+ 
+ Ri= 100000 ohm   
+ 
+ RL  =
+ 
+    454.54545  
+ 
+ 
+ RL=tr/(2.2*CSH)= 454.54545 ohm   
+ 
+ Cc  =
+ 
+    0.000002  
+ 
+ 
+ Cc= (tp*100)/( tilt*Ri)=0.000002 farad   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ Av  =
+ 
+    0.1  
+ 
+ 
+ Av= 0.1   
+ 
+ AvdB  =
+ 
+  - 20.  
+ 
+ 
+ Av(dB)=20*log10(Av)= -20dB    
+ 
+ Av  =
+ 
+    0.707  
+ 
+ 
+ Av= 0.707   
+ 
+ AvdB  =
+ 
+  - 3.0116117  
+ 
+ 
+ Av(dB)=20*log10(Av)= -3.0116117dB    
+ 
+ Av  =
+ 
+    1.  
+ 
+ 
+ Av= 1   
+ 
+ AvdB  =
+ 
+    0.  
+ 
+ 
+ Av(dB)=20*log10(Av)= 0dB    
+ 
+ Av  =
+ 
+    10.  
+ 
+ 
+ Av= 10   
+ 
+ AvdB  =
+ 
+    20.  
+ 
+ 
+ Av(dB)=20*log10(Av)= 20dB    
+ 
+ Av  =
+ 
+    100.  
+ 
+ 
+ Av= 100   
+ 
+ AvdB  =
+ 
+    40.  
+ 
+ 
+ Av(dB)=20*log10(Av)= 40dB    
+ 
+ Av  =
+ 
+    1000.  
+ 
+ 
+ Av= 1000   
+ 
+ AvdB  =
+ 
+    60.  
+ 
+ 
+ Av(dB)=20*log10(Av)= 60dB    
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ Ri  =
+ 
+    500.  
+ 
+ 
+ Ri= 500 ohm   
+ 
+ RL  =
+ 
+    50.  
+ 
+ 
+ RL= 50 ohm   
+ 
+ Vom  =
+ 
+    1.  
+ 
+ 
+ Vom= 1 volts   
+ 
+ Vo  =
+ 
+    0.7071068  
+ 
+ Vim  =
+ 
+    0.001  
+ 
+ 
+ Vim= 0.001 volts   
+ 
+ Vi  =
+ 
+    0.0007071  
+ 
+ Av  =
+ 
+    60.  
+ 
+ 
+ Av(in dB)=20*log10(Vo/Vi)= 60 dB    
+ 
+ Iim  =
+ 
+    0.000002  
+ 
+ 
+ Iim= Vim/Ri= 0.000002 A   
+ 
+ Ii  =
+ 
+    0.0000014  
+ 
+ Iom  =
+ 
+    0.02  
+ 
+ 
+ Iom= Vom/RL= 0.02 A   
+ 
+ Io  =
+ 
+    0.0141421  
+ 
+ Ai  =
+ 
+    80.  
+ 
+ 
+ Ai=20*log10(Io/Ii)= 80 dB    
+ 
+ pi  =
+ 
+    1.000D-09  
+ 
+ 
+ pi= Vi^2/Ri= 1.000D-09 W   
+ 
+ po  =
+ 
+    0.01  
+ 
+ 
+ po= Vo^2/RL= 0.01 W   
+ 
+ Ap  =
+ 
+    70.  
+ 
+ 
+ Ap=10*log10(po/pi)= 70 dB    
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ RL  =
+ 
+    1000.  
+ 
+ 
+ RL= 1000 ohm   
+ 
+ RF  =
+ 
+    500000.  
+ 
+ 
+ RF= 500000 ohm   
+ 
+ Beta_o  =
+ 
+    50.  
+ 
+ 
+ Beta_o = 50   
+ 
+ rbe  =
+ 
+    1000.  
+ 
+ 
+ rbe= 1000 ohm   
+ 
+ gm  =
+ 
+    0.05  
+ 
+ 
+ gm = 0.05 A/V   
+ 
+ rc  =
+ 
+    50000.  
+ 
+ 
+ rc= 50000 ohm   
+ 
+ 
+ part(i)   
+ 
+ Adm1  =
+ 
+  - 50.  
+ 
+ 
+ Adm1=(-gm*RL)= -50   
+ 
+ Adm2  =
+ 
+    25.  
+ 
+ 
+ Adm2=(0.5*gm*RL)= 25   
+ 
+ Rid  =
+ 
+    2000.  
+ 
+ 
+ Rid=2*rbe= 2000 ohm   
+ 
+ Acm  =
+ 
+  - 0.001  
+ 
+ 
+ Acm=(-RL)/(2*RF)= -0.001   
+ 
+ Ric  =
+ 
+    25000000.  
+ 
+ 
+ Ric=Beta_o*RF= 25000000 ohm   
+ 
+ CMRR  =
+ 
+    50000.  
+ 
+ 
+ CMRR=2*gm*RF= 50000   
+ 
+ 
+ part(ii)   
+ 
+ Vi1  =
+ 
+  - 0.0005  
+ 
+ 
+ Vi1= -0.0005 volts   
+ 
+ Vi2  =
+ 
+    0.0005  
+ 
+ 
+ Vi2= 0.0005 volts   
+ 
+ Vcm  =
+ 
+    0.01  
+ 
+ 
+ Vcm= 0.01 volts   
+ 
+ Vd  =
+ 
+  - 0.001  
+ 
+ 
+ Vd=Vi1-Vi2= -0.001 volts   
+ 
+ Vod  =
+ 
+    0.025  
+ 
+ 
+ Vod=abs(Vd*Adm2)= 0.025 volts   
+ 
+ Voc  =
+ 
+    0.00001  
+ 
+ 
+ Voc=abs(Vcm*Acm)= 0.00001 volts   
+ 
+ Error  =
+ 
+    0.04  
+ 
+ 
+ percentage error=(Voc/Vod)*100= 0.04%   
+ 
+ 
+ part(iii)   
+ 
+ RLeff  =
+ 
+    666.66667  
+ 
+ 
+ RLeff=(RL*Rid)/(RL+Rid)= 666.66667 ohm   
+ 
+ Adm  =
+ 
+    33.333333  
+ 
+ 
+ Adm=gm*RLeff= 33.333333   
+ 
+ Acm  =
+ 
+  - 0.0006667  
+ 
+ 
+ Acm=(-RLeff)/(2*RF)= -0.0006667   
+ 
+ CMRR  =
+ 
+    50000.  
+ 
+ 
+ CMRR=abs(Adm/(Acm))= 50000   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ VCC  =
+ 
+    10.  
+ 
+ 
+ VCC= 10 volts   
+ 
+ VEE  =
+ 
+    10.  
+ 
+ 
+ VEE=VCC= 10 volts   
+ 
+ IQ  =
+ 
+    0.002  
+ 
+ 
+ IQ = 0.002 ampere   
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ 
+ VBE= 0.7 volts   
+ 
+ 
+ part(i)   
+ 
+ RL  =
+ 
+    5000.  
+ 
+ 
+ RL=VCC/IQ= 5000 ohm   
+ 
+ Pomax  =
+ 
+    0.01  
+ 
+ 
+ Pomax=VCC^2/(2*RL)= 0.01 W   
+ 
+ PDC  =
+ 
+    0.04  
+ 
+ 
+ PDC=2*VCC*IQ= 0.04 W   
+ 
+ Etta_max  =
+ 
+    25.  
+ 
+ 
+ Efficiency,Etta_max=(Pomax/PDC)*100= 25%   
+ 
+ PDmax  =
+ 
+    0.02  
+ 
+ 
+ PDmax=VCC*IQ= 0.02 W   
+ 
+ 
+ part(ii)   
+ 
+ Vcm  =
+ 
+    5.  
+ 
+ 
+ Vcm= 5 volts   
+ 
+ Po  =
+ 
+    0.0025  
+ 
+ 
+ Po=Vcm^2/(2*RL)= 0.0025 W   
+ 
+ Etta  =
+ 
+    6.25  
+ 
+ 
+ Efficiency,Etta=(Po/PDC)*100= 6.25 %   
+ 
+ PDCavg  =
+ 
+    0.0175  
+ 
+ 
+ PDCavg=PDmax-Po= 0.0175 W   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ VCC  =
+ 
+    10.  
+ 
+ 
+ VCC= 10 volts   
+ 
+ VEE  =
+ 
+    10.  
+ 
+ 
+ VEE=VCC= 10 volts   
+ 
+ ICQ_0  =
+ 
+    0.01  
+ 
+ 
+ ICQ_0 = 0.01 ampere   
+ 
+ RL  =
+ 
+    5.  
+ 
+ 
+ RL= 5 ohm   
+ 
+ 
+ part(i)   
+ 
+ Po  =
+ 
+    0.  
+ 
+ 
+ Po=0 W   
+ 
+ PDC  =
+ 
+    0.2  
+ 
+ 
+ PDC=2*VCC*ICQ_0= 0.2 W   
+ 
+ 
+ part(ii)   
+ 
+ Vcm  =
+ 
+    10.  
+ 
+ 
+ Vcm=VCC =10 volts   
+ 
+ Icm  =
+ 
+    2.  
+ 
+ 
+ Icm = VCC/RL=2 ampere   
+ 
+ Po  =
+ 
+    10.  
+ 
+ 
+ Po=(1/2)*(Icm*Vcm)=10 W   
+ 
+ ICavg  =
+ 
+    0.6366198  
+ 
+ 
+ ICavg=(Icm)/(%pi)=0.6366198 ampere   
+ 
+ PDC  =
+ 
+    12.732395  
+ 
+ 
+ PDC=2*VCC*ICavg= 12.732395 W   
+ 
+ Etta  =
+ 
+    78.539816  
+ 
+ 
+ Efficiency,Etta=(Po/PDC)*100= 78.539816 %   
+ 
+ 
+ part(iii)   
+ 
+ Vcm1  =
+ 
+    5.  
+ 
+ 
+ Vcm1= 5 volts   
+ 
+ ICavg1  =
+ 
+    0.3183099  
+ 
+ 
+ ICavg1=(Vcm1)/(%pi*RL)=0.3183099 ampere   
+ 
+ Po1  =
+ 
+    2.5  
+ 
+ 
+ Po1=(Vcm1^2)/(2*RL)=2.5 W   
+ 
+ PDC1  =
+ 
+    6.3661977  
+ 
+ 
+ PDC1=2*VCC*ICavg1= 6.3661977 W   
+ 
+ Etta  =
+ 
+    39.269908  
+ 
+ 
+ Efficiency,Etta=(Po1/PDC1)*100= 39.269908 %   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ Av  =
+ 
+    100000.  
+ 
+ 
+ Av= 100000   
+ 
+ VCC  =
+ 
+    10.  
+ 
+ 
+ VCC= 10 volts   
+ 
+ vo  =
+ 
+    10.  
+ 
+ 
+ vo= VCC=10 volts   
+ 
+ Vdmax  =
+ 
+    0.0001  
+ 
+ 
+ Vdmax= VCC/Av=0.0001 volts   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ A  =
+ 
+    60000.  
+ 
+ 
+ A= 60000   
+ 
+ Af  =
+ 
+    10000.  
+ 
+ 
+ Af= 10000   
+ 
+ N_dB  =
+ 
+  - 15.563025  
+ 
+ 
+ N_dB=20*log10(Af/A)= -15.563025dB   
+ 
+ B  =
+ 
+    0.0000833  
+ 
+ 
+ B=[1/(Af)]-(1/A)= 0.0000833   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ A  =
+ 
+    10000.  
+ 
+ 
+ A= 10000   
+ 
+ B  =
+ 
+    0.01  
+ 
+ 
+ B= 0.01   
+ 
+ Af  =
+ 
+    99.009901  
+ 
+ 
+ Af= [A/(1+A*B)]=99.009901   
+ 
+ A1  =
+ 
+    100000.  
+ 
+ 
+ A1= 100000   
+ 
+ Af1  =
+ 
+    99.9001  
+ 
+ 
+ Af1= [A1/(1+A1*B)]=99.9001   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ Vo  =
+ 
+    50.  
+ 
+ 
+ Vo= 50 volts   
+ 
+ Vi  =
+ 
+    0.5  
+ 
+ 
+ Vi= 0.5 volts   
+ 
+ 
+ part(i)   
+ 
+ A  =
+ 
+    100.  
+ 
+ 
+ A= Vo/Vi=100   
+ 
+ H  =
+ 
+   D: 10
+ 
+ 
+ Harmonic_distortion=10%   
+ 
+ D  =
+ 
+    5.  
+ 
+ 
+ D= (10*Vo)/100 = 5 volts   
+ 
+ Df  =
+ 
+    0.5  
+ 
+ 
+ Df= (1*Vo)/100 = 0.5 volts   
+ 
+ B  =
+ 
+    0.09  
+ 
+ 
+ B=[D/(Df*A)]-(1/A) = 0.09   
+ 
+ 
+ part(ii)   
+ 
+ Af  =
+ 
+    10.  
+ 
+ 
+ Af= [A/(1+A*B)] = 10   
+ 
+ 
+ part(iii)   
+ 
+ Vif  =
+ 
+    5.  
+ 
+ 
+ Vif= Vo/Af = 5 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ GBW  =
+ 
+    1000000.  
+ 
+ 
+ GBW= 1000000 Hz   
+ 
+ AMf  =
+ 
+    100.  
+ 
+ 
+ AMf=100   
+ 
+ fHF  =
+ 
+    10000.  
+ 
+ 
+ fHF=GBW/AMf= 10000 Hz   
+ 
+ f_10percent  =
+ 
+    1000.  
+ 
+ 
+ f_10per cent=(10*fHF)/100= 1000 Hz   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ AM  =
+ 
+    50000.  
+ 
+ 
+ AM=50000   
+ 
+ fH  =
+ 
+    20000.  
+ 
+ 
+ fH= 20000 Hz   
+ 
+ fL  =
+ 
+    30.  
+ 
+ 
+ fL= 30 Hz   
+ 
+ B  =
+ 
+    0.00005  
+ 
+ 
+ B= 0.00005   
+ 
+ AMf  =
+ 
+    14285.714  
+ 
+ 
+ AMf=AM/(1+B*AM)=14285.714   
+ 
+ fHf  =
+ 
+    70000.  
+ 
+ 
+ fHf=fH*(1+B*AM)= 70000 Hz   
+ 
+ fLf  =
+ 
+    8.5714286  
+ 
+ 
+ fLf=fL/(1+B*AM)= 8.5714286 Hz   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ AM  =
+ 
+    100.  
+ 
+ 
+ AM=100dB   
+ 
+ fc1  =
+ 
+    10000.  
+ 
+ 
+ fc1= 10000 Hz   
+ 
+ fc2  =
+ 
+    100000.  
+ 
+ 
+ fc2= 100000 Hz   
+ 
+ fc3  =
+ 
+    1000000.  
+ 
+ 
+ fc3= 1000000 Hz   
+ 
+ 
+ part(i)   
+ 
+ Af1  =
+ 
+    85.  
+ 
+ 
+ Af1=85dB   
+ 
+ f  =
+ 
+    50000.  
+ 
+ 
+ f= 50000 Hz   
+ 
+ theta_A  =
+ 
+  - 108.11752  
+ 
+ 
+ theta_A=-108.11752 degree   
+ 
+ theta_pm  =
+ 
+    71.882476  
+ 
+ 
+ theta_pm=180-abs(theta_A)=71.882476 degree   
+ 
+ 
+ Amplifier stable   
+ 
+ 
+ part(ii)   
+ 
+ Af2  =
+ 
+    50.  
+ 
+ 
+ Af2=50 dB   
+ 
+ f  =
+ 
+    500000.  
+ 
+ 
+ f= 500000 Hz   
+ 
+ theta_A  =
+ 
+  - 194.10936  
+ 
+ 
+ theta_A= -194.10936 degree   
+ 
+ theta_pm  =
+ 
+  - 14.109356  
+ 
+ 
+ theta_pm=180-abs(theta_A)=-14.109356 degree   
+ 
+ 
+ Amplifier  unstable   
+ 
+ 
+ part(iii)   
+ 
+ Af3  =
+ 
+    20.  
+ 
+ 
+ Af3=20dB   
+ 
+ f  =
+ 
+    1100000.  
+ 
+ 
+ f= 1100000 Hz   
+ 
+ theta_A  =
+ 
+  - 222.01103  
+ 
+ 
+ theta_A=-222.01103 degree   
+ 
+ theta_pm  =
+ 
+  - 42.011026  
+ 
+ 
+ theta_pm=180-abs(theta_A)=-42.011026 degree   
+ 
+ 
+ Amplifier unstable   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ AV  =
+ 
+    50000.  
+ 
+ 
+ AV=50000   
+ 
+ Ri  =
+ 
+    50000000.  
+ 
+ 
+ Ri= 50000000 ohm   
+ 
+ R0  =
+ 
+    1000.  
+ 
+ 
+ R0= 1000 ohm   
+ 
+ AVf  =
+ 
+    10.  
+ 
+ 
+ AVf=10   
+ 
+ RSf  =
+ 
+    50000.  
+ 
+ 
+ RSf= 50000 ohm   
+ 
+ R1  =
+ 
+    50000.  
+ 
+ RF  =
+ 
+    500000.  
+ 
+ 
+ RF=AVf*(R1)= 500000 ohm   
+ 
+ VS  =
+ 
+    30.  
+ 
+ 
+ VS= 30 volts   
+ 
+ Vomax  =
+ 
+    15.  
+ 
+ 
+ Vomax=0.5*(VS)= -15, +15 volts   
+ 
+ Vsmax  =
+ 
+    1.5  
+ 
+ 
+ Vsmax=Vomax/AVf= -1.5, +1.5 volts   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    50000.  
+ 
+ 
+ R1= 50000 ohm   
+ 
+ RF  =
+ 
+    500000.  
+ 
+ 
+ RF= 500000 ohm   
+ 
+ VS  =
+ 
+    1.  
+ 
+ 
+ VS= 1 volts   
+ 
+ 
+ part(i)   
+ 
+ 
+ A = infinite   
+ 
+ Vo1  =
+ 
+  - 10.  
+ 
+ 
+ Vo1=-(RF/R1)= -10 volts   
+ 
+ 
+ part(ii)   
+ 
+ A  =
+ 
+    50000.  
+ 
+ 
+ A=50000   
+ 
+ B  =
+ 
+    0.0909091  
+ 
+ 
+ B=R1/(R1+RF)= 0.0909091   
+ 
+ Vo2  =
+ 
+  - 9.9978005  
+ 
+ 
+ Vo2=-[(RF)*(B*A)]/(R1*(1+A*B))= -9.9978005 volts   
+ 
+ e  =
+ 
+    0.0219952  
+ 
+ 
+ %Error,e= [(Vo2-Vo1)*100]/Vo1=0.0219952%    
+ 
+ 
+ part(iii)   
+ 
+ e  =
+ 
+    0.01  
+ 
+ 
+ %Error,e=0.01%    
+ 
+ Vo3  =
+ 
+    9.999  
+ 
+ 
+ Vo3=Vo1-(e*Vo1/100)= 9.999 volts   
+ 
+ x  =
+ 
+    0.9999  
+ 
+ A  =
+ 
+    109989.  
+ 
+ 
+ A=(Vo*R1)/[B*RF*(1-(Vo*RF/R1))]=109989   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ AV  =
+ 
+    100000.  
+ 
+ 
+ AV=100000   
+ 
+ Ri  =
+ 
+    10000.  
+ 
+ 
+ Ri= 10000 ohm   
+ 
+ Ro  =
+ 
+    10.  
+ 
+ 
+ Ro= 10 ohm   
+ 
+ Rs  =
+ 
+    10000000.  
+ 
+ 
+ Rs= 10000000 ohm   
+ 
+ RL  =
+ 
+    1000.  
+ 
+ 
+ RL= 1000 ohm   
+ 
+ B  =
+ 
+    0.00999  
+ 
+ 
+ B=(Rs-Ri)/(AV*Ri)= 0.00999   
+ 
+ AVf  =
+ 
+    100.  
+ 
+ 
+ AVf=AV/(1+B*AV)=100   
+ 
+ Rof  =
+ 
+    0.01  
+ 
+ 
+ Rof=Ro/(1+B*AV) =0.01 ohm   
+ 
+ Rif  =
+ 
+    10000000.  
+ 
+ 
+ Rif=Ri/(1+B*AV) =10000000 ohm   
+ 
+ Ap  =
+ 
+    1.000D+08  
+ 
+ 
+ Ap=(AVf^2)*(Rif/RL)=1.000D+08   
+ 
+ AP  =
+ 
+    80.  
+ 
+ 
+ AP=10*log10(Ap)=80dB   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ gm  =
+ 
+    0.01  
+ 
+ 
+ gm = 0.01 A/V   
+ 
+ Cgs  =
+ 
+    5.000D-12  
+ 
+ 
+ Cgs= 5.000D-12 farad   
+ 
+ Cds  =
+ 
+    1.000D-12  
+ 
+ 
+ Cds= 1.000D-12 farad   
+ 
+ rd  =
+ 
+    50000.  
+ 
+ 
+ rd= 50000 ohm   
+ 
+ RG  =
+ 
+    10000000.  
+ 
+ 
+ RG= 10000000 ohm   
+ 
+ Rse  =
+ 
+    1000.  
+ 
+ 
+ Rse= 1000 ohm   
+ 
+ L  =
+ 
+    0.5  
+ 
+ 
+ L= 0.5 H   
+ 
+ C2  =
+ 
+    5.000D-14  
+ 
+ 
+ C2= 5.000D-14 farad   
+ 
+ C1  =
+ 
+    1.000D-12  
+ 
+ 
+ C1= 1.000D-12 farad   
+ 
+ 
+ part(i)   
+ 
+ x  =
+ 
+    1.833D-12  
+ 
+ CT  =
+ 
+    4.867D-14  
+ 
+ 
+ CT= 4.867D-14 farad   
+ 
+ 
+ part(ii)   
+ 
+ fo  =
+ 
+    1442806.2  
+ 
+ 
+ fo= sqrt(2)/[2*%pi*sqrt(L*CT)]=1442806.2 Hz   
+ 
+ 
+ part(iii)   
+ 
+ z  =
+ 
+    0.0000002  
+ 
+ fp  =
+ 
+    1031441.9  
+ 
+ 
+ fp= 1031441.9 Hz   
+ 
+ p  =
+ 
+    0.0000002  
+ 
+ fs  =
+ 
+    1006584.2  
+ 
+ 
+ fs= 1006584.2 Hz   
+ 
+ Q  =
+ 
+    3162.2777  
+ 
+ 
+ Q=[sqrt(L/C2)]/(Rse)= 3162.2777   
+ 
+ 
+ part(iv)   
+ 
+ AB  =
+ 
+    100.  
+ 
+ 
+ AB=gm*rd*(Cds/Cgs)= 100   
+ 
+ T_bias  =
+ 
+    0.00006  
+ 
+ 
+ T_bias=RG*(Cgs+Cds)= 0.00006s   
+ 
+ T_r  =
+ 
+    0.0000001  
+ 
+ 
+ T_r =1/(2*%pi*fo)= 0.0000001s   
+ 
+ 
+ for proper operation T_bias >> T_r   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ Amin  =
+ 
+    8000.  
+ 
+ 
+ Amin=8000   
+ 
+ Amax  =
+ 
+    64000.  
+ 
+ 
+ Amax=64000   
+ 
+ 
+ part (i)   
+ 
+ delta_Af  =
+ 
+    0.01  
+ 
+ 
+ delta_Af=0.01   
+ 
+ delta_A  =
+ 
+    7.  
+ 
+ 
+ delta_A= (Amax-Amin)/Amin = 7   
+ 
+ Sg  =
+ 
+    0.0014286  
+ 
+ B  =
+ 
+    0.0109219  
+ 
+ 
+ Sg = delta_Af/delta_A = 0.0014286   
+ 
+ 
+  B = (1/Sg - 1)/Amax = 0.0109219   
+ 
+ 
+  part (ii)   
+ 
+ Af_min  =
+ 
+    90.523338  
+ 
+ Af_max  =
+ 
+    91.428571  
+ 
+ 
+ Af_min = Amin/(1+B*Amin) = 90.523338   
+ 
+ 
+ Af_max = Amax/(1+B*Amax) = 91.428571   
+ 
+ 
+ variation in Af = 1.01   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ Avf  =
+ 
+  - 100.  
+ 
+ 
+ Avf=-100   
+ 
+ Rif  =
+ 
+    1.  
+ 
+ 
+ Rif= 1 ohm   
+ 
+ R1  =
+ 
+    1.  
+ 
+ RF  =
+ 
+    100.  
+ 
+ 
+ RF= -R1*Avf=100 ohm   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ R11  =
+ 
+    1000.  
+ 
+ 
+ R11= 1000 ohm   
+ 
+ RF  =
+ 
+    100000.  
+ 
+ 
+ RF= 100000 ohm   
+ 
+ R12  =
+ 
+    10000.  
+ 
+ 
+ R12= 10000 ohm   
+ 
+ R13  =
+ 
+    100000.  
+ 
+ 
+ R13= 100000 ohm   
+ 
+ 
+ vo = -(100vs1 +10vs2 +1vs3)   
+ 
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ R11  =
+ 
+    300000.  
+ 
+ R12  =
+ 
+    300000.  
+ 
+ R13  =
+ 
+    300000.  
+ 
+ 
+ vo = -(0.3333333 vs1 +0.3333333 vs2 +0.3333333 vs3)   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ Ir  =
+ 
+    0.01  
+ 
+ 
+ Ir = 0.01 ampere/lumen of radiant energy    
+ 
+ RF  =
+ 
+    10000.  
+ 
+ 
+ RF= 10000 ohm   
+ 
+ E  =
+ 
+    0.01  
+ 
+ 
+ E = 0.01 lumens   
+ 
+ IR  =
+ 
+    0.0001  
+ 
+ 
+ IR =Ir*E= 0.0001 ampere   
+ 
+ Vo  =
+ 
+    1.  
+ 
+ 
+ Vo=IR*RF= 1 volts   
+ 
+ s  =
+ 
+    0.01  
+ 
+ 
+ scale factor=E/Vo= 0.01 lumens/V   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ Av  =
+ 
+    100000.  
+ 
+ 
+ Av= 100000   
+ 
+ RF  =
+ 
+    100000.  
+ 
+ 
+ RF= 100000 ohm   
+ 
+ RM  =
+ 
+    10000.  
+ 
+ 
+ RM= 10000 ohm   
+ 
+ is  =
+ 
+    0.00001  
+ 
+ 
+ is = 0.00001 ampere   
+ 
+ vo  =
+ 
+    1.  
+ 
+ 
+ vo=is*RF= 1 volts   
+ 
+ S  =
+ 
+    100000.  
+ 
+ 
+ S=vo/is= 100000 V/A   
+ 
+ Rif  =
+ 
+    0.99999  
+ 
+ 
+ Rif=RF/(1+Av)= 0.99999 ohm   
+ 
+ im  =
+ 
+    0.0001  
+ 
+ 
+ im = 0.0001 ampere   
+ 
+ RF  =
+ 
+    100000.  
+ 
+ 
+ RF=(im*RM)/is= 100000 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ Av  =
+ 
+    36.  
+ 
+ 
+ Av= 36 dB   
+ 
+ R1  =
+ 
+    1000.  
+ 
+ 
+ R1= 1000 ohm   
+ 
+ RF  =
+ 
+    62095.734  
+ 
+ 
+ RF=R1*[10^(Av/20)-1]= 62095.734 ohm   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ if  =
+ 
+    0.0001  
+ 
+ 
+ if = 0.0001 ampere   
+ 
+ Av  =
+ 
+    100000.  
+ 
+ 
+ Av= 100000   
+ 
+ vs  =
+ 
+    0.01  
+ 
+ 
+ vs= 0.01 volts   
+ 
+ RM  =
+ 
+    100.  
+ 
+ 
+ RM= 100 ohm   
+ 
+ Ri  =
+ 
+    10000.  
+ 
+ 
+ Ri= 10000 ohm   
+ 
+ R1  =
+ 
+    100.  
+ 
+ 
+ R1=vs/if= 100 ohm   
+ 
+ Avf  =
+ 
+    2.  
+ 
+ 
+ Avf=1+(RM/R1)=2   
+ 
+ Rif  =
+ 
+    5.000D+08  
+ 
+ 
+ Rif=Ri*(Av/Avf)=5.000D+08 ohm   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ Ro  =
+ 
+    0.001  
+ 
+ 
+ Ro= 0.001 ohm   
+ 
+ Sv  =
+ 
+    0.01  
+ 
+ 
+ Sv= 0.01%   
+ 
+ delta_VI  =
+ 
+    3.  
+ 
+ 
+ change in regulator voltage= 3 volts   
+ 
+ delta_IL  =
+ 
+    0.25  
+ 
+ 
+ change in regulator Current= 0.25 A   
+ 
+ delta_Vo  =
+ 
+    0.00055  
+ 
+ 
+ change in regulator output voltage= 0.00055 volts   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ alpha  =
+ 
+    1.414  
+ 
+ 
+ alpha=1.414   
+ 
+ AM  =
+ 
+    1.586  
+ 
+ 
+ AM=1.586   
+ 
+ fOH  =
+ 
+    1000.  
+ 
+ 
+ fOH= 1000 Hz   
+ 
+ R1  =
+ 
+    10000.  
+ 
+ 
+ R1= 10000 ohm   
+ 
+ RF  =
+ 
+    5860.  
+ 
+ 
+ RF=R1*(AM-1)=5860 ohm   
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ 
+ C=1.000D-07farad   
+ 
+ R  =
+ 
+    1591.5494  
+ 
+ 
+ R=1/(omega_OH*C)=1/(2*%pi*fOH*C)=1591.5494 ohm   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.10/Ex8_10.sce #
+ 
+ 
+ fo  =
+ 
+    150.  
+ 
+ 
+ fo= 150 Hz   
+ 
+ BW  =
+ 
+    15.  
+ 
+ 
+ BW= 15 Hz   
+ 
+ Q  =
+ 
+    10.  
+ 
+ 
+ Q= 10   
+ 
+ C  =
+ 
+    5.000D-08  
+ 
+ 
+ C=5.000D-08farad   
+ 
+ R  =
+ 
+    30010.544  
+ 
+ 
+ R=sqrt(2)/(2*%pi*fo*C)=30010.544 ohm   
+ 
+ Am  =
+ 
+    4.8585786  
+ 
+ 
+ Am=5-(sqrt(2)/Q)=4.8585786   
+ 
+ Abp  =
+ 
+    34.355339  
+ 
+ 
+ Abp=Am/(5-Am)=34.355339   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.11/Ex8_11.sce #
+ 
+ 
+ R  =
+ 
+    10000.  
+ 
+ 
+ R= 10000 ohm   
+ 
+ R1  =
+ 
+    10000.  
+ 
+ 
+ R1= 10000 ohm   
+ 
+ C  =
+ 
+    1.000D-08  
+ 
+ 
+ C=1.000D-08 farad   
+ 
+ R1_ratio_K  =
+ 
+    2500.  
+ 
+ 
+ R1_ratio_K= 2500 ohm   
+ 
+ R2  =
+ 
+    5000.  
+ 
+ 
+ R= 10000 ohm   
+ 
+ alpha_R2  =
+ 
+    250.  
+ 
+ 
+ alpha_R2= 250 ohm   
+ 
+ alpha  =
+ 
+    0.05  
+ 
+ 
+ alpha=alpha_R2/R2= 0.05   
+ 
+ Q  =
+ 
+    20.  
+ 
+ 
+ Q= 1/alpha=20   
+ 
+ omega_o  =
+ 
+    10000.  
+ 
+ 
+ omega_o=1/(R*C)= 10000 radian   
+ 
+ BW  =
+ 
+    500.  
+ 
+ 
+ Bandwidth=omega_o/Q= 500 radian   
+ 
+ K  =
+ 
+    4.  
+ 
+ 
+ K=R1/(R1_ratio_K)= 4   
+ 
+ Gm  =
+ 
+    80.  
+ 
+ 
+ center frequency gain for BPF, K/alpha=K*Q= 80   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.12/Ex8_12.sce #
+ 
+ 
+ IB  =
+ 
+    0.0000005  
+ 
+ 
+ IB = 0.0000005 ampere   
+ 
+ Iio  =
+ 
+    5.000D-08  
+ 
+ 
+ Iio = 5.000D-08 ampere   
+ 
+ Vio  =
+ 
+    0.001  
+ 
+ 
+ Vio= 0.001 volts   
+ 
+ R1  =
+ 
+    10000.  
+ 
+ 
+ R1= 10000 ohm   
+ 
+ RF  =
+ 
+    500000.  
+ 
+ 
+ RF= 500000 ohm   
+ 
+ Vos1  =
+ 
+    0.051  
+ 
+ 
+ Vos1=Vio*(1+RF/R1)=0.051 volts   
+ 
+ Vos2  =
+ 
+    0.25  
+ 
+ 
+ Vos2=IB*RF=0.25 volts   
+ 
+ Vos  =
+ 
+    0.301  
+ 
+ 
+ Vos=Vos1+Vos2=0.301 volts   
+ 
+ R2  =
+ 
+    9803.9216  
+ 
+ 
+ R2=(R1*RF)/(R1+RF)= 9803.9216 ohm   
+ 
+ Vos2  =
+ 
+    0.025  
+ 
+ 
+ Vos2=Iio*RF=0.025 volts   
+ 
+ Vos  =
+ 
+    0.076  
+ 
+ 
+ Vos=Vos1+Vos2=0.076 volts   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.13/Ex8_13.sce #
+ 
+ 
+ Iio  =
+ 
+    1.000D-10  
+ 
+ 
+ Iio = 1.000D-10 ampere/degree _celsius   
+ 
+ Vio  =
+ 
+    0.00001  
+ 
+ 
+ Vio= 0.00001 volt/degree _celsius   
+ 
+ Vs  =
+ 
+    0.01  
+ 
+ 
+ Vs= 0.01 volts   
+ 
+ R1  =
+ 
+    10000.  
+ 
+ 
+ R1= 10000 ohm   
+ 
+ RF  =
+ 
+    100000.  
+ 
+ 
+ RF= 100000 ohm   
+ 
+ 
+ part(i)   
+ 
+ R2  =
+ 
+    9090.9091  
+ 
+ 
+ R2=(R1*RF)/(R1+RF)= 9090.9091 ohm   
+ 
+ 
+ part(ii)   
+ 
+ delta_T  =
+ 
+    50.  
+ 
+ 
+ delta_T=75-25 = 50 degree_celsius   
+ 
+ delta_Vo  =
+ 
+    0.006  
+ 
+ 
+ delta_Vo=[(Vio*delta_T)*(1+RF/R1)]+(Iio*delta_T*RF)= 0.006 volts   
+ 
+ 
+ part(iii)   
+ 
+ Vo  =
+ 
+  - 0.1  
+ 
+ 
+ Vo=(-RF/R1)*Vs= -0.1 volts   
+ 
+ e  =
+ 
+  - 6.  
+ 
+ 
+ Percentage error=(delta_Vo/Vo)*100 =(-)6, (+)6  percent   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.14/Ex8_14.sce #
+ 
+ 
+ Iio  =
+ 
+    1.000D-10  
+ 
+ 
+ Iio = 1.000D-10 ampere   
+ 
+ VCC  =
+ 
+    15.  
+ 
+ 
+ VCC= 15 volts   
+ 
+ PSRR  =
+ 
+    0.00015  
+ 
+ 
+ PSRR= 0.00015  volts/V   
+ 
+ Vio  =
+ 
+    0.00001  
+ 
+ 
+ Vio= 0.00001 volts   
+ 
+ R1  =
+ 
+    10000.  
+ 
+ 
+ R1= 10000 ohm   
+ 
+ RF  =
+ 
+    100000.  
+ 
+ 
+ RF= 100000 ohm   
+ 
+ delta_T  =
+ 
+    50.  
+ 
+ 
+ delta_T=75-25 = 50 celsius   
+ 
+ delta_Vo  =
+ 
+    0.006  
+ 
+ 
+ delta_Vo=[(Vio*delta_T)*(1+RF/R1)]+(Iio*delta_T*RF)= 0.006 volts   
+ 
+ delta_Vio1  =
+ 
+    0.0006  
+ 
+ 
+ delta_Vio1=(delta_Vo)*(R1/RF)= 0.0006 volts   
+ 
+ delta_Vio2  =
+ 
+    0.00006  
+ 
+ 
+ delta_Vio2=(delta_Vio1)*(1/10)= 0.00006 volts   
+ 
+ p  =
+ 
+    2.6666667  
+ 
+ 
+ power supply regulation=[(delta_Vio2)/(VCC*PSRR)]*100 =2.6666667 percent   
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH8/EX8.15/Ex8_15.sce #
+ 
+ 
+ SR  =
+ 
+    0.65  
+ 
+ 
+ SR= 0.65  volts/microsecond   
+ 
+ 
+ part(i)   
+ 
+ Vm  =
+ 
+    5.  
+ 
+ 
+ Vm= 5 volts   
+ 
+ fsm  =
+ 
+    20690.143  
+ 
+ 
+ fsm=SR/[10^(-6)*(2*%pi*Vm)] = 20690.143 Hz   
+ 
+ 
+ part(ii)   
+ 
+ Vm  =
+ 
+    1.  
+ 
+ 
+ Vm= 1 volts   
+ 
+ fsm  =
+ 
+    103450.71  
+ 
+ 
+ fsm=SR/[10^(-6)*(2*%pi*Vm)] = 103450.71 Hz   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ VCC  =
+ 
+    5.  
+ 
+ 
+ VCC= 5 volts   
+ 
+ RB  =
+ 
+    10000.  
+ 
+ 
+ RB= 10000 ohm   
+ 
+ RL  =
+ 
+    1000.  
+ 
+ 
+ RL= 1000 ohm   
+ 
+ VCS  =
+ 
+    0.2  
+ 
+ 
+ VCS= 0.2 volts   
+ 
+ VBS  =
+ 
+    0.8  
+ 
+ 
+ VBS= 0.8 volts   
+ 
+ V_gamma  =
+ 
+    0.6  
+ 
+ 
+ V_gamma= 0.6 volts   
+ 
+ ICS  =
+ 
+    0.0048  
+ 
+ 
+ ICS = (VCC-VCS)/RL=0.0048 ampere   
+ 
+ vi  =
+ 
+    5.  
+ 
+ 
+ vi= 5 volts   
+ 
+ IBS  =
+ 
+    0.00042  
+ 
+ 
+ IBS=(vi-VBS)/RB=0.00042 ampere   
+ 
+ Beta_Fmin  =
+ 
+    11.428571  
+ 
+ 
+ Beta_Fmin=ICS/IBS= 11.428571   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ VD  =
+ 
+    0.7  
+ 
+ 
+ VD= 0.7 V   
+ 
+ 
+ 
+ part(i)   
+ 
+ vA  =
+ 
+    0.  
+ 
+ 
+ vA= 0 V   
+ 
+ vB  =
+ 
+    0.  
+ 
+ 
+ vB= 0 V   
+ 
+ vX  =
+ 
+    0.  
+ 
+ 
+ vX=0 V   
+ 
+ 
+ 
+ part(ii)   
+ 
+ vA  =
+ 
+    0.  
+ 
+ 
+ vA= 0 V   
+ 
+ vB  =
+ 
+    5.  
+ 
+ 
+ vB= 5 V   
+ 
+ vX  =
+ 
+    4.3  
+ 
+ 
+ vX=vB-VD= 4.3 V   
+ 
+ 
+ 
+ part(iii)   
+ 
+ vA  =
+ 
+    5.  
+ 
+ 
+ vA= 5 V   
+ 
+ vB  =
+ 
+    0.  
+ 
+ 
+ vB= 0 V   
+ 
+ vX  =
+ 
+    4.3  
+ 
+ 
+ vX=vA-VD= 4.3 V   
+ 
+ 
+ 
+ part(iv)   
+ 
+ vA  =
+ 
+    5.  
+ 
+ 
+ vA= 5 V   
+ 
+ vB  =
+ 
+    5.  
+ 
+ 
+ vB= 5 V   
+ 
+ vX  =
+ 
+    4.3  
+ 
+ vX  =
+ 
+    4.3  
+ 
+ 
+ vX=vA-VD=vB-VD= 4.3 V   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+ VD  =
+ 
+    0.7  
+ 
+ 
+ VD= 0.7 V   
+ 
+ 
+ 
+ part(i)   
+ 
+ vA  =
+ 
+    0.  
+ 
+ 
+ vA= 0 V   
+ 
+ vB  =
+ 
+    0.  
+ 
+ 
+ vB= 0 V   
+ 
+ 
+ vX  =
+ 
+    0.7  
+ 
+ 
+ vX=VD=0.7 V   
+ 
+ 
+ 
+ part(ii)   
+ 
+ vA  =
+ 
+    0.  
+ 
+ 
+ vA= 0 V   
+ 
+ vB  =
+ 
+    5.  
+ 
+ 
+ vB= 5 V   
+ 
+ vX  =
+ 
+    0.7  
+ 
+ 
+ vX=VD 0.7 V   
+ 
+ 
+ 
+ 
+ 
+ 
+ part(iii)   
+ 
+ vA  =
+ 
+    5.  
+ 
+ 
+ vA= 5 V   
+ 
+ vB  =
+ 
+    0.  
+ 
+ 
+ vB= 0 V   
+ 
+ vX  =
+ 
+    0.7  
+ 
+ 
+ vX= 0.7 V   
+ 
+ 
+ 
+ part(iv)   
+ 
+ vA  =
+ 
+    5.  
+ 
+ 
+ vA= 5 V   
+ 
+ vB  =
+ 
+    5.  
+ 
+ 
+ vB= 5 V   
+ 
+ vX  =
+ 
+    5.  
+ 
+ 
+ vX = vA = vB= 5 V   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ VIL  =
+ 
+    0.6  
+ 
+ 
+ VIL= 0.6 V   
+ 
+ VIH  =
+ 
+    0.75  
+ 
+ 
+ VIH= 0.75 V   
+ 
+ VOL  =
+ 
+    0.2  
+ 
+ 
+ VOL= 0.2 V   
+ 
+ VOH  =
+ 
+    1.  
+ 
+ 
+ VOH= 1 V   
+ 
+ NML  =
+ 
+    0.4  
+ 
+ 
+ NML=VIL-VOL= 0.4 V   
+ 
+ NMH  =
+ 
+    0.25  
+ 
+ 
+ NMH=VOH-VIH= 0.25 V   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.7/Ex9_7.sce #
+ 
+ 
+ IIL  =
+ 
+  - 0.0016  
+ 
+ 
+ IIL= -0.0016 A   
+ 
+ IIH  =
+ 
+    0.00004  
+ 
+ 
+ IIH= 0.00004 A   
+ 
+ IOL  =
+ 
+    0.016  
+ 
+ 
+ IOL= 0.016 A   
+ 
+ IOH  =
+ 
+  - 0.0004  
+ 
+ 
+ IOH= -0.0004 A   
+ 
+ Fan_out  =
+ 
+    10.  
+ 
+ 
+ Fan-out=abs((IOH/IIH)=abs((IOL/IIL))= 10   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.8/Ex9_8.sce #
+ 
+ 
+ VIL  =
+ 
+    0.8  
+ 
+ 
+ VIL= 0.8 V   
+ 
+ VIH  =
+ 
+    2.  
+ 
+ 
+ VIH= 2 V   
+ 
+ VOL  =
+ 
+    0.4  
+ 
+ 
+ VOL= 0.4 V   
+ 
+ VOH  =
+ 
+    2.4  
+ 
+ 
+ VOH= 2.4 V   
+ 
+ NML  =
+ 
+    0.4  
+ 
+ 
+ NML=VIL-VOL= 0.4 V   
+ 
+ NMH  =
+ 
+    0.4  
+ 
+ 
+ NMH=VOH-VIH= 0.4 V   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.9/Ex9_9.sce #
+ 
+ 
+ VIL  =
+ 
+    1.  
+ 
+ 
+ VIL= 1 V   
+ 
+ VIH  =
+ 
+    4.  
+ 
+ 
+ VIH= 4 V   
+ 
+ VOL  =
+ 
+    0.5  
+ 
+ 
+ VOL= 0.5 V   
+ 
+ VOH  =
+ 
+    4.5  
+ 
+ 
+ VOH= 4.5 V   
+ 
+ NML  =
+ 
+    0.5  
+ 
+ 
+ NML=VIL-VOL= 0.5 V   
+ 
+ NMH  =
+ 
+    0.5  
+ 
+ 
+ NMH=VOH-VIH= 0.5 V   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.10/Ex9_10.sce #
+ 
+ 
+ V_gamma  =
+ 
+    0.6  
+ 
+ 
+ V_gamma= 0.6 volts   
+ 
+ VEE  =
+ 
+  - 5.2  
+ 
+ 
+ VEE= -5.2 volts   
+ 
+ VBE3  =
+ 
+    0.7  
+ 
+ VBE4  =
+ 
+    0.7  
+ 
+ VBE5  =
+ 
+    0.7  
+ 
+ 
+ VBE3=VBE4=VBE5 0.7 volts   
+ 
+ RE  =
+ 
+    779.  
+ 
+ 
+ RE= 779 ohm   
+ 
+ RL2  =
+ 
+    220.  
+ 
+ 
+ RL2= 220 ohm   
+ 
+ RL3  =
+ 
+    245.  
+ 
+ 
+ RL3= 245 ohm   
+ 
+ VREF  =
+ 
+  - 1.29  
+ 
+ 
+ VREF= -1.29 volts   
+ 
+ V_1  =
+ 
+  - 0.7  
+ 
+ 
+ V(1)= -0.7 volts   
+ 
+ V_0  =
+ 
+  - 1.7  
+ 
+ 
+ V(0)= -1.7 volts   
+ 
+ 
+ 
+ part(i)   
+ 
+ VE  =
+ 
+  - 1.99  
+ 
+ 
+ VE=VREF-VBE3= -1.99 volts   
+ 
+ IE  =
+ 
+  - 0.0041207  
+ 
+ 
+ IE=(VEE-VE)/RE= -0.0041207 A   
+ 
+ IC3  =
+ 
+  - 0.0041207  
+ 
+ 
+ IC3=IE= -0.0041207 A   
+ 
+ vC3  =
+ 
+  - 1.0095635  
+ 
+ 
+ vC3=IC3*RL3= -1.0095635 volts   
+ 
+ vY  =
+ 
+  - 1.7095635  
+ 
+ 
+ vY=vC3-VBE5= -1.7095635 volts   
+ 
+ vC2  =
+ 
+    0.  
+ 
+ vX  =
+ 
+  - 0.7  
+ 
+ 
+ vX=vC2-VBE4= -0.7 volts   
+ 
+ VBEr  =
+ 
+    0.29  
+ 
+ 
+ Base -Emitter reverse voltage,VBEr=V(0)-VE= 0.29 volts   
+ 
+ 
+ Transistor T1 and T2 off since VBEr < V_gamma   
+ 
+ 
+ 
+ part(ii)   
+ 
+ IC2  =
+ 
+  - 0.0041207  
+ 
+ VBE  =
+ 
+    0.7  
+ 
+ vB  =
+ 
+  - 0.7  
+ 
+ IC3  =
+ 
+    0.  
+ 
+ VC3  =
+ 
+    0.  
+ 
+ vY  =
+ 
+  - 0.7  
+ 
+ 
+ vY=VC3-VBE= -0.7 volts   
+ 
+ VE  =
+ 
+  - 1.4  
+ 
+ 
+ VE=vB-VBE= -1.4 volts   
+ 
+ VBE3  =
+ 
+    0.11  
+ 
+ 
+ VBE3=VREF-VE= 0.11 volts   
+ 
+ 
+ VBE3 is smaller than V_gamma,hence T3 is off   
+ 
+ IC2  =
+ 
+  - 0.0048780  
+ 
+ 
+ IC2=(VEE-VE)/RE= -0.0048780 A   
+ 
+ vC2  =
+ 
+  - 1.0731707  
+ 
+ 
+ vC2=IC2*RL2= -1.0731707 volts   
+ 
+ vX  =
+ 
+  - 1.7731707  
+ 
+ 
+ vX=vC2-VBE4= -1.7731707 volts   
+ 
+ 
+ 
+ part(iii)   
+ 
+ VE3  =
+ 
+  - 1.99  
+ 
+ 
+ VE3=VE= -1.99 volts   
+ 
+ VB3  =
+ 
+  - 1.29  
+ 
+ 
+ VB3=VREF= -1.29 volts   
+ 
+ IC3  =
+ 
+  - 0.0041207  
+ 
+ 
+ IC3=(VEE-VE3)/RE= -0.0041207 A   
+ 
+ VC3  =
+ 
+  - 1.0095635  
+ 
+ 
+ VC3=IC3*RL3= -1.0095635 volts   
+ 
+ VCB3  =
+ 
+    0.2804365  
+ 
+ 
+ VCB3=VC3-VB3= 0.2804365 volts   
+ 
+ 
+ 
+ All parameters have appropriate signs for npn BJT hence BJT in active region    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH9/EX9.11/Ex9_11.sce #
+ 
+ 
+ VIL  =
+ 
+  - 1.475  
+ 
+ 
+ VIL= -1.475 V   
+ 
+ VIH  =
+ 
+  - 1.105  
+ 
+ 
+ VIH= -1.105 V   
+ 
+ VOL  =
+ 
+  - 1.63  
+ 
+ 
+ VOL= -1.63 V   
+ 
+ VOH  =
+ 
+  - 0.98  
+ 
+ 
+ VOH= -0.98 V   
+ 
+ NML  =
+ 
+    0.155  
+ 
+ 
+ NML=VIL-VOL= 0.155 V   
+ 
+ NMH  =
+ 
+    0.125  
+ 
+ 
+ NMH=VOH-VIH= 0.125 V   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ 
+ Decimal number=72   
+ 
+ str  =
+ 
+ 1001000   
+ 
+ 
+ Eqivalent Binary number=1001000   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ 
+ Binary number=1001000   
+ 
+ str  =
+ 
+    72.  
+ 
+ 
+ Eqivalent Decimal number=72   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ 
+ Binary number=1001000   
+ 
+ d  =
+ 
+    72.  
+ 
+ o  =
+ 
+ 110   
+ 
+ 
+ Eqivalent Octal number=110   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ 
+ 
+ Decimal number=72   
+ 
+ str  =
+ 
+ 110   
+ 
+ 
+ Eqivalent Octal number=110   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ 
+ 
+ Octal number=110   
+ 
+ y  =
+ 
+    72.  
+ 
+ str  =
+ 
+ 1001000   
+ 
+ 
+ Eqivalent Binary number=1001000   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.6/Ex10_6.sce #
+ 
+ 
+ 
+ 
+ Octal number=110   
+ 
+ str  =
+ 
+    72.  
+ 
+ 
+ Eqivalent Decimal number=72   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.7/Ex10_7.sce #
+ 
+ 
+ 
+ 
+ Decimal number=72   
+ 
+ str  =
+ 
+ 48   
+ 
+ 
+ Eqivalent Hexadecimal number=48   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.8/Ex10_8.sce #
+ 
+ 
+ 
+ 
+ Hexadecimal number=48   
+ 
+ d  =
+ 
+    72.  
+ 
+ 
+ Eqivalent Decimal number=72   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.9/Ex10_9.sce #
+ 
+ 
+ 
+ 
+ Hexadecimal number=48   
+ 
+ d  =
+ 
+    72.  
+ 
+ str  =
+ 
+ 1001000   
+ 
+ 
+ Eqivalent Binary number=1001000   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.10/Ex10_10.sce #
+ 
+ 
+ 
+ 
+ Binary number=1001000   
+ 
+ d  =
+ 
+    72.  
+ 
+ h  =
+ 
+ 48   
+ 
+ 
+ Eqivalent hexadecimal number=48   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH10/EX10.11/Ex10_11.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ f  =
+ 
+    10.  
+ 
+ z  =
+ 
+    7.  
+ 
+ y  =
+ 
+    2.  
+ 
+ 
+ Decimal number=72   
+ 
+ str1  =
+ 
+ 0111   
+ 
+ str2  =
+ 
+ 0010   
+ 
+ 
+  Binary number of 7 =0111   
+ 
+ 
+  Binary number of 2 =0010   
+ 
+ 
+ Eqivalent BCD of 72=01110010   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ tsu  =
+ 
+    2.000D-08  
+ 
+ 
+ tsu= 2.000D-08 seconds   
+ 
+ tpd  =
+ 
+    3.000D-08  
+ 
+ 
+ tpd= 3.000D-08 seconds   
+ 
+ Tmin  =
+ 
+    5.000D-08  
+ 
+ 
+ Tmin=tpd+tsu= 5.000D-08 seconds   
+ 
+ fCkmax  =
+ 
+    20000000.  
+ 
+ 
+ fCkmax=1/Tmin = 20000000 Hz   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ tphL  =
+ 
+    4.000D-08  
+ 
+ 
+ tphL= 4.000D-08 seconds   
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+ n= 3   
+ 
+ fmax  =
+ 
+    8333333.3  
+ 
+ 
+ fmax=1/(n*tphL) = 8333333.3 Hz   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ fs  =
+ 
+    2000.  
+ 
+ 
+ fs= 2000 Hz   
+ 
+ fB  =
+ 
+    1000000.  
+ 
+ 
+ fB= 1000000 Hz   
+ 
+ 
+ 
+ part(i)   
+ 
+ fb  =
+ 
+    10.  
+ 
+ 
+ fb= fB/(10^5)=10 Hz   
+ 
+ delta_t  =
+ 
+    0.1  
+ 
+ 
+ delta_t=1/fb= 0.1 seconds   
+ 
+ DISP1  =
+ 
+    200.  
+ 
+ 
+ fs*delta_t= 200   
+ 
+ 
+ Display indication=0200   
+ 
+ 
+ 
+ part(ii)   
+ 
+ fb  =
+ 
+    1000.  
+ 
+ 
+ fb=fB/(10^3)= 1000 Hz   
+ 
+ delta_t  =
+ 
+    0.001  
+ 
+ 
+ delta_t=1/fb= 0.001 seconds   
+ 
+ DISP2  =
+ 
+    2.  
+ 
+ 
+ fs*delta_t= 2   
+ 
+ 
+ Display indication=0002   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ VEE  =
+ 
+    15.  
+ 
+ 
+ VEE= 15 volts   
+ 
+ VCC  =
+ 
+    15.  
+ 
+ 
+ VCC= 15 volts   
+ 
+ VHI  =
+ 
+    5.  
+ 
+ 
+ VHI= 5 volts   
+ 
+ VLO  =
+ 
+  - 5.  
+ 
+ 
+ VLO= -5 volts   
+ 
+ Vo  =
+ 
+    5.  
+ 
+ IZmin  =
+ 
+    0.001  
+ 
+ 
+ IZmin= 0.001 A   
+ 
+ SR  =
+ 
+    500000.  
+ 
+ 
+ SR= 500000 volts/seconds   
+ 
+ RB  =
+ 
+    100.  
+ 
+ 
+ RB= 100 ohm   
+ 
+ RA  =
+ 
+    10000.  
+ 
+ 
+ RA= 10000 ohm   
+ 
+ A  =
+ 
+    5000.  
+ 
+ 
+ A = 5000   
+ 
+ VREF  =
+ 
+    1.  
+ 
+ 
+ VREF= 1 volts   
+ 
+ 
+ part(i)   
+ 
+ RD  =
+ 
+    10000.  
+ 
+ 
+ RD=(VCC-Vo)/IZmin= 10000 ohm   
+ 
+ 
+ 
+ part(ii)   
+ 
+ t  =
+ 
+    0.00002  
+ 
+ 
+ t=(VHI-VLO)/SR= 0.00002 seconds   
+ 
+ tp  =
+ 
+    0.0002  
+ 
+ 
+ tp=(VHI-VLO)/SR= 0.0002 seconds   
+ 
+ fmax  =
+ 
+    2500.  
+ 
+ 
+ fmax=1/(2*tp) = 2500 Hz   
+ 
+ 
+ part(iii)   
+ 
+ B  =
+ 
+    0.0099010  
+ 
+ 
+ B=RB/(RA+RB)= 0.0099010   
+ 
+ VLTP  =
+ 
+    0.9405941  
+ 
+ 
+ VLTP=(VLO*B)+[VREF*(RA/(RA+RB))]= 0.9405941 volts   
+ 
+ VUTP  =
+ 
+    1.039604  
+ 
+ 
+ VUTP=(VHI*B)+[VREF*(RA/(RA+RB))]= 1.039604 volts   
+ 
+ VH  =
+ 
+    0.0990099  
+ 
+ 
+ VH=VUTP-VLTP= 0.0990099 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ Vo  =
+ 
+    14.  
+ 
+ 
+ Vo= 14 volts   
+ 
+ f  =
+ 
+    500.  
+ 
+ 
+ f = 500 Hz   
+ 
+ IB2  =
+ 
+    0.0000005  
+ 
+ 
+ IB2= 0.0000005 A   
+ 
+ B  =
+ 
+    0.5  
+ 
+ 
+ B=0.5   
+ 
+ vf  =
+ 
+    7.  
+ 
+ 
+ vf=B*Vo= +7, -7 volts   
+ 
+ IR  =
+ 
+    0.00005  
+ 
+ 
+ IR=100*IB2= 0.00005 A   
+ 
+ RB  =
+ 
+    140000.  
+ 
+ 
+ RB=vf/IR= 140000 ohm   
+ 
+ RA  =
+ 
+    140000.  
+ 
+ 
+ RA=RB*((1/B)-1)= 140000 ohm   
+ 
+ RF  =
+ 
+    100000.  
+ 
+ 
+ RF= 100000 ohm   
+ 
+ C1  =
+ 
+    9.102D-09  
+ 
+ 
+ C1=1/[2*RF*f*log(1+(2*RB/RA))]= 9.102D-09 farad   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ Vo  =
+ 
+    14.  
+ 
+ 
+ Vo= 14 volts   
+ 
+ f  =
+ 
+    500.  
+ 
+ 
+ f = 500 Hz   
+ 
+ R2  =
+ 
+    10000.  
+ 
+ 
+ R2= 10000 ohm   
+ 
+ VTW  =
+ 
+    14.  
+ 
+ 
+ VTW= 14 volts   
+ 
+ T  =
+ 
+    0.002  
+ 
+ C2  =
+ 
+    1.000D-07  
+ 
+ 
+ C2=(Vo*T)/(2*VTW*R2)= 1.000D-07 farad   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH12/EX12.4/Ex12_4.sce #
+ 
+ 
+ VI  =
+ 
+  - 15.  
+ 
+ 
+ VI= -15 volts   
+ 
+ TSW  =
+ 
+    0.002  
+ 
+ 
+ TSW= 0.002 seconds   
+ 
+ R  =
+ 
+    10000.  
+ 
+ 
+ R= 10000 ohm   
+ 
+ C  =
+ 
+    0.0000005  
+ 
+ 
+ C= 0.0000005 farad   
+ 
+ S  =
+ 
+    3000.  
+ 
+ 
+ Sweep rate=VI/(R*C)=3000 V/s   
+ 
+ VSW  =
+ 
+    6.  
+ 
+ 
+ VSW=TSW*S= 6 volts   
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ VEE  =
+ 
+    15.  
+ 
+ 
+ VEE= 15 volts   
+ 
+ VCC  =
+ 
+    15.  
+ 
+ 
+ VCC= 15 volts   
+ 
+ R1  =
+ 
+    10000.  
+ 
+ 
+ R1= 10000 ohm   
+ 
+ RF  =
+ 
+    20000.  
+ 
+ 
+ RF= 20000 ohm   
+ 
+ RB1  =
+ 
+    3000.  
+ 
+ 
+ R1= 10000 ohm   
+ 
+ RB2  =
+ 
+    3000.  
+ 
+ RF1  =
+ 
+    1000.  
+ 
+ 
+ RF1= 1000 ohm   
+ 
+ RF2  =
+ 
+    1000.  
+ 
+ Av  =
+ 
+    1000.  
+ 
+ 
+ Av= 1000   
+ 
+ 
+ part(i)   
+ 
+ VBR1  =
+ 
+    5.  
+ 
+ VBR2  =
+ 
+    5.  
+ 
+ 
+ VBR1=VBR2=(VCC*RF1)/RB1= 5 volts   
+ 
+ So  =
+ 
+  - 2.  
+ 
+ 
+ So=-RF/R1= -2   
+ 
+ S1  =
+ 
+  - 0.1  
+ 
+ 
+ S1=S2=-RF1/R1= -0.1   
+ 
+ VSL  =
+ 
+    2.5  
+ 
+ 
+ VSL=VSU=(-VBR1/So)= 2.5 volts   
+ 
+ VSU  =
+ 
+    2.5  
+ 
+ 
+ part(ii)   
+ 
+ VSU  =
+ 
+    0.005  
+ 
+ 
+ VSU=VSL=(VBR2/Av)= -0.005, +0.005 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ VT  =
+ 
+    0.026  
+ 
+ 
+ VT= 0.026 volts   
+ 
+ R1  =
+ 
+    5000.  
+ 
+ 
+ R1= 5000 ohm   
+ 
+ Iso  =
+ 
+    1.000D-10  
+ 
+ 
+  Iso = 1.000D-10 ampere   
+ 
+ 
+ 
+ part(i)   
+ 
+ vs  =
+ 
+    0.001  
+ 
+ 
+ vs= 0.001 volts   
+ 
+ vo  =
+ 
+  - 0.1976235  
+ 
+ 
+ vo=-VT*[log(vs/(Iso*R1))]= -0.1976235 volts   
+ 
+ 
+ 
+ part(ii)   
+ 
+ vs  =
+ 
+    0.01  
+ 
+ 
+ vs= 0.01 volts   
+ 
+ vo  =
+ 
+  - 0.2574907  
+ 
+ 
+ vo=-VT*[log(vs/(Iso*R1))]= -0.2574907 volts   
+ 
+ 
+ 
+ part(iii)   
+ 
+ vs  =
+ 
+    0.1  
+ 
+ 
+ vs= 0.1 volts   
+ 
+ vo  =
+ 
+  - 0.3173579  
+ 
+ 
+ vo=-VT*[log(vs/(Iso*R1))]= -0.3173579 volts   
+ 
+ 
+ 
+ part(iv)   
+ 
+ vs  =
+ 
+    1.  
+ 
+ 
+ vs= 1 volts   
+ 
+ vo  =
+ 
+  - 0.3772251  
+ 
+ 
+ vo=-VT*[log(vs/(Iso*R1))]= -0.3772251 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ VT  =
+ 
+    0.026  
+ 
+ 
+ VT= 0.026 volts   
+ 
+ R1  =
+ 
+    100000.  
+ 
+ 
+ R1= 100000 ohm   
+ 
+ Iso  =
+ 
+    5.000D-08  
+ 
+ 
+  Iso = 5.000D-08 ampere   
+ 
+ vs  =
+ 
+    2.5  
+ 
+ 
+ vs= 2.5 volts   
+ 
+ vo  =
+ 
+  - 0.1615798  
+ 
+ 
+ vo=-VT*[log(vs/(Iso*R1))]= -0.1615798 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH13/EX13.3/Ex13_3.sce #
+ 
+ 
+ VT  =
+ 
+    0.026  
+ 
+ 
+ VT= 0.026 volts   
+ 
+ RF  =
+ 
+    100000.  
+ 
+ 
+ RF= 100000 ohm   
+ 
+ Iso  =
+ 
+    5.000D-08  
+ 
+ 
+  Iso = 5.000D-08 ampere   
+ 
+ vs  =
+ 
+  - 0.162  
+ 
+ 
+ vs= -0.162 volts   
+ 
+ vo  =
+ 
+    2.5407311  
+ 
+ 
+ vo=Iso*RF*(exp(-vs/VT))= 2.5407311 volts   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+ n= 3   
+ 
+ L  =
+ 
+    8.  
+ 
+ 
+ L=2^(n)= 8   
+ 
+ VFS  =
+ 
+    10.  
+ 
+ 
+ VFS= 10 volts   
+ 
+ Q  =
+ 
+   E: 1.25
+ 
+ 
+ Q.E=VFS/L= 1.25   
+ 
+ 
+ Q.E= +0.625,-0.625   
+ 
+ Resolution  =
+ 
+    12.5  
+ 
+ 
+ Resolution=(100/2^(n))= 12.5 percent   
+ 
+ 
+ Resolution= 12.5 percent,-12.5 percent   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+ n= 3   
+ 
+ L  =
+ 
+    8.  
+ 
+ 
+ L=2^(n)= 8   
+ 
+ VFS  =
+ 
+    1.024  
+ 
+ 
+ VFS= 1.024 volts   
+ 
+ 
+ 
+ part(i)   
+ 
+ LSB  =
+ 
+    0.128  
+ 
+ 
+ LSB=VFS/(2^n)= 0.128 volts   
+ 
+ 
+ 
+ part(ii)   
+ 
+ 
+ vh= 64 to 192 mV with offset   
+ 
+ 
+ 
+ part(iii)   
+ 
+ I  =
+ 
+   E: 0.064
+ 
+ 
+ Inherent error,I.E= (LSB)/2= -0.064 V,+0.064 V   
+ 
+ 
+ 
+ part(iv)   
+ 
+ Resolution  =
+ 
+    0.001  
+ 
+ 
+ Resolution= 0.001 V   
+ 
+ VFS  =
+ 
+    1.  
+ 
+ 
+ VFS= 1 V   
+ 
+ k  =
+ 
+    1000.  
+ 
+ 
+ k=VFS/(Resolution)= 1000   
+ 
+ 
+ number of bits=10   
+ 
+ 
+ so 10-bit ADC required   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ VREF  =
+ 
+  - 10.  
+ 
+ 
+ VREF= -10 V   
+ 
+ RF  =
+ 
+    5000.  
+ 
+ 
+ RF= 5000 ohm   
+ 
+ R  =
+ 
+    10000.  
+ 
+ 
+ R= 10000 ohm   
+ 
+ vLSB  =
+ 
+    0.625  
+ 
+ 
+ vLSB=(-RF*VREF)/(8*R)=0.625 V   
+ 
+ vo  =
+ 
+  - 1.25  
+ 
+ 
+ vo = -2*vLSB =-1.25 V   
+ 
+ vo  =
+ 
+  - 9.375  
+ 
+ 
+ vo= -15*vLSB =-9.375 V   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH14/EX14.4/Ex14_4.sce #
+ 
+ 
+ VREF  =
+ 
+  - 10.  
+ 
+ 
+ VREF= -10 V   
+ 
+ RF  =
+ 
+    5000.  
+ 
+ 
+ RF= 5000 ohm   
+ 
+ R  =
+ 
+    10000.  
+ 
+ 
+ R= 10000 ohm   
+ 
+ vMSB  =
+ 
+    2.5  
+ 
+ 
+ vMSB=-(RF*VREF)/(2*R)=2.5 V   
+ 
+ vo2  =
+ 
+    1.25  
+ 
+ 
+ vo2 = vMSB/2 =1.25 V   
+ 
+ vo3  =
+ 
+    4.6875  
+ 
+ 
+ vo3= (15/8)*vMSB =4.6875 V   
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH14/EX14.5/Ex14_5.sce #
+ 
+ 
+ n  =
+ 
+    12.  
+ 
+ 
+ n= 12   
+ 
+ VFS  =
+ 
+    50.  
+ 
+ 
+ VFS= 50 volts   
+ 
+ S  =
+ 
+    0.0122070  
+ 
+ 
+ S=VFS/(2^n)= 0.0122070 volts   
+ 
+ Resolution  =
+ 
+    0.0244141  
+ 
+ 
+ Resolution=(100/2^(n))= -0.0244141 percent, +0.0244141 percent   
+ 
+ 
+ 
+grepthis#Electronics_Circuits_And_Systems_Y._N._Bapat_2561/CH14/EX14.7/Ex14_7.sce #
+ 
+ 
+ n  =
+ 
+    12.  
+ 
+ 
+ n= 12   
+ 
+ t  =
+ 
+    0.000005  
+ 
+ 
+ t= 0.000005 A   
+ 
+ Vsp  =
+ 
+    10.  
+ 
+ 
+ Vsp= 10 volts   
+ 
+ LSB  =
+ 
+    0.0024414  
+ 
+ 
+ LSB=Vsp/(2^n)= 0.0024414 volts   
+ 
+ 
+ LSB/2= -0.0012207 V, -0.0012207 V   
+ 
+ SR  =
+ 
+    244.14063  
+ 
+ 
+ SR=(LSB/2)/t= 244.14063 V/s   
+ 
+ fmax  =
+ 
+    3.8856187  
+ 
+ 
+ f = SR/(2*%pi*Vsp)=3.8856187 Hz   
+ 
+ 
+ 

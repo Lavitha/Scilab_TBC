@@ -1,0 +1,699 @@
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.2/example2_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vz  =
+ 
+    9.  
+ 
+ 
+ for minimum D1 current select   
+ 
+ 
+ R2  =
+ 
+    300.  
+ 
+ Ie1  =
+ 
+    0.05  
+ 
+ 
+ specification for Q   
+ 
+ 
+ 
+ Pd  =
+ 
+    0.4  
+ 
+ 
+ Ib1  =
+ 
+    0.001  
+ 
+ 
+ R1  =
+ 
+    1216.6667  
+ 
+Iz=Ie2+Ir2
+     !--error 4 
+Undefined variable: Ie2
+at line      20 of exec file called by :    
+ll_226/CH18/EX18.2/example2_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.3/example3_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ re  =
+ 
+    20.  
+ 
+ 
+ C2  =
+ 
+    0.0000796  
+ 
+ hie  =
+ 
+    2020.  
+ 
+ Zi  =
+ 
+    1890.2739  
+ 
+ C1  =
+ 
+    0.0000064  
+ 
+C3=1/(2*3.14*f1*((Rc+Rl)/10))
+                    !--error 4 
+Undefined variable: Rc
+at line      13 of exec file called by :    
+ll_226/CH12/EX12.3/example3_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.4/example4_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ib  =
+ 
+    0.0000368  
+ 
+ Ic  =
+ 
+    0.0018404  
+ 
+Vce=Vcc-Ic*Rc
+             !--error 4 
+Undefined variable: Rc
+at line       9 of exec file called by :    
+Bell_226/CH5/EX5.4/example4_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.5/example5_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    2479.3388  
+ 
+Vz2=Vo+Vbe1+Vbe3+Vr1
+      !--error 4 
+Undefined variable: Vo
+at line       8 of exec file called by :    
+ll_226/CH18/EX18.5/example5_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH1/EX1.6/example6_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ a)   
+ 
+Vd=(n*Vt)*log(Id/I0)*10^3;
+        !--error 4 
+Undefined variable: Vt
+at line       9 of exec file called by :    
+Bell_226/CH1/EX1.6/example6_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.8/example8_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Vt  =
+ 
+    4.8  
+ 
+ Rt  =
+ 
+    8800.  
+ 
+ Ib  =
+ 
+    0.0000373  
+ 
+ Ic  =
+ 
+    0.0037341  
+ 
+ Ie  =
+ 
+    0.0037714  
+ 
+ Ve  =
+ 
+    3.7714026  
+ 
+Vc=Vcc-(Ic*Rc)
+             !--error 4 
+Undefined variable: Rc
+at line      14 of exec file called by :    
+Bell_226/CH5/EX5.8/example8_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.9/example9_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+Vb=Vbe+Icq*(Re2+Re3)+Vbe
+         !--error 4 
+Undefined variable: Icq
+at line       8 of exec file called by :    
+ll_226/CH19/EX19.9/example9_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.9/example9_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Ib  =
+ 
+    0.0000686  
+ 
+ Ic  =
+ 
+    0.0034281  
+ 
+ Ie  =
+ 
+    0.0034967  
+ 
+ Ve  =
+ 
+    3.4966555  
+ 
+Vc=Vcc-(Ic*Rc)
+     !--error 4 
+Undefined variable: Vcc
+at line      12 of exec file called by :    
+Bell_226/CH5/EX5.9/example9_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.10/example10_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Ib  =
+ 
+    0.0000195  
+ 
+ Ic  =
+ 
+    0.0039085  
+ 
+ Ie  =
+ 
+    0.0039280  
+ 
+ Ve  =
+ 
+    3.9280267  
+ 
+Vc=Vcc-(Ic*Rc)
+     !--error 4 
+Undefined variable: Vcc
+at line      12 of exec file called by :    
+ll_226/CH5/EX5.10/example10_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.11/example11_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ ip  =
+ 
+    0.001  
+ 
+ 
+ select Ie2>ip   
+ 
+ 
+ 
+ Vb2  =
+ 
+    8.  
+ 
+ 
+ Ve2  =
+ 
+    7.3  
+ 
+ R5  =
+ 
+    3650.  
+ 
+ 
+ 
+ Vr3  =
+ 
+    12.  
+ 
+ R3  =
+ 
+    12000.  
+ 
+ R4  =
+ 
+    5000.  
+ 
+ 
+ Vb1  =
+ 
+    5.4  
+ 
+ R2  =
+ 
+    47000.  
+ 
+R1=((Vcc-Vb1)*R2)/Vr2
+                    !--error 4 
+Undefined variable: Vr2
+at line      23 of exec file called by :    
+_226/CH12/EX12.11/example11_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.11/example11_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rc  =
+ 
+    2000.  
+ 
+ Ib  =
+ 
+    0.00005  
+ 
+Rb=(Vcc-Vbe)/Ib
+          !--error 4 
+Undefined variable: Vbe
+at line       9 of exec file called by :    
+ll_226/CH5/EX5.11/example11_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.12/example12_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ct  =
+ 
+    9.091D-11  
+ 
+ 
+  at resonance Xl=Xct    2*pi*f*L=1/2*pi*f*Ct   
+ 
+L=1/(((2*3.14*f)^2)*Ct)
+                !--error 4 
+Undefined variable: f
+at line       9 of exec file called by :    
+_226/CH16/EX16.12/example12_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.12/example12_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ib  =
+ 
+    0.00005  
+ 
+ Rc  =
+ 
+    1980.198  
+ 
+Rb=(Vce-Vbe)/Ib
+          !--error 4 
+Undefined variable: Vbe
+at line       9 of exec file called by :    
+ll_226/CH5/EX5.12/example12_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.12/example12_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+  CE circuit operation with vs at transistor base and Re bypassed   
+ 
+ Av  =
+ 
+    319.17098  
+ 
+ Zb  =
+ 
+    1500.  
+ 
+Rb=(R1*R2)/(R1+R2);
+      !--error 4 
+Undefined variable: R1
+at line      11 of exec file called by :    
+ll_226/CH6/EX6.12/example12_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.13/example13_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ re  =
+ 
+    13.  
+ 
+ hic  =
+ 
+    650.  
+ 
+ Zi2  =
+ 
+    5600.  
+ 
+Av1=-(hfe*((R3*Zi2)/(R3+Zi2)))/hie
+                                 !--error 4 
+Undefined variable: hie
+at line      10 of exec file called by :    
+_226/CH12/EX12.13/example13_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.13/example13_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zb  =
+ 
+    24220.  
+ 
+Zin=(R1*R2*Zb)/(R1*R2+R1*Zb+R2*Zb)
+       !--error 4 
+Undefined variable: R1
+at line       8 of exec file called by :    
+_226/CH13/EX13.13/example13_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.13/example13_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ ans  =
+ 
+    10595.754  
+ 
+Q=fo/(f2-f1)
+    !--error 4 
+Undefined variable: fo
+at line       8 of exec file called by :    
+_226/CH17/EX17.13/example13_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.13/example13_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+  an MC34063 controller is for step down transformer   
+ 
+ 
+ R1  =
+ 
+    1250.  
+ 
+ 
+ I1  =
+ 
+    0.0010417  
+ 
+R2=(Vo-Vref)/I1
+      !--error 4 
+Undefined variable: Vo
+at line      11 of exec file called by :    
+_226/CH18/EX18.13/example13_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.14/example14_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ R4  =
+ 
+    5000.  
+ 
+ 
+  with Ic=1mA and R4=4.7Kohm   
+ 
+ 
+ Ve  =
+ 
+    4.7  
+ 
+ Vc  =
+ 
+    7.7  
+ 
+ Vr3  =
+ 
+    4.3  
+ 
+ R3  =
+ 
+    4300.  
+ 
+Vb=Ve+Vbe
+        !--error 4 
+Undefined variable: Vbe
+at line      15 of exec file called by :    
+ll_226/CH5/EX5.14/example14_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.15/example15_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ R4  =
+ 
+    1000.  
+ 
+Vb=Ve+Vbe
+        !--error 4 
+Undefined variable: Vbe
+at line       9 of exec file called by :    
+ll_226/CH5/EX5.15/example15_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.18/example18_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ es  =
+ 
+    1.6  
+ 
+ Rl  =
+ 
+    104.20168  
+ 
+ 
+ es*Zz||Rl/R1+Zz||Rl   
+ 
+V0=es*((Zz*Rl)/(Zz+Rl))/(R1+((Zz*Rl)/(Zz+Rl)))
+                           !--error 4 
+Undefined variable: R1
+at line      10 of exec file called by :    
+ll_226/CH3/EX3.18/example18_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.20/example20_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+Vcc=12;Rl=10;Rd=.5;gfs=2.5;R7=820;V9=1*10^3;R10=R9;
+                                                  !--error 4 
+Undefined variable: R9
+at line       6 of exec file called by :    
+_226/CH19/EX19.20/example20_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.20/example20_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ suitable resistance is 250ohm
+ 
+ Vr  =
+ 
+    5.  
+ 
+ 
+ when diode is forward baised   
+ 
+If=(E-Vf)/R1;
+        !--error 4 
+Undefined variable: Vf
+at line      11 of exec file called by :    
+ll_226/CH3/EX3.20/example20_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.20/example20_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  hFE calculation   
+ 
+ Ic  =
+ 
+    0.01  
+ 
+Ib=(Vs-Vbe)/Rb
+         !--error 4 
+Undefined variable: Vbe
+at line       9 of exec file called by :    
+ll_226/CH5/EX5.20/example20_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.23/example23_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+RL=(Zp*Rc)/(Rc+Zp)
+      !--error 4 
+Undefined variable: Zp
+at line       7 of exec file called by :    
+_226/CH12/EX12.23/example23_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.24/example24_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Acl  =
+ 
+    5.3571429  
+ 
+ Vo  =
+ 
+    2.6785714  
+ 
+Po=(Vp)^2 /(2*Rl);
+                !--error 4 
+Undefined variable: Rl
+at line       9 of exec file called by :    
+_226/CH19/EX19.24/example24_sce.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.27/example27_sce.sce
+ 
+ 
+ 
+
+ 
+given 
+ 
+ QL  =
+ 
+    1224.6  
+ 
+ Qp  =
+ 
+    9.7991181  
+ 
+ B  =
+ 
+    102050.  
+ 
+Il=(.707*Vp)/(2*3.14*f*Lp)
+           !--error 4 
+Undefined variable: Vp
+at line      10 of exec file called by :    
+_226/CH19/EX19.27/example27_sce.sce',-1
+ 

@@ -1,0 +1,11778 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 183
+
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.1/chapter1_1.sce #
+ 
+ 
+ 
+ From the give waveform,   
+ 
+ s  =
+ 
+    50.  
+ 
+ 
+ For 0<t<2, i(t) is a straight line slope=   
+ 
+    50.  
+ 
+ 
+ Therefore   i(t)=50t and di(t)/dt=50  .. 0<t<2   
+ 
+ 
+ For 2<t<4,   i(t)=100 and di(t)/dt=0   
+ 
+ s  =
+ 
+  - 50.  
+ 
+ 
+ For 4<t<6, i(t) is a straight line slope =    
+ 
+  - 50.  
+ 
+ 
+ Therefore,   i(t)= -50t and di(t)/dt= -50  ..4<t<6   
+ 
+ 
+ Now   v_l(t)=L*di(t)/dt   
+ 
+ v  =
+ 
+    0.05  
+ 
+ 
+ 
+ V_l(t)[in volts   from 0<t<2]=   
+ 
+    0.05  
+ 
+ v  =
+ 
+    0.  
+ 
+ 
+ V_l(t)[in volts   from 2<t<4]=   
+ 
+    0.  
+ 
+ v  =
+ 
+  - 0.05  
+ 
+ 
+ V_l(t)[in volts   from 4<t<6]=   
+ 
+  - 0.05  
+ 
+ 
+ The waveform is shown in the fig. 1.12(a)   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.2/chapter1_2.sce #
+ 
+ 
+ 
+ Identify combinations of series and parallel resistances.   
+ 
+ 
+ The resistances 5ohm and 6ohm are in series, as going to carry same current.   
+ 
+ r  =
+ 
+    11.  
+ 
+ 
+ So equivalent resistance is(in ohm)=   
+ 
+    11.  
+ 
+ 
+ While the resistances 3ohm,4ohm,4ohm are in parallel, as voltage across them s 
+      ame but current divides.                                                  
+ 
+ r  =
+ 
+    0.8333333  
+ 
+ 
+ 
+ (1/R)=(1/3)+(1/4)+(1/5)=   
+ 
+    0.8  
+ 
+ r  =
+ 
+    1.2  
+ 
+ 
+ Therefore,  R(in ohm)=   
+ 
+    1.2  
+ 
+ 
+ Replacing these combinations redraw the fig. as shown in the fig. 1.28(a)   
+ 
+ 
+ Now again 1.2ohm and 2ohm are in series so equivalent resistance is 2+1.2=3.2  
+      ohm while 11ohm and 7ohm are in parallel.                                 
+ 
+ 
+ Using formula (R1*R2)/(R1+R2)   
+ 
+ r  =
+ 
+    4.3  
+ 
+ 
+ 
+ equivalent resistance3 is (11*7)/(11+7)[in ohm]=   
+ 
+    4.278  
+ 
+ 
+ Replacing the respective combination redraw the circuit as shown in the fig 1. 
+      28(b).                                                                    
+ 
+ 
+ Now 3.2 and 4.277 are in parallel   
+ 
+ r  =
+ 
+    1.83  
+ 
+ 
+ 
+ Therefore , replacing them by (3.2*4.277)/(3.2+4.277)[in ohm]=   
+ 
+    1.8305  
+ 
+ r  =
+ 
+    2.8304  
+ 
+ 
+ R_ab(in ohm)=   
+ 
+    2.8304  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.3/chapter1_3.sce #
+ 
+ 
+ 
+ I=v/(R1+R2+R3)  ..... series circuit   
+ 
+ i  =
+ 
+    1.  
+ 
+ 
+ I(in amp)=   
+ 
+    1.  
+ 
+ v  =
+ 
+    10.  
+ 
+ 
+ Therefore,  V_r1(in V)=(I*R1)=(V*R1)/(R1+R2+R3)=   
+ 
+    10.  
+ 
+ v  =
+ 
+    20.  
+ 
+ 
+ Therefore,  V_r2(in V)=(I*R2)=(V*R2)/(R1+R2+R3)=   
+ 
+    20.  
+ 
+ v  =
+ 
+    30.  
+ 
+ 
+ and,  V_r3(in V)=(I*R3)=(V*R3)/(R1+R2+R3)=   
+ 
+    30.  
+ 
+ 
+ Key point: It can be seen that voltage across any resistance of series circuit 
+       is ratio of that resistance to the total resistance, multiplied by the s 
+      ource voltage.                                                            
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.4/chapter1_4.sce #
+ 
+ 
+ 
+ The equivalent resistance of two is,   
+ 
+ r  =
+ 
+    6.6666667  
+ 
+ 
+ 
+ R_eq(in ohm)=(R1*R2)/(R1+R2)=   
+ 
+    6.67  
+ 
+ i  =
+ 
+    7.5  
+ 
+ 
+ 
+ I_t(in amp)=V/R_eq=   
+ 
+    7.5  
+ 
+ 
+ As per the current distribution in parallel circuit,   
+ 
+ i  =
+ 
+    5.  
+ 
+ 
+ I_1(in amp)=(I_t*R2)/(R1+R2)=   
+ 
+ i  =
+ 
+    2.5  
+ 
+ 
+ and,  I_2(in amp)=(I_t*R1)/(R1+R2)=   
+ 
+    2.5  
+ 
+ 
+ It can be verified that I_t=(I1)+(I2).   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.5/chapter1_5.sce #
+ 
+ 
+ 
+ Application of Kirchhoffs law:   
+ 
+ 
+ Step 1 and 2: Draw the circuit with all values which are same as the given net 
+      work. Mark all the branch starting from +ve of any of the source, say +ve 
+       of 50V source.                                                           
+ 
+ 
+ Step 3: Mark all the polarities for different voltages across the resistances. 
+       This is combined with step2 shown in the network below in fig 1.41(a).   
+ 
+ 
+ Step 4: Apply KVL to different loops.   
+ 
+ 
+ Loop 1: A-B-E-F-A , -15(I_1)-20(I_2)+50=0   
+ 
+ 
+ Loop 2: B-C-D-E-B , -30((I_1)-(I_2))-100+20(I_2)=0   
+ 
+ 
+ Rewriting all the equations,taking constants in one side.   
+ 
+ 
+ 15(I_1)+20(I_2)=50  ..(1)   
+ 
+ 
+ -30(I_1)+50(I_2)=100  ..(2)   
+ 
+ 
+ Apply cramers rule,   
+ 
+ d  =
+ 
+    1350.  
+ 
+ 
+ 
+ D=[15 20;-30 50]=   
+ 
+   1350.  
+ 
+ 
+ Calculating D_v   
+ 
+ d  =
+ 
+    500.  
+ 
+ 
+ D1=[50 20;100 50]=   
+ 
+    500.  
+ 
+ i  =
+ 
+    0.37  
+ 
+ 
+ I_1(in amp)=(D_1)/D=   
+ 
+    0.37  
+ 
+ 
+ Calculating D2 ,   
+ 
+ d  =
+ 
+   3000.  
+ 
+ 
+ D2=[15 50;-30 100]=   
+ 
+   3000.  
+ 
+ i  =
+ 
+    2.22  
+ 
+ 
+ I_2(in amp)=D2/D=   
+ 
+    2.22  
+ 
+ 
+ For I_1 and I_2, as answer is positive, assumed direction is correct   
+ 
+ 
+ Therefore, for I_1 answer is 0.37 amp. For I_2 answer is 2.22amp   
+ 
+ i  =
+ 
+  - 1.85  
+ 
+ 
+ 
+ (I_1)-(I_2)[in amp]=   
+ 
+  - 1.85  
+ 
+ 
+ Negative sign indicates assumed direction is wrong.   
+ 
+ 
+ i.e (I_1)-(I_2)=1.85A flowing in opposite direction to that of the assumed dir 
+      ection.                                                                   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.6/chapter1_6.sce #
+ 
+ 
+ 
+ The current distribution using KCL is as shown,   
+ 
+ 
+ Key Point : KVL should not be applied to the loop consisting current source.   
+ 
+ 
+ From branch DE,   
+ 
+ 
+ (i1)=5+3(i2)  ...(1)   
+ 
+ 
+ Applying KVL to the loop BCDEFGB without current source,   
+ 
+ 
+ -1*(5+3(i2))+5(i2)=0    ...(2)   
+ 
+ 
+ 2(i2)=5   
+ 
+ i  =
+ 
+    2.5  
+ 
+ 
+ i2(in amp)=   
+ 
+    2.5  
+ 
+ 
+ from eq.(1)   
+ 
+ i  =
+ 
+    12.5  
+ 
+ 
+ i1(in amp)=   
+ 
+    12.5  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.7/chapter1_7.sce #
+ 
+ 
+ 
+ Refer to the fig 1.45(a).   
+ 
+ i  =
+ 
+    4.  
+ 
+ 
+ Then current of current source is, I(in A)=V/R_sc=   
+ 
+    4.  
+ 
+ 
+ with internal parallel resistance same as R_sc   
+ 
+ 
+ Therefore , Equivalent current is as shown in the fig. 1.45(b).   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.8/chapter1_8.sce #
+ 
+ 
+ 
+ The given values are, I=50A and R_sh= 10ohm   
+ 
+ 
+ For the equivalent voltage source,   
+ 
+ v  =
+ 
+    500.  
+ 
+ 
+ V(in V)=(I*R_sh)=   
+ 
+    500.  
+ 
+ 
+ R_se=R_sh=10ohm in series.   
+ 
+ 
+ The equivalent voltage source is shown in the fig 1.46(a)   
+ 
+ 
+ Note the polarities of voltage source, which are such that +ve at top of arrow 
+       and -ve at botttom.                                                      
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.9/chapter1_9.sce #
+ 
+ 
+ 
+ Its equivalent star is as shown in the fig 1.57. where,   
+ 
+ r  =
+ 
+    1.6666667  
+ 
+ 
+ 
+ R1(in ohm)=(10*50)/(5+10+15)=   
+ 
+    1.67  
+ 
+ r  =
+ 
+    5.  
+ 
+ 
+ R2(in ohm)=(15*10)/(5+10+15)=   
+ 
+    5.  
+ 
+ r  =
+ 
+    2.5  
+ 
+ 
+ R3(in ohm)=(15*5)/(5+10+15)   
+ 
+    2.5  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.10/chapter1_10.sce #
+ 
+ 
+ 
+ Redrawing the circuit,   
+ 
+ r  =
+ 
+    8.4  
+ 
+ 
+ 
+ R_ab(in ohm)=(21*14)/(21+14)=   
+ 
+    8.4  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.11/chapter1_11.sce #
+ 
+ 
+ 
+ Redrawing the circuit,   
+ 
+ 
+ R1 and R2 are in series from fig. 1.59(b)   
+ 
+ r  =
+ 
+    6.  
+ 
+ 
+ R1(in ohm)=(15*10)/(15+10)=   
+ 
+    6.  
+ 
+ r  =
+ 
+    2.4  
+ 
+ 
+ R2(in ohm)=(6*4)/(6+4)=   
+ 
+    2.4  
+ 
+ 
+ then, R_ab=R1+R2   
+ 
+ r  =
+ 
+    8.4  
+ 
+ 
+ Therefore, R_ab(in ohm)=6+2.4=   
+ 
+    8.4  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.12/chapter1_12.sce #
+ 
+ 
+ 
+ The various loop are shown in the fig 1.64(a)   
+ 
+ 
+ Apply KVL to the various loops,   
+ 
+ 
+ Loop 1,  -15(I_1)-20(I_1)+20(I_2)+100=0   
+ 
+ 
+ Therefore,  +35(I_1)-20(I_2)=100   ...(1)   
+ 
+ 
+ Loop 2,  -5(I_2)-30(I_2)+30(I_3)-20(I_2)+20(I_1)=0   
+ 
+ 
+ Therefore,  20(I_1)-55(I_2)+30(I_3)=0   ...(2)   
+ 
+ 
+ Loop 3,  -5(I_3)-100-30(I_3)+30(I_2)=0   
+ 
+ 
+ Therefore,  30(I_2)-35(I_3)=0   ...(3)   
+ 
+ d  =
+ 
+    21875.  
+ 
+ 
+ 
+ D1=[35 -20 0;20 -55 30;0 30 -35]=   
+ 
+   21875.  
+ 
+ d  =
+ 
+  -35000.  
+ 
+ 
+ D2=[35 100 0;20 0 30;0 100 -35]=   
+ 
+  -35000.  
+ 
+ d  =
+ 
+  -92500.  
+ 
+ 
+ D3=[35 -20 100;20 -55 0;0 30 100]=   
+ 
+  -92500.  
+ 
+ i  =
+ 
+  - 1.6  
+ 
+ 
+ 
+ I_2(in amp)=D2/D=   
+ 
+  - 1.6  
+ 
+ i  =
+ 
+  - 4.2  
+ 
+ 
+ 
+ I_3(in amp)=D3/D=   
+ 
+  - 4.2286  
+ 
+ i  =
+ 
+    2.6285  
+ 
+ 
+ I_30(in amp)=(I_2)-(I_3)=   
+ 
+    2.6285  
+ 
+ 
+ As (I_2-I_3) is positive, current floes in the assumed direction of I_2   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.13/chapter1_13.sce #
+ 
+ 
+ 
+ The various loop current are shown in the fig 1.65(a). The problem consists of 
+       current sources hence follow supermesh steps.                            
+ 
+ 
+ Loops cannot be defined through current sources.So analyse the branches consis 
+      ting of current sources first                                             
+ 
+ 
+ From branch A-B we can write,   
+ 
+ 
+ I_3=2A  ...(1)   
+ 
+ 
+ From branch DG we can write,   
+ 
+ 
+ I_2-I_1=8A  ...(2)   
+ 
+ 
+ Now apply KVL to the loop without current source i.e.   
+ 
+ 
+ loop C-D-E-H-G-F-C,   
+ 
+ 
+ -(I_3)-(I_1)-3(I_3)-3(I_2)-4(I_2)+24=0   
+ 
+ 
+ Therefore,  4(I_3)+7(I_2)+(I_1)=24   ...(3)   
+ 
+ 
+ Using equation (1) and equation (2) in (3) we get,   
+ 
+ 
+ 8+7(I_2)+((I_2)-8)=24   
+ 
+ 
+ Therefore  8(I_2)=24   
+ 
+ i  =
+ 
+    3.  
+ 
+ 
+ I_2(in amp)=   
+ 
+    3.  
+ 
+ 
+ This is current through 4ohm resistor.So power deliverd to the 4ohm resistor i 
+      s,                                                                        
+ 
+ p  =
+ 
+    36.  
+ 
+ 
+ P(in W)=((I_2)^2)*4=   
+ 
+    36.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.14/chapter1_14.sce #
+ 
+ 
+ 
+ The various node voltages and currents are shown in the fig 1.72(a).   
+ 
+ 
+ At node 1,   -(I_1)-(I_2)-(I_3)=0   
+ 
+ 
+ Therefore,  -[(V_1-15)/1]-[V_1/1]-[(V_1-V_2)/0.5]=0   
+ 
+ 
+ Therefore,  -(V_1)+15-(V_1)-2(V_1)+2(V_2)=0   
+ 
+ 
+ Therefore,  4(V_1)-2(V_2)=15   ..(1)   
+ 
+ 
+ At node 2,  (I_3)-(I_4)-(I_5)=0   
+ 
+ 
+ Therefore,  [(V_1-V_2)/0.5]-[(V_2)/2]-[((V_2)+20)/1]=0   
+ 
+ 
+ Therefore,  2(V_1)-2(V_2)-0.5(V_2)-(V_2)+20=0   
+ 
+ 
+ Therefore,  2(V_1)-3.5(V_2)= -20   ...(2)   
+ 
+ 
+ Multiplying equation (2) by 2 and subtracting from equation (1) we get,   
+ 
+ 
+ 5(V_2)=55   
+ 
+ v  =
+ 
+    11.  
+ 
+ 
+ V_2(in V)=    
+ 
+    11.  
+ 
+ v  =
+ 
+    9.25  
+ 
+ 
+ 
+ and,  V_1(in V)=    
+ 
+    9.25  
+ 
+ 
+ Hence the various currents are,   
+ 
+ i  =
+ 
+  - 5.75  
+ 
+ 
+ (I_1)(in A)=[(V_1)-5]/1=   
+ 
+  - 5.75  
+ 
+ 
+ i.e I1=5.75A  upward   
+ 
+ i  =
+ 
+    9.25  
+ 
+ 
+ (I_2)(in A)=(V_1)/1=   
+ 
+    9.25  
+ 
+ i  =
+ 
+  - 3.5  
+ 
+ 
+ (I_3)(in A)=[(V_1)-(V_2)]/0.5=   
+ 
+  - 3.5  
+ 
+ 
+ i.e I3=3.5A to left   
+ 
+ i  =
+ 
+    5.5  
+ 
+ 
+ (I_4)(in A)=(V_2)/2=   
+ 
+    5.5  
+ 
+ i  =
+ 
+  - 9.  
+ 
+ 
+ (I_5)(in A)=[(V_2)-20]/1=   
+ 
+  - 9.  
+ 
+ 
+ i.e I5=9A upward   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.15/chapter1_15.sce #
+ 
+ 
+ 
+ The various node voltage are shown in the fig 1.73(a).   
+ 
+ 
+ THe various braanch currents are shown.Applying KCL at various nodes.   
+ 
+ 
+ Node 1:  9-I1-I2-I3=0   ..(1)   
+ 
+ 
+ Node 1:  I3-I4+4=0   ..(2)   
+ 
+ 
+ Node 1:  I2-4-I5=0   ..(3)   
+ 
+ 
+ Key Point: Nodes V1 and V3 from supernode region and nodes V1 and V2 from supe 
+      r node region.                                                            
+ 
+ 
+ Super node: V1-10=V3  i.e.  V1-V3=10   ..(4)   
+ 
+ 
+ Super node: V1+6=V2  i.e.  V1-V2=-6   ..(5)   
+ 
+ 
+ From equation (2), I3=I4-4 and from equation (3), I2=I5+4   
+ 
+ 
+ Using in equation (1), 9-I1-I5-4-I4+4=0   
+ 
+ 
+ i.e  I1+I4+I5=9   ..(6)   
+ 
+ 
+ I1=V1/4,  I4=V2/10,  I5=V3/5   
+ 
+ 
+ Therefore   (V1/4)+(V2/10)+(V3/5)=9   
+ 
+ 
+ i.e  0.25(V1)+0.1(V2)+0.2(V3)=9    ...(7)   
+ 
+ 
+ Solving equations(4), (5) and (7) simultaneously,we get   
+ 
+ 
+ 0.25(V1)+0.1(V1+6)+0.2(V1-10)=9   
+ 
+ v  =
+ 
+    18.909091  
+ 
+ 
+ 
+ Therefore,  V1(in V)=   
+ 
+    18.909  
+ 
+ 
+ putting V1 in eq.(4) and (5), we get    
+ 
+ v  =
+ 
+    24.909  
+ 
+ 
+ V2(in V)=   
+ 
+    24.909  
+ 
+ v  =
+ 
+    8.909  
+ 
+ 
+ V3(in V)=   
+ 
+    8.909  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.16/chapter1_16.sce #
+ 
+ 
+ 
+ Case 1: R=10ohm   
+ 
+ 
+ V=(V_m)sin(wt)   
+ 
+ v  =
+ 
+    212.13203  
+ 
+ 
+ 
+ (V_m)[in V]=sqrt(2)*V_rms=   
+ 
+ i  =
+ 
+    21.213  
+ 
+ 
+ (I_m)[in A]=(V_m)/R=   
+ 
+    21.213  
+ 
+ 
+ In pure resistive circuit, currents is in phase with the voltage.   
+ 
+ 
+ Therefore,  psi=phase difference= 0 degree   
+ 
+ 
+ Therefore,  i=(I_m)sin(wt)=(I_m)sin(2*pi*f*t)   
+ 
+ 
+ Therefore,  i(in A) = 21.213sin(100*pi*t)   
+ 
+ 
+ The phasor diagram is shown in the fig. 1.85(a)   
+ 
+ 
+ Case 2:  L=0.2 ohm   
+ 
+ x  =
+ 
+    62.832  
+ 
+ 
+ 
+ Inductive reactance, (X_L)[in ohm]=wL=(2*pi*f*L)=   
+ 
+    62.83  
+ 
+ i  =
+ 
+    0.260  
+ 
+ 
+ 
+ Therefore,  (I_m)[in A]=(V_m)/(X_L)=   
+ 
+ 
+ In pure inductive circuit, current lags voltage by 90 degree.   
+ 
+ 
+ Therefore,  psi=phase difference = -90 degree =(pi/2)rad   
+ 
+ 
+ Therefore,  i=(I_m)sin(wt-psi)  i.e.  i(in A)=3.37sin((100*pi*t)-(pi/2))   
+ 
+ 
+ The phasor dig in shown in the fig 1.85(b).   
+ 
+ 
+ Case 3:  C=50 micro-F   
+ 
+ c  =
+ 
+    63.7  
+ 
+ 
+ 
+ Capacitive reactance,  X_c(in ohm)=1/wC=1/(2*pi*f*C)=   
+ 
+    63.66  
+ 
+ i  =
+ 
+    3.332  
+ 
+ 
+ 
+ I_m(in A)=(V_m)/(X_c)=   
+ 
+    3.33  
+ 
+ 
+ In pure capacitive circuit, current leads voltage by 90 degree.   
+ 
+ 
+ Therefore  psi=phase difference =90 degree= (pi/2)radian   
+ 
+ 
+ Therefore,  i=(I_m)sin(wt+psi)   
+ 
+ 
+ Therefore,  i(in A)=3.33sin((100*pi*t)+(pi/2))   
+ 
+ 
+ The phasor dig is as shown in the fig 1.85(c).   
+ 
+ 
+ All the phasor dig represent r.m.s values of voltage and current   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.17/chapter1_17.sce #
+ 
+ 
+ r  =
+ 
+    1.  
+ 
+ 
+ R1(in ohm)=(2*5)/(2+5+3)=   
+ 
+    1.  
+ 
+ r  =
+ 
+    0.6  
+ 
+ 
+ R2(in ohm)=(3*2)/(2+5+3)=   
+ 
+    0.6  
+ 
+ r  =
+ 
+    1.5  
+ 
+ 
+ R3(in ohm)=(5*3)/(2+5+3)=   
+ 
+    1.5  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ R1(in ohm)=(10*5)/(10+5+10)=   
+ 
+    2.  
+ 
+ r  =
+ 
+    4.  
+ 
+ 
+ R2(in ohm)=(10*10)/(10+5+10)=   
+ 
+    4.  
+ 
+ r  =
+ 
+    2.  
+ 
+ 
+ R3(in ohm)=(5*10)/(10+5+10)=   
+ 
+    2.  
+ 
+ 
+ The circuit reduces as shown in the fig 1.86(c)   
+ 
+ r  =
+ 
+    6.8439  
+ 
+ 
+ 
+ R_ab(in ohm)=0.6+4.2439+2=   
+ 
+    6.8439  
+ 
+ 
+ as, I=V/R_ab   
+ 
+ v  =
+ 
+    34.219  
+ 
+ 
+ 
+ Therefore,  V(in V)=I*R_ab=   
+ 
+    34.2195  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.18/chapter1_18.sce #
+ 
+ 
+ 
+ Rearrange the circuit as shown below.   
+ 
+ 
+ The 3.333ohm and 3.6ohm resistors are in series in fig 1.87(c).   
+ 
+ r  =
+ 
+    6.933  
+ 
+ 
+ 
+ Therefore, the equivalent resistance R_yz(in ohm)=   
+ 
+    6.933  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.19/chapter1_19.sce #
+ 
+ 
+ 
+ Using the loop analysis, (fig 1.88(a) see on next page)   
+ 
+ 
+ Applying KVL to the three loops,   
+ 
+ 
+ -(I1)-(I1)-2(I1)+2(I3)+5-2(I1)=0  i.e  -6(I1)+2(I3)= -5   ...(1)   
+ 
+ 
+ -2(I3)+2(I1)-2(I3)-5-2(I3)-(I3)+I2=0  i.e   2(I1)+I2-7(I3)=5   ...(2)   
+ 
+ 
+ -2(I2)-(I2)+(I3)-2(I2)+5=0   i.e  -5(I2)+I3= -5  ...(3)   
+ 
+ 
+ Solving equation (1),(2)and (3)   
+ 
+ 
+ so, putting equations(1) and (3) in eq (2),we get   
+ 
+ 
+ 10(I3)+25+3(I3)+15-105(I3)=75   
+ 
+ 
+ Therefore, -92(I3)=35   
+ 
+ i  =
+ 
+  - 0.3804348  
+ 
+ 
+ 
+ Therefore, I3(in A)=   
+ 
+  - 0.3804  
+ 
+ 
+ Now, putting value of I3 in equations (1) and (2) :   
+ 
+ i  =
+ 
+    0.7065  
+ 
+ 
+ Therefore, I1(in A)=   
+ 
+    0.7065  
+ 
+ i  =
+ 
+    0.9239  
+ 
+ 
+ and, I2(in A)=   
+ 
+    0.9239  
+ 
+ 
+ These are the currents in all the sources. I3 is negative hence its direction  
+      is opposite to that assumed earlier.                                      
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.20/chapter1_20.sce #
+ 
+ 
+ 
+ The various branch currents are shown in the fig. 1.89. The current through br 
+      anch OC is zero. Applying KVL to the various loops,                       
+ 
+ 
+ -4(i2)-(R*i2)-2(i1)+10=0   
+ 
+ 
+ i.e   2(i1)+4(i2)+(R*i2)=10    ..Loop AOBA   
+ 
+ 
+ -(i1-i2)-1.5(i1-i2)-2(i1)+10=0   
+ 
+ 
+ i.e   +4.5(i1)-2.5(i2)=10    ..Loop ACBA   
+ 
+ 
+ -(i1-i2)-1.5(i1-i2)+(R*i2)+4(i2)=0   
+ 
+ 
+ i.e   -2.5(i1)+6.5(i2)+(R*i2)=0    ..Loop ACBOA   
+ 
+ 
+ As current through branch OC is zero, points O and C are equipotential. So dro 
+      p across AO is same as drop across AC.                                    
+ 
+ 
+ Therefore,    4(i2)=(i1-i2)   i.e    (i1)=5(i2)   
+ 
+ 
+ Using in loop A-C-B-A, 4.5*5*(i2)-2.5(i2)=10   
+ 
+ i  =
+ 
+    0.5  
+ 
+ 
+ Therefore,    i2(in A)=   
+ 
+    0.5  
+ 
+ i  =
+ 
+    2.5  
+ 
+ 
+ and, i1(in A)=   
+ 
+    2.5  
+ 
+ 
+ Using in loop A-O-B-A, (2*2.5)+(4*0.5)+0.5(R)=10   
+ 
+ r  =
+ 
+    6.  
+ 
+ 
+ Therefore,   R(in ohm)=   
+ 
+    6.  
+ 
+ 
+ And current through R is i2=0.5 A   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.21/chapter1_21.sce #
+ 
+ 
+ 
+ Use nodal analysis,   
+ 
+ 
+ Applying KCL at the two nodes,   
+ 
+ 
+ 21-I1-I2=0    (1)   
+ 
+ 
+ I2-I3-I4=0    (2)   
+ 
+ 
+ Analysing various branches,   
+ 
+ 
+ I1=(V1-0)/2,  I2=(V1-V2)/3,  I3=(V2-0)/3,  I4=(V2-0)/6   
+ 
+ 
+ Using in the equations (1) and (2),   
+ 
+ 
+ 21-(V1/2)-(V1-V2)/3 = 0   
+ 
+ 
+ i.e   0.8333(V1)-0.333(V2) = 21    ...(3)   
+ 
+ 
+ [(V1-V2)/3]-(V2/3)-(V2/6)=0   
+ 
+ 
+ i.e   0.3333(V1)-0.8333(V2) = 21    ...(4)   
+ 
+ 
+ Solving equations (3) and (4),   
+ 
+ 
+ 0.8333(V1)-0.333(0.3333/0.8333)V1=21   
+ 
+ v  =
+ 
+    29.995372  
+ 
+ 
+ 
+ V1(in V)=   
+ 
+   30.  
+ 
+ v  =
+ 
+   12.  
+ 
+ 
+ V2(in V)=   
+ 
+   12.  
+ 
+ i  =
+ 
+  - 2.  
+ 
+ 
+ Therefore, I(in 6ohm)=I4(in A)=   
+ 
+  - 2.  
+ 
+ 
+ The current flows in downward direction in 6ohm resistor.   
+ 
+ 
+ Voltage across current soource is the voltage across 2ohm resistance, which is 
+       node voltage V1=30 V.                                                    
+ 
+ p  =
+ 
+   ***  
+ 
+ 
+ 
+ Therefore, power supplied by source P(in W)=V1*21=30*21=   
+ 
+   630.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.22/chapter1_22.sce #
+ 
+ 
+ 
+ The arrangment is shown in the fig 1.92   
+ 
+ 
+ P2=(I^2)*R2   
+ 
+ 
+ Therefore, 16= (2^2)*R2   
+ 
+ r  =
+ 
+    4.  
+ 
+ 
+ R2(in ohm)=   
+ 
+    4.  
+ 
+ v  =
+ 
+    8.  
+ 
+ 
+ V2(in ohm)=I*R2=   
+ 
+    8.  
+ 
+ v  =
+ 
+    12.  
+ 
+ 
+ V3(in V)=I*R3=   
+ 
+ v  =
+ 
+    24.  
+ 
+ 
+ V(in V)=V1+V2+V3=   
+ 
+    24.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.23/chapter1_23.sce #
+ 
+ 
+ 
+ The branch currents are shown in the fig 1.93(a)   
+ 
+ 
+ Applying KVL to the two loops,   
+ 
+ 
+ -2(I1)-5(I2)+12=0   
+ 
+ 
+ i.e   2(I1)+5(I2)=12  ..(1)   
+ 
+ 
+ -4(I1-I2)-6(I1-I2)+5(I2)=0   
+ 
+ 
+ i.e   -10(I1)+15(I2)=0   
+ 
+ 
+ Solving equation (1) and (2),   
+ 
+ 
+ 2(I1)+5(10/15)(I1)=12   
+ 
+ i  =
+ 
+    2.25  
+ 
+ 
+ 
+ I1(in A)=   
+ 
+    2.25  
+ 
+ 
+ put this value of I1 in eq (2),we get   
+ 
+ i  =
+ 
+    1.5  
+ 
+ 
+ I2(in A)=(10/15)*2.25=   
+ 
+    1.5  
+ 
+ 
+    Branch        Current          voltage drop   
+ 
+ 
+     A-B         I1=2.25A           2(I1)=4.5V   
+ 
+ 
+     B-C        I1-I2=0.75A        4(I1-I2)=3V   
+ 
+ 
+     C-D        I1-I2=0.75A        6(I1-I2)=4.5V   
+ 
+ 
+     B-E          I2=1.5A           5(I2)=7.5V   
+ 
+ 
+     F-A         I1=2.25A           12V source   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.24/chapter1_24.sce #
+ 
+ 
+ i  =
+ 
+    6.111162  
+ 
+ 
+ 
+ I(in A)=   
+ 
+    6.1112  
+ 
+ 
+ By current division rule,   
+ 
+ i  =
+ 
+    2.2222  
+ 
+ 
+ 
+ I1(in A)=9(I*2)/(2+3.5)=   
+ 
+    2.222  
+ 
+ v  =
+ 
+    2.222  
+ 
+ 
+ V(1 ohm)=I1*1=   
+ 
+    2.222  
+ 
+ i  =
+ 
+    3.889  
+ 
+ 
+ I2(in A)=(3.5*I)/(2 +3.5)=   
+ 
+    3.889  
+ 
+ p  =
+ 
+    30.23  
+ 
+ 
+ 
+ P(2 ohm)[in W]=(I2^2)*2=   
+ 
+    30.233  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.25/chapter1_25.sce #
+ 
+ 
+ 
+ The arrangement is shown in the fig 1.97.   
+ 
+ x  =
+ 
+    11.  
+ 
+ 
+ X_L(in ohm)=V/I=   
+ 
+    11.  
+ 
+ 
+ THe inductive reactance is 11 ohm   
+ 
+ 
+ X_L=2*pi*f*L   
+ 
+ 
+ Therefore, 11=2*pi*50*L   
+ 
+ l  =
+ 
+    0.0350141  
+ 
+ 
+ 
+ L(in H)=   
+ 
+    0.035014  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.26/chapter1_26.sce #
+ 
+ 
+ 
+ For d.c. supply frequency is 0 Hz.   
+ 
+ 
+ X_C=1/(2*pi*f*C)=1/0=infinity   
+ 
+ 
+ So capacitor gives infinite reactance in d.c. supply and acts as an open circu 
+      its.                                                                      
+ 
+ 
+ In an a.c. supply of 100 Hz,   
+ 
+ x  =
+ 
+    31.830989  
+ 
+ 
+ 
+ X_C(in ohm)=1/(2*pi*f*C)=   
+ 
+    31.83099  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.27/chapter1_27.sce #
+ 
+ 
+ 
+ The circuit can be redrawn as shown in the fig 1.99(a)   
+ 
+ 
+ fig 1.99(a,b) see on next page   
+ 
+ 
+ Therefore, R_eq=[30(10+R)/(30+10+R)]=(300+30R)/(40+R)   
+ 
+ 
+ Therefore, I=V/(R_eq)   i.e   6=30/[(300+30R)/(40+R)]   
+ 
+ 
+ 6(300+30R)=50(40+R)   i.e.    1800+180R=2000+50R   
+ 
+ r  =
+ 
+    1.5384615  
+ 
+ 
+ 
+ R(in ohm)=   
+ 
+    1.5385  
+ 
+ 
+ By current division rule,   
+ 
+ i  =
+ 
+    1.6667  
+ 
+ 
+ 
+ I1(in A)=[(I_t)*(10+R)/(10+R+30)]=   
+ 
+    1.667  
+ 
+ i  =
+ 
+    4.333  
+ 
+ 
+ I2(in A)=[(I_t)*30/(10+R+30)]=   
+ 
+    4.333  
+ 
+ 
+ Key point: Cross check I1+I2= 6 A   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.28/chapter1_28.sce #
+ 
+ 
+ 
+ Convert the delta of 2ohm, 3ohm and 5ohm to equivalent star as shown in the fi 
+      g 1.101(a)                                                                
+ 
+ r  =
+ 
+    1.5  
+ 
+ 
+ R1(in ohm)=(5*3)/(5+3+2)=   
+ 
+    1.5  
+ 
+ r  =
+ 
+    0.6  
+ 
+ 
+ R2(in ohm)=(3*2)/(5+3+2)=   
+ 
+    0.6  
+ 
+ r  =
+ 
+    1.  
+ 
+ 
+ R3(in ohm)=(5*2)/(5+3+2)=   
+ 
+    1.  
+ 
+ 
+ Convert the delta of 1ohm, 5.6ohm and 4ohm to equivalent star as shown in the  
+      fig 101(c)                                                                
+ 
+ r  =
+ 
+    0.5283019  
+ 
+ 
+ 
+ R4(in ohm)=(5.6*1)/(1+5.6+4)=   
+ 
+    0.5283  
+ 
+ r  =
+ 
+    2.1132  
+ 
+ 
+ R5(in ohm)=(5.6*4)/(1+5.6+4)=   
+ 
+    2.1132  
+ 
+ r  =
+ 
+    0.3774  
+ 
+ 
+ R6(in ohm)=(1*4)/(1+5.6+4)=   
+ 
+    0.3774  
+ 
+ r  =
+ 
+    3.8478  
+ 
+ 
+ Therefore, R_ab(in ohm)=3.4705+0.3773=   
+ 
+    3.8478  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.29/chapter1_29.sce #
+ 
+ 
+ 
+ Convert the inner delta of 5ohm to equivalent star. As all the resistances of  
+      delta are same, all the resistances of equivalent star will be equal of v 
+      alue                                                                      
+ 
+ r  =
+ 
+    1.6666667  
+ 
+ 
+ R(in ohm)=(5*5)/(5+5+5)=   
+ 
+    1.6666667  
+ 
+ 
+ Convert the delta of 6.667ohm, 5ohm and 11.667ohm   
+ 
+ r  =
+ 
+    3.3335  
+ 
+ 
+ 
+ R1(in ohm)=(6.667*11.667)/(6.667+11.667+5)=   
+ 
+    3.3335  
+ 
+ r  =
+ 
+    1.4286  
+ 
+ 
+ R2(in ohm)=(6.667*5)/(6.667+11.667+5)=   
+ 
+    1.4286  
+ 
+ r  =
+ 
+    2.5  
+ 
+ 
+ 
+ R3(in ohm)=(5*11.667)/(6.667+11.667+5)=   
+ 
+    2.5  
+ 
+ r  =
+ 
+    7.945  
+ 
+ 
+ 
+ Therefore,  R_ab(in ohm)=5.333+2.612=   
+ 
+    7.945  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.30/chapter1_30.sce #
+ 
+ 
+ 
+ Let us divide the voltage waveform into two sections.   
+ 
+ 
+ For 0<=t<=2, v(t)=mt  where,   
+ 
+ m  =
+ 
+    5.  
+ 
+ 
+ m=(10-0)/(2-0)=   
+ 
+    5.  
+ 
+ 
+ Therefore,  i(t)=v(t)/R=5t/40=0.125t A   
+ 
+ i  =
+ 
+    0.25  
+ 
+ 
+ At t=2, v(t)=10 V,  i(t)[in A]=0.125*2=   
+ 
+    0.25  
+ 
+ m  =
+ 
+  - 5.  
+ 
+ 
+ For 2<=t<=4, v(t)=mt+c    where   m=(0-10)/(4-2)=   
+ 
+  - 5.  
+ 
+ 
+ Therefore,    v(t)= -5t+C   
+ 
+ c  =
+ 
+    20.  
+ 
+ 
+ Now at t=4,  v(t)=0  i.e.  0= -5*4+C   i.e    C=   
+ 
+    20.  
+ 
+ 
+ Therefore,    v(t)= -5t+20   
+ 
+ 
+ Therefore,    i(t)=v(t)/R= (-5t+20)/40= -0.125t+0.5   
+ 
+ 
+ At t=4, v(t)= -5*4+20=0 V,  i(t)= -0.125*4+0.5= 0 V   
+ 
+ 
+ Hence the waveform of the current passing through the resistance is as shown i 
+      n the fig 1.105                                                           
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.31/chapter1_31.sce #
+ 
+ 
+ 
+ Method 1: Kirchoffs laws   
+ 
+ 
+ Now apply KVL to the two loops without current source as effect of the current 
+      s in various branches.                                                    
+ 
+ 
+ -2(I1-2)-I2+6=0   i.e.    2(I1)+I2=10   ..(1)   
+ 
+ 
+ -3(I1-2-I2)-12+I2=0   i.e.    -3(I1)+4(I2)=6   ..(2)   
+ 
+ 
+ -3(I1)+4(10-2(I1))=6   
+ 
+ i  =
+ 
+    3.0909091  
+ 
+ 
+ 
+ Therefore,    I1(in A)=   
+ 
+    3.0909  
+ 
+ i  =
+ 
+    3.8182  
+ 
+ 
+ and,   I2(in A)=   
+ 
+    3.8182  
+ 
+ 
+ Currents through various resistances are,   
+ 
+ i  =
+ 
+    1.0909  
+ 
+ 
+ I(2ohm)[in A]=I1-2=   
+ 
+    1.0909  
+ 
+ 
+ I(1ohm)[in A]=I2=3.8181   
+ 
+ i  =
+ 
+  - 2.7272  
+ 
+ 
+ I(3ohm)[in A]=I1-2-I2=   
+ 
+  - 2.7272  
+ 
+ 
+ Current through 3ohm is negative i.e. it is flowing in opposite direction to t 
+      hat assumed in the circuit.                                               
+ 
+ 
+ Method II: Loop analysis   
+ 
+ 
+ From the current source branch,   
+ 
+ 
+ I3= 2 A   
+ 
+ 
+ Applying KVL to the other two loopos without current source,   
+ 
+ 
+ -2(I1)+2(I3)-I1+I2+6=0    i.e.    -3(I1)+I2= -10  ..(1)   
+ 
+ 
+ -3(I2)+3(I3)-12-I2+I1=0   i.e.    I1-4(I2)=6  ..(2)   
+ 
+ 
+ Solving we get,   
+ 
+ 
+ I1-4(-10+3(I1))=6   
+ 
+ i  =
+ 
+    3.0909  
+ 
+ 
+ I1(in A)=   
+ 
+    3.0909  
+ 
+ i  =
+ 
+  - 0.7273  
+ 
+ 
+ and,  I2(in A)=   
+ 
+  - 0.7273  
+ 
+ 
+ Currents through various resistances are,   
+ 
+ i  =
+ 
+    1.0909  
+ 
+ 
+ I(2ohm)[in A]=I1-2=   
+ 
+    1.0909  
+ 
+ i  =
+ 
+    3.8181  
+ 
+ 
+ I(1ohm)[in A]=I1-I2=   
+ 
+    3.8181  
+ 
+ i  =
+ 
+  - 2.7272  
+ 
+ 
+ I(3ohm)[in A]=I2-2=   
+ 
+  - 2.7272  
+ 
+ 
+ The currents are same as obtained by the method 1.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH1/EX1.32/chapter1_32.sce #
+ 
+ 
+ 
+ Use the loop analysis   
+ 
+ 
+ From the current source branch,   
+ 
+ 
+ I3=1 A   
+ 
+ 
+ Applying KVL to the loops without current source we get,   
+ 
+ 
+ -6(I1)-4-5(I1)+5(I2)=0    i.e.    -11(I1)+5(I2)=4  ..(1)   
+ 
+ 
+ -5(I2)+5(I1)-6-4(I2)-4(I3)=0  i.e.    5(I1)-9(I2)=10  (2)   
+ 
+ 
+ Solving, we get:   
+ 
+ 
+ -11(I1)+5((5I1-10)/9)=4   
+ 
+ 
+ Therefore,    -99(I1)+25(I1)-50=36   
+ 
+ i  =
+ 
+  - 1.1621622  
+ 
+ 
+ 
+ Therefore,      I1(in A)=   
+ 
+  - 1.1622  
+ 
+ i  =
+ 
+  - 1.7567  
+ 
+ 
+ and,    I2(in A)=   
+ 
+  - 1.7567  
+ 
+ 
+ Current through 5ohm in specified direction is,   
+ 
+ i  =
+ 
+  - 0.5946  
+ 
+ 
+ I(5ohm)[in A]=I2-I1= -1.7567-(-1.1621)=   
+ 
+  - 0.5946  
+ 
+ 
+ As negative, current through 5ohm flows in opposite direction to that specifie 
+      d in the circuit.                                                         
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.1/example2_1.sce #
+ 
+ 
+ 
+ P=4   Z=440   psi=0.07 Wb   and   N=900 r.p.m.   
+ 
+ 
+ E=(psi*P*N*Z)/(6*A)   
+ 
+ 
+ i)For lap wound,      A=P=4   
+ 
+ e  =
+ 
+    462.  
+ 
+ 
+ Therefore,    E(in V)=(psi*N*Z)/60=   
+ 
+    462.  
+ 
+ 
+ ii)For wave wound,     A=2   
+ 
+ e  =
+ 
+    924.  
+ 
+ 
+ Therefore,    E(in V)=(psi*P*N*Z)/120=   
+ 
+    924.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.2/example2_2.sce #
+ 
+ 
+ 
+ P=4   psi=21 mWb=21*10^-3 Wb,   N=1120r.p.m   
+ 
+ 
+ Coils = 42 and turns/coil = 8   
+ 
+ t  =
+ 
+    336.  
+ 
+ 
+ Total turns = coil * turns/coil = 42*8 =   
+ 
+    336.  
+ 
+ z  =
+ 
+    672.  
+ 
+ 
+ Z= 2*total turns = 2*336 =   
+ 
+    672.  
+ 
+ 
+ i) for lap wound, A=P   
+ 
+ e  =
+ 
+    263.424  
+ 
+ 
+ 
+ Therefore,  E(in V)=(psi*N*Z)/60=   
+ 
+    263.424  
+ 
+ 
+ ii) For wave wound, A=2   
+ 
+ 
+ and,  E=263.424 V   
+ 
+ 
+ Therefore,    E=(psi*P*N*Z)/120   
+ 
+ n  =
+ 
+    560.  
+ 
+ 
+ N(in rpm)=   
+ 
+    560.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.3/example2_3.sce #
+ 
+ 
+ 
+ Consider shunt generator as shown in the fig 2.29   
+ 
+ 
+ I_a=(I_L)+(I_sh)   
+ 
+ 
+ I_sh=(V_t)/(R_sh)   
+ 
+ 
+ Now,  V_t=250 V   
+ 
+ 
+ and,  R_sh=100 ohm   
+ 
+ i  =
+ 
+    2.5  
+ 
+ 
+ Therefore,    I_sh(in A)=   
+ 
+    2.5  
+ 
+ 
+ Load power=5 kW   
+ 
+ 
+ Therefore,    P=(V_t)*(I_L)   
+ 
+ i  =
+ 
+    20.  
+ 
+ 
+ I_L(in A)=P/(V_t)=   
+ 
+    20.  
+ 
+ i  =
+ 
+    22.5  
+ 
+ 
+ (I_a)[in A]=(I_L)+(I_sh)=   
+ 
+    22.5  
+ 
+ 
+ E=(V_t)+((I_a)*(R_a))[neglect V_brush]   
+ 
+ E  =
+ 
+    254.95  
+ 
+ 
+ Therefore,    E(in V)=   
+ 
+    254.95  
+ 
+ 
+ This is the induced emf to supply the given load.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.4/example2_4.sce #
+ 
+ 
+ 
+ Consider separately excited generator as shown in the fig 2.30   
+ 
+ 
+ Note that 250V, 10kW generator means the full load capacity of generator is to 
+       supply 10kW load at a terminal voltage V_t=250 V                         
+ 
+ 
+ Therefore,    V_t=250V    and    P=10kW   
+ 
+ 
+ and,  P=(V_t)*(I_L)   
+ 
+ i  =
+ 
+    40.  
+ 
+ 
+ Therefore,    I_L(in A)=   
+ 
+    40.  
+ 
+ 
+ Therefore,    I_a=I_L= 40 A   ...As separately excited   
+ 
+ 
+ Now,  E=(V_t)+[(I_a)*(R_a)]+(V_brush)   
+ 
+ 
+ Now there are two brushes and brush drop is 2V/brush   
+ 
+ v  =
+ 
+    4.  
+ 
+ 
+ Therefore,    V_brush(in V)=   
+ 
+    4.  
+ 
+ 
+ Therefore,    E=250+40(R_a)+4   
+ 
+ 
+ But,  E=255 V on full load   
+ 
+ 
+ 255 = 250 + 40(R_a) + 4   
+ 
+ r  =
+ 
+    0.025  
+ 
+ 
+ Therefore,    R_a(in ohm)=   
+ 
+    0.025  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.5/example2_5.sce #
+ 
+ 
+ 
+ Consider the series generator as shown in fig 2.31   
+ 
+ 
+ R_a=0.5 ohm     and    R_se=0.03 ohm   
+ 
+ 
+ V_brush=2 V   
+ 
+ 
+ N=1500 rpm   
+ 
+ 
+ Total coils are 540 with 6 turns/coil.   
+ 
+ t  =
+ 
+    3240.  
+ 
+ 
+ Therefore,    Total turns =540*6=   
+ 
+    3240.  
+ 
+ 
+ Total conductors Z= 2* turns   
+ 
+ z  =
+ 
+    6480.  
+ 
+ 
+ z=2*3240=   
+ 
+    6480.  
+ 
+ 
+ Therefore,    E=(psi*P*N*Z)/(60*A)   
+ 
+ 
+ For lap type, A=P   
+ 
+ 
+ psi=2 mWb=2*10^-3 Wb   
+ 
+ e  =
+ 
+    324.  
+ 
+ 
+ Therefore,    E(in V)=   
+ 
+    324.  
+ 
+ 
+ E=(V_t)+(I_a)[(R_a)+(R_sc)]+(V_brush)     ..Total V_brush given   
+ 
+ 
+ Where,    I_a=I_L=50 A   
+ 
+ 
+ 324=(V_t)+50(0.5+0.03)+2   
+ 
+ v  =
+ 
+    295.5  
+ 
+ 
+ V_t(in V)=   
+ 
+    295.5  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.6/example2_6.sce #
+ 
+ 
+ 
+ Consider a short shunt generator as shown in the fig 2.32   
+ 
+ 
+ R_a=0.04 ohm,   R_sh=90 ohm,   R_se=0.02 ohm   
+ 
+ 
+ V_t=225 V ,   I_L=75 A   
+ 
+ 
+ I_a = I_L + I_sh   
+ 
+ 
+ Now,      E=(V_t)+[(I_a)*(R_a)]+[(I_L)*(R_se)]   
+ 
+ 
+ and drop across armature terminals is,   
+ 
+ 
+ E-[(I_a)*(R_a)]=(V_t)+[(I_t)*(R_se)]   
+ 
+ e  =
+ 
+    226.5  
+ 
+ 
+ Therefore,    E-[(I_a)*(R_a)]=   
+ 
+    226.5  
+ 
+ 
+ Therefore,    I_sh=[E-(I_a)(R_a)]/(R_sh)=[(V_t)+(I_L)(R_se)]/(R_sh)   
+ 
+ i  =
+ 
+    2.5166667  
+ 
+ 
+ 
+ Therefore,    I_sh(in A)=   
+ 
+    2.5167  
+ 
+ i  =
+ 
+    77.517  
+ 
+ 
+ Therefore,    I_a=I_L+I_sh=   
+ 
+    77.517  
+ 
+ 
+ Therefore,     E=V_t+[(I_a)*(I_sh)]+[(I_L)*(R_se)]   
+ 
+ e  =
+ 
+    229.6  
+ 
+ 
+ 
+ E(in V)=   
+ 
+    229.6  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.7/example2_7.sce #
+ 
+ 
+ 
+ V=200 V, I_a=30 A, R_a=0.75 ohm are the given values.   
+ 
+ 
+ For a motor,  V=(E_b)+[(I_a)*(R_a)]   
+ 
+ 
+ Therefore,    220=(E_b)+(30*0.75)   
+ 
+ e  =
+ 
+    197.5  
+ 
+ 
+ E_b(in V)=   
+ 
+    197.5  
+ 
+ 
+ This is the induced emf called back emf in a motor   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.8/example2_8.sce #
+ 
+ 
+ 
+ P=4,  A=P=4 as lap,  V=230 V,  Z=250   
+ 
+ 
+ psi=30mWb=30*10^-3 Wb,     I_a=40 A   
+ 
+ 
+ From voltage equation,    V=E_b+[(I_a)*(R_a)]   
+ 
+ 
+ 230=E_b+(40*0.6)   
+ 
+ e  =
+ 
+    206.  
+ 
+ 
+ Therefore,    E_b(in V)=   
+ 
+    206.  
+ 
+ 
+ E_b=(psi*P*N*Z)/(60*A)   
+ 
+ 
+ Therefore,    206=(4*N*250*30*10^-3)/(60*4)   
+ 
+ n  =
+ 
+    1648.  
+ 
+ 
+ N(in rpm)=   
+ 
+    1648.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.9/example2_9.sce #
+ 
+ 
+ 
+ P=4, A=P=4, Z=480   
+ 
+ 
+ psi=20mWb=20*10^-3 Wb, I_a=50 A   
+ 
+ t  =
+ 
+    76.32  
+ 
+ 
+ 
+ Now,  T_a(in N-m)=0.159*(psi)*(I_a)*(P*Z)/A=   
+ 
+    76.32  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.10/example2_10.sce #
+ 
+ 
+ 
+ P=4,  A=P=4   
+ 
+ 
+ Running light it is on no load.   
+ 
+ 
+ Therefore,    N_0=1000 rpm    Z=540   and  psi=25*10^-3 Wb   
+ 
+ e  =
+ 
+    225.  
+ 
+ 
+ Therefore,  E_b0(in V)=(psi*P*N*Z)/(60*A)=   
+ 
+    225.  
+ 
+ 
+ i)Induced emf,    E_b0=225 V   
+ 
+ 
+ ii) From voltage equation,    V=(E_b)+[(I_a)*(R_a)]   
+ 
+ 
+ V=(E_b0)+[(I_a0)*(R_a)]   
+ 
+ 
+ 230=225+[(I_a0)*0.8]   
+ 
+ i  =
+ 
+    6.25  
+ 
+ 
+ I_a0(in A)=   
+ 
+    6.25  
+ 
+ 
+ iii) On no load,power developed is fully the power required to overcome stray  
+      losses.                                                                   
+ 
+ e  =
+ 
+    1406.25  
+ 
+ 
+ 
+ Stray losses=(E_b0)*(I_a0)=   
+ 
+    1406.25  
+ 
+ t  =
+ 
+    13.4287  
+ 
+ 
+ 
+ T_f(in N-m)=[(E_b0)*(I_a0)]/(w_0)=   
+ 
+    13.429  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.11/example2_11.sce #
+ 
+ 
+ 
+ P=4,  Z=200,  A=2,  psi=25*10^-3 Wb   
+ 
+ 
+ (I_a)=(I_L)=60 A,     R_a=0.15ohm,    R_se=0.2 ohm   
+ 
+ 
+ V=(E_b)+(I_a*R_a)+(I_a*R_se)   
+ 
+ 
+ 250=E_b+60(0.15+0.2)   
+ 
+ b  =
+ 
+    229.  
+ 
+ 
+ E_b(in V)=   
+ 
+    229.  
+ 
+ 
+ Now,  E_b=(psi*P*N*Z)/(60*A)   
+ 
+ 
+ Therefore,    229=(25*(10^-3)*4*N*200)/(60*2)   
+ 
+ n  =
+ 
+    1374.  
+ 
+ 
+ Therefore, N(in rpm)=   
+ 
+    1374.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.12/example2_12.sce #
+ 
+ 
+ 
+ V=250 V,  I_L=20 A,   R_s=0.3ohm,  R_sh=200 ohm   
+ 
+ 
+ I_L=(I_a)+(I_sh)   
+ 
+ s  =
+ 
+    1.25  
+ 
+ 
+ (I_sh)[in A]=V/(R_sh)=   
+ 
+    1.25  
+ 
+ 
+ Therefore,    I_a=(I_L)-(I_sh)   
+ 
+ a  =
+ 
+    18.75  
+ 
+ 
+ I_a(in A)=20-1.25=   
+ 
+    18.75  
+ 
+ 
+ Now,  V=(E_b)+(I_a*R_a)   
+ 
+ 
+ Therefore,    E_b=V-[(I_a)*(R_a)]   
+ 
+ b  =
+ 
+    244.375  
+ 
+ 
+ 
+ E_b(in V)   
+ 
+    244.375  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.13/example2_13.sce #
+ 
+ 
+ 
+ Let no load,speed be N_0=1000 rpm   
+ 
+ 
+ I_L0=Line current on no load=6 A   
+ 
+ 
+ I_L0=(I_a0)+(I_sh)   
+ 
+ s  =
+ 
+    2.  
+ 
+ 
+ (I_sh)[in A]=V/(R_sh)=   
+ 
+    2.  
+ 
+ a  =
+ 
+    4.  
+ 
+ 
+ Therefore,  (I_a0)[in A]=(I_L0)-(I_sh)=   
+ 
+    4.  
+ 
+ 
+ Therefore, Back emf on no load E_b0 can be determined from the voltage equatio 
+      n.                                                                        
+ 
+ 
+ V=(E_b0)+[(I_a0)+(R_a)]   
+ 
+ 
+ Therefore,    220=(E_b0)+(4*0.3)   
+ 
+ b  =
+ 
+    218.8  
+ 
+ 
+ E_b0(in V)=   
+ 
+    218.8  
+ 
+ 
+ On full load condition,supply voltage is constant and hence,   
+ 
+ s  =
+ 
+    2.  
+ 
+ 
+ (I_sh)[in A]=V/(R_sh)=   
+ 
+    2.  
+ 
+ 
+ Now,(I_L)=(I_aFL)+(I_sh)   
+ 
+ 
+ Therefore,    50=(I_aFL)+2   
+ 
+ f  =
+ 
+    48.  
+ 
+ 
+ Therefore,  (I_aFL)[in A]=   
+ 
+    48.  
+ 
+ 
+ And,  V=(E_bFL)+[(I_aFL)*(R_a)]   
+ 
+ 
+ Therefore,    220=(E_bFL+(48*0.3))   
+ 
+ b  =
+ 
+    205.6  
+ 
+ 
+ Therefore,    (E_bFL)[in V]=   
+ 
+    205.6  
+ 
+ 
+ From the speed equation,   
+ 
+ 
+ N directly proportional to (E_b)/psi   
+ 
+ 
+ But psi is constant as I_sh is constant for both the load conditions   
+ 
+ 
+ Therefore,    (N_0)/(N_FL)=(E_b0)/(E_bFL)   
+ 
+ n  =
+ 
+    939.67093  
+ 
+ 
+ 
+ Therefore,    (N_FL)[in rpm]=[(N_0)*(E_bFL)]/(E_b0)=   
+ 
+    939.67  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.14/example2_14.sce #
+ 
+ 
+ 
+ For load 1, N1=800 rpm,   I1=(I_a1)=20A   
+ 
+ 
+ For load 2,   I2=(I_a2)=50 A,  R_a=0.2 ohm,   R_se=0.3 ohm   
+ 
+ 
+ From voltage equation V=(E_b1)+[(I_a1)*(R_a)]+[(I_se1)*(R_se)]   
+ 
+ 
+ but   I1=(I_a1)=(I_se1)=20 A   
+ 
+ 
+ Therefore,    250=(E_b1)+20(0.2+0.3)   
+ 
+ b  =
+ 
+    240.  
+ 
+ 
+ Therefore,    E_b1(in V)=   
+ 
+    240.  
+ 
+ 
+ and,  V=(E_b2)+[(I_a2)*R_a]+[(I_se2)+(R_se)]   
+ 
+ 
+ Therefore,    250=(E_b2)+50(0.2+0.3)   
+ 
+ b  =
+ 
+    225.  
+ 
+ 
+ E_b2(in V)=   
+ 
+    225.  
+ 
+ 
+ From the speed equation,   
+ 
+ 
+ N is directly proportional to (E_b)/psi   
+ 
+ 
+ Now,  psi proportional to (I_se) and (I_a)   
+ 
+ 
+ Therefore,    N1/N2=[(E_b1)*(psi_2)]/[(E_b2)*(psi_1)]   
+ 
+ 
+ Therefore,    N1/N2=[(E_b1)*(I_a2]/[(E_b2)*(I_a1)]   
+ 
+ n  =
+ 
+    300.  
+ 
+ 
+ Therefore,    N2(in rpm)=[(N1)*(E_b2)*(I_a1)]/[(E_b1)*(I_a2)]=   
+ 
+    300.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.15/example2_15.sce #
+ 
+ 
+ 
+ Consider the generator as shown in fig 2.61   
+ 
+ 
+ P=4,  A=P=4,  N=750 rpm,  psi=30 mWb=30*10^-3,    Z=720   
+ 
+ n  =
+ 
+    270.  
+ 
+ 
+ E(in V)=(psi*P*N*Z)/(60*A)=   
+ 
+    270.  
+ 
+ 
+ E=(V_t)+[(I_a)*(R*a)]   
+ 
+ 
+ (V_t)=(I_L)*(R_L)     i.e.    I_L=(V_t)/(R_L)   
+ 
+ 
+ And,  I_sh=(V_t)/(R_sh)   
+ 
+ 
+ I_a=(I_L)+(I_sh)=[(V_t)/(R_L)]+[(V_t)/(R_sh)]   
+ 
+ 
+ Substituting in voltage equation,   
+ 
+ 
+ E=(V_t)+[(V_t)/(R_L)+(V_t)/(R_sh)]*(R_a)   
+ 
+ 
+ Therefore,    270=(V_t)+[(V_t)/(15)+(V_t)/(200)]*(0.4)   
+ 
+ 
+ 270=1.0286(V_t)   
+ 
+ v  =
+ 
+    262.49271  
+ 
+ 
+ 
+ V_t(in V)=   
+ 
+    262.4927  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.16/example2_16.sce #
+ 
+ 
+ 
+ No load current I=2.5 A,   
+ 
+ n  =
+ 
+    1100.  
+ 
+ 
+ No load input(in W)= (V*I)=   
+ 
+    1100.  
+ 
+ s  =
+ 
+    0.8  
+ 
+ 
+ I_sh(in A)=V/R_sh=   
+ 
+    0.8  
+ 
+ 
+ In dc shunt motor,    I=(I_sh)+(I_a)   
+ 
+ a  =
+ 
+    1.7  
+ 
+ 
+ I_a(in A)=I-(I_sh)=   
+ 
+    1.7  
+ 
+ p  =
+ 
+    3.468  
+ 
+ 
+ 
+ No load armature copper loss(in watts)= (R_a)*(I_a)^2=   
+ 
+    3.468  
+ 
+ 
+ Constant losses= No load input- No lpad armature Cu losses   
+ 
+ c  =
+ 
+    1097.  
+ 
+ 
+ 
+ Therefore,    Constant losses(in Z)=   
+ 
+    1096.532  
+ 
+ 
+ Now, full load line current i.e I=32 A   
+ 
+ 
+ I=(I_sh)+(I_a)   
+ 
+ a  =
+ 
+    31.2  
+ 
+ 
+ I_a(in A)=I-(I_sh)=   
+ 
+    31.2  
+ 
+ p  =
+ 
+    1168.128  
+ 
+ 
+ Full load armature copper loss=(R_a)*(I_a)^2=   
+ 
+    1168.128  
+ 
+ 
+ Total losses= Full load armature Cu loss + Constant losses   
+ 
+ l  =
+ 
+    2264.66  
+ 
+ 
+ Therefore, Total losses(in W)=   
+ 
+    2264.66  
+ 
+ v  =
+ 
+    14080.  
+ 
+ 
+ Full load motor input(in W)= V*I =   
+ 
+    14080.  
+ 
+ v  =
+ 
+    11815.34  
+ 
+ 
+ Full load motor output(in W)= Input-Losses=   
+ 
+    11815.34  
+ 
+ d  =
+ 
+    83.91577  
+ 
+ 
+ 
+ % efficiency at full load= [(Full load Output)/(full load input)]*100=   
+ 
+    83.92  
+ 
+ 
+ Therefore,    Efficiency of motor at full load = 83.91%   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.17/example2_17.sce #
+ 
+ 
+ 
+ R_a=0.08 ohm, E_b1=242 V   
+ 
+ 
+ i)    V=(E_b1)+[(I_a1)*(R_a)]   
+ 
+ 
+ Therefore,    250=242+[(I_a1)*0.08]   
+ 
+ a  =
+ 
+    100.  
+ 
+ 
+ I_a1(in A)=   
+ 
+    100.  
+ 
+ 
+ ii)   At start,   N=0 hence E_b=0   
+ 
+ a  =
+ 
+    3125.  
+ 
+ 
+ (I_a(start))[in A]=V/(R_a)=   
+ 
+    3125.  
+ 
+ 
+ iii)  If  (I_a2)=120 A then,   
+ 
+ b  =
+ 
+    240.4  
+ 
+ 
+ E_b2(in V)=V-[(I_a2)*(R_a)]=   
+ 
+    240.4  
+ 
+ 
+ iv)   Machine is running as a generator, shown in the fig 2.62   
+ 
+ 
+ Let induced emf as generator be E_g   
+ 
+ g  =
+ 
+    256.96  
+ 
+ 
+ 
+ E_g(in V)=(V_t)+[(I_a)*(R_a)]=   
+ 
+    256.96  
+ 
+ 
+ In both cases as a motor or genrator E is directly prportional to (N*psi)   
+ 
+ 
+ As flux is constant,  E is directly proportional to N   
+ 
+ 
+ Therefore,    (E_b/E_g)=(N_m/N_g)   
+ 
+ 
+ where     N_m= Speed as a motor   and    N_g= Speed as a generator   
+ 
+ 
+ Therefore,    (242/256.96)=(1500/N_g)   
+ 
+ n  =
+ 
+    1592.7  
+ 
+ 
+ N_g(in rpm)=   
+ 
+    1592.7  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.18/example2_18.sce #
+ 
+ 
+ 
+ V=200 V, I_a1=30 A   
+ 
+ 
+ Resistance across terminals=(R_a)+(R_se)=1.5 ohm   
+ 
+ b  =
+ 
+    155.  
+ 
+ 
+ Therefore,    E_b1(in V)=V-[(I_a1)*(R_a-R_se)]=   
+ 
+    155.  
+ 
+ 
+ N2=0.6(N1)   
+ 
+ 
+ Therefore,    (N1/N2)=(1/0.6)   
+ 
+ 
+ Use torque equation,   
+ 
+ 
+ T is directly proportional to (psi*I_a) and (I_a)^2   
+ 
+ 
+ as  ...  psi is directly proportional to I_a   
+ 
+ 
+ Therefore,    (T1/T2)=[(I_a1)/(I_a2)]^2   ..(1)   
+ 
+ 
+ Also T is directly proportional to N^3 given,   
+ 
+ 
+ (T1/T2)=(N1/N2)^3=(1/0.6)^3   ..(2)   
+ 
+ 
+ Equatimg equation (1) and (2),  (1/0.6)^3 = (30/I_a2)^2   
+ 
+ a  =
+ 
+    13.94274  
+ 
+ 
+ 
+ Therefore,    I_a2(in A)=   
+ 
+    13.9427  
+ 
+ 
+ E_b2=V-[(I_a2)*(R_a+R_se+R_x)]=200-13.9427(1.5+R_x)   ..(3)   
+ 
+ 
+ Use speed equation,   N directly proportional to [(E_b)/psi] and [(E_b)/(I_a)] 
+              ... psi id directly proportional to I_a                           
+ 
+ 
+ Therefore,    (N1/N2)=[(E_b1)/(E_b2)]*[(I_a2)/(I_a1)]   
+ 
+ 
+ Therefore,    (1/0.6)=(155/E_b2)*(13.9427/30)   
+ 
+ b  =
+ 
+    43.2224  
+ 
+ 
+ 
+ E_b2(in V)=   
+ 
+    43.22  
+ 
+ 
+ Equating equations (3) and (4), 43.22=200-13.9427(1.5+R_x)   
+ 
+ r  =
+ 
+    9.745  
+ 
+ 
+ R_x(in ohm)=   
+ 
+    9.745  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.19/example2_19.sce #
+ 
+ 
+ 
+ No load current = I_L0 = 4 A   
+ 
+ s  =
+ 
+    1.  
+ 
+ 
+ I_sh[in A]=V/(R_sh)=   
+ 
+    1.  
+ 
+ a  =
+ 
+    3.  
+ 
+ 
+ Therefore,  I_a0(in A)=(I_L0)-(I_sh)=   
+ 
+    3.  
+ 
+ r  =
+ 
+    2.7  
+ 
+ 
+ Therefore,    No. load armature copper loss(in W)=[(I_a0)^2*(R_a)]=   
+ 
+    2.7  
+ 
+ o  =
+ 
+    1000.  
+ 
+ 
+ No load input(in W) = V*I_L0 =   
+ 
+    1000.  
+ 
+ c  =
+ 
+    997.3  
+ 
+ 
+ Constant losses(in W) = No load input-No load armature copper loss=   
+ 
+    997.3  
+ 
+ 
+ On full load,     I_L=60 A and I_sh=1 A   
+ 
+ j  =
+ 
+    59.  
+ 
+ 
+ Therefore,    I_a(in A)=(I_L)-(I_sh)=   
+ 
+    59.  
+ 
+ l  =
+ 
+    1044.3  
+ 
+ 
+ Full load armature copper loss(in W)= (I_a^2)*R_a=   
+ 
+    1044.3  
+ 
+ l  =
+ 
+    3038.9  
+ 
+ 
+ Total loss on full load=constant losses+ [(I_a)^2*(R_a) loss]=   
+ 
+    3038.9  
+ 
+ 
+ Total input on full load = V*(I_L)   
+ 
+ l  =
+ 
+    15000.  
+ 
+ 
+ Therefore,    P_in(in W)=   
+ 
+    15000.  
+ 
+ p  =
+ 
+    12958.4  
+ 
+ 
+ 
+ (P_out)[in W]=(P_in)-Total loss=   
+ 
+    12958.4  
+ 
+ n  =
+ 
+    86.3893  
+ 
+ 
+ 
+ % efficiency(n)=[(P_out)*100]/(P_in)=   
+ 
+    86.389  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.20/example2_20.sce #
+ 
+ 
+ 
+ P=6, Z=780, E_g=500V, N=1000 rpm   
+ 
+ 
+ a) Lap wound,  A=P=6   
+ 
+ 
+ (E_g)=(psi*P*N*Z)/(60*A)   i.e.   500=(psi*6*1000*780)/(60*6)   
+ 
+ s  =
+ 
+    0.0384615  
+ 
+ 
+ 
+ Therefore,  psi(in Wb)=   
+ 
+    0.03846  
+ 
+ 
+ b) Wave wound,  A=2   
+ 
+ 
+ (E_g)=(psi*P*N*Z)/(60*A)   i.e.   500=(psi*6*1000*780)/(60*2)   
+ 
+ s  =
+ 
+    0.01282  
+ 
+ 
+ Therefore,  psi(in Wb)=   
+ 
+    0.01282  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.21/example2_21.sce #
+ 
+ 
+ 
+ P=6, psi=0.02 Wb, N=1000 rpm, A=P as lap wound   
+ 
+ z  =
+ 
+    780.  
+ 
+ 
+ Z=slots*conductors/slot=   
+ 
+    780.  
+ 
+ g  =
+ 
+    260.  
+ 
+ 
+ E_g(in V)=(psi*P*N*Z)/(60*A)=   
+ 
+    260.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.22/example2_22.sce #
+ 
+ 
+ 
+ P=4, A=2, psi=0.0121 Wb, Z=792, E_g=240 V   
+ 
+ 
+ (E_g)=(psi*P*N*Z)/(60*A)   i.e.   240=(0.0121*4*N*792)/(60*2)   
+ 
+ n  =
+ 
+    751.3148  
+ 
+ 
+ 
+ Therefore,      N(in rpm)=   
+ 
+    751.3148  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.23/example2_23.sce #
+ 
+ 
+ 
+ The generator is shown in the fig 2.64   
+ 
+ 
+ The current through R_se is I_L=80 A as the generator is short shunt.   
+ 
+ 
+ The drop across R_sh is the sum of the drop across R_se and V_t   
+ 
+ 
+ [(I_sh)*(R_sh)]=(V_t)+[(I_L)*(R_se)]   
+ 
+ 
+ i.e   100(I_sh)=250+(80*0.03)   
+ 
+ p  =
+ 
+    2.524  
+ 
+ 
+ 
+ (I_sh)[in A]=   
+ 
+    2.524  
+ 
+ a  =
+ 
+    82.52  
+ 
+ 
+ 
+ (I_a)[in A]=(I_L)+(I_sh)=   
+ 
+    82.524  
+ 
+ g  =
+ 
+    258.53  
+ 
+ 
+ 
+ E_g(in V)=(V_t)+[(I_a)*(R_a)]+[(I_L)*(R_se)]+Brush drop   
+ 
+    258.5262  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.24/example2_24.sce #
+ 
+ 
+ 
+ P=4, Lap hence A=P, N=1150 rpm, E_g=265 V   
+ 
+ n  =
+ 
+    336.  
+ 
+ 
+ Total turns=No. of coils*turns/coil=   
+ 
+    336.  
+ 
+ z  =
+ 
+    672.  
+ 
+ 
+ Therefore,    Z=2*total turns=   
+ 
+    672.  
+ 
+ 
+ E_g=(psi*P*N*Z)/(60*A)  i.e  265=(psi*4*1150*672)/(60*A)   
+ 
+ s  =
+ 
+    0.0205745  
+ 
+ 
+ Therefore,  psi(in Wb)=   
+ 
+    0.0205745  
+ 
+ 
+ Number of commutator bars=Number of coils=56   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.25/example2_25.sce #
+ 
+ 
+ 
+ For a d.c. generator,   
+ 
+ 
+ E_g=(psi*N*P*Z)/(60*A)    i.e    E_g is directly proportional to (psi*N)       
+      ... (P*Z)/(60*A) is constant                                              
+ 
+ 
+ N1=1000 rpm, (psi_1)=0.02 Wb, (E_g1)-200 V, N2=1100 rpm, (psi_2)=0.019 Wb   
+ 
+ 
+ [(E_g1)/(E_g2)]=[(N1*psi_1)/(N2*psi_2)]  i.e  [(200)/(E_g2)]=[(1000*0.02)/(110 
+      0*0.019)]                                                                 
+ 
+ g  =
+ 
+    209.  
+ 
+ 
+ Therefore,  E_g2(in V)=   
+ 
+    209.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.26/example2_26.sce #
+ 
+ 
+ 
+ P=4, V=240 V, A=2 as wave, N=1000 rpm, P_out=11.19 kW   
+ 
+ 
+ I_a=50 A, I_sh=50 A, R_a=0.1 ohm, Z=540   
+ 
+ 
+ a) E_b=V-[(I_a)(R_a)]-Brush drop   
+ 
+ b  =
+ 
+    233.  
+ 
+ 
+ E_b(in V)=   
+ 
+    233.  
+ 
+ t  =
+ 
+    111.24931  
+ 
+ 
+ 
+ Therefore,  T(in Nm)=[(E_b)(I_a)]/w=[(E_b)(I_a)]/[(2*pi*N)/60]=   
+ 
+    111.2493  
+ 
+ t  =
+ 
+    106.8566  
+ 
+ 
+ b)  T_sh(in Nm)=useful torque=(P_out)/w=   
+ 
+    106.8566  
+ 
+ 
+ c) E_b=(psi*P*N*Z)/(60*A)    i.e    233=(psi*4*100*540)/(60*2)   
+ 
+ p  =
+ 
+    0.012944  
+ 
+ 
+ 
+ Therefore,    psi(in Wb)=   
+ 
+    0.013  
+ 
+ 
+ Rotational losses= (T-T_sh)*w= (T-T_sh)*(2*pi*N)/60   
+ 
+ i  =
+ 
+    460.  
+ 
+ 
+ 
+ Therefore, Rotational losses(in W)=   
+ 
+   460.  
+ 
+ p  =
+ 
+   ****  
+ 
+ 
+ 
+ P_in(in W)=V*(I_L)=V*(I_a+I_sh)=   
+ 
+    12240.  
+ 
+ n  =
+ 
+    91.422  
+ 
+ 
+ 
+ % efficiency =[(P_out)*100]/(P_in)=   
+ 
+    91.42  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.27/example2_27.sce #
+ 
+ 
+ 
+ V=250 V, N_0=1000 rpm, I_L0=5 A, R_a=0.2 ohm, R_sh=250 ohm   
+ 
+ i  =
+ 
+    1.  
+ 
+ 
+ I_sh(in A)=(V/R_sh)=   
+ 
+    1.  
+ 
+ i  =
+ 
+    4.  
+ 
+ 
+ Therefore, I_a0(in A)=(I_L0)-(I_sh)=   
+ 
+    4.  
+ 
+ e  =
+ 
+    249.2  
+ 
+ 
+ E_b0(in V)=V-[(I_a0)(R_a)]=   
+ 
+    249.2  
+ 
+ 
+ on load, I_L1=50 A, (psi_1)=(psi_0)-(3% of (psi_0))=0.97(psi_0)   
+ 
+ 
+ I_sh remains constant as long as V and R_sh are constant.   
+ 
+ i  =
+ 
+    49.  
+ 
+ 
+ I_a1(in A)=(I_L1)-(I_sh)=   
+ 
+    49.  
+ 
+ e  =
+ 
+    240.2  
+ 
+ 
+ E_b1(in V)=V-[(I_a1)(R_a)]=   
+ 
+    240.2  
+ 
+ 
+ N is directly proportional to (E_b/psi)   ...Speed equation   
+ 
+ 
+ [(N_0)/N1]=[(E_b0)*(psi_1)]/[(E_b1)*(psi_0)]  i.e.  [(1000)/N1]=[(249.2)*(0.97 
+      *psi_0)]/[(240.2)*(psi_0)]                                                
+ 
+ n  =
+ 
+    993.69529  
+ 
+ 
+ 
+ Therefore,  N(in rpm)=   
+ 
+    993.6953  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.28/example2_28.sce #
+ 
+ 
+ 
+ P=6, A=2 as wave, Z=492, psi=30 mWb, I_a=40 A   
+ 
+ 
+ T=(psi*P*Z*I_a)/(2*pi*A)  Nm   
+ 
+ t  =
+ 
+    281.89524  
+ 
+ 
+ 
+ Therefore, T(in Nm)=   
+ 
+    281.8952  
+ 
+ 
+ as 1N=(1/9.81)kg   
+ 
+ t  =
+ 
+    28.73549  
+ 
+ 
+ 
+ Therefore, T(in kgm)=   
+ 
+    28.7355  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.29/example2_29.sce #
+ 
+ 
+ 
+ P=4, N=1000 rpm, 80slots, psi=6*10^-2 Wb, 8 conductors/slot   
+ 
+ 
+ A=P=4     ... Lap connected   
+ 
+ z  =
+ 
+    640.  
+ 
+ 
+ Z= Slots*conductors/slot=   
+ 
+    640.  
+ 
+ e  =
+ 
+    64.  
+ 
+ 
+ E_g(in V)=(psi*P*N*Z)/(60*A)=   
+ 
+    64.  
+ 
+ 
+ As coils are lap connected, parallel paths are 4 and all conductors in each pa 
+      rallel path are in series, carrying a current of 50 A                     
+ 
+ a  =
+ 
+    200.  
+ 
+ 
+ Therefore,  I_a(in A)=A*current per parallel path=4*50=   
+ 
+    200.  
+ 
+ p  =
+ 
+    128000.  
+ 
+ 
+ P(in W)=Electrical power output=[(E_g)*(I_a)]=   
+ 
+    128000.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.30/example2_30.sce #
+ 
+ 
+ 
+ The generator is shown in the fig. 2.66   
+ 
+ 
+ I_L=50 A, V_L=500 V       ...Given   
+ 
+ i  =
+ 
+    2.  
+ 
+ 
+ I_sh(in A)=(V_t)/(R_sh)=   
+ 
+    2.  
+ 
+ a  =
+ 
+    52.  
+ 
+ 
+ Therefore, I_a(in A)=(I_L)+(I_sh)=2+50=   
+ 
+    52.  
+ 
+ 
+ This is the armature current   
+ 
+ e  =
+ 
+    506.16  
+ 
+ 
+ Therefore, E_g(in V)=(V_t)+[(I_a)*(R_a)]+[(I_a)*(R_se)]+Brush drop =   
+ 
+    506.16  
+ 
+ 
+ This is generated voltage.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.31/example2_31.sce #
+ 
+ 
+ 
+ P=8, N=400 rpm, psi=40 mWb, Z=960   
+ 
+ 
+ a) Lap wound, A=P=8   
+ 
+ e  =
+ 
+    256.  
+ 
+ 
+ E_g(in V)=(psi*P*N*Z)/(60*A)=   
+ 
+    256.  
+ 
+ 
+ b) Wave connected, A=2, E_g =400 V   
+ 
+ 
+ Therefore, (E_g)=(psi*P*N*Z)/(60*A)  i.e.  400=[(40*10^-3)*8*N*960]/(60*2)   
+ 
+ n  =
+ 
+    156.25  
+ 
+ 
+ Therefore,  N(in rpm)=   
+ 
+    156.25  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.32/example2_32.sce #
+ 
+ 
+ 
+ V=250 V, (R_a)=0.3 ohm, (I_L)=20 A, (R_sh)=200 ohm   
+ 
+ s  =
+ 
+    1.25  
+ 
+ 
+ I_sh(in A)=V/(R_sh)=   
+ 
+    1.25  
+ 
+ a  =
+ 
+    18.75  
+ 
+ 
+ I_a(in A)=(I_L)-(I_sh)=   
+ 
+    18.75  
+ 
+ b  =
+ 
+    244.375  
+ 
+ 
+ 
+ E_b(in V)=V-[(I_a)(R_a)]=   
+ 
+    244.375  
+ 
+ m  =
+ 
+    4582.03  
+ 
+ 
+ 
+ P_m(in W)=[(E_b)*(I_a)]=   
+ 
+    4582.0313  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.33/example2_33.sce #
+ 
+ 
+ 
+ The generator is shown in the fig 2.67   
+ 
+ s  =
+ 
+    2.5  
+ 
+ 
+ I_sh(in A)=(V_t)/(I_sh)=   
+ 
+ l  =
+ 
+    50.  
+ 
+ 
+ I_L(in A)=(P_L)/(V_t)=   
+ 
+    50.  
+ 
+ a  =
+ 
+    52.5  
+ 
+ 
+ Therefore,  I_a(in A)=(I_L)+(I_sh)=   
+ 
+    52.5  
+ 
+ 
+ Brush drop is 1V per brush hence total brush drop = 2V   
+ 
+ e  =
+ 
+    505.675  
+ 
+ 
+ 
+ a)  E_g(in V)=(V_t)+[(I_a)*(R_a)]+[(I_a)*(R_se)]+(V_brush)=500+[52.5*(0.03+0.0 
+      4)]+2=                                                                    
+ 
+    505.675  
+ 
+ a  =
+ 
+    82.6875  
+ 
+ 
+ b)  Armature copper loss(in W) = [(I_a)^2]*(R_a) =[(52.5)^2]*(0.03) =   
+ 
+    82.6875  
+ 
+ s  =
+ 
+    110.25  
+ 
+ 
+ Series field copper loss(in W) =[(I_a)^2]*(R_se) =[(52.5)^2]*(0.04) =   
+ 
+    110.25  
+ 
+ c  =
+ 
+    1250.  
+ 
+ 
+ Shunt field copper loss(in W) =[(I_sh)^2]*(R_sh) =[(2.5)^2]*(200) =   
+ 
+    1250.  
+ 
+ p  =
+ 
+    26547.9  
+ 
+ 
+ 
+ P_in(in W)= (E_g)*(I_a)=   
+ 
+    26547.9375  
+ 
+ 
+ P_out = 25W   
+ 
+ t  =
+ 
+    26522.9375  
+ 
+ 
+ 
+ Therefore,  Total losses(in W) = (P_in)-(P_out) =   
+ 
+    26522.938  
+ 
+ 
+ Now total losses = Copper losses + Iron losses   
+ 
+ 
+ Therefore,  1547.9375 = 82.6875 + 110.25 + 1250 + Iron losses   
+ 
+ i  =
+ 
+    105.  
+ 
+ 
+ 
+ Therefore,  Iron losses(in W)=   
+ 
+   105.  
+ 
+ n  =
+ 
+    94.  
+ 
+ 
+ 
+ %efficiency(n) =[(P_out)/(P_in)]*100 =   
+ 
+    94.1693  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.34/example2_34.sce #
+ 
+ 
+ 
+ i) As a generator   
+ 
+ 
+ (P_out)=20 kW, (V_t)=250 V   
+ 
+ i  =
+ 
+    80.  
+ 
+ 
+ I_L(in A)=(P_out)/(V_t)=   
+ 
+    80.  
+ 
+ s  =
+ 
+    2.  
+ 
+ 
+ I_sh(in A)=(V_t)/(R_sh)=   
+ 
+    2.  
+ 
+ a  =
+ 
+    82.  
+ 
+ 
+ Therefore,  I_a(in A)=(I_L)+(I_sh)=   
+ 
+    82.  
+ 
+ e  =
+ 
+    258.2  
+ 
+ 
+ E_g(in V)= (V_t)+[(I_a)*(R_a)]=   
+ 
+    258.2  
+ 
+ p  =
+ 
+    21172.4  
+ 
+ 
+ 
+ P_g(in W)=(E_g)*(I_a)=   
+ 
+    21172.  
+ 
+ 
+ ii) As a motor   
+ 
+ 
+ (P_in)=20 kW, V=250 V   
+ 
+ i  =
+ 
+    80.  
+ 
+ 
+ Therefore, I_L(in A)=(P_in)/V=   
+ 
+    80.  
+ 
+ s  =
+ 
+    2.  
+ 
+ 
+ I_sh(in A)=V/(R_sh)=   
+ 
+    2.  
+ 
+ a  =
+ 
+    78.  
+ 
+ 
+ Therefore, I_a(in A)=(I_L)-(I_sh)=   
+ 
+    78.  
+ 
+ b  =
+ 
+    242.2  
+ 
+ 
+ Therefore, E_b(in V)=V-[(I_a)*(R_a)]=   
+ 
+    242.2  
+ 
+ a  =
+ 
+    18892.  
+ 
+ 
+ 
+ P_a(in W)=[(E_b)*(I_a)]=   
+ 
+    18891.6  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.35/example2_35.sce #
+ 
+ 
+ 
+ P=4, N=750 rpm, (E_g)=240 V, A=2 as wave, Z=792   
+ 
+ 
+ (E_g)=(psi*P*N*Z)/(60*A)  i.e.  240=(psi*4*750*792)/(60*2)   
+ 
+ p  =
+ 
+    0.0121212  
+ 
+ 
+ 
+ Therefore, psi(in Wb)=   
+ 
+    0.01212  
+ 
+ 
+ Lamda= Leakage coefficient = (Total flux)/(Useful flux)   
+ 
+ l  =
+ 
+    1.19637  
+ 
+ 
+ 
+ Therefore, lamda = 0.0145/0.01212 =   
+ 
+    1.196  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH2/EX2.36/example2_36.sce #
+ 
+ 
+ 
+ (P_out)=1500 kW, (V_t)=550 V, P=10, A=P as lap, N=150 rpm, Z=2500, (P_cu)=25 k 
+      W, B=0.9 Wb/m^2                                                           
+ 
+ i  =
+ 
+    2727.2727  
+ 
+ 
+ 
+ I_L(in A)=(P_out)/(V_t)=   
+ 
+    2727.2727  
+ 
+ 
+ As R_sh is not given, neglect I_sh hence (I_a)=2727.2727 A   
+ 
+ 
+ a)  P_cu = Armature copper loss = [(I_a)^2]*(R_a)   
+ 
+ 
+ 25*10^3 = (2727.2727)^2 * (R_a)   
+ 
+ a  =
+ 
+    0.0033611  
+ 
+ 
+ 
+ Therefore, (R_a)[in ohm]=   
+ 
+    0.003361  
+ 
+ e  =
+ 
+    559.1666  
+ 
+ 
+ Therefore, E_g(in V)=(V_t)+[(I_a)*(R_a)]=   
+ 
+    559.1666  
+ 
+ 
+ This is load terminal voltage.   
+ 
+ 
+ b) (E_g)=(psi*P*N*Z)/(60*A)  i.e.  559.1667=(psi*10*150*2500)/(60*10)   
+ 
+ p  =
+ 
+    0.089467  
+ 
+ 
+ 
+ Therefore, psi(in Wb)=   
+ 
+    0.08947  
+ 
+ 
+ Now, B=(psi)/A  i.e  0.9=(0.08946)/A   
+ 
+ a  =
+ 
+    0.0994  
+ 
+ 
+ Therefore, A(in m^2)=   
+ 
+    0.0994  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.1/example3_1.sce #
+ 
+ 
+ 
+ (B_m)=1 Wb/m^2, E1=240 V, E/turn=8 V, f=50 Hz   
+ 
+ 
+ E1=E/turn * N1        i.e.     240=8*N1   
+ 
+ 
+ Therefore, N1=30   
+ 
+ 
+ Therefore, N1/N2=E1/E2  i.e  30/N2=240/2400   
+ 
+ 
+ N2=300   
+ 
+ 
+ E1=4.44*(psi_m)*f*N1      i.e.     240=4.44*(psi_m)*50*30   
+ 
+ p  =
+ 
+    0.0360360  
+ 
+ 
+ 
+ Therefore, (psi_m)[in Wb]=   
+ 
+    0.03604  
+ 
+ a  =
+ 
+    0.03636  
+ 
+ 
+ (B_m)=(psi_m)/a     i.e.      a(in m^2)=(psi_m)/(B_m)=   
+ 
+    0.03636  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.2/example3_2.sce #
+ 
+ 
+ 
+ f=50 Hz, N1=480, N2=20, E1=5400 V   
+ 
+ 
+ E1=4.44*f*(psi_m)*N1      i.e.     5400=4.44*50*(psi_m)*480   
+ 
+ p  =
+ 
+    0.0506757  
+ 
+ 
+ 
+ Therefore, (psi_m)[in Wb]=   
+ 
+    0.0507  
+ 
+ 
+ E1/E2=N1/N2  i.e.  E2=(N2*E1)/N1=(20*5400)/480   
+ 
+ e  =
+ 
+    225.  
+ 
+ 
+ Therefore, E2(in V)=   
+ 
+    225.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.3/example3_3.sce #
+ 
+ 
+ 
+ The given values are, (I_0)=10 A, cos(psi_0)=0.25, V1=400 V and f=50Hz   
+ 
+ 
+ a) (I_m)=(I_0)*sin(psi_0)=Magnetising component   
+ 
+ p  =
+ 
+    75.522488  
+ 
+ 
+ 
+ (psi_0)[in degree]=   
+ 
+    75.522  
+ 
+ i  =
+ 
+    9.6824  
+ 
+ 
+ I_m(in A)=,x   
+ 
+    9.6824  
+ 
+ 
+ (P_i)=Iron loss = Power input on no load   
+ 
+ 
+ = (W_0)= [(V1)*(I_0)*cos(psi_0)]= 400*10*0.25   
+ 
+ w  =
+ 
+    1000.  
+ 
+ 
+ P_i(in W)=   
+ 
+    1000.  
+ 
+ 
+ c) On no load, E1=V1=400 V and N1=500   
+ 
+ 
+ E1=4.44*f*(psi_ m)*N1   
+ 
+ 
+ Therefore, 400=4.44*50*(psi_m)*500   
+ 
+ i  =
+ 
+    0.0036  
+ 
+ 
+ 
+ Therefore, (psi_m)[in Wb]=   
+ 
+    0.003604  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.4/example3_4.sce #
+ 
+ 
+ 
+ The given values are,   
+ 
+ 
+ (I_0)=1 A, cos(psi_0)=0.4, I2=50 A, and cos(psi_2)=0.8   
+ 
+ k  =
+ 
+    0.5  
+ 
+ 
+ K=E2/E1=   
+ 
+    0.5  
+ 
+ k  =
+ 
+    25.  
+ 
+ 
+ Therefore, I2'(in A)=K*I2=   
+ 
+    25.  
+ 
+ 
+ The angle of (I2') is to be decided from cos(psi_2)=0.8   
+ 
+ 
+ Now, cos(psi_2)=0.8   
+ 
+ p  =
+ 
+    36.869898  
+ 
+ 
+ 
+ Therefore, (psi_2)[in degree]=   
+ 
+    36.87  
+ 
+ 
+ I2' is in antiphase with I2 which lags E2 by 36.86 degree   
+ 
+ 
+ Consider the phasor diagram shown in the fig 3.18. The fluz (psi) is the refer 
+      ence                                                                      
+ 
+ 
+ Now cos(psi_0)=0.4   
+ 
+ c  =
+ 
+    66.42  
+ 
+ 
+ Therefore, psi_0(in degree)   
+ 
+    66.42  
+ 
+ 
+ vector(I1)=vector(I2')+vector(I_0)   
+ 
+ 
+ Resolve (I_0) and (I2') into two components, along reference (psi) and in quad 
+      rature with (psi) in phase with V1.                                       
+ 
+ x  =
+ 
+    0.917  
+ 
+ 
+ 
+ x component of (I_0)=(I_0)*sin(psi_0)=   
+ 
+    0.9165  
+ 
+ x  =
+ 
+    0.4000  
+ 
+ 
+ 
+ y component of (I_0)=(I_0)*(psi_0)=   
+ 
+    0.4  
+ 
+ 
+ Therefore, vector(I_0)=0.9165+j(0.4) A   
+ 
+ i  =
+ 
+    15.  
+ 
+ 
+ 
+ x component of I2'(in A)=I2'*sin(psi_2)=   
+ 
+    14.997  
+ 
+ i  =
+ 
+    20.  
+ 
+ 
+ y component of I2'(in A)=I2'*cos(psi_2)=   
+ 
+    20.  
+ 
+ 
+ Thus the two component of I1 are as shown in the fig 3.18(c)   
+ 
+ io  =
+ 
+    25.875  
+ 
+ 
+ I1(in A)=sqrt[((15.9165)^2)+(20.4)^2]=   
+ 
+    25.875  
+ 
+ 
+ This is the primary current magnitude.   
+ 
+ 
+ while tan(phi_1)=15.9165/20.4   
+ 
+ t  =
+ 
+    37.962  
+ 
+ 
+ Therefore, (psi_1)[in degree]=   
+ 
+    37.962  
+ 
+ 
+ Hence the primary power factor is,   
+ 
+ i  =
+ 
+    0.7884  
+ 
+ 
+ cos(psi_1)[lagging]=cos(37.96)=   
+ 
+    0.7884  
+ 
+ 
+ Key point: Remember that (psi_1) is angle between V1 and I1 and as V1 is verti 
+      cal, (psi_1) is measured with respect V1. So do not convert rectangular t 
+      o polar as it goes angle with respect to x-axis and we want it with respe 
+      ct to y-axis.                                                             
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.5/example3_5.sce #
+ 
+ 
+ 
+ The given values are, R1=2.5 ohm, R2=0.01 ohm   
+ 
+ k  =
+ 
+    0.0606061  
+ 
+ 
+ K=400/6600=   
+ 
+    0.0606061  
+ 
+ 
+ While finding eqivalent resistance referred to primary, transfer R2 to primary 
+       as R2',                                                                  
+ 
+ r  =
+ 
+    2.7230446  
+ 
+ 
+ R2'(in ohm)=R2/K^2=   
+ 
+    2.7230446  
+ 
+ r  =
+ 
+    5.2225  
+ 
+ 
+ 
+ Therefore, (R_1e)[in ohm]=R1+R2'=   
+ 
+    5.2225  
+ 
+ 
+ It can be observed that primary is high voltage hence high resistance side hen 
+      ce while transferring R2 from low  voltage to R2' on high voltage, its va 
+      lue increses.                                                             
+ 
+ 
+ To find total equivalent resistance referred to secondary, first calculate R1' 
+      ,                                                                         
+ 
+ r  =
+ 
+    0.0092  
+ 
+ 
+ 
+ R1'(in ohm)=(K^2)*R1=(0.0606^2)*2.5=   
+ 
+    0.00918  
+ 
+ r  =
+ 
+    0.01918  
+ 
+ 
+ (R_2e)(in ohm)=R2*R1'=0.01*0.00918=   
+ 
+    0.01918  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.6/example3_6.sce #
+ 
+ 
+ 
+ R1=1 ohm, R2=2 ohm, X1=3 ohm, X2=5 ohm   
+ 
+ k  =
+ 
+    0.5  
+ 
+ 
+ K=V2/V1=   
+ 
+    0.5  
+ 
+ r  =
+ 
+    9.  
+ 
+ 
+ Therefore, (R_1e)[in ohm]=R1+R2'=R1+(R2/K^2)=   
+ 
+    9.  
+ 
+ x  =
+ 
+    23.  
+ 
+ 
+ Therefore, (X_1e)[in ohm]=X1+X2=X1+(X2/K^2)=   
+ 
+    23.  
+ 
+ z  =
+ 
+    24.698178  
+ 
+ 
+ 
+ Therefore, (Z_1e)[in ohm]=sqrt((R_1e^2)+(X_1e^2))=   
+ 
+    24.6982  
+ 
+ r  =
+ 
+    2.25  
+ 
+ 
+ Therefore, (R_2e)[in ohm]=(K^2)*(R_1e)=   
+ 
+    2.25  
+ 
+ x  =
+ 
+    5.75  
+ 
+ 
+ and, (X_2e)[in ohm]=(K^2)*(X_1e)=   
+ 
+    5.75  
+ 
+ z  =
+ 
+    6.17453  
+ 
+ 
+ 
+ Therefore, (Z_2e)[in ohm]=sqrt((R_2e^2)+(X_2e^2))=(K^2)*(Z_1e)=   
+ 
+    6.1745  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.7/example3_7.sce #
+ 
+ 
+ 
+ The given values are, R1=0.2 ohm, R2=0.05 ohm, X1=0.75 ohm, X2=0.2 ohm, cos(ps 
+      i)=0.8 leading                                                            
+ 
+ k  =
+ 
+    0.5  
+ 
+ 
+ E2/E1=   
+ 
+    0.5  
+ 
+ i  =
+ 
+    40.  
+ 
+ 
+ (I2)(F.L)[in A]=(kVA)/V2=   
+ 
+    40.  
+ 
+ r  =
+ 
+    0.1  
+ 
+ 
+ R_2e(in ohm)=R2+(K^2)*R1=   
+ 
+    0.1  
+ 
+ x  =
+ 
+    0.3875  
+ 
+ 
+ 
+ X_2e(in ohm)=X2+(K^2)*X1=   
+ 
+    0.3875  
+ 
+ 
+ i) Regulation on full load, cos(psi)=0.8 leading   
+ 
+ 
+ sin(psi)=0.6   
+ 
+ 
+ Therefore, %R=[(I2)*(R_2e)*cos(psi)-(I2)*(X_2e)*sin(psi)]/E2 * 100,       ..I2 
+      =I2(FL)=40 A                                                              
+ 
+ 
+  = (40*0.1*0.8-40*0.3875*0.6)/125 * 100   
+ 
+ r  =
+ 
+  - 4.88  
+ 
+ 
+ 
+  =    
+ 
+  - 4.88  
+ 
+ 
+ ii) On full load, 0.8 p.f. leading the total voltage drop is,   
+ 
+ 
+ Voltage drop(in V) = I2(FL)[(R_2e)cos(psi)-(X_2e)sin(psi)]   
+ 
+ v  =
+ 
+  - 6.1  
+ 
+ 
+ 
+  =    
+ 
+  - 6.1  
+ 
+ 
+ Therefore, E2-V2= -6.1  i.e.  125-V2= -6.1   
+ 
+ v  =
+ 
+   131.  
+ 
+ 
+ 
+ Therefore, V2(in V)= Secondary terminal voltage = 125+ 6.1 =   
+ 
+    131.1  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.8/example3_8.sce #
+ 
+ 
+ 
+ The given values are, V1=200 V, V2=400 V, S=4 kVA, (R_1e)=0.15 ohm, P1= 60 W   
+ 
+ k  =
+ 
+    2.  
+ 
+ 
+ K=400/200=   
+ 
+    2.  
+ 
+ r  =
+ 
+    0.6  
+ 
+ 
+ Therefore, (R_2e)[in ohm]=(K^2)(R_1e)=   
+ 
+    0.6  
+ 
+ i  =
+ 
+    10.  
+ 
+ 
+ I2(FL)[in A]=(kVA)/V2=   
+ 
+    10.  
+ 
+ 
+ i) Total copper losses on full load,   
+ 
+ p  =
+ 
+    60.  
+ 
+ 
+ (P_cu)(FL)[in W]=[I2(FL)]^2 * (R_2e) =(10^2)*0.6 =   
+ 
+    60.  
+ 
+ 
+ ii) cos(psi)=0.9 lagging and full load   
+ 
+ 
+ Therefore, %n = [(VA rating cos(psi))/(VA rating cos(psi)+(P_i)+(P_cu)FL)]*100 
+ 
+ n  =
+ 
+    96.774194  
+ 
+ 
+ 
+ Therefore, n(% efficiency)=(4*0.9*10^3)/((4*0.9*10^3)+60+60) * 100 =   
+ 
+    96.77  
+ 
+ 
+ iii) cos(psi)=0.8 leading, half load   
+ 
+ 
+ As half load, n=0.5   
+ 
+ p  =
+ 
+    15.  
+ 
+ 
+ (P_cu)(HL)[in W]=(n^2)*[(P_cu)(FL)]=(10.5^2)*60 =   
+ 
+    15.  
+ 
+ 
+ Therefore, %n = [n*(VA rating cos(psi))/(n*VA rating cos(psi)+(P_i)+(P_cu)FL)] 
+      *100                                                                      
+ 
+ n  =
+ 
+    95.52  
+ 
+ 
+  =    
+ 
+    95.52  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.9/example3_9.sce #
+ 
+ 
+ 
+ (P_i)=1.2 kW, (P_cu)(FL)=1.5 kW, kVA=100   
+ 
+ n  =
+ 
+    89.442719  
+ 
+ 
+ 
+ i) kVA for (n_max)=kVA*sqrt((P_i)/(P_cu))=   
+ 
+    89.4427  
+ 
+ 
+ ii) For n_max, (P_cu)=(P_i)=-1.2 kW   
+ 
+ 
+ Therefore, %(n_max)=[(kVA for n_max)*cos(psi)]/[(kVA for n_max)*cos(psi)+2(P_i 
+      )]*100      ..cos(psi)=1                                                  
+ 
+ n  =
+ 
+    97.3868  
+ 
+ 
+ 
+ %eta_max(in percentage) =    
+ 
+    97.387  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.10/example3_10.sce #
+ 
+ 
+ 
+ 20 kVA, N_max=0.98 at 15 kVA and cos(psi)=1, (P_i)=350 W   
+ 
+ 
+ Load at n_max=kVA*sqrt(P_i/P_cu)   
+ 
+ 
+ Therefore, 15=20*sqrt(350/P_cu)   i.e.    
+ 
+ p  =
+ 
+    622.22222  
+ 
+ 
+ 
+ P_cu(FL)[in W]=   
+ 
+    622.222  
+ 
+ 
+ i) %n at cos(psi)=0.8 lag, full load   
+ 
+ 
+ %n(FL)= [VA cos(psi) *100]/[(VA cos(psi))+(P_cu(FL))+(P_i)]=[20*10^3*(0.8) *10 
+      0]/[(20*10^3*(0.8))+(622.222)+(350)]                                      
+ 
+ n  =
+ 
+    94.2717  
+ 
+ 
+ 
+ =    
+ 
+    94.272  
+ 
+ 
+ ii) %n at cos(psi)=1 , full load   
+ 
+ n  =
+ 
+    95.364  
+ 
+ 
+ 
+ %n(FL)=(20*10^3*1*100)/((20*10^3*1)+622.222+350)=   
+ 
+    95.3642  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.11/example3_11.sce #
+ 
+ 
+ 
+ From O.C. test we can write,   
+ 
+ 
+   Wo = P1 = 50 W = Iron loss   
+ 
+ 
+ From S.C. test we can find the parameters of eqivalent circuit. Now S.C. test  
+      is conducted on H.V. side i.e. meters are on H.V. side which is tranforme 
+      r secondary. Hence parameters from S.C. test results will be refered to s 
+      econdary.                                                                 
+ 
+ 
+ V_sc = 15 V,  I_sc = 30 A,  W_sc = 100 W   
+ 
+ r2e  =
+ 
+    0.0111111  
+ 
+ 
+ 
+ Therefore,  R_2e (in ohm)= W_sc / (I_sc)^2 =   
+ 
+    0.011  
+ 
+ z1e  =
+ 
+    0.5  
+ 
+ 
+ 
+   Z_1e(in ohm) = V_sc / I_sc =   
+ 
+    0.5  
+ 
+ x2e  =
+ 
+    0.5  
+ 
+ 
+ 
+ Therefore,  X_2e(in ohm) = sqrt(Z_2e^2 - R_2e^2) =   
+ 
+    0.4875  
+ 
+ 
+ (i) Copper loss on full load   
+ 
+ i2  =
+ 
+    40.  
+ 
+ 
+ 
+ (I2)F.L (in A)= VA rating / V2 =   
+ 
+   40.  
+ 
+ 
+ In short circuit test, I_sc = 30 A and not equal to full load value 40 A   
+ 
+ 
+ Hence W_sc does not give copper loss on full load.   
+ 
+ 
+ Therefore,  W_sc = P_cu at 30 A = 100 W   
+ 
+ 
+ Now  P_cu  directly proprotional to  I^2   
+ 
+ 
+ Therefore,  P_cu at 30 A / P_cu at 40 A = (30/40)^2   
+ 
+ 
+ Therefore,  100 / P_cu at 40 A = 900/1600   
+ 
+ pcu  =
+ 
+   ***  
+ 
+ 
+ 
+ Therefore,  P_cu at 40 A (in W)=    
+ 
+    177.78  
+ 
+ 
+ Therefore,  (P_cu)F.L = 177.78 W   
+ 
+ 
+ (ii) Full load eta,  cos(phi2) = 0.8   
+ 
+ 
+ %eta on full load = V2(I2)F.L.*cos(phi2)*100 / V2(I2)F.L.*cos(phi2)+Pi+(P_cu)F 
+      .L                                                                        
+ 
+ n  =
+ 
+    97.232  
+ 
+ 
+ 
+ = (250*40*0.8*100)/((250*40*0.8)+50+177.78) =    
+ 
+    97.23  
+ 
+ 
+ iii) Half load eta, cos(phi_2)=0.8   
+ 
+ 
+ n=0.5 as half load,  (I2)[H.L.]=40/2 =20 A   
+ 
+ 
+ Therefore, %eta on full load = V2(I2)H.L.*cos(phi2)*100 / V2(I2)H.L.*cos(phi2) 
+      +Pi+(n^2)(P_cu)F.L                                                        
+ 
+ 
+ = n*(VA rating)*cos(phi2)*100 / n*(VA rating)*cos(phi2)+Pi+(P_cu)F.L   
+ 
+ 
+ = 0.5*10*10^3*0.8*100/(0.5*10*10^3*0.8)+50+(0.5^2)*177.78   
+ 
+ n  =
+ 
+    98.15  
+ 
+ 
+  =    
+ 
+    98.15  
+ 
+ 
+ iv) Regulation at full load, cos(phi)=0.9 leading   
+ 
+ 
+ %R = (I2)F.L.*(R_2e)*cos(phi)-(I2)F.L.*(X_2e)*sin(phi)*100/V2   
+ 
+ r  =
+ 
+  - 1.801  
+ 
+ 
+ 
+  = (40*0.111*0.9)-(40*0.4875*0.4358)*100/250 =   
+ 
+  - 1.8008  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.12/example3_12.sce #
+ 
+ 
+ 
+ R1=0.9 ohm, R2=0.03 ohm, X1=5 ohm, X2=0.13 ohm   
+ 
+ 
+ K=N2/N1=1/6 as N1:N2 is 6:1   
+ 
+ r  =
+ 
+    0.055  
+ 
+ 
+ 
+ Therefore, (R_2e)[in ohm]=R2+R1'=R2+(K^2)*R1=0.03+(1/6)^2*0.9=   
+ 
+    0.055  
+ 
+ x  =
+ 
+    0.269  
+ 
+ 
+ 
+ (X_2e)[in ohm]=X2+X1'=X2+(K^2)*X1=0.13+(5*(1/6)^2)=   
+ 
+    0.26889  
+ 
+ 
+ I_sc = 200 A   
+ 
+ 
+ (Z_2e)=(V_sc)/(I_sc)  i.e.  sqrt((R_2e^2)+(X_2e^2))=(V_sc)/200   
+ 
+ v  =
+ 
+    54.888  
+ 
+ 
+ V_sc(in V)=200*0.27444=   
+ 
+    54.888  
+ 
+ v  =
+ 
+    329.337  
+ 
+ 
+ i) V1(in V)=(V_sc)/K=54.8895/(1/6)=   
+ 
+    329.337  
+ 
+ 
+ (W_sc)=(V_sc)*(I_sc)*cos(phi_sc)    and    (W_sc)=(I_sc^2)*(R_2e)   
+ 
+ 
+ Therefore, (200^2)*0.055 = 54.8895*200*cos(phi_sc)   
+ 
+ s  =
+ 
+    0.20040  
+ 
+ 
+ 
+ Therefore, cos(phi_sc)[lagging]=   
+ 
+    0.2  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.13/example3_13.sce #
+ 
+ 
+ 
+ Given values are, P_i=2.5 kW, (P_cu)F.L. = 3.5kW, 400 kVA   
+ 
+ 
+ Iron losses are constant for 24 hours. So energy spent due to iron lossses for 
+       24 hours is,                                                             
+ 
+ p  =
+ 
+    60.  
+ 
+ 
+ P_i(in kWh)=2.5*24 hours=   
+ 
+    60.  
+ 
+ 
+ Total energy output in a day from given load cycle is,   
+ 
+ e  =
+ 
+    4200.  
+ 
+ 
+ Energy output (in kWh)= (300*6 hours)+(200*10 hours)+(100*4 hours)=   
+ 
+    4200.  
+ 
+ 
+ To calculate energy spent due to copper loass,   
+ 
+ 
+ i)Load 1 of 300 kW at cos(phi)=0.8   
+ 
+ k  =
+ 
+    375.  
+ 
+ 
+ Therefore, kVA supplied = kW/cos(phi) =300/0.8=   
+ 
+    375.  
+ 
+ n  =
+ 
+    0.9375  
+ 
+ 
+ 
+ Therefore, n=(load kVA)/(kVA rating)=375/400=   
+ 
+    0.9375  
+ 
+ 
+ Copper losses are proportional to square of kVA ratio i.e. n^2   
+ 
+ l  =
+ 
+    3.0762  
+ 
+ 
+ 
+ Therefore, Load 1 P_cu = n^2*(P_cu)F.L. =(0.9375)^2*3.5=   
+ 
+    3.076  
+ 
+ e  =
+ 
+    18.46  
+ 
+ 
+ 
+ Energy spent(in kWh)=3.076*6 hours=   
+ 
+    18.456  
+ 
+ 
+ ii) Load 2 of 200 kW at cos(phi)=0.7   
+ 
+ k  =
+ 
+    285.71  
+ 
+ 
+ 
+ Therefore, kVA supplied=(kW)/cos(phi)=200/0.7=   
+ 
+    285.7143  
+ 
+ n  =
+ 
+    0.714286  
+ 
+ 
+ 
+ n=(Load kVA)/(kVA rating)=   
+ 
+    0.7143  
+ 
+ p  =
+ 
+    1.7853  
+ 
+ 
+ Therefore, Load 2 P_cu(in kW)= n^2*(P_cu)F.L.= (0.7142^2)*3.5=   
+ 
+    1.7853  
+ 
+ p  =
+ 
+    17.857  
+ 
+ 
+ Therefore, Energy spent(in kWh)= 1.7857*10 =    
+ 
+    17.857  
+ 
+ 
+ iii) Load 3 of 100 kW at cos(phi)=0.9   
+ 
+ k  =
+ 
+    111.11  
+ 
+ 
+ 
+ Therefore, kVA supplied=kW/cos(phi)=100/0.9=   
+ 
+    111.111  
+ 
+ n  =
+ 
+    0.27778  
+ 
+ 
+ 
+ Therefore, n=111.111/400=   
+ 
+    0.2778  
+ 
+ p  =
+ 
+    0.2701  
+ 
+ 
+ Therefore, Load 3 P_cu(in kW)= n^2*(P_cu)F.L.=(0.2778^2)*3.5=    
+ 
+    0.2701  
+ 
+ e  =
+ 
+    1.0804  
+ 
+ 
+ Therefore, Energy spent(in kWh)=0.2701*4=   
+ 
+    1.0804  
+ 
+ 
+ iv) No load hence negligible copper losses.   
+ 
+ t  =
+ 
+    97.394  
+ 
+ 
+ 
+ Therefore, Total energy spent = Energy spent due to [Iron losses + Total coppe 
+      r loss]= 60+18.457+17.857+1.0804 =                                        
+ 
+    97.3944  
+ 
+ 
+ and Total output = 4200 kWh   
+ 
+ 
+ Therefore, All day eta= (Total output for 24 hours)/(Total output for 24 hours 
+      +Total energy spent for 24 hours)                                         
+ 
+ n  =
+ 
+    97.7336  
+ 
+ 
+ 
+ = 4200*100/(4200+97.3944) =    
+ 
+    97.73  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.14/example3_14.sce #
+ 
+ 
+ 
+ eta % =98% ,S= 200 kVA, cos(phi)=0.8, Iron loss=200 W   
+ 
+ 
+ Therefore, eta % = (200*10^3 *0.8*100)/(200*10^3 *0.8+2000+copper loss)   
+ 
+ 
+ 0.98[200*10^3 *0.8+2000+copper loss]=200*10^3 *0.8   
+ 
+ c  =
+ 
+    5265.3061  
+ 
+ 
+ 
+ i)Copper loss at full load(in watt)=   
+ 
+    5265.306  
+ 
+ 
+ ii)Half load copper loss(in watt) = (n^2)*(W_cu)full load      where n=0.5 as  
+      half load                                                                 
+ 
+ x  =
+ 
+    316.3265  
+ 
+ 
+ 
+ =(0.5^2)*1265.306 =   
+ 
+    316.327  
+ 
+ 
+ Efficiency at half load = (100*10^3 *0.8*100)/(100*10^-3 *0.8+2000+316.326)   
+ 
+ n  =
+ 
+    97.1861  
+ 
+ 
+ 
+ eta % =    
+ 
+    97.186  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.15/example3_15.sce #
+ 
+ 
+ x  =
+ 
+    200000.  
+ 
+ 
+ a)The output power at full load(in watt)=   
+ 
+    200000.  
+ 
+ 
+ THe input power at full load =(200*10^3)/0.98135   
+ 
+ 
+ The total loss = Input-Output   
+ 
+ t  =
+ 
+    3800.8865  
+ 
+ 
+ 
+ =    
+ 
+    3800.89  
+ 
+ 
+ Therefore, P_i + P_c = 3800.88        (i)   
+ 
+ 
+ where     P_i= Iron loss  ,P_c = Full load copper loss   
+ 
+ p  =
+ 
+    100000.  
+ 
+ 
+ The power output at half load=125*10^3 *0.8=   
+ 
+    100000.  
+ 
+ 
+ The power input at half load = (100*10^3)/0.97751   
+ 
+ x  =
+ 
+    102302.  
+ 
+ 
+ Total loss = (100*10^3)/0.9775 - 100*10^3 =   
+ 
+    102302.  
+ 
+ 
+ (P_i)+ (0.5^2)*(P_c) = 2300.74   
+ 
+ 
+ (P_i)+ (0.25)*(P_c) = 2300.74         (ii)   
+ 
+ 
+ From equations (i) and (ii),   
+ 
+ 
+ 0.75*(P_i)=3800.88-2300.74   
+ 
+ p  =
+ 
+    2000.19  
+ 
+ 
+ Therefore, P_i(in watt)=   
+ 
+    2000.19  
+ 
+ z  =
+ 
+    1800.7  
+ 
+ 
+ P_c(in watt)=   
+ 
+    1800.7  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.16/example3_16.sce #
+ 
+ 
+ 
+ 100 kVA, 1000 V/ 10000 V, P_i=1200 W, cos(phi)=0.8, P_cu on I2 = 6A is 500W, X 
+      _2e=10 ohm                                                                
+ 
+ 
+ For eta_max, P_cu=(P_i)=1200 W   
+ 
+ i  =
+ 
+    10.  
+ 
+ 
+ (I_2)F.L.[in A] = VA rating/V2 = (100*10^3)/10000 =    
+ 
+    10.  
+ 
+ 
+ Therefore, P_cu on any load/(P_cu)F.L. = [I2 load/I2 F.L]^2   ...As (P_cu) dir 
+      ectly proportional I^2                                                    
+ 
+ 
+ Therefore, 500/(P_cu)F.L. = (6/10)^2   
+ 
+ p  =
+ 
+    1388.8889  
+ 
+ 
+ 
+ Therefore, (P_cu)F.L.[in W] =    
+ 
+    1388.89  
+ 
+ k  =
+ 
+    92.9519  
+ 
+ 
+ kVA at eta_max = (kVA rating)*sqrt(P_i/(P_cu)F.L) = 100*sqrt(1200/1388.88) =   
+ 
+    92.9519  
+ 
+ 
+ Therefore, % eta_max = (kVA for n_max cos(phi)*100)/(kVA for n_max cos(phi)+2P 
+      _i)                                                                       
+ 
+ n  =
+ 
+    96.8734  
+ 
+ 
+ = (92951.8*0.8*100)/((92951.8*0.8)+(2*1200)) =    
+ 
+    96.8734  
+ 
+ i  =
+ 
+    9.29519  
+ 
+ 
+ 
+ (I_2m) at eta_max [in A]= (I_2)F.L. * sqrt(P_i/(P_cu)F.L.) =    
+ 
+    9.2952  
+ 
+ 
+ Therefore, (P_cu) at eta_max = P_i = (I_2m)^2 * R_2e   
+ 
+ 
+ Therefore, 1200 = (9.2951^2)*R_2e   
+ 
+ r  =
+ 
+    13.889  
+ 
+ 
+ Therefore, R_2e[in ohm] =    
+ 
+    13.889  
+ 
+ 
+ % R = (I_2m)[R_2e cos(phi)+(X_2e)sin(phi) *100]/V2   
+ 
+ po  =
+ 
+    6.6099  
+ 
+ 
+ 
+ = (9.2951*((13.889*0.8)+(10*10*0.6))*100)/10000 =    
+ 
+    6.61  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.17/example3_17.sce #
+ 
+ 
+ 
+ 5 kVA, 2300/230 V, P_i=40 W, (P_cu)F.L. =112 W, cos(phi)=0.8   
+ 
+ 
+ Sr.    kVA      n=Fraction of full load        New P_cu=        %eta=n[Total V 
+      A]cos(phi)/n[Total VA]cos(phi)+P_i+New P_cu *100                          
+ 
+ 
+ No.   output     =Actual kVA/total kVA       n^2 P_cu(F.L.)    
+ 
+ 
+ 1     1.25        0.25                              7                   95.51% 
+ 
+ 
+ 2      2.5        0.5                               28                  96.711 
+      %                                                                         
+ 
+ 
+ 3     3.75        0.75                              63                  96.668 
+      %                                                                         
+ 
+ 
+ 4       5          1                                112                 96.339 
+      %                                                                         
+ 
+ 
+ 5     6.25        1.25                              175                 95.877 
+      %                                                                         
+ 
+ 
+ 6     7.5         1.5                               252                 95.359 
+      %                                                                         
+ 
+ 
+    
+ 
+ 
+ The efficiency against kVA output curve is shown in the fig. 3.28   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.18/example3_18.sce #
+ 
+ 
+ 
+ 50 kVA, V1=2400 V, V2=240 V, N2=23   
+ 
+ k  =
+ 
+    0.1  
+ 
+ 
+ K=N2/N1=1/10=   
+ 
+ i  =
+ 
+    208.33333  
+ 
+ 
+ 
+ (I_2)F.L. = VA/V2 = (50*10^3)/240 =   
+ 
+    208.333  
+ 
+ r  =
+ 
+    1.152  
+ 
+ 
+ R_L (in ohm)=V2/(I_2)F.L. = 240/208.333=    
+ 
+    1.152  
+ 
+ 
+ From the e.m.f equation,   
+ 
+ 
+ 240 = 4.44*50*phi*23   
+ 
+ p  =
+ 
+    0.04700  
+ 
+ 
+ 
+ Therefore, phi_m(in Wb)=   
+ 
+    0.047  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.19/example3_19.sce #
+ 
+ 
+ 
+ E1=2300 V, E2=230 V, f=50 Hz, B_m=1.1 Wb/m^2 , A=0.05 m^2   
+ 
+ 
+ B_m=(phi_m)/A     i.e     1.1=(phi_m)/0.05   
+ 
+ p  =
+ 
+    0.055  
+ 
+ 
+ 
+ Therefore, (phi_m)[in Wb]=   
+ 
+    0.055  
+ 
+ 
+ E1=4.44(phi_m)*f*N1   i.e.    2300=4.44*0.055*50*N1   
+ 
+ n  =
+ 
+    188.4  
+ 
+ 
+ 
+ Therefore,N1 =    
+ 
+    188.37  
+ 
+ 
+ E2=4.44(phi_m)*f*N2   i.e.    230=4.44*0.055*50*N2   
+ 
+ n  =
+ 
+    18.837  
+ 
+ 
+ Therefore, N2 =    
+ 
+    18.837  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.20/example3_20.sce #
+ 
+ 
+ 
+ 150 kVA, P_i=1.4 kW, P_cu(FL)=1.6 kW   
+ 
+ k  =
+ 
+    140.31215  
+ 
+ 
+ 
+ a) kVA for eta_max = kVA*sqrt(P_i/P_cu(FL))=    
+ 
+    140.3122  
+ 
+ 
+ For maximum efficieny, P_cu=P_i=1.4kW and cos(phi)=1   
+ 
+ 
+ Therefore, %eta_max=(VA for eta_max *cos(phi))/(VA for eta_max*cos(phi)+2P_i * 
+      100                                                                       
+ 
+ n  =
+ 
+    98.04349  
+ 
+ 
+ 
+ = (140.3121*1000*100)/(140312.1+(2*1.4*1000)) =    
+ 
+    98.043  
+ 
+ 
+ b) At half load, n=0.5, cos(phi)=0.8   
+ 
+ 
+ Therefore, %eta_HL = (n*VA*cos(phi)*100)/(n*VA*cos(phi)+P_i+[n^2 *P_cu(FL)])   
+ 
+ n  =
+ 
+    97.087  
+ 
+ 
+ = (0.5*150*1000*0.8*100)/((0.5*150*1000*0.8)+(1.4*10^3)+(1.6*1000*0.5^2))) =   
+ 
+    97.087  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.21/example3_21.sce #
+ 
+ 
+ 
+ E1=1900 V, E2=240 V, f=50Hz, B_m=1.5 Wb/m^2, emf/turn = E1/N1 = E2/N2   
+ 
+ 
+ Therefore, 1.5=1900/N1=240/N2   
+ 
+ n  =
+ 
+    1266.6667  
+ 
+ 
+ 
+ Therefore, N1=   
+ 
+    1266.67  
+ 
+ n  =
+ 
+    160.  
+ 
+ 
+ and, N2=   
+ 
+    160.  
+ 
+ 
+ E1=4.44*(phi_m)*f*N1  i.e.  1900=4.44(phi_m)*50*1267   
+ 
+ p  =
+ 
+    0.00675  
+ 
+ 
+ 
+ Therefore, (phi_m)[in Wb]=   
+ 
+    0.006755  
+ 
+ 
+ (B_m)=(phi_m)/A  i.e.  1.5=(6.7567*10^-3)/A   
+ 
+ a  =
+ 
+    0.004504  
+ 
+ 
+ 
+ Therefore, A(in m^2)=   
+ 
+    0.0045045  
+ 
+ i  =
+ 
+    41.666667  
+ 
+ 
+ 
+ I2(in A)=Output VA/E2 = (10*10^3)/240 =    
+ 
+    41.667  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.22/example3_22.sce #
+ 
+ 
+ 
+ %eta_FL = 96%, cos(phi)=0.8, %eta_HL =97.2%, cos(phi)=1   
+ 
+ 
+ %eta_FL=(VA *cos(phi))/(VA *cos(phi)+P_i+P_cu(FL))*100    i.e.  0.96=((259*10^ 
+      3)*0.8)/((250*10^3)*0.8+P_i+P_cu(FL))                                     
+ 
+ 
+ Therefore, P_i+P_cu(FL)=8333.333      ...(1)   
+ 
+ 
+ %eta_HL=(n*VA*cos(phi))/(n*VA*cos(phi)+P_i+(n^2)*P_cu(FL)) *100       ...n=0.5 
+       for half load                                                            
+ 
+ 
+ Therefore, 97.2=(0.5*250*(10^3)*1)/(0.5*250*(10^3)*1+P_i+(0.5^2)*P_cu(FL)) *10 
+      0                                                                         
+ 
+ 
+ Therefore, P_i+(0.5^2)*P_cu(FL)=3600.823      ..(2)   
+ 
+ 
+ Solving equations (1) and (2),   
+ 
+ 
+ 3600.823-(0.5^2)*P_cu(FL)+P_cu(FL)=8333.333   
+ 
+ 
+ 0.75*(P_cu)FL=8333.333-3600.823   
+ 
+ p  =
+ 
+    6310.0133  
+ 
+ 
+ 
+ P_cu(FL)[in W]=   
+ 
+    6310.013  
+ 
+ p  =
+ 
+    2023.32  
+ 
+ 
+ 
+ P_i(in W)=   
+ 
+    2023.32  
+ 
+ 
+ At 75% of full load, n=0.75 and cos(phi)=0.8   
+ 
+ 
+ Therefore, %eta=(n*VA*cos(phi))/(n*VA*cos(phi)+P_i+(n^2)*P_cu(FL)) *100   
+ 
+ 
+ =(0.75*2508(10^3)*0.8)/(0.75*250*(10^3)*0.8+2023.319+(0.75^2)*6310.013)) *100  
+ 
+ n  =
+ 
+    96.41794  
+ 
+ 
+ 
+ =    
+ 
+    96.4179  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.23/example3_23.sce #
+ 
+ 
+ 
+ V_0=220 V, I_0=0.5 A, W_0=30 W, R1=0.6ohm   
+ 
+ 
+ W_0=(V_0)*(I_0)*cos(phi_0)    i.e.    cos(phi_0)=30/(220*0.5)   
+ 
+ c  =
+ 
+    0.2727273  
+ 
+ 
+ 
+ Therefore, cos(phi_0)=   
+ 
+    0.27273  
+ 
+ p  =
+ 
+    1.29458i  
+ 
+ 
+ i.e.  (phi_0)[in degree]=   
+ 
+    1.29458i  
+ 
+ k  =
+ 
+    0.5  
+ 
+ 
+ a) K=Turns ratio=Secondary voltage/Primary voltage=110/220=   
+ 
+    0.5  
+ 
+ i  =
+ 
+    0.13636  
+ 
+ 
+ b) I_m(in A)=(I_0)*cos(phi_0)=0.5*0.27272=   
+ 
+    0.13636  
+ 
+ i  =
+ 
+    0.48105  
+ 
+ 
+ 
+ I_c(in A)=(I_0)*sin(phi_0)=0.5*sin(74.1733)=   
+ 
+    0.481  
+ 
+ p  =
+ 
+    29.85  
+ 
+ 
+ P_i(in W)=Iron loss=(W_0)-No load copper loss=(W_0)-(I_0^2)*R1=   
+ 
+    29.85  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.24/example3_24.sce #
+ 
+ 
+ 
+ 50 kVA, P_i=500 W, P_cu(FL)=600 W   
+ 
+ 
+ a)    cos(phi)=1, Full load   
+ 
+ n  =
+ 
+    97.847358  
+ 
+ 
+ 
+ Therefore, %eta=(VA*cos(phi))/(VA*cos(phi)+P_i+P_cu(FL)) *100=(50*(10^3)*1*100 
+      )/((50*10^3)*1+500+600)=                                                  
+ 
+ k  =
+ 
+    45.644  
+ 
+ 
+ 
+ b) kVA at eta_max= kVA*sqrt(P_i/P_cu(FL))=50*sqrt(500/600)=    
+ 
+    45.6435  
+ 
+ i  =
+ 
+    125.  
+ 
+ 
+ I_2(FL)[in A]=VA/V2=(50*10^3)/400=   
+ 
+    125.  
+ 
+ i  =
+ 
+    114.109  
+ 
+ 
+ 
+ I_2m(in A)=I_2(FL)*sqrt(P_i/P_cu(FL))=   
+ 
+    114.1089  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.25/example3_25.sce #
+ 
+ 
+ 
+ N1=400, N2=1000, A=60 cm^2, f=50 Hz, E1=520 V   
+ 
+ 
+ a) E1=4.44*(phi_m)*f*N1   i.e.    520=4.44*(phi_m)*50*400   
+ 
+ p  =
+ 
+    0.0058559  
+ 
+ 
+ 
+ Therefore, (phi_m)[in Wb]=    
+ 
+    0.005856  
+ 
+ b  =
+ 
+    0.975967  
+ 
+ 
+ 
+ Therefore, (B_m)[in Wb/m^2]=(phi_m)/A=    
+ 
+    0.9760  
+ 
+ k  =
+ 
+    2.5  
+ 
+ 
+ b) K=N2/N1=1000/400=    
+ 
+    2.5  
+ 
+ 
+ c) N2/N1=E2/E1   i.e.    1000/400=E2/520   
+ 
+ e  =
+ 
+    1300.  
+ 
+ 
+ Therefore, E2(in V)=   
+ 
+    1300.  
+ 
+ e  =
+ 
+    1.3  
+ 
+ 
+ d) E1/turns=E1/N1=520/400=   
+ 
+    1.3  
+ 
+ e  =
+ 
+    1.3  
+ 
+ 
+ E2/turns=E2/N2=1300/1000=   
+ 
+    1.3  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.26/example3_26.sce #
+ 
+ 
+ 
+ From O.C. test, P_i=Iron losses=75 W   
+ 
+ 
+ From S.C. test, V_sc=9.5 V, I_sc=20A, W_sc=110 W   
+ 
+ 
+ The meters are on H.V. side i.e. primary hence,   
+ 
+ z  =
+ 
+    0.475  
+ 
+ 
+ 
+ Z_1e(in ohm)=(V_sc)/(I_sc)=   
+ 
+    0.475  
+ 
+ r  =
+ 
+    0.275  
+ 
+ 
+ R_1e(in ohm)=(W_sc)/(I_sc)^2=   
+ 
+    0.275  
+ 
+ x  =
+ 
+    0.387  
+ 
+ 
+ 
+ Therefore, (X_1e)[in ohm]=sqrt((Z_1e^2)-(R_1e^2))=   
+ 
+    0.3873  
+ 
+ i  =
+ 
+    20.  
+ 
+ 
+ I1(FL)[in A]=I_sc=VA/V1=(8*10^3)/400=   
+ 
+    20.  
+ 
+ 
+ Therefore, (W_sc)[in W]=(P_cu)(FL)=110 W    ...Copper losses on full load   
+ 
+ 
+ For   cos(phi)=0.8,  sin(phi)=0.6   
+ 
+ 
+ Therefore, %R = I1(FL)*100*[R_1e*cos(phi)+X_1e*sin(phi)]   
+ 
+ r  =
+ 
+    2.2619  
+ 
+ 
+  = 20*100*[0.275*0.8+0.3873*0.6]/400=    
+ 
+    2.2619  
+ 
+ 
+ %eta_FL= VA*cos(phi)/(VA*cos(phi)+P_i+P_cu(FL))*100   
+ 
+ n  =
+ 
+    97.191  
+ 
+ 
+ 
+ = ((8*10^3)*0.8*100)/((8*0.8*10^3)+75+110)=    
+ 
+    97.19  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH3/EX3.27/example3_27.sce #
+ 
+ 
+ 
+ Load distribution in hours is as give in the table.   
+ 
+ 
+ P_i=Iron loss=1.6 kW, P_cu(FL)=3.02 kW   
+ 
+ 
+ As iron losses are constant for 24 hours, energy spent due to iron losses,   
+ 
+ p  =
+ 
+    38.4  
+ 
+ 
+ P_i(in kWh)=1.6*24=    
+ 
+    38.4  
+ 
+ e  =
+ 
+    1280.  
+ 
+ 
+ Energy Output(in kWh)= (6*160)+(4*80)+(1*0) =    
+ 
+    1280.  
+ 
+ 
+ To calulate energy spent due to copper loss:   
+ 
+ 
+ Load 1: 160 kW, cos(phi)=0.8   
+ 
+ k  =
+ 
+    200.  
+ 
+ 
+ Therefore, kVA=kW/cos(phi)=160/0.8=   
+ 
+    200.  
+ 
+ e  =
+ 
+    18.12  
+ 
+ 
+ Therefore, E1(in kWh)=P_cu(FL)*hours=3.02*6=    
+ 
+    18.12  
+ 
+ 
+ Load 2: 80kW, cos(phi)=1   
+ 
+ k  =
+ 
+    80.  
+ 
+ 
+ Therefore, kVA=kW/cos(phi)=80/1=   
+ 
+    80.  
+ 
+ n  =
+ 
+    0.4  
+ 
+ 
+ Therefore, n=Fraction of load=(load kVA)/(kVA rating)=80/200=   
+ 
+    0.4  
+ 
+ p  =
+ 
+    0.4832  
+ 
+ 
+ 
+ Therefore, P_cu(in kW)=(n^2)*P_cu(FL)=(0.4^2)*3.02=   
+ 
+    0.4832  
+ 
+ e  =
+ 
+    1.9328  
+ 
+ 
+ Therefore, E2(in kWh)=P_cu*hours=0.4832*4=   
+ 
+    1.9328  
+ 
+ t  =
+ 
+    58.453  
+ 
+ 
+ 
+ Total energy spent(in kWh)=P_i+E1+E2=38.4+18.12+1.9328=    
+ 
+    58.4528  
+ 
+ n  =
+ 
+    95.6328  
+ 
+ 
+ Therefore, All day eta=(total energy output in 24 hours*100)/(total energy out 
+      put for 24 hours+total energy spent)=(1280*100)/(1280+58.4528)=           
+ 
+    95.6328  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.1/Exp4_1.sce #
+ 
+ 
+ n  =
+ 
+    15.  
+ 
+ 
+ 
+ n = slots/pole =   
+ 
+   15.  
+ 
+ m  =
+ 
+    5.  
+ 
+ 
+ m = slots/pole/phase = n/3 =   
+ 
+    5.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+   12.  
+ 
+ 
+ beta(in degree) = 180/n =   
+ 
+   12.  
+ 
+ kd  =
+ 
+    1.  
+ 
+ 
+ 
+ Therefore,  K_d = sin(m*beta/2) / m*sin(beta/2) =   
+ 
+    0.957  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.2/Exp4_2.sce #
+ 
+ 
+ n  =
+ 
+    9.  
+ 
+ 
+ 
+ n = slots/pole =   
+ 
+    9.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+   20.  
+ 
+ 
+ beta(in degree) = 180/n =   
+ 
+   20.  
+ 
+ 
+ Now coil is shorted by 1 slot i.e. by 20 to full pitch distance.   
+ 
+ 
+ Therefore,  alpha = Angle of short pitch = 20   
+ 
+ kc  =
+ 
+    1.  
+ 
+ 
+ 
+ Therefore,  K_c = cos(alpha/2) =   
+ 
+    0.9848  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.3/Exp4_3.sce #
+ 
+ 
+ 
+ Ns = 250 r.p.m,  f = 50 Hz   
+ 
+ 
+ Ns = 120f / P   
+ 
+ p  =
+ 
+    24.  
+ 
+ 
+ Therefore,  P =    
+ 
+    24.  
+ 
+ n  =
+ 
+    9.  
+ 
+ 
+ 
+ n = slots/pole =   
+ 
+    9.  
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ m = n/3 =   
+ 
+    3.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+   20.  
+ 
+ 
+ beta(in degree) = 180/n =   
+ 
+   20.  
+ 
+ kd  =
+ 
+    1.  
+ 
+ 
+ 
+ Therefore,  K_d = sin(m*beta/2) / m*sin(beta/2) =   
+ 
+    0.960  
+ 
+ 
+ K_c = 1 as full pitch coils.   
+ 
+ z  =
+ 
+    1080.  
+ 
+ 
+ 
+ Total number of conductors Z =    
+ 
+    1080.  
+ 
+ zph  =
+ 
+    360.  
+ 
+ 
+ Therefore,  Z_ph = Z/3 =   
+ 
+    360.  
+ 
+ tph  =
+ 
+    180.  
+ 
+ 
+ Therefore,  T_ph = Z_ph/2 =            ... 2 conductors constitute 1 turn   
+ 
+    180.  
+ 
+ eph  =
+ 
+    1150.49  
+ 
+ 
+ 
+ E_ph(in V) = 4.44*Kc*Kd*f*phi*T_ph =   
+ 
+    1150.49  
+ 
+ el  =
+ 
+    1992.69  
+ 
+ 
+ E_line(in V) = sqrt(3)*E_ph =           ...star connection   
+ 
+    1992.69  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.4/Exp4_4.sce #
+ 
+ 
+ 
+ E_line = 4000 V,  f = 50 Hz,  N_s = 750 r.p.m,  m = 3,  K_c = 1   
+ 
+ eph  =
+ 
+    2309.4011  
+ 
+ 
+ 
+ E_ph(in V) = E_line/sqrt(3) =   
+ 
+    2309.401  
+ 
+ p  =
+ 
+    8.  
+ 
+ 
+ (i) N_s = 120f / P   
+ 
+ 
+ Therefore,  P =   
+ 
+    8.  
+ 
+ 
+ (ii) n = slots/pole = m*3 = 9   
+ 
+ b  =
+ 
+    20.  
+ 
+ 
+ beta = 180/n =   
+ 
+    20.  
+ 
+ kd  =
+ 
+    0.959795  
+ 
+ 
+ 
+ Therefore,  K_d = sin(m*beta/2) / m*sin(beta/2) =   
+ 
+    0.9598  
+ 
+ ns  =
+ 
+    72.  
+ 
+ 
+ Number of slots = n * P =   
+ 
+    72.  
+ 
+ z  =
+ 
+    864.  
+ 
+ 
+ Z = Slots * counductors/slots =   
+ 
+    864.  
+ 
+ zp  =
+ 
+    288.  
+ 
+ 
+ Therefore,  Z_ph = Z/3 =   
+ 
+    288.  
+ 
+ tp  =
+ 
+    144.  
+ 
+ 
+ Therefore,  T_ph = Z_ph/2 =   
+ 
+    144.  
+ 
+ phi  =
+ 
+    0.0753  
+ 
+ 
+ 
+ Therefore,  E_ph = 4.44*K_c*K_d*phi*f*T_ph   
+ 
+ 
+ Therefore,  phi(in Wb) =                  ... flux per pole   
+ 
+    0.07527  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.5/Exp4_5.sce #
+ 
+ 
+ 
+ P = 100 kW,  cos(phi) = 0.8 lagging   
+ 
+ 
+ V_L = 11 kV,  R_a = 0.4 ohm,  X_s = 3 ohm   
+ 
+ 
+ For three phase load,  P = sqrt(3)*V_L*I_L*cos(phi)   
+ 
+ il  =
+ 
+    65.607985  
+ 
+ 
+ 
+ Therefore,  I_L(in A) =   
+ 
+    65.6  
+ 
+ 
+ Now  I_L = I_a as for star connected alternator I_L = I_ph   
+ 
+ 
+ Therefore,  I_aph = 65.6 A         ... full load per phase armature current   
+ 
+ 
+ For lagging p.f. loads,   
+ 
+ 
+ (E_ph)^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*X_s)^2   
+ 
+ vp  =
+ 
+   6351.  
+ 
+ 
+ 
+ Now  V_ph = V_L / sqrt(3) =                 ... as star connected   
+ 
+    6350.853  
+ 
+ eph  =
+ 
+    4.21D+07  
+ 
+ p  =
+ 
+    6491.472  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =    
+ 
+    6491.47  
+ 
+ el  =
+ 
+    11.2436  
+ 
+ 
+ 
+ Therefore,  E_line(in kV) =   
+ 
+    11.24  
+ 
+ regu  =
+ 
+    2.214  
+ 
+ 
+ and  %Regulation(in percentage) = (E_ph-V_ph / V_ph)*100 =   
+ 
+    2.214  
+ 
+ 
+ For lagging p.f. loads, regulation is always positive.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.6/Exp4_6.sce #
+ 
+ 
+ 
+ kVA = 1200,  V_L = 6600 V,  R_a = 0.25 ohm,  X_s = 5 ohm   
+ 
+ 
+ Now  kVA = sqrt(3)*V_L*I_L*10^-3   
+ 
+ il  =
+ 
+    104.97278  
+ 
+ 
+ 
+ Therefore,  I_L(in A) =   
+ 
+    104.97  
+ 
+ 
+ Therefore,  I_aph = 104.97 A            ... as star connected.   
+ 
+ 
+ This is its full load current   
+ 
+ vph  =
+ 
+    3810.5  
+ 
+ 
+ 
+   V_ph(in V) = V_L/3 =   
+ 
+    3810.512  
+ 
+ 
+ (i) For 0.8 lagging p.f. load   
+ 
+ 
+ (E_ph)^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*X_s)^2   
+ 
+ eph  =
+ 
+    1.74D+07  
+ 
+ p  =
+ 
+    4166.064  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =    
+ 
+    4166.06  
+ 
+ regu  =
+ 
+    9.33071  
+ 
+ 
+ 
+ Therefore, %Regulation(in percentage) = (E_ph-V_ph / V_ph)*100 =   
+ 
+    9.33  
+ 
+ 
+ (ii) For 0.8 leading p.f. load   
+ 
+ 
+ (E_ph)^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*X_s)^2   
+ 
+ eph  =
+ 
+   *****  
+ 
+ p  =
+ 
+   3543.  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =    
+ 
+    3543.48  
+ 
+ regu  =
+ 
+  - 7.00803  
+ 
+ 
+ 
+ Therefore, %Regulation(in percentage) = (E_ph-V_ph / V_ph)*100 =   
+ 
+  - 7.01  
+ 
+ 
+ The regulation is negative for leading p.f. loads   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.8/Exp4_8.sce #
+ 
+ 
+ 
+ V_L = 230 V,  R_a between lines = 1.8 ohm   
+ 
+ 
+ (V_oc)_line = 230 V,  I_scc = 12.5 A for same I_f = 0.38 A   
+ 
+ 
+ The value of open circuit e.m.f is always line value unless and until specific 
+      ally mentioned to be a phase value                                        
+ 
+ 
+ Therefore,  Z_s = (V_oc)_ph / (I_scc)_ph |for same I_f   
+ 
+ voc  =
+ 
+    132.79056  
+ 
+ 
+ 
+   (V_oc)_ph(in V) =   
+ 
+    132.79  
+ 
+ zs  =
+ 
+    10.623  
+ 
+ 
+ Therefore,  Z_s(in ohm/phase) =   
+ 
+    10.623  
+ 
+ 
+ R_a between lines = 1.8 ohm   
+ 
+ 
+ For star connection, R_a between the terminals is 2 R_a per ph   
+ 
+ 
+ Therefore,  2R_a per ph = 1.8   
+ 
+ 
+ Therefore,  R_a per ph = 0.9 ohm   
+ 
+ xs  =
+ 
+    10.585  
+ 
+ 
+ 
+ Therefore,  X_s(in ohm/phase) = sqrt(Z_s^2 - R_a^2) =   
+ 
+    10.585  
+ 
+ 
+ Now regulated is asked for I_a = 10 A   
+ 
+ 
+ Now :  The value of Z_s is calculated for I_s = 12.5 A and not at I_s = 10 A.  
+      It will be different for I_s = 10 A. But in this problem the test results 
+       are not given hence it is not possible to sketch the graphs to detemine  
+      Z_s at I_a = 10 A. So value of Z_s calculated is assumed to be same as I_ 
+      a = 10 A                                                                  
+ 
+ 
+ (i) For 0.8 lagging p.f.   
+ 
+ vph  =
+ 
+    132.79  
+ 
+ 
+ 
+ V_ph(in V) = V_L/sqrt(3) =   
+ 
+    132.79  
+ 
+ 
+ I_a = 10 A   
+ 
+ 
+ cos(phi) = 0.8    so sin(phi) = 0.6   
+ 
+ 
+ (E_ph)^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*X_s)^2   
+ 
+ eph  =
+ 
+    47698.  
+ 
+ p  =
+ 
+    218.4  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =    
+ 
+    218.398  
+ 
+ regu  =
+ 
+    64.4627  
+ 
+ 
+ 
+ Therefore, %Regulation(in percentage) = (E_ph-V_ph / V_ph)*100 =   
+ 
+    64.46  
+ 
+ 
+ (ii) For 0.8 leading p.f.   
+ 
+ 
+ (E_ph)^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*X_s)^2   
+ 
+ eph  =
+ 
+   13964.  
+ 
+ p  =
+ 
+    118.2  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =    
+ 
+    118.168  
+ 
+ regu  =
+ 
+  - 11.0114  
+ 
+ 
+ 
+ Therefore, %Regulation(in percentage) = (E_ph-V_ph / V_ph)*100 =   
+ 
+  - 11.01  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.9/Exp4_9.sce #
+ 
+ 
+ 
+ P = 10,  N_a = 600 r.p.m,  slots = 90   
+ 
+ 
+ phi = 16 mWb,  E_line = 11 kW   
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ N_s = 120f / P   
+ 
+ 
+ Therefore,  f(in Hz) =   
+ 
+   50.  
+ 
+ eph  =
+ 
+   ***  
+ 
+ 
+ 
+ For star connection, E_ph(in V) = E_line/sqrt(3) =   
+ 
+    6350.853  
+ 
+ 
+ Now  E_ph = 4.44*K_c*K_d*phi*f*T_ph   
+ 
+ 
+ K_c = 1 as no information about short pitching is given   
+ 
+ n  =
+ 
+    9.  
+ 
+ 
+ n = slots/pole =   
+ 
+    9.  
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+ m = slots/pole/phase = n/3 =   
+ 
+    3.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    20.  
+ 
+ 
+ beta = slot angle = 180/n =   
+ 
+    20.  
+ 
+ kd  =
+ 
+    0.959795  
+ 
+ 
+ 
+ Therefore,  K_d = sin(m*beta/2) / m*sin(beta/2) =   
+ 
+    0.9598  
+ 
+ 
+ Therefore,  6350.853 = 4.44*1*0.9598*16*10^-3*50*T_ph   
+ 
+ tph  =
+ 
+    1862.9  
+ 
+ 
+ 
+ Therefore,  T_ph =   
+ 
+   1863.  
+ 
+ zph  =
+ 
+   3724.  
+ 
+ 
+ Therefore,  Z_ph = 2*T_ph =   
+ 
+   3724.  
+ 
+ 
+ These are armature conductors per phase required to be connected in series.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.10/Exp4_10.sce #
+ 
+ 
+ 
+ N_s = 250 r.p.m.,  f = 50 Hz   
+ 
+ 
+ slots = 288,  E_line = 6600 V   
+ 
+ 
+ N_s = 120*f/P   
+ 
+ p  =
+ 
+    24.  
+ 
+ 
+ 
+ Therefore,  P =   
+ 
+   24.  
+ 
+ n  =
+ 
+   12.  
+ 
+ 
+ n = slots/pole =   
+ 
+   12.  
+ 
+ m  =
+ 
+    4.  
+ 
+ 
+ m = n/2 =   
+ 
+    4.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+   15.  
+ 
+ 
+ beta = 180/n =   
+ 
+   15.  
+ 
+ kd  =
+ 
+    1.  
+ 
+ 
+ 
+ Therefore,  K_d = sin(m*beta/2) / m*sin(beta/2) =   
+ 
+    0.9577  
+ 
+ 
+ Now coil is short pitched by 2 slots   
+ 
+ al  =
+ 
+    30.  
+ 
+ 
+ Therefore,  alpha = angle of short pitch = 2 * beta =   
+ 
+    30.  
+ 
+ kc  =
+ 
+    0.9659  
+ 
+ 
+ Therefore,  K_c = cos(alpha/2) =   
+ 
+    0.9659  
+ 
+ 
+ Each coil consists of 16 turns, i.e. in a slot each coil side consists of 16 c 
+      onductors as shown in the fig.4.42 and in each slot there are 2 coil side 
+      s. So each slot consists of 16 per coil side x 2 i.e. 32 conductors.      
+ 
+ 
+ Therefore,  conductors/slot = 32   
+ 
+ 
+ Therefore,  total conductors = slots x conductors/slot   
+ 
+ z  =
+ 
+    9216.  
+ 
+ 
+ 
+ Therefore,  Z =   
+ 
+   9216.  
+ 
+ zp  =
+ 
+   3072.  
+ 
+ 
+ Therefore,  Z_ph = conductors/phase =   
+ 
+   3072.  
+ 
+ tp  =
+ 
+   1536.  
+ 
+ 
+ Therefore,  T_ph = Z_ph/2 =               ... 2 conductors -> 1 turn   
+ 
+   1536.  
+ 
+ ep  =
+ 
+   3811.  
+ 
+ 
+ 
+ Now  E_ph(in V) = E_line / sqrt(3) =   
+ 
+    3810.51  
+ 
+ 
+ E_ph = 4.44*K_c*K_d*phi*f*T_ph   
+ 
+ phi  =
+ 
+    12.0815  
+ 
+ 
+ 
+ Therefore,  phi(in mWb) =   
+ 
+   12.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.11/Exp4_11.sce #
+ 
+ 
+ 
+ P = 12,  N_s = 600 r.p.m   
+ 
+ f  =
+ 
+    60.  
+ 
+ 
+ 
+ Therefore,  f(in Hz) = P*N_s/120 =   
+ 
+   60.  
+ 
+ 
+ (i) Average value of e.m.f in a conductor = 2*f*phi   
+ 
+ rms  =
+ 
+    7.  
+ 
+ 
+ 
+ Therefore,  r.m.s value(in V) = 1.11*2*f*phi =   
+ 
+    6.66  
+ 
+ 
+ (ii) Average value of e.m.f in a turn = 4*f*phi   
+ 
+ 
+ As 2 conductors joined properly form a turn   
+ 
+ rms  =
+ 
+    13.3  
+ 
+ 
+ 
+ Therefore,  r.m.s value(in V) = 1.11*4*f*phi =   
+ 
+    13.32  
+ 
+ 
+ (iii) Now each slot has 10 conductors and 2 coil sides. So,   
+ 
+ c  =
+ 
+    5.  
+ 
+ 
+ conductors/coil side = 10/2 =   
+ 
+    5.  
+ 
+ 
+ Such coil sides are connected to another coil sides to form a coil. So in a co 
+      il there are 5 turns as shown in fig.4.43                                 
+ 
+ rmss  =
+ 
+    66.6  
+ 
+ 
+ 
+ Therefore,  R.M.S value of e.m.f in a coil(in V) = R.M.S value of e.m.f/turn * 
+       Number of turns/coil =                                                   
+ 
+    66.6  
+ 
+ 
+ (iv) Now total conductors  Z = conductors/slots * Number of slots   
+ 
+ z  =
+ 
+   1800.  
+ 
+ 
+ Therefore,  Z =   
+ 
+   1800.  
+ 
+ zph  =
+ 
+    600.  
+ 
+ 
+ Therefore,  Z_ph = Z/3 =   
+ 
+    600.  
+ 
+ tph  =
+ 
+    300.  
+ 
+ 
+ T_ph = Z_ph/2 =   
+ 
+    300.  
+ 
+ n  =
+ 
+    15.  
+ 
+ 
+ And  n = slots/pole =   
+ 
+    15.  
+ 
+ m  =
+ 
+    5.  
+ 
+ 
+ m = n/3 =   
+ 
+    5.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    12.  
+ 
+ 
+ beta(in degree) =   
+ 
+    12.  
+ 
+ kd  =
+ 
+    0.96  
+ 
+ 
+ 
+ Therefore,  K_d = sin(m*beta/2) / m*sin(beta/2) =   
+ 
+    0.9567  
+ 
+ 
+ E_ph = R.M.S value per turn*T_ph*K_d*K_c   
+ 
+ ep  =
+ 
+    3822.6  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    3822.57  
+ 
+ 
+ or  E_ph = 4.44*K_c*K_d*phi*f*T_ph   
+ 
+ eph  =
+ 
+    3822.57  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    3822.57  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.12/Exp4_12.sce #
+ 
+ 
+ 
+ P = 6,  f = 50 Hz,  n = 12 slots/pole, 4 conductors/slot   
+ 
+ 
+ For full pitch,  n = 12 slots/pole   
+ 
+ ap  =
+ 
+    10.  
+ 
+ 
+ 
+ Actual pitch of winding(in slots) = 5/6 * n =   
+ 
+    10.  
+ 
+ ws  =
+ 
+    2.  
+ 
+ 
+ so winding shorted by(in slots) =   
+ 
+    2.  
+ 
+ 
+ Therefore,  alpha = short pitch angle = 2 slot angle = 2*beta   
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    15.  
+ 
+ 
+ beta(in degree) =   
+ 
+    15.  
+ 
+ alp  =
+ 
+    30.  
+ 
+ 
+ Therefore,  alpha(in degree) = 2*beta =   
+ 
+    30.  
+ 
+ kc  =
+ 
+    1.0  
+ 
+ 
+ 
+ Therefore,  K_c = cos(alpha/2) =   
+ 
+    0.9659  
+ 
+ m  =
+ 
+    4.  
+ 
+ 
+ m(in slots/pole/phase) = n/3 =   
+ 
+    4.  
+ 
+ kd  =
+ 
+    0.9577  
+ 
+ 
+ 
+ Therefore,  K_d = sin(m*beta/2) / m*sin(beta/2) =   
+ 
+    0.95766  
+ 
+ ts  =
+ 
+    72.  
+ 
+ 
+ Total slots = n*P =   
+ 
+    72.  
+ 
+ z  =
+ 
+    288.  
+ 
+ 
+ Therefore,  Z = total conductors =   
+ 
+    288.  
+ 
+ zph  =
+ 
+    96.  
+ 
+ 
+ Therefore,  Z_ph = Z/3 =   
+ 
+    96.  
+ 
+ tph  =
+ 
+    48.  
+ 
+ 
+ T_ph = Z_ph/2 =   
+ 
+    48.  
+ 
+ 
+ Therefore,  E_ph = 4.44*K_c*K_d*phi*f*T_ph   
+ 
+ eph  =
+ 
+    14.7853  
+ 
+ 
+ 
+ Therefore,  E_ph(in kV) =   
+ 
+    14.7853  
+ 
+ el  =
+ 
+    25.6087  
+ 
+ 
+ Therefore,  E_line(in kV) = sqrt(3)*E_ph =   
+ 
+    25.6087  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.13/Exp4_13.sce #
+ 
+ 
+ 
+ The coil span of 120 degree is shown in the fig.4.44   
+ 
+ 
+ The angle of shorts pitch is,   
+ 
+ alp  =
+ 
+    60.  
+ 
+ 
+ 
+ alpha(in degree) = 180 - coil span =   
+ 
+   60.  
+ 
+ kc  =
+ 
+    1.  
+ 
+ 
+ 
+ The chording factor is,   
+ 
+ 
+ K_c = cos(alpha/2) =   
+ 
+    0.866  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.14/Exp4_14.sce #
+ 
+ 
+ 
+ V_ph = 200 V, 60 kVA,  R_a = 0.016 ohm,  X_s = 0.07 ohm   
+ 
+ 
+ VA = V_ph*I_ph    i.e. 60*10^3 = 200*I_ph        ...Single phase   
+ 
+ 
+ Therefore,  I_ph = 300 A = I_a              ...Full load current   
+ 
+ 
+ (a) cos(phi) = 1,  sin(phi) = 0   
+ 
+ eph  =
+ 
+    205.87384  
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (I_a*X_a)^2   
+ 
+ 
+ 
+ E_ph(in V) =   
+ 
+    205.8738  
+ 
+ 
+ (b) cos(phi) = 0.7 lagging,  sin(phi) = 0.714   
+ 
+ ephi  =
+ 
+    218.6413  
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ 
+ 
+ E_ph(in V) =   
+ 
+    218.6413  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.15/Exp4_15.sce #
+ 
+ 
+ 
+ V_ph = 550 V, 55 kVA,  R_a = 0.2 ohm   
+ 
+ 
+ I_f = 10 A,  I_ssc = 200 A,  V_oc = 450 V   
+ 
+ za  =
+ 
+    2.25  
+ 
+ 
+ 
+ Therefore,  Z_s(in ohm) = V_oc / I_ssc |same I_f =   
+ 
+    2.25  
+ 
+ xs  =
+ 
+    2.24  
+ 
+ 
+ 
+ (a)  X_s(in ohm) = sqrt(Z_a^2 - R_a^2) =   
+ 
+    2.2411  
+ 
+ iph  =
+ 
+    100.  
+ 
+ 
+ VA = V_ph*I_ph           ...As single phase   
+ 
+ 
+ Therefore,  I_ph(in A) = I_a =        ...Full load armature current   
+ 
+    100.  
+ 
+ 
+ (b) cos(phi) = 0.8 lagging,  sin(phi) = 0.6   
+ 
+ ephi  =
+ 
+    720.17  
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ 
+ 
+ E_ph(in V) =   
+ 
+    720.1652  
+ 
+ r  =
+ 
+    30.93913  
+ 
+ 
+ 
+ Therefore,  %R = (E_ph-V_ph / V_ph)*100 =    
+ 
+    30.94  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.16/Exp4_16.sce #
+ 
+ 
+ 
+ V_ph = 2200 V,  f = 50 Hz, 440 kVA,  R_a = 0.5 ohm   
+ 
+ 
+ I_aph = 200 A = I_ac,  V_oc = 1160 V,  I_f = 40 A   
+ 
+ za  =
+ 
+    5.8  
+ 
+ 
+ 
+ (a)  Z_s(in ohm) = V_oc/I_ssc |same I_f =   
+ 
+    5.8  
+ 
+ xs  =
+ 
+    5.8  
+ 
+ 
+ 
+ (b)  X_s(in ohm) = sqrt(Z_a^2 - R_a^2) =   
+ 
+    5.7784  
+ 
+ 
+ (c)  cos(phi) = 0.707 leading,  sin(phi) = 0.707   
+ 
+ ephi  =
+ 
+    1703.  
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)-I_a*R_a)^2   
+ 
+ 
+ 
+ E_ph(in V) =   
+ 
+    1702.9754  
+ 
+ r  =
+ 
+  - 22.592027  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+  - 22.592  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.17/Exp4_17.sce #
+ 
+ 
+ 
+ Assume star connected alternator   
+ 
+ 
+ R_a+R_a = V_dc/I_dc   
+ 
+ 
+ 2R_a = 6/10   
+ 
+ ra  =
+ 
+    0.3  
+ 
+ 
+ 
+ Therefore,  R_a(in ohm/ph) =   
+ 
+    0.3  
+ 
+ 
+ V_oc(line) = 420,  V_L = 1100 V, 100 kVA   
+ 
+ 
+ Therefore,  VA = sqrt(3)*V_L*I_L   
+ 
+ il  =
+ 
+    52.  
+ 
+ 
+ 
+ Therefore,  I_L(in A) = I_aph =   
+ 
+    52.4864  
+ 
+ 
+ Therefore,  Rated armature current = 52.4864 A = I_ssc   
+ 
+ zs  =
+ 
+    4.62  
+ 
+ 
+ 
+ Therefore,  Z_s(in ohm/ph) = V_oc(ph) / I_ssc(ph) =   
+ 
+    4.62  
+ 
+ xs  =
+ 
+    4.61  
+ 
+ 
+ 
+ Therefore,  X_s(in ohm/ph) = sqrt(Z_a^2 - R_a^2) =   
+ 
+    4.6102  
+ 
+ 
+ For cos(phi) = 0.8 lagging,  sin(phi) = 0.6   
+ 
+ 
+ E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ vph  =
+ 
+    635.09  
+ 
+ 
+ 
+ V_ph(in V) = V_L/sqrt(3) =   
+ 
+    635.085  
+ 
+ ephi  =
+ 
+    813.965  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    813.9654  
+ 
+ r  =
+ 
+    28.16637  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+    28.1664  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.18/Exp4_18.sce #
+ 
+ 
+ 
+ 2R_a = 2  i.e.  R_a = 1 ohm/ph   
+ 
+ 
+ V_L = 3.6 kVA,  MVA = 1   
+ 
+ 
+ Therefore,  VA = sqrt(3)*V_L*I_L   
+ 
+ il  =
+ 
+    160.37507  
+ 
+ 
+ 
+ Therefore,  I_L(in A) = I_aph =         ...Star   
+ 
+    160.375  
+ 
+ 
+ From the test results, obtain the open circuit and short circuit characteristi 
+      cs and obtain V_oc for full load I_sc of 160.373 A                        
+ 
+ 
+ From the graph, for full load short circuit current of 160.37 A, I_f = 53 A an 
+      d corresponding V_oc(line) = 2250 V                                       
+ 
+ zs  =
+ 
+    8.10026  
+ 
+ 
+ 
+ Therefore,  Z_s(in ohm/ph) = V_ocph/I_scph |same I_f =   
+ 
+    8.1  
+ 
+ xs  =
+ 
+    8.  
+ 
+ 
+ 
+ Therefore,  X_s(in ohm/ph) = sqrt(Z_a^2 - R_a^2) =   
+ 
+    8.038  
+ 
+ vph  =
+ 
+    2078.  
+ 
+ 
+ 
+ V_ph(in V) = V_L/sqrt(3) =   
+ 
+    2078.46  
+ 
+ 
+ I_aph = 160.37 A   
+ 
+ 
+ (i)  cos(phi) = 0.707 lagging,  sin(phi) = 0.707   
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ ephi  =
+ 
+    3204.04  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    3204.0356  
+ 
+ r  =
+ 
+    54.154307  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+    54.15  
+ 
+ 
+ (ii)  cos(phi) = 0.8 leading,  sin(phi) = 0.6   
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)-I_a*R_a)^2   
+ 
+ ephi  =
+ 
+    1824.  
+ 
+ 
+ 
+ Substituting the values,  E_ph(in V) =   
+ 
+    1823.6212  
+ 
+ r  =
+ 
+  - 12.260659  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+  - 12.26  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.20/Exp4_20.sce #
+ 
+ 
+ 
+ R_s = 0.6 ohm,  X_s = 6 ohm,  I_aph = 180 A   
+ 
+ eph  =
+ 
+    3809.9344  
+ 
+ 
+ 
+ E_ph(in V) = E_line/sqrt(3) =   
+ 
+    3809.9344  
+ 
+ 
+ (a) cos(phi) = 0.9 lagging, sin(phi) = 0.4358   
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ 
+ Therefore,  (3809.9344)^2 = [V_ph*0.9 + 180*0.6]^2 + [V_ph*0.4358 + 180*6]^2   
+ 
+ 
+ Therefore,  14.5156*10^6 = 0.81*V_ph^2 + 194.4*V_ph + 11664 + 0.1899*V_ph^2 +  
+      941.328*V_ph + 1166400                                                    
+ 
+ 
+ Therefore,  V_ph^2 + 1135.728*V_ph - 13337536 = 0   
+ 
+ 
+ Therefore,  V_ph = 3128.08, -4263.808       ...Neglect negative value   
+ 
+ 
+ Therefore,  V_ph = 3128.08 V                  ...Terminal voltage   
+ 
+ r  =
+ 
+    21.797857  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+    21.7979  
+ 
+ 
+ (b) cos(phi) = 0.8 leading, sin(phi) = 0.6   
+ 
+ 
+ Therefore,  E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ 
+ Therefore,  (3809.9344)^2 = [V_ph*0.8 + 180*0.6]^2 + [V_ph*0.6 + 180*6]^2   
+ 
+ 
+ Therefore,  14.5156*10^6 = 0.64*V_ph^2 + 172.8*V_ph + 11664 + 0.36*V_ph^2 - 12 
+      96*V_ph + 1166400                                                         
+ 
+ 
+ Therefore,  V_ph^2 - 1123.2*V_ph - 13337536 = 0   
+ 
+ 
+ Therefore,  V_ph = 4256.5872 V       ...Neglect negative value   
+ 
+ r  =
+ 
+  - 10.4932  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+  - 10.493  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.21/Exp4_21.sce #
+ 
+ 
+ 
+ 1500 kVA,  V_L = 12 kV,  R_a = 2 ohm,  X_s = 10 ohm   
+ 
+ vp  =
+ 
+    6928.2032  
+ 
+ 
+ 
+   V_ph(in V) =         ...Star   
+ 
+    6928.2032  
+ 
+ 
+ P_L = sqrt(3)*V_L*I_L*cos(phi)   
+ 
+ 
+ (a) cos(phi) = 0.8 lagging,  sin(phi) = 0.6   
+ 
+ il  =
+ 
+    72.168784  
+ 
+ 
+ 
+ Therefore,  I_L(in A) = I_aph =         ...Star   
+ 
+    72.169  
+ 
+ 
+   E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ ephi  =
+ 
+    7492.8  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    7492.768  
+ 
+ r  =
+ 
+    8.148791  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+    8.149  
+ 
+ 
+ (b) cos(phi) = 0.707 leading,  sin(phi) = 0.707   
+ 
+ il  =
+ 
+    81.66  
+ 
+ 
+ 
+ Therefore,  I_L(in A) = I_a =         ...Star   
+ 
+    81.66  
+ 
+ 
+   E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ ephi  =
+ 
+    6502.  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    6502.2433  
+ 
+ r  =
+ 
+  - 6.1482016  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+  - 6.148  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.1/exp5_1.sce #
+ 
+ 
+ 
+ Given values are,   
+ 
+ 
+ P = 4, f = 50 Hz,  N = 1410 r.p.m   
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ N_s(in r.p.m) = 120*f / P =   
+ 
+    1500.  
+ 
+ 
+ Full load absolute slip is given by,   
+ 
+ s  =
+ 
+    0.06  
+ 
+ 
+ 
+ s = N_s-N / N_s =   
+ 
+    0.06  
+ 
+ s  =
+ 
+    6.  
+ 
+ 
+ Therefore,  %s =   
+ 
+    6.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.2/exp5_2.sce #
+ 
+ 
+ 
+ Given values are,   
+ 
+ 
+ P = 4, f = 50 Hz,  %s = 4%   
+ 
+ 
+ s = Full load absolute slip = 0.04   
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ N_s(in r.p.m) = 120*f / P =   
+ 
+    1500.  
+ 
+ 
+ s = N_s-N / N_s    where N_s = full load speed of motor   
+ 
+ 
+ 0.04 = 1500-N_s / 1500   
+ 
+ ns  =
+ 
+    1440.  
+ 
+ 
+ Therefore,  N_s(in r.p.m) =   
+ 
+    1440.  
+ 
+ 
+ This is the full load speed of the motor   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.3/exp5_3.sce #
+ 
+ 
+ 
+ The given values are,   
+ 
+ 
+ P = 4,  f = 50 Hz,  N = 1470 r.p.m   
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   1500.  
+ 
+ s  =
+ 
+    0.02  
+ 
+ 
+ s = N_s-N / N_s =   
+ 
+    0.02  
+ 
+ f  =
+ 
+    1.  
+ 
+ 
+ Therefore,  f_r(in Hz) = s*f =   
+ 
+    1.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.4/exp5_4.sce #
+ 
+ 
+ 
+ The given values are,   
+ 
+ 
+ P = 8,  f = 50 Hz,  f_r = 2 Hz   
+ 
+ 
+ Now    f_r = s*f   
+ 
+ s  =
+ 
+    0.04  
+ 
+ 
+ 
+ Therefore,  s =   
+ 
+    0.04  
+ 
+ sp  =
+ 
+    4.  
+ 
+ 
+ Therefore,  %s =             ...Full load slip   
+ 
+    4.  
+ 
+ 
+ The corresponding speed is given by,   
+ 
+ 
+ N = N_s*(1-s)                ...From s = N_s-N / N_s   
+ 
+ ns  =
+ 
+    750.  
+ 
+ 
+ where    N_s(in r.p.m) = 120f/P =   
+ 
+    750.  
+ 
+ n  =
+ 
+    720.  
+ 
+ 
+ Therefore,  N(in r.p.m) =           ...Full load speed   
+ 
+    720.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.5/exp5_5.sce #
+ 
+ 
+ 
+ The given values are, K = Rotor turns/Stator turns = 1/2 = 0.5 and   
+ 
+ 
+ P = 4, f = 50 Hz, N = 1455 r.p.m, E_line = 415 V   
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   1500.  
+ 
+ 
+ For a given load, N = 1455 r.p.m   
+ 
+ s  =
+ 
+    0.03  
+ 
+ 
+ Therefore,  s = N_s-N / N_s =   
+ 
+    0.03  
+ 
+ f  =
+ 
+    1.5  
+ 
+ 
+ (i)  f_r(in Hz) = s*f =   
+ 
+    1.5  
+ 
+ 
+ (ii) At standstill, induction motor acts as a transformer so,   
+ 
+ 
+ E_2ph/E_1ph = rotor turns/stator turns = K   
+ 
+ 
+ But ratio of stator to rotor turns is given as 2, i.e.   
+ 
+ 
+   N1/N2 = 2      Therefore,  N2/N1 = 1/2 = K   
+ 
+ 
+ and  E_1line = 415 V   
+ 
+ 
+ The given values are always line values unless and until specifically stated a 
+      s per phase.                                                              
+ 
+ e1  =
+ 
+    240.  
+ 
+ 
+ 
+ Therefore,  E_1ph(in V) = E_1/sqrt(3) =              ...As star connection E_l 
+      ine = sqrt(3)*E_ph                                                        
+ 
+    239.6  
+ 
+ 
+ Therefore,  E_2ph/E_1ph = 1/2   
+ 
+ e2  =
+ 
+    119.8  
+ 
+ 
+ Therefore,  E_2ph(in V) =            ...Rotor induced e.m.f on standstill   
+ 
+    119.8  
+ 
+ 
+ (iii) In running condition,   
+ 
+ er  =
+ 
+    3.594  
+ 
+ 
+ E_2r(in V) = s*E_2 =   
+ 
+    3.594  
+ 
+ 
+ The value of rotor induced e.m.f in the running condition is also very very sm 
+      all                                                                       
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.6/exp5_6.sce #
+ 
+ 
+ 
+ The given values are,   
+ 
+ 
+ P = 4, f = 50 Hz, R2 = 0.2 ohm, X2 = 1 ohm   
+ 
+ 
+ Now open circuit e.m.f between slip rings means rotor induced e.m.f on standst 
+      ill. As long as rotor is open, there cannot be rotor current rotation of  
+      rotor. And between the slip rings means its a line value of E2, for a sta 
+      r connected rotor. The open circuit e.m.f is shown in fig.5.15            
+ 
+ 
+ Therefore,  E_2line = 120 V, for star E_2line = sqrt(3)*E_2ph   
+ 
+ e2  =
+ 
+    69.282032  
+ 
+ 
+ 
+ Therefore,  E_2ph(in V) = E_2/sqrt(3) =   
+ 
+    69.28  
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   1500.  
+ 
+ 
+ (i) At start,   
+ 
+ cp  =
+ 
+    0.20  
+ 
+ 
+ 
+ cos(phi) = R2/Z2 = R2 / sqrt(R2^2+X2^2) =   
+ 
+    0.196  
+ 
+ i2  =
+ 
+    67.93  
+ 
+ 
+ I2(in A/phase) = E2/Z2 = E2 / sqrt(R2^2+X2^2) =   
+ 
+    67.93  
+ 
+ 
+ (ii) On full load, N = 1440 r.p.m   
+ 
+ s  =
+ 
+    0.04  
+ 
+ 
+ 
+ Therefore,  s = N_s-N / N_s =   
+ 
+    0.04  
+ 
+ cpr  =
+ 
+    0.98  
+ 
+ 
+ 
+ Therefore,  cos(phi)_2r = R2/Z_2r = R2 / sqrt(R2^2+(s*X2)^2) =   
+ 
+    0.9806  
+ 
+ i2r  =
+ 
+    13.587  
+ 
+ 
+ Therefore,  I_2r(in A) = E_2r/Z_2r = s*E2 / sqrt(R2^2+(s*X2)^2) =   
+ 
+    13.587  
+ 
+ 
+ It can be observed that current is drastically reduced from its value at start 
+      . In the running condition, slip controls and limits the magnitude of the 
+       motor current                                                            
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.7/exp5_7.sce #
+ 
+ 
+ 
+ P = 4, f = 50 Hz, R2 = 0.1 ohm, X2 = 1 ohm, N = 1440 r.p.m   
+ 
+ 
+ Stator turns/Rotor turns = 2/1   
+ 
+ 
+ Therefore,  K = E2/E1 = Rotor turns/Stator turns = 1/2 = 0.5   
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   1500.  
+ 
+ 
+ E_1line = 400 V              ...Stator line voltage given   
+ 
+ e1  =
+ 
+    231.  
+ 
+ 
+ 
+ Therefore,  E_1ph(in V) = E_1line/sqrt(3) =   
+ 
+    230.94  
+ 
+ 
+ But  E_2ph/E_1ph = 0.5 = K   
+ 
+ e2  =
+ 
+    115.47  
+ 
+ 
+ Therefore,  E_2ph(in V) =   
+ 
+    115.47  
+ 
+ s  =
+ 
+    0.04  
+ 
+ 
+ 
+ Full load slip,  s = N_s-N / N_s =   
+ 
+    0.04  
+ 
+ ns  =
+ 
+    25.  
+ 
+ 
+ n_s(in r.p.s) = Synchoronous speed in r.p.s   
+ 
+ 
+               = N_s/60 =   
+ 
+    25.  
+ 
+ t  =
+ 
+    87.8  
+ 
+ 
+ 
+ T(in N-m) = (3 / 2*pi*ns) * (s*E2^2*R2 / R2^2+(s*X2)^2) =   
+ 
+    87.81  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.8/exp5_8.sce #
+ 
+ 
+ 
+ P = 4, f = 50 Hz, Stator turns/Rotor turns = 4, R2 = 0.01 ohm, X2 = 0.1 ohm   
+ 
+ 
+ E_1line = stator line voltage = 400 V   
+ 
+ e1  =
+ 
+    230.94011  
+ 
+ 
+ 
+ E_1ph(in V) = E_1line/sqrt(3) =          ...star connection   
+ 
+    230.94  
+ 
+ 
+ K = E_2ph/E_1ph = Rotor turns/stator turns = 1/4   
+ 
+ e2  =
+ 
+    57.735  
+ 
+ 
+ Therefore,  E_2(in V) = 1/4 * E_1ph =   
+ 
+    57.735  
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   1500.  
+ 
+ 
+ (i) At start,  s = 1   
+ 
+ 
+ Therefore,  T_st =  (k*E2^2*R2 / R2^2+X2^2)       where k = 3 / 2*pi*ns   
+ 
+ ns  =
+ 
+    25.  
+ 
+ 
+ n_s(in r.p.s) = N_s/60 =   
+ 
+    25.  
+ 
+ k  =
+ 
+    0.02  
+ 
+ 
+ 
+ Therefore,  k = 3 / 2*pi*25 =   
+ 
+    0.01910  
+ 
+ t  =
+ 
+    63.0032  
+ 
+ 
+ 
+ Therefore,  T_st(in N-m) =   
+ 
+    63.003  
+ 
+ 
+ (ii) Slip at which maximum torque occurs is,   
+ 
+ sm  =
+ 
+    0.1  
+ 
+ 
+ s_m = R2/X2 =   
+ 
+    0.1  
+ 
+ psm  =
+ 
+    10.  
+ 
+ 
+ %s_m =   
+ 
+    10.  
+ 
+ 
+ (iii) Speed at which maximum torque occurs is speed corresponding to s_m,   
+ 
+ n  =
+ 
+    1350.  
+ 
+ 
+ 
+ N(in r.p.m) = N_s*(1-s_m) =   
+ 
+   1350.  
+ 
+ 
+ (iv) The maximum torque is,   
+ 
+ tm  =
+ 
+    318.  
+ 
+ 
+ 
+ T_m(in N-m) = k*E2^2 / 2*X2 =   
+ 
+    318.17  
+ 
+ 
+ (v) Full load slip, s_f = 0.04    as %s_f = 4%   
+ 
+ t  =
+ 
+    219.43  
+ 
+ 
+ 
+ T_f.l(in N-m) =(k*s*E2^2*R2 / R2^2+(s_f*X2)^2) =   
+ 
+    219.43  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.9/exp5_9.sce #
+ 
+ 
+ 
+ Given values are,   
+ 
+ 
+ P = 24, f = 50 Hz, R2 = 0.016 ohm, X2 = 0.265 ohm, N = 247 r.p.m   
+ 
+ ns  =
+ 
+    250.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+    250.  
+ 
+ s  =
+ 
+    0.01  
+ 
+ 
+ 
+ s_f = Full load slip = N_s-N / N_s =   
+ 
+    0.012  
+ 
+ sm  =
+ 
+    0.060  
+ 
+ 
+ 
+ s_m = R2/X2 =   
+ 
+    0.06038  
+ 
+ tf  =
+ 
+    0.38244  
+ 
+ 
+ 
+ (i) T_F.L/T_m = 2*s_m*s_f / s_m^2+s_f^2 =   
+ 
+    0.3824  
+ 
+ ts  =
+ 
+    0.1203  
+ 
+ 
+ 
+ (ii) T_st/T_m = 2*s_m / 1+s_m^2 =   
+ 
+    0.1203  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.10/exp5_10.sce #
+ 
+ 
+ 
+ The given values are,   
+ 
+ 
+ P = 4, f = 50 Hz, T_sh = 300 N-m, T_lost = 50 N-m   
+ 
+ 
+ Rotor frequency  = 120 cycles/min = 120/60 cycles/sec i.e. Hz   
+ 
+ 
+ i.e.  f_r = 2 Hz   
+ 
+ 
+ (i)  f_r = s*f   
+ 
+ s  =
+ 
+    0.04  
+ 
+ 
+ 
+ Therefore,  s = f_r/f =   
+ 
+    0.04  
+ 
+ 
+ (ii)  P_out = T_sh * omega = T_sh * 2*pi*N/60   
+ 
+ 
+ Now  N = N_s(1-s)    at slip s = 0.04   
+ 
+ ns  =
+ 
+   1500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   1500.  
+ 
+ n  =
+ 
+   1440.  
+ 
+ 
+ Therefore,  N(in r.p.m) = N_s(1-s) =   
+ 
+   1440.  
+ 
+ po  =
+ 
+    45.2  
+ 
+ 
+ 
+ Therefore,  P_out(in kW) =   
+ 
+    45.2389  
+ 
+ 
+ Remember that T_sh is not output torque available to load at shaft   
+ 
+ 
+ (iii)  T_lost = 50 Nm in fiction   
+ 
+ f  =
+ 
+    7539.82  
+ 
+ 
+ 
+ Therefore,  Frictional loss(in W) = T_lost * omega = T_lost * 2*pi*N/60 =   
+ 
+    7539.822  
+ 
+ 
+ Now  P_out = P_in - frictional loss   
+ 
+ pin  =
+ 
+    52.77872  
+ 
+ 
+ Therefore,  P_in(in kW) = P_out + frictional loss =   
+ 
+    52.77872  
+ 
+ 
+   We know, P_2:P_c:P_m  is  1:s:1-s   
+ 
+ 
+ Therefore,  P_c/P_m = s/1-s   
+ 
+ pc  =
+ 
+    2199.113  
+ 
+ 
+ 
+ Therefore,  P_c(in W) = P_m * (s/1-s) =   
+ 
+    2199.1133  
+ 
+ 
+ These are total rotor copper losses   
+ 
+ rc  =
+ 
+    733.0378  
+ 
+ 
+ 
+ Therefore,  Rotor copper loss per phase(in W) = P_c/3 =   
+ 
+    733.0378  
+ 
+ 
+ (iv)  Rotor efficiency = (Rotor output P_in / Rotor input P2)*100   
+ 
+ p2  =
+ 
+    54977.84  
+ 
+ 
+ 
+ Now  P2(in W) = P_c/s =   
+ 
+    54977.835  
+ 
+ re  =
+ 
+    96.00000582  
+ 
+ 
+ 
+ Therefore,  % Rotor eta(in percentage) =   
+ 
+   96.  
+ 
+ 
+ (v)  I_2r = 60 A     given per phase   
+ 
+ 
+ now  Rotor copper loss/ph = I_2r^2 * R2   
+ 
+ r2  =
+ 
+    0.  
+ 
+ 
+ 
+ Therefore,  R2(in ohm/ph) =   
+ 
+    0.2036  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.11/exp5_11.sce #
+ 
+ 
+ 
+ P_out = 24 kW, I_L = 57 A   
+ 
+ 
+ P = 8, N = 720 r.p.m, f = 50 Hz   
+ 
+ 
+ I_L = 415 V, cos(phi) = 0.707   
+ 
+ ns  =
+ 
+    750.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   750.  
+ 
+ s  =
+ 
+    0.0  
+ 
+ 
+ 
+ Therefore,  s = N_s-N / N_s =   
+ 
+    0.04  
+ 
+ 
+ P_m - mechanical loss = P_out   
+ 
+ pin  =
+ 
+   *****  
+ 
+ 
+ 
+ Therefore,  P_in(in W) = P_out + mechanical loss = 24*10^3 + 1000 =   
+ 
+   25000.  
+ 
+ 
+ For rotor P2:P_c:P_m  is  1:s:1-s   
+ 
+ 
+ Therefore,  P_c/P_m = s/1-s   
+ 
+ pc  =
+ 
+    1042.  
+ 
+ 
+ 
+ Therefore,  P_c(in W) = P_m * (s/1-s) =   
+ 
+    1041.67  
+ 
+ po  =
+ 
+    318.31  
+ 
+ 
+ 
+ (i) Shaft torque  T_sh(in Nm) = P_out/omega = P_out / (2*pi*N/60) =   
+ 
+    318.31  
+ 
+ t  =
+ 
+    331.573  
+ 
+ 
+ (ii) Gross torque T(in Nm) = P_out/omega = P_out / (2*pi*N/60) =   
+ 
+    331.573  
+ 
+ 
+ (iii) Rotor copper losses = 1041.66 W   
+ 
+ 
+ Now  P2/P_c = 1/s   
+ 
+ p2  =
+ 
+    26041.5  
+ 
+ 
+ Therefore,  P2(in W) = P_c/s =   
+ 
+    26041.5  
+ 
+ pin  =
+ 
+    28967.  
+ 
+ 
+ 
+ And net input  P_in(in W) = sqrt(3)*V_L*I_L*cos(phi) =   
+ 
+    28966.96  
+ 
+ 
+ Stator current per phase = I_L = 57 A  (as star connected)   
+ 
+ 
+ R_s = Stator resistance per phase  = 0.1 ohm   
+ 
+ st  =
+ 
+    974.7  
+ 
+ 
+ 
+ Therefore,  Stator copper losses(in W) = 3*I_s^2*R_s   
+ 
+    974.7  
+ 
+ 
+ Now  P_in - Stator losses = P_2   
+ 
+ sl  =
+ 
+    2925.  
+ 
+ 
+ 
+ Therefore,  Stator losses(in W) =   
+ 
+    2925.46  
+ 
+ 
+ But  Stator losses = Stator iron loss + Stator copper loss   
+ 
+ stp  =
+ 
+    1950.76  
+ 
+ 
+ Therefore,  Stator iron losses(in W) =   
+ 
+    1950.76  
+ 
+ 
+ (iv)  Stator copper losses = 974.7 W   
+ 
+ 
+ (v) Stator iron losses = 1950.76 W   
+ 
+ eta  =
+ 
+    82.853  
+ 
+ 
+ 
+ (iv) % eta(in percentage) = P_out/P_in * 100 =   
+ 
+    82.85  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.15/exp5_15.sce #
+ 
+ 
+ 
+ P = 12, f = 50 Hz, R2 = 0.15 ohm, X2 = 0.25 ohm, E2 = 32 V per phase given   
+ 
+ 
+ Now  T =  (k*s*E2^2*R2 / R2^2+s*X2^2)       where k = 3 / 2*pi*ns   
+ 
+ ns  =
+ 
+    500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   500.  
+ 
+ ns  =
+ 
+    8.3  
+ 
+ 
+ 
+ n_s(in r.p.s) = N_s/60 =   
+ 
+    8.33  
+ 
+ tf  =
+ 
+    104.  
+ 
+ 
+ 
+ (i) T_st = (k*E2^2*R2 / R2^2+X2^2) = (3/2*pi*ns)*(k*E2^2*R2 / R2^2+X2^2) =   
+ 
+    103.58  
+ 
+ 
+ (ii) At  N = 480 r.p.m   
+ 
+ s  =
+ 
+    0.04  
+ 
+ 
+ 
+ s = N_s-N / N_s =   
+ 
+    0.04  
+ 
+ tfi  =
+ 
+    15.6  
+ 
+ 
+ 
+ Therefore,  T_F.L(in Nm) = (3/2*pi*ns)*(s*E2^2*R2 / R2^2+s*X2^2) =   
+ 
+    15.583  
+ 
+ 
+ (iii)  T_m = (3/2*pi*ns)*(E2^2 / 2*X2)   substituting s_m = R2/X2   
+ 
+ tm  =
+ 
+    117.39  
+ 
+ 
+ 
+ Therefore,  T_m(in Nm) =   
+ 
+    117.389  
+ 
+ sm  =
+ 
+    0.6  
+ 
+ 
+ 
+ (iv) Slip at T_m is,  s_m = R2/X2 =   
+ 
+    0.6  
+ 
+ n  =
+ 
+   200.  
+ 
+ 
+ 
+ Therefore,  N(in r.p.m) = N_s*(1-s_m) =   
+ 
+   200.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.18/exp5_18.sce #
+ 
+ 
+ 
+ P = 8, f = 50 Hz, f_s = 1.5 Hz   
+ 
+ 
+ f_s = s*f   
+ 
+ s  =
+ 
+    0.03  
+ 
+ 
+ 
+ Therefore,  s =            ...Slip   
+ 
+    0.03  
+ 
+ ns  =
+ 
+    750.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   750.  
+ 
+ n  =
+ 
+   728.  
+ 
+ 
+ 
+ N(in r.p.m) = N_s*(1-s_m) =                   ...Speed of the motor   
+ 
+    727.5  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.19/exp5_19.sce #
+ 
+ 
+ 
+ P = 4, f = 50 Hz, T_sh = 159 Nm, s = 5% = 0.05   
+ 
+ ns  =
+ 
+    1500.  
+ 
+ 
+ 
+ N_s(in r.p.m) = 120f/P =   
+ 
+   1500.  
+ 
+ n  =
+ 
+   1425.  
+ 
+ 
+ Therefore,  N(in r.p.m) = N_s*(1-s_m) =   
+ 
+   1425.  
+ 
+ po  =
+ 
+   *****  
+ 
+ 
+ 
+ Therefore,  P_out(in W) = T_sh * omega =   
+ 
+    23726.8785  
+ 
+ pm  =
+ 
+    24226.8785  
+ 
+ 
+ Therefore,  P_m(in W) = P_out + Friction and windage loss =   
+ 
+    24226.8785  
+ 
+ 
+ (a) P_2:P_c:P_m  is  1:s:1-s   
+ 
+ p2  =
+ 
+    25501.9774  
+ 
+ 
+ Therefore,  P_2/P_m = 1/1-s   
+ 
+ 
+ Therefore,  P_2(in W) =               ...Rotor input   
+ 
+    25501.9774  
+ 
+ pi  =
+ 
+    26501.9774  
+ 
+ 
+ (b) P_in(in W) = P_2 + Stator losses =            ...Motor input   
+ 
+    26501.9774  
+ 
+ eta  =
+ 
+    89.52871  
+ 
+ 
+ 
+ (e) %eta(in percentage) = P_out/P_in * 100 =   
+ 
+    89.529  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.22/exp5_22.sce #
+ 
+ 
+ 
+ P = 6, f = 50 Hz, s_0 = 1%, s_a = 3%   
+ 
+ ns  =
+ 
+    1000.  
+ 
+ 
+ 
+ (a) N_s(in r.p.m) = 120f/P =                ...Synchronous speed   
+ 
+   1000.  
+ 
+ n  =
+ 
+    990.  
+ 
+ 
+ 
+ (b) N_0(in r.p.m) = N_s*(1-s_0) =                   ...No load speed   
+ 
+   990.  
+ 
+ n  =
+ 
+   970.  
+ 
+ 
+ 
+ (c) N_ft(in r.p.m) = N_s*(1-s_a) =                   ...Full load speed   
+ 
+    970.  
+ 
+ 
+ (d) Frequency of rotor current at standstill = f = 50 Hz   
+ 
+ sa  =
+ 
+    1.5  
+ 
+ 
+ (e) Frequency of rotor current at full load(in Hz) = s_a*f =   
+ 
+    1.5  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH5/EX5.23/exp5_23.sce #
+ 
+ 
+ 
+ P = 6, f = 50 Hz, I_2r = 40 A, N = 960 r.p.m   
+ 
+ ns  =
+ 
+    1000.  
+ 
+ 
+ 
+ Therefore,  N_s(in r.p.m) = 120f/P =   
+ 
+   1000.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ 
+ Therefore,  s = N_s-N / N_s =   
+ 
+    0.04  
+ 
+ po  =
+ 
+   *****  
+ 
+ 
+ 
+ P_out(in W) = 50*H.P =                 ...1 H.P = 735.5 W   
+ 
+   36775.  
+ 
+ pin  =
+ 
+   38275.  
+ 
+ 
+ P_in(in W) = P_out + Mechanical losses + Gear loss =   
+ 
+   38275.  
+ 
+ 
+ Now  P_2:P_c:P_m  is  1:s:1-s   
+ 
+ 
+ Therefore,  P_c/P_m = s/1-s   
+ 
+ pc  =
+ 
+    1595.  
+ 
+ 
+ 
+ Therefore,  P_c(in W) =               ...Total rotor copper loss   
+ 
+    1594.7917  
+ 
+ r2  =
+ 
+    0.3322483  
+ 
+ 
+ 
+ Now  P_c = 3 * I_2r^2 * R2   
+ 
+ 
+ Therefore,  R2(in ohm/ph) =   
+ 
+    0.3322  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.1/exmaple6_1.sce #
+ 
+ 
+ 
+ The deflecting torque is given by,   
+ 
+ 
+ (T_d)=NBAI=100*15*A*5*10^-3 Nm   
+ 
+ 
+ Now A= Area = 10*8 =80 mm^2= 80*10^-6 m^2   
+ 
+ t  =
+ 
+    0.000006  
+ 
+ 
+ Therefore, (T_d)[in Nm]=100*0.15*80*(10^-6)*5*(10^-3)=   
+ 
+    0.000006  
+ 
+ 
+ Now, T_d=T_c=K*(theta)   
+ 
+ 
+ Therefore, 6*10^-6 = 0.2*10^-6 *(theta)   
+ 
+ t  =
+ 
+    30.  
+ 
+ 
+ Therefore, theta(in degree)=(6*10^-6)/(0.2*10^-6)=    
+ 
+    30.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.2/exmaple6_2.sce #
+ 
+ 
+ 
+ The rate of change of inductance with deflection is,   
+ 
+ 
+ dL/d(theta)=d(12+6(theta)-(theta^2))/d(theta)=6-2(theta) uH/radian= 6-2(theta) 
+      *10^-6 H/radians                                                          
+ 
+ 
+ From the torque equation,   
+ 
+ 
+ theta=(I^2)dL/(2*K*d(theta))   
+ 
+ 
+ therefore, theta=(8^2)*[6-2(theta)]*10^-6 /(2*12*10^-6)   
+ 
+ 
+ Therefore, 0.375(theta)=6-2(theta)   
+ 
+ t  =
+ 
+    2.5263158  
+ 
+ 
+ 
+ Therefore, theta[in radians]=    
+ 
+    2.526  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.3/exmaple6_3.sce #
+ 
+ 
+ 
+ Given values are, (R_m)=100 ohm, (I_m)=2 mA, I=150 mA   
+ 
+ 
+ (R_sh)=[(I_m)*(R_m)]/[I-(I_m)]   
+ 
+ r  =
+ 
+    1.3513514  
+ 
+ 
+ 
+ Therefore, (R_sh)[in ohm]=(2*100*10^-3)/((150*10^-3)-(2*10^3))=   
+ 
+    1.351  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.4/exmaple6_4.sce #
+ 
+ 
+ 
+ a) The drop across the shunt is same as drop across the coil.   
+ 
+ 
+ Therefore, [(I_sh)*(R_sh)]=400 mV   
+ 
+ i  =
+ 
+    40.  
+ 
+ 
+ Therefore, I_sh(in A)=(400*10^-3)/0.01=    
+ 
+    40.  
+ 
+ 
+ b) The voltage across shunt for shunted current of 50 A is,   
+ 
+ v  =
+ 
+    0.5  
+ 
+ 
+ V_sh(in V)=[(I_sh)*(R_sh)]=50*0.01=   
+ 
+    0.5  
+ 
+ 
+ For this voltage the meter should give full scale deflection. In first case, t 
+      he current through meter for full deflection was,                         
+ 
+ i  =
+ 
+    0.0005333  
+ 
+ 
+ I_m(in A)=(400mV)/(R_m)=(400*10^-3)/750=   
+ 
+    0.0005333  
+ 
+ 
+ The same I_m must flow for new voltage across the meter of 0.5 V   
+ 
+ 
+ Therefore, [(I_m)*(R_m)']=0.5   
+ 
+ 
+ Therefore, [(5.33*10^-4)*(R_m)']=0.5   
+ 
+ r  =
+ 
+    938.0863  
+ 
+ 
+ Therefore, (R_m')[in ohm]=   
+ 
+    938.0863  
+ 
+ 
+ This is the resistance of the meter required for 50 A shunted current to give  
+      full scale defection.                                                     
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.5/exmaple6_5.sce #
+ 
+ 
+ 
+ Given values are, R_m=500 ohm, I_m=40 uA and V=10 V   
+ 
+ r  =
+ 
+    249500.  
+ 
+ 
+ 
+ Now, (R_s)[in ohm]=V/(I_m) - R_m =   
+ 
+    249500.  
+ 
+ 
+ This is the required multiplier resistance   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.6/exmaple6_6.sce #
+ 
+ 
+ 
+ The meter current (I_m)=20 mA   
+ 
+ 
+ Drop across meter, (V_m)=200 mV   
+ 
+ 
+ Now, (V_m)=[(I_m)*(R_m)]   
+ 
+ 
+ Therefore, 200 mV = (20 mA)(R_m)   
+ 
+ r  =
+ 
+    10.  
+ 
+ 
+ Therefore, (R_m)[in ohm]=   
+ 
+    10.  
+ 
+ 
+ i) For using it as an ammeter, I=200 A   
+ 
+ r  =
+ 
+    0.0010000  
+ 
+ 
+ 
+ R_sh(in ohm)=[(I_m)*(R_m)]/[I-(I_m)]=   
+ 
+    0.001  
+ 
+ 
+ This is the required shunt.   
+ 
+ 
+ ii) For using it as a voltmeter, V=500 V   
+ 
+ 
+ Therefore, (R_s)=V/(I_m) - (R_m)   
+ 
+ r  =
+ 
+   24990.  
+ 
+ 
+ 
+ = (500/(20*10^-3))-10 =    
+ 
+    24990.  
+ 
+ 
+ This is the required multiplier.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.7/exmaple6_7.sce #
+ 
+ 
+ 
+ The arrangement is shown in the Fig 6.18(a)   
+ 
+ 
+ The voltmeter range = 50 V   
+ 
+ r  =
+ 
+    5000.  
+ 
+ 
+ Therefore, (R_m)[in ohm] = Voltmeter resistance = 100 ohm/V * 50 =   
+ 
+    5000.  
+ 
+ 
+ This appears in parallel with 55 ohm resistor as shown in the Fig.6.18(b)   
+ 
+ r  =
+ 
+    54.401583  
+ 
+ 
+ 
+ Therefore, R' (in ohm)= 55||5000 = (55*5000)/(55+5000)=    
+ 
+    54.40158  
+ 
+ i  =
+ 
+    0.501877  
+ 
+ 
+ 
+ Therefore, I(in A)=80/(105+R')=   
+ 
+    0.50188  
+ 
+ v  =
+ 
+    27.3029  
+ 
+ 
+ Therefore, Voltage across R'(in V)=[I*R']=0.501877*54.40158=   
+ 
+    27.3029  
+ 
+ 
+ The  voltmeter will sense this voltage.   
+ 
+ 
+ Therefore, Voltage indicated = 27.3029 V   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.8/exmaple6_8.sce #
+ 
+ 
+ 
+ I_m=15 mA, R_m=5 ohm   
+ 
+ 
+ i) I=2A   
+ 
+ r  =
+ 
+    0.0377834  
+ 
+ 
+ 
+ R_sh(in ohm)=[(I_m)*(R_m)]/[I-(I_m)]=   
+ 
+    0.03778  
+ 
+ 
+ ii) V=100 V   
+ 
+ r  =
+ 
+    6661.67  
+ 
+ 
+ 
+ R_s(in ohm)=V/I_m - R_m =   
+ 
+    6661.6667  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.9/exmaple6_9.sce #
+ 
+ 
+ 
+ R_m=5 ohm, I_m=15 mA   
+ 
+ 
+ i) I=15A   
+ 
+ r  =
+ 
+    0.0050050  
+ 
+ 
+ 
+ R_sh(in ohm)=[(I_m)*(R_m)]/[I-(I_m)]=   
+ 
+    0.005005  
+ 
+ 
+ ii) V=15 V   
+ 
+ r  =
+ 
+    995.  
+ 
+ 
+ 
+ R_s(in ohm)=V/I_m - R_m =   
+ 
+   995.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.10/exmaple6_10.sce #
+ 
+ 
+ 
+ R_m=2000 ohm, V_m=100 V, N=10000   
+ 
+ i  =
+ 
+    0.05  
+ 
+ 
+ Therefore, I_m(in A)=(V_m)/(R_m)=100/2000=   
+ 
+    0.05  
+ 
+ i  =
+ 
+    500.  
+ 
+ 
+ Therefore, AT for full scale deflection = (I_m)*N=0.05*10000   
+ 
+    500.  
+ 
+ 
+ For I=20 A, AT=I*N'   
+ 
+ 
+ Therefore, 500=20*N'   
+ 
+ n  =
+ 
+    25.  
+ 
+ 
+ Therefore, N'=   
+ 
+    25.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH6/EX6.11/exmaple6_11.sce #
+ 
+ 
+ 
+ I_m=15 mA, R_m=1.5 ohm at 15 degree celcius, R=3.5 ohm   
+ 
+ r  =
+ 
+    5.  
+ 
+ 
+ Therefore, R_mT(in ohm)= Total meter resistance = 1.5+3.5 =    
+ 
+    5.  
+ 
+ 
+ i) I=20A   
+ 
+ r  =
+ 
+    0.0037528  
+ 
+ 
+ 
+ Therefore, R_sh(in ohm)=[(I_m)*(R_mT)]/[I-(I_m)]=   
+ 
+    0.0037528  
+ 
+ 
+ ii) V=250 V   
+ 
+ r  =
+ 
+    6661.6667  
+ 
+ 
+ R_s(in ohm)=V/I_m - R_mT =   
+ 
+    6661.6667  
+ 
+ 
+ Now at 25 degree celcius, (R_m)' is the new meter resistance.   
+ 
+ 
+ R_m' = R_m[1+(alpha_1)*(t2-t1)] where t1=15 degree celcius, t2=25 degree celci 
+      us                                                                        
+ 
+ a  =
+ 
+    0.0040080  
+ 
+ 
+ 
+ (alpha_1)[in per degree celcius]=(alpha_0)/(1+[(alpha_0)*t1])=(1/234.5)/(1+(15 
+      /234.5))=                                                                 
+ 
+    0.004  
+ 
+ r  =
+ 
+    1.56  
+ 
+ 
+ 
+ Therefore, R_m'(in ohm)=1.5*(1+(0.004*(25-15)))=    
+ 
+    1.56  
+ 
+ r  =
+ 
+    5.06012  
+ 
+ 
+ 
+ Therefore, R_mT'(in ohm)=1.56012+3.5=   
+ 
+    5.06012  
+ 
+ 
+ Error in part(i) : The Fig. 6.19 shows two cases.   
+ 
+ 
+ Therefore, I_m1 at 15 degree celcius = (I*R_sh)/[(R_sh+(R_mT))]=7.4999*10^-4 I 
+ 
+ 
+ Therefore, I_m2 at 25 degree celcius = (I*R_sh)/[(R_sh+(R_mT'))]=7.41092*10^-4 
+       I                                                                        
+ 
+ i  =
+ 
+  - 1.18642  
+ 
+ 
+ 
+ % error = [(I_m2)-(I_m1)*100]/(I_m1)=    
+ 
+  - 1.1864  
+ 
+ 
+ Negative sign indicates that the reading is less than the actual reading.   
+ 
+ 
+ Error in part(ii) : The Fig. 6.19 shows two cases.   
+ 
+ 
+ Therefore, V_m1 = (V*R_mT)/(R_mT+R_s)=(5*V)/(5+16661.67)=2.9999*10^-4 V   
+ 
+ 
+ Therefore, V_m2 = (V*R_mT')/(R_mT'+R_s)=(5.06012*V)/(5.06012+16661.67)=3.03606 
+      *10^-4 V                                                                  
+ 
+ v  =
+ 
+    1.2054  
+ 
+ 
+ 
+ % error = [(V_m2)-(V_m1)*100]/(V_m1)=    
+ 
+    1.2054  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.1/exp7_1.sce #
+ 
+ 
+ 
+ Forbidden gap for silicon is given by,   
+ 
+ 
+ E_C = 1.21 - 3.6*10^-4 * T   
+ 
+ 
+ Now  T = 35+273 = 308 K   
+ 
+ ec  =
+ 
+    1.09912  
+ 
+ 
+ 
+ Therefore,  E_C(in eV) =   
+ 
+    1.099  
+ 
+ 
+ While forbidden gap for germanium is given by,   
+ 
+ 
+ E_C = 0.785 - 2.23*10^-4 * T   
+ 
+ ec  =
+ 
+    0.716  
+ 
+ 
+ 
+ Therefore,  E_C(in eV) =   
+ 
+    0.7163  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.2/exp7_2.sce #
+ 
+ 
+ 
+ The given values are, n_i = 1.5*10^10 / cm^3   
+ 
+ 
+ Therefore,  n_i = 1.5*10^10/10^-6 /m^3   
+ 
+ 
+                 = 1.5*10^16 /m^3   
+ 
+ 
+ And  u_n = 1300*10^-4 m^2/V-sec   
+ 
+ 
+      u_p = 500*10^-4 m^2/V-sec   
+ 
+ 
+ Now  sigma_i = n_i*(u_n + u_p)*e             ...conductivity   
+ 
+ sig  =
+ 
+    0.000432  
+ 
+ 
+ 
+ Therefore  sigma_i(in per ohm-m) =   
+ 
+    0.000432  
+ 
+ rho  =
+ 
+    2314.815  
+ 
+ 
+ 
+ Therefore,  rho(in ohm-m) = 1/sigma_i =   
+ 
+    2314.8148  
+ 
+ 
+ This is the required resistivity   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.3/exp7_3.sce #
+ 
+ 
+ 
+ Electron density = n_i = carrier intrinsic concentration   
+ 
+ 
+ Therefore,  n_i = 1.5*10^16 /m^3   
+ 
+ 
+ For intrinsic semiconductor,   
+ 
+ 
+   sigma_i = n_i*(u_n + u_p)*e   
+ 
+ 
+ where  e = charge on one electron = 1.6*10^-19 C   
+ 
+ sig  =
+ 
+    0.000456  
+ 
+ 
+ 
+ Therefore  sigma_i(in per ohm-m) = Conductivity =   
+ 
+    0.000456  
+ 
+ rho  =
+ 
+    2192.982  
+ 
+ 
+ 
+ Therefore,  rho(in ohm-m) = Resistivity = 1/sigma_i =   
+ 
+    2192.982  
+ 
+ 
+        Now    R = roh*l/A   
+ 
+ 
+ Therefore,  V/A = roh*l/A   
+ 
+ l  =
+ 
+    0.855000  
+ 
+ 
+ 
+ Therefore,  l(in mm) =   
+ 
+    0.855  
+ 
+ 
+ This is the length of the bar   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.4/exp7_4.sce #
+ 
+ 
+ 
+ Given values are   
+ 
+ 
+   n_i = 2.5*10^13 /cm^3   
+ 
+ 
+ Therefore,  n_i = 2.5*10^13/10^-6 /m^3   
+ 
+ 
+                 = 2.5*10^19 /m^3   
+ 
+ 
+ And  u_n = 3800*10^-4 m^2/V-sec   
+ 
+ 
+      u_p = 1800*10^-4 m^2/V-sec   
+ 
+ 
+   sigma_i = n_i*(u_n + u_p)*e   
+ 
+ sig  =
+ 
+    2.24  
+ 
+ 
+ 
+ Therefore  sigma_i(in per ohm-m) =   
+ 
+    2.24  
+ 
+ rho  =
+ 
+    0.45  
+ 
+ 
+ 
+ Therefore,  rho_i(in ohm-cm) = 1/sigma_i =   
+ 
+    0.4464  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.7/exp7_7.sce #
+ 
+ 
+ 
+ Referring to the table 7.2 of properties of germanium has 4.4*10^22 atoms/cm^3 
+ 
+ 
+ For 10^8 germanium atom there is 1 atom impurity added, as given.   
+ 
+ 
+ Thus, for 4.4*10^22 germanium atoms, we have,   
+ 
+ 
+        = 4.4*10^22 / 10^8 = 4.4*10^14 atoms of impurity/cm^3   
+ 
+ 
+ This is nothing but concentration of donor atoms i.e. N_D   
+ 
+ 
+ Therefore,  N_D = 4.4*10^14 per cm^3 = 4.4*10^14/10^-6 = 4.4*10^20 per m^3   
+ 
+ 
+ Now as donor impurity is added, n-type material will form,   
+ 
+ 
+ Therefore,  sigma_n = n_n*u_n*q = N_D*u_n*q   
+ 
+ 
+ where  n_n ~ N_D and u_n = 3800 cm^2/V-sec = 3800*10^-4 m^2/V-sec   
+ 
+ sigm  =
+ 
+    26.752  
+ 
+ 
+ 
+ Therefore,  sigma_n(in per ohm-m) =   
+ 
+    26.752  
+ 
+ rho  =
+ 
+    3.738  
+ 
+ 
+ 
+ Therefore,  rho_n(in ohm-cm) = Resistivity = 1/sigma_i =   
+ 
+    3.74  
+ 
+ 
+ Comparing this with resistivity of intrinsic germanium it can be observed that 
+       resistivity reduces considerably due to addition of impurity. Hence cond 
+      uctivity of n-type material is much higher and hence it can carry more cu 
+      rrent as compared to the intrinsic semiconductors. By controlling amount  
+      of doping we can control the conductivity.                                
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.9/exp7_9.sce #
+ 
+ 
+ 
+ The current equation of a diode is   
+ 
+ 
+ I = I_0 * (e^(V/eta*VT) - 1)   
+ 
+ 
+ At 300 K,  VT = 26 mV = 26*10^-3 V   
+ 
+ 
+   V = 0.71 V for I = 2.5 mA  and eta = 2 for silicon   
+ 
+ i0  =
+ 
+    2.939D-09  
+ 
+ 
+ 
+ Therefore,  I_0(in A) =   
+ 
+    2.94D-09  
+ 
+ 
+ Now V = 0.8 V   
+ 
+ i  =
+ 
+    14.07087  
+ 
+ 
+ 
+ Therefore,  I(in mA) =   
+ 
+    14.07  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.10/exp7_10.sce #
+ 
+ 
+ 
+ the given values are I_0 = 3 uA, T = 27 C = 27+273 = 300 K, eta =1   
+ 
+ 
+ Now  I_rated = 1 A for diode   
+ 
+ 
+ and  I = 1% of I_rated at 27 C   
+ 
+ 
+ Therefore,  I = 0.01 A   
+ 
+ vt  =
+ 
+    0.02586  
+ 
+ 
+ 
+ V_T(in V) = k*T =   
+ 
+    0.026  
+ 
+ 
+ According to diode equation,  I = I_0 * (e^(V/eta*VT) - 1)   
+ 
+ v  =
+ 
+    0.211  
+ 
+ 
+ 
+ Therefore,  V(in V) =   
+ 
+    0.2109  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.11/exp7_11.sce #
+ 
+ 
+ 
+ At V1 = 0.4 V, I1 = 10 mA and at V2 = 0.42 V, I2 = 2*I1 = 20 mA   
+ 
+ 
+ Now  I = I_0 * (e^(V/eta*VT) - 1)   
+ 
+ 
+ Therefore,  (10*10^-3) = I_0 * (e^(0.4/(eta*26*10^3)) - 1)          ...(1)   
+ 
+ 
+ and  (20*10^-3) = I_0 * (e^(0.42/(eta*26*10^3)) - 1)                ...(2)   
+ 
+ 
+ In forward bias condition 1 << e^(VT/eta*VT),  Therefore, Neglecting 1   
+ 
+ 
+ (10*10^-3) = (I_0)*e^(15.384/eta)     ..(3)   
+ 
+ 
+ and, (20*10^-3) = (I_0)*e^(16.153/eta)   
+ 
+ 
+ Dividing the two equations (3) and (4),   
+ 
+ 
+ (1/2) = (e^(15.384/eta))/(e^(16.153/eta))   
+ 
+ 
+ Therefore, (e^(16.153/eta)) = 2*(e^(15.384/eta))   
+ 
+ 
+ Taking natural logarithm of both sides,   
+ 
+ 
+ Therefore, 16.153/eta = ln2 + 15.384/eta   
+ 
+ 
+ Therefore, (1/eta)*(16.153-15.384) = 0.6931   
+ 
+ e  =
+ 
+    1.109508  
+ 
+ 
+ Therefore, eta=   
+ 
+    1.109508  
+ 
+ 
+ Hence (I_0)=9.45 nA   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.12/exp7_12.sce #
+ 
+ 
+ 
+ I_01 = 3 nA at T1 = 27 C, T2 = 82 C   
+ 
+ dt  =
+ 
+    55.  
+ 
+ 
+ 
+ (i) deltaT(in degree C) = T2 - T1 =   
+ 
+   55.  
+ 
+ dt1  =
+ 
+   ***  
+ 
+ 
+ 
+ Therefore,  I_02(in nA) = 2^(deltaT/10) * I_01 =   
+ 
+    135.765  
+ 
+ 
+ (ii) V = 0.25 V, I_02 = 135.764 nA at 82 C   
+ 
+ 
+ Thereforem  I_f = I_0 * (e^(V/eta*VT) - 1)   
+ 
+ vt  =
+ 
+    0.03060  
+ 
+ 
+ 
+ V_T(in V) = T/11600 =   
+ 
+    0.0306  
+ 
+ 
+ eta = 2 for Si   
+ 
+ i0  =
+ 
+    7.934  
+ 
+ 
+ 
+ Therefore,  I_f(in uA) =   
+ 
+    7.934  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.14/exp7_14.sce #
+ 
+ 
+ 
+ In the circuit of the fig.7.47(a), the diode will be forward biased during neg 
+      ative half cycle of a.c. input voltage, and d.c output voltage will be ne 
+      gative w.r.t common ground terminal, as shown.                            
+ 
+ 
+ (a) For an ideal diode, cut-in voltage V_T = 0, R_T = 0   
+ 
+ dc  =
+ 
+  - 4.7746483  
+ 
+ 
+ 
+ D.C. output voltage(in V) = -Maximum value of a.c. input voltage / pi =   
+ 
+  - 4.77  
+ 
+ 
+ Negative sign indicates that voltage is negative w.r.t ground.   
+ 
+ 
+ (b) For a silicon diode, V_T = 0.7 V, R_f is assumed to be zero   
+ 
+ dc1  =
+ 
+  - 4.55  
+ 
+ 
+ 
+ D.C. output voltage(in V) = -[Maximum value of a.c. voltage-V_T] / pi =   
+ 
+  - 4.55  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.15/exp7_15.sce #
+ 
+ 
+ 
+ Given values are R_L = 1 k-ohm, V_m = 10 V peak   
+ 
+ 
+ case(i) Ideal diode   
+ 
+ 
+ Cut-in voltage V_T = 0 V, R_f = 0 ohm   
+ 
+ edc  =
+ 
+    3.1830989  
+ 
+ 
+ 
+ Therefore,  E_DC(in V) = V_m/pi =   
+ 
+    3.18  
+ 
+ idc  =
+ 
+    3.18  
+ 
+ 
+ Therefore,  I_DC(in mA) = E_DC/R_L =   
+ 
+    3.18  
+ 
+ 
+ case(ii) Silicon diode   
+ 
+ 
+ Cut-in voltage V_T = 0.7 V   
+ 
+ edc  =
+ 
+    2.96  
+ 
+ 
+ 
+ Therefore,  E_DC(in V) = V_m-V_T / pi =   
+ 
+    2.96  
+ 
+ idc  =
+ 
+    2.96  
+ 
+ 
+ Therefore,  I_DC(in mA) = E_DC/R_L =   
+ 
+    2.96  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.17/exp7_17.sce #
+ 
+ 
+ 
+ Given: E_s=30 V, R_f=2 ohm, R_s=8 ohm, R_L=1 k-ohm   
+ 
+ 
+ E_s=E_RMS=30 V   
+ 
+ e  =
+ 
+    42.426407  
+ 
+ 
+    7.  
+ 
+ 
+ E_sm(in V)=(E_s)*sqrt(2)=   
+ 
+    42.426407  
+ 
+ i  =
+ 
+    0.0420063  
+ 
+ 
+ 
+ I_m(in A)=(E_sm)/(R_f+R_L+R_s)=   
+ 
+    0.042  
+ 
+ i  =
+ 
+    26.74  
+ 
+ 
+ 
+ I_DC(in mA)=(2*I_m)/pi=   
+ 
+    26.74  
+ 
+ p  =
+ 
+    0.715  
+ 
+ 
+ a) Power delivered to the load = (I_DC^2)*(R_L) =    
+ 
+    0.715  
+ 
+ v  =
+ 
+    27.01  
+ 
+ 
+ 
+ V_DC, no load = (2*E_sm)/pi =    
+ 
+   27.  
+ 
+ v  =
+ 
+   27.  
+ 
+ 
+ 
+ V_DC, full load (in V) = (I_DC)*R_L =    
+ 
+    26.74  
+ 
+ r  =
+ 
+    0.010  
+ 
+ 
+ 
+ % Regulation = ((V_NL-V_FL)*100)/(V_FL)=    
+ 
+    0.01  
+ 
+ e  =
+ 
+    0.80  
+ 
+ 
+ 
+ c) Efficiency of rectification = dc output/ac output =   
+ 
+    0.803  
+ 
+ t  =
+ 
+    0.891  
+ 
+ 
+ 
+ d) Transformer secondary rating(in W) = (E_RMS)*(I_RMS) =    
+ 
+    0.89  
+ 
+ u  =
+ 
+    0.80  
+ 
+ 
+ TUF = DC power output/AC rating =    
+ 
+    0.80  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.20/exp7_20.sce #
+ 
+ 
+ 
+ P_DC=500 W, Half wave rectifier   
+ 
+ 
+ For half wave rectifier, %eta=40.6%       ...(Assuming maximum)   
+ 
+ 
+ Therefore, 40.6=(P_DC*100)/(P_AC)   
+ 
+ 
+ Therefore, 40.6=(500*100)/(P_AC)   
+ 
+ p  =
+ 
+    1231.5271  
+ 
+ 
+ 
+ Therefore, P_AC(in W)=   
+ 
+    1231.527  
+ 
+ 
+ For the same load, with full wave rectifier the maximum rectifier efficiency i 
+      s 81.2%                                                                   
+ 
+ 
+ Therefore, 81.2=(500*100)/(P_AC)   
+ 
+ p  =
+ 
+    615.7635  
+ 
+ 
+ 
+ Therefore, P_AC(in W)=   
+ 
+    615.76355  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.21/exp7_21.sce #
+ 
+ 
+ 
+ The given values are,   
+ 
+ 
+ R_f=0.1 ohm, I_DC=10 A, R_s= 0 ohm, E_s(RMS)=30 V   
+ 
+ e  =
+ 
+    42.426407  
+ 
+ 
+ 
+ Now, (E_sm)=E_sm(RMS)*sqrt(2) =   
+ 
+    42.4264  
+ 
+ 
+ (I_DC)=(2*I_m)/pi   
+ 
+ i  =
+ 
+    15.708  
+ 
+ 
+ I_m(in A)=(pi*I_DC)/2=   
+ 
+    15.708  
+ 
+ 
+ Now, (I_m)=(E_m)/(2*R_f+R_s+R_L)   
+ 
+ 
+ Therefore, 15.7079 = 42.4264/(2*0.1+R_L)   
+ 
+ 
+ Therefore, R_L+0.2=2.7   
+ 
+ r  =
+ 
+    2.5  
+ 
+ 
+ Therefore, R_L(in ohm)=   
+ 
+    2.5  
+ 
+ p  =
+ 
+    250.  
+ 
+ 
+ P_DC(in W)=(I_DC^2)*R_L=   
+ 
+    250.  
+ 
+ 
+ P_AC = (I_RMS^2)*(2*R_f+R_s+R_L)   
+ 
+ i  =
+ 
+    11.1072  
+ 
+ 
+ and, (I_RMS)[in A]=(I_m)/sqrt(2)=   
+ 
+    11.1072  
+ 
+ p  =
+ 
+    333.093  
+ 
+ 
+ Therefore, (P_AC)[in W]=   
+ 
+    333.093  
+ 
+ e  =
+ 
+    75.0543  
+ 
+ 
+ % eta=(P_DC*100)/(P_AC)=   
+ 
+    75.0543  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.22/exp7_22.sce #
+ 
+ 
+ 
+ R_L =5 k-ohm=5*10^3 ohm, N1:N2 is 2:1   
+ 
+ 
+ E_p = 460V RMS value   
+ 
+ 
+ Therefore, (E_s)/(E_p)=N2/N1=1/2   
+ 
+ 
+ Therefore, E_s = (E_p)/2 = 230 V   
+ 
+ e  =
+ 
+    325.26912  
+ 
+ 
+ 
+ Therefore, E_sm(in V)=   
+ 
+    325.269  
+ 
+ 
+ Now, (I_DC)=(2*I_m)/pi      where (I_m)=(E_sm)/(R_L) neglecting R_f   
+ 
+ i  =
+ 
+    0.04141  
+ 
+ 
+ 
+ Therefore, (I_DC)[in A]=(2*E_sm)/(pi*R_L)=   
+ 
+    0.04141  
+ 
+ d  =
+ 
+    207.05  
+ 
+ 
+ 
+ DC load voltage E_DC(in V) = (I_DC)*(R_L) =    
+ 
+    207.05  
+ 
+ 
+ Ripple voltage = ripple factor*(V_DC)   
+ 
+ 
+ Ripple factor of bridge rectifier is 0.482   
+ 
+ r  =
+ 
+    99.8087  
+ 
+ 
+ 
+ Therefore, Ripple factor =    
+ 
+    99.8  
+ 
+ 
+ PIV rating of each diode = (E_sm) for bridge rectifier = 325.27 V   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.23/exp7_23.sce #
+ 
+ 
+ 
+ E_p(rms) = 230V, N2/N1 = 1/15, R_L=50 ohm   
+ 
+ 
+ R_f = R_s = 0 ohm as ideal   
+ 
+ 
+ Now, E_p(rms)/E_s(rms) = N1/N2   
+ 
+ e  =
+ 
+    15.333333  
+ 
+ 
+ 
+ Therefore, E_s(rms)[in V] = N2*E_p(rms)/N1 = 230/15 =    
+ 
+    15.333  
+ 
+ e  =
+ 
+    21.684  
+ 
+ 
+ Therefore, E_sm(in V) =    
+ 
+    21.684  
+ 
+ i  =
+ 
+    0.4337  
+ 
+ 
+ Therefore, (I_m) = (E_sm)/(R_s+2*R_f+R_L)=    
+ 
+    0.4337  
+ 
+ i  =
+ 
+    0.2760  
+ 
+ 
+ I_DC(in A)=(2*I_m)/pi=   
+ 
+    0.2760  
+ 
+ e  =
+ 
+    13.8  
+ 
+ 
+ Therefore, E_DC(in V)=Load voltage=(I_DC)*(R_L)=   
+ 
+    13.8  
+ 
+ 
+ Ripple factor = 0.482       ..For full wave rectifier   
+ 
+ 
+ Ripple factor = (ac rms output)/(dc output)=(ripple voltage)/E_DC   
+ 
+ 
+ Therefore, 0.482=ripple factor   
+ 
+ r  =
+ 
+    6.6516  
+ 
+ 
+ Therefore, Ripple voltage = 13.8*0.482 =    
+ 
+    6.6516  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.25/exp7_25.sce #
+ 
+ 
+ 
+ For a half wave rectifier,   
+ 
+ 
+ (I_m) = (E_sm)/(R_f+R_L)   
+ 
+ 
+ and, (I_DC) = (I_m)/pi = (E_sm)/pi*(R_f+R_L)   
+ 
+ 
+ and, (V_DC) = (I_DC)*(R_L)   
+ 
+ 
+ Therefore, (P_DC) = (V_DC)*(I_DC) = (I_DC^2)*(R_L) = ((E_sm^2)*(R_L))/((pi^2)* 
+      (R_f+R_L)^2)                                                              
+ 
+ 
+ For this power to be maximum,   
+ 
+ 
+ (dP_DC)/(dR_L) = 0   
+ 
+ 
+ (d/dR_L)*((E_sm^2)*(R_L))/((pi^2)*(R_f+R_L)^2) = ((E_sm^2)/(pi^2))*((R_f+R_L)^ 
+      2 - R_L*2(R_f+R_L))/(R_f+R_L)^4                                           
+ 
+ 
+ Therefore,  (R_f+R_L)^2 - 2*R_L*(R_f+R_L) = 0   
+ 
+ 
+ Therefore,  (R_f^2)-(R_L^2) = 0   
+ 
+ 
+ Therefore,  (R_L)^2 = (R_f)^2     i.e.     R_L = R_f   
+ 
+ 
+ Thus the power output is maximum if R_L = R_f   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.29/exp7_29.sce #
+ 
+ 
+ 
+ For silicon diode, eta=2, (I_0)=10 uA, (V_T)=26 mV   
+ 
+ 
+ I = (I_0)*[e^(V/(eta*V_T))-1]   
+ 
+ i  =
+ 
+    0.0000584  
+ 
+ 
+ 
+ i) I(in A)=(10*10^-6)*(e^(0.1/(2*26*10^-3))-1)=   
+ 
+    0.0000584198  
+ 
+ i  =
+ 
+    0.0004581267  
+ 
+ 
+ ii) I(in A)=(10*10^-6)*(e^(0.1/(2*26*10^-3))-1)=   
+ 
+    0.0004581267  
+ 
+ i  =
+ 
+    0.0031929126  
+ 
+ 
+ iii) I(in A)=(10*10^-6)*(e^(0.1/(2*26*10^-3))-1)=   
+ 
+    0.0031929126  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.30/exp7_30.sce #
+ 
+ 
+ 
+ (I_01)=0.1 uA, (T_1)=20 degree celcius, (T_2)=40 degree celcius   
+ 
+ i  =
+ 
+    0.4  
+ 
+ 
+ Therefore, (I_02)[in uA]=(I_01)*(2^(delta(T))/10)   
+ 
+    0.4  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH7/EX7.31/exp7_31.sce #
+ 
+ 
+ 
+ As the impurity is accepter, it forms a p-type material.   
+ 
+ 
+ Therefore, N_A = 10^22 /m^3 = p_p   
+ 
+ 
+ Now, (p_p)*(n_p)=(n_i)^2    i.e.   (10^22)*(n_p)=(1.4*10^16)^2   
+ 
+ n  =
+ 
+    1.960D+10  
+ 
+ 
+ Therefore, n(in /m^3)=    
+ 
+    1.960D+10  
+ 
+ r  =
+ 
+    80.  
+ 
+ 
+ rho(in (ohm-m)^-1) = ((n_p*u_n)+(p_p*u_p))*e =    
+ 
+    80.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH8/EX8.1/example8_1.sce #
+ 
+ 
+ 
+ Given : I_E=12 mA, I_E= 1.02(I_c)   
+ 
+ 
+ Therefore, 1.02(I_c)=12*10^-3   
+ 
+ i  =
+ 
+    0.0117647  
+ 
+ 
+ 
+ I_c(in A)=   
+ 
+    0.011765  
+ 
+ 
+ I_E = I_B + I_c   
+ 
+ b  =
+ 
+    0.235  
+ 
+ 
+ Therefore, I_B(in mA) = I_E - I_c = (12-11.765)mA =    
+ 
+    0.235  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH8/EX8.2/example8_2.sce #
+ 
+ 
+ 
+ a) (alpha_dc)=(beta_dc)/(1+(beta_dc))   
+ 
+ b  =
+ 
+    0.9803922  
+ 
+ 
+ 
+ For, (beta_dc)=50, (alpha_dc)=50/(1+50)=   
+ 
+    0.9804  
+ 
+ b  =
+ 
+    0.9948  
+ 
+ 
+ For, (beta_dc)=190, (alpha_dc)=190/(1+190)=   
+ 
+    0.9948  
+ 
+ 
+ b) (beta_dc)=(alpha_dc)/(1-(alpha_dc))   
+ 
+ a  =
+ 
+    199.  
+ 
+ 
+ For, (alpha_dc)=0.995, (beta_dc)=0.995/(1-0.995)=   
+ 
+    199.  
+ 
+ a  =
+ 
+    41.553  
+ 
+ 
+ 
+ For, (alpha_dc)=0.9765, (beta_dc)=0.9765/(1-0.9765)=   
+ 
+    41.55  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH8/EX8.3/example8_3.sce #
+ 
+ 
+ 
+ Given : I_B=20 uA, I_E=6.4 mA   
+ 
+ 
+ I_E=I_B+I_C=I_B+[(I_B)*(beta_dc)]=(I_B)*(1+(beta_dc))   
+ 
+ b  =
+ 
+    20480.  
+ 
+ 
+ (beta_dc)+1=(I_E)/(I_B)=   
+ 
+    20480.  
+ 
+ b  =
+ 
+    319.  
+ 
+ 
+ Therefore, (beta_dc)=   
+ 
+    319.  
+ 
+ a  =
+ 
+    0.996875  
+ 
+ 
+ 
+ (alpha_dc)=(beta_dc)/(1+(beta_dc))=319/(1+319)=   
+ 
+    0.9969  
+ 
+ i  =
+ 
+    6380.  
+ 
+ 
+ I_C(in uA)=[(beta_dc)*(I_B)]=   
+ 
+    6380.  
+ 
+ c  =
+ 
+    6.3795  
+ 
+ 
+ Also, (I_C)[in mA]=[(alpha_dc)*(I_E)]=   
+ 
+    6.3795  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH8/EX8.4/example8_4.sce #
+ 
+ 
+ 
+ Given: I_CO=1.1 uA, I_E=21 uA   
+ 
+ 
+ I_CEO=(1+(beta_dc))*(I_CO)   
+ 
+ 
+ 1+(beta_dc)=(I_CEO).(I_CO)=(21 uA)/(1.1 uA)=19   
+ 
+ b  =
+ 
+    18.  
+ 
+ 
+ Therefore, (beta_dc)=   
+ 
+    18.  
+ 
+ a  =
+ 
+    0.9473684  
+ 
+ 
+ 
+ (alpha_dc)=(beta_dc)/(1+(beta_dc))=18/(1+18)=   
+ 
+    0.947  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH8/EX8.7/example8_7.sce #
+ 
+ 
+ 
+ V_m= Peak value of input =200 V   
+ 
+ 
+ V_BO=100 V with I_G=2 mA and R_L=100 ohm   
+ 
+ a  =
+ 
+    30.  
+ 
+ 
+ i) Firing angle alpha(in degree)=sinh((V_BO)/(V_m))=sinh(100/200)=   
+ 
+    30.  
+ 
+ a  =
+ 
+    150.  
+ 
+ 
+ ii) Conduction angle beta = 180-(alpha) =   
+ 
+    150.  
+ 
+ v  =
+ 
+    59.397433  
+ 
+ 
+ 
+ iii) Average output voltage (V_dc)=(V_m*(1+cos30))/(2*pi)=   
+ 
+    59.397  
+ 
+ p  =
+ 
+    35.272  
+ 
+ 
+ 
+ (P_dc(av))[in W]=(V_dc^2)/R_L=   
+ 
+    35.2717  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH8/EX8.8/example8_8.sce #
+ 
+ 
+ 
+ (V_dc(av))=80 V, (V_rms)=230 V   
+ 
+ 
+ Note that given ac mains voltage is rms unless and otherwise specified to be p 
+      eak                                                                       
+ 
+ v  =
+ 
+    325.26912  
+ 
+ 
+ 
+ Therefore, V_m(in V)=sqrt(2)*(V_rms)=   
+ 
+    325.269  
+ 
+ 
+ Now , (V_dc(av))=(V_m*(1+cos(alpha)))/(2*pi)   
+ 
+ 
+ Therefore, 80=(325.269*(1+cos(alpha)))/(2*pi)   
+ 
+ 
+ Therefore, cos(alpha)=0.5453   
+ 
+ c  =
+ 
+    56.9548  
+ 
+ 
+ 
+ Therefore, alpha(in degree)=   
+ 
+    56.95  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH8/EX8.9/example8_9.sce #
+ 
+ 
+ 
+ For half wave rectifier, the SCR operates as shown in the Fig. 8.63.   
+ 
+ 
+ V_in = 325*sin(wt)=V_m*sin(wt)   
+ 
+ 
+ Therefore, V_m = 325 V   
+ 
+ 
+ w=100*pi rad/sec   
+ 
+ 
+ V_BO=125 V   
+ 
+ a  =
+ 
+    0.3941684  
+ 
+ 
+ 
+ Therefore, alpha=sinh(V_BO/V_m)=   
+ 
+    0.394  
+ 
+ d  =
+ 
+    0.395  
+ 
+ 
+ 
+ Therefore, alpha=(22.619*pi)/180 radian=   
+ 
+    0.3948  
+ 
+ t  =
+ 
+    0.0013  
+ 
+ 
+ 
+ Therefore, Time of alpha(in sec)=alpha/w=0.3947/(100*pi)=   
+ 
+    0.00126  
+ 
+ 
+ For this period SCR remains OFF in positive half cycle.   
+ 
+ 
+ While for entire negative half cycle i.e. for pi radians (180 degree) it remai 
+      ns OFF. Thus corresponding time is (angle/w)                              
+ 
+ a  =
+ 
+    0.01  
+ 
+ 
+ i.e. pi/(100*pi)[in sec]=    
+ 
+    0.01  
+ 
+ t  =
+ 
+    11.25  
+ 
+ 
+ Total time for which SCR is OFF(in msec) = 10+1.25=    
+ 
+    11.25  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.1/example9_1.sce #
+ 
+ 
+ 
+ The arrangement is shown in the Fig. 9.2   
+ 
+ 
+ Let x=0 at negative plate and x=2*10^-2 m at positive plate.   
+ 
+ 
+ The E is constant and its magnitude is given by,   
+ 
+ e  =
+ 
+    500.  
+ 
+ 
+ E(in V/m)=V/d=   
+ 
+    500.  
+ 
+ 
+ The electron will move with constant acceleration as field is uniform,   
+ 
+ a  =
+ 
+    0.0000878  
+ 
+ 
+ a_x(in m/sec^2)=(q*E)/m=   
+ 
+    0.0000878  
+ 
+ 
+ The velocity v_x is given by,   
+ 
+ 
+ (v_x)=(a_x)*t+(V_ox)      .. v_ox =0 as electron is at rest   
+ 
+ 
+ and  x=(1/2 *a_x *t^2)+(V_ox *t)+(x_o)....(v_ox)=(x_o)=0   
+ 
+ x  =
+ 
+    0.0000439  
+ 
+ 
+ Therefore, x(in m)=(1/2)*8.7844*(10^13)*((1*10^-9)^2)=   
+ 
+    0.0000439  
+ 
+ 
+ ii) When electron reaches to second plate, x=2*10^-2 m   
+ 
+ 
+ Therefore, x=(1/2)*(a_x)*t^2   
+ 
+ 
+ Therefore, 2*10^-2 = (1/2)*(8.7844*10^13)*t^2   
+ 
+ 
+ Therefore, t^2 = 4.5535*10^-16   
+ 
+ t  =
+ 
+    2.134D-08  
+ 
+ 
+ 
+ Therefore, t(in sec)=   
+ 
+    0.000000021339  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.2/example9_2.sce #
+ 
+ 
+ 
+ Initially electron is at rest and V=200 V   
+ 
+ 
+ Therefore, v(in m/sec)=sqrt(2*q*V/m)=(5.94*10^5)*sqrt(V)   
+ 
+ v  =
+ 
+    8400428.6  
+ 
+ 
+ 
+ = (5.94*10^5)*sqrt(200) =    
+ 
+    8.4D+06  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.4/example9_4.sce #
+ 
+ 
+ 
+ d=1 cm, L=33 cm, l=4.5 cm, (V_a)=300 V, (V_d)=50 V   
+ 
+ v  =
+ 
+    10267104.  
+ 
+ 
+ 
+ i) (v_ox[in m/s])=sqrt(2*q*(V_a)/m)=sqrt((2*1.6*300*10^-19)/(9.107*10^-13))=   
+ 
+    1.03D+07  
+ 
+ d  =
+ 
+    0.12375  
+ 
+ 
+ 
+ ii) D(in m)=(l*L*(V_d))/(2*d*V_a)=    
+ 
+    0.1238  
+ 
+ s  =
+ 
+    0.0025  
+ 
+ 
+ 
+ iii) S(in m/V)=D/(V_d)=    
+ 
+    0.002474  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.7/example9_7.sce #
+ 
+ 
+ 
+ phi=8 degree, l=3 cm, B=0.6 mT=0.6*10^-3 Wb/m^2   
+ 
+ 
+ a) phi=(l*q*B)/(m*v) where v= velocity of electrons   
+ 
+ 
+ But phi must be in radians   
+ 
+ p  =
+ 
+    0.1396263  
+ 
+ 
+ 
+ Therefore, phi=8 degree=(8*pi)/180 radians=    
+ 
+    0.1396  
+ 
+ 
+ Therefore, 0.1396 = ((3*10^-2)*(1.6*10^-19)*(0.6*10^-3))/(9.107*10^-31 *v)   
+ 
+ v  =
+ 
+    2.D+07  
+ 
+ 
+ 
+ Therefore, v(in m/s)=   
+ 
+    2.27D+07  
+ 
+ 
+ b) f_m(in N) = (B*q*v) = force on each electron   
+ 
+ f  =
+ 
+    2.17D-15  
+ 
+ 
+ = (0.6*10^-3)*(1.6*10^-19)*(22.65*10^6) =    
+ 
+    2.17D-15  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.8/example9_8.sce #
+ 
+ 
+ 
+ It can be observed that the screen is divided such that one part is subdivided 
+       into 5 units.                                                            
+ 
+ 
+ Therefore, 1 subdivision = 1/5 = 0.2 units   
+ 
+ 
+ It can be observed that positive peak of signal corresponds to two full divisi 
+      ons and three subdivisions. Hence positive peak is 2+3*0.2=2.6 units whil 
+      e the negative peak also corresponds to 2.6 units.                        
+ 
+ v  =
+ 
+    5.2  
+ 
+ 
+ Therefore, (V_pp)[in divisions]=Peak to peak=2.6+2.6=   
+ 
+    5.2  
+ 
+ v  =
+ 
+    0.0104  
+ 
+ 
+ Therefore, (V_pp)[in V]=Number of divisions*volts/divisions=    
+ 
+    0.0104  
+ 
+ a  =
+ 
+    5.2  
+ 
+ 
+ Therefore, (V_m)[in mV]=Amplitude=(V_pp)/2=   
+ 
+    5.2  
+ 
+ v  =
+ 
+    3.6769553  
+ 
+ 
+ 
+ and, (V_RMS)[in mV]= (V_m)/sqrt(2)=    
+ 
+    3.67696  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.11/example9_11.sce #
+ 
+ 
+ 
+ It can be observed that,   
+ 
+ 
+ Number of vertical tangencies = 2   
+ 
+ 
+ Number of horizontal tangencies = 5   
+ 
+ 
+ Now, (f_v/f_H) = 5/2   
+ 
+ 
+ Therefore, f_v = 5/2   
+ 
+ 
+ f_H = 5/2 * 1 kHz   
+ 
+ f  =
+ 
+    2.5  
+ 
+ 
+ Therefore, f_v(in kHz)=   
+ 
+    2.5  
+ 
+ 
+ This is the unknown frequency.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.12/example9_12.sce #
+ 
+ 
+ 
+ d=0.5 cm, L=20 cm, l=2 cm, (V_a)=1000 V, (V_d)=25 V   
+ 
+ d  =
+ 
+    0.01  
+ 
+ 
+ i) D(in m)=(l*L*(V_d))/(2*d*V_a)=   
+ 
+    0.01  
+ 
+ s  =
+ 
+    0.0004  
+ 
+ 
+ Therefore, S(in m/V)=D/(V_d)=   
+ 
+    0.0004  
+ 
+ 
+ ii) tan(theta)=(l*a_y)/(v_ox^2)   
+ 
+ a  =
+ 
+    8.784D+14  
+ 
+ 
+ 
+ where, a_y(in m/s^2)=(q*v_d)/(d*m)=    
+ 
+    8.78D+14  
+ 
+ v  =
+ 
+    1.87D+07  
+ 
+ 
+ v_ox(in m/s)=sqrt((2*q*V_a)/m)=   
+ 
+    1.87D+07  
+ 
+ t  =
+ 
+    0.050000  
+ 
+ 
+ 
+ Therefore, tan(theta)=t=((2*10^-2)*(8.7844*10^14))/((18.745*10^6)^2)=    
+ 
+    0.05  
+ 
+ a  =
+ 
+    2.86  
+ 
+ 
+ 
+ Therefore, theta(in degree)=    
+ 
+    2.862  
+ 
+ 
+ 
+ iii) (v_ox)= Velocity of electrons - Velocity of beam =   
+ 
+    1.87D+07  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.15/example9_15.sce #
+ 
+ 
+ 
+ The arrangement is shown in the fig. 9.19   
+ 
+ 
+ Negative plate is at x=0   
+ 
+ 
+ Therefore, Positive plate is at x=1*10^-2 m   
+ 
+ 
+ E=V/d=1000/(1*10^-2)      ...d= 1*10^-2 m   
+ 
+ e  =
+ 
+    100000.  
+ 
+ 
+ Therefore, E(in V/m)=   
+ 
+    100000.  
+ 
+ 
+ As field is uniform, the electron will move with constant acceleration.   
+ 
+ 
+ Therefore, x = (1/2)*(a_x)*(t^2)   
+ 
+ a  =
+ 
+    1.757D+16  
+ 
+ 
+ where, a_x(in m/s^2)=(q*E)/m=   
+ 
+    1.757D+16  
+ 
+ 
+ So time for electron to reach positve plate is,   
+ 
+ 
+ (t^2)=(2*x)/(a_x)=(2*1*10^-2)/(1.7568*10^16)   
+ 
+ t  =
+ 
+    1.067D-09  
+ 
+ 
+ Therefore, t(in s)=   
+ 
+    1.067D-09  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.16/example9_16.sce #
+ 
+ 
+ 
+ l=2 cm, d=4 mm, L=25 cm   
+ 
+ 
+ S=D/(V_d)=(l*L)/(2*d*V_a) m/V     ...Defection sensitivity   
+ 
+ 
+ i) V_a=1000 V   
+ 
+ s  =
+ 
+    0.000625  
+ 
+ 
+ Therefore, S(in m/V)=((2*10^-2)*(25*10^-2))/(2*4*1000*10^-3)=    
+ 
+    0.000625  
+ 
+ 
+ ii) V_a=2000 V   
+ 
+ s  =
+ 
+    0.0003125  
+ 
+ 
+ Therefore, S(in m/V)=((2*10^-2)*(25*10^-2))/(2*4*2000*10^-3)=    
+ 
+    0.0003125  
+ 
+ 
+ iii) V_a=3500 V   
+ 
+ s  =
+ 
+    0.0001786  
+ 
+ 
+ Therefore, S(in m/V)=((2*10^-2)*(25*10^-2))/(2*4*13500*10^-3)=    
+ 
+    0.0001786  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.17/example9_17.sce #
+ 
+ 
+ 
+ D=5 mm, V=250V, v_ox=1*10^6 m/s   
+ 
+ e  =
+ 
+    50000.  
+ 
+ 
+ E(in V/m)=V/d=   
+ 
+    50000.  
+ 
+ a  =
+ 
+    8.784D+15  
+ 
+ 
+ a_x(in m/s^2)=(q*E)/m=    
+ 
+    8.784D+15  
+ 
+ 
+ Now, x= (1/2)*(a_x)*(t^2)+(V_ox)*t+(x_o)  but (x_o)=0 initially   
+ 
+ 
+ Therefore, x= (1/2)*(a_x)*(t^2)+(V_ox)*t   
+ 
+ 
+ When electron reaches to anode, x=5 mm.   
+ 
+ 
+ Therefore, (5*10^-3)=(1/2)*(8.7844*10^15)*(t^2)+(1*10^6)*t   
+ 
+ 
+ Therefore, t(in sec)=9.5916D-10       ...neglecting negative value   
+ 
+ 
+ Thus time taken by electron to reach anode from cathode is 0.95916 ns.   
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.18/example9_18.sce #
+ 
+ 
+ 
+ l=2 cm, d=5 mm, L=30 cm, V_a=2000 V, D=3 cm   
+ 
+ 
+ D=(l*L*V_d)/(2*d*V_a)   
+ 
+ 
+ i.e.  (3*10^-2)=((2*10^-2)*(30*10^-2)*(V_d))/((2*5*10^-3)*2000)   
+ 
+ v  =
+ 
+    100.  
+ 
+ 
+ Therefore, V_d(in V)=   
+ 
+    100.  
+ 
+ 
+ But it is applied through amplifier of gain 100   
+ 
+ g  =
+ 
+    1.  
+ 
+ 
+ Therefore, Input voltage required = (V_d)/gain = 100/100 =   
+ 
+    1.  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.19/example9_19.sce #
+ 
+ 
+ 
+ l=1.5 cm, d=5 mm, L=50 cm, V_a=2000 V   
+ 
+ v  =
+ 
+    26509548.  
+ 
+ 
+ 1.  v_ox(in m/s)=Beam velocity=sqrt((2*q*V_a)/m)=   
+ 
+    26509548.  
+ 
+ s  =
+ 
+    0.000375  
+ 
+ 
+ S(in m/V)=D/(V_d)=(l*L)/(2*d*V_a)=   
+ 
+    0.000375  
+ 
+ g  =
+ 
+    2666.6667  
+ 
+ 
+ G(in V/m)=1/S=   
+ 
+    2666.6667  
+ 
+ 

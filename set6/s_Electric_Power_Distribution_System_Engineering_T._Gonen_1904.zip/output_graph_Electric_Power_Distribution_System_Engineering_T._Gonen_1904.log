@@ -1,0 +1,150 @@
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.7/2_7.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+Assuming a monthly load curve as shown in the figure attached to this code
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The annual power demand is 1141.55 kW
+ 
+b) The annual load factor is 0.326158
+ 
+The unsold energy, as shown in the figure is a measure of capacity and investment cost. Ideally it should be kept at a minimum
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.8/2_8.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+Assuming a monthly load curve as shown in the figure attached to this code
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The new annual load factor on the substation is 0.344876
+ 
+b) The total annual additional costs to NL&NP to serve this load is $29880
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH2/EX2.11/2_11.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+NOTE
+
+ 
+The figure 1 attached along with this code is the Maximum diversified 30- min demand characteristics of various residential loads;
+  A = Clothes dryer; D = range; E = lighting and miscellaneous appliances; J = refrigerator
+ (Only the loads required for this problem have been mentioned)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a) The 30 min maximum diversified demand on the distribution transformer = 18.456 kW
+ 
+ b) The 30 min maximum diversified demand on the distribution transformer = 2064.6 kW
+ 
+ c) The total hourly diversified demands at:
+ 
+ i) 4.00 PM = 6.3276 kW
+ 
+ ii) 5.00 PM = 9.6384 kW
+ 
+ iii) 6.00 PM = 10.6356 kW
+ 
+ 
+grepthis#Electric_Power_Distribution_System_Engineering_T._Gonen_1904/CH11/EX11.8/11_8.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+a) The Conditional Outage Probabilites for:
+ 
+Presently Outaged Feeder is 1, Next Outaged Feeder is 1 is 0.4
+ 
+Presently Outaged Feeder is 1, Next Outaged Feeder is 2 is 0.3
+ 
+Presently Outaged Feeder is 1, Next Outaged Feeder is 3 is 0.3
+ 
+Presently Outaged Feeder is 2, Next Outaged Feeder is 1 is 0.2
+ 
+Presently Outaged Feeder is 2, Next Outaged Feeder is 2 is 0.5
+ 
+Presently Outaged Feeder is 2, Next Outaged Feeder is 3 is 0.3
+ 
+Presently Outaged Feeder is 3, Next Outaged Feeder is 1 is 0.25
+ 
+Presently Outaged Feeder is 3, Next Outaged Feeder is 2 is 0.25
+ 
+Presently Outaged Feeder is 3, Next Outaged Feeder is 3 is 0.5
+ 
+
+b) Transition Matrix is
+ 
+ 
+    0.4     0.3     0.3  
+    0.2     0.5     0.3  
+    0.25    0.25    0.5  
+ 
+
+c) The Transition figure is displayed in the result file attached to this code
+ 
+ 

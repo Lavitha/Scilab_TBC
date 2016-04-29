@@ -1,0 +1,52 @@
+ERROR: Concepts_Of_Physics_(volume_-_1)_H._C._Verma_2084/CH3/EX3.9w/3_9w.sce
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    19.6  
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.    1.    2.    2.    3.    4.  
+ 
+ x  =
+ 
+    0.    4.9    19.6    19.6    4.9    0.  
+ 
+ v  =
+ 
+    0.    9.8    19.6  - 19.6  - 9.8    0.  
+ 
+ a  =
+ 
+    9.8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+ 

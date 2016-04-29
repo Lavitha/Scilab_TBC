@@ -1,0 +1,344 @@
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH10/EX10.1/EX1.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH2/EX2.1/EX1.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ Part (a)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Labelled current I (mA) =    
+ 
+    0.375  
+ 
+ 
+ Labelled voltage Vo (V) =    
+ 
+    7.5  
+ 
+ 
+ 
+ Part (b)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Labelled current I =    
+ 
+    0.  
+ 
+ 
+ Labelled voltage Vo (V) =    
+ 
+  - 2.5  
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.1/EX1.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ID=IDSS*(1-VGS/VP)^2; // Drain current in mili-amperes
+                     !       
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.1/EX1.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH10/EX10.2/EX2.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.4/EX4.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID=IDSS*(1-VGS/VP)^2; // Drain current in amperes
+                     !       
+at line      12 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.4/EX4.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VDSQ (V) =   
+ 
+  - 18.816935  
+ 
+ 
+ IDQ (mA) =   
+ 
+    8.1097197  
+ 
+ 
+ VD (V) =   
+ 
+  - 5.8413832  
+ 
+ 
+ VS (V) =   
+ 
+    12.975551  
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.5/EX5.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID=IDSS*(1-VGS/VP)^2; // Drain current in amperes
+                     !       
+at line      16 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.5/EX5.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VDSQ (V) =   
+ 
+  - 5.6283499  
+ 
+ 
+ IDQ (mA) =   
+ 
+    5.9070875  
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.6/EX6.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID=k*(VGS-VT)^2; // Drain current in amperes ............ (i)
+                !       
+at line      12 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.6/EX6.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VDSQ (V) =   
+ 
+  - 2.4953247  
+ 
+ 
+ IDQ (mA) =   
+ 
+    7.2476623  
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.7/EX7.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID=k*(VGS-VT)^2; // Drain current in amperes ............ (i)
+                !       
+at line      17 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH7/EX7.7/EX7.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IDQ (mA) =   
+ 
+    16.138759  
+ 
+ 
+ VDSQ (V) =   
+ 
+  - 23.609339  
+ 
+ 
+ VGSQ (V) =   
+ 
+  - 2.3897835  
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH3/EX3.21.a/EX21.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_B._Kumar_And_S._B._Jain_135/CH3/EX3.21.b/EX21.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

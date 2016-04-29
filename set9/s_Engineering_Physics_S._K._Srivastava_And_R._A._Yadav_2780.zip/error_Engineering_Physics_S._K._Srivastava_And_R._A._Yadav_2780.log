@@ -1,0 +1,25 @@
+ERROR: Engineering_Physics_S._K._Srivastava_And_R._A._Yadav_2780/CH7/EX7.20/Ex7_20.sce
+ 
+ 
+ delt  =
+ 
+    1.000D-08  
+ 
+ delnu  =
+ 
+    15915494.  
+ 
+ 
+ minimum uncertainity in the frequency of a photon is delnu=15915494sec^-1   
+ 
+ 
+ delx  =
+ 
+    5.000D-15  
+ 
+delp=h/(2*2*%pi*delx) //uncertainbity in momentum
+       !--error 4 
+Undefined variable: h
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics_S._K._Srivastava_And_R._A._Yadav_2780/CH7/EX7.20/Ex7_20.sce',-1)
+ 

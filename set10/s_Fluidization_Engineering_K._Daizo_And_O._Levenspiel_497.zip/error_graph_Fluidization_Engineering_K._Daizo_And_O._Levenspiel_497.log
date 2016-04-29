@@ -1,0 +1,75 @@
+ERROR: Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH14/EX14.2/Chap14_Ex2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Flow rate of stream 1:2500.000000kg/hr 
+
+Flow rate of stream 2:1100.000000kg/hr 
+ 
+
+tbar(hr) 
+
+0.000000
+8.962153
+8.964162
+8.966171
+8.972205
+8.982279
+8.994397
+9.007522
+9.021824
+9.033397
+9.040543
+9.043200
+9.043200
+9.043200
+9.043200
+9.043200
+9.043200
+9.043200
+9.043200
+0.000000 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/Chap14_Ex2');xend();exit();
+                                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      73 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH14/EX14.2/Chap14_Ex2.sce',-1)
+ 

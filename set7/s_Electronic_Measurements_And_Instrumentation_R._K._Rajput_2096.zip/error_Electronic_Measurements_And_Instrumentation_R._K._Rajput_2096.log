@@ -1,0 +1,30 @@
+ERROR: Electronic_Measurements_And_Instrumentation_R._K._Rajput_2096/CH1/EX1.49/ex_1_49.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      11 of exec file called by :    
+_Rajput_2096/CH1/EX1.49/ex_1_49.sce',-1
+ 
+ERROR: Electronic_Measurements_And_Instrumentation_R._K._Rajput_2096/CH1/EX1.59/ex_1_59.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SD=st_deviation(Q);//standard deviation
+                   !--error 4 
+Undefined variable: st_deviation
+at line      11 of exec file called by :    
+_Rajput_2096/CH1/EX1.59/ex_1_59.sce',-1
+ 

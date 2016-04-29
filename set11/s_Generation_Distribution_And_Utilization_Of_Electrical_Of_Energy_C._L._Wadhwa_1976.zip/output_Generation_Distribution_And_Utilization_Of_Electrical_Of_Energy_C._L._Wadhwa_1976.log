@@ -1,0 +1,3231 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 84
+
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N3  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i)a) Connected Load is 900 W
+b) The Maximum Demand is 600 W
+c) The Demand Factor is 66.6667 percent
+d) The Daily Load Factor is 17.5 percent
+ 
+ii) The Improved Daily Load Factor is 26.4744 percent
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i) The Diversity Factor is 1.37931
+ 
+ii) The Average load and Load factor of:
+ 
+ Consumer 1 : 300 W and 15 percent
+ 
+ Consumer 2 : 500 W and 25 percent
+ 
+ Consumer 3 : 2000 W and 25 percent
+ 
+ Consumer 4 : 1000 W and 25 percent
+ 
+iii) The Combined Load Factor and The Combined Average Load is 32.7586 percent and 3800 W respectively
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TotFCS  =
+ 
+    12500000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Yealy Cost per KW demand and the cost per KWhr at:
+ 
+a) The substation is 104.167 rupees per KW and 5.26316 paise per KWhr
+ 
+b) The consumer premises is 92.9487 rupees per KW and 6.19195 paise per KWhr
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Since Maximum Demand is 2500 kW, 2 units 0f 1000W and one unit of 500W is required. Also for continuity of supply, A reserve of 1000W unit is required.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The Reserve Capacity is a 1000kW Unit and Load Factor is 51.6667 percent
+ 
+b) The Plant Capacity Factor is 36.9048 percent
+ 
+c) The Plant Use Factor is 96.875 percent
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Load Factor, Plant Capacity Factor, Plant Use Factor of:
+ 
+Unit 1 : 76.1035 percent, 76.1035 percent, 76.1035 percent
+ 
+Unit 2 : 11.4155 percent, 9.13242 percent, 22.8311 percent
+ 
+The Annual Load Factor of the Entire Plant is 50.2283 percent 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Operating Scedule of Peak Load Station for Minimum Annual Cost is 2000 hours
+ 
+ The Overall Cost per kWhr is 7.86568 paise 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2  =
+ 
+    3475.6716  
+ 
+ 
+i) The Amount to be Saved Annually according to straight line method is 5000 Rupees
+ 
+ii) The Amount to be Saved Annually according to sink fund method is 3475.67 Rupees
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Fixed Charges is 81.3231 rupees per kW
+ 
+ The Energy Charges for the Consumer is 1.48946 paise per kWhr
+ 
+ IF the Load Factor is raised to 40percent of the Same Maximum Demand, then the percentage saving in the overall costs is 9.62424 percent
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Economic Power Factor is 0.916515 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Most Economical Current Density for this Case is 0.445679 A/sq.mm 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Most Economical cross sectional area of the cable for this Case is 149.584 sq.mm 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Most Economical Cross sectional area for this Case is 28.7493 A/sq.mm 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Most Economical Cross Sectional Area for a 3 Phase line 8 km Long is 0.938757 sq..cm 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Voltages between middle wire and outer wire at each load point are:
+ 
+ 1. Vad = 217.8 V
+ 
+ 2. Vbe = 215.6 V
+ 
+ 3. Vcl = 215.9 V
+ 
+ 4. Vhi = 203.7 V
+ 
+ 5. Vfj = 196.7 V
+ 
+ 6. Vgk = 188.9 V
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The voltage drop at the far end of the wires are:
+ 
+ Positive Wire: 213.43 V
+ 
+ Negative Wire: 213.115 V
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Cross Section of the Conductor to provide minimal consumer's voltage is 51.2572 sq.mm
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Location of The Minimum Voltage is 279.167 m from side A and its magnitude is 217.427 V
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) When Va = Vb; Ia = 57.0698 A and Ib =42.9302
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b) When Va + 5 = Vb; Ia = 32.6512 A and Ib =67.3488
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Voltage drop across AC in both case is the same
+ 
+ 
+    26250r   
+ 
+ Is Equal to   
+ 
+    15000r1   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+    r   
+ 
+ divided by   
+ 
+    r1   
+ 
+ is   
+ 
+    1.75  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Volume of copper without the connector is 1.33333 times the volume required with connector
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The voltage drop at the far end is 22.7418 V
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Irn  =
+ 
+    909.32667 - 519.61524i  
+ 
+ Iyn  =
+ 
+  - 1121.1697 - 902.69238i  
+ 
+ Ibn  =
+ 
+  - 329.42286 + 1609.8076i  
+ 
+ 
+ 
+The Net Current in phase R is 1047.32/_-29.7449 A
+ 
+The Net Current in phase Y is 1439.4/_-141.161 A
+ 
+The Net Current in phase B is 1643.17/_101.565 A
+ 
+The Net Neutral Current is 572.822/_-19.1066 A
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X  =
+ 
+    12.5  
+ 
+ Y  =
+ 
+    14.772727  
+ 
+ 
+The Susbstation must be located at (12.5 km,14.7727 km)
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The Speed of the Motor if the Load Torque is remains constant and the magnetic circuit is assumed unsaturated is 765.074 RPM
+ 
+b) The No Load Speed of the Motor is 1877.93 RPM
+ 
+c) The Starting Torque represented in terms of torque corresponding 20A (without armature shunted) is 4.19773 times
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The External Resistances to be connected and the power loss for
+ 
+a) The Load Torque is independent of the speed : 0.997619 ohm and 2.84194 kW respectively
+ 
+b) The Load Torque is directly proportional to the speed : 1.30952 ohm and 2.27355 kW respectively
+ 
+c) The Load Torque is directly proportional to square of the speed : 1.6994 ohm and 1.81884 kW respectively
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i) The Slip at Maximum Torque is 0.240408
+ 
+ii) The Slip at Full Load is 0.0452598
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i)The Maximum Torque at the reduced value of supply as a fraction of its normal value is 0.920657
+ 
+ii)The Starting Torque at the reduced value of supply as a fraction of its normal value is 1.85
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Starting Current for all the three starter are the same that is 277.128 A
+ 
+The Starting torque for:
+ 
+i) D.O.L Starter : 647.286 Nm
+ 
+ii) Star -Delta Starter : 156.078 Nm
+ 
+ii) Auto Transformer with 70 percent tapping : 229.435 Nm
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+  - 0.8970055  
+    0.8970055  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i) The Tapping of the Transformer is -89.7006 percent and the starting Current is 120.693 A
+ 
+ii) The Starting Current is 134.551 A and the Resistance to be added to the stator circuit is 0.465824 ohm
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Value of Resistance to be connected in series so that teh fan runs at 180 rpm is 0.354952 ohm
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The time taken to start the motor if the load torque is equal to full load torque
+ during the starting period and the current is limited to 1.5 times the full load current is 26.8097 seconds
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Time Taken for the Motor to stop is 1.89529 seconds
+ 
+The Number of revolutions undergone before it stops is 9.80822 revolutions which is approx 10 revolutions
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 1/2 Hr Power Rating is -187.822 hp
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i) The H.P Rating according to the RMS Value of loading is 507 hp
+ 
+ii) The H.P Rating according to the Average Value of Loading is 423.958 hp
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.13/Ex4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Final Temperature of the Machine and its Heating Time Constant is 36.1292 degree Celsius and 2.5789 Hrs respectively 
+ 
+The Load which could be delivered is 18387.5 W
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Moment of inertia of the flywheel is 1453.01 Kg m^2
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The Moment of intertia of the flywheel for Maximum Torque to be twice the rated torque is 4772.69 Nm
+ 
+b) The Time Taken after the removal of additional load before the motor torque becomes 1500 Nm is 10.6095 seconds
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.16/Ex4_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Speed and Torque of the Single Phase Full Converter are 113.863 rad/s and 33.36 Nm respectively
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.17/Ex4_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Motor Current And Motor Torque for:
+ 
+i) Semi Converter : 62.8448 A and 118.484 Nm
+ 
+ii) Full Converter : 58.3327 A and 102.081 Nm
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.18/Ex4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Pulse Width for the 100V back EMF is 2.38636 m seconds
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH4/EX4.19/Ex4_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i) The Range of speed control is 0<N<2687.5 
+ 
+ii) The Range of duty cycle is 0.0227273<lamda<1
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                         3  
+  - 0.1797864 + 43824665r   
+ 
+The real roots of the above equation gives the value of the radius
+ 
+ 
+ 
+  - 0.0008004 + 0.0013864i  
+  - 0.0008004 - 0.0013864i  
+    0.0016008               
+ 
+Choosing the real roots from the list above
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                       2            3            4  
+  - 111315.15 + 2.5138405T + 0.0138123T + 0.0000337T + 3.089D-08T   
+ 
+The real roots of the above equation gives the value of the element temperature
+ 
+ 
+  - 1651.3463          
+  - 273. + 1378.3463i  
+  - 273. - 1378.3463i  
+    1105.3463          
+ 
+Choosing the real roots from the list above
+ 
+ 
+ 
+
+
+The length and radius of the wire element are 17.8744 m and 1.60083 mm respectively
+ 
+The Temperature of the element when the charge is cold is 1105.35 degree celsius
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Temperature for the following configurations are:
+ 
+Two Groups connected in series first and then in delta : 715.535 degree Celsius
+ 
+ 
+Two Groups connected in series first and then in star : 478.124 degree Celsius
+ 
+ 
+Two Groups connected in parallel first and then in star : 789.25 degree Celsius
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Average kW input to the furnance is 1995.12 kW
+ 
+ The Arc Voltage is 46.8932 V
+ 
+ The kVA input is 2335.96 kVA
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Effciency of the High Frequency Induction Furnace is 54.2605 percent
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Equivalent Resistance of the cylinder is 258.729 * 10^-6 ohm
+ 
+The Required Current in the primary is 1772.1 A
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    500000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Power Factor and The Absorbed power are 0.83205 lagging and 480.769 kW respectively.
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Current And Voltage are 5.00541 A and 998.919 V respectively
+ 
+For the New Voltage the frequency is 83.1532 MHz
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Voltage and Current are 414.938 V and 10.3876 A respectively
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) The distance for 5 flux illumination from the normally placed screen is 2.23607 m 
+ 
+b) The distance for 15 flux illumination from the normally placed screen is 1.29099 m 
+ 
+c) The distance for 8 f.c illumination from the normally placed screen is 1.76777 ft 
+ 
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total radiation sent vertically downward is 4712.39 lumens 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a)The Mean Spherical Candle Power is 119.366 c.p
+ 
+b The illumination intensities for the following cases are: 
+ 
+i)   Normal : 22.2222 lux
+ 
+ii)  Inclined at 60 degrees : 19.245 lux
+ 
+iii) Parallel : 0 lux
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The illumination at the 
+ 
+i) Centre of area = 12.5 lux
+ 
+ii)Periphery of the area 
+ 
+a) Uniform illumination = 7.62246 lux
+ 
+b) Candle power is vertically downward = 6.46383 lux
+ 
+iii) Average illumination and Average illumination with reflector efficiency
+ 
+a) Uniform intensity = 9.72811 lux and 7.78249 lux respectively.
+ 
+b) Non Uniform intensity = 11.4718 lux and 9.17748 lux respectively.
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vdm  =
+ 
+    9.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total illumination at point A is 10.3698 lux.
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The illumination at:
+ 
+a) At the centre:
+ 
+i) With reflector : 80 lux
+ 
+ii)Without reflector : 8.33333 lux
+ 
+b) At the edge of the surface:
+ 
+i) With reflector : 80 lux
+ 
+ii)Without reflector : 5.96285 lux
+ 
+c) Average illumination over the disc without the reflector : 7.03819 lux
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.8/Ex6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assuming 200W bulbs, in a rectangular workspace of 80m*15m, we require 36 bulbs arranged in 3 rows and 12 columns having a spacing of 6.66667m between them.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The number of lamps required are 20.
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.10/Ex6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The illumination on the ground :
+ 
+a)Vertically beneath the lamp : 8.33333 lux.
+ 
+b)6 metres away from condition a) : 2.94628 lux.
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH6/EX6.11/Ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The voltage output of the cells are :
+ 
+a) 60 CP lamp at 1.8m : 0.635 V
+ 
+b) 6 CP lamp at 0.5m : 0.82296 V
+ 
+c) A 100W lamp having a efficacy of 20 lumens/watt at 2m : 1.36436 V
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ D  =
+ 
+    1.92  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   2  
+  - 622.592 - 956.416a + 586.13221a   
+ 
+
+The Above Equation is Equated to zero to get a
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Acceleration of the Train is 2.13035 Kmphps
+ 
+ The Coasting Period is 110.8 seconds
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                         2  
+  - 15012.379 + 327.41053V1 - 0.9236842V1   
+ 
+
+The Roots of the above eqaution are
+ 
+ 
+    300.34871  
+    54.112827  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The Time periods and the distance covered for:
+ 
+Acceleration : 27.0564 seconds and 0.203347 km
+ 
+Coasting : 105.298 seconds and 1.33638 km
+ 
+Braking : 11.6453 seconds and 0.0602729 km
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  - 2025 + 1125a   
+ 
+
+ The above equation is equated to zero to find the Acceleration
+
+ 
+ 
+ 
+ 
+The Accleration required to run the service is 1.8 Kmphps
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Time Taken by the Train to attain 40 Kmphs is 19.7294 seconds
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ D  =
+ 
+    1.92  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rc  =
+ 
+    48.92724  
+ 
+ 
+
+i)The Specific Energy Output for the Run is 24.2658 Whr/Tonne-km
+ 
+ii) The Energy Dissipated by the brakes is 11.4004 Whr/Tonne-km
+ 
+iii)The Energy Utilized during coasting is 11.3159 Whr/Tonne-km
+ 
+iv) The Mean Train Resistance during coasting is 48.9272 N/tonne
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Total Specific Energy:
+ 
+Up Gradient : 62.4811 Whr/Tonne km
+ 
+Down Gradient : 20.0467 Whr/Tonne km
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Specific Energy Consumption is 67.7755 Whr/Tonne Km
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The weight of the locomotive and the number of axles is 115.907 tonnes and 6 axles respectively
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For the Given Current:
+ 
+ 
+    10.    20.    30.    40.    50.    60.    70.  
+ 
+
+The Speeds tabulated are:
+ 
+ 
+    923.16667    631.76923    529.40217    458.4    421.62234    385.13115    353.91176  
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.11/Ex7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Horse Power delivered by the locmotive when the motors used are:
+ 
+i) D.C Series Motor is 828.515 H.P 
+ 
+ii) 3 Phase Induction Motor is 1038.6 H.P 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.12/Ex7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Tractive Effort shared A and B for:
+ 
+ 
+i) Slips are 5 percent for both the Locomotives for a Tractive effort of:
+ 
+a) 11325 kg : 6685.1 kg by A and 4639.9 kg by B respectively
+ 
+b) 1309 kg : 1728.89 kg by A and -419.893 kg by B respectively
+
+ 
+i) Slips are 5 percent for A and 4 percent for B for a Tractive effort of:
+ 
+a) 11325 kg : 6175.47 kg by A and 5149.53 kg by B respectively
+ 
+b) 1309 kg : 1775.01 kg by A and -466.012 kg by B respectively
+
+ 
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.14/Ex7_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Speed of Motor 1 in series Configuration is 439.336 rpm
+ 
+The Speed of Motor 2 in series Configuration is 449.553 rpm
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.15/Ex7_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The New Characteristics are
+ Current in Amperes
+ 
+ 
+    50.    100.    150.    200.    250.    300.  
+ 
+
+Speed in Kmph
+ 
+ 
+    71.061626    44.413517    39.972165    35.530813    31.977732    28.424651  
+ 
+
+Tractive Effort in N
+ 
+ 
+    2251.5668    6754.7005    13509.401    18012.535    20264.101    24767.235  
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.16/Ex7_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Number of steps is 4
+
+
+ 
+The Resistance of '1' step is 1.03613 ohm
+The Resistance of '2' step is 1.25592 ohm
+The Resistance of '3' step is 1.52233 ohm
+The Resistance of '4' step is 1.84524 ohm
+ 
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.17/Ex7_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Current in Amperes:
+ 
+ 
+    50.    100.    150.    200.    250.  
+ 
+
+The Speed in Kmph
+ 
+ 
+    109.375    61.403509    47.297297    42.168675    38.888889  
+ 
+
+The Tractive Effort in Kg
+ 
+ 
+    88.032    357.24343    702.15429    1020.4494    1372.5  
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.18/Ex7_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Power Fed Back into the supply system is 390.812 kW
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH7/EX7.19/Ex7_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Field Current in A:
+ 
+ 
+    20.    40.    60.    80.    100.  
+ 
+
+The Respective Voltages at 400 rpm (V):
+ 
+ 
+    168.    348.    500.    600.    634.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The External Circuit that needs to connected in the motor circuit to limit the speed to 400 rpm is 8.70501 Ohm
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Quantity of Current Required is 2.64086 F 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Electrochemical Equivalent of Silver is 1.11833 mg/C
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Annual Output of Copper is 12.3377 Tonnes
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Energy used in producing the chemical action developed in an electrolytic Cell for 15 mins is 0.25 kWhr
+ 
+ 
+grepthis#Generation_Distribution_And_Utilization_Of_Electrical_Of_Energy_C._L._Wadhwa_1976/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Weight of Nickel And Silver deposited by 20A for an hour is 21.8611 gm and 80.5803 gm respectively.
+ 
+ 

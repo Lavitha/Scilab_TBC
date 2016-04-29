@@ -1,0 +1,70 @@
+ERROR: Electronic_Instrumentation_And_Measurements_D._A._Bell_182/CH3/EX3.3/example3_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+while n&gt;0.25,
+          !--error 4 
+Undefined variable: gt
+at line      12 of exec file called by :    
+._Bell_182/CH3/EX3.3/example3_3.sce',-1
+ 
+ERROR: Electronic_Instrumentation_And_Measurements_D._A._Bell_182/CH3/EX3.4/example3_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+while I&gt;0.1,
+          !--error 4 
+Undefined variable: gt
+at line      11 of exec file called by :    
+._Bell_182/CH3/EX3.4/example3_4.sce',-1
+ 
+ERROR: Electronic_Instrumentation_And_Measurements_D._A._Bell_182/CH5/EX5.6/exampke5_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+while(N&lt;100)
+             !--error 3 
+Waiting for right parenthesis.
+at line       9 of exec file called by :    
+_And_Measurements_D._A._Bell_182/CH5/EX5.6/exampke5_6.sce',-1
+ 
+ 
+ERROR: Electronic_Instrumentation_And_Measurements_D._A._Bell_182/CH8/EX8.5/example8_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R4=C1*R3/Cp;// parallel resistance in ohm
+     !--error 4 
+Undefined variable: C1
+at line      13 of exec file called by :    
+_And_Measurements_D._A._Bell_182/CH8/EX8.5/example8_5.sce',-1
+ 

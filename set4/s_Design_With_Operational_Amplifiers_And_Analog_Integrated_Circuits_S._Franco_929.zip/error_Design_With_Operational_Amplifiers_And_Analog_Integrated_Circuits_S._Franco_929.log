@@ -1,0 +1,47 @@
+ERROR: Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.1/Example3_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line      68 of function plzr called by :  
+plzr(h);
+at line      21 of exec file called by :    
+d_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.1/Example3_1.sce',-1
+ 
+ERROR: Design_With_Operational_Amplifiers_And_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.2/Example3_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+
+The problem requires to find Laplace Transform which is not possible in scilab. Hence standard procedure 
+ 
+
+for finding the Integral Transforms has been used 
+ 
+syms s t;
+  !--error 4 
+Undefined variable: syms
+at line      11 of exec file called by :    
+d_Analog_Integrated_Circuits_S._Franco_929/CH3/EX3.2/Example3_2.sce',-1
+ 

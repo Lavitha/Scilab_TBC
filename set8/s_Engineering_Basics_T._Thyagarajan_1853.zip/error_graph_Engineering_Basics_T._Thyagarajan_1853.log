@@ -1,0 +1,31 @@
+ERROR: Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.2/Ex4_2.sce
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ V  =
+ 
+    50.  
+ 
+ Vm  =
+ 
+    70.7  
+ 
+ w  =
+ 
+    314.  
+ 
+ 
+ 
+ 
+ voltage equation v=70.7sin(314)t   
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Engineering_Basics_T._Thyagarajan_1853/Ex4_2');xend();exit();
+                                                                                               !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Basics_T._Thyagarajan_1853/CH4/EX4.2/Ex4_2.sce',-1)
+ 

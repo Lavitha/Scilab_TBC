@@ -1,0 +1,5393 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 147
+
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.1/1.sce #
+ 
+ 
+ m  =
+ 
+    6.  
+ 
+ a  =
+ 
+    5.  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+
+ # Problem 1 
+ 
+ F_down  =
+ 
+    88.8  
+ 
+ F_up  =
+ 
+    28.8  
+ 
+
+  Force acting on a particle while going upward is 28.800000 N 
+  Force acting on a particle while going downward is 88.800000 N 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.1/1.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    1.  
+ 
+ a  =
+ 
+    1.  
+ 
+ del_x  =
+ 
+    0.125  
+ 
+ 
+
+ # Problem 1 # 
+ 
+ del_phase  =
+ 
+    0.7853982  
+ 
+ I1  =
+ 
+    3.4142136  
+ 
+ I0  =
+ 
+    4.  
+ 
+ ratio  =
+ 
+    0.8535534  
+ 
+
+ Ratio of intensities is 0.853553 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.1/1.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ e  =
+ 
+    0.1  
+ 
+ d  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 1 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ theta  =
+ 
+    0.0060000  
+ 
+ ang_wdt  =
+ 
+    0.0120001  
+ 
+ y  =
+ 
+    0.0120001  
+ 
+
+ Total Angular width of central maxima is 1.200007e-02rad  
+ Total linear width of central maxima  1.200007 cm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.1/1.sce #
+ 
+ 
+ theta  =
+ 
+    45.  
+ 
+ 
+
+ # PROBLEM 1 # 
+ 
+ mu  =
+ 
+    0.7071068  
+ 
+ Ip  =
+ 
+    35.26439  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+
+  Brewster Angle = 35.264390 degree 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH5/EX5.1/1.sce #
+ 
+ 
+ 
+ l  =
+ 
+    0.02945  
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 1 # 
+ 
+ n  =
+ 
+    50000.  
+ 
+ t  =
+ 
+    9.817D-11  
+ 
+
+ Number of oscillation corresponding to coherent length is 5.000000e+04 
+ Coherent time is 9.816667e-11sec. 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.1/1.sce #
+ 
+ 
+ 
+ mu1  =
+ 
+    1.42  
+ 
+ mu2  =
+ 
+    1.4  
+ 
+ 
+
+ # PROBLEM 1 # 
+ 
+ NA  =
+ 
+    0.2374868  
+ 
+ theta_0  =
+ 
+    13.738259  
+ 
+ theta_deg  =
+ 
+    13.  
+ 
+ theta_fract  =
+ 
+    0.7382591  
+ 
+ theta_min  =
+ 
+    44.295543  
+ 
+
+ Standard formula used 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+ 
+
+  
+ Numerical aperture = 0.237487,
+ Maximum incidence angle = 13 degree 44 min. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.2/2.sce #
+ 
+ 
+ R  =
+ 
+    6.400D+08  
+ 
+ T  =
+ 
+    86400.  
+ 
+ t  =
+ 
+    1.  
+ 
+
+ # Problem 2 # 
+ 
+ omega  =
+ 
+    0.0000727  
+ 
+ alpha  =
+ 
+    3.384638  
+ 
+ S  =
+ 
+    1.692319  
+ 
+Error involved in measurement of position for one minute is 1.692319 cm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.2/2.sce #
+ 
+ 
+ I1  =
+ 
+    1.  
+ 
+ I2  =
+ 
+    100.  
+ 
+ a1  =
+ 
+    1.  
+ 
+ 
+
+ # Problem 2 # 
+ 
+ amp_ratio  =
+ 
+    10.  
+ 
+ a2  =
+ 
+    10.  
+ 
+ I_max  =
+ 
+    121.  
+ 
+ I_min  =
+ 
+    81.  
+ 
+ I_ratio  =
+ 
+    1.4938272  
+ 
+
+ Ratio of intensities is 121 : 81 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.2/2.sce #
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ e  =
+ 
+    0.14  
+ 
+ y  =
+ 
+    1.6  
+ 
+ d  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 2 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ theta  =
+ 
+    0.0080001  
+ 
+ lambda  =
+ 
+    0.0000006  
+ 
+
+ Calculation of wavelength 5600 angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.2/2.sce #
+ 
+ 
+ theta_p  =
+ 
+    53.  
+ 
+ 
+
+ # PROBLEM 2 # 
+ 
+ theta_r  =
+ 
+    37.  
+ 
+ mu  =
+ 
+    1.3270448  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+
+ Angle of refraction is 37degree. 
+ Refractive index of material is 1.327045. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH5/EX5.2/2.sce #
+ 
+ 
+ l  =
+ 
+    400000.  
+ 
+ lambda  =
+ 
+    0.0000008  
+ 
+ a  =
+ 
+    0.005  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 2 # 
+ 
+ theta  =
+ 
+    0.00016  
+ 
+ Areal_spread  =
+ 
+    4.096D+09  
+ 
+
+ Angular  spread  is 1.600000e-04 rad. 
+ Areal spread is 4.096000e+09m^2. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.2/2.sce #
+ 
+ 
+ mu1  =
+ 
+    1.36  
+ 
+ del_mu  =
+ 
+    0.025  
+ 
+ 
+ 
+
+ # PROBLEM 2 # 
+ 
+ mu2  =
+ 
+    1.326  
+ 
+ NA  =
+ 
+    0.3041052  
+ 
+ theta_0  =
+ 
+    17.704341  
+ 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+ 
+
+ Refractive index of cladding is 1.326000. 
+ Numerical aperture is 0.304105.
+ Acceptance angle is 17.704341 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.3/3.sce #
+ 
+ 
+ I_avg  =
+ 
+    100.  
+ 
+ var  =
+ 
+    5.  
+ 
+ a2  =
+ 
+    1.  
+ 
+ 
+
+ # Problem 3 # 
+ 
+ I_max  =
+ 
+    105.  
+ 
+ I_min  =
+ 
+    95.  
+ 
+ I_ratio  =
+ 
+    1.1052632  
+ 
+ amp_ratio  =
+ 
+    39.974984  
+ 
+ a1  =
+ 
+    39.974984  
+ 
+ i_ratio  =
+ 
+    1597.9994  
+ 
+
+ Ratio of intensities of sources is 1600:1 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.3/3.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+
+ # PROBLEM 3 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ e  =
+ 
+    0.000001  
+ 
+
+ Width of slit is 1.000000e-04cm. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.3/3.sce #
+ 
+ 
+ mu  =
+ 
+    1.33  
+ 
+ 
+
+ # PROBLEM 3 # 
+ 
+ p  =
+ 
+    53.061237  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+
+ Polarization angle of water is 53 degree 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH5/EX5.3/3.sce #
+ 
+ 
+ l  =
+ 
+    0.02945  
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 3 # 
+ 
+ n  =
+ 
+    50000.  
+ 
+ t  =
+ 
+    9.817D-11  
+ 
+
+ Number of oscillation corresponding to coherent length is 5.000000e+04 
+ Coherent time is 9.816667e-11sec. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.3/3.sce #
+ 
+ 
+ mu2  =
+ 
+    1.59  
+ 
+ NA  =
+ 
+    0.2  
+ 
+ mu_water  =
+ 
+    1.33  
+ 
+ del_mu  =
+ 
+    0.025  
+ 
+ 
+ 
+
+ # PROBLEM 3 # 
+ 
+ mu1  =
+ 
+    1.6025293  
+ 
+ NA_w  =
+ 
+    0.1503759  
+ 
+ theta_0  =
+ 
+    8.6487134  
+ 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+ 
+
+ Acceptance angle of fiber in water is 8.648713 degree. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.4/4.sce #
+ 
+ 
+ l  =
+ 
+    9.  
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ v  =
+ 
+    30000.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 4 # 
+ 
+ del_n  =
+ 
+    0.36  
+ 
+There will be a fringe shift of 0.360000. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.4/4.sce #
+ 
+ 
+ e  =
+ 
+    0.2  
+ 
+ y  =
+ 
+    0.5  
+ 
+ d  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 4 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ theta  =
+ 
+    0.0025  
+ 
+ lambda  =
+ 
+    0.0000005  
+ 
+
+ Calculation of wavelength 5000 angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.4/4.sce #
+ 
+ 
+ mu_w  =
+ 
+    1.33  
+ 
+ mu_g  =
+ 
+    1.54  
+ 
+ 
+
+ # PROBLEM 4 # 
+ 
+ Ip_1  =
+ 
+    49.184916  
+ 
+ Ip_2  =
+ 
+    40.815084  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+
+ Polarizing angle for water to glass = 49.184916 degree,
+ Polarizing angle for glass to water = 40.815084 degree 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH5/EX5.4/4.sce #
+ 
+ 
+ k  =
+ 
+    12400.  
+ 
+ lambda  =
+ 
+    3.3913  
+ 
+ 
+ 
+
+ # PROBLEM 4 # 
+ 
+ E  =
+ 
+    0.3656415  
+ 
+
+ Energy difference is 0.365641eV. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.4/4.sce #
+ 
+ 
+ mu1  =
+ 
+    1.55  
+ 
+ mu2  =
+ 
+    1.5  
+ 
+ d  =
+ 
+    50.  
+ 
+ 
+
+ # PROBLEM 4 # 
+ 
+ 
+ NA  =
+ 
+    0.3905125  
+ 
+ theta_c  =
+ 
+    75.407449  
+ 
+ theta_0  =
+ 
+    22.986391  
+ 
+ x  =
+ 
+    0.0001921  
+ 
+ 
+ N  =
+ 
+    5206.8331  
+ 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+ 
+
+ Numerical aperture = 0.390512,
+ Acceptance angle is 22.986391 degree.
+ No. of reflections per meter is 5206 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.5/5.sce #
+ 
+ 
+ l  =
+ 
+    9.  
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ del_n  =
+ 
+    0.4  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 5 # 
+ 
+ v  =
+ 
+    34641.016  
+ 
+Relative velocity of earth and ether is 3.464102e+04 m/s 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.5/5.sce #
+ 
+ 
+ ang_width  =
+ 
+    0.1  
+ 
+ lambda  =
+ 
+    0.00006  
+ 
+ 
+
+ # PROBLEM 5 # 
+ 
+ d  =
+ 
+    0.0343775  
+ 
+
+ Standard formula used 
+ D = a + b. 
+ d = (lambda * D) / fringe_width.
+ 
+
+ Spacing between slit is 3.437747e-02cm.  
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.5/5.sce #
+ 
+ 
+ theta_p  =
+ 
+    58.6  
+ 
+ 
+
+ # PROBLEM 5 # 
+ 
+ mu  =
+ 
+    1.638263  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+ 
+ Refractive index of material is 1.638263. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH5/EX5.5/5.sce #
+ 
+ k  =
+ 
+    12400.  
+ 
+ lambda  =
+ 
+    6943.  
+ 
+ n  =
+ 
+    3.000D+19  
+ 
+ 
+
+ # PROBLEM 5 # 
+ 
+ E  =
+ 
+    1.7859715  
+ 
+ E_total  =
+ 
+    8.5726631  
+ 
+
+ Energy of one photon  is 1.785971eV. 
+ Total energy is 8.572663J 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.5/5.sce #
+ 
+ 
+ mu1  =
+ 
+    1.45  
+ 
+ mu2  =
+ 
+    1.4  
+ 
+ mu  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 5 # 
+ 
+ theta_c  =
+ 
+    74.909815  
+ 
+ theta_c_  =
+ 
+    45.584691  
+ 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+ 
+
+ Critical angle at the core - cladding boundary is 74.909815 degree 
+ Critical angle at cladding - air boundary is 45.584691 degree 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.6/6.sce #
+ 
+ 
+ lambda1  =
+ 
+    6500.  
+ 
+ lambda2  =
+ 
+    5200.  
+ 
+ d  =
+ 
+    2.  
+ 
+ D  =
+ 
+    1.2  
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+
+ # PROBLEM 6 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ x_3  =
+ 
+    0.00117  
+ 
+ m  =
+ 
+    4.  
+ 
+ x  =
+ 
+    0.00156  
+ 
+
+ Distance of third bright fringe from center is 0.117000cm 
+. Common fringe will be formed at distance 0.156000cm from center 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.6/6.sce #
+ 
+ 
+ f  =
+ 
+    100.  
+ 
+ y  =
+ 
+    0.05  
+ 
+ m  =
+ 
+    4.  
+ 
+ n  =
+ 
+    5.  
+ 
+ e  =
+ 
+    0.5  
+ 
+ 
+
+ # PROBLEM 6 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ theta  =
+ 
+    0.0005  
+ 
+ lambda_1  =
+ 
+    0.0000006  
+ 
+ lambda_2  =
+ 
+    0.0000005  
+ 
+
+ Wavelengths are 6250 and 5000 angestrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.6/6.sce #
+ 
+ 
+ theta_p  =
+ 
+    51.  
+ 
+ 
+
+ # PROBLEM 6 # 
+ 
+ mu  =
+ 
+    1.2348972  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+ 
+ Refractive index of material is 1.234897. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH5/EX5.6/6.sce #
+ 
+ 
+ h_w  =
+ 
+    0.002  
+ 
+ mu  =
+ 
+    1.  
+ 
+ lambda  =
+ 
+    6328.  
+ 
+ 
+
+ # PROBLEM 6 # 
+ 
+ L  =
+ 
+    0.1001090  
+ 
+
+ Required length of cavity is 10cm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.6/6.sce #
+ 
+ 
+ mu1  =
+ 
+    1.5  
+ 
+ mu2  =
+ 
+    1.48  
+ 
+ a  =
+ 
+    25.  
+ 
+ lambda  =
+ 
+    830.  
+ 
+ al  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 6 # 
+ 
+ del  =
+ 
+    0.0133333  
+ 
+ N_graded  =
+ 
+    537.24803  
+ 
+ N_step  =
+ 
+    1067.3327  
+ 
+ ratio  =
+ 
+    1.9866667  
+ 
+
+ Number of modes in graded index fiber is 537. 
+
+ Number of modes in Step graded fiber is 1067. 
+
+ Approximate ratio of number of modes in different grade is 2. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.7/7.sce #
+ 
+ 
+ del_D  =
+ 
+    300.  
+ 
+ del_t  =
+ 
+    0.0000004  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 7 # 
+ 
+ v  =
+ 
+    1.200D+08  
+ 
+
+ Velocity of one w.r.t other is 0.400000*c m/s. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.7/7.sce #
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ D  =
+ 
+    0.1  
+ 
+ t  =
+ 
+    0.5  
+ 
+ shift  =
+ 
+    5.  
+ 
+ 
+ 
+
+ # PROBLEM 7 # 
+ 
+
+ Standard formula used 
+ x = D*(mu1)*n*lambda/d 
+ 
+ mu  =
+ 
+    1.2  
+ 
+
+ Refractive index of Glass plate is 1.200000. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.7/7.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ e  =
+ 
+    0.00012  
+ 
+ 
+ 
+
+ # PROBLEM 7 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ theta  =
+ 
+    0.5235988  
+ 
+ ang_wdt  =
+ 
+    30.  
+ 
+
+ Total Angular width of central maxima is 30 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.7/7.sce #
+ 
+ 
+ theta_c  =
+ 
+    45.  
+ 
+ 
+
+ # PROBLEM 7 # 
+ 
+ mu  =
+ 
+    0.7071068  
+ 
+ p  =
+ 
+    35.26439  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+ 
+ Polarization angle of material is 35.264390 degree. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.7/7.sce #
+ 
+ 
+ mu1  =
+ 
+    1.566  
+ 
+ mu2  =
+ 
+    1.56  
+ 
+ d  =
+ 
+    50.  
+ 
+ lambda  =
+ 
+    0.84  
+ 
+ 
+
+ # PROBLEM 7 # 
+ 
+ v  =
+ 
+    25.610066  
+ 
+ N_max  =
+ 
+    327.93775  
+ 
+
+ Cut off parameter of fiber is 25.610066. 
+ Maximum number of modes is 327. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.8/8.sce #
+ 
+ 
+ 
+ lambda1  =
+ 
+    7000.  
+ 
+ lambda2  =
+ 
+    5000.  
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+
+ # PROBLEM 8 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ x  =
+ 
+    0.000007  
+ 
+ m  =
+ 
+    14.  
+ 
+
+ Observed order will be 14. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.8/8.sce #
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ e  =
+ 
+    0.3  
+ 
+ m  =
+ 
+    1.  
+ 
+ n  =
+ 
+    1.5  
+ 
+ 
+
+ # PROBLEM 8 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ theta_d  =
+ 
+    0.0020000  
+ 
+ theta_b  =
+ 
+    0.0030000  
+ 
+
+ First dark band is formed at angle 2.000001e-03 rad. 
+ First bright band is formed at angle 3.000002e-03 rad. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.8/8.sce #
+ 
+ 
+ mu_g  =
+ 
+    1.55  
+ 
+ 
+
+ # PROBLEM 8 # 
+ 
+ Ip  =
+ 
+    57.171458  
+ 
+ I_r  =
+ 
+    32.828542  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+
+ Polarizing angle for glass is 57 degree.
+ Corresponding angle of refraction is 33 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.8/8.sce #
+ 
+ 
+ mu1  =
+ 
+    1.55  
+ 
+ v_max  =
+ 
+    2.405  
+ 
+ d  =
+ 
+    10.  
+ 
+ lambda  =
+ 
+    1.8  
+ 
+ 
+
+ # PROBLEM 8 # 
+ 
+ NA  =
+ 
+    0.1377963  
+ 
+ delta  =
+ 
+    0.0039517  
+ 
+ mu2  =
+ 
+    1.5438749  
+ 
+ theta_max  =
+ 
+    7.9203505  
+ 
+
+ Required maximum value of normalized difference is 0.003952. 
+ Refractive index of cladding is 1.543875. 
+ Maximum acceptance angle is 7.920351 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.9/9.sce #
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ D  =
+ 
+    1.  
+ 
+ Beta  =
+ 
+    0.5  
+ 
+ 
+
+ # PROBLEM 9 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ d  =
+ 
+    0.0012  
+ 
+
+ Separation between sources is 0.120000cm. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.9/9.sce #
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ e  =
+ 
+    0.03  
+ 
+ m  =
+ 
+    1.  
+ 
+ n  =
+ 
+    1.5  
+ 
+ 
+
+ # PROBLEM 9 # 
+ 
+ Standard formula used 
+ 
+ lambda = e*sin(theta)  
+ 
+ 
+ theta_d  =
+ 
+    0.0196346  
+ 
+ theta_b  =
+ 
+    0.0294519  
+ 
+ y_d  =
+ 
+    0.0098173  
+ 
+ y_b  =
+ 
+    0.0147259  
+ 
+
+ Linear distance of first dark band from center is 0.098173 cm 
+ Linear distance of next bright band  is 0.147259 cm 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.9/9.sce #
+ 
+ 
+ Ip  =
+ 
+    53.  
+ 
+ 
+
+ # PROBLEM 9 # 
+ 
+ I_r  =
+ 
+    37.  
+ 
+ mu  =
+ 
+    1.3270448  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+
+Angle of refraction is 37 degree. 
+ Refractive index of material is 1.327045 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.9/9.sce #
+ 
+ 
+ mu1  =
+ 
+    1.466  
+ 
+ mu2  =
+ 
+    1.46  
+ 
+ lambda  =
+ 
+    1200.  
+ 
+ V  =
+ 
+    2.405  
+ 
+ 
+
+ # PROBLEM 9 # 
+ 
+ t  =
+ 
+    0.0000035  
+ 
+ theta_c  =
+ 
+    84.814454  
+ 
+ NA  =
+ 
+    0.1324991  
+ 
+ theta_0  =
+ 
+    7.6140272  
+ 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+ 
+
+ Maximum radius allowed for fiber is 3.466600 micro meter 
+Critical angle = 84.814454 degree. 
+ Numerical aperture = 0.132499,
+ Maximum incidence angle = 7.614027 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.10/10.sce #
+ 
+ 
+ 
+ l_0  =
+ 
+    1.  
+ 
+ l  =
+ 
+    0.99  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 10 # 
+ 
+ Standard formula used 
+ 
+ l = l_0/((1-v^2/c^2)^1/2)  
+ 
+ v  =
+ 
+    42320208.  
+ 
+
+ Speed of rocket is 4.232021e+07 m/s. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.10/10.sce #
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ x_n  =
+ 
+    10.  
+ 
+ D  =
+ 
+    1.  
+ 
+ d  =
+ 
+    0.2  
+ 
+ 
+ 
+
+ # PROBLEM 10 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ lambda  =
+ 
+    0.0000005  
+ 
+
+ Wavelength of sauce is 5000 Angstrom. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.10/10.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.4  
+ 
+ e  =
+ 
+    0.08  
+ 
+ D  =
+ 
+    170.  
+ 
+ Beta  =
+ 
+    0.25  
+ 
+ 
+ 
+
+ # PROBLEM 10 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+ 
+ lambda  =
+ 
+    0.00025  
+ 
+ ratio  =
+ 
+    6.  
+ 
+
+ Missing order will be 6*n, where n is a natural number. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.10/10.sce #
+ 
+ 
+ 
+ mu_o  =
+ 
+    1.658  
+ 
+ mu_e  =
+ 
+    1.486  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 10 # 
+ 
+ v_o  =
+ 
+    1.809D+08  
+ 
+ v_e  =
+ 
+    2.019D+08  
+ 
+Standard formula used 
+ mu=tan(Ip)
+ 
+
+ Velocity of ordinary ray is 1.809409e+08 m/sec 
+ Velocity of extra ordinary ray is 2.018843e+08 m/sec 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.10/10.sce #
+ 
+ 
+ NA  =
+ 
+    0.3  
+ 
+ d  =
+ 
+    200.  
+ 
+ lambda  =
+ 
+    0.9  
+ 
+ 
+
+ # PROBLEM 10 # 
+ 
+ N_max  =
+ 
+    21932.454  
+ 
+
+ Total number of propagating modes are 21932. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.11/11.sce #
+ 
+ 
+ l_0  =
+ 
+    1.  
+ 
+ l  =
+ 
+    0.5  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 11 # 
+ 
+ Standard formula used 
+ 
+ l = l_0/((1-v^2/c^2)^1/2)  
+ 
+ v  =
+ 
+    2.598D+08  
+ 
+
+ Speed of moving lamina  is 2.598076e+08 m/s. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.11/11.sce #
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ m  =
+ 
+    11.  
+ 
+ s  =
+ 
+    8.835  
+ 
+ D  =
+ 
+    100.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ 
+ 
+
+ # PROBLEM 11 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ Beta  =
+ 
+    0.001178  
+ 
+ lambda  =
+ 
+    0.0000006  
+ 
+
+ Wavelength of sauce is 5890 Angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.11/11.sce #
+ 
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ N  =
+ 
+    5000.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+
+ # PROBLEM 11 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N  
+ 
+ lambda  =
+ 
+    0.0000005  
+ 
+
+ Wavelength of spectral lines is 5000 angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.11/11.sce #
+ 
+ 
+ k  =
+ 
+    1.  
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ mu_o  =
+ 
+    1.5442  
+ 
+ mu_e  =
+ 
+    1.5532  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+
+ # PROBLEM 11 # 
+ 
+ I_e  =
+ 
+    0.75  
+ 
+ I_o  =
+ 
+    0.25  
+ 
+ R  =
+ 
+    3.  
+ 
+Standard formula used 
+ I = A^2*cos^2(theta)
+ 
+
+ Ratio of intensities is 3:1. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.11/11.sce #
+ 
+ 
+ 
+ d  =
+ 
+    9.  
+ 
+ P_b  =
+ 
+    180.  
+ 
+ P_r  =
+ 
+    1.9  
+ 
+ nu  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 11 # 
+ 
+ ratio  =
+ 
+    0.0947368  
+ 
+ lambda  =
+ 
+    1.2703349  
+ 
+
+ Standard formula used 
+ P_b = 4.4*1e-3*d^2*lambda^2*alpha.
+P_r = 5.9*1e-3*d^2*lambda^2*alpha 
+ 
+
+ wavelength of laser is 1.270335micron.  
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.12/12.sce #
+ 
+ 
+ l_0  =
+ 
+    1.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ 
+
+ # PROBLEM 12 # 
+ 
+ Standard formula used 
+ 
+ l = l_0/((1-v^2/c^2)^1/2)  
+ 
+ l  =
+ 
+    0.6  
+ 
+ change_l_per  =
+ 
+    40.  
+ 
+
+ Percentage contraction in length is 40 percent.  
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.12/12.sce #
+ 
+ 
+ 
+ lambda1  =
+ 
+    6000.  
+ 
+ lambda2  =
+ 
+    5000.  
+ 
+ m  =
+ 
+    0.  
+ 
+ n  =
+ 
+    10.  
+ 
+ d1  =
+ 
+    12.34  
+ 
+ d10  =
+ 
+    14.73  
+ 
+ 
+
+ # PROBLEM 12 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ s  =
+ 
+    2.39  
+ 
+ Beta1  =
+ 
+    0.000239  
+ 
+ Beta2  =
+ 
+    0.0001992  
+ 
+
+ Fringe width for wavelength 5000 angstrom is 0.199167 mm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.12/12.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n3  =
+ 
+    3.  
+ 
+ N  =
+ 
+    6000.  
+ 
+ 
+
+ # PROBLEM 12 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N  
+ 
+ theta_1  =
+ 
+    17.457603  
+ 
+ theta_3  =
+ 
+    64.158067  
+ 
+ theta_dif  =
+ 
+    46.700464  
+ 
+
+ Difference in deviation of first and third order spectra is 46.700464 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.12/12.sce #
+ 
+ 
+ I  =
+ 
+    1.  
+ 
+ I_o  =
+ 
+    0.5  
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ mu_o  =
+ 
+    1.5442  
+ 
+ mu_e  =
+ 
+    1.5532  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+
+ # PROBLEM 12 # 
+ 
+ I_theta  =
+ 
+    0.375  
+ 
+ I_per  =
+ 
+    37.5  
+ 
+Standard formula used 
+ I = A^2*cos^2(theata)
+ 
+
+ Percentage of incident unpolarised light ray passing 
+ through second polaroid is 37.500000. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.12/12.sce #
+ 
+ 
+ P_in  =
+ 
+    100.  
+ 
+ P_out  =
+ 
+    50.  
+ 
+ 
+
+ # PROBLEM 12 # 
+ 
+ alpha  =
+ 
+    3.0103  
+ 
+
+ Standard formula used 
+ alpha=10/L*log(Pi/Po).
+ 
+
+ Attenuation loss is 3.010300 dB.  
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.13/13.sce #
+ 
+ 
+ l_0  =
+ 
+    100.  
+ 
+ l  =
+ 
+    99.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 13 # 
+ 
+ Standard formula used 
+ 
+ l = l_0/((1-v^2/c^2)^1/2)  
+ 
+ v  =
+ 
+    42320208.  
+ 
+
+ Speed of rocket ship is 4.232021e+07 m/s. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.13/13.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ d1  =
+ 
+    5.  
+ 
+ d2  =
+ 
+    75.  
+ 
+ Beta  =
+ 
+    0.09424  
+ 
+ 
+ 
+
+ # PROBLEM 13 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ D  =
+ 
+    80.  
+ 
+ d  =
+ 
+    0.0005  
+ 
+
+ Separation between two coherent sources is 0.050000 cm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.13/13.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ theta  =
+ 
+    90.  
+ 
+ X  =
+ 
+    2620.  
+ 
+ 
+
+ # PROBLEM 13 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N  
+ 
+ N  =
+ 
+    1031.4961  
+ 
+ n  =
+ 
+    19.389313  
+ 
+
+ Number of orders visible is 19. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.13/13.sce #
+ 
+ 
+ I  =
+ 
+    1.  
+ 
+ I_theta  =
+ 
+    0.75  
+ 
+ 
+
+ # PROBLEM 13 # 
+ 
+ theta  =
+ 
+    30.  
+ 
+Standard formula used 
+ I = A^2*cos^2(theata)
+ 
+
+ Angle of rotation required is 31 degree. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.13/13.sce #
+ 
+ 
+ l  =
+ 
+    150.  
+ 
+ P_in  =
+ 
+    10.  
+ 
+ P_out  =
+ 
+    8.  
+ 
+ 
+
+ # PROBLEM 13 # 
+ 
+ alpha  =
+ 
+    0.0064607  
+ 
+
+ Standard formula used 
+ alpha=10/L*log(Pi/Po).
+ 
+
+ Attenuation loss is 0.006461 dB/m.  
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.14/14.sce #
+ 
+ 
+ l  =
+ 
+    100.  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ theta  =
+ 
+    1.0471976  
+ 
+ 
+
+ # PROBLEM 14 # 
+ 
+ Standard formula used 
+ 
+ l = l_0/((1-v^2/c^2)^1/2)  
+ l^2 = l_x^2 + l_y^2 
+ 
+ Lx  =
+ 
+    50.  
+ 
+ Ly  =
+ 
+    86.60254  
+ 
+ L_x  =
+ 
+    30.  
+ 
+ L_y  =
+ 
+    86.60254  
+ 
+ L  =
+ 
+    91.651514  
+ 
+ p_l  =
+ 
+    8.3484861  
+ 
+
+ Percentage length contraction is 8.348486 percent. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.14/14.sce #
+ 
+ 
+ 
+ 
+ mu  =
+ 
+    1.5  
+ 
+ alpha  =
+ 
+    1.  
+ 
+ 
+ lambda  =
+ 
+    6900.  
+ 
+ d1  =
+ 
+    20.  
+ 
+ d2  =
+ 
+    80.  
+ 
+ 
+
+ # PROBLEM 14 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ D  =
+ 
+    100.  
+ 
+ d  =
+ 
+    0.3490659  
+ 
+ Beta  =
+ 
+    0.0000020  
+ 
+
+ Fringe width is 0.000198 cm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.14/14.sce #
+ 
+ 
+ N  =
+ 
+    4000.  
+ 
+ theta  =
+ 
+    90.  
+ 
+ lambda_min  =
+ 
+    4000.  
+ 
+ lambda_max  =
+ 
+    7500.  
+ 
+ 
+
+ # PROBLEM 14 # 
+ 
+ Standard formula used 
+ 
+ lambda/d_lambda = n*N  
+ 
+ n_max  =
+ 
+    6.25  
+ 
+ n_min  =
+ 
+    3.3333333  
+ 
+Visible orders are form 3 to 6. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.14/14.sce #
+ 
+ 
+ lambda  =
+ 
+    0.0000006  
+ 
+ mu_o  =
+ 
+    1.658  
+ 
+ mu_e  =
+ 
+    1.486  
+ 
+ 
+ 
+
+ # PROBLEM 14 # 
+ 
+ t  =
+ 
+    0.0000009  
+ 
+ 
+
+ Standard formula used 
+ t = lambda / (4 * (mu_o - mu_e))  
+
+ Thickness of plate of calcite is 8.561047e-07 meter. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.14/14.sce #
+ 
+ 
+ 
+ l  =
+ 
+    1.5  
+ 
+ P_in  =
+ 
+    1.  
+ 
+ P_out  =
+ 
+    0.25  
+ 
+ 
+
+ # PROBLEM 14 # 
+ 
+ alpha  =
+ 
+    4.0137333  
+ 
+
+ Standard formula used 
+ alpha=10/L*log(Pi/Po).
+ 
+
+ Attenuation loss is 4 dB/km.  
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.15/15.sce #
+ 
+ 
+ t_0  =
+ 
+    43200.  
+ 
+ t  =
+ 
+    43230.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 15 # 
+ 
+ Standard formula used 
+ 
+ t = t_0/((1-v^2/c^2)^1/2) 
+ 
+ v  =
+ 
+    11174521.  
+ 
+
+ Speed of clock is 1.117452e+07 meter/sec. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.15/15.sce #
+ 
+ 
+ 
+ D  =
+ 
+    120.  
+ 
+ d  =
+ 
+    0.075  
+ 
+ x  =
+ 
+    1.888  
+ 
+ n  =
+ 
+    20.  
+ 
+ 
+
+ # PROBLEM 15 # 
+ 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+ 
+ Beta  =
+ 
+    0.0944  
+ 
+ lambda  =
+ 
+    0.0000006  
+ 
+
+ Wavelength of light is 5900 angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.15/15.sce #
+ 
+ 
+ lambda_1  =
+ 
+    6000.  
+ 
+ lambda_2  =
+ 
+    4500.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ 
+
+ # PROBLEM 15 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N 
+ 
+ n  =
+ 
+    3.  
+ 
+ e_d  =
+ 
+    0.00036  
+ 
+ N  =
+ 
+    2777.7778  
+ 
+ 
+ Number of lines per cm is 2777.
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.15/15.sce #
+ 
+ 
+ lambda  =
+ 
+    0.0000006  
+ 
+ mu_o  =
+ 
+    1.55  
+ 
+ mu_e  =
+ 
+    1.54  
+ 
+ 
+ 
+
+ # PROBLEM 15 # 
+ 
+ t  =
+ 
+    0.0000147  
+ 
+ 
+
+ Standard formula used 
+ t = lambda / (4 * (mu_o - mu_e))  
+
+ Thickness of plate of calcite is 1.472500e-05 meter. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.15/15.sce #
+ 
+ 
+ l  =
+ 
+    10.  
+ 
+ P_in  =
+ 
+    900.  
+ 
+ alpha  =
+ 
+    2.3  
+ 
+ 
+
+ # PROBLEM 15 # 
+ 
+ P_out  =
+ 
+    4.5106851  
+ 
+
+ Standard formula used 
+ alpha=10/L*log(Pi/Po).
+ 
+
+ Power at output end is 4.510685 micro Watt. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.16/16.sce #
+ 
+ 
+ t_0  =
+ 
+    1440.  
+ 
+ t  =
+ 
+    1444.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 16 # 
+ 
+ Standard formula used 
+ 
+ t = t_0/((1-v^2/c^2)^1/2) 
+ 
+ v  =
+ 
+    22360680.  
+ 
+
+ Speed of clock is 2.236068e+07 meter/sec. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.16/16.sce #
+ 
+ 
+ lambda  =
+ 
+    5450.  
+ 
+ mu  =
+ 
+    1.5  
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+ 
+
+ # PROBLEM 16 # 
+ 
+
+ Standard formula used 
+ (mu - 1)*t = n*lambda
+ 
+ t  =
+ 
+    0.0000033  
+ 
+
+ Thickness of glass plate is 0.003270 mm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.16/16.sce #
+ 
+ 
+ lambda  =
+ 
+    0.0000005  
+ 
+ mu_o  =
+ 
+    1.5442  
+ 
+ mu_e  =
+ 
+    1.5533  
+ 
+ 
+ 
+
+ # PROBLEM 16 # 
+ 
+ t1  =
+ 
+    0.0000275  
+ 
+ t3  =
+ 
+    0.0000824  
+ 
+ t5  =
+ 
+    0.0001374  
+ 
+ 
+
+ Standard formula used 
+ t = lambda / (4 * (mu_o - mu_e))  
+
+ Thickness of plate of calcite is 
+ 2.747253e-05 meter,
+ 8.241758e-05 meter, 
+ 1.373626e-04 meter and so on ..... 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.16/16.sce #
+ 
+ 
+ l  =
+ 
+    6.  
+ 
+ mu1  =
+ 
+    1.48  
+ 
+ NA  =
+ 
+    0.28  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 16 # 
+ 
+ t  =
+ 
+    0.0000005  
+ 
+
+ Time taken by light pulse is 529.729730 nsec. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.17/17.sce #
+ 
+ 
+ t_  =
+ 
+    5.000D-08  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ r  =
+ 
+    0.1353353  
+ 
+ 
+
+ # PROBLEM 17 # 
+ 
+ Standard formula used 
+ 
+ t = t_0/((1-v^2/c^2)^1/2) 
+ N = N_0*e^(-t/tau) 
+ 
+ t  =
+ 
+    8.333D-08  
+ 
+ T  =
+ 
+    0.0000002  
+ 
+ d  =
+ 
+    40.  
+ 
+
+ Distance travel by the beam is 40.000000 meter. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.17/17.sce #
+ 
+ 
+ lambda  =
+ 
+    5460.  
+ 
+ t  =
+ 
+    0.00063  
+ 
+ n  =
+ 
+    6.  
+ 
+ 
+ 
+
+ # PROBLEM 17 # 
+ 
+
+ Standard formula used 
+ (mu - 1)*t = n*lambda
+ 
+ mu  =
+ 
+    1.52  
+ 
+
+ Refractive index of sheet is 1.520000. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.17/17.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ n_tot  =
+ 
+    15000.  
+ 
+ l  =
+ 
+    3.  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 17 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N  
+ 
+ e_d  =
+ 
+    0.0002  
+ 
+ theta  =
+ 
+    14.477512  
+ 
+
+ Angle of diffraction for maximum intensity in first order 
+is 14.477512 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.17/17.sce #
+ 
+ 
+ lambda  =
+ 
+    5086.  
+ 
+ s  =
+ 
+    29.73  
+ 
+ 
+
+ # PROBLEM 17 # 
+ 
+ del_mu  =
+ 
+    0.0000840  
+ 
+
+ Standard formula used 
+ theta = pi*d*del_mu/lambda. 
+ 
+
+ Differences in refractive indices is 8.400377e-05 . 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH6/EX6.17/17.sce #
+ 
+ 
+ l  =
+ 
+    8.  
+ 
+ mu1  =
+ 
+    1.5  
+ 
+ delta  =
+ 
+    0.02  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 17 # 
+ 
+ t  =
+ 
+    800.  
+ 
+ sigma  =
+ 
+    230.94011  
+ 
+ BT_max  =
+ 
+    0.000625  
+ 
+ Length  =
+ 
+    5.  
+ 
+ 
+
+ Time taken by light pulse is 800.000000 nsec. 
+ RPM pulse is 230.940108 nsec 
+
+ Maximum bit rate is 0.625000 M bit/sec 
+ Bandwidth length product is 5MHz km 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.18/18.sce #
+ 
+ 
+ t_  =
+ 
+    0.0000022  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ 
+
+ # PROBLEM 18 # 
+ 
+ Standard formula used 
+ 
+ t = t_0/((1-v^2/c^2)^1/2) 
+ s = v*t 
+ 
+ t  =
+ 
+    0.0000037  
+ 
+ d  =
+ 
+    880.  
+ 
+
+ Distance travel by the beam is 8.800000e+02 meter. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.18/18.sce #
+ 
+ 
+ lambda  =
+ 
+    0.00006  
+ 
+ t  =
+ 
+    0.0000012  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ 
+
+ # PROBLEM 18 # 
+ 
+
+ Standard formula used 
+ (mu - 1)*t = n*lambda
+ 
+ mu  =
+ 
+    1.5  
+ 
+
+ Refractive index of sheet is 1.500000. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.18/18.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ n  =
+ 
+    2.  
+ 
+ N  =
+ 
+    5000.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+ 
+
+ # PROBLEM 18 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N  
+ 
+ e_d  =
+ 
+    0.0002  
+ 
+ N  =
+ 
+    5000.  
+ 
+
+ Number of lines per unit centimeter is 5000 lines/cm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.18/18.sce #
+ 
+ 
+ lambda1  =
+ 
+    5000.  
+ 
+ theta1  =
+ 
+    30.  
+ 
+ lambda2  =
+ 
+    4000.  
+ 
+ theta2  =
+ 
+    50.  
+ 
+ t  =
+ 
+    1.  
+ 
+ theta_max  =
+ 
+    90.  
+ 
+ 
+
+ # PROBLEM 18 # 
+ 
+ 
+
+ Standard formula used 
+ theta = a + b/(lambda)^2. 
+ 
+ b  =
+ 
+    8.889D-12  
+ 
+ a  =
+ 
+  - 5.5555556  
+ 
+ 
+ t_min  =
+ 
+    3.  
+ 
+
+ Contents are as : 
+ a = -5.555556 deg/mm 
+ b = 8.888889e+08 deg/mm angestrom^2 
+ Thickness of plate required is 3mm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.19/19.sce #
+ 
+ 
+ 
+ t_  =
+ 
+    5.000D-08  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ 
+
+ # PROBLEM 19 # 
+ 
+ Standard formula used 
+ 
+ t = t_0/((1-v^2/c^2)^1/2) 
+ s = v*t 
+ 
+ t  =
+ 
+    8.333D-08  
+ 
+ d  =
+ 
+    20.  
+ 
+
+ Mean life of +pi meson is 8.333333e-08 sec 
+ Distance travel by the beam is 20.000000 meter. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.19/19.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ d  =
+ 
+    0.0005  
+ 
+ D  =
+ 
+    1.  
+ 
+ t  =
+ 
+    0.0000015  
+ 
+ mu  =
+ 
+    1.5  
+ 
+ a1  =
+ 
+    1.  
+ 
+ a2  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 19 # 
+ 
+
+ Standard formula used 
+ (mu - 1)*t = n*lambda
+ 
+ del_l  =
+ 
+    0.0000008  
+ 
+ del_p  =
+ 
+    9.424778  
+ 
+ I  =
+ 
+    0.  
+ 
+ x  =
+ 
+    0.0015  
+ 
+
+ Intensity at center of screen is 0. 
+
+ Shift due to sheet is 1.500000 mm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.19/19.sce #
+ 
+ 
+ 
+ lambda_1  =
+ 
+    5890.  
+ 
+ m  =
+ 
+    5.  
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+ 
+
+ # PROBLEM 19 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N 
+ 
+ lambda_2  =
+ 
+    4712.  
+ 
+ 
+ The wavelength of 5th order spectrum is 4712 angstrom.
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.19/19.sce #
+ 
+ 
+ lambda  =
+ 
+    7620.  
+ 
+ mu_r  =
+ 
+    1.53914  
+ 
+ mu_l  =
+ 
+    1.5392  
+ 
+ t  =
+ 
+    0.5  
+ 
+ 
+
+ # PROBLEM 19 # 
+ 
+ theta  =
+ 
+    7.0866142  
+ 
+
+ Standard formula used 
+ theta = pi*t*(mu_l-mu_r)/(lambda). 
+ 
+
+ Rotation of plane of polarization is 7.086614 degree. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.20/20.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ u  =
+ 
+  - 2.400D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ 
+ 
+
+ # PROBLEM 20 # 
+ 
+ Standard formula used 
+ 
+ u_x = u_x_ + v / (1+ v*u_x_/c^2) 
+  
+ u1  =
+ 
+  - 2.927D+08  
+ 
+
+ Velocity of one particle relative to other is 2.926829e+08 m/sec. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.20/20.sce #
+ 
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ mu  =
+ 
+    1.6  
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+
+ # PROBLEM 20 # 
+ 
+ 
+
+ Standard formula used 
+ (mu - 1)*t = n*lambda
+ 
+ t  =
+ 
+    0.0000029  
+ 
+
+ Thickness of mica sheet is 2.945000e-04 cm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.20/20.sce #
+ 
+ 
+ lambda_1  =
+ 
+    6000.  
+ 
+ lambda_2  =
+ 
+    4800.  
+ 
+ theta  =
+ 
+    0.8480621  
+ 
+ 
+ 
+
+ # PROBLEM 20 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N 
+ 
+ n  =
+ 
+    4.  
+ 
+ e_d  =
+ 
+    0.00032  
+ 
+ 
+ Grating Element is 3.200000e-04 cm.
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.20/20.sce #
+ 
+ 
+ theta  =
+ 
+    13.  
+ 
+ s  =
+ 
+    65.  
+ 
+ l  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 20 # 
+ 
+ c  =
+ 
+    0.1  
+ 
+
+ Standard formula used 
+ c = theta / (s * l). 
+ 
+
+ Concentration of sugar solution = 0.100000 gm/cc or 10 percent. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.21/21.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ u  =
+ 
+    75000000.  
+ 
+ v  =
+ 
+    2.700D+08  
+ 
+ 
+ 
+
+ # PROBLEM 21 # 
+ 
+ Standard formula used 
+ 
+ u_x = u_x_ + v / (1+ v*u_x_/c^2) 
+  
+ u1  =
+ 
+    2.816D+08  
+ 
+
+ Velocity of one particle relative to other is 2.816327e+08 m/sec. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.21/21.sce #
+ 
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ r  =
+ 
+    60.  
+ 
+ mu  =
+ 
+    1.5  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ 
+
+ # PROBLEM 21 # 
+ 
+
+ Standard formula used 
+ 2*mu*t*cos(r) = n*lambda
+ 
+ t  =
+ 
+    0.0000004  
+ 
+
+ Thickness of sheet is 3.926667e-04 mm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.21/21.sce #
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ N  =
+ 
+    200.  
+ 
+ n  =
+ 
+    3.  
+ 
+ d  =
+ 
+    0.025  
+ 
+ 
+
+ # PROBLEM 21 # 
+ 
+ Standard formula used 
+ 
+ n*lambda= sin(theta)/N 
+ 
+ theta  =
+ 
+    2.0630939  
+ 
+ theta_deg  =
+ 
+    2.  
+ 
+ theta_min  =
+ 
+    3.7856313  
+ 
+ e  =
+ 
+    0.0025  
+ 
+ ratio  =
+ 
+    2.  
+ 
+ m  =
+ 
+    1.  
+ 
+ n1  =
+ 
+    2.  
+ 
+ 
+ Angle of diffraction for third order spectrum is 2 degree and 3.785631 minute.
+ 
+
+ For n = 2, m = 1 is considered 
+ because the higher value of m results the order 
+of absent spectrum more than given order 3. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.21/21.sce #
+ 
+ 
+ theta  =
+ 
+    26.4  
+ 
+ c  =
+ 
+    0.2  
+ 
+ l  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 21 # 
+ 
+ s  =
+ 
+    66.  
+ 
+
+ Standard formula used 
+ c = theta / (s * l). 
+ 
+
+ Specific rotation of sugar solution is 66 percent. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.22/22.sce #
+ 
+ 
+ u_x_  =
+ 
+    3.  
+ 
+ u_y_  =
+ 
+    4.  
+ 
+ u_z_  =
+ 
+    12.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ 
+ 
+
+ # PROBLEM 22 # 
+ 
+ Standard formula used 
+ 
+ u_x = u_x_ + v / (1+ v*u_x_/c^2) 
+  
+ u_x  =
+ 
+    2.400D+08  
+ 
+ u_y  =
+ 
+    2.4  
+ 
+ u_z  =
+ 
+    7.1999999  
+ 
+
+ Velocity of particle is 2.400000e+08 i+ 2.400000 j+ 7.200000 k  
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.22/22.sce #
+ 
+ 
+ lambda  =
+ 
+    5893.  
+ 
+ r  =
+ 
+    0.  
+ 
+ mu  =
+ 
+    1.42  
+ 
+ n  =
+ 
+    1.  
+ 
+ m  =
+ 
+    0.5  
+ 
+ 
+ 
+
+ # PROBLEM 22 # 
+ 
+
+ Standard formula used 
+ 2*mu*t*cos(r) = n*lambda
+ 
+ t_n  =
+ 
+    0.0000002  
+ 
+ t_m  =
+ 
+    0.0000001  
+ 
+
+ Least thickness of sheet for 
+ Black : 2.075000e-04 mm 
+ Bright: 1.037500e-04 mm. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.22/22.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ d_theta  =
+ 
+    0.01  
+ 
+ 
+
+ # PROBLEM 22 # 
+ 
+ Standard formula used 
+ 
+ d_theta /d_lambda = n/(e+d)*cos(theta)  
+ 
+ d_lambda  =
+ 
+    86.60254  
+ 
+
+ Difference in two wavelengths is 86.602540 angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.22/22.sce #
+ 
+ 
+ lambda  =
+ 
+    5086.  
+ 
+ s  =
+ 
+    29.73  
+ 
+ 
+
+ # PROBLEM 22 # 
+ 
+ del_mu  =
+ 
+    0.0000840  
+ 
+
+ Standard formula used 
+ theta = pi*t*(mu_l-mu_r)/(lambda). 
+ 
+
+ Difference in indices is 8.400377e-05. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.23/23.sce #
+ 
+ 
+ lambda1  =
+ 
+    0.0000006  
+ 
+ lambda2  =
+ 
+    0.0000006  
+ 
+ i  =
+ 
+    0.9272952  
+ 
+ mu  =
+ 
+    1.3333333  
+ 
+ 
+ 
+
+ # PROBLEM 23 # 
+ 
+ 
+
+ Standard formula used 
+ 2*mu*t*cos(r) = n*lambda
+ 
+ n  =
+ 
+    60.  
+ 
+ r  =
+ 
+    0.6435011  
+ 
+ t  =
+ 
+    0.0000172  
+ 
+
+ Thickness of film is 1.715625e-02 mm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.23/23.sce #
+ 
+ 
+ 
+ N  =
+ 
+    4000.  
+ 
+ n  =
+ 
+    2.  
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ 
+ 
+
+ # PROBLEM 23 # 
+ 
+ Standard formula used 
+ 
+ d_theta /d_lambda = n/(e+d)*cos(theta)  
+ 
+ theta  =
+ 
+    0.4115168  
+ 
+ ratio  =
+ 
+    8728.7156  
+ 
+Dispersive power of grating is 8728. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.23/23.sce #
+ 
+ 
+ theta1  =
+ 
+    13.  
+ 
+ c1  =
+ 
+    1.  
+ 
+ c2  =
+ 
+    0.3333333  
+ 
+ l1  =
+ 
+    2.  
+ 
+ l2  =
+ 
+    3.  
+ 
+ 
+
+ # PROBLEM 23 # 
+ 
+ s  =
+ 
+    6.5  
+ 
+ theta2  =
+ 
+    6.5  
+ 
+
+ Standard formula used 
+ c = theta / (s * l). 
+ 
+
+ Rotation of plane of polarization is 6.500000 degree. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.24/24.sce #
+ 
+ 
+ m_0  =
+ 
+    1.  
+ 
+ m  =
+ 
+    1.5  
+ 
+ l_0  =
+ 
+    1.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 24 # 
+ 
+ Standard formula used 
+ 
+ l = l_0/((1-v^2/c^2)^1/2) 
+ m = m_0/((1-v^2/c^2)^1/2) 
+ 
+ 
+ v  =
+ 
+    2.236D+08  
+ 
+ L  =
+ 
+    0.6666667  
+ 
+
+ Length as it appear to the observer is 0.666667 meter.  
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.24/24.sce #
+ 
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ i  =
+ 
+    45.  
+ 
+ mu  =
+ 
+    1.33  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 24 # 
+ 
+
+ Standard formula used 
+ 2*mu*t*cos(r) = n*lambda
+ 
+ r  =
+ 
+    0.5605584  
+ 
+ t  =
+ 
+    0.0000003  
+ 
+
+ Thickness of film is 2.614397e-04 mm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.24/24.sce #
+ 
+ 
+ N  =
+ 
+    4000.  
+ 
+ theta  =
+ 
+    90.  
+ 
+ lambda_min  =
+ 
+    5000.  
+ 
+ lambda_max  =
+ 
+    7500.  
+ 
+ 
+
+ # PROBLEM 24 # 
+ 
+ Standard formula used 
+ 
+ lambda/d_lambda = n*N  
+ 
+ n_max  =
+ 
+    5.  
+ 
+ n_min  =
+ 
+    3.3333333  
+ 
+ 
+ 
+Visible orders are form 3 to 5. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH4/EX4.24/24.sce #
+ 
+ 
+ m  =
+ 
+    80.  
+ 
+ V  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    9.9  
+ 
+ s  =
+ 
+    66.  
+ 
+ l  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 24 # 
+ 
+ c  =
+ 
+    75.  
+ 
+ purity  =
+ 
+    93.75  
+ 
+
+ Standard formula used 
+ c = theta / (s * l). 
+ 
+
+ Purity percentage of solution is 93.750000 percent. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.25/25.sce #
+ 
+ 
+ m_0  =
+ 
+    1.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.121D+08  
+ 
+ 
+ 
+
+ # PROBLEM 25 # 
+ 
+ Standard formula used 
+ 
+
+ m = m_0/((1-v^2/c^2)^1/2) 
+ 
+ m  =
+ 
+    1.4142136  
+ 
+ 
+ p  =
+ 
+    3.000D+08  
+ 
+ E  =
+ 
+    1.273D+17  
+ 
+ KE  =
+ 
+    3.728D+16  
+ 
+
+ Mass of particle is 1.414214m_0 
+ momentum of particle is 1.000000*m_0*c 
+ Kinetic energy of particle is 0.414214*m_0*c^2 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.25/25.sce #
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ mu  =
+ 
+    1.4  
+ 
+ Beta  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 25 # 
+ 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+ 
+ theta  =
+ 
+    0.0001071  
+ 
+
+ Angle of wedge is 1.071429e-04 rad. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.25/25.sce #
+ 
+ 
+ lambda  =
+ 
+    5893.  
+ 
+ n  =
+ 
+    2.  
+ 
+ N  =
+ 
+    5000.  
+ 
+ theta  =
+ 
+    2.5  
+ 
+ 
+ 
+
+ # PROBLEM 25 # 
+ 
+ d_theta  =
+ 
+    0.0007272  
+ 
+ d_lambda  =
+ 
+    5.875D-08  
+ 
+Difference in wavelengths is 5.875319 angstrom. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.26/26.sce #
+ 
+ 
+ m_0  =
+ 
+    9.100D-31  
+ 
+ m  =
+ 
+    1.001D-29  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 26 # 
+ 
+ Standard formula used 
+ 
+
+ m = m_0/((1-v^2/c^2)^1/2) 
+ 
+ v  =
+ 
+    2.988D+08  
+ 
+ p  =
+ 
+    2.991D-21  
+ 
+ E  =
+ 
+    9.009D-13  
+ 
+ KE  =
+ 
+    5118750.  
+ 
+
+  momentum of particle is 2.990565e-21 kg m /sec 
+ Kinetic energy of particle is 5.118750e+06 eV. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.26/26.sce #
+ 
+ 
+ theta  =
+ 
+    10.  
+ 
+ mu  =
+ 
+    1.4  
+ 
+ Beta  =
+ 
+    0.5  
+ 
+ 
+
+ # PROBLEM 26 # 
+ 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+ 
+ lambda  =
+ 
+    0.0000007  
+ 
+
+ Wavelength of light is 6787 angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.26/26.sce #
+ 
+ 
+ theta  =
+ 
+    0.0000049  
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ 
+
+ # PROBLEM 26 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+ 
+ a  =
+ 
+    0.15  
+ 
+
+ Aperture of objective is 15 cm. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.27/27.sce #
+ 
+ 
+ m_0  =
+ 
+    1.600D-27  
+ 
+ KE  =
+ 
+    500.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 27 # 
+ 
+ Standard formula used 
+ 
+
+ E = m*c^2 
+ 
+ del_m  =
+ 
+    8.889D-28  
+ 
+
+ Change in mass of proton is 8.888889e-28 kg.  
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.27/27.sce #
+ 
+ 
+ n  =
+ 
+    15.  
+ 
+ m  =
+ 
+    5.  
+ 
+ D_n  =
+ 
+    0.59  
+ 
+ D_m  =
+ 
+    0.336  
+ 
+ r  =
+ 
+    100.  
+ 
+ 
+ 
+
+ # PROBLEM 27 # 
+ 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+ 
+ p  =
+ 
+    10.  
+ 
+ lambda  =
+ 
+    0.0000006  
+ 
+
+ Wavelength of light is 5880 angstrom. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.27/27.sce #
+ 
+ 
+ a  =
+ 
+    500.  
+ 
+ lambda  =
+ 
+    5500.  
+ 
+ R  =
+ 
+    380000.  
+ 
+ 
+
+ # PROBLEM 27 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+ 
+ theta  =
+ 
+    0.0000001  
+ 
+ x  =
+ 
+    50.996  
+ 
+
+ Separation of two points is 50.996000m. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.28/28.sce #
+ 
+ 
+ m_p  =
+ 
+    1.600D-27  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # PROBLEM 28 # 
+ 
+ Standard formula used 
+ 
+
+ m = m_0/sqrt(1-(v/c)^2) 
+ 
+ v  =
+ 
+    3.000D+08  
+ 
+ 
+
+ Velocity of moving electron is  3.000000e+08 m/sec.  
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.28/28.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ n  =
+ 
+    6.  
+ 
+ D_n  =
+ 
+    3.1  
+ 
+ r  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 28 # 
+ 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+ 
+ mu  =
+ 
+    1.3735692  
+ 
+
+ Refractive index of material is 1.373569. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.28/28.sce #
+ 
+ 
+ S  =
+ 
+    0.0000006  
+ 
+ lambda  =
+ 
+    5461.  
+ 
+ 
+ 
+
+ # PROBLEM 28 # 
+ 
+ Standard formula used 
+ 
+ S = 1.22*lambda/(2*NA)  
+ 
+ NA  =
+ 
+    0.6002180  
+ 
+
+ Numerical aperture is 0.600218. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.29/29.sce #
+ 
+ 
+ m_0  =
+ 
+    1.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ rest_mass_energy  =
+ 
+    9.000D+16  
+ 
+ KE  =
+ 
+    2.700D+17  
+ 
+ 
+
+ # PROBLEM 29 # 
+ 
+ Standard formula used 
+ 
+
+ E = m*c^2 
+ 
+ E_total  =
+ 
+    3.600D+17  
+ 
+ v  =
+ 
+    2.905D+08  
+ 
+ 
+
+ Velocity of moving electron is  2.904738e+08 m/sec.  
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.29/29.sce #
+ 
+ 
+ lambda  =
+ 
+    5900.  
+ 
+ n  =
+ 
+    10.  
+ 
+ D_n  =
+ 
+    0.5  
+ 
+ 
+ 
+
+ # PROBLEM 29 # 
+ 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+ 
+ r  =
+ 
+    1.059322  
+ 
+ t  =
+ 
+    0.0000030  
+ 
+
+ Diameter of dark ring is 1.059322 m 
+ Thickness of air column is 2.950000e-06m. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.29/29.sce #
+ 
+ 
+ NA  =
+ 
+    0.12  
+ 
+ lambda  =
+ 
+    0.00006  
+ 
+ 
+ 
+
+ # PROBLEM 29 # 
+ 
+ Standard formula used 
+ 
+ RP = 2*NA/lambda  
+ 
+ RP  =
+ 
+    4000.  
+ 
+
+ Maximum resolution power is 4000. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.30/30.sce #
+ 
+ 
+ m_0  =
+ 
+    1.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ rest_mass_energy  =
+ 
+    9.000D+16  
+ 
+ E_total  =
+ 
+    2.700D+17  
+ 
+ 
+
+ # PROBLEM 30 # 
+ 
+ Standard formula used 
+ 
+
+ E = m*c^2 
+ 
+ 
+ v  =
+ 
+    2.828D+08  
+ 
+
+ Velocity of moving electron is  2.828427e+08 m/sec.  
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.30/30.sce #
+ 
+ 
+ theta  =
+ 
+    0.3  
+ 
+ lambda1  =
+ 
+    5890.  
+ 
+ lambda2  =
+ 
+    5896.  
+ 
+ 
+ 
+
+ # PROBLEM 30 # 
+ 
+
+ Standard formula used 
+ 2*t = (2n+1)*lambda/2
+ 
+ n  =
+ 
+  - 983.16667  
+ 
+ t  =
+ 
+    0.0005788  
+ 
+ x  =
+ 
+    0.0552704  
+ 
+
+ Distance from apex is 5.527044 cm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.30/30.sce #
+ 
+ 
+ N  =
+ 
+    40000.  
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ e_d  =
+ 
+    0.000125  
+ 
+ 
+
+ # PROBLEM 30 # 
+ 
+ Standard formula used 
+ 
+ n = e_d/lambda  
+ 
+ n  =
+ 
+    2.5  
+ 
+ P_res  =
+ 
+    80000.  
+ 
+
+Maximum resolution power is 80000. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.31/31.sce #
+ 
+ 
+ m_0  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ KE  =
+ 
+    1500000.  
+ 
+ 
+
+ # PROBLEM 31 # 
+ 
+ Standard formula used 
+ 
+
+ E = m*c^2 
+ 
+ 
+ m  =
+ 
+    3.577D-30  
+ 
+ 
+ v  =
+ 
+    2.901D+08  
+ 
+
+ Mass of moving electron is 3.576667e-30 kg 
+ Velocity of moving electron is  2.901276e+08 m/sec.  
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.31/31.sce #
+ 
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ n  =
+ 
+    10.  
+ 
+ D_n  =
+ 
+    0.5  
+ 
+ 
+
+ # PROBLEM 31 # 
+ 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+ 
+ r  =
+ 
+    1.0416667  
+ 
+ t  =
+ 
+    0.000003  
+ 
+
+ Diameter of dark ring is 104.166667 cm 
+ Thickness of air column is 3.000000e-04 cm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.31/31.sce #
+ 
+ 
+ lambda_1  =
+ 
+    5890.  
+ 
+ lambda_2  =
+ 
+    5896.  
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 31 # 
+ 
+ Standard formula used 
+ 
+ RP = n*N  
+ 
+ d_lambda  =
+ 
+    6.  
+ 
+ lambda  =
+ 
+    5893.  
+ 
+ N  =
+ 
+    491.08333  
+ 
+
+Minimum number of grating required to resolve wavelengths is 491 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.32/32.sce #
+ 
+ 
+ m_0  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v1  =
+ 
+    1.800D+08  
+ 
+ v2  =
+ 
+    2.400D+08  
+ 
+ E_rest  =
+ 
+    0.511  
+ 
+ 
+
+ # PROBLEM 32 # 
+ 
+ Standard formula used 
+ 
+
+ E = m*c^2 
+ 
+ KE1  =
+ 
+    127750.  
+ 
+ KE2  =
+ 
+    340666.67  
+ 
+ 
+ del_KE  =
+ 
+    3.407D-14  
+ 
+
+ Amount of work to be done is equal to 3.406667e-14 J.  
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.32/32.sce #
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ m  =
+ 
+    12.  
+ 
+ o  =
+ 
+    20.  
+ 
+ D_n  =
+ 
+    0.4  
+ 
+ D_m  =
+ 
+    0.7  
+ 
+ 
+ 
+
+ # PROBLEM 32 # 
+ 
+
+ Standard formula used 
+ D_m^2 -D_n^2 = 4*p*r*lambda
+ 
+ D_o  =
+ 
+    0.0090554  
+ 
+
+ Diameter of 20th ring is 0.905539 cm 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.32/32.sce #
+ 
+ 
+ f  =
+ 
+    4.  
+ 
+ d  =
+ 
+    80.  
+ 
+ l  =
+ 
+    2.  
+ 
+ a  =
+ 
+    3.  
+ 
+ lambda  =
+ 
+    5500.  
+ 
+ 
+ 
+
+ # PROBLEM 32 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+
+ 
+ theta  =
+ 
+    0.0000224  
+ 
+ alpha  =
+ 
+    0.00025  
+ 
+As theta = 2.236667e-05 degree is smaller than alpha = 2.500000e-04 degree
+ so telescope will be able to observe wire mesh 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.33/33.sce #
+ 
+ 
+ m_0  =
+ 
+    9.000D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ KE  =
+ 
+    1000000.  
+ 
+ 
+
+ # PROBLEM 33 # 
+ 
+ Standard formula used 
+ 
+
+ E = m*c^2 
+ 
+ v  =
+ 
+    2.825D+08  
+ 
+
+ Velocity of electron is 2.825479e+08 m/sec.  
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.33/33.sce #
+ 
+ 
+ theta  =
+ 
+    0.3  
+ 
+ lambda1  =
+ 
+    0.00006  
+ 
+ lambda2  =
+ 
+    0.000045  
+ 
+ r  =
+ 
+    90.  
+ 
+ 
+
+ # PROBLEM 33 # 
+ 
+ 
+
+ Standard formula used 
+ D_m^2 -D_n^2 = 4*p*r*lambda
+ 
+ n  =
+ 
+    3.  
+ 
+ D_n  =
+ 
+    0.0025456  
+ 
+
+ Diameter of 2th dark ring is 0.254558 cm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.33/33.sce #
+ 
+ 
+ f  =
+ 
+    4.  
+ 
+ d  =
+ 
+    100.  
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ 
+ 
+
+ # PROBLEM 33 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+ 
+ a  =
+ 
+    2.54  
+ 
+ theta  =
+ 
+    0.0000002  
+ 
+
+ Smallest angle between two stars is 2.401575e-07 rad. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.34/34.sce #
+ 
+ 
+ m_0  =
+ 
+    9.110D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ KE  =
+ 
+    100000.  
+ 
+ E_rest  =
+ 
+    512000.  
+ 
+ 
+
+ # PROBLEM 34 # 
+ 
+ Standard formula used 
+ 
+
+ KE = m*v^2 
+ E_total = KE+E_rest 
+ 
+ v_c  =
+ 
+    1.874D+08  
+ 
+ E_total  =
+ 
+    612000.  
+ 
+ v_r  =
+ 
+    1.643D+08  
+ 
+
+ Classical velocity of electron is 1.874199e+08 m/sec 
+ Relativistic velocity of electron is 1.643437e+08 m/sec. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH2/EX2.34/34.sce #
+ 
+ 
+ lambda1  =
+ 
+    0.00006  
+ 
+ lambda2  =
+ 
+    0.000045  
+ 
+ dif1  =
+ 
+    0.125  
+ 
+ mu1  =
+ 
+    1.  
+ 
+ mu2  =
+ 
+    1.33  
+ 
+ r1  =
+ 
+    1.  
+ 
+ r2  =
+ 
+    2.  
+ 
+ 
+
+ # PROBLEM 34 # 
+ 
+
+ Standard formula used 
+ D_m^2 -D_n^2 = 4*p*r*lambda
+ 
+ dif2  =
+ 
+    0.0000094  
+ 
+ 
+ dif3  =
+ 
+    0.0939850  
+ 
+ dif4  =
+ 
+    0.25  
+ 
+
+ For 
+ 1. Wavelength = 6.000000e-05 cm,Difference between square of diameter of two successive rings is 0.093750 cm^2 
+ 2. Refractive index 1.330000, Difference between square of diameter of two successive rings is 0.093985 cm^2 
+ . 
+ 
+ 3.On doubling the radius, Difference between square of diameter of two successive rings will be 0.250000 cm^2. 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.34/34.sce #
+ 
+ 
+ f  =
+ 
+    4.  
+ 
+ a  =
+ 
+    0.01  
+ 
+ lambda  =
+ 
+    5500.  
+ 
+ 
+ 
+
+ # PROBLEM 34 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+ 
+ theta  =
+ 
+    0.0000671  
+ 
+ x  =
+ 
+    0.0002684  
+ 
+
+ Separation between center of images is 2.684000e-02 cm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH1/EX1.35/35.sce #
+ 
+ 
+ BE  =
+ 
+    13.6  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ 
+
+ # PROBLEM 35 # 
+ 
+ Standard formula used 
+ 
+
+ E = m*c^2 
+ 
+ del_m  =
+ 
+    2.418D-35  
+ 
+
+ Loss of mass in formation of one atom of hydrogen is 2.417778e-35kg. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.35/35.sce #
+ 
+ 
+ lambda  =
+ 
+    5000.  
+ 
+ theta  =
+ 
+    0.001  
+ 
+ 
+
+ # PROBLEM 35 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+ 
+ a  =
+ 
+    0.0349504  
+ 
+
+ Diameter of telescope is 3.495043 cm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.36/36.sce #
+ 
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ a  =
+ 
+    1.  
+ 
+ 
+
+ # PROBLEM 36 # 
+ 
+ Standard formula used 
+ 
+ theta = 1.22*lambda/a  
+ 
+ theta  =
+ 
+    0.0000719  
+ 
+
+ Resolving limit of telescope is 7.185800e-05 rad. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.37/37.sce #
+ 
+ 
+ N  =
+ 
+    15000.  
+ 
+ w  =
+ 
+    10.  
+ 
+ n  =
+ 
+    2.  
+ 
+ m  =
+ 
+    3.  
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ 
+
+ # PROBLEM 37 # 
+ 
+ Standard formula used 
+ 
+ lambda/d_lambda = n*N  
+ 
+ P_res  =
+ 
+    30000.  
+ 
+ d_lambda  =
+ 
+    0.2  
+ 
+Resolving power in 2nd order is 3.000000e+04 
+ Smallest wavelength that can be resolved is 20 Angstrom. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.38/38.sce #
+ 
+ 
+ lambda  =
+ 
+    5500.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ 
+
+ # PROBLEM 38 # 
+ 
+ Standard formula used 
+ 
+ S = 1.22*lambda/(2*sin(theta))  
+ 
+ S  =
+ 
+    0.0000007  
+ 
+
+ Resolving limit of microscope is 6.710000e-05 cm. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_1)_B._K._Pandey_And_S._Chaturvedi_2333/CH3/EX3.39/39.sce #
+ 
+ 
+ N  =
+ 
+    6000.  
+ 
+ w  =
+ 
+    10.  
+ 
+ n  =
+ 
+    2.  
+ 
+ m  =
+ 
+    3.  
+ 
+ lambda  =
+ 
+    6000.  
+ 
+ 
+
+ # PROBLEM 39 # 
+ 
+ Standard formula used 
+ 
+ lambda/d_lambda = n*N  
+ 
+ n_tot  =
+ 
+    60000.  
+ 
+ P_res  =
+ 
+    120000.  
+ 
+ d_lambda  =
+ 
+    0.0333333  
+ 
+Resolving power in 2nd order is 1.200000e+05 
+ Smallest wavelength that can be resolved is 0.033333 Angstrom 
+ 

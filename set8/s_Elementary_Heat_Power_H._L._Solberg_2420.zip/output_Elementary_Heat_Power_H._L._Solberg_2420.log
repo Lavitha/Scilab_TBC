@@ -1,0 +1,4533 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 91
+
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.1/1_1.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ m  =
+ 
+    500.  
+ 
+ rate  =
+ 
+    10.  
+ 
+ 
+ F1  =
+ 
+    155.2795  
+ 
+ ms  =
+ 
+    15.52795  
+ 
+ F2  =
+ 
+    155.2795  
+ 
+ 
+Force in case 1 = 155.3 lbf 
+
+ Force in case 2 = 155.3 lbf 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.2/1_2.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ g2  =
+ 
+    32.  
+ 
+ rate  =
+ 
+    10.  
+ 
+ w1  =
+ 
+    500.  
+ 
+ 
+ fd1  =
+ 
+    496.89441  
+ 
+ F  =
+ 
+    155.2795  
+ 
+ ms  =
+ 
+    15.52795  
+ 
+ F2  =
+ 
+    155.2795  
+ 
+ 
+Net weight of body in case 1 = 155.3 lbf 
+
+ Force in case 2 = 155.3 lbf 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.3/1_3.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.174  
+ 
+ m  =
+ 
+    500.  
+ 
+ rate  =
+ 
+    10.  
+ 
+ 
+ F  =
+ 
+    155.40499  
+ 
+ 
+Force required = 155.4 lbf 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.4/1_4.sce #
+ 
+ 
+ 
+ g1  =
+ 
+    32.174  
+ 
+ gc  =
+ 
+    32.174  
+ 
+ g2  =
+ 
+    30.  
+ 
+ m  =
+ 
+    100.  
+ 
+ 
+ w1  =
+ 
+    100.  
+ 
+ w2  =
+ 
+    93.242991  
+ 
+ 
+Weight in case 1 = 100 lbf 
+
+ Weight in case 2 = 93.2 lbf 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.5/1_5.sce #
+ 
+ 
+ 
+ ge  =
+ 
+    32.174  
+ 
+ gm  =
+ 
+    5.47  
+ 
+ we  =
+ 
+    50.  
+ 
+ 
+ wm  =
+ 
+    8.5006527  
+ 
+ 
+In case a, it will weigh the same, weight  = 50 lbm 
+
+ In case b, weight = 8.5 lbf 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.6/1_6.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    29.  
+ 
+ 
+ BP  =
+ 
+    14.239  
+ 
+ AP  =
+ 
+    114.239  
+ 
+ 
+Absolute pressure = 114.24 psia 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.7/1_7.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ Pb  =
+ 
+    29.5  
+ 
+ Pv  =
+ 
+    10.  
+ 
+ 
+ AP  =
+ 
+    9.5745  
+ 
+ 
+Absoulte pressure = 9.57 psia 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.8/1_8.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ v1  =
+ 
+    1.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ 
+ v2  =
+ 
+    2.  
+ 
+ W  =
+ 
+    14400.  
+ 
+ 
+Work done = 14400 ft-lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.9/1_9.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ v1  =
+ 
+    1.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    50.  
+ 
+ v2  =
+ 
+    3.  
+ 
+ 
+ pa  =
+ 
+    75.  
+ 
+ W  =
+ 
+    21600.  
+ 
+ 
+Work done = 21600 ft-lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.10/1_10.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    25.  
+ 
+ v2  =
+ 
+    2.  
+ 
+ 
+ W  =
+ 
+    21600.  
+ 
+ 
+Work done = 21600 ft-lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.11/1_11.sce #
+ 
+ 
+ 
+ g  =
+ 
+    32.2  
+ 
+ n  =
+ 
+    100.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    25.  
+ 
+ v2  =
+ 
+    2.  
+ 
+ 
+ W  =
+ 
+    21600.  
+ 
+ Hp  =
+ 
+    65.454545  
+ 
+ 
+Horsepower developed = 65.5 hp 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH1/EX1.12/1_12.sce #
+ 
+ 
+ 
+ P  =
+ 
+    50.  
+ 
+ m  =
+ 
+    30.  
+ 
+ E  =
+ 
+    19000.  
+ 
+ 
+ eta  =
+ 
+    22.324561  
+ 
+ 
+Efficiency = 22.3 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+ x1  =
+ 
+    0.135  
+ 
+ x2  =
+ 
+    0.056  
+ 
+ veca  =
+ 
+    32.5    48.4    5.6    13.5  
+ 
+ B1  =
+ 
+    11788.  
+ 
+ 
+ vecb  =
+ 
+    37.572254    55.953757    6.4739884    15.606936  
+ 
+ vecc  =
+ 
+    40.173053    59.826947    6.9221261    16.687268  
+ 
+ B2  =
+ 
+    13627.746  
+ 
+ B3  =
+ 
+    14571.075  
+ 
+ vecb  =
+ 
+    37.572254    55.953757    6.4739884    0.  
+ 
+ vecc  =
+ 
+    40.173053    59.826947    0.    16.687268  
+ 
+ vecc  =
+ 
+    40.173053    59.826947    0.    0.  
+ 
+ 
+In Moisture free case,  
+ vecb  =
+ 
+    37.57    55.95    6.474    0.  
+ 
+ 
+    37.57    55.95    6.474    0.  
+ 
+In Moisture and Ash free case,  
+ vecc  =
+ 
+    40.17    59.83    0.    0.  
+ 
+ 
+    40.17    59.83    0.    0.  
+ 
+Energy in Moisture free case  = 13627 Btu per lb 
+
+ Energy in Moisture and ash free case  = 14571 Btu per lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.2/2_2.sce #
+ 
+ 
+ 
+ y1  =
+ 
+    13.5  
+ 
+ x1  =
+ 
+    0.135  
+ 
+ x2  =
+ 
+    0.056  
+ 
+ veca  =
+ 
+    66.    1.5    1.1    5.6    5.9    19.9  
+ 
+ 
+ vecb  =
+ 
+    66.    1.5    1.1    5.6    5.9    19.9    13.5  
+ 
+ vecb  =
+ 
+    66.    1.5    1.1    5.6    4.4    19.9    13.5  
+ 
+ vecb  =
+ 
+    66.    1.5    1.1    5.6    4.4    7.9    13.5  
+ 
+ vecc  =
+ 
+    76.300578    1.734104    1.2716763    6.4739884    5.0867052    9.132948    15.606936  
+ 
+ vecd  =
+ 
+    81.5822    1.8541409    1.3597033    6.9221261    5.4388133    9.7651422    16.687268  
+ 
+ vecd  =
+ 
+    81.5822    1.8541409    1.3597033    0.    5.4388133    9.7651422    16.687268  
+ 
+ vecd  =
+ 
+    81.5822    1.8541409    1.3597033    0.    5.4388133    9.7651422    0.  
+ 
+ vecc  =
+ 
+    76.300578    1.734104    1.2716763    6.4739884    5.0867052    9.132948    0.  
+ 
+ s1  =
+ 
+    100.  
+ 
+ s2  =
+ 
+    100.  
+ 
+ 
+With moisture as a separate item,  
+ vecb  =
+ 
+    66.    1.5    1.1    5.6    4.4    7.9    13.5  
+ 
+ 
+    66.    1.5    1.1    5.6    4.4    7.9    13.5  
+ 
+In Moisture free case,  
+ vecc  =
+ 
+    76.    1.7    1.3    6.5    5.1    9.1    0.  
+ 
+ 
+    76.    1.7    1.3    6.5    5.1    9.1    0.  
+ 
+In Moisture and Ash free case,  
+ vecd  =
+ 
+    81.6    1.85    1.36    0.    5.44    9.77    0.  
+ 
+ 
+    81.6    1.85    1.36    0.    5.44    9.77    0.  
+ 
+Total Mositure free content = 100.0 percent 
+
+ Total Mositure and ash free content = 100.0 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ H  =
+ 
+    5.9  
+ 
+ O  =
+ 
+    19.9  
+ 
+ H2  =
+ 
+    4.4  
+ 
+ O2  =
+ 
+    7.9  
+ 
+ 
+ Ha1  =
+ 
+    3.4125  
+ 
+ Ha2  =
+ 
+    3.4125  
+ 
+ 
+Available hydrogen in case 1 = 3.4 percent by weight 
+
+ Available hydrogen in case 1 = 3.4 percent by weight 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+ H1  =
+ 
+    0.059  
+ 
+ O1  =
+ 
+    0.199  
+ 
+ H2  =
+ 
+    0.044  
+ 
+ O2  =
+ 
+    0.079  
+ 
+ C  =
+ 
+    0.66  
+ 
+ S  =
+ 
+    0.011  
+ 
+ 
+ Qh1  =
+ 
+    11796.3  
+ 
+ Qh2  =
+ 
+    11796.3  
+ 
+ 
+Heating value in case 1 = 11796 Btu/lb  
+
+ Heating value in case 2 = 11796 Btu/lb  
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+ H1  =
+ 
+    0.059  
+ 
+ O1  =
+ 
+    0.199  
+ 
+ C  =
+ 
+    0.66  
+ 
+ S  =
+ 
+    0.011  
+ 
+ 
+ Qh1  =
+ 
+    8.83008  
+ 
+ 
+Theoretical air required = 8.83 lb of air per lb of coal  
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.6/2_6.sce #
+ 
+ 
+ 
+ mf  =
+ 
+    10000.  
+ 
+ mr  =
+ 
+    700.  
+ 
+ Cr  =
+ 
+    0.2  
+ 
+ Cco2  =
+ 
+    14.1  
+ 
+ Co2  =
+ 
+    5.1  
+ 
+ Cco  =
+ 
+    0.1  
+ 
+ Cf  =
+ 
+    0.66  
+ 
+ 
+ Cn2  =
+ 
+    80.7  
+ 
+ Ci  =
+ 
+    6600.  
+ 
+ Ca  =
+ 
+    140.  
+ 
+ Cb  =
+ 
+    0.646  
+ 
+ Cb2  =
+ 
+    0.646  
+ 
+ veca  =
+ 
+    14.1    5.1    0.1    80.7  
+ 
+ vecb  =
+ 
+    14.1    5.1    0.1    80.7  
+ 
+ vecb  =
+ 
+    620.4    5.1    0.1    80.7  
+ 
+ vecb  =
+ 
+    620.4    163.2    0.1    80.7  
+ 
+ vecb  =
+ 
+    620.4    163.2    2.8    80.7  
+ 
+ vecb  =
+ 
+    620.4    163.2    2.8    2259.6  
+ 
+ sumvec  =
+ 
+    3046.  
+ 
+ Lbc  =
+ 
+    170.4  
+ 
+ Gc  =
+ 
+    17.875587  
+ 
+ Gf  =
+ 
+    11.547629  
+ 
+ 
+Carbon in the dry products combustion = 0.646 lb per lb of fuel 
+
+ In case 2, Carbon in the dry products combustion = 0.646 lb per lb of fuel 
+
+ Dry gaseous products of combstion per lb of coal = 11.55 lb  
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.7/2_7.sce #
+ 
+ 
+ 
+ mf  =
+ 
+    10000.  
+ 
+ mr  =
+ 
+    700.  
+ 
+ Cr  =
+ 
+    0.2  
+ 
+ Cco2  =
+ 
+    14.1  
+ 
+ Co2  =
+ 
+    5.1  
+ 
+ Cco  =
+ 
+    0.1  
+ 
+ Cf  =
+ 
+    0.66  
+ 
+ 
+ Cn2  =
+ 
+    80.7  
+ 
+ Ci  =
+ 
+    6600.  
+ 
+ Ca  =
+ 
+    140.  
+ 
+ Cb  =
+ 
+    0.646  
+ 
+ Cb2  =
+ 
+    0.646  
+ 
+ veca  =
+ 
+    14.1    5.1    0.1    80.7  
+ 
+ vecb  =
+ 
+    14.1    5.1    0.1    80.7  
+ 
+ vecb  =
+ 
+    620.4    5.1    0.1    80.7  
+ 
+ vecb  =
+ 
+    620.4    163.2    0.1    80.7  
+ 
+ vecb  =
+ 
+    620.4    163.2    2.8    80.7  
+ 
+ vecb  =
+ 
+    620.4    163.2    2.8    2259.6  
+ 
+ Cbb1  =
+ 
+    0.0045493  
+ 
+ Cbb2  =
+ 
+    0.0045493  
+ 
+ 
+In case 1, Carbon burned per lb of fuel = 0.00455 lb per lb of fuel 
+
+ In case 2, Carbon burned per lb of fuel = 0.00455 lb per lb of fuel 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.8/2_8.sce #
+ 
+ 
+ 
+ H  =
+ 
+    0.044  
+ 
+ M  =
+ 
+    0.135  
+ 
+ H2  =
+ 
+    0.059  
+ 
+ 
+ pro  =
+ 
+    0.531  
+ 
+ pro2  =
+ 
+    0.531  
+ 
+ 
+In case 1, watervapor present in products = 0.531 lb 
+
+ In case 2, watervapor present in products = 0.531 lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.9/2_9.sce #
+ 
+ 
+ 
+ Gf  =
+ 
+    11.57  
+ 
+ H  =
+ 
+    0.044  
+ 
+ M  =
+ 
+    0.135  
+ 
+ mr  =
+ 
+    700.  
+ 
+ mf  =
+ 
+    10000.  
+ 
+ mc  =
+ 
+    1.  
+ 
+ 
+ pro  =
+ 
+    0.531  
+ 
+ mrf  =
+ 
+    0.07  
+ 
+ Aa  =
+ 
+    11.171  
+ 
+ 
+Actual air supplied = 11.17 lb of air supplied per lb of fuel 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.10/2_10.sce #
+ 
+ 
+ 
+ Gf  =
+ 
+    11.57  
+ 
+ H  =
+ 
+    0.044  
+ 
+ M  =
+ 
+    0.135  
+ 
+ mr  =
+ 
+    700.  
+ 
+ mf  =
+ 
+    10000.  
+ 
+ mc  =
+ 
+    1.  
+ 
+ 
+ pro  =
+ 
+    0.531  
+ 
+ mrf  =
+ 
+    0.07  
+ 
+ Aa  =
+ 
+    11.171  
+ 
+ At  =
+ 
+    8.83  
+ 
+ ea  =
+ 
+    26.511891  
+ 
+ 
+Excess air = 26.5 percent 
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.11.a/2_11a.sce #
+ 
+ 
+ Gf  =
+ 
+    11.57  
+ 
+ tg  =
+ 
+    500.  
+ 
+ ta  =
+ 
+    70.  
+ 
+ 
+ Q1  =
+ 
+    1194.024  
+ 
+ 
+Heat loss = 1194 Btu per lb of fuel 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.11.b/2_11b.sce #
+ 
+ 
+ 
+ Co  =
+ 
+    0.1  
+ 
+ Co2  =
+ 
+    14.1  
+ 
+ Cb  =
+ 
+    0.646  
+ 
+ 
+ Q2  =
+ 
+    46.220845  
+ 
+ 
+Heat loss = 46 Btu per lb of fuel 
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.11c/2_11c.sce #
+ 
+ 
+ 
+ mf  =
+ 
+    10000.  
+ 
+ mr  =
+ 
+    700.  
+ 
+ Cr  =
+ 
+    0.2  
+ 
+ 
+ Q3  =
+ 
+    204.4  
+ 
+ 
+Heat loss = 204 Btu per lb of fuel 
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.11d/2_11d.sce #
+ 
+ 
+ 
+ M  =
+ 
+    0.135  
+ 
+ tg  =
+ 
+    500.  
+ 
+ ta  =
+ 
+    70.  
+ 
+ 
+ Q4  =
+ 
+    168.615  
+ 
+ 
+Heat loss = 168.6 Btu per lb of fuel 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH2/EX2.11e/2_11e.sce #
+ 
+ 
+ 
+ Per  =
+ 
+    0.044  
+ 
+ tg  =
+ 
+    500.  
+ 
+ ta  =
+ 
+    70.  
+ 
+ 
+ Q5  =
+ 
+    494.604  
+ 
+ 
+Heat loss = 494.6 Btu per lb of fuel 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ re  =
+ 
+    6.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ nt  =
+ 
+    0.5116407  
+ 
+ ntt  =
+ 
+    51.164066  
+ 
+ 
+Thermal efficiency = 51.2 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ d  =
+ 
+    3.25  
+ 
+ str  =
+ 
+    4.  
+ 
+ v  =
+ 
+    6.  
+ 
+ 
+ Dp  =
+ 
+    33.183072  
+ 
+ r  =
+ 
+    6.5305121  
+ 
+ 
+Compression ratio = 6.53 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ per  =
+ 
+    20.  
+ 
+ Dp  =
+ 
+    100.  
+ 
+ 
+ r  =
+ 
+    6.  
+ 
+ 
+Compression ratio = 6  
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ r  =
+ 
+    16.  
+ 
+ rc  =
+ 
+    4.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ etat  =
+ 
+    0.5315429  
+ 
+ eta  =
+ 
+    53.154292  
+ 
+ 
+Thermal efficiency = 53.2 percent 
+ 
+ The answer is a bit different due to rounding off error in the textbook   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ F  =
+ 
+    200.  
+ 
+ area  =
+ 
+    1.65  
+ 
+ len  =
+ 
+    3.5  
+ 
+ 
+ ord  =
+ 
+    0.4714286  
+ 
+ mep  =
+ 
+    94.285714  
+ 
+ 
+MEP of an engine = 94.3 psi 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ Pi  =
+ 
+    90.  
+ 
+ L  =
+ 
+    0.4166667  
+ 
+ r  =
+ 
+    5.  
+ 
+ x  =
+ 
+    1.5  
+ 
+ rpm  =
+ 
+    1500.  
+ 
+ 
+ A  =
+ 
+    7.0685835  
+ 
+ N  =
+ 
+    3000.  
+ 
+ Ihp  =
+ 
+    24.097444  
+ 
+ 
+IHP of cylinder = 24 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.7/3_7.sce #
+ 
+ 
+ 
+ r  =
+ 
+    4.  
+ 
+ n  =
+ 
+    300.  
+ 
+ F  =
+ 
+    60.  
+ 
+ 
+ Bhp  =
+ 
+    13.708768  
+ 
+ 
+Bhp of the engine = 13.7 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ C  =
+ 
+    0.00025  
+ 
+ F  =
+ 
+    125.  
+ 
+ n  =
+ 
+    3500.  
+ 
+ 
+ Bhp  =
+ 
+    109.375  
+ 
+ 
+Bhp developed by the engine = 109.4 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ r  =
+ 
+    1.75  
+ 
+ F1  =
+ 
+    72.  
+ 
+ F2  =
+ 
+    24.  
+ 
+ n  =
+ 
+    500.  
+ 
+ m  =
+ 
+    1.8  
+ 
+ mi  =
+ 
+    15.  
+ 
+ Qh  =
+ 
+    20000.  
+ 
+ 
+ Bhp  =
+ 
+    11.995172  
+ 
+ Fhp  =
+ 
+    3.9983907  
+ 
+ Ihp  =
+ 
+    15.993563  
+ 
+ Fc  =
+ 
+    7.2  
+ 
+ Bsfc  =
+ 
+    0.6002415  
+ 
+ Isfc  =
+ 
+    0.4501811  
+ 
+ etam  =
+ 
+    75.  
+ 
+ etabt  =
+ 
+    0.211998  
+ 
+ etait  =
+ 
+    0.2826640  
+ 
+ 
+Thermal efficiency = 75 percent 
+
+ Brake thermal effficiency = 21.2 percent 
+
+ Indicated thermal effficiency = 28.3 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ bore  =
+ 
+    3.  
+ 
+ str  =
+ 
+    4.  
+ 
+ rpm  =
+ 
+    3000.  
+ 
+ air  =
+ 
+    110.  
+ 
+ 
+ pdv  =
+ 
+    169.646  
+ 
+ pde  =
+ 
+    254469.  
+ 
+ req  =
+ 
+    190080.  
+ 
+ eff  =
+ 
+    74.69672  
+ 
+ 
+Volumetric efficiency = 74.7 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ x1  =
+ 
+    11.5  
+ 
+ x2  =
+ 
+    4.1  
+ 
+ x3  =
+ 
+    0.4  
+ 
+ x4  =
+ 
+    2.3  
+ 
+ x5  =
+ 
+    0.2  
+ 
+ x6  =
+ 
+    81.5  
+ 
+ yc  =
+ 
+    0.842  
+ 
+ yh  =
+ 
+    0.158  
+ 
+ basis  =
+ 
+    1.  
+ 
+ bhp  =
+ 
+    100.  
+ 
+ burn  =
+ 
+    8.9  
+ 
+ sg  =
+ 
+    0.731  
+ 
+ Qh  =
+ 
+    20750.  
+ 
+ rate  =
+ 
+    66.  
+ 
+ ex  =
+ 
+    1100.  
+ 
+ air  =
+ 
+    70.  
+ 
+ cp  =
+ 
+    0.254  
+ 
+ h2  =
+ 
+    4330.  
+ 
+ h4  =
+ 
+    62000.  
+ 
+ h5  =
+ 
+    23700.  
+ 
+ 
+ c1  =
+ 
+    506.  
+ 
+ c2  =
+ 
+    114.8  
+ 
+ c3  =
+ 
+    12.8  
+ 
+ c4  =
+ 
+    4.6  
+ 
+ c5  =
+ 
+    3.2  
+ 
+ c6  =
+ 
+    2282.  
+ 
+ summ  =
+ 
+    2923.4  
+ 
+ carbon  =
+ 
+    189.6  
+ 
+ hydrogen  =
+ 
+    5.4  
+ 
+ lbdrygas  =
+ 
+    12.98261  
+ 
+ lbfuel  =
+ 
+    225.17815  
+ 
+ lbH  =
+ 
+    35.578147  
+ 
+ lbH2  =
+ 
+    30.178147  
+ 
+ lb3  =
+ 
+    271.60333  
+ 
+ lbwater  =
+ 
+    1.2061709  
+ 
+ lbair  =
+ 
+    13.188781  
+ 
+ bsfc  =
+ 
+    0.5419415  
+ 
+ fuelmin  =
+ 
+    0.9032358  
+ 
+ energy  =
+ 
+    4696.0791  
+ 
+ per1  =
+ 
+    0.2263171  
+ 
+ Ec  =
+ 
+    5497.8  
+ 
+ Eclb  =
+ 
+    6086.7828  
+ 
+ per2  =
+ 
+    0.2933389  
+ 
+ dryloss  =
+ 
+    3396.5104  
+ 
+ per3  =
+ 
+    0.1636872  
+ 
+ hv2  =
+ 
+    2207.5144  
+ 
+ hv4  =
+ 
+    1266.5527  
+ 
+ hv5  =
+ 
+    336.8  
+ 
+ hv  =
+ 
+    3810.8671  
+ 
+ per4  =
+ 
+    0.1836562  
+ 
+ eh2  =
+ 
+    1864.7402  
+ 
+ per5  =
+ 
+    0.0898670  
+ 
+ rad  =
+ 
+    1017.  
+ 
+ per6  =
+ 
+    0.0490120  
+ 
+ 
+Air supplied per lb of fuel = 13.2 lb air per lb fuel 
+
+ Percentage of energy supplied utilized in Btu = 22.63 percent 
+
+ Percentage of energy absorbed by coolant = 29.33 percent 
+
+ Energy lost in sensible heat = 16.37 percent 
+
+ Energy supplied in combustiles in exhaust = 18.37 percent 
+
+ Energy supplied in water formed by combustion = 8.99 percent 
+
+ Energy supplied unaccounted for = 4.90 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ x  =
+ 
+    0.98  
+ 
+ vg  =
+ 
+    26.8  
+ 
+ vf  =
+ 
+    0.01672  
+ 
+ 
+ vx  =
+ 
+    26.264334  
+ 
+ 
+Specific volume of wet steam = 26.264334 cu ft per lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.2/5_2.sce #
+ 
+ 
+ 
+ hf  =
+ 
+    167.99  
+ 
+ hg  =
+ 
+    4.5  
+ 
+ 
+ hc  =
+ 
+    172.49  
+ 
+ 
+Enthalpy of water = 172.5 Btu/lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.3/5_3.sce #
+ 
+ 
+ 
+ x  =
+ 
+    0.97  
+ 
+ hg  =
+ 
+    1187.2  
+ 
+ hf  =
+ 
+    298.4  
+ 
+ hfg  =
+ 
+    888.8  
+ 
+ 
+ hx1  =
+ 
+    1160.536  
+ 
+ hx2  =
+ 
+    1160.536  
+ 
+ hx3  =
+ 
+    1160.536  
+ 
+ 
+
+ In case 1, enthalpy = 1160.5 Btu/lb 
+
+ In case 2, enthalpy = 1160.5 Btu/lb 
+
+ In case 3, enthalpy = 1160.5 Btu/lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.4/5_4.sce #
+ 
+ 
+ 
+ h1  =
+ 
+    1172.  
+ 
+ hf1  =
+ 
+    355.36  
+ 
+ hfg1  =
+ 
+    843.  
+ 
+ 
+ h2  =
+ 
+    1172.  
+ 
+ x1  =
+ 
+    0.9687307  
+ 
+ 
+Quality of steam = 96.9 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.5/5_5.sce #
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ x  =
+ 
+    0.95  
+ 
+ m  =
+ 
+    1.  
+ 
+ 
+ 
+ From mollier chart,   
+ 
+ hx  =
+ 
+    1156.  
+ 
+ sx  =
+ 
+    1.495  
+ 
+ 
+Enthalpy = 1156 Btu/lb 
+
+ entropy = 1.495 Btu/lb F 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.6/5_6.sce #
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ T  =
+ 
+    600.  
+ 
+ m  =
+ 
+    1.  
+ 
+ 
+ 
+ From mollier chart,   
+ 
+ hx  =
+ 
+    1322.  
+ 
+ sx  =
+ 
+    1.676  
+ 
+ 
+Enthalpy = 1322 Btu/lb 
+
+ entropy = 1.676 Btu/lb F 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.7/5_7.sce #
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ T  =
+ 
+    260.  
+ 
+ 
+ 
+ From mollier chart,   
+ 
+ hx  =
+ 
+    1174.  
+ 
+ x1  =
+ 
+    2.8  
+ 
+ y1  =
+ 
+    97.2  
+ 
+ 
+Quality = 97.2 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.8/5_8.sce #
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ T  =
+ 
+    500.  
+ 
+ 
+ 
+ From mollier chart,   
+ 
+ hi  =
+ 
+    1269.  
+ 
+ hf  =
+ 
+    1063.  
+ 
+ dh  =
+ 
+    206.  
+ 
+ y1  =
+ 
+    91.  
+ 
+ 
+Quality = 91.0 percent 
+
+ Change in enthalpy = 206 Btu/lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.9/5_9.sce #
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ Ts  =
+ 
+    260.  
+ 
+ Tf  =
+ 
+    220.  
+ 
+ m  =
+ 
+    10000.  
+ 
+ Pc  =
+ 
+    20.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ hf  =
+ 
+    188.  
+ 
+ h2  =
+ 
+    1172.  
+ 
+ Q  =
+ 
+    9840000.  
+ 
+ 
+Heat absorption = 9840000 Btu/hr 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.10/5_10.sce #
+ 
+ 
+ 
+ m  =
+ 
+    150000.  
+ 
+ P1  =
+ 
+    1000.  
+ 
+ Ts  =
+ 
+    900.  
+ 
+ Tf  =
+ 
+    200.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h2  =
+ 
+    1448.2  
+ 
+ hf  =
+ 
+    167.99  
+ 
+ correc  =
+ 
+    2.2  
+ 
+ hc  =
+ 
+    170.19  
+ 
+ Q  =
+ 
+    1.917D+08  
+ 
+ 
+Heat absorption = 191701500 Btu/hr 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.11/5_11.sce #
+ 
+ 
+ 
+ m  =
+ 
+    150000.  
+ 
+ P1  =
+ 
+    1000.  
+ 
+ Ts  =
+ 
+    900.  
+ 
+ Tf  =
+ 
+    200.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h2  =
+ 
+    1448.2  
+ 
+ hf  =
+ 
+    167.99  
+ 
+ correc  =
+ 
+    2.2  
+ 
+ hc  =
+ 
+    170.19  
+ 
+ Q  =
+ 
+    1.917D+08  
+ 
+ output  =
+ 
+    191701.5  
+ 
+ 
+Output of the steam generating unit = 191701 kB/hr 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.12/5_12.sce #
+ 
+ 
+ 
+ m  =
+ 
+    150000.  
+ 
+ P1  =
+ 
+    1000.  
+ 
+ Ts  =
+ 
+    900.  
+ 
+ Tf  =
+ 
+    200.  
+ 
+ m2  =
+ 
+    21000.  
+ 
+ HV  =
+ 
+    12000.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h2  =
+ 
+    1448.2  
+ 
+ hf  =
+ 
+    167.99  
+ 
+ correc  =
+ 
+    2.2  
+ 
+ hc  =
+ 
+    170.19  
+ 
+ Q  =
+ 
+    1.917D+08  
+ 
+ output  =
+ 
+    1.917D+08  
+ 
+ inpu  =
+ 
+    2.520D+08  
+ 
+ eta  =
+ 
+    0.7607202  
+ 
+ 
+Efficiency of the steam generating unit = 76.1 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH5/EX5.13/5_13.sce #
+ 
+ 
+ 
+ hv  =
+ 
+    11780.  
+ 
+ steam  =
+ 
+    55000.  
+ 
+ coal  =
+ 
+    6480.  
+ 
+ x1  =
+ 
+    0.66  
+ 
+ x2  =
+ 
+    0.044  
+ 
+ x3  =
+ 
+    0.079  
+ 
+ x4  =
+ 
+    0.015  
+ 
+ x5  =
+ 
+    0.11  
+ 
+ z1  =
+ 
+    14.5  
+ 
+ z2  =
+ 
+    0.2  
+ 
+ z3  =
+ 
+    4.4  
+ 
+ z4  =
+ 
+    80.9  
+ 
+ xash  =
+ 
+    0.076  
+ 
+ xmois  =
+ 
+    0.115  
+ 
+ yc  =
+ 
+    0.21  
+ 
+ refuse  =
+ 
+    622.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ tg  =
+ 
+    400.  
+ 
+ ta  =
+ 
+    70.  
+ 
+ Qco  =
+ 
+    10160.  
+ 
+ Qc  =
+ 
+    14600.  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ hf  =
+ 
+    269.6  
+ 
+ hfg  =
+ 
+    1.5  
+ 
+ h1  =
+ 
+    271.1  
+ 
+ h2  =
+ 
+    1196.5  
+ 
+ Qb  =
+ 
+    925.4  
+ 
+ h3  =
+ 
+    1407.7  
+ 
+ Qs  =
+ 
+    211.2  
+ 
+ h4  =
+ 
+    1136.6  
+ 
+ out  =
+ 
+    62513.  
+ 
+ eff  =
+ 
+    0.8189362  
+ 
+ 
+ Ci  =
+ 
+    4276.8  
+ 
+ Cr  =
+ 
+    130.62  
+ 
+ Cb  =
+ 
+    0.6398426  
+ 
+ lbt  =
+ 
+    3049.6  
+ 
+ lbC  =
+ 
+    176.4  
+ 
+ dry  =
+ 
+    11.061587  
+ 
+ loss1  =
+ 
+    876.0777  
+ 
+ loss2  =
+ 
+    88.446269  
+ 
+ loss3  =
+ 
+    294.29815  
+ 
+ loss4  =
+ 
+    138.345  
+ 
+ loss5  =
+ 
+    476.388  
+ 
+ loss6  =
+ 
+    9647.0679  
+ 
+ 
+Heat absorbed in the boiler = 925.40 Btu per lb of steam generated 
+
+ Heat absorbed in the superheater = 211.20 Btu/lb of steam 
+
+ Heat absorbed in steam generating = 1136.60 Btu/lb of steam generated 
+
+ Output of steam generating unit = 62512 kB 
+
+ Efficiency of steam generating unit = 81.9 percent 
+
+ Carbon burned to CO and CO2 = 0.64 lb of C per lb of fuel 
+
+ Dry products of combustion = 11.06 lb per lb of fuel 
+
+ Loss due to sensible heat in dry gaseous products of combustion = 876 Btu/lb of fuel 
+
+ Loss due to CO in dry products of combustion = 88.4 Btu/lb of fuel 
+
+ Loss due to C in refuse = 294.3 Btu/lb of fuel 
+
+ Loss due to evaporating moisture in fuel = 138.3 Btu/lb of fuel 
+
+ Loss due to water vapor formed from H = 476.4 Btu/lb of fuel 
+
+ Energy absorbed in generating steam = 9647 Btu/lb of fuel 
+ 
+ The answers are a bit different due to rounding off error in the textbook   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH6/EX6.1/6_1.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    600.  
+ 
+ P2  =
+ 
+    2.  
+ 
+ J  =
+ 
+    778.  
+ 
+ 
+ 
+ from mollier charts,   
+ 
+ h1  =
+ 
+    1322.  
+ 
+ h2  =
+ 
+    974.  
+ 
+ vf2  =
+ 
+    0.01623  
+ 
+ hf2  =
+ 
+    94.  
+ 
+ t2  =
+ 
+    126.  
+ 
+ Wtj  =
+ 
+    348.  
+ 
+ Qout  =
+ 
+    880.  
+ 
+ Wp  =
+ 
+    3.21354  
+ 
+ Wpj  =
+ 
+    0.0041305  
+ 
+ h3  =
+ 
+    94.004131  
+ 
+ Qin  =
+ 
+    1227.9959  
+ 
+ etat  =
+ 
+    0.2833852  
+ 
+ eta  =
+ 
+    0.2833876  
+ 
+ 
+Efficiency of rankine cycle = 28.3 percent 
+
+ Efficiency of rankine cycle neglecting boiler feed pump = 28.3 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ B  =
+ 
+    70.  
+ 
+ P1  =
+ 
+    140.  
+ 
+ x  =
+ 
+    0.986  
+ 
+ P2  =
+ 
+    14.7  
+ 
+ ms  =
+ 
+    2000.  
+ 
+ Ihp  =
+ 
+    80.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ hc  =
+ 
+    38.  
+ 
+ hf  =
+ 
+    324.82  
+ 
+ hfg  =
+ 
+    868.2  
+ 
+ h1  =
+ 
+    1180.8652  
+ 
+ Qin  =
+ 
+    2285730.4  
+ 
+ eta  =
+ 
+    8.9074372  
+ 
+ Qw  =
+ 
+    203600.  
+ 
+ Qr  =
+ 
+    2082130.4  
+ 
+ per  =
+ 
+    91.092563  
+ 
+ 
+Heat input to the boiler = 2285730 Btu/hr 
+
+ Cycle efficiency = 8.9 percent 
+
+ Heat rejected to waste = 2082130 Btu/hr or 91.1 percent of Qin 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH6/EX6.3/6_3.sce #
+ 
+ 
+ 
+ B  =
+ 
+    70.  
+ 
+ P1  =
+ 
+    140.  
+ 
+ x  =
+ 
+    0.986  
+ 
+ P2  =
+ 
+    14.7  
+ 
+ ms  =
+ 
+    2000.  
+ 
+ Ihp  =
+ 
+    80.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ hc  =
+ 
+    180.  
+ 
+ hf  =
+ 
+    324.82  
+ 
+ hfg  =
+ 
+    868.2  
+ 
+ h1  =
+ 
+    1180.8652  
+ 
+ Qin  =
+ 
+    2001730.4  
+ 
+ eta  =
+ 
+    10.1712  
+ 
+ Qw  =
+ 
+    203600.  
+ 
+ Qr  =
+ 
+    1798130.4  
+ 
+ per  =
+ 
+    89.8288  
+ 
+ 
+Heat input to the boiler = 2001730 Btu/hr 
+
+ Cycle efficiency = 10.17 percent 
+
+ Heat rejected to waste = 1798130 Btu/hr or 89.83 percent of Qin 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH6/EX6.4/6_4.sce #
+ 
+ 
+ 
+ m  =
+ 
+    1.24  
+ 
+ HV  =
+ 
+    11300.  
+ 
+ 
+ HR  =
+ 
+    14012.  
+ 
+ eff  =
+ 
+    0.2435769  
+ 
+ 
+Plant heat rate = 14012 Btu/kw hr 
+
+ Overall efficiency = 24.4 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.1/7_1.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ m  =
+ 
+    1.  
+ 
+ P4  =
+ 
+    140.  
+ 
+ P11  =
+ 
+    1.  
+ 
+ x  =
+ 
+    0.808  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h1  =
+ 
+    1268.9  
+ 
+ h4  =
+ 
+    1234.7  
+ 
+ V4  =
+ 
+    1308.7995  
+ 
+ v4  =
+ 
+    3.584  
+ 
+ A4  =
+ 
+    0.0027384  
+ 
+ h11  =
+ 
+    907.4  
+ 
+ V11  =
+ 
+    4255.1437  
+ 
+ vf  =
+ 
+    0.01614  
+ 
+ vg  =
+ 
+    333.6  
+ 
+ vfg  =
+ 
+    333.58386  
+ 
+ v11  =
+ 
+    269.5488  
+ 
+ A11  =
+ 
+    0.0633466  
+ 
+ 
+Area of nozzle = 0.00274 sq ft 
+
+ Area of nozzle = 0.0633 sq ft 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.4/7_4.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ alpha  =
+ 
+    20.  
+ 
+ n  =
+ 
+    3600.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ V1  =
+ 
+    4240.  
+ 
+ Vb  =
+ 
+    1992.1484  
+ 
+ R  =
+ 
+    5.2843376  
+ 
+ work  =
+ 
+    246500.32  
+ 
+ eff  =
+ 
+    88.302222  
+ 
+ 
+Blade velocity = 1992 fps 
+
+ Blade radius = 5.3 ft 
+
+ Work done = 246500 ft-lb per lb of steam 
+
+ Blade efficiency = 88.3 percent 
+ 
+ The answers are a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.5/7_5.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ alpha  =
+ 
+    20.  
+ 
+ n  =
+ 
+    3600.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ Vb  =
+ 
+    1200.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ V1  =
+ 
+    4240.  
+ 
+ V1x  =
+ 
+    3980.  
+ 
+ V2x  =
+ 
+  - 1580.  
+ 
+ work  =
+ 
+    207204.97  
+ 
+ eff  =
+ 
+    74.225703  
+ 
+ 
+
+ Work done = 207204 ft-lb per lb of steam 
+
+ Blade efficiency = 74.2 percent 
+ 
+ The answers are a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.6/7_6.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ alpha  =
+ 
+    20.  
+ 
+ n  =
+ 
+    3600.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ V1  =
+ 
+    2450.  
+ 
+ Vb  =
+ 
+    1151.1235  
+ 
+ R  =
+ 
+    3.0534498  
+ 
+ work  =
+ 
+    82303.43  
+ 
+ w3  =
+ 
+    246910.29  
+ 
+ 
+Blade velocity = 1151 fps 
+
+ Blade radius = 3.05 ft 
+
+ Work done = 246910 ft-lb per lb of steam 
+ 
+ The answers are a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.7/7_7.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    200.  
+ 
+ T1  =
+ 
+    500.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ alpha  =
+ 
+    20.  
+ 
+ n  =
+ 
+    3600.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ stage  =
+ 
+    2.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ V1  =
+ 
+    4240.  
+ 
+ Vb  =
+ 
+    996.07418  
+ 
+ R  =
+ 
+    2.6421688  
+ 
+ V1x  =
+ 
+    3980.  
+ 
+ V2x  =
+ 
+  - 1990.  
+ 
+ work1  =
+ 
+    184675.86  
+ 
+ work2  =
+ 
+    61558.622  
+ 
+ wt  =
+ 
+    246234.49  
+ 
+ 
+Blade velocity = 996 fps 
+
+ Blade radius = 2.64 ft 
+
+ Total Work done = 246234 ft-lb per lb of steam 
+ 
+ The answers are a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.8/7_8.sce #
+ 
+ 
+ 
+ alpha  =
+ 
+    20.  
+ 
+ n  =
+ 
+    3600.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ V1  =
+ 
+    500.  
+ 
+ 
+ Vb  =
+ 
+    469.84631  
+ 
+ V1x  =
+ 
+    469.84631  
+ 
+ work  =
+ 
+    6855.7626  
+ 
+ 
+Blade velocity = 469 fps 
+
+ Work done = 6855 ft-lb per lb of steam 
+ 
+ The answers are a bit different due to rounding off error in textbook.   
+ 
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.9/7_9.sce #
+ 
+ 
+ 
+ pow  =
+ 
+    1000.  
+ 
+ ms  =
+ 
+    16000.  
+ 
+ P  =
+ 
+    200.  
+ 
+ T  =
+ 
+    540.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h1  =
+ 
+    1290.  
+ 
+ h2  =
+ 
+    940.  
+ 
+ dh  =
+ 
+    350.  
+ 
+ rate  =
+ 
+    9.7514286  
+ 
+ act  =
+ 
+    16.  
+ 
+ 
+Ideal steam rate = 9.75 lb per kw hr 
+
+ Actual steam rate = 16 lb per kw hr 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH7/EX7.10/7_10.sce #
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ T  =
+ 
+    540.  
+ 
+ pow  =
+ 
+    1000.  
+ 
+ ms  =
+ 
+    16000.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h1  =
+ 
+    1290.  
+ 
+ h2  =
+ 
+    940.  
+ 
+ dh  =
+ 
+    350.  
+ 
+ hf2  =
+ 
+    83.  
+ 
+ etat  =
+ 
+    0.2899751  
+ 
+ act  =
+ 
+    0.1767295  
+ 
+ etae  =
+ 
+    0.6094643  
+ 
+ 
+Ideal thermal efficiency = 29.0 percent 
+
+ Actual thermal efficiency = 17.7 percent 
+
+ Engine efficiency = 60.9 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH8/EX8.1/8_1.sce #
+ 
+ 
+ 
+ area1  =
+ 
+    2.7  
+ 
+ len  =
+ 
+    3.4  
+ 
+ scale  =
+ 
+    60.  
+ 
+ area2  =
+ 
+    2.75  
+ 
+ dia  =
+ 
+    12.  
+ 
+ d2  =
+ 
+    2.5  
+ 
+ L  =
+ 
+    1.25  
+ 
+ n  =
+ 
+    250.  
+ 
+ F  =
+ 
+    600.  
+ 
+ r  =
+ 
+    3.  
+ 
+ 
+ Ah  =
+ 
+    113.09734  
+ 
+ Ac  =
+ 
+    108.1886  
+ 
+ Pih  =
+ 
+    47.647059  
+ 
+ Pic  =
+ 
+    48.529412  
+ 
+ Hihp  =
+ 
+    51.029881  
+ 
+ Cihp  =
+ 
+    49.719024  
+ 
+ Tihp  =
+ 
+    100.74891  
+ 
+ Bhp  =
+ 
+    85.6798  
+ 
+ Fhp  =
+ 
+    15.069105  
+ 
+ eff  =
+ 
+    85.042909  
+ 
+ 
+Ihp = 100.7 ihp 
+
+ Bhp = 85.7 bhp 
+
+ Fhp = 15.1 fhp 
+
+ Efficiency = 85.0 percent 
+ 
+ The answer is a bit different due to rounding off error in the textbook.   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH8/EX8.2/8_2.sce #
+ 
+ 
+ 
+ Ihp  =
+ 
+    101.1  
+ 
+ Bhp  =
+ 
+    85.7  
+ 
+ md  =
+ 
+    3000.  
+ 
+ h1  =
+ 
+    1172.  
+ 
+ h2  =
+ 
+    180.  
+ 
+ h3  =
+ 
+    1025.  
+ 
+ 
+ eta1  =
+ 
+    8.6458165  
+ 
+ eta2  =
+ 
+    7.3288474  
+ 
+ etat  =
+ 
+    14.818548  
+ 
+ engeff  =
+ 
+    58.344558  
+ 
+ rate1  =
+ 
+    29.673591  
+ 
+ rate2  =
+ 
+    35.005834  
+ 
+ h22  =
+ 
+    1086.2335  
+ 
+ 
+Actual thermal efficiency based upon Ihp = 8.65 lb per ihp hr 
+
+ Actual thermal efficiency based upon Bhp = 7.33 lb per ihp hr 
+
+ Ideal thermal efficiency = 14.82 percent  
+
+ Engine efficiency = 58.3 percent 
+
+ Steam rate = 29.67 lb per ihp hr 
+
+ Steam rate = 35.01 lb per bhp hr 
+
+ Enthalpy of exhaust steam = 1086 Btu/lb of steam 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.1/9_1.sce #
+ 
+ 
+ 
+ h  =
+ 
+    200.  
+ 
+ gam  =
+ 
+    64.  
+ 
+ 
+ P  =
+ 
+    88.888889  
+ 
+ 
+Pressure = 88.9 psi 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.2/9_2.sce #
+ 
+ 
+ 
+ P  =
+ 
+    20.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ 
+ h  =
+ 
+    46.153846  
+ 
+ 
+height = 46.2 ft 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.3/9_3.sce #
+ 
+ 
+ 
+ h  =
+ 
+    0.25  
+ 
+ gam  =
+ 
+    63.4  
+ 
+ gam2  =
+ 
+    0.075  
+ 
+ 
+ P  =
+ 
+    15.85  
+ 
+ h2  =
+ 
+    211.33333  
+ 
+ 
+Air height required = 211 ft of air 
+ 
+ The answer is a bit different due to roundoff error in textbook.   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.4/9_4.sce #
+ 
+ 
+ 
+ dif  =
+ 
+    4.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ density  =
+ 
+    13.6  
+ 
+ 
+ pv  =
+ 
+    1.82  
+ 
+ hv  =
+ 
+    4.2  
+ 
+ 
+velocity pressure = 1.82 psi 
+
+ velocity head = 4.2 ft of water  
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.5/9_5.sce #
+ 
+ 
+ 
+ dif  =
+ 
+    4.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ gam2  =
+ 
+    0.08  
+ 
+ 
+ pv  =
+ 
+    0.1444444  
+ 
+ hv  =
+ 
+    260.  
+ 
+ 
+velocity pressure = 0.144 psi 
+
+ velocity head = 260.0 ft of air  
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.6/9_6.sce #
+ 
+ 
+ 
+ hw  =
+ 
+    0.25  
+ 
+ gam1  =
+ 
+    62.4  
+ 
+ gam2  =
+ 
+    0.07  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ p  =
+ 
+    15.6  
+ 
+ hg  =
+ 
+    222.85714  
+ 
+ V  =
+ 
+    119.79983  
+ 
+ 
+velocity of gas = 119.8 fps 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.7/9_7.sce #
+ 
+ 
+ 
+ h  =
+ 
+    4.  
+ 
+ den  =
+ 
+    13.6  
+ 
+ Ar  =
+ 
+    0.1111111  
+ 
+ A1  =
+ 
+    12.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ dh  =
+ 
+    4.2  
+ 
+ Vr  =
+ 
+    9.  
+ 
+ V22  =
+ 
+    273.861  
+ 
+ V2  =
+ 
+    16.548746  
+ 
+ A2  =
+ 
+    1.3333333  
+ 
+ v2  =
+ 
+    0.0160256  
+ 
+ ms  =
+ 
+    9.5614978  
+ 
+ 
+Flow rate of water = 9.6 lb/sec 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.8/9_8.sce #
+ 
+ 
+ 
+ mdot  =
+ 
+    8000.  
+ 
+ A1  =
+ 
+    1.  
+ 
+ A2  =
+ 
+    0.75  
+ 
+ P2  =
+ 
+    50.  
+ 
+ P1  =
+ 
+    10.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ y2  =
+ 
+  - 2.  
+ 
+ y1  =
+ 
+  - 4.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ eff  =
+ 
+    0.7  
+ 
+ 
+ v  =
+ 
+    0.0160256  
+ 
+ cap  =
+ 
+    960.38415  
+ 
+ V1  =
+ 
+    2.1367521  
+ 
+ V2  =
+ 
+    2.8490028  
+ 
+ ht  =
+ 
+    94.362834  
+ 
+ Hhp  =
+ 
+    22.875838  
+ 
+ Php  =
+ 
+    32.679769  
+ 
+ 
+Capacity = 960 gpm 
+
+ Total dynamic head = 94.4 ft 
+
+ Hydraulic hp = 22.9 hp 
+
+ pump hp = 32.7 hp 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.9/9_9.sce #
+ 
+ 
+ 
+ z  =
+ 
+    12.  
+ 
+ gam1  =
+ 
+    62.4  
+ 
+ sg  =
+ 
+    0.8  
+ 
+ P2  =
+ 
+    100.  
+ 
+ P1  =
+ 
+  - 10.  
+ 
+ mm  =
+ 
+    10000.  
+ 
+ 
+ gam2  =
+ 
+    49.92  
+ 
+ p2g  =
+ 
+    300.46154  
+ 
+ p1g  =
+ 
+  - 14.163462  
+ 
+ ht  =
+ 
+    314.625  
+ 
+ Hhp  =
+ 
+    95.340909  
+ 
+ 
+Total dynamic head = 314.6 ft of oil 
+
+ Hydraulic hp = 95.3 hp 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH9/EX9.10/9_10.sce #
+ 
+ 
+ 
+ sr  =
+ 
+    2.  
+ 
+ 
+ hr  =
+ 
+    4.  
+ 
+ capr  =
+ 
+    2.  
+ 
+ hpr  =
+ 
+    8.  
+ 
+ 
+head is 4 times the original 
+
+ capacity is  2 times the original 
+
+ power is  8 times the original 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH10/EX10.1/10_1.sce #
+ 
+ 
+ 
+ hb  =
+ 
+    29.  
+ 
+ sg  =
+ 
+    0.491  
+ 
+ Ra  =
+ 
+    53.3  
+ 
+ Ta  =
+ 
+    500.  
+ 
+ Tg  =
+ 
+    1000.  
+ 
+ H  =
+ 
+    300.  
+ 
+ gam  =
+ 
+    62.4  
+ 
+ 
+ pb  =
+ 
+    2050.416  
+ 
+ rhoa  =
+ 
+    0.0769387  
+ 
+ rhog  =
+ 
+    0.0384693  
+ 
+ dp  =
+ 
+    11.540803  
+ 
+ D  =
+ 
+    0.1849488  
+ 
+ 
+Theoretical draft = 11.5 psf 
+
+ Draft = 0.18 ft H2O 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH10/EX10.2/10_2.sce #
+ 
+ 
+ 
+ md  =
+ 
+    15.  
+ 
+ x  =
+ 
+    0.1  
+ 
+ mss  =
+ 
+    1.  
+ 
+ rea  =
+ 
+    29.  
+ 
+ sg  =
+ 
+    0.491  
+ 
+ R  =
+ 
+    53.3  
+ 
+ T  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    25.  
+ 
+ gam  =
+ 
+    0.038  
+ 
+ 
+ m  =
+ 
+    15.9  
+ 
+ ms  =
+ 
+    15.9  
+ 
+ rhog  =
+ 
+    0.0384693  
+ 
+ A  =
+ 
+    16.736842  
+ 
+ 
+stack area = 16.7 sq ft 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH10/EX10.3/10_3.sce #
+ 
+ 
+ 
+ p  =
+ 
+    2050.416  
+ 
+ R  =
+ 
+    53.3  
+ 
+ T  =
+ 
+    530.  
+ 
+ gamw  =
+ 
+    62.4  
+ 
+ gama  =
+ 
+    0.073  
+ 
+ hw  =
+ 
+    0.25  
+ 
+ hw2  =
+ 
+    0.2916667  
+ 
+ hv  =
+ 
+    32.2  
+ 
+ ms  =
+ 
+    9.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ rhoa  =
+ 
+    0.0725837  
+ 
+ hs  =
+ 
+    213.69863  
+ 
+ ht  =
+ 
+    249.31507  
+ 
+ hv  =
+ 
+    35.616438  
+ 
+ V  =
+ 
+    47.892574  
+ 
+ msv  =
+ 
+    25861.99  
+ 
+ mm  =
+ 
+    1887.9253  
+ 
+ airhp  =
+ 
+    14.263279  
+ 
+ 
+Velocity head = 35 ft of air 
+
+ velocity of air in the duct = 47.9 fps 
+
+ volume = 25861 cu ft per min 
+
+ Mass flow rate = 1887 lb/min 
+
+ Air hp = 14.3 hp 
+ 
+ The answers in the textbook are a bit different due to rounding off error in the textbook. Please use a calculator   
+ 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH10/EX10.4/10_4.sce #
+ 
+ 
+ 
+ A2  =
+ 
+    9.  
+ 
+ p2  =
+ 
+    15.6  
+ 
+ p1  =
+ 
+  - 5.2  
+ 
+ ms  =
+ 
+    20000.  
+ 
+ A1  =
+ 
+    16.  
+ 
+ gam  =
+ 
+    0.075  
+ 
+ g  =
+ 
+    32.2  
+ 
+ inp  =
+ 
+    17.  
+ 
+ 
+ V2  =
+ 
+    37.037037  
+ 
+ V1  =
+ 
+    20.833333  
+ 
+ ht  =
+ 
+    291.89411  
+ 
+ airhp  =
+ 
+    13.267914  
+ 
+ eta  =
+ 
+    78.046555  
+ 
+ 
+Total head = 291.9 ft of air 
+
+ Air hp = 13.3 hp 
+
+ Effifciency = 78.0 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH10/EX10.5/10_5.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    400.  
+ 
+ mv1  =
+ 
+    10000.  
+ 
+ mv2  =
+ 
+    15000.  
+ 
+ h1  =
+ 
+    2.  
+ 
+ hp1  =
+ 
+    4.  
+ 
+ 
+ n2  =
+ 
+    600.  
+ 
+ h2  =
+ 
+    4.5  
+ 
+ hp2  =
+ 
+    13.5  
+ 
+ 
+The speed = 600 rpm 
+
+ The pressure = 4.5 in of water 
+
+ Power = 13.5 hp 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH10/EX10.6/10_6.sce #
+ 
+ 
+ 
+ m  =
+ 
+    100000.  
+ 
+ p1  =
+ 
+    1.  
+ 
+ x  =
+ 
+    0.8  
+ 
+ p2  =
+ 
+    14.7  
+ 
+ t2  =
+ 
+    300.  
+ 
+ 
+ 
+ from table A3 and A2   
+ 
+ h2  =
+ 
+    1192.8  
+ 
+ hf  =
+ 
+    69.7  
+ 
+ hfg  =
+ 
+    1036.3  
+ 
+ h1  =
+ 
+    898.74  
+ 
+ W  =
+ 
+    294.06  
+ 
+ power  =
+ 
+    29406000.  
+ 
+ hp  =
+ 
+    11554.42  
+ 
+ 
+Power required = 11554 hp 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH10/EX10.7/10_7.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    14.7  
+ 
+ t1  =
+ 
+    60.  
+ 
+ p2  =
+ 
+    60.  
+ 
+ t2  =
+ 
+    440.  
+ 
+ m  =
+ 
+    10.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h2  =
+ 
+    216.3  
+ 
+ h1  =
+ 
+    124.3  
+ 
+ W21  =
+ 
+    92.  
+ 
+ power  =
+ 
+    920.  
+ 
+ hp  =
+ 
+    1301.3752  
+ 
+ cp  =
+ 
+    0.237  
+ 
+ W212  =
+ 
+    90.06  
+ 
+ power2  =
+ 
+    900.6  
+ 
+ hp2  =
+ 
+    1273.9332  
+ 
+ 
+Power required = 1301 hp 
+
+ Power required = 1273 hp 
+
+ Work done = 90.1 Btu/lb 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH11/EX11.1/11_1.sce #
+ 
+ 
+ 
+ m1  =
+ 
+    1000.  
+ 
+ m2  =
+ 
+    5000.  
+ 
+ m3  =
+ 
+    3000.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h5  =
+ 
+    196.16  
+ 
+ h1  =
+ 
+    38.04  
+ 
+ h2  =
+ 
+    67.97  
+ 
+ h3  =
+ 
+    117.89  
+ 
+ h4  =
+ 
+    1156.3  
+ 
+ m4  =
+ 
+    1076.8013  
+ 
+ 
+Pounds of steam entering the heater = 1076 lb/hr 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH11/EX11.2/11_2.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ T2  =
+ 
+    70.  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h1  =
+ 
+    1227.6  
+ 
+ h2  =
+ 
+    298.4  
+ 
+ h3  =
+ 
+    279.9  
+ 
+ h4  =
+ 
+    38.04  
+ 
+ m1  =
+ 
+    0.2602884  
+ 
+ 
+Mass of steam required = 0.26 lb steam per lb water 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH11/EX11.3/11_3.sce #
+ 
+ 
+ 
+ h0  =
+ 
+    1260.  
+ 
+ msr  =
+ 
+    15.  
+ 
+ m4  =
+ 
+    15.  
+ 
+ t2  =
+ 
+    80.  
+ 
+ t3  =
+ 
+    60.  
+ 
+ 
+ h1  =
+ 
+    1032.4667  
+ 
+ 
+ from mollier charts,   
+ 
+ h4  =
+ 
+    58.  
+ 
+ dt  =
+ 
+    20.  
+ 
+ m3  =
+ 
+    730.85  
+ 
+ 
+enthalpy of steam entering the condenser = 1032 Btu/lb 
+
+ mass of cooling water = 730 lb per hr per kw 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH11/EX11.4/11_4.sce #
+ 
+ 
+ 
+ m4  =
+ 
+    8000000.  
+ 
+ dt  =
+ 
+    12.  
+ 
+ 
+ 
+ from mollier charts,   
+ 
+ dh4  =
+ 
+    950.  
+ 
+ m3  =
+ 
+    6.333D+08  
+ 
+ 
+
+ mass of cooling water = 6.333e+08 lb per hr 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH12/EX12.1/12_1.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    80.  
+ 
+ T2  =
+ 
+    460.  
+ 
+ T3  =
+ 
+    1300.  
+ 
+ T4  =
+ 
+    780.  
+ 
+ 
+ 
+ from mollier charts,   
+ 
+ h1  =
+ 
+    129.1  
+ 
+ h2  =
+ 
+    221.2  
+ 
+ h3  =
+ 
+    438.8  
+ 
+ h4  =
+ 
+    301.5  
+ 
+ wcom  =
+ 
+    92.1  
+ 
+ wcob  =
+ 
+    217.6  
+ 
+ wtur  =
+ 
+    137.3  
+ 
+ eta  =
+ 
+    20.772059  
+ 
+ 
+
+ work done by compressor = 92.1 btu input as work per lb of air compressed 
+
+ Heat supplied in the combustor = 217.6 Btu supplied per lb of air  
+
+ work done in the turbine = 137.3 Btu output as work per lb of air 
+
+ Cycle efficiency = 20.8 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH12/EX12.2/12_2.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    80.  
+ 
+ T2  =
+ 
+    460.  
+ 
+ T  =
+ 
+    700.  
+ 
+ T3  =
+ 
+    1300.  
+ 
+ T4  =
+ 
+    780.  
+ 
+ 
+ 
+ from mollier charts,   
+ 
+ h1  =
+ 
+    129.1  
+ 
+ h2  =
+ 
+    221.2  
+ 
+ h3  =
+ 
+    438.8  
+ 
+ h4  =
+ 
+    301.5  
+ 
+ wcom  =
+ 
+    92.1  
+ 
+ wcob  =
+ 
+    217.6  
+ 
+ wtur  =
+ 
+    137.3  
+ 
+ output  =
+ 
+    45.2  
+ 
+ h  =
+ 
+    281.1  
+ 
+ Q  =
+ 
+    157.7  
+ 
+ eff  =
+ 
+    28.662016  
+ 
+ 
+
+ Heat supplied in the combustor = 157.7 Btu supplied per lb of air  
+
+ Cycle efficiency = 28.7 percent 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH13/EX13.1/13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ From mollier diagram from ammonia, values are found   
+ 
+ 
+ part a   
+ 
+ h1  =
+ 
+    65.  
+ 
+enthalpy in case a = 65 Btu/lb 
+ h2  =
+ 
+    99.  
+ 
+ v2  =
+ 
+    0.93  
+ 
+
+ In case 2, enthalpy and specific volume are 99 Btu/lb and 0.93 ft^3/lb respectively 
+ h3  =
+ 
+    583.  
+ 
+ v3  =
+ 
+    8.8  
+ 
+ s3  =
+ 
+    1.275  
+ 
+
+ In case 3, enthalpy, specific volume and entropy are 583 Btu/lb, 8.80 ft^3/lb and 1.275 respectively 
+ h4  =
+ 
+    720.  
+ 
+ v4  =
+ 
+    10.4  
+ 
+ s4  =
+ 
+    1.5  
+ 
+
+ In case 4, enthalpy, specific volume and entropy are 720 Btu/lb, 10.40 ft^3/lb and 1.500 respectively 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH13/EX13.2/13_2.sce #
+ 
+ 
+ 
+ mr  =
+ 
+    3.  
+ 
+ mj  =
+ 
+    5.  
+ 
+ t2  =
+ 
+    67.  
+ 
+ t1  =
+ 
+    60.  
+ 
+ ihp  =
+ 
+    7.25  
+ 
+ 
+ 
+ From mollier charts,   
+ 
+ h4  =
+ 
+    709.  
+ 
+ h3  =
+ 
+    618.  
+ 
+ energyin  =
+ 
+    307.52083  
+ 
+ energyout  =
+ 
+    308.  
+ 
+ 
+Energy in = 307.5 Btu/min 
+
+ Energy out = 308.0 Btu/min 
+ 
+grepthis#Elementary_Heat_Power_H._L._Solberg_2420/CH13/EX13.3/13_3.sce #
+ 
+ 
+ 
+ mr  =
+ 
+    3.  
+ 
+ hp  =
+ 
+    10.  
+ 
+ 
+ h3  =
+ 
+    618.  
+ 
+ h1  =
+ 
+    131.  
+ 
+ Qe  =
+ 
+    1461.  
+ 
+ work  =
+ 
+    424.16667  
+ 
+ cop  =
+ 
+    3.4444008  
+ 
+ 
+Coefficient of performance = 3.44 
+ 

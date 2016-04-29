@@ -1,0 +1,762 @@
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.1/ch2_2_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: "Compound"
+ 
+visible = "on"
+axes_visible = ["on","on","on"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [1,1]
+grid_style = [3,3]
+x_location = "bottom"
+y_location = "left"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = [-1;0;1;2;3;4;5;6]
+y_ticks.locations = [-10;0;10;20;30;40;50;60]
+z_ticks.locations = []
+x_ticks.labels = ["-1";"0";"1";"2";"3";"4";"5";"6"]
+y_ticks.labels = ["-10";"0";"10";"20";"30";"40";"50";"60"]
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "on"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+ 
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [-0.5,-0.5;5.1,52]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+ 
+auto_clear = "off"
+auto_scale = "on"
+ 
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 1
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "clipgrf"
+clip_box = []
+user_data = []
+tag = 
+ 
+dc load line passes through points A(5,0),B(0,50) 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH2/EX2.3/ch2_2_3.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New value of Ef is 6.1 V .Therefore Es(supply voltage) is 6.1 V 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+  - 4.    0.    0.    4.  
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: "Compound"
+ 
+visible = "on"
+axes_visible = ["on","on","on"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [1,1]
+grid_style = [3,3]
+x_location = "bottom"
+y_location = "left"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 13x1
+y_ticks.locations = [-0.5;0;0.5;1;1.5;2;2.5;3]
+z_ticks.locations = []
+x_ticks.labels = matrix 13x1
+y_ticks.labels = ["-0.5";"0";"0.5";"1";"1.5";"2";"2.5";"3"]
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "on"
+filled = "on"
+sub_ticks = [1,4]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+ 
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [-1,-0.5;21,3]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+ 
+auto_clear = "off"
+auto_scale = "on"
+ 
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 1
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "clipgrf"
+clip_box = []
+user_data = []
+tag = 
+ 
+dc load line passes through points A(20,0),F(0,2.2) 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dc load line passes through points A(18,0),B(0,8.2) 
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: "Compound"
+ 
+visible = "on"
+axes_visible = ["on","on","on"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [1,1]
+grid_style = [3,3]
+x_location = "bottom"
+y_location = "left"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 12x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 12x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "on"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+ 
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [-0.5,-0.5;19,8.5]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+ 
+auto_clear = "off"
+auto_scale = "on"
+ 
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 1
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "clipgrf"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ maximum undistorted output is +-7.5 V 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH4/EX4.12/4_12.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: "Compound"
+ 
+visible = "on"
+axes_visible = ["on","on","on"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [1,1]
+grid_style = [3,3]
+x_location = "bottom"
+y_location = "left"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 13x1
+y_ticks.locations = matrix 13x1
+z_ticks.locations = []
+x_ticks.labels = matrix 13x1
+y_ticks.labels = matrix 13x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "on"
+filled = "on"
+sub_ticks = [1,0]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+ 
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [-0.5,-0.5;21,5]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+ 
+auto_clear = "off"
+auto_scale = "on"
+ 
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 1
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "clipgrf"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Q point is at Ic=2.07 mA 
+ 
+ 
+ 
+ 
+ 
+
+deltaVce=-2.2 V for deltaIc = 1 mA 
+
+points Q and ( deltaVce,deltaIc) constitute ac load line 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH7/EX7.2/ch7_2.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH7/EX7.8/ch7_8.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ en  =
+ 
+    2.7108449  
+ 
+ 
+ 
+ eni  =
+ 
+    0.9036150  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+total rms noise output voltage is 30.3 microV 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH8/EX8.1/ch8_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH8/EX8.2/8_2.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Id=IDssmin.*(1-Vgs/2)^2;//drain current in mA
+                        !       
+at line      17 of exec file called by :    
+s_D._A._Bell_1514/CH8/EX8.2/8_2.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+Id=IDssmax.*(1-Vgs/8)^2;//drain current in mA
+                        !       
+at line       7 of exec file called by :    
+s_D._A._Bell_1514/CH8/EX8.2/8_2.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH9/EX9.1/9_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH9/EX9.6/9_6.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The desired values are:
+Idmax=2.6 mA
+Idmin=1.3 mA
+Vsmax=2.6 V
+Vsmin=1.3 V
+Vdmax=17.9 V
+Vdmin=11.8 V
+Vdsmax=16.6 V
+Vdsmin=9.2 V 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH9/EX9.8/9_8.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VG=3.6 V 
+ 
+ 
+ 
+ 
+
+deltaId=1.33 mA 
+ 
+ Id  =
+ 
+    0.    1.33  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The desired values are:
+Idmax=2.3 mA
+Idmin=1.7 mA
+Vsmax=6.2 V
+Vsmin=4.6 V
+Vdmax=19.4 V
+Vdmin=17.8 V
+Vdsmax=14.8 V
+Vdsmin=11.6 V 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH17/EX17.1/17_1.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+Handle of type "Figure" with properties:
+========================================
+children: "Axes"
+figure_position = [200,200]
+figure_size = [620,590]
+axes_size = [610,460]
+auto_resize = "on"
+viewport = [0,0]
+figure_name = "Graphic window number %d"
+figure_id = 1
+info_message = ""
+color_map = matrix 33x3
+pixel_drawing_mode = "copy"
+anti_aliasing = "off"
+immediate_drawing = "on"
+background =  33
+visible = "on"
+rotation_style = "unary"
+event_handler = ""
+event_handler_enable = "off"
+user_data = []
+resizefcn = ""
+closerequestfcn = ""
+resize = "on"
+toolbar = "figure"
+toolbar_visible = "on"
+menubar = "figure"
+menubar_visible = "on"
+infobar_visible = "on"
+dockable = "on"
+layout = "none"
+layout_options = "OptNoLayout"
+default_axes = "on"
+icon = ""
+tag = ""
+ 
+ 
+ 
+grepthis#Electronics_Devices_And_Circuits_D._A._Bell_1514/CH19/EX19.4/19_4.sce #
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Approximate values: 
+
+At 1500 lm/m^2,Id=-0.2 mA,Vd=-0.45 V 
+
+At 10000 lm/m^2,Id=-1.9 mA,Vd=-0.12 V 
+
+At 20000 lm/m^2,Id=-3.7 mA,Vd=0.22 V 
+ 
+ 
+ 

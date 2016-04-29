@@ -1,0 +1,25 @@
+ERROR: Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.6/Example3_6.sci
+errcatch(-1,"stop");mode(2); all
+                               !--error 4 
+Undefined variable: all
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.6/Example3_6.sci',-1)
+ 
+ERROR: Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.5/Example4_5.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+delr = x/(2*sqrt(a*%pi*n);     // Time lag in hr
+                            !--error 3 
+Waiting for right parenthesis.
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.5/Example4_5.sci',-1)
+ 
+ 

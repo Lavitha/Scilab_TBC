@@ -1,0 +1,2862 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 70
+
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    3814.  
+ 
+ T  =
+ 
+    300.  
+ 
+ M  =
+ 
+    32.  
+ 
+ V2  =
+ 
+    107268.75  
+ 
+ V  =
+ 
+    327.51908  
+ 
+Velocity of Oxygen (O2)= 107268 m^2/s^2
+ 
+ 
+Velocity of Oxygen (O)= 327 m/s 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+    0.0015640  
+ 
+
+G = 1.563967e-03 m^3
+ 
+ 
+ mv2  =
+ 
+    151500.  
+ 
+ KE  =
+ 
+    236.94105  
+ 
+K.E = 236.941050 J
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ N1  =
+ 
+    3.632D-20  
+ 
+ N  =
+ 
+    2.754D+19  
+ 
+ 
+ R  =
+ 
+    8314.  
+ 
+ M  =
+ 
+    28.  
+ 
+ N  =
+ 
+    0.0000022  
+ 
+ T  =
+ 
+    300.  
+ 
+ p  =
+ 
+    0.1959729  
+ 
+
+N = 3.631681e-20  
+
+Pressure = 0.195973 N/m^2 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ m0  =
+ 
+    1.  
+ 
+ v2  =
+ 
+    1.600D-19  
+ 
+ KE  =
+ 
+    1.600D-19  
+ 
+ 
+ T  =
+ 
+    7729.4686  
+ 
+
+K.E = 1.600000e-19 J 
+
+Temperature = 7.729469e+03 K 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+    11.147071  
+ 
+
+Volume of He = 11.147071 m^3 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ na  =
+ 
+    0.3678794  
+ 
+ 
+ nb  =
+ 
+    0.0067379  
+ 
+
+ Mean free path = 0.367879*n0  
+
+ 5 times mean free path = 0.006738*n0  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    0.178  
+ 
+ 
+ v2  =
+ 
+    1702247.2  
+ 
+
+V^2 = 1.702247e+06 m^2/s^2 
+ v  =
+ 
+    1304.702  
+ 
+
+Mean square velocity = 1304.701955 m/s 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ mv2  =
+ 
+    6.065D-19  
+ 
+ E  =
+ 
+    3.7906875  
+ 
+
+1/2*m*v^2 = 6.065100e-19 J 
+
+Energy of free electron = 3.790687 eV 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ 
+ NA  =
+ 
+    6.024D+23  
+ 
+ NoA  =
+ 
+    4.518D+22  
+ 
+ V  =
+ 
+    2.213D-23  
+ 
+ S  =
+ 
+    2.808D-08  
+ 
+
+Number od atoms per cm^3 = 4.518300e+22  
+
+Average vloume occupied by one atom = 2.213222e-23 cm^3 
+
+Average separation between atoms = 2.807641e-08 cm 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    4.150D-15  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ l  =
+ 
+    2.000D-08  
+ 
+ BE  =
+ 
+    13.6  
+ 
+ PE  =
+ 
+    62.25  
+ 
+ KE  =
+ 
+    48.65  
+ 
+ Ve  =
+ 
+    4133873.9  
+ 
+
+Photon energy eV = 6.225000e+01  
+
+Kinetic energy eV = 4.865000e+01  
+
+Velocity m/s = 4.133874e+06  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    20.  
+ 
+ I0  =
+ 
+    6.  
+ 
+ Mu  =
+ 
+    0.0895880  
+ 
+
+Liquid photon absorption coefficient cm^-1 = 8.958797e-02  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    4.150D-15  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ Imax  =
+ 
+    1.000D-07  
+ 
+ We  =
+ 
+    12.45  
+ 
+
+Binding Energy = 1.245000e+01 eV  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    3.527D+22  
+ 
+
+N = 3.527492e+22 atoms/m^3  
+ 
+ ra  =
+ 
+    2.770D-10  
+ 
+
+ra = 2.769694e-10 m  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ 
+ 
+ Ie  =
+ 
+    3.  
+ 
+ d  =
+ 
+    0.8  
+ 
+ A  =
+ 
+    0.0008  
+ 
+ Vne  =
+ 
+    2.000D+18  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ke  =
+ 
+    9375.  
+ 
+Mobility of electrons = 9375 m^2/s*V  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ nplus  =
+ 
+    1.912D+09  
+ 
+ nminus  =
+ 
+    5.230D+12  
+ 
+
++(0.02) = 1.911913e+09 ions/m^3  
+
++(-0.02) = 5.230363e+12 ions/m^3  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.18/Ex3_18.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ T  =
+ 
+    293.  
+ 
+ z2z1  =
+ 
+    0.05  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ E  =
+ 
+    250.  
+ 
+ r1  =
+ 
+    9.000D-08  
+ 
+ r1r2  =
+ 
+    0.0000303  
+ 
+ r2  =
+ 
+    0.0055150  
+ 
+
+ r1^2-r2^2 = 3.032550e-05  
+
+ r2 = 5.515025e-03 m  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ lambda  =
+ 
+    0.0002221  
+ 
+ 
+ Vi  =
+ 
+    28.499833  
+ 
+
+ lambda = 2.221482e-04 m  
+
+ Vi = 28.499833 V  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ d2  =
+ 
+    0.01  
+ 
+ d1  =
+ 
+    0.005  
+ 
+ I2  =
+ 
+    0.0000003  
+ 
+ I1  =
+ 
+    2.700D-08  
+ 
+ alpha  =
+ 
+    460.51702  
+ 
+ 
+ I0  =
+ 
+    2.700D-09  
+ 
+ n0  =
+ 
+    1.688D+10  
+ 
+
+ Part (a)
+ alpha = 460.517019 m^-1 
+
+ Part (b)
+ I0 = 2.700000e-09  
+
+ No of electrons emitted = 1.687500e+10 electrons/s 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ d2  =
+ 
+    0.01  
+ 
+ d1  =
+ 
+    0.005  
+ 
+ I2  =
+ 
+    0.0000003  
+ 
+ I1  =
+ 
+    2.700D-08  
+ 
+ a  =
+ 
+    460.51702  
+ 
+ 
+ 
+ ad  =
+ 
+    20.723266  
+ 
+
+ a*d = 20.723266  
+ d  =
+ 
+    0.045  
+ 
+
+ electrode space = 0.045000 m 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    40000.  
+ 
+ b  =
+ 
+    1500000.  
+ 
+ 
+ 
+ 
+ As  =
+ 
+    6765.9646  
+ 
+
+ Avalanche size = 6765.964568 m 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+                            2  
+    59.97 - 40000x + 750000x   
+ 
+ r  =
+ 
+    0.0517894  
+    0.0015439  
+ 
+
+ 0.051789 m or 0.001544 m away from the cathode 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+                            2  
+    43.75 - 40000x + 750000x   
+ 
+ r  =
+ 
+    0.0522162  
+    0.0011172  
+ 
+
+ Minimum distance = 0.001117 m 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ E  =
+ 
+    4500000.  
+ 
+ T  =
+ 
+    11253.7  
+ 
+ B  =
+ 
+    273840.  
+ 
+ p  =
+ 
+    101.3  
+ 
+ d  =
+ 
+    0.002  
+ 
+ alpha  =
+ 
+    2397.2943  
+ 
+ Y  =
+ 
+    0.0083434  
+ 
+
+ E = 4.500000e+06 V/m 
+
+ Alpha = 2397.294256 m^-1 
+
+ Total secondary coefficient of ionization = 0.008343  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    0.005  
+ 
+ a1d1  =
+ 
+    0.1988509  
+ 
+ a1  =
+ 
+    39.770172  
+ 
+ 
+ d2  =
+ 
+    0.01504  
+ 
+ a2d2  =
+ 
+    0.5988365  
+ 
+ a2  =
+ 
+    39.816257  
+ 
+ 
+ d3  =
+ 
+    0.019  
+ 
+ a3d3  =
+ 
+    0.7975072  
+ 
+ a3  =
+ 
+    41.974063  
+ 
+ 
+
+ Alpha 1 = 39.770172 m^-1 
+
+ Alpha 2 = 39.816257 m^-1 
+
+ Alpha 3 = 41.974063 m^-1 
+
+ From the above results we can understand that ionization mechanism must be acting at d3  
+ 
+ 
+ I  =
+ 
+    2.22  
+ 
+ e  =
+ 
+    2.1289593  
+ 
+ Y  =
+ 
+    0.0363249  
+ 
+
+ secondary ionization coefficient = 0.036325  
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    39.8  
+ 
+ Y  =
+ 
+    0.0354  
+ 
+ p  =
+ 
+    0.133  
+ 
+ Ep  =
+ 
+    12000.  
+ 
+ 
+ d  =
+ 
+    0.0848199  
+ 
+ E  =
+ 
+    1596.  
+ 
+ V  =
+ 
+    135.37253  
+ 
+ 
+
+ Distance = 0.084820 m 
+
+ E = 1596.000000 V/m 
+
+ Volatge  = 135.372531 V 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.001  
+ 
+ alpha  =
+ 
+    10792.2  
+ 
+ p  =
+ 
+    101.3  
+ 
+ ap  =
+ 
+    106.54  
+ 
+ T  =
+ 
+    11253.7  
+ 
+ B  =
+ 
+    273840.  
+ 
+ Ep  =
+ 
+    58764.81  
+ 
+ 
+ ad  =
+ 
+    10.792245  
+ 
+ E  =
+ 
+    5952875.3  
+ 
+ Vs  =
+ 
+    5.9528753  
+ 
+
+ E = 5.952875e+06 V/m 
+
+ Voltage breakdown = 5.952875 kV 
+ 
+ 
+ 
+ 
+ Er  =
+ 
+    4680000.  
+ 
+ Vs2  =
+ 
+    4.68  
+ 
+
+ Voltage breakdown = 4.680000 kV 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.0000002  
+ 
+ d  =
+ 
+    0.05  
+ 
+ ve  =
+ 
+    250000.  
+ 
+ TC  =
+ 
+    3.500D-08  
+ 
+ a  =
+ 
+    114.28571  
+ 
+
+ Electron drift velocity = 2.500000e+05 m/s 
+
+ alpha = 1.142857e+02 m^-1 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ Ea  =
+ 
+    2828427.1  
+ 
+ x  =
+ 
+    1.2604308  
+ 
+ d  =
+ 
+    0.1  
+ 
+
+ Ea = 2.828427e+06 V/m 
+
+ x = 1.260431*sin(3.14*t) 
+ 
+ t  =
+ 
+    0.0252934  
+ 
+
+ t = 0.025293 ms 
+ 
+ k  =
+ 
+    0.00014  
+ 
+ fmax  =
+ 
+    630.22142  
+ 
+
+ fmax = 630.221421 Hz 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    101.3  
+ 
+ Ep  =
+ 
+    88903.704  
+ 
+ E  =
+ 
+    9005945.2  
+ 
+ d  =
+ 
+    0.001  
+ 
+ Vs1  =
+ 
+    9005.9452  
+ 
+
+ Part (a): based on equation 4.13 
+
+ Breakdown voltage = 9005.945185 V or 9.005945 kV 
+ 
+ 
+ p  =
+ 
+    101.3  
+ 
+ Cp  =
+ 
+    243160.52  
+ 
+ Vs2  =
+ 
+    9688.1674  
+ 
+
+ Part (b):Corrsponding to an avelanche size of 10^8 
+
+ Breakdown voltage = 9688.167407 V or 9.688167 kV 
+ 
+ 
+ p  =
+ 
+    101.3  
+ 
+ Vs3a  =
+ 
+    9.4  
+ 
+ Vs3b  =
+ 
+    9.2  
+ 
+
+ Part (c):According to criteria expressed by Equations 5.4 and 5.5 
+
+ Breakdown voltage = 9.400000 kV or 9.200000 kV 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    101.3  
+ 
+ Ep  =
+ 
+    88903.704  
+ 
+ E  =
+ 
+    9005945.2  
+ 
+ d  =
+ 
+    0.001  
+ 
+ Vs13  =
+ 
+    27017.836  
+ 
+ Vs15  =
+ 
+    45029.726  
+ 
+
+ Part (a): based on equation 5.14 
+
+ Breakdown voltage = 27.017836 kV or 45.029726 kV 
+ 
+ 
+ p  =
+ 
+    101.3  
+ 
+ Cp3  =
+ 
+    729481.56  
+ 
+ Vs23  =
+ 
+    27700.058  
+ 
+ Cp5  =
+ 
+    1215802.6  
+ 
+ Vs25  =
+ 
+    45711.948  
+ 
+
+ Part (b):According to eqution 5.13 
+
+ Breakdown voltage = 27.700058 V or 45.711948 kV 
+ 
+ 
+ p  =
+ 
+    101.3  
+ 
+ Vs3a  =
+ 
+    27.73  
+ 
+ Vs3b  =
+ 
+    45.5  
+ 
+
+ Part (c):According to criteria expressed by Equations 5.4 and 5.5 
+
+ Breakdown voltage = 27.730000 kV or 45.500000 kV 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ s  =
+ 
+    4.  
+ 
+ r  =
+ 
+    1.  
+ 
+ D  =
+ 
+    500.  
+ 
+ dt  =
+ 
+    1.  
+ 
+ E0  =
+ 
+    39.  
+ 
+
+ E0 = 39.000000 kVpeak/cm 
+ 
+ En  =
+ 
+    27.501  
+ 
+ 
+ Vp1  =
+ 
+    241.8  
+ 
+ Vn1  =
+ 
+    170.5062  
+ 
+
+ Part (a) 
+
+ The postive corona = 241.800000 kVpeak 
+
+ The negative corona = 170.506200 kV 
+ 
+ Vp2  =
+ 
+    324.48  
+ 
+ Vn2  =
+ 
+    228.80832  
+ 
+
+ Part (b) 
+
+ The postive corona = 324.480000 kVpeak 
+
+ The negative corona = 228.808320 kV 
+ 
+ Vp3  =
+ 
+    388.83  
+ 
+ Vn3  =
+ 
+    274.18497  
+ 
+
+ Part (c) 
+
+ The postive corona = 388.830000 kVpeak 
+
+ The negative corona = 274.184970 kV 
+ 
+ Vp4  =
+ 
+    444.21  
+ 
+ Vn4  =
+ 
+    313.23639  
+ 
+
+ Part (d) 
+
+ The postive corona = 444.210000 kVpeak 
+
+ The negative corona = 313.236390 kV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ 
+ t  =
+ 
+    216.5  
+ 
+ Deq  =
+ 
+    6.0046261  
+ 
+ dt  =
+ 
+    1.  
+ 
+ r  =
+ 
+    1.  
+ 
+ En  =
+ 
+    27.501  
+ 
+ E0  =
+ 
+    39.  
+ 
+ V0peak  =
+ 
+    249.51031  
+ 
+ V0  =
+ 
+    175.94316  
+ 
+ 
+
+ Mean geometric distance between the conductors 6.004626 m 
+
+ E0 = 39.000000 kVpeak/cm 
+
+ V0peak = 249.510314 kVpeak 
+
+ V0 = 175.943158 kV 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ 
+ 
+ p  =
+ 
+    75.  
+ 
+ t  =
+ 
+    35.  
+ 
+ m1  =
+ 
+    0.92  
+ 
+ m2  =
+ 
+    0.95  
+ 
+ t  =
+ 
+    216.5  
+ 
+ Deq  =
+ 
+    6.0046261  
+ 
+ dt  =
+ 
+    0.6006129  
+ 
+ E0  =
+ 
+    19.409459  
+ 
+ En  =
+ 
+    27.501  
+ 
+ Vph  =
+ 
+    158771.32  
+ 
+ V0peak  =
+ 
+    124.1759  
+ 
+ V0  =
+ 
+    175.94316  
+ 
+ V0ratio  =
+ 
+    1.5630048  
+ 
+
+ Reative air density 0.600613  
+
+ Corona onset field = 19.409459 kVpeak/cm 
+
+ V0peak = 124.175901 kVpeak 
+
+ V0 = 175.943158 kV 
+
+ Ration of V0 = 1.563005  
+ K  =
+ 
+    0.05  
+ 
+ Pc  =
+ 
+    651960.13  
+ 
+ Cc  =
+ 
+    4106.2839  
+ 
+
+ Corona power loss Pc = 6.519601 kW/km 
+
+ Corona current = 41.062839 mA/Km 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    3.175  
+ 
+ h  =
+ 
+    13.  
+ 
+ m  =
+ 
+    0.9  
+ 
+ dt  =
+ 
+    1.  
+ 
+ E0  =
+ 
+    28.391247  
+ 
+ V0  =
+ 
+    425.9554  
+ 
+
+ E0 = 28.391247 kVpeak/cm or 20 kV/cm 
+
+ V0 = 425.955402 kV 
+
+ V0 (line to line) = 737.776399 kV 
+ 
+ 
+ V  =
+ 
+    1312.5  
+ 
+
+ Voltage (line to line) = 1312.500000 kV 
+ 
+
+ Envelope radius = 5 cm 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ E1  =
+ 
+    40.  
+ 
+ E2  =
+ 
+    25.  
+ 
+ ep1  =
+ 
+    6.  
+ 
+ ep2  =
+ 
+    4.  
+ 
+ d1  =
+ 
+    4.  
+ 
+ d2  =
+ 
+    10.  
+ 
+ r1  =
+ 
+    2.  
+ 
+ r2  =
+ 
+    4.8  
+ 
+ inner  =
+ 
+    2.8  
+ 
+ outer  =
+ 
+    0.2  
+ 
+ 
+ V1peak  =
+ 
+    70.037499  
+ 
+ V2peak  =
+ 
+    4.8986393  
+ 
+ Vcab  =
+ 
+    74.936138  
+ 
+ rms  =
+ 
+    52.987852  
+ 
+
+ Radius = 4.800000 cm  
+
+ Inner radial thickness = 2.800000 cm  
+
+ Outer radial thickness = 0.200000 cm 
+
+ Vpeak of outer dielectric = 70.037499 kV 
+
+ Vpeak of inner dielectric = 4.898639 kV 
+
+ Peak voltage of cable = 74.936138 kV 
+
+ Safe opearating voltage = 52.987852 kV 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    100.  
+ 
+ V2  =
+ 
+    55.  
+ 
+ r  =
+ 
+    2.5712974  
+ 
+
+ Radius = 2.571297 cm  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ 
+ 
+ l  =
+ 
+    10000.  
+ 
+ Rr  =
+ 
+    2.  
+ 
+ ins  =
+ 
+    500000.  
+ 
+ p  =
+ 
+    4.532D+10  
+ 
+
+ Resistivity of insulation material = 4.532360e+10 ohm/m  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.4/Ex12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ c4  =
+ 
+    5.  
+ 
+ Ic  =
+ 
+    18.137994  
+ 
+ C  =
+ 
+    314.15927  
+ 
+
+ C4 = 5.000000 mircoF  
+
+ Line charging current = 18.137994 A  
+
+ Charging = 314.159265 kVA  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ C2  =
+ 
+    0.25  
+ 
+ C3  =
+ 
+    0.65  
+ 
+ C4  =
+ 
+    0.45  
+ 
+
+ C2 = 0.250000 mircoF/Km  
+
+ C3 = 0.650000 mircoF/Km  
+
+ C4 = 0.450000 mircoF/Km  
+ 
+ V  =
+ 
+    33000.  
+ 
+ w  =
+ 
+    314.15927  
+ 
+ C  =
+ 
+    3079.075  
+ 
+
+ Carging = 3079.074960 kVAr  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.6/Ex12_6.sce #
+ 
+ 
+ 
+ 
+ rc  =
+ 
+    0.105  
+ 
+ Rc  =
+ 
+    8.925  
+ 
+ w  =
+ 
+    314.15927  
+ 
+ Rsh  =
+ 
+    22.825713  
+ 
+ D  =
+ 
+    8.  
+ 
+ rsh  =
+ 
+    2.75  
+ 
+ Xm  =
+ 
+    5.7030245  
+ 
+ Ref  =
+ 
+    10.266182  
+ 
+ Xc  =
+ 
+    11.1  
+ 
+ Xef  =
+ 
+    11.041242  
+ 
+ SlCl  =
+ 
+    0.1502725  
+ 
+ I  =
+ 
+    400.  
+ 
+ emf  =
+ 
+    2281.2098  
+ 
+
+ Conductor resistance = 0.105000 ohm 
+
+ Conductor resistance for the whole leangth (Rc) = 8.925000 ohm 
+
+ Resistance of sheath (Rsh) = 22.825713 ohm/Km  
+
+ Conductor to sheath mutual inductive reactance (Xm)= 5.703024 ohm/m  
+
+ Effective AC resistance(Ref) = 10.266182 ohm  
+
+ Reactance with sheaths open-circuit(Xc) = 11.100000 ohm  
+
+ Effective reactance per cable(Xef) = 11.041242 ohm  
+
+ Sheath loss/conductor loss = 0.150272  
+
+ emf induced per sheath(emf) = 2281.209789 V 
+ 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.7/Ex12_7.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    15.  
+ 
+ rsh  =
+ 
+    2.75  
+ 
+ I  =
+ 
+    250.  
+ 
+ E  =
+ 
+    26.634254  
+ 
+
+ Induced sheath voltage per Km = 26.634254 V/km 
+
+ If the sheaths are bonded at one end, the voltage between them at the other end = = 46.131881 V/km 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.8/Ex12_8.sce #
+ 
+ 
+ 
+ 
+ ba  =
+ 
+    2.65  
+ 
+ alpha  =
+ 
+    1.3838275  
+ 
+ r1  =
+ 
+    1.385  
+ 
+ r2  =
+ 
+    1.92  
+ 
+ r  =
+ 
+    2.65  
+ 
+ V  =
+ 
+    53.888774  
+ 
+ V2  =
+ 
+    24.0057  
+ 
+ V1  =
+ 
+    41.353021  
+ 
+ 
+ Emax0  =
+ 
+    52.517825  
+ 
+ Emin0  =
+ 
+    20.866231  
+ 
+ 
+ Emax  =
+ 
+    36.650519  
+ 
+ Emin  =
+ 
+    26.48489  
+ 
+
+ Peak voltage of the conductor V = 53.888774 kV 
+
+ V1 = 41.353021 kV 
+
+ V2 = 24.005700 kV 
+
+ Maximum stress without sheaths = 52.517825 kV/cm 
+
+ Minimum stress without sheaths = 20.866231 kV/cm 
+
+ Maximum stress with sheaths = 36.650519 kV/cm 
+
+ Minimum stress with sheaths = 26.484890 kV/cm 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.9/Ex12_9.sce #
+ 
+ 
+ 
+ 
+ Emax  =
+ 
+    47.5  
+ 
+ b  =
+ 
+    2.65  
+ 
+ a  =
+ 
+    1.  
+ 
+ ba  =
+ 
+    1.65  
+ 
+ r1  =
+ 
+    1.55  
+ 
+ r2  =
+ 
+    2.1  
+ 
+ V  =
+ 
+    53.8  
+ 
+ alpha  =
+ 
+    1.1816658  
+ 
+ 
+ 
+ x  =
+ 
+    2.281777  
+ 
+ y  =
+ 
+    2.1244605  
+ 
+ z  =
+ 
+    2.0470543  
+ 
+ VV1  =
+ 
+    20.817109  
+ 
+ V1V2  =
+ 
+    22.358618  
+ 
+ V2  =
+ 
+    23.204074  
+ 
+ V1  =
+ 
+    45.562692  
+ 
+
+ Emax = 47.500000 kV/cm 
+
+ V1 = 45.562692 kV/cm 
+
+ V2 = 23.204074 kV/cm 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH12/EX12.10/Ex12_10.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ r1  =
+ 
+    2.  
+ 
+ b  =
+ 
+    2.65  
+ 
+ er1  =
+ 
+    4.5  
+ 
+ er2  =
+ 
+    3.6  
+ 
+ V  =
+ 
+    53.8  
+ 
+ ba  =
+ 
+    2.65  
+ 
+ alpha  =
+ 
+    1.325  
+ 
+ E1max  =
+ 
+    51.487552  
+ 
+ E2max  =
+ 
+    38.692567  
+ 
+
+ E1max = 51.487552 kV/cm 
+
+ E2max = 38.692567 kV/cm 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH14/EX14.4.2.1/Ex14_1.sce #
+ 
+ 
+ 
+ 
+ I  =
+ 
+    400.  
+ 
+ L  =
+ 
+    0.5  
+ 
+ C  =
+ 
+    0.0000015  
+ 
+ 
+ f  =
+ 
+    183.7763  
+ 
+ t  =
+ 
+    1360.3495  
+ 
+
+ f1 = 183.776298 Hz 
+
+ Time to crest = 1360.349523 micro seconds 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.1/Ex16_1.sce #
+ 
+ 
+ 
+ 
+ I1  =
+ 
+    0.005  
+ 
+ C2  =
+ 
+    5.000D-08  
+ 
+ C1  =
+ 
+    1.000D-08  
+ 
+ Vs  =
+ 
+    100.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+
+ Part (a) 
+ delV  =
+ 
+    2000.  
+ 
+
+ Ripple Voltage = 2000.000000 V 
+ 
+
+ Part (b) 
+ Vd  =
+ 
+    11000.  
+ 
+
+ Voltage drop = 11000.000000 V 
+ 
+
+ Part (c) 
+ Vav  =
+ 
+    271.84271  
+ 
+
+ Average output voltage = 271.842712 kV 
+ 
+
+ Part (d) 
+ RF  =
+ 
+    0.0388909  
+ 
+
+ Ripple Factor in percentage = 3.889087 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.2/Ex16_2.sce #
+ 
+ 
+ 
+ 
+ I1  =
+ 
+    0.005  
+ 
+ C3  =
+ 
+    1.000D-07  
+ 
+ C2  =
+ 
+    5.000D-08  
+ 
+ C1  =
+ 
+    1.000D-08  
+ 
+ Vs  =
+ 
+    100.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+
+ Part (a) 
+ delV  =
+ 
+    21000.  
+ 
+
+ Ripple Voltage = 21.000000 kV 
+ 
+
+ Part (b) 
+ Vd  =
+ 
+    12500.  
+ 
+
+ Voltage drop = 12.500000 kV 
+ 
+
+ Part (c) 
+ Vav  =
+ 
+    411.76407  
+ 
+
+ Average output voltage = 411.764069 kV 
+ 
+
+ Part (d) 
+ RF  =
+ 
+    0.0294628  
+ 
+
+ Ripple Factor in percentage = 2.946278 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.3/Ex16_3.sce #
+ 
+ 
+ 
+ 
+ I1  =
+ 
+    0.005  
+ 
+ C  =
+ 
+    0.0000001  
+ 
+ Vs  =
+ 
+    200.  
+ 
+ f  =
+ 
+    50.  
+ 
+ n  =
+ 
+    12.  
+ 
+ 
+
+ Part (a) 
+ delV  =
+ 
+    52000.  
+ 
+
+ Ripple Voltage = 52.000000 kV 
+ 
+
+ Part (b) 
+ a  =
+ 
+    666.66667  
+ 
+ Vd  =
+ 
+    840666.67  
+ 
+
+ Voltage drop = 840.666667 kV 
+ 
+
+ Part (c) 
+ Vav  =
+ 
+    5947.5584  
+ 
+
+ Average output voltage = 5947.558433 kV 
+ 
+
+ Part (d) 
+ RF  =
+ 
+    0.1238419  
+ 
+
+ Ripple Factor in percentage = 12.384190 
+ 
+
+ Part (e) 
+ nopt  =
+ 
+    20.597671  
+ 
+
+ Optimum number of stages = 20 stages 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.4/Ex16_4.sce #
+ 
+ 
+ 
+ 
+ Vc  =
+ 
+    500000.  
+ 
+ A  =
+ 
+    4.  
+ 
+ Xl  =
+ 
+    0.08  
+ 
+ kV  =
+ 
+    250.  
+ 
+ Xc  =
+ 
+    125000.  
+ 
+ XL  =
+ 
+    50000.  
+ 
+ Radd  =
+ 
+    75000.  
+ 
+ Ind  =
+ 
+    0.2387324  
+ 
+ R  =
+ 
+    21875.  
+ 
+ Imax  =
+ 
+    0.4  
+ 
+ Vex  =
+ 
+    8750.  
+ 
+ Vin  =
+ 
+    7700.  
+ 
+ P  =
+ 
+    3500.  
+ 
+
+ Reactance of the cable = 125.000000 k ohm 
+
+ Leakage reactance of the transformer = 50.000000 k ohm 
+
+ Additional series reactance = 75.000000 k ohm 
+
+ Inductance of required series inductor = 238.732415 H 
+
+ Total circuit resistance = 21.875000 k ohm 
+
+ maximum current that can be supplied by the transformer = 0.400000 A 
+
+ Exciting voltage of transformer secondary = 8.750000 kV 
+
+ Input voltage of transformer primary = 7.700000 V 
+
+ Input power of the transformer = 3.500000 kW 
+ 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.5/Ex16_5.sce #
+ 
+ 
+ 
+ 
+ ps  =
+ 
+    0.0000005  
+ 
+ u  =
+ 
+    10.  
+ 
+ w  =
+ 
+    0.1  
+ 
+ I  =
+ 
+    0.0000005  
+ 
+ Rl  =
+ 
+    1.000D+14  
+ 
+ V  =
+ 
+    50.  
+ 
+
+ Charging current= 0.500000 micro A 
+
+ Potential difference = 50.000000 MV 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.6/Ex16_6.sce #
+ 
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    0.0000001  
+ 
+ C2  =
+ 
+    1.000D-09  
+ 
+ R1  =
+ 
+    360.  
+ 
+ R2  =
+ 
+    544.  
+ 
+ V0  =
+ 
+    100.  
+ 
+ theta  =
+ 
+    0.0000049  
+ 
+ neta  =
+ 
+    0.9868803  
+ 
+ alpha  =
+ 
+    6.9631978  
+ 
+
+ Theta = 4.947727 micro S 
+
+ Neta = 0.986880 
+
+ Alpha = 6.963198  
+ 
+ T2  =
+ 
+    49.97204  
+ 
+ T1  =
+ 
+    1.1104898  
+ 
+ imp  =
+ 
+    0.0222222  
+ 
+ 
+ a1  =
+ 
+    0.0145886  
+ 
+ a2  =
+ 
+    2.8001173  
+ 
+
+ T1 = 1.110490 microS 
+
+ T2 = 49.972040 microS 
+
+ Generated lighting impulse = 2.222222e-02 wave 
+
+ alpha1 = 0.014589 microS 
+
+ alpha2 = 2.800117 microS 
+ 
+ et  =
+ 
+    99.721741  
+ 
+
+ e(t) = 99.721741 * (e^-0.014589t - f^-2.800117t) 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.7/Ex16_7.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    0.0000001  
+ 
+ C2  =
+ 
+    1.000D-09  
+ 
+ R1  =
+ 
+    360.  
+ 
+ R2  =
+ 
+    544.  
+ 
+ V0  =
+ 
+    100.  
+ 
+ theta  =
+ 
+    0.0000049  
+ 
+ neta  =
+ 
+    0.5988868  
+ 
+ alpha  =
+ 
+    11.47436  
+ 
+
+ Theta = 4.947727 micro S 
+
+ Neta = 0.598887 
+
+ Alpha = 11.474360  
+ 
+ T2  =
+ 
+    80.40056  
+ 
+ T1  =
+ 
+    0.6700047  
+ 
+ 
+ a1  =
+ 
+    0.0088239  
+ 
+ a2  =
+ 
+    4.6294113  
+ 
+
+ T1 = 0.670005 microS 
+
+ T2 = 80.400560 microS 
+
+ alpha1 = 0.008824 microS 
+
+ alpha2 = 4.629411 microS 
+ 
+ et  =
+ 
+    60.117417  
+ 
+
+ e(t) = 60.117417 * (e^-0.008824t - f^-4.629411t) 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.8/Ex16_8.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    0.0000001  
+ 
+ C2  =
+ 
+    1.000D-09  
+ 
+ T2  =
+ 
+    2500.  
+ 
+ T1  =
+ 
+    250.  
+ 
+ 
+ T2T1  =
+ 
+    10.  
+ 
+ a  =
+ 
+    4.  
+ 
+ theta  =
+ 
+    416.66667  
+ 
+ 
+ X  =
+ 
+    0.063  
+ 
+ R1  =
+ 
+    53353.995  
+ 
+ R2  =
+ 
+    26031.582  
+ 
+ neta  =
+ 
+    0.9761843  
+ 
+
+ Theta = 416.666667 micro S 
+
+ X = 0.063000  
+
+ R1 = 53.353995 k Ohm 
+
+ R2 = 26.031582 k Ohm 
+
+ neta = 0.976184  
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH16/EX16.11/Ex16_11.sce #
+ 
+ 
+ 
+ 
+ w  =
+ 
+    20000.  
+ 
+ R  =
+ 
+    1.974234  
+ 
+ L  =
+ 
+    0.000008  
+ 
+ V  =
+ 
+    25000.  
+ 
+ 
+ y  =
+ 
+    123389.63  
+ 
+ 
+ a  =
+ 
+    156250.  
+ 
+
+ R = 1.974234e+00 ohm 
+
+ y = 1.233896e+05 s^-1 
+
+ I(t) = 1.562500e+05 * exp(-1.233896e+05t) * sin(2.000000e+04t) A 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.1/Ex19_1.sce #
+ 
+ 
+ 
+ 
+ 
+ E  =
+ 
+    800000.  
+ 
+ qm  =
+ 
+    0.00001  
+ 
+ y  =
+ 
+  - 1.  
+ 
+ t  =
+ 
+    0.2040816  
+ 
+ x  =
+ 
+    0.8163265  
+ 
+
+ The seperation between the particles = 1.632653 m 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.2/Ex19_2.sce #
+ 
+ 
+ 
+ 
+ p0  =
+ 
+    0.03  
+ 
+ V  =
+ 
+    30000.  
+ 
+ P  =
+ 
+    900.  
+ 
+
+ The pumping pressure P = 900.000000 N/m^2 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.4/Ex19_4.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.00003  
+ 
+ p  =
+ 
+    2000.  
+ 
+ q  =
+ 
+    1.000D-13  
+ 
+ V0  =
+ 
+    3500.  
+ 
+ d2  =
+ 
+    0.002  
+ 
+ L1  =
+ 
+    0.015  
+ 
+ L2  =
+ 
+    0.012  
+ 
+ Vz  =
+ 
+    25.  
+ 
+ 
+ m  =
+ 
+    2.827D-11  
+ 
+ t0  =
+ 
+    0.0006  
+ 
+ Vx0  =
+ 
+    3.7136153  
+ 
+ x0  =
+ 
+    0.0011141  
+ 
+ t1  =
+ 
+    0.00108  
+ 
+ x1  =
+ 
+    0.0028966  
+ 
+ 
+
+ The vertical displacement of the drop = 2.896620e-03 m 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.5/Ex19_5.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.000025  
+ 
+ b  =
+ 
+    0.000075  
+ 
+ Er  =
+ 
+    2.8  
+ 
+ ps  =
+ 
+    0.000025  
+ 
+ E0  =
+ 
+    8.840D-12  
+ 
+ 
+ Ea  =
+ 
+    902570.52  
+ 
+ Eb  =
+ 
+    300856.84  
+ 
+ psc  =
+ 
+    0.0000027  
+ 
+ 
+
+ Ea = 9.025705e+05 V/m 
+
+ Eb = 3.008568e+05 V/m 
+
+ Charge density = 2.659574e-06 C/m^2 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.6/Ex19_6.sce #
+ 
+ 
+ 
+ 
+ E0  =
+ 
+    8.840D-12  
+ 
+ Us  =
+ 
+    0.0000002  
+ 
+ V  =
+ 
+    100.  
+ 
+ d3  =
+ 
+    0.000001  
+ 
+ J  =
+ 
+    5.304D-08  
+ 
+
+ Current density = 5.304000e-08 A/m^2 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.7/Ex19_7.sce #
+ 
+ 
+ 
+ 
+ Edb  =
+ 
+    3000000.  
+ 
+ E0  =
+ 
+    8.840D-12  
+ 
+ p0  =
+ 
+    0.015  
+ 
+ d  =
+ 
+    0.001768  
+ 
+
+ Thickness of the dust layer = 1.768000e-03 m 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.8/Ex19_8.sce #
+ 
+ 
+ 
+ 
+ mi  =
+ 
+    2.221D-25  
+ 
+ qi  =
+ 
+    1.600D-19  
+ 
+ Va  =
+ 
+    3500.  
+ 
+ I  =
+ 
+    0.2  
+ 
+ vi  =
+ 
+    71010.89  
+ 
+ F  =
+ 
+    0.0197153  
+ 
+
+ Ion velocity = 7.101089e+04 m/s 
+
+ Populsion force = 1.971529e-02 N 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.9/Ex19_9.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    120000.  
+ 
+ d  =
+ 
+    0.6  
+ 
+ vd  =
+ 
+    1.2  
+ 
+ qm  =
+ 
+    0.00001  
+ 
+ y  =
+ 
+    4.9  
+ 
+ 
+ t0  =
+ 
+    0.4948717  
+ 
+ 
+ dx2  =
+ 
+    2.  
+ 
+ x  =
+ 
+    0.2448980  
+ 
+
+ Velocity = 2 m/s2 
+
+ Position of the particle = 0.244898 m 
+ 
+ 
+ 
+grepthis#High_Voltage_Engineering_Theory_And_Practice_M._Khalifa_3369/CH19/EX19.10/Ex19_10.sce #
+ 
+ 
+ 
+ 
+ q  =
+ 
+    5.000D-11  
+ 
+ a  =
+ 
+    0.000025  
+ 
+ b  =
+ 
+    0.00075  
+ 
+ E0  =
+ 
+    8.840D-12  
+ 
+ r  =
+ 
+    0.00005  
+ 
+ V  =
+ 
+    11809607.  
+ 
+
+ The minimum voltage required for gnerating drops witha charge of 50 pC per drop = 11.809607 kV 
+ 
+ 
+ 

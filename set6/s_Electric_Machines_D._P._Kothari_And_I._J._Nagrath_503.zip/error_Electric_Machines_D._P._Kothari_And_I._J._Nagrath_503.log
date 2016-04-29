@@ -1,0 +1,321 @@
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.4/ch5_4.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+phi=E_p/(4.44*K_b*K_p*f*N_ph);
+                        !--error 4 
+Undefined variable: f
+at line      16 of exec file called by :    
+_J._Nagrath_503/CH5/EX5.4/ch5_4.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.11/ch5_11.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F_m(AT/pole)   
+ 
+    2864.3258  
+ 
+ 
+ 
+ F_peak(AT/pole)   
+ 
+    4296.4887  
+ 
+n=120*f/P;
+        !--error 4 
+Undefined variable: f
+at line      19 of exec file called by :    
+._Nagrath_503/CH5/EX5.11/ch5_11.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.14/ch5_14.sci
+ 
+ 
+ 
+ 
+ motoring mode   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F2(AT)   
+ 
+    4635.2031  
+ 
+ 
+ 
+ 
+ 
+ 
+ T_max   
+ 
+    2364.8558  
+ 
+ 
+ 
+ 
+ 
+ P_in(W)   
+ 
+    371470.68  
+ 
+ 
+ 
+ generating mode   
+ 
+m=S/(3*p);
+    !--error 4 
+Undefined variable: S
+at line      22 of exec file called by :    
+._Nagrath_503/CH5/EX5.14/ch5_14.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH5/EX5.18/ch5_18.sci
+ 
+ 
+ 
+ 
+ 
+ 
+disp(p,'no of poles');
+       !--error 4 
+Undefined variable: p
+at line       7 of exec file called by :    
+._Nagrath_503/CH5/EX5.18/ch5_18.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH7/EX7.54/ch7_54.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ speed(rpm)   
+ 
+    1545.5782  
+ 
+ 
+Po2=Ea2*I2;
+          !--error 4 
+Undefined variable: I2
+at line      16 of exec file called by :    
+._Nagrath_503/CH7/EX7.54/ch7_54.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.18/ch8_18.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ef=Vt+j*Ia*complex(cosd(-dl),sind(-dl))*Xs;
+        !--error 4 
+Undefined variable: j
+at line      10 of exec file called by :    
+._Nagrath_503/CH8/EX8.18/ch8_18.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.31/ch8_31.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ synchronising power(W)   
+ 
+    837758.04  
+ 
+ 
+ torque coeff(Nm)   
+ 
+    10666.667  
+ 
+ 
+ 
+ 
+Ef=Vt+j*Ia*Xss*complex(cosd(-phi),sind(-phi));
+        !--error 4 
+Undefined variable: j
+at line      23 of exec file called by :    
+._Nagrath_503/CH8/EX8.31/ch8_31.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH8/EX8.42/ch8_42.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ generator current(A)   
+ 
+    13121.597  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pf   
+ 
+    0.9946496  
+ 
+ 
+ real power(pu)   
+ 
+    0.4973248  
+ 
+Eg=Vt+j*Xsg*rr**complex(cosd(-phi),sind(-phi));
+        !--error 4 
+Undefined variable: j
+at line      23 of exec file called by :    
+._Nagrath_503/CH8/EX8.42/ch8_42.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH9/EX9.2/ch9_2.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T=((3)*v^2*(R_2/s))/(w_s*((R_2/s)^2+(X_2)^2));
+                  !--error 4 
+Undefined variable: s
+at line      15 of exec file called by :    
+_J._Nagrath_503/CH9/EX9.2/ch9_2.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH10/EX10.6/ch10_6.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ starting torque(Nm)   
+ 
+    12.921976  
+ 
+ 
+ 
+ starting current(A)   
+ 
+    14.313452  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ starting torque(Nm)   
+ 
+    3.5887588  
+ 
+ 
+ 
+ 
+ 
+ 
+P_min=V*abs(I_m)*cosd(m);
+        !--error 4 
+Undefined variable: V
+at line      37 of exec file called by :    
+_Nagrath_503/CH10/EX10.6/ch10_6.sci',-1
+ 
+ERROR: Electric_Machines_D._P._Kothari_And_I._J._Nagrath_503/CH12/EX12.2/ch12_2.sci
+ 
+ 
+ 
+ 
+ 
+ 
+a=acosd((Va*2*%pi/(3*sqrt(6)*V))-1);disp(a,'firing angle(deg)');
+                               !--error 4 
+Undefined variable: V
+at line       7 of exec file called by :    
+_Nagrath_503/CH12/EX12.2/ch12_2.sci',-1
+ 

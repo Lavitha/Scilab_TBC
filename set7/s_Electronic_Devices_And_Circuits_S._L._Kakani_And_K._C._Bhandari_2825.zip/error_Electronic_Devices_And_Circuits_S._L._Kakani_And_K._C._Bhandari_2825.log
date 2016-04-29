@@ -1,0 +1,151 @@
+ERROR: Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.13/Ex4_13.sce
+ 
+ 
+ 
+ V  =
+ 
+    20.  
+ 
+ Vz  =
+ 
+    12.  
+ 
+ Vs  =
+ 
+    8.  
+ 
+ Rs  =
+ 
+    330.  
+ 
+ RL  =
+ 
+    1500.  
+ 
+ 
+ Voltage across resistor    
+ 
+printf("        = %.0f V \n ",Vr)
+                                !--error 4 
+Undefined variable: Vr
+at line      10 of exec file called by :    
+._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.13/Ex4_13.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.6/Ex14_6.sce
+ 
+ 
+ 
+ n2  =
+ 
+    1.59  
+ 
+ NA  =
+ 
+    0.2  
+ 
+ n0  =
+ 
+    1.  
+ 
+ 
+ n1  =
+ 
+    1.6025293  
+ 
+Core refractive index = 1.603 
+ 
+ 
+ n0  =
+ 
+    1.33  
+ 
+ NA  =
+ 
+    0.1503759  
+ 
+ Numerical apperture = 0.15 
+ 
+ 
+AA_rad=asin(NA/n) //maximum Acceptance angle in rad
+                 !--error 4 
+Undefined variable: n
+at line      15 of exec file called by :    
+_L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.6/Ex14_6.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.8/Ex14_8.sce
+ 
+ 
+ 
+ n1  =
+ 
+    1.52  
+ 
+ n2  =
+ 
+    1.46  
+ 
+ 
+ del  =
+ 
+    0.0394737  
+ 
+ 
+ NA  =
+ 
+    0.4270831  
+ 
+Numerical apperture = 0.427 
+ 
+ 
+AA_rad=asin(NA/n) //maximum Acceptance angle in rad
+                 !--error 4 
+Undefined variable: n
+at line      12 of exec file called by :    
+_L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.8/Ex14_8.sce',-1
+ 
+ERROR: Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.10/Ex14_10.sce
+ 
+ 
+ 
+ n1  =
+ 
+    1.48  
+ 
+ n2  =
+ 
+    1.47  
+ 
+ lamda  =
+ 
+    0.00085  
+ 
+ V  =
+ 
+    2.405  
+ 
+ 
+ 
+ d  =
+ 
+    0.0037886  
+ 
+ a  =
+ 
+    0.0018943  
+ 
+Radius of core = 1.89 mm 
+ 
+ 
+ NA  =
+ 
+    0.1717556  
+ 
+ Numerical apperture = 0.1718 
+ 
+ 
+AA_rad=asin(NA/n) //maximum Acceptance angle in rad
+                 !--error 4 
+Undefined variable: n
+at line      17 of exec file called by :    
+._Kakani_And_K._C._Bhandari_2825/CH14/EX14.10/Ex14_10.sce',-1
+ 

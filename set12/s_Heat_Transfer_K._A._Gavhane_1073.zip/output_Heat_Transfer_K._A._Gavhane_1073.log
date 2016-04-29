@@ -1,0 +1,13038 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 164
+
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.1/2_1.sce #
+ 
+ 
+Example 2.1 
+ Page no. 2.18
+ Part-(a) 
+ 
+Area of heat transfer,A=1.000000 m^2
+ 
+ 
+Rate of heat loss/unit area=450.000000 W/m^2
+ 
+ 
+Temperature difference across insulation layer	,dT=400.000000 K
+ 
+ k  =
+ 
+    0.11  
+ 
+For asbestos,k=0.110000
+ 
+ 
+ x  =
+ 
+    0.0977778  
+ 
+ 
+ 
+ 
+ 
+For fire clay insulation,k=0.840000 W/(m.K)
+ 
+ 
+ 
+Ans.(A).Thickness of asbestos is: 0.746667 m=746.666667 mm
+ 
+Ans.(B)Thickness of fire clay insulation is: 0.746667 m =746.666667 mm
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.2/2_2.sce #
+ 
+ 
+Example 2.2,
+Page no.2.18
+ 
+ L  =
+ 
+    1.  
+ 
+Length of ppipe,L = 1.000000 m
+ 
+ r1  =
+ 
+    25.  
+ 
+ r1  =
+ 
+    0.025  
+ 
+r1=0.025000 m
+ 
+ r2  =
+ 
+    0.028  
+ 
+r2=0.028000 m
+ 
+ 
+rm1=0.026472 m
+ 
+ k1  =
+ 
+    45.  
+ 
+ R1  =
+ 
+    0.0004008  
+ 
+Thermal resistance of wall pipe=R1=0.000401 K/W
+ 
+For inner lagging:
+ 
+ k2  =
+ 
+    0.08  
+ 
+ ri1  =
+ 
+    0.028  
+ 
+ ri2  =
+ 
+    0.053  
+ 
+ rmi1  =
+ 
+    0.0391796  
+ 
+ R2  =
+ 
+    1.2694346  
+ 
+Thermal resistance of inner lagging=R2=1.269435 K/W 
+For  outer lagging:
+ 
+ k3  =
+ 
+    0.04  
+ 
+ ro1  =
+ 
+    0.053  
+ 
+ ro2  =
+ 
+    0.093  
+ 
+ rmo1  =
+ 
+    0.0711354  
+ 
+ R3  =
+ 
+    2.2373508  
+ 
+Thermal resistance of inner lagging=R2=2.237351 K/W
+ 
+ R  =
+ 
+    3.5071861  
+ 
+ Ti  =
+ 
+    550.  
+ 
+ To  =
+ 
+    330.  
+ 
+ 
+ Q  =
+ 
+    62.72835  
+ 
+Rate of heat loss per metre of pipe,Q=62.728350 W/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.3/2_3.sce #
+ 
+ 
+Example 2.3 
+ 
+ r1  =
+ 
+    44.  
+ 
+ r1  =
+ 
+    0.044  
+ 
+ r2  =
+ 
+    0.094  
+ 
+ r3  =
+ 
+    0.124  
+ 
+ T1  =
+ 
+    623.  
+ 
+ T3  =
+ 
+    313.  
+ 
+ k1  =
+ 
+    0.087  
+ 
+ k2  =
+ 
+    0.064  
+ 
+ l  =
+ 
+    1.  
+ 
+ rm1  =
+ 
+    0.0658670  
+ 
+ rm2  =
+ 
+    0.1083084  
+ 
+ 
+ 
+Heat loss per meter pipe is 149.218409 W/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.4/2_4.sce #
+ 
+ 
+ 
+Example 2.4 
+ 
+ A  =
+ 
+    1.  
+ 
+ x1  =
+ 
+    0.229  
+ 
+ x2  =
+ 
+    0.115  
+ 
+ x3  =
+ 
+    0.229  
+ 
+ k1  =
+ 
+    6.05  
+ 
+ k2  =
+ 
+    0.581  
+ 
+ k3  =
+ 
+    2.33  
+ 
+ T1  =
+ 
+    1223.  
+ 
+ T2  =
+ 
+    323.  
+ 
+ dT  =
+ 
+    900.  
+ 
+ R1  =
+ 
+    0.0378512  
+ 
+ R2  =
+ 
+    0.1979346  
+ 
+ R3  =
+ 
+    0.0982833  
+ 
+ Q  =
+ 
+    2694.0534  
+ 
+ Ta  =
+ 
+    1121.0267  
+ 
+ 
+ 
+Interface temperature:
+ i-Between  FB-IB=1121.026738 K  
+ii-Between IB-PB=587.780360K 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+Example 2.5
+Page 2.23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q_by_A  =
+ 
+    2674.1768  
+ 
+ 
+ R1  =
+ 
+    0.0380354  
+ 
+ R1  =
+ 
+    0.04  
+ 
+ R2  =
+ 
+    0.1979346  
+ 
+ R2  =
+ 
+    0.2025  
+ 
+ R3  =
+ 
+    0.0987124  
+ 
+ R3  =
+ 
+    0.1  
+ 
+ Ta  =
+ 
+    1108.4745  
+ 
+ Tb  =
+ 
+    579.31387  
+ 
+ Tb  =
+ 
+    565.  
+ 
+
+Answer:Heat loss per unit area is 2674.176820 W=2674.176820 J/s
+ 
+
+Answer:
+ Ta=1108.474453 K =Temperature at the interface between fire brick and insulating brick
+ Tb=565 K Temperature at the interface between insulating and building brick
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.7/eg2_7.sce #
+ 
+Example 2.7,Page no 2/26 
+ 
+Part-(a)
+ 
+ 
+ x1  =
+ 
+    114.  
+ 
+ x1  =
+ 
+    0.114  
+ 
+ k1  =
+ 
+    0.138  
+ 
+ R1  =
+ 
+    0.8260870  
+ 
+ x2  =
+ 
+    229.  
+ 
+ x2  =
+ 
+    0.229  
+ 
+ k2  =
+ 
+    1.38  
+ 
+ R2  =
+ 
+    0.1659420  
+ 
+ dT  =
+ 
+    684.  
+ 
+ 
+ Q  =
+ 
+    689.49598  
+ 
+ANSWER:Heat loss  from 1 sq metre wall=689.495982 W 
+Part(b)
+ 
+ 
+ cr  =
+ 
+    0.09  
+ 
+ R  =
+ 
+    1.082029  
+ 
+ Q  =
+ 
+    632.14573  
+ 
+ANSWER:Heat loss from 1 sq metre when resistance present=632.145727 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.8/2_8.sce #
+ 
+ 
+ 
+Example 2.8 
+ 
+ 
+ x1  =
+ 
+    0.02  
+ 
+ x2  =
+ 
+    0.01  
+ 
+ x3  =
+ 
+    0.02  
+ 
+ k1  =
+ 
+    0.105  
+ 
+ k3  =
+ 
+    0.105  
+ 
+ k2  =
+ 
+    0.041  
+ 
+ T1  =
+ 
+    303.  
+ 
+ T2  =
+ 
+    263.  
+ 
+ dT  =
+ 
+    40.  
+ 
+ Q_by_A  =
+ 
+    64.01487  
+ 
+ R  =
+ 
+    0.625  
+ 
+ Tx  =
+ 
+    293.  
+ 
+ Rx  =
+ 
+    0.9524  
+ 
+ x  =
+ 
+    0.1640592  
+ 
+ x  =
+ 
+    16.405922  
+ 
+The temperature of 293 K will be reached at point 16.405922  mm from the outermost wall surface of the ice-box 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.9/2_9.sce #
+ 
+Example 2.9,Page 2.28
+ 
+ 
+ ID  =
+ 
+    50.  
+ 
+ 
+Internal diameter,ID=50.000000 mm 
+ r1  =
+ 
+    25.  
+ 
+ r1  =
+ 
+    0.025  
+ 
+ OD  =
+ 
+    150.  
+ 
+Outer diameter,OD=150.000000 mm 
+ r2  =
+ 
+    75.  
+ 
+ r2  =
+ 
+    0.075  
+ 
+ 
+ k  =
+ 
+    17.45  
+ 
+ 
+Q/A=dT/(r2-r1)/k
+ 
+ 
+ 
+ A  =
+ 
+    0.0235619  
+ 
+ Q  =
+ 
+    2220.2421  
+ 
+ANSWER:
+Heat loss=Q=2220.242068 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.10/2_10.sce #
+ 
+ 
+ 
+Example 2.10 
+ A  =
+ 
+    1.  
+ 
+ x1  =
+ 
+    0.15  
+ 
+ x2  =
+ 
+    0.01  
+ 
+ x4  =
+ 
+    0.15  
+ 
+ T1  =
+ 
+    973.  
+ 
+ T2  =
+ 
+    288.  
+ 
+ dT  =
+ 
+    685.  
+ 
+ 
+ k1  =
+ 
+    1.75  
+ 
+ k2  =
+ 
+    16.86  
+ 
+ k3  =
+ 
+    0.033  
+ 
+ k4  =
+ 
+    5.23  
+ 
+ 
+ sR  =
+ 
+    0.1149881  
+ 
+ Q  =
+ 
+    5957.1385  
+ 
+Heat lost per sq meter is 5957 W/sq m 
+ 
+ Q1  =
+ 
+    1163.  
+ 
+ sR1  =
+ 
+    0.5889940  
+ 
+ 
+ w  =
+ 
+    0.0156422  
+ 
+ w  =
+ 
+    15.642194  
+ 
+Width of air gap is 15.642194 mm 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.11/2_11.sce #
+ 
+ 
+ 
+Example 2.11 
+ d1  =
+ 
+    300.  
+ 
+ r1  =
+ 
+    150.  
+ 
+ r1  =
+ 
+    0.15  
+ 
+ r2  =
+ 
+    0.2  
+ 
+ r3  =
+ 
+    0.24  
+ 
+ x1  =
+ 
+    0.05  
+ 
+ x2  =
+ 
+    0.04  
+ 
+ k1  =
+ 
+    0.105  
+ 
+ k2  =
+ 
+    0.07  
+ 
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    0.5460181  
+ 
+ 
+ A2  =
+ 
+    0.6892422  
+ 
+ R2  =
+ 
+    0.8290679  
+ 
+ T1  =
+ 
+    623.  
+ 
+ T2  =
+ 
+    323.  
+ 
+ dT  =
+ 
+    300.  
+ 
+ 
+ Q_by_L  =
+ 
+    176.34791  
+ 
+Heat loss is 176.347907 W/m 
+ 
+ P  =
+ 
+    1.5079645  
+ 
+ Q_by_L_peri  =
+ 
+    116.94434  
+ 
+ 
+Heat lost per sq meter of outer insulation is 116.944338 W/sq m 
+ R1  =
+ 
+    0.8721147  
+ 
+ sR  =
+ 
+    1.698  
+ 
+ dT1  =
+ 
+    154.08388  
+ 
+Temperature between two layers of insulation=468.916124 K 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.12/2_12.sce #
+ 
+ 
+ 
+Example 2.12
+ 
+ 
+ x1  =
+ 
+    0.01  
+ 
+ x2  =
+ 
+    0.15  
+ 
+ x3  =
+ 
+    0.15  
+ 
+ T1  =
+ 
+    973.  
+ 
+ T2  =
+ 
+    423.  
+ 
+ 
+ 
+ k1  =
+ 
+    16.86  
+ 
+ k2  =
+ 
+    1.75  
+ 
+ k3  =
+ 
+    5.23  
+ 
+ k_air  =
+ 
+    0.0337  
+ 
+ A  =
+ 
+    1.  
+ 
+ sigma_R  =
+ 
+    0.1149881  
+ 
+ Q  =
+ 
+    4783.1039  
+ 
+ Tm  =
+ 
+    137.18271  
+ 
+ 
+ iT  =
+ 
+    560.18271  
+ 
+ sigma_xbyk  =
+ 
+    0.4729149  
+ 
+ x_by_k  =
+ 
+    0.3579268  
+ 
+ t  =
+ 
+    0.0120621  
+ 
+ 
+Width of the air gap is 12.062133 mm 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.13/2_13.sce #
+ 
+Example 2.13 
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ 
+ k1  =
+ 
+    43.03  
+ 
+ 
+ k2  =
+ 
+    0.07  
+ 
+ 
+ T1  =
+ 
+    423.  
+ 
+ 
+ T2  =
+ 
+    305.  
+ 
+ 
+ r1  =
+ 
+    0.0525  
+ 
+ 
+ 
+ 
+ r3  =
+ 
+    0.1075  
+ 
+ 
+ 
+ 
+Heat flow per metre of pipe is 82.925282 W/m 
+ 
+Part 2
+ 
+ 
+ 
+ 
+Temperature at outer surface of steel pipe: 422.972098 K 
+ 
+
+Part iii
+ 
+ id  =
+ 
+    0.105  
+ 
+ 
+ A  =
+ 
+    0.3298672  
+ 
+ 
+ 
+ 
+Conductance per m length based on inside area is 2.130423 W/K 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.15/2_15.sce #
+ 
+Example 2.15 
+ 
+ A  =
+ 
+    1.  
+ 
+ x1  =
+ 
+    0.1  
+ 
+ x2  =
+ 
+    0.04  
+ 
+ k1  =
+ 
+    0.7  
+ 
+ k2  =
+ 
+    0.48  
+ 
+ sigma  =
+ 
+    0.2261905  
+ 
+ 
+ 
+ 
+ k3  =
+ 
+    0.065  
+ 
+ 
+ 
+ x3  =
+ 
+    0.0049055  
+ 
+ x3  =
+ 
+    4.9054622  
+ 
+Thickness of rockwool insulation required=4.905462 mm 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.16/2_16.sce #
+ 
+ 
+ 
+ 
+ r1  =
+ 
+    0.02  
+ 
+ 
+ t1  =
+ 
+    0.02  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Let the layer M-1 be nearer to the surface 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1  =
+ 
+    37.928097  
+ 
+ 
+ 
+Let the layer of material M-2 be nearer to the surface 
+ Q2  =
+ 
+    49.356209  
+ 
+Q1=37.928097 and Q2= 49.356209 
+ For dummy variables unity...
+For any value of k,T1 and T2,Q1 is always less than Q2 
+
+ So,M-1 near the surface is advisable(i.e Arrangement one will result i ,ess heat loss
+) 
+ per_red  =
+ 
+    23.154357  
+ 
+Percent reduction in heat loss is 23.154357 percent 
+
+NOTE:Slight variation in answers due to less precise calculation in book.If performed manually,this answer stands to be correct 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.17/2_17.sce #
+ 
+ T1  =
+ 
+    523.  
+ 
+ T2  =
+ 
+    323.  
+ 
+ r1  =
+ 
+    0.05  
+ 
+ r2  =
+ 
+    0.055  
+ 
+ r3  =
+ 
+    0.105  
+ 
+ r4  =
+ 
+    0.155  
+ 
+ k1  =
+ 
+    50.  
+ 
+ k2  =
+ 
+    0.06  
+ 
+ k3  =
+ 
+    0.12  
+ 
+ 
+ Q_by_L1  =
+ 
+    89.602567  
+ 
+Heat loss=89.602567 W/m 
+ 
+ Q_by_L2  =
+ 
+    105.76377  
+ 
+ perct  =
+ 
+    18.036543  
+ 
+If order is changed then heat loss=105.763773 W/m 
+
+ loss of heat is increased by 18.036543 percent by putting material with higher thermal conductivity near the pipe surface 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.18/2_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ r1  =
+ 
+    0.1  
+ 
+ ia  =
+ 
+    0.025  
+ 
+ 
+ r2  =
+ 
+    0.125  
+ 
+ r3  =
+ 
+    0.15  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dT  =
+ 
+    1.  
+ 
+ Q1  =
+ 
+    22.130328  
+ 
+ Q1  =
+ 
+    22.12  
+ 
+ 
+ Q2  =
+ 
+    24.476503  
+ 
+ Q2  =
+ 
+    24.39  
+ 
+ANSWER-(i)
+Q1=22.120000 W 
+Q2= 24.390000 W 
+Q1 is less than Q2.i.e arrangement A near the pipe surface and B as outer layer gives less heat loss
+ 
+ 
+
+ANSWER-(ii) 
+Percent reduction in heat loss (with near the pipe surface)=10.262206 percent 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.19/eg2_19.sce #
+ 
+ 
+Example 2.19.Page no.2.39 
+ 
+ x1  =
+ 
+    0.224  
+ 
+ k1  =
+ 
+    1.3  
+ 
+ k2  =
+ 
+    0.346  
+ 
+ T1  =
+ 
+    1588.  
+ 
+ T2  =
+ 
+    299.  
+ 
+ QA  =
+ 
+    1830.  
+ 
+ 
+Q/A=(T1-T2)/x1/k1+x2/k2 
+ x2  =
+ 
+    0.1840941  
+ 
+ 
+Thickness of insulation=184.094107 mm 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.20/2_20.sce #
+ 
+ 
+ 
+ k1  =
+ 
+    0.533  
+ 
+ 
+ k2  =
+ 
+    0.7  
+ 
+ 
+ A  =
+ 
+    1.  
+ 
+ x1  =
+ 
+    0.125  
+ 
+ x2  =
+ 
+    0.5  
+ 
+ 
+ r1  =
+ 
+    0.2345216  
+ 
+ r2  =
+ 
+    0.7142857  
+ 
+ r  =
+ 
+    0.9488073  
+ 
+ 
+ T1  =
+ 
+    1373.  
+ 
+ T2  =
+ 
+    323.  
+ 
+ Q  =
+ 
+    1106.6525  
+ 
+ Tdash  =
+ 
+    1113.4661  
+ 
+ 
+ 
+ x3  =
+ 
+    0.25  
+ 
+ r3  =
+ 
+    0.3571429  
+ 
+ Tdd  =
+ 
+    718.23305  
+ 
+ 
+ Tm  =
+ 
+    915.84958  
+ 
+ km  =
+ 
+    0.2595359  
+ 
+ x2  =
+ 
+    0.0926914  
+ 
+ x2  =
+ 
+    92.691404  
+ 
+Thickness of diatomite layer=92.691404 mm 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.21/2_21.sce #
+ 
+ 
+ k1  =
+ 
+    0.7  
+ 
+ k2  =
+ 
+    0.48  
+ 
+ k3  =
+ 
+    0.065  
+ 
+ 
+ A  =
+ 
+    1.  
+ 
+ x1  =
+ 
+    0.1  
+ 
+ x2  =
+ 
+    0.04  
+ 
+ R1  =
+ 
+    0.1428571  
+ 
+ R2  =
+ 
+    0.0833333  
+ 
+ R  =
+ 
+    0.2261905  
+ 
+ 
+ QbyQd  =
+ 
+    0.2  
+ 
+ sigRbyRd  =
+ 
+    0.2  
+ 
+ x3  =
+ 
+    0.0587508  
+ 
+ x3  =
+ 
+    58.750773  
+ 
+Thickness of rockwool insulation =58.750773 mm 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.22/2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ans:Rate of heat loss is 116.559890 W/m 
+
+ NOTE:Slight variation in final answer due to lack of precision in calculation of R1,R2,R3 and R4.In book an approximate values of these is taken
+  
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.23/2_23.sce #
+ 
+ 
+ T1  =
+ 
+    913.  
+ 
+ T  =
+ 
+    513.  
+ 
+ T2  =
+ 
+    313.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1  =
+ 
+    200.  
+ 
+ Q2  =
+ 
+    120.  
+ 
+ percent  =
+ 
+    40.  
+ 
+
+Therefore,Percentage reduction in heat loss is 40 percent 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.24/2_24.sce #
+ 
+ 
+Example 2.24
+ Page no. 2.47 
+ 
+ L  =
+ 
+    1.  
+ 
+ thp  =
+ 
+    2.  
+ 
+ thi  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    373.  
+ 
+ T2  =
+ 
+    298.  
+ 
+ id  =
+ 
+    30.  
+ 
+ r1  =
+ 
+    15.  
+ 
+ r2  =
+ 
+    17.  
+ 
+ r3  =
+ 
+    27.  
+ 
+ 
+ r1  =
+ 
+    0.015  
+ 
+ r2  =
+ 
+    0.017  
+ 
+ r3  =
+ 
+    0.027  
+ 
+ k1  =
+ 
+    17.44  
+ 
+ k2  =
+ 
+    0.58  
+ 
+ hi  =
+ 
+    11.63  
+ 
+ ho  =
+ 
+    11.63  
+ 
+ 
+ Q  =
+ 
+    43.486941  
+ 
+ANSWER: 
+ Rate of heat loss,Q=43.486941 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.25/2_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Q_by_l  =
+ 
+    156.08218  
+ 
+ 
+ 
+ Q_by_l1  =
+ 
+    78.041089  
+ 
+ 
+ 
+ 
+ r3  =
+ 
+    0.0355073  
+ 
+ t  =
+ 
+    0.0188073  
+ 
+
+ Hence,required thickness of insulation is 0.018807 m=18.807335 mm or 19 m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.26/2_26.sce #
+ 
+ 
+ 
+ 
+ id  =
+ 
+    0.1  
+ 
+ od  =
+ 
+    0.12  
+ 
+ T1  =
+ 
+    358.  
+ 
+ T2  =
+ 
+    298.  
+ 
+ t  =
+ 
+    0.03  
+ 
+ k1  =
+ 
+    58.  
+ 
+ k2  =
+ 
+    0.2  
+ 
+ h1  =
+ 
+    720.  
+ 
+ h2  =
+ 
+    9.  
+ 
+ r1  =
+ 
+    0.05  
+ 
+ r2  =
+ 
+    0.06  
+ 
+ r3  =
+ 
+    0.09  
+ 
+ 
+ 
+Heat loss per metre length of pipe=114.489017 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.27/2_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r3  =
+ 
+    0.0817619  
+ 
+ t  =
+ 
+    0.0317619  
+ 
+ 
+ Q_by_l  =
+ 
+    154.11747  
+ 
+
+ Thicknesss of insulation is 32 mm 
+ Rate of heat loss per unit length is 154.117474 W/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.28/2_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.  
+ 
+ x1  =
+ 
+    0.006  
+ 
+ x2  =
+ 
+    0.075  
+ 
+ x3  =
+ 
+    0.2  
+ 
+ k1  =
+ 
+    39.  
+ 
+ k2  =
+ 
+    1.1  
+ 
+ k3  =
+ 
+    0.66  
+ 
+ h0  =
+ 
+    65.  
+ 
+ T1  =
+ 
+    900.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ 
+ 
+ Q  =
+ 
+    1551.3874  
+ 
+Heat loss per sq metre area is: 1551.387449 W/sq m 
+ 
+ 
+ T  =
+ 
+    323.8675  
+ 
+Temperature of utside surface of furnace is: 323.867499 K (50.867499 degree C) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.29/2_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    1.  
+ 
+ x1  =
+ 
+    0.003  
+ 
+ x3  =
+ 
+    0.008  
+ 
+ k1  =
+ 
+    30.  
+ 
+ k2  =
+ 
+    0.7  
+ 
+ k3  =
+ 
+    40.  
+ 
+ T1  =
+ 
+    363.  
+ 
+ T  =
+ 
+    333.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ h0  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+Thicknessof insulating brick required is 63.426364 mm 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.30/2_30.sce #
+ 
+ 
+ 
+ 
+ 
+ hi  =
+ 
+    75.  
+ 
+ x1  =
+ 
+    0.2  
+ 
+ x2  =
+ 
+    0.1  
+ 
+ x3  =
+ 
+    0.1  
+ 
+ T1  =
+ 
+    1943.  
+ 
+ k1  =
+ 
+    1.25  
+ 
+ k2  =
+ 
+    0.074  
+ 
+ k3  =
+ 
+    0.555  
+ 
+ T2  =
+ 
+    343.  
+ 
+ A  =
+ 
+    1.  
+ 
+ 
+ 
+ Q  =
+ 
+    938.49081  
+ 
+ 
+ 
+ 
+ 
+Temperature at inner surface of middle layer=1780.328260 K(1507.328260 degree C) 
+ 
+ 
+ 
+ Tdash  =
+ 
+    512.09744  
+ 
+Temperature at outer surface of middle layer=512.097442 K (239.097442 degree C) 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.31/2_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ hi  =
+ 
+    10.  
+ 
+ h0  =
+ 
+    10.  
+ 
+ r1  =
+ 
+    0.09  
+ 
+ r2  =
+ 
+    0.12  
+ 
+ t  =
+ 
+    0.05  
+ 
+ k1  =
+ 
+    40.  
+ 
+ k2  =
+ 
+    0.05  
+ 
+ T1  =
+ 
+    473.  
+ 
+ T2  =
+ 
+    373.  
+ 
+ 
+Ans (a) Heat loss=321.944446 W/m  
+ 
+ 
+ 
+ Red  =
+ 
+    249.43623  
+ 
+ percent_red  =
+ 
+    77.478034  
+ 
+Ans (b) Percent reduction in heat loss is 77.478034 percent 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.32/2_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    798.  
+ 
+ T2  =
+ 
+    298.  
+ 
+ x1  =
+ 
+    0.02  
+ 
+ x2  =
+ 
+    0.02  
+ 
+ k1  =
+ 
+    60.  
+ 
+ k2  =
+ 
+    0.1  
+ 
+ hi  =
+ 
+    100.  
+ 
+ h0  =
+ 
+    25.  
+ 
+ 
+Ans (i)- Heat flux across the layers is 1997.336884 W/sq m 
+ 
+ 
+ T  =
+ 
+    777.36085  
+ 
+Ans-(ii)-Interfacial temperature between layers is 777.360852 K (504.360852 degree C) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.33/2_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    2273.  
+ 
+ 
+ T4  =
+ 
+    318.  
+ 
+ 
+ Qr1_by_A  =
+ 
+    23260.  
+ 
+ 
+ hi  =
+ 
+    11.63  
+ 
+ 
+ K  =
+ 
+    58.  
+ 
+ 
+ Qr4_by_A  =
+ 
+    9300.  
+ 
+ 
+ T2  =
+ 
+    1273.  
+ 
+ 
+ Qr1  =
+ 
+    23260.  
+ 
+ A  =
+ 
+    1.  
+ 
+ 
+ Qc1_by_A  =
+ 
+    11630.  
+ 
+ Qc1  =
+ 
+    11630.  
+ 
+ 
+ R  =
+ 
+    0.0172414  
+ 
+ 
+ 
+ 
+ Q_enter  =
+ 
+    34890.  
+ 
+ T3  =
+ 
+    671.44828  
+ 
+ T3  =
+ 
+    673.  
+ 
+ 
+ Qc4_by_A  =
+ 
+    25590.  
+ 
+ 
+ 
+ h0  =
+ 
+    72.084507  
+ 
+ 
+Convective conductance is: 72.084507 W/sq m.K 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.34/2_34.sce #
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    473.  
+ 
+ T2  =
+ 
+    293.  
+ 
+ k  =
+ 
+    0.17  
+ 
+ h  =
+ 
+    3.  
+ 
+ h0  =
+ 
+    3.  
+ 
+ rc  =
+ 
+    0.0566667  
+ 
+ r1  =
+ 
+    0.025  
+ 
+ q_by_l1  =
+ 
+    105.73854  
+ 
+ 
+ q_by_l2  =
+ 
+    84.823002  
+ 
+ inc  =
+ 
+    24.657856  
+ 
+When covered with insulation,
+ heat loss=105.738535 W 
+ When without insulation,heat loss= 84.823002 W 
+ percent increase =24.657856 percent 
+ k  =
+ 
+    0.04  
+ 
+ rc  =
+ 
+    0.0133333  
+ 
+In this case the avlue of rc=0.013333 m is less than the outside radius of pipe (0.025000),
+ So additon of any fibre glass would cause a decrease in the heat transfer 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.36/2_36.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.  
+ 
+ h  =
+ 
+    8.  
+ 
+ rc  =
+ 
+    0.125  
+ 
+ T1  =
+ 
+    473.  
+ 
+ T2  =
+ 
+    293.  
+ 
+ r1  =
+ 
+    0.055  
+ 
+ Q_by_L  =
+ 
+    621.07932  
+ 
+Heat loss per meter of pipe is 621.079316 W/m 
+ 
+ 
+ 
+ T  =
+ 
+    391.84784  
+ 
+Outer surface temperature is: 391.847843 K(118.847843 degree C) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.37/2_37.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ k_steel  =
+ 
+    35.  
+ 
+ Cp_steel  =
+ 
+    0.46  
+ 
+ Cp_steel  =
+ 
+    460.  
+ 
+ h  =
+ 
+    10.  
+ 
+ rho_steel  =
+ 
+    7800.  
+ 
+ dia  =
+ 
+    50.  
+ 
+ dia  =
+ 
+    0.05  
+ 
+ R  =
+ 
+    0.025  
+ 
+ A  =
+ 
+    0.0078540  
+ 
+ V  =
+ 
+    0.0000654  
+ 
+ Nbi  =
+ 
+    0.0023810  
+ 
+ 
+ T  =
+ 
+    423.  
+ 
+ T0  =
+ 
+    723.  
+ 
+ T_inf  =
+ 
+    373.  
+ 
+ 
+ 
+Time required for a ball to attain a temperature of 423 K is 5818.271346 s= 1.616186 h 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.38/2_38.sce #
+ 
+ 
+ 
+ 
+ 
+ dia  =
+ 
+    50.  
+ 
+ dia  =
+ 
+    0.05  
+ 
+ r  =
+ 
+    0.025  
+ 
+ h  =
+ 
+    115.  
+ 
+ rho  =
+ 
+    8000.  
+ 
+ Cp  =
+ 
+    0.42  
+ 
+ Cp  =
+ 
+    420.  
+ 
+ A  =
+ 
+    0.0078540  
+ 
+ V  =
+ 
+    0.0000654  
+ 
+ T  =
+ 
+    423.  
+ 
+ T_inf  =
+ 
+    363.  
+ 
+ T0  =
+ 
+    723.  
+ 
+ 
+ 
+Time taken by centre of ball to reach a temperature of 423 K is 436.254479 s (=7.270908 minutes 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.39/2_39.sce #
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    11.36  
+ 
+ k  =
+ 
+    43.3  
+ 
+ r  =
+ 
+    25.4  
+ 
+ r  =
+ 
+    0.0254  
+ 
+ A  =
+ 
+    0.0081073  
+ 
+ V  =
+ 
+    0.0000686  
+ 
+ rho  =
+ 
+    7849.  
+ 
+ Cp  =
+ 
+    460.6  
+ 
+ t  =
+ 
+    1.  
+ 
+ t  =
+ 
+    3600.  
+ 
+ T_inf  =
+ 
+    394.3  
+ 
+ T0  =
+ 
+    700.  
+ 
+ 
+ 
+Temperature of ball after 1 h= 474.661200 K (201.661200 degree C) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.40/2_40.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Cp  =
+ 
+    380.  
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.32  
+ 
+ V  =
+ 
+    0.0008  
+ 
+ L_dash  =
+ 
+    0.0025  
+ 
+ 
+ 
+ 
+ Nbi  =
+ 
+    0.0060811  
+ 
+ var  =
+ 
+    0.0105263  
+ 
+ 
+ T  =
+ 
+    363.  
+ 
+ T_inf  =
+ 
+    303.  
+ 
+ T0  =
+ 
+    523.  
+ 
+ t  =
+ 
+    123.43188  
+ 
+Time at which slab temperature becomes 363 K is 123.431883 s 
+CALCULATION MISTAKE IN BOOK IN LAST LINE 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.41/2_41.sce #
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    9000.  
+ 
+ Cp  =
+ 
+    0.38  
+ 
+ Cp  =
+ 
+    380.  
+ 
+ k  =
+ 
+    370.  
+ 
+ T0  =
+ 
+    483.  
+ 
+ T_inf  =
+ 
+    373.  
+ 
+ delta_T  =
+ 
+    40.  
+ 
+ T  =
+ 
+    443.  
+ 
+ t  =
+ 
+    5.  
+ 
+ t  =
+ 
+    300.  
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.015  
+ 
+ th  =
+ 
+    0.03  
+ 
+ h  =
+ 
+    77.289456  
+ 
+Heat transfer coefficient is: 77.289456 W/(sq m.K) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.42/2_42.sce #
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    7800.  
+ 
+ h  =
+ 
+    100.  
+ 
+ Cp  =
+ 
+    460.  
+ 
+ k  =
+ 
+    40.  
+ 
+ L  =
+ 
+    1.  
+ 
+ D  =
+ 
+    10.  
+ 
+ D  =
+ 
+    0.01  
+ 
+ R  =
+ 
+    0.005  
+ 
+ 
+ A  =
+ 
+    0.0314159  
+ 
+ V  =
+ 
+    0.0000785  
+ 
+ L_dash  =
+ 
+    0.0025  
+ 
+ Nbi  =
+ 
+    0.00625  
+ 
+ 
+ T  =
+ 
+    473.  
+ 
+ T_inf  =
+ 
+    393.  
+ 
+ T0  =
+ 
+    593.  
+ 
+ t  =
+ 
+    82.191279  
+ 
+Time required to reach temperature 473.000000 is 82.191279 s 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.43/2_43.sce #
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    8600.  
+ 
+ Cp  =
+ 
+    0.42  
+ 
+ Cp  =
+ 
+    420.  
+ 
+ dia  =
+ 
+    0.71  
+ 
+ dia  =
+ 
+    0.00071  
+ 
+ R  =
+ 
+    0.000355  
+ 
+ h  =
+ 
+    600.  
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+Time constant of the thermocouple is 1.068550 s 
+ 
+ t  =
+ 
+    1.06855  
+ 
+ 
+ ratio  =
+ 
+    0.3678794  
+ 
+At the end of the time period t=tao=1.068550 s ,Temperature difference b/n the thermocouple and the gas stream would be 0.367879 of the initial temperature difference 
+
+ It should be reordered after 4.274200 s 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.44/2_44.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    8000.  
+ 
+ Cp  =
+ 
+    420.  
+ 
+ h_hot  =
+ 
+    60.  
+ 
+ dia  =
+ 
+    4.  
+ 
+ 
+ r  =
+ 
+    0.002  
+ 
+ 
+ V  =
+ 
+    3.351D-08  
+ 
+ A  =
+ 
+    0.0000503  
+ 
+ tao  =
+ 
+    37.333333  
+ 
+ ratio  =
+ 
+    0.7650171  
+ 
+ T_inf  =
+ 
+    573.  
+ 
+ T0  =
+ 
+    313.  
+ 
+ T  =
+ 
+    374.09556  
+ 
+ 
+
+ Answer: Time constant of thermocouple is 37.333333 s 
+ 
+ 
+ h_air  =
+ 
+    10.  
+ 
+ tao_air  =
+ 
+    224.  
+ 
+ t_air  =
+ 
+    20.  
+ 
+ ratio_air  =
+ 
+    0.9145842  
+ 
+ T_inf_air  =
+ 
+    303.  
+ 
+ 
+ T_air  =
+ 
+    368.02288  
+ 
+ 
+Temperature attained by junction 20 s after removing from the hot air stream is:368 K 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.45/2_45.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Av  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    8.5  
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    7625.  
+ 
+ 
+
+Time taken to heat the reactants over the same temperature range is 7625.000000 h 
+ 
+ 
+ 
+ T_max  =
+ 
+    377.59124  
+ 
+
+ANS: In CASE 1
+Time  taken to heat the reactants = 7625.000000 s .ie 2.118056 h 
+ 
+
+ANS: In CASE 2 
+ Time  taken to heat the reactants = 8905.202378 s
+ 
+
+ANS.:  Maximum temperature at which temperature can be raised is 377.591241 K
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.46/2_46.sce #
+ 
+ 
+ 
+ 
+ dia  =
+ 
+    3.  
+ 
+ dia  =
+ 
+    0.003  
+ 
+ r  =
+ 
+    0.0015  
+ 
+ k  =
+ 
+    150.  
+ 
+ h  =
+ 
+    300.  
+ 
+ T0  =
+ 
+    413.  
+ 
+ T_inf  =
+ 
+    288.  
+ 
+ A  =
+ 
+    0.0000071  
+ 
+ P  =
+ 
+    0.0094248  
+ 
+ Q  =
+ 
+    6.8441265  
+ 
+Heat dissipated by the rod is 6.844127 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.47/2_47.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    200.  
+ 
+ h  =
+ 
+    15.  
+ 
+ T0  =
+ 
+    523.  
+ 
+ T_inf  =
+ 
+    288.  
+ 
+ theta_0  =
+ 
+    235.  
+ 
+ dia  =
+ 
+    25.  
+ 
+ dia  =
+ 
+    0.025  
+ 
+ r  =
+ 
+    0.0125  
+ 
+ P  =
+ 
+    0.0785398  
+ 
+ A  =
+ 
+    0.0004909  
+ 
+ 
+ m  =
+ 
+    3.4641016  
+ 
+ L  =
+ 
+    100.  
+ 
+ L  =
+ 
+    0.1  
+ 
+ Q  =
+ 
+    26.628567  
+ 
+ 
+Heat loss by the insulated rod is 26.628567 W 
+ 
+ nf  =
+ 
+    0.9618311  
+ 
+ 
+Fin efficiency is 96.183107 percent 
+ 
+ 
+ 
+ T  =
+ 
+    509.57219  
+ 
+ 
+Temperature at the end of the fin is 509.572192 K 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.49/2_49.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    300.  
+ 
+ h  =
+ 
+    20.  
+ 
+ P  =
+ 
+    0.05  
+ 
+ A  =
+ 
+    2.  
+ 
+ A  =
+ 
+    0.0002  
+ 
+ T0  =
+ 
+    503.  
+ 
+ T_inf  =
+ 
+    303.  
+ 
+ theta_0  =
+ 
+    200.  
+ 
+ m  =
+ 
+    4.0824829  
+ 
+ 
+ L1  =
+ 
+    0.1  
+ 
+ Q  =
+ 
+    18.958282  
+ 
+ 
+ Q  =
+ 
+    113.74969  
+ 
+ 
+ L2  =
+ 
+    60.  
+ 
+ L2  =
+ 
+    0.06  
+ 
+ 
+ Q2  =
+ 
+    117.65623  
+ 
+As,Q for 10 fins of 60 mm length( 117.656234 W) is more than Q for 6 fins of 100 mm length (113.749692 W).
+ The agreement-->10 fins of 60 mm length is more effective 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.50/2_50.sce #
+ 
+ 
+ 
+ 
+ h_oil  =
+ 
+    180.  
+ 
+ h_air  =
+ 
+    15.  
+ 
+ T_oil  =
+ 
+    353.  
+ 
+ T_air  =
+ 
+    293.  
+ 
+ 
+ k  =
+ 
+    80.  
+ 
+ for_section  =
+ 
+    0.011  
+ 
+ L  =
+ 
+    25.  
+ 
+ L  =
+ 
+    0.025  
+ 
+ W  =
+ 
+    1.  
+ 
+ t  =
+ 
+    1.  
+ 
+ t  =
+ 
+    0.001  
+ 
+ A  =
+ 
+    0.001  
+ 
+ P  =
+ 
+    0.002  
+ 
+ Af  =
+ 
+    0.05  
+ 
+ N  =
+ 
+    1.  
+ 
+ Ab  =
+ 
+    0.01  
+ 
+ 
+ m  =
+ 
+    2.1213203  
+ 
+ nf_oil  =
+ 
+    0.9990636  
+ 
+ Ae_oil  =
+ 
+    0.0599532  
+ 
+ Q  =
+ 
+    9.7509114  
+ 
+In oil side,Q=9.750911 W
+ 
+ 
+ m  =
+ 
+    0.6123724  
+ 
+ nf_air  =
+ 
+    0.9999219  
+ 
+ nf_air  =
+ 
+    0.928  
+ 
+ Ae_air  =
+ 
+    0.0564  
+ 
+ Q  =
+ 
+    35.564331  
+ 
+In air side,Q=35.564331 W 
+
+ From above results we see that more heat transfer takes place if fins are provided on the air side 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH2/EX2.51/2_51.sce #
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    75.  
+ 
+ T_water  =
+ 
+    363.  
+ 
+ T_air  =
+ 
+    303.  
+ 
+ dT  =
+ 
+    60.  
+ 
+ h1  =
+ 
+    150.  
+ 
+ h2  =
+ 
+    15.  
+ 
+ W  =
+ 
+    0.5  
+ 
+ L  =
+ 
+    0.025  
+ 
+ Area  =
+ 
+    0.25  
+ 
+ t  =
+ 
+    1.  
+ 
+ t  =
+ 
+    0.001  
+ 
+ pitch  =
+ 
+    10.  
+ 
+ pitch  =
+ 
+    0.01  
+ 
+ N  =
+ 
+    50.  
+ 
+ 
+ A  =
+ 
+    0.025  
+ 
+ Ab  =
+ 
+    0.225  
+ 
+ Af  =
+ 
+    0.025  
+ 
+ 
+ 
+ A1  =
+ 
+    0.25  
+ 
+ A2  =
+ 
+    0.25  
+ 
+ 
+
+Without fins,Q=204.545455 W
+ 
+ 
+ 
+ 
+ m  =
+ 
+    63.308767  
+ 
+ nfw  =
+ 
+    0.5806624  
+ 
+ Aew  =
+ 
+    0.9508280  
+ 
+ 
+
+ With fins on water side,Q=219.235664 W 
+ 
+ 
+ m  =
+ 
+    20.01999  
+ 
+ nf_air  =
+ 
+    0.9240966  
+ 
+ Aea  =
+ 
+    1.3801207  
+ 
+ 
+
+ With Fins on Air side,Q=800.302826 W 
+ 
+ 
+ 
+
+ With Fins on both side,Q=1084.669537 W 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ mu  =
+ 
+    0.001  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ Nre_x  =
+ 
+    225000.  
+ 
+ 
+ del  =
+ 
+    0.0007336  
+ 
+
+Boundary layer thickness is del=0.000734 m or 0.733648 mm 
+
+Wrong units in answer of book,m and mm are wrongly interchanged 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ 
+ mu  =
+ 
+    0.000015  
+ 
+ v  =
+ 
+    2.  
+ 
+ L  =
+ 
+    2.  
+ 
+ Nre_x  =
+ 
+    300000.  
+ 
+ xc  =
+ 
+    2.25  
+ 
+ 
+ 
+ 
+ 
+ Nre_l  =
+ 
+    266666.67  
+ 
+ del_l  =
+ 
+    0.0179706  
+ 
+ del_l  =
+ 
+    17.970643  
+ 
+Boundary layerthickness at the trailing edge is 17.970643 mm 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ 
+ mu  =
+ 
+    0.000015  
+ 
+ x  =
+ 
+    0.4  
+ 
+ u_inf  =
+ 
+    3.  
+ 
+ 
+ 
+Since Nre,x (80000.000000)is Less than 3*10^5,..the boundary layer is laminar 
+ del  =
+ 
+    0.0065620  
+ 
+ del  =
+ 
+    6.5619509  
+ 
+
+Thickness of boundary layer at x=0.400000 m =6.561951 mm
+ 
+ 
+Local skin friction coefficient is :0.002348 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ mu  =
+ 
+    0.0000185  
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    1.1780309  
+ 
+ u_inf  =
+ 
+    2.  
+ 
+ 
+ 
+ Nre_x  =
+ 
+    25470.939  
+ 
+ del_by_x  =
+ 
+    0.0290734  
+ 
+ del  =
+ 
+    0.0058147  
+ 
+ 
+ 
+ 
+ 
+ Nre_x  =
+ 
+    50941.878  
+ 
+ 
+ del_by_x  =
+ 
+    0.0205580  
+ 
+ del1  =
+ 
+    0.0082232  
+ 
+ 
+ d  =
+ 
+    0.0024085  
+ 
+ 
+ m_dot  =
+ 
+    0.0035466  
+ 
+
+Boundary layer thickness at distance 20 cm from leading edge is 0.005815 m=5.814676 mm
+ 
+
+Boundary layer thickness at distance 40 cm from leading edge is 0.008223 m=8.223193 mm
+ 
+
+Thus,Mass flow rate entering the boundary layer is 0.003547 kg/s 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ mu  =
+ 
+    0.00039  
+ 
+ k  =
+ 
+    0.0364  
+ 
+ Npr  =
+ 
+    0.69  
+ 
+ u_inf  =
+ 
+    8.  
+ 
+ L  =
+ 
+    1.  
+ 
+ Nre_l  =
+ 
+    20512.821  
+ 
+ 
+ Nnu  =
+ 
+    84.035696  
+ 
+ 
+ h  =
+ 
+    3.0588993  
+ 
+ h  =
+ 
+    3.06  
+ 
+ T_inf  =
+ 
+    523.  
+ 
+ Tw  =
+ 
+    351.  
+ 
+ W  =
+ 
+    0.3  
+ 
+ A  =
+ 
+    0.3  
+ 
+ Q  =
+ 
+    157.896  
+ 
+
+Rate of heat removal is 157.896000 W
+ 
+ 
+ Q  =
+ 
+    315.792  
+ 
+
+ 315.792000 W heat should be removed continously from the plate 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    101.325  
+ 
+ mu1  =
+ 
+    0.0000308  
+ 
+ k  =
+ 
+    0.0364  
+ 
+ Npr  =
+ 
+    0.69  
+ 
+ u_inf  =
+ 
+    8.  
+ 
+ Cp  =
+ 
+    1.08  
+ 
+ L  =
+ 
+    1.5  
+ 
+ W  =
+ 
+    0.3  
+ 
+ A  =
+ 
+    0.45  
+ 
+ 
+ P2  =
+ 
+    8.  
+ 
+ mu2  =
+ 
+    0.0003901  
+ 
+ Nre_l  =
+ 
+    30761.245  
+ 
+ 
+ Nnu  =
+ 
+    102.90893  
+ 
+ h  =
+ 
+    2.4972567  
+ 
+ h  =
+ 
+    2.5  
+ 
+ T_inf  =
+ 
+    523.  
+ 
+ Tw  =
+ 
+    353.  
+ 
+ Q  =
+ 
+    382.5  
+ 
+Rate of heat removed from both sides of plate is 382.500000 W 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.7/3_7.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    0.998  
+ 
+ v  =
+ 
+    0.0000208  
+ 
+ Cp  =
+ 
+    1.009  
+ 
+ k  =
+ 
+    0.03  
+ 
+ u_inf  =
+ 
+    3.  
+ 
+ x  =
+ 
+    0.4  
+ 
+ w  =
+ 
+    1.5  
+ 
+ Nre_x  =
+ 
+    57803.468  
+ 
+ 
+ mu  =
+ 
+    0.0000207  
+ 
+ 
+ Cp  =
+ 
+    1.009  
+ 
+ Cp  =
+ 
+    1009.  
+ 
+ k  =
+ 
+    0.03  
+ 
+ Npr  =
+ 
+    0.6968315  
+ 
+ Nnu_x  =
+ 
+    70.765943  
+ 
+ hx  =
+ 
+    5.3074457  
+ 
+ 
+ h  =
+ 
+    10.614891  
+ 
+ h  =
+ 
+    10.6  
+ 
+ A  =
+ 
+    0.6  
+ 
+ Tw  =
+ 
+    407.  
+ 
+ T_inf  =
+ 
+    293.  
+ 
+ Q  =
+ 
+    725.04  
+ 
+ 
+ Q  =
+ 
+    1450.08  
+ 
+The heat transferred from both sides of the plate is 1450 W 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    0.998  
+ 
+ v  =
+ 
+    0.0000208  
+ 
+ k  =
+ 
+    0.03  
+ 
+ Npr  =
+ 
+    0.697  
+ 
+ x  =
+ 
+    0.4  
+ 
+ u_inf  =
+ 
+    3.  
+ 
+ Nre_x  =
+ 
+    57803.468  
+ 
+ 
+ 
+ 
+ hx  =
+ 
+    5.3078734  
+ 
+ 
+ h  =
+ 
+    10.615747  
+ 
+ 
+ Q  =
+ 
+    1450.  
+ 
+ Tw  =
+ 
+    407.  
+ 
+ T_inf  =
+ 
+    293.  
+ 
+ L  =
+ 
+    0.4  
+ 
+ 
+ 
+ w  =
+ 
+    2.9953847  
+ 
+
+ Width of plate is 2.995385 m 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.0000174  
+ 
+ k  =
+ 
+    0.0275  
+ 
+ Cp  =
+ 
+    1.006  
+ 
+ Npr  =
+ 
+    0.7  
+ 
+ u_inf  =
+ 
+    2.  
+ 
+ x  =
+ 
+    0.2  
+ 
+ Nre_x  =
+ 
+    23041.475  
+ 
+ 
+ Nnu_x  =
+ 
+    44.746517  
+ 
+ hx  =
+ 
+    6.152646  
+ 
+ 
+ h  =
+ 
+    12.305292  
+ 
+ h  =
+ 
+    12.3  
+ 
+ w  =
+ 
+    1.  
+ 
+ A  =
+ 
+    0.2  
+ 
+ Tw  =
+ 
+    333.  
+ 
+ T_inf  =
+ 
+    300.  
+ 
+ Q  =
+ 
+    81.18  
+ 
+
+ANSWER:
+Heat flow is :81.180000 W
+ 
+ 
+ Q  =
+ 
+    162.36  
+ 
+
+ANSWER
+ Heat flow from both sides of plate is 162.360000 W 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0000170  
+ 
+ rho  =
+ 
+    1.128  
+ 
+ Npr  =
+ 
+    0.699  
+ 
+ k  =
+ 
+    0.0276  
+ 
+ u_inf  =
+ 
+    15.  
+ 
+ L  =
+ 
+    0.2  
+ 
+ Nre_l  =
+ 
+    176886.79  
+ 
+ 
+ Nnu  =
+ 
+    247.84196  
+ 
+ h  =
+ 
+    34.202191  
+ 
+ A  =
+ 
+    0.04  
+ 
+ Tw  =
+ 
+    293.  
+ 
+ T_inf  =
+ 
+    333.  
+ 
+ 
+ Q  =
+ 
+    109.44701  
+ 
+Rate of heat transfer from both sides of plate is 109.447011 W
+ 
+ 
+ h  =
+ 
+    70.74171  
+ 
+ 
+ Q  =
+ 
+    226.37347  
+ 
+
+These calculations sho that the that transfer rate is approximately doubled if boundary layer is turbulent from the leading edge 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ mu  =
+ 
+    0.0000191  
+ 
+ k  =
+ 
+    0.02723  
+ 
+ Cp  =
+ 
+    1.007  
+ 
+ rho  =
+ 
+    1.129  
+ 
+ Npr  =
+ 
+    0.7  
+ 
+ Mavg  =
+ 
+    29.  
+ 
+ u_inf  =
+ 
+    35.  
+ 
+ L  =
+ 
+    0.75  
+ 
+ Tm  =
+ 
+    313.  
+ 
+ P  =
+ 
+    101.325  
+ 
+ Nre_l  =
+ 
+    1554892.4  
+ 
+ 
+ h  =
+ 
+    105.97264  
+ 
+ A  =
+ 
+    0.75  
+ 
+ Tw  =
+ 
+    333.  
+ 
+ T_inf  =
+ 
+    293.  
+ 
+ 
+Heat transfer from the plate is 3179.179242 W 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.12/3_12.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0000182  
+ 
+ k  =
+ 
+    0.02814  
+ 
+ D  =
+ 
+    0.012  
+ 
+ r  =
+ 
+    0.006  
+ 
+ u_inf  =
+ 
+    4.  
+ 
+ Nre  =
+ 
+    2633.0225  
+ 
+ 
+ h  =
+ 
+    97.862727  
+ 
+ A  =
+ 
+    0.0004524  
+ 
+ Tw  =
+ 
+    350.  
+ 
+ T_inf  =
+ 
+    300.  
+ 
+ Q  =
+ 
+    2.2136027  
+ 
+
+ Heat lost by sphere is 2.213603 W 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.13/3_13.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0000157  
+ 
+ k  =
+ 
+    0.02624  
+ 
+ Npr  =
+ 
+    0.708  
+ 
+ mu  =
+ 
+    0.0000208  
+ 
+ u_inf  =
+ 
+    4.  
+ 
+ mu_inf  =
+ 
+    0.0000185  
+ 
+ Tw  =
+ 
+    350.  
+ 
+ T_inf  =
+ 
+    300.  
+ 
+ D  =
+ 
+    0.012  
+ 
+ r  =
+ 
+    0.006  
+ 
+ Nre  =
+ 
+    3059.2734  
+ 
+ Nnu  =
+ 
+    31.41143  
+ 
+ h  =
+ 
+    68.686326  
+ 
+ 
+ A  =
+ 
+    0.0004524  
+ 
+ 
+
+ Heat lost by the sphere is 1.553648 W 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.14/3_14.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0000208  
+ 
+ k  =
+ 
+    0.03  
+ 
+ Npr  =
+ 
+    0.697  
+ 
+ D  =
+ 
+    0.06  
+ 
+ u_inf  =
+ 
+    0.3  
+ 
+ Nre  =
+ 
+    865.38462  
+ 
+ 
+ 
+ h  =
+ 
+    10.702796  
+ 
+ Tw  =
+ 
+    400.  
+ 
+ T_inf  =
+ 
+    300.  
+ 
+ D  =
+ 
+    0.06  
+ 
+ r  =
+ 
+    0.03  
+ 
+ A  =
+ 
+    0.0113097  
+ 
+ Q  =
+ 
+    12.104577  
+ 
+ per  =
+ 
+    12.104577  
+ 
+Heat transfer rate is 12.104577 W,And percentage of power lost by convectio is: 12.104577 percent  
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.15/3_15.sce #
+ 
+ 
+ 
+ 
+ u_inf  =
+ 
+    50.  
+ 
+ mu  =
+ 
+    0.0000214  
+ 
+ rho  =
+ 
+    0.966  
+ 
+ k  =
+ 
+    0.0312  
+ 
+ Npr  =
+ 
+    0.695  
+ 
+ D  =
+ 
+    0.05  
+ 
+ 
+112850.467290 
+ 
+ 
+ h  =
+ 
+    171.7  
+ 
+
+171.700000 
+ Tw  =
+ 
+    423.  
+ 
+ T_inf  =
+ 
+    308.  
+ 
+ 
+ 
+Heat lost per unit length of cylinder is 3102.000000 W(approx) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.16/3_16.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.0000209  
+ 
+ k  =
+ 
+    0.03  
+ 
+ Npr  =
+ 
+    0.7  
+ 
+ u_inf  =
+ 
+    25.  
+ 
+ d  =
+ 
+    50.  
+ 
+ d  =
+ 
+    0.05  
+ 
+ Nre  =
+ 
+    59751.434  
+ 
+ Tw  =
+ 
+    397.  
+ 
+ T_inf  =
+ 
+    303.  
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    99.165204  
+ 
+ A  =
+ 
+    0.1570796  
+ 
+ Q  =
+ 
+    1464.2224  
+ 
+ Q_by_l1  =
+ 
+    1464.2224  
+ 
+ 
+ 
+ A  =
+ 
+    2500.  
+ 
+ P  =
+ 
+    200.  
+ 
+ l  =
+ 
+    50.  
+ 
+ l  =
+ 
+    0.05  
+ 
+ Nnu  =
+ 
+    151.70549  
+ 
+ h  =
+ 
+    91.023297  
+ 
+ A  =
+ 
+    0.01  
+ 
+ 
+ Q  =
+ 
+    85.561899  
+ 
+ Q_by_l2  =
+ 
+    1711.238  
+ 
+
+Rate of heat flow from the square pipe=1711.237975 W/m  
+ which is more than that from the circular pipe which is equal to 1464.222374 W/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.17/3_17.sce #
+ 
+ 
+ 
+ 
+ mu  =
+ 
+    0.8  
+ 
+ rho  =
+ 
+    1.1  
+ 
+ rho  =
+ 
+    1100.  
+ 
+ Cp  =
+ 
+    1.26  
+ 
+ Cp  =
+ 
+    1260.  
+ 
+ k  =
+ 
+    0.384  
+ 
+ mu_w  =
+ 
+    1.  
+ 
+ L  =
+ 
+    5.  
+ 
+ vfr  =
+ 
+    300.  
+ 
+ vfr  =
+ 
+    0.0003  
+ 
+ mfr  =
+ 
+    0.33  
+ 
+ Di  =
+ 
+    20.  
+ 
+ Di  =
+ 
+    0.02  
+ 
+ Area  =
+ 
+    0.0003142  
+ 
+ u  =
+ 
+    0.9549297  
+ 
+ Nre  =
+ 
+    26.260566  
+ 
+ 
+ Npr  =
+ 
+    2625.  
+ 
+ Nnu  =
+ 
+    11.733926  
+ 
+ hi  =
+ 
+    225.29137  
+ 
+Inside heat transfer coefficient is 225.291374 W/(sq m.K) 
+ 
+
+ The answer given in book..ie 1225 is wrong.please redo the calculation of last line manually to check
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.18/3_18.sce #
+ 
+ 
+ 
+ m  =
+ 
+    5500.  
+ 
+ m  =
+ 
+    1.5277778  
+ 
+ rho  =
+ 
+    1.07  
+ 
+ rho  =
+ 
+    1070.  
+ 
+ vfr  =
+ 
+    0.0014278  
+ 
+ Di  =
+ 
+    40.  
+ 
+ Di  =
+ 
+    0.04  
+ 
+ A  =
+ 
+    0.0012566  
+ 
+ u  =
+ 
+    1.1362308  
+ 
+ rho  =
+ 
+    1070.  
+ 
+ mu  =
+ 
+    0.004  
+ 
+ Nre  =
+ 
+    12157.669  
+ 
+ Nre  =
+ 
+    12198.  
+ 
+ 
+ Cp  =
+ 
+    2.72  
+ 
+ Cp  =
+ 
+    2720.  
+ 
+ k  =
+ 
+    0.256  
+ 
+ Npr  =
+ 
+    42.5  
+ 
+ Nnu  =
+ 
+    191.47598  
+ 
+ hi  =
+ 
+    1225.4463  
+ 
+Inside heat transfer coefficient is 1225.446301 W/sq m.K 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.19/3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    984.1  
+ 
+ Cp  =
+ 
+    4187.  
+ 
+ mu  =
+ 
+    0.000485  
+ 
+ k  =
+ 
+    0.657  
+ 
+ mu_w  =
+ 
+    0.00092  
+ 
+ 
+ D  =
+ 
+    16.  
+ 
+ D  =
+ 
+    0.016  
+ 
+ u  =
+ 
+    3.  
+ 
+ rho  =
+ 
+    984.1  
+ 
+ Nre  =
+ 
+    97395.464  
+ 
+ Nre  =
+ 
+    97395.  
+ 
+ Npr  =
+ 
+    3.09086  
+ 
+ 
+ 
+ Nnu  =
+ 
+    315.9228  
+ 
+ h  =
+ 
+    12972.58  
+ 
+
+ANSWER-(i) 
+By Dittus-Boelter equation we get h=12972.579816 W/sq m.K
+
+
+ 
+ 
+ 
+ Nnu  =
+ 
+    299.90968  
+ 
+ h  =
+ 
+    12315.041  
+ 
+
+Answer-(ii)
+-By Sieder-Tate equation we get h=12315.041415 W/sq m.K
+ 
+
+NOTE:Calculation mistake in book in part 2 ie sieder tate eqn
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.20/3_20.sce #
+ 
+ 
+ 
+ m_dot  =
+ 
+    2250.  
+ 
+ Cp  =
+ 
+    3.35  
+ 
+ dT  =
+ 
+    27.5  
+ 
+ Q  =
+ 
+    207281.25  
+ 
+ Q  =
+ 
+    57578.  
+ 
+ Di  =
+ 
+    0.04  
+ 
+ Do  =
+ 
+    0.048  
+ 
+ hi  =
+ 
+    4070.  
+ 
+ ho  =
+ 
+    18.26  
+ 
+ Rdo  =
+ 
+    0.123  
+ 
+ Rdi  =
+ 
+    0.215  
+ 
+ Uo  =
+ 
+    2.2932658  
+ 
+ Uo  =
+ 
+    2.3  
+ 
+ dT1  =
+ 
+    84.5  
+ 
+ dT2  =
+ 
+    57.  
+ 
+ dTm  =
+ 
+    69.850092  
+ 
+ Ao  =
+ 
+    358.39484  
+ 
+Heatr transfer area is:358.394845 m^2 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.21/3_21.sce #
+ 
+ 
+ 
+ 
+ k_tube  =
+ 
+    111.65  
+ 
+ W  =
+ 
+    4500.  
+ 
+ rho  =
+ 
+    995.7  
+ 
+ Cp  =
+ 
+    4.174  
+ 
+ k  =
+ 
+    0.617  
+ 
+ v  =
+ 
+    0.0000007  
+ 
+ m_dot  =
+ 
+    1720.  
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    318.  
+ 
+ dT  =
+ 
+    25.  
+ 
+ Q  =
+ 
+    179482.  
+ 
+ Q  =
+ 
+    49856.111  
+ 
+ Di  =
+ 
+    0.0225  
+ 
+ u  =
+ 
+    1.2  
+ 
+ 
+ Nre  =
+ 
+    40971.168  
+ 
+ 
+ Cp  =
+ 
+    4174.  
+ 
+ mu  =
+ 
+    0.0006562  
+ 
+ Npr  =
+ 
+    4.4389597  
+ 
+ 
+ Nnu  =
+ 
+    204.46689  
+ 
+ hi  =
+ 
+    5606.9366  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ Dw  =
+ 
+    0.0237281  
+ 
+ ho  =
+ 
+    4650.  
+ 
+ k  =
+ 
+    111.65  
+ 
+ xw  =
+ 
+    0.00125  
+ 
+ Uo  =
+ 
+    2352.8479  
+ 
+ T_steam  =
+ 
+    373.  
+ 
+ dT1  =
+ 
+    90.  
+ 
+ dT2  =
+ 
+    65.  
+ 
+ dTm  =
+ 
+    76.82323  
+ 
+ Ao  =
+ 
+    0.2758240  
+ 
+ L  =
+ 
+    4.  
+ 
+ n  =
+ 
+    0.8779749  
+ 
+No. of tubes required=1
+ 
+
+ NOTE: there is an error in book in calculation of dT1 and dT2,
+ 373-293 is written as 90,instead of 80...similarly in dT2,
+So,in compliance with the book,10 is added to both of them 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.22/3_22.sce #
+ 
+ 
+ 
+ m_dot  =
+ 
+    25000.  
+ 
+ rho  =
+ 
+    992.2  
+ 
+ k  =
+ 
+    0.634  
+ 
+ vfr  =
+ 
+    25.196533  
+ 
+ Npr  =
+ 
+    4.31  
+ 
+ Di  =
+ 
+    50.  
+ 
+ Di  =
+ 
+    0.05  
+ 
+ dT  =
+ 
+    10.  
+ 
+ u  =
+ 
+    3.5645802  
+ 
+ u  =
+ 
+    3.56  
+ 
+ 
+ 
+ Nre  =
+ 
+    270106.22  
+ 
+ 
+ 
+ hi  =
+ 
+    11584.19  
+ 
+ q_by_l  =
+ 
+    18196.403  
+ 
+Average value of convective film coefficient is hi= 11584 W/sq m.K 
+Heat transferred per unit length is Q/L=18.196403 kW/m 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.23/3_23.sce #
+ 
+ 
+ 
+ 
+ 
+ m_dot  =
+ 
+    1176.  
+ 
+ m_dot2  =
+ 
+    0.3266667  
+ 
+ 
+ 
+ 
+ Ai  =
+ 
+    0.0004909  
+ 
+ Nre  =
+ 
+    27728.328  
+ 
+ 
+ 
+ 
+ 
+ Nnu  =
+ 
+    143.335  
+ 
+ 
+ hi  =
+ 
+    3612.042  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ L  =
+ 
+    4.6996807  
+ 
+Length of tube required is 5.000000 m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.24/3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cp1  =
+ 
+    4.187  
+ 
+ dTlm  =
+ 
+    57.707802  
+ 
+ m1_by_UA  =
+ 
+    0.3445653  
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    357.5  
+ 
+
+Outlet temperature of water is 357.500000 K
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.25/3_25.sce #
+ 
+ 
+ 
+ mo_dot  =
+ 
+    60.  
+ 
+ mo_dot  =
+ 
+    0.06  
+ 
+ Cpo  =
+ 
+    2.  
+ 
+ T1  =
+ 
+    420.  
+ 
+ T2  =
+ 
+    320.  
+ 
+ Q  =
+ 
+    12.  
+ 
+ mw_dot  =
+ 
+    0.06  
+ 
+ t1  =
+ 
+    290.  
+ 
+ Cpw  =
+ 
+    4.18  
+ 
+ 
+ t2  =
+ 
+    337.84689  
+ 
+ dT1  =
+ 
+    82.15311  
+ 
+ dT2  =
+ 
+    30.  
+ 
+ dTm  =
+ 
+    51.770664  
+ 
+ ho  =
+ 
+    1.6  
+ 
+ hi  =
+ 
+    3.6  
+ 
+ 
+ U  =
+ 
+    1.1076923  
+ 
+ 
+ A  =
+ 
+    0.2092562  
+ 
+ Do  =
+ 
+    25.  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ L  =
+ 
+    2.6643329  
+ 
+
+Outlet temperature of water is 338.000000 K 
+ 
+Area of heat transfer required is 0.209256 sq m
+ 
+Length of tube required is 2.664333 m 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.26/3_26.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.14  
+ 
+ Cp  =
+ 
+    2.1  
+ 
+ Cp  =
+ 
+    2100.  
+ 
+ mu  =
+ 
+    154.  
+ 
+ mu_w  =
+ 
+    87.  
+ 
+ L  =
+ 
+    1.5  
+ 
+ m_dot  =
+ 
+    0.5  
+ 
+ Di  =
+ 
+    0.019  
+ 
+ mean_T  =
+ 
+    319.  
+ 
+ mu  =
+ 
+    0.154  
+ 
+ A  =
+ 
+    0.0002835  
+ 
+ G  =
+ 
+    1763.4897  
+ 
+ Nre  =
+ 
+    217.5734  
+ 
+ 
+ mu_w  =
+ 
+    0.087  
+ 
+ 
+ hi  =
+ 
+    272.96982  
+ 
+
+ The inside heat transfer coefficient is 272.969823 W/(m^2.K)  
+ 
+
+NOTE:Calculation mistake in last line.ie in the calculation of hi in book,please perform the calculation manually to check the answer
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.27/3_27.sce #
+ 
+ 
+ 
+ 
+ m_dot  =
+ 
+    0.217  
+ 
+ Do  =
+ 
+    19.  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ t  =
+ 
+    1.6  
+ 
+ Di  =
+ 
+    15.8  
+ 
+ Di  =
+ 
+    0.0158  
+ 
+ Do  =
+ 
+    0.019  
+ 
+ Ai  =
+ 
+    0.0001961  
+ 
+ u  =
+ 
+    1.1067657  
+ 
+ u  =
+ 
+    1.12  
+ 
+ Di  =
+ 
+    0.0157  
+ 
+ T1  =
+ 
+    301.  
+ 
+ T2  =
+ 
+    315.  
+ 
+ T  =
+ 
+    308.  
+ 
+ hi  =
+ 
+    5082.0475  
+ 
+ hi  =
+ 
+    5084.  
+ 
+5084.000000 
+ hio  =
+ 
+    4200.9895  
+ 
+4200.989474 
+Based on outside temperature,Inside heat transfer coefficient is  4201 W/(m^2.K) or 4.201000 kW/(m^2.K) 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.28/3_28.sce #
+ 
+ 
+ 
+ mair_dot  =
+ 
+    0.9  
+ 
+ T1  =
+ 
+    283.  
+ 
+ T2  =
+ 
+    366.  
+ 
+ dT  =
+ 
+    324.5  
+ 
+ Di  =
+ 
+    12.  
+ 
+ Di  =
+ 
+    0.012  
+ 
+ G  =
+ 
+    19.9  
+ 
+ mu  =
+ 
+    0.0198  
+ 
+ mu  =
+ 
+    0.0000198  
+ 
+ Nre  =
+ 
+    12060.606  
+ 
+ 
+ k  =
+ 
+    0.029  
+ 
+ Cp  =
+ 
+    1.  
+ 
+ Cp1  =
+ 
+    1000.  
+ 
+ Npr  =
+ 
+    0.6827586  
+ 
+ 
+ hi  =
+ 
+    87.851012  
+ 
+ ho  =
+ 
+    232.  
+ 
+ U  =
+ 
+    63.721652  
+ 
+ Q  =
+ 
+    74.7  
+ 
+ Q  =
+ 
+    74700.  
+ 
+ T  =
+ 
+    700.  
+ 
+ dT1  =
+ 
+    334.  
+ 
+ dT2  =
+ 
+    83.  
+ 
+ dTm  =
+ 
+    180.27719  
+ 
+ 
+ A  =
+ 
+    6.5026862  
+ 
+Heat transfer area of equipment is 6.502686 sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.29/3_29.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0000184  
+ 
+ k  =
+ 
+    0.02815  
+ 
+ Npr  =
+ 
+    0.7  
+ 
+ Beta  =
+ 
+    0.003077  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Tw  =
+ 
+    350.  
+ 
+ T_inf  =
+ 
+    300.  
+ 
+ dT  =
+ 
+    50.  
+ 
+ L  =
+ 
+    0.3  
+ 
+ 
+ Ngr  =
+ 
+    1.202D+08  
+ 
+ Npr  =
+ 
+    0.7  
+ 
+ 
+ Nnu  =
+ 
+    56.510896  
+ 
+ h  =
+ 
+    5.3026058  
+ 
+
+ In free convection,heat transfer coeff,h=5.302606 W/(sq m.K)
+ 
+ 
+ u_inf  =
+ 
+    4.  
+ 
+ Nre_l  =
+ 
+    65181.966  
+ 
+ Nnu  =
+ 
+    150.52125  
+ 
+ h  =
+ 
+    14.123911  
+ 
+
+ In forced convection,heat transfer coeff,h=14.123911 W/(sq m.K)
+ 
+
+ From above it is  that heat transfer coefficient in forced convection is much larger than that in free convection 
+   
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.30/3_30.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    0.02685  
+ 
+ v  =
+ 
+    0.0000165  
+ 
+ Npr  =
+ 
+    0.7  
+ 
+ Beta  =
+ 
+    0.00325  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ T_inf  =
+ 
+    283.  
+ 
+ dT  =
+ 
+    50.  
+ 
+ L  =
+ 
+    4.  
+ 
+ Ngr  =
+ 
+    3.747D+11  
+ 
+ 
+ const  =
+ 
+    2.623D+11  
+ 
+ 
+ Nnu  =
+ 
+    640.14373  
+ 
+ h  =
+ 
+    4.2969648  
+ 
+ h  =
+ 
+    4.3  
+ 
+ W  =
+ 
+    7.  
+ 
+ A  =
+ 
+    28.  
+ 
+ Q  =
+ 
+    6020.  
+ 
+
+Heat transferred is 6020 W
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.31/3_31.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.0000190  
+ 
+ k  =
+ 
+    0.02896  
+ 
+ Npr  =
+ 
+    0.696  
+ 
+ D  =
+ 
+    100.  
+ 
+ D  =
+ 
+    0.1  
+ 
+ Tf  =
+ 
+    333.  
+ 
+ Tw  =
+ 
+    373.  
+ 
+ T_inf  =
+ 
+    293.  
+ 
+ dT  =
+ 
+    80.  
+ 
+ Beta  =
+ 
+    0.0030030  
+ 
+ g  =
+ 
+    9.81  
+ 
+ L  =
+ 
+    3.  
+ 
+ Ngr  =
+ 
+    1.768D+11  
+ 
+ Nra  =
+ 
+    1.231D+11  
+ 
+ Nnu  =
+ 
+    497.41365  
+ 
+ h  =
+ 
+    4.8016998  
+ 
+ Q_by_l  =
+ 
+    120.67988  
+ 
+
+ Hence,Heat loss per metre length is 120.679878 W/m 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.32/3_32.sce #
+ 
+ 
+ 
+ k  =
+ 
+    0.63  
+ 
+ Beta  =
+ 
+    0.000304  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ mu  =
+ 
+    0.0008  
+ 
+ Cp  =
+ 
+    4.187  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Tw  =
+ 
+    313.  
+ 
+ T_inf  =
+ 
+    298.  
+ 
+ dT  =
+ 
+    15.  
+ 
+ D  =
+ 
+    20.  
+ 
+ D  =
+ 
+    0.02  
+ 
+ Ngr  =
+ 
+    559170.  
+ 
+ Cp1  =
+ 
+    4187.  
+ 
+ Npr  =
+ 
+    5.3168254  
+ 
+ 
+ Nnu  =
+ 
+    22.007714  
+ 
+ h  =
+ 
+    693.24299  
+ 
+ Q_by_l  =
+ 
+    653.36613  
+ 
+
+Heat loss per unit length of the heater is 653.366128 W/m 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.33/3_33.sce #
+ 
+ 
+ 
+ k  =
+ 
+    0.03406  
+ 
+ Beta  =
+ 
+    0.00247  
+ 
+ Npr  =
+ 
+    0.687  
+ 
+ v  =
+ 
+    0.0000265  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Tw  =
+ 
+    523.  
+ 
+ T_inf  =
+ 
+    288.  
+ 
+ dT  =
+ 
+    235.  
+ 
+ D  =
+ 
+    0.3048  
+ 
+ Ngr  =
+ 
+    2.289D+08  
+ 
+ Nra  =
+ 
+    1.573D+08  
+ 
+ 
+ Nnu  =
+ 
+    59.351852  
+ 
+ h  =
+ 
+    6.6322968  
+ 
+ 
+Heat loss of heat transfer per meter lengh is 1492.439211 W/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.34/3_34.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    960.63  
+ 
+ Cp  =
+ 
+    4216.  
+ 
+ D  =
+ 
+    16.  
+ 
+ D  =
+ 
+    0.16  
+ 
+ k  =
+ 
+    0.68  
+ 
+ A  =
+ 
+    0.0201062  
+ 
+ L  =
+ 
+    0.04  
+ 
+ Beta  =
+ 
+    0.00075  
+ 
+ alpha  =
+ 
+    0.0000002  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Tw  =
+ 
+    403.  
+ 
+ T_inf  =
+ 
+    343.  
+ 
+ dT  =
+ 
+    60.  
+ 
+ v  =
+ 
+    0.0000003  
+ 
+ Nra  =
+ 
+    5.720D+08  
+ 
+ 
+ 
+ Nnu  =
+ 
+    124.5163  
+ 
+ ht  =
+ 
+    2116.7772  
+ 
+ ht  =
+ 
+    2117.  
+ 
+ 
+ Nnu  =
+ 
+    41.755625  
+ 
+ hb  =
+ 
+    709.84562  
+ 
+ hb  =
+ 
+    710.  
+ 
+ 
+The rate of heat input is 3410.412454 W 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.35/3_35.sce #
+ 
+ 
+ 
+ v  =
+ 
+    0.00002  
+ 
+ Npr  =
+ 
+    0.7  
+ 
+ k  =
+ 
+    0.03  
+ 
+ D  =
+ 
+    0.25  
+ 
+ L  =
+ 
+    0.225  
+ 
+ T1  =
+ 
+    298.  
+ 
+ T2  =
+ 
+    403.  
+ 
+ dT  =
+ 
+    105.  
+ 
+ Tf  =
+ 
+    350.5  
+ 
+ Beta  =
+ 
+    0.0028531  
+ 
+ A  =
+ 
+    0.0490874  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ Ngr  =
+ 
+    83686971.  
+ 
+ Nnu  =
+ 
+    58.256343  
+ 
+ h  =
+ 
+    7.7675125  
+ 
+ Q  =
+ 
+    40.035122  
+ 
+
+ Heat transferred when hot surface is facing up is 40.035122 W
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    3.149499  
+ 
+ Q  =
+ 
+    16.23307  
+ 
+
+ Heat transferred when hot surface is facing down is 16.233070 W
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.36/3_36.sce #
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    960.  
+ 
+ Beta  =
+ 
+    0.00075  
+ 
+ k  =
+ 
+    0.68  
+ 
+ alpha  =
+ 
+    0.0000002  
+ 
+ v  =
+ 
+    0.0000003  
+ 
+ Cp  =
+ 
+    4.216  
+ 
+ Tw  =
+ 
+    403.  
+ 
+ T_inf  =
+ 
+    343.  
+ 
+ dT  =
+ 
+    60.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ l  =
+ 
+    0.8  
+ 
+ W  =
+ 
+    0.08  
+ 
+ A  =
+ 
+    0.064  
+ 
+ P  =
+ 
+    1.76  
+ 
+ L  =
+ 
+    0.0363636  
+ 
+ Nra  =
+ 
+    4.298D+08  
+ 
+ 
+ 
+ Nnu  =
+ 
+    113.19664  
+ 
+ ht  =
+ 
+    2116.7772  
+ 
+ ht  =
+ 
+    2115.3  
+ 
+ 
+ Nnu  =
+ 
+    38.875006  
+ 
+ hb  =
+ 
+    726.96262  
+ 
+ hb  =
+ 
+    727.  
+ 
+ 
+ Q  =
+ 
+    10914.432  
+ 
+
+ Rate of heat input is equal to heat dissipation =10914.432000 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.37/3_37.sce #
+ 
+ 
+ 
+ k  =
+ 
+    0.03  
+ 
+ Npr  =
+ 
+    0.697  
+ 
+ v  =
+ 
+    0.0000021  
+ 
+ Beta  =
+ 
+    0.002915  
+ 
+ 
+ D  =
+ 
+    0.25  
+ 
+ Tf  =
+ 
+    343.  
+ 
+ A  =
+ 
+    0.0490874  
+ 
+ P  =
+ 
+    0.7853982  
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    393.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ L  =
+ 
+    0.0625  
+ 
+ 
+ dT  =
+ 
+    100.  
+ 
+ Ngr  =
+ 
+    1.620D+08  
+ 
+ Nra  =
+ 
+    1.129D+08  
+ 
+ Nnu  =
+ 
+    72.502937  
+ 
+ h  =
+ 
+    34.80141  
+ 
+ Q  =
+ 
+    170.83102  
+ 
+
+Heat transferred when disc is horizontal with hot surface facing upward is 170.831020 W
+ 
+ 
+ 
+ Nnu  =
+ 
+    27.833128  
+ 
+ h  =
+ 
+    13.359902  
+ 
+ Q  =
+ 
+    65.580263  
+ 
+
+Heat transferred when disc is horizontal with hot surface facing downward is 65.580263 W
+ 
+ 
+ 
+ 
+ L  =
+ 
+    0.25  
+ 
+ D  =
+ 
+    0.25  
+ 
+ A  =
+ 
+    0.0490874  
+ 
+ Ngr  =
+ 
+    1.037D+10  
+ 
+ Npr  =
+ 
+    0.697  
+ 
+ Nra  =
+ 
+    7.227D+09  
+ 
+ Nnu  =
+ 
+    193.34116  
+ 
+ h  =
+ 
+    23.20094  
+ 
+ Q  =
+ 
+    113.88735  
+ 
+For vertical disc,heat transferred is 113.887347 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.38/3_38.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.1  
+ 
+ Nra  =
+ 
+    4733354.3  
+ 
+ Nnu  =
+ 
+    24.721119  
+ 
+ h  =
+ 
+    7.9354791  
+ 
+ h  =
+ 
+    7.93  
+ 
+ 
+ 
+ 
+ 
+ Q_by_l  =
+ 
+    831.08515  
+ 
+Total heat loss per metre length of pipe is 831.085151 W/m 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.39/3_39.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dT  =
+ 
+    170.  
+ 
+ 
+ 
+ Nra  =
+ 
+    5222.0822  
+ 
+ 
+ A  =
+ 
+    0.0003142  
+ 
+ Nnu  =
+ 
+    5.6553535  
+ 
+ h  =
+ 
+    19.793737  
+ 
+ Q  =
+ 
+    1.0571256  
+ 
+
+Rate of heat loss is 1.057126 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.40/3_40.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.0000179  
+ 
+ dT  =
+ 
+    60.  
+ 
+ k  =
+ 
+    0.0283  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Npr  =
+ 
+    0.698  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ Tf  =
+ 
+    323.  
+ 
+ Beta  =
+ 
+    0.0030960  
+ 
+ l  =
+ 
+    1.  
+ 
+ Nra  =
+ 
+    3.948D+09  
+ 
+ 
+ 
+ Nra  =
+ 
+    3.950D+08  
+ 
+ 
+ Nnu  =
+ 
+    83.176623  
+ 
+ h  =
+ 
+    2.3538984  
+ 
+ h  =
+ 
+    2.35  
+ 
+ A  =
+ 
+    1.  
+ 
+ 
+ Q1  =
+ 
+    564.  
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ L  =
+ 
+    0.25  
+ 
+ Nra  =
+ 
+    61682828.  
+ 
+ Nnu  =
+ 
+    59.266965  
+ 
+ h  =
+ 
+    6.7090204  
+ 
+ h  =
+ 
+    6.7  
+ 
+ Q2  =
+ 
+    402.  
+ 
+ Q_total  =
+ 
+    966.  
+ 
+
+ Therefore total heat loss is 966 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.41/3_41.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.0015  
+ 
+ 
+ Beta  =
+ 
+    0.0025773  
+ 
+ 
+ 
+ dT  =
+ 
+    170.  
+ 
+ v  =
+ 
+    0.0000249  
+ 
+ g  =
+ 
+    9.81  
+ 
+ hb  =
+ 
+    10.864969  
+ 
+ Qb  =
+ 
+    2.7705671  
+ 
+ 
+ Qa  =
+ 
+    3.1584465  
+ 
+
+Dimensions of the plate are 0.030000x0.050000 m
+ 
+
+Heat transfer when the bigger side held vertical is 2.770567 W
+ 
+
+Heat transfer when the small side held vertical is 3.158446 W
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.42/3_42.sce #
+ 
+ 
+ 
+ Ts  =
+ 
+    373.  
+ 
+ rho_l  =
+ 
+    957.9  
+ 
+ Cpl  =
+ 
+    4217.  
+ 
+ mu_l  =
+ 
+    0.000279  
+ 
+ rho_v  =
+ 
+    0.5955  
+ 
+ Csf  =
+ 
+    0.013  
+ 
+ sigma  =
+ 
+    0.0589  
+ 
+ Nprl  =
+ 
+    1.76  
+ 
+ lambda  =
+ 
+    2257.  
+ 
+ lambda  =
+ 
+    2257000.  
+ 
+ n  =
+ 
+    1.  
+ 
+ m_dot  =
+ 
+    30.  
+ 
+ m_dot  =
+ 
+    0.0083333  
+ 
+ D  =
+ 
+    30.  
+ 
+ D  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    9.81  
+ 
+ A  =
+ 
+    0.0706858  
+ 
+ Q_by_A  =
+ 
+    266083.49  
+ 
+ 
+ dT  =
+ 
+    12.478931  
+ 
+ Tw  =
+ 
+    385.47893  
+ 
+
+ Temperature of the bottom surface of the pan is 385.478931 W/(sq m) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.43/3_43.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    2257.  
+ 
+ lambda  =
+ 
+    2257000.  
+ 
+ rho_l  =
+ 
+    957.9  
+ 
+ rho_v  =
+ 
+    0.5955  
+ 
+ sigma  =
+ 
+    0.0589  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ Q_by_A_max  =
+ 
+    1105655.1  
+ 
+ Q_by_A_max  =
+ 
+    1.1056551  
+ 
+
+ Peak heat flux is 1.105655 MW/sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.44/3_44.sce #
+ 
+ 
+ 
+ rho_l  =
+ 
+    957.9  
+ 
+ lambda  =
+ 
+    2257.  
+ 
+ lambda  =
+ 
+    2257000.  
+ 
+ rho_v  =
+ 
+    31.54  
+ 
+ Cpv  =
+ 
+    4.64  
+ 
+ Cpv  =
+ 
+    4640.  
+ 
+ kv  =
+ 
+    0.0583  
+ 
+ g  =
+ 
+    9.81  
+ 
+ mu_v  =
+ 
+    0.0000186  
+ 
+ e  =
+ 
+    1.  
+ 
+ 
+ Ts  =
+ 
+    373.  
+ 
+ Tw  =
+ 
+    628.  
+ 
+ dT  =
+ 
+    255.  
+ 
+ D  =
+ 
+    0.0016  
+ 
+ T  =
+ 
+    500.5  
+ 
+ hc  =
+ 
+    1318.1938  
+ 
+ hr  =
+ 
+    30.280437  
+ 
+ h  =
+ 
+    1340.9041  
+ 
+ Q_by_l  =
+ 
+    1718.7304  
+ 
+
+ Stable film boiling point heat transfer coefficient is 1340.904078 W/(sq m.K) 
+ Q_by_l  =
+ 
+    1.7187304  
+ 
+
+ Heat dissipated per unit length of the heater is 1.718730 kW/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.45/3_45.sce #
+ 
+ 
+ 
+ dT  =
+ 
+    10.  
+ 
+ P  =
+ 
+    506.625  
+ 
+ P  =
+ 
+    0.506625  
+ 
+ D  =
+ 
+    25.4  
+ 
+ D  =
+ 
+    0.0254  
+ 
+ h  =
+ 
+    3521.2223  
+ 
+ 
+ 
+ Q_by_l  =
+ 
+    2809.8105  
+ 
+
+ Rate of heat transfer per 1m length of tube is 2810.000000 W/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.46/3_46.sce #
+ 
+ 
+ 
+ dT  =
+ 
+    8.  
+ 
+ P  =
+ 
+    0.17  
+ 
+ P  =
+ 
+    170.  
+ 
+ h1  =
+ 
+    2847.  
+ 
+ P1  =
+ 
+    101.325  
+ 
+ h  =
+ 
+    2846.72  
+ 
+ Q_by_A  =
+ 
+    22773.76  
+ 
+ hp  =
+ 
+    3501.3673  
+ 
+ 
+ Q_by_A1  =
+ 
+    28010.939  
+ 
+ per  =
+ 
+    22.996548  
+ 
+
+Heat flux when pressure  is 101.325 kPa is 22773.760000 W/sq m
+ 
+
+ Percent increase in heat flux is 23.000000  percent 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.47/3_47.sce #
+ 
+ 
+ 
+ mu  =
+ 
+    0.000306  
+ 
+ k  =
+ 
+    0.668  
+ 
+ rho  =
+ 
+    974.  
+ 
+ lambda  =
+ 
+    2225.  
+ 
+ lambda  =
+ 
+    2225000.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Ts  =
+ 
+    373.  
+ 
+ Tw  =
+ 
+    357.  
+ 
+ dT  =
+ 
+    16.  
+ 
+ Do  =
+ 
+    25.  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ h  =
+ 
+    10864.362  
+ 
+ Q_by_l  =
+ 
+    13652.56  
+ 
+ m_dot_byl  =
+ 
+    0.0061360  
+ 
+ m_dot_byl  =
+ 
+    22.089535  
+ 
+ 
+
+Mean heat transfer coefficient is 10864.362131 W/(sq m.K)
+ 
+
+Heat transfer per unit length is 13652.560103 W/m
+ 
+
+Condensate rate per unit length is 22.089535 kg/h 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.48/3_48.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    960.  
+ 
+ mu  =
+ 
+    0.000282  
+ 
+ k  =
+ 
+    0.68  
+ 
+ lambda  =
+ 
+    2255.  
+ 
+ lambda  =
+ 
+    2255000.  
+ 
+ Ts  =
+ 
+    373.  
+ 
+ Tw  =
+ 
+    371.  
+ 
+ dT  =
+ 
+    2.  
+ 
+ L  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    9.81  
+ 
+ h  =
+ 
+    13156.27  
+ 
+ A  =
+ 
+    0.09  
+ 
+ Q  =
+ 
+    2368.1287  
+ 
+ m_dot  =
+ 
+    0.0010502  
+ 
+ m_dot  =
+ 
+    3.7806045  
+ 
+
+ Average heat transfer coefficient is 13156.270448 W/(sq m.K)
+ 
+
+Heat transfer rate is 2368.128681 J/kg
+ 
+
+ Steam condensate rate per hour is 3.780605 kg/h
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.49/3_49.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    1174.  
+ 
+ k  =
+ 
+    0.069  
+ 
+ mu  =
+ 
+    0.00025  
+ 
+ lambda  =
+ 
+    132000.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Ts  =
+ 
+    323.  
+ 
+ Tw  =
+ 
+    313.  
+ 
+ dT  =
+ 
+    10.  
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ Do  =
+ 
+    12.  
+ 
+ Do  =
+ 
+    0.012  
+ 
+ h  =
+ 
+    1077.8896  
+ 
+ 
+ A  =
+ 
+    0.1507964  
+ 
+ A  =
+ 
+    0.603  
+ 
+ Q  =
+ 
+    6499.6745  
+ 
+ m_dot  =
+ 
+    0.0492400  
+ 
+ m_dot  =
+ 
+    0.049  
+ 
+ m_dot  =
+ 
+    176.4  
+ 
+
+ Rate of condensation per unit length is 176.400000 kg/h 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.50/3_50.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    960.  
+ 
+ k  =
+ 
+    0.68  
+ 
+ mu  =
+ 
+    0.000282  
+ 
+ Tw  =
+ 
+    371.  
+ 
+ Ts  =
+ 
+    373.  
+ 
+ dT  =
+ 
+    2.  
+ 
+ lambda  =
+ 
+    2256.9  
+ 
+ lambda  =
+ 
+    2256900.  
+ 
+ 
+ Do  =
+ 
+    0.0125  
+ 
+ g  =
+ 
+    9.81  
+ 
+ n  =
+ 
+    10.  
+ 
+ h  =
+ 
+    12592.251  
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ 
+ 
+ A  =
+ 
+    3.9269908  
+ 
+ Q  =
+ 
+    98899.305  
+ 
+ ms_dot  =
+ 
+    0.0438209  
+ 
+ ms_dot  =
+ 
+    157.75511  
+ 
+
+ Mass rate of steam condensation is 158 kg/h
+ 
+ 
+
+ NOTE:ERROR in Solution in book.Do is wrongly taken as 0.012 in lines 17 and 22 of the book,Also A is wrongly calculated
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.51/3_51.sce #
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    975.  
+ 
+ k  =
+ 
+    0.871  
+ 
+ dT  =
+ 
+    10.  
+ 
+ mu  =
+ 
+    0.0003805  
+ 
+ lambda  =
+ 
+    2300.  
+ 
+ lambda  =
+ 
+    2300000.  
+ 
+ Do  =
+ 
+    100.  
+ 
+ Do  =
+ 
+    0.1  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ h1  =
+ 
+    10071.971  
+ 
+ 
+ 
+ h2  =
+ 
+    10071.971  
+ 
+ 
+ L  =
+ 
+    0.2862166  
+ 
+ L  =
+ 
+    0.29  
+ 
+ h  =
+ 
+    10038.959  
+ 
+ A  =
+ 
+    0.0911062  
+ 
+ Q  =
+ 
+    9146.1124  
+ 
+ mc_dot  =
+ 
+    0.0039766  
+ 
+ mc_dot  =
+ 
+    14.315654  
+ 
+
+ Tube length is 0.290000 m
+ 
+
+ Rate of condemsation per hour is 14.315654 kg/h 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.52/3_52.sce #
+ 
+ 
+ 
+ m1_dot  =
+ 
+    50.  
+ 
+ Do  =
+ 
+    10.  
+ 
+ Do  =
+ 
+    0.01  
+ 
+ L  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m2_dot  =
+ 
+    36.571577  
+ 
+
+ For vertical position,Rate of condensationis 36.571577 kg/h 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH3/EX3.53/3_53.sce #
+ 
+ 
+ rho  =
+ 
+    975.  
+ 
+ k  =
+ 
+    0.671  
+ 
+ mu  =
+ 
+    0.00038  
+ 
+ dT  =
+ 
+    10.  
+ 
+ lambda  =
+ 
+    2300000.  
+ 
+ L  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ h  =
+ 
+    6059.8127  
+ 
+ 
+
+ (i)- Average heat transfer coefficient is 6060 W/(m^2.K)
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.5  
+ 
+ h  =
+ 
+    5403.6848  
+ 
+
+ (ii)-Local heat transfer coefficient at 0.5 m height is 5404 W/(sq m.K)
+ 
+ delta  =
+ 
+    0.0001242  
+ 
+ delta  =
+ 
+    0.1241745  
+ 
+
+ (iii)-Film thickness is 0.124175 mm 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.1/4_1.sce #
+ 
+ 
+ 
+ e  =
+ 
+    0.9  
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ T1  =
+ 
+    377.  
+ 
+ T2  =
+ 
+    283.  
+ 
+ Qr_by_a  =
+ 
+    703.52023  
+ 
+Heat loss by radiation is 704 W/sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.2/4_2.sce #
+ 
+ 
+ 
+ e  =
+ 
+    0.9  
+ 
+ T1  =
+ 
+    393.  
+ 
+ T2  =
+ 
+    293.  
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ Qr_by_a  =
+ 
+    841.20112  
+ 
+
+ Rate of heat transfer by radiation is 841.201116 W/sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.3/4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.1884956  
+ 
+ A  =
+ 
+    0.189  
+ 
+ Qr  =
+ 
+    205.02928  
+ 
+
+ Net radiaiton rate per 1 metre length of pipe is 205 W/m 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.4/4_4.sce #
+ 
+ 
+ 
+ e  =
+ 
+    0.9  
+ 
+ L  =
+ 
+    1.  
+ 
+ Do  =
+ 
+    50.  
+ 
+ Do  =
+ 
+    0.05  
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ T1  =
+ 
+    415.  
+ 
+ T2  =
+ 
+    290.  
+ 
+ dT  =
+ 
+    125.  
+ 
+ hc  =
+ 
+    8.34386  
+ 
+ A  =
+ 
+    0.1570796  
+ 
+ Qc  =
+ 
+    163.83131  
+ 
+ Qr  =
+ 
+    181.06543  
+ 
+ Qt  =
+ 
+    344.89674  
+ 
+
+ Total heat loss by convection is 344.896739 W/m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.5/4_5.sce #
+ 
+ 
+ 
+ e  =
+ 
+    0.85  
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ T1  =
+ 
+    443.  
+ 
+ T2  =
+ 
+    290.  
+ 
+ dT  =
+ 
+    153.  
+ 
+ hc  =
+ 
+    5.7678865  
+ 
+ Do  =
+ 
+    60.  
+ 
+ Do  =
+ 
+    0.06  
+ 
+ L  =
+ 
+    6.  
+ 
+ A  =
+ 
+    1.1309734  
+ 
+ Qr  =
+ 
+    1713.7552  
+ 
+ Qc  =
+ 
+    998.06887  
+ 
+ Qt  =
+ 
+    2711.824  
+ 
+
+ Total heat loss is 2712 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.6/4_6.sce #
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ 
+ 
+ 
+ 
+ D  =
+ 
+    70.  
+ 
+ D  =
+ 
+    0.07  
+ 
+ L  =
+ 
+    3.  
+ 
+ W  =
+ 
+    0.3  
+ 
+ A1  =
+ 
+    0.6597345  
+ 
+ A1  =
+ 
+    0.659  
+ 
+ A2  =
+ 
+    3.6  
+ 
+ Q  =
+ 
+    1588.5202  
+ 
+
+ Heat lost by radiation is 1588.520223 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.7/4_7.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ T1  =
+ 
+    703.  
+ 
+ T2  =
+ 
+    513.  
+ 
+ e1  =
+ 
+    0.85  
+ 
+ e2  =
+ 
+    0.75  
+ 
+ Q_by_Ar  =
+ 
+    6571.4676  
+ 
+
+ Net radiant interchange per square metre is 6571 W/sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.8/4_8.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    9.  
+ 
+ 
+ 
+ 
+ 
+ 
+ F12  =
+ 
+    0.5822785  
+ 
+ Q  =
+ 
+    2899.7434  
+ 
+
+ Net radiant interchange is 2900 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.9/4_9.sce #
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ e1  =
+ 
+    0.05  
+ 
+ e2  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ F12  =
+ 
+    0.0256410  
+ 
+ T1  =
+ 
+    368.  
+ 
+ T2  =
+ 
+    293.  
+ 
+ Q_by_A  =
+ 
+    15.948124  
+ 
+
+Rate of heat loss when of silvered surface is 15.948124 W/sq m 
+ 
+ 
+ 
+ F12  =
+ 
+    1.  
+ 
+ Q_by_A  =
+ 
+    621.97683  
+ 
+
+ When both surfaces are black,Rate of heat loss  is 622 W/sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.10/4_10.sce #
+ 
+ 
+ 
+ e1  =
+ 
+    0.05  
+ 
+ e2  =
+ 
+    0.05  
+ 
+ 
+ 
+ T1  =
+ 
+    293.  
+ 
+ T2  =
+ 
+    90.  
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ D  =
+ 
+    0.3  
+ 
+ 
+ F12  =
+ 
+    0.0301263  
+ 
+ Q_by_A  =
+ 
+    12.477158  
+ 
+ Q  =
+ 
+    3.5278333  
+ 
+ Q  =
+ 
+    12.7002  
+ 
+ lambda  =
+ 
+    21.44  
+ 
+ m_dot  =
+ 
+    0.5923601  
+ 
+
+ The liquid oxygen will evaporate at 0.592360 kg/h 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.11/4_11.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ 
+ 
+ D1  =
+ 
+    0.3  
+ 
+ D2  =
+ 
+    0.5  
+ 
+ T1  =
+ 
+    90.  
+ 
+ T2  =
+ 
+    313.  
+ 
+ A1  =
+ 
+    0.2827433  
+ 
+ A2  =
+ 
+    0.7853982  
+ 
+ Q1  =
+ 
+  - 36.617674  
+ 
+ 
+
+ Rate of heat flow due to radiation is 36.617674 W 
+ 
+ e1  =
+ 
+    0.05  
+ 
+ e2  =
+ 
+    0.5  
+ 
+ Q2  =
+ 
+  - 7.3329059  
+ 
+ Q2  =
+ 
+    7.3329059  
+ 
+ Red  =
+ 
+    79.974408  
+ 
+
+ Reduction in heat flow will be 79.974408 percent  
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.12/4_12.sce #
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ T1  =
+ 
+    77.  
+ 
+ T2  =
+ 
+    303.  
+ 
+ D1  =
+ 
+    32.  
+ 
+ D1  =
+ 
+    0.32  
+ 
+ D2  =
+ 
+    36.  
+ 
+ D2  =
+ 
+    0.36  
+ 
+ A1  =
+ 
+    0.3216991  
+ 
+ A2  =
+ 
+    0.4071504  
+ 
+ 
+ 
+ Q  =
+ 
+  - 2.6002536  
+ 
+ Q  =
+ 
+  - 9.3609131  
+ 
+ 
+ lambda  =
+ 
+    201.  
+ 
+ m_dot  =
+ 
+    0.0465717  
+ 
+
+ Nitrogen evaporates at 0.046572 kg/h 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.13/4_13.sce #
+ 
+ 
+ 
+ 
+ D1  =
+ 
+    250.  
+ 
+ D1  =
+ 
+    0.25  
+ 
+ D2  =
+ 
+    350.  
+ 
+ D2  =
+ 
+    0.35  
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ A1  =
+ 
+    0.1963495  
+ 
+ A2  =
+ 
+    0.3848451  
+ 
+ T1  =
+ 
+    76.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ 
+ 
+ Q  =
+ 
+  - 2.4112304  
+ 
+ Q  =
+ 
+  - 2.45  
+ 
+ Q  =
+ 
+    2.45  
+ 
+ Q  =
+ 
+    8.82  
+ 
+ lambda  =
+ 
+    200.  
+ 
+ Rate  =
+ 
+    0.0441  
+ 
+
+ Rate of evaporation is 0.044100 kg/h(approx) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.15/4_15.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ e1  =
+ 
+    0.4  
+ 
+ e3  =
+ 
+    0.2  
+ 
+ T1  =
+ 
+    473.  
+ 
+ T3  =
+ 
+    303.  
+ 
+ Q_by_a  =
+ 
+    363.10482  
+ 
+ 
+ e2  =
+ 
+    0.5  
+ 
+ 
+ T2  =
+ 
+    431.65954  
+ 
+ Q1_by_a  =
+ 
+    248.44014  
+ 
+ red  =
+ 
+    31.578947  
+ 
+
+Heat transfer rate per unit area(WITHOUT SHIELD) due to radiation is 363.104820 W/sq m
+ 
+
+Heat transfer rate per unit area(WITH SHIELD) due to radiation is 248.440140 W/sq m
+ 
+
+Reduction in heat loss is 31.578947 percent 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.16/4_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ta  =
+ 
+    600.  
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tc  =
+ 
+    560.94  
+ 
+ Td  =
+ 
+    461.7339  
+ 
+ Q_by_a  =
+ 
+    770.9451  
+ 
+
+Rate of heat exchange per unit area=770.945097 W/m^2 
+
+Steady state temperatures,Tc=560.940000 K,and Td=461.733901 K 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.17/4_17.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ e  =
+ 
+    0.8  
+ 
+ 
+ 
+ Do  =
+ 
+    200.  
+ 
+ Do  =
+ 
+    0.2  
+ 
+ L  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    0.6283185  
+ 
+ 
+ 
+ Q1  =
+ 
+    5606.5039  
+ 
+ Q1  =
+ 
+    5600.  
+ 
+ 
+ 
+ 
+ 
+ D1  =
+ 
+    0.2  
+ 
+ D2  =
+ 
+    0.4  
+ 
+ Q2  =
+ 
+    5390.4145  
+ 
+ Red  =
+ 
+    209.58553  
+ 
+ 
+
+Due to thermal radiaiton,Loss of heat to surrounding is 5600 W/m
+ 
+
+When pipe is end in 1 400 mm diameter brick conduit,Loss of heat is 5390 W/m
+ 
+
+ Reduction in heat loss is 210 W/m
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.18/4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q_by_a1  =
+ 
+    6228.8061  
+ 
+
+ Heat transfer by radiaiton is 6228 W/sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.19/4_19.sce #
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ A1  =
+ 
+    0.5  
+ 
+ F12  =
+ 
+    0.285  
+ 
+ T1  =
+ 
+    1273.  
+ 
+ T2  =
+ 
+    773.  
+ 
+ Q  =
+ 
+    18333.545  
+ 
+
+ Net radiant heat exchange between plates is 18333 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.20/4_20.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ T1  =
+ 
+    750.  
+ 
+ T2  =
+ 
+    500.  
+ 
+ 
+ 
+ 
+ 
+ Q_by_a  =
+ 
+    6169.9219  
+ 
+ 
+ 
+ R1  =
+ 
+    0.3333333  
+ 
+ 
+ 
+ R2  =
+ 
+    1.  
+ 
+ 
+ e3  =
+ 
+    0.05  
+ 
+ R3  =
+ 
+    19.  
+ 
+ 
+ R4  =
+ 
+    19.  
+ 
+ 
+ 
+ R5  =
+ 
+    1.  
+ 
+ 
+ R6  =
+ 
+    1.  
+ 
+ 
+ Total_R  =
+ 
+    41.333333  
+ 
+ 
+ Q_by_as  =
+ 
+    348.30204  
+ 
+ 
+ Red  =
+ 
+    94.354839  
+ 
+ 
+
+ Reduction in heat transfer rate as a result of radiaiotn shield is 94.354839 percent 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.21/4_21.sce #
+ 
+ 
+ 
+ e1  =
+ 
+    0.3  
+ 
+ e2  =
+ 
+    0.8  
+ 
+ 
+ 
+ Q_by_A  =
+ 
+    0.2790698  
+ 
+ 
+ 
+ e3  =
+ 
+    0.04  
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    2.3333333  
+ 
+ R2  =
+ 
+    1.  
+ 
+ R3  =
+ 
+    24.  
+ 
+ R4  =
+ 
+    24.  
+ 
+ R5  =
+ 
+    1.  
+ 
+ R6  =
+ 
+    0.25  
+ 
+ R  =
+ 
+    52.583333  
+ 
+ Q_by_As  =
+ 
+    0.0190174  
+ 
+ red  =
+ 
+    93.18542  
+ 
+
+ The heat transfer is reduced by 93.185420 percent due to shield 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.22/4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    1273.  
+ 
+ T2  =
+ 
+    773.  
+ 
+ T3  =
+ 
+    300.  
+ 
+ A1  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+  - 1.  
+ 
+ R2  =
+ 
+  - 1.  
+ 
+ R3  =
+ 
+    7.0175439  
+ 
+ R4  =
+ 
+    2.7972028  
+ 
+ R5  =
+ 
+    2.7972028  
+ 
+ R6  =
+ 
+    0.  
+ 
+ 
+ Eb1  =
+ 
+    148900.68  
+ 
+ Eb2  =
+ 
+    20244.219  
+ 
+ Eb3  =
+ 
+    459.27  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ J1  =
+ 
+    33515.  
+ 
+ J2  =
+ 
+    15048.  
+ 
+ J3  =
+ 
+    459.27  
+ 
+ Q1  =
+ 
+    14423.21  
+ 
+ Q2  =
+ 
+    2598.1097  
+ 
+ Q3  =
+ 
+    17032.894  
+ 
+
+ Total heat lost by plate 1 is 14423.209675 W/sq m
+ 
+
+ Total heat lost by plate 2 is 2598.109681 W/sq m
+ 
+
+The net energy lost by both plates must be absorbed by the room,
+ 17032.894450=17021.319355 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.23/4_23.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ 
+ 
+ T1  =
+ 
+    866.5  
+ 
+ T2  =
+ 
+    588.8  
+ 
+ Q_by_A  =
+ 
+    13541.717  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ Q_by_A  =
+ 
+    4513.9056  
+ 
+
+ New Radiaiton loss is 4513.905606 W/sq m 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH4/EX4.24/4_24.sce #
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    5.670D-08  
+ 
+ 
+ 
+ T1  =
+ 
+    100.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ r1  =
+ 
+    0.015  
+ 
+ r2  =
+ 
+    0.045  
+ 
+ L  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    0.0942478  
+ 
+ Q_by_L  =
+ 
+  - 4.1821428  
+ 
+ 
+ 
+ 
+ 
+ r3  =
+ 
+    0.0225  
+ 
+ Qs_by_L  =
+ 
+  - 1.4464554  
+ 
+ red  =
+ 
+    65.413534  
+ 
+ 
+ 
+ A3  =
+ 
+    0.1413717  
+ 
+ A2  =
+ 
+    0.2827433  
+ 
+ 
+ 
+ R1  =
+ 
+    77.809083  
+ 
+ R2  =
+ 
+    10.61033  
+ 
+ R3  =
+ 
+    63.661977  
+ 
+ R4  =
+ 
+    134.39751  
+ 
+ R5  =
+ 
+    7.073553  
+ 
+ R6  =
+ 
+    20.041734  
+ 
+ 
+ Qs  =
+ 
+  - 1.4464554  
+ 
+
+ With cylindrical radiaiton shield Heat gained by fluid per 1 m lengh of tube is -1.446455 W/m
+ 
+
+Percent reduction in heat gain is 65.413534 percent
+ 
+
+With radiaiton network approach -1.446455 W/sqm  
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Di  =
+ 
+    35.  
+ 
+ Di  =
+ 
+    0.035  
+ 
+ Do  =
+ 
+    42.  
+ 
+ Do  =
+ 
+    0.042  
+ 
+ 
+ mb_dot  =
+ 
+    4450.  
+ 
+ Cpb  =
+ 
+    1.779  
+ 
+ t2  =
+ 
+    322.  
+ 
+ t1  =
+ 
+    300.  
+ 
+ Q  =
+ 
+    174164.1  
+ 
+ 
+ 
+ T1  =
+ 
+    344.  
+ 
+ T2  =
+ 
+    311.  
+ 
+ Cpt  =
+ 
+    1.842  
+ 
+ mt_dot  =
+ 
+    2865.2009  
+ 
+ Q  =
+ 
+    48378.917  
+ 
+ 
+ 
+ dT1  =
+ 
+    22.  
+ 
+ dT2  =
+ 
+    11.  
+ 
+ dTlm  =
+ 
+    15.869645  
+ 
+ 
+ 
+ Di  =
+ 
+    0.035  
+ 
+ Ai  =
+ 
+    0.0009621  
+ 
+ Gi  =
+ 
+    4625237.5  
+ 
+ Gi  =
+ 
+    1284.7882  
+ 
+ mu  =
+ 
+    0.000409  
+ 
+ Nre  =
+ 
+    109945.2  
+ 
+ 
+ Cp  =
+ 
+    1779.  
+ 
+ k  =
+ 
+    0.147  
+ 
+ Npr  =
+ 
+    4.9497347  
+ 
+ hi  =
+ 
+    1975.8361  
+ 
+ hio  =
+ 
+    1646.5301  
+ 
+ D1  =
+ 
+    0.042  
+ 
+ D2  =
+ 
+    0.0525  
+ 
+ De  =
+ 
+    0.023625  
+ 
+ De  =
+ 
+    0.0236  
+ 
+ aa  =
+ 
+    0.0007793  
+ 
+ Ga  =
+ 
+    3676580.5  
+ 
+ Ga  =
+ 
+    1021.2724  
+ 
+ mu  =
+ 
+    0.000501  
+ 
+ Nre  =
+ 
+    48107.84  
+ 
+ Npr  =
+ 
+    6.0631224  
+ 
+ ho  =
+ 
+    1369.9817  
+ 
+ Uc  =
+ 
+    747.78957  
+ 
+ Rdi  =
+ 
+    0.00016  
+ 
+ Rdo  =
+ 
+    0.00016  
+ 
+ Rd  =
+ 
+    0.00032  
+ 
+ Ud  =
+ 
+    603.40031  
+ 
+ A  =
+ 
+    5.0522332  
+ 
+ ex  =
+ 
+    0.136  
+ 
+ l  =
+ 
+    37.148773  
+ 
+ tl  =
+ 
+    12.  
+ 
+b37.148773 
+
+Required surface is fulfilled by connecting 3(three) 6m harpins in series
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.2/5_2.sce #
+ 
+ 
+ 
+ ma_dot  =
+ 
+    12500.  
+ 
+ mw_dot  =
+ 
+    20833.333  
+ 
+ Cp1  =
+ 
+    1.465  
+ 
+ T1  =
+ 
+    333.  
+ 
+ T2  =
+ 
+    313.  
+ 
+ Q  =
+ 
+    366250.  
+ 
+ Q  =
+ 
+    101736.11  
+ 
+ Cp2  =
+ 
+    4.187  
+ 
+ t1  =
+ 
+    288.  
+ 
+ t2  =
+ 
+    289.16631  
+ 
+ dT1  =
+ 
+    43.833692  
+ 
+ dT2  =
+ 
+    25.  
+ 
+ dTlm  =
+ 
+    33.540141  
+ 
+ dTlm  =
+ 
+    32.26  
+ 
+ 
+ m_dot  =
+ 
+    12500.  
+ 
+ Di  =
+ 
+    0.075  
+ 
+ Ai  =
+ 
+    0.0044179  
+ 
+ G  =
+ 
+    2829421.2  
+ 
+ G  =
+ 
+    785.95034  
+ 
+ mu  =
+ 
+    0.0112  
+ 
+ k  =
+ 
+    0.302  
+ 
+ Nre  =
+ 
+    5263.0603  
+ 
+ Npr  =
+ 
+    54.331126  
+ 
+ hi  =
+ 
+    291.19157  
+ 
+ Do  =
+ 
+    0.1  
+ 
+ hio  =
+ 
+    218.39368  
+ 
+ D1  =
+ 
+    0.1  
+ 
+ D2  =
+ 
+    0.125  
+ 
+ De  =
+ 
+    0.05625  
+ 
+ Aa  =
+ 
+    0.0044179  
+ 
+ Ga  =
+ 
+    4715702.  
+ 
+ Ga  =
+ 
+    1309.9172  
+ 
+ mu  =
+ 
+    0.0011  
+ 
+ Nre  =
+ 
+    66984.404  
+ 
+ k  =
+ 
+    0.669  
+ 
+ Npr  =
+ 
+    6.8844544  
+ 
+ ho  =
+ 
+    4294.9508  
+ 
+ xw  =
+ 
+    0.0125  
+ 
+ Dw  =
+ 
+    0.0869015  
+ 
+ kw  =
+ 
+    46.52  
+ 
+ Uc  =
+ 
+    195.27737  
+ 
+ Ud  =
+ 
+    195.27737  
+ 
+ Ud  =
+ 
+    195.32  
+ 
+ A  =
+ 
+    16.145967  
+ 
+ 
+ L  =
+ 
+    51.394208  
+ 
+
+Area =16.145967 m^2,
+Length fo pipe required =51.394208 m(approx) 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.3/5_3.sce #
+ 
+ 
+ 
+ 
+ me_dot1  =
+ 
+    1.5277778  
+ 
+ 
+ Ai  =
+ 
+    0.0010752  
+ 
+ G  =
+ 
+    1420.9109  
+ 
+ 
+ Nre  =
+ 
+    15462.854  
+ 
+ 
+ Cp1  =
+ 
+    2680.  
+ 
+ 
+ Npr  =
+ 
+    36.741935  
+ 
+ 
+ Nnu  =
+ 
+    152.3029  
+ 
+ hi  =
+ 
+    1020.8411  
+ 
+ T2  =
+ 
+    358.  
+ 
+ T1  =
+ 
+    341.  
+ 
+ Cp2  =
+ 
+    1.8  
+ 
+ t2  =
+ 
+    335.  
+ 
+ t1  =
+ 
+    303.  
+ 
+ mt_dot  =
+ 
+    4350.3472  
+ 
+ mt_dot  =
+ 
+    1.2084298  
+ 
+ D1  =
+ 
+    0.043  
+ 
+ D2  =
+ 
+    0.064  
+ 
+ De  =
+ 
+    0.0522558  
+ 
+ Aa  =
+ 
+    0.0017648  
+ 
+ Ga  =
+ 
+    684.74436  
+ 
+ mu2  =
+ 
+    0.00044  
+ 
+ k2  =
+ 
+    0.146  
+ 
+ Cp2  =
+ 
+    1800.  
+ 
+ Nre  =
+ 
+    81322.441  
+ 
+ Npr  =
+ 
+    5.4246575  
+ 
+ Nnu  =
+ 
+    383.39381  
+ 
+ ho  =
+ 
+    1071.1822  
+ 
+ Dw  =
+ 
+    0.0399249  
+ 
+ x  =
+ 
+    0.003  
+ 
+ Uo  =
+ 
+    466.97562  
+ 
+ dT1  =
+ 
+    38.  
+ 
+ dT2  =
+ 
+    23.  
+ 
+ dTlm  =
+ 
+    29.875006  
+ 
+ Q  =
+ 
+    69.605556  
+ 
+ Q  =
+ 
+    69605.556  
+ 
+ L  =
+ 
+    36.933746  
+ 
+
+Total lenggth of double pipe heat exchanger is 36.933746 m 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.4/5_4.sce #
+ 
+ 
+ 
+ mc_dot  =
+ 
+    1000.  
+ 
+ mc_dot  =
+ 
+    0.2777778  
+ 
+ mh_dot  =
+ 
+    250.  
+ 
+ mh_dot  =
+ 
+    0.0694444  
+ 
+ Cpc  =
+ 
+    4187.  
+ 
+ Cph  =
+ 
+    3350.  
+ 
+ w  =
+ 
+    1163.0556  
+ 
+ l  =
+ 
+    232.63889  
+ 
+ C  =
+ 
+    0.2000239  
+ 
+ U  =
+ 
+    1160.  
+ 
+ A  =
+ 
+    0.25  
+ 
+ ntu  =
+ 
+    1.2465672  
+ 
+ E  =
+ 
+    0.6466167  
+ 
+ T1  =
+ 
+    393.  
+ 
+ t1  =
+ 
+    283.  
+ 
+ T2  =
+ 
+    321.87217  
+ 
+ 
+ t2  =
+ 
+    297.22727  
+ 
+
+
+Effectiveness of heat exchanger is 0.646617
+ 
+
+Outlet temperature of hot liquid is 321.872166
+ 
+
+Outlet temperature of water is 297.227266
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.5/5_5.sce #
+ 
+ 
+ 
+ 
+ Cpc  =
+ 
+    4187.  
+ 
+ Cph  =
+ 
+    2000.  
+ 
+ mc_dot  =
+ 
+    0.3611111  
+ 
+ mh_dot  =
+ 
+    0.1527778  
+ 
+ w  =
+ 
+    1511.9722  
+ 
+ o  =
+ 
+    305.55556  
+ 
+ 
+ U  =
+ 
+    1075.  
+ 
+ A  =
+ 
+    1.  
+ 
+ ntu  =
+ 
+    3.5181818  
+ 
+ C  =
+ 
+    0.2020907  
+ 
+ E  =
+ 
+    0.9512317  
+ 
+ T1  =
+ 
+    367.  
+ 
+ t1  =
+ 
+    288.  
+ 
+ T2  =
+ 
+    291.8527  
+ 
+ T2  =
+ 
+    291.83  
+ 
+ t2  =
+ 
+    303.19116  
+ 
+ Q  =
+ 
+    22968.611  
+ 
+
+
+Effectiveness of exchanger is 0.951232
+ 
+
+Outlet temperature of oil is 291.830000 K
+ 
+
+Outlet temperature of water is 303.191159 K
+ 
+
+Rate of heat transfer is 22968.611111 W 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.6/5_6.sce #
+ 
+ 
+ 
+
+LMTD Approach
+ 
+ 
+ Cph  =
+ 
+    4187.  
+ 
+ mh_dot  =
+ 
+    0.1666667  
+ 
+ mc_dot  =
+ 
+    0.4166667  
+ 
+ Cpc  =
+ 
+    4187.  
+ 
+ T1  =
+ 
+    343.  
+ 
+ T2  =
+ 
+    323.  
+ 
+ Q  =
+ 
+    13956.667  
+ 
+ t1  =
+ 
+    298.  
+ 
+ t2  =
+ 
+    306.  
+ 
+ dT1  =
+ 
+    45.  
+ 
+ dT2  =
+ 
+    17.  
+ 
+ dTlm  =
+ 
+    28.763701  
+ 
+ hi  =
+ 
+    1600.  
+ 
+ ho  =
+ 
+    1600.  
+ 
+ U  =
+ 
+    800.  
+ 
+ A  =
+ 
+    0.6065226  
+ 
+ 
+
+Effectiveness-NTU approach
+ 
+ 
+ 
+ h  =
+ 
+    697.83333  
+ 
+ c  =
+ 
+    1744.5833  
+ 
+ 
+ C  =
+ 
+    0.4  
+ 
+ E  =
+ 
+    0.4444444  
+ 
+ 
+ ntu  =
+ 
+    0.6953208  
+ 
+ A2  =
+ 
+    0.6065226  
+ 
+ t2  =
+ 
+    306.  
+ 
+
+ By LMTD approach area of heat exchanger is 0.606523 sq m
+ 
+
+By Ntu approach Area of heat exchanger is 0.606523 sq  m
+ 
+
+ Outlet temperature of cold water=306.000000 K
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.7/5_7.sce #
+ 
+ 
+ 
+ mw_dot  =
+ 
+    10.  
+ 
+ Cpw  =
+ 
+    4.187  
+ 
+ t2  =
+ 
+    318.  
+ 
+ t1  =
+ 
+    295.  
+ 
+ Q  =
+ 
+    963.01  
+ 
+ Q  =
+ 
+    963010.  
+ 
+ dT1  =
+ 
+    98.  
+ 
+ dT2  =
+ 
+    75.  
+ 
+ dTlm  =
+ 
+    85.987941  
+ 
+ hi  =
+ 
+    850.  
+ 
+ id  =
+ 
+    0.027  
+ 
+ od  =
+ 
+    0.031  
+ 
+ hio  =
+ 
+    740.32258  
+ 
+ ho  =
+ 
+    6000.  
+ 
+ Uo  =
+ 
+    659.00933  
+ 
+ Ao  =
+ 
+    16.994237  
+ 
+ L  =
+ 
+    4.  
+ 
+ n  =
+ 
+    43.624466  
+ 
+
+ Number of tubes required = 44
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.8/5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dT1  =
+ 
+    55.  
+ 
+ dT2  =
+ 
+    12.  
+ 
+ dTlm  =
+ 
+    28.244384  
+ 
+ Q  =
+ 
+    1436377.3  
+ 
+ Q  =
+ 
+    398993.68  
+ 
+ 
+ 
+ 
+ Di  =
+ 
+    0.015  
+ 
+ Ao  =
+ 
+    49.542916  
+ 
+ Uo  =
+ 
+    285.13619  
+ 
+ Ud  =
+ 
+    285.13619  
+ 
+ 
+ Pt  =
+ 
+    0.025  
+ 
+ C_dash  =
+ 
+    0.006  
+ 
+ 
+ 
+ B  =
+ 
+    0.15  
+ 
+ id  =
+ 
+    0.45  
+ 
+ as  =
+ 
+    0.0162  
+ 
+ 
+ as_dash  =
+ 
+    0.0081  
+ 
+ 
+ 
+ De  =
+ 
+    0.0228829  
+ 
+ 
+ 
+ Gs  =
+ 
+    895061.73  
+ 
+ Gs  =
+ 
+    248.62826  
+ 
+ mu  =
+ 
+    0.0007  
+ 
+ Cp  =
+ 
+    2387.  
+ 
+ Nre  =
+ 
+    8127.615  
+ 
+ Npr  =
+ 
+    11.065563  
+ 
+ Nnu  =
+ 
+    113.44187  
+ 
+ hi  =
+ 
+    1050.  
+ 
+ ho  =
+ 
+    748.58248  
+ 
+ Uo  =
+ 
+    393.35895  
+ 
+ Uc  =
+ 
+    393.35895  
+ 
+ Rd  =
+ 
+    0.0009649  
+ 
+
+ Fouling factor=Sclae resistance=0.000965 m^2.K/W
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.9/5_9.sce #
+ 
+ 
+ 
+ k  =
+ 
+    0.628  
+ 
+ rho  =
+ 
+    980.  
+ 
+ mu  =
+ 
+    0.0006  
+ 
+ Cpw  =
+ 
+    4.187  
+ 
+ Cp  =
+ 
+    4187.  
+ 
+ Di  =
+ 
+    25.  
+ 
+ Di  =
+ 
+    0.025  
+ 
+ mw_dot  =
+ 
+    1176.  
+ 
+ mw_dot  =
+ 
+    0.3266667  
+ 
+ Ai  =
+ 
+    0.0004909  
+ 
+ G  =
+ 
+    665.47987  
+ 
+ Nre  =
+ 
+    27728.328  
+ 
+ Npr  =
+ 
+    4.0003185  
+ 
+ 
+ Nnu  =
+ 
+    143.51742  
+ 
+ hi  =
+ 
+    3605.1575  
+ 
+ ho  =
+ 
+    6000.  
+ 
+ Do  =
+ 
+    0.028  
+ 
+ Dw  =
+ 
+    0.0264717  
+ 
+ x  =
+ 
+    0.0015  
+ 
+ k2  =
+ 
+    348.9  
+ 
+ Uo  =
+ 
+    2075.2048  
+ 
+ t1  =
+ 
+    303.  
+ 
+ t2  =
+ 
+    343.  
+ 
+ Q  =
+ 
+    54.710133  
+ 
+ Q  =
+ 
+    54710.133  
+ 
+ Ts  =
+ 
+    393.  
+ 
+ 
+ dT1  =
+ 
+    90.  
+ 
+ dT2  =
+ 
+    50.  
+ 
+ dTlm  =
+ 
+    68.051901  
+ 
+ Ao  =
+ 
+    0.3874062  
+ 
+ L  =
+ 
+    4.4041149  
+ 
+
+ therefore length of tube required is 4.404115 m
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.10/5_10.sce #
+ 
+ 
+ 
+ 
+ m_dot  =
+ 
+    7250.  
+ 
+ 
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    400.  
+ 
+ T2  =
+ 
+    317.  
+ 
+ t1  =
+ 
+    333.  
+ 
+ t2  =
+ 
+    300.  
+ 
+ dT1  =
+ 
+    67.  
+ 
+ dT2  =
+ 
+    17.  
+ 
+ dTlm  =
+ 
+    36.456985  
+ 
+ 
+ Q  =
+ 
+    1436377.3  
+ 
+ Q  =
+ 
+    398993.68  
+ 
+ n  =
+ 
+    170.  
+ 
+ L  =
+ 
+    5.  
+ 
+ Do  =
+ 
+    0.019  
+ 
+ Di  =
+ 
+    0.015  
+ 
+ Ao  =
+ 
+    50.736721  
+ 
+ Uo  =
+ 
+    239.67369  
+ 
+ Ud  =
+ 
+    239.67369  
+ 
+ B  =
+ 
+    0.15  
+ 
+ Pt  =
+ 
+    0.025  
+ 
+ C_dash  =
+ 
+    0.006  
+ 
+ id  =
+ 
+    0.45  
+ 
+ 
+ 
+ as  =
+ 
+    0.0162  
+ 
+ 
+ 
+ De  =
+ 
+    0.0228829  
+ 
+ 
+ 
+ Gs  =
+ 
+    447530.86  
+ 
+ Gs  =
+ 
+    124.31413  
+ 
+ mu  =
+ 
+    0.0007  
+ 
+ Cp  =
+ 
+    2387.  
+ 
+ Nre  =
+ 
+    4063.8075  
+ 
+ Npr  =
+ 
+    11.065563  
+ 
+ 
+ 
+ mu_w  =
+ 
+    0.0007  
+ 
+ Nnu  =
+ 
+    77.483083  
+ 
+ ho  =
+ 
+    511.2969  
+ 
+ hi  =
+ 
+    1050.  
+ 
+ Uo  =
+ 
+    316.23953  
+ 
+ Uc  =
+ 
+    316.23953  
+ 
+ 
+ 
+ Rd_given  =
+ 
+    0.0009  
+ 
+ Rd  =
+ 
+    0.0010102  
+ 
+
+ Rd calculated(0.001010 W/m^2.K) is mazimum allowable scale resistance
+ 
+
+
+As Rd calculated (0.001010 W/sq m.K)(OR 1.1*10^-3) is more than Rd given(0.000900 W/sq m,K),the given heat exchanger is suitable
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.11/5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    184040.  
+ 
+ Q  =
+ 
+    51122.222  
+ 
+ 
+ 
+ 
+ dTlm  =
+ 
+    76.82323  
+ 
+ 
+ 
+ 
+ 
+ 
+ v  =
+ 
+    0.0000007  
+ 
+ mu  =
+ 
+    0.0006562  
+ 
+ Nre  =
+ 
+    40971.168  
+ 
+ Cp  =
+ 
+    4280.  
+ 
+ 
+ k  =
+ 
+    0.7055556  
+ 
+ Npr  =
+ 
+    3.9803978  
+ 
+ Nnu  =
+ 
+    195.74069  
+ 
+ hi  =
+ 
+    6138.0413  
+ 
+ ho  =
+ 
+    19200.  
+ 
+ ho  =
+ 
+    5333.3333  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ Dw  =
+ 
+    0.0237281  
+ 
+ x  =
+ 
+    0.00125  
+ 
+ kt  =
+ 
+    460.  
+ 
+ kt  =
+ 
+    127.77778  
+ 
+ Uo  =
+ 
+    2639.724  
+ 
+ 
+ Ao  =
+ 
+    0.2520917  
+ 
+ L  =
+ 
+    4.  
+ 
+ n  =
+ 
+    0.8024330  
+ 
+ n  =
+ 
+    1.  
+ 
+
+ Number of tubes reuired= 1 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.12/5_12.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    290.  
+ 
+ ho  =
+ 
+    2250.  
+ 
+ lambda  =
+ 
+    400.  
+ 
+ mb_dot  =
+ 
+    14.4  
+ 
+ Cpw  =
+ 
+    4.187  
+ 
+ 
+ 
+ Q  =
+ 
+    5760000.  
+ 
+ Q  =
+ 
+    1600000.  
+ 
+ 
+ Di  =
+ 
+    0.022  
+ 
+ L  =
+ 
+    2.5  
+ 
+ n  =
+ 
+    120.  
+ 
+ A  =
+ 
+    0.1727876  
+ 
+ A  =
+ 
+    20.734512  
+ 
+ Ai  =
+ 
+    0.0003801  
+ 
+ Ai  =
+ 
+    0.0456159  
+ 
+ u  =
+ 
+    0.75  
+ 
+ V  =
+ 
+    0.0342119  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ mw_dot  =
+ 
+    34.211944  
+ 
+ 
+ 
+ 
+ 
+ t2  =
+ 
+    301.16964  
+ 
+ T  =
+ 
+    350.  
+ 
+ dT1  =
+ 
+    60.  
+ 
+ dT2  =
+ 
+    48.830358  
+ 
+ dTlm  =
+ 
+    54.223576  
+ 
+ U  =
+ 
+    1423.1085  
+ 
+ U  =
+ 
+    1423.  
+ 
+ 
+ hi  =
+ 
+    3871.5236  
+ 
+ 
+ C  =
+ 
+    4873.4094  
+ 
+ 
+ 
+ 
+ Rd  =
+ 
+    0.00025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dT1  =
+ 
+    60.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ u  =
+ 
+    3.8  
+ 
+
+Water velocity must be 3.88 ms^-1 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.13/5_13.sce #
+ 
+ 
+ 
+ mh_dot  =
+ 
+    1.25  
+ 
+ Cpw  =
+ 
+    4187.  
+ 
+ lambda  =
+ 
+    315.  
+ 
+ Q  =
+ 
+    393.75  
+ 
+ Q  =
+ 
+    393750.  
+ 
+ Ts  =
+ 
+    345.  
+ 
+ t1  =
+ 
+    290.  
+ 
+ t2  =
+ 
+    310.  
+ 
+ dT1  =
+ 
+    55.  
+ 
+ dT2  =
+ 
+    35.  
+ 
+ dTlm  =
+ 
+    44.249244  
+ 
+ 
+ mw_dot  =
+ 
+    4.702054  
+ 
+ hi  =
+ 
+    2.5  
+ 
+ hi  =
+ 
+    2500.  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ Di  =
+ 
+    0.02  
+ 
+ hio  =
+ 
+    2000.  
+ 
+ ho  =
+ 
+    0.8  
+ 
+ ho  =
+ 
+    800.  
+ 
+ Uo  =
+ 
+    571.42857  
+ 
+ 
+ Ud  =
+ 
+    457.14286  
+ 
+ Ao  =
+ 
+    19.465375  
+ 
+ L  =
+ 
+    1.  
+ 
+ A  =
+ 
+    0.0785398  
+ 
+ len  =
+ 
+    247.84085  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    0.0047021  
+ 
+ v  =
+ 
+    0.6  
+ 
+ a  =
+ 
+    0.0078368  
+ 
+ a1  =
+ 
+    0.0003142  
+ 
+ 
+ n  =
+ 
+    25.  
+ 
+ l  =
+ 
+    9.9136341  
+ 
+ 
+ tn  =
+ 
+    50.  
+ 
+ l2  =
+ 
+    4.956817  
+ 
+ 
+ tn2  =
+ 
+    100.  
+ 
+ l3  =
+ 
+    2.4784085  
+ 
+ 
+
+No. of tubes=100 ,
+Length of tube=2.478409 m 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.14/5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dT1  =
+ 
+    90.  
+ 
+ dT2  =
+ 
+    85.  
+ 
+ dTlm  =
+ 
+    87.476185  
+ 
+ Q  =
+ 
+    9383850.  
+ 
+ Q  =
+ 
+    2606625.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ c_dash  =
+ 
+    0.006  
+ 
+ 
+ as  =
+ 
+    0.03312  
+ 
+ 
+ 
+ Gs  =
+ 
+    3002832.9  
+ 
+ 
+ De  =
+ 
+    0.0228829  
+ 
+ Nre  =
+ 
+    3670.591  
+ 
+ Npr  =
+ 
+    96.221849  
+ 
+ muw  =
+ 
+    0.0052  
+ 
+ Nnu  =
+ 
+    150.6602  
+ 
+ ho  =
+ 
+    783.49244  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Di  =
+ 
+    0.0148  
+ 
+ A  =
+ 
+    0.0001720  
+ 
+ A_p  =
+ 
+    0.0278694  
+ 
+ G  =
+ 
+    4844014.6  
+ 
+ G  =
+ 
+    1345.5596  
+ 
+ Nre  =
+ 
+    6866.9939  
+ 
+ 
+ Nnu  =
+ 
+    120.74872  
+ 
+ hi  =
+ 
+    1109.5828  
+ 
+ hio  =
+ 
+    864.30661  
+ 
+ Uo  =
+ 
+    410.95891  
+ 
+ Uc  =
+ 
+    410.95891  
+ 
+ 
+ Ao  =
+ 
+    94.377465  
+ 
+ Ud  =
+ 
+    315.73332  
+ 
+ Rd  =
+ 
+    0.0007339  
+ 
+
+ The calculation of line no.36 to calculated as is wrongly done in Book by printing 0.0353,,..which is wrong
+ 
+
+Rd=0.000734 K/w,or 7.34*10^-4 which is less than the provided,so this if installed will not give required temperarues without frequent cleaning
+
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.15/5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rho  =
+ 
+    1100.  
+ 
+ m_dot  =
+ 
+    0.1925  
+ 
+ Q  =
+ 
+    61600.  
+ 
+ 
+ dT1  =
+ 
+    100.  
+ 
+ dT2  =
+ 
+    20.  
+ 
+ dTlm  =
+ 
+    49.706795  
+ 
+ U1A  =
+ 
+    1239.2672  
+ 
+ 
+ 
+ v2  =
+ 
+    0.000325  
+ 
+ T2  =
+ 
+    370.  
+ 
+ m_dot  =
+ 
+    0.3575  
+ 
+ Q  =
+ 
+    107250.  
+ 
+ dT1  =
+ 
+    100.  
+ 
+ dT2  =
+ 
+    25.  
+ 
+ dTlm  =
+ 
+    54.101064  
+ 
+ U2A  =
+ 
+    1982.4009  
+ 
+ 
+ 
+ 
+ U2_by_U1  =
+ 
+    1.5996558  
+ 
+ 
+ ho  =
+ 
+    3400.  
+ 
+ C  =
+ 
+    C   
+ 
+ 
+ 
+ 
+ hi  =
+ 
+    0.0009873C   
+ 
+ U1  =
+ 
+      0.0009873C     
+    --------------   
+    1 + 0.0000003C   
+ 
+ 
+ 
+ 
+ hi  =
+ 
+    0.0016200C   
+ 
+ U2  =
+ 
+      0.0016200C     
+    --------------   
+    1 + 0.0000005C   
+ 
+ 
+ 
+ 
+ C  =
+ 
+    142497.  
+ 
+ v  =
+ 
+    0.000175  
+ 
+ hi  =
+ 
+    140.68123  
+ 
+ U1  =
+ 
+    135.09157  
+ 
+ A  =
+ 
+    9.1735346  
+ 
+
+ Overall heat transfer coefficient is 135.091570 W/sq m.K and
+
+Heat transfer area is 9.173535 sq m 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.16/5_16.sce #
+ 
+ 
+ 
+ mo_dot  =
+ 
+    0.06  
+ 
+ Cpo  =
+ 
+    2000.  
+ 
+ Cpw  =
+ 
+    4180.  
+ 
+ T1  =
+ 
+    420.  
+ 
+ T2  =
+ 
+    320.  
+ 
+ T  =
+ 
+    290.  
+ 
+ Q  =
+ 
+    12000.  
+ 
+ 
+ t2  =
+ 
+    337.84689  
+ 
+ dT1  =
+ 
+    82.15311  
+ 
+ dT2  =
+ 
+    30.  
+ 
+ dTlm  =
+ 
+    51.770664  
+ 
+ hi  =
+ 
+    1600.  
+ 
+ ho  =
+ 
+    3600.  
+ 
+ U  =
+ 
+    1107.6923  
+ 
+ A  =
+ 
+    0.2092562  
+ 
+ D  =
+ 
+    0.025  
+ 
+ L  =
+ 
+    2.6643329  
+ 
+
+ Length of tube required = 2.664333 m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.17/5_17.sce #
+ 
+ 
+ 
+ mb_dot  =
+ 
+    1.25  
+ 
+ Cpb  =
+ 
+    1900.  
+ 
+ Cpw  =
+ 
+    4187.  
+ 
+ T1  =
+ 
+    350.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ Q  =
+ 
+    118750.  
+ 
+ t1  =
+ 
+    290.  
+ 
+ t2  =
+ 
+    320.  
+ 
+ dT1  =
+ 
+    30.  
+ 
+ dT2  =
+ 
+    10.  
+ 
+ dTlm  =
+ 
+    18.204785  
+ 
+ mw_dot  =
+ 
+    0.9453865  
+ 
+ hi  =
+ 
+    850.  
+ 
+ ho  =
+ 
+    1700.  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ Di  =
+ 
+    0.022  
+ 
+ x  =
+ 
+    0.0015  
+ 
+ hio  =
+ 
+    748.  
+ 
+ Dw  =
+ 
+    0.0234681  
+ 
+ k  =
+ 
+    45.  
+ 
+ Uo  =
+ 
+    510.03677  
+ 
+ Ao  =
+ 
+    12.789295  
+ 
+ L  =
+ 
+    1.  
+ 
+ area  =
+ 
+    0.0785398  
+ 
+ Tl  =
+ 
+    162.83836  
+ 
+
+Total length of tubing required=163 m 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.18/5_18.sce #
+ 
+ 
+ 
+ m_dot  =
+ 
+    4500.  
+ 
+ lambda  =
+ 
+    394.  
+ 
+ Q  =
+ 
+    1773000.  
+ 
+ Q  =
+ 
+    492500.  
+ 
+ Cpw  =
+ 
+    4.18  
+ 
+ t1  =
+ 
+    295.  
+ 
+ t2  =
+ 
+    300.  
+ 
+ 
+ mw_dot  =
+ 
+    23.564593  
+ 
+ rho  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    0.0235646  
+ 
+ u  =
+ 
+    1.05  
+ 
+ A  =
+ 
+    0.0224425  
+ 
+ 
+ 
+ x  =
+ 
+    1.6  
+ 
+ x  =
+ 
+    0.0016  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ Di  =
+ 
+    0.0218  
+ 
+ A1  =
+ 
+    0.0003733  
+ 
+ n  =
+ 
+    60.126757  
+ 
+ n  =
+ 
+    60.  
+ 
+ L  =
+ 
+    2.5  
+ 
+ Ao  =
+ 
+    11.780972  
+ 
+ Ts  =
+ 
+    353.  
+ 
+ T1  =
+ 
+    295.  
+ 
+ T2  =
+ 
+    300.  
+ 
+ dT1  =
+ 
+    58.  
+ 
+ dT2  =
+ 
+    53.  
+ 
+ dTlm  =
+ 
+    55.462442  
+ 
+ Uo  =
+ 
+    753.74788  
+ 
+ Ud  =
+ 
+    753.74788  
+ 
+ 
+ 
+ 
+ T  =
+ 
+    297.5  
+ 
+ 
+ hi  =
+ 
+    4446.5568  
+ 
+ hio  =
+ 
+    3877.3975  
+ 
+ Dw  =
+ 
+    0.0233635  
+ 
+ k  =
+ 
+    45.  
+ 
+ 
+ 
+ mdot_dash  =
+ 
+    0.0208333  
+ 
+ M  =
+ 
+    0.2652582  
+ 
+ k  =
+ 
+    0.15  
+ 
+ rho  =
+ 
+    880.  
+ 
+ mu  =
+ 
+    0.00035  
+ 
+ g  =
+ 
+    9.81  
+ 
+ hm  =
+ 
+    1408.1787  
+ 
+ ho  =
+ 
+    1408.1787  
+ 
+ k  =
+ 
+    45.  
+ 
+ Uo  =
+ 
+    993.94869  
+ 
+ 
+ Uc  =
+ 
+    993.94869  
+ 
+ 
+ Rd  =
+ 
+    0.0003206  
+ 
+
+ Uc(993.948693) is in excess of Ud(753.747884),therefore we allow for reasonable scale resistance,
+Rd=0.000321 K/W
+ 
+
+ No.of tubes = 60  
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.19/5_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    836.  
+ 
+ 
+ 
+ 
+ dT1  =
+ 
+    70.  
+ 
+ dT2  =
+ 
+    70.  
+ 
+ dTlm  =
+ 
+    70.  
+ 
+ 
+ 
+ Rd  =
+ 
+    0.0014006  
+ 
+ U  =
+ 
+    357.07141  
+ 
+ A  =
+ 
+    33.446691  
+ 
+
+Heat transfer area is 33.446691 sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.20/5_20.sce #
+ 
+ 
+ 
+ Cpo  =
+ 
+    1.9  
+ 
+ Cps  =
+ 
+    1.86  
+ 
+ ms_dot  =
+ 
+    5.2  
+ 
+ T1  =
+ 
+    403.  
+ 
+ T2  =
+ 
+    383.  
+ 
+ 
+ Q  =
+ 
+    193.44  
+ 
+ Q  =
+ 
+    193440.  
+ 
+ 
+ 
+ dT2  =
+ 
+    45.  
+ 
+ dT1  =
+ 
+    95.  
+ 
+ dTlm  =
+ 
+    66.915198  
+ 
+ 
+ Ft  =
+ 
+    0.97  
+ 
+ A  =
+ 
+    10.8372  
+ 
+
+Heat exchanger surface area is 10.837200 sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.21/5_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T2  =
+ 
+    333.00899  
+ 
+ Q  =
+ 
+    268.81998  
+ 
+ Q  =
+ 
+    268819.98  
+ 
+ 
+ dT1  =
+ 
+    39.  
+ 
+ 
+ dTlm  =
+ 
+    26.494906  
+ 
+ lmtd  =
+ 
+    26.494906  
+ 
+ Ft  =
+ 
+    0.88  
+ 
+ A  =
+ 
+    6.9973108  
+ 
+ 
+ Ai  =
+ 
+    0.0103361  
+ 
+ n  =
+ 
+    36.45509  
+ 
+ L  =
+ 
+    1.  
+ 
+ sa  =
+ 
+    0.0596903  
+ 
+ L  =
+ 
+    3.2156555  
+ 
+
+The length is more than allowable 2.44 m length,so we must use more than one tube 
+ 
+ 
+ 
+ A  =
+ 
+    7.9514895  
+ 
+ L  =
+ 
+    1.827077  
+ 
+
+ This length is within 2.44 m requirement,so the design choice is 
+
+ 
+
+Type of heat exchanger : 1-2 Shell and tube heat exchanger
+ 
+
+No of tubes per pass= 36
+ 
+
+Length of tube per pass=1.827077 m
+  
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.22/5_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mCp_h  =
+ 
+    60012.  
+ 
+ mCp_c  =
+ 
+    84000.  
+ 
+ mCp_small  =
+ 
+    60012.  
+ 
+ C  =
+ 
+    0.7144286  
+ 
+ ntu  =
+ 
+    0.6665334  
+ 
+ 
+ 
+ 
+ E  =
+ 
+    0.4233626  
+ 
+ 
+ T2  =
+ 
+    718.98242  
+ 
+
+Exit temperature of hot fluid is 719 K 
+ t2  =
+ 
+    554.47742  
+ 
+
+Exit temperature of cold fluid is 554 K(281 C)
+ 
+ 
+ 
+ E1  =
+ 
+    0.3972466  
+ 
+ 
+ 
+ T2  =
+ 
+    734.65204  
+ 
+ t2  =
+ 
+    543.28259  
+ 
+
+Exit temperature of Hot water=734.652038 K
+ 
+
+Exit temperature of cold water=543.282594 K
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.23/5_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t2  =
+ 
+    313.17913  
+ 
+ 
+ dT1  =
+ 
+    59.820874  
+ 
+ dT2  =
+ 
+    30.  
+ 
+ dTlm  =
+ 
+    43.208809  
+ 
+ 
+ Q  =
+ 
+    8524.  
+ 
+ A  =
+ 
+    0.5191437  
+ 
+ 
+ L  =
+ 
+    6.6099423  
+ 
+ 
+ 
+ mCp_c  =
+ 
+    837.4  
+ 
+ mCp_h  =
+ 
+    213.1  
+ 
+
+ In textbook this value of mCp_h is wrongly calculated as 231.1  so we will take this only for calculation
+ 
+ 
+ 
+ C  =
+ 
+    0.2759733  
+ 
+ E  =
+ 
+    0.5714286  
+ 
+ 
+ 
+ ntu  =
+ 
+    0.9332252  
+ 
+ A  =
+ 
+    0.5675483  
+ 
+ A  =
+ 
+    0.56  
+ 
+ L1  =
+ 
+    7.1301415  
+ 
+
+From LMTD approach:
+ length=6.609942 m
+ 
+
+From NTU method:
+ length=7.130141 m
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.24/5_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mCp_oil  =
+ 
+    701.4  
+ 
+ 
+ mCp_water  =
+ 
+    701.4  
+ 
+ 
+ 
+ 
+ mCp_small  =
+ 
+    710.4  
+ 
+ 
+ 
+ 
+ 
+ ntu  =
+ 
+    4.  
+ 
+ 
+ 
+ hio  =
+ 
+    1200.  
+ 
+ Dw  =
+ 
+    22.407101  
+ 
+ Dw  =
+ 
+    0.0224071  
+ 
+ x  =
+ 
+    2.5  
+ 
+ x  =
+ 
+    0.0025  
+ 
+ Do  =
+ 
+    0.025  
+ 
+ 
+ Uo  =
+ 
+    170.00892  
+ 
+ A  =
+ 
+    16.714417  
+ 
+ n  =
+ 
+    85.125829  
+ 
+
+No. of tubes required = 86 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH5/EX5.25/5_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dTlm  =
+ 
+    243.10892  
+ 
+ Q  =
+ 
+    149976.  
+ 
+ A  =
+ 
+    1.2338173  
+ 
+ 
+ 
+ 
+ 
+ dTlm  =
+ 
+    251.04573  
+ 
+ A1  =
+ 
+    1.1948102  
+ 
+
+For parallel flow,Area = 1.233817 sq m 
+ For countercurrent flow,Area=1.194810 sq m
+ 
+
+
+For the same terminal temperatures of the fluid ,the surface area for the counterflow arrangement
+ is less than the required for the parallel flow
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.1/6_1.sce #
+ 
+ 
+ 
+ T  =
+ 
+    380.  
+ 
+ T_dash  =
+ 
+    373.  
+ 
+ BPE  =
+ 
+    7.  
+ 
+ Ts  =
+ 
+    399.  
+ 
+ DF  =
+ 
+    19.  
+ 
+
+Boiling point of elevation of the solution is 7 K 
+ 
+
+Driving forve for heat transfer is 19 K 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.2/6_2.sce #
+ 
+ 
+ 
+ m_dot  =
+ 
+    10000.  
+ 
+ fr_in  =
+ 
+    0.04  
+ 
+ fr_out  =
+ 
+    0.25  
+ 
+ 
+ mdash_dot  =
+ 
+    1600.  
+ 
+ 
+ 
+ 
+ 
+ 
+ we  =
+ 
+    8400.  
+ 
+
+ Capacity of evaporator is 8400 kg/h 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.3/6_3.sce #
+ 
+ 
+ 
+ ic  =
+ 
+    0.05  
+ 
+ fc  =
+ 
+    0.2  
+ 
+ T_dash  =
+ 
+    373.  
+ 
+ bpe  =
+ 
+    5.  
+ 
+ mf_dot  =
+ 
+    5000.  
+ 
+ 
+ mdash_dot  =
+ 
+    1250.  
+ 
+ 
+ mv_dot  =
+ 
+    3750.  
+ 
+ lambda_s  =
+ 
+    2185.  
+ 
+ lambda_v  =
+ 
+    2257.  
+ 
+ lambda  =
+ 
+    2257.  
+ 
+ T  =
+ 
+    378.  
+ 
+ Tf  =
+ 
+    298.  
+ 
+ Cpf  =
+ 
+    4.187  
+ 
+ 
+ ms_dot  =
+ 
+    4640.0686  
+ 
+ Eco  =
+ 
+    0.8081777  
+ 
+ Ts  =
+ 
+    399.  
+ 
+ dT  =
+ 
+    21.  
+ 
+ U  =
+ 
+    2350.  
+ 
+ Q  =
+ 
+    10138550.  
+ 
+ Q  =
+ 
+    2816263.9  
+ 
+ A  =
+ 
+    57.067151  
+ 
+
+ANSWER Economoy pf evaporator is 0.808178 
+ 
+
+Heat tarnsfer area to be provided = 57.067151 sq m
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.4/6_4.sce #
+ 
+ 
+ 
+ 
+ Cpf  =
+ 
+    3.98  
+ 
+ lambda_s  =
+ 
+    2202.  
+ 
+ lambda  =
+ 
+    2383.  
+ 
+ ic  =
+ 
+    0.1  
+ 
+ fc  =
+ 
+    0.5  
+ 
+ m_dot  =
+ 
+    30000.  
+ 
+ mdash_dot  =
+ 
+    6000.  
+ 
+ mv_dot  =
+ 
+    24000.  
+ 
+ 
+ 
+ mf_dot  =
+ 
+    30000.  
+ 
+ mv_dot  =
+ 
+    24000.  
+ 
+ Cpf  =
+ 
+    3.98  
+ 
+ Ts  =
+ 
+    393.  
+ 
+ T  =
+ 
+    323.  
+ 
+ lambda_s  =
+ 
+    2202.  
+ 
+ lambda  =
+ 
+    2383.  
+ 
+ Tf  =
+ 
+    293.  
+ 
+ 
+ ms_dot  =
+ 
+    27599.455  
+ 
+ eco  =
+ 
+    0.8695824  
+ 
+
+When Feed introduced at 293 K ,Steam economy is 0.869582
+ 
+ dT  =
+ 
+    70.  
+ 
+ U  =
+ 
+    2900.  
+ 
+ Q  =
+ 
+    60774000.  
+ 
+ Q  =
+ 
+    16881667.  
+ 
+ A  =
+ 
+    83.16092  
+ 
+
+ ANSWER-(i)
+
+ At 293 K,Heat transfer area required is 83.160920 sq m
+ 
+ 
+ 
+ Tf  =
+ 
+    308.  
+ 
+ ms_dot  =
+ 
+    26786.104  
+ 
+ eco  =
+ 
+    0.8959870  
+ 
+
+ ANSWER-(ii)
+
+ When T=308 K 
+Economy of evaporator is 0.895987
+ 
+ Q  =
+ 
+    58983000.  
+ 
+ Q  =
+ 
+    16384167.  
+ 
+ A  =
+ 
+    80.710181  
+ 
+
+ANSWER-(iii) 
+ When T=308 K,
+Heat transfer Area required is 80.710181 sq m
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.5/6_5.sce #
+ 
+ 
+ 
+ m_dot  =
+ 
+    5000.  
+ 
+ Cpf  =
+ 
+    4.187  
+ 
+ ic  =
+ 
+    0.1  
+ 
+ fc  =
+ 
+    0.4  
+ 
+ mdash_dot  =
+ 
+    1250.  
+ 
+ mv_dot  =
+ 
+    3750.  
+ 
+ lambda_s  =
+ 
+    2162.  
+ 
+ P  =
+ 
+    101.325  
+ 
+ bp  =
+ 
+    373.  
+ 
+ Hv  =
+ 
+    2676.  
+ 
+ H_dash  =
+ 
+    419.  
+ 
+ Hf  =
+ 
+    170.  
+ 
+ ms_dot  =
+ 
+    4490.6337  
+ 
+ eco  =
+ 
+    0.8350715  
+ 
+ Q  =
+ 
+    9708750.  
+ 
+ U  =
+ 
+    1750.  
+ 
+ dT  =
+ 
+    34.  
+ 
+ Q  =
+ 
+    2696875.  
+ 
+ A  =
+ 
+    45.32563  
+ 
+
+ Heat transfer area to be provided is 45.325630 sq m 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.6/6_6.sce #
+ 
+ 
+ 
+ mf_dot  =
+ 
+    5000.  
+ 
+ ic  =
+ 
+    0.01  
+ 
+ fc  =
+ 
+    0.02  
+ 
+ T  =
+ 
+    373.  
+ 
+ Ts  =
+ 
+    383.  
+ 
+ mdash_dot  =
+ 
+    2500.  
+ 
+ mv_dot  =
+ 
+    2500.  
+ 
+ Hf  =
+ 
+    125.79  
+ 
+ Hdash  =
+ 
+    419.04  
+ 
+ Hv  =
+ 
+    2676.1  
+ 
+ lambda_s  =
+ 
+    2230.2  
+ 
+ ms_dot  =
+ 
+    3187.5617  
+ 
+ eco  =
+ 
+    0.7842986  
+ 
+ Q  =
+ 
+    7108900.  
+ 
+ Q  =
+ 
+    1974694.4  
+ 
+ dT  =
+ 
+    10.  
+ 
+ 
+ A  =
+ 
+    69.  
+ 
+ U  =
+ 
+    2861.876  
+ 
+
+Steam economy is 0.784299
+ 
+
+
+Overall heat transfer coefficient is 2862  W/sq m.K 
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.7/6_7.sce #
+ 
+ 
+ 
+ 
+ mf_dot  =
+ 
+    5000.  
+ 
+ Hf  =
+ 
+    125.79  
+ 
+ lambda_s  =
+ 
+    2230.2  
+ 
+ mdash_dot  =
+ 
+    2500.  
+ 
+ Hdash  =
+ 
+    313.93  
+ 
+ mv_dot  =
+ 
+    2500.  
+ 
+ Hv  =
+ 
+    2635.3  
+ 
+ ms_dot  =
+ 
+    3024.0001  
+ 
+ Q  =
+ 
+    6744125.  
+ 
+ Q  =
+ 
+    1873368.1  
+ 
+ U  =
+ 
+    2862.  
+ 
+ dT  =
+ 
+    35.  
+ 
+ A  =
+ 
+    18.701887  
+ 
+
+ The heat transfer area in this case is 18.701887 sq m
+ 
+
+
+NOTE :There is a calculation mistake in the book at the line12 of this code,ms_dot value is written as 2320.18,which is wrong
+
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.8/6_8.sce #
+ 
+ 
+ 
+ mf_dot  =
+ 
+    6000.  
+ 
+ 
+ Hf  =
+ 
+    125.79  
+ 
+ ms_dot  =
+ 
+    3187.56  
+ 
+ lambda_s  =
+ 
+    2230.2  
+ 
+ Hdash  =
+ 
+    419.04  
+ 
+ Hv  =
+ 
+    2676.1  
+ 
+ mv_dot  =
+ 
+    2370.0727  
+ 
+ mdash_dot  =
+ 
+    3629.9273  
+ 
+ x  =
+ 
+    1.6529257  
+ 
+
+Mass flow rate of product is 3629.927289 kg/h
+
+ 
+
+
+The product concentration is 1.652926 percent by weight 
+
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.9/6_9.sce #
+ 
+ 
+ 
+ Tf  =
+ 
+    298.  
+ 
+ T_dash  =
+ 
+    373.  
+ 
+ Cpf  =
+ 
+    4.  
+ 
+ fc  =
+ 
+    0.2  
+ 
+ ic  =
+ 
+    0.05  
+ 
+ mf_dot  =
+ 
+    20000.  
+ 
+ mdash_dot  =
+ 
+    5000.  
+ 
+ mv_dot  =
+ 
+    15000.  
+ 
+ lambda_s  =
+ 
+    2185.  
+ 
+ lambda  =
+ 
+    2257.  
+ 
+ bpr  =
+ 
+    7.  
+ 
+ T  =
+ 
+    380.  
+ 
+ Ts  =
+ 
+    39.  
+ 
+ ms_dot  =
+ 
+    18496.568  
+ 
+ eco  =
+ 
+    0.8109613  
+ 
+ Q  =
+ 
+    40415000.  
+ 
+ Q  =
+ 
+    11226389.  
+ 
+
+Heat load is 11226389 W or J/s 
+
+
+Economy of evaporator is 0.810961  
+ 
+
+
+NOTE:Again there is a calcualtion mistake in book at line 19 of code,it is written as 4041507.1 instead of 40415071 
+
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.10/6_10.sce #
+ 
+ 
+ 
+ Ts  =
+ 
+    381.3  
+ 
+ 
+ 
+ 
+ 
+ dT1  =
+ 
+    11.74717  
+ 
+ dT2  =
+ 
+    14.950943  
+ 
+ dT3  =
+ 
+    29.901887  
+ 
+ 
+ T1dash  =
+ 
+    369.55283  
+ 
+ 
+ T2_dash  =
+ 
+    354.60189  
+ 
+
+
+Boiling point of solution in first effect =369.552830 K
+
+ 
+
+
+Boiling point of solution in second effect =354.601887 K
+
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.11/6_11.sce #
+ 
+ 
+ 
+ mf_dot  =
+ 
+    10000.  
+ 
+ ic  =
+ 
+    0.09  
+ 
+ fc  =
+ 
+    0.47  
+ 
+ m1dot_dash  =
+ 
+    1914.8936  
+ 
+ Ps  =
+ 
+    686.616  
+ 
+ Ps  =
+ 
+    787.941  
+ 
+ Ts  =
+ 
+    442.7  
+ 
+ P2  =
+ 
+    86.66  
+ 
+ U1  =
+ 
+    2326.  
+ 
+ U2  =
+ 
+    1744.5  
+ 
+ P2_abs  =
+ 
+    14.665  
+ 
+ T2  =
+ 
+    326.3  
+ 
+ dT  =
+ 
+    116.4  
+ 
+ Tf  =
+ 
+    309.  
+ 
+ T  =
+ 
+    273.  
+ 
+ Cpf  =
+ 
+    3.77  
+ 
+ 
+ 
+ dT2  =
+ 
+    66.514286  
+ 
+ dT1  =
+ 
+    49.885714  
+ 
+ 
+ Tv1  =
+ 
+    392.81429  
+ 
+ Tv2  =
+ 
+    326.3  
+ 
+ Hf  =
+ 
+    135.72  
+ 
+ H1dash  =
+ 
+    451.69986  
+ 
+ H2dash  =
+ 
+    200.941  
+ 
+ 
+ lambda_s  =
+ 
+    2048.7  
+ 
+ 
+ Hv1  =
+ 
+    2705.22  
+ 
+ lambda_v1  =
+ 
+    2202.8  
+ 
+ 
+ Hv2  =
+ 
+    2597.61  
+ 
+ lambda_v2  =
+ 
+    2377.8  
+ 
+ 
+ 
+ mv_dot  =
+ 
+    8085.1064  
+ 
+ 
+ 
+ 
+ mv1_dot  =
+ 
+    4354.7492  
+ 
+ mv2_dot  =
+ 
+    3730.3572  
+ 
+ 
+ 
+ 
+ m2dot_dash  =
+ 
+    6269.6428  
+ 
+ ms_dot  =
+ 
+    5557.5162  
+ 
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    27.256538  
+ 
+ 
+ 
+ lambda_v1  =
+ 
+    611.88889  
+ 
+ A2  =
+ 
+    22.96412  
+ 
+ 
+ 
+ 
+ 
+ Aavg  =
+ 
+    25.110329  
+ 
+ dT1_dash  =
+ 
+    54.149505  
+ 
+ dT2_dash  =
+ 
+    66.514286  
+ 
+ 
+ 
+ Tv1  =
+ 
+    388.5505  
+ 
+ Tv2  =
+ 
+    322.03621  
+ 
+ Hf  =
+ 
+    135.66  
+ 
+ H1dash  =
+ 
+    435.62537  
+ 
+ H2dash  =
+ 
+    200.83  
+ 
+ 
+ 
+ Hv1  =
+ 
+    2699.8  
+ 
+ lambda_v1  =
+ 
+    2214.92  
+ 
+ mv1_dot  =
+ 
+    4343.2837  
+ 
+ mv2_dot  =
+ 
+    3741.8227  
+ 
+ 
+ 
+ ms_dot  =
+ 
+    5517.325  
+ 
+ 
+ 
+ lambda_s  =
+ 
+    569.08333  
+ 
+ A1  =
+ 
+    24.928735  
+ 
+ 
+ 
+ A2  =
+ 
+    23.029676  
+ 
+ 
+
+A1(24.928735)=A2(23.029676),So the area in each effect can be 23.029676 sq m
+ 
+
+Heat transfer surface in each effect is 23.029676 sq m
+ 
+
+Steam consumption=5517 kg/h
+ 
+
+Evaporation in the first effect is 4343 kg/h
+ 
+
+Evaporation in  2nd effect is 3742 kg/h
+ 
+ 
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.12/6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    273.  
+ 
+ 
+ 
+ 
+ 
+ m3dot_dash  =
+ 
+    1750.  
+ 
+ mv_dot  =
+ 
+    8250.  
+ 
+ 
+ 
+ 
+ 
+ dT  =
+ 
+    80.  
+ 
+ 
+ 
+ 
+ sum_bpr  =
+ 
+    30.  
+ 
+ dT  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ Cpf  =
+ 
+    3.768  
+ 
+ 
+ Hf  =
+ 
+    301.44  
+ 
+ H1  =
+ 
+    454.044  
+ 
+ H2  =
+ 
+    356.076  
+ 
+ H3  =
+ 
+    244.92  
+ 
+ 
+ lambda_s  =
+ 
+    2160.  
+ 
+ Hv1  =
+ 
+    2692.  
+ 
+ lambda_v1  =
+ 
+    2228.3  
+ 
+ Hv2  =
+ 
+    2650.8  
+ 
+ lambda_v2  =
+ 
+    2297.4  
+ 
+ Hv3  =
+ 
+    2600.5  
+ 
+ lambda_v3  =
+ 
+    2370.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mv2_dot  =
+ 
+    2777.7647  
+ 
+ 
+ mv3_dot  =
+ 
+    2942.9004  
+ 
+ mv1_dot  =
+ 
+    2529.3348  
+ 
+ 
+ 
+ 
+ ms_dot  =
+ 
+    3239.6534  
+ 
+ 
+ 
+ U1  =
+ 
+    710.  
+ 
+ U2  =
+ 
+    490.  
+ 
+ U3  =
+ 
+    454.  
+ 
+ A1  =
+ 
+    188.80933  
+ 
+ A2  =
+ 
+    199.69235  
+ 
+ A3  =
+ 
+    200.23459  
+ 
+ 
+ 
+ 
+ eco  =
+ 
+    2.5465687  
+ 
+ 
+ Qc  =
+ 
+    6974674.1  
+ 
+ dT  =
+ 
+    25.  
+ 
+ Cp  =
+ 
+    4.187  
+ 
+ mw_dot  =
+ 
+    66631.708  
+ 
+
+ANSWER
+ Area in each effect188.809329 sq m
+ 
+
+ANSWER 
+ Steam economy is2.546569
+ 
+
+ANSWER Cooling water rate is 66.631708 t/h 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.13/6_13.sce #
+ 
+ 
+ 
+ Cpf  =
+ 
+    4.18  
+ 
+ dT1  =
+ 
+    18.  
+ 
+ dT2  =
+ 
+    17.  
+ 
+ dT3  =
+ 
+    34.  
+ 
+ mf_dot  =
+ 
+    4.  
+ 
+ Ts  =
+ 
+    394.  
+ 
+ bp  =
+ 
+    325.  
+ 
+ dT  =
+ 
+    69.  
+ 
+ lambda_s  =
+ 
+    2200.  
+ 
+ T1  =
+ 
+    376.  
+ 
+ lambda1  =
+ 
+    2249.  
+ 
+ lambda_v1  =
+ 
+    2249.  
+ 
+ 
+ T2  =
+ 
+    359.  
+ 
+ lambda2  =
+ 
+    2293.  
+ 
+ lambda_v2  =
+ 
+    2293.  
+ 
+ 
+ T3  =
+ 
+    325.  
+ 
+ lambda3  =
+ 
+    2377.  
+ 
+ lambda_v3  =
+ 
+    2377.  
+ 
+ 
+ ic  =
+ 
+    0.1  
+ 
+ fc  =
+ 
+    0.5  
+ 
+ m3dot_dash  =
+ 
+    0.8  
+ 
+ mv_dot  =
+ 
+    3.2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    294.  
+ 
+ mv2_dot  =
+ 
+    1.0651185  
+ 
+ mv1_dot  =
+ 
+    0.9910698  
+ 
+ mv3_dot  =
+ 
+    1.1438116  
+ 
+ ms_dot  =
+ 
+    1.6363437  
+ 
+ eco  =
+ 
+    1.9555794  
+ 
+ eco  =
+ 
+    2.  
+ 
+
+Steam economy is 2
+ 
+ U1  =
+ 
+    3.1  
+ 
+ U2  =
+ 
+    2.  
+ 
+ U3  =
+ 
+    1.1  
+ 
+ 
+ A1  =
+ 
+    64.515341  
+ 
+ A2  =
+ 
+    65.556354  
+ 
+ A3  =
+ 
+    65.302589  
+ 
+ 
+
+Area pf heat transfer in each effect is 65.302589 sq m
+ 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.14/6_14.sce #
+ 
+ 
+ 
+ mf_dot  =
+ 
+    1060.  
+ 
+ ic  =
+ 
+    0.04  
+ 
+ fc  =
+ 
+    0.25  
+ 
+ m4dot_dash  =
+ 
+    169.6  
+ 
+ 
+ mv_dot  =
+ 
+    890.4  
+ 
+ 
+ 
+ P1  =
+ 
+    370.  
+ 
+ T1  =
+ 
+    422.6  
+ 
+ lambda1  =
+ 
+    2114.4  
+ 
+ 
+ P2  =
+ 
+    235.  
+ 
+ T2  =
+ 
+    410.5  
+ 
+ lambda2  =
+ 
+    2151.5  
+ 
+ 
+ P3  =
+ 
+    80.  
+ 
+ T3  =
+ 
+    390.2  
+ 
+ lambda3  =
+ 
+    2210.2  
+ 
+ 
+ P4  =
+ 
+    50.66  
+ 
+ T4  =
+ 
+    354.7  
+ 
+ lambda4  =
+ 
+    2304.6  
+ 
+ 
+ P  =
+ 
+    700.  
+ 
+ lambda_s  =
+ 
+    2046.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mv4dot_dash  =
+ 
+    169.6  
+ 
+ m3dot_dash  =
+ 
+    416.7  
+ 
+ 
+ 
+ m2dot_dash  =
+ 
+    648.226  
+ 
+ 
+ 
+ m1dot_dash  =
+ 
+    861.97526  
+ 
+ 
+ 
+ ms_dot  =
+ 
+    454.87956  
+ 
+ eco  =
+ 
+    1.9574412  
+ 
+
+Steam economy is 1.957441 evaporation/kg steam 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.15/6_15.sce #
+ 
+ 
+ 
+ m1_dot  =
+ 
+    5000.  
+ 
+ ic  =
+ 
+    0.1  
+ 
+ fc  =
+ 
+    0.5  
+ 
+ mf_dot  =
+ 
+    25000.  
+ 
+ mv_dot  =
+ 
+    20000.  
+ 
+ P  =
+ 
+    357.  
+ 
+ Ts  =
+ 
+    412.  
+ 
+ H  =
+ 
+    2732.  
+ 
+ lambda  =
+ 
+    2143.  
+ 
+ bpr  =
+ 
+    18.5  
+ 
+ T_dash  =
+ 
+    370.5  
+ 
+ Hf  =
+ 
+    138.  
+ 
+ lambda_s  =
+ 
+    2143.  
+ 
+ Hv  =
+ 
+    2659.  
+ 
+ H1  =
+ 
+    568.  
+ 
+ ms_dot  =
+ 
+    24531.031  
+ 
+
+Steam consumption is 24531.031265 kg/h
+ 
+
+Capacity is 20000.000000 kg/h
+ 
+ eco  =
+ 
+    0.8152939  
+ 
+
+Steam economy is 0.815294
+ 
+ dT  =
+ 
+    41.5  
+ 
+ hi  =
+ 
+    4500.  
+ 
+ ho  =
+ 
+    9000.  
+ 
+ Do  =
+ 
+    0.032  
+ 
+ Di  =
+ 
+    0.028  
+ 
+ x1  =
+ 
+    0.002  
+ 
+ Dw  =
+ 
+    0.0299555  
+ 
+ x2  =
+ 
+    0.00025  
+ 
+ L  =
+ 
+    2.5  
+ 
+ hio  =
+ 
+    3937.5  
+ 
+
+ NOTE:In textbook this value of hio is wrongly calculated as 3975.5..So we will take this
+
+ 
+ hio  =
+ 
+    3975.5  
+ 
+ k1  =
+ 
+    45.  
+ 
+ k2  =
+ 
+    2.25  
+ 
+ Uo  =
+ 
+    1940.3619  
+ 
+ Q  =
+ 
+    52570000.  
+ 
+ Q  =
+ 
+    14602778.  
+ 
+ 
+ A  =
+ 
+    181.3446  
+ 
+ n  =
+ 
+    721.54725  
+ 
+
+ No. of tubes required is 722 
+ 
+grepthis#Heat_Transfer_K._A._Gavhane_1073/CH6/EX6.16/6_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m1dot_dash  =
+ 
+    1814.4  
+ 
+ mv_dot  =
+ 
+    2721.6  
+ 
+ 
+ bp  =
+ 
+    362.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ ms_dot  =
+ 
+    3159.5883  
+ 
+
+Steam consumption is 3159.588293 kg/h
+ 
+ dT  =
+ 
+    26.  
+ 
+ U  =
+ 
+    1560.  
+ 
+ Q  =
+ 
+    6995328.5  
+ 
+ Q  =
+ 
+    1943146.8  
+ 
+ A  =
+ 
+    47.907959  
+ 
+
+Heat transfer area is 47.907959 sq m
+ 
+ 
+ 
+ 
+ Hv  =
+ 
+    2666.628  
+ 
+ ms_dot  =
+ 
+    3253.4159  
+ 
+
+ Now,Steam consumption is 3253.415883 kg/h
+ 
+ eco  =
+ 
+    0.8365362  
+ 
+
+Economy of evaporator 0.836536
+ 
+ Q  =
+ 
+    7203062.8  
+ 
+ Q  =
+ 
+    2000850.8  
+ 
+ A2  =
+ 
+    49.33064  
+ 
+
+Now,Area is 47.907959
+ 
+ perc  =
+ 
+    2.9696144  
+ 
+
+ If enthalpy of water vapour Hv were based on the saturated vapour at the pressure
+the error introduced is only 2.969614 percent
+ 
+ 

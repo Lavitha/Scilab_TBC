@@ -1,0 +1,35 @@
+ERROR: Fluid_Mechanics_And_Thermodynamics_Of_Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH1/EX1.1/Ex1_1.sce
+errcatch(-1,"stop");mode(2); all;
+                               !--error 4 
+Undefined variable: all
+at line       1 of exec file called by :    
+Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH1/EX1.1/Ex1_1.sce',-1
+ 
+ERROR: Fluid_Mechanics_And_Thermodynamics_Of_Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH3/EX3.2/Ex3_2.sce
+errcatch(-1,"stop");mode(2); all;
+                               !--error 4 
+Undefined variable: all
+at line       1 of exec file called by :    
+Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH3/EX3.2/Ex3_2.sce',-1
+ 
+ERROR: Fluid_Mechanics_And_Thermodynamics_Of_Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH4/EX4.2/Ex4_2.sce
+errcatch(-1,"stop");mode(2); all;
+                               !--error 4 
+Undefined variable: all
+at line       1 of exec file called by :    
+Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH4/EX4.2/Ex4_2.sce',-1
+ 
+ERROR: Fluid_Mechanics_And_Thermodynamics_Of_Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH4/EX4.3/Ex4_3.sce
+errcatch(-1,"stop");mode(2); all;
+                               !--error 4 
+Undefined variable: all
+at line       1 of exec file called by :    
+Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH4/EX4.3/Ex4_3.sce',-1
+ 
+ERROR: Fluid_Mechanics_And_Thermodynamics_Of_Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH4/EX4.4/Ex4_4.sce
+errcatch(-1,"stop");mode(2); all;
+                               !--error 4 
+Undefined variable: all
+at line       1 of exec file called by :    
+Turbomachinery_S._L._Dixon_And_C._A._Hall_3433/CH4/EX4.4/Ex4_4.sce',-1
+ 

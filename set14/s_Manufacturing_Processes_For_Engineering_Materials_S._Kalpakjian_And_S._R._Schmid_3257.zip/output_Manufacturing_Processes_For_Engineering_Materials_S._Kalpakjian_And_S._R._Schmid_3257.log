@@ -1,0 +1,2098 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 47
+
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ K  =
+ 
+    689655.  
+ 
+ n  =
+ 
+    0.5  
+ 
+ A0  =
+ 
+    1.  
+ 
+
+ Example 2.1 
+ sigma  =
+ 
+    487659.73  
+ 
+ A_neck  =
+ 
+    0.6065307  
+ 
+ P  =
+ 
+    295780.58  
+ 
+ UTS  =
+ 
+    295780.58  
+ 
+
+ True ultimate tensile strength is 487659.73kPa 
+
+ Engineering UTS of material is 295780.58 kPa 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ h  =
+ 
+    400.  
+ 
+ E  =
+ 
+    205000.  
+ 
+ g  =
+ 
+    9.8  
+ 
+
+ Example 2.3 
+ Y  =
+ 
+    1.307D+09  
+ 
+ m_r  =
+ 
+    4.164336  
+ 
+ 
+
+ Modulus of resilience of body is 4.16 Nm/m^3. 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ sigma_t  =
+ 
+    140.  
+ 
+ sigma_c  =
+ 
+  - 140.  
+ 
+ l  =
+ 
+    0.25  
+ 
+ Y  =
+ 
+    150.  
+ 
+ E  =
+ 
+    70.  
+ 
+ Example 2.4 
+ epsilon_tot  =
+ 
+    0.0001429  
+ 
+ l_f  =
+ 
+    0.2500357  
+ 
+ 
+
+ Stretched length should be 0.2500 m 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ r  =
+ 
+    254.  
+ 
+ t  =
+ 
+    2.54  
+ 
+ sigma_1  =
+ 
+    140.  
+ 
+ sigma_2  =
+ 
+    140.  
+ 
+ sigma_min  =
+ 
+    0.  
+ 
+ Example 2.5 
+ Y  =
+ 
+    140.  
+ 
+ p  =
+ 
+    2.8  
+ 
+
+
+ According to maximum shear stress criterion, Required pressure is 2.8 MPa 
+ Y  =
+ 
+    140.  
+ 
+ p  =
+ 
+    2.8  
+ 
+
+
+ According to maximum distortion energy criterion, Required pressure is 2.8 MPa 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ d  =
+ 
+    25.  
+ 
+ h_i  =
+ 
+    25.  
+ 
+ cp  =
+ 
+    1255.  
+ 
+ rho  =
+ 
+    2768.  
+ 
+ del_t  =
+ 
+    55.  
+ 
+ K  =
+ 
+    104.  
+ 
+ n  =
+ 
+    0.5  
+ 
+
+ Example 2.8 
+ v  =
+ 
+    0.0000123  
+ 
+ H  =
+ 
+    2344.6737  
+ 
+ 
+ epsilon  =
+ 
+    1.9655629  
+ 
+ h_f  =
+ 
+    3.5019254  
+ 
+ 
+
+ Final height of specimen is 3.5 mm 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ v  =
+ 
+    1.  
+ 
+ k  =
+ 
+    0.01  
+ 
+ W  =
+ 
+    100.  
+ 
+ p  =
+ 
+    150.  
+ 
+
+ Example 4.2 
+ L  =
+ 
+    450.  
+ 
+
+ Distance traveled is 450 mm. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ Q  =
+ 
+    0.0001667  
+ 
+ d  =
+ 
+    20.  
+ 
+ h  =
+ 
+    200.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p  =
+ 
+    2700.  
+ 
+ neeta  =
+ 
+    0.004  
+ 
+ 
+
+ Example 5.2 
+ A1  =
+ 
+    0.0003142  
+ 
+ v1  =
+ 
+    0.5306226  
+ 
+ v2  =
+ 
+    2.0507463  
+ 
+ A2  =
+ 
+    0.0000396  
+ 
+ D  =
+ 
+    0.0071041  
+ 
+ Re  =
+ 
+    9833.9191  
+ 
+ 
+
+ Resultant velocity is 2.05 m/sec 
+ Reynolds number is 9833 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ v  =
+ 
+    1.  
+ 
+
+ Example 5.3 
+ A_cube  =
+ 
+    6.  
+ 
+ A_cylinder  =
+ 
+    5.5358104  
+ 
+ 
+ A_sphere  =
+ 
+    4.8359759  
+ 
+ K1  =
+ 
+    0.0427594  
+ 
+ K2  =
+ 
+    0.0277778  
+ 
+ K3  =
+ 
+    0.0326315  
+ 
+
+ Respective time periods are as: 
+
+ t_sphere: 0.043C 	 t_cube = 0.028C 	 t_cylinder = 0.033C 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ d1  =
+ 
+    200.  
+ 
+ h1  =
+ 
+    125.  
+ 
+ h2  =
+ 
+    50.  
+ 
+ K  =
+ 
+    760.  
+ 
+ n  =
+ 
+    0.19  
+ 
+ mu  =
+ 
+    0.2  
+ 
+
+ Example 6.1 
+ epsilon1  =
+ 
+    0.9162907  
+ 
+ Yf  =
+ 
+    747.48059  
+ 
+ v  =
+ 
+    3926990.8  
+ 
+ r2  =
+ 
+    158.11388  
+ 
+ 
+ P_av  =
+ 
+    1062.6461  
+ 
+ F  =
+ 
+    83460028.  
+ 
+
+ Required upsetting force is 8.35e+07 N 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ t1  =
+ 
+    20.  
+ 
+ t2  =
+ 
+    12.  
+ 
+ R  =
+ 
+    300.  
+ 
+ N  =
+ 
+    100.  
+ 
+ w  =
+ 
+    250.  
+ 
+ K  =
+ 
+    895.  
+ 
+ n  =
+ 
+    0.49  
+ 
+ mu  =
+ 
+    0.1  
+ 
+
+ Example 6.4 
+ L  =
+ 
+    0.0489898  
+ 
+ epsilon  =
+ 
+    0.5108256  
+ 
+ Y_bar  =
+ 
+    432.20559  
+ 
+ Y_bar_1  =
+ 
+    498.37328  
+ 
+ F  =
+ 
+    6103801.2  
+ 
+ p  =
+ 
+    3131.3717  
+ 
+ 
+
+ Power required for rolling is 3131 kW. 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ D  =
+ 
+    150.  
+ 
+ H  =
+ 
+    300.  
+ 
+ v  =
+ 
+    330.  
+ 
+ d  =
+ 
+    75.  
+ 
+ mu  =
+ 
+    0.1  
+ 
+ C  =
+ 
+    240.  
+ 
+ m  =
+ 
+    0.06  
+ 
+ a  =
+ 
+    0.8  
+ 
+ b  =
+ 
+    1.5  
+ 
+
+ Example 6.6 
+ R  =
+ 
+    4.  
+ 
+ epsilon  =
+ 
+    16.635532  
+ 
+ sigma  =
+ 
+    284.10145  
+ 
+ Y_bar  =
+ 
+    284.10145  
+ 
+ p  =
+ 
+    818.05351  
+ 
+ F  =
+ 
+    14456199.  
+ 
+
+ Force required for rolling is 1.4e+07 N. 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ t1  =
+ 
+    6.  
+ 
+ t2  =
+ 
+    3.  
+ 
+ v  =
+ 
+    0.6  
+ 
+ x  =
+ 
+    0.35  
+ 
+ K  =
+ 
+    895.  
+ 
+ n  =
+ 
+    0.49  
+ 
+ 
+
+ Example 6.7 
+ 
+ epsilon  =
+ 
+    0.6931472  
+ 
+ Y_bar  =
+ 
+    501.92779  
+ 
+ Af  =
+ 
+    0.0000071  
+ 
+ F  =
+ 
+    0.0024592  
+ 
+ power  =
+ 
+    0.0014755  
+ 
+
+ Part A: 
+
+ Power required for operation is 1475 W. 
+ p_act  =
+ 
+    0.0019920  
+ 
+ Yf  =
+ 
+    747.87241  
+ 
+ sigma_d  =
+ 
+    469.67828  
+ 
+ p  =
+ 
+    278.19413  
+ 
+ 
+
+
+ Part B: 
+
+ Die pressure at exit of die is 278 MPa. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ L  =
+ 
+    30.  
+ 
+ t  =
+ 
+    3.  
+ 
+ UTS  =
+ 
+    1000.  
+ 
+
+ Example 7.1 
+ F  =
+ 
+    0.1979203  
+ 
+
+ Maximum required punching force is 0.198 MN. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ Ri  =
+ 
+    10.  
+ 
+ Y  =
+ 
+    205.  
+ 
+ E  =
+ 
+    190.  
+ 
+ t  =
+ 
+    10.  
+ 
+
+ Example 7.3 
+ K  =
+ 
+    0.0010789  
+ 
+ R_ratio  =
+ 
+    0.9967632  
+ 
+
+ Estimated Springback is 0.9968 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ L_o  =
+ 
+    400.  
+ 
+ L_f  =
+ 
+    441.4  
+ 
+ C  =
+ 
+    700.  
+ 
+ n  =
+ 
+    0.3  
+ 
+ a  =
+ 
+    300.  
+ 
+ A  =
+ 
+    250.  
+ 
+ B  =
+ 
+    150.  
+ 
+ epsilon  =
+ 
+    0.0984869  
+ 
+
+ Example 7.4 
+ u  =
+ 
+    26457388.  
+ 
+ V  =
+ 
+    0.00012  
+ 
+ work  =
+ 
+    3174.8865  
+ 
+
+
+ Part A: 
+
+ Total work done on ignoring end effect and bending is 3174 Nm. 
+ 
+
+ Part B: 
+ sigma  =
+ 
+    0.3  
+ 
+ L_max  =
+ 
+    539.94352  
+ 
+ 
+ a  =
+ 
+    307.01267  
+ 
+ b  =
+ 
+    232.93085  
+ 
+ alpha_max  =
+ 
+    35.481929  
+ 
+ 
+ 
+ Maximum value of alpha before necking begins is 35.5 degrees. 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ m  =
+ 
+    0.1  
+ 
+ d  =
+ 
+    0.5  
+ 
+ K  =
+ 
+    39000000.  
+ 
+ a  =
+ 
+    1.15  
+ 
+
+ Example 7.5 
+ p  =
+ 
+    35802699.  
+ 
+
+ Pressure of amount 35.8 MPa is sufficient to form sheet metals. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ epsilon_max  =
+ 
+    1.  
+ 
+
+ Example 7.8 
+ D0_Dp  =
+ 
+    2.7182818  
+ 
+
+  Theoretical limiting drawing ratio is 2.718 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ 
+ D_0  =
+ 
+    300.  
+ 
+ e  =
+ 
+    40.  
+ 
+
+ Example 7.10 
+ D_f  =
+ 
+    420.  
+ 
+
+ Maximum diameter to which object can be safely expanded is 420 mm. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ t_o  =
+ 
+    0.01  
+ 
+ V  =
+ 
+    125.  
+ 
+ alpha  =
+ 
+    10.  
+ 
+ t_c  =
+ 
+    0.014  
+ 
+ w  =
+ 
+    6.  
+ 
+ F_c  =
+ 
+    55.  
+ 
+ F_t  =
+ 
+    25.  
+ 
+
+ Example 8.1 
+ r  =
+ 
+    0.7142857  
+ 
+ R  =
+ 
+    60.41523  
+ 
+ Beta  =
+ 
+    34.443955  
+ 
+ F  =
+ 
+    34.170844  
+ 
+ percentage  =
+ 
+    44.377719  
+ 
+
+ Percentage frictional energy is 44.4% 
+
+ Percentage shear energy is 55.6% 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ d_i  =
+ 
+    10.  
+ 
+ l  =
+ 
+    125.  
+ 
+ del_d  =
+ 
+    0.5  
+ 
+ K  =
+ 
+    1275.  
+ 
+ n  =
+ 
+    0.45  
+ 
+ Es  =
+ 
+    4.1  
+ 
+
+ Example 8.2 
+
+
+ Part A: 
+ d_o  =
+ 
+    9.5  
+ 
+ epsilon  =
+ 
+    0.1025866  
+ 
+ u  =
+ 
+    32376026.  
+ 
+ W_tension  =
+ 
+    317.85089  
+ 
+ 
+
+ Work done by pulling in tension is 317 Nm. 
+
+
+ Part B: 
+ V  =
+ 
+    957.20401  
+ 
+ W_mach  =
+ 
+    3924.5364  
+ 
+ ratio  =
+ 
+    12.347099  
+ 
+
+ Work done by machining on lathe is 3924 Nm. 
+
+ Work done on machining is about 12 time higher than that of tension. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ n  =
+ 
+    0.5  
+ 
+ C  =
+ 
+    400.  
+ 
+ v_ratio  =
+ 
+    0.5  
+ 
+
+ Example 8.3 
+ t_ratio  =
+ 
+    4.  
+ 
+ del_t  =
+ 
+    3.  
+ 
+
+ On making velocity to 0.5 times of initial, 
+ Increase in life time is 300%. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ D_o  =
+ 
+    10.  
+ 
+ N  =
+ 
+    360.  
+ 
+ D_i  =
+ 
+    9.  
+ 
+ x  =
+ 
+    1.75  
+ 
+ l  =
+ 
+    125.  
+ 
+ rate  =
+ 
+    4.  
+ 
+
+ Example 8.4 
+ V_o  =
+ 
+    11.309734  
+ 
+ V_i  =
+ 
+    10.17876  
+ 
+ d  =
+ 
+    0.5  
+ 
+ f  =
+ 
+    0.4861111  
+ 
+ mrr  =
+ 
+    2611.4489  
+ 
+ t  =
+ 
+    0.6944444  
+ 
+ power  =
+ 
+    174.09659  
+ 
+ T  =
+ 
+    4.6180556  
+ 
+ F_c  =
+ 
+    972.22222  
+ 
+
+ Material removal rate is 2611.45 mm^3/min. 
+ 
+
+ Cutting force is 972 N. 
+ 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ D  =
+ 
+    160.  
+ 
+ w  =
+ 
+    70.  
+ 
+ l  =
+ 
+    450.  
+ 
+ d  =
+ 
+    3.  
+ 
+ v  =
+ 
+    0.5  
+ 
+ N  =
+ 
+    120.  
+ 
+ p_u  =
+ 
+    1.1  
+ 
+
+ Example 8.6 
+ a  =
+ 
+    210.  
+ 
+ mrr  =
+ 
+    105000.  
+ 
+ l_c  =
+ 
+    80.  
+ 
+ t  =
+ 
+    1.22  
+ 
+ f  =
+ 
+    0.1388889  
+ 
+ power  =
+ 
+    1925.  
+ 
+ 
+
+ Material removal rate is 105000 mm^3/min. 
+
+ power required in milling is 1.925 kW. 
+
+ Required time for milling is 1.22 min. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ D  =
+ 
+    150.  
+ 
+ d  =
+ 
+    0.03  
+ 
+ C  =
+ 
+    3.  
+ 
+ r  =
+ 
+    12.  
+ 
+ v  =
+ 
+    0.4  
+ 
+ V  =
+ 
+    25.  
+ 
+
+ Example 9.1 
+ l  =
+ 
+    2.1213203  
+ 
+ t  =
+ 
+    0.0050141  
+ 
+
+ Length of chip is 2.12 mm. 
+ Thickness of chip is 0.005 mm. 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ d  =
+ 
+    0.04  
+ 
+ D  =
+ 
+    200.  
+ 
+ N  =
+ 
+    3600.  
+ 
+ w  =
+ 
+    20.  
+ 
+ v  =
+ 
+    1200.  
+ 
+ u  =
+ 
+    41.  
+ 
+ x  =
+ 
+    0.3  
+ 
+
+ Example 9.2 
+ mrr  =
+ 
+    9600.  
+ 
+ power  =
+ 
+    6560.  
+ 
+ T  =
+ 
+    17.40094  
+ 
+ F_c  =
+ 
+    174.0094  
+ 
+ F_n  =
+ 
+    226.21223  
+ 
+ 
+
+
+ Forces in surface grinding are as: 
+ F_c:174 N 	 F_n: 226 N 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+ d  =
+ 
+    12.  
+ 
+ I  =
+ 
+    5.  
+ 
+ C  =
+ 
+    1.5  
+ 
+ neeta  =
+ 
+    0.92  
+ 
+ depth  =
+ 
+    15.  
+ 
+ N  =
+ 
+    325.  
+ 
+ f1  =
+ 
+    0.15  
+ 
+ 
+
+ Example 9.5 
+ f  =
+ 
+    6.9  
+ 
+ T_e  =
+ 
+    2.173913  
+ 
+ f_rate  =
+ 
+    48.75  
+ 
+ T_d  =
+ 
+    0.3076923  
+ 
+ t_ratio  =
+ 
+    0.1415385  
+ 
+
+ Machining time in electrochemical is 2.17 min. 
+
+ Machining time in drilling is 0.31 min. 
+
+ Machining time in drilling is 14 % of ECM.  
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ 
+ d  =
+ 
+    12.5  
+ 
+ I  =
+ 
+    100.  
+ 
+ I1  =
+ 
+    5.  
+ 
+ h  =
+ 
+    20.  
+ 
+ C  =
+ 
+    1.5  
+ 
+ neeta  =
+ 
+    0.92  
+ 
+ depth  =
+ 
+    15.  
+ 
+ N  =
+ 
+    325.  
+ 
+ f1  =
+ 
+    0.15  
+ 
+ T_m  =
+ 
+    1873.15  
+ 
+ t_m  =
+ 
+    1373.15  
+ 
+
+ Example 9.6 
+
+
+ Part A: 
+ T_w  =
+ 
+    1600.  
+ 
+ mrr  =
+ 
+    458.13388  
+ 
+ v  =
+ 
+    2454.3693  
+ 
+ t  =
+ 
+    5.3573188  
+ 
+ f  =
+ 
+    6.9  
+ 
+ T_e  =
+ 
+    2.173913  
+ 
+ f_rate  =
+ 
+    48.75  
+ 
+ T_d  =
+ 
+    0.3076923  
+ 
+ t_edm_ecm  =
+ 
+    2.4643666  
+ 
+ t_edm_d  =
+ 
+    17.411286  
+ 
+
+ Machining time for EDM is 5.4 min. 
+
+ This time is 2.46 time of that for ECM.  
+
+ This time is 17.41 time of that for drilling.  
+
+ Part B: 
+ t_t  =
+ 
+    1100.  
+ 
+ W_t  =
+ 
+    0.0635153  
+ 
+
+ Wear rate of electrode is 0.064 mm^3/min. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ w_avg  =
+ 
+    62500.  
+ 
+ 
+ A_H  =
+ 
+    1.  
+ 
+ A_C  =
+ 
+    12.  
+ 
+ A_cl  =
+ 
+    35.5  
+ 
+ n_H  =
+ 
+    3.  
+ 
+ n_C  =
+ 
+    2.  
+ 
+ n_cl  =
+ 
+    1.  
+ 
+
+ Example 10_1 
+ w  =
+ 
+    62.5  
+ 
+ D  =
+ 
+    1000.  
+ 
+ 
+
+ Degree of polymerization in polyvinyl chloride is 1000 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ T1  =
+ 
+    453.  
+ 
+ T2  =
+ 
+    423.  
+ 
+ k  =
+ 
+    2.2  
+ 
+
+ Example 10.2 
+ del_t  =
+ 
+    30.  
+ 
+ neeta1  =
+ 
+    395877.64  
+ 
+ neeta2  =
+ 
+    179944.38  
+ 
+ del_t  =
+ 
+    32.61072  
+ 
+ T_n  =
+ 
+    455.61072  
+ 
+
+ Polymer should be processed at 455.6 K . 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ 
+ sigma1  =
+ 
+    6.  
+ 
+ sigma2  =
+ 
+    3.  
+ 
+ sigma3  =
+ 
+    1.  
+ 
+ t1  =
+ 
+    25.  
+ 
+
+ Example 10.3 
+ lambda  =
+ 
+    36.067376  
+ 
+ t  =
+ 
+    64.624063  
+ 
+
+ It will take time of 64.6 days 
+ for stress level to reach one tenth of its original value. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ x  =
+ 
+    0.15  
+ 
+ Ef  =
+ 
+    250.  
+ 
+ Em  =
+ 
+    80.  
+ 
+ sigma_f  =
+ 
+    2000.  
+ 
+ sigma_m  =
+ 
+    100.  
+ 
+ Fc  =
+ 
+    1.  
+ 
+
+ Example 10.4 
+ Ec  =
+ 
+    105.5  
+ 
+ F_ratio  =
+ 
+    0.5514706  
+ 
+
+ Part A: 
+
+ Elastic modulus of composite is 105.5 GPa. 
+ Fm  =
+ 
+    0.6445498  
+ 
+ Ff  =
+ 
+    0.3554502  
+ 
+
+ Fraction of load supported by fibers is 35%. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH10/EX10.6/Ex10_6.sce #
+ 
+ 
+ w  =
+ 
+    300.  
+ 
+
+ Example 10.6 
+
+
+ Part A: 
+ p  =
+ 
+    600.  
+ 
+ D  =
+ 
+    190.98593  
+ 
+ d  =
+ 
+    76.394373  
+ 
+
+ Extrusion diameter is to be 76 mm. 
+ 
+
+ Part B: 
+
+ It is a theoretical problem. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH10/EX10.7/Ex10_7.sce #
+ 
+ 
+ D  =
+ 
+    110.  
+ 
+ p  =
+ 
+    100.  
+ 
+ C  =
+ 
+    980.  
+ 
+
+ Example 10.7 
+ A  =
+ 
+    9503.3178  
+ 
+ f  =
+ 
+    950.33178  
+ 
+ k  =
+ 
+    1.  
+ 
+ 
+
+ Mould can support the production of 1 gear per cycle. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ D  =
+ 
+    1.  
+ 
+ L  =
+ 
+    1.  
+ 
+ h  =
+ 
+    2.  
+ 
+
+ Example 11.1 
+
+ Part A: 
+ D_eq  =
+ 
+    1.  
+ 
+ A  =
+ 
+    3.1415927  
+ 
+ V  =
+ 
+    0.5235988  
+ 
+ k  =
+ 
+    6.  
+ 
+
+ Shape factor for spherical particle is 6 
+
+
+ Part B: 
+ A  =
+ 
+    6.  
+ 
+ V  =
+ 
+    1.  
+ 
+ D_eq  =
+ 
+    1.240701  
+ 
+ k  =
+ 
+    7.4442059  
+ 
+
+ Shape factor for cubic particle is 7.44 
+
+
+ Part C: 
+ A  =
+ 
+    7.8539816  
+ 
+ V  =
+ 
+    1.5707963  
+ 
+ D_eq  =
+ 
+    1.4422496  
+ 
+ k  =
+ 
+    7.2112479  
+ 
+
+ Shape factor for cylindrical particle is 7.21 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ m_fe  =
+ 
+    1000.  
+ 
+ m_l  =
+ 
+    25.  
+ 
+ d_fe  =
+ 
+    7.86  
+ 
+ d_l  =
+ 
+    1.2  
+ 
+ d_ap  =
+ 
+    2.75  
+ 
+ m_L  =
+ 
+    30.  
+ 
+
+ Example 11.2 
+ V  =
+ 
+    148.0598  
+ 
+ w  =
+ 
+    1030.  
+ 
+ d_th  =
+ 
+    6.9566488  
+ 
+ d_m_ap  =
+ 
+    2.433942  
+ 
+ 
+
+ Apparent density of metal powder lubricant mix is 2.43 g/cm^3. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ k  =
+ 
+    0.6  
+ 
+ mu  =
+ 
+    0.4  
+ 
+ d  =
+ 
+    10.  
+ 
+ px  =
+ 
+    0.  
+ 
+ px_p0  =
+ 
+    0.5  
+ 
+
+ Example 11.3 
+
+
+ Part A: 
+
+ Value of X must approach infinity for pressure to decay to zero. 
+ 
+
+ Part B: 
+ X  =
+ 
+    7.2202831  
+ 
+
+ Value of X, required to get pressure to decay to 0.5 is 7.22 mm.  
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ del_l  =
+ 
+    0.05  
+ 
+ rho_sint  =
+ 
+    90.  
+ 
+
+ Example 11.4 
+ rho_green  =
+ 
+    77.16375  
+ 
+
+ Density of green compact becomes 77%. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ UTS0  =
+ 
+    125.  
+ 
+ E0  =
+ 
+    500.  
+ 
+ k0  =
+ 
+    0.6  
+ 
+ n  =
+ 
+    6.  
+ 
+ p  =
+ 
+    0.15  
+ 
+
+ Example 11.7 
+ UTS  =
+ 
+    59.045819  
+ 
+ E  =
+ 
+    367.625  
+ 
+ k  =
+ 
+    0.51  
+ 
+
+ Due to 15% porosity 
+
+ Tensile strength becomes 59 MPa. 
+
+ Modulus of elasticity becomes 367 GPa. 
+
+ Thermal conductivity becomes 0.51 W/m-K. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ L  =
+ 
+    25.  
+ 
+ s_d  =
+ 
+    0.09  
+ 
+ s_f  =
+ 
+    0.05  
+ 
+ p_f  =
+ 
+    4.  
+ 
+
+ Example 11.9 
+
+
+ Part A: 
+ L_d  =
+ 
+    26.315789  
+ 
+ L_o  =
+ 
+    28.684211  
+ 
+
+ Initial length of part is 28.68 mm. 
+
+ Part B: 
+ Va_Vd  =
+ 
+    0.82308  
+ 
+
+ Porosity P_d of dried part is 17.69%. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ V  =
+ 
+    20.  
+ 
+ I  =
+ 
+    200.  
+ 
+ A  =
+ 
+    30.  
+ 
+ e  =
+ 
+    0.75  
+ 
+ u_al  =
+ 
+    2.9  
+ 
+ u_c  =
+ 
+    12.3  
+ 
+ u_ti  =
+ 
+    14.3  
+ 
+
+ Example 12.1 
+ v_al  =
+ 
+    34.482759  
+ 
+ v_c  =
+ 
+    8.1300813  
+ 
+ v_ti  =
+ 
+    6.993007  
+ 
+
+ velocity for aluminum is 34.5 mm/sec.  
+
+ velocity for carbon is 8.1 mm/sec.  
+
+ velocity for titanium is 7.0 mm/sec.  
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ V  =
+ 
+    20.  
+ 
+ b  =
+ 
+    10.  
+ 
+ h  =
+ 
+    10.  
+ 
+ e  =
+ 
+    0.75  
+ 
+ u  =
+ 
+    10.3  
+ 
+ v  =
+ 
+    10.  
+ 
+
+ Example 12.2 
+ A  =
+ 
+    50.  
+ 
+ I  =
+ 
+    343.33333  
+ 
+
+ Amount of current needed for welding is 343 Ampere. 
+ 
+ 
+grepthis#Manufacturing_Processes_For_Engineering_Materials_S._Kalpakjian_And_S._R._Schmid_3257/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ I  =
+ 
+    5500.  
+ 
+ R  =
+ 
+    250.  
+ 
+ T  =
+ 
+    0.15  
+ 
+ d  =
+ 
+    6.  
+ 
+ t  =
+ 
+    3.  
+ 
+ rho  =
+ 
+    7850.  
+ 
+ E  =
+ 
+    1400.  
+ 
+
+ Example 12.5 
+ Heat  =
+ 
+    1134.375  
+ 
+ V  =
+ 
+    84.823002  
+ 
+ m  =
+ 
+    0.6658606  
+ 
+ E_tot  =
+ 
+    932.20479  
+ 
+ H_r  =
+ 
+    202.17021  
+ 
+ H_per  =
+ 
+    17.822167  
+ 
+
+ Amount of heat generated is 1134 J. 
+
+ Amount of heat in weld zone is 202 J or 17%. 
+ 
+ 
+ 

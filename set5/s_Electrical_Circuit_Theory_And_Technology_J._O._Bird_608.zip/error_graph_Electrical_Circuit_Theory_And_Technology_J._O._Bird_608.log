@@ -1,0 +1,20 @@
+ERROR: Electrical_Circuit_Theory_And_Technology_J._O._Bird_608/CH10/EX10.03/10_03.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rv  =
+ 
+    2000000.  
+ 
+Iv = V/Rv
+       !--error 4 
+Undefined variable: V
+at line      11 of exec file called by :    
+_O._Bird_608/CH10/EX10.03/10_03.sce',-1
+ 

@@ -1,0 +1,4746 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 128
+
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.1/Example1_1.sce #
+ 
+ Beta  =
+ 
+    0.1  
+ 
+ D  =
+ 
+    200.  
+ 
+ lambda  =
+ 
+    0.00055  
+ 
+ 
+
+ # Problem 1 # 
+ 
+ d  =
+ 
+    0.11  
+ 
+ 
+ Standard formula used 
+  beta= lambda*D/d 
+ 
+ 
+
+ Separation between sources is 0.110000 cm. 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.2/Example1_2.sce #
+ 
+ 
+ D  =
+ 
+    80.  
+ 
+ d  =
+ 
+    0.18  
+ 
+ n  =
+ 
+    4.  
+ 
+ x_n  =
+ 
+    1.08  
+ 
+ 
+
+ # Problem 2 # 
+ 
+ 
+ Standard formula used 
+   x_n= n*lambda*D/d 
+ 
+ 
+ lambda  =
+ 
+    6075.  
+ 
+
+ Wavelength of light used is 6075 Angstrom. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.3/Example1_3.sce #
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.032  
+ 
+ D  =
+ 
+    100.  
+ 
+ d  =
+ 
+    0.184  
+ 
+ 
+
+ # Problem 3 # 
+ 
+ 
+ Standard formula used   beta=lambda*D/d 
+ 
+ 
+ lambda  =
+ 
+    5888.  
+ 
+
+ Wavelength of light used is 5888 Angstrom. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.4/Example1_4.sce #
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.02  
+ 
+ D  =
+ 
+    100.  
+ 
+ u  =
+ 
+    30.  
+ 
+ I  =
+ 
+    0.7  
+ 
+ 
+
+ # Problem 4 # 
+ 
+ 
+ Standard formula used 
+ beta=lambda*D/d 
+ 
+ 
+ v  =
+ 
+    70.  
+ 
+ O  =
+ 
+    0.3  
+ 
+ d  =
+ 
+    0.3  
+ 
+ lambda  =
+ 
+    6000.  
+ 
+
+ Wavelength of light used is 6000 Angstrom. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.5/Example1_5.sce #
+ 
+ 
+ x_n  =
+ 
+    1.88  
+ 
+ N  =
+ 
+    20.  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.02  
+ 
+ D  =
+ 
+    120.  
+ 
+ d  =
+ 
+    0.076  
+ 
+ 
+
+ # Problem 5 # 
+ 
+ 
+ Standard formula used 
+   beta= lambda*D/d 
+ 
+ beta  =
+ 
+    0.094  
+ 
+ lambda  =
+ 
+    5953.3333  
+ 
+
+ Wavelength of light used is 5953 Angstrom. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.6/Example1_6.sce #
+ 
+ 
+ mu  =
+ 
+    1.5  
+ 
+ theta  =
+ 
+    0.0174533  
+ 
+ y1  =
+ 
+    10.  
+ 
+ y2  =
+ 
+    100.  
+ 
+ lambda  =
+ 
+    0.0000589  
+ 
+ 
+
+ # Problem 6 # 
+ 
+
+ Standard formula used 
+ Beta = (D * lambda) / d 
+ d  =
+ 
+    0.1745329  
+ 
+ D  =
+ 
+    110.  
+ 
+ Beta  =
+ 
+    0.0371408  
+ 
+
+ Fringe width observed at distance 1 meter  is 0.037141 m 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.7/Example1_7.sce #
+ 
+ 
+ mu  =
+ 
+    1.52  
+ 
+ theta  =
+ 
+    0.0174533  
+ 
+ y1  =
+ 
+    25.  
+ 
+ y2  =
+ 
+    175.  
+ 
+ lambda  =
+ 
+    0.000055  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    0.02  
+ 
+ 
+
+ # Problem 7 # 
+ 
+ 
+ Standard formula used 
+   beta= lambda*D/d. 
+ 
+ D  =
+ 
+    200.  
+ 
+ d  =
+ 
+    0.55  
+ 
+ theta  =
+ 
+    0.0211538  
+ 
+ vertex_angle  =
+ 
+    177.57595  
+ 
+
+ Vertex angle of biprism   is 177.575948 degree. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.8/Example1_8.sce #
+ 
+ 
+ mu  =
+ 
+    1.6  
+ 
+ lambda  =
+ 
+    0.0000589  
+ 
+ N  =
+ 
+    15.  
+ 
+ 
+
+ # Problem 8 # 
+ 
+ 
+ Standard formula used 
+   del_x = D/2d *(mu-1)*t 
+ 
+ t  =
+ 
+    0.0014725  
+ 
+
+ Thickness of sheet is 1.472500e-03 cm. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.9/Example1_9.sce #
+ 
+ 
+ t  =
+ 
+    0.00035  
+ 
+ lambda  =
+ 
+    0.000055  
+ 
+ N  =
+ 
+    4.  
+ 
+ 
+
+ # Problem 9 # 
+ 
+ 
+ Standard formula used 
+   (mu – 1 )*t = n* lambda 
+ 
+ mu  =
+ 
+    1.6285714  
+ 
+
+ Refractive index of sheet is 1.628571 . 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.10/Example1_10.sce #
+ 
+ 
+ t  =
+ 
+    0.00005  
+ 
+ theta  =
+ 
+    35.  
+ 
+ mu  =
+ 
+    1.33  
+ 
+ 
+
+ # Problem 10 # 
+ 
+ a  =
+ 
+    0.  
+ 
+Standard formula used 
+	 2*mu*t*cos(r) = n*lambda  
+ r  =
+ 
+    0.4458894  
+ 
+ lambda  =
+ 
+    0.0001200  
+ a  =
+ 
+    1.  
+ lambda  =
+ 
+    0.0000600  
+ a  =
+ 
+    2.  
+ lambda  =
+ 
+    0.0000400  
+ 
+ 
+
+ The lowest order n = 2 will be absent in visible region. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.11/Example1_11.sce #
+ 
+ 
+ D  =
+ 
+    120.  
+ 
+ d  =
+ 
+    0.00075  
+ 
+ l  =
+ 
+    1.888  
+ 
+ N  =
+ 
+    25.  
+ 
+ 
+
+ # Problem 11 # 
+ 
+ 
+ Standard formula used 
+ beta=lambda*D/d 
+ 
+ lambda  =
+ 
+    4720.  
+ 
+
+ Wavelength of light used is 4720 Angstrom. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.12/Example1_12.sce #
+ 
+ 
+ D15  =
+ 
+    0.59  
+ 
+ D5  =
+ 
+    0.336  
+ 
+ R  =
+ 
+    100.  
+ 
+ 
+
+ # Problem 12 # 
+ 
+ p  =
+ 
+    10.  
+ 
+ 
+ Standard formula used 
+ D_a^2 – D_b^2 = 4*p*R*lambda 
+ 
+ 
+ lambda  =
+ 
+    5880.1  
+ 
+
+ Wavelength of light used is 5880 Angstrom. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.13/Example1_13.sce #
+ 
+ 
+ t  =
+ 
+    40.  
+ 
+ lambda  =
+ 
+    0.00005  
+ 
+ n  =
+ 
+    150.  
+ 
+ 
+
+ # Problem 13 # 
+ 
+ 
+ Standard formula used 
+   (mu – 1 )*t = n* lambda 
+ 
+ t  =
+ 
+    1.0001875  
+ 
+
+ Refractive index of oil film is 1.000188  . 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.14/Example1_14.sce #
+ 
+ 
+ no_fringe  =
+ 
+    250.  
+ 
+ lambda1  =
+ 
+    0.00004  
+ 
+ lambda2  =
+ 
+    0.000065  
+ 
+ 
+ 
+
+ # Problem 14 # 
+ 
+ 
+ Standard formula used 
+  2*t = p*lambda 
+ p  =
+ 
+    400.  
+ 
+ t  =
+ 
+    0.013  
+ 
+
+ Thickness  of air film  is 0.013000 cm.   
+ 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.15/Example1_15.sce #
+ 
+ 
+ mu_oil  =
+ 
+    1.3  
+ 
+ mu_glass  =
+ 
+    1.5  
+ 
+ lambda1  =
+ 
+    0.0000005  
+ 
+ lambda2  =
+ 
+    0.0000007  
+ 
+ 
+ 
+
+ # Problem 15 # 
+ 
+ 
+ Standard formula used 
+   2*mu*t*cos r = (p +0.5)*lambda 
+ 
+ p  =
+ 
+    3.  
+ 
+ t  =
+ 
+    6730.7692  
+ 
+
+ Thickness of oil film  is 6731 Angstrom.   
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.16/Example1_16.sce #
+ 
+ 
+ lambda  =
+ 
+    0.000056  
+ 
+ f  =
+ 
+    4.  
+ 
+ mu  =
+ 
+    1.5  
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+
+ # Problem 16 # 
+ 
+ 
+ Standard formula used 
+   D_n= sqrt(2*(2*n-1)*lambda*R 
+ 
+ R  =
+ 
+    4.  
+ 
+ D_4  =
+ 
+    0.56  
+ 
+Diameter of 4th bright fringe is 0.560000 cm. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.17/Example1_17.sce #
+ 
+ 
+ D_5  =
+ 
+    0.336  
+ 
+ D_15  =
+ 
+    0.59  
+ 
+ lambda  =
+ 
+    0.0000589  
+ 
+ p  =
+ 
+    10.  
+ 
+ 
+
+ # Problem 17 # 
+ 
+ 
+ Standard formula used 
+   D_(n+p) ^2 – D_n^2 = 4*p*R*lambda 
+ 
+ r  =
+ 
+    99.781096  
+ 
+
+  Radius of curvature of Plano-convex lens is 99.781096 cm.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.18.1/Example1_18a.sce #
+ 
+ 
+ D_10  =
+ 
+    0.5  
+ 
+ lambda  =
+ 
+    0.000059  
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+
+ # Problem 18a # 
+ 
+ 
+ Standard formula used 
+   r_n^2 = n*lambda*R 
+ 
+ r  =
+ 
+    0.25  
+ 
+ R  =
+ 
+    0.1059322  
+ 
+Radius of curvature is 0.105932 m.
+  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.18.2/Example1_18b.sce #
+ 
+ 
+ lambda  =
+ 
+    0.000059  
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+
+ # Problem 18b # 
+ 
+ 
+ Standard formula used 
+   2t = n*lambda 
+ 
+ t  =
+ 
+    0.0000030  
+ 
+ Thickness of air film is 2.950000e-06 m.
+  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.19/Example1_19.sce #
+ 
+ 
+ mu  =
+ 
+    1.3333333  
+ 
+ D_10  =
+ 
+    0.6  
+ 
+ lambda  =
+ 
+    0.00006  
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+ 
+
+ # Problem 19 # 
+ 
+ 
+ Standard formula used 
+   D_n^2 = 4*n*lambda*R/mu 
+ 
+ R  =
+ 
+    200.  
+ 
+ 
+ Radius of curvature of lens is 200 cm.
+  
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.20/Example1_20.sce #
+ 
+ 
+ grating_element  =
+ 
+    6000.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ 
+
+ # Problem 20 # 
+ 
+ 
+ Standard formula used 
+   n*lambda= (a+b)*sin(theta) 
+ 
+ 
+ lambda  =
+ 
+    0.0000417  
+ 
+ Wavelength is 4.166667e-05 cm.
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.21/Example1_21.sce #
+ 
+ 
+ lambda  =
+ 
+    0.000062  
+ 
+ grating_element  =
+ 
+    0.0002  
+ 
+ theta  =
+ 
+    90.  
+ 
+ 
+ 
+
+ # Problem 21 # 
+ 
+ 
+ Standard formula used 
+   n*lambda= (a+b)*sin(theta)  
+ 
+ n  =
+ 
+    3.2258065  
+ 
+ Maximum order n = 3 may be seen in between the given wavelength spectrum.
+  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.22/Example1_22.sce #
+ 
+ 
+ lambda  =
+ 
+    0.000055  
+ 
+ grating_element  =
+ 
+    0.00025  
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+ 
+
+ # Problem 22 # 
+ 
+ 
+ Standard formula used 
+   n*lambda= (a+b)*sin(theta)
+ 
+ sin_theta  =
+ 
+    0.66  
+ 
+ cos_theta  =
+ 
+    0.7512656  
+ 
+ disp_pow  =
+ 
+    15973.046  
+ 
+ Dispersive power   is 15973. 
+  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.23.1/Example1_23a.sce #
+ 
+ 
+ lambda1  =
+ 
+    0.0000589  
+ 
+ lambda2  =
+ 
+    0.0000590  
+ 
+ n  =
+ 
+    1.  
+ 
+ t  =
+ 
+    2.  
+ 
+ grating_element  =
+ 
+    425.  
+ 
+ 
+ 
+
+ # Problem 23a # 
+ 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N 
+ 
+ total_line  =
+ 
+    850.  
+ 
+
+ Total number of lines on diffraction grating is 850 
+  So 
+ N  =
+ 
+    981.66667  
+ 
+
+  Lines will not be resolved in 1 order .
+as 981  lines are required  for diffraction  
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.23.2/Example1_23b.sce #
+ 
+ 
+ lambda1  =
+ 
+    0.0000589  
+ 
+ lambda2  =
+ 
+    0.0000590  
+ 
+ n  =
+ 
+    2.  
+ 
+ t  =
+ 
+    2.  
+ 
+ grating_element  =
+ 
+    425.  
+ 
+ 
+ 
+
+ # Problem 23b # 
+ 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N 
+ 
+ total_line  =
+ 
+    850.  
+ 
+
+ Total number of lines on diffraction grating 850 
+ 
+ So 
+ N  =
+ 
+    490.83333  
+ 
+  Lines will be resolved in 2 order
+as 490  lines are required  for diffraction are .  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.24/Example1_24.sce #
+ 
+ 
+ lambda1  =
+ 
+    0.0000589  
+ 
+ lambda2  =
+ 
+    0.0000590  
+ 
+ t  =
+ 
+    2.5  
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ 
+
+ # Problem 24 # 
+ 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N 
+ 
+ N  =
+ 
+    490.83333  
+ 
+ grating_element  =
+ 
+    196.33333  
+ 
+ Minimum number of lines required is 196.333333 .
+  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.25/Example1_25.sce #
+ 
+ 
+ a  =
+ 
+    0.00012  
+ 
+ lambda1  =
+ 
+    0.0000589  
+ 
+ lambda2  =
+ 
+    0.0000590  
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+
+ # Problem 25 # 
+ 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N 
+
+ 
+ d_lambda  =
+ 
+    6.000D-08  
+ 
+ grating_element  =
+ 
+    490.83333  
+ 
+ 
+ Minimum number of lines required is 491 . 
+  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.26/Example1_26.sce #
+ 
+ 
+ a  =
+ 
+    0.00012  
+ 
+ lambda  =
+ 
+    0.00006  
+ 
+ 
+
+ # Problem 26 # 
+ 
+ 
+ Standard formula used 
+   a*sin(theta ) = lambda 
+ 
+ theta  =
+ 
+    0.5235988  
+ 
+ Half angular width of central bright maxima is 31 degree . 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.27/Example1_27.sce #
+ 
+ 
+ lambda1  =
+ 
+    0.000059  
+ 
+ lambda2  =
+ 
+    0.0000590  
+ 
+ lambda  =
+ 
+    0.0000589  
+ 
+ grating_element  =
+ 
+    4000.  
+ 
+ t  =
+ 
+    4.  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+
+ # Problem 27 # 
+ 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N”)
+ 
+ 
+ N  =
+ 
+    16000.  
+ 
+ Resolv_pow  =
+ 
+    981.66667  
+ 
+ N  =
+ 
+    981.66667  
+ 
+ 
+Grating will well resolve two spectral lines. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.28/Example1_28.sce #
+ 
+ 
+ aperture  =
+ 
+    0.0064  
+ 
+ lambda  =
+ 
+    0.0000624  
+ 
+ f  =
+ 
+    50.  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+
+ # Problem 28 # 
+ 
+ 
+ Standard formula used 
+   a*sin(theta ) = lambda 
+ 
+ sin_theta  =
+ 
+    0.00975  
+ 
+ d  =
+ 
+    0.4875  
+ 
+
+ Distance between the center and the first fringe is 0.490000 cm.
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.29/Example1_29.sce #
+ 
+ 
+ theta  =
+ 
+    60.  
+ 
+ 
+ 
+
+ # Problem 29 # 
+  
+Standard formula used is 
+ I = A^2*cos^2(theta) 
+ 
+ ratio  =
+ 
+    3.  
+ 
+Ratio of extraordinary and ordinary intensites is 3.000000 . 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.30/Example1_30.sce #
+ 
+ 
+ mu_e  =
+ 
+    1.553  
+ 
+ mu_o  =
+ 
+    1.544  
+ 
+ lambda  =
+ 
+    0.0000589  
+ 
+ 
+
+ # Problem 30 # 
+  
+Standard formula used is 
+ lambda= 2t(mu_e-mu_o) 
+ 
+ t  =
+ 
+    0.0032722  
+ 
+Thickness of half wave plate of quartz is 3.272222e-03 cm. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.31/Example1_31.sce #
+ 
+ 
+ lambda  =
+ 
+    0.00005  
+ 
+ mu_e  =
+ 
+    1.5533  
+ 
+ mu_o  =
+ 
+    1.5422  
+ 
+ 
+
+ # Problem 31 # 
+  
+ 
+ Standard formula used 
+   lambda= 2t (mu_e-mu_o)
+ 
+ t  =
+ 
+    0.0022523  
+ 
+Thickness of half wave plate of quartz is 2.252252e-03 cm 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.32/Example1_32.sce #
+ 
+ 
+ lambda  =
+ 
+    0.0000589  
+ 
+ rotation  =
+ 
+    0.1745329  
+ 
+ 
+ 
+
+ # Problem 32 # 
+  
+ 
+ Standard formula used 
+   delta=pi*d*del_mu/lambda 
+ 
+ del_mu  =
+ 
+    0.0000033  
+ 
+Difference in refractive indices of substance is 3.272222e-06 .
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH1/EX1.33/Example1_33.sce #
+ 
+ 
+ rotation  =
+ 
+    13.2  
+ 
+ conc  =
+ 
+    0.1  
+ 
+ l  =
+ 
+    2.  
+ 
+ 
+
+ # Problem 33 # 
+  
+ 
+ Standard formula used 
+   delta=pi*d*del_mu/lambda 
+ 
+ s  =
+ 
+    1.1519173  
+ 
+ specific_rotation  =
+ 
+    66.  
+ 
+Specific rotation of sample is 66 degree. 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.2/Example2_2.sce #
+ 
+ 
+ E_0  =
+ 
+    50.  
+ 
+ l  =
+ 
+    100.  
+ 
+ a  =
+ 
+    5.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ 
+
+ # Problem 2  # 
+  
+ v  =
+ 
+    0.0005  
+ 
+ u  =
+ 
+    1.106D-08  
+ 
+ U  =
+ 
+    5.531D-12  
+ 
+ I  =
+ 
+    3.31875  
+ 
+Energy contained in cylinder is 5.531250e-12J 
+ 
+Intensity of wave is 3.318750W/m^2 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.3/Example2_3.sce #
+ 
+ 
+ I  =
+ 
+    2.4  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 3 # 
+  
+ E  =
+ 
+    42.51952  
+ 
+Amplitude of electric field is 42.519520 N/C 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.4/Example2_4.sce #
+ 
+ 
+ l  =
+ 
+    75.  
+ 
+ power  =
+ 
+    0.006  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 4 # 
+  
+ t  =
+ 
+    2.500D-09  
+ 
+ U  =
+ 
+    1.500D-14  
+ 
+Energy stored in given length is 1.500000e-14 J 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.6/Example2_6.sce #
+ 
+ 
+ E_0  =
+ 
+    300.  
+ 
+ v  =
+ 
+    2.000D+08  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+ 
+
+ # Problem 6 # 
+  
+ B_0  =
+ 
+    0.000001  
+ 
+ F_e  =
+ 
+    4.800D-17  
+ 
+ F_b  =
+ 
+    3.200D-17  
+ 
+The maximum electric force on electron is  4.800000e-17 N along y -axis 
+ 
+The maximum magnetic force on electron is  3.200000e-17 N along z - axis
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.7/Example2_7.sce #
+ 
+ 
+ d  =
+ 
+    1.500D+11  
+ 
+ power_sun  =
+ 
+    3.800D+26  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 7 # 
+  
+ s  =
+ 
+    1343.9751  
+ 
+ p  =
+ 
+    0.0000045  
+ 
+Energy received per unit surface area per unit time is 1343.975075 
+
+ Pressure applied by sun radiations on earth is 4.479917e-06 N/m^2 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.8/Example2_8.sce #
+ 
+ 
+ E  =
+ 
+    100.  
+ 
+ r  =
+ 
+    10.  
+ 
+ 
+
+ # Problem 8  # 
+  
+ ds  =
+ 
+    0.01  
+ 
+ phi  =
+ 
+    1.  
+ 
+Flux through coil is  1 Nm/C 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.9/Example2_9.sce #
+ 
+ 
+ sigma  =
+ 
+    0.000002  
+ 
+ theta  =
+ 
+    60.  
+ 
+ r  =
+ 
+    10.  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ 
+
+ # Problem 9  # 
+  
+standard formula used 
+ phi = sigma*A*cos(theta)/(2*epsilon_0) 
+
+ 
+ phi  =
+ 
+    1774.9111  
+ 
+Flux through coil is  1.774911e+03 Nm^2/C. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.10/Example2_10.sce #
+ 
+ 
+ A  =
+ 
+    200.  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ a  =
+ 
+    20.  
+ 
+ 
+
+ # Problem 10 # 
+  
+ q  =
+ 
+    1.779D-10  
+ 
+Charge contained in sphere is  1.779398e-10 C. 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.11/Example2_11.sce #
+ 
+ 
+ B  =
+ 
+    0.2  
+ 
+ del_r  =
+ 
+    1.  
+ 
+ r  =
+ 
+    20.  
+ 
+ R  =
+ 
+    10.  
+ 
+ 
+
+ # Problem 11 # 
+  
+ e  =
+ 
+    0.0025133  
+ 
+ i  =
+ 
+    0.2513274  
+ 
+Current induced due to changing magnetic field is 0.251327 A 
+ 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.12/Example2_12.sce #
+ 
+ 
+ phi  =
+ 
+    0.02  
+ 
+ r  =
+ 
+    2.  
+ 
+ R  =
+ 
+    2.  
+ 
+ 
+
+ # Problem 12 # 
+  
+ a  =
+ 
+    0.0012566  
+ 
+ e  =
+ 
+    0.0000251  
+ 
+ i  =
+ 
+    0.0125664  
+ 
+Current induced due to changing magnetic field is 12.566371 mA 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.13/Example2_13.sce #
+ 
+ 
+ r  =
+ 
+    7.000D+08  
+ 
+ power_sun  =
+ 
+    3.800D+26  
+ 
+ 
+
+ # Problem 13 # 
+  
+ s  =
+ 
+    61713141.  
+ 
+Pressure applied by sun radiations on earth is 6.171314e+07 W/m^2 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.14/Example2_14.sce #
+ 
+ 
+ solar_const  =
+ 
+    2.  
+ 
+ mu_not  =
+ 
+    0.0000013  
+ 
+ epsilon_not  =
+ 
+    8.850D-12  
+ 
+ 
+
+ # Problem 14 # 
+  
+ ratio  =
+ 
+    376.81388  
+ 
+ E  =
+ 
+    726.3191  
+ 
+ E_not  =
+ 
+    1027.1703  
+ 
+ H_not  =
+ 
+    2.7259355  
+ 
+Amplitude of electrical and magnetic vectors are given as 1027.170320 V/m and 2.725935 A/m 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH2/EX2.15/Example2_15.sce #
+ 
+ 
+ r  =
+ 
+    1.  
+ 
+ power  =
+ 
+    100.  
+ 
+ mu_not  =
+ 
+    0.0000013  
+ 
+ epsilon_not  =
+ 
+    8.850D-12  
+ 
+ 
+
+ # Problem 15 # 
+  
+ s  =
+ 
+    7.9577472  
+ 
+ ratio  =
+ 
+    376.81388  
+ 
+ E  =
+ 
+    54.759379  
+ 
+Average value of intensity of electric field is 54.759379 V/m 
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.1/Example3_1.sce #
+ 
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ nu  =
+ 
+    2.000D+15  
+ 
+ phi  =
+ 
+    6.720D-19  
+ 
+ m  =
+ 
+    9.000D-31  
+ 
+ 
+
+
+
+ # Problem 1 # 
+ 
+Standard formula Used 
+ ( 1/2)*m*v^2 = h*nu - phi 
+ v  =
+ 
+    1211060.1  
+ 
+
+ Maximum velocity of photoelectron can be 1.211060e+06  m/s..  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.2/Example3_2.sce #
+ 
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ lambda_threshold  =
+ 
+    0.0000002  
+ 
+ lambda  =
+ 
+    0.0000002  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 2 # 
+ 
+
+ Standard formula Used 
+ E = h * (nu1 – nu2) 
+ E  =
+ 
+    1.03125  
+ 
+
+ Energy of photoelectrons emitted is 1.031250  eV 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.3/Example3_3.sce #
+ 
+ 
+ applied_voltage  =
+ 
+    40000.  
+ 
+ h  =
+ 
+    6.624D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+
+
+
+ # Problem 3 # 
+ 
+
+ Standard formula Used 
+ E = h*c/lambda 
+ lambda  =
+ 
+    0.3105  
+ 
+
+ Shortest wavelength emitted is 0.310500 Angstrom. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.4/Example3_4.sce #
+ 
+ 
+ E  =
+ 
+    1000.  
+ 
+ h  =
+ 
+    6.624D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ 
+
+
+
+ # Problem 4 # 
+ 
+
+ Standard formula Used 
+ E =(1/2)*m *v^2 
+ v  =
+ 
+    18752289.  
+ 
+
+ Velocity of moving electron is 1.875229e+07  m/s. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.5/Example3_5.sce #
+ 
+ 
+ phi  =
+ 
+    6.  
+ 
+ h  =
+ 
+    6.624D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ 
+
+
+
+ # Problem 5 # 
+ 
+
+ Standard formula Used 
+ phi = h * nu 
+ lambda  =
+ 
+    2070.  
+ 
+
+ Longest wavelength to eject electron is 2070  Angstroms.  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.6/Example3_6.sce #
+ 
+ 
+ theta  =
+ 
+    1.5707963  
+ 
+ h  =
+ 
+    6.624D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ 
+
+
+
+ # Problem 6 # 
+ 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c) 
+ delta_lambda  =
+ 
+    2.426D-12  
+ 
+
+ Change in wavelength of electron is 0.024264  Angstrom.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.7/Example3_7.sce #
+ 
+ 
+ angle  =
+ 
+    1.5707963  
+ 
+ h  =
+ 
+    6.624D-34  
+ 
+ v  =
+ 
+    2000000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    0.001  
+ 
+ 
+
+
+
+ # Problem 7 # 
+ 
+
+ Standard formula Used 
+ lambda = h / (m * v) 
+ lambda  =
+ 
+    3.312D-37  
+ 
+
+ de Broglie wavelength of particle is 3.312000e-37  m. 
+
+ Here the de Broglie wavelength is too small to be detected. This wavelength is far smaller than the wavelength of X ray.
+ Hence diffraction experiment with such a stream of particle will not be successful. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.8.1/Example3_8a.sce #
+ 
+ 
+ lambda  =
+ 
+    0.0000004  
+ 
+ phi_Ni  =
+ 
+    5.  
+ 
+ h  =
+ 
+    6.624D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ 
+
+
+
+ # Problem 8a # 
+ 
+ lambda_threshold  =
+ 
+    0.0000004  
+ 
+
+ As the threshold wavelength is less than wavelength of incident radiation 
+ So electron will not be ejected 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.8.2/Example3_8b.sce #
+ 
+ 
+ lambda  =
+ 
+    0.0000004  
+ 
+ phi_K  =
+ 
+    2.3  
+ 
+ h  =
+ 
+    6.624D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ 
+
+
+
+ # Problem 8b # 
+ 
+ lambda_threshold  =
+ 
+    0.0000005  
+ 
+ v  =
+ 
+    454862.7  
+
+ As the threshold wavelength is greater than wavelength of incident radiation So 
+ electron will be ejected with velocity 4.548627e+05 m/s.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.9/Example3_9.sce #
+ 
+ 
+ d  =
+ 
+    3.04  
+ 
+ theta  =
+ 
+    14.7  
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+
+
+
+ # Problem 9 # 
+ 
+
+ Standard formula Used 
+ 2 * d * sin(theta) = n * lambda 
+ lambda  =
+ 
+    0.7714242  
+ 
+ 
+ Second order brags reflection occurs at 14.700000 degree for the wavelength 0.771424 Angstrom
+ 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.10.1/Example3_10a.sce #
+ 
+ 
+ lambda  =
+ 
+    0.52  
+ 
+ theta  =
+ 
+    5.  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+
+
+
+ # Problem 10 a # 
+ 
+
+ Standard formula Used 
+ 2 * d * sin(theta) = n * lambda  
+ d  =
+ 
+    2.9831654  
+ 
+ 
+
+ Separation between adjacent layers of crystals is 2.983165 angstrom.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.10.2/Example3_10b.sce #
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ lambda  =
+ 
+    5.200D-11  
+ 
+ d  =
+ 
+    2.980D-10  
+ 
+ 
+
+
+
+ # Problem 10b # 
+ 
+
+ Standard formula Used 
+ 2 * d * sin(theta) = n * lambda  
+ theta_rad  =
+ 
+    0.1753945  
+ 
+ theta_deg  =
+ 
+    10.049367  
+ 
+
+ Angle for secondary maxima is  10.  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.11/Example3_11.sce #
+ 
+ 
+ nu  =
+ 
+    3.200D+19  
+ 
+ theta  =
+ 
+    90.  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ 
+
+ 
+
+# Problem 11 # 
+ 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c) 
+ lambda  =
+ 
+    9.375D-12  
+ 
+ lambda_shift  =
+ 
+    2.427D-12  
+ 
+ lambda1  =
+ 
+    1.180D-11  
+ 
+ nu1  =
+ 
+    2.542D+19  
+ 
+
+ Frequency after scattering  is 2.541919e+19 Hz.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.12/Example3_12.sce #
+ 
+ 
+ r  =
+ 
+    1.000D-14  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ 
+
+
+
+ # Problem 12 # 
+ 
+
+ Standard formula Used 
+ delta_p * delta_x >= h /(2*pi) 
+ del_x  =
+ 
+    2.000D-14  
+ 
+ del_p  =
+ 
+    5.273D-21  
+ 
+
+ Uncertainty in momentum is 5.272803e-21 Kg-m/s.  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.13/Example3_13.sce #
+ 
+ 
+ v  =
+ 
+    300.  
+ 
+ accuracy  =
+ 
+    0.0001  
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ 
+
+
+
+ # Problem 13 # 
+ 
+
+ Standard formula Used 
+ delta_p * delta_x >= h /(2*pi) 
+ del_p  =
+ 
+    2.730D-32  
+ 
+ del_x  =
+ 
+    0.0019239  
+ 
+
+ Uncertainty in position of electron is 1.923851 mm.  
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.14/Example3_14.sce #
+ 
+ 
+ lambda1  =
+ 
+    6560.  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    2.  
+ 
+ n3  =
+ 
+    3.  
+ 
+ 
+
+
+
+ # Problem 14 # 
+ 
+
+ Standard formula Used 
+
+ For Balmer Series 
+ 1/lambda =  R*(1-(1/n)^2) 
+
+ For Lyman series 
+ 1/lambda =  R*((1/2)^2 -(1/n)^2) 
+ lambda2  =
+ 
+    1214.8148  
+ 
+
+ 
+Wavelength of first line of Lyman series is 1214.814815 Angstrom.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.15/Example3_15.sce #
+ 
+ 
+ m  =
+ 
+    0.002  
+ 
+ k  =
+ 
+    100.  
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ 
+
+
+
+ # Problem 15 # 
+ 
+
+ Standard formula Used 
+ f =  sqrt(k / m ) 
+ U = 1/2* h * nu  
+ nu  =
+ 
+    35.588127  
+ 
+ U  =
+ 
+    1.174D-32  
+ 
+
+ Zero point energy of a linear harmonic oscillator  is 1.174408e-32 J. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.16.1/Example3_16a.sce #
+ 
+ 
+ R  =
+ 
+    1.097  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    2.  
+ 
+ 
+
+
+
+ # Problem 16a # 
+ 
+
+ Standard formula Used 
+ For Lyman series 1/lambda = R*((1/2) ^2 - (1/n) ^2) 
+ nu1  =
+ 
+    0.82275  
+ 
+ lambda1  =
+ 
+    1.215436  
+ 
+
+ Wavelength of first line of Lyman series is 1215.436038 Angstrom.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.16.2/Example3_16b.sce #
+ 
+ 
+ R  =
+ 
+    1.097  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    3.  
+ 
+ 
+
+
+
+ # Problem 16b # 
+ 
+
+ Standard formula Used 
+ For Lyman series 1/lambda =  R*((1/2)^2 -(1/n)^2) 
+ nu1  =
+ 
+    0.9751111  
+ 
+ lambda1  =
+ 
+    1.0255242  
+ 
+
+ Wavelength of second line of Lyman series is 1025 Angstrom.  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.17/Example3_17.sce #
+ 
+ 
+ lambda1  =
+ 
+    4700.  
+ 
+ lambda2  =
+ 
+    0.000014  
+ 
+ temp1  =
+ 
+    6174.  
+ 
+ 
+
+
+
+ # Problem 17 # 
+ 
+
+ Standard formula Used 
+ lambda * T = constant 
+ temp2  =
+ 
+    20727.  
+ 
+
+ Blackbody will emit  wavelength 1.4e-5 cm at 20727 K. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.19.1/Example3_19a.sce #
+ 
+ 
+ lambda  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    90.  
+ 
+ m_e  =
+ 
+    9.110D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ 
+
+
+
+ # Problem 19a # 
+ 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c) 
+ lambda_shift  =
+ 
+    2.426D-12  
+ 
+
+ Change in frequency  is 0.024259 Hz.  
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.19.2/Example3_19b.sce #
+ 
+ 
+ lambda1  =
+ 
+    1.  
+ 
+ lambda2  =
+ 
+    1.0243  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ 
+
+
+
+ # Problem 19b # 
+ 
+
+ Standard formula Used 
+ E= h *(nu1 – nu2) 
+ K  =
+ 
+    294.91299  
+ 
+
+ Kinetic energy imparted to recoiling electron is 294 eV. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.20/Example3_20.sce #
+ 
+ 
+ theta  =
+ 
+    90.  
+ 
+ E_rest  =
+ 
+    938.3  
+ 
+ E  =
+ 
+    12.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ 
+
+
+
+ # Problem 20 # 
+ 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c) 
+ lambda  =
+ 
+    1.036D-13  
+ 
+ lambda1  =
+ 
+    1.049D-13  
+ 
+
+ wavelength of scattered photon is  1.049186e-03 Angstrom.  
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.21/Example3_21.sce #
+ 
+ 
+ lambda1  =
+ 
+    1.321  
+ 
+ lambda2  =
+ 
+    4.174  
+ 
+ z1  =
+ 
+    78.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ b  =
+ 
+    7.4  
+ 
+ 
+
+
+
+ # Problem 21 # 
+ 
+
+ Standard formula Used 
+ sqrt(nu1)= a*(Z-b) 
+ z2  =
+ 
+    47.117316  
+ 
+
+ The unknown substance has atomic number 47.  
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH3/EX3.22/Example3_22.sce #
+ 
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ L  =
+ 
+    1.000D-10  
+ 
+ 
+
+ # Problem 22 # 
+ 
+
+ Standard formula Used 
+ E= h^2 * (n_x^2+n_y^2+n_z^2) / (8*m*L^2) 
+Warning : redefining function: sum                     . Use funcprot(0) to avoid this message
+
+ sum  =
+ 
+    0.  
+ 
+ n_y  =
+ 
+    1.  
+ 
+ sum  =
+ 
+    3.  
+ E  =
+ 
+    112.19093  
+
+ 
+ E111 is  112.190934 eV.  sum  =
+ 
+    4.  
+ E  =
+ 
+    224.38187  
+
+ 
+ E112 is  224.381868 eV.  sum  =
+ 
+    4.  
+ E  =
+ 
+    224.38187  
+
+ 
+ E211 is  224.381868 eV.  sum  =
+ 
+    5.  
+ E  =
+ 
+    336.5728  
+
+ 
+ E212 is  336.572802 eV.  sum  =
+ 
+    5.  
+ E  =
+ 
+    411.36676  
+
+ 
+ E311 is  411.366758 eV.  sum  =
+ 
+    6.  
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.1/Example4_1.sce #
+ 
+ 
+ F  =
+ 
+    2.5    4.5  - 5.  
+ 
+ 
+
+
+
+ # Problem 1 # 
+ 
+ F_magnitude  =
+ 
+    7.17635  
+ 
+ theta_x  =
+ 
+    69.612564  
+ 
+ theta_y  =
+ 
+    51.166475  
+ 
+ theta_z  =
+ 
+    134.16548  
+ 
+ 
+ Magnitude of force F is 7.176350 N 
+ 
+ Angle made with X - axis is 69.612564 degree 
+ 
+ Angle made with Y - axis is 51.166475 degree 
+ 
+ Angle made with Z - axis is 134.165477 degree 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.2.1/Example4_2a.sce #
+ 
+ 
+ r  =
+ 
+    2.    2.    2.8284271  
+ 
+ 
+ 
+
+ 
+
+ # Problem 2a # 
+ 
+ r_magnitude  =
+ 
+    4.  
+ 
+ cos_x  =
+ 
+    0.5  
+ 
+ cos_y  =
+ 
+    0.5  
+ 
+ cos_z  =
+ 
+    0.7071  
+ 
+ 
+ Directional cosine in X - axis is 0.500000  
+ 
+ Directional cosine in Y - axis is 0.500000  
+ 
+ Directional cosine in Z - axis is 0.707100  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.2.2/Example4_2b.sce #
+ 
+ 
+ r_xz  =
+ 
+    2.    2.8282  
+ 
+ 
+
+ 
+
+ # Problem 2b # 
+ 
+ r_xz  =
+ 
+    3.4639162  
+ 
+ r_yz  =
+ 
+    3.4639162  
+ 
+ 
+ Projection of vector r in xz plane is 3.463916 
+ 
+ projection of vector r in yz plane is 3.463916 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.3/Example4_3.sce #
+ 
+ 
+ d1  =
+ 
+    5.  - 5.  - 4.  
+ 
+ d2  =
+ 
+    6.    2.  - 2.  
+ 
+ F1  =
+ 
+    10.  - 1.    10.  
+ 
+ F2  =
+ 
+    4.    5.    6.  
+ 
+ F3  =
+ 
+  - 2.    1.  - 9.  
+ 
+ 
+ 
+ 
+
+ 
+
+ # Problem 3 # 
+ 
+ d  =
+ 
+    1.    7.    2.  
+ 
+ F  =
+ 
+    12.    5.    7.  
+ 
+Standard formula used is W = F*d 
+  
+ W  =
+ 
+    61.  
+ 
+ 
+ Total work done  is 61 units  
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.4/Example4_4.sce #
+ 
+ 
+ v_w_x  =
+ 
+    28.284271  
+ 
+ v_w_y  =
+ 
+    28.284271  
+ 
+ r_x  =
+ 
+    200.  
+ 
+ r_y  =
+ 
+    0.  
+ 
+ t  =
+ 
+    40.  
+ 
+ 
+
+ # Problem 4 # 
+ 
+Standard formula used is V = V1 + V2 + .....+ V_n 
+  
+ v_x  =
+ 
+    300.  
+ 
+ v_y  =
+ 
+    0.  
+ 
+ v_p_x  =
+ 
+    271.71573  
+ 
+ v_p_y  =
+ 
+  - 28.284271  
+ 
+ 
+ Vector of velocity of pilot with respect to moving air is 271.715729 i -28.284271j miles/h 
+ where i and j stands for east and north respectively  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.5/Example4_5.sce #
+ 
+ 
+ R_e  =
+ 
+    6400000.  
+ 
+ T  =
+ 
+    86400.  
+ 
+ theta_pole  =
+ 
+    90.  
+ 
+ theta_equator  =
+ 
+    0.  
+ 
+ g_pole  =
+ 
+    9.8  
+ 
+ 
+
+ 
+
+ # Problem 5 # 
+ 
+Standard formula used is g1 = g - R_e*f^2*(cos(theta))^2 
+  
+ f  =
+ 
+    0.0000727  
+ 
+ g_equator  =
+ 
+    9.7661536  
+ 
+ del_g  =
+ 
+    0.0338464  
+ 
+ 
+ Difference in gravitational acceleration at pole and equator is 3.384638e-02 m/s^2  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.6/Example4_6.sce #
+ 
+ 
+ R_e  =
+ 
+    6400000.  
+ 
+ theta_pole  =
+ 
+    90.  
+ 
+ theta_equator  =
+ 
+    0.  
+ 
+ g_pole  =
+ 
+    10.  
+ 
+ g_equator  =
+ 
+    0.  
+ 
+ 
+
+ 
+
+ # Problem 6 # 
+ 
+Standard formula used is g1 = g - R_e*f^2*(cos(theta))^2 
+  
+ f  =
+ 
+    0.00125  
+ 
+ T  =
+ 
+    1.3962634  
+ 
+Angular velocity of Earth will be 1.250000e-03 rad/s 
+ Time period would be 1.396263 hours 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.7/Example4_7.sce #
+ 
+ 
+ g_pole  =
+ 
+    9.8  
+ 
+ m  =
+ 
+    1.  
+ 
+ R_e  =
+ 
+    6400000.  
+ 
+ 
+
+  # Problem 7 # 
+ 
+Standard formula used is 
+ coriolis force = -2*m*f x v
+ 
+ 
+ g_equator  =
+ 
+    7.35  
+ 
+ f  =
+ 
+    0.0006187  
+ 
+Angular velocity of Earth will be 6.187184e-04 rad/s .
+  
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH4/EX4.8/Example4_8.sce #
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ v  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+
+ # Problem 8 # 
+ 
+Standard formula used is coriolis Force = 2*mass*angular velocity X velocity  
+ f_x  =
+ 
+    0.0363610  
+ 
+ f_z  =
+ 
+  - 0.0629791  
+ 
+ F  =
+ 
+    0.0727221  
+ 
+ alpha  =
+ 
+    60.  
+ 
+ 
+ Magnitude and direction  of coriolis force on particle are 
+ 7.272205e-02 N and 60 degree with east respectively 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.1/Example6_1.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ l1  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    60.  
+ 
+ 
+
+ # Problem 1 # 
+ 
+ l_x  =
+ 
+    0.3  
+ 
+ l_y  =
+ 
+    0.8660254  
+ 
+ l2  =
+ 
+    0.9165151  
+ 
+ per_contrtaction  =
+ 
+    8.3484861  
+ 
+ angle  =
+ 
+    1.2373232  
+ 
+Percentage contraction in rod is 8.348486 and apparant orientation is 2.886751 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.2/Example6_2.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ u_x_  =
+ 
+  - 3.000D+08  
+ 
+ v  =
+ 
+  - 3.000D+08  
+ 
+ 
+
+ 
+
+ # Problem 2 # 
+ 
+
+ Standard formula used is  u_x = (u_x_ + v) / (1 + v * u_x_ / c^2)  
+ u_x  =
+ 
+  - 3.000D+08  
+ 
+
+ Velocity of photon with respect to another is -1 * c 
+ Thus photons are approaching each other. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.3/Example6_3.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ u_x_  =
+ 
+  - 2.700D+08  
+ 
+ v  =
+ 
+  - 2.700D+08  
+ 
+ 
+
+ 
+
+ # Problem 3 # 
+ 
+
+ Standard formula used is  u_x = (u_x_ + v) / (1 + v * u_x_ / c^2)  
+ u_x  =
+ 
+  - 2.983D+08  
+ 
+
+ Velocity of photon with respect to another is -0.994475 c. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.4/Example6_4.sce #
+ 
+ 
+ E  =
+ 
+    7.500D+11  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ 
+
+ # Problem 4 # 
+ 
+
+ Standard formula used 
+ E = m*c^2 
+ m  =
+ 
+    30.  
+ 
+ 
+
+ Amount of mass consumed is 30 kg. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.5/Example6_5.sce #
+ 
+ 
+ m  =
+ 
+    4.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ 
+
+ # Problem 5 # 
+ 
+
+ Standard formula used 
+ E = m*c^2 
+ E  =
+ 
+    3.600D+17  
+ 
+
+ Amount of energy produced is 3.600000e+17 J. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.6/Example6_6.sce #
+ 
+ 
+ m_0  =
+ 
+    1.000D-24  
+ 
+ v  =
+ 
+    1.800D+08  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ 
+
+ # Problem 6 # 
+ 
+
+ Standard formula used 
+ m = m_o/ sqrt ( 1- (v/c)^2) 
+ m  =
+ 
+    1.250D-24  
+ 
+
+ Relativistic mass of particle is 1.250000e-24 kg. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.7/Example6_7.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    1.500D+08  
+ 
+ 
+
+ 
+
+ # Problem 7 # 
+ 
+
+ Standard formula used 
+ m = m_o/sqrt ( 1- (v/c)^2) 
+ ratio  =
+ 
+    0.8660254  
+ 
+
+ Ratio of rest mass and relativistic mass of particle is 0.866025. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.8.1/Example6_8a.sce #
+ 
+ 
+ ratio  =
+ 
+    0.5  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ 
+
+ # Problem 8a # 
+ 
+
+ Standard formula used 
+ l = l_o* sqrt ( 1- (v/c)^2) 
+ v  =
+ 
+    2.598D+08  
+ 
+
+ Speed of spaceship is 2.598076e+08 m/s. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.8.2/Example6_8b.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.598D+08  
+ 
+ t_0  =
+ 
+    1.  
+ 
+ 
+
+ 
+
+ # Problem 8b # 
+ 
+
+ Standard formula used 
+ t= t_o/ sqrt ( 1- (v/c)^2) 
+ t  =
+ 
+    1.999824  
+ 
+
+ Time corresponding to 1 sec is 2 sec. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.9/Example6_9.sce #
+ 
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ t_0  =
+ 
+    2.000D-08  
+ 
+ 
+
+ 
+
+ # Problem 9 # 
+ 
+
+ Standard formula used  
+ t  =
+ 
+    3.333D-08  
+ 
+
+ Lifetime of meson is 3.333333e-08 sec. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.10/Example6_10.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m_0  =
+ 
+    1.  
+ 
+ m  =
+ 
+    3.  
+ 
+ 
+
+ 
+
+ # Problem 10 # 
+ 
+
+ Standard formula used  l = l_o * sqrt ( 1- (v/c)^2) 
+ v  =
+ 
+    2.828D+08  
+ 
+
+ Velocity of particle is 0.942809 c. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.11/Example6_11.sce #
+ 
+ 
+ mass_ratio  =
+ 
+    0.5  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ # Problem 11 # 
+ 
+
+ Standard formula used 
+ m = m_o / sqrt ( 1- (v/c)^2)
+ 
+ v  =
+ 
+    2.598D+08  
+ 
+
+ Velocity of particle is 0.866025 c. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.12.1/Example6_12a.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ u_x_  =
+ 
+  - 2.000D+08  
+ 
+ v  =
+ 
+  - 2.000D+08  
+ 
+ m_0  =
+ 
+    3.000D-25  
+ 
+ 
+
+ 
+
+ # Problem 12a # 
+ 
+
+ Standard formula used 
+ u_x = (u_x_ + v) / (1 + v * u_x_ / c^2) 
+ u_x  =
+ 
+  - 2.769D+08  
+ 
+ m  =
+ 
+    7.800D-25  
+ 
+
+ Velocity of photon with respect to another is -2.769231e+08 m/s. 
+
+ Relativistic mass of particle with respect to another is 7.800000e-25 kg. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.13/Example6_13.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ u  =
+ 
+    2.700D+08  
+ 
+ density1  =
+ 
+    0.0193  
+ 
+ 
+
+ 
+
+ # Problem 13 # 
+ 
+
+ Standard formula used 
+ m = m_o/ sqrt ( 1- (v/c)^2) 
+ and 
+ l = l_o* sqrt ( 1- (v/c)^2)  
+ mass_ratio  =
+ 
+    0.4358899  
+ 
+ volume_ratio  =
+ 
+    2.2941573  
+ 
+ density2  =
+ 
+    0.1015789  
+ 
+
+ Relativistic density of rod in moving frame is 1.015789e-01. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.14.1/Example6_14a.sce #
+ 
+ 
+ E  =
+ 
+    1.000D+09  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m_0  =
+ 
+    9.100D-31  
+ 
+ 
+
+ 
+
+ # Problem 14a # 
+ 
+
+ Standard formula used  
+ E = m*c^2 
+ m  =
+ 
+    1.778D-27  
+ 
+ ratio  =
+ 
+    1953.602  
+ 
+
+ Ratio of relativistic mass and rest mass  of particle is 1.953602e+03. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.12.2/Example6_14b.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ ratio  =
+ 
+    1950.  
+ 
+ 
+
+ 
+
+ # Problem 14b # 
+ 
+
+ Standard formula used 
+ m = m_o/ sqrt ( 1- (v/c)^2) 
+ ratio_1  =
+ 
+    0.0000001  
+ 
+
+ Ratio of velocity to velocity of light for particle is 1 -  1.314924e-07 . 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.14.2/Example6_14b.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ ratio  =
+ 
+    1950.  
+ 
+ 
+
+ 
+
+ # Problem 14b # 
+ 
+
+ Standard formula used 
+ m = m_o/ sqrt ( 1- (v/c)^2) 
+ ratio_1  =
+ 
+    0.0000001  
+ 
+
+ Ratio of velocity to velocity of light for particle is 1 -  1.314924e-07 . 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.14.3/Example6_14c.sce #
+ 
+ 
+ m  =
+ 
+    9.000D-31  
+ 
+ E  =
+ 
+    1.000D+09  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+ 
+
+ # Problem 14c # 
+ 
+
+ Standard formula used 
+ E = m*c^2 
+ E_0  =
+ 
+    8.100D-14  
+ 
+ ratio  =
+ 
+    1975.3086  
+ 
+
+ Ratio of energy to rest mass energy is 1.975309e+03. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.15/Example6_15.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    1.800D+08  
+ 
+ l_  =
+ 
+    1.  
+ 
+ 
+
+ 
+
+ # Problem 15 # 
+ 
+
+ Standard formula used 
+ l = l_o* sqrt ( 1- (v/c)^2) 
+ l  =
+ 
+    1.25  
+ 
+
+ Proper length of rod  is 1.250000 m. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.16/Example6_16.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.700D+08  
+ 
+ proper_time  =
+ 
+    2.500D-08  
+ 
+ 
+
+ 
+
+ # Problem 16 # 
+ 
+
+ Standard formula used 
+ t = t_o /sqrt ( 1- (v/c)^2) 
+ t  =
+ 
+    5.735D-08  
+ 
+
+ New mean life time is 5.735393e-08 s. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.17/Example6_17.sce #
+ 
+ 
+ E  =
+ 
+    1.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m_0  =
+ 
+    9.000D-31  
+ 
+ 
+
+ 
+
+ # Problem 17 # 
+ 
+
+ Standard formula used 
+ m = m_o* sqrt ( 1- (v/c)^2) 
+ and 
+ E=m*c^2 
+ m  =
+ 
+    1.778D-30  
+ 
+ v  =
+ 
+    2.587D+08  
+ 
+
+ Velocity of electron is 2.587160e+08 m/s. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.19/Example6_19.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.970D+08  
+ 
+ proper_time  =
+ 
+    0.0000022  
+ 
+ 
+
+ 
+
+ # Problem 19 # 
+ 
+
+ Standard formula used 
+ t = t_o /sqrt ( 1- (v/c)^2) 
+ t  =
+ 
+    0.0000156  
+ 
+ d  =
+ 
+    4631.8298  
+ 
+
+ Distance traveled by particle is 4.631830e+03 m. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.20/Example6_20.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    1.  
+ 
+ m_change  =
+ 
+    1.  
+ 
+ 
+
+ 
+
+ # Problem 20 # 
+ 
+
+ Standard formula used 
+ m = m_o* sqrt ( 1- (v/c)^2)  
+ v  =
+ 
+    42111228.  
+ 
+
+ Velocity required to increase mass by one perfect is 4.211123e+07 m/s. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.21/Example6_21.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m_ratio  =
+ 
+    2000.  
+ 
+ 
+
+ 
+
+ # Problem 21 # 
+ 
+
+ Standard formula used 
+ m = m_o* sqrt ( 1- (v/c)^2)  
+ v  =
+ 
+    3.000D+08  
+ 
+ 
+
+ Velocity required to increase mass by 2000 times is 3.000000e+08 - 37.500002 m/s. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.22/Example6_22.sce #
+ 
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ lambda  =
+ 
+    0.0005  
+ 
+ e_rest_mass  =
+ 
+    0.511  
+ 
+ p_rest_mass  =
+ 
+    0.511  
+ 
+ 
+
+ 
+
+ # Problem 22 # 
+ 
+
+ Standard formula used 
+ E_total = E_rest + E_kinetic 
+ k  =
+ 
+    11.92025  
+ 
+
+ Energy of each particle is  11.920250 MeV. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.23/Example6_23.sce #
+ 
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ p_rest_mass  =
+ 
+    938.  
+ 
+ ap_rest_mass  =
+ 
+    938.  
+ 
+ 
+
+ 
+
+ # Problem 23 # 
+ 
+
+ Standard formula used 
+ E = h* c / lambda 
+ lambda  =
+ 
+    6.626D-10  
+ 
+
+ Threshold wavelength for proton - antiproton production is  6.626466 angstrom. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.24/Example6_24.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ p_rest_mass  =
+ 
+    0.938  
+ 
+ KE  =
+ 
+    1.  
+ 
+ 
+
+ 
+
+ # Problem 24 # 
+ 
+
+ Standard formula used E^2 = p^2*c^2 + m_o^2*c^4* 
+ E  =
+ 
+    1.938  
+ 
+ p  =
+ 
+    9.045D-16  
+ 
+
+ Momentum of photon is 9.044679e-16 kg m/s. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.26/Example6_26.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ t  =
+ 
+    0.000008  
+ 
+ l  =
+ 
+    10.  
+ 
+ 
+
+ 
+
+ # Problem 26 # 
+ 
+
+ Standard formula used 
+ l = l_o* sqrt ( 1- (v/c)^2) 
+ v  =
+ 
+    2.917D+08  
+ 
+
+ Relative speed of meson with respect to earth  is 0.972387 c . 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH6/EX6.27/Example6_27.sce #
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    2.400D+08  
+ 
+ m_0  =
+ 
+    1.673D-27  
+ 
+ 
+
+ 
+
+ # Problem 27 # 
+ 
+
+ Standard formula used 
+ E_total = KE + E_mass 
+ K_E  =
+ 
+    627.375  
+ 
+
+ Kinetic energy of proton is 627MeV. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.4.1/Example8_4a.sce #
+ 
+ 
+ t1  =
+ 
+    1.  
+ 
+ t2  =
+ 
+    8.  
+ 
+ r1  =
+ 
+    12000.  
+ 
+ 
+ 
+
+
+
+ # Problem 4a # 
+ 
+ 
+Standard formula r2/r1 = (t2/t1)^(2/3) 
+ r2  =
+ 
+    48000.  
+ 
+ v1  =
+ 
+    75398.224  
+ 
+ v2  =
+ 
+    37699.112  
+ 
+ del_v  =
+ 
+  - 37699.112  
+ 
+ 
+ 
+ Relative speed of satellite s2 wrt satellite s1 is -3.769911e+04 km/h. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.4.2/Example8_4b.sce #
+ 
+ 
+ t1  =
+ 
+    1.  
+ 
+ t2  =
+ 
+    8.  
+ 
+ r1  =
+ 
+    12000.  
+ 
+ 
+ 
+
+
+
+ # Problem 4b # 
+ 
+ 
+Standard formula r2/r1 = (t2/t1)^(2/3) 
+ r2  =
+ 
+    48000.  
+ 
+ v1  =
+ 
+    75398.224  
+ 
+ v2  =
+ 
+    37699.112  
+ 
+ del_v  =
+ 
+  - 37699.112  
+ 
+ del_r  =
+ 
+    36000.  
+ 
+ v_angular  =
+ 
+  - 1.0471976  
+ 
+ 
+ Relative angular speed of satellite s2 for satellite s1 is -1.047198e+00 rad/h. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.5/Example8_5.sce #
+ 
+ 
+ h  =
+ 
+    2620.  
+ 
+ R_e  =
+ 
+    6400.  
+ 
+ M_e  =
+ 
+    6.000D+24  
+ 
+ G  =
+ 
+    6.670D-11  
+ 
+ 
+ 
+
+
+
+ # Problem 5 # 
+ 
+ 
+Standard formula used 
+	 v_o = sqrt(G*M_e/r) 
+  
+
+ 	 T = 2 * pi * r / v_o 
+  
+ r  =
+ 
+    9020.  
+ 
+ v_o  =
+ 
+    6660.9362  
+ 
+ T  =
+ 
+    2.363462  
+ 
+
+ Orbital velocity of satellite is 6.660936 km/s 
+ period of revolution is 2.363462 h. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.6/Example8_6.sce #
+ 
+ 
+ h  =
+ 
+    300000.  
+ 
+ R_e  =
+ 
+    6380000.  
+ 
+ M_e  =
+ 
+    6.000D+24  
+ 
+ g  =
+ 
+    9.8  
+ 
+ 
+ 
+
+
+
+ # Problem 6 # 
+ 
+ 
+Standard formula used v_o = sqrt(G*M_e/r) 
+  
+Standard formula used T = 2 * pi * r / v_o 
+  
+ r  =
+ 
+    6680000.  
+ 
+ 
+ G  =
+ 
+    6.648D-11  
+ 
+ v_o  =
+ 
+    7.7276152  
+ 
+ T  =
+ 
+    1.5087189  
+ 
+ 
+
+ Orbital velocity of satellite is 7.727615 km/s 
+  period of revolution is 1.508719 h. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.7/Example8_7.sce #
+ 
+ 
+ t  =
+ 
+    27.3  
+ 
+ r  =
+ 
+    390000.  
+ 
+ G  =
+ 
+    6.670D-11  
+ 
+ 
+
+ # Problem 7 # 
+ 
+Standard formula used 
+ T = 2 * pi * sqrt ((r^3)/G*M_e) 
+  
+ T  =
+ 
+    2358720.  
+ 
+ M_e  =
+ 
+    6.311D+24  
+ 
+
+ Estimated mass of Earth is 6.310662e+24 kg. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.8/Example8_8.sce #
+ 
+ 
+ t  =
+ 
+    1.  
+ 
+ r  =
+ 
+    1.500D+08  
+ 
+ G  =
+ 
+    6.670D-11  
+ 
+ 
+
+
+
+ # Problem 8 # 
+ 
+Standard formula used T = 2 * pi * sqrt ((r^3)/G*M_e) 
+  
+ T  =
+ 
+    30758400.  
+ 
+ M_s  =
+ 
+    2.111D+30  
+ 
+
+ Estimated mass of Sun is 2.111447e+30 kg. 
+ 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.9/Example8_9.sce #
+ 
+ 
+ R_e  =
+ 
+    6400000.  
+ 
+ M_e  =
+ 
+    6.000D+24  
+ 
+ G  =
+ 
+    6.670D-11  
+ 
+ u  =
+ 
+    6000.  
+ 
+ 
+ 
+
+
+
+ # Problem 9 # 
+ 
+ 
+Standard formula used U_f - U_i = 1/2 * m *(u^2 - v^2)
+  
+ h  =
+ 
+    2.587D+09  
+ 
+ 
+
+ Height reached by rocket before returning is 2.586947e+09 km. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.10/Example8_10.sce #
+ 
+ 
+ R_e  =
+ 
+    6400000.  
+ 
+ M_e  =
+ 
+    6.000D+24  
+ 
+ G  =
+ 
+    6.670D-11  
+ 
+ 
+
+
+
+ # Problem 10 # 
+ 
+ 
+Standard formula used U_f - U_i = 1/2 * m *(u^2 - v^2)
+  
+ h  =
+ 
+    64000000.  
+ 
+ v  =
+ 
+    11183.135  
+ 
+
+ Velocity required by mass is 1.118313e+04 m/s. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.11/Example8_11.sce #
+ 
+ 
+ r1  =
+ 
+    1.000D+12  
+ 
+ r2  =
+ 
+    1.000D+13  
+ 
+ 
+
+
+
+ # Problem 11 # 
+ 
+ 
+Standard formula used T^2 = k* r^3 
+
+ Standers formula used v = 2 * pi * r / T 
+ r_ratio  =
+ 
+    0.1  
+ 
+ T_ratio  =
+ 
+    0.0316228  
+ 
+ v_ratio  =
+ 
+    3.1622777  
+ 
+ 
+ 
+ Ratio of time period is 0.031623 and ratio of speed is 3.162278 . 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.12/Example8_12.sce #
+ 
+ 
+ r1  =
+ 
+    1.500D+08  
+ 
+ t1  =
+ 
+    1.  
+ 
+ 
+
+
+
+ # Problem 12 # 
+ 
+ 
+
+ Standard formula used T^2 = k* r^3 
+ t2  =
+ 
+    29.5  
+ 
+ r2  =
+ 
+    1.432D+09  
+ 
+ 
+ 
+ Distance of Saturn from Sun is 1.432098e+09 km . 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.13/Example8_13.sce #
+ 
+ 
+ r_peri  =
+ 
+    360.  
+ 
+ r_apo  =
+ 
+    2500.  
+ 
+ R_e  =
+ 
+    6400.  
+ 
+ v_p  =
+ 
+    30000.  
+ 
+ 
+
+
+
+ # Problem 13 # 
+ 
+ 
+
+ Standard formula used v * r = k  
+ r_p  =
+ 
+    6760.  
+ 
+ r_a  =
+ 
+    8900.  
+ 
+ 
+ v_a  =
+ 
+    22786.517  
+ 
+ 
+ Speed at perigee is 30000 km/h and at apogee is 22786.516854 km/h . 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.14/Example8_14.sce #
+ 
+ 
+ h  =
+ 
+    600.  
+ 
+ R_e  =
+ 
+    6400.  
+ 
+ m_s  =
+ 
+    100.  
+ 
+ g  =
+ 
+    10.  
+ 
+ v_y  =
+ 
+    2500.  
+ 
+ 
+
+
+
+ # Problem 14 # 
+ 
+ 
+
+ Standard formula used 1/2 *(m_s * v ^2 / r) = g * R_E^2 * m /R_e^2  
+ r  =
+ 
+    7000.  
+ 
+ 
+ v  =
+ 
+    7649.4631  
+ 
+ 
+ P_x  =
+ 
+    764946.31  
+ 
+ P_y  =
+ 
+    250000.  
+ 
+ U  =
+ 
+    804762.61  
+ 
+ 
+ theta  =
+ 
+    18.098444  
+ 
+
+ Magnitude and direction of impulse required are respectively 8.047626e+05kgm/s and 18.098444 degree. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.15.1/Example8_15a.sce #
+ 
+ 
+ 
+ b_e  =
+ 
+    13.6  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+
+
+ # Problem 15a # 
+ 
+
+ Standard formula used E = m*c^2 
+ del_m  =
+ 
+    2.418D-32  
+ 
+
+ Loss in mass during formation of 1 atom of hydrogen is 2.417778e-32 g. 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH8/EX8.15.2/Example8_15b.sce #
+ 
+ 
+ M_p  =
+ 
+    1.673D-24  
+ 
+ M_n  =
+ 
+    1.675D-24  
+ 
+ M_d  =
+ 
+    3.343D-24  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+
+
+
+ # Problem 15b # 
+ 
+ 
+
+ Standard formula used E = m*c^2 
+ del_m  =
+ 
+    4.000D-27  
+ 
+ 
+ b_e  =
+ 
+    2.25  
+ 
+ 
+
+ Binding energy of deuteron is 2.250000 MeV. 
+ 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH9/EX9.1/Example9_1.sce #
+ 
+ 
+ m_i  =
+ 
+    15.  
+ 
+ m_f  =
+ 
+    2.  
+ 
+ 
+
+ # Problem 1 # 
+ 
+ 
+Standard formula used 
+	 M = m - 2.5log(L/L_0)  
+ del_m  =
+ 
+    13.  
+ 
+ brightness_ratio  =
+ 
+    158489.32  
+ 
+
+ In two days novas brightness is increased by 160000 times nearly 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH9/EX9.2.1/Example9_2a.sce #
+ 
+ 
+ b_ratio  =
+ 
+    2.  
+ 
+ 
+
+ # Problem 2a # 
+ 
+ 
+Standard formula used 
+	 M = m - 2.5log(L/L_0)  
+ del_m  =
+ 
+    0.7525750  
+ 
+
+ Change in magnitude is 0.752575 times 
+ 
+grepthis#Introduction_To_Special_Relativity_And_Space_Science_S._P._Singh_1172/CH9/EX9.2.2/Example9_2b.sce #
+ 
+ 
+ m_capella  =
+ 
+    0.05  
+ 
+ m_sun  =
+ 
+    4.8  
+ 
+ d  =
+ 
+    14.  
+ 
+ D  =
+ 
+    10.  
+ 
+ 
+
+ # Problem 2a # 
+ 
+ 
+Standard formula used 
+	 M = m - 2.5log(L/L_0)  
+ M_capella  =
+ 
+  - 0.6806402  
+ 
+ del_m  =
+ 
+    5.4806402  
+ 
+ ratio  =
+ 
+    155.68833  
+ 
+
+ Capella is  155.688334 times brighter than sun. 
+ 

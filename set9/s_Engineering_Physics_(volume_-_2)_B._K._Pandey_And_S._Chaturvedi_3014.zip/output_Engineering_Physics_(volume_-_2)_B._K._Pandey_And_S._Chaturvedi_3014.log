@@ -1,0 +1,4195 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 111
+
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ M  =
+ 
+    6.000D+24  
+ 
+ v  =
+ 
+    30000.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+Example 1.1 
+ lambda  =
+ 
+    3.681D-63  
+ 
+ 
+
+ de Broglie wavelength of earth is 3.680556e-63 m.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ M  =
+ 
+    1.  
+ 
+ v  =
+ 
+    10.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+Example 1.2 
+ lambda  =
+ 
+    6.625D-35  
+ 
+ 
+
+ de Broglie wavelength of body is 6.625000e-35 m.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ m  =
+ 
+    1.000D-30  
+ 
+ v  =
+ 
+    100000.  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+Example 1.3 
+ lambda  =
+ 
+    6.625D-09  
+ 
+ 
+
+ de Broglie wavelength of body is 6.625000e-09 m.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ KE  =
+ 
+    4.550D-25  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.4 
+ v  =
+ 
+    1000.  
+ 
+ p  =
+ 
+    9.100D-28  
+ 
+ lambda  =
+ 
+    0.0000007  
+ 
+
+ velocity of electron is 1.000000e+03 m/s. 
+
+ momentum of electron is 9.100000e-28 Kgm/s. 
+
+ de Broglie wavelength of electron is 7.274725e-07 m.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    15000000.  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+Example 1.5 
+ lambda  =
+ 
+    2.645D-14  
+ 
+
+ de Broglie wavelength of proton is 2.644711e-14 m.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ e  =
+ 
+    12.8  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    1.675D-27  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.6 
+ rest_e  =
+ 
+    942.1875  
+ 
+ 
+ lambda  =
+ 
+    7.992D-15  
+ 
+ 
+
+ de Broglie wavelength of neutron is 7.992279e-05 angstrom.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ e  =
+ 
+    1.632D-19  
+ 
+ V  =
+ 
+    50.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.7 
+ 
+ lambda  =
+ 
+    1.718D-10  
+ 
+
+ de Broglie wavelength of neutron is 1.717818 angstrom.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.9/Ex1_9.sce #
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ V  =
+ 
+    54.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.9 
+ 
+ lambda  =
+ 
+    1.672D-10  
+ 
+
+ de Broglie wavelength of neutron is 1.671941 angstrom.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ E  =
+ 
+    10.  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.10 
+ v  =
+ 
+    59299945.  
+ 
+ p  =
+ 
+    5.396D-23  
+ 
+ lambda  =
+ 
+    1.229D-11  
+ 
+
+ velocity of electron is 5.93e+07 m/s. 
+
+ momentum of electron is 5.396e-23 Kgm/s. 
+
+ de Broglie wavelength of electron is 0.12 angstrom.
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.11/Ex1_11.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    1.  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.11 
+ 
+ v  =
+ 
+    3964.0719  
+ 
+ E  =
+ 
+    1.312D-20  
+ 
+
+ velocity of neutron is 3.964072e+03 m/s. 
+
+ Kinetic energy of neutron is 0.082007 eV.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.12/Ex1_12.sce #
+ 
+ 
+ 
+ 
+ E  =
+ 
+    2.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.12 
+ lambda  =
+ 
+    2.743D-11  
+ 
+
+ Wavelength of electron is 2.743136e-11 m.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.13/Ex1_13.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    2.000D+08  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.13 
+ lambda  =
+ 
+    1.477D-15  
+ 
+
+ Wavelength of electron is 1.477322e-05 angstrom.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.14/Ex1_14.sce #
+ 
+ 
+ lambda  =
+ 
+    1.  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ m_p  =
+ 
+    1.670D-27  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.14 
+ p_p  =
+ 
+    6.630D-24  
+ 
+ p_e  =
+ 
+    6.630D-24  
+ 
+ E_e  =
+ 
+    8.192D-14  
+ 
+ E_p  =
+ 
+    1.989D-15  
+ 
+ K_e  =
+ 
+    2.415D-17  
+ 
+ K_p  =
+ 
+    1.989D-15  
+ 
+ r_K  =
+ 
+    0.0121429  
+ 
+
+ Momentum of photon is 6.630000e-24 Kgm/s while Momentum of electron is 6.630000e-24 Kgm/s 
+ which are equal. 
+
+ Total Energy of photon is 12.431250 KeV while Total Energy of electron is 0.512026 MeV  
+
+ Ratio of kinetic energies is 1.214286e-02 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.15/Ex1_15.sce #
+ 
+ 
+ 
+ e  =
+ 
+    25.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.15 
+ rest_e  =
+ 
+    939.375  
+ 
+ 
+ lambda  =
+ 
+    5.727D-12  
+ 
+
+ de Broglie wavelength of neutron is 0.057274 angstrom.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.16/Ex1_16.sce #
+ 
+ 
+ e  =
+ 
+    3.200D-19  
+ 
+ V  =
+ 
+    200.  
+ 
+ m  =
+ 
+    6.680D-27  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.16 
+ 
+ lambda  =
+ 
+    7.170D-13  
+ 
+
+ de Broglie wavelength of neutron is 0.007170 angstrom.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.17/Ex1_17.sce #
+ 
+ 
+ M  =
+ 
+    20.  
+ 
+ V  =
+ 
+    5.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ v  =
+ 
+    1000000.  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ 
+Example 1.17 
+ lambda_b  =
+ 
+    6.620D-36  
+ 
+ lambda_e  =
+ 
+    7.275D-10  
+ 
+
+ de Broglie wavelength of ball is 6.620000e-26 angstrom. 
+
+ de Broglie wavelength of electron is 7.274725 angstrom.
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.18/Ex1_18.sce #
+ 
+ 
+ 
+ E  =
+ 
+    1.  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+Example 1.18 
+ lambda  =
+ 
+    2.864D-11  
+ 
+
+ Wavelength of electron is 0.286368 angstrom.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.19/Ex1_19.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    0.5  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+Example 1.19 
+ V  =
+ 
+    601.98352  
+ 
+
+ Applied voltage on electron is 601.983516 V.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.21/Ex1_21.sce #
+ 
+ 
+ k  =
+ 
+    0.000086  
+ 
+ t  =
+ 
+    37.  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+Example 1.21 
+ lambda  =
+ 
+    1.432D-10  
+ 
+
+ Wavelength of neutron at 37 degree Celsius is 1.432020 angstrom.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.22/Ex1_22.sce #
+ 
+ 
+ k  =
+ 
+    0.000086  
+ 
+ t  =
+ 
+    27.  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    6.700D-27  
+ 
+Example 1.22 
+ lambda  =
+ 
+    7.268D-11  
+ 
+
+ Wavelength of helium at 27 degree Celsius is 0.726758 angstrom.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.23/Ex1_23.sce #
+ 
+ 
+ E  =
+ 
+    200.  
+ 
+ x  =
+ 
+    20.  
+ 
+ D  =
+ 
+    2.  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+Example 1.23 
+ lambda  =
+ 
+    8.675D-11  
+ 
+ theta  =
+ 
+    0.0499584  
+ 
+ d  =
+ 
+    8.685D-10  
+ 
+
+ Interatomic spacing of crystal is 8.685393 angstrom.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.24/Ex1_24.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.5  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+Example 1.24 
+ v  =
+ 
+    2308621.2  
+ 
+
+ Velocity of electron in ground state is 2.308621e+06 m/s.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.25/Ex1_25.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    5890.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.25 
+ v  =
+ 
+    1236.9634  
+ 
+
+ Velocity of electron in ground state is 1.236963e+03 m/s.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.26/Ex1_26.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    2.  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.26 
+ v  =
+ 
+    1985.0299  
+ 
+ k  =
+ 
+    3.290D-21  
+ 
+
+ Velocity of neutron is 1.985030e+03 m/s. 
+
+ Kinetic energy of neutron is 0.020564 eV.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.29/Ex1_29.sce #
+ 
+ 
+ v1  =
+ 
+    50.  
+ 
+ v2  =
+ 
+    65.  
+ 
+ k  =
+ 
+    12.28  
+ 
+ d  =
+ 
+    0.91  
+ 
+Example 1.29 
+ 
+ lambda  =
+ 
+    1.7366543  
+ 
+ theta  =
+ 
+    1.266993  
+ 
+ lambda1  =
+ 
+    1.5231465  
+ 
+ theta1  =
+ 
+    0.9915834  
+ 
+
+ For first order, sin(theta) is 0.954206 
+ For second order sin(theta) must be 1.908411 
+ which is not possible for any value of angle. 
+ So no maxima occur for higher orders 
+
+
+ 
+
+ Angle of diffraction for first order of beam 
+ is 56.813542 degree at 65 Volts
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.30/Ex1_30.sce #
+ 
+ 
+ lambda  =
+ 
+    680.  
+ 
+ g  =
+ 
+    9.8  
+ 
+Example 1.30 
+ v_g  =
+ 
+    16.283493  
+ 
+
+ Group velocity of seawater waves is 16.283493 m/s.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.32/Ex1_32.sce #
+ 
+ 
+ lambda  =
+ 
+    2.000D-13  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.32 
+ E  =
+ 
+    6215625.  
+ 
+ E_rest  =
+ 
+    511875.  
+ 
+ E_total  =
+ 
+    6236666.6  
+ 
+ v_g  =
+ 
+    2.990D+08  
+ 
+ v_p  =
+ 
+    3.010D+08  
+ 
+
+ Group velocity of de Broglie waves is 0.996626c  and
+ phase velocity is 1.003385c .
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH1/EX1.33/Ex1_33.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    2.000D-12  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 1.33 
+ E  =
+ 
+    621562.5  
+ 
+ E_rest  =
+ 
+    511875.  
+ 
+ E_total  =
+ 
+    805205.54  
+ 
+ KE  =
+ 
+    293330.54  
+ 
+ v_g  =
+ 
+    2.316D+08  
+ 
+ v_p  =
+ 
+    3.886D+08  
+ 
+ 
+
+ Kinetic energy of electron is 293.330537 KeV. 
+
+ Group velocity of de Broglie waves is 0.771930c m/s and
+ phase velocity is 1.295454c m/s.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ del_x  =
+ 
+    0.2  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ 
+Example 2.1 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_p  =
+ 
+    2.638D-24  
+ 
+
+ Uncertainty in momentum of particle is 2.637993e-24 kgm/sec 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ del_x  =
+ 
+    4.000D-10  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ 
+Example 2.2 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_p  =
+ 
+    1.319D-25  
+ 
+
+ Uncertainty in momentum of particle is 1.318997e-25 kgm/sec.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ v  =
+ 
+    30000000.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+Example 2.3 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_p  =
+ 
+    2.744D-23  
+ 
+ del_x  =
+ 
+    1.923D-12  
+ 
+
+ Uncertainty in position of particle is 0.019229 angstrom.
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ v  =
+ 
+    10500.  
+ 
+ v_error  =
+ 
+    0.02  
+ 
+ 
+ m  =
+ 
+    9.000D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.5 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ p  =
+ 
+    9.450D-27  
+ 
+ del_p  =
+ 
+    1.890D-30  
+ 
+ del_x  =
+ 
+    0.0000558  
+ 
+
+ Uncertainty in position of particle is 5.583054e-05 m.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ v  =
+ 
+    600.  
+ 
+ v_error  =
+ 
+    0.005  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.6 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ p  =
+ 
+    5.460D-28  
+ 
+ del_p  =
+ 
+    2.730D-32  
+ 
+ del_x  =
+ 
+    0.0038652  
+ 
+
+ Uncertainty in position of particle is 3.865191e-03 m.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ del_x  =
+ 
+    1.  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ m_p  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.7 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_v_ratio  =
+ 
+    1835.1648  
+ 
+
+ Ratio of uncertainties in the velocity of electron to proton is 1835.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ r  =
+ 
+    0.5  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.8 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_x  =
+ 
+    1.  
+ 
+ del_p  =
+ 
+    5.276D-25  
+ 
+ p  =
+ 
+    5.276D-25  
+ 
+ E  =
+ 
+    0.9559077  
+ 
+
+ Kinetic energy needed by an electron to be 
+ confined in electron is 0.960000 eV.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ v  =
+ 
+    5000.  
+ 
+ v_error  =
+ 
+    0.003  
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.9 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ p  =
+ 
+    4.550D-27  
+ 
+ del_p  =
+ 
+    1.365D-31  
+ 
+ del_x  =
+ 
+    0.0003865  
+ 
+
+ Uncertainty in position of particle is 3.865191e-04 m.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.53  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.10 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_x  =
+ 
+    1.06  
+ 
+ del_p  =
+ 
+    4.977D-25  
+ 
+ p  =
+ 
+    4.977D-25  
+ 
+ E  =
+ 
+    0.8507544  
+ 
+
+ Kinetic energy needed by an electron to be 
+ confined in electron is 0.850754 eV.
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ 
+ del_t  =
+ 
+    2.500D-14  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.11 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_E  =
+ 
+    26379.932  
+ 
+
+ Minimum error in measurement of energy of this state is 2.637993e+04 eV.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.12/Ex2_12.sce #
+ 
+ 
+ 
+ E_eV  =
+ 
+    0.5  
+ 
+ del_x  =
+ 
+    0.4  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+Example 2.12 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ E_J  =
+ 
+    8.000D-17  
+ 
+ p  =
+ 
+    1.207D-23  
+ 
+ del_p  =
+ 
+    1.319D-25  
+ 
+ per_error  =
+ 
+    1.0931078  
+ 
+
+ Percentage error in momentum is 1.093108 percent.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.13/Ex2_13.sce #
+ 
+ 
+ 
+ del_x  =
+ 
+    2.000D-09  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+Example 2.13 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_p  =
+ 
+    2.638D-26  
+ 
+ del_v  =
+ 
+    28988.936  
+ 
+
+ Uncertainty in velocity of particle is 2.898894e+04 m/s.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.15/Ex2_15.sce #
+ 
+ 
+ 
+ del_x  =
+ 
+    5000.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    200.  
+ 
+ v  =
+ 
+    6.  
+ 
+Example 2.15 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_p  =
+ 
+    1.055D-28  
+ 
+ p  =
+ 
+    1.2  
+ 
+ per_error  =
+ 
+    8.793D-27  
+ 
+
+ Uncertainty in momentum of ball is 1.055197e-28 kgm/s. 
+
+ Percentage error in calculation of momentum is 8.793311e-27.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.16/Ex2_16.sce #
+ 
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    30000000.  
+ 
+ v_error  =
+ 
+    1.  
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ 
+Example 2.16 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_v  =
+ 
+    300000.  
+ 
+ del_x  =
+ 
+    1.053D-13  
+ 
+
+ Uncertainty in position of particle is 1.053091e-13 m.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.17/Ex2_17.sce #
+ 
+ 
+ 
+ del_x  =
+ 
+    1.000D-09  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    200.  
+ 
+Example 2.17 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_v  =
+ 
+    2.638D-25  
+ 
+
+ Uncertainty in velocity of ball is 2.637993e-25 m/s.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.18/Ex2_18.sce #
+ 
+ 
+ del_t  =
+ 
+    2.000D-12  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.18 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_E  =
+ 
+    0.0001649  
+ 
+
+ Minimum error in measurement of energy of this state is 1.648746e-04 eV.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.19/Ex2_19.sce #
+ 
+ 
+ del_t  =
+ 
+    1.000D-08  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+Example 2.19 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_nu  =
+ 
+    7957747.2  
+ 
+
+ Minimum error in measurement of 
+ frequency of photon is 7.957747e+06 per second.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.20/Ex2_20.sce #
+ 
+ 
+ del_v  =
+ 
+    5.500D-20  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    1.  
+ 
+Example 2.20 
+ h_bar  =
+ 
+    1.055D-34  
+ 
+ del_x  =
+ 
+    9.593D-10  
+ 
+
+ Uncertainty in position of ball is 9.592702 angstrom.
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.21/Ex2_21.sce #
+ 
+ 
+ 
+ 
+ l  =
+ 
+    1.  
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+Example 2.21 
+ E  =
+ 
+    6.038D-18  
+ 
+ E_eV  =
+ 
+    37.737723  
+ 
+ 
+
+ Energy of electron is 37.737723 eV.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.24/Ex2_24.sce #
+ 
+ 
+ 
+ l  =
+ 
+    2.500D-10  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+Example 2.24 
+ E  =
+ 
+    9.661D-19  
+ E_eV  =
+ 
+    6.0380357  
+
+ Energy of electron for state 1 is 6.038036 eV. E  =
+ 
+    3.864D-18  
+ E_eV  =
+ 
+    24.152143  
+
+ Energy of electron for state 2 is 24.152143 eV. 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.26/Ex2_26.sce #
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ l1  =
+ 
+    0.45  
+ 
+ l2  =
+ 
+    0.55  
+ 
+ 
+ 
+Example 2.26 
+ 
+ p  =
+ 
+    0.1983632  
+ 
+ p_per  =
+ 
+    19.836316  
+ 
+
+ Probability of finding electron between 
+ 0.550000L and 0.450000L is 19.836316 percent. 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.27/Ex2_27.sce #
+ 
+ 
+ 
+ 
+ l  =
+ 
+    1.000D-08  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+
+Example 2.27 
+ E_1  =
+ 
+    6.038D-18  
+ 
+ E_1_eV  =
+ 
+    37.737723  
+ 
+ E_2  =
+ 
+    2.415D-17  
+ 
+ E_2_eV  =
+ 
+    150.95089  
+ 
+ del_E  =
+ 
+    113.21317  
+ 
+
+ Difference between first state 
+ and ground state energies is 113.213170 eV.
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.28/Ex2_28.sce #
+ 
+ 
+ 
+ l  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+Example 2.28 
+ lambda  =
+ 
+    2.  
+ E  =
+ 
+    6.038D-18  
+ E_eV  =
+ 
+    37.737723  
+
+ For state:1  Energy is 37.737723 eV & wavelength is 2.000000 angstrom  lambda  =
+ 
+    1.  
+ E  =
+ 
+    2.415D-17  
+ E_eV  =
+ 
+    150.95089  
+
+ For state:2  Energy is 150.950893 eV & wavelength is 1.000000 angstrom  lambda  =
+ 
+    0.6666667  
+ E  =
+ 
+    5.434D-17  
+ E_eV  =
+ 
+    339.63951  
+
+ For state:3  Energy is 339.639509 eV & wavelength is 0.666667 angstrom  
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.29/Ex2_29.sce #
+ 
+ 
+ 
+ m  =
+ 
+    100.  
+ 
+ l  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+
+Example 2.29 
+ E  =
+ 
+    3.434D-48  
+
+  Energy state  E1 of ball is 3.434133e-48 eV E  =
+ 
+    1.374D-47  
+
+  Energy state  E2 of ball is 1.373653e-47 eV E  =
+ 
+    3.091D-47  
+
+  Energy state  E3 of ball is 3.090720e-47 eV 
+
+ As energy difference is very small so we cannot see energy states.
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH2/EX2.30/Ex2_30.sce #
+ 
+ 
+ 
+ l  =
+ 
+    30.  
+ 
+ x  =
+ 
+    15.  
+ 
+ del_x  =
+ 
+    2.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ n  =
+ 
+    1.  
+ 
+
+Example 2.30 
+ phi_x  =
+ 
+    0.0666667  
+ 
+ p  =
+ 
+    0.1333333  
+ 
+
+ Probability of finding particle at centre is 13 percent.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ d  =
+ 
+    2.82  
+ 
+ n  =
+ 
+    2.  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.1 
+ lambda  =
+ 
+    2.82  
+ 
+ 
+
+ Longest wavelength is 2.820000 angstrom. 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ lambda  =
+ 
+    0.3  
+ 
+ d  =
+ 
+    0.5  
+ 
+ n  =
+ 
+    2.  
+ 
+ m  =
+ 
+    3.  
+ 
+Example 3.2 
+ theta_n  =
+ 
+    36.869898  
+ 
+ theta_m  =
+ 
+    64.158067  
+ 
+ 
+
+Angle for 2nd order maxima is 36.869898 degree.  
+
+Angle for 3rd order maxima is 64.158067 degree. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    1.87  
+ 
+ n  =
+ 
+    2.  
+ 
+ theta  =
+ 
+    30.  
+ 
+Example 3.3 
+ lambda  =
+ 
+    0.935  
+ 
+ 
+
+ Longest wavelength is 0.935000 angstrom. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ lambda  =
+ 
+    3.600D-09  
+ 
+ theta  =
+ 
+    4.8  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+Example 3.4 
+ d  =
+ 
+    2.151D-08  
+ 
+ 
+
+ Crystal spacing in angstrom is 2.151107e-08 cm. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ d  =
+ 
+    2.5  
+ 
+ n  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    20.  
+ 
+Example 3.5 
+ lambda  =
+ 
+    1.7101007  
+ 
+ 
+
+Longest wavelength is 1.710101 angstrom. 
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ d  =
+ 
+    2.5  
+ 
+ n  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.6 
+ lambda  =
+ 
+    5.  
+ 
+ 
+
+Longest wavelength is  of 5 angstrom. 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ theta1_deg  =
+ 
+    5.  
+ 
+ theta1_min  =
+ 
+    23.  
+ 
+ theta2_deg  =
+ 
+    7.  
+ 
+ theta2_min  =
+ 
+    37.  
+ 
+ theta3_deg  =
+ 
+    9.  
+ 
+ theta3_min  =
+ 
+    25.  
+ 
+ 
+Example 3.7 
+ 
+ val1  =
+ 
+    0.0938187  
+ 
+ val2  =
+ 
+    0.1325447  
+ 
+ val3  =
+ 
+    0.1636129  
+ 
+ ratio_21  =
+ 
+    1.4127749  
+ 
+ ratio_31  =
+ 
+    1.7439265  
+ 
+
+ Interatomic layer separation ratios in crystal are as
+ 1 : 1.412775 : 1.743926 
+
+ Above relation shows that crystal is simple cubic crystal structure. 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ lambda  =
+ 
+    1.2  
+ 
+ theta_deg  =
+ 
+    9.  
+ 
+ theta_min  =
+ 
+    30.  
+ 
+Example 3.8
+ 
+ theta  =
+ 
+    9.5  
+ 
+ d  =
+ 
+    3.6353148  
+ If order is 1 then spacing is 3.635315 angstrom.
+ d  =
+ 
+    1.8176574  
+ If order is 2 then spacing is 1.817657 angstrom.
+ d  =
+ 
+    1.2117716  
+ If order is 3 then spacing is 1.211772 angstrom.
+ d  =
+ 
+    0.9088287  
+ If order is 4 then spacing is 0.908829 angstrom.
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ v  =
+ 
+    340.  
+ 
+ n  =
+ 
+    1.  
+ 
+ theta  =
+ 
+    60.  
+ 
+Example 3.9 
+ lambda  =
+ 
+    6.653D-11  
+ 
+ d  =
+ 
+    3.841D-11  
+ 
+ 
+
+Spacing of crystal is 0.384116 angstrom. 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ E  =
+ 
+    100.  
+ 
+ theta  =
+ 
+    30.  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+Example 3.10 
+ E_rest  =
+ 
+    511.875  
+ 
+ k  =
+ 
+    0.0102617  
+ 
+ del_e  =
+ 
+    2.5505734  
+ 
+
+  Energy of recoiled electron is 2.550573 KeV
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ lambda  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.11 
+ d_lambda  =
+ 
+    2.425D-12  
+ 
+ 
+
+Wavelength shift is 0.024249 angstrom. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ lambda  =
+ 
+    0.015  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    60.  
+ 
+Example 3.12 
+ d_lambda  =
+ 
+    0.0121429  
+ 
+ lambda_n  =
+ 
+    0.0271429  
+ 
+ 
+
+ Wavelength shift is 0.027143 angstrom. 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ lambda  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.13 
+ d_lambda  =
+ 
+    0.0242857  
+ 
+ lambda_n  =
+ 
+    1.0242857  
+ 
+ d_E  =
+ 
+    294.74372  
+ 
+
+Wavelength shift is 1.024286 angstrom. 
+
+Energy of recoiled electron is 295eV. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ lambda  =
+ 
+    1.  
+ 
+ lambda_n  =
+ 
+    2.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.14 
+ lambda  =
+ 
+    0.0242857  
+ 
+ E  =
+ 
+    511875.  
+ 
+ 
+
+Wavelength shift is 0.024286 angstrom.  
+
+Energy of recoiled electron is 511.875000 KeV. 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ lambda  =
+ 
+    2.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    45.  
+ 
+Example 3.15 
+ d_lambda  =
+ 
+    0.0071131  
+ 
+ lambda_n  =
+ 
+    2.0071131  
+ 
+ 
+ f  =
+ 
+    0.0035566  
+ 
+ 
+
+Fraction of energy lost by photon is 0.003557
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ E_eV  =
+ 
+    510.  
+ 
+ lambda  =
+ 
+    2.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.16 
+ E_j  =
+ 
+    8.160D-14  
+ 
+ lambda  =
+ 
+    0.024375  
+ 
+ 
+ d_lambda  =
+ 
+    0.0242857  
+ 
+ lambda_n  =
+ 
+    0.0486607  
+ 
+
+Wavelength of scattered radiation is 0.048661 Angstrom 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ lambda  =
+ 
+    2.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.17 
+ d_lambda  =
+ 
+    0.0242857  
+ 
+ lambda_n  =
+ 
+    2.0242857  
+ 
+ d_E  =
+ 
+    74.569954  
+ 
+
+ Scattered wavelength is 2.024286 angstrom. 
+
+ Energy of recoiled electron is 74.569954eV. 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.18/Ex3_18.sce #
+ 
+ 
+ 
+ E_eV  =
+ 
+    510.  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.18 
+ E_j  =
+ 
+    8.160D-14  
+ 
+ lambda  =
+ 
+    2.437D-12  
+ 
+ 
+ d_lambda  =
+ 
+    0.0242857  
+ 
+ lambda_n  =
+ 
+    4.866D-12  
+ 
+ d_E  =
+ 
+    254532.11  
+ 
+ psi  =
+ 
+    1.106415  
+ 
+ phi_deg  =
+ 
+    26.607088  
+ 
+ phi_min  =
+ 
+    36.425261  
+ 
+
+Wavelength of scattered radiation is 4.866071e-12 m  
+
+Energy of recoiled electron is 0.254532 MeV. 
+
+Recoiled electron angle is 26 degree36 minute 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ nu  =
+ 
+    2.000D+19  
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ m_e  =
+ 
+    9.100D-31  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ theta  =
+ 
+    90.  
+ 
+Example 3.19 
+ d_lambda  =
+ 
+    2.429D-12  
+ 
+ k  =
+ 
+    5.810D-20  
+ 
+ nu_1  =
+ 
+    1.721D+19  
+ 
+ nu_1  =
+ 
+    1.700D+19  
+ 
+
+Frequency after collision is 1.700000e+19 Hz 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ epsilon_r  =
+ 
+    1.000074  
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ E  =
+ 
+    100.  
+ 
+ n  =
+ 
+    2.680D+27  
+ 
+ N_a  =
+ 
+    6.000D+23  
+ 
+ V  =
+ 
+    22.4  
+ 
+Example 4.4 
+ P  =
+ 
+    6.552D-14  
+ 
+ 
+ N  =
+ 
+    2.679D+25  
+ 
+ p  =
+ 
+    2.446D-39  
+ 
+
+ Dipole moment per atom is 2.446065e-39 Coulomb-meter 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ r  =
+ 
+    0.055  
+ 
+ n  =
+ 
+    9.800D+26  
+ 
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ 
+Example 4.6 
+ alpha_e  =
+ 
+    1.851D-41  
+ 
+ epsilon_r  =
+ 
+    1.0020489  
+ 
+ 
+
+ Electronic polarisability is 1.851132e-41Fm^2 
+ Relative permeability is 1.002049 
+
+
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ E  =
+ 
+    2000.  
+ 
+ P  =
+ 
+    6.400D-08  
+ 
+Example 4.8 
+ epsilon_r  =
+ 
+    4.6141857  
+ 
+ 
+
+ Relative permittivity is 4.614186
+
+
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ alpha_e  =
+ 
+    2.000D-40  
+ 
+ N  =
+ 
+    4.000D+28  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ 
+Example 4.9 
+ epsilon_r  =
+ 
+    1.9039548  
+ 
+
+ Relative permittivity is 1.903955
+
+
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ epsilon  =
+ 
+    2.400D-10  
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ 
+Example 4.10 
+ K  =
+ 
+    27.106393  
+ 
+ zai_e  =
+ 
+    2.311D-10  
+ 
+ 
+
+ Relative permittivity is 27.106393 
+
+ Electrical susceptibility is 2.311460e-10 C^2/Nm^2
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ V  =
+ 
+    100.  
+ 
+ d  =
+ 
+    1.  
+ 
+ k1  =
+ 
+    8.  
+ 
+ k2  =
+ 
+    9.  
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ 
+Example 4.11 
+ E_0  =
+ 
+    10000.  
+ 
+ E  =
+ 
+    11250.  
+ 
+ D  =
+ 
+    0.0000008  
+ 
+ P  =
+ 
+    0.0000007  
+ 
+ 
+
+ Magnitude of Electrical vector is 1.125000e+04 Volt/meter 
+ 
+
+ Magnitude of Electrical Displacement vector is 7.968600e-07 C/m^2 
+ 
+
+ Magnitude of Electric polarization vector is 6.972525e-07 C/m^2
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ 
+ alpha_300  =
+ 
+    2.500D-39  
+ 
+ alpha_600  =
+ 
+    1.750D-39  
+ 
+ T1  =
+ 
+    300.  
+ 
+ T2  =
+ 
+    600.  
+ 
+Example 4.12
+ 
+ b  =
+ 
+    4.500D-37  
+ 
+ al_def_300  =
+ 
+    1.000D-39  
+ 
+ al_oriant_300  =
+ 
+    1.500D-39  
+ 
+ al_oriant_600  =
+ 
+    7.500D-40  
+ 
+
+ Deformational Polarizability is 1.000000e-39 C^2mN^-1 
+
+ Orientational Polarizability at 300 degree Celcius is 1.500000e-39 C^2mN^-1 
+
+ Orientational Polarizability at 600 degree Celcius is 7.500000e-40 C^2mN^-1 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.13/Ex4_13.sce #
+ 
+ 
+ 
+ alpha_e  =
+ 
+    1.500D-40  
+ 
+ N  =
+ 
+    4.000D+28  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ 
+Example 4.13 
+ k  =
+ 
+    0.2259887  
+ 
+ epsilon_r  =
+ 
+    1.8759124  
+ 
+
+ Relative permittivity is 1.875912
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ 
+ m  =
+ 
+    32.  
+ 
+ d  =
+ 
+    2.08  
+ 
+ alpha_e  =
+ 
+    3.500D-40  
+ 
+ N_a  =
+ 
+    6.022D+23  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ 
+Example 4.14 
+ N  =
+ 
+    3.914D+28  
+ 
+ k  =
+ 
+    0.5160094  
+ 
+ 
+ epsilon_r  =
+ 
+    4.1984677  
+ 
+
+ Relative permittivity is 4.198468
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.5  
+ 
+ epsilon  =
+ 
+    5.6  
+ 
+Example 4.15 
+ per  =
+ 
+    51.40665  
+ 
+
+ Percentage ionic polarizability is 51.406650 pecent
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.16/Ex4_16.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    32.  
+ 
+ d  =
+ 
+    2050.  
+ 
+ N_a  =
+ 
+    6.022D+23  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ epsilon_r  =
+ 
+    3.75  
+ 
+ 
+Example 4.16 
+ N  =
+ 
+    3.858D+28  
+ 
+ alpha_e  =
+ 
+    3.291D-40  
+ 
+ 
+ 
+
+ Electronic polarizability  is 3.291431e-40 Fm^2
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.17/Ex4_17.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.5  
+ 
+ epsilon  =
+ 
+    4.  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+Example 4.17 
+ k1  =
+ 
+    0.5  
+ 
+ k2  =
+ 
+    0.2941176  
+ 
+ ratio  =
+ 
+    1.4285714  
+ 
+
+ Ratio of electronic to ionic polarizability is 1.428571 .
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH4/EX4.18/Ex4_18.sce #
+ 
+ 
+ 
+ t  =
+ 
+    0.000018  
+ 
+ epsilon_r  =
+ 
+    1.  
+ 
+Example 4.18 
+ f  =
+ 
+    8841.9413  
+ 
+ delta  =
+ 
+    0.7853982  
+ 
+ phi  =
+ 
+    45.  
+ 
+
+ Frequency is 8.841941 KHz
+ 
+ Phase difference between current and voltage is 45 degree. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ E  =
+ 
+    7.900D+10  
+ 
+ rho  =
+ 
+    2650.  
+ 
+ t  =
+ 
+    0.003  
+ 
+Example 6.1
+ 
+ v  =
+ 
+    5459.9744  
+ 
+ lambda  =
+ 
+    0.006  
+ 
+ nu  =
+ 
+    909995.74  
+ 
+Fundamental frequency is 9.099957e+05 Hz.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ v  =
+ 
+    5760.  
+ 
+ T  =
+ 
+    1.6  
+ 
+Example 6.2
+ 
+ nu  =
+ 
+    1800000.  
+ 
+Fundamental frequency of crystal is 1.800000 MHz.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ T  =
+ 
+    40.  
+ 
+ t1  =
+ 
+    40.  
+ 
+ t2  =
+ 
+    80.  
+ 
+Example 6.3
+ 
+ X  =
+ 
+    20.  
+ 
+Depth of defect is 20 cm.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ E  =
+ 
+    7.900D+10  
+ 
+ rho  =
+ 
+    2650.  
+ 
+ t  =
+ 
+    0.006  
+ 
+Example 6.4
+ 
+ v  =
+ 
+    5459.9744  
+ 
+ lambda  =
+ 
+    0.012  
+ 
+ nu  =
+ 
+    454997.87  
+ 
+Fundamental frequency is 4.549979e+05 Hz.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ L  =
+ 
+    1.  
+ 
+ nu  =
+ 
+    2000000.  
+ 
+Example 6.5
+ 
+ C  =
+ 
+    6.333D-15  
+ 
+Capacitance is 6.332574e-09 microfarad.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ p  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    2.  
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+Example 7.1 
+ s  =
+ 
+    19.894368  
+ 
+ E_H_ratio  =
+ 
+    376.73431  
+ 
+ E  =
+ 
+    86.573038  
+ 
+
+ Average value of electric field at distance 2 m is 86.573038 Volt/m 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ p  =
+ 
+    2.  
+ 
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+Example 7.2 
+ s  =
+ 
+    1400.  
+ 
+ E_H_ratio  =
+ 
+    376.73431  
+ 
+ E  =
+ 
+    726.24241  
+ 
+ H  =
+ 
+    1.927731  
+ 
+ 
+
+ Average value of electric field  is 1027.061861 Volt/m  
+ 
+Average value of magnetic field is 2.726223 Amp turn/m 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ sigma  =
+ 
+    30000000.  
+ 
+ f  =
+ 
+    1.000D+08  
+ 
+Example 7.3 
+ omega  =
+ 
+    6.283D-08  
+ 
+ delta  =
+ 
+    918.88149  
+ 
+ Delta  =
+ 
+    900.  
+ 
+
+ Skin depth penetration is 9.000000e-04 cm. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ k  =
+ 
+    80.  
+ 
+ epsilon_0  =
+ 
+    1.111D-10  
+ 
+ epsilon  =
+ 
+    8.889D-09  
+ 
+ sigma  =
+ 
+    4.3  
+ 
+ delta  =
+ 
+    10.  
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ F  =
+ 
+    1.000D+08  
+ 
+Example 7.5 
+ f  =
+ 
+    5890766.5  
+ 
+ f1  =
+ 
+    1.000D+08  
+ 
+
+Frequency required for penetration of depth 10 cm is 1.000000e+08 Hz 
+ omega  =
+ 
+    6.283D+08  
+ 
+ x  =
+ 
+    1.5398241  
+ 
+
+ Sea water is good conductor at frequency lesser than 1e8 Hz
+
+  
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ k  =
+ 
+    12.  
+ 
+ epsilon_0  =
+ 
+    1.111D-10  
+ 
+ sigma  =
+ 
+    2.  
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ f  =
+ 
+    1.000D+09  
+ 
+ F  =
+ 
+    1000000.  
+ 
+
+Example 7.7 
+ delta  =
+ 
+    0.0355881  
+ 
+
+ For 1.000000e+06Hz frequency, Penetration depth is 3.558813 cm 
+ omega  =
+ 
+    6.283D+09  
+ 
+ x  =
+ 
+    47.746483  
+ 
+
+ Silicon is good conductor at frequency lesser than 1e9 Hz 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ sigma  =
+ 
+    58000000.  
+ 
+ delta  =
+ 
+    0.1  
+ 
+ 
+Example 7.8 
+ f  =
+ 
+    436729.24  
+ 
+
+ Required frequency is 4.37e+05 Hz 
+
+ The incident electromagnetic wave is the radio part of spectrum. 
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ 
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ sigma  =
+ 
+    30000000.  
+ 
+ f  =
+ 
+    1.000D+10  
+ 
+Example 7.9 
+ delta  =
+ 
+    0.0000009  
+ 
+
+ Skin depth penetration is 0.918881 micrometre. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ 
+ p  =
+ 
+    500.  
+ 
+ d  =
+ 
+    1.  
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+Example 7.10 
+ s  =
+ 
+    39.788736  
+ 
+ E_H_ratio  =
+ 
+    376.73431  
+ 
+ H  =
+ 
+    0.1056148  
+ 
+ h  =
+ 
+    0.11  
+ 
+ E  =
+ 
+    361.71578  
+ 
+
+ Average value of electric field at distance 1 m is 361.715780 Volt/m  
+
+ Average value of magnetic field at distance 1 m is 0.110000 Amp-turn/m 
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.11/Ex7_11.sce #
+ 
+ 
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ sigma  =
+ 
+    35000000.  
+ 
+ delta  =
+ 
+    0.03  
+ 
+ 
+Example 7.11 
+ 
+ f  =
+ 
+    8041363.8  
+ 
+
+ Required frequency is 8 MHz. 
+
+ The incident electromagnetic wave is the radio part of spectrum 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.12/Ex7_12.sce #
+ 
+ 
+ 
+ p  =
+ 
+    3.800D+26  
+ 
+ d_sun  =
+ 
+    1.440D+11  
+ 
+ d_moon  =
+ 
+    3.000D+08  
+ 
+ epsilon_0  =
+ 
+    8.854D-12  
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+Example 7.12 
+ s  =
+ 
+    1458.3063  
+ 
+ S  =
+ 
+    2.0832947  
+ 
+ 
+
+ Solar energy received during solar eclipse is 2.083295 Cal per min per m^2 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH7/EX7.13/Ex7_13.sce #
+ 
+ 
+ 
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ mu  =
+ 
+    0.0000013  
+ 
+ sigma  =
+ 
+    35000000.  
+ 
+ lambda  =
+ 
+    6328.  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+Example 7.13 
+ f  =
+ 
+    4.741D+14  
+ 
+ omega  =
+ 
+    1.325D-14  
+ 
+ f  =
+ 
+    4.741D+14  
+ 
+ delta  =
+ 
+    3.907D-09  
+ 
+
+ Skin depth penetration is 3.907138 nm. 
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ H_c_0  =
+ 
+    0.0306  
+ 
+ T_c  =
+ 
+    3.7  
+ 
+ T  =
+ 
+    2.  
+ 
+Example 8.1
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ H_c  =
+ 
+    0.0216592  
+ 
+ 
+Magnetic Field at 2 K is 0.021659 tesla.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ H_c  =
+ 
+    33000.  
+ 
+ T_c  =
+ 
+    7.2  
+ 
+ T  =
+ 
+    5.  
+ 
+Example 8.2
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ H_c_0  =
+ 
+    63737.705  
+ 
+Magnetic Field at 5 K is 6.373770e+04 A/m
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ H_c_0  =
+ 
+    1.  
+ 
+ H_c  =
+ 
+    0.1  
+ 
+ T_c  =
+ 
+    7.2  
+ 
+ 
+Example 8.3
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ T  =
+ 
+    6.8305197  
+ 
+ 
+Required temperature is 6.830520 K.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ H_c_0  =
+ 
+    0.0803  
+ 
+ T_c  =
+ 
+    7.2  
+ 
+ T  =
+ 
+    4.2  
+ 
+Example 8.4
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ H_c  =
+ 
+    0.0529757  
+ 
+ 
+Magnetic Field at 4 K is 0.052976 tesla.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ 
+ H_c_0  =
+ 
+    150000.  
+ 
+ H_c  =
+ 
+    105000.  
+ 
+ T_c  =
+ 
+    9.2  
+ 
+ 
+Example 8.5
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ T  =
+ 
+    5.0390475  
+ 
+ 
+Required temperature is 5.039048 K.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ 
+ H_c_0  =
+ 
+    200000.  
+ 
+ H_c  =
+ 
+    100000.  
+ 
+ T_c  =
+ 
+    8.  
+ 
+ 
+Example 8.6
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ T  =
+ 
+    11.313708  
+ 
+ 
+Required temperature is 11.313708 K.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ H_c_0  =
+ 
+    800000.  
+ 
+ H_c  =
+ 
+    40000.  
+ 
+ T_c  =
+ 
+    7.26  
+ 
+ 
+Example 8.7
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ T  =
+ 
+    7.0761727  
+ 
+ 
+Required temperature is 7.076173 K.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    14.  
+ 
+ T2  =
+ 
+    13.  
+ 
+ T  =
+ 
+    4.2  
+ 
+ Hc_T1  =
+ 
+    0.176  
+ 
+ Hc_T2  =
+ 
+    0.528  
+ 
+ 
+Example 8.8
+ 
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+ 
+ T_c  =
+ 
+    14.474115  
+ 
+ t_c  =
+ 
+    14.5  
+ 
+ Hc_0  =
+ 
+    2.5967719  
+ 
+ Hc_T  =
+ 
+    2.3789025  
+ 
+ 
+
+ Transition temperature is 14.500000 K.
+ 
+Critical field at 4.200000 K is 2.596772T.
+ 
+Critical field at 0 K is 2.378902T.
+
+
+ 
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ 
+ m_0  =
+ 
+    9.100D-31  
+ 
+ mu_0  =
+ 
+    0.0000013  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eta_s  =
+ 
+    1.000D+28  
+ 
+ T_1  =
+ 
+    0.  
+ 
+ T_2  =
+ 
+    1.  
+ 
+ T_c  =
+ 
+    3.  
+ 
+ 
+Example 8.9
+ 
+Standard formula used 	lambda_0 = sqrt(m_0/(mu_0*eta_s*e^2))
+ 
+ lambda_0  =
+ 
+    5.320D-08  
+ 
+ lambda_t  =
+ 
+    5.353D-08  
+ 
+ 
+Penetration depth at 0 K is 531 angestrom. 
+
+Penetration depth at 1 K is 535.307601 angestrom.
+
+
+ 
+ 
+grepthis#Engineering_Physics_(volume_-_2)_B._K._Pandey_And_S._Chaturvedi_3014/CH8/EX8.10/Ex8_10.sce #
+ 
+ 
+ 
+ T_1  =
+ 
+    3.5  
+ 
+ T_c  =
+ 
+    4.153  
+ 
+ lambda_t  =
+ 
+    750.  
+ 
+Example 8.10
+ 
+Standard formula used 
+lambda_0 = lambda_t*sqrt(1-(T_1/T_c)^4) 
+ 
+ 
+ lambda_0  =
+ 
+    527.96093  
+ 
+
+ Penetration depth at 0 K is 527.960928 angstrom.
+
+
+ 
+ 
+ 
+ 

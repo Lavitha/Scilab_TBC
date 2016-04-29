@@ -1,0 +1,186 @@
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.2.2/examplesec6_2_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.2.2/examplesec6_2_2.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.2/example6_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.2/example6_2.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.3/example6_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ den2  =
+ 
+              2  
+    4 + 2s + s   
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      12 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.3/example6_3.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.4/example6_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ den2  =
+ 
+              2  
+    4 + 2s + s   
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      12 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.4/example6_4.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.5/example6_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.5/example6_5.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.6/example6_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(t);
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.6/example6_6.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.7/example6_7.sce
+ 
+ 
+ 
+ 
+ Beta  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH6/EX6.7/example6_7.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/DEPENDENCIES/dependancy9_11.sce
+errcatch(-1,"stop");mode(2);ÿØÿà
+                             !--error 2 
+Invalid factor.
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/DEPENDENCIES/dependancy9_11.sce',-1)
+ 
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/DEPENDENCIES/dependancy9_12.sce
+errcatch(-1,"stop");mode(2);ÿØÿà
+                             !--error 2 
+Invalid factor.
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/DEPENDENCIES/dependancy9_12.sce',-1)
+ 
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.49/example15_49.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.49/example15_49.sce',-1)
+ 
+ERROR: Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.60/example15_60.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     118 of function evans called by :  
+evans(G);
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Engineering_-_Theory_And_Practice_M._N._Bandyopadhyay_1299/CH15/EX15.60/example15_60.sce',-1)
+ 

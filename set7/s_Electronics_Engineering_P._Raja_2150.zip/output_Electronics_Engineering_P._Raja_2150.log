@@ -1,0 +1,4933 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 181
+
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.10/ex_4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of R_C in kΩ is :    
+ 
+    1.  
+ 
+ 
+ 
+ The value of I_B in µA is :    
+ 
+    50.  
+ 
+ 
+ 
+ 
+ The value of R_B in kΩ is :   
+ 
+    186.  
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.12/ex_4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q-Point value for the circuit is 1.718018 V and 1.018018 mA   
+ 
+ 
+ 
+ 
+ 
+ At I_C=0, the value of V_CE in volts is :    
+ 
+    11.898198  
+ 
+ 
+ 
+ 
+ 
+ At V_CE=0, the value of I_C in mA is :    
+ 
+    1.1898198  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.13/ex_4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of R_C in kΩ is :    
+ 
+    1.980198  
+ 
+ 
+ The value of R_B in kΩ is :    
+ 
+    86.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.14/ex_4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of bita is :    
+ 
+    154.  
+ 
+ 
+ The value of V_CC in volts is :    
+ 
+    17.738235  
+ 
+ 
+ The value of R_B in kΩ is :    
+ 
+    751.91176  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.1/ex_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current gain is :    
+ 
+    0.9  
+ 
+ 
+ 
+ 
+ The base current in mA is :    
+ 
+    0.1  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.2/ex_4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in mA is :    
+ 
+    0.03  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.3/ex_4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At alpha= 0.90, the value of Bita is :    
+ 
+    9.  
+ 
+ 
+ 
+ 
+ 
+ At alpha= 0.99, the value of Bita is :    
+ 
+    99.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.4/ex_4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ alfa  =
+ 
+    0.9803922  
+ 
+ 
+ The value of alfa is :    
+ 
+    0.9803922  
+ 
+ 
+ 
+ The value of I_C in mA using the value of alpha is :    
+ 
+    9.8039216  
+ 
+ 
+ 
+ The value of I_C in mA using the value of bita is :    
+ 
+    10.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.5/ex_4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_B in µA is :    
+ 
+    9.3  
+ 
+ 
+ The value of I_C in mA is :    
+ 
+    2.79  
+ 
+ 
+ The value of V_CE in volts is :    
+ 
+    4.42  
+ 
+ 
+ The value of P_D in mW is :   
+ 
+    12.3318  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.6/ex_4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is :    
+ 
+    31.914894  
+ 
+ 
+ The collector current in mA is :    
+ 
+    3.1914894  
+ 
+ 
+ The value of V_CE in volts is :    
+ 
+    3.5106383  
+ 
+ 
+ The emitter current in mA is ;    
+ 
+    3.2234043  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.7/ex_4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is :    
+ 
+    30.425532  
+ 
+ 
+ The collector current in mA is :    
+ 
+    3.0425532  
+ 
+ 
+ The value of V_CE in volts is :    
+ 
+    4.0468085  
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.9/ex_4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The emitter current in mA is :    
+ 
+    1.0901706  
+ 
+ 
+ This is extremely  to 1.1 mA, the value we get with the simplified analysis.   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.1/ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i)  When the junction temperature is 100 °C, the barrier potential of a sili 
+      con diode in V is                                                         
+ 
+    0.55  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ii) When the junction temperature is 0 °C, the barrier potential of a silico 
+      n diode in V is                                                           
+ 
+    0.75  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.2/ex1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The saturation current at 100 degree C in nA is   
+ 
+    898.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.3/ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The load voltage in volts is :    
+ 
+    10.  
+ 
+ 
+ The load current in mA is   
+ 
+    10.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.4/ex1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The load voltage in V is   
+ 
+    9.3  
+ 
+ 
+ 
+ 
+ The load current in mA is   
+ 
+    9.3  
+ 
+ 
+ 
+ The diode Power in mW is   
+ 
+    6.51  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.5/ex1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The load current in mA is   
+ 
+    9.2978615  
+ 
+ 
+ 
+ The load voltage in V is   
+ 
+    9.2978615  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.6/ex1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_o in V is   
+ 
+    0.7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I1 in mA is   
+ 
+    28.181818  
+ 
+ 
+ 
+ The value of I_D1 in mA is   
+ 
+    14.090909  
+ 
+ 
+ 
+ The value of I_D2 in mA is   
+ 
+    14.090909  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.7/ex1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of Vo voltage in V is   
+ 
+    11.  
+ 
+ 
+ 
+ 
+ The value of I_D in mA is   
+ 
+    1.9642857  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.8/ex1_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current in mA is   
+ 
+    5.7666667  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.9/ex1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I1 in mA is :    
+ 
+    15.692264  
+ 
+ 
+ The value of I2 in mA is :    
+ 
+    5.7436483  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.10/ex1_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of r_F1 in ohm is   
+ 
+    50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of r_F2 in ohm is   
+ 
+    40.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of r_R in Mohm is   
+ 
+    10.  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.11/ex1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_D in A is :   
+ 
+    0.  
+ 
+ 
+ The value of Vo in V is   
+ 
+    0.  
+ 
+ 
+ 
+ 
+ The value of V_D2 in V is   
+ 
+    12.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.12/ex1_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current through resistor R2 in mA is    
+ 
+    3.3214286  
+ 
+ 
+ 
+ 
+ The current through resistor R1 in mA is   
+ 
+    0.2121212  
+ 
+ 
+ 
+ The current through diode D2 in mA is   
+ 
+    3.1093074  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.13/ex1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    11.7  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.14/ex1_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a) Analysis using approximate diode model   
+ 
+ 
+ 
+ The value of V_D in V is   
+ 
+    0.7  
+ 
+ 
+ 
+ 
+ The value of V_R in V is   
+ 
+    29.3  
+ 
+ 
+ 
+ 
+ 
+ The value of I_D in mA is   
+ 
+    13.318182  
+ 
+ 
+ Part (b) Analysis using ideal diode model   
+ 
+ 
+ 
+ The value of V_D in V is   
+ 
+    0.  
+ 
+ 
+ 
+ The value of V_R in V is   
+ 
+    30.  
+ 
+ 
+ 
+ 
+ The value of I_D in mA is   
+ 
+    13.636364  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.15/ex1_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current through resistance in A is   
+ 
+    0.965  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.16/ex1_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    9.5  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.17/ex1_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in volts is :    
+ 
+  - 4.3  
+ 
+ 
+ The current through diode in mA is   
+ 
+    1.9545455  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.18/ex1_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a)   
+ 
+ 
+ 
+ 
+ The value of I_D1 and I_D2 in mA is   
+ 
+    0.62  
+ 
+ 
+ 
+ The value of Vo in V is   
+ 
+    1.9  
+ 
+ 
+ 
+ The value of V_A in V is   
+ 
+    1.2  
+ 
+ 
+ Part (b)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_D2 in mA is :    
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ The value of I_D1 in mA is :    
+ 
+    0.63  
+ 
+ 
+ The value of Vo in volts is :    
+ 
+    4.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.19/ex1_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total current in µA is   
+ 
+    530.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.20/ex1_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total circuit current in mA is   
+ 
+    1.2647059  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.21/ex1_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total current in µA is   
+ 
+    510.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.22/ex1_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Using the ideal diode, the total current in mA is    
+ 
+    3.030303  
+ 
+ 
+ 
+ 
+ 
+ Using the pracitcal diode, the total current in mA is   
+ 
+    2.6060606  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.23/ex1_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The diode current in mA is   
+ 
+    4.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.24/ex1_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a)   
+ 
+ 
+ The diode current in mA is   
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ Part (b)   
+ 
+ 
+ The diode current in mA is   
+ 
+    13.  
+ 
+ 
+ 
+ 
+ 
+ Part (c)   
+ 
+ 
+ The diode current in mA is   
+ 
+    10.  
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.25/ex1_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of Vo1 in V is   
+ 
+    0.7  
+ 
+ 
+ 
+ The value of Vo2 in V is   
+ 
+    0.3  
+ 
+ 
+ 
+ 
+ 
+ The current in mA is   
+ 
+    18.448936  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.26/ex1_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    6.2  
+ 
+ 
+ 
+ The diode current in mA is   
+ 
+    1.55  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.27/ex1_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The diode current in mA is   
+ 
+    2.0531915  
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    9.65  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.28/ex1_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The diode current in  mA is   
+ 
+    8.7727273  
+ 
+ 
+ 
+ The output voltage in V   
+ 
+    14.3  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH1/EX1.29/ex1_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current in mA is   
+ 
+    0.5531915  
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    14.6  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.1/ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vi  =
+ 
+ 10*sin(omega*t)   
+ 
+ 
+ 
+ 
+ 
+ 
+ The average load voltage in volts is :    
+ 
+    12.732395  
+ 
+ 
+ 
+ 
+ 
+ 
+ Average load current in mA is   
+ 
+    12.732395  
+ 
+ 
+ 
+ RMS load voltage in V is   
+ 
+    20.  
+ 
+ 
+ 
+ 
+ RMS load current in mA is   
+ 
+    20.  
+ 
+ 
+ 
+ Efficiency in % is   
+ 
+    40.528473  
+ 
+ 
+ 
+ 
+ Transformer utilization factor in % is   
+ 
+    28.657958  
+ 
+ 
+ 
+ Ripple factor in % is   
+ 
+    121.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.2/ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average current through the diode in mA is   
+ 
+    4.7746483  
+ 
+ 
+ 
+ 
+ RMS current in mA is   
+ 
+    7.5  
+ 
+ 
+ 
+ 
+ Peak diode current in mA is   
+ 
+    15.  
+ 
+ 
+ 
+ Peak inverse voltage in V is   
+ 
+    30.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.3/ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    8.1034483  
+ 
+ 
+ Peak inverse voltage in volts is :    
+ 
+    20.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.4.2/ex2_4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The peak magnitude of the positive output voltage in V is   
+ 
+    9.5238095  
+ 
+ 
+ 
+ The peak magnitude of the negative output voltage in V is :    
+ 
+  - 0.7  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.4/ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of Vdc in volts is :    
+ 
+    3.1830989  
+ 
+ 
+ 
+ The PIV value in volts is :    
+ 
+    5.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.7/ex2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of average load voltage in volts is :    
+ 
+  - 27.009489  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.8/ex2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average load output voltage in V is   
+ 
+    49.517397  
+ 
+ 
+ 
+ DC power delivered to load in watt is   
+ 
+    2.4519726  
+ 
+ 
+ 
+ Peak inverse Voltage in V is   
+ 
+    77.781746  
+ 
+ 
+ 
+ Output frequency in Hz is   
+ 
+    100.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.10/ex2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RMS value of secondary signal voltage in V is   
+ 
+    2.3880496  
+ 
+ 
+ 
+ power delivered to load in Watt is   
+ 
+    0.2  
+ 
+ 
+ 
+ Peal inverse voltage in V is   
+ 
+    6.7544242  
+ 
+ 
+ 
+ Input power in Watt is   
+ 
+    0.2652456  
+ 
+ 
+ 
+ Conversion efficiency in % is   
+ 
+    75.401811  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.16/ex2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The voltage in V is   
+ 
+    28.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.17/ex2_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak inverse voltage for center tapped FWR in V is   
+ 
+    314.15927  
+ 
+ 
+ 
+ Peak inverse voltage for bridge type FWR in V is   
+ 
+    157.07963  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.19/ex2_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The dc voltage available at the load in V is   
+ 
+    107.14669  
+ 
+ 
+ 
+ Peak inverse voltage in V is   
+ 
+    169.70563  
+ 
+ 
+ Maximum current through diode in mA is :    
+ 
+    168.30563  
+ 
+ 
+ 
+ Diode power rating in mW is   
+ 
+    117.81394  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.20/ex2_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current in mA is   
+ 
+    172.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.21/ex2_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of Im in mA is   
+ 
+    61.  
+ 
+ 
+ 
+ The value of I_dc in mA is   
+ 
+    19.409139  
+ 
+ 
+ 
+ The value of Irms in mA is   
+ 
+    30.487805  
+ 
+ 
+ 
+ AC power input in Watt is   
+ 
+    0.7621951  
+ 
+ 
+ 
+ DC output voltage in V is   
+ 
+    15.527312  
+ 
+ 
+ 
+ 
+ The efficiency of rectification in % is   
+ 
+    40.528473  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.22/ex2_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak value of current in A is   
+ 
+    0.2178218  
+ 
+ 
+ 
+ DC value of current in A is   
+ 
+    0.1386697  
+ 
+ 
+ 
+ 
+ Ripple factor in % is   
+ 
+    48.342585  
+ 
+ 
+ 
+ Rectification efficiency in % is   
+ 
+    80.254403  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.23/ex2_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak load voltage in V is   
+ 
+    10.032787  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.24/ex2_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The load current during posotive half cycle in A is   
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ 
+ The load current during negative half cycle in A is   
+ 
+  - 0.05  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.25/ex2_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The dc voltage in V is   
+ 
+    31.830989  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH2/EX2.26/ex2_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    56.666667  
+ 
+ 
+ 
+ The dc voltage in V is   
+ 
+    36.07512  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.1/ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The zener current in mA is   
+ 
+    19.62963  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.5/ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change in load voltage in V is   
+ 
+    0.017  
+ 
+ 
+ 
+ The load voltage in V is   
+ 
+    10.017  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.6/ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The load voltage in V is   
+ 
+    8.7272727  
+ 
+ 
+ 
+ The voltage in V is   
+ 
+    7.2727273  
+ 
+ 
+ 
+ The zener diode current in A is   
+ 
+    0.  
+ 
+ 
+ 
+ 
+ Power dissipation in watt is   
+ 
+    0.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.7/ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of zener diode in ohm is   
+ 
+    15.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.8/ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum value of R_L in ohm is :    
+ 
+    250.  
+ 
+ 
+ 
+ 
+ 
+ The minimum value of I_L in mA is :    
+ 
+    8.  
+ 
+ 
+ 
+ The maximum value of R_L in kohm is   
+ 
+    1.25  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.9/ex3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum value of Vi in V is   
+ 
+    23.666667  
+ 
+ 
+ 
+ 
+ 
+ The maximum value of Vi in V is   
+ 
+    36.866667  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.10/ex3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The open circuit voltage in volts is   
+ 
+    14.173228  
+ 
+ 
+ The zener diode is operating in the breakdown region.   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.11/ex3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_L in Volts is   
+ 
+    12.  
+ 
+ 
+ 
+ 
+ 
+ The value of I_L in mA is   
+ 
+    33.333333  
+ 
+ 
+ 
+ The value of I_R in mA is   
+ 
+    50.  
+ 
+ 
+ 
+ The value of I_Z in mA is   
+ 
+    16.666667  
+ 
+ 
+ 
+ 
+ The value of R_L in ohm is :    
+ 
+    200.  
+ 
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.12/ex3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum input voltage in V is   
+ 
+    12.  
+ 
+ 
+ 
+ 
+ The maximum input voltage in V is   
+ 
+    30.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.13/ex3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zener diode current in mA is   
+ 
+    83.333333  
+ 
+ 
+ 
+ The minimum value of Rs in ohm is   
+ 
+    120.  
+ 
+ 
+ 
+ The maximum value of Rs in ohm is   
+ 
+    218.18182  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.14/ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_Zmax in mA is :    
+ 
+    50.  
+ 
+ 
+ 
+ The minimum input voltage in V is   
+ 
+    11.309091  
+ 
+ 
+ 
+ 
+ The maximum input voltage in V is   
+ 
+    15.859091  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.15/ex3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_Z in V is   
+ 
+    12.  
+ 
+ 
+ 
+ The minimum value of R_L in ohm is   
+ 
+    60.  
+ 
+ 
+ 
+ The maximum value of R_L in ohm is   
+ 
+ 
+ infinite   
+ 
+ 
+ 
+ The zener current in mA is   
+ 
+    205.  
+ 
+ 
+ 
+ The maximum value of Pz in Watt is   
+ 
+    2.46  
+ 
+ 
+ 
+ The value of R_S in ohm is    
+ 
+    19.512195  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.16/ex3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (I) For R_L= 200 Ω   
+ 
+ 
+ 
+ Load voltage in V is   
+ 
+    10.  
+ 
+ 
+ 
+ Load current in A is   
+ 
+    0.05  
+ 
+ 
+ 
+ The current through resistor in A is   
+ 
+    0.0454545  
+ 
+ 
+ 
+ The value of I_Z in A is   
+ 
+  - 0.0045455  
+ 
+ 
+ 
+ 
+ Part (II) For R_L= 50 Ω   
+ 
+ 
+ 
+ Load voltage in V is   
+ 
+    10.  
+ 
+ 
+ 
+ Load current in A is   
+ 
+    0.2  
+ 
+ 
+ 
+ The current through resistor in A is   
+ 
+    0.0454545  
+ 
+ 
+ 
+ Zener current in A is   
+ 
+  - 0.1545455  
+ 
+ 
+ For both values of R_L, the current I_R is less than I_L and I_Z is negative.  
+      It shows that given circuit can not work successfully as a voltage regula 
+      tor                                                                       
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.17/ex3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (A)   
+ 
+ 
+ 
+ The maximum Voltage in V is   
+ 
+    75.  
+ 
+ 
+ 
+ The minimum Voltage in V is   
+ 
+    75.  
+ 
+ 
+ Part (B)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum Voltage in V is   
+ 
+    92.  
+ 
+ 
+ 
+ The minimum Voltage in V is   
+ 
+    72.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH3/EX3.18/ex3_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum value of load current in A is :    
+ 
+    0.4763158  
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum value of load current in A is :    
+ 
+    0.0526316  
+ 
+ 
+ Thus, the range of load current for regulation is 0.0526316 <= I_L <= 0.476315 
+      8 A                                                                       
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.15/ex4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_C in mA is   
+ 
+    1.862069  
+ 
+ 
+ 
+ The value of V_CE in V is   
+ 
+    10.551724  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.16/ex4_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_BQ in µA is   
+ 
+    47.083333  
+ 
+ 
+ 
+ The value of I_CQ in mA is   
+ 
+    2.3541667  
+ 
+ 
+ 
+ The value of V_CEQ in V is   
+ 
+    6.83  
+ 
+ 
+ 
+ The value of V_B in V is   
+ 
+    0.7  
+ 
+ 
+ 
+ The voltage in V is   
+ 
+  - 6.13  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.17/ex4_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_B in µA is   
+ 
+    35.  
+ 
+ 
+ 
+ The value of I_C in mA is :    
+ 
+    2.5999399  
+ 
+ 
+ 
+ The voltage in V is   
+ 
+    9.4201984  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.18/ex4_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The voltage in V is   
+ 
+    20.  
+ 
+ 
+ 
+ 
+ The resistance in kohm is   
+ 
+    2.5  
+ 
+ 
+ 
+ The resistance in kohm is   
+ 
+    482.5  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.19/ex4_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_B in volts is :    
+ 
+  - 3.1578947  
+ 
+ 
+ The value of I_E in mA is :    
+ 
+    2.2344498  
+ 
+ 
+ The value of V_CE in V is   
+ 
+  - 10.179426  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.20/ex4_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_B in µA is   
+ 
+    16.666667  
+ 
+ 
+ 
+ 
+ The value of I_C(sat) in mA is   
+ 
+    1.9533333  
+ 
+ 
+ 
+ The minimum value of I_B in µA is :    
+ 
+    19.533333  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.21/ex4_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_BQ in µA is   
+ 
+    16.842105  
+ 
+ 
+ 
+ The value of I_C in mA is   
+ 
+    0.7410526  
+ 
+ 
+ 
+ The value of I_E in mA is   
+ 
+    0.7578947  
+ 
+ 
+ 
+ The value of V_EC in V is   
+ 
+  - 2.2421053  
+ 
+ 
+ Q-point is -2.2421053 V, 0.7410526 mA   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.22/ex4_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_B in mA is   
+ 
+    0.0142384  
+ 
+ 
+ 
+ 
+ The value of I_C in mA is   
+ 
+    1.4238411  
+ 
+ 
+ 
+ 
+ The voltage in V is   
+ 
+    7.1523179  
+ 
+ 
+ Transistor is in active region is valid   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.23/ex4_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is   
+ 
+    40.12474  
+ 
+ 
+ 
+ The collector current in mA is   
+ 
+    2.006237  
+ 
+ 
+ 
+ The value of V_CE in V is   
+ 
+    13.981289  
+ 
+ 
+ 
+ The value of V_C in V is   
+ 
+    15.987526  
+ 
+ 
+ 
+ The value of V_E in V is   
+ 
+    2.006237  
+ 
+ 
+ 
+ The value of V_B in V is :    
+ 
+    2.706237  
+ 
+ 
+ 
+ The value of V_BC in V is   
+ 
+  - 13.281289  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.24/ex4_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_CQ in mA is   
+ 
+    1.8617363  
+ 
+ 
+ 
+ The value of V_CEQ in V is   
+ 
+    11.249839  
+ 
+ 
+ 
+ 
+ 
+ The value of V_E in V is   
+ 
+    0.  
+ 
+ 
+ 
+ The value of V_BC in V is   
+ 
+  - 10.56  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.25/ex4_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is   
+ 
+    15.884551  
+ 
+ 
+ 
+ The collector current in mA is   
+ 
+    1.9061462  
+ 
+ 
+ 
+ The collector voltage in V is   
+ 
+    9.1378738  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.26/ex4_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current at Q-point in µA is   
+ 
+    11.90781  
+ 
+ 
+ 
+ The collector current at Q-point in mA is   
+ 
+    1.0717029  
+ 
+ 
+ 
+ Collector emitter voltage at Q point in V is   
+ 
+    3.6769526  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.27/ex4_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is   
+ 
+    7.1069182  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.28/ex4_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a)   
+ 
+ 
+ The value of V_E in V is   
+ 
+    3.3  
+ 
+ 
+ 
+ Part (b)   
+ 
+ 
+ The value of I_C in mA is :    
+ 
+    2.75  
+ 
+ 
+ 
+ Part (c)   
+ 
+ 
+ The value of V_C in V is   
+ 
+    11.95  
+ 
+ 
+ 
+ Part (d)   
+ 
+ 
+ The value of V_CE in V is :    
+ 
+    8.65  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Base current in µA is   
+ 
+    24.090909  
+ 
+ 
+ 
+ Current gain is   
+ 
+    114.15094  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.29/ex4_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in mA is   
+ 
+    0.05  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.30/ex4_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current gain is   
+ 
+    100.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.31/ex4_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is   
+ 
+    19.787234  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.32/ex4_32.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a) : For ideal approximation   
+ 
+ 
+ The collector emitter voltage in V is   
+ 
+    6.5106383  
+ 
+ 
+ 
+ Power dissipation in mW is   
+ 
+    27.704844  
+ 
+ 
+ Part (b) : For second approximation   
+ 
+ 
+ 
+ 
+ 
+ 
+ The collector emitter voltage in V is   
+ 
+    6.7548936  
+ 
+ 
+ 
+ Power dissipation in mW is   
+ 
+    26.732132  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.33/ex4_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a) For ideal approximation   
+ 
+ 
+ The collector emitter voltage in V is   
+ 
+    7.3676471  
+ 
+ 
+ 
+ Transistor power in mW is   
+ 
+    22.753028  
+ 
+ 
+ Part (b) For second approximation   
+ 
+ 
+ 
+ 
+ 
+ 
+ Collector emitter voltage in V is   
+ 
+    7.6378676  
+ 
+ 
+ 
+ Power dissipation in mW is   
+ 
+    22.211593  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.35/ex4_35.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is   
+ 
+    9.3  
+ 
+ 
+ 
+ 
+ The collector current in mA is   
+ 
+    1.86  
+ 
+ 
+ 
+ 
+ 
+ 
+ The collector voltage in V is   
+ 
+    13.862  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.36/ex4_36.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in µA is :    
+ 
+    6.3235294  
+ 
+ 
+ 
+ 
+ The collector current in mA is   
+ 
+    0.9485294  
+ 
+ 
+ 
+ 
+ 
+ Voltage between collector and ground in V is    
+ 
+    4.5541912  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.37/ex4_37.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The emitter voltage in V is   
+ 
+    1.8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The collector voltage in V is   
+ 
+    10.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.38/ex4_38.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The emitter voltage in V is   
+ 
+    3.8081967  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collector voltage in V is   
+ 
+    11.290492  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH4/EX4.39/ex4_39.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base current in mA is   
+ 
+    2.1072727  
+ 
+ 
+ 
+ Collector emitter voltage in V is   
+ 
+    7.52  
+ 
+ 
+ Thus the Q-point is : 7.52 V, 2.1072727 mA   
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.1/ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of C in µF is   
+ 
+    4.2441318  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.2/ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The voltage gain is   
+ 
+    117.  
+ 
+ 
+ 
+ 
+ The output voltage in mV is   
+ 
+    234.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.3/ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in mV is   
+ 
+    165.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.4/ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The input impedence of the base in kΩ is :    
+ 
+    606.3986  
+ 
+ 
+ 
+ 
+ The input impedance of the stage in kΩ is   
+ 
+    4.9591101  
+ 
+ 
+ Because the input impedence of base is much larger than the input impedence   
+ 
+ 
+  of the stage, usually approximate the input impedence of the stage as the par 
+      allel                                                                     
+ 
+ 
+ 
+  of the biasing resistor only    
+ 
+ 
+ 5 kΩ   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.5/ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The base resistance in kΩ is   
+ 
+    2.1938776  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.6/ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lowest frequency in Hz is   
+ 
+    3.3862754  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.7/ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The lowest frequency in Hz is   
+ 
+    4.0117568  
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.8/ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of ac bita is   
+ 
+    150.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.9/ex5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    0.2336355  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.10/ex5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The voltage gain is   
+ 
+    92.081973  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.11/ex5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The input impedence of the base in kΩ is :    
+ 
+    154.22367  
+ 
+ 
+ 
+ The input impedance of the stage in kΩ is   
+ 
+    1.0922098  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH5/EX5.12/ex5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The voltage gain is :    
+ 
+    1.  
+ 
+ 
+ 
+ The load voltage in V is   
+ 
+    1.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.1/ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain voltage in V is   
+ 
+    0.3846154  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.2/ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain voltage in V is   
+ 
+    25.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.4/ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain voltage in V is   
+ 
+    10.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.5/ex6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output volatge in mV is    
+ 
+    13.235294  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.6/ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is   
+ 
+    2.88  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.7/ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is   
+ 
+    2.1  
+ 
+ 
+ 
+ 
+ 
+ Transconductacne at V_G=-1.5 V,  in mA/V is   
+ 
+    2.8  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.8/ex6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in  mA is   
+ 
+    2.5  
+ 
+ 
+ 
+ The minimum value of V_DS in V is    
+ 
+  - 4.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.9/ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The gate source voltage in V is   
+ 
+    1.9381378  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.10/ex6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_GS in V is   
+ 
+  - 2.  
+ 
+ 
+ 
+ The value of I_D in mA is   
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_DS in V is   
+ 
+    5.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.11/ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_DQ in mA is :    
+ 
+    2.6506763  
+ 
+ 
+ 
+ The value of V_GSQ in V is :    
+ 
+  - 1.6975334  
+ 
+ 
+ 
+ The value of V_DSQ in V is :    
+ 
+    3.5658072  
+ 
+ 
+ 
+ 
+ 
+ The value of V_S in V is :    
+ 
+    3.9760144  
+ 
+ 
+ The value of V_D in V is :    
+ 
+    7.5418216  
+ 
+ 
+ The value of V_DS in V is :    
+ 
+    5.2633406  
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.12/ex6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ root  =
+ 
+    2.25  - 40.    169.  
+ 
+ 
+ 
+ 
+ 
+ The value of I_DQ in mA is :    
+ 
+    6.9137346  
+ 
+ 
+ 
+ 
+ The value of V_GSQ in volts is :    
+ 
+  - 0.3706019  
+ 
+ 
+ 
+ The value of V_DS in volts is :    
+ 
+    7.1846759  
+ 
+ 
+ 
+ The value of V_S in volts is :    
+ 
+    0.3706019  
+ 
+ 
+ 
+ The value of V_D in volts is :    
+ 
+    7.5552778  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.13/ex6_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_DQ in mA is   
+ 
+    3.3333333  
+ 
+ 
+ 
+ The value of V_GSQ in V is   
+ 
+  - 1.7  
+ 
+ 
+ 
+ The value of I_DSS in mA is   
+ 
+    8.6096939  
+ 
+ 
+ 
+ The value of V_D in V is   
+ 
+    11.333333  
+ 
+ 
+ 
+ The value of V_DS in V is   
+ 
+    9.6333333  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.15/ex6_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is   
+ 
+    4.21875  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.16/ex6_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The source resistance in ohm is   
+ 
+    603.03659  
+ 
+ 
+ 
+ 
+ 
+ The diode resistance in K ohm is   
+ 
+    6.0636301  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.17/ex6_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The gate source voltage in V is   
+ 
+  - 0.6052639  
+ 
+ 
+ 
+ 
+ The transconductance in mA/V is   
+ 
+    1.1471704  
+ 
+ 
+ 
+ The source resistance in ohm is   
+ 
+    756.57989  
+ 
+ 
+ 
+ 
+ 
+ The value of R_D in kΩ is :    
+ 
+    8.7171005  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.18/ex6_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_GS in V is   
+ 
+  - 2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_DQ in mA is   
+ 
+    5.625  
+ 
+ 
+ 
+ 
+ 
+ The value of V_DS in V is   
+ 
+    4.75  
+ 
+ 
+ 
+ The value of V_D in V is   
+ 
+    4.75  
+ 
+ 
+ 
+ The value of V_G in V is   
+ 
+  - 2.  
+ 
+ 
+ 
+ The value of V_S in V is   
+ 
+    0.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.19/ex6_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The gate source resistance in MΩ is   
+ 
+    10000.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.20/ex6_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain resistance of the JFET in K ohm is   
+ 
+    12.5  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.21/ex6_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of g_m in mA/V is   
+ 
+    2.8  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.22/ex6_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of I_D in mA is :    
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_DS in volts is :    
+ 
+    3.2  
+ 
+ 
+ The transconductance in mA/V is :    
+ 
+    4.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.23/ex6_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The voltage gain is    
+ 
+  - 16.666667  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.24/ex6_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Input resistance in GΩ is   
+ 
+    15.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.25/ex6_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum drain current in mA is   
+ 
+    20.  
+ 
+ 
+ 
+ The gate source cut off voltage in volts is   
+ 
+  - 4.  
+ 
+ 
+ 
+ The value of ohmic resistance in Ω is   
+ 
+    200.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.26/ex6_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is :    
+ 
+    4.  
+ 
+ 
+ 
+ The gate voltage in volts is :    
+ 
+    3.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.27/ex6_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is   
+ 
+    1.5  
+ 
+ 
+ 
+ The drain voltage in V is   
+ 
+    0.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.29/ex6_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is   
+ 
+    1.3888889  
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain voltage in V is   
+ 
+    14.583333  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH6/EX6.30/ex6_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output Voltage in mV is   
+ 
+    5.4545455  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.1/ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in mV is   
+ 
+    66.666667  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.2/ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is   
+ 
+    18.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.4/ex7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_DS in V is   
+ 
+    5.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.5/ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The drain current in mA is   
+ 
+    1.25  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.6/ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of K in mA/V^2 is   
+ 
+    0.25  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.7/ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transistor is in ohmic region   
+ 
+ 
+ 
+ 
+ 
+ Transistor is in saturation region   
+ 
+ 
+ 
+ 
+ 
+ Transistor is in saturation region   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.8/ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ At V_GS=-0.5 V, the drain current in mA is   
+ 
+    2.25  
+ 
+ 
+ 
+ 
+ At V_GS=-1.0 V, the drain current in mA is   
+ 
+    1.  
+ 
+ 
+ 
+ 
+ At V_GS=-1.5 V, the drain current in mA is   
+ 
+    0.25  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.9/ex7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The circuit drain current in mA is :    
+ 
+    12.  
+ 
+ 
+ The drain source voltage in V is   
+ 
+    6.36  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.10/ex7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of r_d in Ω is :    
+ 
+    380.5668  
+ 
+ 
+ 
+ The value of A_v is :    
+ 
+    1.5222672  
+ 
+ 
+ 
+ 
+ 
+ The value of Vout in V is   
+ 
+    0.1522267  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.11/ex7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a) The value of R_DS(on) in ohm is   
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (b) The value of R_DS(on) in ohm is   
+ 
+    7.5  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH7/EX7.12/ex7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    0.0399202  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.1/ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The resistance value in kΩ is   
+ 
+    220.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.2/ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+  - 0.25  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.3/ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    12.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.4/ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (a)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+  - 7.  
+ 
+ 
+ 
+ Part (b)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    3.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.6/ex8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum d loop voltage gain is   
+ 
+    1.  
+ 
+ 
+ 
+ 
+ 
+ The maximum d loop voltage gain is   
+ 
+    51.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.7/ex8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The common mode gain is   
+ 
+    50.  
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    2.537125  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.8/ex8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Voltage gain is   
+ 
+  - 1.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.10/ex8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    20.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.11/ex8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Closed loop voltage gain corresponding to minimum resistance is   
+ 
+  - 50.  
+ 
+ 
+ 
+ Closed loop voltage gain corresponding to maximum resistance is   
+ 
+  - 25.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.12/ex8_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum output voltage in V is   
+ 
+  - 1.  
+ 
+ 
+ 
+ The maximum output voltage in V is   
+ 
+  - 5.  
+ 
+ 
+ Output voltage ranges from -1 to -5   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.14/ex8_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of R1 in kΩ is :    
+ 
+    50.  
+ 
+ 
+ 
+ 
+ The value of R2 in kΩ is :    
+ 
+    50.  
+ 
+ 
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.15/ex8_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part (i)   
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in mV is   
+ 
+    45.8  
+ 
+ 
+ Part(ii)   
+ 
+ 
+ 
+ 
+ 
+ The output voltage in mV is   
+ 
+    40.0058  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.16/ex8_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    1.7899566  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.18/ex8_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+  - 2.5  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.19/ex8_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The input volatge in mV is   
+ 
+  - 40.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.20/ex8_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimum output voltage in V is   
+ 
+  - 0.6666667  
+ 
+ 
+ 
+ The minimum output voltage in V is   
+ 
+  - 3.3333333  
+ 
+ 
+ The output voltage range is : -0.6666667 V to -3.3333333 V   
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.21/ex8_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+  - 9.3  
+ 
+ 
+ 
+ 
+ The input voltage in mV is   
+ 
+    77.419355  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.22/ex8_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+  - 3.4  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.23/ex8_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Closed loop gain is   
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ Closed loop bandwidth in Hz is   
+ 
+    100000.  
+ 
+ 
+ 
+ 
+ 
+ The output voltage in V is   
+ 
+    0.25  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH8/EX8.24/ex8_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close loop gain for inverting amplifier is   
+ 
+    21.  
+ 
+ 
+ 
+ 
+ 
+ 
+ The d loop bandwidth in KHz is   
+ 
+    47.619048  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH9/EX9.1/ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak-to-peak amplitude in mV is :    
+ 
+    26.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH9/EX9.2/ex9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak-to-peak amplitude in V is :    
+ 
+    0.52  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH9/EX9.3/ex9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The period of the waveform in µS is :    
+ 
+    64.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH9/EX9.4/ex9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The pulse delay for the waveform in µs is :    
+ 
+    100.  
+ 
+ 
+grepthis#Electronics_Engineering_P._Raja_2150/CH9/EX9.5/ex9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The pulse width of the waveform in µs is :    
+ 
+    9.2  
+ 
+ 

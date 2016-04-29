@@ -1,0 +1,688 @@
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH1/EX1.1/1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH3/EX3.1/3_1.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH3/EX3.2/3_2.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH3/EX3.3/3_3.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+W_1=(1/2)*C*V_1^2;
+                  !       
+at line      23 of exec file called by :    
+A._R._Hambley_887/CH3/EX3.3/3_3.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+W_2=(1/2)*C*V_2^2;
+                  !       
+at line       2 of exec file called by :    
+A._R._Hambley_887/CH3/EX3.3/3_3.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+W_3=(1/2)*C*V_3^2;
+                  !       
+at line       2 of exec file called by :    
+A._R._Hambley_887/CH3/EX3.3/3_3.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH3/EX3.6/3_6.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+W_1=(1/2)*L*i_1^2;
+                  !       
+at line      18 of exec file called by :    
+A._R._Hambley_887/CH3/EX3.6/3_6.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+W_2=(1/2)*L*i_2^2;
+                  !       
+at line       2 of exec file called by :    
+A._R._Hambley_887/CH3/EX3.6/3_6.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+W_3=(1/2)*L*i_3^2;
+                  !       
+at line       2 of exec file called by :    
+A._R._Hambley_887/CH3/EX3.6/3_6.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.1/5_1.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P_t=V_t^2/R;
+          !       
+at line       9 of exec file called by :    
+A._R._Hambley_887/CH5/EX5.1/5_1.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ RMS value of voltage in volts   
+ 
+    70.710678  
+ 
+ 
+ average power in watts   
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.2/5_2.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ RMS value in volts   
+ 
+    1.7320508  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.4/5_4.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ 
+ For resistance R   
+ 
+ 
+ 
+ 
+ peak value of voltage in volts   
+ 
+    70.710678  
+ 
+ 
+ phase angle in degrees   
+ 
+  - 15.  
+ 
+ 
+ 
+ 
+ For inductance L   
+ 
+ 
+ 
+ 
+ peak value of voltage in volts   
+ 
+    106.06602  
+ 
+ 
+ phase angle in degrees   
+ 
+    75.  
+ 
+ 
+ 
+ 
+ For capacitor C   
+ 
+ 
+ 
+ 
+ peak value of voltage in volts   
+ 
+    35.355339  
+ 
+ 
+ phase angle in degrees   
+ 
+    75.  
+ 
+ 
+ 
+ The phasor diagram cannot be plotted   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.5/5_5.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ peak value of Vc in volts   
+ 
+    10.  
+ 
+ 
+ phase angle of Vc in degrees   
+ 
+    0.  
+ 
+ 
+ 
+ current through source and inductor in amperes   
+ 
+    0.1 + 0.1i  
+ 
+ 
+ current through resistance in amperes   
+ 
+    0.1  
+ 
+ 
+ current through capacitance in amperes   
+ 
+    0.1i  
+ 
+ 
+ phasor diagram cannot be plotted   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH5/EX5.12/5_12.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ LINE CURRENTS   
+ 
+ 
+ IaA=   
+ 
+    12.751124 - 9.6141208i  
+ 
+ 
+ IbB=   
+ 
+  - 14.701635 - 6.2357367i  
+ 
+ 
+ IcC=   
+ 
+    1.950511 + 15.849857i  
+ 
+ 
+ LINE-LINE VOLTAGES   
+ 
+ 
+ Vab=   
+ 
+    1500. + 866.0254i  
+ 
+ 
+ Vbc=   
+ 
+    2.274D-13 - 1732.0508i  
+ 
+ 
+ Vca=   
+ 
+  - 1500. + 866.0254i  
+ 
+ 
+ POWER IN WATTS   
+ 
+    19126.686  
+ 
+ 
+ REACTIVE POWER IN VARs   
+ 
+    14421.181  
+ 
+ 
+ the phasor diagram cannot be plotted   
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH10/EX10.1/10_1.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ diode voltage at operating point in volts   
+ 
+    0.7  
+ 
+ 
+ current at opeating point in milli-amperes   
+ 
+    1.3  
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH10/EX10.2/10_2.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ diode voltage at operating point in volts   
+ 
+    0.68  
+ 
+ 
+ current at opeating point in milli-amperes   
+ 
+    0.93  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH10/EX10.3/10_3.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage for Vss=15 in volts   
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage for Vss=20 in volts   
+ 
+    10.5  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH10/EX10.4/10_4.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are approximated hence the values in this code differ from those of Textbook 
+ 
+ load voltage in volts   
+ 
+    10.  
+ 
+ 
+ source current in amperes   
+ 
+    0.0116667  
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.9/11_9.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH11/EX11.10/11_10.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VoA(t)=30cos(2000%pit)-10cos(6000%pit)   
+ 
+ 
+ VoB(t)=30cos(2000%pit-%pi/4)-10cos(6000%pit-3%pi/4)   
+ 
+ 
+ VoC(t)=30cos(2000%pit-%pi/4)-10cos(6000%pit-%pi/4)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Engineering_-_Principles_And_Applications_A._R._Hambley_887/CH13/EX13.8/13_8.sce #
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z_o  =
+ 
+    1000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All the values in the textbook are Approximated hence the values in this code differ from those of Textbook 
+ 
+ voltage gain   
+ 
+  - 105.64103  
+ 
+ 
+ open circuit voltage gain   
+ 
+  - 158.46154  
+ 
+ 
+ input impedance in ohms   
+ 
+    530.61224  
+ 
+ 
+ current gain   
+ 
+  - 28.027211  
+ 
+ 
+ power gain   
+ 
+    2960.8233  
+ 
+ 
+ output impedance in ohms   
+ 
+    1000.  
+ 
+ 

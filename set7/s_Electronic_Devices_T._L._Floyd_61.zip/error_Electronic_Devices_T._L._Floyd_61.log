@@ -1,0 +1,178 @@
+ERROR: Electronic_Devices_T._L._Floyd_61/CH6/EX6.12/ex6_12.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ overall voltage gain   
+ 
+    3000.  
+ 
+A_v1_dB=gain_in_decibel_voltage(A_v1);
+                                      !--error 4 
+Undefined variable: gain_in_decibel_voltage
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH6/EX6.12/ex6_12.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH7/EX7.3/ex7_3.sce
+ 
+ 
+ 
+ 
+I_D=value_of_I_D(9*10^-3,0,-8);
+                               !--error 4 
+Undefined variable: value_of_I_D
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH7/EX7.3/ex7_3.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH7/EX7.4/ex7_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I_D=value_of_I_D(3*10^-3,-4,-6)
+                                !--error 4 
+Undefined variable: value_of_I_D
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH7/EX7.4/ex7_4.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH7/EX7.8/ex7_8.sce
+ 
+ 
+ 
+ 
+I_D=value_of_I_D(25*10^-3,5,15)
+                                !--error 4 
+Undefined variable: value_of_I_D
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH7/EX7.8/ex7_8.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH7/EX7.13/ex7_13.sce
+ 
+ 
+ 
+ 
+I_D=value_of_I_D(10*10^-3,-3,-8)
+                                 !--error 4 
+Undefined variable: value_of_I_D
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH7/EX7.13/ex7_13.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH7/EX7.14/ex7_14.sce
+ 
+ 
+ 
+ 
+K=value_of_K(500*10^-3,10,1)
+                             !--error 4 
+Undefined variable: value_of_K
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH7/EX7.14/ex7_14.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH7/EX7.16/ex7_16.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+K=value_of_K(200*10^-3,4,2)
+                            !--error 4 
+Undefined variable: value_of_K
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH7/EX7.16/ex7_16.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH8/EX8.9/ex8_9.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+K=value_of_K(200*10^-3,4,2);
+                            !--error 4 
+Undefined variable: value_of_K
+at line      13 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH8/EX8.9/ex8_9.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH10/EX10.1/ex10_1.sce
+ 
+ 
+A_p_dB=gain_in_decibel_power(250)
+                                  !--error 4 
+Undefined variable: gain_in_decibel_power
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH10/EX10.1/ex10_1.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH10/EX10.10/ex10_10.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R_c=R_C*R_L/(R_C+R_L)
+      !--error 4 
+Undefined variable: R_C
+at line      17 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH10/EX10.10/ex10_10.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH12/EX12.8/ex12_8.sce
+ 
+ 
+ 
+ 
+A_ol=open_loop_gain(A_ol_mid,f,f_c_ol)
+                                       !--error 4 
+Undefined variable: open_loop_gain
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH12/EX12.8/ex12_8.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH12/EX12.9/ex12_9.sce
+ 
+ 
+ 
+theta=phase_shift(f,f_c);
+                         !--error 4 
+Undefined variable: phase_shift
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH12/EX12.9/ex12_9.sce',-1)
+ 
+ERROR: Electronic_Devices_T._L._Floyd_61/CH12/EX12.10/ex12_10.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+theta_1=phase_shift(f,f_c1);
+                            !--error 4 
+Undefined variable: phase_shift
+at line      10 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Electronic_Devices_T._L._Floyd_61/CH12/EX12.10/ex12_10.sce',-1)
+ 

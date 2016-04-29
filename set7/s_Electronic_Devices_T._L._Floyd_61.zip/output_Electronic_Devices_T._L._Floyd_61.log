@@ -1,0 +1,2721 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 165
+
+grepthis#Electronic_Devices_T._L._Floyd_61/CH1/EX1.1/ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IDEAL MODEL   
+ 
+ 
+ 
+ 
+ 
+ forward voltage in volts   
+ 
+    0.  
+ 
+ 
+ forward current in amperes   
+ 
+    0.01  
+ 
+ 
+ voltage across limiting resistor in volts   
+ 
+    10.  
+ 
+ 
+ 
+ PRACTICAL MODEL   
+ 
+ 
+ 
+ 
+ 
+ forward voltage in volts   
+ 
+    0.7  
+ 
+ 
+ forward current in amperes   
+ 
+    0.0093  
+ 
+ 
+ voltage across limiting resistor in volts   
+ 
+    9.3  
+ 
+ 
+ 
+ COMPLETE MODEL   
+ 
+ 
+ 
+ 
+ 
+ forward voltage in volts   
+ 
+    0.7920792  
+ 
+ 
+ forward current in amperes   
+ 
+    0.0092079  
+ 
+ 
+ voltage across limiting resistor in volts   
+ 
+    9.2079208  
+ 
+ 
+ 
+ 
+ 
+ 
+ IDEAL MODEL   
+ 
+ 
+ 
+ 
+ 
+ reverse current in amperes   
+ 
+    0.  
+ 
+ 
+ reverse voltage in volts   
+ 
+    5.  
+ 
+ 
+ voltage across limiting resistor in volts   
+ 
+    0.  
+ 
+ 
+ 
+ PRACTICAL MODEL   
+ 
+ 
+ 
+ 
+ 
+ reverse current in amperes   
+ 
+    0.  
+ 
+ 
+ reverse voltage in volts   
+ 
+    5.  
+ 
+ 
+ voltage across limiting resistor in volts   
+ 
+    0.  
+ 
+ 
+ 
+ COMPLETE MODEL   
+ 
+ 
+ 
+ 
+ 
+ reverse current in amperes   
+ 
+    0.000001  
+ 
+ 
+ reverse voltage in volts   
+ 
+    4.999  
+ 
+ 
+ voltage across limiting resistor in volts   
+ 
+    0.001  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH2/EX2.1/ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ average value of half wave rectifier in volts   
+ 
+    15.915494  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH2/EX2.3/ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ peak output voltage of half wave rectifier in volts   
+ 
+    77.3  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH2/EX2.4/ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ Average value of output of full wave rectifier in volts   
+ 
+    9.5492966  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH2/EX2.6/ex2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peak output voltage in volts=    
+ 
+ 
+    15.570563  
+ 
+ 
+ PIV across each diode in volts=    
+ 
+ 
+    16.270563  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH2/EX2.7/ex2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_p_rect  =
+ 
+    14.863456  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ripple factor   
+ 
+    0.0787402  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH2/EX2.8/ex2_8.sce #
+ 
+ 
+ 
+ 
+ I_ADJ  =
+ 
+    0.00005  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ minimum output voltage in volts   
+ 
+    1.25  
+ 
+ 
+ maximum output voltage in volts   
+ 
+    29.909091  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH2/EX2.9/ex2_9.sce #
+ 
+ V_NL  =
+ 
+    5.18  
+ 
+ V_FL  =
+ 
+    5.15  
+ 
+ load_reg  =
+ 
+    0.5825243  
+ 
+ 
+ load regulation percent=    
+ 
+ 
+    0.5825243  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH3/EX3.1/ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ zener impedance in ohms   
+ 
+    10.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH3/EX3.2/ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage across zener terminals (in volts) when current is 50 mA   
+ 
+    6.8455  
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage across zener terminals (in volts) when current is 25 mA   
+ 
+    6.758  
+ 
+ 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH3/EX3.3/ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ zener voltage at 60 degree celsius   
+ 
+    8.3435  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH3/EX3.4/ex3_4.sce #
+ 
+ 
+ df  =
+ 
+    0.0032  
+ 
+ 
+ 
+ 
+ maximum power dissipated at 90 degree celsius   
+ 
+    0.272  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH3/EX3.5/ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ maximum input voltage in volts that can be regulated by the zener diode   
+ 
+    25.737392  
+ 
+ 
+ minimum input voltage in volts that can be regulated by the zener diode   
+ 
+    4.864  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH3/EX3.6/ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ minimum value of load resistance in ohms   
+ 
+    489.15872  
+ 
+ 
+ minimum curent in amperes   
+ 
+    0.  
+ 
+ 
+ maximum curent in amperes   
+ 
+    0.0245319  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH3/EX3.7/ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts at I_ZK   
+ 
+    14.7655  
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts a I_ZM   
+ 
+    15.695333  
+ 
+ 
+ 
+ value of R in ohms for maximum zener current, no load   
+ 
+    124.57  
+ 
+ 
+ st practical value is 130 ohms   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ minimum load resistance in ohms   
+ 
+    208.59759  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.1/ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ B_DC   
+ 
+    73.  
+ 
+ 
+ emitter current in amperes   
+ 
+    0.0037  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.2/ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ base current in amperes   
+ 
+    0.00043  
+ 
+ 
+ collector current in amperes   
+ 
+    0.0645  
+ 
+ 
+ emitter current in amperes   
+ 
+    0.06493  
+ 
+ 
+ collector to emitter voltage in volts   
+ 
+    3.55  
+ 
+ 
+ collector to base voltage in volts   
+ 
+    2.85  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.3/ex4_3.sce #
+ 
+ 
+ cant be shown   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.4/ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ transistor in saturation   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.5/ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ collector current that can be handled by the transistor(in amperes)   
+ 
+    0.0416667  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.6/ex4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_CC in volts   
+ 
+    34.545455  
+ 
+ V_CE_max will be exceeded first becauseentire supply voltage V_CC will be dropped across the transistor   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.7/ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power dissipated max at a temperature of 70 degree celsius(in watts)   
+ 
+    0.775  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.8/ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage gain   
+ 
+    20.  
+ 
+ 
+ ac output voltage in volts   
+ 
+    2.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH4/EX4.9/ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ when V_IN=0, transistor acts as open switch(cut-off) and collector emitter voltage in volts is   
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ minimum value of base current in amperes to saturate transistor   
+ 
+    0.00005  
+ 
+ 
+ 
+ 
+ 
+ 
+ maximum value of base resistance in ohms when input voltage is 5V   
+ 
+    86000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.1/ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ q point of I_C in amperes   
+ 
+    0.0395745  
+ 
+ 
+ Q point of V_CE in volts   
+ 
+    6.9404255  
+ 
+ 
+ peak base current in amperes   
+ 
+    0.0001052  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.2/ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ DC input resistance in ohms, looking in at the base of transistor   
+ 
+    125000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.3/ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_BE  =
+ 
+    0.7  
+ 
+ 
+ 
+ 
+ input resistance seen from base, which can be neglected as it is 10 times R2   
+ 
+    56000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_CE in volts   
+ 
+    1.95  
+ 
+ 
+ I_C in amperes   
+ 
+    0.0051603  
+ 
+ 
+ Since V_CE>0V, transistor is not in saturation   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.4/ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input resistance in ohms as seen from base. it can be neglected as it is greater than 10 times R2   
+ 
+    150000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_C collector current in amperes   
+ 
+    0.002425  
+ 
+ 
+ V_EC emitter-collector voltage in Volts   
+ 
+    2.24  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.5/ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input resistance as seen from base is not greater than 10 times R2 so it should be taken into account   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ collector current in amperes   
+ 
+  - 0.0006358  
+ 
+ 
+ collector emitter voltage in volts   
+ 
+  - 3.4569319  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.6/ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ percent change in collector current   
+ 
+    18.688183  
+ 
+ 
+ percent change in collector emitter voltage   
+ 
+  - 15.181538  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.7/ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.0017268  
+ 
+ 
+    14.615421  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.0017636  
+ 
+ 
+    14.074545  
+ 
+ 
+ 
+ 
+ percent change in collector currrent   
+ 
+    2.1307251  
+ 
+ 
+ percent change in collector emitter voltage   
+ 
+  - 3.7007186  
+ 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH5/EX5.8/ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q point of collector current in amperes   
+ 
+    0.0008455  
+ 
+ 
+ Q point of collector-emitter voltage in volts   
+ 
+    1.5454545  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.1/ex6_1.sce #
+ 
+ 
+ graph question, cannot be solved in scilab   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.2/ex6_2.sce #
+ 
+ 
+ 
+ 
+ ac emitter resistance in ohms   
+ 
+    12.5  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.3/ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage at the base of the transistor in volts   
+ 
+    0.0074474  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.4/ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ value of bypass capacitor in farads   
+ 
+    0.0000014  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.5/ex6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ gain without bypass capacitor   
+ 
+    1.7649758  
+ 
+ 
+ 
+ gain in the presence of bypass capacitor   
+ 
+    151.97568  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.6/ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ ac collector resistor in ohms   
+ 
+    833.33333  
+ 
+ 
+ 
+ gain with load   
+ 
+    126.6464  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.7/ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ approximate voltage gain as R_E2 is bypassed by C2   
+ 
+    10.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.9/ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ total input resistance in ohms   
+ 
+    8160.6218  
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage gain   
+ 
+    0.9885057  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ current gain   
+ 
+    16.321244  
+ 
+ 
+ 
+ 
+ 
+ power gain delivered to load   
+ 
+    8.1606218  
+ 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.10/ex6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_Q2  =
+ 
+    1.62  
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage gain of common emitter amplifier   
+ 
+    172.07835  
+ 
+ 
+ 
+ voltage gain of darlington emitter follower   
+ 
+    0.9859944  
+ 
+ 
+ 
+ overall voltage gain   
+ 
+    169.66829  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH6/EX6.11/ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input resistance in ohms   
+ 
+    23.480663  
+ 
+ 
+ voltage gain   
+ 
+    76.798457  
+ 
+ 
+ current gain   
+ 
+    1.  
+ 
+ 
+ power gain   
+ 
+    76.798457  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.1/ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of V_DD required to put the device in the constant current area of operation of JFET   
+ 
+    10.72  
+ 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.2/ex7_2.sce #
+ 
+ 
+ The p-channel JFET requires a positive gate to source voltage. The more positive the voltage, the lesser the drain current. 
+       Any further increase in V_GS keeps the JFET cut off, so I_D remains 0                                                 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.5/ex7_5.sce #
+ 
+ 
+ R_IN  =
+ 
+    1.000D+10  
+ 
+ 
+ Input Resistance in Ohms   
+ 
+    1.000D+10  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.6/ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drain to source voltage in volts   
+ 
+    8.9  
+ 
+ 
+ Gate to source voltage in volts   
+ 
+  - 1.1  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.7/ex7_7.sce #
+ 
+ 
+ 
+ R_G  =
+ 
+    800.  
+ 
+ 
+ Gate resistance in Ohms   
+ 
+    800.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.9/ex7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R_S  =
+ 
+    147.05882  
+ 
+ R_D  =
+ 
+    1000.  
+ 
+ 
+ Source Resistance in Ohms   
+ 
+    147.05882  
+ 
+ 
+ Drain Resistance in Ohms   
+ 
+    1000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.10/ex7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ V_GS in Volts, at I_D=0A   
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ V_GS in Volts, at I_D=4mA   
+ 
+    2.72  
+ 
+ 
+ Plotting load line using the values of V_GS at I_D=0 and 4mA, we find the intersection of load line with transfer character 
+      istic to get Q-point values of V_GS=-1.5V and I_D=2.25mA                                                               
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.11/ex7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drain current in amperes   
+ 
+    0.0015152  
+ 
+ 
+ Gate to source voltage in volts   
+ 
+  - 1.7948718  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.12/ex7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_GS in Volts, at I_D=0A   
+ 
+    4.  
+ 
+ 
+ 
+ I_D in Amperes,at V_GS=0V   
+ 
+    0.0012121  
+ 
+ 
+ Plotting load line using the value of V_GS=4V at I_D=0 and I_D=1.2mA at V_GS=0V, we find the intersection of load line with 
+       transfer characteristic to get Q-point values of V_GS=-1.8V and I_D=1.8mA                                             
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.15/ex7_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drain to sorce voltage in volts   
+ 
+    10.56  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH7/EX7.17/ex7_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drain current in Amperes   
+ 
+    0.0013830  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.1/ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Voltage gain   
+ 
+    6.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.2/ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage gain   
+ 
+    5.2173913  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.3/ex8_3.sce #
+ 
+ 
+ 
+ 
+ A_v  =
+ 
+    1.8518519  
+ 
+ 
+ Voltage gain   
+ 
+    1.8518519  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.4/ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p1  =
+ 
+                         2  
+    1 + 690x + 92011.111x   
+ 
+ A  =
+ 
+  - 0.0055358  
+  - 0.0019633  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output dc voltage (peak to peak) in volts   
+ 
+  - 5.0708945  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.5/ex8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Output voltage rms value in Volts   
+ 
+    0.6300938  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.6/ex8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Input resistance in ohms, as seen by signal source   
+ 
+    9708737.9  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.7/ex8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DC output voltage in Volts   
+ 
+    8.4  
+ 
+ 
+ AC output voltage in volts   
+ 
+    3.2867727  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.8/ex8_8.SCE #
+ 
+ 
+ Part A: Q point: V_GS=-2V I_D=2.5mA. At V_GS=-1V, I_D=3.4mA, At V_GS=-3V, I_D=1.8mA. So peak to peak drain current is the d 
+      ifference of the two drain currents=1.6mA                                                                              
+ 
+ 
+ Part B: Q point: V_GS=0V I_D=4mA. At V_GS=1V, I_D=5.3mA, At V_GS=-1V, I_D=2.5mA. So peak to peak drain current is the diffe 
+      rence of the two drain currents=2.8mA                                                                                  
+ 
+ 
+ Part C: Q point: V_GS=8V I_D=2.5mA. At V_GS=9V, I_D=3.9mA, At V_GS=7V, I_D=1.7mA. So peak to peak drain current is the diff 
+      erence of the two drain currents=2.2mA                                                                                 
+ 
+ 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH8/EX8.10/ex8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ minimum voltage gain   
+ 
+    10.  
+ 
+ 
+ Input resistance seen from signal source in ohms   
+ 
+    451.92308  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.1/ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage gain   
+ 
+  - 15.285878  
+ 
+ 
+ Power gain   
+ 
+    42508.678  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.2/ex9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency   
+ 
+    0.0503556  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.3/ex9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ ideal maximum peak output voltage in volts   
+ 
+    20.  
+ 
+ 
+ ideal maximum current in amperes   
+ 
+    1.25  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.4/ex9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ ideal maximum output peak voltage in volts   
+ 
+    10.  
+ 
+ 
+ ideal maximum current in amperes   
+ 
+    0.625  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.5/ex9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ maximum ac output power in Watts   
+ 
+    6.25  
+ 
+ 
+ maximum DC output power in Watts   
+ 
+    7.9577472  
+ 
+ 
+ input resistance in ohms   
+ 
+    700.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.6/ex9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ value of resistance R6 in ohms fot AB operation   
+ 
+    2418.096  
+ 
+ 
+ power across load in watts   
+ 
+    5.1453992  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.7/ex9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ average power dissipation in Watts   
+ 
+    0.004  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH9/EX9.8/ex9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ efficiency   
+ 
+    0.9986130  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.2/ex10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts at -3dB gain   
+ 
+    7.07  
+ 
+ 
+ 
+ 
+ output voltage in volts at -6dB gain   
+ 
+    5.  
+ 
+ 
+ 
+ 
+ output voltage in volts at -12dB gain   
+ 
+    2.5  
+ 
+ 
+ 
+ 
+ output voltage in volts at -24dB gain   
+ 
+    0.625  
+ 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.3/ex10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lower critical frequency in hertz   
+ 
+    159.15494  
+ 
+ 
+ attenuation at lower critical frequency   
+ 
+    0.707  
+ 
+ 
+ gain at lower critical frequency   
+ 
+    70.7  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.4/ex10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ actual voltage gain at 1Hz frequency   
+ 
+    70.7  
+ 
+ 
+ 
+ 
+ actual voltage gain at 100Hz frequency   
+ 
+    10.  
+ 
+ 
+ 
+ 
+ actual voltage gain at 10Hz frequency   
+ 
+    1.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.5/ex10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lower critical frequency in hertz   
+ 
+    79.577472  
+ 
+ 
+ 
+ 
+ 
+ attenuation at midrange frequency   
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ attenuation at critical frequency   
+ 
+    0.3535534  
+ 
+ 
+ 
+ gain at critical frequency   
+ 
+    35.35  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.6/ex10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ critical frequency of bypass RC circuit in hertz   
+ 
+    75.89396  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.7/ex10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ critical frequency in hertz   
+ 
+    16.313382  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.8/ex10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ critical frequency of input RC circuit in hertz   
+ 
+    17.241786  
+ 
+ f_c_output  =
+ 
+    17.223127  
+ 
+ 
+ critical frequency of output RC circuit in hertz   
+ 
+    17.223127  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.9/ex10_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input frequency in hertz   
+ 
+    773.91663  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ critical frequency of bypass RC circuit in hertz   
+ 
+    746.44652  
+ 
+ f_c_output  =
+ 
+    130.45487  
+ 
+ 
+ output frequency circuit in hertz   
+ 
+    130.45487  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ overall voltage gain in dB   
+ 
+    38.04247  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.11/ex10_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ equivalent resistance in ohms   
+ 
+    1100.  
+ 
+ 
+ equivalent capacitance in farads   
+ 
+    2.424D-12  
+ 
+ 
+ critical frequency in hertz   
+ 
+    60285963.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.12/ex10_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ gate to drain capacitance in farads   
+ 
+    2.000D-12  
+ 
+ 
+ gate to source capacitance in farads   
+ 
+    4.000D-12  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.13/ex10_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ critical frequency of input RC circuit in hertz   
+ 
+    1.158D+08  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.14/ex10_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ critical frequency of the output circuit in hertz   
+ 
+    45978095.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.15/ex10_15.sce #
+ 
+ 
+ 
+ 
+ 
+ bandwidth in hertz   
+ 
+    1800.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.16/ex10_16.sce #
+ 
+ 
+ 
+ 
+ 
+ bandwidth in hertz   
+ 
+    3500000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.17/ex10_17.sce #
+ 
+ 
+ 
+ 
+ 
+ bandwidth in hertz   
+ 
+    99000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH10/EX10.18/ex10_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ bandwidth in hertz   
+ 
+    50710.653  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH11/EX11.1/ex11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ RESISTANCE IN OHMS   
+ 
+    20000000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH11/EX11.2/ex11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anode current in amperes   
+ 
+    0.1092  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH11/EX11.3/ex11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ peak point emitter voltage in volts   
+ 
+    12.7  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH11/EX11.4/ex11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R1 should be less than   
+ 
+    800000.  
+ 
+ ohms   
+ 
+ 
+ R1 should be more than   
+ 
+    2900.  
+ 
+ ohms   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH11/EX11.5/ex11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ critical angle in degrees   
+ 
+    15.642471  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.1/ex12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ CMRR   
+ 
+    500000.  
+ 
+ 
+ CMRR in decibels   
+ 
+    113.9794  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.2/ex12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ slew rate in volts per microseconds   
+ 
+    18.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.3/ex12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ d loop voltage gain   
+ 
+    22.276596  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.4/ex12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ value of R_f in ohms   
+ 
+    220000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.5/ex12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input impedance in ohms   
+ 
+    1.739D+10  
+ 
+ 
+ output impedance in ohms   
+ 
+    0.0086240  
+ 
+ 
+ d loop voltage gain   
+ 
+    23.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.6/ex12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input impedance in ohms   
+ 
+    4.000D+11  
+ 
+ 
+ output impedance in ohms   
+ 
+    0.0003750  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.7/ex12_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input impedance in ohms   
+ 
+    1000.  
+ 
+ 
+ output impedance in ohms   
+ 
+    0.1007964  
+ 
+ 
+ d loop voltage gain   
+ 
+  - 100.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.11/ex12_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ d loop bandwidth in hertz   
+ 
+    60200.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH12/EX12.12/ex12_12.sce #
+ 
+ 
+ 
+ 
+ non-inverting amplifier   
+ 
+ 
+ 
+ 
+ 
+ 
+ d loop bandwidth in hertz   
+ 
+    44334.975  
+ 
+ 
+ inverting amplifier   
+ 
+ 
+ 
+ 
+ 
+ 
+ d loop bandwidth in hertz   
+ 
+    63829.787  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH13/EX13.2/ex13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ upper trigger point in volts   
+ 
+    2.5  
+ 
+ 
+ lower trigger point in volts   
+ 
+  - 2.5  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH13/EX13.4/ex13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts   
+ 
+  - 12.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH13/EX13.5/ex13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage of the summing amplifier in volts   
+ 
+  - 7.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH13/EX13.6/ex13_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts   
+ 
+  - 2.5  
+ 
+ 
+ 
+ the amplifier produces an output whose magnitude is the mathematical average of the input voltages   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH13/EX13.7/ex13_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ weight_of_input1   
+ 
+    0.2127660  
+ 
+ 
+ weight_of_input2   
+ 
+    0.1  
+ 
+ 
+ weight_of_input3   
+ 
+    1.  
+ 
+ 
+ output voltage in volts   
+ 
+  - 8.8382979  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.1/ex14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ value of the external gain setting resistor in ohms   
+ 
+    100.2004  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.2/ex14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage gain   
+ 
+    100.01961  
+ 
+ 
+ 
+ bandwidth from graph, in hertz   
+ 
+    60000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.3/ex14_3.sce #
+ 
+ 
+ cannot be shown in scilab   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.4/ex14_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ total voltage gain of the isolation amplifier   
+ 
+    62.7  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.5/ex14_5.sce #
+ 
+ 
+ 
+ 
+ 
+ output current in amperes   
+ 
+    0.000025  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.6/ex14_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ voltage gain   
+ 
+    80.484848  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.8/ex14_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts   
+ 
+  - 0.1497866  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.9/ex14_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts   
+ 
+  - 0.1751434  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH14/EX14.10/ex14_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts   
+ 
+  - 2.9947975  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.1/ex15_1.sce #
+ 
+ 
+ 
+ 
+ 
+ narrow band filter   
+ 
+    15.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.2/ex15_2.sce #
+ 
+ 
+ 
+ 
+ R1 in ohms   
+ 
+    5860.  
+ 
+ 
+ 5.6kilo ohm will be ideally  to maximally flat butterworth response   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.3/ex15_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ critical frequency in hertz   
+ 
+    7234.3156  
+ 
+ 
+ value of R1 in ohms   
+ 
+    586.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.4/ex15_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ capacitance in farads   
+ 
+    3.092D-08  
+ 
+ 
+ R1 in ohms for butterworth response in first stage   
+ 
+    273.6  
+ 
+ 
+ R3 in ohms for butterworth response in second stage   
+ 
+    2223.  
+ 
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.5/ex15_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance in Farads   
+ 
+    4.823D-10  
+ 
+ 
+ R1 in ohms taking R2=33kilo-ohms   
+ 
+    19338.  
+ 
+ 
+ 
+ 
+ R2 in ohms taking R1=3.3kilo-ohms   
+ 
+    5631.3993  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.6/ex15_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ center frequency in hertz   
+ 
+    736.13463  
+ 
+ 
+ maximum gain   
+ 
+    1.3235294  
+ 
+ 
+ bandwidth in hertz   
+ 
+    176.83883  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.7/ex15_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f0  =
+ 
+    7234.3156  
+ 
+ 
+ 
+ 
+ center frequency in hertz   
+ 
+    7234.3156  
+ 
+ 
+  value of Q   
+ 
+    33.666667  
+ 
+ 
+ bandwidth in hertz   
+ 
+    214.88066  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH15/EX15.8/ex15_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ center frequency in hertz   
+ 
+    60.285963  
+ 
+ 
+ R5 in ohms   
+ 
+    95700.  
+ 
+ 
+ Nearest value is 100 kilo-ohms   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH16/EX16.1/ex16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ resonant frequency of the  Wein-bridge oscillator in Hertz   
+ 
+    1591.5494  
+ 
+ 
+ 
+ 
+ 
+ 
+ value of R_f in ohms   
+ 
+    3000.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH16/EX16.2/ex16_2.sce #
+ 
+ 
+ 
+ 
+ 
+ value of R_f in ohms   
+ 
+    290000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ frequency of oscillation in Hertz   
+ 
+    6497.4733  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH16/EX16.3/ex16_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ frequency of oscillation in Hertz when Q>10   
+ 
+    7465.0285  
+ 
+ 
+ 
+ 
+ frequency of oscillation in hertz when Q=8   
+ 
+    7407.3827  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH16/EX16.4/ex16_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ frequency of oscillation in hertz   
+ 
+    8250.  
+ 
+ 
+ 
+ 
+ 
+ value of R1 in ohms to make frequency 20 kiloHertz   
+ 
+    4125.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH16/EX16.6/ex16_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ frequency of the 555 timer in hertz   
+ 
+    5642.6332  
+ 
+ 
+ 
+ duty cycle in percentage   
+ 
+    59.482759  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.1/ex17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ line regulation in %/V   
+ 
+    0.3333333  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.2/ex17_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ load regulation as percentage change from no load to full load   
+ 
+ 
+    0.8403361  
+ 
+ 
+ load regulation as percentage change per milliampere   
+ 
+ 
+    0.0840336  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.3/ex17_3.sce #
+ 
+ 
+ V_REF  =
+ 
+    5.1  
+ 
+ 
+ 
+ 
+ 
+ output voltage in volts   
+ 
+    10.2  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.4/ex17_4.sce #
+ 
+ 
+ 
+ 
+ maximum current provided to load(in amperes)   
+ 
+    0.7  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.5/ex17_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ maximum power dissipated by R1 in WATTS   
+ 
+    7.1022727  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.6/ex17_6.sce #
+ 
+ 
+ SAME AS EX-2.8 in CHAPTER-2   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.7/ex17_7.sce #
+ 
+ 
+ 
+ 
+ value of resistor in Ohms for which max current is 700mA   
+ 
+    1.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.8/ex17_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ power dissiated(in WATTS) by the external pass transistor   
+ 
+    10.2  
+ 
+ 
+ For safety purpose, we choose a power transistor with rating more than this, say 15W   
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH17/EX17.9/ex17_9.sce #
+ 
+ 
+ 
+ 
+ 
+ The value of current-setting resistor in ohms is   
+ 
+    5.  
+ 
+grepthis#Electronic_Devices_T._L._Floyd_61/CH18/EX18.1/ex18_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency at which each switch should operate(in hertz)   
+ 
+    1000000.  
+ 
+ 
+ Duty cycle should be 50%   
+ 

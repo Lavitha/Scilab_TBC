@@ -1,0 +1,5929 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 84
+
+grepthis#Electrical_Machines_M._V._Despande_833/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    25000.  
+ 
+ V_1  =
+ 
+    1910.  
+ 
+ V_2  =
+ 
+    240.  
+ 
+ f  =
+ 
+    50.  
+ 
+ n  =
+ 
+    7.9583333  
+ 
+ 
+ (a)n-ratio=   
+ 
+    7.9583333  
+ 
+ I_1  =
+ 
+    13.089005  
+ 
+ 
+ (b)load current referred to high voltage side (in A)=   
+ 
+    13.089005  
+ 
+ I_2  =
+ 
+    104.16667  
+ 
+ Z_2  =
+ 
+    2.304  
+ 
+ 
+ (c)load impedance on low voltage side for full load (in ohm)=   
+ 
+    2.304  
+ 
+ Z_1  =
+ 
+    145.924  
+ 
+ 
+ (d)impedance referred to high voltage side(in ohm)=   
+ 
+    145.924  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    3300.  
+ 
+ V_2  =
+ 
+    240.  
+ 
+ I_0  =
+ 
+    2.  
+ 
+ P  =
+ 
+    60.  
+ 
+ R  =
+ 
+    0.8  
+ 
+ Pf  =
+ 
+    0.125  
+ 
+ 
+ (a)Power factor on no load=   
+ 
+    0.125  
+ 
+ I_c  =
+ 
+    0.25  
+ 
+ 
+ (b)Active current(in A)=   
+ 
+    0.25  
+ 
+ theta  =
+ 
+    82.819244  
+ 
+ I_m  =
+ 
+    1.8154547  
+ 
+ 
+ (c)magnetising current is(in A)=   
+ 
+    1.8154547  
+ 
+ Culoss  =
+ 
+    3.2  
+ 
+ 
+ (d)copper loss in the primary winding is(in watt)=   
+ 
+    3.2  
+ 
+ Coreloss  =
+ 
+    56.8  
+ 
+ 
+ (e)core loss(in watt)=   
+ 
+    56.8  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.0386  
+ 
+ B  =
+ 
+    1.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V_1  =
+ 
+    3300.  
+ 
+ V_2  =
+ 
+    240.  
+ 
+ C  =
+ 
+    0.0386  
+ 
+ n_2  =
+ 
+    28.007282  
+ 
+ T_2  =
+ 
+    14.003641  
+ 
+ 
+ (a)number of turns on low voltage side is=   
+ 
+    14.003641  
+ 
+ T_1  =
+ 
+    192.55006  
+ 
+ 
+ (b)number of turns on high voltage side is=   
+ 
+    192.55006  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    2200.  
+ 
+ V_2  =
+ 
+    220.  
+ 
+ f  =
+ 
+    50.  
+ 
+ r_1  =
+ 
+    1.25  
+ 
+ x_1  =
+ 
+    4.  
+ 
+ r_2  =
+ 
+    0.04  
+ 
+ x_2  =
+ 
+    0.15  
+ 
+ n  =
+ 
+    10.  
+ 
+ R_2  =
+ 
+    4.  
+ 
+ 
+ (a)equivalent resistance of low voltage side in terms of high voltage side=   
+ 
+    4.  
+ 
+ X_2  =
+ 
+    15.  
+ 
+ 
+ equivalent reactance of low voltage side in terms of high voltage side=   
+ 
+    15.  
+ 
+ R_1  =
+ 
+    0.0125  
+ 
+ 
+ (b)equivalent resistance of high voltage side in terms of low voltage side =   
+ 
+    0.0125  
+ 
+ X_1  =
+ 
+    0.04  
+ 
+ 
+ equivalent reactance of high voltage side in terms of low voltage side =   
+ 
+    0.04  
+ 
+ R_t  =
+ 
+    5.25  
+ 
+ 
+ (c)total resistance of transformer in terms of high voltage side=   
+ 
+    5.25  
+ 
+ X_t  =
+ 
+    19.  
+ 
+ 
+ total reactance of transformer in terms of high voltage side=   
+ 
+    19.  
+ 
+ R_e  =
+ 
+    0.0525  
+ 
+ 
+ (d)total resistance of transformer in terms of low voltage side=   
+ 
+    0.0525  
+ 
+ X_e  =
+ 
+    0.19  
+ 
+ 
+ total reactance of transformer in terms of low voltage side=   
+ 
+    0.19  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    10.  
+ 
+ V_1  =
+ 
+    200.  
+ 
+ x_m  =
+ 
+    231.  
+ 
+ r_c  =
+ 
+    400.  
+ 
+ r_e  =
+ 
+    0.1  
+ 
+ x_e  =
+ 
+    0.5  
+ 
+ r_l  =
+ 
+    7.9  
+ 
+ x_l  =
+ 
+    5.5  
+ 
+ I_m  =
+ 
+    0.8658009  
+ 
+ I_c  =
+ 
+    0.5  
+ 
+ I_0  =
+ 
+    0.5 + 0.8658009i  
+ 
+ R_l  =
+ 
+    8.  
+ 
+ X_l  =
+ 
+    6.  
+ 
+ I  =
+ 
+    16. - 12.i  
+ 
+ I_1  =
+ 
+    16.5 - 11.134199i  
+ 
+ V_2  =
+ 
+    192.4 - 6.8i  
+ 
+ v  =
+ 
+    192.52013  
+ 
+ 
+ (a)terminal voltage on load(in volt)=   
+ 
+    192.52013  
+ 
+ V  =
+ 
+    1925.2013  
+ 
+ 
+ (b)voltage on load at hgih voltage terminals(in volt)=   
+ 
+    1925.2013  
+ 
+ P_o  =
+ 
+    3080.3221  
+ 
+ P_i  =
+ 
+    3300.  
+ 
+ eff  =
+ 
+    93.343093  
+ 
+ 
+ (c)efficiency of transformer is(in %)=   
+ 
+    93.343093  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    500000.  
+ 
+ V_1  =
+ 
+    2200.  
+ 
+ V_2  =
+ 
+    500.  
+ 
+ f  =
+ 
+    50.  
+ 
+ r  =
+ 
+    0.01  
+ 
+ z  =
+ 
+    0.1  
+ 
+ I  =
+ 
+    1000.  
+ 
+ Z  =
+ 
+    0.05  
+ 
+ 
+ (a)Impedance(in ohms)=   
+ 
+    0.05  
+ 
+ R  =
+ 
+    2.  
+ 
+ 
+ (b) Resistance(in %)=   
+ 
+    2.  
+ 
+ x  =
+ 
+    0.0489898  
+ 
+ X  =
+ 
+    9.797959  
+ 
+ 
+ Reactance(in %)=   
+ 
+    9.797959  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    50.  
+ 
+ V_1  =
+ 
+    440.  
+ 
+ V_2  =
+ 
+    220.  
+ 
+ t_1  =
+ 
+    6.  
+ 
+ t_2  =
+ 
+    2.  
+ 
+ Cu_1  =
+ 
+    2.  
+ 
+ Fe  =
+ 
+    1.  
+ 
+ E_1  =
+ 
+    300.  
+ 
+ E_2  =
+ 
+    50.  
+ 
+ Cu_2  =
+ 
+    0.5  
+ 
+ E  =
+ 
+    37.  
+ 
+ eff_1  =
+ 
+    90.439276  
+ 
+ 
+ (a)All day efficiency(in%)=   
+ 
+    90.439276  
+ 
+ eff_2  =
+ 
+    94.339623  
+ 
+ 
+ (b)commercial efficiency on full load(in%)=   
+ 
+    94.339623  
+ 
+ eff_3  =
+ 
+    94.339623  
+ 
+ 
+ (c)efficiency on half load(in%)=   
+ 
+    94.339623  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    25000.  
+ 
+ V_1  =
+ 
+    3300.  
+ 
+ V_2  =
+ 
+    230.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P_i  =
+ 
+    300.  
+ 
+ P_c  =
+ 
+    400.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ Cu  =
+ 
+    100.  
+ 
+ P_o  =
+ 
+    10000.  
+ 
+ eff  =
+ 
+    96.153846  
+ 
+ 
+ (a)Efficiency of transformer at half load(in %)=   
+ 
+    96.153846  
+ 
+ x  =
+ 
+    17320.508  
+ 
+ 
+ (b)Load for maximum efficiency(in watt)=   
+ 
+    17320.508  
+ 
+ eff_max  =
+ 
+    96.651881  
+ 
+ 
+ Maximum efficiency(in%)=   
+ 
+    96.651881  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ L_o  =
+ 
+    1.  
+ 
+ X  =
+ 
+    6.  
+ 
+ pf_1  =
+ 
+    0.8  
+ 
+ pf_2  =
+ 
+    0.8  
+ 
+ R  =
+ 
+    1.  
+ 
+ 
+ (a)% resistance(in %)=   
+ 
+    1.  
+ 
+ Re_1  =
+ 
+    1.  
+ 
+ 
+ (b)Regulation at unity power factor(in%)=   
+ 
+    1.  
+ 
+ theta  =
+ 
+    36.869898  
+ 
+ a  =
+ 
+    0.6  
+ 
+ Re_2  =
+ 
+    4.4  
+ 
+ 
+ Regulation at 0.8 lagging power factor(in%)=   
+ 
+    4.4  
+ 
+ Re_3  =
+ 
+  - 2.8  
+ 
+ 
+ Regulation at leading power factor(in%)=   
+ 
+  - 2.8  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    500000.  
+ 
+ V_1  =
+ 
+    2200.  
+ 
+ V_2  =
+ 
+    500.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Eff  =
+ 
+    97.  
+ 
+ Eff_m  =
+ 
+    75.  
+ 
+ Z_1  =
+ 
+    10.  
+ 
+ pf_1  =
+ 
+    1.  
+ 
+ pf_2  =
+ 
+    0.8  
+ 
+ I_fl  =
+ 
+    1000.  
+ 
+ I  =
+ 
+    750.  
+ 
+ Losses  =
+ 
+    0.03  
+ 
+ Cu  =
+ 
+    0.015  
+ 
+ Fe  =
+ 
+    0.015  
+ 
+ C  =
+ 
+    5625.  
+ 
+ R  =
+ 
+    0.01  
+ 
+ V  =
+ 
+    50.  
+ 
+ Z  =
+ 
+    0.05  
+ 
+ X  =
+ 
+    0.0489898  
+ 
+ theta  =
+ 
+    36.869898  
+ 
+ Re  =
+ 
+    37.393877  
+ 
+ 
+ Regulation on full load at 0.8 power factor lagging(in volt)=   
+ 
+    37.393877  
+ 
+ Reg  =
+ 
+    7.4787754  
+ 
+ 
+ Percentage Regulation(in%)=   
+ 
+    7.4787754  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    5000.  
+ 
+ V_1  =
+ 
+    220.  
+ 
+ V_2  =
+ 
+    440.  
+ 
+ f  =
+ 
+    50.  
+ 
+ I_o  =
+ 
+    0.75  
+ 
+ P_o  =
+ 
+    75.  
+ 
+ V_s  =
+ 
+    16.  
+ 
+ P_c  =
+ 
+    80.  
+ 
+ pf  =
+ 
+    0.4545455  
+ 
+ a  =
+ 
+    0.8907235  
+ 
+ R_o  =
+ 
+    645.33333  
+ 
+ 
+ (a)R_o(in ohms)=   
+ 
+    645.33333  
+ 
+ X_o  =
+ 
+    329.32029  
+ 
+ 
+ (b)X_o(in ohms)=   
+ 
+    329.32029  
+ 
+ I_l  =
+ 
+    11.363636  
+ 
+ Z  =
+ 
+    1.408  
+ 
+ R  =
+ 
+    0.61952  
+ 
+ X  =
+ 
+    1.2643809  
+ 
+ n  =
+ 
+    2.  
+ 
+ r  =
+ 
+    0.15488  
+ 
+ 
+ (c)resistance reffered to low voltage side(in ohms)=   
+ 
+    0.15488  
+ 
+ x  =
+ 
+    0.3160952  
+ 
+ 
+ (d)reactane reffered to low voltage side(in ohms)=   
+ 
+    0.3160952  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    100000.  
+ 
+ V_1  =
+ 
+    6600.  
+ 
+ V_2  =
+ 
+    240.  
+ 
+ f  =
+ 
+    50.  
+ 
+ I_sh  =
+ 
+    5.  
+ 
+ P_sh  =
+ 
+    109.  
+ 
+ V_sh  =
+ 
+    50.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ Z  =
+ 
+    10.  
+ 
+ R  =
+ 
+    4.36  
+ 
+ X  =
+ 
+    8.9994667  
+ 
+ I_l  =
+ 
+    15.151515  
+ 
+ Re  =
+ 
+    134.66182  
+ 
+ V_r  =
+ 
+    6734.6618  
+ 
+ 
+ Voltage for high voltage side on full load at 0.8 power factor lagging when se 
+      condary terminal voltage is 240 volts(in volt)=                           
+ 
+    6734.6618  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    220000.  
+ 
+ V_1  =
+ 
+    11000.  
+ 
+ V_2  =
+ 
+    440.  
+ 
+ P_i  =
+ 
+    2200.  
+ 
+ V  =
+ 
+    500.  
+ 
+ P  =
+ 
+    2000.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ I  =
+ 
+    250.  
+ 
+ I_fl  =
+ 
+    20.  
+ 
+ r  =
+ 
+    5.  
+ 
+ z  =
+ 
+    25.  
+ 
+ x  =
+ 
+    24.494897  
+ 
+ 
+ (a)Z,X,R(in ohms)=   
+ 
+    25.  
+ 
+    24.494897  
+ 
+    5.  
+ 
+ Re  =
+ 
+    373.93877  
+ 
+ 
+ (b)Regulation on full load on high voltage side(in volts)=   
+ 
+    373.93877  
+ 
+ Re_1  =
+ 
+    14.957551  
+ 
+ 
+ Regulation on full load on low volrage side(in volts)=   
+ 
+    14.957551  
+ 
+ V_t  =
+ 
+    425.04245  
+ 
+ 
+ (c)Terminal voltage on low voltage side on full load(in volts)=   
+ 
+    425.04245  
+ 
+ I_c  =
+ 
+    10.  
+ 
+ W_c  =
+ 
+    500.  
+ 
+ Eff  =
+ 
+    97.023153  
+ 
+ 
+ (d)Efficiency of transformer(in%)=   
+ 
+    97.023153  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s  =
+ 
+    10000.  
+ 
+ V_1  =
+ 
+    440.  
+ 
+ V_2  =
+ 
+    240.  
+ 
+ f  =
+ 
+    50.  
+ 
+ I_l  =
+ 
+    35.  
+ 
+ V_l  =
+ 
+    234.  
+ 
+ W  =
+ 
+    8500.  
+ 
+ P_o  =
+ 
+    8190.  
+ 
+ P_i  =
+ 
+    8500.  
+ 
+ Eff  =
+ 
+    96.352941  
+ 
+ 
+ (a)Efficiency(in %)=   
+ 
+    96.352941  
+ 
+ V_d  =
+ 
+    6.  
+ 
+ Re  =
+ 
+    2.5  
+ 
+ 
+ (b)Regulation(in%)=   
+ 
+    2.5  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ P_s1  =
+ 
+    500000.  
+ 
+ r_1  =
+ 
+    0.01  
+ 
+ x_1  =
+ 
+    0.05  
+ 
+ P_s2  =
+ 
+    250000.  
+ 
+ r_2  =
+ 
+    0.015  
+ 
+ x_2  =
+ 
+    0.04  
+ 
+ P_l  =
+ 
+    750000.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ V_2  =
+ 
+    400.  
+ 
+ Z_1  =
+ 
+    0.01 + 0.05i  
+ 
+ Z_2  =
+ 
+    0.03 + 0.08i  
+ 
+ Z  =
+ 
+    0.04 + 0.13i  
+ 
+ S  =
+ 
+    600000. - 450000.i  
+ 
+ S_1  =
+ 
+    359189.19 - 304864.86i  
+ 
+ s_1  =
+ 
+    471125.74  
+ 
+ 
+ Load on first transformer(in VA)=   
+ 
+    471125.74  
+ 
+ S_2  =
+ 
+    240810.81 - 145135.14i  
+ 
+ s_2  =
+ 
+    281165.53  
+ 
+ 
+ Load on second transformer(inVA)=   
+ 
+    281165.53  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    6600.  
+ 
+ I  =
+ 
+    20.  
+ 
+ n  =
+ 
+    15.  
+ 
+ V_la  =
+ 
+    440.  
+ 
+ I_la  =
+ 
+    300.  
+ 
+ 
+ (a)(in A),(in volts)=   
+ 
+    300.  
+ 
+    440.  
+ 
+ V_lb  =
+ 
+    440.  
+ 
+ I_lb  =
+ 
+    300.  
+ 
+ 
+ (b)(in A),(in volts)=   
+ 
+    300.  
+ 
+    440.  
+ 
+ V_lc  =
+ 
+    762.10236  
+ 
+ I_lc  =
+ 
+    173.20508  
+ 
+ 
+ (c)(in A),(in volts)=   
+ 
+    173.20508  
+ 
+    762.10236  
+ 
+ V_ld  =
+ 
+    254.03412  
+ 
+ I_ld  =
+ 
+    519.61524  
+ 
+ 
+ (d)(in A),(in volts)=   
+ 
+    519.61524  
+ 
+    254.03412  
+ 
+ P  =
+ 
+    228.63071  
+ 
+ 
+ (d)Output Power (in KVA)=   
+ 
+    228.63071  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    50000.  
+ 
+ V  =
+ 
+    440.  
+ 
+ eff  =
+ 
+    90.  
+ 
+ pf  =
+ 
+    0.85  
+ 
+ V_1  =
+ 
+    11000.  
+ 
+ V_2  =
+ 
+    440.  
+ 
+ I_fl  =
+ 
+    85.762072  
+ 
+ v  =
+ 
+    254.03412  
+ 
+ n  =
+ 
+    43.30127  
+ 
+ I_ph  =
+ 
+    1.9805902  
+ 
+ I_l  =
+ 
+    3.4304829  
+ 
+ 
+ (a)High Voltage side line and phase currents(inA)=   
+ 
+    3.4304829  
+ 
+    1.9805902  
+ 
+ 
+ (b)Low voltage side phase and line currents(inA)=   
+ 
+    85.762072  
+ 
+    85.762072  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    11500.  
+ 
+ V_2  =
+ 
+    2300.  
+ 
+ P_o  =
+ 
+    100000.  
+ 
+ V  =
+ 
+    13800.  
+ 
+ v  =
+ 
+    1.2  
+ 
+ I_1  =
+ 
+    8.6956522  
+ 
+ I_2  =
+ 
+    43.478261  
+ 
+ I  =
+ 
+    52.173913  
+ 
+ W_o  =
+ 
+    600.  
+ 
+ Cu  =
+ 
+    0.1666667  
+ 
+ 
+ (a)Voltage ratio and output(in KVA)=   
+ 
+    1.2  
+ 
+    600.  
+ 
+ w_o  =
+ 
+    120.  
+ 
+ cu  =
+ 
+  - 1915.6667  
+ 
+ 
+ (b)Voltage ratio and output(in KVA)=   
+ 
+    1.2  
+ 
+    120.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    5000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V_1  =
+ 
+    415.  
+ 
+ V_2  =
+ 
+    240.  
+ 
+ k  =
+ 
+    0.75  
+ 
+ B  =
+ 
+    1.6  
+ 
+ i_d  =
+ 
+    2.  
+ 
+ k_w  =
+ 
+    0.3  
+ 
+ E  =
+ 
+    1.677051  
+ 
+ 
+ (a)Voltage per turn(in volts)=   
+ 
+    1.677051  
+ 
+ A_1  =
+ 
+    4721.4273  
+ 
+ 
+ (b)Cross sectional area of core(in mm^2)=   
+ 
+    4721.4273  
+ 
+ i_2  =
+ 
+    20.833333  
+ 
+ A_2  =
+ 
+    10.416667  
+ 
+ 
+ (c)Cross sectional area of conductor for low voltage side(in mm^2)=   
+ 
+    10.416667  
+ 
+ i_1  =
+ 
+    12.048193  
+ 
+ A_1  =
+ 
+    6.0240964  
+ 
+ 
+ (d)Cross sectional area of conductor for high voltage side(in mm^2)=   
+ 
+    6.0240964  
+ 
+ n_2  =
+ 
+    143.10835  
+ 
+ 
+ (e)Number of turns in low voltage winding=   
+ 
+    143.10835  
+ 
+ n_1  =
+ 
+    247.45819  
+ 
+ 
+ (f)Number of turns in high voltage winding=   
+ 
+    247.45819  
+ 
+ A_w  =
+ 
+    3.895D+08  
+ 
+ 
+ (g)Window area(in mm^2)=   
+ 
+    3.895D+08  
+ 
+ cu  =
+ 
+    2981.424  
+ 
+ 
+ (i)Copper used in windings(in mm^2)=   
+ 
+    2981.424  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    100000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V_1  =
+ 
+    11000.  
+ 
+ V_2  =
+ 
+    433.  
+ 
+ k  =
+ 
+    0.45  
+ 
+ B  =
+ 
+    1.65  
+ 
+ k_w  =
+ 
+    0.28  
+ 
+ i_d  =
+ 
+    2.5  
+ 
+ E  =
+ 
+    4.5  
+ 
+ 
+ (a)Voltage per turn(in volts)=   
+ 
+    4.5  
+ 
+ A_1  =
+ 
+    12285.012  
+ 
+ 
+ (b)Cross sectional area of core(in mm^2)=   
+ 
+    12285.012  
+ 
+ I_1  =
+ 
+    3.030303  
+ 
+ a_1  =
+ 
+    1.2121212  
+ 
+ 
+ (c)Cross sectional area of conductor in h.v winding(in mm^2)=   
+ 
+    1.2121212  
+ 
+ n_1  =
+ 
+    2444.4444  
+ 
+ 
+ (d)Number of turns per phase in h.v winding(in mm^2)=   
+ 
+    2444.4444  
+ 
+ I_2  =
+ 
+    133.33724  
+ 
+ a_2  =
+ 
+    53.334898  
+ 
+ 
+ (e)Cross sectional area of conductor in l.v winding(in mm^2)=   
+ 
+    53.334898  
+ 
+ v  =
+ 
+    249.99267  
+ 
+ n_2  =
+ 
+    55.553926  
+ 
+ 
+ (f)Number of turns in l.v winding=   
+ 
+    55.553926  
+ 
+ A_w  =
+ 
+    42328.042  
+ 
+ 
+ (g)Window Area(in mm^2)=   
+ 
+    42328.042  
+ 
+ Cu  =
+ 
+    11851.852  
+ 
+ 
+ Copper used in window area(in mm^2)=   
+ 
+    11851.852  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    50000.  
+ 
+ V_b1  =
+ 
+    230.  
+ 
+ p  =
+ 
+    4.  
+ 
+ a  =
+ 
+    4.  
+ 
+ b  =
+ 
+    2.  
+ 
+ C  =
+ 
+    268.  
+ 
+ t  =
+ 
+    2.  
+ 
+ c  =
+ 
+    4.  
+ 
+ n  =
+ 
+    67.  
+ 
+ I_1  =
+ 
+    217.3913  
+ 
+ V_b2  =
+ 
+    460.  
+ 
+ I_2  =
+ 
+    108.69565  
+ 
+ 
+ Current(in A) and voltage(in volts) for LAP winding=   
+ 
+    217.3913  
+ 
+    230.  
+ 
+ 
+ Current(in A) and voltage(in volts) for WAVE winding=   
+ 
+    108.69565  
+ 
+    460.  
+ 
+ 
+ Output is same for both connections(in watts)=   
+ 
+    50000.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ n  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    400.  
+ 
+ B  =
+ 
+    0.04  
+ 
+ s_1  =
+ 
+    41.  
+ 
+ s_2  =
+ 
+    45.  
+ 
+ s_3  =
+ 
+    51.  
+ 
+ a  =
+ 
+    2.  
+ 
+ Z  =
+ 
+    300.  
+ 
+ Z_c  =
+ 
+    150.  
+ 
+ Y  =
+ 
+    26.  
+ 
+ t  =
+ 
+    3.  
+ 
+ c  =
+ 
+    6.  
+ 
+ z  =
+ 
+    306.  
+ 
+ 
+ slots,turn coils,coils sides per slot and total number of conductors=   
+ 
+    51.  
+ 
+    3.  
+ 
+    6.  
+ 
+    306.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ B  =
+ 
+    0.04  
+ 
+ c  =
+ 
+    740.  
+ 
+ n_1  =
+ 
+    750.  
+ 
+ n_2  =
+ 
+    600.  
+ 
+ V  =
+ 
+    400.  
+ 
+ a  =
+ 
+    4.  
+ 
+ b  =
+ 
+    2.  
+ 
+ E  =
+ 
+    370.  
+ 
+ 
+ (a)E.M.F generated at 750r.p.m for lap wound(in volts)=   
+ 
+    370.  
+ 
+ E_1  =
+ 
+    592.  
+ 
+ 
+ (b)E.M.F generated at 600r.p.m for wavewound(in volts)=   
+ 
+    592.  
+ 
+ n  =
+ 
+    405.40541  
+ 
+ 
+ (c)Speed of machine(in r.p.m)=   
+ 
+    405.40541  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ P  =
+ 
+    4000.  
+ 
+ V  =
+ 
+    230.  
+ 
+ r_f  =
+ 
+    115.  
+ 
+ r_a  =
+ 
+    0.1  
+ 
+ a  =
+ 
+    4.  
+ 
+ i_f  =
+ 
+    2.  
+ 
+ i_l  =
+ 
+    17.391304  
+ 
+ I_a  =
+ 
+    19.391304  
+ 
+ 
+ (a)Armature current(in A)=   
+ 
+    19.391304  
+ 
+ i  =
+ 
+    4.8478261  
+ 
+ 
+ (b)Current per armature path(in A)=   
+ 
+    4.8478261  
+ 
+ E  =
+ 
+    231.93913  
+ 
+ 
+ (c)E.M.F generated(in volts)=   
+ 
+    231.93913  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ P_g  =
+ 
+    110000.  
+ 
+ n  =
+ 
+    400.  
+ 
+ V  =
+ 
+    220.  
+ 
+ P_m  =
+ 
+    10900.  
+ 
+ r_a  =
+ 
+    0.025  
+ 
+ r_f  =
+ 
+    55.  
+ 
+ v_b  =
+ 
+    1.  
+ 
+ i_l  =
+ 
+    500.  
+ 
+ i_f  =
+ 
+    4.  
+ 
+ I_a  =
+ 
+    504.  
+ 
+ V_a  =
+ 
+    12.6  
+ 
+ E  =
+ 
+    234.6  
+ 
+ I_1  =
+ 
+    49.545455  
+ 
+ i_a  =
+ 
+    45.545455  
+ 
+ v_a  =
+ 
+    1.1386364  
+ 
+ E_b  =
+ 
+    216.86136  
+ 
+ N_m  =
+ 
+    369.7551  
+ 
+ 
+ Speed at which generator will run as motor is(in r.p.m)=   
+ 
+    369.7551  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    230.  
+ 
+ n  =
+ 
+    800.  
+ 
+ i  =
+ 
+    5.  
+ 
+ r_a  =
+ 
+    0.25  
+ 
+ r_f  =
+ 
+    230.  
+ 
+ i_l  =
+ 
+    60.  
+ 
+ i_f  =
+ 
+    1.  
+ 
+ i_a  =
+ 
+    4.  
+ 
+ E_b1  =
+ 
+    229.  
+ 
+ i_al  =
+ 
+    59.  
+ 
+ E_b2  =
+ 
+    215.25  
+ 
+ N  =
+ 
+    751.96507  
+ 
+ 
+ Required speed of motor(in r.p.m) is=   
+ 
+    751.96507  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.11/Ex7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ d  =
+ 
+    20.  
+ 
+ l  =
+ 
+    25.  
+ 
+ c  =
+ 
+    300.  
+ 
+ i_a  =
+ 
+    50.  
+ 
+ B  =
+ 
+    0.3  
+ 
+ n  =
+ 
+    1000.  
+ 
+ T  =
+ 
+    28.125  
+ 
+ s  =
+ 
+    104.71976  
+ 
+ P  =
+ 
+    2.9452431  
+ 
+ 
+ Power(in KW) and Torque(in Nm) developed is=   
+ 
+    2.9452431  
+ 
+    28.125  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.12/Ex7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ I  =
+ 
+    100.  
+ 
+ c  =
+ 
+    500.  
+ 
+ p  =
+ 
+    6.  
+ 
+ t  =
+ 
+    10.  
+ 
+ a  =
+ 
+    2.  
+ 
+ e  =
+ 
+    30.  
+ 
+ F_d  =
+ 
+    694.44444  
+ 
+ 
+ (a)Number of cross magnetising ampereturns=   
+ 
+    694.44444  
+ 
+ F_c  =
+ 
+    1388.8889  
+ 
+ 
+ (b)Demagnetising ampereturns=   
+ 
+    1388.8889  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.13/Ex7_13.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ n  =
+ 
+    600.  
+ 
+ d  =
+ 
+    0.4  
+ 
+ c  =
+ 
+    243.  
+ 
+ c_s  =
+ 
+    3.  
+ 
+ w  =
+ 
+    12.5  
+ 
+ W  =
+ 
+    0.6  
+ 
+ W_c  =
+ 
+    5.1713459  
+ 
+ D  =
+ 
+    22.242692  
+ 
+ V_c  =
+ 
+    12.566371  
+ 
+ T  =
+ 
+    0.0017700  
+ 
+ 
+ Time of commutation(in sec)=   
+ 
+    0.0017700  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.14/Ex7_14.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ I  =
+ 
+    300.  
+ 
+ L  =
+ 
+    0.00002  
+ 
+ a  =
+ 
+    2.  
+ 
+ i  =
+ 
+    150.  
+ 
+ T_c  =
+ 
+    0.00174  
+ 
+ E_r  =
+ 
+    3.4482759  
+ 
+ 
+ Average reactance voltage(in volts)=   
+ 
+    3.4482759  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH7/EX7.15/Ex7_15.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ P  =
+ 
+    125000.  
+ 
+ V  =
+ 
+    230.  
+ 
+ z  =
+ 
+    240.  
+ 
+ B  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    0.01  
+ 
+ a  =
+ 
+    4.  
+ 
+ I_a  =
+ 
+    543.47826  
+ 
+ F_a  =
+ 
+    4076.087  
+ 
+ A  =
+ 
+    2387.3241  
+ 
+ A_t  =
+ 
+    6463.4111  
+ 
+ T  =
+ 
+    11.892676  
+ 
+ 
+ The number of turns on each commutating pole=   
+ 
+    11.892676  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    1.  
+ 
+ V  =
+ 
+    230.  
+ 
+ n_1  =
+ 
+    300.  
+ 
+ i_1  =
+ 
+    15.  
+ 
+ n_2  =
+ 
+    375.  
+ 
+ i_2  =
+ 
+    18.75  
+ 
+ 
+ (a)Current(in A)=   
+ 
+    18.75  
+ 
+ V_2  =
+ 
+    354.6875  
+ 
+ 
+ (b)Voltage(in volts)=   
+ 
+    354.6875  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ I_1  =
+ 
+    40.  
+ 
+ V  =
+ 
+    500.  
+ 
+ n_1  =
+ 
+    100.  
+ 
+ n_2  =
+ 
+    80.  
+ 
+ I_2  =
+ 
+    32.  
+ 
+ a  =
+ 
+    1.5625  
+ 
+ R  =
+ 
+    5.625  
+ 
+ 
+ Resistance required(in ohms) is=   
+ 
+    5.625  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    250.  
+ 
+ R_a  =
+ 
+    0.5  
+ 
+ n  =
+ 
+    400.  
+ 
+ i  =
+ 
+    30.  
+ 
+ R  =
+ 
+    1.  
+ 
+ E_b1  =
+ 
+    235.  
+ 
+ E_b2  =
+ 
+    205.  
+ 
+ N  =
+ 
+    348.93617  
+ 
+ 
+ (a)Speed at full load torque(in r.p.m)=   
+ 
+    348.93617  
+ 
+ I  =
+ 
+    60.  
+ 
+ E_b  =
+ 
+    160.  
+ 
+ N_1  =
+ 
+    272.34043  
+ 
+ 
+ (b)Speed at double full load torque(in r.p.m)=   
+ 
+    272.34043  
+ 
+ I_ft  =
+ 
+    166.66667  
+ 
+ T_stalling  =
+ 
+    5.5555556  
+ 
+ 
+ (c)Stalling torque=times the full load torque   
+ 
+    5.5555556  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    230.  
+ 
+ I  =
+ 
+    150.  
+ 
+ R_a  =
+ 
+    0.1  
+ 
+ R_f  =
+ 
+    230.  
+ 
+ P_s  =
+ 
+    1500.  
+ 
+ I_f  =
+ 
+    1.  
+ 
+ I_a  =
+ 
+    151.  
+ 
+ W_ac  =
+ 
+    2280.1  
+ 
+ W_fc  =
+ 
+    230.  
+ 
+ P_c  =
+ 
+    1730.  
+ 
+ L_t  =
+ 
+    4010.1  
+ 
+ P_o  =
+ 
+    34500.  
+ 
+ P_i  =
+ 
+    38510.1  
+ 
+ 
+ (a)Input to generator from prime mover on full load(in watt)=   
+ 
+    38510.1  
+ 
+ Eff  =
+ 
+    89.586888  
+ 
+ 
+ (b)Efficiency on full load(in %)=   
+ 
+    89.586888  
+ 
+ I_l  =
+ 
+    131.52946  
+ 
+ 
+ (c)Load current at which generator efficiency is maximum(in A)=   
+ 
+    131.52946  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    230.  
+ 
+ i_l  =
+ 
+    50.  
+ 
+ r_a  =
+ 
+    0.25  
+ 
+ r_f  =
+ 
+    230.  
+ 
+ i_o  =
+ 
+    3.  
+ 
+ i_1  =
+ 
+    40.  
+ 
+ i_2  =
+ 
+    25.  
+ 
+ P_c  =
+ 
+    690.  
+ 
+ P_i1  =
+ 
+    11500.  
+ 
+ i_f  =
+ 
+    1.  
+ 
+ i_a1  =
+ 
+    49.  
+ 
+ L_fl  =
+ 
+    1290.25  
+ 
+ Eff_1  =
+ 
+    88.780435  
+ 
+ 
+ (a)Efficiency on full load(in%)=   
+ 
+    88.780435  
+ 
+ P_i2  =
+ 
+    9200.  
+ 
+ i_a2  =
+ 
+    39.  
+ 
+ L  =
+ 
+    1070.25  
+ 
+ Eff_2  =
+ 
+    88.366848  
+ 
+ 
+ (b)Efficiency on 40A input(in%)=   
+ 
+    88.366848  
+ 
+ P_i3  =
+ 
+    5750.  
+ 
+ i_a3  =
+ 
+    24.  
+ 
+ L_1  =
+ 
+    834.  
+ 
+ Eff_3  =
+ 
+    85.495652  
+ 
+ 
+ (c)Efficiency on 25A input(in%)=   
+ 
+    85.495652  
+ 
+ I_ao  =
+ 
+    2.  
+ 
+ E_bo  =
+ 
+    229.5  
+ 
+ E_bl  =
+ 
+    217.75  
+ 
+ Re  =
+ 
+    5.1198257  
+ 
+ 
+ (d)Full load speed regulation(in%)=   
+ 
+    5.1198257  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.10/Ex8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    230.  
+ 
+ I  =
+ 
+    70.  
+ 
+ i_a  =
+ 
+    400.  
+ 
+ i_f1  =
+ 
+    4.  
+ 
+ i_f2  =
+ 
+    3.  
+ 
+ r_a  =
+ 
+    0.03  
+ 
+ P_acm  =
+ 
+    4800.  
+ 
+ P_i  =
+ 
+    16100.  
+ 
+ I_g  =
+ 
+    330.  
+ 
+ P_acg  =
+ 
+    3267.  
+ 
+ P_f  =
+ 
+    4016.5  
+ 
+ P_m  =
+ 
+    92690.  
+ 
+ P_fc  =
+ 
+    690.  
+ 
+ L_t  =
+ 
+    9506.5  
+ 
+ P_o  =
+ 
+    83183.5  
+ 
+ n_m  =
+ 
+    89.74377  
+ 
+ 
+ (a)Efficiency of motor(in%)=   
+ 
+    89.74377  
+ 
+ P_og  =
+ 
+    75900.  
+ 
+ P_fcu  =
+ 
+    920.  
+ 
+ L_t1  =
+ 
+    8203.5  
+ 
+ P_ig  =
+ 
+    84103.5  
+ 
+ n_g  =
+ 
+    90.245947  
+ 
+ 
+ (b)Efficiency of generator(in%)=   
+ 
+    90.245947  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.11/Ex8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ W  =
+ 
+    25.  
+ 
+ d  =
+ 
+    50.  
+ 
+ n  =
+ 
+    750.  
+ 
+ I  =
+ 
+    25.  
+ 
+ V  =
+ 
+    230.  
+ 
+ P_o  =
+ 
+    4815.4725  
+ 
+ P_i  =
+ 
+    5750.  
+ 
+ Eff  =
+ 
+    83.747348  
+ 
+ 
+ Efficiency of motor(in %)=   
+ 
+    83.747348  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH8/EX8.12/Ex8_12.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    500.  
+ 
+ I  =
+ 
+    10.  
+ 
+ I_f  =
+ 
+    3.  
+ 
+ r_a  =
+ 
+    0.1  
+ 
+ P_i  =
+ 
+    100000.  
+ 
+ P_nl  =
+ 
+    5000.  
+ 
+ I_ao  =
+ 
+    7.  
+ 
+ P_acn  =
+ 
+    4.9  
+ 
+ P_fcn  =
+ 
+    1500.  
+ 
+ P_c  =
+ 
+    3495.1  
+ 
+ I_l  =
+ 
+    200.  
+ 
+ I_al  =
+ 
+    197.  
+ 
+ P_acl  =
+ 
+    3880.9  
+ 
+ P_fcl  =
+ 
+    1500.  
+ 
+ L_t  =
+ 
+    8876.  
+ 
+ Eff  =
+ 
+    91.124  
+ 
+ 
+ Efficiency of motor(in%) is=   
+ 
+    91.124  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    15000.  
+ 
+ V  =
+ 
+    440.  
+ 
+ n  =
+ 
+    1500.  
+ 
+ e  =
+ 
+    88.  
+ 
+ B  =
+ 
+    0.65  
+ 
+ q  =
+ 
+    30000.  
+ 
+ p  =
+ 
+    4.  
+ 
+ R_f  =
+ 
+    220.  
+ 
+ P_i  =
+ 
+    17045.455  
+ 
+ I  =
+ 
+    38.739669  
+ 
+ I_f  =
+ 
+    2.  
+ 
+ D  =
+ 
+    170.  
+ 
+ L  =
+ 
+    122.58473  
+ 
+ 
+ Required dimensions of L and D(in mm) are=   
+ 
+    122.58473  
+ 
+    170.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ P_o  =
+ 
+    3730.  
+ 
+ V  =
+ 
+    200.  
+ 
+ e  =
+ 
+    88.  
+ 
+ P_i  =
+ 
+    4238.6364  
+ 
+ I  =
+ 
+    21.193182  
+ 
+ I_a  =
+ 
+    21.193182  
+ 
+ L  =
+ 
+    508.63636  
+ 
+ Cu  =
+ 
+    254.31818  
+ 
+ R_a  =
+ 
+    0.5662198  
+ 
+ I_m  =
+ 
+    42.386364  
+ 
+ R_1  =
+ 
+    4.7184987  
+ 
+ g  =
+ 
+    1.5281421  
+ 
+ R_2  =
+ 
+    3.0877355  
+ 
+ r1  =
+ 
+    1.6307632  
+ 
+ R_3  =
+ 
+    2.0205813  
+ 
+ r2  =
+ 
+    1.0671541  
+ 
+ R_4  =
+ 
+    1.322247  
+ 
+ r3  =
+ 
+    0.6983343  
+ 
+ R_5  =
+ 
+    0.8652644  
+ 
+ r4  =
+ 
+    0.4569826  
+ 
+ R_6  =
+ 
+    0.5662198  
+ 
+ r5  =
+ 
+    0.2990446  
+ 
+ 
+ Required resistances r1,r2,r3,r4,r5(in ohms)=   
+ 
+    1.6307632  
+ 
+    1.0671541  
+ 
+    0.6983343  
+ 
+    0.4569826  
+ 
+    0.2990446  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ n  =
+ 
+    960.  
+ 
+ n_s  =
+ 
+    1000.  
+ 
+ p  =
+ 
+    6.  
+ 
+ 
+ (a)Number of poles is=   
+ 
+    6.  
+ 
+ s  =
+ 
+    40.  
+ 
+ S  =
+ 
+    4.  
+ 
+ 
+ (b)%Slip is(in%)=   
+ 
+    4.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    6.  
+ 
+ f_s  =
+ 
+    50.  
+ 
+ f_r  =
+ 
+    2.  
+ 
+ n_s  =
+ 
+    1000.  
+ 
+ n  =
+ 
+    40.  
+ 
+ s  =
+ 
+    960.  
+ 
+ 
+ (a)Speed of motor(in r.p.m)=   
+ 
+    960.  
+ 
+ S  =
+ 
+    4.  
+ 
+ 
+ (b)%Slip(in %)=   
+ 
+    4.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    970.  
+ 
+ f  =
+ 
+    50.  
+ 
+ n_s  =
+ 
+    1000.  
+ 
+ p  =
+ 
+    6.  
+ 
+ 
+ (a)Number of poles=   
+ 
+    6.  
+ 
+ s  =
+ 
+    3.  
+ 
+ 
+ (b)Slip(in%)=   
+ 
+    3.  
+ 
+ S  =
+ 
+    6.  
+ 
+ 
+ (c)Required slip(in%)=   
+ 
+    6.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ V  =
+ 
+    440.  
+ 
+ f  =
+ 
+    50.  
+ 
+ n_s  =
+ 
+    1500.  
+ 
+ sp  =
+ 
+    1440.  
+ 
+ s  =
+ 
+    4.  
+ 
+ t  =
+ 
+    1.8  
+ 
+ R_r  =
+ 
+    0.1  
+ 
+ X_r  =
+ 
+    0.8  
+ 
+ r_r  =
+ 
+    0.324  
+ 
+ x_r  =
+ 
+    2.592  
+ 
+ E  =
+ 
+    254.03412  
+ 
+ P  =
+ 
+    7227.0303  
+ 
+ T  =
+ 
+    138.02611  
+ 
+ P_M  =
+ 
+    20813.847  
+ 
+ 
+ (a)Mechanical power output(in watt)=   
+ 
+    20813.847  
+ 
+ 
+ (b)Torque(in N-m)=   
+ 
+    138.02611  
+ 
+ s_m  =
+ 
+    0.125  
+ 
+ N  =
+ 
+    1312.5  
+ 
+ P_1  =
+ 
+    12448.56  
+ 
+ T_m  =
+ 
+    237.74998  
+ 
+ 
+ (c)Maximum torque(in N-m)=   
+ 
+    237.74998  
+ 
+ 
+ (d)Speed at maximum torque(in r.p.m)=   
+ 
+    1312.5  
+ 
+ P_o  =
+ 
+    32677.469  
+ 
+ 
+ (e)Output power at maximum torque(in watt)=   
+ 
+    32677.469  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    3300.  
+ 
+ p  =
+ 
+    10.  
+ 
+ f  =
+ 
+    50.  
+ 
+ R_r  =
+ 
+    0.015  
+ 
+ X_r  =
+ 
+    0.25  
+ 
+ s  =
+ 
+    2.5  
+ 
+ n_s  =
+ 
+    600.  
+ 
+ n  =
+ 
+    585.  
+ 
+ 
+ (a)Speed of the motor(in r.p.m)=   
+ 
+    585.  
+ 
+ S  =
+ 
+    0.06  
+ 
+ N  =
+ 
+    564.  
+ 
+ 
+ (b)Speed at which torque will be maximum(in r.p.m)=   
+ 
+    564.  
+ 
+ T_f  =
+ 
+    1.4201183  
+ 
+ T_m  =
+ 
+    2.  
+ 
+ R  =
+ 
+    1.4083333  
+ 
+ 
+ (c)Ratio of maximum to full load torque=   
+ 
+    1.4083333  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V  =
+ 
+    440.  
+ 
+ R_r  =
+ 
+    0.1  
+ 
+ X_r  =
+ 
+    0.8  
+ 
+ t  =
+ 
+    1.3  
+ 
+ a  =
+ 
+    0.125  
+ 
+ s  =
+ 
+    0.9921572  
+ 
+ n_s  =
+ 
+    1500.  
+ 
+ N  =
+ 
+    11.764172  
+ 
+ 
+ (a)Required speed(in r.p.m)=   
+ 
+    11.764172  
+ 
+ r  =
+ 
+    0.13  
+ 
+ x  =
+ 
+    1.04  
+ 
+ E  =
+ 
+    254.03412  
+ 
+ P_m  =
+ 
+    94.023391  
+ 
+ 
+ (b)Maximum power(in watts)=   
+ 
+    94.023391  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    69.28  
+ 
+ r  =
+ 
+    0.9  
+ 
+ x  =
+ 
+    6.  
+ 
+ z  =
+ 
+    4.1 + 2.i  
+ 
+ s  =
+ 
+    3.  
+ 
+ V_r  =
+ 
+    39.998827  
+ 
+ R_r  =
+ 
+    5.  
+ 
+ X_r  =
+ 
+    8.i  
+ 
+ Z  =
+ 
+    5. + 8.i  
+ 
+ I_r  =
+ 
+    2.2471251 - 3.5954001i  
+ 
+ 
+ (a)Current when rotor is at standstill=   
+ 
+    2.2471251 - 3.5954001i  
+ 
+ E  =
+ 
+    1.1999648  
+ 
+ Imp  =
+ 
+    0.9 + 0.18i  
+ 
+ i_r  =
+ 
+    1.2820137 - 0.2564027i  
+ 
+ 
+ (b)Current when rotor runs at 3% slip=   
+ 
+    1.2820137 - 0.2564027i  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ R_r  =
+ 
+    0.02  
+ 
+ X_r  =
+ 
+    0.1  
+ 
+ s  =
+ 
+    4.  
+ 
+ S  =
+ 
+    96.  
+ 
+ T_f  =
+ 
+    1.9230769  
+ 
+ S_r  =
+ 
+    0.52  
+ 
+ T  =
+ 
+    3.3505155  
+ 
+ Re  =
+ 
+    24.239555  
+ 
+ 
+ (a)% reduction in stator voltage(in %)=   
+ 
+    24.239555  
+ 
+ pf  =
+ 
+    0.3589791  
+ 
+ 
+ (b)Power factor=   
+ 
+    0.3589791  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+ 
+ 
+ P_i  =
+ 
+    100000.  
+ 
+ P_sc  =
+ 
+    2000.  
+ 
+ s  =
+ 
+    4.  
+ 
+ P_r  =
+ 
+    98000.  
+ 
+ P_rc  =
+ 
+    1306.6667  
+ 
+ 
+ (a)Rotor copper lossper phase(in watt)=   
+ 
+    1306.6667  
+ 
+ P_m  =
+ 
+    94080.  
+ 
+ 
+ (b)Mechanical power developed(in watt)=   
+ 
+    94080.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.10/Ex11_10.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ f  =
+ 
+    50.  
+ 
+ p  =
+ 
+    6.  
+ 
+ n  =
+ 
+    960.  
+ 
+ P_i  =
+ 
+    50000.  
+ 
+ P_wf  =
+ 
+    1800.  
+ 
+ P_s  =
+ 
+    1200.  
+ 
+ n_s  =
+ 
+    1000.  
+ 
+ S  =
+ 
+    4.  
+ 
+ 
+ (a)% slip=   
+ 
+    4.  
+ 
+ P_r  =
+ 
+    48800.  
+ 
+ P_rc  =
+ 
+    1952.  
+ 
+ 
+ (b)Rotor copper loss(in watt)=   
+ 
+    1952.  
+ 
+ P_o  =
+ 
+    45048.  
+ 
+ 
+ (c)Output of rotor(in watt)=   
+ 
+    45048.  
+ 
+ eff  =
+ 
+    90.096  
+ 
+ 
+ (d)Efficiency(in%)=   
+ 
+    90.096  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.11/Ex11_11.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ p  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ r1  =
+ 
+    0.2  
+ 
+ x1  =
+ 
+    1.2  
+ 
+ r2  =
+ 
+    0.3  
+ 
+ x2  =
+ 
+    1.2  
+ 
+ r_m  =
+ 
+    150.  
+ 
+ x_m  =
+ 
+    18.  
+ 
+ P_wf  =
+ 
+    750.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ n_s  =
+ 
+    12.5  
+ 
+ y1  =
+ 
+    0.0066667  
+ 
+ y2  =
+ 
+  - 0.0555556i  
+ 
+ y3  =
+ 
+    0.1300052 - 0.0208008i  
+ 
+ Y  =
+ 
+    0.1366719 - 0.0763564i  
+ 
+ Z  =
+ 
+    5.576282 + 3.1153796i  
+ 
+ Z_t  =
+ 
+    5.776282 + 4.3153796i  
+ 
+ E  =
+ 
+    386.39462 - 51.360445i  
+ 
+ z3  =
+ 
+    7.5 + 1.2i  
+ 
+ i2  =
+ 
+    49.164969 - 14.714454i  
+ 
+ 
+ (a)Rotor current per phase(in A)=   
+ 
+    49.164969 - 14.714454i  
+ 
+ i1  =
+ 
+    48.887575 - 36.523225i  
+ 
+ 
+ (b)Stator current per phase(in A)=   
+ 
+    48.887575 - 36.523225i  
+ 
+ pf  =
+ 
+    0.8011191  
+ 
+ 
+ (c)Power factor=   
+ 
+    0.8011191  
+ 
+ P_r  =
+ 
+    19752.82  
+ 
+ 
+ (d)Rotor input(in watt)=   
+ 
+    19752.82  
+ 
+ P_rc  =
+ 
+    790.11281  
+ 
+ 
+ (e)Rotor copper loss(in watt)=   
+ 
+    790.11281  
+ 
+ T  =
+ 
+    754.50216  
+ 
+ 
+ (f)Torque(in N-m)=   
+ 
+    754.50216  
+ 
+ P_me  =
+ 
+    18712.708  
+ 
+ 
+ (g)Mechanical output from rotor(in watts per phase)=   
+ 
+    18712.708  
+ 
+ P_st  =
+ 
+    21510.533  
+ 
+ 
+ (h)Stator input(watts per phase)=   
+ 
+    21510.533  
+ 
+ eff  =
+ 
+    86.99323  
+ 
+ 
+ (i)Efficiency(in %)=   
+ 
+    86.99323  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.12/Ex11_12.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ p  =
+ 
+    8.  
+ 
+ f  =
+ 
+    50.  
+ 
+ r1  =
+ 
+    0.2  
+ 
+ x1  =
+ 
+    1.2  
+ 
+ r2  =
+ 
+    0.3  
+ 
+ x2  =
+ 
+    1.2  
+ 
+ r_m  =
+ 
+    150.  
+ 
+ x_m  =
+ 
+    18.  
+ 
+ P_wf  =
+ 
+    750.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ I2  =
+ 
+    52.083013 - 16.233666i  
+ 
+ 
+ (a)Equivalent rotor current per phase(in A)=   
+ 
+    52.083013 - 16.233666i  
+ 
+ y1  =
+ 
+    0.0066667  
+ 
+ y2  =
+ 
+  - 0.0555556i  
+ 
+ I_o  =
+ 
+    2.9333333 - 24.444444i  
+ 
+ I_1  =
+ 
+    55.016346 - 40.678111i  
+ 
+ 
+ (b)Stator current per phase(in A)=   
+ 
+    55.016346 - 40.678111i  
+ 
+ pf  =
+ 
+    0.8040793  
+ 
+ 
+ (c)Power factor=   
+ 
+    0.8040793  
+ 
+ P_r  =
+ 
+    22321.291  
+ 
+ 
+ (d)Rotor input(in watt)=   
+ 
+    22321.291  
+ 
+ P_rc  =
+ 
+    892.85165  
+ 
+ 
+ (e)Rotor copper losses(in watts)=   
+ 
+    892.85165  
+ 
+ T  =
+ 
+    284.20351  
+ 
+ 
+ (f)Torque(in N-m)=   
+ 
+    284.20351  
+ 
+ P_me  =
+ 
+    21178.44  
+ 
+ 
+ (g)Mechanical power output from rotor(in watts per phase)=   
+ 
+    21178.44  
+ 
+ P_si  =
+ 
+    24207.192  
+ 
+ 
+ (h)Stator input(in watts per phase)=   
+ 
+    24207.192  
+ 
+ e  =
+ 
+    87.488211  
+ 
+ 
+ (i)Efficiency (in %)=   
+ 
+    87.488211  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH11/EX11.13/Ex11_13.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Z_s  =
+ 
+    1.5 + 3.i  
+ 
+ Z_r  =
+ 
+    1.6 + i    
+ 
+ Z_m  =
+ 
+    3. + 40.i  
+ 
+ P_wf  =
+ 
+    300.  
+ 
+ s  =
+ 
+    0.04  
+ 
+ Z  =
+ 
+    40. + i    
+ 
+ z  =
+ 
+    19.592918 + 18.59745i  
+ 
+ Zt  =
+ 
+    21.092918 + 21.59745i  
+ 
+ I1  =
+ 
+    5.8794709 - 6.0201051i  
+ 
+ E  =
+ 
+    227.1546 - 8.6082552i  
+ 
+ I2  =
+ 
+    5.669941 - 0.3569549i  
+ 
+ 
+ (a)Equivalent Rotor current(in A)=   
+ 
+    5.669941 - 0.3569549i  
+ 
+ 
+ (b)Stator current(in A)=   
+ 
+    5.8794709 - 6.0201051i  
+ 
+ pf  =
+ 
+    0.6987011  
+ 
+ 
+ (c)Power factor=   
+ 
+    0.6987011  
+ 
+ P_s  =
+ 
+    4480.7586  
+ 
+ 
+ (d)Stator input(in watt)=   
+ 
+    4480.7586  
+ 
+ P_r  =
+ 
+    3873.0778  
+ 
+ 
+ (e)Rotor input(in watt)=   
+ 
+    3873.0778  
+ 
+ P_ro  =
+ 
+    3718.1547  
+ 
+ P_me  =
+ 
+    3418.1547  
+ 
+ e  =
+ 
+    76.285177  
+ 
+ 
+ (e)Efficiency(in%)=   
+ 
+    76.285177  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    3000.  
+ 
+ V  =
+ 
+    415.  
+ 
+ f  =
+ 
+    50.  
+ 
+ p  =
+ 
+    6.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ I_n  =
+ 
+    3.5  
+ 
+ P_n  =
+ 
+    250.  
+ 
+ r_s  =
+ 
+    1.5  
+ 
+ V_r  =
+ 
+    115.  
+ 
+ I_s  =
+ 
+    13.  
+ 
+ P_s  =
+ 
+    1660.  
+ 
+ pfn  =
+ 
+    0.0993718  
+ 
+ 
+ (a)Noload power factor=   
+ 
+    0.0993718  
+ 
+ P_wf  =
+ 
+    194.875  
+ 
+ 
+ (b)Core and friction loss(in watt)=   
+ 
+    194.875  
+ 
+ r_m  =
+ 
+    688.9  
+ 
+ 
+ (c)Resistance(in ohms)=   
+ 
+    688.9  
+ 
+ pfs  =
+ 
+    0.6410712  
+ 
+ 
+ (d)Power factor on short circuit=   
+ 
+    0.6410712  
+ 
+ Ze  =
+ 
+    5.1073293  
+ 
+ 
+ (e)Equivalent impedance in series circuit(in ohms)=   
+ 
+    5.1073293  
+ 
+ R  =
+ 
+    1.7741617  
+ 
+ 
+ (f)Rotor resistance referred to stator(in ohm)=   
+ 
+    1.7741617  
+ 
+ X  =
+ 
+    3.9197803  
+ 
+ 
+ (g)Stator leakage reactance(in ohms)=   
+ 
+    3.9197803  
+ 
+ x  =
+ 
+    1.9598901  
+ 
+ 
+ (h)Rotor leakage reactance referred to stator(in ohms)=   
+ 
+    1.9598901  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    3000.  
+ 
+ V  =
+ 
+    415.  
+ 
+ f  =
+ 
+    50.  
+ 
+ p  =
+ 
+    6.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ pfs  =
+ 
+    0.64  
+ 
+ pfn  =
+ 
+    0.1  
+ 
+ I_n  =
+ 
+    3.5  
+ 
+ P_n  =
+ 
+    250.  
+ 
+ r_s  =
+ 
+    1.5  
+ 
+ V_r  =
+ 
+    115.  
+ 
+ I_s  =
+ 
+    13.  
+ 
+ P_s  =
+ 
+    1660.  
+ 
+ n_s  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    1.77  
+ 
+ I_st  =
+ 
+    46.913043  
+ 
+ 
+ (a)Starting current(in A)=   
+ 
+    46.913043  
+ 
+ I_i  =
+ 
+    46.910117 + 0.5240128i  
+ 
+ I_o  =
+ 
+    3.4999947 + 0.0061086i  
+ 
+ I_2  =
+ 
+    43.410122 + 0.5179042i  
+ 
+ P_ri  =
+ 
+    10007.794  
+ 
+ T  =
+ 
+    95.567391  
+ 
+ 
+ (b)Starting torque(in N-m)=   
+ 
+    95.567391  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    0.04  
+ 
+ a  =
+ 
+    1.  
+ 
+ I_s  =
+ 
+    5.  
+ 
+ 
+ Starting current is (below)times the full load current=   
+ 
+    5.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.7/Ex12_7.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    0.03  
+ 
+ a  =
+ 
+    2.5  
+ 
+ b  =
+ 
+    5.  
+ 
+ x  =
+ 
+    0.7071068  
+ 
+ T  =
+ 
+    0.375  
+ 
+ 
+ Starting torque is (below) times the full load torque=   
+ 
+    0.375  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.8/Ex12_8.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    0.04  
+ 
+ a  =
+ 
+    4.  
+ 
+ b  =
+ 
+    40.  
+ 
+ x  =
+ 
+    79.056942  
+ 
+ 
+ % tappings required is(in%)=   
+ 
+    79.056942  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.9/Ex12_9.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    5000.  
+ 
+ V  =
+ 
+    415.  
+ 
+ f  =
+ 
+    50.  
+ 
+ e  =
+ 
+    0.85  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ b  =
+ 
+    5.  
+ 
+ P_i  =
+ 
+    5882.3529  
+ 
+ I_fl  =
+ 
+    10.229452  
+ 
+ I_l  =
+ 
+    17.049087  
+ 
+ 
+ Line current(in A)=   
+ 
+    17.049087  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.11/Ex12_11.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    6.  
+ 
+ f  =
+ 
+    50.  
+ 
+ r  =
+ 
+    0.25  
+ 
+ n_1  =
+ 
+    965.  
+ 
+ n_2  =
+ 
+    800.  
+ 
+ n_s  =
+ 
+    1000.  
+ 
+ s_1  =
+ 
+    0.035  
+ 
+ s_2  =
+ 
+    0.2  
+ 
+ R  =
+ 
+    1.1785714  
+ 
+ 
+ Required external resistance per phase(in ohms)=   
+ 
+    1.1785714  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH12/EX12.12/Ex12_12.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    7.5  
+ 
+ p  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V  =
+ 
+    415.  
+ 
+ e  =
+ 
+    0.88  
+ 
+ pf  =
+ 
+    0.87  
+ 
+ b  =
+ 
+    2.5  
+ 
+ c  =
+ 
+    1.75  
+ 
+ n  =
+ 
+    1440.  
+ 
+ ac  =
+ 
+    23000.  
+ 
+ k  =
+ 
+    0.955  
+ 
+ B  =
+ 
+    0.45  
+ 
+ n_s  =
+ 
+    25.  
+ 
+ S  =
+ 
+    9.7962382  
+ 
+ D  =
+ 
+    165.  
+ 
+ L  =
+ 
+    132.91837  
+ 
+ 
+ D and L(in mm) are=   
+ 
+    165.  
+ 
+    132.91837  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    16.  
+ 
+ n  =
+ 
+    375.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ Frequency of voltage generated(in c/s)=   
+ 
+    50.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ f1  =
+ 
+    25.  
+ 
+ f2  =
+ 
+    60.  
+ 
+ p  =
+ 
+    10.  
+ 
+ N  =
+ 
+    300.  
+ 
+ 
+ (a)Speed(in r.p.m)=   
+ 
+    300.  
+ 
+ P  =
+ 
+    24.  
+ 
+ 
+ (b)Number of poles=   
+ 
+    24.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.3/Ex13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ ns  =
+ 
+    18.  
+ 
+ ph  =
+ 
+    3.  
+ 
+ p  =
+ 
+    2.  
+ 
+ m  =
+ 
+    3.  
+ 
+ P_p  =
+ 
+    9.  
+ 
+ theta  =
+ 
+    20.  
+ 
+ k_b  =
+ 
+    0.9597951  
+ 
+ 
+ Distribution factor=   
+ 
+    0.9597951  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.4/Ex13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ s  =
+ 
+    9.  
+ 
+ theta  =
+ 
+    20.  
+ 
+ k_p  =
+ 
+    0.9848078  
+ 
+ 
+ Coil span factor=   
+ 
+    0.9848078  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.5/Ex13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ ph  =
+ 
+    3.  
+ 
+ p  =
+ 
+    16.  
+ 
+ sl  =
+ 
+    144.  
+ 
+ cs  =
+ 
+    10.  
+ 
+ B  =
+ 
+    0.04  
+ 
+ n  =
+ 
+    375.  
+ 
+ C_s  =
+ 
+    160.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ (a)Frequency(in hertz)=   
+ 
+    50.  
+ 
+ ct  =
+ 
+    720.  
+ 
+ nt  =
+ 
+    240.  
+ 
+ m  =
+ 
+    3.  
+ 
+ P_p  =
+ 
+    9.  
+ 
+ theta  =
+ 
+    20.  
+ 
+ k_b  =
+ 
+    0.9597951  
+ 
+ k_p  =
+ 
+    0.9848078  
+ 
+ E_ph  =
+ 
+    2014.4393  
+ 
+ 
+ (b)Phase e.m.f(in volts)=   
+ 
+    2014.4393  
+ 
+ E_l  =
+ 
+    3489.1112  
+ 
+ 
+ (c)Line e.m.f(in volts)=   
+ 
+    3489.1112  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.6/Ex13_6.sce #
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    10.  
+ 
+ ph  =
+ 
+    3.  
+ 
+ n  =
+ 
+    600.  
+ 
+ sl  =
+ 
+    90.  
+ 
+ Vl  =
+ 
+    6600.  
+ 
+ B  =
+ 
+    0.1  
+ 
+ cs  =
+ 
+    160.  
+ 
+ kb  =
+ 
+    0.9597  
+ 
+ kp  =
+ 
+    0.9848  
+ 
+ v_ph  =
+ 
+    3810.5118  
+ 
+ f  =
+ 
+    50.  
+ 
+ m  =
+ 
+    3.  
+ 
+ T  =
+ 
+    363.22589  
+ 
+ 
+ Number of armature conductors in series per phase=   
+ 
+    363.22589  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.12/Ex13_12.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    3300.  
+ 
+ f  =
+ 
+    50.  
+ 
+ r  =
+ 
+    0.4  
+ 
+ I_f  =
+ 
+    20.  
+ 
+ I_fl  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1905.  
+ 
+ Zs  =
+ 
+    6.35  
+ 
+ Xs  =
+ 
+    6.3373891  
+ 
+ 
+ Synchronous reactance and impedance(in ohms)=   
+ 
+    6.3373891  
+ 
+    6.35  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH13/EX13.13/Ex13_13.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    3300.  
+ 
+ ph  =
+ 
+    3.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ r  =
+ 
+    0.5  
+ 
+ x  =
+ 
+    6.5  
+ 
+ V_ph  =
+ 
+    1905.2559  
+ 
+ I  =
+ 
+    174.95463  
+ 
+ Eo  =
+ 
+    2792.4101  
+ 
+ 
+ (a)Required terminal voltage(in volts)=   
+ 
+    2792.4101  
+ 
+ v  =
+ 
+    3233.7203  
+ 
+ 
+ (b)Required voltage at given load current(in volts)=   
+ 
+    3233.7203  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ pf  =
+ 
+    0.9  
+ 
+ Xd  =
+ 
+    1.  
+ 
+ Xq  =
+ 
+    0.6  
+ 
+ V  =
+ 
+    1.  
+ 
+ ang  =
+ 
+    49.  
+ 
+ Ia  =
+ 
+    0.9 - 0.436i  
+ 
+ v  =
+ 
+    0.2616 + 0.54i  
+ 
+ E  =
+ 
+    1.2616 + 0.54i  
+ 
+ Id  =
+ 
+    0.7547458  
+ 
+ Iq  =
+ 
+    0.6560905  
+ 
+ Ef  =
+ 
+    1.6742083  
+ 
+ 
+ Excitation voltage (in per unit)=   
+ 
+    1.6742083  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ pf  =
+ 
+    0.9  
+ 
+ Xd  =
+ 
+    1.  
+ 
+ Xq  =
+ 
+    0.6  
+ 
+ V  =
+ 
+    1.  
+ 
+ ang  =
+ 
+    49.  
+ 
+ Ia  =
+ 
+    0.9 - 0.436i  
+ 
+ E  =
+ 
+    1.6742083  
+ 
+ re  =
+ 
+    67.42083  
+ 
+ 
+ (a)Regulation by two reaction method(in%)=   
+ 
+    67.42083  
+ 
+ Ef  =
+ 
+    1.436 + 0.9i  
+ 
+ RE  =
+ 
+    69.472594  
+ 
+ 
+ (b)Regulation by Synchronous impedance method(in%)=   
+ 
+    69.472594  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ 
+ 
+ 
+ pf  =
+ 
+    0.8  
+ 
+ P  =
+ 
+    1000.  
+ 
+ Eo  =
+ 
+    1.25  
+ 
+ V  =
+ 
+    6600.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Fe  =
+ 
+    1.  
+ 
+ Fa  =
+ 
+    1.  
+ 
+ Ft  =
+ 
+    1.7888544  
+ 
+ Re  =
+ 
+    25.  
+ 
+ 
+ Resultant excitation(in per unit) and regulation(in %)=   
+ 
+    1.7888544  
+ 
+    25.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH14/EX14.5/Ex14_5.sce #
+ 
+ 
+ 
+ 
+ 
+ Vf  =
+ 
+    400.  
+ 
+ Vr  =
+ 
+    480.  
+ 
+ Re  =
+ 
+    20.  
+ 
+ 
+ Regulation of the machine(in %)=   
+ 
+    20.  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH14/EX14.6/Ex14_6.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    5000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ p  =
+ 
+    6.  
+ 
+ V  =
+ 
+    11000.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ c  =
+ 
+    3.  
+ 
+ Xs  =
+ 
+    5.  
+ 
+ Vph  =
+ 
+    6350.853  
+ 
+ ns  =
+ 
+    1000.  
+ 
+ If  =
+ 
+    262.43194  
+ 
+ E  =
+ 
+    7214.9218  
+ 
+ a  =
+ 
+    45.235784  
+ 
+ b  =
+ 
+    8.3658861  
+ 
+ Ps  =
+ 
+    474512.67  
+ 
+ 
+ (a)Synchronising Poweron full load(in watt/phase)=   
+ 
+    474512.67  
+ 
+ Ts  =
+ 
+    13593.787  
+ 
+ 
+ (b)Synchronising Torque(in Nm)=   
+ 
+    13593.787  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH14/EX14.9/Ex14_9.sce #
+ 
+ 
+ 
+ 
+ 
+ L  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    6600.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ Ia  =
+ 
+    50.  
+ 
+ L1  =
+ 
+    500.  
+ 
+ Ia1  =
+ 
+    43.738657  
+ 
+ pf1  =
+ 
+    0.8747731  
+ 
+ a1  =
+ 
+    28.981862  
+ 
+ b  =
+ 
+    0.5538953  
+ 
+ P1  =
+ 
+    276.94765  
+ 
+ Pl  =
+ 
+    750.  
+ 
+ P2  =
+ 
+  - 473.05235  
+ 
+ pf2  =
+ 
+    0.7264108  
+ 
+ Ia2  =
+ 
+    60.21201  
+ 
+ 
+ (a)Armature current of second machine(in A)=   
+ 
+    60.21201  
+ 
+ 
+ (b)Power factor of both machines=   
+ 
+    0.7264108  
+ 
+    0.8747731  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH14/EX14.10/Ex14_10.sce #
+ 
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    300.  
+ 
+ P2  =
+ 
+    500.  
+ 
+ P3  =
+ 
+    200.  
+ 
+ P4  =
+ 
+    100.  
+ 
+ Pa  =
+ 
+    500.  
+ 
+ pf1  =
+ 
+    0.8  
+ 
+ pf2  =
+ 
+    0.707  
+ 
+ pf3  =
+ 
+    0.9  
+ 
+ pfa  =
+ 
+    0.8  
+ 
+ La  =
+ 
+    1100.  
+ 
+ Lr  =
+ 
+    623.49262  
+ 
+ Pb  =
+ 
+    600.  
+ 
+ Prl  =
+ 
+    375.  
+ 
+ Pc  =
+ 
+    248.49262  
+ 
+ pfb  =
+ 
+    0.9238989  
+ 
+ pfl  =
+ 
+    0.8699681  
+ 
+ 
+ (a)Load supplied by second machine(in KW) and its power factor=   
+ 
+    600.  
+ 
+    0.9238989  
+ 
+ 
+ (b)Power factor of load=   
+ 
+    0.8699681  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH15/EX15.6/Ex15_6.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ f  =
+ 
+    50.  
+ 
+ I  =
+ 
+    30.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ Pl  =
+ 
+    10.  
+ 
+ e  =
+ 
+    0.85  
+ 
+ Pi  =
+ 
+    11.764706  
+ 
+ Ii  =
+ 
+    15.437173  
+ 
+ Ia  =
+ 
+    24.  
+ 
+ Ir  =
+ 
+    18.  
+ 
+ i  =
+ 
+    39.437173  
+ 
+ It  =
+ 
+    23.712999  
+ 
+ pfm  =
+ 
+    0.6510005  
+ 
+ Wi  =
+ 
+    18.071732  
+ 
+ 
+ (a)Input power(in KVA)=   
+ 
+    18.071732  
+ 
+ 
+ (b)Power factor=   
+ 
+    0.6510005  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH15/EX15.7/Ex15_7.sce #
+ 
+ 
+ 
+ 
+ 
+ Pm  =
+ 
+    40.  
+ 
+ Pl  =
+ 
+    300.  
+ 
+ pfm  =
+ 
+    0.85  
+ 
+ pfl  =
+ 
+    0.9  
+ 
+ Pt  =
+ 
+    340.  
+ 
+ Pr  =
+ 
+    164.66952  
+ 
+ Pri  =
+ 
+    185.9233  
+ 
+ Ps  =
+ 
+    21.253786  
+ 
+ pf  =
+ 
+    0.8830811  
+ 
+ 
+ (a)Power supplied by synchronous motor(in KVA)=   
+ 
+    21.253786  
+ 
+ 
+ (b)Power factor of synchronous machine=   
+ 
+    0.8830811  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH15/EX15.8/Ex15_8.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    500.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ e  =
+ 
+    0.9  
+ 
+ L  =
+ 
+    625.  
+ 
+ Ps  =
+ 
+    125.  
+ 
+ 
+ (a)Power alternator can supply(in KW)=   
+ 
+    125.  
+ 
+ Pr  =
+ 
+    375.  
+ 
+ pfm  =
+ 
+    0.3162278  
+ 
+ 
+ (b)Power factor of synchronous motor=   
+ 
+    0.3162278  
+ 
+ l  =
+ 
+    112.5  
+ 
+ 
+ (c)Load taken by motor(in Kw)=   
+ 
+    112.5  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH15/EX15.9/Ex15_9.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    50000.  
+ 
+ V  =
+ 
+    11.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ r  =
+ 
+    0.01  
+ 
+ Wc  =
+ 
+    150.  
+ 
+ Wf  =
+ 
+    100.  
+ 
+ Ww  =
+ 
+    250.  
+ 
+ Wco  =
+ 
+    200.  
+ 
+ We  =
+ 
+    15.  
+ 
+ Is  =
+ 
+    2624.3194  
+ 
+ Ps  =
+ 
+    206.61157  
+ 
+ Ws  =
+ 
+    103.30579  
+ 
+ Lt  =
+ 
+    1024.9174  
+ 
+ Po  =
+ 
+    40000.  
+ 
+ Pi  =
+ 
+    41024.917  
+ 
+ e  =
+ 
+    97.50172  
+ 
+ 
+ Efficieny of machine(in %)=   
+ 
+    97.50172  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH16/EX16.1/Ex16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Pi  =
+ 
+    750.  
+ 
+ p  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V  =
+ 
+    230.  
+ 
+ R1  =
+ 
+    2.  
+ 
+ X1  =
+ 
+    2.6  
+ 
+ Wf  =
+ 
+    25.  
+ 
+ R2  =
+ 
+    3.8  
+ 
+ X2  =
+ 
+    2.6  
+ 
+ Xm  =
+ 
+    56.  
+ 
+ r2  =
+ 
+    1.9  
+ 
+ x2  =
+ 
+    1.3  
+ 
+ xm  =
+ 
+    28.  
+ 
+ s  =
+ 
+    0.05  
+ 
+ Z1  =
+ 
+    2. + 2.6i  
+ 
+ Z2  =
+ 
+    12.939036 + 18.023323i  
+ 
+ Z3  =
+ 
+    0.8888323 + 1.2718786i  
+ 
+ Z  =
+ 
+    15.827868 + 21.895201i  
+ 
+ I  =
+ 
+    4.9874006 - 6.8992325i  
+ 
+ 
+ (a)Input Current(in A)=   
+ 
+    4.9874006 - 6.8992325i  
+ 
+ pf  =
+ 
+    0.5858473  
+ 
+ 
+ (b)Power factor=   
+ 
+    0.5858473  
+ 
+ Wp  =
+ 
+    1147.1021  
+ 
+ 
+ (c)Input power(in watts)=   
+ 
+    1147.1021  
+ 
+ z2  =
+ 
+    38.02223  
+ 
+ v2  =
+ 
+    188.88026  
+ 
+ i2  =
+ 
+    4.9676272  
+ 
+ z3  =
+ 
+    1.6246155  
+ 
+ v3  =
+ 
+    13.209635  
+ 
+ i3  =
+ 
+    8.1309304  
+ 
+ Tf  =
+ 
+    937.73814  
+ 
+ 
+ (d)Torque due to forward field(in Nm)=   
+ 
+    937.73814  
+ 
+ Tb  =
+ 
+    64.416849  
+ 
+ 
+ (e)Torque due to backward field(in Nm)=   
+ 
+    64.416849  
+ 
+ T  =
+ 
+    873.32129  
+ 
+ 
+ (f)Torque(in Nm)=   
+ 
+    873.32129  
+ 
+ Wo  =
+ 
+    804.65523  
+ 
+ 
+ (g)Output(in Watts)=   
+ 
+    804.65523  
+ 
+ e  =
+ 
+    70.146781  
+ 
+ 
+ (h)Efficiency(in %)=   
+ 
+    70.146781  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH16/EX16.2/Ex16_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Wc  =
+ 
+    60.  
+ 
+ a  =
+ 
+    90.  
+ 
+ V  =
+ 
+    230.  
+ 
+ v  =
+ 
+    207.  
+ 
+ Ic  =
+ 
+    0.2898551  
+ 
+ rc  =
+ 
+    714.15  
+ 
+ 
+ Equivalent circuit resistance(in ohms)=   
+ 
+    714.15  
+ 
+grepthis#Electrical_Machines_M._V._Despande_833/CH17/EX17.1/Ex17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    25.  
+ 
+ P  =
+ 
+    2.  
+ 
+ l  =
+ 
+    0.4  
+ 
+ n  =
+ 
+    1800.  
+ 
+ V  =
+ 
+    230.  
+ 
+ Il  =
+ 
+    1.  
+ 
+ f  =
+ 
+    50.  
+ 
+ fr  =
+ 
+    30.  
+ 
+ Eb  =
+ 
+    205.  
+ 
+ Er  =
+ 
+    6.8333333  
+ 
+ fac  =
+ 
+    24.532099  
+ 
+ n  =
+ 
+    1471.926  
+ 
+ 
+ (a)Speed(in rpm)=   
+ 
+    1471.926  
+ 
+ pf  =
+ 
+    0.8375479  
+ 
+ 
+ (b)Power factor=   
+ 
+    0.8375479  
+ 

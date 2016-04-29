@@ -1,0 +1,60 @@
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.5/ex9_5.sce
+ 
+syms K a
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.5/ex9_5.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.7.b/ex9_7_2.sce
+mode(2);errcatch(-1,"stop");driver("GIF");H=syslin('c',k/(s*(s^2+s+4)))
+                                                         !--error 4 
+Undefined variable: k
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.7.b/ex9_7_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.13.b/ex9_13_2.sce
+mode(2);errcatch(-1,"stop");driver("GIF");syms K
+                                            !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.13.b/ex9_13_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.14/ex9_14.sce
+ 
+ H  =
+ 
+           10          
+    ----------------   
+            2       3  
+    s + 0.6s + 0.05s   
+ 
+ 
+ 
+ 
+ 
+chart(list(1,0))
+                 !--error 4 
+Undefined variable: chart
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.14/ex9_14.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.15/ex9_15.sce
+ 
+ H  =
+ 
+            10           
+    ------------------   
+             2        3  
+    s + 0.15s + 0.005s   
+ 
+ 
+ 
+ 
+ 
+chart(list(1,0))
+                 !--error 4 
+Undefined variable: chart
+at line       7 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.15/ex9_15.sce',-1)
+ 

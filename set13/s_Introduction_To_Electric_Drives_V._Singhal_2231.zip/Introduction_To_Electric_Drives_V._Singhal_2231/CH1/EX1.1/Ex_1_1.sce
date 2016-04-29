@@ -1,0 +1,14 @@
+errcatch(-1,"stop");mode(2);//Example 1_1
+;
+;
+
+//Given data
+alfa1=0.35;
+alfa2=0.4;
+IG=40*10^-3;//A
+
+//Solution :
+IA=alfa2*IG/(1-(alfa1+alfa2));//A
+disp(IA,"Anode current in A : ");
+
+exit();

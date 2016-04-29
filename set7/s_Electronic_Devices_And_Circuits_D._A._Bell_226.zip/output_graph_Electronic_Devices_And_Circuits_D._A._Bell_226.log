@@ -1,0 +1,109 @@
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ Vbe  =
+ 
+    0.7  
+ 
+ 
+ drawing dc load line   
+ 
+ Rldc  =
+ 
+    4900.  
+ 
+ 
+  for Vce   
+ 
+ 
+ Vce  =
+ 
+    20.  
+ 
+ 
+ plot point A at   
+ 
+ Ic  =
+ 
+    0.0040816  
+ 
+ 
+ plot point B Ic=4.08mA and Vce=0   
+ 
+ 
+  draw dc laod line through point A nad B   
+ 
+ Vb  =
+ 
+    6.259542  
+ 
+ Ve  =
+ 
+    5.559542  
+ 
+ Ic  =
+ 
+    0.0020591  
+ 
+ Ie  =
+ 
+    0.0020591  
+ 
+ 
+ drawing the ac load line   
+ 
+ Rlac  =
+ 
+    2200.  
+ 
+ Vce  =
+ 
+    4.5299972  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vg  =
+ 
+    5.2083333  
+ 
+ 
+ when Id=0   
+ 
+ 
+ Vgs  =
+ 
+    5.2083333  
+ 
+ 
+  plot point A at Id=0 and Vgs=5.2   
+ 
+ 
+ Id  =
+ 
+    0.0020833  
+ 
+ 
+  plot point B at Id=2.08mA and Vgs=0   
+ 
+ 
+  where the base line intersect the transfer characteristics    
+ 
+ 
+ Vdsmin  =
+ 
+    10.  
+ 
+ Vdsmax  =
+ 
+    13.5  
+ 

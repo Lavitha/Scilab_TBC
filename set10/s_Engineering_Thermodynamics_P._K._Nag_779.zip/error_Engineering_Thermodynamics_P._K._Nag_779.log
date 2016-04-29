@@ -1,0 +1,234 @@
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH8/EX8.9/8_9.sce
+ 
+ 
+ 
+I = m*cp*((T1-T2)-T0*(log(T1/T2)));
+                    !--error 4 
+Undefined variable: T0
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH8/EX8.9/8_9.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH8/EX8.20/8_20.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As T2s> T2 so the process must be polytropic   
+ 
+ 
+ 
+ 
+ 
+ The polytropic index is   
+ 
+    1.3318342  
+ 
+ 
+ 
+Wa = cp*(T1-T2)-(V2^2/2)*1e-03 ;
+                   !--error 4 
+Undefined variable: V2
+at line      14 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH8/EX8.20/8_20.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH9/EX9.6/9_6.sce
+ 
+ 
+ 
+vg_ = [vg1_ vg2_]; T_ = [T1 T2];
+                           !--error 4 
+Undefined variable: T1
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH9/EX9.6/9_6.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH10/EX10.3/10_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If the fluid is in the air   
+ 
+ 
+ The final pressure is    
+ 
+    4800000.  
+ 
+ Pa   
+ 
+ 
+ The change in internal energy is   
+ 
+    0.  
+ 
+ kJ   
+ 
+ 
+ Work done is   
+ 
+  - 455.95499  
+ 
+ kJ   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q12 = T*(s2-s1)
+              !--error 4 
+Undefined variable: s1
+at line      19 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH10/EX10.3/10_3.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH12/EX12.8/12_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIR = wg*cpg*((833-300)-300*(log(833/300)));
+           !--error 4 
+Undefined variable: cpg
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH12/EX12.8/12_8.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH13/EX13.4/13_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wnet = Q1*n1;
+            !--error 4 
+Undefined variable: n1
+at line      20 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH13/EX13.4/13_4.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH13/EX13.8/13_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4s = T3*(P4/P3)^((g-1)/g);
+        !--error 4 
+Undefined variable: T3
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH13/EX13.8/13_8.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH17/EX17.4/17_4.sce
+errcatch(-1,"stop");mode(2);Px = 16kPa; Poy = 70kPa;
+                                      !--error 276 
+Missing operator, comma, or semicolon.
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH17/EX17.4/17_4.sce',-1)
+ 
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH17/EX17.7/17_7.sce
+ 
+ 
+ 
+ 
+ Pressure Py is   
+ 
+    1.80665  
+ 
+ bar   
+ 
+ 
+ 
+ 
+ Stagnation pressure is   
+ 
+    2.8729028  
+ 
+ bar   
+ 
+ 
+ 
+ 
+ Stagnation temperature is   
+ 
+    461.43705  
+ 
+ K   
+ 
+sysx = cp*log(Ty/Tx)-R*log(Py/Px);
+                       !--error 4 
+Undefined variable: R
+at line      11 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH17/EX17.7/17_7.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH18/EX18.8/18_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ Power required by the blower is   
+ 
+    98.441  
+ 
+ kW   
+ 
+ 
+ V21  =
+ 
+    0.7  
+ 
+P2v = P1v*(1/V12)^g;
+               !--error 4 
+Undefined variable: V12
+at line       9 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH18/EX18.8/18_8.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH18/EX18.9/18_9.sce
+ 
+ 
+ 
+T2s = T1*(P21)^((g-1)/g);
+                   !--error 4 
+Undefined variable: g
+at line       4 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH18/EX18.9/18_9.sce',-1)
+ 
+ERROR: Engineering_Thermodynamics_P._K._Nag_779/CH18/EX18.10/18_10.sce
+ 
+ 
+T2s = T1*(P21)^((g-1)/g);
+                   !--error 4 
+Undefined variable: g
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Thermodynamics_P._K._Nag_779/CH18/EX18.10/18_10.sce',-1)
+ 

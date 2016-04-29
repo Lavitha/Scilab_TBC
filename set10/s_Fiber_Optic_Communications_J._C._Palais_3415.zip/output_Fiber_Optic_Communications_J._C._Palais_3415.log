@@ -1,0 +1,104 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 70
+
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH2/EX2.6/Ex_2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ spotsize  =
+ 
+    0.001  
+ 
+ lambda  =
+ 
+    0.0000008  
+ 
+ d1  =
+ 
+    10.  
+ 
+ d2  =
+ 
+    1000.  
+ 
+ d3  =
+ 
+    10000.  
+ 
+ 
+ div1  =
+ 
+    0.0005220  
+ 
+ wo1  =
+ 
+    0.0026101  
+ 
+ wo2  =
+ 
+    0.2610141  
+ 
+ wo3  =
+ 
+    2.6101411  
+ 
+ 
+ spot size1=   
+ 
+    2610.1411  
+ 
+ mm   
+ 
+ spot size1=   
+ 
+    261.01411  
+ 
+ mm   
+ 
+ spot size1=   
+ 
+    2.6101411  
+ 
+ mm   
+ 
+ 
+grepthis#Fiber_Optic_Communications_J._C._Palais_3415/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ lambda  =
+ 
+    0.0000009  
+ 
+ f_bw  =
+ 
+    0.01  
+ 
+ OS  =
+ 
+    1.000D+09  
+ 
+ delta_lambda  =
+ 
+    8.500D-09  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ delta_f1  =
+ 
+    3.529D+12  
+ 
+ delta_f2  =
+ 
+    10000000.  
+ 
+Channel separation for WDM system = 3.529412x10^12Hz 
+
+Channel separation for OFDM = 1.000000x10^7Hz 
+ 

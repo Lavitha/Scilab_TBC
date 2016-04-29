@@ -1,0 +1,225 @@
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.5/3_5.sce #
+[2J[0;0H 
+ 
+ 
+ R  =
+ 
+    8314.3  
+ 
+ T  =
+ 
+    700.  
+ 
+ T2  =
+ 
+    437.5  
+ 
+ T3  =
+ 
+    350.  
+ 
+ T4  =
+ 
+    350.  
+ 
+ p2  =
+ 
+    0.552  
+ 
+ p1  =
+ 
+    2.758  
+ 
+ cp  =
+ 
+    29.3  
+ 
+ R0  =
+ 
+    8.3  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ cv  =
+ 
+    21.  
+ 
+ Q1  =
+ 
+    9362725.8  
+ 
+ Q2  =
+ 
+  - 5512.5  
+ 
+ dH2  =
+ 
+  - 7691.25  
+ 
+ p3  =
+ 
+    0.4416  
+ 
+ p3  =
+ 
+    0.345  
+ 
+ Q3  =
+ 
+  - 2563.75  
+ 
+ dE3  =
+ 
+  - 1837.5  
+ 
+ W3  =
+ 
+  - 726.25  
+ 
+ T5  =
+ 
+    633.87527  
+ 
+ dH4  =
+ 
+    8317.5453  
+ 
+ W4  =
+ 
+  - 5961.3806  
+ 
+ Q5  =
+ 
+    1937.4547  
+ 
+ dE5  =
+ 
+    1388.6194  
+ 
+ W5  =
+ 
+    548.83529  
+ 
+ 
+ 
+ part a isothermal   
+ 
+dH = 0, dE=0,  Q= W = 9362 kJ/kmol 
+ 
+ part 2 isometric   
+ 
+dH = -7691 kJ/kmol, W=0,  Q= dE = -5512 kJ/kmol 
+ 
+ part 3 isobaric   
+ 
+dE = -1837 kJ/kmol, W= -726 kJ/kmol,  Q= dH = -2563 kJ/kmol 
+ 
+ part 4 adiabatic   
+ 
+dH = 8317 kJ/kmol, W= -dE = -5961 kJ/kmol,  Q= 0 kJ/kmol 
+ 
+ part 5 isobaric   
+ 
+dE = 1388 kJ/kmol, W= 548 kJ/kmol,  Q= dH = 1937 kJ/kmol 
+ 
+ The graph cannot be plotted since volume axis values are not known. In the textbook it is randomly drawn to be of that shape.   
+ 
+ 
+grepthis#Chemical_Engineering_Thermodynamics_T._E._Daubert_1922/CH3/EX3.6/3_6.sce #
+[2J[0;0H 
+ 
+ 
+ p  =
+ 
+    2.75    0.5    0.31    0.31    2.75  
+ 
+ v  =
+ 
+    116.17    654.8    654.8    597.    110.65  
+ 
+ t  =
+ 
+    440.    440.    170.    140.    410.  
+ 
+ h  =
+ 
+    3325.    3356.    2802.6    2738.5    3257.7  
+ 
+ e  =
+ 
+    3005.6    3028.6    2602.6    2553.6    2953.4  
+ 
+ 
+ dh1  =
+ 
+    31.  
+ 
+ de1  =
+ 
+    23.  
+ 
+ q2  =
+ 
+  - 426.  
+ 
+ dh2  =
+ 
+  - 553.4  
+ 
+ dh3  =
+ 
+  - 64.1  
+ 
+ de3  =
+ 
+  - 49.  
+ 
+ W3  =
+ 
+  - 17.918  
+ 
+ Q3  =
+ 
+  - 66.918  
+ 
+ dh4  =
+ 
+    519.2  
+ 
+ de4  =
+ 
+    399.8  
+ 
+ dh5  =
+ 
+    67.3  
+ 
+ de5  =
+ 
+    52.2  
+ 
+ W5  =
+ 
+    15.18  
+ 
+ q5  =
+ 
+    67.38  
+ 
+ 
+In case 1 , dH = 31.0 kJ/kg dE = 23.0 kJ/kg W= pDv kJ/kg Q= 23.0 + W kJ/kg 
+
+ In case 2, W =0 kJ/kg Q = dE = -426 kJ/kg dH = -553.4 kJ/kg 
+
+ In case 3, dH= -64.1 kJ/kg dE = -49.0 kJ/kg W= -17.9 kJ/kg Q = -66.9 kJ/kg 
+
+ In case 4, Q= 0 kJ/kg dH = 519.2 kJ/kg dE = -W = 399.8 kJ/kg 
+
+ In case 5, dH = 67.3 kJ/kg dE = 52.2 kJ/kg W = 15.2 kJ/kg Q = 67.4 kJ/kg 
+ 
+ 
+ 
+ 

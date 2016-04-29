@@ -1,0 +1,164 @@
+ERROR: Engineering_Physics__D._K._Bhattacharya_1952/CH7/EX7.2/Ex7_2.sce
+ 
+ ni  =
+ 
+    1.500D+10  
+ 
+ Nd  =
+ 
+    1.000D+16  
+ 
+ T  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ n0  =
+ 
+    1.000D+16  
+ 
+ p0  =
+ 
+    22500.  
+ 
+ E  =
+ 
+    5.552D-20  
+ 
+Hole concentration (in cm^-3) 
+ 
+    22500.  
+ 
+Location of Ef relative to Ei   (in eV) 
+ 
+    0.3469849  
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+ 
+ !--error 10000 
+legend: No 'Polyline' handle found.
+at line      73 of function legend called by :  
+legend(["Ec";"Ef";"Ei";"Ev"]);
+at line      27 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics__D._K._Bhattacharya_1952/CH7/EX7.2/Ex7_2.sce',-1)
+ 
+ERROR: Engineering_Physics__D._K._Bhattacharya_1952/CH12/EX12.22/Ex22.sce
+ 
+ ni  =
+ 
+    1.500D+10  
+ 
+ Nd  =
+ 
+    5.000D+15  
+ 
+ T  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ n0  =
+ 
+    5.000D+15  
+ 
+ p0  =
+ 
+    45000.  
+ 
+ E  =
+ 
+    5.265D-20  
+ 
+Hole concentration (in cm^-3) 
+ 
+    45000.  
+ 
+Location of Ef relative to Ei   (in eV) 
+ 
+    0.3290497  
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+WARNING: Transposing row vector X to get compatible dimensions
+plot2d(X,Y)
+            !--error 999 
+plot2d: Wrong size for input arguments: Incompatible sizes.
+ 
+Error 999 : in plot2d called by plot 
+ 
+ 
+ 
+ !--error 10000 
+legend: No 'Polyline' handle found.
+at line      73 of function legend called by :  
+legend(["Ec";"Ef";"Ei";"Ev"]);
+at line      27 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Physics__D._K._Bhattacharya_1952/CH12/EX12.22/Ex22.sce',-1)
+ 

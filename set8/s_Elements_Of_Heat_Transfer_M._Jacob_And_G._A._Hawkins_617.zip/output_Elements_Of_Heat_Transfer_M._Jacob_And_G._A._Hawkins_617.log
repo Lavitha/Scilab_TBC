@@ -1,0 +1,1391 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 61
+
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.1/Example3_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The heat loss for each square foot of wall surface is 264 Btu/hr-ft^2 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.2/Example3_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The temperature at the contact of firebrick and insulating brick is 1312 degF 
+ 
+ 
+
+ The temperature at the contact of insulating brick and red brick is 375 degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.3/Example3_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Heat loss per linear foot is 115 Btu/hr 
+ 
+ 
+
+ Total heat loss through 30 ft of pipe is 3480 Btu/hr 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.4/Example3_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The heat loss is found to be 323 Btu/hr-ft 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.5/Example3_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Heat loss through flat slab is 18.1 Btu/hr 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.8/Example3_8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Assuming t2=700.0  degF and t2=300.0 degF 
+ th1[1]=-300.0 degF and th2[1]=300.0 degF 
+ Since th2[1] is not equal to th3[1], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=550.0  degF and t2=300.0 degF 
+ th1[2]=0.0 degF and th2[2]=150.0 degF 
+ Since th2[2] is not equal to th3[2], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=550.0  degF and t2=375.0 degF 
+ th1[3]=75.0 degF and th2[3]=0.0 degF 
+ Since th2[3] is not equal to th3[3], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=587.5  degF and t2=375.0 degF 
+ th1[4]=0.0 degF and th2[4]=37.5 degF 
+ Since th2[4] is not equal to th3[4], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=587.5  degF and t2=393.8 degF 
+ th1[5]=18.8 degF and th2[5]=-0.1 degF 
+ Since th2[5] is not equal to th3[5], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=596.9  degF and t2=393.8 degF 
+ th1[6]=0.0 degF and th2[6]=9.3 degF 
+ Since th2[6] is not equal to th3[6], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=596.9  degF and t2=398.5 degF 
+ th1[7]=4.7 degF and th2[7]=-0.1 degF 
+ Since th2[7] is not equal to th3[7], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=599.3  degF and t2=398.5 degF 
+ th1[8]=-0.1 degF and th2[8]=2.3 degF 
+ Since th2[8] is not equal to th3[8], hence other values of t2 and t3 are to be assumed
+
+ Assuming t2=599.3  degF and t2=399.6 degF 
+ th1[9]=1.0 degF and th2[9]=0.1 degF 
+ Since th2[9] is not equal to th3[9], hence other values of t2 and t3 are to be assumed
+ 
+ 
+
+Assuming t2=600 degF and t3=400 degF, th2=th3. 
+
+Hence Steady state condition is satisfied at grid temperatures of 400 degF and 600 degF 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH3/EX3.10/Example3_10.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Total heat flow per unit depth is 2029.5Btu/hr 
+ 
+ 
+
+ Shape factor is 7.52ft 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.1/Example4_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ 
+ 
+Heat entering per unit time is 176.00 Btu/hr 
+ 
+ 
+ Heat coming per unit time is 99.44 Btu/hr 
+ 
+ 
+ Heat energy stored in wall is 76.56 Btu/hr 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ Time derivative of temperature wrt time at x=0ft is 0.51 degF/hr
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ Time derivative of temperature wrt time at x=9/12ft is 0.05 degF/hr
+ 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.2/Example4_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ 
+ 
+Heat entering per unit time is 17.60 Btu/hr 
+ 
+ 
+ Heat coming per unit time is 281.60 Btu/hr 
+ 
+ 
+ Heat energy stored in wall is -264.00 Btu/hr 
+ 
+ 
+ 
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ Time derivative of temperature wrt time at x=0ft is -2.56 degF/hr
+ 
+WARNING: Feature derivative is obsolete.
+         Please use numderivative instead.
+         This feature will be permanently removed in Scilab 6.0
+
+ 
+ Time derivative of temperature wrt time at x=9/12ft is -2.56 degF/hr
+ 
+ Teperature at each part of wall decreases equally 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.3/Example4_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temperaure at a distance of 7/12ft from surface is 713.5 degF 
+ 
+ 
+ 
+ Heat flowing at a distance of 7/12 ft from surface is 5546 Btu/hr
+ 
+ Total heat flow after 10hrs is 3.141593 Btu 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.4/Example4_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The tempearture at the center of steel sphere after 20 mins is 976 degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.6/Example4_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amplitude of tempearture at 2ft deep is 0.22 degF
+ 
+ Amplitude of tempearture at 6ft deep is 0.00 degF
+ 
+ At a depth of 2ft , temperature varies from 4.78 degF to 5.22 degF and at a depth of 6 ft, temperature remains constant at 5 degF 
+ 
+ 
+ Lag of temperature wave at a depth 2 ft is 17.2 hr 
+ 
+ Lag of temperature wave at a depth 6 ft is 51.6 hr 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.7/Example4_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amplitude of tempearture at 2ft deep is 0.11 degF
+ 
+ 
+ Lag of temperature wave at a depth 2 ft is 17.3 hr 
+ 
+ 
+ 
+ 
+ 
+ 
+ The temperaure at 1 ft depth is 0.11 degF 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.8/Example4_8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The time interval is to be of 0.195 hr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The temperatures at different positions 0.78 hr after, are as follows 
+ 
+ The temperature at point 1 is 370 degF 
+ The temperature at point 2 is 415 degF 
+ The temperature at point 3 is 444 degF 
+ The temperature at point 4 is 442 degF 
+ The temperature at point 5 is 404 degF 
+ The temperature at point 6 is 336 degF 
+ The temperature at point 7 is 250 degF 
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH4/EX4.9/Example4_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the time interval is to be of 0.013 hr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the temperatures at different positions 0.052 hr after, are as follows 
+ 
+ the temperature at point a is 944 degF 
+ 
+ the temperature at point a is 944 degF 
+ 
+ the temperature at point a is 944 degF 
+ 
+ the temperature at point a is 944 degF 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH5/EX5.1/Example5_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The maximum temperature of the coil was 126.1 degF 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH5/EX5.2/Example5_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The temperature diference between center and outer surface is 0.19 degF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Heat transfer per unit length at the outer surface is 23.6 Btu/hr 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH6/EX6.1/Example6_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reynolds Number is 179999 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH6/EX6.2/Example6_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reynolds Number is 38661 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH7/EX7.1/Example7_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The film coefficient for free convetion for the heated plate is 0.9 Btu/hr-ft^2/degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH7/EX7.2/Example7_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The film coefficient for free convetion for the heated plate is 1.33 Btu/hr-ft^2-degF 
+
+ The heat loss by natural convection from the square plate is 99.42 Btu/hr 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH7/EX7.3/Example7_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heat loss per unit square foot is 143 Btu/hr-ft^2 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH7/EX7.4/Example7_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The film coefficient for free convetion for the heated plate is 1.17 Btu/hr-ft^2-degF 
+
+ The heat loss by natural convection from the square plateis 151 Btu/hr 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH8/EX8.1/Example8_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The average film coefficient of heat transfer is 1267 Btu/hr-ft^2-degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH8/EX8.3/Example8_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heat transfer coefficient for air flowing is 10.4 Btu/hr-ft^2-degF 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.1/Example9_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temperature at free end of the copper rod is 196 degF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Temperature at free end of the iron rod is 151.80 degF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Temperature at free end of the glass rod is 80.03 degF 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.2/Example9_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The rate of heat loss by iron rod is 19 Btu/hr 
+ 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.3/Example9_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overall heat transfer coefficient is 330 Btu/hr-ft^2-degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.4/Example9_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overall heat transfer coefficient is 184 Btu/hr-ft^2-degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.5/Example9_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The log mean temperature difference is 232 degF 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.7/Example9_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The area of steam condenser is 94927 ft^2 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.8/Example9_8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The log mean temperature difference is 46 degF 
+ 
+ 
+ 
+ 
+ 
+ 
+ The overall heat transfer coefficient is 310 Btu/hr-ft^2-degF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The outer heat transfer coefficient is 1567 Btu/hr-ft^2-degF  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The inner heat transfer coefficient is 631 Btu/hr-ft^2-degF 
+ 
+ 
+ 
+ 
+ The overall heat transfer coefficient accordind to estabilished correlation  is 349 Btu/hr-ft^2-degF 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.9b/Example9_9b.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The temperature of surface is 667 degF 
+  
+ 
+The temperature of surface is 631 degF 
+  
+ 
+ 
+The heat absorbed by wall is -542376 Btu 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.9/Example9_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The product of overall heat transfer and total area is 1150 Btu/hr-degF 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.10/Example9_10.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The outlet temperature of oil is 74 degF 
+ 
+ 
+ 
+ 
+ The outlet tempearture of water is 77.2 degF 
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH9/EX9.11/Example9_11.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assuming t1=500.0 degF  t2=450.0degF  t3=350.0degF 
+ th1=50.0degF  th2=-50.0degF  th3=-50.0degF 
+ 
+Assuming t1=550.0 degF  t2=450.0degF  t3=350.0degF 
+ th1=-50.0degF  th2=0.0degF  th3=-50.0degF 
+ 
+Assuming t1=550.0 degF  t2=450.0degF  t3=325.0degF 
+ th1=-50.0degF  th2=-25.0degF  th3=0.0degF 
+ 
+Assuming t1=525.0 degF  t2=450.0degF  t3=325.0degF 
+ th1=0.0degF  th2=-50.0degF  th3=0.0degF 
+ 
+Assuming t1=525.0 degF  t2=425.0degF  t3=325.0degF 
+ th1=-25.0degF  th2=0.0degF  th3=-25.0degF 
+ 
+Assuming t1=512.5 degF  t2=425.0degF  t3=325.0degF 
+ th1=0.0degF  th2=-12.5degF  th3=-25.0degF 
+ 
+Assuming t1=512.5 degF  t2=425.0degF  t3=312.5degF 
+ th1=0.0degF  th2=-25.0degF  th3=0.0degF 
+ 
+Assuming t1=512.5 degF  t2=412.5degF  t3=312.5degF 
+ th1=-12.5degF  th2=0.0degF  th3=-12.5degF 
+ 
+Assuming t1=506.2 degF  t2=412.5degF  t3=312.5degF 
+ th1=0.1degF  th2=-6.3degF  th3=-12.5degF 
+ 
+Assuming t1=506.2 degF  t2=412.5degF  t3=306.3degF 
+ th1=0.1degF  th2=-12.5degF  th3=-0.1degF 
+ 
+Assuming t1=506.2 degF  t2=406.3degF  t3=306.3degF 
+ th1=-6.1degF  th2=-0.1degF  th3=-6.3degF 
+ 
+Assuming t1=506.2 degF  t2=406.3degF  t3=303.1degF 
+ th1=-6.1degF  th2=-3.3degF  th3=0.1degF 
+ 
+Assuming t1=503.1 degF  t2=406.3degF  t3=303.1degF 
+ th1=0.1degF  th2=-6.4degF  th3=0.1degF 
+ 
+Assuming t1=503.1 degF  t2=403.1degF  t3=303.1degF 
+ th1=-3.1degF  th2=0.0degF  th3=-3.1degF 
+ 
+ 
+This way assumption must be continued till all sink strengths are zero 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH10/EX10.1/Example10_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat transfer coefficient for steam condensing on a horizontal tube is 2797 Btu/hr-ft^2-degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH11/EX11.1/Example11_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The net radiant interchange between two bodies of unit area is 8826 Btu/hr-ft^2 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH11/EX11.2/Example11_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The net radiant interchange between two bodies of unit area is 4291391 Btu/hr-ft^2 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH11/EX11.3/Example11_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The net radiant interchange between two bodies of unit area is 76367 Btu/hr-ft^2 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH11/EX11.4/Example11_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The net radiant interchange between two parallel black discs is 6484 Btu/hr 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH11/EX11.5/Example11_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The net radiant interchange between two parallel very large planes per square foot is 4019 Btu/hr 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH11/EX11.6/Example11_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The net radiant interchange between two bodies of unit area is 3708 Btu/hr-ft^2 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH11/EX11.7/Example11_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The net radiant interchange per foot length of pipe is 215.2 Btu/hr-ft 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH12/EX12.1/Example12_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The assumption of T2=120 comes out to be satisfactory and hc+hr=2.0 
+  
+ 
+The heat loss per unit foot of pipe is 167 Btu/hr-ft 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH12/EX12.2/Example12_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The heat loss per square foot of pipe is 1211 Btu/hr-ft 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH14/EX14.1/Example14_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The temperature of gas is 1112 degF 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH15/EX15.1/Example15_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The pressure drop is 154 lb/sq.ft 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heat loss per hour of air is 0.821416 Btu/hr 
+  
+ 
+The film coefficient of heat transfer on the inner pipe wall is 10.3 Btu/hr-ft^2-degF 
+ 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.1/Example16_1.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diffusion coefficient is 0.200 cm^3/sec  
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.2/Example16_2.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diffusion coefficient is 0.082 cm^3/sec  
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX12.3/Example16_3.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The amount of ammonia diffusing through the stagnant air is 0.1 lb-mol/hr-ft^2 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.4/Example16_4.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The rate of diffusion iof hydrogen in rubber is 4.59*10^-8 lb-mole/hr 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.5/Example16_5.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The amount of water evaporated per hour is 0.0024 lb mol/hr-ft^2 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.6/Example16_6.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The amount of water evaporated per hour is 0.119 lb mol/hr-ft^2 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.7/Example16_7.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The amount of water evaporated per hour is 0.0873 lb mol/hr-ft^2 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.8/Example16_8.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The humidity of air at dry conditions is 0.00868 lbm/lbm of dry air 
+ 
+grepthis#Elements_Of_Heat_Transfer_M._Jacob_And_G._A._Hawkins_617/CH16/EX16.9/Example16_9.sci #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The mass transfer coefficient based on pressure is 22.1 lbm/hr-ft^2-atm 

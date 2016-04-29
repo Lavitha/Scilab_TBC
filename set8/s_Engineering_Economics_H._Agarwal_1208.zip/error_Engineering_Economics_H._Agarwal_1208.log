@@ -1,0 +1,115 @@
+ERROR: Engineering_Economics_H._Agarwal_1208/CH9/EX9.7.e/Exa7_e.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ SQa  =
+ 
+    10.  
+ 
+ AQa  =
+ 
+    10.  
+ 
+ SPa  =
+ 
+    8.  
+ 
+ APa  =
+ 
+    7.  
+ 
+ SQb  =
+ 
+    8.  
+ 
+ AQb  =
+ 
+    9.  
+ 
+ SPb  =
+ 
+    6.  
+ 
+ APb  =
+ 
+    7.  
+ 
+ SQc  =
+ 
+    4.  
+ 
+ AQc  =
+ 
+    5.  
+ 
+ SPc  =
+ 
+    12.  
+ 
+ APc  =
+ 
+    11.  
+ 
+ 
+MSUVa=SPa*(SQa-RSQa);
+                 !--error 4 
+Undefined variable: RSQa
+at line      20 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Economics_H._Agarwal_1208/CH9/EX9.7.e/Exa7_e.sce',-1)
+ 
+ERROR: Engineering_Economics_H._Agarwal_1208/CH4/EX4.14.4/Exa14_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PI=P/inINV;//unitless
+     !--error 4 
+Undefined variable: P
+at line      47 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Engineering_Economics_H._Agarwal_1208/CH4/EX4.14.4/Exa14_4.sce',-1)
+ 

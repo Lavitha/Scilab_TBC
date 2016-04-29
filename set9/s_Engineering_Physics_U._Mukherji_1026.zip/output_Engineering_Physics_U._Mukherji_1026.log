@@ -1,0 +1,3967 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 91
+
+grepthis#Engineering_Physics_U._Mukherji_1026/CH1/EX1.1/Example1_1.sce #
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+ M  =
+ 
+    65.34  
+ 
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ 
+ d111  =
+ 
+    2.080D-08  
+ 
+ 
+ a  =
+ 
+    3.603D-08  
+ 
+ 
+ D  =
+ 
+    9.2801367  
+ 
+ 
+density of Cu-metal
+ 
+ 
+D=9.28 g/cc 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH1/EX1.2/Example1_2.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    1.200D-10  
+ 
+ 
+ b  =
+ 
+    1.800D-10  
+ 
+ 
+ c  =
+ 
+    2.000D-10  
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    6.000D-11  
+ 
+ 
+ b1  =
+ 
+    6.000D-11  
+ 
+ 
+ c1  =
+ 
+    2.000D-10  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a2  =
+ 
+    1.200D-10  
+ 
+ 
+ b2  =
+ 
+    1.200D-10  
+ 
+ 
+ c2  =
+ 
+    4.000D-10  
+ 
+ 
+ 
+ 
+ 
+ 
+intercept of DEF plane
+ 
+ 
+along x-axis=0.00000000012
+ 
+ 
+along y-axis=0.00000000012
+ 
+ 
+
+along z-axis=0.00000000040 
+ 
+
+DEF is the reqd. plane 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH2/EX2.1/Example2_1.sce #
+ 
+ 
+ Tn  =
+ 
+    285.  
+ 
+ 
+ Tc1  =
+ 
+    20.  
+ 
+ 
+ Ti1  =
+ 
+    550.  
+ 
+ 
+ Tc2  =
+ 
+  - 20.  
+ 
+ 
+ Ti2  =
+ 
+    590.  
+ 
+ 
+higher temperature
+ 
+ 
+Ti1=550 deg. C 
+ 
+
+temperature of inversion
+ 
+ 
+Ti2=590 deg. C 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH2/EX2.2/Example2_2.sce #
+ 
+ 
+ aFe  =
+ 
+    16.65  
+ 
+ 
+ aAg  =
+ 
+    2.86  
+ 
+ 
+ bFe  =
+ 
+  - 0.095  
+ 
+ 
+ bAg  =
+ 
+    0.017  
+ 
+ 
+ aFe_Ag  =
+ 
+    13.79  
+ 
+ 
+ bFe_Ag  =
+ 
+  - 0.112  
+ 
+ 
+ a  =
+ 
+    13.79  
+ 
+ 
+ b  =
+ 
+  - 0.112  
+ 
+ 
+ Tn  =
+ 
+    123.125  
+ 
+ 
+ t  =
+ 
+    100.  
+ 
+ 
+ EFe_Ag  =
+ 
+    819.  
+ 
+ 
+neutral temp. of Fe-Ag thermocouple
+ 
+ 
+Tn=123.125 deg. C 
+ 
+
+thermo e.m.f of thermocouple
+ 
+ 
+EFe_Ag=819 volts 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH2/EX2.3/Example2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ aFe_Pb  =
+ 
+    0.001734  
+ 
+ 
+ aFe_Cu  =
+ 
+    0.001598  
+ 
+ 
+ aCu_Pb  =
+ 
+    0.000136  
+ 
+ 
+ bFe_Pb  =
+ 
+  - 0.0000049  
+ 
+ 
+ bFe_Cu  =
+ 
+  - 0.0000058  
+ 
+ 
+ bCu_Pb  =
+ 
+    0.0000009  
+ 
+ 
+ a  =
+ 
+    0.001598  
+ 
+ 
+ b  =
+ 
+  - 0.0000058  
+ 
+ 
+ t  =
+ 
+    100.  
+ 
+ 
+ EFe_Cu  =
+ 
+    0.1307  
+ 
+ 
+e.m.f of termocouple
+ 
+ 
+EFe_Cu=0.1307 Volt 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH3/EX3.1/Example3_1.sce #
+ 
+ 
+ S  =
+ 
+    0.000002  
+ 
+ 
+ T  =
+ 
+    2000.  
+ 
+ 
+ A  =
+ 
+    602000.  
+ 
+ 
+ b  =
+ 
+    52400.  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ I  =
+ 
+    0.0000201  
+ 
+ 
+ J  =
+ 
+    10.072588  
+ 
+ 
+ no  =
+ 
+    6.295D+19  
+ 
+ 
+maximum obtainable electronic emission current
+ 
+ 
+ 
+    0.0000201  
+ 
+ 
+
+emission current density
+ 
+ 
+J=10.073 A/m2 
+ 
+
+no. of electrons emitted per unit area per sec.
+ 
+ 
+ 
+    6.295D+19  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH3/EX3.2/Example3_2.sce #
+ 
+ 
+ Ip1  =
+ 
+    0.02  
+ 
+ 
+ Ip2  =
+ 
+    0.03  
+ 
+ 
+ Vp1  =
+ 
+    80.  
+ 
+ 
+ 
+ 
+ Vp2  =
+ 
+    104.82966  
+ 
+ 
+plate voltage for 30mA current
+ 
+ 
+Vp2=104.83 volts 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH4/EX4.1/Example4_1.sce #
+ 
+ 
+ V1  =
+ 
+    343.  
+ 
+ 
+ 
+ 
+ V2  =
+ 
+    1372.  
+ 
+ 
+ 
+ 
+ dt  =
+ 
+    3.  
+ 
+ 
+ S  =
+ 
+    1372.  
+ 
+ 
+distance between two ships
+ 
+ 
+S=1372 m 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH4/EX4.2/Example4_2.sce #
+ 
+ 
+ V  =
+ 
+    1700.  
+ 
+ 
+ t  =
+ 
+    0.65  
+ 
+ 
+ d  =
+ 
+    552.5  
+ 
+ 
+ n  =
+ 
+    70000.  
+ 
+ 
+ lam  =
+ 
+    0.0242857  
+ 
+ 
+depth of sea
+ 
+ 
+d=552.5 m 
+ 
+
+wavelength of pulse
+ 
+ 
+lam=0.0243 m 
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH4/EX4.3/Example4_3.sce #
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ 
+ l  =
+ 
+    0.04  
+ 
+ 
+ E  =
+ 
+    1.150D+11  
+ 
+ 
+ D  =
+ 
+    7250.  
+ 
+ 
+ n  =
+ 
+    49784.016  
+ 
+ 
+natural frequency
+ 
+ 
+n=49784.02 Hz 
+ 
+
+frequency of rod is more than audible range, rod cannot be used in magnetostriction oscillator
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH5/EX5.1/Example5_1.sce #
+ 
+ 
+ T1  =
+ 
+    1.5  
+ 
+ 
+ T2  =
+ 
+    1.  
+ 
+ 
+ A  =
+ 
+    20.  
+ 
+ 
+ V  =
+ 
+    480.  
+ 
+ 
+ a  =
+ 
+    0.644  
+ 
+ 
+absorption coefficient
+ 
+ 
+a=0.644 Sabines 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH5/EX5.2/Example5_2.sce #
+ 
+ 
+ V  =
+ 
+    3000.  
+ 
+ 
+ T1  =
+ 
+    3.5  
+ 
+ 
+ A  =
+ 
+    138.  
+ 
+ 
+ l  =
+ 
+    20.  
+ 
+ 
+ b  =
+ 
+    15.  
+ 
+ 
+ h  =
+ 
+    10.  
+ 
+ 
+ S  =
+ 
+    1300.  
+ 
+ 
+ sum_a  =
+ 
+    0.1061538  
+ 
+ 
+ am  =
+ 
+    0.5  
+ 
+ 
+ a  =
+ 
+    0.106  
+ 
+ 
+ T2  =
+ 
+    2.5  
+ 
+ 
+ S1  =
+ 
+    140.10152  
+ 
+ 
+area of wall covered by curtain cloth
+ 
+ 
+S1=140.102 sq.m 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH5/EX5.3/Example5_3.sce #
+ 
+ 
+ V  =
+ 
+    1450.  
+ 
+ 
+ A1  =
+ 
+    3.36  
+ 
+ 
+ A2  =
+ 
+    7.8  
+ 
+ 
+ A3  =
+ 
+    6.8  
+ 
+ 
+ A4  =
+ 
+    1.2  
+ 
+ 
+ A5  =
+ 
+    100.  
+ 
+ 
+ sum_as  =
+ 
+    119.16  
+ 
+ 
+ T1  =
+ 
+    1.9591306  
+ 
+ 
+ T2  =
+ 
+    0.5819374  
+ 
+ 
+ T3  =
+ 
+    0.3962421  
+ 
+ 
+rev. time for case-1
+ 
+ 
+T1=1.959 sec 
+ 
+
+rev. time for case-2
+ 
+ 
+T2=0.582 sec 
+ 
+
+rev. time for case-3
+ 
+ 
+T3=0.396 sec 
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.1/Example6_1.sce #
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ V  =
+ 
+    1000.  
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ v  =
+ 
+    18752289.  
+ 
+ 
+final velocity of electron
+ 
+ 
+v=18752289 m/sec 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.2/Example6_2.sce #
+ 
+ 
+ Jc  =
+ 
+    1.  
+ 
+ 
+ sig  =
+ 
+    58000000.  
+ 
+ 
+ E  =
+ 
+    1.724D-08  
+ 
+ 
+electric field established
+ 
+ 
+ 
+    1.724D-08  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.3/Example6_3.sce #
+ 
+ 
+ vd  =
+ 
+    0.001  
+ 
+ 
+ sig  =
+ 
+    61700000.  
+ 
+ 
+ ue  =
+ 
+    0.0056  
+ 
+ 
+ rhoe  =
+ 
+  - 1.102D+10  
+ 
+ 
+ Jc1  =
+ 
+    11017857.  
+ 
+ 
+ E1  =
+ 
+    0.1785714  
+ 
+ 
+ I  =
+ 
+    80.  
+ 
+ 
+ A  =
+ 
+    0.000009  
+ 
+ 
+ Jc2  =
+ 
+    8888888.9  
+ 
+ 
+ E2  =
+ 
+    0.1440663  
+ 
+ 
+ V  =
+ 
+    0.0005  
+ 
+ 
+ d  =
+ 
+    0.003  
+ 
+ 
+ E3  =
+ 
+    0.1666667  
+ 
+ 
+E-field due to Jc1
+ 
+ 
+E1=0.178571 V/m 
+ 
+
+E-field due to Jc2
+ 
+ 
+E2=0.144066 V/m 
+ 
+
+E-field due to cube
+ 
+ 
+E3=0.166667 V/m 
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.4/Example6_4.sce #
+ 
+ 
+ sig  =
+ 
+    38200000.  
+ 
+ 
+ L  =
+ 
+    304.8  
+ 
+ 
+ r  =
+ 
+    0.01016  
+ 
+ 
+ V  =
+ 
+    1.2  
+ 
+ 
+ Jc  =
+ 
+    150393.7  
+ 
+ 
+ A  =
+ 
+    0.0003241  
+ 
+ 
+ Ic  =
+ 
+    48.746867  
+ 
+ 
+ P  =
+ 
+    58.496241  
+ 
+ 
+current density
+ 
+ 
+Jc=150394 A/m2 
+ 
+
+total current
+ 
+ 
+Ic=48.75 A 
+ 
+
+power dissipation
+ 
+ 
+P=58.50 watt 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.5/Example6_5.sce #
+ 
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ 
+ um  =
+ 
+    0.39  
+ 
+ 
+ up  =
+ 
+    0.19  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ L  =
+ 
+    0.006  
+ 
+ 
+ R  =
+ 
+    120.  
+ 
+ 
+ A  =
+ 
+    0.0000005  
+ 
+ 
+ sigp  =
+ 
+    100.  
+ 
+ 
+ p  =
+ 
+    3.289D+21  
+ 
+ 
+ Na  =
+ 
+    3.289D+21  
+ 
+ 
+ n  =
+ 
+    1.900D+17  
+ 
+ 
+ sigm  =
+ 
+    0.011856  
+ 
+ 
+ ratio  =
+ 
+    8434.5479  
+ 
+ 
+p-type impurity concentration
+ 
+ 
+ 
+    3.289D+21  
+ 
+ 
+
+proportion of conductivity due to hole and electron
+ 
+ 
+ratio=8435:1 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.6/Example6_6.sce #
+ 
+ 
+ ni  =
+ 
+    2.000D+19  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ up  =
+ 
+    0.17  
+ 
+ 
+ un  =
+ 
+    0.36  
+ 
+ 
+ V  =
+ 
+    2.  
+ 
+ 
+ A  =
+ 
+    0.0001  
+ 
+ 
+ d  =
+ 
+    0.0003  
+ 
+ 
+ I  =
+ 
+    1.1306667  
+ 
+ 
+current produced in Ge-plate
+ 
+ 
+I=1.1307 A 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.7/Example6_7.sce #
+ 
+ 
+ rho  =
+ 
+    63000.  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ up  =
+ 
+    0.14  
+ 
+ 
+ un  =
+ 
+    0.05  
+ 
+ 
+ ni  =
+ 
+    5.221D+14  
+ 
+ 
+intrinsic carrier concentration
+ 
+ 
+ 
+    5.221D+14  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.8/Example6_8.sce #
+ 
+ 
+ L  =
+ 
+    0.001  
+ 
+ 
+ R  =
+ 
+    1.5  
+ 
+ 
+ A  =
+ 
+    0.000001  
+ 
+ 
+ Ey  =
+ 
+    0.6  
+ 
+ 
+ w  =
+ 
+    0.001  
+ 
+ 
+ d  =
+ 
+    0.001  
+ 
+ 
+ I  =
+ 
+    0.12  
+ 
+ 
+ Bz  =
+ 
+    0.05  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ sigp  =
+ 
+    666.66667  
+ 
+ 
+ Vhp  =
+ 
+    0.0006  
+ 
+ 
+ Rhp  =
+ 
+    0.0001  
+ 
+ 
+ Uhp  =
+ 
+    0.0666667  
+ 
+ 
+ theta  =
+ 
+    0.0033333  
+ 
+ 
+ theta  =
+ 
+    0.1909852  
+ 
+ 
+ p  =
+ 
+    6.250D+22  
+ 
+ 
+hall voltage :Vhp=0.0006 Volt
+ 
+ 
+
+hall coeff. :Rhp=0.00010 m3/e
+ 
+ 
+
+hall mobility :Uhp=0.0667 m2/VS
+ 
+ 
+
+hall angle :theta=0.19 deg.
+ 
+ 
+
+density of charge carrier
+ 
+ 
+ 
+    6.250D+22  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.9/Example6_9.sce #
+ 
+ 
+ n  =
+ 
+    1.400D+24  
+ 
+ 
+ ni  =
+ 
+    1.400D+19  
+ 
+ 
+ Nd  =
+ 
+    1.400D+24  
+ 
+ 
+ p  =
+ 
+    1.400D+14  
+ 
+ 
+ nbyp  =
+ 
+    1.000D+10  
+ 
+ 
+electron-hole concentration ratio
+ 
+ 
+ 
+    1.000D+10  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.10/Example6_10.sce #
+ 
+ 
+ Rhp  =
+ 
+    0.000366  
+ 
+ 
+ rho  =
+ 
+    0.00893  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ p  =
+ 
+    1.708D+22  
+ 
+ 
+ Uhp  =
+ 
+    0.0409854  
+ 
+ 
+ Bz  =
+ 
+    0.5  
+ 
+ 
+ theta  =
+ 
+    0.0204899  
+ 
+ 
+ theta  =
+ 
+    1.1739821  
+ 
+ 
+density of charge carrier
+ 
+ 
+ 
+    1.708D+22  
+ 
+ 
+
+hall angle
+ 
+ 
+theta=1.17 deg. 
+ 
+
+hall mobility
+ 
+ 
+Uhp=0.0410 m2/VS 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.11/Example6_11.sce #
+ 
+ 
+ ni  =
+ 
+    2.500D+13  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ un  =
+ 
+    3900.  
+ 
+ 
+ up  =
+ 
+    1900.  
+ 
+ 
+ sigin  =
+ 
+    0.0232  
+ 
+ 
+ 
+ 
+ rhoGe  =
+ 
+    4.420D+22  
+ 
+ 
+ Nd  =
+ 
+    4.420D+14  
+ 
+ 
+ sigex  =
+ 
+    0.275808  
+ 
+ 
+extrinsic conductivity
+ 
+ 
+sigex=0.2758 ohm cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.12/Example6_12.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ Eg  =
+ 
+    5.6  
+ 
+ 
+ Ef  =
+ 
+    2.8  
+ 
+ 
+ Ec  =
+ 
+    5.6  
+ 
+ 
+ K  =
+ 
+    1.380D-23  
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ 
+ KT  =
+ 
+    4.140D-21  
+ 
+ 
+ KT  =
+ 
+    0.025875  
+ 
+ 
+ 
+ 
+ Fermi_F  =
+ 
+    Inf  
+ 
+ 
+probability of electron on CB
+ 
+ 
+ 
+    Inf  
+ 
+ 
+
+it is infinite in negative direction for an insulator like diamond, so diamond cannot take part in conduction 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.13/Example6_13.sce #
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ n  =
+ 
+    7.000D+21  
+ 
+ 
+ ue  =
+ 
+    0.39  
+ 
+ 
+ V  =
+ 
+    0.001  
+ 
+ 
+ A  =
+ 
+    0.000001  
+ 
+ 
+ L  =
+ 
+    0.01  
+ 
+ 
+ I  =
+ 
+    0.0000437  
+ 
+ 
+ Rhe  =
+ 
+  - 0.0008929  
+ 
+ 
+ Bz  =
+ 
+    0.2  
+ 
+ 
+ d  =
+ 
+    0.001  
+ 
+ 
+ Vhe  =
+ 
+  - 0.0000078  
+ 
+ 
+current through bar I=0.0000437 A
+ 
+ 
+
+hall coeff. Rhe=-0.000893 m3/c
+ 
+ 
+
+hall voltage Vhe=-0.00000780 volt
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.14/Example6_14.sce #
+ 
+ 
+ J2  =
+ 
+    0.0000002  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ V  =
+ 
+    0.1  
+ 
+ 
+ K  =
+ 
+    1.380D-23  
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ 
+ J  =
+ 
+    4.570D-80  
+ 
+ 
+forward bias current flow
+ 
+ 
+ 
+    4.570D-80  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.15/Example6_15.sce #
+ 
+ 
+ V1  =
+ 
+    1.4  
+ 
+ 
+ I1  =
+ 
+    0.06  
+ 
+ 
+ V2  =
+ 
+    1.5  
+ 
+ 
+ I2  =
+ 
+    0.085  
+ 
+ 
+ Rs1  =
+ 
+    23.333333  
+ 
+ 
+ Rs2  =
+ 
+    17.647059  
+ 
+ 
+ dV  =
+ 
+    0.1  
+ 
+ 
+ dI  =
+ 
+    0.025  
+ 
+ 
+ Rd  =
+ 
+    4.  
+ 
+ 
+static resistance
+ 
+ 
+Rs1=23.33 ohm
+ 
+ 
+Rs2=17.65 ohm
+ 
+ 
+dynamic resistance
+ 
+ 
+Rd=4.00 ohm 
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.16/Example6_16.sce #
+ 
+ 
+ Ie  =
+ 
+    0.001  
+ 
+ 
+ Ib  =
+ 
+    0.00002  
+ 
+ 
+ Ic  =
+ 
+    0.00098  
+ 
+ 
+ B  =
+ 
+    49.  
+ 
+ 
+ alpha  =
+ 
+    0.98  
+ 
+ 
+alpha=0.98 
+ 
+ 
+B=49.00 
+ 
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.17/Example6_17.sce #
+ 
+ 
+ alpha  =
+ 
+    0.99  
+ 
+ 
+ Icbo  =
+ 
+    0.0000005  
+ 
+ 
+ B  =
+ 
+    99.  
+ 
+ 
+ Iceo  =
+ 
+    0.00005  
+ 
+ 
+B=99 
+ 
+ 
+Iceo=0.00005000 A 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.18/Example6_18.sce #
+ 
+ 
+ delIc  =
+ 
+    0.0025  
+ 
+ 
+ delIb  =
+ 
+    0.00004  
+ 
+ 
+ B  =
+ 
+    62.5  
+ 
+ 
+ alpha  =
+ 
+    0.9842520  
+ 
+ 
+alpha=0.98425
+ 
+ 
+B=62.50 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.19/Example6_19.sce #
+ 
+ 
+ Ie  =
+ 
+    0.001  
+ 
+ 
+ Ib  =
+ 
+    0.00004  
+ 
+ 
+ Ic  =
+ 
+    0.00096  
+ 
+ 
+ alpha  =
+ 
+    0.96  
+ 
+ 
+current gain
+ 
+ 
+alpha=0.96 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH6/EX6.20/Example6_20.sce #
+ 
+ 
+ V  =
+ 
+    1.5  
+ 
+ 
+ R  =
+ 
+    1000.  
+ 
+ 
+ Ic  =
+ 
+    0.0015  
+ 
+ 
+ alpha  =
+ 
+    0.96  
+ 
+ 
+ Ie  =
+ 
+    0.0015625  
+ 
+ 
+ Ib  =
+ 
+    0.0000625  
+ 
+ 
+base current
+ 
+ 
+Ib=0.000063 A 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.1/Example8_1.sce #
+ 
+ 
+ alpha  =
+ 
+    0.01  
+ 
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+ lam  =
+ 
+    0.00006  
+ 
+ 
+ u  =
+ 
+    1.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.02  
+ 
+ 
+distance of 10th fringe from edge of wedge
+ 
+ 
+x=0.02 cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.2/Example8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.00005  
+ 
+ 
+ u  =
+ 
+    1.33  
+ 
+ 
+ 
+ 
+ lam1  =
+ 
+    0.000266  
+ 
+ 
+ 
+ 
+ lam2  =
+ 
+    0.0000887  
+ 
+ 
+ 
+ 
+ lam3  =
+ 
+    0.0000532  
+ 
+ 
+ 
+ 
+ lam4  =
+ 
+    0.000038  
+ 
+ 
+wavelength that is strongly reflected in visible spectrum
+ 
+ 
+ 
+    0.0000532  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.3/Example8_3.sce #
+ 
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+ D10  =
+ 
+    0.5  
+ 
+ 
+ lam  =
+ 
+    0.00005  
+ 
+ 
+ R  =
+ 
+    125.  
+ 
+ 
+ D50  =
+ 
+    1.118034  
+ 
+ 
+ r50  =
+ 
+    0.5590170  
+ 
+ 
+radius of 50th dark ring
+ 
+ 
+r50=0.56 cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.5/Example8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lam  =
+ 
+    0.000055  
+ 
+ 
+ V  =
+ 
+    0.2  
+ 
+ 
+ A  =
+ 
+    10000.  
+ 
+ 
+ t  =
+ 
+    0.00002  
+ 
+ 
+ u  =
+ 
+    1.375  
+ 
+ 
+RI of oil
+ 
+ 
+u=1.38 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.6/Example8_6.sce #
+ 
+ 
+ lam  =
+ 
+    0.0000006  
+ 
+ 
+ u  =
+ 
+    1.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    10.  
+ 
+ 
+ t  =
+ 
+    0.0000020  
+ 
+ 
+thickness of air film
+ 
+ 
+t=0.000001995000 cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.7/Example8_7.sce #
+ 
+ 
+ ug  =
+ 
+    1.5  
+ 
+ 
+ uo  =
+ 
+    1.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lam1  =
+ 
+    0.0000007  
+ 
+ 
+ lam2  =
+ 
+    0.0000005  
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.0000007  
+ 
+ 
+thickness of layer
+ 
+ 
+t=0.000000673077 m 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.8/Example8_8.sce #
+ 
+ 
+ Dn  =
+ 
+    1.4  
+ 
+ 
+ D  =
+ 
+    1.27  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ u1  =
+ 
+    1.2152024  
+ 
+ 
+RI of liquid
+ 
+ 
+u=1.22 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.9/Example8_9.sce #
+ 
+ 
+ alpha  =
+ 
+    0.0000485  
+ 
+ 
+ B  =
+ 
+    0.5  
+ 
+ 
+ u  =
+ 
+    1.4  
+ 
+ 
+ lam  =
+ 
+    0.0000679  
+ 
+ 
+wavelength of light used
+ 
+ 
+lam=0.000067873915 m 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.10/Example8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lam  =
+ 
+    0.00006  
+ 
+ 
+ u  =
+ 
+    1.5  
+ 
+ 
+ delt  =
+ 
+    0.0002  
+ 
+ 
+difference t2-t1 from fig.
+ 
+ 
+delt=0.0002 cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.11/Example8_11.sce #
+ 
+ 
+ 
+ 
+ lam  =
+ 
+    0.0000589  
+ 
+ 
+ u  =
+ 
+    1.5  
+ 
+ 
+ r  =
+ 
+    1.0471976  
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.0000393  
+ 
+ 
+smallest thickness of glass plate
+ 
+ 
+t=0.00003927 cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.12/Example8_12.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    0.05  
+ 
+ 
+ lam  =
+ 
+    0.00005  
+ 
+ 
+ bb  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ bd  =
+ 
+    25.  
+ 
+ 
+position of brightest spot
+ 
+ 
+b=50.00 cm 
+ 
+
+position of darkest spot
+ 
+ 
+b=25.00 cm 
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.13/Example8_13.sce #
+ 
+ 
+ lam  =
+ 
+    0.0000006  
+ 
+ 
+ b1  =
+ 
+    30.  
+ 
+ 
+ b2  =
+ 
+    6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+  - 30.  
+ 
+ 
+ R1  =
+ 
+    0.003  
+ 
+ 
+ F1  =
+ 
+    15.  
+ 
+ 
+distance of source from zone plate
+ 
+ 
+a=-30.00 cm 
+ 
+
+radius of 1st zone plate
+ 
+ 
+R1=0.0030 cm 
+ 
+
+principal focal length
+ 
+ 
+F1=15.00 cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.14/Example8_14.sce #
+ 
+ 
+ grat  =
+ 
+    0.0008  
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ theta  =
+ 
+    0.5235988  
+ 
+ 
+ 
+ 
+ 
+ 
+ lam  =
+ 
+    0.0002  
+ 
+ 
+wavelength of spectral line
+ 
+ 
+lam=0.000200 cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.15/Example8_15.sce #
+ 
+ 
+ lam  =
+ 
+    0.0000589  
+ 
+ 
+ grat  =
+ 
+    0.001  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nmax  =
+ 
+    16.969286  
+ 
+ 
+maximum order
+ 
+ 
+nmax=16.97  
+ 
+so maximum order=16
+ 
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH8/EX8.18/Example8_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ lam1  =
+ 
+    0.000054  
+ 
+ 
+ lam2  =
+ 
+    0.0000405  
+ 
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+ theta  =
+ 
+    0.5235988  
+ 
+ 
+ N  =
+ 
+    3086.4198  
+ 
+ 
+lines/cm in grating
+ 
+ 
+N=3086.42 lines/cm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.1/Example9_1.sce #
+ 
+ 
+ d  =
+ 
+    4.255D-10  
+ 
+ 
+ lam  =
+ 
+    1.549D-10  
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ theta  =
+ 
+    0.1830416  
+ 
+ 
+ theta  =
+ 
+    10.487508  
+ 
+ 
+ 
+ 
+ 
+ 
+ nmax  =
+ 
+    5.493867  
+ 
+ 
+smallest glancing angle
+ 
+ 
+theta=10.49 deg. 
+ 
+
+maximum order of reflection
+ 
+ 
+nmax=5.49 
+ 
+
+since fraction is meaningless for order nmax=5 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.2/Example9_2.sce #
+ 
+ 
+ V  =
+ 
+    60000.  
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ lam  =
+ 
+    1.940D-11  
+ 
+ 
+ h  =
+ 
+    6.208D-34  
+ 
+ 
+plancks constant
+ 
+ 
+ 
+    6.208D-34  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.3/Example9_3.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    3.000D-10  
+ 
+ 
+ d  =
+ 
+    2.121D-10  
+ 
+ 
+ theta  =
+ 
+    0.2181662  
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ lam  =
+ 
+    9.183D-11  
+ 
+ 
+ nmax  =
+ 
+    4.6202263  
+ 
+ 
+wavelength of x-ray beam
+ 
+ 
+ 
+    9.183D-11  
+ 
+ 
+
+highest braggs order
+ 
+ 
+nmax=4.62 
+ 
+
+fraction is meaningless so nmax=4 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.4/Example9_4.sce #
+ 
+ 
+ d  =
+ 
+    2.810D-10  
+ 
+ 
+ theta  =
+ 
+    0.2443461  
+ 
+ 
+ lam  =
+ 
+    1.360D-10  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ V  =
+ 
+    9100.  
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ h  =
+ 
+    6.599D-34  
+ 
+ 
+plancks constant
+ 
+ 
+ 
+    6.599D-34  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.5/Example9_5.sce #
+ 
+ 
+ 
+ 
+ thetaA  =
+ 
+    0.5235988  
+ 
+ 
+ 
+ 
+ thetaB  =
+ 
+    1.0471976  
+ 
+ 
+ lamB  =
+ 
+    9.700D-11  
+ 
+ 
+ d  =
+ 
+    1.680D-10  
+ 
+ 
+ lamA  =
+ 
+    1.680D-10  
+ 
+ 
+wavelength of line A
+ 
+ 
+ 
+    1.680D-10  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.6/Example9_6.sce #
+ 
+ 
+ a  =
+ 
+    3.615D-10  
+ 
+ 
+ d111  =
+ 
+    2.087D-10  
+ 
+ 
+ theta  =
+ 
+    0.3787364  
+ 
+ 
+ lam  =
+ 
+    1.543D-10  
+ 
+ 
+wavelength of X-rays
+ 
+ 
+ 
+    1.543D-10  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.7/Example9_7.sce #
+ 
+ 
+ V  =
+ 
+    50000.  
+ 
+ 
+ lam  =
+ 
+    2.480D-11  
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+ m  =
+ 
+    74.6  
+ 
+ 
+ N  =
+ 
+    6.022D+26  
+ 
+ 
+ rho  =
+ 
+    1990.  
+ 
+ 
+ a  =
+ 
+    6.291D-10  
+ 
+ 
+ 
+ 
+ d  =
+ 
+    3.146D-10  
+ 
+ 
+ theta  =
+ 
+    0.0394302  
+ 
+ 
+ theta  =
+ 
+    2.2591853  
+ 
+ 
+min. wavelength of spectrum from tube
+ 
+ 
+ 
+    2.480D-11  
+ 
+ 
+glancing angle for that wavelength
+ 
+ 
+theta=2.26 deg. 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH9/EX9.9/Example9_9.sce #
+ 
+ 
+ lam  =
+ 
+    5.800D-11  
+ 
+ 
+ theta1  =
+ 
+    0.1134464  
+ 
+ 
+ theta2  =
+ 
+    0.1596976  
+ 
+ 
+ theta3  =
+ 
+    0.2268928  
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    2.5617647  
+ 
+ 
+ d2  =
+ 
+    1.8236736  
+ 
+ 
+ d3  =
+ 
+    1.2891693  
+ 
+ 
+interplannar spacing of crystal
+ 
+ 
+2.56:1.82:1.29 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.1/Example10_1.sce #
+ 
+ 
+ L  =
+ 
+    1.330D-22  
+ 
+ 
+ B  =
+ 
+    0.025  
+ 
+ 
+ m  =
+ 
+    6.680D-27  
+ 
+ 
+ q  =
+ 
+    3.200D-19  
+ 
+ 
+ w  =
+ 
+    1197604.8  
+ 
+ 
+ E  =
+ 
+    7.964D-17  
+ 
+ 
+ E  =
+ 
+    497.75449  
+ 
+ 
+KE of particle
+ 
+ 
+E=497.75 ev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.2/Example10_2.sce #
+ 
+ 
+ R  =
+ 
+    0.35  
+ 
+ 
+ n  =
+ 
+    13800000.  
+ 
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+ 
+ B  =
+ 
+    0.9050143  
+ 
+ 
+ E  =
+ 
+    7.690D-13  
+ 
+ 
+ E  =
+ 
+    4806406.4  
+ 
+ 
+magnetic field induction
+ 
+ 
+B=0.91 wb/m2 
+ 
+
+maximum energy of proton
+ 
+ 
+E=4806406.42 ev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.3/Example10_3.sce #
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B  =
+ 
+    0.00119  
+ 
+ 
+ V  =
+ 
+    1000.  
+ 
+ 
+ v  =
+ 
+    18752289.  
+ 
+ 
+ R  =
+ 
+    0.0896249  
+ 
+ 
+ L  =
+ 
+    1.529D-24  
+ 
+ 
+radius of electron trajectory
+ 
+ 
+R=0.09 m 
+ 
+
+angular momentum of electron
+ 
+ 
+ 
+    1.529D-24  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.5/Example10_5.sce #
+ 
+ 
+ m  =
+ 
+    1.670D-27  
+ 
+ 
+ q  =
+ 
+    1.600D-19  
+ 
+ 
+ B  =
+ 
+    0.5  
+ 
+ 
+ n  =
+ 
+    7624188.9  
+ 
+ 
+ R  =
+ 
+    1.  
+ 
+ 
+ E  =
+ 
+    1.916D-12  
+ 
+ 
+ E  =
+ 
+    11976048.  
+ 
+ 
+frequency of oscillation voltage
+ 
+ 
+n=7624188.89 Hz 
+ 
+
+maximum energy of proton
+ 
+ 
+E=11976047.90 ev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.6/Example10_6.sce #
+ 
+ 
+ q  =
+ 
+    3.200D-19  
+ 
+ 
+ m  =
+ 
+    6.680D-27  
+ 
+ 
+ B  =
+ 
+    1.5  
+ 
+ 
+ v  =
+ 
+    7263000.  
+ 
+ 
+ F  =
+ 
+    3.486D-12  
+ 
+ 
+force on particle
+ 
+ 
+ 
+    3.486D-12  
+ 
+ 
+ T  =
+ 
+    8.744D-08  
+ 
+ 
+ n  =
+ 
+    11436283.  
+ 
+ 
+
+periodic time
+ 
+ 
+ 
+    8.744D-08  
+ 
+ 
+
+resonance frequency
+ 
+ 
+n=11436283.34 Hz 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.7/Example10_7.sce #
+ 
+ 
+ n  =
+ 
+    12000000.  
+ 
+ 
+ mp  =
+ 
+    1.670D-27  
+ 
+ 
+ qp  =
+ 
+    1.600D-19  
+ 
+ 
+ Bp  =
+ 
+    0.7869690  
+ 
+ 
+ R  =
+ 
+    0.5  
+ 
+ 
+ Ep  =
+ 
+    1.187D-12  
+ 
+ 
+ Ep  =
+ 
+    7417007.7  
+ 
+ 
+ malp  =
+ 
+    6.680D-27  
+ 
+ 
+ qalp  =
+ 
+    3.200D-19  
+ 
+ 
+ Balp  =
+ 
+    1.5739379  
+ 
+ 
+ Ealp  =
+ 
+    4.747D-12  
+ 
+ 
+ Ealp  =
+ 
+    29668031.  
+ 
+ 
+flux density for proton
+ 
+ 
+Bp=0.79 Wb/m2 
+ 
+
+flux density for alpha particle
+ 
+ 
+Balp=1.57 Wb/m2 
+ 
+
+energy of proton
+ 
+ 
+Ep=7417007.71 ev 
+ 
+
+energy of alpha particle
+ 
+ 
+Ealp=29668030.83 ev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.8/Example10_8.sce #
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ me  =
+ 
+    9.100D-31  
+ 
+ 
+ q  =
+ 
+    3.200D-19  
+ 
+ 
+ malp  =
+ 
+    6.680D-27  
+ 
+ 
+ B  =
+ 
+    0.05  
+ 
+ 
+ V  =
+ 
+    20000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Re  =
+ 
+    0.0095394  
+ 
+ 
+ Ralp  =
+ 
+    0.5779273  
+ 
+ 
+ S  =
+ 
+    1.1367759  
+ 
+ 
+linear separation between two particles on common boundary wall
+ 
+ 
+S=1.14 m 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.9/Example10_9.sce #
+ 
+ 
+ V1  =
+ 
+    200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ i  =
+ 
+    1.0471976  
+ 
+ 
+ r  =
+ 
+    0.7853982  
+ 
+ 
+ V2  =
+ 
+    300.  
+ 
+ 
+ pd  =
+ 
+    100.  
+ 
+ 
+potential difference between two region
+ 
+ 
+
+pd=100.00 Volts 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.10/Example10_10.sce #
+ 
+ 
+ 
+ 
+ E  =
+ 
+    250.  
+ 
+ 
+ R  =
+ 
+    1.000D-08  
+ 
+ 
+ rho  =
+ 
+    1000.  
+ 
+ 
+ m  =
+ 
+    4.189D-21  
+ 
+ 
+ W  =
+ 
+    4.105D-20  
+ 
+ 
+ q  =
+ 
+    1.642D-22  
+ 
+ 
+charge on water drop
+ 
+ 
+ 
+    1.642D-22  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.11/Example10_11.sce #
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ v  =
+ 
+    500000.  
+ 
+ 
+ B  =
+ 
+    0.3  
+ 
+ 
+ N  =
+ 
+    6.025D+26  
+ 
+ 
+ M72  =
+ 
+    1.195D-25  
+ 
+ 
+ R72  =
+ 
+    1.2448133  
+ 
+ 
+ M74  =
+ 
+    74.  
+ 
+ 
+ R74  =
+ 
+    1.2793914  
+ 
+ 
+ S  =
+ 
+    0.0691563  
+ 
+ 
+linear separation of two line
+ 
+ 
+S=0.07 m 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH10/EX10.12/Example10_12.sce #
+ 
+ 
+ l  =
+ 
+    0.05  
+ 
+ 
+ d  =
+ 
+    0.3  
+ 
+ 
+ D  =
+ 
+    0.325  
+ 
+ 
+ y  =
+ 
+    0.01  
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ Va  =
+ 
+    1000.  
+ 
+ 
+ B  =
+ 
+    0.0000656  
+ 
+ 
+flux density
+ 
+ 
+B=0.00006563 Wb/m2 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.1/Example11_1.sce #
+ 
+ 
+ me  =
+ 
+    9.100D-31  
+ 
+ 
+ h  =
+ 
+    6.620D-34  
+ 
+ 
+ delx  =
+ 
+    1.000D-08  
+ 
+ 
+ delp  =
+ 
+    1.054D-26  
+ 
+ 
+ delv  =
+ 
+    11578.085  
+ 
+ 
+uncertainity in velocity
+ 
+ 
+delv=11578.08 m/sec 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.2/Example11_2.sce #
+ 
+ 
+ lam  =
+ 
+    2.865D-11  
+ 
+ 
+ mp  =
+ 
+    1.670D-27  
+ 
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ v  =
+ 
+    13846.652  
+ 
+ 
+ KE  =
+ 
+    1.601D-19  
+ 
+ 
+ KE  =
+ 
+    1.0005898  
+ 
+ 
+kinetic energy of proton
+ 
+ 
+KE=1.00 ev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.3/Example11_3.sce #
+ 
+ 
+ KEnu  =
+ 
+    4.000D-21  
+ 
+ 
+ mn  =
+ 
+    1.676D-27  
+ 
+ 
+ v  =
+ 
+    2184.7814  
+ 
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ 
+ lamn  =
+ 
+    1.810D-10  
+ 
+ 
+wavelength of beam of neutron
+ 
+ 
+lamn=0.000000000181 m 
+ 
+ p  =
+ 
+    3.662D-24  
+ 
+ 
+
+momentum of electron and photon
+ 
+ 
+p=0.00000000000000000000000366 kgm/sec 
+ 
+ me  =
+ 
+    9.100D-31  
+ 
+ 
+ ve  =
+ 
+    4023839.1  
+ 
+ 
+ Ee  =
+ 
+    7.367D-18  
+ 
+ 
+ Ee  =
+ 
+    46.043956  
+ 
+ 
+
+energy of electron
+ 
+ 
+Ee=46.04 ev 
+ 
+ Ep  =
+ 
+    1.099D-15  
+ 
+ 
+ Ep  =
+ 
+    6865.6755  
+ 
+ 
+
+energy of photon
+ 
+ 
+Ep=6865.68 ev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.4/Example11_4.sce #
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ V  =
+ 
+    200.  
+ 
+ 
+ lam  =
+ 
+    2.020D-12  
+ 
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ 
+ 
+ 
+ 
+ m  =
+ 
+    1.681D-27  
+ 
+ 
+mass of particle
+ 
+ 
+ 
+    1.681D-27  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.5/Example11_5.sce #
+ 
+ 
+ mn  =
+ 
+    1.676D-27  
+ 
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ En  =
+ 
+    1.600D-19  
+ 
+ 
+ v  =
+ 
+    13817.771  
+ 
+ 
+ lam  =
+ 
+    2.861D-11  
+ 
+ 
+de-broglie wavelength
+ 
+ 
+ 
+    2.861D-11  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.6/Example11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ rad  =
+ 
+    1.000D-14  
+ 
+ 
+ delx  =
+ 
+    2.000D-14  
+ 
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ delp  =
+ 
+    5.272D-21  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+    5.272D-21  
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ mo  =
+ 
+    9.100D-31  
+ 
+ 
+ E  =
+ 
+    1.584D-12  
+ 
+ 
+ E  =
+ 
+    9898258.4  
+ 
+ 
+E=9898258.36 ev 
+ 
+
+this value is much higher than experimentally obtained values of energy of electron
+ 
+ 
+of a radioactive nuclei i.e 4 Mev this proves that electron cannot reside within nucleus 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.7/Example11_7.sce #
+ 
+ 
+ m1  =
+ 
+    6.000D-08  
+ 
+ 
+ v1  =
+ 
+    80.  
+ 
+ 
+ p1  =
+ 
+    0.0000048  
+ 
+ 
+ h  =
+ 
+    6.625D-34  
+ 
+ 
+ lam1  =
+ 
+    1.380D-28  
+ 
+ 
+ m2  =
+ 
+    8.000D-27  
+ 
+ 
+ v2  =
+ 
+    1.3  
+ 
+ 
+ p2  =
+ 
+    1.040D-26  
+ 
+ 
+ lam2  =
+ 
+    6.370D-08  
+ 
+ 
+de-broglie wavelength for case-1
+ 
+ 
+ 
+    1.380D-28  
+ 
+ 
+
+de-broglie wavelength for case-2
+ 
+ 
+ 
+    6.370D-08  
+ 
+ 
+
+from case-1 it is  that for normal particles de-broglie wavelength is not visible it is very small 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH11/EX11.8/Example11_8.sce #
+ 
+ 
+ h  =
+ 
+    6.634D-34  
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ 
+ Ep  =
+ 
+    1.600D-14  
+ 
+ 
+ lamp  =
+ 
+    1.244D-11  
+ 
+ 
+ lame  =
+ 
+    1.244D-11  
+ 
+ 
+ v  =
+ 
+    58608059.  
+ 
+ 
+ KEe  =
+ 
+    1.563D-15  
+ 
+ 
+ KEe  =
+ 
+    9768.0098  
+ 
+ 
+kinetic energy of electron
+ 
+ 
+KEe=9768.01 ev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH12/EX12.1/Example12_1.sce #
+ 
+ 
+ n1  =
+ 
+    1.53  
+ 
+ 
+ n2  =
+ 
+    1.5  
+ 
+ 
+ lam  =
+ 
+    0.000001  
+ 
+ 
+ a  =
+ 
+    0.00005  
+ 
+ 
+ NA  =
+ 
+    0.3014963  
+ 
+ 
+ V  =
+ 
+    94.717846  
+ 
+ 
+normalised frequency
+ 
+ 
+V=94.72  
+ 
+ M  =
+ 
+    4485.7352  
+ 
+ 
+
+total no. of guided mode
+ 
+ 
+M=4485.74 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH12/EX12.2/Example12_2.sce #
+ 
+ 
+ lam  =
+ 
+    0.000001  
+ 
+ 
+ n1  =
+ 
+    1.53  
+ 
+ 
+ n2  =
+ 
+    1.5  
+ 
+ 
+ NA  =
+ 
+    0.3014963  
+ 
+ 
+ a  =
+ 
+    0.0000013  
+ 
+ 
+core radius
+ 
+ 
+a=0.00000127 m 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH12/EX12.3/Example12_3.sce #
+ 
+ 
+ NA  =
+ 
+    0.5  
+ 
+ 
+ n1  =
+ 
+    1.54  
+ 
+ 
+ n2  =
+ 
+    1.4565713  
+ 
+ 
+refractive index of cladding
+ 
+ 
+n2=1.46  
+ 
+ n  =
+ 
+    0.0541745  
+ 
+ 
+
+relative change refractive index of core
+ 
+ 
+n=0.05  
+ 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH12/EX12.4/Example12_4.sce #
+ 
+ 
+ NA  =
+ 
+    0.5  
+ 
+ 
+ n1  =
+ 
+    1.48  
+ 
+ 
+ n2  =
+ 
+    1.3929824  
+ 
+ 
+refractive index of cladding
+ 
+ 
+n2=1.39  
+ 
+ alpha  =
+ 
+    0.5235988  
+ 
+ 
+ alpha  =
+ 
+    30.  
+ 
+ 
+
+acceptance angle
+ 
+ 
+alpha=30.00 deg 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH13/EX13.1/Example13_1.sce #
+ 
+ 
+ 
+ 
+ M7Li3  =
+ 
+    7.018232  
+ 
+ 
+ Malpha  =
+ 
+    4.003874  
+ 
+ 
+ Mpr  =
+ 
+    1.008145  
+ 
+ 
+ 
+ 
+ delM  =
+ 
+    0.018629  
+ 
+ 
+ Q  =
+ 
+    17.343599  
+ 
+ 
+ Ey  =
+ 
+    9.15  
+ 
+ 
+ Ex  =
+ 
+    0.956401  
+ 
+ 
+kinetic energy of incident proton
+ 
+ 
+Ex=0.96 Mev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH13/EX13.2/Example13_2.sce #
+ 
+ 
+ M235U  =
+ 
+    235.  
+ 
+ 
+ m  =
+ 
+    0.001  
+ 
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ 
+ Eperfi  =
+ 
+    2.000D+08  
+ 
+ 
+ E  =
+ 
+    3.200D-11  
+ 
+ 
+ T  =
+ 
+    0.000001  
+ 
+ 
+ A  =
+ 
+    235.  
+ 
+ 
+ P  =
+ 
+    8.202D+13  
+ 
+ 
+power of explosion
+ 
+ 
+P=82015319148936.14 watt 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH13/EX13.4/Example13_4.sce #
+ 
+ 
+ n  =
+ 
+    0.4  
+ 
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ 
+ Eperfi  =
+ 
+    2.000D+08  
+ 
+ 
+ E  =
+ 
+    3.200D-11  
+ 
+ 
+ P  =
+ 
+    1.000D+08  
+ 
+ 
+ A  =
+ 
+    235.  
+ 
+ 
+ T  =
+ 
+    86400.  
+ 
+ 
+ m  =
+ 
+    263.36543  
+ 
+ 
+mass of 235U consumed/day
+ 
+ 
+m=263.37 gm 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH13/EX13.5/Example13_5.sce #
+ 
+ 
+ M2H1  =
+ 
+    2.01474  
+ 
+ 
+ M3H1  =
+ 
+    3.017  
+ 
+ 
+ M1n0  =
+ 
+    1.008986  
+ 
+ 
+ M4He2  =
+ 
+    4.00388  
+ 
+ 
+ 
+ 
+ 
+ 
+ Mreac  =
+ 
+    5.03174  
+ 
+ 
+ Mprod  =
+ 
+    5.012866  
+ 
+ 
+ Q  =
+ 
+    0.018874  
+ 
+ 
+ Q  =
+ 
+    17.571694  
+ 
+ 
+energy/reaction
+ 
+ 
+Q=17.57 Mev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH13/EX13.6/Example13_6.sce #
+ 
+ 
+ M7Li3  =
+ 
+    7.01818  
+ 
+ 
+ M1H1  =
+ 
+    1.0081  
+ 
+ 
+ M1n0  =
+ 
+    1.009  
+ 
+ 
+ BEpernu  =
+ 
+    0.0060171  
+ 
+ 
+ BEpernu  =
+ 
+    5.60196  
+ 
+ 
+binding energy per nucleon
+ 
+ 
+BE=5.60 Mev 
+grepthis#Engineering_Physics_U._Mukherji_1026/CH13/EX13.7/Example13_7.sce #
+ 
+ 
+ m  =
+ 
+    10000.  
+ 
+ 
+ N  =
+ 
+    6.023D+23  
+ 
+ 
+ Eperfi  =
+ 
+    2.000D+08  
+ 
+ 
+ E  =
+ 
+    3.200D-11  
+ 
+ 
+ A  =
+ 
+    235.  
+ 
+ 
+ T  =
+ 
+    86400.  
+ 
+ 
+ P  =
+ 
+    9.493D+09  
+ 
+ 
+power output
+ 
+ 
+P=9492513790.39 watt 

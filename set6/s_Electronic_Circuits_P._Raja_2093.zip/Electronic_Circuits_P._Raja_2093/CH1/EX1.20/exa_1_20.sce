@@ -1,0 +1,13 @@
+errcatch(-1,"stop");mode(2);// Exa 1.20
+;
+;
+
+// Given data
+Rf=100;// in kohm
+R1=20;// in kohm
+V1= 1.5;// in V
+Vo1= V1;
+Vo= -Rf/R1*Vo1;// in volts
+disp(Vo,"Output voltage in volts is : ")
+
+exit();

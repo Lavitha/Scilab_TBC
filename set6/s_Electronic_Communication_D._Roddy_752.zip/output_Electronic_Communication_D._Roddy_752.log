@@ -1,0 +1,2507 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 93
+
+grepthis#Electronic_Communication_D._Roddy_752/CH1/EX1.2.2/1_2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Ro  =
+ 
+    50.  
+ 
+ ILdB  =
+ 
+    6.  
+ 
+ IL  =
+ 
+    0.5011872  
+ 
+ 
+ R  =
+ 
+    16.613942  
+ 
+ 
+ The value of resistance R is   
+ 
+    16.613942  
+ 
+ ohm   
+ 
+ 
+ R3  =
+ 
+    66.824964  
+ 
+ 
+ The value of resistance R3 is   
+ 
+    66.824964  
+ 
+ ohm   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH1/EX1.2.3/1_2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Ro  =
+ 
+    50.  
+ 
+ ILdB  =
+ 
+    6.  
+ 
+ IL  =
+ 
+    0.5011872  
+ 
+ 
+ 
+ 
+ The value of resistance RA and RB is   
+ 
+    150.47602  
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ The value of resistance RC is   
+ 
+    37.351877  
+ 
+ ohm   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH1/EX1.2.4/1_2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of resistance R1 is   
+ 
+    43.30127  
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ The value of resistance R3 is   
+ 
+    86.60254  
+ 
+ ohm   
+ 
+ 
+ IL  =
+ 
+    0.5358984  
+ 
+ 
+ 
+ The value of insertion loss is   
+ 
+    5.418351  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH1/EX1.2.5/1_2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of resistance R2 is   
+ 
+    44.72136  
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ The value of resistance R3 is   
+ 
+    11.18034  
+ 
+ ohm   
+ 
+ 
+ IL  =
+ 
+    0.3167184  
+ 
+ 
+ 
+ The value of insertion loss is   
+ 
+    9.9865334  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH1/EX1.5.1/1_5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of self resonant freq is   
+ 
+    60.185426  
+ 
+ MHz   
+ 
+ 
+ 
+ 
+ The value of Q-factor is   
+ 
+    31.4  
+ 
+ 
+ 
+ 
+ The value of effective inductance is   
+ 
+    1.208522  
+ 
+ uH   
+ 
+ 
+ 
+ 
+ The value of effective Q-factor is   
+ 
+    25.98215  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH1/EX1.8.1/1_8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    85.  
+ 
+ c  =
+ 
+    0.01  
+ 
+ Rl  =
+ 
+    5000.  
+ 
+ r  =
+ 
+    75000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dr  =
+ 
+    784.9479 + 125.14772i  
+ 
+ 
+ 
+ 
+ The transfer impedance is   
+ 
+  - 85.950668 - 2250.0109i  
+ 
+ ohm   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH1/EX1.10.1/1_10_1.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    7.000D-11  
+ 
+ C2  =
+ 
+    1.500D-10  
+ 
+ Rl  =
+ 
+    200.  
+ 
+ Q  =
+ 
+    150.  
+ 
+ f  =
+ 
+    27000000.  
+ 
+ r  =
+ 
+    40000.  
+ 
+ 
+ 
+ 
+ The value of common resonant freq is   
+ 
+    169.56  
+ 
+ Mrad/sec   
+ 
+ 
+ 
+ 
+ The value of Gl is   
+ 
+    5.  
+ 
+ mSec   
+ 
+ 
+ ap  =
+ 
+    55.661149  
+ 
+ 
+ 
+ The value of alpha is    
+ 
+    3.1428571  
+ 
+ 
+ 
+ 
+ The value of effective load is   
+ 
+    1.9755102  
+ 
+ kohm   
+ 
+ 
+ 
+ 
+ The value of tuning capacitance is   
+ 
+    47.727273  
+ 
+ pF   
+ 
+ 
+ 
+ 
+ The value of Rd is   
+ 
+    18.535369  
+ 
+ kohm   
+ 
+ 
+ 
+ 
+ The value of -3dB BW is   
+ 
+    1.6888632  
+ 
+ MHz   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH2/EX2.13.1/2_13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The average energy is   
+ 
+    0.0018  
+ 
+ J   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.2.1/4_2_1.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    290.  
+ 
+ BW  =
+ 
+    1000000.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ R  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ The value of thernal noise power is   
+ 
+    4.002D-15  
+ 
+ W   
+ 
+ 
+ 
+ 
+ The value of RMS noise voltage is   
+ 
+    0.8946508  
+ 
+ uV   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.2.2/4_2_2.sce #
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    20000.  
+ 
+ R2  =
+ 
+    50000.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ T  =
+ 
+    290.  
+ 
+ BW  =
+ 
+    100000.  
+ 
+ 
+ 
+ 
+ a)i)The value of RMS noise voltage is   
+ 
+    5.6582683  
+ 
+ uV   
+ 
+ 
+ 
+ 
+ a)ii)The value of RMS noise voltage is   
+ 
+    8.9465077  
+ 
+ uV   
+ 
+ 
+ Rser  =
+ 
+    70000.  
+ 
+ 
+ 
+ b)The value of RMS noise voltage is   
+ 
+    10.585651  
+ 
+ uV   
+ 
+ 
+ Rpar  =
+ 
+    14285.714  
+ 
+ 
+ 
+ c)The value of RMS noise voltage is   
+ 
+    4.7821095  
+ 
+ uV   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.2.3/4_2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ 
+ 
+ The value of Rd is    
+ 
+    1.5915494  
+ 
+ kohm   
+ 
+ 
+ 
+ The value of effective noise voltage is   
+ 
+    0.5047526  
+ 
+ uV   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.3.1/4_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of noise current In is    
+ 
+    17.888544  
+ 
+ nA   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.11.1/4_11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of shot noise current Ina is    
+ 
+    4.  
+ 
+ nA   
+ 
+ 
+ 
+ 
+ The value of noise voltage across Rs is    
+ 
+    10.  
+ 
+ uV   
+ 
+ 
+ 
+ 
+ The value of noise voltage across Rn is    
+ 
+    6.9282032  
+ 
+ uV   
+ 
+ 
+ 
+ 
+ The value of thermal noise voltage at Rs is   
+ 
+    4.8989795  
+ 
+ uV   
+ 
+ 
+ Vn  =
+ 
+    0.0000085  
+ 
+ 
+ The value of total noise voltage Vn is    
+ 
+    8.5064681  
+ 
+ uV   
+ 
+ 
+ 
+ 
+ The value of signal to noise ratio is    
+ 
+    1.4050144  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.12.1/4_12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of output signal to noise ratio is    
+ 
+    55.228787  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.12.2/4_12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of output signal to noise ratio is    
+ 
+    40.  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.15.1/4_15_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The overall noise fig is   
+ 
+    10.443021  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.17.1/4_17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of noise factor is    
+ 
+    3.9810717  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.18.1/4_18_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of equivalent noise at room temp is   
+ 
+    4306.1903  
+ 
+ K   
+ 
+ 
+ 
+ 
+ The value of equivalent noise at noise temp=90 is   
+ 
+    90.043062  
+ 
+ K   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH4/EX4.19.1/4_19_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of hot temp Th is    
+ 
+    7574.4707  
+ 
+ K   
+ 
+ 
+ 
+ 
+ The value of equivalent noise temp Te is    
+ 
+    759.13934  
+ 
+ K   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH5/EX5.4.1/5_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The voltage gain is   
+ 
+  - 78.191674  
+ 
+ 
+ 
+ 
+ The Millar capacitance is   
+ 
+    47.515004  
+ 
+ pF   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH5/EX5.4.2/5_4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RD1_eff  =
+ 
+    796.61674  
+ 
+ 
+ 
+ 
+ The effective Q-factor is   
+ 
+    12.678549  
+ 
+ 
+ 
+ 
+ The voltage gain is   
+ 
+    62.136106  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH6/EX6.3.1/6_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.The minimum value of beta is   
+ 
+    44.540741  
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.The value of resistor R=   
+ 
+    21.6  
+ 
+ Kohm   
+ 
+ 
+ 
+ 3.The value of capacitor is    
+ 
+    4494.1933  
+ 
+ pF   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH6/EX6.3.2/6_3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of capacitor is    
+ 
+    767.4419  
+ 
+ pF   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH6/EX6.4.1/6_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.The value of capacitor is    
+ 
+    75.  
+ 
+ pF   
+ 
+ 
+ 
+ 
+ 2.The frequency of oscillation is   
+ 
+    918881.49  
+ 
+ Hz   
+ 
+ 
+ 
+ 
+ 
+ 3.The dynamic impedence of the tuned circuit   
+ 
+    461880.22  
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ 4.The coil series resistance is    
+ 
+    11.547005  
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.The value of gm is   
+ 
+    0.0000782  
+ 
+ sec   
+ 
+ 
+ 
+ 
+ 6.The input resistance is   
+ 
+    1278548.8  
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.The frequency of oscillation is   
+ 
+    918881.49  
+ 
+ Hz   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH6/EX6.6.1/6_6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The value of capacitor is    
+ 
+    5.1639778  
+ 
+ pF   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH6/EX6.6.2/6_6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.The total tuning capacitor is   
+ 
+    9.375  
+ 
+ pF   
+ 
+ 
+ 
+ 
+ 2.The frequency of oscillation is   
+ 
+    5197978.7  
+ 
+ Hz   
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.The total tuning capacitor is   
+ 
+    3.994953  
+ 
+ pF   
+ 
+ 
+ 
+ 
+ 4.The frequency of oscillation is   
+ 
+    7962772.2  
+ 
+ Hz   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH7/EX7.3.1/7_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The freq tuning range is   
+ 
+ fo_min=   
+ 
+    1005000.  
+ 
+ Hz   
+ 
+ fo_max=   
+ 
+    2055000.  
+ 
+ Hz   
+ 
+ 
+ 
+ The tuning range ratio of oscillator is   
+ 
+ Rf=   
+ 
+    2.0447761  
+ 
+ 
+ 
+ The capacitor tuning range ratio of oscillator is   
+ 
+ Rc=   
+ 
+    4.1811094  
+ 
+ 
+ 
+ 
+ The tuning range ratio of RF-ckt is   
+ 
+ Rf=   
+ 
+    2.9090909  
+ 
+ 
+ 
+ The capacitor tuning range ratio of RF-ckt is   
+ 
+ Rc   
+ 
+    8.4628099  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH7/EX7.4.1/7_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Cs_min is   
+ 
+    8.369D-11  
+ 
+ F   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH7/EX7.6.1/7_6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Image freq is   
+ 
+    1930.  
+ 
+ KHz   
+ 
+ 
+ 
+ 
+ 
+ 
+ Image rejection is   
+ 
+  - 36.976137  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH7/EX7.7.1/7_7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The sum of frequencies are   
+ 
+ 
+    1860.  
+ 
+    3265.  
+ 
+    930.  
+ 
+    1632.5  
+ 
+ 
+ The difference of frequencies are   
+ 
+ 
+    950.  
+ 
+    2355.  
+ 
+    475.  
+ 
+    1177.5  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH8/EX8.3.1/8_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The modulation index is   
+ 
+    0.55  
+ 
+ 
+ 
+ 
+ The ratio of side lengths L1/L2 is   
+ 
+    3.4444444  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH8/EX8.5.1/8_5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The modulation index is   
+ 
+    0.6  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH8/EX8.7.1/8_7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The modulation index is   
+ 
+    0.9380832  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH8/EX8.11.1/8_11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.0001 + 0.0000628i  
+ 
+ 
+ 
+    8467.3302  
+ 
+ 
+ 
+ 
+ The max modulation index is   
+ 
+    0.8467330  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH9/EX9.2/9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The efficiency is   
+ 
+    70.  
+ 
+ %   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH9/EX9.6/9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ hammming bits are required   
+ 
+    5.  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH10/EX10.12.1/10_12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The equivaent tuning capacitance is   
+ 
+    6.000D-10  
+ 
+ f   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH10/EX10.13.1/10_13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fo is best obtained by using two tripler   
+ 
+    79.1  
+ 
+ MHz   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH11/EX11.3.1/11_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The no. of bits per code word is   
+ 
+    7.512339  
+ 
+ 
+ =8   
+ 
+ Rounded off    
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH11/EX11.3.2/11_3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)The transmission BW is   
+ 
+    64000.  
+ 
+ Hz   
+ 
+ 
+ 
+ 
+ b)The quantization S/N ration is   
+ 
+    48.  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH12/EX12.4.1/12_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.9999367  
+ 
+ 
+    0.0000633  
+ 
+ 
+ The bit error probability   
+ 
+    0.0000317  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH12/EX12.4.3/12_4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    0.0024177  
+ 
+ 
+ 
+ 
+    0.0231589  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH12/EX12.5.1/12_5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The bit error probability   
+ 
+    0.0000350  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH12/EX12.9.1/12_9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ a)The bit error probability   
+ 
+    0.0007827  
+ 
+ 
+ 
+ b)The bit error probability   
+ 
+    0.0033690  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH12/EX12.13.1/12_13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_in  =
+ 
+    0.000056  
+ 
+ 
+ The probability of a received codeword   
+ 
+ Pin=   
+ 
+    0.0000533  
+ 
+ 
+ P_in   
+ 
+    0.000056  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH12/EX12.13.3/12_13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)The bit error probability   
+ 
+    0.0000336  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b)The bit error probability   
+ 
+    5.478D-08  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH12/EX12.13.4/12_13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)The bit-error rate is   
+ 
+    0.0001909  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The new bit error rate is   
+ 
+    0.0000193  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH13/EX13.5.2/13_5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The attenuation coeff is   
+ 
+    0.0052116  
+ 
+ dB/m   
+ 
+ 
+ 
+ 
+ 
+ The attenuation coeff is   
+ 
+    8.3854644  
+ 
+ dB/mile   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH13/EX13.10.1/13_10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a) The equivalent  series resistance is   
+ 
+    77.731816  
+ 
+ ohm   
+ 
+ 
+ The equivalent  series reactance is   
+ 
+  - 34.267211  
+ 
+ ohm   
+ 
+ 
+ The minus sign indicate the capacitive reactance   
+ 
+ 
+ 
+ b) The equivalent  parallel resistance is   
+ 
+    92.838137  
+ 
+ ohm   
+ 
+ 
+ The equivalent  parallel reactance is   
+ 
+    210.59423  
+ 
+ ohm   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH13/EX13.11.1/13_11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The equivalent inductive reactance is   
+ 
+    36.327126i  
+ 
+ i   
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ The equivalent inductance is   
+ 
+    11.563283i  
+ 
+ nH   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH13/EX13.17.1/13_17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a) The equivalent  series resistance is   
+ 
+    77.731816  
+ 
+ ohm   
+ 
+ 
+ The equivalent  series reactance is   
+ 
+  - 34.267211  
+ 
+ ohm   
+ 
+ 
+ The minus sign indicate the capacitive reactance   
+ 
+ 
+ 
+ b) The equivalent  parallel resistance is   
+ 
+    92.838137  
+ 
+ ohm   
+ 
+ 
+ The equivalent  parallel reactance is   
+ 
+    210.59423  
+ 
+ ohm   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH13/EX13.17.2/13_17_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tl  =
+ 
+  - 0.1545678 - 0.3319382i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The input impedance is   
+ 
+    23.510843 + 5.1358519i  
+ 
+ ohm   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH13/EX13.17.3/13_17_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The input impedance is   
+ 
+    73.  
+ 
+ ohm   
+ 
+ 
+ 
+ 
+ 
+ 
+ The VSWR is   
+ 
+    0.1216667  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH14/EX14.2.1/14_2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ i)TE10 wave will propogate   
+ 
+ 
+ 
+ 
+ Guide wavelength is   
+ 
+    3.9755379  
+ 
+ cm   
+ 
+ 
+ 
+ 
+ Phase velocity is   
+ 
+    3.976D+08  
+ 
+ m/s   
+ 
+ 
+ 
+ 
+ Group velocity is   
+ 
+    2.264D+08  
+ 
+ m/s   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH15/EX15.2.1/15_2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The free-space transmission loss is   
+ 
+    195.66725  
+ 
+ dB   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The received power   
+ 
+    5.424D-12  
+ 
+ watts   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH15/EX15.2.2/15_2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The open-ckt voltage induced is    
+ 
+    282.41819  
+ 
+ uV   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH15/EX15.3.2/15_3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum range is   
+ 
+    25.096587  
+ 
+ miles   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH15/EX15.4.1/15_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d=   
+ 
+    1098.991  
+ 
+ km   
+ 
+ 
+ 
+ 
+ d=   
+ 
+    965.9076  
+ 
+ km   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH15/EX15.7.1/15_7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The attenuation coeff is   
+ 
+    0.0397384  
+ 
+ N/m   
+ 
+ 
+ 
+ 
+ The attenuation coeff in dB/m is   
+ 
+    0.3451673  
+ 
+ dB/m   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The attenuation coeff is   
+ 
+    3.9738353  
+ 
+ N/m   
+ 
+ 
+ 
+ 
+ The attenuation coeff in dB/m is   
+ 
+    34.516733  
+ 
+ dB/m   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH16/EX16.7.2/16_7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The -3dB beamwidth is   
+ 
+    90.  
+ 
+ degree   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH16/EX16.9.1/16_9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l_eff= wl/pi   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH16/EX16.19.1/16_19_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effective area is   
+ 
+    18.378317  
+ 
+ m^2   
+ 
+ 
+ 
+ The directivity is   
+ 
+    256609.71  
+ 
+ 
+ 
+ The -3dB beamwidth is   
+ 
+    0.35  
+ 
+ degree   
+ 
+ 
+ 
+ The null beamwidth is   
+ 
+    0.7  
+ 
+ degree   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH17/EX17.1.1/17_1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)The max gain is   
+ 
+    44.  
+ 
+ dB   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The max gain is   
+ 
+    30.  
+ 
+ dB   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The amplr gain is   
+ 
+    27.  
+ 
+ dB   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH18/EX18.2.1/18_2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The index of co-operation is   
+ 
+    1105.8406  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH18/EX18.2.2/18_2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The no. of pixels in scan line is   
+ 
+    826.48053  
+ 
+ pixels/line   
+ 
+ 
+ 
+ 
+ The scan rate is   
+ 
+    2.  
+ 
+ lines/sec   
+ 
+ 
+ 
+ 
+ The pixel rate is   
+ 
+    1652.9611  
+ 
+ pixels/sec   
+ 
+ 
+ 
+ 
+ 
+ The document Transmission time is   
+ 
+    8.9583333  
+ 
+ min   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH18/EX18.3.1/18_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The no. of pixel periods in line period is    
+ 
+    485.  
+ 
+ lines   
+ 
+ 
+ 
+ 
+ The picture height is   
+ 
+    646.66667  
+ 
+ pixels   
+ 
+ 
+ 
+ The picture length is   
+ 
+    774.4511  
+ 
+ pixels   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH18/EX18.3.2/18_3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the horizontal freq. is    
+ 
+    15750.  
+ 
+ Hz   
+ 
+ 
+ 
+ the vertical freq. is    
+ 
+    60.  
+ 
+ Hz   
+ 
+ 
+ 
+ 
+ the time reqd to scan one line is    
+ 
+    0.0000635  
+ 
+ sec   
+ 
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH18/EX18.3.3/18_3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the band width is   
+ 
+    4272187.5  
+ 
+ Hz   
+ 
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH18/EX18.7.1/18_7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The viewing angle is   
+ 
+    10.783333  
+ 
+ degree   
+ 
+ 
+ 
+ The min. viewing dist is   
+ 
+    2.045325  
+ 
+ m   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH18/EX18.7.2/18_7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The viewing angle is   
+ 
+    30.666667  
+ 
+ degree   
+ 
+ 
+ 
+ 
+ The viewing dist is   
+ 
+    2.2250737  
+ 
+ m   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH19/EX19.14.1/19_14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The carrier to noise ratio in dB is   
+ 
+    93.881513  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH19/EX19.14.2/19_14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The carrier to noise ratio is   
+ 
+    78.227766  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH19/EX19.16.1/19_16_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The overall carrier to noise ratio is   
+ 
+    77.586073  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH19/EX19.17.1/19_17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The ratio C/No is   
+ 
+    71.486473  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.2.1/20_2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The numerical aperture is   
+ 
+    0.3521363  
+ 
+ 
+ 
+ 
+ The acceptance angle is   
+ 
+    20.618039  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.2.2/20_2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    69.115038  
+ 
+ 
+ the V no. is   
+ 
+    69.115038  
+ 
+ 
+ 
+ 
+ the approximate no. of modes are    
+ 
+    2388.4443  
+ 
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.2.3/20_2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the v no. is   
+ 
+    4.229067  
+ 
+ 
+ from the table it is seen that 6 modes have cut off v less than 4.23    
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.2.4/20_2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ no. of modes supported by graded index fiber   
+ 
+    1195.  
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.3.1/20_3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)the repeater dist for 0.9um wavelength is   
+ 
+    12.5  
+ 
+ km   
+ 
+ 
+ 
+ 
+ a)the repeater dist for 1.5um wavelength is   
+ 
+    83.333333  
+ 
+ km   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.4.1/20_4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the intermodal dispersion is   
+ 
+    0.0000001  
+ 
+ s/km   
+ 
+ 
+ 
+ 
+ the intermodal dispertion for l=12.5 is   
+ 
+    1.710D-09  
+ 
+ s   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.4.2/20_4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the intermodal dispersion is   
+ 
+    5.374D-09  
+ 
+ sec   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.4.3/20_4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total material dispersion is   
+ 
+  - 2.8125  
+ 
+ ns   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.4.4/20_4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Expected waveguide dispersion is   
+ 
+    495.  
+ 
+ ps   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.4.5/20_4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The total dispersion is   
+ 
+    2.8532657  
+ 
+ ns   
+ 
+ t_r  =
+ 
+    3.7935636  
+ 
+ 
+ 
+ 
+ The max allowed bit rate is   
+ 
+    131.80219  
+ 
+ Mbps   
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.4.6/20_4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)The BW distance product for fiber is   
+ 
+    0.125  
+ 
+ Mbps-km   
+ 
+ 
+ 
+ 
+ b)The disp limited length for a fiber is   
+ 
+    12.5  
+ 
+ km   
+ 
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.5.1/20_5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)i)the wavelength is   
+ 
+    0.6531579  
+ 
+ um   
+ 
+ 
+ a)ii)the freq is   
+ 
+    4.593D+14  
+ 
+ Hz   
+ 
+ 
+ 
+ 
+ b)i)the wavelength is   
+ 
+    0.85  
+ 
+ um   
+ 
+ 
+ b)ii)the freq is   
+ 
+    3.529D+14  
+ 
+ Hz   
+ 
+ 
+ 
+ 
+ c)i)the wavelength is   
+ 
+    1.3008386  
+ 
+ um   
+ 
+ 
+ c)ii)the freq is   
+ 
+    2.306D+14  
+ 
+ Hz   
+ 
+ 
+grepthis#Electronic_Communication_D._Roddy_752/CH20/EX20.8.1/20_8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a)the loss-limited fiber is   
+ 
+    17.75  
+ 
+ km   
+ 
+ 
+ 
+ 
+ b)the max BW for loss-limited length is   
+ 
+    0.0223121  
+ 
+ Gbps   
+ 
+ 
+ 
+ 
+ the dispertion limited length is   
+ 
+    11.315417  
+ 
+ km   
+ 

@@ -1,0 +1,962 @@
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.8/ch2_8.sce #
+[2J[0;0H 
+ 
+			Chapter2_example8
+
+
+ 
+ 
+
+			Solution to part (a) 
+ 
+ 
+ 
+
+The perimeter is 0.0818 ft 
+ 
+
+The Cross sectional area is 0.000532 sq.ft 
+ 
+ 
+
+The value of parameter m is: 2.489/ft 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The temperature profile is:	 
+T=70+88.55cosh[2.489(0.375-z)] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+			Solution to part (b)
+ 
+ 
+ 
+
+The heat transferred is 3.13 BTU/hr 
+
+
+			Solution to part (c)
+ 
+ 
+
+The value of mL is: 0.933 
+ 
+
+The efficiency found from the graph in figure 2.30 is: 0.78 
+
+
+			Solution to part (d)
+ 
+ 
+ 
+
+The effectiveness is found to be: 45.2 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.10/ch2_10.sce #
+[2J[0;0H 
+ 
+			Chapter2_example10
+
+
+ 
+ 
+ 
+ 
+
+			Solution to part (a)
+ 
+ 
+ 
+ 
+
+The optimum length is 0.343 in 
+
+
+			Solution to part (b)
+ 
+ 
+ 
+ 
+
+The parameter value for finding the efficiency is: 1.31 
+ 
+
+The efficiency found from the graph in figure 2.36 is 0.6 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The actual heat transferred is 2640 BTU/hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH2/EX2.11/ch2_11.sce #
+[2J[0;0H 
+ 
+			Chapter2_example11
+
+
+ 
+ 
+			Solution to part (a)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The value of R2c/R1 is 1.31 
+
+
+The value of Lc^(3/2)(hc/kAp)^(1/2) is 0.26 
+ 
+
+
+The efficiency of the fin from figure 2.38 is 0.93 
+ 
+
+
+The heat transferred by the nine fins is 951.8 w 
+ 
+ 
+ 
+
+
+The heat transferred by exposed surface of the cylinder is 211 W 
+ 
+
+
+The total heat transferred from the cylinder is 1163 W 
+
+
+			Solution to part (b)
+ 
+ 
+ 
+ 
+
+
+The Heat transferred without fins is 262 W 
+
+
+			Solution to part (c)
+ 
+ 
+
+The fin effectiveness is 4.44 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH3/EX3.1/ch3_1.sce #
+[2J[0;0H 
+ 
+			Chapter3_example1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Conduction shape factor is 1.333 
+ 
+ 
+ 
+ 
+
+The heat flow per unit length from one half of one tube is 14.5 W/m 
+ 
+
+The total heat flow per tube is 29.0 W/m 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.4/ch4_4.sce #
+[2J[0;0H 
+ 
+			Chapter4_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Biot number is 0.244, 
+ 
+
+The value of diffusivity is 2.16e-07 sq.m/s 
+ 
+ 
+ 
+ 
+
+
+Since value of Biot number is greater than 0.1,
+Lumped capacity approach would not give accurate results, so figure 4.8 is to be used
+
+The Biot Number for using figure 4.8 is 0.731
+The dimensionless temperature is 0.158
+The required time is 1.34e+04 s = 3.7 hr 
+ 
+
+Bi^2Fo=5.6e-01 
+ 
+ 
+
+The heat transferred is -1.609e+04 J 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.5/ch4_5.sce #
+[2J[0;0H 
+ 
+			Chapter4_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The diffusivity of the soil is 5.58e-03 sq.ft/hr 
+ 
+
+Time in hours is 2160 hr 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The dimensionless temperature is 0.6333 
+ 
+ 
+
+The depth of the freeze line in soil is 2.64 ft 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.7/ch4_7.sce #
+[2J[0;0H 
+ 
+			Chapter4_example7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+The diffusivity at 68 degree fahrenheit is 5.53e-03 sq.ft/hr 
+ 
+ 
+ 
+ 
+ 
+
+The volume of the can is 0.0135 cu.ft 
+
+The surface area of the can is 0.327 sq.ft 
+
+The characteristic length is 0.041 ft 
+ 
+ 
+
+The Biot number is 0.203 
+ 
+ 
+ 
+ 
+
+For the cylinder, The Fourier number is 2.04 and Biot Number is 0.513 
+ 
+
+The reciprocal for Biot number for cylinder is 1.95 
+ 
+ 
+ 
+ 
+
+For the infinite plate, The Fourier number is 0.565 and Biot Number is 0.98 
+ 
+
+The reciprocal for Biot number for infinite plate is 1.03 
+ 
+ 
+ 
+ 
+
+The value of dimensionless temperature for short cylinder is 0.096  
+ 
+ 
+ 
+
+The temperature at centre of can is 34.0 degree celsius 
+ 
+ 
+ 
+
+The value of dimensionless temperature  at the wall for short cylinder is 0.50  
+ 
+
+The wall temperature is 32.0 degree F 
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.8/ch4_8.sce #
+[2J[0;0H 
+ 
+			Chapter4_example8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The value of 1/Bi for infinite plate is 19.2 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Results for different time instances:
+ 
+
+	Infinite Plate						Semi-Infinite Solid				Dimensionless Temperature	Temperature 
+
+time t, s	1/Bi	Fo	(T-Tinf)/(Ti-Tinf)	Bi(Fo)^0.5	x/(2*(at)^0.5)	(T-Tinf)/(Ti-Tinf)	(T-Tinf)/(Ti-Tinf)		T 
+
+3000		19.2	51.60		0.09		0.374		0.186		0.225			0.006				17.4
+1500		19.2	25.80		0.34		0.265		0.262		0.140			0.099				24.8
+700		19.2	12.04		0.55		0.181		0.384		0.075			0.280				38.8
+400		19.2	6.88		0.70		0.137		0.508		0.046			0.467				53.5
+200		19.2	3.44		0.80		0.097		0.719		0.020			0.627				65.9
+300		19.2	5.16		0.80		0.118		0.587		0.035			0.618				65.2
+350		19.2	6.02		0.70		0.128		0.543		0.042			0.469				53.6 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH4/EX4.10/ch4_10.sce #
+[2J[0;0H 
+ 
+			Chapter4_example10
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The time increments is 166.5 s 
+ 
+ 
+ 
+
+The required time is 0.37 hr 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH6/EX6.5/ch6_5.sce #
+[2J[0;0H 
+ 
+			Chapter6_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The volume flow rate of water (at 20°C) is 1.97e-05 cu.m/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+mass flow rate through the tube is 0.0197 kg/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The power required in 2.076e+04 W/sq.m = 4945 W 
+ 
+
+The average velocity at 50°C is 3.97e-02 m/s 
+ 
+
+The Reynolds Number for the flow is 1711 
+ 
+ 
+
+The inverse Graetz number at tube end, based on 50°C conditions is 0.0188 
+ 
+ 
+
+The local convection coefficient is 174.7 W/(sq.m.K) 
+ 
+
+The outlet wall temperature is 198 °C 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.6/ch7_6.sce #
+[2J[0;0H 
+ 
+			Chapter7_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+The barge velocity is 8.44 ft/s 
+ 
+ 
+
+The Reynolds number at plate end is 1.56e+07 
+ 
+ 
+ 
+ 
+
+The drag force is 49 lbf 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH7/EX7.8/ch7_8.sce #
+[2J[0;0H 
+ 
+			Chapter7_example8
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+The flow velocity is 29.3 ft/s 
+ 
+ 
+ 
+ 
+
+The Reynolds Number for flow past the pole is 1.74e+05  
+ 
+ 
+
+The frontal area of pole is 30 sq.ft 
+ 
+
+The Drag force exerted on only the pole is 32.4 lbf 
+ 
+ 
+ 
+
+The  Reynolds Number for square part of pole is 2.9e+04 
+ 
+ 
+
+The frontal area of square part of pole is 0.667 sq.ft 
+ 
+
+The Drag force exerted on cross piece of the pole is 1.31 lbf 
+ 
+
+The total drag force on the pole is 33.7 lbf 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH9/EX9.4/ch9_4.sce #
+[2J[0;0H 
+ 
+			Chapter9_example4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The area of annulus is 2.59e-03 sq.m 
+
+The area of inner pipe is 4.28e-03 sq.m 
+
+air flows through inner pipe 
+ 
+ 
+
+The heat transferred is 1.68e+03 W 
+ 
+
+The low temperature of carbon dioxide is 533 K 
+ 
+ 
+
+The LMTD for counter flow configuration is 243 degree C 
+ 
+ 
+ 
+
+The Annulus Equivalent Diameter for friction is 0.01862 m 
+
+The Annulus Equivalent Diameter for heat transfer is 0.0416 m 
+ 
+ 
+
+The Reynolds Number for air is 2.42e+04 
+ 
+
+The Reynolds Number for carbon dioxide is 1.72e+04 
+ 
+ 
+ 
+
+The Nusselt number for air is 66.5 
+
+The Nusselt number for carbon dioxide is 48.9 
+ 
+ 
+ 
+ 
+
+The convective coefficient for air based on inner diameter is 25.3 W/(sq.m.K) 
+
+The convective coefficient for air based on outer diameter is 23.6 W/(sq.m.K) 
+
+The convective coefficient for carbon dioxide is 39.4 W/(sq.m.K) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The overall exchanger coefficient is 14.2 W/(sq.m.K) 
+ 
+ 
+
+The area required is 0.48 sq.m 
+ 
+ 
+ 
+ 
+
+The number of exchangers is 1 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The velocity of air is 5.96 m/s 
+
+The velocity of carbon dioxide is 8.98 m/s 
+ 
+ 
+ 
+
+The pressure drop for tube side is 12.83 Pa 
+
+The pressure drop for shell side is 196 Pa 
+
+			Summary of Requested Information
+ 
+(a) Exchanger required: 1
+(b)Overall exchanger coefficient = 14.2 W/(sq.m.K)
+(c)Air pressure drop = 12.83 Pa
+Diesel exhaust pressure drop = 196 Pa 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH9/EX9.5/ch9_5.sce #
+[2J[0;0H 
+ 
+			Chapter9_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The areas are 0.260 sq.ft and 0.287 sq.ft 
+
+The raw water flows through the tubes 
+ 
+ 
+
+The equivalent diameter is 0.0444 ft 
+ 
+ 
+
+The Reynolds Number for raw water is 1.66e+04 
+ 
+
+The Reynolds Number for distilled water is 1.29e+04 
+ 
+ 
+ 
+
+The Nusselt number for raw water is 97.4 
+
+The Nusselt number for distilled water is 123.1 
+ 
+ 
+ 
+
+The convective coefficient for raw water based on inner diameter is 618 BTU/(hr.sq.ft.degree R) 
+
+The convective coefficient for raw water based on outer diameter is 537 BTU/(hr.sq.ft.degree R) 
+
+The convective coefficient for distilled water is 1005 BTU/(hr.sq.ft.degree R) 
+ 
+ 
+
+The overall exchanger coefficient is 350 BTU/(hr.sq.ft.degree R) 
+ 
+ 
+ 
+
+The ratio is 0.883 and area is 703.7 sq.ft 
+ 
+
+(UoAo)/(McCpc)=1.65 
+ 
+ 
+ 
+
+t2=91.1 degree F
+T2=87.0 degree F 
+ 
+ 
+
+Friction factor for raw water fom figure 6.14 corresponding to Reynolds Number calculated above is 0.029 
+ 
+
+Friction factor for distilled water fom figure 6.14 corresponding to Reynolds Number calculated above is 0.281 
+ 
+ 
+ 
+
+The velocity of raw water is 2.57 ft/s 
+
+The velocity of distilled water is 2.65 ft/s 
+ 
+ 
+ 
+ 
+
+The pressure drop for tube side is 160.7 lbf/sq.ft = 1.1 psi 
+
+The pressure drop for shell side is 982.4 lbf/sq.ft = 6.7 psi 
+
+			Summary of Requested Information
+ 
+
+Outlet Temperatures:
+	Raw Water: 91.1 degree F
+	Distilled Water: 87.0 degree F
+ 
+
+Pressure Drops:
+	Raw Water: 1.1 ddegree F
+	Distilled Water: 6.7 degree F
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH9/EX9.6/ch9_6.sce #
+[2J[0;0H 
+ 
+			Chapter9_example6
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The capacitance value of raw water is 149820 BTU/(hr. degree R) 
+
+The capacitance value of distilled water is 169660 BTU/(hr. degree R) 
+
+Raw water has minimum capacitance 
+ 
+ 
+ 
+
+The required parameters are mcp_min/mcp_max=0.883 and (UoAo/mcp_min)=1.64 
+ 
+ 
+
+The maximum heat transfer is 6.74e+06 BTU/hr 
+ 
+
+The actual heat transfer is 3.91e+06 BTU/hr 
+ 
+ 
+
+The Outlet temperatures are:
+	Raw Water:91.1 degree F
+	Distilled Water:87.0 degree F
+ 
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH9/EX9.7/ch9_7.sce #
+[2J[0;0H 
+ 
+			Chapter9_example7
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat gained by air is 3.88e+04 BTU/hr 
+
+The heat lost by oil is 3.89e+04 BTU/hr 
+ 
+ 
+
+The LMTD for counter flow configuration is 27.8 degree F 
+ 
+ 
+ 
+
+The Core frontal area on the air side is 0.546 sq.ft
+The Core frontal area on the oil side is 0.222 sq.ft  
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Overall Coefficient is 1.60e+03 BTU/(hr. degree R) 
+ 
+ 
+ 
+
+The capacitance value of air is 968 BTU/(hr. degree R) 
+
+The capacitance value of engine oil is 1215 BTU/(hr. degree R) 
+
+Air has minimum capacitance 
+ 
+ 
+ 
+
+The required parameters are mcp_min/mcp_max=0.797 and (UoAo/mcp_min)=1.65 
+ 
+ 
+ 
+
+			Summary of Requested Information
+ 
+
+(a) UA = 1.60e+03 BTU/(hr. degree R) 
+
+(b) The Outlet temperatures (degree F) 
+
+	Calculated	Given in Problem Statement 
+
+Air		165	166 
+
+Engine Oil	158	158 
+ 
+ 
+grepthis#Engineering_Heat_Transfer_W._S._Janna_1309/CH12/EX12.5/ch12_5.sce #
+[2J[0;0H 
+ 
+			Chapter12_example5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Product L1F12=2.16 ft 
+ 
+ 
+
+The view factor F12=0.72 
+ 
+ 
+ 
+ 
+
+The heat transfer rate is 2.19e+03 W/sq.m 
+ 

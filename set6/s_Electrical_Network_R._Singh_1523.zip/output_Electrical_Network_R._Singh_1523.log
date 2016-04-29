@@ -1,0 +1,6708 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 172
+
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.1/1_1.sce #
+ 
+ 
+ 
+ 
+ Current through 15Ohm resistor is given by:   
+ 
+ 
+ I1=30/15   
+ 
+ I1  =
+ 
+    2.  
+ 
+current through 15Ohm resistor = 2.00 Ampere 
+ 
+ Current through 5Ohm resistor is given by:   
+ 
+ 
+ I2=5+2   
+ 
+ I2  =
+ 
+    7.  
+ 
+current through 5ohm resistor = 7.00 Ampere 
+ 
+ R=100-30-5*I2/I1   
+ 
+ R  =
+ 
+    17.5  
+ 
+R = 17.50 Ohm 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.2/1_2.sce #
+ 
+ 
+ 
+ 
+ from the given fig:   
+ 
+ 
+ I2-I3=13   
+ 
+ 
+ -20*I1+8*I2=0   
+ 
+ 
+ -12*I1-16*I3=0   
+ 
+ 
+ A  =
+ 
+    0.     1.  - 1.   
+  - 20.    8.    0.   
+  - 12.    0.  - 16.  
+ 
+ B  =
+ 
+    13.  
+    0.   
+    0.   
+ 
+ 
+ A=   
+ 
+ 
+    0.     1.  - 1.   
+  - 20.    8.    0.   
+  - 12.    0.  - 16.  
+ 
+ 
+ B=   
+ 
+ 
+    13.  
+    0.   
+    0.   
+ 
+ X  =
+ 
+    4.   
+    10.  
+  - 3.   
+ 
+ 
+ X=   
+ 
+ 
+    4.   
+    10.  
+  - 3.   
+ 
+ 
+ I1 = 4Ampere   
+ 
+ 
+ I2 = 10Ampere   
+ 
+ 
+ I3 = -3Ampere   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.3/1_3.sce #
+ 
+ 
+ 
+ 
+ Iaf=x   
+ 
+ 
+ Ife=x-30   
+ 
+ 
+ Ied=x+40   
+ 
+ 
+ Idc=x-80   
+ 
+ 
+ Icb=x-20   
+ 
+ 
+ Iba=x-80   
+ 
+ 
+ Applying KVL to the d path AFEDCBA:   
+ 
+ 
+ x=4.1/0.1   
+ 
+ 
+ 
+
+Iaf = 41.00 Ampere 
+ Ife  =
+ 
+    11.  
+ 
+
+Ife = 11.00 Ampere 
+ 
+
+Ied = 81.00 Ampere 
+ 
+
+Idc = -39.00 Ampere 
+ 
+
+Icb = 21.00 Ampere 
+ 
+
+Iba = -39.00 Ampere 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.4/1_4.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to the d path OBAO   
+ 
+ 
+ 3*x-3*y=2   
+ 
+ 
+ Applying KVL to the d path ABCA   
+ 
+ 
+ 9*x+12*y=4   
+ 
+ 
+ b  =
+ 
+    2.  
+    4.  
+ 
+ 
+ a=   
+ 
+ 
+    3.  - 3.   
+    9.    12.  
+ 
+ 
+ b=   
+ 
+ 
+    2.  
+    4.  
+ 
+ 
+ 
+    0.5714286  
+  - 0.0952381  
+ 
+ 
+ x=0.5714286 Ampere   
+ 
+ 
+ y=-0.095238 Ampere   
+ 
+ 
+ Ioa=0.57A   
+ 
+ 
+ Iob=1-0.57   
+ 
+ 
+
+Iob = 0.430000 A 
+ 
+ Iab = 0.095   
+ 
+ 
+
+Iac = 0.475000 A 
+ 
+ Iab=1-0.57 + 0.095   
+ 
+ 
+
+Iob = 0.525000 A 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.5/1_5.sce #
+ 
+ 
+ 
+ 
+I1=2/5= 0.400000 Ampere 
+ 
+
+I2=4/8= 0.500000 Ampere 
+
+Potential difference between points x and y = Vxy = Vx-Vy 
+
+Writing KVL equations for the path x to y 
+
+Vs+3*I1+4-3*I2-Vy=0 
+
+Vs+3*(0.4) + 4- 3*(0.5) -Vy = 0 
+
+Vs+3*I1+4-3*I2-Vy = 0 
+
+Vx-Vy = -3.7 
+
+Vxy = -3.7V 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.6/1_6.sce #
+ 
+ 
+ 
+ 
+I1=2/5= 1.333333 Ampere 
+ 
+
+I2=4/8= 1.500000 Ampere 
+ 
+ Voltage between points A and B = VAB = VA-VB   
+ 
+ 
+ Writing KVL equations for the path A to B:   
+ 
+ 
+ VA - 5*I1 - 5 - 15 + 6*I2 - VB = 0   
+ 
+ 
+ VA - VB = 5*1.33 + 5 + 15 + 6*1.5   
+ 
+ 
+VAB = 17.65 Volt 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.7/1_7.sce #
+ 
+ 
+ 
+ 
+I1=2/5= 2.500000 Ampere 
+ 
+
+I2=4/8= 2.000000 Ampere 
+ 
+ Potential difference VAB = VA - VB   
+ 
+ 
+ Writing KVL equations for path A to B   
+ 
+ 
+ VA - 2*I1 + 8 - 5*I2 - VB = 0   
+ 
+ 
+ VA - VB = (2*2.5) - 8 5 + (5*2)   
+ 
+ VAB  =
+ 
+    7.  
+ 
+VAB = 7.00 Volt 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.8/1_8.sce #
+ 
+ 
+ 
+ 
+I1=2/5= 1.250000 Ampere 
+ 
+
+I2=4/8= 5.000000 Ampere 
+ 
+ Applying KVL to the path from A to B   
+ 
+ 
+ VA - 3*I1 - 8 + 3*I2 - VB = 0   
+ 
+ 
+ VA - VB = 3*1.25 + 8 - 3*5   
+ 
+ 
+VAB = -3.25 Volt 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.12/1_12.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to the circuit :   
+ 
+ 
+ 50 - 5*I - 1.2*I - 16 = 0   
+ 
+ 
+I= 5.48 Amp 
+ 
+
+Power delivered 50 V source = 50 * 5.48= 274.19 W 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.13/1_13.sce #
+ 
+ 
+ 
+ 
+ By Current Division formula ;   
+ 
+ 
+I4 = 4 * (2/(2+4)) = 1.33 Amp 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.14/1_14.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to the mesh   
+ 
+ 
+ 15 - 50*I - 50*I - 5*I   
+ 
+ 
+I=15/105 = 0.14 Amp 
+ 
+
+Voltage at node 2 = 15 - 50*I = 7.85 Volt 
+grepthis#Electrical_Network_R._Singh_1523/CH1/EX1.15/1_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Applying KCL at the node, 
+(Va-18)/3+(Va-5.985)/2.33+Va/6 = 0 
+ 
+
+Solving the equation,we get, 
+Va = 9.22 V 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.1/2_1.sce #
+ 
+ 
+ 
+
+Converting the two delta networks formed by resistors 4.5 Ohm,  3Ohm, and 7.5Ohm into equivalent star networks 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R1=R6 = 2.25 Ohm 
+R2=R5 = 1.5 Ohm 
+R3=R4 = 0.9 Ohm 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.2/2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Converting the delta formed by three resistors of 10 Ohm into an equivalent star network 
+
+R1=R2=R3= 3.333 Ohm 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.3/2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R1 = 18 Ohm 
+
+R2 = 13.5 Ohm 
+
+R3 = 9 Ohm 
+
+The network can be simplified as, 
+RAB = 1.64 Ohm 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.5/2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Converting the delta formed by resistors 20 Ohm ,25 Ohm, 35 Ohm  into an equivalent star network 
+
+R1= 8.75 Ohm 
+
+R2= 6.25 Ohm 
+
+R3= 10.94 Ohm 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.8/2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Converting star network formed by 3 Ohm,4 Ohm ,5 Ohm into equivalent delta network  
+
+R1= 15.67 Ohm 
+R2= 9.4 Ohm 
+R3 = 11.75 Ohm 
+
+Similarly, converting star network formed by 6 Ohm,4 Ohm ,8 Ohm into equivalent delta network 
+
+R4= 13 Ohm 
+R5= 17.33 Ohm 
+R6 = 26 Ohm 
+
+ Simplifying the parallel networks, we get 
+RAB = 3.78 Ohms 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.9/2_9.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 10*I1-3*I2-6*I3=0   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -3*I1+10*I2=-5   
+ 
+ Applying KVL to mesh 3   
+ 
+ 
+ -6*I1+10*I3=25   
+ 
+ Solving the three equations   
+ 
+ A  =
+ 
+    10.  - 3.   - 6.   
+  - 3.     10.    0.   
+  - 6.     0.     10.  
+ 
+ B  =
+ 
+    10.  
+  - 5.   
+    25.  
+ 
+ 
+ 
+    4.2727273  
+    0.7818182  
+    5.0636364  
+ 
+ 
+ I1=4.27 A   
+ 
+ 
+ I2=0.78 A   
+ 
+ 
+ I3=5.06 A   
+ 
+ 
+ I5ohm=4.27 A   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.10/2_10.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 7*I1-I2=10   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -I1+6*I2-3*I3=0   
+ 
+ Applying KVL to mesh 3   
+ 
+ 
+ -3*I2+13*I3=-20   
+ 
+ Solving the three equations   
+ 
+ 
+ B  =
+ 
+    10.  
+    0.   
+  - 20.  
+ 
+ 
+ 
+    1.3404255  
+  - 0.6170213  
+  - 1.6808511  
+ 
+ 
+ I1=1.34 A   
+ 
+ 
+ I1=-0.62 A   
+ 
+ 
+ I3=-1.68 A   
+ 
+ 
+ I2ohm=1.34 A   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.11/2_11.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 3*I1-I2-2*I3=8   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -I1+8*I2-3*I3=10   
+ 
+ Applying KVL to mesh 3   
+ 
+ 
+ -2*I1-3*I2+10*I3=12   
+ 
+ Solving the three equations   
+ 
+ 
+ B  =
+ 
+    8.   
+    10.  
+    12.  
+ 
+ 
+ 
+    6.0125786  
+    3.2704403  
+    3.3836478  
+ 
+ 
+ I1=6.01 A   
+ 
+ 
+ I1=3.27 A   
+ 
+ 
+ I3=3.38 A   
+ 
+ 
+ I5ohm=3.38 A   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.12/2_12.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 8*I1-I2-4*I3=4   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -I1+8*I2-5*I3=0   
+ 
+ Applying KVL to mesh 3   
+ 
+ 
+ -4*I1-5*I2+15*I3=0   
+ 
+ Solving the three equations   
+ 
+ 
+ B  =
+ 
+    4.  
+    0.  
+    0.  
+ 
+ 
+ 
+    0.6585789  
+    0.2426343  
+    0.2564991  
+ 
+ 
+ I1=0.66   
+ 
+ 
+ I1=0.24 A   
+ 
+ 
+ I3=0.26 A   
+ 
+ 
+ current supplied by the battery = 0.66 A   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.13/2_13.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ V+13*I1-2*I2-5*I3=20   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ 2*I1-6*I2+I3=0   
+ 
+ 
+ Applying KVL to mesh 3   
+ 
+ 
+ V+5*I1+I2-10*I3=0   
+ 
+ 
+ putting I1=0 in equation 1, 2 and 3 we get   
+ 
+ 
+ V-2*I2-5*I3=20   
+ 
+ -6*I2+I3=0   
+ 
+ V+I2-10*I3=0   
+ 
+ Solving the three equations   
+ 
+ 
+ B  =
+ 
+    20.  
+    0.   
+    0.   
+ 
+ 
+ 
+    43.703704  
+    0.7407407  
+    4.4444444  
+ 
+ 
+ V=43.7 V   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.14/2_14.sce #
+ 
+ 
+ 
+ 
+ Mesh 1 contains a current source of 6A.Hence, we cannot write KVL equation for 
+       Mesh 1.direction of current source and mesh current I1 are same,         
+ 
+ 
+ I1=6A   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ 18*I2-6*I3=108   
+ 
+ Applying KVL to mesh 3   
+ 
+ 
+ 6*I2-11*I3=9   
+ 
+ Solving the three equations   
+ 
+ B  =
+ 
+    108.  
+    9.    
+ 
+ 
+ 
+    7.  
+    3.  
+ 
+ 
+ I3 = 3A   
+ 
+ 
+ I2ohm = 3A   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.15/2_15.sce #
+ 
+ 
+ 
+ 
+ from the fig,   
+ 
+ 
+ IA=I1   
+ 
+ IB=I2   
+ 
+ Applying Kvl to mesh 1:   
+ 
+ 
+ 5-5*I1-10*IB-10*(I1-I2)-5*IA=0   
+ 
+ 
+ 5-5*I1-10*I2-10*I1+10*I2-5*I1=0   
+ 
+ 
+ -20*I1=-5   
+ 
+ 
+I1= 0.25 A 
+ Applying Kvl to mesh 2:   
+ 
+ 
+ 15*I1-15*I2=10   
+ 
+ Put I1=0.25 A in equation 4   
+ 
+ 
+ -6.25=15*I2   
+ 
+ 
+I2= -0.42 A 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.17/2_17.sce #
+ 
+ 
+ 
+ 
+ from the fig,   
+ 
+ 
+ V1=-5*I1   
+ 
+ V2=2*I2   
+ 
+ Applying Kvl to mesh 1:   
+ 
+ 
+ 20*I1+3*I2=-5   
+ 
+ Applying Kvl to mesh 2:   
+ 
+ 
+ 11*I1-3*I2=10   
+ 
+ Solving equations 3 and 4   
+ 
+ B  =
+ 
+  - 5.   
+    10.  
+ 
+ 
+ 
+    0.1612903  
+  - 2.7419355  
+ 
+ 
+ I1=0.161 A   
+ 
+ 
+ I2=-2.742 A   
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.18/2_18.sce #
+ 
+ 
+ 
+ 
+ from the fig,   
+ 
+ 
+ Iy=I1   
+ 
+ Ix=I1-I2   
+ 
+ Applying Kvl to mesh 1:   
+ 
+ 
+ -10*I1+3*I2=5   
+ 
+ Applying Kvl to mesh 2:   
+ 
+ 
+ -I1-3*I2=10   
+ 
+ Solving equations 3 and 4   
+ 
+ B  =
+ 
+    5.   
+    10.  
+ 
+ 
+ 
+  - 1.3636364  
+  - 2.8787879  
+ 
+ 
+ I1=-1.364 A   
+ 
+ 
+ I2=-2878 A   
+ 
+ 
+ 
+ 
+
+Iy = -1.364 A 
+Ix = 1.514 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.19/2_19.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 11*I1-10*I2=2   
+ 
+ Writing current equation to supermesh:   
+ 
+ 
+ I3-I2=4   
+ 
+ Applying KVL to outer path of supermesh:   
+ 
+ 
+ 2*I1-3*I2-3*I3=0   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    2.  
+    4.  
+    0.  
+ 
+ 
+ 
+  - 2.3478261  
+  - 2.7826087  
+    1.2173913  
+ 
+ I1  =
+ 
+  - 2.35  
+ 
+ I2  =
+ 
+  - 2.78  
+ 
+ I3  =
+ 
+    1.22  
+ 
+ 
+
+current through the 10 ohm resistor = I1-I2 = 0.43 A 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.20/2_20.sce #
+ 
+ 
+ 
+ 
+ writing equation for supermesh,   
+ 
+ 
+ I1-I3=7   
+ 
+ Applying Kvl to the outer path of the supermesh:   
+ 
+ 
+ -I1+4*I2-4*I3 = -7   
+ 
+ Applying Kvl to mesh 2:   
+ 
+ 
+ I1-6*I2+3*I3 = 0   
+ 
+ Solving equations 1 ,2 and 3   
+ 
+ B  =
+ 
+    7.  
+  - 7.  
+    0.  
+ 
+ 
+ 
+    9.   
+    2.5  
+    2.   
+ 
+ 
+ I1=9 A   
+ 
+ 
+ I2=-2.5 A   
+ 
+ 
+ I3=-2 A   
+ 
+ 
+ 
+ 
+
+Current through the 3-Ohm resistor = I2-I3 =0.5 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.21/2_21.sce #
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 15*I1-10*I2-5*I3=50   
+ 
+ Writing current equation to supermesh:   
+ 
+ 
+ I2-I3=2 A   
+ 
+ Applying KVL to outer path of supermesh:   
+ 
+ 
+ -15*I1+12*I2+6*I3=0   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    50.  
+    2.   
+    0.   
+ 
+ 
+ 
+    20.        
+    17.333333  
+    15.333333  
+ 
+ I1  =
+ 
+    20.  
+ 
+ I2  =
+ 
+    17.33  
+ 
+ I3  =
+ 
+    15.33  
+ 
+ 
+
+current through the 5 ohm resistor = I1-I3 = 4.67 A 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.22/2_22.sce #
+ 
+ 
+ 
+ 
+ from the fig,   
+ 
+ 
+ I4=40   
+ 
+ \nmeshes 2 and 3 form a supermesh. current equation for supermesh,   
+ 
+ 
+ -I1+2*I2-I3 = 0   
+ 
+ Applying Kvl to supermesh:   
+ 
+ 
+ -1/5(I2-I1)-1/20*I2-1/15*I3-1/2(I3-I4)=0   
+ 
+ applying KVL to mesh 1   
+ 
+ 
+ -1/10*I1-1/5(I1-I2)-1/6(I1-I4)=6   
+ 
+ Solving equations 1 ,2 ,3 and 4   
+ 
+ B  =
+ 
+    40.  
+    0.   
+    0.   
+    6.   
+ 
+ 
+ 
+    10.  
+    20.  
+    30.  
+    40.  
+ 
+ 
+ I1=10 A   
+ 
+ 
+ I2=-20 A   
+ 
+ 
+ I3=30 A   
+ 
+ 
+ I4=40 A   
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.24/2_24.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 2*V1-V2 = 2   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ 3*V2-V1 = 4   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    2.  
+    4.  
+ 
+ 
+ 
+    2.  
+    2.  
+ 
+ 
+ V1= 2 V   
+ 
+ 
+ V2=-2 V   
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.25/2_25.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 8*VA-2*VB = 50   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ -3*VA+9*VB = 85   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    50.  
+    85.  
+ 
+ 
+ 
+    9.3939394  
+    12.575758  
+ 
+ 
+ VA= 9.39 V   
+ 
+ 
+ VB= 12.58 V   
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.26/2_26.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 5*V1-2*V2 = -24   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ 10*V1-31*V2+6*V3 = 300   
+ 
+ Applying KCL to node 3:   
+ 
+ 
+ -4*V2 +9*V3 = 160   
+ 
+ Solving equations 1,2 and 3   
+ 
+ B  =
+ 
+  - 24.   
+    300.  
+    160.  
+ 
+ 
+ 
+  - 8.7671233  
+  - 9.9178082  
+    13.369863  
+ 
+ 
+ V1= -8.77 V   
+ 
+ 
+ V2= -9.92 V   
+ 
+ 
+ V3= 13.37 V   
+ 
+ 
+ 
+ 
+
+current through the 5 ohm resistor = V3-V2/5 = 4.66 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.27/2_27.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 50*V1-20*V2 = 2400   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ -10*V1+19*V2 = 240   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    2400.  
+    240.   
+ 
+ 
+ 
+    67.2  
+    48.   
+ 
+ 
+ V1= 67.2 V   
+ 
+ 
+ V2=-48 V   
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.28/2_28.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 4*VA-2*VB = 5   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ -2*VA+3*VB = 4   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    5.  
+    4.  
+ 
+ 
+ 
+    2.875  
+    3.25   
+ 
+ 
+ VA= 2.88 V   
+ 
+ 
+ VB= 3.25 V   
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.29/2_29.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 4*V1-2*V2-V3 = -24   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ -50*V1+71*V2-20*V3 = 0   
+ 
+ Applying KCL to node 3:   
+ 
+ 
+ -5V1-4*V2 +10*V3 = 180   
+ 
+ Solving equations 1,2 and 3   
+ 
+ B  =
+ 
+  - 24.   
+    0.    
+    180.  
+ 
+ 
+ 
+    6.3529412  
+    11.764706  
+    25.882353  
+ 
+ 
+ V1= 6.35 V   
+ 
+ 
+ V2= 11.76 V   
+ 
+ 
+ V3= 25.88 V   
+ 
+ 
+ 
+ 
+
+current through the 5 ohm resistor = V3-V2/5 = 14.12 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.30/2_30.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 8*V1-V2 = 50   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ -2*V1+11*V2 = -500   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    50.   
+  - 500.  
+ 
+ 
+ 
+    2.6119403  
+  - 29.104478  
+ 
+ 
+ V1= 2.61 V   
+ 
+ 
+ V2=-29.1 V   
+ 
+ 
+ 
+ 
+ 
+ 
+
+I1= -1.30 A 
+I2= 3.17 A 
+I3= 10.45 A 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.31/2_31.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node a:   
+ 
+ 
+ 0.5*Va-0.2*Vb = 34.2   
+ 
+ Applying KCL to node b:   
+ 
+ 
+ 0.1*Va-0.4*Vb = -32.4   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    34.2  
+  - 32.4  
+ 
+ 
+ 
+    112.  
+    109.  
+ 
+ 
+ Va= 112 V   
+ 
+ 
+ Vb= 109 V   
+ 
+ 
+ 
+ 
+ 
+ 
+
+I1= 40 A 
+I2= 10 A 
+I3= 10 A 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.32/2_32.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ V1 = 50   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ -2*V1+17*V2 = 50   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    50.  
+    50.  
+ 
+ 
+ 
+    50.        
+    8.8235294  
+ 
+ 
+ V1= 50 V   
+ 
+ 
+ V2= 8.82 V   
+ 
+ 
+ 
+
+current in the 10-Ohm resistor =V2/10 =0.88 A 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.33/2_33.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node a:   
+ 
+ 
+ 6*Va-5*Vb = -20   
+ 
+ Applying KCL to node b:   
+ 
+ 
+ -10*Va+17*Vb-5*Vc = 0   
+ 
+ At node c   
+ 
+ 
+ Vc = 20   
+ 
+ 
+ Solving equations 1,2 and 3   
+ 
+ B  =
+ 
+  - 20.  
+    0.   
+    20.  
+ 
+ 
+ 
+    3.0769231  
+    7.6923077  
+    20.        
+ 
+ 
+ Va= 3.08 V   
+ 
+ 
+ Vb= 7.69 V   
+ 
+ 
+ 
+ 
+ 
+ 
+
+V1 = Va-Vb =-4.61 V 
+V2 = Vb-Vc =-12.31 V 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.34/2_34.sce #
+ 
+ 
+ 
+ 
+ At node A:   
+ 
+ 
+ VA = 60   
+ 
+ Applying KCL to node B:   
+ 
+ 
+ -VA+3*VB-VC = 12   
+ 
+ Applying KCL to node C:   
+ 
+ 
+ -2*VA-5*VB+10*VC   
+ 
+ Solving equations 1,2 and 3   
+ 
+ B  =
+ 
+    60.  
+    12.  
+    24.  
+ 
+ 
+ 
+    60.    
+    34.56  
+    31.68  
+ 
+ 
+ VC= 31.68 V   
+ 
+ 
+ Voltage across the 100 Ohm resistor = 31.68 V   
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.35/2_35.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 2.5*V1-0.5*V2 = 5   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ V1-V2 = 0   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    5.  
+    0.  
+ 
+ 
+ 
+    2.5  
+    2.5  
+ 
+ 
+ V1= 2.5 V   
+ 
+ 
+ V2=-2.5 V   
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.37/2_37.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 2*V1+17*V2 = 0   
+ 
+ Applying KCL to node 2:   
+ 
+ 
+ V1+6V2 = 0   
+ 
+ Solving equations 1 and 2   
+ 
+ B  =
+ 
+    0.  
+    0.  
+ 
+ 
+ 
+    0.  
+    0.  
+ 
+ 
+ V1= 0 V   
+ 
+ 
+ V2= 0 V   
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.38/2_38.sce #
+ 
+ 
+ 
+ 
+ Applying KCL to node a:   
+ 
+ 
+ 2*Va-0.5*Vb-0.5*Vc = 5   
+ 
+ Applying KCL to node b:   
+ 
+ 
+ -3/2*Va+5/6*Vb+2/3*Vc = -1   
+ 
+ Applying KCL to node c:   
+ 
+ 
+ 1/2*Va+1/3*Vb-31/30*Vc = -1   
+ 
+ Solving equations 1,2 and 3   
+ 
+ B  =
+ 
+    5.  
+  - 1.  
+    0.  
+ 
+ 
+ 
+    4.3030303  
+    3.8787879  
+    3.3333333  
+ 
+ 
+ Va= 4.303 V   
+ 
+ 
+ Vb= 3.87 V   
+ 
+ 
+ Vc= 3.33 V   
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.40/2_40.sce #
+ 
+ 
+ 
+ 
+ selecting central node as reference node   
+ 
+ 
+ V1= -12 V   
+ 
+ 
+ Applying KCL at node 1:   
+ 
+ 
+ -2*V1+2.5*V2-0.5V3 = 14   
+ 
+ nodes 3 and 4 form a supernode   
+ 
+ 
+ 0.2*V1+V3-1.2*V4 = 0   
+ 
+ Applying KCL to supernode :   
+ 
+ 
+ 0.1*V1-V2+0.5*V3+1.4*V4 = 0   
+ 
+ Solving equations 1,2,3 and 4   
+ 
+ B  =
+ 
+  - 12.  
+    14.  
+    0.   
+    0.   
+ 
+ 
+ 
+  - 12.  
+  - 4.   
+    0.   
+  - 2.   
+ 
+ 
+ V1= -12 V   
+ 
+ 
+ V2= -4 V   
+ 
+ 
+ V3= 0   
+ 
+ 
+ V4= -2 V   
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.1/3_1.sce #
+ 
+ 
+ 
+ 
+ When 10-V source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I1=10*(0.87/(10+0.87))= 0.80 A (down) 
+ 
+ When 4 A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I2=2.86*(0.875/(10+0.875))= 0.23 A (down) 
+ 
+ By superposition theorem:   
+ 
+ 
+
+I=I1+I2=0.8+0.23= 1.03 A (down) 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.2/3_2.sce #
+ 
+ 
+ 
+ 
+ When 4-A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I1=3.33*(3.53/(6+3.53)) = 1.23 A (down) 
+ 
+ When 10-V source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I2=0.833*(3.53/(6+3.53))= 0.31 A (up) 
+ 
+ When 3-A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I3=3*(3.53/(6+3.53))= 1.11 A (down) 
+ 
+ By superposition theorem:   
+ 
+ 
+
+I=I1-I2+I3=1.23-0.31+1.11= 2.04 A (down) 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.3/3_3.sce #
+ 
+ 
+ 
+ 
+ When 4-A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I1=4/(2+1) = 1.33 A (down) 
+ 
+ When 3-A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I2=3*(2/(2+1)) = 2.00 A (down) 
+ 
+ When 1-A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I3=1*(2/(2+1)) = 0.67 A (down) 
+ 
+ By superposition theorem:   
+ 
+ 
+
+I=I1+I2+I3=1.33+2+0.66= 4.00 A (down) 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.4/3_4.sce #
+ 
+ 
+ 
+ 
+ When 6-V source is acting alone:   
+ 
+ 
+VAB1 = 6.00 V 
+ 
+ When 10-V source is acting alone:   
+ 
+ 
+ Since the resistor of 5 ohm is shorted,the voltage across it is zero   
+ 
+ 
+VAB2= 10.00 V 
+ 
+ When 5-A source is acting alone:   
+ 
+ 
+ Due to short circuit in both the parts   
+ 
+ 
+VAB3 = 0.00 V 
+ 
+ By superposition theorem:   
+ 
+ 
+
+VAB=VAB=VAB1+VAB2+VAB3= 16.00 V 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.5/3_5.sce #
+ 
+ 
+ 
+ 
+ When 5-A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I1=5*(2/(2+4)) = 1.67 A (down) 
+ 
+ When 2-A source is acting alone:   
+ 
+ 
+ By current-division formula :   
+ 
+ 
+I2=2*(2/(2+4)) = 0.67 A (down) 
+ 
+ When 6-V source is acting alone:   
+ 
+ 
+ Applying KVL to the mesh   
+ 
+ 
+ -2*I3-6-4*I3=0   
+ 
+ 
+ I3=-1   
+ 
+ 
+I3=-1 A= -1.00 A (down) 
+ 
+ By superposition theorem:   
+ 
+ 
+
+I=I1+I2+I3=1.67+0.67-1= 1.33 A (down) 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.6/3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+Applying KCL at node 1, 
+I1 = 0.395 
+
+Applying KCL at node 1, 
+I1 = 0.263 
+
+By superposition theorem, 
+I = I1+I2 = 0.658 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.7/3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+applying KCL at node 1, 
+Ix1 = 3 A 
+
+applying KCL at the mesh, 
+Ix2 = 2 A 
+
+By superposition theorem, Ix = Ix1+Ix2 = 5 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.8/3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ Vx+10I1=5   
+ 
+ 
+ Applying KVL to mesh,   
+ 
+ 
+ 4Vx+12I1=5   
+ 
+ 
+ B  =
+ 
+    5.  
+    5.  
+ 
+ 
+ 
+  - 0.3571429  
+    0.5357143  
+ 
+ 
+ I1 = 0.535 A   
+ 
+ 
+ 
+ Vx+10I2=0   
+ 
+ 
+ Applying KCL at Node x,   
+ 
+ 
+ Vx=-10/7   
+ 
+ 
+ B  =
+ 
+    0.         
+  - 1.4285714  
+ 
+ 
+ 
+  - 1.4285714  
+    0.1428571  
+ 
+ 
+ I2 = 0.1428 A   
+ 
+ 
+ 
+ 
+
+By superposition theorem, 
+I = I1+I2 = 0.678 A  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.9/3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ Vx-5I1=0   
+ 
+ 
+ Applying KVL to mesh,   
+ 
+ 
+ 10Vx-15I1=-100   
+ 
+ 
+ B  =
+ 
+    0.    
+  - 100.  
+ 
+ 
+ 
+  - 14.285714  
+  - 2.8571429  
+ 
+ 
+ I1 = 2.857 A   
+ 
+ 
+ 
+ 9Vx+10I2=0   
+ 
+ 
+ Applying KCL at Node 1,   
+ 
+ 
+ Vx=-100/7   
+ 
+ 
+ B  =
+ 
+    0.         
+  - 14.285714  
+ 
+ 
+ 
+  - 14.285714  
+    12.857143  
+ 
+ 
+ I2 = 12.857 A   
+ 
+ 
+ 
+ 
+
+By superposition theorem, 
+I = I1+I2 = 15.714 A  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.10/3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ Vx+2I1=0   
+ 
+ 
+ Applying KVL to mesh,   
+ 
+ 
+ -5Vx-5I1=17   
+ 
+ 
+ B  =
+ 
+    0.   
+    17.  
+ 
+ 
+ 
+  - 6.8  
+    3.4  
+ 
+ 
+ I1 = 3.4 A   
+ 
+ 
+ 
+ 4Vx+3I2=0   
+ 
+ 
+ Applying KCL at Node x,   
+ 
+ 
+ Vx=-6/5   
+ 
+ 
+ B  =
+ 
+    0.   
+  - 1.2  
+ 
+ 
+ 
+  - 1.2  
+    1.6  
+ 
+ 
+ I2 = 1.6 A   
+ 
+ 
+ 
+ 
+
+By superposition theorem, 
+I = I1+I2 = 5 A  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.15/3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ removing the 10 ohm resistor from the circuit   
+ 
+
+For mesh 1, 
+I1 = 10 A 
+
+Applying KVL to mesh 2,, 
+I2 = 2 A 
+
+Writing Vth equation, 
+ Vth = 10 V 
+ 
+ 
+ replacing the current source of 10 A with an open circuit  and voltage source  
+      of 100 V with a short circuit,                                            
+ 
+
+Rth = 17 Ohm 
+ 
+
+IL = 0.37 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.16/3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ removing the 24 Ohm resistor from the network   
+ 
+
+I1 = 2.75 A 
+
+I2 = 8.8 A 
+
+Writing Vth equation, 
+ Vth = 93.5 V 
+ 
+ 
+ replacing the 220 V source with short circuit   
+ 
+
+Rth = 22.75 Ohm 
+ 
+
+IL = 2 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.17/3_17.sce #
+ 
+ 
+ 
+ 
+ removing the 3 Ohm resistor from the network   
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 11*I1-9*I2=50   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -9*I1+18*I2=0   
+ 
+ B  =
+ 
+    50.  
+    0.   
+ 
+ 
+ 
+    7.6923077  
+    3.8461538  
+ 
+ 
+ I1=7.69 A   
+ 
+ 
+ I2=3.85 A   
+ 
+ 
+ 
+ 
+ 
+
+Writing Vth equation, 
+ Vth = 11.5 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R1 = 0.73 Ohm 
+R2 = 1.82 Ohm 
+R3 = 0.91 Ohm 
+ 
+ 
+ 
+
+Rth = 3.27 Ohm 
+ 
+ 
+
+IL = 1.83 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.18/3_18.sce #
+ 
+ 
+ 
+ 
+ removing the 20 Ohm resistor from the network   
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 30*I1-15*I2=-75   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -15*I1+20*I2=20   
+ 
+ B  =
+ 
+  - 75.  
+    20.  
+ 
+ 
+ 
+  - 3.2  
+  - 1.4  
+ 
+ 
+ I1=-3.2 A   
+ 
+ 
+ I2=-1.4 A   
+ 
+ 
+ 
+ 
+ 
+ 
+
+Writing Vth equation, 
+ Vth = 63 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R1 = 2.5 Ohm 
+R2 = 2.5 Ohm 
+R3 = 1.2 Ohm 
+ 
+ 
+
+Rth = 4.67 Ohm 
+ 
+ 
+
+IL = 2.55 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.19/3_19.sce #
+ 
+ 
+ 
+ 
+ removing the 3 Ohm resistor from the network   
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ I1=6   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -12*I1+18*I2=42   
+ 
+ B  =
+ 
+    6.   
+    42.  
+ 
+ 
+ 
+    6.         
+    6.3333333  
+ 
+ 
+ I2= 6.33 A   
+ 
+ 
+ 
+ 
+
+Writing Vth equation, 
+ Vth = 38 V 
+ 
+ 
+ replacing the voltage source with short circuit and current source by open cir 
+      cuit                                                                      
+ 
+ 
+ 
+ 
+
+Rth = 4 Ohm 
+ 
+ 
+
+IL = 5.43 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.20/3_20.sce #
+ 
+ 
+ 
+ 
+ removing the 30 Ohm resistor from the network   
+ 
+ 
+ Applying KVL to supermesh    
+ 
+ 
+ -I1+I2=13   
+ 
+ 15*I1+100*I2=150   
+ 
+ 
+ 
+
+Writing Vth equation, 
+ Vth = 70 V 
+ 
+ 
+ replacing the voltage source with short circuit and current source by open cir 
+      cuit                                                                      
+ 
+ 
+
+Rth = 26.09 Ohm 
+ 
+ 
+
+IL = 1.25 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.21/3_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Removing the 20 Ohm resistor from the network   
+ 
+
+Vth = 100 V  
+ 
+ 
+ replacing the voltage source with short circuit and current source by open cir 
+      cuit                                                                      
+ 
+ 
+ Rth = 0   
+ 
+ 
+
+IL = 5 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.22/3_22.sce #
+ 
+ 
+ 
+ 
+ removing the 10 Ohm resistor from the network   
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 4*I1-I2=-25   
+ 
+ Applying KVL to mesh 2   
+ 
+ 
+ -I1+4*I2=10   
+ 
+ B  =
+ 
+  - 25.  
+    10.  
+ 
+ 
+ 
+  - 6.  
+    1.  
+ 
+ 
+ I1=-6 A   
+ 
+ 
+ I2=1 A   
+ 
+ 
+ 
+ 
+ 
+
+Writing Vth equation, 
+ Vth = 10 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R1 = 8 Ohm 
+R2 = 4 Ohm 
+R3 = 4 Ohm 
+ 
+ 
+ 
+
+IL = 0.88 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.23/3_23.sce #
+ 
+ 
+ 
+ 
+ removing the 1 Ohm resistor from the network   
+ 
+ 
+ writing current equation for meshes 1 & 2    
+ 
+ 
+ I1= -3 A   
+ 
+ I2=1 A   
+ 
+ 
+ 
+ 
+ 
+
+Writing Vth equation, 
+ Vth = 12 V 
+ 
+ 
+ replacing the voltage source with short circuit and current source by open cir 
+      cuit                                                                      
+ 
+ 
+ Rth = 2 Ohm   
+ 
+ 
+ 
+
+IL = 4 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.24/3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ I1=2   
+ 
+ Writing current equation to supermesh:   
+ 
+ 
+ I3-I2=4   
+ 
+ Applying KVL to supermesh:   
+ 
+ 
+ -5I2-15I3=0   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    2.  
+    4.  
+    0.  
+ 
+ 
+ 
+    2.  
+  - 3.  
+    1.  
+ 
+ 
+ I1 = 2 A   
+ 
+ 
+ I2 = -3 A   
+ 
+ 
+ I3 = 1 A   
+ 
+ 
+ 
+ 
+
+Isc = 5 A 
+ 
+ 
+ replacing the voltage source with short circuit and current source by open cir 
+      cuit                                                                      
+ 
+ 
+ 
+ 
+
+Rn = 0.95 Ohm 
+ 
+ 
+ 
+
+IL = 0.43 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.25/3_25.sce #
+ 
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 7*I1-2*I2=20   
+ 
+ Applying KVL to mesh 2,   
+ 
+ 
+ -2*I1+10*I2=-12   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    20.  
+  - 12.  
+ 
+ 
+ 
+    2.6666667  
+  - 0.6666667  
+ 
+ 
+ I2 = -0.67 A   
+ 
+ 
+
+Isc = I2 = -0.67 A 
+ 
+ 
+ replacing the voltage source with short circuit    
+ 
+ 
+ 
+ 
+ 
+
+Rn = 9.43 Ohm 
+ 
+ 
+ 
+
+IL = 0.33 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.26/3_26.sce #
+ 
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 7*I1-I2=10   
+ 
+ Applying KVL to mesh 2:   
+ 
+ 
+ -I1+6*I2-3*I3=0   
+ 
+ Applying KVL to mesh 3:   
+ 
+ 
+ 3*I2-3*I3=20   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    10.  
+    0.   
+    20.  
+ 
+ 
+ 
+    0.5        
+  - 6.5        
+  - 13.166667  
+ 
+ 
+ I1 = -13.17 A   
+ 
+ 
+
+Isc = -13.17 A 
+ 
+ 
+ replacing the voltage source with short circuit    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rn = 1.46 Ohm 
+ 
+ 
+ 
+
+IL = 1.68 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.27/3_27.sce #
+ 
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 20*I1-20*I2=10   
+ 
+ Applying KVL to mesh 2:   
+ 
+ 
+ -20*I1+60*I2-20*I3=40   
+ 
+ Applying KVL to mesh 3:   
+ 
+ 
+ -20*I2+50*I3=-100   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    10.   
+    40.   
+  - 100.  
+ 
+ 
+ 
+    0.8125  
+    0.3125  
+  - 1.875   
+ 
+ 
+ I1 = 0.81A   
+ 
+ 
+
+Isc = -0.81 A 
+ 
+ 
+ replacing the voltage source with short circuit    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rn = 12.3 Ohm 
+ 
+ 
+ 
+
+IL = 0.45 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.28/3_28.sce #
+ 
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 90*I1-60*I2=120   
+ 
+ Applying KVL to mesh 2:   
+ 
+ 
+ -60*I1+100*I2-30*I3=40   
+ 
+ Applying KVL to mesh 3:   
+ 
+ 
+ 30*I2-30*I3=-10   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    120.  
+    40.   
+  - 10.   
+ 
+ 
+ 
+    4.2222222  
+    4.3333333  
+    4.6666667  
+ 
+ 
+ I3 = 4.67A   
+ 
+ 
+
+Isc = 4.67 A 
+ 
+ 
+ replacing the voltage source with short circuit    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rn = 15 Ohm 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.29/3_29.sce #
+ 
+ 
+ 
+ 
+ 
+ Writing current equation for supermesh :   
+ 
+ 
+ I2-I1=2   
+ 
+ Applying KVL to supermesh ,   
+ 
+ 
+ 12*I1= 55   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+    2.   
+    55.  
+ 
+ 
+ 
+    4.5833333  
+    6.5833333  
+ 
+ 
+ I1 = 4.58 A   
+ 
+ 
+ I2 = 6.58 A   
+ 
+ 
+
+Isc = I2 = 6.58 A 
+ 
+ 
+ replacing the voltage source with short circuit and current source with open c 
+      ircuit                                                                    
+ 
+ 
+ 
+ 
+
+Rn = 3 Ohm 
+ 
+ 
+ 
+
+IL = 1.79 A 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.30/3_30.sce #
+ 
+ 
+ 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 5*I1-2*I2=-2   
+ 
+ Applying KVL to mesh 2:   
+ 
+ 
+ 4*I2-2*I3=-1   
+ 
+ Applying KVL to mesh 3:   
+ 
+ 
+ -2*I1-2*I2+4*I3=0   
+ 
+ solving these equations we get :   
+ 
+ B  =
+ 
+  - 2.  
+  - 1.  
+    0.  
+ 
+ 
+ 
+  - 0.6153846  
+  - 0.5384615  
+  - 0.5769231  
+ 
+ 
+ I1 = -0.64A   
+ 
+ 
+ I2 = -0.55A   
+ 
+ 
+ I3 = -0.59A   
+ 
+ 
+ 
+ 
+
+Isc = I3 = -0.64 A 
+ 
+ 
+ replacing the voltage source with short circuit    
+ 
+ 
+
+Rn = 2.2 Ohm 
+ 
+ 
+ 
+
+IL = 0.41 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.31/3_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Writing Vth equation,   
+ 
+
+Vth = 4 V 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 4*I1-2*I2 = 1   
+ 
+ Applying KVL to mesh 2:   
+ 
+ 
+ -18*I1-11*I2=0   
+ 
+ B  =
+ 
+    1.  
+    0.  
+ 
+ 
+ 
+    1.375  
+    2.25   
+ 
+ 
+ I2 = 2.25 A   
+ 
+ 
+
+Isc = I2 = 2.25 A 
+ 
+ 
+
+Rth = 2 Ohm 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.33/3_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Writing Vth equation,   
+ 
+
+Vth = 4 V 
+ 
+ 
+ Applying KVL to mesh 1:   
+ 
+ 
+ 4*I1-2*I2 = 1   
+ 
+ Applying KVL to mesh 2:   
+ 
+ 
+ -18*I1-11*I2=0   
+ 
+ B  =
+ 
+    1.  
+    0.  
+ 
+ 
+ 
+    1.375  
+    2.25   
+ 
+ 
+ I2 = 2.25 A   
+ 
+ 
+
+Isc = I2 = 2.25 A 
+ 
+ 
+
+Rth = 2 Ohm 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.41/3_41.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ I2-I1=4   
+ 
+ Applying KVL at the outerpath:   
+ 
+ 
+ -6*I1-5*I2=2   
+ 
+ B  =
+ 
+    4.  
+    2.  
+ 
+ 
+ 
+  - 2.  
+    2.  
+ 
+ 
+ I1 = -2 A   
+ 
+ 
+ I2 = 2 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+
+Vth = 10 V 
+ 
+ 
+ replacing the voltage source with short circuit and current source by an open  
+      circuit                                                                   
+ 
+ 
+
+Rth = 0.91 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =0.91 Ohm 
+ 
+ 
+
+Pmax = 27.50 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.42/3_42.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ I1=50   
+ 
+ Applying KVL to mesh 2:   
+ 
+ 
+ 5*I1-10*I2=0   
+ 
+ B  =
+ 
+    50.  
+    0.   
+ 
+ 
+ 
+    50.  
+    25.  
+ 
+ 
+ I2 = 25 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+
+Vth = 75 V 
+ 
+ 
+ replacing the current source of 50 A by an open circuit    
+ 
+ 
+ 
+ 
+
+Rth = 2.1 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =2.1 Ohm 
+ 
+ 
+
+Pmax = 669.64 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.43/3_43.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ Writing the current equation for the supermesh   
+ 
+ 
+ I2-I1=6   
+ 
+ Applying KVL to the supermesh :   
+ 
+ 
+ 5*I1+2*I2=10   
+ 
+ B  =
+ 
+    6.   
+    10.  
+ 
+ 
+ 
+    0.6666667  
+    6.6666667  
+ 
+ 
+ I1 = -0.29 A   
+ 
+ 
+ I2 = 5.71 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+
+Vth = 11 V 
+ 
+ 
+ replacing the current source of 50 A by an open circuit    
+ 
+ 
+ 
+ 
+
+Rth = 8.43 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =8.43 Ohm 
+ 
+ 
+
+Pmax = 3.87 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.44/3_44.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ Applying KVL to mesh 1   
+ 
+ 
+ 15*I1-5*I2=120   
+ 
+ Applying KVL to the mesh 2:   
+ 
+ 
+ I2=-6   
+ 
+ B  =
+ 
+    120.  
+  - 6.    
+ 
+ 
+ 
+    6.  
+  - 6.  
+ 
+ 
+ I1 = 6 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+
+Vth = 60 V 
+ 
+ 
+ replacing the current source of 50 A by an open circuit    
+ 
+ 
+ 
+ 
+
+Rth = 3.33 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =3.33 Ohm 
+ 
+ 
+
+Pmax = 270.00 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.45/3_45.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ I1=3 A   
+ 
+ Applying KVL to the mesh 2:   
+ 
+ 
+ -25*I1+41*I2=0   
+ 
+ B  =
+ 
+    3.  
+    0.  
+ 
+ 
+ 
+    3.         
+    1.8292683  
+ 
+ 
+ I2 = 1.83 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+
+Vth = 9.28 V 
+ 
+ 
+ replacing the current source of 50 A by an open circuit    
+ 
+ 
+ 
+ 
+
+Rth = 9.76 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =9.76 Ohm 
+ 
+ 
+
+Pmax = 2.21 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.46/3_46.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ I2-I1=2   
+ 
+ I2=-3 A   
+ 
+ B  =
+ 
+    2.  
+  - 3.  
+ 
+ 
+ 
+  - 5.  
+  - 3.  
+ 
+ 
+ I1 = -5 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+ 
+
+Vth = 15 V 
+ 
+ 
+ replacing the voltage source with short circuit and current source by an open  
+      circuit                                                                   
+ 
+ 
+
+Rth = 5 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =5 Ohm 
+ 
+ 
+
+Pmax = 11.25 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.47/3_47.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ By star-delta transformation   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+
+Vth = 70.83 V 
+ 
+ 
+ replacing the voltage source with short circuit    
+ 
+ 
+
+Rth = 23.92 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =23.92 Ohm 
+ 
+ 
+
+Pmax = 52.44 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.48/3_48.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ Applying KVL to the mesh 1:   
+ 
+ 
+ 35*I1-30*I2=60   
+ 
+ Applying KVL to the mesh 2:   
+ 
+ 
+ I2=2   
+ 
+ B  =
+ 
+    60.  
+    2.   
+ 
+ 
+ 
+    3.4285714  
+    2.         
+ 
+ 
+ I1 = 3.43 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+ 
+
+Vth = 48.60 V 
+ 
+ 
+ replacing the voltage source with short circuit and current source by an open  
+      circuit                                                                   
+ 
+ 
+ 
+ 
+
+Rth = 8.57 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =8.57 Ohm 
+ 
+ 
+
+Pmax = 68.9 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.49/3_49.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+I1 = 2.5 A 
+
+i2 = 1.67 A 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+ 
+
+Vth = 8.2 V 
+ 
+ 
+ replacing the voltage source of 100V with short circuit    
+ 
+ 
+
+Rth = 20.83 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =20.83 Ohm 
+ 
+ 
+
+Pmax = 0.81 W 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.50/3_50.sce #
+ 
+ 
+ 
+ 
+ 
+ Removing the variable resistor RL from the network:   
+ 
+ 
+ Applying KVL to the mesh 1:   
+ 
+ 
+ 9*I1-3*I2=72   
+ 
+ Applying KVL to the mesh 2:   
+ 
+ 
+ -3*I1+9*I2=0   
+ 
+ B  =
+ 
+    72.  
+    0.   
+ 
+ 
+ 
+    9.  
+    3.  
+ 
+ 
+ I1 = 9 A   
+ 
+ 
+ I2 = 3 A   
+ 
+ 
+ Writing Vth equation,   
+ 
+ 
+ 
+ 
+
+Vth = 60 V 
+ 
+ 
+ replacing the voltage source with short circuit and current source by an open  
+      circuit                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rth = 2 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =2 Ohm 
+ 
+ 
+
+Pmax = 450 W 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.1/ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ i=15 Amp   
+ 
+ 
+ t=3.375 ms   
+ 
+ 
+ f=40 Hz   
+ 
+ 
+ i=Im*sin(2*pi*f*t)   
+ 
+Im=20Amp 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.2/ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f=50 c/s   
+ 
+ 
+ Im=100 A   
+ 
+ 
+ 
+ i=Im*sin(2*pi*f*t)   
+ 
+ 
+i=50 A 
+ 
+ 
+ i=Im*sin(2*pi*f*t1)   
+ 
+ 
+t1=2e-01 second 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.3/ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f=50 c/s   
+ 
+ 
+ I=20 A   
+ 
+Im=I*sqrt(2) 
+ 
+
+Im=28.28 A 
+
+Equation of current, 
+i=Im*sin(2*pi*f*t) 
+ 
+ =28.28sin(2*pi*f*t)=28.28sin(100*pi*t)   
+ 
+ 
+ (a)At           t=0.0025 seconds   
+ 
+ 
+i=20 A 
+ 
+ (b)At           t=0.0125 seconds   
+ 
+ 
+i=-20 A 
+ 
+ (c)             i=28.28sin(100*pi*t)    
+ 
+ 
+t=1e-01 second 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.4/ex4_4.sce #
+ 
+ 
+ 
+ 
+ v=200sin314t   
+ 
+ 
+ v=Vmsin(2*pi*f*t)   
+ 
+ 
+ (2*pi*f)=314   
+ 
+ 
+f=50 Hz 
+ 
+ 
+
+For a sinusoidal waveform, 
+Vavg=(2*Vm/pi) 
+Vrms=(Vm/sqrt(2)) 
+ 
+ 
+
+form fator=1.11 
+
+crest factor=1.41 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.5/ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ kf=1.2   
+ 
+ 
+ kp=1.5   
+ 
+ 
+ Vavg=10   
+ 
+ 
+ form factor kf=(Vrms/Vavg)   
+ 
+ 
+
+Vrms=12 V 
+ 
+ peak factor kp=(Vm/Vrms)   
+ 
+ 
+
+Vm=18 V 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.14/ex4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vavg=((0+40+60+80+100+80+60+40)/8)   
+ 
+
+Vavg=57.5 V 
+ 
+ Vrms=sqrt((0+(40)^2+(60)^2+(80)^2+(100)^2+(80)^2+(60)^2+(40)^2)/8)   
+ 
+
+Vrms=64.42 V 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.15/ex4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vavg=((0+10+20)/3)   
+ 
+Vavg=10 V 
+ 
+ Vrms=(((0)^2+(10)^2+(20)^2)/3)   
+ 
+Vrms=12.9 V 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.33/ex4_33.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ v(t)=177sin(314t+10)   
+ 
+ 
+ i(t)=14.14sin(314t-20)   
+ 
+
+Current i(t) lags behind voltage v(t) by 30degrees 
+ 
+ phi=30degrees   
+ 
+Power factor       pf=cos(30)=0.866 (lagging) 
+
+Power consumed    P=V*I*cos(phi)=1083.7 W 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.42/ex4_42.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PR=1000 W 
+VR=200 V 
+Pcoil=250 W 
+Vcoil=300 V 
+PR=(VR^2/R) 
+
+R=40 Ohms 
+
+VR=R*I 
+I=5 A 
+ 
+ Pcoil=(I^2)*r   
+ 
+
+Resistance of coil      r=10 Ohm 
+
+Impedance of coil       Zcoil=(Vcoil/I)=60 Ohms 
+
+Reactance of coil       XL=sqrt((Zcoil^2)-(r^2)) =59.2 Ohms 
+
+Combined resistance     RT=R+r=50 Ohms 
+
+Combined impedance      ZT=sqrt(((R+r)^2)+(XL^2)) =77.5 Ohms 
+
+Supply voltage          V=ZT*I=387.3 V 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.47/ex4_47.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+I=5 A 
+V=200 V 
+P=600 W 
+For f=50 Hz, 
+
+Z=V/I =40 Ohms 
+
+P=((I^2)*r) 
+r=24 Ohms 
+
+XL=sqrt((Z^2)-(r^2)) 
+XL=32 Ohms 
+
+XL=(2*pi*f*L)
+L=0.1019 H 
+
+For  f=60 Hz 
+XL=38.4 Ohm 
+
+r=24 Ohms 
+Z=sqrt((r^2)+(XL^2))=45.28 Ohms 
+
+I=V/Z=4.417 A 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.48/ex4_48.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For dc      V=12 V,      I=2.5 A  
+For ac      V=230 V,      I=2 A,      P=50 W 
+
+In an iron-cored coil,there are two types of losses 
+(i)Losses in core known as core or iron loss 
+(ii)Losses in winding known as copper loss 
+
+P=(I^2)*R+Pi 
+P/(I^2)=R+((Pi)/(I^2)) 
+RT=R+(Pi/(I^2)) 
+where R is the resistance of the coil and (Pi/I^2) is the resistance which is equivalent to the effect of iron loss 
+
+For dc supply,   f=0 
+XL=0 
+
+R=4.8 Ohm 
+
+For ac supply 
+Z=115 Ohms 
+
+Iron loss     Pi=P-I^2*R=30.8 W 
+
+RT=(P/I^2)=12.5 Ohm 
+
+XL=sqrt((Z^2)-(RT^2))=114.3 Ohm 
+
+XL=2*pi*L 
+Inductance      L=0.364 H 
+
+Power factor      =RT/Z=0.109 (lagging) 
+
+The series resistance equivalent to the effect of iron loss= Pi/(I^2)=7.7 Ohms 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.49/ex4_49.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+With iron core    I=4 A    pf=0.5,    V=200 V 
+Without iron core    I=5 A    pf=0.8,    V=40 V 
+When the iron-core is removed, 
+
+Z=V/I=8 Ohms 
+
+pf=R/Z 
+R=6.4 Ohms 
+
+XL=sqrt((Z^2)-(RT^2))=4.8 Ohms 
+
+XL=(2*pi*f*L) 
+Inductance    L=0.0153 H 
+
+With iron core, 
+Z=50 Ohms 
+
+pf=RT/Z 
+RT=25 Ohm 
+
+XL=sqrt((Z^2)-(RT^2))=43.30 Ohm 
+
+XL=(2*pi*f*L) 
+Inductance        L=0.1378 H 
+
+Iron loss      Pi=P=(I^2)*R 
+=VIcos(phi)-I^2*R 
+=297.6 W 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.51/ex4_51.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P=2000 W   
+ 
+ 
+ pf=0.5 (leading)   
+ 
+ 
+ V=230 V   
+ 
+ 
+ P=V*I*cos(phi)   
+ 
+
+I=17.39 A 
+
+S=V*I=P/cos(phi)=4000 VA 
+
+phi=60 degrees 
+
+Q=V*I*sin(phi)=3464 VAR 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.52/ex4_52.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+V=240 V 
+VR=100 V 
+P=300 W 
+f=50 Hz 
+
+P=(VR^2)/R 
+R=((VR^2)/P)=33.33 Ohm 
+
+P=(I^2)*R 
+I=sqrt((P/R)) 
+I=3 A 
+
+Z=V/I=80 Ohm 
+
+XC=sqrt((Z^2)-(R^2))=72.72 Ohm 
+
+XC=1/2*pi*f*C 
+C=4.38e-05 F 
+
+Voltage across capacitor VC=sqrt((V^2)-(VR^2))=218.17 V 
+
+Maximum value of max charge 
+VC=308.54 V 
+Qmax=C*VCmax=0.0135 C 
+
+Max stored energy Emax=((1/2)*C*(VCmax^2)) 
+=2.08 J 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.53/ex4_53.sce #
+ 
+ 
+ 
+ 
+ 
+Warning: obsolete use of '=' instead of '=='.
+R^2=(3*(XC^2));
+     !       
+at line       6 of exec file called by :    
+R._Singh_1523/CH4/EX4.53/ex4_53.sce',-1
+ 
+
+ 
+
+C=35*10^-6 F 
+f=50 Hz 
+VC=1/2.V 
+XC=1/(2*pi*f*C)=90.946 Ohm 
+
+VC=1/2.V 
+XC.I=1/2.Z.I 
+XC=1/2.Z 
+Z=2.XC 
+Z=sqrt((R^2)+(XC^2)) 
+(2XC)^2=(R^2)+(XC^2) 
+3XC^2=R^2 
+
+R^2=3*XC^2=24813.35 Ohm 
+R=157.5 Ohm 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.54/ex4_54.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+V=125 V 
+P=96.8 W 
+I=2.2 A 
+f=50 Hz 
+
+Z=V/I=56.82 A 
+
+P=(I^2)*R 
+R=20 Ohm 
+
+Xc=sqrt((Z^2)-(R^2))=53.18 Ohm 
+
+Xc=1/(2*pi*f*C) 
+ C=5.99e-05 F 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.57/ex4_57.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Z=(3.8+j*6.4) Ohm 
+
+XL=2*pi*f*L=69.12 Ohm 
+
+Z=(3+j69.12+R-jXC) 
+=(3+R)+j(69.12-XC) 
+
+3+R=3.8 
+R=0.8 Ohm 
+
+XC=62.72 Ohm 
+
+XC=1/2.pi.f.C 
+C=5e-05 F 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.58/ex4_58.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vL=300sin(1000t) 
+R=20 Ohm 
+phi=45 
+VL(max)=2Vcc(max) 
+sqrt(2)*VL=2*sqrt(2)*VC 
+I*XL=2*I*XC 
+XL=2*XC 
+cos(phi)=R/Z 
+
+Z=28.28 Ohm 
+
+Z=sqrt((R^2)+(XL-XC)^2) 
+XC=20 Ohm 
+
+XL=2*XC =40 Ohm 
+
+XL=w*L 
+L=0.04 H 
+
+XC=1/w*C 
+C=5e-05 F 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.59/ex4_59.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+pf=0.5 
+C=79.57uF 
+f=50 Hz 
+Vcoil=VC  
+
+XC=1/2*pi*f*C =40 Ohm 
+
+Vcoil=VC 
+Zcoil=XC=40 Ohm 
+
+pf of coil=cos(phi)=R/Zcoil 
+Resistance of coil R=20 Ohm 
+
+XL=sqrt((Zcoil^2)-(R^2))=34.64 Ohm 
+
+XL=2*pi*f*L 
+Inductance of coil=0.11 H 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.60/ex4_60.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+V=250 V 
+R=5 Ohm 
+L=9.55 H 
+Vcoil=300 V 
+
+XL=2*pi*f*L =3000 Ohm 
+
+Zcoil=sqrt(R^2)+(XL^2) =3000 Ohm 
+
+I=Vcoil/Zcoil =0.1 A 
+
+Z=V/I =2500 Ohm 
+
+Z=sqrt((R^2)+(XL-XC)^2) 
+XC=500 Ohm 
+
+C=1/2*pi*f*XC =6e-06 F 
+
+Z=sqrt((R^2)+(XC-XL)^2) 
+XC=5500 Ohm 
+
+C=6e-07 F 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.79/ex4_79.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R=10 Ohm 
+L=0.01H 
+C=100uF 
+
+f0=1/2*pi*sqrt(L*C)=159.15 Hz 
+
+BW=R/2*pi*L =159.15 Hz 
+
+f1=f0-BW/2 
+=79.58 Hz 
+
+f2=f0+BW/2 =238.73 Hz 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.81/ex4_81.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+V=200 V 
+I0= 20 A 
+Vc=5000 V 
+C=4uF 
+
+R=V/I0 =10 Ohm 
+
+Xco=Vco/Io =250 Ohm 
+
+Xco=1/2*pi*f0*C 
+f0=1/2*pi*Xco*C =159.15 Hz 
+
+at resonance Xco=Xlo 
+Xlo=250 Ohm 
+
+Xlo=2*pi*f0*L 
+L=0.25 H 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.82/ex4_82.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+V = 230 V 
+f0 = 50 Hz 
+I0 = 2A 
+Vco = 500 V 
+
+R=V/I0 =115 Ohm 
+
+Xco=Vco/I0 =250 Ohm 
+
+Xco=1/2.pi.f0.C 
+C= 1e-05 F 
+
+Xco=Xlo 
+Xlo=250 Ohm 
+
+Xlo=2.pi.f0.L 
+L=0.796 H 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.83/ex4_83.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R= 2 Ohm 
+L= 0.01 H 
+V=200 V 
+f0=50 Hz 
+f0=1/(2.pi.sqrt(LC) 
+
+C = 1e-03 F 
+
+I0= V/R =100 A 
+
+Vco=I0.Xco 
+=314.16 V 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.84/ex4_84.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v(t)=10sinwt 
+Vco=5000V 
+BW=400rad/s 
+R=100 Ohm 
+
+V=7.07 V 
+
+I0=V/R=0.0707 A 
+
+BW=R/L 
+L=0.25 H 
+
+Q0=Vco/V =70.71 
+
+Q0=1/R*sqrt(L/C) 
+C=5e-09 F 
+
+f0=1/2.pi.sqrt(LC)=4501.58 Hz 
+
+f1=f0-R/4.pi.L =4469.75 Hz 
+
+f2=f0+R/4.pi.L =4533.41 Hz 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.85/ex4_85.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R= 500 Ohm 
+f1 = 100 Hz 
+f2=10kHz 
+BW= f2-f1 =9900 Hz 
+
+f1=f0-BW/2 ------(i) 
+f2=f0+BW/2 ------(ii) 
+f1+f2 =2f0 
+f0=(f1+f2)/2 =5050 Hz 
+
+BW=R/2.pi.f0.L 
+L=0.008038 H 
+
+XL0=2.pi.f0.L =255.05 Ohm 
+
+XL0=XC0 =255.05 Ohm 
+
+XC0 =1/2.pi.f0.C 
+C=1e-07 F 
+
+Q0=(1/R*sqrt(L/C)) =0.5101 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.87/ex4_87.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+f0= 1MHz 
+C1=500pF 
+C2=600pF 
+C=500pF 
+
+f0=1/2.pi.sqrt(LC)
+L=0.000050660592 H 
+
+XL=2.pi.f0.L =318.31 Ohm 
+
+XC=1/2.pi.f0.C 
+XC=265.26 Ohm 
+
+I=1/2.I0 
+V/Z=1/2.V/R 
+Z=2R 
+
+sqrt((R^2)-(XL-XC)^2)=2R 
+R=30.63 Ohm 
+
+Q0=1/R.sqrt(L/C) 
+=10 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.88/ex4_88.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R=20 Ohm 
+L=0.2 H 
+C=100uF 
+
+f0=1/2.pi.sqrt(1/LC-R^2/L^2) 
+=31.83 Hz 
+
+ dynamic resistance =L/CR 
+= 100 Ohm 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.89/ex4_89.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R=20 Ohm 
+L=200uH 
+f=10^6 
+V=230 V 
+Rs=8000 Ohm 
+XL=2.pi.f.L =1256.6 Ohm 
+
+f0=1/2.pi.sqrt(1/LC-R^2/L^2) 
+C=1e-10 F 
+
+Q0=2.pi.f.L/R =62.83 
+
+Z=L/CR 
+=78977 Ohm 
+
+Zt=86977 Ohm 
+
+It=3e-03 A 
+grepthis#Electrical_Network_R._Singh_1523/CH5/EX5.1/5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    70.710678 + 70.710678i  
+ 
+ 
+ Applying KVL to Mesh 1 we get :   
+ 
+ 
+ (3+j14)I1-j10I2=70.710678+j70.710678   
+ 
+ 
+ Applying KVL to Mesh 2 we get :   
+ 
+ 
+ I1=0   
+ 
+ 
+ putting equation 2 in equation 1:   
+ 
+ 
+ I2=(70.710678+j70.710678)/-j10   
+ 
+ 
+ 
+  - 7.0710678 + 7.0710678i  
+ 
+ 
+ th  =
+ 
+    135.  
+ r  =
+ 
+   10.  
+ 
+ 
+   10.  
+ 
+ 
+    135.  
+ 
+ 
+ I2= mag - 10 ang - 135 A   
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH5/EX5.2/5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    8.660254 + 5.i  
+ 
+ 
+ N  =
+ 
+    8.660254 - 5.i  
+    0               
+    0               
+ 
+ 
+ 
+ 
+    1.3340761 - 0.5209699i  
+    0.3234717 - 0.6119704i  
+    0.3290795 - 0.3430990i  
+ 
+ 
+ th  =
+ 
+  - 21.331136  
+ r  =
+ 
+    1.4321902  
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH5/EX5.11/5_11.sce #
+ 
+ 
+ 
+ 
+ when mag-50 ang-0 source is acting alone :   
+ 
+ 
+ 
+ 
+    50.  
+ 
+ 
+ when mag-4 ang-0 source is acting alone :   
+ 
+ 
+ 
+ By Super-position theorem :   
+ 
+ 
+ Vab=Vab1+Vab2   
+ 
+ 
+Vab = 50 
+ 
+ th  =
+ 
+    0.  
+ r  =
+ 
+    50.  
+ 
+ 
+    50.  
+ 
+ 
+    0.  
+ 
+ 
+ Vab= mag-50 ang-0 V   
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.8/ex6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VL=440 V 
+P=50kW 
+IL=90 A 
+
+VL=Vph=440 V 
+
+Iph=IL/sqrt(3)=51.96 A 
+
+P=sqrt(3)*VL*IL*cos(phi) 
+
+cos(phi)=0.73 (lagging) 
+
+S=sqrt(3)*VL*IL =68589.21 VA 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.9/ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+IL=15 A 
+P=11kW 
+S=15kVA  
+ 
+
+S=sqrt(3)*VL*IL 
+VL=333.33 V 
+
+cos(phi)=P/S =0.733 
+
+phi=42.83 degrees 
+
+Q=sqrt(3).VL.IL.sin(phi) = 10198.0 VAR 
+
+Iph=IL = 15 A 
+
+Zph=Vph/Iph = 22.22 Ohm 
+
+R= Zph*cos(phi) =16.30 Ohm 
+
+XL=Zph*sin(phi)= 15.11 Ohm 
+ 
+
+Cph =VL =577.35 V 
+
+Zph= 22.22 Ohm 
+
+Iph=Vph/Zph =25.98 A  
+
+IL=sqrt(3)*Iph =45 A 
+
+P=sqrt(3)*VL*IL*cos(phi) =33000.00 W 
+
+Q=sqrt(3)*VL*IL*sin(phi) =30594.12 VAR 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.10/ex6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+P=1500kW 
+pf=0.85 (lagging) 
+VL=2.2kV 
+ 
+
+P=sqrt(3)*VL*IL*cos(phi) 
+IL=463.12 A 
+
+Iph=IL/sqrt(3)= 267.38 A 
+ 
+
+AC=Iph*cos(phi) =227.27 A 
+ 
+
+RC=Iph*sin(phi) =140.85 A 
+ 
+
+IAC =393.65 A 
+
+IRC =243.96 A 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.11/ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VL=208 V 
+P=1800 W 
+IL= 10 A 
+ 
+
+Vph = VL/sqrt(3) =120.09 V 
+
+Iph = IL =10 A 
+
+Zph=Vph/Iph =12.01 Ohm 
+
+P=sqrt(3)*VL*IL*cos(phi) 
+
+cos(phi)=0.5 degrees 
+
+phi=60 degrees 
+
+Rph=Zph*cos(phi) =6.00 Ohm 
+
+Xph=Zph*sin(phi) =10.40 Ohm 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.12/ex6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+P=100kW 
+IL=80 A 
+VL=1100 V 
+f=50 Hz 
+ 
+
+Vph =V/sqrt(3) =635.09 
+
+Iph=IL =80 A 
+
+Zph=(Vph/Iph)= 7.94 Ohm 
+
+P=sqrt(3)*VL*IL*cos(phi) 
+
+cos(phi)=0.656 (leading) 
+
+phi=49 degrees 
+
+Rph=Zph*cos(phi) =5.21 Ohm 
+
+Xph =Zph*sin(phi) =6 Ohm 
+ 
+
+XC=(1/2*pi*C) 
+
+C=5e-04 F 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.13/ex6_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VL=400 V 
+IL=34.65 A 
+P=14.4kW 
+ 
+
+VL=Vph=400 V 
+
+Iph=IL/sqrt(3)=20 A 
+
+Zph=Vph/Iph =20 Ohm 
+
+cos(phi)=P/sqrt(3).VL.IL =0.6 
+
+phi=53.14 degrees 
+
+Rph=Zph.cos(phi) =12 Ohm 
+
+Xph=Zph.sin(phi)=16 Ohm 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.14/ex6_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+P=10.44kW 
+VL=200 V 
+pf=0.5(leading) 
+ 
+
+VL=Vph=200 V 
+
+P=qrt(3)*VL*IL*cos(phi) 
+IL=60.28 A 
+
+Iph=IL/sqrt(3) =34.8 A 
+
+Zph=Vph/Iph =5.75 Ohm 
+
+Rph =Zph.cos(phi)=2.874 Ohm 
+
+Xph=Zph.sin(phi)=4.98 Ohm 
+
+Q=sqrt(3)*VL*IL*sin(phi) = 18082.61 VAR 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.17/ex6_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Po=200 kW 
+f=50Hz 
+VL= 440 V 
+N=0.91 
+pf=0.86 
+ 
+
+Vph =VL =440 V 
+
+N=(Po/Pi) 
+
+Pi=219780 W 
+
+Pi=sqrt(3)*VL*IL*cos(phi) 
+IL=335.3 A 
+
+AC = (Iph*cos(phi))=166.5 A 
+
+RC=(Iph*sin(phi)) =98.8 A 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.18/ex6_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VL=400 V 
+Po=112kW 
+pf=0.86 
+N=0.88 
+ 
+
+Vph=VL=400 V 
+
+N=Po/Pi  
+Pi=127272.73 W 
+
+Pi=sqrt(3)*VL*IL*cos(phi) 
+IL=213.6 A 
+
+Iph=IL/sqrt(3) =123.33 A 
+ 
+
+IA=213.6 A 
+
+AC=Iph*cos(phi) =106.06 A 
+
+RC=Iph*sin(phi) =62.93 A 
+
+Aac=183.7 A 
+
+Arc=109.00 A 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.19/ex6_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vl=400 V 
+IL=5 A 
+ 
+
+Vph=VL/sqrt(3) =230.94 V 
+
+Iph=IL=5 A 
+
+Zph=Rph=Vph/Iph =46.19 Ohm 
+ 
+
+IL=5 A 
+Rph=46.19 Ohm 
+
+Iph=IL/sqrt(3)=2.89 A 
+
+Vph=Iph*Rph 
+=133.33 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.20/ex6_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VL=400 V 
+Zph = 100 Ohm 
+ 
+
+Vph=VL/sqrt(3) =230.94 V 
+
+Iph = VL/Zph =2.31 A 
+
+IL=Iph =2.31 A 
+
+cos(phi)=1 
+P=sqrt(3).VL.IL.cos(phi) =1600.00 W 
+ 
+
+Vph=VL=400 V 
+
+Iph=Vph/Zph =4 A 
+
+IL=sqrt(3)*Iph =6.93 A 
+
+P=sqrt(3)*VL*IL*cos(phi) =4800.00 W 
+ 
+ 
+
+I= 2 A 
+
+P=800 W 
+ 
+
+I=4 A 
+
+P=3200 W 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.27/ex6_27.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+W1 = 2000W 
+W2 = 500 W 
+ 
+
+When W1 &W2 are same 
+W1 = 2000W 
+W2 = 500 W 
+
+tan(phi)= sqrt(3).(W1-W2/W1+W2) =1.039  
+
+phi=46.102 degrees 
+
+pf=cos(phi)=0.693  
+ 
+
+When W2 is reversed 
+W1= 2000 W 
+W2= -500 W 
+
+tan(phi)= sqrt(3).(W1-W2/W1+W2) =2.887  
+
+phi=70.89 degrees 
+
+pf=cos(phi)=0.33  
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.28/ex6_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+W1=5kW W2=0.5kW 
+ 
+
+When W2 is reversed 
+W1=5kW 
+W2=-0.5kW 
+
+P=W1+W2 = 4500.0 W 
+
+tan(phi)=sqrt(3)*(W1-W2/W1+W2) =2.12 
+
+phi= 64.72 degrees  
+
+pf=cos(phi) =0.43 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.29/ex6_29.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+S=10kVA 
+pf=0.342 
+S=sqrt(3)*VL*IL 
+
+VL*IL=5774 VA 
+
+cos(phi)=0.342 
+
+phi=70 degrees 
+ 
+
+pf leading 
+W1=VL.IL.cos(30+phi)= -1003 W 
+
+ 
+W2=VL.IL.cos(30-phi)= 4423 W 
+ 
+
+pf lagging 
+W1=VL.IL.cos(30-phi)= 4423 W 
+
+ 
+W2=VL.IL.cos(30+phi)= -1003 W 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.30/ex6_30.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VL=2000 V 
+N=0.9 
+W1=300kW 
+W2=100kW 
+
+P=W1+W2 =400000 W 
+
+tan(phi)=(sqrt(3)*(W1-W2/W1+W2)) =0.866 
+
+phi=40.89 degrees  
+
+cos(phi)=0.76 
+
+P=sqrt(3)*VL*IL*cos(phi) 
+IL=152.75 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH6/EX6.31/ex6_31.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VL=220 V 
+Po=11.2kW 
+N=0.88 
+IL=38A N=(Po/Pi)= 12727.27 W 
+
+Pi=sqrt(3)*VL*IL*cos(phi) 
+cos(phi)=0.88 lagging 
+
+phi=28.48 degrees 
+
+W1 =VL*IL*cos(30-phi) =8357.07 W 
+
+W2 =VL*IL*cos(30+phi) =4370.20 W 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.7/ex7_7.sce #
+ 
+ 
+
+Aa= 
+ 
+    1.    0.    0.  - 1.    1.    0.    0.    0.  
+  - 1.    1.    0.    0.    0.    1.    0.    0.  
+    0.  - 1.    1.    0.    0.    0.    1.    0.  
+    0.    0.  - 1.    1.    0.    0.    0.    1.  
+    0.    0.    0.    0.  - 1.  - 1.  - 1.  - 1.  
+ 
+ 
+
+A= 
+ 
+    1.    0.    0.  - 1.    1.    0.    0.    0.  
+  - 1.    1.    0.    0.    0.    1.    0.    0.  
+    0.  - 1.    1.    0.    0.    0.    1.    0.  
+    0.    0.  - 1.    1.    0.    0.    0.    1.  
+ 
+ 
+
+twigs={1,3,5,7} 
+links={2,4,6,8} 
+tieset 2={2,7,5,1} 
+tieset 4={4,5,7,3} 
+tieset 6={6,5,1} 
+tieset 8={8,7,3} 
+ 
+
+B= 
+ 
+    1.    1.    0.    0.  - 1.    0.    1.    1.  
+    0.    0.    1.    1.    1.    0.  - 1.    0.  
+    1.    0.    0.    0.  - 1.    1.    0.    0.  
+    0.    0.    1.    0.    0.    0.  - 1.    1.  
+ 
+ 
+
+f-cutset 1={1,6,2} 
+f-cutset 3={3,4,8} 
+f-cutset 5={5,4,6,2} 
+f-cutset 7={7,2,8,4} 
+
+Q= 
+ 
+    1.  - 1.    0.    0.    0.  - 1.    0.    0.  
+    0.    0.    1.  - 1.    0.    0.    0.  - 1.  
+    0.    1.    0.  - 1.    1.    1.    0.    0.  
+    0.  - 1.    0.    1.    0.    0.    1.    1.  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.8/ex7_8.sce #
+ 
+ 
+
+Aa= 
+ 
+    1.    0.  - 1.    1.  
+  - 1.    1.    0.    0.  
+    0.  - 1.    1.  - 1.  
+ 
+ 
+ 
+
+A= 
+ 
+    1.    0.  - 1.    1.  
+  - 1.    1.    0.    0.  
+ 
+
+Number of possible trees=|A*A^T| 
+ 
+ 
+    3.  - 1.  
+  - 1.    2.  
+ 
+
+|A*A^T|= 
+ 
+    5.  
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.11/ex7_11.sce #
+ 
+
+Aa= 
+ 
+    0.  - 1.    1.    0.    0.  
+    0.    0.  - 1.  - 1.  - 1.  
+  - 1.    0.    0.    0.    1.  
+    1.    1.    0.    1.    0.  
+ 
+ 
+
+Number of possible trees = |A*A^T| 
+ 
+ 
+    2.  - 1.    0.  
+  - 1.    3.  - 1.  
+    0.  - 1.    2.  
+ 
+ 
+
+|A*A^T|=8 
+ 
+
+twigs={3,4,5} 
+links={1,2} 
+tieset 1={1,4,5} 
+tieset 2={2,3,4} 
+
+B= 
+ 
+    1.    0.    0.  - 1.    1.  
+    0.    1.    1.  - 1.    0.  
+ 
+ 
+
+f-cutset 3={3,2} 
+f-cutset 4={4,2,1} 
+f-cutset 5={5,1} 
+
+Q= 
+ 
+    0.  - 1.    1.    0.    0.  
+    1.    1.    0.    1.    0.  
+  - 1.    0.    0.    0.    1.  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.14/ex7_14.sce #
+ 
+ 
+
+tieset1={1,4,5} 
+tieset2={2,4,6} 
+tieset={3,5,6} 
+B= 
+ 
+ 
+    1.    0.    0.    1.    1.    0.  
+    0.    1.    0.  - 1.    0.  - 1.  
+    0.    0.    1.    0.  - 1.    1.  
+ 
+
+The KVL equation in matrix form 
+B.Zb.(B^T).Il = B.Vs-B.Zb.Is 
+
+B.Zb.(B^T).Il = B.Vs 
+Zb= 
+ 
+ 
+    1.    0.    0.    0.    0.    0.  
+    0.    1.    0.    0.    0.    0.  
+    0.    0.    1.    0.    0.    0.  
+    0.    0.    0.    2.    0.    0.  
+    0.    0.    0.    0.    2.    0.  
+    0.    0.    0.    0.    0.    2.  
+ 
+
+(B^T)= 
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+    1.  - 1.    0.  
+    1.    0.  - 1.  
+    0.  - 1.    1.  
+ 
+ 
+
+Vs= 
+ 
+    2.  
+    0.  
+    0.  
+    0.  
+    0.  
+    0.  
+ 
+
+B.Zb= 
+ 
+ 
+    1.    0.    0.    2.    2.    0.  
+    0.    1.    0.  - 2.    0.  - 2.  
+    0.    0.    1.    0.  - 2.    2.  
+ 
+
+B.Zb.(B^T)= 
+ 
+ 
+    5.  - 2.  - 2.  
+  - 2.    5.  - 2.  
+  - 2.  - 2.    5.  
+ 
+
+B.Vs= 
+ 
+ 
+    2.  
+    0.  
+    0.  
+ 
+
+Load currents: 
+ 
+ 
+ 
+ 
+ 
+    0.8571429  
+    0.5714286  
+    0.5714286  
+ 
+
+Il1=0.857 A 
+Il2=0.571 A 
+Il3=0.571 A 
+
+Branch currents: 
+ 
+ 
+    0.8571429  
+    0.5714286  
+    0.5714286  
+    0.2857143  
+    0.2857143  
+  - 1.110D-16  
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.15/ex7_15.sce #
+ 
+ 
+
+tieset1={1,4,6} 
+tieset2={2,5,6} 
+tieset={3,5,4} 
+B= 
+ 
+ 
+    1.    0.    0.    1.    0.    1.  
+    0.    1.    0.    0.    1.  - 1.  
+    0.    0.    1.  - 1.  - 1.    0.  
+ 
+
+The KVL equation in matrix form 
+B.Zb.(B^T).Il = B.Vs-B.Zb.Is 
+
+B.Zb.(B^T).Il = B.Vs 
+Zb= 
+ 
+ 
+    6.    0.    0.    0.    0.    0.  
+    0.    4.    0.    0.    0.    0.  
+    0.    0.    3.    0.    0.    0.  
+    0.    0.    0.    4.    0.    0.  
+    0.    0.    0.    0.    6.    0.  
+    0.    0.    0.    0.    0.    2.  
+ 
+
+(B^T)= 
+ 
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+    1.    0.  - 1.  
+    0.    1.  - 1.  
+    1.  - 1.    0.  
+ 
+ 
+
+Vs= 
+ 
+    12.  
+  - 6.   
+  - 8.   
+    0.   
+    0.   
+    0.   
+ 
+
+B.Zb= 
+ 
+ 
+    6.    0.    0.    4.    0.    2.  
+    0.    4.    0.    0.    6.  - 2.  
+    0.    0.    3.  - 4.  - 6.    0.  
+ 
+
+B.Zb.(B^T)= 
+ 
+ 
+    12.  - 2.   - 4.   
+  - 2.     12.  - 6.   
+  - 4.   - 6.     13.  
+ 
+
+B.Vs= 
+ 
+ 
+    12.  
+  - 6.   
+  - 8.   
+ 
+
+Load currents: 
+ 
+ 
+ 
+ 
+ 
+    0.55       
+  - 0.8666667  
+  - 0.9166667  
+ 
+
+Il1=0.55 A 
+Il2=-0.866 A 
+Il3=-0.916 A 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.19/ex7_19.sce #
+ 
+ 
+
+Q= 
+ 
+    1.  - 1.    0.    0.  
+    0.  - 1.    1.    1.  
+ 
+
+The KCL equation in matrix form is given by 
+
+Q.Yb.(Q^T).Vl=Q.Is-Q.Yb.Vs 
+
+Q.Yb.(Q^T).Vl=Q.Is 
+ 
+ 
+
+Yb= 
+ 
+    5.    0.    0.    0.   
+    0.    5.    0.    0.   
+    0.    0.    5.    0.   
+    0.    0.    0.    10.  
+ 
+
+(Q^T)= 
+ 
+    1.    0.  
+  - 1.  - 1.  
+    0.    1.  
+    0.    1.  
+ 
+
+Is= 
+ 
+  - 10.  
+    0.   
+    0.   
+    0.   
+ 
+ 
+
+Q.Yb= 
+ 
+    5.  - 5.    0.    0.   
+    0.  - 5.    5.    10.  
+ 
+ 
+
+Q.Yb.(Q^T)= 
+ 
+    10.    5.   
+    5.     20.  
+ 
+ 
+
+Q.Is= 
+ 
+  - 10.  
+    0.   
+ 
+
+Load voltages: 
+ 
+ 
+ 
+ 
+ 
+  - 1.1428571  
+    0.2857143  
+ 
+
+vl1=-1.14 V 
+vl2=0.28 V 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.20/ex7_20.sce #
+ 
+
+f-cutset1={1,4,5,6} 
+f-cutset2={2,4,5} 
+f-cutset3={3,4,6} 
+ 
+
+Q= 
+ 
+    1.    0.    0.  - 1.  - 1.    1.  
+    0.    1.    0.  - 1.  - 1.    0.  
+    0.    0.    1.  - 1.    0.    1.  
+ 
+
+The KCL equation in matrix form is given by 
+
+Q.Yb.(Q^T).Vl=Q.Is-Q.Yb.Vs 
+
+Q.Yb.(Q^T).Vl=Q.Is 
+ 
+ 
+ 
+
+Yb= 
+ 
+    0.2    0.     0.     0.     0.     0.   
+    0.     0.2    0.     0.     0.     0.   
+    0.     0.     0.2    0.     0.     0.   
+    0.     0.     0.     0.1    0.     0.   
+    0.     0.     0.     0.     0.5    0.   
+    0.     0.     0.     0.     0.     0.1  
+ 
+
+Vs= 
+ 
+    910.  
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+ 
+
+Is= 
+ 
+    0.  
+    0.  
+    0.  
+    0.  
+    0.  
+    0.  
+ 
+ 
+
+Q.Yb= 
+ 
+    0.2    0.     0.   - 0.1  - 0.5    0.1  
+    0.     0.2    0.   - 0.1  - 0.5    0.   
+    0.     0.     0.2  - 0.1    0.     0.1  
+ 
+ 
+
+Q.Yb.(Q^T)= 
+ 
+    0.9    0.6    0.2  
+    0.6    0.8    0.1  
+    0.2    0.1    0.4  
+ 
+ 
+
+Q.Yb.Vs= 
+ 
+    182.  
+    0.    
+    0.    
+ 
+
+Q.Is= 
+ 
+ 
+    0.  
+    0.  
+    0.  
+ 
+ 
+
+Q.Is-Q.Yb.Vs= 
+ 
+  - 182.  
+    0.    
+    0.    
+ 
+
+Load voltages: 
+ 
+ 
+ 
+ 
+ 
+  - 460.  
+    320.  
+    200.  
+ 
+
+vl1=-460 V 
+vl2=320 V 
+vl3=200 V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH7/EX7.21/ex7_21.sce #
+ 
+
+twigs={1,2} 
+f-cutset1={1,4} 
+f-cutset2={2,3} 
+ 
+
+Q= 
+ 
+    1.    0.    0.  - 1.  
+    0.    1.  - 1.    0.  
+ 
+
+The KCL equation in matrix form is given by 
+
+Q.Yb.(Q^T).Vl=Q.Is-Q.Yb.Vs 
+ 
+ 
+ 
+
+Yb= 
+ 
+    0.25    0.     0.      0.   
+    0.      0.5    0.      0.   
+    0.      0.     0.25    0.   
+    0.      0.     0.      0.5  
+ 
+
+(Q^T)= 
+ 
+    1.    0.  
+    0.    1.  
+    0.  - 1.  
+  - 1.    0.  
+ 
+
+Vs= 
+ 
+    1.  
+    1.  
+    0.  
+    0.  
+ 
+
+Is= 
+ 
+    0.   
+    0.   
+    0.5  
+  - 0.5  
+ 
+ 
+
+Q.Yb= 
+ 
+    0.25    0.     0.    - 0.5  
+    0.      0.5  - 0.25    0.   
+ 
+ 
+
+Q.Yb.(Q^T)= 
+ 
+    0.75    0.    
+    0.      0.75  
+ 
+
+Q.Is= 
+ 
+ 
+    0.5  
+  - 0.5  
+ 
+ 
+
+Q.Yb.Vs= 
+ 
+    0.25  
+    0.5   
+ 
+ 
+
+Q.Is-Q.Yb.Vs= 
+ 
+    0.25  
+  - 1.    
+ 
+
+Load voltages: 
+ 
+ 
+ 
+ 
+ 
+    0.3333333  
+  - 1.3333333  
+ 
+
+vl1=0.33 V 
+vl2=-1.33 V 
+ 
+ 
+
+V=-0.33 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH8/EX8.13/8_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iL(0-) = 0.67 A 
+
+vb(0-) = 0 
+
+va(0-) = 3.33 V 
+ 
+ Applying Kcl equations at t=0+   
+ 
+ 
+ ((va(0+)-5)/10)+(va(0+)/10)+(va(0+)-vb(0+))/20 = 0   
+ 
+ 
+ ((vb(0+)-va(0+))/20)+((vb(0+)-5)/10)+(2/3) = 0   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1.9042857  
+  - 0.4785714  
+ 
+ 
+ va(0+)= 1.9 A   
+ 
+ 
+ vb(0+)= -0.477 A   
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH8/EX8.14/8_14.sce #
+ 
+ 
+ 
+ 
+ va(0+) = 5V   
+ 
+ 
+ vb(0+) = 5V   
+ 
+ 
+ vb(0+) = 5V   
+ 
+ 
+ Writing KCL Equation at t=0+   
+ 
+ 
+ 0.25*va(0+) = 0.75   
+ 
+ 
+va(0+) = 3 V 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH10/EX10.35/ex10_35.sce #
+ 
+ 
+ 
+ 
+
+F(s) =(4s/s^2+2s+2) = 4s/(s+1-j)*(s+1-j) 
+
+ At s=j2 
+ 
+
+|F(j2)|=Product of pmag from all zeros to j2/Product of pmag from all poles to j2 
+
+ = 0.447 
+
+f(w) = atand(2/0)-atand(3)-atand(1)= -26.57 degrees 
+grepthis#Electrical_Network_R._Singh_1523/CH10/EX10.36/ex10_36.sce #
+ 
+ 
+ 
+ 
+
+F(s) = (s+1)(s+3)/s(s+2)) 
+
+At s=j4 
+ 
+
+Prduct of vmag from all zeros to j4/ Product of vmag from all poles to j4 
+
+ =1.15 
+
+phi(w)= atand(4)+atand(4/3)-atand(4/0)-atand(4/2) 
+
+ = -24.34 degrees 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.16/ex11_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+h11 = V1/I1 = 25 Ohm 
+
+h21= I2/I1 = 2 
+
+h12 = V1/V2 = 0.2 
+
+h22 = I2/V2 = 0.04 mho 
+
+th h-parameters are 
+ 
+    25.    0.2   
+    2.     0.04  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.19/ex11_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Y-parameters 
+
+Y11 = Z22/dZ = 0.06 mho 
+
+Y12 = -Z12/dZ = -0.02 mho 
+
+Y21 = -Z21/dZ = -0.02 mho 
+
+Y22 = Z11/dZ = 0.04 mho 
+
+ Y-parameters are: 
+ 
+    0.06  - 0.02  
+  - 0.02    0.04  
+ 
+
+ABCD parameters 
+
+A = Z11/Z21 = 2 
+
+B = dZ/Z21 = 50 
+
+C = 1/Z21 = 0.1 
+
+D = Z22/Z21 = 3 
+
+ ABCD parameters are: 
+ 
+    2.     50.  
+    0.1    3.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.20/ex11_20.sce #
+ 
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+
+I1 =0.5V1-0.2V2 
+I2=-0.2V1+V2 
+
+ Y11 =I1/V1 =0.5 mho 
+
+ Y21 =I2/V1 =-0.2 mho 
+
+ Y12 =I1/V2 =-0.2 mho 
+
+ Y22 =I2/V2 =1 mho 
+
+Y-parameters are 
+ 
+    0.5  - 0.2  
+  - 0.2    1.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+dY=Y11.Y22-Y12.Y21 =0.46 
+
+Z11 = Y22/dY = 2.174 Ohm 
+
+Z12 = -Y12/dY = 0.435 Ohm 
+
+Z21 = -Y21/-dY = 0.435 Ohm 
+
+Z22 = Y11/dY = 1.087 Ohm 
+
+Z-parameters : 
+ 
+    2.173913     0.4347826  
+    0.4347826    1.0869565  
+ 
+
+A =-Y22/Y21 =5 
+
+B = -1/Y21 =5 
+
+C = -dY/Y21 =2.3 
+
+D = -Y11/Y21 =2.5 
+
+ABCD parameters : 
+ 
+    5.     5.   
+    2.3    2.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.22/ex11_22.sce #
+ 
+
+Applying KVL to Mesh 1 
+V1 = I1 - I3 - - - -(i) 
+
+Applying KVL to Mesh 2 
+V2 = -4I2 + 2I3 - - - -(ii) 
+
+Applying KVL to Mesh 3 
+I3 = (1/5)I1 + (4/5)I2 - - - -(iii) 
+ 
+
+V1 = (4/5)I1 - (4/5)I2 
+V2 = (2/5)I1 - (12/5)I2 
+
+Z-parameters: 
+ 
+ 
+    0.8  - 0.8  
+    0.4  - 2.4  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Y-parameters are: 
+
+dZ = Z11.Z22 - Z12.Z21 = -1.6 
+
+Y11 = Z22/dZ = 1.5 mho 
+
+Y12 = -Z12/dY = -0.5 mho 
+
+Y21 = -Z21/-dY = 0.3 mho 
+
+Y22 = Z11/dY = -0.5 mho 
+ 
+    1.5   - 0.5  
+    0.25  - 0.5  
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.23/ex11_23.sce #
+ 
+
+Applying KVL to Mesh 1 
+V1 = 4I1 - 2I3 - - - -(i) 
+
+Applying KVL to Mesh 2 
+V2 = 4I2 + 2I3 - - - -(ii) 
+
+Applying KVL to Mesh 3 
+-2I3 = I1 + I2 - - - -(iii) 
+ 
+
+V1 = 5I1 + I2 
+V2 = -I1 + 3I2 
+
+Z-parameters: 
+ 
+ 
+    5.    1.  
+  - 1.    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+dZ = Z11.Z22 - Z12.Z21 = 16.0 
+
+h11 = dZ/Z22 = 5.3  
+
+h12 = Z12/Z22 = 0.3  
+
+h21 = -Z21/Z22 = 0.3  
+
+h22 = 1/Z22 = 0.3  
+
+h-parameters are: 
+ 
+    5.3333333    0.3333333  
+    0.3333333    0.3333333  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.24/ex11_24.sce #
+ 
+
+Applying KCL to Node 3 
+V3 = V2/3 - - - -(i) 
+
+I1 = 2V1 - (2/3)V2 - - - -(ii) 
+
+I2 = 3V2 - (V2/3) = (8/3)V2 - - - -(iii) 
+ 
+
+Y-parameters: 
+ 
+ 
+    2.         - 0.6666667  
+  - 0.6666667    2.6666667  
+ 
+ 
+ 
+ 
+ 
+ 
+
+dY=Y11.Y22-Y12.Y21 =5.3 
+
+Z11 = Y22/dY = 0.5 Ohm 
+
+Z12 = -Y12/dY = 0.1 Ohm 
+
+Z21 = -Y21/-dY = 0 Ohm 
+
+Z22 = Y11/dY = 0.4 Ohm 
+
+Z-parameters : 
+ 
+    0.5    0.125  
+    0.     0.375  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.25/ex11_25.sce #
+ 
+
+Applying KCL to Node 1 
+I1 = (-3/2)V1 - V2- - -(i) 
+
+Applying KCL to Node 2 
+I2 = 2V1 + 2V2 - - - -(ii) 
+ 
+
+Y-parameters: 
+ 
+ 
+  - 1.5  - 1.  
+    2.     2.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+dY=Y11.Y22-Y12.Y21 =-1 
+
+Z11 = Y22/dY = -2 Ohm 
+
+Z12 = -Y12/dY = -1 Ohm 
+
+Z21 = -Y21/-dY = 2 Ohm 
+
+Z22 = Y11/dY = 1.5 Ohm 
+
+Z-parameters : 
+ 
+  - 2.  - 1.   
+    2.    1.5  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.26/ex11_26.sce #
+ 
+
+Applying KVL to Mesh 1 
+V1 = 2I1 + I2 - - - -(i) 
+
+Applying KVL to Mesh 2 
+V2 = 10I1 + 11I2 - - - -(ii) 
+ 
+
+V1 = (4/5)I1 - (4/5)I2 
+V2 = (2/5)I1 - (12/5)I2 
+
+Z-parameters: 
+ 
+ 
+    2.     1.   
+    10.    11.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Y-parameters are: 
+
+dZ = Z11.Z22 - Z12.Z21 = 12.0 
+
+Y11 = Z22/dZ = 0.9 mho 
+
+Y12 = -Z12/dY = -0.1 mho 
+
+Y21 = -Z21/-dY = -0.8 mho 
+
+Y22 = Z11/dY = 0.2 mho 
+ 
+    0.9166667  - 0.0833333  
+  - 0.8333333    0.1666667  
+ 
+ 
+ 
+ 
+ 
+
+dZ = Z11.Z22 - Z12.Z21 = 12.0 
+
+h11 = dZ/Z22 = 1.1 Ohm  
+
+h12 = Z12/Z22 = 0.1  
+
+h21 = -Z21/Z22 = -0.9  
+
+h22 = 1/Z22 = 0.1 mho 
+
+h-parameters are: 
+ 
+    1.0909091    0.0909091  
+  - 0.9090909    0.0909091  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.27/ex11_27.sce #
+ 
+
+Applying KCL to Node 1 
+I1 = 4V1 - 3V2- - -(i) 
+
+Applying KCL to Node 2 
+I2 = -3V1 + 1.5V2 - - - -(ii) 
+ 
+
+Y-parameters: 
+ 
+ 
+    4.  - 3.   
+  - 3.    1.5  
+ 
+ 
+ 
+ 
+ 
+ 
+
+dY=Y11.Y22-Y12.Y21 =-3 
+
+Z11 = Y22/dY = -0 Ohm 
+
+Z12 = -Y12/dY = -1 Ohm 
+
+Z21 = -Y21/-dY = -1 Ohm 
+
+Z22 = Y11/dY = -1.3 Ohm 
+
+Z-parameters : 
+ 
+  - 0.5  - 1.         
+  - 1.   - 1.3333333  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.28/ex11_28.sce #
+ 
+
+Applying KCL to Node 1 
+I1 = 1.5V1 - 0.5V2- - -(i) 
+
+Applying KCL to Node 2 
+I2 = 4V1 - 0.5V2 - - - -(ii) 
+ 
+
+Y-parameters: 
+ 
+ 
+    1.5  - 0.5  
+    4.   - 0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+
+dY=Y11.Y22-Y12.Y21 =1 
+
+Z11 = Y22/dY = -0 Ohm 
+
+Z12 = -Y12/dY = 0 Ohm 
+
+Z21 = -Y21/-dY = -3 Ohm 
+
+Z22 = Y11/dY = 1.2 Ohm 
+
+Z-parameters : 
+ 
+  - 0.4    0.4  
+  - 3.2    1.2  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.29/ex11_29.sce #
+ 
+
+Applying KCL to Node 1 
+I1 = 3V1 - 2V2- - -(i) 
+
+Applying KCL to Node 2 
+I2 = 3V2 - V3 - - - -(ii) 
+
+Applying KCL to Node 3 
+V3 = (1/3)V2 - - - -(ii) 
+ 
+
+I1 = 3V1 - (2/3)V2 
+I2 = 0V1 + (8/3)V2 
+
+Y-parameters: 
+ 
+ 
+    3.  - 0.6666667  
+    0.    2.6666667  
+ 
+ 
+ 
+ 
+ 
+ 
+
+dY=Y11.Y22-Y12.Y21 =8 
+
+Z11 = Y22/dY = 0.3 Ohm 
+
+Z12 = -Y12/dY = 0.1 Ohm 
+
+Z21 = -Y21/-dY = 0 Ohm 
+
+Z22 = Y11/dY = 0.4 Ohm 
+
+Z-parameters : 
+ 
+    0.3333333    0.0833333  
+    0.           0.375      
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.30/ex11_30.sce #
+ 
+
+Applying KVL to Mesh 1 
+V1 = 4I1 + (0.05)I2 - - - -(i) 
+
+Applying KVL to Mesh 2 
+V2 = 2I1 - 10I2 - - - -(ii) 
+ 
+
+V2 = -40I1 + (1.5)I2 
+
+Z-parameters: 
+ 
+ 
+    4.     0.05  
+  - 40.    1.5   
+ 
+ 
+ 
+ 
+ 
+ 
+
+Y-parameters are: 
+
+dZ = Z11.Z22 - Z12.Z21 = 8.0 
+
+Y11 = Z22/dZ = 0.2 mho 
+
+Y12 = -Z12/dY = 0 mho 
+
+Y21 = -Z21/-dY = 5.0 mho 
+
+Y22 = Z11/dY = 0.5 mho 
+ 
+    0.1875    0.00625  
+    5.        0.5      
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH11/EX11.31/ex11_31.sce #
+ 
+
+Applying KVL to Mesh 1 
+V1 = 3I1 + 5I2 - - - -(i) 
+
+Applying KVL to Mesh 2 
+V2 = 2I1 + 4I2 - 2I3 - - - -(ii) 
+
+Applying KVL to Mesh 3 
+I3 = 2V3 - - - -(iii) 
+ 
+
+2V3 = 4I1 + 4I2 
+V2 = -6I1 + 4I2 
+
+Z-parameters: 
+ 
+ 
+    3.    5.  
+  - 6.  - 4.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Y-parameters are: 
+
+dZ = Z11.Z22 - Z12.Z21 = 18.0 
+
+Y11 = Z22/dZ = -0.2 mho 
+
+Y12 = -Z12/dY = -0.3 mho 
+
+Y21 = -Z21/-dY = 0.3 mho 
+
+Y22 = Z11/dY = 0.2 mho 
+ 
+  - 0.2222222  - 0.2777778  
+    0.3333333    0.1666667  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.2/ex12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Even part of P(s) = (s^4)+(5s^3)+4 
+
+Odd part of P(s) = (s^3)+(3s) 
+
+Q(s)= m(s)/n(s) 
+ 
+ 
+    s   
+ 
+ 
+    0.5s   
+ 
+ 
+    2s   
+ 
+ 
+    0.25s   
+ 
+
+Since all the quotient terms are positive, P(s) is hurwitz 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.3/ex12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Even part of P(s) = ((4*s^2)+(2)) 
+
+Odd part of P(s) = ((s^3)+(5*(s))) 
+
+Q(s)= n(s)/m(s) 
+ 
+ 
+    0.25s   
+ 
+ 
+    0.8888889s   
+ 
+ 
+    2.25s   
+ 
+
+Since all the quotient terms are positive, P(s) is hurwitz 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.4/ex12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Even part of P(s) = ((s^4)+(3*(s)^2)+12) 
+
+Odd part of P(s) = ((s^3)+(2*s)) 
+
+Q(s)= m(s)/n(s) 
+ 
+ 
+    s   
+ 
+ 
+    s   
+ 
+ 
+  - 0.1s   
+ 
+ 
+  - 0.8333333s   
+ 
+
+Since two quotient terms are negative, P(s) is  not hurwitz 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.5/ex12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Even part of P(s) = ((s^4)+(2*(s)^2)+2) 
+
+Odd part of P(s) = (s^3)+(3s) 
+
+Q(s)= m(s)/n(s) 
+ 
+ 
+    s   
+ 
+ 
+  - s   
+ 
+ 
+  - 0.2s   
+ 
+ 
+    2.5s   
+ 
+
+Since two terms are negative, P(s) is  not hurwitz 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.6/ex12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Even part of P(s) = ((2*s^4)+(6*(s)^2)+1) 
+
+Odd part of P(s) = ((5*s^3)+(3*s)) 
+
+Q(s)= m(s)/n(s) 
+ 
+ 
+    0.4s   
+ 
+ 
+    1.0416667s   
+ 
+ 
+    2.4510638s   
+ 
+ 
+    1.9583333s   
+ 
+
+Since all the quotient terms are positive, P(s) is hurwitz 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.7/ex12_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Even part of P(s) = ((s^4)+(6*(s)^2)+8) 
+
+Odd part of P(s) = (7*(s^3)+(21*s)) 
+
+Q(s)= m(s)/n(s) 
+ 
+ 
+    0.1428571s   
+ 
+ 
+    2.3333333s   
+ 
+ 
+    1.2857143s   
+ 
+ 
+    0.2916667s   
+ 
+
+Since all the quotient terms are positive, P(s) is hurwitz 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.8/ex12_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Even part of P(s) = ((s^4)+(5*(s)^2)+10) 
+
+Odd part of P(s) = (5*(s^3)+(4*s)) 
+
+Q(s)= m(s)/n(s) 
+ 
+ 
+    0.2s   
+ 
+ 
+    1.1904762s   
+ 
+ 
+  - 0.5313253s   
+ 
+ 
+  - 0.7904762s   
+ 
+
+Since two terms are negative, P(s) is not hurwitz 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.9/ex12_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ P(s) = ((s^5)+(3*(s^3))+(2*s)) 
+
+ d/ds.P(s)= ((5*(s^4))+9*(s^2)+2) 
+
+Q(s)=P(s)/d/ds.P(s) 
+ 
+ 
+    0.2s   
+ 
+ 
+    4.1666667s   
+ 
+ 
+    0.5142857s   
+ 
+ 
+    4.0833333s   
+ 
+ 
+    0.2857143s   
+ 
+
+Since all the quotient terms are positive, P(s) is hurwitz 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH12/EX12.10/ex12_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ P(s) = ((s^5)+((s^3))+(s)) 
+
+ d/ds.P(s)= ((5*(s^4))+3*(s^2)+1) 
+
+Q(s)=P(s)/d/ds.P(s) 
+ 
+ 
+    0.2s   
+ 
+ 
+    12.5s   
+ 
+ 
+  - 0.0571429s   
+ 
+ 
+  - 8.1666667s   
+ 
+ 
+    0.8571429s   
+ 
+
+Since two quotient terms are negative, P(s) is not hurwitz 
+ 

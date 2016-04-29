@@ -1,0 +1,421 @@
+grepthis#Electrical_Network_R._Singh_1523/CH2/EX2.39/2_39.sce #
+ 
+ 
+ 
+ 
+ from the figure   
+ 
+ 
+ V4= 40 V   
+ 
+ 
+ nodes 2 and 3 form suoernode:   
+ 
+ 
+ V1-2*V2+V3 = 0   
+ 
+ Applying KCL to node 1:   
+ 
+ 
+ 7/15*V1-1/5*V2 = 2/3   
+ 
+ Applying KCL to supernode :   
+ 
+ 
+ -23/30*V1 +83/60*V3 = 20   
+ 
+ Solving equations 1,2,3 and 4   
+ 
+ B  =
+ 
+    40.        
+    0.         
+    0.6666667  
+    20.        
+ 
+ 
+ 
+    10.  
+    20.  
+    30.  
+    40.  
+ 
+ 
+ V1= 10 V   
+ 
+ 
+ V2= 20 V   
+ 
+ 
+ V3= 30 V   
+ 
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.11/3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ -V1+4I=0   
+ 
+ 
+ Applying KCL to node 1,   
+ 
+ 
+ 1.25V1-4I=5   
+ 
+ 
+ B  =
+ 
+    0.  
+    5.  
+ 
+ 
+ 
+    20.  
+    5.   
+ 
+ 
+ V1 = 20 V   
+ 
+ 
+ 
+ from the figure,   
+ 
+ 
+ V2-3I=0   
+ 
+ 
+ Applying KVL to the mesh,   
+ 
+ 
+ I=-20   
+ 
+ 
+ B  =
+ 
+    0.   
+  - 20.  
+ 
+ 
+ 
+  - 60.  
+  - 20.  
+ 
+ 
+ V2 = -60 V   
+ 
+ 
+ 
+ 
+
+By superposition theorem, 
+ V = V1+V2 = -40 V  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.12/3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ Vx+I1=0   
+ 
+ 
+ Applying KVL to mesh,   
+ 
+ 
+ 3Vx-6I1=-18   
+ 
+ 
+ B  =
+ 
+    0.   
+  - 18.  
+ 
+ 
+ 
+  - 2.  
+    2.  
+ 
+ 
+ I1 = 2 A   
+ 
+ 
+ 
+ from the figure,   
+ 
+ 
+ Vx=2 V   
+ 
+ 
+ Applying KCL at node 1,   
+ 
+ 
+ 3Vx-6I2=0   
+ 
+ 
+ B  =
+ 
+    2.  
+    0.  
+ 
+ 
+ 
+    2.  
+    1.  
+ 
+ 
+ I2 =1 V   
+ 
+ 
+ 
+ 
+
+By superposition theorem, 
+ I = I1+I2 = 3 A  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.13/3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ Applying KVL to mesh,   
+ 
+ 
+ Iy1=5.45 A   
+ 
+ 
+ 
+ from the figure,   
+ 
+ 
+ V1+4Iy2=0   
+ 
+ 
+ Applying KCL at node 1,   
+ 
+ 
+ -V1/8 +9/4Iy2=-12   
+ 
+ 
+ B  =
+ 
+    0.   
+  - 12.  
+ 
+ 
+ 
+    17.454545  
+  - 4.3636364  
+ 
+ 
+ Iy2 =-4.36 A   
+ 
+ 
+ 
+ Applying KVL to mesh,   
+ 
+ 
+ Iy3=-1.82 A   
+ 
+ 
+ 
+ 
+ 
+
+By superposition theorem, 
+ I = Iy1+Iy2+Iy3 = -0.73 A  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.14/3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ Vx1-31=0   
+ 
+ 
+ Applying KVL to mesh,   
+ 
+ 
+ -3Vx1-9I=-18   
+ 
+ 
+ B  =
+ 
+    0.   
+  - 18.  
+ 
+ 
+ 
+    3.  
+    1.  
+ 
+ 
+ Vx1 = 3 V   
+ 
+ 
+ 
+ from the figure,   
+ 
+ 
+ V1+Vx2=0   
+ 
+ 
+ Applying KCL at node 1,   
+ 
+ 
+ 1/2V1-1/2Vx2=5   
+ 
+ 
+ B  =
+ 
+    0.  
+    5.  
+ 
+ 
+ 
+    5.  
+  - 5.  
+ 
+ 
+ Vx2= -5 V   
+ 
+ 
+ 
+ from the figure,   
+ 
+ 
+ Vx3+3I=0   
+ 
+ 
+ Applying KVL to the mesh,   
+ 
+ 
+ 3Vx3-9I=-36   
+ 
+ 
+ B  =
+ 
+    0.   
+  - 36.  
+ 
+ 
+ 
+  - 6.  
+    2.  
+ 
+ 
+ Vx3= -6 V   
+ 
+ 
+ 
+ 
+ 
+
+By superposition theorem, 
+ Vx = Vx1+Vx2+Vx3 = -8 V  
+ 
+grepthis#Electrical_Network_R._Singh_1523/CH3/EX3.51/3_51.sce #
+ 
+ 
+ 
+ 
+ 
+ from the figure   
+ 
+ 
+ Vth=4*I   
+ 
+ 
+ Applying KVL to the mesh   
+ 
+ 
+ 0.5*Vth-8*I=-12   
+ 
+ 
+ B  =
+ 
+    0.   
+  - 12.  
+ 
+ 
+ 
+    8.  
+    2.  
+ 
+ 
+ Vth=8 V   
+ 
+ 
+ 
+ 
+
+Isc = 3 A 
+ 
+ 
+
+Rth = Vth/Isc = 2.667 Ohm 
+ 
+ 
+ For maximum power transfer   
+ 
+
+Rth = RL =2.667 Ohm 
+ 
+ 
+
+IL = 1.5 A 
+ 
+
+Pmax = 6 W 
+grepthis#Electrical_Network_R._Singh_1523/CH4/EX4.80/ex4_80.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R=10 Ohm 
+L=0.2 H 
+C=40uF 
+V=100 V 
+
+(i) f0= 1/2*pi*sqrt(LC) =56.3 Hz 
+
+(ii) I0= V/R =10 A 
+
+(iii) P0=(I0^2)*R =1000 W 
+
+(iv) pf=1 
+
+(v) Rv = R.I =100 V 
+
+ Lv = XL.I =707.1 V 
+
+ Cv = XC.I =707.1 V 
+
+(vi) Q =1/R*sqrt(L/C)=7.07 
+
+(vii)f1 = f0-R/4.pi.L = 52.29 Hz 
+
+f2=f0+R/4.pi.L = 60.2 Hz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

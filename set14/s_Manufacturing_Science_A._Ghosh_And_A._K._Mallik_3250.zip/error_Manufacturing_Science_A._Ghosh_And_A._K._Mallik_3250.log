@@ -1,0 +1,41 @@
+ERROR: Manufacturing_Science_A._Ghosh_And_A._K._Mallik_3250/CH6/EX6.1/Ex6_1.sce
+ 
+ 
+ a  =
+ 
+    5.  
+ 
+ t  =
+ 
+    4.  
+ 
+ d  =
+ 
+    0.01  
+ 
+ F  =
+ 
+    3.5  
+ 
+ A  =
+ 
+    0.025  
+ 
+ f  =
+ 
+    25000.  
+ 
+ Hw  =
+ 
+    6900.  
+ 
+ 
+
+ # PROBLEM 6.1 # 
+ 
+Z = (1/2)*(4*s^2)/(%pi*d^2)
+               !--error 4 
+Undefined variable: s
+at line      12 of exec file called by :    
+_K._Mallik_3250/CH6/EX6.1/Ex6_1.sce',-1
+ 

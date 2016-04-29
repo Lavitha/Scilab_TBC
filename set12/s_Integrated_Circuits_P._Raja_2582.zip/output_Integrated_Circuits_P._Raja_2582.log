@@ -1,0 +1,1999 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 77
+
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of VGS(V) :    
+ 
+    0.7  
+ 
+ 
+ 
+ Value of R(kohm) :    
+ 
+    22.  
+ 
+ 
+ 
+ 
+ Lowest value of VO(V) :    
+ 
+    0.2  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.3.1/Ex1_3_page20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current gain :    
+ 
+    0.91  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of VGS(V) :    
+ 
+  - 0.8  
+ 
+ 
+ Value of VG(V) :    
+ 
+    1.  
+ 
+ 
+ Value of R(kohm) :    
+ 
+    12.5  
+ 
+ 
+ W/L ratio :    
+ 
+    40.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ IREF=IC1+IC1/Beta+IO/Beta   
+ 
+ 
+ IO/IREF=m implies IC1=IO/m as IC1=IREF   
+ 
+ 
+ IREF=IO*(1/m+1/m/Beta+1/Beta   
+ 
+ 
+ IO/IREF=m/(1+1/Beta+m/Beta   
+ 
+ 
+ IO/IREF=m*(1-5/100);//for large Beta   
+ 
+ 
+ 
+ Largest current transfer ratio :    
+ 
+    3.21  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ IREF=IC1+IC1/Beta+IO/Beta   
+ 
+ 
+ IO/IREF=m implies IC1=IO/m as IC1=IREF   
+ 
+ 
+ IREF=IO*(1/m+1/m/Beta+1/Beta   
+ 
+ 
+ IO/IREF=m/(1+1/Beta+m/Beta   
+ 
+ 
+ IO/IREF=m*(1-5/100);//for large Beta   
+ 
+ 
+ 
+ Largest current transfer ratio :    
+ 
+    3.21  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.9/Ex1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current gain :    
+ 
+    0.91  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change in Io(%) :    
+ 
+    10.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.11/Ex1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change in Io(%) :    
+ 
+    0.0049751  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.12/Ex1_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference current is(micro A) :    
+ 
+    8.2  
+ 
+ 
+ 
+ Resistance is(Mohm) :    
+ 
+    2.35  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.13/Ex1_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference current is(mA) :    
+ 
+    1.02  
+ 
+ 
+ 
+ Resistance is(kohm) :    
+ 
+    28.7  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.14/Ex1_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference current is(mA) :    
+ 
+    0.52  
+ 
+ 
+ 
+ Resistance is(kohm) :    
+ 
+    8.27  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.15/Ex1_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference current is(micro A) :    
+ 
+    8.  
+ 
+ 
+ 
+ Resistance is(Mohm) :    
+ 
+    2.32  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.16/Ex1_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Iout for the circuit is(mA) :    
+ 
+    0.83  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.17/Ex1_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of resistance R & Rs for widlar current source design is(kohm) :    
+ 
+    16.1  
+ 
+    22.7  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.18/Ex1_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of resistance R, RE2 & RE3 for widlar current source design is(kohm) :   
+ 
+    19.3  
+ 
+    5.09  
+ 
+    2.09  
+ 
+ 
+ 
+ 
+ 
+ Values of VBE2 & VBE3(V) :    
+ 
+    0.5983  
+ 
+    0.6163  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.19/Ex1_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collector current in each transistor is equal as all are identical. It is(mA)  
+      :                                                                         
+ 
+    1.63  
+ 
+ 
+ 
+ Current through resistance Rc is (mA) :    
+ 
+    4.88  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.20/Ex1_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current IC1 & IC2 (micro A) :    
+ 
+    103.4  
+ 
+    103.4  
+ 
+ 
+ 
+ Value of Rc is (kohm) :    
+ 
+    48.36  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH1/EX1.21/Ex1_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of current IC2, IC3 & IC4 is (mA) :    
+ 
+    0.358  
+ 
+    0.179  
+ 
+    0.089  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated input reference current , IREF(micro A)   
+ 
+    220.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ More precise value of reference current , IREF(micro A)   
+ 
+    226.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of R5(kohm) :    
+ 
+    12.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For Widlar current source design, the value of R4(kohm) :    
+ 
+    4.02  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Full power bandwidth(kHz)   
+ 
+    159.2  
+ 
+ 
+ 
+ 
+ Unity gain bandwidth(MHz)   
+ 
+    15.92  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum output voltage(V)   
+ 
+    4.2  
+ 
+ 
+ Minimum output voltage(V)   
+ 
+  - 3.6  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of Rf(kohm) :    
+ 
+    220.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Output Voltage(V) :    
+ 
+  - 0.25  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of R1(kohm)   
+ 
+    100.  
+ 
+ 
+ Value of R2(Mohm)   
+ 
+    1.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For filter transmission=1, Attenuation(dB)   
+ 
+    0.  
+ 
+ 
+ For filter transmission=0.99, Attenuation(dB)   
+ 
+    0.087  
+ 
+ 
+ For filter transmission=0.9, Attenuation(dB)   
+ 
+    0.915  
+ 
+ 
+ For filter transmission=0.1, Attenuation(dB)   
+ 
+    20.  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.1  
+ 
+ 
+ Resistance R1(ohm)   
+ 
+    79.6  
+ 
+ 
+ Resistance R2(kohm)   
+ 
+    0.80  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ C2  =
+ 
+    0.005  
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Resistance in kohm, R1=R2=   
+ 
+    31.83  
+ 
+ 
+ Resistance Ri(kohm)   
+ 
+    17.06  
+ 
+ 
+ Resistance Rf(kohm)   
+ 
+    10.  
+ 
+ 
+ Capacitance(micro F), C1=C2=   
+ 
+    0.005  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Capacitance C1(micro F)   
+ 
+    0.01  
+ 
+ 
+ Capacitance C2(micro F)   
+ 
+    0.005  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    7.504  
+ 
+ 
+ For offset minimization, Resistance Rf(kohm)   
+ 
+    15.01  
+ 
+ 
+ 
+ 
+ 
+ For additional band pass gain:   
+ 
+ 
+ Resistance Ri(kohm)   
+ 
+    10.  
+ 
+ 
+ Resistance Rf(kohm)   
+ 
+    30.  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Capacitance C(micro F)   
+ 
+    0.05  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    1.592  
+ 
+ 
+ Resistance Rf(kohm)   
+ 
+    5.048  
+ 
+ 
+ Resistance Ri(kohm)   
+ 
+    8.615  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.03  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    4.421  
+ 
+ 
+ Resistance Rf(kohm)   
+ 
+    14.02  
+ 
+ 
+ Resistance Ri(kohm)   
+ 
+    23.93  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quality factor   
+ 
+    0.56  
+ 
+ 
+ As Q<12 ; it is wide band filter   
+ 
+ 
+ Design values for high pass section with Ap1=2 & fL(Hz) :   
+ 
+    200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.03  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    24.1  
+ 
+ 
+ Resistance Rf(kohm)   
+ 
+    48.2  
+ 
+ 
+ Resistance Ri(kohm)   
+ 
+    48.2  
+ 
+ 
+ Design values for low pass section with Ap2=2 & fH(Hz) :   
+ 
+   1000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.03  
+ 
+ 
+ Resistance Rdash(kohm)   
+ 
+    4.82  
+ 
+ 
+ Resistance Rf(kohm)   
+ 
+    9.65  
+ 
+ 
+ Resistance Ri(kohm)   
+ 
+    9.65  
+ 
+ 
+ For design purpose use rounded value 10 kohm for Rf & Ri   
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quality factor   
+ 
+    0.56  
+ 
+ 
+ As Q<10 ; it is wide band filter   
+ 
+ 
+ Design values for low pass section with Ap2=2 & fH(Hz) :   
+ 
+   1000.  
+ 
+ 
+ 
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.03  
+ 
+ 
+ Resistance Rdash(kohm)   
+ 
+    5.31  
+ 
+ 
+ Value of Resistance Rf & Ri can be choosen as 10 kohm for filter design.   
+ 
+ 
+ Design values for high pass section with Ap1=2 & fL(Hz) :   
+ 
+    200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.05  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    15.9  
+ 
+ 
+ Value of Resistance Rf & Ri can be choosen as 10 kohm for filter design.   
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.05  
+ 
+ 
+ Resistance R1(kohm)   
+ 
+    1.061  
+ 
+ 
+ Resistance R2(kohm)   
+ 
+    21.22  
+ 
+ 
+ Resistance R3(ohm)   
+ 
+    482.3  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ This filter is a combination of -:   
+ 
+ 
+ High pass filter having fH=100 Hz   
+ 
+ 
+ Low pass filter having fL=1 kHz   
+ 
+ 
+ And a summing amplifier   
+ 
+ 
+ 
+ Design values for high pass section :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.05  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    3.183  
+ 
+ 
+ Value of Resistance Rf & Ri can be choosen as 10 kohm for filter design.   
+ 
+ 
+ 
+ Design values for low pass section :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.1  
+ 
+ 
+ Resistance Rdash(kohm)   
+ 
+    15.92  
+ 
+ 
+ Value of Resistance Rf_dash & Ri_dash can be choosen as 10 kohm for filter des 
+      ign.                                                                      
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.5  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    6.366  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Capacitance(micro F)   
+ 
+    0.01  
+ 
+ 
+ Resistance R(kohm)   
+ 
+    15.92  
+ 
+ 
+ Resistance Rdash(kohm)   
+ 
+    12.73  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Gain   
+ 
+    40.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency of oscillation(kHz)   
+ 
+    21.66  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.18/Ex3_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of resistance R1=R2 can be choosen as 10 kohm   
+ 
+ 
+ Cpacitance(nF)   
+ 
+    7.96  
+ 
+ 
+ Value of resistance R4 can be choosen as 10 kohm & R3=2*R4=20 kohm for Beta to 
+       be 1/3                                                                   
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency of oscillation(kHz)   
+ 
+    3.979  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.20/Ex3_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ omega/omega0        T(j*omega)        (G(dB))        A(dB)        fi   
+ 
+ 
+ 
+    0.      1.       0.       0.       0.     
+    0.5     0.894  - 0.969    0.969  - 26.57  
+    1.      0.707  - 3.01     3.01   - 45.    
+    5.      0.196  - 14.15    14.15  - 78.69  
+    10.     0.100  - 20.04    20.04  - 84.29  
+    100.    0.01   - 40.      40.    - 89.43  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.21/Ex3_21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of T & fi for 0.1 rad/s:    
+ 
+    1.  
+ 
+  - 11.48  
+ 
+ 
+ Value of T & fi for 1 rad/s:    
+ 
+    0.707  
+ 
+  - 135.  
+ 
+ 
+ Value of T & fi for 10 rad/s:    
+ 
+    0.001  
+ 
+  - 78.52  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.22/Ex3_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Resistance R2(kohm):    
+ 
+    100.  
+ 
+ 
+ Capacitance C(nF):    
+ 
+    0.159  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.23/Ex3_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values are :   
+ 
+ 
+ Resistance R1=R2 in kohm :    
+ 
+    100.  
+ 
+ 
+ Capacitance C(nF):    
+ 
+    15.92  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.24/Ex3_24.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values for low pass filter :   
+ 
+ 
+ Resistance R1=R2 in kohm :    
+ 
+    100.  
+ 
+ 
+ Capacitance C(nF):    
+ 
+    0.159  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values for high pass filter :   
+ 
+ 
+ Resistance R3 & R4 in kohm :    
+ 
+    25.  
+ 
+    100.  
+ 
+ 
+ Capacitance C(nF):    
+ 
+    63.66  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.25/Ex3_25.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For phase shift=-30 degree, Resistance(kohm) :    
+ 
+    2.679  
+ 
+ 
+ For phase shift=-90 degree, Resistance(kohm) :    
+ 
+    10.  
+ 
+ 
+ For phase shift=-120 degree, Resistance(kohm) :    
+ 
+    17.32  
+ 
+ 
+ For phase shift=-150 degree, Resistance(kohm) :    
+ 
+    37.32  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.26/Ex3_26.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For omega=0, phase shift(degree)   
+ 
+    180.  
+ 
+ 
+ For omega=infinity, phase shift(degree)   
+ 
+    0.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH3/EX3.28/Ex3_28.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Design values for KHN circuit :   
+ 
+ 
+ Use Resistance R1 & RF in kohm :    
+ 
+    10.  
+ 
+    10.  
+ 
+ 
+ Use Resistance R2 in kohm :    
+ 
+    10.  
+ 
+ 
+ Resistance R3 in kohm :    
+ 
+    390.  
+ 
+ 
+ 
+ 
+ CenterFrequency    
+ 
+    39.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vth(V)   
+ 
+    1.5  
+ 
+ 
+ VIL(V)   
+ 
+    1.5  
+ 
+ 
+ VIH(V)   
+ 
+    1.5  
+ 
+ 
+ VOL(V)   
+ 
+    0.  
+ 
+ 
+ VOH(V)   
+ 
+    3.  
+ 
+ 
+ NML(V)   
+ 
+    1.5  
+ 
+ 
+ NMH(V)   
+ 
+    1.5  
+ 
+ 
+ 
+ 
+ Gain in the transition region   
+ 
+    Inf  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VUT(V) :    
+ 
+    6.94  
+ 
+ 
+ VLT(V) :    
+ 
+  - 6.94  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Time period(ms)   
+ 
+    20.  
+ 
+ 
+ 
+ Frequency(Hz) :    
+ 
+    50.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency(Hz) :    
+ 
+    500.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the required design value of R(kohm) :    
+ 
+    5.  
+ 
+ 
+ R1 & R2 can be choosen as 10 kohm   
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum current(mA) :    
+ 
+    1.12  
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency of oscillations(Hz) :    
+ 
+    994.5  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average output voltage(V) :    
+ 
+    3.18  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Values of R1 & R2(kohm) are :    
+ 
+    100.  
+ 
+    200.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Values of R1, R2 & R3(kohm) are :    
+ 
+    15.  
+ 
+    10.  
+ 
+    45.  
+ 
+ 
+ Value of C1(micro F)   
+ 
+    0.05  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency range is 669 Hz to 2.5 kHz   
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Resolution=   
+ 
+    256.  
+ 
+ 
+ 
+ (b) Output change per bit(mV/bit)   
+ 
+    20.  
+ 
+ 
+ 
+ (c) Full scale Output voltage(V)   
+ 
+    5.1  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Output voltage(V)   
+ 
+    3.78  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LSB(mV)   
+ 
+    39.1  
+ 
+ 
+ MSB(V)   
+ 
+    10.  
+ 
+ 
+ VFS(V)   
+ 
+    9.96  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i) Output Voltage(V)   
+ 
+    5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ii) Output Voltage(V)   
+ 
+    3.75  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (iii) Output Voltage(V)   
+ 
+    7.34  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Output Voltage(V)   
+ 
+    0.44  
+ 
+ 
+ 
+ 
+ (b) Output Voltage(V)   
+ 
+    2.56  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Offset voltage(mV)   
+ 
+    5.  
+ 
+ 
+ 
+ 
+ (b) Offset voltage in terms of LSB   
+ 
+    2.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum output voltage(V)   
+ 
+    5.1  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.8/Ex6_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Minimum voltage for 1 LSB in mV   
+ 
+    39.1  
+ 
+ 
+ 
+ (b) For all ones input voltage should be (V)   
+ 
+    9.96  
+ 
+ 
+ 
+ 
+ (c) Digital Output   
+ 
+ 10000101   
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Conversion time in micro seconds   
+ 
+    9.  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) t_high(ms)   
+ 
+    0.70195  
+ 
+ 
+ 
+ (b) t_low(ms)   
+ 
+    0.22935  
+ 
+ 
+ 
+ (c) Frequency of oscillation(kHz)   
+ 
+    1.0746269  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ Timing interval(ms)   
+ 
+    1.1  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Output of phase detector will be(kHz)   
+ 
+    1100.  
+ 
+    100.  
+ 
+ 
+ Both components are not lying in the passband(i.e. 10 kHz). Hence loop will no 
+      t acquire lock.                                                           
+ 
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequency fL & fC in kHz   
+ 
+    3.333  
+ 
+    121.4  
+ 
+ 
+ 
+ Lock Range(kHz)   
+ 
+    6.667  
+ 
+ 
+ 
+ Capture Range(Hz)   
+ 
+    242.8  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lock Range(kHz)   
+ 
+    133.  
+ 
+ 
+ 
+ Capture Range(kHz)   
+ 
+    3.43  
+ 
+ 
+ 
+ 
+ Design values are :    
+ 
+ 
+ Resistance RT can be chooosen as 10 kohm.   
+ 
+ 
+ 
+ Capacitance CT(F)   
+ 
+    3.00D-10  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Value of R(kohm)   
+ 
+    9.1023923  
+ 
+ 
+ 
+ 
+ 
+ (b) Value of VTH(V)   
+ 
+    13.333333  
+ 
+ 
+grepthis#Integrated_Circuits_P._Raja_2582/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of RA(kohm)   
+ 
+    21.08  
+ 
+ 
+ Value of RB(kohm)   
+ 
+    10.66  
+ 
+ 

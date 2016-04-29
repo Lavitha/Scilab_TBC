@@ -1,0 +1,276 @@
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.7/Exp4_7.sce #
+ 
+[2J[0;0H 
+ 
+ V_L = 866 V,  kVA = 100   
+ 
+ 
+ Therefore,  kVA = sqrt(3)*V_L*I_L*10^-3   
+ 
+ il  =
+ 
+    66.668622  
+ 
+ 
+ 
+ Therefore,  I_L(in A) =   
+ 
+    66.67  
+ 
+ 
+ Therefore,  I_aph F.L. = I_L = 66.67 A              ... as star connected alte 
+      rnator                                                                    
+ 
+ 
+ V_ph = Rated terminal voltage per phase = V_L/3   
+ 
+ vp  =
+ 
+    500.  
+ 
+ 
+ Therefore,  V_ph(in V) =   
+ 
+    500.  
+ 
+ 
+ For calculation of Z_s on full load, it is necessary to plot O.C.C. and S.C.C. 
+       to the scale                                                             
+ 
+ 
+ Note :  If for same value of I_f, both I_ssc and V_oc can be obtained from the 
+       table itself, graph need not be plotted. In some problems, the values of 
+       V_oc and I_ssc for same I_f are directly given, in that case too, the gr 
+      aph need not be plotted.                                                  
+ 
+ 
+ In this problem, I_ssc = 25 A for I_f = 1 A   
+ 
+ 
+ But we want to calculate Z_s for I_ssc = its full load value which is 66.67 A. 
+       So graph is required to be plotted.                                      
+ 
+ 
+ For plotting O.C.C. the lines values of open circuit voltage are converted to  
+      phase by dividing each value by sqrt(3)                                   
+ 
+ 
+ From S.C.C.   
+ 
+ 
+ For    I_scc = 66.67 A,  I_f = 2.4 A   
+ 
+ 
+ From O.C.C.   
+ 
+ 
+ For    I_f = 2.4 A,  (V_oc)_ph = 240 V   
+ 
+ 
+ From the graph, Z_s for full load is,   
+ 
+ 
+ Z_s = (V_oc)_ph / (I_scc)_ph |for same excitation   
+ 
+ zs  =
+ 
+    3.6  
+ 
+ 
+ 
+ Therefore,  Z_s(in ohm/phase) =   
+ 
+    3.6  
+ 
+ 
+ R_a = 0.15 ohm/phase   
+ 
+ xs  =
+ 
+    3.6  
+ 
+ 
+ 
+ Therefore,  X_s(in ohm/phase) = sqrt(Z_s^2 - R_a^2) =   
+ 
+    3.597  
+ 
+ 
+ V_ph F.L = 500 V   
+ 
+ 
+ cos(phi) = 0.8   
+ 
+ 
+ Therefore,  sin(phi) = 0.6 lagging p.f.   
+ 
+ 
+ So E_ph for full load, 0.8 lagging p.f. condition can be calculated as,   
+ 
+ 
+ (E_ph)^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*X_s)^2   
+ 
+ eph  =
+ 
+   ******  
+ 
+ p  =
+ 
+    677.9  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =    
+ 
+    677.86  
+ 
+ regu  =
+ 
+    35.572  
+ 
+ 
+ 
+ Therefore, %Regulation(in percentage) = (E_ph-V_ph / V_ph)*100 =   
+ 
+    35.57  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH4/EX4.19/Exp4_19.sce #
+ 
+[2J[0;0H 
+ 
+ 1 MVA,  V_L = 11 kV,  R_a = 0.6 ohm   
+ 
+ 
+ VA = sqrt(3)*V_L*I_L   
+ 
+ il  =
+ 
+    52.486388  
+ 
+ 
+ 
+ Therefore,  I_L(in A) = I_aph(full load) =   
+ 
+    52.486  
+ 
+ 
+ Now I_f = 40 A for I_ssc = 52.486 A. To find Z_s, plot the O.C.C and obtain V_ 
+      oc for I_f = 40 A                                                         
+ 
+ 
+ From the graph, V_oc(line) = 6600 V for I_f = 40 A   
+ 
+ zs  =
+ 
+    66.  
+ 
+ 
+ 
+ Therefore,  Z_s(in ohm) = V_ocph/I_ascph |same I_f =   
+ 
+   66.  
+ 
+ xs  =
+ 
+   66.  
+ 
+ 
+ 
+ Therefore,  X_s(in ohm) = sqrt(Z_s^2 - R_a^2) =   
+ 
+    65.997  
+ 
+ 
+ (a) cos(phi) = 0.8 lagging,  sin(phi) = 0.6, half load   
+ 
+ ip  =
+ 
+    26.243  
+ 
+ 
+ 
+ At half load,  I_aph(in A) = 1/2 * I_aph(FL) =   
+ 
+    26.243  
+ 
+ vp  =
+ 
+    6350.9  
+ 
+ 
+ 
+ V_ph(in V) = V_L/sqrt(3) =   
+ 
+    6350.853  
+ 
+ 
+ E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)+I_a*R_a)^2   
+ 
+ ephi  =
+ 
+    7529.311  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    7529.3114  
+ 
+ r  =
+ 
+    18.555906  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+    18.56  
+ 
+ 
+ (b) cos(phi) = 0.9 leading,  sin(phi) = 0.4358, full load so I_aph = 52.486 A  
+ 
+ 
+ E_ph^2 = (V_ph*cos(phi)+I_a*R_a)^2 + (V_ph*sin(phi)-I_a*R_a)^2   
+ 
+ ephi  =
+ 
+    5789.  
+ 
+ 
+ 
+ Therefore,  E_ph(in V) =   
+ 
+    5789.231  
+ 
+ r  =
+ 
+  - 8.843253  
+ 
+ 
+ 
+ Therefore,  %R(in percentage) = (E_ph-V_ph / V_ph)*100 =    
+ 
+  - 8.843  
+ 
+ 
+grepthis#Electrical_And_Electronic_Engineering_U._A._Bakshi_And_V._U._Bakshi_1370/CH9/EX9.10/example9_10.sce #
+ 
+[2J[0;0H 
+ 
+ It can be observed from the Lissajous figures that,   
+ 
+ 
+ (y_1)=8 units     and,    (y_2)=10 units   
+ 
+ s  =
+ 
+    53.130102  
+ 
+ 
+ 
+ Therefore, phi (in degree)= asind((y_1)/(y_2))=asind(8/10)=   
+ 
+    53.13  
+ 
+ 

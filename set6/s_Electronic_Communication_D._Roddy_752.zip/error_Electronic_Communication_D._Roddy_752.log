@@ -1,0 +1,59 @@
+ERROR: Electronic_Communication_D._Roddy_752/CH6/EX6.3.3/6_3_3.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c=1/(2*%pi*f*R*sqrt(6+(4*R0/R)))*10^9;
+                           !--error 4 
+Undefined variable: R0
+at line       9 of exec file called by :    
+_D._Roddy_752/CH6/EX6.3.3/6_3_3.sce',-1
+ 
+ERROR: Electronic_Communication_D._Roddy_752/CH12/EX12.4.2/12_4_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pbe=1/2 * b;// bit error probability
+            !--error 4 
+Undefined variable: b
+at line       8 of exec file called by :    
+_Roddy_752/CH12/EX12.4.2/12_4_2.sce',-1
+ 
+ERROR: Electronic_Communication_D._Roddy_752/CH15/EX15.3.1/15_3_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wl=c/(f*10^6);
+     !--error 4 
+Undefined variable: c
+at line      11 of exec file called by :    
+_Roddy_752/CH15/EX15.3.1/15_3_1.sce',-1
+ 
+ERROR: Electronic_Communication_D._Roddy_752/CH20/EX20.2.5/20_2_5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+NA_max=(V_max*wave)/(%pi*d);
+                !--error 4 
+Undefined variable: wave
+at line       7 of exec file called by :    
+_Roddy_752/CH20/EX20.2.5/20_2_5.sce',-1
+ 

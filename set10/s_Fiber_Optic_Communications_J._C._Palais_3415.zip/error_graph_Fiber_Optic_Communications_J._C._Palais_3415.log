@@ -1,0 +1,329 @@
+ERROR: Fiber_Optic_Communications_J._C._Palais_3415/CH5/EX5.8/Ex5_8.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ L  =
+ 
+    0.25    0.75    1.25    1.75    2.25    2.75    3.25    3.75    4.25  
+ 
+ f3db  =
+ 
+    100.       
+    33.333333  
+    22.36068   
+ f3db  =
+ 
+    100.       
+    33.333333  
+    22.36068   
+    18.898224  
+ f3db  =
+ 
+    100.       
+    33.333333  
+    22.36068   
+    18.898224  
+    16.666667  
+ f3db  =
+ 
+    100.       
+    33.333333  
+    22.36068   
+    18.898224  
+    16.666667  
+    15.075567  
+ f3db  =
+ 
+    100.       
+    33.333333  
+    22.36068   
+    18.898224  
+    16.666667  
+    15.075567  
+    13.867505  
+ f3db  =
+ 
+    100.       
+    33.333333  
+    22.36068   
+    18.898224  
+    16.666667  
+    15.075567  
+    13.867505  
+    12.909944  
+ f3db  =
+ 
+    100.       
+    33.333333  
+    22.36068   
+    18.898224  
+    16.666667  
+    15.075567  
+    13.867505  
+    12.909944  
+    12.126781  
+ 
+WARNING: Transposing row vector X to get compatible dimensions
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fiber_Optic_Communications_J._C._Palais_3415/Ex5_8');xend();exit();
+                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fiber_Optic_Communications_J._C._Palais_3415/CH5/EX5.8/Ex5_8.sce',-1)
+ 
+ERROR: Fiber_Optic_Communications_J._C._Palais_3415/CH8/EX8.2/Ex8_2.sce
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ n1  =
+ 
+    1.465  
+ 
+ n2  =
+ 
+    1.46  
+ 
+ lambda1  =
+ 
+    1.3  
+ 
+ lambda2  =
+ 
+    1.55  
+ 
+ a  =
+ 
+    3.96  
+ 
+ d  =
+ 
+ 
+         column  1 to 20
+ 
+    0.    0.1    0.2    0.3    0.4    0.5    0.6    0.7    0.8    0.9    1.    1.1    1.2    1.3    1.4    1.5    1.6    1.7    1.8    1.9  
+ 
+         column 21 to 40
+ 
+    2.    2.1    2.2    2.3    2.4    2.5    2.6    2.7    2.8    2.9    3.    3.1    3.2    3.3    3.4    3.5    3.6    3.7    3.8    3.9  
+ 
+         column 41 to 51
+ 
+    4.    4.1    4.2    4.3    4.4    4.5    4.6    4.7    4.8    4.9    5.  
+ 
+ 
+ V1  =
+ 
+    2.3146197  
+ 
+ V2  =
+ 
+    1.9412939  
+ 
+ wbya1  =
+ 
+    1.1486407  
+ 
+ wbya2  =
+ 
+    1.3286016  
+ 
+ w1  =
+ 
+    4.5486173  
+ 
+ w2  =
+ 
+    5.2612625  
+ 
+ dbyw1  =
+ 
+ 
+         column  1 to 11
+ 
+    0.    0.0219847    0.0439694    0.0659541    0.0879388    0.1099235    0.1319082    0.1538929    0.1758776    0.1978623    0.2198470  
+ 
+         column 12 to 21
+ 
+    0.2418317    0.2638164    0.2858011    0.3077858    0.3297705    0.3517552    0.3737400    0.3957247    0.4177094    0.4396941  
+ 
+         column 22 to 31
+ 
+    0.4616788    0.4836635    0.5056482    0.5276329    0.5496176    0.5716023    0.5935870    0.6155717    0.6375564    0.6595411  
+ 
+         column 32 to 41
+ 
+    0.6815258    0.7035105    0.7254952    0.7474799    0.7694646    0.7914493    0.8134340    0.8354187    0.8574034    0.8793881  
+ 
+         column 42 to 51
+ 
+    0.9013728    0.9233575    0.9453422    0.9673269    0.9893116    1.0112963    1.033281    1.0552657    1.0772504    1.0992351  
+ 
+ dbyw2  =
+ 
+ 
+         column  1 to 11
+ 
+    0.    0.0190068    0.0380137    0.0570205    0.0760274    0.0950342    0.1140411    0.1330479    0.1520548    0.1710616    0.1900684  
+ 
+         column 12 to 21
+ 
+    0.2090753    0.2280821    0.2470890    0.2660958    0.2851027    0.3041095    0.3231164    0.3421232    0.3611301    0.3801369  
+ 
+         column 22 to 31
+ 
+    0.3991437    0.4181506    0.4371574    0.4561643    0.4751711    0.4941780    0.5131848    0.5321917    0.5511985    0.5702053  
+ 
+         column 32 to 41
+ 
+    0.5892122    0.6082190    0.6272259    0.6462327    0.6652396    0.6842464    0.7032533    0.7222601    0.7412670    0.7602738  
+ 
+         column 42 to 51
+ 
+    0.7792806    0.7982875    0.8172943    0.8363012    0.8553080    0.8743149    0.8933217    0.9123286    0.9313354    0.9503422  
+ 
+L1=-10*log(exp(-(dbyw1)^2))//Coupling Loss for lambda1
+                          !       
+at line      23 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fiber_Optic_Communications_J._C._Palais_3415/CH8/EX8.2/Ex8_2.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ L1  =
+ 
+ 
+         column  1 to 11
+ 
+    0.    0.0048333    0.0193331    0.0434994    0.0773323    0.1208318    0.1739978    0.2368303    0.3093294    0.391495    0.4833272  
+ 
+         column 12 to 22
+ 
+    0.5848259    0.6959911    0.8168229    0.9473212    1.0874861    1.2373175    1.3968155    1.56598    1.7448111    1.9333087    2.1314728  
+ 
+         column 23 to 33
+ 
+    2.3393035    2.5568007    2.7839645    3.0207948    3.2672916    3.523455    3.789285    4.0647815    4.3499445    4.6447741    4.9492702  
+ 
+         column 34 to 43
+ 
+    5.2634328    5.587262    5.9207578    6.2639201    6.6167489    6.9792443    7.3514062    7.7332347    8.1247297    8.5258912  
+ 
+         column 44 to 51
+ 
+    8.9367193    9.3572139    9.7873751    10.227203    10.676697    11.135858    11.604685    12.083179  
+ 
+L2=-10*log(exp(-(dbyw2)^2))//Coupling Loss for lambda2
+                          !       
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fiber_Optic_Communications_J._C._Palais_3415/CH8/EX8.2/Ex8_2.sce',-1)
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ L2  =
+ 
+ 
+         column  1 to 11
+ 
+    0.    0.0036126    0.0144504    0.0325134    0.0578016    0.0903150    0.1300537    0.1770175    0.2312065    0.2926207    0.3612602  
+ 
+         column 12 to 21
+ 
+    0.4371248    0.5202146    0.6105297    0.7080699    0.8128353    0.924826    1.0440418    1.1704829    1.3041492    1.4450406  
+ 
+         column 22 to 31
+ 
+    1.5931573    1.7484992    1.9110662    2.0808585    2.257876    2.4421187    2.6335865    2.8322796    3.0381979    3.2513414  
+ 
+         column 32 to 42
+ 
+    3.4717101    3.699304    3.9341231    4.1761674    4.4254369    4.6819316    4.9456515    5.2165966    5.494767    5.7801625    6.0727832  
+ 
+         column 43 to 51
+ 
+    6.3726291    6.6797003    6.9939966    7.3155181    7.6442649    7.9802368    8.323434    8.6738563    9.0315039  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xinit('/home/fossee/Downloads/tbc_graphs/Fiber_Optic_Communications_J._C._Palais_3415/Ex8_2');xend();exit();
+                                                                                                     !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line       8 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fiber_Optic_Communications_J._C._Palais_3415/CH8/EX8.2/Ex8_2.sce',-1)
+ 
+ERROR: Fiber_Optic_Communications_J._C._Palais_3415/CH11/EX11.4/Ex11_4.sce
+ 
+ 
+ 
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ lambda  =
+ 
+    0.0000009  
+ 
+ Row  =
+ 
+    0.5  
+ 
+ ID  =
+ 
+    2.000D-09  
+ 
+ RL  =
+ 
+    100.  
+ 
+ deltaf  =
+ 
+    1000000.  
+ 
+ T  =
+ 
+    300.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ 
+ 
+ 
+ logRL  =
+ 
+    2.  
+ iNT  =
+ 
+    1.287D-08  
+ iNSD  =
+ 
+    2.530D-11  
+NEP(i)=sqrt(iNSD(i)^2+iNT(i)^2)/(R*sqrt(deltaf))//Noise equivalent power (NEP) in W/Hz^1/2
+                                   !--error 4 
+Undefined variable: R
+at line      25 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fiber_Optic_Communications_J._C._Palais_3415/CH11/EX11.4/Ex11_4.sce',-1)
+ 

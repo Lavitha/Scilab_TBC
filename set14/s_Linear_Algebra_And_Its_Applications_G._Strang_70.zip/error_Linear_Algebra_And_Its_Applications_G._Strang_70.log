@@ -1,0 +1,23 @@
+ERROR: Linear_Algebra_And_Its_Applications_G._Strang_70/CH8/EX8.2.2/8_2_2.sci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lb  =
+ 
+    0.  
+    0.  
+    0.  
+    0.  
+    0.  
+ 
+ 
+[x,lagr,f]=linpro(c,A,b,lb,ub);
+                               !--error 4 
+Undefined variable: linpro
+at line      10 of exec file called by :    
+_G._Strang_70/CH8/EX8.2.2/8_2_2.sci',-1
+ 

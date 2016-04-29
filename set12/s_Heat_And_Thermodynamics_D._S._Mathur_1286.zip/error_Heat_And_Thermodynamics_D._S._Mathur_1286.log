@@ -1,0 +1,38 @@
+ERROR: Heat_And_Thermodynamics_D._S._Mathur_1286/CH7/EX7.10/7_10.sce
+ 
+ 
+ m  =
+ 
+    0.002  
+ 
+ R  =
+ 
+    8.31  
+ 
+ p  =
+ 
+    200000.  
+ 
+ v  =
+ 
+    0.00082  
+ 
+ a  =
+ 
+    0.136  
+ 
+ M  =
+ 
+    0.028  
+ 
+ 
+ t  =
+ 
+    276.29362  
+ 
+T=(M/(m*R))*(p+(m*m*a/(M*M*v*v)))*(v-(m*b/M))
+                                          !--error 4 
+Undefined variable: b
+at line      11 of exec file called by :    
+_S._Mathur_1286/CH7/EX7.10/7_10.sce',-1
+ 

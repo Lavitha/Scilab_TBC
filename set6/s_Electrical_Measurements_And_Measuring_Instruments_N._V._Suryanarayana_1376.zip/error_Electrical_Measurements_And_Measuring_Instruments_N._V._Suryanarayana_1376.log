@@ -1,0 +1,45 @@
+ERROR: Electrical_Measurements_And_Measuring_Instruments_N._V._Suryanarayana_1376/CH16/EX16.1/16_1.sci
+ 
+ 
+ 
+ For star connected load   
+ 
+ 
+printf("\nLine current=%.2f A",I1)
+                                 !--error 4 
+Undefined variable: I1
+at line       5 of exec file called by :    
+anarayana_1376/CH16/EX16.1/16_1.sci',-1
+ 
+ERROR: Electrical_Measurements_And_Measuring_Instruments_N._V._Suryanarayana_1376/CH16/EX16.2/16_2.sci
+ 
+ 
+ 
+ For star connection   
+ 
+ 
+ 
+ 
+ 
+printf("\nLine current=%.2f A",I1)
+                                 !--error 4 
+Undefined variable: I1
+at line       8 of exec file called by :    
+anarayana_1376/CH16/EX16.2/16_2.sci',-1
+ 
+ERROR: Electrical_Measurements_And_Measuring_Instruments_N._V._Suryanarayana_1376/CH16/EX16.6/16_6.sci
+ 
+ 
+ 
+ 
+ 
+ 
+
+Phase current=22.19 A 
+ 
+printf("\nLine current=%.2f A",I1)
+                                 !--error 4 
+Undefined variable: I1
+at line       9 of exec file called by :    
+anarayana_1376/CH16/EX16.6/16_6.sci',-1
+ 

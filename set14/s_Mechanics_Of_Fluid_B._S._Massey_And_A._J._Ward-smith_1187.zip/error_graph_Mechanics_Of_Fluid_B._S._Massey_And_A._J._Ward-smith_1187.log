@@ -1,0 +1,95 @@
+ERROR: Mechanics_Of_Fluid_B._S._Massey_And_A._J._Ward-smith_1187/CH13/EX13.6/6.sce
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)The head loss due to pipe friction in terms of flow rate Q is given as   
+ 
+ 
+ (100*Q)^2   
+ 
+ 
+ 
+ 
+ H  =
+ 
+    15.    16.    16.5    16.5    15.5    13.5    10.5    7.    0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+plot(Q,(11.5+10000*Q^2),"b")
+                       !       
+at line      26 of exec file called by :    
+._Ward-smith_1187/CH13/EX13.6/6.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ ans  =
+ 
+Handle of type "Legend" with properties:
+========================================
+parent: Axes
+children: []
+visible = "on"
+text = ["pipe system";"pump"]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+links = ["Polyline","Polyline"]
+legend_location = "in_upper_right"
+position = [0,0]
+line_width = 0.1
+line_mode = "on"
+thickness = 1
+foreground = -1
+fill_mode = "on"
+background = -2
+marks_count = 3
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b)Power required =   
+ 
+ 
+    4454.2703  
+ 
+ 
+ W   
+ 
+ 
+sey_And_A._J._Ward-smith_1187/6');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      17 of exec file called by :    
+._Ward-smith_1187/CH13/EX13.6/6.sce',-1
+ 

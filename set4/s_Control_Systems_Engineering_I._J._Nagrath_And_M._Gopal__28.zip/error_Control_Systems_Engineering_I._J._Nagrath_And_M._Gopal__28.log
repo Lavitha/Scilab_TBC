@@ -1,0 +1,435 @@
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH2/EX2.3/ex2_3.sce
+ 
+syms L C R1 R2
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH2/EX2.3/ex2_3.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH2/EX2.4/ex2_4.sce
+errcatch(-1,"stop");mode(2);syms xv Qf Qo Cf Co V Qw Kv
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH2/EX2.4/ex2_4.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.2/ex3_2.sce
+errcatch(-1,"stop");mode(2);syms K;
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.2/ex3_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.a/ex3_3_1.sce
+errcatch(-1,"stop");mode(2);syms K1 K t;
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.a/ex3_3_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.b/ex3_3_2.sce
+errcatch(-1,"stop");mode(2);syms A K K1 t
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.b/ex3_3_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.c/ex3_3_3.sce
+ 
+syms Kg K1 D;
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.c/ex3_3_3.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.d/ex3_3_4.sce
+ 
+syms K Kg D
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.d/ex3_3_4.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.f/ex3_3_5.sce
+ 
+ 
+syms R K1 K;
+  !--error 4 
+Undefined variable: syms
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.f/ex3_3_5.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.g/ex3_3_6.sce
+ 
+syms t g s;
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH3/EX3.3.g/ex3_3_6.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.2/ex5_2_1.sce
+ s  =
+ 
+    s   
+ 
+syms K J f
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.2/ex5_2_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.2.2/ex5_2_2.sce
+ 
+Qi=0.04/s^2;
+          !--error 4 
+Undefined variable: s
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.2.2/ex5_2_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.3/ex5_3_1.sce
+ 
+syms Kp Ka Kt J f
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.3/ex5_3_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.3.2/ex5_3_2.sce
+ 
+syms Kp Ka Kt Kd J f
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.3.2/ex5_3_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.4.1/ex5_4_1.sce
+errcatch(-1,"stop");mode(2);syms Wn zeta Kv Ess
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.4.1/ex5_4_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.4.2/ex5_4_2.sce
+ 
+ 
+syms a
+  !--error 4 
+Undefined variable: syms
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.4.2/ex5_4_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.4.3/ex5_4_3.sce
+ 
+syms Ka
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.4.3/ex5_4_3.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.8/ex5_8.sce
+ 
+syms K V
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.8/ex5_8.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.9/ex5_9.sce
+ 
+syms t m
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH5/EX5.9/ex5_9.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.4/ex6_4.sce
+ 
+syms Kv Kd Kp Kt
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.4/ex6_4.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.5/ex6_5.sce
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.5/ex6_5.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.6/ex6_6.sce
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.6/ex6_6.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.7/ex6_7.sce
+ 
+syms eps
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.7/ex6_7.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.9/ex6_9.sce
+ 
+syms K a
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.9/ex6_9.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.11.a/ex6_11_1.sce
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.11.a/ex6_11_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.11.b/ex6_11_2.sce
+errcatch(-1,"stop");mode(2);syms zeta Wn ts z
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.11.b/ex6_11_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.1/ex7_1.sce
+ 
+syms k
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.1/ex7_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.2/ex7_2.sce
+ 
+syms k
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.2/ex7_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.3/ex7_3.sce
+ 
+syms k
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.3/ex7_3.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.4/ex7_4.sce
+ 
+syms k
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.4/ex7_4.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.6/ex7_6.sce
+ 
+syms k
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.6/ex7_6.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.8/ex7_8.sce
+errcatch(-1,"stop");mode(2);syms K
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.8/ex7_8.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.9/ex7_9.sce
+errcatch(-1,"stop");mode(2);syms K
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.9/ex7_9.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.10/ex7_10.sce
+errcatch(-1,"stop");mode(2);syms Kh
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH7/EX7.10/ex7_10.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.1/ex9_1.sce
+ 
+syms K T1 T2
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.1/ex9_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.2/ex9_2.sce
+ 
+ H  =
+ 
+    2 + s   
+    -----   
+         2  
+  - 1 + s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     113 of function nyquist called by :  
+nyquist(H)
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.2/ex9_2.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.3/ex9_3.sce
+ 
+syms K T
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.3/ex9_3.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.4/ex9_4.sce
+ 
+ H  =
+ 
+      1 + 4s      
+    ----------    
+     2    3    4  
+    s + 3s + 2s   
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     113 of function nyquist called by :  
+nyquist(H)
+at line       3 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.4/ex9_4.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.6/ex9_6.sce
+ 
+syms k
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.6/ex9_6.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.7.a/ex9_7_1.sce
+ 
+syms k
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.7.a/ex9_7_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.10/ex9_10.sce
+ 
+syms K
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.10/ex9_10.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.11/ex9_11.sce
+ 
+ H  =
+ 
+            10           
+    ------------------   
+             2        3  
+    s + 0.15s + 0.005s   
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     101 of function bode called by :  
+bode(H,fmin,fmax)
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.11/ex9_11.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.13.a/ex9_13_1.sce
+ 
+ H  =
+ 
+     32 + 8s     
+    ---------    
+              2  
+    2 - 3s + s   
+ 
+ 
+ 
+ !--error 4 
+Undefined variable: gcf
+at line     101 of function bode called by :  
+bode(H,fmin,fmax)
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH9/EX9.13.a/ex9_13_1.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.6/ex10_6.sce
+ 
+syms Kv;
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.6/ex10_6.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.7/ex10_7.sce
+ 
+syms Ka;
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.7/ex10_7.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.8/ex10_8.sce
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.8/ex10_8.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.9/ex10_9.sce
+ 
+syms K;
+  !--error 4 
+Undefined variable: syms
+at line       2 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH10/EX10.9/ex10_9.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.4/ex12_4.sce
+errcatch(-1,"stop");mode(2);syms m11 m12 m13 m21 m22 m23 m31 m32 m33 ^
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.4/ex12_4.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.5/ex12_5.sce
+errcatch(-1,"stop");mode(2);syms t m
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.5/ex12_5.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.6/ex12_6.sce
+errcatch(-1,"stop");mode(2);syms t
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.6/ex12_6.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.7/ex12_7.sce
+errcatch(-1,"stop");mode(2);syms t m
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.7/ex12_7.sce',-1)
+ 
+ERROR: Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.17/ex12_17.sce
+errcatch(-1,"stop");mode(2);syms g1 g2 g3
+                              !--error 4 
+Undefined variable: syms
+at line       1 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.17/ex12_17.sce',-1)
+ 

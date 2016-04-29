@@ -1,0 +1,38 @@
+ERROR: Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH15/EX15.5/Chap15_Ex5.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fg=rhogbar*uo*(pi/4)*dt^2;//Flow rate of gs up the tube
+                 !--error 4 
+Undefined variable: pi
+at line      34 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH15/EX15.5/Chap15_Ex5.sce',-1)
+ 

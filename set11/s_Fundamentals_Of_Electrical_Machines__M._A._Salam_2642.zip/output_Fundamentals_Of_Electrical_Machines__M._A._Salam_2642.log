@@ -1,0 +1,7158 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 104
+
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    4.  
+ 
+ t  =
+ 
+    0.54  
+ 
+ 
+ 
+ 
+ I  =
+ 
+    7.4074074  
+ 
+ 
+ 
+ 
+ Example 1.1 solution   
+ 
+ 
+ Current is 
+ I = 7.41 A  
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+  - 24.  
+ 
+ I  =
+ 
+    3.  
+ 
+ 
+ 
+ P  =
+ 
+  - 72.  
+ 
+ 
+ 
+ 
+ Example 1.2 solution   
+ 
+ 
+ Power for the element A in network 
+ P = -72 W  
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_P  =
+ 
+    200.  
+ 
+ V_an  =
+ 
+    200.  
+ 
+ V_bn  =
+ 
+  - 100. - 173.20508i  
+ 
+ V_cn  =
+ 
+  - 100. + 173.20508i  
+ 
+ 
+ 
+ V_L  =
+ 
+    346.41016  
+ 
+ 
+ 
+ 
+ Example 1.5 solution   
+ 
+ 
+ Magnitude of line voltage 
+ V_L = 346.41 V  
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    10.  
+ 
+ L  =
+ 
+    15.  
+ 
+ V_L  =
+ 
+    420.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ V_an  =
+ 
+    210. - 121.24356i  
+ 
+ V_bn  =
+ 
+  - 210. - 121.24356i  
+ 
+ V_cn  =
+ 
+    1.485D-14 + 242.48711i  
+ 
+ Z_p  =
+ 
+    10. + 15.i  
+ 
+ I_L1  =
+ 
+    0.8656820 - 13.422879i  
+ 
+ I_L2  =
+ 
+  - 12.057395 + 5.9617367i  
+ 
+ I_L3  =
+ 
+    11.191713 + 7.4611419i  
+ 
+ pf  =
+ 
+    0.5547002  
+ 
+ 
+ 
+ 
+ Example 1.6 solution   
+ 
+ 
+ Line currents are 
+ I_L1 = 13.45<-86.31 A 
+ 
+ I_L2 = 13.45< 153.690068 A 
+ 
+ I_L3 = 13.45< 33.690068 A 
+ 
+ 
+ Power factor 
+ pf = 0.6 lag 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z_p  =
+ 
+    10. + 15.i  
+ 
+ V_ab  =
+ 
+    420.  
+ 
+ V_bc  =
+ 
+  - 210. - 363.73067i  
+ 
+ V_ca  =
+ 
+  - 210. + 363.73067i  
+ 
+ 
+ 
+ 
+ 
+ I_ab  =
+ 
+    12.923077 - 19.384615i  
+ 
+ I_bc  =
+ 
+  - 23.249108 - 1.4994052i  
+ 
+ I_ca  =
+ 
+    10.326031 + 20.884021i  
+ 
+ I_P  =
+ 
+    23.297408  
+ 
+ I_L  =
+ 
+    40.352295  
+ 
+ 
+ 
+ 
+ Example 1.7 solution   
+ 
+ 
+ Phase currents are 
+ I_ab = 23.30<-56.31 A 
+ 
+ I_bc = 23.30<-176.309932 A 
+ 
+ I_ca = 23.30< 63.690068 A 
+ 
+ 
+ Line current 
+ I_L = 40.35 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.8/Ex1_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_L  =
+ 
+    280.  
+ 
+ Z_1  =
+ 
+    2. + 3.i  
+ 
+ Z_L  =
+ 
+    4. + 5.i  
+ 
+ 
+ 
+ Z_t  =
+ 
+    6. + 8.i  
+ 
+ V_An  =
+ 
+    280.  
+ 
+ V_Bn  =
+ 
+  - 140. - 242.48711i  
+ 
+ V_Cn  =
+ 
+  - 140. + 242.48711i  
+ 
+ 
+ I_Aa  =
+ 
+    16.8 - 22.4i  
+ 
+ I_Bb  =
+ 
+  - 27.798969 - 3.3492268i  
+ 
+ I_Cc  =
+ 
+    10.998969 + 25.749227i  
+ 
+ 
+ V_an  =
+ 
+    179.2 - 5.6i  
+ 
+ V_bn  =
+ 
+  - 94.449742 - 152.39175i  
+ 
+ V_cn  =
+ 
+  - 84.750258 + 157.99175i  
+ 
+ 
+ 
+ 
+ Example 1.8 solution   
+ 
+ 
+ 
+ Line currents are 
+ I_Aa = 28.00<-53.13 A 
+ 
+ I_Bb = 28.00<-173.130102 A 
+ 
+ I_Cc = 28.00< 66.869898 A 
+
+ 
+ NOTE : PHASOR ANGLES CALCULATED IN TEXTBOOK FOR Van,Vbn & Vcn are wrong,
+ because 4+j5 = 6.4<51.34, but in the textbook it is taken as 6.4<38.6 
+ 
+ 
+
+ Phase voltages are  
+
+ V_an = 179.29<-1.79 V 
+ 
+ V_bn = 179.29<-121.789911 V 
+ 
+ V_cn = 179.29< 118.210089 V 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.9/Ex1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_P  =
+ 
+    340.  
+ 
+ Z  =
+ 
+    6. + 8.i  
+ 
+ 
+ 
+ 
+ V_AN  =
+ 
+    340.  
+ 
+ V_BN  =
+ 
+  - 170. + 294.44864i  
+ 
+ V_CN  =
+ 
+  - 170. - 294.44864i  
+ 
+ 
+ I_Aa  =
+ 
+    20.4 - 27.2i  
+ 
+ I_Bb  =
+ 
+    13.355891 + 31.266918i  
+ 
+ I_Cc  =
+ 
+  - 33.755891 - 4.0669182i  
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 1.9 solution   
+ 
+ 
+ Line currents are 
+ I_Aa = 34.00<-53.13 A 
+ 
+ I_Bb = 34.00< 66.869898 A 
+ 
+ I_Cc = 34.00<-173.130102 A 
+ 
+ 
+ The load is balanced, so the value of the neutral current will be zero 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_AN  =
+ 
+    200.  
+ 
+ Z  =
+ 
+    3. + 4.i  
+ 
+ 
+ 
+ 
+ V_AB  =
+ 
+    300. + 173.20508i  
+ 
+ V_BC  =
+ 
+    2.121D-14 - 346.41016i  
+ 
+ V_CA  =
+ 
+  - 300. + 173.20508i  
+ 
+ 
+ I_ab  =
+ 
+    63.712813 - 27.21539i  
+ 
+ I_bc  =
+ 
+  - 55.425626 - 41.569219i  
+ 
+ I_ca  =
+ 
+  - 8.2871871 + 68.78461i  
+ 
+ 
+ I_Aa  =
+ 
+    72. - 96.i  
+ 
+ I_Bb  =
+ 
+  - 119.13844 - 14.353829i  
+ 
+ I_Cc  =
+ 
+    47.138439 + 110.35383i  
+ 
+ 
+ 
+ 
+ Example 1.10 solution   
+ 
+ 
+ Current in each load 
+ I_ab = 69.28<-23.13 A 
+ 
+ I_bc = 69.28<-143.130102 A 
+ 
+ I_ca = 69.28< 96.869898 A 
+
+ 
+ 
+ 
+ Line currents 
+ I_Aa = 120.00<-53.13 A 
+ 
+ I_Bb = 120.00<-173.130102 A 
+ 
+ I_Cc = 120.00< 66.869898 A 
+
+ 
+ 
+ NOTE : The  line currents as given in this example in text book are wrong since ,the quesion says that both the three phase supply and load are balanced so the line should be balanced which they fail to do in text book. 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.11/Ex1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z  =
+ 
+    3. + 4.i  
+ 
+ V_AN  =
+ 
+    150.  
+ 
+ R  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ V_AN  =
+ 
+    150.  
+ 
+ V_BN  =
+ 
+  - 75. - 129.90381i  
+ 
+ V_CN  =
+ 
+  - 75. + 129.90381i  
+ 
+ 
+ I_Aa  =
+ 
+    18. - 24.i  
+ 
+ I_Bb  =
+ 
+  - 29.78461 - 3.5884573i  
+ 
+ I_Cc  =
+ 
+    11.78461 + 27.588457i  
+ 
+ 
+ pf  =
+ 
+    0.6  
+ 
+ I  =
+ 
+    30.  
+ 
+ P  =
+ 
+    2700.  
+ 
+ P_t  =
+ 
+    8100.  
+ 
+ 
+ 
+ 
+ Example 1.11 solution   
+ 
+ 
+ Line currents are 
+ I_Aa = 30.00<-53.13 A 
+ 
+ I_Bb = 30.00<-173.130102 A 
+ 
+ I_Cc = 30.00< 66.869898 A 
+
+ 
+ Power factor 
+ pf = 0.6 
+ 
+ 
+ Power supplied to each phase is 
+ P = 2700.00 W 
+ 
+ 
+ Total power supplied 
+ P_t = 8100.00 W 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH1/EX1.12/Ex1_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    120.  
+ 
+ cos_teta  =
+ 
+    0.6  
+ 
+ 
+ 
+ teta  =
+ 
+    53.130102  
+ 
+ P_1  =
+ 
+    92.376043  
+ 
+ P_2  =
+ 
+    106.18802  
+ 
+ 
+ 
+ 
+ Example 1.12 solution   
+ 
+ 
+ Second wattmeter reading 
+ P_2= 106.2 kW 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    4.  
+ 
+ w  =
+ 
+    2.  
+ 
+ B  =
+ 
+    0.12  
+ 
+ 
+ 
+ A  =
+ 
+    8.  
+ 
+ flux  =
+ 
+    0.96  
+ 
+ 
+ 
+ 
+ 
+ Example 2.1 solution   
+ 
+ 
+ Magnetic flux 
+ flux = 0.96 Wb 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d_in  =
+ 
+    3.  
+ 
+ d_out  =
+ 
+    6.  
+ 
+ N  =
+ 
+    200.  
+ 
+ I  =
+ 
+    3.  
+ 
+ flux  =
+ 
+    0.015  
+ 
+ 
+ 
+ d  =
+ 
+    4.5  
+ 
+ l  =
+ 
+    14.137167  
+ 
+ A  =
+ 
+    15.904313  
+ 
+ B  =
+ 
+    9.431404  
+ 
+ MMF  =
+ 
+    600.  
+ 
+ H  =
+ 
+    4244.1318  
+ 
+ 
+ 
+ 
+ Example 2.2 solution   
+ 
+
+ Flux density 
+ B= 9.431404 mWb/m^2 
+ 
+ 
+ Magnetomotive force 
+ MMF= 600.00 At 
+ 
+ 
+ Magnetic field intensity 
+ H= 4244.13 At/m 
+ 
+ NOTE:correction in solution they took d=1.5 insted of 4.5 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ myu_r  =
+ 
+    625.  
+ 
+ N  =
+ 
+    25.  
+ 
+ I  =
+ 
+    2.  
+ 
+ a  =
+ 
+    5.5  
+ 
+ b  =
+ 
+    1.5  
+ 
+ 
+ 
+ l  =
+ 
+    14.  
+ 
+ H  =
+ 
+    357.14286  
+ 
+ myu  =
+ 
+    0.0007854  
+ 
+ B  =
+ 
+    0.2804993  
+ 
+ 
+ 
+ 
+ Example 2.3 solution   
+ 
+ 
+ Magnetic field intensity 
+ H= 357 At/m 
+ 
+ 
+ Permeabilty 
+ myu= 7.85e-04  
+ 
+ 
+ Magnetic flux density 
+ B= 0.28 Wb/m^2 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    6.  
+ 
+ I  =
+ 
+    3.  
+ 
+ flux  =
+ 
+    0.056  
+ 
+ 
+ 
+ MMF  =
+ 
+    18.  
+ 
+ R_m  =
+ 
+    321.42857  
+ 
+ 
+ 
+ 
+ Example 2.4 solution   
+ 
+ 
+ Magnetomotive force 
+ MMF= 18 At 
+ 
+
+ Reluctance 
+ R_m= 321.4 At/Wb 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I  =
+ 
+    15.  
+ 
+ N  =
+ 
+    10.  
+ 
+ myu_0  =
+ 
+    0.0000013  
+ 
+ myu_r  =
+ 
+    1.  
+ 
+ r  =
+ 
+    0.015  
+ 
+ 
+ 
+ B  =
+ 
+    0.002  
+ 
+ 
+ 
+ 
+ Example 2.5 solution   
+ 
+ 
+ Magnetic flux 
+ B= 2e-03 T 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    200.  
+ 
+ d_in  =
+ 
+    7.  
+ 
+ d_out  =
+ 
+    10.  
+ 
+ A  =
+ 
+    0.005  
+ 
+ I  =
+ 
+    5.  
+ 
+ R  =
+ 
+    3.  
+ 
+ myu_0  =
+ 
+    0.0000013  
+ 
+ 
+ 
+ l  =
+ 
+    0.1884956  
+ 
+ H  =
+ 
+    5305.1648  
+ 
+ B  =
+ 
+    0.0066667  
+ 
+ flux  =
+ 
+    0.0000333  
+ 
+ 
+ 
+ 
+ Example 2.6 solution   
+ 
+ 
+ Magnetic field intensity  
+ H= 5305 At/m 
+ 
+ 
+ Flux density 
+ B= 6.67e-03 Wb/m^2 
+ 
+ 
+ Flux 
+ flux= 3.3e-05 Wb 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    0.1  
+ 
+ w  =
+ 
+    0.01  
+ 
+ h  =
+ 
+    0.1  
+ 
+ N  =
+ 
+    450.  
+ 
+ I  =
+ 
+    0.2  
+ 
+ myu_r  =
+ 
+    850.  
+ 
+ 
+ 
+ MMF  =
+ 
+    90.  
+ 
+ l_c  =
+ 
+    0.36  
+ 
+ A  =
+ 
+    0.0001  
+ 
+ R_m  =
+ 
+    3370340.  
+ 
+ flux  =
+ 
+    0.0000267  
+ 
+ B  =
+ 
+    0.2670354  
+ 
+ H  =
+ 
+    250.  
+ 
+ 
+ 
+ 
+ Example 2.7 solution   
+ 
+ 
+ Flux 
+ flux= 2.67e-05 Wb 
+ 
+ 
+ Magnetic flux density 
+ B= 0.2670 Wb/m^2 
+ 
+ 
+ Field intensity 
+ H= 250.00 At/m 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    450.  
+ 
+ A  =
+ 
+    4.  
+ 
+ I  =
+ 
+    5.  
+ 
+ fulx  =
+ 
+    3.  
+ 
+ myu_r  =
+ 
+    500.  
+ 
+ l_1  =
+ 
+    0.12  
+ 
+ l_2  =
+ 
+    0.24  
+ 
+ phi2  =
+ 
+    3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ phi1  =
+ 
+    6.  
+ 
+ flux  =
+ 
+    9.  
+ 
+ B_1  =
+ 
+    2.25  
+ 
+ H_1  =
+ 
+    3580.9862  
+ 
+ MMF_1  =
+ 
+    859.43669  
+ 
+ B_2  =
+ 
+    0.75  
+ 
+ H_2  =
+ 
+    1193.6621  
+ 
+ MMF_2  =
+ 
+    286.4789  
+ 
+ MMF_t  =
+ 
+    1145.9156  
+ 
+ I  =
+ 
+    2.5464791  
+ 
+ 
+ 
+ 
+ Example 2.8 solution   
+ 
+ 
+ Current
+ I= 2.55 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    0.45  
+ 
+ A  =
+ 
+    0.0025  
+ 
+ l_ag  =
+ 
+    0.0008  
+ 
+ N  =
+ 
+    500.  
+ 
+ I  =
+ 
+    1.25  
+ 
+ fulx  =
+ 
+    0.00225  
+ 
+ phi  =
+ 
+    0.0015  
+ 
+ 
+ 
+ B  =
+ 
+    0.6  
+ 
+ MMF  =
+ 
+    625.  
+ 
+ H  =
+ 
+    477464.83  
+ 
+ MMF_ag  =
+ 
+    381.97186  
+ 
+ MMF_i  =
+ 
+    243.02814  
+ 
+ H_i  =
+ 
+    540.06253  
+ 
+ myu_r  =
+ 
+    884.09176  
+ 
+ 
+ 
+ 
+ Example 2.9 solution   
+ 
+ 
+ Relative permiability for iron 
+ myu_r = 884.09  
+ 
+ given current value in question is 2.25A, but in solution they took value of current as 1.25A  
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.0002  
+ 
+ N  =
+ 
+    200.  
+ 
+ flux  =
+ 
+    0.0015  
+ 
+ myu_r  =
+ 
+    4000.  
+ 
+ l_1  =
+ 
+    0.01  
+ 
+ a  =
+ 
+    9.  
+ 
+ w  =
+ 
+    3.  
+ 
+ 
+ 
+ myu  =
+ 
+    0.0050265  
+ 
+ l_2  =
+ 
+    23.  
+ 
+ R_mg  =
+ 
+    39788736.  
+ 
+ R_mi  =
+ 
+    228785.23  
+ 
+ R_mt  =
+ 
+    40017521.  
+ 
+ I  =
+ 
+    300.13141  
+ 
+ 
+ 
+ 
+ Example 2.10 solution   
+ 
+ 
+ Current flowing through the coil 
+ I = 300 A 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I  =
+ 
+    150.  
+ 
+ l  =
+ 
+    2.  
+ 
+ B  =
+ 
+    0.35  
+ 
+ 
+ 
+ F  =
+ 
+    105.  
+ 
+ 
+ 
+ 
+ Example 2.11 solution   
+ 
+
+ Force 
+ F = 105 N 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.12/Ex2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    0.25  
+ 
+ A  =
+ 
+    0.0004  
+ 
+ N  =
+ 
+    65.  
+ 
+ myu_0  =
+ 
+    0.0000013  
+ 
+ myu_r  =
+ 
+    1.  
+ 
+ 
+ 
+ myu  =
+ 
+    0.0000013  
+ 
+ L  =
+ 
+    0.0000085  
+ 
+ 
+ 
+ 
+ Example 2.12 solution   
+ 
+ 
+ Inductance of the coil 
+ L = 8.5e-06 H 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX2.13/Ex2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k_h  =
+ 
+    110.  
+ 
+ V_cvol  =
+ 
+    0.005  
+ 
+ B_m  =
+ 
+    1.12  
+ 
+ f  =
+ 
+    60.  
+ 
+ n  =
+ 
+    1.6  
+ 
+ 
+ 
+ P_h  =
+ 
+    39.560591  
+ 
+ 
+ 
+ 
+ Example 2.13 solution   
+ 
+ 
+ Hysteresis loss 
+ P_h = 39.56 W 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    2200.  
+ 
+ V_2  =
+ 
+    220.  
+ 
+ N_2  =
+ 
+    56.  
+ 
+ kVA  =
+ 
+    25.  
+ 
+ 
+ 
+ a  =
+ 
+    10.  
+ 
+ N_1  =
+ 
+    560.  
+ 
+ I_1  =
+ 
+    11.363636  
+ 
+ I_2  =
+ 
+    113.63636  
+ 
+ 
+ 
+ 
+ Example 3.1 solution   
+ 
+ 
+ Number of primary turns 
+ N_1 = 560 
+ 
+ 
+ Primary full load current 
+ I_2 = 11.36 A 
+ 
+ 
+ Secondary full load current 
+ I_2 = 113.6 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    220.  
+ 
+ N_1  =
+ 
+    150.  
+ 
+ N_2  =
+ 
+    300.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ a  =
+ 
+    0.5  
+ 
+ phi_m  =
+ 
+    0.0066066  
+ 
+ 
+ 
+ 
+ Example 3.2 solution   
+ 
+ 
+ Mutual flux 
+ phi_m = 6.61e-03 Wb 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    2200.  
+ 
+ V_2  =
+ 
+    220.  
+ 
+ I_0  =
+ 
+    0.5  
+ 
+ P_0  =
+ 
+    350.  
+ 
+ 
+ 
+ phi  =
+ 
+    1.2450668  
+ 
+ sin_phi  =
+ 
+    0.9474175  
+ 
+ cos_phi  =
+ 
+    0.3181818  
+ 
+ I_w  =
+ 
+    0.1590909  
+ 
+ I_m  =
+ 
+    0.4737088  
+ 
+ 
+ 
+ 
+ 
+ Example 3.3 solution   
+ 
+ 
+ The iron loss component of current A 
+ I_w = 0.16 A 
+ 
+ 
+ The magnetizing component of current A 
+ I_m = 0.47 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N_1  =
+ 
+    450.  
+ 
+ N_2  =
+ 
+    45.  
+ 
+ Z_L  =
+ 
+    3.  
+ 
+ V_1  =
+ 
+    15.  
+ 
+ 
+ 
+ a  =
+ 
+    10.  
+ 
+ Z_1  =
+ 
+    300.  
+ 
+ I_1  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ 
+ Example 3.4 solution   
+ 
+ 
+ Turn ratio 
+ a = 10 
+ 
+ 
+ Load impedance referred to primary 
+ Z_1 = 300 Ω 
+ 
+ 
+ Primary current 
+ I_1 = 0.05 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    400.  
+ 
+ V_2  =
+ 
+    100.  
+ 
+ I_0  =
+ 
+    0.4  
+ 
+ I_2  =
+ 
+    100.  
+ 
+ cos_phi0  =
+ 
+    0.3  
+ 
+ cos_phi2  =
+ 
+    0.6  
+ 
+ 
+ 
+ phi0  =
+ 
+    72.542397  
+ 
+ phi2  =
+ 
+    53.130102  
+ 
+ phi1  =
+ 
+    19.412295  
+ 
+ a  =
+ 
+    4.  
+ 
+ I_2!  =
+ 
+    25.  
+ 
+ I_1  =
+ 
+    25.377637  
+ 
+ 
+ 
+ 
+ Example 3.5 solution   
+ 
+ 
+ Primary current 
+ I_1 = 25.38 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    2000.  
+ 
+ V_2  =
+ 
+    400.  
+ 
+ kVA  =
+ 
+    200.  
+ 
+ R_1  =
+ 
+    3.  
+ 
+ X_1  =
+ 
+    12.  
+ 
+ R_2  =
+ 
+    0.3  
+ 
+ X_2  =
+ 
+    0.1  
+ 
+ 
+ 
+ a  =
+ 
+    5.  
+ 
+ R_01  =
+ 
+    10.5  
+ 
+ X_01  =
+ 
+    14.5  
+ 
+ Z_01  =
+ 
+    17.902514  
+ 
+ R_02  =
+ 
+    0.42  
+ 
+ X_02  =
+ 
+    0.58  
+ 
+ Z_02  =
+ 
+    0.7161006  
+ 
+ 
+ 
+ 
+ Example 3.6 solution   
+ 
+ 
+ Equivalent impedance reffered to primary side 
+ Z_01 = 17.9 Ω 
+ 
+ 
+ Equivalent impedance reffered to secondary side 
+ Z_02 = 0.72 Ω 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    200.  
+ 
+ V_2  =
+ 
+    400.  
+ 
+ R_1  =
+ 
+    0.3  
+ 
+ X_1  =
+ 
+    0.6  
+ 
+ R_2  =
+ 
+    0.8  
+ 
+ X_2  =
+ 
+    1.6  
+ 
+ I_2  =
+ 
+    10.  
+ 
+ cos_phi2  =
+ 
+    0.8  
+ 
+ 
+ 
+ a  =
+ 
+    0.5  
+ 
+ phi2  =
+ 
+    36.869898  
+ 
+ sin_phi2  =
+ 
+    0.6  
+ 
+ R_02  =
+ 
+    2.  
+ 
+ X_02  =
+ 
+    4.  
+ 
+ E_2  =
+ 
+    340. + 280.i  
+ 
+ V_r  =
+ 
+    10.113578  
+ 
+ 
+ 
+ 
+ Example 3.7 solution   
+ 
+ 
+ Voltage regulation 
+ V_r = 10 percent 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_i  =
+ 
+    1.  
+ 
+ P_cu  =
+ 
+    2.  
+ 
+ kVA  =
+ 
+    200.  
+ 
+ pf  =
+ 
+    0.95  
+ 
+ 
+ 
+ P_cu1  =
+ 
+    1.125  
+ 
+ P_cu2  =
+ 
+    0.5  
+ 
+ P_01  =
+ 
+    150.  
+ 
+ P_in1  =
+ 
+    152.125  
+ 
+ n_1  =
+ 
+    98.603122  
+ 
+ P_02  =
+ 
+    95.  
+ 
+ P_in2  =
+ 
+    96.5  
+ 
+ n_2  =
+ 
+    98.445596  
+ 
+ 
+ 
+ 
+ Example 3.8 solution   
+ 
+ 
+ Efficiency at 3/4 full load and unity power factor 
+ n_1 = 98.60 percent 
+ 
+ 
+ Efficiency at 1/2 full load and 0.95 power factor 
+ n_2 = 98.45 percent 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_i  =
+ 
+    350.  
+ 
+ P_cu  =
+ 
+    650.  
+ 
+ kVA  =
+ 
+    30.  
+ 
+ pf  =
+ 
+    0.6  
+ 
+ 
+ 
+ P_tloss  =
+ 
+    1.  
+ 
+ P_out  =
+ 
+    18.  
+ 
+ P_in  =
+ 
+    19.  
+ 
+ n_1  =
+ 
+    94.736842  
+ 
+ kVA_out  =
+ 
+    22.013982  
+ 
+ P_01  =
+ 
+    13.208389  
+ 
+ P_tloss1  =
+ 
+    700.  
+ 
+ P_in1  =
+ 
+    13.908389  
+ 
+ n_2  =
+ 
+    94.967066  
+ 
+ 
+ 
+ 
+ Example 3.9 solution   
+ 
+ 
+ Efficiency at full load 
+ n_1 = 94.74 percent 
+ 
+ 
+ Out put power 
+ P_01 = 13.2 kW 
+ 
+ 
+ Efficiency 
+ n_2 = 94.97 percent 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA  =
+ 
+    12.  
+ 
+ n  =
+ 
+    0.97  
+ 
+ t_1  =
+ 
+    8.  
+ 
+ P_1  =
+ 
+    10.  
+ 
+ pf_1  =
+ 
+    0.8  
+ 
+ t_2  =
+ 
+    10.  
+ 
+ P_2  =
+ 
+    15.  
+ 
+ pf_2  =
+ 
+    0.9  
+ 
+ t_3  =
+ 
+    6.  
+ 
+ P_3  =
+ 
+    0.  
+ 
+ 
+ 
+ P_01  =
+ 
+    12.  
+ 
+ P_in1  =
+ 
+    12.371134  
+ 
+ P_tloss  =
+ 
+    0.3711340  
+ 
+ P_cu  =
+ 
+    0.1855670  
+ 
+ P_024  =
+ 
+    230.  
+ 
+ P_i24  =
+ 
+    4.4536082  
+ 
+ P_cu24  =
+ 
+    5.1904353  
+ 
+ P_in24  =
+ 
+    239.64404  
+ 
+ n_allday  =
+ 
+    95.97568  
+ 
+ 
+ 
+ 
+ Example 3.10 solution   
+ 
+ 
+ All day efficiency 
+ n_allday = 96 percent 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    200.  
+ 
+ f  =
+ 
+    50.  
+ 
+ I_0  =
+ 
+    0.6  
+ 
+ P_0  =
+ 
+    80.  
+ 
+ 
+ 
+ cos_phi0  =
+ 
+    0.6666667  
+ 
+ sin_phi0  =
+ 
+    0.74  
+ 
+ I_w  =
+ 
+    0.4  
+ 
+ I_m  =
+ 
+    0.444  
+ 
+ R_0  =
+ 
+    500.  
+ 
+ X_0  =
+ 
+    450.45045  
+ 
+ 
+ 
+ 
+ Example 3.11 solution   
+ 
+ 
+ No-load circuit resistance 
+ R_0 = 500.00 ohm 
+ 
+ 
+ No-load circuit reactance 
+ X_0 = 450.5 ohm 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.12/Ex3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA  =
+ 
+    25.  
+ 
+ V1  =
+ 
+    2200.  
+ 
+ V2  =
+ 
+    220.  
+ 
+ V_1  =
+ 
+    40.  
+ 
+ I_1  =
+ 
+    5.  
+ 
+ P  =
+ 
+    150.  
+ 
+ 
+ 
+ Z_01  =
+ 
+    8.  
+ 
+ R_01  =
+ 
+    6.  
+ 
+ phi  =
+ 
+    41.409622  
+ 
+ X_01  =
+ 
+    5.2915026  
+ 
+ a  =
+ 
+    10.  
+ 
+ Z_02  =
+ 
+    0.08  
+ 
+ R_02  =
+ 
+    0.06  
+ 
+ X_02  =
+ 
+    0.0529150  
+ 
+ I_2  =
+ 
+    113.63636  
+ 
+ E_2  =
+ 
+    229.09091  
+ 
+ VR  =
+ 
+    4.1322314  
+ 
+ 
+ 
+ 
+ Example 3.12 solution   
+ 
+ 
+ Resistance to primary side 
+ Z_01 = 8.00 ohm 
+ 
+ 
+ Resistance to primary side 
+ R_01 = 6.0 ohm 
+ 
+ 
+ Impedance to primary side 
+ X_01 = 5.29 ohm 
+ 
+ 
+ Reactance to secondary side 
+ Z_02 = 0.08 ohm 
+ 
+ 
+ Resistance to secondary side 
+ R_02 = 0.06 ohm 
+ 
+ 
+ Impedance to secondary side 
+ X_02 = 0.053 ohm 
+ 
+ 
+ oltage regulation 
+ VR = 4 percent 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA  =
+ 
+    120.  
+ 
+ V1  =
+ 
+    2200.  
+ 
+ V2  =
+ 
+    220.  
+ 
+ 
+ 
+ I_pq  =
+ 
+    545.45455  
+ 
+ I_qr  =
+ 
+    54.545455  
+ 
+ I_1  =
+ 
+    600.  
+ 
+ V_2  =
+ 
+    2420.  
+ 
+ kVA_1  =
+ 
+    1320.  
+ 
+ kVA_2  =
+ 
+    1320.  
+ 
+ 
+ 
+ 
+ 
+ Example 3.13 solution   
+ 
+ 
+ kVA ratings of autotrnsformer 
+ kVA_1 = 1320 kVA 
+ 
+ 
+ kVA ratings of autotrnsformer 
+ kVA_2 = 1320 kVA 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_1  =
+ 
+    500.  
+ 
+ E_2  =
+ 
+    450.  
+ 
+ kVA_1  =
+ 
+    100.  
+ 
+ kVA_2  =
+ 
+    200.  
+ 
+ Z_1  =
+ 
+    0.05  
+ 
+ Z_2  =
+ 
+    0.08  
+ 
+ 
+ 
+ Z1  =
+ 
+    0.125  
+ 
+ Z2  =
+ 
+    0.162  
+ 
+ Z  =
+ 
+    0.287i  
+ 
+ I_c  =
+ 
+  - 174.21603i  
+ 
+ 
+ 
+ 
+ Example 3.14 solution   
+ 
+ 
+ Value of the circulating current 
+ I_c = 174.216<-90 A 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_L1  =
+ 
+    11.  
+ 
+ I_P1  =
+ 
+    6.  
+ 
+ a  =
+ 
+    11.  
+ 
+ 
+ 
+ 
+ V_dP2  =
+ 
+    1000.  
+ 
+ V_dL2  =
+ 
+    1732.0508  
+ 
+ I_dP1  =
+ 
+    6.350853  
+ 
+ I_dL2  =
+ 
+    69.859383  
+ 
+ 
+ V_wP1  =
+ 
+    6350.853  
+ 
+ V_wP2  =
+ 
+    577.35027  
+ 
+ I_wP2  =
+ 
+    66.  
+ 
+ I_wL2  =
+ 
+    114.31535  
+ 
+ 
+ 
+ 
+ Example 3.15 solution   
+ 
+ 
+ For delta-wye connection- 
+ 
+ Phase voltage at secondary side 
+ V_dL2 = 1732 V 
+ 
+ 
+ Line voltage at secondary side 
+ I_dL2 = 69.86 A 
+ 
+ 
+ For wye-delta connection- 
+ 
+ Phase voltage at secondary side 
+ V_wL2 = 577.35 V 
+ 
+ 
+ Line current in secondary side 
+ I_wL2 = 114.32 A 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_b  =
+ 
+    220.  
+ 
+ f  =
+ 
+    50.  
+ 
+ S_b  =
+ 
+    600.  
+ 
+ R  =
+ 
+    3.  
+ 
+ X_L  =
+ 
+    5.  
+ 
+ Z  =
+ 
+    8.  
+ 
+ 
+ 
+ I_b  =
+ 
+    2.7272727  
+ 
+ Z_b  =
+ 
+    80.666667  
+ 
+ R_pu  =
+ 
+    0.0371901  
+ 
+ X_Lpu  =
+ 
+    0.0619835  
+ 
+ Z_pu  =
+ 
+    0.0991736  
+ 
+ Z_pu  =
+ 
+    0.0371901 + 0.0619835i  
+ 
+ 
+ 
+ 
+ Example 3.16 solution   
+ 
+ 
+ Per unit value of resistance 
+ R_pu = 0.037 ohm 
+ 
+ 
+ Per unit value of impedance 
+ X_Lpu = 0.062 ohm 
+ 
+ 
+ Per unit of value of impedance 
+ Z_pu = 0.072<59 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S_b1  =
+ 
+    100.  
+ 
+ V_bT11  =
+ 
+    220.  
+ 
+ V_bT12  =
+ 
+    132.  
+ 
+ X_T1  =
+ 
+    0.02  
+ 
+ S_b2  =
+ 
+    50.  
+ 
+ V_bT21  =
+ 
+    132.  
+ 
+ V_bT22  =
+ 
+    66.  
+ 
+ X_T2  =
+ 
+    0.05  
+ 
+ X_L  =
+ 
+    4.  
+ 
+ P  =
+ 
+    50.  
+ 
+ pf  =
+ 
+    0.6  
+ 
+ Z_p  =
+ 
+    0.32i  
+ 
+ 
+ 
+ S_b  =
+ 
+    100.  
+ 
+ V_b  =
+ 
+    220.  
+ 
+ a  =
+ 
+    1.6666667  
+ 
+ Vb_line  =
+ 
+    132.  
+ 
+ Zb_line  =
+ 
+    174.24  
+ 
+ Xpu_line  =
+ 
+    0.0229568  
+ 
+ Xpu_T1  =
+ 
+    0.02  
+ 
+ Vb_load  =
+ 
+    66.  
+ 
+ Xpu_load  =
+ 
+    0.1  
+ 
+ I_b  =
+ 
+    874.77314  
+ 
+ I_L  =
+ 
+    728.97761  
+ 
+ I_Lpu  =
+ 
+    0.8333333  
+ 
+ V_L  =
+ 
+    1.  
+ 
+ V_gb  =
+ 
+    0.7866667 + 0.16i  
+ 
+ V_gba  =
+ 
+    176.61005  
+ 
+ 
+ 
+ 
+ Example 3.17 solution   
+ 
+ 
+ Actual value of grid to bus voltage 
+ V_gba = 176.61 kV 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    0.65  
+ 
+ v  =
+ 
+    35.  
+ 
+ B  =
+ 
+    0.8  
+ 
+ 
+ 
+ e  =
+ 
+    18.2  
+ 
+ 
+ 
+ 
+ Example 4.2 solution   
+ 
+ 
+ Induced voltage 
+ e = 18.2 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    1.5  
+ 
+ v  =
+ 
+    20.  
+ 
+ B  =
+ 
+    0.9  
+ 
+ teta  =
+ 
+    35.  
+ 
+ 
+ 
+ e  =
+ 
+    15.486564  
+ 
+ 
+ 
+ 
+ Example 4.3 solution   
+ 
+ 
+ Induced voltage 
+ e = 15.5 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    400.  
+ 
+ phi  =
+ 
+    0.02  
+ 
+ N  =
+ 
+    1200.  
+ 
+ 
+ 
+ A  =
+ 
+    2.  
+ 
+ E_g  =
+ 
+    320.  
+ 
+ 
+ 
+ 
+ Example 4.4 solution   
+ 
+
+ Generated voltage 
+ E_g = 320 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    6.  
+ 
+ Z  =
+ 
+    600.  
+ 
+ phi  =
+ 
+    0.05  
+ 
+ N  =
+ 
+    1000.  
+ 
+ I_a  =
+ 
+    120.  
+ 
+ 
+ 
+ A  =
+ 
+    6.  
+ 
+ E_g  =
+ 
+    500.  
+ 
+ T_em  =
+ 
+    572.9578  
+ 
+ 
+ 
+ 
+ 
+ Example 4.5 solution   
+ 
+ 
+ Generated voltage 
+ E_g = 500 V 
+ 
+ 
+ Electromagnetic torque 
+ T_em = 572.96 N-m 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    220.  
+ 
+ I  =
+ 
+    250.  
+ 
+ R_sh  =
+ 
+    50.  
+ 
+ R_a  =
+ 
+    0.02  
+ 
+ 
+ 
+ I_sh  =
+ 
+    4.4  
+ 
+ I_a  =
+ 
+    254.4  
+ 
+ E_g  =
+ 
+    225.088  
+ 
+ 
+ 
+ 
+ 
+ Example 4.6 solution   
+ 
+ 
+ Generated voltage 
+ E_g = 225.09 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E  =
+ 
+    25.  
+ 
+ V_t  =
+ 
+    220.  
+ 
+ R_se  =
+ 
+    0.05  
+ 
+ R_sh  =
+ 
+    55.  
+ 
+ R_a  =
+ 
+    0.07  
+ 
+ brush_drop  =
+ 
+    1.  
+ 
+ 
+ 
+ I_L  =
+ 
+    113.63636  
+ 
+ I_sh1  =
+ 
+    4.  
+ 
+ I_a1  =
+ 
+    117.63636  
+ 
+ E_g1  =
+ 
+    236.11636  
+ 
+ V_ab  =
+ 
+    225.68182  
+ 
+ I_sh2  =
+ 
+    4.1033058  
+ 
+ I_a2  =
+ 
+    117.73967  
+ 
+ E_g2  =
+ 
+    235.9236  
+ 
+ 
+ 
+ 
+ Example 4.7 solution   
+ 
+ 
+ Generated emf when generatar is connected in long shunt 
+ E_g1 = 236 V 
+ 
+ 
+ Generated emf when generatar is connected in short shunt 
+ E_g2 = 235.9 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    220.  
+ 
+ I_L  =
+ 
+    146.  
+ 
+ R_sh  =
+ 
+    50.  
+ 
+ R_a  =
+ 
+    0.012  
+ 
+ R_s  =
+ 
+    0.02  
+ 
+ R_d  =
+ 
+    0.03  
+ 
+ 
+ 
+ I_sh  =
+ 
+    4.4  
+ 
+ I_a  =
+ 
+    150.4  
+ 
+ R_com  =
+ 
+    0.012  
+ 
+ E_g  =
+ 
+    223.6096  
+ 
+ P_lsd  =
+ 
+    271.44192  
+ 
+ P_la  =
+ 
+    271.44192  
+ 
+ P_lsh  =
+ 
+    968.  
+ 
+ P_dl  =
+ 
+    32120.  
+ 
+ 
+ 
+ 
+ Example 4.8 solution   
+ 
+ 
+ Generated voltage 
+ E_g = 223.6 V 
+ 
+ 
+ Power distribution 
+ P_dl = 32120 W 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    500.  
+ 
+ I_a  =
+ 
+    30.  
+ 
+ alpa  =
+ 
+    6.  
+ 
+ 
+ 
+ A  =
+ 
+    2.  
+ 
+ I_c  =
+ 
+    15.  
+ 
+ AT_d  =
+ 
+    125.  
+ 
+ AT_c  =
+ 
+    812.5  
+ 
+ 
+ 
+ 
+ 
+ Example 4.9 solution   
+ 
+ 
+ Demagnetizing ampere turns per pole 
+ AT_d = 125.0 At 
+ 
+ 
+ Cross magnetizing ampere turn per pole 
+ AT_c = 812.5 At 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pw  =
+ 
+    12.  
+ 
+ P  =
+ 
+    4.  
+ 
+ Z  =
+ 
+    500.  
+ 
+ V_t  =
+ 
+    250.  
+ 
+ N  =
+ 
+    1000.  
+ 
+ P_cu  =
+ 
+    600.  
+ 
+ brush_drop  =
+ 
+    2.  
+ 
+ 
+ 
+ A  =
+ 
+    4.  
+ 
+ I_a  =
+ 
+    48.  
+ 
+ R_a  =
+ 
+    0.2604167  
+ 
+ E_g  =
+ 
+    264.5  
+ 
+ phi  =
+ 
+    0.03174  
+ 
+ 
+ 
+ 
+ 
+ Example 4.10 solution   
+ 
+ 
+ Flux per pole 
+ phi = 0.032 Wb 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ I_L  =
+ 
+    25.  
+ 
+ V_t  =
+ 
+    230.  
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ R_sh  =
+ 
+    55.  
+ 
+ brush_drop  =
+ 
+    1.  
+ 
+ 
+ 
+ I_sh  =
+ 
+    4.1818182  
+ 
+ I_a  =
+ 
+    29.181818  
+ 
+ E_g  =
+ 
+    236.83636  
+ 
+ P_arm  =
+ 
+    6911.3157  
+ 
+ P_L  =
+ 
+    5750.  
+ 
+ n  =
+ 
+    83.196894  
+ 
+ 
+ 
+ 
+ Example 4.11 solution   
+ 
+ 
+ Induced voltage 
+ E_g = 236.8 V 
+ 
+ 
+ Efficiency 
+ n = 83.2 percent 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    10.  
+ 
+ B  =
+ 
+    0.56  
+ 
+ I  =
+ 
+    2.  
+ 
+ 
+ 
+ F  =
+ 
+    11.2  
+ 
+ 
+ 
+ 
+ Example 5.1 solution   
+ 
+ 
+ Magnitude of force 
+ F = 11.2 N  
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_a  =
+ 
+    18.75  
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 5.2 solution   
+ 
+
+ The back emf is 
+ E_b = 244.4 V 
+
+ 
+ 
+ Mechanical power developed is 
+ P_md = 4582.0 W 
+ 
+ NOTE : error in calculation they has taken I_a=18.13, instead of I_a=18.75 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 5.3 solution   
+ 
+
+ The change in back emf is 
+ E_bc = 21 V  
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 5.4 solution   
+ 
+
+ The armature torque is 
+ T_a = 74.57 N-m  
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    6.  
+ 
+ V_t  =
+ 
+    230.  
+ 
+ Z  =
+ 
+    450.  
+ 
+ R_a  =
+ 
+    0.8  
+ 
+ I  =
+ 
+    30.  
+ 
+ P_0  =
+ 
+    5560.  
+ 
+ I_F  =
+ 
+    3.  
+ 
+ phi  =
+ 
+    0.025  
+ 
+ 
+ 
+ A  =
+ 
+    6.  
+ 
+ I_a  =
+ 
+    27.  
+ 
+ E_b  =
+ 
+    208.4  
+ 
+ N  =
+ 
+    1111.4667  
+ 
+ T_sh  =
+ 
+    47.772913  
+ 
+ 
+ 
+ 
+ Example 5.5 solution   
+ 
+ speed 
+ N = 1111.5 rpm 
+ 
+ shaft torque 
+ T_sh = 47.8 N-m 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_L1  =
+ 
+    5.  
+ 
+ V_t  =
+ 
+    230.  
+ 
+ N_1  =
+ 
+    1000.  
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ R_F  =
+ 
+    230.  
+ 
+ I_L2  =
+ 
+    30.  
+ 
+ 
+ 
+ 
+ I_sh  =
+ 
+    1.  
+ 
+ I_a1  =
+ 
+    4.  
+ 
+ E_b1  =
+ 
+    229.2  
+ 
+ 
+ I_a2  =
+ 
+    29.  
+ 
+ E_b2  =
+ 
+    224.2  
+ 
+ N_2  =
+ 
+    978.18499  
+ 
+ 
+ 
+ 
+ Example 5.6 solution   
+ 
+ 
+ Speed under load condition 
+ N_2 = 978.2 rpm 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_a1  =
+ 
+    65.  
+ 
+ V_t  =
+ 
+    230.  
+ 
+ N_1  =
+ 
+    900.  
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ R_sh  =
+ 
+    0.25  
+ 
+ I_a2  =
+ 
+    15.  
+ 
+ 
+ 
+ 
+ 
+ E_b1  =
+ 
+    200.75  
+ 
+ E_b2  =
+ 
+    223.25  
+ 
+ 
+ N_2  =
+ 
+    2502.1793  
+ 
+ 
+ 
+ 
+ Example 5.7 solution   
+ 
+ 
+ motor speed when line current is 15A 
+ N_2 = 2502 rpm 
+ 
+ 
+ NOTE: in question they given I_a1=56A , but in solution they took I_a1=65A 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_L1  =
+ 
+    5.  
+ 
+ V_t  =
+ 
+    230.  
+ 
+ R_a  =
+ 
+    0.25  
+ 
+ R_sh  =
+ 
+    115.  
+ 
+ I_L2  =
+ 
+    40.  
+ 
+ 
+ 
+ 
+ 
+ P_in1  =
+ 
+    1150.  
+ 
+ I_sh  =
+ 
+    2.  
+ 
+ I_a1  =
+ 
+    3.  
+ 
+ P_acu1  =
+ 
+    2.25  
+ 
+ P_shcu  =
+ 
+    460.  
+ 
+ P_iron_friction  =
+ 
+    687.75  
+ 
+ 
+ I_a2  =
+ 
+    38.  
+ 
+ P_acu2  =
+ 
+    361.  
+ 
+ P_loss  =
+ 
+    1508.75  
+ 
+ P_in2  =
+ 
+    9200.  
+ 
+ P_0  =
+ 
+    7691.25  
+ 
+ n  =
+ 
+    83.600543  
+ 
+ 
+ 
+ 
+ Example 5.8 solution   
+ 
+ 
+ iron and friction losses 
+ P_iron_friction = 687.75 W 
+ 
+ 
+ efficiency 
+ n = 84 percent 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I_L  =
+ 
+    80.  
+ 
+ V_t  =
+ 
+    220.  
+ 
+ N  =
+ 
+    800.  
+ 
+ R_a  =
+ 
+    0.1  
+ 
+ R_sh  =
+ 
+    50.  
+ 
+ P_if  =
+ 
+    1600.  
+ 
+ 
+ 
+ I_sh  =
+ 
+    4.4  
+ 
+ I_a  =
+ 
+    75.6  
+ 
+ E_b  =
+ 
+    212.44  
+ 
+ P_in  =
+ 
+    17600.  
+ 
+ P_md  =
+ 
+    16060.464  
+ 
+ P_cu  =
+ 
+    1539.536  
+ 
+ T_a  =
+ 
+    191.72179  
+ 
+ P_0  =
+ 
+    14460.464  
+ 
+ T_sh  =
+ 
+    172.62179  
+ 
+ n  =
+ 
+    82.161727  
+ 
+ 
+ 
+ 
+ Example 5.9 solution   
+ 
+ 
+ Copper loss 
+ P_cu = 1539.54 W 
+ 
+ 
+ Armature torque 
+ T_a = 191.72 N-m 
+ 
+ 
+ Shaft torque 
+ T_sh = 172.62 N-m 
+ 
+ 
+ Efficiency 
+ n = 82 percent 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    220.  
+ 
+ I_a1  =
+ 
+    10.  
+ 
+ N_1  =
+ 
+    900.  
+ 
+ R_a  =
+ 
+    1.  
+ 
+ N_2  =
+ 
+    500.  
+ 
+ 
+ 
+ E_b1  =
+ 
+    210.  
+ 
+ R  =
+ 
+    9.3333333  
+ 
+ 
+ 
+ 
+ Example 6.1 solution   
+ 
+ 
+ additional value of resistance 
+ R = 9.3 ohm 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    230.  
+ 
+ I_a1  =
+ 
+    15.  
+ 
+ N_1  =
+ 
+    650.  
+ 
+ R_a  =
+ 
+    0.4  
+ 
+ R  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ E_b1  =
+ 
+    224.  
+ 
+ E_b2  =
+ 
+    209.  
+ 
+ N_2  =
+ 
+    606.47321  
+ 
+ 
+ 
+ I_a21  =
+ 
+    7.5  
+ 
+ E_b21  =
+ 
+    219.5  
+ 
+ N_21  =
+ 
+    636.94196  
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 6.2 solution   
+ 
+ 
+ speed at full load 
+ N_2 = 606.5 rpm 
+ 
+ 
+ speed at half load torque 
+ N_21 = 636.9 rpm 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    230.  
+ 
+ R_a  =
+ 
+    0.2  
+ 
+ R_f  =
+ 
+    0.2  
+ 
+ I_a1  =
+ 
+    10.  
+ 
+ N  =
+ 
+    1000.  
+ 
+ I_a2  =
+ 
+    8.  
+ 
+ R_2  =
+ 
+    2.  
+ 
+ R_1  =
+ 
+    0.  
+ 
+ 
+ 
+ 
+ 
+ R_a1  =
+ 
+    0.2  
+ 
+ E_b1  =
+ 
+    228.  
+ 
+ R_a2  =
+ 
+    2.2  
+ 
+ E_b2  =
+ 
+    212.4  
+ 
+ N_2  =
+ 
+    1164.4737  
+ 
+ 
+ 
+ 
+ Example 6.3 solution   
+ 
+ 
+ New speed 
+ N_2 = 1164.5 rpm 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    1100.  
+ 
+ P  =
+ 
+    4.  
+ 
+ I_a1  =
+ 
+    15.  
+ 
+ V_t  =
+ 
+    220.  
+ 
+ R_a  =
+ 
+    0.9  
+ 
+ R_se1  =
+ 
+    0.6  
+ 
+ I_a2  =
+ 
+    25.  
+ 
+ 
+ 
+ 
+ 
+ E_b1  =
+ 
+    197.5  
+ 
+ R_se2  =
+ 
+    0.15  
+ 
+ E_b2  =
+ 
+    193.75  
+ 
+ N_2  =
+ 
+    1348.8924  
+ 
+ 
+ 
+ 
+ Example 6.4 solution   
+ 
+ 
+ New speed 
+ N_2 = 1348.9 rpm 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    230.  
+ 
+ R_a  =
+ 
+    0.4  
+ 
+ I_a  =
+ 
+    30.  
+ 
+ n  =
+ 
+    3.  
+ 
+ 
+ 
+ R_1  =
+ 
+    7.6666667  
+ 
+ k  =
+ 
+    2.6761813  
+ 
+ R_2  =
+ 
+    2.8647785  
+ 
+ R_3  =
+ 
+    1.0704725  
+ 
+ R_4  =
+ 
+    0.4  
+ 
+ R_1step  =
+ 
+    4.8018881  
+ 
+ R_2step  =
+ 
+    1.794306  
+ 
+ R_3step  =
+ 
+    0.6704725  
+ 
+ 
+ 
+ 
+ Example 6.5 solution   
+ 
+ 
+ resistance of the 1st step in ohm 
+ R_1step = 4.8 ohm 
+ 
+ 
+ resistance of the 2nd step in ohm 
+ R_2step = 1.8 ohm 
+ 
+ 
+ resistance of the 3rd step in ohm 
+ R_3step = 0.67 ohm 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    220.  
+ 
+ P_0  =
+ 
+    3550.  
+ 
+ n  =
+ 
+    0.85  
+ 
+ 
+ 
+ 
+ P_in  =
+ 
+    4176.4706  
+ 
+ P_tloss  =
+ 
+    626.47059  
+ 
+ I_a  =
+ 
+    18.983957  
+ 
+ P_cu  =
+ 
+    313.23529  
+ 
+ R_a  =
+ 
+    0.8691549  
+ 
+ I_1  =
+ 
+    37.967914  
+ 
+ R_1  =
+ 
+    5.7943662  
+ 
+ k  =
+ 
+    1.6068568  
+ 
+ R_2  =
+ 
+    3.6060252  
+ 
+ R_3  =
+ 
+    2.2441484  
+ 
+ R_4  =
+ 
+    1.3966075  
+ 
+ R_5  =
+ 
+    0.8691549  
+ 
+ R_1step  =
+ 
+    2.188341  
+ 
+ R_2step  =
+ 
+    1.3618768  
+ 
+ R_3step  =
+ 
+    0.8475408  
+ 
+ R_4step  =
+ 
+    0.5274526  
+ 
+ 
+ 
+ 
+ Example 6.6 solution   
+ 
+ 
+ resistance of the 1st step in ohm 
+ R_1step = 2.2 ohm 
+ 
+ 
+ resistance of the 2nd step in ohm 
+ R_2step = 1.36 ohm 
+ 
+ 
+ resistance of the 3rd step in ohm 
+ R_3step = 0.85 ohm 
+ 
+ 
+ resistance of the 4th step in ohm 
+ R_3step = 0.53 ohm 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    230.  
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ N_l  =
+ 
+    1445.  
+ 
+ 
+ 
+ N_s  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.0366667  
+ 
+ f_r  =
+ 
+    1.8333333  
+ 
+ 
+ 
+ 
+ Example 7.1 solution   
+ 
+ 
+ Synchronous speed 
+ N_s = 1500.0 rpm 
+ 
+ 
+ Slip 
+ s = 0.0367 
+ 
+ 
+ Rotor frequency 
+ f_r = 1.8 Hz 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_BR  =
+ 
+    120.  
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ N_l  =
+ 
+    1450.  
+ 
+ 
+ 
+ N_s  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.0333333  
+ 
+ f_r  =
+ 
+    1.6666667  
+ 
+ E_r  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ Example 7.2 solution   
+ 
+ 
+ Synchronous speed 
+ N_s = 1500.0 rpm 
+ 
+ 
+ Slip 
+ s = 0.033 
+ 
+ 
+ Rotor frequency 
+ f_r = 1.67 Hz 
+ 
+ 
+ Rotor voltage 
+ E_r = 4.00 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_0  =
+ 
+    230.  
+ 
+ P  =
+ 
+    4.  
+ 
+ T_0  =
+ 
+    230.  
+ 
+ V_s  =
+ 
+    150.  
+ 
+ I_0  =
+ 
+    560.  
+ 
+ 
+ 
+ T_st  =
+ 
+    97.826087  
+ 
+ I_st  =
+ 
+    365.21739  
+ 
+ 
+ 
+ 
+ Example 7.3 solution   
+ 
+ 
+ Starting torque 
+ T_st = 97.8 N-m 
+ 
+ 
+ Starting current 
+ I_st = 365.2 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    8.  
+ 
+ a  =
+ 
+    0.03  
+ 
+ R_2  =
+ 
+    0.01  
+ 
+ X_2  =
+ 
+    0.1  
+ 
+ 
+ 
+ N_s  =
+ 
+    750.  
+ 
+ s  =
+ 
+    0.1  
+ 
+ N_l  =
+ 
+    675.  
+ 
+ T  =
+ 
+    0.5504587  
+ 
+ T_ratio  =
+ 
+    1.8166667  
+ 
+ 
+ 
+ 
+ Example 7.4 solution   
+ 
+ 
+ Rotor speed at maximum torque 
+ N_l = 675 rpm 
+ 
+ 
+ Ratio of maximum torque to full load torque 
+ T_ratio = 1.82 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ P  =
+ 
+    4.  
+ 
+ P_ag  =
+ 
+    1500.  
+ 
+ P_rcu  =
+ 
+    250.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ s  =
+ 
+    0.1666667  
+ 
+ N_s  =
+ 
+    1500.  
+ 
+ N_l  =
+ 
+    1250.  
+ 
+ P_mech  =
+ 
+    1250.  
+ 
+ 
+ 
+ 
+ Example 7.5 solution   
+ 
+ 
+ Slip 
+ s = 0.167 
+ 
+ 
+ Synchronous speed 
+ N_s = 1500 rpm 
+ 
+ 
+ Rotor speed 
+ N_l = 1250 rpm 
+ 
+ 
+ Mecahnical power developed 
+ P_mech = 1250 W 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_1  =
+ 
+    150.  
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Z_1  =
+ 
+    0.12 + 0.16i  
+ 
+ Z_2  =
+ 
+    0.22 + 0.28i  
+ 
+ R_2  =
+ 
+    0.22  
+ 
+ 
+ 
+ Z_eq  =
+ 
+    0.34 + 0.44i  
+ 
+ P_mech  =
+ 
+    43489.043  
+ 
+ s_mp  =
+ 
+    0.2834841  
+ 
+ W_s  =
+ 
+    157.07963  
+ 
+ W  =
+ 
+    112.55005  
+ 
+ T_mxm  =
+ 
+    386.39737  
+ 
+ 
+ 
+ 
+ Example 7.6 solution   
+ 
+ 
+ maximum mechanical power developed 
+ P_mech = 43489 W 
+ 
+ 
+ Maximum torque 
+ T_mxm = 386.397 N-m 
+ 
+ 
+ Maximum slip 
+ s_mp = 0.28 
+ 
+ 
+ NOTE : Error in calculation of P_mech and T_mxm  
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ P  =
+ 
+    6.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P_a  =
+ 
+    45000.  
+ 
+ N_l  =
+ 
+    900.  
+ 
+ P_tloss  =
+ 
+    2000.  
+ 
+ 
+ 
+ N_s  =
+ 
+    1000.  
+ 
+ s  =
+ 
+    0.1  
+ 
+ P_ag  =
+ 
+    43000.  
+ 
+ P_rcu  =
+ 
+    4300.  
+ 
+ P_mech  =
+ 
+    38700.  
+ 
+ P_0  =
+ 
+    35700.  
+ 
+ n  =
+ 
+    83.023256  
+ 
+ 
+ 
+ 
+ Example 7.7 solution   
+ 
+ 
+ Slip 
+ s = 0.1  
+ 
+ 
+ Rotor copper loss  
+ P_rcu = 4300 W 
+ 
+ 
+ Out put power 
+ P_0 = 35700 W 
+ 
+ 
+ Efficiency  
+ n = 83 percent 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ v_s  =
+ 
+    120.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ v_s  =
+ 
+    33.333333  
+ 
+ w  =
+ 
+    0.3333333  
+ 
+ 
+ 
+ 
+ Example 7.8 solution   
+ 
+ 
+ Length of the pole-pitch lenear induction motor 
+ w = 0.33 m 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T_ratio  =
+ 
+    0.5  
+ 
+ s_f  =
+ 
+    0.03  
+ 
+ I_ratio  =
+ 
+    5.  
+ 
+ 
+ 
+ x  =
+ 
+    0.8164966  
+ 
+ 
+ 
+ 
+ Example 8.2 solution   
+ 
+ 
+ Percentage of tapping 
+ x = 0.816 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T_ratio  =
+ 
+    0.25  
+ 
+ I_ratio  =
+ 
+    3.6  
+ 
+ 
+ 
+ 
+ s_f  =
+ 
+    0.0578704  
+ 
+ 
+ 
+ 
+ Example 8.3 solution   
+ 
+ 
+ Full load slip 
+ s_f = 0.06 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Z_icr  =
+ 
+    0.04 + 0.5i  
+ 
+ Z_ocr  =
+ 
+    0.4 + 0.2i  
+ 
+ V  =
+ 
+    120.  
+ 
+ 
+ 
+ Z_com  =
+ 
+    0.1589233 + 0.2198947i  
+ 
+ I_2  =
+ 
+    442.29493  
+ 
+ R_2  =
+ 
+    0.1589233  
+ 
+ T  =
+ 
+    31089.348  
+ 
+ s  =
+ 
+    0.06  
+ 
+ Z_icr6  =
+ 
+    0.6666667 + 0.5i  
+ 
+ Z_ocr6  =
+ 
+    6.6666667 + 0.2i  
+ 
+ Z_com6  =
+ 
+    0.6317916 + 0.4124199i  
+ 
+ I2_6  =
+ 
+    159.04844  
+ 
+ R2_6  =
+ 
+    0.6317916  
+ 
+ T6  =
+ 
+    15982.058  
+ 
+ 
+ 
+ 
+ Example 8.4 solution   
+ 
+ 
+ Torque at stand still condition 
+ T = 31089.35 syn.watt 
+ 
+ 
+ Torque at stand 6 percent slip 
+ T6 = 15982.06 syn.watt 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    210.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    50.  
+ 
+ I_br  =
+ 
+    2.5  
+ 
+ V_br  =
+ 
+    25.  
+ 
+ R_1  =
+ 
+    2.4  
+ 
+ 
+ 
+ V_br  =
+ 
+    14.433757  
+ 
+ P_br  =
+ 
+    16.666667  
+ 
+ R_eq  =
+ 
+    2.6666667  
+ 
+ R_2  =
+ 
+    1.4666667  
+ 
+ Z_eq  =
+ 
+    5.7735027  
+ 
+ X_eq  =
+ 
+    5.5841044  
+ 
+ X_1  =
+ 
+    2.7920522  
+ 
+ 
+ 
+ 
+ Example 8.5 solution   
+ 
+ 
+ Equivalent resistance 
+ R_eq = 2.7 ohm 
+ 
+ 
+ Equivalent reactance 
+ X_eq = 5.6 ohm 
+ 
+ 
+ Equivalent reactance 
+ X_1 = 2.8 ohm 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    210.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    4.  
+ 
+ P_0  =
+ 
+    400.  
+ 
+ I_0  =
+ 
+    1.2  
+ 
+ V_0  =
+ 
+    210.  
+ 
+ P_fw  =
+ 
+    150.  
+ 
+ R  =
+ 
+    2.2  
+ 
+ 
+ 
+ R_1  =
+ 
+    1.1  
+ 
+ P_scu  =
+ 
+    4.752  
+ 
+ P_core  =
+ 
+    245.248  
+ 
+ R_0  =
+ 
+    179.81798  
+ 
+ 
+ phi_0  =
+ 
+    55.814022  
+ 
+ X_0  =
+ 
+    122.13985  
+ 
+ 
+ 
+ 
+ Example 8.6 solution   
+ 
+ 
+ No-load resistance 
+ R_0 = 179.8 ohm 
+ 
+ 
+ Magnetizing reactance per phase 
+ X_0 = 122 ohm 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P_1  =
+ 
+    6.  
+ 
+ P_2  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ P  =
+ 
+    60.  
+ 
+ 
+ 
+ s  =
+ 
+    0.4  
+ 
+ N_cs  =
+ 
+    600.  
+ 
+ P_0  =
+ 
+    24.  
+ 
+ 
+ 
+ 
+ Example 8.7 solution   
+ 
+ 
+ Combined slip 
+ s = 0.4  
+ 
+ 
+ Combined synchronous speed 
+ N_cs = 600 rpm 
+ 
+ 
+ Out-power of 4-pole motor 
+ P_0 = 24 kW 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    300.  
+ 
+ f  =
+ 
+    50.  
+ 
+ 
+ 
+ P  =
+ 
+    20.  
+ 
+ 
+ 
+ 
+ Example 9.1 solution   
+ 
+ 
+ Number of poles of the generator 
+ P = 20 poles 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH2/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    8.  
+ 
+ m  =
+ 
+    3.  
+ 
+ S  =
+ 
+    144.  
+ 
+ 
+ 
+ T_p  =
+ 
+    18.  
+ 
+ slots_1  =
+ 
+    10.  
+ 
+ y  =
+ 
+    20.  
+ 
+ k_p  =
+ 
+    0.9848078  
+ 
+ 
+ 
+ 
+ Example 9.2 solution   
+ 
+ 
+ Pitch factor is 
+ k_p = 0.98 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    8.  
+ 
+ m  =
+ 
+    3.  
+ 
+ S  =
+ 
+    144.  
+ 
+ 
+ 
+ T_p  =
+ 
+    18.  
+ 
+ slots_1  =
+ 
+    10.  
+ 
+ y  =
+ 
+    20.  
+ 
+ k_p  =
+ 
+    0.9848078  
+ 
+ 
+ 
+ 
+ Example 9.2 solution   
+ 
+ 
+ Pitch factor is 
+ k_p = 0.98 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ m  =
+ 
+    3.  
+ 
+ S  =
+ 
+    40.  
+ 
+ 
+ 
+ T_p  =
+ 
+    10.  
+ 
+ T_c  =
+ 
+    8.  
+ 
+ slots_1  =
+ 
+    18.  
+ 
+ y  =
+ 
+    2.  
+ 
+ y_angle  =
+ 
+    36.  
+ 
+ k_p  =
+ 
+    0.9510565  
+ 
+ 
+ 
+ 
+ Example 9.3 solution   
+ 
+ 
+ Pitch factor is 
+ k_p = 0.95 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ S  =
+ 
+    48.  
+ 
+ 
+ 
+ T_p  =
+ 
+    12.  
+ 
+ slots_1  =
+ 
+    15.  
+ 
+ n  =
+ 
+    4.  
+ 
+ k_d  =
+ 
+    0.9576622  
+ 
+ 
+ 
+ 
+ Example 9.4 solution   
+ 
+ 
+ Distribution factor is 
+ k_d = 0.96 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    12.  
+ 
+ S  =
+ 
+    180.  
+ 
+ phi_m  =
+ 
+    0.05  
+ 
+ N  =
+ 
+    600.  
+ 
+ 
+ 
+ T_p  =
+ 
+    15.  
+ 
+ slots_1  =
+ 
+    12.  
+ 
+ n  =
+ 
+    5.  
+ 
+ k_d  =
+ 
+    0.9566772  
+ 
+ k_p  =
+ 
+    1.  
+ 
+ Z  =
+ 
+    720.  
+ 
+ T  =
+ 
+    360.  
+ 
+ f  =
+ 
+    60.  
+ 
+ E  =
+ 
+    4587.4586  
+ 
+ E_L  =
+ 
+    7945.7114  
+ 
+ 
+ 
+ 
+ Example 9.5 solution   
+ 
+ 
+ Line voltage is 
+ E_L = 7946 V 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ m  =
+ 
+    3.  
+ 
+ f  =
+ 
+    50.  
+ 
+ phi_m  =
+ 
+    0.05  
+ 
+ 
+ 
+ T_p  =
+ 
+    18.  
+ 
+ slots_1  =
+ 
+    10.  
+ 
+ T_c  =
+ 
+    15.  
+ 
+ y  =
+ 
+    3.  
+ 
+ y_angle  =
+ 
+    30.  
+ 
+ k_p  =
+ 
+    0.9659258  
+ 
+ n  =
+ 
+    6.  
+ 
+ k_d  =
+ 
+    0.9561428  
+ 
+ T  =
+ 
+    120.  
+ 
+ E  =
+ 
+    1230.1859  
+ 
+ 
+ 
+ 
+ Example 9.6 solution   
+ 
+ 
+ Voltage per phase is 
+ E = 1230 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.7/Ex9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    10.  
+ 
+ m  =
+ 
+    3.  
+ 
+ f  =
+ 
+    50.  
+ 
+ phi_m1  =
+ 
+    0.05  
+ 
+ phi_m3  =
+ 
+    0.006  
+ 
+ T_c  =
+ 
+    150.  
+ 
+ 
+ 
+ T_p  =
+ 
+    9.  
+ 
+ slots_1  =
+ 
+    20.  
+ 
+ y  =
+ 
+    30.  
+ 
+ n  =
+ 
+    3.  
+ 
+ k_p1  =
+ 
+    0.9659258  
+ 
+ k_d1  =
+ 
+    0.9597951  
+ 
+ E_1  =
+ 
+    1543.6063  
+ 
+ k_p3  =
+ 
+    0.9659258  
+ 
+ k_d3  =
+ 
+    0.9597951  
+ 
+ E_3  =
+ 
+    185.23275  
+ 
+ E  =
+ 
+    1554.6805  
+ 
+ 
+ 
+ 
+ Example 9.7 solution   
+ 
+ 
+ Induced voltage per phase is 
+ E = 1555 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.8/Ex9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA  =
+ 
+    50.  
+ 
+ V_t  =
+ 
+    220.  
+ 
+ R_a  =
+ 
+    0.011  
+ 
+ X_s  =
+ 
+    0.09  
+ 
+ 
+ 
+ phi  =
+ 
+    31.788331  
+ 
+ I_a  =
+ 
+    227.27273  
+ 
+ E_f  =
+ 
+    233.45381  
+ 
+ VR  =
+ 
+    6.1153694  
+ 
+ 
+ 
+ 
+ Example 9.8 solution   
+ 
+ 
+ No-load induced voltage per phase 
+ E_f = 233.5 V 
+ 
+ 
+ Voltage regulation is 
+ VR = 6.1 percent 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.9/Ex9_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA  =
+ 
+    200.  
+ 
+ V_t  =
+ 
+    33000.  
+ 
+ R_a  =
+ 
+    0.54  
+ 
+ V_L  =
+ 
+    415.  
+ 
+ I_sh  =
+ 
+    25.  
+ 
+ 
+ 
+ phi  =
+ 
+    25.841933  
+ 
+ V_P  =
+ 
+    239.60036  
+ 
+ Z_s  =
+ 
+    9.5840145  
+ 
+ X_s  =
+ 
+    9.5687895  
+ 
+ I_a  =
+ 
+    3.4990925  
+ 
+ V_ta  =
+ 
+    19052.559  
+ 
+ E_f  =
+ 
+    19068.876  
+ 
+ VR  =
+ 
+    0.0856451  
+ 
+ 
+ 
+ 
+ Example 9.9 solution   
+ 
+ 
+ Synchronous impedance 
+ Z_s = 9.6 ohm 
+ 
+ 
+ Synchronous reactance is 
+ X_s = 9.57 ohm 
+ 
+ 
+ Voltage regulation is 
+ VR = 0.09 percent 
+ 
+ 
+ NOTE : error in calculation, R_a is taken instead of X_s in E_f calculation 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.10/Ex9_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MVA  =
+ 
+    30.  
+ 
+ V  =
+ 
+    20.  
+ 
+ N  =
+ 
+    1800.  
+ 
+ V_t  =
+ 
+    15.  
+ 
+ E_f  =
+ 
+    10.  
+ 
+ teta  =
+ 
+    40.  
+ 
+ X_s  =
+ 
+    6.  
+ 
+ 
+ 
+ P  =
+ 
+    48.209071  
+ 
+ P_max  =
+ 
+    75.  
+ 
+ 
+ 
+ 
+ Example 9.10 solution   
+ 
+ 
+ Three phase power delivered to the load 
+ P = 48.21 MW 
+ 
+ 
+ Three phase maximum power 
+ P_max = 75 MW 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.11/Ex9_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA  =
+ 
+    25.  
+ 
+ V  =
+ 
+    440.  
+ 
+ f  =
+ 
+    50.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ R_a  =
+ 
+    0.3  
+ 
+ X_d  =
+ 
+    5.  
+ 
+ X_q  =
+ 
+    3.  
+ 
+ 
+ 
+ phi  =
+ 
+    36.869898  
+ 
+ V_t  =
+ 
+    254.03412  
+ 
+ I_a  =
+ 
+    32.803993  
+ 
+ delta  =
+ 
+    14.115319  
+ 
+ I_d  =
+ 
+    25.488163  
+ 
+ E_f  =
+ 
+    373.80484  
+ 
+ VR  =
+ 
+    47.147495  
+ 
+ 
+ 
+ 
+ Example 9.11 solution   
+ 
+ 
+ Torque angle 
+ delta = 14.12 degree 
+ 
+ 
+ Induced voltage per phase 
+ E_f = 373.80 V 
+ 
+ 
+ Voltage regulation 
+ VR = 47.15 percent 
+ 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH9/EX9.12/Ex9_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E_1  =
+ 
+    220.  
+ 
+ E_2  =
+ 
+    219.16283 + 19.174263i  
+ 
+ Z_1  =
+ 
+    3.i  
+ 
+ Z_2  =
+ 
+    4.i  
+ 
+ R  =
+ 
+    5.  
+ 
+ Z  =
+ 
+    5.  
+ 
+ 
+ 
+ I  =
+ 
+    39.811812 - 12.006256i  
+ 
+ V_t  =
+ 
+    199.05906 - 60.03128i  
+ 
+ I_a1  =
+ 
+    20.010427 - 6.9803129i  
+ 
+ D  =
+ 
+  - 16.782009  
+ 
+ A  =
+ 
+  - 16.782009  
+ 
+ P_1  =
+ 
+    4406.3167  
+ 
+ 
+ 
+ 
+ Example 9.12 solution   
+ 
+ 
+ load current 
+ I = 41.6<-16.78 degree 
+ 
+ 
+ terminal voltage 
+ V_t = 208<-16.78 V 
+ 
+ 
+ Power per phase delivered by the 1st alternator 
+ P_1 = 4406.32 W 
+ 
+ 
+ NOTE : ERROR : Calculation mistakes in textbook 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    2500.  
+ 
+ R_r  =
+ 
+    0.12  
+ 
+ X_r  =
+ 
+    3.2  
+ 
+ I_a  =
+ 
+    185.  
+ 
+ pf  =
+ 
+    0.8  
+ 
+ 
+ 
+ phi  =
+ 
+    36.869898  
+ 
+ V_t  =
+ 
+    1443.3757  
+ 
+ Z_s  =
+ 
+    0.12 + 3.2i  
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    87.852415  
+ 
+ E_r  =
+ 
+    22.2 + 592.i  
+ 
+ E_f  =
+ 
+    1846.1841  
+ 
+ 
+ 
+ 
+ 
+ Example 10.1 solution   
+ 
+ 
+ Excitation voltage per phase 
+ E_f = 1846.18 V 
+ 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kVA  =
+ 
+    1200.  
+ 
+ V  =
+ 
+    14000.  
+ 
+ R_r  =
+ 
+    4.8  
+ 
+ X_r  =
+ 
+    35.  
+ 
+ pf  =
+ 
+    0.95  
+ 
+ 
+ 
+ phi  =
+ 
+    18.194872  
+ 
+ Z_s  =
+ 
+    4.8 + 35.i  
+ 
+ I_a  =
+ 
+    49.487166  
+ 
+ E_r  =
+ 
+    237.5384 + 1732.0508i  
+ 
+ V_t  =
+ 
+    8082.9038  
+ 
+ b  =
+ 
+    82.191008  
+ 
+ E_f  =
+ 
+    7483.232  
+ 
+ teta  =
+ 
+    0.8987940  
+ 
+ D  =
+ 
+    0.0285302 + 0.2080327i  
+ 
+ delta  =
+ 
+    12.121177  
+ 
+ 
+ 
+ 
+ Example 10.2 solution   
+ 
+ 
+ Excitation voltage per phase 
+ E_f = 7483.23 V 
+ 
+ 
+ Torque angle at 0.95 power factor lagging 
+ delta = 12.12 degree 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    440.  
+ 
+ R_a  =
+ 
+    1.5  
+ 
+ X_a  =
+ 
+    8.  
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ pf  =
+ 
+    0.9  
+ 
+ I_a  =
+ 
+    50.  
+ 
+ 
+ 
+ V_t  =
+ 
+    254.03412  
+ 
+ phi  =
+ 
+    25.841933  
+ 
+ Z_s  =
+ 
+    1.5 + 8.i  
+ 
+ E_r  =
+ 
+    406.97051  
+ 
+ bet  =
+ 
+    79.380345  
+ 
+ E_f  =
+ 
+    533.33709  
+ 
+ P_dm  =
+ 
+    9070.4885 - 14027.446i  
+ 
+ 
+ 
+ 
+ Example 10.3 solution   
+ 
+ 
+ Maximum power per phase 
+ P_dm = 9070.49 W 
+ 
+ 
+ In textbook solution they took E_f = 513.5V instead of 533.33V 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ V_t  =
+ 
+    1500.  
+ 
+ E_f  =
+ 
+    1000.  
+ 
+ Z_s  =
+ 
+    12.  
+ 
+ R_a  =
+ 
+    1.5  
+ 
+ 
+ 
+ P_dm  =
+ 
+    114583.33  
+ 
+ T_dm  =
+ 
+    729.51389  
+ 
+ 
+ 
+ 
+ Example 10.4 solution   
+ 
+ 
+ Maximum power developed 
+ P_dm = 114583 W 
+ 
+ 
+ Maximum toruqe 
+ T_dm = 729.5 N-m 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    220.  
+ 
+ P  =
+ 
+    4.  
+ 
+ f  =
+ 
+    50.  
+ 
+ N_l  =
+ 
+    1450.  
+ 
+ P_tloss  =
+ 
+    2000.  
+ 
+ R_2  =
+ 
+    10.  
+ 
+ 
+ 
+ N_s  =
+ 
+    1500.  
+ 
+ s_f  =
+ 
+    0.0333333  
+ 
+ s_b  =
+ 
+    1.9666667  
+ 
+ R_f  =
+ 
+    300.  
+ 
+ R_b  =
+ 
+    5.0847458  
+ 
+ 
+ 
+ 
+ Example 11.1 solution   
+ 
+ 
+ Slip due to forward field 
+ s_f = 0.03 
+ 
+ 
+ Slip due to backward field 
+ s_b = 1.97 
+ 
+ 
+ Effective rotor resistance due to forward slip 
+ R_f = 300.00 ohm 
+ 
+ 
+ Effective rotor resistance due to backward slip 
+ R_b = 5.08 ohm 
+ 
+ 
+ 
+ NOTE : for caclulating R_f, s_f is taken as 0.033333 so we got R_f=300 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    220.  
+ 
+ R_1  =
+ 
+    6.  
+ 
+ R_2  =
+ 
+    6.  
+ 
+ X_1  =
+ 
+    10.  
+ 
+ X_2  =
+ 
+    10.  
+ 
+ N  =
+ 
+    1500.  
+ 
+ s  =
+ 
+    0.03  
+ 
+ X_m  =
+ 
+    150.  
+ 
+ 
+ 
+ Z_f  =
+ 
+    34.29878 + 47.560976i  
+ 
+ R_f  =
+ 
+    34.29878  
+ 
+ Z_b  =
+ 
+    1.3379511 + 4.7129686i  
+ 
+ R_b  =
+ 
+    1.3379511  
+ 
+ Z_t  =
+ 
+    41.636732 + 62.273944i  
+ 
+ I_1  =
+ 
+    1.6323295 - 2.4413924i  
+ 
+ P_d  =
+ 
+    275.75523  
+ 
+ T_d  =
+ 
+    1.7556416  
+ 
+ 
+ 
+ 
+ Example 11.2 solution   
+ 
+ 
+ input current 
+ I_1 = 2.94<-56.23 A 
+ 
+ 
+ power developed 
+ P_d = 275.76 
+ 
+ 
+ torque 
+ T_d = 1.76 
+ 
+
+ NOTE : ERROR : There is calculation mistake in Z_b in textbook. So there is change in answers from textbook 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    220.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Z_m  =
+ 
+    3. + 5.i  
+ 
+ Z_s  =
+ 
+    5. + 3.i  
+ 
+ 
+ 
+ alpha_s  =
+ 
+    30.963757  
+ 
+ I_s  =
+ 
+    32.352941 - 19.411765i  
+ 
+ alpha_m  =
+ 
+    59.036243  
+ 
+ I_m  =
+ 
+    19.411765 - 32.352941i  
+ 
+ alpha  =
+ 
+    28.072487  
+ 
+ I  =
+ 
+    73.206349  
+ 
+ 
+ 
+ 
+ Example 11.3 solution   
+ 
+ 
+ Input current 
+ I_s = 37.73<-30.96 A 
+ 
+ 
+ Main winding current 
+ I_m = 37.73<-59 A 
+ 
+ 
+ Line current 
+ I = 73.21 A 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_t  =
+ 
+    220.  
+ 
+ f  =
+ 
+    50.  
+ 
+ Z_m  =
+ 
+    4. + 3.5i  
+ 
+ Z_s  =
+ 
+    5. + 3.i  
+ 
+ R_s  =
+ 
+    5.  
+ 
+ X_s  =
+ 
+    3.  
+ 
+ 
+ 
+ alpha_m  =
+ 
+    41.2  
+ 
+ 
+ 
+ alpha_s  =
+ 
+  - 48.8  
+ 
+ X_c  =
+ 
+    8.711454  
+ 
+ C  =
+ 
+    0.0003654  
+ 
+ 
+ 
+ 
+ Example 11.4 solution   
+ 
+ 
+ Starting capacitance for getting maximum torque 
+ C = 3.65e-04 F 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ V_nl  =
+ 
+    100.  
+ 
+ I_nl  =
+ 
+    2.5  
+ 
+ P_nl  =
+ 
+    60.  
+ 
+ 
+ V_br  =
+ 
+    60.  
+ 
+ I_br  =
+ 
+    3.  
+ 
+ P_br  =
+ 
+    130.  
+ 
+ R_1  =
+ 
+    2.  
+ 
+ 
+ 
+ Z_br  =
+ 
+    20.  
+ 
+ R_br  =
+ 
+    14.444444  
+ 
+ X_br  =
+ 
+    13.833222  
+ 
+ X_1  =
+ 
+    6.9166109  
+ 
+ R_2  =
+ 
+    12.444444  
+ 
+ Z_nl  =
+ 
+    40.  
+ 
+ R_nl  =
+ 
+    9.6  
+ 
+ X_nl  =
+ 
+    38.830916  
+ 
+ X_m  =
+ 
+    56.911998  
+ 
+ P_rot  =
+ 
+    28.055556  
+ 
+ 
+ 
+ 
+ Example 11.5 solution   
+ 
+ 
+ Magnetizing reactance 
+ X_m = 56.9 ohm 
+ 
+ 
+ Rotational loss 
+ P_rot = 28 W 
+ 
+ 
+grepthis#Fundamentals_Of_Electrical_Machines__M._A._Salam_2642/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r_t  =
+ 
+    36.  
+ 
+ N  =
+ 
+    4.  
+ 
+ 
+ 
+ T_p  =
+ 
+    10.  
+ 
+ teta  =
+ 
+    2.5  
+ 
+ 
+ 
+ 
+ Example 11.6 solution   
+ 
+ 
+ Tooth pitch 
+ T_p = 10 degree 
+ 
+ 
+ Strp angle 
+ teta = 2.5 degree 
+ 
+ 
+ 

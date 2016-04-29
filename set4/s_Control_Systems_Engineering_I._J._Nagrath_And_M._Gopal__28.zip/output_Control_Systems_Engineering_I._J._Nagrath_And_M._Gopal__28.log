@@ -1,0 +1,286 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 67
+
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.1/ex6_1.sce #
+ 
+ p  =
+ 
+                 2    3   4  
+    5 + 16s + 18s + 8s + s   
+ 
+ r  =
+ 
+    5.    16.    18.    8.    1.  
+ 
+ D1  =
+ 
+    8.  
+ 
+ d2  =
+ 
+    8.     1.   
+    16.    18.  
+ 
+ 
+ d3  =
+ 
+    8.     1.     0.   
+    16.    18.    8.   
+    0.     5.     16.  
+ 
+ 
+ d4  =
+ 
+    8.     1.     0.     0.   
+    16.    18.    8.     1.   
+    0.     5.     16.    18.  
+    0.     0.     0.     5.   
+ 
+ 
+ 
+ D1=   
+ 
+    8.  
+ 
+ 
+ D2=   
+ 
+    128.  
+ 
+ 
+ D3=   
+ 
+    1728.  
+ 
+ 
+ D4=   
+ 
+    8640.  
+ 
+Since all the determinants are positive the system is stable 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.2/ex6_2.sce #
+ 
+ p  =
+ 
+                 2    3   4  
+    5 + 16s + 18s + 8s + s   
+ 
+ r  =
+ 
+    1.      18.    5.  
+    8.      16.    0.  
+    16.     5.     0.  
+    13.5    0.     0.  
+    5.      0.     0.  
+ 
+ m  =
+ 
+    5.    16.    18.    8.    1.  
+ 
+ l  =
+ 
+    5.  
+ 
+ 
+ 
+ ans  =
+ 
+ Sysem is stable   
+ 
+ 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.3/ex6_3.sce #
+ 
+ p  =
+ 
+               2     3    4  
+    2 + 5s + 5s + 10s + 3s   
+ 
+ r  =
+ 
+    3.           5.    2.  
+    10.          5.    0.  
+    3.5          2.    0.  
+  - 0.7142857    0.    0.  
+    2.           0.    0.  
+ 
+ m  =
+ 
+    2.    5.    5.    10.    3.  
+ 
+ l  =
+ 
+    5.  
+ 
+ 
+ 
+System is unstable 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.8/ex6_8.sce #
+ 
+ p  =
+ 
+                  2     3    4    5   6  
+    16 + 16s + 20s + 12s + 8s + 2s + s   
+ 
+ r  =
+ 
+    1.           8.     20.    16.  
+    2.           12.    16.    0.   
+    2.           12.    16.    0.   
+    8.           24.    0.     0.   
+    6.           16.    0.     0.   
+    2.6666667    0.     0.     0.   
+    16.          0.     0.     0.   
+ 
+ ans  =
+ 
+  - 3.053D-16 + 2.i         
+  - 3.053D-16 - 2.i         
+  - 1. + i                  
+  - 1. - i                  
+  - 5.551D-17 + 1.4142136i  
+  - 5.551D-17 - 1.4142136i  
+ 
+ 
+ the number of real part of roots lying in the right half   
+ 
+    0.  
+ 
+System is stable 
+ 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH6/EX6.10/ex6_10.sce #
+ 
+ p  =
+ 
+                 2   3  
+    39 + 25s + 7s + s   
+ 
+ 
+ 
+ p  =
+ 
+                2   3  
+    1 + 14s + 4s + s   
+ 
+ r  =
+ 
+    1.       14.  
+    4.       1.   
+    13.75    0.   
+    1.       0.   
+ 
+All the signs of elements first column are positive hence the roots lie left of s=-1 
+ 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.3/ex12_3.sce #
+ 
+ H  =
+ 
+                 2    
+      7 + 6s + 2s     
+    ---------------   
+               2   3  
+    2 + 5s + 4s + s   
+ 
+ SS  =
+ 
+ 
+       SS(1)   (state-space system:)
+ 
+!lss  A  B  C  D  X0  dt  !
+ 
+       SS(2) = A matrix = 
+ 
+  - 0.6138614    0.1706306    4.163D-17  
+    3.8262613  - 2.8406841  - 1.8272501  
+    0.5196412    1.1081096  - 0.5454545  
+ 
+       SS(3) = B matrix = 
+ 
+  - 1.541505   
+    3.4884405  
+    0.6741999  
+ 
+       SS(4) = C matrix = 
+ 
+  - 1.2974334    0.  - 6.939D-17  
+ 
+       SS(5) = D matrix = 
+ 
+    0.  
+ 
+       SS(6) = X0 (initial state) = 
+ 
+    0.  
+    0.  
+    0.  
+ 
+       SS(7) = Time domain = 
+ 
+ c   
+ 
+ ind  =
+ 
+    3.  
+ U  =
+ 
+    0.1990074    0.5970223    0.6965260  
+  - 0.4503557    0.3983916    0.1732137  
+  - 0.0870388  - 0.6963106    0.6963106  
+ Bc  =
+ 
+  - 7.7459667  
+    0.         
+    0.         
+ Ac  =
+ 
+  - 4.  - 5.  - 2.  
+    1.    0.    0.  
+    0.    1.    0.  
+ 
+ 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.12/ex12_12.sce #
+ 
+ 
+ 
+ 
+ Controllability Matrix=   
+ 
+    0.    0.    1.   
+    0.    1.  - 6.   
+    1.  - 6.    25.  
+ 
+ d  =
+ 
+  - 1.  
+ 
+system is controllable 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.13/ex12_13.sce #
+ 
+ 
+ 
+ 
+ Controllability Matrix=   
+ 
+    1.  - 1.  
+  - 1.    1.  
+ 
+ d  =
+ 
+    0.  
+ 
+matrix is singular, so system is uncontrollable 
+grepthis#Control_Systems_Engineering_I._J._Nagrath_And_M._Gopal__28/CH12/EX12.14/ex12_14.sce #
+ 
+ 
+ 
+ 
+ 
+ Observability Matrix=   
+ 
+    3.    4.    1.  
+    0.    1.    1.  
+    0.  - 2.  - 2.  
+ 
+ d  =
+ 
+    0.  
+ 
+matrix is singular, so system is unobservable 

@@ -1,0 +1,746 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 62
+
+grepthis#Digital_Communication_S._Haykin_851/CH2/EX2.2/Example2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Entropy of Discrete Memoryless Source   
+ 
+ 
+    1.5  
+ 
+ bits   
+ 
+ 
+ 
+ 
+ Table 2.1 Alphabet Particulars of Second-order Extension of a Discrete Memoryless Source   
+ 
+ 
+ _________________________________________________________________________________   
+ 
+ 
+ Sequence of Symbols of ruo2:   
+ 
+ 
+   S0*S0     S0*S1     S0*S2     S1*S0     S1*S1    S1*S2    S2*S0     S2*S1  S2*S2   
+ 
+ 
+ Probability p(sigma), i =0,1.....8   
+ 
+    0.0625    0.0625    0.125    0.0625    0.0625    0.125    0.125    0.125    0.25  
+ 
+ 
+ _________________________________________________________________________________   
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ H(Ruo_Square)=   
+ 
+    3.  
+ 
+ bits   
+ 
+ 
+ H(Ruo_Square) = 2*H(Ruo)   
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH2/EX2.3/Example2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average code-word Length L   
+ 
+    2.2  
+ 
+ bits   
+ 
+ 
+ Entropy of Huffman coding result H   
+ 
+    2.1219281  
+ 
+ bits   
+ 
+ 
+ Average code-word length L exceeds the entropy H(Ruo) by only   
+ 
+    3.6792908  
+ 
+ percent   
+ 
+ 
+ 
+ Varinace of Huffman code   
+ 
+    0.16  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH2/EX2.4/Example2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average code-word Length L   
+ 
+    2.2  
+ 
+ bits   
+ 
+ 
+ Entropy of Huffman coding result H   
+ 
+    2.1219281  
+ 
+ bits   
+ 
+ 
+ 
+ Varinace of Huffman code   
+ 
+    1.36  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH2/EX2.5/Example2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ probility of 0 receiving if a 0 is sent = probility of 1 receiving if a 1 is sent=   
+ 
+    0.4  
+ 
+ 
+ Transition probility   
+ 
+ 
+ probility of 0 receiving if a 1 is sent = probility of 1 receiving if a 0 is sent=   
+ 
+    0.6  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH3/EX3.6/Example3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Predictor-error variance   
+ 
+    0.64  
+ 
+ 
+ Predictor input variance   
+ 
+    1.  
+ 
+ 
+ The predictor-error variance is less than the variance of the predictor input   
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH5/EX5.1/Example5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the noise variance[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH5/EX5.3/Example5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter no. of bits used to encode:[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH5/EX5.5/Example5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the amplitude of sinusoidal signal:[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH6/EX6.1/Example6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the bit duration of the TDM signal:[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.06/Table7_06.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table 7.7 Bandwidth Efficiency of M-ary PSK signals   
+ 
+ 
+ ______________________________________________________   
+ 
+ 
+ M   
+ 
+    2.    4.    8.    16.    32.    64.  
+ 
+ 
+ ______________________________________________________   
+ 
+ 
+ r in bits/s/Hz   
+ 
+    0.5    1.    1.5    2.    2.5    3.  
+ 
+ 
+ ______________________________________________________   
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH7/EX7.7/Table7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table 7.7 Bandwidth Efficiency of M-ary FSK signals   
+ 
+ 
+ ______________________________________________________   
+ 
+ 
+ M   
+ 
+    2.    4.    8.    16.    32.    64.  
+ 
+ 
+ ______________________________________________________   
+ 
+ 
+ r in bits/s/Hz   
+ 
+    1.    1.    0.75    0.5    0.3125    0.1875  
+ 
+ 
+ ______________________________________________________   
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.1/Example8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ generator matrix   
+ 
+    1.    1.    1.    1.    1.  
+ 
+ 
+ parity-check matrix   
+ 
+    1.    0.    0.    0.    1.  
+    0.    1.    0.    0.    1.  
+    0.    0.    1.    0.    1.  
+    0.    0.    0.    1.    1.  
+ 
+ 
+ code word for binary one input   
+ 
+    1.    1.    1.    1.    1.  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.2/Example8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ identity matrix Ik   
+ 
+    1.    0.    0.    0.  
+    0.    1.    0.    0.  
+    0.    0.    1.    0.  
+    0.    0.    0.    1.  
+ 
+ 
+ 
+ coefficient matrix P   
+ 
+    1.    1.    0.  
+    0.    1.    1.  
+    1.    1.    1.  
+    1.    0.    1.  
+ 
+ 
+ 
+ generator matrix G   
+ 
+    1.    1.    0.    1.    0.    0.    0.  
+    0.    1.    1.    0.    1.    0.    0.  
+    1.    1.    1.    0.    0.    1.    0.  
+    1.    0.    1.    0.    0.    0.    1.  
+ 
+ 
+ 
+ parity chechk matrix H   
+ 
+    1.    0.    0.    1.    0.    1.    1.  
+    0.    1.    0.    1.    1.    1.    0.  
+    0.    0.    1.    0.    1.    1.    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Code words of (7,4) Hamming code   
+ 
+    0.    0.    0.    0.    0.    0.    0.  
+    1.    0.    1.    0.    0.    0.    1.  
+    1.    1.    1.    0.    0.    1.    0.  
+    0.    1.    0.    0.    0.    1.    1.  
+    0.    1.    1.    0.    1.    0.    0.  
+    1.    1.    0.    0.    1.    0.    1.  
+    1.    0.    0.    0.    1.    1.    0.  
+    0.    0.    1.    0.    1.    1.    1.  
+    1.    1.    0.    1.    0.    0.    0.  
+    0.    1.    1.    1.    0.    0.    1.  
+    0.    0.    1.    1.    0.    1.    0.  
+    1.    0.    0.    1.    0.    1.    1.  
+    1.    0.    1.    1.    1.    0.    0.  
+    0.    0.    0.    1.    1.    0.    1.  
+    0.    1.    0.    1.    1.    1.    0.  
+    1.    1.    1.    1.    1.    1.    1.  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.3/Example8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ remainder in polynomial form   
+ 
+         2  
+    D + D   
+ 
+ 
+ Parity bits are:   
+ 
+    0.    1.    1.  
+ 
+ 
+ 
+ 
+ G   
+ 
+    1.    1.    0.    1.    0.    0.    0.  
+    0.    1.    1.    0.    1.    0.    0.  
+    0.    0.    1.    1.    0.    1.    0.  
+    0.    0.    0.    1.    1.    0.    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Generator Matrix G =   
+ 
+    1.    1.    0.    1.    0.    0.    0.  
+    0.    1.    1.    0.    1.    0.    0.  
+    1.    1.    1.    0.    0.    1.    0.  
+    1.    0.    1.    0.    0.    0.    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partiy Check matrix H =   
+ 
+    1.    0.    0.    1.    0.    1.    1.  
+    0.    1.    0.    1.    1.    1.    0.  
+    0.    0.    1.    0.    1.    1.    1.  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.4/Example8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ remainder in polynomial form   
+ 
+         2  
+    D + D   
+ 
+ 
+ Parity bits are:   
+ 
+    0.    1.    1.  
+ 
+ 
+ Table 8.3 Contents of the Shift Register in the Encoder of fig8.7 for Message Sequence(1001)   
+ 
+ 
+ __________________________________________________________________________________________   
+ 
+ 
+ Shift            Input            Register Contents   
+ 
+ 
+ __________________________________________________________________________________________   
+ 
+ 
+ 1                  1              1 1 0   
+ 
+ 
+ 2                  0              0 1 1   
+ 
+ 
+ 3                  0              1 1 1   
+ 
+ 
+ 4                  1              0 1 1   
+ 
+ 
+ ____________________________________________________________________________________________   
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.5/Example8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ remainder in polynomial form   
+ 
+           2  
+    2D + 2D   
+ 
+ 
+ Syndrome bits for error free codeword are:   
+ 
+    0.    0.    0.  
+ 
+ 
+ 
+ 
+ 
+ remainder in polynomial form for errored codeword   
+ 
+               2  
+    1 + 3D + 2D   
+ 
+ 
+ Syndrome bits for errored  codeword are:   
+ 
+    1.    1.    0.  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.6/Example8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n   
+ 
+    3.  
+ 
+ 
+ n-k   
+ 
+    2.  
+ 
+ 
+ Code rate:r = k/n =   
+ 
+    0.3333333  
+ 
+ 
+ It can correct any error upto =   
+ 
+    2.  
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.7/Example8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the input Top Adder Sequence:=[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.8/Example8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ top output sequence   
+ 
+    1.    1.    1.    1.    0.    0.    1.  
+ 
+ 
+ bottom output sequence   
+ 
+    1.    0.    1.    1.    1.    1.    1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH8/EX8.11/Example8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ branch metric for correct reception   
+ 
+    0.8822126  
+ 
+ 
+ branch metric for any one correct recption   
+ 
+  - 3.7027499  
+ 
+ 
+ branch metric for no correct reception   
+ 
+  - 8.2877124  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH9/EX9.1/Example9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[0mEnter the period of the signal[0m[1m
+grepthis#Digital_Communication_S._Haykin_851/CH9/EX9.3/Example9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The processing gain is:   
+ 
+    4095.  
+ 
+ 
+ 
+ 
+ The required PN sequence is:   
+ 
+    4095.  
+ 
+ 
+ The feedback shift register length:   
+ 
+    12.  
+ 
+ 
+ 
+ 
+ Jamming Margin in dB:   
+ 
+    26.122539  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Communication_S._Haykin_851/CH9/EX9.4.9.5/Example9_4_Example9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ number of bits per symbol K =   
+ 
+    2.  
+ 
+ 
+ Number of MFSK tones M=   
+ 
+    4.  
+ 
+ 
+ Period of the PN sequence N =   
+ 
+    15.  
+ 
+ 
+ length of PN sequence per hop k =   
+ 
+    3.  
+ 
+ 
+ Total number of frequency hops =   
+ 
+    8.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

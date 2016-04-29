@@ -1,0 +1,54 @@
+grepthis#Electronics_Devices_And_Circuits_G._S._N._Raju_2534/CH9/EX9.8/Ex9_8.sce #
+ 
+[2J[0;0H 
+ 
+ VGS  =
+ 
+  - 2.  
+ 
+ IDSS  =
+ 
+    0.006  
+ 
+ Vp  =
+ 
+  - 6.  
+ 
+ 
+ IDSS = 0.006A   
+ 
+ 
+ Vp = -6V   
+ 
+ 
+ VGS = -2V   
+ 
+ ID  =
+ 
+    0.0026667  
+ 
+ 
+ ID = IDSS*(1-(VGS/Vp))^2 = 0.0026667A   
+ 
+ Rd  =
+ 
+    2000.  
+ 
+ VDD  =
+ 
+    9.  
+ 
+ VDS  =
+ 
+    3.6666667  
+ 
+ 
+ VDD = 9V   
+ 
+ 
+ Rd = 2000ohm   
+ 
+ 
+ VDS = VDD - ID*Rd = 3.6666667V   
+ 
+ 

@@ -1,0 +1,150 @@
+ERROR: Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH6/EX6.10/example_6_10.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X11_m1_pu = pucalc(X11_m,V_m,V_base_m,P_base,P_m1);
+                                                   !--error 4 
+Undefined variable: pucalc
+at line      40 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH6/EX6.10/example_6_10.sce',-1)
+ 
+ERROR: Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH6/EX6.7/example_6_7.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ On its own base the transformer reactance = 0.10 per unit 
+z_new_pu = pucalc(z_pu,V_ht,V_ht_base,P_ht_base,P);
+                                                   !--error 4 
+Undefined variable: pucalc
+at line      20 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH6/EX6.7/example_6_7.sce',-1)
+ 
+ERROR: Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH10/EX10.1/example_10_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X11_d_g1 = pucalc(X11_g,V_t_lt,Vbase_lt,Pbase,P_g1);
+                                                    !--error 4 
+Undefined variable: pucalc
+at line      22 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH10/EX10.1/example_10_1.sce',-1)
+ 
+ERROR: Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH11/EX11.4/example_11_4.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x0_m1 = pucalc(x0,V_m,V_base_m,P_base,P_m1);
+                                            !--error 4 
+Undefined variable: pucalc
+at line      42 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Elements_Of_Power_System_Analysis_W._D._Stevenson_14/CH11/EX11.4/example_11_4.sce',-1)
+ 

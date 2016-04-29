@@ -1,0 +1,1158 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 41
+
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The tangential lift force coefficient = 1.594 
+
+ The diffuser efficiency = 97 percentage. 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The suitable space–chord ratio = 0.9872 
+
+ The suitable blade camber = 21.08 deg. 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)The relative and absolute angles for the flow: 
+ beta3 = 68.2 deg, and beta2 = 46.97 deg. 
+
+ alpha2 = 68.2 deg, and alpha3 = 46.97 deg. 
+
+ (ii) The velocity at nozzle exit = 652.82 m/s 
+
+ (iii)The static temperature and pressure at nozzle exit assuming a nozzle efficiency of 0.96: 
+ T2 = 1016.3 K
+ p2 = 1.986 bar 
+
+ and mass flow = 39.1 kg/s 
+
+ (iv)The rotor blade root stress assuming the blade is tapered with a stress taper factor K of 2/3 and 
+ the blade material density is 8000 kg/m2 = 243.7 MPa 
+
+ (v) The approximate average mean blade temperature is Tb = 1062.6 K 
+
+ (vi)Inspection of the data for Inconel 713 cast alloy suggests that it might be a better choice 
+ of blade material as the temperature–stress point of the above calculation is to the 
+ left of the line marked creep strain of 0.2 percentage in 1000 hr. 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The flow angles are: beta1 = alpha2 = 52.43 deg and beta2 = alpha1 = 35 deg. 
+
+ The number of stages required = 9 
+
+ The overall efficiency = 86.1 percentage 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)The nominal deflection= 30.0 deg.
+ the nominal incidence = -4.3 deg. 
+
+ (ii)The inlet flow angle, beta1 = alpha2 = 52.2 deg
+ outlet flow angle beta2 = alpha1 = 14.7 deg. 
+
+ (iii)The flow coefficient = 0.645
+ The stage loading factor = 0.569 
+
+ (iv) The rotor lift coefficient = 1.46. 
+
+ (v) The overall drag coefficient of each row = 0.085. 
+
+ (vi) The total-to-total stage efficiency = 0.860.
+ The pressure rise across the stage = 100 kPa 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)The axial velocity, cx = 136 m/s 
+
+ (ii)The mass flow rate = 30.4 kg/s 
+
+ (iii)The power absorbed by the stage = 1.5 MW 
+
+ (iv)The flow angles at the hub are:
+ alpha1 = 32.68 deg,
+ beta1 = 55.17 deg,
+ alpha2 = 62.5 deg, and
+ beta2 = 8.75 deg. 
+
+ (v)The reaction ratio of the stage at the hub, R = 0.383. 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)The blade cavitation coefficient = 0.303 
+
+ (ii)The shroud radius at the eye = 0.05528 m
+ The required diameter of the eye = 110.6 mm 
+
+ (iii)The eye axial velocity = 2.862 m/s 
+
+ (iv)The NPSH = 1.632 m 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)The rotational speed of the impeller = 7404.9 rad/s and N = 70711 rev/min. 
+
+ (ii)The inlet static density downstream of the guide vanes at the shroud = 1.03822 kg/m^3.
+ The axial velocity = 187.38 m/s. 
+
+ (iii)The inducer tip diameter = 8.827 cm
+ U = 326.8 m/s. 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The slip factor = 0.739. 
+
+ The manometric head = 30.1 m. 
+
+ The hydraulic efficiency = 71.8 percentage. 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Absolute mach number, M2 = 1.01. 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The fractional inputs from the three terms are, for the U^2 terms, 0.417; 
+ for the w^2 terms, 0.176; for the c^2 terms, 0.407. 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U2  =
+ 
+    182.97159  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total-to-static efficiency = 76.13 percentage. 
+
+ The overall efficiency = 73.17 percentage. 
+
+ The rotor enthalpy loss coefficient = 1.219 
+
+ The rotor relative velocity ratio = 1.73 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i) The absolut and relative flow angles:
+ alpha2 = 73.22 deg
+ beta2 = 33.56 deg 
+
+ (ii) The overall pressure ratio = 2.924 
+
+ (iii) The rotor rip speed = 525.1 m/s
+ The inlet absolute Mach number = 0.754 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The relative velocity ratio = 2.702. 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i) The diamaeter of the rotor = 0.2358 m
+ its speed of rotation = 4565.0 rad/s (N = 43592 rev/min) 
+
+(ii) The vane width to diameter ratio at rotor inlet = 0.0570 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)The rotor enthalpy loss coefficient = 0.7468 
+
+(b) The total-to-static efficiency of the turbine = 0.797 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diameter of the pipe = 0.7614 m 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)The runner efficiency = 0.9090 
+
+ (ii)The diameter of each jet = 0.1525 m 
+
+ (iii)The power specific speed = 0.190 rad 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)The pressure head H3 relative to the trailrace = -6.0 m
+ The pressure head H2 at exit from the runner = 67.55 m 
+
+(ii)The flow angles at runner inlet and at guide vane exit:
+ alpha2 = 74.2 deg
+ beta2 = 11.33 deg 
+
+(iii)The hydraulic efficiency of the turbine = 0.8825 
+
+ The speed of rotation, N = 432 rev/min 
+
+ The runner diameter is, D2 = 1.547 m 
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Calculated values of flow angles:
+ Parameter                              Ratio of r/ri                  
+
+ ------------------------------------------------------------ 
+
+                        0.4            0.7               1.0 
+
+                       -------------------------------------- 
+
+ ctheta2(in m/s)       9.956          5.689             3.982 
+
+ tan(alpha2)           0.835          0.4772            0.334 
+
+ alpha2(deg)           39.86          25.51             18.47 
+
+ U/cx2                 1.019          1.7830            2.547 
+
+ beta2(deg)            10.42          52.56             65.68 
+
+ beta3(deg)            45.54          60.71             68.57 
+
+ ------------------------------------------------------------ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The speed = 415.7 rev/min. 
+
+ The flow rate = 23.27 m^3/s. 
+
+ Power of the full-scale = 14.43 MW. 
+
+ The efficiency of the model turbine = 0.79. 
+
+ The efficiency of the prototype = 0.8597. 
+
+ The power of the full-size turbine = 15.7 MW. 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The NSPH for the turbine = 8.003 m. 
+
+ Since the suction specific speed (= 7.6708.)is greater than 4.0(rad), the cavitation is likely to occur. 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R2/R1 = 1.225
+ R3/R1 = 1.732
+ R3/R2 = 1.414 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)With cx1 = 7.5 m/s, P = 106 kW. 
+
+(ii)With cx1 = 10 m/s, P = 251.3 kW. 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diameter = 21.2 m. 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Axial induction factor, a = 0.1837 
+
+ Tangential induction factor = 0.00756 
+
+ phi = 10.351 deg. 
+
+ Lift coefficient = 0.835. 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.6/Ex10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Summary of results of iterations (N.B. CL = 0.8 along the span) 
+
+ ----------------------------------------------------------------------------------- 
+
+ r/R      0.2      0.3       0.4       0.6      0.8      0.9      0.95        1.0   
+
+ ----------------------------------------------------------------------------------- 
+
+ phi    45.12     32.84     25.26     16.71    12.08    10.48     9.80       9.176 
+
+ beta   37.12     24.84     17.26     8.71     4.08     2.48      1.80       1.18 
+
+ a      0.0428   0.05716   0.07323   0.1094   0.1508   0.1737     0.1856     0.1982 
+
+ a`     0.04724   0.02591   0.01791   0.01120   0.00820   0.00725   0.00685   0.00649 
+
+ ----------------------------------------------------------------------------------- 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.7/Ex10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The total axial force = 10582 N. 
+
+ The torque = 27.058 *10^3 Nm. 
+
+ The power developed = 67.645 kW. 
+
+ The power coefficient = 0.378 
+
+ The relative power coefficient = 0.638 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.8/Ex10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2  =
+ 
+    706.85835  
+ 
+ 
+ 
+ 
+P = 69.658 kW. 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Thermodynamics_Of_Turbo_Machinery_S._L._Dixon_3407/CH10/EX10.9/Ex10_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               Summary of Results: 
+
+ --------------------------------------------------------------------------------------------------- 
+
+                             Axial force, kN        Power, kW             Cp               zeta 
+
+ --------------------------------------------------------------------------------------------------- 
+
+ Without tip correction           10.582              67.65              0.378             0.638 
+
+ With tip correction              9.284               53.00              0.296             0.453 
+
+ --------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 

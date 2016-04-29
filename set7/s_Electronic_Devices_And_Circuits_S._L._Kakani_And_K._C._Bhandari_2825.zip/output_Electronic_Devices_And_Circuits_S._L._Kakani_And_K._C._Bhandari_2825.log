@@ -1,0 +1,7337 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 170
+
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ With the help of colour coding table, one finds   
+ 
+ 
+   1st_Band    2nd_Band    3rd_Band    4th_Band   
+ 
+    Yellow      Violet      Orange      Gold 
+ 
+       4          7         10^3     (+/-)5%   
+ 
+ yel  =
+ 
+    4.  
+ 
+ vio  =
+ 
+    7.  
+ 
+ org  =
+ 
+    1000.  
+ 
+ gld  =
+ 
+    5.  
+ 
+ val_res  =
+ 
+    47000.  
+ 
+
+ The value of resistor is 47.00 kohm (+/-)5% 
+ gld_ab  =
+ 
+    0.05  
+ 
+ per_val  =
+ 
+    2350.  
+ 
+
+ Now, 5% of 47k_ohm = 2350 ohm 
+ range_high  =
+ 
+    49350.  
+ 
+ range_low  =
+ 
+    44650.  
+ 
+
+
+ Thus resistance should be within the range 47.00 kohm(+/-)2.35 Kohm,
+ or between 44.65 kohm and 49.35 kohm. 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ The specification of the resistor from the color coding table is as follows   
+ 
+ 
+   1st_Band    2nd_Band    3rd_Band    4th_Band   
+ 
+     Gray        Blue        Gold       Silver 
+ 
+       8          6        10^(-1)     (+/-)10%   
+ 
+ gray  =
+ 
+    8.  
+ 
+ blu  =
+ 
+    6.  
+ 
+ gld  =
+ 
+    0.1  
+ 
+ sil  =
+ 
+    10.  
+ 
+ val_res  =
+ 
+    8.6  
+ 
+
+ The value of resistor is 8.6 ohm (+/-)10% 
+ sil_ab  =
+ 
+    0.1  
+ 
+ per_val  =
+ 
+    0.86  
+ 
+
+ Now, 10% of 8.6 ohm = 0.86 ohm 
+ range_high  =
+ 
+    9.46  
+ 
+ range_low  =
+ 
+    7.74  
+ 
+
+
+ Obviously resistance should lie within the range 8.60 ohm(+/-)0.86 ohm,
+ or between 9.46 ohm and 7.74 ohm. 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ Conductivity of pure silicon crystal is given by   
+ 
+ 
+    sigma = ni*e*(ue + uh)   
+ 
+ uh  =
+ 
+    480.  
+ 
+ ue  =
+ 
+    1350.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ni  =
+ 
+    1.072D+10  
+ 
+ sigma_i  =
+ 
+    0.0000031  
+ 
+
+ Conductivity of pure silicon crystal = 0.00000314 ohm^(-1)/cm 
+ 
+ 
+ Resistivity of silicon is given by   
+ 
+ rho  =
+ 
+    318591.47  
+ 
+
+ Resistivity of pure silicon crystal = 318591 ohm-cm 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ sigma = u*e*n   
+ 
+ u  =
+ 
+    1200.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    1.000D+13  
+ 
+ sigma  =
+ 
+    0.00192  
+ 
+
+ Conductivity of pure silicon crystal = 0.00192 ohm^(-1)/cm 
+ 
+ rho  =
+ 
+    520.83333  
+ 
+
+ Resistivity of pure phosphorous = 521 ohm-cm 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.3/Ex2_4.sce #
+ 
+ 
+ 
+ (n_i)^2 = n*p = n_p*N_a   
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ Na  =
+ 
+    1.100D+20  
+ 
+ np  =
+ 
+    5.682D+18  
+ 
+ N  =
+ 
+    0.2272727  
+ 
+
+ The ratio of n_p/n_i = 0.2273 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ (n_i)^2 = n*p = n_p*N_a   
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ Na  =
+ 
+    1.100D+20  
+ 
+ np  =
+ 
+    5.682D+18  
+ 
+ N  =
+ 
+    0.2272727  
+ 
+
+ The ratio of n_p/n_i = 0.23 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ sigma_n = u_n*e*N_d   
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ sigma  =
+ 
+    5.  
+ 
+ un  =
+ 
+    3850.  
+ 
+ Nd  =
+ 
+    8.117D+15  
+ 
+Number density of donor atoms = 0.8*1e16 per cm^3 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+We know forbidden energy gap between conduction and valence 
+ bands for a semiconductor is nearly 1 eV. For Ge and Si,energy 
+ gap is 0.785 eV and  1.21 eV respectively at 0K. Energy gap 
+ decreases with increase in temperature which is represented 
+ by the expression . Obviously, Si and Ge will remain 
+ semiconductors at 1000K ambient temperature. 
+
+ 
+ 
+ 
+ Eg(T) = 1.21 - 3.6*10^(-4)*T (For Si)   
+ 
+ T  =
+ 
+    1000.  
+ 
+ Eg  =
+ 
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.    
+    0.85  
+ 
+
+ Eg(1000) = 1.21 - 3.6*10^(-4)*1000 = 0.85 eV 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ 
+ Relaxation time in terms of mobility is given by   
+ 
+ 
+         t=m*u/e   
+ 
+
+
+ Taking effective mass of electron an holes in consideration,
+ relaxation time is given by 
+ 
+ 
+         t=m_star*u/e   
+ 
+ 
+ (a) foe electrons,m_star = 0.259*m_0   
+ 
+ m0  =
+ 
+    9.100D-31  
+ 
+ ue  =
+ 
+    0.135  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ t_e  =
+ 
+    1.989D-13  
+ 
+
+ Average relaxation time of eletrons = 1.99*1e-13 secs
+  
+ 
+ uh  =
+ 
+    0.048  
+ 
+ 
+ (b) For holes in the valance band,m=0.537*m_0   
+ 
+ t_h  =
+ 
+    1.466D-13  
+ 
+
+ Average relaxation time of eletrons = 1.47*1e-13 secs
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ 
+ Conductivity of an intrinsic material is given by    
+ 
+ 
+      sigma = e*ni*un*(1+up/un)   
+ 
+ sigma_i  =
+ 
+    1.6666667  
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ up_un  =
+ 
+    0.5  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ un  =
+ 
+    0.2777778  
+ 
+ up  =
+ 
+    0.1388889  
+ 
+ 
+ 
+      Let n be eletron concentration and p be hole con-centration for doped sample. Sincethe sample is electrically neutral, 
+      we have                                                                                                                
+ 
+ 
+           Nd + p = Na + n   
+ 
+ 
+    Where Nd is donor concentration and Na is acceptor concentration,assumed to be fully ionized. From mass action law,we ha 
+      ve np =ni^2*S0                                                                                                         
+ 
+ 
+           Nd + (ni^2)/n = Na + n   
+ 
+ 
+ or        n^2 + (Na-Nd)*n-ni^2 = 0   
+ 
+ 
+ or        n=0.5*([Nd-N])(+/-) sqrt(Nd-Na)^2 + 4*ni^2)   
+ 
+ 
+    n is positive and hence we can drop negative sign before the radical   
+ 
+ 
+ Nd  =
+ 
+    1.000D+20  
+ 
+ Na  =
+ 
+    5.000D+19  
+ 
+ n  =
+ 
+    6.036D+19  
+ 
+ p  =
+ 
+    1.036D+19  
+ 
+ conduct_doped  =
+ 
+    2.9125782  
+ 
+
+ Conductivity of doped sample = 2.91 S/m 
+ 
+ 
+ 
+      We have assumed that carrier mobilities in the doped signal sample are the same as those in the intrinsic material.Thi 
+      s assumption is justified by the low doping level, and Coulomb scaterring Applied by the ionized impurities is weak at 
+       300K.                                                                                                                 
+ 
+ 
+ Applied electric field   
+ 
+ 
+ F_cm  =
+ 
+    2.  
+ 
+ F_m  =
+ 
+    200.  
+ 
+ J  =
+ 
+    582.51563  
+ 
+ J_cm  =
+ 
+    0.5825156  
+ 
+ 
+Total conduction current density = 583 A/m^2 
+
+                               = 0.58 A/cm^2 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ 
+ 
+ For P-type,Nd=0. By charge neutrality and mass action law,   
+ 
+ 
+ 
+       p + Nd = p = +na = (ni)^2/n   
+ 
+ 
+ 
+ or    n^2 + Na*n - (ni)^2 = 0   
+ 
+ 
+ 
+ Solving the quadratic equation for n and discharging the extraneous negative root,one obtains   
+ 
+ 
+ 
+       n = 0.5*(-Na + sqrt(Na^2 + 4*ni^2))   
+ 
+ 
+ 
+ Knowing n,one obtains from mass action law p = ni^2/n   
+ 
+ 
+ 
+ For N-type doping,Na=0. By analogous procedure,   
+ 
+ 
+ 
+       p = 0.5*(-Nd +sqrt(Nd^2 + 4*Ni^2));  n=ni^2/p   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ un  =
+ 
+    700.  
+ 
+ n  =
+ 
+    1.000D+17  
+ 
+ sigma  =
+ 
+    11.2  
+ 
+Conductivity = 11.2 (ohm-cm)^-1 
+ res  =
+ 
+    0.0892857  
+ 
+
+ Resistivity = 0.0893 ohm-cm 
+ Rh  =
+ 
+  - 62.5  
+ 
+
+ Hall coefficient = -62.5 cm^3/C 
+ Ix  =
+ 
+    0.001  
+ 
+ Bz  =
+ 
+    0.00001  
+ 
+ x  =
+ 
+    0.01  
+ 
+ Vh  =
+ 
+  - 0.0000625  
+ 
+
+ Hall Volage = -62.5 uV 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ 
+ 
+ (a) Hall coefficient is   
+ 
+ 
+       Rh = Eh/(Jx*B)   
+ 
+ Vh  =
+ 
+    0.0214  
+ 
+ b  =
+ 
+    0.017  
+ 
+ Eh  =
+ 
+    1.2588235  
+ 
+ t  =
+ 
+    0.000052  
+ 
+ I  =
+ 
+    0.0002  
+ 
+ Jx  =
+ 
+    226.24434  
+ 
+ B  =
+ 
+    0.5  
+ 
+ Rh  =
+ 
+    0.011128  
+ 
+
+ Hall coefficient = 0.011128 m^3/C 
+
+ 
+ 
+ 
+ (b) Electrons per unit volume,   
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ n  =
+ 
+    5.616D+20  
+ 
+
+
+ Electrons per unit volume = 561646297627606056960 electrons/m^3 
+
+ 
+ V  =
+ 
+    0.195  
+ 
+ I  =
+ 
+    0.0002  
+ 
+ R  =
+ 
+    975.  
+ 
+ 
+ Since R=(l/(A*sigma) = (l/(A*e*n*R))   
+ 
+ l  =
+ 
+    0.0265  
+ 
+ w  =
+ 
+    0.017  
+ 
+ t  =
+ 
+    0.000052  
+ 
+ A  =
+ 
+    0.0000009  
+ 
+ sigma  =
+ 
+    0.3421418  
+ 
+
+
+ Conductivity = 0.342 m^3/Vs 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH2/EX2.12/Ex2_12.sce #
+ 
+ 
+ 
+ C  =
+ 
+    3.000D+08  
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ Eg  =
+ 
+    3.168D-19  
+ 
+ lamda  =
+ 
+    0.0000006  
+ 
+Wavelength = 625 nm 
+ 
+ 
+      Since lamda is in the red region of the visible light and hence the colour of emitted radiation is RED   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ Refer to the diagram 3.11(b)   
+ 
+ 
+ Using ohm's law   
+ 
+ 
+ Vt = Vd1 + Vr1   
+ 
+ Vd1  =
+ 
+    0.7  
+ 
+ Vt  =
+ 
+    12.  
+ 
+ R1  =
+ 
+    1200.  
+ 
+ Vr1  =
+ 
+    11.3  
+ 
+ It  =
+ 
+    0.0094167  
+ 
+ 
+ Ohm's law   
+ 
+
+ Current I_t = 9.42 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ J  =
+ 
+    100000.  
+ 
+ Js  =
+ 
+    0.25  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ T  =
+ 
+    300.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ V  =
+ 
+    0.3337673  
+ 
+The voltage applied across the junction =0.33 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ I  =
+ 
+    2000000.  
+ 
+ Is  =
+ 
+    30.  
+ 
+ ekt  =
+ 
+    40.  
+ 
+ V  =
+ 
+    0.2776865  
+ 
+Applied forward voltage = 0.278 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+           I = Is*exp(eV/kT) = Is*exp(40V)   
+ 
+ 
+           Re = del_V/del_I = 1/40I   
+ 
+ 
+      Dividing throughtout by volume, one obtains the equation in the form of current density as   
+ 
+ 
+           J = Js*(exp(eV/kT)-1)   
+ 
+ J  =
+ 
+    100000.  
+ 
+ Js  =
+ 
+    0.25  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ T  =
+ 
+    300.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ V  =
+ 
+    0.3337673  
+ 
+
+ The voltage applied across the junction =0.33 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ (a) Forward-bias   
+ 
+ Av  =
+ 
+    50.  
+ 
+ Jr  =
+ 
+    5000.  
+ 
+ Er  =
+ 
+    50.  
+ 
+ cur  =
+ 
+    0.0099010  
+ 
+
+ Current = 9.9 mA 
+ 
+ 
+ 
+ (b) Reverse-bias   
+ 
+ cur_rev  =
+ 
+    0.0000498  
+ 
+
+ Current = 4.975*1e-2 mA 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ We know that   
+ 
+ 
+   r_ac = dV/dI - 1/(dI/dV) = 1/((I0/KT)exp(V/KT))   
+ 
+ k  =
+ 
+    0.0000862  
+ 
+ T  =
+ 
+    300.  
+ 
+ kT  =
+ 
+    0.02586  
+ 
+ I0  =
+ 
+    0.000001  
+ 
+ V  =
+ 
+    0.15  
+ 
+ r_ac  =
+ 
+    78.256243  
+ 
+
+ The AC resistance = 78.26 ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ We know that (I0)*T2 = (I0)*T1*(2)^((T2-T1/10))   
+ 
+ 
+ 
+ Substituting the given values,we have    
+ 
+ 
+ 
+ (40*10^(-6)) = (25*10^(-6)*(2)^x) where x=(T2-T1)/10   
+ 
+ 
+ 
+ (2)^x = 1.6   
+ 
+ 
+ 
+ Taking log on both sides,one obtains   
+ 
+ 
+ 
+       x*log(2) = log(1.6)   
+ 
+ 
+ 
+ or    x = log(1.6)/log(2)   
+ 
+ 
+ x  =
+ 
+    0.6780719  
+ 
+ 
+ 
+  Now x = (T2-T1)/10 or 0.678 = (T2-25)/10   
+ 
+ T1  =
+ 
+    25.  
+ 
+ T2  =
+ 
+    31.780719  
+ 
+ diff_temp  =
+ 
+    6.7807191  
+ 
+
+ So the change in temperature = 6.78 degree celsius 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ Forward current I is given by    
+ 
+ 
+   I=I0*exp(V/(n*Vt))-1   
+ 
+ 
+ I_22  =
+ 
+    I_22   
+ 
+ V  =
+ 
+    0.3  
+ 
+ n  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    295.  
+ 
+ Vt1  =
+ 
+    0.0254310  
+ 
+ I  =
+ 
+    162753.79I_22   
+ 
+ 
+ When temperature rises to 72 degree celcius, then   
+ 
+ 
+ T2  =
+ 
+    345.  
+ 
+ Vt2  =
+ 
+    0.0297414  
+ 
+ TR  =
+ 
+    50.  
+ 
+ I_72  =
+ 
+    I_72   
+ 
+ I_72  =
+ 
+    32I_22   
+ 
+ 
+ I_hash  =
+ 
+    768849.72I_22   
+ 
+ for_cur_rises  =
+ 
+    768849.72   
+    ---------   
+    162753.79   
+ 
+ 
+ Thus, at 72 degree celcius Forward current rises by    
+ 
+ 
+    768849.72   
+    ---------   
+    162753.79   
+ 
+ cur_I  =
+ 
+    768849.72  
+ 
+ cur_I_hash  =
+ 
+    162753.79  
+ 
+ FCR  =
+ 
+    4.724005  
+ 
+
+    = 4.72 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ T  =
+ 
+    300.  
+ 
+ Vt  =
+ 
+    0.0258621  
+ 
+ V  =
+ 
+    0.2  
+ 
+ I0  =
+ 
+    0.000001  
+ 
+ I  =
+ 
+    0.0022822  
+ 
+ stat_res  =
+ 
+    87.634731  
+ 
+Static resistance = 87.63 ohm 
+ 
+ 
+ dyn_res  =
+ 
+    11.327114  
+ 
+Dynamic resistance = 11.33 ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+ 
+ We know that         I = I0*(exp(V/n*Vt)-1)   
+ 
+ 
+ Dividing on both sides by area A, one obtains   
+ 
+ 
+              I/A = I0/A*(exp(V/n*Vt)-1)   
+ 
+ 
+ or           J = J0*(exp(V/n*Vt)-1)   
+ 
+ n  =
+ 
+    1.  
+ 
+ T  =
+ 
+    300.  
+ 
+ Vt  =
+ 
+    0.0258621  
+ 
+ J  =
+ 
+    100000.  
+ 
+ J0  =
+ 
+    0.25  
+ 
+ V  =
+ 
+    0.3336005  
+ 
+
+ The voltage applied across the junction =0.3336 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.11/Ex3_11.sce #
+ 
+ 
+ 
+ Vmin  =
+ 
+    0.7  
+ 
+ V  =
+ 
+    5.  
+ 
+ V_R1  =
+ 
+    4.3  
+ 
+ Imin  =
+ 
+    0.001  
+ 
+ R1  =
+ 
+    4300.  
+ 
+ 
+Maximum value of R =4.3 kohm 
+  
+ 
+ I  =
+ 
+    0.005  
+ 
+ V_R2  =
+ 
+    4.3  
+ 
+ R2  =
+ 
+    860.  
+ 
+
+
+ Minimum value of R =860 ohm  
+ 
+ Vb  =
+ 
+    6.  
+ 
+ Vb_res  =
+ 
+    5.3  
+ 
+ P  =
+ 
+    0.0265  
+ 
+
+
+ Power dissipated across R =26.5 W 
+ 
+ P_diode  =
+ 
+    0.0035  
+ 
+
+ power dissipated across diode =3.5 mW 
+ R  =
+ 
+    1000.  
+ 
+ V_R  =
+ 
+    1.  
+ 
+ Vb  =
+ 
+    1.7  
+ 
+
+
+ The minimum voltage across diode = 1.7 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ Vz  =
+ 
+    9.  
+ 
+ per  =
+ 
+    0.1  
+ 
+ Tol  =
+ 
+    0.9  
+ 
+Tolerance =0.9 V 
+ tol_high  =
+ 
+    9.9  
+ 
+ tol_low  =
+ 
+    8.1  
+ 
+
+ Range of breakdown voltage= 8.1 to 9.9 V 
+ 
+ T1  =
+ 
+    25.  
+ 
+ T2  =
+ 
+    75.  
+ 
+ diff_temp  =
+ 
+    50.  
+ 
+ Vzener  =
+ 
+    0.002  
+ 
+ fall_break_vol  =
+ 
+    0.1  
+ 
+ new_break_vol  =
+ 
+    8.9  
+ 
+
+ New break don voltage =8.9 V 
+ 
+ range_high  =
+ 
+    8.  
+ 
+ range_low  =
+ 
+    9.8  
+ 
+
+ Range of breakdown voltage= 8.0 to 9.8 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ C  =
+ 
+    20.  
+ 
+ V  =
+ 
+    5.  
+ 
+ K  =
+ 
+    44.72136  
+ 
+ C_V1  =
+ 
+    18.257419  
+ 
+Capacitance for 1V increase =18.3 pF 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.18/Ex3_18.sce #
+ 
+ 
+ 
+(a) The two diodes are connected in series and hence the 
+ current I flows in D1 and D2. Obviously,it is in forward 
+ direction through D2 and in reverse direction through D1.
+ Since D2 diode is forward biased,V2 will be very small and
+  hence V1=(5-V2) will be very much larger than Vt=0.026V.
+ This means the current will be equal to reverse saturation 
+  current I0. Now,we consider diode D2.We have  
+
+ 
+ 
+       I = I0*(exp(V/Vt)-1)   
+ 
+ 
+ Putting I=I0 and V=V2, we have   
+ 
+ 
+       I0 = I0*(exp(V2/Vt)-1)   
+ 
+ 
+       exp(V2/Vt)-1 = 1   
+ 
+ Vt  =
+ 
+    0.026  
+ 
+ V2  =
+ 
+    0.0180218  
+ 
+ V  =
+ 
+    5.  
+ 
+ V1  =
+ 
+    4.9819782  
+ 
+
+ V2 = 0.018 V 
+
+ V2 = 4.982 V
+  
+ 
+ Effect of temperature : V2=Vt*ln(2) = kT*ln(2)   
+ 
+ 
+ So V2 will increase with temperature    
+ 
+ 
+ (b) If Vz is 4.9V then D1 will breakdown. This means V1=4.9V   
+ 
+ Vz  =
+ 
+    4.9  
+ 
+ V2  =
+ 
+    0.1  
+ 
+ 
+ Now using I0=5*10^(-6)A and V2=0.1V,one obtains   
+ 
+ I0  =
+ 
+    0.000005  
+ 
+ I  =
+ 
+    0.0002291  
+ 
+
+ Current I=229 microA 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.19/Ex3_19.sce #
+ 
+ 
+ 
+ 
+ We have Iv=40*iD   
+ 
+ Iv  =
+ 
+    1.  
+ 
+ iD  =
+ 
+    25.  
+ 
+LED current = 25 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.20/Ex3_20.sce #
+ 
+ 
+ 
+ 
+ (a) At Id=10mA,   
+ 
+ V  =
+ 
+    25.  
+ 
+ Id  =
+ 
+    10.  
+ 
+ Rac  =
+ 
+    2.5  
+ 
+ 
+
+ AC resistance Rac=2.5 ohm 
+ 
+ Id  =
+ 
+    20.  
+ 
+ Rac  =
+ 
+    1.25  
+ 
+ 
+
+ AC resistance Rac=1.25 ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.21/Ex3_21.sce #
+ 
+ 
+ 
+ 
+ We know that   
+ 
+ 
+   r_ac = dV/dI - 1/(dI/dV) = 1/((I0/KT)exp(V/KT))   
+ 
+ k  =
+ 
+    0.0000862  
+ 
+ T  =
+ 
+    300.  
+ 
+ kT  =
+ 
+    0.02586  
+ 
+ I0  =
+ 
+    0.000001  
+ 
+ V  =
+ 
+    0.15  
+ 
+ r_ac  =
+ 
+    78.256243  
+ 
+ 
+ 
+
+ The AC resistance = 78.26 ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ Vrms  =
+ 
+    110.  
+ 
+ Vm  =
+ 
+    155.58699  
+ 
+Peak source voltage=155.6 V 
+ 
+ 
+ (a) With an ideal diode    
+ 
+ Vpout  =
+ 
+    155.58699  
+ 
+
+ Peak output voltage=155.6 V 
+ Vdc  =
+ 
+    49.524876  
+ 
+
+ DC load voltage=49.52 V 
+ 
+ 
+ 
+ (b) With second approximation   
+ 
+ Vpin  =
+ 
+    155.58699  
+ 
+ Vpout  =
+ 
+    154.88699  
+ 
+
+ Peak output voltage=154.9 V 
+ Vdc  =
+ 
+    49.302059  
+ 
+
+ DC load voltage=49.3 V 
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+       VR = (V_NoLoad - V_FullLoad)/V_FullLoad*100%   
+ 
+ 
+ (a) VR = 0%   
+ 
+ V_FullLoad  =
+ 
+    20.  
+ 
+ V_NoLoad  =
+ 
+    20.  
+ 
+
+ V_FullLoad = V_NoLoad= 20 V 
+ 
+ 
+ 
+ (b) VR = 100%   
+ 
+ VR  =
+ 
+    100.  
+ 
+ V_NoLoad  =
+ 
+    40.  
+ 
+
+ V_NoLoad= 40 V 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+     Ratio of rectification or efficiency of halfwave rectifier,   
+ 
+ 
+    n = 0.406 = DC power deliverd to the load/AC input powerfrom transformer secondary    
+ 
+ DC_power  =
+ 
+    500.  
+ 
+ n  =
+ 
+    0.406  
+ 
+ AC_in_power  =
+ 
+    1231.5271  
+ 
+
+ AC input powerfrom transformer secondary =1232 Watt 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ Rl  =
+ 
+    3500.  
+ 
+ rF  =
+ 
+    800.  
+ 
+ Vm  =
+ 
+    240.  
+ 
+ 
+ (1)(a) Peak value of current flowing   
+ 
+ Im  =
+ 
+    0.0558140  
+ 
+       Im = 55.81 mA
+  
+ 
+ 
+ (b) Average or DC current flowing   
+ 
+ Idc  =
+ 
+    0.0177661  
+ 
+       Idc = 17.77 mA
+  
+ 
+ 
+ (c) R.M.S value of current flowing   
+ 
+ Irms  =
+ 
+    0.0279070  
+ 
+       Irms = 27.91 mA
+  
+ 
+ 
+ (2) DC output power   
+ 
+ Pdc  =
+ 
+    1.1047242  
+ 
+       Pdc = 1.1 Watt
+  
+ 
+ 
+ (3) AC input power   
+ 
+ Pac  =
+ 
+    3.3488372  
+ 
+       Pac = 3.35 Watt
+  
+ 
+ 
+ (4)Efficiency of rectifier   
+ 
+ n  =
+ 
+    32.988292  
+ 
+       n = 32.99 %
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ Vr  =
+ 
+    0.7  
+ 
+ Rl  =
+ 
+    820.  
+ 
+ Vin  =
+ 
+    40.  
+ 
+ 
+ 
+ (1)  Peak output volatge: Current flows through load only when two diodes conduct. While conducting, there is voltage drop  
+      across the diode.                                                                                                      
+ 
+ V_drop_2  =
+ 
+    1.4  
+ 
+ Vm  =
+ 
+    38.6  
+ 
+
+       Vm = 38.60 V
+  
+ 
+ 
+ (2) Average output current   
+ 
+ Idc  =
+ 
+    0.0299677  
+ 
+       Idc = 30 mA
+  
+ 
+ 
+ (3) Diode dissipation   
+ 
+ DD  =
+ 
+    0.0209774  
+ 
+        = 21 mW
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ Vr  =
+ 
+    0.7  
+ 
+ Vi  =
+ 
+    120.  
+ 
+ 
+ RMS value of secondary voltage   
+ 
+ V_sec  =
+ 
+    24.  
+ 
+        = 24 V
+  
+ 
+ 
+ Peak secondary voltage   
+ 
+ Vm  =
+ 
+    33.941125  
+ 
+        = 34 V
+  
+ 
+ 
+ Peak inverse voltage of diode   
+ 
+ Vinv  =
+ 
+  - 33.941125  
+ 
+        = -34 V
+  
+ 
+
+ Peak load voltage =34 V
+  
+ 
+ 
+ DC load voltage   
+ 
+ Vdc  =
+ 
+    10.803796  
+ 
+        = 10.8 V
+  
+ 
+ 
+ Assuming second approximation   
+ 
+ 
+ Vm' = Vm - Vr    
+ 
+ 
+ Peak load voltage   
+ 
+ Vm_dash  =
+ 
+    33.241125  
+ 
+        = 33.2 V
+  
+ 
+ 
+ DC load voltage   
+ 
+ Vdc  =
+ 
+    10.580979  
+ 
+        = 10.6 V
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ Vi  =
+ 
+    120.  
+ 
+ Rl  =
+ 
+    5000.  
+ 
+ 
+ 
+ Secondary RMS voltage   
+ 
+ Vrms  =
+ 
+    24.  
+ 
+        = 24 V
+  
+ 
+ 
+ Secondary pek voltage   
+ 
+ Vm  =
+ 
+    33.941125  
+ 
+        = 34 V
+  
+ 
+ 
+   Half of the secondary voltage is input to the half section.   
+ 
+ 
+ So input to the half section   
+ 
+ in  =
+ 
+    16.970563  
+ 
+        = 17 V
+  
+ 
+ 
+ Peak voltage across load   
+ 
+        = 17 V
+  
+ 
+ 
+     DC voltage across load = 17V. Since the capacitor gets changed up to peak value,   
+ 
+ 
+ DC load current   
+ 
+ Vdc  =
+ 
+    16.970563  
+ 
+ Idc  =
+ 
+    0.0033941  
+ 
+        = 3.4 mA
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ f  =
+ 
+    50.  
+ 
+ C  =
+ 
+    0.0001  
+ 
+ Rl  =
+ 
+    2000.  
+ 
+ Vrms  =
+ 
+    40.  
+ 
+ 
+ 
+ (a) Ripple factor for a full wave rectifier   
+ 
+ r  =
+ 
+    0.0144338  
+ 
+        = 0.014 
+  
+ 
+ 
+ (b) DC output voltage   
+ 
+ Vm  =
+ 
+    56.568542  
+ 
+ Vdc  =
+ 
+    55.188822  
+ 
+        = 55.2 V 
+  
+ 
+ 
+ (c) Percentage voltage regulation   
+ 
+ per  =
+ 
+    2.5  
+ 
+        = 2.5 %
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ Vrms  =
+ 
+    300.  
+ 
+ f  =
+ 
+    60.  
+ 
+ Idc  =
+ 
+    0.2  
+ 
+ C  =
+ 
+    10.  
+ 
+ 
+ Vm  =
+ 
+    424.26407  
+ 
+ Vdc  =
+ 
+    270.09489  
+ 
+ 
+ 
+ Connected load   
+ 
+ Rl  =
+ 
+    1350.4745  
+ 
+       Rl = 1350 ohm = (955.6)*sqrt(2) ohm
+ 
+ 
+ 
+ Ripple factor in case of shunt capacitor filter    
+ 
+ 
+           =2410/C*Rl   
+ 
+ r  =
+ 
+    0.1784558  
+ 
+
+           = 0.18 
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ f  =
+ 
+    60.  
+ 
+ C  =
+ 
+    0.0001  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ 
+ 
+ Since the transformer is center tapped ,the rms value of voltage across half the secondary coil   
+ 
+ Vct  =
+ 
+    12.6  
+ 
+ Vrms  =
+ 
+    6.3  
+ 
+ 
+ 
+ Peak voltage   
+ 
+ Vm  =
+ 
+    8.9095454  
+ 
+        = 8.91 V
+  
+ 
+ 
+ (b) DC output voltage   
+ 
+ Vdc  =
+ 
+    8.5531636  
+ 
+        = 8.55 V 
+  
+ 
+ 
+ Ripple factor in case of capacitor filter    
+ 
+ 
+           =2410/C*Rl   
+ 
+ r  =
+ 
+    2.41  
+ 
+
+           = 2.4 %
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ Vdc  =
+ 
+    9.  
+ 
+ Idc  =
+ 
+    0.1  
+ 
+ 
+ Ripple factor with an L-C filter,r=(0.83/LC)   
+ 
+ 
+                where L-> Henry,C->microFarad   
+ 
+ gamm  =
+ 
+    0.02  
+ 
+ LC  =
+ 
+    41.5  
+ 
+       LC = 41.5 
+  
+ 
+ 
+ LOad connected to the filter,   
+ 
+ RL  =
+ 
+    90.  
+ 
+      RL  = 90 ohm
+  
+ 
+ 
+ Critical value of inductor,   
+ 
+ Lk  =
+ 
+    0.1  
+ 
+      Lk  = 0.1 
+  
+ 
+ 
+ Capacitance   
+ 
+ LC  =
+ 
+    42.  
+ 
+ C  =
+ 
+    420.  
+ 
+      C  = 420 uF
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ 
+ V  =
+ 
+    20.  
+ 
+ Vz  =
+ 
+    12.  
+ 
+ Vr  =
+ 
+    8.  
+ 
+ Rs  =
+ 
+    330.  
+ 
+ 
+ Voltage across resistor    
+ 
+        = 8 V 
+  
+ 
+ 
+ Current through series resistor   
+ 
+ Iser  =
+ 
+    0.0242424  
+ 
+        = 24.2 mA 
+  
+ 
+ 
+ Since Zener diode is in series with resistor, current through it is equal to current flowing through resistor,i.e 24.2mA    
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.14/Ex4_14.sce #
+ 
+ 
+ 
+ RL  =
+ 
+    1000.  
+ 
+ Rs  =
+ 
+    270.  
+ 
+ Vs  =
+ 
+    18.  
+ 
+ vz  =
+ 
+    10.  
+ 
+ 
+ 
+ Applying Thevenin's theorem, Thevenin voltage across the zener diode   
+ 
+ Vth  =
+ 
+    14.173228  
+ 
+
+      Vth = 14.2 V 
+  
+ 
+ 
+ Thus Vth is greater than Vz(zener voltage),i.e 14.2 >10. So Zener diode is operating in the breakdown voltage.   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH4/EX4.15/Ex4_15.sce #
+ 
+ 
+ 
+ IL1  =
+ 
+    0.01  
+ 
+ IL2  =
+ 
+    0.02  
+ 
+ Vin  =
+ 
+    20.  
+ 
+ Izt  =
+ 
+    0.006  
+ 
+ Vz  =
+ 
+    15.  
+ 
+ 
+ 
+ Average load current   
+ 
+ IL  =
+ 
+    0.015  
+ 
+
+      IL = 15 mA 
+  
+ 
+ 
+ Total current entering the circuit   
+ 
+ Is  =
+ 
+    0.021  
+ 
+
+      Is = 21 mA 
+  
+ 
+ 
+ Series resistor   
+ 
+ Rs  =
+ 
+    238.09524  
+ 
+
+      Rs = 238 ohm 
+  
+ 
+ 
+ Power rating of resistor   
+ 
+ Vs  =
+ 
+    5.  
+ 
+ P  =
+ 
+    0.105  
+ 
+
+      P = 0.1 W 
+  
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ alpha_dc  =
+ 
+    0.97  
+ 
+ ICBO  =
+ 
+    0.00001  
+ 
+ Ib  =
+ 
+    0.00005  
+ 
+ 
+ Ic  =
+ 
+    0.00195  
+ 
+Collector current = 1.95 mA 
+ 
+ 
+ Ie  =
+ 
+    0.002  
+ 
+ Emitter current = 2 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ Ic  =
+ 
+    0.005255  
+ 
+ Ib  =
+ 
+    0.0001  
+ 
+ ICBO  =
+ 
+    0.000005  
+ 
+ 
+ alpha_dc  =
+ 
+    0.9803922  
+ 
+Common current gain factor alpha_dc = 0.98 
+ 
+ Beta  =
+ 
+    50.  
+ 
+
+ Dc emitter current gain factor beta = 50.00 
+ 
+ Ie  =
+ 
+    0.005355  
+ 
+
+ Emitter current = 5.355 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ Ic  =
+ 
+    0.012427  
+ 
+ Ib  =
+ 
+    0.0002  
+ 
+ ICBO  =
+ 
+    0.000007  
+ 
+ 
+ Beta  =
+ 
+    60.  
+ 
+
+ Dc emitter current gain factor beta = 60 
+ 
+ Ie  =
+ 
+    0.012627  
+ 
+
+ Emitter current = 12.6 mA 
+ 
+ alpha_dc  =
+ 
+    0.9836066  
+ 
+
+ Common current gain factor alpha_dc = 0.98 
+ 
+ Ib  =
+ 
+    0.00015  
+ 
+ Ic  =
+ 
+    0.009427  
+ 
+
+ Collector current = 9.427 mA 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ Ta  =
+ 
+    25.  
+ 
+ tetha  =
+ 
+    10.  
+ 
+ Pd  =
+ 
+    2.  
+ 
+ 
+ Tj  =
+ 
+    45.  
+ 
+ 
+ Collector base junction transistor temperature = 45 degree celcius 
+ 
+ 
+ 
+    tetha=10 degree celcius/watt means for every watt consumed its temperature will rise by 10 degree celcius   
+ 
+ 
+
+ While using a transistor,we must keep in mind that it must 
+ not reach a condition called thermal runaway. The heat 
+ released at collector base junction must not exceed the rate 
+ at which heat can dissipated under steady state. For this,
+  
+ 
+ 
+ (del_Pd/del_Tj) < (1/tetha)   
+ 
+ 
+ 
+ This is the relation for thermal stability.   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+Draw a vertical line from temperature axis at 50 degree 
+  celcius to cut the 71 degree celcius line. Join the point of 
+ intersection P through a horizontal line at Y-axis. The point 
+ where it intersects Y-axis gives the value of permissible 
+ dissipation equal to 45% of maximum rating. 
+ 
+ 
+ per  =
+ 
+    0.45  
+ 
+ max_diss  =
+ 
+    165.  
+ 
+ diss_cap  =
+ 
+    74.25  
+ 
+ 
+ The dissipation capability at 50 degree celcius   
+ 
+ 
+                            = 74 mW 
+  
+ 
+ 
+      Its value ranges from (0.2) degree celcius/watt to (1000) degree celcius/watt for a transistor  that has an efficient  
+      heat sink                                                                                                              
+ 
+ 
+ 
+               Tj = Ta + tetha*Pd   
+ 
+ 
+ 
+   The above equation reflects that collector-junction temperature Tj of the transistor will be higher than ambient temperat 
+      ure Ta by an amount equal to the product of tetha and Pd.                                                              
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ Rb  =
+ 
+    200000.  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rl  =
+ 
+    2000.  
+ 
+ Beta  =
+ 
+    50.  
+ 
+ 
+ 
+ If Beta=50   
+ 
+ Ib  =
+ 
+    0.0000465  
+ 
+ Ic  =
+ 
+    0.002325  
+ 
+ Vce  =
+ 
+    5.35  
+ 
+
+ The operating point coordinates are [5.35 V, 2.33 mA]
+  
+ 
+ 
+ If Beta=60   
+ 
+ Beta2  =
+ 
+    60.  
+ 
+ Ic2  =
+ 
+    0.00279  
+ 
+ Vce2  =
+ 
+    4.42  
+ 
+
+ The operating point coordinates are [4.42 V, 2.79 mA]
+  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ Rb  =
+ 
+    330000.  
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rl  =
+ 
+    3300.  
+ 
+ Beta  =
+ 
+    60.  
+ 
+ 
+ Ib  =
+ 
+    0.0000433  
+ 
+ Ic  =
+ 
+    0.0026  
+ 
+ Vce  =
+ 
+    6.277  
+ 
+
+ The collector emitter voltage = 6.28 V
+  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ Beta  =
+ 
+    250.  
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ R1  =
+ 
+    2000.  
+ 
+ R2  =
+ 
+    470.  
+ 
+ Vce  =
+ 
+    0.7  
+ 
+ Re  =
+ 
+    220.  
+ 
+ 
+ Vb  =
+ 
+    2.854251  
+ 
+ 
+ (1) Base voltage Vb   
+ 
+            = 2.85 V 
+ Ve  =
+ 
+    2.154251  
+ 
+ 
+ Emitter voltage Vb   
+ 
+            = 2.15 V 
+ Ie  =
+ 
+    0.0097921  
+ 
+ 
+ Emitter current    
+ 
+          Ie  = 0.979*10^-2 A 
+ 
+ For small signal operation, ie <= 0.1*Ie   
+ 
+ ie  =
+ 
+    0.0009792  
+ 
+            =0.979 mA 
+ 
+ 
+ 
+ (2) AC emitter diode resistance =25mV/ie   
+ 
+ Re_ac  =
+ 
+    25.530915  
+ 
+                             =26 ohm 
+ 
+ 
+ 
+ (3) Z'vm = Beta*r'e   
+ 
+ Re_ac  =
+ 
+    26.  
+ 
+ Zvm  =
+ 
+    6500.  
+ 
+          =6500 ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ Beta  =
+ 
+    100.  
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ R1  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    2200.  
+ 
+ Vce  =
+ 
+    0.7  
+ 
+ Re  =
+ 
+    2000.  
+ 
+ Rs  =
+ 
+    600.  
+ 
+ 
+ Vb  =
+ 
+    1.8032787  
+ 
+ 
+ Base voltage Vb   
+ 
+            = 1.8 V 
+ Ve  =
+ 
+    1.1032787  
+ 
+ 
+ Emitter voltage Vb   
+ 
+            = 1.1 V 
+ Ie  =
+ 
+    0.0005516  
+ 
+ 
+ Emitter current   
+ 
+            = 0.55 mA 
+ 
+ AC emitter diode resistance =25mV/ie   
+ 
+ re  =
+ 
+    45.319465  
+ 
+                             =45 ohm 
+ 
+ rc  =
+ 
+    2647.0588  
+ 
+ A  =
+ 
+    58.408872  
+ 
+ 
+ Voltage gain A   
+ 
+    `        = 58 
+ zin_1  =
+ 
+    1.8032787  
+ 
+ zin  =
+ 
+    1802.7221  
+ 
+ 
+ Zin stage   
+ 
+             = 1.803 kohm 
+ Vin  =
+ 
+    0.0007503  
+ 
+ 
+ Input voltage   
+ 
+             = 0.75 mV 
+ Vout  =
+ 
+    0.0438232  
+ 
+ 
+ Output voltage   
+ 
+             = 43.82 mV 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ hfe  =
+ 
+    50.  
+ 
+ Rl  =
+ 
+    10000.  
+ 
+ Rs  =
+ 
+    500.  
+ 
+ hie  =
+ 
+    1000.  
+ 
+ 
+ A  =
+ 
+    333.33333  
+ 
+Voltage gain = 333.3 
+ 
+ Vs  =
+ 
+    0.02  
+ 
+ Vout  =
+ 
+    6.6666667  
+ 
+Output voltage = 6.67 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ Vout  =
+ 
+    5.  
+ 
+ Vin  =
+ 
+    0.5  
+ 
+ Ri  =
+ 
+    10000.  
+ 
+ Ro  =
+ 
+    10.  
+ 
+ 
+ A  =
+ 
+    10.  
+ 
+Voltage gain =10 
+ 
+ Pi  =
+ 
+    0.000025  
+ 
+ Po  =
+ 
+    2.5  
+ 
+ Pow_gain  =
+ 
+    50.  
+ 
+ Power gain(in decibel) = 50 dB 
+
+ 
+ 
+ 
+ When Ri=Ro   
+ 
+ Ri  =
+ 
+    10.  
+ 
+ A  =
+ 
+    10.  
+ 
+ Pi  =
+ 
+    0.025  
+ 
+ Po  =
+ 
+    2.5  
+ 
+ Pow_gain  =
+ 
+    20.  
+ 
+ Power gain(in decibel) = 20 dB 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ Rl  =
+ 
+    2000.  
+ 
+ Ri  =
+ 
+    500.  
+ 
+ C  =
+ 
+    0.000002  
+ 
+ 
+ f  =
+ 
+    31.830989  
+ 
+Lowest cut-off frequency = 32 Hz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ Rl  =
+ 
+    20000.  
+ 
+ Ri  =
+ 
+    5000.  
+ 
+ f  =
+ 
+    33.  
+ 
+ f2  =
+ 
+    33000.  
+ 
+ 
+ C  =
+ 
+    0.0000002  
+ 
+Coupling Capacitor = 0.2 uF 
+ 
+ 
+ Req  =
+ 
+    4000.  
+ 
+ Cs  =
+ 
+    1.206D-09  
+ 
+ Coupling Capacitor = 1206 uF 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ 
+ Rd  =
+ 
+    3000.  
+ 
+ Rl  =
+ 
+    5000.  
+ 
+ Req  =
+ 
+    1875.  
+ 
+ 
+ gm  =
+ 
+    0.0045  
+ 
+ Av  =
+ 
+  - 8.4375  
+ 
+Voltage Amplification = -8.44 
+ 
+ Vi  =
+ 
+    0.1  
+ 
+ Vout  =
+ 
+    0.84375  
+ 
+ Output voltage = 0.8 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ A  =
+ 
+    120.  
+ 
+ Vi  =
+ 
+    0.05  
+ 
+ Beta  =
+ 
+    0.1  
+ 
+ 
+ Vo  =
+ 
+    6.  
+ 
+Input signal = 6.00 V 
+ 
+ 
+ Vs  =
+ 
+  - 0.55  
+ 
+ 
+ Input signal = 0.55 V 
+ 
+ 
+ vg  =
+ 
+    9.2307692  
+ 
+ Gain after feedback = 9.2 
+ 
+ 
+ fb  =
+ 
+  - 22.278867  
+ 
+ Feedback (db)= -22.279 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ ff  =
+ 
+    4.  
+ 
+ BW  =
+ 
+    6000000.  
+ 
+ 
+ BW_fb  =
+ 
+    30000000.  
+ 
+Bandwidth with feedback factor = 30 MHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ openA  =
+ 
+    60000.  
+ 
+ A  =
+ 
+    10000.  
+ 
+ Beta  =
+ 
+    0.0005  
+ 
+Negative Feedback factor = 0.0005 
+ 
+ BA  =
+ 
+    30.  
+ 
+ Beta*A = 30 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ Df  =
+ 
+    0.005  
+ 
+ D  =
+ 
+    0.08  
+ 
+ 
+ BA  =
+ 
+    15.  
+ 
+ A  =
+ 
+    200.  
+ 
+ Beta  =
+ 
+    0.075  
+ 
+Feedback factor = 0.075 
+ 
+ Af  =
+ 
+    12.5  
+ 
+Gain after negative feedback = 12.5 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ A  =
+ 
+    100.  
+ 
+ per  =
+ 
+    0.1  
+ 
+ BA  =
+ 
+    10.  
+ 
+ Af  =
+ 
+    9.0909091  
+ 
+Decrement in distortion,D-Df = D-(D/(1+Beta*A)) 
+ 
+                              = 9.1
+  
+ per_dis  =
+ 
+    90.909091  
+ 
+Percentage change in distortion = 91 % 
+ 
+ red  =
+ 
+    9.0909091  
+ 
+ Therefore reduction is = 9 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ A  =
+ 
+    50.  
+ 
+ per  =
+ 
+    0.1  
+ 
+ BA  =
+ 
+    5.  
+ 
+ Af  =
+ 
+    8.3333333  
+ 
+(1) Voltage gain after negative feedback 
+ 
+                              = 8.33
+  
+ 
+ A  =
+ 
+    50.  
+ 
+ per  =
+ 
+    0.05  
+ 
+ BA  =
+ 
+    2.5  
+ 
+ Af1  =
+ 
+    14.285714  
+ 
+(2) Voltage gain after negative feedback 
+ 
+                              = 14.3
+  
+ 
+ So the new gain is not double the previous case   
+ 
+ 
+     The difference between expected value and actual value of gain obtained is   
+ 
+ diff_value  =
+ 
+    2.3809524  
+ 
+                             = 2.38 
+ 
+
+
+(3) To have the gain double of case(1) i.e 16.66,let the 
+ feedback introduced be Beta(assuming negative feedback) 
+ Af  =
+ 
+    16.66  
+ 
+ A  =
+ 
+    50.  
+ 
+ Beta  =
+ 
+    0.0400240  
+ 
+
+                  Beta = 0.04 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ Aol  =
+ 
+    250000.  
+ 
+ fol  =
+ 
+    160.  
+ 
+ Acl  =
+ 
+    50.  
+ 
+ 
+ fcl  =
+ 
+    800000.  
+ 
+Close loop Bandwidth = 800 kHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ Aol  =
+ 
+    50000.  
+ 
+ fol  =
+ 
+    14.  
+ 
+ fcl  =
+ 
+    700014.  
+ 
+Close loop Bandwidth = 700 kHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+ Aol_Beta_1  =
+ 
+    2500.  
+ 
+ fol  =
+ 
+    20.  
+ 
+ fcl  =
+ 
+    50000.  
+ 
+Close loop Bandwidth = 50 kHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ 
+ funi  =
+ 
+    1000000.  
+ 
+ Sr  =
+ 
+    500000.  
+ 
+ Acl  =
+ 
+    10.  
+ 
+ 
+ fcl  =
+ 
+    100000.  
+ 
+(1) Close loop Bandwidth = 100 kHz 
+ 
+ 
+ Vp_max  =
+ 
+    0.7957747  
+ 
+ (2) Peak value of output = 0.796 V 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+ Aol  =
+ 
+    88.  
+ 
+ R1  =
+ 
+    2700.  
+ 
+ R2  =
+ 
+    68000.  
+ 
+ 
+ Beta  =
+ 
+    0.0381895  
+ 
+Feedback fraction = 0.038 
+ 
+ 
+ Acl  =
+ 
+    26.185185  
+ 
+ Ideal d loop gain = 26.19 
+ 
+ 
+ Aol  =
+ 
+    25118.864  
+ 
+ Acl  =
+ 
+    26.157917  
+ 
+ Exact d loop voltage gain = 26.16 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ 
+ Aol  =
+ 
+    20000.  
+ 
+ R1  =
+ 
+    100.  
+ 
+ R2  =
+ 
+    7500.  
+ 
+ Rin  =
+ 
+    3000000.  
+ 
+ Rcm  =
+ 
+    5.000D+08  
+ 
+ 
+ Beta  =
+ 
+    0.0131579  
+ 
+Feedback fraction = 1\76 = 0.01316 
+ 
+ 
+ Req  =
+ 
+    2982107.4  
+ 
+ Zcl  =
+ 
+    7.877D+08  
+ 
+ Closed loop input impedance = 788 Mohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.7/Ex9_7.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    1.8  
+ 
+ R2  =
+ 
+    1500.  
+ 
+ Iin  =
+ 
+    0.001  
+ 
+ 
+ Ai  =
+ 
+    834.33333  
+ 
+Current gain = 834 
+ 
+ 
+ Il  =
+ 
+    0.8343333  
+ 
+ Output current = 834 mA pp 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH9/EX9.8/Ex9_8.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    2.7  
+ 
+ R2  =
+ 
+    1.  
+ 
+ Vin  =
+ 
+    0.5  
+ 
+ 
+ Io  =
+ 
+    0.1851852  
+ 
+(1) Output current = 185 mA 
+ 
+ 
+ P  =
+ 
+    0.0342936  
+ 
+ (2) Load power = 34.3 mW 
+ 
+ 
+ R2  =
+ 
+    2.  
+ 
+ P  =
+ 
+    0.0685871  
+ 
+ (2) Load power = 68.6 mW 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ Rc  =
+ 
+    1000000.  
+ 
+ Re  =
+ 
+    2000000.  
+ 
+ Vin  =
+ 
+    0.001  
+ 
+ 
+ Acm  =
+ 
+    0.5  
+ 
+Common moce voltage gain = 0.5 
+ 
+ 
+ Vo  =
+ 
+    0.0005  
+ 
+ Output voltage = 0.5 mV 
+ 
+ 
+ Thus a differential amplifier in common mode attenuates the input signal rather than amplifying it   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ A  =
+ 
+    150.  
+ 
+ Acm  =
+ 
+    0.5  
+ 
+ Vin  =
+ 
+    0.001  
+ 
+ 
+ Vo  =
+ 
+    0.15  
+ 
+Amplified output voltage = 0.15 V 
+ 
+ 
+ Vo  =
+ 
+    0.0005  
+ 
+ Attenuated output voltage = 0.5 mV 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    10000.  
+ 
+ Rf  =
+ 
+    50000.  
+ 
+ Vin  =
+ 
+    0.01  
+ 
+ Ro  =
+ 
+    5000.  
+ 
+ 
+ 
+ A' = Vo/Vi = (-1)*Rf/R1*(1+1/A*(1+Rf/R1))^-1    
+ 
+ A  =
+ 
+    5000.  
+ 
+ Vo  =
+ 
+    0.0499401  
+ 
+
+ When gain A=5000 
+ 
+ Amplified output voltage = 49.9 mV 
+ 
+ 
+ A  =
+ 
+    10000.  
+ 
+ Vo  =
+ 
+    0.0499700  
+ 
+
+ When gain A=10000 
+ 
+ Amplified output voltage = 49.97 mV 
+ 
+ 
+ A  =
+ 
+    5000.  
+ 
+ Rout  =
+ 
+    4.995005  
+ 
+ 
+ Ro' = 4.995 ohm 
+ 
+ 
+ A  =
+ 
+    10000.  
+ 
+ Rout  =
+ 
+    2.4987506  
+ 
+ 
+ Ro' = 2.499 ohm 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    1500.  
+ 
+ Rf  =
+ 
+    75000.  
+ 
+ Vin  =
+ 
+    0.01  
+ 
+ funi  =
+ 
+    1000000.  
+ 
+ 
+ Acl  =
+ 
+  - 50.  
+ 
+Magnitude of Closed loop gain = 50 
+ 
+ 
+ fcl  =
+ 
+    20000.  
+ 
+ Closed loop frequency = 20 kHz 
+ 
+ 
+ Vout  =
+ 
+    0.5  
+ 
+ Output voltage = 500.0 mV pp 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    2000.  
+ 
+ Rf  =
+ 
+    0.  
+ 
+ 
+ 
+ (1) When resistor 100 k-ohm is in zero position   
+ 
+ A  =
+ 
+    1.  
+ 
+ Gain = 1 
+ 
+ 
+ Rf  =
+ 
+    100000.  
+ 
+ 
+ (1) When resistor 100 k-ohm is in maximum position   
+ 
+ A  =
+ 
+    51.  
+ 
+ Gain = 51 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.6/Ex10_6.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    50000.  
+ 
+ Rf  =
+ 
+    300000.  
+ 
+ Vin  =
+ 
+    1.  
+ 
+ 
+ 
+ In the inverting mode,voltage gain is    
+ 
+ 
+ A' = Vo/Vi = (-1)*Rf/R1*(1+1/A*(1+Rf/R1))^-1    
+ 
+ A  =
+ 
+    10000.  
+ 
+ Vo  =
+ 
+  - 5.9958029  
+ 
+ 
+ Amplified output voltage = -5.996 V 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.7/Ex10_7.sce #
+ 
+ 
+ 
+ Sr  =
+ 
+    15000000.  
+ 
+ Vp  =
+ 
+    10.  
+ 
+ 
+ fmax  =
+ 
+    238732.41  
+ 
+Power Bandwidth = 239 kHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH10/EX10.8/Ex10_8.sce #
+ 
+ 
+ 
+ A  =
+ 
+    5000.  
+ 
+ Ri  =
+ 
+    10000.  
+ 
+ Ro  =
+ 
+    100.  
+ 
+ Rf  =
+ 
+    0.  
+ 
+ 
+ Rin  =
+ 
+    50000000.  
+ 
+Input resistance of buffer circuit = 5*1e7 ohm 
+ 
+ 
+ Rout  =
+ 
+    0.02  
+ 
+ Output resistance of buffer circuit = 0.02 ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ R1  =
+ 
+    2000.  
+ 
+ R2  =
+ 
+    470.  
+ 
+ Rc  =
+ 
+    680.  
+ 
+ Rl  =
+ 
+    2700.  
+ 
+ Re  =
+ 
+    220.  
+ 
+ 
+ Idc  =
+ 
+    0.0166667  
+ 
+(1) Idc_sat = 16.7 mA 
+ 
+ 
+ DCload  =
+ 
+    680.  
+ 
+ (2) DC load = 680 ohm 
+ 
+ 
+ ACload  =
+ 
+    543.19527  
+ 
+ (3) AC load = 543 ohm 
+ 
+ 
+ Vb  =
+ 
+    2.854251  
+ 
+ Icq  =
+ 
+    0.0097921  
+ 
+(4) Icq = 9.8 mA 
+ 
+ 
+ 
+ Vc  =
+ 
+    8.341406  
+ 
+ Vceq  =
+ 
+    6.187155  
+ 
+(5) Vceq = 6.2 V 
+ 
+ 
+ 
+ Pac  =
+ 
+    0.0104167  
+ 
+ Pdc  =
+ 
+    0.25  
+ 
+ n  =
+ 
+    4.1666667  
+ 
+ Efiiciency = 4 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+ Po  =
+ 
+    4.  
+ 
+ n  =
+ 
+    0.8  
+ 
+ Vcc  =
+ 
+    30.  
+ 
+ 
+ Pout  =
+ 
+    5.  
+ 
+Effective power to be transfered = 5 W
+ 
+ 
+ 
+ Impedance seen when "looking into" the whole winding of centertapped transformer    
+ 
+ Vp  =
+ 
+    30.  
+ 
+ Rload  =
+ 
+    90.  
+ 
+ Rload_4  =
+ 
+    360.  
+ 
+
+ Effective load = 360 ohm 
+ 
+ 
+ 
+ Transformer specification Po=4W,RL=16ohm,RL"=360ohm   
+ 
+ 
+ Vce  =
+ 
+    60.  
+ 
+
+ Maximum transistor voltage = 60 V
+ 
+ 
+ Ip  =
+ 
+    0.3333333  
+ 
+ Ic  =
+ 
+    0.3333333  
+ 
+
+ Maximum transistor current = 333 mA 
+ 
+ 
+
+ Transformer specification Vce=60V,Ic=333 mA 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ L  =
+ 
+    0.000002  
+ 
+ C  =
+ 
+    2.200D-10  
+ 
+ 
+ f0  =
+ 
+    7587414.2  
+ 
+Resonant frequency = 7.6 MHz 
+ 
+ 
+ Q  =
+ 
+    125.  
+ 
+ BW  =
+ 
+    60699.314  
+ 
+ Bandwidth = 61 kHz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ Rc  =
+ 
+    3600.  
+ 
+ Re  =
+ 
+    680.  
+ 
+ Ri  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    2.2  
+ 
+ R1  =
+ 
+    10.  
+ 
+ 
+ Vb  =
+ 
+    1.8032787  
+ 
+(1) Bias voltage = 1.8 V 
+ 
+ 
+ Ie  =
+ 
+    0.0016225  
+ 
+ Emitter current = 1.62 mA
+ 
+ 
+ Vc  =
+ 
+    4.1591128  
+ 
+ DC collector voltage = 4.16 V
+ 
+ 
+ Vceq  =
+ 
+    3.0558341  
+ 
+ DC collector to emitter voltage = 3.06 V
+ 
+ 
+ Pd  =
+ 
+    0.0049580  
+ 
+ Power dissipation = 4.96 mW
+ 
+ 
+
+(2)If collector resistance Rc is replaced by tank circuit 
+ there is no voltage drop across it. 
+ 
+ Vc  =
+ 
+    10.  
+ 
+ DC collector voltage = 10 V
+ 
+ 
+ Vceq  =
+ 
+    8.8967213  
+ 
+ DC collector to emitter voltage = 8.90 V
+ 
+ 
+ Pd  =
+ 
+    0.0144347  
+ 
+ Power dissipation = 14.43 mW
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ 
+ Vin  =
+ 
+    5.  
+ 
+ Vp  =
+ 
+    7.0710678  
+ 
+The peak value(maximum amplication) of input signal 
+ 
+                            = 7.07 V 
+ 
+ Vin_pp  =
+ 
+    14.142136  
+ 
+
+ Peak-to-peak value of input voltage 
+ 
+                            = 14.14 V 
+ 
+ Vbg  =
+ 
+  - 6.3710678  
+ 
+
+ Base to ground voltage = -6.37 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ C1  =
+ 
+    1.000D-09  
+ 
+ C2  =
+ 
+    1.000D-08  
+ 
+ L  =
+ 
+    0.000005  
+ 
+ 
+ 
+ To maintain vibrations in a colpitts oscilator,   
+ 
+ 
+               hfe >= C2/C1   
+ 
+ hfe  =
+ 
+    10.  
+ 
+                    = 10 
+ 
+ 
+So the value of hfe of transistor used must be greater 
+ than 10. 
+ 
+ 
+ Frequency of oscillations produced   
+ 
+ x  =
+ 
+    1.100D+09  
+ 
+ y  =
+ 
+    200000.  
+ 
+ f  =
+ 
+    14832397.  
+ 
+            = 1.5*1e7 Hz 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ 
+ RL  =
+ 
+    3300.  
+ 
+ R  =
+ 
+    5600.  
+ 
+ C  =
+ 
+    1.000D-09  
+ 
+ 
+ 
+ For oscillations to be maintained in a RC oscillator,    
+ 
+ hfe  =
+ 
+    74.569264  
+ 
+                    = 75 
+ 
+ 
+ 
+ Frequency of oscillations,   
+ 
+ f  =
+ 
+    9831.1244  
+ 
+ 
+ 
+            = 9831.1 Hz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ 
+ L  =
+ 
+    0.33  
+ 
+ C  =
+ 
+    6.500D-14  
+ 
+ Cm  =
+ 
+    1.000D-12  
+ 
+ R  =
+ 
+    550.  
+ 
+ 
+ 
+ Series resonant frequency, fs = 1/2*pi*sqrt(L*C)   
+ 
+ fs  =
+ 
+    1086692.  
+ 
+            = 1.09 MHz 
+ 
+ 
+ 
+ Q of the crystal = 2*pi*fs*L/R   
+ 
+ Q  =
+ 
+    4096.7325  
+ 
+            = 4097 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH12/EX12.4/Ex12_4.sce #
+ 
+ 
+ 
+ L  =
+ 
+    3.  
+ 
+ Cs  =
+ 
+    5.000D-14  
+ 
+ Cm  =
+ 
+    1.000D-11  
+ 
+ R  =
+ 
+    2000.  
+ 
+ 
+ 
+ Series resonant frequency, fs = 1/2*pi*sqrt(LC)   
+ 
+ fs  =
+ 
+    410936.3  
+ 
+            = 411 KHz 
+ 
+ 
+ 
+ The equialent parallel capacitance, Cp = Cm*Cs/Cm+Cs   
+ 
+ Cp  =
+ 
+    4.975D-14  
+ 
+            = 0.0498 pF 
+ 
+ 
+ 
+ Parallel resonant frequency, fp = 1/2*pi*sqrt(L*Cp)   
+ 
+ fp  =
+ 
+    411962.36  
+ 
+            = 412 kHz 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ 
+ 
+ Fundamental frequency of oscillations of crystal   
+ 
+ 
+               fr = K/t   
+ 
+ 
+ Let new thickness of the crystal be t'   
+ 
+ 
+           fr'/fr = t'/t = 99/100   
+ 
+ 
+ So, new frequency fr' = k/t'   
+ 
+ 
+ or            fr' = (99/100)*fr   
+ 
+ 
+ or reduction in frequency,   
+ 
+ 
+          fr-fr' = fr-(99/100)*fr   
+ 
+ 
+                  = fr(1/100)   
+ 
+ 
+  or     fr-fr'/fr = 1/100     
+ 
+ 
+  Therefore, fr' reduces by 1%   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.545  
+ 
+ n2  =
+ 
+    1.51  
+ 
+ d  =
+ 
+    0.000003  
+ 
+ 
+ a  =
+ 
+    0.0000015  
+ 
+ del  =
+ 
+    0.0226537  
+ 
+ lamda_c  =
+ 
+    0.0000013  
+ 
+Cut-off wavelength = 1.29 um 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.53  
+ 
+ n2  =
+ 
+    1.5  
+ 
+ lamda  =
+ 
+    0.000001  
+ 
+ a  =
+ 
+    0.00005  
+ 
+ 
+ 
+ V  =
+ 
+    94.717846  
+ 
+Normalised frequency = 94.72 
+ 
+ 
+ ms  =
+ 
+    4485.7352  
+ 
+Total number of guided mode = 4486 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.5  
+ 
+ n2  =
+ 
+    1.46  
+ 
+ 
+ tetha_rad  =
+ 
+    1.3393399  
+ 
+ tetha  =
+ 
+    76.738524  
+ 
+Critical angle = 76.7 degree 
+ 
+ 
+ tetha_m_rad  =
+ 
+    0.3512726  
+ 
+ tetha_m  =
+ 
+    20.12644  
+ 
+ Acceptance angle = 20.1 degree 
+ 
+ 
+ NA  =
+ 
+    0.3440930  
+ 
+ Numerical Apperture = 0.344 
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.4/Ex14_4.sce #
+ 
+ 
+ 
+ NA  =
+ 
+    0.5  
+ 
+ n1  =
+ 
+    1.54  
+ 
+ 
+ n2  =
+ 
+    1.4565713  
+ 
+(1) Cladding refractive index = 1.457 
+ 
+ 
+ RI  =
+ 
+    0.0541745  
+ 
+ (2) RI of the core = 0.0542 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.5/Ex14_5.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.5  
+ 
+ n2  =
+ 
+    1.48  
+ 
+ n  =
+ 
+    1.  
+ 
+ 
+ NA  =
+ 
+    0.2441311  
+ 
+(1) Numerical apperture = 0.24413 
+ 
+ 
+ AA_rad  =
+ 
+    0.2466236  
+ 
+ AA  =
+ 
+    14.130491  
+ 
+ (2) The maximum entrance angle i0 = 14.13 degree 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.7/Ex14_7.sce #
+ 
+ 
+ 
+ NA  =
+ 
+    0.22  
+ 
+ del  =
+ 
+    0.012  
+ 
+ 
+ n1  =
+ 
+    1.4200939  
+ 
+Core refractive index = 1.42 
+ 
+ 
+ n2  =
+ 
+    1.4030528  
+ 
+ Cladding refractive index = 1.40 
+ 
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.9/Ex14_9.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.45  
+ 
+ NA  =
+ 
+    0.16  
+ 
+ lamda  =
+ 
+    0.0000009  
+ 
+ d  =
+ 
+    0.6  
+ 
+ 
+ 
+ V  =
+ 
+    335103.22  
+ 
+Normalised frequency = 3.35*1e5 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.11/Ex14_11.sce #
+ 
+ 
+ 
+ L  =
+ 
+    0.5  
+ 
+ Pin  =
+ 
+    0.001  
+ 
+ Pout  =
+ 
+    0.00085  
+ 
+ 
+ alpha  =
+ 
+    1.4116215  
+ 
+Loss in the fiber = 1.41 dB/Km 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.12/Ex14_12.sce #
+ 
+ 
+ 
+ L  =
+ 
+    10.  
+ 
+ alpha  =
+ 
+    2.5  
+ 
+ Pin  =
+ 
+    0.0005  
+ 
+ 
+ tot_alpha  =
+ 
+  - 25.  
+ 
+ Pout  =
+ 
+    0.0000016  
+ 
+Output power = 1.58 uW 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.13/Ex14_13.sce #
+ 
+ 
+ 
+ del  =
+ 
+    0.01  
+ 
+ lamda  =
+ 
+    0.0000013  
+ 
+ n1  =
+ 
+    1.5  
+ 
+ d  =
+ 
+    0.0000066  
+ 
+ alpha  =
+ 
+    2.  
+ 
+ 
+ 
+     We have for a GRIN , maximum value of normalized frequency for single mode operation is given by   
+ 
+ 
+           V = 2.4*sqrt(1+2/alpha)   
+ 
+ V  =
+ 
+    3.3941125  
+ 
+ 
+ 
+     For maximum core radiation , we have   
+ 
+ r  =
+ 
+    0.0000033  
+ 
+              r = 3.3 um 
+ 
+ 
+ rr  =
+ 
+    0.0000066  
+ 
+
+ Maximum core diameter which permit single mode operation 
+ = 2*r = 6.6 um 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.14/Ex14_14.sce #
+ 
+ 
+ 
+ del  =
+ 
+    0.015  
+ 
+ lamda  =
+ 
+    0.0000008  
+ 
+ n1  =
+ 
+    1.48  
+ 
+ d  =
+ 
+    0.0000066  
+ 
+ V  =
+ 
+    2.4  
+ 
+ 
+ 
+ 
+     For maximum core radiation , we have   
+ 
+ r  =
+ 
+    0.0000013  
+ 
+              r = 1.3 um 
+ 
+ 
+ r  =
+ 
+    0.0000013  
+ 
+ rr  =
+ 
+    0.0000026  
+ 
+
+ Maximum core diameter which permit single mode operation 
+ = 2*r = 2.6 um 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.15/Ex14_15.sce #
+ 
+ 
+ 
+ alpha  =
+ 
+    3.5  
+ 
+ Pi  =
+ 
+    0.5  
+ 
+ L  =
+ 
+    4.  
+ 
+ 
+ 
+ The attenuation of an optical fiber is given by   
+ 
+ 
+              alpha = (10/L)*log(Pi/Po)   
+ 
+ 
+ Po  =
+ 
+    0.0199054  
+ 
+
+ Output power = 19.91 mW 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH14/EX14.16/Ex14_16.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.46  
+ 
+ r  =
+ 
+    0.0000045  
+ 
+ del  =
+ 
+    0.0025  
+ 
+ Vc  =
+ 
+    2.405  
+ 
+ 
+ 
+ We have, cut-off wavelength expression   
+ 
+ lamda  =
+ 
+    0.0000012  
+ 
+            = 1.214 um 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH15/EX15.1/Ex15_1.sce #
+ 
+ 
+ 
+ Pc  =
+ 
+    10000.  
+ 
+ m  =
+ 
+    0.3  
+ 
+ 
+ 
+ Total power = carrier power*(1+m^2/2)   
+ 
+ Pt  =
+ 
+    10450.  
+ 
+             = 10.45 kW 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH15/EX15.2/Ex15_2.sce #
+ 
+ 
+ 
+ Ic  =
+ 
+    100.  
+ 
+ m  =
+ 
+    0.8  
+ 
+ 
+ 
+ Total current = carrier current*(1+m^2/2)   
+ 
+ It  =
+ 
+    114.89125  
+ 
+               = 114.9 A 
+ 
+ 
+ change_I  =
+ 
+    14.891253  
+ 
+Therefore, increase in current due to modulation = 14.9 A 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH15/EX15.3/Ex15_3.sce #
+ 
+ 
+ 
+ Em  =
+ 
+    5.  
+ 
+ Ec  =
+ 
+    100.  
+ 
+ Fm  =
+ 
+    50.  
+ 
+ Fc  =
+ 
+    10000.  
+ 
+ 
+ 
+ (1) Modulation Factor   
+ 
+ m  =
+ 
+    0.05  
+ 
+ per_m  =
+ 
+    5.  
+ 
+                m = 5 % 
+ 
+ 
+ (2) Amplitude of each sideband = m*Ec/2   
+ 
+ Amp  =
+ 
+    2.5  
+ 
+                = 2.5 
+ 
+ USB  =
+ 
+    10050.  
+ 
+ LSB  =
+ 
+    9950.  
+ 
+ 
+ (3) Frequenc of sidebands   
+ 
+        USB = 10050 Hz 
+ 
+        LSB = 9950 Hz 
+ 
+ 
+ 
+ (4) Bandwidth of the wave   
+ 
+ BW  =
+ 
+    100.  
+ 
+        BW = 100 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH15/EX15.5/Ex15_5.sce #
+ 
+ 
+ 
+ 
+ The standard equation of AM wave is   
+ 
+ 
+  e = Ec*(1+m*sin(omega_m*t)*sin(omega_c*t)) -->eqn 1   
+ 
+ 
+ Given the equation   
+ 
+ 
+  e = 20*(1+0.7*sin(6280*t)*sin(628000*t))   --eqn 2   
+ 
+ 
+ Comparing eqn 1 and eqn 2 one obtains   
+ 
+ 
+ (1) Modulation factor, m = 0.7   
+ 
+ m  =
+ 
+    0.7  
+ 
+ 
+ (2) Carrier Amplitude, Ec = 20 V   
+ 
+ Ec  =
+ 
+    20.  
+ 
+ 
+ (3) omega_m = 6280   
+ 
+ omega_m  =
+ 
+    6280.  
+ 
+ Fm  =
+ 
+    999.49304  
+ 
+    Signal frequency = 1 kHz 
+
+ 
+ 
+ omega_c  =
+ 
+    628000.  
+ 
+ Fc  =
+ 
+    99949.304  
+ 
+(4) Signal frequency = 100 kHz 
+
+ 
+ 
+ Emax  =
+ 
+    34.  
+ 
+(5) Emax = 34 V 
+
+ 
+ 
+ Emin  =
+ 
+    6.  
+ 
+(5) Emin = 6 V
+
+ 
+ 
+ BW  =
+ 
+    1998.9861  
+ 
+(6) BW = 2 kHZ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH15/EX15.6/Ex15_6.sce #
+ 
+ 
+ 
+ Pc  =
+ 
+    10000.  
+ 
+ m  =
+ 
+    0.9  
+ 
+ 
+ We have   
+ 
+ 
+ 
+ Total power = carrier power*(1+m^2/2)   
+ 
+ Pt  =
+ 
+    14050.  
+ 
+             = 14 kW 
+
+ 
+ 
+This will be the maximum power handeled by the transmitter.
+ Now,increased unmodulated carrier power can be obtained by 
+
+ 
+ m  =
+ 
+    0.4  
+ 
+ Pt  =
+ 
+    14000.  
+ 
+ Pc  =
+ 
+    12962.963  
+ 
+        Pc = 12.96 kW 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH15/EX15.7/Ex15_7.sce #
+ 
+ 
+ 
+ 
+ Given the equation   
+ 
+
+ E = 100*sin(628000*t) + 25*sin(621720*t) 
+   - 25*cos(634280*t)) 
+ 
+ m  =
+ 
+    0.5  
+ 
+ Ec  =
+ 
+    100.  
+ 
+ Em  =
+ 
+    10.  
+ 
+ Fc  =
+ 
+    100000.  
+ 
+ Fm  =
+ 
+    1000.  
+ 
+ pi  =
+ 
+    3.14  
+ 
+ 
+ omega_c  =
+ 
+    628000.  
+ 
+ omega_m  =
+ 
+    62.8  
+ 
+ 
+ 
+ Now,putting these equation in the standard equations for modulated voltage wave,   
+ 
+ 
+   e = Ec*sin(omega_c*t)+m*Ec/2*cos(omega_c-omega_m)*t-m*Ec/2*cos(omega_c-omega_m)*t   
+ 
+ USB  =
+ 
+    628062.8  
+ 
+ LSB  =
+ 
+    627937.2  
+ 
+ mEc  =
+ 
+    25.  
+ 
+
+     = 100*sin(628000*t) + 25*sin(628063*t) 
+      - 25*cos(627937*t)) 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.1/Ex18_1.sce #
+ 
+ 
+ 
+ Vs  =
+ 
+    12.  
+ 
+ Vd  =
+ 
+    2.  
+ 
+ Id  =
+ 
+    0.02  
+ 
+ 
+ Rs  =
+ 
+    500.  
+ 
+Source resistance = 500 ohm 
+ 
+ 
+ P  =
+ 
+    0.2  
+ 
+ Wattage rating = 200.0 mW 
+ 
+ Therefore a standard size 0.25 watt = 250mW resistor is required   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.2/Ex18_2.sce #
+ 
+ 
+ 
+ T  =
+ 
+    2000.  
+ 
+ f  =
+ 
+    5.000D+14  
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ 
+ R  =
+ 
+    155830.12  
+ 
+     R = 1.56*1e5 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.3/Ex18_3.sce #
+ 
+ 
+ 
+ 
+ Average wavelength of visible radiation = 550 nm   
+ 
+ 
+       E1 - E2 = hc/lamda   
+ 
+ h  =
+ 
+    6.600D-34  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ lamda  =
+ 
+    0.0000006  
+ 
+ E  =
+ 
+    3.600D-19  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ E_eV  =
+ 
+    2.25  
+ 
+               = 3.6*1e-19 J 
+ 
+               = 2.25 eV 
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ 
+ Average room temperature=300K and g1=g2,we have   
+ 
+ N  =
+ 
+    1.719D-38  
+ 
+ N2/N1 = 0.17*1e-37 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.4/Ex18_4.sce #
+ 
+ 
+ 
+ w  =
+ 
+    0.00003  
+ 
+ alpha  =
+ 
+    40000.  
+ 
+ phi  =
+ 
+    0.01  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ 
+ (1) Energy absorbed/sec is given by    
+ 
+ E  =
+ 
+  - 0.0232012  
+ 
+                = 23.2 mW 
+ 
+ 
+ 
+ (2) The portion of each photo energy that is converted into heat is obtained as hv-Eg/hv   
+ 
+ Heat  =
+ 
+    62.666667  
+ 
+                = 63 % 
+ E1  =
+ 
+    0.014384  
+ 
+
+ Obviously, the amount of energy dissipated/sec to lattice 
+ is 14.4 mW 
+ 
+ 
+ 
+ (3) Number of photons/sec from recombination is   
+ 
+ num_photons  =
+ 
+    1.339D+19  
+ 
+                = 1.3*1e19 photon/sec 
+ 
+ 
+ 
+ 
+ Therefore recombination radiation   
+ 
+ RR  =
+ 
+    0.0088172  
+ 
+                = 8.8 mW 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.5/Ex18_5.sce #
+ 
+ 
+ 
+ d  =
+ 
+    0.000005  
+ 
+ Dc  =
+ 
+    0.0034  
+ 
+ 
+ t  =
+ 
+    3.676D-09  
+ 
+Time taken to diffuse = 3.7*1e-9 sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.6/Ex18_6.sce #
+ 
+ 
+ 
+ A  =
+ 
+    0.000001  
+ 
+ epsilon_r  =
+ 
+    11.7  
+ 
+ Nd  =
+ 
+    1.000D+21  
+ 
+ V  =
+ 
+    10.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ epsilon_0  =
+ 
+    8.850D-12  
+ 
+ 
+ Cj  =
+ 
+    2.878D-11  
+ 
+Diode capacitance = 29 pF 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.7/Ex18_7.sce #
+ 
+ 
+ 
+ L  =
+ 
+    0.000001  
+ 
+ r2  =
+ 
+    0.5  
+ 
+ r1  =
+ 
+    1.5  
+ 
+ 
+ 
+ No internal loss means di=0; we have   
+ 
+ g  =
+ 
+    62469.368  
+ 
+ Gain g = 62.47*1e3 cm^(-1) 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH18/EX18.8/Ex18_8.sce #
+ 
+ 
+ 
+ L  =
+ 
+    0.0001  
+ 
+ A  =
+ 
+    1.000D-07  
+ 
+ V  =
+ 
+    10.  
+ 
+ mew_n  =
+ 
+    1350.  
+ 
+ mew_p  =
+ 
+    480.  
+ 
+ tp  =
+ 
+    0.000001  
+ 
+ 
+ tn  =
+ 
+    7.407D-09  
+ 
+ 
+ Gain  =
+ 
+    183.  
+ 
+Gain  = 1.83*1e2 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.1/Ex19_1.sce #
+ 
+ 
+ 
+ 
+ dec  =
+ 
+    5.  
+ 
+ 
+ The decimal equivqlent of 101 is   
+ 
+ 
+    5.  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.2/Ex19_2.sce #
+ 
+ 
+ 
+ 
+ dec  =
+ 
+    29.  
+ 
+ 
+ The decimal equivqlent of 11101 is   
+ 
+ 
+    29.  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.3/Ex19_3.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+    0.  
+ 
+ c  =
+ 
+    1.  
+ 
+ dec  =
+ 
+    0.625  
+ 
+ 
+ The decimal equivqlent of 0.101 is   
+ 
+ 
+    0.625  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.4/Ex19_4.sce #
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+    1.  
+ 
+ c  =
+ 
+    0.  
+ 
+ d  =
+ 
+    1.  
+ 
+ dec  =
+ 
+    0.8125  
+ 
+ 
+ The decimal equivqlent of 0.1101 is   
+ 
+ 
+    0.8125  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.5/Ex19_5.sce #
+ 
+ 
+ 
+ 
+ 
+ dec_I  =
+ 
+    21.  
+ 
+ 
+ 
+ a  =
+ 
+    1.  
+ 
+ b  =
+ 
+    0.  
+ 
+ c  =
+ 
+    1.  
+ 
+ dec_D  =
+ 
+    0.625  
+ 
+ dec  =
+ 
+    21.625  
+ 
+ 
+ The decimal equivqlent of 10101.101 is   
+ 
+ 
+    21.625  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.6/Ex19_6.sce #
+ 
+ 
+ 
+ dec  =
+ 
+    9.  
+ 
+ bin  =
+ 
+ 1001   
+ 
+ 
+ The binary equivalent of 9 is   
+ 
+ 
+ 1001   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.7/Ex19_7.sce #
+ 
+ 
+ 
+ dec  =
+ 
+    31.  
+ 
+ bin  =
+ 
+ 11111   
+ 
+ 
+ The binary equivalent of 31 is   
+ 
+ 
+ 11111   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.8/Ex19_8.sce #
+ 
+ 
+ 
+ dec  =
+ 
+    13.  
+ 
+ bin  =
+ 
+ 1101   
+ 
+ 
+ The binary equivalent of 13 is   
+ 
+ 
+ 1101   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.9/Ex19_9.sce #
+ 
+ 
+ 
+ Conversion of decimal number 31.65 base to its binary equivalent    
+ 
+ 
+ z  =
+ 
+    0.65  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+               =11111.101001 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.10/Ex19_10.sce #
+ 
+ 
+ 
+ 
+ dec  =
+ 
+    15.  
+ 
+ 
+ (1) Binary number -> 1111   
+ 
+ 
+ Here we have 4 bits   
+ 
+ 
+ The decimal equivqlent is   
+ 
+ 
+    15.  
+ 
+ 
+ 
+ 
+ dec  =
+ 
+    127.  
+ 
+ 
+ (2) Binary number -> 1111111   
+ 
+ 
+ Here we have 7 bits   
+ 
+ 
+ The decimal equivqlent is   
+ 
+ 
+    127.  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.11/Ex19_11.sce #
+ 
+ 
+ 
+ 
+ dec  =
+ 
+    19.  
+ 
+ 
+ The decimal equivqlent of 23 is   
+ 
+ 
+    19.  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.12/Ex19_12.sce #
+ 
+ 
+ 
+ 
+ dec  =
+ 
+    175.  
+ 
+ 
+ The decimal equivalent of 257 is   
+ 
+ 
+    175.  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.13/Ex19_13.sce #
+ 
+ 
+ 
+ 
+ oct  =
+ 
+ 257   
+ 
+ 
+ The octal equivslent of 175 is   
+ 
+ 
+ 257   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.14/Ex19_14.sce #
+ 
+ 
+ 
+ 
+ Conversion of decimal number 0.85 base  to its octal equivalent    
+ 
+ a  =
+ 
+    0.85  
+ 
+ z  =
+ 
+    0.85  
+ 
+ d  =
+ 
+    0.  
+ 
+ z  =
+ 
+    6.8  
+ q  =
+ 
+    6.  
+ d  =
+ 
+    0.6  
+ z  =
+ 
+    0.8  
+ z  =
+ 
+    6.4  
+ q  =
+ 
+    6.  
+ d  =
+ 
+    0.66  
+ z  =
+ 
+    0.4  
+ z  =
+ 
+    3.2  
+ q  =
+ 
+    3.  
+ d  =
+ 
+    0.663  
+ z  =
+ 
+    0.2  
+ z  =
+ 
+    1.6  
+ q  =
+ 
+    1.  
+ d  =
+ 
+    0.6631  
+ z  =
+ 
+    0.6  
+ z  =
+ 
+    4.8  
+ q  =
+ 
+    4.  
+ d  =
+ 
+    0.66314  
+ z  =
+ 
+    0.8  
+ z  =
+ 
+    6.4  
+ q  =
+ 
+    6.  
+ d  =
+ 
+    0.663146  
+ z  =
+ 
+    0.4  
+ z  =
+ 
+    3.2  
+ q  =
+ 
+    3.  
+ d  =
+ 
+    0.6631463  
+ z  =
+ 
+    0.2  
+ z  =
+ 
+    1.6  
+ q  =
+ 
+    1.  
+ d  =
+ 
+    0.6631463  
+ z  =
+ 
+    0.6  
+ z  =
+ 
+    4.8  
+ q  =
+ 
+    4.  
+ d  =
+ 
+    0.6631463  
+ z  =
+ 
+    0.8  
+ z  =
+ 
+    6.4  
+ q  =
+ 
+    6.  
+ d  =
+ 
+    0.6631463  
+ z  =
+ 
+    0.4000000  
+ 
+ s  =
+ 
+    0.6631463  
+ 
+
+                   = 0.663146 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.15/Ex19_15.sce #
+ 
+ 
+ 
+ oct  =
+ 
+ 34   
+ 
+ dec  =
+ 
+    28.  
+ 
+ bin  =
+ 
+ 11100   
+ 
+ 
+ The binary equivalent of octal 34 is   
+ 
+ 
+ 11100   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.16/Ex19_16.sce #
+ 
+ 
+ 
+ oct  =
+ 
+ 357   
+ 
+ dec  =
+ 
+    239.  
+ 
+ bin  =
+ 
+ 11101111   
+ 
+ 
+ The binary equivalent of octal 34 is   
+ 
+ 
+ 11101111   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.17/Ex19_17.sce #
+ 
+ 
+ 
+ 
+ 
+ dec_I  =
+ 
+    11.  
+ 
+ oct_I  =
+ 
+ 13   
+ 
+ 
+ 
+ 
+ dec_D  =
+ 
+    26.  
+ 
+ oct_D  =
+ 
+ 32   
+ 
+ oct  =
+ 
+ 1332   
+ 
+ b  =
+ 
+ 13.32   
+ 
+ 
+ The octal equivqlent of 1011.01101 is   
+ 
+ 
+ 13.32   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.18/Ex19_18.sce #
+ 
+ 
+ 
+ hex  =
+ 
+ 9AF   
+ 
+ dec  =
+ 
+    2479.  
+ 
+ bin  =
+ 
+ 100110101111   
+ 
+ 
+ The binary equivalent of 9AF is   
+ 
+ 
+ 100110101111   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.19/Ex19_19.sce #
+ 
+ 
+ 
+ hex  =
+ 
+ C5E2   
+ 
+ dec  =
+ 
+    50658.  
+ 
+ bin  =
+ 
+ 1100010111100010   
+ 
+ 
+ The binary equivalent of C5E2 is   
+ 
+ 
+ 1100010111100010   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.20/Ex19_20.sce #
+ 
+ 
+ 
+ 
+ dec  =
+ 
+    140.  
+ 
+ hex  =
+ 
+ 8C   
+ 
+ 
+ The hexadecimal equivqlent of 10001100 is   
+ 
+ 
+ 8C   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.21/Ex19_21.sce #
+ 
+ 
+ 
+ 
+ 
+ dec_I  =
+ 
+    63718.  
+ 
+ 
+ 
+ a  =
+ 
+    3.  
+ 
+ b  =
+ 
+    9.  
+ 
+ dec  =
+ 
+    63718.223  
+ 
+ 
+ The decimal equivalent of F8E6.39 is   
+ 
+
+    63718.2227 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.22/Ex19_22.sce #
+ 
+ 
+ 
+ dec  =
+ 
+    2479.  
+ 
+ hex  =
+ 
+ 9AF   
+ 
+ 
+ The Hexadecimal equivalent of 2479 is   
+ 
+ 
+ 9AF   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.23/Ex19_23.sce #
+ 
+ 
+ 
+ dec  =
+ 
+    65535.  
+ 
+ hex  =
+ 
+ FFFF   
+ 
+ 
+ The Hexadecimal equivalent of 65535 is   
+ 
+ 
+ FFFF   
+ 
+ 
+ bin  =
+ 
+ 1111111111111111   
+ 
+ 
+ The Binary equivalent of 65535 is    
+ 
+ 
+ 1111111111111111   
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.24/Ex19_24.sce #
+ 
+ 
+ 
+ x  =
+ 
+    28.  
+ 
+ y  =
+ 
+    26.  
+ 
+ z  =
+ 
+    54.  
+ 
+ add  =
+ 
+ 110110   
+ 
+ 
+  11100 + 11010 =    
+ 
+ 
+ 110110   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.25/Ex19_25.sce #
+ 
+ 
+ 
+ x  =
+ 
+    13.  
+ 
+ y  =
+ 
+    10.  
+ 
+ z  =
+ 
+    3.  
+ 
+ sub  =
+ 
+ 0011   
+ 
+ 
+  1101 - 1010 =    
+ 
+ 
+ 0011   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.26/Ex19_26.sce #
+ 
+ 
+ 
+ 
+ x  =
+ 
+    200.  
+ 
+ y  =
+ 
+    125.  
+ 
+ z  =
+ 
+    75.  
+ 
+ 
+ For decimal system 200 - 125 =    
+ 
+ 
+    75.  
+ 
+ 
+ a  =
+ 
+ 4B   
+ 
+ 
+ For hexadecimal system C8 - 7D is   
+ 
+ 
+ 4B   
+ 
+ 
+ b  =
+ 
+ 01001011   
+ 
+ 
+ For binary system 11001000 - 01111101 is   
+ 
+ 
+ 01001011   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.27/Ex19_27.sce #
+ 
+ 
+ 
+ 
+ (A+B)(A+C) = AA + AC + AB + BC    
+ 
+ 
+ 
+            = A + AC + AB +BC   
+ 
+ 
+ 
+            = A(1 + C) + AB + BC   
+ 
+ 
+ 
+            = A.1 + AB + BC    
+ 
+ 
+ 
+            = A(B + 1) + BC   
+ 
+ 
+ 
+            = A + BC   
+ 
+ 
+ Therefore (A+B)(A+C) = A + BC   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.28/Ex19_28.sce #
+ 
+ 
+ 
+ 
+ AB + A(B + C) + B(B + C)  = AB + AB + AC + BB + BC   
+ 
+ 
+ 
+                           = AB + AC + B +BC         
+ 
+ 
+ 
+                           = AB + AC + B(1 + C)     
+ 
+ 
+ 
+                           = AB + AC + B   
+ 
+ 
+ 
+                           = B(A + 1) + AC   
+ 
+ 
+ 
+                           = B + AC   
+ 
+ 
+ 
+ Therefore AB + A(B + C) + B(B + C) = B + AC   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.30/Ex19_30.sce #
+ 
+ 
+ 
+ 
+ 
+ LHS : (A + B + C)(A + B + C)    
+ 
+ 
+         = AA + AB + AC + BA + BB +BC + CA + CB + CC   
+ 
+ 
+ 
+         = A + AB + AC + BA + B +BC + CA + CB + C   
+ 
+ 
+ 
+         = A + AB + AC +BC + CB + C   
+ 
+ 
+ 
+         = A(B + 1) + AC + B + C(B + 1)   
+ 
+ 
+ 
+         = A + AC + B + C   
+ 
+ 
+ 
+         = A + B + C(A + 1)   
+ 
+ 
+ 
+         = A + B + C   
+ 
+ 
+ 
+ Therefore (A' + B + C)(A' + B' + C) = A' + C   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH19/EX19.31/Ex19_31.sce #
+ 
+ 
+ 
+ 
+ LHS : (A+ C)(A' + B)    
+ 
+ 
+          = AA' + AB + CA' + BC   
+ 
+ 
+          = 0 + AB + CA' + BC   
+ 
+ 
+          = AB + (A + A')BC + CA'   
+ 
+ 
+          = AB + ABC + A'BC + CA'   
+ 
+ 
+ 
+          = AB + ABC + A'C(B + 1)   
+ 
+ 
+ 
+          = AB + ABC + A'C   
+ 
+ 
+          = AB(C + 1)+ A'C   
+ 
+ 
+ 
+          = AB + A'C   
+ 
+ 
+ Therefore (A+ C)(A' + B) = AB + A'C   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.4/Ex21_4.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    20000.  
+ 
+ R2  =
+ 
+    20000.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ 
+ f0  =
+ 
+    241.66667  
+ 
+Output frequency = 241.67 Hz 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.6/Ex21_6.sce #
+ 
+ 
+ 
+ C  =
+ 
+    1.000D-08  
+ 
+ f0  =
+ 
+    2000.  
+ 
+ 
+ Req  =
+ 
+    72500.  
+ 
+ 
+     Because a square wavw has duty cycle of 50% each resistor must be the same   
+ 
+ R1  =
+ 
+    36250.  
+ 
+ R2  =
+ 
+    36250.  
+ 
+      R1 = R2 = 36.25 kohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.7/Ex21_7.sce #
+ 
+ 
+ 
+ R  =
+ 
+    260000.  
+ 
+ C  =
+ 
+    0.000025  
+ 
+ tau  =
+ 
+    1.1  
+ 
+ 
+ t_delay  =
+ 
+    7.15  
+ 
+ Pulse width = 7.15 sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.8/Ex21_8.sce #
+ 
+ 
+ 
+ dec  =
+ 
+    253.  
+ 
+ bin  =
+ 
+ 11111101   
+ 
+ 
+ Binary value of 253 =   
+ 
+ 
+ 11111101   
+ 
+ 
+ In TTL for 1s it is represented in 5V and 0s as 0V   
+ 
+ 
+ Therefore 253 in TTL voltage terms is   
+ 
+ 
+ 5V,5V,5V,5V,5V,5V,0V,5V   
+ 
+ 

@@ -1,0 +1,88 @@
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH3/EX3.01/3_01.sce
+ 
+pathname=get_absolute_file_path('3.01.sce')
+                                            !--error 999 
+get_absolute_file_path: The file 3.01.sce is not opened in scilab.
+at line       2 of exec file called by :    
+T._Mcdonald_812/CH3/EX3.01/3_01.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH4/EX4.11/4_11.sce
+ 
+pathname=get_absolute_file_path('4.11.sce')
+                                            !--error 999 
+get_absolute_file_path: The file 4.11.sce is not opened in scilab.
+at line       2 of exec file called by :    
+T._Mcdonald_812/CH4/EX4.11/4_11.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH5/EX5.08/5_08.sce
+ 
+pathname=get_absolute_file_path('5.08.sce')
+                                            !--error 999 
+get_absolute_file_path: The file 5.08.sce is not opened in scilab.
+at line       2 of exec file called by :    
+T._Mcdonald_812/CH5/EX5.08/5_08.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH6/EX6.09/6_09.sce
+ 
+pathname=get_absolute_file_path('06.09.sce')
+                                             !--error 999 
+get_absolute_file_path: The file 06.09.sce is not opened in scilab.
+at line       2 of exec file called by :    
+T._Mcdonald_812/CH6/EX6.09/6_09.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH7/EX7.05/7_05.sce
+ 
+pathname=get_absolute_file_path('7.05.sce')
+                                            !--error 999 
+get_absolute_file_path: The file 7.05.sce is not opened in scilab.
+at line       2 of exec file called by :    
+T._Mcdonald_812/CH7/EX7.05/7_05.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH9/EX9.08/9_08.sce
+ 
+pathname=get_absolute_file_path('9.08.sce')
+                                            !--error 999 
+get_absolute_file_path: The file 9.08.sce is not opened in scilab.
+at line       2 of exec file called by :    
+T._Mcdonald_812/CH9/EX9.08/9_08.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH10/EX10.03/10_03.sce
+ 
+pathname=get_absolute_file_path('10.03.sce')
+                                             !--error 999 
+get_absolute_file_path: The file 10.03.sce is not opened in scilab.
+at line       2 of exec file called by :    
+Mcdonald_812/CH10/EX10.03/10_03.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH10/EX10.07/10_07.sce
+ 
+pathname=get_absolute_file_path('10.07.sce')
+                                             !--error 999 
+get_absolute_file_path: The file 10.07.sce is not opened in scilab.
+at line       2 of exec file called by :    
+Mcdonald_812/CH10/EX10.07/10_07.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH10/EX10.08/10_08.sce
+ 
+pathname=get_absolute_file_path('10.08.sce')
+                                             !--error 999 
+get_absolute_file_path: The file 10.08.sce is not opened in scilab.
+at line       2 of exec file called by :    
+Mcdonald_812/CH10/EX10.08/10_08.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH10/EX10.1/10_11.sce
+ 
+pathname=get_absolute_file_path('10.11.sce')
+                                             !--error 999 
+get_absolute_file_path: The file 10.11.sce is not opened in scilab.
+at line       2 of exec file called by :    
+_Mcdonald_812/CH10/EX10.1/10_11.sce',-1
+ 
+ERROR: Introduction_To_Fluid_Mechanics_R._W._Fox_And_A._T._Mcdonald_812/CH11/EX11.03/11_03.sce
+ 
+pathname=get_absolute_file_path('11.03.sce')
+                                             !--error 999 
+get_absolute_file_path: The file 11.03.sce is not opened in scilab.
+at line       2 of exec file called by :    
+Mcdonald_812/CH11/EX11.03/11_03.sce',-1
+ 

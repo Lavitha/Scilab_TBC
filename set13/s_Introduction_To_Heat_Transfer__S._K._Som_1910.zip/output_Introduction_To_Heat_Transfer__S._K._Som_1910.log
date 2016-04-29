@@ -1,0 +1,2582 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 93
+
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.1/Chapter11.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 1   
+ 
+ The steady state heat transfer rate per unit area through the thick slab is gi 
+      ven by q=k(T1-T2)/L in W/m^2                                              
+ q  =
+ 
+    50.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.2/Chapter12.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 2   
+ 
+ The thickness of masonry wall is Lm in m   
+ Lm  =
+ 
+    0.5  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.4/Chapter14.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 4   
+ 
+ The rate of heat transfer per unit area q=hbr*(Tinf-Ts) in W/m^2   
+ q  =
+ 
+    16000.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.5/Chapter15.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 5   
+ 
+ The heat exchanger surface area(A)in m^2 required for 20 MJ/h of heating is    
+ A  =
+ 
+    0.1388889  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.6/Chapter16.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 6   
+ 
+ The rate of heat transfer from the plate is given by Q=hbr*A*(Ts-Tinf)   
+ 
+ The rate of heat transfer can also be written in the form of Q=m*cp*|dT/dt| fr 
+      om an energy balance.                                                     
+ 
+ Equating the above two equations we get hbr=(m*cp*|dT/dt|)/(A*(Ts-Tinf)) in W/ 
+      (m^2°C)                                                                  
+ hbr  =
+ 
+    11.2  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.7/Chapter17.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 7   
+ 
+ The heat flux per square meter is given by E/A=emi*sigma*T^4 in W/m^2   
+ F  =
+ 
+    556.44114  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.8/Chapter18.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 8   
+ 
+ The emitted radiant energy per unit surface area is given by Eb/A=sigma*T^4 in 
+       W/m^2                                                                    
+ F  =
+ 
+    618.26793  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.9/Chapter19.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 9   
+ 
+ The rate of heat transfer per unit surface area of wall is given by Q/A=(Ta-Tb 
+      )/((1/hbr1*A)+(L/(k*A))+(1/hbr2*A))in W/m^2                               
+ F  =
+ 
+    128.  
+ 
+ The surface tempratures of wall on 60°C side is T1 =Ta-(Q/(A*hbr1)) in °C   
+ T1  =
+ 
+    56.8  
+ 
+ The surface tempratures of wall on 20°C side is T2 =Tb+(Q/(A*hbr2)) in °C   
+ T2  =
+ 
+    32.8  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.1/Chapter21.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 1   
+ 
+ The convective resistance Ro= 1/(ho*A) at the outer surface in KW^-1 is   
+ Ro  =
+ 
+    0.0666667  
+ 
+ The conduction resistance Rs= Ls/(ks*A) of steel sheet in KW^-1 is   
+ Rs  =
+ 
+    0.00008  
+ 
+ The conduction resistance Rg= Lg/(kg*A) of glass wool in KW^-1 is   
+ Rg  =
+ 
+    2.6666667  
+ 
+ The conduction resistance Rp= Lp/(kp*A) of plywood in KW^-1 is   
+ Rp  =
+ 
+    0.2666667  
+ 
+ The convective resistance Ri= 1/(hi*A) at the outer surface in KW^-1 is   
+ Ri  =
+ 
+    0.1111111  
+ 
+ The rate of heat flow Q=(To-Ti)/(Ro+Rs+Rg+Rp+Ri) in W is   
+ Q  =
+ 
+    12.535392  
+ 
+ The temprature at the outer surface of wall is T1=To-(Q*Ro) in °C   
+ T1  =
+ 
+    23.164307  
+ 
+ The temprature at the interface b/w steel sheet and glass wool is T2=T1-(Q*Rs) 
+       in°C                                                                    
+ T2  =
+ 
+    23.163304  
+ 
+ The temprature at the interface b/w glass wool and plywood is T3=T2-(Q*Rg) in� 
+      �C                                                                        
+ T3  =
+ 
+  - 10.264407  
+ 
+ The temprature at the inner surface of wall is T4=T3-(Q*Rp)in °C   
+ T4  =
+ 
+  - 13.607179  
+ 
+ Check for Ti(in °C)   
+ Ti  =
+ 
+  - 15.  
+ 
+ The value is same as given in the problem   
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.2/Chapter22.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 2   
+ 
+ The thickness of insulating material L=ki*(((Ti-To)/Q)-(Lb/kb)) in m   
+ L  =
+ 
+    0.0591111  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.4/Chapter24.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 4   
+ 
+ Heat transfer per unit surface area through film qf=(To-Tinf)/((1/h)+(Lf/kf))i 
+      n W/(m^2)                                                                 
+ qf  =
+ 
+    800.  
+ 
+ Heat transfer per unit surface area through substrate qs=(To-T1/(Ls/ks)in W/(m 
+      ^2)                                                                       
+ qs  =
+ 
+    1000.  
+ 
+ Heat flux qo=qs+qf in W/(m^2)   
+ qo  =
+ 
+    1800.  
+ 
+ If the film is not transparent and all of the radiant heat flux is absorbed at 
+       its upper surface then                                                   
+ 
+ Rate of heat conduction through the film and substrate q1=(To-T1)/(Ls/ks) in W 
+      /m^2                                                                      
+ q1  =
+ 
+    1000.  
+ 
+ The temprature of the top surface of the film T2=(q1*(Lf*10^-3/kf))+To in °C  
+ T2  =
+ 
+    70.  
+ 
+ Rate of convective heat transfer from the upper surface of film to air q2=h*(T 
+      2-Tinf)in W/m^2                                                           
+ q2  =
+ 
+    1250.  
+ 
+ Heat flux qo=q1+q2 in W/m^2    
+ qo  =
+ 
+    2250.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.6/Chapter26.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 6   
+ 
+ (a)The expression for the temprature distribution in the plate T=160+2*10^3*(x 
+      -100*x^2)                                                                 
+ 
+ (b)The maximum temprature occurs at x=5mm or 0.005m away from the left surface 
+       towards the right                                                        
+ 
+ The maximum temprature(Tmax) in °C is   
+ Tmax  =
+ 
+    165.  
+ 
+ (c(i))The rate of heat transfer at the left face in MW/m^2 is   
+ Q  =
+ 
+  - 0.4  
+ 
+ The minus sign indicates that the heat flow in the negative direction   
+ 
+ (c(ii))The rate of heat transfer at the right face in MW/m^2 is   
+ Q  =
+ 
+    1.2  
+ 
+ The minus sign for (q/A)@x=0 and the plus sign for (q/A)@x=0.02 indicates that 
+       heat is lost from both the surfaces to surroundings                      
+ 
+ (c(iii))The rate of heat transfer at the centre in MW/m^2 is   
+ Q  =
+ 
+    0.4  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.9/Chapter29.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 09   
+ 
+ The critical thickness of insulation in metre is   
+ rc  =
+ 
+    0.0175  
+ 
+ The heat transfer rate Q per metre of tube length in W/m is    
+ Q  =
+ 
+    26.80746  
+ 
+ The heat transfer rate per metre of tube length Q in W/m is    
+ Q  =
+ 
+    28.199677  
+ 
+ The heat transfer rate per metre of tube length Q in W/m is    
+ Q  =
+ 
+    21.10868  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH3/EX3.1/Chapter31.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 1   
+ 
+ Temperature at the centre in Degree C is   
+ T  =
+ 
+    199.96164  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH3/EX3.2/Chapter32.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 3, Example 2   
+ 
+ Steady state non dimensional temperature is   
+ 
+ theta=2*sinh(pi*y/a)*sin(pi*x/a)/(sinh(pi)) + sinh(pi*x/a)*sin(pi*y/a)/(sinh(p 
+      i))                                                                       
+ 
+ Temperature in K at centre point   
+ T  =
+ 
+    359.78052  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH3/EX3.3/Chapter33.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 3, Example 3   
+ 
+ Temperatures at nodal points in degree K   
+ 
+ T1 in degree K   
+ T1  =
+ 
+    592.21864  
+ 
+ T2 in degree K   
+ T2  =
+ 
+    579.71973  
+ 
+ T3 in degree K   
+ T3  =
+ 
+    554.4782  
+ 
+ T4 in degree K   
+ T4  =
+ 
+    498.05901  
+ 
+ T5 in degree K   
+ T5  =
+ 
+    589.15484  
+ 
+ T6 in degree K   
+ T6  =
+ 
+    572.18209  
+ 
+ T7 in degree K   
+ T7  =
+ 
+    540.13404  
+ 
+ T8 in degree K   
+ T8  =
+ 
+    479.39768  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH3/EX3.5/Chapter35.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 3, Example 5   
+ 
+ Temperatures at nodal points in degree C   
+ 
+ T2 in degree C   
+ T2  =
+ 
+    331.50214  
+ 
+ T3 in degree C   
+ T3  =
+ 
+    282.30042  
+ 
+ T4 in degree C   
+ T4  =
+ 
+    249.24593  
+ 
+ T5 in degree C   
+ T5  =
+ 
+    230.22318  
+ 
+ T6 in degree C   
+ T6  =
+ 
+    224.0147  
+ 
+ Heat loss from fin in W   
+ Q  =
+ 
+    107.59618  
+ 
+ Comparison between actual and numerical values   
+Actual heat transfer is 125.33 W while predicted numerically is 107.60 W
+ ans  =
+ 
+    2.  
+At nodal point 2, actual temperature is 331.49 C while predicted numerically is 331.50 C
+ ans  =
+ 
+    2.  
+At nodal point 3, actual temperature is 282.10 C while predicted numerically is 282.30 C
+ ans  =
+ 
+    2.  
+At nodal point 4, actual temperature is 248.93 C while predicted numerically is 249.25 C
+ ans  =
+ 
+    2.  
+At nodal point 5, actual temperature is 229.84 C while predicted numerically is 230.22 C
+ ans  =
+ 
+    2.  
+At nodal point 6, actual temperature is 223.61 C while predicted numerically is 224.01 C
+ ans  =
+ 
+    2.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH3/EX3.6/Chapter36.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 3, Example 6   
+ 
+ Temperatures at nodal points in degree C   
+ 
+ T1 in degree C   
+ T1  =
+ 
+    267.44186  
+ 
+ T2 in degree C   
+ T2  =
+ 
+    240.22417  
+ 
+ T3 in degree C   
+ T3  =
+ 
+    162.10141  
+ 
+ T4 in degree C   
+ T4  =
+ 
+    146.7274  
+ 
+ T5 in degree C   
+ T5  =
+ 
+    104.15848  
+ 
+ T6 in degree C   
+ T6  =
+ 
+    87.508991  
+ 
+ T7 in degree C   
+ T7  =
+ 
+    80.425557  
+ 
+ T8 in degree C   
+ T8  =
+ 
+    61.589547  
+ 
+ T9 in degree C   
+ T9  =
+ 
+    40.794773  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.1/Chapter41.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 1   
+ 
+ Biot number is   
+ Bi  =
+ 
+    0.2777778  
+ 
+ Problem is not suitable for lumped parameter analysis   
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.2/Chapter42.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 2   
+ 
+ Time constant in seconds is   
+ tc  =
+ 
+    8.  
+ 
+ Time required in seconds   
+ t  =
+ 
+    36.841361  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.3/Chapter43.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 3   
+ 
+ Maximum dimension in metre for lumped parameter analysis   
+ a  =
+ 
+    5.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.4/Chapter44.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 4   
+ 
+ Time required to cool milk in minutes   
+ t  =
+ 
+    18.883425  
+ 
+ Energy required for cooling in KJ   
+ E  =
+ 
+    37.110063  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.5/Chapter45.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 5   
+ 
+ Time required in hours   
+ t  =
+ 
+    7.5  
+ 
+ Heat transfer rate in MJ   
+ Q  =
+ 
+    186.3  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.6/Chapter46.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 6   
+ 
+ Temperature at this distance in °C   
+ T  =
+ 
+    355.5  
+ 
+ Heat transfer rate in MJ   
+ Q  =
+ 
+    100.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.7/Chapter47.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 7   
+ 
+ Temperature at this radius in °C   
+ T  =
+ 
+    300.  
+ 
+ Heat transfer rate per unit length in MJ/m   
+ Q  =
+ 
+    33.263922  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.8/Chapter48.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 8   
+ 
+ Time required in minutes   
+ t  =
+ 
+    4.1666667  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.9/Chapter49.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 9   
+ 
+ Tempearture of bar in °C   
+ T  =
+ 
+    260.3  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH5/EX5.3/Chapter53.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 5, Example 3   
+ 
+ Reynolds number is   
+ ReL  =
+ 
+    55263.158  
+ 
+ The average heat transfer coefficient over a length(L)= 1m ,in W/m^2 is   
+ hbarL  =
+ 
+    4.16  
+ 
+ The rate of heat transfer in W/m of width is   
+ Q  =
+ 
+    332.8  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH5/EX5.4/Chapter54.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 5, Example 4   
+ 
+ The local heat transfer coefficient hx is hx=27.063*U^0.85   
+ 
+ The minimum flow velocity in m/s is   
+ U  =
+ 
+    15.480681  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH5/EX5.6/Chapter56.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 5, Example 6   
+ 
+ (dTb/dx)in °C/m is   
+ Y  =
+ 
+    26.666667  
+ 
+ Therefore Exit bulk mean temprature Tb2 in °C is   
+ Tb2  =
+ 
+    83.333333  
+ 
+ Heat flux(hx) in W/(m^2*°C) is    
+ hx  =
+ 
+    100.  
+ 
+ Overall Nusselt number is    
+ NuL  =
+ 
+    87.719298  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH5/EX5.7/Chapter57.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 5, Example 7   
+ 
+ Beta(The volumetric coefficient of expansion in K^-1 is   
+ Beta  =
+ 
+    0.0033003  
+ 
+ Grashoff number is   
+ Gr  =
+ 
+    5.513D+10  
+ 
+ The average nusselt number is   
+ NuHbar  =
+ 
+    442.0185  
+ 
+ Heat flux hbar in W/(m^2*°C)   
+ hbar  =
+ 
+    5.7462405  
+ 
+ The heat loss from the plate in W is   
+ Q  =
+ 
+    1494.0225  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH5/EX5.8/Chapter58.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 5, Example 8   
+ 
+ The heat flux in W/(m^2*K) is   
+ hbar  =
+ 
+    120.  
+ 
+ The heat loss from the wire is Q=hbar*pi*D*L*(Twire-Tair) in Watt   
+ Q  =
+ 
+    1.8849556  
+ 
+ The current in Ampere is   
+ I  =
+ 
+    17.724539  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH6/EX6.1/Chapter61.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 6, Example 1   
+ 
+ Umax in m/s is   
+ Umax  =
+ 
+    2.4  
+ 
+ The shear stress T in N/m^2   
+ T  =
+ 
+    96.  
+ 
+ (dp/dx) in N/m^3 is   
+ X  =
+ 
+  - 19200.  
+ 
+ The Shear stress at a distance of 0.002m from the lower plate in N/m^2   
+ t  =
+ 
+  - 57.6  
+ 
+ The shear stress at a distance of 0.002m from the upper plate in N/m^2   
+ t  =
+ 
+    57.6  
+ 
+ The opposite signs in t represents the opposite directions.The plus sign is in 
+       the direction of flow and the minus sign is in the direction opposite to 
+       the flow                                                                 
+ 
+ The pressure drop over a distance of 2m in N/m^2 is   
+ deltaP  =
+ 
+    38400.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH6/EX6.3/Chapter63.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 6, Example 3   
+ 
+ The rate of change of pressure with respect to length in N/m^3   
+ X  =
+ 
+    2000.  
+ 
+ Flow rate(Q) in m^3/s is)   
+ Q  =
+ 
+    0.0033333  
+ 
+ The viscosity of oil(mu)in kg/(m*s)   
+ mu  =
+ 
+    0.0920388  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH6/EX6.7/Chapter67.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 6, Example 7   
+ 
+ The maximum length of plate in m is    
+ L  =
+ 
+    2.5  
+ 
+ The average skin friction coefficient is   
+ cfL  =
+ 
+    0.0018781  
+ 
+ Drag force on one side of plate in N is   
+ Fd  =
+ 
+    0.0304248  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.1/Chapter71.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 1   
+ 
+ First we check from reynolds no. that the flow is laminar or tubulent   
+ 
+ Reynold number is   
+ Re  =
+ 
+    20000.  
+ 
+ which is less than critical reynolds number,So the flow is laminar.   
+ 
+ The average nusselt number over the entire length under the situation is given 
+       by NuL=0.664*Re^0.5*Pr^(1/3)                                             
+ NuL  =
+ 
+    1331.3677  
+ 
+ Heat flux in W/(m^2*K) is   
+ h  =
+ 
+    38.609665  
+ 
+ The rate of heat transfer per unit width in W is   
+ Q  =
+ 
+    5791.4497  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.2/Chapter72.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 2   
+ 
+ The location x in m where the transition occurs   
+ x  =
+ 
+    0.275  
+ 
+ The average Nusselt number for the laminar zone is   
+ Nux  =
+ 
+    417.87795  
+ 
+ Heat flux in W/(m^2*K) is   
+ h  =
+ 
+    39.508461  
+ 
+ The reynolds number at L=2m is   
+ ReL  =
+ 
+    3636363.6  
+ 
+ The average heat transfer coefficient over L=2m in W/(m^2*K)   
+ hbarL  =
+ 
+    65.793292  
+ 
+ The rate of heat transfer per unit width in W is   
+ Q  =
+ 
+    13158.658  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.3/Chapter73.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 3   
+ 
+ (a)When the air flows parallel to the long side we have L=5 and the Reynolds n 
+      o. becomes                                                                
+ ReL  =
+ 
+    1250000.  
+ 
+ which is greater than critical Reynolds number.   
+ 
+ The average heat transfer coefficient over L=5m in W/(m^2*K)   
+ hbarL  =
+ 
+    10.256762  
+ 
+ The rate of heat transfer per unit width in W is   
+ Q  =
+ 
+    6154.0573  
+ 
+ (b)When the air flow is parallel to the 1m side we have L=1 an the Reynolds no 
+      . becomes                                                                 
+ ReL  =
+ 
+    250000.  
+ 
+ which is less than critical Reynolds number.   
+ 
+ Heat flux in W/(m^2*K) is   
+ h  =
+ 
+    8.8687192  
+ 
+ The rate of heat transfer per unit width in W is   
+ Q  =
+ 
+    5321.2315  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.4/Chapter74.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 4   
+ 
+ (a)Reynolds number is   
+ ReL  =
+ 
+    6000.  
+ 
+ The boundary layer thickness in m is   
+ delta  =
+ 
+    0.3872983  
+ 
+ Prandtl no. is   
+ Pr  =
+ 
+    831.02493  
+ 
+ The thermal boundary layer thickness in m is   
+ deltaT  =
+ 
+    0.0411947  
+ 
+ (b)Since the prandtl number is high So Nusselt no. is   
+ NuL  =
+ 
+    246.87665  
+ 
+ Heat flux in W/(m^2*K) is   
+ hL  =
+ 
+    8.6406826  
+ 
+ hbarL in W/(m^2*K) is   
+ hbarL  =
+ 
+    17.281365  
+ 
+ (c)The rate of heat transfer in W is   
+ Q  =
+ 
+    6221.2915  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.5/CHapter75.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 5   
+ 
+ Reynolds number is   
+ ReL  =
+ 
+    1118181.8  
+ 
+ Therefore the flow is turbulent over the module    
+ 
+ The local heat transfer coefficient at L in W/(m^2*K)is   
+ hL  =
+ 
+    68.55127  
+ 
+ The required power generation in W/m^3 is   
+ qm  =
+ 
+    1371025.4  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.6/Chapter76.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 6   
+ 
+ Reynolds number is   
+ ReL  =
+ 
+    15000000.  
+ 
+ Since ReL>Rec(=5*10^5) the flow is approximated as turbulent over the entire s 
+      urface of the wing                                                        
+ 
+ Nusselt number is    
+ NubarL  =
+ 
+    19001.063  
+ 
+ Average heat transfer coefficient in W/(m^2*K) is   
+ hbarL  =
+ 
+    228.01276  
+ 
+ Surface temprature of wing in kelvin is   
+ Tw  =
+ 
+    269.97357  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.7/Chapter77.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 7   
+ 
+ Reynolds number is   
+ Re  =
+ 
+    141.17647  
+ 
+ Nusselt number is   
+ NuD  =
+ 
+    6.1182807  
+ 
+ The average Heat transfer coefficient in W/(m^2*K) is   
+ hbar  =
+ 
+    4129.8394  
+ 
+ Heat transfer per unit length in W/m is   
+ qL  =
+ 
+    12.974273  
+ 
+ If we use eq NuD=0.3+[(0.62*Re^0.5*Pr^(1/3))/(1+(0.4/Pr^(2/3))^(1/4)]*[1+(Re/2 
+      82000)^(5/8)]^(4/5)                                                       
+ NuD  =
+ 
+    6.1105999  
+ 
+ The average Heat transfer coefficient in W/(m^2*K) is   
+ hbar  =
+ 
+    4124.655  
+ 
+ Heat transfer per unit length in W/m is   
+ qL  =
+ 
+    12.957986  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.8/Chapter78.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 8   
+ 
+ Reynolds number for mercury is   
+ ReHg  =
+ 
+    1000.  
+ 
+ Reynolds number for oil is   
+ Reoil  =
+ 
+    15.384615  
+ 
+ The hydrodynamic entry length for mercury in m is   
+ LeHg  =
+ 
+    1.25  
+ 
+ The hydrodynamic entry length for oil in m is   
+ Leoil  =
+ 
+    0.0192308  
+ 
+ The thermal entry length for mercury in m is    
+ LtHg  =
+ 
+    0.02375  
+ 
+ The thermal entry length for oil in m is   
+ Ltoil  =
+ 
+    1.6346154  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.9/Chapter79.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 9   
+ 
+ Reynold number is   
+ Re  =
+ 
+    348.62385  
+ 
+ Therefore the flow is laminar.The hydrodynamic entrance length in m is   
+ Leh  =
+ 
+    0.0697248  
+ 
+ The thermal entrance length in m is   
+ Let  =
+ 
+    0.0488073  
+ 
+ The heat transfer coefficient in W/(m^2*K) is    
+ h  =
+ 
+    32.7  
+ 
+ The mass flow rate of air in kg/s is   
+ mdot  =
+ 
+    0.0000239  
+ 
+ Therefore the constant surface heat flux qw in W/m^2 is   
+ qw  =
+ 
+    95.95  
+ 
+ The tube surface temprature at the exit plane in °C is    
+ Twe  =
+ 
+    127.93425  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.1/Chapter81.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 1   
+ 
+ Grashoff number is   
+ GrL  =
+ 
+    2.175D+09  
+ 
+ Rayleigh number is   
+ RaL  =
+ 
+    9.440D+09  
+ 
+ Therefore the flow is turbulent   
+ 
+ Now we use [(hbarL*L)/k]=0.10*(GrL*Pr)^(1/3)   
+ 
+ The average heat transfer coefficient in W/(m^2*K) is   
+ hbarL  =
+ 
+    663.62445  
+ 
+ The rate of heat transfer in W is   
+ q  =
+ 
+    1061.7991  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.2/Chapter82.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 2   
+ 
+ The minimum spacing between the plates will be twice the thickness of the boun 
+      dary layer at the trailing edge where x=0.09                              
+ 
+ Grashoff number is   
+ GrL  =
+ 
+    1.982D+08  
+ 
+ Rayleigh number is   
+ RaL  =
+ 
+    8.602D+08  
+ 
+ Since Ra<10^9,Therefore the flow is laminar   
+ 
+ The thickness of the boundary layer in metre is   
+ delta  =
+ 
+    0.0021703  
+ 
+ The minimum spacing in metre is   
+ spac  =
+ 
+    0.0043405  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.3/Chapter83.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 3   
+ 
+ Grashoff number is   
+ Grx  =
+ 
+    3.528D+09  
+ 
+ The boundary layer thickness in metre is   
+ delta  =
+ 
+    0.0173539  
+ 
+ The velocity at point x is ux in m/s is   
+ ux  =
+ 
+    8.1096583  
+ 
+ For maximum value of velocity,u   
+ y  =
+ 
+    0.0174191  
+ y  =
+ 
+    0.0057276  
+ 
+ Maximum velocity in m/s is   
+ Umax  =
+ 
+    1.1941191  
+ 
+ Mass flow rate at x=0.8m,in kG is   
+ mdot  =
+ 
+    0.0322568  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.4/Chapter84.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 4   
+ 
+ Grashoff number is   
+ GrL  =
+ 
+    52078054.  
+ 
+ Rayleigh number is   
+ RaL  =
+ 
+    35933857.  
+ 
+ Hence,the flow is laminar   
+ 
+ The thickness of the boundary layer in metre is   
+ delta  =
+ 
+    0.0126089  
+ 
+ The average heat transfer coeficient in W/(m^2*K) is   
+ hbarL  =
+ 
+    6.3447189  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.5/Chapter85.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 5   
+ 
+ Grashoff number is   
+ GrL  =
+ 
+    5.040D+08  
+ 
+ Rayleigh number is   
+ RaL1  =
+ 
+    3.578D+08  
+ 
+ Therefore the flow is laminar   
+ 
+ Nusselt number is   
+ NuL1  =
+ 
+    75.313467  
+ 
+ Average heat transfer coefficient(hbarL)in W/(m^2*°C)   
+ hbarL  =
+ 
+    4.2175541  
+ 
+ The rate of heat transfer in W is    
+ Q  =
+ 
+    46.393095  
+ 
+ Now if we use NuL2=0.59*RaL^(1/4) with the value of C=0.59,n=(1/4)   
+ 
+ Nusselt number is   
+ NuL2  =
+ 
+    81.145673  
+ 
+ Average heat transfer coefficient(hbarL)in W/(m^2*°C)   
+ hbarL  =
+ 
+    4.5441577  
+ 
+ The rate of heat transfer in W is    
+ Q  =
+ 
+    49.985735  
+ 
+ (b)For the horizontal plate facing up   
+ Lc  =
+ 
+    0.125  
+ 
+ Now RaL2=Gr*Pr*(Lc/L)^3   
+ 
+ Rayleigh number is   
+ RaL2  =
+ 
+    5590793.5  
+ 
+ Nusselt number is given by NuL3=C*(GrL*Pr)^n   
+ NuL3  =
+ 
+    26.258029  
+ 
+ Average heat transfer coefficient(hbarL)in W/(m^2*°C)   
+ hbarL  =
+ 
+    5.8817985  
+ 
+ The rate of heat transfer in W is    
+ Q  =
+ 
+    64.699783  
+ 
+ (c)When the hot surface faces is down   
+ 
+ Nusselt number is given by NuL4=0.27*RaL2^(1/4)   
+ NuL4  =
+ 
+    13.129014  
+ 
+ Average heat transfer coefficient(hbarL) in W/(m^2)   
+ hbarL  =
+ 
+    2.9408992  
+ 
+ The rate of heat transfer in W is    
+ Q  =
+ 
+    32.349892  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.6/Chapter86.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 6   
+ 
+ Grashoff number is   
+ GrL  =
+ 
+    8.137D+08  
+ 
+ Rayleigh number is   
+ RaL  =
+ 
+    5.696D+08  
+ 
+ Therefore the flow is laminar   
+ 
+ Now we use NuL=0.59*RaL^(1/4) with the value of constants C=0.59,n=(1/4)   
+ 
+ Nusselt number is   
+ NuL  =
+ 
+    91.147595  
+ 
+ Average heat transfer coefficient in W/(m^2*K)   
+ hbarL1  =
+ 
+    5.4688557  
+ 
+ Grashoff number GrD=GrL*(D/L)^3   
+ GrD  =
+ 
+    0.0065098  
+ 
+ Thr correction factor is   
+ F  =
+ 
+    39.485281  
+ 
+ The correct value of Average heat transfer coefficient(hbarL2)=hbarL1*F in W/( 
+      m^2*K) is                                                                 
+ hbarL2  =
+ 
+    215.93931  
+ 
+ The ohmic loss in W is    
+ q  =
+ 
+    3.3919667  
+ 
+ The current flowing in the wire in Ampere is   
+ I  =
+ 
+    7.5188282  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.7/Chapter87.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 7   
+ 
+ Grashoff number is   
+ GrD  =
+ 
+    53311596.  
+ 
+ Rayleigh number is   
+ RaD  =
+ 
+    37318117.  
+ 
+ The flow is laminar over the entire cylinder   
+ 
+ we use following equation to find Nusselt number NuD=[0.60+((0.387*RaD^(1/6))/ 
+      (1+(0.559/Pr^(9/16)))^(8/27))]^2                                          
+ NuD  =
+ 
+    44.396924  
+ 
+ Average heat transfer coefficient in W/(m^2*K)   
+ hbar  =
+ 
+    6.6595386  
+ 
+ The heat loss per meter length in W is   
+ q  =
+ 
+    439.35271  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH8/EX8.8/Chapter88.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 8, Example 8   
+ 
+ Let us take first trial Tw=64°C   
+ 
+ Grashoff number is   
+ GrD  =
+ 
+    226303.67  
+ 
+ Rayleigh number is   
+ RaD  =
+ 
+    941423.28  
+ 
+ The flow is laminar    
+ 
+ we use following equation to find Nusselt number NuD=[0.60+((0.387*RaD^(1/6))/ 
+      (1+(0.559/Pr^(9/16)))^(8/27))]^2                                          
+ NuD  =
+ 
+    17.518749  
+ 
+ Average heat transfer coefficient in W/(m^2*K)   
+ hbarD  =
+ 
+    1388.3609  
+ 
+ Hence,steady state Surface temprature in °C is   
+ Tw  =
+ 
+    62.988178  
+ 
+ Hence we see that our guess is in excellent agreement with the calculated valu 
+      e                                                                         
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.1/Chapter91.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 1   
+ 
+ The properties of condensate(liquid water) are evaluated at the mean film temp 
+      rature                                                                    
+ 
+ The mean film temprature in°C is   
+ tf  =
+ 
+    95.  
+ 
+ The average heat transfer coefficient over length L in W/(m^2*K)   
+ hbarL  =
+ 
+    8055.6692  
+ 
+ The rate of heat transfer per unit width in W/m    
+ Q  =
+ 
+    32222.677  
+ 
+ The total rate of condensation in kg/(s*m)   
+ mdotc  =
+ 
+    0.0141950  
+ 
+ We have to check whether the flow is laminar or not    
+ 
+ Reynolds no. is   
+ ReL  =
+ 
+    189.26682  
+ 
+ Therefore the flow is laminar and hence the use of the equation is justified   
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.2/Chapter92.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 2   
+ 
+ The mean film temprature in°C is   
+ tf  =
+ 
+    95.  
+ 
+ The average heat transfer coefficient in W/(m^2*K)   
+ hbar  =
+ 
+    10703.325  
+ 
+ The total rate of condensation in kg/s   
+ mdotc  =
+ 
+    0.0222195  
+ 
+ Check for reynolds no.   
+ 
+ Reynolds number is   
+ Re  =
+ 
+    49.376632  
+ 
+ The flow is laminar   
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.3/Chapter93.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 3   
+ 
+ The mean film temprature in°C is   
+ tf  =
+ 
+    80.  
+ 
+ The average heat transfer coefficient over length L in W/(m^2*K)   
+ hbar  =
+ 
+    3917.1409  
+ 
+ The rate of heat transfer  in kW    
+ Q  =
+ 
+    70.508537  
+ 
+ (b)The film thickness at the trailing edges in m is   
+ delta  =
+ 
+    0.0002281  
+ 
+ The total rate of condensation in kg/s   
+ mdotc  =
+ 
+    0.0310610  
+ 
+ Hence the average flow velocity at the trailing edge in m/s is   
+ v  =
+ 
+    0.4669776  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.4/Chapter94.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 4   
+ 
+ The mean film temprature in°C is   
+ tf  =
+ 
+    30.  
+ 
+  Modified enthalpy in J/kg is   
+ hfgdash  =
+ 
+    135016.25  
+ 
+ The average heat transfer coefficient over length L in W/(m^2*K)   
+ hbar  =
+ 
+    1178.6493  
+ 
+ The total rate of condensation in kg/hr   
+ mdotc  =
+ 
+    15.225245  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.5/Chapter95.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 5   
+ 
+ Heat transfer coefficient in W/m^2 is   
+ h  =
+ 
+    105042.26  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.6/Chapter96.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 6   
+ 
+ Critical Heat flux in W/m^2 is   
+ qc  =
+ 
+    1244554.3  
+ 
+ The burn out voltage in Volts is     
+ E  =
+ 
+    11.729648  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.7/Chapter97.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 7   
+ 
+ Heat flux q in W/m^2 is   
+ q  =
+ 
+    1504130.6  
+ 
+ The peak heat flux for water at one atmospheric pressure is qc=1.24*10^6(found 
+       in example 9.6).Since q<qc,The regime of boiling is nucleate.            
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH9/EX9.8/Chapter98.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 9, Example 8   
+ 
+ The heat flux in W/m^2 is   
+ q  =
+ 
+    750000.  
+ 
+ The surface temprature in °C is   
+ Tw  =
+ 
+    120.  
+ 
+ The value of the coefficient csf is    
+ csf  =
+ 
+    0.0151329  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH10/EX10.1/Chapter101.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 10, Example 1   
+ 
+ The rate of heat transfer from water is given by Q=mdot*cp*(T3-T4) in W   
+ Q  =
+ 
+    11286.  
+ 
+ (a) For a parallel flow arrangement   
+ 
+ LMTD is given by (deltaT2-deltaT1)/(ln(deltaT2/deltaT1)) in °C    
+ LMTD  =
+ 
+    35.469903  
+ 
+ Area(A)=Q/(U*LMTD) in m^2   
+ A  =
+ 
+    0.3977316  
+ 
+ (b)For counterflow arrangement   
+ 
+ LMTD=(deltaT2-deltaT1)/(ln(deltaT2/deltaT1))in°C    
+ LMTD  =
+ 
+    36.314302  
+ 
+ Area(A)=Q/(U*LMTD) in m^2   
+ A  =
+ 
+    0.3884833  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH10/EX10.2/Chapter102.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 10, Example 2   
+ 
+ The inlet temprature(Tc1) of cold oil in °C    
+ Tc1  =
+ 
+    55.09481  
+ 
+ The rate of heat transfer Q=mdoth*ch*(Th1-Th2) in W   
+ Q  =
+ 
+    190190.  
+ 
+ LMTD is given by (deltaT2-deltaT1)/(ln(deltaT2/deltaT1)) in °C    
+ LMTD  =
+ 
+    28.996453  
+ 
+ Area(A)=Q/(U*LMTD) in m^2   
+ A  =
+ 
+    10.09089  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH10/EX10.3/Chapter103.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 10, Example 3   
+ 
+ The outlet temprature(Tho) of oil in °C    
+ Tho  =
+ 
+    70.666667  
+ 
+ For a counterflow heat exchanger   
+ 
+ LMTD is given by (deltaT2-deltaT1)/(ln(deltaT2/deltaT1)) in °C    
+ LMTD  =
+ 
+    14.693649  
+ 
+ dimensionless parameters P and R are   
+ P  =
+ 
+    0.8  
+ R  =
+ 
+    0.7333333  
+ 
+ correction factor(F) for the cross flow arrangement as obtained from graph of  
+      F vs Single Pass flow with fluids unmixed                                 
+ F  =
+ 
+    0.75  
+ 
+ overall heat transfer coefficient(U)=Q/(A*F*LMTD)in W/(m^2*K)   
+ U  =
+ 
+    758.6044  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH10/EX10.5/Chapter105.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 10, Example 5   
+ 
+ (a)Applying LMTD method   
+ 
+ The rate of heat transfer Q=mdotw*cpw*(Tout-Tin) in W   
+ Q  =
+ 
+    300960.  
+ 
+ The unknown outlet temprature(Thout) of geothermal fluid  in °C    
+ Thout  =
+ 
+    125.08585  
+ 
+ LMTD is given by (deltaT2-deltaT1)/(ln(deltaT2/deltaT1)) in °C    
+ LMTD  =
+ 
+    81.903613  
+ 
+ Area(A)=Q/(U*LMTD) in m^2   
+ A  =
+ 
+    6.124272  
+ 
+ To provide this surface area ,The length(L) of the tube required is given by L 
+      =A/(pi*D) in m                                                            
+ L  =
+ 
+    129.96109  
+ 
+ (b)Applying NTU method   
+ 
+ The heat capacity rates are defined as Ch=mdoth*cph and Cc=mdotw*cpw in KW/°C 
+ Ch  =
+ 
+    8.62  
+ Cc  =
+ 
+    5.016  
+ 
+ C=Cmin/Cmax   
+ C  =
+ 
+    0.5819026  
+ 
+ Heat transfer effectiveness is defined as eff=Q/(Cmin*(Thin-Tin))   
+ eff  =
+ 
+    0.4615385  
+ 
+ NTU is determined by NTU=(1/(C-1))*ln((eff-1)/(eff*C-1))   
+ NTU  =
+ 
+    0.7325684  
+ 
+ Area(A)=(NTU*Cmin)/U in m^2   
+ A  =
+ 
+    6.124272  
+ 
+ To provide this surface area ,The length(L) of the tube required is given by L 
+      =A/(pi*D) in m                                                            
+ L  =
+ 
+    129.96109  
+ 
+ Hence same result is obtained for both methods   
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH10/EX10.6/Chapter106.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 10, Example 6   
+ 
+ NTU is defined as (U*A)/Cmin    
+ NTU  =
+ 
+    1.8617021  
+ 
+ Heat transfer effectiveness(eff) is defined as (1-e^[-NTU*(1-C)])/(1-C*e^[-NTU 
+      *(1-C)])                                                                  
+ eff  =
+ 
+    0.6837151  
+ 
+ The total heat transfer rate(Q)=eff*Cmin*(Thi-Tci) in kW   
+ Q  =
+ 
+    163.8865  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH10/EX10.7/Chapter107.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 10, Example 7   
+ 
+ NTU is defined as (U*A)/Cmin    
+ NTU  =
+ 
+    5.4455446  
+ 
+ The effectiveness of heat exchanger is   
+ eff  =
+ 
+    0.9528158  
+ 
+ The total heat transfer rate(Q)=eff*Cmin*(Thi-Tci) in W   
+ Q  =
+ 
+    1010461.1  
+ 
+ The exit temprature of air in °C    
+ Tho  =
+ 
+    24.954343  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH10/EX10.8/Chapter108.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 10, Example 8   
+ 
+ (a)Considering a parallel flow arrangement    
+ 
+ The minimum flow rate required for the oil in kg/s   
+ mdoth  =
+ 
+    2.2234043  
+ 
+ (b)Theoretical question   
+ 
+ If LMTD--->0,Then for a finite value of heat transfer rate U*A--->infinity.For 
+       a given finite length this implies value of U which is not possible.     
+ 
+ (c)Let us consider a counter flow arrangement   
+ 
+ The minimum flow rate required for the oil in kg/s   
+ mdoth  =
+ 
+    1.4822695  
+ 
+ Effectiveness of heat exchanger is    
+ eff  =
+ 
+    1.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.10/Chapter110.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 10   
+ 
+ Heat transfer from the outer surface takes place only by radiation is given by 
+       Q/A=F1=emi*sigma*(T2^4-T0^4)in W/m^2 for different values of tempratures 
+       in K                                                                     
+ 
+ heat transfer from the outer surface can also be written as Q/A=F2=(Ti-To)/((1 
+      /hbri)+(L/k)+(1/hr)) in W/m^2 at different tempratures in K               
+ 
+ The values of temprature that are considered are <298 K   
+ T2  =
+ 
+    285.  
+ F1  =
+ 
+    299.26263  
+ F2  =
+ 
+    307.65213  
+ T2  =
+ 
+    286.  
+ F1  =
+ 
+    303.48496  
+ F2  =
+ 
+    310.84674  
+ T2  =
+ 
+    287.  
+ F1  =
+ 
+    307.75182  
+ F2  =
+ 
+    314.06263  
+ T2  =
+ 
+    288.  
+ F1  =
+ 
+    312.06352  
+ F2  =
+ 
+    317.29984  
+ T2  =
+ 
+    289.  
+ F1  =
+ 
+    316.42036  
+ F2  =
+ 
+    320.55843  
+ T2  =
+ 
+    290.  
+ F1  =
+ 
+    320.82266  
+ F2  =
+ 
+    323.83846  
+ T2  =
+ 
+    291.  
+ F1  =
+ 
+    325.27074  
+ F2  =
+ 
+    327.13998  
+ T2  =
+ 
+    292.  
+ F1  =
+ 
+    329.76492  
+ F2  =
+ 
+    330.46304  
+ T2  =
+ 
+    292.5  
+ F1  =
+ 
+    332.02939  
+ F2  =
+ 
+    332.13267  
+ 
+ Satisfactory solutions for Temprature in K is   
+ 
+    292.5  
+ 
+ Approximate Rate of Heat Transfer in W/m^2 is   
+ 
+    332.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH1/EX1.11/Chapter111.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 1, Example 11   
+ 
+ The total heat loss by The pipe per unit length is given by Q/L=hbr*A*(T1-T2)+ 
+      sigma*emi*A*(T1^4-T2^4) in W/m                                            
+ F  =
+ 
+    121.58677  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH11/EX11.3/Chapter113.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 11, Example 3   
+ 
+ The view factors F13 and F31 between the surfaces 1 and 3 are    
+ F13  =
+ 
+    0.04  
+ F31  =
+ 
+    0.032  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH11/EX11.4/Chapter114.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 11, Example 4   
+ 
+ The view factor F14=((F1,2-4*(A1+A2)))-A2*F24)/A2   
+ F14  =
+ 
+    0.02  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH11/EX11.5/Chapter115.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 11, Example 5   
+ 
+ The view factors of cylindrical surface with respect to the base are   
+ F13  =
+ 
+    0.84  
+ F31  =
+ 
+    0.21  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH11/EX11.6/Chapter116.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 11, Example 6   
+ 
+ The rate of heat transfer is given by Q=A1*F12*sigma*(T1^4-T2^4) in W   
+ Q  =
+ 
+  - 2918.916  
+ 
+ Here minus sign indicates that the net heat transfer is from surface2 to surfa 
+      ce1                                                                       
+ 
+ The net rate of energy loss from the surface at 127°C if the surrounding othe 
+      r than the two surfaces act as black body at 0K in W                      
+ Q1  =
+ 
+    2894.4216  
+ 
+ The view factor of surface 1 with respect to surrounding is   
+ F1s  =
+ 
+    0.89  
+ 
+ The net rate of energy loss from the surface at 127°C if the surrounding othe 
+      r than the two surfaces act as black body at 300K in W                    
+ Q1  =
+ 
+    1055.0453  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH11/EX11.7/Chapter117.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 11, Example 7   
+ 
+ The net rate of heat transfer per unit area is given Q/A=(sigma*(T1^4-T2^4))/[ 
+      (1/Ɛ1)+(1/Ɛ2)-1] in W                                                   
+ H  =
+ 
+    1764.5156  
+ 
+ The net rate of heat transfer when the two surfaces are black is Q/A=sigma*(T1 
+      ^4-T2^4) in W                                                             
+ H  =
+ 
+    3276.9576  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH11/EX11.8/Chapter118.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 11, Example 8   
+ 
+ The net rate of heat exchange between the spheres when the surfaces are black  
+      is Q=A1*sigma*(T1^4-T2^4) in W                                            
+ Q  =
+ 
+    779.31133  
+ 
+ The net rate of radiation exchange when one surface is gray and other is diffu 
+      se is given by Q1=[A1*sigma*(T1^4-T2^4)]/[(1/emi1)+(A1/A2)*(1/emi2-1)] in 
+       W                                                                        
+ Q1  =
+ 
+    346.36059  
+ 
+ The net rate of radiation exchange when outer surface is assumed to be black b 
+      ody i;e(emi2=1) in W                                                      
+ Q2  =
+ 
+    389.65566  
+ 
+ Error(E) is given By [(Q2-Q1)/Q1]*100 in percentage   
+ E  =
+ 
+    12.5  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH12/EX12.1/Chapter121.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 12, Example 1   
+ 
+ The flow area is given by A=(pi*di^2)/4 in m^2   
+ A  =
+ 
+    0.0000283  
+ 
+ The molar concentration of mixture which is constant throughout is given by c= 
+      p/(R*T)                                                                   
+ c  =
+ 
+    0.0407853  
+ 
+ Nhe=Nair=(A*c*Db*(Yao-yal))/L in kmol/sec   
+ Nair  =
+ 
+    4.151D-12  
+ 
+ mass flow rate of helium is given by m=Mhe*Nhe in kg/sec    
+ mhe  =
+ 
+    1.661D-11  
+ 
+ mass flow rate of air is given by m=Mair*Nair in kg/sec    
+ mair  =
+ 
+    1.204D-10  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH12/EX12.2/Chapter122.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 12, Example 2   
+ 
+ The film temprature is given by Tf=(T+Tw)/2 in °C    
+ Tf  =
+ 
+    30.  
+ 
+ The density of water at bulb surface is given by rhos=(Ps*M)/(R*Ts) in kg/m^3  
+ rhos  =
+ 
+    0.0172989  
+ 
+ The concentration of water vapour at free stream is rhoinf=rhos-(hheat/hmass)* 
+      ((Tinf-Ts)/hfg) in kg/m^3                                                 
+ rhoinf  =
+ 
+    0.0083104  
+ 
+ The relative humidity is given by rehu=(rhoinf/rhosteam)*100 in percentage   
+ rehu  =
+ 
+    16.294847  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH12/EX12.3/chapter123.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 12, Example 3   
+ 
+ The mole fraction of water vapour at the interface is given by Yao=pvapour/p   
+ Yao  =
+ 
+    0.039625  
+ 
+ The total molecular concentration (c) through the tube remains constant is giv 
+      en by c=p/(R*T) in kmol/m^3                                               
+ c  =
+ 
+    0.0328565  
+ 
+ The cross sectional area of the tube is given by A=(pi*(di*10^-3)^2)/4 in m^2  
+ A  =
+ 
+    0.0009621  
+ 
+ The molar flow rate of water vapour is given by N=mdot/M in kmol/s   
+ N  =
+ 
+    6.430D-11  
+ 
+ The diffusion coefficient of water vapour is Dab=(N*L)/(c*A*ln[(1-Yal)/(1-Yao) 
+      ]) in m/s                                                                 
+ Dab  =
+ 
+    0.0000252  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.10/Chapter210.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 10   
+ 
+ the thickness of insulation in metre is   
+ t  =
+ 
+    0.019  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.11/Chapter211.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 11   
+ 
+ The rate of heat generation of thermal energy in W/m^3 is   
+ qG  =
+ 
+    4.074D+08  
+ 
+ The temprature of wire at the centre in K is    
+ To  =
+ 
+    656.63146  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.12/Chapter212.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 12   
+ 
+ The inner(A1) and outer surfaces(A2) areas of the tank in m^2 are   
+ A1  =
+ 
+    78.539816  
+ A2  =
+ 
+    80.118467  
+ 
+ The convective resistance(Ri) at the inner surface in K/W is    
+ Ri  =
+ 
+    0.0001592  
+ 
+ The conduction resistance(Rs)of the tank in K/W is   
+ Rs  =
+ 
+    0.0000210  
+ 
+ The convective resistance(Roc) at the outer surface in K/W is   
+ Roc  =
+ 
+    0.0012482  
+ 
+ The radiative heat transfer coefficient hr in W/(m^2*K) is   
+ hr  =
+ 
+    5.2626547  
+ 
+ Therefore the radiative resistance(Ror) at the outer surface in K/W is   
+ Ror  =
+ 
+    0.0023717  
+ 
+ The equivalent resistance in K/W is   
+ Ro  =
+ 
+    0.0008178  
+ 
+ The total resistance in K/W is   
+ Rtotal  =
+ 
+    0.0009979  
+ 
+ The rate of heat transfer,Q in W is   
+ Q  =
+ 
+    20041.144  
+ 
+ The outer surface temprature in °C is   
+ T2  =
+ 
+    3.6107227  
+ 
+ which is sufficiently  to the assumption.So there is no need of further iterat 
+      ion                                                                       
+ 
+ The total heat transfer(Qt) during a 24-hour period in KJ is   
+ Qt  =
+ 
+    1731554.9  
+ 
+ Therefore,the amount of ice(mice)in kG which melts during a 24 hour period is  
+ mice  =
+ 
+    5184.296  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.13/Chapter213.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 13   
+ 
+ P/A in m^-1 is   
+ X  =
+ 
+    400.  
+ 
+ m in m^-1 is   
+ m  =
+ 
+    3.2879797  
+ Y  =
+ 
+    0.0082199  
+ 
+ M in W/K is   
+ M  =
+ 
+    0.0955478  
+ 
+ thetab in °C is    
+ thetab  =
+ 
+    100.  
+ 
+ Heat loss from rod in Watt, for different value of length(in m) is    
+ L  =
+ 
+    0.02  
+ Q  =
+ 
+    0.7055734  
+ L  =
+ 
+    0.04  
+ Q  =
+ 
+    1.3265553  
+ L  =
+ 
+    0.08  
+ Q  =
+ 
+    2.530063  
+ L  =
+ 
+    0.2  
+ Q  =
+ 
+    5.5629939  
+ L  =
+ 
+    0.4  
+ Q  =
+ 
+    8.2900142  
+ L  =
+ 
+    0.8  
+ Q  =
+ 
+    9.4576906  
+ L  =
+ 
+    1.  
+ Q  =
+ 
+    9.5286225  
+ L  =
+ 
+    10.  
+ Q  =
+ 
+    9.554781  
+ 
+ For an infintely long rod heat loss in W is   
+ Qinf  =
+ 
+    9.554781  
+ 
+ We see that since k is large there is significant difference  between the fini 
+      te length and the infinte length cases                                    
+ 
+ However when the length of the rod approaches 1m,the result become almost same 
+      .                                                                         
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.14/Chapter214.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 14   
+ 
+ The thermal conductivity of Rod B kB in W/(m*K) is    
+ kB  =
+ 
+    18.  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH2/EX2.15/Chapter215.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 2, Example 15   
+ 
+  perimeter of each fin in m is   
+ P  =
+ 
+    0.202  
+ 
+ Cross sectional area of fin in m^2 is   
+ A  =
+ 
+    0.0001  
+ M  =
+ 
+    0.8348054  
+ m  =
+ 
+    36.295886  
+ 
+ Temprature parameter at fin base in K is   
+ thetab  =
+ 
+    100.  
+ 
+ Fixed temprature at fin tip in K is   
+ thetaL  =
+ 
+    50.  
+ 
+ Heat loss from the plate at 400K in W is   
+ Qb  =
+ 
+    7456.0215  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.10/Chapter410.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 10   
+ 
+ The factor((To-Tinf)/(Ti-Tinf)) is    
+ X  =
+ 
+    0.6  
+ 
+ For plate 1   
+ Bi1  =
+ 
+    0.2054795  
+ Y  =
+ 
+    4.8666667  
+ Fo1  =
+ 
+    0.8136  
+ 
+ For plate 2   
+ Bi2  =
+ 
+    0.1369863  
+ Y  =
+ 
+    7.3  
+ Fo2  =
+ 
+    1.8306  
+ T  =
+ 
+    0.68  
+ 
+ For plate 1   
+ Bi1  =
+ 
+    0.2054795  
+ Y  =
+ 
+    4.8666667  
+ Fo1  =
+ 
+    1.0848  
+ 
+ For plate 2   
+ Bi2  =
+ 
+    0.1369863  
+ Y  =
+ 
+    7.3  
+ Fo2  =
+ 
+    2.4408  
+ T  =
+ 
+    0.5976  
+ 
+ The calculated value is very  to the required value of 0.6.Hence the time requ 
+      ired for the centre of the beam to reach 310°C is nearly 1200s or 20 min 
+      utes.                                                                     
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.11/Chapter411.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 11   
+ 
+ The time required for the temprature to reach 255°C at a depth of 80mm, in mi 
+      nutes is                                                                  
+ t  =
+ 
+    11.542013  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.12/Chapter412.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 12   
+ eta  =
+ 
+    2.1968739  
+ 
+ gaussian error function is   
+ E  =
+ 
+    0.9981091  
+ 
+ The temprature at a depth(x) of 100mm after a time(t) of 100 seconds,in °C is 
+ T  =
+ 
+    35.034649  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.13/Chapter413.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 13   
+ 
+ Final temperature distribution in degree C after 25 mins   
+ T  =
+ 
+    580.    405.    273.75    142.5    90.    37.5    37.5  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH4/EX4.14/Chapter414.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 4, Example 14   
+ 
+ Temperature distribution after 25 mins in °C   
+ T  =
+ 
+    580.       
+    390.92966  
+    235.51921  
+    137.73167  
+    82.995808  
+    56.416436  
+    48.589443  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH6/EX6.10/Chapter610.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 6, Example 10   
+ 
+ Wind velocity(Uinf)in m/s is   
+ Uinf  =
+ 
+    10.  
+ 
+ Reynolds number is   
+ ReL  =
+ 
+    4000000.  
+ 
+ Friction coefficient is   
+ CbarfL  =
+ 
+    0.0031030  
+ 
+ Drag force on one side of the plate per unit metre width in Newton is    
+ FD  =
+ 
+    1.1170815  
+ 
+ The turbulent boundary layer thickness at the trailing edge in metre is    
+ delta  =
+ 
+    0.1087373  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.10/Chapter710.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 10   
+ 
+ Reynold number is   
+ Re  =
+ 
+    348.62385  
+ 
+ Therefore the flow is laminar.The hydrodynamic entrance length in m is   
+ Leh  =
+ 
+    0.0697248  
+ 
+ The thermal entrance length in m is   
+ Let  =
+ 
+    0.0488073  
+ 
+ The thermal entrance length is greater than the tube length Therefore the flow 
+       is hydrodynamically developed but not thermally developed                
+ 
+ The inverse of graetz number Gr_1 is   
+ Gr_1  =
+ 
+    0.0409774  
+ 
+ Therefore the local heat transfer coefficient in W/(m^2*K) is   
+ hL  =
+ 
+    35.25  
+ 
+ The mass flow rate of air in kg/s is   
+ mdot  =
+ 
+    0.0000239  
+ 
+ Therefore surafce heat flux qw in W/m^2 is   
+ qw  =
+ 
+    2398.75  
+ 
+ The tube surface temprature at the exit plane in °C is    
+ Twe  =
+ 
+    193.04965  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH7/EX7.11/Chapter711.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 7, Example 11   
+ 
+ Reynold number is   
+ Re1  =
+ 
+    13541.321  
+ 
+ Nusselt number is   
+ Nubar1  =
+ 
+    84.662316  
+ 
+ The heat transfer transfer coefficient in W/(m^2*°C)    
+ hbar1  =
+ 
+    778.89331  
+ 
+ Outlet fluid temprature in first iteration is Tbo2 in °C is   
+ Tbo2  =
+ 
+  - 16.709961  
+ 
+ Tb2 in °C is   
+ Tb2  =
+ 
+  - 28.354981  
+ 
+ Reynold number is   
+ Re2  =
+ 
+    13938.849  
+ 
+ Nusselt number is   
+ Nubar2  =
+ 
+    85.5937  
+ 
+ The heat transfer transfer coefficient in W/(m^2*°C)    
+ hbar2  =
+ 
+    784.03829  
+ 
+ Outlet fluid temprature in second iteration is Tbo3 in °C is   
+ Tbo3  =
+ 
+  - 16.646853  
+ 
+ Tb3 in °C is   
+ Tb3  =
+ 
+  - 28.323426  
+ 
+ The Exit fluid temprature after second iteration is obtained as Tbo=-16.67°C  
+grepthis#Introduction_To_Heat_Transfer__S._K._Som_1910/CH11/EX11.10/Chapter1110.sce #
+ 
+ 
+ Introduction to heat transfer by S.K.Som, Chapter 11, Example 10   
+ 
+ Equivalent resistance of thermal network (R) is given by R1+[(1/R12)+(1/(R13+R 
+      23))]^-1+R2                                                               
+ R  =
+ 
+    2.0952381  
+ 
+ The radiation flux leaving the hot wall is Q/A=[sigma*(T1^4-T2^4)]/(A*R) in W/ 
+      m^2                                                                       
+ H  =
+ 
+    26655.274  

@@ -1,0 +1,462 @@
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.10/example_3_10.sce
+ 
+ 
+ 
+ 
+ 
+ The minimal expression of Y from the following Kmap is :   
+ 
+kmap(k);
+        !--error 4 
+Undefined variable: kmap
+at line       6 of exec file called by :    
+vino_45/CH3/EX3.10/example_3_10.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.11/example_3_11.sce
+ 
+ 
+ 
+ 
+ 
+ The given kmap is    
+ 
+ 
+       C'D'  C'D  CD  CD'   
+ 
+ 
+ A'B'    0    0    0   0   
+ 
+ 
+ A'B     0    0    0   1   
+ 
+ 
+ AB      1    1    1   1   
+ 
+ 
+ AB'     1    1    1   1   
+ 
+ 
+ The simplest POS form of following Kmap is :   
+ 
+ 
+ 
+kmappos(k);//calling the Kmappos function
+           !--error 4 
+Undefined variable: kmappos
+at line      14 of exec file called by :    
+vino_45/CH3/EX3.11/example_3_11.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.12/example_3_12.sce
+ 
+ 
+ 
+ The given kmap is    
+ 
+ 
+       C'D'  C'D  CD  CD'   
+ 
+ 
+ A'B'    0    0    1   0   
+ 
+ 
+ A'B     0    0    1   1   
+ 
+ 
+ AB      x    x    x   1   
+ 
+ 
+ AB'     x    x    x   0   
+ 
+ 
+ In a Karnaugh map if don't care condition exits, we may consider them as zeros 
+       if that gives a larger group size.                                       
+ 
+ 
+ The simplest POS form of following Kmap is :   
+ 
+ 
+ 
+kmappos(k); //calling the Kmappos function
+           !--error 4 
+Undefined variable: kmappos
+at line      13 of exec file called by :    
+vino_45/CH3/EX3.12/example_3_12.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.6/example_3_6.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ The minimal expression of Y from the following Kmap is :   
+ 
+ kmap(k); //calling the Kmap function
+         !--error 4 
+Undefined variable: kmap
+at line       7 of exec file called by :    
+alvino_45/CH3/EX3.6/example_3_6.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.7/example_3_7.sce
+ 
+ 
+ 
+ 
+ The kanaurgh map for given truth table will be :   
+ 
+ 
+       C'D'  C'D  CD  CD'   
+ 
+ 
+ A'B'    1    0    0   0   
+ 
+ 
+ A'B     0    0    0   0   
+ 
+ 
+ AB      x    x    x   x   
+ 
+ 
+ AB'     0    0    x   x   
+ 
+ 
+ The truth table has output one only for the input condition 0000. The correspo 
+      nding fundamental product is A'B'C'D'                                     
+ 
+ 
+kmap(k);//calling the Kmap function
+        !--error 4 
+Undefined variable: kmap
+at line      12 of exec file called by :    
+alvino_45/CH3/EX3.7/example_3_7.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH3/EX3.8/example_3_8.sce
+ 
+ 
+ 
+ 
+       C'D'  C'D  CD  CD'   
+ 
+ 
+ A'B'    0    0    0   0   
+ 
+ 
+ A'B     0    0    1   0   
+ 
+ 
+ AB      x    x    x   x   
+ 
+ 
+ AB'     0    0    x   x   
+ 
+ 
+ 
+ In a Karnaugh map if don't care condition exits, we may consider them as ones  
+      if that gives a larger group size.                                        
+ 
+ 
+ The minimal expression from the given kmap is    
+ 
+kmap(k); //calling the kamp function
+        !--error 4 
+Undefined variable: kmap
+at line      12 of exec file called by :    
+alvino_45/CH3/EX3.8/example_3_8.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH4/EX4.11/exmple_4_11.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Input             Output     
+ 
+ 
+    S     X1    X2    X3    A     B    
+ 
+ 
+    0.    0.    0.    0.    0.    0.  
+    1.    1.    0.    0.    0.    1.  
+    1.    0.    1.    0.    1.    0.  
+    1.    0.    0.    1.    1.    1.  
+    1.    0.    0.    0.    0.    0.  
+ 
+ 
+ 
+ The minimal expression of A from the following Kmap is :   
+ 
+    kmapsx(kmp);
+                !--error 4 
+Undefined variable: kmapsx
+at line      41 of exec file called by :    
+lvino_45/CH4/EX4.11/exmple_4_11.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH7/EX7.2/example_7_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+max_clk_frq = 1/prop_delay; // making necessary calculations
+                  !--error 4 
+Undefined variable: prop_delay
+at line       7 of exec file called by :    
+alvino_45/CH7/EX7.2/example_7_2.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.14/example_10_14.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n1  =
+ 
+    0.    0.    1.  
+ n1  =
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+ n1  =
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    0.    1.    1.  
+ n1  =
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    0.    1.    1.  
+    1.    0.    0.  
+ n1  =
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    0.    1.    1.  
+    1.    0.    0.  
+    1.    0.    1.  
+ 
+ n1  =
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    0.    1.    1.  
+    1.    0.    0.  
+    1.    0.    1.  
+    0.    0.    0.  
+ n1  =
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    0.    1.    1.  
+    1.    0.    0.  
+    1.    0.    1.  
+    0.    0.    0.  
+    0.    0.    0.  
+ n1  =
+ 
+    0.    0.    1.  
+    0.    1.    0.  
+    0.    1.    1.  
+    1.    0.    0.  
+    1.    0.    1.  
+    0.    0.    0.  
+    0.    0.    0.  
+    0.    0.    0.  
+ 
+ 
+ p  =
+ 
+    3.  
+ p  =
+ 
+    5.  
+ p  =
+ 
+    7.  
+ 
+ 
+ State tabel for mod 6 counter:   
+ 
+ 
+ 
+    Cn    Bn    An   Cn1   Bn1    An1   Jc    Kc    Jb    Kb    Ja    Ka   
+ 
+ 
+    0.    0.    0.    0.    0.    1.    0.    2.    0.    2.    1.    2.  
+    0.    0.    1.    0.    1.    0.    0.    2.    1.    2.    2.    1.  
+    0.    1.    0.    0.    1.    1.    0.    2.    2.    0.    1.    2.  
+    0.    1.    1.    1.    0.    0.    1.    2.    2.    1.    2.    1.  
+    1.    0.    0.    1.    0.    1.    2.    0.    0.    2.    1.    2.  
+    1.    0.    1.    0.    0.    0.    2.    1.    0.    2.    2.    1.  
+    1.    1.    0.    0.    0.    0.    2.    1.    2.    1.    0.    2.  
+    1.    1.    1.    0.    0.    0.    2.    1.    2.    1.    2.    1.  
+ 
+ 
+ Here '2' represents a don't care condition   
+ 
+ 
+ These below Karnaugh maps give the design equations   
+ 
+ 
+ jc  =
+ 
+    0.    0.    1.    0.  
+    2.    2.    2.    2.  
+ 
+JC=kmap3(jc);   //calling the 3-variable kmap
+             !--error 4 
+Undefined variable: kmap3
+at line      42 of exec file called by :    
+o_45/CH10/EX10.14/example_10_14.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH10/EX10.15/example_10_15.sce
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.    0.    1.    1.  
+ 
+ b  =
+ 
+    0.    1.    0.    1.  
+ 
+ y  =
+ 
+    1.    1.    0.    1.  
+ 
+ k  =
+ 
+    1.    1.  
+    0.    1.  
+ 
+bi = kmap2(k); // calling 2-variable kmap
+              !--error 4 
+Undefined variable: kmap2
+at line       9 of exec file called by :    
+o_45/CH10/EX10.15/example_10_15.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH11/EX11.1/example_11_1.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ State Synthesis table :   
+ 
+ 
+    An    X     Y    An1    Dn    Z   
+ 
+ 
+    0.    0.    0.    0.    0.    0.  
+    0.    0.    1.    1.    1.    0.  
+    0.    1.    0.    0.    0.    0.  
+    0.    1.    1.    1.    1.    0.  
+    1.    0.    0.    0.    0.    0.  
+    1.    0.    1.    1.    1.    0.  
+    1.    1.    0.    0.    0.    1.  
+    1.    1.    1.    1.    1.    0.  
+ 
+
+
+ Design equations :
+ 
+ 
+ 
+dn1= kmap3a(Dn);                        // finding the 3 varible kmap of Dn
+                !--error 4 
+Undefined variable: kmap3a
+at line      31 of exec file called by :    
+ino_45/CH11/EX11.1/example_11_1.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH11/EX11.2/example_11_2.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ State snthesis table for Vending machine problem   
+ 
+ 
+ Present state   input     Next state    Output     Db    Da   
+ 
+ 
+    Bn    An    I     J    Bn1   An1    X     Y   
+ 
+ 
+    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.  
+    0.    0.    0.    1.    0.    0.    0.    0.    0.    0.  
+    0.    0.    1.    0.    0.    1.    0.    0.    0.    1.  
+    0.    0.    1.    1.    1.    0.    0.    0.    1.    0.  
+    0.    1.    0.    0.    0.    1.    0.    0.    0.    1.  
+    0.    1.    0.    1.    0.    1.    0.    0.    0.    1.  
+    0.    1.    1.    0.    1.    0.    0.    0.    1.    0.  
+    0.    1.    1.    1.    0.    0.    1.    0.    0.    0.  
+    1.    0.    0.    0.    1.    0.    0.    0.    1.    0.  
+    1.    0.    0.    1.    1.    0.    0.    0.    1.    0.  
+    1.    0.    1.    0.    0.    0.    1.    0.    0.    0.  
+    1.    0.    1.    1.    0.    0.    1.    1.    0.    0.  
+ 
+
+
+ Design equations :
+ 
+ 
+
+ Design equation for DB
+ 
+ 
+DB =donkmapij(db);// minimizing the expresion using 4 variable kmap
+                  !--error 4 
+Undefined variable: donkmapij
+at line      27 of exec file called by :    
+ino_45/CH11/EX11.2/example_11_2.sce',-1
+ 
+ERROR: Digital_Principals_And_Applications_D._P._Leach_And_A._P._Malvino_45/CH11/EX11.8/example_11_8.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ State table through karnaugh map   
+ 
+ 
+      00      01      11      10   
+ 
+ 
+ a    a'      a'      b        b   
+ 
+ 
+ b    a       b'      b'       b'   
+ 
+ 
+ If we represent current state a as x = 0 and b as x =1 the noutput X can be ex 
+      pressed as                                                                
+ 
+ 
+J= kmap3abx(j); // finding the minimized expresion using 3-variable kmap
+               !--error 4 
+Undefined variable: kmap3abx
+at line      14 of exec file called by :    
+ino_45/CH11/EX11.8/example_11_8.sce',-1
+ 

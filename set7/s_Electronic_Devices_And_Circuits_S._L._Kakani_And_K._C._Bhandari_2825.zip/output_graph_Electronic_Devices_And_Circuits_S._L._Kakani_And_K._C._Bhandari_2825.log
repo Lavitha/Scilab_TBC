@@ -1,0 +1,570 @@
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH1/EX1.1/Ex1_1.sce #
+ 
+[2J[0;0H 
+ 
+ Refer to the figure 1.52   
+ 
+ 
+ Hold the resistor as shown in the figure such that tolerance is on your extreme right.   
+ 
+ 
+ Now the value of the resistor is equal to   
+ 
+ 
+   Red      Black       Blue        Gold   
+ 
+ 
+    2         0          6         (+/-)5%   
+ 
+ red  =
+ 
+    2.  
+ 
+ blk  =
+ 
+    0.  
+ 
+ blu  =
+ 
+    6.  
+ 
+ gld  =
+ 
+    5.  
+ 
+ value_res  =
+ 
+    20000000.  
+ 
+
+ The value of resistor is 20000000 ohm (+/-)5% 
+ per_val  =
+ 
+    1000000.  
+ 
+ pos_value_res  =
+ 
+    21000000.  
+ 
+ neg_value_res  =
+ 
+    19000000.  
+ 
+
+ The value of resistor is 19 Mohm and 21 Mohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH1/EX1.4/Ex1_4.sce #
+ 
+[2J[0;0H 
+ 
+ Refer to the figure 1.53   
+ 
+ Vs  =
+ 
+    2.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ Is  =
+ 
+    2.  
+ 
+
+ Current Is = 2 A 
+ 
+ 
+      Internal resistance remains the same but is now connected in parralel with the current sourceIS,as shown in Figure 1.5 
+      1(a)                                                                                                                   
+ 
+ 
+     Now,we connect a load resistance R_L=1 ohm across the terminals of two representations ,and find I_L and V_L.  From Fig 
+      ure 1.54(b) and using the current-divider concept,one obtains                                                          
+ 
+ RL  =
+ 
+    1.  
+ 
+ IL  =
+ 
+    1.  
+ 
+ VL  =
+ 
+    1.  
+ 
+
+ Load voltage = 1 V 
+
+ Load current = 1 A 
+ 
+ 
+ From equation 53(b),using the voltage-divider concept,one obtains   
+ 
+ VD_vl  =
+ 
+    1.  
+ 
+ VD_il  =
+ 
+    1.  
+ 
+
+ Load voltage = 1 V 
+
+ Load current = 1 A 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.12/Ex3_12.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to the figure 3.51   
+ 
+ Id1  =
+ 
+    0.002  
+ 
+ Vd1  =
+ 
+    0.5  
+ 
+ Rf1  =
+ 
+    250.  
+ 
+ 
+ At Id=2mA and Vd=0.5V   
+ 
+
+ Rf = 250 ohm 
+
+ 
+ 
+ Id2  =
+ 
+    0.02  
+ 
+ Vd2  =
+ 
+    0.75  
+ 
+ Rf2  =
+ 
+    37.5  
+ 
+ 
+ At Id=20mA and Vd=0.75V   
+ 
+
+ Rf = 37.5 ohm 
+
+ 
+ 
+ Id3  =
+ 
+    0.000002  
+ 
+ Vd3  =
+ 
+    10.  
+ 
+ Rf3  =
+ 
+    5000000.  
+ 
+ 
+ At Id=2*10^(-6)A and Vd=10V   
+ 
+
+ Rf = 5 Mohm 
+
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.13/Ex3_13.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to the figure 3.52   
+ 
+ 
+ (a) Assuming the diode D to be ideal    
+ 
+ 
+     Ignoring diode D,voltage across R2 is given as (By applying potential divider concept)   
+ 
+ R1  =
+ 
+    45.  
+ 
+ R2  =
+ 
+    5.  
+ 
+ Vaa  =
+ 
+    10.  
+ 
+ Vab  =
+ 
+    1.  
+ 
+
+ Vab= 1 V 
+ 
+ 
+ 
+  Thus,diode D is forward biased.It conducts,offering zero resistance  Hence no current would flow through the parallel bran 
+      sh R2.The circuit equivalent to that shown in figure 3.53(a)                                                           
+ 
+ ID  =
+ 
+    0.2222222  
+ 
+
+ Current through diode = 222 mA 
+
+ 
+ 
+ 
+ (b)Assuming the diode to be real   
+ 
+ 
+      Voltage Vab is much larger than Vt hencethe diode conducts.It is replaced by its equivalent as shown in figure 3.53(b) 
+      .To determine current Id through the diode we first find the Thevenin's equivalent of the circuit on the left of AB.Vt 
+      h=open circuit voltage across AB                                                                                       
+ 
+ Vth  =
+ 
+    1.  
+ 
+
+ Vth=1 V 
+ 
+ Rth  =
+ 
+    4.5  
+ 
+
+ Rth=4 ohm 
+ 
+ 
+ Thus,the equivalent circuit becomes as shown in figure 3.53(c)   
+ 
+ Vt  =
+ 
+    0.3  
+ 
+ tf  =
+ 
+    25.  
+ 
+ Id  =
+ 
+    0.0237288  
+ 
+
+ Current through diode =23.7 mA 
+
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.14/Ex3_14.sce #
+ 
+[2J[0;0H 
+ 
+ 
+       Diodes D2 and D3 are reverse-biased. Therefore,  these are like open-switches. Diodes D1 and D2 are forward biased. T 
+      hese are replaced by their equivalent circuits,as shown in figure 3.54. Since the diodes are silicon V=0.7V.           
+ 
+ Vt  =
+ 
+    0.7  
+ 
+ Vaa  =
+ 
+    20.  
+ 
+ net_emf  =
+ 
+    18.6  
+ 
+ R1  =
+ 
+    5.  
+ 
+ R2  =
+ 
+    90.  
+ 
+ R3  =
+ 
+    5.  
+ 
+ tot_res  =
+ 
+    100.  
+ 
+ 
+ Therefore, current through 90 ohm resistor is   
+ 
+ I  =
+ 
+    0.186  
+ 
+
+ Current I =186 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH3/EX3.15/Ex3_15.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ (a) When the diode is forward biased figure 3.55(b),it offers zero resistance. It is like shorted switch.This shorted switc 
+      h across AB also short-circuits the resistance R2.Obviously,a parallel combination of the diode and R2 is equivalent t 
+      o a resistance of zero ohms.                                                                                           
+ 
+ R1  =
+ 
+    100.  
+ 
+ R  =
+ 
+    100.  
+ 
+ Vaa  =
+ 
+    10.  
+ 
+ I  =
+ 
+    0.1  
+ 
+
+ Current drawn from battery =0.1 A 
+
+ 
+ 
+ 
+ (a) When the diode is reverse biased figure 3.55(b).It is like open switch.Obviously,it then does not make any difference w 
+      hether the diode is connected or not.                                                                                  
+ 
+ R2  =
+ 
+    100.  
+ 
+ tot_R  =
+ 
+    200.  
+ 
+ I1  =
+ 
+    0.05  
+ 
+ 
+
+ Current drawn from battery =0.05 A 
+
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.1/Ex7_1.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to the figure 7.19   
+ 
+ 
+ For good coupling   
+ 
+ 
+               Xc <= 0.1*R   
+ 
+ R  =
+ 
+    10000.  
+ 
+ C  =
+ 
+    0.000068  
+ 
+ f  =
+ 
+    2.3405139  
+ 
+ 
+ Lowest frequency,f   
+ 
+                = 2.34 Hz 
+ 
+ or lowest frequency is approximately 3 Hz   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH7/EX7.2/Ex7_2.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to the figure 7.20   
+ 
+ 
+ For good coupling   
+ 
+ 
+               Xc <= 0.1*R   
+ 
+ R  =
+ 
+    10000.  
+ 
+ C  =
+ 
+    0.00022  
+ 
+ f  =
+ 
+    0.7234316  
+ 
+ 
+ Lowest frequency,f   
+ 
+                = 0.72 Hz 
+ 
+ or lowest frequency is approximately 1 Hz   
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH15/EX15.4/Ex15_4.sce #
+ 
+[2J[0;0H 
+ 
+ Vmax  =
+ 
+    600.  
+ 
+ Vmin  =
+ 
+    100.  
+ 
+ 
+ 
+ From figure 15.49, we have   
+ 
+ m  =
+ 
+    0.7142857  
+ 
+ per_m  =
+ 
+    71.428571  
+ 
+ 
+ Modulation factor = 71.4 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.1/Ex21_1.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to figure 21.10   
+ 
+ 
+ R  =
+ 
+    5000.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ tau  =
+ 
+    1.1  
+ 
+ 
+ tON  =
+ 
+    0.00055  
+ 
+ Pulse width = 0.55 msec 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.2/Ex21_2.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to figure 21.12   
+ 
+ R1  =
+ 
+    20000.  
+ 
+ R2  =
+ 
+    20000.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ tau  =
+ 
+    0.69  
+ 
+ 
+ tHIGH  =
+ 
+    0.00276  
+ 
+ Time output = 2.76 msec 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.3/Ex21_3.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to figure 21.12   
+ 
+ R2  =
+ 
+    20000.  
+ 
+ C  =
+ 
+    1.000D-07  
+ 
+ tau  =
+ 
+    0.69  
+ 
+ 
+ tLOW  =
+ 
+    0.00138  
+ 
+ Time output = 1.38 msec 
+ 
+grepthis#Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH21/EX21.5/Ex21_5.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ Refer to figure 21.12   
+ 
+ R1  =
+ 
+    20000.  
+ 
+ R2  =
+ 
+    20000.  
+ 
+ 
+ D  =
+ 
+    66.666667  
+ 
+ Duty cycle = 66.7 % 
+ 

@@ -1,0 +1,3110 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 64
+
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH3/EX3.1/Chap3_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The Sauter mean diameter of the material with the given particle size distribution = 97.926752 micrometer 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH3/EX3.2/Chap3_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The particle Reynolds no = 0.427493
+The simplified equation used for calculating minimum fluidizing velocity is valid. 
+
+The minimum fluidizing velocity by simplified equation for small particles = 4.007747cm/s 
+
+The minimum fluidizing velocity by equation for coarse partilces = 3.099468cm/s 
+
+This value is 22.663075 percent below the experimentally reported value. 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH3/EX3.3/Chap3_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ myu  =
+ 
+    0.00018  
+ 
+ dpbar  =
+ 
+    0.016  
+ 
+ 
+ 
+ g  =
+ 
+    980.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The dimensionless particle size = 7.283359 
+
+The dimensionless gas velocity = 1.296074 
+
+The terminal velocity of falling particles = 88.497839cm/s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH3/EX3.4/Chap3_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For particle of size 0.006000 centimeter 
+
+The dimensionless particle diameter = 2.282737 
+
+The dimensionless superficial gas velocity = 0.788527cm/s(for superficial gas velocity of 40.000000cm/s) 
+
+The dimensionless superficial gas velocity = 1.577054cm/s(for superficial gas velocity of 80.000000cm/s) 
+
+
+From Fig.16(page 89)comparing u*=0.788527 vs dp*=2.282737 
+
+For Superficial gas velocity =40.000000 
+Mode of Fluidization:Onset of turbulent fluidization in an ordinary bubbling bed 
+
+From Fig.16(page 89)comparing u* =1.577054 vs dp* =2.282737 
+
+For Superficial gas velocity =80.000000 
+Mode of Fluidization:Fast fluidization(requires a circulating solid system) 
+
+
+For particle of size 0.045000 centimeter 
+
+The dimensionless particle diameter = 12.890262 
+
+The dimensionless superficial gas velocity = 0.558561cm/s(for superficial gas velocity of 40.000000cm/s) 
+
+The dimensionless superficial gas velocity = 1.117122cm/s(for superficial gas velocity of 80.000000cm/s) 
+
+
+From Fig.16(page 89)comparing u*=0.558561 vs dp*=12.890262 
+
+For Superficial gas velocity =40.000000 
+Mode of Fluidization:Bublling Fluidization 
+
+From Fig.16(page 89)comparing u* =1.117122 vs dp* =12.890262 
+
+For Superficial gas velocity =80.000000 
+Mode of Fluidization:Bubbling Fluidization 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH4/EX4.1/Chap4_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The pressure drop in bed:15251.308800Pa 
+
+The minimum allowable pressure drop in distributor:4575.392640Pa 
+
+The gas veleocity of 30.250265m/s is satisfactory 
+
+The fraction of open area of 1.322302 percent is allowable 
+
+Diameter of orifice(m) 
+	Number of orifices per unit area(per sq.m) 
+ 
+
+0.001000		16829.610145
+0.002000		4207.402536
+0.004000		1051.850634 
+
+This number can be rounded off. 
+
+Since orifices that are too small are liable to clog and those that are too large cause uneven distribution of gas, we choose orifice of diameter 0.002000m 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH4/EX4.2/Chap4_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ rhog  =
+ 
+    3.6  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Number of holes(number of holes/tuyeres) 
+	Diameter of hole(m) 
+ 
+
+8.000000					0.004606
+6.000000					0.005318
+4.000000					0.006513 
+
+The design chosen is as follows 
+
+	Tuyeres are as shown in Fig.2(b),page 97 
+
+	Number of holes = 6.000000(Since rectangular pitch is chosen for tuyeres) 
+
+	Diameter of hole = 0.005318m 
+
+	Diameter of incoming high-pressure-drop orifice = 0.012984m ID 
+
+Checking the pressure drop in tuyeres 
+
+Since pressure drop of 4560.200000Pa gives sufficiently high distributor pressure drop as seen in Exa.1, use of inlet orifice can be dispensed. 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH4/EX4.3/Chap4_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ deltapd  =
+ 
+    3.   
+    10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Case(a) 
+
+	Volumetric flow rate of air = 23.850224 m^3/hr 
+
+	Power required for compressor = 453.655843 kW 
+
+Case(b) 
+
+	Volumetric flow rate of air = 23.850224 m^3/hr 
+
+	Power required for compressor = 651.093141 kW 
+
+Case(c) 
+
+	Volumetric flow rate of air = 11.925112 m^3/hr 
+
+	Power required for compressor for primary air = 226.827921 kW 
+
+	Power required for blower for bypassed air = 31.577914 kW 
+
+	Total power required for the two blowers = 258.405835 kW 
+
+	Power saved compared to case(a) = 43.039236 percent 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH5/EX5.1/Chap5_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The rise velocity of the bubble=49.770000cm/s 
+
+The cloud thickness=0.304187cm 
+
+From Fig.8(page 124)comparing fw vs dp, for dp = 300.000000 micrometer, wake fraction = 0.24 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH5/EX5.2/Chap5_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Case(a) For porous plate 
+
+	Initial bubble size=0.556000cm 
+
+Case(b) For Perforated plate 
+
+	Initial bubble size=1.548765cm 
+
+	Since 1.548765<2.000000, the equation used is correct. 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH6/EX6.1/Chap6_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Method 1. Procedure using Eqn.(10) & Eqn.(11) 
+
+	Diameter of the bubble=0.037500m 
+
+	Rise velocity of the bubble=1.420933m/s 
+
+Method 2. Werthers procedure 
+
+	Diameter of the bubble=0.037500m 
+
+	Rise velocity of the bubble=1.253125m/s 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH6/EX6.2/Chap6_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ubr2  =
+ 
+    0.9945680  
+ 
+ 
+ 
+ 
+ 
+
+Bubble Size 
+
+Initial bubble size from Fig.5.14 for 0.440000m/s = 5.500000cm 
+
+
+	Method 1.Werthers procedure for finding bubble size 
+
+		Height of bed(cm) 
+			Bubble size(cm) 
+ 
+ 
+
+		0.000000				2.004041
+		5.000000				2.860798
+		10.000000				3.765136
+		20.000000				5.687332
+		30.000000				7.731326
+		50.000000				12.102292
+		70.000000				16.771280 
+
+
+	Method 2.Mori and Wens procedure for finding bubble size 
+
+		Maximum expected bubble size=61.316348cm 
+
+		Bubble size=19.966580cm 
+
+Bubble Velocity 
+
+
+	Method 1.Procedure using Eqn.(12) 
+
+		Bubble velocity=1.461147m/s 
+
+
+	Method 2.Werthers procedure 
+
+		Bubble velocity=1.556842m/s 
+
+Comparing the above results with the expressions of the simple two-phase theory 
+
+	Werthers bubble size 
+	Bubble rise velocity=0.898621m/s	Bubble velocity=1.338621m/s 
+
+	Mori & Wens bubble size 
+	Bubble rise velocity=0.994568m/s	Bubble velocity=1.434568m/s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH6/EX6.3/Chap6_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For the model use 
+
+	Bed of ID 30.452427cm
+	Slumped bed height of 49.922012cm
+	Packed bed distributor consisting of 0.332813-0.665627mm rock 
+
+Fluidizing gas: ambient air at 1.000000atm 
+
+Solids: 	zirconia, Average particle size=17.639111micrometers 
+
+Entering gas:	Superficial velocity=8.076598cm/s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH6/EX6.4/Chap6_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rise velocity of bubble=0.385517m/s 
+
+For the bench unit 
+
+	With Eqn.(11), Rise velocity=1.117327m/s 
+
+	With Werthers procedure, Rise velocity=1.018145m/s 
+
+	Average rise velocity=1.067736m/s 
+
+	Rise velocity of upflowing emulsion=0.682219m/s 
+
+For the pilot unit 
+
+	With Eqn.(11), Rise velocity=1.610327m/s 
+
+	With Werthers procedure, Rise velocity=1.530354m/s 
+
+	Average rise velocity=1.570340m/s 
+
+	Rise velocity of upflowing emulsion=1.184823m/s 
+
+Scale-Up Alternative 1. 
+
+	Outer diameter of tube(cm) 
+	Pitch(cm) 
+ 
+ 
+
+		5.000000			9.910312
+		10.000000			15.352989
+		15.000000			20.310096
+		20.000000			25.071326 
+
+	Suitable arrangement 
+
+		Outer Diameter=10.000000cm	Pitch:Diameter ratio=1.535299 
+
+Scale-Up Alternative 2. 
+
+	Static bed height for commercial unit=2.941439m 
+
+	Outer diameter of tube(cm) 
+	Pitch(cm) 
+ 
+ 
+
+		10.000000			28.170399
+		15.000000			34.501552
+		20.000000			39.838961
+		25.000000			44.541312 
+
+	Suitable arrangement 
+
+		Outer Diameter=15.000000cm	Pitch:Diameter ratio=2.300103 
+
+
+				Fraction of bed in bubbles	Void fraction of bed	Static bed height(m)	Height of bubbling bed(m) 
+
+				--------------------------------------------------------------------------------------------------------- 
+
+Bench unit	ID=0.200000m	0.274171			0.709668		2.000000		3.788769 
+
+Commercial unit	ID=1.000000m	0.185857			0.674343		2.941439		4.967774 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH6/EX6.5/Chap6_Ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Condition at which bubbles transform into slugs 
+
+For tha small bench unit
+		Velocity=0.760000m/s
+		Height above distributor plate=1.013518m 
+
+For tha large pilot unit
+		Velocity=1.365673m/s
+		Height above distributor plate=1.343233m 
+ 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH7/EX7.1/Chap7_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rate of entrainment=4.033320kg/m^2s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH7/EX7.2/Chap7_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gsstar  =
+ 
+    4.03332  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rate of entrainment=0.806664kg/m^2s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH7/EX7.3/Chap7_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Solid loading =32.531040kg/m^3 
+
+Total Entrainment =561.299833kg/s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH7/EX7.4/Chap7_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+dpi(micrometer) 
+	100pb(dpi)(micrometer^-1) 
+	100pe(dpi)(micrometer^-1) 
+	ki*(kg/m^2 s) 
+ 
+
+40.000000	0.450000			1.200000			2.400000
+60.000000	1.000000			2.000000			1.800000
+80.000000	1.250000			1.250000			0.900000
+100.000000	1.000000			0.450000			0.405000
+120.000000	0.600000			0.100000			0.150000 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH7/EX7.5/Chap7_Ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dp(micrometer) 
+	Yagi & Aochi 
+	Wen & Hashinger 
+		Merrick & Highley 
+	Geldart et al. 
+		Zenz & Well 
+		Gugnoni & Zenz 
+
+30.000000	2.571188	1.092184		32.451340		20.195582		14.847400		7.058600
+40.000000	2.965958	1.564720		19.546385		15.500369		10.466200		6.571800
+50.000000	3.240381	1.938471		11.993076		11.210646		7.788800		3.894400
+60.000000	3.289995	2.154988		7.713841		7.892113		5.963300		3.407600
+80.000000	2.852535	2.120728		3.447977		3.606955		3.346750		1.582100
+100.000000	1.883718	1.521994		1.600171		1.440318		2.190600		0.730200
+120.000000	0.000000	0.000000		0.332158		0.130271		1.460400		0.000000 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH7/EX7.6/Chap7_Ex6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rate of entrainment from short bed=0.902094kg/m^2s 
+
+This entrainment is 37.955972 percent higher than it would be if the gas exit were at the TDH 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH8/EX8.1/Chap8_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mode I 
+
+	uo(m/s)		ephsilonse(-)	Hf(m)		Hd(m)		Gs(kg/m^2 s) 
+ 
+
+	2.000000	0.010126	4.876749	5.123251	20.252852
+	4.000000	0.017870	3.930041	6.069959	71.481458
+	6.000000	0.037349	3.117707	6.882293	224.094133 
+
+Mode II 
+
+	uo(m/s)		ephsilonse(-)	Hf(m)		Hd(m)		Lmf(m)) 
+ 
+
+	2.000000	0.050000	1.038763	8.961237	3.805270
+	4.000000	0.025000	3.070113	6.929887	2.638966
+	6.000000	0.016667	5.940829	4.059171	1.748718 
+
+Mode III 
+
+	Gs(kg/m^ s)	ephsilonse(-)	Hf(m)		Hd(m)		Lmf(m) 
+ 
+
+	42.000000	0.010500	7.605043	2.394957	1.317154
+	50.000000	0.012500	5.459126	4.540874	1.955596
+	100.000000	0.025000	3.070113	6.929887	2.638966
+	200.000000	0.050000	1.762341	8.237659	2.964631
+	400.000000	0.100000	0.681101	9.318899	3.155670 
+
+Mode IV 
+
+	uo(m/s)		Gs(kg/m^2 s)	ephsilonse(-)	Hf(m)		Lmf(m) 
+ 
+
+	2.000000	70.000000	0.035000	1.352099	3.706202
+	4.000000	100.000000	0.025000	3.070113	2.638966
+	6.000000	120.000000	0.020000	5.129899	1.946226 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH9/EX9.1/Chap9_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+		Vertical dispersion coefficient(m^2/s) 
+
+Vessel Size(m) 
+	From Experiment 
+	From Eqn.(3) 
+	From Eqn.(12) 
+ 
+
+0.100000	0.030000	0.030143	0.028706
+0.300000	0.110000	0.081020	0.100920
+0.600000	0.140000	0.151188	0.129626
+1.500000	0.230000	0.344876	0.217090 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH9/EX9.2/Chap9_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Snce we do not have ub=0.904213m/s>>uf=0.404762m/s we use Eqn.(14).
+Gas Velocity(m/s)	Horizontal Drift Coefficient Calculated(m^2/s)	Horizontal Drift Coefficient from Experiment(m^2/s)
+db=0.100000m
+0.370000		0.001283					0.001200
+0.470000		0.001924					0.001800
+0.570000		0.002566					0.002100
+0.670000		0.003207					0.002500
+db=0.140000m
+0.370000		0.001461					0.001200
+0.470000		0.002192					0.001800
+0.570000		0.002922					0.002100
+0.670000		0.003653					0.002500 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH9/EX9.3/Chap9_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+fopen 
+		uor(m/s) 
+	ls from Eqn.(18) 
+	ls from Fig.13(c) 
+ 
+
+0.120000	3.333333	12.500000		12.000000
+0.170000	2.352941	8.823529		20.000000
+0.260000	1.538462	5.769231		25.000000 
+
+
+For square pitch, the orifice spacing should be 48.851463mm 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH10/EX10.2/Chap10_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+db(cm) 
+		Calculated Kbc 
+	Calculated Kce 
+		Kbe from Eqn.(14) 
+	Erron when minor resistance is ignored (in percentage) 
+ 
+
+5.000000	4.536423	2.509152		1.615564		55.311249
+15.000000	1.221028	0.635514		0.417971		52.047494 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH10/EX10.3/Chap10_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kbe from Eqn.(19) 
+	Kbc from Eqn.(27) 
+	Kce from Eqn.(34) 
+	Kbe from Eqn.(14) 
+	Comparison of Kbe from Eqn.(19) and that from Eqn.(14) 
+ 
+
+1.292308		0.460200		0.274548		0.171959		7.515188
+2.307692		0.684401		0.429248		0.263797		8.747978 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH11/EX11.2/Chap11_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+For non absorbing particles:
+	Diameter of bubble=6.010032cm
+	Bubble-cloud interchange coefficient=3.000000s^-1 
+
+For highly absorbing partilces:
+	M=17.000000 
+
+For intermediate condition:
+	Fitted adsorption efficiency factor:0.090909
+	Bubble-emuslion interchange coefficient:2.545455s^-1 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH11/EX11.4/Chap11_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pi  =
+ 
+    3.14  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Case(a):Using the whole bed coefficient from Fig.(6) 
+
+	Time needed for the particle approach 1 percentage of the bed temperature is 57.693986s 
+
+Case(b):Uisng the single-particle coefficient of Eqn.(25),also shown in Fig.(6) 
+
+	Time needed for the particle approach 1 percentage of the bed temperature is 0.412100s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH12/EX12.1/Chap12_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The dimnesionless reaction rate group: 35.000000 
+
+The reaction rate for fluidized bed: 1.979872s^-1 
+
+Conversion: 0.969944 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH12/EX12.2/Chap12_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rate of reaction 1 for fluidized bed:0.600746 
+
+Rate of reaction 2 for fluidized bed:0.009889 
+
+Rate of reaction 1 with respect to A:0.005832 
+
+The Conversion of Napthalene:95.939961 percentage 
+
+The selectivity of Phthalic anhydride:95.295039 percentage 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH12/EX12.3/Chap12_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+COmparing the values of 1-XA = 0.113843 and Krtou = 3.480000 with Fig.(6), we can conlcude that this operating condition is shown as point A in Fig.(3) 
+
+Line 2 gives the locus of conversions for different values of the reaction rate group for this fluidized contacting 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH12/EX12.4/Chap12_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Comparing the values of 1-XA = 0.108243 and Krtou = 2.784000 with Fig.(6), we can conlcude that this operating condition is shown as point B in Fig.(3) 
+
+Line 3 gives the locus of conversions for different values of the reaction rate group for this fluidized contacting 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH12/EX12.5/Chap12_Ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+The conversion: 
+
+	At the top pf the dense bed: 94.058626 percentage 
+
+	At the reactor exit: 99.784402 percentage 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH13/EX13.1/Chap13_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Superficial gas velocity(m/s) 
+	Heat transfer coefficient(W/m^2 k) 
+ 
+
+0.050000			270.297375
+0.100000			323.421769
+0.200000			315.487604
+0.350000			292.370761 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH13/EX13.2/Chap13_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Thermal conductivity of Gas(W/m K)) 
+	Max. heat transfer coefficient(W/m^2 k) 
+ 
+
+0.005000				324.619132
+0.020000				567.186802
+0.200000				1157.848932 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH13/EX13.3/Chap13_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The heat transfer coefficient for paricle size of 0.002000m = 194.873869W/m^2 K 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH13/EX13.4/Chap13_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The required relationship is h(W/m^2 K) vs. zf(m) as in Fig.(9a) 
+
+Height above the dense bubbling fluidized bed(m)) 
+	Heat transfer coefficient(W/m^2 k) 
+ 
+
+0.000000						350.000000
+0.500000						302.263958
+1.000000						261.433158
+1.500000						226.508723
+2.000000						196.636271
+2.500000						171.085009
+3.000000						149.229857
+3.500000						130.536154
+4.000000						114.546583 
+
+
+The mean heat transfer coefficient for the 4-m high freeboard =208.362734W/m^2 K 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH14/EX14.1/Chap14_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Flow rate in entrained stream:
+	Fines:0.100000kg/min
+	Coarse:1.600000kg/min 
+
+Flow rate in overflow stream:
+	Fines:0.800000kg/min
+	Coarse:0.200000kg/min 
+
+Mean residence time:
+	Fines:1.111111mins
+	Coarse:8.888889mins 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH14/EX14.3/Chap14_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Weight of bed:25.000000kg 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH14/EX14.4/Chap14_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Total mass in the bed:7203.166751kg 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH14/EX14.5/Chap14_Ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dp1  =
+ 
+    0.11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Feed rate with deldpi=0.020000mm is 0.050800g/hr 
+ 
+
+Bed composition 
+
+0.000000
+0.652911
+1.859952
+4.400781
+9.668999
+25.654298
+28.575890
+2.317749
+0.019493 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH15/EX15.1/Chap15_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Solid recirculation per feed of oil =31.506690tons of solid circulated/ton feed oil 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH15/EX15.2/Chap15_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+T4(degree celcius) 
+	Fs/F1 
+		F2/F1 
+		Excess air(percentage) 
+ 
+
+520.000000		92.904455	0.875390	8.807235
+540.000000		46.452228	0.839029	4.287699
+560.000000		30.968152	0.805362	0.102944
+580.000000		23.226114	0.774099	0.000000
+600.000000		18.580891	0.744992	0.000000
+620.000000		15.484076	0.717825	0.000000
+640.000000		13.272065	0.692412	0.000000
+660.000000		11.613057	0.668586	0.000000 
+ 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH15/EX15.3/Chap15_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The required flow rate of gas required for location of 5.722768m below downcomer is 0.027160kg/s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH15/EX15.4/Chap15_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Height of downcomer for: 
+
+	Regenerator:20.135113m 
+
+	Reactor:16.727273m 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH16/EX16.1/Chap16_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B  =
+ 
+    0.0785670  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Fuel consumption:0.061731 kg fuel/kg Cao 
+
+Heat requirement for calcination:2580.366029 kJ/kg Cao 
+
+Thermal efficiency:54.657251 percentage 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH16/EX16.2/Chap16_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phiplus  =
+ 
+    13.678402  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Diameter of lower bed:7.097814m 
+
+Diameter of calcination section:13.351483m 
+
+Bed no.		1	2		3 
+
+Diameter(m)12.728715	13.270865	13.340712 
+ 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH16/EX16.3/Chap16_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Moisture content of leaving solids:0.100980 kg H2O/kg dry solids 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH16/EX16.4/Chap16_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bed temperature:58.728126 degree C 
+
+Time for complete drying of particle:527.431202s 
+
+Flow rate of gas necessary for Commercial-scale dryer:3.098684kg/s 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH16/EX16.5/Chap16_Ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+			Bed diameter(m)	Recycle vapor flow(m^3/s) 
+
+Without internal heater	3.630144	5.331235 
+
+With heating tubes	1.503916	0.666404 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH17/EX17.1/Chap17_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Let Laboratory, Pilot plant, Semicommercial unit be Reactor 1,2 & 3 respectively 
+
+(a)Relation between effective rate constant(Kf12) to the gas flow rate(uo) 
+
+	Reactor No.	Kf12(s^-1)	uo(m/s) 
+ 
+
+	1		0.520333	0.200000
+	2		0.344877	0.200000
+	3		0.163917	0.200000 
+
+(b)Relation between selectivity with conversion 
+
+	Reactor No.	Kf12(s^-1)	SR(mol R formed/mol A reacted) 
+ 
+
+	1		0.520333	0.651877
+	2		0.344877	0.632934
+	3		0.163917	0.581322 
+
+(c)Relation between exit compostion and space time 
+
+	Reactor No.	XA		CR/CAi 
+ 
+
+	1		0.925850	0.597415
+	2		0.821718	0.534498
+	3		0.559385	0.368261 
+
+(d)Height of bed needed to maximize the production of acrylonitrile 
+
+	Reactor No.	Lm(m)		XA 
+ 
+
+	1		2.564196	0.964406
+	2		3.472735	0.949922
+	3		5.953256	0.912804 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH17/EX17.2/Chap17_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ XA  =
+ 
+    0.95  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Superficial gas velocity=0.460000m/s 
+
+No. of 7m tubes required=295 
+
+Reactor diameter=7.173176m 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH17/EX17.3/Chap17_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bed height versus catalyst activity in reactor 
+
+	Average activity 
+	Length of fixed bed(m) 
+ 
+
+	0.023300		11.059747
+	0.046500		7.911053
+	0.069800		6.756202
+	0.093000		6.118750
+	0.116000		5.696470
+	0.140000		5.372072 
+
+Optimum size ratio for various activity in reactor 
+
+	Length of fixed bed(m) 
+	Average activity 
+ 
+
+	5.000000		0.097879
+	6.000000		0.086112
+	7.000000		0.076871
+	8.000000		0.069420
+	10.000000		0.058149
+	12.000000		0.050026 
+
+Final design values 
+
+	Diameter of reactor(m):8.000000 
+
+	Bed weight for reactor(tons):220.051200 
+
+	Bed weight for regenerator(tons):492.049442 
+
+	Diameter of regenerator(m):11.962790 
+
+	Solid circulation rate(tons/hr):4663.728000 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH18/EX18.1/Chap18_Ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Particle Size(mm)	Average rate constant(m/s)	Time for complete reaction(min) 
+ 
+
+2.000000		0.014118			91.487960
+0.100000		0.019592			3.296257 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH18/EX18.2/Chap18_Ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The time required for complete combustion:9.312113mins 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH18/EX18.3/Chap18_Ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+				XBbar calculated for Models 
+
+Reported Data 
+
+tbar(min)	XBbar,obs	Uniform Reaction	Shrinking-Core, Rection Control		Shrinking-Core, Diffusion Control 
+ 
+
+3.000000	0.840000	0.840000		0.840000				0.840000
+10.000000	0.940000	0.945946		0.947234				0.946091
+30.000000	0.985000	0.981308		0.981898				0.982152
+50.000000	0.990000	0.988701		0.989075				0.989747 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH18/EX18.4/Chap18_Ex4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Single stage fluidized roaster 
+
+	Weight of bed needed:174.370805tons 
+
+	Diameter of reactor:6.665728m 
+
+	Length of bed:3.332864m 
+
+Two-stage fluidized roaster 
+
+	Weight of bed needed:22.056356tons 
+
+	Diameter of reactor:3.346064m 
+
+	Length of bed:1.673032m 
+
+These results show that this operation can be accomplished in a single bed of 174.370805tons or in two beds of 22.056356 tons each. 
+ 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH18/EX18.5/Chap18_Ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kc  =
+ 
+    0.015  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Extreme Calculation 
+
+	Diameter of tube with all its internals:7.265465m 
+
+Three step procedure 
+
+	Conversion of ZnS:0.992491 
+
+For other feed rates of solids 
+
+	Feed(kg/s)	tbar(s)		XBbar/XA	Krbar(s^-1)	CAbar/CAi	tou(s)		XA		XB 
+ 
+
+	2.000000	40003.518104	1.498777	6.529973	0.121691	1208.748626	0.662201	0.992491
+	2.500000	32002.814483	1.201348	23.149964	0.041993	3502.838402	0.810111	0.973225
+	3.000000	26669.012069	1.007581	76.183480	0.014228	10338.227250	0.903294	0.910141
+	3.500000	22859.153202	0.871565	146.263086	0.007742	18998.458994	0.943693	0.822490 
+ 
+ 
+grepthis#Fluidization_Engineering_K._Daizo_And_O._Levenspiel_497/CH18/EX18.6/Chap18_Ex6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ kc  =
+ 
+    0.015  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CAbar  =
+ 
+    1.0360673  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Selection of models to represent reactor 
+
+	Since ratio ubr/(umf/ephsilonmf)= 0.995908 <1, the reactor is operating in slow bubble regime 
+
+	Since particle size =750.000000 micrometer, they react according to shrinking-core model 
+
+	Conversion obtained for 750.000000 micrometer particle:0.988127 
+ 
+ 

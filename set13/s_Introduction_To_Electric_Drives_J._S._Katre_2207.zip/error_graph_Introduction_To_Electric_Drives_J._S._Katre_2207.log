@@ -1,0 +1,368 @@
+ERROR: Introduction_To_Electric_Drives_J._S._Katre_2207/CH3/EX3.4.1/ex_3_4_1.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.         
+    0.5235988  
+    1.0471976  
+    1.5707963  
+    2.0943951  
+    2.6179939  
+    3.1415927  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rives_J._S._Katre_2207/ex_3_4_1');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      25 of exec file called by :    
+Katre_2207/CH3/EX3.4.1/ex_3_4_1.sce',-1
+ 
+ERROR: Introduction_To_Electric_Drives_J._S._Katre_2207/CH3/EX3.7.4/ex_3_7_4.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ part (a)   
+ 
+ 
+ 
+ 
+ average load voltage (Vldc) for angle 0 degree is Vm*0.6    
+ 
+ average load voltage (Vldc) for angle 30 degree is Vm*0.6    
+ 
+ average load voltage (Vldc) for angle 60 degree is Vm*0.5    
+ 
+ average load voltage (Vldc) for angle 90 degree is Vm*0.3    
+ 
+ average load voltage (Vldc) for angle 120 degree is Vm*0.2    
+ 
+ average load voltage (Vldc) for angle 150 degree is Vm*0.0    
+ 
+ average load voltage (Vldc) for angle 180 degree is Vm*0    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ part (b)   
+ 
+ 
+ 
+ 
+ FPF  =
+ 
+    1.  
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 0 degree is 
+       1                                                                        
+ FPF  =
+ 
+    1.     
+    0.966  
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 30 degree i 
+      s 0.966                                                                   
+ FPF  =
+ 
+    1.     
+    0.966  
+    0.866  
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 60 degree i 
+      s 0.866                                                                   
+ FPF  =
+ 
+    1.     
+    0.966  
+    0.866  
+    0.707  
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 90 degree i 
+      s 0.707                                                                   
+ FPF  =
+ 
+    1.     
+    0.966  
+    0.866  
+    0.707  
+    0.5    
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 120 degree  
+      is 0.5                                                                    
+ FPF  =
+ 
+    1.     
+    0.966  
+    0.866  
+    0.707  
+    0.5    
+    0.259  
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 150 degree  
+      is 0.259                                                                  
+ FPF  =
+ 
+    1.     
+    0.966  
+    0.866  
+    0.707  
+    0.5    
+    0.259  
+    0.     
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 180 degree  
+      is 0                                                                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ part (c)   
+ 
+ 
+ 
+ 
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 0 degree is 
+       0.900                                                                    
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 30 degree i 
+      s 0.920                                                                   
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 60 degree i 
+      s 0.827                                                                   
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 90 degree i 
+      s 0.637                                                                   
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 120 degree  
+      is 0.390                                                                  
+ 
+ displavefactor or fundamental power factor (FPF) for fringle angle 150 degree  
+      is 0.148                                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rives_J._S._Katre_2207/ex_3_7_4');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      47 of exec file called by :    
+Katre_2207/CH3/EX3.7.4/ex_3_7_4.sce',-1
+ 
+ERROR: Introduction_To_Electric_Drives_J._S._Katre_2207/CH6/EX6.5.4/ex_6_5_4.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vldc different values of average load voltage are in volts   
+ 
+    0.   
+    0.1  
+    0.2  
+    0.3  
+    0.4  
+    0.5  
+    0.6  
+    0.7  
+    0.8  
+    0.9  
+    1.   
+ 
+ 
+ Vlrms diffent values of RMS load voltage are in volts   
+ 
+    0.         
+    0.3162278  
+    0.4472136  
+    0.5477226  
+    0.6324555  
+    0.7071068  
+    0.7745967  
+    0.8366600  
+    0.8944272  
+    0.9486833  
+    1.         
+ 
+ 
+ 
+ 
+ 
+ 
+rives_J._S._Katre_2207/ex_6_5_4');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      27 of exec file called by :    
+Katre_2207/CH6/EX6.5.4/ex_6_5_4.sce',-1
+ 
+ERROR: Introduction_To_Electric_Drives_J._S._Katre_2207/CH6/EX6.5.5/ex_6_5_5.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ d  =
+ 
+    0.1  
+    0.2  
+    0.3  
+    0.4  
+    0.5  
+    0.6  
+    0.7  
+    0.8  
+    0.9  
+    1.   
+ 
+ 
+ 
+ 
+ FF different values of form factor in percentage is   
+ 
+    316.22777  
+    223.6068   
+    182.57419  
+    158.11388  
+    141.42136  
+    129.09944  
+    119.52286  
+    111.8034   
+    105.40926  
+    100.       
+ 
+ 
+ RF diffent values of ripple factor in percentage is   
+ 
+    300.       
+    200.       
+    152.75252  
+    122.47449  
+    100.       
+    81.649658  
+    65.465367  
+    50.        
+    33.333333  
+    0.         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rives_J._S._Katre_2207/ex_6_5_5');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      20 of exec file called by :    
+Katre_2207/CH6/EX6.5.5/ex_6_5_5.sce',-1
+ 
+ERROR: Introduction_To_Electric_Drives_J._S._Katre_2207/CH8/EX8.12.6/ex_8_12_6.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.2  
+ 
+ 
+ wm  =
+ 
+    1844.9  
+    1843.   
+    1841.1  
+    1839.2  
+    1837.3  
+    1835.4  
+    1833.5  
+    1831.6  
+    1829.7  
+ 
+ 
+ varoius values of speed in RPM is   
+ 
+    1844.9  
+    1843.   
+    1841.1  
+    1839.2  
+    1837.3  
+    1835.4  
+    1833.5  
+    1831.6  
+    1829.7  
+ 
+ 
+ 
+ 
+ 
+ 
+ives_J._S._Katre_2207/ex_8_12_6');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      26 of exec file called by :    
+tre_2207/CH8/EX8.12.6/ex_8_12_6.sce',-1
+ 
+ERROR: Introduction_To_Electric_Drives_J._S._Katre_2207/CH9/EX9.4.3/ex_9_4_3.sce
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rives_J._S._Katre_2207/ex_9_4_3');xend();exit()
+                                         !--error 999 
+xend: An error occurred: Unable to create export file, permission denied.
+at line      14 of exec file called by :    
+Katre_2207/CH9/EX9.4.3/ex_9_4_3.sce',-1
+ 

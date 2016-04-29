@@ -1,0 +1,812 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 26
+
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH3/EX3.1/exa3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ sqr  =
+ 
+    30.  
+ 
+ 
+ q  =
+ 
+    0.0774462  
+ 
+ 
+ 
+ Thus 13 quantization intervals arer needed for each polarity for a total of 26 
+       intervals in all. The number of bitz required are determined as          
+ 
+ 
+ N  =
+ 
+    4.7004397  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH3/EX3.2/exa3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ dr  =
+ 
+    40.  
+ 
+ 
+ SNR  =
+ 
+    50.  
+ 
+ 
+ SQR  =
+ 
+    90.  
+ 
+ 
+ n  =
+ 
+    14.657807  
+ 
+ 
+ 
+ This can be approximated to 15 bits per sample   
+ 
+ 
+ 
+ Assuming excess sampling factor using D-type channel, we choose sampling rate  
+      as 48KHz                                                                  
+ 
+ 
+ 
+ Therefore required bit rate is   
+ 
+ 
+ ans  =
+ 
+    720000.  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH3/EX3.4/exa3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ w  =
+ 
+    800.  
+ 
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    0.6283185  
+ 
+ 
+ 
+ 
+ 
+ savings in the bits per sample can be determined as    
+ 
+ 
+ ans  =
+ 
+    0.6711635  
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH5/EX5.1/exa5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ From the table, space expansion factor of 0.234 is 0.002. Hence the utilizatio 
+      n of each interstage is given by                                          
+ 
+ 
+ ans  =
+ 
+    0.4273504  
+ 
+ 
+ p  =
+ 
+    0.671671  
+ 
+ 
+ 
+ Therefore, the expected number of paths to be tested are,   
+ 
+ 
+ Np  =
+ 
+    3.0409342  
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH5/EX5.3/exa5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k  =
+ 
+    7.  
+ 
+ 
+ 
+ Using the value of k   
+ 
+ 
+ 
+ Using the value of k, the number of crosspoint determined are   
+ 
+ 
+ ans  =
+ 
+    224.  
+ 
+ 
+ 
+ The number of bits of memory can be determined are   
+ 
+ 
+ N  =
+ 
+    20608.  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH5/EX5.5/exa5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    32.  
+ 
+ 
+ k  =
+ 
+    27.  
+ 
+ 
+ 
+ 
+ Nx  =
+ 
+    56347.  
+ 
+ 
+ Nx  =
+ 
+    82944.  
+ 
+ 
+ Nbx  =
+ 
+    1658880.  
+ 
+ 
+ Nbt  =
+ 
+    2097152.  
+ 
+ 
+ Nbtc  =
+ 
+    1835008.  
+ 
+ 
+ cmplx  =
+ 
+    138854.4  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH7/EX7.2/exa7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dF  =
+ 
+    180.  
+ 
+ 
+ dF  =
+ 
+    0.0000139  
+ 
+ 
+ 
+ Since there are 8000 frame per second, the relative accuracy is determined as  
+ 
+ 
+ ans  =
+ 
+    1.736D-09  
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH7/EX7.3/exa7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum information rate per channel is determined as   
+ 
+ 
+ Imax  =
+ 
+    1.5457959  
+ 
+ 
+ 
+ The minimum information rate per channel is determined as   
+ 
+ 
+ Imin  =
+ 
+    1.5404286  
+ 
+ 
+ 
+ Since there are three possible combinations of two errors in the C bits, the p 
+      robability of misinterpreting an S bit is                                 
+ 
+ 
+ ans  =
+ 
+    3.000D-12  
+ 
+ 
+ ans  =
+ 
+    186.31179  
+ 
+ 
+ ans  =
+ 
+    1.613D-08  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH8/EX8.4/exa8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ 
+ wl  =
+ 
+    0.0000015  
+ 
+ 
+ f  =
+ 
+    2.000D+14  
+ 
+ 
+ 
+ Thus the upper and lower frequencies are determined as 200,001 and 199,999 GHz 
+       respectively. The corresponding wavelengths are                          
+ 
+ 
+ lam1  =
+ 
+    0.0000015  
+ 
+ 
+ lam2  =
+ 
+    0.0000015  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH8/EX8.6/exa8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ frames  =
+ 
+    3132.  
+ 
+ 
+ rate  =
+ 
+    50112000.  
+ 
+ 
+ 
+ 
+ Rmin  =
+ 
+    50096000.  
+ 
+ 
+ 
+ When negative byte stuffing is used to accomodate a fast incoming SPE rate, 31 
+      33 bytes of data are transmitted in four frames. Thus, the highest slip r 
+      ate is                                                                    
+ 
+ 
+ Rmax  =
+ 
+    50128000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH9/EX9.1/exa9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The probability of 63 destructive interferers is merely the probability of occ 
+      urence of 63 equally likely binary events,                                
+ 
+ 
+ Pmax  =
+ 
+    1.084D-19  
+ 
+ 
+ 
+ The value of a desired receive signal is the autocorrelation of a codeword wit 
+      h itself and can therefore be represented as a value of 64.               
+ 
+ 
+ 
+ The mean and varience of a sum of 63 such variable are 0 and 63, respectively. 
+       The signal-to-interference ratio is now determined as,                   
+ 
+ 
+ a  =
+ 
+    65.015873  
+ 
+ 
+ SIR  =
+ 
+    18.130194  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH10/EX10.1/exa10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ frame  =
+ 
+    0.00001  
+ 
+ 
+ 
+ The expected number of bits of transmission capacity required to retransmit is 
+ 
+ 
+ ans  =
+ 
+    0.01  
+ 
+ 
+ 
+ 
+ frames  =
+ 
+    0.0001  
+ 
+ 
+ 
+ The expected number of bits of transmission capacity required is   
+ 
+ 
+ ans  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ ans1  =
+ 
+    0.01  
+ 
+ 
+ ans1  =
+ 
+    10.  
+ 
+ 
+ ans  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH10/EX10.3/exa10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assuming the access link is 90% utilized on average.   
+ 
+ 
+ 
+ The queuing theory is provided in Chapter 12. It involves determining the prob 
+      ability that the DSI access queue contains enough cells to represent 10ms 
+      ec of transmission time                                                   
+ 
+ 
+ tm  =
+ 
+    0.0002760  
+ 
+ 
+ 
+ Therefore, 10 msec delay represents 10/0.276 = 36.2 cell times.   
+ 
+ 
+ p  =
+ 
+    0.0241044  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ P(&gt;10msec) = 2.5% delay will be displayed by more than 10 msec    
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH11/EX11.2/exa11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The signal-to-quantizing-noise ratio(SQR) is given in chap3 to be on the order 
+       of 36dB, which corresponds to power ratio of 3981.                       
+ 
+ 
+ 
+ Using this value in Shannon theorem for the theoretical capacity of a channel  
+      yield,                                                                    
+ 
+ 
+ SNR  =
+ 
+    3981.  
+ 
+ 
+ C  =
+ 
+    37073.76  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ data rate = 37 kbps   
+ 
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH12/EX12.1/exa12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The average arrival rate is   
+ 
+ 
+ lam  =
+ 
+    0.36  
+ 
+ 
+ 
+ From equation 12.2, the probability on arrival in 0.01-sec interval is   
+ 
+ 
+ P0  =
+ 
+    0.9725829  
+ 
+ 
+ 
+ Thus 2.7% arrivals occur withnin 0.01 sec of the pervious arrival. Since the a 
+      rrival rate is 2.78 arrivals per second, the rate of occurrence of interv 
+      arrival time less than 0.01 sec is                                        
+ 
+ 
+ ans  =
+ 
+    0.07506  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ 0.075 times/sec   
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH12/EX12.2/exa12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ The average number of arrivals in a 30 sec interval is,   
+ 
+ 
+ lamt  =
+ 
+    2.  
+ 
+ 
+ 
+ The probability of eight or more arrivals is,   
+ 
+ 
+ P0  =
+ 
+    1.  
+ 
+ 
+ P1  =
+ 
+    2.  
+ 
+ 
+ P2  =
+ 
+    2.  
+ 
+ 
+ P3  =
+ 
+    1.3333333  
+ 
+ 
+ P4  =
+ 
+    0.6666667  
+ 
+ 
+ P5  =
+ 
+    0.2666667  
+ 
+ 
+ P6  =
+ 
+    0.0888889  
+ 
+ 
+ P7  =
+ 
+    0.0253968  
+ 
+ 
+ i  =
+ 
+    0.0010967  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ P(2) = 0.0011   
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH12/EX12.3/exa12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assuming inpendenterror, we can obtain the probability of exactly 4 errors dir 
+      ectly from the Poisson distribution. The average number of errors is,     
+ 
+ 
+ lamt  =
+ 
+    0.01  
+ 
+ 
+ 
+ Thus,   
+ 
+ 
+ P4  =
+ 
+    4.125D-10  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ P(4) = 4.125*10^-10   
+ 
+ 
+grepthis#Digital_Telephony_J._C._Bellamy_116/CH12/EX12.4/exa12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Traffic intensity of system is,   
+ 
+ 
+ A  =
+ 
+    2.  
+ 
+ 
+ 
+ The raffic intensity carried by i active ckt is exactly i erlangs. Hence the t 
+      raffic carried by 1st 5 ckt is,                                           
+ 
+ 
+ P1  =
+ 
+    2.  
+ 
+ 
+ P2  =
+ 
+    4.  
+ 
+ 
+ P3  =
+ 
+    4.  
+ 
+ 
+ P4  =
+ 
+    2.6666667  
+ 
+ 
+ P5  =
+ 
+    1.3333333  
+ 
+ 
+ A5  =
+ 
+    1.894694  
+ 
+ 
+ 
+ All of remaining ckts carry,   
+ 
+ 
+ Ar  =
+ 
+    0.11  
+ 
+ 
+ 
+ Result   
+ 
+ 
+ 
+ A(5) = 1.89 erlangs   
+ 
+ 
+ 
+ A(remaining) = 0.11 erlangs   
+ 
+ 

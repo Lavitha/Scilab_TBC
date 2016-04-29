@@ -1,0 +1,5158 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 111
+
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.1/ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    10.  
+ 
+ d  =
+ 
+    0.05  
+ 
+ t  =
+ 
+    5.000D-08  
+ 
+ T  =
+ 
+    1.000D-07  
+ 
+ x  =
+ 
+    1.760D+11  
+ 
+ eps  =
+ 
+    2.000D+09  
+ 
+ a  =
+ 
+    3.520D+20  
+ 
+ v  =
+ 
+    440000.  
+ 
+
+(1)
+Velocity, v = 4.4*10^5 m/s
+ 
+ 
+ 
+ x1  =
+ 
+    0.0073333  
+ 
+
+(2)
+distance, x=0.733333 cm
+ 
+ 
+ 
+ x2  =
+ 
+    0.05  
+ 
+ t1  =
+ 
+    9.481D-08  
+ 
+ v1  =
+ 
+    1582092.  
+ 
+
+(3)
+speed with which the electron strikes the positive plate,
+v = 1.58*10^6 m/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.2/ex1_2.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ Vmax  =
+ 
+    1.5  
+ 
+ w  =
+ 
+    3.770D+08  
+ 
+ d  =
+ 
+    0.008  
+ 
+ Max_Vel  =
+ 
+    174895.54  
+ 
+ Max_Vel  =
+ 
+    175.  
+ 
+The Maximum value of Velocity is, 
+ dx/dt=1.75*10^5 m/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.3/ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ eps  =
+ 
+    666.66667  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ v  =
+ 
+    10000000.  
+ 
+ t  =
+ 
+    8.531D-10  
+ 
+ t  =
+ 
+    85.  
+ 
+ t  =
+ 
+    8.5  
+ 
+
+(1)
+Time ,t=8.5*10^-10 sec
+ 
+ t  =
+ 
+    8.500D-10  
+ 
+ 
+ y  =
+ 
+    0.0042344  
+ 
+
+(2)
+Distance travelled by electron , y=0.004234 m
+ 
+ 
+ pd  =
+ 
+    282.29548  
+ 
+
+(3)
+Potential Drop=282.3 Volts 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.4/ex1_4.sce #
+ 
+ 
+ 
+ V0  =
+ 
+    10.  
+ 
+ xm  =
+ 
+    2.  
+ 
+ theta  =
+ 
+    0.7853982  
+ 
+ V  =
+ 
+    10.  
+ 
+V=10d Volts 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.5/ex1_5.sce #
+ 
+ 
+ 
+ 
+ B  =
+ 
+    0.03  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ V  =
+ 
+    200000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ R  =
+ 
+    0.0015083  
+ 
+ R  =
+ 
+    5.  
+ 
+Radius of the circle, R=5 cm 
+ 
+ oa  =
+ 
+    5.  
+ 
+ oc  =
+ 
+    3.  
+ 
+ ac  =
+ 
+    4.  
+ 
+
+  AD=1 cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.6/ex1_6.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ V  =
+ 
+    100.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ d  =
+ 
+    0.05  
+ 
+ t  =
+ 
+    1.000D-08  
+ 
+ d1  =
+ 
+    0.0175824  
+ 
+ d2  =
+ 
+    3.2417582  
+ 
+
+d1=1.758*10^-2m
+d2=3.24*10^-2m 
+ t1  =
+ 
+    1.000D-08  
+ 
+ v1  =
+ 
+    3516483.5  
+ 
+ v1  =
+ 
+    352.  
+ 
+
+Velocity of Electron,v=3.52*10^6m/s 
+ t2  =
+ 
+    9.210D-09  
+ 
+
+t2=0.9*10^-8 sec 
+
+Total transit time =t1+t2=1.9*10^-8 sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.7/ex1_7.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    0.01  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ eps  =
+ 
+    100000.  
+ 
+ t  =
+ 
+    1.067D-09  
+ 
+t=10.67*10^-9 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.8/ex1_8.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    1000.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ Vf  =
+ 
+    18752289.  
+ 
+V_final=18.75*10^6 m/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.9/ex1_9.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.760D+11  
+ 
+ eps  =
+ 
+    10000.  
+ 
+ B  =
+ 
+    0.01  
+ 
+ 
+ Xmax  =
+ 
+    0.0035700  
+ 
+Xmax=0.357 cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.10/ex1_10.sce #
+ 
+ 
+ 
+ 
+ Energy  =
+ 
+    50.  
+ 
+ V0  =
+ 
+    50.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ v0  =
+ 
+    4193139.3  
+ 
+ v0  =
+ 
+    42.  
+ 
+ v0  =
+ 
+    4200000.  
+ 
+
+Velocity, v0=4200000 
+ 
+ t  =
+ 
+    1.775D-08  
+ 
+ 
+ v1  =
+ 
+    4136192.6  
+ 
+ v2  =
+ 
+    3946709.  
+ 
+ x  =
+ 
+    189483.56  
+ 
+ d  =
+ 
+    0.0033633  
+ 
+
+Distance, d =0.3363 cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.11/ex1_11.sce #
+ 
+ 
+ 
+ 
+ l  =
+ 
+    2.  
+ 
+ D  =
+ 
+    18.  
+ 
+ s  =
+ 
+    0.5  
+ 
+ 
+ 
+ va1  =
+ 
+    500.  
+ 
+ ds1  =
+ 
+    0.072  
+ 
+ 
+ va2  =
+ 
+    1000.  
+ 
+ ds2  =
+ 
+    0.036  
+ 
+ 
+ va3  =
+ 
+    1500.  
+ 
+ ds3  =
+ 
+    0.024  
+ 
+
+(a)Va=500V
+Deflection Sensitivity S_E=0.072 cm/V 
+
+(b)Va=1000V
+Deflection Sensitivity S_E=0.036 cm/V
+
+(c)Va=1500V
+Deflection Sensitivity S_E=0.024 cm/V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.12/ex1_12.sce #
+ 
+ 
+ 
+ 
+ l  =
+ 
+    2.  
+ 
+ D  =
+ 
+    24.  
+ 
+ s  =
+ 
+    0.5  
+ 
+ Vd  =
+ 
+    30.  
+ 
+ Va  =
+ 
+    1000.  
+ 
+ 
+ 
+ d  =
+ 
+    1.44  
+ 
+
+(a)
+Deflection Produce, d=1.44 cm
+ 
+ 
+ 
+ theta  =
+ 
+    3.4336304  
+ 
+
+(b)
+Theta=3.43° 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ v  =
+ 
+    18752289.  
+ 
+ vr  =
+ 
+    18786013.  
+ 
+
+
+(c)
+Resultant Velocity, Vr=18.79 *10^6 m/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.13/ex1_13.sce #
+ 
+ 
+ 
+ 
+ l  =
+ 
+    1.27  
+ 
+ D  =
+ 
+    19.4  
+ 
+ s  =
+ 
+    0.475  
+ 
+ Va  =
+ 
+    400.  
+ 
+ Se  =
+ 
+    0.0006484  
+ 
+ Se  =
+ 
+    65.  
+ 
+
+S_E=0.65 mm/v 
+ 
+ v  =
+ 
+    30.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ x  =
+ 
+    0.0000024  
+ 
+ B  =
+ 
+    0.0000534  
+ 
+
+B=5.34*10^-5 wb/m^2 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH1/EX1.14/ex1_14.sce #
+ 
+ 
+ 
+ 
+ v0  =
+ 
+    11900000.  
+ 
+ B  =
+ 
+    0.00006  
+ 
+ v  =
+ 
+    400.  
+ 
+ 
+ R  =
+ 
+    1.1233333  
+ 
+
+Radius of Circle, R=1.12m 
+ y  =
+ 
+    110.19982  
+ 
+ y  =
+ 
+    1.8001815  
+ 
+
+deflection of the electron on the screen, y=1.8 cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.1/ex2_1.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    1.  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ eps  =
+ 
+    8.842D-12  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ r  =
+ 
+    5.304D-11  
+ 
+
+radius of the lowest state of Ground State, r=0.53 A° 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.2/ex2_2.sce #
+ 
+ 
+ 
+ 
+ lambda  =
+ 
+    2537.  
+ 
+ E_diff  =
+ 
+    4.8876626  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ energy  =
+ 
+    0.05  
+ 
+ e_j  =
+ 
+    3.125D+17  
+ 
+ n  =
+ 
+    6.394D+16  
+ 
+The lamp emits 6.4 *10^16 photons/sec of wavelength, lambda=2537A° 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.3/ex2_3.sce #
+ 
+ 
+ 
+ e_ar  =
+ 
+    11.6  
+ 
+ e_Na  =
+ 
+    5.12  
+ 
+ V  =
+ 
+    6.48  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ v  =
+ 
+    1509530.2  
+ 
+Velocity, v=1.51*10^6 m/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.4/ex2_4.sce #
+ 
+ 
+ 
+ 
+ l  =
+ 
+    5893.  
+ 
+ V  =
+ 
+    2.11  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ v  =
+ 
+    861381.46  
+ 
+Velocity, v=8.61*10^5 m/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.5/ex2_5.sce #
+ 
+ 
+ 
+ 
+ f  =
+ 
+    10000000.  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ E  =
+ 
+    4.141D-08  
+ 
+
+(a)Energy of each radiated quantum,
+	E=6.626*10^-27 Joules/Quantum
+	E=4.14*10^-8 eV/Quantum 
+ 
+ 
+ E  =
+ 
+    1000.  
+ 
+ N  =
+ 
+    1.509D+29  
+ 
+
+
+(b)
+Total number of quanta per sec, N=1.51*10^29 
+ 
+ 
+ o  =
+ 
+    1.000D-07  
+ 
+
+
+(c)
+Number of quanta emitted per cycle = 1.51*10^22 per cycle 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.6/ex2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    21.5  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ v  =
+ 
+    2749625.3  
+ 
+ lambda  =
+ 
+    576.74419  
+ 
+
+(a)
+Velocity, v=2.75*10^6 m/sec
+Wavelength of Radiation, Lambda=577.0 
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ f  =
+ 
+    5.202D+15  
+ 
+
+(b)
+Frequency of Radiation, f=5.2*10^15 Hz 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.8/ex2_8.sce #
+ 
+ 
+ 
+ L  =
+ 
+    1400.  
+ 
+ E_diff  =
+ 
+    8.8571429  
+ 
+ del_E  =
+ 
+    2.15  
+ 
+ L2  =
+ 
+    5767.4419  
+ 
+
+E2-E1=8.86 eV
+1850 A° line is from 6.71 eV to 0 eV
+Therefore, second photon must be from 8.86 to 6.71 eV.
+Lambda=5767 A°. 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.9/ex2_9.sce #
+ 
+ 
+ 
+ A  =
+ 
+    602000.  
+ 
+ B  =
+ 
+    52400.  
+ 
+ T1  =
+ 
+    2400.  
+ 
+ T2  =
+ 
+    2410.  
+ 
+ js1  =
+ 
+    1142.6752  
+ 
+ js2  =
+ 
+    1261.4766  
+ 
+ js1  =
+ 
+    1142.  
+ 
+ js2  =
+ 
+    1261.  
+ 
+
+JS1=1142 A/m^2
+JS2=1261 A/m^2 
+ p  =
+ 
+    10.420315  
+ 
+
+Percentage Increase=10.42% 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.10/ex2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ h  =
+ 
+    6.630D-34  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ c  =
+ 
+    3.000D+08  
+ 
+ v  =
+ 
+    0.55  
+ 
+ l  =
+ 
+    0.0000006  
+ 
+ fi  =
+ 
+    2.2602273  
+ 
+ fi  =
+ 
+    1.7102273  
+ 
+
+(a)
+Work Function(WF), fi=1.71 Volts 
+ 
+ l0  =
+ 
+    7250.4983  
+ 
+
+
+(b)
+Threshold Wavelength = 7250 A° 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.11/ex2_11.sce #
+ 
+ 
+ 
+ dT  =
+ 
+    20.  
+ 
+ T  =
+ 
+    2310.  
+ 
+ Ew  =
+ 
+    4.52  
+ 
+ k  =
+ 
+    0.0000862  
+ 
+ x  =
+ 
+    22.699651  
+ 
+ x  =
+ 
+    0.2138498  
+ 
+
+(a)
+dIth/Ith=21.4%
+
+(b)
+This is solved by Trial and Error Method to get T = 2370°K 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.12/ex2_12.sce #
+ 
+ 
+ 
+ 
+ B  =
+ 
+    1.  
+ 
+ T  =
+ 
+    0.0000355  
+ 
+ f  =
+ 
+    28169.014  
+ 
+
+(a)
+The frequency of the R.F voltage, f=2.82*10^4 Hz 
+ k  =
+ 
+    2000000.  
+ 
+ g  =
+ 
+    40000.  
+ 
+
+
+(b)Number of passages required to gain 2*10^6 eV are ,N=50 
+ v  =
+ 
+    1960000.  
+ 
+ R  =
+ 
+    0.004718  
+ 
+
+
+(c)
+Diameter of last semicircle, D = 2R =94.36 *10^-4 m 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.13/ex2_13.sce #
+ 
+ 
+ 
+ Ew  =
+ 
+    1.  
+ 
+ A0  =
+ 
+    100.  
+ 
+ S  =
+ 
+    0.00018  
+ 
+ K  =
+ 
+    0.0000862  
+ 
+ T  =
+ 
+    1100.  
+ 
+ pd  =
+ 
+    58000.  
+ 
+ ipd  =
+ 
+    63800.  
+ 
+ tip  =
+ 
+    11.484  
+ 
+ Ith  =
+ 
+    0.5726098  
+ 
+
+Ith=0.573 A
+Cathode Efficiency, eta=50 mA/°K 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.14/ex2_14.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    4.400D+22  
+ 
+ mu  =
+ 
+    3600.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ sigma  =
+ 
+    25.344  
+ 
+
+Resistivity, rho=0.039 Ohm-cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.15/ex2_15.sce #
+ 
+ 
+ 
+ mup  =
+ 
+    500.  
+ 
+ mun  =
+ 
+    1500.  
+ 
+ n  =
+ 
+    1.600D+10  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ sigma  =
+ 
+    0.0000051  
+ 
+
+conductivity, sigma=5.12 *10^-6
+Resistivity, rho= 195312 Ohm-cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.16/ex2_16.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    9.640D+14  
+ 
+ EG  =
+ 
+    0.25  
+ 
+ n1  =
+ 
+    6.250D+26  
+ 
+ na  =
+ 
+    3.000D+14  
+ 
+ nd  =
+ 
+    2.000D+14  
+ 
+ n  =
+ 
+    1.180D+13  
+ 
+ n  =
+ 
+    5.902D+12  
+ 
+
+n=5.9*10^12 electrons/cm^3
+p=1.06*10^14 holes/cm^3
+As p> n, this is p-type semiconductor. 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.17/ex2_17.sce #
+ 
+ 
+ 
+ sigma  =
+ 
+    100.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mup  =
+ 
+    1800.  
+ 
+ ni  =
+ 
+    2.500D+13  
+ 
+
+In p-type semiconductor, p>>n. 
+ pp  =
+ 
+    3.472D+17  
+ 
+ n  =
+ 
+    1.800D+09  
+ 
+
+Pp=3.47*10^17 holes/cm^3
+n=1.8*10^9 electrons/cm^3 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.18/ex2_18.sce #
+ 
+ 
+ 
+ 
+ 
+ sigma  =
+ 
+    100.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ mup  =
+ 
+    1800.  
+ 
+ ni  =
+ 
+    2.500D+13  
+ 
+
+(a)
+As it is p-type semiconductor, p>>n. 
+ pp  =
+ 
+    3.472D+17  
+ 
+ n  =
+ 
+    1.800D+09  
+ 
+
+Pp=3.47*10^17 holes/cm^3
+n=1.8*10^9 electrons/cm^3 
+ 
+ 
+ mun  =
+ 
+    1300.  
+ 
+ sig  =
+ 
+    0.1  
+ 
+ n1  =
+ 
+    1.500D+10  
+ 
+ n2  =
+ 
+    4.808D+14  
+ 
+ p1  =
+ 
+    468000.  
+ 
+
+
+(b)
+n=4.81*10^14 elecrons/cm^3
+p=4.68*10^5 holes/cm^3 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.19/ex2_19.sce #
+ 
+ 
+ 
+ sig  =
+ 
+    0.0166667  
+ 
+ mup  =
+ 
+    1800.  
+ 
+ mun  =
+ 
+    3800.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ 
+ ni  =
+ 
+    1.860D+13  
+ 
+ na  =
+ 
+    7.000D+13  
+ 
+ nd  =
+ 
+    1.000D+14  
+ 
+ k  =
+ 
+  - 3.000D+13  
+ 
+ p  =
+ 
+    8.800D+12  
+ 
+ n  =
+ 
+    3.880D+13  
+ 
+ eps  =
+ 
+    2.  
+ 
+ J  =
+ 
+    0.0522496  
+ 
+J=52.2 mA/cm^3 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.20/ex2_20.sce #
+ 
+ 
+ 
+ na  =
+ 
+    3.000D+14  
+ 
+ nd  =
+ 
+    2.000D+14  
+ 
+ ni  =
+ 
+    2.500D+13  
+ 
+ 
+ k  =
+ 
+    1.000D+14  
+ 
+ n  =
+ 
+    5.902D+12  
+ 
+
+n=5.9*10^18 electrons/m^3
+p=10.59*10^19 holes/m^3
+
+as p > n, it is p-type semiconductor 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.21/ex2_21.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    9.640D+21  
+ 
+ T  =
+ 
+    320.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ Eg  =
+ 
+    0.75  
+ 
+ k  =
+ 
+    1.370D-23  
+ 
+ ni  =
+ 
+    6.280D+19  
+ 
+
+ni=6.28 *10^19 electrons(holes)/m^3 
+ mup  =
+ 
+    0.36  
+ 
+ mun  =
+ 
+    0.17  
+ 
+ sig  =
+ 
+    5.3258204  
+ 
+
+Conductivity, Sigma=5.326 Mho/m 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.22/ex2_22.sce #
+ 
+ 
+ 
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ ni  =
+ 
+    2.500D+19  
+ 
+ mun  =
+ 
+    0.36  
+ 
+ mup  =
+ 
+    0.17  
+ 
+ sig  =
+ 
+    2.12  
+ 
+ 
+ rho  =
+ 
+    0.4716981  
+ 
+Resistivity, rho=0.47 Ohm-m 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.23/ex2_23.sce #
+ 
+ 
+ 
+ mup  =
+ 
+    0.4  
+ 
+ T  =
+ 
+    300.  
+ 
+ Nv  =
+ 
+    4.820D+15  
+ 
+ Na  =
+ 
+    6.336D+18  
+ 
+
+Doping concentration, NA=6.34*10^18 atoms/cm^3 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.24/ex2_24.sce #
+ 
+ 
+ 
+ Vt  =
+ 
+    0.026  
+ 
+ Nv  =
+ 
+    0.0135164  
+ 
+
+For Intrinsic Semiconductor,
+EF will be at the centre of the forbidden band. 
+But if mp and mn are unequal, EF will be away
+from the centre of the forbidden band by
+
+Nv=13.5*10^-3 eV 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.25/ex2_25.sce #
+ 
+ 
+ 
+ 
+ si  =
+ 
+    5.000D+22  
+ 
+ d  =
+ 
+    2.000D+08  
+ 
+ Nd  =
+ 
+    2.500D+14  
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ Nc  =
+ 
+    4.819D+21  
+ 
+ T  =
+ 
+    0.0000139  
+ 
+T=0.14°K 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.26/ex2_26.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    9.100D-31  
+ 
+ k  =
+ 
+    1.380D-23  
+ 
+ h  =
+ 
+    6.626D-34  
+ 
+ T  =
+ 
+    300.  
+ 
+ mp  =
+ 
+    0.6  
+ 
+ si  =
+ 
+    5.000D+22  
+ 
+ at  =
+ 
+    1.000D+08  
+ 
+ Nc  =
+ 
+    5.000D+14  
+ 
+ Nv  =
+ 
+    1.164D+25  
+ 
+
+Nv=1.16 * 10^19 /cm^3 
+ Kt  =
+ 
+    0.026  
+ 
+ Ediff  =
+ 
+    0.2615728  
+ 
+
+Ef-Ev =0.26 eV
+Therefore, EF is above Ev 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.27/ex2_27.sce #
+ 
+ 
+ 
+ mp  =
+ 
+    0.4  
+ 
+ T  =
+ 
+    300.  
+ 
+ k  =
+ 
+    4.820D+15  
+ 
+ Nv  =
+ 
+    6.336D+18  
+ 
+Doping concentration, NA = ND = 6.34*10^18 atoms/cm^3 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.28/ex2_28.sce #
+ 
+ 
+ 
+ Vt  =
+ 
+    0.026  
+ 
+ Nv  =
+ 
+    0.0214229  
+ 
+
+For Intrinsic Semiconductor,
+EF will be at the centre of the forbidden band. 
+But if mp and mn are unequal, EF will be away
+from the centre of the forbidden band by
+
+Nv=21.4*10^-3 eV 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.29/ex2_29.sce #
+ 
+ 
+ 
+ mung  =
+ 
+    3800.  
+ 
+ mupg  =
+ 
+    1800.  
+ 
+ muns  =
+ 
+    1300.  
+ 
+ mups  =
+ 
+    500.  
+ 
+ Vt  =
+ 
+    0.026  
+ 
+
+For Germanium at room temperature,
+Dp=47 cm^2/sec
+Dn=99 cm^2/sec
+
+For Silicon,
+Dp=13 cm^2/sec
+Dn=34 cm^2/sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.30/ex2_30.sce #
+ 
+ 
+ 
+ 
+ B  =
+ 
+    0.1  
+ 
+ Vh  =
+ 
+    50.  
+ 
+ I  =
+ 
+    10.  
+ 
+ rho  =
+ 
+    200000.  
+ 
+ w  =
+ 
+    0.003  
+ 
+ x  =
+ 
+    0.6666667  
+ 
+
+1/RH=0.667 
+ y  =
+ 
+    0.0005  
+ 
+
+Conductivity = 0.000500 mhos/meter
+mu=750 cm^2/V-sec 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.31/ex2_31.sce #
+ 
+ 
+ 
+ 
+ 
+ Vt  =
+ 
+    0.0258621  
+ 
+ v  =
+ 
+    0.0165997  
+ 
+
+(a)
+V=0.017V 
+ 
+ 
+ v1  =
+ 
+    0.2  
+ 
+ i1  =
+ 
+    22822.002  
+ 
+
+(b)
+For V=0.2, I=22.82 mA 
+ v2  =
+ 
+    0.3  
+ 
+ i2  =
+ 
+    1090968.  
+ 
+
+
+For V=0.3, I=1.09 A 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.32/ex2_32.sce #
+ 
+ 
+ 
+ 
+ Vt  =
+ 
+    0.026  
+ 
+ i0  =
+ 
+    0.00002  
+ 
+ v  =
+ 
+    0.1  
+ 
+ I  =
+ 
+    0.0009163  
+ 
+
+I=0.916 mA 
+ r_DC  =
+ 
+    109.14012  
+ 
+
+r_DC=109.1 Ohm 
+ r_AC  =
+ 
+    0.0360097  
+ 
+
+r_AC = 27.8 Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.33/ex2_33.sce #
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.001  
+ 
+ sig1n  =
+ 
+    1.  
+ 
+ sig1p  =
+ 
+    100.  
+ 
+ mun  =
+ 
+    3800.  
+ 
+ mup  =
+ 
+    1800.  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eps  =
+ 
+    1.416D-12  
+ 
+ ni  =
+ 
+    6.250D+26  
+ 
+ T  =
+ 
+    300.  
+ 
+ Vt  =
+ 
+    0.0258621  
+ 
+ Nd  =
+ 
+    1.645D+15  
+ 
+ Na  =
+ 
+    3.472D+17  
+ 
+ V0  =
+ 
+    0.3549648  
+ 
+ w  =
+ 
+    0.0000083  
+ 
+
+ND=1.64 * 10^15 /cm^3
+NA=3.5 * 10^17 /cm^3
+V0=0.355 V
+w=0.083 * 10^-4 cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.34/ex2_34.sce #
+ 
+ 
+ 
+ 
+ I0  =
+ 
+    0.000001  
+ 
+ T  =
+ 
+    301.6  
+ 
+ Vf  =
+ 
+    0.25  
+ 
+ Vr  =
+ 
+    0.25  
+ 
+ 
+ Vt  =
+ 
+    0.026  
+ 
+ x  =
+ 
+    0.5766803  
+ 
+ rf  =
+ 
+    1.734063  
+ 
+
+Dynamic Forward Resistance, rf = 1.734 Ohm 
+ 
+ 
+ x1  =
+ 
+    2.565D-09  
+ 
+ rr  =
+ 
+    3.898D+08  
+ 
+
+Dynamic Reverse Resistance, rr = 389.8 * 10^6 Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.35/ex2_35.sce #
+ 
+ 
+ 
+ 
+ eps  =
+ 
+    1.415D-10  
+ 
+ mup  =
+ 
+    1800.  
+ 
+ E  =
+ 
+    4.000D+14  
+ 
+ V  =
+ 
+    50.929582  
+ 
+ sige  =
+ 
+    0.0222222  
+ 
+ Vz  =
+ 
+    2295.  
+ 
+V=2295 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.36/ex2_36.sce #
+ 
+ 
+ 
+ 
+ Ct  =
+ 
+    20.  
+ 
+ v1  =
+ 
+    5.  
+ 
+ v2  =
+ 
+    6.  
+ 
+ Ct2  =
+ 
+    18.257419  
+ 
+Therefore, decrease in the value of capacitance is
+Ct1-Ct2=1.74 pF 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.37/ex2_37.sce #
+ 
+ 
+ 
+ V1  =
+ 
+    200.  
+ 
+ Vd  =
+ 
+    50.  
+ 
+ I  =
+ 
+    0.04  
+ 
+ 
+ 
+ R  =
+ 
+    3750.  
+ 
+ I0  =
+ 
+    5.  
+ 
+
+(a)
+R=3750 Ohm
+Imax occurs when I0 = 5 mA
+Therefore, Imax = 5 mA 
+ 
+ Il  =
+ 
+    25.  
+ 
+ Vmin  =
+ 
+    162.5  
+ 
+ 
+ Vmax  =
+ 
+    293.75  
+ 
+
+(b)
+For Vmin
+Vmin=162.5V
+
+For Vmax
+Vmax=293.8V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.39/ex2_39.sce #
+ 
+ 
+ 
+ x  =
+ 
+    99500.  
+ 
+ rm  =
+ 
+    560.  
+ 
+ v1  =
+ 
+    20.  
+ 
+ i  =
+ 
+    0.0002010  
+ 
+ i  =
+ 
+    0.0002  
+ 
+ k  =
+ 
+    80000.  
+ 
+ R1  =
+ 
+    79440.  
+ 
+ R2  =
+ 
+    20060.  
+ 
+ 
+
+R1=79.4 K-ohm
+R2=20.1 K-ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.40/ex2_40.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    301.6  
+ 
+ vt  =
+ 
+    26.  
+ 
+ vf  =
+ 
+    50.  
+ 
+ vr  =
+ 
+  - 50.  
+ 
+ k  =
+ 
+  - 6.8419784  
+ 
+
+ratio=-6.84
+Negative sign is oecause, the direction of 
+current is opposite when the diode is reverse biased 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.41/ex2_41.sce #
+ 
+ 
+ 
+ V  =
+ 
+    10.  
+ 
+ I0  =
+ 
+    0.6363636  
+ 
+ i1  =
+ 
+    5.  
+ 
+ Ir  =
+ 
+    0.3636364  
+ 
+ i  =
+ 
+    0.5714286  
+ 
+ Ir  =
+ 
+    2.8571429  
+ 
+ R  =
+ 
+    3.5  
+ 
+R=3.5 K-Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH2/EX2.42/ex2_42.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    30.  
+ 
+ R  =
+ 
+    2000.  
+ 
+ I  =
+ 
+    0.015  
+ 
+ Iz  =
+ 
+    0.025  
+ 
+ It  =
+ 
+    0.04  
+ 
+ Rs  =
+ 
+    200.  
+ 
+ Vmax  =
+ 
+    38.  
+ 
+Vrmax = 38 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.1/ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Rl  =
+ 
+    2000.  
+ 
+ f  =
+ 
+    50.  
+ 
+ l  =
+ 
+    20.  
+ 
+ V1  =
+ 
+    0.074  
+ 
+ w  =
+ 
+    314.15927  
+ 
+ V  =
+ 
+    13.298076  
+ 
+
+1.One Inductor Filter,
+V = 0.074
+ 
+ 
+ Idc  =
+ 
+    1.  
+ 
+ c  =
+ 
+    0.000016  
+ 
+ gam  =
+ 
+    0.0902110  
+ 
+
+2.Capacitor filter, 
+Gamma = 0.09
+ 
+ 
+ 
+ gam2  =
+ 
+    3.7220609  
+ 
+
+3. L Type filter,
+Gamma = 0.0037 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.2/ex3_2.sce #
+ 
+ 
+ 
+ 
+ vm  =
+ 
+    110.  
+ 
+ x  =
+ 
+    1020.  
+ 
+ rl  =
+ 
+    1000.  
+ 
+ 
+ Im  =
+ 
+    0.1525132  
+ 
+
+(a)
+Im = 152.5 mA 
+ 
+ Idc  =
+ 
+    48.546468  
+ 
+
+(b)
+Idc = 48.5 mA 
+ 
+ 
+ Ir  =
+ 
+    76.256614  
+ 
+
+(c)
+Irms = 76.3 mA 
+ 
+ v  =
+ 
+  - 48.546468  
+ 
+
+(d)
+ Vdc = -48.5 V 
+ 
+ 
+ p  =
+ 
+    77.781746  
+ 
+
+(e)
+Pi = 77.78 W 
+ 
+ rl  =
+ 
+    1.  
+ 
+ lr  =
+ 
+    0.02  
+ 
+
+(f)
+% regulation = 2.00 % 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.4/ex3_4.sce #
+ 
+ 
+ 
+ 
+ Rl  =
+ 
+    5010.  
+ 
+ idc  =
+ 
+    0.001  
+ 
+ Vrms  =
+ 
+    5.5647109  
+ 
+
+Vrms = 5.56 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.5/ex3_5.sce #
+ 
+ 
+ 
+ rf  =
+ 
+    0.02  
+ 
+ f  =
+ 
+    60.  
+ 
+ w  =
+ 
+    376.99112  
+ 
+ lc  =
+ 
+    0.0000415  
+ 
+
+LC=41.5 micro 
+ vdc  =
+ 
+    9.  
+ 
+ idc  =
+ 
+    0.1  
+ 
+ Rl  =
+ 
+    90.  
+ 
+
+RL = 90 Ohm
+
+ LC>  Rl/3w  >  Rl/1130
+ But LC should be 25% larger
+therefore, for f= 60 Hz,the value ofLC should be > Rl/900 
+ lc1  =
+ 
+    0.1  
+ 
+
+If L=0.1H, then C=415.0 micro F, This is high value
+If L=1H, then C=41.5 micro F 
+
+
+Transformer Rating: 
+ vdc  =
+ 
+    14.  
+ 
+ vm  =
+ 
+    21.991149  
+ 
+ vrms  =
+ 
+    15.55009  
+ 
+
+Vdc=14V
+Vm=22V
+Vrms=15.6V
+Therefore, a 15.5 - 0 -15.5 V, 1OOmA transformer is required
+ PIV=44 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.6/ex3_6.sce #
+ 
+ 
+ 
+ vrpp  =
+ 
+    0.8  
+ 
+ vrms  =
+ 
+    0.2309401  
+ 
+ vrms  =
+ 
+    2.  
+ 
+ vrms  =
+ 
+    0.2  
+ 
+ vm  =
+ 
+    8.8  
+ 
+ vdc  =
+ 
+    8.4  
+ 
+ gam  =
+ 
+    0.0238095  
+ 
+
+% regulation, gamma = 2.38% 
+ r  =
+ 
+    100.  
+ 
+ f  =
+ 
+    60.  
+ 
+ c  =
+ 
+    0.00105  
+ 
+ tgam  =
+ 
+    0.0575055  
+ 
+
+Theoretical values, gamma = 5.75% 
+ Vdc  =
+ 
+    8.4641221  
+ 
+
+Vdc = 8.46 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.7/ex3_7.sce #
+ 
+ 
+ 
+ Vdc  =
+ 
+    25.  
+ 
+ Idc  =
+ 
+    0.1  
+ 
+ R  =
+ 
+    250.  
+ 
+ 
+ Vc  =
+ 
+    62.5  
+ 
+ 
+ vm  =
+ 
+    62.5005  
+ 
+ vrms  =
+ 
+    44.194527  
+ 
+ vrms  =
+ 
+    60.  
+ 
+
+Vrms=60 V
+
+Therefore, a transformer with 60 - 0 -60V is chosen. 
+The ratings of the diode should be,
+current of 125mA.and voltage = PIV = 2Vm = 169.2 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.8/ex3_8.sce #
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    250.  
+ 
+ Idc  =
+ 
+    0.1  
+ 
+ rc  =
+ 
+    400.  
+ 
+ rl  =
+ 
+    2500.  
+ 
+ Vm  =
+ 
+    455.53093  
+ 
+ Vrms  =
+ 
+    322.10901  
+ 
+Vrms=322V
+
+Therefore, the transformer should supply 
+322V rms on each side of the centre tap. 
+ L  =
+ 
+    10.  
+ 
+ c  =
+ 
+    0.00002  
+ 
+ w  =
+ 
+    377.  
+ 
+ Ib  =
+ 
+    0.0256410  
+ 
+ rf  =
+ 
+    0.0413357  
+ 
+
+
+Ib=0.0256 A
+Ripple factor=0.041336 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.9/ex3_9.sce #
+ 
+ 
+ 
+ 
+ Idc  =
+ 
+    0.02  
+ 
+ Vdc  =
+ 
+    16.  
+ 
+ rl  =
+ 
+    800.  
+ 
+ f  =
+ 
+    50.  
+ 
+ x  =
+ 
+    13856.406  
+ 
+ C  =
+ 
+    0.0000722  
+ 
+
+C=72 microF 
+ vm  =
+ 
+    17.385641  
+ 
+
+Vm=17.39 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.10/ex3_10.sce #
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    27.566445  
+ 
+
+Vdc=27.6 V 
+ Vrms  =
+ 
+    48.535734  
+ 
+
+Vrms=48.5V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.11/ex3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ vdc  =
+ 
+    30.  
+ 
+ idc  =
+ 
+    0.05  
+ 
+ rl  =
+ 
+    600.  
+ 
+ f  =
+ 
+    50.  
+ 
+ c  =
+ 
+    0.00008  
+ 
+ vm  =
+ 
+    33.125  
+ 
+
+(a)
+RL=600 Ohm
+Vm=33.125V
+Vrms=23.4V 
+ 
+ is  =
+ 
+    0.8325221  
+ 
+
+
+(b)
+I_diode swing/I_diode mean = 16.65 
+ 
+ gam  =
+ 
+    16.627688  
+ 
+ gam  =
+ 
+    0.0601407  
+ 
+
+
+(c)
+gamma=0.06 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.12/ex3_12.sce #
+ 
+ 
+ 
+ 
+ vm  =
+ 
+    25.  
+ 
+ vp  =
+ 
+    35.4  
+ 
+ vdc  =
+ 
+    22.53634  
+ 
+ vrms  =
+ 
+    10.821894  
+ 
+ 
+ rl  =
+ 
+    25.  
+ 
+ im  =
+ 
+    1.416  
+ 
+ idc  =
+ 
+    0.9014536  
+ 
+ irms  =
+ 
+    0.4328757  
+ 
+
+Vdc=22.5 V
+Vrms=10.82 V
+Im=1.42 A
+Idc=0.90 A
+Irms=0.433 A 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH3/EX3.13/ex3_13.sce #
+ 
+ 
+ 
+ veb  =
+ 
+    0.2  
+ 
+ hfe  =
+ 
+    49.  
+ 
+ vz  =
+ 
+    6.3  
+ 
+ i  =
+ 
+    0.005  
+ 
+ vi  =
+ 
+    8.  
+ 
+ 
+ y  =
+ 
+    6.5  
+ 
+
+1. The nominal output voltage is the sum of the transistor V_EB and zener voltage.
+V0=6.5 V
+ 
+ 
+ r1  =
+ 
+    340.  
+ 
+
+2. R1 must supply 5mA to the zener diode
+R1=340 Ohm 
+ 
+ k  =
+ 
+    0.0317460  
+ 
+
+
+3. The maximum allowable zener current is
+Iz=0.031746 A 
+ ibmax  =
+ 
+    0.0267460  
+ 
+ it  =
+ 
+    1.3373016  
+ 
+
+Total current range = 1.34 A 
+ 
+ pd  =
+ 
+    8.6924603  
+ 
+
+
+(4)
+The maximum power dissipation,
+Pd=8.7 W 
+ 
+ rs  =
+ 
+    1.1216617  
+ 
+ pdr  =
+ 
+    2.0059524  
+ 
+
+
+(5)
+Rs=1.12 Ohm
+Power dissipated by Rs is P = 2W 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.1/ex4_1.sce #
+ 
+ 
+ 
+ 
+ vcc  =
+ 
+    12.  
+ 
+ rl  =
+ 
+    4.  
+ 
+ ic  =
+ 
+    3.  
+ 
+ alfa  =
+ 
+    0.98  
+ 
+ B  =
+ 
+    49.  
+ 
+ ibmin  =
+ 
+    0.0612245  
+ 
+
+Ic(saturation)= 3 mA
+Beta = 49 
+Ib(min) = 61.2 micro A 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.5/ex4_5.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    75.  
+ 
+ t2  =
+ 
+    25.  
+ 
+ icbo  =
+ 
+    2.  
+ 
+ icbo2  =
+ 
+    64.  
+ 
+ vbe  =
+ 
+    0.1  
+ 
+ vbb  =
+ 
+    5.  
+ 
+ Rb  =
+ 
+    0.0765625  
+ 
+
+Icbo at 75°C = 64 micro A
+Rb = 76.6 K-Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.6/ex4_6.sce #
+ 
+ 
+ 
+ vbb  =
+ 
+  - 1.  
+ 
+ Rb  =
+ 
+    50.  
+ 
+ vbe  =
+ 
+  - 0.1  
+ 
+ Icbo  =
+ 
+    0.018  
+ 
+
+Icbo =18 micro A 
+ t  =
+ 
+    31.69925  
+ 
+
+Delta_T = 32°C 
+Hence, T=57°C 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.7/ex4_7.sce #
+ 
+ 
+ 
+ 
+ vce  =
+ 
+  - 0.07  
+ 
+ vbe  =
+ 
+  - 0.21  
+ 
+ vcc  =
+ 
+  - 9.  
+ 
+ rc  =
+ 
+    1.  
+ 
+ rb  =
+ 
+    30.  
+ 
+ ic  =
+ 
+  - 8.93  
+ 
+ ib  =
+ 
+  - 0.293  
+ 
+ vbc  =
+ 
+  - 0.14  
+ 
+
+Ic = -8.93 mA
+IB = -0.293 mA
+Vbc = -0.14 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.8/ex4_8.sce #
+ 
+ 
+ 
+ 
+ alfa  =
+ 
+    0.98  
+ 
+ Ie  =
+ 
+  - 2.  
+ 
+ Ic  =
+ 
+    1.96  
+ 
+ Ib  =
+ 
+    0.04  
+ 
+ vbe  =
+ 
+    0.6  
+ 
+ vcc  =
+ 
+    12.  
+ 
+ re  =
+ 
+    100.  
+ 
+ r2  =
+ 
+    20000.  
+ 
+ r1  =
+ 
+    3.3  
+ 
+ vbn  =
+ 
+    0.8  
+ 
+
+Ic = 1.96 mA
+Ib = 40 micro A
+V_BN =0.8 V 
+ Ir2  =
+ 
+    0.04  
+ 
+ Ir1  =
+ 
+    0.08  
+ 
+
+IR1 = 80 micro A
+IR2 = 40 micro A
+Irc = 2.04 mA 
+ vr1  =
+ 
+    4.468  
+ 
+ R1  =
+ 
+    55.85  
+ 
+
+R1=56 K-Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.9/ex4_9.sce #
+ 
+ 
+ 
+ 
+ eps  =
+ 
+    1.061D-12  
+ 
+ mup  =
+ 
+    500.  
+ 
+ Vb  =
+ 
+    6080.4897  
+ 
+VB = 6.1*10^3*W^2/rho_B 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.10/ex4_10.sce #
+ 
+ 
+ 
+ 
+ alfa  =
+ 
+    0.96  
+ 
+ Rl  =
+ 
+    5000.  
+ 
+ x  =
+ 
+    80.  
+ 
+ Av  =
+ 
+    60.  
+ 
+ 
+ pg  =
+ 
+    57.6  
+ 
+Power Gain = 57.6 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.11/ex4_11.sce #
+ 
+ 
+ 
+ 
+ alfa  =
+ 
+    0.96  
+ 
+ B  =
+ 
+    24.  
+ 
+ x  =
+ 
+    80.  
+ 
+ Rl  =
+ 
+    75000.  
+ 
+ Av  =
+ 
+    22500.  
+ 
+ Ap  =
+ 
+    540000.  
+ 
+power gain = 540000 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.12/ex4_12.sce #
+ 
+ 
+ 
+ ico  =
+ 
+    2.  
+ 
+ ieo  =
+ 
+    1.6  
+ 
+ alfa  =
+ 
+    0.98  
+ 
+ ie  =
+ 
+    2.  
+ 
+ T  =
+ 
+    301.6  
+ 
+ vt  =
+ 
+    0.026  
+ 
+ ve  =
+ 
+    0.0210842  
+ 
+
+Ve = 0.021084 V 
+ vc  =
+ 
+    0.0177605  
+ 
+
+Vc = 0.017761 V
+V_CE = -0.003324 V 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.13/ex4_13.sce #
+ 
+ 
+ 
+ 
+ rs  =
+ 
+    200.  
+ 
+ vz  =
+ 
+    100.  
+ 
+ rz  =
+ 
+    20.  
+ 
+ il  =
+ 
+    50.  
+ 
+ iz  =
+ 
+    0.01  
+ 
+ ilmax  =
+ 
+    100.  
+ 
+ izmin  =
+ 
+    10.  
+ 
+ 
+ vl  =
+ 
+    100.2  
+ 
+
+V_L = 100.2 V 
+ v1  =
+ 
+    112.2  
+ 
+
+V1 = 112.2V 
+ vldash  =
+ 
+    101.2  
+ 
+ izdash  =
+ 
+    0.06  
+ 
+
+Increase in Iz = 0.06 mA 
+ it  =
+ 
+    0.11  
+ 
+ vt  =
+ 
+    123.2  
+ 
+
+Total Current = 0.1 A
+Total Voltage = 123.2 V
+change in V1 =11V
+A change of 11 V in V, on the input side produces a change of
+1V on the output side due to zener diode action 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.14/ex4_14.sce #
+ 
+ 
+ 
+ vp  =
+ 
+  - 3.  
+ 
+ vgs  =
+ 
+  - 3.63  
+ 
+ idss  =
+ 
+    1.75  
+ 
+ rd  =
+ 
+    5.  
+ 
+ gmo  =
+ 
+    1.8  
+ 
+ 
+ id  =
+ 
+    0.077175  
+ 
+ rs  =
+ 
+    45.375  
+ 
+ gm  =
+ 
+    0.378  
+ 
+ Av  =
+ 
+    1.89  
+ 
+
+(a)Id for zero drift current
+Id = 0.08 mA
+
+(b)
+Vgs = -3.63 V
+
+(c)
+Rs = 45 K-Ohm
+
+(d)
+gm = 0.378 mA/V
+Av = 1.89 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.15/ex4_15.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.0002  
+ 
+ rho  =
+ 
+    10.  
+ 
+ eps  =
+ 
+    1.061D-12  
+ 
+ mup  =
+ 
+    500.  
+ 
+ ena  =
+ 
+    0.0002  
+ 
+ 
+ vp  =
+ 
+    3.7699112  
+ 
+Vp = 3.77 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.16/ex4_16.sce #
+ 
+ 
+ 
+ 
+Same as problem 4.15 in the same chapter 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.17/ex4_17.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.0003  
+ 
+ nd  =
+ 
+    1.000D+15  
+ 
+ e  =
+ 
+    1.600D-19  
+ 
+ eps  =
+ 
+    1.061D-12  
+ 
+ vp  =
+ 
+    6.7858401  
+ 
+
+(a)
+Vp = 6.8 V 
+ b  =
+ 
+    0.0000879  
+ 
+
+
+(b)Vgs=Vp/2
+b = 0.88 * 10^-4 cm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.20/ex4_20.sce #
+ 
+ 
+ 
+ 
+ vdd  =
+ 
+    30.  
+ 
+ rl  =
+ 
+    4.7  
+ 
+ vd  =
+ 
+    20.  
+ 
+ id  =
+ 
+    2.1276596  
+ 
+
+Id = 2.1 mA 
+
+for vd to be constant, it should be within ±1V 
+ del_id  =
+ 
+    0.2127660  
+ 
+
+Delta_Id = ± 0.2 mA
+Id(min) = 1.914894 mA
+Id(max) = 2.340426 mA 
+ 
+ delv  =
+ 
+    10.  
+ 
+ deli  =
+ 
+    2.5  
+ 
+ rs  =
+ 
+    4.  
+ 
+
+Rs = 4 K-Ohm 
+ 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.21/ex4_21.sce #
+ 
+ 
+ 
+ rd  =
+ 
+    100000.  
+ 
+ gm  =
+ 
+    0.003  
+ 
+ rl  =
+ 
+    10000.  
+ 
+ Av  =
+ 
+  - 27.272727  
+ 
+
+(a)
+Av = -27.3 
+ f  =
+ 
+    1000000.  
+ 
+ c  =
+ 
+    3.000D-12  
+ 
+ xc  =
+ 
+    53051.648  
+ 
+ r0  =
+ 
+    9.09  
+ 
+
+
+(b)
+Xc = 53 K-Ohm 
+ z0  =
+ 
+    8959.4347  
+ 
+
+Z0 = 8.96 K-Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH4/EX4.22/ex4_22.sce #
+ 
+ 
+ 
+ 
+ idss  =
+ 
+    0.005  
+ 
+ vp  =
+ 
+  - 5.  
+ 
+ rs  =
+ 
+    5000.  
+ 
+ rl  =
+ 
+    2.  
+ 
+ vdd  =
+ 
+    10.  
+ 
+ 
+ vgs  =
+ 
+  - 3.2087122  
+ 
+ id  =
+ 
+    0.0006417  
+ 
+ x  =
+ 
+    1.2834849  
+ 
+ y  =
+ 
+    3.2087122  
+ 
+ vds  =
+ 
+    5.507803  
+ 
+
+Vgs = -3.21V
+Id = 0.64 mA
+Vds = 5.5 V
+The FET must be conducting.
+If VGS = -7.8V the FET in cut off. Therefore Vp = -5V. 
+Therefore VGS is chosen as -3.2V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.1/ex5_1.sce #
+ 
+ 
+ 
+ 
+ B  =
+ 
+    50.  
+ 
+ rc  =
+ 
+    2000.  
+ 
+ rb  =
+ 
+    100000.  
+ 
+ vcc  =
+ 
+    10.  
+ 
+ vbe  =
+ 
+    0.  
+ 
+ ib  =
+ 
+    0.0000495  
+ 
+
+Ib = 49.5 micro A 
+ ic  =
+ 
+    0.0024752  
+ 
+
+Ic = 2.475 mA 
+ vce  =
+ 
+    4.950495  
+ 
+
+Vce =4.95 V 
+ s  =
+ 
+    25.752475  
+ 
+
+S = 25.8 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.2/ex5_2.sce #
+ 
+ 
+ 
+ B  =
+ 
+    100.  
+ 
+ rc  =
+ 
+    1000.  
+ 
+ vcc  =
+ 
+    10.  
+ 
+ vbe  =
+ 
+    0.  
+ 
+ vce  =
+ 
+    4.  
+ 
+ ib  =
+ 
+    0.0000594  
+ 
+
+Ib = 59.4 micro A 
+ rb  =
+ 
+    67333.333  
+ 
+ s  =
+ 
+    41.  
+ 
+
+Rb = 67.3 K-Ohm
+S = 41 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.3/ex5_3.sce #
+ 
+ 
+ 
+ 
+ vcc  =
+ 
+    4.5  
+ 
+ vbe  =
+ 
+    0.2  
+ 
+ rc  =
+ 
+    1500.  
+ 
+ r1  =
+ 
+    27000.  
+ 
+ r2  =
+ 
+    2700.  
+ 
+ re  =
+ 
+    270.  
+ 
+ ib  =
+ 
+    1.1  
+ 
+ b  =
+ 
+    44.  
+ 
+ v  =
+ 
+    0.4090909  
+ 
+ rb  =
+ 
+    2454.5455  
+ 
+ s  =
+ 
+    7.5630252  
+ 
+
+V=0.409V
+Rb=2.45 K-Ohm
+S=8.4 
+ ic  =
+ 
+    48.4  
+ 
+
+Ib = 1.1 mA
+Ic=48.4 mA 
+ vce  =
+ 
+    2.85  
+ 
+
+Vce = 2.8 V 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.5/ex5_5.sce #
+ 
+ 
+ 
+ b  =
+ 
+    50.  
+ 
+ vcc  =
+ 
+    10.  
+ 
+ rc  =
+ 
+    250.  
+ 
+ ib  =
+ 
+    0.4  
+ 
+ ic  =
+ 
+    21.  
+ 
+ vce  =
+ 
+    4.65  
+ 
+ vce  =
+ 
+    4.6  
+ 
+
+Vce = 4.6V 
+ vbe  =
+ 
+    0.6  
+ 
+ rb  =
+ 
+    10.  
+ 
+ s  =
+ 
+    22.978022  
+ 
+
+Rb  = 10 K-Ohm
+S   = 23 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.6/ex5_6.sce #
+ 
+ 
+ 
+ 
+ b  =
+ 
+    100.  
+ 
+ rc  =
+ 
+    1000.  
+ 
+ vcc  =
+ 
+    10.  
+ 
+ vbe  =
+ 
+    0.  
+ 
+ vce  =
+ 
+    4.  
+ 
+ ib  =
+ 
+    0.0000594  
+ 
+
+Ib = 59.4 micro A 
+ rb  =
+ 
+    67333.333  
+ 
+ s  =
+ 
+    41.  
+ 
+
+Rb = 67.3 K-Ohm
+S = 41 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.7/ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    48.  
+ 
+ vbe  =
+ 
+    0.6  
+ 
+ vcc  =
+ 
+    20.6  
+ 
+ r1  =
+ 
+    10.  
+ 
+ rc  =
+ 
+    5.  
+ 
+ T  =
+ 
+    25.  
+ 
+ 
+ i  =
+ 
+    2.  
+ 
+ ib  =
+ 
+    0.04  
+ 
+ ic  =
+ 
+    1.92  
+ 
+
+(a)
+I = 2 mA
+Ib = 40 mA 
+Ic = 1.92 mA 
+ 
+ 
+ b2  =
+ 
+    98.  
+ 
+ vbe  =
+ 
+    0.22  
+ 
+ I1  =
+ 
+    2.038  
+ 
+ ib1  =
+ 
+    0.02038  
+ 
+ ic2  =
+ 
+    1997.24  
+ 
+
+
+(b)
+I = 2.038 mA
+Ib = 20.38 micro A
+Ic = 2 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.8/ex5_8.sce #
+ 
+ 
+ 
+ vcc  =
+ 
+    20.  
+ 
+ rc  =
+ 
+    2.  
+ 
+ re  =
+ 
+    0.1  
+ 
+ r1  =
+ 
+    100.  
+ 
+ r2  =
+ 
+    5.  
+ 
+ b  =
+ 
+    50.  
+ 
+ vbe  =
+ 
+    0.2  
+ 
+ v  =
+ 
+    0.9523810  
+ 
+ rb  =
+ 
+    4.7619048  
+ 
+ ib  =
+ 
+    0.0762916  
+ 
+ ic  =
+ 
+    3814.5823  
+ 
+ ie  =
+ 
+    3890.874  
+ 
+ vce  =
+ 
+    11.981748  
+ 
+ s  =
+ 
+    25.142926  
+ 
+
+V  = 0.952 V
+Rb = 4.76 K-Ohm
+Ib = 76.29 mA
+Ic = 3.81 mA
+Ie = 3.89 mA
+Vce= 12V
+S  = 25 
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.9/ex5_9.sce #
+ 
+ 
+ 
+ vcc  =
+ 
+    16.  
+ 
+ rc  =
+ 
+    1500.  
+ 
+ vce  =
+ 
+    8.  
+ 
+ ic  =
+ 
+    0.004  
+ 
+ s  =
+ 
+    12.  
+ 
+ b  =
+ 
+    50.  
+ 
+ ib  =
+ 
+    0.00008  
+ 
+ re  =
+ 
+    2.  
+ 
+ re  =
+ 
+    490.19608  
+ 
+ rb  =
+ 
+    7058.8235  
+ 
+ vbn  =
+ 
+    2.2  
+ 
+ V  =
+ 
+    2.7647059  
+ 
+
+Ib = 80 micro A
+Re = 0.49 K-Ohm
+Rb = 7.06 K-Ohm
+V = 2.76V 
+ 
+ r1  =
+ 
+    40851.064  
+ 
+ r2  =
+ 
+    8533.3333  
+ 
+
+R1 = 41 K-Ohm
+R2 = 8.53 K-Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.10/ex5_10.sce #
+ 
+ 
+ 
+ 
+ vcc  =
+ 
+    20.  
+ 
+ vce  =
+ 
+    10.  
+ 
+ vbe  =
+ 
+    0.6  
+ 
+ ic  =
+ 
+    0.002  
+ 
+ rc  =
+ 
+    4000.  
+ 
+ k  =
+ 
+    5000.  
+ 
+ re  =
+ 
+    1000.  
+ 
+
+Re = 1 K-Ohm 
+ ic2  =
+ 
+    2.25  
+ 
+ ic1  =
+ 
+    1.75  
+ 
+ delic  =
+ 
+    0.0005  
+ 
+ b2  =
+ 
+    90.  
+ 
+ b1  =
+ 
+    36.  
+ 
+ delb  =
+ 
+    54.  
+ 
+ s2  =
+ 
+    17.3  
+ 
+ rb  =
+ 
+    21.654746  
+ 
+ rb  =
+ 
+    21654.746  
+ 
+
+Rb = 21.7 K-Ohm 
+ v  =
+ 
+    3.858597  
+ 
+
+V = 3.86V 
+ r1  =
+ 
+    112241.55  
+ 
+ r2  =
+ 
+    26831.305  
+ 
+
+R1 = 112.2 K-Ohm
+R2 = 268.3 k-Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.11/ex5_11.sce #
+ 
+ 
+ 
+ 
+ vcc  =
+ 
+    4.5  
+ 
+ r2  =
+ 
+    2700.  
+ 
+ re  =
+ 
+    270.  
+ 
+ r1  =
+ 
+    27000.  
+ 
+ b  =
+ 
+    44.  
+ 
+ vbe  =
+ 
+    0.6  
+ 
+ rb  =
+ 
+    2454.5455  
+ 
+ v2  =
+ 
+    0.4090909  
+ 
+
+Rb = 2.45 K-Ohm
+V2 = 0.41V 
+ 
+ 
+ s  =
+ 
+    8.394958  
+ 
+
+
+(a)
+S = 8.4 
+ 
+ ib  =
+ 
+    0.0000131  
+ 
+ ic  =
+ 
+    0.0005752  
+ 
+ k  =
+ 
+    101690.  
+ 
+ vce  =
+ 
+    3.4831  
+ 
+
+
+(b)Quiescent Point
+Ib = 0.013 mA
+Ic = 0.575 mA
+Vce = 3.483 V 
+ 
+ s1  =
+ 
+    10.058824  
+ 
+ ib1  =
+ 
+  - 0.0000156  
+ 
+ vce2  =
+ 
+    3.562  
+ 
+
+
+(c)
+S=10.06
+Quiescent Point:
+Vce = 3.562 V
+Ib = 0.016 mA
+Ic = 0.528000 mA 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.12/ex5_12.sce #
+ 
+ 
+ 
+ 
+ vcc  =
+ 
+    24.  
+ 
+ re  =
+ 
+    270.  
+ 
+ rc  =
+ 
+    10000.  
+ 
+ vce  =
+ 
+    5.  
+ 
+ vbe  =
+ 
+    0.6  
+ 
+ b  =
+ 
+    45.  
+ 
+ ic  =
+ 
+    0.0018490  
+ 
+ ib  =
+ 
+    0.0000411  
+ 
+
+Ic = 1.849 mA
+Ib = 41.09 micro A 
+ 
+ 
+ r  =
+ 
+    107086.74  
+ 
+
+
+(a)In collector base circuit
+	R = 107.09 K-Ohm 
+ 
+ s  =
+ 
+    9.4976474  
+ 
+
+
+(b)Stability Factor,
+	S = 9.498 
+ 
+ tj  =
+ 
+    150.  
+ 
+ ta  =
+ 
+    25.  
+ 
+ pd  =
+ 
+    125.  
+ 
+ t  =
+ 
+    1.  
+ 
+
+
+(c)
+Thermal Resistance = 1000°C/W 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.13/ex5_13.sce #
+ 
+ 
+ 
+ 
+ v  =
+ 
+    20.  
+ 
+ igss  =
+ 
+    5.000D-12  
+ 
+ rgs  =
+ 
+    4.000D+12  
+ 
+Input Resistance, Rgs = 4 * 10^12 Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH5/EX5.14/ex5_14.sce #
+ 
+ 
+ 
+ 
+ gm  =
+ 
+    2500.  
+ 
+ vm  =
+ 
+    5.  
+ 
+ rs  =
+ 
+    7500.  
+ 
+ x  =
+ 
+    400.  
+ 
+ opr  =
+ 
+    4.745  
+ 
+ z0  =
+ 
+    379.74684  
+ 
+
+Open circuited output voltage, that is without considering RL
+	V0 = 4.75 mV
+Output impedance, 
+	Z0 = 380 Ohm 
+ V0  =
+ 
+    4.2115385  
+ 
+
+
+AC voltage across the load resistor is
+	V0 = 4.21 mV 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH6/EX6.1/ex6_1.sce #
+ 
+ 
+ 
+ 
+ Vdc  =
+ 
+    9.  
+ 
+ Idc  =
+ 
+    0.02  
+ 
+ V0  =
+ 
+    3.  
+ 
+ I0  =
+ 
+    0.012  
+ 
+ 
+ P0  =
+ 
+    0.036  
+ 
+ Pdc  =
+ 
+    0.18  
+ 
+ eta  =
+ 
+    0.2  
+ 
+
+Efficiency(Eta) = 20% 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH6/EX6.2/ex6_2.sce #
+ 
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0001  
+ 
+ hie  =
+ 
+    2000.  
+ 
+ R  =
+ 
+    50000.  
+ 
+ Vbe  =
+ 
+    0.2  
+ 
+ Ii  =
+ 
+    0.000004  
+ 
+ I1  =
+ 
+    0.000104  
+ 
+Total Current Input, I=104 micro A 
+ hfe  =
+ 
+    100.  
+ 
+ R4  =
+ 
+    2100.  
+ 
+ Rl  =
+ 
+    1000.  
+ 
+ I0  =
+ 
+    0.0067742  
+ 
+
+Current through Rl, I0=6.77mA 
+ Ai  =
+ 
+    65.136476  
+ 
+
+Current amplification, Ai= 65 
+ V0  =
+ 
+  - 6.7741935  
+ 
+ Av  =
+ 
+  - 33.870968  
+ 
+
+V0=-6.77
+ Av=-33.9
+Negative sign indicates that there is phase shift of 1800
+ between input and output voltages,i.e. as base voltage goes more positive,
+ (it is NPN transistor),the collector voltage goes more negative 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH6/EX6.4/ex6_4.sce #
+ 
+ 
+ 
+ 
+ hie  =
+ 
+    1000.  
+ 
+ hfe  =
+ 
+    99.  
+ 
+ 
+ r2  =
+ 
+    60.  
+ 
+ r3  =
+ 
+    30.  
+ 
+ r4  =
+ 
+    5.  
+ 
+ r7  =
+ 
+    20.  
+ 
+ r6  =
+ 
+    30.  
+ 
+ Rl1  =
+ 
+    20000.  
+ 
+ R23  =
+ 
+    20.  
+ 
+ R47  =
+ 
+    4.  
+ 
+ Rl  =
+ 
+    4.  
+ 
+ Av  =
+ 
+  - 3.96  
+ 
+ Av  =
+ 
+  - 4.  
+ 
+ Ri  =
+ 
+    952.38095  
+ 
+Rl=4 kohm
+Av = -400
+Ri=952 Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH6/EX6.5/ex6_5.sce #
+ 
+ 
+ 
+ 
+ hic  =
+ 
+    1100.  
+ 
+ hrc  =
+ 
+    1.  
+ 
+ hfc  =
+ 
+  - 51.  
+ 
+ hoc  =
+ 
+    0.000025  
+ 
+ Rl  =
+ 
+    10000.  
+ 
+ Rs  =
+ 
+    10000.  
+ 
+ Ai  =
+ 
+    40.8  
+ 
+ Ri  =
+ 
+    409.1  
+ 
+ Av  =
+ 
+    997.31117  
+ 
+ Avs  =
+ 
+    39.196472  
+ 
+ R0  =
+ 
+    216.46921  
+ 
+Ai=40.8
+Ri=409.1 kOhm
+Av=997.311
+Avs=39.196
+R0=217 om 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH6/EX6.7/ex6_7.sce #
+ 
+ 
+ 
+ hie  =
+ 
+    1100.  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hre  =
+ 
+    0.00025  
+ 
+ hoe  =
+ 
+    0.000025  
+ 
+ 
+ Rl  =
+ 
+    11282.051  
+ 
+ Rl  =
+ 
+    11.282051  
+ 
+Rl= 11.3 K Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH6/EX6.8/ex6_8.sce #
+ 
+ 
+ 
+ 
+ hie  =
+ 
+    1000.  
+ 
+ hre  =
+ 
+    0.0001  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hoe  =
+ 
+    1.000D-08  
+ 
+ Rl2  =
+ 
+    5000.  
+ 
+ Rs  =
+ 
+    1000.  
+ 
+ Ri2  =
+ 
+    256000.  
+ 
+ Ri2  =
+ 
+    256.  
+ 
+Ri2= 256 KOhm 
+ Av2  =
+ 
+    0.9960938  
+ 
+
+Av2 = 0.996 
+ Rl1  =
+ 
+    9.6240602  
+ 
+ Ai1  =
+ 
+  - 2500.  
+ 
+ Av1  =
+ 
+  - 0.4812030  
+ 
+ o_g  =
+ 
+  - 0.4793233  
+ 
+ Avs  =
+ 
+  - 0.2396617  
+ 
+
+Rl1=9.62 KOhm
+Av1=-481.2
+Overall Gain=-480
+Avs=-240 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.1/ex7_1.sce #
+ 
+ 
+ 
+ 
+ Av  =
+ 
+  - 100.  
+ 
+ B  =
+ 
+    0.01  
+ 
+ Avd  =
+ 
+  - 50.  
+ 
+ v1d  =
+ 
+    0.001  
+ 
+ V0  =
+ 
+  - 50.  
+ 
+ Vx  =
+ 
+  - 0.5  
+ 
+ V1  =
+ 
+  - 0.499  
+ 
+V1=-0.499
+V1d=0.001
+ This is negative feedback because, v1<v1_dash
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.2/ex7_2.sce #
+ 
+ 
+ 
+ 
+ Av  =
+ 
+  - 100.  
+ 
+ Avd  =
+ 
+  - 50.  
+ 
+ Avnew  =
+ 
+  - 200.  
+ 
+ B  =
+ 
+    0.01  
+ 
+ Avdnew  =
+ 
+  - 66.666667  
+ 
+ avchange  =
+ 
+    16.666667  
+ 
+ var  =
+ 
+    33.333333  
+ 
+Variation = 33.3% 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.3/ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ dA  =
+ 
+    100.  
+ 
+ A  =
+ 
+    1000.  
+ 
+ dAf  =
+ 
+    0.1  
+ 
+ Af  =
+ 
+    100.  
+ 
+ B  =
+ 
+    0.099  
+ 
+(a)
+Beta=0.099 
+ 
+ Aff  =
+ 
+    10.  
+ 
+
+
+(b)
+Af=10 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.4/ex7_4.sce #
+ 
+ 
+ 
+ S  =
+ 
+    0.1  
+ 
+ Sdash  =
+ 
+    0.01  
+ 
+ k  =
+ 
+    10.  
+ 
+ 
+ Avdash  =
+ 
+    100.  
+ 
+ Av  =
+ 
+    1000.  
+ 
+ 
+ B  =
+ 
+    0.009  
+ 
+By providing negative feedback,with
+Beta = 0.009
+we can improve the stability to 1%. 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.5/ex7_5.sce #
+ 
+ 
+ 
+ 
+ Av  =
+ 
+    500.  
+ 
+ D  =
+ 
+    5.  
+ 
+ Ddash  =
+ 
+    0.1  
+ 
+ B  =
+ 
+    0.098  
+ 
+ Avdash  =
+ 
+  - 10.  
+ 
+Av_dash = -10 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.6/ex7_6.sce #
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    150.  
+ 
+ A  =
+ 
+    10000.  
+ 
+ V0  =
+ 
+    1500000.  
+ 
+ 
+ Afb  =
+ 
+    125.  
+ 
+ 
+ B  =
+ 
+    0.0079  
+ 
+Beta =0.0079
+ 
+ 
+ Vs2  =
+ 
+    130.  
+ 
+ A2  =
+ 
+    8000.  
+ 
+ V02  =
+ 
+    1200000.  
+ 
+ Afb2  =
+ 
+    124.61059  
+ 
+ sg  =
+ 
+    20.  
+ 
+ sgf  =
+ 
+    0.3115265  
+ 
+% stability of gain without feedback=20%
+% stability of gain with feedback=0.311526%
+ Therefore, with neative feedbaclk stability is improved. 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.7/ex7_7.sce #
+ 
+ 
+ 
+ 
+ Rs  =
+ 
+    0.  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hie  =
+ 
+    1.1  
+ 
+ hre  =
+ 
+    0.  
+ 
+ hoe  =
+ 
+    0.  
+ 
+ r5  =
+ 
+    2.2  
+ 
+ r7  =
+ 
+    3.3  
+ 
+ r3  =
+ 
+    33.  
+ 
+ r1  =
+ 
+    0.1  
+ 
+ r2  =
+ 
+    10.  
+ 
+ r9  =
+ 
+    2.2  
+ 
+ R1  =
+ 
+    0.98  
+ 
+ r6  =
+ 
+    2.2  
+ 
+ R0  =
+ 
+    2.  
+ 
+ 
+ Rl1  =
+ 
+    0.5892857  
+ 
+Rl1_dash=0.589286 
+ Rl2  =
+ 
+    1.8065041  
+ 
+
+Rl2=1.806504 = 2 KOhm(approx) 
+ Re  =
+ 
+    0.0956522  
+ 
+
+Re=0.095652 kohm=96 ohm 
+ 
+ Av1  =
+ 
+  - 4.831795  
+ 
+ Av2  =
+ 
+  - 82.113821  
+ 
+
+Av1=-4.83
+Av2=-82.11 
+ Av  =
+ 
+    396.75715  
+ 
+ B  =
+ 
+    0.0099010  
+ 
+ K  =
+ 
+    3.9282886  
+ 
+ D  =
+ 
+    4.9282886  
+ 
+ Avf  =
+ 
+    80.50607  
+ 
+
+Avf=80 
+ Ri  =
+ 
+    5.9782609  
+ 
+ Ridash  =
+ 
+    29.462595  
+ 
+
+Ri_dash = 29.462595 K Ohm 
+ Rof  =
+ 
+    0.4058204  
+ 
+
+Rof_dash=0.405820 K Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.8/ex7_8.sce #
+ 
+ 
+ 
+ 
+ Rc1  =
+ 
+    3.  
+ 
+ Rc2  =
+ 
+    0.5  
+ 
+ Re2  =
+ 
+    0.05  
+ 
+ Rdash  =
+ 
+    1.2  
+ 
+ Rs  =
+ 
+    1.2  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hie  =
+ 
+    1.1  
+ 
+ hre  =
+ 
+    0.  
+ 
+ hre  =
+ 
+    0.  
+ 
+ 
+ Ai  =
+ 
+  - 50.  
+ 
+ 
+ Ri2  =
+ 
+    3.548  
+ 
+ k1  =
+ 
+  - 0.4581552  
+ 
+ k1  =
+ 
+  - 458.  
+ 
+ k1  =
+ 
+  - 0.458  
+ 
+ R  =
+ 
+    0.6122449  
+ 
+ k2  =
+ 
+    0.3575685  
+ 
+ k2  =
+ 
+    357.  
+ 
+ k2  =
+ 
+    0.357  
+ 
+ AI  =
+ 
+    408.765  
+ 
+ B  =
+ 
+    0.04  
+ 
+ D  =
+ 
+    17.3506  
+ 
+ Adash  =
+ 
+    23.559128  
+ 
+ Avdash  =
+ 
+    9.8163032  
+ 
+
+AI=408
+Beta=0.04
+Ai_dash=23.6
+Av_dash=9.82 
+ Ri  =
+ 
+    0.3933254  
+ 
+ Ridash  =
+ 
+    0.0226693  
+ 
+ Rol  =
+ 
+    0.5  
+ 
+ Rldash  =
+ 
+    0.5  
+ 
+
+Ri=0.393325 K Ohm
+Rl_dash=0.500000 K Ohm 
+ 
+grepthis#Electronic_Devices_And_Circuits_K._L._Kishore_1511/CH7/EX7.9/ex7_9.sce #
+ 
+ 
+ 
+ 
+ Rc  =
+ 
+    4.  
+ 
+ Rb  =
+ 
+    40.  
+ 
+ Rs  =
+ 
+    10.  
+ 
+ hie  =
+ 
+    1.1  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hre  =
+ 
+    0.  
+ 
+ hoe  =
+ 
+    0.  
+ 
+ 
+ Rcdash  =
+ 
+    3.6363636  
+ 
+ R  =
+ 
+    8.  
+ 
+ Rm  =
+ 
+  - 159.84016  
+ 
+ Rm  =
+ 
+  - 160.  
+ 
+
+Transresistance Rm=-160 k 
+ B  =
+ 
+  - 0.025  
+ 
+ D  =
+ 
+    5.  
+ 
+ Rmdash  =
+ 
+  - 32.  
+ 
+ Avdash  =
+ 
+  - 3.2  
+ 
+ Ri  =
+ 
+    0.9670330  
+ 
+ Ridash  =
+ 
+    0.1934066  
+ 
+
+Beta=-0.025 mA/V
+Rm_dash=-32k Ohm
+Av_dash=-3.200000
+Ri=0.967033 k Ohm
+Ri_dash=0.193407k Ohm 
+ 

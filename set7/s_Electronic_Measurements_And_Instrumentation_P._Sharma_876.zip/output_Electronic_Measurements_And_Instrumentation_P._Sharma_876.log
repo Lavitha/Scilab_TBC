@@ -1,0 +1,3716 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 85
+
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ Tmin  =
+ 
+    100.3  
+ 
+ Tmax  =
+ 
+    100.5  
+ 
+ T1  =
+ 
+    100.4  
+ 
+ T2  =
+ 
+    100.3  
+ 
+ Tt  =
+ 
+    100.  
+ 
+ A  =
+ 
+    0.5  
+ 
+ 
+ (a)system accuracy(in %)=   
+ 
+    0.5  
+ 
+ M  =
+ 
+    100.375  
+ 
+ Md  =
+ 
+    0.125  
+ 
+ 
+ (b)system precision(in %)=   
+ 
+    0.125  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ Rmax  =
+ 
+    100.  
+ 
+ D  =
+ 
+    200.  
+ 
+ Sd  =
+ 
+    0.5  
+ 
+ V  =
+ 
+    0.5  
+ 
+ R  =
+ 
+    0.25  
+ 
+ 
+ resolution of the meter is(in V)=   
+ 
+    0.25  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    100.  
+ 
+ Lmin  =
+ 
+  - 5.  
+ 
+ Lmax  =
+ 
+    5.  
+ 
+ Le  =
+ 
+    5.  
+ 
+ Rmax  =
+ 
+    105.  
+ 
+ 
+ maximum value of resistor(in ohm)=   
+ 
+    105.  
+ 
+ Rmin  =
+ 
+    95.  
+ 
+ 
+ minimum value of resistor(in ohm)=   
+ 
+    95.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    150.  
+ 
+ A  =
+ 
+    0.02  
+ 
+ Vm  =
+ 
+    83.  
+ 
+ dA  =
+ 
+    3.  
+ 
+ %er  =
+ 
+    3.6144578  
+ 
+ 
+ limiting error(in %)=   
+ 
+    3.6144578  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    90.  
+ 
+ Rle1  =
+ 
+    0.5  
+ 
+ R2  =
+ 
+    900.  
+ 
+ Rle2  =
+ 
+    0.8  
+ 
+ R3  =
+ 
+    825.  
+ 
+ Rle3  =
+ 
+    0.6  
+ 
+ Rx  =
+ 
+    8250.  
+ 
+ 
+ unknown resistance(in ohm)=   
+ 
+    8250.  
+ 
+ dR1  =
+ 
+    0.45  
+ 
+ dR2  =
+ 
+    7.2  
+ 
+ dR3  =
+ 
+    4.95  
+ 
+ dR  =
+ 
+    1.9  
+ 
+ 
+ relative limiting error(in %)=   
+ 
+    1.9  
+ 
+ Le  =
+ 
+    156.75  
+ 
+ 
+ limiting error(in ohm)=   
+ 
+    156.75  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.4/Ex2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    500.  
+ 
+ V2  =
+ 
+    150.  
+ 
+ Ar  =
+ 
+    0.015  
+ 
+ dA  =
+ 
+    7.5  
+ 
+ er  =
+ 
+    5.  
+ 
+ 
+ limiting error(in %)=   
+ 
+    5.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    36.  
+ 
+ R2  =
+ 
+    75.  
+ 
+ er  =
+ 
+    0.005  
+ 
+ dR1  =
+ 
+    0.18  
+ 
+ 
+ magnitude of limiting error for R1(in ohm)=   
+ 
+    0.18  
+ 
+ dR2  =
+ 
+    0.375  
+ 
+ 
+ magnitude of limiting error for R2(in ohm)=   
+ 
+    0.375  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.6/Ex2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    100.  
+ 
+ Rer  =
+ 
+    0.2  
+ 
+ I  =
+ 
+    2.  
+ 
+ Ier  =
+ 
+    0.01  
+ 
+ dR  =
+ 
+    0.2  
+ 
+ dI  =
+ 
+    0.5  
+ 
+ P  =
+ 
+    400.  
+ 
+ dPo  =
+ 
+    1.2  
+ 
+ dP  =
+ 
+    4.8  
+ 
+ 
+ error in computed value of power dissipation(in W)=   
+ 
+    4.8  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.7/Ex2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.01  
+ 
+ V  =
+ 
+    150.  
+ 
+ Vr  =
+ 
+    100.  
+ 
+ I  =
+ 
+    100.  
+ 
+ Ir  =
+ 
+    55.  
+ 
+ dV  =
+ 
+    1.5  
+ 
+ dEv  =
+ 
+    1.5  
+ 
+ dA  =
+ 
+    1.  
+ 
+ dEi  =
+ 
+    1.8181818  
+ 
+ dE  =
+ 
+    3.3181818  
+ 
+ 
+ limiting error for the power calculated(in %)=   
+ 
+    3.3181818  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ dP  =
+ 
+    1.5  
+ 
+ dI  =
+ 
+    1.  
+ 
+ dR  =
+ 
+    3.5  
+ 
+ 
+ limiting error(in %)=   
+ 
+    3.5  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.9/Ex2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ Ar  =
+ 
+    0.01  
+ 
+ V1  =
+ 
+    50.  
+ 
+ V2  =
+ 
+    25.  
+ 
+ Vmax  =
+ 
+    100.  
+ 
+ dA  =
+ 
+    1.  
+ 
+ er1  =
+ 
+    2.  
+ 
+ 
+ limiting error when measured voltage is V1(in %)=   
+ 
+    2.  
+ 
+ er2  =
+ 
+    4.  
+ 
+ 
+ limiting error when measured voltage is V2(in %)=   
+ 
+    4.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ a  =
+ 
+    0.8  
+ 
+ er  =
+ 
+    0.5  
+ 
+ V  =
+ 
+    0.512  
+ 
+ 
+ volume(in meter^3)=   
+ 
+    0.512  
+ 
+ %er  =
+ 
+    1.5  
+ 
+ 
+ percentage error(in %)=   
+ 
+    1.5  
+ 
+ Aer  =
+ 
+    0.00768  
+ 
+ 
+ absolute error(in meter^3)=   
+ 
+    0.00768  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ ep  =
+ 
+    0.5  
+ 
+ Q  =
+ 
+    50.  
+ 
+ eq  =
+ 
+    0.5  
+ 
+ S  =
+ 
+    75.5  
+ 
+ es  =
+ 
+    0.5  
+ 
+ X  =
+ 
+    151.  
+ 
+ 
+ unknown resistance(in ohm)=   
+ 
+    151.  
+ 
+ xo1  =
+ 
+    0.5  
+ 
+ 
+ percent error when Q is taken positive(in %)=   
+ 
+    0.5  
+ 
+ ex1  =
+ 
+    0.755  
+ 
+ 
+ error in ohm(in ohm)=   
+ 
+    0.755  
+ 
+ xo2  =
+ 
+    1.5  
+ 
+ 
+ percent error when Q is taken negative(in %)=   
+ 
+    1.5  
+ 
+ ex2  =
+ 
+    2.265  
+ 
+ 
+ error in ohm(in ohm)=   
+ 
+    2.265  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.12/Ex2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    25.65  
+ 
+ x2  =
+ 
+    24.39  
+ 
+ x3  =
+ 
+    23.75  
+ 
+ x4  =
+ 
+    26.42  
+ 
+ x5  =
+ 
+    24.92  
+ 
+ X  =
+ 
+    25.026  
+ 
+ 
+ arithmetic mean(in W)=   
+ 
+    25.026  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.13/Ex2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    25.65  
+ 
+ x2  =
+ 
+    24.39  
+ 
+ x3  =
+ 
+    23.75  
+ 
+ x4  =
+ 
+    26.42  
+ 
+ x5  =
+ 
+    24.92  
+ 
+ X  =
+ 
+    25.026  
+ 
+ d1  =
+ 
+    0.624  
+ 
+ 
+ deviation=   
+ 
+    0.624  
+ 
+ d2  =
+ 
+  - 0.636  
+ 
+ 
+ deviation=   
+ 
+  - 0.636  
+ 
+ d3  =
+ 
+  - 1.276  
+ 
+ 
+ deviation=   
+ 
+  - 1.276  
+ 
+ d4  =
+ 
+    1.394  
+ 
+ 
+ deviation=   
+ 
+    1.394  
+ 
+ d5  =
+ 
+  - 0.106  
+ 
+ 
+ deviation=   
+ 
+  - 0.106  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.14/Ex2_14.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    25.65  
+ 
+ x2  =
+ 
+    24.39  
+ 
+ x3  =
+ 
+    23.75  
+ 
+ x4  =
+ 
+    26.42  
+ 
+ x5  =
+ 
+    24.92  
+ 
+ n  =
+ 
+    5.  
+ 
+ X  =
+ 
+    25.026  
+ 
+ d1  =
+ 
+    0.624  
+ 
+ d2  =
+ 
+  - 0.636  
+ 
+ d3  =
+ 
+  - 1.276  
+ 
+ d4  =
+ 
+    1.394  
+ 
+ d5  =
+ 
+  - 0.106  
+ 
+ D1  =
+ 
+    0.624  
+ 
+ D2  =
+ 
+    0.636  
+ 
+ D3  =
+ 
+    1.276  
+ 
+ D4  =
+ 
+    1.394  
+ 
+ D5  =
+ 
+    0.106  
+ 
+ D  =
+ 
+    0.8072  
+ 
+ 
+ deviation(in W)=   
+ 
+    0.8072  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.15/Ex2_15.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    30.3  
+ 
+ x2  =
+ 
+    30.25  
+ 
+ x3  =
+ 
+    30.4  
+ 
+ x4  =
+ 
+    30.  
+ 
+ n  =
+ 
+    4.  
+ 
+ x  =
+ 
+    30.2375  
+ 
+ 
+ arithmatic mean(in mm)=   
+ 
+    30.2375  
+ 
+ d1  =
+ 
+    0.0625  
+ 
+ d2  =
+ 
+    0.0125  
+ 
+ d3  =
+ 
+    0.1625  
+ 
+ d4  =
+ 
+  - 0.2375  
+ 
+ S  =
+ 
+    0.1701715  
+ 
+ 
+ standard deviation(in mm)=   
+ 
+    0.1701715  
+ 
+ P  =
+ 
+    0.1147807  
+ 
+ 
+ probable error(in mm)=   
+ 
+    0.1147807  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.16/Ex2_16.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    10.  
+ 
+ x2  =
+ 
+    11.  
+ 
+ x3  =
+ 
+    9.  
+ 
+ x4  =
+ 
+    10.5  
+ 
+ x5  =
+ 
+    9.5  
+ 
+ n  =
+ 
+    5.  
+ 
+ x  =
+ 
+    10.  
+ 
+ 
+ (a)arithmetic mean=   
+ 
+    10.  
+ 
+ d1  =
+ 
+    0.  
+ 
+ d2  =
+ 
+    1.  
+ 
+ d3  =
+ 
+  - 1.  
+ 
+ d4  =
+ 
+    0.5  
+ 
+ d5  =
+ 
+  - 0.5  
+ 
+ 
+ (b)value of deviation=   
+ 
+    0.  
+ 
+    1.  
+ 
+  - 1.  
+ 
+    0.5  
+ 
+  - 0.5  
+ 
+ d  =
+ 
+    0.  
+ 
+ 
+ (c)algebric sum of deviation=   
+ 
+    0.  
+ 
+ D  =
+ 
+    0.6  
+ 
+ 
+ (d)average deviation=   
+ 
+    0.6  
+ 
+ S  =
+ 
+    0.7905694  
+ 
+ 
+ (e)standard deviation=   
+ 
+    0.7905694  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH2/EX2.17/Ex2_17.sce #
+ 
+ 
+ 
+ 
+ 
+ x1  =
+ 
+    12.8  
+ 
+ x2  =
+ 
+    12.2  
+ 
+ x3  =
+ 
+    12.5  
+ 
+ x4  =
+ 
+    13.1  
+ 
+ x5  =
+ 
+    12.9  
+ 
+ x6  =
+ 
+    12.4  
+ 
+ n  =
+ 
+    6.  
+ 
+ x  =
+ 
+    12.65  
+ 
+ 
+ (a)arithmetic mean(in V)=   
+ 
+    12.65  
+ 
+ d1  =
+ 
+    0.15  
+ 
+ d2  =
+ 
+  - 0.45  
+ 
+ d3  =
+ 
+  - 0.15  
+ 
+ d4  =
+ 
+    0.45  
+ 
+ d5  =
+ 
+    0.25  
+ 
+ d6  =
+ 
+  - 0.25  
+ 
+ 
+ (b)value of deviation(in V)=   
+ 
+    0.15  
+ 
+  - 0.45  
+ 
+  - 0.15  
+ 
+    0.45  
+ 
+    0.25  
+ 
+  - 0.25  
+ 
+ D  =
+ 
+    0.2833333  
+ 
+ 
+ (c)average deviation=   
+ 
+    0.2833333  
+ 
+ S  =
+ 
+    0.3201562  
+ 
+ 
+ (d)standard deviation(in V)=   
+ 
+    0.3201562  
+ 
+ V  =
+ 
+    0.1025  
+ 
+ 
+ (e)variance(in V)=   
+ 
+    0.1025  
+ 
+ P  =
+ 
+    0.0691363  
+ 
+ 
+ (f)probable error of one reading(in V)=   
+ 
+    0.0691363  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+    2.  
+ 
+ S  =
+ 
+    500.  
+ 
+ v  =
+ 
+    2000000.  
+ 
+ e  =
+ 
+    0.00025  
+ 
+ R  =
+ 
+    0.05  
+ 
+ 
+ change in resistance(in %)=   
+ 
+    0.05  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+  - 0.5  
+ 
+ V  =
+ 
+  - 5.2  
+ 
+ D1  =
+ 
+  - 0.3  
+ 
+ D2  =
+ 
+  - 0.25  
+ 
+ V1  =
+ 
+  - 3.12  
+ 
+ 
+ (a)output voltage at -0.3 inch(in V)=   
+ 
+  - 3.12  
+ 
+ V2  =
+ 
+  - 2.6  
+ 
+ 
+ (b)output voltage at -0.25 inch(in V)=   
+ 
+  - 2.6  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    1.2  
+ 
+ d  =
+ 
+    0.6  
+ 
+ S  =
+ 
+    2.  
+ 
+ 
+ sensitivity of LVDT(in volt per micro meter)=   
+ 
+    2.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    5.  
+ 
+ d  =
+ 
+    10.  
+ 
+ D  =
+ 
+    8.  
+ 
+ S  =
+ 
+    0.5  
+ 
+ O  =
+ 
+    4.  
+ 
+ 
+ output voltag(in V)=   
+ 
+    4.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.6/Ex3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    5.  
+ 
+ Vo  =
+ 
+    2.  
+ 
+ D  =
+ 
+    0.5  
+ 
+ A  =
+ 
+    250.  
+ 
+ Do  =
+ 
+    100.  
+ 
+ Ds  =
+ 
+    0.2  
+ 
+ S  =
+ 
+    4.  
+ 
+ 
+ (a)sensitivity of LVDT(in mV/mm)=   
+ 
+    4.  
+ 
+ So  =
+ 
+    1000.  
+ 
+ 
+ (b)sensitivity of entire setup(in mV/mm)=   
+ 
+    1000.  
+ 
+ C  =
+ 
+    0.05  
+ 
+ M  =
+ 
+    0.01  
+ 
+ R  =
+ 
+    0.0025  
+ 
+ 
+ (c)resolution of the instrument(in mm)=   
+ 
+    0.0025  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.7/Ex3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ A  =
+ 
+    0.0006  
+ 
+ D  =
+ 
+    0.0025  
+ 
+ C  =
+ 
+    4.000D-10  
+ 
+ Do  =
+ 
+    0.0005  
+ 
+ e  =
+ 
+    1.667D-09  
+ 
+ d  =
+ 
+    0.002  
+ 
+ Co  =
+ 
+    5.000D-10  
+ 
+ 
+ capacitance(in F)=   
+ 
+    5.000D-10  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.8/Ex3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    50.  
+ 
+ Scp  =
+ 
+    0.0000074  
+ 
+ Sccp  =
+ 
+  - 0.0000348  
+ 
+ Sccc  =
+ 
+    0.0000422  
+ 
+ 
+ sensitivity(in Volt per degree centigrate)=   
+ 
+    0.0000422  
+ 
+ E  =
+ 
+    0.00211  
+ 
+ 
+ emf developed(in V)=   
+ 
+    0.00211  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH3/EX3.9/Ex3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ I  =
+ 
+    0.01  
+ 
+ R  =
+ 
+    15.  
+ 
+ V  =
+ 
+    9.  
+ 
+ Vo  =
+ 
+    0.15  
+ 
+ Vp  =
+ 
+    8.85  
+ 
+ R  =
+ 
+    885.  
+ 
+ 
+ value of protection resistance(in ohm)=   
+ 
+    885.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    500.  
+ 
+ dR1  =
+ 
+    0.5  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ dR2  =
+ 
+    0.5  
+ 
+ R3  =
+ 
+    600.  
+ 
+ dR3  =
+ 
+    0.5  
+ 
+ R4  =
+ 
+    1200.  
+ 
+ 
+ unknown resistance(in ohm)=   
+ 
+    1200.  
+ 
+ d4  =
+ 
+    0.0000010  
+ 
+ dR4  =
+ 
+    0.0011667  
+ 
+ 
+ fractional uncertainty(in ohm)=   
+ 
+    0.0011667  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ V  =
+ 
+    10.  
+ 
+ T  =
+ 
+    20.  
+ 
+ Ro  =
+ 
+    1020.  
+ 
+ V1  =
+ 
+    5.  
+ 
+ V2  =
+ 
+    5.049505  
+ 
+ Vo  =
+ 
+    0.0495050  
+ 
+ 
+ output voltage(in V)=   
+ 
+    0.0495050  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.3/Ex4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    1000.  
+ 
+ a  =
+ 
+    10.  
+ 
+ Eth  =
+ 
+    0.05  
+ 
+ V  =
+ 
+    20.  
+ 
+ T  =
+ 
+    50.  
+ 
+ Ro  =
+ 
+    1000.  
+ 
+ dR  =
+ 
+    10.  
+ 
+ To  =
+ 
+    49.  
+ 
+ 
+ temperature at which thevenin voltage is 50mV(in degree centigrate)=   
+ 
+    49.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    80.  
+ 
+ R2  =
+ 
+    800.  
+ 
+ R3  =
+ 
+    160.  
+ 
+ R4  =
+ 
+    1605.  
+ 
+ E  =
+ 
+    4.  
+ 
+ S  =
+ 
+    8.  
+ 
+ Ro  =
+ 
+    80.  
+ 
+ Eth  =
+ 
+    0.0027720  
+ 
+ Rth  =
+ 
+    587.22107  
+ 
+ Ig  =
+ 
+    0.0000042  
+ 
+ D  =
+ 
+    0.0000332  
+ 
+ 
+ deflection of the galvenometer(in m)=   
+ 
+    0.0000332  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    100.  
+ 
+ R2  =
+ 
+    100.  
+ 
+ R3  =
+ 
+    230.  
+ 
+ dR1  =
+ 
+    0.02  
+ 
+ dR2  =
+ 
+    0.02  
+ 
+ dR3  =
+ 
+    0.01  
+ 
+ Rx  =
+ 
+    230.  
+ 
+ dRx  =
+ 
+    0.05  
+ 
+ Rx1  =
+ 
+    229.885  
+ 
+ Rx2  =
+ 
+    230.115  
+ 
+ 
+ lower value of limiting resistance(in ohm)=   
+ 
+    229.885  
+ 
+ 
+ upper value of limiting resistance(in ohm)=   
+ 
+    230.115  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.6/Ex4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ Z1  =
+ 
+    200.  
+ 
+ Za  =
+ 
+    30.  
+ 
+ Z2  =
+ 
+    250.  
+ 
+ Zb  =
+ 
+  - 40.  
+ 
+ Z3  =
+ 
+    150.  
+ 
+ Zc  =
+ 
+    0.  
+ 
+ Z4  =
+ 
+    187.5  
+ 
+ 
+ magnitude of Z4 arm(in ohm)=   
+ 
+    187.5  
+ 
+ Zd  =
+ 
+  - 70.  
+ 
+ 
+ phase angle of Z4 arm(in degree)=   
+ 
+  - 70.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    220.  
+ 
+ C1  =
+ 
+    0.0000002  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ f  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    6283.1853  
+ 
+ R  =
+ 
+    4545.4545  
+ 
+ 
+ resistance(in ohm)=   
+ 
+    4545.4545  
+ 
+ L  =
+ 
+    0.22  
+ 
+ 
+ inductance(in H)=   
+ 
+    0.22  
+ 
+ Q  =
+ 
+    0.3041062  
+ 
+ 
+ Q value of the bridge=   
+ 
+    0.3041062  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    120.  
+ 
+ C3  =
+ 
+    150.  
+ 
+ R1  =
+ 
+    5000.  
+ 
+ R2  =
+ 
+    5000.  
+ 
+ C1o  =
+ 
+    200.  
+ 
+ C3o  =
+ 
+    900.  
+ 
+ R1o  =
+ 
+    5000.  
+ 
+ R2o  =
+ 
+    5000.  
+ 
+ Cs  =
+ 
+    150.  
+ 
+ Css  =
+ 
+    900.  
+ 
+ er  =
+ 
+    6.  
+ 
+ 
+ relative permittivity of the specimen=   
+ 
+    6.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    3.1  
+ 
+ R2  =
+ 
+    25.  
+ 
+ C1  =
+ 
+    0.0000052  
+ 
+ R4  =
+ 
+    100.  
+ 
+ f  =
+ 
+    2500.  
+ 
+ w  =
+ 
+    15707.963  
+ 
+ R3  =
+ 
+    12.4  
+ 
+ 
+ equivalent parallel resistance(in kilo ohm)=   
+ 
+    12.4  
+ 
+ C3  =
+ 
+    0.0000203  
+ 
+ 
+ equivalent parallel capacitance(in F)=   
+ 
+    0.0000203  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    2000.  
+ 
+ C1  =
+ 
+    4.700D-08  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ C2  =
+ 
+    0.0000005  
+ 
+ C3  =
+ 
+    0.0000005  
+ 
+ f  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    6283.1853  
+ 
+ Y1  =
+ 
+    0.0005 + 0.0002953i  
+ 
+ Z2  =
+ 
+    1000. - 338.62754i  
+ 
+ Z3  =
+ 
+  - 318.30989i  
+ 
+ Z4  =
+ 
+    40.105753 - 190.98593i  
+ 
+ 
+ value of arm CD=   
+ 
+    40.105753 - 190.98593i  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.11/Ex4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    0.0000002  
+ 
+ R2  =
+ 
+    500.  
+ 
+ R3  =
+ 
+    300.  
+ 
+ C3  =
+ 
+    1.000D-07  
+ 
+ f  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    6283.1853  
+ 
+ Z1  =
+ 
+  - 795.77472i  
+ 
+ Z2  =
+ 
+    500.  
+ 
+ Z3  =
+ 
+    289.70656 - 54.6084i  
+ 
+ Z4  =
+ 
+    34.31147 + 182.028i  
+ 
+ 
+ value of arm CD=   
+ 
+    34.31147 + 182.028i  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.12/Ex4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    1000.  
+ 
+ C1  =
+ 
+    0.0000005  
+ 
+ R3  =
+ 
+    1000.  
+ 
+ C3  =
+ 
+    0.0000005  
+ 
+ R4  =
+ 
+    200.  
+ 
+ L4  =
+ 
+    0.03  
+ 
+ f  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    6283.1853  
+ 
+ Z1  =
+ 
+    91.999668 - 289.02548i  
+ 
+ Z3  =
+ 
+    1000. - 318.30989i  
+ 
+ Z4  =
+ 
+    200. + 188.49556i  
+ 
+ Z2  =
+ 
+    77.870024 - 15.676769i  
+ 
+ 
+ value of arm CD=   
+ 
+    77.870024 - 15.676769i  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH4/EX4.13/Ex4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    1000.  
+ 
+ C1  =
+ 
+    0.0000002  
+ 
+ R2  =
+ 
+    1000.  
+ 
+ C3  =
+ 
+    0.0000006  
+ 
+ R4  =
+ 
+    500.  
+ 
+ R3  =
+ 
+    250.  
+ 
+ 
+ resistance of the arm AD(in ohm)=   
+ 
+    250.  
+ 
+ f  =
+ 
+    1000.9745  
+ 
+ 
+ frequency of the bridge(in Hz)=   
+ 
+    1000.9745  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    5.  
+ 
+ Zi  =
+ 
+    10.  
+ 
+ Z1  =
+ 
+    10.  
+ 
+ Z2  =
+ 
+    20.  
+ 
+ Z3  =
+ 
+    40.  
+ 
+ Vt1  =
+ 
+    2.5  
+ 
+ 
+ (a)internal voltage at load impedance 10 ohm(in ohm)=   
+ 
+    2.5  
+ 
+ Vt2  =
+ 
+    3.3333333  
+ 
+ 
+ (b)internal voltage at load impedance 20 ohm(in ohm)=   
+ 
+    3.3333333  
+ 
+ Vt3  =
+ 
+    4.  
+ 
+ 
+ (c)internal voltage at load impedance 40 ohm(in ohm)=   
+ 
+    4.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Zs  =
+ 
+    100.  
+ 
+ Zl1  =
+ 
+    100.  
+ 
+ Zl2  =
+ 
+    10.  
+ 
+ Is  =
+ 
+    10.  
+ 
+ Il1  =
+ 
+    5.  
+ 
+ 
+ (a)load current when variable load is 100 ohm(in ohm)=   
+ 
+    5.  
+ 
+ Il2  =
+ 
+    9.0909091  
+ 
+ 
+ (b)load current when variable load is 10 ohm(in ohm)=   
+ 
+    9.0909091  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ Is  =
+ 
+    1.  
+ 
+ Zs  =
+ 
+    100.  
+ 
+ Veq  =
+ 
+    100.  
+ 
+ 
+ equivalant voltage source of the ac current source(in V)=   
+ 
+    100.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ Vs  =
+ 
+    5.  
+ 
+ Rs  =
+ 
+    1.  
+ 
+ I  =
+ 
+    5.  
+ 
+ 
+ equivalant current source(in A)=   
+ 
+    5.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.5/Ex5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ Im  =
+ 
+    2.  
+ 
+ I  =
+ 
+    50.  
+ 
+ Rm  =
+ 
+    100.  
+ 
+ Rs  =
+ 
+    4.1666667  
+ 
+ 
+ shunt resistance(in ohm)=   
+ 
+    4.1666667  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ Im  =
+ 
+    0.001  
+ 
+ I1  =
+ 
+    1.  
+ 
+ I2  =
+ 
+    5.  
+ 
+ I3  =
+ 
+    10.  
+ 
+ R  =
+ 
+    100.  
+ 
+ Rs1  =
+ 
+    0.1001001  
+ 
+ 
+ (a)shunt resistance(in ohm)=   
+ 
+    0.1001001  
+ 
+ Rs2  =
+ 
+    0.0200040  
+ 
+ 
+ (b)shunt resistance(in ohm)=   
+ 
+    0.0200040  
+ 
+ Rs3  =
+ 
+    0.010001  
+ 
+ 
+ (c)shunt resistance(in ohm)=   
+ 
+    0.010001  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    10.  
+ 
+ V2  =
+ 
+    50.  
+ 
+ V3  =
+ 
+    100.  
+ 
+ V4  =
+ 
+    200.  
+ 
+ I  =
+ 
+    0.002  
+ 
+ R  =
+ 
+    100.  
+ 
+ Rt1  =
+ 
+    5000.  
+ 
+ R1  =
+ 
+    4900.  
+ 
+ 
+ (a)multiplier resistance(in ohm)=   
+ 
+    4900.  
+ 
+ Rt2  =
+ 
+    25000.  
+ 
+ R2  =
+ 
+    20000.  
+ 
+ 
+ (b)multiplier resistance(in ohm)=   
+ 
+    20000.  
+ 
+ Rt3  =
+ 
+    50000.  
+ 
+ R3  =
+ 
+    25000.  
+ 
+ 
+ (c)multiplier resistance(in ohm)=   
+ 
+    25000.  
+ 
+ Rt4  =
+ 
+    100000.  
+ 
+ R4  =
+ 
+    50000.  
+ 
+ 
+ (d)multiplier resistance(in ohm)=   
+ 
+    50000.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.9/Ex5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    10.  
+ 
+ V2  =
+ 
+    50.  
+ 
+ V3  =
+ 
+    100.  
+ 
+ V4  =
+ 
+    200.  
+ 
+ I  =
+ 
+    0.002  
+ 
+ R  =
+ 
+    100.  
+ 
+ S  =
+ 
+    500.  
+ 
+ R1  =
+ 
+    4900.  
+ 
+ 
+ (a)multiplier resistance(in ohm)=   
+ 
+    4900.  
+ 
+ R2  =
+ 
+    20000.  
+ 
+ 
+ (b)multiplier resistance(in ohm)=   
+ 
+    20000.  
+ 
+ R3  =
+ 
+    25000.  
+ 
+ 
+ (c)multiplier resistance(in ohm)=   
+ 
+    25000.  
+ 
+ R4  =
+ 
+    50000.  
+ 
+ 
+ (d)multiplier resistance(in ohm)=   
+ 
+    50000.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ Rl  =
+ 
+    50000.  
+ 
+ S1  =
+ 
+    10000.  
+ 
+ S2  =
+ 
+    50000.  
+ 
+ Vi  =
+ 
+    10.  
+ 
+ R  =
+ 
+    5.  
+ 
+ Vl  =
+ 
+    8.3333333  
+ 
+ Vo  =
+ 
+    50000.  
+ 
+ Rth  =
+ 
+    25000.  
+ 
+ V1  =
+ 
+    3.3333333  
+ 
+ 
+ (a)reading of voltmeter(in V)=   
+ 
+    3.3333333  
+ 
+ e  =
+ 
+    33.333333  
+ 
+ 
+ (a)error(in %)=   
+ 
+    33.333333  
+ 
+ Vc  =
+ 
+    250000.  
+ 
+ Rt  =
+ 
+    41666.667  
+ 
+ V2  =
+ 
+    4.5454545  
+ 
+ 
+ (b)reading of voltmeter(in V)=   
+ 
+    4.5454545  
+ 
+ eo  =
+ 
+    9.0909091  
+ 
+ 
+ (b)error (in %)=   
+ 
+    9.0909091  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ Ifsd  =
+ 
+    0.001  
+ 
+ Rm  =
+ 
+    100.  
+ 
+ E  =
+ 
+    9.  
+ 
+ Rh  =
+ 
+    5000.  
+ 
+ R1  =
+ 
+    4944.4444  
+ 
+ 
+ (a)value of R1(in ohm)=   
+ 
+    4944.4444  
+ 
+ R2  =
+ 
+    125.  
+ 
+ 
+ (a)value of R2(in ohm)=   
+ 
+    125.  
+ 
+ Eo  =
+ 
+    8.1  
+ 
+ Ro  =
+ 
+    161.29032  
+ 
+ 
+ (b)change in value of R2(in ohm)=   
+ 
+    161.29032  
+ 
+ Rh2  =
+ 
+    5006.1728  
+ 
+ 
+ (c)half scale deflection(in ohm)=   
+ 
+    5006.1728  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.12/Ex5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ Ifsd  =
+ 
+    0.001  
+ 
+ Rm  =
+ 
+    100.  
+ 
+ E  =
+ 
+    3.  
+ 
+ Rh  =
+ 
+    1.  
+ 
+ Im  =
+ 
+    0.0005  
+ 
+ Ish  =
+ 
+    0.0495  
+ 
+ Rsh  =
+ 
+    0.0005  
+ 
+ 
+ value of Rsh(in ohm)=   
+ 
+    0.0005  
+ 
+ It  =
+ 
+    0.1  
+ 
+ R1  =
+ 
+    29.5  
+ 
+ 
+ value of R1(in ohm)=   
+ 
+    29.5  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.13/Ex5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ Iav  =
+ 
+    0.0001  
+ 
+ Rm  =
+ 
+    100.  
+ 
+ Vrms  =
+ 
+    100.  
+ 
+ Rs  =
+ 
+    449900.  
+ 
+ 
+ value of multiplier resistance(in ohm)=   
+ 
+    449900.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.14/Ex5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ Vrms  =
+ 
+    10.  
+ 
+ Ifsd  =
+ 
+    0.002  
+ 
+ Rm  =
+ 
+    100.  
+ 
+ Sdc  =
+ 
+    500.  
+ 
+ Rs  =
+ 
+    2150.  
+ 
+ 
+ value of multiplier resistance(in ohm)=   
+ 
+    2150.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH5/EX5.15/Ex5_15.sce #
+ 
+ 
+ 
+ 
+ 
+ Vrms  =
+ 
+    20.  
+ 
+ Ifsd  =
+ 
+    0.002  
+ 
+ Rm  =
+ 
+    500.  
+ 
+ Sdc  =
+ 
+    500.  
+ 
+ Sac  =
+ 
+    450.  
+ 
+ Rs  =
+ 
+    8500.  
+ 
+ 
+ value of multiplier resistance(in ohm)=   
+ 
+    8500.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    4.  
+ 
+ Rlsb  =
+ 
+    16.  
+ 
+ Vref  =
+ 
+    5.  
+ 
+ Ro  =
+ 
+    1.  
+ 
+ R  =
+ 
+    2.  
+ 
+ Va  =
+ 
+  - 4.6875  
+ 
+ 
+ (a)output voltage(in V)=   
+ 
+  - 4.6875  
+ 
+ Vb  =
+ 
+  - 3.75  
+ 
+ 
+ (b)output voltage(in V)=   
+ 
+  - 3.75  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ Lo  =
+ 
+    0.  
+ 
+ L1  =
+ 
+    20.  
+ 
+ V1msb  =
+ 
+    10.  
+ 
+ V2msb  =
+ 
+    5.  
+ 
+ V3msb  =
+ 
+    2.5  
+ 
+ V4msb  =
+ 
+    1.25  
+ 
+ Va  =
+ 
+    18.75  
+ 
+ 
+ output voltage(in V)=   
+ 
+    18.75  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    0.0103  
+ 
+ Vo  =
+ 
+    3.7801  
+ 
+ 
+ output voltage(in V)=   
+ 
+    3.7801  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    8.  
+ 
+ Rmin  =
+ 
+    0.  
+ 
+ Rmax  =
+ 
+    10.  
+ 
+ LS  =
+ 
+    0.0039063  
+ 
+ LSB  =
+ 
+    0.0390625  
+ 
+ 
+ (a)LSB(in V)=   
+ 
+    0.0390625  
+ 
+ MSB  =
+ 
+    5.  
+ 
+ 
+ (b)MSB(in V)=   
+ 
+    5.  
+ 
+ F  =
+ 
+    9.9609375  
+ 
+ 
+ (c)full scale output(in V)=   
+ 
+    9.9609375  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.5/Ex6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    3.  
+ 
+ V  =
+ 
+    5.  
+ 
+ A  =
+ 
+    0.001  
+ 
+ R  =
+ 
+    0.125  
+ 
+ 
+ resolution(in V)=   
+ 
+    0.125  
+ 
+ Ac  =
+ 
+    0.005  
+ 
+ 
+ accuracy(in V)=   
+ 
+    0.005  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ N  =
+ 
+    8.  
+ 
+ Vr  =
+ 
+    2.56  
+ 
+ Vin  =
+ 
+    1.728  
+ 
+ F  =
+ 
+    100000.  
+ 
+ P  =
+ 
+    173.  
+ 
+ Po  =
+ 
+    0.00001  
+ 
+ T  =
+ 
+    0.00173  
+ 
+ 
+ total conversion time(in second)=   
+ 
+    0.00173  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    10.  
+ 
+ S  =
+ 
+    0.001  
+ 
+ F  =
+ 
+    1000000.  
+ 
+ T  =
+ 
+    0.000001  
+ 
+ t  =
+ 
+    0.01  
+ 
+ P  =
+ 
+    10000.  
+ 
+ 
+ total number of pulses=   
+ 
+    10000.  
+ 
+ 
+ display reading=   
+ 
+    10000.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.10/Ex6_10.sce #
+ 
+ 
+ 
+ 
+ 
+ Vref  =
+ 
+    5.  
+ 
+ t1  =
+ 
+    0.2  
+ 
+ R  =
+ 
+    100000.  
+ 
+ C  =
+ 
+    0.000001  
+ 
+ t2  =
+ 
+    0.1  
+ 
+ Vin  =
+ 
+    2.5  
+ 
+ 
+ input voltage(in V)=   
+ 
+    2.5  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH6/EX6.11/Ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ R  =
+ 
+    100000.  
+ 
+ C  =
+ 
+    0.000001  
+ 
+ Vin  =
+ 
+    1.  
+ 
+ t1  =
+ 
+    1.  
+ 
+ Vref  =
+ 
+    5.  
+ 
+ Vo  =
+ 
+    10.  
+ 
+ 
+ (a)output voltage after 1sec(in V)=   
+ 
+    10.  
+ 
+ t2  =
+ 
+    0.2  
+ 
+ 
+ (b)fall time reference voltage waveform(in second)=   
+ 
+    0.2  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ decimal  =
+ 
+    13.  
+ 
+ 
+ decimal conversion=   
+ 
+    13.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ decimal  =
+ 
+    15.  
+ 
+ 
+ decimal conversion=   
+ 
+    15.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ E  =
+ 
+    14.  
+ 
+ decimal  =
+ 
+    30.  
+ 
+ 
+ decimal conversion=   
+ 
+    30.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.20/Ex7_20.sce #
+ 
+ 
+ 
+ 
+ 
+ F  =
+ 
+    1.  
+ 
+ p  =
+ 
+    10.  
+ 
+ f  =
+ 
+    10.  
+ 
+ 
+ input frequency applied to the system(in kilo Hz)=   
+ 
+    10.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.21/Ex7_21.sce #
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    45.  
+ 
+ T  =
+ 
+    0.01  
+ 
+ F  =
+ 
+    100.  
+ 
+ f  =
+ 
+    4500.  
+ 
+ 
+ frequency of the system(in Hz)=   
+ 
+    4500.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.22/Ex7_22.sce #
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    30.  
+ 
+ F  =
+ 
+    1000000.  
+ 
+ T  =
+ 
+    0.000001  
+ 
+ t  =
+ 
+    0.00003  
+ 
+ 
+ frequency time period of the system(in second)=   
+ 
+    0.00003  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.23/Ex7_23.sce #
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ Va  =
+ 
+    10.  
+ 
+ Vb  =
+ 
+    1.  
+ 
+ R  =
+ 
+    0.0001  
+ 
+ 
+ (a)resolution of the voltmeter(in V)=   
+ 
+    0.0001  
+ 
+ Vo  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    0.636  
+ 
+ 
+ (b)display of 0.6368 in voltmeter on the 10V range(in V)=   
+ 
+    0.636  
+ 
+ V  =
+ 
+    0.0001  
+ 
+ do  =
+ 
+    0.6368  
+ 
+ 
+ (c)display of 0.6368 in voltmeter on the 1V range(in V)=   
+ 
+    0.6368  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.24/Ex7_24.sce #
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    4.  
+ 
+ Va  =
+ 
+    10.  
+ 
+ Vb  =
+ 
+    1.  
+ 
+ R  =
+ 
+    0.0001  
+ 
+ 
+ (a)resolution of the voltmeter(in V)=   
+ 
+    0.0001  
+ 
+ Vo  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    16.58  
+ 
+ 
+ (b)display of 16.58 in voltmeter on the 10V range(in V)=   
+ 
+    16.58  
+ 
+ V  =
+ 
+    0.0001  
+ 
+ do  =
+ 
+    0.7254  
+ 
+ 
+ (c)display of 0.7254 in voltmeter on the 1V range(in V)=   
+ 
+    0.7254  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH7/EX7.25/Ex7_25.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    50.  
+ 
+ A  =
+ 
+    0.02  
+ 
+ Vo  =
+ 
+    1.  
+ 
+ Rmin  =
+ 
+    49.  
+ 
+ Rmax  =
+ 
+    51.  
+ 
+ 
+ range(in V)=   
+ 
+    49.  
+ 
+    51.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ l  =
+ 
+    0.02  
+ 
+ L  =
+ 
+    0.2  
+ 
+ s  =
+ 
+    0.005  
+ 
+ V  =
+ 
+    2500.  
+ 
+ S  =
+ 
+    0.00016  
+ 
+ 
+ deflection sensitivity of CRO(in m/V)=   
+ 
+    0.00016  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    0.5  
+ 
+ n  =
+ 
+    4.  
+ 
+ P  =
+ 
+    2.  
+ 
+ 
+ peak to peak amplitude of the signal(in V)=   
+ 
+    2.  
+ 
+ T  =
+ 
+    8.  
+ 
+ f  =
+ 
+    0.125  
+ 
+ 
+ frequency of the signal(in Hz)=   
+ 
+    0.125  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    5.  
+ 
+ n  =
+ 
+    2.5  
+ 
+ P  =
+ 
+    12.5  
+ 
+ 
+ amplitude of the waveform(in V)=   
+ 
+    12.5  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.4/Ex8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ S  =
+ 
+    100.  
+ 
+ n  =
+ 
+    5.  
+ 
+ P  =
+ 
+    500.  
+ 
+ Vrms  =
+ 
+    176.7767  
+ 
+ 
+ rms value of signal under test(in V)=   
+ 
+    176.7767  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.5/Ex8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    10.  
+ 
+ R  =
+ 
+    1000.  
+ 
+ i  =
+ 
+    0.01  
+ 
+ 
+ value of current(in A)=   
+ 
+    0.01  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.6/Ex8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ S  =
+ 
+    100.  
+ 
+ n  =
+ 
+    5.  
+ 
+ R  =
+ 
+    4700.  
+ 
+ P  =
+ 
+    500.  
+ 
+ Vrms  =
+ 
+    176.7767  
+ 
+ i  =
+ 
+    0.0376121  
+ 
+ 
+ value of current(in A)=   
+ 
+    0.0376121  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ V  =
+ 
+    0.5  
+ 
+ Vo  =
+ 
+    0.000001  
+ 
+ n  =
+ 
+    6.  
+ 
+ N  =
+ 
+    5.  
+ 
+ V1  =
+ 
+    3.  
+ 
+ Vp  =
+ 
+    1.5  
+ 
+ 
+ peak amplitude(in V)=   
+ 
+    1.5  
+ 
+ T  =
+ 
+    0.000005  
+ 
+ f  =
+ 
+    200000.  
+ 
+ 
+ frequency of the signal(in Hz)=   
+ 
+    200000.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ Y  =
+ 
+    2.  
+ 
+ X  =
+ 
+    1.  
+ 
+ fv  =
+ 
+    2.  
+ 
+ fh  =
+ 
+    1.  
+ 
+ 
+ frequency of horizontal signal(in kilo Hz)=   
+ 
+    1.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.5  
+ 
+ d  =
+ 
+    2.  
+ 
+ T  =
+ 
+    1.  
+ 
+ F  =
+ 
+    1.  
+ 
+ 
+ frequency of the waveform(in MHz)=   
+ 
+    1.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.10/Ex8_10.sce #
+ 
+ 
+ 
+ 
+ 
+ f  =
+ 
+    1.  
+ 
+ n  =
+ 
+    10.  
+ 
+ T  =
+ 
+    1.  
+ 
+ To  =
+ 
+    0.1  
+ 
+ 
+ setting of time base knob(in ms)=   
+ 
+    0.1  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.11/Ex8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    1.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ f1  =
+ 
+    1.  
+ 
+ 
+ ratio of frequencies of vertical and horizontal signals=   
+ 
+    1.  
+ 
+ P3  =
+ 
+    1.  
+ 
+ P4  =
+ 
+    3.  
+ 
+ f2  =
+ 
+    0.3333333  
+ 
+ 
+ ratio of frequencies of vertical and horizontal signals=   
+ 
+    0.3333333  
+ 
+ P5  =
+ 
+    4.5  
+ 
+ P6  =
+ 
+    1.  
+ 
+ f3  =
+ 
+    4.5  
+ 
+ 
+ ratio of frequencies of vertical and horizontal signals=   
+ 
+    4.5  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.12/Ex8_12.sce #
+ 
+ 
+ 
+ 
+ 
+ Y1  =
+ 
+    4.  
+ 
+ Y2  =
+ 
+    8.  
+ 
+ o  =
+ 
+    0.5  
+ 
+ Y  =
+ 
+    30.  
+ 
+ 
+ phase angle(in degree)=   
+ 
+    30.  
+ 
+ Y3  =
+ 
+    4.  
+ 
+ Y4  =
+ 
+    4.  
+ 
+ oo  =
+ 
+    1.  
+ 
+ Ya  =
+ 
+    90.  
+ 
+ 
+ phase angle(in degree)=   
+ 
+    90.  
+ 
+grepthis#Electronic_Measurements_And_Instrumentation_P._Sharma_876/CH8/EX8.13/Ex8_13.sce #
+ 
+ 
+ 
+ 
+ 
+ tr  =
+ 
+    2.000D-08  
+ 
+ B  =
+ 
+    17500000.  
+ 
+ 
+ bandwidth of CRO(in Hz)=   
+ 
+    17500000.  
+ 

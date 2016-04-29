@@ -1,0 +1,3237 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 112
+
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH1/EX1.1/Exa1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line Current (in A) :   
+ 
+    46.19  
+ 
+ 
+ 
+ 
+ Total power consumed by the load (in Watts)   
+ 
+   25600.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH1/EX1.2/Exa1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In star connected :   
+ 
+ 
+ 
+ 
+ 
+ Value of each resistor(in ohm) :   
+ 
+    25.4  
+ 
+ 
+ 
+ In delta connected :   
+ 
+ 
+ 
+ 
+ Voltage in delta connection(in volt) :   
+ 
+    146.7  
+ 
+ 
+ Voltage needed is 1/3rd, the voltage in star connection.   
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH1/EX1.3/Exa1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line Current (in A) :   
+ 
+    11.55  
+ 
+ 
+ 
+ Power factor :    
+ 
+    0.8  
+ 
+ 
+ 
+ Total power consumed by the load (in kW)   
+ 
+    6.4  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH1/EX1.4/Exa1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Phase Current(in A) :   
+ 
+    10.3  
+ 
+ 
+ 
+ Linee Current(in A) :   
+ 
+    17.84  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.1/Exa2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of 1km cable=Rs20000+4.D+05a   
+ 
+ 
+ 
+ Resistance of 1km cable(in ohm) = 0.175/a   
+ 
+ 
+ 
+ Full load current(in Ampere) :   
+ 
+    113.64  
+ 
+ 
+ 
+ Power loss in the cable(in watts) : 4519.6/a   
+ 
+ 
+ 
+ Annual cost of energy(in Rs.) : 2.D+05/a   
+ 
+ 
+ 
+ AnnualCost of interest and depriciation(in Rs.)=40000a   
+ 
+ 
+ Using Kelvin law for most ecpnomical cross sectional area :   
+ 
+ 
+ 
+ Most economical cross section(in cm^2) :   
+ 
+    0.0508  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.2/Exa2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3-phase 3 wire :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of copper(in Tones) :    
+ 
+    338.313  
+ 
+ 
+ Single phase 2 wire :   
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of copper(in Tones) :    
+ 
+    451.084  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.3/Exa2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of cable(in ohm) = 0.172/a   
+ 
+ 
+ 
+ Power loss in the cable(in kwh) : 120537.6/a   
+ 
+ 
+ 
+ AnnualCost of Energy Lost(in Rs.)=6026.88/a   
+ 
+ 
+ 
+ Cost of 1km cable=Rs50000/a   
+ 
+ 
+ 
+ Annual chrges on account of interest and depriciation(in Rs.) : 5000a   
+ 
+ 
+ For most ecpnomic cross section :   
+ 
+ 
+ 
+ Most economical cross section(in cm^2) :   
+ 
+    1.097896  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.4/Exa2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of cable(in ohm) = 0.688/a   
+ 
+ 
+ 
+ cosfi1  =
+ 
+    0.8  
+ 
+ 
+ 
+ 
+ cosfi2  =
+ 
+    0.9  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual chrges on account of interest and depriciation(in Rs.) : 12800a   
+ 
+ 
+ 
+ AnnualCost of Energy Lost(in Rs.)=1783.073/a   
+ 
+ 
+ For most ecpnomic cross section :   
+ 
+ 
+ 
+ Most economical cross section(in cm^2) :   
+ 
+    0.373225  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.5/Exa2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cosfi  =
+ 
+    0.8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of cable(in ohm) = 0.1(l/a)   
+ 
+ 
+ 
+ Total Energy Lost per annum in 3 conductor(in kwh)=1309.3(l/a)   
+ 
+ 
+ 
+ 
+ Annual chrges on account of interest and depriciation(in Rs.) : 2500(a*l)   
+ 
+ 
+ For most ecpnomic cross section :   
+ 
+ 
+ 
+ Most economical cross section(in cm^2) :   
+ 
+    0.7237  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.6/Exa2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cosfi  =
+ 
+    0.8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of copper(in Tones) :   
+ 
+    301.685  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of Alluminium(in Tones) :   
+ 
+    156.896  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.7/Exa2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Single phase system :   
+ 
+ 
+ 
+ 
+ Line current,I1=1.5D+07/V*cosfi   
+ 
+ 
+ 
+ Line Losses,W1=4.5D+14R/(V*cosfi)^2   
+ 
+ 
+ 
+ % Line Losses=3.0D+09R/(V*cosfi)^2   
+ 
+ 
+ 
+ 3 phase 3 wire system :   
+ 
+ 
+ 
+ Line current,I2=577350P2/V*cosfi   
+ 
+ 
+ 
+ Line Losses,W2=6.7D+11R*P2^2/(V*cosfi)^2   
+ 
+ 
+ 
+ % Line Losses=1.0D+12R*P2^2/(V*cosfi)^2   
+ 
+ 
+ 
+ 3 phase load in MW :   
+ 
+    30.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.8/Exa2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assumptions :    
+ 
+ 
+ Power to be transmitted is the same(say, P watts)   
+ 
+ 
+ Length of the line is the same(say, l meters)   
+ 
+ 
+ Losses in the line are the same(say, W watts)   
+ 
+ 
+ 
+ 
+ 
+ Volume of copper required for 2 wires=K/V^2   
+ 
+ 
+ 
+ 
+ Vol1=K*0.00002   
+ 
+ 
+ 
+ 
+ Vol2=K*4.0D-06   
+ 
+ 
+ 
+ % saving in copper :    
+ 
+    80.64  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.9/Exa2_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volume of the conductor material(in m^3) :   
+ 
+    36.32  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.10/Exa2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For single phase system :Volume of the conductor material(in m^3) :   
+ 
+    7.836  
+ 
+ 
+ 
+ 
+ 
+ 
+ For three phase 3-wire system :Volume of the conductor material(in m^3) :   
+ 
+    5.877  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.11/Exa2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of cable(in ohm) = 0.185/a   
+ 
+ 
+ 
+ Energy loss per annum in 2 conductors(in kwh) : 291708/a   
+ 
+ 
+ 
+ 
+ Annual chrges on account of interest and depriciation(in Rs.) : 10000a   
+ 
+ 
+ For most ecpnomic cross section :   
+ 
+ 
+ 
+ Most economical cross section(in cm^2) :   
+ 
+    1.70795  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.12/Exa2_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Single phase system :   
+ 
+ 
+ 
+ 
+ Line current,I1=5.0D+06/V*cosfi   
+ 
+ 
+ 
+ Line Losses,W1=5.0D+13R/(V*cosfi)^2   
+ 
+ 
+ 
+ % Line Losses=1.0D+09R/(V*cosfi)^2   
+ 
+ 
+ 
+ 3 phase 3 wire system :   
+ 
+ 
+ 
+ Line current,I2=577350P2/V*cosfi   
+ 
+ 
+ 
+ Line Losses,W2=6.7D+11R*P2^2/(V*cosfi)^2   
+ 
+ 
+ 
+ % Line Losses=1.0D+12R*P2^2/(V*cosfi)^2   
+ 
+ 
+ 
+ 3 phase load in MW :10   
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH2/EX2.13/Exa2_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assumptions :    
+ 
+ 
+ Power to be transmitted is the same(say, P watts)   
+ 
+ 
+ Length of the line is the same(say, l meters)   
+ 
+ 
+ Losses in the line are the same(say, W watts)   
+ 
+ 
+ 
+ 
+ 
+ Volume of copper required for 2 wires=K/V^2   
+ 
+ 
+ 
+ 
+ Vol1=K*0.00003   
+ 
+ 
+ 
+ 
+ Vol2=K*2.8D-06   
+ 
+ 
+ 
+ % saving in copper :    
+ 
+    88.8889  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.1/Exa3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E1(in KV) :   
+ 
+    7.529  
+ 
+ 
+ 
+ E1(in KV) :   
+ 
+    8.282  
+ 
+ 
+ 
+ E2(in KV) :   
+ 
+    9.863  
+ 
+ 
+ 
+ E4(in KV) :   
+ 
+    12.43  
+ 
+ 
+ 
+ String Efficiency(in %) :   
+ 
+    76.64  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.2/Exa3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Horizontal sag(in m) :   
+ 
+    6.317  
+ 
+ 
+ Vertical sag(in m) :   
+ 
+    3.278  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.3/Exa3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag(in m) :   
+ 
+    3.27  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.4/Exa3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag(in m) :   
+ 
+    4.4  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.5/Exa3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x=   
+ 
+  - 127.78  
+ 
+ 
+ The negative sign of x shows that point A is on the side of O.   
+ 
+ 
+ 
+ Centre point P from O is -127.78 meters.   
+ 
+ 
+ 
+ Height of point P, y= 13.889   
+ 
+ 
+ 
+ 
+ Height of B above O is, z=32.939 meters.   
+ 
+ 
+ The mid point of the line is 19.05 meter below point B, i.e., 55.95 meter abov 
+      e water level.                                                            
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.6/Exa3_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Factor of safety :    
+ 
+    2.64  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.7/Exa3_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag(in meter) :    
+ 
+    1.27  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.8/Exa3_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Height above the ground(in meter):    
+ 
+    10.02  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.9/Exa3_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E1(in KV) :   
+ 
+    5.51  
+ 
+ 
+ 
+ E2(in KV) :   
+ 
+    6.12  
+ 
+ 
+ 
+ E3(in KV) :   
+ 
+    7.42  
+ 
+ 
+ 
+    19.1  
+ 
+ 
+ 
+ String Efficiency(in %) :    
+ 
+    85.6  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.10/Exa3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ String Efficiency(in %) :    
+ 
+    95.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.11/Exa3_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag(in meter) :    
+ 
+    2.36  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH3/EX3.12/Exa3_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sag(in meter) :    
+ 
+    6.401  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.1/Exa4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance(in H/km) :   
+ 
+    0.002231  
+ 
+ 
+ 
+ Inductive reactance for 60 km line(in ohm) :   
+ 
+    50.47093  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.2/Exa4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per phase for a 20 km line (in mH) :   
+ 
+    24.689  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.3/Exa4_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resistance of line(in ohm/km) :   
+ 
+    0.1153  
+ 
+ 
+ 
+ 
+ Inductance per phase for a 1 km line (in mH/km) :   
+ 
+    1.2493  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.4/Exa4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance between any two conductor(in uF) :   
+ 
+    0.367  
+ 
+ 
+ C2  =
+ 
+    0.489  
+ 
+ 
+ Capacitance between any shorted onductors(in uF) :   
+ 
+    0.489  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.5/Exa4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance for 60 km line(in mH) :   
+ 
+    32.767  
+ 
+ 
+ 
+ Capacitnce for 60 km line(in uF) :   
+ 
+    0.5844  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.6/Exa4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance for 100 km line(in mH) :   
+ 
+    508.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.7/Exa4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance for 50 km line(in Fardas) :   
+ 
+    2.17D-07  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.8/Exa4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loop inductance per km for copper(in mH) :   
+ 
+    2.381513  
+ 
+ 
+ 
+ 
+ 
+ Loop inductance per km for steel(in mH) :   
+ 
+    12.28151  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.9/Exa4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per km(in mH) :   
+ 
+    0.971034  
+ 
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.10/Exa4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per km(in mH) :   
+ 
+    0.353175  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.11/Exa4_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance of line(in mH/km) :   
+ 
+    2.22  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.12/Exa4_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inductance per km(in uH) :   
+ 
+   1290.  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.13/Exa4_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance for 30 km line(in uF) :   
+ 
+    0.15  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.14/Exa4_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance for 10 km line(in uF) :   
+ 
+    0.10  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH4/EX4.15/Exa4_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance for 50 km line(in uF) :   
+ 
+    0.415  
+ 
+ 
+ 
+ 
+ 
+ The charging current(in Ampere) :   
+ 
+    2.485  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.1/Exa5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight of Cu for 3 onductors of 100 km length(in Kg) :   
+ 
+    9349.  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.2/Exa5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage Vs(phase) :   
+ 
+    14456.  
+ 
+ 
+ % Regulation :    
+ 
+    13.81  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.3/Exa5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage Vs(line in KV) :   
+ 
+    12.148  
+ 
+ 
+ % Regulation :    
+ 
+    10.439  
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission Efficiency(in %) :   
+ 
+    93.157  
+ 
+ 
+ 
+ Sending end PF(lag) :   
+ 
+    0.8748  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.4/Exa5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage Vs(line) in KV :   
+ 
+    32.641  
+ 
+ 
+ 
+ Sending end PF(leading) :   
+ 
+    0.8436  
+ 
+ 
+ % Regulation :    
+ 
+  - 1.0869  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.5/Exa5_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end Voltage, Vs(in Volt) = VR+I*R*cos_fir+I*X*sin_fir    
+ 
+ 
+ It gives polynomial p = [1 -Vs_phase P_KVA*10^3*R*cos_fir/sqrt(3)+P_KVA*10^3*X 
+      *sin_fir/sqrt(3)].                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Line voltage at receiving end(in KV) :   
+ 
+    31.27193  
+ 
+ 
+ 
+ % Regulation :    
+ 
+    5.525935  
+ 
+ I  =
+ 
+    110.7735  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission Efficiency(in %) :   
+ 
+    98.48933  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.6/Exa5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Distance (in km) :   
+ 
+    88.04  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.7/Exa5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage Vs(line) in volts :   
+ 
+    2859.2  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.8/Exa5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IR  =
+ 
+    218.69  
+ 
+ 
+ 
+ 
+ Efficiency of line(in %) :   
+ 
+    94.83  
+ 
+ 
+ 
+ 
+ 
+ % Regulation :    
+ 
+    52.004  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.9/Exa5_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage(in volts) :    
+ 
+    3851.76  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.10/Exa5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage(in volts) :    
+ 
+    11723.5  
+ 
+ 
+ 
+ % Regulation :    
+ 
+    6.5776  
+ 
+ 
+ 
+ Sending end pf(lag) :    
+ 
+    0.87547  
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission efficiency (in %) :   
+ 
+    96.457  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.11/Exa5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sending end voltage(in volts) :    
+ 
+    10345.5  
+ 
+ 
+ 
+ % Regulation :    
+ 
+    5.95041  
+ 
+ 
+ 
+ Sending end pf(lag) :    
+ 
+    0.92970  
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission efficiency (in %) :   
+ 
+    91.4934  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.12/Exa5_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Regulation :    
+ 
+    4.26079  
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission efficiency (in %) :   
+ 
+    96.2406  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH5/EX5.13/Exa5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Regulation :    
+ 
+    17.8512  
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission efficiency (in %) :   
+ 
+    91.4934  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.1/Exa7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V.D. from sending end to mid point(in volt) :    
+ 
+    7.47 + 2.78i  
+ 
+ 
+ V.D. from mid point to the far end(in volt) :    
+ 
+    4.8 + 1.4i  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.2/Exa7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As the both ends are fed with same voltage, VD should be equal to zero.   
+ 
+ 
+ 
+ Curent(in Ampere) :   
+ 
+    540.  
+ 
+ 
+ 
+ Value at minimum potential at D(in V) :   
+ 
+    243.2  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.3/Exa7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IAC(in A):   
+ 
+    52.  
+ 
+ 
+ ICD(in A):   
+ 
+    32.  
+ 
+ 
+ IDE(in A):   
+ 
+  - 8.  
+ 
+ 
+ IED(in A):   
+ 
+    8.  
+ 
+ 
+ IEF(in A):   
+ 
+  - 48.  
+ 
+ 
+ IFE(in A):   
+ 
+    48.  
+ 
+ 
+ IFB(in A):   
+ 
+  - 68.  
+ 
+ 
+ IBF(in A):   
+ 
+    68.  
+ 
+ 
+ 
+ 
+ 
+ The minimum potential(in Volt) :   
+ 
+    225.8  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.4/Exa7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IAC(in A):   
+ 
+    53.75  
+ 
+ 
+ ICD(in A):   
+ 
+    33.75  
+ 
+ 
+ IED(in A):   
+ 
+    6.25  
+ 
+ 
+ IFE(in A):   
+ 
+    31.25  
+ 
+ 
+ IBF(in A):   
+ 
+    61.25  
+ 
+ 
+ 
+ 
+ 
+ The minimum potential(in Volt) :   
+ 
+    232.8  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.5/Exa7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage at B(in volts) :   
+ 
+    394.2  
+ 
+ 
+ 
+ 
+ Voltage at C(in volts) :   
+ 
+    393.4  
+ 
+ 
+ 
+ Current in section BC(in A) :   
+ 
+    43.33  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.6/Exa7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cross section area(in cm^2) :   
+ 
+    2.43  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.7/Exa7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total voltage drop(in volts) :   
+ 
+    17.85  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.8/Exa7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage at M(in volt)   
+ 
+    217. + 6.i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage at A, standing end voltage(in volts) :   
+ 
+    252.3  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.9/Exa7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cross section area(in m^2) :   
+ 
+    0.0618  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.10/Exa7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage as 200m from supply end A(in volts) :   
+ 
+    244.6  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.11/Exa7_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current fed at A, IA(in A):   
+ 
+    687.5  
+ 
+ 
+ Current fed at B, IB(in A):   
+ 
+    162.5  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.12/Exa7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Value of minimum potential(in V) :   
+ 
+    199.75  
+ 
+ 
+ 
+ Current supplied from end A(in A) :   
+ 
+    450.  
+ 
+ 
+ 
+ Current supplied from end B(in A) :   
+ 
+    50.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.13/Exa7_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage at +ve side(in V):    
+ 
+    252.8  
+ 
+ 
+ 
+ 
+ Voltage at -ve side(in V):    
+ 
+    244.8  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.14/Exa7_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage at +ve side(in V):    
+ 
+    188.  
+ 
+ 
+ 
+ 
+ Voltage at -ve side(in V):    
+ 
+    202.25  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.15/Exa7_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Potential at point B(in V) :   
+ 
+    497.02  
+ 
+ 
+ 
+ Potential at point C(in V) :   
+ 
+    495.16  
+ 
+ 
+ 
+ Potential at point D(in V) :   
+ 
+    496.39  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.16/Exa7_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x(in A)=   
+ 
+    47.9  
+ 
+ 
+ y(in A)=   
+ 
+    61.8  
+ 
+ 
+ Thus the point of minimum ppotential is E.   
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.17/Exa7_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum potential occurs at the mid point & is(in V) :    
+ 
+    187.5  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH7/EX7.18/Exa7_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Voltage at C(in Volt) :   
+ 
+    416.32 + 5.76i  
+ 
+ 
+ 
+ Voltage at A(in Volt) :   
+ 
+    430.72 + 12.96i  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.1/Exa8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thickness of Insulation in cm :   
+ 
+    0.0087572  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.2/Exa8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance/km of the fibre in uF :     
+ 
+    0.3760687  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.3/Exa8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Stress in KV/cm   
+ 
+    47.608936  
+ 
+ 
+ 
+ 
+ Minimum Stress in KV/cm   
+ 
+    12.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.4/Exa8_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The most economical diameter in cm :    
+ 
+    4.6669048  
+ 
+ 
+ 
+ 
+ 
+ 
+ The most economical diameter for 3 phase system in cm :    
+ 
+    2.6944387  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.5/Exa8_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The safe Working Potential in KV :    
+ 
+    35.596358  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.6/Exa8_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Charging current per phase in Ampere :    
+ 
+    36.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.7/Exa8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KVA taken by the 10 Km cable(KVA) :    
+ 
+    9.12D+09  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.8/Exa8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Distance of fault from testing end in Km :    
+ 
+    2.614379  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH8/EX8.9/Exa8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Distance of Fault from testing end in meters :    
+ 
+    500.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH9/EX9.1/Exa9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reactance required for the Peterson coil(in ohm) :   
+ 
+    118.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.1/Exa10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net saving per year(in Rs.) :   
+ 
+    3814.6  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.2/Exa10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rating of the heater(in KW) :   
+ 
+    10.288  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.3/Exa10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacity of condenser(in uF) :   
+ 
+    202.7  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.4/Exa10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacity of condenser(in uF) :   
+ 
+    93.797  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.5/Exa10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacity of condenser(in uF) :   
+ 
+    286.5  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.6/Exa10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacity of condenser(in uF) :   
+ 
+    133.84  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.7/Exa10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tanfi_m  =
+ 
+  - 1.2346  
+ 
+ 
+ 
+ P.F. of the motor(lead) :   
+ 
+    0.6294  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.8/Exa10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C  =
+ 
+    4.D-05  
+ 
+ 
+ Rating of each capacitor per phase(in uF)   
+ 
+    43.64  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.9/Exa10_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pam  =
+ 
+    318.88  
+ 
+ 
+ 
+ P.F. of synchronous motor(leading) :   
+ 
+    0.3136  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.10/Exa10_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pam  =
+ 
+    544.8  
+ 
+ 
+ 
+ P.F. of synchronous motor(leading) :   
+ 
+    0.2753  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.11/Exa10_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cosfi_2  =
+ 
+    0.8  
+ 
+ 
+ P.F.(lag) is :   
+ 
+    0.8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual Savings(in Rs.) :   
+ 
+    341.83  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.12/Exa10_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PF of the synchronous motor :   
+ 
+    0.999562  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.13/Exa10_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most Ecomnomical PF(lag) :   
+ 
+    0.986  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.14/Exa10_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capacitance of the capacitor(in uF) :   
+ 
+    60.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leading KVAR supplied by the capactor(in KVAR) :   
+ 
+    2.  
+ 
+ 
+ KVAR supplied per phase :    
+ 
+    0.662658  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.15/Exa10_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leading KVAR supplied by the motor(in KVAR) :   
+ 
+    14.38981  
+ 
+ 
+ 
+ 
+ 
+ 
+ KVA rating(in KVA) :   
+ 
+    81.50681  
+ 
+ 
+ 
+ 
+ 
+ P.F. Of the motor  :    
+ 
+    0.981513  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.16/Exa10_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most Ecomnomical PF(lag) :   
+ 
+    0.97  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH10/EX10.17/Exa10_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most Ecomnomical PF :   
+ 
+    0.995  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Saving in Rs. :   
+ 
+   12931.  
+ 
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.1/Exa11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost per unit(in Paisa) :   
+ 
+    6.265  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.2/Exa11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost per unit(at unity power factor in paisa/unit) :   
+ 
+    45.46  
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost per unit(at 0.8 power factor in paisa/unit) :   
+ 
+    48.08  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.3/Exa11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Case (i) Annual Payment(in Rs.) :   
+ 
+    145000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Case (ii) Annual Payment(in Rs.) :   
+ 
+    149000.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.4/Exa11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Annual electricity charges(in Rs.) :   
+ 
+    16683.11  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.5/Exa11_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case (i) Annual cost of energy(in Rs.) :   
+ 
+    612000.  
+ 
+ 
+ 
+ 
+ 
+ Case (ii) Annual cost of energy(in Rs.) :   
+ 
+    1250000.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.6/Exa11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No. of units to be consumed(or in kwh) :   
+ 
+    14400.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.7/Exa11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annual bill of consumer(in Rs.) :   
+ 
+    203300.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.8/Exa11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overall Annual chrges(in Rs.) :   
+ 
+    6317200.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.9/Exa11_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annuall bill of industry(in Rs.) :   
+ 
+    28125.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Saving by consumer in the bill(in Rs.) :   
+ 
+    3125.  
+ 
+grepthis#Electrical_Power-1_Transmission_And_Distribution_Of_Electrical_Power_M._L._Anand_1802/CH11/EX11.10/Exa11_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case(i) Annual Bill of tarrif 1 (in Rs.) :   
+ 
+    11000.  
+ 
+ 
+ 
+ 
+ Case(ii) Annual Bill of tarrif 2 (in Rs.) :   
+ 
+    15000.  
+ 
+ 
+ Naturally he will hoose the first tarrif.   
+ 

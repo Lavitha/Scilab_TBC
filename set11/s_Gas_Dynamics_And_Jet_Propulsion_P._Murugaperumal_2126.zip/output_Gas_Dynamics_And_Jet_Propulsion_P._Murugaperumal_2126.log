@@ -1,0 +1,15280 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 179
+
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.1/1.sce #
+ 
+ 
+ 
+ 
+ do1  =
+ 
+    1.12  
+ 
+ ao1  =
+ 
+    500.  
+ 
+ d  =
+ 
+    0.01  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ To1  =
+ 
+    622.2001  
+ 
+ Po1  =
+ 
+    200000.  
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    1.056  
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    518.91488  
+ 
+ d_t  =
+ 
+    0.7090647  
+ 
+ a_t  =
+ 
+    456.618  
+ 
+ Ct  =
+ 
+    456.618  
+ 
+ A_t  =
+ 
+    0.0000785  
+ 
+ m  =
+ 
+    0.0254290  
+ 
+ 
+ 
+(A)Maximum mass flow rate is 0.02543 kg/s
+ (B)Pressure and temperarature at the throat are 1.056 bar and 518.9149 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.1/1.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.25  
+ 
+ M2  =
+ 
+    1.  
+ 
+ D  =
+ 
+    0.04  
+ 
+ f  =
+ 
+    0.002  
+ 
+ 
+ 
+ X1  =
+ 
+    8.537  
+ 
+ X2  =
+ 
+    0.  
+ 
+ X  =
+ 
+    8.537  
+ 
+ L  =
+ 
+    42.685  
+ 
+ 
+ 
+(A)Length of the pipe is 42.685 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.1/1.sce #
+ 
+ 
+ 
+ 
+ Pa  =
+ 
+    100000.  
+ 
+ To1  =
+ 
+    288.  
+ 
+ M1  =
+ 
+    1.  
+ 
+ M2  =
+ 
+    0.8  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ 
+ 
+ t1  =
+ 
+    0.834  
+ 
+ T1  =
+ 
+    240.192  
+ 
+ t2  =
+ 
+    0.964  
+ 
+ To2  =
+ 
+    277.632  
+ 
+ t3  =
+ 
+    1.025  
+ 
+ T2  =
+ 
+    246.1968  
+ 
+ q  =
+ 
+    10.41984  
+ 
+ dT  =
+ 
+    41.8032  
+ 
+ 
+ 
+(A)The heat transferred per unit mass flow is 10.420 kJ/kg (rejected)
+ (B)Change in temperature is 41.803 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.1/1.sce #
+ 
+ 
+ 
+ 
+ Px  =
+ 
+    150.  
+ 
+ Tx  =
+ 
+    298.  
+ 
+ Py  =
+ 
+    350.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    2.3333333  
+ 
+ Mx  =
+ 
+    1.4638  
+ 
+ My  =
+ 
+    0.716  
+ 
+ t1  =
+ 
+    1.294  
+ 
+ Ty  =
+ 
+    385.612  
+ 
+ ax  =
+ 
+    346.02948  
+ 
+ Cx  =
+ 
+    506.51795  
+ 
+ ay  =
+ 
+    393.62279  
+ 
+ Cy  =
+ 
+    281.83392  
+ 
+ p2  =
+ 
+    0.942  
+ 
+ ds  =
+ 
+    17.148251  
+ 
+ p3  =
+ 
+    3.265  
+ 
+ Poy  =
+ 
+    489.75  
+ 
+ Pox  =
+ 
+    519.90446  
+ 
+ pr_loss  =
+ 
+    30.154459  
+ 
+ dd  =
+ 
+    1.4086843  
+ 
+ 
+ 
+(A)Mach number before shock is 1.4638
+ (B)After shock:
+    Mach number is 0.716
+    Static temperature is 385.612 K
+    Velocity is 281.83 m/s
+ (C)Increase in density of air is 1.41 kg/m^3
+ (D)Loss of stagnation pressure of air is 30.15 kPa
+ (E)Change in entropy is 17.148 J/kg-K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.1/1.sce #
+ 
+ 
+ 
+ 
+ eff_com  =
+ 
+    0.8  
+ 
+ eff_t  =
+ 
+    0.85  
+ 
+ pr  =
+ 
+    4.  
+ 
+ eff_c  =
+ 
+    0.98  
+ 
+ eff_m  =
+ 
+    0.99  
+ 
+ eff_n  =
+ 
+    0.9  
+ 
+ Tmax  =
+ 
+    1000.  
+ 
+ To3  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    220.  
+ 
+ Cp_air  =
+ 
+    1005.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp_gas  =
+ 
+    1153.  
+ 
+ k_gas  =
+ 
+    1.3  
+ 
+ To1  =
+ 
+    288.  
+ 
+ Po1  =
+ 
+    1.  
+ 
+ Poe  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ To2s  =
+ 
+    427.96636  
+ 
+ To2  =
+ 
+    462.95794  
+ 
+ Wc  =
+ 
+    175832.73  
+ 
+ To4  =
+ 
+    849.0248  
+ 
+ To4s  =
+ 
+    822.38212  
+ 
+ Po2  =
+ 
+    4.  
+ 
+ Po3  =
+ 
+    4.  
+ 
+ p1  =
+ 
+    2.3335341  
+ 
+ Po4s  =
+ 
+    1.7141382  
+ 
+ pr_n  =
+ 
+    1.7141382  
+ 
+ Toes  =
+ 
+    749.73847  
+ 
+ Toe  =
+ 
+    759.66711  
+ 
+ Cj  =
+ 
+    453.93705  
+ 
+ m  =
+ 
+    22.426096  
+ 
+ F  =
+ 
+    10.180036  
+ 
+ Fs  =
+ 
+    453.93705  
+ 
+ Is  =
+ 
+    0.0462729  
+ 
+ 
+ 
+(A)Thrust is 10.180 kN
+ (B)Specific thrust is 453.94 Ns/kg 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.1/1.sce #
+ 
+ 
+ 
+ 
+ mp  =
+ 
+    12.  
+ 
+ Ae  =
+ 
+    0.0335  
+ 
+ Ce  =
+ 
+    2000.  
+ 
+ h  =
+ 
+    10.  
+ 
+ Pe  =
+ 
+    100000.  
+ 
+ P0  =
+ 
+    100000.  
+ 
+ P10  =
+ 
+    25000.  
+ 
+ 
+ 
+ Fs  =
+ 
+    24.  
+ 
+ F10  =
+ 
+    26.5125  
+ 
+ 
+ 
+(A)thrust of motor at sea level is  24 kN (upwards) 
+ (B)thrust of motor at an altitude 10km is 26.5125 kN 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.2/2.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    2.  
+ 
+ C1  =
+ 
+    170.  
+ 
+ T1  =
+ 
+    473.  
+ 
+ A1  =
+ 
+    1000.  
+ 
+ P2  =
+ 
+    0.95  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a_1  =
+ 
+    435.94885  
+ 
+ M1  =
+ 
+    0.389954  
+ 
+ t1  =
+ 
+    0.97  
+ 
+ To1  =
+ 
+    487.62887  
+ 
+ p1  =
+ 
+    0.9  
+ 
+ Po1  =
+ 
+    2.2222222  
+ 
+ a1  =
+ 
+    1.623  
+ 
+ At  =
+ 
+    616.14295  
+ 
+ p2  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    1.1733333  
+ 
+ t2  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    406.68247  
+ 
+ a_t  =
+ 
+    404.23387  
+ 
+ C_t  =
+ 
+    404.23387  
+ 
+ p3  =
+ 
+    0.4275  
+ 
+ M2  =
+ 
+    1.17  
+ 
+ t3  =
+ 
+    0.785  
+ 
+ T2  =
+ 
+    382.78866  
+ 
+ a3  =
+ 
+    1.022  
+ 
+ A2  =
+ 
+    629.69809  
+ 
+ C2  =
+ 
+    458.8496  
+ 
+ 
+ 
+(A)Stagnation temperature and pressure are 487.63 K and 2.222 bar
+ (B)Sonic velocity and mach number at entry are 435.95 m/s and 0.39
+ (C)Velocity, Mach number and flow area at outlet section are 458.85 m/s, 1.17 and 629.70 mm^2
+ (D)Pressure, area at throat of the nozzle are 1.17333 bar and 616.143 mm^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.2/2.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.1  
+ 
+ M2  =
+ 
+    0.5  
+ 
+ M3  =
+ 
+    1.  
+ 
+ D  =
+ 
+    0.02  
+ 
+ f  =
+ 
+    0.004  
+ 
+ 
+ 
+ X1  =
+ 
+    66.922  
+ 
+ X2  =
+ 
+    1.069  
+ 
+ X3  =
+ 
+    0.  
+ 
+ X4  =
+ 
+    66.922  
+ 
+ L1  =
+ 
+    83.6525  
+ 
+ X5  =
+ 
+    1.069  
+ 
+ L2  =
+ 
+    1.33625  
+ 
+ L  =
+ 
+    82.31625  
+ 
+ 
+ 
+(A)Length of the pipe required to accelerate the flow from M1=0.1 to M2=0.5 is 82.316 m
+ (B)Additional length required to accelerate into critical condition is 1.33625 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.2/2.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    3.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ q  =
+ 
+    300.  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ 
+ 
+ t1  =
+ 
+    2.8  
+ 
+ To1  =
+ 
+    840.  
+ 
+ p1  =
+ 
+    0.0272  
+ 
+ Po1  =
+ 
+    36.764706  
+ 
+ p2  =
+ 
+    0.176  
+ 
+ Pt  =
+ 
+    5.6818182  
+ 
+ p3  =
+ 
+    3.424  
+ 
+ Pot  =
+ 
+    10.737356  
+ 
+ t2  =
+ 
+    0.281  
+ 
+ Tt  =
+ 
+    1067.6157  
+ 
+ t3  =
+ 
+    0.654  
+ 
+ Tot  =
+ 
+    1284.4037  
+ 
+ To2  =
+ 
+    1138.5075  
+ 
+ t4  =
+ 
+    0.8864094  
+ 
+ M2  =
+ 
+    1.6  
+ 
+ p4  =
+ 
+    0.524  
+ 
+ P2  =
+ 
+    2.9772727  
+ 
+ p5  =
+ 
+    1.176  
+ 
+ Po2  =
+ 
+    12.62713  
+ 
+ t5  =
+ 
+    0.702  
+ 
+ T2  =
+ 
+    749.46619  
+ 
+ d2  =
+ 
+    1.4024949  
+ 
+ 
+ 
+(A)The Mach numer at exit is 1.6
+ (B)Static Pressure at exit is 2.977 atm
+ (C)Static exit temperature is 749.47 K
+ (D)density of air at exit is 1.4025 kg/m^3
+ (E)Stagnation exit temperation is 1138.51 K
+ (F)Stagnation Pressure at exit is 12.63 atm 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.2/2.sce #
+ 
+ 
+ 
+ 
+ Tx  =
+ 
+    350.  
+ 
+ Px  =
+ 
+    137.8  
+ 
+ Cx  =
+ 
+    750.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ax  =
+ 
+    375.00667  
+ 
+ Mx  =
+ 
+    1.9999644  
+ 
+ My  =
+ 
+    0.577  
+ 
+ p1  =
+ 
+    4.5  
+ 
+ Py  =
+ 
+    620.1  
+ 
+ t1  =
+ 
+    1.687  
+ 
+ Ty  =
+ 
+    590.45  
+ 
+ p2  =
+ 
+    5.641  
+ 
+ Poy  =
+ 
+    777.3298  
+ 
+ p3  =
+ 
+    0.721  
+ 
+ Pox  =
+ 
+    1078.1273  
+ 
+ ds  =
+ 
+    93.882333  
+ 
+ t2  =
+ 
+    0.555  
+ 
+ Tox  =
+ 
+    630.63063  
+ 
+ p4  =
+ 
+    0.128  
+ 
+ Pox  =
+ 
+    1076.5625  
+ 
+ t4  =
+ 
+    0.937  
+ 
+ Toy  =
+ 
+    630.14941  
+ 
+ ay  =
+ 
+    487.07577  
+ 
+ Cy  =
+ 
+    281.04272  
+ 
+ 
+ 
+(A)At inlet to shock:
+    Stagnation pressure is 1076.6 kPa
+    Stagnation temperature is 630.63 K
+    Mach number is   2
+ (B)After shock:
+    Stagnation pressure is 777.33 kPa
+    Stagnation temperature is 630.15 K
+    Static pressure is 620.1 kPa
+    Static temperature is 590.45 K
+    Mach number is 0.577
+    Velocity is 281.04 m/s
+ (C)Change in entropy across the shock is 93.88 J/kg-K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.2/2.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    222.22222  
+ 
+ Pe  =
+ 
+    60.  
+ 
+ Pn  =
+ 
+    300.  
+ 
+ Tn  =
+ 
+    473.  
+ 
+ m  =
+ 
+    20.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ Te  =
+ 
+    298.64512  
+ 
+ Cj  =
+ 
+    591.99097  
+ 
+ F  =
+ 
+    7395.3749  
+ 
+ P  =
+ 
+    1643.4166  
+ 
+ eff  =
+ 
+    54.585758  
+ 
+ 
+ 
+ 
+(A)Thrust developed is 7395.4 N
+ (B)Thrust developed is 1643.42 kW
+ (C)Propulsive efficiency is 54.586 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.2/2.sce #
+ 
+ 
+ 
+ 
+ P0  =
+ 
+    3800000.  
+ 
+ T0  =
+ 
+    3500.  
+ 
+ ma  =
+ 
+    41.67  
+ 
+ MR  =
+ 
+    5.  
+ 
+ k  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    287.  
+ 
+ Pamb  =
+ 
+    5820.  
+ 
+ Pe  =
+ 
+    5820.  
+ 
+ 
+ 
+ mf  =
+ 
+    8.334  
+ 
+ mp  =
+ 
+    50.004  
+ 
+ Cp  =
+ 
+    1243.6667  
+ 
+ p  =
+ 
+    652.92096  
+ 
+ Me  =
+ 
+    4.8045473  
+ 
+ t  =
+ 
+    0.2240871  
+ 
+ Te  =
+ 
+    784.30472  
+ 
+ a  =
+ 
+    37.647962  
+ 
+ Ce  =
+ 
+    2599.0074  
+ 
+ Cj  =
+ 
+    2599.0074  
+ 
+ P1  =
+ 
+    2073765.4  
+ 
+ T1  =
+ 
+    3043.4783  
+ 
+ d1  =
+ 
+    2.3741465  
+ 
+ C1  =
+ 
+    1065.6086  
+ 
+ A1  =
+ 
+    197.65122  
+ 
+ Ae  =
+ 
+    7441.1656  
+ 
+ F  =
+ 
+    129.96077  
+ 
+ Cmax1  =
+ 
+    2950.5367  
+ 
+ Cf  =
+ 
+    1.7303309  
+ 
+ Cch1  =
+ 
+    1502.0291  
+ 
+ 
+ 
+(A)nozzle throat area is 197.65 cm^2 
+ (B)thrust is 130.0 kN 
+ (C)thrust coefficient is 1.73 
+ (D)characteristic velocity is 1502 m/s 
+ (E)exit velocity in exhaust is 2599 m/s
+ (F)maximum possible exhaust velocity is 2950 m/s
+ 
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.3/3.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    3.2  
+ 
+ P2  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    475.  
+ 
+ Mol  =
+ 
+    44.  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ k  =
+ 
+    1.3  
+ 
+ 
+ 
+ R  =
+ 
+    188.95455  
+ 
+ Cp  =
+ 
+    818.80303  
+ 
+ Cv  =
+ 
+    629.84848  
+ 
+ p1  =
+ 
+    0.3125  
+ 
+ T2  =
+ 
+    363.17884  
+ 
+ dh  =
+ 
+    91.559504  
+ 
+ dU  =
+ 
+  - 70.430388  
+ 
+ 
+ 
+(A)Temperature is 363.179 K
+ (B)Enthalpy drop is 91.560 kJ/kg
+ (C)Change in internal energy is -70.43 kJ/kg i.e. 70.43 kJ/kg(loss) 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.3/3.sce #
+ 
+ 
+ 
+ 
+ Po1  =
+ 
+    10.  
+ 
+ To1  =
+ 
+    798.  
+ 
+ Pt  =
+ 
+    7.6  
+ 
+ m  =
+ 
+    1.5  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pc  =
+ 
+    5.28  
+ 
+ P2  =
+ 
+    7.6  
+ 
+ p2  =
+ 
+    0.76  
+ 
+ M2  =
+ 
+    0.64  
+ 
+ t1  =
+ 
+    0.924  
+ 
+ T2  =
+ 
+    737.352  
+ 
+ C2  =
+ 
+    348.35526  
+ 
+ C_max  =
+ 
+    1266.4833  
+ 
+ d2  =
+ 
+    3.5913426  
+ 
+ At  =
+ 
+    1198.9803  
+ 
+ 
+ 
+(A)At the nozzle throat/exit:
+    Pressure is 7.60 bar
+    Temperature is 737.35 K
+    Velocity is 348.36
+ (B)Maximum possible velocity is 1266.48 m/s
+ (C)Type of the nozzle is a convergent nozzle and its throat area is 1198.980 mm^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.3/3.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.05  
+ 
+ Po  =
+ 
+    10.  
+ 
+ To  =
+ 
+    400.  
+ 
+ f  =
+ 
+    0.002  
+ 
+ M1  =
+ 
+    3.  
+ 
+ M2  =
+ 
+    1.  
+ 
+ R  =
+ 
+    287.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ X1  =
+ 
+    0.522  
+ 
+ X2  =
+ 
+    0.  
+ 
+ X  =
+ 
+    0.522  
+ 
+ L  =
+ 
+    3.2625  
+ 
+ p1  =
+ 
+    0.0272  
+ 
+ P1  =
+ 
+    0.272  
+ 
+ t1  =
+ 
+    0.3571  
+ 
+ T1  =
+ 
+    142.84  
+ 
+ d1  =
+ 
+    0.6634943  
+ 
+ a1  =
+ 
+    239.5686  
+ 
+ C1  =
+ 
+    718.70579  
+ 
+ A1  =
+ 
+    0.0019635  
+ 
+ m  =
+ 
+    0.9363068  
+ 
+ 
+ 
+(A)Length of the pipe is 3.26 m
+ (B)Mass flow rate is 0.9363 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.3/3.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    2.  
+ 
+ P1  =
+ 
+    1.4  
+ 
+ T1  =
+ 
+    323.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.555  
+ 
+ To1  =
+ 
+    581.98198  
+ 
+ p1  =
+ 
+    0.364  
+ 
+ Po1  =
+ 
+    3.8461538  
+ 
+ t2  =
+ 
+    0.529  
+ 
+ Tt  =
+ 
+    610.58601  
+ 
+ t3  =
+ 
+    0.793  
+ 
+ Tot  =
+ 
+    733.89909  
+ 
+ To2  =
+ 
+    733.89909  
+ 
+ q  =
+ 
+    152.6767  
+ 
+ a1  =
+ 
+    360.25186  
+ 
+ C1  =
+ 
+    720.50371  
+ 
+ d1  =
+ 
+    1.5102318  
+ 
+ ma  =
+ 
+    1088.1276  
+ 
+ 
+ 
+(A)Mass flow rate per unit area is 1088.13 kg/s-m^2
+ (B)Final temperarure is 610.586 K
+ (C)Heat added is 152.68 kJ/kg 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.3/3.sce #
+ 
+ 
+ 
+ 
+ Tx  =
+ 
+    273.  
+ 
+ Px  =
+ 
+    60.  
+ 
+ Cx  =
+ 
+    497.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ax  =
+ 
+    331.19692  
+ 
+ Mx  =
+ 
+    1.5006178  
+ 
+ My  =
+ 
+    0.70109  
+ 
+ p1  =
+ 
+    2.45833  
+ 
+ Py  =
+ 
+    147.4998  
+ 
+ t1  =
+ 
+    1.32022  
+ 
+ Ty  =
+ 
+    360.42006  
+ 
+ p2  =
+ 
+    3.41327  
+ 
+ Poy  =
+ 
+    204.7962  
+ 
+ p3  =
+ 
+    0.92979  
+ 
+ Pox  =
+ 
+    220.2607  
+ 
+ ay  =
+ 
+    380.548  
+ 
+ Cy  =
+ 
+    266.7984  
+ 
+ 
+ 
+After shock:
+    (A)Mach number is 0.70109
+    (B)Velocity is 266.798 m/s
+    (C)Stagnation pressure is 204.796 kPa
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.3/3.sce #
+ 
+ 
+ 
+ 
+ Mi  =
+ 
+    0.8  
+ 
+ h  =
+ 
+    10000.  
+ 
+ pr_c  =
+ 
+    8.  
+ 
+ To3  =
+ 
+    1200.  
+ 
+ eff_c  =
+ 
+    0.87  
+ 
+ eff_t  =
+ 
+    0.9  
+ 
+ eff_d  =
+ 
+    0.93  
+ 
+ eff_n  =
+ 
+    0.95  
+ 
+ eff_m  =
+ 
+    0.99  
+ 
+ eff_cc  =
+ 
+    0.98  
+ 
+ pl  =
+ 
+    0.04  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ k_g  =
+ 
+    1.33  
+ 
+ Cp_a  =
+ 
+    1005.  
+ 
+ Cp_g  =
+ 
+    1100.  
+ 
+ CV  =
+ 
+    43000000.  
+ 
+ 
+ 
+ Ti  =
+ 
+    223.15  
+ 
+ Pi  =
+ 
+    26.4  
+ 
+ ai  =
+ 
+    299.43559  
+ 
+ Ci  =
+ 
+    239.54847  
+ 
+ u  =
+ 
+    239.54847  
+ 
+ t1  =
+ 
+    0.886  
+ 
+ To1s  =
+ 
+    251.8623  
+ 
+ To1  =
+ 
+    254.02344  
+ 
+ p1  =
+ 
+    1.5275027  
+ 
+ Po1s  =
+ 
+    40.32607  
+ 
+ Po1  =
+ 
+    40.32607  
+ 
+ Po2  =
+ 
+    322.60856  
+ 
+ To2s  =
+ 
+    456.23529  
+ 
+ To2  =
+ 
+    486.45086  
+ 
+ P_los  =
+ 
+    12.904342  
+ 
+ Po3  =
+ 
+    309.70422  
+ 
+ To4  =
+ 
+    985.50087  
+ 
+ To4s  =
+ 
+    961.66763  
+ 
+ p1  =
+ 
+    2.4408372  
+ 
+ Po4s  =
+ 
+    126.88442  
+ 
+ Poe  =
+ 
+    26.4  
+ 
+ pr_n  =
+ 
+    4.8062281  
+ 
+ Toes  =
+ 
+    667.55569  
+ 
+ Toe  =
+ 
+    683.45295  
+ 
+ Cj  =
+ 
+    815.17202  
+ 
+ Fs  =
+ 
+    575.62355  
+ 
+ f  =
+ 
+    0.0203605  
+ 
+ TSFC  =
+ 
+    3.5371262  
+ 
+ 
+ 
+(A)Specific thrust is 575.62 Ns/kg
+ (B)Thrust specific fuel consumption is 3.537x10^-5 kg/s-N 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.3/3.sce #
+ 
+ 
+ 
+ 
+ a  =
+ 
+    3.  
+ 
+ T0  =
+ 
+    2973.  
+ 
+ P0  =
+ 
+    2000000.  
+ 
+ k  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    248.  
+ 
+ Pamb  =
+ 
+    100000.  
+ 
+ Me  =
+ 
+    2.52  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ p  =
+ 
+    0.0550445  
+ 
+ Pe  =
+ 
+    110089.1  
+ 
+ t  =
+ 
+    0.5121482  
+ 
+ Te  =
+ 
+    1522.6165  
+ 
+ Ce  =
+ 
+    1765.6041  
+ 
+ M  =
+ 
+    514.7489  
+ 
+ Fa  =
+ 
+    918.93185  
+ 
+ Is  =
+ 
+    181.97799  
+ 
+ 
+ 
+(A)thrust per unit area of exit is 918.93 kN/m^2 
+ (B)specific impulse is 181.98 sec 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.4/4.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    0.5  
+ 
+ T1  =
+ 
+    323.  
+ 
+ C1  =
+ 
+    240.  
+ 
+ C2  =
+ 
+    120.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    344.49254  
+ 
+ t1  =
+ 
+    1.0665404  
+ 
+ P2  =
+ 
+    0.6264560  
+ 
+ ar  =
+ 
+    1.7024986  
+ 
+ 
+ 
+(A)At outlet:
+    Temperature is 344.49 K
+    Pressure is 0.6265 bar
+ (B)Ratio of outlet to inlet area is 1.7025 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.4/4.sce #
+ 
+ 
+ 
+ 
+ Po1  =
+ 
+    3.344  
+ 
+ To1  =
+ 
+    900.  
+ 
+ P2  =
+ 
+    1.05  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.3139952  
+ 
+ M2  =
+ 
+    1.4  
+ 
+ t1  =
+ 
+    0.718  
+ 
+ T2  =
+ 
+    646.2  
+ 
+ C2  =
+ 
+    713.37269  
+ 
+ d2  =
+ 
+    0.5661617  
+ 
+ a1  =
+ 
+    1.115  
+ 
+ M_2  =
+ 
+    0.6733  
+ 
+ t2  =
+ 
+    0.91633  
+ 
+ T_2  =
+ 
+    824.697  
+ 
+ C_2  =
+ 
+    387.57949  
+ 
+ p2  =
+ 
+    0.738  
+ 
+ P_2  =
+ 
+    2.467872  
+ 
+ d_2  =
+ 
+    1.0426687  
+ 
+ 
+ 
+(A)At exit:
+    Temperaure is 646 K
+    Velocity is 713.37 m/s
+    Density is 0.566 kg/m^3
+ (B)At diffuser:
+    Temperaure is 824.697 K
+    Velocity is 387.579 m/s
+    Density is 1.0427 kg/m^3
+    Pressure is 2.4679 bar
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.4/4.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    235.  
+ 
+ P1  =
+ 
+    13.  
+ 
+ P2  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    543.  
+ 
+ D  =
+ 
+    0.15  
+ 
+ f  =
+ 
+    0.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    467.09464  
+ 
+ M1  =
+ 
+    0.5031100  
+ 
+ p1  =
+ 
+    2.138  
+ 
+ Pt  =
+ 
+    6.080449  
+ 
+ t1  =
+ 
+    1.143  
+ 
+ Tt  =
+ 
+    475.06562  
+ 
+ c1  =
+ 
+    0.534  
+ 
+ Ct  =
+ 
+    440.07491  
+ 
+ p2  =
+ 
+    1.644  
+ 
+ M2  =
+ 
+    0.64  
+ 
+ c2  =
+ 
+    0.674  
+ 
+ C2  =
+ 
+    296.61049  
+ 
+ t2  =
+ 
+    1.109  
+ 
+ T2  =
+ 
+    526.84777  
+ 
+ X1  =
+ 
+    1.06922  
+ 
+ X2  =
+ 
+    0.353  
+ 
+ X  =
+ 
+    0.71622  
+ 
+ L  =
+ 
+    5.37165  
+ 
+ 
+ 
+(A)Temperature and velocity at section of the duct where the pressure has dropped to  10 bar due to friction are 526.8 K and 296.61 m/s
+ (B)The distance between two section is 5.372 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.4/4.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    100.  
+ 
+ P1  =
+ 
+    3.  
+ 
+ T1  =
+ 
+    318.  
+ 
+ q  =
+ 
+    630.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    357.45265  
+ 
+ M1  =
+ 
+    0.2797573  
+ 
+ t1  =
+ 
+    0.985  
+ 
+ To1  =
+ 
+    322.84264  
+ 
+ p1  =
+ 
+    0.947  
+ 
+ Po1  =
+ 
+    3.1678986  
+ 
+ To2  =
+ 
+    949.70831  
+ 
+ p2  =
+ 
+    2.163  
+ 
+ Pt  =
+ 
+    1.3869626  
+ 
+ p3  =
+ 
+    2.206  
+ 
+ Pot  =
+ 
+    1.4360375  
+ 
+ t2  =
+ 
+    0.31  
+ 
+ Tot  =
+ 
+    1041.4279  
+ 
+ t3  =
+ 
+    0.9119290  
+ 
+ M2  =
+ 
+    0.7  
+ 
+ p4  =
+ 
+    1.423  
+ 
+ P2  =
+ 
+    1.9736477  
+ 
+ 
+ 
+(A)Pressure after combustion is 1.974 bar
+ (B)Mach number after combustion is 0.7 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.4/4.sce #
+ 
+ 
+ 
+ 
+ Px  =
+ 
+    30.  
+ 
+ Tx  =
+ 
+    243.  
+ 
+ pr  =
+ 
+    2.6  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ Mx  =
+ 
+    1.54  
+ 
+ My  =
+ 
+    0.687  
+ 
+ t1  =
+ 
+    1.347  
+ 
+ Ty  =
+ 
+    327.321  
+ 
+ p1  =
+ 
+    3.567  
+ 
+ Poy  =
+ 
+    107.01  
+ 
+ p2  =
+ 
+    0.917  
+ 
+ Pox  =
+ 
+    116.69575  
+ 
+ dP  =
+ 
+    9.685747  
+ 
+ ax  =
+ 
+    312.46984  
+ 
+ Cx  =
+ 
+    481.20355  
+ 
+ ay  =
+ 
+    362.65352  
+ 
+ Cy  =
+ 
+    249.14297  
+ 
+ 
+ 
+(A)Velocities upstream and downstream of shock wave are 481.20 m/s and 249.14 m/s respectively
+ (B)Change in stagnation pressure is 9.686 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.4/4.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    300.  
+ 
+ Pi  =
+ 
+    35.  
+ 
+ Ti  =
+ 
+    233.  
+ 
+ pr_c  =
+ 
+    10.  
+ 
+ T3  =
+ 
+    1373.  
+ 
+ m  =
+ 
+    50.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ai  =
+ 
+    305.97287  
+ 
+ C1  =
+ 
+    300.  
+ 
+ T1  =
+ 
+    277.77612  
+ 
+ P1  =
+ 
+    64.752195  
+ 
+ P2  =
+ 
+    647.52195  
+ 
+ P3  =
+ 
+    647.52195  
+ 
+ T2  =
+ 
+    536.30172  
+ 
+ T4  =
+ 
+    1114.4744  
+ 
+ P4  =
+ 
+    311.99882  
+ 
+ Pe  =
+ 
+    35.  
+ 
+ pr_n  =
+ 
+    8.9142519  
+ 
+ Te  =
+ 
+    596.50936  
+ 
+ Cj  =
+ 
+    1020.3478  
+ 
+ sig  =
+ 
+    0.2940174  
+ 
+ eff_prop  =
+ 
+    45.442571  
+ 
+ 
+ 
+(A)Temperature and pressure of gases at turbine exit is 1114.47 K and 311 kPa
+ (B)Velocity of gases is 1020.35 m/s
+ (C)Propulsive efficiency of the cycle is 45.44 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.4/4.sce #
+ 
+ 
+ 
+ 
+ mp  =
+ 
+    5.  
+ 
+ de  =
+ 
+    0.1  
+ 
+ Pe  =
+ 
+    102000.  
+ 
+ Pamb  =
+ 
+    101300.  
+ 
+ P0  =
+ 
+    20.  
+ 
+ F  =
+ 
+    7000.  
+ 
+ u  =
+ 
+    1000.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ Cj  =
+ 
+    1400.  
+ 
+ Ca  =
+ 
+    400.  
+ 
+ wp  =
+ 
+    49.05  
+ 
+ Is  =
+ 
+    142.71152  
+ 
+ SPC  =
+ 
+    0.0070071  
+ 
+ 
+ 
+(A)effective jet velocity is 1400 m/s 
+ (B)specific impulse is 142.71 sec 
+ (C)specific propellent consumption is 0.007 s^-1 
+ (D)absolute jet velocity is 400 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.5/5.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    25.  
+ 
+ C2  =
+ 
+    115.  
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ C1  =
+ 
+    40.  
+ 
+ R  =
+ 
+    0.287  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ T2  =
+ 
+    294.21642  
+ 
+ t1  =
+ 
+    0.9807214  
+ 
+ P2  =
+ 
+    93.413527  
+ 
+ A1  =
+ 
+    0.538125  
+ 
+ A2  =
+ 
+    0.1965084  
+ 
+ F  =
+ 
+    33.580954  
+ 
+ 
+ 
+(A)Static pressure at intake face is 93.414 kPa
+ (B)Magnitude of axial force on mouthpiece resulting from acceleration of air is 33.581 kN 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.5/5.sce #
+ 
+ 
+ 
+ 
+ Po1  =
+ 
+    8.  
+ 
+ To1  =
+ 
+    288.  
+ 
+ At  =
+ 
+    25.  
+ 
+ A2  =
+ 
+    100.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    4.  
+ 
+ M2  =
+ 
+    2.94  
+ 
+ p1  =
+ 
+    0.0298  
+ 
+ P2  =
+ 
+    0.2384  
+ 
+ M_2  =
+ 
+    0.146  
+ 
+ p2  =
+ 
+    0.9847  
+ 
+ P_2  =
+ 
+    7.8776  
+ 
+ p3  =
+ 
+    0.528  
+ 
+ Pc  =
+ 
+    4.224  
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    240.192  
+ 
+ d_t  =
+ 
+    6.1275022  
+ 
+ a_t  =
+ 
+    310.65921  
+ 
+ Ct  =
+ 
+    310.65921  
+ 
+ m  =
+ 
+    4.7589125  
+ 
+ 
+ 
+(A)Maximum mass flow rate is 4.759 kg/s
+ (B)As nozzle:
+    Pressure is 0.2384 bar
+    Mach number is 2.94
+ As diffuser:
+    Pressure is 7.8776 bar
+    Mach number is 0.146 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.5/5.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    120.  
+ 
+ T1  =
+ 
+    313.  
+ 
+ M1  =
+ 
+    2.5  
+ 
+ M2  =
+ 
+    1.8  
+ 
+ D  =
+ 
+    0.2  
+ 
+ f  =
+ 
+    0.0025  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    354.63136  
+ 
+ C1  =
+ 
+    886.57839  
+ 
+ p1  =
+ 
+    0.292  
+ 
+ Pt  =
+ 
+    410.9589  
+ 
+ t1  =
+ 
+    0.533  
+ 
+ Tt  =
+ 
+    587.24203  
+ 
+ c1  =
+ 
+    1.826  
+ 
+ Ct  =
+ 
+    485.53034  
+ 
+ X1  =
+ 
+    0.432  
+ 
+ X2  =
+ 
+    0.  
+ 
+ X3  =
+ 
+    0.432  
+ 
+ L1  =
+ 
+    8.64  
+ 
+ p2  =
+ 
+    0.474  
+ 
+ P2  =
+ 
+    194.79452  
+ 
+ t2  =
+ 
+    0.728  
+ 
+ T2  =
+ 
+    427.5122  
+ 
+ c2  =
+ 
+    1.536  
+ 
+ C2  =
+ 
+    745.7746  
+ 
+ X4  =
+ 
+    0.242  
+ 
+ X5  =
+ 
+    0.242  
+ 
+ L2  =
+ 
+    4.84  
+ 
+ L  =
+ 
+    3.8  
+ 
+ 
+ 
+(A)Maximum length of the pipe is 8.64 m
+ (B)Properties of air at sonic condition:
+    Pressure is 410 kPa
+    Temperature is 587.24 K
+    Velocity is 485.5 m/s
+ (C)Length of the pipe is 3.8 m
+ (D)Properties of air at M2=1.8:
+    Pressure is 194 kPa
+    Temperature is 427.51 K
+    Velocity is 745.77 m/s
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.5/5.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    3.  
+ 
+ To1  =
+ 
+    295.  
+ 
+ P1  =
+ 
+    0.5  
+ 
+ M2  =
+ 
+    1.5  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.0272  
+ 
+ Po1  =
+ 
+    18.382353  
+ 
+ t1  =
+ 
+    0.357  
+ 
+ T1  =
+ 
+    105.315  
+ 
+ p2  =
+ 
+    0.176  
+ 
+ Pt  =
+ 
+    2.8409091  
+ 
+ p3  =
+ 
+    3.424  
+ 
+ Pot  =
+ 
+    5.3686778  
+ 
+ t2  =
+ 
+    0.654  
+ 
+ Tot  =
+ 
+    451.07034  
+ 
+ t3  =
+ 
+    0.28  
+ 
+ Tt  =
+ 
+    376.125  
+ 
+ p4  =
+ 
+    0.578  
+ 
+ P2  =
+ 
+    1.6420455  
+ 
+ p5  =
+ 
+    1.122  
+ 
+ Po2  =
+ 
+    6.0236565  
+ 
+ t4  =
+ 
+    0.753  
+ 
+ T2  =
+ 
+    283.22212  
+ 
+ t5  =
+ 
+    0.909  
+ 
+ To2  =
+ 
+    410.02294  
+ 
+ q  =
+ 
+  - 115.59805  
+ 
+ SPC  =
+ 
+    12.358696  
+ 
+ n  =
+ 
+    0.7721435  
+ 
+ qmax  =
+ 
+    156.85069  
+ 
+ ds  =
+ 
+  - 340.27457  
+ 
+ 
+ 
+(A)Total temperature at exit is 410.02 K
+ (B)Static pressure at exit is 1.642 bar 
+ (C)Change in stagnation pressure is 12.36 bar
+ (D)Exponent of polytropic equation is 0.77 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.5/5.sce #
+ 
+ 
+ 
+ 
+ Mol  =
+ 
+    39.9  
+ 
+ k  =
+ 
+    1.67  
+ 
+ Mx  =
+ 
+    2.5  
+ 
+ Px  =
+ 
+    40.  
+ 
+ Tx  =
+ 
+    253.  
+ 
+ 
+ 
+ My  =
+ 
+    0.554  
+ 
+ p1  =
+ 
+    7.567  
+ 
+ Py  =
+ 
+    302.68  
+ 
+ t1  =
+ 
+    2.805  
+ 
+ Ty  =
+ 
+    709.665  
+ 
+ 
+ 
+Downstream the normal shock:
+    Mach number is 0.554
+    Pressure is 302.68 kPa
+    Temperature is 709.665 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.5/5.sce #
+ 
+ 
+ 
+ 
+ n  =
+ 
+    2.  
+ 
+ D  =
+ 
+    0.25  
+ 
+ P  =
+ 
+    3000.  
+ 
+ mf_kWh  =
+ 
+    0.42  
+ 
+ CV  =
+ 
+    49000.  
+ 
+ u  =
+ 
+    300.  
+ 
+ d  =
+ 
+    0.168  
+ 
+ AFR  =
+ 
+    53.  
+ 
+ 
+ 
+ mf  =
+ 
+    0.35  
+ 
+ ma  =
+ 
+    18.55  
+ 
+ m  =
+ 
+    18.9  
+ 
+ Q  =
+ 
+    112.5  
+ 
+ Cj  =
+ 
+    1145.9156  
+ 
+ Ca  =
+ 
+    845.91559  
+ 
+ F  =
+ 
+    16.092805  
+ 
+ eff  =
+ 
+    28.150679  
+ 
+ eff_prop  =
+ 
+    41.496198  
+ 
+ eff_ther  =
+ 
+    67.839175  
+ 
+ 
+ 
+(A)Absolute velocity of jet is 845.916 m/s
+ (B)Resistance of the plane is 16.0928 kN
+ (C)Overall efficiency is 28.15 percent
+ (D)Efficiency of turbine is 67.839 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.5/5.sce #
+ 
+ 
+ 
+ 
+ Cj  =
+ 
+    2700.  
+ 
+ u  =
+ 
+    1350.  
+ 
+ mp  =
+ 
+    78.6  
+ 
+ 
+ 
+ s  =
+ 
+    0.5  
+ 
+ np  =
+ 
+    0.8  
+ 
+ F  =
+ 
+    212.22  
+ 
+ Pt  =
+ 
+    286.497  
+ 
+ 
+ 
+(A)thrust is 212.22 kN 
+ (B)Thrust power is 286.497 MW 
+ (C)propulsive efficiency is 0.8 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.6/6.sce #
+ 
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ C  =
+ 
+    50.  
+ 
+ d  =
+ 
+    2.9  
+ 
+ Mol  =
+ 
+    32.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ 
+ 
+ R  =
+ 
+    259.8125  
+ 
+ T  =
+ 
+    265.44341  
+ 
+ a  =
+ 
+    310.72773  
+ 
+ M  =
+ 
+    0.1609126  
+ 
+ 
+ 
+Mach number is 0.16 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.6/6.sce #
+ 
+ 
+ 
+ 
+ D1  =
+ 
+    15.  
+ 
+ D2  =
+ 
+    30.  
+ 
+ P1  =
+ 
+    0.96  
+ 
+ T1  =
+ 
+    340.  
+ 
+ C1  =
+ 
+    185.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ A1  =
+ 
+    176.71459  
+ 
+ A2  =
+ 
+    706.85835  
+ 
+ a_1  =
+ 
+    369.61061  
+ 
+ M1  =
+ 
+    0.5005268  
+ 
+ p1  =
+ 
+    0.843  
+ 
+ Po1  =
+ 
+    1.13879  
+ 
+ t1  =
+ 
+    0.952  
+ 
+ To1  =
+ 
+    357.14286  
+ 
+ a1  =
+ 
+    1.34  
+ 
+ At  =
+ 
+    131.87656  
+ 
+ a2  =
+ 
+    5.36  
+ 
+ M2  =
+ 
+    0.1088  
+ 
+ p2  =
+ 
+    0.992  
+ 
+ P2  =
+ 
+    1.1296797  
+ 
+ t2  =
+ 
+    0.9976  
+ 
+ T2  =
+ 
+    356.28571  
+ 
+ C2  =
+ 
+    41.165469  
+ 
+ F1  =
+ 
+    2291.4728  
+ 
+ F2  =
+ 
+    8117.57  
+ 
+ F  =
+ 
+    5.8260972  
+ 
+ 
+ 
+(A)Exit pressure is 1.130 bar
+ (B)Exit velocity is 41.17 m/s
+ (C)Force exerted on the diffuser walls is 5.826 kN 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.6/6.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.25  
+ 
+ ds  =
+ 
+    0.124  
+ 
+ P1  =
+ 
+    700.  
+ 
+ T1  =
+ 
+    333.  
+ 
+ D  =
+ 
+    0.05  
+ 
+ f  =
+ 
+    0.006  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ 
+ p1  =
+ 
+    1.540421  
+ 
+ t1  =
+ 
+    0.987  
+ 
+ To1  =
+ 
+    337.38602  
+ 
+ p2  =
+ 
+    0.957  
+ 
+ Po1  =
+ 
+    731.45246  
+ 
+ Po2  =
+ 
+    474.83932  
+ 
+ a1  =
+ 
+    365.786  
+ 
+ C1  =
+ 
+    91.446501  
+ 
+ p3  =
+ 
+    4.3615  
+ 
+ Pt  =
+ 
+    160.49524  
+ 
+ t1  =
+ 
+    1.185  
+ 
+ Tt  =
+ 
+    281.01266  
+ 
+ c1  =
+ 
+    0.272  
+ 
+ Ct  =
+ 
+    336.20037  
+ 
+ p4  =
+ 
+    2.4065  
+ 
+ Pot  =
+ 
+    303.94866  
+ 
+ X1  =
+ 
+    8.537  
+ 
+ p5  =
+ 
+    1.5622353  
+ 
+ M2  =
+ 
+    0.41  
+ 
+ p6  =
+ 
+    2.629  
+ 
+ P2  =
+ 
+    421.94199  
+ 
+ t2  =
+ 
+    1.161  
+ 
+ T2  =
+ 
+    326.2557  
+ 
+ c2  =
+ 
+    0.4415  
+ 
+ C2  =
+ 
+    148.43246  
+ 
+ X2  =
+ 
+    2.141  
+ 
+ X3  =
+ 
+    6.396  
+ 
+ L  =
+ 
+    13.325  
+ 
+ 
+ 
+(A)Mach number at exit(section 2) is 0.41 
+ (B)Properties at exit(section 2):
+    Pressure is 421.94 kPa
+    Temperature is 326 K
+    Velocity is 148.432 m/s
+ (C)Length of the duct is 13.325 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.6/6.sce #
+ 
+ 
+ 
+ 
+ M2  =
+ 
+    0.9  
+ 
+ P2  =
+ 
+    2.5  
+ 
+ T2  =
+ 
+    1273.  
+ 
+ t1  =
+ 
+    3.74  
+ 
+ Cp  =
+ 
+    1.218  
+ 
+ k  =
+ 
+    1.3  
+ 
+ 
+ 
+ t2  =
+ 
+    0.892  
+ 
+ To2  =
+ 
+    1427.13  
+ 
+ To1  =
+ 
+    381.58557  
+ 
+ p1  =
+ 
+    1.12  
+ 
+ Pt  =
+ 
+    2.2321429  
+ 
+ t3  =
+ 
+    1.017  
+ 
+ Tt  =
+ 
+    1251.7207  
+ 
+ t4  =
+ 
+    0.991  
+ 
+ Tot  =
+ 
+    1440.0909  
+ 
+ t5  =
+ 
+    0.2649733  
+ 
+ M1  =
+ 
+    0.26  
+ 
+ p2  =
+ 
+    2.114  
+ 
+ P1  =
+ 
+    4.71875  
+ 
+ t6  =
+ 
+    0.302  
+ 
+ T1  =
+ 
+    378.01967  
+ 
+ q  =
+ 
+    1273.4732  
+ 
+ qmax  =
+ 
+    1289.2594  
+ 
+ 
+ 
+(A)Mach number at entry is 0.26
+ (B)Pressure at entry is 4.719 bar 
+ (C)Temperature of gas is 378 K
+ (D)Amount of heat added is 1273.47 kJ/kg
+ (E)Maximum heat that can be heated is 1289.259 kJ/kg 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.6/6.sce #
+ 
+ 
+ 
+ 
+ Mx  =
+ 
+    2.  
+ 
+ Px  =
+ 
+    50.  
+ 
+ 
+ 
+ p1  =
+ 
+    6.335  
+ 
+ Poy  =
+ 
+    316.75  
+ 
+ 
+ 
+Pressure acting on the front of the body is 316.75 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.6/6.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    250.  
+ 
+ ma  =
+ 
+    50.  
+ 
+ dh  =
+ 
+    200.  
+ 
+ eff_n  =
+ 
+    0.9  
+ 
+ AFR  =
+ 
+    85.  
+ 
+ eff_cc  =
+ 
+    0.95  
+ 
+ CV  =
+ 
+    42000.  
+ 
+ 
+ 
+ mf  =
+ 
+    0.5882353  
+ 
+ m  =
+ 
+    50.588235  
+ 
+ Cj  =
+ 
+    600.  
+ 
+ sig  =
+ 
+    0.4166667  
+ 
+ F  =
+ 
+    17.852941  
+ 
+ Pt  =
+ 
+    4463.2353  
+ 
+ Pp  =
+ 
+    7543.3824  
+ 
+ HS  =
+ 
+    23470.588  
+ 
+ eff_ther  =
+ 
+    32.139724  
+ 
+ eff_prop  =
+ 
+    59.16756  
+ 
+ eff  =
+ 
+    19.016291  
+ 
+ 
+ 
+(A)Propulsive power is 7543.38 kW
+ (B)Thrust power is 4463.2 kW
+ (C)Propulsive efficiency is 59.168 percent
+ (D)Thermal efficiency is 32.14 percent
+ (E)Total fuel consumption is 0.588 kg/s
+ (F)Overall efficiency is 19.016 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.6/6.sce #
+ 
+ 
+ 
+ 
+ mi  =
+ 
+    15000.  
+ 
+ mp  =
+ 
+    125.  
+ 
+ Cj  =
+ 
+    2000.  
+ 
+ t  =
+ 
+    70.  
+ 
+ t0  =
+ 
+    0.  
+ 
+ t1  =
+ 
+    70.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ u  =
+ 
+    1064.2375  
+ 
+ h1  =
+ 
+    28.418626  
+ 
+ h2  =
+ 
+    57.726881  
+ 
+ h  =
+ 
+    86.145507  
+ 
+ 
+ 
+(A)velocity attained in 70 sec is 1064.24 m/s
+ (B)maximum height the rocket will reach is 86.146 km 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.7/7.sce #
+ 
+ 
+ 
+ 
+ Pa  =
+ 
+    1.3  
+ 
+ Ta  =
+ 
+    323.  
+ 
+ Pb  =
+ 
+    1.  
+ 
+ Tb  =
+ 
+    286.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ds  =
+ 
+  - 0.0469703  
+ 
+ 
+ 
+ 
+ 
+The change in the entropy is -0.0470 kJ/kg
+ Since value is -ve, process must takes place from B to A 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.7/7.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    3.6  
+ 
+ M2  =
+ 
+    2.  
+ 
+ m  =
+ 
+    15.  
+ 
+ P1  =
+ 
+    1.05  
+ 
+ T1  =
+ 
+    313.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.01138  
+ 
+ Po  =
+ 
+    92.267135  
+ 
+ t1  =
+ 
+    0.278  
+ 
+ To  =
+ 
+    1125.8993  
+ 
+ C1  =
+ 
+    1276.6729  
+ 
+ d1  =
+ 
+    1.1688615  
+ 
+ A1  =
+ 
+    100.51909  
+ 
+ p2  =
+ 
+    0.128  
+ 
+ P2  =
+ 
+    11.810193  
+ 
+ t2  =
+ 
+    0.555  
+ 
+ T2  =
+ 
+    624.8741  
+ 
+ C2  =
+ 
+    1002.1465  
+ 
+ d2  =
+ 
+    6.5854065  
+ 
+ A2  =
+ 
+    22.728849  
+ 
+ 
+ 
+(A)At Inlet:
+    Area is 100.5 cm^2
+    Total pressure 92.27 bar
+    Total temperature is 1125.9 K
+ (B)At Exit:
+    Area is 22.7 cm^2
+    Total pressure 92.27 bar
+    Total temperature is 1125.90 K
+    Static temperature is 624.87 K
+    Static pressure is 11.81 bar 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.7/7.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.25  
+ 
+ M2  =
+ 
+    0.75  
+ 
+ P1  =
+ 
+    1.5  
+ 
+ T1  =
+ 
+    300.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ 
+ a1  =
+ 
+    347.18871  
+ 
+ C1  =
+ 
+    86.797177  
+ 
+ p1  =
+ 
+    4.3615  
+ 
+ Pt  =
+ 
+    0.3439184  
+ 
+ c1  =
+ 
+    0.272  
+ 
+ Ct  =
+ 
+    319.10727  
+ 
+ p2  =
+ 
+    1.385  
+ 
+ P2  =
+ 
+    0.4763270  
+ 
+ c2  =
+ 
+    0.779  
+ 
+ C2  =
+ 
+    248.58456  
+ 
+ 
+ 
+Final pressure and velocity are 0.4763 bar and 248.58 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.7/7.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    0.343  
+ 
+ T1  =
+ 
+    310.  
+ 
+ C1  =
+ 
+    60.  
+ 
+ q  =
+ 
+    1172.5  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    352.92775  
+ 
+ M1  =
+ 
+    0.1700065  
+ 
+ t1  =
+ 
+    0.9943  
+ 
+ To1  =
+ 
+    311.77713  
+ 
+ p1  =
+ 
+    2.306  
+ 
+ Pt  =
+ 
+    0.1487424  
+ 
+ t2  =
+ 
+    0.154  
+ 
+ Tt  =
+ 
+    2012.987  
+ 
+ t3  =
+ 
+    0.129  
+ 
+ Tot  =
+ 
+    2416.877  
+ 
+ c1  =
+ 
+    0.0665  
+ 
+ Ct  =
+ 
+    902.25564  
+ 
+ To2  =
+ 
+    1478.4438  
+ 
+ t4  =
+ 
+    0.6117166  
+ 
+ M2  =
+ 
+    0.45  
+ 
+ p2  =
+ 
+    1.87  
+ 
+ P2  =
+ 
+    0.2781483  
+ 
+ t5  =
+ 
+    0.7075  
+ 
+ T2  =
+ 
+    1424.1883  
+ 
+ c2  =
+ 
+    0.378  
+ 
+ C2  =
+ 
+    341.05263  
+ 
+ 
+ 
+At exit conditions :
+ (A)Mach number is 0.45
+ (B)Pressure is 0.278 bar
+ (C)Temperature is 1424.19 K
+ (D)Exit velocity is 341.05 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.7/7.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    800.  
+ 
+ To  =
+ 
+    313.  
+ 
+ M2a  =
+ 
+    2.5  
+ 
+ At  =
+ 
+    25.  
+ 
+ Ax  =
+ 
+    40.  
+ 
+ Ay  =
+ 
+    40.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    261.042  
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    422.4  
+ 
+ dt  =
+ 
+    5.6380851  
+ 
+ at  =
+ 
+    323.86212  
+ 
+ Ct  =
+ 
+    323.86212  
+ 
+ m  =
+ 
+    4.5649055  
+ 
+ p2  =
+ 
+    0.0585  
+ 
+ a1  =
+ 
+    2.637  
+ 
+ A2  =
+ 
+    65.925  
+ 
+ a2  =
+ 
+    1.6  
+ 
+ M  =
+ 
+    1.94  
+ 
+ p3  =
+ 
+    0.14  
+ 
+ Px  =
+ 
+    112.  
+ 
+ t2  =
+ 
+    0.57  
+ 
+ Tx  =
+ 
+    178.41  
+ 
+ My  =
+ 
+    0.588  
+ 
+ p4  =
+ 
+    4.225  
+ 
+ Py  =
+ 
+    473.2  
+ 
+ t3  =
+ 
+    1.639  
+ 
+ Ty  =
+ 
+    292.41399  
+ 
+ p5  =
+ 
+    2.338  
+ 
+ Poy  =
+ 
+    261.856  
+ 
+ p6  =
+ 
+    0.749  
+ 
+ Pox  =
+ 
+    349.60748  
+ 
+ 
+ p7  =
+ 
+    0.79  
+ 
+ Po2  =
+ 
+    598.98734  
+ 
+ t4  =
+ 
+    0.935  
+ 
+ To2  =
+ 
+    312.74224  
+ 
+ a3  =
+ 
+    1.2  
+ 
+ At2  =
+ 
+    33.333333  
+ 
+ a4  =
+ 
+    1.97775  
+ 
+ M2b  =
+ 
+    0.31  
+ 
+ p8  =
+ 
+    0.936  
+ 
+ P2  =
+ 
+    560.65215  
+ 
+ t5  =
+ 
+    0.981  
+ 
+ T2  =
+ 
+    306.80013  
+ 
+ 
+ 
+CASE-I:
+    (A)Mass flow rate is 4.56 kg/s
+    (B)Exit area is 65.9 cm^2
+ CASE-II:
+    (A)Temperature is 306.800 K
+    (B)Pressure is 560.7 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.7/7.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    0.8  
+ 
+ CV  =
+ 
+    42800.  
+ 
+ h  =
+ 
+    10.  
+ 
+ F  =
+ 
+    50.  
+ 
+ ma  =
+ 
+    45.  
+ 
+ mf  =
+ 
+    2.65  
+ 
+ 
+ 
+ m  =
+ 
+    47.65  
+ 
+ a  =
+ 
+    299.6  
+ 
+ T  =
+ 
+    233.15  
+ 
+ u  =
+ 
+    239.68  
+ 
+ Cj  =
+ 
+    1275.6684  
+ 
+ sig  =
+ 
+    0.1878858  
+ 
+ Fs  =
+ 
+    1049.3179  
+ 
+ TSFC  =
+ 
+    0.1908  
+ 
+ Pt  =
+ 
+    11984.  
+ 
+ Pp  =
+ 
+    37478.589  
+ 
+ HS  =
+ 
+    113420.  
+ 
+ eff_ther  =
+ 
+    33.044074  
+ 
+ eff_prop  =
+ 
+    31.97559  
+ 
+ eff  =
+ 
+    10.566038  
+ 
+ 
+ 
+(A)Specific thrust is 1049.32 N/kg
+ (B)Thrust specific fuel consumption is 0.1908 kg/N-hr
+ (C)Jet velocity is 1275.668 m/s
+ (D)Thermal efficiency is 33.04 percent
+ (E)Propulsive efficiency is 31.976 percent
+ (F)Overall efficiency is 10.57 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.7/7.sce #
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    0.0018  
+ 
+ P0  =
+ 
+    2500000.  
+ 
+ Is  =
+ 
+    127.42  
+ 
+ wp  =
+ 
+    44.145  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ F  =
+ 
+    5624.9559  
+ 
+ mp  =
+ 
+    4.5  
+ 
+ Cj  =
+ 
+    1249.9902  
+ 
+ Cf  =
+ 
+    1.2499902  
+ 
+ Cw  =
+ 
+    9.81  
+ 
+ SPC  =
+ 
+    7.8480615  
+ 
+ Cch1  =
+ 
+    1000.  
+ 
+ 
+ 
+(A)thrust coefficient is 1.25 
+ (B)propellent weight flow coefficent is 9.81*10^-3 
+ (C)specific propellent consumption is 7.85*10^-3 s^-1 
+ (D)characteristic velocity is 1000 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.8/8.sce #
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    8.  
+ 
+ V2  =
+ 
+    7.8  
+ 
+ P1  =
+ 
+    0.7  
+ 
+ P2  =
+ 
+    2.7  
+ 
+ 
+ 
+ K  =
+ 
+    78.99578  
+ 
+ 
+ 
+Bulk modulus of liquid is 78.996 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.8/8.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    6.91  
+ 
+ To  =
+ 
+    598.  
+ 
+ P2  =
+ 
+    0.98  
+ 
+ m  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    3.64848  
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    498.732  
+ 
+ at  =
+ 
+    447.64999  
+ 
+ Ct  =
+ 
+    447.64999  
+ 
+ dt  =
+ 
+    2.5489589  
+ 
+ At  =
+ 
+    8.7639235  
+ 
+ p2  =
+ 
+    0.1418234  
+ 
+ M2  =
+ 
+    1.93  
+ 
+ t2  =
+ 
+    0.573  
+ 
+ T2  =
+ 
+    342.654  
+ 
+ a2  =
+ 
+    1.593  
+ 
+ A2  =
+ 
+    13.96093  
+ 
+ C_max  =
+ 
+    1096.3485  
+ 
+ 
+ 
+(A)At throat:
+    Area is 8.76x10^-4 m^2
+    Pressure is 3.65 bar
+    Velocity is 447.6 m/s
+ (B)At Exit:
+    Area is 13.961x10^-4 m^2
+    Mach number is 1.93
+ (C)Maximum possible velocity is 1096.35 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.8/8.sce #
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    333.  
+ 
+ D  =
+ 
+    0.05  
+ 
+ f  =
+ 
+    0.00125  
+ 
+ L  =
+ 
+    5.  
+ 
+ Pt  =
+ 
+    101.  
+ 
+ M2  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ 
+ X  =
+ 
+    0.5  
+ 
+ M1  =
+ 
+    0.6  
+ 
+ t1  =
+ 
+    1.119  
+ 
+ Tt  =
+ 
+    297.58713  
+ 
+ at  =
+ 
+    345.78969  
+ 
+ Ct  =
+ 
+    345.78969  
+ 
+ d_t  =
+ 
+    1.1825658  
+ 
+ At  =
+ 
+    0.0019635  
+ 
+ m  =
+ 
+    0.8029107  
+ 
+ 
+ 
+(A)Mach number at inlet is 0.6 
+ (B)Mass flow rate is 0.80291 kg/s
+ (C)Exit temperature is 297.587 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.8/8.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    2.  
+ 
+ To1  =
+ 
+    523.  
+ 
+ Po1  =
+ 
+    6.  
+ 
+ To2  =
+ 
+    423.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.555  
+ 
+ T1  =
+ 
+    290.265  
+ 
+ p1  =
+ 
+    0.128  
+ 
+ P1  =
+ 
+    0.768  
+ 
+ p2  =
+ 
+    0.364  
+ 
+ p3  =
+ 
+    1.503  
+ 
+ t2  =
+ 
+    0.529  
+ 
+ t3  =
+ 
+    0.793  
+ 
+ t4  =
+ 
+    0.6413748  
+ 
+ M2  =
+ 
+    3.15  
+ 
+ p4  =
+ 
+    0.161  
+ 
+ t5  =
+ 
+    0.258  
+ 
+ P2  =
+ 
+    0.3396923  
+ 
+ T2  =
+ 
+    141.56592  
+ 
+ 
+ 
+After Cooling :
+ (A)Mach number is 3.15
+ (B)Pressure is 0.3397 bar
+ (C)Temperature is 141.57 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.8/8.sce #
+ 
+ 
+ 
+ 
+ Px  =
+ 
+    1.  
+ 
+ Tx  =
+ 
+    290.  
+ 
+ Cx  =
+ 
+    500.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ax  =
+ 
+    341.35319  
+ 
+ Mx  =
+ 
+    1.4647585  
+ 
+ My  =
+ 
+    0.715  
+ 
+ p1  =
+ 
+    2.335  
+ 
+ Py  =
+ 
+    2.335  
+ 
+ t1  =
+ 
+    1.297  
+ 
+ Ty  =
+ 
+    376.13  
+ 
+ ay  =
+ 
+    388.75318  
+ 
+ Cy  =
+ 
+    277.95852  
+ 
+ C_y  =
+ 
+    222.04148  
+ 
+ M_y  =
+ 
+    0.5711631  
+ 
+ t2  =
+ 
+    0.939  
+ 
+ T_oy  =
+ 
+    400.56443  
+ 
+ 
+ 
+(A)Pressure is 2.335 bar
+ (B)Temperature is 376.13 K
+ (C)Velocity of air is 222.04 m/s
+ (D)Stagnation temperature is 400.56 K
+ (E)Mach number is 0.571 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.8/8.sce #
+ 
+ 
+ 
+ 
+ Mi  =
+ 
+    0.8  
+ 
+ h  =
+ 
+    10.  
+ 
+ To3  =
+ 
+    1200.  
+ 
+ dTc  =
+ 
+    175.  
+ 
+ CV  =
+ 
+    43000.  
+ 
+ eff_c  =
+ 
+    0.75  
+ 
+ eff_cc  =
+ 
+    0.75  
+ 
+ eff_t  =
+ 
+    0.81  
+ 
+ eff_m  =
+ 
+    0.98  
+ 
+ eff_n  =
+ 
+    0.97  
+ 
+ Is  =
+ 
+    25.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ Ti  =
+ 
+    223.15  
+ 
+ ai  =
+ 
+    299.43559  
+ 
+ Toi  =
+ 
+    251.7132  
+ 
+ To1  =
+ 
+    251.7132  
+ 
+ To2  =
+ 
+    426.7132  
+ 
+ pr_c  =
+ 
+    4.3438886  
+ 
+ f  =
+ 
+    0.0250339  
+ 
+ dTt  =
+ 
+    174.21026  
+ 
+ pr_t  =
+ 
+    1.9962842  
+ 
+ To4  =
+ 
+    1025.  
+ 
+ u  =
+ 
+    239.54847  
+ 
+ sig  =
+ 
+    0.4941197  
+ 
+ Ce  =
+ 
+    484.79847  
+ 
+ Cj  =
+ 
+    484.79847  
+ 
+ Te  =
+ 
+    908.06987  
+ 
+ Tes  =
+ 
+    911.57778  
+ 
+ pr_n  =
+ 
+    1.5279745  
+ 
+ ae  =
+ 
+    604.03847  
+ 
+ Me  =
+ 
+    0.8025954  
+ 
+ 
+(A)Fuel-air ratio is 0.02503 
+ (B)Compressor, turbine, nozzle pressure ratio are 4.344, 1.996, 1.53 respectively
+ (C)Mach number at exhaust jet is 0.803 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.8/8.sce #
+ 
+ 
+ 
+ 
+ m1  =
+ 
+    200.  
+ 
+ m2  =
+ 
+    130.  
+ 
+ m3  =
+ 
+    110.  
+ 
+ tp  =
+ 
+    3.  
+ 
+ Is  =
+ 
+    240.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ MR  =
+ 
+    0.65  
+ 
+ Mp  =
+ 
+    70.  
+ 
+ mp  =
+ 
+    23.333333  
+ 
+ wp  =
+ 
+    228.9  
+ 
+ IMF  =
+ 
+    0.2222222  
+ 
+ PMF  =
+ 
+    0.7777778  
+ 
+ F  =
+ 
+    54936.  
+ 
+ TWRi  =
+ 
+    28.  
+ 
+ TWRf  =
+ 
+    43.076923  
+ 
+ av  =
+ 
+    422.58462  
+ 
+ Cj  =
+ 
+    2354.4  
+ 
+ It  =
+ 
+    164.808  
+ 
+ IWR  =
+ 
+    186.66667  
+ 
+ 
+ 
+(A)mass ratio is 0.65 
+ (B)propellent mass fraction is 0.778 
+ (C)propellent flow rate is 23.3 kg/s
+ (D)thrust is 54936.0 N
+ (E)thrust to weight ratio is 28.00 (intial) and 43.08 (final)
+ (F)accelaration of the vechicle is 422.58 m/s^2
+ (G)effective exhaust velocity is 2354.4 m/s
+ (H)total impulse is 164.808 kN-s
+ (I)impulse to weighr ratio is 186.67 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.1.34/8_1_34.sce #
+ 
+ 
+ 
+ 
+ C  =
+ 
+    500.  
+ 
+ T  =
+ 
+    293.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a  =
+ 
+    343.11427  
+ 
+ M  =
+ 
+    1.4572405  
+ 
+ alp  =
+ 
+    43.332301  
+ 
+ 
+ 
+Mach angle is 43.332 degree 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.1.35/8_1_35.sce #
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    2.2  
+ 
+ Po  =
+ 
+    10.  
+ 
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.275  
+ 
+ p1  =
+ 
+    0.949  
+ 
+ P1  =
+ 
+    9.49  
+ 
+ 
+ M2  =
+ 
+    2.295  
+ 
+ p2  =
+ 
+    0.0806  
+ 
+ P2  =
+ 
+    0.806  
+ 
+ 
+ 
+(A)When M=0.275, back pressure is 9.49 bar
+ (B)When M=2.295, back pressure is 0.806 bar 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.1.37/8_1_37.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    0.8  
+ 
+ T  =
+ 
+    293.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ To  =
+ 
+    330.504  
+ 
+ To1  =
+ 
+    57.504  
+ 
+ 
+ 
+Temperature of air at nose of aircraft is 57.5 degree Centigrade 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.1.38/8_1_38.sce #
+ 
+ 
+ 
+ 
+ P  =
+ 
+    1.  
+ 
+ T  =
+ 
+    400.  
+ 
+ C  =
+ 
+    400.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ To  =
+ 
+    479.60199  
+ 
+ Poi  =
+ 
+    1.6968641  
+ 
+ Poc  =
+ 
+    1.8874413  
+ 
+ 
+ 
+(Stagnation Temperature is 479.6 K
+ (C)Stagnation Pressure:
+    If it is incompressible is 1.6969 bar
+    If it is compressible is 1.8874 bar 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.1.39/8_1_39.sce #
+ 
+ 
+ 
+ 
+ v1  =
+ 
+    8.  
+ 
+ P1  =
+ 
+    0.7  
+ 
+ v2  =
+ 
+    7.8  
+ 
+ P2  =
+ 
+    2.7  
+ 
+ 
+ 
+ k  =
+ 
+    78.99578  
+ 
+ 
+ 
+Bulk modulus of elasticity of a liquid is 78.996 MPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.1.40/8_1_40.sce #
+ 
+ 
+ 
+ 
+ To  =
+ 
+    288.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ Cmax  =
+ 
+    760.84164  
+ 
+ 
+ 
+Highest possible velocity is 760.84 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.3.10/8_3_10.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    0.25  
+ 
+ D  =
+ 
+    0.04  
+ 
+ f  =
+ 
+    0.002  
+ 
+ 
+ 
+ X  =
+ 
+    8.483  
+ 
+ Lmax  =
+ 
+    42.415  
+ 
+ 
+ 
+Length of the pipe is 42.415 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.3.15/8_3_15.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    3.  
+ 
+ D  =
+ 
+    0.04  
+ 
+ f  =
+ 
+    0.002  
+ 
+ 
+ 
+ X  =
+ 
+    0.522  
+ 
+ L  =
+ 
+    2.61  
+ 
+ 
+ 
+Lenggth of the pipe is 2.61 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.3.31/8_3_31.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    0.2  
+ 
+ To  =
+ 
+    393.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.174  
+ 
+ Tot  =
+ 
+    2258.6207  
+ 
+ q  =
+ 
+    1874.9488  
+ 
+ 
+ 
+Maximum amount of heat transfer is 1874.95 kJ/kg 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.3.32/8_3_32.sce #
+ 
+ 
+ 
+ 
+ p1  =
+ 
+    0.75  
+ 
+ Cp  =
+ 
+    1150.  
+ 
+ k  =
+ 
+    1.33  
+ 
+ 
+ 
+ ds  =
+ 
+    82.086727  
+ 
+ 
+ 
+Increase in entropy is 82.09 J/kg-K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.3.33/8_3_33.sce #
+ 
+ 
+ 
+ 
+ Mi  =
+ 
+    2.2  
+ 
+ T  =
+ 
+    373.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.508  
+ 
+ To  =
+ 
+    734.25197  
+ 
+ t2  =
+ 
+    0.756  
+ 
+ Tot  =
+ 
+    971.23276  
+ 
+ q  =
+ 
+    238.1657  
+ 
+ 
+ 
+Maximum amount of heat transfer is 238.1657 kJ/kg 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.5.16/8_5_16.sce #
+ 
+ 
+ 
+ 
+ Mx  =
+ 
+    1.5  
+ 
+ P  =
+ 
+    40.  
+ 
+ 
+ 
+ p1  =
+ 
+    3.413  
+ 
+ Poy  =
+ 
+    136.52  
+ 
+ 
+ 
+Pressure acting on front of the body is 136.5 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.5.17/8_5_17.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    2.  
+ 
+ 
+ 
+ p1  =
+ 
+    4.5  
+ 
+ e  =
+ 
+    3.5  
+ 
+ 
+ 
+Strength of shock wave is 3.5 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.5.20/8_5_20.sce #
+ 
+ 
+ 
+ 
+ Mx  =
+ 
+    7.  
+ 
+ P  =
+ 
+    2.  
+ 
+ T  =
+ 
+    330.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.72  
+ 
+ ds  =
+ 
+    94.280667  
+ 
+ 
+ 
+Irreversibility is 94.28 J/kg-K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.5.21/8_5_21.sce #
+ 
+ 
+ 
+ 
+ Px  =
+ 
+    45.  
+ 
+ T  =
+ 
+    253.  
+ 
+ Poy  =
+ 
+    395.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    8.7777778  
+ 
+ Mx  =
+ 
+    2.536  
+ 
+ Cx  =
+ 
+    808.56414  
+ 
+ 
+ 
+Mach number is 2.536
+ Air velocity is 808 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.5.22/8_5_22.sce #
+ 
+ 
+ 
+ 
+ Cx  =
+ 
+    750.  
+ 
+ Px  =
+ 
+    1.  
+ 
+ Tx  =
+ 
+    283.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ Mx  =
+ 
+    2.2241449  
+ 
+ My  =
+ 
+    0.545  
+ 
+ t1  =
+ 
+    1.875  
+ 
+ Ty  =
+ 
+    530.625  
+ 
+ p1  =
+ 
+    5.583  
+ 
+ Py  =
+ 
+    5.583  
+ 
+ Cy  =
+ 
+    251.64907  
+ 
+ 
+ 
+Downstream of shock:
+    Velocity is 251.649 m/s
+    Pressure is 5.583 bar
+    Temperature is 530.625 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.6.41/8_6_41.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ sig  =
+ 
+    0.5  
+ 
+ eff_max  =
+ 
+    0.6666667  
+ 
+ 
+ 
+Propulsive efficiency for optimum thrust power is 0.667 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.6.42/8_6_42.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    333.33333  
+ 
+ Cj  =
+ 
+    800.  
+ 
+ 
+ 
+ sig  =
+ 
+    0.4166667  
+ 
+ eff  =
+ 
+    58.823529  
+ 
+ 
+ 
+Propulsive efficiency is 58.8 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.7.42/8_7_42.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    5.  
+ 
+ Pamb  =
+ 
+    1.013  
+ 
+ Pe  =
+ 
+    1.02  
+ 
+ D  =
+ 
+    0.1  
+ 
+ Ce  =
+ 
+    1400.  
+ 
+ 
+ 
+ Ae  =
+ 
+    0.0078540  
+ 
+ F  =
+ 
+    7000.0001  
+ 
+ 
+ 
+Thrust is 7000 N 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.7.44/8_7_44.sce #
+ 
+ 
+ 
+ 
+ Is  =
+ 
+    230.  
+ 
+ m  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ F  =
+ 
+    2256.3  
+ 
+ 
+ 
+Thrust is 2256.3 N 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.7.45/8_7_45.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    1500.  
+ 
+ eff  =
+ 
+    0.75  
+ 
+ 
+ 
+ 
+ sig  =
+ 
+    0.4514162  
+ 
+ Cj  =
+ 
+    3322.8757  
+ 
+ 
+ 
+Jet velocity is 3322.88 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.7.46/8_7_46.sce #
+ 
+ 
+ 
+ 
+ Cj  =
+ 
+    2700.  
+ 
+ u  =
+ 
+    1350.  
+ 
+ m  =
+ 
+    78.6  
+ 
+ 
+ 
+ F  =
+ 
+    212.22  
+ 
+ P  =
+ 
+    286.497  
+ 
+ sig  =
+ 
+    0.5  
+ 
+ eff  =
+ 
+    80.  
+ 
+ 
+ 
+Thrust is 212.2 kN
+ Thrust power is 286.50 MW
+ Propulsive efficiency is  80 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.7.47/8_7_47.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    12683000.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ h  =
+ 
+    500000.  
+ 
+ 
+ 
+ Uorb  =
+ 
+    7593.6545  
+ 
+ Uesc  =
+ 
+    10739.049  
+ 
+ 
+ 
+Orbital velocity is 7593.65 m/s
+ Escape velocity is 10739.05 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH8/EX8.7.48/8_7_48.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    2800.  
+ 
+ Cj  =
+ 
+    1400.  
+ 
+ m  =
+ 
+    5.  
+ 
+ 
+ 
+ F  =
+ 
+    7.  
+ 
+ P  =
+ 
+    19.6  
+ 
+ sig  =
+ 
+    2.  
+ 
+ eff  =
+ 
+    0.8  
+ 
+ 
+ 
+Propulsive power is 19.6 MW
+ Propulsive efficiency is 0.8 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.9/9.sce #
+ 
+ 
+ 
+ 
+ V1  =
+ 
+    0.5  
+ 
+ P  =
+ 
+    3000.  
+ 
+ dv  =
+ 
+    0.6  
+ 
+ K  =
+ 
+    20000.  
+ 
+ 
+ 
+ m1  =
+ 
+    500.  
+ 
+ Vr  =
+ 
+    0.075  
+ 
+ Vi  =
+ 
+    0.003  
+ 
+ V  =
+ 
+    0.078  
+ 
+ m  =
+ 
+    78.  
+ 
+ mt  =
+ 
+    578.  
+ 
+ 
+ 
+Mass of water to be pumped into the vesel to obtain the desired pressure is 578 lit 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.9/9.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    2.45  
+ 
+ T1  =
+ 
+    299.5  
+ 
+ M1  =
+ 
+    1.4  
+ 
+ M2  =
+ 
+    2.5  
+ 
+ k  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    469.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.773  
+ 
+ To  =
+ 
+    387.45149  
+ 
+ t2  =
+ 
+    0.516  
+ 
+ T2  =
+ 
+    199.92497  
+ 
+ C2  =
+ 
+    872.83394  
+ 
+ a1  =
+ 
+    427.32324  
+ 
+ G  =
+ 
+    1043.4724  
+ 
+ 
+ 
+(A)Stagnation temperature is 387.45 K
+ (B)At Exit:
+    Temperature is 199.925 K
+    Velocity is 872.83 m/s
+ (C)Flow rate per square meter of the inlet cross section is 1043.47 kg/s-m^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.9/9.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    8.25  
+ 
+ M1  =
+ 
+    0.15  
+ 
+ M2  =
+ 
+    0.5  
+ 
+ P1  =
+ 
+    345.  
+ 
+ T1  =
+ 
+    311.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    0.287  
+ 
+ 
+ 
+ d1  =
+ 
+    3.8652431  
+ 
+ a1  =
+ 
+    353.49653  
+ 
+ C1  =
+ 
+    53.02448  
+ 
+ A1  =
+ 
+    0.0402532  
+ 
+ D  =
+ 
+    226.38905  
+ 
+ p1  =
+ 
+    7.3195  
+ 
+ Pt  =
+ 
+    47.134367  
+ 
+ t1  =
+ 
+    1.1945  
+ 
+ Tt  =
+ 
+    260.35998  
+ 
+ c1  =
+ 
+    0.164  
+ 
+ Ct  =
+ 
+    323.32  
+ 
+ p2  =
+ 
+    0.984  
+ 
+ Po1  =
+ 
+    350.60976  
+ 
+ p3  =
+ 
+    3.928  
+ 
+ Pot  =
+ 
+    89.259103  
+ 
+ X1  =
+ 
+    28.354  
+ 
+ p5  =
+ 
+    2.138  
+ 
+ P2  =
+ 
+    100.77328  
+ 
+ t2  =
+ 
+    1.143  
+ 
+ T2  =
+ 
+    297.59146  
+ 
+ c2  =
+ 
+    0.534  
+ 
+ C2  =
+ 
+    172.65288  
+ 
+ p6  =
+ 
+    1.34  
+ 
+ Po2  =
+ 
+    119.6072  
+ 
+ SPL  =
+ 
+    231.00256  
+ 
+ X2  =
+ 
+    1.069  
+ 
+ X3  =
+ 
+    27.285  
+ 
+ L  =
+ 
+    308.85126  
+ 
+ 
+ 
+ a2  =
+ 
+    345.7922  
+ 
+ M2_v  =
+ 
+    0.4992966  
+ 
+ 
+ 
+(A)Length of the duct is 308.85 m
+ (B)Diameter of the duct is 226 mm
+ (C)Pressure and diameter at exit are 100.77 kPa, and 226 mm respectively
+ (D)Stagnation Pressure lose is 231 kPa
+ (E)Using exit velocity 172.65 m/s, temperature 297.59 K Mach number is found to be 0.50 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.9/9.sce #
+ 
+ 
+ 
+ 
+ M2  =
+ 
+    0.8  
+ 
+ t1  =
+ 
+    4.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ 
+ 
+ t2  =
+ 
+    0.964  
+ 
+ t3  =
+ 
+    0.241  
+ 
+ M1  =
+ 
+    0.24  
+ 
+ t5  =
+ 
+    0.988  
+ 
+ To1  =
+ 
+    291.49798  
+ 
+ To2  =
+ 
+    1165.9919  
+ 
+ Tot  =
+ 
+    1209.5352  
+ 
+ q  =
+ 
+    878.8664  
+ 
+ qmax  =
+ 
+    922.62738  
+ 
+ t6  =
+ 
+    0.9775  
+ 
+ To3  =
+ 
+    1182.3206  
+ 
+ q_req  =
+ 
+    895.27677  
+ 
+ 
+ 
+(A)Heat added per kg of air flow is 878.87 kJ/kg
+ (B)Maximum possible heat transfer is 922.63 kJ/kg
+ (C)Heat transfer required to get maximum static temperature is 895.3 kJ/kg 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.9/9.sce #
+ 
+ 
+ 
+ 
+ Mx  =
+ 
+    3.  
+ 
+ Tx  =
+ 
+    300.  
+ 
+ Px  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ My  =
+ 
+    0.475  
+ 
+ p1  =
+ 
+    10.333  
+ 
+ Py  =
+ 
+    10.333  
+ 
+ t1  =
+ 
+    2.679  
+ 
+ Ty  =
+ 
+    803.7  
+ 
+ p2  =
+ 
+    12.061  
+ 
+ Poy  =
+ 
+    12.061  
+ 
+ p3  =
+ 
+    0.328  
+ 
+ Pox  =
+ 
+    36.771341  
+ 
+ ay  =
+ 
+    568.26636  
+ 
+ Cy  =
+ 
+    269.92652  
+ 
+ ds  =
+ 
+    319.93086  
+ 
+ e  =
+ 
+    9.333  
+ 
+ 
+ 
+(I)Downstream of the shock:
+    (A)Pressure is 10.333 bar
+    (B)Temperature is 803.7 K
+    (C)Gas velocity is 269.93 m/s
+    (D)Mach number is 0.475
+ (II)Total head pressure ratio is 0.328
+ (III)Entropy change across the shock is 319.931 J/kg-K
+ (IV)Strength of the shock is 9.333 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.9/9.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    2.5  
+ 
+ u  =
+ 
+    138.88889  
+ 
+ h  =
+ 
+    8000.  
+ 
+ sig  =
+ 
+    0.75  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ d  =
+ 
+    0.525  
+ 
+ A  =
+ 
+    4.9087385  
+ 
+ Cj  =
+ 
+    185.18519  
+ 
+ Vf  =
+ 
+    162.03704  
+ 
+ ma  =
+ 
+    417.58366  
+ 
+ F  =
+ 
+    19.332577  
+ 
+ P  =
+ 
+    2685.0801  
+ 
+ Fs  =
+ 
+    46.296296  
+ 
+ Is  =
+ 
+    4.7192963  
+ 
+ 
+ 
+(A)Flow rate of air through the propeller is 417.584 m/s
+ (B)Thrust produced is 19.333 kN
+ (C)Specific thrust is 46.30 N-s/kg
+ (D)Specific impulse is 4.719 sec
+ (E)Thrust power is 2685.1 kW 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.9/9.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    2800.  
+ 
+ Cj  =
+ 
+    1400.  
+ 
+ mp  =
+ 
+    5.  
+ 
+ q  =
+ 
+    6500.  
+ 
+ 
+ 
+ s  =
+ 
+    2.  
+ 
+ np  =
+ 
+    0.8  
+ 
+ F  =
+ 
+    7.  
+ 
+ Pt  =
+ 
+    19.6  
+ 
+ Pe  =
+ 
+    24.5  
+ 
+ nth  =
+ 
+    0.7538462  
+ 
+ no  =
+ 
+    0.6030769  
+ 
+ 
+ 
+(A)propulsive efficiency is 0.8 
+ (B)propulsive power is 19.6 MW
+ (C)engine outut is 24.5 MW
+ (D)thermal efficiency is 0.7538 
+ (E)overall efficiency is 0.603 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.10/10.sce #
+ 
+ 
+ 
+ 
+ SG_oil  =
+ 
+    0.8  
+ 
+ K_oil  =
+ 
+    1.530D+09  
+ 
+ K_hg  =
+ 
+    2.649D+10  
+ 
+ d_steel  =
+ 
+    7860.  
+ 
+ E_steel  =
+ 
+    2.000D+11  
+ 
+ d_hg  =
+ 
+    13600.  
+ 
+ d_water  =
+ 
+    1000.  
+ 
+ 
+ 
+ d_oil  =
+ 
+    800.  
+ 
+ a_oil  =
+ 
+    1383.0944  
+ 
+ a_hg  =
+ 
+    1395.5549  
+ 
+ a_steel  =
+ 
+    5044.3327  
+ 
+ 
+ 
+(A)Sonic velocity of crude oil is 1383.09 m/s
+ (B)Sonic velocity of mercury is 1395.55 m/s
+ (A)Sonic velocity of steel is 5044.3 m/s
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.10/10.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    1000.  
+ 
+ To  =
+ 
+    800.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ M2  =
+ 
+    2.  
+ 
+ At  =
+ 
+    20.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    667.2  
+ 
+ at  =
+ 
+    517.76535  
+ 
+ Ct  =
+ 
+    517.76535  
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    528.  
+ 
+ dt  =
+ 
+    2.757376  
+ 
+ m  =
+ 
+    2.8553475  
+ 
+ p2  =
+ 
+    0.128  
+ 
+ P2  =
+ 
+    128.  
+ 
+ t2  =
+ 
+    0.555  
+ 
+ T2  =
+ 
+    444.  
+ 
+ a2  =
+ 
+    1.687  
+ 
+ A2  =
+ 
+    33.74  
+ 
+ C2  =
+ 
+    844.74659  
+ 
+ d2  =
+ 
+    1.0044888  
+ 
+ 
+ 
+(A)At throat:
+    Temperature is 667.2 K
+    Velocity is 517.77 m/s
+    Pressure is 528 kPa
+ (B)At Exit:
+    Temperature is 444 K
+    Pressure is 128 kPa
+    Area is 33.74 m^2
+    Mass flow rate is 2.8553 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.10/10.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.25  
+ 
+ f  =
+ 
+    0.0025  
+ 
+ D  =
+ 
+    0.15  
+ 
+ p1  =
+ 
+    0.8  
+ 
+ M3  =
+ 
+    0.8  
+ 
+ 
+ 
+ p2  =
+ 
+    2.4065  
+ 
+ X1  =
+ 
+    8.537  
+ 
+ p3  =
+ 
+    1.9252  
+ 
+ M2  =
+ 
+    0.32  
+ 
+ X2  =
+ 
+    4.447  
+ 
+ L1  =
+ 
+    128.055  
+ 
+ L2  =
+ 
+    66.705  
+ 
+ L  =
+ 
+    61.35  
+ 
+ p4  =
+ 
+    1.038  
+ 
+ PL  =
+ 
+    56.866819  
+ 
+ 
+ 
+(A)Length of the pipe is 61.35 m
+ (B)Mach number at this exit is 0.32
+ (C)Percentage of stagnation pressure from inlet to section at which M=0.8 is 56.87 percent
+ (D)Maximum length to reach choking condition is 128.055 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.10/10.sce #
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    560.  
+ 
+ P1  =
+ 
+    0.6  
+ 
+ C1  =
+ 
+    75.  
+ 
+ mp  =
+ 
+    30.  
+ 
+ CV  =
+ 
+    92000.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    474.35008  
+ 
+ M1  =
+ 
+    0.1581111  
+ 
+ t1  =
+ 
+    0.9949  
+ 
+ To1  =
+ 
+    562.87064  
+ 
+ p1  =
+ 
+    0.982  
+ 
+ Po1  =
+ 
+    0.6109980  
+ 
+ q  =
+ 
+    2967.7419  
+ 
+ p2  =
+ 
+    2.317  
+ 
+ Pt  =
+ 
+    0.2589555  
+ 
+ p3  =
+ 
+    1.246  
+ 
+ Pot  =
+ 
+    0.4903675  
+ 
+ t2  =
+ 
+    0.137  
+ 
+ Tt  =
+ 
+    4087.5912  
+ 
+ t3  =
+ 
+    0.115  
+ 
+ Tot  =
+ 
+    4894.5273  
+ 
+ To2  =
+ 
+    3515.8477  
+ 
+ t4  =
+ 
+    0.7183222  
+ 
+ M2  =
+ 
+    0.33  
+ 
+ p4  =
+ 
+    2.0825  
+ 
+ P2  =
+ 
+    0.5392749  
+ 
+ p5  =
+ 
+    1.186  
+ 
+ Po2  =
+ 
+    0.5815759  
+ 
+ t5  =
+ 
+    0.472  
+ 
+ T2  =
+ 
+    1929.3431  
+ 
+ C2  =
+ 
+    290.55184  
+ 
+ SPL  =
+ 
+    4.8154093  
+ 
+ 
+ 
+(A)At exit:
+    Pressure is 0.53927 bar 
+    Temperature is 1929 K 
+    Velocity is 290.55 m/s 
+    Mach number is 0.33 
+ (B)Maximum stagnation temperature available is 4894.53 K
+ (C)Percentage of pressure loss in combustion chamber is 4.8 percent
+ (D)Intial Mach number is 0.16 
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.10/10.sce #
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    0.4  
+ 
+ p1  =
+ 
+    0.8  
+ 
+ At  =
+ 
+    1.  
+ 
+ 
+ 
+ a2  =
+ 
+    2.5  
+ 
+ 
+ a2p2  =
+ 
+    2.  
+ 
+ M2  =
+ 
+    0.28  
+ 
+ a3  =
+ 
+    2.166  
+ 
+ p2  =
+ 
+    0.947  
+ 
+ p3  =
+ 
+    1.1542013  
+ 
+ Mx  =
+ 
+    1.675  
+ 
+ My  =
+ 
+    0.647  
+ 
+ a4  =
+ 
+    1.14  
+ 
+ a5  =
+ 
+    1.315  
+ 
+ Ax  =
+ 
+    1.315  
+ 
+ 
+ 
+(A)Mach number across the shock: Mx=1.675 (My=0.647)
+ (B)Area at shock is 1.315 m^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.10/10.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    3000.  
+ 
+ Pi  =
+ 
+    0.701  
+ 
+ Ti  =
+ 
+    268.65  
+ 
+ u  =
+ 
+    145.83333  
+ 
+ eff_d  =
+ 
+    0.875  
+ 
+ eff_c  =
+ 
+    0.79  
+ 
+ C1  =
+ 
+    90.  
+ 
+ dTc  =
+ 
+    230.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ai  =
+ 
+    328.54767  
+ 
+ Mi  =
+ 
+    0.4438727  
+ 
+ Toi  =
+ 
+    279.23604  
+ 
+ To1  =
+ 
+    279.23604  
+ 
+ T1  =
+ 
+    275.20619  
+ 
+ P1  =
+ 
+    0.7548047  
+ 
+ dPc  =
+ 
+    0.0538047  
+ 
+ pr_c  =
+ 
+    5.7788601  
+ 
+ P  =
+ 
+    231150.  
+ 
+ eff  =
+ 
+    0.3941979  
+ 
+ 
+ 
+(A)Pressure rise through diffuser is 0.0538 bar
+ (B)Pressure developed by compressure is 0.7548 bar
+ (C)Air standard efficiency of the engine is 0.3942 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.10/10.sce #
+ 
+ 
+ 
+ 
+ Cj  =
+ 
+    1250.  
+ 
+ s  =
+ 
+    0.8  
+ 
+ ma  =
+ 
+    3.5  
+ 
+ mf  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ q  =
+ 
+    2500000.  
+ 
+ 
+ 
+ u  =
+ 
+    1000.  
+ 
+ mp  =
+ 
+    4.5  
+ 
+ F  =
+ 
+    5.625  
+ 
+ wp  =
+ 
+    44.145  
+ 
+ Is  =
+ 
+    127.421  
+ 
+ np  =
+ 
+    0.9756098  
+ 
+ nth  =
+ 
+    0.5125  
+ 
+ no  =
+ 
+    0.5  
+ 
+ 
+ 
+(A)thrust is 5.625 kN
+ (B)specific impulse is 127.42 sec
+ (C)propulsive efficiency is 0.9756 
+ (D)thermal efficiency is 0.5125 
+ (E)overall efficiency is 0.5 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.11/11.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    293.  
+ 
+ Cp_fr  =
+ 
+    678.  
+ 
+ Cv_fr  =
+ 
+    543.  
+ 
+ T_air  =
+ 
+    273.  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ mol_h  =
+ 
+    2.  
+ 
+ mol_water  =
+ 
+    18.  
+ 
+ R_air  =
+ 
+    287.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ k_water  =
+ 
+    1.3  
+ 
+ 
+ 
+ R_h  =
+ 
+    4157.  
+ 
+ a_h  =
+ 
+    1305.8336  
+ 
+ R_water  =
+ 
+    461.88889  
+ 
+ a_water  =
+ 
+    419.44425  
+ 
+ k_fr  =
+ 
+    1.2486188  
+ 
+ R_fr  =
+ 
+    135.  
+ 
+ a_fr  =
+ 
+    222.23662  
+ 
+ a_air  =
+ 
+    331.19692  
+ 
+ 
+ 
+(A)Velocity of sound in hydrogen is 1305.83 m/s
+ (B)Velocity of sound in water vapour is 419.44 m/s
+ (C)Velocity of sound in freon is 222.24 m/s
+ (D)Sonic Velocity of air at 273 K is 331.1969 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.11/11.sce #
+ 
+ 
+ 
+ 
+ M2  =
+ 
+    2.  
+ 
+ At  =
+ 
+    1000.  
+ 
+ Po  =
+ 
+    0.69  
+ 
+ To  =
+ 
+    310.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ 
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    258.54  
+ 
+ at  =
+ 
+    322.30633  
+ 
+ Ct  =
+ 
+    322.30633  
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    0.36432  
+ 
+ dt  =
+ 
+    0.4909908  
+ 
+ m  =
+ 
+    15.824945  
+ 
+ p2  =
+ 
+    0.128  
+ 
+ P2  =
+ 
+    0.08832  
+ 
+ t2  =
+ 
+    0.555  
+ 
+ T2  =
+ 
+    172.05  
+ 
+ C2  =
+ 
+    525.85051  
+ 
+ d2  =
+ 
+    0.1788638  
+ 
+ A2  =
+ 
+    1682.5091  
+ 
+ P  =
+ 
+    2193.9664  
+ 
+ 
+ 
+(A)At throat:
+    Temperature is 258.54 K
+    Velocity is 322.31 m/s
+    Pressure is 0.364 bar
+    At Test section:
+    Temperature is 172.05 K
+    Velocity is 525.851 m/s
+    Pressure is 0.088 bar
+ (B)Area of cross section at test section is 1682 cm^2
+ (C)Mass flow rate is 15.825 kg/s
+ (D)Power required to drive the compressor is 2193.97 kW 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.11/11.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.3  
+ 
+ P1  =
+ 
+    10.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ M1  =
+ 
+    3.  
+ 
+ M2  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    287.  
+ 
+ f  =
+ 
+    0.002  
+ 
+ 
+ 
+ p1  =
+ 
+    0.233  
+ 
+ Pt  =
+ 
+    42.918455  
+ 
+ t1  =
+ 
+    0.489  
+ 
+ Tt  =
+ 
+    817.99591  
+ 
+ X1  =
+ 
+    0.628  
+ 
+ L1  =
+ 
+    23.55  
+ 
+ d_t  =
+ 
+    18.281467  
+ 
+ at  =
+ 
+    552.44391  
+ 
+ Ct  =
+ 
+    552.44391  
+ 
+ At  =
+ 
+    0.0706858  
+ 
+ m  =
+ 
+    713.89055  
+ 
+ 
+ 
+(A)Length of the pipe is 23.55 m
+ (B)Mass flow rate is 713.891 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.11/11.sce #
+ 
+ 
+ 
+ 
+ To1  =
+ 
+    473.  
+ 
+ To2  =
+ 
+    673.  
+ 
+ M1  =
+ 
+    0.5  
+ 
+ 
+ 
+ t1  =
+ 
+    0.6914  
+ 
+ p1  =
+ 
+    1.7778  
+ 
+ t2  =
+ 
+    0.9837467  
+ 
+ M2  =
+ 
+    0.867  
+ 
+ p2  =
+ 
+    1.16  
+ 
+ p  =
+ 
+    0.6524918  
+ 
+ PL  =
+ 
+    34.750816  
+ 
+ 
+ 
+(A)Mach number is 0.867
+ (B)Percentage drop in pressure is 34.8 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.11/11.sce #
+ 
+ 
+ 
+ 
+ a1  =
+ 
+    0.3333333  
+ 
+ p1  =
+ 
+    0.4  
+ 
+ 
+ 
+ a2  =
+ 
+    3.  
+ 
+ 
+ a2p2  =
+ 
+    1.2  
+ 
+ M2  =
+ 
+    0.472  
+ 
+ a3  =
+ 
+    1.397  
+ 
+ p2  =
+ 
+    0.858  
+ 
+ p3  =
+ 
+    0.4656667  
+ 
+ Mx  =
+ 
+    2.58  
+ 
+ My  =
+ 
+    0.506  
+ 
+ p4  =
+ 
+    9.145  
+ 
+ a4  =
+ 
+    2.842  
+ 
+ p5  =
+ 
+    0.051  
+ 
+ 
+ 
+At section where shock occurs:
+    (A)Mach number Mx=2.58 and My=0.506
+    (B)Static Pressure is 0.051*Po1 (units depend on Po1)
+    (C)Area of cross section is 2.842*At (units depend on At) 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.11/11.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    9500.  
+ 
+ u  =
+ 
+    222.22222  
+ 
+ eff_prop  =
+ 
+    0.55  
+ 
+ eff_o  =
+ 
+    0.17  
+ 
+ F  =
+ 
+    6100.  
+ 
+ d  =
+ 
+    0.17  
+ 
+ CV  =
+ 
+    46000.  
+ 
+ 
+ 
+ mf  =
+ 
+    0.1733447  
+ 
+ Cj  =
+ 
+    585.85859  
+ 
+ Ca  =
+ 
+    363.63636  
+ 
+ ma  =
+ 
+    16.495722  
+ 
+ m  =
+ 
+    16.669067  
+ 
+ f  =
+ 
+    95.161389  
+ 
+ Q  =
+ 
+    98.053336  
+ 
+ Dj  =
+ 
+    461.62556  
+ 
+ P  =
+ 
+    2464.6465  
+ 
+ 
+ 
+(A)Diamter of the jet is 461.6 mm
+ (B)Power output is 2464.6 kW
+ (C)Air-fuel ratio is 95.161
+ (D)Absolute velocity of the jet is 363 m/s
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.11/11.sce #
+ 
+ 
+ 
+ 
+ mp  =
+ 
+    193.  
+ 
+ P1  =
+ 
+    2700000.  
+ 
+ T1  =
+ 
+    3000.  
+ 
+ de  =
+ 
+    0.6  
+ 
+ Pe  =
+ 
+    110000.  
+ 
+ Pamb  =
+ 
+    101300.  
+ 
+ F  =
+ 
+    380000.  
+ 
+ u  =
+ 
+    694.44  
+ 
+ g  =
+ 
+    9.81  
+ 
+ q  =
+ 
+    6500000.  
+ 
+ 
+ 
+ Ae  =
+ 
+    0.2827433  
+ 
+ Cj  =
+ 
+    1968.9119  
+ 
+ Ce  =
+ 
+    1956.1665  
+ 
+ wp  =
+ 
+    1893.33  
+ 
+ Is  =
+ 
+    200.70458  
+ 
+ SPC  =
+ 
+    4.9824474  
+ 
+ Pt  =
+ 
+    263.8872  
+ 
+ Pl  =
+ 
+    156.74289  
+ 
+ Pe  =
+ 
+    420.63009  
+ 
+ np  =
+ 
+    0.6273617  
+ 
+ nth  =
+ 
+    0.335297  
+ 
+ no  =
+ 
+    0.2103525  
+ 
+ 
+ 
+(A)effective jet velocity is 1968.9119 m/s
+ (B)Actual jet velocity is 1956.1665 m/s
+ (C)specific impulse is 200.7 sec
+ (D)specific propellent consumption is 4.9824*10^-3 sec^-1
+ (E)propulsive efficiency is 0.62736 
+ (D)thermal efficiency is 0.335 
+ (E)overall efficiency is 0.21035 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.12/12.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    0.85  
+ 
+ P  =
+ 
+    80.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ Po  =
+ 
+    128.3055  
+ 
+ 
+ 
+The highest pressure acting on the surface of the body is 128.3 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.12/12.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    10.  
+ 
+ To  =
+ 
+    373.  
+ 
+ m  =
+ 
+    15.  
+ 
+ P2s  =
+ 
+    1.  
+ 
+ eff  =
+ 
+    0.95  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    311.082  
+ 
+ at  =
+ 
+    353.54313  
+ 
+ Ct  =
+ 
+    353.54313  
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    5.28  
+ 
+ dt  =
+ 
+    5.9139431  
+ 
+ At  =
+ 
+    71.741707  
+ 
+ p2  =
+ 
+    0.1  
+ 
+ M2s  =
+ 
+    2.15  
+ 
+ t2  =
+ 
+    0.519  
+ 
+ T2s  =
+ 
+    193.587  
+ 
+ a2s  =
+ 
+    278.8965  
+ 
+ C2s  =
+ 
+    599.62747  
+ 
+ d2s  =
+ 
+    1.7998732  
+ 
+ A2s  =
+ 
+    138.98497  
+ 
+ 
+ T2  =
+ 
+    202.55765  
+ 
+ C2  =
+ 
+    585.31113  
+ 
+ P2  =
+ 
+    1.  
+ 
+ d2  =
+ 
+    1.7201624  
+ 
+ A2  =
+ 
+    148.98242  
+ 
+ 
+ 
+(A)The nozzle cross section at throat in both cases is 71.74 cm^2
+ (B)The nozzle cross section at exit in case I is 138.985 cm^2 and in case II is 148.98 cm^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.12/12.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    0.25  
+ 
+ f  =
+ 
+    0.01  
+ 
+ D  =
+ 
+    0.15  
+ 
+ p1  =
+ 
+    0.9  
+ 
+ ds  =
+ 
+    190.  
+ 
+ k  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p2  =
+ 
+    2.4064  
+ 
+ X1  =
+ 
+    8.537  
+ 
+ p3  =
+ 
+    2.16576  
+ 
+ M2  =
+ 
+    0.28  
+ 
+ X2  =
+ 
+    6.357  
+ 
+ X3  =
+ 
+    2.18  
+ 
+ L1  =
+ 
+    8.175  
+ 
+ p4  =
+ 
+    1.9387063  
+ 
+ p5  =
+ 
+    0.4642271  
+ 
+ M3  =
+ 
+    0.56  
+ 
+ X4  =
+ 
+    0.674  
+ 
+ X5  =
+ 
+    7.863  
+ 
+ L2  =
+ 
+    29.48625  
+ 
+ 
+ 
+(A)Length of the pipe is 8.175 m
+ (B)Length of the pipe would require to rise entropy by 190 J/kg-K is 29.48625 m
+ (C)Mach number is 0.56 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.12/12.sce #
+ 
+ 
+ 
+ 
+ t1  =
+ 
+    3.  
+ 
+ M2  =
+ 
+    0.8  
+ 
+ 
+ 
+ t2  =
+ 
+    0.964  
+ 
+ p1  =
+ 
+    1.266  
+ 
+ t3  =
+ 
+    0.3213333  
+ 
+ M1  =
+ 
+    0.29  
+ 
+ p2  =
+ 
+    2.147  
+ 
+ p  =
+ 
+    0.5896600  
+ 
+ PL  =
+ 
+    41.034001  
+ 
+ 
+ 
+(A)Mach number at entry is 0.29
+ (B)Percentage loss in static pressure is  41 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.12/12.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    300.  
+ 
+ To  =
+ 
+    500.  
+ 
+ At  =
+ 
+    1.  
+ 
+ Ax  =
+ 
+    2.  
+ 
+ Ay  =
+ 
+    2.  
+ 
+ A2  =
+ 
+    3.  
+ 
+ 
+ 
+ a1  =
+ 
+    2.  
+ 
+ Mx  =
+ 
+    2.2  
+ 
+ p1  =
+ 
+    0.0935  
+ 
+ Px  =
+ 
+    28.05  
+ 
+ t1  =
+ 
+    0.5  
+ 
+ Tx  =
+ 
+    250.  
+ 
+ My  =
+ 
+    0.547  
+ 
+ p2  =
+ 
+    5.48  
+ 
+ Py  =
+ 
+    153.714  
+ 
+ t2  =
+ 
+    1.857  
+ 
+ Ty  =
+ 
+    464.25  
+ 
+ p3  =
+ 
+    6.716  
+ 
+ Poy  =
+ 
+    188.3838  
+ 
+ Po2  =
+ 
+    188.3838  
+ 
+ t3  =
+ 
+    0.943  
+ 
+ Toy  =
+ 
+    492.31177  
+ 
+ To2  =
+ 
+    492.31177  
+ 
+ a2  =
+ 
+    1.255  
+ 
+ Aty  =
+ 
+    1.5936255  
+ 
+ At2  =
+ 
+    1.5936255  
+ 
+ a3  =
+ 
+    1.8825  
+ 
+ M2  =
+ 
+    0.33  
+ 
+ p4  =
+ 
+    0.927  
+ 
+ P2  =
+ 
+    174.63178  
+ 
+ t4  =
+ 
+    0.978  
+ 
+ T2  =
+ 
+    481.48091  
+ 
+ 
+ 
+(A)Pressure at section (x) Px=28.05 kPa
+ (B)Pressure at section (y) Px=153.714 kPa
+ (C)Stagnation pressure at section (y) Poy=188.38 kPa
+ (D)Throat area of cross section at section (y) Aty=1.5936 m^2
+ (E)Stagnation pressure at exit Po2=188.38 kPa
+ (F)Throat area of cross section at exit At2=1.5936 m^2
+ (G)Static Pressure at exit P2=174.63 kPa
+ (H)Stagantion temperature at exit To2=492 K
+ (I)Temperature at exit T2=481 k 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.12/12.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    266.66667  
+ 
+ ma  =
+ 
+    40.  
+ 
+ AFR  =
+ 
+    50.  
+ 
+ sig  =
+ 
+    0.5  
+ 
+ CV  =
+ 
+    43000.  
+ 
+ 
+ 
+ mf  =
+ 
+    0.8  
+ 
+ m  =
+ 
+    40.8  
+ 
+ Cj  =
+ 
+    533.33333  
+ 
+ F  =
+ 
+    11.093333  
+ 
+ Fs  =
+ 
+    271.89542  
+ 
+ Pt  =
+ 
+    2958.2222  
+ 
+ eff_prop  =
+ 
+    66.666667  
+ 
+ eff_ther  =
+ 
+    12.651163  
+ 
+ eff  =
+ 
+    8.4341085  
+ 
+ TSFC  =
+ 
+    0.2596154  
+ 
+ 
+ 
+(A)Jet velocity is 533.3 m/s
+ (B)Thrust is 11.093 kN
+ (C)Specific thrust is 271.90 N-s/kg
+ (D)Thrust power is 2958.22 kW
+ (E)propulsive, thermal and overall efficiency is 66.67, 12.65 and 8.434 respectively
+ (F)Thrust specific fuel consumption is 0.2596 kg/Nhr 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.12/12.sce #
+ 
+ 
+ 
+ 
+ m1  =
+ 
+    3600.  
+ 
+ Cj  =
+ 
+    2070.  
+ 
+ tp  =
+ 
+    80.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ up  =
+ 
+    4140.  
+ 
+ MR  =
+ 
+    0.0926311  
+ 
+ m2  =
+ 
+    333.47193  
+ 
+ PMF  =
+ 
+    0.9073689  
+ 
+ Mp  =
+ 
+    3266.5281  
+ 
+ mp  =
+ 
+    40.831601  
+ 
+ F  =
+ 
+    84.521414  
+ 
+ Zp  =
+ 
+    93.987129  
+ 
+ Zc  =
+ 
+    873.57798  
+ 
+ Z  =
+ 
+    967.56511  
+ 
+ 
+ 
+(A)flow rate of propellent is 40.83 kg/s
+ (B)thrust developed is 84.521 kN
+ (C)altitude gains during powered and coasting flights are 93.987 km and 873.578 km respectively 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.13/13.sce #
+ 
+ 
+ 
+ 
+ P  =
+ 
+    96.  
+ 
+ T  =
+ 
+    300.  
+ 
+ dP  =
+ 
+    32.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ d  =
+ 
+    1.1149826  
+ 
+ Ci  =
+ 
+    239.58297  
+ 
+ pr  =
+ 
+    0.3333333  
+ 
+ p1  =
+ 
+    1.3333333  
+ 
+ M  =
+ 
+    0.6544745  
+ 
+ Cc  =
+ 
+    227.22614  
+ 
+ 
+ 
+(A)Air velocity in incompressible flow is 239.6 m/s
+ (B)Air velocity if flow is compressible is 227.226 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.13/13.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    600.  
+ 
+ To  =
+ 
+    313.  
+ 
+ P2  =
+ 
+    100.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.1666667  
+ 
+ M2  =
+ 
+    1.82  
+ 
+ ar  =
+ 
+    1.461  
+ 
+ t1  =
+ 
+    0.602  
+ 
+ T2  =
+ 
+    188.426  
+ 
+ C2  =
+ 
+    500.77976  
+ 
+ p2  =
+ 
+    3.698  
+ 
+ Py  =
+ 
+    369.8  
+ 
+ 
+ 
+(A)Ratio of nozzle exit area to nozzle throat area is 1.461
+ (B)The discharge velocity from nozzle is 500.78 m/s
+ (C)The back pressure at which normal shock acts at the exit plane of the nozzle is 369.8 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.13/13.sce #
+ 
+ 
+ 
+ 
+ Po1  =
+ 
+    200.  
+ 
+ To1  =
+ 
+    303.  
+ 
+ M1  =
+ 
+    0.2  
+ 
+ D  =
+ 
+    0.025  
+ 
+ M2  =
+ 
+    0.8  
+ 
+ f  =
+ 
+    0.00125  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.992  
+ 
+ T1  =
+ 
+    300.576  
+ 
+ p1  =
+ 
+    0.973  
+ 
+ P1  =
+ 
+    194.6  
+ 
+ p2  =
+ 
+    2.964  
+ 
+ Pot  =
+ 
+    67.476383  
+ 
+ X1  =
+ 
+    14.533  
+ 
+ p3  =
+ 
+    1.038  
+ 
+ Po2  =
+ 
+    70.040486  
+ 
+ X2  =
+ 
+    0.073  
+ 
+ X3  =
+ 
+    14.46  
+ 
+ L1  =
+ 
+    72.3  
+ 
+ SPL  =
+ 
+    64.979757  
+ 
+ ds  =
+ 
+    301.13301  
+ 
+ 
+ 
+(A)Length of the pipe is 72.3 m
+ (B)Percentage decrease in stagnation pressure is 64.98 percent
+ (C)Change of entropy is 301.133 kJ/kg-K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.13/13.sce #
+ 
+ 
+ 
+ 
+ To1  =
+ 
+    300.  
+ 
+ To2  =
+ 
+    310.  
+ 
+ G  =
+ 
+    1300.  
+ 
+ P1  =
+ 
+    105000.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ T1  =
+ 
+    6.8315724  
+ 
+ t1  =
+ 
+    0.0227719  
+ 
+ M1  =
+ 
+    1.4  
+ 
+ t2  =
+ 
+    0.934  
+ 
+ Tot  =
+ 
+    321.19914  
+ 
+ t3  =
+ 
+    0.9651333  
+ 
+ M2  =
+ 
+    1.26  
+ 
+ 
+ 
+(A)The inlet mach number is 1.40 
+ (B)The exit mach number is 1.26 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.13/13.sce #
+ 
+ 
+ 
+ 
+ Po1  =
+ 
+    500.  
+ 
+ To1  =
+ 
+    600.  
+ 
+ C1  =
+ 
+    100.  
+ 
+ A1  =
+ 
+    0.01  
+ 
+ A2  =
+ 
+    0.01  
+ 
+ Mx  =
+ 
+    1.2  
+ 
+ Ax  =
+ 
+    37.6  
+ 
+ Ay  =
+ 
+    37.6  
+ 
+ Px  =
+ 
+    109.9  
+ 
+ Poy  =
+ 
+    350.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ T1  =
+ 
+    604.97512  
+ 
+ ai_1  =
+ 
+    493.03043  
+ 
+ M1  =
+ 
+    0.2028272  
+ 
+ p1  =
+ 
+    0.973  
+ 
+ P1  =
+ 
+    486.5  
+ 
+ d1  =
+ 
+    2.8019697  
+ 
+ m  =
+ 
+    2.8019697  
+ 
+ p2  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    264.  
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    500.4  
+ 
+ ai_t  =
+ 
+    448.39795  
+ 
+ Ct  =
+ 
+    448.39795  
+ 
+ a1  =
+ 
+    2.964  
+ 
+ At  =
+ 
+    0.0033738  
+ 
+ dt  =
+ 
+    0.0018383  
+ 
+ mt  =
+ 
+    0.0027809  
+ 
+ 
+ a2  =
+ 
+    1.03  
+ 
+ Ay_a  =
+ 
+    0.0034750  
+ 
+ p3  =
+ 
+    0.412  
+ 
+ Px_a  =
+ 
+    206.  
+ 
+ t2  =
+ 
+    0.776  
+ 
+ Tx_a  =
+ 
+    465.6  
+ 
+ My_a  =
+ 
+    0.84  
+ 
+ p4  =
+ 
+    1.497  
+ 
+ Py_a  =
+ 
+    308.382  
+ 
+ t3  =
+ 
+    1.099  
+ 
+ Ty_a  =
+ 
+    511.6944  
+ 
+ p5  =
+ 
+    2.407  
+ 
+ Poy_a  =
+ 
+    495.842  
+ 
+ a3  =
+ 
+    1.204  
+ 
+ At2_a  =
+ 
+    28.862406  
+ 
+ a4  =
+ 
+    0.0003465  
+ 
+ M2_a  =
+ 
+    0.2  
+ 
+ p5  =
+ 
+    0.973  
+ 
+ P2_a  =
+ 
+    482.45427  
+ 
+ 
+ a5  =
+ 
+    11144.64  
+ 
+ Mx_b  =
+ 
+    1.4  
+ 
+ p6  =
+ 
+    0.314  
+ 
+ Px_b  =
+ 
+    157.  
+ 
+ t4  =
+ 
+    0.718  
+ 
+ Tx_b  =
+ 
+    430.8  
+ 
+ p20  =
+ 
+    3.049  
+ 
+ Poy_b  =
+ 
+    478.693  
+ 
+ My_b  =
+ 
+    0.735  
+ 
+ p7  =
+ 
+    2.085  
+ 
+ Py_b  =
+ 
+    327.345  
+ 
+ t5  =
+ 
+    1.26  
+ 
+ Ty_b  =
+ 
+    542.808  
+ 
+ a6  =
+ 
+    1.071  
+ 
+ At2_b  =
+ 
+    35.107376  
+ 
+ a7  =
+ 
+    0.0002848  
+ 
+ M2_b  =
+ 
+    0.21  
+ 
+ p8  =
+ 
+    0.9697  
+ 
+ P2_b  =
+ 
+    464.1886  
+ 
+ 
+ p9  =
+ 
+    0.2198  
+ 
+ Mx_c  =
+ 
+    1.65  
+ 
+ a8  =
+ 
+    1.292  
+ 
+ Ax_c  =
+ 
+    43.589744  
+ 
+ t6  =
+ 
+    0.647  
+ 
+ Tx_c  =
+ 
+    388.2  
+ 
+ My_c  =
+ 
+    0.654  
+ 
+ p10  =
+ 
+    3.0095  
+ 
+ Py_c  =
+ 
+    330.74405  
+ 
+ t7  =
+ 
+    1.423  
+ 
+ Ty_c  =
+ 
+    552.4086  
+ 
+ p12  =
+ 
+    4.  
+ 
+ Poy_c  =
+ 
+    439.6  
+ 
+ a9  =
+ 
+    1.136  
+ 
+ At2_c  =
+ 
+    38.371253  
+ 
+ a8  =
+ 
+    0.0002606  
+ 
+ M2_c  =
+ 
+    0.23  
+ 
+ p11  =
+ 
+    0.964  
+ 
+ P2_c  =
+ 
+    423.7744  
+ 
+ 
+ p13  =
+ 
+    0.7  
+ 
+ Mx_d  =
+ 
+    2.04  
+ 
+ My_d  =
+ 
+    0.571  
+ 
+ p14  =
+ 
+    4.688  
+ 
+ t8  =
+ 
+    1.72  
+ 
+ p15  =
+ 
+    5.847  
+ 
+ p16  =
+ 
+    0.12  
+ 
+ Px_d  =
+ 
+    60.  
+ 
+ t9  =
+ 
+    0.546  
+ 
+ Tx_d  =
+ 
+    327.6  
+ 
+ p21  =
+ 
+    4.688  
+ 
+ Py_d  =
+ 
+    281.28  
+ 
+ t12  =
+ 
+    1.72  
+ 
+ Ty_d  =
+ 
+    563.472  
+ 
+ a9  =
+ 
+    1.745  
+ 
+ Ax_d  =
+ 
+    58.873144  
+ 
+ a10  =
+ 
+    1.226  
+ 
+ At2_d  =
+ 
+    48.020509  
+ 
+ a11  =
+ 
+    0.0002082  
+ 
+ M2_d  =
+ 
+    0.29  
+ 
+ p17  =
+ 
+    0.943  
+ 
+ P2_d  =
+ 
+    330.05  
+ 
+ 
+ a12  =
+ 
+    11144.64  
+ 
+ Mx_e  =
+ 
+    2.62  
+ 
+ t10  =
+ 
+    0.421  
+ 
+ Tx_e  =
+ 
+    252.6  
+ 
+ p18  =
+ 
+    0.0486  
+ 
+ Px_e  =
+ 
+    24.3  
+ 
+ My_e  =
+ 
+    0.502  
+ 
+ p19  =
+ 
+    7.842  
+ 
+ Py_e  =
+ 
+    190.5606  
+ 
+ P2_e  =
+ 
+    190.5606  
+ 
+ t11  =
+ 
+    2.259  
+ 
+ Ty_e  =
+ 
+    570.6234  
+ 
+ T2_e  =
+ 
+    570.6234  
+ 
+ 
+ 
+At throat:
+    Mass flow rate is 2.80 kg/s
+    Area at throat is 0.00337 m^2
+    Pressure is 264 kPa
+    Temperature is 500.4 K
+    Velocity is 448.4 m/s
+ (a)At section (A):
+    Pressure upstream is 206 kPa
+    Temperature upstream is 465.6 K
+    Mack number downstream is 0.84
+    Pressure downstream is 308.382 kPa
+    Temperature downstream is 511.694 K
+    Stagnation pressure downstream is 495.8 kPa
+    Area is 28.862 cm^2
+  At exit:
+    Mach number is 0.2
+    Pressure is 482.5 kPa
+ (b)At section (B):
+    Pressure upstream is 157 kPa
+    Temperature upstream is 430.8 K
+    Mack number upstream is 1.4
+    Mack number downstream is 0.735
+    Pressure downstream is 327.34 kPa
+    Temperature downstream is 542.81 K
+    Stagnation pressure downstream is 478.7 kPa
+    Area is 35.107 cm^2
+  At exit:
+    Mach number is 0.21
+    Pressure is 464.2 kPa
+ (c)At section (C):
+    Area upstream is 43.59 cm^2
+    Temperature upstream is 388.2 K
+    Mack number upstream is 1.65
+    Mack number downstream is 0.654
+    Pressure downstream is 330.74 kPa
+    Temperature downstream is 552.41 K
+    Stagnation pressure downstream is 439 kPa
+    Area is 38.3713 cm^2
+  At exit:
+    Mach number is 0.23
+    Pressure is 423.8 kPa
+ (d)At section (D):
+    Pressure upstream is  60 kPa
+    Temperature upstream is 327.6 K
+    Area upstream is 58.873 cm^2
+    Mack number upstream is 2.04
+    Mack number downstream is 0.57
+    Pressure downstream is 281.28 kPa
+    Temperature downstream is 563.47 K
+    Area is 48.021 cm^2
+  At exit:
+    Mach number is 0.29
+    Pressure is 330.05 kPa
+ (e)At section (E):
+    Pressure upstream is 24.3 kPa
+    Temperature upstream is 252.6 K
+    Mack number upstream is 2.62
+    Mack number downstream is 0.502
+    Pressure downstream is 190.6 kPa
+    Temperature downstream is 570.62 K
+  At exit:
+    Temperature is 570.62 K
+    Pressure is 190.6 kPa
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.13/13.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    266.66667  
+ 
+ ma  =
+ 
+    54.5  
+ 
+ dh  =
+ 
+    200.  
+ 
+ Cv  =
+ 
+    0.97  
+ 
+ AFR  =
+ 
+    75.  
+ 
+ eff_cc  =
+ 
+    0.93  
+ 
+ CV  =
+ 
+    45000.  
+ 
+ 
+ 
+ mf  =
+ 
+    0.7266667  
+ 
+ Cj  =
+ 
+    613.48187  
+ 
+ F  =
+ 
+    18901.428  
+ 
+ TSFC  =
+ 
+    0.1384022  
+ 
+ HS  =
+ 
+    30411.  
+ 
+ Pp  =
+ 
+    8318.0322  
+ 
+ Pt  =
+ 
+    5040380.9  
+ 
+ eff_p  =
+ 
+    0.6059583  
+ 
+ eff_t  =
+ 
+    0.2735205  
+ 
+ eff_o  =
+ 
+    0.1657420  
+ 
+ 
+ 
+(A)Exit velocity of the jet is 613.48 m/s
+ (B)Fuel rate is 0.7267 kg/s
+ (C)Thrust specific fuel consumption is 0.13840 kg/Nhr
+ (D)Thermal efficiency is 0.274
+ (E)Propulsive power is 8318.03 kW
+ (F)Propulsive efficiency is 0.6060
+ (G)Overall efficiency is 0.16574 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.13/13.sce #
+ 
+ 
+ 
+ 
+ s  =
+ 
+    0.2105  
+ 
+ Is  =
+ 
+    203.88  
+ 
+ tp  =
+ 
+    8.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ Cj  =
+ 
+    2000.0628  
+ 
+ up  =
+ 
+    421.01322  
+ 
+ MR  =
+ 
+    0.7790043  
+ 
+ PMF  =
+ 
+    0.2209957  
+ 
+ Zp  =
+ 
+    1.6009773  
+ 
+ Zc  =
+ 
+    9.0342574  
+ 
+ Z  =
+ 
+    10.635235  
+ 
+ 
+ 
+(A)effective jet velocity is 2000 m/s
+ (B)mass ratio and propellent mass fraction are 0.78 and 0.22 respectively
+ (C)maximum flight speed is 421.01 m/s
+ (D))altitude gains during powered and coasting flights are 1.601 km and 9.034 km respectively 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.14/14.sce #
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    473.  
+ 
+ P1  =
+ 
+    1.7  
+ 
+ P2  =
+ 
+    1.  
+ 
+ C1  =
+ 
+    30.  
+ 
+ m  =
+ 
+    1.  
+ 
+ D  =
+ 
+    0.025  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.5882353  
+ 
+ T2  =
+ 
+    406.46073  
+ 
+ E1  =
+ 
+    473.44776  
+ 
+ C2  =
+ 
+    366.9386  
+ 
+ d2  =
+ 
+    0.8572342  
+ 
+ A2  =
+ 
+    0.0004909  
+ 
+ n  =
+ 
+    7.  
+ 
+ 
+ 
+(A)Exit velocity of the air is 366.94 m/s
+ (B)Number of nozzles to be used are 7 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.14/14.sce #
+ 
+ 
+ 
+ 
+ ar  =
+ 
+    2.  
+ 
+ Po  =
+ 
+    700.  
+ 
+ P2  =
+ 
+    400.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    369.6  
+ 
+ p2  =
+ 
+    0.5714286  
+ 
+ M2  =
+ 
+    0.93  
+ 
+ 
+ 
+Since pressure decreases from 700 kPa to 369.6 kPa from inlet to throat, it acts as nozzle
+ Since exit pressure 400 kPa is above critical pressure 369.6 kPa, it acts as diffuser with M=0.93
+ Hence the duct acts as Venturi 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.14/14.sce #
+ 
+ 
+ 
+ 
+ D1  =
+ 
+    0.03  
+ 
+ D2  =
+ 
+    0.015  
+ 
+ Po1  =
+ 
+    750.  
+ 
+ To1  =
+ 
+    450.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ L  =
+ 
+    0.25  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ar  =
+ 
+    4.  
+ 
+ M1  =
+ 
+    2.94  
+ 
+ p1  =
+ 
+    0.0298  
+ 
+ P1  =
+ 
+    22.35  
+ 
+ t1  =
+ 
+    0.367  
+ 
+ T1  =
+ 
+    165.15  
+ 
+ a1  =
+ 
+    257.59905  
+ 
+ C1  =
+ 
+    757.3412  
+ 
+ X1  =
+ 
+    0.513  
+ 
+ p2  =
+ 
+    0.226  
+ 
+ Pt  =
+ 
+    98.893805  
+ 
+ c1  =
+ 
+    1.949  
+ 
+ Ct  =
+ 
+    388.57938  
+ 
+ t2  =
+ 
+    0.439  
+ 
+ Tt  =
+ 
+    376.1959  
+ 
+ L1  =
+ 
+    0.7695  
+ 
+ L2  =
+ 
+    0.5195  
+ 
+ X2  =
+ 
+    0.6926667  
+ 
+ M2  =
+ 
+    2.14  
+ 
+ p3  =
+ 
+    0.369  
+ 
+ P2  =
+ 
+    36.491814  
+ 
+ c2  =
+ 
+    1.694  
+ 
+ C2  =
+ 
+    658.25346  
+ 
+ t3  =
+ 
+    0.623  
+ 
+ T2  =
+ 
+    234.37005  
+ 
+ 
+ 
+(A)Maximum length of the pipe is 0.7695 m
+ (B)Condition of air at exit:
+    Pressure is 36.49 kPa
+    Velocity is 658.25 m/s
+    Temperature is 234.37 K
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH4/EX4.14/14.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    466.  
+ 
+ P1  =
+ 
+    0.345  
+ 
+ T1  =
+ 
+    312.  
+ 
+ C1  =
+ 
+    65.5  
+ 
+ q  =
+ 
+    4592.  
+ 
+ 
+ 
+ a1  =
+ 
+    434.75234  
+ 
+ M1  =
+ 
+    0.1506605  
+ 
+ t1  =
+ 
+    0.9965  
+ 
+ To1  =
+ 
+    313.09584  
+ 
+ p1  =
+ 
+    2.235  
+ 
+ Pt  =
+ 
+    0.1543624  
+ 
+ c1  =
+ 
+    0.051  
+ 
+ Ct  =
+ 
+    1284.3137  
+ 
+ t2  =
+ 
+    0.112  
+ 
+ Tt  =
+ 
+    2785.7143  
+ 
+ t3  =
+ 
+    0.098  
+ 
+ Tot  =
+ 
+    3194.8555  
+ 
+ Cp  =
+ 
+    2019.3333  
+ 
+ To2  =
+ 
+    315.36985  
+ 
+ t4  =
+ 
+    0.0987118  
+ 
+ M2  =
+ 
+    0.6  
+ 
+ p2  =
+ 
+    1.567  
+ 
+ P2  =
+ 
+    0.2418859  
+ 
+ t5  =
+ 
+    0.884  
+ 
+ T2  =
+ 
+    2462.5714  
+ 
+ c2  =
+ 
+    0.564  
+ 
+ C2  =
+ 
+    724.35294  
+ 
+ qmax  =
+ 
+    5819.2333  
+ 
+ 
+ 
+(A)Heat required to accelerate the gas from the inlet condition to sonic condition is 5819.23 kJ/kg
+ (B)The pressure and temperature at sonic condition are 0.154 bar and 2785.71 K respectively
+ (C)The properties at exit are:
+    Pressure is 0.242 bar
+    Temperature is 2462.57 K
+    Velocity is 724 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.14/14.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ P  =
+ 
+    101325.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ C_1  =
+ 
+    60.  
+ 
+ C_2  =
+ 
+    200.  
+ 
+ C_3  =
+ 
+    500.  
+ 
+ d_hg  =
+ 
+    13600.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ a  =
+ 
+    347.18871  
+ 
+ M_1  =
+ 
+    0.1728167  
+ 
+ dP1  =
+ 
+    2118.2927  
+ 
+ dP1_hg  =
+ 
+    15.877351  
+ 
+ M_2  =
+ 
+    0.5760556  
+ 
+ p1  =
+ 
+    1.2522034  
+ 
+ Po  =
+ 
+    126879.51  
+ 
+ dP2  =
+ 
+    25554.51  
+ 
+ dP2_hg  =
+ 
+    191.54007  
+ 
+ M_3  =
+ 
+    1.440139  
+ 
+ My  =
+ 
+    0.723  
+ 
+ p1  =
+ 
+    2.253  
+ 
+ Py  =
+ 
+    228285.23  
+ 
+ p2  =
+ 
+    0.706  
+ 
+ Po  =
+ 
+    323350.18  
+ 
+ dP3  =
+ 
+    95064.952  
+ 
+ dP3_hg  =
+ 
+    712.54536  
+ 
+ 
+ 
+Difference in mercury levels at velocity equal to:
+    (A)60 m/s is 15.877 mm of Hg
+    (B)200 m/s is 191.5 mm of Hg
+    (C)500 m/s is 712 mm of Hg 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.14/14.sce #
+ 
+ 
+ 
+ 
+ u  =
+ 
+    208.33333  
+ 
+ h  =
+ 
+    10000.  
+ 
+ eff_p  =
+ 
+    0.5  
+ 
+ eff_o  =
+ 
+    0.16  
+ 
+ d  =
+ 
+    0.173  
+ 
+ F  =
+ 
+    6250.  
+ 
+ CV  =
+ 
+    45000.  
+ 
+ 
+ 
+ sig  =
+ 
+    0.3333333  
+ 
+ Cj  =
+ 
+    625.  
+ 
+ Ca  =
+ 
+    416.66667  
+ 
+ ma  =
+ 
+    15.  
+ 
+ Q  =
+ 
+    5202.3121  
+ 
+ A  =
+ 
+    0.1387283  
+ 
+ D  =
+ 
+    420.27894  
+ 
+ Pt  =
+ 
+    1302083.3  
+ 
+ Pp  =
+ 
+    2604.1667  
+ 
+ eff_t  =
+ 
+    0.32  
+ 
+ HS  =
+ 
+    8138.0208  
+ 
+ mf  =
+ 
+    0.1808449  
+ 
+ AFR  =
+ 
+    82.944  
+ 
+ 
+ 
+(A)Absolute velocity of the jet is 416.67 m/s
+ (B)Volume of air compressed per minute is 5202.31 m^3/min
+ (C)Diameter of the jet is 420 mm
+ (D)Power unit of the unit is 2604.167 kW
+ (E)Air fuel ratio is 82.9 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH7/EX7.14/14.sce #
+ 
+ 
+ 
+ 
+ R0  =
+ 
+    6341600.  
+ 
+ g  =
+ 
+    9.809  
+ 
+ Z1  =
+ 
+    0.  
+ 
+ Z2  =
+ 
+    300000.  
+ 
+ 
+ 
+ uorb1  =
+ 
+    7886.9991  
+ 
+ uesc1  =
+ 
+    11153.901  
+ 
+ uorb2  =
+ 
+    7706.8136  
+ 
+ uesc2  =
+ 
+    10899.08  
+ 
+ 
+ 
+(A)orbit and escape velocities of a rocket at mean sea level are 7886 m/s and 11153 m/s
+ (B)orbit and escape velocities of a rocket at an altitude of 300 km are 7706.8 m/s and 10899.08 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.15/15.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    300.  
+ 
+ To  =
+ 
+    323.  
+ 
+ M  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.667  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ Mol  =
+ 
+    4.  
+ 
+ 
+ 
+ R  =
+ 
+    2078.5  
+ 
+ Cp  =
+ 
+    5194.6919  
+ 
+ p1  =
+ 
+    0.4870922  
+ 
+ Pt  =
+ 
+    146.12765  
+ 
+ t1  =
+ 
+    0.7499063  
+ 
+ Tt  =
+ 
+    242.21972  
+ 
+ at  =
+ 
+    916.10988  
+ 
+ Ct  =
+ 
+    916.10988  
+ 
+ Cmax  =
+ 
+    1831.8764  
+ 
+ 
+ 
+(A)At test point:
+    Pressure is 146.13 kPa
+    Temperature is 242.22 K
+    Velocity is 916.1 m/s
+ (B)Maximum velocity due to expanding of gases through nozzle system is 1831.88 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.15/15.sce #
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    0.15  
+ 
+ C1  =
+ 
+    240.  
+ 
+ T1  =
+ 
+    300.  
+ 
+ P1  =
+ 
+    0.7  
+ 
+ C2  =
+ 
+    120.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ a1  =
+ 
+    347.18871  
+ 
+ M1  =
+ 
+    0.6912667  
+ 
+ d1  =
+ 
+    0.8130081  
+ 
+ m  =
+ 
+    29.268293  
+ 
+ t1  =
+ 
+    0.913  
+ 
+ To  =
+ 
+    328.58708  
+ 
+ p1  =
+ 
+    0.727  
+ 
+ Po  =
+ 
+    0.9628611  
+ 
+ T2  =
+ 
+    321.4229  
+ 
+ t2  =
+ 
+    0.9781970  
+ 
+ M2  =
+ 
+    0.33  
+ 
+ p2  =
+ 
+    0.927  
+ 
+ P2  =
+ 
+    0.8925722  
+ 
+ d2  =
+ 
+    0.9675750  
+ 
+ A2  =
+ 
+    0.2520760  
+ 
+ ds  =
+ 
+    0.  
+ 
+ 
+ 
+(A)Mass flow rate is 29.268 kg/s
+ (B)Stagnation pressure at exit is 0.9629 bar
+ (C)Stagnation Temperature at exit is 328.587 K
+ (D)Static exit pressure is 0.893 bar
+ (E)Entropy change is   0 kJ/kg-K
+ (F)Exit area is 0.252 m^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.15/15.sce #
+ 
+ 
+ 
+ 
+ f  =
+ 
+    0.002  
+ 
+ C1  =
+ 
+    130.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ P1  =
+ 
+    250.  
+ 
+ D  =
+ 
+    0.16  
+ 
+ p1  =
+ 
+    0.8  
+ 
+ L1  =
+ 
+    35.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    400.89899  
+ 
+ M1  =
+ 
+    0.3242712  
+ 
+ p2  =
+ 
+    0.9295  
+ 
+ Po1  =
+ 
+    268.96181  
+ 
+ Po2  =
+ 
+    215.16945  
+ 
+ p3  =
+ 
+    1.89725  
+ 
+ Pot  =
+ 
+    141.76403  
+ 
+ X1  =
+ 
+    4.273  
+ 
+ p4  =
+ 
+    3.33725  
+ 
+ Pt  =
+ 
+    74.911978  
+ 
+ t1  =
+ 
+    1.175  
+ 
+ Tt  =
+ 
+    340.42553  
+ 
+ c1  =
+ 
+    0.347  
+ 
+ Ct  =
+ 
+    374.63977  
+ 
+ p5  =
+ 
+    1.5178  
+ 
+ M2  =
+ 
+    0.43  
+ 
+ X2  =
+ 
+    1.833  
+ 
+ X3  =
+ 
+    2.44  
+ 
+ L2  =
+ 
+    48.8  
+ 
+ L3  =
+ 
+    85.46  
+ 
+ L4  =
+ 
+    50.46  
+ 
+ X4  =
+ 
+    4.273  
+ 
+ M3  =
+ 
+    0.39  
+ 
+ p6  =
+ 
+    2.767  
+ 
+ P2  =
+ 
+    207.28144  
+ 
+ t2  =
+ 
+    1.1645  
+ 
+ T2  =
+ 
+    396.42553  
+ 
+ c2  =
+ 
+    0.42087  
+ 
+ C2  =
+ 
+    157.67464  
+ 
+ 
+ 
+(A)Length of pipe required for p=0.8 m is 48.800 m
+ (B)Properties of air at section  35 from inlet:
+    Temperature is 396.426 K
+    Pressure is 207.28 kPa
+    Velocity is 157.7 m/s
+ (C)Maximum length of the pipe is 85.46 m 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.15/15.sce #
+ 
+ 
+ 
+ 
+ Px  =
+ 
+    16.  
+ 
+ Poy  =
+ 
+    70.  
+ 
+ To  =
+ 
+    573.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ p1  =
+ 
+    4.375  
+ 
+ Mx  =
+ 
+    1.735  
+ 
+ My  =
+ 
+    0.631  
+ 
+ p2  =
+ 
+    0.84  
+ 
+ t1  =
+ 
+    1.483  
+ 
+ Tx  =
+ 
+    357.66786  
+ 
+ Ty  =
+ 
+    530.42143  
+ 
+ Pox  =
+ 
+    83.333333  
+ 
+ 
+ 
+(A)Mach number of the tunnal is Mx=1.735 (My=0.631)
+ (B)Upstream of the tube:
+    Static temperature is 357 K
+    Total pressure is 83.3 kPa
+ (C)Downstream of the tube:
+    Static temperature is 530 K
+    Total pressure is  70 kPa 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.15/15.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    0.56  
+ 
+ T1  =
+ 
+    260.  
+ 
+ pr_c  =
+ 
+    6.  
+ 
+ eff_c  =
+ 
+    0.85  
+ 
+ u  =
+ 
+    100.  
+ 
+ D  =
+ 
+    3.  
+ 
+ eff_p  =
+ 
+    0.8  
+ 
+ eff_g  =
+ 
+    0.95  
+ 
+ pr_t  =
+ 
+    5.  
+ 
+ eff_t  =
+ 
+    0.88  
+ 
+ T3  =
+ 
+    1100.  
+ 
+ eff_n  =
+ 
+    0.9  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ CV  =
+ 
+    40000.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ P2  =
+ 
+    3.36  
+ 
+ T2s  =
+ 
+    433.81271  
+ 
+ T2  =
+ 
+    464.48555  
+ 
+ Wc  =
+ 
+    205.50797  
+ 
+ C1  =
+ 
+    100.  
+ 
+ C  =
+ 
+    125.  
+ 
+ C2  =
+ 
+    150.  
+ 
+ Ap  =
+ 
+    7.0685835  
+ 
+ Q  =
+ 
+    883.57293  
+ 
+ mf  =
+ 
+    0.0164211  
+ 
+ f  =
+ 
+    0.0164211  
+ 
+ AFR  =
+ 
+    60.897112  
+ 
+ P3  =
+ 
+    3.36  
+ 
+ P4  =
+ 
+    0.672  
+ 
+ T4s  =
+ 
+    694.52354  
+ 
+ T4  =
+ 
+    743.18071  
+ 
+ Po  =
+ 
+    364.49206  
+ 
+ Pa  =
+ 
+    158.98408  
+ 
+ Pe  =
+ 
+    0.56  
+ 
+ Tes  =
+ 
+    705.45809  
+ 
+ Cj  =
+ 
+    261.22831  
+ 
+ Fs  =
+ 
+    165.51797  
+ 
+ Pp  =
+ 
+    4144.3383  
+ 
+ Ps  =
+ 
+    4362.4614  
+ 
+ ma  =
+ 
+    27.439611  
+ 
+ Fj  =
+ 
+    7.1680031  
+ 
+ Fp  =
+ 
+    33.154707  
+ 
+ 
+ 
+(A)Air fuel ratio is 60.90
+ (B)Thrust produced by the nozzle is 7.168 kN
+ (C)Thrust by the propeller is 33.155 kN
+ (D)mass flow rate through the compressor is 27.44 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.16/16.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    313.  
+ 
+ p1  =
+ 
+    0.5  
+ 
+ k  =
+ 
+    1.67  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ Mol  =
+ 
+    39.94  
+ 
+ 
+ 
+ R  =
+ 
+    208.16224  
+ 
+ p2  =
+ 
+    2.  
+ 
+ M  =
+ 
+    0.9782771  
+ 
+ C  =
+ 
+    322.69576  
+ 
+ 
+ 
+(A)Mach number is 0.978
+ (B)Velocity in the flow is 322.7 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.16/16.sce #
+ 
+ 
+ 
+ 
+ A2  =
+ 
+    645.  
+ 
+ M2  =
+ 
+    2.  
+ 
+ P2  =
+ 
+    1.  
+ 
+ T2  =
+ 
+    185.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.555  
+ 
+ To  =
+ 
+    333.33333  
+ 
+ p1  =
+ 
+    0.128  
+ 
+ Po  =
+ 
+    7.8125  
+ 
+ a1  =
+ 
+    1.687  
+ 
+ At  =
+ 
+    382.33551  
+ 
+ d2  =
+ 
+    1.8834165  
+ 
+ C2  =
+ 
+    545.28158  
+ 
+ m  =
+ 
+    0.6624101  
+ 
+ 
+ 
+(A)Throat area is 382.34 mm^2
+ (B)Reservoir pressure is 7.8125 bar
+ (C)Reservoir temperature is 333.33 K
+ (D)Mass flow rate is 0.6624 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.16/16.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.3  
+ 
+ Q  =
+ 
+    1000.  
+ 
+ P2  =
+ 
+    150.  
+ 
+ T2  =
+ 
+    293.  
+ 
+ L1  =
+ 
+    50.  
+ 
+ f  =
+ 
+    0.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ A  =
+ 
+    0.0706858  
+ 
+ C2  =
+ 
+    235.7851  
+ 
+ a2  =
+ 
+    343.11427  
+ 
+ M2  =
+ 
+    0.6871912  
+ 
+ p1  =
+ 
+    1.54  
+ 
+ Pt  =
+ 
+    97.402597  
+ 
+ t1  =
+ 
+    1.1  
+ 
+ Tt  =
+ 
+    266.36364  
+ 
+ X1  =
+ 
+    0.228  
+ 
+ L2  =
+ 
+    3.42  
+ 
+ L2  =
+ 
+    53.42  
+ 
+ X2  =
+ 
+    3.5613333  
+ 
+ M1  =
+ 
+    0.345  
+ 
+ p2  =
+ 
+    3.14  
+ 
+ P1  =
+ 
+    305.84416  
+ 
+ t2  =
+ 
+    1.17  
+ 
+ T1  =
+ 
+    311.64545  
+ 
+ 
+ 
+(A)Mach number at the exit is 0.687
+ (B)Inlet pressure and temperature are 305.844 kPa and 311.65 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.16/16.sce #
+ 
+ 
+ 
+ 
+ Py  =
+ 
+    455.  
+ 
+ Ty  =
+ 
+    338.  
+ 
+ dP  =
+ 
+    65.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ Poy  =
+ 
+    520.  
+ 
+ p1  =
+ 
+    0.875  
+ 
+ My  =
+ 
+    0.44  
+ 
+ Mx  =
+ 
+    3.8  
+ 
+ t1  =
+ 
+    3.743  
+ 
+ Tx  =
+ 
+    90.301897  
+ 
+ ax  =
+ 
+    190.48176  
+ 
+ Cx  =
+ 
+    723.8307  
+ 
+ 
+ 
+(A)Mach number is Mx=3.8 (My=0.44)
+ (B)Velocity is 723.83 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.16/16.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    1.5  
+ 
+ h  =
+ 
+    6500.  
+ 
+ D  =
+ 
+    0.5  
+ 
+ To4  =
+ 
+    1600.  
+ 
+ CV  =
+ 
+    40000.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ eff_d  =
+ 
+    0.9  
+ 
+ eff_cc  =
+ 
+    0.98  
+ 
+ eff_n  =
+ 
+    0.96  
+ 
+ pr_l  =
+ 
+    0.02  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ P1  =
+ 
+    0.44  
+ 
+ T1  =
+ 
+    245.9  
+ 
+ a1  =
+ 
+    314.5  
+ 
+ d1  =
+ 
+    0.624  
+ 
+ A1  =
+ 
+    0.1963495  
+ 
+ u1  =
+ 
+    471.75  
+ 
+ ma  =
+ 
+    57.799807  
+ 
+ To2  =
+ 
+    356.555  
+ 
+ To1  =
+ 
+    356.555  
+ 
+ pr_d  =
+ 
+    3.2875104  
+ 
+ P2  =
+ 
+    1.4465046  
+ 
+ Po2  =
+ 
+    1.4465046  
+ 
+ Po3  =
+ 
+    1.4175745  
+ 
+ Poe  =
+ 
+    0.44  
+ 
+ pr_n  =
+ 
+    3.2217602  
+ 
+ p1  =
+ 
+    0.3103893  
+ 
+ M4s  =
+ 
+    1.41  
+ 
+ T4s  =
+ 
+    1144.8033  
+ 
+ To3  =
+ 
+    1600.  
+ 
+ T4  =
+ 
+    1163.0112  
+ 
+ C4  =
+ 
+    937.20197  
+ 
+ a4  =
+ 
+    683.5919  
+ 
+ Me  =
+ 
+    1.3709963  
+ 
+ f  =
+ 
+    0.0318791  
+ 
+ mf  =
+ 
+    1.842608  
+ 
+ m  =
+ 
+    59.642415  
+ 
+ eff_i  =
+ 
+    31.034483  
+ 
+ sig  =
+ 
+    0.5033600  
+ 
+ eff_p  =
+ 
+    0.6696467  
+ 
+ F  =
+ 
+    28.62993  
+ 
+ 
+ 
+(A)Efficiency of the ideal cycle is  31 percent
+ (B)Flight speed is 937.202 m/s
+ (C)Air flow rate is 57.800 kg/s
+ (D)Diffuser pressure ratio is 3.2875
+ (E)Fuel air ratio is 0.03188
+ (F)Nozzle pressure ratio is 3.22
+ (G)Nozzle jet mach number is 1.371
+ (H)Propulsive efficiency is 0.6696 percent
+ (I)Thrust is 28.630 kN 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.17/17.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    2.5  
+ 
+ h  =
+ 
+    10.  
+ 
+ 
+ 
+ alp  =
+ 
+    23.578178  
+ 
+ d  =
+ 
+    22.912878  
+ 
+ 
+ 
+Distance the jet would cover before a sonic boom is heard on ground is 22.91 km 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.17/17.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    20.  
+ 
+ To  =
+ 
+    1000.  
+ 
+ P2  =
+ 
+    3.  
+ 
+ A2  =
+ 
+    100.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.15  
+ 
+ M2  =
+ 
+    1.9  
+ 
+ t1  =
+ 
+    0.581  
+ 
+ T2  =
+ 
+    581.  
+ 
+ C2  =
+ 
+    918.00835  
+ 
+ a1  =
+ 
+    1.555  
+ 
+ At  =
+ 
+    64.308682  
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    10.56  
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    834.  
+ 
+ at  =
+ 
+    578.87926  
+ 
+ Ct  =
+ 
+    578.87926  
+ 
+ dt  =
+ 
+    4.4118016  
+ 
+ m  =
+ 
+    16.423797  
+ 
+ C_max  =
+ 
+    1417.7447  
+ 
+ cr  =
+ 
+    0.6475132  
+ 
+ 
+ 
+(A)At Throat:
+    Area is 64.31 cm^2
+    Pressure is 10.56 bar
+    Temperature is 834 K
+ (B)Exit velocity is 0.6475 times C_max in m/s
+ (C)Mass flow rate is 16.42 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.17/17.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.0254  
+ 
+ f  =
+ 
+    0.003  
+ 
+ M1  =
+ 
+    2.5  
+ 
+ To1  =
+ 
+    310.  
+ 
+ P1  =
+ 
+    0.507  
+ 
+ M2  =
+ 
+    1.2  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.4444  
+ 
+ T1  =
+ 
+    137.764  
+ 
+ p1  =
+ 
+    0.05853  
+ 
+ Po1  =
+ 
+    8.6622245  
+ 
+ a1  =
+ 
+    235.27341  
+ 
+ C1  =
+ 
+    588.18351  
+ 
+ c1  =
+ 
+    2.95804  
+ 
+ Ctt  =
+ 
+    198.84231  
+ 
+ p2  =
+ 
+    0.33806  
+ 
+ Ptt  =
+ 
+    1.4997338  
+ 
+ p3  =
+ 
+    3.61691  
+ 
+ Pott  =
+ 
+    2.394924  
+ 
+ t2  =
+ 
+    1.968748  
+ 
+ Tott  =
+ 
+    157.46048  
+ 
+ X1  =
+ 
+    1.28334  
+ 
+ c2  =
+ 
+    1.4186  
+ 
+ C2  =
+ 
+    282.0777  
+ 
+ p4  =
+ 
+    0.7043  
+ 
+ P2  =
+ 
+    1.0562625  
+ 
+ p5  =
+ 
+    1.07026  
+ 
+ Po2  =
+ 
+    2.5631913  
+ 
+ t3  =
+ 
+    1.127  
+ 
+ To2  =
+ 
+    177.45796  
+ 
+ T2  =
+ 
+    137.764  
+ 
+ X2  =
+ 
+    0.19715  
+ 
+ X3  =
+ 
+    1.08619  
+ 
+ L1  =
+ 
+    2.2991022  
+ 
+ d1  =
+ 
+    1.282302  
+ 
+ A1  =
+ 
+    0.0005067  
+ 
+ m  =
+ 
+    0.3821734  
+ 
+ 
+ 
+At M=1.2 :
+ (A)Static pressure and static temperature are 1.05626 bar and 137.764 K respectively
+ (B)Stagnation pressure and temperature are 2.5632 bar and 177.458 K respectively
+ (C)Velocity of air is 282.078 m/s
+ (D)Distance of the section from innlet is 2.299 m
+ (E)Mass flow rate is 0.38217 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.17/17.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.4  
+ 
+ Px  =
+ 
+    1.01325  
+ 
+ Tx  =
+ 
+    288.  
+ 
+ Py  =
+ 
+    13.789  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    13.608685  
+ 
+ Mx  =
+ 
+    3.47  
+ 
+ My  =
+ 
+    0.454  
+ 
+ t1  =
+ 
+    3.213  
+ 
+ Ty  =
+ 
+    925.344  
+ 
+ p2  =
+ 
+    15.574  
+ 
+ Poy  =
+ 
+    15.780355  
+ 
+ ax  =
+ 
+    340.17407  
+ 
+ Cx  =
+ 
+    1180.404  
+ 
+ Csh  =
+ 
+    1180.404  
+ 
+ ay  =
+ 
+    609.75669  
+ 
+ Cy  =
+ 
+    276.82954  
+ 
+ C_y  =
+ 
+    903.5745  
+ 
+ P_y  =
+ 
+    13.789  
+ 
+ a_y  =
+ 
+    609.75669  
+ 
+ M_y  =
+ 
+    1.4818607  
+ 
+ 
+ 
+(A)Shock speed is 1180.40 m/s
+ (B)Air velocity just inside the shock is 903.57 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH6/EX6.17/17.sce #
+ 
+ 
+ 
+ 
+ ma  =
+ 
+    18.  
+ 
+ Mi  =
+ 
+    0.6  
+ 
+ h  =
+ 
+    4600.  
+ 
+ Pi  =
+ 
+    55.  
+ 
+ Ti  =
+ 
+    253.  
+ 
+ eff_d  =
+ 
+    0.9  
+ 
+ pr_d  =
+ 
+    5.  
+ 
+ T3  =
+ 
+    1273.  
+ 
+ Pe  =
+ 
+    60.  
+ 
+ eff_c  =
+ 
+    0.81  
+ 
+ eff_t  =
+ 
+    0.85  
+ 
+ eff_n  =
+ 
+    0.915  
+ 
+ CV  =
+ 
+    46520.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ Ci  =
+ 
+    191.30066  
+ 
+ u  =
+ 
+    191.30066  
+ 
+ T1  =
+ 
+    271.20694  
+ 
+ P1s  =
+ 
+    70.144504  
+ 
+ P1  =
+ 
+    68.630053  
+ 
+ P2  =
+ 
+    343.15027  
+ 
+ T2s  =
+ 
+    429.54287  
+ 
+ T2  =
+ 
+    466.68339  
+ 
+ Wc  =
+ 
+    196.45384  
+ 
+ Pc  =
+ 
+    3536.1691  
+ 
+ Pt  =
+ 
+    3536.1691  
+ 
+ f  =
+ 
+    0.0179120  
+ 
+ Wt  =
+ 
+    196.45384  
+ 
+ T4  =
+ 
+    1077.5235  
+ 
+ T4s  =
+ 
+    1043.0277  
+ 
+ P3  =
+ 
+    343.15027  
+ 
+ P4  =
+ 
+    170.85212  
+ 
+ pr_n  =
+ 
+    2.8475354  
+ 
+ Tes  =
+ 
+    799.05826  
+ 
+ Te  =
+ 
+    822.72781  
+ 
+ Cj  =
+ 
+    715.63917  
+ 
+ Ce  =
+ 
+    715.63917  
+ 
+ ae  =
+ 
+    574.95394  
+ 
+ Me  =
+ 
+    1.2446896  
+ 
+ F  =
+ 
+    9668.8261  
+ 
+ P  =
+ 
+    1849.6528  
+ 
+ 
+ 
+(A)Power input of compressor is 3536.17 kW
+ (B)Power output of turbine is 3536.17 kW
+ (C)F/A ratio on mass basis is 0.0179
+ (D)Exit mach number is 1.245
+ (E)Thrust is 9668.83 N
+ (F)Thrust power is 1849.7 kW 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.18/18.sce #
+ 
+ 
+ 
+ 
+ h  =
+ 
+    1100.  
+ 
+ M1  =
+ 
+    2.5  
+ 
+ T  =
+ 
+    280.  
+ 
+ M2  =
+ 
+    0.5  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ alp  =
+ 
+    23.578178  
+ 
+ a  =
+ 
+    335.41616  
+ 
+ C1  =
+ 
+    838.5404  
+ 
+ t1  =
+ 
+    3.0057188  
+ 
+ C2  =
+ 
+    670.83232  
+ 
+ t2  =
+ 
+    3.7571485  
+ 
+ C3  =
+ 
+    1006.2485  
+ 
+ t3  =
+ 
+    2.5047657  
+ 
+ 
+ 
+(A)Time elapsed when the observer is stationary is 3.006 sec
+ (B)Time elapsed when the observer is moving in the direction of aircraft with M=0.5 is 3.76 sec
+ (C)Time elapsed when the observer is moving in the opposite direction is 2.50 sec
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.18/18.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    7.  
+ 
+ To  =
+ 
+    373.  
+ 
+ At  =
+ 
+    12.  
+ 
+ A2  =
+ 
+    25.166  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    2.0971667  
+ 
+ 
+ M2  =
+ 
+    0.29  
+ 
+ p1  =
+ 
+    0.943  
+ 
+ P2  =
+ 
+    6.601  
+ 
+ t1  =
+ 
+    0.983  
+ 
+ T2  =
+ 
+    366.659  
+ 
+ C2  =
+ 
+    111.30999  
+ 
+ 
+ M_2  =
+ 
+    2.25  
+ 
+ p2  =
+ 
+    0.0865  
+ 
+ P_2  =
+ 
+    0.6055  
+ 
+ t2  =
+ 
+    0.497  
+ 
+ T_2  =
+ 
+    185.381  
+ 
+ C_2  =
+ 
+    614.07313  
+ 
+ d2  =
+ 
+    6.2728584  
+ 
+ m  =
+ 
+    1.7571702  
+ 
+ 
+ 
+(A)Maximum mass flow rate is 1.757 kg/s
+ (B)Subsonic exit condition:
+    Temperature is 366.659 K
+    Velocity is 111.31 m/s
+    Pressure is 6.601 bar
+    Mach number is 0.29
+    Supersonic exit condition:
+    Temperature is 185.381 K
+    Velocity is 614.07 m/s
+    Pressure is 0.6055 bar
+    Mach number is 2.25
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.18/18.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.12  
+ 
+ f  =
+ 
+    0.004  
+ 
+ M1  =
+ 
+    0.4  
+ 
+ P1  =
+ 
+    300.  
+ 
+ T1  =
+ 
+    310.  
+ 
+ M2  =
+ 
+    0.6  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ p1  =
+ 
+    2.118  
+ 
+ Pt  =
+ 
+    141.64306  
+ 
+ X1  =
+ 
+    1.968  
+ 
+ p2  =
+ 
+    1.408  
+ 
+ P2  =
+ 
+    199.43343  
+ 
+ X2  =
+ 
+    0.299  
+ 
+ X3  =
+ 
+    1.669  
+ 
+ L1  =
+ 
+    12.5175  
+ 
+ T2  =
+ 
+    310.  
+ 
+ Ttt  =
+ 
+    310.  
+ 
+ Mtt  =
+ 
+    0.8451543  
+ 
+ L2  =
+ 
+    14.76  
+ 
+ 
+ 
+(A)Length of the duct required to chnage the mach number to 0.6 is 12.5175 m
+ (B)Pressure and temperature at M=0.6 is 199 kPa and 310 K respectively
+ (C)Length of the duct required to attain limiting mach number is 14.760 m
+ (D)State of air at limiting mach number 0.845 is subsonic 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.18/18.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ P  =
+ 
+    1.5  
+ 
+ C_y  =
+ 
+    150.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ ax  =
+ 
+    347.18871  
+ 
+ Mx  =
+ 
+    1.232254  
+ 
+ My  =
+ 
+    0.79  
+ 
+ Cx  =
+ 
+    427.82469  
+ 
+ p1  =
+ 
+    1.775  
+ 
+ Py  =
+ 
+    2.6625  
+ 
+ t1  =
+ 
+    1.1845  
+ 
+ Ty  =
+ 
+    355.35  
+ 
+ ay  =
+ 
+    377.86192  
+ 
+ Csh  =
+ 
+    298.51092  
+ 
+ 
+ 
+(A)Speed of the wave is 298.5 m/s
+ (B)At rest condition:
+    Pressure is 2.6625 bar
+    Temperature is 355.35 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.19/19.sce #
+ 
+ 
+ 
+ 
+ P  =
+ 
+    200.  
+ 
+ d  =
+ 
+    2.9  
+ 
+ C  =
+ 
+    50.  
+ 
+ mol  =
+ 
+    32.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ 
+ 
+ R  =
+ 
+    259.8125  
+ 
+ T  =
+ 
+    265.44341  
+ 
+ a  =
+ 
+    310.72773  
+ 
+ M  =
+ 
+    0.1609126  
+ 
+ 
+ 
+Mach number is 0.1609 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.19/19.sce #
+ 
+ 
+ 
+ 
+ T1  =
+ 
+    335.  
+ 
+ P1  =
+ 
+    655.  
+ 
+ C1  =
+ 
+    150.  
+ 
+ P2  =
+ 
+    138.  
+ 
+ T2  =
+ 
+    222.  
+ 
+ m  =
+ 
+    9.  
+ 
+ Mol  =
+ 
+    32.  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    915.  
+ 
+ 
+ 
+ R  =
+ 
+    259.8125  
+ 
+ a1  =
+ 
+    349.07315  
+ 
+ M1  =
+ 
+    0.4297094  
+ 
+ t1  =
+ 
+    0.964  
+ 
+ To1  =
+ 
+    347.51037  
+ 
+ p1  =
+ 
+    0.881  
+ 
+ Po1  =
+ 
+    743.47333  
+ 
+ t2  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    289.82365  
+ 
+ C2  =
+ 
+    478.84235  
+ 
+ a2  =
+ 
+    284.16496  
+ 
+ M2  =
+ 
+    1.6850858  
+ 
+ p2  =
+ 
+    0.208  
+ 
+ Po2  =
+ 
+    663.46154  
+ 
+ SPC  =
+ 
+    80.011787  
+ 
+ ds  =
+ 
+    29.582772  
+ 
+ T2s  =
+ 
+    214.6834  
+ 
+ eff  =
+ 
+    93.918876  
+ 
+ 
+ 
+(A)Exit mach number is 1.69
+ (B)Change in the stagnation pressure between inlet and exit is 80.01 kPa
+ (C)Change in entropy is 29.583 J/kg-K
+ (D)Static temperature at throat is 289.8 K
+ (E)Nozzle efficiency is 93.92 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.19/19.sce #
+ 
+ 
+ 
+ 
+ m  =
+ 
+    0.32  
+ 
+ L  =
+ 
+    140.  
+ 
+ P1  =
+ 
+    800.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ P2  =
+ 
+    600.  
+ 
+ f  =
+ 
+    0.006  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ 
+ a  =
+ 
+    10.203131  
+ 
+ b  =
+ 
+    0.2876821  
+ 
+ c  =
+ 
+    1.68  
+ 
+ p5  =
+ 
+                                  5  
+  - 1.68 - 0.2876821d + 10.203131d   
+ 
+ d  =
+ 
+    0.7133886               
+    0.2022847 + 0.6730199i  
+    0.2022847 - 0.6730199i  
+  - 0.5589789 + 0.3935509i  
+  - 0.5589789 - 0.3935509i  
+ 
+ 
+ 
+ 
+ Possible values for diameter of pipe are:\n   
+ 
+ 
+    0.7133886               
+    0.2022847 + 0.6730199i  
+    0.2022847 - 0.6730199i  
+  - 0.5589789 + 0.3935509i  
+  - 0.5589789 - 0.3935509i  
+ 
+
+Therefore Diameter of the pipe is 0.7 m 
+ 
+ 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.19/19.sce #
+ 
+ 
+ 
+ 
+ Mx  =
+ 
+    2.  
+ 
+ a1  =
+ 
+    3.  
+ 
+ Pox  =
+ 
+    0.1  
+ 
+ Tx  =
+ 
+    300.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ t1  =
+ 
+    0.555  
+ 
+ Tox  =
+ 
+    540.54054  
+ 
+ p1  =
+ 
+    0.128  
+ 
+ Px  =
+ 
+    0.0128  
+ 
+ My  =
+ 
+    0.577  
+ 
+ p2  =
+ 
+    4.5  
+ 
+ Py  =
+ 
+    0.0576  
+ 
+ t2  =
+ 
+    1.687  
+ 
+ Ty  =
+ 
+    506.1  
+ 
+ p3  =
+ 
+    0.721  
+ 
+ Poy  =
+ 
+    0.0721  
+ 
+ a2  =
+ 
+    1.2195  
+ 
+ a3  =
+ 
+    3.6585  
+ 
+ M2  =
+ 
+    0.16  
+ 
+ t3  =
+ 
+    0.9946  
+ 
+ T2  =
+ 
+    537.62162  
+ 
+ p4  =
+ 
+    0.982  
+ 
+ P2  =
+ 
+    0.0708022  
+ 
+ eff  =
+ 
+    80.12902  
+ 
+ 
+ 
+(A)At the diffuser exit:
+    Mach number is 0.16
+    Pressure is 0.071 bar
+    Temperature is 537.62 K
+ (B)Diffuser efficiency including shock is 80.129 percent 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.20/20.sce #
+ 
+ 
+ 
+ 
+ C  =
+ 
+    200.  
+ 
+ mol  =
+ 
+    4.  
+ 
+ k  =
+ 
+    1.67  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ T  =
+ 
+    288.  
+ 
+ 
+ 
+ R  =
+ 
+    2078.5  
+ 
+ a  =
+ 
+    999.83767  
+ 
+ M  =
+ 
+    0.2000325  
+ 
+ 
+ 
+Mach number is 0.2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.20/20.sce #
+ 
+ 
+ 
+ 
+ C1  =
+ 
+    200.  
+ 
+ Po1  =
+ 
+    400.  
+ 
+ To1  =
+ 
+    500.  
+ 
+ C2  =
+ 
+    100.  
+ 
+ eff  =
+ 
+    0.9  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ T1  =
+ 
+    480.0995  
+ 
+ t1  =
+ 
+    0.960199  
+ 
+ P1  =
+ 
+    346.99592  
+ 
+ To2s  =
+ 
+    498.00995  
+ 
+ To2  =
+ 
+    498.00995  
+ 
+ T2  =
+ 
+    493.03483  
+ 
+ t2  =
+ 
+    1.0373057  
+ 
+ Po2  =
+ 
+    394.45553  
+ 
+ t3  =
+ 
+    0.9900100  
+ 
+ P2  =
+ 
+    380.83475  
+ 
+ Cpr  =
+ 
+    0.6384193  
+ 
+ ar  =
+ 
+    1.8713893  
+ 
+ 
+ 
+(A)Pressure raise coefficient is 0.638
+ (B)Ratio of exit to inlet area is 1.871 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.20/20.sce #
+ 
+ 
+ 
+ 
+ Q  =
+ 
+    3.75  
+ 
+ T2  =
+ 
+    293.  
+ 
+ P2  =
+ 
+    1.25  
+ 
+ L1  =
+ 
+    30.  
+ 
+ D  =
+ 
+    0.15  
+ 
+ f  =
+ 
+    0.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ A  =
+ 
+    0.0176715  
+ 
+ C2  =
+ 
+    212.20659  
+ 
+ a2  =
+ 
+    343.11427  
+ 
+ M2  =
+ 
+    0.6184721  
+ 
+ p1  =
+ 
+    1.703  
+ 
+ Pt  =
+ 
+    0.7339988  
+ 
+ c1  =
+ 
+    0.654  
+ 
+ Ct  =
+ 
+    324.47491  
+ 
+ t1  =
+ 
+    1.114  
+ 
+ Tt  =
+ 
+    263.01616  
+ 
+ X1  =
+ 
+    0.417  
+ 
+ X2  =
+ 
+    4.  
+ 
+ X3  =
+ 
+    4.417  
+ 
+ M1  =
+ 
+    0.32  
+ 
+ p2  =
+ 
+    3.385  
+ 
+ P1  =
+ 
+    2.484586  
+ 
+ c2  =
+ 
+    0.347  
+ 
+ C1  =
+ 
+    112.59279  
+ 
+ t2  =
+ 
+    1.176  
+ 
+ T1  =
+ 
+    309.307  
+ 
+ 
+ 
+Required Inlet Condition:
+    Pressure is 2.4846 bar
+    Velocity is 112.593 m/s
+    Temperature is 309.3 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.20/20.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.3  
+ 
+ R  =
+ 
+    287.  
+ 
+ P1  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ D  =
+ 
+    0.3  
+ 
+ M1  =
+ 
+    2.  
+ 
+ Mx  =
+ 
+    1.5  
+ 
+ M2  =
+ 
+    1.  
+ 
+ f  =
+ 
+    0.003  
+ 
+ 
+ 
+ d1  =
+ 
+    0.8710801  
+ 
+ a1  =
+ 
+    386.31593  
+ 
+ C1  =
+ 
+    772.63187  
+ 
+ A1  =
+ 
+    0.0706858  
+ 
+ m  =
+ 
+    47.573283  
+ 
+ p1  =
+ 
+    0.131  
+ 
+ Po1  =
+ 
+    7.6335878  
+ 
+ t1  =
+ 
+    0.625  
+ 
+ To1  =
+ 
+    640.  
+ 
+ p2  =
+ 
+    0.424  
+ 
+ Pt1  =
+ 
+    2.3584906  
+ 
+ p3  =
+ 
+    1.773  
+ 
+ Pto1  =
+ 
+    4.3054641  
+ 
+ t2  =
+ 
+    0.719  
+ 
+ Tt1  =
+ 
+    556.32823  
+ 
+ X1  =
+ 
+    0.357  
+ 
+ p4  =
+ 
+    0.618  
+ 
+ Px  =
+ 
+    1.4575472  
+ 
+ t3  =
+ 
+    0.86  
+ 
+ Tx  =
+ 
+    478.44228  
+ 
+ p5  =
+ 
+    1.189  
+ 
+ Pox  =
+ 
+    5.1191968  
+ 
+ Xx  =
+ 
+    0.156  
+ 
+ X3  =
+ 
+    0.201  
+ 
+ L1  =
+ 
+    5.025  
+ 
+ My  =
+ 
+    0.7  
+ 
+ p6  =
+ 
+    2.413  
+ 
+ Py  =
+ 
+    3.5170613  
+ 
+ t4  =
+ 
+    1.247  
+ 
+ Ty  =
+ 
+    596.61752  
+ 
+ p7  =
+ 
+    0.926  
+ 
+ Poy  =
+ 
+    4.7403762  
+ 
+ p8  =
+ 
+    1.479  
+ 
+ Pt  =
+ 
+    2.3779995  
+ 
+ p9  =
+ 
+    1.097  
+ 
+ Pot  =
+ 
+    4.3212181  
+ 
+ t5  =
+ 
+    1.071  
+ 
+ Tt  =
+ 
+    557.06585  
+ 
+ Xy  =
+ 
+    0.231  
+ 
+ X2  =
+ 
+    0.  
+ 
+ X4  =
+ 
+    0.231  
+ 
+ L2  =
+ 
+    5.775  
+ 
+ ds1  =
+ 
+    114.67384  
+ 
+ ds2  =
+ 
+    22.06486  
+ 
+ ds3  =
+ 
+    26.570225  
+ 
+ 
+ 
+(A)Length of the duct upstream and downstream of the duct is 5.025 m and 5.775 m respectively
+ (B)Mass flow rate of the gas is 47.573 kg/s
+ (C)Change of entropy:
+    Upstream of the shock is 114.67 J/kg-K
+    Across the shock is 22.065 J/kg-K
+    Downstream of the shock is 26.5702 J/kg-K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.21/21.sce #
+ 
+ 
+ 
+ 
+ Z1  =
+ 
+    0.  
+ 
+ Z2  =
+ 
+    11.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ T2  =
+ 
+    216.5  
+ 
+ C  =
+ 
+    277.77778  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    340.17407  
+ 
+ M1  =
+ 
+    0.8165754  
+ 
+ a2  =
+ 
+    294.94016  
+ 
+ M2  =
+ 
+    0.9418106  
+ 
+ 
+ 
+(A)Speed of sound at:
+    sea level is 340.17
+    an altitude of  11 km is 294.94 m/s
+ (B)Mach numbeer at:
+    sea level is 0.82
+    an altitude of  11 km is 0.94 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.21/21.sce #
+ 
+ 
+ 
+ 
+ Po1  =
+ 
+    4.9  
+ 
+ P2  =
+ 
+    1.4  
+ 
+ To  =
+ 
+    810.  
+ 
+ m  =
+ 
+    1.  
+ 
+ eff  =
+ 
+    0.9  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ t1  =
+ 
+    0.834  
+ 
+ Tt  =
+ 
+    675.54  
+ 
+ at  =
+ 
+    520.99134  
+ 
+ Ct  =
+ 
+    520.99134  
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    2.5872  
+ 
+ dt  =
+ 
+    1.3344338  
+ 
+ At  =
+ 
+    14.383761  
+ 
+ p2  =
+ 
+    0.2857143  
+ 
+ T2s  =
+ 
+    566.28754  
+ 
+ T2  =
+ 
+    590.65879  
+ 
+ d2  =
+ 
+    0.8258658  
+ 
+ C2  =
+ 
+    663.98482  
+ 
+ A2  =
+ 
+    18.236117  
+ 
+ a2  =
+ 
+    487.16188  
+ 
+ M2  =
+ 
+    1.3629655  
+ 
+ p3  =
+ 
+    0.332  
+ 
+ Po2  =
+ 
+    4.2168675  
+ 
+ TPL  =
+ 
+    0.6831325  
+ 
+ ds  =
+ 
+    43.090943  
+ 
+ 
+ 
+(A)Throat and exit area are 14.38 cm^2 and 18.236 cm^2
+ (B)Exit mach number is 1.36
+ (C)Loss in total pressure is 0.683 bar
+ (D)Increase in entropy is 43.09 kJ/kg-K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH3/EX3.21/21.sce #
+ 
+ 
+ 
+ 
+ D1  =
+ 
+    0.134  
+ 
+ Po1  =
+ 
+    7.  
+ 
+ P1  =
+ 
+    0.245  
+ 
+ P2  =
+ 
+    0.5  
+ 
+ D2  =
+ 
+    0.0646  
+ 
+ L1  =
+ 
+    0.67  
+ 
+ L2  =
+ 
+    4.422  
+ 
+ 
+ 
+ ar  =
+ 
+    4.3027346  
+ 
+ p1  =
+ 
+    0.035  
+ 
+ APR1  =
+ 
+    0.1505957  
+ 
+ M1  =
+ 
+    2.54  
+ 
+ X1  =
+ 
+    0.44  
+ 
+ APR2  =
+ 
+    0.3073  
+ 
+ M2  =
+ 
+    1.54  
+ 
+ X2  =
+ 
+    0.151  
+ 
+ X3  =
+ 
+    0.289  
+ 
+ L3  =
+ 
+    3.752  
+ 
+ f  =
+ 
+    0.0025804  
+ 
+ 
+ 
+(A)Mach number at 0.670 m and 4.422 m are 2.54 and 1.54 respectively
+ (B)Mean value of friction between two sections is 0.00258 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.21/21.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    0.685  
+ 
+ T1  =
+ 
+    310.  
+ 
+ D  =
+ 
+    0.6  
+ 
+ M1  =
+ 
+    3.  
+ 
+ Mx  =
+ 
+    2.5  
+ 
+ M2  =
+ 
+    0.8  
+ 
+ f  =
+ 
+    0.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ d1  =
+ 
+    0.7699224  
+ 
+ a1  =
+ 
+    352.92775  
+ 
+ C1  =
+ 
+    1058.7833  
+ 
+ A1  =
+ 
+    0.2827433  
+ 
+ m  =
+ 
+    230.487  
+ 
+ p1  =
+ 
+    0.218  
+ 
+ Pt1  =
+ 
+    3.1422018  
+ 
+ t1  =
+ 
+    0.428  
+ 
+ Tt1  =
+ 
+    724.29907  
+ 
+ X1  =
+ 
+    0.522  
+ 
+ p2  =
+ 
+    0.292  
+ 
+ Px  =
+ 
+    0.9175229  
+ 
+ t2  =
+ 
+    0.533  
+ 
+ Tx  =
+ 
+    386.0514  
+ 
+ Xx  =
+ 
+    0.432  
+ 
+ X3  =
+ 
+    0.09  
+ 
+ L1  =
+ 
+    2.7  
+ 
+ My  =
+ 
+    0.513  
+ 
+ p3  =
+ 
+    7.125  
+ 
+ Py  =
+ 
+    6.5373509  
+ 
+ t3  =
+ 
+    2.138  
+ 
+ Ty  =
+ 
+    825.3779  
+ 
+ p4  =
+ 
+    2.138  
+ 
+ Pt  =
+ 
+    3.0576945  
+ 
+ t4  =
+ 
+    1.143  
+ 
+ Tt  =
+ 
+    722.1154  
+ 
+ p5  =
+ 
+    1.289  
+ 
+ P2  =
+ 
+    3.9413683  
+ 
+ t5  =
+ 
+    1.064  
+ 
+ T2  =
+ 
+    768.33078  
+ 
+ Xy  =
+ 
+    1.069  
+ 
+ X2  =
+ 
+    0.073  
+ 
+ X4  =
+ 
+    0.996  
+ 
+ L2  =
+ 
+    29.88  
+ 
+ 
+ 
+(A)Length L1 and L2 are 2.7 m and 29.88 m respectively
+ (B)State of air at exit:
+    Pressure is 3.941 bar
+    Temperature is 768.3 K
+ (C)Mass flow rate through the duct is 230.49 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.22/22.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    573.  
+ 
+ C  =
+ 
+    200.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ To  =
+ 
+    592.9005  
+ 
+ C_max  =
+ 
+    1091.6639  
+ 
+ 
+ 
+Maximum possible velocity obtained by air is 1091.66 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH2/EX2.22/22.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    3.5  
+ 
+ To  =
+ 
+    698.  
+ 
+ P2  =
+ 
+    0.97  
+ 
+ m  =
+ 
+    18.  
+ 
+ Kd  =
+ 
+    0.99  
+ 
+ eff  =
+ 
+    0.94  
+ 
+ k  =
+ 
+    1.33  
+ 
+ Cp  =
+ 
+    1110.  
+ 
+ 
+ 
+ Pt  =
+ 
+    1.8912741  
+ 
+ Tt  =
+ 
+    599.14163  
+ 
+ R  =
+ 
+    275.41353  
+ 
+ m_s  =
+ 
+    18.181818  
+ 
+ at  =
+ 
+    468.47154  
+ 
+ Ct  =
+ 
+    468.47154  
+ 
+ dt  =
+ 
+    1.1461453  
+ 
+ At  =
+ 
+    338.62141  
+ 
+ p2  =
+ 
+    0.2771429  
+ 
+ T2s  =
+ 
+    507.66695  
+ 
+ T2  =
+ 
+    519.08694  
+ 
+ d2  =
+ 
+    0.6784945  
+ 
+ C2  =
+ 
+    630.22774  
+ 
+ A2  =
+ 
+    425.20018  
+ 
+ 
+ 
+Throat area and Exit area of nozzle are 338.6 cm^2 and 425.2 cm^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.22/22.sce #
+ 
+ 
+ 
+ 
+ At  =
+ 
+    24.  
+ 
+ A2  =
+ 
+    50.  
+ 
+ Po  =
+ 
+    700.  
+ 
+ To  =
+ 
+    373.  
+ 
+ Ax  =
+ 
+    34.  
+ 
+ Ay  =
+ 
+    34.  
+ 
+ 
+ 
+ a1  =
+ 
+    1.4166667  
+ 
+ Mx  =
+ 
+    1.78  
+ 
+ t1  =
+ 
+    0.61212  
+ 
+ Tx  =
+ 
+    228.32076  
+ 
+ p1  =
+ 
+    0.179  
+ 
+ Px  =
+ 
+    125.3  
+ 
+ My  =
+ 
+    0.621  
+ 
+ p2  =
+ 
+    3.5298  
+ 
+ Py  =
+ 
+    442.28394  
+ 
+ t2  =
+ 
+    1.51669  
+ 
+ Ty  =
+ 
+    346.29181  
+ 
+ p3  =
+ 
+    4.578  
+ 
+ Po2  =
+ 
+    573.6234  
+ 
+ a2  =
+ 
+    1.16565  
+ 
+ At2  =
+ 
+    29.168275  
+ 
+ a3  =
+ 
+    1.7141912  
+ 
+ M2  =
+ 
+    0.36  
+ 
+ p4  =
+ 
+    0.914  
+ 
+ P2  =
+ 
+    524.29179  
+ 
+ t3  =
+ 
+    0.975  
+ 
+ T2  =
+ 
+    363.675  
+ 
+ 
+ 
+(A)Properties of fluid just after shock:
+    Mach number My=0.621
+    Temperature is 346.29 K
+    Pressure is 442.28 kPa
+ (B)Exit mach number is 0.36
+ (C)Properties of fluid at exit:
+    Pressure is 524 kPa
+    Temperature is 363.675 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.23/23.sce #
+ 
+ 
+ 
+ 
+ dT  =
+ 
+    37.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ C  =
+ 
+    272.70864  
+ 
+ 
+ 
+Exit velocity of air is 272.7 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.23/23.sce #
+ 
+ 
+ 
+ 
+ D  =
+ 
+    0.4  
+ 
+ Po  =
+ 
+    12.  
+ 
+ To  =
+ 
+    600.  
+ 
+ f  =
+ 
+    0.0025  
+ 
+ M1  =
+ 
+    1.8  
+ 
+ M2  =
+ 
+    1.  
+ 
+ Mx  =
+ 
+    1.22  
+ 
+ 
+ 
+ A2  =
+ 
+    0.1256637  
+ 
+ p1  =
+ 
+    0.174  
+ 
+ P1  =
+ 
+    2.088  
+ 
+ t1  =
+ 
+    0.607  
+ 
+ T1  =
+ 
+    364.2  
+ 
+ a1  =
+ 
+    1.094  
+ 
+ Ax  =
+ 
+    0.1148663  
+ 
+ Dt  =
+ 
+    38.242945  
+ 
+ p2  =
+ 
+    0.474  
+ 
+ Pt  =
+ 
+    4.4050633  
+ 
+ t2  =
+ 
+    0.728  
+ 
+ Tt  =
+ 
+    500.27473  
+ 
+ X1  =
+ 
+    0.242  
+ 
+ p3  =
+ 
+    0.788  
+ 
+ Px  =
+ 
+    3.4711899  
+ 
+ t3  =
+ 
+    0.925  
+ 
+ Tx  =
+ 
+    462.75412  
+ 
+ Xx  =
+ 
+    0.039  
+ 
+ X3  =
+ 
+    0.203  
+ 
+ L1  =
+ 
+    8.12  
+ 
+ My  =
+ 
+    0.83  
+ 
+ p4  =
+ 
+    1.57  
+ 
+ Py  =
+ 
+    5.4497681  
+ 
+ t4  =
+ 
+    1.141  
+ 
+ Ty  =
+ 
+    528.00245  
+ 
+ p5  =
+ 
+    1.2375  
+ 
+ Pt  =
+ 
+    4.403853  
+ 
+ t5  =
+ 
+    1.055  
+ 
+ Tt  =
+ 
+    500.47626  
+ 
+ Xy  =
+ 
+    0.049  
+ 
+ X2  =
+ 
+    0.  
+ 
+ X4  =
+ 
+    0.049  
+ 
+ L2  =
+ 
+    1.96  
+ 
+ L  =
+ 
+    10.08  
+ 
+ 
+ 
+(A)Length of the pipe is 10.08 m
+ (B)Diameter of the nozzle throat is 38.243 cm
+ (C)At the pipe exit:
+    Pressure is 4.404 bar
+    Temperature is 500.48 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.24/24.sce #
+ 
+ 
+ 
+ 
+ C  =
+ 
+    222.22222  
+ 
+ Po  =
+ 
+    105.  
+ 
+ To  =
+ 
+    308.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ T  =
+ 
+    283.43148  
+ 
+ P  =
+ 
+    78.492852  
+ 
+ a  =
+ 
+    337.46521  
+ 
+ M  =
+ 
+    0.6585041  
+ 
+ 
+ 
+(A)Static conditions:
+    Pressure is 78.49 kPa
+    Temperature is 283.43 K
+    Sound Velocity is 337.47 m/s
+ (B)Mach number is 0.66 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.24/24.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    700.  
+ 
+ To  =
+ 
+    773.  
+ 
+ a1  =
+ 
+    3.5  
+ 
+ m  =
+ 
+    5.5  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ My  =
+ 
+    0.8451543  
+ 
+ M2  =
+ 
+    2.8  
+ 
+ t1  =
+ 
+    0.389  
+ 
+ T2  =
+ 
+    300.697  
+ 
+ p1  =
+ 
+    0.0369  
+ 
+ P2  =
+ 
+    25.83  
+ 
+ p2  =
+ 
+    0.2  
+ 
+ Pt2  =
+ 
+    129.15  
+ 
+ t2  =
+ 
+    0.315  
+ 
+ Tt2  =
+ 
+    954.59365  
+ 
+ t3  =
+ 
+    0.674  
+ 
+ Tto2  =
+ 
+    1146.8843  
+ 
+ Mx  =
+ 
+    1.2  
+ 
+ p3  =
+ 
+    0.796  
+ 
+ Px  =
+ 
+    102.8034  
+ 
+ t4  =
+ 
+    0.912  
+ 
+ Tx  =
+ 
+    870.58941  
+ 
+ t5  =
+ 
+    0.978  
+ 
+ Tox  =
+ 
+    1121.6528  
+ 
+ p4  =
+ 
+    1.513  
+ 
+ Py  =
+ 
+    155.54154  
+ 
+ t6  =
+ 
+    1.128  
+ 
+ Ty  =
+ 
+    982.02485  
+ 
+ t7  =
+ 
+    0.875  
+ 
+ Toy  =
+ 
+    1122.3141  
+ 
+ p5  =
+ 
+    1.207  
+ 
+ Pt  =
+ 
+    128.86623  
+ 
+ t8  =
+ 
+    1.028  
+ 
+ Tt  =
+ 
+    955.2771  
+ 
+ t9  =
+ 
+    0.978  
+ 
+ Tot  =
+ 
+    1147.5604  
+ 
+ q1  =
+ 
+    350.39608  
+ 
+ q2  =
+ 
+    25.372562  
+ 
+ Q  =
+ 
+    2066.7275  
+ 
+ 
+ 
+(A)Amount of heat added in two pipe section is 2066.73 kJ/s
+ (B)Properties:
+ Upstream of shock:
+    Pressure is 102.8 kPa
+    Temperature is 870.589 K
+    Stagnation temperature is 1121.65 K
+    Mach number is 1.2
+ Downstream of shock:
+    Pressure is 155.542 kPa
+    Temperature is 982.025 K
+    Stagnation temperature is 1122.3 K
+    Mach number is 0.845
+ At the throat:
+    Pressure is 128.87 kPa
+    Temperature is 955.277 K
+    Stagnation temperature is 1147.56 K
+ At the exit:
+    Pressure is 25.83 kPa
+    Temperature is 300.70 K
+    Mach number is 2.80 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.25/25.sce #
+ 
+ 
+ 
+ 
+ C  =
+ 
+    215.  
+ 
+ T  =
+ 
+    303.  
+ 
+ P  =
+ 
+    5.  
+ 
+ R  =
+ 
+    287.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ a  =
+ 
+    348.92033  
+ 
+ M  =
+ 
+    0.6161865  
+ 
+ To  =
+ 
+    326.00896  
+ 
+ Po  =
+ 
+    6.459876  
+ 
+ 
+ 
+(A)Stagnation Pressure is 6.4599 bar
+ (B)Mach number is 0.616 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.25/25.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    2.8  
+ 
+ sig  =
+ 
+    42.  
+ 
+ Px  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ Mx  =
+ 
+    1.8735657  
+ 
+ My  =
+ 
+    0.601  
+ 
+ p1  =
+ 
+    3.98  
+ 
+ Py  =
+ 
+    3.98  
+ 
+ p2  =
+ 
+    4.994  
+ 
+ Poy  =
+ 
+    4.994  
+ 
+ p3  =
+ 
+    0.788  
+ 
+ Pox  =
+ 
+    6.3375635  
+ 
+ dPl  =
+ 
+    1.3435635  
+ 
+ def  =
+ 
+    22.007432  
+ 
+ M2  =
+ 
+    1.7578329  
+ 
+ 
+ 
+(A)Deflection angle is  22 degree
+ (B)Downstream mach number is 1.758
+ (C)Static pressure is 3.980 bar
+ (D)Total pressure loss is 1.344 bar 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.26/26.sce #
+ 
+ 
+ 
+ 
+ T  =
+ 
+    400.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a  =
+ 
+    400.89899  
+ 
+ C  =
+ 
+    400.89899  
+ 
+ To  =
+ 
+    479.9602  
+ 
+ ao  =
+ 
+    439.14463  
+ 
+ ho  =
+ 
+    482.36  
+ 
+ C_max  =
+ 
+    982.20161  
+ 
+ cr  =
+ 
+    0.4081636  
+ 
+ 
+ 
+(A)Velocity of sound at 400 K is 400.899 m/s
+ (B)Velocity of sound at stagnation condition is 439.145 m/s
+ (C)Maximum velocity of jet is 982.202 m/s
+ (D)Stagnation enthalpy is 482.360 kJ/kg
+ (E)Crocco number is 0.4082 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.26/26.sce #
+ 
+ 
+ 
+ 
+ M1  =
+ 
+    2.  
+ 
+ sig  =
+ 
+    40.  
+ 
+ Px  =
+ 
+    0.5  
+ 
+ Tx  =
+ 
+    273.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ Mx  =
+ 
+    1.2855752  
+ 
+ My  =
+ 
+    0.796  
+ 
+ p1  =
+ 
+    1.745  
+ 
+ Py  =
+ 
+    0.8725  
+ 
+ t1  =
+ 
+    1.178  
+ 
+ Ty  =
+ 
+    321.594  
+ 
+ Ws  =
+ 
+    10.62291  
+ 
+ W  =
+ 
+    21.245819  
+ 
+ 
+ 
+(A)Static pressure is 0.8725 bar
+ (B)Temperature behind the wave is 321.59 K
+ (C)Mach number of flow passing over wedge is 1.286
+ (D)Wedge angle is 21.25 degree 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.27/27.sce #
+ 
+ 
+ 
+ 
+ C  =
+ 
+    250.  
+ 
+ D  =
+ 
+    10.  
+ 
+ T  =
+ 
+    278.  
+ 
+ P  =
+ 
+    40.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ To  =
+ 
+    309.09453  
+ 
+ Po  =
+ 
+    57.972604  
+ 
+ d  =
+ 
+    0.5013411  
+ 
+ A  =
+ 
+    0.0078540  
+ 
+ m  =
+ 
+    0.9843809  
+ 
+ 
+ 
+(A)Stagnation pressure is 57.97 kPa
+ (B)Stagnation temperature is 309.09 K
+ (C)Mass flow rate is 0.9844 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.27/27.sce #
+ 
+ 
+ 
+ 
+ def  =
+ 
+    15.  
+ 
+ M1  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ 
+ 
+ C  =
+ 
+    3.1082106  
+ 
+ D  =
+ 
+    2.1435935  
+ 
+ a  =
+ 
+    4.  
+ 
+ b  =
+ 
+    0.  
+ 
+ c  =
+ 
+    45.660973  
+ 
+ d  =
+ 
+    0.  
+ 
+ e  =
+ 
+    109.32548  
+ 
+ f  =
+ 
+    0.  
+ 
+ g  =
+ 
+    68.594993  
+ 
+ p4  =
+ 
+                  2            4            6  
+    4 - 45.660973x + 109.32548x - 68.594993x   
+ 
+ 
+ Values for sine of wave angle are:\n   
+ 
+ 
+  - 0.9842934  
+  - 0.7113347  
+  - 0.3448937  
+    0.9842934  
+    0.7113347  
+    0.3448937  
+ 
+ sig1  =
+ 
+    79.801421  
+ 
+ sig2  =
+ 
+    45.340786  
+ 
+ 
+ Mx_1  =
+ 
+    1.9684  
+ 
+ My_1  =
+ 
+    0.584  
+ 
+ p1  =
+ 
+    4.315  
+ 
+ t1  =
+ 
+    1.656  
+ 
+ d1  =
+ 
+    2.6056763  
+ 
+ M2_1  =
+ 
+    0.6454197  
+ 
+ Mx_2  =
+ 
+    1.4226  
+ 
+ My_2  =
+ 
+    0.731  
+ 
+ p2  =
+ 
+    2.186  
+ 
+ t2  =
+ 
+    1.267  
+ 
+ d2  =
+ 
+    1.7253354  
+ 
+ M2_2  =
+ 
+    1.4471176  
+ 
+ 
+ 
+
+Strong Shock Wave:
+    (A)Wave angle is 79.8 degree
+    (B)Pressure ratio is 4.315
+    (C)Density ratio is 2.606
+    (D)Temperature ratio is 1.656
+    (E)Downstream Mach number is 0.645
+ Weak Shock Wave:
+    (A)Wave angle is 45.3 degree
+    (B)Pressure ratio is 2.186
+    (C)Density ratio is 1.725
+    (D)Temperature ratio is 1.267
+    (E)Downstream Mach number is 1.447 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.28/28.sce #
+ 
+ 
+ 
+ 
+ C  =
+ 
+    300.  
+ 
+ P  =
+ 
+    1.  
+ 
+ T  =
+ 
+    290.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ To  =
+ 
+    334.77612  
+ 
+ Po  =
+ 
+    1.6529041  
+ 
+ a  =
+ 
+    341.35319  
+ 
+ Co  =
+ 
+    366.7602  
+ 
+ 
+ 
+(A)Stagnation pressure and temperature are 1.6529 bar and 334.78 K
+ (B)Velocity of sound in the dynamic and stagnation conditions are 341.35 m/s and 366.76 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH5/EX5.28/28.sce #
+ 
+ 
+ 
+ 
+ k  =
+ 
+    1.3  
+ 
+ P1  =
+ 
+    0.345  
+ 
+ T1  =
+ 
+    350.  
+ 
+ M1  =
+ 
+    1.5  
+ 
+ P2  =
+ 
+    0.138  
+ 
+ 
+ 
+ p1  =
+ 
+    0.284  
+ 
+ Po  =
+ 
+    1.2147887  
+ 
+ t1  =
+ 
+    0.748  
+ 
+ To  =
+ 
+    467.91444  
+ 
+ p2  =
+ 
+    0.1136  
+ 
+ M2  =
+ 
+    2.08  
+ 
+ t2  =
+ 
+    0.606  
+ 
+ T2  =
+ 
+    283.55615  
+ 
+ w1  =
+ 
+    12.693  
+ 
+ w2  =
+ 
+    31.12  
+ 
+ def  =
+ 
+    18.427  
+ 
+ 
+ 
+(A)Deflection Angle is 18.427 degree
+ (B)Final Mach number is 2.08
+ (C)The temperature of the gas is 283.556 K 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.29/29.sce #
+ 
+ 
+ 
+ 
+ dP  =
+ 
+    0.6532796  
+ 
+ P  =
+ 
+    1.36785  
+ 
+ To  =
+ 
+    298.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ Po  =
+ 
+    2.0211296  
+ 
+ T  =
+ 
+    266.54576  
+ 
+ C1  =
+ 
+    251.44188  
+ 
+ di  =
+ 
+    0.0000236  
+ 
+ C2  =
+ 
+    235.1346  
+ 
+ 
+ 
+Flow velocity for:
+ (A)Compressible flow is 251.44 m/s
+ (B)Incompressible flow is 235.13 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.30/30.sce #
+ 
+ 
+ 
+ 
+ To  =
+ 
+    300.  
+ 
+ Po  =
+ 
+    8.  
+ 
+ P  =
+ 
+    5.6  
+ 
+ m  =
+ 
+    2.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ T  =
+ 
+    270.93403  
+ 
+ a  =
+ 
+    329.94135  
+ 
+ C  =
+ 
+    241.70769  
+ 
+ M  =
+ 
+    0.7325777  
+ 
+ A  =
+ 
+    11.48939  
+ 
+ 
+ 
+(A)Mach number is 0.7326
+ (B)Velocity is 241.7 m/s
+ (C)Area at a point in the channal is 11.489 cm^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.31/31.sce #
+ 
+ 
+ 
+ 
+ Po  =
+ 
+    1.8  
+ 
+ To  =
+ 
+    293.  
+ 
+ P  =
+ 
+    1.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ p1  =
+ 
+    0.528  
+ 
+ Pt  =
+ 
+    0.9504  
+ 
+ di  =
+ 
+    2.1405382  
+ 
+ ao  =
+ 
+    343.11427  
+ 
+ Cp  =
+ 
+    1004.5  
+ 
+ C  =
+ 
+    301.66227  
+ 
+ G  =
+ 
+    424.33267  
+ 
+ 
+ 
+(A)Velocity of air flow which will take place from chamber to the outside through a unit area hole is 301.662 m/s
+ (B)Mass flow rate per unit area is 424.333 kg/s-m^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.32/32.sce #
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    465.125  
+ 
+ T1  =
+ 
+    299.66  
+ 
+ P1  =
+ 
+    3.4473  
+ 
+ C1  =
+ 
+    152.5  
+ 
+ P2  =
+ 
+    2.06838  
+ 
+ T2  =
+ 
+    277.44  
+ 
+ C2  =
+ 
+    260.775  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ To1  =
+ 
+    311.23027  
+ 
+ To2  =
+ 
+    311.27264  
+ 
+ 
+ d1  =
+ 
+    4.0083756  
+ 
+ d2  =
+ 
+    2.5976424  
+ 
+ ar  =
+ 
+    1.1081717  
+ 
+ A2  =
+ 
+    419.72286  
+ 
+ C_max  =
+ 
+    790.93163  
+ 
+ m  =
+ 
+    28.432034  
+ 
+ F  =
+ 
+    4274.3119  
+ 
+ 
+ 
+(A)Maximum velocity and stagnation temperature at exit are 790.93 m/s and 311.27 K
+ (B)Since Stagnation temperature 311 K at entry and 311 K at exit are equal, the flow is adiabatic
+ (C)Cross sectional area at exit is 419.72 cm^2
+ (D)Force acting on the duct wall between two sections is 4274.31 N 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.33/33.sce #
+ 
+ 
+ 
+ 
+ P1  =
+ 
+    250.  
+ 
+ T1  =
+ 
+    299.  
+ 
+ M1  =
+ 
+    1.4  
+ 
+ M2  =
+ 
+    2.5  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ C1  =
+ 
+    485.25341  
+ 
+ To  =
+ 
+    416.208  
+ 
+ t1  =
+ 
+    2.25  
+ 
+ T2  =
+ 
+    184.98133  
+ 
+ C2  =
+ 
+    681.56759  
+ 
+ P2  =
+ 
+    46.562739  
+ 
+ d2  =
+ 
+    0.8770588  
+ 
+ G  =
+ 
+    597.77486  
+ 
+ 
+ 
+(A)At second section:
+    Temperature is 184.98 K
+    Pressure is 46.56 kPa
+    Velocity is 681.5676 m/s
+ (B)Mass flow rate through the duct per square metre is 597.8 kg/s-m^2 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.34/34.sce #
+ 
+ 
+ 
+ 
+ M  =
+ 
+    2.  
+ 
+ h  =
+ 
+    20.  
+ 
+ Tc  =
+ 
+  - 56.  
+ 
+ Ta  =
+ 
+    217.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ Cp  =
+ 
+    1005.  
+ 
+ 
+ 
+ a  =
+ 
+    295.28054  
+ 
+ C  =
+ 
+    590.56109  
+ 
+ To  =
+ 
+    117.51363  
+ 
+ 
+ 
+The maximum temperature encountered is 117.5 degree Centigrade 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.35/35.sce #
+ 
+ 
+ 
+ 
+ W  =
+ 
+    20000.  
+ 
+ m  =
+ 
+    12.  
+ 
+ C1  =
+ 
+    50.  
+ 
+ T1  =
+ 
+    973.  
+ 
+ T2  =
+ 
+    298.  
+ 
+ C2  =
+ 
+    125.  
+ 
+ Cp  =
+ 
+    1.005  
+ 
+ 
+ 
+ dh  =
+ 
+  - 678.375  
+ 
+ Q  =
+ 
+    11780.75  
+ 
+ 
+ 
+The rate of heat transfer is 11780.75 kJ/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.36/36.sce #
+ 
+ 
+ 
+ 
+ mol  =
+ 
+    39.9  
+ 
+ k  =
+ 
+    1.67  
+ 
+ Po  =
+ 
+    500.  
+ 
+ To  =
+ 
+    303.  
+ 
+ P1  =
+ 
+    80.  
+ 
+ D  =
+ 
+    0.012  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ 
+ 
+ R  =
+ 
+    208.37093  
+ 
+ p1  =
+ 
+    6.25  
+ 
+ M1  =
+ 
+    1.800461  
+ 
+ T1  =
+ 
+    145.25713  
+ 
+ a  =
+ 
+    224.82548  
+ 
+ C1  =
+ 
+    404.78952  
+ 
+ d  =
+ 
+    2.6431109  
+ 
+ A1  =
+ 
+    0.0001131  
+ 
+ m  =
+ 
+    0.1210032  
+ 
+ 
+ 
+(A)At section:
+    Mach number is 1.8
+    Temperature is 145.3 K
+    Velocity is 404.790 m/s
+ (B)Mass flow rate through nozzle is 0.121 kg/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.37/37.sce #
+ 
+ 
+ 
+ 
+ mol  =
+ 
+    4.  
+ 
+ k  =
+ 
+    1.3  
+ 
+ C1  =
+ 
+    150.  
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    288.  
+ 
+ T2  =
+ 
+    263.  
+ 
+ Ri  =
+ 
+    8314.  
+ 
+ 
+ 
+ R  =
+ 
+    2078.5  
+ 
+ a1  =
+ 
+    882.15101  
+ 
+ M1  =
+ 
+    0.1700389  
+ 
+ t1  =
+ 
+    0.9955  
+ 
+ To  =
+ 
+    289.30186  
+ 
+ p1  =
+ 
+    0.9815  
+ 
+ Po  =
+ 
+    101.88487  
+ 
+ t2  =
+ 
+    0.9090851  
+ 
+ M2  =
+ 
+    0.82  
+ 
+ p2  =
+ 
+    0.659  
+ 
+ P2  =
+ 
+    67.142129  
+ 
+ a2  =
+ 
+    842.99416  
+ 
+ C2  =
+ 
+    691.25521  
+ 
+ 
+ 
+At the second point:
+    Mach number is 0.82
+    Pressure is 67.142 kPa
+    Velocity is 691.26 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.38/38.sce #
+ 
+ 
+ 
+ 
+ A1  =
+ 
+    10.  
+ 
+ C1  =
+ 
+    80.  
+ 
+ T1  =
+ 
+    301.  
+ 
+ P1  =
+ 
+    700.  
+ 
+ P2  =
+ 
+    250.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ a1  =
+ 
+    347.76688  
+ 
+ M1  =
+ 
+    0.2300392  
+ 
+ t1  =
+ 
+    0.989  
+ 
+ To  =
+ 
+    304.34783  
+ 
+ p1  =
+ 
+    0.964  
+ 
+ Po  =
+ 
+    726.14108  
+ 
+ p2  =
+ 
+    0.3442857  
+ 
+ M2  =
+ 
+    1.335  
+ 
+ t2  =
+ 
+    0.737  
+ 
+ T2  =
+ 
+    224.30435  
+ 
+ a2  =
+ 
+    300.20907  
+ 
+ C2  =
+ 
+    400.77911  
+ 
+ d1  =
+ 
+    8.1030711  
+ 
+ m  =
+ 
+    0.6482457  
+ 
+ 
+ 
+(A)Mass flow rate is 0.648 kg/s
+ (B)Velocity at the exit is 400.78 m/s 
+ 
+grepthis#Gas_Dynamics_And_Jet_Propulsion_P._Murugaperumal_2126/CH1/EX1.39/39.sce #
+ 
+ 
+ 
+ 
+ V  =
+ 
+    5.  
+ 
+ Ae  =
+ 
+    0.001  
+ 
+ To  =
+ 
+    333.  
+ 
+ Po1  =
+ 
+    40.  
+ 
+ Po2  =
+ 
+    2.  
+ 
+ P  =
+ 
+    1.  
+ 
+ R  =
+ 
+    287.  
+ 
+ 
+ 
+ 
+ Gp  =
+ 
+    0.0000022  
+ 
+ 
+ t  =
+ 
+    70.760334  
+ 
+ 
+ 
+The time required for tank pressure to decrease from 40 bar to 2 bar is 70.76 sec 
+ 

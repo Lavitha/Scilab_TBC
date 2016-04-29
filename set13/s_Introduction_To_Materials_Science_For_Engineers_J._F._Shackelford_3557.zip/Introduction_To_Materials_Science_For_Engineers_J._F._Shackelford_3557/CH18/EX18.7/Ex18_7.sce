@@ -1,0 +1,10 @@
+mode(2);errcatch(-1,"stop");driver("GIF");//Example 18.7//
+
+y=[0 9 9.2 5.3 0]; //B(webers/m^2)
+x=[0 0.30 0.46 0.53 0.56]; //(BH(weber A/m^3 = J/m^3)
+plot2d(x,y, style=1)
+mprintf("(BH)max ~10*10^3 J/m^3")
+ylabel("BH*(kJ/m^3)","fontsize",4);
+xlabel("B(web/m^2)","fontsize",4);
+
+xinit('/home/fossee/Downloads/tbc_graphs/Introduction_To_Materials_Science_For_Engineers_J._F._Shackelford_3557/Ex18_7');xend();exit();

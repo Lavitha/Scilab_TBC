@@ -1,0 +1,9007 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 166
+
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.1/1.sce #
+ 
+ p  =
+ 
+    343350.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ h1  =
+ 
+    35.  
+ 
+ 
+ pressure in term of height of water(m)   
+ 
+    35.  
+ 
+ s1  =
+ 
+    1.  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ h2  =
+ 
+    2.5735294  
+ 
+ 
+ pressure in term of height of mercury(m)   
+ 
+    2.5735294  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.2/2.sce #
+ 
+ h1  =
+ 
+    0.75  
+ 
+ w  =
+ 
+    9810.  
+ 
+ w1  =
+ 
+    133416.  
+ 
+ Patm  =
+ 
+    100062.  
+ 
+ w2  =
+ 
+    15000.  
+ 
+ h2  =
+ 
+    3.  
+ 
+ p  =
+ 
+    45000.  
+ 
+ Pabs  =
+ 
+    145062.  
+ 
+ 
+ gauge pressure(N/m2)   
+ 
+    45000.  
+ 
+ 
+ absolute pressure(N/m2)   
+ 
+    145062.  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.3/3.sce #
+ 
+ h1  =
+ 
+    2.5  
+ 
+ h2  =
+ 
+    1.5  
+ 
+ s1  =
+ 
+    1.  
+ 
+ s2  =
+ 
+    0.8  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p2  =
+ 
+    11772.  
+ 
+ p1  =
+ 
+    24525.  
+ 
+ p  =
+ 
+    36297.  
+ 
+ 
+ pressure intensity at interface(N/m2)   
+ 
+    11772.  
+ 
+ 
+ pressure intensity at bottom(N/m2)   
+ 
+    36297.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.4/4.sce #
+ 
+ p  =
+ 
+    71613.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ phead  =
+ 
+    7.3  
+ 
+ patm  =
+ 
+    10.33  
+ 
+ pabs  =
+ 
+    17.63  
+ 
+ 
+ absolute pressure in term of water height in meters   
+ 
+    17.63  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.5/5.sce #
+ 
+ h1  =
+ 
+    0.05  
+ 
+ h2  =
+ 
+    0.1  
+ 
+ s1  =
+ 
+    0.8  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+    13341.6  
+ 
+ p1  =
+ 
+    392.4  
+ 
+ pf  =
+ 
+    12949.2  
+ 
+ 
+ pressure in pipe(N/m2)   
+ 
+    12949.2  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.6/6.sce #
+ 
+ h1  =
+ 
+    0.2  
+ 
+ h2  =
+ 
+    0.5  
+ 
+ s1  =
+ 
+    0.9  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ h  =
+ 
+  - 6.98  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+  - 68473.8  
+ 
+ 
+ vacuum pressure (N/m2)   
+ 
+  - 68473.8  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.7/7.sce #
+ 
+ s1  =
+ 
+    0.8  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ dh  =
+ 
+    0.4  
+ 
+ h  =
+ 
+    5.12  
+ 
+ w  =
+ 
+    9810.  
+ 
+ pd  =
+ 
+    50227.2  
+ 
+ 
+ pressure difference in height of water()   
+ 
+    5.12  
+ 
+ 
+ presuure difference in N/m2   
+ 
+    50227.2  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.8/8.sce #
+ 
+ s1  =
+ 
+    0.8  
+ 
+ s2  =
+ 
+    0.7  
+ 
+ h1  =
+ 
+    1.5  
+ 
+ h2  =
+ 
+    0.3  
+ 
+ h3  =
+ 
+    0.7  
+ 
+ s3  =
+ 
+    13.6  
+ 
+ hd  =
+ 
+    8.53  
+ 
+ w  =
+ 
+    9810.  
+ 
+ pd  =
+ 
+    83679.3  
+ 
+ 
+ diffrence in pressure in term of height of water(m)   
+ 
+    8.53  
+ 
+ 
+ difference in pressure (N/m2)   
+ 
+    83679.3  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.9/9.sce #
+ 
+ s1  =
+ 
+    1.6  
+ 
+ s2  =
+ 
+    0.8  
+ 
+ s3  =
+ 
+    13.6  
+ 
+ p1  =
+ 
+    98100.  
+ 
+ p2  =
+ 
+    176580.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ h1  =
+ 
+    10.  
+ 
+ h2  =
+ 
+    18.  
+ 
+ h  =
+ 
+    0.2125  
+ 
+ 
+ difference in mercury level(cm)   
+ 
+    21.25  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.10/10.sce #
+ 
+ s1  =
+ 
+    1.2  
+ 
+ s2  =
+ 
+    1.  
+ 
+ s3  =
+ 
+    0.7  
+ 
+ h  =
+ 
+    0.2  
+ 
+ 
+ difference in height(cm)   
+ 
+    20.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.11/11.sce #
+ 
+ s1  =
+ 
+    0.8  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ z  =
+ 
+    0.02  
+ 
+ w  =
+ 
+    9810.  
+ 
+ h2  =
+ 
+    0.2  
+ 
+ h1  =
+ 
+    0.1  
+ 
+ h  =
+ 
+    2.6912  
+ 
+ p  =
+ 
+    26400.672  
+ 
+ 
+ pressure of the oil in N/m2   
+ 
+    26400.672  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.12/12.sce #
+ 
+ l  =
+ 
+    4.  
+ 
+ b  =
+ 
+    2.  
+ 
+ h  =
+ 
+    3.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ s  =
+ 
+    0.8  
+ 
+ p1  =
+ 
+    188352.  
+ 
+ p2  =
+ 
+    141264.  
+ 
+ p3  =
+ 
+    70632.  
+ 
+ 
+ total pressure on horizontal base   
+ 
+    188352.  
+ 
+ 
+ total pressure on larger vertical base   
+ 
+    141264.  
+ 
+ 
+ total pressure on smaller vertical walls   
+ 
+    70632.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.13/13.sce #
+ 
+ p  =
+ 
+    490500.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ h  =
+ 
+    50.  
+ 
+ D  =
+ 
+    0.15  
+ 
+ A  =
+ 
+    0.0176737  
+ 
+ pt  =
+ 
+    8668.9744  
+ 
+ h1  =
+ 
+    0.0000281  
+ 
+ 
+ total hydrostatic pressure in N   
+ 
+    8668.9744  
+ 
+ 
+ position of centre of pressure below the centre of pipe   
+ 
+    0.0000281  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.14/14.sce #
+ 
+ w  =
+ 
+    9810.  
+ 
+ h  =
+ 
+    4.  
+ 
+ d  =
+ 
+    2.  
+ 
+ a  =
+ 
+    3.142  
+ 
+ p  =
+ 
+    123292.08  
+ 
+ h1  =
+ 
+    0.0625  
+ 
+ T  =
+ 
+    7705.755  
+ 
+ 
+ torque required to keep the disc in vertical position in N.m   
+ 
+    7705.755  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.15/15.sce #
+ 
+ w  =
+ 
+    9810.  
+ 
+ h  =
+ 
+    2.  
+ 
+ l  =
+ 
+    2.  
+ 
+ b  =
+ 
+    1.  
+ 
+ a  =
+ 
+    2.  
+ 
+ p  =
+ 
+    39240.  
+ 
+ h1  =
+ 
+    2.1666667  
+ 
+ 
+ total pressure   
+ 
+    39240.  
+ 
+ 
+ location of its centre of pressure   
+ 
+    2.1666667  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.16/16.sce #
+ 
+ h1  =
+ 
+    8.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ wd  =
+ 
+    6.  
+ 
+ p1  =
+ 
+    1883520.  
+ 
+ h2  =
+ 
+    4.  
+ 
+ p2  =
+ 
+    470880.  
+ 
+ h11  =
+ 
+    5.33328  
+ 
+ h22  =
+ 
+    2.6664  
+ 
+ p  =
+ 
+    1412640.  
+ 
+ hf  =
+ 
+    3.1110933  
+ 
+ 
+ resultant force   
+ 
+    1412640.  
+ 
+ 
+ position of its line of action   
+ 
+    3.1110933  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.17/17.sce #
+ 
+ z  =
+ 
+    9810.  
+ 
+ w  =
+ 
+    10.  
+ 
+ h  =
+ 
+    2.  
+ 
+ p  =
+ 
+    196200.  
+ 
+ h1  =
+ 
+    1.3332  
+ 
+ 
+ total hydrostatic thrust   
+ 
+    196200.  
+ 
+ 
+ its point of application   
+ 
+    1.3332  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.18/18.sce #
+ 
+ a1  =
+ 
+    4.312  
+ 
+ x1  =
+ 
+    2.3  
+ 
+ x11  =
+ 
+    2.3710145  
+ 
+ x2  =
+ 
+    0.7  
+ 
+ x22  =
+ 
+    0.9333333  
+ 
+ z  =
+ 
+    9810.  
+ 
+ p1  =
+ 
+    97291.656  
+ 
+ p2  =
+ 
+    21150.36  
+ 
+ p  =
+ 
+    76141.296  
+ 
+ h  =
+ 
+    0.9333333  
+ 
+ f  =
+ 
+    36660.624  
+ 
+ 
+ resultant force   
+ 
+    76141.296  
+ 
+ 
+ force acting horizontally on the top of the gate   
+ 
+    36660.624  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.19/19.sce #
+ 
+ s  =
+ 
+    1.5  
+ 
+ s1  =
+ 
+    0.9  
+ 
+ w  =
+ 
+    9810.  
+ 
+ h1  =
+ 
+    0.9  
+ 
+ h2  =
+ 
+    0.6  
+ 
+ p1  =
+ 
+    5363.6175  
+ 
+ p2  =
+ 
+    7151.49  
+ 
+ p3  =
+ 
+    2648.7  
+ 
+ p  =
+ 
+    15163.807  
+ 
+ h  =
+ 
+    1.005212  
+ 
+ 
+ resultant pressure on the wall in N/m2   
+ 
+    15163.807  
+ 
+ 
+ position of centre of pressure from free surface   
+ 
+    1.005212  
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.20/20.sce #
+ 
+ d  =
+ 
+    2.4  
+ 
+ h  =
+ 
+    1.6  
+ 
+ s  =
+ 
+    1.2  
+ 
+ a  =
+ 
+    2.88  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+    54245.376  
+ 
+ h1  =
+ 
+    1.75  
+ 
+ 
+ total pressure in N   
+ 
+    54245.376  
+ 
+ 
+ its point of application   
+ 
+    1.75  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.21/21.sce #
+ 
+ x  =
+ 
+    30.  
+ 
+ d  =
+ 
+    1.2  
+ 
+ h  =
+ 
+    1.5  
+ 
+ w  =
+ 
+    9810.  
+ 
+ z  =
+ 
+    0.5000588  
+ 
+ h1  =
+ 
+    1.8000353  
+ 
+ a  =
+ 
+    1.13112  
+ 
+ p  =
+ 
+    19973.708  
+ 
+ h11  =
+ 
+    1.812538  
+ 
+ 
+ total pressure   
+ 
+    19973.708  
+ 
+ 
+ position of centre of pressure   
+ 
+    1.812538  
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.1/21.sce #
+ 
+ l  =
+ 
+    4.  
+ 
+ w  =
+ 
+    2.  
+ 
+ sg  =
+ 
+    0.75  
+ 
+ z  =
+ 
+    9810.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ v  =
+ 
+    4.  
+ 
+ wg  =
+ 
+    29430.  
+ 
+ s  =
+ 
+    24000.  
+ 
+ V  =
+ 
+    0.40875  
+ 
+ V1  =
+ 
+    0.6913319  
+ 
+ 
+ volume in m3 when block is completely in water   
+ 
+    0.40875  
+ 
+ 
+ volume in m3 when block and concrete completely under water   
+ 
+    0.6913319  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.22/22.sce #
+ 
+ d  =
+ 
+    2.  
+ 
+ z  =
+ 
+    0.5  
+ 
+ h  =
+ 
+    1.5  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    3.142  
+ 
+ p  =
+ 
+    46234.53  
+ 
+ h11  =
+ 
+    1.5416667  
+ 
+ 
+ total pressure on the plate   
+ 
+    46234.53  
+ 
+ 
+ position of centre of pressure   
+ 
+    1.5416667  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.2/22.sce #
+ 
+ d  =
+ 
+    1.  
+ 
+ s  =
+ 
+    0.75  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.7855  
+ 
+ h  =
+ 
+    0.5  
+ 
+ p  =
+ 
+    3678.75  
+ 
+ v  =
+ 
+    2889.6581  
+ 
+ w1  =
+ 
+    1926.4388  
+ 
+ vf  =
+ 
+    963.21937  
+ 
+ 
+ minimum weight of upper hemisphere in N   
+ 
+    963.21937  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.23/23.sce #
+ 
+ x  =
+ 
+    30.  
+ 
+ z  =
+ 
+    0.5000588  
+ 
+ h  =
+ 
+    5.7499706  
+ 
+ l  =
+ 
+    1.  
+ 
+ b  =
+ 
+    4.  
+ 
+ a  =
+ 
+    4.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+    225628.85  
+ 
+ h11  =
+ 
+    5.7535947  
+ 
+ f  =
+ 
+    114438.95  
+ 
+ 
+ force normal to the gate at point B   
+ 
+    114438.95  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.3/23.sce #
+ 
+ w  =
+ 
+    90.  
+ 
+ 
+ 
+ z  =
+ 
+    9810.  
+ 
+ v  =
+ 
+    0.0091743  
+ 
+ d  =
+ 
+    0.3272310  
+ 
+ 
+ external diameter of hollow of sphere in m   
+ 
+    0.3272310  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.24/24.sce #
+ 
+ x  =
+ 
+    30.  
+ 
+ z  =
+ 
+    0.5000588  
+ 
+ d  =
+ 
+    1.4  
+ 
+ h  =
+ 
+    3.  
+ 
+ b  =
+ 
+    1.5  
+ 
+ h1  =
+ 
+    1.9000588  
+ 
+ a  =
+ 
+    2.25  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+    41939.048  
+ 
+ h11  =
+ 
+    1.9658617  
+ 
+ 
+ total pressure on the plate   
+ 
+    41939.048  
+ 
+ 
+ position of centre of pressure   
+ 
+    1.9658617  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.4/24.sce #
+ 
+ s1  =
+ 
+    13.6  
+ 
+ s2  =
+ 
+    7.8  
+ 
+ s3  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+ x  =
+ 
+    0.5396825  
+ 
+ 
+ fraction of steel below surface of mercury   
+ 
+    0.5396825  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.25/25.sce #
+ 
+ d  =
+ 
+    1.8  
+ 
+ h  =
+ 
+    2.4  
+ 
+ w  =
+ 
+    9810.  
+ 
+ s  =
+ 
+    0.8  
+ 
+ p1  =
+ 
+    59919.951  
+ 
+ h1  =
+ 
+    2.484375  
+ 
+ p  =
+ 
+    35316.  
+ 
+ p2  =
+ 
+    89879.926  
+ 
+ p  =
+ 
+    29959.975  
+ 
+ ab  =
+ 
+    26487.  
+ 
+ de  =
+ 
+    44145.  
+ 
+ ce  =
+ 
+    17658.  
+ 
+ x  =
+ 
+    0.075  
+ 
+ h2  =
+ 
+    2.475  
+ 
+ h12  =
+ 
+    0.009375  
+ 
+ 
+ change in total pressure   
+ 
+    29959.975  
+ 
+ 
+ position of centre of pressure   
+ 
+    2.475  
+ 
+ 
+ change in position of centre of pressure   
+ 
+    0.009375  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.5/25.sce #
+ 
+ w  =
+ 
+    9810.  
+ 
+ do  =
+ 
+    1.25  
+ 
+ a  =
+ 
+    1.2273437  
+ 
+ f1  =
+ 
+    12040.242  
+ 
+ f2  =
+ 
+    36120.727  
+ 
+ di  =
+ 
+    1.2  
+ 
+ s  =
+ 
+    9.8  
+ 
+ wg  =
+ 
+    27752.277  
+ 
+ fa  =
+ 
+    8368.4499  
+ 
+ 
+ buoyancy force in N/m   
+ 
+    12040.242  
+ 
+ 
+ upward force on anchor   
+ 
+    8368.4499  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.26/26.sce #
+ 
+ l  =
+ 
+    5.  
+ 
+ r  =
+ 
+    3.  
+ 
+ a  =
+ 
+    15.  
+ 
+ h  =
+ 
+    1.5  
+ 
+ w  =
+ 
+    9810.  
+ 
+ ph  =
+ 
+    220725.  
+ 
+ pv  =
+ 
+    346758.97  
+ 
+ p  =
+ 
+    411049.04  
+ 
+ z  =
+ 
+    0.6365372  
+ 
+ theta  =
+ 
+    32.478271  
+ 
+ 
+ resultant pressure on the gate   
+ 
+    411049.04  
+ 
+ 
+ angle of resultant force with vertical   
+ 
+    32.478271  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.6/26.sce #
+ 
+ a  =
+ 
+    0.25  
+ 
+ s1  =
+ 
+    11.5  
+ 
+ s2  =
+ 
+    1.  
+ 
+ z  =
+ 
+    9810.  
+ 
+ v1  =
+ 
+    0.0078125  
+ 
+ wc  =
+ 
+    76.640625  
+ 
+ h  =
+ 
+    0.016  
+ 
+ 
+ v2  =
+ 
+    0.0088125  
+ 
+ v  =
+ 
+    0.0000952  
+ 
+ wl  =
+ 
+    10.744286  
+ 
+ 
+ weight of lead attached   
+ 
+    10.744286  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH1/EX1.27/27.sce #
+ 
+ s  =
+ 
+    5.  
+ 
+ z  =
+ 
+    0.7071068  
+ 
+ a  =
+ 
+    7.0710678  
+ 
+ h  =
+ 
+    3.5355339  
+ 
+ w  =
+ 
+    9810.  
+ 
+ ph  =
+ 
+    245250.  
+ 
+ pv  =
+ 
+    70018.875  
+ 
+ 
+ horizontal pressure   
+ 
+    245250.  
+ 
+ 
+ vertical pressure   
+ 
+    70018.875  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.7/27.sce #
+ 
+ s1  =
+ 
+    19.3  
+ 
+ s2  =
+ 
+    9.  
+ 
+ x  =
+ 
+    0.5833333  
+ 
+ wg  =
+ 
+    5.8333333  
+ 
+ wc  =
+ 
+    4.1666667  
+ 
+ vg  =
+ 
+    0.3022453  
+ 
+ vc  =
+ 
+    0.4629630  
+ 
+ vt  =
+ 
+    0.7652082  
+ 
+ 
+ volume of 10gm,14 carat gold in cm3   
+ 
+    0.7652082  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.8/28.sce #
+ 
+ h1  =
+ 
+    0.05  
+ 
+ h2  =
+ 
+    0.015  
+ 
+ s  =
+ 
+    1.025  
+ 
+ l  =
+ 
+    2.  
+ 
+ w1  =
+ 
+    25.  
+ 
+ 
+ w  =
+ 
+    3416.6667  
+ 
+ 
+ weight of ship in in N   
+ 
+    3416.6667  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.9/29.sce #
+ 
+ w  =
+ 
+    700.  
+ 
+ w1  =
+ 
+    20000.  
+ 
+ d  =
+ 
+    0.5  
+ 
+ h  =
+ 
+    1.  
+ 
+ wd  =
+ 
+    250.  
+ 
+ z  =
+ 
+    9810.  
+ 
+ f  =
+ 
+    1284.2925  
+ 
+ n  =
+ 
+    22.044054  
+ 
+ n1  =
+ 
+    22.  
+ 
+ 
+ number of drums   
+ 
+    22.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.1/31.sce #
+ 
+ d1  =
+ 
+    0.3  
+ 
+ d2  =
+ 
+    0.1  
+ 
+ z1  =
+ 
+    6.  
+ 
+ z2  =
+ 
+    3.  
+ 
+ p1  =
+ 
+    200000.  
+ 
+ q1  =
+ 
+    0.07  
+ 
+ a1  =
+ 
+    0.070695  
+ 
+ a2  =
+ 
+    0.007855  
+ 
+ v1  =
+ 
+    0.9901690  
+ 
+ v2  =
+ 
+    8.9115213  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ p2  =
+ 
+    190212.61  
+ 
+ 
+ pressure at point B in N/m2   
+ 
+    190212.61  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.2/32.sce #
+ 
+ d1  =
+ 
+    1.  
+ 
+ d2  =
+ 
+    0.5  
+ 
+ q  =
+ 
+    0.1  
+ 
+ p1  =
+ 
+    70000.  
+ 
+ l  =
+ 
+    60.  
+ 
+ z2  =
+ 
+    0.  
+ 
+ z1  =
+ 
+    3.  
+ 
+ a1  =
+ 
+    0.7855  
+ 
+ a2  =
+ 
+    0.196375  
+ 
+ v1  =
+ 
+    0.1273074  
+ 
+ v2  =
+ 
+    0.5092298  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.91  
+ 
+ 
+ p2  =
+ 
+    99309.673  
+ 
+ 
+ presssure at lower end in N/m2   
+ 
+    99309.673  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.3/33.sce #
+ 
+ d1  =
+ 
+    0.2  
+ 
+ d2  =
+ 
+    0.1  
+ 
+ l  =
+ 
+    4.  
+ 
+ x  =
+ 
+    30.  
+ 
+ p1  =
+ 
+    392400.  
+ 
+ q  =
+ 
+    0.035  
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    2.  
+ 
+ a1  =
+ 
+    0.03142  
+ 
+ a2  =
+ 
+    0.007855  
+ 
+ v1  =
+ 
+    1.1139402  
+ 
+ v2  =
+ 
+    4.4557607  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p2  =
+ 
+    363473.53  
+ 
+ 
+ pressure intensity at outlet in N/m2   
+ 
+    363473.53  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.4/34.sce #
+ 
+ d1  =
+ 
+    0.2  
+ 
+ d2  =
+ 
+    0.1  
+ 
+ d3  =
+ 
+    0.15  
+ 
+ v1  =
+ 
+    4.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ vh1  =
+ 
+    0.8154944  
+ 
+ a1  =
+ 
+    0.03142  
+ 
+ a2  =
+ 
+    0.007855  
+ 
+ a3  =
+ 
+    0.0176737  
+ 
+ v2  =
+ 
+    16.  
+ 
+ vh2  =
+ 
+    13.04791  
+ 
+ v3  =
+ 
+    7.1111111  
+ 
+ vh3  =
+ 
+    2.577365  
+ 
+ q  =
+ 
+    0.12568  
+ 
+ mf  =
+ 
+    125.68  
+ 
+ 
+ velocity head at point 1   
+ 
+    0.8154944  
+ 
+ 
+ velocity head at point 2   
+ 
+    13.04791  
+ 
+ 
+ velocity head at point 3   
+ 
+    2.577365  
+ 
+ 
+ mass flow rate in kg/sec   
+ 
+    125.68  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.5/35.sce #
+ 
+ d1  =
+ 
+    0.2  
+ 
+ d2  =
+ 
+    0.5  
+ 
+ p1  =
+ 
+    98100.  
+ 
+ p2  =
+ 
+    58860.  
+ 
+ q  =
+ 
+    0.2  
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    4.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ s  =
+ 
+    0.87  
+ 
+ a1  =
+ 
+    0.03142  
+ 
+ a2  =
+ 
+    0.196375  
+ 
+ v1  =
+ 
+    6.3653724  
+ 
+ v2  =
+ 
+    1.0184596  
+ 
+ w  =
+ 
+    9810.  
+ 
+ ph1  =
+ 
+    11.494253  
+ 
+ ph2  =
+ 
+    6.8965517  
+ 
+ vh1  =
+ 
+    2.0651359  
+ 
+ vh2  =
+ 
+    0.0528675  
+ 
+ th1  =
+ 
+    13.559389  
+ 
+ th2  =
+ 
+    10.949419  
+ 
+ tl  =
+ 
+    2.6099695  
+ 
+ 
+ loss of head in m,flow from 1 to 2   
+ 
+    2.6099695  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.6/36.sce #
+ 
+ d1  =
+ 
+    0.3  
+ 
+ d2  =
+ 
+    0.15  
+ 
+ a1  =
+ 
+    0.070695  
+ 
+ a2  =
+ 
+    0.0176737  
+ 
+ H  =
+ 
+    0.18  
+ 
+ Cd  =
+ 
+    0.85  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ s1  =
+ 
+    1.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ h  =
+ 
+    2.268  
+ 
+ g  =
+ 
+    9.81  
+ 
+ q  =
+ 
+    0.1034983  
+ 
+ q1  =
+ 
+    103.49825  
+ 
+ 
+ rate of flow in litres/sec   
+ 
+    103.49825  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.7/37.sce #
+ 
+ q  =
+ 
+    0.1  
+ 
+ d1  =
+ 
+    0.2  
+ 
+ Cd  =
+ 
+    0.9  
+ 
+ H  =
+ 
+    0.4  
+ 
+ s1  =
+ 
+    1.  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ g  =
+ 
+    9.8  
+ 
+ h  =
+ 
+    5.04  
+ 
+ a1  =
+ 
+    0.03142  
+ 
+ z  =
+ 
+    8.899216  
+ 
+ a2  =
+ 
+    0.0105325  
+ 
+ d2  =
+ 
+    0.1165774  
+ 
+ 
+ diameter of throat in m   
+ 
+    0.1165774  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.8/38.sce #
+ 
+ q  =
+ 
+    0.08  
+ 
+ d1  =
+ 
+    0.3  
+ 
+ d2  =
+ 
+    0.15  
+ 
+ a1  =
+ 
+    0.070695  
+ 
+ a2  =
+ 
+    0.0176737  
+ 
+ h  =
+ 
+    1.5  
+ 
+ g  =
+ 
+    9.81  
+ 
+ z  =
+ 
+    0.0990235  
+ 
+ Cd  =
+ 
+    0.8078892  
+ 
+ 
+ co-efficient of meter   
+ 
+    0.8078892  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.9/39.sce #
+ 
+ s2  =
+ 
+    13.6  
+ 
+ s1  =
+ 
+    0.9  
+ 
+ H  =
+ 
+    0.25  
+ 
+ h  =
+ 
+    3.5277778  
+ 
+ Cd  =
+ 
+    0.98  
+ 
+ w  =
+ 
+    8829.  
+ 
+ d1  =
+ 
+    0.3  
+ 
+ d2  =
+ 
+    0.15  
+ 
+ a1  =
+ 
+    0.070695  
+ 
+ a2  =
+ 
+    0.0176737  
+ 
+ dz  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    9.81  
+ 
+ q  =
+ 
+    0.1488227  
+ 
+ dp  =
+ 
+    33795.45  
+ 
+ 
+ discharge of the oil in m3/sec   
+ 
+    0.1488227  
+ 
+ 
+ pressure diffrence in entrance and throat section    
+ 
+    33795.45  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.2/42.sce #
+ 
+ q  =
+ 
+    0.0982  
+ 
+ d  =
+ 
+    0.12  
+ 
+ H  =
+ 
+    10.  
+ 
+ x  =
+ 
+    4.5  
+ 
+ y  =
+ 
+    0.54  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Vth  =
+ 
+    14.007141  
+ 
+ a  =
+ 
+    0.0113112  
+ 
+ Qth  =
+ 
+    0.1584376  
+ 
+ Cd  =
+ 
+    0.6198025  
+ 
+ Cv  =
+ 
+    0.9682458  
+ 
+ Cc  =
+ 
+    0.6401292  
+ 
+ 
+ Cd ,Cv, Cc  of the orifice   
+ 
+    0.6198025  
+ 
+    0.9682458  
+ 
+    0.6401292  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.3/43.sce #
+ 
+ D  =
+ 
+    0.1  
+ 
+ d  =
+ 
+    0.05  
+ 
+ q  =
+ 
+    0.02  
+ 
+ A  =
+ 
+    0.007855  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+    58860.  
+ 
+ v  =
+ 
+    2.5461489  
+ 
+ Vh  =
+ 
+    0.3304217  
+ 
+ Ph  =
+ 
+    6.  
+ 
+ Th  =
+ 
+    6.3304217  
+ 
+ a  =
+ 
+    0.0019638  
+ 
+ Cd  =
+ 
+    0.9138564  
+ 
+ 
+ co-efficient of discharge   
+ 
+    0.9138564  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.4/44.sce #
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ H1  =
+ 
+    3.  
+ 
+ H2  =
+ 
+    4.  
+ 
+ b  =
+ 
+    2.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q  =
+ 
+    9.9355952  
+ 
+ q1  =
+ 
+    9935.5952  
+ 
+ 
+ dischsrge flow rate in litres/sec   
+ 
+    9935.5952  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.5/45.sce #
+ 
+ b  =
+ 
+    0.75  
+ 
+ H1  =
+ 
+    2.25  
+ 
+ H2  =
+ 
+    2.5  
+ 
+ H  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ Q  =
+ 
+    0.3641057  
+ 
+ Q1  =
+ 
+    364.10569  
+ 
+ 
+ discherge through the orifice in litres/sec   
+ 
+    364.10569  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.6/46.sce #
+ 
+ b  =
+ 
+    2.  
+ 
+ d  =
+ 
+    3.  
+ 
+ H1  =
+ 
+    4.  
+ 
+ H2  =
+ 
+    7.  
+ 
+ H  =
+ 
+    4.8  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q1  =
+ 
+    9.2137771  
+ 
+ Q2  =
+ 
+    26.47369  
+ 
+ Q  =
+ 
+    35.687468  
+ 
+ q  =
+ 
+    35687.468  
+ 
+ 
+ Discharge in litres/sec   
+ 
+    35687.468  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.7/47.sce #
+ 
+ l  =
+ 
+    20.  
+ 
+ b  =
+ 
+    10.  
+ 
+ a  =
+ 
+    200.  
+ 
+ H1  =
+ 
+    1.5  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ H2  =
+ 
+    0.  
+ 
+ T  =
+ 
+    300.  
+ 
+ n  =
+ 
+    4.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ a1  =
+ 
+    0.5946250  
+ 
+ d  =
+ 
+    0.4350293  
+ 
+ d1  =
+ 
+    43.502929  
+ 
+ 
+ diameter of the orifice in cm   
+ 
+    43.502929  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.8/48.sce #
+ 
+ l1  =
+ 
+    10.  
+ 
+ b1  =
+ 
+    5.  
+ 
+ l2  =
+ 
+    5.  
+ 
+ b2  =
+ 
+    2.5  
+ 
+ a1  =
+ 
+    50.  
+ 
+ a2  =
+ 
+    12.5  
+ 
+ d  =
+ 
+    0.2  
+ 
+ a  =
+ 
+    0.03142  
+ 
+ H1  =
+ 
+    4.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ q  =
+ 
+    25.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ h1  =
+ 
+    0.5  
+ 
+ h2  =
+ 
+    2.  
+ 
+ H2  =
+ 
+    1.5  
+ 
+ T  =
+ 
+    179.69139  
+ 
+ 
+ time taken to flow 25 m3 in sec   
+ 
+    179.69139  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.9/49.sce #
+ 
+ Cd  =
+ 
+    0.8  
+ 
+ D  =
+ 
+    2.  
+ 
+ r  =
+ 
+    1.  
+ 
+ H1  =
+ 
+    2.  
+ 
+ d  =
+ 
+    0.1  
+ 
+ a  =
+ 
+    0.007855  
+ 
+ l  =
+ 
+    8.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ T  =
+ 
+    1083.8971  
+ 
+ 
+ time taken for emptying the boiler in min   
+ 
+    18.064951  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.1/51.sce #
+ 
+ q  =
+ 
+    0.2  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ z  =
+ 
+    0.3089762  
+ 
+ b  =
+ 
+    0.6251295  
+ 
+ 
+ the lenght of the notch in cm    
+ 
+    62.512954  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.2/52.sce #
+ 
+ b  =
+ 
+    1.  
+ 
+ H  =
+ 
+    0.15  
+ 
+ Cd1  =
+ 
+    0.62  
+ 
+ x  =
+ 
+    90.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Cd2  =
+ 
+    0.58  
+ 
+ Q1  =
+ 
+    0.1063621  
+ 
+ z  =
+ 
+    0.0776266  
+ 
+ H1  =
+ 
+    0.3597528  
+ 
+ 
+ the depth over the traingular veir in cm   
+ 
+    35.975285  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.3/53.sce #
+ 
+ x  =
+ 
+    90.  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ H  =
+ 
+    0.36  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q  =
+ 
+    0.1138928  
+ 
+ q  =
+ 
+    113.89277  
+ 
+ 
+ the actual discharge in litres/sec   
+ 
+    113.89277  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.4/54.sce #
+ 
+ x  =
+ 
+    90.  
+ 
+ H  =
+ 
+    0.2  
+ 
+ b  =
+ 
+    0.3  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    9.81  
+ 
+ q1  =
+ 
+    0.0262008  
+ 
+ q2  =
+ 
+    0.0491265  
+ 
+ q  =
+ 
+    0.0753274  
+ 
+ 
+ discharge over the trapezoidal notch in m3/sec   
+ 
+    0.0753274  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.5/55.sce #
+ 
+ a  =
+ 
+    20000000.  
+ 
+ x  =
+ 
+    0.03  
+ 
+ q  =
+ 
+    600000.  
+ 
+ qf  =
+ 
+    66.666667  
+ 
+ n  =
+ 
+    2.  
+ 
+ H  =
+ 
+    0.6  
+ 
+ 
+ L  =
+ 
+    78.078602  
+ 
+ 
+ the lenght of the weir in m   
+ 
+    78.078602  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.6/56.sce #
+ 
+ L  =
+ 
+    36.  
+ 
+ v1  =
+ 
+    2.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ H  =
+ 
+    1.2  
+ 
+ H1  =
+ 
+    0.2038736  
+ 
+ n  =
+ 
+    24.  
+ 
+ w  =
+ 
+    0.6  
+ 
+ Nv  =
+ 
+    11.  
+ 
+ Lf  =
+ 
+    29.4  
+ 
+ Q  =
+ 
+    75.261117  
+ 
+ 
+ dischsrge over the weir in m3/sec   
+ 
+    75.261117  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.7/57.sce #
+ 
+ l  =
+ 
+    0.77  
+ 
+ H  =
+ 
+    0.39  
+ 
+ H1  =
+ 
+    0.6  
+ 
+ Dp  =
+ 
+    0.99  
+ 
+ Cd  =
+ 
+    0.623  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q  =
+ 
+    0.3450118  
+ 
+ v  =
+ 
+    0.4525932  
+ 
+ Ha  =
+ 
+    0.0104404  
+ 
+ q  =
+ 
+    0.357447  
+ 
+ 
+ discharge in m3/sec   
+ 
+    0.357447  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.8/58.sce #
+ 
+ Q1  =
+ 
+    0.005  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q2  =
+ 
+    0.75  
+ 
+ h  =
+ 
+    0.07  
+ 
+ z  =
+ 
+    2.6332069  
+ 
+ H  =
+ 
+    0.5194390  
+ 
+ W  =
+ 
+    2.7355807  
+ 
+ 
+ width of the water surface in m   
+ 
+    2.7355807  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.9/59.sce #
+ 
+ b  =
+ 
+    4.  
+ 
+ H  =
+ 
+    0.2  
+ 
+ Cd  =
+ 
+    0.62  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q1  =
+ 
+    0.6550205  
+ 
+ Q2  =
+ 
+    0.6484703  
+ 
+ m  =
+ 
+    0.42  
+ 
+ Q3  =
+ 
+    0.6655854  
+ 
+ 
+ discharge when end contraction are supressed in m3/sec   
+ 
+    0.6550205  
+ 
+ 
+ discharge when end contraction are taken into account by francis formula in m3/sec   
+ 
+    0.6484703  
+ 
+ 
+ discharge when end contraction are taken into account by bazin formula in m3/sec   
+ 
+    0.6655854  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.1/61.sce #
+ 
+ Rn  =
+ 
+    1700.  
+ 
+ v  =
+ 
+    0.0000744  
+ 
+ d  =
+ 
+    0.05  
+ 
+ V  =
+ 
+    2.5296  
+ 
+ Vmax  =
+ 
+    5.0592  
+ 
+ x  =
+ 
+    0.00625  
+ 
+ r  =
+ 
+    0.01875  
+ 
+ V1  =
+ 
+    2.2134  
+ 
+ 
+ velocity at the point 6.25 mm from the wall in m/sec   
+ 
+    2.2134  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.2/62.sce #
+ 
+ d  =
+ 
+    0.3  
+ 
+ p  =
+ 
+    787.  
+ 
+ v  =
+ 
+    0.0000016  
+ 
+ Rn  =
+ 
+    2000.  
+ 
+ V  =
+ 
+    0.0106667  
+ 
+ a  =
+ 
+    0.070695  
+ 
+ Q  =
+ 
+    0.0007541  
+ 
+ 
+ maximum flow rate for which the flow is maximium   
+ 
+    0.0007541  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.3/63.sce #
+ 
+ vd  =
+ 
+    0.0008  
+ 
+ p  =
+ 
+    996.  
+ 
+ vk  =
+ 
+    0.0000008  
+ 
+ 
+ kinematic viscosity in m2/sec   
+ 
+    0.0000008  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.4/64.sce #
+ 
+ u  =
+ 
+    0.0152905  
+ 
+ s  =
+ 
+    0.81  
+ 
+ d  =
+ 
+    0.14  
+ 
+ Q  =
+ 
+    0.03  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p  =
+ 
+    82.568807  
+ 
+ a  =
+ 
+    0.0153958  
+ 
+ V  =
+ 
+    1.9485834  
+ 
+ Rn  =
+ 
+    1473.129  
+ 
+ 
+ Rn less than 2000, flow is laminar   
+ 
+    1473.129  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.5/65.sce #
+ 
+ d  =
+ 
+    0.2  
+ 
+ Q  =
+ 
+    0.088  
+ 
+ l  =
+ 
+    5.  
+ 
+ vd  =
+ 
+    0.01  
+ 
+ p  =
+ 
+    1000.  
+ 
+ v  =
+ 
+    0.000001  
+ 
+ a  =
+ 
+    0.03142  
+ 
+ g  =
+ 
+    9.81  
+ 
+ V  =
+ 
+    2.8007638  
+ 
+ Re  =
+ 
+    560152.77  
+ 
+ f  =
+ 
+    0.0018410  
+ 
+ Hf  =
+ 
+    0.0736041  
+ 
+ 
+ head lost due to friction in m   
+ 
+    0.0736041  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.6/66.sce #
+ 
+ s  =
+ 
+    0.75  
+ 
+ d  =
+ 
+    0.2  
+ 
+ l  =
+ 
+    1000.  
+ 
+ Q  =
+ 
+    0.05  
+ 
+ f  =
+ 
+    0.01  
+ 
+ a  =
+ 
+    0.03142  
+ 
+ V  =
+ 
+    1.5913431  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Hf  =
+ 
+    25.814198  
+ 
+ w  =
+ 
+    7357.5  
+ 
+ dp  =
+ 
+    189927.96  
+ 
+ 
+ pressure drop along its entire lenght in N/m2   
+ 
+    189927.96  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.7/67.sce #
+ 
+ d  =
+ 
+    0.3  
+ 
+ g  =
+ 
+    9.81  
+ 
+ l  =
+ 
+    400.  
+ 
+ Q  =
+ 
+    0.3  
+ 
+ f  =
+ 
+    0.032  
+ 
+ a  =
+ 
+    0.070695  
+ 
+ V  =
+ 
+    4.2435816  
+ 
+ Lentrance  =
+ 
+    0.4589191  
+ 
+ Hf  =
+ 
+    156.64438  
+ 
+ Lexit  =
+ 
+    0.9178382  
+ 
+ Totalloss  =
+ 
+    158.02114  
+ 
+ 
+ diffrenc in elevation in m   
+ 
+    158.02114  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.8/68.sce #
+ 
+ l  =
+ 
+    40.  
+ 
+ l1  =
+ 
+    20.  
+ 
+ l2  =
+ 
+    20.  
+ 
+ d1  =
+ 
+    0.15  
+ 
+ d2  =
+ 
+    0.3  
+ 
+ H  =
+ 
+    8.  
+ 
+ f  =
+ 
+    0.01  
+ 
+ h1  =
+ 
+    8.  
+ 
+ h2  =
+ 
+    85.333333  
+ 
+ h3  =
+ 
+    9.  
+ 
+ h4  =
+ 
+    2.6666667  
+ 
+ g  =
+ 
+    9.81  
+ 
+ ht  =
+ 
+    106.  
+ 
+ V2  =
+ 
+    1.2168627  
+ 
+ a2  =
+ 
+    0.070695  
+ 
+ Q  =
+ 
+    0.0860261  
+ 
+ 
+ rate of low in litres/sec   
+ 
+    86.026105  
+ 
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.9/69.sce #
+ 
+ l  =
+ 
+    2000.  
+ 
+ d  =
+ 
+    0.2  
+ 
+ V  =
+ 
+    0.8  
+ 
+ f  =
+ 
+    0.01  
+ 
+ g  =
+ 
+    9.81  
+ 
+ hf  =
+ 
+    13.04791  
+ 
+ 
+ Head loss due to friction in pipeline   
+ 
+    13.04791  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.1/71.sce #
+ 
+ b  =
+ 
+    6.  
+ 
+ i  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    2.  
+ 
+ C  =
+ 
+    50.  
+ 
+ A  =
+ 
+    12.  
+ 
+ m  =
+ 
+    1.2  
+ 
+ Q  =
+ 
+    20.78461  
+ 
+ 
+ flow rate assuming chezys constant eqaul to 50 in m3/sec   
+ 
+    20.78461  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.2/72.sce #
+ 
+ b  =
+ 
+    5.  
+ 
+ d  =
+ 
+    3.  
+ 
+ i  =
+ 
+    0.001  
+ 
+ C  =
+ 
+    55.  
+ 
+ A  =
+ 
+    15.  
+ 
+ m  =
+ 
+    1.3636364  
+ 
+ Q  =
+ 
+    30.465144  
+ 
+ v  =
+ 
+    2.0310096  
+ 
+ 
+ flow rate assuming chezys constant eqaul to 55 in m3/sec & velocity of flow in m/sec   
+ 
+    2.0310096  
+ 
+    30.465144  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.3/73.sce #
+ 
+ b  =
+ 
+    2.5  
+ 
+ d  =
+ 
+    2.5  
+ 
+ C  =
+ 
+    56.  
+ 
+ A  =
+ 
+    12.5  
+ 
+ P  =
+ 
+    9.5710678  
+ 
+ m  =
+ 
+    1.3060194  
+ 
+ i  =
+ 
+    0.0008333  
+ 
+ Q  =
+ 
+    23.0931  
+ 
+ 
+ the diacharge through the channel in litres/sec   
+ 
+    23093.1  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.4/74.sce #
+ 
+ b  =
+ 
+    3.5  
+ 
+ i  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    1.5  
+ 
+ C  =
+ 
+    60.  
+ 
+ y  =
+ 
+    60.  
+ 
+ x  =
+ 
+    0.8660254  
+ 
+ w  =
+ 
+    5.2320508  
+ 
+ A  =
+ 
+    6.5490381  
+ 
+ P  =
+ 
+    6.9641016  
+ 
+ m  =
+ 
+    0.9403996  
+ 
+ Q  =
+ 
+    12.049943  
+ 
+ 
+ discharge carried by the canal in litres/sec   
+ 
+    12049.943  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.5/75.sce #
+ 
+ b  =
+ 
+    9.  
+ 
+ i  =
+ 
+    0.0003333  
+ 
+ d  =
+ 
+    1.2  
+ 
+ w  =
+ 
+    10.2  
+ 
+ A  =
+ 
+    11.52  
+ 
+ P  =
+ 
+    11.683282  
+ 
+ m  =
+ 
+    0.9860243  
+ 
+ C  =
+ 
+    50.  
+ 
+ V  =
+ 
+    0.9064695  
+ 
+ Q  =
+ 
+    10.442529  
+ 
+ 
+ average velocity of flow, rate of flow   
+ 
+    0.9064695  
+ 
+    10442.529  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.6/76.sce #
+ 
+ Q  =
+ 
+    0.1  
+ 
+ b  =
+ 
+    0.6  
+ 
+ C  =
+ 
+    56.  
+ 
+ d  =
+ 
+    0.3  
+ 
+ a  =
+ 
+    0.18  
+ 
+ v  =
+ 
+    0.5555556  
+ 
+ p  =
+ 
+    1.2  
+ 
+ m  =
+ 
+    0.15  
+ 
+ i  =
+ 
+    0.0006561  
+ 
+ k  =
+ 
+    3.9039672  
+ 
+ 
+ bottom slope neccessary for uniform flow,conveyance of the channel section   
+ 
+    0.0006561  
+ 
+    3.9039672  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.7/77.sce #
+ 
+ i  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    1.5  
+ 
+ Cd  =
+ 
+    0.55  
+ 
+ a  =
+ 
+    2.25  
+ 
+ C  =
+ 
+    40.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ m  =
+ 
+    1.5  
+ 
+ Q  =
+ 
+    3.485685  
+ 
+ H  =
+ 
+    1.357272  
+ 
+ height  =
+ 
+    3.142728  
+ 
+ 
+ height of the dam in m   
+ 
+    3.142728  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.8/78.sce #
+ 
+ b  =
+ 
+    1.4  
+ 
+ d  =
+ 
+    1.4  
+ 
+ n  =
+ 
+    0.25  
+ 
+ i  =
+ 
+    0.0014286  
+ 
+ N  =
+ 
+    0.025  
+ 
+ a  =
+ 
+    2.45  
+ 
+ p  =
+ 
+    4.2861739  
+ 
+ m  =
+ 
+    0.5716054  
+ 
+ q  =
+ 
+    2.551276  
+ 
+ 
+ discharge from the trapezoidal channel in litres/sec   
+ 
+    2551.276  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.9/79.sce #
+ 
+ Q  =
+ 
+    0.3  
+ 
+ D  =
+ 
+    1.5  
+ 
+ N  =
+ 
+    0.02  
+ 
+ A  =
+ 
+    0.8836875  
+ 
+ p  =
+ 
+    2.3565  
+ 
+ m  =
+ 
+    0.375  
+ 
+ i  =
+ 
+    0.0001705  
+ 
+ 
+ the slope of the sewer   
+ 
+    0.0001705  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.1/81.sce #
+ 
+ V  =
+ 
+    25.  
+ 
+ F  =
+ 
+    300.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ A  =
+ 
+    0.00048  
+ 
+ V1  =
+ 
+    35.  
+ 
+ F1  =
+ 
+    588.  
+ 
+ 
+ force in N on the plate if the velocity of the jet is increased to 35 m/sec   
+ 
+    588.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.2/82.sce #
+ 
+ d  =
+ 
+    0.05  
+ 
+ V  =
+ 
+    15.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.0019638  
+ 
+ F  =
+ 
+    441.84375  
+ 
+ u  =
+ 
+    5.  
+ 
+ F1  =
+ 
+    196.375  
+ 
+ 
+ force in N on plate if plate is stationary   
+ 
+    441.84375  
+ 
+ 
+ force in N on plate if plate is moving in the direction of the jet   
+ 
+    196.375  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.3/83.sce #
+ 
+ d  =
+ 
+    0.03  
+ 
+ Fx  =
+ 
+    900.  
+ 
+ x  =
+ 
+    30.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.0007069  
+ 
+ V  =
+ 
+    71.360338  
+ 
+ Q  =
+ 
+    0.0504482  
+ 
+ 
+ rate of flow in m3/sec   
+ 
+    50.448191  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.4/84.sce #
+ 
+ d  =
+ 
+    0.02  
+ 
+ V  =
+ 
+    20.  
+ 
+ x  =
+ 
+    15.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.0003142  
+ 
+ W  =
+ 
+    485.59023  
+ 
+ F1  =
+ 
+    62.84  
+ 
+ 
+ weight of the plate in N   
+ 
+    485.59023  
+ 
+ 
+ force in N required at the lower edge of the plate   
+ 
+    62.84  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.5/85.sce #
+ 
+ d  =
+ 
+    0.05  
+ 
+ V  =
+ 
+    20.  
+ 
+ y  =
+ 
+    120.  
+ 
+ x  =
+ 
+    60.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.0019638  
+ 
+ F  =
+ 
+    1178.25  
+ 
+ 
+ force in N exerted by the water jet   
+ 
+    1178.25  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.6/86.sce #
+ 
+ d  =
+ 
+    0.05  
+ 
+ V  =
+ 
+    20.  
+ 
+ u  =
+ 
+    7.  
+ 
+ a  =
+ 
+    0.0019638  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ F  =
+ 
+    785.5  
+ 
+ F1  =
+ 
+    331.87375  
+ 
+ work  =
+ 
+    2323.1163  
+ 
+ 
+ force in N if plate is fixed    
+ 
+    785.5  
+ 
+ 
+ force in N if plate is moving with a velocity of 7 m/sec   
+ 
+    331.87375  
+ 
+ 
+ work done per sec by the jet   
+ 
+    2323.1163  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.7/87.sce #
+ 
+ W  =
+ 
+    58.86  
+ 
+ d  =
+ 
+    0.02  
+ 
+ V  =
+ 
+    5.  
+ 
+ z  =
+ 
+    0.15  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.0003142  
+ 
+ F  =
+ 
+    7.855  
+ 
+ cog  =
+ 
+    0.1  
+ 
+ x  =
+ 
+    30.  
+ 
+ P  =
+ 
+    11.7825  
+ 
+ F1  =
+ 
+    3.9633944  
+ 
+ V1  =
+ 
+    3.5516532  
+ 
+ 
+ velocity in m/sec of the jet if the plate is deflected through 30 degree   
+ 
+    3.5516532  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.8/88.sce #
+ 
+ V  =
+ 
+    25.  
+ 
+ u  =
+ 
+    10.  
+ 
+ q  =
+ 
+    0.001  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ x  =
+ 
+    180.  
+ 
+ u1  =
+ 
+    8.  
+ 
+ F1  =
+ 
+    50.  
+ 
+ F2  =
+ 
+    18.  
+ 
+ F3  =
+ 
+    34.  
+ 
+ 
+ force of jet in N when,the cup is stationary,the cup is moving with velocity of 10m/sec,series of cup with velocity of 8m/sec   
+ 
+    50.  
+ 
+    18.  
+ 
+    34.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.9/89.sce #
+ 
+ x1  =
+ 
+    30.  
+ 
+ V1  =
+ 
+    30.  
+ 
+ Q  =
+ 
+    0.001  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Vf1  =
+ 
+    15.  
+ 
+ Vw1  =
+ 
+    25.980762  
+ 
+ u  =
+ 
+    15.  
+ 
+ x2  =
+ 
+    120.  
+ 
+ y1  =
+ 
+    53.793977  
+ 
+ Vr1  =
+ 
+    18.589705  
+ 
+ z  =
+ 
+    0.6987944  
+ 
+ y2  =
+ 
+    15.669645  
+ 
+ V2  =
+ 
+    5.7976365  
+ 
+ Vw2  =
+ 
+    2.8988183  
+ 
+ W  =
+ 
+    433.19371  
+ 
+ n  =
+ 
+    0.9626527  
+ 
+ 
+ angle of vane,work done of water entering the vane,efficiency   
+ 
+    15.669645  
+ 
+    433.19371  
+ 
+    96.265268  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH9/EX9.1/91.sce #
+ 
+ D  =
+ 
+    0.15  
+ 
+ s  =
+ 
+    0.25  
+ 
+ N  =
+ 
+    50.  
+ 
+ Hs  =
+ 
+    5.  
+ 
+ Hd  =
+ 
+    5.  
+ 
+ n1  =
+ 
+    0.6  
+ 
+ n2  =
+ 
+    0.78  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.0176737  
+ 
+ Fs  =
+ 
+    1444.8291  
+ 
+ Fd  =
+ 
+    1111.407  
+ 
+ P  =
+ 
+    0.5325492  
+ 
+ 
+ power required by the pump in Kw   
+ 
+    0.5325492  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH9/EX9.2/92.sce #
+ 
+ D  =
+ 
+    0.18  
+ 
+ s  =
+ 
+    0.36  
+ 
+ Hs  =
+ 
+    3.  
+ 
+ Hd  =
+ 
+    45.  
+ 
+ N  =
+ 
+    50.  
+ 
+ n  =
+ 
+    0.85  
+ 
+ a  =
+ 
+    0.0254502  
+ 
+ Q  =
+ 
+    0.0152701  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ P  =
+ 
+    8.4592872  
+ 
+ 
+ power in kw required to drive the pump   
+ 
+    8.4592872  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH9/EX9.3/93.sce #
+ 
+ D  =
+ 
+    0.15  
+ 
+ s  =
+ 
+    0.3  
+ 
+ Hs  =
+ 
+    3.  
+ 
+ Hd  =
+ 
+    30.  
+ 
+ n  =
+ 
+    0.8  
+ 
+ a  =
+ 
+    0.0176737  
+ 
+ N  =
+ 
+    1.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Q  =
+ 
+    0.0103333  
+ 
+ Qth  =
+ 
+    0.0106042  
+ 
+ slip  =
+ 
+    0.0255479  
+ 
+ power  =
+ 
+    4.2911423  
+ 
+ 
+ power in Kw required to drive the pump,percentage slip   
+ 
+    4.2911423  
+ 
+    2.5547933  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH9/EX9.4/94.sce #
+ 
+ D  =
+ 
+    0.15  
+ 
+ s  =
+ 
+    0.3  
+ 
+ N  =
+ 
+    0.8333333  
+ 
+ H  =
+ 
+    25.  
+ 
+ Qact  =
+ 
+    0.0042  
+ 
+ Ld  =
+ 
+    22.  
+ 
+ d  =
+ 
+    0.1  
+ 
+ a  =
+ 
+    0.0176737  
+ 
+ Qth  =
+ 
+    0.0044184  
+ 
+ w  =
+ 
+    9810.  
+ 
+ power  =
+ 
+    1.0836218  
+ 
+ slip  =
+ 
+    0.0494377  
+ 
+ W  =
+ 
+    5.2366667  
+ 
+ a1  =
+ 
+    0.007855  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Had  =
+ 
+    20.755696  
+ 
+ 
+ theoritical discharge,theoritical power,percentage slip,acceleration head   
+ 
+    0.0044184  
+ 
+    1.0836218  
+ 
+    4.9437725  
+ 
+    20.755696  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH9/EX9.5/95.sce #
+ 
+ s  =
+ 
+    0.15  
+ 
+ Ls  =
+ 
+    7.  
+ 
+ ds  =
+ 
+    0.075  
+ 
+ N  =
+ 
+    1.25  
+ 
+ Hs  =
+ 
+    2.5  
+ 
+ z  =
+ 
+    1.7777778  
+ 
+ f  =
+ 
+    0.01  
+ 
+ W  =
+ 
+    7.855  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Has  =
+ 
+    5.870298  
+ 
+ H  =
+ 
+    8.370298  
+ 
+ H1  =
+ 
+    3.370298  
+ 
+ Hfs  =
+ 
+    0.2087217  
+ 
+ H2  =
+ 
+    2.7087217  
+ 
+ 
+ pressure head:beginningof suction stroke,end of the suction stroke,middle of the suction stroke   
+ 
+    8.370298  
+ 
+    3.370298  
+ 
+    2.7087217  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH9/EX9.6/96.sce #
+ 
+ D  =
+ 
+    0.08  
+ 
+ s  =
+ 
+    0.15  
+ 
+ Hs  =
+ 
+    3.  
+ 
+ ds  =
+ 
+    0.03  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Ls  =
+ 
+    4.5  
+ 
+ p  =
+ 
+    78860.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ W  =
+ 
+    0.1047333  
+ 
+ z  =
+ 
+    7.1111111  
+ 
+ Hsep  =
+ 
+    8.038736  
+ 
+ Habs  =
+ 
+    2.261264  
+ 
+ Has  =
+ 
+    5.038736  
+ 
+ N  =
+ 
+    43.331603  
+ 
+ 
+ maximium speed in rpm at which may run without separation   
+ 
+    43.331603  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH9/EX9.7/97.sce #
+ 
+ Hs  =
+ 
+    5.  
+ 
+ Ls  =
+ 
+    10.  
+ 
+ D  =
+ 
+    0.15  
+ 
+ d  =
+ 
+    0.1  
+ 
+ N  =
+ 
+    0.5  
+ 
+ s  =
+ 
+    0.15  
+ 
+ g  =
+ 
+    9.81  
+ 
+ W  =
+ 
+    3.142  
+ 
+ w  =
+ 
+    9810.  
+ 
+ ha  =
+ 
+    10.3  
+ 
+ z  =
+ 
+    2.25  
+ 
+ H  =
+ 
+    3.3963867  
+ 
+ Ph  =
+ 
+    8.3963867  
+ 
+ Phabs  =
+ 
+    1.9036133  
+ 
+ f  =
+ 
+    0.01  
+ 
+ Hfs  =
+ 
+    0.2292561  
+ 
+ H1  =
+ 
+    5.2292561  
+ 
+ H1abs  =
+ 
+    5.0707439  
+ 
+ H2  =
+ 
+    1.6036133  
+ 
+ H2abs  =
+ 
+    8.6963867  
+ 
+ Hd  =
+ 
+    15.  
+ 
+ Ld  =
+ 
+    25.  
+ 
+ H11  =
+ 
+    8.4909667  
+ 
+ H12  =
+ 
+    23.490967  
+ 
+ H12abs  =
+ 
+    33.790967  
+ 
+ Hfd  =
+ 
+    0.5731403  
+ 
+ H22  =
+ 
+    15.57314  
+ 
+ H22abs  =
+ 
+    25.87314  
+ 
+ H3  =
+ 
+    6.5090333  
+ 
+ H3abs  =
+ 
+    16.809033  
+ 
+ a  =
+ 
+    0.0176737  
+ 
+ Q  =
+ 
+    0.0026511  
+ 
+ power  =
+ 
+    0.5340490  
+ 
+ 
+ pressure head at middle and end of suction stroke   
+ 
+    5.0707439  
+ 
+    8.6963867  
+ 
+ 
+ pressure head at beginning,middle,end of suction stroke   
+ 
+    33.790967  
+ 
+    25.87314  
+ 
+    16.809033  
+ 
+ 
+ power in Kw required to drive the pump   
+ 
+    0.5340490  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.1/101.sce #
+ 
+ N  =
+ 
+    15.  
+ 
+ x1  =
+ 
+    90.  
+ 
+ D1  =
+ 
+    0.2  
+ 
+ D2  =
+ 
+    0.4  
+ 
+ n  =
+ 
+    0.7  
+ 
+ g  =
+ 
+    9.81  
+ 
+ u1  =
+ 
+    9.426  
+ 
+ u2  =
+ 
+    18.852  
+ 
+ y1  =
+ 
+    20.  
+ 
+ Vf1  =
+ 
+    3.4307834  
+ 
+ Vr1  =
+ 
+    10.03094  
+ 
+ Vf2  =
+ 
+    3.4307834  
+ 
+ Vr2  =
+ 
+    10.03094  
+ 
+ x  =
+ 
+    9.426  
+ 
+ Vw2  =
+ 
+    9.426  
+ 
+ B1  =
+ 
+    0.02  
+ 
+ Q  =
+ 
+    0.0431181  
+ 
+ H  =
+ 
+    18.114062  
+ 
+ w  =
+ 
+    9810.  
+ 
+ P  =
+ 
+    7.6620387  
+ 
+ inputpower  =
+ 
+    10.94577  
+ 
+ 
+ discharge through the pump,heat developed,power in Kw at outlet,input power if overall efficiency is 70%   
+ 
+    0.0431181  
+ 
+    18.114062  
+ 
+    7.6620387  
+ 
+    10.94577  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.2/102.sce #
+ 
+ Hs  =
+ 
+    2.  
+ 
+ Hd  =
+ 
+    20.  
+ 
+ Hfs  =
+ 
+    1.  
+ 
+ Hfd  =
+ 
+    5.  
+ 
+ Q  =
+ 
+    0.0166667  
+ 
+ N  =
+ 
+    24.166667  
+ 
+ ds  =
+ 
+    0.1  
+ 
+ dd  =
+ 
+    0.1  
+ 
+ n  =
+ 
+    0.75  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.007855  
+ 
+ Vs  =
+ 
+    2.1217908  
+ 
+ Vd  =
+ 
+    2.1217908  
+ 
+ Ht  =
+ 
+    28.458919  
+ 
+ Pi  =
+ 
+    6.2040444  
+ 
+ Ns  =
+ 
+    15.192477  
+ 
+ 
+ total head developed by the pump,power input to the pump,specific speed of pump in r.p.m   
+ 
+    28.458919  
+ 
+    6.2040444  
+ 
+    15.192477  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.3/103.sce #
+ 
+ d2  =
+ 
+    0.6  
+ 
+ Q  =
+ 
+    0.3333333  
+ 
+ N  =
+ 
+    23.333333  
+ 
+ V1  =
+ 
+    2.8  
+ 
+ g  =
+ 
+    9.81  
+ 
+ y2  =
+ 
+    30.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Vf1  =
+ 
+    2.8  
+ 
+ Vf2  =
+ 
+    2.8  
+ 
+ u2  =
+ 
+    43.988  
+ 
+ x  =
+ 
+    4.8497423  
+ 
+ Vw2  =
+ 
+    39.138258  
+ 
+ Hm  =
+ 
+    175.49579  
+ 
+ P  =
+ 
+    573.87123  
+ 
+ 
+ head developed, pump power   
+ 
+    175.49579  
+ 
+    573.87123  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.4/104.sce #
+ 
+ N  =
+ 
+    24.166667  
+ 
+ N1  =
+ 
+    27.5  
+ 
+ H  =
+ 
+    12.  
+ 
+ P  =
+ 
+    6.  
+ 
+ H1  =
+ 
+    15.538644  
+ 
+ P1  =
+ 
+    8.8409529  
+ 
+ 
+ head developed and power required if pump runs at 1650 r.p.m   
+ 
+    15.538644  
+ 
+    8.8409529  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.5/105.sce #
+ 
+ Q  =
+ 
+    0.03  
+ 
+ Hs  =
+ 
+    18.  
+ 
+ d  =
+ 
+    0.1  
+ 
+ l  =
+ 
+    90.  
+ 
+ n  =
+ 
+    0.8  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.007855  
+ 
+ f  =
+ 
+    0.04  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Vd  =
+ 
+    3.8192234  
+ 
+ H1  =
+ 
+    107.80009  
+ 
+ Hm  =
+ 
+    125.80009  
+ 
+ P  =
+ 
+    46.278709  
+ 
+ 
+ power required to drive the pump   
+ 
+    46.278709  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.6/106.sce #
+ 
+ Q  =
+ 
+    0.04  
+ 
+ Hm  =
+ 
+    30.  
+ 
+ n  =
+ 
+    0.75  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+    11.772  
+ 
+ P  =
+ 
+    15.696  
+ 
+ 
+ output power of the pump,power required to drive the motor   
+ 
+    11.772  
+ 
+    15.696  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.7/107.sce #
+ 
+ Q  =
+ 
+    0.03  
+ 
+ d  =
+ 
+    0.1  
+ 
+ n  =
+ 
+    0.72  
+ 
+ Hs  =
+ 
+    20.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Hl  =
+ 
+    8.  
+ 
+ Hm  =
+ 
+    28.  
+ 
+ p  =
+ 
+    8.2404  
+ 
+ P  =
+ 
+    11.445  
+ 
+ 
+ water power required to the pump,power required to run the pump   
+ 
+    8.2404  
+ 
+    11.445  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.8/108.sce #
+ 
+ d2  =
+ 
+    0.6  
+ 
+ Q  =
+ 
+    0.25  
+ 
+ N  =
+ 
+    24.166667  
+ 
+ V1  =
+ 
+    2.6  
+ 
+ g  =
+ 
+    9.81  
+ 
+ y2  =
+ 
+    30.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Vf1  =
+ 
+    2.6  
+ 
+ Vf2  =
+ 
+    2.6  
+ 
+ u2  =
+ 
+    45.559  
+ 
+ x  =
+ 
+    4.5033321  
+ 
+ Vw2  =
+ 
+    41.055668  
+ 
+ Hm  =
+ 
+    190.66821  
+ 
+ P  =
+ 
+    467.61379  
+ 
+ 
+ head developed, pump power   
+ 
+    190.66821  
+ 
+    467.61379  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.9/109.sce #
+ 
+ Q  =
+ 
+    0.05  
+ 
+ p  =
+ 
+    392400.  
+ 
+ n  =
+ 
+    0.65  
+ 
+ s  =
+ 
+    0.8  
+ 
+ w1  =
+ 
+    9810.  
+ 
+ Hw  =
+ 
+    40.  
+ 
+ Hoil  =
+ 
+    50.  
+ 
+ Pw  =
+ 
+    30.184615  
+ 
+ Poil  =
+ 
+    30.184615  
+ 
+ 
+ power in Kw to drive the pump with water and oil of s,p=0.8   
+ 
+    30.184615  
+ 
+    30.184615  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.1/111.sce #
+ 
+ P  =
+ 
+    8820000.  
+ 
+ N  =
+ 
+    10.  
+ 
+ H  =
+ 
+    500.  
+ 
+ Cv  =
+ 
+    0.97  
+ 
+ Cu  =
+ 
+    0.46  
+ 
+ no  =
+ 
+    0.85  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q  =
+ 
+    2.1154884  
+ 
+ V1  =
+ 
+    96.074081  
+ 
+ u  =
+ 
+    44.194077  
+ 
+ D  =
+ 
+    1.4065588  
+ 
+ d  =
+ 
+    0.0937706  
+ 
+ a  =
+ 
+    0.0069068  
+ 
+ n  =
+ 
+    3.1880488  
+ 
+ n1  =
+ 
+    4.  
+ 
+ 
+ discharge in m3/sec,wheel diameter in m, jet diameter in cm, number os jets    
+ 
+    2.1154884  
+ 
+    1.4065588  
+ 
+    9.3770586  
+ 
+    4.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.2/112.sce #
+ 
+ H  =
+ 
+    46.  
+ 
+ Q  =
+ 
+    1.  
+ 
+ u1  =
+ 
+    15.  
+ 
+ y  =
+ 
+    165.  
+ 
+ y2  =
+ 
+    15.  
+ 
+ Cv  =
+ 
+    0.975  
+ 
+ g  =
+ 
+    9.81  
+ 
+ V1  =
+ 
+    30.041971  
+ 
+ Vw1  =
+ 
+    30.041971  
+ 
+ Vr1  =
+ 
+    15.041971  
+ 
+ Vr2  =
+ 
+    15.041971  
+ 
+ Vw2  =
+ 
+  - 0.4705721  
+ 
+ w  =
+ 
+    9810.  
+ 
+ P  =
+ 
+    443.57098  
+ 
+ n  =
+ 
+    0.9829610  
+ 
+ 
+ power developed in Kw and efficiency of the wheel   
+ 
+    443.57098  
+ 
+    98.296099  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.3/113.sce #
+ 
+ H  =
+ 
+    340.  
+ 
+ P  =
+ 
+    4410000.  
+ 
+ N  =
+ 
+    8.3333333  
+ 
+ Cv  =
+ 
+    0.97  
+ 
+ no  =
+ 
+    0.86  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Q  =
+ 
+    1.5374189  
+ 
+ V1  =
+ 
+    79.224717  
+ 
+ u  =
+ 
+    35.651122  
+ 
+ D  =
+ 
+    1.361596  
+ 
+ a  =
+ 
+    0.0194058  
+ 
+ 
+ mean diameter in m,jet area in m2   
+ 
+    1.361596  
+ 
+    0.0194058  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.4/114.sce #
+ 
+ H  =
+ 
+    45.  
+ 
+ Q  =
+ 
+    0.8333333  
+ 
+ u1  =
+ 
+    12.5  
+ 
+ y  =
+ 
+    160.  
+ 
+ y2  =
+ 
+    20.  
+ 
+ Cv  =
+ 
+    0.97  
+ 
+ g  =
+ 
+    9.81  
+ 
+ V1  =
+ 
+    28.822224  
+ 
+ Vw1  =
+ 
+    28.822224  
+ 
+ Vr1  =
+ 
+    16.322224  
+ 
+ Vr2  =
+ 
+    16.322224  
+ 
+ Vw2  =
+ 
+    2.8378737  
+ 
+ w  =
+ 
+    9810.  
+ 
+ P  =
+ 
+    329.79269  
+ 
+ nh  =
+ 
+    0.9527902  
+ 
+ 
+ power developed in Kw and hydraulic efficiency   
+ 
+    329.79269  
+ 
+    95.279019  
+ 
+ H1  =
+ 
+    50.  
+ 
+ V11  =
+ 
+    30.381292  
+ 
+ Vw11  =
+ 
+    30.381292  
+ 
+ Vr11  =
+ 
+    17.881292  
+ 
+ Vr21  =
+ 
+    17.881292  
+ 
+ Vw21  =
+ 
+    4.3029181  
+ 
+ w  =
+ 
+    9810.  
+ 
+ P  =
+ 
+    361.29385  
+ 
+ 
+ Power developed in Kw if head is increased to 50   
+ 
+    361.29385  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.5/115.sce #
+ 
+ H  =
+ 
+    50.  
+ 
+ Q  =
+ 
+    1.2  
+ 
+ u1  =
+ 
+    18.  
+ 
+ y  =
+ 
+    160.  
+ 
+ y2  =
+ 
+    20.  
+ 
+ Cv  =
+ 
+    0.94  
+ 
+ g  =
+ 
+    9.81  
+ 
+ V1  =
+ 
+    29.441664  
+ 
+ Vw1  =
+ 
+    29.441664  
+ 
+ Vr1  =
+ 
+    11.441664  
+ 
+ Vr2  =
+ 
+    11.441664  
+ 
+ Vw2  =
+ 
+  - 7.2483524  
+ 
+ w  =
+ 
+    9810.  
+ 
+ P  =
+ 
+    479.37554  
+ 
+ n  =
+ 
+    0.8144335  
+ 
+ 
+ power developed in Kw and efficiency of the wheel   
+ 
+    479.37554  
+ 
+    81.443346  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.6/116.sce #
+ 
+ D  =
+ 
+    1.  
+ 
+ N  =
+ 
+    16.666667  
+ 
+ H  =
+ 
+    700.  
+ 
+ y  =
+ 
+    165.  
+ 
+ y2  =
+ 
+    15.  
+ 
+ Q  =
+ 
+    0.1  
+ 
+ Cv  =
+ 
+    0.97  
+ 
+ g  =
+ 
+    9.81  
+ 
+ u  =
+ 
+    52.366667  
+ 
+ V1  =
+ 
+    113.67639  
+ 
+ nh  =
+ 
+    0.9768792  
+ 
+ 
+ hydraulic efficiency of the wheel   
+ 
+    97.687921  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.7/117.sce #
+ 
+ Hg  =
+ 
+    500.  
+ 
+ hf  =
+ 
+    166.66667  
+ 
+ H  =
+ 
+    333.33333  
+ 
+ Q  =
+ 
+    2.  
+ 
+ y  =
+ 
+    165.  
+ 
+ y2  =
+ 
+    15.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Cv  =
+ 
+    1.  
+ 
+ V1  =
+ 
+    80.870266  
+ 
+ u  =
+ 
+    36.39162  
+ 
+ Vr1  =
+ 
+    44.478647  
+ 
+ Vw1  =
+ 
+    80.870266  
+ 
+ Vr2  =
+ 
+    44.478647  
+ 
+ Vw2  =
+ 
+    6.5714535  
+ 
+ W  =
+ 
+    6364291.7  
+ 
+ P  =
+ 
+    6364.2917  
+ 
+ nh  =
+ 
+    0.9731333  
+ 
+ 
+ power given by the water to the runner in Kw,Hydraulic efficiency   
+ 
+    6364.2917  
+ 
+    97.313328  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.8/118.sce #
+ 
+ L  =
+ 
+    1600.  
+ 
+ H  =
+ 
+    550.  
+ 
+ Dp  =
+ 
+    1.2  
+ 
+ d  =
+ 
+    0.18  
+ 
+ f  =
+ 
+    0.006  
+ 
+ Cv  =
+ 
+    0.97  
+ 
+ g  =
+ 
+    9.81  
+ 
+ V1  =
+ 
+    100.76335  
+ 
+ a  =
+ 
+    0.0254502  
+ 
+ Q  =
+ 
+    2.5644473  
+ 
+ w  =
+ 
+    9810.  
+ 
+ P  =
+ 
+    13018.74  
+ 
+ ap  =
+ 
+    1.13112  
+ 
+ Vp  =
+ 
+    2.2671753  
+ 
+ Hf  =
+ 
+    8.383419  
+ 
+ Tp  =
+ 
+    56189.516  
+ 
+ 
+ power to each jet in Kw,total power at reserviour i Kw   
+ 
+    13018.74  
+ 
+    56189.516  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH11/EX11.9/119.sce #
+ 
+ Q  =
+ 
+    4.  
+ 
+ H  =
+ 
+    250.  
+ 
+ L  =
+ 
+    3000.  
+ 
+ n1  =
+ 
+    4.  
+ 
+ n  =
+ 
+    0.91  
+ 
+ nh  =
+ 
+    0.9  
+ 
+ Cv  =
+ 
+    0.975  
+ 
+ f4  =
+ 
+    0.0045  
+ 
+ hf  =
+ 
+    22.5  
+ 
+ Hn  =
+ 
+    227.5  
+ 
+ g  =
+ 
+    9.81  
+ 
+ w  =
+ 
+    9810.  
+ 
+ V1  =
+ 
+    65.13956  
+ 
+ Pw  =
+ 
+    8486.3244  
+ 
+ Pt  =
+ 
+    7637.692  
+ 
+ q  =
+ 
+    1.  
+ 
+ d  =
+ 
+    0.1397991  
+ 
+ D  =
+ 
+    0.9546759  
+ 
+ 
+ power developed by turbine in Kw,diameter jet and diameter of pipeline   
+ 
+    7637.692  
+ 
+    0.1397991  
+ 
+    0.9546759  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.1/121.sce #
+ 
+ D1  =
+ 
+    0.6  
+ 
+ D2  =
+ 
+    0.3  
+ 
+ x2  =
+ 
+    90.  
+ 
+ B1  =
+ 
+    0.15  
+ 
+ N  =
+ 
+    5.  
+ 
+ x1  =
+ 
+    15.  
+ 
+ Vf1  =
+ 
+    3.  
+ 
+ Vf2  =
+ 
+    3.  
+ 
+ u1  =
+ 
+    9.4284  
+ 
+ u2  =
+ 
+    4.713  
+ 
+ Vw1  =
+ 
+    11.196152  
+ 
+ y1  =
+ 
+    59.491247  
+ 
+ Q  =
+ 
+    0.84834  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ P  =
+ 
+    89.5523  
+ 
+ 
+ blade angles, Power developed in Kw   
+ 
+    59.491247  
+ 
+    89.5523  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.2/122.sce #
+ 
+ D1  =
+ 
+    1.  
+ 
+ N  =
+ 
+    3.3333333  
+ 
+ B1  =
+ 
+    0.15  
+ 
+ Vf1  =
+ 
+    3.  
+ 
+ Vf2  =
+ 
+    3.  
+ 
+ x2  =
+ 
+    90.  
+ 
+ Q  =
+ 
+    1.4139  
+ 
+ u1  =
+ 
+    10.473333  
+ 
+ Vw1  =
+ 
+    10.473333  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ P  =
+ 
+    155.0917  
+ 
+ H  =
+ 
+    11.640236  
+ 
+ nh  =
+ 
+    0.9605922  
+ 
+ 
+ power developed in Kw,hydraulic efficiency   
+ 
+    155.0917  
+ 
+    96.059224  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.3/123.sce #
+ 
+ D1  =
+ 
+    0.75  
+ 
+ D2  =
+ 
+    0.5  
+ 
+ x1  =
+ 
+    20.  
+ 
+ Vf1  =
+ 
+    3.  
+ 
+ Vf2  =
+ 
+    3.  
+ 
+ B1  =
+ 
+    0.15  
+ 
+ N  =
+ 
+    4.1666667  
+ 
+ u1  =
+ 
+    9.81875  
+ 
+ u2  =
+ 
+    6.5458333  
+ 
+ Vw1  =
+ 
+    8.2424323  
+ 
+ y1  =
+ 
+    62.280802  
+ 
+ y2  =
+ 
+    24.622309  
+ 
+ Q  =
+ 
+    1.060425  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ P  =
+ 
+    85.8206  
+ 
+ H  =
+ 
+    8.7084997  
+ 
+ nh  =
+ 
+    0.9473255  
+ 
+ 
+ hydraulic efficiency,power developed in Kw,blade angle at inlet and outlet   
+ 
+    62.280802  
+ 
+    24.622309  
+ 
+    85.8206  
+ 
+    94.732553  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.4/124.sce #
+ 
+ H  =
+ 
+    150.  
+ 
+ Q  =
+ 
+    6.  
+ 
+ N  =
+ 
+    6.6666667  
+ 
+ D1  =
+ 
+    1.2  
+ 
+ x1  =
+ 
+    20.  
+ 
+ x2  =
+ 
+    90.  
+ 
+ B1  =
+ 
+    0.1  
+ 
+ u1  =
+ 
+    25.136  
+ 
+ Vf1  =
+ 
+    15.913431  
+ 
+ Vw1  =
+ 
+    43.721792  
+ 
+ Vw2  =
+ 
+    0.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ P  =
+ 
+    6593.9458  
+ 
+ 
+ whirl component at inlet and outlet,power developed in Kw   
+ 
+    43.721792  
+ 
+    0.  
+ 
+    6593.9458  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.5/125.sce #
+ 
+ D1  =
+ 
+    0.76  
+ 
+ D2  =
+ 
+    0.5  
+ 
+ x1  =
+ 
+    20.  
+ 
+ Vf1  =
+ 
+    4.  
+ 
+ Vf2  =
+ 
+    4.  
+ 
+ B1  =
+ 
+    0.15  
+ 
+ N  =
+ 
+    5.  
+ 
+ u1  =
+ 
+    11.9396  
+ 
+ u2  =
+ 
+    7.855  
+ 
+ Vw1  =
+ 
+    10.98991  
+ 
+ y1  =
+ 
+    76.643981  
+ 
+ y2  =
+ 
+    26.98655  
+ 
+ Q  =
+ 
+    1.432752  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ P  =
+ 
+    187.99873  
+ 
+ 
+ blade angle at inlet and outlet,power developed in Kw   
+ 
+    76.643981  
+ 
+    26.98655  
+ 
+    187.99873  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.6/126.sce #
+ 
+ no  =
+ 
+    0.8  
+ 
+ P  =
+ 
+    147000.  
+ 
+ H  =
+ 
+    10.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ u1  =
+ 
+    13.306784  
+ 
+ Vf1  =
+ 
+    4.2021423  
+ 
+ N  =
+ 
+    2.6666667  
+ 
+ Vw2  =
+ 
+    0.  
+ 
+ nh  =
+ 
+    0.8  
+ 
+ Vw1  =
+ 
+    5.8977436  
+ 
+ x1  =
+ 
+    35.469872  
+ 
+ y1  =
+ 
+    29.560354  
+ 
+ D1  =
+ 
+    1.5881744  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p  =
+ 
+    147000.  
+ 
+ Q  =
+ 
+    1.8730887  
+ 
+ B1  =
+ 
+    0.0893271  
+ 
+ 
+ guide blade angle,wheel vane angle,diameter of wheel,width of wheel at inlet in cm   
+ 
+    35.469872  
+ 
+    29.560354  
+ 
+    1.5881744  
+ 
+    8.9327095  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.7/127.sce #
+ 
+ sp  =
+ 
+    25000000.  
+ 
+ H  =
+ 
+    40.  
+ 
+ no  =
+ 
+    0.9  
+ 
+ P  =
+ 
+    25000.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ u1  =
+ 
+    56.028564  
+ 
+ Vf1  =
+ 
+    16.808569  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Q  =
+ 
+    70.789444  
+ 
+ De  =
+ 
+    2.4718506  
+ 
+ Db  =
+ 
+    0.8651477  
+ 
+ N  =
+ 
+    432.84494  
+ 
+ Ns  =
+ 
+    680.34212  
+ 
+ 
+ diameter of runner and boss, speed and specific speed of runner in r.p.m   
+ 
+    2.4718506  
+ 
+    0.8651477  
+ 
+    432.84494  
+ 
+    680.34212  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH12/EX12.8/128.sce #
+ 
+ D  =
+ 
+    4.5  
+ 
+ d  =
+ 
+    2.  
+ 
+ P  =
+ 
+    20608.  
+ 
+ N  =
+ 
+    2.3333333  
+ 
+ H  =
+ 
+    22.  
+ 
+ nh  =
+ 
+    0.94  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ no  =
+ 
+    0.85  
+ 
+ Q  =
+ 
+    112.33762  
+ 
+ Vf1  =
+ 
+    8.8008714  
+ 
+ u1  =
+ 
+    32.991  
+ 
+ Vw1  =
+ 
+    6.1492771  
+ 
+ x1  =
+ 
+    55.057527  
+ 
+ 
+ discharge through the turbine,guide blade angle at inlet   
+ 
+    112.33762  
+ 
+    55.057527  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.10/210.sce #
+ 
+ a  =
+ 
+    0.12  
+ 
+ l  =
+ 
+    1.8  
+ 
+ s  =
+ 
+    0.7  
+ 
+ z  =
+ 
+    9810.  
+ 
+ wp  =
+ 
+    177.99264  
+ 
+ v  =
+ 
+    0.02304  
+ 
+ w  =
+ 
+    226.0224  
+ 
+ t  =
+ 
+    48.02976  
+ 
+ s  =
+ 
+   p: 110000
+ 
+ 
+ w  =
+ 
+    52.732544  
+ 
+ 
+ weight of lead in N   
+ 
+    52.732544  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.11/211.sce #
+ 
+ d  =
+ 
+    4.  
+ 
+ h  =
+ 
+    4.  
+ 
+ s  =
+ 
+    0.6  
+ 
+ s1  =
+ 
+    1.  
+ 
+ h1  =
+ 
+    2.4  
+ 
+ v  =
+ 
+    30.1632  
+ 
+ x  =
+ 
+    1.2  
+ 
+ cog  =
+ 
+    2.  
+ 
+ h2  =
+ 
+    0.8  
+ 
+ a  =
+ 
+    12.568  
+ 
+ bm  =
+ 
+    0.4166667  
+ 
+ mh  =
+ 
+  - 0.3833333  
+ 
+ 
+ metacentric height in m,negative sign indicte that cylinder is in unstable equilibrium   
+ 
+  - 0.3833333  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.12/212.sce #
+ 
+ d  =
+ 
+    4.  
+ 
+ s1  =
+ 
+    0.6  
+ 
+ s2  =
+ 
+    0.9  
+ 
+ l  =
+ 
+    1.  
+ 
+ h  =
+ 
+    0.6666667  
+ 
+ cob  =
+ 
+    0.3333333  
+ 
+ cog  =
+ 
+    0.5  
+ 
+ dcog  =
+ 
+    0.1666667  
+ 
+ i  =
+ 
+    12.568  
+ 
+ v  =
+ 
+    8.3786667  
+ 
+ bm  =
+ 
+    1.5  
+ 
+ bm  =
+ 
+    0.1666667  
+ 
+ l  =
+ 
+    3.  
+ 
+ 
+ maximium lenght of cylinder in m   
+ 
+    3.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.13/213.sce #
+ 
+ s  =
+ 
+    2.  
+ 
+ w  =
+ 
+    340.  
+ 
+ v  =
+ 
+    4.  
+ 
+ z  =
+ 
+    9810.  
+ 
+ w1  =
+ 
+    39240.  
+ 
+ gb  =
+ 
+    0.25  
+ 
+ i  =
+ 
+    1.3333333  
+ 
+ v  =
+ 
+    4.  
+ 
+ bm  =
+ 
+    0.3333333  
+ 
+ gm  =
+ 
+    0.5833333  
+ 
+ p  =
+ 
+    0.0148536  
+ 
+ theta  =
+ 
+    0.8509888  
+ 
+ 
+ angle through which cube will tilt in minutes   
+ 
+    51.059325  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.14/214.sce #
+ 
+ l  =
+ 
+    60.  
+ 
+ b  =
+ 
+    9.  
+ 
+ w  =
+ 
+    16000000.  
+ 
+ w1  =
+ 
+    160000.  
+ 
+ y  =
+ 
+    6.  
+ 
+ q  =
+ 
+    3.  
+ 
+ s  =
+ 
+   p: 10104
+ 
+ i  =
+ 
+    2733.75  
+ 
+ v  =
+ 
+    1583.5313  
+ 
+ bm  =
+ 
+    1.7263631  
+ 
+ gm  =
+ 
+    1.1448682  
+ 
+ mcd  =
+ 
+    0.2736369  
+ 
+ cogd  =
+ 
+    1.4185051  
+ 
+ 
+ metacentric height   
+ 
+    1.1448682  
+ 
+ 
+ position of centre of gravity below the water line   
+ 
+    1.4185051  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH2/EX2.15/215.sce #
+ 
+ w  =
+ 
+    450000.  
+ 
+ y  =
+ 
+    5.5  
+ 
+ w1  =
+ 
+    80000000.  
+ 
+ q  =
+ 
+    3.  
+ 
+ gm  =
+ 
+    0.5903227  
+ 
+ p  =
+ 
+    12500.  
+ 
+ n  =
+ 
+    120.  
+ 
+ T  =
+ 
+    994589.43  
+ 
+ z  =
+ 
+    0.0210603  
+ 
+ theta  =
+ 
+    1.2064875  
+ 
+ 
+ angle of heel in degree   
+ 
+    1.2064875  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.10/310.sce #
+ 
+ H  =
+ 
+    0.1  
+ 
+ w  =
+ 
+    9810.  
+ 
+ sw  =
+ 
+    12.  
+ 
+ h  =
+ 
+    81.75  
+ 
+ Cv  =
+ 
+    0.96  
+ 
+ g  =
+ 
+    9.81  
+ 
+ v  =
+ 
+    38.447191  
+ 
+ v1  =
+ 
+    138.40989  
+ 
+ 
+ speed of the plane   
+ 
+    138.40989  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.11/311.sce #
+ 
+ d1  =
+ 
+    0.05  
+ 
+ d2  =
+ 
+    0.025  
+ 
+ a1  =
+ 
+    0.0019638  
+ 
+ a2  =
+ 
+    0.0004909  
+ 
+ Cd  =
+ 
+    0.94  
+ 
+ g  =
+ 
+    9.81  
+ 
+ k  =
+ 
+    26116.63  
+ 
+ 
+ venturimeter constant m-5/s2   
+ 
+    26116.63  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH3/EX3.12/312.sce #
+ 
+ d0  =
+ 
+    0.05  
+ 
+ d1  =
+ 
+    0.1  
+ 
+ H  =
+ 
+    0.09  
+ 
+ s2  =
+ 
+    13.6  
+ 
+ s1  =
+ 
+    1.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ h  =
+ 
+    1.134  
+ 
+ Cd  =
+ 
+    0.65  
+ 
+ a1  =
+ 
+    0.007855  
+ 
+ a0  =
+ 
+    0.0019638  
+ 
+ q  =
+ 
+    0.0062183  
+ 
+ q1  =
+ 
+    6218.2753  
+ 
+ 
+ actual flow rate in cm3/sec   
+ 
+    6218.2753  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH4/EX4.10/410.sce #
+ 
+ r  =
+ 
+    5.  
+ 
+ h1  =
+ 
+    5.  
+ 
+ d  =
+ 
+    0.08  
+ 
+ a  =
+ 
+    0.005  
+ 
+ h2  =
+ 
+    3.  
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    9.81  
+ 
+ z  =
+ 
+    11.884643  
+ 
+ T  =
+ 
+    5620.1973  
+ 
+ 
+ time in seconds to lower the level by 2m   
+ 
+    5620.1973  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.10/510.sce #
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ x  =
+ 
+    45.  
+ 
+ H  =
+ 
+    0.5  
+ 
+ g  =
+ 
+    9.81  
+ 
+ q1  =
+ 
+    0.1037884  
+ 
+ 
+ rate of flow over the rectangular notch in m3/sec   
+ 
+    0.1037884  
+ 
+ dq1  =
+ 
+    0.025  
+ 
+ dh  =
+ 
+    0.005  
+ 
+ h1  =
+ 
+    0.505  
+ 
+ h2  =
+ 
+    0.495  
+ 
+ 
+ limiting values of head in centimeters   
+ 
+    49.5  
+ 
+    50.5  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH5/EX5.11/511.sce #
+ 
+ Cd  =
+ 
+    0.6  
+ 
+ x  =
+ 
+    90.  
+ 
+ q  =
+ 
+    0.05  
+ 
+ g  =
+ 
+    9.81  
+ 
+ dh  =
+ 
+    0.00025  
+ 
+ z  =
+ 
+    0.0352753  
+ 
+ H  =
+ 
+    0.2624147  
+ 
+Warning : redefining function: error                   . Use funcprot(0) to avoid this message
+
+ error  =
+ 
+    0.0023817  
+ 
+ 
+ the percentage error in the discharge   
+ 
+    0.2381726  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.10/610.sce #
+ 
+ d1  =
+ 
+    0.15  
+ 
+ d2  =
+ 
+    0.1  
+ 
+ Q  =
+ 
+    0.03  
+ 
+ a1  =
+ 
+    0.0176737  
+ 
+ a2  =
+ 
+    0.007855  
+ 
+ V1  =
+ 
+    1.6974326  
+ 
+ V2  =
+ 
+    3.8192234  
+ 
+ c  =
+ 
+    0.6  
+ 
+ g  =
+ 
+    9.81  
+ 
+ dz  =
+ 
+    0.9270165  
+ 
+ w  =
+ 
+    9810.  
+ 
+ dp  =
+ 
+    9094.0322  
+ 
+ 
+ pressure loss across the contraction in N/m2   
+ 
+    9094.0322  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.11/611.sce #
+ 
+ d1  =
+ 
+    0.5  
+ 
+ d2  =
+ 
+    0.25  
+ 
+ p1  =
+ 
+    103005.  
+ 
+ p2  =
+ 
+    67689.  
+ 
+ p3  =
+ 
+    67689.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ c  =
+ 
+    0.65  
+ 
+ z  =
+ 
+    1.2274408  
+ 
+ dp  =
+ 
+    35316.  
+ 
+ v2  =
+ 
+    7.5857839  
+ 
+ a2  =
+ 
+    0.0490937  
+ 
+ Q  =
+ 
+    0.3724146  
+ 
+ 
+ rate of flow in m3/sec   
+ 
+    372.41458  
+ 
+ v3  =
+ 
+    7.5857839  
+ 
+ v1  =
+ 
+    1.896446  
+ 
+ v4  =
+ 
+    1.896446  
+ 
+ he  =
+ 
+    1.649774  
+ 
+ p4  =
+ 
+    78478.522  
+ 
+ 
+ pressure at the 50 cm enlarge section in N/m2   
+ 
+    78478.522  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.12/612.sce #
+ 
+ d  =
+ 
+    0.04  
+ 
+ v  =
+ 
+    2.  
+ 
+ dp  =
+ 
+    20000.  
+ 
+ l  =
+ 
+    8.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ u  =
+ 
+    0.0625  
+ 
+ 
+ viscosity of the flowing oil   
+ 
+    0.0625  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.13/613.sce #
+ 
+ d  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    12000.  
+ 
+ w  =
+ 
+    9320.  
+ 
+ i  =
+ 
+    0.0033333  
+ 
+ v  =
+ 
+    0.002  
+ 
+ a  =
+ 
+    0.0490937  
+ 
+ q  =
+ 
+    0.015  
+ 
+ V  =
+ 
+    0.3055379  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Rn  =
+ 
+    38.192234  
+ 
+ f  =
+ 
+    0.4189333  
+ 
+ hf  =
+ 
+    382.71655  
+ 
+ H  =
+ 
+    422.71655  
+ 
+ p  =
+ 
+    59.095774  
+ 
+ 
+ power required to pump the oil   
+ 
+    59.095774  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.14/614.sce #
+ 
+ l  =
+ 
+    600.  
+ 
+ H  =
+ 
+    160.  
+ 
+ p  =
+ 
+    1200000.  
+ 
+ n  =
+ 
+    0.85  
+ 
+ f  =
+ 
+    0.005  
+ 
+ hf  =
+ 
+    53.333333  
+ 
+ w  =
+ 
+    9810.  
+ 
+ H1  =
+ 
+    106.66667  
+ 
+ q  =
+ 
+    1.3491635  
+ 
+ d  =
+ 
+    0.5088925  
+ 
+ 
+ minimium diameter of the pipe in cm   
+ 
+    50.889255  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.15/615.sce #
+ 
+ d  =
+ 
+    0.25  
+ 
+ l  =
+ 
+    500.  
+ 
+ a  =
+ 
+    0.0490937  
+ 
+ f  =
+ 
+    0.006  
+ 
+ q  =
+ 
+    0.04  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p2  =
+ 
+    250000.  
+ 
+ V  =
+ 
+    0.8147677  
+ 
+ hf  =
+ 
+    1.6240889  
+ 
+ z1  =
+ 
+    0.  
+ 
+ z2  =
+ 
+    25.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ p1  =
+ 
+    511182.31  
+ 
+ 
+ pressure at point A is N/m2   
+ 
+    511182.31  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.16/616.sce #
+ 
+ q  =
+ 
+    0.001  
+ 
+ d  =
+ 
+    0.03  
+ 
+ p1  =
+ 
+    9810.  
+ 
+ p2  =
+ 
+    6867.  
+ 
+ l  =
+ 
+    2.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ hf  =
+ 
+    0.3  
+ 
+ a  =
+ 
+    0.0007069  
+ 
+ V  =
+ 
+    1.4145272  
+ 
+ g  =
+ 
+    9.81  
+ 
+ f  =
+ 
+    0.0110314  
+ 
+ C  =
+ 
+    42.173053  
+ 
+ 
+ darcy co-efficient   
+ 
+    0.0110314  
+ 
+ 
+ Chezy formula   
+ 
+    42.173053  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.17/617.sce #
+ 
+ a  =
+ 
+    90.  
+ 
+ H1  =
+ 
+    10.  
+ 
+ d  =
+ 
+    0.15  
+ 
+ l  =
+ 
+    400.  
+ 
+ H2  =
+ 
+    7.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ f  =
+ 
+    0.008  
+ 
+ z  =
+ 
+    0.3131397  
+ 
+ z1  =
+ 
+    9.3184405  
+ 
+ T  =
+ 
+    11067.003  
+ 
+ 
+ time to lower the level from 10m to 7m in hr   
+ 
+    3.0741674  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH6/EX6.18/618.sce #
+ 
+ q  =
+ 
+    0.08  
+ 
+ d1  =
+ 
+    0.25  
+ 
+ d2  =
+ 
+    1.  
+ 
+ l1  =
+ 
+    1500.  
+ 
+ l2  =
+ 
+    1500.  
+ 
+ a1  =
+ 
+    0.0490937  
+ 
+ a2  =
+ 
+    0.7855  
+ 
+ v2  =
+ 
+    0.0987597  
+ 
+ v1  =
+ 
+    0.0493799  
+ 
+ q1  =
+ 
+    0.0024242  
+ 
+ q2  =
+ 
+    0.0775758  
+ 
+ 
+ disharge through  pipe in m3/sec   
+ 
+    77.575758  
+ 
+    2.4242424  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.10/710.sce #
+ 
+ D  =
+ 
+    2.4  
+ 
+ d  =
+ 
+    1.5  
+ 
+ i  =
+ 
+    0.0006667  
+ 
+ N  =
+ 
+    0.02  
+ 
+ a  =
+ 
+    0.25  
+ 
+ z  =
+ 
+    1.3181161  
+ 
+ z1  =
+ 
+    1.8238839  
+ 
+ P  =
+ 
+    4.3773214  
+ 
+ A  =
+ 
+    2.9754745  
+ 
+ m  =
+ 
+    0.6797478  
+ 
+ Q  =
+ 
+    2.9697757  
+ 
+ 
+ the discharge through the sewer in litres/sec   
+ 
+    2969.7757  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.11/711.sce #
+ 
+ b  =
+ 
+    1.5  
+ 
+ d  =
+ 
+    0.8  
+ 
+ Q  =
+ 
+    0.75  
+ 
+ i  =
+ 
+    0.0004  
+ 
+ A  =
+ 
+    1.2  
+ 
+ P  =
+ 
+    3.1  
+ 
+ m  =
+ 
+    0.3870968  
+ 
+ C  =
+ 
+    50.227348  
+ 
+ z  =
+ 
+    1.3277329  
+ 
+ K  =
+ 
+    0.8260769  
+ 
+ 
+ Chezys constant and coefficient of roughness   
+ 
+    50.227348  
+ 
+    0.8260769  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.12/712.sce #
+ 
+ b  =
+ 
+    10.  
+ 
+ d  =
+ 
+    4.  
+ 
+ i  =
+ 
+    0.001  
+ 
+ N  =
+ 
+    0.03  
+ 
+ A  =
+ 
+    40.  
+ 
+ P  =
+ 
+    18.  
+ 
+ m  =
+ 
+    2.2222222  
+ 
+ z1  =
+ 
+    57.883333  
+ 
+ z2  =
+ 
+    1.4940592  
+ 
+ C  =
+ 
+    38.742329  
+ 
+ Q  =
+ 
+    73.053236  
+ 
+ 
+ discharge through the rectangular channel in litres/sec   
+ 
+    73053.236  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.13/713.sce #
+ 
+ b  =
+ 
+    4.  
+ 
+ d  =
+ 
+    1.5  
+ 
+ i  =
+ 
+    0.001  
+ 
+ C  =
+ 
+    55.  
+ 
+ A  =
+ 
+    6.  
+ 
+ P  =
+ 
+    7.  
+ 
+ m  =
+ 
+    0.8571429  
+ 
+ Q  =
+ 
+    9.6614107  
+ 
+ d1  =
+ 
+    1.7320508  
+ 
+ b1  =
+ 
+    3.4641016  
+ 
+ 
+ the new dimension of the channel   
+ 
+    3.4641016  
+ 
+    1.7320508  
+ 
+ P1  =
+ 
+    6.9282032  
+ 
+ m1  =
+ 
+    0.8660254  
+ 
+ Q1  =
+ 
+    9.7113422  
+ 
+ Qf  =
+ 
+    0.0499314  
+ 
+ 
+ increase in discharge in m3/sec   
+ 
+    0.0499314  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.14/714.sce #
+ 
+ i  =
+ 
+    0.0004  
+ 
+ N  =
+ 
+    0.02  
+ 
+ Q  =
+ 
+    14.  
+ 
+ n  =
+ 
+    0.5773503  
+ 
+ a  =
+ 
+    1.7320508  
+ 
+ d  =
+ 
+    2.6036809  
+ 
+ b  =
+ 
+    3.0064717  
+ 
+ 
+ dimension of the channel   
+ 
+    3.0064717  
+ 
+    2.6036809  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.15/715.sce #
+ 
+ Q  =
+ 
+    20.2  
+ 
+ i  =
+ 
+    0.0004  
+ 
+ C  =
+ 
+    60.  
+ 
+ n  =
+ 
+    0.5773503  
+ 
+ a  =
+ 
+    1.7320508  
+ 
+ d  =
+ 
+    2.8526586  
+ 
+ b  =
+ 
+    3.2939664  
+ 
+ 
+ dimension of the cross section in m   
+ 
+    3.2939664  
+ 
+    2.8526586  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.16/716.sce #
+ 
+ Q  =
+ 
+    10.  
+ 
+ V  =
+ 
+    2.  
+ 
+ A  =
+ 
+    5.  
+ 
+ n  =
+ 
+    1.  
+ 
+ d  =
+ 
+    1.653853  
+ 
+ b  =
+ 
+    1.3693903  
+ 
+ A1  =
+ 
+    6.047193  
+ 
+ 
+ area in m2 of lining required for 1m canal lenght   
+ 
+    6.047193  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.17/717.sce #
+ 
+ n  =
+ 
+    1.  
+ 
+ Q  =
+ 
+    14.  
+ 
+ i  =
+ 
+    0.001  
+ 
+ C  =
+ 
+    44.  
+ 
+ a  =
+ 
+    1.828  
+ 
+ d  =
+ 
+    2.2724046  
+ 
+ b  =
+ 
+    1.881551  
+ 
+ cost  =
+ 
+    16.615823  
+ 
+ A  =
+ 
+    9.4394681  
+ 
+ C1  =
+ 
+    70.  
+ 
+ d1  =
+ 
+    1.8872417  
+ 
+ b1  =
+ 
+    1.5626361  
+ 
+ cost1  =
+ 
+    13.799511  
+ 
+ costl  =
+ 
+    6.9005617  
+ 
+ totalcost  =
+ 
+    20.700073  
+ 
+ 
+ lined channel is cheaper ,dimension in m   
+ 
+    1.5626361  
+ 
+    1.8872417  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH7/EX7.18/718.sce #
+ 
+ d  =
+ 
+    1.2  
+ 
+ i  =
+ 
+    0.0006667  
+ 
+ C  =
+ 
+    52.  
+ 
+ z  =
+ 
+    0.9  
+ 
+ z1  =
+ 
+    0.4510268  
+ 
+ x  =
+ 
+    2.6909732  
+ 
+ A  =
+ 
+    1.1098877  
+ 
+ P  =
+ 
+    3.2291678  
+ 
+ m  =
+ 
+    0.3437070  
+ 
+ Q  =
+ 
+    0.8736369  
+ 
+ 
+ the maximium discharge through the channel in litres/sec   
+ 
+    873.6369  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.10/810.sce #
+ 
+ Q  =
+ 
+    0.283  
+ 
+ d  =
+ 
+    0.05  
+ 
+ x  =
+ 
+    170.  
+ 
+ u  =
+ 
+    48.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ a  =
+ 
+    0.0019638  
+ 
+ V1  =
+ 
+    144.11203  
+ 
+ Vw1  =
+ 
+    144.11203  
+ 
+ Vr1  =
+ 
+    96.112031  
+ 
+ x1  =
+ 
+    0.  
+ 
+ Vr2  =
+ 
+    96.112031  
+ 
+ Vw2  =
+ 
+    46.651873  
+ 
+ Fx  =
+ 
+    36004.779  
+ 
+ P  =
+ 
+    1728.2294  
+ 
+ n  =
+ 
+    0.5880909  
+ 
+ 
+ force exerted by the jet,power developed by the vane,efficiency   
+ 
+    36004.779  
+ 
+    1728.2294  
+ 
+    58.809092  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.11/811.sce #
+ 
+ y1  =
+ 
+    30.  
+ 
+ y2  =
+ 
+    15.  
+ 
+ a  =
+ 
+    0.0013  
+ 
+ x1  =
+ 
+    15.  
+ 
+ V1  =
+ 
+    60.  
+ 
+ Vf1  =
+ 
+    15.529143  
+ 
+ Vw1  =
+ 
+    57.95555  
+ 
+ u  =
+ 
+    31.058285  
+ 
+ Vw2  =
+ 
+    1.0582854  
+ 
+ Vf2  =
+ 
+    8.0384758  
+ 
+ V2  =
+ 
+    8.1078395  
+ 
+ x2  =
+ 
+    82.5  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Fx  =
+ 
+    4437.9866  
+ 
+ Fy  =
+ 
+    584.27202  
+ 
+ Fr  =
+ 
+    4476.2818  
+ 
+ o  =
+ 
+    7.5  
+ 
+ 
+ velocity of the vane,direction of velocity at exit,resultant force,angle between forces   
+ 
+    31.058285  
+ 
+    8.1078395  
+ 
+    82.5  
+ 
+    4476.2818  
+ 
+    7.5  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.12/812.sce #
+ 
+ V1  =
+ 
+    13.  
+ 
+ y1  =
+ 
+    30.  
+ 
+ y2  =
+ 
+    30.  
+ 
+ u  =
+ 
+    4.5  
+ 
+ g  =
+ 
+    9.81  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Q  =
+ 
+    0.001  
+ 
+ x1  =
+ 
+    20.048963  
+ 
+ Vw1  =
+ 
+    12.2122  
+ 
+ Vr1  =
+ 
+    8.9052815  
+ 
+ Vw2  =
+ 
+    3.2122  
+ 
+ Vf2  =
+ 
+    4.4526407  
+ 
+ V2  =
+ 
+    5.4903769  
+ 
+ x2  =
+ 
+    54.19277  
+ 
+ W  =
+ 
+    69.4098  
+ 
+ 
+ direction of velocity, velocity of water at exit,direction of work,magnitude of work done per kg of water   
+ 
+    20.048963  
+ 
+    5.4903769  
+ 
+    54.19277  
+ 
+    69.4098  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.13/813.sce #
+ 
+ V1  =
+ 
+    40.  
+ 
+ u  =
+ 
+    12.  
+ 
+ x1  =
+ 
+    20.  
+ 
+ x2  =
+ 
+    90.  
+ 
+ Vw1  =
+ 
+    37.587705  
+ 
+ Vf1  =
+ 
+    13.680806  
+ 
+ y1  =
+ 
+    28.131779  
+ 
+ Vr1  =
+ 
+    29.015428  
+ 
+ Vr2  =
+ 
+    26.113886  
+ 
+ y2  =
+ 
+    62.643498  
+ 
+ W  =
+ 
+    451.05246  
+ 
+ n  =
+ 
+    0.5638156  
+ 
+ 
+ vane angle at the exit,work done on the vane per kg of water,efficiency   
+ 
+    28.131779  
+ 
+    62.643498  
+ 
+    451.05246  
+ 
+    56.381557  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.14/814.sce #
+ 
+ d  =
+ 
+    0.05  
+ 
+ V1  =
+ 
+    25.  
+ 
+ x1  =
+ 
+    30.  
+ 
+ x  =
+ 
+    50.  
+ 
+ x2  =
+ 
+    80.  
+ 
+ g  =
+ 
+    10.  
+ 
+ p1  =
+ 
+    1000.  
+ 
+ a  =
+ 
+    0.0019638  
+ 
+ w  =
+ 
+    10000.  
+ 
+ Fx  =
+ 
+    849.78486  
+ 
+ Fy  =
+ 
+  - 595.02577  
+ 
+ F  =
+ 
+    1037.3958  
+ 
+ z  =
+ 
+    35.  
+ 
+ 
+ resultant force,angle made by the resultant force with the horizontal   
+ 
+  - 595.02577  
+ 
+    849.78486  
+ 
+    35.  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH8/EX8.15/815.sce #
+ 
+ x1  =
+ 
+    0.  
+ 
+ x2  =
+ 
+    60.  
+ 
+ V1  =
+ 
+    30.  
+ 
+ V2  =
+ 
+    25.  
+ 
+ m  =
+ 
+    0.8  
+ 
+ Fx  =
+ 
+    14.  
+ 
+ Fy  =
+ 
+  - 17.320508  
+ 
+ R  =
+ 
+    22.271057  
+ 
+ z  =
+ 
+    51.051724  
+ 
+ 
+ magnitude and direction of resultant force    
+ 
+    22.271057  
+ 
+    51.051724  
+ 
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.10/1010.sce #
+ 
+ Q  =
+ 
+    0.118  
+ 
+ N  =
+ 
+    24.166667  
+ 
+ Hm  =
+ 
+    25.  
+ 
+ d2  =
+ 
+    0.25  
+ 
+ B2  =
+ 
+    0.05  
+ 
+ n  =
+ 
+    0.75  
+ 
+ g  =
+ 
+    9.81  
+ 
+ u2  =
+ 
+    18.982917  
+ 
+ Vf2  =
+ 
+    3.0044558  
+ 
+ Vw2  =
+ 
+    17.226015  
+ 
+ y2  =
+ 
+    59.682377  
+ 
+ 
+ vane angle in degree at the outer nperiphery of the impeller   
+ 
+    59.682377  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.11/1011.sce #
+ 
+ Hm  =
+ 
+    14.5  
+ 
+ N  =
+ 
+    16.666667  
+ 
+ y2  =
+ 
+    30.  
+ 
+ d2  =
+ 
+    0.3  
+ 
+ B2  =
+ 
+    0.05  
+ 
+ g  =
+ 
+    9.81  
+ 
+ n  =
+ 
+    0.95  
+ 
+ u2  =
+ 
+    15.71  
+ 
+ Vw2  =
+ 
+    9.5309726  
+ 
+ Vf2  =
+ 
+    3.5674632  
+ 
+ Q  =
+ 
+    0.1681345  
+ 
+ 
+ discharge of pump in m3/sec if manometric efficiency if 95%   
+ 
+    168.13454  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.12/1012.sce #
+ 
+ d2  =
+ 
+    1.2  
+ 
+ N  =
+ 
+    3.3333333  
+ 
+ Q  =
+ 
+    1.88  
+ 
+ Hm  =
+ 
+    6.  
+ 
+ y2  =
+ 
+    26.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ Vf2  =
+ 
+    2.5  
+ 
+ d1  =
+ 
+    0.6  
+ 
+ u2  =
+ 
+    12.568  
+ 
+ Vw2  =
+ 
+    7.4422404  
+ 
+ n  =
+ 
+    0.6292894  
+ 
+ z1  =
+ 
+    0.0039489  
+ 
+ z2  =
+ 
+    0.0009872  
+ 
+ N1  =
+ 
+    199.36932  
+ 
+ 
+ least speed to start pump,manometric efficiency   
+ 
+    199.36932  
+ 
+    62.928936  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.13/1013.sce #
+ 
+ Q  =
+ 
+    0.125  
+ 
+ Hm  =
+ 
+    25.  
+ 
+ N  =
+ 
+    11.  
+ 
+ d2  =
+ 
+    0.6  
+ 
+ d1  =
+ 
+    0.3  
+ 
+ a  =
+ 
+    0.06  
+ 
+ y2  =
+ 
+    45.  
+ 
+ g  =
+ 
+    9.81  
+ 
+ u2  =
+ 
+    20.7372  
+ 
+ u1  =
+ 
+    10.3686  
+ 
+ Vf2  =
+ 
+    2.0833333  
+ 
+ Vw2  =
+ 
+    18.653867  
+ 
+ n  =
+ 
+    0.6340011  
+ 
+ Vf1  =
+ 
+    2.0833333  
+ 
+ y1  =
+ 
+    11.361002  
+ 
+ 
+ manometric efficiency,vane angle at inlet   
+ 
+    63.400113  
+ 
+    11.361002  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.14/1014.sce #
+ 
+ n  =
+ 
+    3.  
+ 
+ d2  =
+ 
+    0.4  
+ 
+ B2  =
+ 
+    0.02  
+ 
+ y2  =
+ 
+    45.  
+ 
+ da  =
+ 
+    0.1  
+ 
+ nm  =
+ 
+    0.9  
+ 
+ w  =
+ 
+    9810.  
+ 
+ no  =
+ 
+    0.8  
+ 
+ g  =
+ 
+    9.81  
+ 
+ N  =
+ 
+    16.666667  
+ 
+ Q  =
+ 
+    0.05  
+ 
+ Vf2  =
+ 
+    2.2101987  
+ 
+ u2  =
+ 
+    20.946667  
+ 
+ Vw2  =
+ 
+    18.736468  
+ 
+ Hm  =
+ 
+    36.006105  
+ 
+ Ht  =
+ 
+    108.01832  
+ 
+ P  =
+ 
+    52.982984  
+ 
+ Ps  =
+ 
+    66.22873  
+ 
+ 
+ shaft power in Kw   
+ 
+    66.22873  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.15/1015.sce #
+ 
+ n  =
+ 
+    6.  
+ 
+ Q  =
+ 
+    0.12  
+ 
+ p  =
+ 
+    5003100.  
+ 
+ N  =
+ 
+    24.166667  
+ 
+ w  =
+ 
+    9810.  
+ 
+ Ht  =
+ 
+    510.  
+ 
+ h  =
+ 
+    85.  
+ 
+ Ns  =
+ 
+    17.942974  
+ 
+ 
+ radial impeller would be selected   
+ 
+    17.942974  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.16/1016.sce #
+ 
+ sg  =
+ 
+    1.08  
+ 
+ w  =
+ 
+    10594.8  
+ 
+ Q  =
+ 
+    0.3  
+ 
+ H  =
+ 
+    12.  
+ 
+ no  =
+ 
+    0.75  
+ 
+ P  =
+ 
+    50.85504  
+ 
+ p  =
+ 
+    127137.6  
+ 
+ 
+ power in Kw required by the pump,pressure developed by the pump in  N/m2   
+ 
+    50.85504  
+ 
+    127137.6  
+ 
+ 
+grepthis#Fluid_Mechanics_And_Hydraulic_Machines_B._K._Sarkar_2159/CH10/EX10.17/1017.sce #
+ 
+ d1  =
+ 
+    0.3  
+ 
+ N1  =
+ 
+    33.333333  
+ 
+ Q1  =
+ 
+    3.  
+ 
+ Hm1  =
+ 
+    30.  
+ 
+ Q2  =
+ 
+    5.  
+ 
+ N2  =
+ 
+    25.  
+ 
+ Ht  =
+ 
+    200.  
+ 
+ Hm2  =
+ 
+    28.734191  
+ 
+ n  =
+ 
+    6.960349  
+ 
+ d2  =
+ 
+    0.3914703  
+ 
+ 
+ number of stages and diameter of each impeller in cm   
+ 
+    6.960349  
+ 
+    39.147033  
+ 
+ 

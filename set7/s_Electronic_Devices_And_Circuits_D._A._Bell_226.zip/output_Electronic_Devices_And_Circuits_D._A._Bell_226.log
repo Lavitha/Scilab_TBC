@@ -1,0 +1,6575 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 250
+
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ when Id=0   
+ 
+ 
+ Vds  =
+ 
+    22.  
+ 
+ 
+  at point A Id=0 nad Vds=22   
+ 
+ 
+ Id  =
+ 
+    0.011  
+ 
+ 
+  at point B Id=11mA and Vds=0   
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  required capacitance   
+ 
+ 
+ C2  =
+ 
+    0.0000796  
+ 
+ 
+  voltage gain with emitter terminal completely bypassed to ground   
+ 
+ Av  =
+ 
+  - 165.  
+ 
+ 
+ voltage gain  when f=100   
+ 
+ Av  =
+ 
+  - 115.51178  
+ 
+ 
+  voltage gain when C2 is incorrectly selected as Xc2=Re/10   
+ 
+ Avx  =
+ 
+  - 9.7866611  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ when Av=100000   
+ 
+ Acl  =
+ 
+    99.9001  
+ 
+ 
+ when Av is 150000   
+ 
+ 
+ Acl  =
+ 
+    99.933378  
+ 
+ 
+ when Av is 50000   
+ 
+ 
+ Acl  =
+ 
+    99.800399  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ R1  =
+ 
+    120000.  
+ 
+ 
+ I2  =
+ 
+    0.00005  
+ 
+ 
+ R1  =
+ 
+    300000.  
+ 
+ 
+ 
+ R3  =
+ 
+    135000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  phase shift  oscillator   
+ 
+ I1  =
+ 
+    0.00005  
+ 
+ vo  =
+ 
+    9.  
+ 
+ vi  =
+ 
+    0.3103448  
+ 
+ R1  =
+ 
+    6206.8966  
+ 
+ 
+ R2  =
+ 
+    162400.  
+ 
+ 
+ 
+ C  =
+ 
+    1.161D-08  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ when Rl is not connected   
+ 
+ fc  =
+ 
+    1020.7415  
+ 
+ 
+  when Rl is connected   
+ 
+ fc  =
+ 
+    1143.2304  
+ 
+ Attn  =
+ 
+    3.  
+ 
+ falloffrate  =
+ 
+    6.  
+ 
+ 
+ attenuation at 2fc   
+ 
+ 
+attenuation at 2fc is 9dB
+ 
+ 
+ attenuation at 4fc is 15dB
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ source effect is 0.021V
+ 
+ 
+ laod effect is 0.010V
+ 
+ 
+line regulation is 0.175percentage
+ 
+ 
+ load effect is 0.083percentage 
+ 
+ 
+ripple rejection is -40dB
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Q-point   
+ 
+ Vb  =
+ 
+    5.7261905  
+ 
+ Ic  =
+ 
+    0.0050262  
+ 
+ 
+ Vce  =
+ 
+    7.7727619  
+ 
+ rl  =
+ 
+    1564.5714  
+ 
+ rl  =
+ 
+    1604.5714  
+ 
+ 
+ Vce  =
+ 
+    8.0228571  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH1/EX1.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ resultant densities of free electrons and hole   
+ 
+ 
+ 
+    2.500D+14  
+ 
+ 
+ 
+ 
+    2.500D+14  
+ 
+ p  =
+ 
+    900000.  
+ 
+densities of hole is 900000hole/cm3
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vspk  =
+ 
+    35.35  
+ 
+ Ilpk  =
+ 
+    0.932  
+ 
+ 
+  for half wave rectifier sinusodial waveform   
+ 
+ Ilrms  =
+ 
+    0.466  
+ 
+ 
+  switch-off voltage   
+ 
+ es  =
+ 
+    1.825  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH21/EX21.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ea  =
+ 
+    0.2211607  
+ 
+ 
+ total flux is 0.055W
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX1.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ a)   
+ 
+ 
+ 
+ forward resistance   
+ 
+ 
+forward resistnace is 7.5ohm
+ 
+ 
+ b)   
+ 
+ 
+ 
+reverse resistnace is 500000000ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ Vpi   
+ 
+ 
+ peak vouput voltage is 30.41V
+ 
+ 
+peak load current is 0.0608A
+ 
+ 
+diode paek reverse voltage 31.11V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH4/EX4.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+value of Ic is 0.005A
+ 
+ 
+ value of Ie is 0.005A
+ 
+ 
+ 
+    49.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  When Ic=0   
+ 
+ 
+ Vce  =
+ 
+    20.  
+ 
+ 
+  At point A Ic=0 nad Vce=20   
+ 
+ 
+ When Vce=0   
+ 
+ 
+ Ic  =
+ 
+    0.0016667  
+ 
+ 
+  At point B Ic=1.7mA and Vce=0   
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.1/example1_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ with no signal source   
+ 
+ 
+ base bais voltage when no signal source is present 3.75V
+ 
+ 
+  signal source directly connected   
+ 
+ 
+base bais voltage is 0.21V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH11/EX11.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ rd  =
+ 
+    100000.  
+ 
+ 
+input impedance is 848Kohm
+ 
+ 
+ output inpedance is 2629ohm
+ 
+ Av  =
+ 
+  - 7.8870497  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ Vbe  =
+ 
+    0.7  
+ 
+ Rc  =
+ 
+    12000.  
+ 
+ Vrc  =
+ 
+    16.  
+ 
+ Ic  =
+ 
+    0.0013333  
+ 
+ Re  =
+ 
+    3750.  
+ 
+ 
+ R2  =
+ 
+    39000.  
+ 
+ I2  =
+ 
+    0.0001462  
+ 
+ R1  =
+ 
+    125210.53  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ B  =
+ 
+    0.0099010  
+ 
+ Zi  =
+ 
+    991099.01  
+ 
+ 
+input impedance with negative feedback is 21730ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vr2  =
+ 
+    12.  
+ 
+ Vr1  =
+ 
+    6.  
+ 
+ I2  =
+ 
+    0.000012  
+ 
+ R1  =
+ 
+    500000.  
+ 
+ R3  =
+ 
+    0.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH15/EX15.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    222222.22  
+ 
+ 
+ R3  =
+ 
+    180327.87  
+ 
+ 
+ suitable value of capacitor is 5.41pF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ colpitts oscillator   
+ 
+ Ct  =
+ 
+    1.585D-10  
+ 
+ C1  =
+ 
+    1.585D-09  
+ 
+ C2  =
+ 
+    1.761D-10  
+ 
+ 
+ Xc2  =
+ 
+    22116.065  
+ 
+ Xc1  =
+ 
+    2512.  
+ 
+ R1  =
+ 
+    25120.  
+ 
+ 
+ Acl  =
+ 
+    8.804166  
+ 
+ R2  =
+ 
+    237712.48  
+ 
+ 
+ R3  =
+ 
+    24545.455  
+ 
+ f2  =
+ 
+    352166.64  
+ 
+ SR  =
+ 
+    2009600.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    140000.  
+ 
+ 
+ 
+ 
+ capacitor used is of 1137pF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Pi  =
+ 
+    0.065  
+ 
+ Po  =
+ 
+    0.02  
+ 
+ P0  =
+ 
+    0.016  
+ 
+ 
+ maximum efficiency is 24.62 percentage
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH1/EX1.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+drift current is -1500m/s
+ 
+ 
+ drift current of hole   
+ 
+ 
+drift current is 49960000m/s
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vspk  =
+ 
+    42.42  
+ 
+ 
+  at 5 degree   
+ 
+ es  =
+ 
+    3.69054  
+ 
+ 
+  at 90 degree   
+ 
+ es  =
+ 
+    42.42  
+ 
+ Vt  =
+ 
+    1.5  
+ 
+ 
+  to trigger at es=3.7V the R2 moving contact is at the top   
+ 
+ 
+ Vr1  =
+ 
+    2.2  
+ 
+ 
+ R1  =
+ 
+    2200.  
+ 
+ R  =
+ 
+    1500.  
+ 
+ 
+  to trigger at es =42.4 the R2 moving contact at the bottom   
+ 
+ 
+ 
+ I1  =
+ 
+    0.0114595  
+ 
+ R3  =
+ 
+    130.89623  
+ 
+ R2  =
+ 
+    1369.1038  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.1/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+dynamic resistance is 0.37ohm
+ 
+ 
+ a)   
+ 
+ 
+ 
+dynamic resistance is 0.42ohm
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ peak output voltage 41V
+ 
+ 
+ current bridge is 0.137A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH4/EX4.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Bdc  =
+ 
+    40.  
+ 
+ Ie  =
+ 
+    0.001025  
+ 
+ Adc  =
+ 
+    0.9756098  
+ 
+ Ib  =
+ 
+    0.000025  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ when Ic=0   
+ 
+ 
+ Vce  =
+ 
+    18.  
+ 
+ 
+ At point A Ic=0 and Vce=18   
+ 
+ 
+ when Vce=0   
+ 
+ Ic  =
+ 
+    0.0081818  
+ 
+ 
+  at point B Ic=8.2mA and Vce=0   
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.2/example2_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ output power change in decibels is -3dB
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH11/EX11.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ rd  =
+ 
+    100000.  
+ 
+ Rgs  =
+ 
+    1.500D+10  
+ 
+ Zg  =
+ 
+    2.130D+11  
+ 
+ 
+ Zd  =
+ 
+    1423300.  
+ 
+ Zo  =
+ 
+    4684.5308  
+ 
+ Av  =
+ 
+  - 1.1588897  
+ 
+ Av  =
+ 
+  - 1.2466844  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zi  =
+ 
+    56620.  
+ 
+ Zin  =
+ 
+    18641.385  
+ 
+ Zo  =
+ 
+    883.08018  
+ 
+ 
+ circuit output impedance is 720ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vd  =
+ 
+    0.000005  
+ 
+ Zi  =
+ 
+    4.000D+11  
+ 
+ Zo  =
+ 
+    0.0003750  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH15/EX15.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ suitable miller effect capacitor is 66pF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  hartley oscillator   
+ 
+ Vcc  =
+ 
+    9.  
+ 
+ 
+ L2  =
+ 
+    0.0015924  
+ 
+ 
+ L1  =
+ 
+    0.00015  
+ 
+ Lt  =
+ 
+    0.00165  
+ 
+ C1  =
+ 
+    1.537D-09  
+ 
+ 
+ 
+ Xl1  =
+ 
+    94.2  
+ 
+ 
+ Acl  =
+ 
+    10.  
+ 
+ R2  =
+ 
+    10000.  
+ 
+ R3  =
+ 
+    909.09091  
+ 
+ 
+ full power bandwidth    
+ 
+ f2  =
+ 
+    1000000.  
+ 
+ SR  =
+ 
+    5024000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ first order high pass active filter   
+ 
+ 
+ R1  =
+ 
+    31847.134  
+ 
+ 
+ bandwidth is 995000Hz
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  for Vo=11V moving contact at top of R5   
+ 
+ 
+ R3  =
+ 
+    1200.  
+ 
+ R  =
+ 
+    9800.  
+ 
+ 
+  for Vo=13V moving contact at bottom of R5   
+ 
+ 
+ I4  =
+ 
+    0.0011818  
+ 
+ R4  =
+ 
+    8292.3077  
+ 
+ R5  =
+ 
+    1507.6923  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH1/EX1.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ a)   
+ 
+ 
+ 
+ 
+mobility is 4.80micro/ohmcm
+ 
+ 
+ resistance is 20.83Mohm
+ 
+ 
+ b)   
+ 
+ 
+ 
+ p  =
+ 
+    2812500.  
+ 
+ 
+mobility is 0.0192/ohmcm
+ 
+ 
+ resistance is 5208ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  with R2 contact at center   
+ 
+ Vak  =
+ 
+    6.5862069  
+ 
+ 
+  with R2 contact at zero   
+ 
+ Vak  =
+ 
+    47.75  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH21/EX21.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R2  =
+ 
+    720.  
+ 
+ 
+ Ic  =
+ 
+    0.0105882  
+ 
+ Ib  =
+ 
+    0.0001059  
+ 
+ Rb  =
+ 
+    59500.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ diode current is E=If*R1+Vf   
+ 
+ 
+ diode current is 3.04mA
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ 
+ 
+peak to peak ripple voltage is 3.43V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH4/EX4.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ 
+dc collector voltage is 6V
+ 
+ 
+  when vi=50mV   
+ 
+ 
+ Ic  =
+ 
+    0.00024  
+ 
+ Vo  =
+ 
+    2.4  
+ 
+ Av  =
+ 
+    48.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Ib  =
+ 
+    0.0000368  
+ 
+ Ic  =
+ 
+    0.0036809  
+ 
+ Vce  =
+ 
+    9.9021277  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ from current characteristic at Vce=4.5V and Ib=40uA   
+ 
+ 
+ 
+ the value of hFE is 133
+ 
+ 
+ from output characteristic at Vce=4.5 and Ib=40uA   
+ 
+ 
+ 
+tye value of hoe is 66666.67uS
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.3/example3_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ output power change is -3dB
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Id  =
+ 
+    0.0030422  
+ 
+ 
+ Idmin  =
+ 
+    0.0002178  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH11/EX11.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zg  =
+ 
+    1.245D+09  
+ 
+ Zi  =
+ 
+    600000.  
+ 
+ Zs  =
+ 
+    331.12583  
+ 
+ Zo  =
+ 
+    306.56934  
+ 
+ Av  =
+ 
+  - 0.9197080  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ B  =
+ 
+    0.0133983  
+ 
+ 
+ voltage gain   
+ 
+ Acl  =
+ 
+    74.540442  
+ 
+ Zi  =
+ 
+    778101.1  
+ 
+ Zin  =
+ 
+    28361.12  
+ 
+ Zo  =
+ 
+    109.2403  
+ 
+ Zout  =
+ 
+    108.25482  
+ 
+output impedance is 108ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    140000.  
+ 
+ 
+ 
+ 
+  desire value of capacitor is C=1/2*3.14*f*R   
+ 
+ C2  =
+ 
+    0.0000006  
+ 
+ C1  =
+ 
+    0.0000002  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  design of wein bridge oscillator   
+ 
+ Vcc  =
+ 
+    10.  
+ 
+ 
+ 
+ R1  =
+ 
+    1592.3567  
+ 
+ 
+ 
+ 
+ 
+  minimum full power bandwidth   
+ 
+ f2  =
+ 
+    300000.  
+ 
+ SR  =
+ 
+    5652000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ butterworth second order filter   
+ 
+ R  =
+ 
+    140000.  
+ 
+ R1  =
+ 
+    70000.  
+ 
+ 
+ 
+ R3  =
+ 
+    136200.  
+ 
+ Xc1  =
+ 
+    96307.944  
+ 
+ C1  =
+ 
+    1.653D-09  
+ 
+ C2  =
+ 
+    3.307D-09  
+ 
+ 
+actual cutoff frequency is 1000Hz
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ib1  =
+ 
+    0.0105  
+ 
+ Ib3  =
+ 
+    0.00021  
+ 
+ R1  =
+ 
+    6.5986143  
+ 
+ 
+ select I6=.5*10^-3   
+ 
+ 
+ R6  =
+ 
+    25400.  
+ 
+ Pd  =
+ 
+    1.68  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  Referred laod   
+ 
+ rl  =
+ 
+    576.  
+ 
+ 
+  tatol ac load line in series with each of Q2 and Q3   
+ 
+ Rl  =
+ 
+    632.  
+ 
+ 
+  peak primary current   
+ 
+ Ip  =
+ 
+    0.0419304  
+ 
+ 
+ peak primary voltage   
+ 
+ Vp  =
+ 
+    24.151899  
+ 
+ 
+ power delivered to primary   
+ 
+ Po  =
+ 
+    0.5063491  
+ 
+ 
+  power delivered  to the load   
+ 
+ Po  =
+ 
+    0.4000158  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH1/EX1.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ I0  =
+ 
+    30.  
+ 
+ 
+ I0(35)=I0*2^(T2-T1)/10   
+ 
+ 
+ 
+current at 35c is 60nA
+ 
+ 
+ I0(45)=I0*2^(T3-T1)/10   
+ 
+ 
+ 
+current at 45c is 120nA
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vz  =
+ 
+    6.2  
+ 
+ 
+  for D1, select a 1N753 with Vz=6.2   
+ 
+ 
+ R1  =
+ 
+    800.  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH21/EX21.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ N  =
+ 
+    23.  
+ 
+ It  =
+ 
+    0.23  
+ 
+ P  =
+ 
+    1.15  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vr  =
+ 
+    2.  
+ 
+ Il  =
+ 
+    0.04  
+ 
+ 
+ t1  =
+ 
+    0.0166667  
+ 
+ 
+reservior capacitance is 333uF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH4/EX4.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ic  =
+ 
+    0.0010213  
+ 
+ Ib  =
+ 
+    0.0001083  
+ 
+ hFE  =
+ 
+    9.4271686  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ hfc  =
+ 
+    134.  
+ 
+ hob  =
+ 
+    0.0000002  
+ 
+ A  =
+ 
+    0.9925373  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.4/example4_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Av  =
+ 
+    291.48301  
+ 
+ 
+ 
+ input capacitance when the circuit operated as CE is 1.487nF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH11/EX11.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zs  =
+ 
+    333.33333  
+ 
+ Zi  =
+ 
+    302.75229  
+ 
+ Zd  =
+ 
+    50000.  
+ 
+ Zo  =
+ 
+    4296.1609  
+ 
+ Av  =
+ 
+    12.888483  
+ 
+ 
+ overall volateg gain   
+ 
+ Av  =
+ 
+    4.322357  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.4/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Xc2  =
+ 
+    166.66667  
+ 
+ C2  =
+ 
+    0.0000096  
+ 
+ Zi  =
+ 
+    824561.4  
+ 
+ C1  =
+ 
+    1.930D-08  
+ 
+ C3  =
+ 
+    0.0000001  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Xc2  =
+ 
+    166.66667  
+ 
+ C2  =
+ 
+    0.0000096  
+ 
+ Zi  =
+ 
+    824561.4  
+ 
+ C1  =
+ 
+    1.930D-08  
+ 
+ C3  =
+ 
+    0.0000001  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rf1  =
+ 
+    16280.  
+ 
+ 
+ C2  =
+ 
+    0.0000072  
+ 
+ 
+ Cf1  =
+ 
+    0.0000098  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ R3  =
+ 
+    1000.  
+ 
+ R2  =
+ 
+    39000.  
+ 
+ R1  =
+ 
+    975.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH15/EX15.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  for Cf=30pF   
+ 
+ 
+ F2  =
+ 
+    8000.  
+ 
+ 
+  for Cf=3pF   
+ 
+ 
+ f2  =
+ 
+    80000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ phase shift oscillator   
+ 
+ R1  =
+ 
+    172.41379  
+ 
+ 
+ R2  =
+ 
+    4350.  
+ 
+ R4  =
+ 
+    1400.  
+ 
+ 
+ R5  =
+ 
+    2850.  
+ 
+ R6  =
+ 
+    1140.  
+ 
+ R7  =
+ 
+    2280.  
+ 
+ 
+ C  =
+ 
+    8.668D-08  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ butterworth second order filter   
+ 
+ 
+ R2  =
+ 
+    18766.104  
+ 
+ R1  =
+ 
+    9383.0518  
+ 
+ 
+ 
+actual cutoff frequency is 11999Hz
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ P0  =
+ 
+    5.  
+ 
+ rl  =
+ 
+    90.  
+ 
+ rl  =
+ 
+    360.  
+ 
+ 
+ transformer specification Po=4 ,Rl=16 rl=360   
+ 
+ Vce  =
+ 
+    60.  
+ 
+ Ip  =
+ 
+    0.3333333  
+ 
+ Pi  =
+ 
+    6.36  
+ 
+ Pt  =
+ 
+    0.68  
+ 
+ 
+  transistor specification is Py=.68W  Vce=60 Ip=333mA   
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH1/EX1.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ junction current   
+ 
+ Id  =
+ 
+    19.228282  
+ 
+ forward bais current is 19mA
+ 
+ 
+ b)   
+ 
+ Vd  =
+ 
+  - 10.  
+ 
+ 
+ Id  =
+ 
+  - 30.  
+ 
+ forward bais current is -30nA
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vc1  =
+ 
+    8.8  
+ 
+ 
+ Vac  =
+ 
+    162.61  
+ 
+ E  =
+ 
+    103.41996  
+ 
+ 
+ Ic  =
+ 
+    0.0037336  
+ 
+ 
+ t  =
+ 
+    0.0070710  
+ 
+ T  =
+ 
+    0.0166667  
+ 
+ q  =
+ 
+    152.73307  
+ 
+ 
+  concudtion angle   
+ 
+ a  =
+ 
+    27.26693  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH21/EX21.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    2000.  
+ 
+ 
+ 
+  when dark Rc=100Kohm   
+ 
+ 
+ I  =
+ 
+    0.0002947  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ a)   
+ 
+ 
+ forward current is 0.080mA
+ 
+ 
+ b)   
+ 
+ 
+ forward current is 0.078mA
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+10percent of Eo is 2V
+ 
+ Eomin  =
+ 
+    19.  
+ 
+ Eomax  =
+ 
+    21.  
+ 
+ 
+ Q1  =
+ 
+    65.  
+ 
+ Q2  =
+ 
+    25.  
+ 
+ 
+ 
+ charging time is 0.0012s
+ 
+ t1  =
+ 
+    0.0155093  
+ 
+discharging time is 0.0155s
+ 
+ 
+reservior capacitance is 310uF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Ib  =
+ 
+    0.0000351  
+ 
+ Ic  =
+ 
+    0.0035148  
+ 
+ Vce  =
+ 
+    10.190045  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ re  =
+ 
+    26.  
+ 
+ hfe  =
+ 
+    50.  
+ 
+ hie  =
+ 
+    1326.  
+ 
+ r  =
+ 
+    1326.  
+ 
+ B  =
+ 
+    50.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.5/example5_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+  common emitter circuit   
+ 
+ 
+ Zi  =
+ 
+    1249.2077  
+ 
+ 
+ 
+input-capacitance upper cutoff frequency is 265447Hz
+ 
+ 
+ common base circuit   
+ 
+ Zi  =
+ 
+    24.37295  
+ 
+ Cin  =
+ 
+    2.940D-11  
+ 
+ 
+ input capacitance upper cutoff when operating as CB circuit with base bypassed to ground is 231MHz
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH11/EX11.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  CS circuit   
+ 
+ Av  =
+ 
+  - 14.97479  
+ 
+ Zi  =
+ 
+    31972.789  
+ 
+ vi  =
+ 
+    0.0490790  
+ 
+ vo  =
+ 
+  - 0.7349475  
+ 
+ 
+ CG circuit   
+ 
+ Av  =
+ 
+    14.97479  
+ 
+ Zi  =
+ 
+    156.97674  
+ 
+ vi  =
+ 
+    0.0103687  
+ 
+ vo  =
+ 
+    0.1552686  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rf1  =
+ 
+    65780.  
+ 
+ 
+ C2  =
+ 
+    0.0000072  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ B  =
+ 
+    0.025  
+ 
+ Zi  =
+ 
+    1.000D+10  
+ 
+ typical input impedance for non-inverting amplifier is 1412065408ohm
+ 
+ Zo  =
+ 
+    0.0149970  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH15/EX15.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  for the AD843   
+ 
+ Vop  =
+ 
+    9.2978723  
+ 
+ 
+full power bandwidth is 4281508Hz
+ 
+ 
+  for a 741   
+ 
+ 
+ 
+ maximum peak output voltage is 0.80V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ wien bridge ocillator   
+ 
+ 
+ R3  =
+ 
+    579.31034  
+ 
+ 
+ R6  =
+ 
+    5000.  
+ 
+ R5  =
+ 
+    21500.  
+ 
+ 
+  C4 discharge voltage    
+ 
+ Vc  =
+ 
+    0.1  
+ 
+ 
+ C4 discharge time   
+ 
+ T  =
+ 
+    0.00001  
+ 
+ 
+ C4  =
+ 
+    2.000D-08  
+ 
+ Xc3  =
+ 
+    60.  
+ 
+ C3  =
+ 
+    2.654D-08  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  third order low pass filter   
+ 
+ 
+ -20 dB per decade stage   
+ 
+ 
+ R1  =
+ 
+    3450.1062  
+ 
+ 
+ 
+ -40dB per decade stage   
+ 
+ 
+ C2  =
+ 
+    2.000D-09  
+ 
+ fc2  =
+ 
+    37500.  
+ 
+ R4  =
+ 
+    3002.5766  
+ 
+ 
+ R5  =
+ 
+    6005.1531  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vr9  =
+ 
+    6.8  
+ 
+ Vz2  =
+ 
+    7.5  
+ 
+ 
+ R8  =
+ 
+    2200.  
+ 
+ Ir9  =
+ 
+    0.002  
+ 
+ R9  =
+ 
+    3400.  
+ 
+ 
+  Iz2>>Ib5 and Iz2>(Izk for the zener diode)   
+ 
+ 
+ R7  =
+ 
+    450.  
+ 
+ 
+ 
+ 
+  when Vo=11V(moving contact at top of R5)   
+ 
+ 
+ R3  =
+ 
+    3500.  
+ 
+ 
+ I4  =
+ 
+    0.0010606  
+ 
+ R  =
+ 
+    7071.4286  
+ 
+ 
+  when Vo=13V(moving contact at bottom of R5)   
+ 
+ 
+ I4  =
+ 
+    0.0012534  
+ 
+ R4  =
+ 
+    5983.5165  
+ 
+ R5  =
+ 
+    1087.9121  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vp  =
+ 
+    10.  
+ 
+ Ip  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ Icq  =
+ 
+    0.02  
+ 
+ Vb  =
+ 
+    1.6  
+ 
+ 
+ Ib2  =
+ 
+    0.004  
+ 
+ Irc  =
+ 
+    0.005  
+ 
+ Rc  =
+ 
+    800.  
+ 
+ 
+ Vcc  =
+ 
+    31.4  
+ 
+ 
+ Vrcdc  =
+ 
+    15.2  
+ 
+ Ic1  =
+ 
+    0.0223529  
+ 
+ Rb  =
+ 
+    8.9473684  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1max  =
+ 
+    40000.  
+ 
+ R1min  =
+ 
+    18866.667  
+ 
+ 
+ capacitor charging time is 0.0047s
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH21/EX21.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ when cell is dark Rc=100Kohm   
+ 
+ 
+ Vrc  =
+ 
+    6.7  
+ 
+ Irc  =
+ 
+    0.000067  
+ 
+ Ir1  =
+ 
+    0.000267  
+ 
+ Vr1  =
+ 
+    5.3  
+ 
+ R1  =
+ 
+    19850.187  
+ 
+ 
+ 
+  when Q1 is off   
+ 
+ 
+ Ir1  =
+ 
+    0.0003333  
+ 
+ Rc  =
+ 
+    18000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ E  =
+ 
+    5.  
+ 
+ 
+ E   
+ 
+ 
+ B)   
+ 
+ 
+ 
+resistance is 50mA
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Vp  =
+ 
+    21.7  
+ 
+ Vr  =
+ 
+    43.4  
+ 
+ 
+ 
+ 
+ Rs  =
+ 
+    0.7233333  
+ 
+ surge limiting resistance is 0.72ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH4/EX4.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ib  =
+ 
+    0.00002  
+ 
+ Ic  =
+ 
+    0.0025  
+ 
+ Bdc  =
+ 
+    125.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  input impedance Zi=R1||R2||hie   
+ 
+ 
+ input impedance is 63416.34Kohm
+ 
+ 
+ output impedance is Zo=Rc||(1/hoe)   
+ 
+ 
+ output impadance is 3.8848493.2fKohm
+ 
+ 
+ voltage gain is -132
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.6/example6_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ fae  =
+ 
+    1000000.  
+ 
+ 
+capacitance required for C4 to give 60kHz upper cutoff frequency is 265pF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vgs  =
+ 
+  - 2.3257654  
+ 
+ Rd  =
+ 
+    5000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH11/EX11.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Cgs  =
+ 
+    4.000D-12  
+ 
+ Av  =
+ 
+    9.4850949  
+ 
+ Cin  =
+ 
+    1.449D-11  
+ 
+ Zi  =
+ 
+    767441.86  
+ 
+ f2  =
+ 
+    18336108.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zi  =
+ 
+    1872.7491  
+ 
+ Zi2  =
+ 
+    1872.7491  
+ 
+ Av1  =
+ 
+  - 80.996885  
+ 
+ Av2  =
+ 
+  - 545.45455  
+ 
+ Av  =
+ 
+    44180.119  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ different resistor value of circuit   
+ 
+ R1  =
+ 
+    7000.  
+ 
+ R3  =
+ 
+    4650.  
+ 
+ Vr2  =
+ 
+    7.7  
+ 
+ R4  =
+ 
+    7700.  
+ 
+ 
+ R7  =
+ 
+    3500.  
+ 
+ R8  =
+ 
+    10000.  
+ 
+ 
+ R5  =
+ 
+    217600.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ voltage gain    
+ 
+ Acl  =
+ 
+    23.727273  
+ 
+ 
+ lower cuttoff frequency    
+ 
+ f  =
+ 
+    32.364973  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH15/EX15.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  stray capacitance   
+ 
+ Cs  =
+ 
+    1.443D-11  
+ 
+ 
+ compensation capacitor   
+ 
+ 
+compensation capacitor is 2.31pF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ square wave generator   
+ 
+ Vcc  =
+ 
+    15.  
+ 
+ 
+ 
+ R3  =
+ 
+    10000.  
+ 
+ R2  =
+ 
+    270000.  
+ 
+ t  =
+ 
+    0.0005  
+ 
+ V  =
+ 
+    1.  
+ 
+ 
+ I1  =
+ 
+    0.0002  
+ 
+ R1  =
+ 
+    70000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 3rd order high pass filter   
+ 
+ 
+ -20dB per decade stage   
+ 
+ 
+ fc1  =
+ 
+    13000.  
+ 
+ C1  =
+ 
+    1.012D-10  
+ 
+ 
+ 
+ R1  =
+ 
+    79617.834  
+ 
+ 
+ 
+ -40dB per decade stage   
+ 
+ 
+ R4  =
+ 
+    14074.578  
+ 
+ 
+ R3  =
+ 
+    7037.2888  
+ 
+ R5  =
+ 
+    14074.578  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R10  =
+ 
+    5.  
+ 
+ 
+ 
+ Vr10  =
+ 
+    0.94  
+ 
+ Vr11  =
+ 
+    0.44  
+ 
+ 
+ R11  =
+ 
+    440.  
+ 
+ R12  =
+ 
+    12500.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ic  =
+ 
+    0.22  
+ 
+ Pi  =
+ 
+    2.24  
+ 
+ Pt  =
+ 
+    0.62  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Pd  =
+ 
+    0.18  
+ 
+ 
+ maximum Vb1b1 that should be used at a temp 100 is 26.8V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Vrms voltage is 15.342V
+ 
+ 
+ rms current is 0.144A
+ 
+ 
+primary current is 0.019A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Vb  =
+ 
+    4.8  
+ 
+ Ve  =
+ 
+    4.1  
+ 
+ Ie  =
+ 
+    0.0041  
+ 
+ 
+ Vc  =
+ 
+    13.08  
+ 
+ Vce  =
+ 
+    8.98  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.7/example7_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ re  =
+ 
+    17.333333  
+ 
+ 
+ voltage gain is -250
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rs  =
+ 
+    766.66667  
+ 
+ Rd  =
+ 
+    4233.3333  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vb2  =
+ 
+    8.  
+ 
+ 
+ Ve2  =
+ 
+    7.3  
+ 
+ Vr5  =
+ 
+    3.7  
+ 
+ R5  =
+ 
+    4000.  
+ 
+ 
+ Ic2  =
+ 
+    0.0009487  
+ 
+ R6  =
+ 
+    7694.5946  
+ 
+ 
+ Ic2  =
+ 
+    0.0008902  
+ 
+ Vr3  =
+ 
+    6.  
+ 
+ 
+  Ic1>>Ib2,select Ic1=1mA   
+ 
+ 
+ R3  =
+ 
+    6000.  
+ 
+ 
+ Ic1  =
+ 
+    0.0010714  
+ 
+ R4  =
+ 
+    4666.6667  
+ 
+ Vr2  =
+ 
+    5.7  
+ 
+ Vr1  =
+ 
+    8.3  
+ 
+ R2  =
+ 
+    46666.667  
+ 
+ I2  =
+ 
+    0.0001221  
+ 
+ R1  =
+ 
+    67953.216  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ B  =
+ 
+    0.0299824  
+ 
+ Acl  =
+ 
+    33.308504  
+ 
+ Zi  =
+ 
+    3002236.3  
+ 
+ Zin  =
+ 
+    6784.633  
+ 
+ Zo  =
+ 
+    133.23401  
+ 
+ 
+output impedance is 131ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ I1  =
+ 
+    0.00005  
+ 
+ R1  =
+ 
+    400.  
+ 
+ 
+ R2  =
+ 
+    56160.  
+ 
+ R3  =
+ 
+    387.31034  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH15/EX15.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ load capacitance is 318.47pF
+ 
+ 
+ 
+ compensation capacitance is 499pF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ t1  =
+ 
+    0.0016978  
+ 
+ t2  =
+ 
+    0.0009355  
+ 
+ T  =
+ 
+    0.0026334  
+ 
+ f  =
+ 
+    379.73722  
+ 
+ Ic1  =
+ 
+    0.0010204  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  single stage band pass filter   
+ 
+ 
+ R2  =
+ 
+    5307.8556  
+ 
+ 
+ 
+ C1  =
+ 
+    1.000D-07  
+ 
+ R3  =
+ 
+    5307.8556  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vz  =
+ 
+    9.  
+ 
+ 
+ 
+ R1  =
+ 
+    290.  
+ 
+ 
+ 
+  when V0=12V(moving contact at top of R5)   
+ 
+ R3  =
+ 
+    2900.  
+ 
+ R  =
+ 
+    9100.  
+ 
+ 
+  when Vo=15V moving contact at bottom of R5   
+ 
+ 
+ I3  =
+ 
+    0.00125  
+ 
+ R4  =
+ 
+    7280.  
+ 
+ R5  =
+ 
+    1820.  
+ 
+ 
+ R6  =
+ 
+    30000.  
+ 
+ 
+  op-amp output current   
+ 
+ Ib2  =
+ 
+    0.00025  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ce  =
+ 
+    0.0015924  
+ 
+ Co  =
+ 
+    0.0006369  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vpmax  =
+ 
+    22.2  
+ 
+ Vpmin  =
+ 
+    19.2  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ Vf1   
+ 
+ E  =
+ 
+    6.1  
+ 
+ new supply voltage is 6.1V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ t1  =
+ 
+    0.00719  
+ 
+ 
+ resrvior capacitor is 0.000144F
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zb  =
+ 
+    359300.  
+ 
+ 
+  input impedance is Zi=R1||R2||Zb   
+ 
+ 
+ input circuit resistance is 2830983654.045Kohm
+ 
+ Zo  =
+ 
+    3900.  
+ 
+ 
+ 
+voltage gain is -0.777
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.8/example8_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ suitable speed up capacitor is 166pF
+ 
+ 
+ 
+ 
+ 
+maximum signal frequency is 235849Hz
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R  =
+ 
+    5000.  
+ 
+ Rd  =
+ 
+    2500.  
+ 
+ Rs  =
+ 
+    2500.  
+ 
+ Vgs  =
+ 
+    7.5  
+ 
+ Vgs  =
+ 
+  - 2.3257654  
+ 
+ Vs  =
+ 
+    7.5  
+ 
+ Vg  =
+ 
+    5.1742346  
+ 
+ R1  =
+ 
+    3831632.5  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ hie  =
+ 
+    1326.  
+ 
+ Zi  =
+ 
+    1265.6141  
+ 
+ Xc1  =
+ 
+    186.56141  
+ 
+ C1  =
+ 
+    0.0000114  
+ 
+ Xc2  =
+ 
+    16.9  
+ 
+ 
+ C2  =
+ 
+    0.0001256  
+ 
+ 
+ Xc4  =
+ 
+    4390.  
+ 
+ C4  =
+ 
+    0.0000005  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ze  =
+ 
+    120.  
+ 
+ Zo  =
+ 
+    0.1601061  
+ 
+ 
+output impedance is 0.16ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    333333.33  
+ 
+ 
+ 
+ I1  =
+ 
+    0.0000030  
+ 
+ 
+ I4  =
+ 
+    0.0000091  
+ 
+ Vo  =
+ 
+  - 9.0909091  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ fo  =
+ 
+    3000.  
+ 
+ BW  =
+ 
+    29700.  
+ 
+ Q  =
+ 
+    0.1010101  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R2  =
+ 
+    7150.  
+ 
+ 
+ I2  =
+ 
+    0.0010515  
+ 
+ R1  =
+ 
+    2710.4895  
+ 
+ Vs  =
+ 
+    15.  
+ 
+ 
+ Pi  =
+ 
+    0.375  
+ 
+ 
+ maximum power dissipated in series pass transistor   
+ 
+ Pd  =
+ 
+    0.625  
+ 
+ 
+ maximum load current is    
+ 
+ Il  =
+ 
+    0.125  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH20/EX20.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vpmin  =
+ 
+    4666666.7  
+ 
+ Remax  =
+ 
+    11250.  
+ 
+ t  =
+ 
+    0.0270734  
+ 
+ f  =
+ 
+    36.936633  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ 
+ If   
+ 
+ 
+ 
+ P2  =
+ 
+    0.5  
+ 
+ 
+maximum forward current at 65C is 0.714A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ t1  =
+ 
+    0.00835  
+ 
+ 
+ reservior capacitance is 0.000167F
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  Rl is not connected   
+ 
+ hic  =
+ 
+    2100.  
+ 
+ hfc  =
+ 
+    76.  
+ 
+ Zb  =
+ 
+    359300.  
+ 
+ Zi  =
+ 
+    94727129.  
+ 
+ Ze  =
+ 
+    62684.273  
+ 
+ Z0  =
+ 
+    4372.1787  
+ 
+ 
+  when Rl is connected   
+ 
+ Zb  =
+ 
+    258770.66  
+ 
+ Zi  =
+ 
+    92825644.  
+ 
+ hib  =
+ 
+    27.631579  
+ 
+ Av  =
+ 
+    0.9918847  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.9/example9_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ T  =
+ 
+    298.  
+ 
+ 
+ en  =
+ 
+    0.0000026  
+ 
+ eni  =
+ 
+    0.0000006  
+ 
+ 
+noise output voltage is 353uV
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Av1  =
+ 
+  - 40.57971  
+ 
+ Av2  =
+ 
+  - 136.67426  
+ 
+ 
+  overall voltage gain is Av=Av1*Av2   
+ 
+ Av  =
+ 
+    5546.2018  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ Re1  =
+ 
+    150.  
+ 
+ 
+  voltage gain at extreme value    
+ 
+ Avmax  =
+ 
+    66.978302  
+ 
+ Avmin  =
+ 
+    63.60986  
+ 
+ 
+ approximate voltage gain   
+ 
+ Av  =
+ 
+    72.727273  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ I1  =
+ 
+    0.00005  
+ 
+ R1  =
+ 
+    20000.  
+ 
+ 
+ R2  =
+ 
+    180000.  
+ 
+ R4  =
+ 
+    18000.  
+ 
+ R3  =
+ 
+    1800.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ design the triangular wave   
+ 
+ Vi  =
+ 
+    8.  
+ 
+ V  =
+ 
+    6.  
+ 
+ 
+  I1>>Ibmax for op-amp   
+ 
+ R1  =
+ 
+    8000.  
+ 
+ t  =
+ 
+    0.001  
+ 
+ C1  =
+ 
+    0.0000002  
+ 
+ 
+ schmitt design   
+ 
+ 
+ R2  =
+ 
+    3000.  
+ 
+ R3  =
+ 
+    8000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Q  =
+ 
+    5.0456593  
+ 
+ 
+ center frequency is 1106.68Hz
+ 
+ 
+ bandwidth is 219.3Hz
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    1250.  
+ 
+ R2  =
+ 
+    4750.  
+ 
+ 
+regulated power dissipation is 1.80W
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vbmin  =
+ 
+    2.7  
+ 
+ Vbmax  =
+ 
+    3.7  
+ 
+ I10  =
+ 
+    0.0005  
+ 
+ R10  =
+ 
+    5000.  
+ 
+ 
+ 
+  for Vce=3.7   
+ 
+ 
+ I10max  =
+ 
+    0.0006383  
+ 
+ 
+ Vce=2.7V   
+ 
+ 
+ I10min  =
+ 
+    0.0004255  
+ 
+ R  =
+ 
+    1645.  
+ 
+ R11  =
+ 
+    1096.6667  
+ 
+ R12  =
+ 
+    548.33333  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ voltage at 100C is 0.565V
+ 
+ 
+ At 25C   
+ 
+ 
+ 
+ resistance at 25 C is 1ohm
+ 
+ 
+  At 100C   
+ 
+ 
+ 
+ resistance at 100 C is 1.25ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vp  =
+ 
+    22.4  
+ 
+ Vr  =
+ 
+    22.4  
+ 
+ If  =
+ 
+    0.02  
+ 
+ Ifrm  =
+ 
+    0.2879310  
+ 
+ 
+ Rs  =
+ 
+    0.7466667  
+ 
+surge limiting resistance is 0.747ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ hib  =
+ 
+    27.631579  
+ 
+ hfb  =
+ 
+    0.9868421  
+ 
+ 
+input impedance is 27.47ohm
+ 
+ 
+ output impedance is 3900.00ohm
+ 
+ 
+ voltage gain is 132.96
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.10/example10_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ 
+total noise output volateg for amplifier is 560uV
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ve  =
+ 
+    19.3  
+ 
+ Re  =
+ 
+    6433.3333  
+ 
+ 
+ 
+ 
+ Vgs  =
+ 
+  - 4.6305874  
+ 
+ Vs  =
+ 
+    4.6305874  
+ 
+ Vrd  =
+ 
+    6.3694126  
+ 
+ Rd  =
+ 
+    2244.1454  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zb  =
+ 
+    17150.  
+ 
+ Zin  =
+ 
+    10836.185  
+ 
+ C1  =
+ 
+    0.0000014  
+ 
+ C2  =
+ 
+    0.0000106  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Acl  =
+ 
+    221.  
+ 
+ 
+ at junction of R1 and R2   
+ 
+ Vb  =
+ 
+    1.01  
+ 
+ 
+ at junction of R2 and R3   
+ 
+ Vc  =
+ 
+    0.99  
+ 
+ 
+  current through R2   
+ 
+ I2  =
+ 
+    0.0000667  
+ 
+ 
+ at the output of A1   
+ 
+ Va  =
+ 
+    3.21  
+ 
+ 
+ at output of A2   
+ 
+ Vd  =
+ 
+  - 1.21  
+ 
+ 
+ at junction of R6 and R7   
+ 
+ Vf  =
+ 
+  - 0.605  
+ 
+ 
+ at junction of R4 and R5   
+ 
+ Ve  =
+ 
+  - 0.605  
+ 
+ 
+ current through R4   
+ 
+ I4  =
+ 
+    0.0002543  
+ 
+ 
+ at output of A3   
+ 
+ Vg  =
+ 
+  - 4.42  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH16/EX16.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    3000.  
+ 
+ 
+ R2  =
+ 
+    4200.  
+ 
+ C1  =
+ 
+    3.791D-10  
+ 
+ 
+ R3  =
+ 
+    8400.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Po  =
+ 
+    10.  
+ 
+ 
+  linear regulator   
+ 
+ Pi  =
+ 
+    17.  
+ 
+ n  =
+ 
+    58.823529  
+ 
+ 
+  switching regulator   
+ 
+ 
+ Pi  =
+ 
+    12.  
+ 
+ n  =
+ 
+    83.333333  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vp  =
+ 
+    13.856406  
+ 
+ 
+ 
+ 
+ 
+ Vcc  =
+ 
+    19.942047  
+ 
+ 
+ Ip  =
+ 
+    0.8660254  
+ 
+ 
+  DC power inpit from supply line   
+ 
+ Pi  =
+ 
+    12.089224  
+ 
+ 
+  output  transistor specification   
+ 
+ Pt  =
+ 
+    3.0446118  
+ 
+ Vce  =
+ 
+    39.884094  
+ 
+ Ic  =
+ 
+    0.9526279  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ diffusion capacitance is 1nF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vs  =
+ 
+    15.8368  
+ 
+ Is  =
+ 
+    0.064  
+ 
+ 
+ supply current is 0.009A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Ze  =
+ 
+    426.82581  
+ 
+ Zi  =
+ 
+    391.2911  
+ 
+ Av  =
+ 
+    8.6089816  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.11/example11_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Pdt2  =
+ 
+    0.475  
+ 
+ 
+ 
+ maximum Ic level is 0.04750A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ when Id=0, Vgs=Vs=0   
+ 
+ 
+ 
+  at point A universal transfer characteristic Id/Idss and Vgs/Vgsoff=0   
+ 
+ 
+ Vgs  =
+ 
+    4.95  
+ 
+ 
+ 
+ 
+  point B the universal transfer charecteristic x=.825 and y=.3   
+ 
+ Id  =
+ 
+    0.001  
+ 
+ Vds  =
+ 
+    13.4  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ re  =
+ 
+    26.  
+ 
+ hie  =
+ 
+    1326.  
+ 
+ Zi  =
+ 
+    1275.9045  
+ 
+ Xc1  =
+ 
+    187.59045  
+ 
+ C1  =
+ 
+    0.0000057  
+ 
+ Xc2  =
+ 
+    16.9  
+ 
+ C2  =
+ 
+    0.0000628  
+ 
+ re2  =
+ 
+    13.  
+ 
+ Zo  =
+ 
+    234.98452  
+ 
+ Xc3  =
+ 
+    217.73994  
+ 
+ C3  =
+ 
+    0.0000049  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Av1  =
+ 
+    31.622777  
+ 
+ 
+ R9  =
+ 
+    344.97574  
+ 
+ 
+ Av2  =
+ 
+    33.057851  
+ 
+ Av1  =
+ 
+    30.25  
+ 
+ Zb  =
+ 
+    35330.  
+ 
+ Zin  =
+ 
+    16056.798  
+ 
+ R4  =
+ 
+    227.02658  
+ 
+ R5  =
+ 
+    3672.9734  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ V  =
+ 
+    28.  
+ 
+ Vi  =
+ 
+    0.00007  
+ 
+ 
+ rise time of output is    
+ 
+ 
+rise time of output is 56us
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH17/EX17.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ fo  =
+ 
+    10595.754  
+ 
+ R5  =
+ 
+    15028.253  
+ 
+ 
+ Q  =
+ 
+    17.65959  
+ 
+ R2  =
+ 
+    515757.31  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH18/EX18.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ T  =
+ 
+    0.00002  
+ 
+ t  =
+ 
+    0.7470588  
+ 
+ toff  =
+ 
+    0.0000114  
+ 
+ ton  =
+ 
+    0.0000086  
+ 
+ Ip  =
+ 
+    1.  
+ 
+ L1  =
+ 
+    0.0001457  
+ 
+ C1  =
+ 
+    0.000025  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R12  =
+ 
+    200.  
+ 
+ 
+ 
+ Ib5  =
+ 
+    0.0006207  
+ 
+ 
+ R9  =
+ 
+    1500.  
+ 
+ 
+ Iq78  =
+ 
+    0.0869  
+ 
+ Vr14  =
+ 
+    0.13035  
+ 
+ 
+ Vr10  =
+ 
+    0.39105  
+ 
+ R10  =
+ 
+    195.525  
+ 
+ Ir8  =
+ 
+    0.0002467  
+ 
+ R7  =
+ 
+    66081.081  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ A   
+ 
+ 
+ tf  =
+ 
+    100.  
+ 
+minimum fall times is 100ns
+ 
+ 
+ B)   
+ 
+ 
+ 
+minimum fall times is 30ns
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.12/example12_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ vi  =
+ 
+    0.6369427  
+ 
+ Xc2  =
+ 
+    8.846426  
+ 
+ vo  =
+ 
+    0.2376292  
+ 
+ dc output voltage is 0.238V
+ 
+ 
+ peak to peak voltage is 0.475V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.13/example13_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vg  =
+ 
+    3.8596491  
+ 
+ 
+ when Vgs=0, Vgs/Vgsoff=0   
+ 
+ Id  =
+ 
+    0.0014295  
+ 
+ 
+ when Vgs/Vgsoff=.5   
+ 
+ Vgs  =
+ 
+  - 3.5  
+ 
+ Id  =
+ 
+    0.0027258  
+ 
+ x  =
+ 
+    0.3028662  
+ 
+ 
+  point Y on universal characteristic x=.3 and Vgs/Vgsoff=.5   
+ 
+ 
+ draw voltage divider bias line through X nad Y where bisa line intersect trans 
+      fer curve                                                                 
+ 
+ Id  =
+ 
+    0.00261  
+ 
+ Vds  =
+ 
+    7.906  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.13/example13_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ I1  =
+ 
+    0.00005  
+ 
+ R2  =
+ 
+    100000.  
+ 
+ R1  =
+ 
+    180000.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.13/example13_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vp  =
+ 
+    10.  
+ 
+ Ip  =
+ 
+    0.5  
+ 
+ Vcc  =
+ 
+    12.  
+ 
+ vr6  =
+ 
+    2.  
+ 
+ Vr2  =
+ 
+    3.  
+ 
+ 
+ 
+ Vr2  =
+ 
+    9.  
+ 
+ 
+ Vr3  =
+ 
+    11.3  
+ 
+ Vr7  =
+ 
+    8.  
+ 
+ Vr8  =
+ 
+    14.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.13/example13_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Xl  =
+ 
+    44.2  
+ 
+ 
+ suitable value of L1 is 0.059H
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.13/example13_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Re  =
+ 
+    1000.  
+ 
+ Rc  =
+ 
+    1000.  
+ 
+ I2  =
+ 
+    0.0005  
+ 
+ Vb  =
+ 
+    5.7  
+ 
+ R2  =
+ 
+    11400.  
+ 
+ R1  =
+ 
+    18600.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH6/EX6.13/example13_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ Idc  =
+ 
+  - 5.000D-08  
+ 
+ 
+ Ide  =
+ 
+    0.0371869  
+ 
+ I1  =
+ 
+    0.0370009  
+ 
+ I2  =
+ 
+  - 2.500D-08  
+ 
+ Ic  =
+ 
+    0.0370010  
+ 
+ Ie  =
+ 
+    0.0371869  
+ 
+ Ib  =
+ 
+    0.0001859  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.13/example13_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ Ic  =
+ 
+    1.3333333  
+ 
+ 
+ point 1 Vce=60 and Ic=1.3A   
+ 
+ 
+ Ic  =
+ 
+    2.  
+ 
+ 
+ point 2 Vce=40 and Ic=2A   
+ 
+ 
+ Ic  =
+ 
+    4.  
+ 
+ 
+  point 3 Vce=20 and Ic=4A   
+ 
+ 
+ Ic  =
+ 
+    8.  
+ 
+ 
+  point 4 Vce=10 and Ic=8A   
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vg  =
+ 
+    6.0606061  
+ 
+ 
+ from the point where the bias line intersect the transfer curve   
+ 
+ Id  =
+ 
+    6.2  
+ 
+ Vds  =
+ 
+    10.86  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ ip  =
+ 
+    0.001  
+ 
+ 
+ select Ie2>ip   
+ 
+ 
+ R4  =
+ 
+    2500.  
+ 
+ 
+ Ie2  =
+ 
+    0.0022727  
+ 
+ 
+ Vr1  =
+ 
+    6.3  
+ 
+ R1  =
+ 
+    6300.  
+ 
+ 
+ Ic1  =
+ 
+    0.001125  
+ 
+ Ib1  =
+ 
+    0.0000161  
+ 
+ hie  =
+ 
+    2311.1111  
+ 
+ hie2  =
+ 
+    1145.3744  
+ 
+ Zi1  =
+ 
+    2267.4419  
+ 
+ Xc1  =
+ 
+    226.74419  
+ 
+ C1  =
+ 
+    0.0000047  
+ 
+ Xc2  =
+ 
+    1500.  
+ 
+ C2  =
+ 
+    0.0000007  
+ 
+ Zo  =
+ 
+    65.447085  
+ 
+ Xc3  =
+ 
+    115.44708  
+ 
+ C3  =
+ 
+    0.0000092  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zi  =
+ 
+    12100.  
+ 
+ 
+ open loop current gain   
+ 
+ Ai  =
+ 
+    3163.8418  
+ 
+ B  =
+ 
+    0.0434783  
+ 
+ 
+ d loop gain   
+ 
+ Acl  =
+ 
+    22.834005  
+ 
+ Zi  =
+ 
+    14.434353  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH14/EX14.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ I2  =
+ 
+    0.0000953  
+ 
+ UTP  =
+ 
+    2.574  
+ 
+ 
+  LTP calculation including Vf   
+ 
+ I3  =
+ 
+    0.0001192  
+ 
+ LTP  =
+ 
+  - 3.2175  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ I6  =
+ 
+    0.00001  
+ 
+ R7  =
+ 
+    800000.  
+ 
+ R8  =
+ 
+    1400000.  
+ 
+ 
+ R2  =
+ 
+    90000.  
+ 
+ R3  =
+ 
+    56500.  
+ 
+ 
+ Acl  =
+ 
+    12.5  
+ 
+ R4  =
+ 
+    408.69565  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ If  =
+ 
+    0.000015  
+ 
+ R1  =
+ 
+    200.  
+ 
+ P  =
+ 
+    1.125  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Eomax  =
+ 
+    31.4  
+ 
+ Epeak  =
+ 
+    13.333333  
+ 
+ 
+ Rl  =
+ 
+    500.  
+ 
+ Xlc  =
+ 
+    333.33333  
+ 
+ Lc  =
+ 
+    0.4423213  
+ 
+ 
+ Xl  =
+ 
+    416.66667  
+ 
+ Xc  =
+ 
+    7.367387  
+ 
+ C1  =
+ 
+    0.0001801  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH8/EX8.14/example14_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ Qsa  =
+ 
+    1.85  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.15/example15_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vgs  =
+ 
+  - 4.1026334  
+ 
+ Vds  =
+ 
+    2.8973666  
+ 
+ Vr3  =
+ 
+    8.5513167  
+ 
+ 
+ R3  =
+ 
+    4275.6584  
+ 
+ 
+ 
+ Vr3  =
+ 
+    7.8  
+ 
+ 
+ Vr2  =
+ 
+    3.6973666  
+ 
+ Vr1  =
+ 
+    16.302633  
+ 
+ R1  =
+ 
+    2469183.  
+ 
+ R6  =
+ 
+    8000.  
+ 
+ Vr5  =
+ 
+    7.1  
+ 
+ Vr6  =
+ 
+    9.9  
+ 
+ Ic2  =
+ 
+    0.0012375  
+ 
+ R5  =
+ 
+    5737.3737  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH13/EX13.15/example15_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ f2  =
+ 
+    3000000.  
+ 
+ 
+ % distortion with NFB   
+ 
+ 
+ percenatge  distortion with NFB is 0.050
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.15/example15_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ I4  =
+ 
+    0.0054333  
+ 
+ 
+ bootstrap capacitance terminal voltage is 8.8V
+ 
+ V  =
+ 
+    15.5  
+ 
+ Ip  =
+ 
+    0.1432532  
+ 
+ 
+ peak output voltage is 14.3V
+ 
+ 
+ peak output power is 1W
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.15/example15_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Izm  =
+ 
+    0.0533333  
+ 
+current at 50C is 0.053A
+ 
+ 
+ At 100C   
+ 
+ P2  =
+ 
+    0.24  
+ 
+ power at 100C is 0.240W
+ 
+ 
+ current at 100C is 0.032A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.15/example15_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ Eo  =
+ 
+    20.  
+ 
+ E0  =
+ 
+    0.3  
+ 
+ loadregulation  =
+ 
+    1.5  
+ 
+ sourceeffect  =
+ 
+    0.2  
+ 
+ lineregulation  =
+ 
+    1.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.16/example16_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Id  =
+ 
+    0.008  
+ 
+ Rd  =
+ 
+    1500.  
+ 
+ Vi  =
+ 
+  - 11.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.16/example16_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zi  =
+ 
+    463803.68  
+ 
+ Xc1  =
+ 
+    46380.368  
+ 
+ C1  =
+ 
+    2.289D-08  
+ 
+ Xc2  =
+ 
+    81.25  
+ 
+ C2  =
+ 
+    0.0000131  
+ 
+ re  =
+ 
+    21.666667  
+ 
+ Xc3  =
+ 
+    14.083333  
+ 
+ C3  =
+ 
+    0.0000754  
+ 
+ Xc4  =
+ 
+    8820.  
+ 
+ C4  =
+ 
+    0.0000001  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.16/example16_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vp  =
+ 
+    9.797959  
+ 
+ Ip  =
+ 
+    1.2247449  
+ 
+ R6  =
+ 
+    0.8  
+ 
+ 
+ Vcc  =
+ 
+    12.777755  
+ 
+ Ib  =
+ 
+    0.0012247  
+ 
+ 
+ R4  =
+ 
+    5688.8774  
+ 
+ R8  =
+ 
+    2844.4387  
+ 
+ Acl  =
+ 
+    97.97959  
+ 
+ 
+ R2  =
+ 
+    1031.1448  
+ 
+ 
+ slew rate is 3.08V/us
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.16/example16_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vr1  =
+ 
+    12.5  
+ 
+ 
+ diode current is 0.02016A
+ 
+ 
+power dissipation is 0.151W
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.16/example16_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ R1  =
+ 
+    1045.  
+ 
+ Pr1  =
+ 
+    0.418  
+ 
+ 
+ Iz  =
+ 
+    0.0171292  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.16/example16_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ve  =
+ 
+    8.3  
+ 
+ 
+ R3  =
+ 
+    8300.  
+ 
+ 
+  with R3=8.2kohm standard value   
+ 
+ 
+ Ie  =
+ 
+    0.0010122  
+ 
+ Vr2  =
+ 
+    4.  
+ 
+ R2  =
+ 
+    4000.  
+ 
+ Ib  =
+ 
+    0.0000143  
+ 
+ Vr1  =
+ 
+    0.07  
+ 
+ R1  =
+ 
+    4900.  
+ 
+ 
+  use 4.7Kohm as standard   
+ 
+ 
+ Ve  =
+ 
+    8.3  
+ 
+ Ie  =
+ 
+    0.0010122  
+ 
+ Vc  =
+ 
+    5.052439  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH10/EX10.17/example17_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Id  =
+ 
+    5.  
+ 
+ 
+  from transfer curve at Id=5 and Vgs=5.7   
+ 
+ 
+ R1  =
+ 
+    7771929.8  
+ 
+ Vds  =
+ 
+    1.25  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.17/example17_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zi2  =
+ 
+    2200.  
+ 
+ Av1  =
+ 
+  - 5.6262295  
+ 
+ Av2  =
+ 
+  - 338.07462  
+ 
+ 
+ overall voltage is Av=Av1*Av2   
+ 
+ Av  =
+ 
+    1902.0854  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.17/example17_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ C1  =
+ 
+    0.0000003  
+ 
+ C2  =
+ 
+    0.0000032  
+ 
+ Xc3  =
+ 
+    135.  
+ 
+ C3  =
+ 
+    0.0000236  
+ 
+ C4  =
+ 
+    0.0000236  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH2/EX2.17/example17_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ 
+ maximum voltage is 4.410V
+ 
+ 
+minimum voltage is 4.190V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.17/example17_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Izm  =
+ 
+    0.0645161  
+ 
+ R1  =
+ 
+    151.9  
+ 
+ Pr1  =
+ 
+    0.6322581  
+ 
+ 
+ 
+maximum current is 0.0595A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.17/example17_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ S  =
+ 
+    101.  
+ 
+ 
+ for collector to base bias   
+ 
+ S  =
+ 
+    55.85575  
+ 
+ 
+  for voltage divider bias   
+ 
+ 
+ S=(1+hFE)/(1+hFE*Re(Re+R1||R2))   
+ 
+ S  =
+ 
+    9.0145719  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.18/example18_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rc2  =
+ 
+    7000.  
+ 
+ Vrc2  =
+ 
+    7.7  
+ 
+ Ic  =
+ 
+    0.0011  
+ 
+ 
+ Re  =
+ 
+    4227.2727  
+ 
+ 
+ Rb  =
+ 
+    3818.1818  
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.18/example18_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vgsmin  =
+ 
+    1.476  
+ 
+ Vgsmax  =
+ 
+    2.788  
+ 
+ Acl  =
+ 
+    47.153846  
+ 
+ Vp  =
+ 
+    4.7153846  
+ 
+ 
+peak output current is 0.472A
+ 
+ 
+peak output power is 1.11W
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.18/example18_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+ chnage in temp   
+ 
+ T  =
+ 
+    80.  
+ 
+ 
+  n=T in 10 step   
+ 
+ n  =
+ 
+    8.  
+ 
+ Icbo2  =
+ 
+    0.0000038  
+ 
+ Icbo  =
+ 
+    0.0000038  
+ 
+ 
+  for base bais   
+ 
+ Ic  =
+ 
+    0.0003863  
+ 
+ 
+   for collector to base bais   
+ 
+ 
+ Ic  =
+ 
+    0.0002142  
+ 
+ 
+  for voltage divider bais   
+ 
+ 
+ Ic  =
+ 
+    0.0000314  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.19/example19_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ re  =
+ 
+    23.00885  
+ 
+ 
+ hie  =
+ 
+    1200.  
+ 
+ Zb  =
+ 
+    2400.  
+ 
+ Zi  =
+ 
+    1485.7143  
+ 
+ C1  =
+ 
+    0.0000018  
+ 
+ C2  =
+ 
+    0.0000004  
+ 
+ Av  =
+ 
+    154.94792  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.19/example19_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ic2max  =
+ 
+    0.00125  
+ 
+ Ic2min  =
+ 
+    0.0004487  
+ 
+ Vgsmin  =
+ 
+    2.0079487  
+ 
+ Vgsmax  =
+ 
+    2.665  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.19/example19_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vo  =
+ 
+    8.3  
+ 
+ R1  =
+ 
+    8300.  
+ 
+ 
+diode forward voltage is 9.00ohm
+ 
+diode forward current is 0.001A
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.19/example19_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ T  =
+ 
+    100.  
+ 
+ Vbe  =
+ 
+    0.18  
+ 
+ Ie  =
+ 
+    0.0000383  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.20/example20_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rc  =
+ 
+    9000.  
+ 
+ 
+ Vrc  =
+ 
+    9.  
+ 
+ Ic  =
+ 
+    0.0010976  
+ 
+ Re  =
+ 
+    4555.5556  
+ 
+ 
+ R3  =
+ 
+    47000.  
+ 
+ Vb1  =
+ 
+    5.7  
+ 
+ I3  =
+ 
+    0.0001213  
+ 
+ Vb2  =
+ 
+    8.7  
+ 
+ Vr2  =
+ 
+    3.  
+ 
+ R2  =
+ 
+    24736.842  
+ 
+ R1  =
+ 
+    93175.439  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.21/example21_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Zi  =
+ 
+    1117.1989  
+ 
+ C1  =
+ 
+    0.0000570  
+ 
+ C2  =
+ 
+    0.0000531  
+ 
+ C3  =
+ 
+    0.0002654  
+ 
+ C4  =
+ 
+    0.0000006  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.21/example21_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ic2max  =
+ 
+    0.0014894  
+ 
+ Ic2min  =
+ 
+    0.0004762  
+ 
+ 
+ MOSFET maximum gate source voltage is 3.0V
+ 
+ 
+ op-amp minimum suppy is 12.02V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.21/example21_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ 
+resistance is 3150.000Ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.21/example21_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Ic  =
+ 
+    0.0045455  
+ 
+ Ib  =
+ 
+    0.0002554  
+ 
+ 
+ minimum hFE is 17.80
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.22/example22_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ fo  =
+ 
+    1004586.5  
+ 
+resonance frequency is 1004586.461587Hz
+ 
+ Zp  =
+ 
+    223880.6  
+ 
+ Rc  =
+ 
+    100000.  
+ 
+ 
+ 
+ 
+ voltage gain is 235
+ 
+ Qp  =
+ 
+    10.064043  
+ 
+ QL  =
+ 
+    473.16022  
+ 
+ 
+ since QL>Qp   
+ 
+ 
+bandwidth is 99819Hz
+ 
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.22/example22_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+  power output   
+ 
+ Vp  =
+ 
+    14.705882  
+ 
+ Ip  =
+ 
+    0.9803922  
+ 
+ Po  =
+ 
+    7.2087659  
+ 
+ 
+  voltage gain   
+ 
+ Av  =
+ 
+    16.  
+ 
+ 
+ cutoff frequency   
+ 
+ f1  =
+ 
+    18.558936  
+ 
+ f2  =
+ 
+    48253.233  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.22/example22_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vz  =
+ 
+    4.3  
+ 
+ 
+zener diode resistance si 2500ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.22/example22_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rc  =
+ 
+    8000.  
+ 
+ Ib  =
+ 
+    0.00015  
+ 
+ Rb  =
+ 
+    28666.667  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.23/example23_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vp  =
+ 
+    18.  
+ 
+ 
+maximum output power is 20.25W
+ 
+ 
+ voltage gain 18.9
+ 
+ 
+lower cutoff frequency is 28Hz
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX2.23/example23_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vo  =
+ 
+    20.  
+ 
+ Ic  =
+ 
+    0.0003571  
+ 
+ 
+ 
+ tilt output voltage is 0.179V
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH5/EX5.23/example23_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Rc  =
+ 
+    4500.  
+ 
+ Ib  =
+ 
+    0.0002  
+ 
+ Rb  =
+ 
+    41500.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH12/EX12.24/example24_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ C2  =
+ 
+    5.071D-10  
+ 
+ M  =
+ 
+    0.0000009  
+ 
+ Rs  =
+ 
+    6.65523  
+ 
+ Rp  =
+ 
+    7.65523  
+ 
+ Zp  =
+ 
+    38993.925  
+ 
+ Rl  =
+ 
+    28054.409  
+ 
+ 
+ voltage gain from the input to primary winding   
+ 
+ Avp  =
+ 
+    1402.7205  
+ 
+ 
+ Vos  =
+ 
+    62.8  
+ 
+ 
+ overall voltage gain from the input to secondary winding    
+ 
+ Av  =
+ 
+    1074.7083  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.24/example24_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ t  =
+ 
+    0.001  
+ 
+ 
+ C1  =
+ 
+    0.0000017  
+ 
+ Vo  =
+ 
+    16.  
+ 
+ 
+ Ic  =
+ 
+    0.0002667  
+ 
+ 
+suitable value of R1 is 60000ohm
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.25/example25_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vp  =
+ 
+    9.7  
+ 
+ Po  =
+ 
+    0.047045  
+ 
+ T  =
+ 
+    0.0000003  
+ 
+ t  =
+ 
+    6.467D-08  
+ 
+ 
+ conduction angle is 69.8degree
+ 
+ Idc  =
+ 
+    0.00485  
+ 
+ 
+dc input power is 0.0485W
+ 
+ n  =
+ 
+    97.  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.25/example25_sce.sce #
+ 
+ 
+ 
+
+ 
+given
+ 
+ 
+ Vc  =
+ 
+    8.3  
+ 
+ Vo  =
+ 
+    2.3  
+ 
+ 
+ when input is +E   
+ 
+ Vo  =
+ 
+    14.3  
+ 
+ Vc  =
+ 
+    2.3  
+ 
+ Vo  =
+ 
+    3.7  
+ 
+ 
+ when input is -E   
+ 
+ Vo  =
+ 
+  - 8.3  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH19/EX19.26/example26_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Cp  =
+ 
+    1.327D-09  
+ 
+ 
+ Lp  =
+ 
+    0.0000195  
+ 
+ Vp  =
+ 
+    29.5  
+ 
+ Po  =
+ 
+    0.3626042  
+ 
+ Idc  =
+ 
+    0.0122917  
+ 
+ T  =
+ 
+    0.000001  
+ 
+ t  =
+ 
+    0.0000003  
+ 
+ Ip  =
+ 
+    0.04425  
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.26/example26_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ Vo  =
+ 
+    22.6  
+ 
+ Il  =
+ 
+    0.0004809  
+ 
+ 
+  capacitor discharge time   
+ 
+ t  =
+ 
+    0.0001  
+ 
+ 
+  for 1% ripple allow .5% due to discharge of C2 ,.5%due to discharge of C1   
+ 
+ Vc  =
+ 
+    0.113  
+ 
+ 
+ value of capacitor C2 is 0.43uF
+ 
+ 
+value of capacitor C1 is 0.85uF
+ 
+grepthis#Electronic_Devices_And_Circuits_D._A._Bell_226/CH3/EX3.27/example27_sce.sce #
+ 
+ 
+ 
+
+ 
+given 
+ 
+ 
+ A)   
+ 
+ 
+diode forward current when all input are low is 0.0013A
+ 
+ 
+ for each diode   
+ 
+ If  =
+ 
+    0.0004343  
+ 
+ 
+ B)   
+ 
+ If2  =
+ 
+    0.0006515  
+ 
+ 
+ forward current when input A is high is 0.00065A
+ 
+ 
+ C)   
+ 
+ 
+ forward current when input A and B are high and C is low 0.00130A
+ 

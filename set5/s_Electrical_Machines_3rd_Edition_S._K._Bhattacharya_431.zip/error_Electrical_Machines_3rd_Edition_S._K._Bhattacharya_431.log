@@ -1,0 +1,46 @@
+ERROR: Electrical_Machines_3rd_Edition_S._K._Bhattacharya_431/CH3/EX3.10/EX3_10.sce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example 3.10   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ phi2  =
+ 
+    45.572996  
+ 
+ 
+ phi4  =
+ 
+    53.130102  
+ 
+ 
+ 
+ 
+ 
+ 
+ I5  =
+ 
+    124.21583  
+ 
+I5=124A 
+ 
+
+The current drawn by the primary from 6600Vmains is equal to,Ip=4.516939A 
+ 
+printf("\n
+        !--error 31 
+Incorrect string.
+at line      27 of exec file called by :    
+ttacharya_431/CH3/EX3.10/EX3_10.sce',-1
+ 
+ 

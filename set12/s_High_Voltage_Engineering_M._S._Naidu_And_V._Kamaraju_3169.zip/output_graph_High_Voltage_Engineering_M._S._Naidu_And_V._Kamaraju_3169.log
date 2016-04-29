@@ -1,0 +1,97 @@
+grepthis#High_Voltage_Engineering_M._S._Naidu_And_V._Kamaraju_3169/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ d1  =
+ 
+    4.  
+ 
+ d2  =
+ 
+    6.  
+ 
+ d3  =
+ 
+    10.  
+ 
+ d4  =
+ 
+    12.  
+ 
+ V1  =
+ 
+    90.  
+ 
+ V2  =
+ 
+    140.  
+ 
+ V3  =
+ 
+    210.  
+ 
+ V4  =
+ 
+    255.  
+ 
+ 
+ 
+ 
+ 
+ n  =
+ 
+    0.9479722  
+ 
+ K  =
+ 
+    24.182789  
+ 
+ 
+ dn  =
+ 
+ 
+         column  1 to 12
+ 
+    1.    2.    3.    4.    5.    6.    7.    8.    9.    10.    11.    12.  
+ 
+         column 13 to 20
+ 
+    13.    14.    15.    16.    17.    18.    19.    20.  
+ 
+Vn=K*dn^n
+          !       
+at line      24 of exec file called by :    
+._Kamaraju_3169/CH3/EX3.1/Ex3_1.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ Vn  =
+ 
+ 
+         column 1 to 6
+ 
+    24.182789    46.652449    68.517903    90.    111.20146    132.18194  
+ 
+         column  7 to 12
+ 
+    152.98041    173.62432    194.13406    214.52532    234.81059    255.  
+ 
+         column 13 to 18
+ 
+    275.10196    295.12356    315.07081    334.94895    354.76252    374.5155  
+ 
+         column 19 to 20
+ 
+    394.21144    413.85349  
+ 
+ 
+ 
+ 
+ 
+The power law dependence between the gap spacing  and the applied voltage of the oil is 24.18*d^0.948 
+ 

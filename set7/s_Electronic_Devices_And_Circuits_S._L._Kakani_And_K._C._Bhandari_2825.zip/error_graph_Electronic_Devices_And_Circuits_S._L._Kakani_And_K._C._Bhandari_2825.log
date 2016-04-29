@@ -1,0 +1,52 @@
+ERROR: Electronic_Devices_And_Circuits_S._L._Kakani_And_K._C._Bhandari_2825/CH1/EX1.5/Ex1_5.sce
+ 
+[2J[0;0H 
+ 
+ Refer to the figure 1.55   
+ 
+ 
+ (a) R_L varies from 1 ohm to 10 ohm.   
+ 
+ 
+ Currents for two extreme values of R_L are   
+ 
+ Vs  =
+ 
+    10.  
+ 
+ RL1  =
+ 
+    1.  
+ 
+ Rs  =
+ 
+    100.  
+ 
+ IL1  =
+ 
+    0.0990099  
+ 
+ RL2  =
+ 
+    10.  
+ 
+ IL2  =
+ 
+    0.0909091  
+ 
+ per_var_cur  =
+ 
+    8.1818182  
+ 
+
+ Percentage variation in current = 8.18 %
+ 
+ 
+    Now,load voltage for the two extreme values of R_L are   
+ 
+VL1=IL1*RL
+          !--error 4 
+Undefined variable: RL
+at line      15 of exec file called by :    
+_S._L._Kakani_And_K._C._Bhandari_2825/CH1/EX1.5/Ex1_5.sce',-1
+ 

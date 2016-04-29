@@ -1,0 +1,5267 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 176
+
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+intrinsic carrier concentration=14995738948.715996 cm^-3 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+electron concentration= 1e+16 cm^-3 
+
+hole concentration =2.250000e+04 cm^-3 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+the built-in potential=0.757190 V 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the built-in potential(V)   
+ 
+    0.6374552  
+ 
+ 
+ 
+ 
+
+the junction capacitance for V_R=1V=0.311968 pF
+ 
+ 
+ 
+
+the junction capacitance for V_R=5V =0.168133 pF 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+diode current=4.926560 mA
+ 
+ 
+ Is  =
+ 
+    1.000D-14  
+ 
+ 
+
+diode current=-1.000000e-14 A 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x  =
+ 
+    2.7047976  
+ 
+ 
+ 
+ x  =
+ 
+    15.05098  
+ 
+ 
+ 
+ x  =
+ 
+    4.9899858  
+ 
+ 
+
+diode voltage=0.619000 V 
+ 
+
+the diode current=2.190500 mA 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.7/Ex1_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+the diode current=2.189055 mA
+ 
+ 
+
+diode voltage=0.621891 V 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.9/Ex1_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ v_i  =
+ 
+    0.1  
+ 
+ 
+ 
+
+dc quiescent current=0.880000 mA
+ 
+ 
+
+dc output voltage=4.400000 V
+ 
+ 
+ 
+ 
+ 
+ r_d  =
+ 
+    0.0295455  
+ 
+ 
+
+ac diode current=0.019883sin(wt) A
+ 
+ 
+ 
+
+ac output voltage=0.099413sin(wt) V 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.10/Ex1_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ R1  =
+ 
+    4.  
+ R2  =
+ 
+    4.  
+ 
+ 
+
+current through pn junction diode=0.825 mA
+ 
+ 
+ 
+
+current through Schottky diode=0.925 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH1/EX1.11/Ex1_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+resistance=1.467 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ v_S  =
+ 
+    9.7  
+ 
+
+peak value of secondary voltage=9.70 V
+ 
+ v_S_rms  =
+ 
+    6.8589358  
+ 
+
+rms value of v_S=6.86 V
+ 
+ 
+ 
+
+turns ratio=17.495426 
+ 
+ 
+ 
+
+peak value of secondary voltage=10.40 V
+ 
+ 
+
+rms value of v_S=7.353911 V
+ 
+ 
+ 
+
+turns ratio=16.317849
+ 
+ 
+ 
+
+peak inverse voltage of a diode=18.700000 V
+ 
+ 
+ 
+
+peak inverse voltage of a diode=9.70 V
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+capacitance=41.666667 microF
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH2/EX2.3/Ex2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+effective load resistance=100.00 Ohm
+ 
+ 
+ 
+
+peak value of v_S=13.40 V
+ 
+ 
+
+rms voltage=9.48 V
+ 
+ 
+ 
+ 
+
+turns ratio=12.66 
+ 
+ 
+ 
+
+ripple voltage=0.60 V
+ 
+ 
+ 
+
+filter capacitance=0.001667 F
+ 
+ 
+
+peak diode current=2.50 A
+ 
+ 
+ 
+
+average diode current=66.039505 mA
+ 
+ 
+
+peak inverse voltage=12.70 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH2/EX2.5/Ex2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V_Lmax  =
+ 
+    10.2  
+ 
+ V_Lmin  =
+ 
+    9.12  
+ 
+ 
+ 
+
+percent regulation=12.0 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH2/EX2.8/Ex2_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+diode current=0.62 mA
+ 
+ 
+ 
+
+output voltage=1.90 V
+ 
+ 
+
+Voltage=1.2 V
+ 
+ 
+ 
+ 
+ 
+ 
+
+diode current=0.20 mA
+ 
+ 
+ 
+
+V=3.30 V
+ 
+ 
+
+iR2=0.83 mA
+ 
+ 
+
+current through D1=0.63 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH2/EX2.10/Ex2_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+photocurrent=0.8 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH2/EX2.11/Ex2_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+resistance=310.0 Ohm 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.1/Ex3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+collector current=2.25 mA
+ 
+ 
+
+emitter current=2.27 mA
+ 
+ 
+
+common base current gain=0.993
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.2/Ex3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+breakdown voltage=25.85 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.3/Ex3_3.sce #
+ 
+ 
+ 
+ 
+ Rb  =
+ 
+    220.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+base current=0.015 mA
+ 
+ 
+
+collector current=3.00 mA
+ 
+ 
+
+emitter current=3.01 mA
+ 
+ 
+
+collector emitter voltage=4.0 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.4/Ex3_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+base current=0.005 mA
+ 
+ 
+
+collector current=0.50 mA
+ 
+ 
+
+emitter current=0.505 mA
+ 
+ 
+
+ce voltage=2.50 V
+ 
+ 
+
+collector resistance=5 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.5/Ex3_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ib  =
+ 
+    0.0331818  
+ 
+
+base current=0.033182 mA
+ 
+ 
+ 
+
+collector current=3.318 mA
+ 
+ 
+ 
+ 
+
+collector emitter voltage=-3.27 V
+ 
+ 
+ 
+ 
+
+saturation collector current=2.45 mA
+ 
+ x  =
+ 
+    73.835616  
+ 
+ 
+ 
+
+emitter current=2.483182 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.10/Ex3_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+base current=47.083 mA
+ 
+ 
+
+collector current=2.38 A
+ 
+ 
+ x  =
+ 
+    50.530786  
+ 
+ 
+ 
+ 
+
+output voltage=0.10 V
+ 
+ 
+
+power dissipation=0.271 W
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.13/Ex3_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+collector resistance=6.000 KOhms
+ 
+ 
+
+base current=0.010 mA
+ 
+ 
+
+base resistance=1130.000 KOhms
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.14/Ex3_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Thevenin rquivalent resistance=10.0 KOhm
+ 
+ 
+
+Thevenin equivalent voltage=1.79 V
+ 
+ 
+
+base current=0.021597 mA
+ 
+ 
+
+collector current=2.160 mA
+ 
+ 
+
+emitter current=2.18 mA
+ 
+ 
+
+collector emitter voltage=4.808 V
+ 
+ b  =
+ 
+    50.    100.    150.  
+ 
+ 
+ Ibeq,Iceq,Ieq,Vceq   
+ 
+    0.0357969  
+ 
+    1.7898461  
+ 
+    1.8256431  
+ 
+    5.6900505  
+ 
+    
+ 
+ Ibeq,Iceq,Ieq,Vceq   
+ 
+    0.0215968  
+ 
+    2.1596752  
+ 
+    2.181272  
+ 
+    4.8081408  
+ 
+    
+ 
+ Ibeq,Iceq,Ieq,Vceq   
+ 
+    0.0154628  
+ 
+    2.3194266  
+ 
+    2.3348895  
+ 
+    4.427191  
+ 
+    
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.15/Ex3_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+collector current=1.325 mA
+ 
+ 
+
+base current=0.011 mA
+ 
+ 
+ 
+
+Thevenin rquivalent resistance=6.2 KOhm
+ 
+ 
+ 
+
+Thevenin equivalent voltage=1.45 V
+ 
+ 
+ 
+ x  =
+ 
+    0.2898477  
+ 
+ 
+ 
+
+R1=20.9 KOhms
+ 
+ 
+
+R2=8.5 KOhms 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.16/Ex3_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+reference current=0.430 mA
+ 
+ 
+
+bias current=0.413 mA
+ 
+ 
+ 
+
+base current=0.008269 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH3/EX3.17/Ex3_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Thevenin rquivalent resistance=33.3 KOhm
+ 
+ 
+
+Thevenin equivalent voltage=-1.67 V
+ 
+ 
+ 
+
+Ib1=0.011 mA
+ 
+ 
+
+Ic1=1.119 mA
+ 
+ 
+
+Ie1=1.130 mA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vc1=-0.48 V
+ 
+ 
+
+Ir1=1.095 mA
+ 
+ 
+
+Ve2=0.22 V
+ 
+ 
+
+Ie2=2.388 mA
+ 
+ 
+
+Ic2=2.365 mA
+ 
+ 
+
+Ib2=0.023647 mA
+ 
+ 
+
+Ve1=-2.74 V
+ 
+ 
+
+Vc2=-1.45 V
+ 
+ 
+
+Vce1=2.26 V
+ 
+ 
+
+Vec2=1.68 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.1/Ex4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+base current=0.010 mA
+ 
+ 
+
+collector current=1.000 mA
+ 
+ 
+
+collector emitter voltage=6.00 V
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal resistance=2.6 KOhm
+ 
+ 
+
+transconductance=38.462 mA/V
+ 
+ 
+ 
+
+small signal voltage gain=-11.407
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.2/Ex4_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal output resistance=50.0 KOhm
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal voltage gain=-10.19 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.4/Ex4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal resistance=2.74 KOhm
+ 
+ 
+
+transconductance=36.538 mA/V
+ 
+ 
+ 
+ 
+
+ro=105.26 KOhm
+ 
+ 
+
+small signal voltage gain=-163.64 
+ 
+ 
+
+input resistance=1.870 KOhm
+ 
+ 
+
+output resistance=5.68 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.5/Ex4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vceq  =
+ 
+    4.8  
+ 
+ 
+ 
+
+small signal resistance=1.20 KOhm
+ 
+ 
+
+transconductance=83.076923 mA/V
+ 
+ 
+ 
+ 
+
+input resistance to the base=41.60 KOhm
+ 
+ 
+ 
+
+input resistance to the amplifier=8.062 KOhm
+ 
+ 
+
+small signal voltage gain=-4.53 
+ 
+ 
+ 
+
+small signal voltage gain=-5.000 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.7/Ex4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=19.231 mA/V
+ 
+ 
+
+small signal output resistance=160.00 KOhm
+ 
+ 
+
+small signal voltage gain=-1318.681 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.8/Ex4_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+base current=0.005962 mA
+ 
+ 
+
+collector current=0.894 mA
+ 
+ 
+
+emitter current=0.900 mA
+ 
+ 
+
+emitter collector voltage=6.53 V
+ 
+ 
+ 
+
+small signal resistance=4.4 KOhm
+ 
+ 
+
+transconductance =34.393mA/V
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.9/Ex4_9.sce #
+ 
+ 
+ 
+ 
+ 
+
+maximum possible symmetrical peak to peak ac collector current=1.788 mA
+ 
+ 
+ 
+ 
+
+maximum possible symmetrical peak to peak output voltage=2.55 V
+ 
+ 
+
+maximum instantaneous collector current=1.788 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH4/EX4.10/Ex4_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal resistance=3.279 KOhm
+ 
+ 
+
+transconductance=30.500 mA/V
+ 
+ 
+
+small signal output resistance=100.88 KOhm
+ 
+ 
+
+input resistance to the base=201.35 KOhm
+ 
+ 
+ 
+ 
+
+Ri=22.24 KOhm
+ 
+ 
+ 
+
+small signal voltage gain=0.962 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+conduction parameter=0.249557 mA/V^2
+ 
+ 
+ 
+
+drain current=0.140376 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgs=1.08 V
+ 
+ 
+ 
+
+Vsd=1.58 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgs=2.00 V
+ 
+ 
+
+the drain current=0.1 mA
+ 
+ 
+
+drain to source voltage=3.0 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.4/Ex5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vo=2.50 V
+ 
+ 
+
+source to gate voltage=2.50 V
+ 
+ 
+
+the drain current=0.578 mA
+ 
+ 
+
+source to drain voltage=0.665 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.6/Ex5_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgs=3.77 V
+ 
+ 
+ 
+ 
+
+R1+R2=200.00 Kohm
+ 
+ 
+ 
+
+R2=95.36 KOhm
+ 
+ 
+
+R1=104.64 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.7/Ex5_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgs=2.243 V
+ 
+ Vs  =
+ 
+  - 2.2433757  
+ 
+ 
+ 
+
+Rd=0.01 KOhm
+ 
+ 
+
+Vds=4.74 V
+ 
+ Vdssat  =
+ 
+    1.4433757  
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.8/Ex5_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vgs  =
+ 
+    Vgs   
+ 
+ p  =
+ 
+                          2  
+  - 4.68 + 0.2Vgs + 0.5Vgs   
+ 
+
+possible solutions ::-3.266 V
+
+possible solutions ::2.866 V
+ 
+ 
+ 
+ 
+
+drain current=0.214 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.10/Ex5_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+drain current=0.400 mA
+ 
+ 
+
+dc drain to source voltage=3.00 V
+ 
+ Vdssat  =
+ 
+    2.  
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.11/Ex5_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vo  =
+ 
+    Vo   
+ 
+ p  =
+ 
+                  2  
+    4 - 40Vo + 5Vo   
+ 
+
+possible solutions ::7.90 V
+
+possible solutions ::0.10 V
+ 
+ 
+ 
+ 
+
+drain current=40.000 microA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.13/Ex5_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgs3=2.50 V
+ 
+ 
+
+bias current=0.225 mA
+ 
+ 
+
+gate to source voltage on M1=2.06 V
+ 
+ 
+
+drain to source voltage on M2=2.94 V
+ 
+ 
+ Vdssat  =
+ 
+    1.5  
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.14/Ex5_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W/L    
+ 
+    781.25  
+ 
+ 
+ 
+
+maximum power dissipation in transistor=3.000 W
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.16/Ex5_16.sce #
+ 
+ 
+ 
+ 
+ 
+ Vgs  =
+ 
+    0.  - 0.875  - 1.75  
+ 
+I_D=Idss*(1-Vgs/Vp)^2;
+                      !       
+at line       7 of exec file called by :    
+._Neamen_1223/CH5/EX5.16/Ex5_16.sce',-1
+ 
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+
+ 
+ 
+ I_D (A)   
+ 
+    2.    1.125    0.5  
+ 
+ 
+ 
+ Vdssat (V)   
+ 
+    3.5    2.625    1.75  
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.17/Ex5_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgs=-1.47 V
+ 
+ 
+
+Rs=0.735 KOhm
+ 
+ 
+
+Rd=1.26 KOhm
+ 
+ ans  =
+ 
+    2.5298221  
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.19/Ex5_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vd =-5.80V
+ 
+ 
+ 
+
+Vgs =1.09V
+ 
+ 
+
+Vs=-0.09 V
+ 
+ 
+
+Vsd=5.71 V
+ 
+ ans  =
+ 
+    1.4142136  
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH5/EX5.20/Ex5_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+drain current=0.074 mA
+ 
+ 
+
+voltage at drain=3.50 V
+ 
+ 
+
+voltage at source =1.00V
+ 
+ 
+
+source resistance =13.47KOhm
+ 
+ 
+
+voltage at the gate=1.50 V
+ 
+ 
+ 
+
+R2=18.772 KOhm
+ 
+ 
+
+R1=31.228 KOhm
+ 
+ ans  =
+ 
+    0.26  
+ 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.1/Ex6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+conduction parameter=0.800 mA/V^2
+ 
+ 
+
+transconductance=1.789 mA/V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.2/Ex6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+drain current=1.004 mA
+ 
+ 
+
+drain to source voltage=2.491 V
+ 
+ 
+ ans  =
+ 
+    0.82  
+ 
+ 
+ 
+
+transconductance=1.792 mA/V
+ 
+ 
+
+output resistance=49.82 KOhm
+ 
+ 
+
+small signal voltage gain=-4.27
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.3/Ex6_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+gate to source voltage=2.91 V
+ 
+ 
+
+drain current=0.994 mA
+ 
+ 
+
+drain to source voltage=5.03 V
+ 
+ 
+
+transconductance=1.410 mA/V
+ 
+ 
+
+output resistance=100.60 KOhm
+ 
+ 
+
+amplifier input resistance=20.63 Kohm
+ 
+ 
+
+small signal voltage gain=-5.63
+ 
+
+amplifier input resistance=20.63 Kohm
+ 
+ 
+
+amplifier output resistance=4.76 Kohm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.4/Ex6_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgst=3.00 V
+ 
+ 
+
+Vdst=2.00 V
+ 
+ 
+ 
+ 
+
+Rd =2.50KOhm
+ 
+ 
+
+Vgsq=2.41 V
+ 
+ 
+
+R1=497.06 Kohm
+ 
+ 
+
+R2=125.19 Kohm
+ 
+ 
+
+transconductance=2.828 mA/V
+ 
+ 
+
+output resistance=33.33 KOhm
+ 
+ 
+
+small signal voltage gain=-6.58
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.6/Ex6_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vgsq=1.51 V
+ 
+ Vs  =
+ 
+  - 1.5071068  
+ 
+ 
+
+Vdsq=3.01 V
+ 
+ 
+
+transconductance=1.414 mA/V
+ 
+ 
+
+small signal voltage gain=-9.90
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.7/Ex6_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=11.28 mA/V
+ 
+ 
+
+output resistance=12.55 KOhm
+ 
+ 
+
+amplifier input resistance=120.010 Kohm
+ 
+ 
+ 
+
+small signal voltage gain=0.86
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.9/Ex6_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+output resistance=78.658 ohm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.11/Ex6_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+width to length ratio of driver transistor=100.00
+ 
+ 
+ 
+
+conduction parameter Knd=1.50 mA/V^2
+ 
+
+conduction parameter Knl=0.015 mA/V^2
+ 
+ 
+ 
+ 
+
+Vgsd=1.36 V
+ 
+ 
+
+Vdsd=0.36 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.12/Ex6_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance of the driver=0.894 mA/V
+ 
+ 
+
+output resistances=500.00 Kohm
+ 
+ 
+
+small signal voltage gain=-223.61 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.13/Ex6_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance of the NMOS driver=0.693 mA/V^2
+ 
+ 
+
+output resistances=500.00 Kohm
+ 
+ 
+
+small signal voltage gain=-173.21 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.14/Ex6_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rs2=8.00 KOhm
+ 
+ 
+
+gate to source voltage for M2=2.78 V
+ 
+ 
+ 
+
+gate voltage of M2=1.78 V
+ 
+ 
+ 
+
+resistor Rd1=16.09 KOhm
+ 
+ 
+
+source voltage of M1=-4.22 KOhm
+ 
+ 
+
+resistor Rs1=3.91 KOhm
+ 
+ 
+
+gate to source voltage for M1=1.83 V
+ 
+ 
+
+R1=382.61 KOhm
+ 
+ 
+ 
+
+R2=135.38 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.15/Ex6_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+dc voltage at source of M1=-1.00 V
+ 
+ 
+
+gate to source voltage=1.91 V
+ 
+ 
+
+R3=54.43 KOhm
+ 
+ 
+
+voltage at source of M2=1.50 V
+ 
+ 
+ 
+
+R2+R3=204.43 KOhm
+ 
+ 
+ 
+
+R1=95.57 KOhm
+ 
+ 
+
+R3=54.43 KOhm
+ 
+ 
+
+voltage at drain of M2 =4.00V
+ 
+ 
+
+drain resistance=2.50 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.17/Ex6_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=1.14 mA/V
+ 
+ 
+
+small signal voltage gain=-2.84 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.18/Ex6_18.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p  =
+ 
+                               2  
+    26.4 + 17.2Vgsq + 2.025Vgsq   
+ 
+
+roots=-6.482811V
+
+roots=-2.011016V
+ 
+ Vgsq  =
+ 
+  - 2.01  
+ 
+ 
+
+quiescent drain current=2.970075 mA
+ 
+ 
+
+transconductance=2.99 mA/V
+ 
+ 
+
+output resistance=42.09 KOhm
+ 
+ 
+ 
+ 
+ 
+
+small signal voltage gain=-4.63 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH6/EX6.19/Ex6_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+gate to source voltage=-2.667 V
+ 
+ 
+
+quiescent drain current=1.333 mA
+ 
+ 
+
+Rs=9.50 KOhm
+ 
+ 
+
+output resistance=75.000 KOhm
+ 
+ 
+ 
+ 
+
+small signal voltage gain=0.901 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.1/Ex7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+time constant=0.011 s
+ 
+ 
+
+corner frequency=14.47 Hz
+ 
+ 
+
+maximum magnitude =-0.828dB
+ 
+ 
+ 
+ 
+ 
+
+time constant=2.727 ns
+ 
+ 
+ 
+
+corner frequency =58.30MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+open circuit time constant=0.011 s
+ 
+ 
+ 
+ 
+ 
+
+short circuit time constant=2.727 ns
+ 
+ 
+
+corner frequency fL=14.47 Hz
+ 
+ 
+ 
+
+corner frequency fH=58.299 MHz
+ 
+ 
+ 
+
+bandwidth =58.298MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=69.615 mA/V
+ 
+ 
+
+diffusion resistance=1.44 KOhm
+ 
+ 
+ 
+ 
+
+input resistance=6.775 KOhm
+ 
+ 
+
+time constant=6.875 ms 
+ 
+ 
+
+corner frequency fL=23.167 Hz
+ 
+ 
+
+Rib=41.836 KOhm
+ 
+ 
+
+small signal voltage gain=4.71
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+time constant=7.958 ms
+ 
+ 
+
+coupling capacitance=0.477 microF
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.5/Ex7_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+output resistance of emitter=35.48 Ohm
+ 
+ 
+
+time constant=0.01 s
+ 
+ 
+
+3dB frequency=15.86 Hz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.6/Ex7_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance =0.705mA/V
+ 
+ 
+
+time constant=66.667 ns
+ 
+ 
+ 
+
+corner frequency=2.39 MHz
+ 
+ 
+
+maximum small signal voltage gain=1.44
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.7/Ex7_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=38.077 mA/V
+ 
+ 
+
+diffusion resistance=2.63 KOhm
+ 
+ 
+
+input resistance=53.13 KOhm
+ 
+ 
+ 
+ 
+ 
+
+maximum small signal voltage gain=6.14
+ 
+ 
+
+time constant=46.608 ms
+ 
+ 
+ 
+ 
+
+time constant=50.000 ns
+ 
+ 
+
+lower corner frequency=3.42 Hz
+ 
+ 
+ 
+
+upper corner frequency=3.18 MHz
+ 
+ 
+ 
+
+bandwidth =3.18MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.8/Ex7_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance =40.77mA/V
+ 
+ 
+
+diffusion resistance=2.45 KOhm
+ 
+ 
+
+time constant Ta=4.000000e-03f s
+ 
+ 
+
+time constant Tb=2.902381e-05 s
+ 
+ 
+
+corner frequency =39.79Hz
+ 
+ 
+ 
+
+corner frequency =5.49kHz
+ 
+ 
+
+limiting low frequency horizontal asymptote=0.49
+ 
+ 
+
+nlimiting high frequency horizontal asymptote=67.73
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.9/Ex7_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3dB frequency=29.15 MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.10/Ex7_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+bandwidth=5.000 MHz
+ 
+ 
+
+transconductance=38.462 mA/V
+ 
+ 
+ 
+ 
+
+capacitance =1.20e-11F
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.12/Ex7_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance =1.000mA/V
+ 
+ 
+
+unity gain bandwidth=663 MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.13/Ex7_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Miller capacitance=0.440 pF
+ 
+ 
+ 
+ 
+
+cutoff frequency=248.680 MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.14/Ex7_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal parameter=3.82 KOhm
+ 
+ 
+
+transconductance=39.231 mA/V
+ 
+ 
+
+Miller capacitance=527.077 pF
+ 
+ 
+ 
+ 
+ 
+
+upper corner frequency =2.91MHz
+ 
+ 
+ 
+ 
+
+midband gain=127.13
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.15/Ex7_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+time constant=0.679 ns
+ 
+ 
+ 
+
+upper frequency =234.396MHz
+ 
+ 
+
+time constant=13.333 ns
+ 
+ 
+ 
+
+upper frequency=11.97 MHz
+ 
+ 
+ 
+ 
+
+midband voltage gain=25.36 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.16/Ex7_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+time constant=4.156 ns
+ 
+ 
+ 
+
+3dB frequency =38.293MHz
+ 
+ 
+
+time constant=13.33 ns
+ 
+ 
+ 
+
+upper frequency=11.937 MHz
+ 
+ 
+ 
+ 
+
+midband voltage gain=126 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH7/EX7.17/Ex7_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+the zero occurs at this frequency=179.75 MHz
+ 
+ 
+ Rb  =
+ 
+    5.0043745  
+ 
+ 
+ 
+ 
+ 
+
+time constant=0.57 ns
+ 
+ 
+ 
+
+3dB frequency=281 MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+maximum power dissipation=2.32 W
+ 
+ 
+ 
+
+maximum power dissipation=15.48 W
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+device to case thermal resistance=7.50 °C/W
+ 
+ 
+
+maximum power dissipation=11.11 W
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH8/EX8.7/Ex8_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iL=0.25 A
+ 
+ 
+ 
+ 
+
+Vbb=3.00 V
+ 
+ 
+ 
+
+Vgsn=2.12 V
+ 
+ 
+
+Vsgp=0.88 V
+ 
+ 
+
+input voltage=5.62 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH8/EX8.8/Ex8_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+peak output voltage=8.94 V
+ 
+ 
+
+peak output current =1.12A
+ 
+ 
+
+a=2.41
+ 
+ 
+
+Icq=0.514 A
+ 
+ 
+
+maximum power dissipated in the transistor=12.35 W
+ 
+ 
+ 
+
+base current Ibq=5.14 mA
+ 
+ 
+ 
+ 
+
+R1=4.42 KOhm
+ 
+ 
+
+R2=5.75 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH8/EX8.9/Ex8_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+peak voltage Vp=8.94 V
+ 
+ 
+
+supply voltage=11.18 V
+ 
+ 
+
+emitter current=1.118 A
+ 
+ 
+ 
+
+base current=14.71 mA
+ 
+ 
+ 
+
+Vbb=1.42 V
+ 
+ 
+ 
+
+quiescent collector current=66.667 mA
+ 
+ 
+ 
+
+drain current=5.289 mA
+ 
+ 
+ 
+
+Vbb=1.35 V
+ 
+ 
+ 
+
+B-E voltage of Qn=0.78 V
+ 
+ 
+
+emitter base voltage of Qp=0.57 V
+ 
+ 
+ 
+
+Icp=0.277518 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH8/EX8.11/Ex8_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iR1=7.20 mA
+ 
+ 
+ 
+
+output current=100.000 mA
+ 
+ 
+
+iB3=1.639mA
+ 
+ 
+
+current in R1=2.200 mA
+ 
+ 
+
+iE1=0.561 mA
+ 
+ 
+ 
+
+iB1=9.191 microA
+ 
+ 
+
+iE2=12.200 mA
+ 
+ 
+ 
+
+iB2=200.000 microA
+ 
+ 
+
+input current=190.809 microA
+ 
+ 
+ 
+
+current gain=524.08
+ 
+ 
+
+predicted current gain=610.00
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+load current=5.000 mA
+ 
+ 
+
+voltage across the load=0.50 V
+ 
+ 
+
+i4=0.500 mA
+ 
+ 
+
+i3=5.500 mA
+ 
+ 
+
+output voltage=6.00 V
+ 
+ 
+ 
+
+i1=-0.500 mA
+ 
+
+i2=-0.50 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH9/EX9.9/Ex9_9.sce #
+ 
+ 
+ 
+ 
+ x  =
+ 
+  - 1.  
+ 
+ 
+ 
+ 
+
+R1C2=0.10 ms
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+reference current=204.00 microA
+ 
+ 
+ 
+
+R1=21.57 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+reference current =1.000mA
+ 
+ 
+
+output current=0.96mA
+ 
+ 
+
+small signal output resistance=83.20 KOhm
+ 
+ 
+ 
+ 
+
+change in load current=0.052 mA
+ 
+ 
+ 
+
+percent change in output current=5.38 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.4/Ex10_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Resistance R1 =9.30KOhm
+ 
+ 
+
+Resistance Re =9.58KOhm
+ 
+ 
+
+difference between two B-E voltages=0.11 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.5/Ex10_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal collector resistance=6.67 MOhm
+ 
+ 
+ 
+
+transconductance=0.462 mA/V
+ 
+ 
+
+Resistance=216.67 KOhm
+ 
+ 
+
+output resistance=34.90 MOhm
+ 
+ 
+ 
+
+change in load current=0.115 microA
+ 
+ 
+ 
+ 
+
+percent change in output current =0.9552
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.6/Ex10_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Resistance R1=44 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.7/Ex10_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+width per length 2=6.92
+ 
+ 
+
+width per length 1=17.30
+ 
+ 
+ 
+
+Vgs3=3.15 V
+ 
+ 
+
+width per length 3=2.70
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.8/Ex10_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+output resistance=1.00 MOhm
+ 
+ 
+ 
+ 
+
+output resistance of cascode circuit=502.00 MOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.9/Ex10_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+minimum value of Vs=-3.50 V
+ 
+ 
+
+output current=1.07 mA
+ 
+ 
+
+gate to source voltage of Q1=-0.40 V
+ 
+ 
+
+V1=-3.90 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.10/Ex10_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal open circuit voltage gain=-1846.15
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.11/Ex10_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal open circuit voltage gain=-1846.15
+ 
+ 
+ 
+
+small signal open circuit voltage gain=-1247.40
+ 
+ 
+ 
+
+small signal open circuit voltage gain=-318.30
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH10/EX10.12/Ex10_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance =1.41mA/V
+ 
+ 
+
+small signal transistor conductance=0.0050 mA/V
+ 
+ 
+ 
+ 
+
+voltage gain=-141.42 
+ 
+ 
+ 
+ 
+
+voltage gain=-70.71 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+collector currents =0.50mA
+ 
+ 
+ 
+
+collector voltages =5.00V
+ 
+ 
+ 
+ 
+
+collector emitter voltage=5.70 V
+ 
+ 
+ 
+ 
+
+collector emitter voltage =10.70V
+ 
+ 
+ 
+ 
+
+collector emitter voltage=0.70 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+differential gain=92.308
+ 
+ 
+
+common mode gain=-0.237
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+common mode rejection ratio=389.45
+ 
+ 
+
+CMRR in decibels=51.81 dB
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ output resistance (MOhm)   
+ 
+    2.0336312  
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I1  =
+ 
+    0.25  
+ 
+ 
+ 
+
+small signal parameter=10.40 KOhm
+ 
+ 
+
+ro=400.00 KOhm
+ 
+ 
+
+output resistance of Q4=200.00 KOhm
+ 
+ 
+
+differential mode input resistance =20.80KOhm
+ 
+ 
+ 
+
+common mode input resistance=10.10 MOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.10/Ex11_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vgs4  =
+ 
+    Vgs4   
+ 
+ p  =
+ 
+                      2  
+  - 1 - 17Vgs4 + 9Vgs4   
+ 
+
+roots=1.95V
+
+roots=-0.06V
+ 
+ 
+ 
+
+I1=0.59 mA
+ 
+ 
+ 
+
+Id1 and Id2 =0.29mA
+ 
+ 
+
+Vgs1 and Vgs2 =2.71V
+ 
+ 
+
+vo1 and vo2=5.31 V
+ 
+ 
+
+Vds1=Vds2=Vds1(sat)=1.71 V
+ 
+ 
+
+Vcm max=6.31 V
+ 
+ 
+
+Vds4=1.40 V
+ 
+ 
+
+Vcm min=-5.89V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.11/Ex11_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=1.000 mA/V
+ 
+ 
+ 
+
+transconductance=19.231 mA/V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.12/Ex11_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+output resistance =170.36KOhm
+ 
+ 
+
+differential mode voltage gain=8.67 
+ 
+ 
+
+common mode voltage gain=-0.05
+ 
+ 
+
+common mode rejection ratio=45.35 dB
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.13/Ex11_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+open circuit voltage gain=1923.08
+ 
+ 
+
+voltage gain=320.51
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.15/Ex11_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=0.283 mA/V
+ 
+ 
+
+output resistance=1000.00 KOhm
+ 
+ 
+ 
+
+output resistance of the cascode active load=284.84Mohm
+ 
+ 
+ 
+
+differential mode voltage gain=281.85
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.16/Ex11_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+input resistance=2.63 MOhm
+ 
+ 
+
+resistance R11=13.00 KOhm
+ 
+ 
+
+Re=0.20 KOhm
+ 
+ 
+
+gm11=7.692 mA/V
+ 
+ 
+
+ro11 =500.00KOhm
+ 
+ 
+ 
+
+Rc11=1.26 MOhm
+ 
+ 
+
+resistance=2.60KOhm
+ 
+ 
+ 
+ 
+
+Rb8 =1.01MOhm
+ 
+ 
+
+Rl7=0.56 MOhm
+ 
+ 
+
+small signal voltage gain=2.16
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.17/Ex11_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rc7=500.00 KOhm
+ 
+ 
+
+Z=357.95 KOhm
+ 
+ 
+ 
+
+output resistance=2.63 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.19/Ex11_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+r4=6.50 KOhm
+ 
+ 
+
+r3=650.00 KOhm
+ 
+ 
+
+input resistance=1306.50 KOhm
+ 
+ 
+
+transconductance=7.692 mA/V
+ 
+ 
+
+gain of differential amplifier stage=75.76
+ 
+ 
+
+r5 =6.50KOhm
+ 
+ 
+ 
+
+r6=1.30 KOhm
+ 
+ 
+ 
+ 
+ 
+
+Ri3=52.81 MOhm
+ 
+ 
+ 
+
+voltage gain A2=38.46
+ 
+ 
+ 
+
+small signal voltage gain=2913.97
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH11/EX11.20/Ex11_20.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+frequency of the zero=15.92 KHz
+ 
+ 
+
+Req=51.98 Ohm
+ 
+ 
+ 
+
+frequency of the pole=3.06 GHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+feedback transfer function=0.019990
+ 
+ 
+ 
+ 
+
+feedback transfer function=-0.019990
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+dAf=2.498876e-03
+ 
+ 
+ 
+ 
+
+percent change dAf/Af=0.004998
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(1+bAo)=200.000000
+ 
+ 
+
+d loop bandwidth=125663.706144
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.5/Ex12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(1+bvAv)=2e+03
+ 
+ 
+ 
+
+input resistance=20.00 MOhm
+ 
+ 
+
+output resistance=10.00 Ohm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.6/Ex12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(1+biAi)=2e+03
+ 
+ 
+
+input resistance =5.00Ohm
+ 
+ 
+ 
+
+output resistance=40.00 MOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.7/Ex12_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+feedback transfer function=0.10
+ 
+ 
+ 
+
+input resistance=50.05 MOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.11/Ex12_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal parameter resistance=2.64 KOhm
+ 
+ 
+
+transconductance=37.808 mA/V
+ 
+ 
+
+transconductance transfer function=-0.482 mA/V
+ 
+ 
+ 
+
+Agf=-1.00 mA/V
+ 
+ 
+
+voltage gain=-1.93
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.16/Ex12_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+equivalent resistance=2.04 KOhm
+ 
+ 
+
+the loop gain=4.09
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.19/Ex12_19.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+frequency at -180 degree=1.732051e+05f Hz
+ 
+ 
+ 
+
+magnitude of the loop gain=2.50
+ 
+ 
+ 
+
+magnitude of the loop gain=0.25
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.22/Ex12_22.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+low frequency d loop gain=99.99
+ 
+ 
+
+d loop 3dB frequency=100.01 KHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH12/EX12.23/Ex12_23.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Miller capacitance=3.003000e-08 F
+ 
+ 
+
+dominant pole frequency =10.60Hz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+reference current=0.72 mA
+ 
+ 
+ 
+
+Ic1=Ic2=Ic3=Ic4= 9.500microA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+voltage at collector of Q6=-13.79 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ 
+ 
+ 
+
+collector currents in Q17=0.54 mA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+collector current in Q16=15.78 microA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.3/Ex13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ic13a=0.18 mA
+ 
+ 
+ 
+ 
+
+current in Ro=0.012 mA
+ 
+ 
+
+current in Q19 =0.168mA
+ 
+ 
+ 
+
+B-E voltage of Q19=0.61 V
+ 
+ 
+ 
+ 
+ 
+ 
+
+base current in Q18=0.840 microA
+ 
+ 
+
+currents in Q18=12.840 microA
+ 
+ 
+ 
+
+B-E voltage of Q18=0.55 V
+ 
+ 
+
+voltage difference Vbb=1.16 V
+ 
+ 
+ 
+
+quiescent currents in Q14 and Q20 =139microA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.4/Ex13_4.sce #
+ 
+ 
+ 
+ 
+ Va  =
+ 
+    50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+input resistance to gain stage=9.63 KOhm
+ 
+ 
+ 
+ 
+ 
+
+Re=18.644 KOhm
+ 
+ 
+
+r16=329.11 KOhm
+ 
+ 
+ 
+
+Ri2=4.08 KOhm
+ 
+ 
+
+resistance of the active load=547.37 KOhm
+ 
+ 
+
+transconductance =0.365mA/V
+ 
+ 
+ 
+
+ro6=5.26 MOhm
+ 
+ 
+
+effective resistance of active load=7.18 MOhm
+ 
+ 
+ 
+
+Resistance ro4=5.26 KOhm
+ 
+ 
+ 
+ 
+ 
+
+small signal differential voltage gain=-635.97
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.5/Ex13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+r20=9.42 KOhm
+ 
+ 
+
+R20=111.42 KOhm
+ 
+ 
+ 
+
+R19=277.78 KOhm
+ 
+ 
+
+r22=7.22 KOhm
+ 
+ 
+ 
+
+input resistance to the output stage=4.06 MOhm
+ 
+ 
+ 
+
+effective resistance of the active load=92.59 KOhm
+ 
+ 
+ 
+
+output resistance Ro17 =92.59KOhm
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal voltage gain=-283.53
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.6/Ex13_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rc17=283.23 KOhm
+ 
+ 
+
+Rc22=1.51 KOhm
+ 
+ 
+ 
+
+Rc19=277.78 KOhm
+ 
+ 
+
+Rc20=0.03454 KOhm
+ 
+ 
+ 
+ 
+
+output resistance=56.54 Ohm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.7/Ex13_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+input capacitance=8580.00 pF
+ 
+ 
+ 
+ 
+ 
+
+gate stage input resistance=3.04MOhm 
+ 
+ 
+
+equivalent resistance=1.74 MOhm
+ 
+ 
+ 
+ 
+
+dominant pole frequency =10.67Hz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.9/Ex13_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+conduction parameters of M1 and M2=125microA/V^2
+ 
+ 
+ 
+ 
+ 
+
+output resistance=2.51 MOhm
+ 
+ 
+ 
+ 
+ 
+
+the gain of input stage=125.16 
+ 
+ 
+ 
+ gm7  =
+ 
+    0.1992486  
+ 
+
+transconductance of M7=0.20 mA/V
+ 
+ 
+ 
+
+output resistance of M7 and M8 =1.26MOhm
+ 
+ 
+ 
+ 
+
+gain of the second stage=125.47
+ 
+ 
+
+overall voltage gain=15703.52
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.10/Ex13_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance gm1=gm8=316.228 microA/V
+ 
+ 
+
+transconductance=447.214 microA/V
+ 
+ 
+ 
+ 
+ 
+
+output resistance ro1=ro8=ro6=ro10=1.000 MOhm
+ 
+ 
+ 
+
+ro4=0.500 MOhm
+ 
+ 
+
+composite output resistances =316.23 MOhm
+ 
+ 
+
+composite output resistances=149.07 MOhm
+ 
+ 
+
+differential voltage gain=32037.72
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.12/Ex13_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+input resistance to the gain stage=26.00 KOhm
+ 
+ 
+ 
+
+small signal voltage gain=12.74
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.13/Ex13_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+transconductance=7.69 mA/V
+ 
+ 
+
+output resistance=750.00 KOhm
+ 
+ 
+
+voltage gain=5769.23 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH13/EX13.14/Ex13_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+effective input capacitance=69228.00 pF
+ 
+ 
+ 
+ 
+
+dominant pole frequency=88 Hz
+ 
+ 
+ 
+ 
+
+unity gain bandwidth=6.48 MHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+d loop input resistance =0.10Ohm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+input resistance =500MOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.5/Ex14_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+unity gain bandwidth=1e+06 Hz
+ 
+ 
+ 
+
+d loop gain=50.00
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.6/Ex14_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+slew rate=0.63 V/micros
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.7/Ex14_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+small signal d loop bandwidth=100.00 KHz
+ 
+ 
+
+full power bandwidth=15.92 KHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.8/Ex14_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+the offset voltage =0.001269V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.10/Ex14_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+difference in conduction parameter=5.00 microA/V^2
+ 
+ 
+
+average of the conduction parameter=102.50 microA/V^2
+ 
+ 
+
+offset voltage=0.024091 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.11/Ex14_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Voltage Vy =14.99mV
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH14/EX14.13/Ex14_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+output voltage =0.11V
+ 
+ 
+
+R3=9.09 KOhm
+ 
+ 
+
+output voltage=0.01 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.2/Ex15_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+clock frequency =50.00KHz
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.3/Ex15_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+capacitances C2/C1=0.628 
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.4/Ex15_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+the oscillation frequency =918.88Hz
+ 
+ 
+ 
+ 
+
+R2=8 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.6/Ex15_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+upper crossover voltage=1 V
+ 
+ 
+
+lower crossover voltage=-1 V
+ 
+ 
+
+hysteresis width =2V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.7/Ex15_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R2/R1=499.00 
+ 
+ 
+
+reference voltage=2.0040 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.10/Ex15_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Resistance R=6.06 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.13/Ex15_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+peak output voltage=20.00 V
+ 
+ 
+
+peak load current =2.00A
+ 
+ 
+
+required supply voltage=31.42 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.14/Ex15_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+output resistance=0.026756 Ohm
+ 
+ 
+
+load regulation =0.80
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.15/Ex15_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+output resistance=1.04 mOhm
+ 
+ 
+ 
+ 
+ 
+
+percent change=-1.04e-05
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH15/EX15.16/Ex15_16.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+bias current =0.571 mA
+ 
+ 
+
+temperature compensated reference voltage=3.43 V
+ 
+ 
+ 
+
+R12=2.97 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH16/EX16.3/Ex16_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kd/Kl=25.09
+ 
+ 
+ yd  =
+ 
+    12.6  
+ 
+ yl  =
+ 
+    0.5  
+ 
+ 
+
+drain current =147.09 microA
+ 
+ 
+
+power dissipation=735.44 microW
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH16/EX16.4/Ex16_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kd/Kl=4.82
+ 
+ 
+ yd  =
+ 
+    2.41  
+ 
+ yl  =
+ 
+    0.5  
+ 
+ 
+
+drain current=35.00 microA
+ 
+ 
+
+power dissipation =175.00 microW
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH16/EX16.5/Ex16_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vih=1.61 V
+ 
+ 
+
+output voltage corresponding to Vih=0.481 V
+ 
+ 
+
+noise margin=0.319 V
+ 
+ 
+
+noise margin=2.587 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH16/EX16.9/Ex16_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+input voltage=2.50 V
+ 
+ 
+ 
+
+output voltage at the transition point for PMOS =3.50V
+ 
+ 
+ 
+
+output voltage at the transition point for NMOS=1.50 V
+ 
+ 
+ 
+
+input voltage =5.00V
+ 
+ 
+ 
+ 
+
+output voltage at the transition point for PMOS =6.00V
+ 
+ 
+
+output voltage at the transition point for NMOS =4.00V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH16/EX16.10/Ex16_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+power dissipation in the CMOS inverter=5.000 microW
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH16/EX16.11/Ex16_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+input voltage at the transition points Vil=2.125 V
+ 
+ 
+
+input voltage at the transition points Vih=2.875V
+ 
+ 
+
+output voltage =4.625 V
+ 
+ 
+
+output voltage =0.38 V
+ 
+ 
+
+noise margin =1.750 V
+ 
+ 
+
+noise margin=1.750 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH16/EX16.15/Ex16_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+frain currents in M1 and M3 =15microA
+ 
+ 
+
+power dissipation in the circuit=45 microW
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    4.9494897  
+    0.0505103  
+ 
+ 
+ Q=50.5 (mV)   
+ 
+ 
+ 
+ 
+ 
+ ans  =
+ 
+    4.9866533  
+    0.0050134  
+ 
+ 
+ 
+ Q=5 (mV)   
+ 
+ 
+
+drain current =1.50 microA
+ 
+ 
+
+power dissipation in the circuit =4.49 microW
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.1/Ex17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+emitter current=2.000 mA
+ 
+ 
+ 
+ 
+
+vo1=vo2=4 V
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vo2=3.00 V
+ 
+ 
+ 
+ 
+ 
+
+emitter current =2.465mA
+ 
+ 
+ 
+
+vo1=2.53 V
+ 
+ vo2  =
+ 
+    5.  
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.2/Ex17_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+emitter voltage =-1.40V
+ 
+ 
+
+emitter current=3.22 mA
+ 
+ 
+ 
+ 
+
+Rc1=0.22 KOhm
+ 
+ 
+
+NOR output logic 0 value=-1.40 V
+ 
+ 
+ 
+
+vE=-1.75 V
+ 
+ 
+
+iE=2.92 mA
+ 
+ 
+ 
+ 
+
+Rc2=0.24 KOhm
+ 
+ 
+
+OR logic 0 value is=-1.40 V
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.3/Ex17_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vb5 =-0.35V
+ 
+ 
+ 
+
+i1=1.400 mA
+ 
+ 
+ 
+ 
+ 
+ 
+
+R2=2.464 KOhm
+ 
+ 
+ 
+
+Rs=2.964 KOhm
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.4/Ex17_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+current i3=3.00 mA
+ 
+ 
+
+current i4 =2.53mA 
+ 
+
+power dissipation=60.08 mW
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.5/Ex17_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+emitter current=3.18 mA
+ 
+ 
+ 
+
+input base current=62.31 microA
+ 
+ 
+ 
+
+i3=2.97 mA
+ 
+ 
+ 
+
+N=123
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.7/Ex17_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vor  =
+ 
+    1.7  
+ 
+ Vor  =
+ 
+    1.3  
+ 
+ 
+ 
+
+emitter current=100.00 microA
+ 
+ 
+
+maximum current in Rc =50.00microA
+ 
+ 
+
+current through the diode=50.00 microA
+ 
+ 
+
+power dissipation=170.00 microW
+ 
+ 
+ 
+
+iE =125.00microA
+ 
+ 
+
+power dissipation =212.50microW
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.9/Ex17_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vB2=0.20 V
+ 
+ 
+
+base voltage=0.90 V
+ 
+ 
+
+current i1=1.02 mA
+ 
+ 
+
+vB1=2.30 V
+ 
+ 
+
+collector voltage=0.90 V
+ 
+ 
+
+current i1 =0.68mA
+ 
+ 
+
+iB2=0.81 mA
+ 
+ 
+
+i2 =2.56mA
+ 
+ 
+
+iE2=3.37 mA
+ 
+ 
+ 
+
+current in the pull down resistor=0.80 mA
+ 
+ 
+
+base drive to the output transistor=2.57 mA
+ 
+ 
+
+i1=1.23 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.11/Ex17_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+internal collector current=2.885 mA
+ 
+ 
+
+internal base current =0.115mA
+ 
+ 
+
+Schottky diode current=0.885 mA
+ 
+ 
+ 
+
+internal collector current=20.192 mA
+ 
+ 
+
+internal base current =0.808mA
+ 
+ 
+
+Schottky diode current=0.192 mA
+ 
+ 
+grepthis#Electronic_Circuit_Analysis_And_Design_D._A._Neamen_1223/CH17/EX17.12/Ex17_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+i1=0.215 mA
+ 
+ 
+
+power dissipation=0.989 mW
+ 
+ 
+
+v1=1.400 V
+ 
+ 
+
+voltage vC2 =1.10V
+ 
+ 
+
+current i1 =0.180mA
+ 
+ 
+
+current i2 =0.487mA
+ 
+ 
+
+power dissipation for high input condition=3.337 mW
+ 
+ 

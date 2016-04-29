@@ -1,0 +1,1959 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 65
+
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH2/EX2.1/2_1.sce #
+ 
+ 
+ F  =
+ 
+    1500.  
+ 
+ L  =
+ 
+    54.  
+ 
+ t  =
+ 
+    12.  
+ 
+ 
+ hp  =
+ 
+    1.0227273  
+ 
+ 
+Horsepower expended at the output = 1.02 hp 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH2/EX2.2/2_2.sce #
+ 
+ 
+ F  =
+ 
+    1500.  
+ 
+ t1  =
+ 
+    10.  
+ 
+ F1  =
+ 
+    1200.  
+ 
+ 
+ t2  =
+ 
+    12.5  
+ 
+ 
+time required to raise the load = 12.5 sec 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH2/EX2.3/2_3.sce #
+ 
+ 
+ d  =
+ 
+    2.  
+ 
+ F  =
+ 
+    1000.  
+ 
+ t  =
+ 
+    10.  
+ 
+ L  =
+ 
+    48.  
+ 
+ S  =
+ 
+    24.  
+ 
+ 
+ ohp  =
+ 
+    0.7272727  
+ 
+ Ac  =
+ 
+    3.1415927  
+ 
+ P  =
+ 
+    636.61977  
+ 
+ 
+Pressure within the system = 637 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH2/EX2.4/2_4.sce #
+ 
+ 
+ P  =
+ 
+    1000.  
+ 
+ Q  =
+ 
+    3.  
+ 
+ 
+ Fhp  =
+ 
+    1.7502917  
+ 
+ 
+Fluid horsepower = 1.75 hp 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH2/EX2.5/2_5.sce #
+ 
+ 
+ Fi  =
+ 
+    25.  
+ 
+ li  =
+ 
+    12.  
+ 
+ ni  =
+ 
+    30.  
+ 
+ ti  =
+ 
+    60.  
+ 
+ F0  =
+ 
+    1000.  
+ 
+ Lo  =
+ 
+    6.  
+ 
+ to  =
+ 
+    60.  
+ 
+ 
+ lhp  =
+ 
+    0.0227273  
+ 
+ Ohp  =
+ 
+    0.0151515  
+ 
+ eo  =
+ 
+    66.666667  
+ 
+ 
+overall efficiency = 67 percent 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH2/EX2.6/2_6.sce #
+ 
+ 
+ vp  =
+ 
+    0.75  
+ 
+ n  =
+ 
+    9.  
+ 
+ t  =
+ 
+    10.  
+ 
+ d  =
+ 
+    2.  
+ 
+ Sc  =
+ 
+    2.  
+ 
+ 
+ Qt  =
+ 
+    0.1753247  
+ 
+ Ac  =
+ 
+    3.1415927  
+ 
+ Qa  =
+ 
+    0.1631996  
+ 
+ s  =
+ 
+    0.0121251  
+ 
+ s1  =
+ 
+    6.9157732  
+ 
+ ev  =
+ 
+    93.084227  
+ 
+ 
+Slip = 0.012 gpm 
+ 
+ Slip perecentage= 7 percent 
+ 
+ volumetric efficiency = 93 perecnt 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH2/EX2.7/2_7.sce #
+ 
+ 
+ eo  =
+ 
+    87.  
+ 
+ em  =
+ 
+    94.  
+ 
+ 
+ ee  =
+ 
+    92.553191  
+ 
+ 
+Electro-mechanical efficiency = 93 percent 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.1/3_1.sce #
+ 
+ 
+ M  =
+ 
+    5.  
+ 
+ g  =
+ 
+    32.  
+ 
+ M1  =
+ 
+    10.  
+ 
+ g1  =
+ 
+    9.8  
+ 
+ M2  =
+ 
+    15.  
+ 
+ g2  =
+ 
+    980.  
+ 
+ 
+ W  =
+ 
+    160.  
+ 
+ W1  =
+ 
+    98.  
+ 
+ W2  =
+ 
+    14700.  
+ 
+ 
+weight = 160 lb 
+
+ weight = 98 N 
+
+ weight = 14700 dyn 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.2/3_2.sce #
+ 
+ 
+ M  =
+ 
+    20.  
+ 
+ V  =
+ 
+    25.  
+ 
+ 
+ d  =
+ 
+    0.8  
+ 
+ d1  =
+ 
+    800.  
+ 
+ d2  =
+ 
+    49.844237  
+ 
+ 
+density = 0.80 gm/cm^3 
+
+ density = 800 kg/m^3 
+
+ density = 49.8 slugs/ft^3 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.3/3_3.sce #
+ 
+ 
+ W  =
+ 
+    7200.  
+ 
+ V  =
+ 
+    120.  
+ 
+ W1  =
+ 
+    3600.  
+ 
+ V1  =
+ 
+    50.  
+ 
+ W2  =
+ 
+    500.  
+ 
+ V2  =
+ 
+    7000.  
+ 
+ 
+ s  =
+ 
+    60.  
+ 
+ s1  =
+ 
+    72.  
+ 
+ s2  =
+ 
+    0.0714286  
+ 
+ 
+specific weight = 60 lbs/ft^3 
+
+ specific weight = 72 N/m^3 
+
+ specific weight = 0.0714 dyn/cm^3 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.4/3_4.sce #
+ 
+ 
+ F  =
+ 
+    200.  
+ 
+ A  =
+ 
+    4.  
+ 
+ 
+ P  =
+ 
+    50.  
+ 
+ 
+Pressure = 50 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.5/3_5.sce #
+ 
+ 
+ P  =
+ 
+    1500.  
+ 
+ A  =
+ 
+    2.  
+ 
+ 
+ F  =
+ 
+    3000.  
+ 
+ 
+Force = 3000 lb 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.6/3_6.sce #
+ 
+ 
+ s  =
+ 
+    0.85  
+ 
+ h  =
+ 
+    50.  
+ 
+ 
+ P  =
+ 
+    18.4025  
+ 
+ 
+Pressure = 18.4 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.7/3_7.sce #
+ 
+ 
+ P  =
+ 
+    1500.  
+ 
+ d  =
+ 
+    0.78  
+ 
+ 
+ h  =
+ 
+    4442.3077  
+ 
+ 
+head = 4442.3 ft 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.8/3_8.sce #
+ 
+ 
+ k  =
+ 
+    0.12  
+ 
+ t  =
+ 
+    225.  
+ 
+ d  =
+ 
+    0.82  
+ 
+ 
+ v  =
+ 
+    27.  
+ 
+ u  =
+ 
+    22.14  
+ 
+ 
+kinematic viscosity = 22.1 cP 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.9/3_9.sce #
+ 
+ 
+ t  =
+ 
+    80.  
+ 
+ 
+ v  =
+ 
+    15.6425  
+ 
+ v1  =
+ 
+    0.0242125  
+ 
+ 
+equivalent viscosity = 15.64 cst 
+ 
+ equivalent viscosity = 0.024 newtons 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH3/EX3.11/3_11.sce #
+ 
+ 
+ F  =
+ 
+    45.  
+ 
+ L  =
+ 
+    20000.  
+ 
+ r  =
+ 
+    7.86  
+ 
+ s  =
+ 
+    1.27  
+ 
+ 
+ CF  =
+ 
+    0.0393864  
+ 
+ 
+coefficient of friction = 0.039  
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH4/EX4.1/4_1.sce #
+ 
+ 
+ d  =
+ 
+    4.  
+ 
+ p  =
+ 
+    20.  
+ 
+ d1  =
+ 
+    0.14  
+ 
+ 
+ Gd  =
+ 
+    3.776  
+ 
+ Gw  =
+ 
+    0.196  
+ 
+ 
+Groove diameter = 3.776 in 
+ 
+ Groove width = 0.196 in 
+ 
+ outside diameter = 4 in 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH4/EX4.2/4_2.sce #
+ 
+ 
+ D  =
+ 
+    2.  
+ 
+ S  =
+ 
+    10.  
+ 
+ s  =
+ 
+    10000.  
+ 
+ V  =
+ 
+    231.  
+ 
+ 
+ di  =
+ 
+    0.0003676  
+ 
+ 
+thickness = 0.0003676 in 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH4/EX4.3/4_3.sce #
+ 
+ 
+ d  =
+ 
+    0.275  
+ 
+ p  =
+ 
+    15.  
+ 
+ p1  =
+ 
+    20.  
+ 
+ p3  =
+ 
+    8.  
+ 
+ 
+ Fs  =
+ 
+    0.07425  
+ 
+ Fs1  =
+ 
+    27.  
+ 
+ 
+final  available squeeze = 27.00 percent 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.1/5_1.sce #
+ 
+ 
+ Q  =
+ 
+    40.  
+ 
+ d  =
+ 
+    2.  
+ 
+ d1  =
+ 
+    4.  
+ 
+ 
+ v1  =
+ 
+    4.080896  
+ 
+ v2  =
+ 
+    1.020224  
+ 
+ 
+velocity of fluid in the conductor = 4.08 fps 
+ 
+  velocity of fluid in a maniflod = 1.02 fps 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.2/5_2.sce #
+ 
+ 
+ Q  =
+ 
+    18.  
+ 
+ d  =
+ 
+    2.  
+ 
+ v2  =
+ 
+    10.  
+ 
+ 
+ v1  =
+ 
+    1.8364032  
+ 
+ d2  =
+ 
+    0.8570655  
+ 
+ 
+minnimum diameter = 0.857 in 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.3/5_3.sce #
+ 
+ 
+ Q  =
+ 
+    10.  
+ 
+ d  =
+ 
+    1.  
+ 
+ 
+ v  =
+ 
+    4.080896  
+ 
+ 
+veloctity = 4.1 fps 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.4/5_4.sce #
+ 
+ 
+ S  =
+ 
+    0.91  
+ 
+ g  =
+ 
+    32.2  
+ 
+ P1  =
+ 
+    1000.  
+ 
+ Q  =
+ 
+    500.  
+ 
+ d  =
+ 
+    3.  
+ 
+ d1  =
+ 
+    1.  
+ 
+ 
+ v1  =
+ 
+    22.671644  
+ 
+ v2  =
+ 
+    204.0448  
+ 
+ P2  =
+ 
+    748.46434  
+ 
+ 
+pressure = 747 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.5/5_5.sce #
+ 
+ 
+ P1  =
+ 
+    1000.  
+ 
+ S  =
+ 
+    0.85  
+ 
+ P2  =
+ 
+    350.  
+ 
+ Hl  =
+ 
+    679.41  
+ 
+ 
+ Ha  =
+ 
+    2717.6471  
+ 
+ He  =
+ 
+    1087.0606  
+ 
+ 
+ 
+energy exptracted from the fluid = 1087.06 ft 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.6/5_6.sce #
+ 
+ 
+ g  =
+ 
+    32.  
+ 
+ h  =
+ 
+    40.  
+ 
+ 
+ v  =
+ 
+    50.596443  
+ 
+ 
+velocty of the fluid = 50.6 fps 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.7/5_7.sce #
+ 
+ 
+ Q  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    2.  
+ 
+ S  =
+ 
+    0.85  
+ 
+ dp  =
+ 
+    120.  
+ 
+ 
+ Cf  =
+ 
+    0.7038825  
+ 
+ 
+friction coefficient for the orifice = 0.70  
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.8/5_8.sce #
+ 
+ 
+ Q  =
+ 
+    100.  
+ 
+ d  =
+ 
+    1.  
+ 
+ kv  =
+ 
+    0.05  
+ 
+ 
+ v  =
+ 
+    40.80896  
+ 
+ Nr  =
+ 
+    9794.1503  
+ 
+ 
+Reynolds number = 9799  
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.9/5_9.sce #
+ 
+ 
+ v  =
+ 
+    27.  
+ 
+ s  =
+ 
+    0.85  
+ 
+ d  =
+ 
+    1.  
+ 
+ 
+ V  =
+ 
+    31.764706  
+ 
+ V1  =
+ 
+    0.0492988  
+ 
+ V2  =
+ 
+    8.2164706  
+ 
+ V3  =
+ 
+    16.432941  
+ 
+ 
+Critical velocity = 16.43 fps 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.10/5_10.sce #
+ 
+ 
+ Q  =
+ 
+    200.  
+ 
+ d  =
+ 
+    2.  
+ 
+ S  =
+ 
+    0.91  
+ 
+ f  =
+ 
+    0.05  
+ 
+ L  =
+ 
+    800.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    20.40448  
+ 
+ h  =
+ 
+    611.37225  
+ 
+ 
+Pressure drop = 611 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.11/5_11.sce #
+ 
+ 
+ Q  =
+ 
+    15.  
+ 
+ d  =
+ 
+    1.  
+ 
+ s  =
+ 
+    0.85  
+ 
+ v  =
+ 
+    0.08  
+ 
+ L  =
+ 
+    400.  
+ 
+ 
+ V  =
+ 
+    6.121344  
+ 
+ Nr  =
+ 
+    1836.4032  
+ 
+ h  =
+ 
+    71.595239  
+ 
+ 
+Pressure drop = 71.60 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.12/5_12.sce #
+ 
+ 
+ Q  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    2.  
+ 
+ V  =
+ 
+    0.3  
+ 
+ L  =
+ 
+    500.  
+ 
+ f  =
+ 
+    0.034  
+ 
+ S  =
+ 
+    0.85  
+ 
+ g  =
+ 
+    32.2  
+ 
+ 
+ v  =
+ 
+    102.0224  
+ 
+ Nr  =
+ 
+    8161.792  
+ 
+ h  =
+ 
+    6067.5336  
+ 
+ 
+Pressure drop = 6073 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH5/EX5.13/5_13.sce #
+ 
+ 
+ Q  =
+ 
+    500.  
+ 
+ d  =
+ 
+    2.  
+ 
+ S  =
+ 
+    0.91  
+ 
+ kv  =
+ 
+    0.25  
+ 
+ r  =
+ 
+    0.0012  
+ 
+ K  =
+ 
+    3.  
+ 
+ f  =
+ 
+    0.04  
+ 
+ 
+ v  =
+ 
+    51.0112  
+ 
+ Nr  =
+ 
+    4897.0752  
+ 
+ Rr  =
+ 
+    0.0072  
+ 
+ Le  =
+ 
+    12.5  
+ 
+ 
+equivalent length = 12.5 ft 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH6/EX6.1/6_1.sce #
+ 
+ 
+ P  =
+ 
+    2500.  
+ 
+ Q  =
+ 
+    3.  
+ 
+ p  =
+ 
+    5.  
+ 
+ N  =
+ 
+    1725.  
+ 
+ 
+ eo  =
+ 
+    87.514586  
+ 
+ To  =
+ 
+    15.217391  
+ 
+ 
+input torque = 15.22 lb-ft 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH6/EX6.2/6_2.sce #
+ 
+ 
+ Q  =
+ 
+    52.  
+ 
+ v  =
+ 
+    3.75  
+ 
+ N  =
+ 
+    3300.  
+ 
+ 
+ ev  =
+ 
+    97.066667  
+ 
+ 
+volumetric efficiency = 97.07 percent 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH6/EX6.3/6_3.sce #
+ 
+ 
+ eo  =
+ 
+    87.  
+ 
+ ev  =
+ 
+    94.  
+ 
+ p  =
+ 
+    10.  
+ 
+ 
+ em  =
+ 
+    0.9255319  
+ 
+ em1  =
+ 
+    92.553191  
+ 
+ Fhp  =
+ 
+    0.7446809  
+ 
+ 
+frictional horsepower = 0.8 hp 
+ 
+ mechanical efficiency = 92.55 percent 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH6/EX6.4/6_4.sce #
+ 
+ 
+ n  =
+ 
+    9.  
+ 
+ N  =
+ 
+    3000.  
+ 
+ s  =
+ 
+    0.75  
+ 
+ d  =
+ 
+    0.5  
+ 
+ 
+ Q  =
+ 
+    17.21246  
+ 
+ 
+volume flow rate = 17.2 gpm 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH6/EX6.5/6_5.sce #
+ 
+ 
+ d  =
+ 
+    6.  
+ 
+ N  =
+ 
+    120.  
+ 
+ Q  =
+ 
+    5.  
+ 
+ 
+ Vc  =
+ 
+    14.687966  
+ 
+ 
+minimum size of the reservoir = 14.69 gpm 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH7/EX7.1/7_1.sce #
+ 
+ 
+ Q  =
+ 
+    30.  
+ 
+ dp  =
+ 
+    300.  
+ 
+ S  =
+ 
+    0.85  
+ 
+ Cv  =
+ 
+    5.41  
+ 
+ 
+ Cv1  =
+ 
+    1.5968719  
+ 
+ dp1  =
+ 
+    26.137672  
+ 
+ 
+flow coefficient = 1.597 gpm 
+ 
+ pressure drop = 26 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.1/8_1.sce #
+ 
+ 
+ F  =
+ 
+    80000.  
+ 
+ P  =
+ 
+    1600.  
+ 
+ 
+ db  =
+ 
+    7.9788456  
+ 
+ 
+size of the cylinder postion = 8 in 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.2/8_2.sce #
+ 
+ 
+ Q  =
+ 
+    25.  
+ 
+ A  =
+ 
+    0.533  
+ 
+ 
+ nu  =
+ 
+    15.048468  
+ 
+ nucylinder  =
+ 
+    38.316083  
+ 
+ 
+Fluid velocity = 15.05 
+
+ Cylinder velocity = 38.32 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.3/8_3.sce #
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ P  =
+ 
+    2000.  
+ 
+ s  =
+ 
+    20.  
+ 
+ 
+ Cl  =
+ 
+    30.  
+ 
+ F  =
+ 
+    14137.167  
+ 
+ stl  =
+ 
+  - 1.  
+ 
+ 
+length of the stop tube= 30 in 
+ 
+ thrust on the rod= 14140 lb 
+ 
+ Stop Tube length= -1 stl 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.4/8_4.sce #
+ 
+ 
+ v  =
+ 
+    120.  
+ 
+ S  =
+ 
+    1.5  
+ 
+ w  =
+ 
+    8000.  
+ 
+ 
+ ga  =
+ 
+    0.49632  
+ 
+ F  =
+ 
+    3970.56  
+ 
+ 
+total force decessary to decelarate the load= 3968 lb 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.5/8_5.sce #
+ 
+ 
+ P  =
+ 
+    750.  
+ 
+ d  =
+ 
+    3.  
+ 
+ w  =
+ 
+    1500.  
+ 
+ ga  =
+ 
+    0.172  
+ 
+ f  =
+ 
+    0.12  
+ 
+ v  =
+ 
+    50.  
+ 
+ s  =
+ 
+    0.75  
+ 
+ 
+ Fa  =
+ 
+    5301.4376  
+ 
+ F  =
+ 
+    5379.4376  
+ 
+ 
+total force decessary to decelarate the load= 5377 lb 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.6/8_6.sce #
+ 
+ 
+ d  =
+ 
+    3.  
+ 
+ d1  =
+ 
+    1.5  
+ 
+ F  =
+ 
+    7500.  
+ 
+ 
+ A1  =
+ 
+    5.3014376  
+ 
+ P  =
+ 
+    1414.7106  
+ 
+ 
+pressure in the cylinder = 1414 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.7/8_7.sce #
+ 
+ 
+ P  =
+ 
+    2000.  
+ 
+ Vm  =
+ 
+    0.5  
+ 
+ 
+ T  =
+ 
+    160.  
+ 
+ 
+Theotrical torque = 160 lb-in 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.8/8_8.sce #
+ 
+ 
+ Q  =
+ 
+    7.5  
+ 
+ Vm  =
+ 
+    2.  
+ 
+ 
+ N  =
+ 
+    866.25  
+ 
+ 
+Theotrical speed of fluid power = 866 rpm 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.9/8_9.sce #
+ 
+ 
+ Vm  =
+ 
+    0.55  
+ 
+ N  =
+ 
+    3400.  
+ 
+ 
+ Q  =
+ 
+    8.0952381  
+ 
+ 
+effective flow rate = 8.10 gpm 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.10/8_10.sce #
+ 
+ 
+ T  =
+ 
+    32.  
+ 
+ N  =
+ 
+    1200.  
+ 
+ P  =
+ 
+    2000.  
+ 
+ Q  =
+ 
+    7.5  
+ 
+ 
+ eo  =
+ 
+    83.660131  
+ 
+ 
+overall efficiency = 84 percent 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.11/8_11.sce #
+ 
+ 
+ Vm  =
+ 
+    0.6  
+ 
+ N  =
+ 
+    2400.  
+ 
+ Qa  =
+ 
+    6.5  
+ 
+ p  =
+ 
+    50.  
+ 
+ 
+ ev  =
+ 
+    95.904096  
+ 
+ Tf  =
+ 
+    0.2662338  
+ 
+ Cl  =
+ 
+    0.1331169  
+ 
+ 
+Case drain loss = 0.133 gpm 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH8/EX8.12/8_12.sce #
+ 
+ 
+ eo  =
+ 
+    88.  
+ 
+ ev  =
+ 
+    97.  
+ 
+ 
+ em  =
+ 
+    90.721649  
+ 
+ 
+mechanical efficency = 90.72 percent 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH9/EX9.1/9_1.sce #
+ 
+ 
+ t  =
+ 
+    4.  
+ 
+ Ihp  =
+ 
+    8.  
+ 
+ Ohp  =
+ 
+    5.  
+ 
+ 
+ Hl  =
+ 
+    30528.  
+ 
+ 
+total Btu heat loss over a period of 4hr = 30528 Btu 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH9/EX9.2/9_2.sce #
+ 
+ 
+ t  =
+ 
+    1.  
+ 
+ P  =
+ 
+    1000.  
+ 
+ Q  =
+ 
+    3.  
+ 
+ Sg  =
+ 
+    0.85  
+ 
+ s  =
+ 
+    0.42  
+ 
+ 
+ Hl  =
+ 
+    4452.7421  
+ 
+ Wf  =
+ 
+    9547.2  
+ 
+ Tr  =
+ 
+    1.1104582  
+ 
+ 
+rise in temperature of the fluid = 1.11 F 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH9/EX9.3/9_3.sce #
+ 
+ 
+ P  =
+ 
+    1500.  
+ 
+ d  =
+ 
+    12.  
+ 
+ V  =
+ 
+    50.  
+ 
+ 
+ F  =
+ 
+    169646.  
+ 
+ S  =
+ 
+    102.12442  
+ 
+ 
+Weight = 169646 lb 
+Stroke length = 102.1 in 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH9/EX9.4/9_4.sce #
+ 
+ 
+ P  =
+ 
+    1500.  
+ 
+ V  =
+ 
+    5.  
+ 
+ P1  =
+ 
+    3000.  
+ 
+ P2  =
+ 
+    2000.  
+ 
+ 
+ V2  =
+ 
+    2326.9785  
+ 
+ V1  =
+ 
+    20.049238  
+ 
+ 
+Size of accumulator = 20.05 gal 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH9/EX9.5/9_5.sce #
+ 
+ 
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+
+ beta  =
+ 
+    1.4  
+ 
+ p3  =
+ 
+    2014.7  
+ 
+ p2  =
+ 
+    3014.7  
+ 
+ p1  =
+ 
+    1514.7  
+ 
+ deltav  =
+ 
+    1155.  
+ 
+ 
+ v2  =
+ 
+    3462.2782  
+ 
+ v1  =
+ 
+    5660.7561  
+ 
+ perdiff  =
+ 
+    18.257386  
+ 
+ 
+volume 2 = 3462.3 
+
+ volume 1 = 5660.8 
+
+ percentage difference in volume = 18.26 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH9/EX9.6/9_6.sce #
+ 
+ 
+ Fr  =
+ 
+    20.  
+ 
+ P  =
+ 
+    2500.  
+ 
+ sf  =
+ 
+    4.  
+ 
+ Ts  =
+ 
+    55000.  
+ 
+ V  =
+ 
+    15.  
+ 
+ 
+ A  =
+ 
+    0.4277333  
+ 
+ ID  =
+ 
+    0.7379749  
+ 
+ Wt  =
+ 
+    0.0175708  
+ 
+ Wt1  =
+ 
+    0.0702833  
+ 
+ 
+Wall thcikness = 0.070 in 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.1/11_1.sce #
+ 
+ 
+ V1  =
+ 
+    20.  
+ 
+ P1  =
+ 
+    20.  
+ 
+ n  =
+ 
+    2.  
+ 
+ 
+ V2  =
+ 
+    10.  
+ 
+ P2  =
+ 
+    69.4  
+ 
+ P3  =
+ 
+    54.7  
+ 
+ 
+Guage pressure = 54.7 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.2/11_2.sce #
+ 
+ 
+ V1  =
+ 
+    1500.  
+ 
+ T  =
+ 
+    80.  
+ 
+ T1  =
+ 
+    200.  
+ 
+ 
+ V2  =
+ 
+    1833.3333  
+ 
+ 
+volume the heated gas will occupy = 1833.3 in^3 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.3/11_3.sce #
+ 
+ 
+ P1  =
+ 
+    2000.  
+ 
+ T  =
+ 
+    80.  
+ 
+ T1  =
+ 
+    250.  
+ 
+ 
+ P2  =
+ 
+    2648.9574  
+ 
+ P3  =
+ 
+    2634.2574  
+ 
+ 
+guage pressure = 2634 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.4/11_4.sce #
+ 
+ 
+ P1  =
+ 
+    2000.  
+ 
+ V1  =
+ 
+    1500.  
+ 
+ T2  =
+ 
+    250.  
+ 
+ T1  =
+ 
+    75.  
+ 
+ V2  =
+ 
+    1000.  
+ 
+ 
+ P2  =
+ 
+    4010.571  
+ 
+ P3  =
+ 
+    3995.871  
+ 
+ 
+guage pressure = 3996 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.5/11_5.sce #
+ 
+ 
+ s  =
+ 
+    10.  
+ 
+ d  =
+ 
+    2.  
+ 
+ r  =
+ 
+    40.  
+ 
+ P1  =
+ 
+    80.  
+ 
+ 
+ V1  =
+ 
+    0.7272205  
+ 
+ V2  =
+ 
+    4.6848832  
+ 
+ 
+air consumption in cfm of free air = 4.68 cfm free air 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.6/11_6.sce #
+ 
+ 
+ V  =
+ 
+    650.  
+ 
+ Cr  =
+ 
+    250.  
+ 
+ d  =
+ 
+    2.  
+ 
+ L  =
+ 
+    500.  
+ 
+ 
+ CR  =
+ 
+    18.006803  
+ 
+ pf  =
+ 
+    8.4200021  
+ 
+ 
+Pressure drop = 7 psi 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.7/11_7.sce #
+ 
+ 
+ d  =
+ 
+    1.  
+ 
+ P  =
+ 
+    100.  
+ 
+ C  =
+ 
+    1.  
+ 
+ T  =
+ 
+    70.  
+ 
+ s  =
+ 
+    0.07494  
+ 
+ 
+ Qw  =
+ 
+    2.0750903  
+ 
+ Qv  =
+ 
+    1661.4013  
+ 
+ 
+Amount of air passing thorugh orifice = 1661.4 cfm 
+ 
+grepthis#Fluid_Power_Theory_And_Applications_J._Sullivan_1280/CH11/EX11.8/11_8.sce #
+ 
+ 
+ t  =
+ 
+    5.  
+ 
+ Qr  =
+ 
+    10.  
+ 
+ P1  =
+ 
+    125.  
+ 
+ P2  =
+ 
+    100.  
+ 
+ 
+ Vr  =
+ 
+    29.4  
+ 
+ 
+Size of reservoir = 29.4 ft^3 
+ 

@@ -1,0 +1,76 @@
+grepthis#Engineering_Economics_R._Panneerselvam_1682/CH16/EX16.3/Exa16_3.sce #
+ 
+[2J[0;0H 
+ 
+ 
+ 
+ 
+ Given the following LP model :   
+ 
+ 
+ maximize Z = 6*X1 + 8*X2   
+ 
+ 
+ subject to   
+ 
+ 
+ 5*X1+10*X2 <= 60   
+ 
+ 
+ 4*X1+4*X2 <= 40   
+ 
+ 
+ X1,X2 >= 0   
+ 
+ 
+ The introduction of non-negative constraints X1>=0 and X2>=0 will eliminate the 2nd, 3rd and 4th quadrants of XY plane.   
+ 
+ 
+ Compute the cordinates to plot equations relting to the constraints on the XY plane as shown below :    
+ 
+ 
+ 5*X1+10*X2 <= 60   
+ 
+ 
+ When X1=0 : X2=6   
+ 
+ 
+ When X2=0 : X1=12   
+ 
+ 
+ 
+ 
+ 
+ Consider the 2nd constraint in the form :   
+ 
+ 
+ 4*X1+4*X2 <= 40   
+ 
+ 
+ When X1=0 : X2=10   
+ 
+ 
+ When X2=0 : X1=10   
+ 
+ 
+ 
+ 
+ 
+ The closed polygon is the feasible region at each of the corner points of the closed polygon is computed as follows by substituting its coord 
+      inates in the objective function :                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ ZA=6*0+8*0=0   ZB=6*10+8*0=60   ZC=6*8+8*2=64   ZD=6*0+8*6=48   
+ 
+ 
+ Since the type of the objective function is maximization, the solution corresponding to the maximum Z value should be selected as the optimum 
+       solution. The Z value is maximum for the corner point C. Hence, the corresponding solution is                                           
+ 
+ 
+ X1 = 8  X2 = 2 and Z(Optimum) = 64   
+ 
+ 

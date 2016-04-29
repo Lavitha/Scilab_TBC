@@ -1,0 +1,3013 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 121
+
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH1/EX1.1/ch1_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base value of voltage in line = 113.44 kV
+ 
+Base value of voltage in motor circuit=33 kV
+ 
+p.u value of reactance transformer =0.06839 p.u
+ 
+p.u value of impedence of line=0.3886 p.u
+ 
+p.u value of reactance of motor 1 =0.5510 p.u
+ 
+p.u value of reactance of motor 2 =0.826 p.u
+ 
+p.u value of reactance of motor 3 =0.3306 p.u
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH2/EX2.2/ch2_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+The self GMD of the conductor =0.003115 metres
+ 
+The mutual GMD of the conductor =2.016 metres
+  
+Inductance =1.294 mH/km
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH2/EX2.3/ch2_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D14  =
+ 
+    4r   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dseq.=    
+ 
+    2.1767019r   
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH2/EX2.4/ch2_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inductance of line A,LA=0.621 mH/km
+ 
+inductance of line B,LB=0.9 mH/km
+ 
+total inductance of line =1.47 mH/km
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH2/EX2.5/ch2_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inductance=0.607 mH/km/phase
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH2/EX2.6/ch2_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inductance =0.613 mH/km 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH2/EX2.7/ch2_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+inductance =0.906 mH/km/phase 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH3/EX3.1/ch3_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+capacitance =0.0000000089288 F/km
+ 
+charging current=0.2136 amp/km 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH3/EX3.2/ch3_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+capacitance =0.019057 micro-Farad/km
+ 
+charging current =0.76 amp/km 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH3/EX3.3/ch3_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+capacitance per km =0.01246 micro-Farad
+ 
+charging current =0.497 amp 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.1/ch4_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+efficiency= 96.3 percent 
+ 
+Sending end voltage,|Vs|=2168 volts 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.2/ch4_2.sce #
+ 
+ 
+ 
+when load is star connected
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+power input =6592 watts
+ 
+power output=5650 watts
+ 
+when load is delta connected
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+power input=14125.0 watts
+ 
+power output = 9417 watts 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.3/ch4_3.sce #
+ 
+ 
+ 
+ a  =
+ 
+    200.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+efficiency=0.9479 percent 
+ 
+ 
+ 
+ 
+ 
+Vs =20606 volts
+ 
+ 
+ regulation =8.15 percent 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.4/ch4_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neutral current =45.18 amps
+ 
+ 
+ 
+ 
+Voltage across Phase R =227.4 volts 
+ 
+Voltage across Phase Y =222.65 volts 
+ 
+Voltage across Phase B =227 volts 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.5/ch4_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using Nominal-T method
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+percent regulation=17.4  
+ 
+percent efficiency=93.5  
+
+ 
+Using Nominal-pi method
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+percent regulation=17.48  
+ 
+percent efficiency=93.5  
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.6/ch4_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vr =76210.236 volts 
+ 
+(i)The incident voltage to neutral at the recieving end =38105.118 volts 
+ 
+ 
+(ii)The reflected voltage to neutral at the recieving end=38105.118 volts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(iii) reflected voltage to neutral at 120 km from the recieving end =36.89 at angle of -8.02 
+ 
+incident voltage to neutral at 120 km from the recieving end = 39.37 at angle of 8.04
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.7/ch4_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Is  =
+ 
+    200.8578  
+ 
+ 
+ 
+efficiency=92.5 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.8/ch4_8.sce #
+ 
+ 
+ 
+ 
+ Ir  =
+ 
+    218.69328  
+ 
+ 
+ 
+ IR  =
+ 
+    175.11457 - 131.00244i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A=0.99 at an angle of 0.26 
+ 
+B=54.6 at an angle of 64 
+ 
+C=0.00 at an angle of -89.92 
+ 
+D=0.99 at an angle of 0.26 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.9/ch4_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using Nominal- pi method
+  
+Vs=86239 volts at an angle of 3.76 
+ 
+efficiency=92.62 percent
+ 
+
+Using Nominal-T method
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vs=86.25  at an angle of 40.70 
+ 
+efficiency=92.65 percent
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH4/EX4.10/ch4_10.sce #
+ 
+ 
+ 
+ R  =
+ 
+    24.912  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B  =
+ 
+    24.680655 + 63.547293i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vs line to line =152.34 kV
+ 
+ 
+ sending end current Is(A)=   
+ 
+    173.16135 - 95.107372i  
+ 
+sending end power=43353 kW
+ 
+sending end p.f =0.829
+ 
+percent regulation=17.4 
+ 
+percent efficency=92.3  
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH5/EX5.1/ch5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)For a=0, Vd=146.02 kV
+ 
+(b)For a=30,Vd=116.85 kV
+ 
+(c)For a=45,Vd=89.66 kV
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH5/EX5.2/ch5_2.sce #
+ 
+ 
+ 
+ 
+VL=94.14 kV
+ 
+ 
+tap ratio=0.86 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH5/EX5.3/ch5_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+effective reactance per phase , X=13.18 ohm
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH5/EX5.4/ch5_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Id=249.99 amp.
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH6/EX6.1/ch6_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+critical disruptive line to line voltage=97.89 kV 
+ 
+visual critical voltage for local corona=66.09 kV 
+ 
+visual critical voltage for general corona=130.83 kV 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH6/EX6.2/ch6_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+g1max=35 kV/cm 
+ 
+Since the gradient exceeds 21.1/kV/cm , corona will be present. 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH6/EX6.3/ch6_3.sce #
+ 
+ 
+ 
+ 
+ r  =
+ 
+    0.625  
+ 
+ 
+ 
+critical disruptive voltage=87 kV
+ 
+since operating voltage is 110 kV , corona loss= 0  
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH6/EX6.4/ch6_4.sce #
+ 
+ 
+ 
+ 
+ 
+critical disruptive voltage=55.6 kV 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH6/EX6.5/ch6_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+critical disruptive voltage=54.72 kV
+ 
+ 
+ 
+ 
+ 
+ 
+visual critical voltage=66 kV
+ 
+Power loss=0.672 kW/phase/km
+ 
+under foul weather condition ,
+ 
+critical disruptive voltage=43.77 kV
+ 
+Total loss=1626 kW
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH7/EX7.1/ch7_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sag,d=4 metres
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH7/EX7.2/ch7_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum sag=6.4 metres
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH7/EX7.3/ch7_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sag at 32.2 Celsius , d=0.1534 metres 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH7/EX7.4/ch7_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the ence between the conductor and water level midway between the towers= 54.375 metres 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH8/EX8.1/ch8_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the maximum voltage that the string of the suspension insulators can withstand=44.24 kV
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.1/ch9_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diameter of the sheath =7.07 cm
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.2/ch9_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+minimum internal diameter of the lead sheath,D=7.52 cms
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.3/ch9_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum safe working volltage ,V =11.34 kV r.m.s
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.4/ch9_4.sce #
+ 
+ 
+ 
+ 
+ r1  =
+ 
+    1.25  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+g1max =67.6 kV/cm
+ 
+g2max =64.81 kV/cm
+ 
+g3max =82 kV/cm
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.5/ch9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3-phase kVA required =764 kVA 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.6/ch9_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)Capacitance between any two conductors=0.248 micro-Farad/km
+ 
+ 
+(ii)Capacitance between any two bunched conductors and the third conductor=0.33 micro-Farad/km
+ 
+ 
+(iii)the charging current per phase per km =0.899 A
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.7/ch9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voltage induced =78.54 volts 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH9/EX9.8/ch9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ratio=0.0278 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH10/EX10.1/ch10_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total active power supplied by generator =200 MW
+ 
+Total reactive power supplied by generator =315.9 MW 
+ 
+p.f of the generator =0.5349 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH10/EX10.2/ch10_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ts=1.11 p.u
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH10/EX10.3/ch10_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i) sending end voltage (kV)=224.9 kV
+ 
+recieving end voltage =251 kV
+ 
+Regulation = 16.90 percent
+ 
+ 
+ 
+ 
+ 
+ 
+
+(ii)QP(MVAr)=12.5 MV Ar
+ 
+ PR(MVAr)=25 MV Ar
+ 
+CosQ=0.958 
+ 
+ 
+ 
+maximum power transmitted =227.5 MW
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH10/EX10.4/ch10_4.sce #
+ 
+ 
+ 
+ 
+ b  =
+ 
+    73.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The phase modifier capacity =96.95 MV Ar
+ 
+Maximum power transmitted ,Pmax =148.67 MW 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH11/EX11.1/ch11_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inductance ,L=1.97 H
+ 
+MVA rating of suppressor  coil =9.379 MVA per coil 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH11/EX11.2/ch11_2.sce #
+ 
+ 
+ 
+ 
+(i)inductive reactance for 100 percent of the length of line=1061.6 ohms
+ 
+ 
+(ii)inductive reactance for 90percent of the length of line=1179.5 ohms
+ 
+ 
+(iii)inductive reactance for 80 percent of the length of line=1327.0 ohms
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH12/EX12.1/ch12_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)the natural impedence of line=294 ohms
+ 
+ 
+(ii)line current =21.6 amps
+ 
+ 
+ 
+ 
+ 
+ 
+ Er  =
+ 
+    122.92161  
+ 
+(iii)rate of energy absorption =289.2 kW
+ 
+rate of reflected energy =122.9 kW
+ 
+(iv)Terminating resistance should be equal to surge impedence of line  =294 ohms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(v)Refracted power =257.9 kW
+ 
+Reflected power =154.3 kW
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH12/EX12.2/ch12_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Natural impedence of cable=27.39 ohms 
+ 
+Natural impedence of overhead line=353.6 ohms 
+ 
+ 
+voltage rise at the junction due to surge =27.91 kV 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH12/EX12.3/ch12_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transmitted voltage =42.11 kV 
+ 
+The transmitted current in line Z2=52.63 amps 
+ 
+The transmitted current in line Z3=210.5 amps 
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH12/EX12.4/ch12_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the maximum value of transmitted voltage=851 kV 
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH12/EX12.5/ch12_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The maximum value of transmitted voltage=413.1 kV 
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH12/EX12.6/ch12_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)the value of the Voltage wave when it has travelled through a distance 50 Km=34.5 kV 
+ 
+ 
+ 
+ 
+ H  =
+ 
+    0.7258082  
+ 
+(ii)Power loss=2983.863kW  
+ heat loss=0.726 kJ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.1/ch13_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Va1=   
+ 
+    50.661154 + 14.324775i  
+ 
+ 
+ Va2=   
+ 
+    30.558683 - 4.2651715i  
+ 
+ 
+ Vco=   
+ 
+    18.780163 - 10.059604i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.2/ch13_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Iao(amps)=   
+ 
+    100. + 50.i  
+ 
+ 
+ Ia1(amps)=   
+ 
+    546.41016 + 165.47005i  
+ 
+ 
+ Ia2(amps)=   
+ 
+  - 146.41016 - 65.470054i  
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.3/ch13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fault current (amps)=   
+ 
+    4686.2847  
+ 
+ 
+ Vab(kV)=   
+ 
+    0.2142574 + 0.9897143i  
+ 
+ 
+ Vac(kV)=   
+ 
+    0.2143077 - 0.9897143i  
+ 
+ 
+ Vbc(kV)=   
+ 
+    0.0000503 - 1.9794286i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.4/ch13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fault current =3155.22 amps
+ 
+ 
+ 
+ 
+Vab=13.34 kV
+ 
+Vac=13.34 kV
+ 
+Vbc=0.00 kV
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.5/ch13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fault current(amps) =   
+ 
+    7780.678  
+ 
+ Va  =
+ 
+    0.7118644  
+ 
+ 
+ 
+ 
+ 
+ 
+Vab=5.425 kV
+ 
+Vac=5.425 kV
+ 
+Vbc=0.000 kV
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.6/ch13_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IA1  =
+ 
+  - 3.4246575i  
+ 
+ IA2  =
+ 
+    3.4246575i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fault Current (i)L-G fault, If=1204 amps
+  
+(ii)L-L fault ,If=856.2 amps
+ 
+(iii)L-L-G, If =1538 amps
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.8/ch13_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+Percent drop of volts=1.8 percent
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.9/ch13_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+short circuit capacity=78.73 MVA
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.10/ch13_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+short circuit capacity of each station=1001 MVA
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.11/ch13_11.sce #
+ 
+ 
+ 
+ 
+ 
+S.C. MVA =714.29 MVA
+  
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.12/ch13_12.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fault current from the generator =6024.052 amps
+ 
+Fault current from the motor =11471.270 amps
+ 
+ 
+ Fault current (amps)=   
+ 
+  - 17249.362i  
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.13/ch13_13.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the reactance of the reactor =1.264 ohms
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.14/ch13_14.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fault currents ,Ia=   
+ 
+    0.  
+ 
+ 
+ Ib=   
+ 
+  - 10.125538 + 8.5457271i  
+ 
+ 
+ Ic=   
+ 
+    10.125538 + 8.5457271i  
+ 
+ 
+ IA=   
+ 
+    7.6923077  
+ 
+ 
+ IB   
+ 
+  - 3.8461538 - 3.2458771i  
+ 
+ 
+ IC   
+ 
+  - 3.8461538 + 3.2458771i  
+ 
+ 
+ Voltages at fault point   
+ 
+ 
+ Vab(p.u)=   
+ 
+    0.2564  
+ 
+ 
+ Vbc(p.u)=   
+ 
+    0.  
+ 
+ 
+ Vca(p.u)=   
+ 
+  - 0.2564  
+ 
+ 
+ VAB=   
+ 
+    1.6622939 + 0.2890769i  
+ 
+ 
+ VBC=   
+ 
+  - 0.3245877 - 1.732i  
+ 
+ 
+ VCA=   
+ 
+  - 1.3377061 + 1.4429231i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.15/ch13_15.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i) pre- fault current in line a=   
+ 
+    0.8 + 0.6i  
+ 
+ 
+ (ii) the subtransient fault current in p.u=   
+ 
+  - 9.i  
+ 
+ 
+ IA=   
+ 
+  - 0.6 + 0.8i  
+ 
+ 
+ IB=   
+ 
+    0.9928203 - 1.6124356i  
+ 
+ 
+ IC=   
+ 
+  - 0.3928203 + 0.8124356i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.16/ch13_16.sce #
+ 
+ 
+ 
+ 
+S.C.MVA=10 MVA 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH13/EX13.17/ch13_17.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VAB(p.u)=   
+ 
+    1.8070172 - 0.7766100i  
+ 
+ 
+ VBC(p.u)=   
+ 
+  - 1.1927245 - 0.7764388i  
+ 
+ 
+ VCA(p.u)=   
+ 
+  - 0.6142927 + 1.5530489i  
+ 
+IA(p.u)=1.12 at an agle of -43.9
+ 
+IB(p.u)=1.00 at an agle of -0.0
+ 
+IC(p.u)=0.80 at an agle of 76.1 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.1/ch14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PSM=8.000
+ 
+operating time for PSM=8 is 3.2sec.
+ 
+actual operating time = 1.92 sec. 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.2/ch14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ X=   
+ 
+    595.8768  
+ 
+ 
+ Xc=   
+ 
+    270.14861  
+ 
+ 
+ C(micro farads)=   
+ 
+    11.788746  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.3/ch14_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Actual operating time of realy at b=0.634 sec. 
+ 
+Actual operating time of realy at a=0.985 sec. 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.4/ch14_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+percent of the winding remains unprotected=22.96  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.5/ch14_5.sce #
+ 
+ 
+ 
+ 
+ 
+(i) percent winding which remains unprotected=62.35  
+ 
+ 
+ 
+(ii)minimum  value of earthing resistance required to protect 80 percent of winding =0.3118 ohms 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.6/ch14_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+operating current=0.625 amp. 
+ 
+since current through  operating coil is 0.500 amp. 
+  
+therefore Relay will not operate  
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.7/ch14_7.sce #
+ 
+ 
+ 
+ 
+ 
+ the CT ratio on HT will be 80 : 2.887 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.8/ch14_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ratio of CT on LV side is 874.773 : 2.887
+ 
+ratio of CT on HT side is 43.739 : 5 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.9/ch14_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R2=31.75 ohms
+ 
+ 
+ 
+ 
+R1=63.51 ohms
+ 
+C=57.9 micro farads
+ 
+ 
+ 
+  Voltage across the terminals of the relay will be (V)=   
+ 
+  - 109.99839i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.10/ch14_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the knee point must be slightly higher than =60.000 V
+ 
+area of cross section=0.003861 m_2
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH14/EX14.11/ch14_11.sce #
+ 
+ 
+ 
+ 
+ VA output of CT =10 VA
+  
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH15/EX15.1/ch15_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the voltage appearing across the pole of C.B.=111803 V
+ 
+ 
+the value of resistance to be used across contacts, R=11180 ohms
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH15/EX15.2/ch15_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rate of rise of restriking voltage, RRRV=6 kV/micro-sec 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH15/EX15.3/ch15_3.sce #
+ 
+ 
+ 
+ 
+ 
+ K2  =
+ 
+    1.5  
+ 
+ 
+ 
+ 
+ 
+ 
+average rate of rise of restriking voltage,RRRV=8.567 kV/micro-sec
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH15/EX15.4/ch15_4.sce #
+ 
+ 
+ 
+ 
+rated normal current=1500 amps
+ 
+ 
+breaking current=34.99 KA
+ 
+ 
+making current =89.23 kA
+ 
+ 
+short time rating  for 3 sec=34.99 kA
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH15/EX15.5/ch15_5.sce #
+ 
+ 
+ 
+ 
+ 
+(i)sustained short circuit current in the breaker =418 amps
+ 
+ 
+ 
+(ii)initial symmetrical r.m.s current in the breaker r.m.s=4184 amps
+ 
+ 
+(iii)maximum possible d.c component of the short circuit current in the breaker =5917 amps
+ 
+ 
+(iv)momentary current rating of the breaker=6694 amps
+ 
+ 
+(v)the current to be interrupted by the breaker =5020 amps
+ 
+ 
+(vi)the interupting =119894 KVA
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.1/ch17_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+(a)K.E stored in the rotor =180 MJ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) The accelerating power =3.375 MW
+ 
+Acceleration =2.945 rad/sec_2
+ 
+ 
+ 
+ 
+ 
+ 
+(c)Rotor speed at the end of 15 cycles =1504.2 r.p.m 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.2/ch17_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)fn=1.53 Hz
+ 
+(i)fn(Hz)=1.39 Hz 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.3/ch17_3.sce #
+ 
+ 
+ 
+ 
+ 
+ b  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+dm approximately found to be 46 degree 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.4/ch17_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The critical ing angle  is given by=70.33 degrees 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.5/ch17_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The critical ing angle is given by= 48.7  
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.6/ch17_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dc=90.61 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.7/ch17_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)Q=87.31 MVAr
+ 
+ 
+ 
+(ii)Q=-0.8539 p.u
+ 
+ 
+(iii)Q=-0.7949 p.u 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.8/ch17_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i)faulted case, full matrix(admittance)=   
+ 
+  - 5.i    0       5.i    
+    0    - 7.5i    2.5i   
+    5.i    2.5i  - 12.5i  
+ 
+ 
+ 
+ (ii)Pre-fault case, reduced admittance matrix=   
+ 
+  - 3.i    i    
+    i    - 7.i  
+ 
+ 
+ 
+ (iii)Post-fault case, full matrix(admittance)=   
+ 
+  - 5.i    0       5.i   
+    0    - 2.5i    2.5i  
+    5.i    2.5i  - 7.5i  
+ 
+ 
+ 
+  reduced admittance matrix=   
+ 
+  - 1.667i    1.667i  
+    1.667i  - 1.667i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.9/ch17_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reduced admittance matrix during fault=   
+ 
+  - 8.33i    0           
+    0        29274.622i  
+ 
+ 
+ 
+ 
+ 
+ (i) Post fault condition ,reduced matrix=   
+ 
+  - 2.4688324i    2.4688324i  
+    2.4688324i  - 2.4688324i  
+ 
+ 
+ 
+ 
+
+ Power angle characterstics , Pe= 2.715716sind 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH17/EX17.10/ch17_10.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Runga-Kutta method-
+ 
+w1=1.125768 
+d1=0.53528
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d8=1.16165 rad.
+w8=7.0479rad/sec
+
+ 
+using Euler`s Modified Method-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d01=0.5353
+w11=1.13094 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH18/EX18.1/ch18_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V21acc=   
+ 
+    1.0192446 - 0.0462732i  
+ 
+ 
+ 
+ 
+ V31acc=   
+ 
+    0.9909518 - 0.0468995i  
+ 
+ 
+ 
+ 
+ V41acc=   
+ 
+    0.9786516 - 0.1092150i  
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH18/EX18.2/ch18_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V21=   
+ 
+    1.0395975 + 0.0289333i  
+ 
+ 
+ 
+ V31=   
+ 
+    0.9980484 - 0.0156387i  
+ 
+ 
+ 
+ V41=   
+ 
+    0.9981726 - 0.0223500i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH18/EX18.3/ch18_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V21=   
+ 
+    1.0535926 + 0.0288823i  
+ 
+ 
+ V31=   
+ 
+    1.0004296 - 0.0156124i  
+ 
+ 
+ V41=   
+ 
+    1.0044251 - 0.0223495i  
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH18/EX18.4/ch18_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P3  =
+ 
+  - 0.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+set of linear equations at the end of first iteration are
+ 
+2.846de2 -1.666de3+ 8.975df2 -5.000df3 = 2.750
+ 
+-1.666de2 +6.366de3 -5.000df2 +20.900df3 = -0.300
+ 
+8.525de2  -5.000de3 -2.991df2 +1.666df3 = 0.225
+ 
+-5.000de2 +19.100de3+ 1.666df2 -6.966df3 = 0.650
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH18/EX18.5/ch18_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+set of linear equations at the end of first iteration are
+ 
+2.846de2 -1.666de3+ 8.975df2 -5.000df3 = 2.750
+ 
+-1.666de2 +6.366de3 -5.000df2 +20.900df3 = -0.300
+ 
+8.525de2  -5.000de3 -2.991df2 +1.666df3 = 0.225
+ 
+2.000de2 +0.000de3+ 0.000df2 +0.000df3 = 0.08160
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH19/EX19.1/ch19_1.sce #
+ 
+ 
+ 
+ 
+ 
+two equations are :
+ 
+0.4 P1 -0.5 P2 = -10.0
+ 
+1.0 P1+ 1.0P2 = 180.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)Cost of Generation=Rs 10214.44 /hr
+ 
+ 
+ 
+ 
+ 
+ 
+ savings  =
+ 
+    0.5555556  
+ 
+(b)Savings=Rs 0.56 /hr
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH19/EX19.2/ch19_2.sce #
+ 
+ 
+ 
+ 
+ 
+Penalty Factor=1.2
+ 
+Cost of recieved Power=Rs 5.0 /MWhr 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH19/EX19.4/ch19_4.sce #
+ 
+ 
+ 
+ 
+ 
+two equations are :
+ 
+0.048 P1 -0.08 P2 = -2.0
+ 
+1.0 P1+ 1.0P2 = 50.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+when load is 150MW , equations are: :
+ 
+0.048 P1 -0.08 P2 = -2.0
+ 
+1.0 P1+ 1.0P2 = 150.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total cost=Rs. 52650.00 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH20/EX20.1/ch20_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x=-1.39 MW
+ 
+which means power of magnitude 1.39 MW will be from B to A 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH20/EX20.2/ch20_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power supplied by 210 MW unit = 164.06 MW 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH20/EX20.3/ch20_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+new frequency will be 49.16 Hz 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH21/EX21.1/ch21.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ we get equation :   
+ 
+                2   4  
+    51.7 - 27.5V + V   
+ 
+ 
+ 
+ Roots of above equation are    
+ 
+  - 5.0467985  
+    5.0467985  
+  - 1.4247193  
+    1.4247193  
+ 
+ 
+V=5.046
+ 
+ 
+ 
+ 
+ 
+ 
+ dV/V=    
+ 
+    0.2163331  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH22/EX22.2/ch22_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i) For p.f unity , Eth=1.00 V 
+ 
+ (i) For p.f .8 , Eth=   
+ 
+    1.255 + 0.34i  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH22/EX22.3/ch22_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eth=1.51 at an angle 24 degrees 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH22/EX22.4/ch22_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+toff= 4min.
+ 
+ton(min.)=6.667 min.
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH22/EX22.6/ch22_6.sce #
+ 
+ 
+ 
+ 
+ Qload  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+Voltage sensitivity=-0.500
+ 
+since the voltage sensitivity is negative ,
+ voltage regulation by tap changing will reduce net reactive load and improive voltage stability  
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH22/EX22.7/ch22_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Y1=   
+ 
+  - 1.1i  
+ 
+ 
+ Y2=   
+ 
+    i    
+ 
+ 
+ The shunt elements equal to a reactor of 1.1V1^2 size oin the primary side and 
+       a capacitive of sixe 1V2^2 on the secondary side                         
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH22/EX22.8/ch22_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dPc  =
+ 
+    128.18262  
+ 
+Percent additional Reactive Power Capability is 128 
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH23/EX23.1/ch23_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W1=   
+ 
+    0.0000015  
+ 
+ 
+ W2=   
+ 
+    0.0000015  
+ 
+ 
+ W3=   
+ 
+    0.0000018  
+ 
+ 
+ W4=   
+ 
+    0.0000018  
+ 
+ 
+ W5=   
+ 
+    0.0000017  
+ 
+ 
+ W6=   
+ 
+    0.0000012  
+ 
+ a1  =
+ 
+    8.648D-09  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E=   
+ 
+    1.0503354 - 0.0202590i  
+    1.0581899 + 0.0817746i  
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH23/EX23.2/ch23_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V=   
+ 
+    1.0487927  
+    1.0528664  
+ 
+ 
+ d=   
+ 
+    0.0014915  
+  - 0.0015996  
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH23/EX23.3/ch23_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ O=   
+ 
+  - 0.0379428  
+    0.0212114  
+ 
+ 
+ J=   
+ 
+    0.6266989  
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH23/EX23.4/ch23_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Theta1=   
+ 
+    0.02  
+ 
+ 
+ Theta2=   
+ 
+  - 0.0873171  
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH24/EX24.3/ch24_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Priority List is as follows
+ 
+Unit       Rs/MWhr     MinMW        Max MW
+ 
+ 2           9.455       100           450 
+ 
+ 1           9.8406       60            600 
+ 
+ 3           11.45        50           250 
+
+ 
+ 
+ Fmax2  =
+ 
+    1050.  
+ 
+ Fmax3  =
+ 
+    450.  
+ 
+Unit Commitment Scheme is follows
+ 
+Combination        Min.MW from Combination         Max.MW from Combination
+ 
+2+1+3                 310                              1300   
+ 
+2+1                   260                              1050   
+ 
+2                     100                              450    
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH24/EX24.4/ch24_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unit Commitment using Load 500MW
+ 
+F1(500)=3902.5
+ 
+Since min. Power of second unit is 100MW , we find
+ 
+F1(400)+f2(100)=3865
+ 
+F1(380)+f2(120)=3866
+ 
+F1(360)+f2(140)=3869
+ 
+Therefore for load 500 MW , the load commitment on unit 1 is 400 MW and that on 2 is 100 MW which gives min. cost
+ 
+Next we increase the load by 50 MW and  loading unit 1 we get, 
+ 
+F1(550)=4331.5
+ 
+Also if we distribute a part of load to unit 2 we get ,
+ 
+F1(450)+f2(100)=4280
+ 
+F1(400)+f2(150)=4279
+ 
+F1(350)+f2(200)=4296
+ 
+Therefore for load 550 MW , the load commitment on unit 1 is 400 MW and that on 2 is 150 MW which gives min. cost
+ 
+ 
+ 
+ 
+ 
+grepthis#Electrical_Power_Systems_C._L._Wadhwa_1055/CH25/EX25.1/ch25_1.sce #
+ 
+ 
+ 
+ 
+ q3  =
+ 
+    25.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W2  =
+ 
+    75.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ho  =
+ 
+    0.1962  
+ 
+ 
+ L21  =
+ 
+    6.9754781  
+ 
+ L22  =
+ 
+    6.400889  
+ 
+ L23  =
+ 
+    5.7793217  
+ 
+ G1  =
+ 
+  - 0.7745812  
+ 
+ G2  =
+ 
+    0.4508243  
+ 
+ 
+ 
+ 
+ 
+Let q2=25   q3=25    q1=20
+ 
+W1=100    W2=75
+ 
+PH1=5.86     PH2=6.882    PH3=6.2
+ 
+Thermal generation during Three Intervals 
+ PT1=2.14     PT2=5.12    PT3=0.8
+ 
+Value of L1 for the three intervals, 
+ L11=22.14    L12=25.12    L13=20.8
+ 
+Neglecting transmission losses we get
+ L11=L31   L12=L32   L13=L33
+ 
+L21=6.975
+ 
+For m=1 and 2 we get 
+ L22=6.4 
+ L23=5.8
+ 
+Gradient Vectors 
+ dF/dq2=-0.77
+ dF/dq3=0.5
+ 
+q2new=25.310 
+ q3new=24.8
+ q1=20 
+ 

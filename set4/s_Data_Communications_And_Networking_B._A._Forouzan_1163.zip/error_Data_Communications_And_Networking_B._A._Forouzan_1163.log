@@ -1,0 +1,11 @@
+ERROR: Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.8/example_5_8.sce
+ 
+ 
+ 
+ 
+xname("--------------Example 5.8----------------");
+                                                   !--error 999 
+Scilab 'graphics' module disabled in -nogui or -nwni mode.
+at line       5 of exec file called by :    
+exec('SCI/etc/scilab.start',-1);;exec('Data_Communications_And_Networking_B._A._Forouzan_1163/CH5/EX5.8/example_5_8.sce',-1)
+ 

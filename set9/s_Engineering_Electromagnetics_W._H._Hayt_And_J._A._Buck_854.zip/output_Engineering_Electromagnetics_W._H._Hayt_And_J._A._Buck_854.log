@@ -1,0 +1,537 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 74
+
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH5/EX5.1/Example5_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rresistance in ohms of given copper wire R =   
+ 
+    21.215013  
+ 
+ 
+ Current density in A/square.metre J =    
+ 
+    7647425.6  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.5/Example9_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ chim =   
+ 
+    49.  
+ 
+ 
+ H =   
+ 
+    795.77472  
+ 
+ 
+ M =    
+ 
+    39004.  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.7/Example9_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reluctance in A.t/Wb Rair =   
+ 
+    2652582.4  
+ 
+ 
+ 
+ Magnetic Flux in weber phi =   
+ 
+    0.0006  
+ 
+ 
+ 
+ mmf required for the air gap in A.t Vm_air =   
+ 
+    1591.5494  
+ 
+ 
+ 
+ 
+ mmf required for the steel in A.t Vm_steel =   
+ 
+    188.49556  
+ 
+ 
+ Totla mmf required for toroid in A.t Vm =   
+ 
+    1780.045  
+ 
+ 
+ 
+ Total coil current in Amps I =   
+ 
+    3.56009  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH9/EX9.8/Example9_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Magentic Flux Density in tesla B =   
+ 
+    1.1246064  
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.2/Example11_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Characteristic Impedance in ohms Zo =   
+ 
+    50.  
+ 
+ 
+ Phase constant in rad/m B=   
+ 
+    18.849556  
+ 
+ 
+ Phase velocity in m/s Vp=   
+ 
+    2.000D+08  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.4/Example11_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fraction of input power reaches output P(z)/P(0)=   
+ 
+    0.6309573  
+ 
+ 
+ 
+ 
+ Fraction of the input power reaches the midpoint P(10)/P(0)=   
+ 
+    0.7943282  
+ 
+ 
+ 
+ attenuation in Np/m alpha=   
+ 
+    0.0115075  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.6/Example11_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The total loss of the link in dB is Lt=   
+ 
+    3.9095861  
+ 
+ 
+ The output power will be in milli watss Pout =   
+ 
+    40.648207  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH11/EX11.7/Example11_7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Load impedance of a slotted line in ohms ZL=   
+ 
+    10.  
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.3/Example13_3.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reflection coefficient T=   
+ 
+  - 0.6666667  
+ 
+ 
+ intrinsic impedance in ohms =   
+ 
+    75.4  
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.4/Example13_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ required range of glass thickness in micro meter l=   
+ 
+    2.4827586  
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.5/Example13_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ minimum thickness of the dielectric layer in um =   
+ 
+    0.1183398  
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.8/Example13_8.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ refractive index of prism material n1=   
+ 
+    1.4142954  
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.9/Example13_9.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Incident angle in degrees teta1 =   
+ 
+    55.411793  
+ 
+ 
+ transmitted angle in degrees teta2=   
+ 
+    34.594837  
+ 
+ 
+ sum of the incident angle and transmitted angle, Brewster_Condition=   
+ 
+    90.00663  
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH13/EX13.11/Example13_11.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pulse spread in pico seconds delta_t =   
+ 
+    30.  
+ 
+ 
+ Output pulse width in pico seconds T1 =   
+ 
+    32.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH14/EX14.1/Example14_1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cutoff frequency for the first waveguide mode in Hz fc1 =   
+ 
+    1.035D+10  
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH14/EX14.2/Example14_2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of waveguides modes propagate m =   
+ 
+    14.  
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH14/EX14.4/Example14_4.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating range of frequency for TE10 mode in GHz fc=   
+ 
+    7.5  
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH14/EX14.5/Example14_5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The maximum allowable refractive index of the slab material n1=   
+ 
+    1.4558159  
+ 
+ 
+ 
+ 
+ 
+grepthis#Engineering_Electromagnetics_W._H._Hayt_And_J._A._Buck_854/CH14/EX14.6/Example14_6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the V number of a step index fiber V=   
+ 
+    1.8619355  
+ 
+ 
+ 
+ 
+ 

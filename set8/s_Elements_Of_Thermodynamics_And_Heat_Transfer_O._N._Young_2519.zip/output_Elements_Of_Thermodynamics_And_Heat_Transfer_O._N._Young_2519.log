@@ -1,0 +1,6189 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 111
+
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH1/EX1.1/Ex1_1.sce #
+ 
+ 
+ 
+ gc  =
+ 
+    32.1739  
+ 
+ m  =
+ 
+    10.  
+ 
+ a  =
+ 
+    10.  
+ 
+ 
+ F  =
+ 
+    3.1081094  
+ 
+ 
+Force to accelerate = 3.108 lbf 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH1/EX1.2/Ex1_2.sce #
+ 
+ 
+ 
+ gc  =
+ 
+    32.1739  
+ 
+ m  =
+ 
+    10.  
+ 
+ a  =
+ 
+    32.1739  
+ 
+ 
+ F  =
+ 
+    10.  
+ 
+ 
+Force to accelerate = 10 lbf 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH1/EX1.3/Ex1_3.sce #
+ 
+ 
+ 
+ gc  =
+ 
+    32.1739  
+ 
+ F  =
+ 
+    5.000D-09  
+ 
+ 
+ F2  =
+ 
+    0.0005791  
+ 
+ 
+Force required = 5.79e-04 lbm/ft sec 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH1/EX1.4/Ex1_4.sce #
+ 
+ 
+ 
+ v  =
+ 
+    88.  
+ 
+ 
+ v2  =
+ 
+    60.  
+ 
+ 
+velocity = 60 mph 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH1/EX1.5/Ex1_5.sce #
+ 
+ 
+ 
+ v  =
+ 
+    88.  
+ 
+ 
+ v2  =
+ 
+    60.  
+ 
+ 
+velocity = 60 mph 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH1/EX1.6/Ex1_6.sce #
+ 
+ 
+ 
+ rho  =
+ 
+    62.305  
+ 
+ g  =
+ 
+    32.1739  
+ 
+ 
+ gam  =
+ 
+    1.9365075  
+ 
+ 
+Density of water in this system = 1.937 lbf/ft^2 
+
+ Specific weight = 62.305 lbf/ft^2 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH2/EX2.1/Ex2_1.sce #
+ 
+ 
+ 
+ z  =
+ 
+    100.  
+ 
+ m  =
+ 
+    32.1739  
+ 
+ 
+ PE  =
+ 
+    3217.39  
+ 
+ 
+Potential energy = 3217.39 ft-lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH2/EX2.2/Ex2_2.sce #
+ 
+ 
+ 
+ m0  =
+ 
+    18.016  
+ 
+ gc  =
+ 
+    32.1739  
+ 
+ c  =
+ 
+    9.821D+08  
+ 
+ dU  =
+ 
+    94400000.  
+ 
+ 
+ U  =
+ 
+    5.401D+17  
+ 
+ dm  =
+ 
+  - 3.149D-09  
+ 
+ 
+Absolute energy of this mixture = 5.40e+17 ft-lbf 
+
+ In case b, there is no change in mass 
+
+ Change in mass = -3.15e-09 lbm 
+ 
+ The answers are a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH5/EX5.1/Ex5_1.sce #
+ 
+ 
+ 
+ rate  =
+ 
+    5.  
+ 
+ Q  =
+ 
+    50.  
+ 
+ h2  =
+ 
+    1020.  
+ 
+ h1  =
+ 
+    1000.  
+ 
+ V2  =
+ 
+    50.  
+ 
+ V1  =
+ 
+    100.  
+ 
+ J  =
+ 
+    778.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ gc  =
+ 
+    32.2  
+ 
+ Z2  =
+ 
+    0.  
+ 
+ Z1  =
+ 
+    100.  
+ 
+ 
+ dw  =
+ 
+  - 9.7217743  
+ 
+ power  =
+ 
+  - 48.608871  
+ 
+ 
+work done by the system = -9.7 Btu/lbm 
+
+ Power = -48.6 Btu/s 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH5/EX5.2/Ex5_2.sce #
+ 
+ 
+ 
+ V  =
+ 
+    100.  
+ 
+ v  =
+ 
+    15.  
+ 
+ m  =
+ 
+    5.  
+ 
+ 
+ A  =
+ 
+    0.75  
+ 
+ 
+Area of inlet pipe = 0.75 ft^2 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH5/EX5.3/Ex5_3.sce #
+ 
+ 
+ 
+ P  =
+ 
+    100.  
+ 
+ 
+ 
+ From table B-4   
+ 
+ h  =
+ 
+    1187.2  
+ 
+ t1  =
+ 
+    328.  
+ 
+ t2  =
+ 
+    540.  
+ 
+ dt  =
+ 
+    212.  
+ 
+ 
+Final temperature of the steam = 540 F 
+
+ Change in temperature = 212 F 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH7/EX7.2/Ex7_2.sce #
+ 
+ 
+ 
+ cv  =
+ 
+    0.175  
+ 
+ R0  =
+ 
+    1.986  
+ 
+ M  =
+ 
+    29.  
+ 
+ T2  =
+ 
+    1040.  
+ 
+ T1  =
+ 
+    520.  
+ 
+ 
+ cp  =
+ 
+    0.2434828  
+ 
+ sab  =
+ 
+    0.1213008  
+ 
+ sac  =
+ 
+    0.1687694  
+ 
+ dqab  =
+ 
+    91.  
+ 
+ dqca  =
+ 
+  - 126.61103  
+ 
+ dqrev  =
+ 
+    49.367376  
+ 
+ eta  =
+ 
+    0.0980024  
+ 
+ 
+Entropy in ab part = 0.1213 Btu/lbm R 
+
+ Entropy in ac part = 0.1688 Btu/lbm R 
+
+ Efficiency = 9.80 percent 
+ 
+ The answers are a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH7/EX7.3/Ex7_3.sce #
+ 
+ 
+ 
+ tc  =
+ 
+    32.  
+ 
+ th  =
+ 
+    80.  
+ 
+ mw  =
+ 
+    5.  
+ 
+ mi  =
+ 
+    1.  
+ 
+ P  =
+ 
+    14.7  
+ 
+ cp  =
+ 
+    1.  
+ 
+ 
+ t  =
+ 
+    48.  
+ 
+ ds1  =
+ 
+    0.2926829  
+ 
+ ds2  =
+ 
+    0.0320027  
+ 
+ dsice  =
+ 
+    0.3246857  
+ 
+ dswater  =
+ 
+  - 0.3054385  
+ 
+ ds  =
+ 
+    0.0192472  
+ 
+ 
+Change in entropy of the process = 0.0192 Btu/R 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH7/EX7.4/Ex7_4.sce #
+ 
+ 
+ 
+ cp  =
+ 
+    1.  
+ 
+ T2  =
+ 
+    60.  
+ 
+ T1  =
+ 
+    100.  
+ 
+ ta  =
+ 
+    32.  
+ 
+ 
+ dq  =
+ 
+  - 40.  
+ 
+ ds  =
+ 
+  - 0.0741080  
+ 
+ dE  =
+ 
+  - 3.5388777  
+ 
+ 
+Change in available energy = -3.5 Btu/lbm 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH8/EX8.1/Ex8_1.sce #
+ 
+ 
+ 
+ P  =
+ 
+    500.  
+ 
+ T  =
+ 
+    700.  
+ 
+ J  =
+ 
+    778.  
+ 
+ 
+ dpds  =
+ 
+    275.78406  
+ 
+ 
+dp by ds at constant volume = 275 F/ft^3/lbm 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH8/EX8.2/Ex8_2.sce #
+ 
+ 
+ 
+ cp  =
+ 
+    0.25  
+ 
+ T0  =
+ 
+    520.  
+ 
+ T1  =
+ 
+    3460.  
+ 
+ 
+ dq  =
+ 
+  - 735.  
+ 
+ ds  =
+ 
+  - 0.4737988  
+ 
+ dE  =
+ 
+  - 488.62464  
+ 
+ eta  =
+ 
+    0.6647954  
+ 
+ 
+Thermal efficiency = 66.5 percent 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH8/EX8.3/Ex8_3.sce #
+ 
+ 
+ 
+ cp  =
+ 
+    0.25  
+ 
+ T0  =
+ 
+    520.  
+ 
+ T1  =
+ 
+    3460.  
+ 
+ dG  =
+ 
+    21069.  
+ 
+ dH  =
+ 
+    21502.  
+ 
+ 
+ dq  =
+ 
+  - 735.  
+ 
+ ds  =
+ 
+  - 0.4737988  
+ 
+ dE  =
+ 
+  - 488.62464  
+ 
+ eta  =
+ 
+    0.6647954  
+ 
+ dw  =
+ 
+    14294.431  
+ 
+ de  =
+ 
+  - 6774.5686  
+ 
+ 
+Loss of available energy = -6774 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.1/Ex9_1.sce #
+ 
+ 
+ 
+ T  =
+ 
+    32.  
+ 
+ m  =
+ 
+    1.  
+ 
+ J  =
+ 
+    778.16  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ hf  =
+ 
+    0.  
+ 
+ p  =
+ 
+    0.08854  
+ 
+ vf  =
+ 
+    0.01602  
+ 
+ u  =
+ 
+  - 0.0002625  
+ 
+ 
+Internal energy = -0.0002625 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.2/Ex9_2.sce #
+ 
+ 
+ 
+ P  =
+ 
+    40.  
+ 
+ 
+ 
+ from steam tables,   
+ 
+ hf  =
+ 
+    200.8  
+ 
+ hg  =
+ 
+    27.  
+ 
+ T  =
+ 
+    495.  
+ 
+ ds  =
+ 
+    0.3511111  
+ 
+ 
+Change in entropy = 0.351 Btu/lbm R 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.3/Ex9_3.sce #
+ 
+ 
+ 
+ x  =
+ 
+    0.35  
+ 
+ T  =
+ 
+    18.  
+ 
+ 
+ 
+ From table B-14,   
+ 
+ hf  =
+ 
+    12.12  
+ 
+ hg  =
+ 
+    80.27  
+ 
+ hfg  =
+ 
+    68.15  
+ 
+ h  =
+ 
+    35.9725  
+ 
+ 
+specific enthalpy = 36.0 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.4/Ex9_4.sce #
+ 
+ 
+ 
+ x  =
+ 
+    0.35  
+ 
+ T  =
+ 
+    18.  
+ 
+ T2  =
+ 
+    55.5  
+ 
+ 
+ 
+ From table B-14,   
+ 
+ hf  =
+ 
+    12.12  
+ 
+ hg  =
+ 
+    80.27  
+ 
+ hfg  =
+ 
+    68.15  
+ 
+ h  =
+ 
+    35.9725  
+ 
+ h2  =
+ 
+    85.68  
+ 
+ dh  =
+ 
+    49.7075  
+ 
+ 
+Heat required = 49.71 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.5/Ex9_5.sce #
+ 
+ 
+ 
+ P  =
+ 
+    1460.  
+ 
+ T  =
+ 
+    135.  
+ 
+ P2  =
+ 
+    700.  
+ 
+ 
+ 
+ From mollier chart,   
+ 
+ h  =
+ 
+    120.  
+ 
+ x  =
+ 
+    0.83  
+ 
+ 
+enthalpy = 120 Btu/lbm 
+
+ Qulaity = 0.83 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.6/Ex9_6.sce #
+ 
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ P1  =
+ 
+    144.  
+ 
+ P2  =
+ 
+    150.  
+ 
+ T1  =
+ 
+    360.  
+ 
+ J  =
+ 
+    778.16  
+ 
+ 
+ 
+ From table 3,   
+ 
+ v1  =
+ 
+    3.16  
+ 
+ h1  =
+ 
+    1196.5  
+ 
+ u1  =
+ 
+    1112.294  
+ 
+ h2  =
+ 
+    1211.4  
+ 
+ u2  =
+ 
+    1123.6854  
+ 
+ dq  =
+ 
+    11.391416  
+ 
+ 
+Heat transferred = 11.4 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.7/Ex9_7.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    100.  
+ 
+ P2  =
+ 
+    1000.  
+ 
+ x  =
+ 
+    0.6  
+ 
+ J  =
+ 
+    778.16  
+ 
+ 
+ 
+ From table 3,   
+ 
+ v  =
+ 
+    0.01613  
+ 
+ P1  =
+ 
+    0.9  
+ 
+ wrev  =
+ 
+  - 2.982201  
+ 
+ dv  =
+ 
+    0.000051  
+ 
+ wcomp  =
+ 
+    0.0047231  
+ 
+ wact  =
+ 
+  - 4.970335  
+ 
+ 
+Work done = -3.0 Btu/lbm 
+
+ In case 2, work required = -5.0 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.8/Ex9_8.sce #
+ 
+ 
+ 
+ pa  =
+ 
+    1000.  
+ 
+ ta  =
+ 
+    100.  
+ 
+ 
+ hf  =
+ 
+    67.97  
+ 
+ w  =
+ 
+    3.  
+ 
+ ha  =
+ 
+    70.97  
+ 
+ 
+ from steam table 2,   
+ 
+ hc  =
+ 
+    1191.8  
+ 
+ qrev  =
+ 
+    1120.83  
+ 
+ 
+Heat transferred = 1120.8 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.9/Ex9_9.sce #
+ 
+ 
+ 
+ P1  =
+ 
+    144.  
+ 
+ T1  =
+ 
+    400.  
+ 
+ y  =
+ 
+    0.7  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ h1  =
+ 
+    1220.4  
+ 
+ s1  =
+ 
+    1.605  
+ 
+ s2  =
+ 
+    1.605  
+ 
+ P2  =
+ 
+    3.  
+ 
+ sf  =
+ 
+    0.2008  
+ 
+ sfg  =
+ 
+    1.6855  
+ 
+ x  =
+ 
+    0.8331059  
+ 
+ hf  =
+ 
+    109.37  
+ 
+ hfg  =
+ 
+    1013.2  
+ 
+ h2  =
+ 
+    953.4729  
+ 
+ work  =
+ 
+    266.9271  
+ 
+ dw  =
+ 
+    186.84897  
+ 
+ h2d  =
+ 
+    1033.551  
+ 
+ 
+Work done = 266 Btu/lbm 
+
+ work done in case 2 = 186.8 Btu/lbm 
+
+ Final state pressure = 3 psia 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH9/EX9.10/Ex9_10.sce #
+ 
+ 
+ 
+ pb  =
+ 
+    14.696  
+ 
+ pa  =
+ 
+    150.  
+ 
+ tb  =
+ 
+    300.  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ hb  =
+ 
+    1192.8  
+ 
+ ha  =
+ 
+    1192.8  
+ 
+ hf  =
+ 
+    330.51  
+ 
+ hfg  =
+ 
+    863.6  
+ 
+ x  =
+ 
+    0.9984831  
+ 
+ 
+Quality of wet steam = 99.8 percent 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH10/EX10.1/Ex10_1.sce #
+ 
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    672.  
+ 
+ sv  =
+ 
+    0.193  
+ 
+ M  =
+ 
+    44.  
+ 
+ a  =
+ 
+    924.2  
+ 
+ b  =
+ 
+    0.685  
+ 
+ R  =
+ 
+    0.73  
+ 
+ 
+ v  =
+ 
+    8.492  
+ 
+ p  =
+ 
+    57.76731  
+ 
+ p2  =
+ 
+    50.020108  
+ 
+ 
+In ideal gas case, pressure = 57.8 atm 
+
+ In vanderwaals equation, pressure = 50.0 atm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH10/EX10.2/Ex10_2.sce #
+ 
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ p  =
+ 
+    50.9  
+ 
+ t  =
+ 
+    672.  
+ 
+ R  =
+ 
+    0.73  
+ 
+ 
+ pc  =
+ 
+    72.9  
+ 
+ tc  =
+ 
+    547.9  
+ 
+ pr  =
+ 
+    0.6982167  
+ 
+ Tr  =
+ 
+    1.2265012  
+ 
+ z  =
+ 
+    0.88  
+ 
+ v  =
+ 
+    8.4811945  
+ 
+ 
+volume = 8.481 ft^3/mole 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH10/EX10.3/Ex10_3.sce #
+ 
+ 
+ 
+ t  =
+ 
+    672.  
+ 
+ v  =
+ 
+    0.193  
+ 
+ M  =
+ 
+    44.  
+ 
+ R  =
+ 
+    0.73  
+ 
+ 
+ tc  =
+ 
+    547.9  
+ 
+ zc  =
+ 
+    0.275  
+ 
+ vc  =
+ 
+    1.51  
+ 
+ tr  =
+ 
+    1.2265012  
+ 
+ vr  =
+ 
+    5.6238411  
+ 
+ vrd  =
+ 
+    1.5465563  
+ 
+ z  =
+ 
+    0.88  
+ 
+ p  =
+ 
+    50.835233  
+ 
+ 
+Pressure = 50.8 atm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.1/Ex11_1.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.3  
+ 
+ T1  =
+ 
+    520.  
+ 
+ P1  =
+ 
+    14.7  
+ 
+ P2  =
+ 
+    125.  
+ 
+ R  =
+ 
+    1545.  
+ 
+ M  =
+ 
+    29.  
+ 
+ 
+ T2  =
+ 
+    852.16704  
+ 
+ wrev  =
+ 
+  - 58988.284  
+ 
+ 
+Work done = -58988 ft-lbf/lbm 
+ 
+ The answer is a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.2/Ex11_2.sce #
+ 
+ 
+ 
+ P2  =
+ 
+    10.  
+ 
+ P1  =
+ 
+    100.  
+ 
+ T1  =
+ 
+    900.  
+ 
+ w  =
+ 
+    50.  
+ 
+ k  =
+ 
+    1.39  
+ 
+ cp  =
+ 
+    0.2418  
+ 
+ 
+ T2  =
+ 
+    471.70119  
+ 
+ T2  =
+ 
+    477.  
+ 
+ KE  =
+ 
+    52.2814  
+ 
+ 
+Change in kinetic energy = 52.3 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.3/Ex11_3.sce #
+ 
+ 
+ 
+ T1  =
+ 
+    900.  
+ 
+ P1  =
+ 
+    100.  
+ 
+ P2  =
+ 
+    10.  
+ 
+ 
+ 
+ From table B-9   
+ 
+ pr1  =
+ 
+    8.411  
+ 
+ pr2  =
+ 
+    0.8411  
+ 
+ T2  =
+ 
+    468.  
+ 
+ 
+Final temperature = 468 R  
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.4/Ex11_4.sce #
+ 
+ 
+ 
+ cr  =
+ 
+    6.  
+ 
+ p1  =
+ 
+    14.7  
+ 
+ t1  =
+ 
+    60.3  
+ 
+ M  =
+ 
+    29.  
+ 
+ R  =
+ 
+    1.986  
+ 
+ 
+ 
+ from table b-9   
+ 
+ vr1  =
+ 
+    158.58  
+ 
+ u1  =
+ 
+    88.62  
+ 
+ pr1  =
+ 
+    1.2147  
+ 
+ vr2  =
+ 
+    26.43  
+ 
+ T2  =
+ 
+    1050.  
+ 
+ u2  =
+ 
+    181.47  
+ 
+ pr2  =
+ 
+    14.686  
+ 
+ p2  =
+ 
+    177.72635  
+ 
+ dw  =
+ 
+  - 92.85  
+ 
+ h2  =
+ 
+    253.3769  
+ 
+ 
+final temperature = 1050 R 
+
+ final pressure = 177.7 psia 
+
+ work done = -92.85 Btu/lbm 
+
+ final enthalpy = 253.4 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.5/Ex11_5.sce #
+ 
+ 
+ 
+ m1  =
+ 
+    10.  
+ 
+ m2  =
+ 
+    15.  
+ 
+ p  =
+ 
+    50.  
+ 
+ t  =
+ 
+    520.  
+ 
+ M1  =
+ 
+    32.  
+ 
+ M2  =
+ 
+    28.02  
+ 
+ R0  =
+ 
+    10.73  
+ 
+ 
+ n1  =
+ 
+    0.3125  
+ 
+ n2  =
+ 
+    0.5353319  
+ 
+ x1  =
+ 
+    0.3685872  
+ 
+ x2  =
+ 
+    0.6314128  
+ 
+ M  =
+ 
+    29.486977  
+ 
+ R  =
+ 
+    0.3638895  
+ 
+ V  =
+ 
+    94.611258  
+ 
+ rho  =
+ 
+    0.0089612  
+ 
+ rho2  =
+ 
+    0.2642392  
+ 
+ p1  =
+ 
+    18.429361  
+ 
+ p2  =
+ 
+    31.570639  
+ 
+ v1  =
+ 
+    34.8725  
+ 
+ v2  =
+ 
+    59.738758  
+ 
+ 
+ 
+ part a   
+ 
+Mole fractions of oxygen and nitrogen are 0.369 and 0.631 respectively 
+ 
+ part b   
+ 
+Average molecular weight = 29.5  
+ 
+ part c   
+ 
+specific gas constant = 0.3639 psia ft^3/lbm R 
+ 
+ part d   
+ 
+volume of mixture = 94.6 ft^3 
+density of mixture is 0.00896 mole/ft^3 and 0.26 lbm/ft^3 
+ 
+ part e   
+ 
+partial pressures of oxygen and nitrogen are 18.43 psia and 31.57 psia respectively 
+ 
+ 
+ 
+ m1  =
+ 
+    10.  
+ 
+ m2  =
+ 
+    15.  
+ 
+ p  =
+ 
+    50.  
+ 
+ t  =
+ 
+    520.  
+ 
+ M1  =
+ 
+    32.  
+ 
+ M2  =
+ 
+    28.02  
+ 
+ R0  =
+ 
+    10.73  
+ 
+ 
+ n1  =
+ 
+    0.3125  
+ 
+ n2  =
+ 
+    0.5353319  
+ 
+ x1  =
+ 
+    0.3685872  
+ 
+ x2  =
+ 
+    0.6314128  
+ 
+ M  =
+ 
+    29.486977  
+ 
+ R  =
+ 
+    52.396012  
+ 
+ V  =
+ 
+    94.611258  
+ 
+ rho  =
+ 
+    0.0089612  
+ 
+ rho2  =
+ 
+    0.2642392  
+ 
+ p1  =
+ 
+    18.429361  
+ 
+ p2  =
+ 
+    31.570639  
+ 
+ v1  =
+ 
+    34.8725  
+ 
+ v2  =
+ 
+    59.738758  
+ 
+ 
+ 
+ part a   
+ 
+Mole fractions of oxygen and nitrogen are 0.369 and 0.631 respectively 
+ 
+ part b   
+ 
+Average molecular weight = 29.5  
+ 
+ part c   
+ 
+specific gas constant = 52.3960 lbf ft/lbm R 
+ 
+ part d   
+ 
+volume of mixture = 94.6 ft^3 
+
+ density of mixture is 0.00896 mole/ft^3 and 0.264 lbm/ft^3 
+ 
+ part e   
+ 
+partial pressures of oxygen and nitrogen are 18.43 psia and 31.57 psia respectively 
+
+ partial volumes of oxygen and nitrogen are 34.87 ft^3 and 59.74 ft^3 respectively 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.6/Ex11_6.sce #
+ 
+ 
+ 
+ 
+ m1  =
+ 
+    5.28  
+ 
+ m2  =
+ 
+    1.28  
+ 
+ m3  =
+ 
+    23.52  
+ 
+ 
+ m  =
+ 
+    30.08  
+ 
+ x1  =
+ 
+    0.1755319  
+ 
+ x2  =
+ 
+    0.0425532  
+ 
+ x3  =
+ 
+    0.7819149  
+ 
+ C  =
+ 
+    0.0478723  
+ 
+ O  =
+ 
+    0.1702128  
+ 
+ N  =
+ 
+    0.7819149  
+ 
+ 
+From gravimetric analysis, co2 = 17.6 percent , o2 = 4.3 percent and n2 = 78.2 percent 
+
+ From ultimate analysis, co2 = 4.79 percent , o2 = 17.02 percent and n2 = 78.19 percent 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.7/Ex11_7.sce #
+ 
+ 
+ 
+ x1  =
+ 
+    0.3333333  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    2.  
+ 
+ x2  =
+ 
+    0.6666667  
+ 
+ p  =
+ 
+    12.7  
+ 
+ cp1  =
+ 
+    7.01  
+ 
+ cp2  =
+ 
+    6.94  
+ 
+ R0  =
+ 
+    1.986  
+ 
+ T2  =
+ 
+    546.6  
+ 
+ T1  =
+ 
+    460.  
+ 
+ p0  =
+ 
+    14.7  
+ 
+ 
+ p1  =
+ 
+    4.2333333  
+ 
+ p2  =
+ 
+    8.4666667  
+ 
+ ds1  =
+ 
+    3.681448  
+ 
+ ds2  =
+ 
+    2.2927833  
+ 
+ S  =
+ 
+    8.2670146  
+ 
+ 
+Entropy of mixture = 8.27 Btu/R 
+
+ the answer given in textbook is wrong. please check using a calculator 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.8/Ex11_8.sce #
+ 
+ 
+ 
+ c1  =
+ 
+    4.97  
+ 
+ c2  =
+ 
+    5.02  
+ 
+ n1  =
+ 
+    2.  
+ 
+ n2  =
+ 
+    1.  
+ 
+ T1  =
+ 
+    546.6  
+ 
+ T2  =
+ 
+    510.  
+ 
+ 
+ du  =
+ 
+  - 547.536  
+ 
+ ds  =
+ 
+  - 1.036826  
+ 
+ 
+Change in internal energy = -547 Btu 
+
+ Change in entropy = -1.037 Btu/R 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.9/Ex11_9.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    2.  
+ 
+ c1  =
+ 
+    5.02  
+ 
+ c2  =
+ 
+    4.97  
+ 
+ t1  =
+ 
+    60.  
+ 
+ t2  =
+ 
+    100.  
+ 
+ R0  =
+ 
+    10.73  
+ 
+ p1  =
+ 
+    30.  
+ 
+ p2  =
+ 
+    10.  
+ 
+ 
+ t  =
+ 
+    86.57754  
+ 
+ V1  =
+ 
+    185.98667  
+ 
+ V2  =
+ 
+    1201.76  
+ 
+ V  =
+ 
+    1387.7467  
+ 
+ pm  =
+ 
+    12.678345  
+ 
+ 
+Pressure of mixture = 12.7 psia 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.10/Ex11_10.sce #
+ 
+ 
+ 
+ T2  =
+ 
+    546.6  
+ 
+ T1  =
+ 
+    520.  
+ 
+ T3  =
+ 
+    560.  
+ 
+ v2  =
+ 
+    1389.2  
+ 
+ v1  =
+ 
+    186.2  
+ 
+ R0  =
+ 
+    1.986  
+ 
+ c1  =
+ 
+    5.02  
+ 
+ c2  =
+ 
+    4.97  
+ 
+ n1  =
+ 
+    1.  
+ 
+ n2  =
+ 
+    2.  
+ 
+ v3  =
+ 
+    1203.  
+ 
+ 
+ ds1  =
+ 
+    4.2416287  
+ 
+ ds2  =
+ 
+    0.3308670  
+ 
+ ds  =
+ 
+    4.5724957  
+ 
+ 
+Change in  entropy for gas 1 = 4.242 Btu/R 
+
+ Change in  entropy for gas 1 = 0.331 Btu/R 
+
+ Net change in entropy = 4.572 Btu/R 
+ 
+ The answer is a bit different due to rounding off error in the textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.11/Ex11_11.sce #
+ 
+ 
+ 
+ m1  =
+ 
+    1.  
+ 
+ m2  =
+ 
+    0.94  
+ 
+ M1  =
+ 
+    29.  
+ 
+ M2  =
+ 
+    18.  
+ 
+ p1  =
+ 
+    50.  
+ 
+ p2  =
+ 
+    100.  
+ 
+ t1  =
+ 
+    710.  
+ 
+ R0  =
+ 
+    1.986  
+ 
+ cpa  =
+ 
+    6.96  
+ 
+ cpb  =
+ 
+    8.01  
+ 
+ 
+ xa  =
+ 
+    0.3977022  
+ 
+ xb  =
+ 
+    0.6022978  
+ 
+ t2  =
+ 
+    851.1397  
+ 
+ d  =
+ 
+    0.2615769  
+ 
+ k  =
+ 
+    1.3542372  
+ 
+ dsa  =
+ 
+  - 0.1146636  
+ 
+ dSa  =
+ 
+  - 0.0039539  
+ 
+ dSw  =
+ 
+    0.0039539  
+ 
+ dsw  =
+ 
+    0.0757133  
+ 
+ 
+Final remperature = 851 R 
+
+ Change in entropy of air = -0.115 btu/mole R and -0.00395 Btu/R 
+
+ Change in entropy of water = 0.0757 btu/mole R and 0.00395 Btu/R 
+ 
+ The answers are a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.12/Ex11_12.sce #
+ 
+ 
+ 
+ T  =
+ 
+    710.  
+ 
+ p  =
+ 
+    29.825  
+ 
+ pt  =
+ 
+    50.  
+ 
+ vg  =
+ 
+    13.821  
+ 
+ M  =
+ 
+    29.  
+ 
+ R  =
+ 
+    10.73  
+ 
+ 
+ pa  =
+ 
+    20.175  
+ 
+ V  =
+ 
+    13.021066  
+ 
+ ma  =
+ 
+    0.9421218  
+ 
+ xa  =
+ 
+    0.5965  
+ 
+ mb  =
+ 
+    0.9175747  
+ 
+ 
+In case 1, volume occupied = 13.02 ft^3 
+
+ In case 1, mass of steam = 0.94 lbm steam 
+
+ In case 2, mass of steam = 0.918 lbm steam 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.13/Ex11_13.sce #
+ 
+ 
+ 
+ ps  =
+ 
+    0.64  
+ 
+ p  =
+ 
+    14.7  
+ 
+ M  =
+ 
+    29.  
+ 
+ M2  =
+ 
+    46.  
+ 
+ 
+ xa  =
+ 
+    0.0435374  
+ 
+ mb  =
+ 
+    0.6498259  
+ 
+ 
+percentage = 65.0 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH11/EX11.14/Ex11_14.sce #
+ 
+ 
+ 
+ ps  =
+ 
+    0.5069  
+ 
+ p  =
+ 
+    20.  
+ 
+ m1  =
+ 
+    0.01  
+ 
+ m2  =
+ 
+    1.  
+ 
+ M1  =
+ 
+    18.  
+ 
+ M2  =
+ 
+    29.  
+ 
+ 
+ xw  =
+ 
+    0.0158557  
+ 
+ pw  =
+ 
+    0.3171132  
+ 
+ 
+partial pressure of water vapor = 0.317 psia 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH12/EX12.1/Ex12_1.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    14.7  
+ 
+ k  =
+ 
+    1.4  
+ 
+ T1  =
+ 
+    700.  
+ 
+ R  =
+ 
+    0.37  
+ 
+ V  =
+ 
+    50.  
+ 
+ cv  =
+ 
+    0.171  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ R2  =
+ 
+    0.0684828  
+ 
+ 
+ T2  =
+ 
+    404.75172  
+ 
+ m1  =
+ 
+    19.305019  
+ 
+ m2  =
+ 
+    4.9079136  
+ 
+ Wrev  =
+ 
+    572.58082  
+ 
+ 
+Work done in case 1 = 572 Btu 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH12/EX12.2/Ex12_2.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    400.  
+ 
+ t1  =
+ 
+    600.  
+ 
+ h1  =
+ 
+    1306.9  
+ 
+ b1  =
+ 
+    480.9  
+ 
+ p2  =
+ 
+    50.  
+ 
+ h2  =
+ 
+    1122.  
+ 
+ h3  =
+ 
+    1169.5  
+ 
+ b3  =
+ 
+    310.9  
+ 
+ 
+ 
+ All the values are obtained from Mollier chart,   
+ 
+ dw13  =
+ 
+    137.4  
+ 
+ dw12  =
+ 
+    184.9  
+ 
+ dasf  =
+ 
+  - 170.  
+ 
+ etae  =
+ 
+    0.7431044  
+ 
+ eta  =
+ 
+    0.8082353  
+ 
+ dq  =
+ 
+  - 32.6  
+ 
+ 
+Engine efficiency = 74.3 percent 
+
+ Effectiveness = 80.8 percent 
+
+ Loss of available energy  = -32.6 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH12/EX12.3/Ex12_3.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    100.  
+ 
+ p2  =
+ 
+    10.  
+ 
+ n  =
+ 
+    1.3  
+ 
+ T1  =
+ 
+    800.  
+ 
+ cv  =
+ 
+    0.172  
+ 
+ R  =
+ 
+    0.0684828  
+ 
+ 
+ T2  =
+ 
+    470.24129  
+ 
+ dwir  =
+ 
+    56.718499  
+ 
+ dwr  =
+ 
+    75.275955  
+ 
+ dq  =
+ 
+    18.557456  
+ 
+ 
+The friction of the process per pound of air = 18.6 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH12/EX12.4/Ex12_4.sce #
+ 
+ 
+ 
+ ms  =
+ 
+    10.  
+ 
+ den  =
+ 
+    62.3  
+ 
+ A1  =
+ 
+    0.0218  
+ 
+ A2  =
+ 
+    0.00545  
+ 
+ p2  =
+ 
+    50.  
+ 
+ p1  =
+ 
+    100.  
+ 
+ gc  =
+ 
+    32.2  
+ 
+ dz  =
+ 
+    30.  
+ 
+ 
+ V1  =
+ 
+    7.3630112  
+ 
+ V2  =
+ 
+    29.452045  
+ 
+ df  =
+ 
+    72.942354  
+ 
+ 
+Friction = 72.9 ft-lbf/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.1/Ex13_1.sce #
+ 
+ 
+ 
+ h1  =
+ 
+    1329.1  
+ 
+ v1  =
+ 
+    6.218  
+ 
+ J  =
+ 
+    778.  
+ 
+ g  =
+ 
+    32.174  
+ 
+ m  =
+ 
+    1.  
+ 
+ 
+ p  =
+ 
+    80.    60.    54.6    40.    20.  
+ 
+ h  =
+ 
+    1304.1    1273.8    1265.    1234.2    1174.8  
+ 
+ v  =
+ 
+    7.384    9.208    9.844    12.554    21.279  
+ 
+ Fc  =
+ 
+    1.  
+ 
+ V2  =
+ 
+    1118.7353    1663.8719    1791.3743    2179.6684    2779.3311  
+ 
+ A  =
+ 
+    0.0066003    0.0055341    0.0054952    0.0057596    0.0076562  
+ 
+ V2  =
+ 
+    0.    1118.7353    1663.8719    1791.3743    2179.6684    2779.3311  
+ 
+ A  =
+ 
+    0.    0.0066003    0.0055341    0.0054952    0.0057596    0.0076562  
+ 
+ 
+ 
+ velocity (ft/s)=    
+ 
+ 
+    0.    1118.7353    1663.8719    1791.3743    2179.6684    2779.3311  
+ 
+ 
+ Area (ft^2)=    
+ 
+ 
+    0.    0.0066003    0.0055341    0.0054952    0.0057596    0.0076562  
+ 
+ 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.2/Ex13_2.sce #
+ 
+ 
+ 
+ n  =
+ 
+    1.4  
+ 
+ p1  =
+ 
+    50.  
+ 
+ J  =
+ 
+    778.  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ T1  =
+ 
+    520.  
+ 
+ k  =
+ 
+    1.4  
+ 
+ R  =
+ 
+    53.275862  
+ 
+ m  =
+ 
+    1.  
+ 
+ p2  =
+ 
+    10.  
+ 
+ 
+ rpt  =
+ 
+    0.5282818  
+ 
+ pt  =
+ 
+    26.414089  
+ 
+ Vtrev  =
+ 
+    1020.5482  
+ 
+ v1  =
+ 
+    3.8477011  
+ 
+ vt  =
+ 
+    6.0695214  
+ 
+ At  =
+ 
+    0.0059473  
+ 
+ V2rev  =
+ 
+    1517.7339  
+ 
+ v2  =
+ 
+    12.146905  
+ 
+ A2  =
+ 
+    0.0080033  
+ 
+ 
+Area required = 0.00595 ft^2 
+
+ Area in case 2 = 0.00800 ft^2 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.3/Ex13_3.sce #
+ 
+ 
+ 
+ J  =
+ 
+    778.  
+ 
+ g  =
+ 
+    32.2  
+ 
+ pc  =
+ 
+    54.6  
+ 
+ h1  =
+ 
+    1329.1  
+ 
+ h2  =
+ 
+    1265.  
+ 
+ V2rev  =
+ 
+    1790.  
+ 
+ cv  =
+ 
+    0.99  
+ 
+ m  =
+ 
+    1.  
+ 
+ cv2  =
+ 
+    0.96  
+ 
+ 
+ V2d  =
+ 
+    1772.1  
+ 
+ hd  =
+ 
+    62.82441  
+ 
+ h2d  =
+ 
+    1266.2756  
+ 
+ v2d  =
+ 
+    9.946  
+ 
+ A2d  =
+ 
+    0.0056126  
+ 
+ 
+Throat area in case 2 = 0.0056 ft^2 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.4/Ex13_4.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    50.  
+ 
+ pr  =
+ 
+    0.58  
+ 
+ 
+ p  =
+ 
+    29.  
+ 
+ s1  =
+ 
+    1.6585  
+ 
+ h1  =
+ 
+    1174.1  
+ 
+ sf  =
+ 
+    0.368  
+ 
+ sfg  =
+ 
+    1.3313  
+ 
+ hfg  =
+ 
+    945.3  
+ 
+ vg  =
+ 
+    13.746  
+ 
+ hf  =
+ 
+    218.82  
+ 
+ x  =
+ 
+    0.9693533  
+ 
+ v2  =
+ 
+    13.32473  
+ 
+ h2  =
+ 
+    1135.1496  
+ 
+ V2rev  =
+ 
+    1396.5536  
+ 
+ m  =
+ 
+    0.5716452  
+ 
+ 
+mass flow rate = 0.572 lbm/sec 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.5/Ex13_5.sce #
+ 
+ 
+ 
+ k  =
+ 
+    1.31  
+ 
+ p1  =
+ 
+    7200.  
+ 
+ v1  =
+ 
+    8.515  
+ 
+ pr  =
+ 
+    0.6  
+ 
+ m1  =
+ 
+    0.574  
+ 
+ T1  =
+ 
+    741.  
+ 
+ 
+ V2rev  =
+ 
+    1377.4531  
+ 
+ v2  =
+ 
+    12.575777  
+ 
+ m  =
+ 
+    0.5974057  
+ 
+ C  =
+ 
+    1.0407765  
+ 
+ T2  =
+ 
+    657.267  
+ 
+ t  =
+ 
+    710.  
+ 
+ dt  =
+ 
+    52.733  
+ 
+ 
+Mass flow rate = 0.597 lbm/sec 
+
+ Meta stable under cooling = 52 F 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.6/Ex13_6.sce #
+ 
+ 
+ 
+ zm  =
+ 
+    0.216  
+ 
+ pm  =
+ 
+    62.3  
+ 
+ p1  =
+ 
+    0.0736  
+ 
+ g  =
+ 
+    32.2  
+ 
+ d  =
+ 
+    4.  
+ 
+ 
+ H  =
+ 
+    15.218413  
+ 
+ V  =
+ 
+    31.306003  
+ 
+ m  =
+ 
+    28.954448  
+ 
+ 
+average velocity = 31.3 ft/sec 
+
+ mass flow rate = 29.0 lbm/sec 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.7/Ex13_7.sce #
+ 
+ 
+ 
+ p0  =
+ 
+    50.  
+ 
+ T0  =
+ 
+    520.  
+ 
+ rho0  =
+ 
+    0.259  
+ 
+ p2  =
+ 
+    10.  
+ 
+ mf  =
+ 
+    1.  
+ 
+ 
+ 
+ From table B-17,   
+ 
+ pr  =
+ 
+    0.528  
+ 
+ Tr  =
+ 
+    0.833  
+ 
+ rhor  =
+ 
+    0.634  
+ 
+ ps  =
+ 
+    26.4  
+ 
+ Ts  =
+ 
+    433.16  
+ 
+ rhos  =
+ 
+    0.164206  
+ 
+ Vs  =
+ 
+    1021.8936  
+ 
+ As  =
+ 
+    0.0059594  
+ 
+ p2r  =
+ 
+    0.2  
+ 
+ M2  =
+ 
+    1.71  
+ 
+ V2  =
+ 
+    1519.5557  
+ 
+ T2  =
+ 
+    273.75712  
+ 
+ A2  =
+ 
+    0.0080452  
+ 
+ rho2  =
+ 
+    0.0520533  
+ 
+ 
+Area of throat = 0.00596 ft^2 
+
+ Area of exit = 0.00805 ft^2 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.8/Ex13_8.sce #
+ 
+ 
+ 
+ M1  =
+ 
+    0.2  
+ 
+ M2  =
+ 
+    0.4  
+ 
+ D  =
+ 
+    0.5  
+ 
+ f  =
+ 
+    0.015  
+ 
+ 
+ f1  =
+ 
+    14.5  
+ 
+ f2  =
+ 
+    2.31  
+ 
+ dl  =
+ 
+    406.33333  
+ 
+ 
+Length of pipe = 406.3 ft 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.9/Ex13_9.sce #
+ 
+ 
+ 
+ py  =
+ 
+    20.  
+ 
+ px  =
+ 
+    3.55  
+ 
+ R  =
+ 
+    0.0684828  
+ 
+ 
+ pr  =
+ 
+    5.6338028  
+ 
+ 
+ from table B-19   
+ 
+ Mx  =
+ 
+    2.  
+ 
+ My  =
+ 
+    0.577  
+ 
+ pr2  =
+ 
+    0.721  
+ 
+ ds  =
+ 
+    0.0224018  
+ 
+ 
+Change in entropy = 0.0224 Btu/lbm R 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH13/EX13.10/Ex13_10.sce #
+ 
+ 
+ 
+ M1  =
+ 
+    0.5  
+ 
+ M2  =
+ 
+    1.  
+ 
+ A1  =
+ 
+    0.5  
+ 
+ A2  =
+ 
+    1.  
+ 
+ p1  =
+ 
+    14.7  
+ 
+ p2  =
+ 
+    14.7  
+ 
+ k  =
+ 
+    1.4  
+ 
+ 
+ thru  =
+ 
+    3651.48  
+ 
+ net  =
+ 
+    2593.08  
+ 
+ 
+Internal thrust = 3651 lbf 
+
+ Net thrust = 2593 lbf 
+ 
+ The answers are a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.1/Ex14_1.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    540.  
+ 
+ ps  =
+ 
+    0.5069  
+ 
+ 
+ from steam tables,   
+ 
+ vs  =
+ 
+    633.1  
+ 
+ phi  =
+ 
+    0.3  
+ 
+ R  =
+ 
+    85.6  
+ 
+ Ra  =
+ 
+    53.3  
+ 
+ p  =
+ 
+    14.696  
+ 
+ 
+ tdew  =
+ 
+    46.  
+ 
+ pw  =
+ 
+    0.15207  
+ 
+ rhos  =
+ 
+    0.0015795  
+ 
+ rhow  =
+ 
+    0.0004739  
+ 
+ rhow2  =
+ 
+    0.0004737  
+ 
+ pa  =
+ 
+    14.54393  
+ 
+ rhoa  =
+ 
+    0.0727651  
+ 
+ w  =
+ 
+    0.0065122  
+ 
+ mu  =
+ 
+    0.2926809  
+ 
+ Ws  =
+ 
+    0.0222207  
+ 
+ mu2  =
+ 
+    0.2930676  
+ 
+ 
+ 
+ part a   
+ 
+partial pressure of water = 0.15207 psia 
+
+ dew temperature = 46 F 
+ 
+ part b   
+ 
+density of water = 0.000474 lbm/ft^3 
+
+ in case 2, density of water = 0.000474 lbm/ft^3 
+
+ density of air = 0.072765 lbm/ft^3 
+ 
+ part c   
+ 
+specific humidity  = 0.0065 lbm steam/lbm air 
+ 
+ part d   
+ 
+In method 1, Degree of saturation = 0.293 
+
+ In method 2, Degree of saturation = 0.293 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.2/Ex14_2.sce #
+ 
+ 
+ 
+ p  =
+ 
+    14.696  
+ 
+ ps  =
+ 
+    0.0808  
+ 
+ ps2  =
+ 
+    0.5069  
+ 
+ phi2  =
+ 
+    0.5  
+ 
+ phi  =
+ 
+    0.6  
+ 
+ grain  =
+ 
+    7000.  
+ 
+ 
+ pw  =
+ 
+    0.04848  
+ 
+ w1  =
+ 
+    0.0020587  
+ 
+ pw2  =
+ 
+    0.25345  
+ 
+ w2  =
+ 
+    0.0109154  
+ 
+ dw  =
+ 
+    0.0088567  
+ 
+ dwg  =
+ 
+    61.996888  
+ 
+ 
+change in moisture content = 0.008857 lbm water/lbm dry air 
+
+ in grains, change = 62.00 grains water/lbm dry air 
+ 
+ The answers are a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.3/Ex14_3.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    80.  
+ 
+ t2  =
+ 
+    60.  
+ 
+ p  =
+ 
+    14.696  
+ 
+ ps  =
+ 
+    0.507  
+ 
+ pss  =
+ 
+    0.256  
+ 
+ cp  =
+ 
+    0.24  
+ 
+ 
+ ws  =
+ 
+    0.0110271  
+ 
+ w  =
+ 
+    0.0064441  
+ 
+ pw  =
+ 
+    0.1506943  
+ 
+ phi  =
+ 
+    0.2972274  
+ 
+ td  =
+ 
+    46.  
+ 
+ 
+
+ humidity ratio = 0.0064 lbm/lbm dry air 
+
+ relative humidity  = 29.7 percent 
+
+ Dew point = 46 F 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.4/Ex14_4.sce #
+ 
+ 
+ 
+ W  =
+ 
+    0.0065  
+ 
+ t  =
+ 
+    80.  
+ 
+ td  =
+ 
+    60.  
+ 
+ 
+ H  =
+ 
+    26.324  
+ 
+ sig  =
+ 
+    26.142  
+ 
+ Ws  =
+ 
+    0.0111  
+ 
+ H2  =
+ 
+    26.4657  
+ 
+ sig2  =
+ 
+    26.1549  
+ 
+ 
+In case 1, enthalpy = 26.32 Btu/lbm dry air 
+
+ In case 1, sigma function = 26.14 Btu/lbm dry air 
+
+ In case 2, enthalpy = 26.47 Btu/lbm dry air 
+
+ In case 2, sigma function = 26.15 Btu/lbm dry air 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.5/Ex14_5.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    30.  
+ 
+ t2  =
+ 
+    60.  
+ 
+ t3  =
+ 
+    80.  
+ 
+ W1  =
+ 
+    0.00206  
+ 
+ W2  =
+ 
+    0.0109  
+ 
+ 
+ cm1  =
+ 
+    0.240927  
+ 
+ H1  =
+ 
+    9.41141  
+ 
+ cm2  =
+ 
+    0.244905  
+ 
+ H2  =
+ 
+    31.1464  
+ 
+ hf  =
+ 
+    28.  
+ 
+ dq  =
+ 
+    21.48747  
+ 
+ 
+In case 1, Enthalpy = 9.41 Btu/lbm dry air 
+
+ In case 2, Enthalpy = 31.15 Btu/lbm dry air 
+
+ Heat added = 21.49 Btu/lbm dry air 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.6/Ex14_6.sce #
+ 
+ 
+ 
+ pw  =
+ 
+    0.15  
+ 
+ 
+ using psychrometric charts,   
+ 
+ tdew  =
+ 
+    46.  
+ 
+ 
+ va  =
+ 
+    13.74  
+ 
+ rhoa  =
+ 
+    0.0727802  
+ 
+ V  =
+ 
+    13.74  
+ 
+ mw  =
+ 
+    0.0065714  
+ 
+ rhow  =
+ 
+    0.0004783  
+ 
+ w  =
+ 
+    0.00657  
+ 
+ 
+ 
+ part a   
+ 
+partial pressure of water = 0.15 psia 
+
+ dew temperature = 46 F 
+ 
+ part b   
+ 
+density of water = 0.000478 lbm/ft^3 
+
+ density of air = 0.0728 lbm/ft^3 
+ 
+ part c   
+ 
+specific humidity  = 0.00657 lbm steam/lbm air 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.7/Ex14_7.sce #
+ 
+ 
+ 
+ W1  =
+ 
+    0.00206  
+ 
+ W2  =
+ 
+    0.0109  
+ 
+ t  =
+ 
+    60.  
+ 
+ 
+ dw  =
+ 
+  - 0.00884  
+ 
+ 
+ hs  =
+ 
+    144.4  
+ 
+ hs2  =
+ 
+    34.8  
+ 
+ w1  =
+ 
+    14.4  
+ 
+ ws1  =
+ 
+    20.  
+ 
+ w2  =
+ 
+    76.3  
+ 
+ ws2  =
+ 
+    98.5  
+ 
+ dwh1  =
+ 
+    0.11552  
+ 
+ H1  =
+ 
+    9.41552  
+ 
+ dwh2  =
+ 
+  - 0.1103657  
+ 
+ H2  =
+ 
+    31.189634  
+ 
+ dwc  =
+ 
+  - 0.24752  
+ 
+ dq  =
+ 
+    21.526594  
+ 
+ 
+Enthalpy change = 21.53 Btu/lbm dry air 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.8/Ex14_8.sce #
+ 
+ 
+ 
+ 
+ From psychrometric charts,   
+ 
+ va1  =
+ 
+    13.  
+ 
+ va2  =
+ 
+    13.88  
+ 
+ flow  =
+ 
+    2000.  
+ 
+ 
+ ma1  =
+ 
+    153.84615  
+ 
+ ma2  =
+ 
+    144.09222  
+ 
+ t  =
+ 
+    62.5  
+ 
+ phi  =
+ 
+    0.83  
+ 
+ 
+humidity = 0.83  
+
+ Temperature = 62.5 F 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.9/Ex14_9.sce #
+ 
+ 
+ 
+ t  =
+ 
+    90.  
+ 
+ ts  =
+ 
+    67.2  
+ 
+ phi  =
+ 
+    0.3  
+ 
+ per  =
+ 
+    0.8  
+ 
+ 
+ dep  =
+ 
+    22.8  
+ 
+ dt  =
+ 
+    18.24  
+ 
+ tf  =
+ 
+    71.76  
+ 
+ 
+ from psychrometric charts,   
+ 
+ phi2  =
+ 
+    0.8  
+ 
+ 
+Dry bulb temperature = 71.76 F 
+
+ percent humidity  = 0.80 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH14/EX14.10/Ex14_10.sce #
+ 
+ 
+ 
+ m  =
+ 
+    1.  
+ 
+ t1  =
+ 
+    100.  
+ 
+ t2  =
+ 
+    75.  
+ 
+ db  =
+ 
+    65.  
+ 
+ 
+ From psychrometric charts,   
+ 
+ t11  =
+ 
+    82.  
+ 
+ phi1  =
+ 
+    0.4  
+ 
+ H1  =
+ 
+    30.  
+ 
+ w1  =
+ 
+    65.  
+ 
+ w2  =
+ 
+    250.  
+ 
+ 
+ cr  =
+ 
+    25.  
+ 
+ appr  =
+ 
+    10.  
+ 
+ dmf3  =
+ 
+    0.0263995  
+ 
+ hf3  =
+ 
+    68.  
+ 
+ hf4  =
+ 
+    43.  
+ 
+ H2  =
+ 
+    62.2  
+ 
+ H1  =
+ 
+    30.  
+ 
+ mf4  =
+ 
+    1.2161934  
+ 
+ per  =
+ 
+    0.0212455  
+ 
+ 
+cooling range = 25 F 
+
+ Approach = 10 F 
+
+ amount of water cooled per pound of dry air = 1.216 lbm dry air/lbm dry air 
+
+ percentage of water lost by evaporation = 2.12 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH15/EX15.1/Ex15_1.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    600.  
+ 
+ p2  =
+ 
+    0.2563  
+ 
+ t1  =
+ 
+    486.21  
+ 
+ t2  =
+ 
+    60.  
+ 
+ fur  =
+ 
+    0.75  
+ 
+ 
+ 
+ from steam tables,   
+ 
+ h1  =
+ 
+    1203.2  
+ 
+ hf1  =
+ 
+    471.6  
+ 
+ hfg1  =
+ 
+    731.6  
+ 
+ h2  =
+ 
+    1088.  
+ 
+ hf2  =
+ 
+    28.06  
+ 
+ hfg2  =
+ 
+    1059.9  
+ 
+ s1  =
+ 
+    1.4454  
+ 
+ sf1  =
+ 
+    0.672  
+ 
+ sfg1  =
+ 
+    0.7734  
+ 
+ s2  =
+ 
+    2.0948  
+ 
+ sf2  =
+ 
+    0.0555  
+ 
+ sfg2  =
+ 
+    2.0393  
+ 
+ xd  =
+ 
+    0.6815574  
+ 
+ hd  =
+ 
+    750.44269  
+ 
+ xa  =
+ 
+    0.3023  
+ 
+ ha  =
+ 
+    348.46777  
+ 
+ wbc  =
+ 
+    0.  
+ 
+ wda  =
+ 
+    0.  
+ 
+ wcd  =
+ 
+    452.75731  
+ 
+ wab  =
+ 
+  - 123.13223  
+ 
+ W  =
+ 
+    329.62508  
+ 
+ Wrev  =
+ 
+    329.66402  
+ 
+ etat  =
+ 
+    0.4505820  
+ 
+ eta  =
+ 
+    0.3379365  
+ 
+ 
+Thermal efficiency = 45 percent 
+
+ Furnace efficiency = 33.8 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH15/EX15.2/Ex15_2.sce #
+ 
+ 
+ 
+ dhab  =
+ 
+  - 123.1  
+ 
+ etac  =
+ 
+    0.5  
+ 
+ ha  =
+ 
+    348.5  
+ 
+ etaf  =
+ 
+    0.75  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ hf  =
+ 
+    471.6  
+ 
+ hfg  =
+ 
+    731.6  
+ 
+ hc  =
+ 
+    1203.2  
+ 
+ dhcd  =
+ 
+    452.7  
+ 
+ 
+ dwabs  =
+ 
+  - 246.2  
+ 
+ hbd  =
+ 
+    594.7  
+ 
+ dwcds  =
+ 
+    384.795  
+ 
+ dqa  =
+ 
+    608.5  
+ 
+ etat  =
+ 
+    0.227765  
+ 
+ eta  =
+ 
+    0.1708237  
+ 
+ 
+Thermal efficiency = 22.8 percent 
+
+ Overall efficiency = 17.1 percent 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH15/EX15.3/Ex15_3.sce #
+ 
+ 
+ 
+ t  =
+ 
+    60.  
+ 
+ J  =
+ 
+    778.16  
+ 
+ p1  =
+ 
+    600.  
+ 
+ p2  =
+ 
+    0.2563  
+ 
+ etaf  =
+ 
+    0.85  
+ 
+ 
+ 
+ From steam tables,   
+ 
+ vf  =
+ 
+    0.01604  
+ 
+ dw  =
+ 
+  - 1.7801789  
+ 
+ ha  =
+ 
+    28.06  
+ 
+ hb  =
+ 
+    29.84  
+ 
+ hd  =
+ 
+    1203.2  
+ 
+ he  =
+ 
+    750.5  
+ 
+ dqa  =
+ 
+    1173.36  
+ 
+ dqr  =
+ 
+  - 722.44  
+ 
+ dw  =
+ 
+    450.92  
+ 
+ dwturb  =
+ 
+    452.7  
+ 
+ dwpump  =
+ 
+  - 1.78  
+ 
+ etat  =
+ 
+    0.3842981  
+ 
+ eta  =
+ 
+    0.3266534  
+ 
+ 
+Thermal efficiency = 38.4 percent 
+
+ Overall efficiency = 32.7 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH15/EX15.4/Ex15_4.sce #
+ 
+ 
+ 
+ dhab  =
+ 
+  - 1.78  
+ 
+ etac  =
+ 
+    0.5  
+ 
+ ha  =
+ 
+    28.06  
+ 
+ eta  =
+ 
+    0.85  
+ 
+ hf  =
+ 
+    471.6  
+ 
+ hfg  =
+ 
+    731.6  
+ 
+ hd  =
+ 
+    1203.2  
+ 
+ dhcd  =
+ 
+    452.7  
+ 
+ 
+ dwabs  =
+ 
+  - 3.56  
+ 
+ hbd  =
+ 
+    31.62  
+ 
+ dwcds  =
+ 
+    384.795  
+ 
+ dqa  =
+ 
+    1171.58  
+ 
+ etat  =
+ 
+    0.3254024  
+ 
+ eta  =
+ 
+    0.2765921  
+ 
+ 
+Thermal efficiency = 32.5 percent 
+
+ Overall efficiency = 27.7 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH15/EX15.5/Ex15_5.sce #
+ 
+ 
+ 
+ p2  =
+ 
+    600.  
+ 
+ p1  =
+ 
+    44.  
+ 
+ te  =
+ 
+    486.21  
+ 
+ tb  =
+ 
+    273.1  
+ 
+ J  =
+ 
+    778.16  
+ 
+ p3  =
+ 
+    0.25  
+ 
+ 
+ hc  =
+ 
+    241.9  
+ 
+ hj  =
+ 
+    834.6  
+ 
+ y  =
+ 
+    0.195  
+ 
+ v1  =
+ 
+    0.0172  
+ 
+ v2  =
+ 
+    0.016  
+ 
+ ha  =
+ 
+    28.06  
+ 
+ hd  =
+ 
+    243.66969  
+ 
+ hb  =
+ 
+    28.189536  
+ 
+ hh  =
+ 
+    1374.  
+ 
+ Qa  =
+ 
+    1130.3303  
+ 
+ Qr  =
+ 
+  - 649.2647  
+ 
+ etat  =
+ 
+    0.4255974  
+ 
+ 
+thermal efficiency = 42.6 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.1/Ex16_1.sce #
+ 
+ 
+ 
+ per  =
+ 
+    85.  
+ 
+ 
+ a  =
+ 
+    7.0833333  
+ 
+ b  =
+ 
+    15.  
+ 
+ ad  =
+ 
+    8.0041667  
+ 
+ bd  =
+ 
+    16.95  
+ 
+ 
+Molecule is C 8 H 17 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.2/Ex16_2.sce #
+ 
+ 
+ 
+ per  =
+ 
+    0.071  
+ 
+ 
+ O2  =
+ 
+    8.74  
+ 
+ N2  =
+ 
+    32.8979  
+ 
+ 
+Oxygen = 8.74 and Nitrogen = 32.90 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.4/Ex16_4.sce #
+ 
+ 
+ 
+ N2  =
+ 
+    78.1  
+ 
+ M  =
+ 
+    29.  
+ 
+ co2  =
+ 
+    8.7  
+ 
+ co  =
+ 
+    8.9  
+ 
+ x4  =
+ 
+    0.3  
+ 
+ x5  =
+ 
+    3.7  
+ 
+ x6  =
+ 
+    14.7  
+ 
+ 
+ O2  =
+ 
+    20.771277  
+ 
+ Z  =
+ 
+    2.2375  
+ 
+ AF  =
+ 
+    11.340355  
+ 
+ 
+Air fuel ratio = 11.3 lbm air/lbm fuel 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.5/Ex16_5.sce #
+ 
+ 
+ 
+ N2  =
+ 
+    78.1  
+ 
+ M  =
+ 
+    29.  
+ 
+ ba  =
+ 
+    2.12  
+ 
+ x4  =
+ 
+    0.3  
+ 
+ x5  =
+ 
+    3.7  
+ 
+ x6  =
+ 
+    14.7  
+ 
+ 
+ O2  =
+ 
+    20.771277  
+ 
+ O2  =
+ 
+    20.771277  
+ 
+ Z  =
+ 
+    2.2352941  
+ 
+ AF  =
+ 
+    11.351546  
+ 
+ 
+Air fuel ratio = 11.4 lbm air/lbm fuel 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.6/Ex16_6.sce #
+ 
+ 
+ 
+ N2  =
+ 
+    78.1  
+ 
+ M  =
+ 
+    29.  
+ 
+ ba  =
+ 
+    2.12  
+ 
+ x4  =
+ 
+    0.3  
+ 
+ x5  =
+ 
+    3.7  
+ 
+ x6  =
+ 
+    14.7  
+ 
+ 
+ O2  =
+ 
+    20.771277  
+ 
+ c  =
+ 
+    14.7  
+ 
+ b  =
+ 
+    38.  
+ 
+ a  =
+ 
+    17.924528  
+ 
+ AF  =
+ 
+    11.328847  
+ 
+ 
+Air fuel ratio = 11.3 lbm air/lbm fuel 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.7/Ex16_7.sce #
+ 
+ 
+ 
+ N2  =
+ 
+    78.1  
+ 
+ M  =
+ 
+    29.  
+ 
+ ba  =
+ 
+    2.12  
+ 
+ co2  =
+ 
+    8.7  
+ 
+ co  =
+ 
+    8.9  
+ 
+ x4  =
+ 
+    0.3  
+ 
+ x5  =
+ 
+    3.7  
+ 
+ x6  =
+ 
+    14.7  
+ 
+ 
+ O2  =
+ 
+    20.771277  
+ 
+ c  =
+ 
+    14.7  
+ 
+ Z  =
+ 
+    2.238  
+ 
+ X  =
+ 
+    14.723  
+ 
+ a  =
+ 
+    20.8  
+ 
+ b  =
+ 
+    78.2912  
+ 
+ AF  =
+ 
+    11.337821  
+ 
+ 
+Air fuel ratio = 11.3 lbm air/lbm fuel 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.8/Ex16_8.sce #
+ 
+ 
+ 
+ x1  =
+ 
+    8.7  
+ 
+ x2  =
+ 
+    8.9  
+ 
+ x3  =
+ 
+    0.3  
+ 
+ N  =
+ 
+    78.1  
+ 
+ z  =
+ 
+    113.  
+ 
+ M  =
+ 
+    29.  
+ 
+ 
+ co2  =
+ 
+    18.645833  
+ 
+ a  =
+ 
+    2.325  
+ 
+ AF  =
+ 
+    11.369303  
+ 
+ 
+Air fuel ratio = 11.37 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.9/Ex16_9.sce #
+ 
+ 
+ 
+ dH  =
+ 
+  - 2369859.  
+ 
+ r  =
+ 
+    1.986  
+ 
+ dn  =
+ 
+    5.5  
+ 
+ T  =
+ 
+    536.7  
+ 
+ 
+ dQ  =
+ 
+  - 2363996.6  
+ 
+ 
+Higher heating value = -2363996 Btu 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.10/Ex16_10.sce #
+ 
+ 
+ 
+ y  =
+ 
+    13.  
+ 
+ x  =
+ 
+    12.  
+ 
+ M2  =
+ 
+    18.  
+ 
+ M  =
+ 
+    170.  
+ 
+ p  =
+ 
+    0.4593  
+ 
+ vfg  =
+ 
+    694.9  
+ 
+ J  =
+ 
+    778.2  
+ 
+ m  =
+ 
+    162.  
+ 
+ u1  =
+ 
+  - 2363996.  
+ 
+ 
+ z  =
+ 
+    1.3764706  
+ 
+ hfg  =
+ 
+    1050.4  
+ 
+ ufg  =
+ 
+    991.34047  
+ 
+ dU  =
+ 
+    160597.16  
+ 
+ Lhv  =
+ 
+  - 2203398.8  
+ 
+ 
+Lower heating value = -2203398 Btu/lbm 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.11/Ex16_11.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    8.  
+ 
+ n2  =
+ 
+    9.  
+ 
+ n3  =
+ 
+    1.  
+ 
+ n4  =
+ 
+    12.5  
+ 
+ U11  =
+ 
+    3852.  
+ 
+ U12  =
+ 
+    115.  
+ 
+ U21  =
+ 
+    3009.  
+ 
+ U22  =
+ 
+    101.  
+ 
+ U31  =
+ 
+    24773.  
+ 
+ U32  =
+ 
+    640.  
+ 
+ U41  =
+ 
+    2539.  
+ 
+ U42  =
+ 
+    83.  
+ 
+ H  =
+ 
+  - 2203389.  
+ 
+ 
+ dU1  =
+ 
+    56068.  
+ 
+ dU2  =
+ 
+    54833.  
+ 
+ Q  =
+ 
+  - 2202154.  
+ 
+ 
+Heat of reaction = -2202154 Btu 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.12/Ex16_12.sce #
+ 
+ 
+ 
+ n1  =
+ 
+    8.  
+ 
+ n2  =
+ 
+    9.  
+ 
+ n3  =
+ 
+    47.  
+ 
+ h1  =
+ 
+    118.  
+ 
+ h2  =
+ 
+    104.  
+ 
+ h3  =
+ 
+    82.5  
+ 
+ Q  =
+ 
+    2203279.  
+ 
+ 
+ U11  =
+ 
+    5757.5  
+ 
+ U12  =
+ 
+    2209036.5  
+ 
+ T2  =
+ 
+    5271.  
+ 
+ 
+Upon interpolating, T2 = 5271 R 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.13/Ex16_13.sce #
+ 
+ 
+ 
+ kp  =
+ 
+    5.  
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+  - 0.1716095 + 0.4618977i  
+  - 0.1716095 - 0.4618977i  
+    0.3432190               
+ 
+ x  =
+ 
+    0.3432190  
+ 
+ y  =
+ 
+    y   
+ 
+ vec2  =
+ 
+  - 0.0901438 + 0.1908557i  
+  - 0.0901438 - 0.1908557i  
+    0.1802875               
+ 
+ y  =
+ 
+    0.1802875  
+ 
+ 
+percentage of dissociation = 34.3 percent 
+
+ If pressure =10 . degree of dissociation = 18 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH16/EX16.14/Ex16_14.sce #
+ 
+ 
+ 
+ x  =
+ 
+    x   
+ 
+ vec  =
+ 
+  - 1.7841678  
+  - 0.4320459  
+    0.2162137  
+ 
+ x  =
+ 
+    21.621368  
+ 
+ 
+Extent of reaction= 78 percent 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH18/EX18.1/Ex18_1.sce #
+ 
+ 
+ 
+ Ta  =
+ 
+    500.  
+ 
+ Tr  =
+ 
+    540.  
+ 
+ 
+ cop  =
+ 
+    12.5  
+ 
+ hp  =
+ 
+    0.3768  
+ 
+ 
+ From steam tables,   
+ 
+ ha  =
+ 
+    48.02  
+ 
+ hb  =
+ 
+    46.6  
+ 
+ hc  =
+ 
+    824.1  
+ 
+ hd  =
+ 
+    886.9  
+ 
+ Wc  =
+ 
+  - 62.8  
+ 
+ We  =
+ 
+    1.42  
+ 
+ 
+Coefficient of performance = 12.5  
+
+ horsepower required per ton of refrigeration = 0.377 hp/ton refrigeration 
+
+ Work of compression = -62.8 Btu/lbm 
+
+ Work of expansion = 1.42 Btu/lbm 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH18/EX18.2/Ex18_2.sce #
+ 
+ 
+ 
+ x  =
+ 
+    0.8  
+ 
+ he  =
+ 
+    26.28  
+ 
+ hb  =
+ 
+    26.28  
+ 
+ pe  =
+ 
+    98.76  
+ 
+ pc  =
+ 
+    51.68  
+ 
+ hc  =
+ 
+    82.71  
+ 
+ hf  =
+ 
+    87.75  
+ 
+ 
+ dwisen  =
+ 
+  - 5.04  
+ 
+ dwact  =
+ 
+  - 6.3  
+ 
+ hd  =
+ 
+    89.01  
+ 
+ cop  =
+ 
+    8.9571429  
+ 
+ 
+Coefficient of performance = 8.96 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH18/EX18.3/Ex18_3.sce #
+ 
+ 
+ 
+ hc  =
+ 
+    613.3  
+ 
+ hb  =
+ 
+    138.9  
+ 
+ ha  =
+ 
+    138.9  
+ 
+ hd  =
+ 
+    713.4  
+ 
+ ta  =
+ 
+    464.7  
+ 
+ t0  =
+ 
+    545.7  
+ 
+ v  =
+ 
+    8.15  
+ 
+ 
+ Qa  =
+ 
+    474.4  
+ 
+ Qr  =
+ 
+  - 574.5  
+ 
+ Wcd  =
+ 
+  - 100.1  
+ 
+ cop  =
+ 
+    4.7392607  
+ 
+ hp  =
+ 
+    0.9938259  
+ 
+ carnot  =
+ 
+    5.737037  
+ 
+ rel  =
+ 
+    0.8260816  
+ 
+ mass  =
+ 
+    0.4215852  
+ 
+ C  =
+ 
+    3.4359191  
+ 
+ 
+Work done = -100.1 Btu/lbm 
+
+ horsepower required per ton of refrigeration = 0.994 hp/ton refrigeration 
+
+ Coefficient of performance actual = 4.74  
+
+ Ideal cop = 5.737 
+
+ relative efficiency = 0.826 
+
+ Mass flow rate = 0.422 lbm/min ton 
+
+ Compressor capacity = 3.44 cfm/ton 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH18/EX18.4/Ex18_4.sce #
+ 
+ 
+ 
+ pc  =
+ 
+    0.6982  
+ 
+ pe  =
+ 
+    0.1217  
+ 
+ m  =
+ 
+    200.  
+ 
+ qual  =
+ 
+    0.98  
+ 
+ h1  =
+ 
+    23.07  
+ 
+ h2  =
+ 
+    8.05  
+ 
+ hw  =
+ 
+    1071.3  
+ 
+ 
+ rp  =
+ 
+    5.7370583  
+ 
+ m2  =
+ 
+    1732.834  
+ 
+ m2  =
+ 
+    1670.  
+ 
+ dh  =
+ 
+    15.02  
+ 
+ Qa  =
+ 
+    25083.4  
+ 
+ h3  =
+ 
+    1057.924  
+ 
+ m3  =
+ 
+    24.238588  
+ 
+ v  =
+ 
+    2395.136  
+ 
+ C  =
+ 
+    58054.715  
+ 
+ 
+Pressure ratio = 5.74 
+
+ Heat = 25083 Btu/min 
+
+ Water make up required = 24.24 lbm/min 
+
+ Volume of vapor entering ejector = 58054 cfm 
+ 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.1/Ex19_1.sce #
+ 
+ 
+ 
+ r1  =
+ 
+    1.12  
+ 
+ r2  =
+ 
+    3.06  
+ 
+ t1  =
+ 
+    203.  
+ 
+ t2  =
+ 
+    184.  
+ 
+ r3  =
+ 
+    2.09  
+ 
+ pow  =
+ 
+    11.1  
+ 
+ 
+ km  =
+ 
+    1.0778029  
+ 
+ dt  =
+ 
+    13.909091  
+ 
+ t3d  =
+ 
+    189.09091  
+ 
+ 
+The experimental value of thermal conductivity = 1.08 Btu/hr ft F 
+
+ Required temperature = 189.1 F 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.2/Ex19_2.sce #
+ 
+ 
+ 
+ r1  =
+ 
+    4.035  
+ 
+ r2  =
+ 
+    4.312  
+ 
+ r3  =
+ 
+    5.312  
+ 
+ r4  =
+ 
+    6.812  
+ 
+ k12  =
+ 
+    25.  
+ 
+ k23  =
+ 
+    0.05  
+ 
+ k34  =
+ 
+    0.04  
+ 
+ t1  =
+ 
+    625.  
+ 
+ t4  =
+ 
+    125.  
+ 
+ l  =
+ 
+    100.  
+ 
+ hr  =
+ 
+    1.7  
+ 
+ 
+ Rs  =
+ 
+    0.0165393  
+ 
+ Qd  =
+ 
+    30231.106  
+ 
+ dt  =
+ 
+    49.857655  
+ 
+ t0  =
+ 
+    75.142345  
+ 
+ 
+Heat loss = 30231 Btu/hr 
+
+ Temperature required = 75 F 
+ 
+ The answers given in the textbook are a bit different due to rounding off error   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.3/Ex19_3.sce #
+ 
+ 
+ 
+ dout  =
+ 
+    1.  
+ 
+ d1  =
+ 
+    0.049  
+ 
+ t1  =
+ 
+    70.  
+ 
+ t2  =
+ 
+    80.  
+ 
+ rho  =
+ 
+    62.2  
+ 
+ mum  =
+ 
+    2.22  
+ 
+ k  =
+ 
+    0.352  
+ 
+ cp  =
+ 
+    1.  
+ 
+ vel  =
+ 
+    500000.  
+ 
+ n  =
+ 
+    100.  
+ 
+ 
+ D  =
+ 
+    0.902  
+ 
+ t  =
+ 
+    75.  
+ 
+ V  =
+ 
+    18115.034  
+ 
+ Re  =
+ 
+    38150.643  
+ 
+ Pr  =
+ 
+    6.3068182  
+ 
+ Nu  =
+ 
+    222.25598  
+ 
+ hc  =
+ 
+    1040.8085  
+ 
+ 
+Coefficient of heat transfer = 1040 Btu/hr ft^2 F 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.4/Ex19_4.sce #
+ 
+ 
+ 
+ d1  =
+ 
+    0.5  
+ 
+ t1  =
+ 
+    200.  
+ 
+ t2  =
+ 
+    80.  
+ 
+ ta  =
+ 
+    400.  
+ 
+ rho  =
+ 
+    0.0662  
+ 
+ mum  =
+ 
+    0.0483  
+ 
+ k  =
+ 
+    0.0167  
+ 
+ cp  =
+ 
+    0.2408  
+ 
+ rho2  =
+ 
+    0.0567  
+ 
+ mum2  =
+ 
+    0.0542  
+ 
+ k2  =
+ 
+    0.019  
+ 
+ cp2  =
+ 
+    0.2419  
+ 
+ g  =
+ 
+    32.17  
+ 
+ 
+ ti  =
+ 
+    140.  
+ 
+ bet  =
+ 
+    0.0016667  
+ 
+ Pr1  =
+ 
+    0.6964455  
+ 
+ Gr1  =
+ 
+    19580230.  
+ 
+ Gr1pr1  =
+ 
+    13636563.  
+ 
+ hc1  =
+ 
+    1.0757183  
+ 
+ Q1  =
+ 
+    129.0862  
+ 
+ tf  =
+ 
+    240.  
+ 
+ bet2  =
+ 
+    0.0014286  
+ 
+ Pr2  =
+ 
+    0.6900516  
+ 
+ Gr2  =
+ 
+    26072673.  
+ 
+ Gr2pr2  =
+ 
+    17991489.  
+ 
+ hc2  =
+ 
+    1.311675  
+ 
+ Q2  =
+ 
+    419.736  
+ 
+ per  =
+ 
+    225.15947  
+ 
+ 
+Coefficient of heat transfer in case 1= 1.076 Btu/hr ft^2 F 
+
+ Coefficient of heat transfer in case 2 = 1.312 Btu/hr ft^2 F 
+
+ Percentage change = 225 percent 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.5/Ex19_5.sce #
+ 
+ 
+ 
+ chord  =
+ 
+    40.  
+ 
+ v  =
+ 
+    1200.  
+ 
+ t1  =
+ 
+    80.  
+ 
+ t2  =
+ 
+    200.  
+ 
+ mu  =
+ 
+    0.0447  
+ 
+ rho  =
+ 
+    5280.  
+ 
+ cp  =
+ 
+    0.2404  
+ 
+ k  =
+ 
+    0.0152  
+ 
+ J  =
+ 
+    778.  
+ 
+ gc  =
+ 
+    32.17  
+ 
+ mu2  =
+ 
+    0.0514  
+ 
+ k2  =
+ 
+    0.0179  
+ 
+ cp2  =
+ 
+    0.2414  
+ 
+ 
+ Re  =
+ 
+    4.167D+08  
+ 
+ r  =
+ 
+    0.8908395  
+ 
+ tav  =
+ 
+    309.31353  
+ 
+ ts  =
+ 
+    190.44898  
+ 
+ Re2  =
+ 
+    3.008D+08  
+ 
+ Pr2  =
+ 
+    0.6931821  
+ 
+ hc  =
+ 
+    88.836294  
+ 
+ Q2  =
+ 
+  - 9711.0091  
+ 
+ 
+Temperature of wing surface = 309.3 F 
+
+ Heat transfer convective = -9711 Btu/hr ft^2 
+ 
+ The answers are a bit different due to rounding off error in textbook   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.6/Ex19_6.sce #
+ 
+ 
+ 
+ r1  =
+ 
+    1.  
+ 
+ r2  =
+ 
+    5.  
+ 
+ F12  =
+ 
+    1.  
+ 
+ 
+ F21  =
+ 
+    0.04  
+ 
+ F22  =
+ 
+    0.96  
+ 
+ 
+Percent of radiation emitted by surface 2 on small sphere = 4 percent 
+
+ Remaining 96 percent is absorbed by inner surface of larger sphere 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.7/Ex19_7.sce #
+ 
+ 
+ 
+ short  =
+ 
+    2.  
+ 
+ apart  =
+ 
+    3.  
+ 
+ long  =
+ 
+    4.  
+ 
+ T1  =
+ 
+    2260.  
+ 
+ T2  =
+ 
+    530.  
+ 
+ sigma  =
+ 
+    0.1714  
+ 
+ 
+ A1  =
+ 
+    8.  
+ 
+ ratio  =
+ 
+    0.6666667  
+ 
+ 
+ from curve 3   
+ 
+ F  =
+ 
+    0.165  
+ 
+ Q12  =
+ 
+    58844.102  
+ 
+ 
+Net exchange of radiation = 58844 Btu/hr 
+ 
+ The answer in the textbook is a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.8/Ex19_8.sce #
+ 
+ 
+ 
+ F  =
+ 
+    0.51  
+ 
+ A1  =
+ 
+    8.  
+ 
+ sigma  =
+ 
+    0.1714  
+ 
+ T1  =
+ 
+    2260.  
+ 
+ T2  =
+ 
+    530.  
+ 
+ 
+ Q12  =
+ 
+    181881.77  
+ 
+ 
+Net exchange of radiation = 181881 Btu/hr 
+ 
+ The answer in the textbook is a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.9/Ex19_9.sce #
+ 
+ 
+ 
+ F  =
+ 
+    0.51  
+ 
+ A1  =
+ 
+    8.  
+ 
+ sigma  =
+ 
+    0.1714  
+ 
+ T1  =
+ 
+    2260.  
+ 
+ T2  =
+ 
+    530.  
+ 
+ 
+ F12  =
+ 
+    0.3651551  
+ 
+ Q12  =
+ 
+    130225.61  
+ 
+ 
+Net exchange of radiation = 130225 Btu/hr 
+ 
+ The answer in the textbook is a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.10/Ex19_10.sce #
+ 
+ 
+ 
+ em  =
+ 
+    0.79  
+ 
+ sigma  =
+ 
+    0.1714  
+ 
+ T1  =
+ 
+    660.  
+ 
+ T2  =
+ 
+    540.  
+ 
+ T3  =
+ 
+    860.  
+ 
+ 
+ Q1  =
+ 
+    141.79283  
+ 
+ Q2  =
+ 
+    625.54539  
+ 
+ Qh1  =
+ 
+    270.79283  
+ 
+ Qh2  =
+ 
+    1044.5454  
+ 
+ per  =
+ 
+    285.73598  
+ 
+ 
+Percentage change in total heat trasnfer = 285.7 percent 
+ 
+ The answer in the textbook is a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.11/Ex19_11.sce #
+ 
+ 
+ 
+ Tp  =
+ 
+    12.57  
+ 
+ Tw  =
+ 
+    10.73  
+ 
+ ep  =
+ 
+    0.8  
+ 
+ sig  =
+ 
+    0.1714  
+ 
+ hc  =
+ 
+    7.  
+ 
+ 
+ dt  =
+ 
+    229.38146  
+ 
+ 
+Error in probe reading = 229 F 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.12/Ex19_12.sce #
+ 
+ 
+ 
+ l  =
+ 
+    6.  
+ 
+ d1  =
+ 
+    0.55  
+ 
+ d2  =
+ 
+    0.75  
+ 
+ h1  =
+ 
+    280.  
+ 
+ h2  =
+ 
+    2000.  
+ 
+ k  =
+ 
+    220.  
+ 
+ t2  =
+ 
+    212.  
+ 
+ t1  =
+ 
+    60.  
+ 
+ f  =
+ 
+    500.  
+ 
+ 
+ A2  =
+ 
+    0.8639380  
+ 
+ A3  =
+ 
+    1.1780972  
+ 
+ Rt  =
+ 
+    0.0045957  
+ 
+ Q  =
+ 
+    33074.368  
+ 
+ Rt2  =
+ 
+    0.0069107  
+ 
+ Q2  =
+ 
+    21994.926  
+ 
+ 
+Heat transfer = 33074 Btu/hr 
+
+ Heat transfer in case 2= 21994 Btu/hr 
+ 
+ The answer in the textbook is a bit different due to rounding off error in textbook.   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.13/Ex19_13.sce #
+ 
+ 
+ 
+ l  =
+ 
+    6.  
+ 
+ d1  =
+ 
+    0.55  
+ 
+ d2  =
+ 
+    0.75  
+ 
+ h1  =
+ 
+    280.  
+ 
+ h2  =
+ 
+    2000.  
+ 
+ k  =
+ 
+    220.  
+ 
+ t2  =
+ 
+    212.  
+ 
+ t1  =
+ 
+    60.  
+ 
+ 
+ A2  =
+ 
+    0.8639380  
+ 
+ A3  =
+ 
+    1.1780972  
+ 
+ Rt  =
+ 
+    0.0045957  
+ 
+ U3  =
+ 
+    184.69997  
+ 
+ 
+Overall Heat transfer coefficient = 184.7 Btu/hr ft^2 F 
+ 
+ The answer in the textbook is a bit different due to rounding off error in textbook.   
+ 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH19/EX19.14/Ex19_14.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    300.  
+ 
+ t2  =
+ 
+    260.  
+ 
+ t3  =
+ 
+    200.  
+ 
+ t4  =
+ 
+    160.  
+ 
+ 
+ X  =
+ 
+    0.7142857  
+ 
+ Z  =
+ 
+    1.  
+ 
+ 
+Parameters X and Z are 0.714 and 1.0 respectively 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH20/EX20.1/Ex20_1.sce #
+ 
+ 
+ 
+ heat  =
+ 
+    54.5  
+ 
+ d  =
+ 
+    0.811  
+ 
+ h  =
+ 
+    2.5  
+ 
+ ts  =
+ 
+    100.  
+ 
+ km  =
+ 
+    220.  
+ 
+ 
+ t2  =
+ 
+    202.67554  
+ 
+ w  =
+ 
+    15192.436  
+ 
+ t1  =
+ 
+    202.69526  
+ 
+ 
+Surface temperature of transmission line = 202.7 F 
+
+ Rate of heat generaton per unit volume of wire = 15192 Btu/hr ft^2 
+
+ Max. temperature in the line = 202.70 F 
+ 
+ The answers in the textbook are a bit different due to rounding off errors   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH20/EX20.2/Ex20_2.sce #
+ 
+ 
+ 
+ d1  =
+ 
+    1.  
+ 
+ l  =
+ 
+    1.  
+ 
+ r  =
+ 
+    0.5  
+ 
+ L  =
+ 
+    0.5  
+ 
+ Ts  =
+ 
+    430.  
+ 
+ Ta  =
+ 
+    170.  
+ 
+ del  =
+ 
+    0.0125  
+ 
+ h  =
+ 
+    10.  
+ 
+ eta  =
+ 
+    0.77  
+ 
+ eta2  =
+ 
+    0.94  
+ 
+ n  =
+ 
+    60.  
+ 
+ thick  =
+ 
+    0.025  
+ 
+ k2  =
+ 
+    132.  
+ 
+ 
+ Q  =
+ 
+    680.67841  
+ 
+ rate  =
+ 
+    2.  
+ 
+ k  =
+ 
+    26.  
+ 
+ Lt  =
+ 
+    0.8006408  
+ 
+ dtm  =
+ 
+    200.2  
+ 
+ As  =
+ 
+    4.712389  
+ 
+ Q1  =
+ 
+    3930.9178  
+ 
+ Q2  =
+ 
+    595.59361  
+ 
+ Qt  =
+ 
+    4526.5114  
+ 
+ al  =
+ 
+    0.8  
+ 
+ tl  =
+ 
+    364.40198  
+ 
+ al2  =
+ 
+    3.030303  
+ 
+ dtm2  =
+ 
+    244.4  
+ 
+ Q12  =
+ 
+    4798.7828  
+ 
+ Qt2  =
+ 
+    5394.3764  
+ 
+ 
+Heat rate per foot of bare tube = 680.7 Btu/hr 
+
+ Total hourly heat loss per foot of finned tube = 4526.5 Btu/hr 
+
+ Approx. temp for tip of the fin = 364 F 
+
+ In case of Al, Total beat loss = 5394.4 Btu/hr 
+ 
+ The answers in the textbook are a bit different due to rounding off errors   
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH20/EX20.3/Ex20_3.sce #
+ 
+ 
+ 
+ tl  =
+ 
+    125.  
+ 
+ t0  =
+ 
+    80.  
+ 
+ t1  =
+ 
+    1000.  
+ 
+ d  =
+ 
+    1.  
+ 
+ k  =
+ 
+    25.  
+ 
+ k2  =
+ 
+    0.0208  
+ 
+ Nu  =
+ 
+    18.  
+ 
+ 
+ byal  =
+ 
+    0.0489130  
+ 
+ al  =
+ 
+    3.7102597  
+ 
+ b  =
+ 
+    0.2617994  
+ 
+ A  =
+ 
+    0.0054542  
+ 
+ tm  =
+ 
+    1022.5  
+ 
+ hr  =
+ 
+    2.8289408  
+ 
+ hc  =
+ 
+    4.4928  
+ 
+ a  =
+ 
+    3.7493656  
+ 
+ L  =
+ 
+    0.98957  
+ 
+ 
+Length required = 0.99 ft 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH20/EX20.5/Ex20_5.sce #
+ 
+ 
+ 
+ c  =
+ 
+    0.0947  
+ 
+ rho  =
+ 
+    0.0551  
+ 
+ mu  =
+ 
+    0.0553  
+ 
+ t1  =
+ 
+    440.  
+ 
+ ts  =
+ 
+    400.  
+ 
+ t2  =
+ 
+    80.  
+ 
+ d  =
+ 
+    0.1  
+ 
+ k  =
+ 
+    0.0194  
+ 
+ rho2  =
+ 
+    558.  
+ 
+ v  =
+ 
+    10.  
+ 
+ 
+ Re  =
+ 
+    298.91501  
+ 
+ Nu  =
+ 
+    11.311765  
+ 
+ hc  =
+ 
+    26.333788  
+ 
+ ex  =
+ 
+  - 2.1972246  
+ 
+ tau  =
+ 
+    0.0061237  
+ 
+ time  =
+ 
+    22.045264  
+ 
+ 
+Time required = 22 sec 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH20/EX20.6/Ex20_6.sce #
+ 
+ 
+ 
+ h  =
+ 
+    2.  
+ 
+ delta  =
+ 
+    0.1666667  
+ 
+ t  =
+ 
+    125.  
+ 
+ t0  =
+ 
+    100.  
+ 
+ ti  =
+ 
+    350.  
+ 
+ k  =
+ 
+    0.167  
+ 
+ rho  =
+ 
+    80.  
+ 
+ c  =
+ 
+    0.4  
+ 
+ 
+ Bi  =
+ 
+    1.996008  
+ 
+ tr  =
+ 
+    0.1  
+ 
+ tau  =
+ 
+    7.9840319  
+ 
+ tr2  =
+ 
+    0.21  
+ 
+ tc  =
+ 
+    152.5  
+ 
+ 
+Cooling time = 7.98 hr 
+
+ Center temperature = 152 F 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH20/EX20.7/Ex20_7.sce #
+ 
+ 
+ 
+ h  =
+ 
+    2.5  
+ 
+ kc  =
+ 
+    0.1  
+ 
+ r1  =
+ 
+    0.4055  
+ 
+ 
+ r2c  =
+ 
+    0.48  
+ 
+ 
+Thin layer of insulation would increase the heat dissipation from wire, r2c = 0.48 in 
+ 
+ 
+grepthis#Elements_Of_Thermodynamics_And_Heat_Transfer_O._N._Young_2519/CH20/EX20.8/Ex20_8.sce #
+ 
+ 
+ 
+ F12  =
+ 
+    0.19  
+ 
+ F13  =
+ 
+    0.19  
+ 
+ FR3  =
+ 
+    0.19  
+ 
+ F2R  =
+ 
+    0.38  
+ 
+ J1  =
+ 
+    1714.  
+ 
+ Wb2  =
+ 
+    0.1714  
+ 
+ 
+ 
+ Upon solving the simultaneous equations   
+ 
+ Q1  =
+ 
+    1774.  
+ 
+ Q2  =
+ 
+  - 547.  
+ 
+ Q3  =
+ 
+  - 1227.  
+ 
+ J2  =
+ 
+    548.  
+ 
+ Tr  =
+ 
+    909.  
+ 
+ 
+Heat transfer rate from surface 1 = 1774 Btu/hr ft 
+
+ Heat transfer rate from surface 2 = -547 Btu/hr ft 
+
+ Heat transfer rate from surface 3 = -1227 Btu/hr ft 
+
+ Temperature of surface R = 909 R 
+ 

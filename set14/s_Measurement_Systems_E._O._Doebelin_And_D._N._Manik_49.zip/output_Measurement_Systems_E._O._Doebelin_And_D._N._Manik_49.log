@@ -1,0 +1,2319 @@
+Total number of .sce files(without counting DEPENDENCIES directory): 45
+
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH2/EX2.1/ex1.sce #
+ 
+ 
+ 
+ 
+ ts=0.1   
+ 
+ 
+ ps=2.5   
+ 
+ 
+ dT=20   
+ 
+ 
+ ts  =
+ 
+    0.1  
+ 
+ ps  =
+ 
+    2.5  
+ 
+ dT  =
+ 
+    20.  
+ 
+ P  =
+ 
+    120.  
+ 
+Warning : redefining function: error                   . Use funcprot(0) to avoid this message
+
+ 
+the error in measurement is 0.006667d percent
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH3/EX3.1/example1.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ me=7   
+ 
+ 
+ stddev=0.5   
+ 
+ 
+ x = 6     
+ 
+ 
+ y= 7.5   
+ 
+ 
+ 
+ x  =
+ 
+    6.  
+ 
+ y  =
+ 
+    7.5  
+ 
+ n  =
+ 
+    200.  
+ 
+ 
+ using    k =abs((x-me)/((2^0.5)*stddev));   
+ 
+ 
+Value of eta1 is 1.41 
+ 
+ 
+ 
+Value of eta2 is 0.71 
+ 
+ 
+ 
+ s  =
+ 
+    0.95  
+ 
+ 
+ l  =
+ 
+    0.68  
+ 
+ 
+ 
+probability of having length less than 6 cm is 0.975  
+probability of having length less than 67.5cm is 0.840  
+ 
+ 
+Number of samples in the given length range= 
+ 
+ 
+    27.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.1/ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ Rg=120   
+ 
+ 
+ E=200 *10^9   
+ 
+ 
+ dL=3    
+ 
+ 
+ dp=0.3   
+ 
+ 
+ v=0.3    
+ 
+ Rg  =
+ 
+    120.  
+ 
+ E  =
+ 
+    2.000D+11  
+ 
+ dL  =
+ 
+    3.  
+ 
+ dp  =
+ 
+    0.3  
+ 
+ v  =
+ 
+    0.3  
+ 
+ 
+ dp_p  =
+ 
+    0.003  
+ 
+ 
+ dR_R=dp_p+e*(1+2*v)   
+ 
+ dR_R  =
+ 
+    0.051  
+ 
+ 
+So the gage factor is 1.700000d 
+ 
+ u_dr  =
+ 
+    0.02  
+ 
+ 
+ Stress uncertainty is 19.6 MPa
+ 
+ 
+ u_e  =
+ 
+    0.0000980  
+ 
+Strain uncertainty is 0.000098d
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH5/EX5.1/ex1.sce #
+ 
+ 
+ 
+ 
+ 
+ Sg=2;   
+ 
+ 
+ Rg=120;   
+ 
+ 
+ v=0.3   
+ 
+ 
+ E=210*10^9;   
+ 
+ 
+ 
+ v  =
+ 
+    0.3  
+ 
+ 
+ Pd  =
+ 
+    1.  
+ 
+ 
+ sig_f  =
+ 
+    7.000D+08  
+ 
+ P_max  =
+ 
+    10000.  
+ 
+ 
+ 
+ Ei  =
+ 
+    21.908902  
+ 
+ 
+ 
+ 
+ x=(Sg*sig_f*(1+v))/(2*E)   
+ 
+a voltmeter with a maximum range of 94.94 mV is suitable for measurement 
+ 
+ Round it off to get the suitable range voltmeter   
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.1/ex1.sce #
+ 
+ 
+ 
+ D1  =
+ 
+    0.1  
+ 
+ D2  =
+ 
+    0.01  
+ 
+ 
+ pho_air  =
+ 
+    1.23  
+ 
+ pho_liquid  =
+ 
+    1200.  
+ 
+ h  =
+ 
+    1.  
+ 
+ 
+ 
+ The pressure difference is given by:   
+ 
+ 
+ P=h*(1+((D2/D1)^2)*g*(pho_liquid-pho_air))   
+ 
+ 
+So the pressure difference is given by 0.12 kPa 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.1/ex1.sce #
+ 
+ 
+ 
+ t  =
+ 
+    293.  
+ 
+ p1  =
+ 
+    100000.  
+ 
+ v  =
+ 
+    10.  
+ 
+ 
+ 
+ Density is given by:   
+ 
+ 
+ pho1=p1/(R*t);   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wp  =
+ 
+    1.  
+ 
+ 
+ Uncertainty in velocity is given by    
+ 
+ 
+ Wv=(1/2)*(2/(pho1*Pd))^0.5*Wp;   
+ 
+ 
+ 
+So the percentage uncertainty in the measurement of velocity is 0.840910d % 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH8/EX8.1/ex1.sce #
+ 
+ 
+ 
+ t1  =
+ 
+    100.  
+ 
+ e1  =
+ 
+    5.  
+ 
+ t2  =
+ 
+    445.  
+ 
+ e2  =
+ 
+    25.  
+ 
+ 
+ 
+ 
+ 
+ 
+ B  =
+ 
+    5.     0.  
+    25.    0.  
+ 
+ 
+ 
+    0.0482088    0.  
+    0.0000179    0.  
+ 
+ 
+value of constants a and b are 0.048209d V/deg cent and 0.000018d V/deg cent respectively 
+ 
+ 
+ 
+ 
+ 
+    1.9570103  
+ 
+ 
+ 
+ 
+ 
+ 
+    79.719405  
+ 
+Hot junction temperature is 79.7 deg cent  
+ 
+ 
+ 
+ 
+ 
+    26.625468  
+ 
+emf when the hot junction is at 500 and cold at 40 is 26.6 mV  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH3/EX3.2/example2.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ R=1202    
+ 
+ 
+ F=45   
+ 
+ 
+ L=0.397    
+ 
+ 
+ t=60   
+ 
+ R  =
+ 
+    1202.  
+ 
+ F  =
+ 
+    45.  
+ 
+ L  =
+ 
+    0.397  
+ 
+ t  =
+ 
+    60.  
+ 
+ 
+ 
+ 
+ 
+    49.971639  
+ 
+ 
+ 
+ 
+ 
+ 
+ f=0.18   
+ 
+ 
+ r=1    
+ 
+ 
+ l=0.00127    
+ 
+ 
+ t=0.5   
+ 
+ 
+ Ea=(dWF*f)+(dWR*r)+(dWL*l)+abs(dWt*t);    
+ 
+ f  =
+ 
+    0.18  
+ 
+ r  =
+ 
+    1.  
+ 
+ l  =
+ 
+    0.00127  
+ 
+ t  =
+ 
+    0.5  
+ 
+ 
+The absolute error is   
+ 
+    36.798728  
+ 
+ 
+ U  =
+ 
+    22.075337  
+ 
+Total uncertainty is  
+ 
+    22.075337  
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.2/ex2.sce #
+ 
+ 
+ 
+ Eh  =
+ 
+    0.000625  
+ 
+ Ea  =
+ 
+    0.000147  
+ 
+ E  =
+ 
+    2.000D+11  
+ 
+ 
+ 
+ 
+Circumferential stress (hoops stress) is 147.1 MPa
+ 
+ 
+Axial stress is 73.52 M Pa
+ 
+ 
+ 
+ Let the ratio be represented by RR   
+ 
+ 
+Ratio of stresses is 2.000299d
+ 
+ 
+ Let the ratio of strains be represented by SS   
+ 
+ 
+THe ratio of strains is 4.25 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH5/EX5.2/ex2.sce #
+ 
+ 
+ 
+ 
+ b=.2   
+ 
+ 
+ h=.05   
+ 
+ 
+ Sg=2   
+ 
+ 
+ Rg=120   
+ 
+ 
+ sig_f=150*10^6   
+ 
+ b  =
+ 
+    0.2  
+ 
+ h  =
+ 
+    0.05  
+ 
+ 
+ 
+ sig_f  =
+ 
+    1.500D+08  
+ 
+ 
+ 
+ 
+ 
+(dE/V)_max= 4285714.285714d
+  
+ P_max  =
+ 
+    100000.  
+ 
+ 
+ 
+ 
+Sensitivity of this load cell is 42.86 nV/N/per unit excitation 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.2/ex2.sce #
+ 
+ 
+ 
+ pho_l  =
+ 
+    900.  
+ 
+ 
+ pho_l=900    
+ 
+ Pa  =
+ 
+    500000.  
+ 
+ 
+ Pa= 500000    
+ 
+ t  =
+ 
+    298.  
+ 
+ 
+ t=298    
+ 
+ 
+ 
+ R=287;   
+ 
+ 
+ 
+ 
+ pho_a=Pa/(R*T);   
+ 
+ 
+The density of air is 3.051069d kg/m^3 
+ 
+ h  =
+ 
+    0.2  
+ 
+ 
+ Pres_diff=(g*h)*(pho_l-pho_a)   
+ 
+ Pres_diff  =
+ 
+    1.7598138  
+ 
+The differential pressure is 1.76 kPa
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.2/ex2.sce #
+ 
+ 
+ 
+ 
+ 
+ C0+C1(v)^.5)(Tw-Tf)=Iw^2Rw   
+ 
+ 
+ Rw= Rr[1+a(Tw-Tr)]   
+ 
+ 
+ Rw/Rr=1+a(Tw-Tr)   
+ 
+ 
+ Tw-Tr=1/a[Rw/Rr-1]   
+ 
+ 
+ Tw=1/a[Rw/Rr-1]+Tr   
+ 
+ 
+ Co+C1(v)^0.5=Iw^2Rw/Tw-Tf   
+ 
+ 
+ so,   
+ 
+ 
+ v=1/C1[{Iw^2Rw/(1/a[Rw/Rr-1]+Tr-Tf)]}^2-C0   
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH8/EX8.2/ex2.sce #
+ 
+ 
+ 
+ h  =
+ 
+    0.02  
+ 
+emf per thermocouple is  0.02 mV 
+ 
+ 
+ 
+ E1  =
+ 
+    5.27  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Required temperature difference is 100.36 deg cent  
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH5/EX5.3/ex3.sce #
+ 
+ 
+ 
+ 
+ 
+ Ei  =
+ 
+    10.  
+ 
+ A  =
+ 
+    0.0005  
+ 
+ 
+ 
+ 
+Sensitivity of this load cell is 0.13 micro V/N
+ 
+ Rg  =
+ 
+    120.  
+ 
+ Pd  =
+ 
+    1.  
+ 
+ Ei_max  =
+ 
+    21.908902  
+ 
+ Se_max  =
+ 
+    0.2848157  
+ 
+The maximum density that can be achieved without endangering the strain gage sensors is 0.28micro V/N
+ 
+ 
+ sig_f  =
+ 
+    6.000D+08  
+ 
+ Em  =
+ 
+    3.9  
+ 
+The voltage ratio is 3.9 mV/V 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.3/ex3.sce #
+ 
+ 
+ 
+ Sa  =
+ 
+    1000.  
+ 
+ 
+ Sa=1000   
+ 
+ 
+ E  =
+ 
+    2.000D+11  
+ 
+ 
+ E=200*10^9    
+ 
+ v  =
+ 
+    0.3  
+ 
+ 
+ v=0.3    
+ 
+ d  =
+ 
+    0.2  
+ 
+ 
+ d=0.2     
+ 
+ 
+ P_max  =
+ 
+    2000000.  
+ 
+ 
+ P_max=2*10^6    
+ 
+ p  =
+ 
+    7800.  
+ 
+ 
+ Thickness is given by:   
+ 
+ 
+ t=(3*P_max*R^4*(1-v^4)/(4*E))^(1/4);   
+ 
+ t  =
+ 
+    0.0052225  
+ 
+ 
+Thickness is 5.2 mm
+ 
+ 
+ y  =
+ 
+    0.001  
+ 
+ p_min  =
+ 
+    1669.6837  
+ 
+So the minimum pressure and resolution is 1669 Pa 
+ 
+ f  =
+ 
+    8170.7968  
+ 
+The natural frequency of diaphragm is 8170.796756d Hz 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.3/ex3.sce #
+ 
+ 
+ 
+ dp  =
+ 
+    0.02  
+ 
+ dt  =
+ 
+    0.01  
+ 
+ 
+ 
+ u  =
+ 
+    0.00086  
+ 
+ 
+ 
+ 
+ Minimum flow rate is given by:   
+ 
+ 
+ mdot_min=%pi*dp*u*Rn_min/4   
+ 
+ mdot_min  =
+ 
+    0.1350885  
+ 
+ 
+Minimum flow rate at 25 deg cent is 0.135 kg/s
+ 
+ pf  =
+ 
+    1000.  
+ 
+ At  =
+ 
+    0.0000785  
+ 
+ pm  =
+ 
+    13.6  
+ 
+ 
+ 
+ 
+ To calculate the mercury reading corresponding to minimum flow, using-   
+ 
+ 
+ h_min=((mdot_min*sqrt(1-B^4))/((sqrt(2*g*(pm-pf/pf))*pf*At*Cd)))^2;   
+ 
+ 
+ 
+ H_min  =
+ 
+    12.434261  
+ 
+So the pressure reading observed for the given flow ratre is 12.4  mm of Hg
+ 
+ h_max  =
+ 
+    0.25  
+ 
+ 
+The maximum flow rate is 0.6 kg/s
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH8/EX8.3/ex3.sce #
+ 
+ 
+ 
+ s  =
+ 
+    0.2  
+ 
+ d  =
+ 
+    0.0004  
+ 
+ 
+ 
+ R  =
+ 
+    100.  
+ 
+ 
+ 
+ 
+Length corresponding to resistance 100 ohm and diameter 0.4mm is 0.015708d m
+ 
+ d  =
+ 
+    0.002  
+ 
+ 
+ R  =
+ 
+    100.  
+ 
+ 
+ 
+Length corresponding to resistance 100 ohm and diameter 2mm is 0.39 m
+ 
+ 
+ 
+ t  =
+ 
+  - 50.  
+ 
+ 
+Resistance at temperature -50 is 86.000000 ohm 
+ 
+ t2  =
+ 
+    100.  
+ 
+ 
+Resistance at temperature 100 is 116.000000 ohm
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.4/ex4.sce #
+ 
+ 
+ 
+ 
+ h=.005   
+ 
+ 
+ A=200*10^-6   
+ 
+ 
+ n=0.03   
+ 
+ h  =
+ 
+    0.005  
+ 
+ A  =
+ 
+    0.0002  
+ 
+ n  =
+ 
+    0.03  
+ 
+ w  =
+ 
+    0.014  
+ 
+ er  =
+ 
+    1.  
+ 
+ 
+ 
+ 
+sensitivity of the transducer is 70.80 pF/m 
+ 
+ 
+ 
+the sensitivity of the square moving plate sensor is 24.78 pF/m  
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH5/EX5.4/ex4.sce #
+ 
+ 
+ 
+ mc  =
+ 
+    0.04  
+ 
+ m  =
+ 
+    0.01  
+ 
+ k  =
+ 
+    1.000D+09  
+ 
+ Sf  =
+ 
+    0.005  
+ 
+ Xi  =
+ 
+    0.0001  
+ 
+ Eo  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+Relative displacement is 0.000000d 
+ 
+ wnc^2 is approx. 10^9. So,   
+ 
+ 
+ Z is approx. 20nm(rms)   
+ 
+ 
+ 
+ 
+Actual force transmitted to the plate is 18.026079d N 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.4/ex4.sce #
+ 
+ 
+ 
+ p_max  =
+ 
+    10000000.  
+ 
+ D  =
+ 
+    0.05  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t  =
+ 
+    0.0019108  
+ 
+ 
+    0.0019108  
+ 
+thickness comes out to be 0.001911d m
+ 
+ Sr_max  =
+ 
+    1.284D+09  
+ 
+So the max radial stress is 1283881477.532739d Pa
+ 
+The given fatigue strength is 500MPa
+ 
+ 
+ The diaphragm must be redesigned   
+The required thickness is 0.003062d m
+ 
+ 
+ Err  =
+ 
+    2.4873333  
+ 
+The voltage ratio is 2.487333d
+ 
+ 
+ PT  =
+ 
+    1.  
+ 
+ RT  =
+ 
+    120.  
+ 
+ 
+ 
+ Let the sensitivity of the transducer be represented by ss   
+ 
+ ss  =
+ 
+    0.0000054  
+ 
+sensitivity is 0.000005d
+ 
+ 
+ S_LVDT  =
+ 
+    5206.9788  
+ 
+SENSITIVITY OF LVDT IS 5206.978778d 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.4/ex4.sce #
+ 
+ 
+ 
+ dt  =
+ 
+    0.15  
+ 
+ dp  =
+ 
+    0.3  
+ 
+ 
+ 
+ pm  =
+ 
+    13600.  
+ 
+ 
+ 
+ 
+ pf  =
+ 
+    995.8  
+ 
+ h  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ mdot_25  =
+ 
+    121.67982  
+ 
+ 
+ Mass flow is given by :   
+ 
+ 
+ mdot=pf*At*Cd*(1/(1-B^4)^(1/2))*sqrt(2*g*((pm/pf)-1)*sqrt h)   
+ 
+So the mass flow at 25 deg cent   is 121.679823d kg/s
+ 
+ 
+ 
+ 
+ pf  =
+ 
+    999.8  
+ 
+ h  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ mdot  =
+ 
+    121.90462  
+ 
+ 
+ The mass flow at 0 deg cent is 121.904616d kg/s
+ 
+ 
+ 
+ 
+ 
+ Change in temperature of water introduces insignificant error in mass flow measurement i.e. 0.18% 
+ 
+ pf  =
+ 
+    988.8  
+ 
+ h  =
+ 
+    0.2  
+ 
+ 
+ 
+ 
+ mdot  =
+ 
+    121.28506  
+ 
+ 
+  The mass flow at 50 deg cent is 121.285058d kg/s
+ 
+ 
+ 
+ 
+ 
+Therefore, change in temperature of water introduces insignificant error in mass flow measurement i.e. 0.32% 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH8/EX8.4/ex4.sce #
+ 
+ 
+ 
+ To  =
+ 
+    293.  
+ 
+ Ro  =
+ 
+    1000.  
+ 
+ B  =
+ 
+    3450.  
+ 
+ Rt  =
+ 
+    2500.  
+ 
+ 
+ 
+ Temperature is given by:   
+ 
+ 
+ T=1/((1/To)+(1/B)*log(Rt/Ro));   
+ 
+The temperature corresponding to resistance of 2500 ohm is 271.845 K 
+  
+ Wrt  =
+ 
+    5.  
+ 
+ Wro  =
+ 
+    2.  
+ 
+ 
+ 
+ 
+ 
+ Error in temperature measurement is given by:   
+ 
+ 
+ Wt=sqrt((DRt*Wrt)^2+(DRo*Wro)^2);   
+ 
+ 
+Error in the required temperature measurement is 0.0606 K 
+ 
+So the required temperature is 271+_0.0606 K 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH3/EX3.5/example5.sce #
+ 
+ 
+ 
+ 
+ d  =
+ 
+    0.004  
+ 
+ p  =
+ 
+    13600.  
+ 
+ c  =
+ 
+    150.  
+ 
+ U  =
+ 
+    40.  
+ 
+ 
+ 
+ 
+ 
+ 
+    34000.  
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.5/ex5.sce #
+ 
+ 
+ 
+ g  =
+ 
+    15.  
+ 
+ A  =
+ 
+    0.0000196  
+ 
+ f  =
+ 
+    50.  
+ 
+ eoer  =
+ 
+    1.500D-08  
+ 
+ E  =
+ 
+    1.200D+11  
+ 
+ t  =
+ 
+    0.003  
+ 
+ 
+Charge sensitivity is 176.714587d mC/m 
+ 
+ 
+ 
+ 
+ 
+ Ramp  =
+ 
+    2000000.  
+ 
+ 
+ 
+ 
+ 
+ EOP  =
+ 
+    0.0016279  
+ 
+The amplitude ratio is 0.001628d mV/V
+ 
+ 
+ 
+ The phase lag is 35.905751d deg 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH5/EX5.5/ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ G  =
+ 
+    8.000D+10  
+ 
+ D  =
+ 
+    0.05  
+ 
+ dR  =
+ 
+    0.1  
+ 
+ 
+ 
+ 
+ 
+ 
+The load torque is1636.246174d N-m 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.5/ex5.sce #
+ 
+ 
+ 
+ p_max  =
+ 
+    10000000.  
+ 
+ fn  =
+ 
+    20000.  
+ 
+ 
+ 
+ p  =
+ 
+    7800.  
+ 
+ 
+ Let t/R be represented by TR    
+ 
+ TR  =
+ 
+    0.0764308  
+ 
+ 
+ r2t  =
+ 
+    0.7822618  
+ 
+ 
+value of R is 0.059789d m
+ 
+ 
+ 
+ value of t is 0.004570d m 
+ 
+ 
+ eo  =
+ 
+    8.850D-12  
+ 
+ 
+ d  =
+ 
+    0.001  
+ 
+ 
+ 
+ q  =
+ 
+    1.142D-10  
+ 
+ 
+ 
+ So the total sensitivity of the pressure transducer is given by -11.36 pF/MPa
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.5/ex5.sce #
+ 
+ 
+ 
+ dt  =
+ 
+    0.1  
+ 
+ dp  =
+ 
+    0.2  
+ 
+ 
+ g  =
+ 
+    9.81  
+ 
+ 
+ 
+ pf  =
+ 
+    780.  
+ 
+ pm  =
+ 
+    1000.  
+ 
+ 
+ 
+ 
+The ideal volume flow rate sensitivity is 0.0191 (m^3/s/h^0.5)
+ 
+ 
+ 
+ Actual volume rate sensitivity is given by :   
+ 
+ 
+ S_actual=S_ideal/Cd   
+ 
+ 
+The actual volume rate sensitivity is 0.0201 
+ 
+ h  =
+ 
+    0.3  
+ 
+ 
+ Actual volume flow rate is given by:   
+ 
+ 
+ Q_actual=S_actual*sqrt(h)   
+ 
+ 
+The actual volume flow rate is 0.011 m^3/s
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH8/EX8.5/ex5.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ TI  =
+ 
+    1200.  
+ 
+ Ti  =
+ 
+    1473.  
+ 
+ 
+ Ti=TI+273   
+ 
+ lamda  =
+ 
+    0.0000007  
+ 
+ epsilon  =
+ 
+    0.6  
+ 
+ C2  =
+ 
+    0.014387  
+ 
+ 
+ Actual temperature is given by :   
+ 
+ 
+ Ta=(Ti*C2)/(C2-lamda*Ti*log(epsilon));   
+ 
+ 
+ 
+Actual temperature of the body is 1147 
+ 
+ 
+ 
+ 
+Indicated temperature in degree celsius of the total radiation pyrometer is 977 degree cent 
+ 
+ 
+ 
+Error using Optical Pyrometer is -52 K 
+ 
+ 
+Error using Radiation Pyrometer is 170 K 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH3/EX3.6/example6.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T  =
+ 
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    27.081104  
+ 
+Temperature at the end of first interval 
+ 
+    27.081104  
+ 
+ 
+ T  =
+ 
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    27.081104  
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    61.334824  
+ 
+Temperature at the end of second interval 
+ 
+    61.334824  
+ 
+ 
+ T  =
+ 
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    27.081104  
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    61.334824  
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    0.         
+    47.43969   
+ 
+Temperature at the end of third interval 
+ 
+    47.43969  
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.6/ex6.sce #
+ 
+ 
+ 
+ R1  =
+ 
+    100.  
+ 
+ 
+ R1=100   
+ 
+ 
+ 
+ b=25*10^-12;   
+ 
+ 
+ u=0.5   
+ 
+ u  =
+ 
+    0.5  
+ 
+ 
+ 
+ 
+So the maximum uncertainty in measuring resistance is 0.000124d ohm 
+ 
+ 
+ Ei  =
+ 
+    5.  
+ 
+ 
+ p1=0.1*10^6   
+ 
+ 
+ R2=R1*(1+b*p1)   
+ 
+ 
+ p2=10*10^6    
+ 
+ p1  =
+ 
+    100000.  
+ 
+ R2  =
+ 
+    100.00025  
+ 
+ p2  =
+ 
+    10000000.  
+ 
+ 
+ 
+ 
+ Eo  =
+ 
+    0.0003094  
+ 
+ The output bridge voltage is 0.000309d volt
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.6/ex6.sce #
+ 
+ 
+ 
+ 
+ Let uncertainty in mass flow rate be represented by wm   
+ 
+ 
+ Let uncertainty with pressure be represented by wp   
+ 
+ 
+ Let uncertainty with temperature measurement be represented by wt   
+ 
+ 
+ wm_m  =
+ 
+    0.02  
+ 
+ wp_p  =
+ 
+    0.01  
+ 
+ 
+ Uncertainty in temperature is given by:   
+ 
+ 
+ wt_t=2*sqrt(wm_m^2-wp_p^2)*100   
+ 
+ wt_t  =
+ 
+    3.4641016  
+ 
+uncertainty in the temperature measurement is 3.46 %
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH3/EX3.7/example7.sce #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sinusoidal transfer function at 2 rad/sec is 
+ 
+    0.9284767  
+ 
+ 
+  - 21.801409  
+ 
+sinusoidal transfer function at 20rad/sec is 
+ 
+    0.2425356  
+ 
+ 
+  - 75.963757  
+ 
+ 
+qo/K can be written as 
+ 
+      qo=0.93K sin(2t-21.8)+(0.24K) 0.3sin(20t-76) 
+ 
+ 
+ 
+ 
+ 
+sinusoidal transfer function at 2 rad/sec is 
+ 
+    0.999992  
+ 
+ 
+  - 0.2291819  
+ 
+sinusoidal transfer function at 20rad/sec is 
+ 
+    0.9992010  
+ 
+ 
+  - 2.29061  
+ 
+qo/K can be written as 
+ 
+      qo=K sin(2t-0.23)+K 0.3sin(20t-2.3) 
+Clearly, this instrument measures the given qi faithfully 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.7/ex7.sce #
+ 
+ 
+ 
+ 
+ ty=0.6   
+ 
+ 
+ fn=10   
+ 
+ 
+ f=25   
+ 
+ 
+ M=0.15   
+ 
+ 
+ xo=1.5*10^-3   
+ 
+ ty  =
+ 
+    0.6  
+ 
+ fn  =
+ 
+    10.  
+ 
+ f  =
+ 
+    25.  
+ 
+ M  =
+ 
+    0.15  
+ 
+ xo  =
+ 
+    0.0015  
+ 
+ 
+ 
+ xi=xo/((r^2)/sqrt((1-r^2)^2+(2*ty*r)^2));   
+ 
+ 
+Warning : redefining function: error                   . Use funcprot(0) to avoid this message
+
+ 
+error in measurement is -0.032529d
+ 
+ 
+ 
+spring constant is 592.176264d N/m
+ 
+ 
+ damping coefficient of pickup is 11.309734dN-s/m
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.7/ex7.sce #
+ 
+ 
+ 
+ 
+ Vb=150*10^-6   
+ 
+ 
+ d=1.5*10^-3   
+ 
+ 
+ a=%pi*d^2/4;   
+ 
+ Vb  =
+ 
+    0.00015  
+ 
+ d  =
+ 
+    0.0015  
+ 
+ 
+ p  =
+ 
+    0.00004  
+ 
+ 
+ 
+ 
+ y  =
+ 
+    0.0582493  
+ 
+The gage reading comes out to be 0.058249d mof Hg
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.7/ex7.sce #
+ 
+ 
+ 
+ p1  =
+ 
+    5000000.  
+ 
+ t1  =
+ 
+    298.  
+ 
+ m_max  =
+ 
+    1.  
+ 
+ m_min  =
+ 
+    0.3  
+ 
+ Re_min  =
+ 
+    100000.  
+ 
+ 
+ 
+ 
+ mu  =
+ 
+    0.0000185  
+ 
+ 
+ 
+So the throat diameters for maximum and minimum flows so the reynolds number does not exceed 10^5 are 0.6897 m and 0.2069 m respectively
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The differential pressure for maximum flow rate is 0.05848 Pa
+ 
+ 
+The differential pressure for minimum flow rate is 5.26 mPa
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.8/ex8.sce #
+ 
+ 
+ 
+ 
+ fn=4   
+ 
+ 
+ S=500   
+ 
+ 
+ m=0.2   
+ 
+ 
+ v=1.5*10^-2   
+ 
+ fn  =
+ 
+    4.  
+ 
+ S  =
+ 
+    500.  
+ 
+ m  =
+ 
+    0.2  
+ 
+ v  =
+ 
+    0.015  
+ 
+ f  =
+ 
+    10.  
+ 
+ 
+ tou  =
+ 
+    0.2  
+ 
+ 
+ 
+The peak voltage corresponding to 10Hz frequency is 8.770880d mV
+ 
+ 
+phase angle corresponding to the 10 Hz frequency is -10.784298d deg
+ 
+ f2  =
+ 
+    20.  
+ 
+ 
+ 
+The peak voltage corresponding to 20Hz frequency is 7.785514d mV
+ 
+ 
+phase angle corresponding to the 20 Hz frequency is -4.763642d deg
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.8/ex8.sce #
+ 
+ 
+ 
+ 
+ Td=40   
+ 
+ 
+ Tv=300   
+ 
+ 
+ p=2*10^-6   
+ 
+ Td  =
+ 
+    40.  
+ 
+ Tv  =
+ 
+    300.  
+ 
+ p  =
+ 
+    0.000002  
+ 
+ 
+ 
+ 
+So the  required force is 88.9 N 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH7/EX7.8/ex8.sce #
+ 
+ 
+ 
+ Qd  =
+ 
+    0.0016667  
+ 
+ t  =
+ 
+    298.  
+ 
+ d  =
+ 
+    0.03  
+ 
+ L  =
+ 
+    0.5  
+ 
+ D  =
+ 
+    0.03  
+ 
+ Vb  =
+ 
+    0.000025  
+ 
+ Af  =
+ 
+    0.0007068  
+ 
+ 
+ 
+ 
+ Tube taper is given by:   
+ 
+ 
+ a=(Qd*2)/(%pi*D*y*j^(1/2))   
+ 
+ 
+tube taper is 0.0849 m/m(taper)
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.9/ex9.sce #
+ 
+ 
+ 
+ 
+ Ccr=1200   
+ 
+ 
+ Kq=100   
+ 
+ 
+ Cc=250   
+ 
+ Ccr  =
+ 
+    1200.  
+ 
+ Kq  =
+ 
+    100.  
+ 
+ Cc  =
+ 
+    250.  
+ 
+ 
+ 
+the sensitivity of the transducer alone is 0.083333d V/micro m
+ 
+ Camp  =
+ 
+    75.  
+ 
+ Ceq  =
+ 
+    1525.  
+ 
+ 
+total sensitivity of the transducer is 0.065574dV/micro m
+ 
+ Ramp  =
+ 
+    2000000.  
+ 
+ 
+ tou=Ramp*Ceq*10^-12   
+ 
+ 
+ e  =
+ 
+    5.  
+ 
+ 
+ 
+ 
+ 
+The lowest frequency that can be measured with 5 per cent amplitude error by the entire system is 158.760183d Hz
+ 
+ tou1  =
+ 
+    0.0048422  
+ 
+ 
+ Ceq1=tou1*10^12/Ramp   
+ 
+ Ceq1  =
+ 
+    2421.0928  
+ 
+ 
+ The capacitance that needs to be connected in parallel to extend the range of 5percent error to 100hz is 896.092785d pF
+ 
+ K_hf  =
+ 
+    0.0413037  
+ 
+high frequency sensitivity is 0.041304d V/micro m
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.9/ex9.sce #
+ 
+ 
+ 
+ 
+ Lp=104   
+ 
+ Lp  =
+ 
+    104.  
+ 
+ 
+ pa=20*10^-6;   
+ 
+ 
+ p=sqrt(10^(Lp/10)*pa^2);   
+ 
+ 
+ 
+root mean square sound pressure is 3.170Pa
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.10/ex10.sce #
+ 
+ 
+ 
+ 
+ r1=0.2;   
+ 
+ 
+ r2=0.6    
+ 
+ 
+ tou=0.05   
+ 
+ 
+ r2  =
+ 
+    0.6  
+ 
+ 
+ wn  =
+ 
+    1600.  
+ 
+ 
+ H1=1/sqrt((1-r1^2)^2+(2*tou*r1)^2)   
+ 
+ 
+ 
+ 
+ H1_phase=-atan((2*tou*r1)/(1-r1^2))*360/(2*%pi)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the magnitude of the transfer function will be 1.041441d and 1.555678d while the phases will shift by -1.193489d and -5.355825d for tou=0.05
+ 
+the magnitude of the transfer function will be 1.010565d and 1.038068d while the phases will shift by -14.036243d and -48.366461d for tou=0.6
+ 
+ 
+ 
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH6/EX6.10/ex10.sce #
+ 
+ 
+ 
+ Lp1  =
+ 
+    75.  
+ 
+ Lp2  =
+ 
+    77.  
+ 
+ Lp3  =
+ 
+    79.  
+ 
+ 
+ Since the noise levels are incoherent,the total sound pressure is the sum of t 
+      he mean square value of the individual sound pressures                    
+ 
+ 
+ Lp_total=10*log10(10^(Lp1/10)+10^(Lp2/10)+10^(Lp3/10))   
+ 
+ 
+The total sound pressure is 82dB 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.11/ex11.sce #
+ 
+ 
+ 
+ 
+ fn=20000   
+ 
+ 
+ tou=0.6   
+ 
+ 
+ f=10000    
+ 
+ fn  =
+ 
+    20000.  
+ 
+ tou  =
+ 
+    0.6  
+ 
+ f  =
+ 
+    10000.  
+ 
+ 
+ 
+ 
+ The magnitude is 1.041158d and phase is 38.659808d deg
+ 
+Warning : redefining function: error                   . Use funcprot(0) to avoid this message
+
+ 
+ Error at 10000.000000d Hz is 4 percent
+ 
+ 
+grepthis#Measurement_Systems_E._O._Doebelin_And_D._N._Manik_49/CH4/EX4.12/ex12.sce #
+ 
+ 
+ 
+ 
+ Sg  =
+ 
+    2.  
+ 
+ 
+ Ia  =
+ 
+    0.03  
+ 
+ 
+ 
+ 
+ 
+ 
+output voltage is 0.000126d V
+ 
+ 
+ T  =
+ 
+    300.  
+ 
+ dF  =
+ 
+    100000.  
+ 
+ E_noise  =
+ 
+    0.0000004  
+ 
+rms noise voltage is 0.000000d V
+ 
+ 
+Signal to noise ratio is 282.650499d
+ 
